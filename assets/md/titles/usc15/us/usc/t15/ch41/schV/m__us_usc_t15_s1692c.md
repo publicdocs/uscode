@@ -45,7 +45,7 @@
 
         For the purpose of this section, the term “consumer” includes the consumer’s spouse, parent (if the consumer is a minor), guardian, executor, or administrator.
 
-([Pub. L. 90–321, title VIII, § 805][/us/pl/90/321/s805], as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 876][/us/stat/91/876].)
+([Pub. L. 90–321, title VIII][/us/pl/90/321/tVIII], § 805, as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 876][/us/stat/91/876].)
 
 ----------
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t15/s1692b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1692b
-[/us/pl/90/321/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs805
+[/us/pl/90/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVIII
 [/us/pl/95/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F109
 [/us/stat/91/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F876
 

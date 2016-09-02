@@ -55,7 +55,7 @@
 
         No provision of this section shall be construed to prevent any State-licensed private investigator, or any officer, employee, or agent of such private investigator, from obtaining customer information of a financial institution, to the extent reasonably necessary to collect child support from a person adjudged to have been delinquent in his or her obligations by a Federal or State court, and to the extent that such action by a State-licensed private investigator is not unlawful under any other Federal or State law or regulation, and has been authorized by an order or judgment of a court of competent jurisdiction.
 
-([Pub. L. 106–102, title V, § 521][/us/pl/106/102/s521], Nov. 12, 1999, [113 Stat. 1446][/us/stat/113/1446].)
+([Pub. L. 106–102, title V][/us/pl/106/102/tV], § 521, Nov. 12, 1999, [113 Stat. 1446][/us/stat/113/1446].)
 
 ----------
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t15/s78c/a/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F47
-[/us/pl/106/102/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs521
+[/us/pl/106/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtV
 [/us/stat/113/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1446
 
 

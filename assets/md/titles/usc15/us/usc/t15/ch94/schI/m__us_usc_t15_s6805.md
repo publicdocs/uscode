@@ -63,7 +63,7 @@
 
         The terms used in subsection (a)(1) that are not defined in this subchapter or otherwise defined in [section 1813(s) of title 12][/us/usc/t12/s1813/s] shall have the same meaning as given in [section 3101 of title 12][/us/usc/t12/s3101].
 
-([Pub. L. 106–102, title V, § 505][/us/pl/106/102/s505], Nov. 12, 1999, [113 Stat. 1440][/us/stat/113/1440]; [Pub. L. 111–203, title X, § 1093(4)][/us/pl/111/203/s1093/4], (5), July 21, 2010, [124 Stat. 2096][/us/stat/124/2096], 2097.)
+([Pub. L. 106–102, title V][/us/pl/106/102/tV], § 505, Nov. 12, 1999, [113 Stat. 1440][/us/stat/113/1440]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1093(4), (5), July 21, 2010, [124 Stat. 2096][/us/stat/124/2096], 2097.)
 
  __References in Text__ 
 
@@ -85,21 +85,21 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 1093(4)(A)][/us/pl/111/203/s1093/4/A], substituted “Subject to subtitle B of the Consumer Financial Protection Act of 2010, this subchapter and the regulations prescribed thereunder shall be enforced by the Bureau of Consumer Financial Protection, the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:” for “This subchapter and the regulations prescribed thereunder shall be enforced by the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:”.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 1093(4)(A), substituted “Subject to subtitle B of the Consumer Financial Protection Act of 2010, this subchapter and the regulations prescribed thereunder shall be enforced by the Bureau of Consumer Financial Protection, the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:” for “This subchapter and the regulations prescribed thereunder shall be enforced by the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:”.
 
-    Subsec. (a)(1). [Pub. L. 111–203, § 1093(4)(B)(i)][/us/pl/111/203/s1093/4/B/i], inserted “by the appropriate Federal banking agency, as defined in [section 1813(q) of title 12][/us/usc/t12/s1813/q],” before “in the case of—”.
+    Subsec. (a)(1). [Pub. L. 111–203][/us/pl/111/203], § 1093(4)(B)(i), inserted “by the appropriate Federal banking agency, as defined in [section 1813(q) of title 12][/us/usc/t12/s1813/q],” before “in the case of—”.
 
-    Subsec. (a)(1)(A). [Pub. L. 111–203, § 1093(4)(B)(ii)][/us/pl/111/203/s1093/4/B/ii], struck out “, by the Office of the Comptroller of the Currency” before semicolon at end.
+    Subsec. (a)(1)(A). [Pub. L. 111–203][/us/pl/111/203], § 1093(4)(B)(ii), struck out “, by the Office of the Comptroller of the Currency” before semicolon at end.
 
-    Subsec. (a)(1)(B). [Pub. L. 111–203, § 1093(4)(B)(iii)][/us/pl/111/203/s1093/4/B/iii], struck out “, by the Board of Governors of the Federal Reserve System” before semicolon at end.
+    Subsec. (a)(1)(B). [Pub. L. 111–203][/us/pl/111/203], § 1093(4)(B)(iii), struck out “, by the Board of Governors of the Federal Reserve System” before semicolon at end.
 
-    Subsec. (a)(1)(C). [Pub. L. 111–203, § 1093(4)(B)(iv)][/us/pl/111/203/s1093/4/B/iv], struck out “, by the Board of Directors of the Federal Deposit Insurance Corporation” before “; and”.
+    Subsec. (a)(1)(C). [Pub. L. 111–203][/us/pl/111/203], § 1093(4)(B)(iv), struck out “, by the Board of Directors of the Federal Deposit Insurance Corporation” before “; and”.
 
-    Subsec. (a)(1)(D). [Pub. L. 111–203, § 1093(4)(B)(v)][/us/pl/111/203/s1093/4/B/v], struck out “, by the Director of the Office of Thrift Supervision” before period at end.
+    Subsec. (a)(1)(D). [Pub. L. 111–203][/us/pl/111/203], § 1093(4)(B)(v), struck out “, by the Director of the Office of Thrift Supervision” before period at end.
 
-    Subsec. (a)(8). [Pub. L. 111–203, § 1093(4)(C)][/us/pl/111/203/s1093/4/C], added par. (8).
+    Subsec. (a)(8). [Pub. L. 111–203][/us/pl/111/203], § 1093(4)(C), added par. (8).
 
-    Subsec. (b)(1). [Pub. L. 111–203, § 1093(5)][/us/pl/111/203/s1093/5], inserted “, other than the Bureau of Consumer Financial Protection,” before “shall implement the standards”.
+    Subsec. (b)(1). [Pub. L. 111–203][/us/pl/111/203], § 1093(5), inserted “, other than the Bureau of Consumer Financial Protection,” before “shall implement the standards”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -131,9 +131,9 @@
 [/us/usc/t12/s1831x/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831x%2Fa
 [/us/usc/t12/s1813/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fs
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
-[/us/pl/106/102/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs505
+[/us/pl/106/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtV
 [/us/stat/113/1440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1440
-[/us/pl/111/203/s1093/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1093%2F4
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2096
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
@@ -154,15 +154,15 @@
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
-[/us/pl/111/203/s1093/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1093%2F4%2FA
-[/us/pl/111/203/s1093/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1093%2F4%2FB%2Fi
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t12/s1813/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fq
-[/us/pl/111/203/s1093/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1093%2F4%2FB%2Fii
-[/us/pl/111/203/s1093/4/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1093%2F4%2FB%2Fiii
-[/us/pl/111/203/s1093/4/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1093%2F4%2FB%2Fiv
-[/us/pl/111/203/s1093/4/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1093%2F4%2FB%2Fv
-[/us/pl/111/203/s1093/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1093%2F4%2FC
-[/us/pl/111/203/s1093/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1093%2F5
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

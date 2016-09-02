@@ -51,7 +51,7 @@
 
         Except with respect to enforcement of orders or subpenas under [section 3364(a) of this title][/us/usc/t15/s3364/a], the United States Court of Appeals for the Federal Circuit shall have exclusive original jurisdiction to review all civil cases and controversies under section 3361, 3362 or 3363 of this title, including any order issued, or other action taken, under such section. The United States Court of Appeals for the Federal Circuit shall have exclusive jurisdiction of all appeals from the district courts of the United States in cases and controversies arising under [section 3364(a)(2) of this title][/us/usc/t15/s3364/a/2]; such appeals shall be taken by the filing of a notice of appeal with the United States Court of Appeals for the Federal Circuit within thirty days after the entry of judgment by the district court. Prior to a final judgment, no court shall have jurisdiction to grant any injunctive relief to stay or defer the implementation of any order issued, or action taken, under section 3361, 3362, or 3363 of this title.
 
-([Pub. L. 95–621, title V, § 506][/us/pl/95/621/s506], Nov. 9, 1978, [92 Stat. 3404][/us/stat/92/3404]; [Pub. L. 101–60, § 3(a)(5)][/us/pl/101/60/s3/a/5], July 26, 1989, [103 Stat. 158][/us/stat/103/158]; [Pub. L. 102–572, title I, § 102(b)][/us/pl/102/572/s102/b], Oct. 29, 1992, [106 Stat. 4506][/us/stat/106/4506].)
+([Pub. L. 95–621, title V][/us/pl/95/621/tV], § 506, Nov. 9, 1978, [92 Stat. 3404][/us/stat/92/3404]; [Pub. L. 101–60][/us/pl/101/60], § 3(a)(5), July 26, 1989, [103 Stat. 158][/us/stat/103/158]; [Pub. L. 102–572, title I][/us/pl/102/572/tI], § 102(b), Oct. 29, 1992, [106 Stat. 4506][/us/stat/106/4506].)
 
  __Amendments__ 
 
@@ -79,11 +79,11 @@
 [/us/usc/t5/s551/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F4
 [/us/usc/t15/s3364/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3364%2Fa
 [/us/usc/t15/s3364/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3364%2Fa%2F2
-[/us/pl/95/621/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs506
+[/us/pl/95/621/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2FtV
 [/us/stat/92/3404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3404
-[/us/pl/101/60/s3/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fa%2F5
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
 [/us/stat/103/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F158
-[/us/pl/102/572/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs102%2Fb
+[/us/pl/102/572/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtI
 [/us/stat/106/4506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4506
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60

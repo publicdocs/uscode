@@ -23,7 +23,7 @@
 
         Except where otherwise expressly provided, the Commission is authorized to define, by rule, accounting, technical, and trade terms used in this chapter. Any such definition shall be consistent with the definitions set forth in this chapter.
 
-([Pub. L. 95–621, title V, § 501][/us/pl/95/621/s501], Nov. 9, 1978, [92 Stat. 3396][/us/stat/92/3396]; [Pub. L. 101–60, § 3(b)(4)][/us/pl/101/60/s3/b/4], July 26, 1989, [103 Stat. 159][/us/stat/103/159].)
+([Pub. L. 95–621, title V][/us/pl/95/621/tV], § 501, Nov. 9, 1978, [92 Stat. 3396][/us/stat/92/3396]; [Pub. L. 101–60][/us/pl/101/60], § 3(b)(4), July 26, 1989, [103 Stat. 159][/us/stat/103/159].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/95/621/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs501
+[/us/pl/95/621/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2FtV
 [/us/stat/92/3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3396
-[/us/pl/101/60/s3/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fb%2F4
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
 [/us/stat/103/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F159
 [/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
 [/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60

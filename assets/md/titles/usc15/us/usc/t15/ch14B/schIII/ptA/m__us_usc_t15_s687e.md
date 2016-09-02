@@ -171,7 +171,7 @@
 
                 The commencement of proceedings for judicial review under this paragraph shall not, unless specifically ordered by the court, operate as a stay of any order issued by the Administrator under this section.
 
-([Pub. L. 85–699, title III, § 313][/us/pl/85/699/s313], as added [Pub. L. 89–779, § 7][/us/pl/89/779/s7], Nov. 6, 1966, [80 Stat. 1360][/us/stat/80/1360]; amended [Pub. L. 107–100, § 5][/us/pl/107/100/s5], Dec. 21, 2001, [115 Stat. 967][/us/stat/115/967].)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 313, as added [Pub. L. 89–779][/us/pl/89/779], § 7, Nov. 6, 1966, [80 Stat. 1360][/us/stat/80/1360]; amended [Pub. L. 107–100][/us/pl/107/100], § 5, Dec. 21, 2001, [115 Stat. 967][/us/stat/115/967].)
 
  __References in Text__ 
 
@@ -190,10 +190,10 @@
 
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/85/699/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs313
-[/us/pl/89/779/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779%2Fs7
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/89/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779
 [/us/stat/80/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1360
-[/us/pl/107/100/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F100%2Fs5
+[/us/pl/107/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F100
 [/us/stat/115/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F967
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
 [/us/pl/107/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F100

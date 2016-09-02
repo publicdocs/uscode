@@ -17,7 +17,7 @@
 
     All articles of merchandise to which sections 294 to 300 of this title apply which shall have been transported into any State, Territory, District, or possession of the United States, and shall remain therein for use, sale, or storage, shall, upon arrival in such State, Territory, District, or possession, be subject to the operation of all the laws of such State, Territory, District, or possession of the United States to the same extent and in the same manner as though such articles of merchandise had been produced in such State, Territory, District, or possession, and shall not be exempt therefrom by reason of being introduced therein in original packages or otherwise.
 
-([June 13, 1906, ch. 3289, § 7][/us/act/1906-06-13/ch3289/s7], [34 Stat. 262][/us/stat/34/262].)
+([June 13, 1906, ch. 3289][/us/act/1906-06-13/ch3289], § 7, [34 Stat. 262][/us/stat/34/262].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1906-06-13/ch3289/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-13%2Fch3289%2Fs7
+[/us/act/1906-06-13/ch3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-13%2Fch3289
 [/us/stat/34/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F262
 
 

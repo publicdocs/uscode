@@ -23,7 +23,7 @@
 
         (2) any certificate of interest or participation in two or more securities having substantially different rights and privileges, or a temporary certificate for any such certificate;
 
-        (3) Repealed. [Pub. L. 101–550, title IV, § 403(1)(A)][/us/pl/101/550/s403/1/A], Nov. 15, 1990, [104 Stat. 2722][/us/stat/104/2722].
+        (3) Repealed. [Pub. L. 101–550, title IV][/us/pl/101/550/tIV], § 403(1)(A), Nov. 15, 1990, [104 Stat. 2722][/us/stat/104/2722].
 
         (4)
 
@@ -65,11 +65,11 @@
 
         The Commission may from time to time by its rules and regulations, and subject to such terms and conditions as may be prescribed herein, add to the securities exempted as provided in this section any class of securities issued by a small business investment company under the Small Business Investment Act of 1958 \[[15 U.S.C. 661][/us/usc/t15/s661] et seq.\] if it finds, having regard to the purposes of that Act, that the enforcement of this subchapter with respect to such securities is not necessary in the public interest and for the protection of investors.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 304, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1153][/us/stat/53/1153]; amended [Aug. 10, 1954, ch. 667][/us/act/1954-08-10/ch667], title III, § 302, [68 Stat. 687][/us/stat/68/687]; [Pub. L. 85–699, title III, § 307(b)][/us/pl/85/699/s307/b], Aug. 21, 1958, [72 Stat. 694][/us/stat/72/694]; [Pub. L. 86–760][/us/pl/86/760], Sept. 13, 1960, [74 Stat. 902][/us/stat/74/902]; [Pub. L. 89–754, title V, § 504(b)][/us/pl/89/754/s504/b], Nov. 3, 1966, [80 Stat. 1278][/us/stat/80/1278]; [Pub. L. 91–567, § 6(c)][/us/pl/91/567/s6/c], Dec. 22, 1970, [84 Stat. 1499][/us/stat/84/1499]; [Pub. L. 96–477, title III, § 302][/us/pl/96/477/s302], Oct. 21, 1980, [94 Stat. 2291][/us/stat/94/2291]; [Pub. L. 101–550, title IV, § 403][/us/pl/101/550/s403], Nov. 15, 1990, [104 Stat. 2722][/us/stat/104/2722]; [Pub. L. 104–290, title V, § 508(e)][/us/pl/104/290/s508/e], Oct. 11, 1996, [110 Stat. 3448][/us/stat/110/3448]; [Pub. L. 105–353, title III, § 301(e)(2)][/us/pl/105/353/s301/e/2], Nov. 3, 1998, [112 Stat. 3237][/us/stat/112/3237]; [Pub. L. 111–203, title IX, § 985(c)(1)][/us/pl/111/203/s985/c/1], July 21, 2010, [124 Stat. 1934][/us/stat/124/1934].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 304, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1153][/us/stat/53/1153]; amended [Aug. 10, 1954, ch. 667][/us/act/1954-08-10/ch667], title III, § 302, [68 Stat. 687][/us/stat/68/687]; [Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 307(b), Aug. 21, 1958, [72 Stat. 694][/us/stat/72/694]; [Pub. L. 86–760][/us/pl/86/760], Sept. 13, 1960, [74 Stat. 902][/us/stat/74/902]; [Pub. L. 89–754, title V][/us/pl/89/754/tV], § 504(b), Nov. 3, 1966, [80 Stat. 1278][/us/stat/80/1278]; [Pub. L. 91–567][/us/pl/91/567], § 6(c), Dec. 22, 1970, [84 Stat. 1499][/us/stat/84/1499]; [Pub. L. 96–477, title III][/us/pl/96/477/tIII], § 302, Oct. 21, 1980, [94 Stat. 2291][/us/stat/94/2291]; [Pub. L. 101–550, title IV][/us/pl/101/550/tIV], § 403, Nov. 15, 1990, [104 Stat. 2722][/us/stat/104/2722]; [Pub. L. 104–290, title V][/us/pl/104/290/tV], § 508(e), Oct. 11, 1996, [110 Stat. 3448][/us/stat/110/3448]; [Pub. L. 105–353, title III][/us/pl/105/353/tIII], § 301(e)(2), Nov. 3, 1998, [112 Stat. 3237][/us/stat/112/3237]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 985(c)(1), July 21, 2010, [124 Stat. 1934][/us/stat/124/1934].)
 
  __References in Text__ 
 
-    The Securities Act of 1933, referred to in subsec. (a)(4), (5), and (10), is [act May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
+    The Securities Act of 1933, referred to in subsec. (a)(4), (5), and (10), is [act May 27, 1933, ch. 38, title I][/us/act/1933-05-27/ch38/tI], [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
 
     The National Housing Act, referred to in subsec. (a)(5), is [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246], which is classified generally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. Provisions of that act relating to insurance of mortgages are contained in section 1707 et seq. of Title 12. Title XI of the National Housing Act, is classified to subchapter IX–B (§ 1749aaa et seq.) of chapter 13 of Title 12. For complete classification of this Act to the Code, see References in Text note set out under [section 1701 of Title 12][/us/usc/t12/s1701] and Tables.
 
@@ -83,15 +83,15 @@
 
     1996—Subsec. (a)(4)(A). [Pub. L. 104–290][/us/pl/104/290] substituted “(11), or (14)” for “or (11)”.
 
-    1990—Subsec. (a)(3). [Pub. L. 101–550, § 403(1)(A)][/us/pl/101/550/s403/1/A], struck out par. (3) which read as follows: “any security which, prior to or within six months after August 3, 1939, has been sold or disposed of by the issuer or bona fide offered to the public, but this exemption shall not apply to any new offering of any such security by an issuer subsequent to such six months;”.
+    1990—Subsec. (a)(3). [Pub. L. 101–550][/us/pl/101/550], § 403(1)(A), struck out par. (3) which read as follows: “any security which, prior to or within six months after August 3, 1939, has been sold or disposed of by the issuer or bona fide offered to the public, but this exemption shall not apply to any new offering of any such security by an issuer subsequent to such six months;”.
 
-    Subsec. (a)(4)(A). [Pub. L. 101–550, § 403(1)(B)][/us/pl/101/550/s403/1/B], struck out “, as heretofore amended,” after “1933”.
+    Subsec. (a)(4)(A). [Pub. L. 101–550][/us/pl/101/550], § 403(1)(B), struck out “, as heretofore amended,” after “1933”.
 
-    Subsec. (d). [Pub. L. 101–550, § 403(2)][/us/pl/101/550/s403/2], added subsec. (d) and struck out former subsec. (d) which read as follows: “The Commission may, on application by the issuer and after opportunity for hearing thereon, by order exempt from any one or more of the provisions of this subchapter any security issued or proposed to be issued by a person organized and existing under the laws of a foreign government or a political subdivision thereof, if and to the extent that the Commission finds that compliance with such provision or provisions is not necessary in the public interest and for the protection of investors.”
+    Subsec. (d). [Pub. L. 101–550][/us/pl/101/550], § 403(2), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Commission may, on application by the issuer and after opportunity for hearing thereon, by order exempt from any one or more of the provisions of this subchapter any security issued or proposed to be issued by a person organized and existing under the laws of a foreign government or a political subdivision thereof, if and to the extent that the Commission finds that compliance with such provision or provisions is not necessary in the public interest and for the protection of investors.”
 
-    1980—Subsec. (a)(8). [Pub. L. 96–477, § 302(a)][/us/pl/96/477/s302/a], substituted “an aggregate principal amount of securities of the same issuer greater than the figure stated in section 3(b) of the Securities Act of 1933 limiting exemptions thereunder, or such lesser amount as the Commission may establish by its rules and regulations” for “more than $250,000 aggregate principal amount of any securities of the same issuer”.
+    1980—Subsec. (a)(8). [Pub. L. 96–477][/us/pl/96/477], § 302(a), substituted “an aggregate principal amount of securities of the same issuer greater than the figure stated in section 3(b) of the Securities Act of 1933 limiting exemptions thereunder, or such lesser amount as the Commission may establish by its rules and regulations” for “more than $250,000 aggregate principal amount of any securities of the same issuer”.
 
-    Subsec. (a)(9). [Pub. L. 96–477, § 302(b)][/us/pl/96/477/s302/b], substituted “$10,000,000, or such lesser amount as the Commission may establish by its rules and regulations” for “$1,000,000 or less”, “more than $10,000,000” for “more than $1,000,000”, and inserted “, or such lesser amount as the Commission may establish by its rules and regulations” after “same issuer”.
+    Subsec. (a)(9). [Pub. L. 96–477][/us/pl/96/477], § 302(b), substituted “$10,000,000, or such lesser amount as the Commission may establish by its rules and regulations” for “$1,000,000 or less”, “more than $10,000,000” for “more than $1,000,000”, and inserted “, or such lesser amount as the Commission may establish by its rules and regulations” after “same issuer”.
 
     1970—Subsec. (a)(4). [Pub. L. 91–567][/us/pl/91/567] designated existing provisions as cl. (A) and added cl. (B).
 
@@ -126,7 +126,7 @@
 ----------
 ----------
 
-[/us/pl/101/550/s403/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs403%2F1%2FA
+[/us/pl/101/550/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtIV
 [/us/stat/104/2722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2722
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/usc/t15/s77c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77c%2Fa
@@ -147,25 +147,25 @@
 [/us/stat/53/1153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1153
 [/us/act/1954-08-10/ch667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-10%2Fch667
 [/us/stat/68/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F687
-[/us/pl/85/699/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs307%2Fb
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
 [/us/stat/72/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F694
 [/us/pl/86/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F760
 [/us/stat/74/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F902
-[/us/pl/89/754/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2Fs504%2Fb
+[/us/pl/89/754/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754%2FtV
 [/us/stat/80/1278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1278
-[/us/pl/91/567/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F567%2Fs6%2Fc
+[/us/pl/91/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F567
 [/us/stat/84/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1499
-[/us/pl/96/477/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2Fs302
+[/us/pl/96/477/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2FtIII
 [/us/stat/94/2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2291
-[/us/pl/101/550/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs403
+[/us/pl/101/550/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtIV
 [/us/stat/104/2722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2722
-[/us/pl/104/290/s508/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs508%2Fe
+[/us/pl/104/290/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtV
 [/us/stat/110/3448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3448
-[/us/pl/105/353/s301/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fe%2F2
+[/us/pl/105/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtIII
 [/us/stat/112/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3237
-[/us/pl/111/203/s985/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs985%2Fc%2F1
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1934
-[/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
+[/us/act/1933-05-27/ch38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38%2FtI
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
@@ -177,11 +177,11 @@
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
 [/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
-[/us/pl/101/550/s403/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs403%2F1%2FA
-[/us/pl/101/550/s403/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs403%2F1%2FB
-[/us/pl/101/550/s403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs403%2F2
-[/us/pl/96/477/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2Fs302%2Fa
-[/us/pl/96/477/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2Fs302%2Fb
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/96/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477
+[/us/pl/96/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477
 [/us/pl/91/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F567
 [/us/pl/89/754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F754
 [/us/pl/86/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F760

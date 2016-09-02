@@ -39,7 +39,7 @@
 
     (11) The national laboratories of the Department of Energy are a major national research resource, and the extensive involvement of such laboratories in the semiconductor research initiatives of the Federal Government and private industry would be an effective use of such laboratories and would help insure the success of such initiatives.
 
-([Pub. L. 100–180, div. C, title I, § 3141][/us/pl/100/180/s3141], Dec. 4, 1987, [101 Stat. 1241][/us/stat/101/1241].)
+([Pub. L. 100–180, div. C, title I][/us/pl/100/180/dC/tI], § 3141, Dec. 4, 1987, [101 Stat. 1241][/us/stat/101/1241].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/100/180/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3141
+[/us/pl/100/180/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdC%2FtI
 [/us/stat/101/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1241
 
 

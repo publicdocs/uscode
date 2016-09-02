@@ -27,7 +27,7 @@
 
         The dissemination or the causing to be disseminated of any false advertisement within the provisions of subsection (a) of this section shall be an unfair or deceptive act or practice in or affecting commerce within the meaning of [section 45 of this title][/us/usc/t15/s45].
 
-([Sept. 26, 1914, ch. 311, § 12][/us/act/1914-09-26/ch311/s12], as added [Mar. 21, 1938, ch. 49, § 4][/us/act/1938-03-21/ch49/s4], [52 Stat. 114][/us/stat/52/114]; amended [Pub. L. 93–637, title II, § 201(c)][/us/pl/93/637/s201/c], Jan. 4, 1975, [88 Stat. 2193][/us/stat/88/2193]; [Pub. L. 103–297, § 8][/us/pl/103/297/s8], Aug. 16, 1994, [108 Stat. 1550][/us/stat/108/1550].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 12, as added [Mar. 21, 1938, ch. 49][/us/act/1938-03-21/ch49], § 4, [52 Stat. 114][/us/stat/52/114]; amended [Pub. L. 93–637, title II][/us/pl/93/637/tII], § 201(c), Jan. 4, 1975, [88 Stat. 2193][/us/stat/88/2193]; [Pub. L. 103–297][/us/pl/103/297], § 8, Aug. 16, 1994, [108 Stat. 1550][/us/stat/108/1550].)
 
  __Amendments__ 
 
@@ -45,12 +45,12 @@
 ----------
 
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
-[/us/act/1914-09-26/ch311/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs12
-[/us/act/1938-03-21/ch49/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-03-21%2Fch49%2Fs4
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
+[/us/act/1938-03-21/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-03-21%2Fch49
 [/us/stat/52/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F114
-[/us/pl/93/637/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs201%2Fc
+[/us/pl/93/637/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2FtII
 [/us/stat/88/2193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2193
-[/us/pl/103/297/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297%2Fs8
+[/us/pl/103/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297
 [/us/stat/108/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1550
 [/us/pl/103/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297
 [/us/pl/93/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637

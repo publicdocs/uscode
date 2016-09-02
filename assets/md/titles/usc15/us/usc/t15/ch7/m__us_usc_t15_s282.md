@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s281a.md) | [Next](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s282a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs282)
 
-## § 282. Repealed. [Pub. L. 100–418, title V, § 5113][/us/pl/100/418/s5113], Aug. 23, 1988, [102 Stat. 1432][/us/stat/102/1432]
+## § 282. Repealed. [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5113, Aug. 23, 1988, [102 Stat. 1432][/us/stat/102/1432]
 
-    Section, [act May 14, 1930, ch. 275, § 1][/us/act/1930-05-14/ch275/s1], [46 Stat. 327][/us/stat/46/327], related to establishment and purpose of a national hydraulic laboratory and studies of Federal and State projects related thereto.
+    Section, [act May 14, 1930, ch. 275][/us/act/1930-05-14/ch275], § 1, [46 Stat. 327][/us/stat/46/327], related to establishment and purpose of a national hydraulic laboratory and studies of Federal and State projects related thereto.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/100/418/s5113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5113
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1432
-[/us/act/1930-05-14/ch275/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch275%2Fs1
+[/us/act/1930-05-14/ch275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-05-14%2Fch275
 [/us/stat/46/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F327
 
 

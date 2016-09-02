@@ -25,7 +25,7 @@
 
     (4) to improve the usability of identity management systems.
 
-([Pub. L. 113–274, title V, § 504][/us/pl/113/274/s504], Dec. 18, 2014, [128 Stat. 2987][/us/stat/128/2987].)
+([Pub. L. 113–274, title V][/us/pl/113/274/tV], § 504, Dec. 18, 2014, [128 Stat. 2987][/us/stat/128/2987].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/113/274/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs504
+[/us/pl/113/274/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2FtV
 [/us/stat/128/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2987
 
 

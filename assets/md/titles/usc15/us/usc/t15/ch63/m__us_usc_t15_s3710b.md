@@ -21,7 +21,7 @@
 
     (2) exemplary activities that promote the domestic transfer of science and technology development within the Federal Government and result in utilization of such science and technology by American industry or business, universities, State or local governments, or other non-Federal parties.
 
-([Pub. L. 96–480, § 13][/us/pl/96/480/s13], as added and renumbered § 12, [Pub. L. 99–502][/us/pl/99/502], §§ 6, 9(e)(1), Oct. 20, 1986, [100 Stat. 1792][/us/stat/100/1792], 1797; renumbered § 13, [Pub. L. 100–418, title V, § 5122(a)(1)][/us/pl/100/418/s5122/a/1], Aug. 23, 1988, [102 Stat. 1438][/us/stat/102/1438]; amended [Pub. L. 100–519, title III, § 302][/us/pl/100/519/s302], Oct. 24, 1988, [102 Stat. 2597][/us/stat/102/2597].)
+([Pub. L. 96–480][/us/pl/96/480], § 13, as added and renumbered § 12, [Pub. L. 99–502][/us/pl/99/502], §§ 6, 9(e)(1), Oct. 20, 1986, [100 Stat. 1792][/us/stat/100/1792], 1797; renumbered § 13, [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5122(a)(1), Aug. 23, 1988, [102 Stat. 1438][/us/stat/102/1438]; amended [Pub. L. 100–519, title III][/us/pl/100/519/tIII], § 302, Oct. 24, 1988, [102 Stat. 2597][/us/stat/102/2597].)
 
  __Amendments__ 
 
@@ -34,12 +34,12 @@
 ----------
 ----------
 
-[/us/pl/96/480/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs13
+[/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/stat/100/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1792
-[/us/pl/100/418/s5122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5122%2Fa%2F1
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1438
-[/us/pl/100/519/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs302
+[/us/pl/100/519/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2FtIII
 [/us/stat/102/2597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2597
 [/us/pl/100/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519
 

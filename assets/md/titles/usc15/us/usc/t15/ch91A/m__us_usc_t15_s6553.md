@@ -17,7 +17,7 @@
 
     The Commission shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives not later than March 31 of each year that describes the activities carried out under section 6552  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title by the Commission during the preceding calendar year.
 
-([Pub. L. 110–385, title II, § 213][/us/pl/110/385/s213], Oct. 10, 2008, [122 Stat. 4103][/us/stat/122/4103].)
+([Pub. L. 110–385, title II][/us/pl/110/385/tII], § 213, Oct. 10, 2008, [122 Stat. 4103][/us/stat/122/4103].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/385/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2Fs213
+[/us/pl/110/385/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2FtII
 [/us/stat/122/4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4103
 [/us/usc/t15/s6552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6552
 [/us/pl/110/385/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2Fs212

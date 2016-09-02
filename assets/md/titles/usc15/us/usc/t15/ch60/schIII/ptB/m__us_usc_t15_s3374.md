@@ -47,7 +47,7 @@
 
             (B) authorized by the Commission under [section 3371(a) of this title][/us/usc/t15/s3371/a].
 
-([Pub. L. 95–621, title III, § 314][/us/pl/95/621/s314], Nov. 9, 1978, [92 Stat. 3392][/us/stat/92/3392].)
+([Pub. L. 95–621, title III][/us/pl/95/621/tIII], § 314, Nov. 9, 1978, [92 Stat. 3392][/us/stat/92/3392].)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
 [/us/usc/t15/s3372/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3372%2Fa
 [/us/usc/t15/s3371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3371%2Fa
-[/us/pl/95/621/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs314
+[/us/pl/95/621/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2FtIII
 [/us/stat/92/3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3392
 [/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F821

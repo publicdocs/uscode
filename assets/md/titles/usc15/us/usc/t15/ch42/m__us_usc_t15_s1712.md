@@ -17,7 +17,7 @@
 
     Any condition, stipulation, or provision binding any person acquiring any lot in a subdivision to waive compliance with any provision of this chapter or of the rules and regulations of the Director shall be void.
 
-([Pub. L. 90–448, title XIV, § 1413][/us/pl/90/448/s1413], Aug. 1, 1968, [82 Stat. 596][/us/stat/82/596]; [Pub. L. 111–203, title X, § 1098A(1)][/us/pl/111/203/s1098A/1], July 21, 2010, [124 Stat. 2105][/us/stat/124/2105].)
+([Pub. L. 90–448, title XIV][/us/pl/90/448/tXIV], § 1413, Aug. 1, 1968, [82 Stat. 596][/us/stat/82/596]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1098A(1), July 21, 2010, [124 Stat. 2105][/us/stat/124/2105].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/90/448/s1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1413
+[/us/pl/90/448/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIV
 [/us/stat/82/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F596
-[/us/pl/111/203/s1098A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098A%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2105
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

@@ -77,7 +77,7 @@
 
             (B) the agency or department certifies in writing to the person reselling the report that nondisclosure is necessary to protect classified information or the safety of persons employed by or contracting with, or undergoing investigation for work or contracting with the agency or department.
 
-([Pub. L. 90–321, title VI, § 607][/us/pl/90/321/s607], as added [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1130][/us/stat/84/1130]; amended [Pub. L. 104–208, div. A, title II, § 2407][/us/pl/104/208/s2407], Sept. 30, 1996, [110 Stat. 3009–435][/us/stat/110/3009-435]; [Pub. L. 105–107, title III, § 311(b)][/us/pl/105/107/s311/b], Nov. 20, 1997, [111 Stat. 2256][/us/stat/111/2256]; [Pub. L. 111–203, title X, § 1088(a)(2)(A)][/us/pl/111/203/s1088/a/2/A], July 21, 2010, [124 Stat. 2087][/us/stat/124/2087].)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 607, as added [Pub. L. 91–508, title VI][/us/pl/91/508/tVI], § 601, Oct. 26, 1970, [84 Stat. 1130][/us/stat/84/1130]; amended [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2407, Sept. 30, 1996, [110 Stat. 3009–435][/us/stat/110/3009-435]; [Pub. L. 105–107, title III][/us/pl/105/107/tIII], § 311(b), Nov. 20, 1997, [111 Stat. 2256][/us/stat/111/2256]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1088(a)(2)(A), July 21, 2010, [124 Stat. 2087][/us/stat/124/2087].)
 
  __References in Text__ 
 
@@ -115,14 +115,14 @@
 [/us/usc/t15/s1681b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681b
 [/us/usc/t15/s1681b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681b
 [/us/usc/t15/s1681b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681b
-[/us/pl/90/321/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs607
-[/us/pl/91/508/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs601
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/91/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtVI
 [/us/stat/84/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1130
-[/us/pl/104/208/s2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2407
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-435
-[/us/pl/105/107/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2Fs311%2Fb
+[/us/pl/105/107/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2FtIII
 [/us/stat/111/2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2256
-[/us/pl/111/203/s1088/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2087
 [/us/usc/t15/s1681b/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681b%2Fb%2F4
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

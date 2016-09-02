@@ -17,11 +17,11 @@
 
     The provisions of this chapter shall govern so far as applicable applications for registration and registrations on the supplemental register as well as those on the principal register, but applications for and registrations on the supplemental register shall not be subject to or receive the advantages of sections 1051(b), 1052(e), 1052(f), 1057(b), 1057(c), 1062(a), 1063 to 1068, inclusive, 1072, 1115 and 1124 of this title.
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title II, § 26, [60 Stat. 436][/us/stat/60/436]; [Pub. L. 100–667, title I, § 123][/us/pl/100/667/s123], Nov. 16, 1988, [102 Stat. 3943][/us/stat/102/3943]; [Pub. L. 105–330, title II, § 201(a)(6)][/us/pl/105/330/s201/a/6], Oct. 30, 1998, [112 Stat. 3070][/us/stat/112/3070].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title II, § 26, [60 Stat. 436][/us/stat/60/436]; [Pub. L. 100–667, title I][/us/pl/100/667/tI], § 123, Nov. 16, 1988, [102 Stat. 3943][/us/stat/102/3943]; [Pub. L. 105–330, title II][/us/pl/105/330/tII], § 201(a)(6), Oct. 30, 1998, [112 Stat. 3070][/us/stat/112/3070].)
 
  __Prior Provisions__ 
 
-    [Act Mar. 19, 1920, ch. 104, § 6][/us/act/1920-03-19/ch104/s6], [41 Stat. 535][/us/stat/41/535].
+    [Act Mar. 19, 1920, ch. 104][/us/act/1920-03-19/ch104], § 6, [41 Stat. 535][/us/stat/41/535].
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F436
-[/us/pl/100/667/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs123
+[/us/pl/100/667/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtI
 [/us/stat/102/3943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3943
-[/us/pl/105/330/s201/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2Fs201%2Fa%2F6
+[/us/pl/105/330/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2FtII
 [/us/stat/112/3070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3070
-[/us/act/1920-03-19/ch104/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-19%2Fch104%2Fs6
+[/us/act/1920-03-19/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-19%2Fch104
 [/us/stat/41/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F535
 [/us/pl/105/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330
 [/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667

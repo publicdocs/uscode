@@ -23,7 +23,7 @@
 
     (3) $60,000,000 for fiscal year 2007.
 
-([Pub. L. 108–423, § 4][/us/pl/108/423/s4], Nov. 30, 2004, [118 Stat. 2402][/us/stat/118/2402].)
+([Pub. L. 108–423][/us/pl/108/423], § 4, Nov. 30, 2004, [118 Stat. 2402][/us/stat/118/2402].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/108/423/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423%2Fs4
+[/us/pl/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423
 [/us/stat/118/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2402
 [/us/pl/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423
 [/us/stat/118/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2400

@@ -33,7 +33,7 @@
 
         There are authorized to be appropriated to the Secretary of Energy such sums as are necessary to carry out this section.
 
-([Pub. L. 102–194, title II, § 203][/us/pl/102/194/s203], Dec. 9, 1991, [105 Stat. 1600][/us/stat/105/1600]; [Pub. L. 104–66, title I, § 1052(j)][/us/pl/104/66/s1052/j], Dec. 21, 1995, [109 Stat. 719][/us/stat/109/719]; [Pub. L. 109–58, title IX, § 976(b)][/us/pl/109/58/s976/b], Aug. 8, 2005, [119 Stat. 903][/us/stat/119/903].)
+([Pub. L. 102–194, title II][/us/pl/102/194/tII], § 203, Dec. 9, 1991, [105 Stat. 1600][/us/stat/105/1600]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1052(j), Dec. 21, 1995, [109 Stat. 719][/us/stat/109/719]; [Pub. L. 109–58, title IX][/us/pl/109/58/tIX], § 976(b), Aug. 8, 2005, [119 Stat. 903][/us/stat/119/903].)
 
  __Amendments__ 
 
@@ -48,11 +48,11 @@
 ----------
 ----------
 
-[/us/pl/102/194/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2Fs203
+[/us/pl/102/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2FtII
 [/us/stat/105/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1600
-[/us/pl/104/66/s1052/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1052%2Fj
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F719
-[/us/pl/109/58/s976/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs976%2Fb
+[/us/pl/109/58/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIX
 [/us/stat/119/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F903
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66

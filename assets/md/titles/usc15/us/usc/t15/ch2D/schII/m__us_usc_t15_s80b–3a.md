@@ -73,7 +73,7 @@
 
         Upon request of the securities commissioner (or any agency or officer performing like functions) of any State, the Commission may provide such training, technical assistance, or other reasonable assistance in connection with the regulation of investment advisers by the State.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 203A, as added [Pub. L. 104–290, title III, § 303(a)][/us/pl/104/290/s303/a], Oct. 11, 1996, [110 Stat. 3437][/us/stat/110/3437]; amended [Pub. L. 109–290, § 7(b)(1)][/us/pl/109/290/s7/b/1], Sept. 29, 2006, [120 Stat. 1321][/us/stat/120/1321]; [Pub. L. 111–203, title IV, § 410][/us/pl/111/203/s410], July 21, 2010, [124 Stat. 1576][/us/stat/124/1576]; [Pub. L. 114–94, div. G, title LXXIV, § 74003][/us/pl/114/94/s74003], Dec. 4, 2015, [129 Stat. 1786][/us/stat/129/1786].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 203A, as added [Pub. L. 104–290, title III][/us/pl/104/290/tIII], § 303(a), Oct. 11, 1996, [110 Stat. 3437][/us/stat/110/3437]; amended [Pub. L. 109–290][/us/pl/109/290], § 7(b)(1), Sept. 29, 2006, [120 Stat. 1321][/us/stat/120/1321]; [Pub. L. 111–203, title IV][/us/pl/111/203/tIV], § 410, July 21, 2010, [124 Stat. 1576][/us/stat/124/1576]; [Pub. L. 114–94, div. G, title LXXIV][/us/pl/114/94/dG/tLXXIV], § 74003, Dec. 4, 2015, [129 Stat. 1786][/us/stat/129/1786].)
 
  __References in Text__ 
 
@@ -101,7 +101,7 @@
 
  __Continued State Authority__ 
 
-[Pub. L. 104–290, title III, § 307][/us/pl/104/290/s307], Oct. 11, 1996, [110 Stat. 3440][/us/stat/110/3440], provided that:
+[Pub. L. 104–290, title III][/us/pl/104/290/tIII], § 307, Oct. 11, 1996, [110 Stat. 3440][/us/stat/110/3440], provided that:
 
 >     “(a)  __Preservation of Filing Requirements__  __.—__ 
 
@@ -138,13 +138,13 @@
 [/us/usc/t15/s80b–2/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%932%2Fa%2F11
 [/us/usc/t15/s80b–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%933
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
-[/us/pl/104/290/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs303%2Fa
+[/us/pl/104/290/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtIII
 [/us/stat/110/3437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3437
-[/us/pl/109/290/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F290%2Fs7%2Fb%2F1
+[/us/pl/109/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F290
 [/us/stat/120/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1321
-[/us/pl/111/203/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs410
+[/us/pl/111/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIV
 [/us/stat/124/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1576
-[/us/pl/114/94/s74003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs74003
+[/us/pl/114/94/dG/tLXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXIV
 [/us/stat/129/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1786
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F789
@@ -157,7 +157,7 @@
 [/us/usc/t15/s80b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%932
 [/us/pl/104/290/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs308%2Fa
 [/us/usc/t15/s80b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%932
-[/us/pl/104/290/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs307
+[/us/pl/104/290/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtIII
 [/us/stat/110/3440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3440
 [/us/usc/t15/s80b–20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%9320
 

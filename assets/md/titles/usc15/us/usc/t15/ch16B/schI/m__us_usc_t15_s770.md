@@ -31,7 +31,7 @@
 
         Any person who, on the effective date of this chapter, held a position compensated in accordance with the Executive Schedule prescribed in chapter 53 of title 5, and who, without a break in service, is appointed in the Administration to a position having duties comparable to those performed immediately preceding his appointment, shall continue to be compensated in his new position at not less than the rate provided for his previous position.
 
-([Pub. L. 93–275, § 11][/us/pl/93/275/s11], May 7, 1974, [88 Stat. 105][/us/stat/88/105].)
+([Pub. L. 93–275][/us/pl/93/275], § 11, May 7, 1974, [88 Stat. 105][/us/stat/88/105].)
 
  __Transfer of Functions__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/93/275/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs11
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F105
 
 

@@ -23,7 +23,7 @@
 
         The Administrator may, as provided by [section 690g of this title][/us/usc/t15/s690g], offset fees charged and collected under subsection (a).
 
-([Pub. L. 85–699, title III, § 387][/us/pl/85/699/s387], as added [Pub. L. 110–140, title XII, § 1207][/us/pl/110/140/s1207], Dec. 19, 2007, [121 Stat. 1780][/us/stat/121/1780].)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 387, as added [Pub. L. 110–140, title XII][/us/pl/110/140/tXII], § 1207, Dec. 19, 2007, [121 Stat. 1780][/us/stat/121/1780].)
 
 ----------
 
@@ -35,8 +35,8 @@
 [/us/usc/t15/s690e/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs690e%2Fd
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
 [/us/usc/t15/s690g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs690g
-[/us/pl/85/699/s387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs387
-[/us/pl/110/140/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1207
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/110/140/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXII
 [/us/stat/121/1780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1780
 
 

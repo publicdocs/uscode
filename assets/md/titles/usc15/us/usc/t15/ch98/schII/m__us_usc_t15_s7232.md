@@ -27,7 +27,7 @@
 
         For purposes of this section, the term “mandatory rotation” refers to the imposition of a limit on the period of years in which a particular registered public accounting firm may be the auditor of record for a particular issuer.
 
-([Pub. L. 107–204, title II, § 207][/us/pl/107/204/s207], July 30, 2002, [116 Stat. 775][/us/stat/116/775].)
+([Pub. L. 107–204, title II][/us/pl/107/204/tII], § 207, July 30, 2002, [116 Stat. 775][/us/stat/116/775].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/107/204/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs207
+[/us/pl/107/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtII
 [/us/stat/116/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F775
 
 

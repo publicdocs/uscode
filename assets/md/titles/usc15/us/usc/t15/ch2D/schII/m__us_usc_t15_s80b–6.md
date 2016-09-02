@@ -25,15 +25,15 @@
 
     (4) to engage in any act, practice, or course of business which is fraudulent, deceptive, or manipulative. The Commission shall, for the purposes of this paragraph (4) by rules and regulations define, and prescribe means reasonably designed to prevent, such acts, practices, and courses of business as are fraudulent, deceptive, or manipulative.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 206, [54 Stat. 852][/us/stat/54/852]; [Pub. L. 86–750][/us/pl/86/750], §§ 8, 9, Sept. 13, 1960, [74 Stat. 887][/us/stat/74/887]; [Pub. L. 111–203, title IX, § 985(e)(2)][/us/pl/111/203/s985/e/2], July 21, 2010, [124 Stat. 1935][/us/stat/124/1935].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 206, [54 Stat. 852][/us/stat/54/852]; [Pub. L. 86–750][/us/pl/86/750], §§ 8, 9, Sept. 13, 1960, [74 Stat. 887][/us/stat/74/887]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 985(e)(2), July 21, 2010, [124 Stat. 1935][/us/stat/124/1935].)
 
  __Amendments__ 
 
     2010—Par. (3). [Pub. L. 111–203][/us/pl/111/203] inserted “or” at end.
 
-    1960—[Pub. L. 86–750, § 8][/us/pl/86/750/s8], struck out “registered under [section 80b–3 of this title][/us/usc/t15/s80b–3]” from introductory text.
+    1960—[Pub. L. 86–750][/us/pl/86/750], § 8, struck out “registered under [section 80b–3 of this title][/us/usc/t15/s80b–3]” from introductory text.
 
-    Par. (4). [Pub. L. 86–750, § 9][/us/pl/86/750/s9], added par. (4).
+    Par. (4). [Pub. L. 86–750][/us/pl/86/750], § 9, added par. (4).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -50,12 +50,12 @@
 [/us/stat/54/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F852
 [/us/pl/86/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750
 [/us/stat/74/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F887
-[/us/pl/111/203/s985/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs985%2Fe%2F2
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1935
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/86/750/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750%2Fs8
+[/us/pl/86/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750
 [/us/usc/t15/s80b–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%933
-[/us/pl/86/750/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750%2Fs9
+[/us/pl/86/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

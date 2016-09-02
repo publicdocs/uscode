@@ -23,7 +23,7 @@
 
         The Congress shall initiate or develop such legislation as it deems necessary to implement proposals and objectives pursuant to this chapter and the Employment Act of 1946 \[[15 U.S.C. 1021][/us/usc/t15/s1021] et seq.\] after such modification in such proposals as it deems desirable. Nothing in this subchapter shall be construed to prevent the Congress or any of its committees from considering or initiating at any time legislative action in furtherance of the goals and purposes of this chapter.
 
-([Pub. L. 95–523, title III, § 301][/us/pl/95/523/s301], Oct. 27, 1978, [92 Stat. 1904][/us/stat/92/1904].)
+([Pub. L. 95–523, title III][/us/pl/95/523/tIII], § 301, Oct. 27, 1978, [92 Stat. 1904][/us/stat/92/1904].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t15/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1021
 [/us/usc/t15/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1021
-[/us/pl/95/523/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs301
+[/us/pl/95/523/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2FtIII
 [/us/stat/92/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1904
 [/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
 [/us/stat/92/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1904

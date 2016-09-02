@@ -49,7 +49,7 @@
 
         There is authorized to be appropriated to the Administrator $50,000,000 to carry out this section.
 
-([Pub. L. 111–240, title I, § 1402][/us/pl/111/240/s1402], Sept. 27, 2010, [124 Stat. 2550][/us/stat/124/2550].)
+([Pub. L. 111–240, title I][/us/pl/111/240/tI], § 1402, Sept. 27, 2010, [124 Stat. 2550][/us/stat/124/2550].)
 
  __Codification__ 
 
@@ -70,7 +70,7 @@
 [/us/usc/t15/s648/a/4/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648%2Fa%2F4%2FC%2Fiii
 [/us/usc/t15/s648/a/4/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648%2Fa%2F4%2FC%2Fi
 [/us/usc/t15/s648/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648%2Fa%2F4%2FA
-[/us/pl/111/240/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1402
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2550
 [/us/pl/111/240/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1001
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632

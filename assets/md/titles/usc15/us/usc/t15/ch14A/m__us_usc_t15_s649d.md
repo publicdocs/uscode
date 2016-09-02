@@ -17,7 +17,7 @@
 
     The Secretary through the International Trade Administration, shall, only to such extent and in such amounts as are provided in appropriation Acts on and after October 1, 1980, maintain a central clearinghouse to provide for the collection, dissemination, and exchange of information between programs established pursuant to sections 649a and 649b of this title, the Office of International Trade of the Small Business Administration, and other interested concerns.
 
-([Pub. L. 96–481, title III, § 304][/us/pl/96/481/s304], Oct. 21, 1980, [94 Stat. 2333][/us/stat/94/2333].)
+([Pub. L. 96–481, title III][/us/pl/96/481/tIII], § 304, Oct. 21, 1980, [94 Stat. 2333][/us/stat/94/2333].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/96/481/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs304
+[/us/pl/96/481/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2FtIII
 [/us/stat/94/2333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2333
 
 

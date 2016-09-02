@@ -57,21 +57,21 @@
 
         This section shall be applicable only if the challenged conduct of a person defending against a claim is not in violation of any decree or order, entered or issued after October 11, 1984, in any case or proceeding under the antitrust laws or any State law similar to the antitrust laws challenging such conduct as part of a joint venture, or of a standards development activity engaged in by a standards development organization.
 
-([Pub. L. 98–462, § 4][/us/pl/98/462/s4], Oct. 11, 1984, [98 Stat. 1816][/us/stat/98/1816]; [Pub. L. 103–42, § 3(e)(1)][/us/pl/103/42/s3/e/1], June 10, 1993, [107 Stat. 119][/us/stat/107/119]; [Pub. L. 108–237, title I, § 105][/us/pl/108/237/s105], June 22, 2004, [118 Stat. 663][/us/stat/118/663].)
+([Pub. L. 98–462][/us/pl/98/462], § 4, Oct. 11, 1984, [98 Stat. 1816][/us/stat/98/1816]; [Pub. L. 103–42][/us/pl/103/42], § 3(e)(1), June 10, 1993, [107 Stat. 119][/us/stat/107/119]; [Pub. L. 108–237, title I][/us/pl/108/237/tI], § 105, June 22, 2004, [118 Stat. 663][/us/stat/118/663].)
 
  __Amendments__ 
 
-    2004—Subsecs. (a)(1), (b)(1), (c)(1). [Pub. L. 108–237, § 105(1)][/us/pl/108/237/s105/1], inserted “, or for a standards development activity engaged in by a standards development organization against which such claim is made” after “joint venture”.
+    2004—Subsecs. (a)(1), (b)(1), (c)(1). [Pub. L. 108–237][/us/pl/108/237], § 105(1), inserted “, or for a standards development activity engaged in by a standards development organization against which such claim is made” after “joint venture”.
 
-    Subsec. (e). [Pub. L. 108–237, § 105(3)][/us/pl/108/237/s105/3], added subsec. (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 108–237][/us/pl/108/237], § 105(3), added subsec. (e). Former subsec. (e) redesignated (f).
 
-    [Pub. L. 108–237, § 105(2)(A)][/us/pl/108/237/s105/2/A], inserted “, or of a standards development activity engaged in by a standards development organization” before period at end.
+    [Pub. L. 108–237][/us/pl/108/237], § 105(2)(A), inserted “, or of a standards development activity engaged in by a standards development organization” before period at end.
 
-    Subsec. (f). [Pub. L. 108–237, § 105(2)(B)][/us/pl/108/237/s105/2/B], redesignated subsec. (e) as (f).
+    Subsec. (f). [Pub. L. 108–237][/us/pl/108/237], § 105(2)(B), redesignated subsec. (e) as (f).
 
-    1993—Subsecs. (a) to (c). [Pub. L. 103–42, § 3(e)(1)(A)][/us/pl/103/42/s3/e/1/A], (B), in introductory provisions inserted “of this section” after “subsection (d)” and in par. (1) substituted “joint venture” for “joint research and development venture”.
+    1993—Subsecs. (a) to (c). [Pub. L. 103–42][/us/pl/103/42], § 3(e)(1)(A), (B), in introductory provisions inserted “of this section” after “subsection (d)” and in par. (1) substituted “joint venture” for “joint research and development venture”.
 
-    Subsec. (e). [Pub. L. 103–42, § 3(e)(1)(A)][/us/pl/103/42/s3/e/1/A], (C), substituted “October 11, 1984,” for “the effective date of this Act” and substituted “joint venture” for “joint research and development venture”.
+    Subsec. (e). [Pub. L. 103–42][/us/pl/103/42], § 3(e)(1)(A), (C), substituted “October 11, 1984,” for “the effective date of this Act” and substituted “joint venture” for “joint research and development venture”.
 
 ----------
 
@@ -94,17 +94,17 @@
 [/us/usc/t15/s4304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4304
 [/us/usc/t15/s4305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4305%2Fa
 [/us/usc/t15/s4305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4305%2Fc
-[/us/pl/98/462/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F462%2Fs4
+[/us/pl/98/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F462
 [/us/stat/98/1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1816
-[/us/pl/103/42/s3/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42%2Fs3%2Fe%2F1
+[/us/pl/103/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42
 [/us/stat/107/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F119
-[/us/pl/108/237/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2Fs105
+[/us/pl/108/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2FtI
 [/us/stat/118/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F663
-[/us/pl/108/237/s105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2Fs105%2F1
-[/us/pl/108/237/s105/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2Fs105%2F3
-[/us/pl/108/237/s105/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2Fs105%2F2%2FA
-[/us/pl/108/237/s105/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2Fs105%2F2%2FB
-[/us/pl/103/42/s3/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42%2Fs3%2Fe%2F1%2FA
-[/us/pl/103/42/s3/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42%2Fs3%2Fe%2F1%2FA
+[/us/pl/108/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237
+[/us/pl/108/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237
+[/us/pl/108/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237
+[/us/pl/108/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237
+[/us/pl/103/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42
+[/us/pl/103/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42
 
 

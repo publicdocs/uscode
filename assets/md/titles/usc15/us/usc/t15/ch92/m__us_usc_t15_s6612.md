@@ -49,7 +49,7 @@
 
         The protections for the exchanges of information provided by section 4 of the Year 2000 Information and Readiness Disclosure Act ([Public Law 105–271][/us/pl/105/271]) shall apply to any Y2K action.
 
-([Pub. L. 106–37, § 13][/us/pl/106/37/s13], July 20, 1999, [113 Stat. 200][/us/stat/113/200].)
+([Pub. L. 106–37][/us/pl/106/37], § 13, July 20, 1999, [113 Stat. 200][/us/stat/113/200].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 ----------
 
 [/us/pl/105/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F271
-[/us/pl/106/37/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37%2Fs13
+[/us/pl/106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37
 [/us/stat/113/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F200
 [/us/pl/105/271/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F271%2Fs4
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1

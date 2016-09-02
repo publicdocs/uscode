@@ -17,7 +17,7 @@
 
     The amount that remains from the excess amount described in section 4502(c)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title after all disbursements have been made for a fiscal year under section 4502(d)  <sup>\[1\]</sup>  of this title shall be deposited by the Secretary of the Treasury into the general fund of the Treasury.
 
-([Pub. L. 99–509, title III, § 3004][/us/pl/99/509/s3004], Oct. 21, 1986, [100 Stat. 1884][/us/stat/100/1884].)
+([Pub. L. 99–509, title III][/us/pl/99/509/tIII], § 3004, Oct. 21, 1986, [100 Stat. 1884][/us/stat/100/1884].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/99/509/s3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs3004
+[/us/pl/99/509/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIII
 [/us/stat/100/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1884
 [/us/usc/t15/s4502/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4502%2Fe
 

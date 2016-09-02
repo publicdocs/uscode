@@ -77,7 +77,7 @@
 
                 The advisory committee established under subparagraph (A) shall develop the Joint Strategic Plan against counterfeiting and infringement under [section 8113 of this title][/us/usc/t15/s8113].
 
-([Pub. L. 110–403, title III, § 301][/us/pl/110/403/s301], Oct. 13, 2008, [122 Stat. 4264][/us/stat/122/4264].)
+([Pub. L. 110–403, title III][/us/pl/110/403/tIII], § 301, Oct. 13, 2008, [122 Stat. 4264][/us/stat/122/4264].)
 
  __References in Text__ 
 
@@ -189,7 +189,7 @@
 [/us/usc/t15/s8113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8113
 [/us/usc/t15/s8114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8114
 [/us/usc/t15/s8113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8113
-[/us/pl/110/403/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs301
+[/us/pl/110/403/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtIII
 [/us/stat/122/4264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4264
 [/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
 [/us/stat/122/4264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4264

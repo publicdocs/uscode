@@ -77,23 +77,23 @@
 
             The Bureau, in consultation with the other Federal banking agencies (as that term is defined in [section 1681a of this title][/us/usc/t15/s1681a]) and the Bureau, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  may promulgate regulations to implement this subsection, including specifying the format for posting the agreements on the Internet sites of creditors and establishing exceptions to paragraphs (1) and (2), in any case in which the administrative burden outweighs the benefit of increased transparency, such as where a credit card plan has a de minimis number of consumer account holders.
 
-([Pub. L. 90–321, title I, § 122][/us/pl/90/321/s122], May 29, 1968, [82 Stat. 152][/us/stat/82/152]; [Pub. L. 93–495, title III, § 307(e)][/us/pl/93/495/s307/e], (f), Oct. 28, 1974, [88 Stat. 1516][/us/stat/88/1516], 1517; [Pub. L. 96–221, title VI, § 611][/us/pl/96/221/s611], Mar. 31, 1980, [94 Stat. 175][/us/stat/94/175]; [Pub. L. 100–583, § 2(b)][/us/pl/100/583/s2/b], Nov. 3, 1988, [102 Stat. 2966][/us/stat/102/2966]; [Pub. L. 100–709, § 2(d)][/us/pl/100/709/s2/d], Nov. 23, 1988, [102 Stat. 4731][/us/stat/102/4731]; [Pub. L. 111–24, title II, § 204][/us/pl/111/24/s204], May 22, 2009, [123 Stat. 1746][/us/stat/123/1746]; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], (3), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 122, May 29, 1968, [82 Stat. 152][/us/stat/82/152]; [Pub. L. 93–495, title III][/us/pl/93/495/tIII], § 307(e), (f), Oct. 28, 1974, [88 Stat. 1516][/us/stat/88/1516], 1517; [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 611, Mar. 31, 1980, [94 Stat. 175][/us/stat/94/175]; [Pub. L. 100–583][/us/pl/100/583], § 2(b), Nov. 3, 1988, [102 Stat. 2966][/us/stat/102/2966]; [Pub. L. 100–709][/us/pl/100/709], § 2(d), Nov. 23, 1988, [102 Stat. 4731][/us/stat/102/4731]; [Pub. L. 111–24, title II][/us/pl/111/24/tII], § 204, May 22, 2009, [123 Stat. 1746][/us/stat/123/1746]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), (3), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 
  __Amendments__ 
 
-    2010—Subsecs. (a), (c). [Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], substituted “Bureau” for “Board” wherever appearing.
+    2010—Subsecs. (a), (c). [Pub. L. 111–203][/us/pl/111/203], § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
-    Subsec. (d)(2), (3). [Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], substituted “Bureau” for “Board” wherever appearing.
+    Subsec. (d)(2), (3). [Pub. L. 111–203][/us/pl/111/203], § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
     Subsec. (d)(5). [Pub. L. 111–203][/us/pl/111/203] substituted “The Bureau, in” for “The Board, in” and “and the Bureau, may” for “and the Federal Trade Commission, may”.
 
     2009—Subsec. (d). [Pub. L. 111–24][/us/pl/111/24] added subsec. (d).
 
-    1988—Subsec. (a). [Pub. L. 100–583, § 2(b)(1)][/us/pl/100/583/s2/b/1], substituted “Except as provided in subsection (c), regulations” for “Regulations”.
+    1988—Subsec. (a). [Pub. L. 100–583][/us/pl/100/583], § 2(b)(1), substituted “Except as provided in subsection (c), regulations” for “Regulations”.
 
     Subsec. (b). [Pub. L. 100–709][/us/pl/100/709] substituted “sections 1637a(b)(3) and 1638(b)(1)” for “section 1638(b)(1)”.
 
-    Subsec. (c). [Pub. L. 100–583, § 2(b)(2)][/us/pl/100/583/s2/b/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 100–583][/us/pl/100/583], § 2(b)(2), added subsec. (c).
 
     1980—Subsec. (a). [Pub. L. 96–221][/us/pl/96/221] substituted provisions setting forth form of disclosure to meet requirements of this subchapter, for provisions setting forth form of disclosure authorized under this part or part D of this subchapter.
 
@@ -139,27 +139,27 @@
 [/us/usc/t15/s1637/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637%2Fc
 [/us/usc/t15/s1637/c/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637%2Fc%2F1%2FA%2Fiii
 [/us/usc/t15/s1681a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a
-[/us/pl/90/321/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs122
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
 [/us/stat/82/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F152
-[/us/pl/93/495/s307/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs307%2Fe
+[/us/pl/93/495/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtIII
 [/us/stat/88/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1516
-[/us/pl/96/221/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs611
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F175
-[/us/pl/100/583/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F583%2Fs2%2Fb
+[/us/pl/100/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F583
 [/us/stat/102/2966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2966
-[/us/pl/100/709/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F709%2Fs2%2Fd
+[/us/pl/100/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F709
 [/us/stat/102/4731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4731
-[/us/pl/111/24/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs204
+[/us/pl/111/24/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtII
 [/us/stat/123/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1746
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24
-[/us/pl/100/583/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F583%2Fs2%2Fb%2F1
+[/us/pl/100/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F583
 [/us/pl/100/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F709
-[/us/pl/100/583/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F583%2Fs2%2Fb%2F2
+[/us/pl/100/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F583
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495

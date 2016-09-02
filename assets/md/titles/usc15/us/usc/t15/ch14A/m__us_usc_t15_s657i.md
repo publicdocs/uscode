@@ -31,7 +31,7 @@
 
         The Administrator shall include a report on the regulations whenever the Administration submits the report required by section 657o of this title.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[37\], as added [Pub. L. 110–234, title XII, § 12062(2)][/us/pl/110/234/s12062/2], May 22, 2008, [122 Stat. 1407][/us/stat/122/1407], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12062(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2169.)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[37\], as added [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12062(2), May 22, 2008, [122 Stat. 1407][/us/stat/122/1407], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12062(2), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2169.)
 
  __References in Text__ 
 
@@ -56,10 +56,10 @@
 ----------
 ----------
 
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
-[/us/pl/110/234/s12062/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12062%2F2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1407
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

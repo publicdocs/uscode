@@ -25,7 +25,7 @@
 
     (4) to the public when he determines such disclosure to be necessary in order to protect health and safety after notice and opportunity for comment in writing or for discussion in closed session within fifteen days by the party to which the information pertains (if the delay resulting from such notice and opportunity for comment would not be detrimental to health and safety).
 
-([Pub. L. 93–498, § 20][/us/pl/93/498/s20], Oct. 29, 1974, [88 Stat. 1547][/us/stat/88/1547]; [Pub. L. 106–503, title I, § 110(a)(2)(B)(viii)][/us/pl/106/503/s110/a/2/B/viii], Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302]; [Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1)][/us/pl/112/239/s1802/b/1], Jan. 2, 2013, [126 Stat. 2100][/us/stat/126/2100].)
+([Pub. L. 93–498][/us/pl/93/498], § 20, Oct. 29, 1974, [88 Stat. 1547][/us/stat/88/1547]; [Pub. L. 106–503, title I][/us/pl/106/503/tI], § 110(a)(2)(B)(viii), Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302]; [Pub. L. 112–239, div. A, title XVIII][/us/pl/112/239/dA/tXVIII], § 1802(b)(1), Jan. 2, 2013, [126 Stat. 2100][/us/stat/126/2100].)
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
-[/us/pl/93/498/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs20
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1547
-[/us/pl/106/503/s110/a/2/B/viii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs110%2Fa%2F2%2FB%2Fviii
+[/us/pl/106/503/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2FtI
 [/us/stat/114/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2302
-[/us/pl/112/239/s1802/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1802%2Fb%2F1
+[/us/pl/112/239/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVIII
 [/us/stat/126/2100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2100
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/106/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503

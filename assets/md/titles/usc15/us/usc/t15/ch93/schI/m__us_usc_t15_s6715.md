@@ -23,7 +23,7 @@
 
     (3) prevent, significantly interfere with, or have the authority to review, approve, or disapprove a plan of reorganization by which an insurer proposes to reorganize from mutual form to become a stock insurer (whether as a direct or indirect subsidiary of a mutual holding company or otherwise) unless such State is the State of domicile of the insurer.
 
-([Pub. L. 106–102, title III, § 306][/us/pl/106/102/s306], Nov. 12, 1999, [113 Stat. 1415][/us/stat/113/1415].)
+([Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 306, Nov. 12, 1999, [113 Stat. 1415][/us/stat/113/1415].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t15/s6701/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6701%2Fc%2F2
-[/us/pl/106/102/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs306
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1415
 
 

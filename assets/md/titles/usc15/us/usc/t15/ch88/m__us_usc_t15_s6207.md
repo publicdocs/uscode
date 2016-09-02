@@ -39,7 +39,7 @@
 
         If the Attorney General or the Commission receives a notice described in [section 6211(2)(H) of this title][/us/usc/t15/s6211/2/H], the Attorney General or the Commission, as the case may be, shall transmit such notice to the person that provided the evidence with respect to which such notice is received.
 
-([Pub. L. 103–438, § 8][/us/pl/103/438/s8], Nov. 2, 1994, [108 Stat. 4601][/us/stat/108/4601].)
+([Pub. L. 103–438][/us/pl/103/438], § 8, Nov. 2, 1994, [108 Stat. 4601][/us/stat/108/4601].)
 
 ----------
 
@@ -53,7 +53,7 @@
 [/us/usc/t15/s6211/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6211%2F2
 [/us/usc/t15/s6204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6204
 [/us/usc/t15/s6211/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6211%2F2%2FH
-[/us/pl/103/438/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438%2Fs8
+[/us/pl/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438
 [/us/stat/108/4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4601
 
 

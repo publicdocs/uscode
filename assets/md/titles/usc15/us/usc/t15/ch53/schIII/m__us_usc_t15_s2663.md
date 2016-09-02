@@ -39,7 +39,7 @@
 
             (E) Outdoor radon levels around the country.
 
-([Pub. L. 94–469, title III, § 303][/us/pl/94/469/s303], as added [Pub. L. 100–551, § 1(a)][/us/pl/100/551/s1/a], Oct. 28, 1988, [102 Stat. 2755][/us/stat/102/2755].)
+([Pub. L. 94–469, title III][/us/pl/94/469/tIII], § 303, as added [Pub. L. 100–551][/us/pl/100/551], § 1(a), Oct. 28, 1988, [102 Stat. 2755][/us/stat/102/2755].)
 
 ----------
 
@@ -49,8 +49,8 @@
 ----------
 
 [/us/usc/t15/s2661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2661
-[/us/pl/94/469/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs303
-[/us/pl/100/551/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F551%2Fs1%2Fa
+[/us/pl/94/469/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtIII
+[/us/pl/100/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F551
 [/us/stat/102/2755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2755
 
 

@@ -17,7 +17,7 @@
 
     Nothing in this subchapter affects any specific statutory obligation of any Federal agency (1) to coordinate or consult with any other Federal or State agency or (2) to act, or to refrain from acting, contingent upon the recommendations or certification of any other Federal or State agency.
 
-([Pub. L. 94–136, title III, § 305][/us/pl/94/136/s305], Nov. 28, 1975, [89 Stat. 741][/us/stat/89/741].)
+([Pub. L. 94–136, title III][/us/pl/94/136/tIII], § 305, Nov. 28, 1975, [89 Stat. 741][/us/stat/89/741].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/136/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2Fs305
+[/us/pl/94/136/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2FtIII
 [/us/stat/89/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F741
 
 

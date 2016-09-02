@@ -47,7 +47,7 @@
 
         This section does not preclude a person in the United States from voluntarily giving testimony or a statement, or producing a document or other thing, in any manner acceptable to such person for use in an investigation by a foreign antitrust authority.
 
-([Pub. L. 103–438, § 4][/us/pl/103/438/s4], Nov. 2, 1994, [108 Stat. 4599][/us/stat/108/4599].)
+([Pub. L. 103–438][/us/pl/103/438], § 4, Nov. 2, 1994, [108 Stat. 4599][/us/stat/108/4599].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/103/438/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438%2Fs4
+[/us/pl/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438
 [/us/stat/108/4599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4599
 
 

@@ -29,7 +29,7 @@
 
     (6) develop handbooks to assist Federal, State, and local fire service and law enforcement personnel in arson prevention and detection.
 
-([Pub. L. 93–498, § 24][/us/pl/93/498/s24], as added [Pub. L. 95–422, § 3(a)][/us/pl/95/422/s3/a], Oct. 5, 1978, [92 Stat. 932][/us/stat/92/932]; amended [Pub. L. 103–254, § 4][/us/pl/103/254/s4], May 19, 1994, [108 Stat. 682][/us/stat/108/682]; [Pub. L. 106–503, title I, § 110(a)(1)(C)][/us/pl/106/503/s110/a/1/C], (D), Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302].)
+([Pub. L. 93–498][/us/pl/93/498], § 24, as added [Pub. L. 95–422][/us/pl/95/422], § 3(a), Oct. 5, 1978, [92 Stat. 932][/us/stat/92/932]; amended [Pub. L. 103–254][/us/pl/103/254], § 4, May 19, 1994, [108 Stat. 682][/us/stat/108/682]; [Pub. L. 106–503, title I][/us/pl/106/503/tI], § 110(a)(1)(C), (D), Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302].)
 
  __Amendments__ 
 
@@ -52,12 +52,12 @@
 ----------
 ----------
 
-[/us/pl/93/498/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs24
-[/us/pl/95/422/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F422%2Fs3%2Fa
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
+[/us/pl/95/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F422
 [/us/stat/92/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F932
-[/us/pl/103/254/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F254%2Fs4
+[/us/pl/103/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F254
 [/us/stat/108/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F682
-[/us/pl/106/503/s110/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs110%2Fa%2F1%2FC
+[/us/pl/106/503/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2FtI
 [/us/stat/114/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2302
 [/us/pl/106/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503
 [/us/pl/103/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F254

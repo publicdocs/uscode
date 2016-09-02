@@ -17,7 +17,7 @@
 
     Congress hereby reconfirms its long-standing policy of favoring the use by governmental agencies of the usual and customary channels, facilities, and arrangements of trade and commerce, and directs the Secretary of Agriculture and the Commodity Credit Corporation to the maximum extent practicable to adopt policies and procedures designed to minimize the acquisition of stocks by the Commodity Credit Corporation, to encourage orderly marketing of farm commodities through private competitive trade channels, both cooperative and noncooperative, and to obtain maximum returns in the marketplace for producers and for the Commodity Credit Corporation.
 
-([Pub. L. 87–703, title IV, § 402][/us/pl/87/703/s402], Sept. 27, 1962, [76 Stat. 632][/us/stat/76/632].)
+([Pub. L. 87–703, title IV][/us/pl/87/703/tIV], § 402, Sept. 27, 1962, [76 Stat. 632][/us/stat/76/632].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/703/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2Fs402
+[/us/pl/87/703/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F703%2FtIV
 [/us/stat/76/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F632
 
 

@@ -45,11 +45,11 @@
 
             Such agencies shall cooperate with the Administrator and provide such other descriptive information with respect to energy information activities as the Administrator may request. The Administrator shall prepare a report on his activities under this subsection, which report shall include recommendations with respect to the coordination of energy information activities of the Federal Government. Such report shall be available to the Congress and shall be transmitted to the President and to the Energy Resources Council for use in preparation of the plan required under subsection (c) of [section 5818 of title 42][/us/usc/t42/s5818].
 
-([Pub. L. 93–275, § 56][/us/pl/93/275/s56], as added [Pub. L. 94–385, title I, § 142][/us/pl/94/385/s142], Aug. 14, 1976, [90 Stat. 1138][/us/stat/90/1138].)
+([Pub. L. 93–275][/us/pl/93/275], § 56, as added [Pub. L. 94–385, title I][/us/pl/94/385/tI], § 142, Aug. 14, 1976, [90 Stat. 1138][/us/stat/90/1138].)
 
  __References in Text__ 
 
-    [Section 5818 of title 42][/us/usc/t42/s5818], referred to in subsec. (c), was repealed by [Pub. L. 95–91, title VII, § 709(b)][/us/pl/95/91/s709/b], Aug. 4, 1977, [91 Stat. 608][/us/stat/91/608].
+    [Section 5818 of title 42][/us/usc/t42/s5818], referred to in subsec. (c), was repealed by [Pub. L. 95–91, title VII][/us/pl/95/91/tVII], § 709(b), Aug. 4, 1977, [91 Stat. 608][/us/stat/91/608].
 
  __Effective Date__ 
 
@@ -69,11 +69,11 @@
 ----------
 
 [/us/usc/t42/s5818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5818
-[/us/pl/93/275/s56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs56
-[/us/pl/94/385/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs142
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
+[/us/pl/94/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtI
 [/us/stat/90/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1138
 [/us/usc/t42/s5818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5818
-[/us/pl/95/91/s709/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs709%2Fb
+[/us/pl/95/91/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVII
 [/us/stat/91/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F608
 [/us/pl/94/385/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs143
 [/us/usc/t15/s790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs790

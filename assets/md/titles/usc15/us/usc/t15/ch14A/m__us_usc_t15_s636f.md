@@ -17,7 +17,7 @@
 
     The Administrator and the Commissioner of Internal Revenue shall, to the maximum extent practicable, ensure that all relevant and allowable tax records for loan approval are shared with loan processors in an expedited manner, upon request by the Administrator.
 
-([Pub. L. 110–234, title XII, § 12066(b)][/us/pl/110/234/s12066/b], May 22, 2008, [122 Stat. 1410][/us/stat/122/1410]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12066(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2172.)
+([Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12066(b), May 22, 2008, [122 Stat. 1410][/us/stat/122/1410]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12066(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2172.)
 
  __Codification__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s12066/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12066%2Fb
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1410
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

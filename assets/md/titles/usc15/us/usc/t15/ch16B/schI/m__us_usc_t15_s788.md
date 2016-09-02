@@ -75,7 +75,7 @@
 
         which are promulgated by any organization which is not a Federal entity. For purposes of the preceding sentence, any revision by any such organization of any such rule, procedure, requirement, or standard shall be considered to be the same as the promulgation of such standard.
 
-([Pub. L. 93–275, § 32][/us/pl/93/275/s32], as added [Pub. L. 95–70, § 9][/us/pl/95/70/s9], July 21, 1977, [91 Stat. 278][/us/stat/91/278].)
+([Pub. L. 93–275][/us/pl/93/275], § 32, as added [Pub. L. 95–70][/us/pl/95/70], § 9, July 21, 1977, [91 Stat. 278][/us/stat/91/278].)
 
  __Transfer of Functions__ 
 
@@ -88,8 +88,8 @@
 ----------
 ----------
 
-[/us/pl/93/275/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs32
-[/us/pl/95/70/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F70%2Fs9
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
+[/us/pl/95/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F70
 [/us/stat/91/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F278
 
 

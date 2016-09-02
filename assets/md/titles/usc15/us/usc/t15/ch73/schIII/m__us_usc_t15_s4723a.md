@@ -89,7 +89,7 @@
 
         There are authorized to be appropriated to the Secretary of Commerce to carry out this section $8,000,000 for fiscal year 1993, and $5,500,000 for fiscal year 1994. Funds made available under this subsection may be used for the acquisition of real property.
 
-    (j) __Repealed.__  __[__  __Pub. L. 104–66, title I, § 1021(b)__  __][/us/pl/104/66/s1021/b]__  __,__  __Dec. 21, 1995__  __,__  __[__  __109 Stat. 712__  __][/us/stat/109/712]__ 
+    (j) __Repealed.__  __[__  __Pub. L. 104–66, title I__  __][/us/pl/104/66/tI]__  __, § 1021(b),__  __Dec. 21, 1995__  __,__  __[__  __109 Stat. 712__  __][/us/stat/109/712]__ 
 
     (k) __Definitions__ 
 
@@ -111,7 +111,7 @@
 
         (3) the term “United States” means the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-([Pub. L. 102–549, title IV, § 401][/us/pl/102/549/s401], Oct. 28, 1992, [106 Stat. 3661][/us/stat/106/3661]; [Pub. L. 104–66, title I, § 1021(b)][/us/pl/104/66/s1021/b], Dec. 21, 1995, [109 Stat. 712][/us/stat/109/712].)
+([Pub. L. 102–549, title IV][/us/pl/102/549/tIV], § 401, Oct. 28, 1992, [106 Stat. 3661][/us/stat/106/3661]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1021(b), Dec. 21, 1995, [109 Stat. 712][/us/stat/109/712].)
 
  __Codification__ 
 
@@ -130,11 +130,11 @@
 
 [/us/usc/t15/s4723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4723
 [/us/usc/t15/s4723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4723
-[/us/pl/104/66/s1021/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1021%2Fb
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F712
-[/us/pl/102/549/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2Fs401
+[/us/pl/102/549/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F549%2FtIV
 [/us/stat/106/3661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3661
-[/us/pl/104/66/s1021/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1021%2Fb
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F712
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 

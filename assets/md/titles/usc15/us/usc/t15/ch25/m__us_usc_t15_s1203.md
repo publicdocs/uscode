@@ -41,7 +41,7 @@
 
         In this section, a reference to a flammability standard or other regulation for a fabric, related material, or product in effect under this chapter includes a standard of flammability continued in effect by [section 11 of the Act of December 14, 1967][/us/act/1967-12-14/s11] ([Public Law 90–189][/us/pl/90/189]).
 
-([June 30, 1953, ch. 164, § 16][/us/act/1953-06-30/ch164/s16], as added [Pub. L. 90–189, § 10][/us/pl/90/189/s10], Dec. 14, 1967, [81 Stat. 574][/us/stat/81/574]; amended [Pub. L. 94–284, § 17(b)][/us/pl/94/284/s17/b], May 11, 1976, [90 Stat. 512][/us/stat/90/512]; [Pub. L. 110–314, title II, § 204(c)(2)(G)][/us/pl/110/314/s204/c/2/G], Aug. 14, 2008, [122 Stat. 3043][/us/stat/122/3043].)
+([June 30, 1953, ch. 164][/us/act/1953-06-30/ch164], § 16, as added [Pub. L. 90–189][/us/pl/90/189], § 10, Dec. 14, 1967, [81 Stat. 574][/us/stat/81/574]; amended [Pub. L. 94–284][/us/pl/94/284], § 17(b), May 11, 1976, [90 Stat. 512][/us/stat/90/512]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 204(c)(2)(G), Aug. 14, 2008, [122 Stat. 3043][/us/stat/122/3043].)
 
  __References in Text__ 
 
@@ -71,12 +71,12 @@
 [/us/usc/t5/s553/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553%2Fb
 [/us/act/1967-12-14/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1967-12-14%2Fs11
 [/us/pl/90/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189
-[/us/act/1953-06-30/ch164/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch164%2Fs16
-[/us/pl/90/189/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189%2Fs10
+[/us/act/1953-06-30/ch164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch164
+[/us/pl/90/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189
 [/us/stat/81/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F574
-[/us/pl/94/284/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs17%2Fb
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/stat/90/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F512
-[/us/pl/110/314/s204/c/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fc%2F2%2FG
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3043
 [/us/act/1967-12-14/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1967-12-14%2Fs11
 [/us/pl/90/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189

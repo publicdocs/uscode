@@ -155,7 +155,7 @@
 
             (B) any other interstate instrumentality.
 
-([Pub. L. 95–213, title I, § 104A][/us/pl/95/213/s104A], as added [Pub. L. 105–366, § 4][/us/pl/105/366/s4], Nov. 10, 1998, [112 Stat. 3306][/us/stat/112/3306].)
+([Pub. L. 95–213, title I][/us/pl/95/213/tI], § 104A, as added [Pub. L. 105–366][/us/pl/105/366], § 4, Nov. 10, 1998, [112 Stat. 3306][/us/stat/112/3306].)
 
  __Codification__ 
 
@@ -172,8 +172,8 @@
 [/us/usc/t15/s78dd–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%932
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t22/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs288
-[/us/pl/95/213/s104A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213%2Fs104A
-[/us/pl/105/366/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366%2Fs4
+[/us/pl/95/213/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213%2FtI
+[/us/pl/105/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366
 [/us/stat/112/3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3306
 [/us/pl/95/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404

@@ -81,21 +81,21 @@
 
             (C) is of at least 60 hours duration.
 
-([Jan. 2, 1951, ch. 1194, § 5][/us/act/1951-01-02/ch1194/s5], [64 Stat. 1135][/us/stat/64/1135]; [Pub. L. 102–251, title II, § 202(b)][/us/pl/102/251/s202/b], Mar. 9, 1992, [106 Stat. 61][/us/stat/106/61]; [Pub. L. 104–264, title XII, § 1222][/us/pl/104/264/s1222], Oct. 9, 1996, [110 Stat. 3286][/us/stat/110/3286]; [Pub. L. 104–324, title XI, § 1106][/us/pl/104/324/s1106], Oct. 19, 1996, [110 Stat. 3967][/us/stat/110/3967]; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 147\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–251.)
+([Jan. 2, 1951, ch. 1194][/us/act/1951-01-02/ch1194], § 5, [64 Stat. 1135][/us/stat/64/1135]; [Pub. L. 102–251, title II][/us/pl/102/251/tII], § 202(b), Mar. 9, 1992, [106 Stat. 61][/us/stat/106/61]; [Pub. L. 104–264, title XII][/us/pl/104/264/tXII], § 1222, Oct. 9, 1996, [110 Stat. 3286][/us/stat/110/3286]; [Pub. L. 104–324, title XI][/us/pl/104/324/tXI], § 1106, Oct. 19, 1996, [110 Stat. 3967][/us/stat/110/3967]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 147\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–251.)
 
  __Amendments__ 
 
     2000—Subsec. (b)(1). [Pub. L. 106–554][/us/pl/106/554] inserted “for a voyage or a segment of a voyage that begins and ends in the State of Hawaii, or” after “Except” in introductory provisions.
 
-    1996—Subsec. (b)(1)(C). [Pub. L. 104–324, § 1106(b)][/us/pl/104/324/s1106/b], added subpar. (C).
+    1996—Subsec. (b)(1)(C). [Pub. L. 104–324][/us/pl/104/324], § 1106(b), added subpar. (C).
 
-    Subsec. (b)(2)(C). [Pub. L. 104–264, § 1222][/us/pl/104/264/s1222], and [Pub. L. 104–324, § 1106(a)][/us/pl/104/324/s1106/a], made substantially identical amendments, adding subpar. (C). The text of subpar. (C) is based on amendment by [Pub. L. 104–324][/us/pl/104/324].
+    Subsec. (b)(2)(C). [Pub. L. 104–264][/us/pl/104/264], § 1222, and [Pub. L. 104–324][/us/pl/104/324], § 1106(a), made substantially identical amendments, adding subpar. (C). The text of subpar. (C) is based on amendment by [Pub. L. 104–324][/us/pl/104/324].
 
-    Subsec. (c). [Pub. L. 104–324, § 1106(c)][/us/pl/104/324/s1106/c], added subsec. (c).
+    Subsec. (c). [Pub. L. 104–324][/us/pl/104/324], § 1106(c), added subsec. (c).
 
-    1992—Subsec. (a). [Pub. L. 102–251, § 202(b)(1)][/us/pl/102/251/s202/b/1], (2), designated existing provisions as subsec. (a), inserted heading, and inserted before period at end “, including on a vessel documented under chapter 121 of title 46 or documented under the laws of a foreign country”.
+    1992—Subsec. (a). [Pub. L. 102–251][/us/pl/102/251], § 202(b)(1), (2), designated existing provisions as subsec. (a), inserted heading, and inserted before period at end “, including on a vessel documented under chapter 121 of title 46 or documented under the laws of a foreign country”.
 
-    Subsec. (b). [Pub. L. 102–251, § 202(b)(3)][/us/pl/102/251/s202/b/3], added subsec. (b).
+    Subsec. (b). [Pub. L. 102–251][/us/pl/102/251], § 202(b)(3), added subsec. (b).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -110,24 +110,24 @@
 
 [/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151
 [/us/usc/t18/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs7
-[/us/act/1951-01-02/ch1194/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-02%2Fch1194%2Fs5
+[/us/act/1951-01-02/ch1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-02%2Fch1194
 [/us/stat/64/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1135
-[/us/pl/102/251/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs202%2Fb
+[/us/pl/102/251/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2FtII
 [/us/stat/106/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F61
-[/us/pl/104/264/s1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs1222
+[/us/pl/104/264/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2FtXII
 [/us/stat/110/3286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3286
-[/us/pl/104/324/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1106
+[/us/pl/104/324/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2FtXI
 [/us/stat/110/3967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3967
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/104/324/s1106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1106%2Fb
-[/us/pl/104/264/s1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs1222
-[/us/pl/104/324/s1106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1106%2Fa
 [/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
-[/us/pl/104/324/s1106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324%2Fs1106%2Fc
-[/us/pl/102/251/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs202%2Fb%2F1
-[/us/pl/102/251/s202/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs202%2Fb%2F3
+[/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/104/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F324
+[/us/pl/102/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251
+[/us/pl/102/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106

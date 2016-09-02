@@ -37,7 +37,7 @@
 
             (C) any other relevant information (as determined by the Secretary) in the possession of the Secretary, including information regarding the market share of the applicant in the line of commerce to which the conduct specified in the application relates.
 
-([Pub. L. 97–290, title III, § 302][/us/pl/97/290/s302], Oct. 8, 1982, [96 Stat. 1240][/us/stat/96/1240].)
+([Pub. L. 97–290, title III][/us/pl/97/290/tIII], § 302, Oct. 8, 1982, [96 Stat. 1240][/us/stat/96/1240].)
 
  __Effective Date__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t15/s4020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4020
-[/us/pl/97/290/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs302
+[/us/pl/97/290/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2FtIII
 [/us/stat/96/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1240
 [/us/usc/t15/s4020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4020
 [/us/pl/97/290/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs312%2Fb

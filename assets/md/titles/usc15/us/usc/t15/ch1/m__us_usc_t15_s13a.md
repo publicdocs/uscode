@@ -19,7 +19,7 @@
 
     Any person violating any of the provisions of this section shall, upon conviction thereof, be fined not more than $5,000 or imprisoned not more than one year, or both.
 
-([June 19, 1936, ch. 592, § 3][/us/act/1936-06-19/ch592/s3], [49 Stat. 1528][/us/stat/49/1528].)
+([June 19, 1936, ch. 592][/us/act/1936-06-19/ch592], § 3, [49 Stat. 1528][/us/stat/49/1528].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1936-06-19/ch592/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-19%2Fch592%2Fs3
+[/us/act/1936-06-19/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-19%2Fch592
 [/us/stat/49/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1528
 
 

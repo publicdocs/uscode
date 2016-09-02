@@ -33,7 +33,7 @@
 
         If any person other than the ultimate consumer breaks a package which bears a stamp, tag, label, or other means of identification conforming to the requirements of [section 70b of this title][/us/usc/t15/s70b], and if such package contains one or more units of a textile fiber product to which a stamp, tag, label, or other identification conforming to the requirements of [section 70b of this title][/us/usc/t15/s70b] is not affixed, such person shall affix a stamp, tag, label, or other identification bearing the information on the stamp, tag, label, or other means of identification attached to such broken package to each unit of textile fiber product taken from such broken package.
 
-([Pub. L. 85–897, § 5][/us/pl/85/897/s5], Sept. 2, 1958, [72 Stat. 1720][/us/stat/72/1720].)
+([Pub. L. 85–897][/us/pl/85/897], § 5, Sept. 2, 1958, [72 Stat. 1720][/us/stat/72/1720].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t15/s70b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs70b%2Fb
 [/us/usc/t15/s70b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs70b
 [/us/usc/t15/s70b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs70b
-[/us/pl/85/897/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F897%2Fs5
+[/us/pl/85/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F897
 [/us/stat/72/1720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1720
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

@@ -23,7 +23,7 @@
 
         If any provision of this section,1 or the application thereof to any person or circumstances, is held invalid, the remainder of the section,1 and the application of such provision to other persons or circumstances, shall not be affected thereby.
 
-([Pub. L. 106–102, title III, § 314][/us/pl/106/102/s314], Nov. 12, 1999, [113 Stat. 1420][/us/stat/113/1420].)
+([Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 314, Nov. 12, 1999, [113 Stat. 1420][/us/stat/113/1420].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/106/102/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs314
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1420
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 

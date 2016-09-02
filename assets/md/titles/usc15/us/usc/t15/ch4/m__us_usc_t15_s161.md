@@ -17,7 +17,7 @@
 
     The Congress of the United States reserves the right to alter, amend, or repeal any provision of this chapter.
 
-([Sept. 19, 1922, ch. 346, § 28][/us/act/1922-09-19/ch346/s28], [42 Stat. 856][/us/stat/42/856].)
+([Sept. 19, 1922, ch. 346][/us/act/1922-09-19/ch346], § 28, [42 Stat. 856][/us/stat/42/856].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1922-09-19/ch346/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346%2Fs28
+[/us/act/1922-09-19/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346
 [/us/stat/42/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F856
 
 

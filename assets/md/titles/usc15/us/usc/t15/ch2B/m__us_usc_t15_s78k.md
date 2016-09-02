@@ -71,31 +71,31 @@
 
         It shall be unlawful for a member of a national securities exchange who is both a dealer and a broker, or for any person who both as a broker and a dealer transacts a business in securities through the medium of a member or otherwise, to effect through the use of any facility of a national securities exchange or of the mails or of any means or instrumentality of interstate commerce, or otherwise in the case of a member, (1) any transaction in connection with which, directly or indirectly, he extends or maintains or arranges for the extension or maintenance of credit to or for a customer on any security (other than an exempted security) which was a part of a new issue in the distribution of which he participated as a member of a selling syndicate or group within thirty days prior to such transaction: Provided, That credit shall not be deemed extended by reason of a bona fide delayed delivery of (i) any such security against full payment of the entire purchase price thereof upon such delivery within thirty-five days after such purchase or (ii) any mortgage related security or any small business related security against full payment of the entire purchase price thereof upon such delivery within one hundred and eighty days after such purchase, or within such shorter period as the Commission may prescribe by rule or regulation, or (2) any transaction with respect to any security (other than an exempted security) unless, if the transaction is with a customer, he discloses to such customer in writing at or before the completion of the transaction whether he is acting as a dealer for his own account, as a broker for such customer, or as a broker for some other person.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 11, [48 Stat. 891][/us/stat/48/891]; [Aug. 10, 1954, ch. 667][/us/act/1954-08-10/ch667], title II, § 201, [68 Stat. 686][/us/stat/68/686]; [Pub. L. 94–29, § 6][/us/pl/94/29/s6], June 4, 1975, [89 Stat. 110][/us/stat/89/110]; [Pub. L. 95–283, § 18(a)][/us/pl/95/283/s18/a], May 21, 1978, [92 Stat. 275][/us/stat/92/275]; [Pub. L. 98–440, title I, § 104][/us/pl/98/440/s104], Oct. 3, 1984, [98 Stat. 1690][/us/stat/98/1690]; [Pub. L. 103–68, § 1][/us/pl/103/68/s1], Aug. 11, 1993, [107 Stat. 691][/us/stat/107/691]; [Pub. L. 103–325, title II, § 205][/us/pl/103/325/s205], Sept. 23, 1994, [108 Stat. 2199][/us/stat/108/2199].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 11, [48 Stat. 891][/us/stat/48/891]; [Aug. 10, 1954, ch. 667][/us/act/1954-08-10/ch667], title II, § 201, [68 Stat. 686][/us/stat/68/686]; [Pub. L. 94–29][/us/pl/94/29], § 6, June 4, 1975, [89 Stat. 110][/us/stat/89/110]; [Pub. L. 95–283][/us/pl/95/283], § 18(a), May 21, 1978, [92 Stat. 275][/us/stat/92/275]; [Pub. L. 98–440, title I][/us/pl/98/440/tI], § 104, Oct. 3, 1984, [98 Stat. 1690][/us/stat/98/1690]; [Pub. L. 103–68][/us/pl/103/68], § 1, Aug. 11, 1993, [107 Stat. 691][/us/stat/107/691]; [Pub. L. 103–325, title II][/us/pl/103/325/tII], § 205, Sept. 23, 1994, [108 Stat. 2199][/us/stat/108/2199].)
 
  __Amendments__ 
 
     1994—Subsec. (d)(1)(ii). [Pub. L. 103–325][/us/pl/103/325] inserted “or any small business related security” after “mortgage related security”.
 
-    1993—Subsec. (a)(1)(E). [Pub. L. 103–68, § 1(1)][/us/pl/103/68/s1/1], struck out “(other than an investment company)” after “trust”.
+    1993—Subsec. (a)(1)(E). [Pub. L. 103–68][/us/pl/103/68], § 1(1), struck out “(other than an investment company)” after “trust”.
 
-    Subsec. (a)(1)(H), (I). [Pub. L. 103–68, § 1(2)][/us/pl/103/68/s1/2]–(4), added subpar. (H) and redesignated former subpar. (H) as (I).
+    Subsec. (a)(1)(H), (I). [Pub. L. 103–68][/us/pl/103/68], § 1(2)–(4), added subpar. (H) and redesignated former subpar. (H) as (I).
 
     1984—Subsec. (d)(1). [Pub. L. 98–440][/us/pl/98/440] designated existing provisions of par. (1) as cl. (i) and added cl. (ii).
 
     1978—Subsec. (a)(3). [Pub. L. 95–283][/us/pl/95/283] substituted “February 1, 1978” for “May 1, 1975”, and “February 1, 1979” for “May 1, 1978” in two places.
 
-    1975—Subsec. (a). [Pub. L. 94–29, § 6(2)][/us/pl/94/29/s6/2], prohibited stock exchange members from effecting any transaction on the exchange for its own account, the account of an associated person, or an account with respect to which the member or an associated person exercises investment discretion, exempted from that prohibition 8 types of transactions, and authorized the Commission, as it deems necessary or appropriate in the public interest or for the protection of investors, to regulate or prohibit the specifically exempted transactions, certain transactions otherwise that on a national securities exchange, and transactions on a national securities exchange effected by a broker or dealer not a member thereof for the account of such broker or dealer, the account of an associated person, or an account with respect to which such broker, dealer, or associated person exercises investment discretion.
+    1975—Subsec. (a). [Pub. L. 94–29][/us/pl/94/29], § 6(2), prohibited stock exchange members from effecting any transaction on the exchange for its own account, the account of an associated person, or an account with respect to which the member or an associated person exercises investment discretion, exempted from that prohibition 8 types of transactions, and authorized the Commission, as it deems necessary or appropriate in the public interest or for the protection of investors, to regulate or prohibit the specifically exempted transactions, certain transactions otherwise that on a national securities exchange, and transactions on a national securities exchange effected by a broker or dealer not a member thereof for the account of such broker or dealer, the account of an associated person, or an account with respect to which such broker, dealer, or associated person exercises investment discretion.
 
-    Subsec. (b). [Pub. L. 94–29, § 6(2)][/us/pl/94/29/s6/2], struck out requirement that specialist’s dealings be limited to those transactions reasonably necessary to permit him to maintain a fair and orderly market, expanded the Commission’s rulemaking authority in the area of specialist’s dealings so that the Commission may define responsibilities and restrict activities of specialists in response to changing conditions in the market, expanded the standards to be followed by the Commission in exercising its rulemaking power to include the maintenance of fair and orderly markets and the removal of impediments to and the perfection of the mechanism of a national market system, and inserted specific reference to the Commission’s power to limit the activity of a specialist to that of a broker or dealer.
+    Subsec. (b). [Pub. L. 94–29][/us/pl/94/29], § 6(2), struck out requirement that specialist’s dealings be limited to those transactions reasonably necessary to permit him to maintain a fair and orderly market, expanded the Commission’s rulemaking authority in the area of specialist’s dealings so that the Commission may define responsibilities and restrict activities of specialists in response to changing conditions in the market, expanded the standards to be followed by the Commission in exercising its rulemaking power to include the maintenance of fair and orderly markets and the removal of impediments to and the perfection of the mechanism of a national market system, and inserted specific reference to the Commission’s power to limit the activity of a specialist to that of a broker or dealer.
 
-    Subsec. (e). [Pub. L. 94–29, § 6(3)][/us/pl/94/29/s6/3], struck out subsec. (e) which directed the Commission to make a study, to be submitted on or before Jan. 3, 1936, of the feasibility of segregating the functions of dealer and broker.
+    Subsec. (e). [Pub. L. 94–29][/us/pl/94/29], § 6(3), struck out subsec. (e) which directed the Commission to make a study, to be submitted on or before Jan. 3, 1936, of the feasibility of segregating the functions of dealer and broker.
 
     1954—Subsec. (d). Act Aug. 10, 1954, reduced from 6 months to 30 days the prohibition period against extending credit to purchasers of a new issue by dealers.
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–283, § 18(b)][/us/pl/95/283/s18/b], May 21, 1978, [92 Stat. 275][/us/stat/92/275], provided that: 
+[Pub. L. 95–283][/us/pl/95/283], § 18(b), May 21, 1978, [92 Stat. 275][/us/stat/92/275], provided that: 
 
 > “The amendment made by subsection (a) of this section \[amending this section\] shall be effective as of May 1, 1978.”
 
@@ -123,25 +123,25 @@
 [/us/stat/48/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F891
 [/us/act/1954-08-10/ch667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-10%2Fch667
 [/us/stat/68/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F686
-[/us/pl/94/29/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs6
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F110
-[/us/pl/95/283/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs18%2Fa
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/stat/92/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F275
-[/us/pl/98/440/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440%2Fs104
+[/us/pl/98/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440%2FtI
 [/us/stat/98/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1690
-[/us/pl/103/68/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F68%2Fs1
+[/us/pl/103/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F68
 [/us/stat/107/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F691
-[/us/pl/103/325/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs205
+[/us/pl/103/325/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtII
 [/us/stat/108/2199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2199
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
-[/us/pl/103/68/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F68%2Fs1%2F1
-[/us/pl/103/68/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F68%2Fs1%2F2
+[/us/pl/103/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F68
+[/us/pl/103/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F68
 [/us/pl/98/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440
 [/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
-[/us/pl/94/29/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs6%2F2
-[/us/pl/94/29/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs6%2F2
-[/us/pl/94/29/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs6%2F3
-[/us/pl/95/283/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs18%2Fb
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/stat/92/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F275
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/pl/94/29/s31/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs31%2Fa

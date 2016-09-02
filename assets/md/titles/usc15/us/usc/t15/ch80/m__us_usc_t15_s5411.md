@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to limit or otherwise affect the authority of any consensus standards organization to establish, modify, or withdraw any standards and specifications under any other law or authority.
 
-([Pub. L. 101–592, § 9][/us/pl/101/592/s9], formerly § 12, Nov. 16, 1990, [104 Stat. 2952][/us/stat/104/2952]; renumbered § 9 and amended [Pub. L. 106–34, § 9][/us/pl/106/34/s9], June 8, 1999, [113 Stat. 123][/us/stat/113/123].)
+([Pub. L. 101–592][/us/pl/101/592], § 9, formerly § 12, Nov. 16, 1990, [104 Stat. 2952][/us/stat/104/2952]; renumbered § 9 and amended [Pub. L. 106–34][/us/pl/106/34], § 9, June 8, 1999, [113 Stat. 123][/us/stat/113/123].)
 
  __Prior Provisions__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/101/592/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F592%2Fs9
+[/us/pl/101/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F592
 [/us/stat/104/2952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2952
-[/us/pl/106/34/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34%2Fs9
+[/us/pl/106/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34
 [/us/stat/113/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F123
 [/us/pl/101/592/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F592%2Fs9
 [/us/usc/t15/s5408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5408

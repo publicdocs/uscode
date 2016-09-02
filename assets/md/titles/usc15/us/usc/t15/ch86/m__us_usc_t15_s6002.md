@@ -27,7 +27,7 @@
 
     The Administrator shall review grant applications for compliance with this section prior to awarding grants.
 
-([Pub. L. 103–267, title II, § 203][/us/pl/103/267/s203], June 16, 1994, [108 Stat. 727][/us/stat/108/727].)
+([Pub. L. 103–267, title II][/us/pl/103/267/tII], § 203, June 16, 1994, [108 Stat. 727][/us/stat/108/727].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t15/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6001
-[/us/pl/103/267/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2Fs203
+[/us/pl/103/267/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2FtII
 [/us/stat/108/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F727
 
 

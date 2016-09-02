@@ -183,7 +183,7 @@
 
         If the end of any period of time provided in this section falls on a Saturday, Sunday, or legal public holiday (as defined in [section 6103(a) of title 5][/us/usc/t5/s6103/a]), then such period shall be extended to the end of the next day that is not a Saturday, Sunday, or legal public holiday.
 
-([Oct. 15, 1914, ch. 323, § 7A][/us/act/1914-10-15/ch323/s7A], as added [Pub. L. 94–435, title II, § 201][/us/pl/94/435/s201], Sept. 30, 1976, [90 Stat. 1390][/us/stat/90/1390]; amended [Pub. L. 98–620, title IV, § 402(10)(A)][/us/pl/98/620/s402/10/A], Nov. 8, 1984, [98 Stat. 3358][/us/stat/98/3358]; [Pub. L. 101–73, title XII, § 1214][/us/pl/101/73/s1214], Aug. 9, 1989, [103 Stat. 529][/us/stat/103/529]; [Pub. L. 106–102, title I, § 133(c)][/us/pl/106/102/s133/c], Nov. 12, 1999, [113 Stat. 1383][/us/stat/113/1383]; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title VI, § 630(a), (c), (d)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–108, 2762A–110.)
+([Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], § 7A, as added [Pub. L. 94–435, title II][/us/pl/94/435/tII], § 201, Sept. 30, 1976, [90 Stat. 1390][/us/stat/90/1390]; amended [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(10)(A), Nov. 8, 1984, [98 Stat. 3358][/us/stat/98/3358]; [Pub. L. 101–73, title XII][/us/pl/101/73/tXII], § 1214, Aug. 9, 1989, [103 Stat. 529][/us/stat/103/529]; [Pub. L. 106–102, title I][/us/pl/106/102/tI], § 133(c), Nov. 12, 1999, [113 Stat. 1383][/us/stat/113/1383]; [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title VI, § 630(a), (c), (d)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–108, 2762A–110.)
 
  __References in Text__ 
 
@@ -203,7 +203,7 @@
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title VI, § 630(a)\], amended subsec. (a) generally, reenacting introductory provisions, par. (1), and concluding provisions without change, adding par. (2), and striking out former pars. (2) and (3) which read as follows:
+    2000—Subsec. (a). [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title VI, § 630(a)\], amended subsec. (a) generally, reenacting introductory provisions, par. (1), and concluding provisions without change, adding par. (2), and striking out former pars. (2) and (3) which read as follows:
 
     “(2)(A) any voting securities or assets of a person engaged in manufacturing which has annual net sales or total assets of $10,000,000 or more are being acquired by any person which has total assets or annual net sales of $100,000,000 or more;
 
@@ -217,25 +217,25 @@
 
     “(B) an aggregate total amount of the voting securities and assets of the acquired person in excess of $15,000,000.”
 
-    Subsec. (e)(1). [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title VI, § 630(c)\], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (e)(1). [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title VI, § 630(c)\], designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (e)(2). [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title VI, § 630(d)(1)\], substituted “30 days” for “20 days”.
+    Subsec. (e)(2). [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title VI, § 630(d)(1)\], substituted “30 days” for “20 days”.
 
-    Subsec. (k). [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title VI, § 630(d)(2)\], added subsec. (k).
+    Subsec. (k). [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title VI, § 630(d)(2)\], added subsec. (k).
 
-    1999—Subsec. (c)(7). [Pub. L. 106–102, § 133(c)(1)][/us/pl/106/102/s133/c/1], inserted before semicolon at end “, except that a portion of a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to [section 1843(k) of title 12][/us/usc/t12/s1843/k]; and (B) does not require agency approval under [section 1842 of title 12][/us/usc/t12/s1842]”.
+    1999—Subsec. (c)(7). [Pub. L. 106–102][/us/pl/106/102], § 133(c)(1), inserted before semicolon at end “, except that a portion of a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to [section 1843(k) of title 12][/us/usc/t12/s1843/k]; and (B) does not require agency approval under [section 1842 of title 12][/us/usc/t12/s1842]”.
 
-    Subsec. (c)(8). [Pub. L. 106–102, § 133(c)(2)][/us/pl/106/102/s133/c/2], inserted before semicolon at end “, except that a portion of a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to [section 1843(k) of title 12][/us/usc/t12/s1843/k]; and (B) does not require agency approval under [section 1843 of title 12][/us/usc/t12/s1843]”.
+    Subsec. (c)(8). [Pub. L. 106–102][/us/pl/106/102], § 133(c)(2), inserted before semicolon at end “, except that a portion of a transaction is not exempt under this paragraph if such portion of the transaction (A) is subject to [section 1843(k) of title 12][/us/usc/t12/s1843/k]; and (B) does not require agency approval under [section 1843 of title 12][/us/usc/t12/s1843]”.
 
-    1989—Subsec. (c)(7). [Pub. L. 101–73, § 1214(1)][/us/pl/101/73/s1214/1], inserted reference to [section 1467a(e) of title 12][/us/usc/t12/s1467a/e].
+    1989—Subsec. (c)(7). [Pub. L. 101–73][/us/pl/101/73], § 1214(1), inserted reference to [section 1467a(e) of title 12][/us/usc/t12/s1467a/e].
 
-    Subsec. (c)(8). [Pub. L. 101–73, § 1214(2)][/us/pl/101/73/s1214/2], struck out reference to section 1726 or 1730a(e) of title 12.
+    Subsec. (c)(8). [Pub. L. 101–73][/us/pl/101/73], § 1214(2), struck out reference to section 1726 or 1730a(e) of title 12.
 
     1984—Subsec. (f)(2). [Pub. L. 98–620][/us/pl/98/620] struck out designation “(A)” before “upon the filing”, and struck out subpar. (B) which had provided that if the Federal Trade Commission or the Assistant Attorney General certified that he or it believed that the public interest required relief pendente lite pursuant to this subsection, the motion for a preliminary injunction had to be set down for hearing by the district judge so designated at the earliest practicable time, would take precedence over all matters except older matters of the same character and trials pursuant to [section 3161 of title 18][/us/usc/t18/s3161], and had to be in every way expedited.
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title VI, § 630(e)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–111, provided that: 
+[Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title VI, § 630(e)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–111, provided that: 
 
 > “This section \[amending this section and provisions set out as a note under this section\] and the amendments made by this section shall take effect on the 1st day of the 1st month that begins more than 30 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
 
@@ -249,13 +249,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 94–435, title II, § 202][/us/pl/94/435/s202], Sept. 30, 1976, [90 Stat. 1394][/us/stat/90/1394], provided that: 
+[Pub. L. 94–435, title II][/us/pl/94/435/tII], § 202, Sept. 30, 1976, [90 Stat. 1394][/us/stat/90/1394], provided that: 
 
 > “The amendment made by section 201 of this Act \[enacting this section\] shall take effect 150 days after the date of enactment of this Act \[Sept. 30, 1976\], except that subsection (d) of section 7A of the Clayton Act \[subsec. (d) of this section\] (as added by section 201 of this Act) shall take effect on the date of enactment of this Act.”
 
  __Assessment and Collection of Filing Fees__ 
 
-[Pub. L. 101–162, title VI, § 605][/us/pl/101/162/s605], Nov. 21, 1989, [103 Stat. 1031][/us/stat/103/1031], as amended by [Pub. L. 101–302, title II][/us/pl/101/302], May 25, 1990, [104 Stat. 217][/us/stat/104/217]; [Pub. L. 102–395, title I][/us/pl/102/395], Oct. 6, 1992, [106 Stat. 1847][/us/stat/106/1847]; [Pub. L. 103–317, title I][/us/pl/103/317], Aug. 26, 1994, [108 Stat. 1739][/us/stat/108/1739]; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title VI, § 630(b)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–109, provided that:
+[Pub. L. 101–162, title VI][/us/pl/101/162/tVI], § 605, Nov. 21, 1989, [103 Stat. 1031][/us/stat/103/1031], as amended by [Pub. L. 101–302, title II][/us/pl/101/302/tII], May 25, 1990, [104 Stat. 217][/us/stat/104/217]; [Pub. L. 102–395, title I][/us/pl/102/395/tI], Oct. 6, 1992, [106 Stat. 1847][/us/stat/106/1847]; [Pub. L. 103–317, title I][/us/pl/103/317/tI], Aug. 26, 1994, [108 Stat. 1739][/us/stat/108/1739]; [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title VI, § 630(b)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–109, provided that:
 
 >     “(a) Five working days after enactment of this Act \[Nov. 21, 1989\] and thereafter, the Federal Trade Commission shall assess and collect filing fees established in subsection (b) which shall be paid by persons acquiring voting securities or assets who are required to file premerger notifications by the \[sic\] section 7A of the Clayton Act ([15 U.S.C. 18a][/us/usc/t15/s18a]) and the regulations promulgated thereunder. For purposes of said Act, no notification shall be considered filed until payment of the fee required by this section. Fees collected pursuant to this section shall be divided evenly between and credited to the appropriations, Federal Trade Commission, ‘Salaries and Expenses’ and Department of Justice, ‘Salaries and Expenses, Antitrust Division’: Provided, That fees in excess of $40,000,000 in fiscal year 1990 shall be deposited to the credit of the Treasury of the United States: Provided further, That fees made available to the Federal Trade Commission and the Antitrust Division herein shall remain available until expended.
 
@@ -294,16 +294,16 @@
 [/us/usc/t15/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1311
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t5/s6103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6103%2Fa
-[/us/act/1914-10-15/ch323/s7A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323%2Fs7A
-[/us/pl/94/435/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs201
+[/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
+[/us/pl/94/435/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2FtII
 [/us/stat/90/1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1390
-[/us/pl/98/620/s402/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F10%2FA
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3358
-[/us/pl/101/73/s1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1214
+[/us/pl/101/73/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtXII
 [/us/stat/103/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F529
-[/us/pl/106/102/s133/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs133%2Fc
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1383
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
@@ -318,22 +318,22 @@
 [/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
-[/us/pl/106/102/s133/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs133%2Fc%2F1
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/usc/t12/s1843/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843%2Fk
 [/us/usc/t12/s1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1842
-[/us/pl/106/102/s133/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs133%2Fc%2F2
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/usc/t12/s1843/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843%2Fk
 [/us/usc/t12/s1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1843
-[/us/pl/101/73/s1214/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1214%2F1
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t12/s1467a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1467a%2Fe
-[/us/pl/101/73/s1214/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1214%2F2
+[/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/usc/t18/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3161
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/pl/106/102/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs161
@@ -341,17 +341,17 @@
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs403
 [/us/usc/t28/s1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1657
-[/us/pl/94/435/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs202
+[/us/pl/94/435/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2FtII
 [/us/stat/90/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1394
-[/us/pl/101/162/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2Fs605
+[/us/pl/101/162/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2FtVI
 [/us/stat/103/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1031
-[/us/pl/101/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302
+[/us/pl/101/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F302%2FtII
 [/us/stat/104/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F217
-[/us/pl/102/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395
+[/us/pl/102/395/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395%2FtI
 [/us/stat/106/1847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1847
-[/us/pl/103/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317
+[/us/pl/103/317/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317%2FtI
 [/us/stat/108/1739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1739
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
 [/us/usc/t15/s18a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs18a
 [/us/usc/t15/s18a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs18a%2Fa%2F2

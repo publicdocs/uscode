@@ -17,7 +17,7 @@
 
     The registrar may, in order to ascertain if the affairs of a China Trade Act corporation are conducted contrary to any provision of this chapter, or any other law, or any treaty of the United States, or the articles of incorporation or bylaws of the corporation, investigate the affairs of the corporation. The registrar, whenever he is satisfied that the affairs of any China Trade Act corporation are or have been so conducted, may institute in the United States Court for China proceedings for the revocation of the certificate of incorporation of the corporation. The court may revoke such certificate if it finds the affairs of such corporation have been so conducted. Pending final decision in the revocation proceedings the court may at any time, upon application of the registrar or upon its own motion, make such orders in respect to the conduct of the affairs of the corporation as it deems advisable.
 
-([Sept. 19, 1922, ch. 346, § 14][/us/act/1922-09-19/ch346/s14], [42 Stat. 853][/us/stat/42/853].)
+([Sept. 19, 1922, ch. 346][/us/act/1922-09-19/ch346], § 14, [42 Stat. 853][/us/stat/42/853].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1922-09-19/ch346/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346%2Fs14
+[/us/act/1922-09-19/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346
 [/us/stat/42/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F853
 [/us/usc/t15/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs142
 

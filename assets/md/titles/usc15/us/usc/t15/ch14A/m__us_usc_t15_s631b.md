@@ -53,7 +53,7 @@
 
         (3) 2 small business concerns owned and controlled by veterans, as defined in [section 632(q) of this title][/us/usc/t15/s632/q], and small business concerns owned and controlled by service-disabled veterans, as defined in such [section 632(q) of this title][/us/usc/t15/s632/q].
 
-([Pub. L. 96–302, title III, § 303][/us/pl/96/302/s303], July 2, 1980, [94 Stat. 848][/us/stat/94/848]; [Pub. L. 100–533, title V, § 503][/us/pl/100/533/s503], Oct. 25, 1988, [102 Stat. 2697][/us/stat/102/2697]; [Pub. L. 100–590, title I, § 124][/us/pl/100/590/s124], Nov. 3, 1988, [102 Stat. 3000][/us/stat/102/3000]; [Pub. L. 101–574, title III, § 305][/us/pl/101/574/s305], Nov. 15, 1990, [104 Stat. 2829][/us/stat/104/2829]; [Pub. L. 105–135, title VI, § 604(c)][/us/pl/105/135/s604/c], title VII, § 705, Dec. 2, 1997, [111 Stat. 2633][/us/stat/111/2633], 2637; [Pub. L. 106–50, title VI, § 602][/us/pl/106/50/s602], Aug. 17, 1999, [113 Stat. 248][/us/stat/113/248].)
+([Pub. L. 96–302, title III][/us/pl/96/302/tIII], § 303, July 2, 1980, [94 Stat. 848][/us/stat/94/848]; [Pub. L. 100–533, title V][/us/pl/100/533/tV], § 503, Oct. 25, 1988, [102 Stat. 2697][/us/stat/102/2697]; [Pub. L. 100–590, title I][/us/pl/100/590/tI], § 124, Nov. 3, 1988, [102 Stat. 3000][/us/stat/102/3000]; [Pub. L. 101–574, title III][/us/pl/101/574/tIII], § 305, Nov. 15, 1990, [104 Stat. 2829][/us/stat/104/2829]; [Pub. L. 105–135, title VI][/us/pl/105/135/tVI], § 604(c), title VII, § 705, Dec. 2, 1997, [111 Stat. 2633][/us/stat/111/2633], 2637; [Pub. L. 106–50, title VI][/us/pl/106/50/tVI], § 602, Aug. 17, 1999, [113 Stat. 248][/us/stat/113/248].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 
     The Employee Retirement Income Security Act, referred to in subsec. (a)(4), is [Pub. L. 93–406][/us/pl/93/406], Sept. 2, 1974, [88 Stat. 829][/us/stat/88/829], as amended, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29][/us/usc/t29/s1001] and Tables.
 
-    The Securities Act of 1933, referred to in subsec. (a)(4), is [act May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, [48 Stat. 74][/us/stat/48/74], as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
+    The Securities Act of 1933, referred to in subsec. (a)(4), is [act May 27, 1933, ch. 38, title I][/us/act/1933-05-27/ch38/tI], [48 Stat. 74][/us/stat/48/74], as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
 
     The Securities Exchange Act of 1934, referred to in subsec. (a)(4), is [act June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], [48 Stat. 881][/us/stat/48/881], as amended, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title][/us/usc/t15/s78a] and Tables.
 
@@ -71,15 +71,15 @@
 
  __Amendments__ 
 
-    1999—Subsec. (e)(1). [Pub. L. 106–50, § 602(1)][/us/pl/106/50/s602/1], which directed amendment of par. (1) by striking “and” after the semicolon, could not be executed because the word “and” did not appear after the semicolon.
+    1999—Subsec. (e)(1). [Pub. L. 106–50][/us/pl/106/50], § 602(1), which directed amendment of par. (1) by striking “and” after the semicolon, could not be executed because the word “and” did not appear after the semicolon.
 
-    Subsec. (e)(2). [Pub. L. 106–50, § 602(2)][/us/pl/106/50/s602/2], which directed amendment of par. (2) by substituting “; and” for the period, could not be executed because par. (2) did not contain a period.
+    Subsec. (e)(2). [Pub. L. 106–50][/us/pl/106/50], § 602(2), which directed amendment of par. (2) by substituting “; and” for the period, could not be executed because par. (2) did not contain a period.
 
-    Subsec. (e)(3). [Pub. L. 106–50, § 602(3)][/us/pl/106/50/s602/3], added par. (3) relating to small business concerns owned and controlled by veterans.
+    Subsec. (e)(3). [Pub. L. 106–50][/us/pl/106/50], § 602(3), added par. (3) relating to small business concerns owned and controlled by veterans.
 
-    1997—Subsec. (b). [Pub. L. 105–135, § 705][/us/pl/105/135/s705], substituted “, female-owned, and veteran-owned businesses” for “and female-owned businesses”.
+    1997—Subsec. (b). [Pub. L. 105–135][/us/pl/105/135], § 705, substituted “, female-owned, and veteran-owned businesses” for “and female-owned businesses”.
 
-    Subsec. (e)(3). [Pub. L. 105–135, § 604(c)][/us/pl/105/135/s604/c], added par. (3).
+    Subsec. (e)(3). [Pub. L. 105–135][/us/pl/105/135], § 604(c), added par. (3).
 
     1990—Subsec. (a)(2). [Pub. L. 101–574][/us/pl/101/574] added par. (2) and struck out former par. (2) which read as follows: “present current and historical data on production, employment, investment, and other economic variables for small business in the economy as a whole and for small business in each sector of the economy;”.
 
@@ -118,32 +118,32 @@
 [/us/usc/t15/s632/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fp
 [/us/usc/t15/s632/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fq
 [/us/usc/t15/s632/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fq
-[/us/pl/96/302/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs303
+[/us/pl/96/302/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2FtIII
 [/us/stat/94/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F848
-[/us/pl/100/533/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs503
+[/us/pl/100/533/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2FtV
 [/us/stat/102/2697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2697
-[/us/pl/100/590/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2Fs124
+[/us/pl/100/590/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2FtI
 [/us/stat/102/3000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3000
-[/us/pl/101/574/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs305
+[/us/pl/101/574/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2FtIII
 [/us/stat/104/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2829
-[/us/pl/105/135/s604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs604%2Fc
+[/us/pl/105/135/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtVI
 [/us/stat/111/2633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2633
-[/us/pl/106/50/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2Fs602
+[/us/pl/106/50/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2FtVI
 [/us/stat/113/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F248
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F829
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
-[/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
+[/us/act/1933-05-27/ch38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38%2FtI
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/106/50/s602/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2Fs602%2F1
-[/us/pl/106/50/s602/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2Fs602%2F2
-[/us/pl/106/50/s602/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2Fs602%2F3
-[/us/pl/105/135/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs705
-[/us/pl/105/135/s604/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs604%2Fc
+[/us/pl/106/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50
+[/us/pl/106/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50
+[/us/pl/106/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/101/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574
 [/us/pl/100/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533
 [/us/pl/100/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590

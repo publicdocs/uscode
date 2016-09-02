@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of this chapter, the Secretary shall respect and preserve the security classification of any scientific or technical information, data, patents, inventions, or discoveries in, or coming into, the possession or control of the Department of Commerce, the classified status of which the President or his designee or designees certify as being essential in the interest of national defense, and nothing in this chapter shall be construed as modifying or limiting any other statute relating to the classification of information for reasons of national defense or security.
 
-([Sept. 9, 1950, ch. 936, § 5][/us/act/1950-09-09/ch936/s5], [64 Stat. 824][/us/stat/64/824].)
+([Sept. 9, 1950, ch. 936][/us/act/1950-09-09/ch936], § 5, [64 Stat. 824][/us/stat/64/824].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1950-09-09/ch936/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-09%2Fch936%2Fs5
+[/us/act/1950-09-09/ch936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-09%2Fch936
 [/us/stat/64/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F824
 
 

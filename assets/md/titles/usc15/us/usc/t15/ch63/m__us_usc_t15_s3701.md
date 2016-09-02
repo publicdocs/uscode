@@ -39,7 +39,7 @@
 
     (11) The Nation should give fuller recognition to individuals and companies which have made outstanding contributions to the promotion of technology or technological manpower for the improvement of the economic, environmental, or social well-being of the United States.
 
-([Pub. L. 96–480, § 2][/us/pl/96/480/s2], Oct. 21, 1980, [94 Stat. 2311][/us/stat/94/2311]; [Pub. L. 99–502, § 9(f)(1)][/us/pl/99/502/s9/f/1], Oct. 20, 1986, [100 Stat. 1797][/us/stat/100/1797].)
+([Pub. L. 96–480][/us/pl/96/480], § 2, Oct. 21, 1980, [94 Stat. 2311][/us/stat/94/2311]; [Pub. L. 99–502][/us/pl/99/502], § 9(f)(1), Oct. 20, 1986, [100 Stat. 1797][/us/stat/100/1797].)
 
  __Amendments__ 
 
@@ -47,63 +47,63 @@
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–404, § 1][/us/pl/106/404/s1], Nov. 1, 2000, [114 Stat. 1742][/us/stat/114/1742], provided that: 
+[Pub. L. 106–404][/us/pl/106/404], § 1, Nov. 1, 2000, [114 Stat. 1742][/us/stat/114/1742], provided that: 
 
 > “This Act \[enacting [section 7261c of Title 42][/us/usc/t42/s7261c], The Public Health and Welfare, amending sections 3703, 3704, 3707, 3710, 3710a, 3710c, 3714, and 3715 of this title and sections 200, 202, 207, and 209 of Title 35, Patents, and enacting provisions set out as notes under this section and [section 3710a of this title][/us/usc/t15/s3710a]\] may be cited as the ‘Technology Transfer Commercialization Act of 2000’.”
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–113, § 1][/us/pl/104/113/s1], Mar. 7, 1996, [110 Stat. 775][/us/stat/110/775], provided that: 
+[Pub. L. 104–113][/us/pl/104/113], § 1, Mar. 7, 1996, [110 Stat. 775][/us/stat/110/775], provided that: 
 
 > “This Act \[amending sections 272, 278, 278e, 278g–2, 3710, 3710a, 3710c, 3710d, 5401, 5402, 5404 to 5406, 5408, 5409, and 5412 of this title and [section 210 of Title 35][/us/usc/t35/s210], Patents, repealing sections 5403 and 5413 of this title, and enacting provisions set out as notes under this section and sections 272 and 275 of this title\] may be cited as the ‘National Technology Transfer and Advancement Act of 1995’.”
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–245, § 1][/us/pl/102/245/s1], Feb. 14, 1992, [106 Stat. 7][/us/stat/106/7], provided that: 
+[Pub. L. 102–245][/us/pl/102/245], § 1, Feb. 14, 1992, [106 Stat. 7][/us/stat/106/7], provided that: 
 
 > “This Act \[enacting sections 1536, 3704b–1, 3704b–2, 3716, and 3717 of this title and [section 6618 of Title 42][/us/usc/t42/s6618], The Public Health and Welfare, amending sections 272, 278d, 278g, 278g–1, 278k, 278n, 1453, 1454, 3703, 3704, 3704b, 3710, 3710a, 3711a, 4603, 4603a, and 4632 of this title and [section 6683 of Title 42][/us/usc/t42/s6683], enacting provisions set out as notes under this section, sections 271, 278f, 278n, and 1453 of this title, and [section 6611 of Title 42][/us/usc/t42/s6611], and amending provisions set out as a note under section 278l of this title\] may be cited as the ‘American Technology Preeminence Act of 1991’.”
 
-[Pub. L. 102–245, title I, § 101][/us/pl/102/245/s101], Feb. 14, 1992, [106 Stat. 7][/us/stat/106/7], provided that: 
+[Pub. L. 102–245, title I][/us/pl/102/245/tI], § 101, Feb. 14, 1992, [106 Stat. 7][/us/stat/106/7], provided that: 
 
 > “This title \[enacting sections 1536, 3704b–1, and 3704b–2 of this title, amending sections 278d, 278g, 278g–1, 278k, 1453, 1454, 4603, 4603a, and 4632 of this title, enacting provisions set out as notes under this section and sections 278f and 1453 of this title, and amending provisions set out as a note under section 278l of this title\] may be cited as the ‘Technology Administration Authorization Act of 1991’.”
 
  __Short Title of 1989 Amendment__ 
 
-[Pub. L. 101–189, div. C, title XXXI, § 3131][/us/pl/101/189/s3131], Nov. 29, 1989, [103 Stat. 1674][/us/stat/103/1674], provided that: 
+[Pub. L. 101–189, div. C, title XXXI][/us/pl/101/189/dC/tXXXI], § 3131, Nov. 29, 1989, [103 Stat. 1674][/us/stat/103/1674], provided that: 
 
 > “This part \[part C (§§ 3131–3133) of title XXXI of div. C of [Pub. L. 101–189][/us/pl/101/189], amending sections 3710, 3710a, and 3710c of this title and enacting provisions set out as notes under this section and [section 3710a of this title][/us/usc/t15/s3710a]\] may be cited as the ‘National Competitiveness Technology Transfer Act of 1989’.”
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–519, title II, § 211][/us/pl/100/519/s211], Oct. 24, 1988, [102 Stat. 2594][/us/stat/102/2594], provided that: 
+[Pub. L. 100–519, title II][/us/pl/100/519/tII], § 211, Oct. 24, 1988, [102 Stat. 2594][/us/stat/102/2594], provided that: 
 
 > “This subtitle \[subtitle B (§§ 211, 212) of title II of [Pub. L. 100–519][/us/pl/100/519], enacting [section 3704b of this title][/us/usc/t15/s3704b] and amending [section 3710 of this title][/us/usc/t15/s3710]\] may be cited as the ‘National Technical Information Act of 1988’.”
 
  __Short Title of 1987 Amendment__ 
 
-[Pub. L. 100–107, § 1][/us/pl/100/107/s1], Aug. 20, 1987, [101 Stat. 724][/us/stat/101/724], provided that: 
+[Pub. L. 100–107][/us/pl/100/107], § 1, Aug. 20, 1987, [101 Stat. 724][/us/stat/101/724], provided that: 
 
 > “This Act \[enacting [section 3711a of this title][/us/usc/t15/s3711a], amending [section 3708 of this title][/us/usc/t15/s3708], and enacting provisions set out as a note under [section 3711a of this title][/us/usc/t15/s3711a]\] may be cited as the ‘Malcolm Baldrige National Quality Improvement Act of 1987’.”
 
  __Short Title of 1986 Amendments__ 
 
-[Pub. L. 99–502, § 1][/us/pl/99/502/s1], Oct. 20, 1986, [100 Stat. 1785][/us/stat/100/1785], provided that: 
+[Pub. L. 99–502][/us/pl/99/502], § 1, Oct. 20, 1986, [100 Stat. 1785][/us/stat/100/1785], provided that: 
 
 > “This Act \[enacting sections 3710a to 3710d of this title, amending this section, sections 3702 to 3705, 3707, 3708, 3710 to 3710d, and 3711 to 3714 of this title, and [section 210 of Title 35][/us/usc/t35/s210], Patents, and repealing [section 3709 of this title][/us/usc/t15/s3709]\] may be cited as the ‘Federal Technology Transfer Act of 1986’. ”
 
-[Pub. L. 99–382, § 1][/us/pl/99/382/s1], Aug. 14, 1986, [100 Stat. 811][/us/stat/100/811], provided: 
+[Pub. L. 99–382][/us/pl/99/382], § 1, Aug. 14, 1986, [100 Stat. 811][/us/stat/100/811], provided: 
 
 > “That this Act \[amending [section 3704 of this title][/us/usc/t15/s3704]\] may be cited as the ‘Japanese Technical Literature Act of 1986’.”
 
  __Short Title__ 
 
-[Pub. L. 96–480, § 1][/us/pl/96/480/s1], Oct. 21, 1980, [94 Stat. 2311][/us/stat/94/2311], provided: 
+[Pub. L. 96–480][/us/pl/96/480], § 1, Oct. 21, 1980, [94 Stat. 2311][/us/stat/94/2311], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Stevenson-Wydler Technology Innovation Act of 1980’.”
 
  __Study on Economic Competitiveness and Innovative Capacity of United States and Development of National Economic Competitiveness Strategy__ 
 
-[Pub. L. 111–358, title VI, § 604][/us/pl/111/358/s604], Jan. 4, 2011, [124 Stat. 4037][/us/stat/124/4037], provided that:
+[Pub. L. 111–358, title VI][/us/pl/111/358/tVI], § 604, Jan. 4, 2011, [124 Stat. 4037][/us/stat/124/4037], provided that:
 
 >     “(a) __Study.—__ 
 
@@ -227,7 +227,7 @@
 
  __Promoting Use of High-End Computing Simulation and Modeling by Small- and Medium-Sized Manufacturers__ 
 
-[Pub. L. 111–358, title VI, § 605][/us/pl/111/358/s605], Jan. 4, 2011, [124 Stat. 4040][/us/stat/124/4040], provided that:
+[Pub. L. 111–358, title VI][/us/pl/111/358/tVI], § 605, Jan. 4, 2011, [124 Stat. 4040][/us/stat/124/4040], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -271,7 +271,7 @@
 
  __Congressional Findings; 2000 Amendment__ 
 
-[Pub. L. 106–404, § 2][/us/pl/106/404/s2], Nov. 1, 2000, [114 Stat. 1742][/us/stat/114/1742], provided that: 
+[Pub. L. 106–404][/us/pl/106/404], § 2, Nov. 1, 2000, [114 Stat. 1742][/us/stat/114/1742], provided that: 
 
 > “The Congress finds that—
 
@@ -289,7 +289,7 @@
 
  __Congressional Findings; 1996 Amendment__ 
 
-[Pub. L. 104–113, § 2][/us/pl/104/113/s2], Mar. 7, 1996, [110 Stat. 775][/us/stat/110/775], provided that: 
+[Pub. L. 104–113][/us/pl/104/113], § 2, Mar. 7, 1996, [110 Stat. 775][/us/stat/110/775], provided that: 
 
 > “The Congress finds the following:
 
@@ -301,7 +301,7 @@
 
  __Definitions of Terms; 1992 Amendment__ 
 
-[Pub. L. 102–245, § 2][/us/pl/102/245/s2], Feb. 14, 1992, [106 Stat. 7][/us/stat/106/7], provided that: 
+[Pub. L. 102–245][/us/pl/102/245], § 2, Feb. 14, 1992, [106 Stat. 7][/us/stat/106/7], provided that: 
 
 > “As used in this Act \[see Short Title of 1992 Amendment note above\]—
 
@@ -319,13 +319,13 @@
 
  __Congressional Statement of Policy; 1992 Amendment__ 
 
-[Pub. L. 102–245, title I, § 102][/us/pl/102/245/s102], Feb. 14, 1992, [106 Stat. 7][/us/stat/106/7], provided that: 
+[Pub. L. 102–245, title I][/us/pl/102/245/tI], § 102, Feb. 14, 1992, [106 Stat. 7][/us/stat/106/7], provided that: 
 
 > “Congress finds that in order to help United States industries to speed the development of new products and processes so as to maintain the economic competitiveness of the Nation, it is necessary to strengthen the programs and activities of the Department of Commerce’s Technology Administration and National Institute of Standards and Technology.”
 
  __National Commission on Reducing Capital Costs for Emerging Technology__ 
 
-[Pub. L. 102–245, title IV, § 401][/us/pl/102/245/s401], Feb. 14, 1992, [106 Stat. 21][/us/stat/106/21], provided that:
+[Pub. L. 102–245, title IV][/us/pl/102/245/tIV], § 401, Feb. 14, 1992, [106 Stat. 21][/us/stat/106/21], provided that:
 
 >     “(a)  __Establishment and Purpose__  __.—__ 
 
@@ -393,7 +393,7 @@
 
  __Research, Development, Technology Utilization, and Government Procurement Policy__ 
 
-[Pub. L. 102–245, title V, § 505][/us/pl/102/245/s505], Feb. 14, 1992, [106 Stat. 25][/us/stat/106/25], provided that:
+[Pub. L. 102–245, title V][/us/pl/102/245/tV], § 505, Feb. 14, 1992, [106 Stat. 25][/us/stat/106/25], provided that:
 
 >     “(a)  __Establishment of Commission__  __.—__ 
 
@@ -461,7 +461,7 @@
 
  __Study of Testing and Certification__ 
 
-[Pub. L. 102–245, title V, § 508][/us/pl/102/245/s508], Feb. 14, 1992, [106 Stat. 29][/us/stat/106/29], provided that:
+[Pub. L. 102–245, title V][/us/pl/102/245/tV], § 508, Feb. 14, 1992, [106 Stat. 29][/us/stat/106/29], provided that:
 
 >     “(a)  __Contract With National Research Council__  __.—__ 
 
@@ -487,7 +487,7 @@
 
  __Congressional Findings and Purposes; 1989 Amendment__ 
 
-[Pub. L. 101–189, div. C, title XXXI, § 3132][/us/pl/101/189/s3132], Nov. 29, 1989, [103 Stat. 1674][/us/stat/103/1674], provided that:
+[Pub. L. 101–189, div. C, title XXXI][/us/pl/101/189/dC/tXXXI], § 3132, Nov. 29, 1989, [103 Stat. 1674][/us/stat/103/1674], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -564,68 +564,68 @@
 ----------
 ----------
 
-[/us/pl/96/480/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs2
+[/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2311
-[/us/pl/99/502/s9/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs9%2Ff%2F1
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/stat/100/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1797
 [/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
-[/us/pl/106/404/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs1
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
 [/us/stat/114/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1742
 [/us/usc/t42/s7261c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7261c
 [/us/usc/t15/s3710a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a
-[/us/pl/104/113/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs1
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 [/us/stat/110/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F775
 [/us/usc/t35/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs210
-[/us/pl/102/245/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs1
+[/us/pl/102/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245
 [/us/stat/106/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F7
 [/us/usc/t42/s6618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6618
 [/us/usc/t42/s6683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6683
 [/us/usc/t42/s6611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6611
-[/us/pl/102/245/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs101
+[/us/pl/102/245/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtI
 [/us/stat/106/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F7
-[/us/pl/101/189/s3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3131
+[/us/pl/101/189/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdC%2FtXXXI
 [/us/stat/103/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1674
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/usc/t15/s3710a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a
-[/us/pl/100/519/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs211
+[/us/pl/100/519/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2FtII
 [/us/stat/102/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2594
 [/us/pl/100/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519
 [/us/usc/t15/s3704b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3704b
 [/us/usc/t15/s3710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710
-[/us/pl/100/107/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F107%2Fs1
+[/us/pl/100/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F107
 [/us/stat/101/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F724
 [/us/usc/t15/s3711a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3711a
 [/us/usc/t15/s3708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3708
 [/us/usc/t15/s3711a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3711a
-[/us/pl/99/502/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs1
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/stat/100/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1785
 [/us/usc/t35/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs210
 [/us/usc/t15/s3709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3709
-[/us/pl/99/382/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F382%2Fs1
+[/us/pl/99/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F382
 [/us/stat/100/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F811
 [/us/usc/t15/s3704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3704
-[/us/pl/96/480/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs1
+[/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2311
-[/us/pl/111/358/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs604
+[/us/pl/111/358/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtVI
 [/us/stat/124/4037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4037
-[/us/pl/111/358/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs605
+[/us/pl/111/358/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtVI
 [/us/stat/124/4040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4040
-[/us/pl/106/404/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs2
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
 [/us/stat/114/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1742
 [/us/usc/t35/s200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs200
-[/us/pl/104/113/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs2
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 [/us/stat/110/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F775
-[/us/pl/102/245/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs2
+[/us/pl/102/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245
 [/us/stat/106/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F7
-[/us/pl/102/245/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs102
+[/us/pl/102/245/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtI
 [/us/stat/106/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F7
-[/us/pl/102/245/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs401
+[/us/pl/102/245/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtIV
 [/us/stat/106/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F21
-[/us/pl/102/245/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs505
+[/us/pl/102/245/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtV
 [/us/stat/106/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F25
-[/us/pl/102/245/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs508
+[/us/pl/102/245/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtV
 [/us/stat/106/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F29
-[/us/pl/101/189/s3132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3132
+[/us/pl/101/189/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdC%2FtXXXI
 [/us/stat/103/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1674
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 

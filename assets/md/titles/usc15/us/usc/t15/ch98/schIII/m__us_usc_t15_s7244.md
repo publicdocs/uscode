@@ -83,7 +83,7 @@
 
         The provisions of this section (including the amendments made thereby) shall take effect 180 days after July 30, 2002. Good faith compliance with the requirements of such provisions in advance of the issuance of applicable regulations thereunder shall be treated as compliance with such provisions.
 
-([Pub. L. 107–204, title III, § 306][/us/pl/107/204/s306], July 30, 2002, [116 Stat. 779][/us/stat/116/779].)
+([Pub. L. 107–204, title III][/us/pl/107/204/tIII], § 306, July 30, 2002, [116 Stat. 779][/us/stat/116/779].)
 
  __References in Text__ 
 
@@ -103,7 +103,7 @@
 [/us/usc/t29/s1002/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F34
 [/us/usc/t29/s1021/i/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021%2Fi%2F8%2FB
 [/us/usc/t29/s1021/i/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021%2Fi%2F6
-[/us/pl/107/204/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs306
+[/us/pl/107/204/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtIII
 [/us/stat/116/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F779
 [/us/pl/107/204/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs306
 [/us/pl/107/204/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs306

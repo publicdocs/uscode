@@ -17,7 +17,7 @@
 
     A creditor or servicer of a home loan shall send an accurate payoff balance within a reasonable time, but in no case more than 7 business days, after the receipt of a written request for such balance from or on behalf of the borrower.
 
-([Pub. L. 90–321, title I, § 129G][/us/pl/90/321/s129G], as added [Pub. L. 111–203, title XIV, § 1464(b)][/us/pl/111/203/s1464/b], July 21, 2010, [124 Stat. 2184][/us/stat/124/2184].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 129G, as added [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1464(b), July 21, 2010, [124 Stat. 2184][/us/stat/124/2184].)
 
  __Effective Date__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/90/321/s129G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs129G
-[/us/pl/111/203/s1464/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1464%2Fb
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2184
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601

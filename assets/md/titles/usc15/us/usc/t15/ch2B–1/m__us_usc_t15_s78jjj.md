@@ -67,7 +67,7 @@
 
             Any court having jurisdiction of a civil action arising under this chapter may grant temporary injunctions and final injunctions on such terms as the court deems reasonable to prevent or restrain any violation of paragraph (1). Any such injunction may be served anywhere in the United States on the person enjoined, shall be operative throughout the United States, and shall be enforceable, by proceedings in contempt or otherwise, by any United States court having jurisdiction over that person. The clerk of the court granting the injunction shall, when requested by any other court in which enforcement of the injunction is sought, transmit promptly to the other court a certified copy of all papers in the case on file in such clerk’s office.
 
-([Pub. L. 91–598, § 14][/us/pl/91/598/s14], formerly § 10, Dec. 30, 1970, [84 Stat. 1655][/us/stat/84/1655]; renumbered § 14 and amended [Pub. L. 95–283][/us/pl/95/283], §§ 9, 13, May 21, 1978, [92 Stat. 260][/us/stat/92/260], 269; [Pub. L. 111–203, title IX, § 929V(b)][/us/pl/111/203/s929V/b], (c), July 21, 2010, [124 Stat. 1868][/us/stat/124/1868].)
+([Pub. L. 91–598][/us/pl/91/598], § 14, formerly § 10, Dec. 30, 1970, [84 Stat. 1655][/us/stat/84/1655]; renumbered § 14 and amended [Pub. L. 95–283][/us/pl/95/283], §§ 9, 13, May 21, 1978, [92 Stat. 260][/us/stat/92/260], 269; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 929V(b), (c), July 21, 2010, [124 Stat. 1868][/us/stat/124/1868].)
 
  __References in Text__ 
 
@@ -75,17 +75,17 @@
 
  __Amendments__ 
 
-    2010—Subsec. (c)(1). [Pub. L. 111–203, § 929V(b)(1)][/us/pl/111/203/s929V/b/1], substituted “$250,000” for “$50,000” in concluding provisions.
+    2010—Subsec. (c)(1). [Pub. L. 111–203][/us/pl/111/203], § 929V(b)(1), substituted “$250,000” for “$50,000” in concluding provisions.
 
-    Subsec. (c)(2). [Pub. L. 111–203, § 929V(b)(2)][/us/pl/111/203/s929V/b/2], substituted “$250,000” for “$50,000”.
+    Subsec. (c)(2). [Pub. L. 111–203][/us/pl/111/203], § 929V(b)(2), substituted “$250,000” for “$50,000”.
 
-    Subsec. (d). [Pub. L. 111–203, § 929V(c)][/us/pl/111/203/s929V/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 111–203][/us/pl/111/203], § 929V(c), added subsec. (d).
 
-    1978—Subsec. (a). [Pub. L. 95–283, § 13(a)][/us/pl/95/283/s13/a], inserted “and penalty” after “interest”, and substituted “it” for “he” wherever appearing.
+    1978—Subsec. (a). [Pub. L. 95–283][/us/pl/95/283], § 13(a), inserted “and penalty” after “interest”, and substituted “it” for “he” wherever appearing.
 
-    Subsec. (b). [Pub. L. 95–283, § 13(b)][/us/pl/95/283/s13/b], in heading inserted “or initiation of direct payment procedure” after “trustee”, and in text inserted references to initiation of direct payment procedure in two places.
+    Subsec. (b). [Pub. L. 95–283][/us/pl/95/283], § 13(b), in heading inserted “or initiation of direct payment procedure” after “trustee”, and in text inserted references to initiation of direct payment procedure in two places.
 
-    Subsec. (c). [Pub. L. 95–283, § 13(c)][/us/pl/95/283/s13/c], in heading substituted “Concealment of assets; false statements or claims” for “Embezzlement, etc., of assets of SIPC”, added par. (1), and designated existing provisions as par. (2) and, as so designated, inserted references to direct or indirect acts, and provisions covering defrauding or attempts to defraud SIPC or a trustee, and substituted provisions covering activities constituting fraudulent, or with intent to defeat this chapter, abstracts or conversions, for provisions covering activities constituting unlawfully abstracting or unlawfully and willfully converting moneys, etc.
+    Subsec. (c). [Pub. L. 95–283][/us/pl/95/283], § 13(c), in heading substituted “Concealment of assets; false statements or claims” for “Embezzlement, etc., of assets of SIPC”, added par. (1), and designated existing provisions as par. (2) and, as so designated, inserted references to direct or indirect acts, and provisions covering defrauding or attempts to defraud SIPC or a trustee, and substituted provisions covering activities constituting fraudulent, or with intent to defeat this chapter, abstracts or conversions, for provisions covering activities constituting unlawfully abstracting or unlawfully and willfully converting moneys, etc.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -98,20 +98,20 @@
 ----------
 ----------
 
-[/us/pl/91/598/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598%2Fs14
+[/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1655
 [/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/stat/92/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F260
-[/us/pl/111/203/s929V/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929V%2Fb
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1868
 [/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1636
-[/us/pl/111/203/s929V/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929V%2Fb%2F1
-[/us/pl/111/203/s929V/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929V%2Fb%2F2
-[/us/pl/111/203/s929V/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929V%2Fc
-[/us/pl/95/283/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs13%2Fa
-[/us/pl/95/283/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs13%2Fb
-[/us/pl/95/283/s13/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs13%2Fc
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

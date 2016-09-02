@@ -61,19 +61,19 @@
 
         This chapter does not affect the applicability of chapter 83 of title 41 to procurements by Federal agencies and departments undertaken as a part of the Program.
 
-([Pub. L. 102–194, title II, § 208][/us/pl/102/194/s208], Dec. 9, 1991, [105 Stat. 1603][/us/stat/105/1603]; [Pub. L. 110–69, title III, § 3002(c)(6)][/us/pl/110/69/s3002/c/6], Aug. 9, 2007, [121 Stat. 587][/us/stat/121/587].)
+([Pub. L. 102–194, title II][/us/pl/102/194/tII], § 208, Dec. 9, 1991, [105 Stat. 1603][/us/stat/105/1603]; [Pub. L. 110–69, title III][/us/pl/110/69/tIII], § 3002(c)(6), Aug. 9, 2007, [121 Stat. 587][/us/stat/121/587].)
 
  __References in Text__ 
 
     The Trade Agreements Act of 1979, referred to in subsec. (a)(5), is [Pub. L. 96–39][/us/pl/96/39], July 26, 1979, [93 Stat. 144][/us/stat/93/144], as amended. For complete classification of this Act to the Code, see References in Text note set out under [section 2501 of Title 19][/us/usc/t19/s2501], Customs Duties, and Tables.
 
-    [Section 5511(a)(3)(A) of this title][/us/usc/t15/s5511/a/3/A], referred to in subsec. (b)(2), was redesignated [section 5511(a)(2)(D) of this title][/us/usc/t15/s5511/a/2/D] by [Pub. L. 110–69, title VII, § 7024(a)(1)(B)(ii)][/us/pl/110/69/s7024/a/1/B/ii], (iii)(II), Aug. 9, 2007, [121 Stat. 687][/us/stat/121/687].
+    [Section 5511(a)(3)(A) of this title][/us/usc/t15/s5511/a/3/A], referred to in subsec. (b)(2), was redesignated [section 5511(a)(2)(D) of this title][/us/usc/t15/s5511/a/2/D] by [Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7024(a)(1)(B)(ii), (iii)(II), Aug. 9, 2007, [121 Stat. 687][/us/stat/121/687].
 
  __Codification__ 
 
-    In subsec. (b)(1)(B), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 ([41 U.S.C. 10a–10d][/us/usc/t41/s10a–10d]; popularly known as the Buy American Act) as amended by the Buy American Act of 1988” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(1)(B), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 ([41 U.S.C. 10a–10d][/us/usc/t41/s10a–10d]; popularly known as the Buy American Act) as amended by the Buy American Act of 1988” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (c), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 ([41 U.S.C. 10a–10d][/us/usc/t41/s10a–10d]; popularly known as the Buy American Act), as amended by the Buy American Act of 1988,” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 ([41 U.S.C. 10a–10d][/us/usc/t41/s10a–10d]; popularly known as the Buy American Act), as amended by the Buy American Act of 1988,” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -92,22 +92,22 @@
 
 [/us/usc/t19/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2501
 [/us/usc/t15/s3710a/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a%2Fd%2F1
-[/us/pl/102/194/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2Fs208
+[/us/pl/102/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2FtII
 [/us/stat/105/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1603
-[/us/pl/110/69/s3002/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fc%2F6
+[/us/pl/110/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIII
 [/us/stat/121/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F587
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/stat/93/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F144
 [/us/usc/t19/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2501
 [/us/usc/t15/s5511/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5511%2Fa%2F3%2FA
 [/us/usc/t15/s5511/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5511%2Fa%2F2%2FD
-[/us/pl/110/69/s7024/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7024%2Fa%2F1%2FB%2Fii
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F687
 [/us/usc/t41/s10a–10d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10a%E2%80%9310d
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s10a–10d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10a%E2%80%9310d
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

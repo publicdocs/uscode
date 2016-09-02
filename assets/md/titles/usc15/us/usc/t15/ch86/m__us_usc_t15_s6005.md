@@ -17,7 +17,7 @@
 
     For the National Highway Traffic Safety Administration to carry out the grant program authorized by this chapter, there are authorized to be appropriated $2,000,000 for fiscal year 1995, $3,000,000 for fiscal year 1996, and $4,000,000 for fiscal year 1997.
 
-([Pub. L. 103–267, title II, § 206][/us/pl/103/267/s206], June 16, 1994, [108 Stat. 728][/us/stat/108/728].)
+([Pub. L. 103–267, title II][/us/pl/103/267/tII], § 206, June 16, 1994, [108 Stat. 728][/us/stat/108/728].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/267/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2Fs206
+[/us/pl/103/267/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2FtII
 [/us/stat/108/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F728
 
 

@@ -39,7 +39,7 @@
 
     (11) “wildland-urban interface” has the meaning given such term in [section 6511 of title 16][/us/usc/t16/s6511].
 
-([Pub. L. 93–498, § 4][/us/pl/93/498/s4], Oct. 29, 1974, [88 Stat. 1536][/us/stat/88/1536]; [Pub. L. 95–422, § 2(a)(1)][/us/pl/95/422/s2/a/1], Oct. 5, 1978, [92 Stat. 932][/us/stat/92/932]; [Pub. L. 101–391, § 3(b)][/us/pl/101/391/s3/b], Sept. 25, 1990, [104 Stat. 749][/us/stat/104/749]; [Pub. L. 106–503, title I, § 110(a)(2)(A)][/us/pl/106/503/s110/a/2/A], Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302]; [Pub. L. 110–376, § 10][/us/pl/110/376/s10], Oct. 8, 2008, [122 Stat. 4061][/us/stat/122/4061]; [Pub. L. 112–239, div. A, title XVIII, § 1802(a)][/us/pl/112/239/s1802/a], Jan. 2, 2013, [126 Stat. 2099][/us/stat/126/2099].)
+([Pub. L. 93–498][/us/pl/93/498], § 4, Oct. 29, 1974, [88 Stat. 1536][/us/stat/88/1536]; [Pub. L. 95–422][/us/pl/95/422], § 2(a)(1), Oct. 5, 1978, [92 Stat. 932][/us/stat/92/932]; [Pub. L. 101–391][/us/pl/101/391], § 3(b), Sept. 25, 1990, [104 Stat. 749][/us/stat/104/749]; [Pub. L. 106–503, title I][/us/pl/106/503/tI], § 110(a)(2)(A), Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302]; [Pub. L. 110–376][/us/pl/110/376], § 10, Oct. 8, 2008, [122 Stat. 4061][/us/stat/122/4061]; [Pub. L. 112–239, div. A, title XVIII][/us/pl/112/239/dA/tXVIII], § 1802(a), Jan. 2, 2013, [126 Stat. 2099][/us/stat/126/2099].)
 
  __References in Text__ 
 
@@ -47,29 +47,29 @@
 
  __Amendments__ 
 
-    2013—Par. (3). [Pub. L. 112–239, § 1802(a)(1)][/us/pl/112/239/s1802/a/1], inserted “, except as otherwise provided,” after “means”.
+    2013—Par. (3). [Pub. L. 112–239][/us/pl/112/239], § 1802(a)(1), inserted “, except as otherwise provided,” after “means”.
 
-    Par. (4). [Pub. L. 112–239, § 1802(a)(2)][/us/pl/112/239/s1802/a/2], substituted “ ‘Administrator of FEMA’ means the Administrator of the Federal Emergency Management Agency;” for “ ‘Director’ means the Director of the Federal Emergency Management Agency;”.
+    Par. (4). [Pub. L. 112–239][/us/pl/112/239], § 1802(a)(2), substituted “ ‘Administrator of FEMA’ means the Administrator of the Federal Emergency Management Agency;” for “ ‘Director’ means the Director of the Federal Emergency Management Agency;”.
 
-    Par. (5). [Pub. L. 112–239, § 1802(a)(3)][/us/pl/112/239/s1802/a/3], inserted “Indian tribe,” after “county,” and substituted “and ‘fire control’ ” for “and ‘firecontrol’ ”.
+    Par. (5). [Pub. L. 112–239][/us/pl/112/239], § 1802(a)(3), inserted “Indian tribe,” after “county,” and substituted “and ‘fire control’ ” for “and ‘firecontrol’ ”.
 
-    Pars. (6) to (8). [Pub. L. 112–239, § 1802(a)(4)][/us/pl/112/239/s1802/a/4], (5), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively. Former par. (8) redesignated (9).
+    Pars. (6) to (8). [Pub. L. 112–239][/us/pl/112/239], § 1802(a)(4), (5), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively. Former par. (8) redesignated (9).
 
-    Par. (9). [Pub. L. 112–239, § 1802(a)(6)][/us/pl/112/239/s1802/a/6], (7), added par. (9) and redesignated former par. (9) as (10). Former par. (10) redesignated (11).
+    Par. (9). [Pub. L. 112–239][/us/pl/112/239], § 1802(a)(6), (7), added par. (9) and redesignated former par. (9) as (10). Former par. (10) redesignated (11).
 
-    [Pub. L. 112–239, § 1802(a)(4)][/us/pl/112/239/s1802/a/4], redesignated par. (8) as (9). Former par. (9) redesignated (10).
+    [Pub. L. 112–239][/us/pl/112/239], § 1802(a)(4), redesignated par. (8) as (9). Former par. (9) redesignated (10).
 
-    Par. (10). [Pub. L. 112–239, § 1802(a)(8)][/us/pl/112/239/s1802/a/8], amended par. (10) generally. Prior to amendment, par. (10) defined the term “State”.
+    Par. (10). [Pub. L. 112–239][/us/pl/112/239], § 1802(a)(8), amended par. (10) generally. Prior to amendment, par. (10) defined the term “State”.
 
-    [Pub. L. 112–239, § 1802(a)(6)][/us/pl/112/239/s1802/a/6], redesignated par. (9) as (10). Former par. (10) redesignated (11).
+    [Pub. L. 112–239][/us/pl/112/239], § 1802(a)(6), redesignated par. (9) as (10). Former par. (10) redesignated (11).
 
-    [Pub. L. 112–239, § 1802(a)(4)][/us/pl/112/239/s1802/a/4], redesignated par. (9) as (10).
+    [Pub. L. 112–239][/us/pl/112/239], § 1802(a)(4), redesignated par. (9) as (10).
 
-    Par. (11). [Pub. L. 112–239, § 1802(a)(6)][/us/pl/112/239/s1802/a/6], redesignated par. (10) as (11).
+    Par. (11). [Pub. L. 112–239][/us/pl/112/239], § 1802(a)(6), redesignated par. (10) as (11).
 
-    2008—Par. (3). [Pub. L. 110–376, § 10(1)][/us/pl/110/376/s10/1], substituted “Administration, within the Federal Emergency Management Agency” for “Administration”.
+    2008—Par. (3). [Pub. L. 110–376][/us/pl/110/376], § 10(1), substituted “Administration, within the Federal Emergency Management Agency” for “Administration”.
 
-    Par. (9). [Pub. L. 110–376, § 10(2)][/us/pl/110/376/s10/2]–(4), added par. (9).
+    Par. (9). [Pub. L. 110–376][/us/pl/110/376], § 10(2)–(4), added par. (9).
 
     2000—Pars. (7) to (9). [Pub. L. 106–503][/us/pl/106/503] inserted “and” after semicolon in par. (7), redesignated par. (9) as (8), and struck out former par. (8) which read as follows: “ ‘Secretary’ means the Secretary of Commerce; and”.
 
@@ -100,33 +100,33 @@
 [/us/usc/t25/s450b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
 [/us/usc/t16/s6511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6511
-[/us/pl/93/498/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs4
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1536
-[/us/pl/95/422/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F422%2Fs2%2Fa%2F1
+[/us/pl/95/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F422
 [/us/stat/92/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F932
-[/us/pl/101/391/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391%2Fs3%2Fb
+[/us/pl/101/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391
 [/us/stat/104/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F749
-[/us/pl/106/503/s110/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs110%2Fa%2F2%2FA
+[/us/pl/106/503/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2FtI
 [/us/stat/114/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2302
-[/us/pl/110/376/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs10
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
 [/us/stat/122/4061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4061
-[/us/pl/112/239/s1802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1802%2Fa
+[/us/pl/112/239/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVIII
 [/us/stat/126/2099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2099
 [/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1535
 [/us/usc/t15/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2201
-[/us/pl/112/239/s1802/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1802%2Fa%2F1
-[/us/pl/112/239/s1802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1802%2Fa%2F2
-[/us/pl/112/239/s1802/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1802%2Fa%2F3
-[/us/pl/112/239/s1802/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1802%2Fa%2F4
-[/us/pl/112/239/s1802/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1802%2Fa%2F6
-[/us/pl/112/239/s1802/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1802%2Fa%2F4
-[/us/pl/112/239/s1802/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1802%2Fa%2F8
-[/us/pl/112/239/s1802/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1802%2Fa%2F6
-[/us/pl/112/239/s1802/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1802%2Fa%2F4
-[/us/pl/112/239/s1802/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1802%2Fa%2F6
-[/us/pl/110/376/s10/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs10%2F1
-[/us/pl/110/376/s10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs10%2F2
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
 [/us/pl/106/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503
 [/us/pl/101/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391
 [/us/pl/95/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F422

@@ -33,7 +33,7 @@
 
         Prior to publication, the Director may not be required to obtain the approval of any other officer or employee of the United States with respect to the substance of any statistical or forecasting technical reports which he has prepared in accordance with law.
 
-([Pub. L. 93–275, § 57][/us/pl/93/275/s57], as added [Pub. L. 94–385, title I, § 142][/us/pl/94/385/s142], Aug. 14, 1976, [90 Stat. 1139][/us/stat/90/1139].)
+([Pub. L. 93–275][/us/pl/93/275], § 57, as added [Pub. L. 94–385, title I][/us/pl/94/385/tI], § 142, Aug. 14, 1976, [90 Stat. 1139][/us/stat/90/1139].)
 
  __Effective Date__ 
 
@@ -56,8 +56,8 @@
 ----------
 ----------
 
-[/us/pl/93/275/s57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs57
-[/us/pl/94/385/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs142
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
+[/us/pl/94/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtI
 [/us/stat/90/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1139
 [/us/pl/94/385/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs143
 [/us/usc/t15/s790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs790

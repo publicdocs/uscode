@@ -345,7 +345,7 @@
 
         For purposes of this chapter, a delivery sale shall be deemed to have occurred in the State and place where the buyer obtains personal possession of the cigarettes or smokeless tobacco, and a delivery pursuant to a delivery sale is deemed to have been initiated or ordered by the delivery seller.
 
-([Oct. 19, 1949, ch. 699, § 2A][/us/act/1949-10-19/ch699/s2A], as added [Pub. L. 111–154, § 2(c)][/us/pl/111/154/s2/c], Mar. 31, 2010, [124 Stat. 1091][/us/stat/124/1091].)
+([Oct. 19, 1949, ch. 699][/us/act/1949-10-19/ch699], § 2A, as added [Pub. L. 111–154][/us/pl/111/154], § 2(c), Mar. 31, 2010, [124 Stat. 1091][/us/stat/124/1091].)
 
  __References in Text__ 
 
@@ -368,8 +368,8 @@
 [/us/usc/t15/s376/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs376%2Fa
 [/us/usc/t49/s14101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs14101%2Fa
 [/us/usc/t15/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs376
-[/us/act/1949-10-19/ch699/s2A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-19%2Fch699%2Fs2A
-[/us/pl/111/154/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154%2Fs2%2Fc
+[/us/act/1949-10-19/ch699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-19%2Fch699
+[/us/pl/111/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154
 [/us/stat/124/1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1091
 [/us/pl/111/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154
 [/us/stat/124/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1087

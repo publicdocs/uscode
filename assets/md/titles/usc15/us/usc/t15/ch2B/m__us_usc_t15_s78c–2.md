@@ -19,7 +19,7 @@
 
     (b) With respect to any agreement, contract, or transaction (or class thereof) that is exempted by the Commodity Futures Trading Commission pursuant to [section 6(c)(1) of title 7][/us/usc/t7/s6/c/1] with the condition that the Commission exercise concurrent jurisdiction over such agreement, contract, or transaction (or class thereof), references in the securities laws to the “purchase” or “sale” of a security shall be deemed to include the execution, termination (prior to its scheduled maturity date), assignment, exchange, or similar transfer or conveyance of, or extinguishing of rights or obligations under such agreement, contract, or transaction, as the context may require.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 3B, as added [Pub. L. 111–203, title VII, § 717(b)][/us/pl/111/203/s717/b], July 21, 2010, [124 Stat. 1651][/us/stat/124/1651].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 3B, as added [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 717(b), July 21, 2010, [124 Stat. 1651][/us/stat/124/1651].)
 
  __Effective Date__ 
 
@@ -35,7 +35,7 @@
 [/us/usc/t7/s6/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6%2Fc%2F1
 [/us/usc/t7/s6/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6%2Fc%2F1
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/111/203/s717/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs717%2Fb
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1651
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs754

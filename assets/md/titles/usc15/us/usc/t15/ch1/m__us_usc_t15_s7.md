@@ -17,7 +17,7 @@
 
     The word “person”, or “persons”, wherever used in sections 1 to 7 of this title shall be deemed to include corporations and associations existing under or authorized by the laws of either the United States, the laws of any of the Territories, the laws of any State, or the laws of any foreign country.
 
-([July 2, 1890, ch. 647, § 8][/us/act/1890-07-02/ch647/s8], [26 Stat. 210][/us/stat/26/210].)
+([July 2, 1890, ch. 647][/us/act/1890-07-02/ch647], § 8, [26 Stat. 210][/us/stat/26/210].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1890-07-02/ch647/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-02%2Fch647%2Fs8
+[/us/act/1890-07-02/ch647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-02%2Fch647
 [/us/stat/26/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F210
 
 

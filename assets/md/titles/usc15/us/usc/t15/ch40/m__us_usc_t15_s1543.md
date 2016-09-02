@@ -17,7 +17,7 @@
 
     The Secretary of Commerce shall maintain a task force on job repatriation and manufacturing growth and shall produce an annual report on related incentive strategies, implementation plans and program results.
 
-([Pub. L. 113–235, div. B, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2180][/us/stat/128/2180].)
+([Pub. L. 113–235, div. B, title I][/us/pl/113/235/dB/tI], Dec. 16, 2014, [128 Stat. 2180][/us/stat/128/2180].)
 
  __Codification__ 
 
@@ -27,9 +27,9 @@
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 113–76, div. B, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 50][/us/stat/128/50].
+    [Pub. L. 113–76, div. B, title I][/us/pl/113/76/dB/tI], Jan. 17, 2014, [128 Stat. 50][/us/stat/128/50].
 
-    [Pub. L. 113–6, div. B, title I][/us/pl/113/6], Mar. 26, 2013, [127 Stat. 240][/us/stat/127/240].
+    [Pub. L. 113–6, div. B, title I][/us/pl/113/6/dB/tI], Mar. 26, 2013, [127 Stat. 240][/us/stat/127/240].
 
 ----------
 
@@ -38,11 +38,11 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdB%2FtI
 [/us/stat/128/2180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2180
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdB%2FtI
 [/us/stat/128/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F50
-[/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
+[/us/pl/113/6/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2FdB%2FtI
 [/us/stat/127/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F240
 
 

@@ -125,7 +125,7 @@
 
         (2) The Office of Management and Budget shall review each such report in light of the goals, priorities, and agency and departmental responsibilities set forth in the annual report submitted under subsection (a)(2)(D), and shall include, in the President’s annual budget estimate, a statement of the portion of each appropriate agency’s or department’s annual budget estimate relating to its activities undertaken pursuant to the Program.
 
-([Pub. L. 102–194, title I, § 101][/us/pl/102/194/s101], Dec. 9, 1991, [105 Stat. 1595][/us/stat/105/1595]; [Pub. L. 104–66, title I, § 1052(k)][/us/pl/104/66/s1052/k], Dec. 21, 1995, [109 Stat. 719][/us/stat/109/719]; [Pub. L. 105–305, § 4][/us/pl/105/305/s4], Oct. 28, 1998, [112 Stat. 2921][/us/stat/112/2921]; [Pub. L. 110–69, title VII, § 7024(a)(1)(B)][/us/pl/110/69/s7024/a/1/B]–(D), Aug. 9, 2007, [121 Stat. 686–689][/us/stat/121/686-689].)
+([Pub. L. 102–194, title I][/us/pl/102/194/tI], § 101, Dec. 9, 1991, [105 Stat. 1595][/us/stat/105/1595]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1052(k), Dec. 21, 1995, [109 Stat. 719][/us/stat/109/719]; [Pub. L. 105–305][/us/pl/105/305], § 4, Oct. 28, 1998, [112 Stat. 2921][/us/stat/112/2921]; [Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7024(a)(1)(B)–(D), Aug. 9, 2007, [121 Stat. 686–689][/us/stat/121/686-689].)
 
  __References in Text__ 
 
@@ -133,41 +133,41 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a)(1)(A) to (I). [Pub. L. 110–69, § 7024(a)(1)(B)(i)][/us/pl/110/69/s7024/a/1/B/i], added subpars. (A) to (I) and struck out former subpars. (A) and (B) which read as follows:
+    2007—Subsec. (a)(1)(A) to (I). [Pub. L. 110–69][/us/pl/110/69], § 7024(a)(1)(B)(i), added subpars. (A) to (I) and struck out former subpars. (A) and (B) which read as follows:
 
     “(A) establish the goals and priorities for Federal high-performance computing research, development, networking, and other activities; and
 
     “(B) provide for interagency coordination of Federal high-performance computing research, development, networking, and other activities undertaken pursuant to the Program.”
 
-    Subsec. (a)(2). [Pub. L. 110–69, § 7024(a)(1)(B)(ii)][/us/pl/110/69/s7024/a/1/B/ii], redesignated par. (3) as (2) and struck out former par. (2) which provided additional requirements for the National High-Performance Computing Program.
+    Subsec. (a)(2). [Pub. L. 110–69][/us/pl/110/69], § 7024(a)(1)(B)(ii), redesignated par. (3) as (2) and struck out former par. (2) which provided additional requirements for the National High-Performance Computing Program.
 
-    Subsec. (a)(2)(A) to (F). [Pub. L. 110–69, § 7024(a)(1)(B)(iii)][/us/pl/110/69/s7024/a/1/B/iii], added subpars. (A) to (C) and (E), redesignated former subpars. (A) and (C) as (D) and (F), respectively, and struck out former subpar. (B) which read as follows: “provide for interagency coordination of the Program; and”.
+    Subsec. (a)(2)(A) to (F). [Pub. L. 110–69][/us/pl/110/69], § 7024(a)(1)(B)(iii), added subpars. (A) to (C) and (E), redesignated former subpars. (A) and (C) as (D) and (F), respectively, and struck out former subpar. (B) which read as follows: “provide for interagency coordination of the Program; and”.
 
-    Subsec. (a)(3). [Pub. L. 110–69, § 7024(a)(1)(B)(iv)(I)][/us/pl/110/69/s7024/a/1/B/iv/I], substituted “paragraph (2)(D)” for “paragraph (3)(A)” in introductory provisions.
+    Subsec. (a)(3). [Pub. L. 110–69][/us/pl/110/69], § 7024(a)(1)(B)(iv)(I), substituted “paragraph (2)(D)” for “paragraph (3)(A)” in introductory provisions.
 
-    [Pub. L. 110–69, § 7024(a)(1)(B)(ii)][/us/pl/110/69/s7024/a/1/B/ii], redesignated par. (4) as (3). Former par. (3) redesignated (2).
+    [Pub. L. 110–69][/us/pl/110/69], § 7024(a)(1)(B)(ii), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-    Subsec. (a)(3)(A). [Pub. L. 110–69, § 7024(a)(1)(B)(iv)(II)][/us/pl/110/69/s7024/a/1/B/iv/II], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “include a detailed description of the goals and priorities established by the President for the Program;”.
+    Subsec. (a)(3)(A). [Pub. L. 110–69][/us/pl/110/69], § 7024(a)(1)(B)(iv)(II), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “include a detailed description of the goals and priorities established by the President for the Program;”.
 
-    Subsec. (a)(3)(C). [Pub. L. 110–69, § 7024(a)(1)(B)(iv)(III)][/us/pl/110/69/s7024/a/1/B/iv/III], substituted “each Program Component Area” for “specific activities, including education, research, hardware and software development, and support for the establishment of the Network”.
+    Subsec. (a)(3)(C). [Pub. L. 110–69][/us/pl/110/69], § 7024(a)(1)(B)(iv)(III), substituted “each Program Component Area” for “specific activities, including education, research, hardware and software development, and support for the establishment of the Network”.
 
-    Subsec. (a)(3)(D). [Pub. L. 110–69, § 7024(a)(1)(B)(iv)(IV)][/us/pl/110/69/s7024/a/1/B/iv/IV], (V), inserted “, and for each Program Component Area,” after “participating in the Program” and “and” after “applies;”.
+    Subsec. (a)(3)(D). [Pub. L. 110–69][/us/pl/110/69], § 7024(a)(1)(B)(iv)(IV), (V), inserted “, and for each Program Component Area,” after “participating in the Program” and “and” after “applies;”.
 
-    Subsec. (a)(3)(E), (F). [Pub. L. 110–69, § 7024(a)(1)(B)(iv)(VI)][/us/pl/110/69/s7024/a/1/B/iv/VI], (VII), redesignated subpar. (F) as (E), inserted “and the extent to which the Program incorporates the recommendations of the advisory committee established under subsection (b)” after “for the Program”, and struck out former subpar. (E) which read as follows: “include the report of the Secretary of Energy required by [section 5523(d) of this title][/us/usc/t15/s5523/d]; and”.
+    Subsec. (a)(3)(E), (F). [Pub. L. 110–69][/us/pl/110/69], § 7024(a)(1)(B)(iv)(VI), (VII), redesignated subpar. (F) as (E), inserted “and the extent to which the Program incorporates the recommendations of the advisory committee established under subsection (b)” after “for the Program”, and struck out former subpar. (E) which read as follows: “include the report of the Secretary of Energy required by [section 5523(d) of this title][/us/usc/t15/s5523/d]; and”.
 
-    Subsec. (b). [Pub. L. 110–69, § 7024(a)(1)(C)][/us/pl/110/69/s7024/a/1/C], added subsec. (b) and struck out heading and text of former subsec. (b). Text consisted of pars. (1) to (5) which contained provisions similar to those now contained in par. (1).
+    Subsec. (b). [Pub. L. 110–69][/us/pl/110/69], § 7024(a)(1)(C), added subsec. (b) and struck out heading and text of former subsec. (b). Text consisted of pars. (1) to (5) which contained provisions similar to those now contained in par. (1).
 
-    Subsec. (c)(1)(A). [Pub. L. 110–69, § 7024(a)(1)(D)(i)][/us/pl/110/69/s7024/a/1/D/i], substituted “Program Component Areas or” for “Program or”.
+    Subsec. (c)(1)(A). [Pub. L. 110–69][/us/pl/110/69], § 7024(a)(1)(D)(i), substituted “Program Component Areas or” for “Program or”.
 
-    Subsec. (c)(2). [Pub. L. 110–69, § 7024(a)(1)(D)(ii)][/us/pl/110/69/s7024/a/1/D/ii], substituted “subsection (a)(2)(D)” for “subsection (a)(3)(A)”.
+    Subsec. (c)(2). [Pub. L. 110–69][/us/pl/110/69], § 7024(a)(1)(D)(ii), substituted “subsection (a)(2)(D)” for “subsection (a)(3)(A)”.
 
-    1998—Subsec. (a)(2)(A), (B). [Pub. L. 105–305, § 4(a)][/us/pl/105/305/s4/a], amended subpars. (A) and (B) generally. Prior to amendment, subpars. read as follows:
+    1998—Subsec. (a)(2)(A), (B). [Pub. L. 105–305][/us/pl/105/305], § 4(a), amended subpars. (A) and (B) generally. Prior to amendment, subpars. read as follows:
 
     “(A) provide for the establishment of policies for management and access to the Network;
 
     “(B) provide for oversight of the operation and evolution of the Network;”.
 
-    Subsec. (b). [Pub. L. 105–305, § 4(b)][/us/pl/105/305/s4/b], struck out “High-performance computing” before “advisory committee” in heading.
+    Subsec. (b). [Pub. L. 105–305][/us/pl/105/305], § 4(b), struck out “High-performance computing” before “advisory committee” in heading.
 
     1995—Subsec. (a)(4)(D) to (F). [Pub. L. 104–66][/us/pl/104/66] struck out “and” at end of subpar. (D), added subpar. (E), and redesignated former subpar. (E) as (F).
 
@@ -226,30 +226,30 @@
 ----------
 ----------
 
-[/us/pl/102/194/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2Fs101
+[/us/pl/102/194/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2FtI
 [/us/stat/105/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1595
-[/us/pl/104/66/s1052/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1052%2Fk
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F719
-[/us/pl/105/305/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305%2Fs4
+[/us/pl/105/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305
 [/us/stat/112/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2921
-[/us/pl/110/69/s7024/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7024%2Fa%2F1%2FB
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/686-689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F686-689
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
-[/us/pl/110/69/s7024/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7024%2Fa%2F1%2FB%2Fi
-[/us/pl/110/69/s7024/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7024%2Fa%2F1%2FB%2Fii
-[/us/pl/110/69/s7024/a/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7024%2Fa%2F1%2FB%2Fiii
-[/us/pl/110/69/s7024/a/1/B/iv/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7024%2Fa%2F1%2FB%2Fiv%2FI
-[/us/pl/110/69/s7024/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7024%2Fa%2F1%2FB%2Fii
-[/us/pl/110/69/s7024/a/1/B/iv/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7024%2Fa%2F1%2FB%2Fiv%2FII
-[/us/pl/110/69/s7024/a/1/B/iv/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7024%2Fa%2F1%2FB%2Fiv%2FIII
-[/us/pl/110/69/s7024/a/1/B/iv/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7024%2Fa%2F1%2FB%2Fiv%2FIV
-[/us/pl/110/69/s7024/a/1/B/iv/VI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7024%2Fa%2F1%2FB%2Fiv%2FVI
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 [/us/usc/t15/s5523/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5523%2Fd
-[/us/pl/110/69/s7024/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7024%2Fa%2F1%2FC
-[/us/pl/110/69/s7024/a/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7024%2Fa%2F1%2FD%2Fi
-[/us/pl/110/69/s7024/a/1/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7024%2Fa%2F1%2FD%2Fii
-[/us/pl/105/305/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305%2Fs4%2Fa
-[/us/pl/105/305/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305%2Fs4%2Fb
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/105/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305
+[/us/pl/105/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776

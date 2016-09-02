@@ -85,23 +85,23 @@
 
         The term “suspension” includes within its meaning the revocation of a boxing license.
 
-([Pub. L. 104–272, § 2][/us/pl/104/272/s2], Oct. 9, 1996, [110 Stat. 3309][/us/stat/110/3309]; [Pub. L. 106–210, § 7(a)][/us/pl/106/210/s7/a], May 26, 2000, [114 Stat. 327][/us/stat/114/327].)
+([Pub. L. 104–272][/us/pl/104/272], § 2, Oct. 9, 1996, [110 Stat. 3309][/us/stat/110/3309]; [Pub. L. 106–210][/us/pl/106/210], § 7(a), May 26, 2000, [114 Stat. 327][/us/stat/114/327].)
 
  __Codification__ 
 
-    [Pub. L. 106–210, § 7(a)][/us/pl/106/210/s7/a], which directed amendments to subsec. (a) of this section, was executed as if it directed amendments to this section rather than to subsec. (a) of this section to reflect the probable intent of Congress because this section does not contain a subsec. (a). See 2000 Amendment notes below.
+    [Pub. L. 106–210][/us/pl/106/210], § 7(a), which directed amendments to subsec. (a) of this section, was executed as if it directed amendments to this section rather than to subsec. (a) of this section to reflect the probable intent of Congress because this section does not contain a subsec. (a). See 2000 Amendment notes below.
 
  __Amendments__ 
 
-    2000—Par. (9). [Pub. L. 106–210, § 7(a)(1)][/us/pl/106/210/s7/a/1], inserted last sentence. See Codification note above.
+    2000—Par. (9). [Pub. L. 106–210][/us/pl/106/210], § 7(a)(1), inserted last sentence. See Codification note above.
 
-    Par. (10). [Pub. L. 106–210, § 7(a)(2)][/us/pl/106/210/s7/a/2], inserted “, including the Virgin Islands” before the period at end. See Codification note above.
+    Par. (10). [Pub. L. 106–210][/us/pl/106/210], § 7(a)(2), inserted “, including the Virgin Islands” before the period at end. See Codification note above.
 
-    Pars. (11) to (15). [Pub. L. 106–210, § 7(a)(3)][/us/pl/106/210/s7/a/3], added pars. (11) to (15). See Codification note above.
+    Pars. (11) to (15). [Pub. L. 106–210][/us/pl/106/210], § 7(a)(3), added pars. (11) to (15). See Codification note above.
 
  __Effective Date__ 
 
-[Pub. L. 104–272, § 23][/us/pl/104/272/s23], formerly § 15, Oct. 9, 1996, [110 Stat. 3314][/us/stat/110/3314], as renumbered § 23 by [Pub. L. 106–210, § 4(1)][/us/pl/106/210/s4/1], May 26, 2000, [114 Stat. 322][/us/stat/114/322], provided that: 
+[Pub. L. 104–272][/us/pl/104/272], § 23, formerly § 15, Oct. 9, 1996, [110 Stat. 3314][/us/stat/110/3314], as renumbered § 23 by [Pub. L. 106–210][/us/pl/106/210], § 4(1), May 26, 2000, [114 Stat. 322][/us/stat/114/322], provided that: 
 
 > “The provisions of this Act \[enacting this chapter\] shall take effect on January 1, 1997, except as follows:
 
@@ -111,19 +111,19 @@
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–210, § 1][/us/pl/106/210/s1], May 26, 2000, [114 Stat. 321][/us/stat/114/321], provided that: 
+[Pub. L. 106–210][/us/pl/106/210], § 1, May 26, 2000, [114 Stat. 321][/us/stat/114/321], provided that: 
 
 > “This Act \[enacting sections 6307a to 6307h of this title, amending this section and sections 6303, 6305, 6306, and 6308 to 6313 of this title, and enacting and amending provisions set out as notes under this section\] may be cited as the ‘Muhammad Ali Boxing Reform Act’.”
 
  __Short Title__ 
 
-[Pub. L. 104–272, § 1][/us/pl/104/272/s1], Oct. 9, 1996, [110 Stat. 3309][/us/stat/110/3309], provided that: 
+[Pub. L. 104–272][/us/pl/104/272], § 1, Oct. 9, 1996, [110 Stat. 3309][/us/stat/110/3309], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Professional Boxing Safety Act of 1996’.”
 
  __Findings__ 
 
-[Pub. L. 106–210, § 2][/us/pl/106/210/s2], May 26, 2000, [114 Stat. 321][/us/stat/114/321], provided that: 
+[Pub. L. 106–210][/us/pl/106/210], § 2, May 26, 2000, [114 Stat. 321][/us/stat/114/321], provided that: 
 
 > “The Congress makes the following findings:
 
@@ -141,7 +141,7 @@
 
  __Purposes of 2000 Amendment__ 
 
-[Pub. L. 106–210, § 3][/us/pl/106/210/s3], May 26, 2000, [114 Stat. 322][/us/stat/114/322], provided that: 
+[Pub. L. 106–210][/us/pl/106/210], § 3, May 26, 2000, [114 Stat. 322][/us/stat/114/322], provided that: 
 
 > “The purposes of this Act \[see Short Title of 2000 Amendment note above\] are—
 
@@ -158,26 +158,26 @@
 ----------
 ----------
 
-[/us/pl/104/272/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs2
+[/us/pl/104/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272
 [/us/stat/110/3309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3309
-[/us/pl/106/210/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs7%2Fa
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 [/us/stat/114/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F327
-[/us/pl/106/210/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs7%2Fa
-[/us/pl/106/210/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs7%2Fa%2F1
-[/us/pl/106/210/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs7%2Fa%2F2
-[/us/pl/106/210/s7/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs7%2Fa%2F3
-[/us/pl/104/272/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs23
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
+[/us/pl/104/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272
 [/us/stat/110/3314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3314
-[/us/pl/106/210/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs4%2F1
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 [/us/stat/114/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F322
 [/us/usc/t15/s6308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6308
-[/us/pl/106/210/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs1
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 [/us/stat/114/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F321
-[/us/pl/104/272/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs1
+[/us/pl/104/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272
 [/us/stat/110/3309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3309
-[/us/pl/106/210/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs2
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 [/us/stat/114/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F321
-[/us/pl/106/210/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs3
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 [/us/stat/114/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F322
 
 

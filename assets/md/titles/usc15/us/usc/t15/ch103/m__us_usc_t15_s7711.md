@@ -23,7 +23,7 @@
 
         Subsection (a) may not be construed to authorize the Commission to establish a requirement pursuant to [section 7704(a)(5)(A) of this title][/us/usc/t15/s7704/a/5/A] to include any specific words, characters, marks, or labels in a commercial electronic mail message, or to include the identification required by [section 7704(a)(5)(A) of this title][/us/usc/t15/s7704/a/5/A] in any particular part of such a mail message (such as the subject line or body).
 
-([Pub. L. 108–187, § 13][/us/pl/108/187/s13], Dec. 16, 2003, [117 Stat. 2717][/us/stat/117/2717].)
+([Pub. L. 108–187][/us/pl/108/187], § 13, Dec. 16, 2003, [117 Stat. 2717][/us/stat/117/2717].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t15/s7704/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7704%2Fa%2F5%2FA
 [/us/usc/t15/s7704/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7704%2Fa%2F5%2FA
-[/us/pl/108/187/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs13
+[/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2717
 [/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2699

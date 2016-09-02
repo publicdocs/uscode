@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs278" data-uslm-ref="/us/usc/t15/s278">278</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs278l" data-uslm-ref="/us/usc/t15/s278l">278l.</a>  </td>
 
     <td> Assistance to State technology programs.  </td>
 
@@ -313,7 +313,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs278" data-uslm-ref="/us/usc/t15/s278">278</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs278o" data-uslm-ref="/us/usc/t15/s278o">278o.</a>  </td>
 
     <td> User fees.  </td>
 

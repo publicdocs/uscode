@@ -61,7 +61,7 @@
 
     (6) The term “customer” means any person who acquires or attempts to acquire goods or services in a telephone-billed purchase.
 
-([Pub. L. 102–556, title III, § 304][/us/pl/102/556/s304], Oct. 28, 1992, [106 Stat. 4193][/us/stat/106/4193].)
+([Pub. L. 102–556, title III][/us/pl/102/556/tIII], § 304, Oct. 28, 1992, [106 Stat. 4193][/us/stat/106/4193].)
 
 ----------
 
@@ -71,7 +71,7 @@
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/102/556/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2Fs304
+[/us/pl/102/556/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2FtIII
 [/us/stat/106/4193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4193
 
 

@@ -57,7 +57,7 @@
 
         For purposes of this section, any reference to the trustee in sections 78fff–1(b)(1), 78fff–2(d), 78fff–2(f), 78fff–3(a), 78lll(5) and 78lll(12) of this title shall be deemed a reference to SIPC, and any reference to the date of publication of notice under [section 78fff–2(a) of this title][/us/usc/t15/s78fff–2/a] shall be deemed a reference to the publication of notice under this section.
 
-([Pub. L. 91–598, § 10][/us/pl/91/598/s10], as added [Pub. L. 95–283, § 9][/us/pl/95/283/s9], May 21, 1978, [92 Stat. 266][/us/stat/92/266]; amended [Pub. L. 95–598, title III, § 308(n)][/us/pl/95/598/s308/n], Nov. 6, 1978, [92 Stat. 2675][/us/stat/92/2675].)
+([Pub. L. 91–598][/us/pl/91/598], § 10, as added [Pub. L. 95–283][/us/pl/95/283], § 9, May 21, 1978, [92 Stat. 266][/us/stat/92/266]; amended [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 308(n), Nov. 6, 1978, [92 Stat. 2675][/us/stat/92/2675].)
 
  __Prior Provisions__ 
 
@@ -85,10 +85,10 @@
 [/us/usc/t15/s78eee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78eee
 [/us/usc/t15/s78eee/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78eee%2Fb%2F3
 [/us/usc/t15/s78fff–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78fff%E2%80%932%2Fa
-[/us/pl/91/598/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598%2Fs10
-[/us/pl/95/283/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs9
+[/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/stat/92/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F266
-[/us/pl/95/598/s308/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308%2Fn
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2675
 [/us/pl/91/598/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598%2Fs10
 [/us/usc/t15/s78jjj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78jjj

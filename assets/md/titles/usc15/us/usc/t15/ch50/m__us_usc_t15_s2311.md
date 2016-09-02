@@ -47,7 +47,7 @@
 
         This chapter (other than [section 2302(c) of this title][/us/usc/t15/s2302/c]) shall be inapplicable to any written warranty the making or content of which is otherwise governed by Federal law. If only a portion of a written warranty is so governed by Federal law, the remaining portion shall be subject to this chapter.
 
-([Pub. L. 93–637, title I, § 111][/us/pl/93/637/s111], Jan. 4, 1975, [88 Stat. 2192][/us/stat/88/2192].)
+([Pub. L. 93–637, title I][/us/pl/93/637/tI], § 111, Jan. 4, 1975, [88 Stat. 2192][/us/stat/88/2192].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 [/us/usc/t7/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1551
 [/us/usc/t15/s2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2309
 [/us/usc/t15/s2302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2302%2Fc
-[/us/pl/93/637/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs111
+[/us/pl/93/637/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2FtI
 [/us/stat/88/2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2192
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

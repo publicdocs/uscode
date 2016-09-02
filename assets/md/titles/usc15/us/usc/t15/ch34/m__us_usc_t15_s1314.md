@@ -51,7 +51,7 @@
 
         Any documentary material, answers to written interrogatories, or transcripts of oral testimony provided pursuant to any demand issued under this chapter shall be exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552].
 
-([Pub. L. 87–664, § 5][/us/pl/87/664/s5], Sept. 19, 1962, [76 Stat. 551][/us/stat/76/551]; [Pub. L. 94–435, title I, § 104][/us/pl/94/435/s104], Sept. 30, 1976, [90 Stat. 1389][/us/stat/90/1389]; [Pub. L. 96–349, § 2(b)(5)][/us/pl/96/349/s2/b/5], Sept. 12, 1980, [94 Stat. 1155][/us/stat/94/1155].)
+([Pub. L. 87–664][/us/pl/87/664], § 5, Sept. 19, 1962, [76 Stat. 551][/us/stat/76/551]; [Pub. L. 94–435, title I][/us/pl/94/435/tI], § 104, Sept. 30, 1976, [90 Stat. 1389][/us/stat/90/1389]; [Pub. L. 96–349][/us/pl/96/349], § 2(b)(5), Sept. 12, 1980, [94 Stat. 1155][/us/stat/94/1155].)
 
  __References in Text__ 
 
@@ -61,19 +61,19 @@
 
  __Amendments__ 
 
-    1980—Subsec. (b). [Pub. L. 96–349, § 2(b)(5)(A)][/us/pl/96/349/s2/b/5/A], designated existing provisions as par. (1), provided for filing and serving a petition for an order modifying or setting aside a demand in the case of an express demand for any product of discovery upon the person from whom the discovery was obtained, incorporated existing provision in cl. (A), added cl. (B), and designated existing provisions as par. (2).
+    1980—Subsec. (b). [Pub. L. 96–349][/us/pl/96/349], § 2(b)(5)(A), designated existing provisions as par. (1), provided for filing and serving a petition for an order modifying or setting aside a demand in the case of an express demand for any product of discovery upon the person from whom the discovery was obtained, incorporated existing provision in cl. (A), added cl. (B), and designated existing provisions as par. (2).
 
-    Subsecs. (c), (d). [Pub. L. 96–349, § 2(b)(5)(B)][/us/pl/96/349/s2/b/5/B] to (D), added subsec. (c), redesignated former subsec. (c) as (d) and authorized petition, in the case of an express demand for any product of discovery, by the person from whom the discovery was obtained, for an order requiring performance by the custodian of his duties. Former subsec. (d) redesignated (e).
+    Subsecs. (c), (d). [Pub. L. 96–349][/us/pl/96/349], § 2(b)(5)(B) to (D), added subsec. (c), redesignated former subsec. (c) as (d) and authorized petition, in the case of an express demand for any product of discovery, by the person from whom the discovery was obtained, for an order requiring performance by the custodian of his duties. Former subsec. (d) redesignated (e).
 
-    Subsecs. (e) to (g). [Pub. L. 96–349, § 2(b)(5)(B)][/us/pl/96/349/s2/b/5/B], redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
+    Subsecs. (e) to (g). [Pub. L. 96–349][/us/pl/96/349], § 2(b)(5)(B), redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
-    1976—Subsec. (a). [Pub. L. 94–435, § 104(a)][/us/pl/94/435/s104/a], struck out provision which permitted a petition for an enforcement order to be filed in the judicial district where a person who had failed to comply with a demand and who transacted business in one or more districts, maintained his principal place of business, or in such other district, in which such person transacted business, as was agreed upon by the parties to the petition.
+    1976—Subsec. (a). [Pub. L. 94–435][/us/pl/94/435], § 104(a), struck out provision which permitted a petition for an enforcement order to be filed in the judicial district where a person who had failed to comply with a demand and who transacted business in one or more districts, maintained his principal place of business, or in such other district, in which such person transacted business, as was agreed upon by the parties to the petition.
 
-    Subsec. (b). [Pub. L. 94–435, § 104(b)][/us/pl/94/435/s104/b], (c), inserted “or within such period exceeding twenty days after service or in excess of such return date as may be prescribed in writing, subsequent to service, by any antitrust investigator named in the demand,” after “whichever period is shorter”, substituted “antitrust investigator” for “custodian” before “a petition for an order”, and inserted proviso that petitioner should comply with portions of a contested demand which are not being challenged.
+    Subsec. (b). [Pub. L. 94–435][/us/pl/94/435], § 104(b), (c), inserted “or within such period exceeding twenty days after service or in excess of such return date as may be prescribed in writing, subsequent to service, by any antitrust investigator named in the demand,” after “whichever period is shorter”, substituted “antitrust investigator” for “custodian” before “a petition for an order”, and inserted proviso that petitioner should comply with portions of a contested demand which are not being challenged.
 
-    Subsec. (c). [Pub. L. 94–435, § 104(d)][/us/pl/94/435/s104/d], substituted “or answers to interrogatories delivered, or transcripts of oral testimony given” for “delivered”.
+    Subsec. (c). [Pub. L. 94–435][/us/pl/94/435], § 104(d), substituted “or answers to interrogatories delivered, or transcripts of oral testimony given” for “delivered”.
 
-    Subsec. (f). [Pub. L. 94–435, § 104(e)][/us/pl/94/435/s104/e], added subsec. (f).
+    Subsec. (f). [Pub. L. 94–435][/us/pl/94/435], § 104(e), added subsec. (f).
 
  __Effective Date of 1976 Amendment__ 
 
@@ -89,21 +89,21 @@
 [/us/usc/t15/s1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1312
 [/us/usc/t28/s1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1291
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/87/664/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F664%2Fs5
+[/us/pl/87/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F664
 [/us/stat/76/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F551
-[/us/pl/94/435/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs104
+[/us/pl/94/435/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2FtI
 [/us/stat/90/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1389
-[/us/pl/96/349/s2/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349%2Fs2%2Fb%2F5
+[/us/pl/96/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349
 [/us/stat/94/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1155
 [/us/pl/87/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F664
 [/us/usc/t15/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1311
-[/us/pl/96/349/s2/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349%2Fs2%2Fb%2F5%2FA
-[/us/pl/96/349/s2/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349%2Fs2%2Fb%2F5%2FB
-[/us/pl/96/349/s2/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349%2Fs2%2Fb%2F5%2FB
-[/us/pl/94/435/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs104%2Fa
-[/us/pl/94/435/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs104%2Fb
-[/us/pl/94/435/s104/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs104%2Fd
-[/us/pl/94/435/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs104%2Fe
+[/us/pl/96/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349
+[/us/pl/96/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349
+[/us/pl/96/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349
+[/us/pl/94/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435
+[/us/pl/94/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435
+[/us/pl/94/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435
+[/us/pl/94/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435
 [/us/pl/94/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435
 [/us/pl/94/435/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs106
 [/us/usc/t15/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1311

@@ -31,7 +31,7 @@
 
         If such products, fabrics, or related materials are condemned by the court they shall be disposed of by destruction, by delivery to the owner or claimant thereof upon payment of court costs and fees and storage and other proper expenses and upon execution of good and sufficient bond to the effect that such products, fabrics, or related materials will not be disposed of until properly and adequately treated or processed so as to render them lawful for introduction into commerce, or by sale upon execution of good and sufficient bond to the effect that such products, fabrics, or related materials will not be disposed of until properly and adequately treated or processed so as to render them lawful for introduction into commerce. If such products, fabrics, or related materials are disposed of by sale the proceeds, less costs and charges, shall be paid into the Treasury of the United States.
 
-([June 30, 1953, ch. 164, § 6][/us/act/1953-06-30/ch164/s6], [67 Stat. 113][/us/stat/67/113]; [Pub. L. 90–189, § 5][/us/pl/90/189/s5], Dec. 14, 1967, [81 Stat. 571][/us/stat/81/571].)
+([June 30, 1953, ch. 164][/us/act/1953-06-30/ch164], § 6, [67 Stat. 113][/us/stat/67/113]; [Pub. L. 90–189][/us/pl/90/189], § 5, Dec. 14, 1967, [81 Stat. 571][/us/stat/81/571].)
 
  __References in Text__ 
 
@@ -39,13 +39,13 @@
 
  __Amendments__ 
 
-    1967—Subsec. (a). [Pub. L. 90–189, § 5(a)][/us/pl/90/189/s5/a], inserted “, or a rule or regulation prescribed under section 1194 (c) of this title,” after “[section 1192 of this title][/us/usc/t15/s1192]” and substituted “for the district in which such person resides or transacts business, or, if such person resides or transacts business in Guam or the Virgin Islands, then in the District Court of Guam or in the District Court of the Virgin Islands (as the case may be)” for “or in the United States court of any Territory for the district or Territory in which such person resides or transacts business”.
+    1967—Subsec. (a). [Pub. L. 90–189][/us/pl/90/189], § 5(a), inserted “, or a rule or regulation prescribed under section 1194 (c) of this title,” after “[section 1192 of this title][/us/usc/t15/s1192]” and substituted “for the district in which such person resides or transacts business, or, if such person resides or transacts business in Guam or the Virgin Islands, then in the District Court of Guam or in the District Court of the Virgin Islands (as the case may be)” for “or in the United States court of any Territory for the district or Territory in which such person resides or transacts business”.
 
-    Subsec. (b). [Pub. L. 90–189, § 5(b)][/us/pl/90/189/s5/b], substituted “product” for “article of wearing apparel”, “product, fabric, or related material” for “article of wearing apparel or fabric” in two places and “products, fabrics, or related materials” for “articles of wearing apparel or fabrics”, and inserted “or related material” before “has been introduced in commerce”.
+    Subsec. (b). [Pub. L. 90–189][/us/pl/90/189], § 5(b), substituted “product” for “article of wearing apparel”, “product, fabric, or related material” for “article of wearing apparel or fabric” in two places and “products, fabrics, or related materials” for “articles of wearing apparel or fabrics”, and inserted “or related material” before “has been introduced in commerce”.
 
-    Subsec. (c). [Pub. L. 90–189, § 5(b)][/us/pl/90/189/s5/b], substituted “product, fabric, or related material” for “article of wearing apparel or fabric”.
+    Subsec. (c). [Pub. L. 90–189][/us/pl/90/189], § 5(b), substituted “product, fabric, or related material” for “article of wearing apparel or fabric”.
 
-    Subsec. (d). [Pub. L. 90–189, § 5(b)][/us/pl/90/189/s5/b], substituted “products, fabrics, or related materials” for “articles of wearing apparel or fabrics” wherever appearing and struck out “for wearing apparel purposes” before “until properly and adequately treated or processed” in two places.
+    Subsec. (d). [Pub. L. 90–189][/us/pl/90/189], § 5(b), substituted “products, fabrics, or related materials” for “articles of wearing apparel or fabrics” wherever appearing and struck out “for wearing apparel purposes” before “until properly and adequately treated or processed” in two places.
 
  __Transfer of Functions__ 
 
@@ -62,18 +62,18 @@
 [/us/usc/t15/s1194/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1194%2Fc
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1192
-[/us/act/1953-06-30/ch164/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch164%2Fs6
+[/us/act/1953-06-30/ch164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch164
 [/us/stat/67/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F113
-[/us/pl/90/189/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189%2Fs5
+[/us/pl/90/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189
 [/us/stat/81/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F571
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
-[/us/pl/90/189/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189%2Fs5%2Fa
+[/us/pl/90/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189
 [/us/usc/t15/s1192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1192
-[/us/pl/90/189/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189%2Fs5%2Fb
-[/us/pl/90/189/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189%2Fs5%2Fb
-[/us/pl/90/189/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189%2Fs5%2Fb
+[/us/pl/90/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189
+[/us/pl/90/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189
+[/us/pl/90/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189
 [/us/usc/t15/s2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2079
 
 

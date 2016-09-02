@@ -45,7 +45,7 @@
 
         (11) Recommendations, if any and as appropriate, on how to enhance the efficiency and consistency with which Federal funds and resources are expended to enforce, investigate, or prosecute intellectual property crimes, including the extent to which the agencies and Departments responsible for the enforcement, investigation, or prosecution of intellectual property crimes have utilized existing personnel, materials, technologies, and facilities.
 
-([Pub. L. 110–403, title III, § 304][/us/pl/110/403/s304], Oct. 13, 2008, [122 Stat. 4269][/us/stat/122/4269].)
+([Pub. L. 110–403, title III][/us/pl/110/403/tIII], § 304, Oct. 13, 2008, [122 Stat. 4269][/us/stat/122/4269].)
 
 ----------
 
@@ -57,7 +57,7 @@
 [/us/usc/t15/s8113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8113
 [/us/usc/t15/s8113/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8113%2Fe%2F1
 [/us/usc/t15/s8111/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8111%2Fb%2F3
-[/us/pl/110/403/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs304
+[/us/pl/110/403/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtIII
 [/us/stat/122/4269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4269
 
 

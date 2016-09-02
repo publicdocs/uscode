@@ -55,7 +55,7 @@
 
         Contracts may be entered into under this section in a fiscal year only to such extent or in such amounts as are provided in appropriations Acts.
 
-([Pub. L. 100–418, title II, § 2303][/us/pl/100/418/s2303], Aug. 23, 1988, [102 Stat. 1342][/us/stat/102/1342].)
+([Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2303, Aug. 23, 1988, [102 Stat. 1342][/us/stat/102/1342].)
 
 ----------
 
@@ -65,7 +65,7 @@
 ----------
 
 [/us/usc/t22/s2669/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2669%2Ff
-[/us/pl/100/418/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2303
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1342
 
 

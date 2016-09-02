@@ -41,7 +41,7 @@
 
         Subsection (a) of this section applies to any contract between a commercial broadcaster and a boxer, or granting any rights with respect to that boxer, involving a broadcast in or affecting interstate commerce, regardless of the broadcast medium. For the purpose of this subsection, any reference in subsection (a)(1)(B) to “promoter” shall be considered a reference to “commercial broadcaster”.
 
-([Pub. L. 104–272, § 10][/us/pl/104/272/s10], as added [Pub. L. 106–210, § 4(2)][/us/pl/106/210/s4/2], May 26, 2000, [114 Stat. 322][/us/stat/114/322].)
+([Pub. L. 104–272][/us/pl/104/272], § 10, as added [Pub. L. 106–210][/us/pl/106/210], § 4(2), May 26, 2000, [114 Stat. 322][/us/stat/114/322].)
 
  __Prior Provisions__ 
 
@@ -54,8 +54,8 @@
 ----------
 ----------
 
-[/us/pl/104/272/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs10
-[/us/pl/106/210/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs4%2F2
+[/us/pl/104/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 [/us/stat/114/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F322
 [/us/pl/104/272/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs10
 [/us/usc/t15/s6309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6309

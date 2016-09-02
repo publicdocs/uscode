@@ -17,7 +17,7 @@
 
     Any suit, action, or proceeding under the antitrust laws against a corporation may be brought not only in the judicial district whereof it is an inhabitant, but also in any district wherein it may be found or transacts business; and all process in such cases may be served in the district of which it is an inhabitant, or wherever it may be found.
 
-([Oct. 15, 1914, ch. 323, § 12][/us/act/1914-10-15/ch323/s12], [38 Stat. 736][/us/stat/38/736].)
+([Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], § 12, [38 Stat. 736][/us/stat/38/736].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1914-10-15/ch323/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323%2Fs12
+[/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
 [/us/stat/38/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F736
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 

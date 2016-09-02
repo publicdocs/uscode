@@ -57,11 +57,11 @@
 
             (B) the receipt of a gift or benefit of de minimis value.
 
-([Pub. L. 104–272, § 17][/us/pl/104/272/s17], formerly § 9, Oct. 9, 1996, [110 Stat. 3311][/us/stat/110/3311]; renumbered § 17 and amended [Pub. L. 106–210][/us/pl/106/210], §§ 4(1), 5, May 26, 2000, [114 Stat. 322][/us/stat/114/322], 325.)
+([Pub. L. 104–272][/us/pl/104/272], § 17, formerly § 9, Oct. 9, 1996, [110 Stat. 3311][/us/stat/110/3311]; renumbered § 17 and amended [Pub. L. 106–210][/us/pl/106/210], §§ 4(1), 5, May 26, 2000, [114 Stat. 322][/us/stat/114/322], 325.)
 
  __Amendments__ 
 
-    2000—[Pub. L. 106–210, § 5][/us/pl/106/210/s5], designated existing provisions as subsec. (a), inserted subsec. heading, and added subsecs. (b) and (c).
+    2000—[Pub. L. 106–210][/us/pl/106/210], § 5, designated existing provisions as subsec. (a), inserted subsec. heading, and added subsecs. (b) and (c).
 
 ----------
 
@@ -71,10 +71,10 @@
 ----------
 
 [/us/usc/t15/s6303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6303
-[/us/pl/104/272/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs17
+[/us/pl/104/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272
 [/us/stat/110/3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3311
 [/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 [/us/stat/114/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F322
-[/us/pl/106/210/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs5
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 
 

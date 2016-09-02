@@ -31,7 +31,7 @@
 
         Upon a request of such officer or agency, as the case may be, the Attorney General may commence a civil action for appropriate relief, including a permanent or temporary injunction or a civil penalty not to exceed $25,000 per day for violations of the compliance order issued under subsection (a). Any action under this subsection may be brought in any district court of the United States for the district in which the defendant is located, resides, or is doing business, and such court shall have jurisdiction to restrain such violation, require compliance, or impose such penalty or give ancillary relief.
 
-([Pub. L. 94–586, § 11][/us/pl/94/586/s11], Oct. 22, 1976, [90 Stat. 2914][/us/stat/90/2914].)
+([Pub. L. 94–586][/us/pl/94/586], § 11, Oct. 22, 1976, [90 Stat. 2914][/us/stat/90/2914].)
 
  __Transfer of Functions__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/94/586/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586%2Fs11
+[/us/pl/94/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586
 [/us/stat/90/2914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2914
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e

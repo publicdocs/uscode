@@ -65,7 +65,7 @@
 
     (24) “tenants’ organization” means a bona fide organization of tenants who represent a majority of the occupied rental units in a rental housing project.
 
-([Pub. L. 96–399, title VI, § 604][/us/pl/96/399/s604], Oct. 8, 1980, [94 Stat. 1673][/us/stat/94/1673].)
+([Pub. L. 96–399, title VI][/us/pl/96/399/tVI], § 604, Oct. 8, 1980, [94 Stat. 1673][/us/stat/94/1673].)
 
 ----------
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/96/399/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs604
+[/us/pl/96/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtVI
 [/us/stat/94/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1673
 
 

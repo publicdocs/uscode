@@ -81,19 +81,19 @@
 
         (2) to disclose the nature of the review under paragraph (1).
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 7, [48 Stat. 78][/us/stat/48/78]; [Pub. L. 101–429, title V, § 508][/us/pl/101/429/s508], Oct. 15, 1990, [104 Stat. 956][/us/stat/104/956]; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 942(b), 945, July 21, 2010, [124 Stat. 1897][/us/stat/124/1897], 1898; [Pub. L. 112–106, title I, § 102(b)(1)][/us/pl/112/106/s102/b/1], Apr. 5, 2012, [126 Stat. 309][/us/stat/126/309].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 7, [48 Stat. 78][/us/stat/48/78]; [Pub. L. 101–429, title V][/us/pl/101/429/tV], § 508, Oct. 15, 1990, [104 Stat. 956][/us/stat/104/956]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], §§ 942(b), 945, July 21, 2010, [124 Stat. 1897][/us/stat/124/1897], 1898; [Pub. L. 112–106, title I][/us/pl/112/106/tI], § 102(b)(1), Apr. 5, 2012, [126 Stat. 309][/us/stat/126/309].)
 
  __References in Text__ 
 
-    [Section 78c(a)(77) of this title][/us/usc/t15/s78c/a/77], referred to in subsec. (d), was redesignated [section 78c(a)(79) of this title][/us/usc/t15/s78c/a/79] by [Pub. L. 112–106, title I, § 101(b)(1)][/us/pl/112/106/s101/b/1], Apr. 5, 2012, [126 Stat. 307][/us/stat/126/307].
+    [Section 78c(a)(77) of this title][/us/usc/t15/s78c/a/77], referred to in subsec. (d), was redesignated [section 78c(a)(79) of this title][/us/usc/t15/s78c/a/79] by [Pub. L. 112–106, title I][/us/pl/112/106/tI], § 101(b)(1), Apr. 5, 2012, [126 Stat. 307][/us/stat/126/307].
 
  __Amendments__ 
 
     2012—Subsec. (a). [Pub. L. 112–106][/us/pl/112/106] inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
-    2010—Subsec. (c). [Pub. L. 111–203, § 942(b)][/us/pl/111/203/s942/b], added subsec. (c).
+    2010—Subsec. (c). [Pub. L. 111–203][/us/pl/111/203], § 942(b), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 111–203, § 945][/us/pl/111/203/s945], added subsec. (d).
+    Subsec. (d). [Pub. L. 111–203][/us/pl/111/203], § 945, added subsec. (d).
 
     1990—[Pub. L. 101–429][/us/pl/101/429] designated existing provision as subsec. (a) and added subsec. (b).
 
@@ -103,7 +103,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–429, § 1(c)][/us/pl/101/429/s1/c], Oct. 15, 1990, [104 Stat. 931][/us/stat/104/931], provided that:
+[Pub. L. 101–429][/us/pl/101/429], § 1(c), Oct. 15, 1990, [104 Stat. 931][/us/stat/104/931], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -139,7 +139,7 @@
 
  __Improvement of Regulation S–K__ 
 
-[Pub. L. 114–94, div. G, title LXXII, § 72002][/us/pl/114/94/s72002], Dec. 4, 2015, [129 Stat. 1784][/us/stat/129/1784], provided that: 
+[Pub. L. 114–94, div. G, title LXXII][/us/pl/114/94/dG/tLXXII], § 72002, Dec. 4, 2015, [129 Stat. 1784][/us/stat/129/1784], provided that: 
 
 > “Not later than the end of the 180-day period beginning on the date of the enactment of this Act \[Dec. 4, 2015\], the Securities and Exchange Commission shall take all such actions to revise regulation S–K (17 CFR 229.10 et seq.)—
 
@@ -151,19 +151,19 @@
 
  __Forward Incorporation by Reference for Form S–1__ 
 
-[Pub. L. 114–94, div. G, title LXXXIV, § 84001][/us/pl/114/94/s84001], Dec. 4, 2015, [129 Stat. 1797][/us/stat/129/1797], provided that: 
+[Pub. L. 114–94, div. G, title LXXXIV][/us/pl/114/94/dG/tLXXXIV], § 84001, Dec. 4, 2015, [129 Stat. 1797][/us/stat/129/1797], provided that: 
 
 > “Not later than 45 days after the date of the enactment of this Act \[Dec. 4, 2015\], the Securities and Exchange Commission shall revise Form S–1 so as to permit a smaller reporting company (as defined in section 230.405 of title 17, Code of Federal Regulations) to incorporate by reference in a registration statement filed on such form any documents that such company files with the Commission after the effective date of such registration statement.”
 
  __Other Disclosures__ 
 
-[Pub. L. 112–106, title I, § 102(c)][/us/pl/112/106/s102/c], Apr. 5, 2012, [126 Stat. 310][/us/stat/126/310], provided that: 
+[Pub. L. 112–106, title I][/us/pl/112/106/tI], § 102(c), Apr. 5, 2012, [126 Stat. 310][/us/stat/126/310], provided that: 
 
 > “An emerging growth company may comply with section 229.303(a) of title 17, Code of Federal Regulations, or any successor thereto, by providing information required by such section with respect to the financial statements of the emerging growth company for each period presented pursuant to section 7(a) of the Securities Act of 1933 ([15 U.S.C. 77g(a)][/us/usc/t15/s77g/a]). An emerging growth company may comply with section 229.402 of title 17, Code of Federal Regulations, or any successor thereto, by disclosing the same information as any issuer with a market value of outstanding voting and nonvoting common equity held by non-affiliates of less than $75,000,000.”
 
  __Simplified Disclosure Requirements__ 
 
-[Pub. L. 112–106, title I, § 102(d)][/us/pl/112/106/s102/d], as added by [Pub. L. 114–94, div. G, title LXXI, § 71003][/us/pl/114/94/s71003], Dec. 4, 2015, [129 Stat. 1783][/us/stat/129/1783], provided that: 
+[Pub. L. 112–106, title I][/us/pl/112/106/tI], § 102(d), as added by [Pub. L. 114–94, div. G, title LXXI][/us/pl/114/94/dG/tLXXI], § 71003, Dec. 4, 2015, [129 Stat. 1783][/us/stat/129/1783], provided that: 
 
 > “With respect to an emerging growth company (as such term is defined under section 2 of the Securities Act of 1933 \[[15 U.S.C. 77b][/us/usc/t15/s77b]\]):
 
@@ -197,39 +197,39 @@
 [/us/usc/t15/s78c/a/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F51
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/stat/48/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F78
-[/us/pl/101/429/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2Fs508
+[/us/pl/101/429/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2FtV
 [/us/stat/104/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F956
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1897
-[/us/pl/112/106/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs102%2Fb%2F1
+[/us/pl/112/106/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtI
 [/us/stat/126/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F309
 [/us/usc/t15/s78c/a/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F77
 [/us/usc/t15/s78c/a/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F79
-[/us/pl/112/106/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs101%2Fb%2F1
+[/us/pl/112/106/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtI
 [/us/stat/126/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F307
 [/us/pl/112/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106
-[/us/pl/111/203/s942/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs942%2Fb
-[/us/pl/111/203/s945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs945
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/101/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/101/429/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2Fs1%2Fc
+[/us/pl/101/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429
 [/us/stat/104/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F931
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t15/s78d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d
-[/us/pl/114/94/s72002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs72002
+[/us/pl/114/94/dG/tLXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXII
 [/us/stat/129/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1784
 [/us/pl/114/94/s72003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs72003
 [/us/usc/t15/s77s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77s
-[/us/pl/114/94/s84001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs84001
+[/us/pl/114/94/dG/tLXXXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXXIV
 [/us/stat/129/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1797
-[/us/pl/112/106/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs102%2Fc
+[/us/pl/112/106/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtI
 [/us/stat/126/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F310
 [/us/usc/t15/s77g/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77g%2Fa
-[/us/pl/112/106/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs102%2Fd
-[/us/pl/114/94/s71003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs71003
+[/us/pl/112/106/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtI
+[/us/pl/114/94/dG/tLXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXI
 [/us/stat/129/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1783
 [/us/usc/t15/s77b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77b
 

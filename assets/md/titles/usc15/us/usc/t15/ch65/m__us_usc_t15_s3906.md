@@ -17,7 +17,7 @@
 
     Any district court of the United States may issue an order enjoining a risk retention group from soliciting or selling insurance, or operating, in any State (or in all States) or in any territory or possession of the United States upon a finding of such court that such group is in hazardous financial condition. Such order shall be binding on such group, its officers, agents, and employees, and on any other person acting in active concert with any such officer, agent, or employee, if such other person has actual notice of such order.
 
-([Pub. L. 97–45, § 7][/us/pl/97/45/s7], as added [Pub. L. 99–563, § 9][/us/pl/99/563/s9], Oct. 27, 1986, [100 Stat. 3176][/us/stat/100/3176].)
+([Pub. L. 97–45][/us/pl/97/45], § 7, as added [Pub. L. 99–563][/us/pl/99/563], § 9, Oct. 27, 1986, [100 Stat. 3176][/us/stat/100/3176].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/97/45/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F45%2Fs7
-[/us/pl/99/563/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs9
+[/us/pl/97/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F45
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
 [/us/stat/100/3176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3176
 
 

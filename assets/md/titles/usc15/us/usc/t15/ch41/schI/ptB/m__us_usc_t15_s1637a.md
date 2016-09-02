@@ -249,7 +249,7 @@
 
         (2) any pamphlet which provides substantially similar information to the information described in such section, as determined by the Bureau.
 
-([Pub. L. 90–321, title I, § 127A][/us/pl/90/321/s127A], as added [Pub. L. 100–709, § 2(a)][/us/pl/100/709/s2/a], Nov. 23, 1988, [102 Stat. 4725][/us/stat/102/4725]; amended [Pub. L. 109–8, title XIII, § 1302(a)(1)][/us/pl/109/8/s1302/a/1], Apr. 20, 2005, [119 Stat. 208][/us/stat/119/208]; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 127A, as added [Pub. L. 100–709][/us/pl/100/709], § 2(a), Nov. 23, 1988, [102 Stat. 4725][/us/stat/102/4725]; amended [Pub. L. 109–8, title XIII][/us/pl/109/8/tXIII], § 1302(a)(1), Apr. 20, 2005, [119 Stat. 208][/us/stat/119/208]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 
  __References in Text__ 
 
@@ -275,7 +275,7 @@
 
  __Regulations__ 
 
-[Pub. L. 109–8, title XIII, § 1302(c)][/us/pl/109/8/s1302/c], Apr. 20, 2005, [119 Stat. 209][/us/stat/119/209], provided that:
+[Pub. L. 109–8, title XIII][/us/pl/109/8/tXIII], § 1302(c), Apr. 20, 2005, [119 Stat. 209][/us/stat/119/209], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -291,7 +291,7 @@
 
  __Regulations; Effective Date__ 
 
-[Pub. L. 100–709, § 7][/us/pl/100/709/s7], Nov. 23, 1988, [102 Stat. 4734][/us/stat/102/4734], provided that:
+[Pub. L. 100–709][/us/pl/100/709], § 7, Nov. 23, 1988, [102 Stat. 4734][/us/stat/102/4734], provided that:
 
 >     “(a)  __Regulations__  __.—__ 
 
@@ -311,7 +311,7 @@
 
  __Consumer Education__ 
 
-[Pub. L. 100–709, § 4][/us/pl/100/709/s4], Nov. 23, 1988, [102 Stat. 4733][/us/stat/102/4733], provided that: 
+[Pub. L. 100–709][/us/pl/100/709], § 4, Nov. 23, 1988, [102 Stat. 4733][/us/stat/102/4733], provided that: 
 
 > “The Board of Governors of the Federal Reserve System shall develop and prepare a pamphlet for distribution to consumers which contains—
 
@@ -327,12 +327,12 @@
 ----------
 
 [/us/usc/t15/s1665b/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1665b%2Ff
-[/us/pl/90/321/s127A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs127A
-[/us/pl/100/709/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F709%2Fs2%2Fa
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/100/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F709
 [/us/stat/102/4725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4725
-[/us/pl/109/8/s1302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1302%2Fa%2F1
+[/us/pl/109/8/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXIII
 [/us/stat/119/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F208
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/100/709/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F709%2Fs4
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
@@ -343,12 +343,12 @@
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
 [/us/pl/109/8/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1501
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
-[/us/pl/109/8/s1302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1302%2Fc
+[/us/pl/109/8/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXIII
 [/us/stat/119/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F209
-[/us/pl/100/709/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F709%2Fs7
+[/us/pl/100/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F709
 [/us/stat/102/4734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4734
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/100/709/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F709%2Fs4
+[/us/pl/100/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F709
 [/us/stat/102/4733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4733
 
 

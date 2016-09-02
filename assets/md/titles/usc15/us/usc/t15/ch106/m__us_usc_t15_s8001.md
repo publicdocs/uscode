@@ -25,7 +25,7 @@
 
     (4) Research studies show that the installation and proper use of barriers or fencing, as well as additional layers of protection, could substantially reduce the number of childhood residential swimming pool drownings and near drownings.
 
-([Pub. L. 110–140, title XIV, § 1402][/us/pl/110/140/s1402], Dec. 19, 2007, [121 Stat. 1794][/us/stat/121/1794].)
+([Pub. L. 110–140, title XIV][/us/pl/110/140/tXIV], § 1402, Dec. 19, 2007, [121 Stat. 1794][/us/stat/121/1794].)
 
  __Effective Date__ 
 
@@ -33,7 +33,7 @@
 
  __Short Title__ 
 
-[Pub. L. 110–140, title XIV, § 1401][/us/pl/110/140/s1401], Dec. 19, 2007, [121 Stat. 1794][/us/stat/121/1794], provided that: 
+[Pub. L. 110–140, title XIV][/us/pl/110/140/tXIV], § 1401, Dec. 19, 2007, [121 Stat. 1794][/us/stat/121/1794], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Virginia Graeme Baker Pool and Spa Safety Act’.”
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/pl/110/140/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1402
+[/us/pl/110/140/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXIV
 [/us/stat/121/1794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1794
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/110/140/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1401
+[/us/pl/110/140/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXIV
 [/us/stat/121/1794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1794
 
 

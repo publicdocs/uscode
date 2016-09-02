@@ -17,7 +17,7 @@
 
     The Commission, by rule or regulation, may conditionally or unconditionally exempt any person, security, or transaction, or any class or classes of persons, securities, or transactions, from any provision or provisions of this subchapter or of any rule or regulation issued under this subchapter, to the extent that such exemption is necessary or appropriate in the public interest, and is consistent with the protection of investors.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 28, as added [Pub. L. 104–290, title I, § 105(a)][/us/pl/104/290/s105/a], Oct. 11, 1996, [110 Stat. 3424][/us/stat/110/3424]; amended [Pub. L. 105–353, title III, § 301(a)(5)][/us/pl/105/353/s301/a/5], Nov. 3, 1998, [112 Stat. 3235][/us/stat/112/3235].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 28, as added [Pub. L. 104–290, title I][/us/pl/104/290/tI], § 105(a), Oct. 11, 1996, [110 Stat. 3424][/us/stat/110/3424]; amended [Pub. L. 105–353, title III][/us/pl/105/353/tIII], § 301(a)(5), Nov. 3, 1998, [112 Stat. 3235][/us/stat/112/3235].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
-[/us/pl/104/290/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs105%2Fa
+[/us/pl/104/290/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtI
 [/us/stat/110/3424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3424
-[/us/pl/105/353/s301/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fa%2F5
+[/us/pl/105/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtIII
 [/us/stat/112/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3235
 [/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
 

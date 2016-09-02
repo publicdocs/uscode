@@ -61,7 +61,7 @@
 
             The Administrator shall include a report on the disaster simulation exercises conducted under paragraph (1) each time the Administration submits a report required under section 657o of this title, as added by this Act.
 
-([Pub. L. 110–234, title XII, § 12072][/us/pl/110/234/s12072], May 22, 2008, [122 Stat. 1411][/us/stat/122/1411]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12072, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2173.)
+([Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12072, May 22, 2008, [122 Stat. 1411][/us/stat/122/1411]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12072, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2173.)
 
  __References in Text__ 
 
@@ -86,9 +86,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s12072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12072
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1411
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

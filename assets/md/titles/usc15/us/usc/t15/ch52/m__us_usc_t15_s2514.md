@@ -19,11 +19,11 @@
 
     (b) Any moneys received by the Secretary of Energy from vehicle sales or leases or other activities under this chapter may be retained and used for purposes of carrying out this chapter, notwithstanding the provisions of [section 3302(b) of title 31][/us/usc/t31/s3302/b], and may remain available until expended; but the amount authorized to be appropriated for any fiscal year under subsection (a) shall be reduced by the amount of the moneys so received in that year.
 
-([Pub. L. 94–413, § 16][/us/pl/94/413/s16], Sept. 17, 1976, [90 Stat. 1270][/us/stat/90/1270]; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577].)
+([Pub. L. 94–413][/us/pl/94/413], § 16, Sept. 17, 1976, [90 Stat. 1270][/us/stat/90/1270]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577].)
 
  __Codification__ 
 
-    In subsec. (b), “[section 3302(b) of title 31][/us/usc/t31/s3302/b]” substituted for “section 3617 of the Revised Statutes ([31 U.S.C. 484][/us/usc/t31/s484])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (b), “[section 3302(b) of title 31][/us/usc/t31/s3302/b]” substituted for “section 3617 of the Revised Statutes ([31 U.S.C. 484][/us/usc/t31/s484])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Transfer of Functions__ 
 
@@ -37,13 +37,13 @@
 ----------
 
 [/us/usc/t31/s3302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302%2Fb
-[/us/pl/94/413/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F413%2Fs16
+[/us/pl/94/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F413
 [/us/stat/90/1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1270
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
 [/us/usc/t31/s3302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302%2Fb
 [/us/usc/t31/s484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs484
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
 [/us/usc/t15/s2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2502

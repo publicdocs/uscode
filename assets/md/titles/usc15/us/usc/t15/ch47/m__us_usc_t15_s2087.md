@@ -91,7 +91,7 @@
 
     (d) Subsection (a) shall not apply with respect to an employee of a manufacturer, private labeler, distributor, or retailer who, acting without direction from such manufacturer, private labeler, distributor, or retailer (or such person’s agent), deliberately causes a violation of any requirement relating to any violation or alleged violation of any order, regulation, or consumer product safety standard under this chapter or any other law enforced by the Commission.
 
-([Pub. L. 92–573, § 40][/us/pl/92/573/s40], as added [Pub. L. 110–314, title II, § 219(a)][/us/pl/110/314/s219/a], Aug. 14, 2008, [122 Stat. 3062][/us/stat/122/3062].)
+([Pub. L. 92–573][/us/pl/92/573], § 40, as added [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 219(a), Aug. 14, 2008, [122 Stat. 3062][/us/stat/122/3062].)
 
 ----------
 
@@ -101,8 +101,8 @@
 ----------
 
 [/us/usc/t28/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1361
-[/us/pl/92/573/s40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs40
-[/us/pl/110/314/s219/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs219%2Fa
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3062
 
 

@@ -107,7 +107,7 @@
 
         (7) Notwithstanding the second sentence of subsection (e)(1), subsection (e)(3)(C)(i), and subsection (e)(3)(C)(ii), each agency referred to in subsection (a) or (c) shall require an adjustment for an annual percentage rate disclosure error that exceeds a tolerance of one quarter of one percent less than the actual rate, determined without regard to [section 1606(c) of this title][/us/usc/t15/s1606/c], with respect to any transaction consummated between January 1, 1977, and March 31, 1980.
 
-([Pub. L. 90–321, title I, § 108][/us/pl/90/321/s108], May 29, 1968, [82 Stat. 150][/us/stat/82/150]; [Pub. L. 91–206, § 3][/us/pl/91/206/s3], Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; [Pub. L. 93–495, title IV, § 403][/us/pl/93/495/s403], Oct. 28, 1974, [88 Stat. 1517][/us/stat/88/1517]; [Pub. L. 95–630, title V, § 501][/us/pl/95/630/s501], Nov. 10, 1978, [92 Stat. 3680][/us/stat/92/3680]; [Pub. L. 96–221, title VI, § 608(a)][/us/pl/96/221/s608/a], (c), Mar. 21, 1980, [94 Stat. 171][/us/stat/94/171], 173; [Pub. L. 98–443, § 9(n)][/us/pl/98/443/s9/n], Oct. 4, 1984, [98 Stat. 1708][/us/stat/98/1708]; [Pub. L. 101–73, title VII, § 744(k)][/us/pl/101/73/s744/k], Aug. 9, 1989, [103 Stat. 439][/us/stat/103/439]; [Pub. L. 102–242, title II, § 212(b)][/us/pl/102/242/s212/b], Dec. 19, 1991, [105 Stat. 2299][/us/stat/105/2299]; [Pub. L. 102–550, title XVI, § 1604(a)(5)][/us/pl/102/550/s1604/a/5], Oct. 28, 1992, [106 Stat. 4082][/us/stat/106/4082]; [Pub. L. 104–208, div. A, title II, § 2106][/us/pl/104/208/s2106], Sept. 30, 1996, [110 Stat. 3009–402][/us/stat/110/3009-402]; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], (8), title XIV, § 1414(b), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2108, 2152.)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 108, May 29, 1968, [82 Stat. 150][/us/stat/82/150]; [Pub. L. 91–206][/us/pl/91/206], § 3, Mar. 10, 1970, [84 Stat. 49][/us/stat/84/49]; [Pub. L. 93–495, title IV][/us/pl/93/495/tIV], § 403, Oct. 28, 1974, [88 Stat. 1517][/us/stat/88/1517]; [Pub. L. 95–630, title V][/us/pl/95/630/tV], § 501, Nov. 10, 1978, [92 Stat. 3680][/us/stat/92/3680]; [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 608(a), (c), Mar. 21, 1980, [94 Stat. 171][/us/stat/94/171], 173; [Pub. L. 98–443][/us/pl/98/443], § 9(n), Oct. 4, 1984, [98 Stat. 1708][/us/stat/98/1708]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 744(k), Aug. 9, 1989, [103 Stat. 439][/us/stat/103/439]; [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 212(b), Dec. 19, 1991, [105 Stat. 2299][/us/stat/105/2299]; [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1604(a)(5), Oct. 28, 1992, [106 Stat. 4082][/us/stat/106/4082]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2106, Sept. 30, 1996, [110 Stat. 3009–402][/us/stat/110/3009-402]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), (8), title XIV, § 1414(b), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2108, 2152.)
 
  __References in Text__ 
 
@@ -125,17 +125,17 @@
 
  __Codification__ 
 
-    In subsec. (a)(3), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958” and “that part” substituted for “that Act” on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+    In subsec. (a)(3), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958” and “that part” substituted for “that Act” on authority of [Pub. L. 103–272][/us/pl/103/272], § 6(b), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 1100A(8)(A)][/us/pl/111/203/s1100A/8/A], added subsec. (a) and struck out former subsec. (a) which listed agencies under which compliance with subchapter requirements would be enforced.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 1100A(8)(A), added subsec. (a) and struck out former subsec. (a) which listed agencies under which compliance with subchapter requirements would be enforced.
 
-    Subsec. (a)(7). [Pub. L. 111–203, § 1414(b)][/us/pl/111/203/s1414/b], added par. (7).
+    Subsec. (a)(7). [Pub. L. 111–203][/us/pl/111/203], § 1414(b), added par. (7).
 
-    Subsec. (c). [Pub. L. 111–203, § 1100A(8)(B)][/us/pl/111/203/s1100A/8/B], added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under subsection (a) of this section, the Federal Trade Commission shall enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act.”
+    Subsec. (c). [Pub. L. 111–203][/us/pl/111/203], § 1100A(8)(B), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under subsection (a) of this section, the Federal Trade Commission shall enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act.”
 
-    Subsec. (d). [Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], substituted “Bureau” for “Board”.
+    Subsec. (d). [Pub. L. 111–203][/us/pl/111/203], § 1100A(2), substituted “Bureau” for “Board”.
 
     1996—Subsec. (e)(3). [Pub. L. 104–208][/us/pl/104/208] struck out “ordered (A) if” and inserted “ordered—
 
@@ -159,9 +159,9 @@
 
     1992—Subsec. (a)(1)(C). [Pub. L. 102–550][/us/pl/102/550] substituted semicolon for period at end.
 
-    1991—Subsec. (a). [Pub. L. 102–242, § 212(b)(2)][/us/pl/102/242/s212/b/2], inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act ([12 U.S.C. 1813(s)][/us/usc/t12/s1813/s]) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 ([12 U.S.C. 3101][/us/usc/t12/s3101]).”
+    1991—Subsec. (a). [Pub. L. 102–242][/us/pl/102/242], § 212(b)(2), inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act ([12 U.S.C. 1813(s)][/us/usc/t12/s1813/s]) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 ([12 U.S.C. 3101][/us/usc/t12/s3101]).”
 
-    [Pub. L. 102–242, § 212(b)(1)][/us/pl/102/242/s212/b/1], added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of
+    [Pub. L. 102–242][/us/pl/102/242], § 212(b)(1), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of
 
     “(A) national banks, by the Comptroller of the Currency.
 
@@ -173,9 +173,9 @@
 
     1984—Subsec. (a)(4). [Pub. L. 98–443][/us/pl/98/443] substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
 
-    1980—Subsec. (e). [Pub. L. 96–221, § 608(a)][/us/pl/96/221/s608/a], added subsec. (e).
+    1980—Subsec. (e). [Pub. L. 96–221][/us/pl/96/221], § 608(a), added subsec. (e).
 
-    [Pub. L. 96–221, § 608(c)][/us/pl/96/221/s608/c], struck out in pars. (1)(A)(i) and (7) “, except in the case of an irregular mortgage lending transaction” after “[section 1606(c) of this title][/us/usc/t15/s1606/c]”. See Effective Date of 1980 Amendment note below.
+    [Pub. L. 96–221][/us/pl/96/221], § 608(c), struck out in pars. (1)(A)(i) and (7) “, except in the case of an irregular mortgage lending transaction” after “[section 1606(c) of this title][/us/usc/t15/s1606/c]”. See Effective Date of 1980 Amendment note below.
 
     1974—Subsec. (a)(4) to (6). [Pub. L. 93–495][/us/pl/93/495] redesignated pars. (5) and (6) as (4) and (5), respectively. Former par. (4), which related to enforcement by the Interstate Commerce Commission, was struck out.
 
@@ -195,11 +195,11 @@
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–221, title VI, § 608(b)][/us/pl/96/221/s608/b], Mar. 31, 1980, [94 Stat. 173][/us/stat/94/173], provided that: 
+[Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 608(b), Mar. 31, 1980, [94 Stat. 173][/us/stat/94/173], provided that: 
 
 > “This section \[amending this section\] shall take effect on the date of enactment of the Truth in Lending Simplification and Reform Act \[Mar. 31, 1980\].”
 
-    [Pub. L. 96–221, title VI, § 608(c)][/us/pl/96/221/s608/c], Mar. 31, 1980, [94 Stat. 173][/us/stat/94/173], provided that the amendment made by that section is effective one year after Mar. 31, 1980.
+    [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 608(c), Mar. 31, 1980, [94 Stat. 173][/us/stat/94/173], provided that the amendment made by that section is effective one year after Mar. 31, 1980.
 
  __Effective Date of 1974 Amendment__ 
 
@@ -237,27 +237,27 @@
 [/us/usc/t12/s1818/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fh
 [/us/usc/t15/s1666d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1666d
 [/us/usc/t15/s1606/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1606%2Fc
-[/us/pl/90/321/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs108
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
 [/us/stat/82/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F150
-[/us/pl/91/206/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206%2Fs3
+[/us/pl/91/206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F206
 [/us/stat/84/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F49
-[/us/pl/93/495/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs403
+[/us/pl/93/495/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtIV
 [/us/stat/88/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1517
-[/us/pl/95/630/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs501
+[/us/pl/95/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtV
 [/us/stat/92/3680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3680
-[/us/pl/96/221/s608/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs608%2Fa
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F171
-[/us/pl/98/443/s9/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs9%2Fn
+[/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/stat/98/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1708
-[/us/pl/101/73/s744/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs744%2Fk
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F439
-[/us/pl/102/242/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs212%2Fb
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2299
-[/us/pl/102/550/s1604/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fa%2F5
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4082
-[/us/pl/104/208/s2106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2106
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-402
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
@@ -274,22 +274,22 @@
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
-[/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
-[/us/pl/111/203/s1100A/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F8%2FA
-[/us/pl/111/203/s1414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1414%2Fb
-[/us/pl/111/203/s1100A/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F8%2FB
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
-[/us/pl/102/242/s212/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs212%2Fb%2F2
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/usc/t12/s1813/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fs
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
-[/us/pl/102/242/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs212%2Fb%2F1
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
-[/us/pl/96/221/s608/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs608%2Fa
-[/us/pl/96/221/s608/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs608%2Fc
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/usc/t15/s1606/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1606%2Fc
 [/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
@@ -305,9 +305,9 @@
 [/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/pl/98/443/s9/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs9%2Fv
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
-[/us/pl/96/221/s608/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs608%2Fb
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F173
-[/us/pl/96/221/s608/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs608%2Fc
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F173
 [/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
 [/us/pl/93/495/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs416

@@ -67,7 +67,7 @@
 
         Agents of the Federal Bureau of Investigation shall, at any place designated pursuant to subsection (a)(4)(C) of this section by any person required to register by subsection (a) of this section, at all reasonable times, have access to and the right to copy any of the records required to be kept by this section, and, in case of refusal by any person registered under such subsection (a) to allow inspection and copying of such records, the United States district court for the district in which such place is located shall have jurisdiction to issue an order compelling production of such records for inspection or copying.
 
-([Jan. 2, 1951, ch. 1194, § 3][/us/act/1951-01-02/ch1194/s3], [64 Stat. 1135][/us/stat/64/1135]; [Pub. L. 87–840, § 5][/us/pl/87/840/s5], Oct. 18, 1962, [76 Stat. 1075][/us/stat/76/1075].)
+([Jan. 2, 1951, ch. 1194][/us/act/1951-01-02/ch1194], § 3, [64 Stat. 1135][/us/stat/64/1135]; [Pub. L. 87–840][/us/pl/87/840], § 5, Oct. 18, 1962, [76 Stat. 1075][/us/stat/76/1075].)
 
  __References in Text__ 
 
@@ -92,9 +92,9 @@
 [/us/usc/t15/s1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1171
 [/us/usc/t15/s1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1171
 [/us/usc/t15/s1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1171
-[/us/act/1951-01-02/ch1194/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-02%2Fch1194%2Fs3
+[/us/act/1951-01-02/ch1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-02%2Fch1194
 [/us/stat/64/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1135
-[/us/pl/87/840/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F840%2Fs5
+[/us/pl/87/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F840
 [/us/stat/76/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1075
 [/us/pl/87/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F840
 [/us/usc/t15/s1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1171

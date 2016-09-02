@@ -23,7 +23,7 @@
 
         All patent rights from inventions developed under the management plan or the research plan implemented pursuant to this chapter shall be vested in accordance with [section 5908 of title 42][/us/usc/t42/s5908].
 
-([Pub. L. 100–680, § 5][/us/pl/100/680/s5], Nov. 17, 1988, [102 Stat. 4075][/us/stat/102/4075].)
+([Pub. L. 100–680][/us/pl/100/680], § 5, Nov. 17, 1988, [102 Stat. 4075][/us/stat/102/4075].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
 [/us/usc/t42/s5908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5908
-[/us/pl/100/680/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F680%2Fs5
+[/us/pl/100/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F680
 [/us/stat/102/4075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4075
 
 

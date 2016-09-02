@@ -17,7 +17,7 @@
 
     Standard reference data conforming to standards established by the Secretary may be made available and sold by the Secretary or by a person or agency designated by him. To the extent practicable and appropriate, the prices established for such data may reflect the cost of collection, compilation, evaluation, publication, and dissemination of the data, including administrative expenses; and the amounts received shall be subject to the Act of March 3, 1901, as amended \[[15 U.S.C. 271][/us/usc/t15/s271] et seq.\].
 
-([Pub. L. 90–396, § 5][/us/pl/90/396/s5], July 11, 1968, [82 Stat. 340][/us/stat/82/340].)
+([Pub. L. 90–396][/us/pl/90/396], § 5, July 11, 1968, [82 Stat. 340][/us/stat/82/340].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t15/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs271
-[/us/pl/90/396/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F396%2Fs5
+[/us/pl/90/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F396
 [/us/stat/82/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F340
 [/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
 [/us/stat/31/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1449

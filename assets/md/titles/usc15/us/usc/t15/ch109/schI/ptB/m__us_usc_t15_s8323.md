@@ -27,7 +27,7 @@
 
         In adopting rules pursuant to this section, the Commodity Futures Trading Commission shall consider any conflicts of interest arising from the amount of equity owned by a single investor, the ability to vote, cause the vote of, or withhold votes entitled to be cast on any matters by the holders of the ownership interest, and the governance arrangements of any derivatives clearing organization that clears swaps, or swap execution facility or board of trade designated as a contract market that posts swaps or makes swaps available for trading.
 
-([Pub. L. 111–203, title VII, § 726][/us/pl/111/203/s726], July 21, 2010, [124 Stat. 1695][/us/stat/124/1695].)
+([Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 726, July 21, 2010, [124 Stat. 1695][/us/stat/124/1695].)
 
  __Definitions__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
 [/us/usc/t12/s5311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5311
-[/us/pl/111/203/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs726
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1695
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
 

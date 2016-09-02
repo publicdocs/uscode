@@ -89,7 +89,7 @@
 
         In prescribing rules under this section, the Commission shall require individuals and entities described in subsection (b) to submit to the Commission a report that contains data that is not less comprehensive than the data required to be collected by security-based swap data repositories under this chapter.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 13A, as added [Pub. L. 111–203, title VII, § 766(a)][/us/pl/111/203/s766/a], July 21, 2010, [124 Stat. 1797][/us/stat/124/1797].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 13A, as added [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 766(a), July 21, 2010, [124 Stat. 1797][/us/stat/124/1797].)
 
  __References in Text__ 
 
@@ -109,7 +109,7 @@
 [/us/usc/t15/s78m/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m%2Fn
 [/us/usc/t15/s78c–3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%E2%80%933%2Fa%2F1
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/111/203/s766/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs766%2Fa
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1797
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

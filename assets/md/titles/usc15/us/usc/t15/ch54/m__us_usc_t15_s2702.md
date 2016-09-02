@@ -33,11 +33,11 @@
 
     (8) “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, or any other territory or possession of the United States.
 
-([Pub. L. 95–238, title III, § 303][/us/pl/95/238/s303], Feb. 25, 1978, [92 Stat. 79][/us/stat/92/79].)
+([Pub. L. 95–238, title III][/us/pl/95/238/tIII], § 303, Feb. 25, 1978, [92 Stat. 79][/us/stat/92/79].)
 
  __References in Text__ 
 
-    [Section 7525 of title 42][/us/usc/t42/s7525], referred to in par. (4), was in the original “section 206 of the Clean Air Act ([42 U.S.C. 1857f–5][/us/usc/t42/s1857f–5])”, meaning [act July 14, 1955, ch. 360, § 206][/us/act/1955-07-14/ch360/s206], as added Dec. 31, 1970, [Pub. L. 91–604, § 8(a)][/us/pl/91/604/s8/a], [84 Stat. 1694][/us/stat/84/1694], which was formerly classified to [section 1857f–5 of Title 42][/us/usc/t42/s1857f–5], The Public Health and Welfare, and which is classified to [section 7525 of Title 42][/us/usc/t42/s7525] pursuant to the general revision of the Clean Air Act by [Pub. L. 95–95][/us/pl/95/95], Aug. 7, 1977, [91 Stat. 685][/us/stat/91/685].
+    [Section 7525 of title 42][/us/usc/t42/s7525], referred to in par. (4), was in the original “section 206 of the Clean Air Act ([42 U.S.C. 1857f–5][/us/usc/t42/s1857f–5])”, meaning [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], § 206, as added Dec. 31, 1970, [Pub. L. 91–604][/us/pl/91/604], § 8(a), [84 Stat. 1694][/us/stat/84/1694], which was formerly classified to [section 1857f–5 of Title 42][/us/usc/t42/s1857f–5], The Public Health and Welfare, and which is classified to [section 7525 of Title 42][/us/usc/t42/s7525] pursuant to the general revision of the Clean Air Act by [Pub. L. 95–95][/us/pl/95/95], Aug. 7, 1977, [91 Stat. 685][/us/stat/91/685].
 
 ----------
 
@@ -47,12 +47,12 @@
 ----------
 
 [/us/usc/t42/s7525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7525
-[/us/pl/95/238/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs303
+[/us/pl/95/238/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtIII
 [/us/stat/92/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F79
 [/us/usc/t42/s7525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7525
 [/us/usc/t42/s1857f–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857f%E2%80%935
-[/us/act/1955-07-14/ch360/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360%2Fs206
-[/us/pl/91/604/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604%2Fs8%2Fa
+[/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
+[/us/pl/91/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F604
 [/us/stat/84/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1694
 [/us/usc/t42/s1857f–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857f%E2%80%935
 [/us/usc/t42/s7525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7525

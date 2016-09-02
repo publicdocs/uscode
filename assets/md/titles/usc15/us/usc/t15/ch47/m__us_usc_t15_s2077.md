@@ -55,11 +55,11 @@
 
         (2) [Section 2055 of this title][/us/usc/t15/s2055] shall apply to the disclosure of information by the Panel but shall not apply to the disclosure of information to the Panel.
 
-([Pub. L. 92–573, § 28][/us/pl/92/573/s28], as added [Pub. L. 97–35, title XII, § 1206(a)][/us/pl/97/35/s1206/a], Aug. 13, 1981, [95 Stat. 716][/us/stat/95/716]; amended [Pub. L. 101–608, title I, § 116][/us/pl/101/608/s116], Nov. 16, 1990, [104 Stat. 3121][/us/stat/104/3121]; [Pub. L. 110–314, title II, § 235(c)(6)][/us/pl/110/314/s235/c/6], Aug. 14, 2008, [122 Stat. 3075][/us/stat/122/3075].)
+([Pub. L. 92–573][/us/pl/92/573], § 28, as added [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1206(a), Aug. 13, 1981, [95 Stat. 716][/us/stat/95/716]; amended [Pub. L. 101–608, title I][/us/pl/101/608/tI], § 116, Nov. 16, 1990, [104 Stat. 3121][/us/stat/104/3121]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 235(c)(6), Aug. 14, 2008, [122 Stat. 3075][/us/stat/122/3075].)
 
  __Prior Provisions__ 
 
-    A prior section 2077, [Pub. L. 92–573, § 28][/us/pl/92/573/s28], Oct. 27, 1972, [86 Stat. 1230][/us/stat/86/1230], provided for establishment and membership of Product Safety Advisory Council, prior to repeal by [Pub. L. 97–35, title XII, § 1205(a)(1)][/us/pl/97/35/s1205/a/1], Aug. 13, 1981, [95 Stat. 716][/us/stat/95/716].
+    A prior section 2077, [Pub. L. 92–573][/us/pl/92/573], § 28, Oct. 27, 1972, [86 Stat. 1230][/us/stat/86/1230], provided for establishment and membership of Product Safety Advisory Council, prior to repeal by [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1205(a)(1), Aug. 13, 1981, [95 Stat. 716][/us/stat/95/716].
 
  __Amendments__ 
 
@@ -86,16 +86,16 @@
 [/us/usc/t15/s2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2080
 [/us/usc/t15/s2080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2080
 [/us/usc/t15/s2055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2055
-[/us/pl/92/573/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs28
-[/us/pl/97/35/s1206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1206%2Fa
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F716
-[/us/pl/101/608/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs116
+[/us/pl/101/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2FtI
 [/us/stat/104/3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3121
-[/us/pl/110/314/s235/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs235%2Fc%2F6
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3075
-[/us/pl/92/573/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs28
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1230
-[/us/pl/97/35/s1205/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1205%2Fa%2F1
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F716
 [/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608

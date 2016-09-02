@@ -223,7 +223,7 @@
 
         There are authorized to be appropriated $20,000,000 for each of fiscal years 2011 through 2013 to provide the cost of loan guarantees under this section.
 
-([Pub. L. 96–480, § 26][/us/pl/96/480/s26], as added [Pub. L. 111–358, title VI, § 602][/us/pl/111/358/s602], Jan. 4, 2011, [124 Stat. 4026][/us/stat/124/4026].)
+([Pub. L. 96–480][/us/pl/96/480], § 26, as added [Pub. L. 111–358, title VI][/us/pl/111/358/tVI], § 602, Jan. 4, 2011, [124 Stat. 4026][/us/stat/124/4026].)
 
  __Change of Name__ 
 
@@ -240,8 +240,8 @@
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
-[/us/pl/96/480/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs26
-[/us/pl/111/358/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs602
+[/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
+[/us/pl/111/358/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtVI
 [/us/stat/124/4026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4026
 
 

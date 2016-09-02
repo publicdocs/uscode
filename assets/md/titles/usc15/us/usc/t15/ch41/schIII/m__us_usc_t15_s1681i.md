@@ -211,7 +211,7 @@
 
             No provision of this subsection shall be construed as prohibiting a reseller from conducting a reinvestigation of a consumer dispute directly.
 
-([Pub. L. 90–321, title VI, § 611][/us/pl/90/321/s611], as added [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1132][/us/stat/84/1132]; amended [Pub. L. 104–208, div. A, title II, § 2409][/us/pl/104/208/s2409], Sept. 30, 1996, [110 Stat. 3009–439][/us/stat/110/3009-439]; [Pub. L. 105–347, § 6(5)][/us/pl/105/347/s6/5], Nov. 2, 1998, [112 Stat. 3211][/us/stat/112/3211]; [Pub. L. 108–159, title III][/us/pl/108/159], §§ 313(a), 314(a), 316, 317, Dec. 4, 2003, [117 Stat. 1994–1996][/us/stat/117/1994-1996], 1998; [Pub. L. 111–203, title X, § 1088(a)(2)(C)][/us/pl/111/203/s1088/a/2/C], (6), July 21, 2010, [124 Stat. 2087][/us/stat/124/2087].)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 611, as added [Pub. L. 91–508, title VI][/us/pl/91/508/tVI], § 601, Oct. 26, 1970, [84 Stat. 1132][/us/stat/84/1132]; amended [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2409, Sept. 30, 1996, [110 Stat. 3009–439][/us/stat/110/3009-439]; [Pub. L. 105–347][/us/pl/105/347], § 6(5), Nov. 2, 1998, [112 Stat. 3211][/us/stat/112/3211]; [Pub. L. 108–159, title III][/us/pl/108/159/tIII], §§ 313(a), 314(a), 316, 317, Dec. 4, 2003, [117 Stat. 1994–1996][/us/stat/117/1994-1996], 1998; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1088(a)(2)(C), (6), July 21, 2010, [124 Stat. 2087][/us/stat/124/2087].)
 
  __References in Text__ 
 
@@ -219,31 +219,31 @@
 
  __Amendments__ 
 
-    2010—Subsec. (e)(2). [Pub. L. 111–203, § 1088(a)(6)][/us/pl/111/203/s1088/a/6], added par. (2) and struck out former par. (2) which read as follows: “Complaints received or obtained by the Commission pursuant to its investigative authority under the Federal Trade Commission Act shall not be subject to paragraph (1).”
+    2010—Subsec. (e)(2). [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(6), added par. (2) and struck out former par. (2) which read as follows: “Complaints received or obtained by the Commission pursuant to its investigative authority under the Federal Trade Commission Act shall not be subject to paragraph (1).”
 
-    Subsec. (e)(3), (5). [Pub. L. 111–203, § 1088(a)(2)(C)][/us/pl/111/203/s1088/a/2/C], substituted “the Bureau” for “the Commission” wherever appearing.
+    Subsec. (e)(3), (5). [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(2)(C), substituted “the Bureau” for “the Commission” wherever appearing.
 
-    2003—Subsec. (a)(1)(A). [Pub. L. 108–159, § 317][/us/pl/108/159/s317], substituted “shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate” for “shall reinvestigate free of charge”.
+    2003—Subsec. (a)(1)(A). [Pub. L. 108–159][/us/pl/108/159], § 317, substituted “shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate” for “shall reinvestigate free of charge”.
 
-    [Pub. L. 108–159, § 316(a)(1)][/us/pl/108/159/s316/a/1], substituted “Subject to subsection (f), if the completeness” for “If the completeness” and inserted “, or indirectly through a reseller,” after “notifies the agency directly” and “or reseller” before period at end.
+    [Pub. L. 108–159][/us/pl/108/159], § 316(a)(1), substituted “Subject to subsection (f), if the completeness” for “If the completeness” and inserted “, or indirectly through a reseller,” after “notifies the agency directly” and “or reseller” before period at end.
 
-    Subsec. (a)(2)(A). [Pub. L. 108–159, § 316(a)(2)][/us/pl/108/159/s316/a/2], inserted “or a reseller” after “dispute from any consumer” and “or reseller” before period at end.
+    Subsec. (a)(2)(A). [Pub. L. 108–159][/us/pl/108/159], § 316(a)(2), inserted “or a reseller” after “dispute from any consumer” and “or reseller” before period at end.
 
-    Subsec. (a)(2)(B). [Pub. L. 108–159, § 316(c)][/us/pl/108/159/s316/c], struck out “from consumer” after “information” in heading.
+    Subsec. (a)(2)(B). [Pub. L. 108–159][/us/pl/108/159], § 316(c), struck out “from consumer” after “information” in heading.
 
-    [Pub. L. 108–159, § 316(a)(3)][/us/pl/108/159/s316/a/3], inserted “or the reseller” after “from the consumer”.
+    [Pub. L. 108–159][/us/pl/108/159], § 316(a)(3), inserted “or the reseller” after “from the consumer”.
 
-    Subsec. (a)(5)(A). [Pub. L. 108–159, § 314(a)][/us/pl/108/159/s314/a], substituted “shall—” and cls. (i) and (ii) for “shall promptly delete that item of information from the consumer’s file or modify that item of information, as appropriate, based on the results of the reinvestigation.”
+    Subsec. (a)(5)(A). [Pub. L. 108–159][/us/pl/108/159], § 314(a), substituted “shall—” and cls. (i) and (ii) for “shall promptly delete that item of information from the consumer’s file or modify that item of information, as appropriate, based on the results of the reinvestigation.”
 
-    Subsec. (e). [Pub. L. 108–159, § 313(a)][/us/pl/108/159/s313/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 108–159][/us/pl/108/159], § 313(a), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 108–159, § 316(b)][/us/pl/108/159/s316/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 108–159][/us/pl/108/159], § 316(b), added subsec. (f).
 
     1998—Subsec. (a)(7). [Pub. L. 105–347][/us/pl/105/347] substituted “(6)(B)(iii)” for “(6)(B)(iv)”.
 
-    1996—Subsec. (a). [Pub. L. 104–208, § 2409(a)][/us/pl/104/208/s2409/a], inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “If the completeness or accuracy of any item of information contained in his file is disputed by a consumer, and such dispute is directly conveyed to the consumer reporting agency by the consumer, the consumer reporting agency shall within a reasonable period of time reinvestigate and record the current status of that information unless it has reasonable grounds to believe that the dispute by the consumer is frivolous or irrelevant. If after such reinvestigation such information is found to be inaccurate or can no longer be verified, the consumer reporting agency shall promptly delete such information. The presence of contradictory information in the consumer’s file does not in and of itself constitute reasonable grounds for believing the dispute is frivolous or irrelevant.”
+    1996—Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 2409(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “If the completeness or accuracy of any item of information contained in his file is disputed by a consumer, and such dispute is directly conveyed to the consumer reporting agency by the consumer, the consumer reporting agency shall within a reasonable period of time reinvestigate and record the current status of that information unless it has reasonable grounds to believe that the dispute by the consumer is frivolous or irrelevant. If after such reinvestigation such information is found to be inaccurate or can no longer be verified, the consumer reporting agency shall promptly delete such information. The presence of contradictory information in the consumer’s file does not in and of itself constitute reasonable grounds for believing the dispute is frivolous or irrelevant.”
 
-    Subsec. (d). [Pub. L. 104–208, § 2409(b)][/us/pl/104/208/s2409/b], struck out at end “The consumer reporting agency shall clearly and conspicuously disclose to the consumer his rights to make such a request. Such disclosure shall be made at or prior to the time the information is deleted or the consumer’s statement regarding the disputed information is received.”
+    Subsec. (d). [Pub. L. 104–208][/us/pl/104/208], § 2409(b), struck out at end “The consumer reporting agency shall clearly and conspicuously disclose to the consumer his rights to make such a request. Such disclosure shall be made at or prior to the time the information is deleted or the consumer’s statement regarding the disputed information is received.”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -263,7 +263,7 @@
 
  __Prompt Investigation of Disputed Consumer Information__ 
 
-[Pub. L. 108–159, title III, § 313(b)][/us/pl/108/159/s313/b], Dec. 4, 2003, [117 Stat. 1994][/us/stat/117/1994], provided that:
+[Pub. L. 108–159, title III][/us/pl/108/159/tIII], § 313(b), Dec. 4, 2003, [117 Stat. 1994][/us/stat/117/1994], provided that:
 
 >     “(1)  __Study required__  __.—__ 
 
@@ -298,33 +298,33 @@
 
 [/us/usc/t15/s1681a/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fp
 [/us/usc/t15/s1681a/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fp
-[/us/pl/90/321/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs611
-[/us/pl/91/508/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs601
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/91/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtVI
 [/us/stat/84/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1132
-[/us/pl/104/208/s2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2409
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-439
-[/us/pl/105/347/s6/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347%2Fs6%2F5
+[/us/pl/105/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347
 [/us/stat/112/3211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3211
-[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtIII
 [/us/stat/117/1994-1996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1994-1996
-[/us/pl/111/203/s1088/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FC
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2087
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/111/203/s1088/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F6
-[/us/pl/111/203/s1088/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FC
-[/us/pl/108/159/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs317
-[/us/pl/108/159/s316/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs316%2Fa%2F1
-[/us/pl/108/159/s316/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs316%2Fa%2F2
-[/us/pl/108/159/s316/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs316%2Fc
-[/us/pl/108/159/s316/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs316%2Fa%2F3
-[/us/pl/108/159/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs314%2Fa
-[/us/pl/108/159/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs313%2Fa
-[/us/pl/108/159/s316/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs316%2Fb
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
 [/us/pl/105/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347
-[/us/pl/104/208/s2409/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2409%2Fa
-[/us/pl/104/208/s2409/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2409%2Fb
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
@@ -338,7 +338,7 @@
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2420
 [/us/usc/t15/s1681a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a
-[/us/pl/108/159/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs313%2Fb
+[/us/pl/108/159/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtIII
 [/us/stat/117/1994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1994
 [/us/usc/t15/s1681i/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681i%2Fe
 [/us/usc/t15/s1681s–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s%E2%80%932

@@ -63,15 +63,15 @@
 
         Citizens or residents of the United States shall have the same benefits as are granted by this section to persons described in subsection (b) of this section.
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title IX, § 44, [60 Stat. 441][/us/stat/60/441]; [Pub. L. 87–333, § 2][/us/pl/87/333/s2], Oct. 3, 1961, [75 Stat. 748][/us/stat/75/748]; [Pub. L. 87–772, § 20][/us/pl/87/772/s20], Oct. 9, 1962, [76 Stat. 774][/us/stat/76/774]; [Pub. L. 100–667, title I, § 133][/us/pl/100/667/s133], Nov. 16, 1988, [102 Stat. 3946][/us/stat/102/3946]; [Pub. L. 105–330, title I, § 108][/us/pl/105/330/s108], Oct. 30, 1998, [112 Stat. 3068][/us/stat/112/3068]; [Pub. L. 106–43, § 6(b)][/us/pl/106/43/s6/b], Aug. 5, 1999, [113 Stat. 220][/us/stat/113/220]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(1)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583; [Pub. L. 107–273, div. C, title III, § 13207(b)(12)][/us/pl/107/273/s13207/b/12], Nov. 2, 2002, [116 Stat. 1908][/us/stat/116/1908].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title IX, § 44, [60 Stat. 441][/us/stat/60/441]; [Pub. L. 87–333][/us/pl/87/333], § 2, Oct. 3, 1961, [75 Stat. 748][/us/stat/75/748]; [Pub. L. 87–772][/us/pl/87/772], § 20, Oct. 9, 1962, [76 Stat. 774][/us/stat/76/774]; [Pub. L. 100–667, title I][/us/pl/100/667/tI], § 133, Nov. 16, 1988, [102 Stat. 3946][/us/stat/102/3946]; [Pub. L. 105–330, title I][/us/pl/105/330/tI], § 108, Oct. 30, 1998, [112 Stat. 3068][/us/stat/112/3068]; [Pub. L. 106–43][/us/pl/106/43], § 6(b), Aug. 5, 1999, [113 Stat. 220][/us/stat/113/220]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(1)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13207(b)(12), Nov. 2, 2002, [116 Stat. 1908][/us/stat/116/1908].)
 
  __References in Text__ 
 
-    [Section 1(a) of the Act of March 19, 1920][/us/act/1920-03-19/s1/a], referred to in subsec. (a), is section 1(a) of [act Mar. 19, 1920, ch. 104][/us/act/1920-03-19/ch104], [41 Stat. 533][/us/stat/41/533], which was classified to [section 121(a) of this title][/us/usc/t15/s121/a], and repealed by [act July 5, 1946, ch. 540, § 46(a)][/us/act/1946-07-05/ch540/s46/a], [60 Stat. 444][/us/stat/60/444], insofar as inconsistent with this chapter.
+    [Section 1(a) of the Act of March 19, 1920][/us/act/1920-03-19/s1/a], referred to in subsec. (a), is section 1(a) of [act Mar. 19, 1920, ch. 104][/us/act/1920-03-19/ch104], [41 Stat. 533][/us/stat/41/533], which was classified to [section 121(a) of this title][/us/usc/t15/s121/a], and repealed by [act July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], § 46(a), [60 Stat. 444][/us/stat/60/444], insofar as inconsistent with this chapter.
 
  __Prior Provisions__ 
 
-    Acts [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], §§ 1, 2, 4, [33 Stat. 724][/us/stat/33/724], 725; [May 4, 1906, ch. 2081][/us/act/1906-05-04/ch2081], §§ 1, 3, [34 Stat. 168][/us/stat/34/168], 169; [Feb. 18, 1909, ch. 144][/us/act/1909-02-18/ch144], [35 Stat. 628][/us/stat/35/628]; [Mar. 19, 1920, ch. 104][/us/act/1920-03-19/ch104], §§ 1, 6, [41 Stat. 533][/us/stat/41/533], 535; [Apr. 11, 1930, ch. 132, § 4][/us/act/1930-04-11/ch132/s4], [46 Stat. 155][/us/stat/46/155]; [June 20, 1936, ch. 617][/us/act/1936-06-20/ch617], [49 Stat. 1539][/us/stat/49/1539]; [June 10, 1938, ch. 332][/us/act/1938-06-10/ch332], §§ 1, 2, 3, [52 Stat. 638][/us/stat/52/638], 639.
+    Acts [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], §§ 1, 2, 4, [33 Stat. 724][/us/stat/33/724], 725; [May 4, 1906, ch. 2081][/us/act/1906-05-04/ch2081], §§ 1, 3, [34 Stat. 168][/us/stat/34/168], 169; [Feb. 18, 1909, ch. 144][/us/act/1909-02-18/ch144], [35 Stat. 628][/us/stat/35/628]; [Mar. 19, 1920, ch. 104][/us/act/1920-03-19/ch104], §§ 1, 6, [41 Stat. 533][/us/stat/41/533], 535; [Apr. 11, 1930, ch. 132][/us/act/1930-04-11/ch132], § 4, [46 Stat. 155][/us/stat/46/155]; [June 20, 1936, ch. 617][/us/act/1936-06-20/ch617], [49 Stat. 1539][/us/stat/49/1539]; [June 10, 1938, ch. 332][/us/act/1938-06-10/ch332], §§ 1, 2, 3, [52 Stat. 638][/us/stat/52/638], 639.
 
  __Amendments__ 
 
@@ -83,23 +83,23 @@
 
     Subsec. (e). [Pub. L. 106–113][/us/pl/106/113] substituted “Director” for “Commissioner”.
 
-    1998—Subsec. (d). [Pub. L. 105–330, § 108(1)(A)][/us/pl/105/330/s108/1/A], in introductory provisions, substituted “or 1091 of this title or under subsection (e) of this section” for “1091 of this title, or subsection (e) of this section”.
+    1998—Subsec. (d). [Pub. L. 105–330][/us/pl/105/330], § 108(1)(A), in introductory provisions, substituted “or 1091 of this title or under subsection (e) of this section” for “1091 of this title, or subsection (e) of this section”.
 
-    Subsec. (d)(3), (4). [Pub. L. 105–330, § 108(1)(B)][/us/pl/105/330/s108/1/B], made technical amendment to reference in original act which appears in text as reference to this subsection.
+    Subsec. (d)(3), (4). [Pub. L. 105–330][/us/pl/105/330], § 108(1)(B), made technical amendment to reference in original act which appears in text as reference to this subsection.
 
-    Subsec. (e). [Pub. L. 105–330, § 108(2)][/us/pl/105/330/s108/2], substituted “Such applicant shall submit, within such time period as may be prescribed by the Commissioner, a certification or a certified copy of the registration in the country of origin of the applicant” for “The application therefor shall be accompanied by a certification or a certified copy of the registration in the country of origin of the applicant”.
+    Subsec. (e). [Pub. L. 105–330][/us/pl/105/330], § 108(2), substituted “Such applicant shall submit, within such time period as may be prescribed by the Commissioner, a certification or a certified copy of the registration in the country of origin of the applicant” for “The application therefor shall be accompanied by a certification or a certified copy of the registration in the country of origin of the applicant”.
 
-    1988—Subsec. (a). [Pub. L. 100–667, § 133(2)][/us/pl/100/667/s133/2], substituted “required in this chapter” for “herein prescribed”.
+    1988—Subsec. (a). [Pub. L. 100–667][/us/pl/100/667], § 133(2), substituted “required in this chapter” for “herein prescribed”.
 
-    Subsec. (c). [Pub. L. 100–667, § 133(1)][/us/pl/100/667/s133/1], made technical amendment in two places to references in the original act to subsection (b) of this section, resulting in no change in text.
+    Subsec. (c). [Pub. L. 100–667][/us/pl/100/667], § 133(1), made technical amendment in two places to references in the original act to subsection (b) of this section, resulting in no change in text.
 
-    Subsec. (d). [Pub. L. 100–667, § 133(1)][/us/pl/100/667/s133/1], (3), (4), (5), in introductory provisions, made technical amendment in two places to references in the original act to subsection (b) of this section, resulting in no change in text, and substituted “section 1051, 1053, 1054, or 1091 of this title, or subsection (e) of this section” for “sections 1051, 1052, 1053, 1054, or 1091 of this title”, in par. (2), substituted “including a statement that the applicant has a bona fide intention to use the mark in commerce” for “but use in commerce need not be alleged”, and in par. (3), substituted “foreign” for “foreing”.
+    Subsec. (d). [Pub. L. 100–667][/us/pl/100/667], § 133(1), (3), (4), (5), in introductory provisions, made technical amendment in two places to references in the original act to subsection (b) of this section, resulting in no change in text, and substituted “section 1051, 1053, 1054, or 1091 of this title, or subsection (e) of this section” for “sections 1051, 1052, 1053, 1054, or 1091 of this title”, in par. (2), substituted “including a statement that the applicant has a bona fide intention to use the mark in commerce” for “but use in commerce need not be alleged”, and in par. (3), substituted “foreign” for “foreing”.
 
-    Subsec. (e). [Pub. L. 100–667, § 133(6)][/us/pl/100/667/s133/6], inserted at end “The application must state the applicant’s bona fide intention to use the mark in commerce, but use in commerce shall not be required prior to registration.”
+    Subsec. (e). [Pub. L. 100–667][/us/pl/100/667], § 133(6), inserted at end “The application must state the applicant’s bona fide intention to use the mark in commerce, but use in commerce shall not be required prior to registration.”
 
-    Subsec. (f). [Pub. L. 100–667, § 133(1)][/us/pl/100/667/s133/1], (7), made technical amendment to references in the original act to subsections (c), (d), and (e) of this section and to subsection (b) of this section, resulting in no change in text.
+    Subsec. (f). [Pub. L. 100–667][/us/pl/100/667], § 133(1), (7), made technical amendment to references in the original act to subsections (c), (d), and (e) of this section and to subsection (b) of this section, resulting in no change in text.
 
-    Subsecs. (g) to (i). [Pub. L. 100–667, § 133(1)][/us/pl/100/667/s133/1], (8), made technical amendment to references in the original act to subsection (b) of this section, resulting in no change in text.
+    Subsecs. (g) to (i). [Pub. L. 100–667][/us/pl/100/667], § 133(1), (8), made technical amendment to references in the original act to subsection (b) of this section, resulting in no change in text.
 
     1962—Subsec. (b). [Pub. L. 87–772][/us/pl/87/772] inserted “or extends reciprocal rights to nationals of the United States by law,” and substituted provisions requiring the person’s country of origin to be a party to any convention or treaty, for provisions which required such persons to be nationals of, domiciled in, or have a bona fide and effective business or commercial establishment in a foreign country which was a party to the International Convention for the Protection of Industrial Property, or the General Inter-American Convention for Trade Mark and Commercial Protection, or any other convention or treaty relating to trademarks, trade, or commercial names.
 
@@ -123,7 +123,7 @@
 
  __Effective Date of 1961 Amendment__ 
 
-[Pub. L. 87–333, § 3][/us/pl/87/333/s3], Oct. 3, 1961, [75 Stat. 748][/us/stat/75/748], provided that: 
+[Pub. L. 87–333][/us/pl/87/333], § 3, Oct. 3, 1961, [75 Stat. 748][/us/stat/75/748], provided that: 
 
 > “This Act \[amending this section and [section 119 of Title 35][/us/usc/t35/s119], Patents\] shall take effect on the date when the Convention of Paris for the Protection of Industrial Property of March 20, 1883, as revised at Lisbon, October 31, 1958, comes into force with respect to the United States and shall apply only to applications thereafter filed in the United States by persons entitled to the benefit of said convention, as revised at the time of such filing.”
 
@@ -145,25 +145,25 @@
 [/us/act/1920-03-19/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-19%2Fs1%2Fa
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F441
-[/us/pl/87/333/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F333%2Fs2
+[/us/pl/87/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F333
 [/us/stat/75/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F748
-[/us/pl/87/772/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772%2Fs20
+[/us/pl/87/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772
 [/us/stat/76/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F774
-[/us/pl/100/667/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs133
+[/us/pl/100/667/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtI
 [/us/stat/102/3946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3946
-[/us/pl/105/330/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2Fs108
+[/us/pl/105/330/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2FtI
 [/us/stat/112/3068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3068
-[/us/pl/106/43/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43%2Fs6%2Fb
+[/us/pl/106/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43
 [/us/stat/113/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F220
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13207/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13207%2Fb%2F12
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1908
 [/us/act/1920-03-19/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-19%2Fs1%2Fa
 [/us/act/1920-03-19/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-19%2Fch104
 [/us/stat/41/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F533
 [/us/usc/t15/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs121%2Fa
-[/us/act/1946-07-05/ch540/s46/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540%2Fs46%2Fa
+[/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F444
 [/us/act/1905-02-20/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592
 [/us/stat/33/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F724
@@ -173,7 +173,7 @@
 [/us/stat/35/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F628
 [/us/act/1920-03-19/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-19%2Fch104
 [/us/stat/41/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F533
-[/us/act/1930-04-11/ch132/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-11%2Fch132%2Fs4
+[/us/act/1930-04-11/ch132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-04-11%2Fch132
 [/us/stat/46/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F155
 [/us/act/1936-06-20/ch617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-20%2Fch617
 [/us/stat/49/1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1539
@@ -183,15 +183,15 @@
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/105/330/s108/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2Fs108%2F1%2FA
-[/us/pl/105/330/s108/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2Fs108%2F1%2FB
-[/us/pl/105/330/s108/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2Fs108%2F2
-[/us/pl/100/667/s133/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs133%2F2
-[/us/pl/100/667/s133/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs133%2F1
-[/us/pl/100/667/s133/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs133%2F1
-[/us/pl/100/667/s133/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs133%2F6
-[/us/pl/100/667/s133/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs133%2F1
-[/us/pl/100/667/s133/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs133%2F1
+[/us/pl/105/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330
+[/us/pl/105/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330
+[/us/pl/105/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
 [/us/pl/87/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772
 [/us/pl/87/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772
 [/us/pl/87/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F333
@@ -207,7 +207,7 @@
 [/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
 [/us/pl/100/667/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs136
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
-[/us/pl/87/333/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F333%2Fs3
+[/us/pl/87/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F333
 [/us/stat/75/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F748
 [/us/usc/t35/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs119
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051

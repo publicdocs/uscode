@@ -17,7 +17,7 @@
 
     Amounts authorized to be appropriated in this subchapter for purposes of carrying out the provisions of this subchapter are in addition to amounts authorized to be appropriated under other provisions of law for radon-related activities.
 
-([Pub. L. 94–469, title III, § 311][/us/pl/94/469/s311], as added [Pub. L. 100–551, § 1(a)][/us/pl/100/551/s1/a], Oct. 28, 1988, [102 Stat. 2764][/us/stat/102/2764].)
+([Pub. L. 94–469, title III][/us/pl/94/469/tIII], § 311, as added [Pub. L. 100–551][/us/pl/100/551], § 1(a), Oct. 28, 1988, [102 Stat. 2764][/us/stat/102/2764].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/94/469/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs311
-[/us/pl/100/551/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F551%2Fs1%2Fa
+[/us/pl/94/469/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtIII
+[/us/pl/100/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F551
 [/us/stat/102/2764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2764
 
 

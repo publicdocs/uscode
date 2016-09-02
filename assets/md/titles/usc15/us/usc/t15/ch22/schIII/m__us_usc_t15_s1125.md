@@ -227,15 +227,15 @@
 
         (4) The in rem jurisdiction established under paragraph (2) shall be in addition to any other jurisdiction that otherwise exists, whether in rem or in personam.
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title VIII, § 43, [60 Stat. 441][/us/stat/60/441]; [Pub. L. 100–667, title I, § 132][/us/pl/100/667/s132], Nov. 16, 1988, [102 Stat. 3946][/us/stat/102/3946]; [Pub. L. 102–542, § 3(c)][/us/pl/102/542/s3/c], Oct. 27, 1992, [106 Stat. 3568][/us/stat/106/3568]; [Pub. L. 104–98, § 3(a)][/us/pl/104/98/s3/a], Jan. 16, 1996, [109 Stat. 985][/us/stat/109/985]; [Pub. L. 106–43][/us/pl/106/43], §§ 3(a)(2), 5, Aug. 5, 1999, [113 Stat. 219][/us/stat/113/219], 220; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title III, § 3002(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–545; [Pub. L. 109–312, § 2][/us/pl/109/312/s2], Oct. 6, 2006, [120 Stat. 1730][/us/stat/120/1730]; [Pub. L. 112–190, § 1(a)][/us/pl/112/190/s1/a], Oct. 5, 2012, [126 Stat. 1436][/us/stat/126/1436].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title VIII, § 43, [60 Stat. 441][/us/stat/60/441]; [Pub. L. 100–667, title I][/us/pl/100/667/tI], § 132, Nov. 16, 1988, [102 Stat. 3946][/us/stat/102/3946]; [Pub. L. 102–542][/us/pl/102/542], § 3(c), Oct. 27, 1992, [106 Stat. 3568][/us/stat/106/3568]; [Pub. L. 104–98][/us/pl/104/98], § 3(a), Jan. 16, 1996, [109 Stat. 985][/us/stat/109/985]; [Pub. L. 106–43][/us/pl/106/43], §§ 3(a)(2), 5, Aug. 5, 1999, [113 Stat. 219][/us/stat/113/219], 220; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title III, § 3002(a)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–545; [Pub. L. 109–312][/us/pl/109/312], § 2, Oct. 6, 2006, [120 Stat. 1730][/us/stat/120/1730]; [Pub. L. 112–190][/us/pl/112/190], § 1(a), Oct. 5, 2012, [126 Stat. 1436][/us/stat/126/1436].)
 
  __References in Text__ 
 
-    Acts March 3, 1881, and February 20, 1905, referred to in subsec. (c)(2)(A)(iv), (6), are acts [Mar. 3, 1881, ch. 138][/us/act/1881-03-03/ch138], [21 Stat. 502][/us/stat/21/502], and [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], [33 Stat. 724][/us/stat/33/724], which were repealed insofar as inconsistent with this chapter by [act July 5, 1946, ch. 540, § 46(a)][/us/act/1946-07-05/ch540/s46/a], [60 Stat. 444][/us/stat/60/444]. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
+    Acts March 3, 1881, and February 20, 1905, referred to in subsec. (c)(2)(A)(iv), (6), are acts [Mar. 3, 1881, ch. 138][/us/act/1881-03-03/ch138], [21 Stat. 502][/us/stat/21/502], and [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], [33 Stat. 724][/us/stat/33/724], which were repealed insofar as inconsistent with this chapter by [act July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], § 46(a), [60 Stat. 444][/us/stat/60/444]. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
  __Prior Provisions__ 
 
-    [Act Mar. 19, 1920, ch. 104, § 3][/us/act/1920-03-19/ch104/s3], [41 Stat. 534][/us/stat/41/534].
+    [Act Mar. 19, 1920, ch. 104][/us/act/1920-03-19/ch104], § 3, [41 Stat. 534][/us/stat/41/534].
 
  __Amendments__ 
 
@@ -247,13 +247,13 @@
 
     “(B) asserts any claim of actual or likely damage or harm to the distinctiveness or reputation of a mark, label, or form of advertisement.”
 
-    2006—Subsec. (c). [Pub. L. 109–312, § 2(1)][/us/pl/109/312/s2/1], added subsec. (c) and struck out former subsec. (c) which related to remedies for dilution of famous marks.
+    2006—Subsec. (c). [Pub. L. 109–312][/us/pl/109/312], § 2(1), added subsec. (c) and struck out former subsec. (c) which related to remedies for dilution of famous marks.
 
-    Subsec. (d)(1)(B)(i)(IX). [Pub. L. 109–312, § 2(2)][/us/pl/109/312/s2/2], substituted “subsection (c)” for “subsection (c)(1)”.
+    Subsec. (d)(1)(B)(i)(IX). [Pub. L. 109–312][/us/pl/109/312], § 2(2), substituted “subsection (c)” for “subsection (c)(1)”.
 
-    1999—Subsec. (a)(3). [Pub. L. 106–43, § 5][/us/pl/106/43/s5], added par. (3).
+    1999—Subsec. (a)(3). [Pub. L. 106–43][/us/pl/106/43], § 5, added par. (3).
 
-    Subsec. (c)(2). [Pub. L. 106–43, § 3(a)(2)][/us/pl/106/43/s3/a/2], inserted “as set forth in [section 1116 of this title][/us/usc/t15/s1116]” after “relief” in first sentence.
+    Subsec. (c)(2). [Pub. L. 106–43][/us/pl/106/43], § 3(a)(2), inserted “as set forth in [section 1116 of this title][/us/usc/t15/s1116]” after “relief” in first sentence.
 
     Subsec. (d). [Pub. L. 106–113][/us/pl/106/113] added subsec. (d).
 
@@ -265,7 +265,7 @@
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–190, § 1(b)][/us/pl/112/190/s1/b], Oct. 5, 2012, [126 Stat. 1436][/us/stat/126/1436], provided that: 
+[Pub. L. 112–190][/us/pl/112/190], § 1(b), Oct. 5, 2012, [126 Stat. 1436][/us/stat/126/1436], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to any action commenced on or after the date of the enactment of this Act \[Oct. 5, 2012\].”
 
@@ -275,7 +275,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–98, § 5][/us/pl/104/98/s5], Jan. 16, 1996, [109 Stat. 987][/us/stat/109/987], provided that: 
+[Pub. L. 104–98][/us/pl/104/98], § 5, Jan. 16, 1996, [109 Stat. 987][/us/stat/109/987], provided that: 
 
 > “This Act \[amending this section and [section 1127 of this title][/us/usc/t15/s1127] and enacting provisions set out as a note under [section 1051 of this title][/us/usc/t15/s1051]\] and the amendments made by this Act shall take effect on the date of the enactment of this Act \[Jan. 16, 1996\].”
 
@@ -293,7 +293,7 @@
 
  __Study on Abusive Domain Name Registrations Involving Personal Names__ 
 
-[Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title III, § 3006\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–550, provided that:
+[Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title III, § 3006\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–550, provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -327,44 +327,44 @@
 [/us/usc/t36/s220506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs220506
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F441
-[/us/pl/100/667/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs132
+[/us/pl/100/667/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtI
 [/us/stat/102/3946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3946
-[/us/pl/102/542/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F542%2Fs3%2Fc
+[/us/pl/102/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F542
 [/us/stat/106/3568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3568
-[/us/pl/104/98/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F98%2Fs3%2Fa
+[/us/pl/104/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F98
 [/us/stat/109/985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F985
 [/us/pl/106/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43
 [/us/stat/113/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F219
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/109/312/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F312%2Fs2
+[/us/pl/109/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F312
 [/us/stat/120/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1730
-[/us/pl/112/190/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F190%2Fs1%2Fa
+[/us/pl/112/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F190
 [/us/stat/126/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1436
 [/us/act/1881-03-03/ch138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1881-03-03%2Fch138
 [/us/stat/21/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F21%2F502
 [/us/act/1905-02-20/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592
 [/us/stat/33/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F724
-[/us/act/1946-07-05/ch540/s46/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540%2Fs46%2Fa
+[/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F444
-[/us/act/1920-03-19/ch104/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-19%2Fch104%2Fs3
+[/us/act/1920-03-19/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-19%2Fch104
 [/us/stat/41/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F534
 [/us/pl/112/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F190
-[/us/pl/109/312/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F312%2Fs2%2F1
-[/us/pl/109/312/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F312%2Fs2%2F2
-[/us/pl/106/43/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43%2Fs5
-[/us/pl/106/43/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43%2Fs3%2Fa%2F2
+[/us/pl/109/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F312
+[/us/pl/109/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F312
+[/us/pl/106/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43
+[/us/pl/106/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43
 [/us/usc/t15/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1116
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/104/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F98
 [/us/pl/102/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F542
 [/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
-[/us/pl/112/190/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F190%2Fs1%2Fb
+[/us/pl/112/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F190
 [/us/stat/126/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1436
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t15/s1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1117
-[/us/pl/104/98/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F98%2Fs5
+[/us/pl/104/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F98
 [/us/stat/109/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F987
 [/us/usc/t15/s1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1127
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
@@ -375,7 +375,7 @@
 [/us/pl/100/667/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs136
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 
 

@@ -187,7 +187,7 @@
 
         (2) otherwise affords a greater degree of protection from joint or several liability than is afforded by this section.
 
-([Pub. L. 106–37, § 6][/us/pl/106/37/s6], July 20, 1999, [113 Stat. 192][/us/stat/113/192].)
+([Pub. L. 106–37][/us/pl/106/37], § 6, July 20, 1999, [113 Stat. 192][/us/stat/113/192].)
 
 ----------
 
@@ -196,7 +196,7 @@
 ----------
 ----------
 
-[/us/pl/106/37/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37%2Fs6
+[/us/pl/106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37
 [/us/stat/113/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F192
 
 

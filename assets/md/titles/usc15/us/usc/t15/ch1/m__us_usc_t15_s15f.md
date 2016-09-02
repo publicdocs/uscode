@@ -23,7 +23,7 @@
 
         To assist a State attorney general in evaluating the notice or in bringing any action under this Act, the Attorney General of the United States shall, upon request by such State attorney general, make available to him, to the extent permitted by law, any investigative files or other materials which are or may be relevant or material to the actual or potential cause of action under this Act.
 
-([Oct. 15, 1914, ch. 323, § 4F][/us/act/1914-10-15/ch323/s4F], as added [Pub. L. 94–435, title III, § 301][/us/pl/94/435/s301], Sept. 30, 1976, [90 Stat. 1395][/us/stat/90/1395].)
+([Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], § 4F, as added [Pub. L. 94–435, title III][/us/pl/94/435/tIII], § 301, Sept. 30, 1976, [90 Stat. 1395][/us/stat/90/1395].)
 
  __References in Text__ 
 
@@ -42,8 +42,8 @@
 ----------
 ----------
 
-[/us/act/1914-10-15/ch323/s4F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323%2Fs4F
-[/us/pl/94/435/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs301
+[/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
+[/us/pl/94/435/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2FtIII
 [/us/stat/90/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1395
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323

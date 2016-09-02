@@ -17,7 +17,7 @@
 
     It shall be unlawful for any person, partnership, association, or corporation engaged in commerce among the several States, Territories, District of Columbia, and possessions of the United States, or with any foreign country, to stamp any gold, silver, or goods manufactured therefrom, and which are intended and used in such commerce, with the words “United States assay”, or with any words, phrases, or devices calculated to convey the impression that the United States Government has certified to the fineness or quality of such gold or silver, or of the gold or silver contained in any of the goods manufactured therefrom. Each and every such stamp shall constitute a separate offense.
 
-([Feb. 21, 1905, ch. 720, § 1][/us/act/1905-02-21/ch720/s1], [33 Stat. 732][/us/stat/33/732].)
+([Feb. 21, 1905, ch. 720][/us/act/1905-02-21/ch720], § 1, [33 Stat. 732][/us/stat/33/732].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1905-02-21/ch720/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-21%2Fch720%2Fs1
+[/us/act/1905-02-21/ch720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-21%2Fch720
 [/us/stat/33/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F732
 
 

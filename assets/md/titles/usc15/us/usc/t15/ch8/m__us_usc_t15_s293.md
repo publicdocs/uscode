@@ -17,7 +17,7 @@
 
     Every person, partnership, association, or corporation violating the provisions of sections 291 to 293 of this title, and every officer, director, or managing agent of such partnership, association, or corporation having knowledge of such violation and directly participating in such violation or consenting thereto, shall be deemed guilty of a misdemeanor, and, upon conviction, be punished with a fine of not more than $5,000 or imprisonment for not more than one year, or both, at the discretion of the court.
 
-([Feb. 21, 1905, ch. 720, § 2][/us/act/1905-02-21/ch720/s2], [33 Stat. 732][/us/stat/33/732].)
+([Feb. 21, 1905, ch. 720][/us/act/1905-02-21/ch720], § 2, [33 Stat. 732][/us/stat/33/732].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1905-02-21/ch720/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-21%2Fch720%2Fs2
+[/us/act/1905-02-21/ch720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-21%2Fch720
 [/us/stat/33/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F732
 
 

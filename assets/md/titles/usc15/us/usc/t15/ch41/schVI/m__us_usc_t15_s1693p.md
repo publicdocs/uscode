@@ -19,13 +19,13 @@
 
     (b) In the exercise of its functions under this subchapter, the Bureau may obtain upon request the views of any other Federal agency which, in the judgment of the Bureau, exercises regulatory or supervisory functions with respect to any class of persons subject to this subchapter.
 
-([Pub. L. 90–321, title IX, § 921][/us/pl/90/321/s921], formerly § 918, as added [Pub. L. 95–630, title XX, § 2001][/us/pl/95/630/s2001], Nov. 10, 1978, [92 Stat. 3740][/us/stat/92/3740]; amended [Pub. L. 97–375, title II, § 209(a)][/us/pl/97/375/s209/a], Dec. 21, 1982, [96 Stat. 1825][/us/stat/96/1825]; renumbered § 919, [Pub. L. 111–24, title IV, § 401(1)][/us/pl/111/24/s401/1], May 22, 2009, [123 Stat. 1751][/us/stat/123/1751]; renumbered § 920, renumbered § 921, and amended [Pub. L. 111–203, title X][/us/pl/111/203], §§ 1073(a)(3), 1075(a)(1), 1084(1), July 21, 2010, [124 Stat. 2060][/us/stat/124/2060], 2068, 2081.)
+([Pub. L. 90–321, title IX][/us/pl/90/321/tIX], § 921, formerly § 918, as added [Pub. L. 95–630, title XX][/us/pl/95/630/tXX], § 2001, Nov. 10, 1978, [92 Stat. 3740][/us/stat/92/3740]; amended [Pub. L. 97–375, title II][/us/pl/97/375/tII], § 209(a), Dec. 21, 1982, [96 Stat. 1825][/us/stat/96/1825]; renumbered § 919, [Pub. L. 111–24, title IV][/us/pl/111/24/tIV], § 401(1), May 22, 2009, [123 Stat. 1751][/us/stat/123/1751]; renumbered § 920, renumbered § 921, and amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], §§ 1073(a)(3), 1075(a)(1), 1084(1), July 21, 2010, [124 Stat. 2060][/us/stat/124/2060], 2068, 2081.)
 
  __References in Text__ 
 
     For effective date of this subchapter, referred to in subsec. (a), see [section 921 of Pub. L. 90–321][/us/pl/90/321/s921], set out as an Effective Date note under [section 1693 of this title][/us/usc/t15/s1693].
 
-    Section 1693o of this title, referred to in subsec. (a), was in the original “[section 917 of this title][/us/usc/t15/s917]”, and was translated as meaning [section 918 of title I of Pub. L. 90–321][/us/pl/90/321/s918] to reflect the probable intent of Congress and the renumbering of [section 917 of title I of Pub. L. 90–321][/us/pl/90/321/s917] as section 918 by [Pub. L. 111–24, title IV, § 401(1)][/us/pl/111/24/s401/1], May 22, 2009, [123 Stat. 1751][/us/stat/123/1751].
+    Section 1693o of this title, referred to in subsec. (a), was in the original “[section 917 of this title][/us/usc/t15/s917]”, and was translated as meaning [section 918 of title I of Pub. L. 90–321][/us/pl/90/321/tI/s918] to reflect the probable intent of Congress and the renumbering of [section 917 of title I of Pub. L. 90–321][/us/pl/90/321/tI/s917] as section 918 by [Pub. L. 111–24, title IV][/us/pl/111/24/tIV], § 401(1), May 22, 2009, [123 Stat. 1751][/us/stat/123/1751].
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 1084(1)][/us/pl/111/203/s1084/1], substituted “Bureau” for “Board” wherever appearing.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1084(1), substituted “Bureau” for “Board” wherever appearing.
 
     1982—Subsec. (a). [Pub. L. 97–375][/us/pl/97/375] struck out requirement that the Attorney General make a report on the same terms as the Board, and that such report also contain an analysis of the impact of this subchapter on the operation, workload, and efficiency of the Federal courts, and substituted “necessary and appropriate” for “necessary or appropriate”.
 
@@ -54,21 +54,21 @@
 ----------
 ----------
 
-[/us/pl/90/321/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs921
-[/us/pl/95/630/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs2001
+[/us/pl/90/321/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIX
+[/us/pl/95/630/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXX
 [/us/stat/92/3740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3740
-[/us/pl/97/375/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs209%2Fa
+[/us/pl/97/375/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtII
 [/us/stat/96/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1825
-[/us/pl/111/24/s401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs401%2F1
+[/us/pl/111/24/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtIV
 [/us/stat/123/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1751
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2060
 [/us/pl/90/321/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs921
 [/us/usc/t15/s1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693
 [/us/usc/t15/s917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs917
-[/us/pl/90/321/s918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs918
-[/us/pl/90/321/s917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs917
-[/us/pl/111/24/s401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs401%2F1
+[/us/pl/90/321/tI/s918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI%2Fs918
+[/us/pl/90/321/tI/s917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI%2Fs917
+[/us/pl/111/24/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtIV
 [/us/stat/123/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1751
 [/us/pl/90/321/s918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs918
 [/us/pl/111/24/s401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs401%2F1
@@ -82,7 +82,7 @@
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
 [/us/pl/90/321/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs921
 [/us/usc/t15/s1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693
-[/us/pl/111/203/s1084/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F1
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/97/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375
 [/us/pl/111/203/s1084/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F1
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H

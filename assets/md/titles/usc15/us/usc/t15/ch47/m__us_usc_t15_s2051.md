@@ -43,11 +43,11 @@
 
         (4) to promote research and investigation into the causes and prevention of product-related deaths, illnesses, and injuries.
 
-([Pub. L. 92–573, § 2][/us/pl/92/573/s2], Oct. 27, 1972, [86 Stat. 1207][/us/stat/86/1207].)
+([Pub. L. 92–573][/us/pl/92/573], § 2, Oct. 27, 1972, [86 Stat. 1207][/us/stat/86/1207].)
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–314, title II, § 239(a)][/us/pl/110/314/s239/a], Aug. 14, 2008, [122 Stat. 3076][/us/stat/122/3076], provided that:
+[Pub. L. 110–314, title II][/us/pl/110/314/tII], § 239(a), Aug. 14, 2008, [122 Stat. 3076][/us/stat/122/3076], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -59,7 +59,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 92–573, § 34][/us/pl/92/573/s34], Oct. 27, 1972, [86 Stat. 1233][/us/stat/86/1233], provided that: 
+[Pub. L. 92–573][/us/pl/92/573], § 34, Oct. 27, 1972, [86 Stat. 1233][/us/stat/86/1233], provided that: 
 
 > “This Act \[enacting this chapter\] shall take effect on the sixtieth day following the date of its enactment \[Oct. 27, 1972\], except—
 
@@ -69,65 +69,65 @@
 
  __Short Title of 2013 Amendment__ 
 
-[Pub. L. 112–266, § 1][/us/pl/112/266/s1], Jan. 14, 2013, [126 Stat. 2437][/us/stat/126/2437], provided that: 
+[Pub. L. 112–266][/us/pl/112/266], § 1, Jan. 14, 2013, [126 Stat. 2437][/us/stat/126/2437], provided that: 
 
 > “This Act \[enacting [section 2056c of this title][/us/usc/t15/s2056c] and provisions set out as notes under [section 2056c of this title][/us/usc/t15/s2056c]\] may be cited as the ‘Drywall Safety Act of 2012’.”
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–314, § 1(a)][/us/pl/110/314/s1/a], Aug. 14, 2008, [122 Stat. 3016][/us/stat/122/3016], provided that: 
+[Pub. L. 110–314][/us/pl/110/314], § 1(a), Aug. 14, 2008, [122 Stat. 3016][/us/stat/122/3016], provided that: 
 
 > “This Act \[enacting sections 1278a, 1477, 2053a, 2055a, 2056a, 2056b, 2057c, 2076b, 2086 to 2089, and 8008 of this title, amending sections 1191, 1193, 1194, 1196, 1201 to 1204, 1261 to 1266, 1269 to 1276, 1278, 1472, 2052, 2054, 2055, 2058, 2060, 2063 to 2070, 2073, 2076, 2077 to 2079, 2081, 2082, 8002, and 8003 of this title, enacting provisions set out as notes under this section and sections 1194, 2053, 2060, 2063, 2066, 2069, and 2076 of this title, amending provisions set out as notes under sections 401 and 1261 of this title and [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance, and repealing provisions set out as a note under [section 2053 of this title][/us/usc/t15/s2053]\] may be cited as the ‘Consumer Product Safety Improvement Act of 2008’.”
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–608, § 1][/us/pl/101/608/s1], Nov. 16, 1990, [104 Stat. 3110][/us/stat/104/3110], provided that: 
+[Pub. L. 101–608][/us/pl/101/608], § 1, Nov. 16, 1990, [104 Stat. 3110][/us/stat/104/3110], provided that: 
 
 > “This Act \[enacting sections 2076a and 2084 of this title, amending sections 1193, 1194, 1262, 1274, 2053, 2055, 2056, 2058, 2061, 2064, 2066, 2069, 2077, and 2081 of this title, and enacting provisions set out as notes under sections 2053, 2054, 2056, 2076, and 2084 of this title\] may be cited as the ‘Consumer Product Safety Improvement Act of 1990’.”
 
  __Short Title of 1981 Amendment__ 
 
-[Pub. L. 97–35, title XII, § 1201(a)][/us/pl/97/35/s1201/a], Aug. 13, 1981, [95 Stat. 703][/us/stat/95/703], provided that: 
+[Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1201(a), Aug. 13, 1981, [95 Stat. 703][/us/stat/95/703], provided that: 
 
 > “This subtitle \[subtitle A (§§ 1201–1215) of title XII of [Pub. L. 97–35][/us/pl/97/35], enacting sections 1204, 1276, 2077, and 2083 of this title, amending sections 1193, 1201, 1262, 1263, 1274, 2052, 2054 to 2058, 2060, 2061, 2064, 2069, 2072, 2073, 2076, 2080, and 2081 of this title, repealing sections 1204, 1475, 2059, 2062, and 2077 of this title, and enacting provisions set out as a note under [section 2052 of this title][/us/usc/t15/s2052]\] may be cited as the ‘Consumer Product Safety Amendments of 1981’.”
 
  __Short Title of 1978 Amendment__ 
 
-[Pub. L. 95–319, § 1][/us/pl/95/319/s1], July 11, 1978, [92 Stat. 386][/us/stat/92/386], provided: 
+[Pub. L. 95–319][/us/pl/95/319], § 1, July 11, 1978, [92 Stat. 386][/us/stat/92/386], provided: 
 
 > “That this Act \[enacting [section 2082 of this title][/us/usc/t15/s2082], amending [section 2068 of this title][/us/usc/t15/s2068], and enacting provision set out as a note under [section 2082 of this title][/us/usc/t15/s2082]\] may be cited as the ‘Emergency Interim Consumer Product Safety Standard Act of 1978’.”
 
  __Short Title of 1976 Amendment__ 
 
-[Pub. L. 94–284, § 1][/us/pl/94/284/s1], May 11, 1976, [90 Stat. 503][/us/stat/90/503], provided that: 
+[Pub. L. 94–284][/us/pl/94/284], § 1, May 11, 1976, [90 Stat. 503][/us/stat/90/503], provided that: 
 
 > “This Act \[amending sections 1193, 1203, 1204, 1261, 1471, 1476, 2052, 2053, 2056, 2058 to 2060, 2064, 2068, 2069, 2071 to 2073, 2075, 2076, 2078, 2079, and 2081 of this title, and [section 1114 of Title 18][/us/usc/t18/s1114], Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 1193, 1261, and 2080 of this title\] may be cited as the ‘Consumer Product Safety Commission Improvements Act of 1976’.”
 
  __Short Title__ 
 
-[Pub. L. 92–573, § 1][/us/pl/92/573/s1], Oct. 27, 1972, [86 Stat. 1207][/us/stat/86/1207], provided that: 
+[Pub. L. 92–573][/us/pl/92/573], § 1, Oct. 27, 1972, [86 Stat. 1207][/us/stat/86/1207], provided that: 
 
 > “This Act \[enacting this chapter, amending sections 5314 and 5315 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under this section\] may be cited as the ‘Consumer Product Safety Act’.”
 
  __Authority To Issue Implementing Regulations__ 
 
-[Pub. L. 110–314, § 3][/us/pl/110/314/s3], Aug. 14, 2008, [122 Stat. 3017][/us/stat/122/3017], provided that: 
+[Pub. L. 110–314][/us/pl/110/314], § 3, Aug. 14, 2008, [122 Stat. 3017][/us/stat/122/3017], provided that: 
 
 > “The Commission may issue regulations, as necessary, to implement this Act \[see Short Title of 2008 Amendment note above\] and the amendments made by this Act.”
 
  __Severability__ 
 
-[Pub. L. 110–314, title II, § 239(b)][/us/pl/110/314/s239/b], Aug. 14, 2008, [122 Stat. 3076][/us/stat/122/3076], provided that: 
+[Pub. L. 110–314, title II][/us/pl/110/314/tII], § 239(b), Aug. 14, 2008, [122 Stat. 3076][/us/stat/122/3076], provided that: 
 
 > “If any provision of this Act \[see Short Title of 2008 Amendment note above\] or the amendments made by this Act, or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act and the amendments made by this Act, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation.”
 
-[Pub. L. 92–573, § 33][/us/pl/92/573/s33], Oct. 27, 1972, [86 Stat. 1233][/us/stat/86/1233], provided that: 
+[Pub. L. 92–573][/us/pl/92/573], § 33, Oct. 27, 1972, [86 Stat. 1233][/us/stat/86/1233], provided that: 
 
 > “If any provision of this Act \[see Short Title note above\], or the application of such provision to any person or circumstance, shall be held invalid, the remainder of this Act, or the application of such provisions to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
 
  __Preemption__ 
 
-[Pub. L. 110–314, title II, § 231][/us/pl/110/314/s231], Aug. 14, 2008, [122 Stat. 3070][/us/stat/122/3070], provided that:
+[Pub. L. 110–314, title II][/us/pl/110/314/tII], § 231, Aug. 14, 2008, [122 Stat. 3070][/us/stat/122/3070], provided that:
 
 >     “(a)  __Rule With Regard to Preemption__  __.—__ 
 
@@ -139,7 +139,7 @@
 
  __Definitions__ 
 
-[Pub. L. 110–314, § 2(a)][/us/pl/110/314/s2/a], Aug. 14, 2008, [122 Stat. 3017][/us/stat/122/3017], provided that:
+[Pub. L. 110–314][/us/pl/110/314], § 2(a), Aug. 14, 2008, [122 Stat. 3017][/us/stat/122/3017], provided that:
 
 >     “(a)  __Defined Terms__  __.—__ 
 
@@ -156,48 +156,48 @@
 ----------
 ----------
 
-[/us/pl/92/573/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs2
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1207
-[/us/pl/110/314/s239/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs239%2Fa
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3076
 [/us/usc/t15/s2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2063
 [/us/usc/t15/s2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2064
 [/us/usc/t15/s2089/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2089%2Fc
 [/us/usc/t15/s2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2066
-[/us/pl/92/573/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs34
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1233
 [/us/usc/t15/s2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2079
-[/us/pl/112/266/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F266%2Fs1
+[/us/pl/112/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F266
 [/us/stat/126/2437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2437
 [/us/usc/t15/s2056c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2056c
 [/us/usc/t15/s2056c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2056c
-[/us/pl/110/314/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs1%2Fa
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/stat/122/3016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3016
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/usc/t15/s2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2053
-[/us/pl/101/608/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs1
+[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
 [/us/stat/104/3110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3110
-[/us/pl/97/35/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1201%2Fa
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F703
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t15/s2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2052
-[/us/pl/95/319/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F319%2Fs1
+[/us/pl/95/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F319
 [/us/stat/92/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F386
 [/us/usc/t15/s2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2082
 [/us/usc/t15/s2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2068
 [/us/usc/t15/s2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2082
-[/us/pl/94/284/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs1
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/stat/90/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F503
 [/us/usc/t18/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1114
-[/us/pl/92/573/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs1
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1207
-[/us/pl/110/314/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs3
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/stat/122/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3017
-[/us/pl/110/314/s239/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs239%2Fb
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3076
-[/us/pl/92/573/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs33
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1233
-[/us/pl/110/314/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs231
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3070
 [/us/usc/t15/s2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2074
 [/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
@@ -205,7 +205,7 @@
 [/us/usc/t15/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1203
 [/us/usc/t15/s1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1476
 [/us/usc/t15/s1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1261
-[/us/pl/110/314/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs2%2Fa
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/stat/122/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3017
 
 

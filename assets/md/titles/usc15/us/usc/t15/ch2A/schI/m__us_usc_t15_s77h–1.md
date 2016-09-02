@@ -109,7 +109,7 @@
 
             In any proceeding in which the Commission may impose a penalty under this section, a respondent may present evidence of the ability of the respondent to pay such penalty. The Commission may, in its discretion, consider such evidence in determining whether such penalty is in the public interest. Such evidence may relate to the extent of the ability of the respondent to continue in business and the collectability of a penalty, taking into account any other claims of the United States or third parties upon the assets of the respondent and the amount of the assets of the respondent.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 8A, as added [Pub. L. 101–429, title I, § 102][/us/pl/101/429/s102], Oct. 15, 1990, [104 Stat. 933][/us/stat/104/933]; amended [Pub. L. 107–204, title XI, § 1105(b)][/us/pl/107/204/s1105/b], July 30, 2002, [116 Stat. 809][/us/stat/116/809]; [Pub. L. 111–203, title IX, § 929P(a)(1)][/us/pl/111/203/s929P/a/1], July 21, 2010, [124 Stat. 1862][/us/stat/124/1862].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 8A, as added [Pub. L. 101–429, title I][/us/pl/101/429/tI], § 102, Oct. 15, 1990, [104 Stat. 933][/us/stat/104/933]; amended [Pub. L. 107–204, title XI][/us/pl/107/204/tXI], § 1105(b), July 30, 2002, [116 Stat. 809][/us/stat/116/809]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 929P(a)(1), July 21, 2010, [124 Stat. 1862][/us/stat/124/1862].)
 
  __Amendments__ 
 
@@ -135,11 +135,11 @@
 [/us/usc/t15/s77i/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77i%2Fa
 [/us/usc/t15/s77q/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77q%2Fa%2F1
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
-[/us/pl/101/429/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2Fs102
+[/us/pl/101/429/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2FtI
 [/us/stat/104/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F933
-[/us/pl/107/204/s1105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs1105%2Fb
+[/us/pl/107/204/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtXI
 [/us/stat/116/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F809
-[/us/pl/111/203/s929P/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929P%2Fa%2F1
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1862
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204

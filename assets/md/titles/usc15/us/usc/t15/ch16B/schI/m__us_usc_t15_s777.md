@@ -53,7 +53,7 @@
 
         The Administrator shall formulate and implement regulatory and other actions in a manner (1) which does not unduly discriminate against any industry or any region of the United States; and (2) designed to insure that, to the greatest extent possible, the costs and burdens of meeting energy shortages shall be borne equally by every sector and segment of the country and of the economy.
 
-([Pub. L. 93–275, § 18][/us/pl/93/275/s18], May 7, 1974, [88 Stat. 110][/us/stat/88/110]; [Pub. L. 94–385, title I, § 109(d)][/us/pl/94/385/s109/d], Aug. 14, 1976, [90 Stat. 1130][/us/stat/90/1130].)
+([Pub. L. 93–275][/us/pl/93/275], § 18, May 7, 1974, [88 Stat. 110][/us/stat/88/110]; [Pub. L. 94–385, title I][/us/pl/94/385/tI], § 109(d), Aug. 14, 1976, [90 Stat. 1130][/us/stat/90/1130].)
 
  __Amendments__ 
 
@@ -74,9 +74,9 @@
 ----------
 ----------
 
-[/us/pl/93/275/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs18
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F110
-[/us/pl/94/385/s109/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs109%2Fd
+[/us/pl/94/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtI
 [/us/stat/90/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1130
 [/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

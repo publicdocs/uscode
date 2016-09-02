@@ -43,7 +43,7 @@
 
             (B) he is hereafter found civilly liable in damages, or is permanently or temporarily enjoined by an order, judgment, or decree of a court of competent jurisdiction, by reason of any act or practice involving fraud or breach of trust.
 
-([Pub. L. 85–699, title III, § 314][/us/pl/85/699/s314], as added [Pub. L. 89–779, § 7][/us/pl/89/779/s7], Nov. 6, 1966, [80 Stat. 1363][/us/stat/80/1363].)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 314, as added [Pub. L. 89–779][/us/pl/89/779], § 7, Nov. 6, 1966, [80 Stat. 1363][/us/stat/80/1363].)
 
  __References in Text__ 
 
@@ -56,8 +56,8 @@
 ----------
 ----------
 
-[/us/pl/85/699/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs314
-[/us/pl/89/779/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779%2Fs7
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/89/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779
 [/us/stat/80/1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1363
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
 

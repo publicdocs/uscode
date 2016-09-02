@@ -27,11 +27,11 @@
 
         Payments required to be made as a consequence of any guarantee by the Board shall be made from the emergency loan guarantee fund. In the event that moneys in the fund are insufficient to make such payments, in order to discharge its responsibilities, the Board is authorized to issue to the Secretary of the Treasury notes or other obligations in such forms and denominations, bearing such maturities, and subject to such terms and conditions as may be prescribed by the Board with the approval of the Secretary of the Treasury. Such notes or other obligations shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the current average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the issuance of the notes or other obligations. The Secretary of the Treasury is authorized and directed to purchase any notes and other obligations issued hereunder and for that purpose he is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31 and the purposes for which securities may be issued under that chapter are extended to include any purchase of such notes and obligations.
 
-([Pub. L. 92–70, § 9][/us/pl/92/70/s9], Aug. 9, 1971, [85 Stat. 181][/us/stat/85/181].)
+([Pub. L. 92–70][/us/pl/92/70], § 9, Aug. 9, 1971, [85 Stat. 181][/us/stat/85/181].)
 
  __Codification__ 
 
-    In subsec. (c), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended,” and “that Act”, respectively, on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (c), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended,” and “that Act”, respectively, on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
 ----------
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/92/70/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70%2Fs9
+[/us/pl/92/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70
 [/us/stat/85/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F181
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 
 

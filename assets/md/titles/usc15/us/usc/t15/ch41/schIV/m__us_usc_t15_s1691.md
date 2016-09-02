@@ -97,15 +97,15 @@
 
             For purposes of this subsection, the term “valuation” shall include any estimate of the value of a dwelling developed in connection with a creditor’s decision to provide credit, including those values developed pursuant to a policy of a government sponsored enterprise or by an automated valuation model, a broker price opinion, or other methodology or mechanism.
 
-([Pub. L. 90–321, title VII, § 701][/us/pl/90/321/s701], as added [Pub. L. 93–495, title V, § 503][/us/pl/93/495/s503], Oct. 28, 1974, [88 Stat. 1521][/us/stat/88/1521]; amended [Pub. L. 94–239, § 2][/us/pl/94/239/s2], Mar. 23, 1976, [90 Stat. 251][/us/stat/90/251]; [Pub. L. 102–242, title II, § 223(d)][/us/pl/102/242/s223/d], Dec. 19, 1991, [105 Stat. 2306][/us/stat/105/2306]; [Pub. L. 111–203, title X][/us/pl/111/203], §§ 1071(b), 1085(1), title XIV, § 1474, July 21, 2010, [124 Stat. 2059][/us/stat/124/2059], 2083, 2199.)
+([Pub. L. 90–321, title VII][/us/pl/90/321/tVII], § 701, as added [Pub. L. 93–495, title V][/us/pl/93/495/tV], § 503, Oct. 28, 1974, [88 Stat. 1521][/us/stat/88/1521]; amended [Pub. L. 94–239][/us/pl/94/239], § 2, Mar. 23, 1976, [90 Stat. 251][/us/stat/90/251]; [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 223(d), Dec. 19, 1991, [105 Stat. 2306][/us/stat/105/2306]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], §§ 1071(b), 1085(1), title XIV, § 1474, July 21, 2010, [124 Stat. 2059][/us/stat/124/2059], 2083, 2199.)
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 1085(1)][/us/pl/111/203/s1085/1], substituted “Bureau” for “Board” wherever appearing.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1085(1), substituted “Bureau” for “Board” wherever appearing.
 
-    Subsec. (b)(5). [Pub. L. 111–203, § 1071(b)][/us/pl/111/203/s1071/b], added par. (5).
+    Subsec. (b)(5). [Pub. L. 111–203][/us/pl/111/203], § 1071(b), added par. (5).
 
-    Subsec. (e). [Pub. L. 111–203, § 1474][/us/pl/111/203/s1474], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Each creditor shall promptly furnish an applicant, upon written request by the applicant made within a reasonable period of time of the application, a copy of the appraisal report used in connection with the applicant’s application for a loan that is or would have been secured by a lien on residential real property. The creditor may require the applicant to reimburse the creditor for the cost of the appraisal.”
+    Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 1474, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Each creditor shall promptly furnish an applicant, upon written request by the applicant made within a reasonable period of time of the application, a copy of the appraisal report used in connection with the applicant’s application for a loan that is or would have been secured by a lien on residential real property. The creditor may require the applicant to reimburse the creditor for the cost of the appraisal.”
 
     1991—Subsec. (e). [Pub. L. 102–242][/us/pl/102/242] added subsec. (e).
 
@@ -117,7 +117,7 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–203, title X, § 1071(d)][/us/pl/111/203/s1071/d], July 21, 2010, [124 Stat. 2059][/us/stat/124/2059], provided that: 
+[Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1071(d), July 21, 2010, [124 Stat. 2059][/us/stat/124/2059], provided that: 
 
 > “This section \[enacting [section 1691c–2 of this title][/us/usc/t15/s1691c–2] and amending this section\] shall become effective on the designated transfer date.”
 
@@ -129,7 +129,7 @@
 
  __Effective Date__ 
 
-Section 708, formerly § 707, of title VII of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 93–495, title V, § 503][/us/pl/93/495/s503], Oct. 28, 1974, [88 Stat. 1525][/us/stat/88/1525], renumbered and amended by [Pub. L. 94–239][/us/pl/94/239], §§ 7, 8, Mar. 23, 1976, [90 Stat. 255][/us/stat/90/255], provided that: 
+Section 708, formerly § 707, of title VII of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 93–495, title V][/us/pl/93/495/tV], § 503, Oct. 28, 1974, [88 Stat. 1525][/us/stat/88/1525], renumbered and amended by [Pub. L. 94–239][/us/pl/94/239], §§ 7, 8, Mar. 23, 1976, [90 Stat. 255][/us/stat/90/255], provided that: 
 
 > “This title \[enacting this subchapter and provisions set out as notes under [section 1691 of this title][/us/usc/t15/s1691]\] takes effect upon the expiration of one year after the date of its enactment \[Oct. 28, 1974\]. The amendments made by the Equal Credit Opportunity Act Amendments of 1976 \[enacting [section 1691f of this title][/us/usc/t15/s1691f], amending this section and sections 1691b, 1691c, 1691d, and 1691e of this title, repealing [section 1609 of this title][/us/usc/t15/s1609], enacting provisions set out as notes under this section, and repealing provisions set out as a note under this section\] shall take effect on the date of enactment thereof \[Mar. 23, 1976\] and shall apply to any violation occurring on or after such date, except that the amendments made to section 701 of the Equal Credit Opportunity Act \[this section\] shall take effect 12 months after the date of enactment \[Mar. 23, 1976\].”
 
@@ -139,7 +139,7 @@ Section 708, formerly § 707, of title VII of [Pub. L. 90–321][/us/pl/90/321
 
  __Congressional Findings and Statement of Purpose__ 
 
-[Pub. L. 93–495, title V, § 502][/us/pl/93/495/s502], Oct. 28, 1974, [88 Stat. 1521][/us/stat/88/1521], provided that: 
+[Pub. L. 93–495, title V][/us/pl/93/495/tV], § 502, Oct. 28, 1974, [88 Stat. 1521][/us/stat/88/1521], provided that: 
 
 > “The Congress finds that there is a need to insure that the various financial institutions and other firms engaged in the extensions of credit exercise their responsibility to make credit available with fairness, impartiality, and without discrimination on the basis of sex or marital status. Economic stabilization would be enhanced and competition among the various financial institutions and other firms engaged in the extension of credit would be strengthened by an absence of discrimination on the basis of sex or marital status, as well as by the informed use of credit which Congress has heretofore sought to promote. It is the purpose of this Act \[see Short Title note set out under [section 1601 of this title][/us/usc/t15/s1601]\] to require that financial institutions and other firms engaged in the extension of credit make that credit equally available to all credit-worthy customers without regard to sex or marital status.”
 
@@ -151,23 +151,23 @@ Section 708, formerly § 707, of title VII of [Pub. L. 90–321][/us/pl/90/321
 ----------
 
 [/us/usc/t15/s1691c–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1691c%E2%80%932
-[/us/pl/90/321/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs701
-[/us/pl/93/495/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs503
+[/us/pl/90/321/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVII
+[/us/pl/93/495/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtV
 [/us/stat/88/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1521
-[/us/pl/94/239/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239%2Fs2
+[/us/pl/94/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239
 [/us/stat/90/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F251
-[/us/pl/102/242/s223/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs223%2Fd
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2306
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2059
-[/us/pl/111/203/s1085/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1085%2F1
-[/us/pl/111/203/s1071/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1071%2Fb
-[/us/pl/111/203/s1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1474
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/94/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239
 [/us/pl/94/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239
 [/us/pl/94/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239
-[/us/pl/111/203/s1071/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1071%2Fd
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2059
 [/us/usc/t15/s1691c–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1691c%E2%80%932
 [/us/usc/t12/s5481/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5481%2F9
@@ -179,7 +179,7 @@ Section 708, formerly § 707, of title VII of [Pub. L. 90–321][/us/pl/90/321
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
-[/us/pl/93/495/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs503
+[/us/pl/93/495/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtV
 [/us/stat/88/1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1525
 [/us/pl/94/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239
 [/us/stat/90/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F255
@@ -187,7 +187,7 @@ Section 708, formerly § 707, of title VII of [Pub. L. 90–321][/us/pl/90/321
 [/us/usc/t15/s1691f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1691f
 [/us/usc/t15/s1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1609
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/93/495/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs502
+[/us/pl/93/495/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtV
 [/us/stat/88/1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1521
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 

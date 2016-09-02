@@ -73,7 +73,7 @@
 
         The authority of the Commission under this section with respect to security-based swap agreements shall be subject to the restrictions and limitations of [section 78c–1(b) of this title][/us/usc/t15/s78c–1/b].
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 16, [48 Stat. 896][/us/stat/48/896]; [Pub. L. 88–467, § 8][/us/pl/88/467/s8], Aug. 20, 1964, [78 Stat. 579][/us/stat/78/579]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 208(b)(3), title III, § 303(g), (h)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–435, 2763A–455, 2763A–456; [Pub. L. 107–204, title IV, § 403(a)][/us/pl/107/204/s403/a], July 30, 2002, [116 Stat. 788][/us/stat/116/788]; [Pub. L. 111–203, title VII, § 762(d)(5)][/us/pl/111/203/s762/d/5], title IX, § 929R(b), July 21, 2010, [124 Stat. 1761][/us/stat/124/1761], 1867.)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 16, [48 Stat. 896][/us/stat/48/896]; [Pub. L. 88–467][/us/pl/88/467], § 8, Aug. 20, 1964, [78 Stat. 579][/us/stat/78/579]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 208(b)(3), title III, § 303(g), (h)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–435, 2763A–455, 2763A–456; [Pub. L. 107–204, title IV][/us/pl/107/204/tIV], § 403(a), July 30, 2002, [116 Stat. 788][/us/stat/116/788]; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 762(d)(5), title IX, § 929R(b), July 21, 2010, [124 Stat. 1761][/us/stat/124/1761], 1867.)
 
  __Amendment of Section__ 
 
@@ -81,31 +81,31 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–203, § 929R(b)(1)][/us/pl/111/203/s929R/b/1], struck out “(and, if such security is registered on a national securities exchange, also with the exchange)” after “Commission”.
+    2010—Subsec. (a)(1). [Pub. L. 111–203][/us/pl/111/203], § 929R(b)(1), struck out “(and, if such security is registered on a national securities exchange, also with the exchange)” after “Commission”.
 
-    Subsec. (a)(2)(B). [Pub. L. 111–203, § 929R(b)(2)][/us/pl/111/203/s929R/b/2], inserted “, or within such shorter time as the Commission may establish by rule” after “officer”.
+    Subsec. (a)(2)(B). [Pub. L. 111–203][/us/pl/111/203], § 929R(b)(2), inserted “, or within such shorter time as the Commission may establish by rule” after “officer”.
 
-    Subsec. (a)(2)(C). [Pub. L. 111–203, § 762(d)(5)(A)][/us/pl/111/203/s762/d/5/A], struck out “(as defined in section 206(b) of the Gramm-Leach-Bliley Act ([15 U.S.C. 78c][/us/usc/t15/s78c] note))” after “security-based swap agreement”.
+    Subsec. (a)(2)(C). [Pub. L. 111–203][/us/pl/111/203], § 762(d)(5)(A), struck out “(as defined in section 206(b) of the Gramm-Leach-Bliley Act ([15 U.S.C. 78c][/us/usc/t15/s78c] note))” after “security-based swap agreement”.
 
-    Subsec. (a)(3)(B). [Pub. L. 111–203, § 762(d)(5)(B)][/us/pl/111/203/s762/d/5/B], which directed amendment of subpar. (B) by inserting “or security-based swaps” after “security-based swap agreement”, was executed by making the insertion after “security-based swap agreements”, to reflect the probable intent of Congress.
+    Subsec. (a)(3)(B). [Pub. L. 111–203][/us/pl/111/203], § 762(d)(5)(B), which directed amendment of subpar. (B) by inserting “or security-based swaps” after “security-based swap agreement”, was executed by making the insertion after “security-based swap agreements”, to reflect the probable intent of Congress.
 
-    Subsec. (b). [Pub. L. 111–203, § 762(d)(5)(D)][/us/pl/111/203/s762/d/5/D], which directed amendment of subsec. (b) by substituting “or a security-based swap” for “(as defined in section 206B of the Gramm-Leach Bliley Act)” in third sentence, was executed by making the substitution for “(as defined in section 206B of the Gramm-Leach-Bliley Act)” in third sentence, to reflect the probable intent of Congress.
+    Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 762(d)(5)(D), which directed amendment of subsec. (b) by substituting “or a security-based swap” for “(as defined in section 206B of the Gramm-Leach Bliley Act)” in third sentence, was executed by making the substitution for “(as defined in section 206B of the Gramm-Leach-Bliley Act)” in third sentence, to reflect the probable intent of Congress.
 
-    [Pub. L. 111–203, § 762(d)(5)(C)][/us/pl/111/203/s762/d/5/C], struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreement” in first sentence.
+    [Pub. L. 111–203][/us/pl/111/203], § 762(d)(5)(C), struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreement” in first sentence.
 
-    Subsec. (g). [Pub. L. 111–203, § 762(d)(5)(E)][/us/pl/111/203/s762/d/5/E], struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreements”.
+    Subsec. (g). [Pub. L. 111–203][/us/pl/111/203], § 762(d)(5)(E), struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreements”.
 
     2002—[Pub. L. 107–204][/us/pl/107/204] reenacted section catchline without change, added heading and text of subsec. (a), and struck out former subsec. (a) which read as follows: “Every person who is directly or indirectly the beneficial owner of more than 10 per centum of any class of any equity security (other than an exempted security) which is registered pursuant to section 78l of this title, or who is a director or an officer of the issuer of such security, shall file, at the time of the registration of such security on a national securities exchange or by the effective date of a registration statement filed pursuant to section 78l(g) of this title, or within ten days after he becomes such beneficial owner, director, or officer, a statement with the Commission (and, if such security is registered on a national securities exchange, also with the exchange) of the amount of all equity securities of such issuer of which he is the beneficial owner, and within ten days after the close of each calendar month thereafter, if there has been a change in such ownership or if such person shall have purchased or sold a security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) involving such equity security during such month, shall file with the Commission (and if such security is registered on a national securities exchange, shall also file with the exchange), a statement indicating his ownership at the close of the calendar month and such changes in his ownership and such purchases and sales of such security-based swap agreements as have occurred during such calendar month.”
 
-    2000—Subsecs. (a), (b). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title III, § 303(g)\], amended subsecs. (a) and (b) generally, revising provisions to extend application to security-based swap agreements.
+    2000—Subsecs. (a), (b). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title III, § 303(g)\], amended subsecs. (a) and (b) generally, revising provisions to extend application to security-based swap agreements.
 
-    Subsec. (f). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 208(b)(3)\], added subsec. (f).
+    Subsec. (f). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 208(b)(3)\], added subsec. (f).
 
-    Subsec. (g). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title III, § 303(h)\], added subsec. (g).
+    Subsec. (g). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title III, § 303(h)\], added subsec. (g).
 
-    1964—Subsec. (a). [Pub. L. 88–467, § 8(a)][/us/pl/88/467/s8/a], substituted “registered pursuant to section 78l of this title” for “registered on a national securities exchange”, “Commission (and, if such security is registered on a national securities exchange, also with the exchange)” for “exchange (and a duplicate original thereof with the Commission)”, “a change” for “any change”, and “Commission (and if such security is registered on a national securities exchange, shall also file with the exchange) a statement” for “exchange a statement (and a duplicate original thereof with the Commission)”, and inserted “on a national securities exchange or by the effective date of a registration statement filed pursuant to section 78l(g) of this title” after “registration of such security”.
+    1964—Subsec. (a). [Pub. L. 88–467][/us/pl/88/467], § 8(a), substituted “registered pursuant to section 78l of this title” for “registered on a national securities exchange”, “Commission (and, if such security is registered on a national securities exchange, also with the exchange)” for “exchange (and a duplicate original thereof with the Commission)”, “a change” for “any change”, and “Commission (and if such security is registered on a national securities exchange, shall also file with the exchange) a statement” for “exchange a statement (and a duplicate original thereof with the Commission)”, and inserted “on a national securities exchange or by the effective date of a registration statement filed pursuant to section 78l(g) of this title” after “registration of such security”.
 
-    Subsecs. (d), (e). [Pub. L. 88–467, § 8(b)][/us/pl/88/467/s8/b], added subsec. (d) and redesignated former subsec. (d) as (e).
+    Subsecs. (d), (e). [Pub. L. 88–467][/us/pl/88/467], § 8(b), added subsec. (d) and redesignated former subsec. (d) as (e).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -115,7 +115,7 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–204, title IV, § 403(b)][/us/pl/107/204/s403/b], July 30, 2002, [116 Stat. 789][/us/stat/116/789], provided that: 
+[Pub. L. 107–204, title IV][/us/pl/107/204/tIV], § 403(b), July 30, 2002, [116 Stat. 789][/us/stat/116/789], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall be effective 30 days after the date of the enactment of this Act \[July 30, 2002\].”
 
@@ -138,29 +138,29 @@
 [/us/usc/t15/s78c–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%E2%80%931%2Fb
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F896
-[/us/pl/88/467/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs8
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
 [/us/stat/78/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F579
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/204/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs403%2Fa
+[/us/pl/107/204/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtIV
 [/us/stat/116/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F788
-[/us/pl/111/203/s762/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fd%2F5
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1761
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/111/203/s929R/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929R%2Fb%2F1
-[/us/pl/111/203/s929R/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929R%2Fb%2F2
-[/us/pl/111/203/s762/d/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fd%2F5%2FA
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
-[/us/pl/111/203/s762/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fd%2F5%2FB
-[/us/pl/111/203/s762/d/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fd%2F5%2FD
-[/us/pl/111/203/s762/d/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fd%2F5%2FC
-[/us/pl/111/203/s762/d/5/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fd%2F5%2FE
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/88/467/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs8%2Fa
-[/us/pl/88/467/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs8%2Fb
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
 [/us/pl/111/203/s929R/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929R%2Fb
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
@@ -168,7 +168,7 @@
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs774
 [/us/usc/t15/s77b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77b
-[/us/pl/107/204/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs403%2Fb
+[/us/pl/107/204/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtIV
 [/us/stat/116/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F789
 [/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
 [/us/pl/88/467/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs13

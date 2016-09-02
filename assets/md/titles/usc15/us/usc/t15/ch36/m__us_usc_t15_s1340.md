@@ -17,7 +17,7 @@
 
     Packages of cigarettes manufactured, imported, or packaged (1) for export from the United States or (2) for delivery to a vessel or aircraft, as supplies, for consumption beyond the jurisdiction of the internal revenue laws of the United States shall be exempt from the requirements of this chapter, but such exemptions shall not apply to cigarettes manufactured, imported, or packaged for sale or distribution to members or units of the Armed Forces of the United States located outside of the United States.
 
-([Pub. L. 89–92, § 12][/us/pl/89/92/s12], formerly § 11, as added [Pub. L. 91–222, § 2][/us/pl/91/222/s2], Apr. 1, 1970, [84 Stat. 89][/us/stat/84/89]; renumbered § 12, [Pub. L. 98–474, § 5(a)][/us/pl/98/474/s5/a], Oct. 12, 1984, [98 Stat. 2203][/us/stat/98/2203].)
+([Pub. L. 89–92][/us/pl/89/92], § 12, formerly § 11, as added [Pub. L. 91–222][/us/pl/91/222], § 2, Apr. 1, 1970, [84 Stat. 89][/us/stat/84/89]; renumbered § 12, [Pub. L. 98–474][/us/pl/98/474], § 5(a), Oct. 12, 1984, [98 Stat. 2203][/us/stat/98/2203].)
 
  __Codification__ 
 
@@ -38,10 +38,10 @@
 ----------
 ----------
 
-[/us/pl/89/92/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F92%2Fs12
-[/us/pl/91/222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222%2Fs2
+[/us/pl/89/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F92
+[/us/pl/91/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222
 [/us/stat/84/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F89
-[/us/pl/98/474/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F474%2Fs5%2Fa
+[/us/pl/98/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F474
 [/us/stat/98/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2203
 [/us/pl/89/92/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F92%2Fs12
 [/us/stat/79/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F284

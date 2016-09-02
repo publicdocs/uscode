@@ -17,7 +17,7 @@
 
     No corporation for the purpose of engaging in business within China shall be created under any law of the United States other than this chapter.
 
-([Sept. 19, 1922, ch. 346, § 29][/us/act/1922-09-19/ch346/s29], as added [Feb. 26, 1925, ch. 345, § 13][/us/act/1925-02-26/ch345/s13], [43 Stat. 997][/us/stat/43/997].)
+([Sept. 19, 1922, ch. 346][/us/act/1922-09-19/ch346], § 29, as added [Feb. 26, 1925, ch. 345][/us/act/1925-02-26/ch345], § 13, [43 Stat. 997][/us/stat/43/997].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1922-09-19/ch346/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346%2Fs29
-[/us/act/1925-02-26/ch345/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-26%2Fch345%2Fs13
+[/us/act/1922-09-19/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346
+[/us/act/1925-02-26/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-26%2Fch345
 [/us/stat/43/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F997
 
 

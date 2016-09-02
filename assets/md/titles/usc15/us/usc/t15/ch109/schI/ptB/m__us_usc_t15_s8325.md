@@ -19,7 +19,7 @@
 
     (b) In order to promote effective and consistent global regulation of contracts of sale of a commodity for future delivery and options on such contracts, the Commodity Futures Trading Commission shall consult and coordinate with foreign regulatory authorities on the establishment of consistent international standards with respect to the regulation of contracts of sale of a commodity for future delivery and options on such contracts, and may agree to such information-sharing arrangements as may be deemed necessary or appropriate in the public interest for the protection of users of contracts of sale of a commodity for future delivery.
 
-([Pub. L. 111–203, title VII, § 752][/us/pl/111/203/s752], July 21, 2010, [124 Stat. 1749][/us/stat/124/1749].)
+([Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 752, July 21, 2010, [124 Stat. 1749][/us/stat/124/1749].)
 
  __Definition__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t7/s1a/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1a%2F39
-[/us/pl/111/203/s752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs752
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1749
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
 

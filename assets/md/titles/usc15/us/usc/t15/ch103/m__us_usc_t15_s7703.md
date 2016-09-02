@@ -51,7 +51,7 @@
 
         (2) the Department of Justice should use all existing law enforcement tools to investigate and prosecute those who send bulk commercial e-mail to facilitate the commission of Federal crimes, including the tools contained in chapters 47 and 63 of title 18 (relating to fraud and false statements); chapter 71 of title 18 (relating to obscenity); chapter 110 of title 18 (relating to the sexual exploitation of children); and chapter 95 of title 18 (relating to racketeering), as appropriate.
 
-([Pub. L. 108–187, § 4][/us/pl/108/187/s4], Dec. 16, 2003, [117 Stat. 2703][/us/stat/117/2703].)
+([Pub. L. 108–187][/us/pl/108/187], § 4, Dec. 16, 2003, [117 Stat. 2703][/us/stat/117/2703].)
 
  __Codification__ 
 
@@ -67,7 +67,7 @@
 [/us/usc/t28/s994/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994%2Fp
 [/us/usc/t18/s1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1037
 [/us/usc/t18/s1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1037
-[/us/pl/108/187/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs4
+[/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2703
 [/us/pl/108/187/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs4
 [/us/pl/108/187/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs4

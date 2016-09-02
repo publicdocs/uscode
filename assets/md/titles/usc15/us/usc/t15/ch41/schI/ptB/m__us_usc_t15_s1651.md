@@ -17,13 +17,13 @@
 
     The Bureau, in consultation with the Bureau  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  and each other agency referred to in [section 1607(a) of this title][/us/usc/t15/s1607/a], shall prescribe regulations to require any creditor, with respect to any credit card account under an open end consumer credit plan, to establish procedures to ensure that any administrator of an estate of any deceased obligor with respect to such account can resolve outstanding credit balances in a timely manner.
 
-([Pub. L. 90–321, title I, § 140A][/us/pl/90/321/s140A], as added [Pub. L. 111–24, title V, § 504(a)][/us/pl/111/24/s504/a], May 22, 2009, [123 Stat. 1756][/us/stat/123/1756]; amended [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], (3), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 140A, as added [Pub. L. 111–24, title V][/us/pl/111/24/tV], § 504(a), May 22, 2009, [123 Stat. 1756][/us/stat/123/1756]; amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), (3), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 1100A(3)][/us/pl/111/203/s1100A/3], substituted “the Bureau” for “the Federal Trade Commission”.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1100A(3), substituted “the Bureau” for “the Federal Trade Commission”.
 
-    [Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], substituted “The Bureau” for “The Board”.
+    [Pub. L. 111–203][/us/pl/111/203], § 1100A(2), substituted “The Bureau” for “The Board”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -41,13 +41,13 @@
 ----------
 
 [/us/usc/t15/s1607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1607%2Fa
-[/us/pl/90/321/s140A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs140A
-[/us/pl/111/24/s504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs504%2Fa
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/111/24/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtV
 [/us/stat/123/1756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1756
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
-[/us/pl/111/203/s1100A/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F3
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

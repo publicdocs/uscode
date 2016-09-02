@@ -23,7 +23,7 @@
 
         The Secretary shall make a complete report with respect to the administration of this chapter to the President and the Congress not later than January 31 following the end of each fiscal year for which amounts are appropriated pursuant to this chapter.
 
-([Pub. L. 89–182, § 14][/us/pl/89/182/s14], Sept. 14, 1965, [79 Stat. 683][/us/stat/79/683].)
+([Pub. L. 89–182][/us/pl/89/182], § 14, Sept. 14, 1965, [79 Stat. 683][/us/stat/79/683].)
 
  __Termination of Reporting Requirements__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/89/182/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182%2Fs14
+[/us/pl/89/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182
 [/us/stat/79/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F683
 [/us/usc/t15/s7364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7364
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

@@ -121,7 +121,7 @@
 
         The local educational agency shall provide for the transportation and disposal of asbestos in accordance with the most recent version of the Environmental Protection Agency’s “Asbestos Waste Management Guidance” (or any successor to such document).
 
-([Pub. L. 94–469, title II, § 204][/us/pl/94/469/s204], as added [Pub. L. 99–519, § 2][/us/pl/99/519/s2], Oct. 22, 1986, [100 Stat. 2977][/us/stat/100/2977].)
+([Pub. L. 94–469, title II][/us/pl/94/469/tII], § 204, as added [Pub. L. 99–519][/us/pl/99/519], § 2, Oct. 22, 1986, [100 Stat. 2977][/us/stat/100/2977].)
 
 ----------
 
@@ -137,8 +137,8 @@
 [/us/usc/t15/s2643/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2643%2Fi%2F1
 [/us/usc/t15/s2643/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2643%2Fi%2F3
 [/us/usc/t15/s2645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2645
-[/us/pl/94/469/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs204
-[/us/pl/99/519/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs2
+[/us/pl/94/469/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtII
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2977
 
 

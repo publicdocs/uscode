@@ -167,7 +167,7 @@
 
             No rule adopted pursuant to this section shall be applied to any person with respect to the trading of security futures products on an exchange that is registered under [section 78f(g) of this title][/us/usc/t15/s78f/g] unless the Commodity Futures Trading Commission has issued an order directing that such rule is applicable to such persons.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 11A, as added [Pub. L. 94–29, § 7][/us/pl/94/29/s7], June 4, 1975, [89 Stat. 111][/us/stat/89/111]; amended [Pub. L. 98–620, title IV, § 402(14)][/us/pl/98/620/s402/14], Nov. 8, 1984, [98 Stat. 3358][/us/stat/98/3358]; [Pub. L. 100–181, title III][/us/pl/100/181], §§ 313, 314, Dec. 4, 1987, [101 Stat. 1256][/us/stat/101/1256]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–430; [Pub. L. 112–106, title I, § 106(b)][/us/pl/112/106/s106/b], Apr. 5, 2012, [126 Stat. 312][/us/stat/126/312].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 11A, as added [Pub. L. 94–29][/us/pl/94/29], § 7, June 4, 1975, [89 Stat. 111][/us/stat/89/111]; amended [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(14), Nov. 8, 1984, [98 Stat. 3358][/us/stat/98/3358]; [Pub. L. 100–181, title III][/us/pl/100/181/tIII], §§ 313, 314, Dec. 4, 1987, [101 Stat. 1256][/us/stat/101/1256]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 206(c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–430; [Pub. L. 112–106, title I][/us/pl/112/106/tI], § 106(b), Apr. 5, 2012, [126 Stat. 312][/us/stat/126/312].)
 
  __References in Text__ 
 
@@ -181,11 +181,11 @@
 
     2000—Subsec. (e). [Pub. L. 106–554][/us/pl/106/554] added subsec. (e).
 
-    1987—Subsec. (b)(2). [Pub. L. 100–181, § 313(1)][/us/pl/100/181/s313/1], substituted “transactions” for “transaction”.
+    1987—Subsec. (b)(2). [Pub. L. 100–181][/us/pl/100/181], § 313(1), substituted “transactions” for “transaction”.
 
-    Subsec. (c)(4). [Pub. L. 100–181, § 313(2)][/us/pl/100/181/s313/2], struck out “On or before the ninetieth day following June 4, 1975, the Commission shall (i) report to the Congress the results of its review, including the effects on competition of such rules, and (ii) commence a proceeding in accordance with the provisions of [section 78s(c) of this title][/us/usc/t15/s78s/c] to amend any such rule imposing a burden on competition which does not appear to the Commission to be necessary or appropriate in furtherance of the purposes of this chapter. The Commission shall conclude any such proceeding within ninety days of the date of publication of notice of its commencement.”
+    Subsec. (c)(4). [Pub. L. 100–181][/us/pl/100/181], § 313(2), struck out “On or before the ninetieth day following June 4, 1975, the Commission shall (i) report to the Congress the results of its review, including the effects on competition of such rules, and (ii) commence a proceeding in accordance with the provisions of [section 78s(c) of this title][/us/usc/t15/s78s/c] to amend any such rule imposing a burden on competition which does not appear to the Commission to be necessary or appropriate in furtherance of the purposes of this chapter. The Commission shall conclude any such proceeding within ninety days of the date of publication of notice of its commencement.”
 
-    Subsec. (e). [Pub. L. 100–181, § 314][/us/pl/100/181/s314], struck out subsec. (e) which read as follows: “The Commission is authorized and directed to make a study of the extent to which persons excluded from the definitions of ‘broker’ and ‘dealer’ maintain accounts on behalf of public customers for buying and selling securities registered under section 78l of this title and whether such exclusions are consistent with the protection of investors and the other purposes of this chapter. The Commission shall report to the Congress, on or before December 31, 1976, the results of its study together with such recommendations for legislation as it deems advisable.”
+    Subsec. (e). [Pub. L. 100–181][/us/pl/100/181], § 314, struck out subsec. (e) which read as follows: “The Commission is authorized and directed to make a study of the extent to which persons excluded from the definitions of ‘broker’ and ‘dealer’ maintain accounts on behalf of public customers for buying and selling securities registered under section 78l of this title and whether such exclusions are consistent with the protection of investors and the other purposes of this chapter. The Commission shall report to the Congress, on or before December 31, 1976, the results of its study together with such recommendations for legislation as it deems advisable.”
 
     1984—Subsec. (c)(4). [Pub. L. 98–620][/us/pl/98/620] struck out designation “(A)” after “(4)”, and struck out subpar. (B) which provided that review pursuant to [section 78y(b) of this title][/us/usc/t15/s78y/b] of any rule promulgated by the Commission in accordance with any proceeding commenced pursuant to this paragraph would, except as to causes the court considers of greater importance, take precedence on the docket over all other causes and had to be assigned for consideration at the earliest practicable date and expedited in every way.
 
@@ -210,25 +210,25 @@
 
 [/us/usc/t15/s78f/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78f%2Fg
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/94/29/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs7
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F111
-[/us/pl/98/620/s402/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F14
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3358
-[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtIII
 [/us/stat/101/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1256
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/112/106/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs106%2Fb
+[/us/pl/112/106/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtI
 [/us/stat/126/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F312
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/92/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F436
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/112/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/100/181/s313/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs313%2F1
-[/us/pl/100/181/s313/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs313%2F2
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/usc/t15/s78s/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78s%2Fc
-[/us/pl/100/181/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs314
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/usc/t15/s78y/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78y%2Fb
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620

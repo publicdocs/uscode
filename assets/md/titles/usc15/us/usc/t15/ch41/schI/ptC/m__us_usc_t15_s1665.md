@@ -17,7 +17,7 @@
 
     There is no liability under this part on the part of any owner or personnel, as such, of any medium in which an advertisement appears or through which it is disseminated.
 
-([Pub. L. 90–321, title I, § 145][/us/pl/90/321/s145], May 29, 1968, [82 Stat. 159][/us/stat/82/159].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 145, May 29, 1968, [82 Stat. 159][/us/stat/82/159].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/321/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs145
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
 [/us/stat/82/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F159
 
 

@@ -17,7 +17,7 @@
 
     The Secretary, acting in accordance with authority provided in the Federal Non-Nuclear Research and Development Act of 1974 ([42 U.S.C. 5901][/us/usc/t42/s5901] et seq.), except as otherwise provided in this chapter, shall establish a Metal Casting Competitiveness Research Program (hereafter in this chapter referred to as the “Program”) for the purpose of performing and promoting the performance of research and development on issues related to the technology competitiveness and energy efficiency of the United States metal casting industry.
 
-([Pub. L. 101–425, § 4][/us/pl/101/425/s4], Oct. 15, 1990, [104 Stat. 916][/us/stat/104/916].)
+([Pub. L. 101–425][/us/pl/101/425], § 4, Oct. 15, 1990, [104 Stat. 916][/us/stat/104/916].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5901
-[/us/pl/101/425/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F425%2Fs4
+[/us/pl/101/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F425
 [/us/stat/104/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F916
 [/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
 [/us/stat/88/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1878

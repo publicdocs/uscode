@@ -19,7 +19,7 @@
 
     (b) Photostatic or other copies of information contained in documents filed with the Commission under this subchapter and made available to the public shall be furnished any person at such reasonable charge and under such reasonable limitations as the Commission shall prescribe.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 45, [54 Stat. 845][/us/stat/54/845]; [Pub. L. 101–550, title II, § 202(b)(1)][/us/pl/101/550/s202/b/1], Nov. 15, 1990, [104 Stat. 2715][/us/stat/104/2715].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 45, [54 Stat. 845][/us/stat/54/845]; [Pub. L. 101–550, title II][/us/pl/101/550/tII], § 202(b)(1), Nov. 15, 1990, [104 Stat. 2715][/us/stat/104/2715].)
 
  __Amendments__ 
 
@@ -39,7 +39,7 @@
 [/us/usc/t15/s78x/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78x%2Fc
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F845
-[/us/pl/101/550/s202/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs202%2Fb%2F1
+[/us/pl/101/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtII
 [/us/stat/104/2715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2715
 [/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
 [/us/usc/t15/s78x/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78x%2Fc

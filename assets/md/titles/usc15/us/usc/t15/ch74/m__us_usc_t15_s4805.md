@@ -35,11 +35,11 @@
 
         Upon request of the Council, the head of any other Federal agency is authorized to detail, on a reimbursable basis, any of the personnel of such agency to the Council to assist the Council in carrying out its duties under this chapter.
 
-([Pub. L. 100–418, title V, § 5206][/us/pl/100/418/s5206], Aug. 23, 1988, [102 Stat. 1459][/us/stat/102/1459]; [Pub. L. 101–382, title I, § 133(b)][/us/pl/101/382/s133/b], Aug. 20, 1990, [104 Stat. 648][/us/stat/104/648].)
+([Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5206, Aug. 23, 1988, [102 Stat. 1459][/us/stat/102/1459]; [Pub. L. 101–382, title I][/us/pl/101/382/tI], § 133(b), Aug. 20, 1990, [104 Stat. 648][/us/stat/104/648].)
 
  __References in Text__ 
 
-    The Ethics in Government Act of 1978, referred to in subsec. (b)(2), is [Pub. L. 95–521][/us/pl/95/521], Oct. 26, 1978, [92 Stat. 1824][/us/stat/92/1824], as amended. Title II of the Ethics in Government Act of 1978 was set out in the Appendix to Title 5, prior to repeal by [Pub. L. 101–194, title II, § 201][/us/pl/101/194/s201], Nov. 30, 1989, [103 Stat. 1724][/us/stat/103/1724]. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Pub. L. 95–521][/us/pl/95/521/s101] in the Appendix to Title 5 and Tables.
+    The Ethics in Government Act of 1978, referred to in subsec. (b)(2), is [Pub. L. 95–521][/us/pl/95/521], Oct. 26, 1978, [92 Stat. 1824][/us/stat/92/1824], as amended. Title II of the Ethics in Government Act of 1978 was set out in the Appendix to Title 5, prior to repeal by [Pub. L. 101–194, title II][/us/pl/101/194/tII], § 201, Nov. 30, 1989, [103 Stat. 1724][/us/stat/103/1724]. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Pub. L. 95–521][/us/pl/95/521/s101] in the Appendix to Title 5 and Tables.
 
  __Amendments__ 
 
@@ -58,13 +58,13 @@
 
 [/us/usc/t18/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs202
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
-[/us/pl/100/418/s5206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5206
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1459
-[/us/pl/101/382/s133/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs133%2Fb
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F648
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
-[/us/pl/101/194/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs201
+[/us/pl/101/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2FtII
 [/us/stat/103/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1724
 [/us/pl/95/521/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs101
 [/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382

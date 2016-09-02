@@ -17,7 +17,7 @@
 
     The Secretary is authorized to issue such rules and regulations as he deems necessary to carry out the provisions of this chapter.
 
-([Pub. L. 91–540, § 9][/us/pl/91/540/s9], Dec. 9, 1970, [84 Stat. 1406][/us/stat/84/1406].)
+([Pub. L. 91–540][/us/pl/91/540], § 9, Dec. 9, 1970, [84 Stat. 1406][/us/stat/84/1406].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/540/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F540%2Fs9
+[/us/pl/91/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F540
 [/us/stat/84/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1406
 
 

@@ -45,7 +45,7 @@
 
         The board shall direct the exercise of all the powers of the corporation.
 
-([June 10, 1930, ch. 440, § 2][/us/act/1930-06-10/ch440/s2], [46 Stat. 539][/us/stat/46/539].)
+([June 10, 1930, ch. 440][/us/act/1930-06-10/ch440], § 2, [46 Stat. 539][/us/stat/46/539].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/act/1930-06-10/ch440/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch440%2Fs2
+[/us/act/1930-06-10/ch440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch440
 [/us/stat/46/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F539
 
 

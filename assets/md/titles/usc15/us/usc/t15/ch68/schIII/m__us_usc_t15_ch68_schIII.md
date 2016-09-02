@@ -11,53 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch68/schII/m__us_usc_t15_ch68_schII.md) | [Next](./../../../../..//us/usc/t15/ch68/schIV/m__us_usc_t15_ch68_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch68%2FschIII)
+[Previous](./../../../../..//us/usc/t15/ch68/schII/m__us_usc_t15_s4211...4215.md) | [Next](./../../../../..//us/usc/t15/ch68/schIII/m__us_usc_t15_s4221...4228.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch68%2FschIII)
 
 ### SUBCHAPTER III—PROVISION OF DATA CONTINUITY AFTER THE LANDSAT SYSTEM
 
-§§ 4221 to 4228. __Repealed.__  __[__  __Pub. L. 102–555, § 4__  __][/us/pl/102/555/s4]__  __,__  __Oct. 28, 1992__  __,__  __[__  __106 Stat. 4166__  __][/us/stat/106/4166]__ 
-
-    Section 4221, [Pub. L. 98–365, title III, § 301][/us/pl/98/365/s301], July 17, 1984, [98 Stat. 456][/us/stat/98/456], related to purposes and definition for subchapter.
-
-    Section 4222, [Pub. L. 98–365, title III, § 302][/us/pl/98/365/s302], July 17, 1984, [98 Stat. 456][/us/stat/98/456], related to data continuity and availability.
-
-    Section 4223, [Pub. L. 98–365, title III, § 303][/us/pl/98/365/s303], July 17, 1984, [98 Stat. 456][/us/stat/98/456], related to awarding of contract for provision of data continuity.
-
-    Section 4224, [Pub. L. 98–365, title III, § 304][/us/pl/98/365/s304], July 17, 1984, [98 Stat. 458][/us/stat/98/458], related to terms of data continuity contract and determination by Secretary of Commerce as to whether contract meets purposes of subchapter.
-
-    Section 4225, [Pub. L. 98–365, title III, § 305][/us/pl/98/365/s305], July 17, 1984, [98 Stat. 458][/us/stat/98/458], related to marketing of land remote-sensing data, incentive provisions for such activity, and continuation by contractor of data sales or operation of civil remote-sensing systems.
-
-    Section 4226, [Pub. L. 98–365, title III, § 306][/us/pl/98/365/s306], July 17, 1984, [98 Stat. 459][/us/stat/98/459], related to Secretary’s report on progress towards privitization of remote-sensing space systems.
-
-    Section 4227, [Pub. L. 98–365, title III, § 307][/us/pl/98/365/s307], July 17, 1984, [98 Stat. 459][/us/stat/98/459], related to termination of chapter.
-
-    Section 4228, [Pub. L. 98–365, title III, § 308][/us/pl/98/365/s308], as added [Pub. L. 100–147, title III, § 305][/us/pl/100/147/s305], Oct. 30, 1987, [101 Stat. 876][/us/stat/101/876], related to disposition of government assets following completion of contract made pursuant to subchapter.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch68/schII/m__us_usc_t15_ch68_schII.md) | [Next](./../../../../..//us/usc/t15/ch68/schIV/m__us_usc_t15_ch68_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch68%2FschIII)
+[Previous](./../../../../..//us/usc/t15/ch68/schII/m__us_usc_t15_s4211...4215.md) | [Next](./../../../../..//us/usc/t15/ch68/schIII/m__us_usc_t15_s4221...4228.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch68%2FschIII)
 
 ----------
 ----------
 
-[/us/pl/102/555/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F555%2Fs4
-[/us/stat/106/4166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4166
-[/us/pl/98/365/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs301
-[/us/stat/98/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F456
-[/us/pl/98/365/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs302
-[/us/stat/98/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F456
-[/us/pl/98/365/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs303
-[/us/stat/98/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F456
-[/us/pl/98/365/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs304
-[/us/stat/98/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F458
-[/us/pl/98/365/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs305
-[/us/stat/98/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F458
-[/us/pl/98/365/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs306
-[/us/stat/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F459
-[/us/pl/98/365/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs307
-[/us/stat/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F459
-[/us/pl/98/365/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs308
-[/us/pl/100/147/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F147%2Fs305
-[/us/stat/101/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F876
 
 

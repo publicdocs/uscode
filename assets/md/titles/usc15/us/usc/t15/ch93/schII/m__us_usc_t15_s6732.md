@@ -67,7 +67,7 @@
 
             The reorganization is approved as fair and equitable to the policyholders by the insurance regulator of the transferee domicile.
 
-([Pub. L. 106–102, title III, § 312][/us/pl/106/102/s312], Nov. 12, 1999, [113 Stat. 1417][/us/stat/113/1417].)
+([Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 312, Nov. 12, 1999, [113 Stat. 1417][/us/stat/113/1417].)
 
 ----------
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/106/102/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs312
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1417
 
 

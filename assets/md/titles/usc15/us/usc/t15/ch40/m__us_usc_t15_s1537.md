@@ -41,7 +41,7 @@
 
         (D) provide an implementation schedule and estimate funding levels necessary to achieve modernization and improvement objectives.
 
-([Pub. L. 102–567, title I, § 106(c)][/us/pl/102/567/s106/c], Oct. 29, 1992, [106 Stat. 4274][/us/stat/106/4274].)
+([Pub. L. 102–567, title I][/us/pl/102/567/tI], § 106(c), Oct. 29, 1992, [106 Stat. 4274][/us/stat/106/4274].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/102/567/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs106%2Fc
+[/us/pl/102/567/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtI
 [/us/stat/106/4274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4274
 
 

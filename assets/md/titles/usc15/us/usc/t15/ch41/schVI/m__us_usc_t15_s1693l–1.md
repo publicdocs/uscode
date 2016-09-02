@@ -169,7 +169,7 @@
 
             The regulations required by this subsection shall be issued in final form not later than 9 months after May 22, 2009.
 
-([Pub. L. 90–321, title IX, § 915][/us/pl/90/321/s915], as added [Pub. L. 111–24, title IV, § 401(2)][/us/pl/111/24/s401/2], May 22, 2009, [123 Stat. 1751][/us/stat/123/1751]; amended [Pub. L. 111–203, title X, § 1084(1)][/us/pl/111/203/s1084/1], July 21, 2010, [124 Stat. 2081][/us/stat/124/2081].)
+([Pub. L. 90–321, title IX][/us/pl/90/321/tIX], § 915, as added [Pub. L. 111–24, title IV][/us/pl/111/24/tIV], § 401(2), May 22, 2009, [123 Stat. 1751][/us/stat/123/1751]; amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1084(1), July 21, 2010, [124 Stat. 2081][/us/stat/124/2081].)
 
  __Prior Provisions__ 
 
@@ -185,7 +185,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 111–24, title IV, § 403][/us/pl/111/24/s403], as added by [Pub. L. 111–209, § 1][/us/pl/111/209/s1], July 27, 2010, [124 Stat. 2254][/us/stat/124/2254], provided that:
+[Pub. L. 111–24, title IV][/us/pl/111/24/tIV], § 403, as added by [Pub. L. 111–209][/us/pl/111/209], § 1, July 27, 2010, [124 Stat. 2254][/us/stat/124/2254], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -219,7 +219,7 @@
 
 >         The notice requirements in paragraph (2) of this subsection shall continue until January 31, 2013.”
 
-    [Pub. L. 111–24, title IV, § 403][/us/pl/111/24/s403], May 22, 2009, [123 Stat. 1754][/us/stat/123/1754], which provided that title IV of [Pub. L. 111–24][/us/pl/111/24] was to become effective 15 months after May 22, 2009, was repealed by [Pub. L. 111–209, § 1][/us/pl/111/209/s1], July 27, 2010, [124 Stat. 2254][/us/stat/124/2254].
+    [Pub. L. 111–24, title IV][/us/pl/111/24/tIV], § 403, May 22, 2009, [123 Stat. 1754][/us/stat/123/1754], which provided that title IV of [Pub. L. 111–24][/us/pl/111/24] was to become effective 15 months after May 22, 2009, was repealed by [Pub. L. 111–209][/us/pl/111/209], § 1, July 27, 2010, [124 Stat. 2254][/us/stat/124/2254].
 
 ----------
 
@@ -228,10 +228,10 @@
 ----------
 ----------
 
-[/us/pl/90/321/s915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs915
-[/us/pl/111/24/s401/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs401%2F2
+[/us/pl/90/321/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIX
+[/us/pl/111/24/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtIV
 [/us/stat/123/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1751
-[/us/pl/111/203/s1084/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2081
 [/us/pl/90/321/s915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs915
 [/us/usc/t15/s1693m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693m
@@ -239,17 +239,17 @@
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/111/24/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs403
-[/us/pl/111/209/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F209%2Fs1
+[/us/pl/111/24/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtIV
+[/us/pl/111/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F209
 [/us/stat/124/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2254
 [/us/usc/t15/s1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693
 [/us/usc/t15/s1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693
 [/us/usc/t15/s1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693
 [/us/usc/t15/s1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693
-[/us/pl/111/24/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs403
+[/us/pl/111/24/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtIV
 [/us/stat/123/1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1754
 [/us/pl/111/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24
-[/us/pl/111/209/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F209%2Fs1
+[/us/pl/111/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F209
 [/us/stat/124/2254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2254
 
 

@@ -41,7 +41,7 @@
 
         (3) the actions taken by the Director to ensure stable funding of this Office.
 
-([Pub. L. 108–153, § 3][/us/pl/108/153/s3], Dec. 3, 2003, [117 Stat. 1926][/us/stat/117/1926].)
+([Pub. L. 108–153][/us/pl/108/153], § 3, Dec. 3, 2003, [117 Stat. 1926][/us/stat/117/1926].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/pl/108/7/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs631
-[/us/pl/108/153/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F153%2Fs3
+[/us/pl/108/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F153
 [/us/stat/117/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1926
 [/us/pl/108/7/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs631
 [/us/pl/108/7/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs631

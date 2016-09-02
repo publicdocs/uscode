@@ -25,7 +25,7 @@
 
     (4) The term “Commission” means the Federal Trade Commission.
 
-([Pub. L. 102–556, title II, § 204][/us/pl/102/556/s204], Oct. 28, 1992, [106 Stat. 4191][/us/stat/106/4191]; [Pub. L. 104–104, title VII, § 701(b)(1)][/us/pl/104/104/s701/b/1], Feb. 8, 1996, [110 Stat. 147][/us/stat/110/147].)
+([Pub. L. 102–556, title II][/us/pl/102/556/tII], § 204, Oct. 28, 1992, [106 Stat. 4191][/us/stat/106/4191]; [Pub. L. 104–104, title VII][/us/pl/104/104/tVII], § 701(b)(1), Feb. 8, 1996, [110 Stat. 147][/us/stat/110/147].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 [/us/usc/t47/s228/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs228%2Fi
 [/us/usc/t47/s228/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs228%2Fi%2F1
 [/us/usc/t15/s5711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5711%2Fa
-[/us/pl/102/556/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2Fs204
+[/us/pl/102/556/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2FtII
 [/us/stat/106/4191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4191
-[/us/pl/104/104/s701/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2Fs701%2Fb%2F1
+[/us/pl/104/104/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104%2FtVII
 [/us/stat/110/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F147
 [/us/pl/104/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F104
 [/us/usc/t47/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs228

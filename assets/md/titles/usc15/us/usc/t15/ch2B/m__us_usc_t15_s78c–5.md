@@ -103,7 +103,7 @@
 
         A security-based swap, as defined in [section 78c(a)(68) of this title][/us/usc/t15/s78c/a/68] shall be considered to be a security as such term is used in section 101(53A)(B) and subchapter III of title 11. <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  An account that holds a security-based swap, other than a portfolio margining account referred to in section 78o(c)(3)(C) of this title shall be considered to be a securities account, as that term is defined in [section 741 of title 11][/us/usc/t11/s741]. The definitions of the terms “purchase” and “sale” in section 78c(a)(13) and (14) of this title shall be applied to the terms “purchase” and “sale”, as used in [section 741 of title 11][/us/usc/t11/s741]. The term “customer”, as defined in [section 741 of title 11][/us/usc/t11/s741], excludes any person, to the extent that such person has a claim based on any open repurchase agreement, open reverse repurchase agreement, stock borrowed agreement, non-cleared option, or non-cleared security-based swap except to the extent of any margin delivered to or by the customer with respect to which there is a customer protection requirement under section 78o(c)(3) of this title or a segregation requirement.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 3E, as added [Pub. L. 111–203, title VII, § 763(d)][/us/pl/111/203/s763/d], July 21, 2010, [124 Stat. 1774][/us/stat/124/1774].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 3E, as added [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 763(d), July 21, 2010, [124 Stat. 1774][/us/stat/124/1774].)
 
  __References in Text__ 
 
@@ -125,7 +125,7 @@
 [/us/usc/t11/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs741
 [/us/usc/t11/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs741
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/111/203/s763/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs763%2Fd
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1774
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

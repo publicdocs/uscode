@@ -115,15 +115,15 @@
 
         (2) In the course of attending any such meeting, an alternate representative shall be considered a member of the Council for all purposes, except for voting.
 
-([Pub. L. 100–418, title V, § 5205][/us/pl/100/418/s5205], Aug. 23, 1988, [102 Stat. 1457][/us/stat/102/1457]; [Pub. L. 101–382, title I, § 133(a)][/us/pl/101/382/s133/a], Aug. 20, 1990, [104 Stat. 648][/us/stat/104/648]; [Pub. L. 104–65, § 12(a)][/us/pl/104/65/s12/a], Dec. 19, 1995, [109 Stat. 701][/us/stat/109/701].)
+([Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5205, Aug. 23, 1988, [102 Stat. 1457][/us/stat/102/1457]; [Pub. L. 101–382, title I][/us/pl/101/382/tI], § 133(a), Aug. 20, 1990, [104 Stat. 648][/us/stat/104/648]; [Pub. L. 104–65][/us/pl/104/65], § 12(a), Dec. 19, 1995, [109 Stat. 701][/us/stat/109/701].)
 
  __Amendments__ 
 
     1995—Subsec. (e). [Pub. L. 104–65][/us/pl/104/65], which directed amendment of section “5206(e) of the Competitiveness Policy Council Act ([15 U.S.C. 4804(e)][/us/usc/t15/s4804/e])” by inserting “or a lobbyist for a foreign entity (as the terms ‘lobbyist’ and ‘foreign entity’ are defined under [section 1602 of title 2][/us/usc/t2/s1602])” after “an agent for a foreign principal”, was executed to section 5205(e) of such Act, which is subsec. (e) of this section, to reflect the probable intent of Congress.
 
-    1990—Subsec. (b). [Pub. L. 101–382, § 133(a)(1)][/us/pl/101/382/s133/a/1], substituted reference to Aug. 20, 1990, for reference to Jan. 21, 1989.
+    1990—Subsec. (b). [Pub. L. 101–382][/us/pl/101/382], § 133(a)(1), substituted reference to Aug. 20, 1990, for reference to Jan. 21, 1989.
 
-    Subsec. (e). [Pub. L. 101–382, § 133(a)(2)][/us/pl/101/382/s133/a/2], added subsec. (e) and struck out former subsec. (e) which read as follows:
+    Subsec. (e). [Pub. L. 101–382][/us/pl/101/382], § 133(a)(2), added subsec. (e) and struck out former subsec. (e) which read as follows:
 
     “(1) A member of the Council may not serve as an agent for a foreign principal.
 
@@ -131,7 +131,7 @@
 
     “(3) Members of the Council shall be deemed to be special Government employees, as defined in [section 202 of title 18][/us/usc/t18/s202], for purposes of sections 201, 202, 203, 205, and 208 of such title.”
 
-    Subsec. (f). [Pub. L. 101–382, § 133(a)(2)][/us/pl/101/382/s133/a/2], added subsec. (f) and struck out former subsec. (f) “Compensation” which read as follows:
+    Subsec. (f). [Pub. L. 101–382][/us/pl/101/382], § 133(a)(2), added subsec. (f) and struck out former subsec. (f) “Compensation” which read as follows:
 
     “(1) Each member of the Council who is not employed by the Federal Government or any State or local government—
 
@@ -141,9 +141,9 @@
 
     “(2) Each member of the Council who is employed by the Federal Government or any State or local government shall serve on the Council without additional compensation, but while engaged in duties as a member of the Council shall be paid actual travel expenses, and per diem in lieu of subsistence expenses when away from the usual place of residence of such member, in accordance with subchapter I of chapter 57 of title 5.”
 
-    Subsec. (l). [Pub. L. 101–382, § 133(a)(3)][/us/pl/101/382/s133/a/3], struck out subsec. (l) which read as follows: “The Council may procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b], but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of basic pay for GS–16 of the General Schedule.”
+    Subsec. (l). [Pub. L. 101–382][/us/pl/101/382], § 133(a)(3), struck out subsec. (l) which read as follows: “The Council may procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b], but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of basic pay for GS–16 of the General Schedule.”
 
-    Subsec. (m). [Pub. L. 101–382, § 133(a)(3)][/us/pl/101/382/s133/a/3], struck out subsec. (m) which read as follows: “Upon request of the Council, the head of any other Federal agency is authorized to detail, on a reimbursable basis, any of the personnel of such agency to the Council to assist the Council in carrying out its duties under this chapter.”
+    Subsec. (m). [Pub. L. 101–382][/us/pl/101/382], § 133(a)(3), struck out subsec. (m) which read as follows: “Upon request of the Council, the head of any other Federal agency is authorized to detail, on a reimbursable basis, any of the personnel of such agency to the Council to assist the Council in carrying out its duties under this chapter.”
 
  __Effective Date of 1995 Amendment__ 
 
@@ -157,24 +157,24 @@
 ----------
 
 [/us/usc/t2/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1602
-[/us/pl/100/418/s5205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5205
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1457
-[/us/pl/101/382/s133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs133%2Fa
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F648
-[/us/pl/104/65/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs12%2Fa
+[/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/stat/109/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F701
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/usc/t15/s4804/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4804%2Fe
 [/us/usc/t2/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1602
-[/us/pl/101/382/s133/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs133%2Fa%2F1
-[/us/pl/101/382/s133/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs133%2Fa%2F2
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/usc/t18/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs202
-[/us/pl/101/382/s133/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs133%2Fa%2F2
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/101/382/s133/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs133%2Fa%2F3
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/usc/t5/s3109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109%2Fb
-[/us/pl/101/382/s133/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs133%2Fa%2F3
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 [/us/pl/104/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65
 [/us/pl/104/65/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs24
 [/us/usc/t2/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1601

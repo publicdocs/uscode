@@ -73,7 +73,7 @@
 
         To enable the Council to exercise its powers, functions, and duties under this chapter, there are authorized to be appropriated such sums as may be necessary.
 
-([Feb. 20, 1946, ch. 33, § 10][/us/act/1946-02-20/ch33/s10], formerly § 4, [60 Stat. 24][/us/stat/60/24]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Pub. L. 87–49][/us/pl/87/49], June 16, 1961, [75 Stat. 93][/us/stat/75/93]; renumbered § 10 and amended [Pub. L. 95–523, title I][/us/pl/95/523], §§ 104, 110, Oct. 27, 1978, [92 Stat. 1893][/us/stat/92/1893], 1899; [Pub. L. 112–166, § 2][/us/pl/112/166/s2](o), Aug. 10, 2012, [126 Stat. 1287][/us/stat/126/1287].)
+([Feb. 20, 1946, ch. 33][/us/act/1946-02-20/ch33], § 10, formerly § 4, [60 Stat. 24][/us/stat/60/24]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Pub. L. 87–49][/us/pl/87/49], June 16, 1961, [75 Stat. 93][/us/stat/75/93]; renumbered § 10 and amended [Pub. L. 95–523, title I][/us/pl/95/523/tI], §§ 104, 110, Oct. 27, 1978, [92 Stat. 1893][/us/stat/92/1893], 1899; [Pub. L. 112–166][/us/pl/112/166], § 2(o), Aug. 10, 2012, [126 Stat. 1287][/us/stat/126/1287].)
 
  __References in Text__ 
 
@@ -85,17 +85,17 @@
 
     In subsec. (b), provisions that authorized the Council to fix the compensation of such specialists and other experts as may be necessary for the carrying out of its functions under this chapter, without regard to “the Classification Act of 1923, as amended”, were omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, [63 Stat. 972][/us/stat/63/972], 973, repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exceptions contained in this subsection because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, § 8(a), [80 Stat. 632][/us/stat/80/632] (of which section 1 revised and enacted Title 5, Government Organization and Employees, into law). [Section 5102 of Title 5][/us/usc/t5/s5102] contains the applicability provisions of the 1949 Act, and [section 5103 of Title 5][/us/usc/t5/s5103] authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
-    “Chapter 51 and subchapter III of chapter 53 of title 5” substituted in subsec. (b) for “the Classification Act of 1949” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5.
+    “Chapter 51 and subchapter III of chapter 53 of title 5” substituted in subsec. (b) for “the Classification Act of 1949” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5.
 
  __Amendments__ 
 
     2012—Subsec. (a). [Pub. L. 112–166][/us/pl/112/166] added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “There is created in the Executive Office of the President a Council of Economic Advisers (hereinafter called the “Council”). The Council shall be composed of three members who shall be appointed by the President by and with the advice and consent of the Senate, and each of whom shall be a person who, as a result of his training, experience, and attainments, is exceptionally qualified to analyze and interpret economic developments, to appraise programs and activities of the Government in the light of the policy declared in [section 1021 of this title][/us/usc/t15/s1021], and to formulate and recommend national economic policy to promote full employment, production, and purchasing power under free competitive enterprise. The President shall designate one of the members of the Council as chairman and one as vice chairman, who shall act as chairman in the absence of the chairman.”
 
-    1978—Subsec. (a). [Pub. L. 95–523, § 110(a)(1)][/us/pl/95/523/s110/a/1], inserted “full” after “policy to promote”.
+    1978—Subsec. (a). [Pub. L. 95–523][/us/pl/95/523], § 110(a)(1), inserted “full” after “policy to promote”.
 
-    Subsec. (c)(4). [Pub. L. 95–523, § 110(a)(2)][/us/pl/95/523/s110/a/2], inserted “including small and larger business” after “free competitive enterprise” and inserted “full” after “and to maintain”.
+    Subsec. (c)(4). [Pub. L. 95–523][/us/pl/95/523], § 110(a)(2), inserted “including small and larger business” after “free competitive enterprise” and inserted “full” after “and to maintain”.
 
-    Subsec. (e). [Pub. L. 95–523, § 110(a)(3)][/us/pl/95/523/s110/a/3], (4), inserted in par. (1) “, and shall consult with the board or boards established under [section 1022f of this title][/us/usc/t15/s1022f]” after “as it deems advisable” and after par. (2) inserted provisions authorizing and directing the Council to seek and obtain the cooperation of executive and independent agencies in the development of specialized studies essential to its responsibilities.
+    Subsec. (e). [Pub. L. 95–523][/us/pl/95/523], § 110(a)(3), (4), inserted in par. (1) “, and shall consult with the board or boards established under [section 1022f of this title][/us/usc/t15/s1022f]” after “as it deems advisable” and after par. (2) inserted provisions authorizing and directing the Council to seek and obtain the cooperation of executive and independent agencies in the development of specialized studies essential to its responsibilities.
 
     1961—Subsec. (f). [Pub. L. 87–49][/us/pl/87/49] struck out provisions which limited the appropriations for salaries of the members and officers and employees of the Council to not more than $345,000 for each fiscal year.
 
@@ -235,15 +235,15 @@
 [/us/usc/t15/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1021
 [/us/usc/t15/s1022f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1022f
 [/us/usc/t15/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3101
-[/us/act/1946-02-20/ch33/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-20%2Fch33%2Fs10
+[/us/act/1946-02-20/ch33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-20%2Fch33
 [/us/stat/60/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F24
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
 [/us/pl/87/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F49
 [/us/stat/75/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F93
-[/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
+[/us/pl/95/523/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2FtI
 [/us/stat/92/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1893
-[/us/pl/112/166/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1287
 [/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
 [/us/stat/92/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1887
@@ -253,13 +253,13 @@
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
 [/us/usc/t5/s5102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5102
 [/us/usc/t5/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5103
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/usc/t15/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1021
-[/us/pl/95/523/s110/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs110%2Fa%2F1
-[/us/pl/95/523/s110/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs110%2Fa%2F2
-[/us/pl/95/523/s110/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs110%2Fa%2F3
+[/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
+[/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
+[/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
 [/us/usc/t15/s1022f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1022f
 [/us/pl/87/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F49
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166

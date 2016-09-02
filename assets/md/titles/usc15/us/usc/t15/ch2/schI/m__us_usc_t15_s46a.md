@@ -17,7 +17,7 @@
 
     After June 16, 1933, no new investigations shall be initiated by the Commission as the result of a legislative resolution, except the same be a concurrent resolution of the two Houses of Congress.
 
-([June 16, 1933, ch. 101, § 1][/us/act/1933-06-16/ch101/s1], [48 Stat. 291][/us/stat/48/291].)
+([June 16, 1933, ch. 101][/us/act/1933-06-16/ch101], § 1, [48 Stat. 291][/us/stat/48/291].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1933-06-16/ch101/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch101%2Fs1
+[/us/act/1933-06-16/ch101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch101
 [/us/stat/48/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F291
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41

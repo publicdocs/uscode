@@ -39,7 +39,7 @@
 
         Funds collected under this section shall be deposited in the account for salaries and expenses of the Small Business Administration.
 
-([Pub. L. 85–699, title III, § 362][/us/pl/85/699/s362], as added [Pub. L. 106–554, § 1(a)(8)][/us/pl/106/554/s1/a/8] \[§ 1(b)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–662.)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 362, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(8) \[§ 1(b)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–662.)
 
 ----------
 
@@ -48,8 +48,8 @@
 ----------
 ----------
 
-[/us/pl/85/699/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs362
-[/us/pl/106/554/s1/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F8
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

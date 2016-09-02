@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch10/m__us_usc_t15_ch10.md) | [Next](./../../../..//us/usc/t15/ch10A/m__us_usc_t15_s375.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch10A)
+[Previous](./../../../..//us/usc/t15/ch10/m__us_usc_t15_s331...374.md) | [Next](./../../../..//us/usc/t15/ch10A/m__us_usc_t15_s375.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch10A)
 
 ## CHAPTER 10A—COLLECTION OF STATE CIGARETTE TAXES
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch10/m__us_usc_t15_ch10.md) | [Next](./../../../..//us/usc/t15/ch10A/m__us_usc_t15_s375.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch10A)
+[Previous](./../../../..//us/usc/t15/ch10/m__us_usc_t15_s331...374.md) | [Next](./../../../..//us/usc/t15/ch10A/m__us_usc_t15_s375.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch10A)
 
 ----------
 ----------

@@ -17,7 +17,7 @@
 
     In carrying out the Initiative, the Secretary of Energy shall ensure that unnecessary duplicative research is not performed at the research facilities (including the national laboratories of the Department of Energy) that are participating in the Initiative.
 
-([Pub. L. 100–180, div. C, title I, § 3149][/us/pl/100/180/s3149], Dec. 4, 1987, [101 Stat. 1244][/us/stat/101/1244].)
+([Pub. L. 100–180, div. C, title I][/us/pl/100/180/dC/tI], § 3149, Dec. 4, 1987, [101 Stat. 1244][/us/stat/101/1244].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/180/s3149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3149
+[/us/pl/100/180/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdC%2FtI
 [/us/stat/101/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1244
 
 

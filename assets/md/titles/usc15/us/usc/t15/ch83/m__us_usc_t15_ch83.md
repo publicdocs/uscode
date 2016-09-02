@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch82/schVI/m__us_usc_t15_ch82_schVI.md) | [Next](./../../../..//us/usc/t15/ch83/m__us_usc_t15_s5701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch83)
+[Previous](./../../../..//us/usc/t15/ch82/schVI/m__us_usc_t15_s5671 _us_usc_t15_s5672.md) | [Next](./../../../..//us/usc/t15/ch83/m__us_usc_t15_s5701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch83)
 
 ## CHAPTER 83—TELEPHONE DISCLOSURE AND DISPUTE RESOLUTION
 
@@ -115,7 +115,7 @@ SUBCHAPTER II—BILLING AND COLLECTION  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch82/schVI/m__us_usc_t15_ch82_schVI.md) | [Next](./../../../..//us/usc/t15/ch83/m__us_usc_t15_s5701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch83)
+[Previous](./../../../..//us/usc/t15/ch82/schVI/m__us_usc_t15_s5671 _us_usc_t15_s5672.md) | [Next](./../../../..//us/usc/t15/ch83/m__us_usc_t15_s5701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch83)
 
 ----------
 ----------

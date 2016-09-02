@@ -137,7 +137,7 @@
 
                 The Federal Coordinator is authorized to use, without further appropriation, amounts collected under subparagraph (A) to carry out this section.
 
-([Pub. L. 108–324, div. C, § 106][/us/pl/108/324/s106], Oct. 13, 2004, [118 Stat. 1259][/us/stat/118/1259]; [Pub. L. 109–148, div. A, title VIII, § 8128][/us/pl/109/148/s8128], Dec. 30, 2005, [119 Stat. 2731][/us/stat/119/2731]; [Pub. L. 110–140, title VIII, § 802][/us/pl/110/140/s802], Dec. 19, 2007, [121 Stat. 1717][/us/stat/121/1717].)
+([Pub. L. 108–324, div. C][/us/pl/108/324/dC], § 106, Oct. 13, 2004, [118 Stat. 1259][/us/stat/118/1259]; [Pub. L. 109–148, div. A, title VIII][/us/pl/109/148/dA/tVIII], § 8128, Dec. 30, 2005, [119 Stat. 2731][/us/stat/119/2731]; [Pub. L. 110–140, title VIII][/us/pl/110/140/tVIII], § 802, Dec. 19, 2007, [121 Stat. 1717][/us/stat/121/1717].)
 
  __References in Text__ 
 
@@ -176,11 +176,11 @@
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t43/s1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1734
 [/us/usc/t43/s1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1734
-[/us/pl/108/324/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs106
+[/us/pl/108/324/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2FdC
 [/us/stat/118/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1259
-[/us/pl/109/148/s8128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2Fs8128
+[/us/pl/109/148/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F148%2FdA%2FtVIII
 [/us/stat/119/2731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2731
-[/us/pl/110/140/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs802
+[/us/pl/110/140/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtVIII
 [/us/stat/121/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1717
 [/us/pl/108/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324
 [/us/stat/118/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1255

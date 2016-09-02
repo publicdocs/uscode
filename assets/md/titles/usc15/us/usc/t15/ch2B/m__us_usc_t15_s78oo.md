@@ -45,7 +45,7 @@
 
             The term “Federal Home Loan Mortgage Corporation” means the corporation created by the Federal Home Loan Mortgage Corporation Act \[[12 U.S.C. 1451][/us/usc/t12/s1451] et seq.\].
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 38, as added [Pub. L. 110–289, div. A, title I, § 1112][/us/pl/110/289/s1112], July 30, 2008, [122 Stat. 2677][/us/stat/122/2677].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 38, as added [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1112, July 30, 2008, [122 Stat. 2677][/us/stat/122/2677].)
 
  __References in Text__ 
 
@@ -71,7 +71,7 @@
 [/us/usc/t12/s1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1716
 [/us/usc/t12/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1451
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/110/289/s1112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1112
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2677
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847

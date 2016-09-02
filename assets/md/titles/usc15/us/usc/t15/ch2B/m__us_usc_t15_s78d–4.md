@@ -61,7 +61,7 @@
 
         The activities of the Inspector General under this subsection shall be funded by the Securities and Exchange Commission Investor Protection Fund established under [section 78u–6 of this title][/us/usc/t15/s78u–6].
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 4D, as added [Pub. L. 111–203, title IX, § 966][/us/pl/111/203/s966], July 21, 2010, [124 Stat. 1912][/us/stat/124/1912].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 4D, as added [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 966, July 21, 2010, [124 Stat. 1912][/us/stat/124/1912].)
 
  __Effective Date__ 
 
@@ -76,7 +76,7 @@
 
 [/us/usc/t15/s78u–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78u%E2%80%936
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/111/203/s966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs966
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1912
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

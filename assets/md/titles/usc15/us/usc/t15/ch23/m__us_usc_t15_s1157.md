@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to repeal or amend any other legislation pertaining to the Department of Commerce or its component offices or bureaus.
 
-([Sept. 9, 1950, ch. 936, § 7][/us/act/1950-09-09/ch936/s7], [64 Stat. 824][/us/stat/64/824].)
+([Sept. 9, 1950, ch. 936][/us/act/1950-09-09/ch936], § 7, [64 Stat. 824][/us/stat/64/824].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1950-09-09/ch936/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-09%2Fch936%2Fs7
+[/us/act/1950-09-09/ch936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-09%2Fch936
 [/us/stat/64/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F824
 
 

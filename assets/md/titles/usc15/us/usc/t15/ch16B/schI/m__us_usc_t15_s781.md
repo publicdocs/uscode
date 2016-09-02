@@ -35,7 +35,7 @@
 
         The Administrator shall be responsible for monitoring any such plans as are implemented with respect to their effectiveness in achieving the anticipated benefits.
 
-([Pub. L. 93–275, § 22][/us/pl/93/275/s22], May 7, 1974, [88 Stat. 113][/us/stat/88/113].)
+([Pub. L. 93–275][/us/pl/93/275], § 22, May 7, 1974, [88 Stat. 113][/us/stat/88/113].)
 
  __Transfer of Functions__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/93/275/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs22
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F113
 
 

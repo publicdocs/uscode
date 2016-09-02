@@ -35,7 +35,7 @@
 
         (2) develop criteria for operational prototype testing within the Department of Defense.
 
-([Pub. L. 100–697, § 8][/us/pl/100/697/s8], Nov. 19, 1988, [102 Stat. 4615][/us/stat/102/4615].)
+([Pub. L. 100–697][/us/pl/100/697], § 8, Nov. 19, 1988, [102 Stat. 4615][/us/stat/102/4615].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/100/697/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F697%2Fs8
+[/us/pl/100/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F697
 [/us/stat/102/4615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4615
 
 

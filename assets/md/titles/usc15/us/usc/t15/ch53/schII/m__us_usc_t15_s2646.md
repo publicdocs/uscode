@@ -137,7 +137,7 @@
 
         Not later than August 31, 1988, and every three months thereafter until August 31, 1991, the Administrator shall publish in the Federal Register a list of all Environmental Protection Agency-approved asbestos training courses for persons to achieve accreditation in each category described in subsection (b)(1)(A) and for laboratories to achieve accreditation. The Administrator may continue publishing such a list after August 31, 1991, at such times as the Administrator considers it useful. The list shall include the name and address of each approved trainer and, to the extent available, a list of all the geographic sites where training courses will take place. The Administrator shall provide a copy of the list to each State official on the list published by the Administrator under [section 2645(d)(6) of this title][/us/usc/t15/s2645/d/6] and to each regional office of the Environmental Protection Agency.
 
-([Pub. L. 94–469, title II, § 206][/us/pl/94/469/s206], as added [Pub. L. 99–519, § 2][/us/pl/99/519/s2], Oct. 22, 1986, [100 Stat. 2980][/us/stat/100/2980]; amended [Pub. L. 100–368, § 3][/us/pl/100/368/s3], July 18, 1988, [102 Stat. 832][/us/stat/102/832]; [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 101–637, § 15(a)(1)][/us/pl/101/637/s15/a/1], (2), Nov. 28, 1990, [104 Stat. 4596][/us/stat/104/4596].)
+([Pub. L. 94–469, title II][/us/pl/94/469/tII], § 206, as added [Pub. L. 99–519][/us/pl/99/519], § 2, Oct. 22, 1986, [100 Stat. 2980][/us/stat/100/2980]; amended [Pub. L. 100–368][/us/pl/100/368], § 3, July 18, 1988, [102 Stat. 832][/us/stat/102/832]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 101–637][/us/pl/101/637], § 15(a)(1), (2), Nov. 28, 1990, [104 Stat. 4596][/us/stat/104/4596].)
 
  __References in Text__ 
 
@@ -147,9 +147,9 @@
 
  __Amendments__ 
 
-    1990—Subsec. (a)(1), (3). [Pub. L. 101–637, § 15(a)(1)][/us/pl/101/637/s15/a/1], inserted before comma at end “or in a public or commercial building”.
+    1990—Subsec. (a)(1), (3). [Pub. L. 101–637][/us/pl/101/637], § 15(a)(1), inserted before comma at end “or in a public or commercial building”.
 
-    Subsec. (b)(1)(A)(i), (iii). [Pub. L. 101–637, § 15(a)(2)][/us/pl/101/637/s15/a/2], inserted before period at end “or in public or commercial buildings”.
+    Subsec. (b)(1)(A)(i), (iii). [Pub. L. 101–637][/us/pl/101/637], § 15(a)(2), inserted before period at end “or in public or commercial buildings”.
 
     1988—Subsec. (d)(1), (2). [Pub. L. 100–418][/us/pl/100/418] substituted “National Institute of Standards and Technology” for “National Bureau of Standards” wherever appearing.
 
@@ -157,19 +157,19 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–637, § 15(c)][/us/pl/101/637/s15/c], Nov. 28, 1990, [104 Stat. 4597][/us/stat/104/4597], provided that: 
+[Pub. L. 101–637][/us/pl/101/637], § 15(c), Nov. 28, 1990, [104 Stat. 4597][/us/stat/104/4597], provided that: 
 
 > “This section \[amending this section and [section 2647 of this title][/us/usc/t15/s2647] and enacting provisions set out as notes under this section\] shall take effect upon the expiration of the 12-month period following the date of the enactment of this Act \[Nov. 28, 1990\]. The Administrator may extend the effective date for a period not to exceed one year if the Administrator determines that accredited asbestos contractors are needed to perform school-site abatement required under the Asbestos Hazard Emergency Response Act \[of 1986\] ([15 U.S.C. 2641][/us/usc/t15/s2641]) and such an extension is necessary to ensure effective implementation of section 203 of the Toxic Substances Control Act \[[15 U.S.C. 2643][/us/usc/t15/s2643]\].”
 
  __Revision of Model Contractor Accreditation Program__ 
 
-[Pub. L. 101–637, § 15(a)(3)][/us/pl/101/637/s15/a/3], Nov. 28, 1990, [104 Stat. 4596][/us/stat/104/4596], provided that: 
+[Pub. L. 101–637][/us/pl/101/637], § 15(a)(3), Nov. 28, 1990, [104 Stat. 4596][/us/stat/104/4596], provided that: 
 
 > “Not later than one year after the date of the enactment of this Act \[Nov. 28, 1990\], the Administrator of the Environmental Protection Agency shall revise the model contractor accreditation plan promulgated under section 206(b)(1) of the Toxic Substances Control Act ([15 U.S.C. 2646(b)(1)][/us/usc/t15/s2646/b/1]) to increase the minimum number of hours of training, including additional hours of hands-on health and safety training, required for asbestos abatement workers and to make such other changes as may be necessary to implement the amendments made by paragraphs (1) and (2) \[amending this section\].”
 
  __EPA Administrator Not Exercising “Statutory Authority” Under OSHA Law in Exercising Authority Under This Chapter__ 
 
-[Pub. L. 101–637, § 15(b)][/us/pl/101/637/s15/b], Nov. 28, 1990, [104 Stat. 4596][/us/stat/104/4596], provided that: 
+[Pub. L. 101–637][/us/pl/101/637], § 15(b), Nov. 28, 1990, [104 Stat. 4596][/us/stat/104/4596], provided that: 
 
 > “In exercising any authority under the Toxic Substances Control Act \[[15 U.S.C. 2601][/us/usc/t15/s2601] et seq.\] in connection with the amendment made by subsection (a) of this section \[amending this section and [section 2647 of this title][/us/usc/t15/s2647]\], the Administrator of the Environmental Protection Agency shall not, for purposes of section 4(b)(1) of the Occupational Safety and Health Act of 1970 ([29 U.S.C. 653(b)(1)][/us/usc/t29/s653/b/1]), be considered to be exercising statutory authority to prescribe or enforce standards or regulations affecting occupational safety and health.”
 
@@ -184,14 +184,14 @@
 [/us/usc/t20/s4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4014
 [/us/usc/t20/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4011
 [/us/usc/t15/s2645/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2645%2Fd%2F6
-[/us/pl/94/469/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs206
-[/us/pl/99/519/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs2
+[/us/pl/94/469/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtII
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2980
-[/us/pl/100/368/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F368%2Fs3
+[/us/pl/100/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F368
 [/us/stat/102/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F832
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
-[/us/pl/101/637/s15/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs15%2Fa%2F1
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/stat/104/4596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4596
 [/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
 [/us/stat/92/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2365
@@ -199,19 +199,19 @@
 [/us/pl/98/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F377
 [/us/stat/98/1287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1287
 [/us/usc/t20/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4011
-[/us/pl/101/637/s15/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs15%2Fa%2F1
-[/us/pl/101/637/s15/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs15%2Fa%2F2
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F368
-[/us/pl/101/637/s15/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs15%2Fc
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/stat/104/4597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4597
 [/us/usc/t15/s2647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2647
 [/us/usc/t15/s2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2641
 [/us/usc/t15/s2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2643
-[/us/pl/101/637/s15/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs15%2Fa%2F3
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/stat/104/4596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4596
 [/us/usc/t15/s2646/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2646%2Fb%2F1
-[/us/pl/101/637/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs15%2Fb
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/stat/104/4596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4596
 [/us/usc/t15/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2601
 [/us/usc/t15/s2647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2647

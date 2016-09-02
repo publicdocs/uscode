@@ -17,7 +17,7 @@
 
     Such necessary repairs and adjustments shall be made to the standards furnished to the several States and Territories as may be requested by the governors thereof, and also to standard weights and measures that have been or may be supplied to United States customhouses and other offices of the United States under Act of Congress, when requested by the Secretary of Commerce.
 
-([July 11, 1890, ch. 667, § 1][/us/act/1890-07-11/ch667/s1], [26 Stat. 242][/us/stat/26/242]; [Feb. 14, 1903, ch. 552][/us/act/1903-02-14/ch552], §§ 4, 10, [32 Stat. 826][/us/stat/32/826], 829; [Mar. 4, 1913, ch. 141, § 1][/us/act/1913-03-04/ch141/s1], [37 Stat. 736][/us/stat/37/736].)
+([July 11, 1890, ch. 667][/us/act/1890-07-11/ch667], § 1, [26 Stat. 242][/us/stat/26/242]; [Feb. 14, 1903, ch. 552][/us/act/1903-02-14/ch552], §§ 4, 10, [32 Stat. 826][/us/stat/32/826], 829; [Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], § 1, [37 Stat. 736][/us/stat/37/736].)
 
  __Change of Name__ 
 
@@ -34,11 +34,11 @@
 ----------
 ----------
 
-[/us/act/1890-07-11/ch667/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-11%2Fch667%2Fs1
+[/us/act/1890-07-11/ch667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-11%2Fch667
 [/us/stat/26/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F242
 [/us/act/1903-02-14/ch552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552
 [/us/stat/32/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F826
-[/us/act/1913-03-04/ch141/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs1
+[/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F736
 
 

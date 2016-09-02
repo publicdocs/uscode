@@ -53,7 +53,7 @@
 
         (2) For purposes of subsection (a)(4) of this section and [section 706 of title 5][/us/usc/t5/s706], an order of the Commission pursuant to [section 78s(a) of this title][/us/usc/t15/s78s/a] denying registration to a clearing agency for which the Commission is not the appropriate regulatory agency or pursuant to [section 78s(b) of this title][/us/usc/t15/s78s/b] disapproving a proposed rule change by such a clearing agency shall be deemed to be an order of the appropriate regulatory agency for such clearing agency insofar as such order was entered by reason of a determination by such appropriate regulatory agency pursuant to section 78s(a)(2)(C) or 78s(b)(4)(C) of this title that such registration or proposed rule change would be inconsistent with the safeguarding of securities or funds.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 25, [48 Stat. 901][/us/stat/48/901]; [June 7, 1934, ch. 426][/us/act/1934-06-07/ch426], [48 Stat. 926][/us/stat/48/926]; [June 25, 1948, ch. 646, § 32(a)][/us/act/1948-06-25/ch646/s32/a], [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107]; [Pub. L. 85–791, § 10][/us/pl/85/791/s10], Aug. 28, 1958, [72 Stat. 945][/us/stat/72/945]; [Pub. L. 94–29, § 20][/us/pl/94/29/s20], June 4, 1975, [89 Stat. 158][/us/stat/89/158]; [Pub. L. 99–571, title I, § 102(k)][/us/pl/99/571/s102/k], Oct. 28, 1986, [100 Stat. 3220][/us/stat/100/3220]; [Pub. L. 101–432, § 6(b)][/us/pl/101/432/s6/b], Oct. 16, 1990, [104 Stat. 975][/us/stat/104/975].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 25, [48 Stat. 901][/us/stat/48/901]; [June 7, 1934, ch. 426][/us/act/1934-06-07/ch426], [48 Stat. 926][/us/stat/48/926]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 32(a), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 127, [63 Stat. 107][/us/stat/63/107]; [Pub. L. 85–791][/us/pl/85/791], § 10, Aug. 28, 1958, [72 Stat. 945][/us/stat/72/945]; [Pub. L. 94–29][/us/pl/94/29], § 20, June 4, 1975, [89 Stat. 158][/us/stat/89/158]; [Pub. L. 99–571, title I][/us/pl/99/571/tI], § 102(k), Oct. 28, 1986, [100 Stat. 3220][/us/stat/100/3220]; [Pub. L. 101–432][/us/pl/101/432], § 6(b), Oct. 16, 1990, [104 Stat. 975][/us/stat/104/975].)
 
  __References in Text__ 
 
@@ -110,17 +110,17 @@
 [/us/stat/48/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F901
 [/us/act/1934-06-07/ch426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-07%2Fch426
 [/us/stat/48/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F926
-[/us/act/1948-06-25/ch646/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs32%2Fa
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1949-05-24/ch139/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs127
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
-[/us/pl/85/791/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs10
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/stat/72/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F945
-[/us/pl/94/29/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs20
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F158
-[/us/pl/99/571/s102/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2Fs102%2Fk
+[/us/pl/99/571/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2FtI
 [/us/stat/100/3220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3220
-[/us/pl/101/432/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432%2Fs6%2Fb
+[/us/pl/101/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432
 [/us/stat/104/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F975
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/101/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432

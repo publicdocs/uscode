@@ -37,7 +37,7 @@
 
     (3) if the label required by paragraph (2)(A) of this section sets forth the name or names of any animal or animals other than the name or names provided for in such paragraph.
 
-([Aug. 8, 1951, ch. 298, § 4][/us/act/1951-08-08/ch298/s4], [65 Stat. 177][/us/stat/65/177].)
+([Aug. 8, 1951, ch. 298][/us/act/1951-08-08/ch298], § 4, [65 Stat. 177][/us/stat/65/177].)
 
  __Transfer of Functions__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t15/s69e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs69e%2Fc
-[/us/act/1951-08-08/ch298/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298%2Fs4
+[/us/act/1951-08-08/ch298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298
 [/us/stat/65/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F177
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41

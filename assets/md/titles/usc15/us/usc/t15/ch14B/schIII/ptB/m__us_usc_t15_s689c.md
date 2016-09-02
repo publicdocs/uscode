@@ -137,7 +137,7 @@
 
         (2) if the applicant fails to satisfy the requirements of subsection (d) on or before the expiration of the time period described in that subsection, revoke the conditional approval granted under that subsection.
 
-([Pub. L. 85–699, title III, § 354][/us/pl/85/699/s354], as added [Pub. L. 106–554, § 1(a)(8)][/us/pl/106/554/s1/a/8] \[§ 1(b)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–655.)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 354, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(8) \[§ 1(b)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–655.)
 
 ----------
 
@@ -146,8 +146,8 @@
 ----------
 ----------
 
-[/us/pl/85/699/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs354
-[/us/pl/106/554/s1/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F8
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

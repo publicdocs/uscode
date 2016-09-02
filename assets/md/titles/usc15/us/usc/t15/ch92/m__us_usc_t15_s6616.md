@@ -17,7 +17,7 @@
 
     Any party to a Y2K action in a State court in a State that has not adopted a rule of evidence substantially similar to Rule 704 of the Federal Rules of Evidence may introduce in such action evidence that would be admissible if Rule 704 applied in that jurisdiction.
 
-([Pub. L. 106–37, § 17][/us/pl/106/37/s17], July 20, 1999, [113 Stat. 202][/us/stat/113/202].)
+([Pub. L. 106–37][/us/pl/106/37], § 17, July 20, 1999, [113 Stat. 202][/us/stat/113/202].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/37/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37%2Fs17
+[/us/pl/106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37
 [/us/stat/113/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F202
 
 

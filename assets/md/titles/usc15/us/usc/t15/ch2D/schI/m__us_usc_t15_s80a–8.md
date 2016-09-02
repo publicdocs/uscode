@@ -59,11 +59,11 @@
 
         Whenever the Commission, on its own motion or upon application, finds that a registered investment company has ceased to be an investment company, it shall so declare by order and upon the taking effect of such order the registration of such company shall cease to be in effect. If necessary for the protection of investors, an order under this subsection may be made upon appropriate conditions. The Commission’s denial of any application under this subsection shall be by order.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 8, [54 Stat. 803][/us/stat/54/803]; [Pub. L. 86–507, § 1(14)][/us/pl/86/507/s1/14], June 11, 1960, [74 Stat. 201][/us/stat/74/201]; [Pub. L. 91–547, § 3(c)][/us/pl/91/547/s3/c], Dec. 14, 1970, [84 Stat. 1415][/us/stat/84/1415].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 8, [54 Stat. 803][/us/stat/54/803]; [Pub. L. 86–507][/us/pl/86/507], § 1(14), June 11, 1960, [74 Stat. 201][/us/stat/74/201]; [Pub. L. 91–547][/us/pl/91/547], § 3(c), Dec. 14, 1970, [84 Stat. 1415][/us/stat/84/1415].)
 
  __References in Text__ 
 
-    The Securities Act of 1933, referred to in subsecs. (b)(5) and (c)(1), is [act May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, [48 Stat. 74][/us/stat/48/74], as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
+    The Securities Act of 1933, referred to in subsecs. (b)(5) and (c)(1), is [act May 27, 1933, ch. 38, title I][/us/act/1933-05-27/ch38/tI], [48 Stat. 74][/us/stat/48/74], as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
 
     The Securities Exchange Act of 1934, referred to in subsecs. (b)(5) and (c)(1), is [act June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], [48 Stat. 881][/us/stat/48/881], as amended, which is classified generally to 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title][/us/usc/t15/s78a] and Tables.
 
@@ -71,9 +71,9 @@
 
  __Amendments__ 
 
-    1970—Subsec. (b)(2). [Pub. L. 91–547, § 3(c)(1)][/us/pl/91/547/s3/c/1], substituted “all investment policies of the registrant” and “which are changeable only if authorized by shareholder vote” for “the policy of the registrant in respect of matters” and “which the registrant deems matters of fundamental policy and elects to treat as such”, respectively. Former provisions are covered in par. (3).
+    1970—Subsec. (b)(2). [Pub. L. 91–547][/us/pl/91/547], § 3(c)(1), substituted “all investment policies of the registrant” and “which are changeable only if authorized by shareholder vote” for “the policy of the registrant in respect of matters” and “which the registrant deems matters of fundamental policy and elects to treat as such”, respectively. Former provisions are covered in par. (3).
 
-    Subsec. (b)(3) to (5). [Pub. L. 91–547, § 3(c)(2)][/us/pl/91/547/s3/c/2], (3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+    Subsec. (b)(3) to (5). [Pub. L. 91–547][/us/pl/91/547], § 3(c)(2), (3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
     1960—Subsec. (e). [Pub. L. 86–507][/us/pl/86/507] inserted “or by certified mail” after “registered mail”.
 
@@ -100,18 +100,18 @@
 [/us/usc/t15/s80a–33/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9333%2Fb
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F803
-[/us/pl/86/507/s1/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507%2Fs1%2F14
+[/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 [/us/stat/74/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F201
-[/us/pl/91/547/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs3%2Fc
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1415
-[/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
+[/us/act/1933-05-27/ch38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38%2FtI
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/91/547/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs3%2Fc%2F1
-[/us/pl/91/547/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs3%2Fc%2F2
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 [/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/pl/91/547/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs30

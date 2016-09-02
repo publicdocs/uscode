@@ -91,11 +91,11 @@
 
             Not later than 1 year after March 31, 2010, and every year thereafter until the date that is 5 years after March 31, 2010, the Attorney General of the United States shall submit to Congress a report containing the information described in paragraph (1).
 
-([Oct. 19, 1949, ch. 699, § 4][/us/act/1949-10-19/ch699/s4], as added [Pub. L. 111–154, § 2(e)][/us/pl/111/154/s2/e], Mar. 31, 2010, [124 Stat. 1101][/us/stat/124/1101].)
+([Oct. 19, 1949, ch. 699][/us/act/1949-10-19/ch699], § 4, as added [Pub. L. 111–154][/us/pl/111/154], § 2(e), Mar. 31, 2010, [124 Stat. 1101][/us/stat/124/1101].)
 
  __Prior Provisions__ 
 
-    A prior section 378, [act Oct. 19, 1949, ch. 699, § 4][/us/act/1949-10-19/ch699/s4], as added [Aug. 9, 1955, ch. 695, § 1][/us/act/1955-08-09/ch695/s1], [69 Stat. 628][/us/stat/69/628], which provided U.S. district courts with jurisdiction to prevent and restrain violations of this chapter, was repealed, effective on the date that is 90 days after March 31, 2010, by [Pub. L. 111–154][/us/pl/111/154], §§ 2(e), 6, Mar. 31, 2010, [124 Stat. 1101][/us/stat/124/1101], 1110.
+    A prior section 378, [act Oct. 19, 1949, ch. 699][/us/act/1949-10-19/ch699], § 4, as added [Aug. 9, 1955, ch. 695][/us/act/1955-08-09/ch695], § 1, [69 Stat. 628][/us/stat/69/628], which provided U.S. district courts with jurisdiction to prevent and restrain violations of this chapter, was repealed, effective on the date that is 90 days after March 31, 2010, by [Pub. L. 111–154][/us/pl/111/154], §§ 2(e), 6, Mar. 31, 2010, [124 Stat. 1101][/us/stat/124/1101], 1110.
 
  __Effective Date__ 
 
@@ -112,11 +112,11 @@
 [/us/usc/t15/s376a/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs376a%2Fa%2F3
 [/us/usc/t15/s377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs377
 [/us/usc/t26/s5712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5712
-[/us/act/1949-10-19/ch699/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-19%2Fch699%2Fs4
-[/us/pl/111/154/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154%2Fs2%2Fe
+[/us/act/1949-10-19/ch699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-19%2Fch699
+[/us/pl/111/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154
 [/us/stat/124/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1101
-[/us/act/1949-10-19/ch699/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-19%2Fch699%2Fs4
-[/us/act/1955-08-09/ch695/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch695%2Fs1
+[/us/act/1949-10-19/ch699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-19%2Fch699
+[/us/act/1955-08-09/ch695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch695
 [/us/stat/69/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F628
 [/us/pl/111/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154
 [/us/stat/124/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1101

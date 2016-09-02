@@ -39,7 +39,7 @@
 
         Nothing in this subchapter shall be construed as empowering the Commission to conduct an investigation or other proceeding for the purpose of determining whether the provisions of an indenture which has been qualified under this subchapter are being complied with, or to enforce such provisions.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 309, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1157][/us/stat/53/1157]; amended [Pub. L. 101–550, title IV, § 405][/us/pl/101/550/s405], Nov. 15, 1990, [104 Stat. 2723][/us/stat/104/2723].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 309, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1157][/us/stat/53/1157]; amended [Pub. L. 101–550, title IV][/us/pl/101/550/tIV], § 405, Nov. 15, 1990, [104 Stat. 2723][/us/stat/104/2723].)
 
  __Amendments__ 
 
@@ -64,7 +64,7 @@
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/act/1939-08-03/ch411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-03%2Fch411
 [/us/stat/53/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1157
-[/us/pl/101/550/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs405
+[/us/pl/101/550/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtIV
 [/us/stat/104/2723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2723
 [/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
 [/us/usc/t15/s77eee/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77eee%2Fb%2F2

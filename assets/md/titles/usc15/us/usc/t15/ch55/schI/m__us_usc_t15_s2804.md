@@ -77,7 +77,7 @@
 
         (2) In the case of summaries required to be furnished under the provisions of [section 2802(b)(2)(D) of this title][/us/usc/t15/s2802/b/2/D] or subsection (c)(3)(C) of this section before the date of publication of such summary in the Federal Register, such summary may be furnished not later than 5 days after it is so published rather than at the time required under such provisions.
 
-([Pub. L. 95–297, title I, § 104][/us/pl/95/297/s104], June 19, 1978, [92 Stat. 329][/us/stat/92/329].)
+([Pub. L. 95–297, title I][/us/pl/95/297/tI], § 104, June 19, 1978, [92 Stat. 329][/us/stat/92/329].)
 
 ----------
 
@@ -89,7 +89,7 @@
 [/us/usc/t15/s2802/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2802%2Fb%2F2%2FE
 [/us/usc/t15/s2803/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2803%2Fc%2F2
 [/us/usc/t15/s2802/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2802%2Fb%2F2%2FD
-[/us/pl/95/297/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2Fs104
+[/us/pl/95/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2FtI
 [/us/stat/92/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F329
 
 

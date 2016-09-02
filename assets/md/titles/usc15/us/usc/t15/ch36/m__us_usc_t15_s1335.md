@@ -17,7 +17,7 @@
 
     After January 1, 1971, it shall be unlawful to advertise cigarettes and little cigars on any medium of electronic communication subject to the jurisdiction of the Federal Communications Commission.
 
-([Pub. L. 89–92, § 6][/us/pl/89/92/s6], July 27, 1965, [79 Stat. 283][/us/stat/79/283]; [Pub. L. 91–222, § 2][/us/pl/91/222/s2], Apr. 1, 1970, [84 Stat. 89][/us/stat/84/89]; [Pub. L. 93–109, § 3][/us/pl/93/109/s3], Sept. 21, 1973, [87 Stat. 352][/us/stat/87/352].)
+([Pub. L. 89–92][/us/pl/89/92], § 6, July 27, 1965, [79 Stat. 283][/us/stat/79/283]; [Pub. L. 91–222][/us/pl/91/222], § 2, Apr. 1, 1970, [84 Stat. 89][/us/stat/84/89]; [Pub. L. 93–109][/us/pl/93/109], § 3, Sept. 21, 1973, [87 Stat. 352][/us/stat/87/352].)
 
  __Amendments__ 
 
@@ -40,11 +40,11 @@
 ----------
 ----------
 
-[/us/pl/89/92/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F92%2Fs6
+[/us/pl/89/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F92
 [/us/stat/79/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F283
-[/us/pl/91/222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222%2Fs2
+[/us/pl/91/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222
 [/us/stat/84/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F89
-[/us/pl/93/109/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F109%2Fs3
+[/us/pl/93/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F109
 [/us/stat/87/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F352
 [/us/pl/93/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F109
 [/us/pl/91/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222

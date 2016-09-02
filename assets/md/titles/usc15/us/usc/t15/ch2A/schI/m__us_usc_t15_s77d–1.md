@@ -197,11 +197,11 @@
 
             The income and net worth of a natural person under section 77d(6)(B) 1 of this title shall be calculated in accordance with any rules of the Commission under this subchapter regarding the calculation of the income and net worth, respectively, of an accredited investor.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 4A, as added [Pub. L. 112–106, title III, § 302(b)][/us/pl/112/106/s302/b], Apr. 5, 2012, [126 Stat. 315][/us/stat/126/315].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 4A, as added [Pub. L. 112–106, title III][/us/pl/112/106/tIII], § 302(b), Apr. 5, 2012, [126 Stat. 315][/us/stat/126/315].)
 
  __References in Text__ 
 
-    [Section 77d(6) of this title][/us/usc/t15/s77d/6], referred to in text, was redesignated [section 77d(a)(6) of this title][/us/usc/t15/s77d/a/6] by [Pub. L. 112–106, title II, § 201(b)(1)][/us/pl/112/106/s201/b/1], (c)(1), Apr. 5, 2012, [126 Stat. 314][/us/stat/126/314].
+    [Section 77d(6) of this title][/us/usc/t15/s77d/6], referred to in text, was redesignated [section 77d(a)(6) of this title][/us/usc/t15/s77d/a/6] by [Pub. L. 112–106, title II][/us/pl/112/106/tII], § 201(b)(1), (c)(1), Apr. 5, 2012, [126 Stat. 314][/us/stat/126/314].
 
 ----------
 
@@ -217,11 +217,11 @@
 [/us/usc/t15/s80a–3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%933%2Fb
 [/us/usc/t15/s80a–3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%933%2Fc
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
-[/us/pl/112/106/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs302%2Fb
+[/us/pl/112/106/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtIII
 [/us/stat/126/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F315
 [/us/usc/t15/s77d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77d%2F6
 [/us/usc/t15/s77d/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77d%2Fa%2F6
-[/us/pl/112/106/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs201%2Fb%2F1
+[/us/pl/112/106/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtII
 [/us/stat/126/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F314
 
 

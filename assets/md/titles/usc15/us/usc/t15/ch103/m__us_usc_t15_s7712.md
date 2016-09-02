@@ -45,7 +45,7 @@
 
         In this section, the term “mobile service commercial message” means a commercial electronic mail message that is transmitted directly to a wireless device that is utilized by a subscriber of commercial mobile service (as such term is defined in [section 332(d) of title 47][/us/usc/t47/s332/d]) in connection with such service.
 
-([Pub. L. 108–187, § 14][/us/pl/108/187/s14], Dec. 16, 2003, [117 Stat. 2718][/us/stat/117/2718].)
+([Pub. L. 108–187][/us/pl/108/187], § 14, Dec. 16, 2003, [117 Stat. 2718][/us/stat/117/2718].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 [/us/usc/t47/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs227
 [/us/usc/t15/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6102
 [/us/usc/t47/s332/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs332%2Fd
-[/us/pl/108/187/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs14
+[/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2718
 [/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2699

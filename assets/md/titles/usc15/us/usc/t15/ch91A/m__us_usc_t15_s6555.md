@@ -25,7 +25,7 @@
 
         The term “Internet” means collectively the myriad of computer and telecommunications facilities, including equipment and operating software, which comprise the interconnected world-wide network of networks that employ the Transmission Control Protocol/Internet Protocol, or any predecessor successor  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “or”. </sup></sup>  protocols to such protocol, to communicate information of all kinds by wire or radio.
 
-([Pub. L. 110–385, title II, § 216][/us/pl/110/385/s216], Oct. 10, 2008, [122 Stat. 4104][/us/stat/122/4104].)
+([Pub. L. 110–385, title II][/us/pl/110/385/tII], § 216, Oct. 10, 2008, [122 Stat. 4104][/us/stat/122/4104].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/110/385/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2Fs216
+[/us/pl/110/385/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2FtII
 [/us/stat/122/4104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4104
 [/us/pl/110/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385
 [/us/stat/122/4102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4102

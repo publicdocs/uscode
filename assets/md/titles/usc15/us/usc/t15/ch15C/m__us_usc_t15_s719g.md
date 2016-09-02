@@ -39,7 +39,7 @@
 
         Any Federal officer or agency to which subsection (a) applies, to the extent permitted under laws administered by such officer or agency, shall include in any certificate, permit, right-of-way, lease, or authorization issued or granted those terms and conditions identified in the President’s decision as appropriate for inclusion except that the requirement to include such terms and conditions shall not limit the Federal officer or agency’s authority under subsection (d) of this section.
 
-([Pub. L. 94–586, § 9][/us/pl/94/586/s9], Oct. 22, 1976, [90 Stat. 2912][/us/stat/90/2912].)
+([Pub. L. 94–586][/us/pl/94/586], § 9, Oct. 22, 1976, [90 Stat. 2912][/us/stat/90/2912].)
 
  __Transfer of Functions__ 
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t15/s719f/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719f%2Fg
 [/us/usc/t15/s719f/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719f%2Fg
-[/us/pl/94/586/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586%2Fs9
+[/us/pl/94/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586
 [/us/stat/90/2912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2912
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e

@@ -17,7 +17,7 @@
 
     Unless otherwise provided by its terms, this subtitle does not divest any appropriate Federal banking agency, the Securities and Exchange Commission, the Commodity Futures Trading Commission, or any other Federal or State agency, of any authority derived from any other provision of applicable law.
 
-([Pub. L. 111–203, title VII, § 771][/us/pl/111/203/s771], July 21, 2010, [124 Stat. 1801][/us/stat/124/1801].)
+([Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 771, July 21, 2010, [124 Stat. 1801][/us/stat/124/1801].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs771
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1801
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1754

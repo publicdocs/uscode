@@ -73,11 +73,11 @@
 
                 (ii) the violation consists of an employee of the common carrier or independent delivery service who physically receives and processes orders, picks up packages, processes packages, or makes deliveries, taking actions that are outside the scope of employment of the employee, or that violate the implemented and enforced policies of the common carrier or independent delivery service described in clause (i).
 
-([Oct. 19, 1949, ch. 699, § 3][/us/act/1949-10-19/ch699/s3], as added [Pub. L. 111–154, § 2(d)][/us/pl/111/154/s2/d], Mar. 31, 2010, [124 Stat. 1100][/us/stat/124/1100].)
+([Oct. 19, 1949, ch. 699][/us/act/1949-10-19/ch699], § 3, as added [Pub. L. 111–154][/us/pl/111/154], § 2(d), Mar. 31, 2010, [124 Stat. 1100][/us/stat/124/1100].)
 
  __Prior Provisions__ 
 
-    A prior section 377, [act Oct. 19, 1949, ch. 699, § 3][/us/act/1949-10-19/ch699/s3], [63 Stat. 885][/us/stat/63/885]; [Aug. 9, 1955, ch. 695, § 1][/us/act/1955-08-09/ch695/s1], [69 Stat. 628][/us/stat/69/628], which related to penalties for violations of any provision of this chapter, was repealed, effective on the date that is 90 days after March 31, 2010, by [Pub. L. 111–154][/us/pl/111/154], §§ 2(d), 6, Mar. 31, 2010, [124 Stat. 1100][/us/stat/124/1100], 1110.
+    A prior section 377, [act Oct. 19, 1949, ch. 699][/us/act/1949-10-19/ch699], § 3, [63 Stat. 885][/us/stat/63/885]; [Aug. 9, 1955, ch. 695][/us/act/1955-08-09/ch695], § 1, [69 Stat. 628][/us/stat/69/628], which related to penalties for violations of any provision of this chapter, was repealed, effective on the date that is 90 days after March 31, 2010, by [Pub. L. 111–154][/us/pl/111/154], §§ 2(d), 6, Mar. 31, 2010, [124 Stat. 1100][/us/stat/124/1100], 1110.
 
  __Effective Date__ 
 
@@ -95,12 +95,12 @@
 [/us/usc/t15/s376a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs376a%2Fe
 [/us/usc/t15/s376a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs376a
 [/us/usc/t15/s376a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs376a%2Fe
-[/us/act/1949-10-19/ch699/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-19%2Fch699%2Fs3
-[/us/pl/111/154/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154%2Fs2%2Fd
+[/us/act/1949-10-19/ch699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-19%2Fch699
+[/us/pl/111/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154
 [/us/stat/124/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1100
-[/us/act/1949-10-19/ch699/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-19%2Fch699%2Fs3
+[/us/act/1949-10-19/ch699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-19%2Fch699
 [/us/stat/63/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F885
-[/us/act/1955-08-09/ch695/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch695%2Fs1
+[/us/act/1955-08-09/ch695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch695
 [/us/stat/69/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F628
 [/us/pl/111/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154
 [/us/stat/124/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1100

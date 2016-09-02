@@ -19,15 +19,15 @@
 
     (b) The publication or republication by the Government under this chapter, either separately or in a public document, of any material in which copyright is subsisting shall not be taken to cause any abridgment or annulment of the copyright or to authorize any use or appropriation of such material without the consent of the copyright proprietor.
 
-([Pub. L. 90–396, § 6][/us/pl/90/396/s6], July 11, 1968, [82 Stat. 340][/us/stat/82/340]; [Pub. L. 94–553, § 105(f)][/us/pl/94/553/s105/f], Oct. 19, 1976, [90 Stat. 2599][/us/stat/90/2599]; [Pub. L. 107–273, div. C, title III, § 13211(b)][/us/pl/107/273/s13211/b], Nov. 2, 2002, [116 Stat. 1910][/us/stat/116/1910].)
+([Pub. L. 90–396][/us/pl/90/396], § 6, July 11, 1968, [82 Stat. 340][/us/stat/82/340]; [Pub. L. 94–553][/us/pl/94/553], § 105(f), Oct. 19, 1976, [90 Stat. 2599][/us/stat/90/2599]; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13211(b), Nov. 2, 2002, [116 Stat. 1910][/us/stat/116/1910].)
 
  __Amendments__ 
 
-    2002—Subsec. (a). [Pub. L. 107–273, § 13211(b)(2)][/us/pl/107/273/s13211/b/2], substituted “Notwithstanding the limitations under [section 105 of title 17][/us/usc/t17/s105],” for “Notwithstanding the limitations contained in [section 105 of title 17][/us/usc/t17/s105],”.
+    2002—Subsec. (a). [Pub. L. 107–273][/us/pl/107/273], § 13211(b)(2), substituted “Notwithstanding the limitations under [section 105 of title 17][/us/usc/t17/s105],” for “Notwithstanding the limitations contained in [section 105 of title 17][/us/usc/t17/s105],”.
 
-    [Pub. L. 107–273, § 13211(b)(1)][/us/pl/107/273/s13211/b/1], made technical amendment to directory language of [Pub. L. 94–553][/us/pl/94/553]. See 1976 Amendment note below.
+    [Pub. L. 107–273][/us/pl/107/273], § 13211(b)(1), made technical amendment to directory language of [Pub. L. 94–553][/us/pl/94/553]. See 1976 Amendment note below.
 
-    1976—Subsec. (a). [Pub. L. 94–553][/us/pl/94/553], as amended by [Pub. L. 107–273, § 13211(b)(1)][/us/pl/107/273/s13211/b/1], substituted “[section 105 of title 17][/us/usc/t17/s105]” for “[section 8 of title 17][/us/usc/t17/s8]”.
+    1976—Subsec. (a). [Pub. L. 94–553][/us/pl/94/553], as amended by [Pub. L. 107–273][/us/pl/107/273], § 13211(b)(1), substituted “[section 105 of title 17][/us/usc/t17/s105]” for “[section 8 of title 17][/us/usc/t17/s8]”.
 
  __Effective Date of 1976 Amendment__ 
 
@@ -41,19 +41,19 @@
 ----------
 
 [/us/usc/t17/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs105
-[/us/pl/90/396/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F396%2Fs6
+[/us/pl/90/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F396
 [/us/stat/82/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F340
-[/us/pl/94/553/s105/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553%2Fs105%2Ff
+[/us/pl/94/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553
 [/us/stat/90/2599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2599
-[/us/pl/107/273/s13211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13211%2Fb
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1910
-[/us/pl/107/273/s13211/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13211%2Fb%2F2
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/usc/t17/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs105
 [/us/usc/t17/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs105
-[/us/pl/107/273/s13211/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13211%2Fb%2F1
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/94/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553
 [/us/pl/94/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553
-[/us/pl/107/273/s13211/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13211%2Fb%2F1
+[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/usc/t17/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs105
 [/us/usc/t17/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs8
 [/us/pl/94/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F553

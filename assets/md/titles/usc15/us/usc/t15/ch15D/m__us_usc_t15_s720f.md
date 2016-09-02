@@ -37,7 +37,7 @@
 
             In carrying out paragraph (1), the Commission, in accordance with section 17(b) of the Natural Gas Act ([15 U.S.C. 717p(b)][/us/usc/t15/s717p/b]), shall consult with the State regarding rates (including rate settlements) applicable to natural gas transported on and delivered from the Alaska natural gas transportation project for use within the State.
 
-([Pub. L. 108–324, div. C, § 108][/us/pl/108/324/s108], Oct. 13, 2004, [118 Stat. 1261][/us/stat/118/1261].)
+([Pub. L. 108–324, div. C][/us/pl/108/324/dC], § 108, Oct. 13, 2004, [118 Stat. 1261][/us/stat/118/1261].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 [/us/usc/t15/s720a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs720a%2Fd
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
 [/us/usc/t15/s717p/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717p%2Fb
-[/us/pl/108/324/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs108
+[/us/pl/108/324/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2FdC
 [/us/stat/118/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1261
 [/us/pl/108/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324
 [/us/stat/118/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1255

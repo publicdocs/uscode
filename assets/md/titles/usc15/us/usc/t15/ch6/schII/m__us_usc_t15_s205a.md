@@ -31,7 +31,7 @@
 
     (7) The metric system of measurement can provide substantial advantages to the Federal Government in its own operations.
 
-([Pub. L. 94–168, § 2][/us/pl/94/168/s2], Dec. 23, 1975, [89 Stat. 1007][/us/stat/89/1007]; [Pub. L. 100–418, title V, § 5164(a)][/us/pl/100/418/s5164/a], Aug. 23, 1988, [102 Stat. 1451][/us/stat/102/1451].)
+([Pub. L. 94–168][/us/pl/94/168], § 2, Dec. 23, 1975, [89 Stat. 1007][/us/stat/89/1007]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5164(a), Aug. 23, 1988, [102 Stat. 1451][/us/stat/102/1451].)
 
  __References in Text__ 
 
@@ -43,19 +43,19 @@
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–289, § 1][/us/pl/104/289/s1], Oct. 11, 1996, [110 Stat. 3411][/us/stat/110/3411], provided that: 
+[Pub. L. 104–289][/us/pl/104/289], § 1, Oct. 11, 1996, [110 Stat. 3411][/us/stat/110/3411], provided that: 
 
 > “This Act \[enacting section 205l of this title, amending sections 205c and 205l of this title, and enacting provisions set out as notes under this section and [section 205c of this title][/us/usc/t15/s205c]\] may be cited as the ‘Savings in Construction Act of 1996’.”
 
  __Short Title__ 
 
-[Pub. L. 94–168, § 1][/us/pl/94/168/s1], Dec. 23, 1975, [89 Stat. 1007][/us/stat/89/1007], provided: 
+[Pub. L. 94–168][/us/pl/94/168], § 1, Dec. 23, 1975, [89 Stat. 1007][/us/stat/89/1007], provided: 
 
 > “That this Act \[enacting this subchapter\] may be cited as the ‘Metric Conversion Act of 1975’.”
 
  __Congressional Statement of Findings; Metric Conversion in Federal Construction Projects__ 
 
-[Pub. L. 104–289, § 2][/us/pl/104/289/s2], Oct. 11, 1996, [110 Stat. 3411][/us/stat/110/3411], provided that: 
+[Pub. L. 104–289][/us/pl/104/289], § 2, Oct. 11, 1996, [110 Stat. 3411][/us/stat/110/3411], provided that: 
 
 > “The Congress finds the following:
 
@@ -134,19 +134,19 @@
 
 [/us/stat/20/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F20%2F709
 [/us/stat/14/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F339
-[/us/pl/94/168/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F168%2Fs2
+[/us/pl/94/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F168
 [/us/stat/89/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1007
-[/us/pl/100/418/s5164/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5164%2Fa
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1451
 [/us/stat/14/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F339
 [/us/usc/t15/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs204
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/104/289/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F289%2Fs1
+[/us/pl/104/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F289
 [/us/stat/110/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3411
 [/us/usc/t15/s205c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs205c
-[/us/pl/94/168/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F168%2Fs1
+[/us/pl/94/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F168
 [/us/stat/89/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1007
-[/us/pl/104/289/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F289%2Fs2
+[/us/pl/104/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F289
 [/us/stat/110/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3411
 [/us/usc/t15/s205a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs205a
 [/us/usc/t15/s205b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs205b

@@ -17,7 +17,7 @@
 
     It shall be unlawful for any person to fail or refuse to comply with a provision of this subchapter or with any rule or order issued under this subchapter.
 
-([Pub. L. 94–469, title IV, § 409][/us/pl/94/469/s409], as added [Pub. L. 102–550, title X, § 1021(a)][/us/pl/102/550/s1021/a], Oct. 28, 1992, [106 Stat. 3921][/us/stat/106/3921].)
+([Pub. L. 94–469, title IV][/us/pl/94/469/tIV], § 409, as added [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(a), Oct. 28, 1992, [106 Stat. 3921][/us/stat/106/3921].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/94/469/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs409
-[/us/pl/102/550/s1021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1021%2Fa
+[/us/pl/94/469/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtIV
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3921
 
 

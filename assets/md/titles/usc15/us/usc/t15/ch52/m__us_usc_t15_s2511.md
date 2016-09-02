@@ -17,7 +17,7 @@
 
     [Section 5908 of title 42][/us/usc/t42/s5908] shall apply to any contract (including any assignment, substitution of parties, or subcontract thereunder), entered into, made, or issued by the Secretary of Energy pursuant to [section 2507 of this title][/us/usc/t15/s2507].
 
-([Pub. L. 94–413, § 12][/us/pl/94/413/s12], Sept. 17, 1976, [90 Stat. 1269][/us/stat/90/1269]; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577].)
+([Pub. L. 94–413][/us/pl/94/413], § 12, Sept. 17, 1976, [90 Stat. 1269][/us/stat/90/1269]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577].)
 
  __Transfer of Functions__ 
 
@@ -32,9 +32,9 @@
 
 [/us/usc/t42/s5908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5908
 [/us/usc/t15/s2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2507
-[/us/pl/94/413/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F413%2Fs12
+[/us/pl/94/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F413
 [/us/stat/90/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1269
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
 [/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
 [/us/usc/t15/s2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2502

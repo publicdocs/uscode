@@ -21,7 +21,7 @@
 
     (2) if the contract is silent on such damages, by operation of State law at the time the contract was effective or by operation of Federal law.
 
-([Pub. L. 106–37, § 11][/us/pl/106/37/s11], July 20, 1999, [113 Stat. 199][/us/stat/113/199].)
+([Pub. L. 106–37][/us/pl/106/37], § 11, July 20, 1999, [113 Stat. 199][/us/stat/113/199].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/37/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37%2Fs11
+[/us/pl/106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37
 [/us/stat/113/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F199
 
 

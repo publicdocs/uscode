@@ -103,13 +103,13 @@
 
             Paragraph (1) shall not be construed to alter, invalidate, or otherwise affect any rights or obligations, including rights of redemption, under any periodic payment plan certificate issued and sold before 30 days after September 29, 2006.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 27, [54 Stat. 829][/us/stat/54/829]; [Pub. L. 91–547, § 16][/us/pl/91/547/s16], Dec. 14, 1970, [84 Stat. 1424][/us/stat/84/1424]; [Pub. L. 92–165][/us/pl/92/165], Nov. 23, 1971, [85 Stat. 487][/us/stat/85/487]; [Pub. L. 104–290, title II, § 205(b)][/us/pl/104/290/s205/b], Oct. 11, 1996, [110 Stat. 3429][/us/stat/110/3429]; [Pub. L. 109–290, § 4(a)][/us/pl/109/290/s4/a], (b), Sept. 29, 2006, [120 Stat. 1318][/us/stat/120/1318], 1319.)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 27, [54 Stat. 829][/us/stat/54/829]; [Pub. L. 91–547][/us/pl/91/547], § 16, Dec. 14, 1970, [84 Stat. 1424][/us/stat/84/1424]; [Pub. L. 92–165][/us/pl/92/165], Nov. 23, 1971, [85 Stat. 487][/us/stat/85/487]; [Pub. L. 104–290, title II][/us/pl/104/290/tII], § 205(b), Oct. 11, 1996, [110 Stat. 3429][/us/stat/110/3429]; [Pub. L. 109–290][/us/pl/109/290], § 4(a), (b), Sept. 29, 2006, [120 Stat. 1318][/us/stat/120/1318], 1319.)
 
  __Amendments__ 
 
-    2006—Subsec. (i)(2)(B). [Pub. L. 109–290, § 4(b)][/us/pl/109/290/s4/b], substituted “section 80a–26(f)” for “section 80a–26(e)” in two places.
+    2006—Subsec. (i)(2)(B). [Pub. L. 109–290][/us/pl/109/290], § 4(b), substituted “section 80a–26(f)” for “section 80a–26(e)” in two places.
 
-    Subsec. (j). [Pub. L. 109–290, § 4(a)][/us/pl/109/290/s4/a], added subsec. (j).
+    Subsec. (j). [Pub. L. 109–290][/us/pl/109/290], § 4(a), added subsec. (j).
 
     1996—Subsec. (i). [Pub. L. 104–290][/us/pl/104/290] added subsec. (i).
 
@@ -140,16 +140,16 @@
 [/us/usc/t15/s80a–26/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9326%2Ff
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F829
-[/us/pl/91/547/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs16
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1424
 [/us/pl/92/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F165
 [/us/stat/85/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F487
-[/us/pl/104/290/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs205%2Fb
+[/us/pl/104/290/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtII
 [/us/stat/110/3429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3429
-[/us/pl/109/290/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F290%2Fs4%2Fa
+[/us/pl/109/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F290
 [/us/stat/120/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1318
-[/us/pl/109/290/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F290%2Fs4%2Fb
-[/us/pl/109/290/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F290%2Fs4%2Fa
+[/us/pl/109/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F290
+[/us/pl/109/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F290
 [/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
 [/us/pl/92/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F165
 [/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547

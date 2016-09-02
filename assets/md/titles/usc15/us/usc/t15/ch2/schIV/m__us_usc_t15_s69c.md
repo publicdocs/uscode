@@ -53,7 +53,7 @@
 
         (2) if such invoice contains the name or names of any animal or animals other than the name or names specified in paragraph (1)(A) of this subsection, or contains any form of misrepresentation or deception, directly or by implication, with respect to such fur product or fur.
 
-([Aug. 8, 1951, ch. 298, § 5][/us/act/1951-08-08/ch298/s5], [65 Stat. 178][/us/stat/65/178].)
+([Aug. 8, 1951, ch. 298][/us/act/1951-08-08/ch298], § 5, [65 Stat. 178][/us/stat/65/178].)
 
 ----------
 
@@ -64,7 +64,7 @@
 
 [/us/usc/t15/s69e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs69e%2Fc
 [/us/usc/t15/s69e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs69e%2Fc
-[/us/act/1951-08-08/ch298/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298%2Fs5
+[/us/act/1951-08-08/ch298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298
 [/us/stat/65/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F178
 
 

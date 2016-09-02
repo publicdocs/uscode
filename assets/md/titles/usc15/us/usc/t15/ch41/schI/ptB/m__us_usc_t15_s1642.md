@@ -17,11 +17,11 @@
 
     No credit card shall be issued except in response to a request or application therefor. This prohibition does not apply to the issuance of a credit card in renewal of, or in substitution for, an accepted credit card.
 
-([Pub. L. 90–321, title I, § 132][/us/pl/90/321/s132], as added [Pub. L. 91–508, title V, § 502(a)][/us/pl/91/508/s502/a], Oct. 26, 1970, [84 Stat. 1126][/us/stat/84/1126].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 132, as added [Pub. L. 91–508, title V][/us/pl/91/508/tV], § 502(a), Oct. 26, 1970, [84 Stat. 1126][/us/stat/84/1126].)
 
  __Effective Date__ 
 
-[Pub. L. 91–508, title V, § 503(1)][/us/pl/91/508/s503/1], Oct. 26, 1970, [84 Stat. 1127][/us/stat/84/1127], provided that: 
+[Pub. L. 91–508, title V][/us/pl/91/508/tV], § 503(1), Oct. 26, 1970, [84 Stat. 1127][/us/stat/84/1127], provided that: 
 
 > “Section 132 of such Act \[this section\] takes effect on date of enactment of this title \[Oct. 26, 1970\].”
 
@@ -32,10 +32,10 @@
 ----------
 ----------
 
-[/us/pl/90/321/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs132
-[/us/pl/91/508/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs502%2Fa
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/91/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtV
 [/us/stat/84/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1126
-[/us/pl/91/508/s503/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs503%2F1
+[/us/pl/91/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtV
 [/us/stat/84/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1127
 
 

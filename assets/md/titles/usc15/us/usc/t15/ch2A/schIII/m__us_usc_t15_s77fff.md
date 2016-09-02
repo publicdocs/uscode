@@ -39,7 +39,7 @@
 
  __References in Text__ 
 
-    The Securities Act of 1933, referred to in subsecs. (a) to (c), is [act May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, [48 Stat. 74][/us/stat/48/74], as amended, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
+    The Securities Act of 1933, referred to in subsecs. (a) to (c), is [act May 27, 1933, ch. 38, title I][/us/act/1933-05-27/ch38/tI], [48 Stat. 74][/us/stat/48/74], as amended, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
 
  __Amendments__ 
 
@@ -75,7 +75,7 @@
 [/us/stat/53/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1155
 [/us/act/1954-08-10/ch667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-10%2Fch667
 [/us/stat/68/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F687
-[/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
+[/us/act/1933-05-27/ch38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38%2FtI
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/usc/t15/s77b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77b

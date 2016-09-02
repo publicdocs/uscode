@@ -85,7 +85,7 @@
 
             (B) use any information that is subject to attorney-client or work product privilege that was obtained while assisting the State in the action under paragraph (1) in any other private civil actions that arise out of the same operative facts.
 
-([Pub. L. 92–573, § 24][/us/pl/92/573/s24], Oct. 27, 1972, [86 Stat. 1226][/us/stat/86/1226]; [Pub. L. 94–284, § 10(d)][/us/pl/94/284/s10/d], May 11, 1976, [90 Stat. 507][/us/stat/90/507]; [Pub. L. 97–35, title XII, § 1211(a)][/us/pl/97/35/s1211/a], (h)(3)(C), Aug. 13, 1981, [95 Stat. 721][/us/stat/95/721], 723; [Pub. L. 110–314, title II, § 218(a)][/us/pl/110/314/s218/a], Aug. 14, 2008, [122 Stat. 3060][/us/stat/122/3060].)
+([Pub. L. 92–573][/us/pl/92/573], § 24, Oct. 27, 1972, [86 Stat. 1226][/us/stat/86/1226]; [Pub. L. 94–284][/us/pl/94/284], § 10(d), May 11, 1976, [90 Stat. 507][/us/stat/90/507]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1211(a), (h)(3)(C), Aug. 13, 1981, [95 Stat. 721][/us/stat/95/721], 723; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 218(a), Aug. 14, 2008, [122 Stat. 3060][/us/stat/122/3060].)
 
  __Amendments__ 
 
@@ -113,13 +113,13 @@
 [/us/usc/t15/s1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1477
 [/us/usc/t15/s1194/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1194%2Fa
 [/us/usc/t15/s2068/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2068%2Fa
-[/us/pl/92/573/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs24
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1226
-[/us/pl/94/284/s10/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs10%2Fd
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/stat/90/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F507
-[/us/pl/97/35/s1211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1211%2Fa
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F721
-[/us/pl/110/314/s218/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs218%2Fa
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3060
 [/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

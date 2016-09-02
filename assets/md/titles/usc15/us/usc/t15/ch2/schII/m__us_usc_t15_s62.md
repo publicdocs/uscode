@@ -17,7 +17,7 @@
 
     Nothing contained in the Sherman Act \[[15 U.S.C. 1][/us/usc/t15/s1] et seq.\] shall be construed as declaring to be illegal an association entered into for the sole purpose of engaging in export trade and actually engaged solely in such export trade, or an agreement made or act done in the course of export trade by such association, provided such association, agreement, or act is not in restraint of trade within the United States, and is not in restraint of the export trade of any domestic competitor of such association: Provided, That such association does not, either in the United States or elsewhere, enter into any agreement, understanding, or conspiracy, or do any act which artificially or intentionally enhances or depresses prices within the United States of commodities of the class exported by such association, or which substantially lessens competition within the United States or otherwise restrains trade therein.
 
-([Apr. 10, 1918, ch. 50, § 2][/us/act/1918-04-10/ch50/s2], [40 Stat. 517][/us/stat/40/517].)
+([Apr. 10, 1918, ch. 50][/us/act/1918-04-10/ch50], § 2, [40 Stat. 517][/us/stat/40/517].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1
-[/us/act/1918-04-10/ch50/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-04-10%2Fch50%2Fs2
+[/us/act/1918-04-10/ch50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-04-10%2Fch50
 [/us/stat/40/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F517
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1

@@ -113,7 +113,7 @@
 
             The term “ATV action plan” means a written plan or letter of undertaking that describes actions the manufacturer or distributor agrees to take to promote ATV safety, including rider training, dissemination of safety information, age recommendations, other policies governing marketing and sale of the ATVs, the monitoring of such sales, and other safety related measures, and that is substantially similar to the plans described under the heading “The Undertakings of the Companies in the Commission Notice” published in the Federal Register on September 9, 1998 (63 FR 48199–48204).
 
-([Pub. L. 92–573, § 42][/us/pl/92/573/s42], as added [Pub. L. 110–314, title II, § 232(a)][/us/pl/110/314/s232/a], Aug. 14, 2008, [122 Stat. 3071][/us/stat/122/3071].)
+([Pub. L. 92–573][/us/pl/92/573], § 42, as added [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 232(a), Aug. 14, 2008, [122 Stat. 3071][/us/stat/122/3071].)
 
  __Codification__ 
 
@@ -125,7 +125,7 @@
 
  __Deadline for Rule by Consumer Product Safety Commission on Standards for All Terrain Vehicles__ 
 
-[Pub. L. 112–28, § 9][/us/pl/112/28/s9], Aug. 12, 2011, [125 Stat. 282][/us/stat/125/282], provided that: 
+[Pub. L. 112–28][/us/pl/112/28], § 9, Aug. 12, 2011, [125 Stat. 282][/us/stat/125/282], provided that: 
 
 > “The Commission shall issue the final rule described in section 42(d) of the Consumer Product Safety Act ([15 U.S.C. 2089(d)][/us/usc/t15/s2089/d]) not later than 1 year after the date of enactment of this Act \[Aug. 12, 2011\].”
 
@@ -140,12 +140,12 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t15/s2068/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2068%2Fa%2F1
 [/us/usc/t15/s2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2066
-[/us/pl/92/573/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs42
-[/us/pl/110/314/s232/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs232%2Fa
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3071
 [/us/pl/110/314/s239/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs239%2Fa
 [/us/usc/t15/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2051
-[/us/pl/112/28/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs9
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
 [/us/stat/125/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F282
 [/us/usc/t15/s2089/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2089%2Fd
 

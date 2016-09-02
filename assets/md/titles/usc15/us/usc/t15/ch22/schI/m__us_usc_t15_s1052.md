@@ -29,15 +29,15 @@
 
     (f) Except as expressly excluded in subsections (a), (b), (c), (d), (e)(3), and (e)(5) of this section, nothing in this chapter shall prevent the registration of a mark used by the applicant which has become distinctive of the applicant’s goods in commerce. The Director may accept as prima facie evidence that the mark has become distinctive, as used on or in connection with the applicant’s goods in commerce, proof of substantially exclusive and continuous use thereof as a mark by the applicant in commerce for the five years before the date on which the claim of distinctiveness is made. Nothing in this section shall prevent the registration of a mark which, when used on or in connection with the goods of the applicant, is primarily geographically deceptively misdescriptive of them, and which became distinctive of the applicant’s goods in commerce before December 8, 1993.    A mark which would be likely to cause dilution by blurring or dilution by tarnishment under [section 1125(c) of this title][/us/usc/t15/s1125/c], may be refused registration only pursuant to a proceeding brought under [section 1063 of this title][/us/usc/t15/s1063]. A registration for a mark which would be likely to cause dilution by blurring or dilution by tarnishment under [section 1125(c) of this title][/us/usc/t15/s1125/c], may be canceled pursuant to a proceeding brought under either [section 1064 of this title][/us/usc/t15/s1064] or [section 1092 of this title][/us/usc/t15/s1092].
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title I, § 2, [60 Stat. 428][/us/stat/60/428]; [Pub. L. 87–772, § 2][/us/pl/87/772/s2], Oct. 9, 1962, [76 Stat. 769][/us/stat/76/769]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 100–667, title I, § 104][/us/pl/100/667/s104], Nov. 16, 1988, [102 Stat. 3937][/us/stat/102/3937]; [Pub. L. 103–182, title III, § 333(a)][/us/pl/103/182/s333/a], Dec. 8, 1993, [107 Stat. 2114][/us/stat/107/2114]; [Pub. L. 103–465, title V, § 522][/us/pl/103/465/s522], Dec. 8, 1994, [108 Stat. 4982][/us/stat/108/4982]; [Pub. L. 105–330, title II, § 201(a)(2)][/us/pl/105/330/s201/a/2], (12), Oct. 30, 1998, [112 Stat. 3069][/us/stat/112/3069], 3070; [Pub. L. 106–43, § 2(a)][/us/pl/106/43/s2/a], Aug. 5, 1999, [113 Stat. 218][/us/stat/113/218]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(1)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583; [Pub. L. 109–312, § 3(a)][/us/pl/109/312/s3/a], Oct. 6, 2006, [120 Stat. 1732][/us/stat/120/1732].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title I, § 2, [60 Stat. 428][/us/stat/60/428]; [Pub. L. 87–772][/us/pl/87/772], § 2, Oct. 9, 1962, [76 Stat. 769][/us/stat/76/769]; [Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 100–667, title I][/us/pl/100/667/tI], § 104, Nov. 16, 1988, [102 Stat. 3937][/us/stat/102/3937]; [Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 333(a), Dec. 8, 1993, [107 Stat. 2114][/us/stat/107/2114]; [Pub. L. 103–465, title V][/us/pl/103/465/tV], § 522, Dec. 8, 1994, [108 Stat. 4982][/us/stat/108/4982]; [Pub. L. 105–330, title II][/us/pl/105/330/tII], § 201(a)(2), (12), Oct. 30, 1998, [112 Stat. 3069][/us/stat/112/3069], 3070; [Pub. L. 106–43][/us/pl/106/43], § 2(a), Aug. 5, 1999, [113 Stat. 218][/us/stat/113/218]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(1)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583; [Pub. L. 109–312][/us/pl/109/312], § 3(a), Oct. 6, 2006, [120 Stat. 1732][/us/stat/120/1732].)
 
  __References in Text__ 
 
-    Acts March 3, 1881, and February 20, 1905, referred to in subsec. (d), are acts [Mar. 3, 1881, ch. 138][/us/act/1881-03-03/ch138], [21 Stat. 502][/us/stat/21/502], and [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], [33 Stat. 724][/us/stat/33/724], which were repealed insofar as inconsistent with this chapter by [act July 5, 1946, ch. 540, § 46(a)][/us/act/1946-07-05/ch540/s46/a], [60 Stat. 444][/us/stat/60/444]. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
+    Acts March 3, 1881, and February 20, 1905, referred to in subsec. (d), are acts [Mar. 3, 1881, ch. 138][/us/act/1881-03-03/ch138], [21 Stat. 502][/us/stat/21/502], and [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], [33 Stat. 724][/us/stat/33/724], which were repealed insofar as inconsistent with this chapter by [act July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], § 46(a), [60 Stat. 444][/us/stat/60/444]. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
  __Prior Provisions__ 
 
-    Acts [Feb. 20, 1905, ch. 592, § 5][/us/act/1905-02-20/ch592/s5], [33 Stat. 725][/us/stat/33/725]; [Mar. 2, 1907, ch. 2573, § 1][/us/act/1907-03-02/ch2573/s1], [34 Stat. 1251][/us/stat/34/1251]; [Feb. 18, 1911, ch. 113][/us/act/1911-02-18/ch113], [36 Stat. 918][/us/stat/36/918]; [Jan. 8, 1913, ch. 7][/us/act/1913-01-08/ch7], [37 Stat. 649][/us/stat/37/649]; [Mar. 19, 1920, ch. 104, § 9][/us/act/1920-03-19/ch104/s9], [41 Stat. 535][/us/stat/41/535]; [June 7, 1924, ch. 341][/us/act/1924-06-07/ch341], [43 Stat. 647][/us/stat/43/647].
+    Acts [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], § 5, [33 Stat. 725][/us/stat/33/725]; [Mar. 2, 1907, ch. 2573][/us/act/1907-03-02/ch2573], § 1, [34 Stat. 1251][/us/stat/34/1251]; [Feb. 18, 1911, ch. 113][/us/act/1911-02-18/ch113], [36 Stat. 918][/us/stat/36/918]; [Jan. 8, 1913, ch. 7][/us/act/1913-01-08/ch7], [37 Stat. 649][/us/stat/37/649]; [Mar. 19, 1920, ch. 104][/us/act/1920-03-19/ch104], § 9, [41 Stat. 535][/us/stat/41/535]; [June 7, 1924, ch. 341][/us/act/1924-06-07/ch341], [43 Stat. 647][/us/stat/43/647].
 
  __Amendments__ 
 
@@ -47,23 +47,23 @@
 
     Subsecs. (d), (f). [Pub. L. 106–113][/us/pl/106/113] substituted “Director” for “Commissioner” wherever appearing.
 
-    1998—[Pub. L. 105–330, § 201(a)(12)][/us/pl/105/330/s201/a/12], substituted “trademark” for “trade-mark” in introductory provisions.
+    1998—[Pub. L. 105–330][/us/pl/105/330], § 201(a)(12), substituted “trademark” for “trade-mark” in introductory provisions.
 
-    Subsec. (e). [Pub. L. 105–330, § 201(a)(2)(A)][/us/pl/105/330/s201/a/2/A], struck out “or” before “(4)” and inserted “, or (5) comprises any matter that, as a whole, is functional” before period at end.
+    Subsec. (e). [Pub. L. 105–330][/us/pl/105/330], § 201(a)(2)(A), struck out “or” before “(4)” and inserted “, or (5) comprises any matter that, as a whole, is functional” before period at end.
 
-    Subsec. (f). [Pub. L. 105–330, § 201(a)(2)(B)][/us/pl/105/330/s201/a/2/B], substituted “subsections (a), (b), (c), (d), (e)(3), and (e)(5)” for “paragraphs (a), (b), (c), (d), and (e)(3)”.
+    Subsec. (f). [Pub. L. 105–330][/us/pl/105/330], § 201(a)(2)(B), substituted “subsections (a), (b), (c), (d), (e)(3), and (e)(5)” for “paragraphs (a), (b), (c), (d), and (e)(3)”.
 
     1994—Subsec. (a). [Pub. L. 103–465][/us/pl/103/465] amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Consists of or comprises immoral, deceptive, or scandalous matter; or matter which may disparage or falsely suggest a connection with persons, living or dead, institutions, beliefs, or national symbols, or bring them into contempt, or disrepute.”
 
-    1993—Subsec. (e). [Pub. L. 103–182, § 333(a)(1)][/us/pl/103/182/s333/a/1], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Consists of a mark which, (1) when used on or in connection with the goods of the applicant is merely descriptive or deceptively misdescriptive of them, or (2) when used on or in connection with the goods of the applicant is primarily geographically descriptive or deceptively misdescriptive of them, except as indications of regional origin may be registrable under [section 1054 of this title][/us/usc/t15/s1054], or (3) is primarily merely a surname.”
+    1993—Subsec. (e). [Pub. L. 103–182][/us/pl/103/182], § 333(a)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Consists of a mark which, (1) when used on or in connection with the goods of the applicant is merely descriptive or deceptively misdescriptive of them, or (2) when used on or in connection with the goods of the applicant is primarily geographically descriptive or deceptively misdescriptive of them, except as indications of regional origin may be registrable under [section 1054 of this title][/us/usc/t15/s1054], or (3) is primarily merely a surname.”
 
-    Subsec. (f). [Pub. L. 103–182, § 333(a)(2)][/us/pl/103/182/s333/a/2], substituted “(d), and (e)(3)” for “and (d)” and inserted at end “Nothing in this section shall prevent the registration of a mark which, when used on or in connection with the goods of the applicant, is primarily geographically deceptively misdescriptive of them, and which became distinctive of the applicant’s goods in commerce before December 8, 1993.”
+    Subsec. (f). [Pub. L. 103–182][/us/pl/103/182], § 333(a)(2), substituted “(d), and (e)(3)” for “and (d)” and inserted at end “Nothing in this section shall prevent the registration of a mark which, when used on or in connection with the goods of the applicant, is primarily geographically deceptively misdescriptive of them, and which became distinctive of the applicant’s goods in commerce before December 8, 1993.”
 
-    1988—Subsec. (d). [Pub. L. 100–667, § 104(1)][/us/pl/100/667/s104/1], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Consists of or comprises a mark which so resembles a mark registered in the Patent and Trademark Office or a mark or trade name previously used in the United States by another and not abandoned, as to be likely, when applied to the goods of the applicant, to cause confusion, or to cause mistake, or to deceive: Provided, That when the Commissioner determines that confusion, mistake, or deception is not likely to result from the continued use by more than one person of the same or similar marks under conditions and limitations as to the mode or place of use of the marks or the goods in connection with which such marks are used, concurrent registrations may be issued to such persons when they have become entitled to use such marks as a result of their concurrent lawful use in commerce prior to (i) the earliest of the filing dates of the applications pending or of any registration issued under this chapter; or (ii) July 5, 1947, in the case of registrations previously issued under the Act of March 3, 1881, or February 20, 1905, and continuing in full force and effect on that date; or (iii) July 5, 1947, in the case of applications filed under the Act of February 20, 1905, and registered after July 5, 1947. Concurrent registrations may also be issued by the Commissioner when a court of competent jurisdiction has finally determined that more than one person is entitled to use the same or similar marks in commerce. In issuing concurrent registrations, the Commissioner shall prescribe conditions and limitations as to the mode or place of use of the mark or the goods in connection with which such mark is registered to the respective persons.”
+    1988—Subsec. (d). [Pub. L. 100–667][/us/pl/100/667], § 104(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Consists of or comprises a mark which so resembles a mark registered in the Patent and Trademark Office or a mark or trade name previously used in the United States by another and not abandoned, as to be likely, when applied to the goods of the applicant, to cause confusion, or to cause mistake, or to deceive: Provided, That when the Commissioner determines that confusion, mistake, or deception is not likely to result from the continued use by more than one person of the same or similar marks under conditions and limitations as to the mode or place of use of the marks or the goods in connection with which such marks are used, concurrent registrations may be issued to such persons when they have become entitled to use such marks as a result of their concurrent lawful use in commerce prior to (i) the earliest of the filing dates of the applications pending or of any registration issued under this chapter; or (ii) July 5, 1947, in the case of registrations previously issued under the Act of March 3, 1881, or February 20, 1905, and continuing in full force and effect on that date; or (iii) July 5, 1947, in the case of applications filed under the Act of February 20, 1905, and registered after July 5, 1947. Concurrent registrations may also be issued by the Commissioner when a court of competent jurisdiction has finally determined that more than one person is entitled to use the same or similar marks in commerce. In issuing concurrent registrations, the Commissioner shall prescribe conditions and limitations as to the mode or place of use of the mark or the goods in connection with which such mark is registered to the respective persons.”
 
-    Subsec. (e). [Pub. L. 100–667, § 104(2)][/us/pl/100/667/s104/2], substituted “used on or in connection with” for “applied to” in two places.
+    Subsec. (e). [Pub. L. 100–667][/us/pl/100/667], § 104(2), substituted “used on or in connection with” for “applied to” in two places.
 
-    Subsec. (f). [Pub. L. 100–667, § 104(3)][/us/pl/100/667/s104/3], substituted “used on or in connection with” for “applied to” and “five years before the date on which the claim of distinctiveness is made” for “five years next preceding the date of the filing of the application for its registration”
+    Subsec. (f). [Pub. L. 100–667][/us/pl/100/667], § 104(3), substituted “used on or in connection with” for “applied to” and “five years before the date on which the claim of distinctiveness is made” for “five years next preceding the date of the filing of the application for its registration”
 
     1975—Subsec. (d). [Pub. L. 93–596][/us/pl/93/596] substituted “Patent and Trademark Office” for “Patent Office”.
 
@@ -73,7 +73,7 @@
 
     Amendment by [Pub. L. 106–113][/us/pl/106/113] effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, § 4731\] of [Pub. L. 106–113][/us/pl/106/113], set out as a note under [section 1 of Title 35][/us/usc/t35/s1], Patents.
 
-[Pub. L. 106–43, § 2(e)][/us/pl/106/43/s2/e], Aug. 5, 1999, [113 Stat. 218][/us/stat/113/218], provided that: 
+[Pub. L. 106–43][/us/pl/106/43], § 2(e), Aug. 5, 1999, [113 Stat. 218][/us/stat/113/218], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1063, 1064, and 1092 of this title\] shall take effect on the date of enactment of this Act \[Aug. 5, 1999\] and shall apply only to any application for registration filed on or after January 16, 1996.”
 
@@ -83,13 +83,13 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–465, title V, § 523][/us/pl/103/465/s523], Dec. 8, 1994, [108 Stat. 4982][/us/stat/108/4982], provided that: 
+[Pub. L. 103–465, title V][/us/pl/103/465/tV], § 523, Dec. 8, 1994, [108 Stat. 4982][/us/stat/108/4982], provided that: 
 
 > “The amendments made by this subtitle \[subtitle B (§§ 521–523) of title V of [Pub. L. 103–465][/us/pl/103/465], amending this section and [section 1127 of this title][/us/usc/t15/s1127]\] take effect one year after the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\].”
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–182, title III, § 335][/us/pl/103/182/s335], Dec. 8, 1993, [107 Stat. 2116][/us/stat/107/2116], provided that:
+[Pub. L. 103–182, title III][/us/pl/103/182/tIII], § 335, Dec. 8, 1993, [107 Stat. 2116][/us/stat/107/2116], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -143,39 +143,39 @@
 [/us/usc/t15/s1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1092
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F428
-[/us/pl/87/772/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772%2Fs2
+[/us/pl/87/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772
 [/us/stat/76/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F769
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/100/667/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs104
+[/us/pl/100/667/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtI
 [/us/stat/102/3937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3937
-[/us/pl/103/182/s333/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs333%2Fa
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2114
-[/us/pl/103/465/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs522
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4982
-[/us/pl/105/330/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2Fs201%2Fa%2F2
+[/us/pl/105/330/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2FtII
 [/us/stat/112/3069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3069
-[/us/pl/106/43/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43%2Fs2%2Fa
+[/us/pl/106/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43
 [/us/stat/113/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F218
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/109/312/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F312%2Fs3%2Fa
+[/us/pl/109/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F312
 [/us/stat/120/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1732
 [/us/act/1881-03-03/ch138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1881-03-03%2Fch138
 [/us/stat/21/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F21%2F502
 [/us/act/1905-02-20/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592
 [/us/stat/33/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F724
-[/us/act/1946-07-05/ch540/s46/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540%2Fs46%2Fa
+[/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F444
-[/us/act/1905-02-20/ch592/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592%2Fs5
+[/us/act/1905-02-20/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592
 [/us/stat/33/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F725
-[/us/act/1907-03-02/ch2573/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-02%2Fch2573%2Fs1
+[/us/act/1907-03-02/ch2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-02%2Fch2573
 [/us/stat/34/1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1251
 [/us/act/1911-02-18/ch113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1911-02-18%2Fch113
 [/us/stat/36/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F918
 [/us/act/1913-01-08/ch7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-01-08%2Fch7
 [/us/stat/37/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F649
-[/us/act/1920-03-19/ch104/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-19%2Fch104%2Fs9
+[/us/act/1920-03-19/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-19%2Fch104
 [/us/stat/41/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F535
 [/us/act/1924-06-07/ch341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1924-06-07%2Fch341
 [/us/stat/43/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F647
@@ -192,31 +192,31 @@
 [/us/usc/t15/s1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1092
 [/us/pl/106/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/105/330/s201/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2Fs201%2Fa%2F12
-[/us/pl/105/330/s201/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2Fs201%2Fa%2F2%2FA
-[/us/pl/105/330/s201/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2Fs201%2Fa%2F2%2FB
+[/us/pl/105/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330
+[/us/pl/105/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330
+[/us/pl/105/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
-[/us/pl/103/182/s333/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs333%2Fa%2F1
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/usc/t15/s1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1054
-[/us/pl/103/182/s333/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs333%2Fa%2F2
-[/us/pl/100/667/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs104%2F1
-[/us/pl/100/667/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs104%2F2
-[/us/pl/100/667/s104/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs104%2F3
+[/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/pl/87/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1
-[/us/pl/106/43/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43%2Fs2%2Fe
+[/us/pl/106/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43
 [/us/stat/113/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F218
 [/us/pl/105/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330
 [/us/pl/105/330/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2Fs201%2Fb
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
-[/us/pl/103/465/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs523
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4982
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t15/s1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1127
-[/us/pl/103/182/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2Fs335
+[/us/pl/103/182/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182%2FtIII
 [/us/stat/107/2116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2116
 [/us/pl/103/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F182
 [/us/usc/t17/s104A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs104A

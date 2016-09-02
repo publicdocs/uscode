@@ -31,7 +31,7 @@
 
         (2) been suspended or terminated pursuant to [section 1762(c) of title 8][/us/usc/t8/s1762/c].
 
-([Pub. L. 107–305, § 16][/us/pl/107/305/s16], Nov. 27, 2002, [116 Stat. 2381][/us/stat/116/2381].)
+([Pub. L. 107–305][/us/pl/107/305], § 16, Nov. 27, 2002, [116 Stat. 2381][/us/stat/116/2381].)
 
  __References in Text__ 
 
@@ -48,7 +48,7 @@
 [/us/usc/t8/s1372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1372
 [/us/usc/t8/s1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1762
 [/us/usc/t8/s1762/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1762%2Fc
-[/us/pl/107/305/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305%2Fs16
+[/us/pl/107/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305
 [/us/stat/116/2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2381
 [/us/pl/107/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305
 [/us/stat/116/2367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2367

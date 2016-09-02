@@ -23,7 +23,7 @@
 
         Upon examination and certification of the international application, the Director shall transmit the international application to the International Bureau.
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title XII, § 62, as added [Pub. L. 107–273, div. C, title III, § 13402][/us/pl/107/273/s13402], Nov. 2, 2002, [116 Stat. 1915][/us/stat/116/1915].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title XII, § 62, as added [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13402, Nov. 2, 2002, [116 Stat. 1915][/us/stat/116/1915].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
-[/us/pl/107/273/s13402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13402
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1915
 
 

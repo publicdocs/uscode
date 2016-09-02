@@ -27,7 +27,7 @@
 
         A creditor shall report any subsequent resolution of any delinquencies reported pursuant to subsection (b) to the parties to whom such delinquencies were initially reported.
 
-([Pub. L. 90–321, title I, § 162][/us/pl/90/321/s162], as added [Pub. L. 93–495, title III, § 306][/us/pl/93/495/s306], Oct. 28, 1974, [88 Stat. 1513][/us/stat/88/1513].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 162, as added [Pub. L. 93–495, title III][/us/pl/93/495/tIII], § 306, Oct. 28, 1974, [88 Stat. 1513][/us/stat/88/1513].)
 
 ----------
 
@@ -40,8 +40,8 @@
 [/us/usc/t15/s1666/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1666%2Fa%2F2
 [/us/usc/t15/s1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1666
 [/us/usc/t15/s1666/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1666%2Fa%2F2
-[/us/pl/90/321/s162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs162
-[/us/pl/93/495/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs306
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/93/495/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtIII
 [/us/stat/88/1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1513
 
 

@@ -17,7 +17,7 @@
 
     The provision of this subchapter shall be held to be in addition to, and not in substitution for or limitation of, the provisions of any other Act of the United States.
 
-([Oct. 14, 1940, ch. 871, § 11][/us/act/1940-10-14/ch871/s11], [54 Stat. 1133][/us/stat/54/1133].)
+([Oct. 14, 1940, ch. 871][/us/act/1940-10-14/ch871], § 11, [54 Stat. 1133][/us/stat/54/1133].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1940-10-14/ch871/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch871%2Fs11
+[/us/act/1940-10-14/ch871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch871
 [/us/stat/54/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1133
 
 

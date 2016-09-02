@@ -21,7 +21,7 @@
 
     (2) by maintaining or merging public record and credit account information in a manner that is substantially equivalent to that described in paragraphs (1) and (2) of [section 1681a(p) of this title][/us/usc/t15/s1681a/p], in the manner described in [section 1681a(p) of this title][/us/usc/t15/s1681a/p].
 
-([Pub. L. 90–321, title VI, § 629][/us/pl/90/321/s629], as added [Pub. L. 108–159, title II, § 211(b)][/us/pl/108/159/s211/b], Dec. 4, 2003, [117 Stat. 1970][/us/stat/117/1970].)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 629, as added [Pub. L. 108–159, title II][/us/pl/108/159/tII], § 211(b), Dec. 4, 2003, [117 Stat. 1970][/us/stat/117/1970].)
 
  __Effective Date__ 
 
@@ -37,8 +37,8 @@
 [/us/usc/t15/s1681a/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fp
 [/us/usc/t15/s1681a/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fp
 [/us/usc/t15/s1681a/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fp
-[/us/pl/90/321/s629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs629
-[/us/pl/108/159/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs211%2Fb
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/108/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtII
 [/us/stat/117/1970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1970
 [/us/pl/108/159/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs3
 [/us/usc/t15/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681

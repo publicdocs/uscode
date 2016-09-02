@@ -53,11 +53,11 @@
 
     (18) there is a national need to gather and disseminate information about methods and techniques to improve productivity.
 
-([Pub. L. 94–136, title I, § 101][/us/pl/94/136/s101], Nov. 28, 1975, [89 Stat. 733][/us/stat/89/733].)
+([Pub. L. 94–136, title I][/us/pl/94/136/tI], § 101, Nov. 28, 1975, [89 Stat. 733][/us/stat/89/733].)
 
  __Short Title__ 
 
-[Pub. L. 94–136, § 1][/us/pl/94/136/s1], Nov. 28, 1975, [89 Stat. 733][/us/stat/89/733], provided: 
+[Pub. L. 94–136][/us/pl/94/136], § 1, Nov. 28, 1975, [89 Stat. 733][/us/stat/89/733], provided: 
 
 > “That this Act \[enacting this chapter, repealing [section 1026 of this title][/us/usc/t15/s1026], and enacting provisions set out as notes under this section\] may be cited as the ‘National Productivity And Quality of Working Life Act of 1975’.”
 
@@ -80,9 +80,9 @@
 ----------
 ----------
 
-[/us/pl/94/136/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2Fs101
+[/us/pl/94/136/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2FtI
 [/us/stat/89/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F733
-[/us/pl/94/136/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2Fs1
+[/us/pl/94/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136
 [/us/stat/89/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F733
 [/us/usc/t15/s1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1026
 [/us/pl/97/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F367

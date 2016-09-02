@@ -147,7 +147,7 @@
 
         (6) the term “United States” means the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-([Pub. L. 100–418, title II, § 2301][/us/pl/100/418/s2301], Aug. 23, 1988, [102 Stat. 1338][/us/stat/102/1338]; [Pub. L. 102–429, title II][/us/pl/102/429], §§ 202, 203, 205, Oct. 21, 1992, [106 Stat. 2201][/us/stat/106/2201], 2204.)
+([Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2301, Aug. 23, 1988, [102 Stat. 1338][/us/stat/102/1338]; [Pub. L. 102–429, title II][/us/pl/102/429/tII], §§ 202, 203, 205, Oct. 21, 1992, [106 Stat. 2201][/us/stat/106/2201], 2204.)
 
  __References in Text__ 
 
@@ -161,9 +161,9 @@
 
     1992—Subsec. (b)(8), (9). [Pub. L. 102–429][/us/pl/102/429], §§ 202, 203(a), added pars. (8) and (9).
 
-    Subsec. (d)(1). [Pub. L. 102–429, § 205][/us/pl/102/429/s205], substituted “16” for “8”.
+    Subsec. (d)(1). [Pub. L. 102–429][/us/pl/102/429], § 205, substituted “16” for “8”.
 
-    Subsecs. (f) to (j). [Pub. L. 102–429, § 203(b)][/us/pl/102/429/s203/b], added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
+    Subsecs. (f) to (j). [Pub. L. 102–429][/us/pl/102/429], § 203(b), added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
 
  __Termination of Reporting Requirements__ 
 
@@ -181,9 +181,9 @@
 [/us/usc/t22/s4802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs4802
 [/us/usc/t12/s635i–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635i%E2%80%937
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
-[/us/pl/100/418/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2301
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1338
-[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2FtII
 [/us/stat/106/2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2201
 [/us/pl/96/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F465
 [/us/stat/94/2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2071
@@ -192,8 +192,8 @@
 [/us/pl/100/418/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2301
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
-[/us/pl/102/429/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs205
-[/us/pl/102/429/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs203%2Fb
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
+[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 

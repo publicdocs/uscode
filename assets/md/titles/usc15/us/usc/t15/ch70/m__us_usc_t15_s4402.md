@@ -99,7 +99,7 @@
 
         The Secretary may, by a rulemaking conducted under [section 553 of title 5][/us/usc/t5/s553], adjust the format, type size, and text of any of the label requirements, require color graphics to accompany the text, increase the required label area from 30 percent up to 50 percent of the front and rear panels of the package, or establish the format, type size, and text of any other disclosures required under the Federal Food, Drug, and Cosmetic Act, if the Secretary finds that such a change would promote greater public understanding of the risks associated with the use of smokeless tobacco products.
 
-([Pub. L. 99–252, § 3][/us/pl/99/252/s3], Feb. 27, 1986, [100 Stat. 30][/us/stat/100/30]; [Pub. L. 111–31, div. A, title II][/us/pl/111/31], §§ 204(a), 205(a), June 22, 2009, [123 Stat. 1846][/us/stat/123/1846], 1848.)
+([Pub. L. 99–252][/us/pl/99/252], § 3, Feb. 27, 1986, [100 Stat. 30][/us/stat/100/30]; [Pub. L. 111–31, div. A, title II][/us/pl/111/31/dA/tII], §§ 204(a), 205(a), June 22, 2009, [123 Stat. 1846][/us/stat/123/1846], 1848.)
 
  __References in Text__ 
 
@@ -107,13 +107,13 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–31, § 204(a)][/us/pl/111/31/s204/a], amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to smokeless tobacco warning labels and television and radio advertising.
+    2009—[Pub. L. 111–31][/us/pl/111/31], § 204(a), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to smokeless tobacco warning labels and television and radio advertising.
 
-    Subsec. (d). [Pub. L. 111–31, § 205(a)][/us/pl/111/31/s205/a], amended section as amended by [Pub. L. 111–31, § 204][/us/pl/111/31/s204], by adding subsec. (d).
+    Subsec. (d). [Pub. L. 111–31][/us/pl/111/31], § 205(a), amended section as amended by [Pub. L. 111–31][/us/pl/111/31], § 204, by adding subsec. (d).
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–31, div. A, title II, § 204(b)][/us/pl/111/31/s204/b], June 22, 2009, [123 Stat. 1848][/us/stat/123/1848], provided that: 
+[Pub. L. 111–31, div. A, title II][/us/pl/111/31/dA/tII], § 204(b), June 22, 2009, [123 Stat. 1848][/us/stat/123/1848], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect 12 months after the date of enactment of this Act \[June 22, 2009\]. Such effective date shall be with respect to the date of manufacture, provided that, in any case, beginning 30 days after such effective date, a manufacturer shall not introduce into the domestic commerce of the United States any product, irrespective of the date of manufacture, that is not in conformance with section 3 of the Comprehensive Smokeless Tobacco Health Education Act of 1986 ([15 U.S.C. 4402][/us/usc/t15/s4402]), as amended by subsection (a).”
 
@@ -131,17 +131,17 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/99/252/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252%2Fs3
+[/us/pl/99/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252
 [/us/stat/100/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F30
-[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtII
 [/us/stat/123/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1846
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/111/31/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs204%2Fa
-[/us/pl/111/31/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs205%2Fa
-[/us/pl/111/31/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs204
-[/us/pl/111/31/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs204%2Fb
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtII
 [/us/stat/123/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1848
 [/us/usc/t15/s4402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4402
 [/us/pl/99/252/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252%2Fs11

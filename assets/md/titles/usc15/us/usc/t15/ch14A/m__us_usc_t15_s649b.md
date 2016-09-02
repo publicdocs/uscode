@@ -73,7 +73,7 @@
 
         The authority to enter into contracts shall be in effect for each fiscal year only to the extent or in the amounts as are provided in advance in appropriation Acts.
 
-([Pub. L. 96–481, title III, § 302][/us/pl/96/481/s302], Oct. 21, 1980, [94 Stat. 2331][/us/stat/94/2331].)
+([Pub. L. 96–481, title III][/us/pl/96/481/tIII], § 302, Oct. 21, 1980, [94 Stat. 2331][/us/stat/94/2331].)
 
  __Codification__ 
 
@@ -85,7 +85,7 @@
 
  __State Trade and Export Promotion Grant Program__ 
 
-[Pub. L. 111–240, title I, § 1207][/us/pl/111/240/s1207], Sept. 27, 2010, [124 Stat. 2532][/us/stat/124/2532], as amended by [Pub. L. 112–239, div. A, title XVI, § 1699a][/us/pl/112/239/s1699a], Jan. 2, 2013, [126 Stat. 2092][/us/stat/126/2092], provided that:
+[Pub. L. 111–240, title I][/us/pl/111/240/tI], § 1207, Sept. 27, 2010, [124 Stat. 2532][/us/stat/124/2532], as amended by [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1699a, Jan. 2, 2013, [126 Stat. 2092][/us/stat/126/2092], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -237,7 +237,7 @@
 
  __Definitions__ 
 
-[Pub. L. 111–240, title I, § 1202(a)][/us/pl/111/240/s1202/a], Sept. 27, 2010, [124 Stat. 2520][/us/stat/124/2520], provided that: 
+[Pub. L. 111–240, title I][/us/pl/111/240/tI], § 1202(a), Sept. 27, 2010, [124 Stat. 2520][/us/stat/124/2520], provided that: 
 
 > “In this subtitle \[subtitle B (§§ 1201–1209) of title I of [Pub. L. 111–240][/us/pl/111/240], see Short Title of 2010 Amendment note set out under [section 631 of this title][/us/usc/t15/s631]\]—
 
@@ -256,13 +256,13 @@
 ----------
 ----------
 
-[/us/pl/96/481/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs302
+[/us/pl/96/481/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2FtIII
 [/us/stat/94/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2331
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/111/240/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1207
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2532
-[/us/pl/112/239/s1699a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1699a
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2092
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/usc/t15/s6537/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6537%2Fa%2F4%2FA
@@ -271,7 +271,7 @@
 [/us/pl/111/240/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1207
 [/us/pl/111/240/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1001
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
-[/us/pl/111/240/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1202%2Fa
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2520
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631

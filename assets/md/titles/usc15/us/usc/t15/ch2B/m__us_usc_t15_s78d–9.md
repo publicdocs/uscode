@@ -65,7 +65,7 @@
 
             (B) remain available until expended.
 
-([Pub. L. 111–203, title IX, § 964][/us/pl/111/203/s964], July 21, 2010, [124 Stat. 1910][/us/stat/124/1910].)
+([Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 964, July 21, 2010, [124 Stat. 1910][/us/stat/124/1910].)
 
  __Codification__ 
 
@@ -86,7 +86,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs964
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1910
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

@@ -17,7 +17,7 @@
 
     The Committee shall advise the Secretary of Commerce, as appropriate, on the establishment, structure, contents, and operation of a National Trade Data Bank in accordance with [section 4906 of this title][/us/usc/t15/s4906] in order to assure the timely collection of accurate data and to provide the private sector and government officials efficient access to economic and trade data collected by the Federal Government for purposes of policymaking and export promotion.
 
-([Pub. L. 100–418, title V, § 5403][/us/pl/100/418/s5403], Aug. 23, 1988, [102 Stat. 1464][/us/stat/102/1464].)
+([Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5403, Aug. 23, 1988, [102 Stat. 1464][/us/stat/102/1464].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t15/s4906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4906
-[/us/pl/100/418/s5403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5403
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1464
 
 

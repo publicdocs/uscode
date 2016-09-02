@@ -17,7 +17,7 @@
 
     To the extent such procedures are not inconsistent with the requirements of this part, the Administrator may take such action as set forth in sections 687a, 687c, 687d, and 687f of this title and an officer, director, employee, agent, or other participant in the management or conduct of the affairs of a Renewable Fuel Capital Investment company shall be subject to the requirements of such sections.
 
-([Pub. L. 85–699, title III, § 394][/us/pl/85/699/s394], as added [Pub. L. 110–140, title XII, § 1207][/us/pl/110/140/s1207], Dec. 19, 2007, [121 Stat. 1783][/us/stat/121/1783].)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 394, as added [Pub. L. 110–140, title XII][/us/pl/110/140/tXII], § 1207, Dec. 19, 2007, [121 Stat. 1783][/us/stat/121/1783].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/85/699/s394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs394
-[/us/pl/110/140/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1207
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/110/140/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXII
 [/us/stat/121/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1783
 
 

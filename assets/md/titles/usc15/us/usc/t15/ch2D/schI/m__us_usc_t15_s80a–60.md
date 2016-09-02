@@ -69,7 +69,7 @@
 
         A business development company shall comply with the provisions of this section at the time it becomes subject to sections 80a–54 through 80a–64 of this title, as if it were issuing a security of each class which it has outstanding at such time.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 61, as added [Pub. L. 96–477, title I, § 105][/us/pl/96/477/s105], Oct. 21, 1980, [94 Stat. 2286][/us/stat/94/2286]; amended [Pub. L. 104–290, title V, § 506][/us/pl/104/290/s506], Oct. 11, 1996, [110 Stat. 3446][/us/stat/110/3446]; [Pub. L. 111–203, title IX, § 985(d)(5)][/us/pl/111/203/s985/d/5], July 21, 2010, [124 Stat. 1934][/us/stat/124/1934].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 61, as added [Pub. L. 96–477, title I][/us/pl/96/477/tI], § 105, Oct. 21, 1980, [94 Stat. 2286][/us/stat/94/2286]; amended [Pub. L. 104–290, title V][/us/pl/104/290/tV], § 506, Oct. 11, 1996, [110 Stat. 3446][/us/stat/110/3446]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 985(d)(5), July 21, 2010, [124 Stat. 1934][/us/stat/124/1934].)
 
  __References in Text__ 
 
@@ -79,17 +79,17 @@
 
     2010—Subsec. (a)(3)(B)(iii). [Pub. L. 111–203][/us/pl/111/203] substituted “[section 80b–5(a)(1) of this title][/us/usc/t15/s80b–5/a/1]” for “paragraph (1) of [section 80b–5 of this title][/us/usc/t15/s80b–5]” and “paragraph (1) or (2) of [section 80b–5(b) of this title][/us/usc/t15/s80b–5/b]” for “clause (A) or (B) of that section”.
 
-    1996—Subsec. (a)(2). [Pub. L. 104–290, § 506(1)][/us/pl/104/290/s506/1], substituted a period for “if such business development company does not have outstanding any publicly held indebtedness, and all such securities of each class are—
+    1996—Subsec. (a)(2). [Pub. L. 104–290][/us/pl/104/290], § 506(1), substituted a period for “if such business development company does not have outstanding any publicly held indebtedness, and all such securities of each class are—
 
     “(A) privately held or guaranteed by the Small Business Administration, or banks, insurance companies, or other institutional investors; and
 
     “(B) not intended to be publicly distributed.”
 
-    Subsec. (a)(3)(A). [Pub. L. 104–290, § 506(2)(A)][/us/pl/104/290/s506/2/A], (B), inserted “accompanied by securities,” after “of such company,” and struck out “senior securities representing indebtedness accompanied by” before “warrants, options, or rights”.
+    Subsec. (a)(3)(A). [Pub. L. 104–290][/us/pl/104/290], § 506(2)(A), (B), inserted “accompanied by securities,” after “of such company,” and struck out “senior securities representing indebtedness accompanied by” before “warrants, options, or rights”.
 
-    Subsec. (a)(3)(A)(ii). [Pub. L. 104–290, § 506(2)(C)][/us/pl/104/290/s506/2/C], struck out “senior” before “securities”.
+    Subsec. (a)(3)(A)(ii). [Pub. L. 104–290][/us/pl/104/290], § 506(2)(C), struck out “senior” before “securities”.
 
-    Subsec. (a)(3)(C). [Pub. L. 104–290, § 506(3)][/us/pl/104/290/s506/3], added subpar. (C).
+    Subsec. (a)(3)(C). [Pub. L. 104–290][/us/pl/104/290], § 506(3), added subpar. (C).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -114,11 +114,11 @@
 [/us/usc/t15/s80a–18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9318%2Fa
 [/us/usc/t15/s80a–18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9318%2Fa
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
-[/us/pl/96/477/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2Fs105
+[/us/pl/96/477/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2FtI
 [/us/stat/94/2286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2286
-[/us/pl/104/290/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs506
+[/us/pl/104/290/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtV
 [/us/stat/110/3446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3446
-[/us/pl/111/203/s985/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs985%2Fd%2F5
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1934
 [/us/pl/85/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699
 [/us/stat/72/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F689
@@ -127,10 +127,10 @@
 [/us/usc/t15/s80b–5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%935%2Fa%2F1
 [/us/usc/t15/s80b–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%935
 [/us/usc/t15/s80b–5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%935%2Fb
-[/us/pl/104/290/s506/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs506%2F1
-[/us/pl/104/290/s506/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs506%2F2%2FA
-[/us/pl/104/290/s506/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs506%2F2%2FC
-[/us/pl/104/290/s506/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs506%2F3
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

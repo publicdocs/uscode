@@ -129,11 +129,11 @@
 
         (2) the Board in making determinations regarding the meaning or interpretation of section 1693o–2 of this title.
 
-([Pub. L. 90–321, title IX, § 904][/us/pl/90/321/s904], as added [Pub. L. 95–630, title XX, § 2001][/us/pl/95/630/s2001], Nov. 10, 1978, [92 Stat. 3730][/us/stat/92/3730]; amended [Pub. L. 104–193, title VIII, § 891][/us/pl/104/193/s891], title IX, § 907, Aug. 22, 1996, [110 Stat. 2346][/us/stat/110/2346], 2350; [Pub. L. 106–102, title VII, § 702][/us/pl/106/102/s702], Nov. 12, 1999, [113 Stat. 1463][/us/stat/113/1463]; [Pub. L. 111–203, title X][/us/pl/111/203], §§ 1073(a)(2), 1084(1), (3), July 21, 2010, [124 Stat. 2060][/us/stat/124/2060], 2081; [Pub. L. 112–216, § 1][/us/pl/112/216/s1], Dec. 20, 2012, [126 Stat. 1590][/us/stat/126/1590].)
+([Pub. L. 90–321, title IX][/us/pl/90/321/tIX], § 904, as added [Pub. L. 95–630, title XX][/us/pl/95/630/tXX], § 2001, Nov. 10, 1978, [92 Stat. 3730][/us/stat/92/3730]; amended [Pub. L. 104–193, title VIII][/us/pl/104/193/tVIII], § 891, title IX, § 907, Aug. 22, 1996, [110 Stat. 2346][/us/stat/110/2346], 2350; [Pub. L. 106–102, title VII][/us/pl/106/102/tVII], § 702, Nov. 12, 1999, [113 Stat. 1463][/us/stat/113/1463]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], §§ 1073(a)(2), 1084(1), (3), July 21, 2010, [124 Stat. 2060][/us/stat/124/2060], 2081; [Pub. L. 112–216][/us/pl/112/216], § 1, Dec. 20, 2012, [126 Stat. 1590][/us/stat/126/1590].)
 
  __References in Text__ 
 
-    Section 1693o of this title, referred to in subsec. (a)(1), was in the original “section 917”, and was translated as meaning [section 918 of Pub. L. 90–321][/us/pl/90/321/s918] to reflect the probable intent of Congress and the renumbering of [section 917 of Pub. L. 90–321][/us/pl/90/321/s917] as section 918 by [Pub. L. 111–24, title IV, § 401][/us/pl/111/24/s401], May 22, 2009, [123 Stat. 1751][/us/stat/123/1751].
+    Section 1693o of this title, referred to in subsec. (a)(1), was in the original “section 917”, and was translated as meaning [section 918 of Pub. L. 90–321][/us/pl/90/321/s918] to reflect the probable intent of Congress and the renumbering of [section 917 of Pub. L. 90–321][/us/pl/90/321/s917] as section 918 by [Pub. L. 111–24, title IV][/us/pl/111/24/tIV], § 401, May 22, 2009, [123 Stat. 1751][/us/stat/123/1751].
 
  __Amendments__ 
 
@@ -145,17 +145,17 @@
 
     and struck out “, except that during the period beginning on November 12, 1999, and ending on December 31, 2004, this clause shall not apply to any automated teller machine that lacks the technical capability to disclose the notice on the screen or to issue a paper notice after the transaction is initiated and before the consumer is irrevocably committed to completing the transaction” after “completing the transaction”.
 
-    2010—[Pub. L. 111–203, § 1084(1)][/us/pl/111/203/s1084/1], substituted “Bureau” for “Board” wherever appearing in subsecs. (b) to (d).
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1084(1), substituted “Bureau” for “Board” wherever appearing in subsecs. (b) to (d).
 
-    Subsec. (a). [Pub. L. 111–203, § 1084(3)(A)][/us/pl/111/203/s1084/3/A], substituted “Prescription by the Bureau and the Board” for “Prescription by Board” in heading that had been supplied editorially and substituted initial pars. (1) and (2), relating to the Bureau’s prescription of rules and authority of the Board, for first sentence of former introductory provisions which read as follows: “The Board shall prescribe regulations to carry out the purposes of this subchapter.” Second sentence of former introductory provisions was redesignated as concluding provisions of par. (2) to reflect the probable intent of Congress.
+    Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 1084(3)(A), substituted “Prescription by the Bureau and the Board” for “Prescription by Board” in heading that had been supplied editorially and substituted initial pars. (1) and (2), relating to the Bureau’s prescription of rules and authority of the Board, for first sentence of former introductory provisions which read as follows: “The Board shall prescribe regulations to carry out the purposes of this subchapter.” Second sentence of former introductory provisions was redesignated as concluding provisions of par. (2) to reflect the probable intent of Congress.
 
-    Subsec. (c). [Pub. L. 111–203, § 1073(a)(2)][/us/pl/111/203/s1073/a/2], inserted “or remittance transfers” after “electronic fund transfers”.
+    Subsec. (c). [Pub. L. 111–203][/us/pl/111/203], § 1073(a)(2), inserted “or remittance transfers” after “electronic fund transfers”.
 
-    Subsec. (e). [Pub. L. 111–203, § 1084(3)(B)][/us/pl/111/203/s1084/3/B], added subsec. (e).
+    Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 1084(3)(B), added subsec. (e).
 
     1999—Subsec. (d)(3). [Pub. L. 106–102][/us/pl/106/102] added par. (3).
 
-    1996—Subsec. (d). [Pub. L. 104–193, § 907][/us/pl/104/193/s907], which directed the amendment of subsec. (d), was not executed because of similar amendment by [Pub. L. 104–193, § 891][/us/pl/104/193/s891]. See below. [Section 907 of Pub. L. 104–193][/us/pl/104/193/s907] provided that subsec. (d) was to be amended by inserting subsec. (d) heading, by designating existing provisions as par. (1) and inserting heading, and by adding a new par. (2) reading as follows:
+    1996—Subsec. (d). [Pub. L. 104–193][/us/pl/104/193], § 907, which directed the amendment of subsec. (d), was not executed because of similar amendment by [Pub. L. 104–193][/us/pl/104/193], § 891. See below. [Section 907 of Pub. L. 104–193][/us/pl/104/193/s907] provided that subsec. (d) was to be amended by inserting subsec. (d) heading, by designating existing provisions as par. (1) and inserting heading, and by adding a new par. (2) reading as follows:
 
     “(2) State and local government electronic benefit transfer programs.—
 
@@ -175,7 +175,7 @@
 
     “(ii) does not include employment-related payments, including salaries and pension, retirement, or unemployment benefits established by Federal, State, or local governments.”
 
-    [Pub. L. 104–193, § 891][/us/pl/104/193/s891], designated existing provisions as par. (1), inserted subsec. heading and par. (2), and substituted “If” for “In the event that”.
+    [Pub. L. 104–193][/us/pl/104/193], § 891, designated existing provisions as par. (1), inserted subsec. heading and par. (2), and substituted “If” for “In the event that”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -193,31 +193,31 @@
 [/us/usc/t12/s5519/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5519%2Fa
 [/us/usc/t15/s1693c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693c
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/90/321/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs904
-[/us/pl/95/630/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs2001
+[/us/pl/90/321/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIX
+[/us/pl/95/630/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXX
 [/us/stat/92/3730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3730
-[/us/pl/104/193/s891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs891
+[/us/pl/104/193/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtVIII
 [/us/stat/110/2346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2346
-[/us/pl/106/102/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs702
+[/us/pl/106/102/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtVII
 [/us/stat/113/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1463
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2060
-[/us/pl/112/216/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F216%2Fs1
+[/us/pl/112/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F216
 [/us/stat/126/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1590
 [/us/pl/90/321/s918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs918
 [/us/pl/90/321/s917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs917
-[/us/pl/111/24/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs401
+[/us/pl/111/24/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtIV
 [/us/stat/123/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1751
 [/us/pl/112/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F216
-[/us/pl/111/203/s1084/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F1
-[/us/pl/111/203/s1084/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F3%2FA
-[/us/pl/111/203/s1073/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1073%2Fa%2F2
-[/us/pl/111/203/s1084/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F3%2FB
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs907
-[/us/pl/104/193/s891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs891
-[/us/pl/104/193/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs907
-[/us/pl/104/193/s891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs891
+[/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/111/203/s1073/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1073%2Fa%2F2
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

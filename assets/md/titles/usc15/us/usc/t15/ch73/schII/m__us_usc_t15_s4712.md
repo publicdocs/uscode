@@ -67,7 +67,7 @@
 
             (D) provide assistance to enterprises seeking barter and countertrade opportunities.
 
-([Pub. L. 100–418, title II, § 2205][/us/pl/100/418/s2205], Aug. 23, 1988, [102 Stat. 1332][/us/stat/102/1332].)
+([Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2205, Aug. 23, 1988, [102 Stat. 1332][/us/stat/102/1332].)
 
  __Composition of Interagency Group__ 
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2205
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1332
 [/us/usc/t19/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2901
 

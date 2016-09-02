@@ -39,7 +39,7 @@
 
         For the purposes of this section, a “master plan” is one which will result in the planning and implementation in the area involved of a general program of action for fire prevention and control. Such master plan is reasonably expected to include (1) a survey of the resources and personnel of existing fire services and an analysis of the effectiveness of the fire and building codes in such area; (2) an analysis of short and long term fire prevention and control needs in such area; (3) a plan to meet the fire prevention and control needs in such area; and (4) an estimate of cost and realistic plans for financing the implementation of the plan and operation on a continuing basis and a summary of problems that are anticipated in implementing such master plan.
 
-([Pub. L. 93–498, § 10][/us/pl/93/498/s10], Oct. 29, 1974, [88 Stat. 1542][/us/stat/88/1542]; [Pub. L. 106–503, title I, § 110(a)(1)(A)][/us/pl/106/503/s110/a/1/A], Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302]; [Pub. L. 108–169, title II, § 203(a)][/us/pl/108/169/s203/a], Dec. 6, 2003, [117 Stat. 2038][/us/stat/117/2038].)
+([Pub. L. 93–498][/us/pl/93/498], § 10, Oct. 29, 1974, [88 Stat. 1542][/us/stat/88/1542]; [Pub. L. 106–503, title I][/us/pl/106/503/tI], § 110(a)(1)(A), Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302]; [Pub. L. 108–169, title II][/us/pl/108/169/tII], § 203(a), Dec. 6, 2003, [117 Stat. 2038][/us/stat/117/2038].)
 
  __References in Text__ 
 
@@ -66,11 +66,11 @@
 ----------
 ----------
 
-[/us/pl/93/498/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs10
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1542
-[/us/pl/106/503/s110/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs110%2Fa%2F1%2FA
+[/us/pl/106/503/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2FtI
 [/us/stat/114/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2302
-[/us/pl/108/169/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2Fs203%2Fa
+[/us/pl/108/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2FtII
 [/us/stat/117/2038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2038
 [/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1535

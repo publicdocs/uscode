@@ -23,7 +23,7 @@
 
         The Commission shall enforce this chapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act ([15 U.S.C. 41][/us/usc/t15/s41] et seq.) were incorporated into and made a part of this chapter.
 
-([Pub. L. 108–304, § 4][/us/pl/108/304/s4], Sept. 24, 2004, [118 Stat. 1127][/us/stat/118/1127].)
+([Pub. L. 108–304][/us/pl/108/304], § 4, Sept. 24, 2004, [118 Stat. 1127][/us/stat/118/1127].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t15/s57a/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a%2Fa%2F1%2FB
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/pl/108/304/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F304%2Fs4
+[/us/pl/108/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F304
 [/us/stat/118/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1127
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

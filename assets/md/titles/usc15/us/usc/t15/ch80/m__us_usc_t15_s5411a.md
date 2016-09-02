@@ -39,7 +39,7 @@
 
         (3) An affirmation required under paragraph (1) or (2) shall take the form of a self-declaration that the accreditation body meets the requirements of the applicable Guide, signed by an authorized representative of the accreditation body, without requirement for accompanying documentation. Any such affirmation shall be considered to be a continuous affirmation that the accreditation body meets the requirements of the applicable Guide, unless and until the affirmation is withdrawn by the accreditation body.
 
-([Pub. L. 101–592, § 10][/us/pl/101/592/s10], as added [Pub. L. 106–34, § 10][/us/pl/106/34/s10], June 8, 1999, [113 Stat. 123][/us/stat/113/123].)
+([Pub. L. 101–592][/us/pl/101/592], § 10, as added [Pub. L. 106–34][/us/pl/106/34], § 10, June 8, 1999, [113 Stat. 123][/us/stat/113/123].)
 
  __Prior Provisions__ 
 
@@ -59,8 +59,8 @@
 [/us/usc/t15/s5402/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5402%2F1%2FB
 [/us/usc/t15/s5402/7/B/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5402%2F7%2FB%2Fiii%2FI
 [/us/usc/t15/s5402/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5402%2F1%2FB
-[/us/pl/101/592/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F592%2Fs10
-[/us/pl/106/34/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34%2Fs10
+[/us/pl/101/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F592
+[/us/pl/106/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34
 [/us/stat/113/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F123
 [/us/pl/101/592/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F592%2Fs10
 [/us/usc/t15/s5409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5409

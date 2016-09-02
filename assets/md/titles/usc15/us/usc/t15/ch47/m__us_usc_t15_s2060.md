@@ -69,7 +69,7 @@
 
             A rule or standard with respect to which this subsection applies shall not be subject to judicial review in proceedings under [section 2066 of this title][/us/usc/t15/s2066] (relating to imported products) or in civil or criminal proceedings for enforcement.
 
-([Pub. L. 92–573, § 11][/us/pl/92/573/s11], Oct. 27, 1972, [86 Stat. 1218][/us/stat/86/1218]; [Pub. L. 94–284][/us/pl/94/284], §§ 10(b), 11(a), May 11, 1976, [90 Stat. 507][/us/stat/90/507]; [Pub. L. 97–35, title XII, § 1211(h)(1)][/us/pl/97/35/s1211/h/1]–(3)(A), Aug. 13, 1981, [95 Stat. 723][/us/stat/95/723]; [Pub. L. 97–414, § 9(j)(2)][/us/pl/97/414/s9/j/2], Jan. 4, 1983, [96 Stat. 2064][/us/stat/96/2064]; [Pub. L. 110–314, title II, § 236(a)][/us/pl/110/314/s236/a], Aug. 14, 2008, [122 Stat. 3075][/us/stat/122/3075].)
+([Pub. L. 92–573][/us/pl/92/573], § 11, Oct. 27, 1972, [86 Stat. 1218][/us/stat/86/1218]; [Pub. L. 94–284][/us/pl/94/284], §§ 10(b), 11(a), May 11, 1976, [90 Stat. 507][/us/stat/90/507]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1211(h)(1)–(3)(A), Aug. 13, 1981, [95 Stat. 723][/us/stat/95/723]; [Pub. L. 97–414][/us/pl/97/414], § 9(j)(2), Jan. 4, 1983, [96 Stat. 2064][/us/stat/96/2064]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 236(a), Aug. 14, 2008, [122 Stat. 3075][/us/stat/122/3075].)
 
  __Amendments__ 
 
@@ -77,15 +77,15 @@
 
     1983—Subsec. (c). [Pub. L. 97–414][/us/pl/97/414] substituted “subsection (f)” for “[section 2059(e)(4) of this title][/us/usc/t15/s2059/e/4]”.
 
-    1981—Subsec. (a). [Pub. L. 97–35, § 1211(h)(2)][/us/pl/97/35/s1211/h/2], substituted reference to [section 2058(d)(2) of this title][/us/usc/t15/s2058/d/2] for reference to [section 2058(a)(2) of this title][/us/usc/t15/s2058/a/2].
+    1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35], § 1211(h)(2), substituted reference to [section 2058(d)(2) of this title][/us/usc/t15/s2058/d/2] for reference to [section 2058(a)(2) of this title][/us/usc/t15/s2058/a/2].
 
-    Subsec. (c). [Pub. L. 97–35, § 1211(h)(1)][/us/pl/97/35/s1211/h/1], substituted reference to section 2058(f)(1) and (3) of this title for reference to [section 2058(c) of this title][/us/usc/t15/s2058/c].
+    Subsec. (c). [Pub. L. 97–35][/us/pl/97/35], § 1211(h)(1), substituted reference to section 2058(f)(1) and (3) of this title for reference to [section 2058(c) of this title][/us/usc/t15/s2058/c].
 
-    Subsec. (f). [Pub. L. 97–35, § 1211(h)(3)(A)][/us/pl/97/35/s1211/h/3/A], added subsec. (f).
+    Subsec. (f). [Pub. L. 97–35][/us/pl/97/35], § 1211(h)(3)(A), added subsec. (f).
 
-    1976—Subsec. (a). [Pub. L. 94–284, § 11(a)][/us/pl/94/284/s11/a], permitted the Commission to file the record of its proceedings on which its rule was based with the court in lieu of transmitting the record to the Attorney General.
+    1976—Subsec. (a). [Pub. L. 94–284][/us/pl/94/284], § 11(a), permitted the Commission to file the record of its proceedings on which its rule was based with the court in lieu of transmitting the record to the Attorney General.
 
-    Subsec. (c). [Pub. L. 94–284, § 10(b)][/us/pl/94/284/s10/b], inserted provision permitting the court to award costs, including reasonable attorneys’ fees, in the interest of justice.
+    Subsec. (c). [Pub. L. 94–284][/us/pl/94/284], § 10(b), inserted provision permitting the court to award costs, including reasonable attorneys’ fees, in the interest of justice.
 
  __Effective Date of 1981 Amendment__ 
 
@@ -93,7 +93,7 @@
 
  __Pending Actions Unaffected__ 
 
-[Pub. L. 110–314, title II, § 236(b)][/us/pl/110/314/s236/b], Aug. 14, 2008, [122 Stat. 3076][/us/stat/122/3076], provided that: 
+[Pub. L. 110–314, title II][/us/pl/110/314/tII], § 236(b), Aug. 14, 2008, [122 Stat. 3076][/us/stat/122/3076], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall not apply to any petition filed before the date of enactment of this Act \[Aug. 14, 2008\] for judicial review of any action by the Consumer Product Safety Commission.”
 
@@ -115,31 +115,31 @@
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/usc/t15/s2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2066
-[/us/pl/92/573/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs11
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1218
 [/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/stat/90/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F507
-[/us/pl/97/35/s1211/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1211%2Fh%2F1
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F723
-[/us/pl/97/414/s9/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs9%2Fj%2F2
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2064
-[/us/pl/110/314/s236/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs236%2Fa
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3075
 [/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/usc/t15/s2059/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2059%2Fe%2F4
-[/us/pl/97/35/s1211/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1211%2Fh%2F2
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t15/s2058/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2058%2Fd%2F2
 [/us/usc/t15/s2058/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2058%2Fa%2F2
-[/us/pl/97/35/s1211/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1211%2Fh%2F1
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t15/s2058/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2058%2Fc
-[/us/pl/97/35/s1211/h/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1211%2Fh%2F3%2FA
-[/us/pl/94/284/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs11%2Fa
-[/us/pl/94/284/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs10%2Fb
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1215
 [/us/usc/t15/s2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2052
-[/us/pl/110/314/s236/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs236%2Fb
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3076
 
 

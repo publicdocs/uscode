@@ -27,7 +27,7 @@
 
         For the purposes of subsections (a) and (b) of this section, any package of wool products intended for sale to the ultimate consumer shall also be considered a wool product and shall have affixed to it a stamp, tag, label, or other means of identification bearing the information required by [section 68b of this title][/us/usc/t15/s68b], with respect to the wool products contained therein, unless such package of wool products is transparent to the extent that it allows for the clear reading of the stamp, tag, label, or other means of identification affixed to the wool product, or in the case of hosiery items this section shall not be construed as requiring the affixing of a stamp, tag, label, or other means of identification to each hosiery product contained in a package if (1) such hosiery products are intended for sale to the ultimate consumer in such package, (2) such package has affixed to it a stamp, tag, label, or other means of identification bearing, with respect to the hosiery products contained therein, the information required by [section 68b of this title][/us/usc/t15/s68b], <sup>\[2\]</sup>  <sup><sup> 2 See Codification note. </sup></sup>  and (3) the information on the stamp, tag, label, or other means of identification affixed to such package is equally applicable with respect to each hosiery product contained therein.
 
-([Oct. 14, 1940, ch. 871, § 5][/us/act/1940-10-14/ch871/s5], [54 Stat. 1130][/us/stat/54/1130]; [Pub. L. 98–417, title III, § 306][/us/pl/98/417/s306], Sept. 24, 1984, [98 Stat. 1605][/us/stat/98/1605].)
+([Oct. 14, 1940, ch. 871][/us/act/1940-10-14/ch871], § 5, [54 Stat. 1130][/us/stat/54/1130]; [Pub. L. 98–417, title III][/us/pl/98/417/tIII], § 306, Sept. 24, 1984, [98 Stat. 1605][/us/stat/98/1605].)
 
  __Codification__ 
 
@@ -51,9 +51,9 @@
 [/us/usc/t15/s68b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs68b
 [/us/usc/t15/s68b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs68b
 [/us/usc/t15/s68b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs68b
-[/us/act/1940-10-14/ch871/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch871%2Fs5
+[/us/act/1940-10-14/ch871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch871
 [/us/stat/54/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1130
-[/us/pl/98/417/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2Fs306
+[/us/pl/98/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2FtIII
 [/us/stat/98/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1605
 [/us/usc/t15/s68b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs68b
 [/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417

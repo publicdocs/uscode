@@ -55,7 +55,7 @@
 
         (2) all substances, mixtures, and compounds which have a consistence similar to that of butter and which contain any edible oils or fats other than milk fat if made in imitation or semblance of butter.
 
-([Sept. 26, 1914, ch. 311, § 15][/us/act/1914-09-26/ch311/s15], as added [Mar. 21, 1938, ch. 49, § 4][/us/act/1938-03-21/ch49/s4], [52 Stat. 114][/us/stat/52/114]; amended [Mar. 16, 1950, ch. 61, § 4(a)][/us/act/1950-03-16/ch61/s4/a], (b), [64 Stat. 21][/us/stat/64/21]; [Pub. L. 94–295, § 3(a)(1)(B)][/us/pl/94/295/s3/a/1/B], May 28, 1976, [90 Stat. 575][/us/stat/90/575].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 15, as added [Mar. 21, 1938, ch. 49][/us/act/1938-03-21/ch49], § 4, [52 Stat. 114][/us/stat/52/114]; amended [Mar. 16, 1950, ch. 61][/us/act/1950-03-16/ch61], § 4(a), (b), [64 Stat. 21][/us/stat/64/21]; [Pub. L. 94–295][/us/pl/94/295], § 3(a)(1)(B), May 28, 1976, [90 Stat. 575][/us/stat/90/575].)
 
  __Amendments__ 
 
@@ -77,12 +77,12 @@
 ----------
 
 [/us/usc/t21/s347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs347
-[/us/act/1914-09-26/ch311/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs15
-[/us/act/1938-03-21/ch49/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-03-21%2Fch49%2Fs4
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
+[/us/act/1938-03-21/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-03-21%2Fch49
 [/us/stat/52/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F114
-[/us/act/1950-03-16/ch61/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-16%2Fch61%2Fs4%2Fa
+[/us/act/1950-03-16/ch61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-03-16%2Fch61
 [/us/stat/64/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F21
-[/us/pl/94/295/s3/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295%2Fs3%2Fa%2F1%2FB
+[/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/stat/90/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F575
 [/us/pl/94/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F295
 [/us/usc/t21/s347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs347

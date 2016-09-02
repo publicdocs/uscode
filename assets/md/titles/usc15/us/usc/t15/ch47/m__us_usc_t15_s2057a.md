@@ -35,7 +35,7 @@
 
         This section shall take effect 90 days after November 18, 1988.
 
-([Pub. L. 100–690, title II, § 2404][/us/pl/100/690/s2404], Nov. 18, 1988, [102 Stat. 4231][/us/stat/102/4231].)
+([Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2404, Nov. 18, 1988, [102 Stat. 4231][/us/stat/102/4231].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 [/us/usc/t15/s2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2057
 [/us/usc/t15/s2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2057
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/100/690/s2404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2404
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4231
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

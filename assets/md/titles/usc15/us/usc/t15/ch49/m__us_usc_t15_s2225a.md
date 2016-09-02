@@ -47,7 +47,7 @@
 
         The provisions of this section shall take effect on the first day of the first fiscal year that begins after the expiration of the 425-day period that begins on the date of the publication in the Federal Register of the master list referred to in [section 2224(b) of this title][/us/usc/t15/s2224/b].
 
-([Pub. L. 101–391, § 6][/us/pl/101/391/s6], Sept. 25, 1990, [104 Stat. 751][/us/stat/104/751].)
+([Pub. L. 101–391][/us/pl/101/391], § 6, Sept. 25, 1990, [104 Stat. 751][/us/stat/104/751].)
 
  __Codification__ 
 
@@ -62,7 +62,7 @@
 
 [/us/usc/t15/s2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2225
 [/us/usc/t15/s2224/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2224%2Fb
-[/us/pl/101/391/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391%2Fs6
+[/us/pl/101/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391
 [/us/stat/104/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F751
 
 

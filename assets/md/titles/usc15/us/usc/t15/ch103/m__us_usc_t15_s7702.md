@@ -135,7 +135,7 @@
 
             The Commission by regulation pursuant to [section 7711 of this title][/us/usc/t15/s7711] may modify the definition in subparagraph (A) to expand or contract the categories of messages that are treated as transactional or relationship messages for purposes of this chapter to the extent that such modification is necessary to accommodate changes in electronic mail technology or practices and accomplish the purposes of this chapter.
 
-([Pub. L. 108–187, § 3][/us/pl/108/187/s3], Dec. 16, 2003, [117 Stat. 2700][/us/stat/117/2700].)
+([Pub. L. 108–187][/us/pl/108/187], § 3, Dec. 16, 2003, [117 Stat. 2700][/us/stat/117/2700].)
 
  __References in Text__ 
 
@@ -143,7 +143,7 @@
 
     The Federal Trade Commission Act, referred to in par. (7), is [act Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], [38 Stat. 717][/us/stat/38/717], as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title][/us/usc/t15/s58] and Tables.
 
-    The Internet Tax Freedom Act, referred to in par. (10), is title XI of [Pub. L. 105–277, div. C][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681–719][/us/stat/112/2681-719], which is set out as a note under [section 151 of Title 47][/us/usc/t47/s151], Telecommunications.
+    The Internet Tax Freedom Act, referred to in par. (10), is title XI of [Pub. L. 105–277, div. C][/us/pl/105/277/dC], Oct. 21, 1998, [112 Stat. 2681–719][/us/stat/112/2681-719], which is set out as a note under [section 151 of Title 47][/us/usc/t47/s151], Telecommunications.
 
 ----------
 
@@ -158,7 +158,7 @@
 [/us/usc/t47/s231/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs231%2Fe%2F4
 [/us/usc/t18/s1030/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1030%2Fe%2F2%2FB
 [/us/usc/t15/s7711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7711
-[/us/pl/108/187/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs3
+[/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2700
 [/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2699
@@ -166,7 +166,7 @@
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC
 [/us/stat/112/2681-719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-719
 [/us/usc/t47/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs151
 

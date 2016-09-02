@@ -17,7 +17,7 @@
 
     Any district court of the United States in which a Y2K action is pending may appoint a special master or a magistrate judge to hear the matter and to make findings of fact and conclusions of law in accordance with Rule 53 of the Federal Rules of Civil Procedure.
 
-([Pub. L. 106–37, § 14][/us/pl/106/37/s14], July 20, 1999, [113 Stat. 201][/us/stat/113/201].)
+([Pub. L. 106–37][/us/pl/106/37], § 14, July 20, 1999, [113 Stat. 201][/us/stat/113/201].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/106/37/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37%2Fs14
+[/us/pl/106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37
 [/us/stat/113/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F201
 
 

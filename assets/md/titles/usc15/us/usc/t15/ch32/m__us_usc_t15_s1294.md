@@ -17,7 +17,7 @@
 
     Nothing contained in this chapter shall be deemed to change, determine, or otherwise affect the applicability or nonapplicability of the antitrust laws to any act, contract, agreement, rule, course of conduct, or other activity by, between, or among persons engaging in, conducting, or participating in the organized professional team sports of football, baseball, basketball, or hockey, except the agreements to which [section 1291 of this title][/us/usc/t15/s1291] shall apply.
 
-([Pub. L. 87–331, § 4][/us/pl/87/331/s4], Sept. 30, 1961, [75 Stat. 732][/us/stat/75/732].)
+([Pub. L. 87–331][/us/pl/87/331], § 4, Sept. 30, 1961, [75 Stat. 732][/us/stat/75/732].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t15/s1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1291
-[/us/pl/87/331/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F331%2Fs4
+[/us/pl/87/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F331
 [/us/stat/75/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F732
 
 

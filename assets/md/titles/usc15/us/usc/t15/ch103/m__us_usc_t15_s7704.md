@@ -159,7 +159,7 @@
 
             Whoever knowingly violates paragraph (1) shall be fined under title 18, or imprisoned not more than 5 years, or both.
 
-([Pub. L. 108–187, § 5][/us/pl/108/187/s5], Dec. 16, 2003, [117 Stat. 2706][/us/stat/117/2706].)
+([Pub. L. 108–187][/us/pl/108/187], § 5, Dec. 16, 2003, [117 Stat. 2706][/us/stat/117/2706].)
 
  __References in Text__ 
 
@@ -175,7 +175,7 @@
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
 [/us/usc/t15/s7711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7711
 [/us/usc/t18/s2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2256
-[/us/pl/108/187/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs5
+[/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2706
 [/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2699

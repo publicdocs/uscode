@@ -17,7 +17,7 @@
 
     To provide for more effective integration and coordination of standard reference data activities, the Secretary, in consultation with other interested Federal agencies, shall prescribe and publish in the Federal Register such standards, criteria, and procedures for the preparation and publication of standard reference data as may be necessary to carry out the provisions of this chapter.
 
-([Pub. L. 90–396, § 4][/us/pl/90/396/s4], July 11, 1968, [82 Stat. 340][/us/stat/82/340].)
+([Pub. L. 90–396][/us/pl/90/396], § 4, July 11, 1968, [82 Stat. 340][/us/stat/82/340].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/396/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F396%2Fs4
+[/us/pl/90/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F396
 [/us/stat/82/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F340
 
 

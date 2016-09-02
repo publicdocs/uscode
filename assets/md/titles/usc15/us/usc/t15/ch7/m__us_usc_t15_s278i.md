@@ -31,7 +31,7 @@
 
         Concurrent with the submission to the Congress of the President’s annual budget request in each year after August 9, 2007, the Director shall submit to Congress an update to the 3-year programmatic planning document submitted under subsection (c), revised to cover the first 3 fiscal years after the date of that update.
 
-([Mar. 3, 1901, ch. 872, § 23][/us/act/1901-03-03/ch872/s23], as added [Pub. L. 100–418, title V, § 5114(2)][/us/pl/100/418/s5114/2], Aug. 23, 1988, [102 Stat. 1432][/us/stat/102/1432]; amended [Pub. L. 110–69, title III, § 3004][/us/pl/110/69/s3004], Aug. 9, 2007, [121 Stat. 590][/us/stat/121/590].)
+([Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 23, as added [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5114(2), Aug. 23, 1988, [102 Stat. 1432][/us/stat/102/1432]; amended [Pub. L. 110–69, title III][/us/pl/110/69/tIII], § 3004, Aug. 9, 2007, [121 Stat. 590][/us/stat/121/590].)
 
  __Amendments__ 
 
@@ -48,10 +48,10 @@
 ----------
 ----------
 
-[/us/act/1901-03-03/ch872/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs23
-[/us/pl/100/418/s5114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5114%2F2
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1432
-[/us/pl/110/69/s3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3004
+[/us/pl/110/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIII
 [/us/stat/121/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F590
 [/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa

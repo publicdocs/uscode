@@ -17,7 +17,7 @@
 
     Not later than 48 business hours after the conclusion of a professional boxing match, the supervising boxing commission shall report the results of such boxing match and any related suspensions to each boxer registry.
 
-([Pub. L. 104–272, § 8][/us/pl/104/272/s8], Oct. 9, 1996, [110 Stat. 3311][/us/stat/110/3311].)
+([Pub. L. 104–272][/us/pl/104/272], § 8, Oct. 9, 1996, [110 Stat. 3311][/us/stat/110/3311].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/272/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs8
+[/us/pl/104/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272
 [/us/stat/110/3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3311
 
 

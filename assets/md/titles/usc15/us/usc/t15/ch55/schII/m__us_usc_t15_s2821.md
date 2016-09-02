@@ -77,7 +77,7 @@
 
             (ii) designated D613 in the case of cetane number,    (as in effect on October 24, 1992) and shall apply to any grade or type of diesel fuel oils defined in the specification of the American Society for Testing and Materials entitled “Standard Specification for Diesel Fuel Oils” designated D975 (as in effect on October 24, 1992).
 
-([Pub. L. 95–297, title II, § 201][/us/pl/95/297/s201], June 19, 1978, [92 Stat. 333][/us/stat/92/333]; [Pub. L. 102–486, title XV, § 1501(a)][/us/pl/102/486/s1501/a]–(c)(1), Oct. 24, 1992, [106 Stat. 2996][/us/stat/106/2996].)
+([Pub. L. 95–297, title II][/us/pl/95/297/tII], § 201, June 19, 1978, [92 Stat. 333][/us/stat/92/333]; [Pub. L. 102–486, title XV][/us/pl/102/486/tXV], § 1501(a)–(c)(1), Oct. 24, 1992, [106 Stat. 2996][/us/stat/106/2996].)
 
  __References in Text__ 
 
@@ -89,35 +89,35 @@
 
  __Amendments__ 
 
-    1992—Par. (1). [Pub. L. 102–486, § 1501(c)(1)(A)][/us/pl/102/486/s1501/c/1/A], substituted “fuel” for “gasoline”.
+    1992—Par. (1). [Pub. L. 102–486][/us/pl/102/486], § 1501(c)(1)(A), substituted “fuel” for “gasoline”.
 
-    Par. (2). [Pub. L. 102–486, § 1501(c)(1)(B)][/us/pl/102/486/s1501/c/1/B], substituted “Standard Specification for Automotive Spark-Ignition Engine Fuel” for “Standard Specifications for Automotive Gasoline” and “D4814 for “D 439”.
+    Par. (2). [Pub. L. 102–486][/us/pl/102/486], § 1501(c)(1)(B), substituted “Standard Specification for Automotive Spark-Ignition Engine Fuel” for “Standard Specifications for Automotive Gasoline” and “D4814 for “D 439”.
 
-    Par. (4). [Pub. L. 102–486, § 1501(c)(1)(C)][/us/pl/102/486/s1501/c/1/C], substituted “automotive fuel” for first reference to “gasoline” and “fuel” for second reference to “gasoline”.
+    Par. (4). [Pub. L. 102–486][/us/pl/102/486], § 1501(c)(1)(C), substituted “automotive fuel” for first reference to “gasoline” and “fuel” for second reference to “gasoline”.
 
-    Par. (5). [Pub. L. 102–486, § 1501(c)(1)(D)][/us/pl/102/486/s1501/c/1/D], added par. (5) and struck out former par. (5) which read as follows: “The term ‘refiner’ means any person engaged in—
+    Par. (5). [Pub. L. 102–486][/us/pl/102/486], § 1501(c)(1)(D), added par. (5) and struck out former par. (5) which read as follows: “The term ‘refiner’ means any person engaged in—
 
     “(A) the refining of crude oil to produce automotive gasoline; or
 
     “(B) the importation of automotive gasoline.”
 
-    Par. (6). [Pub. L. 102–486, § 1501(a)][/us/pl/102/486/s1501/a], amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The term ‘automotive gasoline’ means gasoline of a type distributed for use as a fuel in any motor vehicle.”
+    Par. (6). [Pub. L. 102–486][/us/pl/102/486], § 1501(a), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The term ‘automotive gasoline’ means gasoline of a type distributed for use as a fuel in any motor vehicle.”
 
-    Par. (11). [Pub. L. 102–486, § 1501(c)(1)(E)][/us/pl/102/486/s1501/c/1/E], substituted “automotive fuel” for “octane” before “requirement” and before “rating”, and “fuel” for “gasoline” before “for use” and before “which such”.
+    Par. (11). [Pub. L. 102–486][/us/pl/102/486], § 1501(c)(1)(E), substituted “automotive fuel” for “octane” before “requirement” and before “rating”, and “fuel” for “gasoline” before “for use” and before “which such”.
 
-    Par. (16). [Pub. L. 102–486, § 1501(c)(1)(F)][/us/pl/102/486/s1501/c/1/F], substituted “automotive fuel” for “gasoline” in two places.
+    Par. (16). [Pub. L. 102–486][/us/pl/102/486], § 1501(c)(1)(F), substituted “automotive fuel” for “gasoline” in two places.
 
-    Pars. (17), (18). [Pub. L. 102–486, § 1501(b)][/us/pl/102/486/s1501/b], added pars. (17) and (18).
+    Pars. (17), (18). [Pub. L. 102–486][/us/pl/102/486], § 1501(b), added pars. (17) and (18).
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–486, title XV, § 1501(d)(1)][/us/pl/102/486/s1501/d/1], Oct. 24, 1992, [106 Stat. 2997][/us/stat/106/2997], provided that: 
+[Pub. L. 102–486, title XV][/us/pl/102/486/tXV], § 1501(d)(1), Oct. 24, 1992, [106 Stat. 2997][/us/stat/106/2997], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 2822 and 2823 of this title\] shall become effective at the end of the one-year period beginning on the date of the enactment of this Act \[Oct. 24, 1992\].”
 
  __Regulations__ 
 
-[Pub. L. 102–486, title XV, § 1501(d)(2)][/us/pl/102/486/s1501/d/2], Oct. 24, 1992, [106 Stat. 2997][/us/stat/106/2997], provided that: 
+[Pub. L. 102–486, title XV][/us/pl/102/486/tXV], § 1501(d)(2), Oct. 24, 1992, [106 Stat. 2997][/us/stat/106/2997], provided that: 
 
 > “The Federal Trade Commission shall, within 270 days after the date of the enactment of this Act \[Oct. 24, 1992\], prescribe rules for the purpose of implementing the amendments made in this section \[amending this section and sections 2822 and 2823 of this title\].”
 
@@ -130,25 +130,25 @@
 
 [/us/usc/t15/s2823/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2823%2Fc%2F3
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/pl/95/297/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2Fs201
+[/us/pl/95/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2FtII
 [/us/stat/92/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F333
-[/us/pl/102/486/s1501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1501%2Fa
+[/us/pl/102/486/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXV
 [/us/stat/106/2996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2996
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
-[/us/pl/102/486/s1501/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1501%2Fc%2F1%2FA
-[/us/pl/102/486/s1501/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1501%2Fc%2F1%2FB
-[/us/pl/102/486/s1501/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1501%2Fc%2F1%2FC
-[/us/pl/102/486/s1501/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1501%2Fc%2F1%2FD
-[/us/pl/102/486/s1501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1501%2Fa
-[/us/pl/102/486/s1501/c/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1501%2Fc%2F1%2FE
-[/us/pl/102/486/s1501/c/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1501%2Fc%2F1%2FF
-[/us/pl/102/486/s1501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1501%2Fb
-[/us/pl/102/486/s1501/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1501%2Fd%2F1
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXV
 [/us/stat/106/2997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2997
-[/us/pl/102/486/s1501/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1501%2Fd%2F2
+[/us/pl/102/486/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXV
 [/us/stat/106/2997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2997
 
 

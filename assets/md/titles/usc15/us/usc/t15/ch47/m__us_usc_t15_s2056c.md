@@ -59,7 +59,7 @@
 
         The Commission, at any time subsequent to publication of the consumer product safety rule required by subsection (a) or a determination under subsection (c), may initiate a rulemaking in accordance with [section 553 of title 5][/us/usc/t5/s553] to modify the sulfur content limit or to include any provision relating only to the composition or characteristics of drywall that the Commission determines is reasonably necessary to protect public health or safety. Any rule promulgated under this subsection shall be treated as a consumer product safety rule promulgated under [section 2058 of this title][/us/usc/t15/s2058].
 
-([Pub. L. 112–266, § 4][/us/pl/112/266/s4], Jan. 14, 2013, [126 Stat. 2438][/us/stat/126/2438].)
+([Pub. L. 112–266][/us/pl/112/266], § 4, Jan. 14, 2013, [126 Stat. 2438][/us/stat/126/2438].)
 
  __Codification__ 
 
@@ -67,7 +67,7 @@
 
  __Drywall Labeling Requirement__ 
 
-[Pub. L. 112–266, § 3][/us/pl/112/266/s3], Jan. 14, 2013, [126 Stat. 2437][/us/stat/126/2437], provided that:
+[Pub. L. 112–266][/us/pl/112/266], § 3, Jan. 14, 2013, [126 Stat. 2437][/us/stat/126/2437], provided that:
 
 >     “(a)  __Labeling Requirement__  __.—__ 
 
@@ -79,7 +79,7 @@
 
  __Revision of Remediation Guidance for Drywall Disposal Required__ 
 
-[Pub. L. 112–266, § 5][/us/pl/112/266/s5], Jan. 14, 2013, [126 Stat. 2439][/us/stat/126/2439], provided that: 
+[Pub. L. 112–266][/us/pl/112/266], § 5, Jan. 14, 2013, [126 Stat. 2439][/us/stat/126/2439], provided that: 
 
 > “Not later than 120 days after the date of the enactment of this Act \[Jan. 14, 2013\], the Consumer Product Safety Commission shall revise its guidance entitled ‘Remediation Guidance for Homes with Corrosion from Problem Drywall’ to specify that problematic drywall removed from homes pursuant to the guidance should not be reused or used as a component in production of new drywall.”
 
@@ -96,13 +96,13 @@
 [/us/usc/t15/s2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2058
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t15/s2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2058
-[/us/pl/112/266/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F266%2Fs4
+[/us/pl/112/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F266
 [/us/stat/126/2438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2438
-[/us/pl/112/266/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F266%2Fs3
+[/us/pl/112/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F266
 [/us/stat/126/2437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2437
 [/us/usc/t15/s2063/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2063%2Fc
 [/us/usc/t15/s2063/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2063%2Fc
-[/us/pl/112/266/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F266%2Fs5
+[/us/pl/112/266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F266
 [/us/stat/126/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2439
 
 

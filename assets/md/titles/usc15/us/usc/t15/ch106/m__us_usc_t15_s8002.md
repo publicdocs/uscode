@@ -49,11 +49,11 @@
 
         The term “State” has the meaning given such term in section 2052(10)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, and includes the Northern Mariana Islands. For purposes of eligibility for the grants authorized under [section 8004 of this title][/us/usc/t15/s8004], such term shall also include any political subdivision of a State.
 
-([Pub. L. 110–140, title XIV, § 1403][/us/pl/110/140/s1403], Dec. 19, 2007, [121 Stat. 1795][/us/stat/121/1795]; [Pub. L. 110–314, title II, § 238(1)][/us/pl/110/314/s238/1], Aug. 14, 2008, [122 Stat. 3076][/us/stat/122/3076]; [Pub. L. 112–10, div. B, title V, § 1576(a)][/us/pl/112/10/s1576/a], Apr. 15, 2011, [125 Stat. 139][/us/stat/125/139].)
+([Pub. L. 110–140, title XIV][/us/pl/110/140/tXIV], § 1403, Dec. 19, 2007, [121 Stat. 1795][/us/stat/121/1795]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 238(1), Aug. 14, 2008, [122 Stat. 3076][/us/stat/122/3076]; [Pub. L. 112–10, div. B, title V][/us/pl/112/10/dB/tV], § 1576(a), Apr. 15, 2011, [125 Stat. 139][/us/stat/125/139].)
 
  __References in Text__ 
 
-    [Section 2052(10) of this title][/us/usc/t15/s2052/10], referred to in par. (8), was redesignated [section 2052(15) of this title][/us/usc/t15/s2052/15] by [Pub. L. 110–314, title II, § 235(b)(4)][/us/pl/110/314/s235/b/4], Aug. 14, 2008, [122 Stat. 3074][/us/stat/122/3074].
+    [Section 2052(10) of this title][/us/usc/t15/s2052/10], referred to in par. (8), was redesignated [section 2052(15) of this title][/us/usc/t15/s2052/15] by [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 235(b)(4), Aug. 14, 2008, [122 Stat. 3074][/us/stat/122/3074].
 
  __Amendments__ 
 
@@ -69,15 +69,15 @@
 ----------
 
 [/us/usc/t15/s8004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8004
-[/us/pl/110/140/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1403
+[/us/pl/110/140/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXIV
 [/us/stat/121/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1795
-[/us/pl/110/314/s238/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs238%2F1
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3076
-[/us/pl/112/10/s1576/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1576%2Fa
+[/us/pl/112/10/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdB%2FtV
 [/us/stat/125/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F139
 [/us/usc/t15/s2052/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2052%2F10
 [/us/usc/t15/s2052/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2052%2F15
-[/us/pl/110/314/s235/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs235%2Fb%2F4
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3074
 [/us/pl/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10
 [/us/usc/t15/s8004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8004

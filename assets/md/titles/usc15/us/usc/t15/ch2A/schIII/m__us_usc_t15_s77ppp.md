@@ -33,15 +33,15 @@
 
         The obligor upon any indenture qualified under this subchapter may set a record date for purposes of determining the identity of indenture security holders entitled to vote or consent to any action by vote or consent authorized or permitted by subsection (a) of this section. Unless the indenture provides otherwise, such record date shall be the later of 30 days prior to the first solicitation of such consent or the date of the most recent list of holders furnished to the trustee pursuant to section 77lll of this title prior to such solicitation.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 316, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1172][/us/stat/53/1172]; amended [Pub. L. 101–550, title IV, § 415][/us/pl/101/550/s415], Nov. 15, 1990, [104 Stat. 2731][/us/stat/104/2731].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 316, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1172][/us/stat/53/1172]; amended [Pub. L. 101–550, title IV][/us/pl/101/550/tIV], § 415, Nov. 15, 1990, [104 Stat. 2731][/us/stat/104/2731].)
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–550, § 415(1)][/us/pl/101/550/s415/1]–(3), in introductory provisions struck out “may contain provisions” after “qualified”, in par. (1) inserted “shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to contain provisions” before “authorizing the holders” and “or if expressly specified in such indenture, of any series of securities” after “principal amount of the indenture securities”, and in par. (2) inserted “may contain provisions” before “authorizing the holders” and “or if expressly specified in such indenture, of any series of securities” after “principal amount of the indenture securities”.
+    1990—Subsec. (a). [Pub. L. 101–550][/us/pl/101/550], § 415(1)–(3), in introductory provisions struck out “may contain provisions” after “qualified”, in par. (1) inserted “shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to contain provisions” before “authorizing the holders” and “or if expressly specified in such indenture, of any series of securities” after “principal amount of the indenture securities”, and in par. (2) inserted “may contain provisions” before “authorizing the holders” and “or if expressly specified in such indenture, of any series of securities” after “principal amount of the indenture securities”.
 
-    Subsec. (b). [Pub. L. 101–550, § 415(5)][/us/pl/101/550/s415/5], which directed the substitution of “of the indenture to be qualified” for “thereof”, was executed by making the substitution for “thereof” the first time appearing, as the probable intent of Congress.
+    Subsec. (b). [Pub. L. 101–550][/us/pl/101/550], § 415(5), which directed the substitution of “of the indenture to be qualified” for “thereof”, was executed by making the substitution for “thereof” the first time appearing, as the probable intent of Congress.
 
-    Subsec. (c). [Pub. L. 101–550, § 415(6)][/us/pl/101/550/s415/6], added subsec. (c).
+    Subsec. (c). [Pub. L. 101–550][/us/pl/101/550], § 415(6), added subsec. (c).
 
 ----------
 
@@ -53,10 +53,10 @@
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/act/1939-08-03/ch411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-03%2Fch411
 [/us/stat/53/1172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1172
-[/us/pl/101/550/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs415
+[/us/pl/101/550/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtIV
 [/us/stat/104/2731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2731
-[/us/pl/101/550/s415/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs415%2F1
-[/us/pl/101/550/s415/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs415%2F5
-[/us/pl/101/550/s415/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs415%2F6
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
 
 

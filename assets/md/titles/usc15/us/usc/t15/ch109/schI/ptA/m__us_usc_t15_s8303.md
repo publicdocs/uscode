@@ -33,7 +33,7 @@
 
         (B) participants in a financial market.
 
-([Pub. L. 111–203, title VII, § 714][/us/pl/111/203/s714], July 21, 2010, [124 Stat. 1647][/us/stat/124/1647].)
+([Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 714, July 21, 2010, [124 Stat. 1647][/us/stat/124/1647].)
 
 ----------
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t7/s1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1a
 [/us/usc/t7/s1a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1a
-[/us/pl/111/203/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs714
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1647
 
 

@@ -43,7 +43,7 @@
 
         (3) The term “curtailment plan” means a plan (including any modification of such plan required by the Natural Gas Policy Act of 1978 \[[15 U.S.C. 3301][/us/usc/t15/s3301] et seq.\] ) in effect under the Natural Gas Act \[[15 U.S.C. 717][/us/usc/t15/s717] et seq.\] which provides for recognizing and implementing priorities of service during periods of curtailed deliveries.
 
-([Pub. L. 95–617, title VI, § 605][/us/pl/95/617/s605], Nov. 9, 1978, [92 Stat. 3167][/us/stat/92/3167].)
+([Pub. L. 95–617, title VI][/us/pl/95/617/tVI], § 605, Nov. 9, 1978, [92 Stat. 3167][/us/stat/92/3167].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 
 [/us/usc/t15/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3301
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
-[/us/pl/95/617/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs605
+[/us/pl/95/617/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtVI
 [/us/stat/92/3167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3167
 [/us/pl/95/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621
 [/us/stat/92/3350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3350

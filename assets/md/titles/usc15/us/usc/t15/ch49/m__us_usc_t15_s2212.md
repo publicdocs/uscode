@@ -17,7 +17,7 @@
 
     The Administrator is authorized to encourage owners and managers of residential multiple-unit, commercial, industrial, and transportation structures to prepare Fire Safety Effectiveness Statements, pursuant to standards, forms, rules, and regulations to be developed and issued by the Administrator.
 
-([Pub. L. 93–498, § 13][/us/pl/93/498/s13], Oct. 29, 1974, [88 Stat. 1544][/us/stat/88/1544].)
+([Pub. L. 93–498][/us/pl/93/498], § 13, Oct. 29, 1974, [88 Stat. 1544][/us/stat/88/1544].)
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/93/498/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs13
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1544
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

@@ -35,7 +35,7 @@
 
     (9) The term “Trademark Act of 1946” means the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 ([15 U.S.C. 1051][/us/usc/t15/s1051] et seq.).
 
-([Pub. L. 93–167, § 7][/us/pl/93/167/s7], Nov. 29, 1973, [87 Stat. 687][/us/stat/87/687]; [Pub. L. 113–288, § 2(3)][/us/pl/113/288/s2/3], Dec. 19, 2014, [128 Stat. 3281][/us/stat/128/3281].)
+([Pub. L. 93–167][/us/pl/93/167], § 7, Nov. 29, 1973, [87 Stat. 687][/us/stat/87/687]; [Pub. L. 113–288][/us/pl/113/288], § 2(3), Dec. 19, 2014, [128 Stat. 3281][/us/stat/128/3281].)
 
  __References in Text__ 
 
@@ -56,9 +56,9 @@
 
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
-[/us/pl/93/167/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F167%2Fs7
+[/us/pl/93/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F167
 [/us/stat/87/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F687
-[/us/pl/113/288/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F288%2Fs2%2F3
+[/us/pl/113/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F288
 [/us/stat/128/3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3281
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

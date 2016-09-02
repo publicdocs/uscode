@@ -27,13 +27,13 @@
 
         (2) Nothing in this subchapter shall prohibit any State from specifying the terms and conditions under which any franchise or franchise relationship may be transferred to the designated successor of a franchisee upon the death of the franchisee.
 
-([Pub. L. 95–297, title I, § 106][/us/pl/95/297/s106], June 19, 1978, [92 Stat. 332][/us/stat/92/332]; [Pub. L. 103–371, § 5][/us/pl/103/371/s5], Oct. 19, 1994, [108 Stat. 3485][/us/stat/108/3485].)
+([Pub. L. 95–297, title I][/us/pl/95/297/tI], § 106, June 19, 1978, [92 Stat. 332][/us/stat/92/332]; [Pub. L. 103–371][/us/pl/103/371], § 5, Oct. 19, 1994, [108 Stat. 3485][/us/stat/108/3485].)
 
  __Amendments__ 
 
-    1994—Subsec. (a). [Pub. L. 103–371, § 5(1)][/us/pl/103/371/s5/1], redesignated existing provisions as par. (1) and added par. (2).
+    1994—Subsec. (a). [Pub. L. 103–371][/us/pl/103/371], § 5(1), redesignated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (b). [Pub. L. 103–371, § 5(2)][/us/pl/103/371/s5/2], redesignated existing provisions as par. (1) and added par. (2).
+    Subsec. (b). [Pub. L. 103–371][/us/pl/103/371], § 5(2), redesignated existing provisions as par. (1) and added par. (2).
 
 ----------
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/pl/95/297/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2Fs106
+[/us/pl/95/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2FtI
 [/us/stat/92/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F332
-[/us/pl/103/371/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F371%2Fs5
+[/us/pl/103/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F371
 [/us/stat/108/3485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3485
-[/us/pl/103/371/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F371%2Fs5%2F1
-[/us/pl/103/371/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F371%2Fs5%2F2
+[/us/pl/103/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F371
+[/us/pl/103/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F371
 
 

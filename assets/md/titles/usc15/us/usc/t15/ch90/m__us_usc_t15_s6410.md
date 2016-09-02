@@ -17,7 +17,7 @@
 
     Nothing in this chapter may be construed to preempt or supersede any other program relating to propane education and research organized and operated under the laws of the United States or any State.
 
-([Pub. L. 104–284, § 11][/us/pl/104/284/s11], Oct. 11, 1996, [110 Stat. 3375][/us/stat/110/3375].)
+([Pub. L. 104–284][/us/pl/104/284], § 11, Oct. 11, 1996, [110 Stat. 3375][/us/stat/110/3375].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/284/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F284%2Fs11
+[/us/pl/104/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F284
 [/us/stat/110/3375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3375
 
 

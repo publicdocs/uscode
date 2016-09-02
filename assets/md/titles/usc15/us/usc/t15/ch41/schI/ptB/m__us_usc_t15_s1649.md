@@ -55,7 +55,7 @@
 
         (4) any consumer credit transaction with respect to which a timely notice of rescission was sent to the creditor before June 1, 1995.
 
-([Pub. L. 90–321, title I, § 139][/us/pl/90/321/s139], as added [Pub. L. 104–29, § 4(a)][/us/pl/104/29/s4/a], Sept. 30, 1995, [109 Stat. 273][/us/stat/109/273]; amended [Pub. L. 104–208, div. A, title II, § 2107(a)][/us/pl/104/208/s2107/a], Sept. 30, 1996, [110 Stat. 3009–402][/us/stat/110/3009-402]; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 139, as added [Pub. L. 104–29][/us/pl/104/29], § 4(a), Sept. 30, 1995, [109 Stat. 273][/us/stat/109/273]; amended [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2107(a), Sept. 30, 1996, [110 Stat. 3009–402][/us/stat/110/3009-402]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 
  __Amendments__ 
 
@@ -69,7 +69,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–208, div. A, title II, § 2107(b)][/us/pl/104/208/s2107/b], Sept. 30, 1996, [110 Stat. 3009–402][/us/stat/110/3009-402], provided that: 
+[Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2107(b), Sept. 30, 1996, [110 Stat. 3009–402][/us/stat/110/3009-402], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall be effective as of September 30, 1995.”
 
@@ -87,19 +87,19 @@
 [/us/usc/t15/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1635
 [/us/usc/t15/s1605/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1605%2Ff%2F2
 [/us/usc/t15/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1635
-[/us/pl/90/321/s139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs139
-[/us/pl/104/29/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29%2Fs4%2Fa
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/104/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29
 [/us/stat/109/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F273
-[/us/pl/104/208/s2107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2107%2Fa
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-402
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/104/208/s2107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2107%2Fb
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-402
 
 

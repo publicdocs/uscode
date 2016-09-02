@@ -17,7 +17,7 @@
 
     The National Weather Service shall consist of such civilian employees as Congress may annually provide for and as may be necessary to properly perform the duties devolving on said Service by law.
 
-([Oct. 1, 1890, ch. 1266, § 4][/us/act/1890-10-01/ch1266/s4], [26 Stat. 653][/us/stat/26/653]; July 8, 1898, No. 57, [30 Stat. 752][/us/stat/30/752]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
+([Oct. 1, 1890, ch. 1266][/us/act/1890-10-01/ch1266], § 4, [26 Stat. 653][/us/stat/26/653]; July 8, 1898, No. 57, [30 Stat. 752][/us/stat/30/752]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
 
  __Repeals__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1890-10-01/ch1266/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-10-01%2Fch1266%2Fs4
+[/us/act/1890-10-01/ch1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-10-01%2Fch1266
 [/us/stat/26/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F653
 [/us/stat/30/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F752
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318

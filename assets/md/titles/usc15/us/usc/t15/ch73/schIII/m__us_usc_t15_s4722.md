@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 100–418, title II, § 2302][/us/pl/100/418/s2302], Aug. 23, 1988, [102 Stat. 1341][/us/stat/102/1341], which related to Commercial Service Officers and multilateral development bank procurement, was renumbered [§ 1803 of title XVIII of Pub. L. 95–118][/us/pl/95/118/s1803], by [Pub. L. 101–240, title V, § 541(b)(2)][/us/pl/101/240/s541/b/2], Dec. 19, 1989, [103 Stat. 2517][/us/stat/103/2517], and was transferred to [section 262s–2 of Title 22][/us/usc/t22/s262s–2], Foreign Relations and Intercourse.
+    Section, [Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2302, Aug. 23, 1988, [102 Stat. 1341][/us/stat/102/1341], which related to Commercial Service Officers and multilateral development bank procurement, was renumbered § 1803 of title XVIII of [Pub. L. 95–118][/us/pl/95/118], by [Pub. L. 101–240, title V][/us/pl/101/240/tV], § 541(b)(2), Dec. 19, 1989, [103 Stat. 2517][/us/stat/103/2517], and was transferred to [section 262s–2 of Title 22][/us/usc/t22/s262s–2], Foreign Relations and Intercourse.
 
 ----------
 
@@ -26,10 +26,10 @@
 ----------
 ----------
 
-[/us/pl/100/418/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2302
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1341
-[/us/pl/95/118/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118%2Fs1803
-[/us/pl/101/240/s541/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2Fs541%2Fb%2F2
+[/us/pl/95/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F118
+[/us/pl/101/240/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F240%2FtV
 [/us/stat/103/2517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2517
 [/us/usc/t22/s262s–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262s%E2%80%932
 

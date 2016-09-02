@@ -149,7 +149,7 @@
 
         The term “Security” means any note, stock, treasury stock, bond, debenture, evidence of indebtedness, any collateral trust certificate, preorganization certificate or subscription, transferable share, voting trust certificate, certificate of deposit, certificate of deposit for a security, or any security future as that term is defined in [section 78c(a)(55)(A) of this title][/us/usc/t15/s78c/a/55/A], any investment contract or certificate of interest or participation in any profit-sharing agreement or in any oil, gas, or mineral royalty or lease (if such investment contract or interest is the subject of a registration statement with the Commission pursuant to the provisions of the Securities Act of 1933 \[[15 U.S.C. 77a][/us/usc/t15/s77a] et seq.\]), any put, call, straddle, option, or privilege on any security, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase or sell any of the foregoing, and any other instrument commonly known as a security. Except as specifically provided above, the term “security” does not include any currency, or any commodity or related contract or futures contract, or any warrant or right to subscribe to or purchase or sell any of the foregoing.
 
-([Pub. L. 91–598, § 16][/us/pl/91/598/s16], formerly § 12, Dec. 30, 1970, [84 Stat. 1656][/us/stat/84/1656]; renumbered § 16 and amended [Pub. L. 95–283][/us/pl/95/283], §§ 9, 15, May 21, 1978, [92 Stat. 260][/us/stat/92/260], 271; [Pub. L. 95–598, title III, § 308][/us/pl/95/598/s308](o), Nov. 6, 1978, [92 Stat. 2676][/us/stat/92/2676]; [Pub. L. 97–303, § 7][/us/pl/97/303/s7], Oct. 13, 1982, [96 Stat. 1410][/us/stat/96/1410]; [Pub. L. 100–181, title VIII, § 802][/us/pl/100/181/s802], Dec. 4, 1987, [101 Stat. 1265][/us/stat/101/1265]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 203(d)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–424; [Pub. L. 111–203, title IX, § 983(b)][/us/pl/111/203/s983/b], July 21, 2010, [124 Stat. 1931][/us/stat/124/1931].)
+([Pub. L. 91–598][/us/pl/91/598], § 16, formerly § 12, Dec. 30, 1970, [84 Stat. 1656][/us/stat/84/1656]; renumbered § 16 and amended [Pub. L. 95–283][/us/pl/95/283], §§ 9, 15, May 21, 1978, [92 Stat. 260][/us/stat/92/260], 271; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 308(o), Nov. 6, 1978, [92 Stat. 2676][/us/stat/92/2676]; [Pub. L. 97–303][/us/pl/97/303], § 7, Oct. 13, 1982, [96 Stat. 1410][/us/stat/96/1410]; [Pub. L. 100–181, title VIII][/us/pl/100/181/tVIII], § 802, Dec. 4, 1987, [101 Stat. 1265][/us/stat/101/1265]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 203(d)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–424; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 983(b), July 21, 2010, [124 Stat. 1931][/us/stat/124/1931].)
 
  __References in Text__ 
 
@@ -157,19 +157,19 @@
 
     The Bankruptcy Act, referred to in provision preceding par. (1), is [act July 1, 1898, ch. 541][/us/act/1898-07-01/ch541], [30 Stat. 544][/us/stat/30/544], which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by [Pub. L. 95–598][/us/pl/95/598], §§ 401(a), 402(a), Nov. 6, 1978, [92 Stat. 2682][/us/stat/92/2682], section 101 of which enacted revised Title 11.
 
-    The Securities Act of 1933, referred to in par. (14), is [act May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
+    The Securities Act of 1933, referred to in par. (14), is [act May 27, 1933, ch. 38, title I][/us/act/1933-05-27/ch38/tI], [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
 
  __Amendments__ 
 
-    2010—Par. (2). [Pub. L. 111–203, § 983(b)(1)][/us/pl/111/203/s983/b/1], added par. (2) and struck out former par. (2) which defined “customer”.
+    2010—Par. (2). [Pub. L. 111–203][/us/pl/111/203], § 983(b)(1), added par. (2) and struck out former par. (2) which defined “customer”.
 
-    Par. (4)(D), (E). [Pub. L. 111–203, § 983(b)(2)][/us/pl/111/203/s983/b/2], added subpar. (D) and redesignated former subpar. (D) as (E).
+    Par. (4)(D), (E). [Pub. L. 111–203][/us/pl/111/203], § 983(b)(2), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-    Par. (9). [Pub. L. 111–203, § 983(b)(3)][/us/pl/111/203/s983/b/3], in concluding provisions, inserted “includes revenues earned by a broker or dealer in connection with a transaction in the portfolio margining account of a customer carried as securities accounts pursuant to a portfolio margining program approved by the Commission. Such term” before “does not include”.
+    Par. (9). [Pub. L. 111–203][/us/pl/111/203], § 983(b)(3), in concluding provisions, inserted “includes revenues earned by a broker or dealer in connection with a transaction in the portfolio margining account of a customer carried as securities accounts pursuant to a portfolio margining program approved by the Commission. Such term” before “does not include”.
 
-    Par. (11). [Pub. L. 111–203, § 983(b)(4)(B)][/us/pl/111/203/s983/b/4/B], in concluding provisions, substituted “A claim for a commodity futures contract received, acquired, or held in a portfolio margining account pursuant to a portfolio margining program approved by the Commission or a claim for a security futures contract, shall be deemed to be a claim with respect to such contract as of the filing date, and such claim shall be treated as a claim for cash. In determining” for “In determining”.
+    Par. (11). [Pub. L. 111–203][/us/pl/111/203], § 983(b)(4)(B), in concluding provisions, substituted “A claim for a commodity futures contract received, acquired, or held in a portfolio margining account pursuant to a portfolio margining program approved by the Commission or a claim for a security futures contract, shall be deemed to be a claim with respect to such contract as of the filing date, and such claim shall be treated as a claim for cash. In determining” for “In determining”.
 
-    Par. (11)(A). [Pub. L. 111–203, § 983(b)(4)(A)][/us/pl/111/203/s983/b/4/A], substituted “by sale or purchase on the filing date—” for “by sale or purchase on the filing date, all securities positions of such customer (other than customer name securities reclaimed by such customer); minus” and added cls. (i) and (ii).
+    Par. (11)(A). [Pub. L. 111–203][/us/pl/111/203], § 983(b)(4)(A), substituted “by sale or purchase on the filing date—” for “by sale or purchase on the filing date, all securities positions of such customer (other than customer name securities reclaimed by such customer); minus” and added cls. (i) and (ii).
 
     2000—Par. (14). [Pub. L. 106–554][/us/pl/106/554] inserted “or any security future as that term is defined in [section 78c(a)(55)(A) of this title][/us/usc/t15/s78c/a/55/A],” after “certificate of deposit for a security,”.
 
@@ -177,13 +177,13 @@
 
     1982—Par. (14). [Pub. L. 97–303][/us/pl/97/303] inserted “any put, call, straddle, option, or privilege on any security, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency,” after “the Securities Act of 1933 \[15 U.S.C.A. § 77a et seq.\]),” and substituted “Except as specifically provided above, the term ‘security’ does not include” for “The term ‘security’ does not include”.
 
-    1978—Par. (1). [Pub. L. 95–598, § 308][/us/pl/95/598/s308](o)(1), (3), struck out par. (1) definition of “Bankruptcy Act” and redesignated par. (2) as (1).
+    1978—Par. (1). [Pub. L. 95–598][/us/pl/95/598], § 308(o)(1), (3), struck out par. (1) definition of “Bankruptcy Act” and redesignated par. (2) as (1).
 
-    Pars. (2) to (6). [Pub. L. 95–598, § 309][/us/pl/95/598/s309](o)(3), redesignated pars. (3) to (7) as (2) to (6), respectively. Former par. (2) redesignated (1).
+    Pars. (2) to (6). [Pub. L. 95–598][/us/pl/95/598], § 309(o)(3), redesignated pars. (3) to (7) as (2) to (6), respectively. Former par. (2) redesignated (1).
 
-    Par. (7). [Pub. L. 95–598, § 308][/us/pl/95/598/s308](o)(2), (3), redesignated par. (8) as (7) and substituted in subpar. (A) “if a petition under title 11 concerning the debtor was filed before such date” for “if a petition was filed before such date by or against the debtor under the Bankruptcy Act, or under chapter X or XI of such Act, as now in effect or as amended from time to time”. Former par. (7) redesignated (6).
+    Par. (7). [Pub. L. 95–598][/us/pl/95/598], § 308(o)(2), (3), redesignated par. (8) as (7) and substituted in subpar. (A) “if a petition under title 11 concerning the debtor was filed before such date” for “if a petition was filed before such date by or against the debtor under the Bankruptcy Act, or under chapter X or XI of such Act, as now in effect or as amended from time to time”. Former par. (7) redesignated (6).
 
-    Pars. (8) to (15). [Pub. L. 95–598, § 308][/us/pl/95/598/s308](o)(3), redesignated pars. (9) to (15) as (8) to (14), respectively. Former par. (8) redesignated (7).
+    Pars. (8) to (15). [Pub. L. 95–598][/us/pl/95/598], § 308(o)(3), redesignated pars. (9) to (15) as (8) to (14), respectively. Former par. (8) redesignated (7).
 
     [Pub. L. 95–283][/us/pl/95/283] in introductory text inserted requirement for applicability of terms to a liquidation proceeding involving the Bankruptcy Act, in par. (1) heading substituted “Bankruptcy Act” for “Self-regulatory organization”, and in text substituted provisions defining such terms, in par. (2) heading substituted “Commission” for “Financial responsibility rules”, and in text substituted provisions defining such terms, in par. (3) heading substituted “Customer” for “Examining authority”, and in text substituted provisions defining such terms, and added pars. (4) to (15).
 
@@ -214,19 +214,19 @@
 [/us/usc/t15/s78eee/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78eee%2Fa%2F3
 [/us/usc/t15/s78c/a/55/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F55%2FA
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
-[/us/pl/91/598/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598%2Fs16
+[/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1656
 [/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/stat/92/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F260
-[/us/pl/95/598/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2676
-[/us/pl/97/303/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F303%2Fs7
+[/us/pl/97/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F303
 [/us/stat/96/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1410
-[/us/pl/100/181/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs802
+[/us/pl/100/181/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVIII
 [/us/stat/101/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1265
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/203/s983/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs983%2Fb
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1931
 [/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1636
@@ -234,22 +234,22 @@
 [/us/stat/30/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F544
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2682
-[/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
+[/us/act/1933-05-27/ch38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38%2FtI
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
-[/us/pl/111/203/s983/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs983%2Fb%2F1
-[/us/pl/111/203/s983/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs983%2Fb%2F2
-[/us/pl/111/203/s983/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs983%2Fb%2F3
-[/us/pl/111/203/s983/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs983%2Fb%2F4%2FB
-[/us/pl/111/203/s983/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs983%2Fb%2F4%2FA
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t15/s78c/a/55/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F55%2FA
 [/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/97/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F303
-[/us/pl/95/598/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308
-[/us/pl/95/598/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs309
-[/us/pl/95/598/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308
-[/us/pl/95/598/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4

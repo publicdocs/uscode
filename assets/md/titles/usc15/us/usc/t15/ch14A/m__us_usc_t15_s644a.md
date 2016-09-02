@@ -63,7 +63,7 @@
 
         The Federal Acquisition Regulatory Council and other appropriate regulatory authorities shall consider comments submitted in a timely manner pursuant to subsection (b)(2).
 
-([Pub. L. 103–355, title VII, § 7104][/us/pl/103/355/s7104], Oct. 13, 1994, [108 Stat. 3369][/us/stat/108/3369]; [Pub. L. 112–239, div. A, title XVI, § 1692][/us/pl/112/239/s1692], Jan. 2, 2013, [126 Stat. 2089][/us/stat/126/2089].)
+([Pub. L. 103–355, title VII][/us/pl/103/355/tVII], § 7104, Oct. 13, 1994, [108 Stat. 3369][/us/stat/108/3369]; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1692, Jan. 2, 2013, [126 Stat. 2089][/us/stat/126/2089].)
 
  __Codification__ 
 
@@ -73,11 +73,11 @@
 
  __Amendments__ 
 
-    2013—Subsec. (b)(3) to (5). [Pub. L. 112–239, § 1692(a)][/us/pl/112/239/s1692/a], added pars. (3) to (5).
+    2013—Subsec. (b)(3) to (5). [Pub. L. 112–239][/us/pl/112/239], § 1692(a), added pars. (3) to (5).
 
-    Subsec. (c)(3). [Pub. L. 112–239, § 1692(b)][/us/pl/112/239/s1692/b], struck out “(established under [section 644(k) of this title][/us/usc/t15/s644/k])” after “Utilization”.
+    Subsec. (c)(3). [Pub. L. 112–239][/us/pl/112/239], § 1692(b), struck out “(established under [section 644(k) of this title][/us/usc/t15/s644/k])” after “Utilization”.
 
-    Subsec. (d). [Pub. L. 112–239, § 1692(c)][/us/pl/112/239/s1692/c], inserted “(or the designee of the Administrator)” after “Small Business Administration”.
+    Subsec. (d). [Pub. L. 112–239][/us/pl/112/239], § 1692(c), inserted “(or the designee of the Administrator)” after “Small Business Administration”.
 
 ----------
 
@@ -87,14 +87,14 @@
 ----------
 
 [/us/usc/t15/s644/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644%2Fk
-[/us/pl/103/355/s7104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs7104
+[/us/pl/103/355/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2FtVII
 [/us/stat/108/3369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3369
-[/us/pl/112/239/s1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1692
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2089
 [/us/usc/t15/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644
-[/us/pl/112/239/s1692/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1692%2Fa
-[/us/pl/112/239/s1692/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1692%2Fb
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t15/s644/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644%2Fk
-[/us/pl/112/239/s1692/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1692%2Fc
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 
 

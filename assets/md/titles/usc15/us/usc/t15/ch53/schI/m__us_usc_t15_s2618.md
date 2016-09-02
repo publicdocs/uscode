@@ -89,13 +89,13 @@
 
         The remedies as provided in this section shall be in addition to and not in lieu of any other remedies provided by law.
 
-([Pub. L. 94–469, title I, § 19][/us/pl/94/469/s19], Oct. 11, 1976, [90 Stat. 2039][/us/stat/90/2039]; renumbered title I and amended [Pub. L. 99–519, § 3(b)(2)][/us/pl/99/519/s3/b/2], (c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; [Pub. L. 102–550, title X, § 1021(b)(8)][/us/pl/102/550/s1021/b/8], Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923].)
+([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 19, Oct. 11, 1976, [90 Stat. 2039][/us/stat/90/2039]; renumbered title I and amended [Pub. L. 99–519][/us/pl/99/519], § 3(b)(2), (c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(b)(8), Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923].)
 
  __Amendments__ 
 
-    1992—Subsec. (a)(1)(A). [Pub. L. 102–550, § 1021(b)(8)(A)][/us/pl/102/550/s1021/b/8/A], substituted “subchapter II or IV” for “subchapter II”.
+    1992—Subsec. (a)(1)(A). [Pub. L. 102–550][/us/pl/102/550], § 1021(b)(8)(A), substituted “subchapter II or IV” for “subchapter II”.
 
-    Subsec. (a)(3)(B). [Pub. L. 102–550, § 1021(b)(8)(B)][/us/pl/102/550/s1021/b/8/B], inserted before semicolon at end “and in the case of a rule under subchapter IV, the finding required for the issuance of such a rule”.
+    Subsec. (a)(3)(B). [Pub. L. 102–550][/us/pl/102/550], § 1021(b)(8)(B), inserted before semicolon at end “and in the case of a rule under subchapter IV, the finding required for the issuance of such a rule”.
 
     1986—Subsec. (a)(1)(A). [Pub. L. 99–519][/us/pl/99/519] inserted reference to subchapter II of this chapter.
 
@@ -121,14 +121,14 @@
 [/us/usc/t15/s2605/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2605%2Fc%2F1
 [/us/usc/t5/s553/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553%2Fc
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/94/469/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs19
+[/us/pl/94/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtI
 [/us/stat/90/2039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2039
-[/us/pl/99/519/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs3%2Fb%2F2
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
-[/us/pl/102/550/s1021/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1021%2Fb%2F8
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3923
-[/us/pl/102/550/s1021/b/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1021%2Fb%2F8%2FA
-[/us/pl/102/550/s1021/b/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1021%2Fb%2F8%2FB
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 
 

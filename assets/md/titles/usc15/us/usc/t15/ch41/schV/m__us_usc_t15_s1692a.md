@@ -47,7 +47,7 @@
 
     (8) The term “State” means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any political subdivision of any of the foregoing.
 
-([Pub. L. 90–321, title VIII, § 803][/us/pl/90/321/s803], as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 875][/us/stat/91/875]; amended [Pub. L. 99–361][/us/pl/99/361], July 9, 1986, [100 Stat. 768][/us/stat/100/768]; [Pub. L. 111–203, title X, § 1089(2)][/us/pl/111/203/s1089/2], July 21, 2010, [124 Stat. 2092][/us/stat/124/2092].)
+([Pub. L. 90–321, title VIII][/us/pl/90/321/tVIII], § 803, as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 875][/us/stat/91/875]; amended [Pub. L. 99–361][/us/pl/99/361], July 9, 1986, [100 Stat. 768][/us/stat/100/768]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1089(2), July 21, 2010, [124 Stat. 2092][/us/stat/124/2092].)
 
  __Amendments__ 
 
@@ -67,12 +67,12 @@
 ----------
 
 [/us/usc/t15/s1692f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1692f%2F6
-[/us/pl/90/321/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs803
+[/us/pl/90/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVIII
 [/us/pl/95/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F109
 [/us/stat/91/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F875
 [/us/pl/99/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F361
 [/us/stat/100/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F768
-[/us/pl/111/203/s1089/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1089%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2092
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/99/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F361

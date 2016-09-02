@@ -47,19 +47,19 @@
 
         The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to contain provisions to the effect that all parties thereto, including the indenture security holders, agree that the court may in its discretion require, in any suit for the enforcement of any right or remedy under such indenture, or in any suit against the trustee for any action taken or omitted by it as trustee, the filing by any party litigant in such suit of an undertaking to pay the costs of such suit, and that such court may in its discretion assess reasonable costs, including reasonable attorney’s fees, against any party litigant in such suit, having due regard to the merits and good faith of the claims or defenses made by such party litigant: Provided, That the provisions of this subsection shall not apply to any suit instituted by such trustee, to any suit instituted by any indenture security holder, or group of indenture security holders, holding in the aggregate more than 10 per centum in principal amount of the indenture securities outstanding, or to any suit instituted by any indenture security holder for the enforcement of the payment of the principal of or interest on any indenture security, on or after the respective due dates expressed in such indenture security.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 315, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1171][/us/stat/53/1171]; amended [Pub. L. 101–550, title IV, § 414][/us/pl/101/550/s414], Nov. 15, 1990, [104 Stat. 2730][/us/stat/104/2730].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 315, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1171][/us/stat/53/1171]; amended [Pub. L. 101–550, title IV][/us/pl/101/550/tIV], § 414, Nov. 15, 1990, [104 Stat. 2730][/us/stat/104/2730].)
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–550, § 414(1)][/us/pl/101/550/s414/1], (2), substituted “The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “The indenture to be qualified may” and “the indenture trustee shall examine” for “such indenture shall contain provisions requiring the indenture trustee to examine”.
+    1990—Subsec. (a). [Pub. L. 101–550][/us/pl/101/550], § 414(1), (2), substituted “The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “The indenture to be qualified may” and “the indenture trustee shall examine” for “such indenture shall contain provisions requiring the indenture trustee to examine”.
 
-    Subsec. (b). [Pub. L. 101–550, § 414(3)][/us/pl/101/550/s414/3], (4), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to” and “That such indenture shall automatically be deemed (unless it is expressly provided therein that such provision is excluded) to” for “That such indenture may”.
+    Subsec. (b). [Pub. L. 101–550][/us/pl/101/550], § 414(3), (4), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to” and “That such indenture shall automatically be deemed (unless it is expressly provided therein that such provision is excluded) to” for “That such indenture may”.
 
-    Subsec. (c). [Pub. L. 101–550, § 414(3)][/us/pl/101/550/s414/3], substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to”.
+    Subsec. (c). [Pub. L. 101–550][/us/pl/101/550], § 414(3), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to”.
 
-    Subsec. (d)(1) to (3). [Pub. L. 101–550, § 414(5)][/us/pl/101/550/s414/5], substituted “such indenture shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “such indenture may”.
+    Subsec. (d)(1) to (3). [Pub. L. 101–550][/us/pl/101/550], § 414(5), substituted “such indenture shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “such indenture may”.
 
-    Subsec. (e). [Pub. L. 101–550, § 414(1)][/us/pl/101/550/s414/1], substituted “The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “The indenture to be qualified may”.
+    Subsec. (e). [Pub. L. 101–550][/us/pl/101/550], § 414(1), substituted “The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “The indenture to be qualified may”.
 
 ----------
 
@@ -74,12 +74,12 @@
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/act/1939-08-03/ch411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-03%2Fch411
 [/us/stat/53/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1171
-[/us/pl/101/550/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs414
+[/us/pl/101/550/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtIV
 [/us/stat/104/2730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2730
-[/us/pl/101/550/s414/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs414%2F1
-[/us/pl/101/550/s414/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs414%2F3
-[/us/pl/101/550/s414/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs414%2F3
-[/us/pl/101/550/s414/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs414%2F5
-[/us/pl/101/550/s414/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs414%2F1
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
 
 

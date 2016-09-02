@@ -17,7 +17,7 @@
 
     No funds shall be made available to a State or local government under [section 2221 of this title][/us/usc/t15/s2221] unless such government has a policy to actively promote the training of its firefighters in cardiopulmonary resuscitation.
 
-([Pub. L. 93–498, § 32][/us/pl/93/498/s32], as added [Pub. L. 103–254, § 5][/us/pl/103/254/s5], May 19, 1994, [108 Stat. 682][/us/stat/108/682].)
+([Pub. L. 93–498][/us/pl/93/498], § 32, as added [Pub. L. 103–254][/us/pl/103/254], § 5, May 19, 1994, [108 Stat. 682][/us/stat/108/682].)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t15/s2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2221
-[/us/pl/93/498/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs32
-[/us/pl/103/254/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F254%2Fs5
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
+[/us/pl/103/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F254
 [/us/stat/108/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F682
 
 

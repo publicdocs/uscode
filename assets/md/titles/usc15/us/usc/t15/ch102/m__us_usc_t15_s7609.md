@@ -33,7 +33,7 @@
 
         Not later than 12 months after the effective date of this chapter, the Chairman of the Federal Trade Commission shall submit to the Congress a report of the study required by subsection (a).
 
-([Pub. L. 108–164, § 10][/us/pl/108/164/s10], Dec. 6, 2003, [117 Stat. 2026][/us/stat/117/2026].)
+([Pub. L. 108–164][/us/pl/108/164], § 10, Dec. 6, 2003, [117 Stat. 2026][/us/stat/117/2026].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/108/164/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F164%2Fs10
+[/us/pl/108/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F164
 [/us/stat/117/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2026
 [/us/pl/108/164/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F164%2Fs12
 [/us/usc/t15/s7601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7601

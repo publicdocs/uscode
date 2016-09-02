@@ -81,7 +81,7 @@
 
             (C) by 3.5 or more percentage points for a subordinate lien residential mortgage loan.
 
-([Pub. L. 90–321, title I, § 129H][/us/pl/90/321/s129H], as added [Pub. L. 111–203, title XIV, § 1471][/us/pl/111/203/s1471], July 21, 2010, [124 Stat. 2185][/us/stat/124/2185].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 129H, as added [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1471, July 21, 2010, [124 Stat. 2185][/us/stat/124/2185].)
 
  __References in Text__ 
 
@@ -104,8 +104,8 @@
 [/us/usc/t15/s1639c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639c
 [/us/usc/t12/s1454/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1454%2Fa%2F2
 [/us/usc/t12/s1454/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1454%2Fa%2F2
-[/us/pl/90/321/s129H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs129H
-[/us/pl/111/203/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1471
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2185
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/stat/103/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F183

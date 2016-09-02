@@ -45,7 +45,7 @@
 
         The sending or delivery of any form or notice which does not relate to the collection of a debt and is expressly required by title 26, title V of Gramm-Leach-Bliley Act \[[15 U.S.C. 6801][/us/usc/t15/s6801] et seq.\], or any provision of Federal or State law relating to notice of data security breach or privacy, or any regulation prescribed under any such provision of law, shall not be treated as an initial communication in connection with debt collection for purposes of this section.
 
-([Pub. L. 90–321, title VIII, § 809][/us/pl/90/321/s809], as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 879][/us/stat/91/879]; amended [Pub. L. 109–351, title VIII, § 802][/us/pl/109/351/s802], Oct. 13, 2006, [120 Stat. 2006][/us/stat/120/2006].)
+([Pub. L. 90–321, title VIII][/us/pl/90/321/tVIII], § 809, as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 879][/us/stat/91/879]; amended [Pub. L. 109–351, title VIII][/us/pl/109/351/tVIII], § 802, Oct. 13, 2006, [120 Stat. 2006][/us/stat/120/2006].)
 
  __References in Text__ 
 
@@ -53,11 +53,11 @@
 
  __Amendments__ 
 
-    2006—Subsec. (b). [Pub. L. 109–351, § 802(c)][/us/pl/109/351/s802/c], inserted at end “Collection activities and communications that do not otherwise violate this subchapter may continue during the 30-day period referred to in subsection (a) unless the consumer has notified the debt collector in writing that the debt, or any portion of the debt, is disputed or that the consumer requests the name and address of the original creditor. Any collection activities and communication during the 30-day period may not overshadow or be inconsistent with the disclosure of the consumer’s right to dispute the debt or request the name and address of the original creditor.”
+    2006—Subsec. (b). [Pub. L. 109–351][/us/pl/109/351], § 802(c), inserted at end “Collection activities and communications that do not otherwise violate this subchapter may continue during the 30-day period referred to in subsection (a) unless the consumer has notified the debt collector in writing that the debt, or any portion of the debt, is disputed or that the consumer requests the name and address of the original creditor. Any collection activities and communication during the 30-day period may not overshadow or be inconsistent with the disclosure of the consumer’s right to dispute the debt or request the name and address of the original creditor.”
 
-    Subsec. (d). [Pub. L. 109–351, § 802(a)][/us/pl/109/351/s802/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 109–351][/us/pl/109/351], § 802(a), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 109–351, § 802(b)][/us/pl/109/351/s802/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 109–351][/us/pl/109/351], § 802(b), added subsec. (e).
 
  __Effective Date__ 
 
@@ -71,17 +71,17 @@
 ----------
 
 [/us/usc/t15/s6801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6801
-[/us/pl/90/321/s809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs809
+[/us/pl/90/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVIII
 [/us/pl/95/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F109
 [/us/stat/91/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F879
-[/us/pl/109/351/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs802
+[/us/pl/109/351/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVIII
 [/us/stat/120/2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2006
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/stat/113/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1338
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
-[/us/pl/109/351/s802/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs802%2Fc
-[/us/pl/109/351/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs802%2Fa
-[/us/pl/109/351/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs802%2Fb
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
+[/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/pl/90/321/s819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs819
 [/us/usc/t15/s1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1692
 

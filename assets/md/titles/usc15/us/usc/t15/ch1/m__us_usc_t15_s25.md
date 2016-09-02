@@ -17,7 +17,7 @@
 
     The several district courts of the United States are invested with jurisdiction to prevent and restrain violations of this Act, and it shall be the duty of the several United States attorneys, in their respective districts, under the direction of the Attorney General, to institute proceedings in equity to prevent and restrain such violations. Such proceedings may be by way of petition setting forth the case and praying that such violation shall be enjoined or otherwise prohibited. When the parties complained of shall have been duly notified of such petition, the court shall proceed, as soon as may be, to the hearing and determination of the case; and pending such petition, and before final decree, the court may at any time make such temporary restraining order or prohibition as shall be deemed just in the premises. Whenever it shall appear to the court before which any such proceeding may be pending that the ends of justice require that other parties should be brought before the court, the court may cause them to be summoned whether they reside in the district in which the court is held or not, and subpoenas to that end may be served in any district by the marshal thereof.
 
-([Oct. 15, 1914, ch. 323, § 15][/us/act/1914-10-15/ch323/s15], [38 Stat. 736][/us/stat/38/736]; [June 25, 1948, ch. 646, § 1][/us/act/1948-06-25/ch646/s1], [62 Stat. 909][/us/stat/62/909].)
+([Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], § 15, [38 Stat. 736][/us/stat/38/736]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 1, [62 Stat. 909][/us/stat/62/909].)
 
  __References in Text__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1914-10-15/ch323/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323%2Fs15
+[/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
 [/us/stat/38/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F736
-[/us/act/1948-06-25/ch646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs1
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F909
 [/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
 [/us/stat/38/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F730

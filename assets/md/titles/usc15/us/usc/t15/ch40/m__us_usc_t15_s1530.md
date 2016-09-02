@@ -23,7 +23,7 @@
 
     (3) an assessment of the benefits to the Federal Government of proceeding with the proposed contract.
 
-([Pub. L. 99–272, title VI, § 6083][/us/pl/99/272/s6083], Apr. 7, 1986, [100 Stat. 135][/us/stat/100/135]; [Pub. L. 103–437, § 5(b)(3)][/us/pl/103/437/s5/b/3], Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582].)
+([Pub. L. 99–272, title VI][/us/pl/99/272/tVI], § 6083, Apr. 7, 1986, [100 Stat. 135][/us/stat/100/135]; [Pub. L. 103–437][/us/pl/103/437], § 5(b)(3), Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/99/272/s6083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6083
+[/us/pl/99/272/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtVI
 [/us/stat/100/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F135
-[/us/pl/103/437/s5/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs5%2Fb%2F3
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4582
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/104/14/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fb%2F3

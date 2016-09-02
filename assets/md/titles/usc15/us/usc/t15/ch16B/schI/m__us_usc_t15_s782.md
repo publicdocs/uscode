@@ -33,7 +33,7 @@
 
         As used in this section, the term “petrochemical” includes organic chemicals, cyclic intermediates, plastics and resins, synthetic fibers, elastomers, organic dyes, organic pigments, detergents, surface active agents, carbon black and ammonia.
 
-([Pub. L. 93–275, § 23][/us/pl/93/275/s23], May 7, 1974, [88 Stat. 113][/us/stat/88/113]; [Pub. L. 93–618, title I, § 171(b)][/us/pl/93/618/s171/b], Jan. 3, 1975, [88 Stat. 2009][/us/stat/88/2009].)
+([Pub. L. 93–275][/us/pl/93/275], § 23, May 7, 1974, [88 Stat. 113][/us/stat/88/113]; [Pub. L. 93–618, title I][/us/pl/93/618/tI], § 171(b), Jan. 3, 1975, [88 Stat. 2009][/us/stat/88/2009].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/93/275/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs23
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F113
-[/us/pl/93/618/s171/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2Fs171%2Fb
+[/us/pl/93/618/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618%2FtI
 [/us/stat/88/2009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2009
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618
 

@@ -27,7 +27,7 @@
 
         The Secretary of Energy shall collect, analyze, and disseminate to developers information, data, and materials that may be relevant to the development of advanced automobile propulsion system technology.
 
-([Pub. L. 95–238, title III, § 307][/us/pl/95/238/s307], Feb. 25, 1978, [92 Stat. 82][/us/stat/92/82].)
+([Pub. L. 95–238, title III][/us/pl/95/238/tIII], § 307, Feb. 25, 1978, [92 Stat. 82][/us/stat/92/82].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 [/us/usc/t42/s1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t42/s4901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4901
-[/us/pl/95/238/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs307
+[/us/pl/95/238/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtIII
 [/us/stat/92/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F82
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322

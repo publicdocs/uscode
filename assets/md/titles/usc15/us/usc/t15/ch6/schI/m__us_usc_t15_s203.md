@@ -17,7 +17,7 @@
 
     The Secretary of Commerce is authorized and directed to furnish precise copies of standard weights and measures, bearing the seal of the National Institute of Standards and Technology and accompanied by a suitable certificate, to any State, Territory, or institution heretofore furnished with the same, upon application in writing by the governor in the case of a State or Territory, or by the official head in the case of an institution, setting forth that the copies of standards applied for are to replace similar ones heretofore furnished, in accordance with law, which have been lost or destroyed: Provided, That the applicant shall, before the said standards are delivered, first deposit with the Secretary of Commerce the amount of money necessary to defray all expenses incurred by the National Institute of Standards and Technology in furnishing the same, which amount shall be covered into the Treasury of the United States to the credit of miscellaneous receipts as soon as the weights or measures are delivered for transportation into the hands of such persons as are designated by the officers ordering the same.
 
-([Aug. 18, 1894, ch. 301, § 1][/us/act/1894-08-18/ch301/s1], [28 Stat. 383][/us/stat/28/383]; [Mar. 3, 1901, ch. 872, § 1][/us/act/1901-03-03/ch872/s1], [31 Stat. 1449][/us/stat/31/1449]; [Feb. 14, 1903, ch. 552, § 10][/us/act/1903-02-14/ch552/s10], [32 Stat. 829][/us/stat/32/829]; [Mar. 4, 1913, ch. 141, § 1][/us/act/1913-03-04/ch141/s1], [37 Stat. 736][/us/stat/37/736]; [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433].)
+([Aug. 18, 1894, ch. 301][/us/act/1894-08-18/ch301], § 1, [28 Stat. 383][/us/stat/28/383]; [Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 1, [31 Stat. 1449][/us/stat/31/1449]; [Feb. 14, 1903, ch. 552][/us/act/1903-02-14/ch552], § 10, [32 Stat. 829][/us/stat/32/829]; [Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], § 1, [37 Stat. 736][/us/stat/37/736]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433].)
 
  __Amendments__ 
 
@@ -40,15 +40,15 @@
 ----------
 ----------
 
-[/us/act/1894-08-18/ch301/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-18%2Fch301%2Fs1
+[/us/act/1894-08-18/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-18%2Fch301
 [/us/stat/28/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F383
-[/us/act/1901-03-03/ch872/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs1
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
 [/us/stat/31/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1449
-[/us/act/1903-02-14/ch552/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552%2Fs10
+[/us/act/1903-02-14/ch552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552
 [/us/stat/32/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F829
-[/us/act/1913-03-04/ch141/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs1
+[/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F736
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 

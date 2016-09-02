@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687h.md) | [Next](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687k)
+[Previous](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687i _us_usc_t15_s687j.md) | [Next](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687k)
 
 ## § 687k. Guaranteed obligations not eligible for purchase by Federal Financing Bank
 
@@ -23,7 +23,7 @@
 
     (3) any obligation which is secured by, or substantially all of the value of which is attributable to, any obligation described in paragraph (1) or (2).
 
-([Pub. L. 85–699, title III, § 318][/us/pl/85/699/s318], formerly § 320, as added [Pub. L. 99–272, title XVIII, § 18004(a)][/us/pl/99/272/s18004/a], Apr. 7, 1986, [100 Stat. 364][/us/stat/100/364]; renumbered § 318, [Pub. L. 104–208, div. D, title II, § 208(h)(1)(E)][/us/pl/104/208/s208/h/1/E], Sept. 30, 1996, [110 Stat. 3009–747][/us/stat/110/3009-747].)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 318, formerly § 320, as added [Pub. L. 99–272, title XVIII][/us/pl/99/272/tXVIII], § 18004(a), Apr. 7, 1986, [100 Stat. 364][/us/stat/100/364]; renumbered § 318, [Pub. L. 104–208, div. D, title II][/us/pl/104/208/dD/tII], § 208(h)(1)(E), Sept. 30, 1996, [110 Stat. 3009–747][/us/stat/110/3009-747].)
 
  __Prior Provisions__ 
 
@@ -31,15 +31,15 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687h.md) | [Next](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687k)
+[Previous](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687i _us_usc_t15_s687j.md) | [Next](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687l.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687k)
 
 ----------
 ----------
 
-[/us/pl/85/699/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs318
-[/us/pl/99/272/s18004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs18004%2Fa
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/99/272/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXVIII
 [/us/stat/100/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F364
-[/us/pl/104/208/s208/h/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fh%2F1%2FE
+[/us/pl/104/208/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD%2FtII
 [/us/stat/110/3009-747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-747
 [/us/pl/85/699/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs318
 [/us/usc/t15/s687j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687j

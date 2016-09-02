@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch18/m__us_usc_t15_ch18.md) | [Next](./../../../..//us/usc/t15/ch19/m__us_usc_t15_s1001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch19)
+[Previous](./../../../..//us/usc/t15/ch18/m__us_usc_t15_s901...910.md) | [Next](./../../../..//us/usc/t15/ch19/m__us_usc_t15_s1001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch19)
 
 ## CHAPTER 19—MISCELLANEOUS
 
@@ -83,7 +83,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch18/m__us_usc_t15_ch18.md) | [Next](./../../../..//us/usc/t15/ch19/m__us_usc_t15_s1001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch19)
+[Previous](./../../../..//us/usc/t15/ch18/m__us_usc_t15_s901...910.md) | [Next](./../../../..//us/usc/t15/ch19/m__us_usc_t15_s1001.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch19)
 
 ----------
 ----------

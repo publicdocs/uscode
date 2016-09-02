@@ -61,15 +61,15 @@
 
         When any holder of a certificate of public convenience and necessity cannot acquire by contract, or is unable to agree with the owner of property to the compensation to be paid for, the necessary right-of-way to construct, operate, and maintain a pipe line or pipe lines for the transportation of natural gas, and the necessary land or other property, in addition to right-of-way, for the location of compressor stations, pressure apparatus, or other stations or equipment necessary to the proper operation of such pipe line or pipe lines, it may acquire the same by the exercise of the right of eminent domain in the district court of the United States for the district in which such property may be located, or in the State courts. The practice and procedure in any action or proceeding for that purpose in the district court of the United States shall conform as nearly as may be with the practice and procedure in similar action or proceeding in the courts of the State where the property is situated: Provided, That the United States district courts shall only have jurisdiction of cases when the amount claimed by the owner of the property to be condemned exceeds $3,000.
 
-([June 21, 1938, ch. 556, § 7][/us/act/1938-06-21/ch556/s7], [52 Stat. 824][/us/stat/52/824]; [Feb. 7, 1942, ch. 49][/us/act/1942-02-07/ch49], [56 Stat. 83][/us/stat/56/83]; [July 25, 1947, ch. 333][/us/act/1947-07-25/ch333], [61 Stat. 459][/us/stat/61/459]; [Pub. L. 95–617, title VI, § 608][/us/pl/95/617/s608], Nov. 9, 1978, [92 Stat. 3173][/us/stat/92/3173]; [Pub. L. 100–474, § 2][/us/pl/100/474/s2], Oct. 6, 1988, [102 Stat. 2302][/us/stat/102/2302].)
+([June 21, 1938, ch. 556][/us/act/1938-06-21/ch556], § 7, [52 Stat. 824][/us/stat/52/824]; [Feb. 7, 1942, ch. 49][/us/act/1942-02-07/ch49], [56 Stat. 83][/us/stat/56/83]; [July 25, 1947, ch. 333][/us/act/1947-07-25/ch333], [61 Stat. 459][/us/stat/61/459]; [Pub. L. 95–617, title VI][/us/pl/95/617/tVI], § 608, Nov. 9, 1978, [92 Stat. 3173][/us/stat/92/3173]; [Pub. L. 100–474][/us/pl/100/474], § 2, Oct. 6, 1988, [102 Stat. 2302][/us/stat/102/2302].)
 
  __Amendments__ 
 
     1988—Subsec. (f). [Pub. L. 100–474][/us/pl/100/474] designated existing provisions as par. (1) and added par. (2).
 
-    1978—Subsec. (c). [Pub. L. 95–617, § 608(a)][/us/pl/95/617/s608/a], (b)(1), designated existing first paragraph as par. (1)(A) and existing second paragraph as par. (1)(B) and added par. (2).
+    1978—Subsec. (c). [Pub. L. 95–617][/us/pl/95/617], § 608(a), (b)(1), designated existing first paragraph as par. (1)(A) and existing second paragraph as par. (1)(B) and added par. (2).
 
-    Subsec. (e). [Pub. L. 95–617, § 608(b)(2)][/us/pl/95/617/s608/b/2], substituted “subsection (c)(1)” for “subsection (c)”.
+    Subsec. (e). [Pub. L. 95–617][/us/pl/95/617], § 608(b)(2), substituted “subsection (c)(1)” for “subsection (c)”.
 
     1947—Subsec. (h). Act July 25, 1947, added subsec. (h).
 
@@ -77,7 +77,7 @@
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–474, § 3][/us/pl/100/474/s3], Oct. 6, 1988, [102 Stat. 2302][/us/stat/102/2302], provided that: 
+[Pub. L. 100–474][/us/pl/100/474], § 3, Oct. 6, 1988, [102 Stat. 2302][/us/stat/102/2302], provided that: 
 
 > “The provisions of this Act \[amending this section and enacting provisions set out as a note under [section 717w of this title][/us/usc/t15/s717w]\] shall become effective one hundred and twenty days after the date of enactment \[Oct. 6, 1988\].”
 
@@ -92,20 +92,20 @@
 ----------
 ----------
 
-[/us/act/1938-06-21/ch556/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556%2Fs7
+[/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F824
 [/us/act/1942-02-07/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-02-07%2Fch49
 [/us/stat/56/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F83
 [/us/act/1947-07-25/ch333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch333
 [/us/stat/61/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F459
-[/us/pl/95/617/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs608
+[/us/pl/95/617/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtVI
 [/us/stat/92/3173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3173
-[/us/pl/100/474/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F474%2Fs2
+[/us/pl/100/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F474
 [/us/stat/102/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2302
 [/us/pl/100/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F474
-[/us/pl/95/617/s608/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs608%2Fa
-[/us/pl/95/617/s608/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs608%2Fb%2F2
-[/us/pl/100/474/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F474%2Fs3
+[/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
+[/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
+[/us/pl/100/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F474
 [/us/stat/102/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2302
 [/us/usc/t15/s717w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717w
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373

@@ -65,7 +65,7 @@
 
             (B) is not or was not in the process of performing data exchange testing with the Department of Education at the time the Department terminates such testing.
 
-([Pub. L. 106–37, § 5][/us/pl/106/37/s5], July 20, 1999, [113 Stat. 192][/us/stat/113/192]; [Pub. L. 106–113, div. B, § 1000(a)(4)][/us/pl/106/113/s1000/a/4] \[title III, § 311\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–265.)
+([Pub. L. 106–37][/us/pl/106/37], § 5, July 20, 1999, [113 Stat. 192][/us/stat/113/192]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(4) \[title III, § 311\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–265.)
 
  __Amendments__ 
 
@@ -79,9 +79,9 @@
 ----------
 
 [/us/usc/t20/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fa
-[/us/pl/106/37/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37%2Fs5
+[/us/pl/106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37
 [/us/stat/113/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F192
-[/us/pl/106/113/s1000/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F4
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 

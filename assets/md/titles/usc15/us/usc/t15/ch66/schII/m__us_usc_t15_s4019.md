@@ -39,7 +39,7 @@
 
             (F) in accordance with any rule or regulation promulgated under [section 4020 of this title][/us/usc/t15/s4020] permitting the disclosure of the information to an agency of the United States or of a State on the condition that the agency will disclose the information only under the circumstances specified in subparagraphs (A) through (E).
 
-([Pub. L. 97–290, title III, § 309][/us/pl/97/290/s309], Oct. 8, 1982, [96 Stat. 1244][/us/stat/96/1244].)
+([Pub. L. 97–290, title III][/us/pl/97/290/tIII], § 309, Oct. 8, 1982, [96 Stat. 1244][/us/stat/96/1244].)
 
  __Effective Date__ 
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t15/s4020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4020
-[/us/pl/97/290/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs309
+[/us/pl/97/290/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2FtIII
 [/us/stat/96/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1244
 [/us/pl/97/290/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs312
 [/us/usc/t15/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4011

@@ -21,7 +21,7 @@
 
     (2) whose interests may be substantially affected by the performance or nonperformance of the Commissioner’s or employee’s official duties.
 
-([Pub. L. 92–573, § 39][/us/pl/92/573/s39], as added [Pub. L. 110–314, title II, § 206(a)][/us/pl/110/314/s206/a], Aug. 14, 2008, [122 Stat. 3044][/us/stat/122/3044].)
+([Pub. L. 92–573][/us/pl/92/573], § 39, as added [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 206(a), Aug. 14, 2008, [122 Stat. 3044][/us/stat/122/3044].)
 
 ----------
 
@@ -32,8 +32,8 @@
 
 [/us/usc/t31/s1353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1353
 [/us/usc/t15/s2076/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2076%2Fb%2F6
-[/us/pl/92/573/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs39
-[/us/pl/110/314/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs206%2Fa
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3044
 
 

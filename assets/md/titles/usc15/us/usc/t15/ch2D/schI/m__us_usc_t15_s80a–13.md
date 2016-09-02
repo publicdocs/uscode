@@ -55,7 +55,7 @@
 
             For purposes of this subsection the term “person” includes the Federal Government and any State or political subdivision of a State.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 13, [54 Stat. 811][/us/stat/54/811]; [Pub. L. 91–547][/us/pl/91/547], §§ 2(b), 3(d), Dec. 14, 1970, [84 Stat. 1414][/us/stat/84/1414], 1415; [Pub. L. 94–29, § 28(4)][/us/pl/94/29/s28/4], June 4, 1975, [89 Stat. 165][/us/stat/89/165]; [Pub. L. 110–174, § 4(a)][/us/pl/110/174/s4/a], Dec. 31, 2007, [121 Stat. 2519][/us/stat/121/2519]; [Pub. L. 111–195, title II][/us/pl/111/195], §§ 203(a), 205(b)(1), July 1, 2010, [124 Stat. 1343][/us/stat/124/1343], 1345.)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 13, [54 Stat. 811][/us/stat/54/811]; [Pub. L. 91–547][/us/pl/91/547], §§ 2(b), 3(d), Dec. 14, 1970, [84 Stat. 1414][/us/stat/84/1414], 1415; [Pub. L. 94–29][/us/pl/94/29], § 28(4), June 4, 1975, [89 Stat. 165][/us/stat/89/165]; [Pub. L. 110–174][/us/pl/110/174], § 4(a), Dec. 31, 2007, [121 Stat. 2519][/us/stat/121/2519]; [Pub. L. 111–195, title II][/us/pl/111/195/tII], §§ 203(a), 205(b)(1), July 1, 2010, [124 Stat. 1343][/us/stat/124/1343], 1345.)
 
  __Amendment of Section__ 
 
@@ -69,21 +69,21 @@
 
  __Amendments__ 
 
-    2010—Subsec. (c)(1). [Pub. L. 111–195, § 203(a)][/us/pl/111/195/s203/a], amended par. (1) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of Federal or State law, no person may bring any civil, criminal, or administrative action against any registered investment company, or any employee, officer, director, or investment adviser thereof, based solely upon the investment company divesting from, or avoiding investing in, securities issued by persons that the investment company determines, using credible information that is available to the public, conduct or have direct investments in business operations in Sudan described in section 3(d) of the Sudan Accountability and Divestment Act of 2007.”
+    2010—Subsec. (c)(1). [Pub. L. 111–195][/us/pl/111/195], § 203(a), amended par. (1) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of Federal or State law, no person may bring any civil, criminal, or administrative action against any registered investment company, or any employee, officer, director, or investment adviser thereof, based solely upon the investment company divesting from, or avoiding investing in, securities issued by persons that the investment company determines, using credible information that is available to the public, conduct or have direct investments in business operations in Sudan described in section 3(d) of the Sudan Accountability and Divestment Act of 2007.”
 
-    Subsec. (c)(2)(A). [Pub. L. 111–195, § 205(b)(1)][/us/pl/111/195/s205/b/1], amended subpar. (A) generally. Prior to amendment, text read as follows: “Paragraph (1) does not prevent a person from bringing an action based on a breach of a fiduciary duty owed to that person with respect to a divestment or non-investment decision, other than as described in paragraph (1).”
+    Subsec. (c)(2)(A). [Pub. L. 111–195][/us/pl/111/195], § 205(b)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: “Paragraph (1) does not prevent a person from bringing an action based on a breach of a fiduciary duty owed to that person with respect to a divestment or non-investment decision, other than as described in paragraph (1).”
 
     2007—Subsec. (c). [Pub. L. 110–174][/us/pl/110/174], §§ 4(a), 12, temporarily added subsec. (c). See Termination Date of 2007 Amendment note below.
 
     1975—Subsec. (b). [Pub. L. 94–29][/us/pl/94/29] substituted “[section 80a–16(c) of this title][/us/usc/t15/s80a–16/c]” for “subsection (b) of [section 80a–16 of this title][/us/usc/t15/s80a–16]”.
 
-    1970—Subsec. (a)(3). [Pub. L. 91–547, § 3(d)][/us/pl/91/547/s3/d], prohibited deviation from any investment policy which is changeable only if authorized by shareholder vote, substituted “section 8(b)(3)” for “section 8(b)(2)”, and in the latter deviation provision struck out “fundamental” before “policy”.
+    1970—Subsec. (a)(3). [Pub. L. 91–547][/us/pl/91/547], § 3(d), prohibited deviation from any investment policy which is changeable only if authorized by shareholder vote, substituted “section 8(b)(3)” for “section 8(b)(2)”, and in the latter deviation provision struck out “fundamental” before “policy”.
 
-    Subsec. (b). [Pub. L. 91–547, § 2(b)][/us/pl/91/547/s2/b], substituted reference to “paragraph (42)” for “paragraph (40)”.
+    Subsec. (b). [Pub. L. 91–547][/us/pl/91/547], § 2(b), substituted reference to “paragraph (42)” for “paragraph (40)”.
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–195, title II, § 205(b)(2)][/us/pl/111/195/s205/b/2], July 1, 2010, [124 Stat. 1345][/us/stat/124/1345], provided that: 
+[Pub. L. 111–195, title II][/us/pl/111/195/tII], § 205(b)(2), July 1, 2010, [124 Stat. 1345][/us/stat/124/1345], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply as if included in the Sudan Accountability and Divestment Act of 2007 ([Public Law 110–174][/us/pl/110/174]; [50 U.S.C. 1701][/us/usc/t50/s1701] note).”
 
@@ -101,7 +101,7 @@
 
  __SEC Regulations__ 
 
-[Pub. L. 111–195, title II, § 203(b)][/us/pl/111/195/s203/b], July 1, 2010, [124 Stat. 1344][/us/stat/124/1344], provided that: 
+[Pub. L. 111–195, title II][/us/pl/111/195/tII], § 203(b), July 1, 2010, [124 Stat. 1344][/us/stat/124/1344], provided that: 
 
 > “Not later than 120 days after the date of the enactment of this Act \[July 1, 2010\], the Securities and Exchange Commission shall issue any revisions the Commission determines to be necessary to the regulations requiring disclosure by each registered investment company that divests itself of securities in accordance with section 13(c) of the Investment Company Act of 1940 \[[15 U.S.C. 80a–13(c)][/us/usc/t15/s80a–13/c]\] to include divestments of securities in accordance with paragraph (1)(B) of such section, as added by subsection (a) of this section.”
 
@@ -121,25 +121,25 @@
 [/us/stat/54/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F811
 [/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1414
-[/us/pl/94/29/s28/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs28%2F4
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F165
-[/us/pl/110/174/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F174%2Fs4%2Fa
+[/us/pl/110/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F174
 [/us/stat/121/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2519
-[/us/pl/111/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195
+[/us/pl/111/195/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtII
 [/us/stat/124/1343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1343
 [/us/usc/t22/s8551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8551%2Fa
 [/us/pl/110/174/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F174%2Fs12
 [/us/pl/110/174/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F174%2Fs3%2Fd
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/111/195/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs203%2Fa
-[/us/pl/111/195/s205/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs205%2Fb%2F1
+[/us/pl/111/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195
+[/us/pl/111/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195
 [/us/pl/110/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F174
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/usc/t15/s80a–16/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9316%2Fc
 [/us/usc/t15/s80a–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9316
-[/us/pl/91/547/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs3%2Fd
-[/us/pl/91/547/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs2%2Fb
-[/us/pl/111/195/s205/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs205%2Fb%2F2
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
+[/us/pl/111/195/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtII
 [/us/stat/124/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1345
 [/us/pl/110/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F174
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
@@ -152,7 +152,7 @@
 [/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/pl/91/547/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs30
 [/us/usc/t15/s80a–52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9352
-[/us/pl/111/195/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2Fs203%2Fb
+[/us/pl/111/195/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F195%2FtII
 [/us/stat/124/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1344
 [/us/usc/t15/s80a–13/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9313%2Fc
 

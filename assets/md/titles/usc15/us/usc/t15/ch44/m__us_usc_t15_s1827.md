@@ -23,7 +23,7 @@
 
         The Secretary may, upon request, provide technical and other nonfinancial assistance (including the lending of equipment on such terms and conditions as the Secretary determines is appropriate) to any State to assist it in administering and enforcing any law of such State designed to prohibit conduct described in [section 1824 of this title][/us/usc/t15/s1824].
 
-([Pub. L. 91–540, § 8][/us/pl/91/540/s8], Dec. 9, 1970, [84 Stat. 1406][/us/stat/84/1406]; [Pub. L. 94–360, § 8][/us/pl/94/360/s8], July 13, 1976, [90 Stat. 920][/us/stat/90/920].)
+([Pub. L. 91–540][/us/pl/91/540], § 8, Dec. 9, 1970, [84 Stat. 1406][/us/stat/84/1406]; [Pub. L. 94–360][/us/pl/94/360], § 8, July 13, 1976, [90 Stat. 920][/us/stat/90/920].)
 
  __Amendments__ 
 
@@ -37,9 +37,9 @@
 ----------
 
 [/us/usc/t15/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1824
-[/us/pl/91/540/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F540%2Fs8
+[/us/pl/91/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F540
 [/us/stat/84/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1406
-[/us/pl/94/360/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360%2Fs8
+[/us/pl/94/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360
 [/us/stat/90/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F920
 [/us/pl/94/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360
 

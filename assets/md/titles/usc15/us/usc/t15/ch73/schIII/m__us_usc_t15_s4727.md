@@ -111,7 +111,7 @@
 
         (2) the implementation of sections 5823 and 5824 of title 22  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  concerning funding for export promotion activities and the interagency working groups on energy of the TPCC.
 
-([Pub. L. 100–418, title II, § 2312][/us/pl/100/418/s2312], as added [Pub. L. 102–429, title II, § 201][/us/pl/102/429/s201], Oct. 21, 1992, [106 Stat. 2199][/us/stat/106/2199]; amended [Pub. L. 104–66, title I, § 1022(a)][/us/pl/104/66/s1022/a], Dec. 21, 1995, [109 Stat. 713][/us/stat/109/713]; [Pub. L. 104–288, § 8][/us/pl/104/288/s8], Oct. 11, 1996, [110 Stat. 3407][/us/stat/110/3407]; [Pub. L. 106–158, § 7][/us/pl/106/158/s7], Dec. 9, 1999, [113 Stat. 1747][/us/stat/113/1747].)
+([Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2312, as added [Pub. L. 102–429, title II][/us/pl/102/429/tII], § 201, Oct. 21, 1992, [106 Stat. 2199][/us/stat/106/2199]; amended [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1022(a), Dec. 21, 1995, [109 Stat. 713][/us/stat/109/713]; [Pub. L. 104–288][/us/pl/104/288], § 8, Oct. 11, 1996, [110 Stat. 3407][/us/stat/110/3407]; [Pub. L. 106–158][/us/pl/106/158], § 7, Dec. 9, 1999, [113 Stat. 1747][/us/stat/113/1747].)
 
  __References in Text__ 
 
@@ -491,14 +491,14 @@ By the authority vested in me as President by the Constitution and the laws of t
 ----------
 
 [/us/usc/t15/s4721/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4721%2Fi
-[/us/pl/100/418/s2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2312
-[/us/pl/102/429/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs201
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
+[/us/pl/102/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2FtII
 [/us/stat/106/2199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2199
-[/us/pl/104/66/s1022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1022%2Fa
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F713
-[/us/pl/104/288/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F288%2Fs8
+[/us/pl/104/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F288
 [/us/stat/110/3407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3407
-[/us/pl/106/158/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158%2Fs7
+[/us/pl/106/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158
 [/us/stat/113/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1747
 [/us/usc/t22/s5823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5823
 [/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511

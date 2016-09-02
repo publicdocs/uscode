@@ -17,7 +17,7 @@
 
     Nothing contained in this chapter shall be construed to affect in any manner the application to the business of insurance of the Act of July 5, 1935, as amended, known as the National Labor Relations Act \[[29 U.S.C. 151][/us/usc/t29/s151] et seq.\], or the Act of June 25, 1938, as amended, known as the Fair Labor Standards Act of 1938 \[[29 U.S.C. 201][/us/usc/t29/s201] et seq.\], or the Act of June 5, 1920, known as the Merchant Marine Act, 1920.
 
-([Mar. 9, 1945, ch. 20, § 4][/us/act/1945-03-09/ch20/s4], [59 Stat. 34][/us/stat/59/34].)
+([Mar. 9, 1945, ch. 20][/us/act/1945-03-09/ch20], § 4, [59 Stat. 34][/us/stat/59/34].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t29/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs151
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
-[/us/act/1945-03-09/ch20/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-03-09%2Fch20%2Fs4
+[/us/act/1945-03-09/ch20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-03-09%2Fch20
 [/us/stat/59/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F34
 [/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F449

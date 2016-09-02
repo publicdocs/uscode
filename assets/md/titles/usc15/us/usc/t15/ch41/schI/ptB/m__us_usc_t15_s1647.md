@@ -87,7 +87,7 @@
 
             For purposes of determining when a nonrefundable fee may be imposed in accordance with this subsection if the disclosures and pamphlet referred to in paragraph (1) are mailed to the consumer, the date of the receipt of the disclosures by such consumer shall be deemed to be 3 business days after the date of mailing by the creditor.
 
-([Pub. L. 90–321, title I, § 137][/us/pl/90/321/s137], as added [Pub. L. 100–709, § 3][/us/pl/100/709/s3], Nov. 23, 1988, [102 Stat. 4731][/us/stat/102/4731]; amended [Pub. L. 103–325, title I, § 154(c)][/us/pl/103/325/s154/c], Sept. 23, 1994, [108 Stat. 2197][/us/stat/108/2197]; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 137, as added [Pub. L. 100–709][/us/pl/100/709], § 3, Nov. 23, 1988, [102 Stat. 4731][/us/stat/102/4731]; amended [Pub. L. 103–325, title I][/us/pl/103/325/tI], § 154(c), Sept. 23, 1994, [108 Stat. 2197][/us/stat/108/2197]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 
  __Amendments__ 
 
@@ -118,12 +118,12 @@
 [/us/usc/t15/s1637a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637a%2Fa
 [/us/usc/t15/s1637a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637a%2Fa
 [/us/usc/t15/s1637a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637a%2Fe
-[/us/pl/90/321/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs137
-[/us/pl/100/709/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F709%2Fs3
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/100/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F709
 [/us/stat/102/4731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4731
-[/us/pl/103/325/s154/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs154%2Fc
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2197
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325

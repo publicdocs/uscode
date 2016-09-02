@@ -77,7 +77,7 @@
 
             (D) any other benefit.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[44\], as added [Pub. L. 111–240, title I, § 1313(a)(2)][/us/pl/111/240/s1313/a/2], Sept. 27, 2010, [124 Stat. 2538][/us/stat/124/2538]; amended [Pub. L. 112–239, div. A, title XVI, § 1671(a)][/us/pl/112/239/s1671/a], (b), (c)(2), Jan. 2, 2013, [126 Stat. 2084][/us/stat/126/2084], 2085; [Pub. L. 113–291, div. A, title VIII, § 822(b)][/us/pl/113/291/s822/b], Dec. 19, 2014, [128 Stat. 3436][/us/stat/128/3436]; [Pub. L. 114–92, div. A, title VIII, § 863(b)][/us/pl/114/92/s863/b], (c), Nov. 25, 2015, [129 Stat. 926][/us/stat/129/926], 927.)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[44\], as added [Pub. L. 111–240, title I][/us/pl/111/240/tI], § 1313(a)(2), Sept. 27, 2010, [124 Stat. 2538][/us/stat/124/2538]; amended [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1671(a), (b), (c)(2), Jan. 2, 2013, [126 Stat. 2084][/us/stat/126/2084], 2085; [Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 822(b), Dec. 19, 2014, [128 Stat. 3436][/us/stat/128/3436]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 863(b), (c), Nov. 25, 2015, [129 Stat. 926][/us/stat/129/926], 927.)
 
  __Prior Provisions__ 
 
@@ -85,19 +85,19 @@
 
  __Amendments__ 
 
-    2015—Subsec. (c)(1). [Pub. L. 114–92, § 863(c)][/us/pl/114/92/s863/c], substituted “The head” for “Subject to paragraph (4), the head” in introductory provisions.
+    2015—Subsec. (c)(1). [Pub. L. 114–92][/us/pl/114/92], § 863(c), substituted “The head” for “Subject to paragraph (4), the head” in introductory provisions.
 
-    Subsec. (c)(2)(C). [Pub. L. 114–92, § 863(b)][/us/pl/114/92/s863/b], added subpar. (C).
+    Subsec. (c)(2)(C). [Pub. L. 114–92][/us/pl/114/92], § 863(b), added subpar. (C).
 
-    2014—Subsec. (a)(1). [Pub. L. 113–291, § 822(b)(1)][/us/pl/113/291/s822/b/1], inserted “appointed or” before “designated” and substituted “[section 1702(a) of title 41][/us/usc/t41/s1702/a]” for “section 16(a) of the Office of Federal Procurement Policy Act ([41 U.S.C. 414(a)][/us/usc/t41/s414/a])”.
+    2014—Subsec. (a)(1). [Pub. L. 113–291][/us/pl/113/291], § 822(b)(1), inserted “appointed or” before “designated” and substituted “[section 1702(a) of title 41][/us/usc/t41/s1702/a]” for “section 16(a) of the Office of Federal Procurement Policy Act ([41 U.S.C. 414(a)][/us/usc/t41/s414/a])”.
 
-    Subsec. (a)(3). [Pub. L. 113–291, § 822(b)(2)][/us/pl/113/291/s822/b/2], substituted “[section 1702(c) of title 41][/us/usc/t41/s1702/c]” for “section 16(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 414(c)][/us/usc/t41/s414/c])”.
+    Subsec. (a)(3). [Pub. L. 113–291][/us/pl/113/291], § 822(b)(2), substituted “[section 1702(c) of title 41][/us/usc/t41/s1702/c]” for “section 16(c) of the Office of Federal Procurement Policy Act ([41 U.S.C. 414(c)][/us/usc/t41/s414/c])”.
 
-    2013—Subsec. (a)(2). [Pub. L. 112–239, § 1671(a)][/us/pl/112/239/s1671/a], substituted “or a multiple award contract—” and subpars. (A) and (B) for “or a multiple award contract to satisfy 2 or more requirements of the Federal agency for goods or services that have been provided to or performed for the Federal agency under 2 or more separate contracts lower in cost than the total cost of the contract for which the offers are solicited; and”.
+    2013—Subsec. (a)(2). [Pub. L. 112–239][/us/pl/112/239], § 1671(a), substituted “or a multiple award contract—” and subpars. (A) and (B) for “or a multiple award contract to satisfy 2 or more requirements of the Federal agency for goods or services that have been provided to or performed for the Federal agency under 2 or more separate contracts lower in cost than the total cost of the contract for which the offers are solicited; and”.
 
-    Subsec. (c)(1)(E). [Pub. L. 112–239, § 1671(b)][/us/pl/112/239/s1671/b], substituted “ensures” for “certifies to the head of the Federal agency”.
+    Subsec. (c)(1)(E). [Pub. L. 112–239][/us/pl/112/239], § 1671(b), substituted “ensures” for “certifies to the head of the Federal agency”.
 
-    Subsec. (c)(4). [Pub. L. 112–239, § 1671(c)(2)][/us/pl/112/239/s1671/c/2], struck out par. (4). Prior to amendment, text read as follows:
+    Subsec. (c)(4). [Pub. L. 112–239][/us/pl/112/239], § 1671(c)(2), struck out par. (4). Prior to amendment, text read as follows:
 
     “(A) In general.—The Department of Defense and each military department shall comply with this section until after the date described in subparagraph (C).
 
@@ -114,28 +114,28 @@
 
 [/us/usc/t41/s1702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1702%2Fa
 [/us/usc/t41/s1702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1702%2Fc
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
-[/us/pl/111/240/s1313/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1313%2Fa%2F2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2538
-[/us/pl/112/239/s1671/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1671%2Fa
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2084
-[/us/pl/113/291/s822/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs822%2Fb
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3436
-[/us/pl/114/92/s863/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs863%2Fb
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F926
 [/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/114/92/s863/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs863%2Fc
-[/us/pl/114/92/s863/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs863%2Fb
-[/us/pl/113/291/s822/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs822%2Fb%2F1
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t41/s1702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1702%2Fa
 [/us/usc/t41/s414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs414%2Fa
-[/us/pl/113/291/s822/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs822%2Fb%2F2
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t41/s1702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1702%2Fc
 [/us/usc/t41/s414/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs414%2Fc
-[/us/pl/112/239/s1671/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1671%2Fa
-[/us/pl/112/239/s1671/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1671%2Fb
-[/us/pl/112/239/s1671/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1671%2Fc%2F2
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t10/s2382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2382
 [/us/usc/t15/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644
 

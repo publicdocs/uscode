@@ -83,7 +83,7 @@
 
         In developing the Plan, the Committee shall consult with academic, State, industry, and environmental groups and representatives. Not later than 90 days before the Chairman of the Council submits the Plan, or any revision thereof, to the Congress, a summary of the proposed Plan shall be published in the Federal Register for a public comment period of not less than 60 days.
 
-([Pub. L. 101–606, title I, § 104][/us/pl/101/606/s104], Nov. 16, 1990, [104 Stat. 3099][/us/stat/104/3099].)
+([Pub. L. 101–606, title I][/us/pl/101/606/tI], § 104, Nov. 16, 1990, [104 Stat. 3099][/us/stat/104/3099].)
 
 ----------
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/101/606/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2Fs104
+[/us/pl/101/606/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2FtI
 [/us/stat/104/3099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3099
 
 

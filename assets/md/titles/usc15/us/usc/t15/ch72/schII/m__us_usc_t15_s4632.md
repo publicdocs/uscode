@@ -99,7 +99,7 @@
 
         There are authorized to be appropriated to carry out the purposes of this section such sums as may be necessary for the fiscal years 1988, 1989, 1990, 1991, 1992, and 1993.
 
-([Pub. L. 100–418, title V, § 5142][/us/pl/100/418/s5142], Aug. 23, 1988, [102 Stat. 1444][/us/stat/102/1444]; [Pub. L. 102–245, title I, § 105(f)][/us/pl/102/245/s105/f], Feb. 14, 1992, [106 Stat. 12][/us/stat/106/12].)
+([Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5142, Aug. 23, 1988, [102 Stat. 1444][/us/stat/102/1444]; [Pub. L. 102–245, title I][/us/pl/102/245/tI], § 105(f), Feb. 14, 1992, [106 Stat. 12][/us/stat/106/12].)
 
  __Codification__ 
 
@@ -124,9 +124,9 @@
 ----------
 ----------
 
-[/us/pl/100/418/s5142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5142
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1444
-[/us/pl/102/245/s105/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs105%2Ff
+[/us/pl/102/245/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtI
 [/us/stat/106/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F12
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/102/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245

@@ -29,7 +29,7 @@
 
             For purposes of this subsection, the term “major reorganization” means any reorganization of the Institute that involves the reassignment of more than 25 percent of the employees of the Institute.
 
-([Mar. 3, 1901, ch. 872, § 31][/us/act/1901-03-03/ch872/s31], as added [Pub. L. 105–309, § 4(b)][/us/pl/105/309/s4/b], Oct. 30, 1998, [112 Stat. 2935][/us/stat/112/2935].)
+([Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 31, as added [Pub. L. 105–309][/us/pl/105/309], § 4(b), Oct. 30, 1998, [112 Stat. 2935][/us/stat/112/2935].)
 
  __Change of Name__ 
 
@@ -42,8 +42,8 @@
 ----------
 ----------
 
-[/us/act/1901-03-03/ch872/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs31
-[/us/pl/105/309/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F309%2Fs4%2Fb
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
+[/us/pl/105/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F309
 [/us/stat/112/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2935
 
 

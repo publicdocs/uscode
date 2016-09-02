@@ -65,41 +65,41 @@
 
         The Commission, upon application made by any registered investment company, may by order exempt a specific transaction or transactions from the provisions of any rule or regulation made pursuant to subsection (e), if the Commission finds that such rule or regulation should not reasonably be applied to such transaction.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 31, [54 Stat. 838][/us/stat/54/838]; [Pub. L. 104–290, title II, § 207][/us/pl/104/290/s207], Oct. 11, 1996, [110 Stat. 3430][/us/stat/110/3430]; [Pub. L. 105–353, title III, § 301(c)(6)][/us/pl/105/353/s301/c/6], Nov. 3, 1998, [112 Stat. 3237][/us/stat/112/3237]; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 929I(b), 929Q(a), July 21, 2010, [124 Stat. 1858][/us/stat/124/1858], 1865; [Pub. L. 111–257, § 1(b)][/us/pl/111/257/s1/b], Oct. 5, 2010, [124 Stat. 2646][/us/stat/124/2646].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 31, [54 Stat. 838][/us/stat/54/838]; [Pub. L. 104–290, title II][/us/pl/104/290/tII], § 207, Oct. 11, 1996, [110 Stat. 3430][/us/stat/110/3430]; [Pub. L. 105–353, title III][/us/pl/105/353/tIII], § 301(c)(6), Nov. 3, 1998, [112 Stat. 3237][/us/stat/112/3237]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], §§ 929I(b), 929Q(a), July 21, 2010, [124 Stat. 1858][/us/stat/124/1858], 1865; [Pub. L. 111–257][/us/pl/111/257], § 1(b), Oct. 5, 2010, [124 Stat. 2646][/us/stat/124/2646].)
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–203, § 929Q(a)(1)][/us/pl/111/203/s929Q/a/1], inserted at end “Each person having custody or use of the securities, deposits, or credits of a registered investment company shall maintain and preserve all records that relate to the custody or use by such person of the securities, deposits, or credits of the registered investment company for such period or periods as the Commission, by rule or regulation, may prescribe, as necessary or appropriate in the public interest or for the protection of investors.”
+    2010—Subsec. (a)(1). [Pub. L. 111–203][/us/pl/111/203], § 929Q(a)(1), inserted at end “Each person having custody or use of the securities, deposits, or credits of a registered investment company shall maintain and preserve all records that relate to the custody or use by such person of the securities, deposits, or credits of the registered investment company for such period or periods as the Commission, by rule or regulation, may prescribe, as necessary or appropriate in the public interest or for the protection of investors.”
 
-    Subsec. (b)(4). [Pub. L. 111–203, § 929Q(a)(2)][/us/pl/111/203/s929Q/a/2], added par. (4).
+    Subsec. (b)(4). [Pub. L. 111–203][/us/pl/111/203], § 929Q(a)(2), added par. (4).
 
     Subsec. (c). [Pub. L. 111–257][/us/pl/111/257] redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any records or information provided to the Commission under this section, or records or information based upon or derived from such records or information, if such records or information have been obtained by the Commission for use in furtherance of the purposes of this subchapter, including surveillance, risk assessments, or other regulatory and oversight activities. Nothing in this subsection authorizes the Commission to withhold information from the Congress or prevent the Commission from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of jurisdiction of that department or agency, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of [section 552 of title 5][/us/usc/t5/s552], this section shall be considered a statute described in subsection (b)(3)(B) of such section 552. Collection of information pursuant to this section shall be an administrative action involving an agency against specific individuals or agencies pursuant to [section 3518(c)(1) of title 44][/us/usc/t44/s3518/c/1].”
 
-    [Pub. L. 111–203, § 929I(b)(1)][/us/pl/111/203/s929I/b/1], added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any internal compliance or audit records, or information contained therein, provided to the Commission under this section. Nothing in this subsection shall authorize the Commission to withhold information from the Congress or prevent the Commission from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of the jurisdiction of that department or agency, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of [section 552 of title 5][/us/usc/t5/s552], this section shall be considered a statute described in subsection (b)(3)(B) of such section 552.”
+    [Pub. L. 111–203][/us/pl/111/203], § 929I(b)(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Notwithstanding any other provision of law, the Commission shall not be compelled to disclose any internal compliance or audit records, or information contained therein, provided to the Commission under this section. Nothing in this subsection shall authorize the Commission to withhold information from the Congress or prevent the Commission from complying with a request for information from any other Federal department or agency requesting the information for purposes within the scope of the jurisdiction of that department or agency, or complying with an order of a court of the United States in an action brought by the United States or the Commission. For purposes of [section 552 of title 5][/us/usc/t5/s552], this section shall be considered a statute described in subsection (b)(3)(B) of such section 552.”
 
-    Subsec. (d). [Pub. L. 111–257, § 1(b)(2)][/us/pl/111/257/s1/b/2], redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 111–257][/us/pl/111/257], § 1(b)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-    [Pub. L. 111–203, § 929I(b)(2)][/us/pl/111/203/s929I/b/2], (3), redesignated subsec. (e) as (d) and struck out former subsec. (d) which defined “internal compliance policies and procedures” and “internal compliance and audit record” for purposes of this section.
+    [Pub. L. 111–203][/us/pl/111/203], § 929I(b)(2), (3), redesignated subsec. (e) as (d) and struck out former subsec. (d) which defined “internal compliance policies and procedures” and “internal compliance and audit record” for purposes of this section.
 
-    Subsec. (e). [Pub. L. 111–257, § 1(b)(2)][/us/pl/111/257/s1/b/2], redesignated subsec. (e) as (d).
+    Subsec. (e). [Pub. L. 111–257][/us/pl/111/257], § 1(b)(2), redesignated subsec. (e) as (d).
 
-    [Pub. L. 111–203, § 929I(b)(3)][/us/pl/111/203/s929I/b/3], redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+    [Pub. L. 111–203][/us/pl/111/203], § 929I(b)(3), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-    Subsec. (f). [Pub. L. 111–203, § 929I(b)(3)][/us/pl/111/203/s929I/b/3], redesignated subsec. (f) as (e).
+    Subsec. (f). [Pub. L. 111–203][/us/pl/111/203], § 929I(b)(3), redesignated subsec. (f) as (e).
 
     1998—Subsec. (f). [Pub. L. 105–353][/us/pl/105/353] substituted “subsection (e)” for “subsection (c)”.
 
-    1996—Subsecs. (a), (b). [Pub. L. 104–290, § 207(1)][/us/pl/104/290/s207/1], added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
+    1996—Subsecs. (a), (b). [Pub. L. 104–290][/us/pl/104/290], § 207(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
     “(a) Every registered investment company, and every underwriter, broker, dealer, or investment adviser which is a majority-owned subsidiary of such a company, shall maintain and preserve for such period or periods as the Commission may prescribe by rules and regulations, such accounts, books, and other documents as constitute the record forming the basis for financial statements required to be filed pursuant to [section 80a–29 of this title][/us/usc/t15/s80a–29], and of the auditor’s certificates relating thereto. Every investment adviser not a majority-owned subsidiary of, and every depositor of any registered investment company, and every principal underwriter for any registered investment company other than a closed-end company, shall maintain and preserve for such period or periods as the Commission shall prescribe by rules and regulations, such accounts, books, and other documents as are necessary or appropriate to record such person’s transactions with such registered company.
 
     “(b) All accounts, books, and other records, required to be maintained and preserved by any person pursuant to subsection (a) of this section, shall be subject at any time and from time to time to such reasonable periodic, special, and other examinations by the Commission, or any member or representative thereof, as the Commission may prescribe. Any such person shall furnish to the Commission, within such reasonable time as the Commission may prescribe, copies of or extracts from such rec­ords which may be prepared without undue effort, expense, or delay, as the Commission may by order require.”
 
-    Subsecs. (c), (d). [Pub. L. 104–290, § 207(3)][/us/pl/104/290/s207/3], added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
+    Subsecs. (c), (d). [Pub. L. 104–290][/us/pl/104/290], § 207(3), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
 
-    Subsec. (e). [Pub. L. 104–290, § 207(2)][/us/pl/104/290/s207/2], (4), redesignated subsec. (c) as (e) and inserted heading.
+    Subsec. (e). [Pub. L. 104–290][/us/pl/104/290], § 207(2), (4), redesignated subsec. (c) as (e) and inserted heading.
 
-    Subsec. (f). [Pub. L. 104–290, § 207(2)][/us/pl/104/290/s207/2], (5), redesignated subsec. (d) as (f) and inserted heading.
+    Subsec. (f). [Pub. L. 104–290][/us/pl/104/290], § 207(2), (5), redesignated subsec. (d) as (f) and inserted heading.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -120,32 +120,32 @@
 [/us/usc/t18/s212/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs212%2Fc%2F2
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F838
-[/us/pl/104/290/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs207
+[/us/pl/104/290/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtII
 [/us/stat/110/3430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3430
-[/us/pl/105/353/s301/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fc%2F6
+[/us/pl/105/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtIII
 [/us/stat/112/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3237
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1858
-[/us/pl/111/257/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F257%2Fs1%2Fb
+[/us/pl/111/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F257
 [/us/stat/124/2646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2646
-[/us/pl/111/203/s929Q/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929Q%2Fa%2F1
-[/us/pl/111/203/s929Q/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929Q%2Fa%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F257
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t44/s3518/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3518%2Fc%2F1
-[/us/pl/111/203/s929I/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929I%2Fb%2F1
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/111/257/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F257%2Fs1%2Fb%2F2
-[/us/pl/111/203/s929I/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929I%2Fb%2F2
-[/us/pl/111/257/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F257%2Fs1%2Fb%2F2
-[/us/pl/111/203/s929I/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929I%2Fb%2F3
-[/us/pl/111/203/s929I/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929I%2Fb%2F3
+[/us/pl/111/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F257
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F257
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
-[/us/pl/104/290/s207/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs207%2F1
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
 [/us/usc/t15/s80a–29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9329
-[/us/pl/104/290/s207/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs207%2F3
-[/us/pl/104/290/s207/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs207%2F2
-[/us/pl/104/290/s207/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs207%2F2
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

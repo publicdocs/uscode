@@ -27,7 +27,7 @@
 
     (2) antedates the report by 7 years or less.
 
-([Pub. L. 90–321, title VI, § 622][/us/pl/90/321/s622], as added [Pub. L. 102–537, § 2(a)][/us/pl/102/537/s2/a], Oct. 27, 1992, [106 Stat. 3531][/us/stat/106/3531].)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 622, as added [Pub. L. 102–537][/us/pl/102/537], § 2(a), Oct. 27, 1992, [106 Stat. 3531][/us/stat/106/3531].)
 
  __Prior Provisions__ 
 
@@ -45,8 +45,8 @@
 ----------
 
 [/us/usc/t15/s1681b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681b
-[/us/pl/90/321/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs622
-[/us/pl/102/537/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F537%2Fs2%2Fa
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/102/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F537
 [/us/stat/106/3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3531
 [/us/pl/90/321/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs622
 [/us/usc/t15/s1681t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681t

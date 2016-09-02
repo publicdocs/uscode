@@ -101,7 +101,7 @@
 
         In any cease-and-desist proceeding under subsection (a), the Commission may issue an order to prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who has violated [section 78j(b) of this title][/us/usc/t15/s78j/b] or the rules or regulations thereunder, from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78l of this title, or that is required to file reports pursuant to section 78o(d) of this title, if the conduct of that person demonstrates unfitness to serve as an officer or director of any such issuer.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 21C, as added [Pub. L. 101–429, title II, § 203][/us/pl/101/429/s203], Oct. 15, 1990, [104 Stat. 939][/us/stat/104/939]; amended [Pub. L. 107–204, § 3(b)(3)][/us/pl/107/204/s3/b/3], title XI, §§ 1103, 1105(a), July 30, 2002, [116 Stat. 749][/us/stat/116/749], 807, 809; [Pub. L. 111–203, title IX, § 985(b)(8)][/us/pl/111/203/s985/b/8], July 21, 2010, [124 Stat. 1934][/us/stat/124/1934].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 21C, as added [Pub. L. 101–429, title II][/us/pl/101/429/tII], § 203, Oct. 15, 1990, [104 Stat. 939][/us/stat/104/939]; amended [Pub. L. 107–204][/us/pl/107/204], § 3(b)(3), title XI, §§ 1103, 1105(a), July 30, 2002, [116 Stat. 749][/us/stat/116/749], 807, 809; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 985(b)(8), July 21, 2010, [124 Stat. 1934][/us/stat/124/1934].)
 
  __References in Text__ 
 
@@ -113,13 +113,13 @@
 
     2010—Subsec. (c)(2). [Pub. L. 111–203][/us/pl/111/203] substituted “Paragraph (1)” for “paragraph (1) subsection”.
 
-    2002—Subsec. (c)(2). [Pub. L. 107–204, § 1103(b)][/us/pl/107/204/s1103/b], substituted “paragraph (1)” for “This”.
+    2002—Subsec. (c)(2). [Pub. L. 107–204][/us/pl/107/204], § 1103(b), substituted “paragraph (1)” for “This”.
 
-    [Pub. L. 107–204, § 3(b)(3)][/us/pl/107/204/s3/b/3], inserted “registered public accounting firm (as defined in [section 7201 of this title][/us/usc/t15/s7201]),” after “government securities dealer,”.
+    [Pub. L. 107–204][/us/pl/107/204], § 3(b)(3), inserted “registered public accounting firm (as defined in [section 7201 of this title][/us/usc/t15/s7201]),” after “government securities dealer,”.
 
-    Subsec. (c)(3). [Pub. L. 107–204, § 1103(a)][/us/pl/107/204/s1103/a], added par. (3).
+    Subsec. (c)(3). [Pub. L. 107–204][/us/pl/107/204], § 1103(a), added par. (3).
 
-    Subsec. (f). [Pub. L. 107–204, § 1105(a)][/us/pl/107/204/s1105/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 107–204][/us/pl/107/204], § 1105(a), added subsec. (f).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -140,11 +140,11 @@
 [/us/usc/t15/s78y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78y
 [/us/usc/t15/s78j/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78j%2Fb
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/101/429/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2Fs203
+[/us/pl/101/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2FtII
 [/us/stat/104/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F939
-[/us/pl/107/204/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs3%2Fb%2F3
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/stat/116/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F749
-[/us/pl/111/203/s985/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs985%2Fb%2F8
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1934
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/usc/t15/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7201
@@ -152,11 +152,11 @@
 [/us/usc/t15/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7201
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/107/204/s1103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs1103%2Fb
-[/us/pl/107/204/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs3%2Fb%2F3
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/usc/t15/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7201
-[/us/pl/107/204/s1103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs1103%2Fa
-[/us/pl/107/204/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs1105%2Fa
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

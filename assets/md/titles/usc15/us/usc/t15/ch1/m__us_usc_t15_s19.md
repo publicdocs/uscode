@@ -47,7 +47,7 @@
 
     (b) When any person elected or chosen as a director or officer of any corporation subject to the provisions hereof is eligible at the time of his election or selection to act for such corporation in such capacity, his eligibility to act in such capacity shall not be affected by any of the provisions hereof by reason of any change in the capital, surplus and undivided profits, or affairs of such corporation from whatever cause, until the expiration of one year from the date on which the event causing ineligibility occurred.
 
-([Oct. 15, 1914, ch. 323, § 8][/us/act/1914-10-15/ch323/s8], [38 Stat. 732][/us/stat/38/732]; [May 15, 1916, ch. 120][/us/act/1916-05-15/ch120], [39 Stat. 121][/us/stat/39/121]; [May 26, 1920, ch. 206][/us/act/1920-05-26/ch206], [41 Stat. 626][/us/stat/41/626]; [Mar. 9, 1928, ch. 165][/us/act/1928-03-09/ch165], [45 Stat. 253][/us/stat/45/253]; [Mar. 2, 1929, ch. 581][/us/act/1929-03-02/ch581], [45 Stat. 1536][/us/stat/45/1536]; [Aug. 23, 1935, ch. 614, § 329][/us/act/1935-08-23/ch614/s329], [49 Stat. 717][/us/stat/49/717]; [Pub. L. 101–588, § 2][/us/pl/101/588/s2], Nov. 16, 1990, [104 Stat. 2879][/us/stat/104/2879]; [Pub. L. 103–203, § 1][/us/pl/103/203/s1], Dec. 17, 1993, [107 Stat. 2368][/us/stat/107/2368].)
+([Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], § 8, [38 Stat. 732][/us/stat/38/732]; [May 15, 1916, ch. 120][/us/act/1916-05-15/ch120], [39 Stat. 121][/us/stat/39/121]; [May 26, 1920, ch. 206][/us/act/1920-05-26/ch206], [41 Stat. 626][/us/stat/41/626]; [Mar. 9, 1928, ch. 165][/us/act/1928-03-09/ch165], [45 Stat. 253][/us/stat/45/253]; [Mar. 2, 1929, ch. 581][/us/act/1929-03-02/ch581], [45 Stat. 1536][/us/stat/45/1536]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], § 329, [49 Stat. 717][/us/stat/49/717]; [Pub. L. 101–588][/us/pl/101/588], § 2, Nov. 16, 1990, [104 Stat. 2879][/us/stat/104/2879]; [Pub. L. 103–203][/us/pl/103/203], § 1, Dec. 17, 1993, [107 Stat. 2368][/us/stat/107/2368].)
 
  __References in Text__ 
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/act/1914-10-15/ch323/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323%2Fs8
+[/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
 [/us/stat/38/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F732
 [/us/act/1916-05-15/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-05-15%2Fch120
 [/us/stat/39/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F121
@@ -82,11 +82,11 @@
 [/us/stat/45/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F253
 [/us/act/1929-03-02/ch581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch581
 [/us/stat/45/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1536
-[/us/act/1935-08-23/ch614/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614%2Fs329
+[/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F717
-[/us/pl/101/588/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F588%2Fs2
+[/us/pl/101/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F588
 [/us/stat/104/2879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2879
-[/us/pl/103/203/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F203%2Fs1
+[/us/pl/103/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F203
 [/us/stat/107/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2368
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/pl/103/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F203

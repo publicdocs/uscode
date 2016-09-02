@@ -21,7 +21,7 @@
 
     (b) arrange for appropriate use of methane-fueled vehicles at the earliest practicable date.
 
-([Pub. L. 96–512, § 8][/us/pl/96/512/s8], Dec. 12, 1980, [94 Stat. 2832][/us/stat/94/2832].)
+([Pub. L. 96–512][/us/pl/96/512], § 8, Dec. 12, 1980, [94 Stat. 2832][/us/stat/94/2832].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t15/s3806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3806
-[/us/pl/96/512/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F512%2Fs8
+[/us/pl/96/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F512
 [/us/stat/94/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2832
 
 

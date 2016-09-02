@@ -31,11 +31,11 @@
 
     (7) by combining the resources of the Federal Government, universities, industry, and private organizations, to conduct research and development activities, substantial technological benefits will result to the metal casting industry.
 
-([Pub. L. 101–425, § 2][/us/pl/101/425/s2], Oct. 15, 1990, [104 Stat. 915][/us/stat/104/915].)
+([Pub. L. 101–425][/us/pl/101/425], § 2, Oct. 15, 1990, [104 Stat. 915][/us/stat/104/915].)
 
  __Short Title__ 
 
-[Pub. L. 101–425, § 1][/us/pl/101/425/s1], Oct. 15, 1990, [104 Stat. 915][/us/stat/104/915], provided that: 
+[Pub. L. 101–425][/us/pl/101/425], § 1, Oct. 15, 1990, [104 Stat. 915][/us/stat/104/915], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Department of Energy Metal Casting Competitiveness Research Act of 1990’.”
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/101/425/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F425%2Fs2
+[/us/pl/101/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F425
 [/us/stat/104/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F915
-[/us/pl/101/425/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F425%2Fs1
+[/us/pl/101/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F425
 [/us/stat/104/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F915
 
 

@@ -33,7 +33,7 @@
 
         (2) is for services which are personal in nature.
 
-([Pub. L. 95–507, title II, § 223][/us/pl/95/507/s223], Oct. 24, 1978, [92 Stat. 1772][/us/stat/92/1772].)
+([Pub. L. 95–507, title II][/us/pl/95/507/tII], § 223, Oct. 24, 1978, [92 Stat. 1772][/us/stat/92/1772].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/95/507/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507%2Fs223
+[/us/pl/95/507/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507%2FtII
 [/us/stat/92/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1772
 
 

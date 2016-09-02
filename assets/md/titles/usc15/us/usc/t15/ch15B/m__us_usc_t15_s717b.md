@@ -95,7 +95,7 @@
 
         (3) The Commission shall obtain the concurrence of the Secretary of Defense before authorizing the siting, construction, expansion, or operation of liquefied natural gas facilities affecting the training or activities of an active military installation.
 
-([June 21, 1938, ch. 556, § 3][/us/act/1938-06-21/ch556/s3], [52 Stat. 822][/us/stat/52/822]; [Pub. L. 102–486, title II, § 201][/us/pl/102/486/s201], Oct. 24, 1992, [106 Stat. 2866][/us/stat/106/2866]; [Pub. L. 109–58, title III, § 311(c)][/us/pl/109/58/s311/c], Aug. 8, 2005, [119 Stat. 685][/us/stat/119/685].)
+([June 21, 1938, ch. 556][/us/act/1938-06-21/ch556], § 3, [52 Stat. 822][/us/stat/52/822]; [Pub. L. 102–486, title II][/us/pl/102/486/tII], § 201, Oct. 24, 1992, [106 Stat. 2866][/us/stat/106/2866]; [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 311(c), Aug. 8, 2005, [119 Stat. 685][/us/stat/119/685].)
 
  __References in Text__ 
 
@@ -103,13 +103,13 @@
 
     The Clean Air Act, referred to in subsec. (d)(2), is [act July 14, 1955, ch. 360][/us/act/1955-07-14/ch360], [69 Stat. 322][/us/stat/69/322], as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42][/us/usc/t42/s7401] and Tables.
 
-    The Federal Water Pollution Control Act, referred to in subsec. (d)(3), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500, § 2][/us/pl/92/500/s2], Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
+    The Federal Water Pollution Control Act, referred to in subsec. (d)(3), is [act June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], as amended generally by [Pub. L. 92–500][/us/pl/92/500], § 2, Oct. 18, 1972, [86 Stat. 816][/us/stat/86/816], which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33][/us/usc/t33/s1251] and Tables.
 
  __Amendments__ 
 
-    2005—[Pub. L. 109–58, § 311(c)(1)][/us/pl/109/58/s311/c/1], inserted “; LNG terminals” after “natural gas” in section catchline.
+    2005—[Pub. L. 109–58][/us/pl/109/58], § 311(c)(1), inserted “; LNG terminals” after “natural gas” in section catchline.
 
-    Subsecs. (d) to (f). [Pub. L. 109–58, § 311(c)(2)][/us/pl/109/58/s311/c/2], added subsecs. (d) to (f).
+    Subsecs. (d) to (f). [Pub. L. 109–58][/us/pl/109/58], § 311(c)(2), added subsecs. (d) to (f).
 
     1992—[Pub. L. 102–486][/us/pl/102/486] designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
@@ -155,11 +155,11 @@
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
 [/us/usc/t15/s717b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717b%E2%80%931
-[/us/act/1938-06-21/ch556/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556%2Fs3
+[/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F822
-[/us/pl/102/486/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs201
+[/us/pl/102/486/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtII
 [/us/stat/106/2866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2866
-[/us/pl/109/58/s311/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs311%2Fc
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F685
 [/us/pl/89/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454
 [/us/pl/92/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F583
@@ -169,11 +169,11 @@
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
 [/us/act/1948-06-30/ch758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-30%2Fch758
-[/us/pl/92/500/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs2
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F816
 [/us/usc/t33/s1251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1251
-[/us/pl/109/58/s311/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs311%2Fc%2F1
-[/us/pl/109/58/s311/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs311%2Fc%2F2
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e

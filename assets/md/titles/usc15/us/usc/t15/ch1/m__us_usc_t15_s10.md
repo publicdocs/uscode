@@ -17,7 +17,7 @@
 
     Whenever it shall appear to the court before which any proceeding under [section 9 of this title][/us/usc/t15/s9] may be pending, that the ends of justice require that other parties should be brought before the court, the court may cause them to be summoned, whether they reside in the district in which the court is held or not; and subpoenas to that end may be served in any district by the marshal thereof.
 
-([Aug. 27, 1894, ch. 349, § 75][/us/act/1894-08-27/ch349/s75], [28 Stat. 570][/us/stat/28/570].)
+([Aug. 27, 1894, ch. 349][/us/act/1894-08-27/ch349], § 75, [28 Stat. 570][/us/stat/28/570].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t15/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs9
-[/us/act/1894-08-27/ch349/s75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-27%2Fch349%2Fs75
+[/us/act/1894-08-27/ch349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-27%2Fch349
 [/us/stat/28/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F570
 
 

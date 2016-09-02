@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch35/m__us_usc_t15_ch35.md) | [Next](./../../../..//us/usc/t15/ch36/m__us_usc_t15_s1331.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch36)
+[Previous](./../../../..//us/usc/t15/ch35/m__us_usc_t15_s1321...1323.md) | [Next](./../../../..//us/usc/t15/ch36/m__us_usc_t15_s1331.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch36)
 
 ## CHAPTER 36—CIGARETTE LABELING AND ADVERTISING
 
@@ -123,7 +123,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch35/m__us_usc_t15_ch35.md) | [Next](./../../../..//us/usc/t15/ch36/m__us_usc_t15_s1331.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch36)
+[Previous](./../../../..//us/usc/t15/ch35/m__us_usc_t15_s1321...1323.md) | [Next](./../../../..//us/usc/t15/ch36/m__us_usc_t15_s1331.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch36)
 
 ----------
 ----------

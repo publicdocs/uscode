@@ -31,7 +31,7 @@
 
         Upon withdrawal of any request or finding hereunder, or upon withdrawal by the Attorney General of his approval of the voluntary agreement or program on which the request or finding is based, the provisions of this section shall not apply to any subsequent act, or omission to act, by reason of such finding or request.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[11\], July 18, 1958, [72 Stat. 394][/us/stat/72/394].)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[11\], July 18, 1958, [72 Stat. 394][/us/stat/72/394].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Prior Provisions__ 
 
-    Prior similar provisions were contained in section 217 of [act July 30, 1953, ch. 282][/us/act/1953-07-30/ch282], title II, [67 Stat. 239][/us/stat/67/239], which was previously classified to [section 646 of this title][/us/usc/t15/s646]. The provisions of section 211 of act July 30, 1953, formerly classified to this section, were transferred to section 2\[10\] of [Pub. L. 85–536][/us/pl/85/536], and are classified to section 639(d), (f) of this title. See Codification note set out under [section 631 of this title][/us/usc/t15/s631].
+    Prior similar provisions were contained in section 217 of [act July 30, 1953, ch. 282, title II][/us/act/1953-07-30/ch282/tII], [67 Stat. 239][/us/stat/67/239], which was previously classified to [section 646 of this title][/us/usc/t15/s646]. The provisions of section 211 of act July 30, 1953, formerly classified to this section, were transferred to section 2\[10\] of [Pub. L. 85–536][/us/pl/85/536], and are classified to section 639(d), (f) of this title. See Codification note set out under [section 631 of this title][/us/usc/t15/s631].
 
  __Ex. Ord. No. 10493. Delegation of Functions__ 
 
@@ -61,12 +61,12 @@ Sec. 2. There is hereby delegated to the Administrator of the Small Business Adm
 ----------
 
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F394
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
-[/us/act/1953-07-30/ch282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-30%2Fch282
+[/us/act/1953-07-30/ch282/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-30%2Fch282%2FtII
 [/us/stat/67/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F239
 [/us/usc/t15/s646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs646
 [/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536

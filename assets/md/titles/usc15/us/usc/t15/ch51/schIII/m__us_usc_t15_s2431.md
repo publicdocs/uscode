@@ -27,7 +27,7 @@
 
         Each Federal department, agency, and independent establishment of the Federal Government is authorized and directed to furnish or allow access to all relevant materials and information required by the Center to carry out its functions under this chapter.
 
-([Pub. L. 94–136, title III, § 301][/us/pl/94/136/s301], Nov. 28, 1975, [89 Stat. 740][/us/stat/89/740].)
+([Pub. L. 94–136, title III][/us/pl/94/136/tIII], § 301, Nov. 28, 1975, [89 Stat. 740][/us/stat/89/740].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/94/136/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2Fs301
+[/us/pl/94/136/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2FtIII
 [/us/stat/89/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F740
 
 

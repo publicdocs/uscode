@@ -31,7 +31,7 @@
 
         Upon completion or discontinuance of any research activity authorized in [section 5304 of this title][/us/usc/t15/s5304], the Secretary shall, using available funds appropriated pursuant to this chapter, solicit new research proposals as set forth under the terms of this chapter.
 
-([Pub. L. 101–425, § 6][/us/pl/101/425/s6], Oct. 15, 1990, [104 Stat. 918][/us/stat/104/918].)
+([Pub. L. 101–425][/us/pl/101/425], § 6, Oct. 15, 1990, [104 Stat. 918][/us/stat/104/918].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t15/s5306/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5306%2Fb%2F2
 [/us/usc/t15/s5304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5304
-[/us/pl/101/425/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F425%2Fs6
+[/us/pl/101/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F425
 [/us/stat/104/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F918
 
 

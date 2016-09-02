@@ -75,21 +75,21 @@
 
         Any creditor who fails to comply with the requirements of this section or [section 1666a of this title][/us/usc/t15/s1666a] forfeits any right to collect from the obligor the amount indicated by the obligor under paragraph (2) of subsection (a) of this section, and any finance charges thereon, except that the amount required to be forfeited under this subsection may not exceed $50.
 
-([Pub. L. 90–321, title I, § 161][/us/pl/90/321/s161], as added [Pub. L. 93–495, title III, § 306][/us/pl/93/495/s306], Oct. 28, 1974, [88 Stat. 1512][/us/stat/88/1512]; amended [Pub. L. 96–221, title VI][/us/pl/96/221] §§ 613(g), 620, Mar. 31, 1980, [94 Stat. 177][/us/stat/94/177], 184; [Pub. L. 111–203, title X][/us/pl/111/203], §§ 1087, 1100A(2), July 21, 2010, [124 Stat. 2086][/us/stat/124/2086], 2107.)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 161, as added [Pub. L. 93–495, title III][/us/pl/93/495/tIII], § 306, Oct. 28, 1974, [88 Stat. 1512][/us/stat/88/1512]; amended [Pub. L. 96–221, title VI][/us/pl/96/221/tVI] §§ 613(g), 620, Mar. 31, 1980, [94 Stat. 177][/us/stat/94/177], 184; [Pub. L. 111–203, title X][/us/pl/111/203/tX], §§ 1087, 1100A(2), July 21, 2010, [124 Stat. 2086][/us/stat/124/2086], 2107.)
 
  __Codification__ 
 
-    Pub L. 111–203, § 1100A(2), which directed the substitution of “Bureau” for “Board” wherever appearing in title I of [Pub. L. 90–321][/us/pl/90/321], was executed to this section, which is [section 161 of title I of Pub. L. 90–321][/us/pl/90/321/s161]. [Section 1087 of Pub. L. 111–203][/us/pl/111/203/s1087], which directed the making of an identical amendment in title III of [Pub. L. 93–495][/us/pl/93/495], which added this section to title I of [Pub. L. 90–321][/us/pl/90/321], has not been executed.
+    Pub L. 111–203, § 1100A(2), which directed the substitution of “Bureau” for “Board” wherever appearing in title I of [Pub. L. 90–321][/us/pl/90/321], was executed to this section, which is [section 161 of title I of Pub. L. 90–321][/us/pl/90/321/tI/s161]. [Section 1087 of Pub. L. 111–203][/us/pl/111/203/s1087], which directed the making of an identical amendment in title III of [Pub. L. 93–495][/us/pl/93/495], which added this section to title I of [Pub. L. 90–321][/us/pl/90/321], has not been executed.
 
  __Amendments__ 
 
-    2010—Subsecs. (b)(7), (d). [Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], substituted “Bureau” for “Board”. See Codification note above.
+    2010—Subsecs. (b)(7), (d). [Pub. L. 111–203][/us/pl/111/203], § 1100A(2), substituted “Bureau” for “Board”. See Codification note above.
 
-    1980—Subsec. (a). [Pub. L. 96–221, § 613(g)][/us/pl/96/221/s613/g], substituted “(b)(10)” for “(b)(11)” and “(a)(7)” for “(a)(8)”.
+    1980—Subsec. (a). [Pub. L. 96–221][/us/pl/96/221], § 613(g), substituted “(b)(10)” for “(b)(11)” and “(a)(7)” for “(a)(8)”.
 
-    Subsec. (b)(6), (7). [Pub. L. 96–221, § 620(a)][/us/pl/96/221/s620/a], added par. (6) and redesignated former par. (6) as (7).
+    Subsec. (b)(6), (7). [Pub. L. 96–221][/us/pl/96/221], § 620(a), added par. (6) and redesignated former par. (6) as (7).
 
-    Subsec. (c). [Pub. L. 96–221, § 620(b)][/us/pl/96/221/s620/b], inserted provisions respecting finance charges on amounts in dispute.
+    Subsec. (c). [Pub. L. 96–221][/us/pl/96/221], § 620(b), inserted provisions respecting finance charges on amounts in dispute.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -101,7 +101,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 93–495, title III, § 308][/us/pl/93/495/s308], Oct. 28, 1974, [88 Stat. 1517][/us/stat/88/1517], provided that: 
+[Pub. L. 93–495, title III][/us/pl/93/495/tIII], § 308, Oct. 28, 1974, [88 Stat. 1517][/us/stat/88/1517], provided that: 
 
 > “This title \[enacting this section and sections 1666a to 1666j of this title, amending sections 1601, 1602, 1610, 1631, 1632, and 1637 of this title, and enacting provision set out as a note under [section 1601 of this title][/us/usc/t15/s1601]\] takes effect upon the expiration of one year after the date of its enactment \[Oct. 28, 1974\].”
 
@@ -120,29 +120,29 @@
 [/us/usc/t15/s1637/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637%2Fa%2F7
 [/us/usc/t15/s1637/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637%2Fb
 [/us/usc/t15/s1666a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1666a
-[/us/pl/90/321/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs161
-[/us/pl/93/495/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs306
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/93/495/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtIII
 [/us/stat/88/1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1512
-[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F177
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2086
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
-[/us/pl/90/321/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs161
+[/us/pl/90/321/tI/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI%2Fs161
 [/us/pl/111/203/s1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1087
 [/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
-[/us/pl/96/221/s613/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs613%2Fg
-[/us/pl/96/221/s620/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs620%2Fa
-[/us/pl/96/221/s620/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs620%2Fb
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/96/221/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs625
 [/us/usc/t15/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602
-[/us/pl/93/495/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs308
+[/us/pl/93/495/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtIII
 [/us/stat/88/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1517
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495

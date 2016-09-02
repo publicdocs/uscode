@@ -27,7 +27,7 @@
 
         The jurisdiction of the district courts of the United States pursuant to this section shall be concurrent with that of any State court of competent jurisdiction located in the host State or the off-track State.
 
-([Pub. L. 95–515, § 8][/us/pl/95/515/s8], Oct. 25, 1978, [92 Stat. 1814][/us/stat/92/1814].)
+([Pub. L. 95–515][/us/pl/95/515], § 8, Oct. 25, 1978, [92 Stat. 1814][/us/stat/92/1814].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/95/515/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F515%2Fs8
+[/us/pl/95/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F515
 [/us/stat/92/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1814
 
 

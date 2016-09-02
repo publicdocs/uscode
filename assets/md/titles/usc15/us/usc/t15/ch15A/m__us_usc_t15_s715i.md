@@ -27,7 +27,7 @@
 
         The United States District Courts shall have exclusive jurisdiction of violations of this chapter or the regulations thereunder, and of all suits in equity and actions at law brought to enforce any liability or duty created by, or to enjoin any violation of, this chapter or the regulations thereunder. Any criminal proceeding may be brought in the district wherein any act or transaction constituting the violation occurred. Any suit or action to enforce any liability or duty created by this chapter or regulations thereunder, or to enjoin any violation of this chapter or any regulations thereunder, may be brought in any such district or in the district wherein the defendant is found or is an inhabitant or transacts business, and process in such cases may be served in any other district of which the defendant is an inhabitant or wherever the defendant may be found. Judgments and decrees so rendered shall be subject to review as provided in sections 1254, 1291, and 1292 of title 28.
 
-([Feb. 22, 1935, ch. 18, § 10][/us/act/1935-02-22/ch18/s10], [49 Stat. 33][/us/stat/49/33].)
+([Feb. 22, 1935, ch. 18][/us/act/1935-02-22/ch18], § 10, [49 Stat. 33][/us/stat/49/33].)
 
  __Codification__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/act/1935-02-22/ch18/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-02-22%2Fch18%2Fs10
+[/us/act/1935-02-22/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-02-22%2Fch18
 [/us/stat/49/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F33
 [/us/usc/t28/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs225
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646

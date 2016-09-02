@@ -33,7 +33,7 @@
 
         Any non-Federal share of a project may be in cash or in kind, fairly evaluated, including, but not limited to, plant, equipment, or services.
 
-([Pub. L. 94–136, title II, § 206][/us/pl/94/136/s206], Nov. 28, 1975, [89 Stat. 739][/us/stat/89/739].)
+([Pub. L. 94–136, title II][/us/pl/94/136/tII], § 206, Nov. 28, 1975, [89 Stat. 739][/us/stat/89/739].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/94/136/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2Fs206
+[/us/pl/94/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2FtII
 [/us/stat/89/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F739
 
 

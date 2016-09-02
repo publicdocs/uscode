@@ -37,7 +37,7 @@
 
         This section shall apply to domain names registered on or after November 29, 1999.
 
-([Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title III, § 3002(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–548.)
+([Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title III, § 3002(b)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–548.)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 [/us/usc/t17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs101
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
 [/us/usc/t15/s1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1127
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F427

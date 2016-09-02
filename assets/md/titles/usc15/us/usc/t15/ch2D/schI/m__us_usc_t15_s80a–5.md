@@ -35,7 +35,7 @@
 
         A registered diversified company which at the time of its qualification as such meets the requirements of paragraph (1) of subsection (b) shall not lose its status as a diversified company because of any subsequent discrepancy between the value of its various investments and the requirements of said paragraph, so long as any such discrepancy existing immediately after its acquisition of any security or other property is neither wholly nor partly the result of such acquisition.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 5, [54 Stat. 800][/us/stat/54/800]; [Pub. L. 100–181, title VI, § 607][/us/pl/100/181/s607], Dec. 4, 1987, [101 Stat. 1261][/us/stat/101/1261].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 5, [54 Stat. 800][/us/stat/54/800]; [Pub. L. 100–181, title VI][/us/pl/100/181/tVI], § 607, Dec. 4, 1987, [101 Stat. 1261][/us/stat/101/1261].)
 
  __Amendments__ 
 
@@ -54,7 +54,7 @@
 
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F800
-[/us/pl/100/181/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs607
+[/us/pl/100/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVI
 [/us/stat/101/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1261
 [/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265

@@ -41,7 +41,7 @@
 
         The Office of Science and Technology Policy, with the assistance of the National Critical Materials Council as specified in the National Critical Materials Act of 1984 ([30 U.S.C. 1801][/us/usc/t30/s1801] et seq.), shall prepare an annual report setting forth and evaluating the progress of the Superconductivity Action Plan. This report shall include a description of the amount of funds expended in the previous year by all Federal departments and agencies involved with superconductivity. This report shall be submitted with the President’s annual budget request to the Committee on Science, Space, and Technology of the House of Representatives, and to the Committees on Energy and Natural Resources, and Commerce, Science, and Transportation of the Senate.
 
-([Pub. L. 100–697, § 3][/us/pl/100/697/s3], Nov. 19, 1988, [102 Stat. 4614][/us/stat/102/4614].)
+([Pub. L. 100–697][/us/pl/100/697], § 3, Nov. 19, 1988, [102 Stat. 4614][/us/stat/102/4614].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t30/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1801
-[/us/pl/100/697/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F697%2Fs3
+[/us/pl/100/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F697
 [/us/stat/102/4614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4614
 [/us/pl/98/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373
 [/us/stat/98/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1248

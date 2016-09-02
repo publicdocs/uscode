@@ -27,7 +27,7 @@
 
         Following notice to the Board, the President, or a person designated by the President for such purpose, may suspend the effectiveness of any bylaw or standard, or prohibit any action, of the Association that the President or the designee determines is contrary to the purposes of this subchapter.
 
-([Pub. L. 106–102, title III, § 329][/us/pl/106/102/s329], as added [Pub. L. 114–1, title II, § 202(a)][/us/pl/114/1/s202/a], Jan. 12, 2015, [129 Stat. 25][/us/stat/129/25].)
+([Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 329, as added [Pub. L. 114–1, title II][/us/pl/114/1/tII], § 202(a), Jan. 12, 2015, [129 Stat. 25][/us/stat/129/25].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
     Provisions similar to this section were contained in [section 6762(b)(2)(C) of this title][/us/usc/t15/s6762/b/2/C], prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1].
 
-    A prior section 6759, [Pub. L. 106–102, title III, § 329][/us/pl/106/102/s329], Nov. 12, 1999, [113 Stat. 1430][/us/stat/113/1430], related to assessments, prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1]. See [section 6756(1) of this title][/us/usc/t15/s6756/1].
+    A prior section 6759, [Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 329, Nov. 12, 1999, [113 Stat. 1430][/us/stat/113/1430], related to assessments, prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1]. See [section 6756(1) of this title][/us/usc/t15/s6756/1].
 
 ----------
 
@@ -47,12 +47,12 @@
 ----------
 
 [/us/usc/t15/s6754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6754
-[/us/pl/106/102/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs329
-[/us/pl/114/1/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs202%2Fa
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
+[/us/pl/114/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2FtII
 [/us/stat/129/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F25
 [/us/usc/t15/s6762/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6762%2Fb%2F2%2FC
 [/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
-[/us/pl/106/102/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs329
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1430
 [/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
 [/us/usc/t15/s6756/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6756%2F1

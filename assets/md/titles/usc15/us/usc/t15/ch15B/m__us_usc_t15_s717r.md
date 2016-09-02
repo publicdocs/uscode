@@ -49,7 +49,7 @@
 
             The Court shall set any action brought under this subsection for expedited consideration.
 
-([June 21, 1938, ch. 556, § 19][/us/act/1938-06-21/ch556/s19], [52 Stat. 831][/us/stat/52/831]; [June 25, 1948, ch. 646, § 32(a)][/us/act/1948-06-25/ch646/s32/a], [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107]; [Pub. L. 85–791, § 19][/us/pl/85/791/s19], Aug. 28, 1958, [72 Stat. 947][/us/stat/72/947]; [Pub. L. 109–58, title III, § 313(b)][/us/pl/109/58/s313/b], Aug. 8, 2005, [119 Stat. 689][/us/stat/119/689].)
+([June 21, 1938, ch. 556][/us/act/1938-06-21/ch556], § 19, [52 Stat. 831][/us/stat/52/831]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 32(a), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 127, [63 Stat. 107][/us/stat/63/107]; [Pub. L. 85–791][/us/pl/85/791], § 19, Aug. 28, 1958, [72 Stat. 947][/us/stat/72/947]; [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 313(b), Aug. 8, 2005, [119 Stat. 689][/us/stat/119/689].)
 
  __References in Text__ 
 
@@ -63,9 +63,9 @@
 
     2005—Subsec. (d). [Pub. L. 109–58][/us/pl/109/58] added subsec. (d).
 
-    1958—Subsec. (a). [Pub. L. 85–791, § 19(a)][/us/pl/85/791/s19/a], inserted sentence providing that until record in a proceeding has been filed in a court of appeals, Commission may modify or set aside any finding or order issued by it.
+    1958—Subsec. (a). [Pub. L. 85–791][/us/pl/85/791], § 19(a), inserted sentence providing that until record in a proceeding has been filed in a court of appeals, Commission may modify or set aside any finding or order issued by it.
 
-    Subsec. (b). [Pub. L. 85–791, § 19(b)][/us/pl/85/791/s19/b], in second sentence, substituted “transmitted by the clerk of the court to” for “served upon”, substituted “file with the court” for “certify and file with the court a transcript of”, and inserted “as provided in [section 2112 of title 28][/us/usc/t28/s2112]”, and, in third sentence, substituted “petition” for “transcript”, and “jurisdiction, which upon the filing of the record with it shall be exclusive” for “exclusive jurisdiction”.
+    Subsec. (b). [Pub. L. 85–791][/us/pl/85/791], § 19(b), in second sentence, substituted “transmitted by the clerk of the court to” for “served upon”, substituted “file with the court” for “certify and file with the court a transcript of”, and inserted “as provided in [section 2112 of title 28][/us/usc/t28/s2112]”, and, in third sentence, substituted “petition” for “transcript”, and “jurisdiction, which upon the filing of the record with it shall be exclusive” for “exclusive jurisdiction”.
 
  __Change of Name__ 
 
@@ -89,15 +89,15 @@
 [/us/usc/t15/s717n/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717n%2Fc
 [/us/usc/t15/s717b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717b
 [/us/usc/t15/s717f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717f
-[/us/act/1938-06-21/ch556/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556%2Fs19
+[/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F831
-[/us/act/1948-06-25/ch646/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs32%2Fa
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1949-05-24/ch139/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs127
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
-[/us/pl/85/791/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs19
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/stat/72/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F947
-[/us/pl/109/58/s313/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs313%2Fb
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F689
 [/us/pl/89/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F454
 [/us/pl/92/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F583
@@ -108,8 +108,8 @@
 [/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F869
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
-[/us/pl/85/791/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs19%2Fa
-[/us/pl/85/791/s19/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs19%2Fb
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 
 

@@ -257,7 +257,7 @@
 
             There is authorized to be appropriated to the Administration $5,000,000 to carry out this subsection.
 
-([Pub. L. 110–140, title XII, § 1203][/us/pl/110/140/s1203], Dec. 19, 2007, [121 Stat. 1766][/us/stat/121/1766].)
+([Pub. L. 110–140, title XII][/us/pl/110/140/tXII], § 1203, Dec. 19, 2007, [121 Stat. 1766][/us/stat/121/1766].)
 
  __Codification__ 
 
@@ -288,7 +288,7 @@
 [/us/usc/t15/s648/k/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648%2Fk%2F2
 [/us/usc/t15/s648/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648%2Fa%2F4
 [/us/usc/t15/s648/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648%2Fa%2F1
-[/us/pl/110/140/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1203
+[/us/pl/110/140/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXII
 [/us/stat/121/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1766
 [/us/pl/110/140/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1203
 [/us/pl/110/140/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1203

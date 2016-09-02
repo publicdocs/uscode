@@ -49,7 +49,7 @@
 
         If any licensee or other person against which or against whom an order is issued under this section fails to obey the order, the Administration may apply to the United States court of appeals, within the circuit where the licensee has its principal place of business, for the enforcement of the order, and shall file a transcript of the record upon which the order complained of was entered. Upon the filing of the application the court shall cause notice thereof to be served on the licensee or other person. The evidence to be considered, the procedure to be followed, and the jurisdiction of the court shall be the same as is provided in subsection (e) for applications to set aside or modify orders.
 
-([Pub. L. 85–699, title III, § 309][/us/pl/85/699/s309], as added [Pub. L. 87–341, § 9][/us/pl/87/341/s9], Oct. 3, 1961, [75 Stat. 753][/us/stat/75/753]; amended [Pub. L. 89–779, § 4][/us/pl/89/779/s4], Nov. 6, 1966, [80 Stat. 1359][/us/stat/80/1359]; [Pub. L. 98–620, title IV, § 402(15)(A)][/us/pl/98/620/s402/15/A], (B), Nov. 8, 1984, [98 Stat. 3358][/us/stat/98/3358].)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 309, as added [Pub. L. 87–341][/us/pl/87/341], § 9, Oct. 3, 1961, [75 Stat. 753][/us/stat/75/753]; amended [Pub. L. 89–779][/us/pl/89/779], § 4, Nov. 6, 1966, [80 Stat. 1359][/us/stat/80/1359]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(15)(A), (B), Nov. 8, 1984, [98 Stat. 3358][/us/stat/98/3358].)
 
  __References in Text__ 
 
@@ -57,19 +57,19 @@
 
  __Amendments__ 
 
-    1984—Subsec. (e). [Pub. L. 98–620, § 402(15)(A)][/us/pl/98/620/s402/15/A], struck out provision that the proceedings in such cases in the court of appeals had to be made a preferred cause and had to be expedited in every way.
+    1984—Subsec. (e). [Pub. L. 98–620][/us/pl/98/620], § 402(15)(A), struck out provision that the proceedings in such cases in the court of appeals had to be made a preferred cause and had to be expedited in every way.
 
-    Subsec. (f). [Pub. L. 98–620, § 402(15)(B)][/us/pl/98/620/s402/15/B], struck out provision that the proceedings in such cases had to be made a preferred cause and expedited in every way.
+    Subsec. (f). [Pub. L. 98–620][/us/pl/98/620], § 402(15)(B), struck out provision that the proceedings in such cases had to be made a preferred cause and expedited in every way.
 
-    1966—Subsec. (a). [Pub. L. 89–779, § 4(b)][/us/pl/89/779/s4/b], inserted reference to revocation in introductory text preceding par. (1), and, in pars. (1) and (2), deleted restriction which limited the grounds for suspension or revocation for false or misleading statements to the situation in which such statements were made for the purpose of obtaining a license.
+    1966—Subsec. (a). [Pub. L. 89–779][/us/pl/89/779], § 4(b), inserted reference to revocation in introductory text preceding par. (1), and, in pars. (1) and (2), deleted restriction which limited the grounds for suspension or revocation for false or misleading statements to the situation in which such statements were made for the purpose of obtaining a license.
 
-    Subsec. (b). [Pub. L. 89–779, § 4(c)][/us/pl/89/779/s4/c], expanded the Administration’s authority to issue cease and desist orders by authorizing their issuance against individuals who have not complied with provisions of this chapter and against both licensees and individuals who have violated or are about to violate this chapter or regulations issued pursuant thereto.
+    Subsec. (b). [Pub. L. 89–779][/us/pl/89/779], § 4(c), expanded the Administration’s authority to issue cease and desist orders by authorizing their issuance against individuals who have not complied with provisions of this chapter and against both licensees and individuals who have violated or are about to violate this chapter or regulations issued pursuant thereto.
 
-    Subsec. (c). [Pub. L. 89–779, § 4(d)][/us/pl/89/779/s4/d], inserted references to persons involved other than the licensee and to the revocation of licenses so as to conform the subsec. to the expansion of the Administration’s authority to revoke licenses and to issue cease and desist orders to persons other than licensees under subsecs. (a) and (b).
+    Subsec. (c). [Pub. L. 89–779][/us/pl/89/779], § 4(d), inserted references to persons involved other than the licensee and to the revocation of licenses so as to conform the subsec. to the expansion of the Administration’s authority to revoke licenses and to issue cease and desist orders to persons other than licensees under subsecs. (a) and (b).
 
-    Subsec. (e). [Pub. L. 89–779, § 4(e)][/us/pl/89/779/s4/e], authorized the appeal from an order issued by the Administration under this section by other persons, besides the licensee, against whom an order is issued.
+    Subsec. (e). [Pub. L. 89–779][/us/pl/89/779], § 4(e), authorized the appeal from an order issued by the Administration under this section by other persons, besides the licensee, against whom an order is issued.
 
-    Subsec. (f). [Pub. L. 89–779, § 4(f)][/us/pl/89/779/s4/f], provided that individuals as well as licensees are to be affected by subsec. (f).
+    Subsec. (f). [Pub. L. 89–779][/us/pl/89/779], § 4(f), provided that individuals as well as licensees are to be affected by subsec. (f).
 
  __Effective Date of 1984 Amendment__ 
 
@@ -83,21 +83,21 @@
 ----------
 
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/85/699/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs309
-[/us/pl/87/341/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341%2Fs9
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/87/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341
 [/us/stat/75/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F753
-[/us/pl/89/779/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779%2Fs4
+[/us/pl/89/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779
 [/us/stat/80/1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1359
-[/us/pl/98/620/s402/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F15%2FA
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3358
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
-[/us/pl/98/620/s402/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F15%2FA
-[/us/pl/98/620/s402/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F15%2FB
-[/us/pl/89/779/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779%2Fs4%2Fb
-[/us/pl/89/779/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779%2Fs4%2Fc
-[/us/pl/89/779/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779%2Fs4%2Fd
-[/us/pl/89/779/s4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779%2Fs4%2Fe
-[/us/pl/89/779/s4/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779%2Fs4%2Ff
+[/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
+[/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
+[/us/pl/89/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779
+[/us/pl/89/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779
+[/us/pl/89/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779
+[/us/pl/89/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779
+[/us/pl/89/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs403
 [/us/usc/t28/s1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1657

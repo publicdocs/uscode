@@ -31,7 +31,7 @@
 
         Section 14 of the Federal Advisory Committee Act shall not apply to the advisory committee established under this section.
 
-([Pub. L. 107–231, § 11][/us/pl/107/231/s11], Oct. 1, 2002, [116 Stat. 1476][/us/stat/116/1476].)
+([Pub. L. 107–231][/us/pl/107/231], § 11, Oct. 1, 2002, [116 Stat. 1476][/us/stat/116/1476].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t15/s7301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7301%2Fc%2F1
 [/us/usc/t15/s7307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7307
-[/us/pl/107/231/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231%2Fs11
+[/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
 [/us/stat/116/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1476
 [/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
 [/us/stat/116/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1471

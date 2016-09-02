@@ -33,7 +33,7 @@
 
         In determining the burden, if any, of a State or political subdivision standard or regulation on interstate commerce, the Commission shall consider and make appropriate (as determined by the Commission in its discretion) findings on the technological and economic feasibility of complying with such standard or regulation, the cost of complying with such standard or regulation, the geographic distribution of the consumer product to which the standard or regulation would apply, the probability of other States or political subdivisions applying for an exemption under this subsection for a similar standard or regulation, and the need for a national, uniform standard under this chapter for such consumer product.
 
-([Pub. L. 92–573, § 26][/us/pl/92/573/s26], Oct. 27, 1972, [86 Stat. 1227][/us/stat/86/1227]; [Pub. L. 94–284, § 17(d)][/us/pl/94/284/s17/d], May 11, 1976, [90 Stat. 514][/us/stat/90/514].)
+([Pub. L. 92–573][/us/pl/92/573], § 26, Oct. 27, 1972, [86 Stat. 1227][/us/stat/86/1227]; [Pub. L. 94–284][/us/pl/94/284], § 17(d), May 11, 1976, [90 Stat. 514][/us/stat/90/514].)
 
  __Amendments__ 
 
@@ -52,9 +52,9 @@
 ----------
 ----------
 
-[/us/pl/92/573/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs26
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1227
-[/us/pl/94/284/s17/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs17%2Fd
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/stat/90/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F514
 [/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284

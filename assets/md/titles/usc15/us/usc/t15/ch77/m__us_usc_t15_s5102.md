@@ -25,7 +25,7 @@
 
     (4) the term “research plan” means the Steel Initiative Research Plan issued in April 1988 by the Department of Energy, and updates to that plan.
 
-([Pub. L. 100–680, § 3][/us/pl/100/680/s3], Nov. 17, 1988, [102 Stat. 4073][/us/stat/102/4073].)
+([Pub. L. 100–680][/us/pl/100/680], § 3, Nov. 17, 1988, [102 Stat. 4073][/us/stat/102/4073].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/100/680/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F680%2Fs3
+[/us/pl/100/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F680
 [/us/stat/102/4073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4073
 
 

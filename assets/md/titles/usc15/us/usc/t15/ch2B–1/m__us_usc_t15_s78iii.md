@@ -49,7 +49,7 @@
 
         The Commission may, by such rules as it determines necessary or appropriate in the public interest and to carry out the purposes of this chapter, require any self-regulatory organization to furnish SIPC with reports and records (or copies thereof) relating to the financial condition of members of or participants in such self-regulatory organization.
 
-([Pub. L. 91–598, § 13][/us/pl/91/598/s13], formerly § 9, Dec. 30, 1970, [84 Stat. 1654][/us/stat/84/1654]; amended [Pub. L. 94–29, § 26][/us/pl/94/29/s26], June 4, 1975, [89 Stat. 163][/us/stat/89/163]; renumbered § 13 and amended [Pub. L. 95–283][/us/pl/95/283], §§ 9, 12, May 21, 1978, [92 Stat. 260][/us/stat/92/260], 269.)
+([Pub. L. 91–598][/us/pl/91/598], § 13, formerly § 9, Dec. 30, 1970, [84 Stat. 1654][/us/stat/84/1654]; amended [Pub. L. 94–29][/us/pl/94/29], § 26, June 4, 1975, [89 Stat. 163][/us/stat/89/163]; renumbered § 13 and amended [Pub. L. 95–283][/us/pl/95/283], §§ 9, 12, May 21, 1978, [92 Stat. 260][/us/stat/92/260], 269.)
 
  __References in Text__ 
 
@@ -57,13 +57,13 @@
 
  __Amendments__ 
 
-    1978—Subsec. (a). [Pub. L. 95–283, § 12(a)][/us/pl/95/283/s12/a], in heading substituted “Collection” for “Collecting”, and in text inserted provisions relating to designation of a self-regulatory organization other than the examining authority to act as collection agent and provisions relating to designation of a registered clearing agency as collection agent, and substituted provisions relating to remittances by the collection agent to SIPC, for provisions relating to remittances by an examining authority to SIPC.
+    1978—Subsec. (a). [Pub. L. 95–283][/us/pl/95/283], § 12(a), in heading substituted “Collection” for “Collecting”, and in text inserted provisions relating to designation of a self-regulatory organization other than the examining authority to act as collection agent and provisions relating to designation of a registered clearing agency as collection agent, and substituted provisions relating to remittances by the collection agent to SIPC, for provisions relating to remittances by an examining authority to SIPC.
 
-    Subsec. (b). [Pub. L. 95–283, § 12(b)][/us/pl/95/283/s12/b], inserted reference to [section 78eee(a)(2) of this title][/us/usc/t15/s78eee/a/2].
+    Subsec. (b). [Pub. L. 95–283][/us/pl/95/283], § 12(b), inserted reference to [section 78eee(a)(2) of this title][/us/usc/t15/s78eee/a/2].
 
-    Subsec. (c). [Pub. L. 95–283, § 12(c)][/us/pl/95/283/s12/c], revised existing format and provisions into introductory text and cl. (2) and, as so revised, in introductory text inserted provisions respecting participation by a member of SIPC in a self-regulatory organization and in cl. (2) inserted provisions respecting such participation and authorization for the Commission to designate itself as responsible for the statutory examination, and added cl. (1).
+    Subsec. (c). [Pub. L. 95–283][/us/pl/95/283], § 12(c), revised existing format and provisions into introductory text and cl. (2) and, as so revised, in introductory text inserted provisions respecting participation by a member of SIPC in a self-regulatory organization and in cl. (2) inserted provisions respecting such participation and authorization for the Commission to designate itself as responsible for the statutory examination, and added cl. (1).
 
-    Subsec. (f). [Pub. L. 95–283, § 12(d)][/us/pl/95/283/s12/d], substituted provisions authorizing the Commission to set out rules requiring self-regulatory organizations to furnish SIPC with reports and records of members or participants in such self-regulatory organizations, for provisions authorizing the Commission to set out rules, and regulations requiring self-regulatory organizations to adopt rules, practices, and procedures respecting inspections and examinations of members and examiners, to furnish SIPC and the Commission with reports and records of members, and to inspect or examine members.
+    Subsec. (f). [Pub. L. 95–283][/us/pl/95/283], § 12(d), substituted provisions authorizing the Commission to set out rules requiring self-regulatory organizations to furnish SIPC with reports and records of members or participants in such self-regulatory organizations, for provisions authorizing the Commission to set out rules, and regulations requiring self-regulatory organizations to adopt rules, practices, and procedures respecting inspections and examinations of members and examiners, to furnish SIPC and the Commission with reports and records of members, and to inspect or examine members.
 
     1975—Subsec. (c). [Pub. L. 94–29][/us/pl/94/29] directed the Commission to designate the self-regulatory organization to be responsible for enforcing applicable rules with respect to any firm which is a member of more than one self-regulatory organization.
 
@@ -81,19 +81,19 @@
 [/us/usc/t15/s78ddd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78ddd
 [/us/usc/t15/s78eee/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78eee%2Fa%2F2
 [/us/usc/t15/s78q/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78q%2Fd
-[/us/pl/91/598/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598%2Fs13
+[/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1654
-[/us/pl/94/29/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs26
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F163
 [/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/stat/92/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F260
 [/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1636
-[/us/pl/95/283/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs12%2Fa
-[/us/pl/95/283/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs12%2Fb
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/usc/t15/s78eee/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78eee%2Fa%2F2
-[/us/pl/95/283/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs12%2Fc
-[/us/pl/95/283/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs12%2Fd
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/pl/94/29/s31/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs31%2Fa

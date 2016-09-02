@@ -27,7 +27,7 @@
 
         Any person who willfully removes, alters, or renders illegible any label affixed to a new automobile pursuant to [section 1232 of this title][/us/usc/t15/s1232], or any endorsement thereon, prior to the time that such automobile is delivered to the actual custody and possession of the ultimate purchaser of such new automobile, except where the manufacturer relabels the automobile in the event the same is rerouted, repurchased, or reacquired by the manufacturer of such automobile, shall be fined not more than $1,000, or imprisoned not more than one year, or both. Such removal, alteration, or rendering illegible with respect to each automobile shall constitute a separate offense.
 
-([Pub. L. 85–506, § 4][/us/pl/85/506/s4], July 7, 1958, [72 Stat. 326][/us/stat/72/326].)
+([Pub. L. 85–506][/us/pl/85/506], § 4, July 7, 1958, [72 Stat. 326][/us/stat/72/326].)
 
 ----------
 
@@ -39,7 +39,7 @@
 [/us/usc/t15/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1232
 [/us/usc/t15/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1232
 [/us/usc/t15/s1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1232
-[/us/pl/85/506/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F506%2Fs4
+[/us/pl/85/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F506
 [/us/stat/72/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F326
 
 

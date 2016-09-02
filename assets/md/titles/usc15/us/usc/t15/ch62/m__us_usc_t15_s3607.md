@@ -47,7 +47,7 @@
 
         Following the unit owners’ vote, the termination shall be effective ninety days after hand delivering notice or mailing notice by prepaid United States mail to the parties to the contract.
 
-([Pub. L. 96–399, title VI, § 608][/us/pl/96/399/s608], Oct. 8, 1980, [94 Stat. 1676][/us/stat/94/1676].)
+([Pub. L. 96–399, title VI][/us/pl/96/399/tVI], § 608, Oct. 8, 1980, [94 Stat. 1676][/us/stat/94/1676].)
 
  __Codification__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/96/399/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs608
+[/us/pl/96/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtVI
 [/us/stat/94/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1676
 [/us/usc/t15/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3601
 

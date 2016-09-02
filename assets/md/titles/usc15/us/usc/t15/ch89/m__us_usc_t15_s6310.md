@@ -29,7 +29,7 @@
 
     (3) For any individual listed under paragraph (2), the identity of the boxing commission that issued the suspension described in paragraph (2)(A).
 
-([Pub. L. 104–272, § 19][/us/pl/104/272/s19], formerly § 11, Oct. 9, 1996, [110 Stat. 3312][/us/stat/110/3312]; renumbered § 19, [Pub. L. 106–210, § 4(1)][/us/pl/106/210/s4/1], May 26, 2000, [114 Stat. 322][/us/stat/114/322].)
+([Pub. L. 104–272][/us/pl/104/272], § 19, formerly § 11, Oct. 9, 1996, [110 Stat. 3312][/us/stat/110/3312]; renumbered § 19, [Pub. L. 106–210][/us/pl/106/210], § 4(1), May 26, 2000, [114 Stat. 322][/us/stat/114/322].)
 
 ----------
 
@@ -39,9 +39,9 @@
 ----------
 
 [/us/usc/t15/s6303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6303
-[/us/pl/104/272/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs19
+[/us/pl/104/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272
 [/us/stat/110/3312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3312
-[/us/pl/106/210/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs4%2F1
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 [/us/stat/114/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F322
 
 

@@ -39,7 +39,7 @@
 
             (D) to support the development of the automation of continuous monitoring systems.
 
-([Pub. L. 113–274, title V, § 503][/us/pl/113/274/s503], Dec. 18, 2014, [128 Stat. 2986][/us/stat/128/2986].)
+([Pub. L. 113–274, title V][/us/pl/113/274/tV], § 503, Dec. 18, 2014, [128 Stat. 2986][/us/stat/128/2986].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t15/s278g–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933
-[/us/pl/113/274/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs503
+[/us/pl/113/274/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2FtV
 [/us/stat/128/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2986
 
 

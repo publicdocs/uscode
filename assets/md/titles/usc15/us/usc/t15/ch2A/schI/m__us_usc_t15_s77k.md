@@ -67,7 +67,7 @@
 
         In no case shall the amount recoverable under this section exceed the price at which the security was offered to the public.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 11, [48 Stat. 82][/us/stat/48/82]; [June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title II, § 206, [48 Stat. 907][/us/stat/48/907]; [Pub. L. 104–67, title II, § 201(b)][/us/pl/104/67/s201/b], Dec. 22, 1995, [109 Stat. 762][/us/stat/109/762]; [Pub. L. 105–353, title III, § 301(a)(2)][/us/pl/105/353/s301/a/2], Nov. 3, 1998, [112 Stat. 3235][/us/stat/112/3235].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 11, [48 Stat. 82][/us/stat/48/82]; [June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title II, § 206, [48 Stat. 907][/us/stat/48/907]; [Pub. L. 104–67, title II][/us/pl/104/67/tII], § 201(b), Dec. 22, 1995, [109 Stat. 762][/us/stat/109/762]; [Pub. L. 105–353, title III][/us/pl/105/353/tIII], § 301(a)(2), Nov. 3, 1998, [112 Stat. 3235][/us/stat/112/3235].)
 
  __Amendments__ 
 
@@ -81,7 +81,7 @@
 
  __Effective Date of 1995 Amendment__ 
 
-[Pub. L. 104–67, title II, § 202][/us/pl/104/67/s202], Dec. 22, 1995, [109 Stat. 762][/us/stat/109/762], provided that: 
+[Pub. L. 104–67, title II][/us/pl/104/67/tII], § 202, Dec. 22, 1995, [109 Stat. 762][/us/stat/109/762], provided that: 
 
 > “The amendments made by this title \[amending this section and [section 78u–4 of this title][/us/usc/t15/s78u–4]\] shall not affect or apply to any private action arising under the securities laws commenced before and pending on the date of enactment of this Act \[Dec. 22, 1995\].”
 
@@ -105,14 +105,14 @@
 [/us/stat/48/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F82
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F907
-[/us/pl/104/67/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2Fs201%2Fb
+[/us/pl/104/67/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2FtII
 [/us/stat/109/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F762
-[/us/pl/105/353/s301/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fa%2F2
+[/us/pl/105/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtIII
 [/us/stat/112/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3235
 [/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
 [/us/usc/t15/s78u–4/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78u%E2%80%934%2Ff
 [/us/pl/104/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67
-[/us/pl/104/67/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2Fs202
+[/us/pl/104/67/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2FtII
 [/us/stat/109/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F762
 [/us/usc/t15/s78u–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78u%E2%80%934
 [/us/pl/104/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67

@@ -89,7 +89,7 @@
 
             Any security-based swap dealer or major security-based swap participant that knowingly or recklessly evades or participates in or facilitates an evasion of the requirements of [section 78c–3 of this title][/us/usc/t15/s78c–3] shall be liable for a civil money penalty in twice the amount otherwise available for a violation of [section 78c–3 of this title][/us/usc/t15/s78c–3].
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 21B, as added [Pub. L. 101–429, title II, § 202(a)][/us/pl/101/429/s202/a], Oct. 15, 1990, [104 Stat. 937][/us/stat/104/937]; amended [Pub. L. 107–204, title V, § 501(b)][/us/pl/107/204/s501/b], July 30, 2002, [116 Stat. 793][/us/stat/116/793]; [Pub. L. 109–291, § 4(b)(1)(B)][/us/pl/109/291/s4/b/1/B], Sept. 29, 2006, [120 Stat. 1337][/us/stat/120/1337]; [Pub. L. 111–203, title VII, § 773][/us/pl/111/203/s773], title IX, § 929P(a)(2), July 21, 2010, [124 Stat. 1802][/us/stat/124/1802], 1863.)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 21B, as added [Pub. L. 101–429, title II][/us/pl/101/429/tII], § 202(a), Oct. 15, 1990, [104 Stat. 937][/us/stat/104/937]; amended [Pub. L. 107–204, title V][/us/pl/107/204/tV], § 501(b), July 30, 2002, [116 Stat. 793][/us/stat/116/793]; [Pub. L. 109–291][/us/pl/109/291], § 4(b)(1)(B), Sept. 29, 2006, [120 Stat. 1337][/us/stat/120/1337]; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 773, title IX, § 929P(a)(2), July 21, 2010, [124 Stat. 1802][/us/stat/124/1802], 1863.)
 
  __Amendment of Section__ 
 
@@ -97,7 +97,7 @@
 
  __References in Text__ 
 
-    The Securities Act of 1933, referred to in subsec. (a)(1)(A), is [act May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
+    The Securities Act of 1933, referred to in subsec. (a)(1)(A), is [act May 27, 1933, ch. 38, title I][/us/act/1933-05-27/ch38/tI], [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
 
     The Investment Company Act of 1940, referred to in subsec. (a)(1)(A), is title I of [act Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], [54 Stat. 789][/us/stat/54/789], which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title][/us/usc/t15/s80a–51] and Tables.
 
@@ -107,9 +107,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 929P(a)(2)][/us/pl/111/203/s929P/a/2], designated existing provisions as par. (1) and inserted heading, inserted “that such penalty is in the public interest and” before “that such person—” in introductory provisions, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned margins, struck out concluding provisions which read “and that such penalty is in the public interest.”, and added par. (2).
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 929P(a)(2), designated existing provisions as par. (1) and inserted heading, inserted “that such penalty is in the public interest and” before “that such person—” in introductory provisions, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1) and realigned margins, struck out concluding provisions which read “and that such penalty is in the public interest.”, and added par. (2).
 
-    Subsec. (f). [Pub. L. 111–203, § 773][/us/pl/111/203/s773], added subsec. (f).
+    Subsec. (f). [Pub. L. 111–203][/us/pl/111/203], § 773, added subsec. (f).
 
     2006—Subsec. (a). [Pub. L. 109–291][/us/pl/109/291] inserted “78o–7,” after “78o–5,” in introductory provisions.
 
@@ -141,16 +141,16 @@
 [/us/usc/t15/s78c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%E2%80%933
 [/us/usc/t15/s78c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%E2%80%933
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/101/429/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2Fs202%2Fa
+[/us/pl/101/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2FtII
 [/us/stat/104/937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F937
-[/us/pl/107/204/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs501%2Fb
+[/us/pl/107/204/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtV
 [/us/stat/116/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F793
-[/us/pl/109/291/s4/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291%2Fs4%2Fb%2F1%2FB
+[/us/pl/109/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291
 [/us/stat/120/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1337
-[/us/pl/111/203/s773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs773
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1802
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
+[/us/act/1933-05-27/ch38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38%2FtI
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
@@ -160,8 +160,8 @@
 [/us/stat/54/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F847
 [/us/usc/t15/s80b–20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%9320
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/111/203/s929P/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929P%2Fa%2F2
-[/us/pl/111/203/s773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs773
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/109/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/pl/111/203/s929P/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929P%2Fa%2F2

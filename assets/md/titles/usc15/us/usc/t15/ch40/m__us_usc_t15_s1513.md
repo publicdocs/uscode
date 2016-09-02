@@ -17,7 +17,7 @@
 
     All duties performed and all power and authority possessed or exercised by the head of any executive department in and over any bureau, office, officer, board, branch, or division of the public service transferred to the Department of Commerce, or any business arising therefrom or pertaining thereto, or in relation to the duties performed by and authority conferred by law upon such bureau, officer, office, board, branch, or division of the public service, whether of an appellate or revisory character or otherwise, shall be vested in and exercised by the Secretary of Commerce.
 
-([Feb. 14, 1903, ch. 552, § 10][/us/act/1903-02-14/ch552/s10], [32 Stat. 829][/us/stat/32/829].)
+([Feb. 14, 1903, ch. 552][/us/act/1903-02-14/ch552], § 10, [32 Stat. 829][/us/stat/32/829].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1903-02-14/ch552/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552%2Fs10
+[/us/act/1903-02-14/ch552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552
 [/us/stat/32/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F829
 [/us/usc/t5/s599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs599
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554

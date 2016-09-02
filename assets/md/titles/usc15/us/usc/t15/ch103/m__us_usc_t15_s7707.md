@@ -39,7 +39,7 @@
 
         Nothing in this chapter shall be construed to have any effect on the lawfulness or unlawfulness, under any other provision of law, of the adoption, implementation, or enforcement by a provider of Internet access service of a policy of declining to transmit, route, relay, handle, or store certain types of electronic mail messages.
 
-([Pub. L. 108–187, § 8][/us/pl/108/187/s8], Dec. 16, 2003, [117 Stat. 2716][/us/stat/117/2716].)
+([Pub. L. 108–187][/us/pl/108/187], § 8, Dec. 16, 2003, [117 Stat. 2716][/us/stat/117/2716].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/108/187/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs8
+[/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2716
 [/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2699

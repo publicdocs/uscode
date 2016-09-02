@@ -111,7 +111,7 @@
 
         Subsections (b) and (c) do not affect any settlement, agreement, or consent judgment between any State Attorney General and any consumer reporting agency in effect on September 30, 1996.
 
-([Pub. L. 90–321, title VI, § 625][/us/pl/90/321/s625], formerly § 622, as added [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1136][/us/stat/84/1136]; renumbered § 623, [Pub. L. 102–537, § 2(a)][/us/pl/102/537/s2/a], Oct. 27, 1992, [106 Stat. 3531][/us/stat/106/3531]; renumbered § 624 and amended [Pub. L. 104–208, div. A, title II][/us/pl/104/208], §§ 2413(a)(1), 2419, Sept. 30, 1996, [110 Stat. 3009–447][/us/stat/110/3009-447], 3009–452; renumbered § 625 and amended [Pub. L. 108–159, title I, § 151(a)(2)][/us/pl/108/159/s151/a/2], title II, §§ 212(e), 214(a)(1), (c)(2), title III, § 311(b), title VII, § 711, Dec. 4, 2003, [117 Stat. 1964][/us/stat/117/1964], 1977, 1980, 1983, 1989, 2011.)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 625, formerly § 622, as added [Pub. L. 91–508, title VI][/us/pl/91/508/tVI], § 601, Oct. 26, 1970, [84 Stat. 1136][/us/stat/84/1136]; renumbered § 623, [Pub. L. 102–537][/us/pl/102/537], § 2(a), Oct. 27, 1992, [106 Stat. 3531][/us/stat/106/3531]; renumbered § 624 and amended [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], §§ 2413(a)(1), 2419, Sept. 30, 1996, [110 Stat. 3009–447][/us/stat/110/3009-447], 3009–452; renumbered § 625 and amended [Pub. L. 108–159, title I][/us/pl/108/159/tI], § 151(a)(2), title II, §§ 212(e), 214(a)(1), (c)(2), title III, § 311(b), title VII, § 711, Dec. 4, 2003, [117 Stat. 1964][/us/stat/117/1964], 1977, 1980, 1983, 1989, 2011.)
 
  __Prior Provisions__ 
 
@@ -119,21 +119,21 @@
 
  __Amendments__ 
 
-    2003—Subsec. (a). [Pub. L. 108–159, § 711(1)][/us/pl/108/159/s711/1], inserted “or for the prevention or mitigation of identity theft,” after “information on consumers,”.
+    2003—Subsec. (a). [Pub. L. 108–159][/us/pl/108/159], § 711(1), inserted “or for the prevention or mitigation of identity theft,” after “information on consumers,”.
 
-    Subsec. (b)(1)(E). [Pub. L. 108–159, § 214(c)(2)(A)][/us/pl/108/159/s214/c/2/A], struck out “or” after semicolon at end.
+    Subsec. (b)(1)(E). [Pub. L. 108–159][/us/pl/108/159], § 214(c)(2)(A), struck out “or” after semicolon at end.
 
-    Subsec. (b)(1)(G). [Pub. L. 108–159, § 151(a)(2)][/us/pl/108/159/s151/a/2], added subpar. (G).
+    Subsec. (b)(1)(G). [Pub. L. 108–159][/us/pl/108/159], § 151(a)(2), added subpar. (G).
 
-    Subsec. (b)(1)(H). [Pub. L. 108–159, § 214(c)(2)(B)][/us/pl/108/159/s214/c/2/B], added subpar. (H).
+    Subsec. (b)(1)(H). [Pub. L. 108–159][/us/pl/108/159], § 214(c)(2)(B), added subpar. (H).
 
-    Subsec. (b)(1)(I). [Pub. L. 108–159, § 311(b)][/us/pl/108/159/s311/b], added subpar. (I).
+    Subsec. (b)(1)(I). [Pub. L. 108–159][/us/pl/108/159], § 311(b), added subpar. (I).
 
-    Subsec. (b)(3), (4). [Pub. L. 108–159, § 212(e)][/us/pl/108/159/s212/e], added pars. (3) and (4) and struck out former par. (3) which read as follows: “with respect to the form and content of any disclosure required to be made under [section 1681g(c) of this title][/us/usc/t15/s1681g/c].”
+    Subsec. (b)(3), (4). [Pub. L. 108–159][/us/pl/108/159], § 212(e), added pars. (3) and (4) and struck out former par. (3) which read as follows: “with respect to the form and content of any disclosure required to be made under [section 1681g(c) of this title][/us/usc/t15/s1681g/c].”
 
-    Subsec. (b)(5). [Pub. L. 108–159, § 711(2)][/us/pl/108/159/s711/2], added par. (5).
+    Subsec. (b)(5). [Pub. L. 108–159][/us/pl/108/159], § 711(2), added par. (5).
 
-    Subsec. (d). [Pub. L. 108–159, § 711(3)][/us/pl/108/159/s711/3], substituted “(b) and (c)” for “(b) and (c)—”, struck out par. (1) designation before “do not affect”, substituted “1996.” for “1996; and”, and struck out par. (2) which read as follows:
+    Subsec. (d). [Pub. L. 108–159][/us/pl/108/159], § 711(3), substituted “(b) and (c)” for “(b) and (c)—”, struck out par. (1) designation before “do not affect”, substituted “1996.” for “1996; and”, and struck out par. (2) which read as follows:
 
     “(2) do not apply to any provision of State law (including any provision of a State constitution) that—
 
@@ -143,9 +143,9 @@
 
     “(C) gives greater protection to consumers than is provided under this subchapter.”
 
-    1996—Subsec. (a). [Pub. L. 104–208, § 2419(1)][/us/pl/104/208/s2419/1], designated existing provisions as subsec. (a), inserted heading, and substituted “Except as provided in subsections (b) and (c), this subchapter” for “This subchapter”.
+    1996—Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 2419(1), designated existing provisions as subsec. (a), inserted heading, and substituted “Except as provided in subsections (b) and (c), this subchapter” for “This subchapter”.
 
-    Subsecs. (b) to (d). [Pub. L. 104–208, § 2419(2)][/us/pl/104/208/s2419/2], added subsecs. (b) to (d).
+    Subsecs. (b) to (d). [Pub. L. 104–208][/us/pl/104/208], § 2419(2), added subsecs. (b) to (d).
 
  __Effective Date of 2003 Amendment__ 
 
@@ -186,28 +186,28 @@
 [/us/usc/t15/s1681s/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s%2Ff
 [/us/usc/t15/s1681s–2/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s%E2%80%932%2Fa%2F6
 [/us/usc/t15/s1681w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681w
-[/us/pl/90/321/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs625
-[/us/pl/91/508/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs601
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/91/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtVI
 [/us/stat/84/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1136
-[/us/pl/102/537/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F537%2Fs2%2Fa
+[/us/pl/102/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F537
 [/us/stat/106/3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3531
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-447
-[/us/pl/108/159/s151/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs151%2Fa%2F2
+[/us/pl/108/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtI
 [/us/stat/117/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1964
 [/us/pl/90/321/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs625
 [/us/usc/t15/s1681u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681u
-[/us/pl/108/159/s711/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs711%2F1
-[/us/pl/108/159/s214/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs214%2Fc%2F2%2FA
-[/us/pl/108/159/s151/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs151%2Fa%2F2
-[/us/pl/108/159/s214/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs214%2Fc%2F2%2FB
-[/us/pl/108/159/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs311%2Fb
-[/us/pl/108/159/s212/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs212%2Fe
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
 [/us/usc/t15/s1681g/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681g%2Fc
-[/us/pl/108/159/s711/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs711%2F2
-[/us/pl/108/159/s711/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs711%2F3
-[/us/pl/104/208/s2419/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2419%2F1
-[/us/pl/104/208/s2419/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2419%2F2
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
 [/us/pl/108/159/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs3
 [/us/usc/t15/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681

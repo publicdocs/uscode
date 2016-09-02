@@ -17,7 +17,7 @@
 
     The Administrator is authorized to review, evaluate, and suggest improvements in State and local fire prevention codes, building codes, and any relevant Federal or private codes and regulations. In evaluating any such code or codes, the Administrator shall consider the human impact of all code requirements, standards, or provisions in terms of comfort and habitability for residents or employees, as well as the fire prevention and control value or potential of each such requirement, standard, or provision.
 
-([Pub. L. 93–498, § 12][/us/pl/93/498/s12], Oct. 29, 1974, [88 Stat. 1543][/us/stat/88/1543].)
+([Pub. L. 93–498][/us/pl/93/498], § 12, Oct. 29, 1974, [88 Stat. 1543][/us/stat/88/1543].)
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/93/498/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs12
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1543
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

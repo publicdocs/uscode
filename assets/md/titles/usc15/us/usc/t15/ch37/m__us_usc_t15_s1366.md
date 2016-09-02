@@ -23,7 +23,7 @@
 
     the Secretary shall notify such agency or institution that no further payments will be made under the provisions of this chapter until he is satisfied that there is substantial compliance or the diversion has been corrected or, if compliance or correction is impossible, until such agency or institution repays or arranges for the repayment of Federal funds which have been diverted or improperly expended.
 
-([Pub. L. 89–182, § 16][/us/pl/89/182/s16], Sept. 14, 1965, [79 Stat. 684][/us/stat/79/684].)
+([Pub. L. 89–182][/us/pl/89/182], § 16, Sept. 14, 1965, [79 Stat. 684][/us/stat/79/684].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/89/182/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182%2Fs16
+[/us/pl/89/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182
 [/us/stat/79/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F684
 
 

@@ -51,7 +51,7 @@
 
         In responding to a notification of refusal with respect to a mark, the holder of the international registration of the mark may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person residing in the United States on whom notices or process in proceedings affecting the mark may be served. Such notices or process may be served upon the person designated by leaving with that person, or mailing to that person, a copy thereof at the address specified in the last designation filed. If the person designated cannot be found at the address given in the last designation, or if the holder does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person residing in the United States for service of notices or process in proceedings affecting the mark, the notice or process may be served on the Director.
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title XII, § 68, as added [Pub. L. 107–273, div. C, title III, § 13402][/us/pl/107/273/s13402], Nov. 2, 2002, [116 Stat. 1917][/us/stat/116/1917].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title XII, § 68, as added [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13402, Nov. 2, 2002, [116 Stat. 1917][/us/stat/116/1917].)
 
 ----------
 
@@ -63,7 +63,7 @@
 [/us/usc/t15/s1141f/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1141f%2Fa
 [/us/usc/t15/s1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1063
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
-[/us/pl/107/273/s13402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13402
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1917
 
 

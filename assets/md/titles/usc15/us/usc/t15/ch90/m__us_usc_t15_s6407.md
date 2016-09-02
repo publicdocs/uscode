@@ -17,7 +17,7 @@
 
     No funds collected by the Council shall be used in any manner for influencing legislation or elections, except that the Council may recommend to the Secretary changes in this chapter or other statutes that would further the purposes of this chapter.
 
-([Pub. L. 104–284, § 8][/us/pl/104/284/s8], Oct. 11, 1996, [110 Stat. 3375][/us/stat/110/3375].)
+([Pub. L. 104–284][/us/pl/104/284], § 8, Oct. 11, 1996, [110 Stat. 3375][/us/stat/110/3375].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/284/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F284%2Fs8
+[/us/pl/104/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F284
 [/us/stat/110/3375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3375
 
 

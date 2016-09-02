@@ -41,13 +41,13 @@
 
         The term “State” has the meaning given it in [section 15g(2) of this title][/us/usc/t15/s15g/2].
 
-([Pub. L. 104–63, § 3][/us/pl/104/63/s3], Dec. 8, 1995, [109 Stat. 687][/us/stat/109/687]; [Pub. L. 105–26, § 2(2)][/us/pl/105/26/s2/2], July 3, 1997, [111 Stat. 242][/us/stat/111/242].)
+([Pub. L. 104–63][/us/pl/104/63], § 3, Dec. 8, 1995, [109 Stat. 687][/us/stat/109/687]; [Pub. L. 105–26][/us/pl/105/26], § 2(2), July 3, 1997, [111 Stat. 242][/us/stat/111/242].)
 
  __Amendments__ 
 
-    1997—Pars. (1), (2). [Pub. L. 105–26, § 2(2)(A)][/us/pl/105/26/s2/2/A]–(C), added par. (2), redesignated former par. (2) as (1), and struck out heading and text of former par. (1). Text read as follows: “The term ‘annuity rate’ means the percentage of the fair market value of a gift (determined as of the date of the gift) given in exchange for a charitable gift annuity, that represents the amount of the annual payment to be made to 1 or 2 annuitants over the life of either or both under the terms of the agreement to give such gift in exchange for such annuity.”
+    1997—Pars. (1), (2). [Pub. L. 105–26][/us/pl/105/26], § 2(2)(A)–(C), added par. (2), redesignated former par. (2) as (1), and struck out heading and text of former par. (1). Text read as follows: “The term ‘annuity rate’ means the percentage of the fair market value of a gift (determined as of the date of the gift) given in exchange for a charitable gift annuity, that represents the amount of the annual payment to be made to 1 or 2 annuitants over the life of either or both under the terms of the agreement to give such gift in exchange for such annuity.”
 
-    Pars. (4) to (6). [Pub. L. 105–26, § 2(2)(D)][/us/pl/105/26/s2/2/D], (E), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+    Pars. (4) to (6). [Pub. L. 105–26][/us/pl/105/26], § 2(2)(D), (E), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
  __Effective Date of 1997 Amendment__ 
 
@@ -71,12 +71,12 @@
 [/us/usc/t26/s501/m/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fm%2F5
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/usc/t15/s15g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs15g%2F2
-[/us/pl/104/63/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F63%2Fs3
+[/us/pl/104/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F63
 [/us/stat/109/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F687
-[/us/pl/105/26/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F26%2Fs2%2F2
+[/us/pl/105/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F26
 [/us/stat/111/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F242
-[/us/pl/105/26/s2/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F26%2Fs2%2F2%2FA
-[/us/pl/105/26/s2/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F26%2Fs2%2F2%2FD
+[/us/pl/105/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F26
+[/us/pl/105/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F26
 [/us/pl/105/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F26
 [/us/pl/105/26/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F26%2Fs3
 [/us/usc/t15/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs37

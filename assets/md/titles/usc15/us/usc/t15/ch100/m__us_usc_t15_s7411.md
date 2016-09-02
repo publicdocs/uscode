@@ -17,7 +17,7 @@
 
     Within 24 months after November 27, 2002, the Director, in consultation with the Assistant to the President for National Security Affairs, shall submit to Congress a report reviewing this chapter to ensure that the programs and fellowships are being awarded under this chapter to individuals and institutions of higher education who are in compliance with the Immigration and Nationality Act ([8 U.S.C. 1101][/us/usc/t8/s1101] et seq.) in order to protect our national security.
 
-([Pub. L. 107–305, § 17][/us/pl/107/305/s17], Nov. 27, 2002, [116 Stat. 2381][/us/stat/116/2381].)
+([Pub. L. 107–305][/us/pl/107/305], § 17, Nov. 27, 2002, [116 Stat. 2381][/us/stat/116/2381].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/pl/107/305/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305%2Fs17
+[/us/pl/107/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305
 [/us/stat/116/2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2381
 [/us/pl/107/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305
 [/us/stat/116/2367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2367

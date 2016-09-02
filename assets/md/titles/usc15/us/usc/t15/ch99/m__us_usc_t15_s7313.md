@@ -17,7 +17,7 @@
 
     The National Institute of Standards and Technology is authorized to use funds otherwise authorized by law to carry out this chapter.
 
-([Pub. L. 107–231, § 15][/us/pl/107/231/s15], Oct. 1, 2002, [116 Stat. 1477][/us/stat/116/1477].)
+([Pub. L. 107–231][/us/pl/107/231], § 15, Oct. 1, 2002, [116 Stat. 1477][/us/stat/116/1477].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/231/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231%2Fs15
+[/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
 [/us/stat/116/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1477
 [/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
 [/us/stat/116/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1471

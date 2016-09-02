@@ -127,7 +127,7 @@
 
         The term “time of establishing a customer relationship” shall be defined by the regulations prescribed under [section 6804 of this title][/us/usc/t15/s6804], and shall, in the case of a financial institution engaged in extending credit directly to consumers to finance purchases of goods or services, mean the time of establishing the credit relationship with the consumer.
 
-([Pub. L. 106–102, title V, § 509][/us/pl/106/102/s509], Nov. 12, 1999, [113 Stat. 1443][/us/stat/113/1443].)
+([Pub. L. 106–102, title V][/us/pl/106/102/tV], § 509, Nov. 12, 1999, [113 Stat. 1443][/us/stat/113/1443].)
 
  __References in Text__ 
 
@@ -152,7 +152,7 @@
 [/us/usc/t15/s6804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6804
 [/us/usc/t15/s6804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6804
 [/us/usc/t15/s6804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6804
-[/us/pl/106/102/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs509
+[/us/pl/106/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtV
 [/us/stat/113/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1443
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/stat/113/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1436

@@ -17,7 +17,7 @@
 
     The purposes of this joint resolution are to aid in stabilizing the economy of the United States, to aid in curbing inflationary tendencies, to promote the orderly and equitable distribution of goods and facilities, and to aid in preventing maldistribution of goods and facilities which basically affect the cost of living or industrial production.
 
-([Dec. 30, 1947, ch. 526, § 1][/us/act/1947-12-30/ch526/s1], [61 Stat. 945][/us/stat/61/945].)
+([Dec. 30, 1947, ch. 526][/us/act/1947-12-30/ch526], § 1, [61 Stat. 945][/us/stat/61/945].)
 
  __References in Text__ 
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/act/1947-12-30/ch526/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-12-30%2Fch526%2Fs1
+[/us/act/1947-12-30/ch526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-12-30%2Fch526
 [/us/stat/61/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F945
 [/us/act/1947-12-30/ch526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-12-30%2Fch526
 [/us/stat/61/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F945

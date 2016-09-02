@@ -37,13 +37,13 @@
 
         when introduced into or while in commerce or while held for sale after shipment in commerce shall be liable to be proceeded against on libel of information and condemned in any district court of the United States within the jurisdiction of which such consumer product is found. Proceedings in cases instituted under the authority of this subsection shall conform as nearly as possible to proceedings in rem in admiralty. Whenever such proceedings involving substantially similar consumer products are pending in courts of two or more judicial districts they shall be consolidated for trial by order of any such court upon application reasonably made by any party in interest upon notice to all other parties in interest.
 
-([Pub. L. 92–573, § 22][/us/pl/92/573/s22], Oct. 27, 1972, [86 Stat. 1225][/us/stat/86/1225]; [Pub. L. 94–284][/us/pl/94/284], §§ 11(b), 12(c), May 11, 1976, [90 Stat. 507][/us/stat/90/507], 508.)
+([Pub. L. 92–573][/us/pl/92/573], § 22, Oct. 27, 1972, [86 Stat. 1225][/us/stat/86/1225]; [Pub. L. 94–284][/us/pl/94/284], §§ 11(b), 12(c), May 11, 1976, [90 Stat. 507][/us/stat/90/507], 508.)
 
  __Amendments__ 
 
     1976—Subsec. (a). [Pub. L. 94–284][/us/pl/94/284], §§ 11(b), 12(c)(1), designated existing provision as par. (1) and (3), added par. (2), and in provision following par. (3) substituted “(without regard to [section 2076(b)(7)(A) of this title][/us/usc/t15/s2076/b/7/A])” for “(with the concurrence of the Attorney General)”.
 
-    Subsec. (b). [Pub. L. 94–284, § 12(c)(2)][/us/pl/94/284/s12/c/2], amended subsec. (b) generally, inserting provision designated as par. (2) which included within consumer products liable to proceedings, a product of which the manufacture for sale, offering for sale, distribution in commerce, or importation into the United States has been prohibited.
+    Subsec. (b). [Pub. L. 94–284][/us/pl/94/284], § 12(c)(2), amended subsec. (b) generally, inserting provision designated as par. (2) which included within consumer products liable to proceedings, a product of which the manufacture for sale, offering for sale, distribution in commerce, or importation into the United States has been prohibited.
 
 ----------
 
@@ -56,12 +56,12 @@
 [/us/usc/t15/s2064/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2064%2Fd
 [/us/usc/t15/s2076/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2076%2Fb%2F7%2FA
 [/us/usc/t15/s2064/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2064%2Fd
-[/us/pl/92/573/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs22
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1225
 [/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/stat/90/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F507
 [/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/usc/t15/s2076/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2076%2Fb%2F7%2FA
-[/us/pl/94/284/s12/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs12%2Fc%2F2
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 
 

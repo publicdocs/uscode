@@ -143,7 +143,7 @@
 
         An individual described in section 101(f) of the Ethics in Government Act of 1978 may not purchase securities that are the subject of an initial public offering (within the meaning given such term in section 78l(f)(1)(G)(i) of this title) in any manner other than is available to members of the public generally.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 21A, as added [Pub. L. 100–704, § 3(a)(2)][/us/pl/100/704/s3/a/2], Nov. 19, 1988, [102 Stat. 4677][/us/stat/102/4677]; amended [Pub. L. 101–429, title II, § 202(b)][/us/pl/101/429/s202/b], Oct. 15, 1990, [104 Stat. 938][/us/stat/104/938]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 205(a)(4), title III, § 303(k), (l)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–426, 2763A–456, 2763A–457; [Pub. L. 107–204, title III, § 308(d)(2)][/us/pl/107/204/s308/d/2], July 30, 2002, [116 Stat. 785][/us/stat/116/785]; [Pub. L. 111–203, title VII, § 762(d)(7)][/us/pl/111/203/s762/d/7], title IX, § 923(b)(2), July 21, 2010, [124 Stat. 1761][/us/stat/124/1761], 1850; [Pub. L. 112–105][/us/pl/112/105], §§ 4(b)(2), 9(b)(2)(B), 12, Apr. 4, 2012, [126 Stat. 292][/us/stat/126/292], 297, 300.)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 21A, as added [Pub. L. 100–704][/us/pl/100/704], § 3(a)(2), Nov. 19, 1988, [102 Stat. 4677][/us/stat/102/4677]; amended [Pub. L. 101–429, title II][/us/pl/101/429/tII], § 202(b), Oct. 15, 1990, [104 Stat. 938][/us/stat/104/938]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 205(a)(4), title III, § 303(k), (l)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–426, 2763A–456, 2763A–457; [Pub. L. 107–204, title III][/us/pl/107/204/tIII], § 308(d)(2), July 30, 2002, [116 Stat. 785][/us/stat/116/785]; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 762(d)(7), title IX, § 923(b)(2), July 21, 2010, [124 Stat. 1761][/us/stat/124/1761], 1850; [Pub. L. 112–105][/us/pl/112/105], §§ 4(b)(2), 9(b)(2)(B), 12, Apr. 4, 2012, [126 Stat. 292][/us/stat/126/292], 297, 300.)
 
  __Amendment of Section__ 
 
@@ -153,7 +153,7 @@
 
     This chapter, referred to in subsecs. (a) and (d)(4), (5), was in the original “this title”, and this chapter, referred to in subsecs. (g)(1) and (h)(1), was in the original “this Act”. See References in Text note set out under [section 78a of this title][/us/usc/t15/s78a].
 
-    Subsec. (f) of section 78o of this title, referred to in subsec. (b)(1)(B), was redesignated (g) by [Pub. L. 111–203, title IX, § 929X(c)(1)][/us/pl/111/203/s929X/c/1], July 21, 2010, [124 Stat. 1870][/us/stat/124/1870].
+    Subsec. (f) of section 78o of this title, referred to in subsec. (b)(1)(B), was redesignated (g) by [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 929X(c)(1), July 21, 2010, [124 Stat. 1870][/us/stat/124/1870].
 
     Section 10 of the STOCK Act, referred to in subsecs. (g)(1) and (h)(1), is [section 10 of Pub. L. 112–105][/us/pl/112/105/s10], which is set out as a note under section 101 of the Ethics in Government Act of 1978, [Pub. L. 95–521][/us/pl/95/521], set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -163,31 +163,31 @@
 
  __Amendments__ 
 
-    2012—Subsec. (g). [Pub. L. 112–105, § 4(b)(2)][/us/pl/112/105/s4/b/2], added subsec. (g).
+    2012—Subsec. (g). [Pub. L. 112–105][/us/pl/112/105], § 4(b)(2), added subsec. (g).
 
-    Subsec. (h). [Pub. L. 112–105, § 9(b)(2)(B)][/us/pl/112/105/s9/b/2/B], added subsec. (h).
+    Subsec. (h). [Pub. L. 112–105][/us/pl/112/105], § 9(b)(2)(B), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 112–105, § 12][/us/pl/112/105/s12], added subsec (i).
+    Subsec. (i). [Pub. L. 112–105][/us/pl/112/105], § 12, added subsec (i).
 
-    2010—Subsec. (a)(1). [Pub. L. 111–203, § 762(d)(7)(A)][/us/pl/111/203/s762/d/7/A], struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreement” in introductory provisions.
+    2010—Subsec. (a)(1). [Pub. L. 111–203][/us/pl/111/203], § 762(d)(7)(A), struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreement” in introductory provisions.
 
-    Subsec. (d)(1). [Pub. L. 111–203, § 923(b)(2)(A)][/us/pl/111/203/s923/b/2/A], struck out “(subject to subsection (e) of this section)” after “shall” and inserted “and [section 78u–6 of this title][/us/usc/t15/s78u–6]” after “[section 7246 of this title][/us/usc/t15/s7246]”.
+    Subsec. (d)(1). [Pub. L. 111–203][/us/pl/111/203], § 923(b)(2)(A), struck out “(subject to subsection (e) of this section)” after “shall” and inserted “and [section 78u–6 of this title][/us/usc/t15/s78u–6]” after “[section 7246 of this title][/us/usc/t15/s7246]”.
 
-    Subsec. (e). [Pub. L. 111–203, § 923(b)(2)(B)][/us/pl/111/203/s923/b/2/B], (C), redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “Notwithstanding the provisions of subsection (d)(1) of this section, there shall be paid from amounts imposed as a penalty under this section and recovered by the Commission or the Attorney General, such sums, not to exceed 10 percent of such amounts, as the Commission deems appropriate, to the person or persons who provide information leading to the imposition of such penalty. Any determinations under this subsection, including whether, to whom, or in what amount to make payments, shall be in the sole discretion of the Commission, except that no such payment shall be made to any member, officer, or employee of any appropriate regulatory agency, the Department of Justice, or a self-regulatory organization. Any such determination shall be final and not subject to judicial review.”
+    Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 923(b)(2)(B), (C), redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “Notwithstanding the provisions of subsection (d)(1) of this section, there shall be paid from amounts imposed as a penalty under this section and recovered by the Commission or the Attorney General, such sums, not to exceed 10 percent of such amounts, as the Commission deems appropriate, to the person or persons who provide information leading to the imposition of such penalty. Any determinations under this subsection, including whether, to whom, or in what amount to make payments, shall be in the sole discretion of the Commission, except that no such payment shall be made to any member, officer, or employee of any appropriate regulatory agency, the Department of Justice, or a self-regulatory organization. Any such determination shall be final and not subject to judicial review.”
 
-    Subsec. (f). [Pub. L. 111–203, § 923(b)(2)(C)][/us/pl/111/203/s923/b/2/C], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 111–203][/us/pl/111/203], § 923(b)(2)(C), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-    [Pub. L. 111–203, § 762(d)(7)(B)][/us/pl/111/203/s762/d/7/B], which directed amendment of subsec. (g) by striking out “(as defined in section 206B of the Gramm-Leach-Bliley Act)”, was executed by making the strike out after “security-based swap agreements” in subsec. (f), to reflect the probable intent of Congress and the redesignation of subsec. (g) as (f) by [Pub. L. 111–203, § 923(b)(2)(C)][/us/pl/111/203/s923/b/2/C]. See above and Effective Date of 2010 Amendment note below.
+    [Pub. L. 111–203][/us/pl/111/203], § 762(d)(7)(B), which directed amendment of subsec. (g) by striking out “(as defined in section 206B of the Gramm-Leach-Bliley Act)”, was executed by making the strike out after “security-based swap agreements” in subsec. (f), to reflect the probable intent of Congress and the redesignation of subsec. (g) as (f) by [Pub. L. 111–203][/us/pl/111/203], § 923(b)(2)(C). See above and Effective Date of 2010 Amendment note below.
 
-    Subsec. (g). [Pub. L. 111–203, § 923(b)(2)(C)][/us/pl/111/203/s923/b/2/C], redesignated subsec. (g) as (f).
+    Subsec. (g). [Pub. L. 111–203][/us/pl/111/203], § 923(b)(2)(C), redesignated subsec. (g) as (f).
 
     2002—Subsec. (d)(1). [Pub. L. 107–204][/us/pl/107/204] inserted “, except as otherwise provided in [section 7246 of this title][/us/usc/t15/s7246]” before period at end.
 
-    2000—Subsec. (a)(1). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title III, § 303(k)\], inserted “or security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act)” after “purchasing or selling a security” in introductory provisions.
+    2000—Subsec. (a)(1). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title III, § 303(k)\], inserted “or security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act)” after “purchasing or selling a security” in introductory provisions.
 
-    [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 205(a)(4)\], substituted “standardized options or security futures products, the Commission—” for “standardized options, the Commission—” in introductory provisions.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 205(a)(4)\], substituted “standardized options or security futures products, the Commission—” for “standardized options, the Commission—” in introductory provisions.
 
-    Subsec. (g). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title III, § 303(l)\], added subsec. (g).
+    Subsec. (g). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title III, § 303(l)\], added subsec. (g).
 
     1990—[Pub. L. 101–429][/us/pl/101/429] inserted “for insider trading” in section catchline.
 
@@ -207,17 +207,17 @@
 
  __Affirmation of Duty Of Government Officers and Employees__ 
 
-[Pub. L. 112–105, § 4(b)(1)][/us/pl/112/105/s4/b/1], Apr. 4, 2012, [126 Stat. 292][/us/stat/126/292], provided that: 
+[Pub. L. 112–105][/us/pl/112/105], § 4(b)(1), Apr. 4, 2012, [126 Stat. 292][/us/stat/126/292], provided that: 
 
 > “The purpose of the amendment made by this subsection \[amending this section\] is to affirm a duty arising from a relationship of trust and confidence owed by each Member of Congress and each employee of Congress.”
 
-[Pub. L. 112–105, § 9(b)(2)(A)][/us/pl/112/105/s9/b/2/A], Apr. 4, 2012, [126 Stat. 297][/us/stat/126/297], provided that: 
+[Pub. L. 112–105][/us/pl/112/105], § 9(b)(2)(A), Apr. 4, 2012, [126 Stat. 297][/us/stat/126/297], provided that: 
 
 > “The purpose of the amendment made by this paragraph \[amending this section\] is to affirm a duty arising from a relationship of trust and confidence owed by each executive branch employee, judicial officer, and judicial employee.”
 
  __Congressional Findings__ 
 
-[Pub. L. 100–704, § 2][/us/pl/100/704/s2], Nov. 19, 1988, [102 Stat. 4677][/us/stat/102/4677], provided that: 
+[Pub. L. 100–704][/us/pl/100/704], § 2, Nov. 19, 1988, [102 Stat. 4677][/us/stat/102/4677], provided that: 
 
 > “The Congress finds that—
 
@@ -229,7 +229,7 @@
 
  __Commission Recommendations for Additional Civil Penalty Authority Required__ 
 
-[Pub. L. 100–704, § 3(c)][/us/pl/100/704/s3/c], Nov. 19, 1988, [102 Stat. 4680][/us/stat/102/4680], provided that: 
+[Pub. L. 100–704][/us/pl/100/704], § 3(c), Nov. 19, 1988, [102 Stat. 4680][/us/stat/102/4680], provided that: 
 
 > “The Securities and Exchange Commission shall, within 60 days after the date of enactment of this Act \[Nov. 19, 1988\], submit to each House of the Congress any recommendations the Commission considers appropriate with respect to the extension of the Commission’s authority to seek civil penalties or impose administrative fines for violations other than those described in section 21A of the Securities Exchange Act of 1934 \[[15 U.S.C. 78u–1][/us/usc/t15/s78u–1]\] (as added by this section).”
 
@@ -250,43 +250,43 @@
 [/us/usc/t15/s78j/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78j%2Fb
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/100/704/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F704%2Fs3%2Fa%2F2
+[/us/pl/100/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F704
 [/us/stat/102/4677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4677
-[/us/pl/101/429/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2Fs202%2Fb
+[/us/pl/101/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2FtII
 [/us/stat/104/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F938
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/204/s308/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs308%2Fd%2F2
+[/us/pl/107/204/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtIII
 [/us/stat/116/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F785
-[/us/pl/111/203/s762/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fd%2F7
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1761
 [/us/pl/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105
 [/us/stat/126/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F292
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/111/203/s929X/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929X%2Fc%2F1
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1870
 [/us/pl/112/105/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105%2Fs10
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/pl/95/521/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs109
 [/us/pl/95/521/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs101%2Ff
-[/us/pl/112/105/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105%2Fs4%2Fb%2F2
-[/us/pl/112/105/s9/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105%2Fs9%2Fb%2F2%2FB
-[/us/pl/112/105/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105%2Fs12
-[/us/pl/111/203/s762/d/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fd%2F7%2FA
-[/us/pl/111/203/s923/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs923%2Fb%2F2%2FA
+[/us/pl/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105
+[/us/pl/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105
+[/us/pl/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78u–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78u%E2%80%936
 [/us/usc/t15/s7246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7246
-[/us/pl/111/203/s923/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs923%2Fb%2F2%2FB
-[/us/pl/111/203/s923/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs923%2Fb%2F2%2FC
-[/us/pl/111/203/s762/d/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fd%2F7%2FB
-[/us/pl/111/203/s923/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs923%2Fb%2F2%2FC
-[/us/pl/111/203/s923/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs923%2Fb%2F2%2FC
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/usc/t15/s7246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7246
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/101/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429
 [/us/pl/111/203/s923/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs923%2Fb%2F2
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
@@ -299,14 +299,14 @@
 [/us/pl/101/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429
 [/us/usc/t15/s77g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77g
 [/us/pl/100/704/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F704%2Fs9
-[/us/pl/112/105/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105%2Fs4%2Fb%2F1
+[/us/pl/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105
 [/us/stat/126/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F292
-[/us/pl/112/105/s9/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105%2Fs9%2Fb%2F2%2FA
+[/us/pl/112/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F105
 [/us/stat/126/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F297
-[/us/pl/100/704/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F704%2Fs2
+[/us/pl/100/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F704
 [/us/stat/102/4677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4677
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/100/704/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F704%2Fs3%2Fc
+[/us/pl/100/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F704
 [/us/stat/102/4680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4680
 [/us/usc/t15/s78u–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78u%E2%80%931
 

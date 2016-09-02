@@ -23,7 +23,7 @@
 
     subject in either case to the requirement that any distribution procedure adopted afford each person a reasonable opportunity to secure his appropriate portion of the net monetary relief.
 
-([Oct. 15, 1914, ch. 323, § 4E][/us/act/1914-10-15/ch323/s4E], as added [Pub. L. 94–435, title III, § 301][/us/pl/94/435/s301], Sept. 30, 1976, [90 Stat. 1395][/us/stat/90/1395].)
+([Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], § 4E, as added [Pub. L. 94–435, title III][/us/pl/94/435/tIII], § 301, Sept. 30, 1976, [90 Stat. 1395][/us/stat/90/1395].)
 
  __Effective Date__ 
 
@@ -37,8 +37,8 @@
 ----------
 
 [/us/usc/t15/s15c/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs15c%2Fa%2F1
-[/us/act/1914-10-15/ch323/s4E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323%2Fs4E
-[/us/pl/94/435/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs301
+[/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
+[/us/pl/94/435/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2FtIII
 [/us/stat/90/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1395
 [/us/pl/94/435/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs304
 [/us/usc/t15/s15c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs15c

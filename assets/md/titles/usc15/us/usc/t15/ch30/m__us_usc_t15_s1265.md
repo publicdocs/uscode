@@ -39,7 +39,7 @@
 
         (2) the court to which such case is removed shall have the powers and be subject to the duties, for purposes of such case, which the court from which removal was made would have had, or to which such court would have been subject, if such case had not been removed.
 
-([Pub. L. 86–613, § 6][/us/pl/86/613/s6], July 12, 1960, [74 Stat. 376][/us/stat/74/376]; [Pub. L. 89–756][/us/pl/89/756], §§ 2(h), 3(d), Nov. 3, 1966, [80 Stat. 1304][/us/stat/80/1304], 1305; [Pub. L. 110–314, title II, § 204(b)(4)(B)][/us/pl/110/314/s204/b/4/B], Aug. 14, 2008, [122 Stat. 3041][/us/stat/122/3041].)
+([Pub. L. 86–613][/us/pl/86/613], § 6, July 12, 1960, [74 Stat. 376][/us/stat/74/376]; [Pub. L. 89–756][/us/pl/89/756], §§ 2(h), 3(d), Nov. 3, 1966, [80 Stat. 1304][/us/stat/80/1304], 1305; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 204(b)(4)(B), Aug. 14, 2008, [122 Stat. 3041][/us/stat/122/3041].)
 
  __Amendments__ 
 
@@ -56,11 +56,11 @@
 
 [/us/usc/t15/s1263/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1263%2Ff
 [/us/usc/t15/s1263/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1263%2Fg
-[/us/pl/86/613/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs6
+[/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/stat/74/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F376
 [/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
 [/us/stat/80/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1304
-[/us/pl/110/314/s204/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FB
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3041
 [/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756

@@ -17,7 +17,7 @@
 
     Any person knowingly violating any provision of this chapter or any regulation prescribed thereunder shall upon conviction be punished by a fine of not to exceed $2,000 or by imprisonment for not to exceed six months, or by both such fine and imprisonment.
 
-([Feb. 22, 1935, ch. 18, § 6][/us/act/1935-02-22/ch18/s6], [49 Stat. 32][/us/stat/49/32].)
+([Feb. 22, 1935, ch. 18][/us/act/1935-02-22/ch18], § 6, [49 Stat. 32][/us/stat/49/32].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1935-02-22/ch18/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-02-22%2Fch18%2Fs6
+[/us/act/1935-02-22/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-02-22%2Fch18
 [/us/stat/49/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F32
 
 

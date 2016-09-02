@@ -27,7 +27,7 @@
 
         The Commission may exempt any person from the application of subsection (a), as it deems necessary and appropriate.
 
-([Pub. L. 107–204, title III, § 304][/us/pl/107/204/s304], July 30, 2002, [116 Stat. 778][/us/stat/116/778].)
+([Pub. L. 107–204, title III][/us/pl/107/204/tIII], § 304, July 30, 2002, [116 Stat. 778][/us/stat/116/778].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/107/204/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs304
+[/us/pl/107/204/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtIII
 [/us/stat/116/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F778
 
 

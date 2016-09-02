@@ -65,11 +65,11 @@
 
         (2) For purposes of this section, <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  a particular model of a consumer product is one that is distinctive in functional design, construction, warnings or instructions related to safety, function, user population, or other characteristics which could affect the product’s safety related performance.
 
-([Pub. L. 92–573, § 37][/us/pl/92/573/s37], as added [Pub. L. 101–608, title I, § 112(b)][/us/pl/101/608/s112/b], Nov. 16, 1990, [104 Stat. 3115][/us/stat/104/3115].)
+([Pub. L. 92–573][/us/pl/92/573], § 37, as added [Pub. L. 101–608, title I][/us/pl/101/608/tI], § 112(b), Nov. 16, 1990, [104 Stat. 3115][/us/stat/104/3115].)
 
  __Congressional Reports__ 
 
-[Pub. L. 101–608, title I, § 112(f)][/us/pl/101/608/s112/f], Nov. 16, 1990, [104 Stat. 3117][/us/stat/104/3117], provided that:
+[Pub. L. 101–608, title I][/us/pl/101/608/tI], § 112(f), Nov. 16, 1990, [104 Stat. 3117][/us/stat/104/3117], provided that:
 
 >     “(1)
 
@@ -100,10 +100,10 @@
 ----------
 ----------
 
-[/us/pl/92/573/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs37
-[/us/pl/101/608/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs112%2Fb
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
+[/us/pl/101/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2FtI
 [/us/stat/104/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3115
-[/us/pl/101/608/s112/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs112%2Ff
+[/us/pl/101/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2FtI
 [/us/stat/104/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3117
 [/us/usc/t15/s2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2084
 [/us/usc/t15/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2051

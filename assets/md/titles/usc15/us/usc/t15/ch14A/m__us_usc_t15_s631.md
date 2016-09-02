@@ -157,11 +157,11 @@
 
         (3) avoid unnecessary and unjustified bundling of contract requirements that precludes small business participation in procurements as prime contractors.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[2\], July 18, 1958, [72 Stat. 384][/us/stat/72/384]; [Pub. L. 87–70, title III, § 305(b)][/us/pl/87/70/s305/b], June 30, 1961, [75 Stat. 167][/us/stat/75/167]; [Pub. L. 87–305, § 6][/us/pl/87/305/s6], Sept. 26, 1961, [75 Stat. 667][/us/stat/75/667]; [Pub. L. 93–386, § 2(a)(1)][/us/pl/93/386/s2/a/1], Aug. 23, 1974, [88 Stat. 742][/us/stat/88/742]; [Pub. L. 94–305, title I, § 112(a)][/us/pl/94/305/s112/a], June 4, 1976, [90 Stat. 667][/us/stat/90/667]; [Pub. L. 95–507, title II][/us/pl/95/507], §§ 201, 203, Oct. 24, 1978, [92 Stat. 1760][/us/stat/92/1760], 1763; [Pub. L. 96–302, title I, § 118(a)][/us/pl/96/302/s118/a], July 2, 1980, [94 Stat. 840][/us/stat/94/840]; [Pub. L. 99–272, title XVIII, § 18015(a)][/us/pl/99/272/s18015/a], Apr. 7, 1986, [100 Stat. 370][/us/stat/100/370]; [Pub. L. 100–418, title VIII, § 8002][/us/pl/100/418/s8002], Aug. 23, 1988, [102 Stat. 1553][/us/stat/102/1553]; [Pub. L. 100–533, title I, § 101][/us/pl/100/533/s101], Oct. 25, 1988, [102 Stat. 2689][/us/stat/102/2689]; [Pub. L. 100–590, title I, § 118][/us/pl/100/590/s118], Nov. 3, 1988, [102 Stat. 2999][/us/stat/102/2999]; [Pub. L. 100–656, title II][/us/pl/100/656], §§ 204, 207(b), Nov. 15, 1988, [102 Stat. 3859][/us/stat/102/3859], 3861; [Pub. L. 101–37, § 6(c)][/us/pl/101/37/s6/c], June 15, 1989, [103 Stat. 72][/us/stat/103/72]; [Pub. L. 103–403, title VI, § 609][/us/pl/103/403/s609], Oct. 22, 1994, [108 Stat. 4204][/us/stat/108/4204]; [Pub. L. 105–135, title IV, § 411][/us/pl/105/135/s411], Dec. 2, 1997, [111 Stat. 2617][/us/stat/111/2617]; [Pub. L. 111–240, title I, § 1203(d)][/us/pl/111/240/s1203/d], Sept. 27, 2010, [124 Stat. 2522][/us/stat/124/2522].)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[2\], July 18, 1958, [72 Stat. 384][/us/stat/72/384]; [Pub. L. 87–70, title III][/us/pl/87/70/tIII], § 305(b), June 30, 1961, [75 Stat. 167][/us/stat/75/167]; [Pub. L. 87–305][/us/pl/87/305], § 6, Sept. 26, 1961, [75 Stat. 667][/us/stat/75/667]; [Pub. L. 93–386][/us/pl/93/386], § 2(a)(1), Aug. 23, 1974, [88 Stat. 742][/us/stat/88/742]; [Pub. L. 94–305, title I][/us/pl/94/305/tI], § 112(a), June 4, 1976, [90 Stat. 667][/us/stat/90/667]; [Pub. L. 95–507, title II][/us/pl/95/507/tII], §§ 201, 203, Oct. 24, 1978, [92 Stat. 1760][/us/stat/92/1760], 1763; [Pub. L. 96–302, title I][/us/pl/96/302/tI], § 118(a), July 2, 1980, [94 Stat. 840][/us/stat/94/840]; [Pub. L. 99–272, title XVIII][/us/pl/99/272/tXVIII], § 18015(a), Apr. 7, 1986, [100 Stat. 370][/us/stat/100/370]; [Pub. L. 100–418, title VIII][/us/pl/100/418/tVIII], § 8002, Aug. 23, 1988, [102 Stat. 1553][/us/stat/102/1553]; [Pub. L. 100–533, title I][/us/pl/100/533/tI], § 101, Oct. 25, 1988, [102 Stat. 2689][/us/stat/102/2689]; [Pub. L. 100–590, title I][/us/pl/100/590/tI], § 118, Nov. 3, 1988, [102 Stat. 2999][/us/stat/102/2999]; [Pub. L. 100–656, title II][/us/pl/100/656/tII], §§ 204, 207(b), Nov. 15, 1988, [102 Stat. 3859][/us/stat/102/3859], 3861; [Pub. L. 101–37][/us/pl/101/37], § 6(c), June 15, 1989, [103 Stat. 72][/us/stat/103/72]; [Pub. L. 103–403, title VI][/us/pl/103/403/tVI], § 609, Oct. 22, 1994, [108 Stat. 4204][/us/stat/108/4204]; [Pub. L. 105–135, title IV][/us/pl/105/135/tIV], § 411, Dec. 2, 1997, [111 Stat. 2617][/us/stat/111/2617]; [Pub. L. 111–240, title I][/us/pl/111/240/tI], § 1203(d), Sept. 27, 2010, [124 Stat. 2522][/us/stat/124/2522].)
 
  __Codification__ 
 
-    This chapter was originally enacted as title II of [act July 30, 1953, ch. 282][/us/act/1953-07-30/ch282], [67 Stat. 232][/us/stat/67/232], and designated as the “Small Business Act of 1953”. Title II of act July 30, 1953, was amended by acts [June 30, 1955, ch. 251, § 4][/us/act/1955-06-30/ch251/s4], [69 Stat. 225][/us/stat/69/225]; [Aug. 9, 1955, ch. 628][/us/act/1955-08-09/ch628], [69 Stat. 547][/us/stat/69/547]; [Feb. 2, 1956, ch. 29][/us/act/1956-02-02/ch29], §§ 1, 2, [70 Stat. 10][/us/stat/70/10]; [Pub. L. 85–4][/us/pl/85/4], Feb. 11, 1957, [71 Stat. 4][/us/stat/71/4]; [Pub. L. 85–120][/us/pl/85/120], §§ 1, 2, Aug. 3, 1957, [71 Stat. 341][/us/stat/71/341]; [Pub. L. 85–335][/us/pl/85/335], Feb. 22, 1958, [72 Stat. 27][/us/stat/72/27]. [Section 1 of Pub. L. 85–536][/us/pl/85/536/s1] withdrew title II of act July 30, 1953, as part of that act, and made title II a separate act to be known as the “Small Business Act”. The Small Business Act, as amended by [Pub. L. 85–536][/us/pl/85/536], is classified to this chapter.
+    This chapter was originally enacted as title II of [act July 30, 1953, ch. 282][/us/act/1953-07-30/ch282], [67 Stat. 232][/us/stat/67/232], and designated as the “Small Business Act of 1953”. Title II of act July 30, 1953, was amended by acts [June 30, 1955, ch. 251][/us/act/1955-06-30/ch251], § 4, [69 Stat. 225][/us/stat/69/225]; [Aug. 9, 1955, ch. 628][/us/act/1955-08-09/ch628], [69 Stat. 547][/us/stat/69/547]; [Feb. 2, 1956, ch. 29][/us/act/1956-02-02/ch29], §§ 1, 2, [70 Stat. 10][/us/stat/70/10]; [Pub. L. 85–4][/us/pl/85/4], Feb. 11, 1957, [71 Stat. 4][/us/stat/71/4]; [Pub. L. 85–120][/us/pl/85/120], §§ 1, 2, Aug. 3, 1957, [71 Stat. 341][/us/stat/71/341]; [Pub. L. 85–335][/us/pl/85/335], Feb. 22, 1958, [72 Stat. 27][/us/stat/72/27]. [Section 1 of Pub. L. 85–536][/us/pl/85/536/s1] withdrew title II of act July 30, 1953, as part of that act, and made title II a separate act to be known as the “Small Business Act”. The Small Business Act, as amended by [Pub. L. 85–536][/us/pl/85/536], is classified to this chapter.
 
  __Amendments__ 
 
@@ -171,15 +171,15 @@
 
     1994—Subsec. (i). [Pub. L. 103–403][/us/pl/103/403] added subsec. (i).
 
-    1989—Subsec. (f). [Pub. L. 101–37][/us/pl/101/37] made technical correction to directory language of [Pub. L. 100–656, § 207(b)][/us/pl/100/656/s207/b], which did not result in any change in text, see 1988 Amendment note below.
+    1989—Subsec. (f). [Pub. L. 101–37][/us/pl/101/37] made technical correction to directory language of [Pub. L. 100–656][/us/pl/100/656], § 207(b), which did not result in any change in text, see 1988 Amendment note below.
 
     1988—Subsecs. (b), (c). [Pub. L. 100–418][/us/pl/100/418] added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
     Subsec. (d). [Pub. L. 100–418][/us/pl/100/418] redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (d)(2)(A)(v). [Pub. L. 100–656, § 204(b)][/us/pl/100/656/s204/b], which directed amendment of subsec. (c)(2)(A)(v) by striking out “sole source” after “power to let” was executed to subsec. (d)(2)(A)(v) to reflect the probable intent of Congress and the intervening redesignation of subsec. (c) as (d) by [Pub. L. 100–418][/us/pl/100/418].
+    Subsec. (d)(2)(A)(v). [Pub. L. 100–656][/us/pl/100/656], § 204(b), which directed amendment of subsec. (c)(2)(A)(v) by striking out “sole source” after “power to let” was executed to subsec. (d)(2)(A)(v) to reflect the probable intent of Congress and the intervening redesignation of subsec. (c) as (d) by [Pub. L. 100–418][/us/pl/100/418].
 
-    Subsec. (d)(2)(B). [Pub. L. 100–656, § 204(a)(1)][/us/pl/100/656/s204/a/1], which directed general amendment of subsec. (c)(2)(B), was executed to subsec. (d)(2)(B) to reflect the probable intent of Congress and the intervening redesignation of subsec. (c) as (d) by [Pub. L. 100–418][/us/pl/100/418]. Prior to amendment, subpar. (B) read as follows: “It is, therefore, the purpose of the programs authorized by [section 636(j) of this title][/us/usc/t15/s636/j] to—
+    Subsec. (d)(2)(B). [Pub. L. 100–656][/us/pl/100/656], § 204(a)(1), which directed general amendment of subsec. (c)(2)(B), was executed to subsec. (d)(2)(B) to reflect the probable intent of Congress and the intervening redesignation of subsec. (c) as (d) by [Pub. L. 100–418][/us/pl/100/418]. Prior to amendment, subpar. (B) read as follows: “It is, therefore, the purpose of the programs authorized by [section 636(j) of this title][/us/usc/t15/s636/j] to—
 
     “(i) foster business ownership by individuals in groups that own and control little productive capital; and
 
@@ -187,9 +187,9 @@
 
     Subsecs. (e), (f). [Pub. L. 100–418][/us/pl/100/418] redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
-    Subsec. (f)(1)(C). [Pub. L. 100–656, § 207(b)][/us/pl/100/656/s207/b], as amended by [Pub. L. 101–37][/us/pl/101/37], which directed amendment of subsec. (e)(1)(C) by inserting “Native Hawaiian Organizations,” was executed to subsec. (f)(1)(C) to reflect the probable intent of Congress and the intervening redesignation of subsec. (e) as (f) by [Pub. L. 100–418][/us/pl/100/418].
+    Subsec. (f)(1)(C). [Pub. L. 100–656][/us/pl/100/656], § 207(b), as amended by [Pub. L. 101–37][/us/pl/101/37], which directed amendment of subsec. (e)(1)(C) by inserting “Native Hawaiian Organizations,” was executed to subsec. (f)(1)(C) to reflect the probable intent of Congress and the intervening redesignation of subsec. (e) as (f) by [Pub. L. 100–418][/us/pl/100/418].
 
-    Subsec. (f)(2). [Pub. L. 100–656, § 204(a)(2)][/us/pl/100/656/s204/a/2], which directed general amendment of subsec. (e)(2), was executed to subsec. (f)(2) to reflect the probable intent of Congress and the intervening redesignation of subsec. (e) as (f) by [Pub. L. 100–418][/us/pl/100/418]. Prior to amendment, par. (2) read as follows: “It is, therefore, the purpose of [section 637(a) of this title][/us/usc/t15/s637/a] to—
+    Subsec. (f)(2). [Pub. L. 100–656][/us/pl/100/656], § 204(a)(2), which directed general amendment of subsec. (e)(2), was executed to subsec. (f)(2) to reflect the probable intent of Congress and the intervening redesignation of subsec. (e) as (f) by [Pub. L. 100–418][/us/pl/100/418]. Prior to amendment, par. (2) read as follows: “It is, therefore, the purpose of [section 637(a) of this title][/us/usc/t15/s637/a] to—
 
     “(A) foster business ownership by individuals who are both socially and economically disadvantaged;
 
@@ -197,7 +197,7 @@
 
     “(C) clarify and expand the program for the procurement by the United States of articles, equipment, supplies, services, materials, and construction work from small business concerns owned by socially and economically disadvantaged individuals.”
 
-    Subsec. (g). [Pub. L. 100–590, § 118][/us/pl/100/590/s118], added subsec. (g).
+    Subsec. (g). [Pub. L. 100–590][/us/pl/100/590], § 118, added subsec. (g).
 
     Subsec. (h). [Pub. L. 100–533][/us/pl/100/533] added subsec. (h).
 
@@ -205,9 +205,9 @@
 
     1980—Subsec. (e)(1)(C). [Pub. L. 96–302][/us/pl/96/302] included among the disadvantaged minorities Asian Pacific Americans.
 
-    1978—Subsec. (c). [Pub. L. 95–507, § 203][/us/pl/95/507/s203], designated existing provisions as par. (1) and added par. (2).
+    1978—Subsec. (c). [Pub. L. 95–507][/us/pl/95/507], § 203, designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (e). [Pub. L. 95–507, § 201][/us/pl/95/507/s201], added subsec. (e).
+    Subsec. (e). [Pub. L. 95–507][/us/pl/95/507], § 201, added subsec. (e).
 
     1976—Subsecs. (b) to (d). [Pub. L. 94–305][/us/pl/94/305] added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
@@ -219,19 +219,19 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–135, § 3][/us/pl/105/135/s3], Dec. 2, 1997, [111 Stat. 2593][/us/stat/111/2593], provided that: 
+[Pub. L. 105–135][/us/pl/105/135], § 3, Dec. 2, 1997, [111 Stat. 2593][/us/stat/111/2593], provided that: 
 
 > “This Act \[see Short Title of 1997 Amendment note below\] and the amendments made by this Act shall take effect on October 1, 1997.”
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–37, § 32][/us/pl/101/37/s32], June 15, 1989, [103 Stat. 77][/us/stat/103/77], provided that: 
+[Pub. L. 101–37][/us/pl/101/37], § 32, June 15, 1989, [103 Stat. 77][/us/stat/103/77], provided that: 
 
 > “The amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall apply as if included in the Business Opportunity Development Reform Act of 1988 \[[Pub. L. 100–656][/us/pl/100/656]\].”
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–656, title VIII, § 803][/us/pl/100/656/s803], Nov. 15, 1988, [102 Stat. 3899][/us/stat/102/3899], as amended by [Pub. L. 101–37, § 31][/us/pl/101/37/s31], June 15, 1989, [103 Stat. 76][/us/stat/103/76], provided that:
+[Pub. L. 100–656, title VIII][/us/pl/100/656/tVIII], § 803, Nov. 15, 1988, [102 Stat. 3899][/us/stat/102/3899], as amended by [Pub. L. 101–37][/us/pl/101/37], § 31, June 15, 1989, [103 Stat. 76][/us/stat/103/76], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -285,331 +285,331 @@
 
 >             “(D) Section 7(j)(13)(E) of the Small Business Act \[[section 636(j)(13)(E) of this title][/us/usc/t15/s636/j/13/E]\] (as added by section 301(b) of this Act).”
 
-[Pub. L. 100–590, title I, § 137][/us/pl/100/590/s137], Nov. 3, 1988, [102 Stat. 3007][/us/stat/102/3007], provided that: 
+[Pub. L. 100–590, title I][/us/pl/100/590/tI], § 137, Nov. 3, 1988, [102 Stat. 3007][/us/stat/102/3007], provided that: 
 
 > “This title \[enacting sections 687m and 697c of this title, amending this section and sections 631b, 632, 633, 634, 636, 637, 638, 644, 648, 681, 687, and 695 to 697b of this title, repealing [section 694 of this title][/us/usc/t15/s694], enacting provisions set out as notes under this section and sections 636, 637, 639, 644, 694, and 697 of this title, and amending provisions set out as notes under this section and [section 637 of this title][/us/usc/t15/s637]\] shall be effective on the date of enactment \[Nov. 3, 1988\], except that sections 118 through 122 \[amending this section and sections 632 and 636 of this title\] shall be effective for all loan applications resulting from disaster declarations made on or after August 1, 1988, or from disaster declarations whose filing periods were open on October 1, 1988. Any new credit authority provided for in this Act \[see Short Title of 1988 Amendment note below\] is to be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.”
 
-[Pub. L. 100–418, title VIII, § 8014][/us/pl/100/418/s8014], Aug. 23, 1988, [102 Stat. 1563][/us/stat/102/1563], provided that: 
+[Pub. L. 100–418, title VIII][/us/pl/100/418/tVIII], § 8014, Aug. 23, 1988, [102 Stat. 1563][/us/stat/102/1563], provided that: 
 
 > “This title \[amending this section and sections 636, 648, 649, and 696 of this title, enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and [section 638 of this title][/us/usc/t15/s638]\] shall become effective on the date of its enactment \[Aug. 23, 1988\].”
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–35, title XIX, § 1918][/us/pl/97/35/s1918], Aug. 13, 1981, [95 Stat. 781][/us/stat/95/781], provided that: 
+[Pub. L. 97–35, title XIX][/us/pl/97/35/tXIX], § 1918, Aug. 13, 1981, [95 Stat. 781][/us/stat/95/781], provided that: 
 
 > “Sections 1908, 1909, and 1913 of this title \[amending sections 633, 636, and 696 of this title\] shall be effective October 1, 1981, and [section 1910 of this title][/us/usc/t15/s1910] \[amending [section 636 of this title][/us/usc/t15/s636]\] shall be effective as provided therein \[Oct. 1, 1985\]. All other provisions of this title \[amending sections 632, 633, 636, and 639 of this title, repealing [section 636a of this title][/us/usc/t15/s636a], enacting provisions set out as notes under this section and [section 636 of this title][/us/usc/t15/s636], and amending provisions set out as notes under this section\] shall be effective immediately \[Aug. 13, 1981\] but shall not affect any financing made, obligated, or committed under the Small Business Act \[this chapter\] or the Small Business Investment Act of 1958 \[chapter 14B of this title\] prior to the effective date hereof.”
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–302, title V, § 507][/us/pl/96/302/s507], July 2, 1980, [94 Stat. 854][/us/stat/94/854], provided that: 
+[Pub. L. 96–302, title V][/us/pl/96/302/tV], § 507, July 2, 1980, [94 Stat. 854][/us/stat/94/854], provided that: 
 
 > “This Act \[enacting sections 631a, 631b, 648, and 697 of this title, amending this section, sections 632, 633, 634, 634d, 636, 637, 644, 647, 694–2, 694b, and 694c of this title, [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees, and sections 1961 and 1964 of Title 7, Agriculture, enacting provisions set out as notes under this section and sections 636, 637, and 648 of this title, and amending provisions set out as a note under this section\] shall take effect October 1, 1980.”
 
  __Short Title of 2015 Amendment__ 
 
-[Pub. L. 114–88, § 1(a)][/us/pl/114/88/s1/a], Nov. 25, 2015, [129 Stat. 686][/us/stat/129/686], provided that: 
+[Pub. L. 114–88][/us/pl/114/88], § 1(a), Nov. 25, 2015, [129 Stat. 686][/us/stat/129/686], provided that: 
 
 > “This Act \[amending sections 636, 644, 648, 657d, and 657j of this title and enacting provisions set out as notes under this section and sections 636 and 657l of this title\] may be cited as the ‘Recovery Improvements for Small Entities After Disaster Act of 2015’ or the ‘RISE After Disaster Act of 2015’.”
 
  \[For identical short title, see below.\]
 
-[Pub. L. 114–88, div. A, § 1001][/us/pl/114/88/s1001], Nov. 25, 2015, [129 Stat. 687][/us/stat/129/687], provided that: 
+[Pub. L. 114–88, div. A][/us/pl/114/88/dA], § 1001, Nov. 25, 2015, [129 Stat. 687][/us/stat/129/687], provided that: 
 
 > “This division \[amending [section 636 of this title][/us/usc/t15/s636] and enacting provisions set out as notes under sections 636 and 657l of this title\] may be cited as the ‘Superstorm Sandy Relief and Disaster Loan Program Improvement Act of 2015’.”
 
-[Pub. L. 114–88, div. B, § 2001][/us/pl/114/88/s2001], Nov. 25, 2015, [129 Stat. 689][/us/stat/129/689], provided that: 
+[Pub. L. 114–88, div. B][/us/pl/114/88/dB], § 2001, Nov. 25, 2015, [129 Stat. 689][/us/stat/129/689], provided that: 
 
 > “This division \[amending sections 636, 644, 648, 657d, and 657j of this title and enacting provisions set out as a note under [section 636 of this title][/us/usc/t15/s636]\] may be cited as the ‘Recovery Improvements for Small Entities After Disaster Act of 2015’ or the ‘RISE After Disaster Act of 2015’.”
 
  \[For identical short title, see above.\]
 
-[Pub. L. 114–38, § 1][/us/pl/114/38/s1], July 28, 2015, [129 Stat. 437][/us/stat/129/437], provided that: 
+[Pub. L. 114–38][/us/pl/114/38], § 1, July 28, 2015, [129 Stat. 437][/us/stat/129/437], provided that: 
 
 > “This Act \[amending [section 636 of this title][/us/usc/t15/s636]\] may be cited as the ‘Veterans Entrepreneurship Act of 2015’.”
 
  __Short Title of 2011 Amendment__ 
 
-[Pub. L. 112–81, div. E, title L, § 5001][/us/pl/112/81/s5001], Dec. 31, 2011, [125 Stat. 1822][/us/stat/125/1822], provided that: 
+[Pub. L. 112–81, div. E, title L][/us/pl/112/81/dE/tL], § 5001, Dec. 31, 2011, [125 Stat. 1822][/us/stat/125/1822], provided that: 
 
 > “This division \[enacting sections 638a and 638b of this title, amending sections 632 and 638 of this title, enacting provisions set out as notes under sections 638 and 638b of this title, and amending provisions set out as a note under [section 638 of this title][/us/usc/t15/s638]\] may be cited as the ‘SBIR/STTR Reauthorization Act of 2011’.”
 
-[Pub. L. 112–17, § 1][/us/pl/112/17/s1], June 1, 2011, [125 Stat. 221][/us/stat/125/221], provided that: 
+[Pub. L. 112–17][/us/pl/112/17], § 1, June 1, 2011, [125 Stat. 221][/us/stat/125/221], provided that: 
 
 > “This Act \[amending [section 638 of this title][/us/usc/t15/s638]\] may be cited as the ‘Small Business Additional Temporary Extension Act of 2011’.”
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–240, § 1][/us/pl/111/240/s1], Sept. 27, 2010, [124 Stat. 2504][/us/stat/124/2504], provided that: 
+[Pub. L. 111–240][/us/pl/111/240], § 1, Sept. 27, 2010, [124 Stat. 2504][/us/stat/124/2504], provided that: 
 
 > “This Act \[enacting sections 634g, 648b, and 657q of this title, chapter 54 and [section 4713a of Title 12][/us/usc/t12/s4713a], Banks and Banking, and [section 1320a–7m of Title 42][/us/usc/t42/s1320a–7m], The Public Health and Welfare, amending this section, sections 278k, 632 to 634, 634c, 636, 637, 644, 648, 649, 656, 657a, 689d, 695, and 696 of this title, [section 604 of Title 5][/us/usc/t5/s604], Government Organization and Employees, [section 2382 of Title 10][/us/usc/t10/s2382], Armed Forces, and sections 38 to 40, 55, 72, 162, 168, 179, 195, 280F, 402A, 460, 861, 862, 864, 1202, 1374, 1400L, 1400N, 6041, 6330, 6707A, 6721, and 6722 of Title 26, Internal Revenue Code, repealing former [section 634g of this title][/us/usc/t15/s634g], enacting provisions set out as notes under this section, sections 271, 278n, 632, 636, 637, 644, 649, 649b, and 696 of this title, sections 4741 and 5701 of Title 12, sections 1, 38 to 40, 72, 162, 168, 179, 195, 280F, 402A, 460, 861, 1202, 1374, 6041, 6330, 6655, 6662A, 6707A, and 6721 of Title 26, and sections 428 and 433 of Title 41, Public Contracts, amending provisions set out as notes under this section, and repealing provisions set out as notes under [section 644 of this title][/us/usc/t15/s644]\] may be cited as the ‘Small Business Jobs Act of 2010’.”
 
-[Pub. L. 111–240, title I, § 1101][/us/pl/111/240/s1101], Sept. 27, 2010, [124 Stat. 2507][/us/stat/124/2507], provided that: 
+[Pub. L. 111–240, title I][/us/pl/111/240/tI], § 1101, Sept. 27, 2010, [124 Stat. 2507][/us/stat/124/2507], provided that: 
 
 > “This subtitle \[subtitle A (§§ 1101–1136) of title I of [Pub. L. 111–240][/us/pl/111/240], enacting [section 4713a of Title 12][/us/usc/t12/s4713a], Banks and Banking, amending sections 632, 634, 636, 689d, 695, and 696 of this title, and enacting provisions set out as notes under sections 632, 636, and 696 of this title\] may be cited as the ‘Small Business Job Creation and Access to Capital Act of 2010’.”
 
-[Pub. L. 111–240, title I, § 1201][/us/pl/111/240/s1201], Sept. 27, 2010, [124 Stat. 2520][/us/stat/124/2520], provided that: 
+[Pub. L. 111–240, title I][/us/pl/111/240/tI], § 1201, Sept. 27, 2010, [124 Stat. 2520][/us/stat/124/2520], provided that: 
 
 > “This subtitle \[subtitle B (§§ 1201–1209) of title I of [Pub. L. 111–240][/us/pl/111/240], amending this section and sections 632, 633, 636, 648, and 649 of this title and enacting provisions set out as notes under sections 636, 649, and 649b of this title\] may be cited as the ‘Small Business Export Enhancement and International Trade Act of 2010’.”
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–234, title XII, § 12051][/us/pl/110/234/s12051], May 22, 2008, [122 Stat. 1406][/us/stat/122/1406], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12051, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2168, provided that: 
+[Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12051, May 22, 2008, [122 Stat. 1406][/us/stat/122/1406], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12051, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2168, provided that: 
 
 > “This subtitle \[subtitle B (§§ 12051–12091) of title XII of [Pub. L. 110–246][/us/pl/110/246], enacting sections 636e to 636k and 657i to 657o of this title, amending sections 632, 633, and 636 of this title, enacting provisions set out as notes under [section 636 of this title][/us/usc/t15/s636], and amending provisions set out as a note under this section\] may be cited as the ‘Small Business Disaster Response and Loan Improvements Act of 2008’.”
 
     \[[Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] enacted identical provisions. [Pub. L. 110–234][/us/pl/110/234] was repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a], set out as a note under [section 8701 of Title 7][/us/usc/t7/s8701], Agriculture.\]
 
-[Pub. L. 110–186, § 1][/us/pl/110/186/s1], Feb. 14, 2008, [122 Stat. 623][/us/stat/122/623], provided that: 
+[Pub. L. 110–186][/us/pl/110/186], § 1, Feb. 14, 2008, [122 Stat. 623][/us/stat/122/623], provided that: 
 
 > “This Act \[amending sections 632, 636, 648, 657b, and 657c of this title, enacting provisions set out as notes under sections 636 and 637 of this title, and amending provisions set out as a note under [section 657b of this title][/us/usc/t15/s657b]\] may be cited as the ‘Military Reservist and Veteran Small Business Reauthorization and Opportunity Act of 2008’.”
 
  __Short Title of 2007 Amendment__ 
 
-[Pub. L. 110–28, title VIII, § 8301][/us/pl/110/28/s8301], May 25, 2007, [121 Stat. 204][/us/stat/121/204], provided that: 
+[Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8301, May 25, 2007, [121 Stat. 204][/us/stat/121/204], provided that: 
 
 > “This subtitle \[subtitle C (§§ 8301–8306) of title VIII of [Pub. L. 110–28][/us/pl/110/28], amending [section 656 of this title][/us/usc/t15/s656] and [section 10a of Title 41][/us/usc/t41/s10a], Public Contracts, enacting provisions set out as notes under [section 656 of this title][/us/usc/t15/s656] and [section 9858 of Title 42][/us/usc/t42/s9858], The Public Health and Welfare, and amending provisions set out as a note under [section 601 of Title 5][/us/usc/t5/s601], Government Organization and Employees\] may be cited as the ‘Small Business and Work Opportunity Act of 2007’.”
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–447, div. K, § 1(a)][/us/pl/108/447/s1/a], Dec. 8, 2004, [118 Stat. 3441][/us/stat/118/3441], provided that: 
+[Pub. L. 108–447, div. K][/us/pl/108/447/dK], § 1(a), Dec. 8, 2004, [118 Stat. 3441][/us/stat/118/3441], provided that: 
 
 > “This division \[enacting sections 631c and 657g of this title, amending sections 632 to 634, 636, 637, 648, 650, 654, 657a to 657c, 683, 687, 694b, and 695 to 697 of this title, enacting provisions set out as notes under sections 632, 633, 636, and 637 of this title, amending provisions set out as notes under this section and [section 657b of this title][/us/usc/t15/s657b], and repealing provisions set out as a note under [section 694b of this title][/us/usc/t15/s694b]\] may be cited as the ‘Small Business Reauthorization and Manufacturing Assistance Act of 2004’.”
 
  __Short Title of 2001 Amendment__ 
 
-[Pub. L. 107–50, § 1][/us/pl/107/50/s1], Oct. 15, 2001, [115 Stat. 263][/us/stat/115/263], provided that: 
+[Pub. L. 107–50][/us/pl/107/50], § 1, Oct. 15, 2001, [115 Stat. 263][/us/stat/115/263], provided that: 
 
 > “This Act \[amending sections 638 and 657d of this title and enacting provisions set out as a note under [section 638 of this title][/us/usc/t15/s638]\] may be cited as the ‘Small Business Technology Transfer Program Reauthorization Act of 2001’.”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[§ 1(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–667, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[§ 1(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–667, provided that: 
 
 > “This Act \[H.R. 5667, as enacted by [section 1(a)(9) of Pub. L. 106–554][/us/pl/106/554/s1/a/9], see Tables for classification\] may be cited as the ‘Small Business Reauthorization Act of 2000’.”
 
-[Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, § 101\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–668, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title I, § 101\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–668, provided that: 
 
 > “This title \[enacting sections 657d and 657e of this title, amending [section 638 of this title][/us/usc/t15/s638], enacting provisions set out as notes under sections 638 and 657d of this title, and amending provisions set out as notes under this section and [section 638 of this title][/us/usc/t15/s638]\] may be cited as the ‘Small Business Innovation Research Program Reauthorization Act of 2000’.”
 
-[Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title II, § 201\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–681, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title II, § 201\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–681, provided that: 
 
 > “This title \[amending sections 634, 636, and 696 of this title\] may be cited as the ‘Small Business Loan Improvement Act of 2000’.”
 
-[Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title V, § 501\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–691, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title V, § 501\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–691, provided that: 
 
 > “This title \[amending sections 637, 648, 654, and 657a of this title and amending provisions set out as notes under this section and sections 637 and 644 of this title\] may be cited as the ‘Small Business Programs Reauthorization Act of 2000’.”
 
-[Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VI, subtitle A, § 601\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–697, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title VI, subtitle A, § 601\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–697, provided that: 
 
 > “This subtitle \[amending [section 632 of this title][/us/usc/t15/s632]\] may be cited as the ‘HUBZones in Native America Act of 2000’.”
 
  __Short Title of 1999 Amendment__ 
 
-[Pub. L. 106–165, § 1][/us/pl/106/165/s1], Dec. 9, 1999, [113 Stat. 1795][/us/stat/113/1795], provided that: 
+[Pub. L. 106–165][/us/pl/106/165], § 1, Dec. 9, 1999, [113 Stat. 1795][/us/stat/113/1795], provided that: 
 
 > “This Act \[amending [section 656 of this title][/us/usc/t15/s656] and enacting provisions set out as notes under [section 656 of this title][/us/usc/t15/s656]\] may be cited as the ‘Women’s Business Centers Sustainability Act of 1999’.”
 
-[Pub. L. 106–50, § 1][/us/pl/106/50/s1], Aug. 17, 1999, [113 Stat. 233][/us/stat/113/233], provided that: 
+[Pub. L. 106–50][/us/pl/106/50], § 1, Aug. 17, 1999, [113 Stat. 233][/us/stat/113/233], provided that: 
 
 > “This Act \[enacting sections 657b and 657c of this title, amending sections 631b, 632, 633, 634b, 636, 637, 644, and 695 of this title, enacting provisions set out as notes under sections 633, 636, 637, 657b, and 657c of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Veterans Entrepreneurship and Small Business Development Act of 1999’.”
 
-[Pub. L. 106–22, § 1][/us/pl/106/22/s1], Apr. 27, 1999, [113 Stat. 36][/us/stat/113/36], provided that: 
+[Pub. L. 106–22][/us/pl/106/22], § 1, Apr. 27, 1999, [113 Stat. 36][/us/stat/113/36], provided that: 
 
 > “This Act \[amending [section 636 of this title][/us/usc/t15/s636]\] may be cited as the ‘Microloan Program Technical Corrections Act of 1999’.”
 
-[Pub. L. 106–17, § 1][/us/pl/106/17/s1], Apr. 6, 1999, [113 Stat. 27][/us/stat/113/27], provided that: 
+[Pub. L. 106–17][/us/pl/106/17], § 1, Apr. 6, 1999, [113 Stat. 27][/us/stat/113/27], provided that: 
 
 > “This Act \[amending [section 656 of this title][/us/usc/t15/s656] and enacting provisions set out as a note under [section 656 of this title][/us/usc/t15/s656]\] may be cited as the ‘Women’s Business Center Amendments Act of 1999’.”
 
-[Pub. L. 106–8, § 1][/us/pl/106/8/s1], Apr. 2, 1999, [113 Stat. 13][/us/stat/113/13], provided that: 
+[Pub. L. 106–8][/us/pl/106/8], § 1, Apr. 2, 1999, [113 Stat. 13][/us/stat/113/13], provided that: 
 
 > “This Act \[amending [section 636 of this title][/us/usc/t15/s636], enacting provisions set out as notes under [section 636 of this title][/us/usc/t15/s636], and repealing provisions set out as a note under [section 636 of this title][/us/usc/t15/s636]\] may be cited as the ‘Small Business Year 2000 Readiness Act’.”
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–277, div. C, title IX, § 901][/us/pl/105/277/s901], Oct. 21, 1998, [112 Stat. 2681–707][/us/stat/112/2681-707], provided that: 
+[Pub. L. 105–277, div. C, title IX][/us/pl/105/277/dC/tIX], § 901, Oct. 21, 1998, [112 Stat. 2681–707][/us/stat/112/2681-707], provided that: 
 
 > “This title \[enacting [section 654 of this title][/us/usc/t15/s654], amending [section 648 of this title][/us/usc/t15/s648], and enacting provisions set out as notes under [section 654 of this title][/us/usc/t15/s654]\] may be cited as the ‘Drug-Free Workplace Act of 1998’.”
 
  __Short Title of 1997 Amendment__ 
 
-[Pub. L. 105–135, § 1(a)][/us/pl/105/135/s1/a], Dec. 2, 1997, [111 Stat. 2592][/us/stat/111/2592], provided that: 
+[Pub. L. 105–135][/us/pl/105/135], § 1(a), Dec. 2, 1997, [111 Stat. 2592][/us/stat/111/2592], provided that: 
 
 > “This Act \[enacting sections 657a and 7109 of this title and former [section 7109 of this title][/us/usc/t15/s7109], amending this section, sections 631b, 632, 636, 637, 638, 644, 645, 648, 656, 662, 681 to 683, 687b, 687m, 694b, 696, 697, 697e, 7103, 7104, 7106, 7107, and 7110 of this title, [section 2323 of Title 10][/us/usc/t10/s2323], Armed Forces, [section 1441a of Title 12][/us/usc/t12/s1441a], Banks and Banking, sections 3718, 6701, and 7505 of Title 31, Money and Finance, sections 405 and 417a of Title 41, Public Contracts, [section 13556 of Title 42][/us/usc/t42/s13556], The Public Health and Welfare, and sections 47107 and 47113 of Title 49, Transportation, enacting provisions set out as notes under this section, sections 632 to 634, 636, 637, 638, 656, 657a, and 697e of this title, and [section 405 of Title 41][/us/usc/t41/s405], and amending provisions set out as notes under this section and sections 637, 644, 694b, and 697e of this title\] may be cited as the ‘Small Business Reauthorization Act of 1997’.”
 
-[Pub. L. 105–135, title VI, § 601][/us/pl/105/135/s601], Dec. 2, 1997, [111 Stat. 2627][/us/stat/111/2627], provided that: 
+[Pub. L. 105–135, title VI][/us/pl/105/135/tVI], § 601, Dec. 2, 1997, [111 Stat. 2627][/us/stat/111/2627], provided that: 
 
 > “This title \[enacting [section 657a of this title][/us/usc/t15/s657a], amending sections 631b, 632, 637, 644, 645, and 694b of this title, [section 2323 of Title 10][/us/usc/t10/s2323], Armed Forces, [section 1441a of Title 12][/us/usc/t12/s1441a], Banks and Banking, sections 3718, 6701, and 7505 of Title 31, Money and Finance, sections 405 and 417a of Title 41, Public Contracts, [section 13556 of Title 42][/us/usc/t42/s13556], The Public Health and Welfare, and sections 47107 and 47113 of Title 49, Transportation, enacting provisions set out as notes under this section and sections 632 and 657a of this title, and amending provisions set out as notes under this section\] may be cited as the ‘HUBZone Act of 1997’.”
 
  __Short Title of 1996 Amendment__ 
 
-[Pub. L. 104–208, div. D, § 1(a)][/us/pl/104/208/s1/a], Sept. 30, 1996, [110 Stat. 3009–724][/us/stat/110/3009-724], provided that: 
+[Pub. L. 104–208, div. D][/us/pl/104/208/dD], § 1(a), Sept. 30, 1996, [110 Stat. 3009–724][/us/stat/110/3009-724], provided that: 
 
 > “This division \[amending sections 80a–18, 632 to 634, 636, 638, 648, 662, 681 to 683, 687, 687b, 687d, 687k to 687m, 694b, 696, 697, 697b, and 697f of this title and [section 1431 of Title 12][/us/usc/t12/s1431], Banks and Banking, repealing sections 687i and 687j of this title, enacting provisions set out as notes under this section and sections 632 to 634, 636, 681, 683, 694b, and 695 of this title, amending provisions set out as notes under this section and [section 644 of this title][/us/usc/t15/s644], and repealing provisions set out as a note under [section 634 of this title][/us/usc/t15/s634]\] may be cited as the ‘Small Business Programs Improvement Act of 1996’.”
 
  __Short Title of 1995 Amendment__ 
 
-[Pub. L. 104–36, § 1][/us/pl/104/36/s1], Oct. 12, 1995, [109 Stat. 295][/us/stat/109/295], provided that: 
+[Pub. L. 104–36][/us/pl/104/36], § 1, Oct. 12, 1995, [109 Stat. 295][/us/stat/109/295], provided that: 
 
 > “This Act \[amending sections 634, 636, and 697 of this title, enacting provisions set out as a note under [section 634 of this title][/us/usc/t15/s634], and amending provisions set out as a note under [section 694b of this title][/us/usc/t15/s694b]\] may be cited as the ‘Small Business Lending Enhancement Act of 1995’.”
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–403, § 1(a)][/us/pl/103/403/s1/a], Oct. 22, 1994, [108 Stat. 4175][/us/stat/108/4175], provided that: 
+[Pub. L. 103–403][/us/pl/103/403], § 1(a), Oct. 22, 1994, [108 Stat. 4175][/us/stat/108/4175], provided that: 
 
 > “This Act \[enacting chapter 97 of this title and sections 697d to 697f of this title, amending this section and sections 632 to 634, 634d, 636 to 638, 644, 648, 652, 656, 683, 687, and 697 of this title, repealing [section 697e of this title][/us/usc/t15/s697e], enacting provisions set out as notes under this section and sections 634b, 636, 637, 644, 661, and 697d to 697f of this title, amending provisions set out as notes under this section and sections 633, 636, 637, and 694b of this title, and repealing provisions set out as a note under [section 697 of this title][/us/usc/t15/s697]\] may be cited as the ‘Small Business Administration Reauthorization and Amendments Act of 1994’.”
 
  __Short Title of 1993 Amendment__ 
 
-[Pub. L. 103–81, § 1(a)][/us/pl/103/81/s1/a], Aug. 13, 1993, [107 Stat. 780][/us/stat/107/780], provided that: 
+[Pub. L. 103–81][/us/pl/103/81], § 1(a), Aug. 13, 1993, [107 Stat. 780][/us/stat/107/780], provided that: 
 
 > “This Act \[amending sections 634, 636, 648, 652, and 7107 of this title, enacting provisions set out as notes under sections 634 and 636 of this title, amending provisions set out as notes under this section and [section 648 of this title][/us/usc/t15/s648], and repealing provisions set out as notes under sections 634 and 636 of this title\] may be cited as the ‘Small Business Guaranteed Credit Enhancement Act of 1993’.”
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–564, § 1(a)][/us/pl/102/564/s1/a], Oct. 28, 1992, [106 Stat. 4249][/us/stat/106/4249], provided that: 
+[Pub. L. 102–564][/us/pl/102/564], § 1(a), Oct. 28, 1992, [106 Stat. 4249][/us/stat/106/4249], provided that: 
 
 > “This Act \[amending sections 634, 636, 637, and 638 of this title and [section 4124 of Title 18][/us/usc/t18/s4124], Crimes and Criminal Procedure, enacting provisions set out as notes under this section and [section 638 of this title][/us/usc/t15/s638], amending provisions set out as notes under sections 644 and 648 of this title, and repealing provisions set out as a note under [section 638 of this title][/us/usc/t15/s638]\] may be cited as the ‘Small Business Research and Development Enhancement Act of 1992’.”
 
-[Pub. L. 102–564, title I, § 101][/us/pl/102/564/s101], Oct. 28, 1992, [106 Stat. 4249][/us/stat/106/4249], provided that: 
+[Pub. L. 102–564, title I][/us/pl/102/564/tI], § 101, Oct. 28, 1992, [106 Stat. 4249][/us/stat/106/4249], provided that: 
 
 > “This title \[amending [section 638 of this title][/us/usc/t15/s638] and enacting provisions set out as notes under [section 638 of this title][/us/usc/t15/s638]\] may be cited as the ‘Small Business Innovation Research Program Reauthorization Act of 1992’.”
 
-[Pub. L. 102–564, title II, § 201][/us/pl/102/564/s201], Oct. 28, 1992, [106 Stat. 4256][/us/stat/106/4256], provided that: 
+[Pub. L. 102–564, title II][/us/pl/102/564/tII], § 201, Oct. 28, 1992, [106 Stat. 4256][/us/stat/106/4256], provided that: 
 
 > “This title \[amending [section 638 of this title][/us/usc/t15/s638] and enacting provisions set out as notes under [section 638 of this title][/us/usc/t15/s638]\] may be cited as the ‘Small Business Technology Transfer Act of 1992’.”
 
-[Pub. L. 102–366, § 1(a)][/us/pl/102/366/s1/a], Sept. 4, 1992, [106 Stat. 986][/us/stat/106/986], provided that: 
+[Pub. L. 102–366][/us/pl/102/366], § 1(a), Sept. 4, 1992, [106 Stat. 986][/us/stat/106/986], provided that: 
 
 > “This Act \[amending sections 632, 636, 637, 644, 648, 661, 662, 682, 683, 685, 686, 687, 687b, and 687l of this title, enacting provisions set out as notes under this section and sections 632, 634, 636, 644, 648, 661, 681, 687b, and 694b of this title, and amending provisions set out as notes under this section and sections 633, 636, and 644 of this title\] may be cited as the ‘Small Business Credit and Business Opportunity Enhancement Act of 1992’.”
 
-[Pub. L. 102–366, title I, § 101][/us/pl/102/366/s101], Sept. 4, 1992, [106 Stat. 987][/us/stat/106/987], provided that: 
+[Pub. L. 102–366, title I][/us/pl/102/366/tI], § 101, Sept. 4, 1992, [106 Stat. 987][/us/stat/106/987], provided that: 
 
 > “This subtitle \[subtitle A (§§ 101–104) of title I of [Pub. L. 102–366][/us/pl/102/366], amending [section 636 of this title][/us/usc/t15/s636] and enacting and amending provisions set out as notes under this section\] may be cited as the ‘Small Business Credit Crunch Relief Act of 1992’.”
 
-[Pub. L. 102–366, title I, § 111][/us/pl/102/366/s111], Sept. 4, 1992, [106 Stat. 989][/us/stat/106/989], provided that: 
+[Pub. L. 102–366, title I][/us/pl/102/366/tI], § 111, Sept. 4, 1992, [106 Stat. 989][/us/stat/106/989], provided that: 
 
 > “This subtitle \[subtitle B (§§ 111–115) of title I of [Pub. L. 102–366][/us/pl/102/366], amending [section 636 of this title][/us/usc/t15/s636], enacting provisions set out as notes under [section 636 of this title][/us/usc/t15/s636], and amending provisions set out as a note under this section\] may be cited as the ‘Microlending Expansion Act of 1992’.”
 
  __Short Title of 1991 Amendment__ 
 
-[Pub. L. 102–191, § 1][/us/pl/102/191/s1], Dec. 5, 1991, [105 Stat. 1589][/us/stat/105/1589], provided that: 
+[Pub. L. 102–191][/us/pl/102/191], § 1, Dec. 5, 1991, [105 Stat. 1589][/us/stat/105/1589], provided that: 
 
 > “This Act \[enacting [section 656 of this title][/us/usc/t15/s656], amending sections 636, 637, and 7103 of this title, enacting provisions set out as a note under [section 637 of this title][/us/usc/t15/s637]\] may be cited as the ‘Women’s Business Development Act of 1991’.”
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–574, § 1][/us/pl/101/574/s1], Nov. 15, 1990, [104 Stat. 2814][/us/stat/104/2814], provided that: 
+[Pub. L. 101–574][/us/pl/101/574], § 1, Nov. 15, 1990, [104 Stat. 2814][/us/stat/104/2814], provided that: 
 
 > “This Act \[enacting sections 653 and 654 of this title, amending sections 633, 636, 637, 639, 644, 648, 683, 695, and 696 of this title, enacting provisions set out as notes under this section and sections 633, 637, 648, 648a, 653, and 683 of this title and [section 601 of Title 5][/us/usc/t5/s601], Government Organization and Employees, amending provisions set out as notes under this section and sections 633, 636, 637, 644, and 694b of this title and [section 502 of Title 44][/us/usc/t44/s502], Public Printing and Documents, and repealing provisions set out as a note under [section 648 of this title][/us/usc/t15/s648]\] may be cited as the ‘Small Business Administration Reauthorization and Amendments Act of 1990’.”
 
-[Pub. L. 101–574, title III, § 301][/us/pl/101/574/s301], Nov. 15, 1990, [104 Stat. 2827][/us/stat/104/2827], provided that: 
+[Pub. L. 101–574, title III][/us/pl/101/574/tIII], § 301, Nov. 15, 1990, [104 Stat. 2827][/us/stat/104/2827], provided that: 
 
 > “This title \[enacting sections 653 and 654 of this title, amending sections 631b, 636, and 648 of this title, and enacting provisions set out as notes under [section 653 of this title][/us/usc/t15/s653] and [section 601 of Title 5][/us/usc/t5/s601], Government Organization and Employees\] may be cited as the ‘Rural Small Business Enhancement Act of 1990’.”
 
  __Short Title of 1989 Amendment__ 
 
-[Pub. L. 101–37, § 1][/us/pl/101/37/s1], June 15, 1989, [103 Stat. 70][/us/stat/103/70], provided that: 
+[Pub. L. 101–37][/us/pl/101/37], § 1, June 15, 1989, [103 Stat. 70][/us/stat/103/70], provided that: 
 
 > “This Act \[amending this section and sections 633, 636, 637, 639, and 644 of this title, enacting provisions set out as a note under this section, and amending provisions set out as notes under this section and sections 633, 636, 637, and 644 of this title\] may be cited as the ‘Business Opportunity Development Reform Act Technical Corrections Act’.”
 
  __Short Title of 1988 Amendment__ 
 
-[Pub. L. 100–656, § 1(a)][/us/pl/100/656/s1/a], Nov. 15, 1988, [102 Stat. 3853][/us/stat/102/3853], provided that: 
+[Pub. L. 100–656][/us/pl/100/656], § 1(a), Nov. 15, 1988, [102 Stat. 3853][/us/stat/102/3853], provided that: 
 
 > “This Act \[amending this section, sections 632, 633, 636, 637, 639, 644, and 645 of this title, and section 541 of former Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under this section and sections 632, 633, 636, and 637 of this title, and amending provisions set out as a note under [section 644 of this title][/us/usc/t15/s644]\] may be cited as the ‘Business Opportunity Development Reform Act of 1988’.”
 
-[Pub. L. 100–590, § 1(a)][/us/pl/100/590/s1/a], Nov. 3, 1988, [102 Stat. 2989][/us/stat/102/2989], provided that: 
+[Pub. L. 100–590][/us/pl/100/590], § 1(a), Nov. 3, 1988, [102 Stat. 2989][/us/stat/102/2989], provided that: 
 
 > “This Act \[enacting sections 687m and 697c of this title, amending this section and sections 631b, 632, 633, 634, 636, 637, 638, 644, 648, 681, 687b, and 694b to 697b of this title, repealing [section 694 of this title][/us/usc/t15/s694], enacting provisions set out as notes under this section and sections 636, 637, 639, 644, 661, 694, 694b, and 697 of this title, and amending provisions set out as notes under this section and sections 633 and 637 of this title\] may be cited as the ‘Small Business Administration Reauthorization and Amendment Act of 1988’.”
 
-    [Pub. L. 100–533, § 1][/us/pl/100/533/s1], Oct. 25, 1988, [102 Stat. 2689][/us/stat/102/2689], provided in part that [Pub. L. 100–533][/us/pl/100/533] “\[enacting chapter 97 of this title and [section 417a of Title 41][/us/usc/t41/s417a], Public Contracts, amending this section and sections 631b, 636, 637, and 1691b of this title, and enacting provisions set out as notes under this section, sections 636 and 637 of this title, and [section 131 of Title 13][/us/usc/t13/s131], Census\] may be cited as the ‘Women’s Business Ownership Act of 1988’.”
+    [Pub. L. 100–533][/us/pl/100/533], § 1, Oct. 25, 1988, [102 Stat. 2689][/us/stat/102/2689], provided in part that [Pub. L. 100–533][/us/pl/100/533] “\[enacting chapter 97 of this title and [section 417a of Title 41][/us/usc/t41/s417a], Public Contracts, amending this section and sections 631b, 636, 637, and 1691b of this title, and enacting provisions set out as notes under this section, sections 636 and 637 of this title, and [section 131 of Title 13][/us/usc/t13/s131], Census\] may be cited as the ‘Women’s Business Ownership Act of 1988’.”
 
-[Pub. L. 100–418, title VIII, § 8001][/us/pl/100/418/s8001], Aug. 23, 1988, [102 Stat. 1553][/us/stat/102/1553], provided that: 
+[Pub. L. 100–418, title VIII][/us/pl/100/418/tVIII], § 8001, Aug. 23, 1988, [102 Stat. 1553][/us/stat/102/1553], provided that: 
 
 > “This title \[amending this section and sections 636, 648, 649, and 696 of this title, enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and [section 638 of this title][/us/usc/t15/s638]\] may be cited as the ‘Small Business International Trade and Competitiveness Act’.”
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–395, § 1][/us/pl/98/395/s1], Aug. 21, 1984, [98 Stat. 1366][/us/stat/98/1366], provided that: 
+[Pub. L. 98–395][/us/pl/98/395], § 1, Aug. 21, 1984, [98 Stat. 1366][/us/stat/98/1366], provided that: 
 
 > “This Act \[amending sections 636 and 648 of this title and provisions set out as notes under this section and [section 648 of this title][/us/usc/t15/s648]\] may be cited as the ‘Small Business Development Center Improvement Act of 1984’.”
 
-[Pub. L. 98–362, § 1][/us/pl/98/362/s1], July 16, 1984, [98 Stat. 431][/us/stat/98/431], provided that: 
+[Pub. L. 98–362][/us/pl/98/362], § 1, July 16, 1984, [98 Stat. 431][/us/stat/98/431], provided that: 
 
 > “This Act \[amending sections 632, 633, and 637 of this title and enacting provisions set out as notes under sections 633 and 637 of this title\] may be cited as the ‘Small Business Computer Security and Education Act of 1984’.”
 
-[Pub. L. 98–352, § 1][/us/pl/98/352/s1], July 10, 1984, [98 Stat. 329][/us/stat/98/329], provided that: 
+[Pub. L. 98–352][/us/pl/98/352], § 1, July 10, 1984, [98 Stat. 329][/us/stat/98/329], provided that: 
 
 > “This Act \[amending sections 633, 634, and 639 of this title and enacting provisions set out as notes under [section 634 of this title][/us/usc/t15/s634]\] may be cited as the ‘Small Business Secondary Market Improvements Act of 1984’.”
 
  __Short Title of 1982 Amendment__ 
 
-[Pub. L. 97–219, § 1][/us/pl/97/219/s1], July 22, 1982, [96 Stat. 217][/us/stat/96/217], provided that: 
+[Pub. L. 97–219][/us/pl/97/219], § 1, July 22, 1982, [96 Stat. 217][/us/stat/96/217], provided that: 
 
 > “This Act \[amending [section 638 of this title][/us/usc/t15/s638] and enacting provisions set out as notes under [section 638 of this title][/us/usc/t15/s638]\] may be cited as the ‘Small Business Innovation Development Act of 1982’.”
 
  __Short Title of 1981 Amendment__ 
 
-[Pub. L. 97–35, title XIX, § 1901][/us/pl/97/35/s1901], Aug. 13, 1981, [95 Stat. 767][/us/stat/95/767], provided that: 
+[Pub. L. 97–35, title XIX][/us/pl/97/35/tXIX], § 1901, Aug. 13, 1981, [95 Stat. 767][/us/stat/95/767], provided that: 
 
 > “This title \[amending sections 632, 633, 636, 639, and 696 of this title, repealing [section 636a of this title][/us/usc/t15/s636a], enacting provisions set out as notes under sections 632 and 636 of this title, and amending provisions set out as notes under this section\] may be cited as the ‘Small Business Budget Reconciliation and Loan Consolidation/Improvement Act of 1981’.”
 
  __Short Title of 1980 Amendment__ 
 
-[Pub. L. 96–481, title I, § 110][/us/pl/96/481/s110], Oct. 21, 1980, [94 Stat. 2323][/us/stat/94/2323], provided that: 
+[Pub. L. 96–481, title I][/us/pl/96/481/tI], § 110, Oct. 21, 1980, [94 Stat. 2323][/us/stat/94/2323], provided that: 
 
 > “This part \[part B (§§ 110–113) of title I of [Pub. L. 96–481][/us/pl/96/481] enacting [section 649 of this title][/us/usc/t15/s649], amending [section 636 of this title][/us/usc/t15/s636] and enacting provisions set out as notes under [section 649 of this title][/us/usc/t15/s649]\] may be cited as the ‘Small Business Export Expansion Act of 1980’.”
 
-[Pub. L. 96–302, title II, § 201][/us/pl/96/302/s201], July 2, 1980, [94 Stat. 843][/us/stat/94/843], provided that: 
+[Pub. L. 96–302, title II][/us/pl/96/302/tII], § 201, July 2, 1980, [94 Stat. 843][/us/stat/94/843], provided that: 
 
 > “This title \[enacting section 648, amending section 636, and enacting provisions set out as a note under [section 648 of this title][/us/usc/t15/s648]\] may be cited as the ‘Small Business Development Center Act of 1980’.”
 
-[Pub. L. 96–302, title III, § 301][/us/pl/96/302/s301], July 2, 1980, [94 Stat. 848][/us/stat/94/848], provided that: 
+[Pub. L. 96–302, title III][/us/pl/96/302/tIII], § 301, July 2, 1980, [94 Stat. 848][/us/stat/94/848], provided that: 
 
 > “This title \[enacting sections 631a and 631b of this title\] may be cited as the ‘Small Business Economic Policy Act of 1980’.”
 
-[Pub. L. 96–302, title V, § 501][/us/pl/96/302/s501], July 2, 1980, [94 Stat. 850][/us/stat/94/850], provided that: 
+[Pub. L. 96–302, title V][/us/pl/96/302/tV], § 501, July 2, 1980, [94 Stat. 850][/us/stat/94/850], provided that: 
 
 > “This title \[amending sections 632 and 636 of this title and enacting provisions set out as notes under sections 631 and 636 of this title\] may be cited as the ‘Small Business Employee Ownership Act of 1980’.”
 
  __Short Title of 1978 Amendment__ 
 
-[Pub. L. 95–315, § 1][/us/pl/95/315/s1], July 4, 1978, [92 Stat. 377][/us/stat/92/377], provided: 
+[Pub. L. 95–315][/us/pl/95/315], § 1, July 4, 1978, [92 Stat. 377][/us/stat/92/377], provided: 
 
 > “That this Act \[amending sections 633, 636, and 639 of this title and provisions set out as notes under this section\] may be cited as the ‘Small Business Energy Loan Act’.”
 
  __Short Title of 1974 Amendment__ 
 
-[Pub. L. 93–386, § 1][/us/pl/93/386/s1], Aug. 23, 1974, [88 Stat. 742][/us/stat/88/742], provided: 
+[Pub. L. 93–386][/us/pl/93/386], § 1, Aug. 23, 1974, [88 Stat. 742][/us/stat/88/742], provided: 
 
 > “That this Act \[enacting [section 694c of this title][/us/usc/t15/s694c], amending this section, sections 633, 634, 636, 639, 647, 694, and 694b of this title, and sections 2855, 2942, 2949, and 2982 of Title 42, The Public Health and Welfare, repealing sections 2901, 2902, 2905, 2906, 2906a, 2906b, 2906c, and 2907 of Title 42, and enacting provisions set out as notes under sections 633 and 694 of this title\] may be cited as the ‘Small Business Amendments of 1974’.”
 
  __Short Title of 1967 Amendment__ 
 
-[Pub. L. 90–104, title I, § 101][/us/pl/90/104/s101], Oct. 11, 1967, [81 Stat. 268][/us/stat/81/268], provided that: 
+[Pub. L. 90–104, title I][/us/pl/90/104/tI], § 101, Oct. 11, 1967, [81 Stat. 268][/us/stat/81/268], provided that: 
 
 > “This title \[amending sections 633, 636, and 637 of this title and [section 2902 of Title 42][/us/usc/t42/s2902], The Public Health and Welfare\] may be cited as the ‘Small Business Act Amendments of 1967’.”
 
  __Short Title of 1961 Amendment__ 
 
-[Pub. L. 87–305, § 1][/us/pl/87/305/s1], Sept. 26, 1961, [75 Stat. 666][/us/stat/75/666], provided: 
+[Pub. L. 87–305][/us/pl/87/305], § 1, Sept. 26, 1961, [75 Stat. 666][/us/stat/75/666], provided: 
 
 > “That this Act \[amending this section, sections 633, 634, 636, 637, and 639 of this title, and [section 4558 of Title 50][/us/usc/t50/s4558], War and National Defense\] may be cited as the ‘Small Business Act Amendments of 1961’.”
 
  __Short Title__ 
 
-    [Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[1\], July 18, 1958, [72 Stat. 384][/us/stat/72/384], provided that this chapter should be known as the “Small Business Act”.
+    [Pub. L. 85–536][/us/pl/85/536], § 2\[1\], July 18, 1958, [72 Stat. 384][/us/stat/72/384], provided that this chapter should be known as the “Small Business Act”.
 
  __Repeal of Inconsistent Laws__ 
 
-[Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[47\], formerly § 2\[21\], July 18, 1958, [72 Stat. 396][/us/stat/72/396], renumbered § 2\[30\] by [Pub. L. 96–302, title II, § 202][/us/pl/96/302/s202], July 2, 1980, [94 Stat. 843][/us/stat/94/843]; renumbered § 2\[31\] by [Pub. L. 104–121, title II, § 222(1)][/us/pl/104/121/s222/1], Mar. 29, 1996, [110 Stat. 860][/us/stat/110/860]; renumbered § 2\[32\] by [Pub. L. 105–135, title VI, § 602(b)(1)(A)][/us/pl/105/135/s602/b/1/A], Dec. 2, 1997, [111 Stat. 2629][/us/stat/111/2629]; renumbered § 2\[34\] by [Pub. L. 106–50, title II, § 201(b)(1)][/us/pl/106/50/s201/b/1], Aug. 17, 1999, [113 Stat. 235][/us/stat/113/235]; renumbered § 2\[36\] by [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, § 111(b)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–674; renumbered § 2\[37\] by [Pub. L. 108–183, title III, § 308][/us/pl/108/183/s308], Dec. 16, 2003, [117 Stat. 2662][/us/stat/117/2662]; renumbered § 2\[44\] by [Pub. L. 110–234, title XII, § 12062(1)][/us/pl/110/234/s12062/1], May 22, 2008, [122 Stat. 1407][/us/stat/122/1407]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12062(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2169; renumbered § 2\[45\] by [Pub. L. 111–240, title I, § 1313(a)(1)][/us/pl/111/240/s1313/a/1], Sept. 27, 2010, [124 Stat. 2538][/us/stat/124/2538]; renumbered § 2\[47\] by [Pub. L. 112–239, div. A, title XVI, § 1641(1)][/us/pl/112/239/s1641/1], Jan. 2, 2013, [126 Stat. 2076][/us/stat/126/2076], provided that: 
+[Pub. L. 85–536][/us/pl/85/536], § 2\[47\], formerly § 2\[21\], July 18, 1958, [72 Stat. 396][/us/stat/72/396], renumbered § 2\[30\] by [Pub. L. 96–302, title II][/us/pl/96/302/tII], § 202, July 2, 1980, [94 Stat. 843][/us/stat/94/843]; renumbered § 2\[31\] by [Pub. L. 104–121, title II][/us/pl/104/121/tII], § 222(1), Mar. 29, 1996, [110 Stat. 860][/us/stat/110/860]; renumbered § 2\[32\] by [Pub. L. 105–135, title VI][/us/pl/105/135/tVI], § 602(b)(1)(A), Dec. 2, 1997, [111 Stat. 2629][/us/stat/111/2629]; renumbered § 2\[34\] by [Pub. L. 106–50, title II][/us/pl/106/50/tII], § 201(b)(1), Aug. 17, 1999, [113 Stat. 235][/us/stat/113/235]; renumbered § 2\[36\] by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title I, § 111(b)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–674; renumbered § 2\[37\] by [Pub. L. 108–183, title III][/us/pl/108/183/tIII], § 308, Dec. 16, 2003, [117 Stat. 2662][/us/stat/117/2662]; renumbered § 2\[44\] by [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12062(1), May 22, 2008, [122 Stat. 1407][/us/stat/122/1407]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12062(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2169; renumbered § 2\[45\] by [Pub. L. 111–240, title I][/us/pl/111/240/tI], § 1313(a)(1), Sept. 27, 2010, [124 Stat. 2538][/us/stat/124/2538]; renumbered § 2\[47\] by [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1641(1), Jan. 2, 2013, [126 Stat. 2076][/us/stat/126/2076], provided that: 
 
 > “All laws and parts of laws inconsistent with this Act \[this chapter\] are hereby repealed to the extent of such inconsistency.”
 
  __Regulations__ 
 
-[Pub. L. 105–135, title IV, § 417][/us/pl/105/135/s417], Dec. 2, 1997, [111 Stat. 2620][/us/stat/111/2620], provided that:
+[Pub. L. 105–135, title IV][/us/pl/105/135/tIV], § 417, Dec. 2, 1997, [111 Stat. 2620][/us/stat/111/2620], provided that:
 
 >     “(a)  __Proposed Regulations__  __.—__ 
 
@@ -619,23 +619,23 @@
 
 >     Final regulations shall be published not later than 270 days after the date of enactment of this Act. The effective date for such final regulations shall be not less than 30 days after the date of publication.”
 
-[Pub. L. 100–590, title I, § 136][/us/pl/100/590/s136], Nov. 3, 1988, [102 Stat. 3007][/us/stat/102/3007], provided that: 
+[Pub. L. 100–590, title I][/us/pl/100/590/tI], § 136, Nov. 3, 1988, [102 Stat. 3007][/us/stat/102/3007], provided that: 
 
 > “Notwithstanding any law, rule or regulation, the Small Business Administration shall promulgate final regulations to be effective on publication to carry out the provisions of this title \[see Effective Date of 1988 Amendments note above\] within six months after the date of enactment \[Nov. 3, 1988\].”
 
-[Pub. L. 100–418, title VIII, § 8013][/us/pl/100/418/s8013], Aug. 23, 1988, [102 Stat. 1563][/us/stat/102/1563], provided that: 
+[Pub. L. 100–418, title VIII][/us/pl/100/418/tVIII], § 8013, Aug. 23, 1988, [102 Stat. 1563][/us/stat/102/1563], provided that: 
 
 > “Notwithstanding any law, rule, or regulation, the Small Business Administration shall promulgate final regulations to carry out the provisions of this title \[see Short Title of 1988 Amendments note above\] within six months after the date of enactment of this title \[Aug. 23, 1988\].”
 
  __Separability__ 
 
-[Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[19\], July 18, 1958, [72 Stat. 396][/us/stat/72/396], provided that: 
+[Pub. L. 85–536][/us/pl/85/536], § 2\[19\], July 18, 1958, [72 Stat. 396][/us/stat/72/396], provided that: 
 
 > “If any provision of this Act \[this chapter\], or the application thereof to any person or circumstances, is held invalid, the remainder of this Act \[this chapter\], and the application of such provision to other persons or circumstances, shall not be affected thereby.”
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[20\], July 18, 1958, [72 Stat. 396][/us/stat/72/396], as amended by [Pub. L. 87–341, § 11(h)(2)][/us/pl/87/341/s11/h/2], Oct. 3, 1961, [75 Stat. 757][/us/stat/75/757]; [Pub. L. 95–89, title I, § 102][/us/pl/95/89/s102], Aug. 4, 1977, [91 Stat. 553][/us/stat/91/553]; [Pub. L. 95–315][/us/pl/95/315], §§ 5, 7, July 4, 1978, [92 Stat. 379][/us/stat/92/379]; [Pub. L. 96–302, title I][/us/pl/96/302], §§ 101, 110, July 2, 1980, [94 Stat. 833][/us/stat/94/833], 837; [Pub. L. 97–35, title XIX][/us/pl/97/35], §§ 1905, 1906, Aug. 13, 1981, [95 Stat. 772–777][/us/stat/95/772-777]; [Pub. L. 98–270, title III][/us/pl/98/270], §§ 302, 305, Apr. 18, 1984, [98 Stat. 160][/us/stat/98/160], 161; [Pub. L. 98–395, § 3][/us/pl/98/395/s3], Aug. 21, 1984, [98 Stat. 1367][/us/stat/98/1367]; [Pub. L. 99–272, title XVIII][/us/pl/99/272], §§ 18001, 18002, 18012, Apr. 7, 1986, [100 Stat. 361][/us/stat/100/361], 363, 369; [Pub. L. 100–72, § 1][/us/pl/100/72/s1], July 11, 1987, [101 Stat. 477][/us/stat/101/477]; [Pub. L. 100–418, title VIII][/us/pl/100/418], §§ 8004, 8006(a), Aug. 23, 1988, [102 Stat. 1556][/us/stat/102/1556], 1557; [Pub. L. 100–590, title I][/us/pl/100/590], §§ 101, 135(1), (2), Nov. 3, 1988, [102 Stat. 2990][/us/stat/102/2990], 3007; [Pub. L. 101–574, title I][/us/pl/101/574], §§ 101, 102, Nov. 15, 1990, [104 Stat. 2815][/us/stat/104/2815], 2817; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–366, title I][/us/pl/102/366], §§ 102, 115(a), title IV, §§ 405, 414, Sept. 4, 1992, [106 Stat. 987][/us/stat/106/987], 993, 1014, 1018; [Pub. L. 103–81, § 2][/us/pl/103/81/s2], Aug. 13, 1993, [107 Stat. 780][/us/stat/107/780]; [Pub. L. 103–282, § 1][/us/pl/103/282/s1], July 22, 1994, [108 Stat. 1422][/us/stat/108/1422]; [Pub. L. 103–403, title I, § 101][/us/pl/103/403/s101], Oct. 22, 1994, [108 Stat. 4176][/us/stat/108/4176]; [Pub. L. 104–208, div. D, title II, § 208(i)(2)][/us/pl/104/208/s208/i/2], Sept. 30, 1996, [110 Stat. 3009–747][/us/stat/110/3009-747]; [Pub. L. 105–135, title I, § 101][/us/pl/105/135/s101], title II, § 211, title VI, § 607, Dec. 2, 1997, [111 Stat. 2594][/us/stat/111/2594], 2600, 2635; [Pub. L. 106–9, § 2(b)][/us/pl/106/9/s2/b], Apr. 5, 1999, [113 Stat. 17][/us/stat/113/17]; [Pub. L. 106–24, § 1(b)][/us/pl/106/24/s1/b], Apr. 27, 1999, [113 Stat. 39][/us/stat/113/39]; [Pub. L. 106–554, § 1(a)(8)][/us/pl/106/554/s1/a/8] \[§ 1(c)\], § 1(a)(9) \[title V, § 502, title VIII, § 804(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–664, 2763A–691, 2763A–703; [Pub. L. 107–20, title II, § 2203(a)][/us/pl/107/20/s2203/a], July 24, 2001, [115 Stat. 170][/us/stat/115/170]; [Pub. L. 108–217, § 3][/us/pl/108/217/s3], Apr. 5, 2004, [118 Stat. 591][/us/stat/118/591]; [Pub. L. 108–447, div. K, title I, § 121][/us/pl/108/447/s121], Dec. 8, 2004, [118 Stat. 3446][/us/stat/118/3446], provided that:
+[Pub. L. 85–536][/us/pl/85/536], § 2\[20\], July 18, 1958, [72 Stat. 396][/us/stat/72/396], as amended by [Pub. L. 87–341][/us/pl/87/341], § 11(h)(2), Oct. 3, 1961, [75 Stat. 757][/us/stat/75/757]; [Pub. L. 95–89, title I][/us/pl/95/89/tI], § 102, Aug. 4, 1977, [91 Stat. 553][/us/stat/91/553]; [Pub. L. 95–315][/us/pl/95/315], §§ 5, 7, July 4, 1978, [92 Stat. 379][/us/stat/92/379]; [Pub. L. 96–302, title I][/us/pl/96/302/tI], §§ 101, 110, July 2, 1980, [94 Stat. 833][/us/stat/94/833], 837; [Pub. L. 97–35, title XIX][/us/pl/97/35/tXIX], §§ 1905, 1906, Aug. 13, 1981, [95 Stat. 772–777][/us/stat/95/772-777]; [Pub. L. 98–270, title III][/us/pl/98/270/tIII], §§ 302, 305, Apr. 18, 1984, [98 Stat. 160][/us/stat/98/160], 161; [Pub. L. 98–395][/us/pl/98/395], § 3, Aug. 21, 1984, [98 Stat. 1367][/us/stat/98/1367]; [Pub. L. 99–272, title XVIII][/us/pl/99/272/tXVIII], §§ 18001, 18002, 18012, Apr. 7, 1986, [100 Stat. 361][/us/stat/100/361], 363, 369; [Pub. L. 100–72][/us/pl/100/72], § 1, July 11, 1987, [101 Stat. 477][/us/stat/101/477]; [Pub. L. 100–418, title VIII][/us/pl/100/418/tVIII], §§ 8004, 8006(a), Aug. 23, 1988, [102 Stat. 1556][/us/stat/102/1556], 1557; [Pub. L. 100–590, title I][/us/pl/100/590/tI], §§ 101, 135(1), (2), Nov. 3, 1988, [102 Stat. 2990][/us/stat/102/2990], 3007; [Pub. L. 101–574, title I][/us/pl/101/574/tI], §§ 101, 102, Nov. 15, 1990, [104 Stat. 2815][/us/stat/104/2815], 2817; [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 102–366, title I][/us/pl/102/366/tI], §§ 102, 115(a), title IV, §§ 405, 414, Sept. 4, 1992, [106 Stat. 987][/us/stat/106/987], 993, 1014, 1018; [Pub. L. 103–81][/us/pl/103/81], § 2, Aug. 13, 1993, [107 Stat. 780][/us/stat/107/780]; [Pub. L. 103–282][/us/pl/103/282], § 1, July 22, 1994, [108 Stat. 1422][/us/stat/108/1422]; [Pub. L. 103–403, title I][/us/pl/103/403/tI], § 101, Oct. 22, 1994, [108 Stat. 4176][/us/stat/108/4176]; [Pub. L. 104–208, div. D, title II][/us/pl/104/208/dD/tII], § 208(i)(2), Sept. 30, 1996, [110 Stat. 3009–747][/us/stat/110/3009-747]; [Pub. L. 105–135, title I][/us/pl/105/135/tI], § 101, title II, § 211, title VI, § 607, Dec. 2, 1997, [111 Stat. 2594][/us/stat/111/2594], 2600, 2635; [Pub. L. 106–9][/us/pl/106/9], § 2(b), Apr. 5, 1999, [113 Stat. 17][/us/stat/113/17]; [Pub. L. 106–24][/us/pl/106/24], § 1(b), Apr. 27, 1999, [113 Stat. 39][/us/stat/113/39]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(8) \[§ 1(c)\], § 1(a)(9) \[title V, § 502, title VIII, § 804(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–664, 2763A–691, 2763A–703; [Pub. L. 107–20, title II][/us/pl/107/20/tII], § 2203(a), July 24, 2001, [115 Stat. 170][/us/stat/115/170]; [Pub. L. 108–217][/us/pl/108/217], § 3, Apr. 5, 2004, [118 Stat. 591][/us/stat/118/591]; [Pub. L. 108–447, div. K, title I][/us/pl/108/447/dK/tI], § 121, Dec. 8, 2004, [118 Stat. 3446][/us/stat/118/3446], provided that:
 
 >     “(a)
 
@@ -777,7 +777,7 @@
 
 >                 “(ii) the Administration may not approve loans on its own behalf or on behalf of any other Federal department or agency, by contract or otherwise, under terms and conditions other than those specifically authorized under this Act or the Small Business Investment Act of 1958, except that it may approve loans under section 7(a)(21) of this Act in gross amounts of not more than $2,000,000.
 
->     “\[(f) to (i) Repealed. [Pub. L. 108–447, div. K, title I, § 121(2)][/us/pl/108/447/s121/2], Dec. 8, 2004, [118 Stat. 3446][/us/stat/118/3446].\]
+>     “\[(f) to (i) Repealed. [Pub. L. 108–447, div. K, title I][/us/pl/108/447/dK/tI], § 121(2), Dec. 8, 2004, [118 Stat. 3446][/us/stat/118/3446].\]
 
 >     “(j)  __Fiscal Year__  __2004__  __Purchase and Guarantee Authority Under Title III of Small Business Investment Act of__  __1958.—__ 
 
@@ -789,7 +789,7 @@
 
  __Small Business Act Contracting Requirements Training__ 
 
-[Pub. L. 112–239, div. A, title XVI, § 1622(a)][/us/pl/112/239/s1622/a], (b), Jan. 2, 2013, [126 Stat. 2069][/us/stat/126/2069], provided that:
+[Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1622(a), (b), Jan. 2, 2013, [126 Stat. 2069][/us/stat/126/2069], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -801,7 +801,7 @@
 
  __Agency Achievement of Small Business Goals__ 
 
-[Pub. L. 112–239, div. A, title XVI, § 1633(b)][/us/pl/112/239/s1633/b], (c), Jan. 2, 2013, [126 Stat. 2076][/us/stat/126/2076], as amended by [Pub. L. 114–92, div. A, title VIII, § 871][/us/pl/114/92/s871], Nov. 25, 2015, [129 Stat. 939][/us/stat/129/939], provided that:
+[Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1633(b), (c), Jan. 2, 2013, [126 Stat. 2076][/us/stat/126/2076], as amended by [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 871, Nov. 25, 2015, [129 Stat. 939][/us/stat/129/939], provided that:
 
 >     “(b)  __Responsibility for Achieving Small Business Goals__  __.—__ 
 
@@ -819,11 +819,11 @@
 
  __Loan Application Processing__ 
 
-    [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VIII, § 801\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–702, required the Administrator of the Small Business Administration to conduct a loan application processing study and to transmit the results to Congress not later than 1 year after Dec. 21, 2000.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title VIII, § 801\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–702, required the Administrator of the Small Business Administration to conduct a loan application processing study and to transmit the results to Congress not later than 1 year after Dec. 21, 2000.
 
  __Service Disabled Veterans__ 
 
-[Pub. L. 105–135, title VII][/us/pl/105/135], §§ 701–704, 707, 709, Dec. 2, 1997, [111 Stat. 2636–2638][/us/stat/111/2636-2638], provided that:
+[Pub. L. 105–135, title VII][/us/pl/105/135/tVII], §§ 701–704, 707, 709, Dec. 2, 1997, [111 Stat. 2636–2638][/us/stat/111/2636-2638], provided that:
 
 > “SEC. 701. __PURPOSES.__ 
 
@@ -895,41 +895,41 @@
 
  __Transition Reimbursement__ 
 
-    [Pub. L. 103–403, title IV, § 414][/us/pl/103/403/s414], Oct. 22, 1994, [108 Stat. 4197][/us/stat/108/4197], authorized payment, for a 90-day period of time, of reasonable amounts of funds to pay salaries and expenses of members and staff of the National Women’s Business Council appointed on or before Oct. 22, 1994.
+    [Pub. L. 103–403, title IV][/us/pl/103/403/tIV], § 414, Oct. 22, 1994, [108 Stat. 4197][/us/stat/108/4197], authorized payment, for a 90-day period of time, of reasonable amounts of funds to pay salaries and expenses of members and staff of the National Women’s Business Council appointed on or before Oct. 22, 1994.
 
  __Buy American Preference in Provision of Financial Assistance__ 
 
-[Pub. L. 102–366, title I, § 103][/us/pl/102/366/s103], Sept. 4, 1992, [106 Stat. 988][/us/stat/106/988], provided that: 
+[Pub. L. 102–366, title I][/us/pl/102/366/tI], § 103, Sept. 4, 1992, [106 Stat. 988][/us/stat/106/988], provided that: 
 
 > “In providing financial assistance with amounts appropriated pursuant to the amendments made by this Act \[see Short Title of 1992 Amendment note above\], the Administrator of the Small Business Administration shall, when practicable, accord preference to small business concerns which use or purchase equipment and supplies produced in the United States. The Administrator shall also encourage small business concerns receiving such assistance to purchase such equipment and supplies.”
 
  __Feasibility Study of Business Cooperation Network__ 
 
-    [Pub. L. 101–574, title II, § 233][/us/pl/101/574/s233], Nov. 15, 1990, [104 Stat. 2825][/us/stat/104/2825], directed Administrator of the Small Business Administration to conduct a study of feasibility of establishing a business cooperation system similar to Business Cooperation Network developed by the European Economic Community, specified the purpose of the study, and directed Administrator, not later than one year after Nov. 15, 1990, to transmit to Congress a report containing the results of the study together with recommendations for such legislative and administrative actions as the Administrator considered appropriate.
+    [Pub. L. 101–574, title II][/us/pl/101/574/tII], § 233, Nov. 15, 1990, [104 Stat. 2825][/us/stat/104/2825], directed Administrator of the Small Business Administration to conduct a study of feasibility of establishing a business cooperation system similar to Business Cooperation Network developed by the European Economic Community, specified the purpose of the study, and directed Administrator, not later than one year after Nov. 15, 1990, to transmit to Congress a report containing the results of the study together with recommendations for such legislative and administrative actions as the Administrator considered appropriate.
 
  __Development of Women’s Business Enterprise__ 
 
-    [Pub. L. 100–533, title IV][/us/pl/100/533], §§ 401–407, Oct. 25, 1988, [102 Stat. 2694][/us/stat/102/2694], as amended, formerly set out as a note under this section, was transferred to chapter 97 (§ 7101 et seq.) of this title.
+    [Pub. L. 100–533, title IV][/us/pl/100/533/tIV], §§ 401–407, Oct. 25, 1988, [102 Stat. 2694][/us/stat/102/2694], as amended, formerly set out as a note under this section, was transferred to chapter 97 (§ 7101 et seq.) of this title.
 
  __Disadvantaged Small Businesses__ 
 
-[Pub. L. 100–533, title V, § 504][/us/pl/100/533/s504], Oct. 25, 1988, [102 Stat. 2698][/us/stat/102/2698], provided that: 
+[Pub. L. 100–533, title V][/us/pl/100/533/tV], § 504, Oct. 25, 1988, [102 Stat. 2698][/us/stat/102/2698], provided that: 
 
 > “Nothing contained in this Act \[see Short Title of 1988 Amendment note above\] is intended to reduce or limit any programs, benefit, or activity that is authorized by law to assist small business concerns owned and controlled by socially and economically disadvantaged individuals as defined pursuant to section 8(d)(3) of the Small Business Act ([15 U.S.C. 637(d)(3)][/us/usc/t15/s637/d/3]).”
 
  __Globalization of Production; Report to Congress__ 
 
-    [Pub. L. 100–418, title VIII, § 8009][/us/pl/100/418/s8009], Aug. 23, 1988, [102 Stat. 1561][/us/stat/102/1561], directed Administrator of Small Business Administration, within one year after Aug. 23, 1988, to submit a written report to Committees on Small Business of House of Representatives and Senate, prepared by Administration in conjunction with Bureau of Census and in cooperation with other relevant agencies, that would analyze to extent possible the effect of increased outsourcing and other shifts in production arrangements on small firms, particularly manufacturing firms, within United States subcontractor tier and to extent that such data is not available determine methods by which such data might be collected; assess the impact of specific economic policies, including, but not limited to, procurement, tax and trade policies, in facilitating outsourcing and other international production arrangements; and make recommendations as to changes in Government policy that would improve competitive position of smaller United States subcontractors, including recommendations as to incentives which could be provided to larger corporations to maximize their use of United States subcontractors and assist these subcontractors in changing production and marketing strategies and in obtaining new business in domestic and foreign markets.
+    [Pub. L. 100–418, title VIII][/us/pl/100/418/tVIII], § 8009, Aug. 23, 1988, [102 Stat. 1561][/us/stat/102/1561], directed Administrator of Small Business Administration, within one year after Aug. 23, 1988, to submit a written report to Committees on Small Business of House of Representatives and Senate, prepared by Administration in conjunction with Bureau of Census and in cooperation with other relevant agencies, that would analyze to extent possible the effect of increased outsourcing and other shifts in production arrangements on small firms, particularly manufacturing firms, within United States subcontractor tier and to extent that such data is not available determine methods by which such data might be collected; assess the impact of specific economic policies, including, but not limited to, procurement, tax and trade policies, in facilitating outsourcing and other international production arrangements; and make recommendations as to changes in Government policy that would improve competitive position of smaller United States subcontractors, including recommendations as to incentives which could be provided to larger corporations to maximize their use of United States subcontractors and assist these subcontractors in changing production and marketing strategies and in obtaining new business in domestic and foreign markets.
 
  __National Seminars on Small Business Exports__ 
 
-    [Pub. L. 102–366, title II, § 224][/us/pl/102/366/s224], Sept. 4, 1992, [106 Stat. 1000][/us/stat/106/1000], directed Small Business Administration to conduct a National Seminar on Small Business Exports in Buffalo, New York, in connection with the World University Games Buffalo ’93 during July, 1993, in order to develop recommendations designed to stimulate exports from small companies, with such Seminar to build upon the information collected by Administration through previously conducted regional small business trade conferences and prior conference in State of Washington and to specifically consider utility of, and make recommendations regarding, subsequent International Conference on Small Business and Trade.
+    [Pub. L. 102–366, title II][/us/pl/102/366/tII], § 224, Sept. 4, 1992, [106 Stat. 1000][/us/stat/106/1000], directed Small Business Administration to conduct a National Seminar on Small Business Exports in Buffalo, New York, in connection with the World University Games Buffalo ’93 during July, 1993, in order to develop recommendations designed to stimulate exports from small companies, with such Seminar to build upon the information collected by Administration through previously conducted regional small business trade conferences and prior conference in State of Washington and to specifically consider utility of, and make recommendations regarding, subsequent International Conference on Small Business and Trade.
 
-    [Pub. L. 100–418, title VIII, § 8011][/us/pl/100/418/s8011], Aug. 23, 1988, [102 Stat. 1562][/us/stat/102/1562], directed Small Business Administration to conduct a National Seminar on Small Business Exports within one year after Aug. 23, 1988, in order to develop recommendations designed to stimulate exports from small companies.
+    [Pub. L. 100–418, title VIII][/us/pl/100/418/tVIII], § 8011, Aug. 23, 1988, [102 Stat. 1562][/us/stat/102/1562], directed Small Business Administration to conduct a National Seminar on Small Business Exports within one year after Aug. 23, 1988, in order to develop recommendations designed to stimulate exports from small companies.
 
  __Appointment of Administrator of Small Business Administration to Trade Policy Committee; Special Trade Assistant for Small Business in Office of United States Trade Representative__ 
 
-[Pub. L. 100–418, title VIII, § 8012][/us/pl/100/418/s8012], Aug. 23, 1988, [102 Stat. 1563][/us/stat/102/1563], provided that:
+[Pub. L. 100–418, title VIII][/us/pl/100/418/tVIII], § 8012, Aug. 23, 1988, [102 Stat. 1563][/us/stat/102/1563], provided that:
 
 >     “It is the sense of the Congress that the interests of the small business community have not been adequately represented in trade policy formulation and in trade negotiations. Therefore, it is the sense of the Congress that the Administrator of the Small Business Administration should be appointed as a member of the Trade Policy Committee and that the United States Trade Representative should consult with the Small Business Administration and its Office of Advocacy in trade policy formulation and in trade negotiations.
 
@@ -939,17 +939,17 @@
 
  __White House Conference on Small Business__ 
 
-    [Pub. L. 101–409][/us/pl/101/409], Oct. 5, 1990, [104 Stat. 885][/us/stat/104/885], as amended by [Pub. L. 103–81, § 10][/us/pl/103/81/s10], Aug. 13, 1993, [107 Stat. 783][/us/stat/107/783], directed President to conduct National White House Conference on Small Business not earlier than May 1, 1995, and not later than Sept. 30, 1995, to increase public awareness of essential contribution of small business, to identify obstacles to small business, to examine status of women and minorities as small business owners, and to develop specific recommendations for action to maintain and encourage economic viability of small business, further provided for creation of White House Conference on Small Business Commission to oversee preparation for Conference, further provided for selection of Conference participants as well as planning and administration of Conference, further provided for final report to be submitted not later than four months after convening of Conference as well as annual follow-up reports by Small Business Administration for three years after submission of final report, and further provided for authorization of appropriations.
+    [Pub. L. 101–409][/us/pl/101/409], Oct. 5, 1990, [104 Stat. 885][/us/stat/104/885], as amended by [Pub. L. 103–81][/us/pl/103/81], § 10, Aug. 13, 1993, [107 Stat. 783][/us/stat/107/783], directed President to conduct National White House Conference on Small Business not earlier than May 1, 1995, and not later than Sept. 30, 1995, to increase public awareness of essential contribution of small business, to identify obstacles to small business, to examine status of women and minorities as small business owners, and to develop specific recommendations for action to maintain and encourage economic viability of small business, further provided for creation of White House Conference on Small Business Commission to oversee preparation for Conference, further provided for selection of Conference participants as well as planning and administration of Conference, further provided for final report to be submitted not later than four months after convening of Conference as well as annual follow-up reports by Small Business Administration for three years after submission of final report, and further provided for authorization of appropriations.
 
     [Pub. L. 98–276][/us/pl/98/276], May 8, 1984, [98 Stat. 169][/us/stat/98/169], directed President to call and conduct a National White House Conference on Small Business not later than Sept. 1, 1986, with Conference to submit a final report to President and Congress not more than six months from date on which Conference convened, and with that final report to include finding and recommendations of Conference as well as proposals for any legislative action necessary to implement Conference’s recommendations; and required Small Business Administration to report to Congress annually during the 3-year period following submission of final report on status and implementation of findings and recommendations of Conference.
 
  __Asian Pacific Americans as Disadvantaged Minority in 1978__ 
 
-    [Pub. L. 96–302, title I, § 118(c)(1)][/us/pl/96/302/s118/c/1], July 2, 1980, [94 Stat. 840][/us/stat/94/840], provided that 1980 Amendment of subsec. (e)(1)(C) by [Pub. L. 96–302, § 118(a)][/us/pl/96/302/s118/a], which included Asian Pacific Americans among the disadvantaged minorities, shall apply as if included in the 1978 Amendment made by [Pub. L. 95–507, § 201][/us/pl/95/507/s201], enacting subsec. (e) of this section.
+    [Pub. L. 96–302, title I][/us/pl/96/302/tI], § 118(c)(1), July 2, 1980, [94 Stat. 840][/us/stat/94/840], provided that 1980 Amendment of subsec. (e)(1)(C) by [Pub. L. 96–302][/us/pl/96/302], § 118(a), which included Asian Pacific Americans among the disadvantaged minorities, shall apply as if included in the 1978 Amendment made by [Pub. L. 95–507][/us/pl/95/507], § 201, enacting subsec. (e) of this section.
 
  __Assistance to Automobile Dealers; Congressional Findings; Investigation by Administrator; Report to Congress__ 
 
-    [Pub. L. 96–185, § 17][/us/pl/96/185/s17], Jan. 7, 1980, [93 Stat. 1335][/us/stat/93/1335], directed Administrator of Small Business Administration to investigate financial problems faced by small automobile dealers and determine what assistance through loans and loan guarantees may be needed to alleviate such problems and to report results of such investigation to Senate and House of Representatives not later than sixty days after Jan. 7, 1980.
+    [Pub. L. 96–185][/us/pl/96/185], § 17, Jan. 7, 1980, [93 Stat. 1335][/us/stat/93/1335], directed Administrator of Small Business Administration to investigate financial problems faced by small automobile dealers and determine what assistance through loans and loan guarantees may be needed to alleviate such problems and to report results of such investigation to Senate and House of Representatives not later than sixty days after Jan. 7, 1980.
 
  __Executive Order No. 11458__ 
 
@@ -1285,7 +1285,7 @@ In order to coordinate executive departments’ and agencies’ efforts towards 
 
  __Definitions__ 
 
-[Pub. L. 105–135, § 2][/us/pl/105/135/s2], Dec. 2, 1997, [111 Stat. 2593][/us/stat/111/2593], provided that: 
+[Pub. L. 105–135][/us/pl/105/135], § 2, Dec. 2, 1997, [111 Stat. 2593][/us/stat/111/2593], provided that: 
 
 > “In this Act \[see Short Title of 1997 Amendment note above\]—
 
@@ -1297,7 +1297,7 @@ In order to coordinate executive departments’ and agencies’ efforts towards 
 
 >     “(4) the term ‘small business concern’ has the meaning given the term in section 3 of the Small Business Act ([15 U.S.C. 632][/us/usc/t15/s632]).”
 
-[Pub. L. 104–208, div. D, § 2][/us/pl/104/208/s2], Sept. 30, 1996, [110 Stat. 3009–725][/us/stat/110/3009-725], provided that: 
+[Pub. L. 104–208, div. D][/us/pl/104/208/dD], § 2, Sept. 30, 1996, [110 Stat. 3009–725][/us/stat/110/3009-725], provided that: 
 
 > “For purposes of this Act \[probably should be “division”, see Short Title of 1996 Amendment note above\], the term ‘Administrator’ means the Administrator of the Small Business Administration.”
 
@@ -1314,41 +1314,41 @@ In order to coordinate executive departments’ and agencies’ efforts towards 
 [/us/usc/t15/s636/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fj
 [/us/usc/t15/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F384
-[/us/pl/87/70/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs305%2Fb
+[/us/pl/87/70/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2FtIII
 [/us/stat/75/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F167
-[/us/pl/87/305/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F305%2Fs6
+[/us/pl/87/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F305
 [/us/stat/75/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F667
-[/us/pl/93/386/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386%2Fs2%2Fa%2F1
+[/us/pl/93/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386
 [/us/stat/88/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F742
-[/us/pl/94/305/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2Fs112%2Fa
+[/us/pl/94/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2FtI
 [/us/stat/90/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F667
-[/us/pl/95/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507
+[/us/pl/95/507/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507%2FtII
 [/us/stat/92/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1760
-[/us/pl/96/302/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs118%2Fa
+[/us/pl/96/302/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2FtI
 [/us/stat/94/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F840
-[/us/pl/99/272/s18015/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs18015%2Fa
+[/us/pl/99/272/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXVIII
 [/us/stat/100/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F370
-[/us/pl/100/418/s8002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8002
+[/us/pl/100/418/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVIII
 [/us/stat/102/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1553
-[/us/pl/100/533/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs101
+[/us/pl/100/533/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2FtI
 [/us/stat/102/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2689
-[/us/pl/100/590/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2Fs118
+[/us/pl/100/590/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2FtI
 [/us/stat/102/2999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2999
-[/us/pl/100/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656
+[/us/pl/100/656/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656%2FtII
 [/us/stat/102/3859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3859
-[/us/pl/101/37/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F37%2Fs6%2Fc
+[/us/pl/101/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F37
 [/us/stat/103/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F72
-[/us/pl/103/403/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs609
+[/us/pl/103/403/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtVI
 [/us/stat/108/4204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4204
-[/us/pl/105/135/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs411
+[/us/pl/105/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtIV
 [/us/stat/111/2617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2617
-[/us/pl/111/240/s1203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1203%2Fd
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2522
 [/us/act/1953-07-30/ch282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-30%2Fch282
 [/us/stat/67/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F232
-[/us/act/1955-06-30/ch251/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-30%2Fch251%2Fs4
+[/us/act/1955-06-30/ch251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-30%2Fch251
 [/us/stat/69/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F225
 [/us/act/1955-08-09/ch628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch628
 [/us/stat/69/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F547
@@ -1366,39 +1366,39 @@ In order to coordinate executive departments’ and agencies’ efforts towards 
 [/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
 [/us/pl/101/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F37
-[/us/pl/100/656/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656%2Fs207%2Fb
+[/us/pl/100/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/100/656/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656%2Fs204%2Fb
+[/us/pl/100/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/100/656/s204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656%2Fs204%2Fa%2F1
+[/us/pl/100/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t15/s636/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fj
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/100/656/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656%2Fs207%2Fb
+[/us/pl/100/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656
 [/us/pl/101/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F37
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/100/656/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656%2Fs204%2Fa%2F2
+[/us/pl/100/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t15/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa
-[/us/pl/100/590/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2Fs118
+[/us/pl/100/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590
 [/us/pl/100/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/96/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302
-[/us/pl/95/507/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507%2Fs203
-[/us/pl/95/507/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507%2Fs201
+[/us/pl/95/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507
+[/us/pl/95/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507
 [/us/pl/94/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305
 [/us/pl/93/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386
 [/us/pl/87/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F305
 [/us/pl/87/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70
-[/us/pl/105/135/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs3
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/stat/111/2593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2593
-[/us/pl/101/37/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F37%2Fs32
+[/us/pl/101/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F37
 [/us/stat/103/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F77
 [/us/pl/100/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656
-[/us/pl/100/656/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656%2Fs803
+[/us/pl/100/656/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656%2FtVIII
 [/us/stat/102/3899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3899
-[/us/pl/101/37/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F37%2Fs31
+[/us/pl/101/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F37
 [/us/stat/103/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F76
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
@@ -1417,40 +1417,40 @@ In order to coordinate executive departments’ and agencies’ efforts towards 
 [/us/usc/t15/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637
 [/us/usc/t15/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637
 [/us/usc/t15/s636/j/13/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fj%2F13%2FE
-[/us/pl/100/590/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2Fs137
+[/us/pl/100/590/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2FtI
 [/us/stat/102/3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3007
 [/us/usc/t15/s694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs694
 [/us/usc/t15/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637
-[/us/pl/100/418/s8014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8014
+[/us/pl/100/418/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVIII
 [/us/stat/102/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1563
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
-[/us/pl/97/35/s1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1918
+[/us/pl/97/35/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIX
 [/us/stat/95/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F781
 [/us/usc/t15/s1910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1910
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
 [/us/usc/t15/s636a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636a
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
-[/us/pl/96/302/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs507
+[/us/pl/96/302/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2FtV
 [/us/stat/94/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F854
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/114/88/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2Fs1%2Fa
+[/us/pl/114/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88
 [/us/stat/129/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F686
-[/us/pl/114/88/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2Fs1001
+[/us/pl/114/88/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2FdA
 [/us/stat/129/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F687
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
-[/us/pl/114/88/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2Fs2001
+[/us/pl/114/88/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2FdB
 [/us/stat/129/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F689
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
-[/us/pl/114/38/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F38%2Fs1
+[/us/pl/114/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F38
 [/us/stat/129/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F437
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
-[/us/pl/112/81/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5001
+[/us/pl/112/81/dE/tL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdE%2FtL
 [/us/stat/125/1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1822
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
-[/us/pl/112/17/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F17%2Fs1
+[/us/pl/112/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F17
 [/us/stat/125/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F221
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
-[/us/pl/111/240/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 [/us/stat/124/2504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2504
 [/us/usc/t12/s4713a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4713a
 [/us/usc/t42/s1320a–7m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937m
@@ -1458,16 +1458,16 @@ In order to coordinate executive departments’ and agencies’ efforts towards 
 [/us/usc/t10/s2382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2382
 [/us/usc/t15/s634g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs634g
 [/us/usc/t15/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644
-[/us/pl/111/240/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1101
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2507
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 [/us/usc/t12/s4713a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4713a
-[/us/pl/111/240/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1201
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2520
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
-[/us/pl/110/234/s12051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12051
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1406
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
@@ -1476,10 +1476,10 @@ In order to coordinate executive departments’ and agencies’ efforts towards 
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/110/186/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F186%2Fs1
+[/us/pl/110/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F186
 [/us/stat/122/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F623
 [/us/usc/t15/s657b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657b
-[/us/pl/110/28/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8301
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F204
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
 [/us/usc/t15/s656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs656
@@ -1487,259 +1487,259 @@ In order to coordinate executive departments’ and agencies’ efforts towards 
 [/us/usc/t15/s656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs656
 [/us/usc/t42/s9858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
-[/us/pl/108/447/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs1%2Fa
+[/us/pl/108/447/dK]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdK
 [/us/stat/118/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3441
 [/us/usc/t15/s657b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657b
 [/us/usc/t15/s694b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs694b
-[/us/pl/107/50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50%2Fs1
+[/us/pl/107/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50
 [/us/stat/115/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F263
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
-[/us/pl/106/165/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F165%2Fs1
+[/us/pl/106/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F165
 [/us/stat/113/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1795
 [/us/usc/t15/s656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs656
 [/us/usc/t15/s656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs656
-[/us/pl/106/50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2Fs1
+[/us/pl/106/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50
 [/us/stat/113/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F233
-[/us/pl/106/22/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F22%2Fs1
+[/us/pl/106/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F22
 [/us/stat/113/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F36
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
-[/us/pl/106/17/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F17%2Fs1
+[/us/pl/106/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F17
 [/us/stat/113/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F27
 [/us/usc/t15/s656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs656
 [/us/usc/t15/s656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs656
-[/us/pl/106/8/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F8%2Fs1
+[/us/pl/106/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F8
 [/us/stat/113/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F13
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
-[/us/pl/105/277/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs901
+[/us/pl/105/277/dC/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtIX
 [/us/stat/112/2681-707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-707
 [/us/usc/t15/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs654
 [/us/usc/t15/s648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648
 [/us/usc/t15/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs654
-[/us/pl/105/135/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs1%2Fa
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/stat/111/2592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2592
 [/us/usc/t15/s7109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7109
 [/us/usc/t10/s2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2323
 [/us/usc/t12/s1441a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441a
 [/us/usc/t42/s13556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13556
 [/us/usc/t41/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs405
-[/us/pl/105/135/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs601
+[/us/pl/105/135/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtVI
 [/us/stat/111/2627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2627
 [/us/usc/t15/s657a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657a
 [/us/usc/t10/s2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2323
 [/us/usc/t12/s1441a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441a
 [/us/usc/t42/s13556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13556
-[/us/pl/104/208/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs1%2Fa
+[/us/pl/104/208/dD]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD
 [/us/stat/110/3009-724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-724
 [/us/usc/t12/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1431
 [/us/usc/t15/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644
 [/us/usc/t15/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs634
-[/us/pl/104/36/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F36%2Fs1
+[/us/pl/104/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F36
 [/us/stat/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F295
 [/us/usc/t15/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs634
 [/us/usc/t15/s694b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs694b
-[/us/pl/103/403/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs1%2Fa
+[/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
 [/us/stat/108/4175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4175
 [/us/usc/t15/s697e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs697e
 [/us/usc/t15/s697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs697
-[/us/pl/103/81/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F81%2Fs1%2Fa
+[/us/pl/103/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F81
 [/us/stat/107/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F780
 [/us/usc/t15/s648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648
-[/us/pl/102/564/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs1%2Fa
+[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
 [/us/stat/106/4249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4249
 [/us/usc/t18/s4124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4124
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
-[/us/pl/102/564/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs101
+[/us/pl/102/564/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2FtI
 [/us/stat/106/4249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4249
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
-[/us/pl/102/564/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs201
+[/us/pl/102/564/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2FtII
 [/us/stat/106/4256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4256
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
-[/us/pl/102/366/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs1%2Fa
+[/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
 [/us/stat/106/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F986
-[/us/pl/102/366/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs101
+[/us/pl/102/366/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2FtI
 [/us/stat/106/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F987
 [/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
-[/us/pl/102/366/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs111
+[/us/pl/102/366/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2FtI
 [/us/stat/106/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F989
 [/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
-[/us/pl/102/191/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F191%2Fs1
+[/us/pl/102/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F191
 [/us/stat/105/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1589
 [/us/usc/t15/s656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs656
 [/us/usc/t15/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637
-[/us/pl/101/574/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs1
+[/us/pl/101/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574
 [/us/stat/104/2814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2814
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
 [/us/usc/t44/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs502
 [/us/usc/t15/s648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648
-[/us/pl/101/574/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs301
+[/us/pl/101/574/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2FtIII
 [/us/stat/104/2827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2827
 [/us/usc/t15/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs653
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
-[/us/pl/101/37/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F37%2Fs1
+[/us/pl/101/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F37
 [/us/stat/103/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F70
-[/us/pl/100/656/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656%2Fs1%2Fa
+[/us/pl/100/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656
 [/us/stat/102/3853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3853
 [/us/usc/t15/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644
-[/us/pl/100/590/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2Fs1%2Fa
+[/us/pl/100/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590
 [/us/stat/102/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2989
 [/us/usc/t15/s694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs694
-[/us/pl/100/533/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs1
+[/us/pl/100/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533
 [/us/stat/102/2689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2689
 [/us/pl/100/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533
 [/us/usc/t41/s417a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs417a
 [/us/usc/t13/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft13%2Fs131
-[/us/pl/100/418/s8001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8001
+[/us/pl/100/418/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVIII
 [/us/stat/102/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1553
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
-[/us/pl/98/395/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395%2Fs1
+[/us/pl/98/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395
 [/us/stat/98/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1366
 [/us/usc/t15/s648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648
-[/us/pl/98/362/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F362%2Fs1
+[/us/pl/98/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F362
 [/us/stat/98/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F431
-[/us/pl/98/352/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F352%2Fs1
+[/us/pl/98/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F352
 [/us/stat/98/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F329
 [/us/usc/t15/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs634
-[/us/pl/97/219/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F219%2Fs1
+[/us/pl/97/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F219
 [/us/stat/96/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F217
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
-[/us/pl/97/35/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1901
+[/us/pl/97/35/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIX
 [/us/stat/95/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F767
 [/us/usc/t15/s636a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636a
-[/us/pl/96/481/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs110
+[/us/pl/96/481/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2FtI
 [/us/stat/94/2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2323
 [/us/pl/96/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481
 [/us/usc/t15/s649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs649
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
 [/us/usc/t15/s649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs649
-[/us/pl/96/302/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs201
+[/us/pl/96/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2FtII
 [/us/stat/94/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F843
 [/us/usc/t15/s648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648
-[/us/pl/96/302/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs301
+[/us/pl/96/302/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2FtIII
 [/us/stat/94/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F848
-[/us/pl/96/302/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs501
+[/us/pl/96/302/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2FtV
 [/us/stat/94/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F850
-[/us/pl/95/315/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F315%2Fs1
+[/us/pl/95/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F315
 [/us/stat/92/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F377
-[/us/pl/93/386/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386%2Fs1
+[/us/pl/93/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386
 [/us/stat/88/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F742
 [/us/usc/t15/s694c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs694c
-[/us/pl/90/104/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104%2Fs101
+[/us/pl/90/104/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104%2FtI
 [/us/stat/81/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F268
 [/us/usc/t42/s2902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2902
-[/us/pl/87/305/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F305%2Fs1
+[/us/pl/87/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F305
 [/us/stat/75/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F666
 [/us/usc/t50/s4558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4558
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F384
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F396
-[/us/pl/96/302/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs202
+[/us/pl/96/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2FtII
 [/us/stat/94/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F843
-[/us/pl/104/121/s222/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs222%2F1
+[/us/pl/104/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtII
 [/us/stat/110/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F860
-[/us/pl/105/135/s602/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs602%2Fb%2F1%2FA
+[/us/pl/105/135/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtVI
 [/us/stat/111/2629]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2629
-[/us/pl/106/50/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2Fs201%2Fb%2F1
+[/us/pl/106/50/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2FtII
 [/us/stat/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F235
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/183/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs308
+[/us/pl/108/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtIII
 [/us/stat/117/2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2662
-[/us/pl/110/234/s12062/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12062%2F1
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1407
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/111/240/s1313/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1313%2Fa%2F1
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2538
-[/us/pl/112/239/s1641/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1641%2F1
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2076
-[/us/pl/105/135/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs417
+[/us/pl/105/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtIV
 [/us/stat/111/2620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2620
 [/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/usc/t15/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637
 [/us/usc/t41/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs405
 [/us/usc/t41/s418b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs418b
 [/us/usc/t41/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1707
-[/us/pl/100/590/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2Fs136
+[/us/pl/100/590/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2FtI
 [/us/stat/102/3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3007
-[/us/pl/100/418/s8013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8013
+[/us/pl/100/418/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVIII
 [/us/stat/102/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1563
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F396
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F396
-[/us/pl/87/341/s11/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341%2Fs11%2Fh%2F2
+[/us/pl/87/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341
 [/us/stat/75/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F757
-[/us/pl/95/89/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F89%2Fs102
+[/us/pl/95/89/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F89%2FtI
 [/us/stat/91/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F553
 [/us/pl/95/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F315
 [/us/stat/92/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F379
-[/us/pl/96/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302
+[/us/pl/96/302/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2FtI
 [/us/stat/94/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F833
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIX
 [/us/stat/95/772-777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F772-777
-[/us/pl/98/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F270
+[/us/pl/98/270/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F270%2FtIII
 [/us/stat/98/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F160
-[/us/pl/98/395/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395%2Fs3
+[/us/pl/98/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395
 [/us/stat/98/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1367
-[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXVIII
 [/us/stat/100/361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F361
-[/us/pl/100/72/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F72%2Fs1
+[/us/pl/100/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F72
 [/us/stat/101/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F477
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVIII
 [/us/stat/102/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1556
-[/us/pl/100/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590
+[/us/pl/100/590/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2FtI
 [/us/stat/102/2990]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2990
-[/us/pl/101/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574
+[/us/pl/101/574/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2FtI
 [/us/stat/104/2815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2815
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
+[/us/pl/102/366/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2FtI
 [/us/stat/106/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F987
-[/us/pl/103/81/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F81%2Fs2
+[/us/pl/103/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F81
 [/us/stat/107/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F780
-[/us/pl/103/282/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F282%2Fs1
+[/us/pl/103/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F282
 [/us/stat/108/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1422
-[/us/pl/103/403/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs101
+[/us/pl/103/403/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtI
 [/us/stat/108/4176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4176
-[/us/pl/104/208/s208/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fi%2F2
+[/us/pl/104/208/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD%2FtII
 [/us/stat/110/3009-747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-747
-[/us/pl/105/135/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs101
+[/us/pl/105/135/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtI
 [/us/stat/111/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2594
-[/us/pl/106/9/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F9%2Fs2%2Fb
+[/us/pl/106/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F9
 [/us/stat/113/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F17
-[/us/pl/106/24/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F24%2Fs1%2Fb
+[/us/pl/106/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F24
 [/us/stat/113/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F39
-[/us/pl/106/554/s1/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F8
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/20/s2203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2Fs2203%2Fa
+[/us/pl/107/20/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2FtII
 [/us/stat/115/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F170
-[/us/pl/108/217/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F217%2Fs3
+[/us/pl/108/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F217
 [/us/stat/118/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F591
-[/us/pl/108/447/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs121
+[/us/pl/108/447/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdK%2FtI
 [/us/stat/118/3446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3446
 [/us/usc/t15/s648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648
 [/us/usc/t15/s636/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fb%2F1%2FC
@@ -1755,55 +1755,55 @@ In order to coordinate executive departments’ and agencies’ efforts towards 
 [/us/usc/t15/s694b/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs694b%2Fa%2F3
 [/us/usc/t15/s637/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fb%2F1
 [/us/usc/t15/s636/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fb
-[/us/pl/108/447/s121/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs121%2F2
+[/us/pl/108/447/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdK%2FtI
 [/us/stat/118/3446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3446
 [/us/usc/t15/s681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681
-[/us/pl/112/239/s1622/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1622%2Fa
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2069
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/112/239/s1633/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1633%2Fb
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2076
-[/us/pl/114/92/s871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs871
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F939
 [/us/usc/t5/s3396/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3396%2Fa
 [/us/usc/t5/s3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3396
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtVII
 [/us/stat/111/2636-2638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2636-2638
 [/us/usc/t38/s4211/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4211%2F3
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/103/403/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs414
+[/us/pl/103/403/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtIV
 [/us/stat/108/4197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4197
-[/us/pl/102/366/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs103
+[/us/pl/102/366/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2FtI
 [/us/stat/106/988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F988
-[/us/pl/101/574/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs233
+[/us/pl/101/574/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2FtII
 [/us/stat/104/2825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2825
-[/us/pl/100/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533
+[/us/pl/100/533/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2FtIV
 [/us/stat/102/2694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2694
-[/us/pl/100/533/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs504
+[/us/pl/100/533/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2FtV
 [/us/stat/102/2698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2698
 [/us/usc/t15/s637/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fd%2F3
-[/us/pl/100/418/s8009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8009
+[/us/pl/100/418/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVIII
 [/us/stat/102/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1561
-[/us/pl/102/366/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs224
+[/us/pl/102/366/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2FtII
 [/us/stat/106/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1000
-[/us/pl/100/418/s8011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8011
+[/us/pl/100/418/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVIII
 [/us/stat/102/1562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1562
-[/us/pl/100/418/s8012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8012
+[/us/pl/100/418/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVIII
 [/us/stat/102/1563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1563
 [/us/pl/101/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F409
 [/us/stat/104/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F885
-[/us/pl/103/81/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F81%2Fs10
+[/us/pl/103/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F81
 [/us/stat/107/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F783
 [/us/pl/98/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F276
 [/us/stat/98/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F169
-[/us/pl/96/302/s118/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs118%2Fc%2F1
+[/us/pl/96/302/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2FtI
 [/us/stat/94/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F840
-[/us/pl/96/302/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs118%2Fa
-[/us/pl/95/507/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507%2Fs201
-[/us/pl/96/185/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F185%2Fs17
+[/us/pl/96/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302
+[/us/pl/95/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507
+[/us/pl/96/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F185
 [/us/stat/93/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1335
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
@@ -1832,10 +1832,10 @@ In order to coordinate executive departments’ and agencies’ efforts towards 
 [/us/usc/t38/s101/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F16
 [/us/usc/t15/s632/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fq
 [/us/usc/t15/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fa
-[/us/pl/105/135/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs2
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/stat/111/2593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2593
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
-[/us/pl/104/208/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2
+[/us/pl/104/208/dD]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD
 [/us/stat/110/3009-725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-725
 
 

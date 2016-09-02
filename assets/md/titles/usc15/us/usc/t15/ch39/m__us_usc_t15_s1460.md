@@ -23,7 +23,7 @@
 
     (c) the Federal Hazardous Substances Labeling Act \[[15 U.S.C. 1261][/us/usc/t15/s1261] et seq.\].
 
-([Pub. L. 89–755, § 11][/us/pl/89/755/s11], Nov. 3, 1966, [80 Stat. 1302][/us/stat/80/1302].)
+([Pub. L. 89–755][/us/pl/89/755], § 11, Nov. 3, 1966, [80 Stat. 1302][/us/stat/80/1302].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t15/s1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1261
-[/us/pl/89/755/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F755%2Fs11
+[/us/pl/89/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F755
 [/us/stat/80/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1302
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

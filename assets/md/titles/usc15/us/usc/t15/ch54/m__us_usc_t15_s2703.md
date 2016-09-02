@@ -63,7 +63,7 @@
 
         (6) The provisions and requirements of this subsection shall not apply with respect to any contract, grant, or project which was entered into, made, or formally approved and initiated prior to February 25, 1978, or with respect to any renewal or extension thereof.
 
-([Pub. L. 95–238, title III, § 304][/us/pl/95/238/s304], Feb. 25, 1978, [92 Stat. 79][/us/stat/92/79]; [Pub. L. 103–437, § 5(b)(4)][/us/pl/103/437/s5/b/4], Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582].)
+([Pub. L. 95–238, title III][/us/pl/95/238/tIII], § 304, Feb. 25, 1978, [92 Stat. 79][/us/stat/92/79]; [Pub. L. 103–437][/us/pl/103/437], § 5(b)(4), Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582].)
 
  __References in Text__ 
 
@@ -87,9 +87,9 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t42/s5916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5916
 [/us/usc/t15/s2709/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2709%2Fa
-[/us/pl/95/238/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs304
+[/us/pl/95/238/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtIII
 [/us/stat/92/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F79
-[/us/pl/103/437/s5/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs5%2Fb%2F4
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4582
 [/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
 [/us/stat/92/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F47

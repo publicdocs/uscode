@@ -43,7 +43,7 @@
 
             For the purpose of the exercise by any agency referred to in paragraph (1) of its powers under any Act referred to in that paragraph, a violation of this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in paragraph (1), each of the agencies referred to in that paragraph may exercise, for the purpose of enforcing compliance with this subchapter, any other authority conferred on such agency by law.
 
-([Pub. L. 106–102, title V, § 522][/us/pl/106/102/s522], Nov. 12, 1999, [113 Stat. 1447][/us/stat/113/1447].)
+([Pub. L. 106–102, title V][/us/pl/106/102/tV], § 522, Nov. 12, 1999, [113 Stat. 1447][/us/stat/113/1447].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
 [/us/usc/t12/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs601
 [/us/usc/t12/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1751
-[/us/pl/106/102/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs522
+[/us/pl/106/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtV
 [/us/stat/113/1447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1447
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
 [/us/pl/95/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F109

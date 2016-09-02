@@ -53,17 +53,17 @@
 
         (3) recipients of commercial electronic mail have a right to decline to receive additional commercial electronic mail from the same source.
 
-([Pub. L. 108–187, § 2][/us/pl/108/187/s2], Dec. 16, 2003, [117 Stat. 2699][/us/stat/117/2699].)
+([Pub. L. 108–187][/us/pl/108/187], § 2, Dec. 16, 2003, [117 Stat. 2699][/us/stat/117/2699].)
 
  __Effective Date__ 
 
-[Pub. L. 108–187, § 16][/us/pl/108/187/s16], Dec. 16, 2003, [117 Stat. 2719][/us/stat/117/2719], provided that: 
+[Pub. L. 108–187][/us/pl/108/187], § 16, Dec. 16, 2003, [117 Stat. 2719][/us/stat/117/2719], provided that: 
 
 > “The provisions of this Act \[see Short Title note below\], other than section 9 \[enacting [section 7708 of this title][/us/usc/t15/s7708]\], shall take effect on January 1, 2004.”
 
  __Short Title__ 
 
-[Pub. L. 108–187, § 1][/us/pl/108/187/s1], Dec. 16, 2003, [117 Stat. 2699][/us/stat/117/2699], provided that: 
+[Pub. L. 108–187][/us/pl/108/187], § 1, Dec. 16, 2003, [117 Stat. 2699][/us/stat/117/2699], provided that: 
 
 > “This Act \[enacting this chapter and [section 1037 of Title 18][/us/usc/t18/s1037], Crimes and Criminal Procedure, amending [section 227 of Title 47][/us/usc/t47/s227], Telecommunications, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under [section 994 of Title 28][/us/usc/t28/s994], Judiciary and Judicial Procedure\] may be cited as the ‘Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003’, or the ‘CAN-SPAM Act of 2003’.”
 
@@ -74,12 +74,12 @@
 ----------
 ----------
 
-[/us/pl/108/187/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs2
+[/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2699
-[/us/pl/108/187/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs16
+[/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2719
 [/us/usc/t15/s7708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7708
-[/us/pl/108/187/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs1
+[/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2699
 [/us/usc/t18/s1037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1037
 [/us/usc/t47/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs227

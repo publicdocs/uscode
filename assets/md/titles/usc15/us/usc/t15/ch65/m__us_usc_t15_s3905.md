@@ -31,7 +31,7 @@
 
         Subject to the provisions of [section 3902(a)(4) of this title][/us/usc/t15/s3902/a/4] relating to discrimination, nothing in this chapter shall be construed to preempt the authority of a State to specify acceptable means of demonstrating financial responsibility where the State has required a demonstration of financial responsibility as a condition for obtaining a license or permit to undertake specified activities. Such means may include or exclude insurance coverage obtained from an admitted insurance company, an excess lines company, a risk retention group, or any other source regardless of whether coverage is obtained directly from an insurance company or through a broker, agent, purchasing group, or any other person.
 
-([Pub. L. 97–45, § 6][/us/pl/97/45/s6], as added [Pub. L. 99–563, § 8(c)][/us/pl/99/563/s8/c], Oct. 27, 1986, [100 Stat. 3175][/us/stat/100/3175].)
+([Pub. L. 97–45][/us/pl/97/45], § 6, as added [Pub. L. 99–563][/us/pl/99/563], § 8(c), Oct. 27, 1986, [100 Stat. 3175][/us/stat/100/3175].)
 
 ----------
 
@@ -41,8 +41,8 @@
 ----------
 
 [/us/usc/t15/s3902/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3902%2Fa%2F4
-[/us/pl/97/45/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F45%2Fs6
-[/us/pl/99/563/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs8%2Fc
+[/us/pl/97/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F45
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
 [/us/stat/100/3175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3175
 
 

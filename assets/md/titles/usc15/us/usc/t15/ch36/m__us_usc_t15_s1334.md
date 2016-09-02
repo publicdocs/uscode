@@ -27,7 +27,7 @@
 
         Notwithstanding subsection (b), a State or locality may enact statutes and promulgate regulations, based on smoking and health, that take effect after the effective date of the Family Smoking Prevention and Tobacco Control Act, imposing specific bans or restrictions on the time, place, and manner, but not content, of the advertising or promotion of any cigarettes.
 
-([Pub. L. 89–92, § 5][/us/pl/89/92/s5], July 27, 1965, [79 Stat. 283][/us/stat/79/283]; [Pub. L. 91–222, § 2][/us/pl/91/222/s2], Apr. 1, 1970, [84 Stat. 88][/us/stat/84/88]; [Pub. L. 111–31, div. A, title II][/us/pl/111/31], §§ 202(a), 203, June 22, 2009, [123 Stat. 1845][/us/stat/123/1845], 1846.)
+([Pub. L. 89–92][/us/pl/89/92], § 5, July 27, 1965, [79 Stat. 283][/us/stat/79/283]; [Pub. L. 91–222][/us/pl/91/222], § 2, Apr. 1, 1970, [84 Stat. 88][/us/stat/84/88]; [Pub. L. 111–31, div. A, title II][/us/pl/111/31/dA/tII], §§ 202(a), 203, June 22, 2009, [123 Stat. 1845][/us/stat/123/1845], 1846.)
 
  __References in Text__ 
 
@@ -37,9 +37,9 @@
 
  __Amendments__ 
 
-    2009—Subsec. (a). [Pub. L. 111–31, § 202(a)][/us/pl/111/31/s202/a], substituted “Except to the extent the Secretary requires additional or different statements on any cigarette package by a regulation, by an order, by a standard, by an authorization to market a product, or by a condition of marketing a product, pursuant to the Family Smoking Prevention and Tobacco Control Act (and the amendments made by that Act), or as required under [section 387c(a)(2) of title 21][/us/usc/t21/s387c/a/2] or [section 387t(a) of title 21][/us/usc/t21/s387t/a], no” for “No”.
+    2009—Subsec. (a). [Pub. L. 111–31][/us/pl/111/31], § 202(a), substituted “Except to the extent the Secretary requires additional or different statements on any cigarette package by a regulation, by an order, by a standard, by an authorization to market a product, or by a condition of marketing a product, pursuant to the Family Smoking Prevention and Tobacco Control Act (and the amendments made by that Act), or as required under [section 387c(a)(2) of title 21][/us/usc/t21/s387c/a/2] or [section 387t(a) of title 21][/us/usc/t21/s387t/a], no” for “No”.
 
-    Subsec. (c). [Pub. L. 111–31, § 203][/us/pl/111/31/s203], added subsec. (c).
+    Subsec. (c). [Pub. L. 111–31][/us/pl/111/31], § 203, added subsec. (c).
 
     1970—Subsec. (b). [Pub. L. 91–222][/us/pl/91/222] substituted provision that no requirement or prohibition based on smoking and health should be imposed under State law with respect to the advertising or promotion of any cigarettes which packages are labeled in conformity with the provisions of this chapter for provision that no statement relating to smoking and health should be required in the advertising of any cigarettes which packages are labeled in conformity with the provisions of this chapter.
 
@@ -47,7 +47,7 @@
 
  __Effective Date of 1970 Amendment__ 
 
-[Pub. L. 91–222, § 3][/us/pl/91/222/s3], Apr. 1, 1970, [84 Stat. 90][/us/stat/84/90], provided in part that: 
+[Pub. L. 91–222][/us/pl/91/222], § 3, Apr. 1, 1970, [84 Stat. 90][/us/stat/84/90], provided in part that: 
 
 > “Section 5 of the amendment made by this Act \[amending this section\] shall take effect as of July 1, 1969.”
 
@@ -61,23 +61,23 @@
 [/us/usc/t21/s387c/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387c%2Fa%2F2
 [/us/usc/t21/s387t/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387t%2Fa
 [/us/usc/t15/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1333
-[/us/pl/89/92/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F92%2Fs5
+[/us/pl/89/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F92
 [/us/stat/79/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F283
-[/us/pl/91/222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222%2Fs2
+[/us/pl/91/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222
 [/us/stat/84/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F88
-[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtII
 [/us/stat/123/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1845
 [/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/stat/123/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1776
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
-[/us/pl/111/31/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs202%2Fa
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/usc/t21/s387c/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387c%2Fa%2F2
 [/us/usc/t21/s387t/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387t%2Fa
-[/us/pl/111/31/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs203
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/pl/91/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222
 [/us/pl/91/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222
-[/us/pl/91/222/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222%2Fs3
+[/us/pl/91/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222
 [/us/stat/84/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F90
 
 

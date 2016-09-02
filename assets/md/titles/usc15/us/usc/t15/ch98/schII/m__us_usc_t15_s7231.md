@@ -17,7 +17,7 @@
 
     The Board may, on a case by case basis, exempt any person, issuer, public accounting firm, or transaction from the prohibition on the provision of services under [section 78j–1(g) of this title][/us/usc/t15/s78j–1/g], to the extent that such exemption is necessary or appropriate in the public interest and is consistent with the protection of investors, and subject to review by the Commission in the same manner as for rules of the Board under [section 7217 of this title][/us/usc/t15/s7217].
 
-([Pub. L. 107–204, title II, § 201(b)][/us/pl/107/204/s201/b], July 30, 2002, [116 Stat. 772][/us/stat/116/772].)
+([Pub. L. 107–204, title II][/us/pl/107/204/tII], § 201(b), July 30, 2002, [116 Stat. 772][/us/stat/116/772].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t15/s78j–1/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78j%E2%80%931%2Fg
 [/us/usc/t15/s7217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7217
-[/us/pl/107/204/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs201%2Fb
+[/us/pl/107/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtII
 [/us/stat/116/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F772
 
 

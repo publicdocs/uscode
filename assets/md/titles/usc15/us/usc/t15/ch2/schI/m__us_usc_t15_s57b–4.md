@@ -43,7 +43,7 @@
 
         any person, partnership, or corporation submits a request to the Board of Governors for the issuance of any statement of interpretation or statement of approval relating to any conduct or practice of such person, partnership, or corporation which may be subject to the requirements of such Federal law, then the Board of Governors shall dispose of such request as soon as practicable after the receipt of such.
 
-([Sept. 26, 1914, ch. 311, § 23][/us/act/1914-09-26/ch311/s23], as added [Pub. L. 96–252, § 16][/us/pl/96/252/s16], May 28, 1980, [94 Stat. 390][/us/stat/94/390].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 23, as added [Pub. L. 96–252][/us/pl/96/252], § 16, May 28, 1980, [94 Stat. 390][/us/stat/94/390].)
 
  __Effective Date__ 
 
@@ -56,8 +56,8 @@
 ----------
 ----------
 
-[/us/act/1914-09-26/ch311/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs23
-[/us/pl/96/252/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs16
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
+[/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
 [/us/stat/94/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F390
 [/us/pl/96/252/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs23
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45

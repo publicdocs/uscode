@@ -103,27 +103,27 @@
 
     The intent of this chapter is to regulate commerce within the control of Congress by making actionable the deceptive and misleading use of marks in such commerce; to protect registered marks used in such commerce from interference by State, or territorial legislation; to protect persons engaged in such commerce against unfair competition; to prevent fraud and deception in such commerce by the use of reproductions, copies, counterfeits, or colorable imitations of registered marks; and to provide rights and remedies stipulated by treaties and conventions respecting trademarks, trade names, and unfair competition entered into between the United States and foreign nations.
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title X, § 45, [60 Stat. 443][/us/stat/60/443]; [Pub. L. 87–772, § 21][/us/pl/87/772/s21], Oct. 9, 1962, [76 Stat. 774][/us/stat/76/774]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 98–620, title I, § 103][/us/pl/98/620/s103], Nov. 8, 1984, [98 Stat. 3335][/us/stat/98/3335]; [Pub. L. 100–667, title I, § 134][/us/pl/100/667/s134], Nov. 16, 1988, [102 Stat. 3946][/us/stat/102/3946]; [Pub. L. 102–542, § 3(d)][/us/pl/102/542/s3/d], Oct. 27, 1992, [106 Stat. 3568][/us/stat/106/3568]; [Pub. L. 103–465, title V, § 521][/us/pl/103/465/s521], Dec. 8, 1994, [108 Stat. 4981][/us/stat/108/4981]; [Pub. L. 104–98, § 4][/us/pl/104/98/s4], Jan. 16, 1996, [109 Stat. 986][/us/stat/109/986]; [Pub. L. 106–43][/us/pl/106/43], §§ 4(c), 6(b), Aug. 5, 1999, [113 Stat. 219][/us/stat/113/219], 220; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title III, § 3005, title IV, § 4732(b)(1)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–550, 1501A–583; [Pub. L. 109–312, § 3(e)][/us/pl/109/312/s3/e], Oct. 6, 2006, [120 Stat. 1733][/us/stat/120/1733].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title X, § 45, [60 Stat. 443][/us/stat/60/443]; [Pub. L. 87–772][/us/pl/87/772], § 21, Oct. 9, 1962, [76 Stat. 774][/us/stat/76/774]; [Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 98–620, title I][/us/pl/98/620/tI], § 103, Nov. 8, 1984, [98 Stat. 3335][/us/stat/98/3335]; [Pub. L. 100–667, title I][/us/pl/100/667/tI], § 134, Nov. 16, 1988, [102 Stat. 3946][/us/stat/102/3946]; [Pub. L. 102–542][/us/pl/102/542], § 3(d), Oct. 27, 1992, [106 Stat. 3568][/us/stat/106/3568]; [Pub. L. 103–465, title V][/us/pl/103/465/tV], § 521, Dec. 8, 1994, [108 Stat. 4981][/us/stat/108/4981]; [Pub. L. 104–98][/us/pl/104/98], § 4, Jan. 16, 1996, [109 Stat. 986][/us/stat/109/986]; [Pub. L. 106–43][/us/pl/106/43], §§ 4(c), 6(b), Aug. 5, 1999, [113 Stat. 219][/us/stat/113/219], 220; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title III, § 3005, title IV, § 4732(b)(1)(A)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–550, 1501A–583; [Pub. L. 109–312][/us/pl/109/312], § 3(e), Oct. 6, 2006, [120 Stat. 1733][/us/stat/120/1733].)
 
  __References in Text__ 
 
-    Acts March 3, 1881, February 20, 1905, and March 19, 1920, referred to in text, are acts [Mar. 3, 1881, ch. 138][/us/act/1881-03-03/ch138], [21 Stat. 502][/us/stat/21/502]; [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], [33 Stat. 724][/us/stat/33/724]; and [Mar. 19, 1920, ch. 104][/us/act/1920-03-19/ch104], [41 Stat. 533][/us/stat/41/533], which were repealed insofar as inconsistent with this chapter by [act July 5, 1946, ch. 540, § 46(a)][/us/act/1946-07-05/ch540/s46/a], [60 Stat. 444][/us/stat/60/444]. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title. Act Mar. 19, 1920, had been generally classified to sections 121 to 128 of this title.
+    Acts March 3, 1881, February 20, 1905, and March 19, 1920, referred to in text, are acts [Mar. 3, 1881, ch. 138][/us/act/1881-03-03/ch138], [21 Stat. 502][/us/stat/21/502]; [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], [33 Stat. 724][/us/stat/33/724]; and [Mar. 19, 1920, ch. 104][/us/act/1920-03-19/ch104], [41 Stat. 533][/us/stat/41/533], which were repealed insofar as inconsistent with this chapter by [act July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], § 46(a), [60 Stat. 444][/us/stat/60/444]. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title. Act Mar. 19, 1920, had been generally classified to sections 121 to 128 of this title.
 
  __Prior Provisions__ 
 
-    Acts [Feb. 20, 1905, ch. 592, § 29][/us/act/1905-02-20/ch592/s29], [33 Stat. 731][/us/stat/33/731]; [June 10, 1938, ch. 332, § 5][/us/act/1938-06-10/ch332/s5], [52 Stat. 639][/us/stat/52/639].
+    Acts [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], § 29, [33 Stat. 731][/us/stat/33/731]; [June 10, 1938, ch. 332][/us/act/1938-06-10/ch332], § 5, [52 Stat. 639][/us/stat/52/639].
 
  __Amendments__ 
 
     2006—[Pub. L. 109–312][/us/pl/109/312] struck out par. defining “dilution” after par. defining “abandoned”.
 
-    1999—[Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(1)(A)\], substituted par. defining “Director” for par. which read as follows: “The term ‘Commissioner’ means the Commissioner of Patents and Trademarks.”
+    1999—[Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(b)(1)(A)\], substituted par. defining “Director” for par. which read as follows: “The term ‘Commissioner’ means the Commissioner of Patents and Trademarks.”
 
-    [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title III, § 3005\], inserted pars. defining “domain name” and “Internet” after par. defining “counterfeit”.
+    [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title III, § 3005\], inserted pars. defining “domain name” and “Internet” after par. defining “counterfeit”.
 
-    [Pub. L. 106–43, § 6(b)][/us/pl/106/43/s6/b], substituted “trademarks” for “trade-marks” in last undesignated par.
+    [Pub. L. 106–43][/us/pl/106/43], § 6(b), substituted “trademarks” for “trade-marks” in last undesignated par.
 
-    [Pub. L. 106–43, § 4(c)][/us/pl/106/43/s4/c], between pars. defining “person” inserted: “The term ‘person’ also includes the United States, any agency or instrumentality thereof, or any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States. The United States, any agency or instrumentality thereof, and any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.”
+    [Pub. L. 106–43][/us/pl/106/43], § 4(c), between pars. defining “person” inserted: “The term ‘person’ also includes the United States, any agency or instrumentality thereof, or any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States. The United States, any agency or instrumentality thereof, and any individual, firm, or corporation acting for the United States and with the authorization and consent of the United States, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.”
 
     1996—[Pub. L. 104–98][/us/pl/104/98] inserted par. defining “dilution” after par. defining “abandoned”.
 
@@ -135,31 +135,31 @@
 
     1992—[Pub. L. 102–542][/us/pl/102/542] inserted after fourth undesignated par. “The term ‘person’ also includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.”
 
-    1988—[Pub. L. 100–667, § 134(1)][/us/pl/100/667/s134/1], amended par. defining “related company” generally. Prior to amendment, par. read as follows: “The term ‘related company’ means any person who legitimately controls or is controlled by the registrant or applicant for registration in respect to the nature and quality of the goods or services in connection with which the mark is used.”
+    1988—[Pub. L. 100–667][/us/pl/100/667], § 134(1), amended par. defining “related company” generally. Prior to amendment, par. read as follows: “The term ‘related company’ means any person who legitimately controls or is controlled by the registrant or applicant for registration in respect to the nature and quality of the goods or services in connection with which the mark is used.”
 
-    [Pub. L. 100–667, § 134(2)][/us/pl/100/667/s134/2], amended par. defining “trade name” and “commercial name” generally. Prior to amendment, par. read as follows: “The terms ‘trade name’ and ‘commercial name’ include individual names and surnames, firm names and trade names used by manufacturers, industrialists, merchants, agriculturists, and others to identify their businesses, vocations, or occupations; the names or titles lawfully adopted and used by persons, firms, associations, corporations, companies, unions, and any manufacturing, industrial, commercial, agricultural, or other organizations engaged in trade or commerce and capable of suing and being sued in a court of law.”
+    [Pub. L. 100–667][/us/pl/100/667], § 134(2), amended par. defining “trade name” and “commercial name” generally. Prior to amendment, par. read as follows: “The terms ‘trade name’ and ‘commercial name’ include individual names and surnames, firm names and trade names used by manufacturers, industrialists, merchants, agriculturists, and others to identify their businesses, vocations, or occupations; the names or titles lawfully adopted and used by persons, firms, associations, corporations, companies, unions, and any manufacturing, industrial, commercial, agricultural, or other organizations engaged in trade or commerce and capable of suing and being sued in a court of law.”
 
-    [Pub. L. 100–667, § 134(3)][/us/pl/100/667/s134/3], amended par. defining “trademark” generally. Prior to amendment, par. read as follows: “The term ‘trademark’ includes any word, name, symbol, or device or any combination thereof adopted and used by a manufacturer or merchant to identify and distinguish his goods, including a unique product, from those manufactured or sold by others and to indicate the source of the goods, even if that source is unknown.”
+    [Pub. L. 100–667][/us/pl/100/667], § 134(3), amended par. defining “trademark” generally. Prior to amendment, par. read as follows: “The term ‘trademark’ includes any word, name, symbol, or device or any combination thereof adopted and used by a manufacturer or merchant to identify and distinguish his goods, including a unique product, from those manufactured or sold by others and to indicate the source of the goods, even if that source is unknown.”
 
-    [Pub. L. 100–667, § 134(4)][/us/pl/100/667/s134/4], amended par. defining “service mark” generally. Prior to amendment, par. read as follows: “The term ‘service mark’ means a mark used in the sale or advertising of services to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown. Titles, character names and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor.”
+    [Pub. L. 100–667][/us/pl/100/667], § 134(4), amended par. defining “service mark” generally. Prior to amendment, par. read as follows: “The term ‘service mark’ means a mark used in the sale or advertising of services to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown. Titles, character names and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor.”
 
-    [Pub. L. 100–667, § 134(5)][/us/pl/100/667/s134/5], amended par. defining “certification mark” generally. Prior to amendment, par. read as follows: “The term ‘certification mark’ means a mark used upon or in connection with the products or services of one or more persons other than the owner of the mark to certify regional or other origin, material, mode of manufacture, quality, accuracy or other characteristics of such goods or services or that the work or labor on the goods or services was performed by members of a union or other organization.”
+    [Pub. L. 100–667][/us/pl/100/667], § 134(5), amended par. defining “certification mark” generally. Prior to amendment, par. read as follows: “The term ‘certification mark’ means a mark used upon or in connection with the products or services of one or more persons other than the owner of the mark to certify regional or other origin, material, mode of manufacture, quality, accuracy or other characteristics of such goods or services or that the work or labor on the goods or services was performed by members of a union or other organization.”
 
-    [Pub. L. 100–667, § 134(6)][/us/pl/100/667/s134/6], amended par. defining “collective mark” generally. Prior to amendment, par. read as follows: “The term ‘collective mark’ means a trade-mark or service mark used by the members of a cooperative, an association or other collective group or organization and includes marks used to indicate membership in a union, an association or other organization.”
+    [Pub. L. 100–667][/us/pl/100/667], § 134(6), amended par. defining “collective mark” generally. Prior to amendment, par. read as follows: “The term ‘collective mark’ means a trade-mark or service mark used by the members of a cooperative, an association or other collective group or organization and includes marks used to indicate membership in a union, an association or other organization.”
 
-    [Pub. L. 100–667, § 134(7)][/us/pl/100/667/s134/7], amended par. defining “mark” generally. Prior to amendment, par. read as follows: “The term ‘mark’ includes any trade-mark, service mark, collective mark, or certification mark entitled to registration under this chapter whether registered or not.”
+    [Pub. L. 100–667][/us/pl/100/667], § 134(7), amended par. defining “mark” generally. Prior to amendment, par. read as follows: “The term ‘mark’ includes any trade-mark, service mark, collective mark, or certification mark entitled to registration under this chapter whether registered or not.”
 
-    [Pub. L. 100–667, § 134(8)][/us/pl/100/667/s134/8], substituted par. defining “use in commerce” for former par. which read as follows: “For the purposes of this chapter a mark shall be deemed to be used in commerce (a) on goods when it is placed in any manner on the goods or their containers or the displays associated therewith or on the tags or labels affixed thereto and the goods are sold or transported in commerce and (b) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in this and a foreign country and the person rendering the services is engaged in commerce in connection therewith.” and par. providing when a mark is deemed abandoned for former par. which read as follows: “A mark shall be deemed to be ‘abandoned’—
+    [Pub. L. 100–667][/us/pl/100/667], § 134(8), substituted par. defining “use in commerce” for former par. which read as follows: “For the purposes of this chapter a mark shall be deemed to be used in commerce (a) on goods when it is placed in any manner on the goods or their containers or the displays associated therewith or on the tags or labels affixed thereto and the goods are sold or transported in commerce and (b) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in this and a foreign country and the person rendering the services is engaged in commerce in connection therewith.” and par. providing when a mark is deemed abandoned for former par. which read as follows: “A mark shall be deemed to be ‘abandoned’—
 
     “(a) When its use has been discontinued with intent not to resume. Intent not to resume may be inferred from circumstances. Nonuse for two consecutive years shall be prima facie abandonment.
 
     “(b) When any course of conduct of the registrant, including acts of omission as well as commission, causes the mark to lose its significance as an indication of origin. Purchaser motivation shall not be a test for determining abandonment under this subparagraph.”
 
-    1984—[Pub. L. 98–620, § 103(1)][/us/pl/98/620/s103/1], in definition of “trademark” substituted “trademark” for “trade-mark”, and substituted “identify and distinguish his goods, including a unique product, from those manufactured or sold by others and to indicate the source of the goods, even if that source is unknown” for “identify his goods and distinguish them from those manufactured or sold by others”.
+    1984—[Pub. L. 98–620][/us/pl/98/620], § 103(1), in definition of “trademark” substituted “trademark” for “trade-mark”, and substituted “identify and distinguish his goods, including a unique product, from those manufactured or sold by others and to indicate the source of the goods, even if that source is unknown” for “identify his goods and distinguish them from those manufactured or sold by others”.
 
-    [Pub. L. 98–620, § 103(2)][/us/pl/98/620/s103/2], in definition of “service mark” substituted “The term ‘service mark’ means a mark used in the sale or advertising of services to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown” for “The term ‘service mark’ means a mark used in the sale or advertising of services to identify the services of one person and distinguish them from the services of others”.
+    [Pub. L. 98–620][/us/pl/98/620], § 103(2), in definition of “service mark” substituted “The term ‘service mark’ means a mark used in the sale or advertising of services to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown” for “The term ‘service mark’ means a mark used in the sale or advertising of services to identify the services of one person and distinguish them from the services of others”.
 
-    [Pub. L. 98–620, § 103(3)][/us/pl/98/620/s103/3], in subpar. (b) of par. relating to when a mark shall be deemed to be “abandoned”, inserted “Purchaser motivation shall not be a test for determining abandonment under this subparagraph.”
+    [Pub. L. 98–620][/us/pl/98/620], § 103(3), in subpar. (b) of par. relating to when a mark shall be deemed to be “abandoned”, inserted “Purchaser motivation shall not be a test for determining abandonment under this subparagraph.”
 
     1975—[Pub. L. 93–596][/us/pl/93/596] substituted “Patent and Trademark Office” for “Patent Office” in two places and “Commissioner of Patents and Trademarks” for “Commissioner of Patents” in definition of “Commissioner”.
 
@@ -205,25 +205,25 @@
 [/us/usc/t47/s230/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs230%2Ff%2F1
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F443
-[/us/pl/87/772/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772%2Fs21
+[/us/pl/87/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772
 [/us/stat/76/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F774
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/98/620/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs103
+[/us/pl/98/620/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtI
 [/us/stat/98/3335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3335
-[/us/pl/100/667/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs134
+[/us/pl/100/667/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtI
 [/us/stat/102/3946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3946
-[/us/pl/102/542/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F542%2Fs3%2Fd
+[/us/pl/102/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F542
 [/us/stat/106/3568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3568
-[/us/pl/103/465/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs521
+[/us/pl/103/465/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtV
 [/us/stat/108/4981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4981
-[/us/pl/104/98/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F98%2Fs4
+[/us/pl/104/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F98
 [/us/stat/109/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F986
 [/us/pl/106/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43
 [/us/stat/113/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F219
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/109/312/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F312%2Fs3%2Fe
+[/us/pl/109/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F312
 [/us/stat/120/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1733
 [/us/act/1881-03-03/ch138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1881-03-03%2Fch138
 [/us/stat/21/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F21%2F502
@@ -231,31 +231,31 @@
 [/us/stat/33/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F724
 [/us/act/1920-03-19/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-19%2Fch104
 [/us/stat/41/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F533
-[/us/act/1946-07-05/ch540/s46/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540%2Fs46%2Fa
+[/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F444
-[/us/act/1905-02-20/ch592/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592%2Fs29
+[/us/act/1905-02-20/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592
 [/us/stat/33/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F731
-[/us/act/1938-06-10/ch332/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-10%2Fch332%2Fs5
+[/us/act/1938-06-10/ch332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-10%2Fch332
 [/us/stat/52/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F639
 [/us/pl/109/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F312
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/43/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43%2Fs6%2Fb
-[/us/pl/106/43/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43%2Fs4%2Fc
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43
+[/us/pl/106/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43
 [/us/pl/104/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F98
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/102/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F542
-[/us/pl/100/667/s134/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs134%2F1
-[/us/pl/100/667/s134/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs134%2F2
-[/us/pl/100/667/s134/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs134%2F3
-[/us/pl/100/667/s134/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs134%2F4
-[/us/pl/100/667/s134/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs134%2F5
-[/us/pl/100/667/s134/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs134%2F6
-[/us/pl/100/667/s134/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs134%2F7
-[/us/pl/100/667/s134/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs134%2F8
-[/us/pl/98/620/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs103%2F1
-[/us/pl/98/620/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs103%2F2
-[/us/pl/98/620/s103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs103%2F3
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
+[/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
+[/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/pl/87/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113

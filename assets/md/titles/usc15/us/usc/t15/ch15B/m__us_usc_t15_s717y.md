@@ -133,7 +133,7 @@
 
         (3) the volume actually delivered or for which payment would have been made pursuant to such contract during the 12-calendar-month period ending immediately before such transfer of contractual interests.
 
-([Pub. L. 95–617, title VI, § 606][/us/pl/95/617/s606], Nov. 9, 1978, [92 Stat. 3167][/us/stat/92/3167].)
+([Pub. L. 95–617, title VI][/us/pl/95/617/tVI], § 606, Nov. 9, 1978, [92 Stat. 3167][/us/stat/92/3167].)
 
  __References in Text__ 
 
@@ -170,7 +170,7 @@
 [/us/usc/t15/s717c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717c
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
-[/us/pl/95/617/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs606
+[/us/pl/95/617/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtVI
 [/us/stat/92/3167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3167
 [/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F821

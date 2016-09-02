@@ -77,7 +77,7 @@
 
         Any order issued pursuant to this subchapter shall preempt any provision of any program for the allocation, emergency delivery, transportation, or purchase of natural gas established by any State or local government if such program is in conflict with any such order.
 
-([Pub. L. 95–621, title III, § 304][/us/pl/95/621/s304], Nov. 9, 1978, [92 Stat. 3387][/us/stat/92/3387].)
+([Pub. L. 95–621, title III][/us/pl/95/621/tIII], § 304, Nov. 9, 1978, [92 Stat. 3387][/us/stat/92/3387].)
 
  __Ex. Ord. No. 12235. Assignment of Management Responsibility in Cases of Natural Gas Emergencies__ 
 
@@ -113,7 +113,7 @@
 [/us/usc/t15/s3363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3363
 [/us/usc/t15/s3363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3363
 [/us/usc/t15/s3363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3363
-[/us/pl/95/621/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs304
+[/us/pl/95/621/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2FtIII
 [/us/stat/92/3387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3387
 [/us/stat/92/3387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3387
 [/us/usc/t15/s3364/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3364%2Fd

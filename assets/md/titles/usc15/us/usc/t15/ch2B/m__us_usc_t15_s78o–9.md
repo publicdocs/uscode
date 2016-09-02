@@ -59,11 +59,11 @@
 
             Nothing in this subsection may be construed to limit or suspend any other rulemaking authority of the Commission.
 
-([Pub. L. 111–203, title IX, § 939F][/us/pl/111/203/s939F], July 21, 2010, [124 Stat. 1889][/us/stat/124/1889].)
+([Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 939F, July 21, 2010, [124 Stat. 1889][/us/stat/124/1889].)
 
  __References in Text__ 
 
-    Section 3(a)(77) of the Securities Exchange Act of 1934, referred to in subsec. (a), was redesignated section 3(a)(79) of that Act by [Pub. L. 112–106, title I, § 101(b)(1)][/us/pl/112/106/s101/b/1], Apr. 5, 2012, [126 Stat. 307][/us/stat/126/307], and is classified to [section 78c(a)(79) of this title][/us/usc/t15/s78c/a/79].
+    Section 3(a)(77) of the Securities Exchange Act of 1934, referred to in subsec. (a), was redesignated section 3(a)(79) of that Act by [Pub. L. 112–106, title I][/us/pl/112/106/tI], § 101(b)(1), Apr. 5, 2012, [126 Stat. 307][/us/stat/126/307], and is classified to [section 78c(a)(79) of this title][/us/usc/t15/s78c/a/79].
 
     Section 941, referred to in subsec. (a), means [section 941 of Pub. L. 111–203][/us/pl/111/203/s941].
 
@@ -81,7 +81,7 @@
 
  __Government Accountability Office Study on Alternative Business Models__ 
 
-[Pub. L. 111–203, title IX, § 939D][/us/pl/111/203/s939D], July 21, 2010, [124 Stat. 1888][/us/stat/124/1888], provided that:
+[Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 939D, July 21, 2010, [124 Stat. 1888][/us/stat/124/1888], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -105,9 +105,9 @@
 ----------
 
 [/us/usc/t15/s78c/a/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F79
-[/us/pl/111/203/s939F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs939F
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1889
-[/us/pl/112/106/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs101%2Fb%2F1
+[/us/pl/112/106/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtI
 [/us/stat/126/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F307
 [/us/usc/t15/s78c/a/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F79
 [/us/pl/111/203/s941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs941
@@ -116,7 +116,7 @@
 [/us/usc/t15/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/111/203/s939D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs939D
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1888
 [/us/pl/111/203/s939D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs939D
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

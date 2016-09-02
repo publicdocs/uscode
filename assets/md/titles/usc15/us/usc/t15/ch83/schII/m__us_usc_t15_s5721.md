@@ -61,7 +61,7 @@
 
         (10) The extent to which the regulations should diverge from requirements under the Truth in Lending and Fair Credit Billing Acts \[[15 U.S.C. 1601][/us/usc/t15/s1601] et seq., 1666 et seq.\] in order to protect customers, and in order to be cost effective to billing entities.
 
-([Pub. L. 102–556, title III, § 301][/us/pl/102/556/s301], Oct. 28, 1992, [106 Stat. 4191][/us/stat/106/4191].)
+([Pub. L. 102–556, title III][/us/pl/102/556/tIII], § 301, Oct. 28, 1992, [106 Stat. 4191][/us/stat/106/4191].)
 
  __References in Text__ 
 
@@ -82,7 +82,7 @@
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
 [/us/usc/t15/s45/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45%2Fa%2F2
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/102/556/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2Fs301
+[/us/pl/102/556/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2FtIII
 [/us/stat/106/4191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4191
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
 [/us/stat/82/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F146

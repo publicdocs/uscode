@@ -95,13 +95,13 @@
 
         Whenever the Commission is notified of any voluntary corrective action taken by a manufacturer (or a retailer in the case of a retailer selling a product under its own label) in consultation with the Commission, or issues an order under section 2064(c) or (d) of this title with respect to any product, the Commission shall notify each State’s health department (or other agency designated by the State) of such voluntary corrective action or order.
 
-([Pub. L. 92–573, § 29][/us/pl/92/573/s29], Oct. 27, 1972, [86 Stat. 1230][/us/stat/86/1230]; [Pub. L. 94–284, § 15][/us/pl/94/284/s15], May 11, 1976, [90 Stat. 510][/us/stat/90/510]; [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 110–314, title II][/us/pl/110/314], §§ 207, 235(c)(7), Aug. 14, 2008, [122 Stat. 3044][/us/stat/122/3044], 3075.)
+([Pub. L. 92–573][/us/pl/92/573], § 29, Oct. 27, 1972, [86 Stat. 1230][/us/stat/86/1230]; [Pub. L. 94–284][/us/pl/94/284], § 15, May 11, 1976, [90 Stat. 510][/us/stat/90/510]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], §§ 207, 235(c)(7), Aug. 14, 2008, [122 Stat. 3044][/us/stat/122/3044], 3075.)
 
  __Amendments__ 
 
-    2008—Subsec. (e). [Pub. L. 110–314, § 235(c)(7)][/us/pl/110/314/s235/c/7], substituted “Notwithstanding [section 2055(a)(3) of this title][/us/usc/t15/s2055/a/3], the Commission” for “The Commission” in introductory provisions.
+    2008—Subsec. (e). [Pub. L. 110–314][/us/pl/110/314], § 235(c)(7), substituted “Notwithstanding [section 2055(a)(3) of this title][/us/usc/t15/s2055/a/3], the Commission” for “The Commission” in introductory provisions.
 
-    Subsecs. (f), (g). [Pub. L. 110–314, § 207][/us/pl/110/314/s207], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 110–314][/us/pl/110/314], § 207, added subsecs. (f) and (g).
 
     1988—Subsec. (d). [Pub. L. 100–418][/us/pl/100/418] substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
@@ -121,17 +121,17 @@
 [/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/usc/t50/s4605/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F4
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/92/573/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs29
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1230
-[/us/pl/94/284/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs15
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/stat/90/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F510
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
-[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3044
-[/us/pl/110/314/s235/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs235%2Fc%2F7
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/usc/t15/s2055/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2055%2Fa%2F3
-[/us/pl/110/314/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs207
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 

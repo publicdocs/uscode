@@ -17,7 +17,7 @@
 
     The Administration shall issue guarantees under [section 683 of this title][/us/usc/t15/s683] and trust certificates under section 687l of this title at periodic intervals of not less than every 12 months and shall do so at such shorter intervals as its  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “it”. </sup></sup>  deems appropriate, taking into consideration the amount and number of such guarantees or trust certificates.
 
-([Pub. L. 85–699, title III, § 320][/us/pl/85/699/s320], formerly § 322, as added [Pub. L. 100–590, title I, § 106(a)][/us/pl/100/590/s106/a], Nov. 3, 1988, [102 Stat. 2993][/us/stat/102/2993]; renumbered § 320 and amended [Pub. L. 104–208, div. D, title II, § 208(h)(1)(E)][/us/pl/104/208/s208/h/1/E], (G), Sept. 30, 1996, [110 Stat. 3009–747][/us/stat/110/3009-747]; [Pub. L. 105–135, title II, § 215(e)][/us/pl/105/135/s215/e], Dec. 2, 1997, [111 Stat. 2603][/us/stat/111/2603]; [Pub. L. 106–9, § 2(d)(2)][/us/pl/106/9/s2/d/2], Apr. 5, 1999, [113 Stat. 18][/us/stat/113/18].)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 320, formerly § 322, as added [Pub. L. 100–590, title I][/us/pl/100/590/tI], § 106(a), Nov. 3, 1988, [102 Stat. 2993][/us/stat/102/2993]; renumbered § 320 and amended [Pub. L. 104–208, div. D, title II][/us/pl/104/208/dD/tII], § 208(h)(1)(E), (G), Sept. 30, 1996, [110 Stat. 3009–747][/us/stat/110/3009-747]; [Pub. L. 105–135, title II][/us/pl/105/135/tII], § 215(e), Dec. 2, 1997, [111 Stat. 2603][/us/stat/111/2603]; [Pub. L. 106–9][/us/pl/106/9], § 2(d)(2), Apr. 5, 1999, [113 Stat. 18][/us/stat/113/18].)
 
  __Prior Provisions__ 
 
@@ -43,14 +43,14 @@
 ----------
 
 [/us/usc/t15/s683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs683
-[/us/pl/85/699/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs320
-[/us/pl/100/590/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2Fs106%2Fa
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/100/590/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2FtI
 [/us/stat/102/2993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2993
-[/us/pl/104/208/s208/h/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fh%2F1%2FE
+[/us/pl/104/208/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD%2FtII
 [/us/stat/110/3009-747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-747
-[/us/pl/105/135/s215/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs215%2Fe
+[/us/pl/105/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtII
 [/us/stat/111/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2603
-[/us/pl/106/9/s2/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F9%2Fs2%2Fd%2F2
+[/us/pl/106/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F9
 [/us/stat/113/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F18
 [/us/pl/85/699/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs320
 [/us/usc/t15/s687k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687k

@@ -27,7 +27,7 @@
 
         The functions of the Secretary of Commerce and the Federal Trade Commission under the Act of August 2, 1956 \[[15 U.S.C. 1211][/us/usc/t15/s1211] et seq.\] are transferred to the Commission.
 
-    (d) __Repealed.__  __[__  __Pub. L. 110–314, title II, § 237__  __][/us/pl/110/314/s237]__  __,__  __Aug. 14, 2008__  __,__  __[__  __122 Stat. 3076__  __][/us/stat/122/3076]__ 
+    (d) __Repealed.__  __[__  __Pub. L. 110–314, title II__  __][/us/pl/110/314/tII]__  __, § 237,__  __Aug. 14, 2008__  __,__  __[__  __122 Stat. 3076__  __][/us/stat/122/3076]__ 
 
     (e) __Transfer of personnel, property, records, etc.; continued application of orders, rules, etc.__ 
 
@@ -47,7 +47,7 @@
 
         For purposes of this section, (1) the term “function” includes power and duty, and (2) the transfer of a function, under any provision of law, of an agency or the head of a department shall also be a transfer of all functions under such law which are exercised by any office or officer of such agency, or department.
 
-([Pub. L. 92–573, § 30][/us/pl/92/573/s30], Oct. 27, 1972, [86 Stat. 1231][/us/stat/86/1231]; [Pub. L. 94–284][/us/pl/94/284], §§ 3(f), 16, May 11, 1976, [90 Stat. 504][/us/stat/90/504], 510; [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 110–314, title II, § 237][/us/pl/110/314/s237], Aug. 14, 2008, [122 Stat. 3076][/us/stat/122/3076].)
+([Pub. L. 92–573][/us/pl/92/573], § 30, Oct. 27, 1972, [86 Stat. 1231][/us/stat/86/1231]; [Pub. L. 94–284][/us/pl/94/284], §§ 3(f), 16, May 11, 1976, [90 Stat. 504][/us/stat/90/504], 510; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 237, Aug. 14, 2008, [122 Stat. 3076][/us/stat/122/3076].)
 
  __References in Text__ 
 
@@ -73,9 +73,9 @@
 
     1988—Subsec. (e)(1)(A). [Pub. L. 100–418][/us/pl/100/418] substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
-    1976—Subsec. (a). [Pub. L. 94–284, § 3(f)][/us/pl/94/284/s3/f], struck out “of the Administrator of the Environmental Protection Agency and” before “of the Secretary of Health, Education, and Welfare” and substituted “Federal Food, Drug, and Cosmetic Act” for “Acts amended by subsections (b) through (f) of section 7 of the Poison Prevention Act of 1970”.
+    1976—Subsec. (a). [Pub. L. 94–284][/us/pl/94/284], § 3(f), struck out “of the Administrator of the Environmental Protection Agency and” before “of the Secretary of Health, Education, and Welfare” and substituted “Federal Food, Drug, and Cosmetic Act” for “Acts amended by subsections (b) through (f) of section 7 of the Poison Prevention Act of 1970”.
 
-    Subsec. (d). [Pub. L. 94–284, § 16][/us/pl/94/284/s16], inserted requirement that the Commission find by a rule, promulgated in accordance with [section 553 of title 5][/us/usc/t5/s553], that it is within the public interest to regulate a risk of injury under this chapter which could be eliminated or reduced by action under the enumerated acts.
+    Subsec. (d). [Pub. L. 94–284][/us/pl/94/284], § 16, inserted requirement that the Commission find by a rule, promulgated in accordance with [section 553 of title 5][/us/usc/t5/s553], that it is within the public interest to regulate a risk of injury under this chapter which could be eliminated or reduced by action under the enumerated acts.
 
 ----------
 
@@ -90,15 +90,15 @@
 [/us/usc/t15/s1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1191
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1211
-[/us/pl/110/314/s237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs237
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3076
-[/us/pl/92/573/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs30
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1231
 [/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/stat/90/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F504
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
-[/us/pl/110/314/s237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs237
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3076
 [/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/stat/74/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F372
@@ -125,8 +125,8 @@
 [/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/94/284/s3/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs3%2Ff
-[/us/pl/94/284/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs16
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 
 

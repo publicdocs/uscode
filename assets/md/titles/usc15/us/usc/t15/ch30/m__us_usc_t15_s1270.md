@@ -27,13 +27,13 @@
 
         If the officer or employee obtains any sample, prior to leaving the premises, he shall give to the owner, operator, or agent in charge a receipt describing the samples obtained. If an analysis is made of such sample, a copy of the results of such analysis shall be furnished promptly to the owner, operator, or agent in charge.
 
-([Pub. L. 86–613, § 11][/us/pl/86/613/s11], July 12, 1960, [74 Stat. 378][/us/stat/74/378]; [Pub. L. 110–314, title II, § 204(b)(4)(B)][/us/pl/110/314/s204/b/4/B], (C), Aug. 14, 2008, [122 Stat. 3041][/us/stat/122/3041], 3042.)
+([Pub. L. 86–613][/us/pl/86/613], § 11, July 12, 1960, [74 Stat. 378][/us/stat/74/378]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 204(b)(4)(B), (C), Aug. 14, 2008, [122 Stat. 3041][/us/stat/122/3041], 3042.)
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–314, § 204(b)(4)(B)][/us/pl/110/314/s204/b/4/B], (C), substituted “Commission is authorized” for “Secretary is authorized”, “employees of the Commission” for “employees of the Department”, “commissioned by the Commission” for “commissioned by the Secretary”, and “officer of the Commission” for “officer of the Department”.
+    2008—Subsec. (a). [Pub. L. 110–314][/us/pl/110/314], § 204(b)(4)(B), (C), substituted “Commission is authorized” for “Secretary is authorized”, “employees of the Commission” for “employees of the Department”, “commissioned by the Commission” for “commissioned by the Secretary”, and “officer of the Commission” for “officer of the Department”.
 
-    Subsec. (b). [Pub. L. 110–314, § 204(b)(4)(B)][/us/pl/110/314/s204/b/4/B], substituted “Commission” for “Secretary”.
+    Subsec. (b). [Pub. L. 110–314][/us/pl/110/314], § 204(b)(4)(B), substituted “Commission” for “Secretary”.
 
 ----------
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/pl/86/613/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs11
+[/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/stat/74/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F378
-[/us/pl/110/314/s204/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FB
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3041
-[/us/pl/110/314/s204/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FB
-[/us/pl/110/314/s204/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FB
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 
 

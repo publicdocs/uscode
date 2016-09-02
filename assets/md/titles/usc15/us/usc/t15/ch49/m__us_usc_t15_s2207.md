@@ -143,15 +143,15 @@
 
                 No information shall be required to be published under this subsection before the date that is 1 year after October 8, 2008.
 
-([Pub. L. 93–498, § 8][/us/pl/93/498/s8], Oct. 29, 1974, [88 Stat. 1540][/us/stat/88/1540]; [Pub. L. 108–169, title II, § 202][/us/pl/108/169/s202], Dec. 6, 2003, [117 Stat. 2037][/us/stat/117/2037]; [Pub. L. 110–376][/us/pl/110/376], §§ 6, 9(b), Oct. 8, 2008, [122 Stat. 4059][/us/stat/122/4059], 4061.)
+([Pub. L. 93–498][/us/pl/93/498], § 8, Oct. 29, 1974, [88 Stat. 1540][/us/stat/88/1540]; [Pub. L. 108–169, title II][/us/pl/108/169/tII], § 202, Dec. 6, 2003, [117 Stat. 2037][/us/stat/117/2037]; [Pub. L. 110–376][/us/pl/110/376], §§ 6, 9(b), Oct. 8, 2008, [122 Stat. 4059][/us/stat/122/4059], 4061.)
 
  __Amendments__ 
 
-    2008—Subsec. (c)(2) to (5). [Pub. L. 110–376, § 9(b)][/us/pl/110/376/s9/b], added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+    2008—Subsec. (c)(2) to (5). [Pub. L. 110–376][/us/pl/110/376], § 9(b), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
-    Subsec. (d). [Pub. L. 110–376, § 6(a)][/us/pl/110/376/s6/a], amended subsec. (d) generally. Prior to amendment, text read as follows: “The Administrator is authorized to assist the Nation’s fire services, directly or through contracts, grants, or other forms of assistance, to sponsor and encourage research into approaches, techniques, systems, and equipment to improve fire prevention and control in the rural and remote areas of the Nation.”
+    Subsec. (d). [Pub. L. 110–376][/us/pl/110/376], § 6(a), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Administrator is authorized to assist the Nation’s fire services, directly or through contracts, grants, or other forms of assistance, to sponsor and encourage research into approaches, techniques, systems, and equipment to improve fire prevention and control in the rural and remote areas of the Nation.”
 
-    Subsec. (h). [Pub. L. 110–376, § 6(b)][/us/pl/110/376/s6/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 110–376][/us/pl/110/376], § 6(b), added subsec. (h).
 
     2003—Subsecs. (e) to (g). [Pub. L. 108–169][/us/pl/108/169] added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 
@@ -172,15 +172,15 @@
 
 [/us/usc/t15/s2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2229
 [/us/usc/t15/s2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2229
-[/us/pl/93/498/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs8
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1540
-[/us/pl/108/169/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2Fs202
+[/us/pl/108/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2FtII
 [/us/stat/117/2037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2037
 [/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
 [/us/stat/122/4059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4059
-[/us/pl/110/376/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs9%2Fb
-[/us/pl/110/376/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs6%2Fa
-[/us/pl/110/376/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs6%2Fb
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
 [/us/pl/108/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

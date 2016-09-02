@@ -17,7 +17,7 @@
 
     This Act shall become effective on May 27, 1936; except that clause (2) of subsection (f) of section 78l of this title, and subsections (a) and (d) of section 78o of this title, shall become effective ninety days after May 27, 1936, and that clause (3) of subsection (f) of section 78l of this title shall become effective six months after May 27, 1936.
 
-([May 27, 1936, ch. 462, § 12][/us/act/1936-05-27/ch462/s12], [49 Stat. 1380][/us/stat/49/1380].)
+([May 27, 1936, ch. 462][/us/act/1936-05-27/ch462], § 12, [49 Stat. 1380][/us/stat/49/1380].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1936-05-27/ch462/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch462%2Fs12
+[/us/act/1936-05-27/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch462
 [/us/stat/49/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1380
 [/us/act/1936-05-27/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch462
 [/us/stat/49/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1375

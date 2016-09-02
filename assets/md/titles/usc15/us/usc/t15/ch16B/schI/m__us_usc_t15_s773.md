@@ -27,7 +27,7 @@
 
         To protect and assure privacy of individuals and confidentiality of personal information, the Administrator is directed to establish guidelines and procedures for handling any information which the Administration obtains pertaining to individuals. He shall provide, to the extent practicable, in such guidelines and procedures a method for allowing any such individual to gain access to such information pertaining to himself.
 
-([Pub. L. 93–275, § 14][/us/pl/93/275/s14], May 7, 1974, [88 Stat. 108][/us/stat/88/108].)
+([Pub. L. 93–275][/us/pl/93/275], § 14, May 7, 1974, [88 Stat. 108][/us/stat/88/108].)
 
  __Transfer of Functions__ 
 
@@ -43,7 +43,7 @@
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
-[/us/pl/93/275/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs14
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F108
 
 

@@ -53,11 +53,11 @@
 
         The Administrator shall submit annually to the President and the Congress a report on activities within the scope of this section.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[24\], as added [Pub. L. 101–515, title V, § 4][/us/pl/101/515/s4], Nov. 5, 1990, [104 Stat. 2140][/us/stat/104/2140]; amended [Pub. L. 103–211, title I, § 201][/us/pl/103/211/s201], Feb. 12, 1994, [108 Stat. 5][/us/stat/108/5]; [Pub. L. 103–317, title IV][/us/pl/103/317], Aug. 26, 1994, [108 Stat. 1755][/us/stat/108/1755].)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[24\], as added [Pub. L. 101–515, title V][/us/pl/101/515/tV], § 4, Nov. 5, 1990, [104 Stat. 2140][/us/stat/104/2140]; amended [Pub. L. 103–211, title I][/us/pl/103/211/tI], § 201, Feb. 12, 1994, [108 Stat. 5][/us/stat/108/5]; [Pub. L. 103–317, title IV][/us/pl/103/317/tIV], Aug. 26, 1994, [108 Stat. 1755][/us/stat/108/1755].)
 
  __Prior Provisions__ 
 
-    A prior section 651, [act July 30, 1953, ch. 282, § 225][/us/act/1953-07-30/ch282/s225], as added [Aug. 9, 1955, ch. 628, § 14][/us/act/1955-08-09/ch628/s14], [69 Stat. 551][/us/stat/69/551], prohibited duplication of activities, and was omitted as superseded by [section 647 of this title][/us/usc/t15/s647]. See Codification note set out under [section 631 of this title][/us/usc/t15/s631].
+    A prior section 651, [act July 30, 1953, ch. 282][/us/act/1953-07-30/ch282], § 225, as added [Aug. 9, 1955, ch. 628][/us/act/1955-08-09/ch628], § 14, [69 Stat. 551][/us/stat/69/551], prohibited duplication of activities, and was omitted as superseded by [section 647 of this title][/us/usc/t15/s647]. See Codification note set out under [section 631 of this title][/us/usc/t15/s631].
 
  __Amendments__ 
 
@@ -76,15 +76,15 @@
 ----------
 ----------
 
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
-[/us/pl/101/515/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2Fs4
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
+[/us/pl/101/515/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2FtV
 [/us/stat/104/2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2140
-[/us/pl/103/211/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F211%2Fs201
+[/us/pl/103/211/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F211%2FtI
 [/us/stat/108/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5
-[/us/pl/103/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317
+[/us/pl/103/317/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317%2FtIV
 [/us/stat/108/1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1755
-[/us/act/1953-07-30/ch282/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-30%2Fch282%2Fs225
-[/us/act/1955-08-09/ch628/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch628%2Fs14
+[/us/act/1953-07-30/ch282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-30%2Fch282
+[/us/act/1955-08-09/ch628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch628
 [/us/stat/69/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F551
 [/us/usc/t15/s647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs647
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631

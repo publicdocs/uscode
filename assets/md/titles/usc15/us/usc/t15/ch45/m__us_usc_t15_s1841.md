@@ -17,17 +17,17 @@
 
     There is created an Emergency Loan Guarantee Board (referred to in this chapter as the “Board”) composed of the Secretary of the Treasury, as Chairman, the Chairman of the Board of Governors of the Federal Reserve System, and the Chairman of the Securities and Exchange Commission. Decisions of the Board shall be made by majority vote.
 
-([Pub. L. 92–70, § 2][/us/pl/92/70/s2], Aug. 9, 1971, [85 Stat. 178][/us/stat/85/178].)
+([Pub. L. 92–70][/us/pl/92/70], § 2, Aug. 9, 1971, [85 Stat. 178][/us/stat/85/178].)
 
  __Short Title__ 
 
-[Pub. L. 92–70, § 1][/us/pl/92/70/s1], Aug. 9, 1971, [85 Stat. 178][/us/stat/85/178], provided that: 
+[Pub. L. 92–70][/us/pl/92/70], § 1, Aug. 9, 1971, [85 Stat. 178][/us/stat/85/178], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Emergency Loan Guarantee Act’.”
 
  __Emergency Steel Loan Guarantees and Emergency Oil and Gas Guaranteed Loans__ 
 
-[Pub. L. 106–51][/us/pl/106/51], Aug. 17, 1999, [113 Stat. 252][/us/stat/113/252], as amended by [Pub. L. 106–102, title VII, § 734][/us/pl/106/102/s734], Nov. 12, 1999, [113 Stat. 1478][/us/stat/113/1478]; [Pub. L. 107–63, title III, § 336(a)][/us/pl/107/63/s336/a], Nov. 5, 2001, [115 Stat. 472][/us/stat/115/472]; [Pub. L. 108–199, div. B, title II, § 211(a)][/us/pl/108/199/s211/a], Jan. 23, 2004, [118 Stat. 75][/us/stat/118/75]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–108, title II, § 205][/us/pl/109/108/s205], Nov. 22, 2005, [119 Stat. 2315][/us/stat/119/2315]; [Pub. L. 110–161, div. B, title I, § 105][/us/pl/110/161/s105], Dec. 26, 2007, [121 Stat. 1892][/us/stat/121/1892]; [Pub. L. 111–117, div. B, title I, § 108][/us/pl/111/117/s108], Dec. 16, 2009, [123 Stat. 3122][/us/stat/123/3122], provided that:
+[Pub. L. 106–51][/us/pl/106/51], Aug. 17, 1999, [113 Stat. 252][/us/stat/113/252], as amended by [Pub. L. 106–102, title VII][/us/pl/106/102/tVII], § 734, Nov. 12, 1999, [113 Stat. 1478][/us/stat/113/1478]; [Pub. L. 107–63, title III][/us/pl/107/63/tIII], § 336(a), Nov. 5, 2001, [115 Stat. 472][/us/stat/115/472]; [Pub. L. 108–199, div. B, title II][/us/pl/108/199/dB/tII], § 211(a), Jan. 23, 2004, [118 Stat. 75][/us/stat/118/75]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–108, title II][/us/pl/109/108/tII], § 205, Nov. 22, 2005, [119 Stat. 2315][/us/stat/119/2315]; [Pub. L. 110–161, div. B, title I][/us/pl/110/161/dB/tI], § 105, Dec. 26, 2007, [121 Stat. 1892][/us/stat/121/1892]; [Pub. L. 111–117, div. B, title I][/us/pl/111/117/dB/tI], § 108, Dec. 16, 2009, [123 Stat. 3122][/us/stat/123/3122], provided that:
 
 > “CHAPTER 1
 
@@ -365,9 +365,9 @@
 
 > “Sec. 301. No part of any appropriation contained in the Act shall remain available for obligation beyond the current fiscal year unless expressly so provided herein.    “This Act may be cited as the ‘Emergency Steel Loan Guarantee and Emergency Oil and Gas Guaranteed Loan Act of 1999’.”
 
-    \[[Pub. L. 110–161, div. B, title I, § 105(c)][/us/pl/110/161/s105/c], Dec. 26, 2007, [121 Stat. 1893][/us/stat/121/1893], which directed amendment of [section 101(c)(3)(C) of Pub. L. 106–51][/us/pl/106/51/s101/c/3/C], set out above, by substituting “in 1998, and thereafter,” for “, in 1998”, was executed by making the substitution for “, in January 1998” to reflect the probable intent of Congress.\]
+    \[[Pub. L. 110–161, div. B, title I][/us/pl/110/161/dB/tI], § 105(c), Dec. 26, 2007, [121 Stat. 1893][/us/stat/121/1893], which directed amendment of [section 101(c)(3)(C) of Pub. L. 106–51][/us/pl/106/51/s101/c/3/C], set out above, by substituting “in 1998, and thereafter,” for “, in 1998”, was executed by making the substitution for “, in January 1998” to reflect the probable intent of Congress.\]
 
-\[[Pub. L. 107–63, title III, § 336(b)][/us/pl/107/63/s336/b], Nov. 5, 2001, [115 Stat. 472][/us/stat/115/472], provided that: 
+\[[Pub. L. 107–63, title III][/us/pl/107/63/tIII], § 336(b), Nov. 5, 2001, [115 Stat. 472][/us/stat/115/472], provided that: 
 
 > “The amendments made by this section \[amending [section 101 of Pub. L. 106–51][/us/pl/106/51/s101], set out above\] shall apply only with respect to any guarantee issued on or after the date of the enactment of this Act \[Nov. 5, 2001\].”
 
@@ -380,25 +380,25 @@
 ----------
 ----------
 
-[/us/pl/92/70/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70%2Fs2
+[/us/pl/92/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70
 [/us/stat/85/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F178
-[/us/pl/92/70/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70%2Fs1
+[/us/pl/92/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70
 [/us/stat/85/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F178
 [/us/pl/106/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F51
 [/us/stat/113/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F252
-[/us/pl/106/102/s734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs734
+[/us/pl/106/102/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtVII
 [/us/stat/113/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1478
-[/us/pl/107/63/s336/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2Fs336%2Fa
+[/us/pl/107/63/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2FtIII
 [/us/stat/115/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F472
-[/us/pl/108/199/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs211%2Fa
+[/us/pl/108/199/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdB%2FtII
 [/us/stat/118/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F75
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/109/108/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F108%2Fs205
+[/us/pl/109/108/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F108%2FtII
 [/us/stat/119/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2315
-[/us/pl/110/161/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs105
+[/us/pl/110/161/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdB%2FtI
 [/us/stat/121/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1892
-[/us/pl/111/117/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs108
+[/us/pl/111/117/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdB%2FtI
 [/us/stat/123/3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3122
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
 [/us/usc/t15/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1841
@@ -406,10 +406,10 @@
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
-[/us/pl/110/161/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs105%2Fc
+[/us/pl/110/161/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdB%2FtI
 [/us/stat/121/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1893
 [/us/pl/106/51/s101/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F51%2Fs101%2Fc%2F3%2FC
-[/us/pl/107/63/s336/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2Fs336%2Fb
+[/us/pl/107/63/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F63%2FtIII
 [/us/stat/115/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F472
 [/us/pl/106/51/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F51%2Fs101
 

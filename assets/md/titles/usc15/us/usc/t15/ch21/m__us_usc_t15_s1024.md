@@ -45,13 +45,13 @@
 
         Service of one individual, until the completion of the investigation authorized by Senate Concurrent Resolution 26, Eighty-first Congress, as an attorney or expert for the joint committee, in any business or professional field, on a part-time basis, with or without compensation, shall not be considered as service or employment bringing such individual within the provisions of section 281, 283, or 284 of title 18, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or of any other Federal law imposing restrictions, requirements, or penalties in relation to the employment of persons, the performance of services, or the payment or receipt of compensation in connection with any claim, proceeding, or matter involving the United States.
 
-([Feb. 20, 1946, ch. 33, § 11][/us/act/1946-02-20/ch33/s11], formerly § 5, [60 Stat. 25][/us/stat/60/25]; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title II, § 225, [60 Stat. 838][/us/stat/60/838]; [Feb. 2, 1948, ch. 42][/us/act/1948-02-02/ch42], [62 Stat. 16][/us/stat/62/16]; [Oct. 6, 1949, ch. 627][/us/act/1949-10-06/ch627], §§ 1, 2, [63 Stat. 721][/us/stat/63/721]; [June 18, 1956, ch. 399, § 2][/us/act/1956-06-18/ch399/s2], [70 Stat. 290][/us/stat/70/290]; [Pub. L. 86–1][/us/pl/86/1], Feb. 17, 1959, [73 Stat. 3][/us/stat/73/3]; [Pub. L. 88–661][/us/pl/88/661], Oct. 13, 1964, [78 Stat. 1093][/us/stat/78/1093]; [Pub. L. 90–2][/us/pl/90/2], Jan. 25, 1967, [81 Stat. 4][/us/stat/81/4]; [Pub. L. 93–554, title I][/us/pl/93/554], ch. III, Dec. 27, 1974, [88 Stat. 1776][/us/stat/88/1776]; renumbered § 11, [Pub. L. 95–523, § 104][/us/pl/95/523/s104], Oct. 27, 1978, [92 Stat. 1893][/us/stat/92/1893].)
+([Feb. 20, 1946, ch. 33][/us/act/1946-02-20/ch33], § 11, formerly § 5, [60 Stat. 25][/us/stat/60/25]; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title II, § 225, [60 Stat. 838][/us/stat/60/838]; [Feb. 2, 1948, ch. 42][/us/act/1948-02-02/ch42], [62 Stat. 16][/us/stat/62/16]; [Oct. 6, 1949, ch. 627][/us/act/1949-10-06/ch627], §§ 1, 2, [63 Stat. 721][/us/stat/63/721]; [June 18, 1956, ch. 399][/us/act/1956-06-18/ch399], § 2, [70 Stat. 290][/us/stat/70/290]; [Pub. L. 86–1][/us/pl/86/1], Feb. 17, 1959, [73 Stat. 3][/us/stat/73/3]; [Pub. L. 88–661][/us/pl/88/661], Oct. 13, 1964, [78 Stat. 1093][/us/stat/78/1093]; [Pub. L. 90–2][/us/pl/90/2], Jan. 25, 1967, [81 Stat. 4][/us/stat/81/4]; [Pub. L. 93–554, title I][/us/pl/93/554/tI], ch. III, Dec. 27, 1974, [88 Stat. 1776][/us/stat/88/1776]; renumbered § 11, [Pub. L. 95–523][/us/pl/95/523], § 104, Oct. 27, 1978, [92 Stat. 1893][/us/stat/92/1893].)
 
  __References in Text__ 
 
-    Sections 281 and 283 of title 18, referred to in subsec. (f), were repealed by [Pub. L. 87–849, § 2][/us/pl/87/849/s2], Oct. 23, 1962, [76 Stat. 1126][/us/stat/76/1126], except as they may apply to retired officers of the armed forces of the United States, and were supplanted by sections 203 and 205 of Title 18, Crimes and Criminal Procedure.
+    Sections 281 and 283 of title 18, referred to in subsec. (f), were repealed by [Pub. L. 87–849][/us/pl/87/849], § 2, Oct. 23, 1962, [76 Stat. 1126][/us/stat/76/1126], except as they may apply to retired officers of the armed forces of the United States, and were supplanted by sections 203 and 205 of Title 18, Crimes and Criminal Procedure.
 
-    [Section 284 of title 18][/us/usc/t18/s284], referred to in subsec. (f), was repealed by [Pub. L. 87–849, § 2][/us/pl/87/849/s2], Oct. 23, 1962, [76 Stat. 1126][/us/stat/76/1126], and was supplanted by [section 207 of title 18][/us/usc/t18/s207].
+    [Section 284 of title 18][/us/usc/t18/s284], referred to in subsec. (f), was repealed by [Pub. L. 87–849][/us/pl/87/849], § 2, Oct. 23, 1962, [76 Stat. 1126][/us/stat/76/1126], and was supplanted by [section 207 of title 18][/us/usc/t18/s207].
 
  __Amendments__ 
 
@@ -83,7 +83,7 @@
 
  __Senate Members of Joint Economic Committee for 107th Congress__ 
 
-[Pub. L. 107–20, title II, § 2806][/us/pl/107/20/s2806], July 24, 2001, [115 Stat. 185][/us/stat/115/185], provided: 
+[Pub. L. 107–20, title II][/us/pl/107/20/tII], § 2806, July 24, 2001, [115 Stat. 185][/us/stat/115/185], provided: 
 
 > “That notwithstanding any other provision of law, and specifically section 5(a) of the Employment Act of 1946 ([15 U.S.C. 1024(a)][/us/usc/t15/s1024/a]), the Members of the Senate to be appointed by the President of the Senate shall for the duration of the One Hundred Seventh Congress, be represented by six Members of the majority party and five Members of the minority party.”
 
@@ -91,7 +91,7 @@
 
  __Agency Contributions for Employees of Joint Economic Committee__ 
 
-[Pub. L. 106–554, § 1(a)(2)][/us/pl/106/554/s1/a/2] \[title I, § 7\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–98, provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(2) \[title I, § 7\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–98, provided that:
 
 >     “(a) Agency contributions for employees whose salaries are disbursed by the Secretary of the Senate from the appropriations account ‘Joint Economic Committee’ under the heading ‘JOINT ITEMS’ shall be paid from the Senate appropriations account for ‘Salaries, Officers and Employees’.
 
@@ -104,7 +104,7 @@
 ----------
 ----------
 
-[/us/act/1946-02-20/ch33/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-20%2Fch33%2Fs11
+[/us/act/1946-02-20/ch33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-20%2Fch33
 [/us/stat/60/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F25
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F838
@@ -112,7 +112,7 @@
 [/us/stat/62/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F16
 [/us/act/1949-10-06/ch627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-06%2Fch627
 [/us/stat/63/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F721
-[/us/act/1956-06-18/ch399/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-18%2Fch399%2Fs2
+[/us/act/1956-06-18/ch399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-18%2Fch399
 [/us/stat/70/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F290
 [/us/pl/86/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F1
 [/us/stat/73/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F3
@@ -120,14 +120,14 @@
 [/us/stat/78/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1093
 [/us/pl/90/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F2
 [/us/stat/81/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F4
-[/us/pl/93/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554
+[/us/pl/93/554/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554%2FtI
 [/us/stat/88/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1776
-[/us/pl/95/523/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs104
+[/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
 [/us/stat/92/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1893
-[/us/pl/87/849/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs2
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1126
 [/us/usc/t18/s284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs284
-[/us/pl/87/849/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849%2Fs2
+[/us/pl/87/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F849
 [/us/stat/76/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1126
 [/us/usc/t18/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207
 [/us/pl/93/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554
@@ -137,12 +137,12 @@
 [/us/pl/93/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554
 [/us/pl/93/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F554
 [/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
-[/us/pl/107/20/s2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2Fs2806
+[/us/pl/107/20/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2FtII
 [/us/stat/115/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F185
 [/us/usc/t15/s1024/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1024%2Fa
 [/us/pl/107/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F3
 [/us/stat/115/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F5
-[/us/pl/106/554/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

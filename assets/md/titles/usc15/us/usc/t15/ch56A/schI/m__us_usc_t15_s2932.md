@@ -87,7 +87,7 @@
 
         (7) report at least annually to the President and the Congress, through the Chairman of the Council, on Federal global change research priorities, policies, and programs.
 
-([Pub. L. 101–606, title I, § 102][/us/pl/101/606/s102], Nov. 16, 1990, [104 Stat. 3097][/us/stat/104/3097].)
+([Pub. L. 101–606, title I][/us/pl/101/606/tI], § 102, Nov. 16, 1990, [104 Stat. 3097][/us/stat/104/3097].)
 
 ----------
 
@@ -100,7 +100,7 @@
 [/us/usc/t15/s2931/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2931%2Fb
 [/us/usc/t42/s6651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6651
 [/us/usc/t15/s2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2935
-[/us/pl/101/606/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2Fs102
+[/us/pl/101/606/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2FtI
 [/us/stat/104/3097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3097
 
 

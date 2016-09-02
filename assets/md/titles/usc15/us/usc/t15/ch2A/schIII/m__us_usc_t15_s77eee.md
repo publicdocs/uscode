@@ -47,17 +47,17 @@
 
         The provisions of sections 11, 12, 17, and 24 of the Securities Act of 1933 \[[15 U.S.C. 77k][/us/usc/t15/s77k], 77l, 77q, 77x\], and the provisions of sections 77www and 77yyy of this title, shall not apply to statements in or omissions from any analysis required under the provisions of this section or section 77fff or 77ggg of this title.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 305, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1154][/us/stat/53/1154]; amended [Aug. 10, 1954, ch. 667][/us/act/1954-08-10/ch667], title III, § 303, [68 Stat. 687][/us/stat/68/687]; [Pub. L. 101–550, title IV, § 404][/us/pl/101/550/s404], Nov. 15, 1990, [104 Stat. 2722][/us/stat/104/2722].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 305, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1154][/us/stat/53/1154]; amended [Aug. 10, 1954, ch. 667][/us/act/1954-08-10/ch667], title III, § 303, [68 Stat. 687][/us/stat/68/687]; [Pub. L. 101–550, title IV][/us/pl/101/550/tIV], § 404, Nov. 15, 1990, [104 Stat. 2722][/us/stat/104/2722].)
 
  __References in Text__ 
 
-    The Securities Act of 1933, referred to in subsec. (b)(2), is [act May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, [48 Stat. 74][/us/stat/48/74], as amended, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
+    The Securities Act of 1933, referred to in subsec. (b)(2), is [act May 27, 1933, ch. 38, title I][/us/act/1933-05-27/ch38/tI], [48 Stat. 74][/us/stat/48/74], as amended, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
 
  __Amendments__ 
 
-    1990—Subsec. (a)(1). [Pub. L. 101–550, § 404(1)][/us/pl/101/550/s404/1], struck out “or has a conflicting interest as defined in subsection (b) of [section 77jjj of this title][/us/usc/t15/s77jjj]” after “[section 77jjj of this title][/us/usc/t15/s77jjj]”.
+    1990—Subsec. (a)(1). [Pub. L. 101–550][/us/pl/101/550], § 404(1), struck out “or has a conflicting interest as defined in subsection (b) of [section 77jjj of this title][/us/usc/t15/s77jjj]” after “[section 77jjj of this title][/us/usc/t15/s77jjj]”.
 
-    Subsec. (b). [Pub. L. 101–550, § 404(2)][/us/pl/101/550/s404/2], designated existing provisions as par. (1), substituted “Except as may be permitted by paragraph (2) of this subsection, the Commission shall issue” for “The Commission shall issue”, redesignated former par. (1) as subpar. (a) and inserted “or” at end, struck out former par. (2) which authorized Commission to prohibit a registration statement from taking effect if it finds that such indenture does not conform to requirements of sections 77jjj to 77rrr of this title, redesignated former par. (3) as subpar. (B) and struck out “or has any conflicting interest as defined in subsection (b) of [section 77jjj of this title][/us/usc/t15/s77jjj]” after “[section 77jjj of this title][/us/usc/t15/s77jjj]”, and added par. (2).
+    Subsec. (b). [Pub. L. 101–550][/us/pl/101/550], § 404(2), designated existing provisions as par. (1), substituted “Except as may be permitted by paragraph (2) of this subsection, the Commission shall issue” for “The Commission shall issue”, redesignated former par. (1) as subpar. (a) and inserted “or” at end, struck out former par. (2) which authorized Commission to prohibit a registration statement from taking effect if it finds that such indenture does not conform to requirements of sections 77jjj to 77rrr of this title, redesignated former par. (3) as subpar. (B) and struck out “or has any conflicting interest as defined in subsection (b) of [section 77jjj of this title][/us/usc/t15/s77jjj]” after “[section 77jjj of this title][/us/usc/t15/s77jjj]”, and added par. (2).
 
     1954—Subsec. (c). Act Aug. 10, 1954, authorized the Commission to prescribe by rule and regulation the extent to which summaries of indenture provisions must be contained in prospectuses.
 
@@ -97,15 +97,15 @@
 [/us/stat/53/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1154
 [/us/act/1954-08-10/ch667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-10%2Fch667
 [/us/stat/68/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F687
-[/us/pl/101/550/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs404
+[/us/pl/101/550/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtIV
 [/us/stat/104/2722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2722
-[/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
+[/us/act/1933-05-27/ch38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38%2FtI
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
-[/us/pl/101/550/s404/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs404%2F1
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
 [/us/usc/t15/s77jjj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77jjj
 [/us/usc/t15/s77jjj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77jjj
-[/us/pl/101/550/s404/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs404%2F2
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
 [/us/usc/t15/s77jjj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77jjj
 [/us/usc/t15/s77jjj]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77jjj
 [/us/usc/t15/s77b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77b

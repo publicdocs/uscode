@@ -41,15 +41,15 @@
 
     (b) Not later than January 31 of each year, the Commission shall submit to the President and to the Congress a report describing the activities and accomplishments of the Commission during the immediately preceding fiscal year.
 
-([Pub. L. 98–373, title I, § 104][/us/pl/98/373/s104], July 31, 1984, [98 Stat. 1244][/us/stat/98/1244]; [Pub. L. 101–609, § 4][/us/pl/101/609/s4], Nov. 16, 1990, [104 Stat. 3125][/us/stat/104/3125].)
+([Pub. L. 98–373, title I][/us/pl/98/373/tI], § 104, July 31, 1984, [98 Stat. 1244][/us/stat/98/1244]; [Pub. L. 101–609][/us/pl/101/609], § 4, Nov. 16, 1990, [104 Stat. 3125][/us/stat/104/3125].)
 
  __Amendments__ 
 
-    1990—Subsec. (a)(4), (6). [Pub. L. 101–609, § 4(a)(1)][/us/pl/101/609/s4/a/1], (2), substituted “recommend” for “suggest”.
+    1990—Subsec. (a)(4), (6). [Pub. L. 101–609][/us/pl/101/609], § 4(a)(1), (2), substituted “recommend” for “suggest”.
 
-    Subsec. (a)(9), (10). [Pub. L. 101–609, § 4(a)(3)][/us/pl/101/609/s4/a/3]–(5), added pars. (9) and (10).
+    Subsec. (a)(9), (10). [Pub. L. 101–609][/us/pl/101/609], § 4(a)(3)–(5), added pars. (9) and (10).
 
-    Subsec. (b). [Pub. L. 101–609, § 4(b)][/us/pl/101/609/s4/b], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Not later than January 31 of each year, the Commission shall—
+    Subsec. (b). [Pub. L. 101–609][/us/pl/101/609], § 4(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Not later than January 31 of each year, the Commission shall—
 
     “(1) publish a statement of goals and objectives with respect to Arctic research to guide the Interagency Committee established under [section 4106 of this title][/us/usc/t15/s4106] in the performance of its duties; and
 
@@ -69,13 +69,13 @@
 [/us/usc/t15/s4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4106
 [/us/usc/t15/s4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4106
 [/us/usc/t15/s4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4106
-[/us/pl/98/373/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs104
+[/us/pl/98/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtI
 [/us/stat/98/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1244
-[/us/pl/101/609/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F609%2Fs4
+[/us/pl/101/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F609
 [/us/stat/104/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3125
-[/us/pl/101/609/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F609%2Fs4%2Fa%2F1
-[/us/pl/101/609/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F609%2Fs4%2Fa%2F3
-[/us/pl/101/609/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F609%2Fs4%2Fb
+[/us/pl/101/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F609
+[/us/pl/101/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F609
+[/us/pl/101/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F609
 [/us/usc/t15/s4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4106
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

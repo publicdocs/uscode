@@ -19,7 +19,7 @@
 
     (b) In the exercise of its functions under this subchapter, the Bureau may obtain upon request the views of any other Federal agency which exercises enforcement functions under section 1692l of this title.
 
-([Pub. L. 90–321, title VIII, § 815][/us/pl/90/321/s815], as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 882][/us/stat/91/882]; amended [Pub. L. 111–203, title X, § 1089(1)][/us/pl/111/203/s1089/1], July 21, 2010, [124 Stat. 2092][/us/stat/124/2092].)
+([Pub. L. 90–321, title VIII][/us/pl/90/321/tVIII], § 815, as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 882][/us/stat/91/882]; amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1089(1), July 21, 2010, [124 Stat. 2092][/us/stat/124/2092].)
 
  __References in Text__ 
 
@@ -40,10 +40,10 @@
 ----------
 ----------
 
-[/us/pl/90/321/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs815
+[/us/pl/90/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVIII
 [/us/pl/95/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F109
 [/us/stat/91/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F882
-[/us/pl/111/203/s1089/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1089%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2092
 [/us/pl/90/321/s819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs819
 [/us/usc/t15/s1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1692

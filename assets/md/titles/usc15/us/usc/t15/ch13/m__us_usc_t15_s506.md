@@ -17,7 +17,7 @@
 
     The right to alter, amend, or repeal this chapter is expressly reserved.
 
-([June 10, 1930, ch. 440, § 6][/us/act/1930-06-10/ch440/s6], [46 Stat. 540][/us/stat/46/540].)
+([June 10, 1930, ch. 440][/us/act/1930-06-10/ch440], § 6, [46 Stat. 540][/us/stat/46/540].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1930-06-10/ch440/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch440%2Fs6
+[/us/act/1930-06-10/ch440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch440
 [/us/stat/46/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F540
 
 

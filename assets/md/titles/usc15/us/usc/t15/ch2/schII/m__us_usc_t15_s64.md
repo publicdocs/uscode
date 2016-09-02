@@ -17,7 +17,7 @@
 
     The prohibition against “unfair methods of competition” and the remedies provided for enforcing said prohibition contained in the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\] shall be construed as extending to unfair methods of competition used in export trade against competitors engaged in export trade, even though the acts constituting such unfair methods are done without the territorial jurisdiction of the United States.
 
-([Apr. 10, 1918, ch. 50, § 4][/us/act/1918-04-10/ch50/s4], [40 Stat. 517][/us/stat/40/517].)
+([Apr. 10, 1918, ch. 50][/us/act/1918-04-10/ch50], § 4, [40 Stat. 517][/us/stat/40/517].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/act/1918-04-10/ch50/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-04-10%2Fch50%2Fs4
+[/us/act/1918-04-10/ch50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-04-10%2Fch50
 [/us/stat/40/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F517
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

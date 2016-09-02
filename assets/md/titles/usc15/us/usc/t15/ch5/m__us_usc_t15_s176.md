@@ -17,7 +17,7 @@
 
     A purpose of the Bureau of Foreign and Domestic Commerce is the collection, arrangement, and classification of such statistical information as may be procured, showing, or tending to show, each year the condition of the manufactures, domestic trade, currency, and banks of the several States and Territories.
 
-(R.S. § 335; [Feb. 27, 1877, ch. 69, § 1][/us/act/1877-02-27/ch69/s1], [19 Stat. 241][/us/stat/19/241]; [Aug. 23, 1912, ch. 350, § 1][/us/act/1912-08-23/ch350/s1], [37 Stat. 407][/us/stat/37/407].)
+(R.S. § 335; [Feb. 27, 1877, ch. 69][/us/act/1877-02-27/ch69], § 1, [19 Stat. 241][/us/stat/19/241]; [Aug. 23, 1912, ch. 350][/us/act/1912-08-23/ch350], § 1, [37 Stat. 407][/us/stat/37/407].)
 
  __Codification__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/act/1877-02-27/ch69/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69%2Fs1
+[/us/act/1877-02-27/ch69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-02-27%2Fch69
 [/us/stat/19/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F241
-[/us/act/1912-08-23/ch350/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-23%2Fch350%2Fs1
+[/us/act/1912-08-23/ch350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-23%2Fch350
 [/us/stat/37/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F407
 [/us/stat/5/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F5%2F719
 [/us/usc/t15/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs172

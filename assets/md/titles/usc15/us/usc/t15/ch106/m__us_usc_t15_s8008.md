@@ -17,7 +17,7 @@
 
     This chapter  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  is applicable to the United States and its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands.
 
-([Pub. L. 110–140, title XIV, § 1409][/us/pl/110/140/s1409], as added [Pub. L. 110–314, title II, § 238(3)][/us/pl/110/314/s238/3], Aug. 14, 2008, [122 Stat. 3076][/us/stat/122/3076].)
+([Pub. L. 110–140, title XIV][/us/pl/110/140/tXIV], § 1409, as added [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 238(3), Aug. 14, 2008, [122 Stat. 3076][/us/stat/122/3076].)
 
  __References in Text__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/110/140/s1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1409
-[/us/pl/110/314/s238/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs238%2F3
+[/us/pl/110/140/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXIV
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3076
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 

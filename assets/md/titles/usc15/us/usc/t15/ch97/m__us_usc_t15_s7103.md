@@ -67,7 +67,7 @@
 
         Upon request by the chairperson of the Interagency Committee, the head of any Federal department or agency may detail any of the personnel of such agency to assist the Interagency Committee in carrying out its duties under this chapter without regard to [section 3341 of title 5][/us/usc/t5/s3341].
 
-([Pub. L. 100–533, title IV, § 403][/us/pl/100/533/s403], as added [Pub. L. 103–403, title IV, § 413][/us/pl/103/403/s413], Oct. 22, 1994, [108 Stat. 4194][/us/stat/108/4194]; amended [Pub. L. 105–135, title III, § 301][/us/pl/105/135/s301], Dec. 2, 1997, [111 Stat. 2608][/us/stat/111/2608].)
+([Pub. L. 100–533, title IV][/us/pl/100/533/tIV], § 403, as added [Pub. L. 103–403, title IV][/us/pl/103/403/tIV], § 413, Oct. 22, 1994, [108 Stat. 4194][/us/stat/108/4194]; amended [Pub. L. 105–135, title III][/us/pl/105/135/tIII], § 301, Dec. 2, 1997, [111 Stat. 2608][/us/stat/111/2608].)
 
  __Codification__ 
 
@@ -75,15 +75,15 @@
 
  __Prior Provisions__ 
 
-    A prior [section 403 of Pub. L. 100–533][/us/pl/100/533/s403], title IV, Oct. 25, 1988, [102 Stat. 2694][/us/stat/102/2694]; [Pub. L. 102–191, § 5][/us/pl/102/191/s5], Dec. 5, 1991, [105 Stat. 1591][/us/stat/105/1591], related to membership of the National Women’s Business Council, prior to the general amendment of title IV of [Pub. L. 100–533][/us/pl/100/533] by [Pub. L. 103–403][/us/pl/103/403]. See [section 7107 of this title][/us/usc/t15/s7107].
+    A prior [section 403 of Pub. L. 100–533][/us/pl/100/533/s403], title IV, Oct. 25, 1988, [102 Stat. 2694][/us/stat/102/2694]; [Pub. L. 102–191][/us/pl/102/191], § 5, Dec. 5, 1991, [105 Stat. 1591][/us/stat/105/1591], related to membership of the National Women’s Business Council, prior to the general amendment of title IV of [Pub. L. 100–533][/us/pl/100/533] by [Pub. L. 103–403][/us/pl/103/403]. See [section 7107 of this title][/us/usc/t15/s7107].
 
  __Amendments__ 
 
-    1997—Subsec. (a)(2)(A). [Pub. L. 105–135, § 301(1)][/us/pl/105/135/s301/1], substituted “December 2, 1997” for “October 22, 1994” and inserted before period at end “, and who shall report directly to the head of the agency on the status of the activities of the Interagency Committee”. See Codification note above.
+    1997—Subsec. (a)(2)(A). [Pub. L. 105–135][/us/pl/105/135], § 301(1), substituted “December 2, 1997” for “October 22, 1994” and inserted before period at end “, and who shall report directly to the head of the agency on the status of the activities of the Interagency Committee”. See Codification note above.
 
-    Subsec. (a)(2)(B). [Pub. L. 105–135, § 301(2)][/us/pl/105/135/s301/2], inserted before period at end “and shall report directly to the Administrator on the status of the activities on the Interagency Committee and shall serve as the Interagency Committee Liaison to the National Women’s Business Council established under [section 7105 of this title][/us/usc/t15/s7105]”.
+    Subsec. (a)(2)(B). [Pub. L. 105–135][/us/pl/105/135], § 301(2), inserted before period at end “and shall report directly to the Administrator on the status of the activities on the Interagency Committee and shall serve as the Interagency Committee Liaison to the National Women’s Business Council established under [section 7105 of this title][/us/usc/t15/s7105]”.
 
-    Subsec. (b). [Pub. L. 105–135, § 301(3)][/us/pl/105/135/s301/3], substituted “December 2, 1997” for “October 22, 1994”. See Codification note above.
+    Subsec. (b). [Pub. L. 105–135][/us/pl/105/135], § 301(3), substituted “December 2, 1997” for “October 22, 1994”. See Codification note above.
 
  __Effective Date of 1997 Amendment__ 
 
@@ -98,23 +98,23 @@
 
 [/us/usc/t15/s7105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7105
 [/us/usc/t5/s3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3341
-[/us/pl/100/533/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs403
-[/us/pl/103/403/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs413
+[/us/pl/100/533/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2FtIV
+[/us/pl/103/403/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtIV
 [/us/stat/108/4194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4194
-[/us/pl/105/135/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs301
+[/us/pl/105/135/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtIII
 [/us/stat/111/2608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2608
 [/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/100/533/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs403
 [/us/stat/102/2694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2694
-[/us/pl/102/191/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F191%2Fs5
+[/us/pl/102/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F191
 [/us/stat/105/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1591
 [/us/pl/100/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533
 [/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
 [/us/usc/t15/s7107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7107
-[/us/pl/105/135/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs301%2F1
-[/us/pl/105/135/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs301%2F2
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/usc/t15/s7105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7105
-[/us/pl/105/135/s301/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs301%2F3
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/105/135/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs3
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631

@@ -143,7 +143,7 @@
 
                 Nothing in this subsection shall be construed to impair or limit the authority of a State or local government to establish accounting and financial reporting standards.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 19, [48 Stat. 85][/us/stat/48/85]; [June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title II, § 209, [48 Stat. 908][/us/stat/48/908]; [Pub. L. 94–210, title III, § 308(a)(2)][/us/pl/94/210/s308/a/2], Feb. 5, 1976, [90 Stat. 57][/us/stat/90/57]; [Pub. L. 96–477, title V, § 505][/us/pl/96/477/s505], Oct. 21, 1980, [94 Stat. 2292][/us/stat/94/2292]; [Pub. L. 100–181, title II, § 207][/us/pl/100/181/s207], Dec. 4, 1987, [101 Stat. 1252][/us/stat/101/1252]; [Pub. L. 107–204, title I, § 108(a)][/us/pl/107/204/s108/a], July 30, 2002, [116 Stat. 768][/us/stat/116/768]; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 912, 978(a), 985(a)(3), July 21, 2010, [124 Stat. 1824][/us/stat/124/1824], 1924, 1933.)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 19, [48 Stat. 85][/us/stat/48/85]; [June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title II, § 209, [48 Stat. 908][/us/stat/48/908]; [Pub. L. 94–210, title III][/us/pl/94/210/tIII], § 308(a)(2), Feb. 5, 1976, [90 Stat. 57][/us/stat/90/57]; [Pub. L. 96–477, title V][/us/pl/96/477/tV], § 505, Oct. 21, 1980, [94 Stat. 2292][/us/stat/94/2292]; [Pub. L. 100–181, title II][/us/pl/100/181/tII], § 207, Dec. 4, 1987, [101 Stat. 1252][/us/stat/101/1252]; [Pub. L. 107–204, title I][/us/pl/107/204/tI], § 108(a), July 30, 2002, [116 Stat. 768][/us/stat/116/768]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], §§ 912, 978(a), 985(a)(3), July 21, 2010, [124 Stat. 1824][/us/stat/124/1824], 1924, 1933.)
 
  __References in Text__ 
 
@@ -153,11 +153,11 @@
 
  __Amendments__ 
 
-    2010—Subsec. (d)(6)(A). [Pub. L. 111–203, § 985(a)(3)][/us/pl/111/203/s985/a/3], which directed substitution of “in paragraph (1) or (3)” for “in paragraph (1) of (3)”, could not be executed because the phrase “in paragraph (1) of (3)” did not appear.
+    2010—Subsec. (d)(6)(A). [Pub. L. 111–203][/us/pl/111/203], § 985(a)(3), which directed substitution of “in paragraph (1) or (3)” for “in paragraph (1) of (3)”, could not be executed because the phrase “in paragraph (1) of (3)” did not appear.
 
-    Subsecs. (e), (f). [Pub. L. 111–203, § 912][/us/pl/111/203/s912], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 111–203][/us/pl/111/203], § 912, added subsecs. (e) and (f).
 
-    Subsec. (g). [Pub. L. 111–203, § 978(a)][/us/pl/111/203/s978/a], added subsec. (g).
+    Subsec. (g). [Pub. L. 111–203][/us/pl/111/203], § 978(a), added subsec. (g).
 
     2002—Subsecs. (b) to (d). [Pub. L. 107–204][/us/pl/107/204] added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
@@ -187,7 +187,7 @@
 
  __Study on Modernization and Simplification of Regulation S–K__ 
 
-[Pub. L. 114–94, div. G, title LXXII, § 72003][/us/pl/114/94/s72003], Dec. 4, 2015, [129 Stat. 1785][/us/stat/129/1785], provided that:
+[Pub. L. 114–94, div. G, title LXXII][/us/pl/114/94/dG/tLXXII], § 72003, Dec. 4, 2015, [129 Stat. 1785][/us/stat/129/1785], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -241,23 +241,23 @@
 [/us/stat/48/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F85
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F908
-[/us/pl/94/210/s308/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F210%2Fs308%2Fa%2F2
+[/us/pl/94/210/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F210%2FtIII
 [/us/stat/90/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F57
-[/us/pl/96/477/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2Fs505
+[/us/pl/96/477/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2FtV
 [/us/stat/94/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2292
-[/us/pl/100/181/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs207
+[/us/pl/100/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtII
 [/us/stat/101/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1252
-[/us/pl/107/204/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs108%2Fa
+[/us/pl/107/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtI
 [/us/stat/116/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F768
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1824
 [/us/usc/t44/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3501
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/111/203/s985/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs985%2Fa%2F3
-[/us/pl/111/203/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs912
-[/us/pl/111/203/s978/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs978%2Fa
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/96/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477
@@ -274,7 +274,7 @@
 [/us/usc/t15/s77c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77c
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t15/s78d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d
-[/us/pl/114/94/s72003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs72003
+[/us/pl/114/94/dG/tLXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXII
 [/us/stat/129/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1785
 [/us/pl/114/94/s72002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs72002
 [/us/usc/t15/s77g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77g

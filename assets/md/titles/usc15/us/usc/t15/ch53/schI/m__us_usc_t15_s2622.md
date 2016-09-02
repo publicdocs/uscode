@@ -49,7 +49,7 @@
 
         Subsection (a) of this section shall not apply with respect to any employee who, acting without direction from the employee’s employer (or any agent of the employer), deliberately causes a violation of any requirement of this chapter.
 
-([Pub. L. 94–469, title I, § 23][/us/pl/94/469/s23], Oct. 11, 1976, [90 Stat. 2044][/us/stat/90/2044]; [Pub. L. 98–620, title IV, § 402(19)][/us/pl/98/620/s402/19], Nov. 8, 1984, [98 Stat. 3358][/us/stat/98/3358]; renumbered title I, [Pub. L. 99–519, § 3(c)(1)][/us/pl/99/519/s3/c/1], Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989].)
+([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 23, Oct. 11, 1976, [90 Stat. 2044][/us/stat/90/2044]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(19), Nov. 8, 1984, [98 Stat. 3358][/us/stat/98/3358]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989].)
 
  __Amendments__ 
 
@@ -66,11 +66,11 @@
 ----------
 ----------
 
-[/us/pl/94/469/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs23
+[/us/pl/94/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtI
 [/us/stat/90/2044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2044
-[/us/pl/98/620/s402/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F19
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3358
-[/us/pl/99/519/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs3%2Fc%2F1
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620

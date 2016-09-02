@@ -31,7 +31,7 @@
 
     (b) The Commodity Futures Trading Commission and the Federal Energy Regulatory Commission shall, not later than July 21, 2010, negotiate a memorandum of understanding to share information that may be requested where either Commission is conducting an investigation into potential manipulation, fraud, or market power abuse in markets subject to such Commission’s regulation or oversight. Shared information shall remain subject to the same restrictions on disclosure applicable to the Commission initially holding the information.
 
-([Pub. L. 111–203, title VII, § 720][/us/pl/111/203/s720], July 21, 2010, [124 Stat. 1657][/us/stat/124/1657].)
+([Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 720, July 21, 2010, [124 Stat. 1657][/us/stat/124/1657].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs720
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1657
 
 

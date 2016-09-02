@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t15/ch1/m__us_usc_t15_s19.md) | [Next](./../../../..//us/usc/t15/ch1/m__us_usc_t15_s20.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs19a)
 
-## § 19a. Repealed. [Aug. 23, 1935, ch. 614, § 329][/us/act/1935-08-23/ch614/s329], [49 Stat. 717][/us/stat/49/717]
+## § 19a. Repealed. [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], § 329, [49 Stat. 717][/us/stat/49/717]
 
-    Section, [act Oct. 15, 1914, ch. 323, § 8a][/us/act/1914-10-15/ch323/s8a], as added [June 16, 1933, ch. 89, § 33][/us/act/1933-06-16/ch89/s33], [48 Stat. 194][/us/stat/48/194], related to interlocking corporations or partnerships making loans on securities.
+    Section, [act Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], § 8a, as added [June 16, 1933, ch. 89][/us/act/1933-06-16/ch89], § 33, [48 Stat. 194][/us/stat/48/194], related to interlocking corporations or partnerships making loans on securities.
 
 ----------
 
@@ -24,10 +24,10 @@
 ----------
 ----------
 
-[/us/act/1935-08-23/ch614/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614%2Fs329
+[/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F717
-[/us/act/1914-10-15/ch323/s8a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323%2Fs8a
-[/us/act/1933-06-16/ch89/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89%2Fs33
+[/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
+[/us/act/1933-06-16/ch89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-16%2Fch89
 [/us/stat/48/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F194
 
 

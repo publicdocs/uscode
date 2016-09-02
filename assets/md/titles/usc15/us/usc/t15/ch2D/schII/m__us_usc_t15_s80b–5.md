@@ -63,19 +63,19 @@
 
         The Commission, by rule, may prohibit, or impose conditions or limitations on the use of, agreements that require customers or clients of any investment adviser to arbitrate any future dispute between them arising under the Federal securities laws, the rules and regulations thereunder, or the rules of a self-regulatory organization if it finds that such prohibition, imposition of conditions, or limitations are in the public interest and for the protection of investors.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 205, [54 Stat. 852][/us/stat/54/852]; [Pub. L. 86–750, § 7][/us/pl/86/750/s7], Sept. 13, 1960, [74 Stat. 887][/us/stat/74/887]; [Pub. L. 91–547, § 25][/us/pl/91/547/s25], Dec. 14, 1970, [84 Stat. 1432][/us/stat/84/1432]; [Pub. L. 96–477, title II, § 203][/us/pl/96/477/s203], Oct. 21, 1980, [94 Stat. 2290][/us/stat/94/2290]; [Pub. L. 100–181, title VII, § 703][/us/pl/100/181/s703], Dec. 4, 1987, [101 Stat. 1263][/us/stat/101/1263]; [Pub. L. 104–290, title II, § 210][/us/pl/104/290/s210], Oct. 11, 1996, [110 Stat. 3436][/us/stat/110/3436]; [Pub. L. 111–203, title IV, § 418][/us/pl/111/203/s418], title IX, §§ 921(b), 928, July 21, 2010, [124 Stat. 1579][/us/stat/124/1579], 1841, 1852.)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 205, [54 Stat. 852][/us/stat/54/852]; [Pub. L. 86–750][/us/pl/86/750], § 7, Sept. 13, 1960, [74 Stat. 887][/us/stat/74/887]; [Pub. L. 91–547][/us/pl/91/547], § 25, Dec. 14, 1970, [84 Stat. 1432][/us/stat/84/1432]; [Pub. L. 96–477, title II][/us/pl/96/477/tII], § 203, Oct. 21, 1980, [94 Stat. 2290][/us/stat/94/2290]; [Pub. L. 100–181, title VII][/us/pl/100/181/tVII], § 703, Dec. 4, 1987, [101 Stat. 1263][/us/stat/101/1263]; [Pub. L. 104–290, title II][/us/pl/104/290/tII], § 210, Oct. 11, 1996, [110 Stat. 3436][/us/stat/110/3436]; [Pub. L. 111–203, title IV][/us/pl/111/203/tIV], § 418, title IX, §§ 921(b), 928, July 21, 2010, [124 Stat. 1579][/us/stat/124/1579], 1841, 1852.)
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 928][/us/pl/111/203/s928], in introductory provisions, substituted “registered or required to be registered with the Commission” for “, unless exempt from registration pursuant to [section 80b–3(b) of this title][/us/usc/t15/s80b–3/b],” and struck out “make use of the mails or any means or instrumentality of interstate commerce, directly or indirectly, to” after “shall” and “to” after “in any way”.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 928, in introductory provisions, substituted “registered or required to be registered with the Commission” for “, unless exempt from registration pursuant to [section 80b–3(b) of this title][/us/usc/t15/s80b–3/b],” and struck out “make use of the mails or any means or instrumentality of interstate commerce, directly or indirectly, to” after “shall” and “to” after “in any way”.
 
-    Subsec. (e). [Pub. L. 111–203, § 418][/us/pl/111/203/s418], inserted at end “With respect to any factor used in any rule or regulation by the Commission in making a determination under this subsection, if the Commission uses a dollar amount test in connection with such factor, such as a net asset threshold, the Commission shall, by order, not later than 1 year after July 21, 2010, and every 5 years thereafter, adjust for the effects of inflation on such test. Any such adjustment that is not a multiple of $100,000 shall be rounded to the nearest multiple of $100,000.”
+    Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 418, inserted at end “With respect to any factor used in any rule or regulation by the Commission in making a determination under this subsection, if the Commission uses a dollar amount test in connection with such factor, such as a net asset threshold, the Commission shall, by order, not later than 1 year after July 21, 2010, and every 5 years thereafter, adjust for the effects of inflation on such test. Any such adjustment that is not a multiple of $100,000 shall be rounded to the nearest multiple of $100,000.”
 
-    Subsec. (f). [Pub. L. 111–203, § 921(b)][/us/pl/111/203/s921/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 111–203][/us/pl/111/203], § 921(b), added subsec. (f).
 
-    1996—Subsec. (b)(4), (5). [Pub. L. 104–290, § 210(1)][/us/pl/104/290/s210/1], added pars. (4) and (5).
+    1996—Subsec. (b)(4), (5). [Pub. L. 104–290][/us/pl/104/290], § 210(1), added pars. (4) and (5).
 
-    Subsec. (e). [Pub. L. 104–290, § 210(2)][/us/pl/104/290/s210/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 104–290][/us/pl/104/290], § 210(2), added subsec. (e).
 
     1987—[Pub. L. 100–181][/us/pl/100/181] completely revised and expanded provisions on investment advisory contracts, changing structure of section from a single unlettered paragraph to one consisting of four subsections lettered (a) to (d).
 
@@ -113,24 +113,24 @@
 [/us/usc/t15/s80a–3/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%933%2Fc%2F7
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F852
-[/us/pl/86/750/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750%2Fs7
+[/us/pl/86/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750
 [/us/stat/74/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F887
-[/us/pl/91/547/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs25
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1432
-[/us/pl/96/477/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2Fs203
+[/us/pl/96/477/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2FtII
 [/us/stat/94/2290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2290
-[/us/pl/100/181/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs703
+[/us/pl/100/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVII
 [/us/stat/101/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1263
-[/us/pl/104/290/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs210
+[/us/pl/104/290/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtII
 [/us/stat/110/3436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3436
-[/us/pl/111/203/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs418
+[/us/pl/111/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIV
 [/us/stat/124/1579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1579
-[/us/pl/111/203/s928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs928
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s80b–3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%933%2Fb
-[/us/pl/111/203/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs418
-[/us/pl/111/203/s921/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs921%2Fb
-[/us/pl/104/290/s210/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs210%2F1
-[/us/pl/104/290/s210/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs210%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
 [/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/96/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477
 [/us/usc/t15/s80a–60/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9360%2Fa%2F3%2FB

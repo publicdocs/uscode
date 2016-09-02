@@ -17,13 +17,13 @@
 
     Any exports of Alaska natural gas shall be subject to the requirements of the Natural Gas Act \[[15 U.S.C. 717][/us/usc/t15/s717] et seq.\] and section 103  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Energy Policy and Conservation Act, except that in addition to the requirements of such Acts, before any Alaska natural gas in excess of 1,000 Mcf per day may be exported to any nation other than Canada or Mexico, the President must make and publish an express finding that such exports will not diminish the total quantity or quality nor increase the total price of energy available to the United States.
 
-([Pub. L. 94–586, § 12][/us/pl/94/586/s12], Oct. 22, 1976, [90 Stat. 2914][/us/stat/90/2914].)
+([Pub. L. 94–586][/us/pl/94/586], § 12, Oct. 22, 1976, [90 Stat. 2914][/us/stat/90/2914].)
 
  __References in Text__ 
 
     The Natural Gas Act, referred to in text, is [act June 21, 1938, ch. 556][/us/act/1938-06-21/ch556], [52 Stat. 821][/us/stat/52/821], which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see [section 717w of this title][/us/usc/t15/s717w] and Tables.
 
-    The Energy Policy and Conservation Act, referred to in text, is [Pub. L. 94–163][/us/pl/94/163], Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871], which is classified principally to chapter 77 (§ 6201 et seq.) of Title 42, The Public Health and Welfare. Section 103 of the Act was classified to [section 6212 of Title 42][/us/usc/t42/s6212], prior to repeal by [Pub. L. 114–113, div. O, title I, § 101(a)][/us/pl/114/113/s101/a], Dec. 18, 2015, [129 Stat. 2987][/us/stat/129/2987]. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of Title 42][/us/usc/t42/s6201] and Tables.
+    The Energy Policy and Conservation Act, referred to in text, is [Pub. L. 94–163][/us/pl/94/163], Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871], which is classified principally to chapter 77 (§ 6201 et seq.) of Title 42, The Public Health and Welfare. Section 103 of the Act was classified to [section 6212 of Title 42][/us/usc/t42/s6212], prior to repeal by [Pub. L. 114–113, div. O, title I][/us/pl/114/113/dO/tI], § 101(a), Dec. 18, 2015, [129 Stat. 2987][/us/stat/129/2987]. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of Title 42][/us/usc/t42/s6201] and Tables.
 
  __Transfer of Functions__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
-[/us/pl/94/586/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586%2Fs12
+[/us/pl/94/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586
 [/us/stat/90/2914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2914
 [/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F821
@@ -45,7 +45,7 @@
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
 [/us/usc/t42/s6212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6212
-[/us/pl/114/113/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs101%2Fa
+[/us/pl/114/113/dO/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtI
 [/us/stat/129/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2987
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373

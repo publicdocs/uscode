@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t15/ch80/m__us_usc_t15_s5412.md) | [Next](./../../../..//us/usc/t15/ch80/m__us_usc_t15_s5414.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5413)
 
-## § 5413. Repealed. [Pub. L. 104–113, § 11(j)][/us/pl/104/113/s11/j], Mar. 7, 1996, [110 Stat. 782][/us/stat/110/782]
+## § 5413. Repealed. [Pub. L. 104–113][/us/pl/104/113], § 11(j), Mar. 7, 1996, [110 Stat. 782][/us/stat/110/782]
 
-    Section, [Pub. L. 101–592, § 14][/us/pl/101/592/s14], Nov. 16, 1990, [104 Stat. 2952][/us/stat/104/2952], related to appointment of an advisory committee to be available for consultation with Secretary on matters related to fasteners.
+    Section, [Pub. L. 101–592][/us/pl/101/592], § 14, Nov. 16, 1990, [104 Stat. 2952][/us/stat/104/2952], related to appointment of an advisory committee to be available for consultation with Secretary on matters related to fasteners.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/104/113/s11/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs11%2Fj
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 [/us/stat/110/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F782
-[/us/pl/101/592/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F592%2Fs14
+[/us/pl/101/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F592
 [/us/stat/104/2952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2952
 
 

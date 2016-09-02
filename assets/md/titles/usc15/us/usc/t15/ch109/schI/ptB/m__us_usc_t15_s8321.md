@@ -27,7 +27,7 @@
 
         To include transactions and entities that have been structured to evade this subtitle (or an amendment made by this subtitle), the Commodity Futures Trading Commission shall adopt a rule to further define the terms “swap”, “swap dealer”, “major swap participant”, and “eligible contract participant”.
 
-([Pub. L. 111–203, title VII, § 721(b)][/us/pl/111/203/s721/b], (c), July 21, 2010, [124 Stat. 1670][/us/stat/124/1670].)
+([Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 721(b), (c), July 21, 2010, [124 Stat. 1670][/us/stat/124/1670].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
-[/us/pl/111/203/s721/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs721%2Fb
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1670
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1641

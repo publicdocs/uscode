@@ -17,7 +17,7 @@
 
     The insurance activities of any person (including a national bank exercising its power to act as agent under [section 92 of title 12][/us/usc/t12/s92]) shall be functionally regulated by the States, subject to [section 6701 of this title][/us/usc/t15/s6701].
 
-([Pub. L. 106–102, title III, § 301][/us/pl/106/102/s301], Nov. 12, 1999, [113 Stat. 1407][/us/stat/113/1407].)
+([Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 301, Nov. 12, 1999, [113 Stat. 1407][/us/stat/113/1407].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t12/s92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs92
 [/us/usc/t15/s6701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6701
-[/us/pl/106/102/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs301
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1407
 
 

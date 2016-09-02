@@ -145,7 +145,7 @@
 
         (3) the agent or broker did not deviate from such procedures.
 
-([Pub. L. 106–229, title I, § 101][/us/pl/106/229/s101], June 30, 2000, [114 Stat. 464][/us/stat/114/464].)
+([Pub. L. 106–229, title I][/us/pl/106/229/tI], § 101, June 30, 2000, [114 Stat. 464][/us/stat/114/464].)
 
  __References in Text__ 
 
@@ -155,7 +155,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–229, title I, § 107][/us/pl/106/229/s107], June 30, 2000, [114 Stat. 473][/us/stat/114/473], provided that:
+[Pub. L. 106–229, title I][/us/pl/106/229/tI], § 107, June 30, 2000, [114 Stat. 473][/us/stat/114/473], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -191,7 +191,7 @@
 
  __Short Title__ 
 
-[Pub. L. 106–229, § 1][/us/pl/106/229/s1], June 30, 2000, [114 Stat. 464][/us/stat/114/464], provided that: 
+[Pub. L. 106–229][/us/pl/106/229], § 1, June 30, 2000, [114 Stat. 464][/us/stat/114/464], provided that: 
 
 > “This Act \[enacting this chapter and amending provisions set out as a note under [section 231 of Title 47][/us/usc/t47/s231], Telecommunications\] may be cited as the ‘Electronic Signatures in Global and National Commerce Act’.”
 
@@ -202,11 +202,11 @@
 ----------
 ----------
 
-[/us/pl/106/229/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2Fs101
+[/us/pl/106/229/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2FtI
 [/us/stat/114/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F464
 [/us/pl/106/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229
 [/us/stat/114/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F464
-[/us/pl/106/229/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2Fs107
+[/us/pl/106/229/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2FtI
 [/us/stat/114/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F473
 [/us/usc/t15/s7004/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7004%2Fb%2F3
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
@@ -214,7 +214,7 @@
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
 [/us/usc/t15/s7001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7001%2Fc
 [/us/usc/t20/s1082/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1082%2Fm
-[/us/pl/106/229/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2Fs1
+[/us/pl/106/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229
 [/us/stat/114/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F464
 [/us/usc/t47/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs231
 

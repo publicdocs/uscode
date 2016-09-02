@@ -17,7 +17,7 @@
 
     Subject to the provisions relating to the registration of trademarks, so far as they are applicable, service marks shall be registrable, in the same manner and with the same effect as are trademarks, and when registered they shall be entitled to the protection provided in this chapter in the case of trademarks. Applications and procedure under this section shall conform as nearly as practicable to those prescribed for the registration of trademarks.
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title I, § 3, [60 Stat. 429][/us/stat/60/429]; [Pub. L. 100–667, title I, § 105][/us/pl/100/667/s105], Nov. 16, 1988, [102 Stat. 3938][/us/stat/102/3938]; [Pub. L. 106–43, § 6(b)][/us/pl/106/43/s6/b], Aug. 5, 1999, [113 Stat. 220][/us/stat/113/220].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title I, § 3, [60 Stat. 429][/us/stat/60/429]; [Pub. L. 100–667, title I][/us/pl/100/667/tI], § 105, Nov. 16, 1988, [102 Stat. 3938][/us/stat/102/3938]; [Pub. L. 106–43][/us/pl/106/43], § 6(b), Aug. 5, 1999, [113 Stat. 220][/us/stat/113/220].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F429
-[/us/pl/100/667/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs105
+[/us/pl/100/667/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtI
 [/us/stat/102/3938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3938
-[/us/pl/106/43/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43%2Fs6%2Fb
+[/us/pl/106/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43
 [/us/stat/113/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F220
 [/us/pl/106/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43
 [/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667

@@ -113,11 +113,11 @@
 
             Any device or system described in subparagraphs (B) through (E) of paragraph (1) shall meet the requirements of any ASME/ANSI or ASTM performance standard if there is such a standard for such a device or system, or any applicable consumer product safety standard.
 
-([Pub. L. 110–140, title XIV, § 1406][/us/pl/110/140/s1406], Dec. 19, 2007, [121 Stat. 1797][/us/stat/121/1797]; [Pub. L. 113–76, div. E, title V, § 501(2)][/us/pl/113/76/s501/2], Jan. 17, 2014, [128 Stat. 209][/us/stat/128/209].)
+([Pub. L. 110–140, title XIV][/us/pl/110/140/tXIV], § 1406, Dec. 19, 2007, [121 Stat. 1797][/us/stat/121/1797]; [Pub. L. 113–76, div. E, title V][/us/pl/113/76/dE/tV], § 501(2), Jan. 17, 2014, [128 Stat. 209][/us/stat/128/209].)
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1)(A). [Pub. L. 113–76, § 501(2)(A)][/us/pl/113/76/s501/2/A], inserted “and” at end of cl. (i), redesignated cl. (iii) as (ii) and inserted “and” at end, and struck out former cl. (ii) and cls. (iv) and (v) which read as follows:
+    2014—Subsec. (a)(1)(A). [Pub. L. 113–76][/us/pl/113/76], § 501(2)(A), inserted “and” at end of cl. (i), redesignated cl. (iii) as (ii) and inserted “and” at end, and struck out former cl. (ii) and cls. (iv) and (v) which read as follows:
 
     “(ii) that all pools and spas be equipped with devices and systems designed to prevent entrapment by pool or spa drains;
 
@@ -125,7 +125,7 @@
 
     “(v) that periodic notification is provided to owners of residential swimming pools or spas about compliance with the entrapment protection standards of the ASME/ANSI A112.19.8 performance standard, or any successor standard; and”.
 
-    Subsec. (a)(2) to (4). [Pub. L. 113–76, § 501(2)(B)][/us/pl/113/76/s501/2/B], (C), redesignated pars. (3) and (4) as (2) and (3), respectively, substituted “paragraph (1)(B)” for “paragraph (1)” in introductory provisions of par. (3), and struck out former par. (2) which read as follows: “The minimum State law notification requirement under paragraph (1)(A)(v) shall not be construed to imply any liability on the part of a State related to that requirement.”
+    Subsec. (a)(2) to (4). [Pub. L. 113–76][/us/pl/113/76], § 501(2)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, substituted “paragraph (1)(B)” for “paragraph (1)” in introductory provisions of par. (3), and struck out former par. (2) which read as follows: “The minimum State law notification requirement under paragraph (1)(A)(v) shall not be construed to imply any liability on the part of a State related to that requirement.”
 
 ----------
 
@@ -136,12 +136,12 @@
 
 [/us/usc/t15/s8004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8004
 [/us/usc/t15/s8004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8004
-[/us/pl/110/140/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1406
+[/us/pl/110/140/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXIV
 [/us/stat/121/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1797
-[/us/pl/113/76/s501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs501%2F2
+[/us/pl/113/76/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdE%2FtV
 [/us/stat/128/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F209
-[/us/pl/113/76/s501/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs501%2F2%2FA
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/usc/t15/s8003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8003
-[/us/pl/113/76/s501/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs501%2F2%2FB
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 
 

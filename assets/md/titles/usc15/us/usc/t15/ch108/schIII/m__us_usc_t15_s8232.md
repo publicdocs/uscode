@@ -17,7 +17,7 @@
 
     If any section or subsection of this chapter, or any application of such provision to any person or circumstance, is held to be unconstitutional, the remainder of this chapter, and the application of the provision to any other person or circumstance, shall not be affected.
 
-([Pub. L. 111–203, title V, § 542][/us/pl/111/203/s542], July 21, 2010, [124 Stat. 1596][/us/stat/124/1596].)
+([Pub. L. 111–203, title V][/us/pl/111/203/tV], § 542, July 21, 2010, [124 Stat. 1596][/us/stat/124/1596].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs542
+[/us/pl/111/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtV
 [/us/stat/124/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1596
 
 

@@ -27,7 +27,7 @@
 
         Nothing in this section is intended to limit or diminish existing authorities of any agency.
 
-([Pub. L. 96–480, § 15][/us/pl/96/480/s15], as added and renumbered § 14, [Pub. L. 99–502][/us/pl/99/502], §§ 8, 9(e)(1), Oct. 20, 1986, [100 Stat. 1794][/us/stat/100/1794], 1797; renumbered § 15, [Pub. L. 100–418, title V, § 5122(a)(1)][/us/pl/100/418/s5122/a/1], Aug. 23, 1988, [102 Stat. 1438][/us/stat/102/1438]; amended [Pub. L. 104–113, § 6][/us/pl/104/113/s6], Mar. 7, 1996, [110 Stat. 779][/us/stat/110/779].)
+([Pub. L. 96–480][/us/pl/96/480], § 15, as added and renumbered § 14, [Pub. L. 99–502][/us/pl/99/502], §§ 8, 9(e)(1), Oct. 20, 1986, [100 Stat. 1794][/us/stat/100/1794], 1797; renumbered § 15, [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5122(a)(1), Aug. 23, 1988, [102 Stat. 1438][/us/stat/102/1438]; amended [Pub. L. 104–113][/us/pl/104/113], § 6, Mar. 7, 1996, [110 Stat. 779][/us/stat/110/779].)
 
  __Amendments__ 
 
@@ -41,12 +41,12 @@
 ----------
 
 [/us/usc/t18/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs202
-[/us/pl/96/480/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs15
+[/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/stat/100/1794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1794
-[/us/pl/100/418/s5122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5122%2Fa%2F1
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1438
-[/us/pl/104/113/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs6
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 [/us/stat/110/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F779
 [/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 

@@ -17,11 +17,11 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 96–481, title III, § 301(a)][/us/pl/96/481/s301/a]–(d), Oct. 21, 1980, [94 Stat. 2330][/us/stat/94/2330], which related to establishment, staffing, functions, evaluation, and reporting requirements of export promotion centers, terminated Oct. 1, 1983.
+    Section, [Pub. L. 96–481, title III][/us/pl/96/481/tIII], § 301(a)–(d), Oct. 21, 1980, [94 Stat. 2330][/us/stat/94/2330], which related to establishment, staffing, functions, evaluation, and reporting requirements of export promotion centers, terminated Oct. 1, 1983.
 
  __Effective and Termination Dates__ 
 
-[Pub. L. 96–481, title III, § 301(e)][/us/pl/96/481/s301/e], Oct. 21, 1980, [94 Stat. 2331][/us/stat/94/2331], provided that: 
+[Pub. L. 96–481, title III][/us/pl/96/481/tIII], § 301(e), Oct. 21, 1980, [94 Stat. 2331][/us/stat/94/2331], provided that: 
 
 > “This section shall take effect on October 1, 1980, or on the date of the enactment of this section \[Oct. 21, 1980\] whichever occurs later and shall expire on October 1, 1983.”
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/96/481/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs301%2Fa
+[/us/pl/96/481/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2FtIII
 [/us/stat/94/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2330
-[/us/pl/96/481/s301/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs301%2Fe
+[/us/pl/96/481/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2FtIII
 [/us/stat/94/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2331
 
 

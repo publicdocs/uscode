@@ -39,7 +39,7 @@
 
         (2) within 18 months after December 3, 2003, a report describing how the Centers described in this section have been established.
 
-([Pub. L. 108–153, § 9][/us/pl/108/153/s9], Dec. 3, 2003, [117 Stat. 1930][/us/stat/117/1930].)
+([Pub. L. 108–153][/us/pl/108/153], § 9, Dec. 3, 2003, [117 Stat. 1930][/us/stat/117/1930].)
 
  __Change of Name__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/108/153/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F153%2Fs9
+[/us/pl/108/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F153
 [/us/stat/117/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1930
 
 

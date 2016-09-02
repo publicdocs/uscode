@@ -17,7 +17,7 @@
 
     The authorities and restrictions applicable under this chapter to the Director and to Teams shall apply to the activities of the National Institute of Standards and Technology in response to the attacks of September 11, 2001.
 
-([Pub. L. 107–231, § 12][/us/pl/107/231/s12], Oct. 1, 2002, [116 Stat. 1476][/us/stat/116/1476].)
+([Pub. L. 107–231][/us/pl/107/231], § 12, Oct. 1, 2002, [116 Stat. 1476][/us/stat/116/1476].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/231/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231%2Fs12
+[/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
 [/us/stat/116/1476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1476
 [/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
 [/us/stat/116/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1471

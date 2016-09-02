@@ -49,7 +49,7 @@
 
         There are authorized to be appropriated to the Secretary to carry out this section $20,000,000. Not more than 15 percent of the funds may be used for the facility described in subsection (a)(1)(B).
 
-([Pub. L. 108–324, div. C, § 113][/us/pl/108/324/s113], Oct. 13, 2004, [118 Stat. 1264][/us/stat/118/1264]; [Pub. L. 113–128, title V, § 512(c)][/us/pl/113/128/s512/c], July 22, 2014, [128 Stat. 1706][/us/stat/128/1706].)
+([Pub. L. 108–324, div. C][/us/pl/108/324/dC], § 113, Oct. 13, 2004, [118 Stat. 1264][/us/stat/118/1264]; [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(c), July 22, 2014, [128 Stat. 1706][/us/stat/128/1706].)
 
  __Amendments__ 
 
@@ -66,9 +66,9 @@
 ----------
 ----------
 
-[/us/pl/108/324/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs113
+[/us/pl/108/324/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2FdC
 [/us/stat/118/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1264
-[/us/pl/113/128/s512/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fc
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1706
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801

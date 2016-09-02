@@ -135,7 +135,7 @@
 
     (f) __Definitions of banks, savings and loan institutions, and Federal credit unions__ 
 
-        (1) Repealed. [Pub. L. 111–203, title X, § 1092(2)][/us/pl/111/203/s1092/2], July 21, 2010, [124 Stat. 2095][/us/stat/124/2095]
+        (1) Repealed. [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1092(2), July 21, 2010, [124 Stat. 2095][/us/stat/124/2095]
 
         (2)  __Definition__  __.—__ 
 
@@ -179,7 +179,7 @@
 
         Not later than 60 days after May 28, 1980, the Commission shall publish a proposed rule, and not later than 180 days after May 28, 1980, the Commission shall promulgate a final rule, which shall prohibit any officer, employee, or agent of the Commission with any investigative responsibility or other responsibility relating to any rulemaking proceeding within any operating bureau of the Commission, from communicating or causing to be communicated to any Commissioner or to the personal staff of any Commissioner any fact which is relevant to the merits of such proceeding and which is not on the rulemaking record of such proceeding, unless such communication is made available to the public and is included in the rulemaking record. The provisions of this subsection shall not apply to any communication to the extent such communication is required for the disposition of ex parte matters as authorized by law.
 
-([Sept. 26, 1914, ch. 311, § 18][/us/act/1914-09-26/ch311/s18], as added [Pub. L. 93–637, title II, § 202(a)][/us/pl/93/637/s202/a], Jan. 4, 1975, [88 Stat. 2193][/us/stat/88/2193]; amended [Pub. L. 96–37, § 1(c)][/us/pl/96/37/s1/c], July 23, 1979, [93 Stat. 95][/us/stat/93/95]; [Pub. L. 96–221, title VI, § 610(b)][/us/pl/96/221/s610/b], Mar. 31, 1980, [94 Stat. 174][/us/stat/94/174]; [Pub. L. 96–252][/us/pl/96/252], §§ 7–11(a), 12, May 28, 1980, [94 Stat. 376–379][/us/stat/94/376-379]; [Pub. L. 100–86, title VII, § 715(c)][/us/pl/100/86/s715/c], Aug. 10, 1987, [101 Stat. 655][/us/stat/101/655]; [Pub. L. 101–73, title VII, § 744(t)][/us/pl/101/73/s744/t], Aug. 9, 1989, [103 Stat. 441][/us/stat/103/441]; [Pub. L. 102–242, title II, § 212(g)(2)][/us/pl/102/242/s212/g/2], Dec. 19, 1991, [105 Stat. 2302][/us/stat/105/2302]; [Pub. L. 102–550, title XVI, § 1604(a)(9)][/us/pl/102/550/s1604/a/9], Oct. 28, 1992, [106 Stat. 4082][/us/stat/106/4082]; [Pub. L. 103–312][/us/pl/103/312], §§ 3, 5, Aug. 26, 1994, [108 Stat. 1691][/us/stat/108/1691], 1692; [Pub. L. 103–437, § 5(a)][/us/pl/103/437/s5/a], Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582]; [Pub. L. 109–351, title VII, § 725(g)][/us/pl/109/351/s725/g], Oct. 13, 2006, [120 Stat. 2002][/us/stat/120/2002]; [Pub. L. 109–356, title I, § 123(g)][/us/pl/109/356/s123/g], Oct. 16, 2006, [120 Stat. 2029][/us/stat/120/2029]; [Pub. L. 111–203, title X, § 1092][/us/pl/111/203/s1092], July 21, 2010, [124 Stat. 2094][/us/stat/124/2094].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 18, as added [Pub. L. 93–637, title II][/us/pl/93/637/tII], § 202(a), Jan. 4, 1975, [88 Stat. 2193][/us/stat/88/2193]; amended [Pub. L. 96–37][/us/pl/96/37], § 1(c), July 23, 1979, [93 Stat. 95][/us/stat/93/95]; [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 610(b), Mar. 31, 1980, [94 Stat. 174][/us/stat/94/174]; [Pub. L. 96–252][/us/pl/96/252], §§ 7–11(a), 12, May 28, 1980, [94 Stat. 376–379][/us/stat/94/376-379]; [Pub. L. 100–86, title VII][/us/pl/100/86/tVII], § 715(c), Aug. 10, 1987, [101 Stat. 655][/us/stat/101/655]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 744(t), Aug. 9, 1989, [103 Stat. 441][/us/stat/103/441]; [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 212(g)(2), Dec. 19, 1991, [105 Stat. 2302][/us/stat/105/2302]; [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1604(a)(9), Oct. 28, 1992, [106 Stat. 4082][/us/stat/106/4082]; [Pub. L. 103–312][/us/pl/103/312], §§ 3, 5, Aug. 26, 1994, [108 Stat. 1691][/us/stat/108/1691], 1692; [Pub. L. 103–437][/us/pl/103/437], § 5(a), Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582]; [Pub. L. 109–351, title VII][/us/pl/109/351/tVII], § 725(g), Oct. 13, 2006, [120 Stat. 2002][/us/stat/120/2002]; [Pub. L. 109–356, title I][/us/pl/109/356/tI], § 123(g), Oct. 16, 2006, [120 Stat. 2029][/us/stat/120/2029]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1092, July 21, 2010, [124 Stat. 2094][/us/stat/124/2094].)
 
  __References in Text__ 
 
@@ -191,39 +191,39 @@
 
  __Amendments__ 
 
-    2010—Subsec. (f). [Pub. L. 111–203, § 1092(1)][/us/pl/111/203/s1092/1], inserted subsec. heading.
+    2010—Subsec. (f). [Pub. L. 111–203][/us/pl/111/203], § 1092(1), inserted subsec. heading.
 
-    Subsec. (f)(1). [Pub. L. 111–203, § 1092(2)][/us/pl/111/203/s1092/2], struck out par. (1) which related to prevention of unfair or deceptive acts or practices in or affecting commerce.
+    Subsec. (f)(1). [Pub. L. 111–203][/us/pl/111/203], § 1092(2), struck out par. (1) which related to prevention of unfair or deceptive acts or practices in or affecting commerce.
 
-    Subsec. (f)(2). [Pub. L. 111–203, § 1092(4)(A)][/us/pl/111/203/s1092/4/A], substituted “Definition” for “Enforcement” in heading and “For purposes of this subchapter, the term ‘bank’ means” for “Compliance with regulations prescribed under this subsection shall be enforced under [section 1818 of title 12][/us/usc/t12/s1818], in the case of” in introductory provisions.
+    Subsec. (f)(2). [Pub. L. 111–203][/us/pl/111/203], § 1092(4)(A), substituted “Definition” for “Enforcement” in heading and “For purposes of this subchapter, the term ‘bank’ means” for “Compliance with regulations prescribed under this subsection shall be enforced under [section 1818 of title 12][/us/usc/t12/s1818], in the case of” in introductory provisions.
 
-    Subsec. (f)(2)(A). [Pub. L. 111–203, § 1092(4)(B)][/us/pl/111/203/s1092/4/B], struck out “, by the division of consumer affairs established by the Office of the Comptroller of the Currency” before semicolon at end.
+    Subsec. (f)(2)(A). [Pub. L. 111–203][/us/pl/111/203], § 1092(4)(B), struck out “, by the division of consumer affairs established by the Office of the Comptroller of the Currency” before semicolon at end.
 
-    Subsec. (f)(2)(B). [Pub. L. 111–203, § 1092(4)(C)][/us/pl/111/203/s1092/4/C], substituted “25A” for “25(a)” and struck out “, by the division of consumer affairs established by the Board of Governors of the Federal Reserve System” before “; and”.
+    Subsec. (f)(2)(B). [Pub. L. 111–203][/us/pl/111/203], § 1092(4)(C), substituted “25A” for “25(a)” and struck out “, by the division of consumer affairs established by the Board of Governors of the Federal Reserve System” before “; and”.
 
-    Subsec. (f)(2)(C). [Pub. L. 111–203, § 1092(4)(D)][/us/pl/111/203/s1092/4/D], inserted “than” after “other” and struck out “, by the division of consumer affairs established by the Board of Directors of the Federal Deposit Insurance Corporation” before period at end.
+    Subsec. (f)(2)(C). [Pub. L. 111–203][/us/pl/111/203], § 1092(4)(D), inserted “than” after “other” and struck out “, by the division of consumer affairs established by the Board of Directors of the Federal Deposit Insurance Corporation” before period at end.
 
-    Subsec. (f)(3). [Pub. L. 111–203, § 1092(5)][/us/pl/111/203/s1092/5], substituted “For purposes of this subchapter, the term ‘savings and loan institution’ has the same meaning as in” for “Compliance with regulations prescribed under this subsection shall be enforced under [section 1818 of title 12][/us/usc/t12/s1818] with respect to savings associations as defined in”.
+    Subsec. (f)(3). [Pub. L. 111–203][/us/pl/111/203], § 1092(5), substituted “For purposes of this subchapter, the term ‘savings and loan institution’ has the same meaning as in” for “Compliance with regulations prescribed under this subsection shall be enforced under [section 1818 of title 12][/us/usc/t12/s1818] with respect to savings associations as defined in”.
 
-    Subsec. (f)(4). [Pub. L. 111–203, § 1092(6)][/us/pl/111/203/s1092/6], substituted “For purposes of this subchapter, the term ‘Federal credit union’ has the same meaning as in” for “Compliance with regulations prescribed under this subsection shall be enforced with respect to Federal credit unions under”.
+    Subsec. (f)(4). [Pub. L. 111–203][/us/pl/111/203], § 1092(6), substituted “For purposes of this subchapter, the term ‘Federal credit union’ has the same meaning as in” for “Compliance with regulations prescribed under this subsection shall be enforced with respect to Federal credit unions under”.
 
-    Subsec. (f)(5) to (7). [Pub. L. 111–203, § 1092(3)][/us/pl/111/203/s1092/3], struck out pars. (5) to (7) which related to violation of regulations, authority to make rules relating to compliance, and annual report to Congress by each agency exercising authority.
+    Subsec. (f)(5) to (7). [Pub. L. 111–203][/us/pl/111/203], § 1092(3), struck out pars. (5) to (7) which related to violation of regulations, authority to make rules relating to compliance, and annual report to Congress by each agency exercising authority.
 
     2006—Subsec. (f)(2)(A), (B). [Pub. L. 109–351][/us/pl/109/351] and [Pub. L. 109–356][/us/pl/109/356] amended par. (2) identically, striking out “, banks operating under the code of law for the District of Columbia,” after “national banks” in subpar. (A) and “and banks operating under the code of law for the District of Columbia” after “(other than national banks” in subpar. (B).
 
-    1994—Subsec. (a)(1). [Pub. L. 103–312, § 3(b)][/us/pl/103/312/s3/b], substituted “subsection (h)” for “subsection (i)” in introductory provisions.
+    1994—Subsec. (a)(1). [Pub. L. 103–312][/us/pl/103/312], § 3(b), substituted “subsection (h)” for “subsection (i)” in introductory provisions.
 
     Subsec. (b)(2)(B), (C). [Pub. L. 103–437][/us/pl/103/437] substituted “Committee on Energy and Commerce” for “Committee on Interstate and Foreign Commerce”.
 
-    Subsec. (b)(3). [Pub. L. 103–312, § 5][/us/pl/103/312/s5], added par. (3).
+    Subsec. (b)(3). [Pub. L. 103–312][/us/pl/103/312], § 5, added par. (3).
 
-    Subsecs. (h) to (k). [Pub. L. 103–312, § 3(a)][/us/pl/103/312/s3/a], redesignated subsecs. (i) to (k) as (h) to (j), respectively, and struck out former subsec. (h) which provided for compensation for attorney fees, expert witness fees, etc., incurred in rulemaking proceedings, limitation on amount, and establishment of small business outreach program.
+    Subsecs. (h) to (k). [Pub. L. 103–312][/us/pl/103/312], § 3(a), redesignated subsecs. (i) to (k) as (h) to (j), respectively, and struck out former subsec. (h) which provided for compensation for attorney fees, expert witness fees, etc., incurred in rulemaking proceedings, limitation on amount, and establishment of small business outreach program.
 
     1992—Subsec. (f)(2)(A). [Pub. L. 102–550][/us/pl/102/550] substituted “division” for “divisions”.
 
-    1991—Subsec. (f). [Pub. L. 102–242, § 212(g)(2)(B)][/us/pl/102/242/s212/g/2/B], inserted at end “The terms used in this paragraph that are not defined in this subchapter or otherwise defined in [section 1813(s) of title 12][/us/usc/t12/s1813/s] shall have the meaning given to them in [section 3101 of title 12][/us/usc/t12/s3101].”
+    1991—Subsec. (f). [Pub. L. 102–242][/us/pl/102/242], § 212(g)(2)(B), inserted at end “The terms used in this paragraph that are not defined in this subchapter or otherwise defined in [section 1813(s) of title 12][/us/usc/t12/s1813/s] shall have the meaning given to them in [section 3101 of title 12][/us/usc/t12/s3101].”
 
-    Subsec. (f)(2). [Pub. L. 102–242, § 212(g)(2)(A)][/us/pl/102/242/s212/g/2/A], added par. (2) and struck out former par. (2) which read as follows: “Compliance with regulations prescribed under this subsection shall be enforced under [section 1818 of title 12][/us/usc/t12/s1818], in the case of—
+    Subsec. (f)(2). [Pub. L. 102–242][/us/pl/102/242], § 212(g)(2)(A), added par. (2) and struck out former par. (2) which read as follows: “Compliance with regulations prescribed under this subsection shall be enforced under [section 1818 of title 12][/us/usc/t12/s1818], in the case of—
 
     “(A) national banks and banks operating under the code of law for the District of Columbia, by the division of consumer affairs established by the Comptroller of the Currency;
 
@@ -233,43 +233,43 @@
 
     1989—Subsec. (f)(3). [Pub. L. 101–73][/us/pl/101/73] amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Compliance with regulations prescribed under this subsection shall be enforced under section 5 of the Home Owners’ Loan Act of 1933 ([12 U.S.C. 1464][/us/usc/t12/s1464]) with respect to Federal savings and loan associations, section 407 of the National Housing Act ([12 U.S.C. 1730][/us/usc/t12/s1730]) with respect to insured institutions, and sections 6(i) and 17 of the Federal Home Loan Bank Act ([12 U.S.C. 1426(i)][/us/usc/t12/s1426/i], 1437) with respect to savings and loan institutions which are members of a Federal Home Loan Bank, by a division of consumer affairs to be established by the Federal Home Loan Bank Board pursuant to the Federal Home Loan Bank Act.”
 
-    1987—Subsec. (f)(1). [Pub. L. 100–86, § 715(c)(1)][/us/pl/100/86/s715/c/1], (2), in second sentence inserted “and the National Credit Union Administration Board (with respect to Federal credit unions described in paragraph (4))” and in last sentence inserted “or Federal credit unions described in paragraph (4),” in two places, substituted “any such” for “either such”, and inserted “, savings and loan institutions or Federal credit unions”.
+    1987—Subsec. (f)(1). [Pub. L. 100–86][/us/pl/100/86], § 715(c)(1), (2), in second sentence inserted “and the National Credit Union Administration Board (with respect to Federal credit unions described in paragraph (4))” and in last sentence inserted “or Federal credit unions described in paragraph (4),” in two places, substituted “any such” for “either such”, and inserted “, savings and loan institutions or Federal credit unions”.
 
-    Subsec. (f)(4) to (7). [Pub. L. 100–86, § 715(c)(3)][/us/pl/100/86/s715/c/3], added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
+    Subsec. (f)(4) to (7). [Pub. L. 100–86][/us/pl/100/86], § 715(c)(3), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 
     1980—Subsec. (a)(1). [Pub. L. 96–252][/us/pl/96/252], §§ 7, 11(a)(2), in provisions preceding subpar. (A) substituted “Except as provided in subsection (i), the” for “The” and in subpar. (B) inserted “, except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section” after “[section 45(a)(1) of this title][/us/usc/t15/s45/a/1])”.
 
     Subsec. (b). [Pub. L. 96–252][/us/pl/96/252], §§ 8(a), 11(a)(3), designated existing provisions as par. (1) and cls. (1) to (4) thereof as subpars. (A) to (D) and, subpar. (A) thereof, inserted “the text of the rule, including any alternatives, which the Commission proposes to promulgate, and” after “particularity”, and added par. (2).
 
-    Subsec. (c). [Pub. L. 96–252, § 8(b)(1)][/us/pl/96/252/s8/b/1], in provisions preceding par. (1) substituted “subsection (b)(1)(C)” for “subsection (b)(3)”.
+    Subsec. (c). [Pub. L. 96–252][/us/pl/96/252], § 8(b)(1), in provisions preceding par. (1) substituted “subsection (b)(1)(C)” for “subsection (b)(3)”.
 
-    Subsec. (c)(1). [Pub. L. 96–252, § 9(a)(2)][/us/pl/96/252/s9/a/2], added par. (1). Former par. (1) redesignated (2).
+    Subsec. (c)(1). [Pub. L. 96–252][/us/pl/96/252], § 9(a)(2), added par. (1). Former par. (1) redesignated (2).
 
-    Subsec. (c)(2). [Pub. L. 96–252, § 9(a)(1)][/us/pl/96/252/s9/a/1], (b)(1), redesignated former par. (1) as (2), substituted “paragraph (3)” for “paragraph (2)” and “paragraph (3)(B)” for “paragraph (2)(B)”. Former par. (2) redesignated (3).
+    Subsec. (c)(2). [Pub. L. 96–252][/us/pl/96/252], § 9(a)(1), (b)(1), redesignated former par. (1) as (2), substituted “paragraph (3)” for “paragraph (2)” and “paragraph (3)(B)” for “paragraph (2)(B)”. Former par. (2) redesignated (3).
 
-    Subsec. (c)(3). [Pub. L. 96–252, § 9(a)(1)][/us/pl/96/252/s9/a/1], (b)(2), redesignated former par. (2) as (3) and substituted “paragraph (2)” for “paragraph (1)”. Former par. (3) redesignated (4).
+    Subsec. (c)(3). [Pub. L. 96–252][/us/pl/96/252], § 9(a)(1), (b)(2), redesignated former par. (2) as (3) and substituted “paragraph (2)” for “paragraph (1)”. Former par. (3) redesignated (4).
 
-    Subsec. (c)(4), (5). [Pub. L. 96–252, § 9(a)(1)][/us/pl/96/252/s9/a/1], (b)(3), redesignated former par. (3) as (4) and substituted in subpar. (A) “paragraph (2) and (3)” for “paragraphs (1) and (2)”. Former par. (4) redesignated (5).
+    Subsec. (c)(4), (5). [Pub. L. 96–252][/us/pl/96/252], § 9(a)(1), (b)(3), redesignated former par. (3) as (4) and substituted in subpar. (A) “paragraph (2) and (3)” for “paragraphs (1) and (2)”. Former par. (4) redesignated (5).
 
     Subsec. (e). [Pub. L. 96–252][/us/pl/96/252], §§ 8(b)(2), 9(c), substituted in par. (1)(B) “subsection (c)(5)” for “subsection (c)(4)” and in par. (5)(C) “subsection (b)(1)(D)” for “subsection (b)(4)”.
 
     Subsec. (f)(6). [Pub. L. 96–221][/us/pl/96/221] struck out requirement that the report be made not later than every March 15.
 
-    Subsec. (h)(2). [Pub. L. 96–252, § 10(b)][/us/pl/96/252/s10/b], substituted provisions reserving an amount equal to 25 percent of the amount appropriated for the payment of compensation under this subsection to be available solely for the payment of compensation to persons who either would be regulated by a proposed rule or represent persons who would be so regulated for provisions restricting the aggregate amount of compensation paid under this subsection in any fiscal year to all persons, who in rulemaking proceedings in which they receive compensation, are persons who would be regulated by the proposed rule or represent persons who would be so regulated, to an amount not in excess of 25 percent of the aggregate amount paid as compensation under this subsection.
+    Subsec. (h)(2). [Pub. L. 96–252][/us/pl/96/252], § 10(b), substituted provisions reserving an amount equal to 25 percent of the amount appropriated for the payment of compensation under this subsection to be available solely for the payment of compensation to persons who either would be regulated by a proposed rule or represent persons who would be so regulated for provisions restricting the aggregate amount of compensation paid under this subsection in any fiscal year to all persons, who in rulemaking proceedings in which they receive compensation, are persons who would be regulated by the proposed rule or represent persons who would be so regulated, to an amount not in excess of 25 percent of the aggregate amount paid as compensation under this subsection.
 
-    Subsec. (h)(3). [Pub. L. 96–252, § 10(a)][/us/pl/96/252/s10/a], (e), temporarily added par. (3) and redesignated former par. (3) as (4). See Effective and Termination Dates of 1980 Amendments note below.
+    Subsec. (h)(3). [Pub. L. 96–252][/us/pl/96/252], § 10(a), (e), temporarily added par. (3) and redesignated former par. (3) as (4). See Effective and Termination Dates of 1980 Amendments note below.
 
-    Subsec. (h)(4). [Pub. L. 96–252, § 10(a)][/us/pl/96/252/s10/a], (c), (e), temporarily redesignated former par. (3) as (4) and substituted “$750,000” for “$1,000,000”. See Effective and Termination Dates of 1980 Amendments note below.
+    Subsec. (h)(4). [Pub. L. 96–252][/us/pl/96/252], § 10(a), (c), (e), temporarily redesignated former par. (3) as (4) and substituted “$750,000” for “$1,000,000”. See Effective and Termination Dates of 1980 Amendments note below.
 
-    Subsec. (h)(5). [Pub. L. 96–252, § 10(d)][/us/pl/96/252/s10/d], (e), added par. (5) to be redesignated (4) effective Sept. 30, 1983. See Effective and Termination Dates of 1980 Amendments note below.
+    Subsec. (h)(5). [Pub. L. 96–252][/us/pl/96/252], § 10(d), (e), added par. (5) to be redesignated (4) effective Sept. 30, 1983. See Effective and Termination Dates of 1980 Amendments note below.
 
-    Subsec. (i). [Pub. L. 96–252, § 11(a)(1)][/us/pl/96/252/s11/a/1], added subsec. (i).
+    Subsec. (i). [Pub. L. 96–252][/us/pl/96/252], § 11(a)(1), added subsec. (i).
 
-    Subsecs. (j), (k). [Pub. L. 96–252, § 12][/us/pl/96/252/s12], added subsecs. (j) and (k).
+    Subsecs. (j), (k). [Pub. L. 96–252][/us/pl/96/252], § 12, added subsecs. (j) and (k).
 
-    1979—Subsec. (f)(1). [Pub. L. 96–37, § 1(c)(1)][/us/pl/96/37/s1/c/1], inserted provisions relating to savings and loan institutions and to regulations with respect to savings and loan institutions promulgated by Federal Home Loan Bank Board.
+    1979—Subsec. (f)(1). [Pub. L. 96–37][/us/pl/96/37], § 1(c)(1), inserted provisions relating to savings and loan institutions and to regulations with respect to savings and loan institutions promulgated by Federal Home Loan Bank Board.
 
-    Subsec. (f)(3) to (6). [Pub. L. 96–37, § 1(c)(2)][/us/pl/96/37/s1/c/2], added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively.
+    Subsec. (f)(3) to (6). [Pub. L. 96–37][/us/pl/96/37], § 1(c)(2), added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively.
 
  __Change of Name__ 
 
@@ -289,15 +289,15 @@
 
  __Effective and Termination Dates of 1980 Amendments__ 
 
-[Pub. L. 96–252, § 10(e)][/us/pl/96/252/s10/e], May 28, 1980, [94 Stat. 378][/us/stat/94/378], provided that: 
+[Pub. L. 96–252][/us/pl/96/252], § 10(e), May 28, 1980, [94 Stat. 378][/us/stat/94/378], provided that: 
 
 > “The amendments made in subsection (a) and subsection (c) \[amending this section\] are repealed, effective at the end of fiscal year 1982. Effective upon such repeal, paragraph (5) of section 18(h) of the Federal Trade Commission Act \[subsec. (h)(5) of this section\], as added by subsection (d), is redesignated as paragraph (4) of section 18(h) of such Act.”
 
-[Pub. L. 97–377, title I, § 101(d)][/us/pl/97/377/s101/d], Dec. 21, 1982, [96 Stat. 1866][/us/stat/96/1866], 1870, provided in part that: 
+[Pub. L. 97–377, title I][/us/pl/97/377/tI], § 101(d), Dec. 21, 1982, [96 Stat. 1866][/us/stat/96/1866], 1870, provided in part that: 
 
 > “Notwithstanding any other provision of law, the provisions of sections 10 \[amending this section and enacting provision set out as first paragraph of this note\], 11(b) \[set out as a note below\], 18 \[set out as a note under [section 57c of this title][/us/usc/t15/s57c]\], 20 \[set out as a note under [section 57c of this title][/us/usc/t15/s57c]\] and 21 \[enacting [section 57a–1 of this title][/us/usc/t15/s57a–1] and enacting a provision set out as a note under [section 57a–1 of this title][/us/usc/t15/s57a–1]\], of the Federal Trade Commission Improvements Act of 1980 ([Public Law 96–252][/us/pl/96/252]; [94 Stat. 374][/us/stat/94/374]) are hereby extended until the termination date set forth in section 102(c) of H.J. Res. 631 \[Sept. 30, 1983\] as enacted into law \[[Pub. L. 97–377][/us/pl/97/377]\], notwithstanding subsections 10(e) \[see paragraph above\] and 21(i) \[set out as a note under [section 57a–1 of this title][/us/usc/t15/s57a–1]\] of the Federal Trade Commission Improvements Act of 1980 ([Public Law 96–252][/us/pl/96/252]; [94 Stat. 374][/us/stat/94/374]).”
 
-[Pub. L. 96–252, § 11(c)][/us/pl/96/252/s11/c], May 28, 1980, [94 Stat. 379][/us/stat/94/379], provided that: 
+[Pub. L. 96–252][/us/pl/96/252], § 11(c), May 28, 1980, [94 Stat. 379][/us/stat/94/379], provided that: 
 
 > “The amendments made in subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[May 28, 1980\]. The children’s advertising proceeding pending on the date of the enactment of this Act shall not proceed further until such time as the Commission has complied with section 18(b)(1)(A) of the Federal Trade Commission Act \[subsec. (b)(1)(A) of this section\], as amended by subsection (a)(3) and as so redesignated in section 8(a). In any such further proceeding, interested parties shall be given a reasonable opportunity to present their views in accordance with section 18(b)(1)(B) of the Federal Trade Commission Act, as so redesignated in section 8(a) \[subsec. (b)(1)(B) of this section\], section 18(b)(1)(C) of such Act, as so redesignated in section 8(a) \[subsec. (b)(1)(C) of this section\], and section 18(c) of such Act ([15 U.S.C. 57a(c)][/us/usc/t15/s57a/c]).”
 
@@ -307,7 +307,7 @@
 
  __Restriction on Use of Funds for Purpose of Initiating New Rulemaking Proceeding__ 
 
-    [Section 11(b) of Pub. L. 96–252][/us/pl/96/252/s11/b] prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982 (or 1983 as extended by [Pub. L. 97–377, title I][/us/pl/97/377] § 101(d), Dec. 21, 1982, [96 Stat. 1870][/us/stat/96/1870]), under [section 57c of this title][/us/usc/t15/s57c], for the purpose of initiating any new rulemaking proceeding under this section which was intended to result in, or which might result in, the promulgation of any rule by the Commission which prohibited or otherwise regulated any commercial advertising on the basis of a determination by the Commission that such commercial advertising constituted an unfair act or practice in or affecting commerce.
+    [Section 11(b) of Pub. L. 96–252][/us/pl/96/252/s11/b] prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982 (or 1983 as extended by [Pub. L. 97–377, title I][/us/pl/97/377/tI] § 101(d), Dec. 21, 1982, [96 Stat. 1870][/us/stat/96/1870]), under [section 57c of this title][/us/usc/t15/s57c], for the purpose of initiating any new rulemaking proceeding under this section which was intended to result in, or which might result in, the promulgation of any rule by the Commission which prohibited or otherwise regulated any commercial advertising on the basis of a determination by the Commission that such commercial advertising constituted an unfair act or practice in or affecting commerce.
 
  __Restriction on Use of Funds Respecting Regulation of Funeral Industry; Exception__ 
 
@@ -319,7 +319,7 @@
 
  __Applicability of Unfair or Deceptive Acts or Practices Rulemaking Procedures to Rules Classifying Corporations Promulgated Prior to__  __January 4, 1975__ 
 
-[Pub. L. 93–637, title II, § 202(c)][/us/pl/93/637/s202/c], Jan. 4, 1975, [88 Stat. 2198][/us/stat/88/2198], provided that:
+[Pub. L. 93–637, title II][/us/pl/93/637/tII], § 202(c), Jan. 4, 1975, [88 Stat. 2198][/us/stat/88/2198], provided that:
 
 >     “(1) The amendments made by subsections (a) and (b) of this section \[enacting this section and amending [section 46 of this title][/us/usc/t15/s46]\] shall not affect the validity of any rule which was promulgated under section 6(g) of the Federal Trade Commission Act \[[section 46(g) of this title][/us/usc/t15/s46/g]\] prior to the date of enactment of this section \[Jan. 4, 1975\]. Any proposed rule under section 6(g) of such Act with respect to which presentation of data, views, and arguments was substantially completed before such date may be promulgated in the same manner and with the same validity as such rule could have been promulgated had this section not been enacted.
 
@@ -327,7 +327,7 @@
 
  __Study, Evaluation, and Report by Federal Trade Commission and Administrative Conference of United States on Unfair or Deceptive Acts or Practices; Rulemaking Procedures__ 
 
-    [Section 202(d) of Pub. L. 93–637][/us/pl/93/637/s202/d], as amended by [Pub. L. 94–299, § 2][/us/pl/94/299/s2], May 29, 1976, [90 Stat. 588][/us/stat/90/588]; [Pub. L. 95–558][/us/pl/95/558], Nov. 1, 1978, [92 Stat. 2130][/us/stat/92/2130], required the Federal Trade Commission and the Administrative Conference of the United States, not later than June 30, 1979, to conduct a study and submit a report to Congress on the rulemaking procedures under [section 57a of this title][/us/usc/t15/s57a].
+    [Section 202(d) of Pub. L. 93–637][/us/pl/93/637/s202/d], as amended by [Pub. L. 94–299][/us/pl/94/299], § 2, May 29, 1976, [90 Stat. 588][/us/stat/90/588]; [Pub. L. 95–558][/us/pl/95/558], Nov. 1, 1978, [92 Stat. 2130][/us/stat/92/2130], required the Federal Trade Commission and the Administrative Conference of the United States, not later than June 30, 1979, to conduct a study and submit a report to Congress on the rulemaking procedures under [section 57a of this title][/us/usc/t15/s57a].
 
 ----------
 
@@ -345,89 +345,89 @@
 [/us/usc/t5/s706/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706%2F2
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/usc/t5/s706/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706%2F2%2FE
-[/us/pl/111/203/s1092/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1092%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2095
 [/us/usc/t12/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs601
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1813/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fs
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/act/1914-09-26/ch311/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs18
-[/us/pl/93/637/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs202%2Fa
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
+[/us/pl/93/637/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2FtII
 [/us/stat/88/2193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2193
-[/us/pl/96/37/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F37%2Fs1%2Fc
+[/us/pl/96/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F37
 [/us/stat/93/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F95
-[/us/pl/96/221/s610/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs610%2Fb
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F174
 [/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
 [/us/stat/94/376-379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F376-379
-[/us/pl/100/86/s715/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs715%2Fc
+[/us/pl/100/86/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtVII
 [/us/stat/101/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F655
-[/us/pl/101/73/s744/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs744%2Ft
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F441
-[/us/pl/102/242/s212/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs212%2Fg%2F2
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2302
-[/us/pl/102/550/s1604/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fa%2F9
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4082
 [/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
 [/us/stat/108/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1691
-[/us/pl/103/437/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs5%2Fa
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4582
-[/us/pl/109/351/s725/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs725%2Fg
+[/us/pl/109/351/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVII
 [/us/stat/120/2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2002
-[/us/pl/109/356/s123/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F356%2Fs123%2Fg
+[/us/pl/109/356/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F356%2FtI
 [/us/stat/120/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2029
-[/us/pl/111/203/s1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1092
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2094]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2094
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
-[/us/pl/111/203/s1092/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1092%2F1
-[/us/pl/111/203/s1092/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1092%2F2
-[/us/pl/111/203/s1092/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1092%2F4%2FA
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
-[/us/pl/111/203/s1092/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1092%2F4%2FB
-[/us/pl/111/203/s1092/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1092%2F4%2FC
-[/us/pl/111/203/s1092/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1092%2F4%2FD
-[/us/pl/111/203/s1092/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1092%2F5
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
-[/us/pl/111/203/s1092/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1092%2F6
-[/us/pl/111/203/s1092/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1092%2F3
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/pl/109/356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F356
-[/us/pl/103/312/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs3%2Fb
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/103/312/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs5
-[/us/pl/103/312/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs3%2Fa
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
-[/us/pl/102/242/s212/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs212%2Fg%2F2%2FB
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/usc/t12/s1813/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fs
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
-[/us/pl/102/242/s212/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs212%2Fg%2F2%2FA
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/usc/t12/s1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/usc/t12/s1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1464
 [/us/usc/t12/s1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1730
 [/us/usc/t12/s1426/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1426%2Fi
-[/us/pl/100/86/s715/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs715%2Fc%2F1
-[/us/pl/100/86/s715/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs715%2Fc%2F3
+[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
+[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
 [/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
 [/us/usc/t15/s45/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45%2Fa%2F1
 [/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
-[/us/pl/96/252/s8/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs8%2Fb%2F1
-[/us/pl/96/252/s9/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs9%2Fa%2F2
-[/us/pl/96/252/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs9%2Fa%2F1
-[/us/pl/96/252/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs9%2Fa%2F1
-[/us/pl/96/252/s9/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs9%2Fa%2F1
+[/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
+[/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
+[/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
+[/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
+[/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
 [/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
-[/us/pl/96/252/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs10%2Fb
-[/us/pl/96/252/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs10%2Fa
-[/us/pl/96/252/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs10%2Fa
-[/us/pl/96/252/s10/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs10%2Fd
-[/us/pl/96/252/s11/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs11%2Fa%2F1
-[/us/pl/96/252/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs12
-[/us/pl/96/37/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F37%2Fs1%2Fc%2F1
-[/us/pl/96/37/s1/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F37%2Fs1%2Fc%2F2
+[/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
+[/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
+[/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
+[/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
+[/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
+[/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
+[/us/pl/96/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F37
+[/us/pl/96/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F37
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
@@ -440,9 +440,9 @@
 [/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/102/550/s1609/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1609%2Fa
 [/us/usc/t15/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs191
-[/us/pl/96/252/s10/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs10%2Fe
+[/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
 [/us/stat/94/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F378
-[/us/pl/97/377/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs101%2Fd
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1866
 [/us/usc/t15/s57c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57c
 [/us/usc/t15/s57c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57c
@@ -454,7 +454,7 @@
 [/us/usc/t15/s57a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a%E2%80%931
 [/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
 [/us/stat/94/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F374
-[/us/pl/96/252/s11/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs11%2Fc
+[/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
 [/us/stat/94/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F379
 [/us/usc/t15/s57a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a%2Fc
 [/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
@@ -464,18 +464,18 @@
 [/us/pl/96/221/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs625
 [/us/usc/t15/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602
 [/us/pl/96/252/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs11%2Fb
-[/us/pl/97/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377
+[/us/pl/97/377/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2FtI
 [/us/stat/96/1870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1870
 [/us/usc/t15/s57c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57c
 [/us/pl/96/252/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs19
 [/us/usc/t15/s57c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57c
 [/us/pl/96/252/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs22
-[/us/pl/93/637/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs202%2Fc
+[/us/pl/93/637/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2FtII
 [/us/stat/88/2198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2198
 [/us/usc/t15/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs46
 [/us/usc/t15/s46/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs46%2Fg
 [/us/pl/93/637/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs202%2Fd
-[/us/pl/94/299/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F299%2Fs2
+[/us/pl/94/299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F299
 [/us/stat/90/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F588
 [/us/pl/95/558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F558
 [/us/stat/92/2130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2130

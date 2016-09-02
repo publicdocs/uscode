@@ -41,11 +41,11 @@
 
         (9) That equitable principles, including laches, estoppel, and acquiescence, are applicable.
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title VI, § 33, [60 Stat. 438][/us/stat/60/438]; [Pub. L. 87–772, § 18][/us/pl/87/772/s18], Oct. 9, 1962, [76 Stat. 774][/us/stat/76/774]; [Pub. L. 100–667, title I, § 128(a)][/us/pl/100/667/s128/a], (b), Nov. 16, 1988, [102 Stat. 3944][/us/stat/102/3944]; [Pub. L. 105–330, title II, § 201(a)(9)][/us/pl/105/330/s201/a/9], Oct. 30, 1998, [112 Stat. 3070][/us/stat/112/3070]; [Pub. L. 107–273, div. C, title III, § 13207(b)(7)][/us/pl/107/273/s13207/b/7], Nov. 2, 2002, [116 Stat. 1908][/us/stat/116/1908].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title VI, § 33, [60 Stat. 438][/us/stat/60/438]; [Pub. L. 87–772][/us/pl/87/772], § 18, Oct. 9, 1962, [76 Stat. 774][/us/stat/76/774]; [Pub. L. 100–667, title I][/us/pl/100/667/tI], § 128(a), (b), Nov. 16, 1988, [102 Stat. 3944][/us/stat/102/3944]; [Pub. L. 105–330, title II][/us/pl/105/330/tII], § 201(a)(9), Oct. 30, 1998, [112 Stat. 3070][/us/stat/112/3070]; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13207(b)(7), Nov. 2, 2002, [116 Stat. 1908][/us/stat/116/1908].)
 
  __References in Text__ 
 
-    Acts March 3, 1881, and February 20, 1905, referred to in subsec. (a), are acts [Mar. 3, 1881, ch. 138][/us/act/1881-03-03/ch138], [21 Stat. 502][/us/stat/21/502] and [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], [33 Stat. 724][/us/stat/33/724], which were repealed insofar as inconsistent with this chapter by [act July 5, 1946, ch. 540, § 46(a)][/us/act/1946-07-05/ch540/s46/a], [60 Stat. 444][/us/stat/60/444]. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
+    Acts March 3, 1881, and February 20, 1905, referred to in subsec. (a), are acts [Mar. 3, 1881, ch. 138][/us/act/1881-03-03/ch138], [21 Stat. 502][/us/stat/21/502] and [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], [33 Stat. 724][/us/stat/33/724], which were repealed insofar as inconsistent with this chapter by [act July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], § 46(a), [60 Stat. 444][/us/stat/60/444]. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
     The effective date of the Trademark Law Revision Act of 1988, referred to in subsec. (b)(5), is one year after Nov. 16, 1988. See [section 136 of Pub. L. 100–667][/us/pl/100/667/s136], set out as an Effective Date of 1988 Amendment note under [section 1051 of this title][/us/usc/t15/s1051].
 
@@ -59,17 +59,17 @@
 
     1998—Subsec. (b)(8), (9). [Pub. L. 105–330][/us/pl/105/330] added par. (8) and redesignated former par. (8) as (9).
 
-    1988—Subsec. (a). [Pub. L. 100–667, § 128(a)][/us/pl/100/667/s128/a], inserted “the validity of the registered mark and of the registration of the mark, of the registrant’s ownership of the mark, and of the” after “facie evidence of”, inserted “or in connection with” after “in commerce on”, substituted “another person” for “an opposing party”, and inserted “, including those set forth in subsection (b),” after “or defect”.
+    1988—Subsec. (a). [Pub. L. 100–667][/us/pl/100/667], § 128(a), inserted “the validity of the registered mark and of the registration of the mark, of the registrant’s ownership of the mark, and of the” after “facie evidence of”, inserted “or in connection with” after “in commerce on”, substituted “another person” for “an opposing party”, and inserted “, including those set forth in subsection (b),” after “or defect”.
 
-    Subsec. (b). [Pub. L. 100–667, § 128(b)(1)][/us/pl/100/667/s128/b/1], amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “If the right to use the registered mark has become incontestable under [section 1065 of this title][/us/usc/t15/s1065], the registration shall be conclusive evidence of the registrant’s exclusive right to use the registered mark in commerce on or in connection with the goods or services specified in the affidavit filed under the provisions of said section 1065 subject to any conditions or limitations stated therein except when one of the following defenses or defects is established:”.
+    Subsec. (b). [Pub. L. 100–667][/us/pl/100/667], § 128(b)(1), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “If the right to use the registered mark has become incontestable under [section 1065 of this title][/us/usc/t15/s1065], the registration shall be conclusive evidence of the registrant’s exclusive right to use the registered mark in commerce on or in connection with the goods or services specified in the affidavit filed under the provisions of said section 1065 subject to any conditions or limitations stated therein except when one of the following defenses or defects is established:”.
 
-    Subsec. (b)(3). [Pub. L. 100–667, § 128(b)(2)][/us/pl/100/667/s128/b/2], inserted “on or” after “goods or services”.
+    Subsec. (b)(3). [Pub. L. 100–667][/us/pl/100/667], § 128(b)(2), inserted “on or” after “goods or services”.
 
-    Subsec. (b)(4). [Pub. L. 100–667, § 128(b)(3)][/us/pl/100/667/s128/b/3], struck out “trade or service” after “than as a” and “to users” after “only to describe”.
+    Subsec. (b)(4). [Pub. L. 100–667][/us/pl/100/667], § 128(b)(3), struck out “trade or service” after “than as a” and “to users” after “only to describe”.
 
-    Subsec. (b)(5). [Pub. L. 100–667, § 128(b)(4)][/us/pl/100/667/s128/b/4], substituted “(A) the date of constructive use of the mark established pursuant to [section 1057(c) of this title][/us/usc/t15/s1057/c], (B) the registration of the mark under this chapter if the application for registration is filed before the effective date of the Trademark Law Revision Act of 1988, or (C)” for “registration of the mark under this chapter or”.
+    Subsec. (b)(5). [Pub. L. 100–667][/us/pl/100/667], § 128(b)(4), substituted “(A) the date of constructive use of the mark established pursuant to [section 1057(c) of this title][/us/usc/t15/s1057/c], (B) the registration of the mark under this chapter if the application for registration is filed before the effective date of the Trademark Law Revision Act of 1988, or (C)” for “registration of the mark under this chapter or”.
 
-    Subsec. (b)(8). [Pub. L. 100–667, § 128(b)(5)][/us/pl/100/667/s128/b/5], (6), added par. (8).
+    Subsec. (b)(8). [Pub. L. 100–667][/us/pl/100/667], § 128(b)(5), (6), added par. (8).
 
     1962—Subsec. (a). [Pub. L. 87–772][/us/pl/87/772] substituted “registration subject to” for “certificate subject to”, and struck out “certificate of” before “registration issued”.
 
@@ -103,19 +103,19 @@
 [/us/usc/t15/s1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1062
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F438
-[/us/pl/87/772/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772%2Fs18
+[/us/pl/87/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772
 [/us/stat/76/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F774
-[/us/pl/100/667/s128/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs128%2Fa
+[/us/pl/100/667/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtI
 [/us/stat/102/3944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3944
-[/us/pl/105/330/s201/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2Fs201%2Fa%2F9
+[/us/pl/105/330/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2FtII
 [/us/stat/112/3070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3070
-[/us/pl/107/273/s13207/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13207%2Fb%2F7
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1908
 [/us/act/1881-03-03/ch138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1881-03-03%2Fch138
 [/us/stat/21/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F21%2F502
 [/us/act/1905-02-20/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592
 [/us/stat/33/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F724
-[/us/act/1946-07-05/ch540/s46/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540%2Fs46%2Fa
+[/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F444
 [/us/pl/100/667/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs136
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
@@ -123,14 +123,14 @@
 [/us/stat/33/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F728
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/pl/105/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330
-[/us/pl/100/667/s128/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs128%2Fa
-[/us/pl/100/667/s128/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs128%2Fb%2F1
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
 [/us/usc/t15/s1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1065
-[/us/pl/100/667/s128/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs128%2Fb%2F2
-[/us/pl/100/667/s128/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs128%2Fb%2F3
-[/us/pl/100/667/s128/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs128%2Fb%2F4
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
 [/us/usc/t15/s1057/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1057%2Fc
-[/us/pl/100/667/s128/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs128%2Fb%2F5
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
 [/us/pl/87/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772
 [/us/pl/87/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772
 [/us/usc/t15/s1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1062

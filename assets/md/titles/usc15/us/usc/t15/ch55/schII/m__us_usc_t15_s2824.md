@@ -19,7 +19,7 @@
 
     (b) A State or political subdivision thereof may provide for any investigative or enforcement action, remedy, or penalty (including procedural actions necessary to carry out such investigative or enforcement actions, remedies, or penalties) with respect to any provision of law or regulation permitted by subsection (a).
 
-([Pub. L. 95–297, title II, § 204][/us/pl/95/297/s204], June 19, 1978, [92 Stat. 337][/us/stat/92/337]; [Pub. L. 102–486, title XV, § 1502(a)][/us/pl/102/486/s1502/a], Oct. 24, 1992, [106 Stat. 2997][/us/stat/106/2997].)
+([Pub. L. 95–297, title II][/us/pl/95/297/tII], § 204, June 19, 1978, [92 Stat. 337][/us/stat/92/337]; [Pub. L. 102–486, title XV][/us/pl/102/486/tXV], § 1502(a), Oct. 24, 1992, [106 Stat. 2997][/us/stat/106/2997].)
 
  __Amendments__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/95/297/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2Fs204
+[/us/pl/95/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2FtII
 [/us/stat/92/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F337
-[/us/pl/102/486/s1502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1502%2Fa
+[/us/pl/102/486/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXV
 [/us/stat/106/2997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2997
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 

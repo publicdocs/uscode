@@ -51,7 +51,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
 
-([Pub. L. 95–297, title III, § 301][/us/pl/95/297/s301], June 19, 1978, [92 Stat. 337][/us/stat/92/337].)
+([Pub. L. 95–297, title III][/us/pl/95/297/tIII], § 301, June 19, 1978, [92 Stat. 337][/us/stat/92/337].)
 
 ----------
 
@@ -62,7 +62,7 @@
 
 [/us/usc/t42/s6393/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6393%2Fa
 [/us/usc/t42/s6422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6422
-[/us/pl/95/297/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2Fs301
+[/us/pl/95/297/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2FtIII
 [/us/stat/92/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F337
 
 

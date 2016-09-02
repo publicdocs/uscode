@@ -81,7 +81,7 @@
 
             In developing the report under paragraph (1), the Under Secretary shall consult with relevant Federal, regional, State, tribal, and local government agencies, research institutions, and the private sector.
 
-([Pub. L. 109–430, § 3][/us/pl/109/430/s3], Dec. 20, 2006, [120 Stat. 2918][/us/stat/120/2918]; [Pub. L. 113–86, § 2][/us/pl/113/86/s2], Mar. 6, 2014, [128 Stat. 1015][/us/stat/128/1015].)
+([Pub. L. 109–430][/us/pl/109/430], § 3, Dec. 20, 2006, [120 Stat. 2918][/us/stat/120/2918]; [Pub. L. 113–86][/us/pl/113/86], § 2, Mar. 6, 2014, [128 Stat. 1015][/us/stat/128/1015].)
 
  __References in Text__ 
 
@@ -89,21 +89,21 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–86, § 2(1)][/us/pl/113/86/s2/1], inserted “to better inform and provide for more timely decisionmaking to reduce drought related impacts and costs” before period at end.
+    2014—Subsec. (a). [Pub. L. 113–86][/us/pl/113/86], § 2(1), inserted “to better inform and provide for more timely decisionmaking to reduce drought related impacts and costs” before period at end.
 
-    Subsec. (b). [Pub. L. 113–86, § 2(2)][/us/pl/113/86/s2/2], added subsec. (b) and struck out former subsec. (b) which set out required functions of the National Integrated Drought Information System.
+    Subsec. (b). [Pub. L. 113–86][/us/pl/113/86], § 2(2), added subsec. (b) and struck out former subsec. (b) which set out required functions of the National Integrated Drought Information System.
 
-    Subsec. (e). [Pub. L. 113–86, § 2(3)][/us/pl/113/86/s2/3], added subsec. (e).
+    Subsec. (e). [Pub. L. 113–86][/us/pl/113/86], § 2(3), added subsec. (e).
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 109–430, § 4][/us/pl/109/430/s4], Dec. 20, 2006, [120 Stat. 2919][/us/stat/120/2919], as amended by [Pub. L. 113–86, § 3][/us/pl/113/86/s3], Mar. 6, 2014, [128 Stat. 1016][/us/stat/128/1016], provided that: 
+[Pub. L. 109–430][/us/pl/109/430], § 4, Dec. 20, 2006, [120 Stat. 2919][/us/stat/120/2919], as amended by [Pub. L. 113–86][/us/pl/113/86], § 3, Mar. 6, 2014, [128 Stat. 1016][/us/stat/128/1016], provided that: 
 
 > “There are authorized to be appropriated to carry out this Act \[see Short Title of 2006 Amendment note set out under [section 311 of this title][/us/usc/t15/s311]\] $13,500,000 for each of fiscal years 2014 through 2018.”
 
  __Definitions__ 
 
-[Pub. L. 109–430, § 2][/us/pl/109/430/s2], Dec. 20, 2006, [120 Stat. 2918][/us/stat/120/2918], provided that: 
+[Pub. L. 109–430][/us/pl/109/430], § 2, Dec. 20, 2006, [120 Stat. 2918][/us/stat/120/2918], provided that: 
 
 > “In this Act \[see Short Title of 2006 Amendment note set out under [section 311 of this title][/us/usc/t15/s311]\]:
 
@@ -132,23 +132,23 @@
 ----------
 ----------
 
-[/us/pl/109/430/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F430%2Fs3
+[/us/pl/109/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F430
 [/us/stat/120/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2918
-[/us/pl/113/86/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F86%2Fs2
+[/us/pl/113/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F86
 [/us/stat/128/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1015
 [/us/pl/109/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F430
 [/us/stat/120/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2918
 [/us/usc/t15/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs311
 [/us/usc/t15/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs311
-[/us/pl/113/86/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F86%2Fs2%2F1
-[/us/pl/113/86/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F86%2Fs2%2F2
-[/us/pl/113/86/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F86%2Fs2%2F3
-[/us/pl/109/430/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F430%2Fs4
+[/us/pl/113/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F86
+[/us/pl/113/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F86
+[/us/pl/113/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F86
+[/us/pl/109/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F430
 [/us/stat/120/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2919
-[/us/pl/113/86/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F86%2Fs3
+[/us/pl/113/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F86
 [/us/stat/128/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1016
 [/us/usc/t15/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs311
-[/us/pl/109/430/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F430%2Fs2
+[/us/pl/109/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F430
 [/us/stat/120/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2918
 [/us/usc/t15/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs311
 

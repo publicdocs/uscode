@@ -23,11 +23,11 @@
 
     such person may at any time, upon payment of the prescribed fee and the filing of a petition stating the ground therefor, apply to the Director to cancel such registration. The Director shall refer such application to the Trademark Trial and Appeal Board which shall give notice thereof to the registrant. If it is found after a hearing before the Board that the registrant is not entitled to registration, or that the mark has been abandoned, the registration shall be canceled by the Director. However, no final judgment shall be entered in favor of an applicant under [section 1051(b) of this title][/us/usc/t15/s1051/b] before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to [section 1057(c) of this title][/us/usc/t15/s1057/c].
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title II, § 24, [60 Stat. 436][/us/stat/60/436]; [Pub. L. 85–609, § 1(d)][/us/pl/85/609/s1/d], Aug. 8, 1958, [72 Stat. 540][/us/stat/72/540]; [Pub. L. 87–772, § 14][/us/pl/87/772/s14], Oct. 9, 1962, [76 Stat. 773][/us/stat/76/773]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 100–667, title I, § 122][/us/pl/100/667/s122], Nov. 16, 1988, [102 Stat. 3943][/us/stat/102/3943]; [Pub. L. 106–43, § 2(d)][/us/pl/106/43/s2/d], Aug. 5, 1999, [113 Stat. 218][/us/stat/113/218]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(1)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583; [Pub. L. 109–312, § 3(d)][/us/pl/109/312/s3/d], Oct. 6, 2006, [120 Stat. 1732][/us/stat/120/1732].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title II, § 24, [60 Stat. 436][/us/stat/60/436]; [Pub. L. 85–609][/us/pl/85/609], § 1(d), Aug. 8, 1958, [72 Stat. 540][/us/stat/72/540]; [Pub. L. 87–772][/us/pl/87/772], § 14, Oct. 9, 1962, [76 Stat. 773][/us/stat/76/773]; [Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 100–667, title I][/us/pl/100/667/tI], § 122, Nov. 16, 1988, [102 Stat. 3943][/us/stat/102/3943]; [Pub. L. 106–43][/us/pl/106/43], § 2(d), Aug. 5, 1999, [113 Stat. 218][/us/stat/113/218]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(1)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583; [Pub. L. 109–312][/us/pl/109/312], § 3(d), Oct. 6, 2006, [120 Stat. 1732][/us/stat/120/1732].)
 
  __Prior Provisions__ 
 
-    [Act Mar. 19, 1920, ch. 104, § 2][/us/act/1920-03-19/ch104/s2], [41 Stat. 534][/us/stat/41/534].
+    [Act Mar. 19, 1920, ch. 104][/us/act/1920-03-19/ch104], § 2, [41 Stat. 534][/us/stat/41/534].
 
  __Amendments__ 
 
@@ -87,21 +87,21 @@
 [/us/usc/t15/s1057/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1057%2Fc
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F436
-[/us/pl/85/609/s1/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F609%2Fs1%2Fd
+[/us/pl/85/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F609
 [/us/stat/72/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F540
-[/us/pl/87/772/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772%2Fs14
+[/us/pl/87/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772
 [/us/stat/76/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F773
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/100/667/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs122
+[/us/pl/100/667/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtI
 [/us/stat/102/3943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3943
-[/us/pl/106/43/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43%2Fs2%2Fd
+[/us/pl/106/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43
 [/us/stat/113/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F218
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/109/312/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F312%2Fs3%2Fd
+[/us/pl/109/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F312
 [/us/stat/120/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1732
-[/us/act/1920-03-19/ch104/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-19%2Fch104%2Fs2
+[/us/act/1920-03-19/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-19%2Fch104
 [/us/stat/41/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F534
 [/us/pl/109/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F312
 [/us/usc/t15/s1125/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1125%2Fc

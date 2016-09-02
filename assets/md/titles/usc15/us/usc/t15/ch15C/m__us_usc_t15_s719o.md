@@ -17,7 +17,7 @@
 
     All Federal officers and agencies shall take such affirmative action as is necessary to assure that no person shall, on the grounds of race, creed, color, national origin, or sex, be excluded from receiving, or participating in any activity conducted under, any certificates, permit, right-of-way, lease, or other authorization granted or issued pursuant to this chapter. The appropriate Federal officers and agencies shall promulgate such rules as are necessary to carry out the purposes of this section and may enforce this section, and any rules promulgated under this section through agency and department provisions and rules which shall be similar to those established and in effect under title VI of the Civil Rights Act of 1964 \[[42 U.S.C. 2000d][/us/usc/t42/s2000d] et seq.\].
 
-([Pub. L. 94–586, § 17][/us/pl/94/586/s17], Oct. 22, 1976, [90 Stat. 2915][/us/stat/90/2915].)
+([Pub. L. 94–586][/us/pl/94/586], § 17, Oct. 22, 1976, [90 Stat. 2915][/us/stat/90/2915].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
-[/us/pl/94/586/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586%2Fs17
+[/us/pl/94/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586
 [/us/stat/90/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2915
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241

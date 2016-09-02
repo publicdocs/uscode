@@ -45,7 +45,7 @@
 
         (B) own not less than 51 percent of the business.
 
-([Pub. L. 100–533, title IV, § 408][/us/pl/100/533/s408], as added [Pub. L. 103–403, title IV, § 413][/us/pl/103/403/s413], Oct. 22, 1994, [108 Stat. 4197][/us/stat/108/4197].)
+([Pub. L. 100–533, title IV][/us/pl/100/533/tIV], § 408, as added [Pub. L. 103–403, title IV][/us/pl/103/403/tIV], § 413, Oct. 22, 1994, [108 Stat. 4197][/us/stat/108/4197].)
 
 ----------
 
@@ -56,8 +56,8 @@
 
 [/us/usc/t15/s7105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7105
 [/us/usc/t15/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7101
-[/us/pl/100/533/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs408
-[/us/pl/103/403/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs413
+[/us/pl/100/533/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2FtIV
+[/us/pl/103/403/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtIV
 [/us/stat/108/4197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4197
 
 

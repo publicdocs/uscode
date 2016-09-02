@@ -17,7 +17,7 @@
 
     The Secretary of Labor may by regulation exempt from the provisions of section 1673(a) and (b)(2) of this title garnishments issued under the laws of any State if he determines that the laws of that State provide restrictions on garnishment which are substantially similar to those provided in section 1673(a) and (b)(2) of this title.
 
-([Pub. L. 90–321, title III, § 305][/us/pl/90/321/s305], May 29, 1968, [82 Stat. 164][/us/stat/82/164]; [Pub. L. 95–30, title V, § 501(e)(4)][/us/pl/95/30/s501/e/4], May 23, 1977, [91 Stat. 162][/us/stat/91/162].)
+([Pub. L. 90–321, title III][/us/pl/90/321/tIII], § 305, May 29, 1968, [82 Stat. 164][/us/stat/82/164]; [Pub. L. 95–30, title V][/us/pl/95/30/tV], § 501(e)(4), May 23, 1977, [91 Stat. 162][/us/stat/91/162].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/90/321/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs305
+[/us/pl/90/321/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIII
 [/us/stat/82/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F164
-[/us/pl/95/30/s501/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs501%2Fe%2F4
+[/us/pl/95/30/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtV
 [/us/stat/91/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F162
 [/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
 [/us/usc/t15/s1673/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1673%2Fa

@@ -21,7 +21,7 @@
 
     (b) The term “Secretary” means the Secretary of Commerce.
 
-([Pub. L. 90–396, § 2][/us/pl/90/396/s2], July 11, 1968, [82 Stat. 340][/us/stat/82/340].)
+([Pub. L. 90–396][/us/pl/90/396], § 2, July 11, 1968, [82 Stat. 340][/us/stat/82/340].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t15/s290b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs290b
-[/us/pl/90/396/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F396%2Fs2
+[/us/pl/90/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F396
 [/us/stat/82/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F340
 
 

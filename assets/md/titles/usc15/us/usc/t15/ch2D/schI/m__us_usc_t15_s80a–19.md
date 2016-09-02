@@ -29,7 +29,7 @@
 
         It shall be unlawful in contravention of such rules, regulations, or orders as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors for any registered investment company to distribute long-term capital gains, as defined in title 26, more often than once every twelve months.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 19, [54 Stat. 821][/us/stat/54/821]; [Pub. L. 91–547, § 11][/us/pl/91/547/s11], Dec. 14, 1970, [84 Stat. 1422][/us/stat/84/1422]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 19, [54 Stat. 821][/us/stat/54/821]; [Pub. L. 91–547][/us/pl/91/547], § 11, Dec. 14, 1970, [84 Stat. 1422][/us/stat/84/1422]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F821
-[/us/pl/91/547/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs11
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1422
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547

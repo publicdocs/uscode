@@ -41,7 +41,7 @@
 
         The Secretary of State and the Secretary shall enter into cooperative arrangements concerning the provision of office space, equipment, facilities, clerical services, and such other administrative support as may be required for fishery trade officers and their families.
 
-([Pub. L. 96–561, title II, § 211][/us/pl/96/561/s211], Dec. 22, 1980, [94 Stat. 3290][/us/stat/94/3290].)
+([Pub. L. 96–561, title II][/us/pl/96/561/tII], § 211, Dec. 22, 1980, [94 Stat. 3290][/us/stat/94/3290].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/96/561/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs211
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3290
 
 

@@ -115,7 +115,7 @@
 
             No amount shall be collected as a fee under this section for any fiscal year except to the extent provided in advance by appropriations Acts.
 
-([Pub. L. 108–10, § 2][/us/pl/108/10/s2], Mar. 11, 2003, [117 Stat. 557][/us/stat/117/557]; [Pub. L. 110–188, § 2][/us/pl/110/188/s2], Feb. 15, 2008, [122 Stat. 635][/us/stat/122/635].)
+([Pub. L. 108–10][/us/pl/108/10], § 2, Mar. 11, 2003, [117 Stat. 557][/us/stat/117/557]; [Pub. L. 110–188][/us/pl/110/188], § 2, Feb. 15, 2008, [122 Stat. 635][/us/stat/122/635].)
 
  __Amendments__ 
 
@@ -123,7 +123,7 @@
 
  __Rulemaking__ 
 
-[Pub. L. 110–188, § 4][/us/pl/110/188/s4], Feb. 15, 2008, [122 Stat. 637][/us/stat/122/637], provided that: 
+[Pub. L. 110–188][/us/pl/110/188], § 4, Feb. 15, 2008, [122 Stat. 637][/us/stat/122/637], provided that: 
 
 > “The Federal Trade Commission may issue rules, in accordance with [section 553 of title 5][/us/usc/t5/s553], United States Code, as necessary and appropriate to carry out the amendments to the Do-Not-Call Implementation Act ([15 U.S.C. 6101][/us/usc/t15/s6101] note) \[now this chapter\] made by this Act \[amending this section and [section 6154 of this title][/us/usc/t15/s6154]\].”
 
@@ -135,14 +135,14 @@
 ----------
 
 [/us/usc/t15/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6102
-[/us/pl/108/10/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F10%2Fs2
+[/us/pl/108/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F10
 [/us/stat/117/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F557
-[/us/pl/110/188/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F188%2Fs2
+[/us/pl/110/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F188
 [/us/stat/122/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F635
 [/us/pl/110/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F188
 [/us/usc/t15/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6101
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/110/188/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F188%2Fs4
+[/us/pl/110/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F188
 [/us/stat/122/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F637
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t15/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6101

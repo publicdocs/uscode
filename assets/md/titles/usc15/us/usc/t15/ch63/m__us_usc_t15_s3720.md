@@ -37,7 +37,7 @@
 
         The Secretary shall establish an Advisory Council on Innovation and Entrepreneurship to provide advice to the Secretary on carrying out subsection (b).
 
-([Pub. L. 96–480, § 25][/us/pl/96/480/s25], as added [Pub. L. 111–358, title VI, § 601][/us/pl/111/358/s601], Jan. 4, 2011, [124 Stat. 4026][/us/stat/124/4026].)
+([Pub. L. 96–480][/us/pl/96/480], § 25, as added [Pub. L. 111–358, title VI][/us/pl/111/358/tVI], § 601, Jan. 4, 2011, [124 Stat. 4026][/us/stat/124/4026].)
 
 ----------
 
@@ -46,8 +46,8 @@
 ----------
 ----------
 
-[/us/pl/96/480/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs25
-[/us/pl/111/358/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs601
+[/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
+[/us/pl/111/358/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtVI
 [/us/stat/124/4026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4026
 
 

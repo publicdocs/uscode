@@ -27,7 +27,7 @@
 
         The Center shall by regulation prescribe the basic criteria for determination of noncompliance by participating parties including appropriate provisions for notice and hearing with respect to such determination.
 
-([Pub. L. 94–136, title II, § 207][/us/pl/94/136/s207], Nov. 28, 1975, [89 Stat. 739][/us/stat/89/739].)
+([Pub. L. 94–136, title II][/us/pl/94/136/tII], § 207, Nov. 28, 1975, [89 Stat. 739][/us/stat/89/739].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/94/136/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2Fs207
+[/us/pl/94/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2FtII
 [/us/stat/89/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F739
 
 

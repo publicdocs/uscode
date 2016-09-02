@@ -17,11 +17,11 @@
 
     The Congress hereby finds and declares that reliable standardized scientific and technical reference data are of vital importance to the progress of the Nation’s science and technology. It is therefore the policy of the Congress to make critically evaluated reference data readily available to scientists, engineers, and the general public. It is the purpose of this chapter to strengthen and enhance this policy.
 
-([Pub. L. 90–396, § 1][/us/pl/90/396/s1], July 11, 1968, [82 Stat. 339][/us/stat/82/339].)
+([Pub. L. 90–396][/us/pl/90/396], § 1, July 11, 1968, [82 Stat. 339][/us/stat/82/339].)
 
  __Short Title__ 
 
-[Pub. L. 90–396, § 8][/us/pl/90/396/s8], July 11, 1968, [82 Stat. 340][/us/stat/82/340], provided that: 
+[Pub. L. 90–396][/us/pl/90/396], § 8, July 11, 1968, [82 Stat. 340][/us/stat/82/340], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Standard Reference Data Act’.”
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/90/396/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F396%2Fs1
+[/us/pl/90/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F396
 [/us/stat/82/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F339
-[/us/pl/90/396/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F396%2Fs8
+[/us/pl/90/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F396
 [/us/stat/82/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F340
 
 

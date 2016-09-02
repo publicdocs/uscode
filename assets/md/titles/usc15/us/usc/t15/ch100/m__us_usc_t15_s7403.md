@@ -161,17 +161,17 @@
 
             (E) $36,000,000 for fiscal year 2007.
 
-([Pub. L. 107–305, § 4][/us/pl/107/305/s4], Nov. 27, 2002, [116 Stat. 2368][/us/stat/116/2368]; [Pub. L. 113–274, title II][/us/pl/113/274], §§ 201(e), 202, Dec. 18, 2014, [128 Stat. 2978][/us/stat/128/2978].)
+([Pub. L. 107–305][/us/pl/107/305], § 4, Nov. 27, 2002, [116 Stat. 2368][/us/stat/116/2368]; [Pub. L. 113–274, title II][/us/pl/113/274/tII], §§ 201(e), 202, Dec. 18, 2014, [128 Stat. 2978][/us/stat/128/2978].)
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1)(J) to (P). [Pub. L. 113–274, § 201(e)][/us/pl/113/274/s201/e], added subpars. (J) to (P).
+    2014—Subsec. (a)(1)(J) to (P). [Pub. L. 113–274][/us/pl/113/274], § 201(e), added subpars. (J) to (P).
 
-    Subsec. (b)(3). [Pub. L. 113–274, § 202(1)][/us/pl/113/274/s202/1], substituted “improving the security and resiliency of information technology, reducing cyber vulnerabilities, and anticipating and mitigating consequences of cyber attacks on critical infrastructure, by conducting research in the areas” for “the research areas”.
+    Subsec. (b)(3). [Pub. L. 113–274][/us/pl/113/274], § 202(1), substituted “improving the security and resiliency of information technology, reducing cyber vulnerabilities, and anticipating and mitigating consequences of cyber attacks on critical infrastructure, by conducting research in the areas” for “the research areas”.
 
-    Subsec. (b)(4)(D). [Pub. L. 113–274, § 202(2)][/us/pl/113/274/s202/2], substituted “the Center” for “the center”.
+    Subsec. (b)(4)(D). [Pub. L. 113–274][/us/pl/113/274], § 202(2), substituted “the Center” for “the center”.
 
-    Subsec. (b)(5)(E) to (K). [Pub. L. 113–274, § 202(3)][/us/pl/113/274/s202/3], added subpars. (E) to (K).
+    Subsec. (b)(5)(E) to (K). [Pub. L. 113–274][/us/pl/113/274], § 202(3), added subpars. (E) to (K).
 
 ----------
 
@@ -180,13 +180,13 @@
 ----------
 ----------
 
-[/us/pl/107/305/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305%2Fs4
+[/us/pl/107/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305
 [/us/stat/116/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2368
-[/us/pl/113/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274
+[/us/pl/113/274/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2FtII
 [/us/stat/128/2978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2978
-[/us/pl/113/274/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs201%2Fe
-[/us/pl/113/274/s202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs202%2F1
-[/us/pl/113/274/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs202%2F2
-[/us/pl/113/274/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs202%2F3
+[/us/pl/113/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274
+[/us/pl/113/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274
+[/us/pl/113/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274
+[/us/pl/113/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274
 
 

@@ -21,7 +21,7 @@
 
     (b) To lend or arrange for the lending of any securities carried for the account of any customer without the written consent of such customer or in contravention of such rules and regulations as the Commission shall prescribe for the protection of investors.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 8, [48 Stat. 888][/us/stat/48/888]; [Aug. 23, 1935, ch. 614, § 203(a)][/us/act/1935-08-23/ch614/s203/a], [49 Stat. 704][/us/stat/49/704]; [Pub. L. 94–29, § 5][/us/pl/94/29/s5], June 4, 1975, [89 Stat. 109][/us/stat/89/109]; [Pub. L. 98–440, title I, § 103][/us/pl/98/440/s103], Oct. 3, 1984, [98 Stat. 1690][/us/stat/98/1690]; [Pub. L. 103–325, title II, § 204][/us/pl/103/325/s204], Sept. 23, 1994, [108 Stat. 2199][/us/stat/108/2199]; [Pub. L. 104–290, title I, § 104(b)][/us/pl/104/290/s104/b], Oct. 11, 1996, [110 Stat. 3423][/us/stat/110/3423].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 8, [48 Stat. 888][/us/stat/48/888]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 94–29][/us/pl/94/29], § 5, June 4, 1975, [89 Stat. 109][/us/stat/89/109]; [Pub. L. 98–440, title I][/us/pl/98/440/tI], § 103, Oct. 3, 1984, [98 Stat. 1690][/us/stat/98/1690]; [Pub. L. 103–325, title II][/us/pl/103/325/tII], § 204, Sept. 23, 1994, [108 Stat. 2199][/us/stat/108/2199]; [Pub. L. 104–290, title I][/us/pl/104/290/tI], § 104(b), Oct. 11, 1996, [110 Stat. 3423][/us/stat/110/3423].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 
     1984—Subsec. (a). [Pub. L. 98–440][/us/pl/98/440] inserted provision that no person shall be deemed to have borrowed within the ordinary course of business, within the meaning of this subsection, by reason of a bona fide agreement for delayed delivery of a mortgage related security under certain conditions.
 
-    1975—[Pub. L. 94–29, § 5(1)][/us/pl/94/29/s5/1], substituted “any registered broker or dealer, member of a national securities exchange, or broker or dealer who transacts a business in securities through the medium of any member of a national securities exchange” for “any member of a national securities exchange, or any broker or dealer who transacts a business in securities through the medium of any such member” in provisions preceding subsec. (a).
+    1975—[Pub. L. 94–29][/us/pl/94/29], § 5(1), substituted “any registered broker or dealer, member of a national securities exchange, or broker or dealer who transacts a business in securities through the medium of any member of a national securities exchange” for “any member of a national securities exchange, or any broker or dealer who transacts a business in securities through the medium of any such member” in provisions preceding subsec. (a).
 
-    Subsecs. (b) to (d). [Pub. L. 94–29, § 5(2)][/us/pl/94/29/s5/2], redesignated subsecs. (c) and (d) as (b) and (c), respectively, and in subsec. (c) as so redesignated inserted “or in contravention of such rules and regulations as the Commissioner shall prescribe for the protection of investors” after “written consent of such customer”. Former subsec. (b), which covered the maximum allowable aggregate indebtedness of brokers, was struck out.
+    Subsecs. (b) to (d). [Pub. L. 94–29][/us/pl/94/29], § 5(2), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and in subsec. (c) as so redesignated inserted “or in contravention of such rules and regulations as the Commissioner shall prescribe for the protection of investors” after “written consent of such customer”. Former subsec. (b), which covered the maximum allowable aggregate indebtedness of brokers, was struck out.
 
  __Change of Name__ 
 
@@ -56,21 +56,21 @@
 
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F888
-[/us/act/1935-08-23/ch614/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614%2Fs203%2Fa
+[/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/pl/94/29/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs5
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F109
-[/us/pl/98/440/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440%2Fs103
+[/us/pl/98/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440%2FtI
 [/us/stat/98/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1690
-[/us/pl/103/325/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs204
+[/us/pl/103/325/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtII
 [/us/stat/108/2199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2199
-[/us/pl/104/290/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs104%2Fb
+[/us/pl/104/290/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtI
 [/us/stat/110/3423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3423
 [/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/98/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440
-[/us/pl/94/29/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs5%2F1
-[/us/pl/94/29/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs5%2F2
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/pl/94/29/s31/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs31%2Fa
 [/us/usc/t15/s78b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78b

@@ -57,7 +57,7 @@
 
             The Federal Trade Commission, after consultation with Federal banking agencies and the Securities and Exchange Commission, may prescribe regulations clarifying or describing the types of institutions which shall be treated as financial institutions for purposes of this subchapter.
 
-([Pub. L. 106–102, title V, § 527][/us/pl/106/102/s527], Nov. 12, 1999, [113 Stat. 1449][/us/stat/113/1449].)
+([Pub. L. 106–102, title V][/us/pl/106/102/tV], § 527, Nov. 12, 1999, [113 Stat. 1449][/us/stat/113/1449].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 [/us/usc/t15/s80a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%933
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001
-[/us/pl/106/102/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs527
+[/us/pl/106/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtV
 [/us/stat/113/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1449
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998

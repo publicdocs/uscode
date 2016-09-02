@@ -27,7 +27,7 @@
 
         The laws, rules, regulations, and policies of the United States shall be so interpreted as to give full force and effect to this policy.
 
-([Pub. L. 94–136, title I, § 103][/us/pl/94/136/s103], Nov. 28, 1975, [89 Stat. 734][/us/stat/89/734].)
+([Pub. L. 94–136, title I][/us/pl/94/136/tI], § 103, Nov. 28, 1975, [89 Stat. 734][/us/stat/89/734].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/94/136/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2Fs103
+[/us/pl/94/136/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2FtI
 [/us/stat/89/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F734
 
 

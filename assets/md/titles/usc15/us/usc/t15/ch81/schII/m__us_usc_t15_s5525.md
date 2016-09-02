@@ -23,7 +23,7 @@
 
         From sums otherwise authorized to be appropriated, there are authorized to be appropriated to the Environmental Protection Agency for the purposes of the Program $5,000,000 for fiscal year 1992; $5,500,000 for fiscal year 1993; $6,000,000 for fiscal year 1994; $6,500,000 for fiscal year 1995; and $7,000,000 for fiscal year 1996.
 
-([Pub. L. 102–194, title II, § 205][/us/pl/102/194/s205], Dec. 9, 1991, [105 Stat. 1602][/us/stat/105/1602].)
+([Pub. L. 102–194, title II][/us/pl/102/194/tII], § 205, Dec. 9, 1991, [105 Stat. 1602][/us/stat/105/1602].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/102/194/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2Fs205
+[/us/pl/102/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2FtII
 [/us/stat/105/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1602
 
 

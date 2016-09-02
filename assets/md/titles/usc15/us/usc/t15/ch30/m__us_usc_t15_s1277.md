@@ -71,7 +71,7 @@
 
         The Commission may bring an action under [section 1267 of this title][/us/usc/t15/s1267] to enjoin the purchase of any art material required to be labeled under this chapter which is for use by children in pre-kindergarten, kindergarten, or grades 1 through 6.
 
-([Pub. L. 86–613, § 23][/us/pl/86/613/s23], as added [Pub. L. 100–695][/us/pl/100/695], Nov. 18, 1988, [102 Stat. 4568][/us/stat/102/4568].)
+([Pub. L. 86–613][/us/pl/86/613], § 23, as added [Pub. L. 100–695][/us/pl/100/695], Nov. 18, 1988, [102 Stat. 4568][/us/stat/102/4568].)
 
  __References in Text__ 
 
@@ -95,7 +95,7 @@
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t15/s1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1267
-[/us/pl/86/613/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs23
+[/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/pl/100/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F695
 [/us/stat/102/4568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4568
 [/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125

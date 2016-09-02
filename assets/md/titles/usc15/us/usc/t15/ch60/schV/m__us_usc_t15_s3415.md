@@ -39,7 +39,7 @@
 
             In addition to his authority to obtain review under paragraph (1), the Secretary may also participate an  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “as”. </sup></sup>  amicus curiae in any judicial review of any proceeding described in subsection (a)(1).
 
-([Pub. L. 95–621, title V, § 505][/us/pl/95/621/s505], Nov. 9, 1978, [92 Stat. 3403][/us/stat/92/3403].)
+([Pub. L. 95–621, title V][/us/pl/95/621/tV], § 505, Nov. 9, 1978, [92 Stat. 3403][/us/stat/92/3403].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/95/621/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs505
+[/us/pl/95/621/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2FtV
 [/us/stat/92/3403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3403
 
 

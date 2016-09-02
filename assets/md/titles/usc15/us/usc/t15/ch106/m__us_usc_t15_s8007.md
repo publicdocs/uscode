@@ -17,7 +17,7 @@
 
     Not later than 1 year after the last day of each fiscal year for which grants are made under [section 8004 of this title][/us/usc/t15/s8004], the Commission shall submit to Congress a report evaluating the implementation of the grant program authorized by that section.
 
-([Pub. L. 110–140, title XIV, § 1408][/us/pl/110/140/s1408], Dec. 19, 2007, [121 Stat. 1800][/us/stat/121/1800].)
+([Pub. L. 110–140, title XIV][/us/pl/110/140/tXIV], § 1408, Dec. 19, 2007, [121 Stat. 1800][/us/stat/121/1800].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t15/s8004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8004
-[/us/pl/110/140/s1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1408
+[/us/pl/110/140/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXIV
 [/us/stat/121/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1800
 
 

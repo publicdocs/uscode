@@ -131,51 +131,51 @@
 
         In addition to any other remedy available by law or contract, no creditor or assignee shall be liable to an obligor under this section, if such obligor, or co-obligor has been convicted of obtaining by actual fraud such residential mortgage loan.
 
-([Pub. L. 90–321, title I, § 130][/us/pl/90/321/s130], May 29, 1968, [82 Stat. 157][/us/stat/82/157]; [Pub. L. 93–495, title IV][/us/pl/93/495], §§ 406, 407, 408(a)–(d), Oct. 28, 1974, [88 Stat. 1518][/us/stat/88/1518]; [Pub. L. 94–222, § 3(b)][/us/pl/94/222/s3/b], Feb. 27, 1976, [90 Stat. 197][/us/stat/90/197]; [Pub. L. 94–240, § 4][/us/pl/94/240/s4], Mar. 23, 1976, [90 Stat. 260][/us/stat/90/260]; [Pub. L. 96–221, title VI, § 615][/us/pl/96/221/s615], Mar. 31, 1980, [94 Stat. 180][/us/stat/94/180]; [Pub. L. 100–583, § 3][/us/pl/100/583/s3], Nov. 3, 1988, [102 Stat. 2966][/us/stat/102/2966]; [Pub. L. 103–325, title I, § 153(a)][/us/pl/103/325/s153/a], (b), Sept. 23, 1994, [108 Stat. 2195][/us/stat/108/2195]; [Pub. L. 104–12, § 2][/us/pl/104/12/s2], May 18, 1995, [109 Stat. 161][/us/stat/109/161]; [Pub. L. 104–29, § 6][/us/pl/104/29/s6], Sept. 30, 1995, [109 Stat. 274][/us/stat/109/274]; [Pub. L. 110–289, div. B, title V, § 2502(b)][/us/pl/110/289/s2502/b], July 30, 2008, [122 Stat. 2857][/us/stat/122/2857]; [Pub. L. 110–315, title X, § 1012(a)][/us/pl/110/315/s1012/a], Aug. 14, 2008, [122 Stat. 3482][/us/stat/122/3482]; [Pub. L. 111–22, div. A, title IV, § 404(b)][/us/pl/111/22/s404/b], May 20, 2009, [123 Stat. 1658][/us/stat/123/1658]; [Pub. L. 111–24, title I, § 107][/us/pl/111/24/s107], title II, § 201(b), May 22, 2009, [123 Stat. 1743][/us/stat/123/1743], 1745; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], title XIV, §§ 1413, 1416, 1417, 1422, July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2148, 2153, 2157.)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 130, May 29, 1968, [82 Stat. 157][/us/stat/82/157]; [Pub. L. 93–495, title IV][/us/pl/93/495/tIV], §§ 406, 407, 408(a)–(d), Oct. 28, 1974, [88 Stat. 1518][/us/stat/88/1518]; [Pub. L. 94–222][/us/pl/94/222], § 3(b), Feb. 27, 1976, [90 Stat. 197][/us/stat/90/197]; [Pub. L. 94–240][/us/pl/94/240], § 4, Mar. 23, 1976, [90 Stat. 260][/us/stat/90/260]; [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 615, Mar. 31, 1980, [94 Stat. 180][/us/stat/94/180]; [Pub. L. 100–583][/us/pl/100/583], § 3, Nov. 3, 1988, [102 Stat. 2966][/us/stat/102/2966]; [Pub. L. 103–325, title I][/us/pl/103/325/tI], § 153(a), (b), Sept. 23, 1994, [108 Stat. 2195][/us/stat/108/2195]; [Pub. L. 104–12][/us/pl/104/12], § 2, May 18, 1995, [109 Stat. 161][/us/stat/109/161]; [Pub. L. 104–29][/us/pl/104/29], § 6, Sept. 30, 1995, [109 Stat. 274][/us/stat/109/274]; [Pub. L. 110–289, div. B, title V][/us/pl/110/289/dB/tV], § 2502(b), July 30, 2008, [122 Stat. 2857][/us/stat/122/2857]; [Pub. L. 110–315, title X][/us/pl/110/315/tX], § 1012(a), Aug. 14, 2008, [122 Stat. 3482][/us/stat/122/3482]; [Pub. L. 111–22, div. A, title IV][/us/pl/111/22/dA/tIV], § 404(b), May 20, 2009, [123 Stat. 1658][/us/stat/123/1658]; [Pub. L. 111–24, title I][/us/pl/111/24/tI], § 107, title II, § 201(b), May 22, 2009, [123 Stat. 1743][/us/stat/123/1743], 1745; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), title XIV, §§ 1413, 1416, 1417, 1422, July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2148, 2153, 2157.)
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], substituted “Bureau” for “Board” wherever appearing.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
-    Subsec. (a)(2)(A)(ii). [Pub. L. 111–203, § 1416(a)(1)][/us/pl/111/203/s1416/a/1], substituted “$200” for “$100” and “$2,000” for “$1,000”.
+    Subsec. (a)(2)(A)(ii). [Pub. L. 111–203][/us/pl/111/203], § 1416(a)(1), substituted “$200” for “$100” and “$2,000” for “$1,000”.
 
-    Subsec. (a)(2)(B). [Pub. L. 111–203, § 1416(a)(2)][/us/pl/111/203/s1416/a/2], substituted “$1,000,000” for “$500,000”.
+    Subsec. (a)(2)(B). [Pub. L. 111–203][/us/pl/111/203], § 1416(a)(2), substituted “$1,000,000” for “$500,000”.
 
-    Subsec. (a)(4). [Pub. L. 111–203, § 1416(a)(3)][/us/pl/111/203/s1416/a/3], inserted “, paragraph (1) or (2) of [section 1639b(c) of this title][/us/usc/t15/s1639b/c], or [section 1639c(a) of this title][/us/usc/t15/s1639c/a]” after “[section 1639 of this title][/us/usc/t15/s1639]”.
+    Subsec. (a)(4). [Pub. L. 111–203][/us/pl/111/203], § 1416(a)(3), inserted “, paragraph (1) or (2) of [section 1639b(c) of this title][/us/usc/t15/s1639b/c], or [section 1639c(a) of this title][/us/usc/t15/s1639c/a]” after “[section 1639 of this title][/us/usc/t15/s1639]”.
 
-    Subsec. (e). [Pub. L. 111–203, § 1422][/us/pl/111/203/s1422], substituted “section 1639, 1639b, 1639c, 1639d, 1639e, 1639f, 1639g, or 1639h of this title may also” for “[section 1639 of this title][/us/usc/t15/s1639] may also”.
+    Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 1422, substituted “section 1639, 1639b, 1639c, 1639d, 1639e, 1639f, 1639g, or 1639h of this title may also” for “[section 1639 of this title][/us/usc/t15/s1639] may also”.
 
-    [Pub. L. 111–203, § 1416(b)][/us/pl/111/203/s1416/b], in first sentence substituted “Except as provided in the subsequent sentence, any action” for “Any action” and inserted after first sentence “Any action under this section with respect to any violation of section 1639, 1639b, or 1639c of this title may be brought in any United States district court, or in any other court of competent jurisdiction, before the end of the 3-year period beginning on the date of the occurrence of the violation.”
+    [Pub. L. 111–203][/us/pl/111/203], § 1416(b), in first sentence substituted “Except as provided in the subsequent sentence, any action” for “Any action” and inserted after first sentence “Any action under this section with respect to any violation of section 1639, 1639b, or 1639c of this title may be brought in any United States district court, or in any other court of competent jurisdiction, before the end of the 3-year period beginning on the date of the occurrence of the violation.”
 
-    Subsec. (k). [Pub. L. 111–203, § 1413][/us/pl/111/203/s1413], added subsec. (k).
+    Subsec. (k). [Pub. L. 111–203][/us/pl/111/203], § 1413, added subsec. (k).
 
-    Subsec. (l). [Pub. L. 111–203, § 1417][/us/pl/111/203/s1417], added subsec. (l).
+    Subsec. (l). [Pub. L. 111–203][/us/pl/111/203], § 1417, added subsec. (l).
 
-    2009—Subsec. (a). [Pub. L. 111–24, § 201(b)][/us/pl/111/24/s201/b], in concluding provisions, substituted “In connection with the disclosures referred to in subsections (a) and (b) of [section 1637 of this title][/us/usc/t15/s1637], a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of [section 1635 of this title][/us/usc/t15/s1635], 1637(a) of this title, or any of paragraphs (4) through (13) of [section 1637(b) of this title][/us/usc/t15/s1637/b], or for failing to comply with disclosure requirements under State law for any term or item that the Board has determined to be substantially the same in meaning under [section 1610(a)(2) of this title][/us/usc/t15/s1610/a/2] as any of the terms or items referred to in [section 1637(a) of this title][/us/usc/t15/s1637/a], or any of paragraphs (4) through (13) of [section 1637(b) of this title][/us/usc/t15/s1637/b].” for “In connection with the disclosures referred to in subsections (a) and (b) of [section 1637 of this title][/us/usc/t15/s1637], a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of [section 1635 of this title][/us/usc/t15/s1635], [section 1637(a) of this title][/us/usc/t15/s1637/a], or of paragraph (4), (5), (6), (7), (8), (9), or (10) of [section 1637(b) of this title][/us/usc/t15/s1637/b] or for failing to comply with disclosure requirements under State law for any term or item which the Board has determined to be substantially the same in meaning under [section 1610(a)(2) of this title][/us/usc/t15/s1610/a/2] as any of the terms or items referred to in [section 1637(a) of this title][/us/usc/t15/s1637/a] or any of those paragraphs of [section 1637(b) of this title][/us/usc/t15/s1637/b].”
+    2009—Subsec. (a). [Pub. L. 111–24][/us/pl/111/24], § 201(b), in concluding provisions, substituted “In connection with the disclosures referred to in subsections (a) and (b) of [section 1637 of this title][/us/usc/t15/s1637], a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of [section 1635 of this title][/us/usc/t15/s1635], 1637(a) of this title, or any of paragraphs (4) through (13) of [section 1637(b) of this title][/us/usc/t15/s1637/b], or for failing to comply with disclosure requirements under State law for any term or item that the Board has determined to be substantially the same in meaning under [section 1610(a)(2) of this title][/us/usc/t15/s1610/a/2] as any of the terms or items referred to in [section 1637(a) of this title][/us/usc/t15/s1637/a], or any of paragraphs (4) through (13) of [section 1637(b) of this title][/us/usc/t15/s1637/b].” for “In connection with the disclosures referred to in subsections (a) and (b) of [section 1637 of this title][/us/usc/t15/s1637], a creditor shall have a liability determined under paragraph (2) only for failing to comply with the requirements of [section 1635 of this title][/us/usc/t15/s1635], [section 1637(a) of this title][/us/usc/t15/s1637/a], or of paragraph (4), (5), (6), (7), (8), (9), or (10) of [section 1637(b) of this title][/us/usc/t15/s1637/b] or for failing to comply with disclosure requirements under State law for any term or item which the Board has determined to be substantially the same in meaning under [section 1610(a)(2) of this title][/us/usc/t15/s1610/a/2] as any of the terms or items referred to in [section 1637(a) of this title][/us/usc/t15/s1637/a] or any of those paragraphs of [section 1637(b) of this title][/us/usc/t15/s1637/b].”
 
-    [Pub. L. 111–22, § 404(b)][/us/pl/111/22/s404/b], which directed insertion of “subsection (f) or (g) of [section 1641 of this title][/us/usc/t15/s1641],” after “[section 1635 of this title][/us/usc/t15/s1635],”, was executed by making the insertion only in the introductory provisions to reflect the probable intent of Congress.
+    [Pub. L. 111–22][/us/pl/111/22], § 404(b), which directed insertion of “subsection (f) or (g) of [section 1641 of this title][/us/usc/t15/s1641],” after “[section 1635 of this title][/us/usc/t15/s1635],”, was executed by making the insertion only in the introductory provisions to reflect the probable intent of Congress.
 
-    Subsec. (a)(2)(A)(iii), (iv). [Pub. L. 111–24, § 107][/us/pl/111/24/s107], added cl. (iii) and redesignated former cl. (iii) as (iv).
+    Subsec. (a)(2)(A)(iii), (iv). [Pub. L. 111–24][/us/pl/111/24], § 107, added cl. (iii) and redesignated former cl. (iii) as (iv).
 
-    2008—Subsec. (a). [Pub. L. 110–315, § 1012(a)(1)(B)][/us/pl/110/315/s1012/a/1/B], in fourth sentence of concluding provisions, substituted “1635 of this title,” for “1635 of this title or” and inserted “of subparagraphs (A), (B), (D), (F), or (J) of [section 1638(e)(2) of this title][/us/usc/t15/s1638/e/2] (for purposes of paragraph (2) or (4) of [section 1638(e) of this title][/us/usc/t15/s1638/e]), or paragraph (4)(C), (6), (7), or (8) of [section 1638(e) of this title][/us/usc/t15/s1638/e],” before “or for failing”.
+    2008—Subsec. (a). [Pub. L. 110–315][/us/pl/110/315], § 1012(a)(1)(B), in fourth sentence of concluding provisions, substituted “1635 of this title,” for “1635 of this title or” and inserted “of subparagraphs (A), (B), (D), (F), or (J) of [section 1638(e)(2) of this title][/us/usc/t15/s1638/e/2] (for purposes of paragraph (2) or (4) of [section 1638(e) of this title][/us/usc/t15/s1638/e]), or paragraph (4)(C), (6), (7), or (8) of [section 1638(e) of this title][/us/usc/t15/s1638/e],” before “or for failing”.
 
-    [Pub. L. 110–289, § 2502(b)(2)][/us/pl/110/289/s2502/b/2], in concluding provisions, inserted “or [section 1638(b)(2)(C)(ii) of this title][/us/usc/t15/s1638/b/2/C/ii],” before “or for failing to comply” and “or [section 1638(b)(2)(C)(ii) of this title][/us/usc/t15/s1638/b/2/C/ii]” before “. With respect to”.
+    [Pub. L. 110–289][/us/pl/110/289], § 2502(b)(2), in concluding provisions, inserted “or [section 1638(b)(2)(C)(ii) of this title][/us/usc/t15/s1638/b/2/C/ii],” before “or for failing to comply” and “or [section 1638(b)(2)(C)(ii) of this title][/us/usc/t15/s1638/b/2/C/ii]” before “. With respect to”.
 
-    Subsec. (a)(2)(A)(iii). [Pub. L. 110–289, § 2502(b)(1)][/us/pl/110/289/s2502/b/1], substituted “not less than $400 or greater than $4,000” for “not less than $200 or greater than $2,000”.
+    Subsec. (a)(2)(A)(iii). [Pub. L. 110–289][/us/pl/110/289], § 2502(b)(1), substituted “not less than $400 or greater than $4,000” for “not less than $200 or greater than $2,000”.
 
-    Subsec. (a)(3). [Pub. L. 110–315, § 1012(a)(1)(A)][/us/pl/110/315/s1012/a/1/A], inserted “or 1638(e)(7)” after “section 1635”.
+    Subsec. (a)(3). [Pub. L. 110–315][/us/pl/110/315], § 1012(a)(1)(A), inserted “or 1638(e)(7)” after “section 1635”.
 
-    Subsec. (e). [Pub. L. 110–315, § 1012(a)(2)][/us/pl/110/315/s1012/a/2], inserted before period at end of first sentence “or, in the case of a violation involving a private education loan (as that term is defined in [section 1650(a) of this title][/us/usc/t15/s1650/a]), 1 year from the date on which the first regular payment of principal is due under the loan”.
+    Subsec. (e). [Pub. L. 110–315][/us/pl/110/315], § 1012(a)(2), inserted before period at end of first sentence “or, in the case of a violation involving a private education loan (as that term is defined in [section 1650(a) of this title][/us/usc/t15/s1650/a]), 1 year from the date on which the first regular payment of principal is due under the loan”.
 
-    Subsec. (j). [Pub. L. 110–315, § 1012(a)(3)][/us/pl/110/315/s1012/a/3], added subsec. (j).
+    Subsec. (j). [Pub. L. 110–315][/us/pl/110/315], § 1012(a)(3), added subsec. (j).
 
     1995—Subsec. (a)(2)(A)(iii). [Pub. L. 104–29][/us/pl/104/29] added cl. (iii).
 
     Subsec. (i). [Pub. L. 104–12][/us/pl/104/12] added subsec. (i).
 
-    1994—Subsec. (a)(4). [Pub. L. 103–325, § 153(a)][/us/pl/103/325/s153/a], added par. (4).
+    1994—Subsec. (a)(4). [Pub. L. 103–325][/us/pl/103/325], § 153(a), added par. (4).
 
-    Subsec. (e). [Pub. L. 103–325, § 153(b)][/us/pl/103/325/s153/b], inserted at end “An action to enforce a violation of [section 1639 of this title][/us/usc/t15/s1639] may also be brought by the appropriate State attorney general in any appropriate United States district court, or any other court of competent jurisdiction, not later than 3 years after the date on which the violation occurs. The State attorney general shall provide prior written notice of any such civil action to the Federal agency responsible for enforcement under [section 1607 of this title][/us/usc/t15/s1607] and shall provide the agency with a copy of the complaint. If prior notice is not feasible, the State attorney general shall provide notice to such agency immediately upon instituting the action. The Federal agency may—
+    Subsec. (e). [Pub. L. 103–325][/us/pl/103/325], § 153(b), inserted at end “An action to enforce a violation of [section 1639 of this title][/us/usc/t15/s1639] may also be brought by the appropriate State attorney general in any appropriate United States district court, or any other court of competent jurisdiction, not later than 3 years after the date on which the violation occurs. The State attorney general shall provide prior written notice of any such civil action to the Federal agency responsible for enforcement under [section 1607 of this title][/us/usc/t15/s1607] and shall provide the agency with a copy of the complaint. If prior notice is not feasible, the State attorney general shall provide notice to such agency immediately upon instituting the action. The Federal agency may—
 
     “(1) intervene in the action;
 
@@ -189,49 +189,49 @@
 
     1988—Subsec. (a). [Pub. L. 100–583][/us/pl/100/583] substituted “in subsections (a) and (b) of section 1637” for “in section 1637” in third sentence and inserted provisions limiting liability of card issuer under this section to cardholders who pay fee or use credit card or charge card.
 
-    1980—Subsec. (a). [Pub. L. 96–221, § 615(b)][/us/pl/96/221/s615/b], in introductory text inserted provisions respecting applicability of [section 1635 of this title][/us/usc/t15/s1635], and in text following numbered pars. inserted provisions relating to disclosures required under sections 1637 and 1638 of this title.
+    1980—Subsec. (a). [Pub. L. 96–221][/us/pl/96/221], § 615(b), in introductory text inserted provisions respecting applicability of [section 1635 of this title][/us/usc/t15/s1635], and in text following numbered pars. inserted provisions relating to disclosures required under sections 1637 and 1638 of this title.
 
-    Subsec. (a)(2)(B). [Pub. L. 96–221, § 615(a)(1)][/us/pl/96/221/s615/a/1], substituted provisions respecting recovery under this subparagraph in any class action or series of class actions, for provisions respecting recovery in a class action.
+    Subsec. (a)(2)(B). [Pub. L. 96–221][/us/pl/96/221], § 615(a)(1), substituted provisions respecting recovery under this subparagraph in any class action or series of class actions, for provisions respecting recovery in a class action.
 
-    Subsec. (a)(3). [Pub. L. 96–221, § 615(a)(2)][/us/pl/96/221/s615/a/2], inserted provisions relating to right of rescission under [section 1635 of this title][/us/usc/t15/s1635].
+    Subsec. (a)(3). [Pub. L. 96–221][/us/pl/96/221], § 615(a)(2), inserted provisions relating to right of rescission under [section 1635 of this title][/us/usc/t15/s1635].
 
-    Subsec. (b). [Pub. L. 96–221, § 615(a)(3)][/us/pl/96/221/s615/a/3], substituted provisions relating to correction of errors within sixty days by a creditor or assignee, for provisions relating to correction of errors within fifteen days by a creditor.
+    Subsec. (b). [Pub. L. 96–221][/us/pl/96/221], § 615(a)(3), substituted provisions relating to correction of errors within sixty days by a creditor or assignee, for provisions relating to correction of errors within fifteen days by a creditor.
 
-    Subsec. (c). [Pub. L. 96–221, § 615(a)(3)][/us/pl/96/221/s615/a/3], substituted provisions relating to liability of a creditor or assignee in any action brought under this section or [section 1635 of this title][/us/usc/t15/s1635], for provisions relating to liability of a creditor in any action brought under this section.
+    Subsec. (c). [Pub. L. 96–221][/us/pl/96/221], § 615(a)(3), substituted provisions relating to liability of a creditor or assignee in any action brought under this section or [section 1635 of this title][/us/usc/t15/s1635], for provisions relating to liability of a creditor in any action brought under this section.
 
-    Subsec. (d). [Pub. L. 96–221, § 615(a)(3)][/us/pl/96/221/s615/a/3], substituted provisions relating to liability in transaction or lease involving multiple obligors, for provisions relating to liability of subsequent assignees original creditor.
+    Subsec. (d). [Pub. L. 96–221][/us/pl/96/221], § 615(a)(3), substituted provisions relating to liability in transaction or lease involving multiple obligors, for provisions relating to liability of subsequent assignees original creditor.
 
-    Subsec. (e). [Pub. L. 96–221, § 615(a)(4)][/us/pl/96/221/s615/a/4], inserted provisions relating to limitations on actions.
+    Subsec. (e). [Pub. L. 96–221][/us/pl/96/221], § 615(a)(4), inserted provisions relating to limitations on actions.
 
-    Subsec. (f). [Pub. L. 96–221, § 615(a)(5)][/us/pl/96/221/s615/a/5], inserted references to section 1607(b), (c), and (e) of this title.
+    Subsec. (f). [Pub. L. 96–221][/us/pl/96/221], § 615(a)(5), inserted references to section 1607(b), (c), and (e) of this title.
 
-    Subsec. (g). [Pub. L. 96–221, § 615(a)(6)][/us/pl/96/221/s615/a/6], inserted provisions relating to remedy under [section 1635 of this title][/us/usc/t15/s1635].
+    Subsec. (g). [Pub. L. 96–221][/us/pl/96/221], § 615(a)(6), inserted provisions relating to remedy under [section 1635 of this title][/us/usc/t15/s1635].
 
-    Subsec. (h). [Pub. L. 96–221, § 615(a)(7)][/us/pl/96/221/s615/a/7], substituted provisions relating to offset from amounts owed to the creditor or assignee, and rights of defaulting consumer, for provisions relating to offset from amounts owed to the creditor.
+    Subsec. (h). [Pub. L. 96–221][/us/pl/96/221], § 615(a)(7), substituted provisions relating to offset from amounts owed to the creditor or assignee, and rights of defaulting consumer, for provisions relating to offset from amounts owed to the creditor.
 
-    1976—Subsec. (a). [Pub. L. 94–240, § 4(1)][/us/pl/94/240/s4/1], inserted “or E” after “part D”.
+    1976—Subsec. (a). [Pub. L. 94–240][/us/pl/94/240], § 4(1), inserted “or E” after “part D”.
 
-    Subsec. (a)(2)(A). [Pub. L. 94–240, § 4(2)][/us/pl/94/240/s4/2], designated existing provision as cl. (i) and added cl. (ii).
+    Subsec. (a)(2)(A). [Pub. L. 94–240][/us/pl/94/240], § 4(2), designated existing provision as cl. (i) and added cl. (ii).
 
-    Subsec. (a)(2)(B). [Pub. L. 94–240, § 4(3)][/us/pl/94/240/s4/3], substituted “lesser of $500,000” for “lesser of $100,000”.
+    Subsec. (a)(2)(B). [Pub. L. 94–240][/us/pl/94/240], § 4(3), substituted “lesser of $500,000” for “lesser of $100,000”.
 
-    Subsec. (b). [Pub. L. 94–240, § 4(4)][/us/pl/94/240/s4/4], inserted “or part E of this subchapter” after “this part” and struck out “finance” after “required to pay a”.
+    Subsec. (b). [Pub. L. 94–240][/us/pl/94/240], § 4(4), inserted “or part E of this subchapter” after “this part” and struck out “finance” after “required to pay a”.
 
     Subsec. (f). [Pub. L. 94–222][/us/pl/94/222] inserted “or in conformity with any interpretation or approval by an official or employee of the Federal Reserve System duly authorized by the Board to issue such interpretations or approvals under such procedures as the Board may prescribe therefor” after “by the Board”, and substituted “interpretation, or approval” for “or interpretation” before “is amended”.
 
-    Subsec. (g). [Pub. L. 94–240, § 4(5)][/us/pl/94/240/s4/5], inserted “or part D or E of this subchapter” after “this part”, and “consumer lease” after “consumer loan”.
+    Subsec. (g). [Pub. L. 94–240][/us/pl/94/240], § 4(5), inserted “or part D or E of this subchapter” after “this part”, and “consumer lease” after “consumer loan”.
 
-    1974—Subsec. (a). [Pub. L. 93–495, § 408(a)][/us/pl/93/495/s408/a], substituted provisions setting forth determination of amount of liability of any creditor failing to comply with any requirement imposed under part D of this subchapter or this part, for provisions setting forth determination of amount of liability of any creditor failing to disclose in connection with any consumer credit transaction any information required under this part to be disclosed to specified persons.
+    1974—Subsec. (a). [Pub. L. 93–495][/us/pl/93/495], § 408(a), substituted provisions setting forth determination of amount of liability of any creditor failing to comply with any requirement imposed under part D of this subchapter or this part, for provisions setting forth determination of amount of liability of any creditor failing to disclose in connection with any consumer credit transaction any information required under this part to be disclosed to specified persons.
 
-    Subsec. (b). [Pub. L. 93–495, § 408(b)][/us/pl/93/495/s408/b], inserted “for any failure to comply with any requirement imposed under this part,” before “if within”.
+    Subsec. (b). [Pub. L. 93–495][/us/pl/93/495], § 408(b), inserted “for any failure to comply with any requirement imposed under this part,” before “if within”.
 
-    Subsec. (c). [Pub. L. 93–495, § 408(c)][/us/pl/93/495/s408/c], substituted “subchapter” for “part”.
+    Subsec. (c). [Pub. L. 93–495][/us/pl/93/495], § 408(c), substituted “subchapter” for “part”.
 
-    Subsec. (f). [Pub. L. 93–495, § 406][/us/pl/93/495/s406], added subsec. (f).
+    Subsec. (f). [Pub. L. 93–495][/us/pl/93/495], § 406, added subsec. (f).
 
-    Subsec. (g). [Pub. L. 93–495, § 407][/us/pl/93/495/s407], added subsec. (g).
+    Subsec. (g). [Pub. L. 93–495][/us/pl/93/495], § 407, added subsec. (g).
 
-    Subsec. (h). [Pub. L. 93–495, § 408(d)][/us/pl/93/495/s408/d], added subsec. (h).
+    Subsec. (h). [Pub. L. 93–495][/us/pl/93/495], § 408(d), added subsec. (h).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -245,7 +245,7 @@
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–315, title X, § 1012(b)][/us/pl/110/315/s1012/b], Aug. 14, 2008, [122 Stat. 3482][/us/stat/122/3482], provided that: 
+[Pub. L. 110–315, title X][/us/pl/110/315/tX], § 1012(b), Aug. 14, 2008, [122 Stat. 3482][/us/stat/122/3482], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall have the same effective date as provisions referred to in section 1003(b) \[set out as a note under [section 1638 of this title][/us/usc/t15/s1638]\].”
 
@@ -263,7 +263,7 @@
 
  __Determination of Liability Prior to__  __October 28, 1974__ 
 
-[Pub. L. 93–495, title IV, § 408(e)][/us/pl/93/495/s408/e], Oct. 28, 1974, [88 Stat. 1519][/us/stat/88/1519], provided that: 
+[Pub. L. 93–495, title IV][/us/pl/93/495/tIV], § 408(e), Oct. 28, 1974, [88 Stat. 1519][/us/stat/88/1519], provided that: 
 
 > “The amendments made by sections 406, 407, and 408 \[amending this section\] shall apply in determining the liability of any person under chapter 2 or 4 of the Truth in Lending Act \[this part or part D of this subchapter\], unless prior to the date of enactment of this Act \[Oct. 28, 1974\] such liability has been determined by final judgment of a court of competent jurisdiction and no further review of such judgment may be had by appeal or otherwise.”
 
@@ -318,47 +318,47 @@
 [/us/usc/t15/s1638/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1638%2Fe%2F3
 [/us/usc/t15/s1639b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639b%2Fc
 [/us/usc/t15/s1639c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639c%2Fa
-[/us/pl/90/321/s130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs130
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
 [/us/stat/82/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F157
-[/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
+[/us/pl/93/495/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtIV
 [/us/stat/88/1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1518
-[/us/pl/94/222/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F222%2Fs3%2Fb
+[/us/pl/94/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F222
 [/us/stat/90/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F197
-[/us/pl/94/240/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240%2Fs4
+[/us/pl/94/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240
 [/us/stat/90/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F260
-[/us/pl/96/221/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs615
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F180
-[/us/pl/100/583/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F583%2Fs3
+[/us/pl/100/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F583
 [/us/stat/102/2966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2966
-[/us/pl/103/325/s153/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs153%2Fa
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2195
-[/us/pl/104/12/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F12%2Fs2
+[/us/pl/104/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F12
 [/us/stat/109/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F161
-[/us/pl/104/29/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29%2Fs6
+[/us/pl/104/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29
 [/us/stat/109/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F274
-[/us/pl/110/289/s2502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2502%2Fb
+[/us/pl/110/289/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdB%2FtV
 [/us/stat/122/2857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2857
-[/us/pl/110/315/s1012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs1012%2Fa
+[/us/pl/110/315/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtX
 [/us/stat/122/3482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3482
-[/us/pl/111/22/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs404%2Fb
+[/us/pl/111/22/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtIV
 [/us/stat/123/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1658
-[/us/pl/111/24/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs107
+[/us/pl/111/24/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtI
 [/us/stat/123/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1743
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
-[/us/pl/111/203/s1416/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1416%2Fa%2F1
-[/us/pl/111/203/s1416/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1416%2Fa%2F2
-[/us/pl/111/203/s1416/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1416%2Fa%2F3
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s1639b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639b%2Fc
 [/us/usc/t15/s1639c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639c%2Fa
 [/us/usc/t15/s1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639
-[/us/pl/111/203/s1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1422
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639
-[/us/pl/111/203/s1416/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1416%2Fb
-[/us/pl/111/203/s1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1413
-[/us/pl/111/203/s1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1417
-[/us/pl/111/24/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs201%2Fb
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24
 [/us/usc/t15/s1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637
 [/us/usc/t15/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1635
 [/us/usc/t15/s1637/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637%2Fb
@@ -372,55 +372,55 @@
 [/us/usc/t15/s1610/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1610%2Fa%2F2
 [/us/usc/t15/s1637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637%2Fa
 [/us/usc/t15/s1637/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637%2Fb
-[/us/pl/111/22/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs404%2Fb
+[/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
 [/us/usc/t15/s1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1641
 [/us/usc/t15/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1635
-[/us/pl/111/24/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs107
-[/us/pl/110/315/s1012/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs1012%2Fa%2F1%2FB
+[/us/pl/111/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t15/s1638/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1638%2Fe%2F2
 [/us/usc/t15/s1638/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1638%2Fe
 [/us/usc/t15/s1638/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1638%2Fe
-[/us/pl/110/289/s2502/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2502%2Fb%2F2
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/usc/t15/s1638/b/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1638%2Fb%2F2%2FC%2Fii
 [/us/usc/t15/s1638/b/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1638%2Fb%2F2%2FC%2Fii
-[/us/pl/110/289/s2502/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2502%2Fb%2F1
-[/us/pl/110/315/s1012/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs1012%2Fa%2F1%2FA
-[/us/pl/110/315/s1012/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs1012%2Fa%2F2
+[/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t15/s1650/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1650%2Fa
-[/us/pl/110/315/s1012/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs1012%2Fa%2F3
+[/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/pl/104/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29
 [/us/pl/104/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F12
-[/us/pl/103/325/s153/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs153%2Fa
-[/us/pl/103/325/s153/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs153%2Fb
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/usc/t15/s1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639
 [/us/usc/t15/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1607
 [/us/pl/100/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F583
-[/us/pl/96/221/s615/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs615%2Fb
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/usc/t15/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1635
-[/us/pl/96/221/s615/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs615%2Fa%2F1
-[/us/pl/96/221/s615/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs615%2Fa%2F2
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/usc/t15/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1635
-[/us/pl/96/221/s615/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs615%2Fa%2F3
-[/us/pl/96/221/s615/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs615%2Fa%2F3
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/usc/t15/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1635
-[/us/pl/96/221/s615/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs615%2Fa%2F3
-[/us/pl/96/221/s615/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs615%2Fa%2F4
-[/us/pl/96/221/s615/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs615%2Fa%2F5
-[/us/pl/96/221/s615/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs615%2Fa%2F6
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/usc/t15/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1635
-[/us/pl/96/221/s615/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs615%2Fa%2F7
-[/us/pl/94/240/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240%2Fs4%2F1
-[/us/pl/94/240/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240%2Fs4%2F2
-[/us/pl/94/240/s4/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240%2Fs4%2F3
-[/us/pl/94/240/s4/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240%2Fs4%2F4
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/94/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240
+[/us/pl/94/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240
+[/us/pl/94/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240
+[/us/pl/94/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240
 [/us/pl/94/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F222
-[/us/pl/94/240/s4/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240%2Fs4%2F5
-[/us/pl/93/495/s408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs408%2Fa
-[/us/pl/93/495/s408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs408%2Fb
-[/us/pl/93/495/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs408%2Fc
-[/us/pl/93/495/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs406
-[/us/pl/93/495/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs407
-[/us/pl/93/495/s408/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs408%2Fd
+[/us/pl/94/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240
+[/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
+[/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
+[/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
+[/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
+[/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
+[/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
 [/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
@@ -430,7 +430,7 @@
 [/us/pl/111/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24
 [/us/pl/111/24/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs3
 [/us/usc/t15/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602
-[/us/pl/110/315/s1012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs1012%2Fb
+[/us/pl/110/315/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtX
 [/us/stat/122/3482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3482
 [/us/usc/t15/s1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1638
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
@@ -442,7 +442,7 @@
 [/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
 [/us/pl/93/495/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs416
 [/us/usc/t15/s1665a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1665a
-[/us/pl/93/495/s408/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs408%2Fe
+[/us/pl/93/495/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtIV
 [/us/stat/88/1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1519
 
 

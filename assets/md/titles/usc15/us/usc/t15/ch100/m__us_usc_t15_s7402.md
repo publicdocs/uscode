@@ -25,7 +25,7 @@
 
         The term “institution of higher education” has the meaning given that term in [section 1001(a) of title 20][/us/usc/t20/s1001/a].
 
-([Pub. L. 107–305, § 3][/us/pl/107/305/s3], Nov. 27, 2002, [116 Stat. 2368][/us/stat/116/2368].)
+([Pub. L. 107–305][/us/pl/107/305], § 3, Nov. 27, 2002, [116 Stat. 2368][/us/stat/116/2368].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t20/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fa
-[/us/pl/107/305/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305%2Fs3
+[/us/pl/107/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305
 [/us/stat/116/2368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2368
 [/us/pl/107/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305
 [/us/stat/116/2367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2367

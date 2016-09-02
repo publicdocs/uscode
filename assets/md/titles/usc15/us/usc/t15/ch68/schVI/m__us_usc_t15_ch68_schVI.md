@@ -11,58 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch68/schV/m__us_usc_t15_ch68_schV.md) | [Next](./../../../../..//us/usc/t15/ch68/schVII/m__us_usc_t15_ch68_schVII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch68%2FschVI)
+[Previous](./../../../../..//us/usc/t15/ch68/schV/m__us_usc_t15_s4261...4264.md) | [Next](./../../../../..//us/usc/t15/ch68/schVI/m__us_usc_t15_s4271...4278.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch68%2FschVI)
 
 ### SUBCHAPTER VI—GENERAL PROVISIONS
 
-§§ 4271 to 4278. __Repealed.__  __[__  __Pub. L. 102–555, § 4__  __][/us/pl/102/555/s4]__  __,__  __Oct. 28, 1992__  __,__  __[__  __106 Stat. 4166__  __][/us/stat/106/4166]__ 
-
-    Section 4271, [Pub. L. 98–365, title VI, § 601][/us/pl/98/365/s601], July 17, 1984, [98 Stat. 463][/us/stat/98/463], related to nondiscriminatory availability of unenhanced data and public availability of terms and conditions for data sales.
-
-    Section 4272, [Pub. L. 98–365, title VI, § 602][/us/pl/98/365/s602], July 17, 1984, [98 Stat. 463][/us/stat/98/463]; [Pub. L. 102–567, title I, § 114(c)][/us/pl/102/567/s114/c], Oct. 29, 1992, [106 Stat. 4279][/us/stat/106/4279], provided for archiving of land remote-sensing data.
-
-    Section 4273, [Pub. L. 98–365, title VI, § 603][/us/pl/98/365/s603], July 17, 1984, [98 Stat. 464][/us/stat/98/464]; [Pub. L. 100–147, title III, § 308][/us/pl/100/147/s308], Oct. 30, 1987, [101 Stat. 877][/us/stat/101/877], related to nonreproduction of unenhanced data.
-
-    Section 4274, [Pub. L. 98–365, title VI, § 604][/us/pl/98/365/s604], July 17, 1984, [98 Stat. 464][/us/stat/98/464], related to reimbursement of Federal agencies for assistance to remote-sensing system operators.
-
-    Section 4275, [Pub. L. 98–365, title VI, § 605][/us/pl/98/365/s605], July 17, 1984, [98 Stat. 464][/us/stat/98/464], related to acquisition of equipment from Landsat system.
-
-    Section 4276, [Pub. L. 98–365, title VI, § 606][/us/pl/98/365/s606], July 17, 1984, [98 Stat. 465][/us/stat/98/465], related to radio frequency allocation.
-
-    Section 4277, [Pub. L. 98–365, title VI, § 607][/us/pl/98/365/s607], July 17, 1984, [98 Stat. 465][/us/stat/98/465], directed Secretary of Commerce to consult with Secretary of Defense on chapter’s effect on national security matters, with Secretary of State on chapter’s effect on international obligations, and provided for reimbursement of system operators for certain costs.
-
-    Section 4278, [Pub. L. 98–365, title VI, § 609][/us/pl/98/365/s609], July 17, 1984, [98 Stat. 466][/us/stat/98/466]; [Pub. L. 99–62][/us/pl/99/62], July 11, 1985, [99 Stat. 118][/us/stat/99/118], authorized appropriations for chapter.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch68/schV/m__us_usc_t15_ch68_schV.md) | [Next](./../../../../..//us/usc/t15/ch68/schVII/m__us_usc_t15_ch68_schVII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch68%2FschVI)
+[Previous](./../../../../..//us/usc/t15/ch68/schV/m__us_usc_t15_s4261...4264.md) | [Next](./../../../../..//us/usc/t15/ch68/schVI/m__us_usc_t15_s4271...4278.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch68%2FschVI)
 
 ----------
 ----------
 
-[/us/pl/102/555/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F555%2Fs4
-[/us/stat/106/4166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4166
-[/us/pl/98/365/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs601
-[/us/stat/98/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F463
-[/us/pl/98/365/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs602
-[/us/stat/98/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F463
-[/us/pl/102/567/s114/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs114%2Fc
-[/us/stat/106/4279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4279
-[/us/pl/98/365/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs603
-[/us/stat/98/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F464
-[/us/pl/100/147/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F147%2Fs308
-[/us/stat/101/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F877
-[/us/pl/98/365/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs604
-[/us/stat/98/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F464
-[/us/pl/98/365/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs605
-[/us/stat/98/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F464
-[/us/pl/98/365/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs606
-[/us/stat/98/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F465
-[/us/pl/98/365/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs607
-[/us/stat/98/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F465
-[/us/pl/98/365/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs609
-[/us/stat/98/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F466
-[/us/pl/99/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F62
-[/us/stat/99/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F118
 
 

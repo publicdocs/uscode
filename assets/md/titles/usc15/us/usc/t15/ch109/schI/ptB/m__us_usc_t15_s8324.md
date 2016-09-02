@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of this title, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  nothing in this subtitle shall be construed as divesting any appropriate Federal banking agency of any authority it may have to establish or enforce, with respect to a person for which such agency is the appropriate Federal banking agency, prudential or other standards pursuant to authority granted by Federal law other than this title. <sup>\[1\]</sup> 
 
-([Pub. L. 111–203, title VII, § 741(c)][/us/pl/111/203/s741/c], July 21, 2010, [124 Stat. 1732][/us/stat/124/1732].)
+([Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 741(c), July 21, 2010, [124 Stat. 1732][/us/stat/124/1732].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s741/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs741%2Fc
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1732
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1641

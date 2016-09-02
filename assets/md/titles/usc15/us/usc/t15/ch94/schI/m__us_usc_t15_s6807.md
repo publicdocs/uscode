@@ -23,7 +23,7 @@
 
         For purposes of this section, a State statute, regulation, order, or interpretation is not inconsistent with the provisions of this subchapter if the protection such statute, regulation, order, or interpretation affords any person is greater than the protection provided under this subchapter and the amendments made by this subchapter, as determined by the Bureau of Consumer Financial Protection, after consultation with the agency or authority with jurisdiction under [section 6805(a) of this title][/us/usc/t15/s6805/a] of either the person that initiated the complaint or that is the subject of the complaint, on its own motion or upon the petition of any interested party.
 
-([Pub. L. 106–102, title V, § 507][/us/pl/106/102/s507], Nov. 12, 1999, [113 Stat. 1442][/us/stat/113/1442]; [Pub. L. 111–203, title X, § 1093(6)][/us/pl/111/203/s1093/6], July 21, 2010, [124 Stat. 2097][/us/stat/124/2097].)
+([Pub. L. 106–102, title V][/us/pl/106/102/tV], § 507, Nov. 12, 1999, [113 Stat. 1442][/us/stat/113/1442]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1093(6), July 21, 2010, [124 Stat. 2097][/us/stat/124/2097].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t15/s6805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6805%2Fa
-[/us/pl/106/102/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs507
+[/us/pl/106/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtV
 [/us/stat/113/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1442
-[/us/pl/111/203/s1093/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1093%2F6
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2097
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/stat/113/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1436

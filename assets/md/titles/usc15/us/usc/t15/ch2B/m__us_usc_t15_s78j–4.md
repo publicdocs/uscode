@@ -27,7 +27,7 @@
 
         (2) that, in the event that the issuer is required to prepare an accounting restatement due to the material noncompliance of the issuer with any financial reporting requirement under the securities laws, the issuer will recover from any current or former executive officer of the issuer who received incentive-based compensation (including stock options awarded as compensation) during the 3-year period preceding the date on which the issuer is required to prepare an accounting restatement, based on the erroneous data, in  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “compensation in”. </sup></sup>  excess of what would have been paid to the executive officer under the accounting restatement.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 10D, as added [Pub. L. 111–203, title IX, § 954][/us/pl/111/203/s954], July 21, 2010, [124 Stat. 1904][/us/stat/124/1904].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 10D, as added [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 954, July 21, 2010, [124 Stat. 1904][/us/stat/124/1904].)
 
  __Effective Date__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/111/203/s954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs954
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1904
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

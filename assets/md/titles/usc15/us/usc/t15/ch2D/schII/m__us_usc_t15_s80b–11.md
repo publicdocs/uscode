@@ -67,7 +67,7 @@
 
         the Commission shall seek to prosecute and sanction violators of the standard of conduct applicable to an investment adviser under this subchapter to same extent as the Commission prosecutes and sanctions violators of the standard of conduct applicable to a broker or dealer providing personalized investment advice about securities to a retail customer under the Securities Exchange Act of 1934 \[[15 U.S.C. 78a][/us/usc/t15/s78a] et seq.\].
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 211, [54 Stat. 855][/us/stat/54/855]; [Pub. L. 86–507, § 1(16)][/us/pl/86/507/s1/16], June 11, 1960, [74 Stat. 201][/us/stat/74/201]; [Pub. L. 86–750, § 14][/us/pl/86/750/s14], Sept. 13, 1960, [74 Stat. 888][/us/stat/74/888]; [Pub. L. 100–181, title VII, § 705][/us/pl/100/181/s705], Dec. 4, 1987, [101 Stat. 1264][/us/stat/101/1264]; [Pub. L. 111–203, title IV, § 406][/us/pl/111/203/s406], title IX, § 913(g)(2), (h)(2), July 21, 2010, [124 Stat. 1574][/us/stat/124/1574], 1828, 1829.)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 211, [54 Stat. 855][/us/stat/54/855]; [Pub. L. 86–507][/us/pl/86/507], § 1(16), June 11, 1960, [74 Stat. 201][/us/stat/74/201]; [Pub. L. 86–750][/us/pl/86/750], § 14, Sept. 13, 1960, [74 Stat. 888][/us/stat/74/888]; [Pub. L. 100–181, title VII][/us/pl/100/181/tVII], § 705, Dec. 4, 1987, [101 Stat. 1264][/us/stat/101/1264]; [Pub. L. 111–203, title IV][/us/pl/111/203/tIV], § 406, title IX, § 913(g)(2), (h)(2), July 21, 2010, [124 Stat. 1574][/us/stat/124/1574], 1828, 1829.)
 
  __References in Text__ 
 
@@ -77,13 +77,13 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 406(1)][/us/pl/111/203/s406/1], inserted “, including rules and regulations defining technical, trade, and other terms used in this subchapter, except that the Commission may not define the term ‘client’ for purposes of paragraphs (1) and (2) of [section 80b–6 of this title][/us/usc/t15/s80b–6] to include an investor in a private fund managed by an investment adviser, if such private fund has entered into an advisory contract with such adviser” after “elsewhere in this subchapter”.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 406(1), inserted “, including rules and regulations defining technical, trade, and other terms used in this subchapter, except that the Commission may not define the term ‘client’ for purposes of paragraphs (1) and (2) of [section 80b–6 of this title][/us/usc/t15/s80b–6] to include an investor in a private fund managed by an investment adviser, if such private fund has entered into an advisory contract with such adviser” after “elsewhere in this subchapter”.
 
-    Subsec. (e). [Pub. L. 111–203, § 406(2)][/us/pl/111/203/s406/2], which directed addition of subsec. (e) at end of section, was executed by adding subsec. (e) after subsec. (d) to reflect the probable intent of Congress. See Effective Date of 2010 Amendment notes below.
+    Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 406(2), which directed addition of subsec. (e) at end of section, was executed by adding subsec. (e) after subsec. (d) to reflect the probable intent of Congress. See Effective Date of 2010 Amendment notes below.
 
-    Subsecs. (g), (h). [Pub. L. 111–203, § 913(g)(2)][/us/pl/111/203/s913/g/2], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 111–203][/us/pl/111/203], § 913(g)(2), added subsecs. (g) and (h).
 
-    Subsec. (i). [Pub. L. 111–203, § 913(h)(2)][/us/pl/111/203/s913/h/2], added subsec. (i).
+    Subsec. (i). [Pub. L. 111–203][/us/pl/111/203], § 913(h)(2), added subsec. (i).
 
     1987—Subsec. (b). [Pub. L. 100–181][/us/pl/100/181] substituted “chapter 15 of title 44” for “the Federal Register Act”.
 
@@ -103,7 +103,7 @@
 
  __Study on Enhancing Investment Adviser Examinations__ 
 
-[Pub. L. 111–203, title IX, § 914][/us/pl/111/203/s914], July 21, 2010, [124 Stat. 1830][/us/stat/124/1830], provided that:
+[Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 914, July 21, 2010, [124 Stat. 1830][/us/stat/124/1830], provided that:
 
 >     “(a) __Study Required.—__ 
 
@@ -140,13 +140,13 @@
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F855
-[/us/pl/86/507/s1/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507%2Fs1%2F16
+[/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 [/us/stat/74/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F201
-[/us/pl/86/750/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750%2Fs14
+[/us/pl/86/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750
 [/us/stat/74/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F888
-[/us/pl/100/181/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs705
+[/us/pl/100/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVII
 [/us/stat/101/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1264
-[/us/pl/111/203/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs406
+[/us/pl/111/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIV
 [/us/stat/124/1574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1574
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998
@@ -154,11 +154,11 @@
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/111/203/s406/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs406%2F1
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s80b–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%936
-[/us/pl/111/203/s406/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs406%2F2
-[/us/pl/111/203/s913/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs913%2Fg%2F2
-[/us/pl/111/203/s913/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs913%2Fh%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/86/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750
 [/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
@@ -170,7 +170,7 @@
 [/us/usc/t15/s80b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%932
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t15/s78d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d
-[/us/pl/111/203/s914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs914
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1830
 [/us/pl/111/203/s914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs914
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

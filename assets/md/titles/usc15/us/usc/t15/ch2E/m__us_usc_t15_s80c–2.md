@@ -17,7 +17,7 @@
 
     For fiscal year 1982, and for each of the three succeeding fiscal years, there are hereby authorized to be appropriated such amounts as may be necessary and appropriate to carry out the provisions and purposes of this chapter. Any sums so appropriated shall remain available until expended.
 
-([Pub. L. 96–477, title V, § 504][/us/pl/96/477/s504], Oct. 21, 1980, [94 Stat. 2292][/us/stat/94/2292].)
+([Pub. L. 96–477, title V][/us/pl/96/477/tV], § 504, Oct. 21, 1980, [94 Stat. 2292][/us/stat/94/2292].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/477/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2Fs504
+[/us/pl/96/477/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2FtV
 [/us/stat/94/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2292
 
 

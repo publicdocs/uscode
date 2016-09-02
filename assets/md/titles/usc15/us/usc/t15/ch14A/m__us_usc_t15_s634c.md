@@ -29,7 +29,7 @@
 
     (6) carry out the responsibilities of the Office of Advocacy under chapter 6 of title 5.
 
-([Pub. L. 94–305, title II, § 203][/us/pl/94/305/s203], June 4, 1976, [90 Stat. 669][/us/stat/90/669]; [Pub. L. 111–240, title I, § 1602(a)][/us/pl/111/240/s1602/a], Sept. 27, 2010, [124 Stat. 2551][/us/stat/124/2551].)
+([Pub. L. 94–305, title II][/us/pl/94/305/tII], § 203, June 4, 1976, [90 Stat. 669][/us/stat/90/669]; [Pub. L. 111–240, title I][/us/pl/111/240/tI], § 1602(a), Sept. 27, 2010, [124 Stat. 2551][/us/stat/124/2551].)
 
  __Codification__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/94/305/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2Fs203
+[/us/pl/94/305/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2FtII
 [/us/stat/90/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F669
-[/us/pl/111/240/s1602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1602%2Fa
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2551
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 

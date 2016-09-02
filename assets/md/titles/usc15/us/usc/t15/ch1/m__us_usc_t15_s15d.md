@@ -17,7 +17,7 @@
 
     In any action under [section 15c(a)(1) of this title][/us/usc/t15/s15c/a/1], in which there has been a determination that a defendant agreed to fix prices in violation of sections 1 to 7 of this title, damages may be proved and assessed in the aggregate by statistical or sampling methods, by the computation of illegal overcharges, or by such other reasonable system of estimating aggregate damages as the court in its discretion may permit without the necessity of separately proving the individual claim of, or amount of damage to, persons on whose behalf the suit was brought.
 
-([Oct. 15, 1914, ch. 323, § 4D][/us/act/1914-10-15/ch323/s4D], as added [Pub. L. 94–435, title III, § 301][/us/pl/94/435/s301], Sept. 30, 1976, [90 Stat. 1395][/us/stat/90/1395].)
+([Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], § 4D, as added [Pub. L. 94–435, title III][/us/pl/94/435/tIII], § 301, Sept. 30, 1976, [90 Stat. 1395][/us/stat/90/1395].)
 
  __Effective Date__ 
 
@@ -31,8 +31,8 @@
 ----------
 
 [/us/usc/t15/s15c/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs15c%2Fa%2F1
-[/us/act/1914-10-15/ch323/s4D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323%2Fs4D
-[/us/pl/94/435/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs301
+[/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
+[/us/pl/94/435/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2FtIII
 [/us/stat/90/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1395
 [/us/pl/94/435/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs304
 [/us/usc/t15/s15c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs15c

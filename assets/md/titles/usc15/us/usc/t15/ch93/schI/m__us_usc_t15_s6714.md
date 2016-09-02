@@ -39,7 +39,7 @@
 
         The court shall decide a petition filed under this section based on its review on the merits of all questions presented under State and Federal law, including the nature of the product or activity and the history and purpose of its regulation under State and Federal law, without unequal deference.
 
-([Pub. L. 106–102, title III, § 304][/us/pl/106/102/s304], Nov. 12, 1999, [113 Stat. 1409][/us/stat/113/1409].)
+([Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 304, Nov. 12, 1999, [113 Stat. 1409][/us/stat/113/1409].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/106/102/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs304
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1409
 
 

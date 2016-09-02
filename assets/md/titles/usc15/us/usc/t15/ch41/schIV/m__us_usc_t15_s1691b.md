@@ -43,17 +43,17 @@
 
         Notwithstanding any power granted to any Federal agency under this subchapter, the deference that a court affords to a Federal agency with respect to a determination made by such agency relating to the meaning or interpretation of any provision of this subchapter that is subject to the jurisdiction of such agency shall be applied as if that agency were the only agency authorized to apply, enforce, interpret, or administer the provisions of this subchapter  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be followed by a period. </sup></sup> 
 
-([Pub. L. 90–321, title VII, § 703][/us/pl/90/321/s703], as added [Pub. L. 93–495, title V, § 503][/us/pl/93/495/s503], Oct. 28, 1974, [88 Stat. 1522][/us/stat/88/1522]; amended [Pub. L. 94–239, § 3(a)][/us/pl/94/239/s3/a], Mar. 23, 1976, [90 Stat. 252][/us/stat/90/252]; [Pub. L. 100–533, title III, § 301][/us/pl/100/533/s301], Oct. 25, 1988, [102 Stat. 2692][/us/stat/102/2692]; [Pub. L. 111–203, title X, § 1085(1)][/us/pl/111/203/s1085/1], (3), July 21, 2010, [124 Stat. 2083][/us/stat/124/2083].)
+([Pub. L. 90–321, title VII][/us/pl/90/321/tVII], § 703, as added [Pub. L. 93–495, title V][/us/pl/93/495/tV], § 503, Oct. 28, 1974, [88 Stat. 1522][/us/stat/88/1522]; amended [Pub. L. 94–239][/us/pl/94/239], § 3(a), Mar. 23, 1976, [90 Stat. 252][/us/stat/90/252]; [Pub. L. 100–533, title III][/us/pl/100/533/tIII], § 301, Oct. 25, 1988, [102 Stat. 2692][/us/stat/102/2692]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1085(1), (3), July 21, 2010, [124 Stat. 2083][/us/stat/124/2083].)
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 1085(3)(A)][/us/pl/111/203/s1085/3/A], substituted “Promulgation of regulations by the Bureau” for “Regulations” in section catchline.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1085(3)(A), substituted “Promulgation of regulations by the Bureau” for “Regulations” in section catchline.
 
-    [Pub. L. 111–203, § 1085(1)][/us/pl/111/203/s1085/1], substituted “Bureau” for “Board” wherever appearing.
+    [Pub. L. 111–203][/us/pl/111/203], § 1085(1), substituted “Bureau” for “Board” wherever appearing.
 
-    Subsecs. (a) to (e). [Pub. L. 111–203, § 1085(3)(B)][/us/pl/111/203/s1085/3/B]–(E), in subsec. (a), struck out “(a)” designation before “(1)”, redesignated subsec. (a) pars. (1) to (5) as subsecs. (a) to (e), respectively, in subsec. (c) substituted “subsection (b)” for “paragraph (2)”, and struck out former subsec. (b), which related to establishment of a Consumer Advisory Council to advise and consult with the Board.
+    Subsecs. (a) to (e). [Pub. L. 111–203][/us/pl/111/203], § 1085(3)(B)–(E), in subsec. (a), struck out “(a)” designation before “(1)”, redesignated subsec. (a) pars. (1) to (5) as subsecs. (a) to (e), respectively, in subsec. (c) substituted “subsection (b)” for “paragraph (2)”, and struck out former subsec. (b), which related to establishment of a Consumer Advisory Council to advise and consult with the Board.
 
-    Subsecs. (f), (g). [Pub. L. 111–203, § 1085(3)(F)][/us/pl/111/203/s1085/3/F], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 111–203][/us/pl/111/203], § 1085(3)(F), added subsecs. (f) and (g).
 
     1988—Subsec. (a). [Pub. L. 100–533][/us/pl/100/533] amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Board shall prescribe regulations to carry out the purposes of this subchapter. These regulations may contain but are not limited to such classifications, differentiation, or other provision, and may provide for such adjustments and exceptions for any class of transactions, as in the judgment of the Board are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion thereof, or to facilitate or substantiate compliance therewith. In particular, such regulations may exempt from one or more of the provisions of this subchapter any class of transactions not primarily for personal, family, or household purposes, if the Board makes an express finding that the application of such provision or provisions would not contribute substantially to carrying out the purposes of this subchapter. Such regulations shall be prescribed as soon as possible after the date of enactment of this Act, but in no event later than the effective date of this Act.”
 
@@ -75,19 +75,19 @@
 ----------
 
 [/us/usc/t12/s5519/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5519%2Fa
-[/us/pl/90/321/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs703
-[/us/pl/93/495/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs503
+[/us/pl/90/321/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVII
+[/us/pl/93/495/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtV
 [/us/stat/88/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1522
-[/us/pl/94/239/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239%2Fs3%2Fa
+[/us/pl/94/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239
 [/us/stat/90/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F252
-[/us/pl/100/533/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs301
+[/us/pl/100/533/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2FtIII
 [/us/stat/102/2692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2692
-[/us/pl/111/203/s1085/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1085%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2083
-[/us/pl/111/203/s1085/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1085%2F3%2FA
-[/us/pl/111/203/s1085/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1085%2F1
-[/us/pl/111/203/s1085/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1085%2F3%2FB
-[/us/pl/111/203/s1085/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1085%2F3%2FF
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/100/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533
 [/us/pl/94/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

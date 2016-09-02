@@ -153,7 +153,7 @@
 
         SIPC shall be deemed to be a party in interest as to all matters arising in a liquidation proceeding, with the right to be heard on all such matters, and shall be deemed to have intervened with respect to all such matters with the same force and effect as if a petition for such purpose had been allowed by the court.
 
-([Pub. L. 91–598, § 5][/us/pl/91/598/s5], Dec. 30, 1970, [84 Stat. 1644][/us/stat/84/1644]; [Pub. L. 95–283, § 7][/us/pl/95/283/s7], May 21, 1978, [92 Stat. 254][/us/stat/92/254]; [Pub. L. 95–598, title III, § 308(a)][/us/pl/95/598/s308/a]–(f), Nov. 6, 1978, [92 Stat. 2674][/us/stat/92/2674]; [Pub. L. 109–8, title IX, § 911][/us/pl/109/8/s911], Apr. 20, 2005, [119 Stat. 185][/us/stat/119/185]; [Pub. L. 109–390, § 5(c)][/us/pl/109/390/s5/c], Dec. 12, 2006, [120 Stat. 2698][/us/stat/120/2698]; [Pub. L. 111–203, title IX, § 929H(b)][/us/pl/111/203/s929H/b], July 21, 2010, [124 Stat. 1857][/us/stat/124/1857].)
+([Pub. L. 91–598][/us/pl/91/598], § 5, Dec. 30, 1970, [84 Stat. 1644][/us/stat/84/1644]; [Pub. L. 95–283][/us/pl/95/283], § 7, May 21, 1978, [92 Stat. 254][/us/stat/92/254]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 308(a)–(f), Nov. 6, 1978, [92 Stat. 2674][/us/stat/92/2674]; [Pub. L. 109–8, title IX][/us/pl/109/8/tIX], § 911, Apr. 20, 2005, [119 Stat. 185][/us/stat/119/185]; [Pub. L. 109–390][/us/pl/109/390], § 5(c), Dec. 12, 2006, [120 Stat. 2698][/us/stat/120/2698]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 929H(b), July 21, 2010, [124 Stat. 1857][/us/stat/124/1857].)
 
  __References in Text__ 
 
@@ -175,31 +175,31 @@
 
     2005—Subsec. (b)(2)(C). [Pub. L. 109–8][/us/pl/109/8] added subpar. (C).
 
-    1978—Subsec. (a). [Pub. L. 95–283, § 7(a)][/us/pl/95/283/s7/a], added par. (2), redesignated former par. (2) as (3) and, as so redesignated, revised format of provisions by setting out cls. (A) and (B) and inserted provisions relating to any person who was a member within 180 days prior to such determination and provisions relating to claims filed under [section 78fff–3 of this title][/us/usc/t15/s78fff–3], and redesignated former par. (3) as (4) and, as so redesignated, substituted “with respect to a member of SIPC filed with a court under paragraph (3)” for “under paragraph (2)” in introductory text and inserted “may,” before “with the” in cl. (A).
+    1978—Subsec. (a). [Pub. L. 95–283][/us/pl/95/283], § 7(a), added par. (2), redesignated former par. (2) as (3) and, as so redesignated, revised format of provisions by setting out cls. (A) and (B) and inserted provisions relating to any person who was a member within 180 days prior to such determination and provisions relating to claims filed under [section 78fff–3 of this title][/us/usc/t15/s78fff–3], and redesignated former par. (3) as (4) and, as so redesignated, substituted “with respect to a member of SIPC filed with a court under paragraph (3)” for “under paragraph (2)” in introductory text and inserted “may,” before “with the” in cl. (A).
 
-    Subsec. (b)(1)(A). [Pub. L. 95–598, § 308(a)(1)][/us/pl/95/598/s308/a/1], substituted “[section 101 of title 11][/us/usc/t11/s101]” for “the Bankruptcy Act”.
+    Subsec. (b)(1)(A). [Pub. L. 95–598][/us/pl/95/598], § 308(a)(1), substituted “[section 101 of title 11][/us/usc/t11/s101]” for “the Bankruptcy Act”.
 
-    Subsec. (b)(1)(B) to (E). [Pub. L. 95–598, § 308(a)(2)][/us/pl/95/598/s308/a/2], (3), redesignated subpars. (C) to (E) as subpars. (B) to (D), respectively. Former subpar. (B), which provided for issuance of protective decree where court found that debtor had committed act of bankruptcy within meaning of Bankruptcy Act, was struck out.
+    Subsec. (b)(1)(B) to (E). [Pub. L. 95–598][/us/pl/95/598], § 308(a)(2), (3), redesignated subpars. (C) to (E) as subpars. (B) to (D), respectively. Former subpar. (B), which provided for issuance of protective decree where court found that debtor had committed act of bankruptcy within meaning of Bankruptcy Act, was struck out.
 
-    Subsec. (b)(2)(A)(iii). [Pub. L. 95–598, § 308(b)][/us/pl/95/598/s308/b], substituted “the United States having jurisdiction over cases under title 11” for “bankruptcy by the Bankruptcy Act”.
+    Subsec. (b)(2)(A)(iii). [Pub. L. 95–598][/us/pl/95/598], § 308(b), substituted “the United States having jurisdiction over cases under title 11” for “bankruptcy by the Bankruptcy Act”.
 
-    Subsec. (b)(2)(B)(iii). [Pub. L. 95–598, § 308(c)][/us/pl/95/598/s308/c], substituted “any right of setoff, except to the extent such right may be affected under [section 553 of title 11][/us/usc/t11/s553], and shall not abrogate” for “the right of setoff provided in section 68 of the Bankruptcy Act”.
+    Subsec. (b)(2)(B)(iii). [Pub. L. 95–598][/us/pl/95/598], § 308(c), substituted “any right of setoff, except to the extent such right may be affected under [section 553 of title 11][/us/usc/t11/s553], and shall not abrogate” for “the right of setoff provided in section 68 of the Bankruptcy Act”.
 
-    Subsec. (b)(3). [Pub. L. 95–598, § 308(d)][/us/pl/95/598/s308/d], substituted “[section 322 of title 11][/us/usc/t11/s322]” for “the applicable provisions of the Bankruptcy Act”.
+    Subsec. (b)(3). [Pub. L. 95–598][/us/pl/95/598], § 308(d), substituted “[section 322 of title 11][/us/usc/t11/s322]” for “the applicable provisions of the Bankruptcy Act”.
 
-    Subsec. (b)(4). [Pub. L. 95–598, § 308(e)][/us/pl/95/598/s308/e], substituted provisions relating to removal of proceeding to Bankruptcy Court for provisions relating to reference of proceeding to referee in bankruptcy.
+    Subsec. (b)(4). [Pub. L. 95–598][/us/pl/95/598], § 308(e), substituted provisions relating to removal of proceeding to Bankruptcy Court for provisions relating to reference of proceeding to referee in bankruptcy.
 
-    Subsec. (b)(5)(B). [Pub. L. 95–598, § 308(f)(1)][/us/pl/95/598/s308/f/1], (2), (5), redesignated subpar. (C) as (B) and substituted “title 11 governing applications for allowances under such title” for “the Bankruptcy Act governing applications for allowances under such Act”. Former subpar. (B), which covered allowances to a referee in bankruptcy or special master, was struck out.
+    Subsec. (b)(5)(B). [Pub. L. 95–598][/us/pl/95/598], § 308(f)(1), (2), (5), redesignated subpar. (C) as (B) and substituted “title 11 governing applications for allowances under such title” for “the Bankruptcy Act governing applications for allowances under such Act”. Former subpar. (B), which covered allowances to a referee in bankruptcy or special master, was struck out.
 
-    Subsec. (b)(5)(C). [Pub. L. 95–598, § 308(f)(2)][/us/pl/95/598/s308/f/2], (3), (5), redesignated subpar. (D) as (C) and substituted “subparagraph (B)” for “subparagraph (C)”. Former subpar. (C) redesignated (B).
+    Subsec. (b)(5)(C). [Pub. L. 95–598][/us/pl/95/598], § 308(f)(2), (3), (5), redesignated subpar. (D) as (C) and substituted “subparagraph (B)” for “subparagraph (C)”. Former subpar. (C) redesignated (B).
 
-    Subsec. (b)(5)(D). [Pub. L. 95–598, § 308(f)(2)][/us/pl/95/598/s308/f/2], (4), (5), redesignated subpar. (E) as (D) and substituted “[Section 504 of title 11][/us/usc/t11/s504]” for “the Bankruptcy Act”. Former subpar. (D) redesignated (C).
+    Subsec. (b)(5)(D). [Pub. L. 95–598][/us/pl/95/598], § 308(f)(2), (4), (5), redesignated subpar. (E) as (D) and substituted “[Section 504 of title 11][/us/usc/t11/s504]” for “the Bankruptcy Act”. Former subpar. (D) redesignated (C).
 
-    Subsec. (b)(5)(E), (F). [Pub. L. 95–598, § 308(f)(5)][/us/pl/95/598/s308/f/5], redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
+    Subsec. (b)(5)(E), (F). [Pub. L. 95–598][/us/pl/95/598], § 308(f)(5), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 
-    Subsec. (b). [Pub. L. 95–283, § 7(b)][/us/pl/95/283/s7/b], in par. (1) inserted “protective” after “of” in heading and substituted provisions relating to issuance of protective decrees, for provisions relating to specific findings necessary for issuance of a decree and uncontested, etc., applications, in par. (2) substituted “Jurisdiction and powers of court” for “Exclusive jurisdiction over debtor” in heading and substituted provisions setting forth jurisdiction and powers of court with respect to exclusivity of such jurisdiction, for provisions relating to exclusive jurisdiction over the debtor, in par. (3) inserted “and attorney” after “trustee” in heading and substituted provisions relating to appointment of trustee and attorney, for provisions relating to appointment of trustee, in par. (4) substituted “Reference to referee in bankruptcy” for “Debtor and filing date defined” in heading and substituted provisions relating to reference to referee in bankruptcy, for provisions defining terms “debtor” and “filing date”, and added pars. (5) and (6).
+    Subsec. (b). [Pub. L. 95–283][/us/pl/95/283], § 7(b), in par. (1) inserted “protective” after “of” in heading and substituted provisions relating to issuance of protective decrees, for provisions relating to specific findings necessary for issuance of a decree and uncontested, etc., applications, in par. (2) substituted “Jurisdiction and powers of court” for “Exclusive jurisdiction over debtor” in heading and substituted provisions setting forth jurisdiction and powers of court with respect to exclusivity of such jurisdiction, for provisions relating to exclusive jurisdiction over the debtor, in par. (3) inserted “and attorney” after “trustee” in heading and substituted provisions relating to appointment of trustee and attorney, for provisions relating to appointment of trustee, in par. (4) substituted “Reference to referee in bankruptcy” for “Debtor and filing date defined” in heading and substituted provisions relating to reference to referee in bankruptcy, for provisions defining terms “debtor” and “filing date”, and added pars. (5) and (6).
 
-    Subsec. (d). [Pub. L. 95–283, § 7(c)][/us/pl/95/283/s7/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 95–283][/us/pl/95/283], § 7(c), added subsec. (d).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -233,17 +233,17 @@
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/usc/t11/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs322
 [/us/usc/t11/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs504
-[/us/pl/91/598/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598%2Fs5
+[/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1644
-[/us/pl/95/283/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs7
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/stat/92/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F254
-[/us/pl/95/598/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308%2Fa
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2674
-[/us/pl/109/8/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs911
+[/us/pl/109/8/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtIX
 [/us/stat/119/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F185
-[/us/pl/109/390/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390%2Fs5%2Fc
+[/us/pl/109/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390
 [/us/stat/120/2698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2698
-[/us/pl/111/203/s929H/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929H%2Fb
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1857
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1376
@@ -264,24 +264,24 @@
 [/us/usc/t15/s78fff–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78fff%E2%80%933
 [/us/pl/109/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F390
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8
-[/us/pl/95/283/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs7%2Fa
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/usc/t15/s78fff–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78fff%E2%80%933
-[/us/pl/95/598/s308/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308%2Fa%2F1
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
-[/us/pl/95/598/s308/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308%2Fa%2F2
-[/us/pl/95/598/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308%2Fb
-[/us/pl/95/598/s308/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308%2Fc
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/usc/t11/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs553
-[/us/pl/95/598/s308/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308%2Fd
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/usc/t11/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs322
-[/us/pl/95/598/s308/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308%2Fe
-[/us/pl/95/598/s308/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308%2Ff%2F1
-[/us/pl/95/598/s308/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308%2Ff%2F2
-[/us/pl/95/598/s308/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308%2Ff%2F2
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/usc/t11/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs504
-[/us/pl/95/598/s308/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308%2Ff%2F5
-[/us/pl/95/283/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs7%2Fb
-[/us/pl/95/283/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs7%2Fc
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

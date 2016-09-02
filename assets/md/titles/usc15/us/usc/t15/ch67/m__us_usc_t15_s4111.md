@@ -17,7 +17,7 @@
 
     As used in this chapter, the term “Arctic” means all United States and foreign territory north of the Arctic Circle and all United States territory north and west of the boundary formed by the Porcupine, Yukon, and Kuskokwim Rivers; all contiguous seas, including the Arctic Ocean and the Beaufort, Bering, and Chukchi Seas; and the Aleutian chain.
 
-([Pub. L. 98–373, title I, § 112][/us/pl/98/373/s112], July 31, 1984, [98 Stat. 1248][/us/stat/98/1248].)
+([Pub. L. 98–373, title I][/us/pl/98/373/tI], § 112, July 31, 1984, [98 Stat. 1248][/us/stat/98/1248].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/98/373/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs112
+[/us/pl/98/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtI
 [/us/stat/98/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1248
 
 

@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 3569 derived from [act July 28, 1866, ch. 301, § 1][/us/act/1866-07-28/ch301/s1], [14 Stat. 339][/us/stat/14/339].
+    R.S. § 3569 derived from [act July 28, 1866, ch. 301][/us/act/1866-07-28/ch301], § 1, [14 Stat. 339][/us/stat/14/339].
 
  __Study of Metric System by the Secretary of Commerce__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1866-07-28/ch301/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-28%2Fch301%2Fs1
+[/us/act/1866-07-28/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-28%2Fch301
 [/us/stat/14/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F339
 [/us/pl/90/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F472
 [/us/stat/82/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F693

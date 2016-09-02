@@ -149,7 +149,7 @@
 
         There is authorized to be appropriated to the Department of Commerce for the Chesapeake Bay Office $6,000,000 for each of fiscal years 2002 through 2006.
 
-([Pub. L. 102–567, title III, § 307][/us/pl/102/567/s307], Oct. 29, 1992, [106 Stat. 4284][/us/stat/106/4284]; [Pub. L. 107–372, title IV, § 401(a)][/us/pl/107/372/s401/a], Dec. 19, 2002, [116 Stat. 3096][/us/stat/116/3096].)
+([Pub. L. 102–567, title III][/us/pl/102/567/tIII], § 307, Oct. 29, 1992, [106 Stat. 4284][/us/stat/106/4284]; [Pub. L. 107–372, title IV][/us/pl/107/372/tIV], § 401(a), Dec. 19, 2002, [116 Stat. 3096][/us/stat/116/3096].)
 
  __Amendments__ 
 
@@ -157,7 +157,7 @@
 
  __Multiple Species Management Strategy__ 
 
-[Pub. L. 107–372, title IV, § 401(c)][/us/pl/107/372/s401/c], Dec. 19, 2002, [116 Stat. 3099][/us/stat/116/3099], provided that:
+[Pub. L. 107–372, title IV][/us/pl/107/372/tIV], § 401(c), Dec. 19, 2002, [116 Stat. 3099][/us/stat/116/3099], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -185,12 +185,12 @@
 ----------
 
 [/us/usc/t26/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc
-[/us/pl/102/567/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs307
+[/us/pl/102/567/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtIII
 [/us/stat/106/4284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4284
-[/us/pl/107/372/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs401%2Fa
+[/us/pl/107/372/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtIV
 [/us/stat/116/3096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3096
 [/us/pl/107/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372
-[/us/pl/107/372/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2Fs401%2Fc
+[/us/pl/107/372/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F372%2FtIV
 [/us/stat/116/3099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3099
 
 

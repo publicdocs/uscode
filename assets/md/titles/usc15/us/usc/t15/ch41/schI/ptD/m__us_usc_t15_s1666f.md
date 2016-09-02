@@ -23,7 +23,7 @@
 
         With respect to any sales transaction, any discount from the regular price offered by the seller for the purpose of inducing payment by cash, checks, or other means not involving the use of an open-end credit plan or a credit card shall not constitute a finance charge as determined under [section 1605 of this title][/us/usc/t15/s1605] if such discount is offered to all prospective buyers and its availability is disclosed clearly and conspicuously.
 
-([Pub. L. 90–321, title I, § 167][/us/pl/90/321/s167], as added [Pub. L. 93–495, title III, § 306][/us/pl/93/495/s306], Oct. 28, 1974, [88 Stat. 1515][/us/stat/88/1515]; amended [Pub. L. 94–222, § 3(c)(1)][/us/pl/94/222/s3/c/1], Feb. 27, 1976, [90 Stat. 197][/us/stat/90/197]; [Pub. L. 97–25, title I, § 101][/us/pl/97/25/s101], July 27, 1981, [95 Stat. 144][/us/stat/95/144].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 167, as added [Pub. L. 93–495, title III][/us/pl/93/495/tIII], § 306, Oct. 28, 1974, [88 Stat. 1515][/us/stat/88/1515]; amended [Pub. L. 94–222][/us/pl/94/222], § 3(c)(1), Feb. 27, 1976, [90 Stat. 197][/us/stat/90/197]; [Pub. L. 97–25, title I][/us/pl/97/25/tI], § 101, July 27, 1981, [95 Stat. 144][/us/stat/95/144].)
 
  __Amendments__ 
 
@@ -33,13 +33,13 @@
 
  __Termination Date of 1976 Amendment__ 
 
-[Section 3(c)(2) of Pub. L. 94–222][/us/pl/94/222/s3/c/2], as amended by [Pub. L. 95–630, title XV, § 1501][/us/pl/95/630/s1501], Nov. 10, 1978, [92 Stat. 3713][/us/stat/92/3713]; [Pub. L. 97–25, title II, § 201][/us/pl/97/25/s201], July 27, 1981, [95 Stat. 44][/us/stat/95/44], provided that: 
+[Section 3(c)(2) of Pub. L. 94–222][/us/pl/94/222/s3/c/2], as amended by [Pub. L. 95–630, title XV][/us/pl/95/630/tXV], § 1501, Nov. 10, 1978, [92 Stat. 3713][/us/stat/92/3713]; [Pub. L. 97–25, title II][/us/pl/97/25/tII], § 201, July 27, 1981, [95 Stat. 44][/us/stat/95/44], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall cease to be effective on February 27, 1984.”
 
  __Nullification of Board Rules and Regulations Under Subsection (b) of This Section in Effect on__  __July 26, 1981__ 
 
-[Pub. L. 97–25, title I, § 103][/us/pl/97/25/s103], July 27, 1981, [95 Stat. 144][/us/stat/95/144], provided that: 
+[Pub. L. 97–25, title I][/us/pl/97/25/tI], § 103, July 27, 1981, [95 Stat. 144][/us/stat/95/144], provided that: 
 
 > “Any rule or regulation of the Board of Governors of the Federal Reserve System pursuant to section 167(b) of the Truth in Lending Act \[subsec. (b) of this section\], as such section was in effect on the day before the date of enactment of this Act \[July 27, 1981\], is null and void.”
 
@@ -51,23 +51,23 @@
 ----------
 
 [/us/usc/t15/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1605
-[/us/pl/90/321/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs167
-[/us/pl/93/495/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs306
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/93/495/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtIII
 [/us/stat/88/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1515
-[/us/pl/94/222/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F222%2Fs3%2Fc%2F1
+[/us/pl/94/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F222
 [/us/stat/90/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F197
-[/us/pl/97/25/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F25%2Fs101
+[/us/pl/97/25/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F25%2FtI
 [/us/stat/95/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F144
 [/us/pl/97/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F25
 [/us/usc/t15/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1605
 [/us/usc/t15/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1605
 [/us/pl/94/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F222
 [/us/pl/94/222/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F222%2Fs3%2Fc%2F2
-[/us/pl/95/630/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1501
+[/us/pl/95/630/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXV
 [/us/stat/92/3713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3713
-[/us/pl/97/25/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F25%2Fs201
+[/us/pl/97/25/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F25%2FtII
 [/us/stat/95/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F44
-[/us/pl/97/25/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F25%2Fs103
+[/us/pl/97/25/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F25%2FtI
 [/us/stat/95/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F144
 
 

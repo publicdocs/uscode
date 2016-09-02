@@ -23,7 +23,7 @@
 
         No Act of Congress shall be construed to invalidate, impair, or supersede any law enacted by any State for the purpose of regulating the business of insurance, or which imposes a fee or tax upon such business, unless such Act specifically relates to the business of insurance: Provided, That after June 30, 1948, the Act of July 2, 1890, as amended, known as the Sherman Act, and the Act of October 15, 1914, as amended, known as the Clayton Act, and the Act of September 26, 1914, known as the Federal Trade Commission Act, as amended \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\], shall be applicable to the business of insurance to the extent that such business is not regulated by State Law.
 
-([Mar. 9, 1945, ch. 20, § 2][/us/act/1945-03-09/ch20/s2], [59 Stat. 34][/us/stat/59/34]; [July 25, 1947, ch. 326][/us/act/1947-07-25/ch326], [61 Stat. 448][/us/stat/61/448].)
+([Mar. 9, 1945, ch. 20][/us/act/1945-03-09/ch20], § 2, [59 Stat. 34][/us/stat/59/34]; [July 25, 1947, ch. 326][/us/act/1947-07-25/ch326], [61 Stat. 448][/us/stat/61/448].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/act/1945-03-09/ch20/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-03-09%2Fch20%2Fs2
+[/us/act/1945-03-09/ch20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-03-09%2Fch20
 [/us/stat/59/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F34
 [/us/act/1947-07-25/ch326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch326
 [/us/stat/61/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F448

@@ -139,7 +139,7 @@
 
         Notwithstanding the provisions of this section any registered investment company and any company or companies controlled by such registered company may purchase or otherwise acquire from another investment company or any company or companies controlled by such registered company more than 10 per centum of the total outstanding voting stock of any insurance company owned by any such company or companies, or may acquire the securities of any insurance company if the Commission by order determines that such acquisition is in the public interest because the financial condition of such insurance company will be improved as a result of such acquisition or any plan contemplated as a result thereof. This section shall not be deemed to prohibit the promotion of a new insurance company or the acquisition of the securities of any newly created insurance company by a registered investment company, alone or with other persons. Nothing contained in this section shall in any way affect or derogate from the powers of any insurance commissioner or similar official or agency of the United States or any State, or to affect the right under State law of any insurance company to acquire securities of any other insurance company or insurance companies.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 12, [54 Stat. 808][/us/stat/54/808]; [Pub. L. 91–547, § 7][/us/pl/91/547/s7], Dec. 14, 1970, [84 Stat. 1417][/us/stat/84/1417]; [Pub. L. 100–181, title VI, § 610][/us/pl/100/181/s610], Dec. 4, 1987, [101 Stat. 1261][/us/stat/101/1261]; [Pub. L. 104–290, title II, § 202][/us/pl/104/290/s202], Oct. 11, 1996, [110 Stat. 3426][/us/stat/110/3426]; [Pub. L. 105–353, title III, § 301(c)(3)][/us/pl/105/353/s301/c/3], Nov. 3, 1998, [112 Stat. 3236][/us/stat/112/3236]; [Pub. L. 111–203, title IX, § 985(d)(3)][/us/pl/111/203/s985/d/3], July 21, 2010, [124 Stat. 1934][/us/stat/124/1934].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 12, [54 Stat. 808][/us/stat/54/808]; [Pub. L. 91–547][/us/pl/91/547], § 7, Dec. 14, 1970, [84 Stat. 1417][/us/stat/84/1417]; [Pub. L. 100–181, title VI][/us/pl/100/181/tVI], § 610, Dec. 4, 1987, [101 Stat. 1261][/us/stat/101/1261]; [Pub. L. 104–290, title II][/us/pl/104/290/tII], § 202, Oct. 11, 1996, [110 Stat. 3426][/us/stat/110/3426]; [Pub. L. 105–353, title III][/us/pl/105/353/tIII], § 301(c)(3), Nov. 3, 1998, [112 Stat. 3236][/us/stat/112/3236]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 985(d)(3), July 21, 2010, [124 Stat. 1934][/us/stat/124/1934].)
 
  __References in Text__ 
 
@@ -151,31 +151,31 @@
 
     1998—Subsec. (d)(1)(G)(i)(III)(bb). [Pub. L. 105–353][/us/pl/105/353] substituted “the acquired company” for “the acquired fund”.
 
-    1996—Subsec. (d)(1)(D), (E). [Pub. L. 104–290, § 202(3)][/us/pl/104/290/s202/3], substituted “this paragraph” for “this paragraph (1)”.
+    1996—Subsec. (d)(1)(D), (E). [Pub. L. 104–290][/us/pl/104/290], § 202(3), substituted “this paragraph” for “this paragraph (1)”.
 
-    Subsec. (d)(1)(E)(iii). [Pub. L. 104–290, § 202(1)(A)][/us/pl/104/290/s202/1/A], struck out “in the event such investment company is not a registered investment company,” after “(iii)”.
+    Subsec. (d)(1)(E)(iii). [Pub. L. 104–290][/us/pl/104/290], § 202(1)(A), struck out “in the event such investment company is not a registered investment company,” after “(iii)”.
 
-    Subsec. (d)(1)(E)(iii)(bb). [Pub. L. 104–290, § 202(1)(B)][/us/pl/104/290/s202/1/B], inserted “in the event that such investment company is not a registered investment company,” after “(bb)”.
+    Subsec. (d)(1)(E)(iii)(bb). [Pub. L. 104–290][/us/pl/104/290], § 202(1)(B), inserted “in the event that such investment company is not a registered investment company,” after “(bb)”.
 
-    Subsec. (d)(1)(F). [Pub. L. 104–290, § 202(3)][/us/pl/104/290/s202/3], substituted “this paragraph” for “this paragraph (1)”.
+    Subsec. (d)(1)(F). [Pub. L. 104–290][/us/pl/104/290], § 202(3), substituted “this paragraph” for “this paragraph (1)”.
 
-    Subsec. (d)(1)(G). [Pub. L. 104–290, § 202(2)][/us/pl/104/290/s202/2], (4), added subpar. (G). Former subpar. (G) redesignated (H).
+    Subsec. (d)(1)(G). [Pub. L. 104–290][/us/pl/104/290], § 202(2), (4), added subpar. (G). Former subpar. (G) redesignated (H).
 
-    Subsec. (d)(1)(H). [Pub. L. 104–290, § 202(3)][/us/pl/104/290/s202/3], substituted “this paragraph” for “this paragraph (1)”.
+    Subsec. (d)(1)(H). [Pub. L. 104–290][/us/pl/104/290], § 202(3), substituted “this paragraph” for “this paragraph (1)”.
 
-    [Pub. L. 104–290, § 202(2)][/us/pl/104/290/s202/2], redesignated subpar. (G) as (H). Former subpar. (H) redesignated (I).
+    [Pub. L. 104–290][/us/pl/104/290], § 202(2), redesignated subpar. (G) as (H). Former subpar. (H) redesignated (I).
 
-    Subsec. (d)(1)(I). [Pub. L. 104–290, § 202(3)][/us/pl/104/290/s202/3], substituted “this paragraph” for “this paragraph (1)” wherever appearing.
+    Subsec. (d)(1)(I). [Pub. L. 104–290][/us/pl/104/290], § 202(3), substituted “this paragraph” for “this paragraph (1)” wherever appearing.
 
-    [Pub. L. 104–290, § 202(2)][/us/pl/104/290/s202/2], redesignated subpar. (H) as (I).
+    [Pub. L. 104–290][/us/pl/104/290], § 202(2), redesignated subpar. (H) as (I).
 
-    Subsec. (d)(1)(J). [Pub. L. 104–290, § 202(5)][/us/pl/104/290/s202/5], added subpar. (J).
+    Subsec. (d)(1)(J). [Pub. L. 104–290][/us/pl/104/290], § 202(5), added subpar. (J).
 
-    1987—Subsec. (d)(1)(A)(iii). [Pub. L. 100–181, § 610(1)][/us/pl/100/181/s610/1], substituted “treasury” for “Treasury”.
+    1987—Subsec. (d)(1)(A)(iii). [Pub. L. 100–181][/us/pl/100/181], § 610(1), substituted “treasury” for “Treasury”.
 
-    Subsec. (d)(1)(G). [Pub. L. 100–181, § 610(2)][/us/pl/100/181/s610/2], substituted “is reasonably possible” for “it reasonably possible”.
+    Subsec. (d)(1)(G). [Pub. L. 100–181][/us/pl/100/181], § 610(2), substituted “is reasonably possible” for “it reasonably possible”.
 
-    Subsec. (f). [Pub. L. 100–181, § 610(3)][/us/pl/100/181/s610/3], substituted “thereof only” for “only thereof”.
+    Subsec. (f). [Pub. L. 100–181][/us/pl/100/181], § 610(3), substituted “thereof only” for “only thereof”.
 
     1970—Subsec. (d)(1). [Pub. L. 91–547][/us/pl/91/547] substituted provisions designated as subpars. (A) to (C) and (E) to (H) for former introductory provisions reading “It shall be unlawful for any registered investment company and any company or companies controlled by such registered investment company to purchase or otherwise acquire after August 22, 1940, any security issued by or any other interest in the business of—” and subpar. (1) reading “any other investment company of which such registered investment company and company or companies controlled by such registered company shall not at the time of such purchase or acquisition own in the aggregate at least 25 per centum of the total outstanding voting stock, if such registered investment company and any company or companies controlled by it own in the aggregate or as a result of such purchase or acquisition will own in the aggregate more than 5 per centum of the total outstanding voting stock of such other investment company if the policy of such other investment company is the concentration of investments in a particular industry or group of industries, or more than 3 per centum of the total outstanding voting stock of such other investment company if the policy of such other investment company is not the concentration of investments in a particular industry or group of industries, except and cl. (B) exception reading “a security purchased with the proceeds of payments on periodic payment plan certificates, pursuant to the terms of the trust indenture under which such certificates are issued”, cl. (A) of such subpar. (1) being incorporated in subpar. (D) of this par. (1).
 
@@ -214,34 +214,34 @@
 [/us/usc/t15/s80a–28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9328
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F808
-[/us/pl/91/547/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs7
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1417
-[/us/pl/100/181/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs610
+[/us/pl/100/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVI
 [/us/stat/101/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1261
-[/us/pl/104/290/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs202
+[/us/pl/104/290/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtII
 [/us/stat/110/3426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3426
-[/us/pl/105/353/s301/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fc%2F3
+[/us/pl/105/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtIII
 [/us/stat/112/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3236
-[/us/pl/111/203/s985/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs985%2Fd%2F3
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1934
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
-[/us/pl/104/290/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs202%2F3
-[/us/pl/104/290/s202/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs202%2F1%2FA
-[/us/pl/104/290/s202/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs202%2F1%2FB
-[/us/pl/104/290/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs202%2F3
-[/us/pl/104/290/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs202%2F2
-[/us/pl/104/290/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs202%2F3
-[/us/pl/104/290/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs202%2F2
-[/us/pl/104/290/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs202%2F3
-[/us/pl/104/290/s202/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs202%2F2
-[/us/pl/104/290/s202/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs202%2F5
-[/us/pl/100/181/s610/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs610%2F1
-[/us/pl/100/181/s610/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs610%2F2
-[/us/pl/100/181/s610/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs610%2F3
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547

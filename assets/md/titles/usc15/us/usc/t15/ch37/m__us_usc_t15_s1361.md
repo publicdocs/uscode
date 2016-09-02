@@ -17,7 +17,7 @@
 
     The Secretary is authorized and directed to aid designated agencies in carrying out their technical services programs by providing reference services which a designated agency may use to obtain scientific, technical, and engineering information from sources outside the State or States which it serves, for the purposes of this chapter.
 
-([Pub. L. 89–182, § 11][/us/pl/89/182/s11], Sept. 14, 1965, [79 Stat. 683][/us/stat/79/683].)
+([Pub. L. 89–182][/us/pl/89/182], § 11, Sept. 14, 1965, [79 Stat. 683][/us/stat/79/683].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/89/182/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182%2Fs11
+[/us/pl/89/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182
 [/us/stat/79/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F683
 
 

@@ -23,7 +23,7 @@
 
         No publisher, radio-broadcast licensee, or agency or medium for the dissemination of advertising, except the manufacturer, packer, distributor, or seller of the commodity to which the false advertisement relates, shall be liable under this section by reason of the dissemination by him of any false advertisement, unless he has refused, on the request of the Commission, to furnish the Commission the name and post-office address of the manufacturer, packer, distributor, seller, or advertising agency, residing in the United States, who caused him to disseminate such advertisement. No advertising agency shall be liable under this section by reason of the causing by it of the dissemination of any false advertisement, unless it has refused, on the request of the Commission, to furnish the Commission the name and post-office address of the manufacturer, packer, distributor, or seller, residing in the United States, who caused it to cause the dissemination of such advertisement.
 
-([Sept. 26, 1914, ch. 311, § 14][/us/act/1914-09-26/ch311/s14], as added [Mar. 21, 1938, ch. 49, § 4][/us/act/1938-03-21/ch49/s4], [52 Stat. 114][/us/stat/52/114].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 14, as added [Mar. 21, 1938, ch. 49][/us/act/1938-03-21/ch49], § 4, [52 Stat. 114][/us/stat/52/114].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 
  __Effective Date__ 
 
-[Act Mar. 21, 1938, ch. 49, § 5(b)][/us/act/1938-03-21/ch49/s5/b], [52 Stat. 117][/us/stat/52/117], provided: 
+[Act Mar. 21, 1938, ch. 49][/us/act/1938-03-21/ch49], § 5(b), [52 Stat. 117][/us/stat/52/117], provided: 
 
 > “Section 14 of the Federal Trade Commission Act \[this section\] added to such Act by section 4 of this Act, shall take effect on the expiration of sixty days after the date of the enactment of this Act \[Mar. 21, 1938\].”
 
@@ -48,14 +48,14 @@
 
 [/us/usc/t15/s52/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs52%2Fa
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601
-[/us/act/1914-09-26/ch311/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs14
-[/us/act/1938-03-21/ch49/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-03-21%2Fch49%2Fs4
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
+[/us/act/1938-03-21/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-03-21%2Fch49
 [/us/stat/52/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F114
 [/us/act/1907-03-04/ch2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-04%2Fch2907
 [/us/pl/90/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F201
 [/us/stat/81/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F584
 [/us/usc/t21/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs601
-[/us/act/1938-03-21/ch49/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-03-21%2Fch49%2Fs5%2Fb
+[/us/act/1938-03-21/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-03-21%2Fch49
 [/us/stat/52/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F117
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41

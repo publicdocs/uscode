@@ -27,7 +27,7 @@
 
     (5) hold hearings and sit and act at such times and places as he may deem advisable.
 
-([Pub. L. 94–305, title II, § 204][/us/pl/94/305/s204], June 4, 1976, [90 Stat. 669][/us/stat/90/669]; [Pub. L. 96–302, title IV, § 402][/us/pl/96/302/s402], July 2, 1980, [94 Stat. 850][/us/stat/94/850]; [Pub. L. 103–403, title VI][/us/pl/103/403], §§ 605(b), 610, Oct. 22, 1994, [108 Stat. 4203][/us/stat/108/4203], 4204.)
+([Pub. L. 94–305, title II][/us/pl/94/305/tII], § 204, June 4, 1976, [90 Stat. 669][/us/stat/90/669]; [Pub. L. 96–302, title IV][/us/pl/96/302/tIV], § 402, July 2, 1980, [94 Stat. 850][/us/stat/94/850]; [Pub. L. 103–403, title VI][/us/pl/103/403/tVI], §§ 605(b), 610, Oct. 22, 1994, [108 Stat. 4203][/us/stat/108/4203], 4204.)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
     1994—[Pub. L. 103–403][/us/pl/103/403], §§ 605(b), 610(1), in introductory provisions substituted “provisions of sections 634a to 634g of this title, the Chief” for “provisions of [section 634b of this title][/us/usc/t15/s634b], after consultation with and subject to the approval of the Administrator, the Chief”.
 
-    Par. (1). [Pub. L. 103–403, § 610(2)][/us/pl/103/403/s610/2], substituted “14” for “ten” before “staff personnel”.
+    Par. (1). [Pub. L. 103–403][/us/pl/103/403], § 610(2), substituted “14” for “ten” before “staff personnel”.
 
     1980—Par. (1). [Pub. L. 96–302][/us/pl/96/302] authorized employment at any one time of ten staff personnel at rate of compensation not in excess of GS–15, step 10, of the General Schedule.
 
@@ -58,16 +58,16 @@
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t15/s637/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fb%2F13
-[/us/pl/94/305/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2Fs204
+[/us/pl/94/305/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2FtII
 [/us/stat/90/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F669
-[/us/pl/96/302/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs402
+[/us/pl/96/302/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2FtIV
 [/us/stat/94/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F850
-[/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
+[/us/pl/103/403/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtVI
 [/us/stat/108/4203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4203
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
 [/us/usc/t15/s634b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs634b
-[/us/pl/103/403/s610/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs610%2F2
+[/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
 [/us/pl/96/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302
 [/us/pl/96/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302
 [/us/pl/96/302/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs507

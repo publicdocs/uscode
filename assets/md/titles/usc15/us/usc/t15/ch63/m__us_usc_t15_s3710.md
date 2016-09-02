@@ -203,7 +203,7 @@
 
         The Director of a laboratory, or the head of any Federal agency or department, may loan, lease, or give research equipment that is excess to the needs of the laboratory, agency, or department to an educational institution or nonprofit organization for the conduct of technical and scientific education and research activities. Title of ownership shall transfer with a gift under this section.
 
-([Pub. L. 96–480, § 11][/us/pl/96/480/s11], Oct. 21, 1980, [94 Stat. 2318][/us/stat/94/2318]; renumbered § 10 and amended [Pub. L. 99–502][/us/pl/99/502], §§ 3–5, 9(e)(1), Oct. 20, 1986, [100 Stat. 1787][/us/stat/100/1787], 1789, 1791, 1797; renumbered § 11 and amended [Pub. L. 100–418, title V][/us/pl/100/418], §§ 5115(b)(2), 5122(a)(1), 5162(b), 5163(c)(1), (3), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433], 1438, 1450, 1451; [Pub. L. 100–519, title II][/us/pl/100/519], §§ 201(d)(3), 212(a)(4), Oct. 24, 1988, [102 Stat. 2594][/us/stat/102/2594], 2595; [Pub. L. 101–189, div. C, title XXXI, § 3133(e)][/us/pl/101/189/s3133/e], Nov. 29, 1989, [103 Stat. 1679][/us/stat/103/1679]; [Pub. L. 102–245, title III][/us/pl/102/245], §§ 301, 303, Feb. 14, 1992, [106 Stat. 19][/us/stat/106/19], 20; [Pub. L. 104–66, title III, § 3001(f)][/us/pl/104/66/s3001/f], Dec. 21, 1995, [109 Stat. 734][/us/stat/109/734]; [Pub. L. 104–113][/us/pl/104/113], §§ 3, 9, Mar. 7, 1996, [110 Stat. 775][/us/stat/110/775], 779; [Pub. L. 105–394, title II, § 212(d)][/us/pl/105/394/s212/d], Nov. 13, 1998, [112 Stat. 3655][/us/stat/112/3655]; [Pub. L. 106–404][/us/pl/106/404], §§ 7(5), (6), 10(a), Nov. 1, 2000, [114 Stat. 1745–1747][/us/stat/114/1745-1747]; [Pub. L. 110–69, title III, § 3002(c)(4)][/us/pl/110/69/s3002/c/4], Aug. 9, 2007, [121 Stat. 586][/us/stat/121/586].)
+([Pub. L. 96–480][/us/pl/96/480], § 11, Oct. 21, 1980, [94 Stat. 2318][/us/stat/94/2318]; renumbered § 10 and amended [Pub. L. 99–502][/us/pl/99/502], §§ 3–5, 9(e)(1), Oct. 20, 1986, [100 Stat. 1787][/us/stat/100/1787], 1789, 1791, 1797; renumbered § 11 and amended [Pub. L. 100–418, title V][/us/pl/100/418/tV], §§ 5115(b)(2), 5122(a)(1), 5162(b), 5163(c)(1), (3), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433], 1438, 1450, 1451; [Pub. L. 100–519, title II][/us/pl/100/519/tII], §§ 201(d)(3), 212(a)(4), Oct. 24, 1988, [102 Stat. 2594][/us/stat/102/2594], 2595; [Pub. L. 101–189, div. C, title XXXI][/us/pl/101/189/dC/tXXXI], § 3133(e), Nov. 29, 1989, [103 Stat. 1679][/us/stat/103/1679]; [Pub. L. 102–245, title III][/us/pl/102/245/tIII], §§ 301, 303, Feb. 14, 1992, [106 Stat. 19][/us/stat/106/19], 20; [Pub. L. 104–66, title III][/us/pl/104/66/tIII], § 3001(f), Dec. 21, 1995, [109 Stat. 734][/us/stat/109/734]; [Pub. L. 104–113][/us/pl/104/113], §§ 3, 9, Mar. 7, 1996, [110 Stat. 775][/us/stat/110/775], 779; [Pub. L. 105–394, title II][/us/pl/105/394/tII], § 212(d), Nov. 13, 1998, [112 Stat. 3655][/us/stat/112/3655]; [Pub. L. 106–404][/us/pl/106/404], §§ 7(5), (6), 10(a), Nov. 1, 2000, [114 Stat. 1745–1747][/us/stat/114/1745-1747]; [Pub. L. 110–69, title III][/us/pl/110/69/tIII], § 3002(c)(4), Aug. 9, 2007, [121 Stat. 586][/us/stat/121/586].)
 
  __References in Text__ 
 
@@ -213,37 +213,37 @@
 
     2007—Subsec. (g)(1). [Pub. L. 110–69][/us/pl/110/69] struck out “through the Under Secretary, and” after “The Secretary,” in introductory provisions.
 
-    2000—Subsec. (b). [Pub. L. 106–404, § 10(a)(1)][/us/pl/106/404/s10/a/1], struck out at end “The agency head shall submit to Congress at the time the President submits the budget to Congress an explanation of the agency’s technology transfer program for the preceding year and the agency’s plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry.”
+    2000—Subsec. (b). [Pub. L. 106–404][/us/pl/106/404], § 10(a)(1), struck out at end “The agency head shall submit to Congress at the time the President submits the budget to Congress an explanation of the agency’s technology transfer program for the preceding year and the agency’s plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry.”
 
-    Subsec. (e)(1). [Pub. L. 106–404, § 7(5)][/us/pl/106/404/s7/5], substituted “in cooperation with Federal laboratories” for “in cooperation with Federal Laboratories” in introductory provisions.
+    Subsec. (e)(1). [Pub. L. 106–404][/us/pl/106/404], § 7(5), substituted “in cooperation with Federal laboratories” for “in cooperation with Federal Laboratories” in introductory provisions.
 
-    Subsec. (f). [Pub. L. 106–404, § 10(a)(2)][/us/pl/106/404/s10/a/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 106–404][/us/pl/106/404], § 10(a)(2), added subsec. (f).
 
-    Subsec. (g)(2). [Pub. L. 106–404, § 10(a)(3)][/us/pl/106/404/s10/a/3], added par. (2) and struck out former par. (2) which read as follows: “Two years after October 20, 1986, and every two years thereafter, the Secretary shall submit a summary report to the President and the Congress on the use by the agencies and the Secretary of the authorities specified in this chapter. Other Federal agencies shall cooperate in the report’s preparation.”
+    Subsec. (g)(2). [Pub. L. 106–404][/us/pl/106/404], § 10(a)(3), added par. (2) and struck out former par. (2) which read as follows: “Two years after October 20, 1986, and every two years thereafter, the Secretary shall submit a summary report to the President and the Congress on the use by the agencies and the Secretary of the authorities specified in this chapter. Other Federal agencies shall cooperate in the report’s preparation.”
 
-    Subsec. (h). [Pub. L. 106–404, § 10(a)(4)][/us/pl/106/404/s10/a/4], added subsec. (h).
+    Subsec. (h). [Pub. L. 106–404][/us/pl/106/404], § 10(a)(4), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 106–404, § 7(6)][/us/pl/106/404/s7/6], substituted “a gift under this section” for “a gift under the section”.
+    Subsec. (i). [Pub. L. 106–404][/us/pl/106/404], § 7(6), substituted “a gift under this section” for “a gift under the section”.
 
     1998—Subsec. (e)(1)(K). [Pub. L. 105–394][/us/pl/105/394] added subpar. (K).
 
-    1996—Subsec. (e)(7)(B). [Pub. L. 104–113, § 3][/us/pl/104/113/s3], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A transfer shall be made by any Federal agency under subparagraph (A), for any fiscal year, only if—
+    1996—Subsec. (e)(7)(B). [Pub. L. 104–113][/us/pl/104/113], § 3, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A transfer shall be made by any Federal agency under subparagraph (A), for any fiscal year, only if—
 
     “(i) the amount so transferred by that agency (as determined under such subparagraph) would exceed $10,000; and
 
     “(ii) such transfer is made with respect to the fiscal year 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, or 1996.”
 
-    Subsec. (i). [Pub. L. 104–113, § 9][/us/pl/104/113/s9], inserted “loan, lease, or” before “give”.
+    Subsec. (i). [Pub. L. 104–113][/us/pl/104/113], § 9, inserted “loan, lease, or” before “give”.
 
     1995—Subsec. (f). [Pub. L. 104–66][/us/pl/104/66] struck out heading and text of subsec. (f). Text read as follows: “Each Federal agency which operates or directs one or more Federal laboratories shall report annually to the Congress, as part of the agency’s annual budget submission, on the activities performed by that agency and its Federal laboratories pursuant to the provisions of this section.”
 
-    1992—Subsec. (e)(2). [Pub. L. 102–245, § 301(a)][/us/pl/102/245/s301/a], inserted “senior” before “representative”.
+    1992—Subsec. (e)(2). [Pub. L. 102–245][/us/pl/102/245], § 301(a), inserted “senior” before “representative”.
 
-    Subsec. (e)(6). [Pub. L. 102–245, § 301(b)][/us/pl/102/245/s301/b], inserted at end “Such report shall include an annual independent audit of the financial statements of the Consortium, conducted in accordance with generally accepted accounting principles.”
+    Subsec. (e)(6). [Pub. L. 102–245][/us/pl/102/245], § 301(b), inserted at end “Such report shall include an annual independent audit of the financial statements of the Consortium, conducted in accordance with generally accepted accounting principles.”
 
-    Subsec. (e)(7)(B)(ii). [Pub. L. 102–245, § 301(c)][/us/pl/102/245/s301/c], substituted “1991, 1992, 1993, 1994, 1995, or 1996” for “or 1991”.
+    Subsec. (e)(7)(B)(ii). [Pub. L. 102–245][/us/pl/102/245], § 301(c), substituted “1991, 1992, 1993, 1994, 1995, or 1996” for “or 1991”.
 
-    Subsec. (e)(8). [Pub. L. 102–245, § 301(d)][/us/pl/102/245/s301/d], struck out former par. (8) which read as follows:
+    Subsec. (e)(8). [Pub. L. 102–245][/us/pl/102/245], § 301(d), struck out former par. (8) which read as follows:
 
     “(A) The Consortium shall use 5 percent of the funds provided in paragraph (7)(A) to establish demonstration projects in technology transfer. To carry out such projects, the Consortium may arrange for grants or awards to, or enter into agreements with, nonprofit State, local, or private organizations or entities whose primary purposes are to facilitate cooperative research between the Federal laboratories and organizations not associated with the Federal laboratories, to transfer technology from the Federal laboratories, and to advance State and local economic activity.
 
@@ -253,49 +253,49 @@
 
     “(D) Any person who receives or utilizes any proceeds of a grant or award made, or agreement entered into, under this paragraph shall keep such records as the Consortium or its designee shall determine are necessary and appropriate to facilitate effective audit and evaluation, including records which fully disclose the amount and disposition of such proceeds and the total cost of the project in connection with which such proceeds were used.”
 
-    Subsec. (i). [Pub. L. 102–245, § 303][/us/pl/102/245/s303], added subsec. (i).
+    Subsec. (i). [Pub. L. 102–245][/us/pl/102/245], § 303, added subsec. (i).
 
     1989—Subsec. (b). [Pub. L. 101–189][/us/pl/101/189] struck out “after September 30, 1981,” after “(2)”, substituted “sufficient funding, either as a separate line item or from the agency’s research and development budget,” for “not less than 0.5 percent of the agency’s research and development budget”, struck out “agency head may waive the requirement set forth in clause (2) of the preceding sentence. If the agency head waives such requirement, the” after “transfer process. The”, and substituted “agency’s technology transfer program for the preceding year and the agency’s plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry” for “reasons for the waiver and alternate plans for conducting the technology transfer function at the agency”.
 
-    1988—Subsec. (d)(6). [Pub. L. 100–418, § 5163(c)(3)][/us/pl/100/418/s5163/c/3], added par. (6).
+    1988—Subsec. (d)(6). [Pub. L. 100–418][/us/pl/100/418], § 5163(c)(3), added par. (6).
 
-    Subsec. (e)(4). [Pub. L. 100–418, § 5115(b)(2)][/us/pl/100/418/s5115/b/2], substituted “National Institute of Standards and Technology” for “National Bureau of Standards” and “Institute” for “Bureau”.
+    Subsec. (e)(4). [Pub. L. 100–418][/us/pl/100/418], § 5115(b)(2), substituted “National Institute of Standards and Technology” for “National Bureau of Standards” and “Institute” for “Bureau”.
 
-    Subsec. (e)(7)(A). [Pub. L. 100–418, § 5162(b)][/us/pl/100/418/s5162/b], substituted “0.008 percent of the budget of each Federal agency from any Federal source, including related overhead, that is to be utilized by or on behalf of” for “0.005 percent of that portion of the research and development budget of each Federal agency that is to be utilized by”.
+    Subsec. (e)(7)(A). [Pub. L. 100–418][/us/pl/100/418], § 5162(b), substituted “0.008 percent of the budget of each Federal agency from any Federal source, including related overhead, that is to be utilized by or on behalf of” for “0.005 percent of that portion of the research and development budget of each Federal agency that is to be utilized by”.
 
-    [Pub. L. 100–418, § 5115(b)(2)][/us/pl/100/418/s5115/b/2], substituted “National Institute of Standards and Technology” for “National Bureau of Standards” and “Institute” for “Bureau”.
+    [Pub. L. 100–418][/us/pl/100/418], § 5115(b)(2), substituted “National Institute of Standards and Technology” for “National Bureau of Standards” and “Institute” for “Bureau”.
 
-    Subsec. (g)(1). [Pub. L. 100–519, § 201(d)(3)][/us/pl/100/519/s201/d/3], inserted reference to the Under Secretary.
+    Subsec. (g)(1). [Pub. L. 100–519][/us/pl/100/519], § 201(d)(3), inserted reference to the Under Secretary.
 
-    Subsec. (h). [Pub. L. 100–519, § 212(a)(4)][/us/pl/100/519/s212/a/4], struck out subsec. (h) which read as follows: “None of the activities or functions of the National Technical Information Service which are not performed by contractors as of September 30, 1987, shall be contracted out or otherwise transferred from the Federal Government unless such transfer is expressly authorized by statute, or unless the value of all work performed under the contract and related contracts in each fiscal year does not exceed $250,000.”
+    Subsec. (h). [Pub. L. 100–519][/us/pl/100/519], § 212(a)(4), struck out subsec. (h) which read as follows: “None of the activities or functions of the National Technical Information Service which are not performed by contractors as of September 30, 1987, shall be contracted out or otherwise transferred from the Federal Government unless such transfer is expressly authorized by statute, or unless the value of all work performed under the contract and related contracts in each fiscal year does not exceed $250,000.”
 
-    [Pub. L. 100–418, § 5163(c)(1)][/us/pl/100/418/s5163/c/1], added subsec. (h).
+    [Pub. L. 100–418][/us/pl/100/418], § 5163(c)(1), added subsec. (h).
 
-    1986—Subsec. (a). [Pub. L. 99–502, § 4(a)][/us/pl/99/502/s4/a], designated existing provisions as par. (1) and added pars. (2) and (3).
+    1986—Subsec. (a). [Pub. L. 99–502][/us/pl/99/502], § 4(a), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-    Subsec. (b). [Pub. L. 99–502, § 4(b)(1)][/us/pl/99/502/s4/b/1], substituted “200 or more full-time equivalent scientific, engineering, and related technical positions shall provide one or more full-time equivalent positions” for “a total annual budget exceeding $20,000,000 shall provide at least one professional individual full-time”, inserted “Furthermore, individuals filling positions in an Office of Research and Technology Applications shall be included in the overall laboratory/agency management development program so as to ensure that highly competent technical managers are full participants in the technology transfer process.”, substituted “requirement set forth in clause (2) of the preceding sentence” for “requirements set forth in (1) and/or (2) of this subsection”, and substituted “such requirement” for “either requirement (1) or (2)”.
+    Subsec. (b). [Pub. L. 99–502][/us/pl/99/502], § 4(b)(1), substituted “200 or more full-time equivalent scientific, engineering, and related technical positions shall provide one or more full-time equivalent positions” for “a total annual budget exceeding $20,000,000 shall provide at least one professional individual full-time”, inserted “Furthermore, individuals filling positions in an Office of Research and Technology Applications shall be included in the overall laboratory/agency management development program so as to ensure that highly competent technical managers are full participants in the technology transfer process.”, substituted “requirement set forth in clause (2) of the preceding sentence” for “requirements set forth in (1) and/or (2) of this subsection”, and substituted “such requirement” for “either requirement (1) or (2)”.
 
-    Subsec. (c)(1). [Pub. L. 99–502, § 4(b)(2)(A)][/us/pl/99/502/s4/b/2/A], added par. (1) and struck out former par. (1) which read as follows: “to prepare an application assessment of each research and development project in which that laboratory is engaged which has potential for successful application in State or local government or in private industry;”.
+    Subsec. (c)(1). [Pub. L. 99–502][/us/pl/99/502], § 4(b)(2)(A), added par. (1) and struck out former par. (1) which read as follows: “to prepare an application assessment of each research and development project in which that laboratory is engaged which has potential for successful application in State or local government or in private industry;”.
 
-    Subsec. (c)(3). [Pub. L. 99–502, § 4(b)(2)(B)][/us/pl/99/502/s4/b/2/B], substituted “the National Technical Information Service, the Federal Laboratory Consortium for Technology Transfer,” for “the Center for the Utilization of Federal Technology” and struck out “and” after the semicolon.
+    Subsec. (c)(3). [Pub. L. 99–502][/us/pl/99/502], § 4(b)(2)(B), substituted “the National Technical Information Service, the Federal Laboratory Consortium for Technology Transfer,” for “the Center for the Utilization of Federal Technology” and struck out “and” after the semicolon.
 
-    Subsec. (c)(4). [Pub. L. 99–502, § 4(b)(2)(C)][/us/pl/99/502/s4/b/2/C], substituted “to State and local government officials; and” for “in response to requests from State and local government officials.”.
+    Subsec. (c)(4). [Pub. L. 99–502][/us/pl/99/502], § 4(b)(2)(C), substituted “to State and local government officials; and” for “in response to requests from State and local government officials.”.
 
-    Subsec. (c)(5). [Pub. L. 99–502, § 4(b)(2)(D)][/us/pl/99/502/s4/b/2/D], added par. (5).
+    Subsec. (c)(5). [Pub. L. 99–502][/us/pl/99/502], § 4(b)(2)(D), added par. (5).
 
-    Subsec. (d). [Pub. L. 99–502, § 4(c)(1)][/us/pl/99/502/s4/c/1], substituted “The National Technical Information Service shall” for “There is hereby established in the Department of Commerce a Center for the Utilization of Federal Technology. The Center for the Utilization of Federal Technology shall” in introductory par.
+    Subsec. (d). [Pub. L. 99–502][/us/pl/99/502], § 4(c)(1), substituted “The National Technical Information Service shall” for “There is hereby established in the Department of Commerce a Center for the Utilization of Federal Technology. The Center for the Utilization of Federal Technology shall” in introductory par.
 
-    Subsec. (d)(2). [Pub. L. 99–502, § 4(c)(2)][/us/pl/99/502/s4/c/2], (3), redesignated par. (3) as (2) and struck out “existing” before “Federal Laboratory”. Former par. (2), which required the Center for the Utilization of Federal Technology to coordinate the activities of the Offices of Research and Technology Applications of the Federal laboratories, was struck out.
+    Subsec. (d)(2). [Pub. L. 99–502][/us/pl/99/502], § 4(c)(2), (3), redesignated par. (3) as (2) and struck out “existing” before “Federal Laboratory”. Former par. (2), which required the Center for the Utilization of Federal Technology to coordinate the activities of the Offices of Research and Technology Applications of the Federal laboratories, was struck out.
 
-    Subsec. (d)(3). [Pub. L. 99–502, § 4(c)(4)][/us/pl/99/502/s4/c/4], added par. (3). Former par. (3) redesignated (2).
+    Subsec. (d)(3). [Pub. L. 99–502][/us/pl/99/502], § 4(c)(4), added par. (3). Former par. (3) redesignated (2).
 
-    Subsec. (d)(4). [Pub. L. 99–502, § 4(c)(4)][/us/pl/99/502/s4/c/4]–(6), redesignated par. (5) as (4) and substituted “subsection (c)(3)” for “subsection (c)(4)”. Former par. (4), which required the Center for the Utilization of Federal Technology to receive requests for technical assistance from State and local governments and refer those requests to the appropriate Federal laboratories, was struck out.
+    Subsec. (d)(4). [Pub. L. 99–502][/us/pl/99/502], § 4(c)(4)–(6), redesignated par. (5) as (4) and substituted “subsection (c)(3)” for “subsection (c)(4)”. Former par. (4), which required the Center for the Utilization of Federal Technology to receive requests for technical assistance from State and local governments and refer those requests to the appropriate Federal laboratories, was struck out.
 
-    Subsec. (d)(5), (6). [Pub. L. 99–502, § 4(c)(5)][/us/pl/99/502/s4/c/5], redesignated pars. (5) and (6) as (4) and (5), respectively.
+    Subsec. (d)(5), (6). [Pub. L. 99–502][/us/pl/99/502], § 4(c)(5), redesignated pars. (5) and (6) as (4) and (5), respectively.
 
     Subsecs. (e), (f). [Pub. L. 99–502][/us/pl/99/502], §§ 3, 4(d), added subsec. (e), redesignated former subsec. (e) as (f), substituted “report annually to the Congress, as part of the agency’s annual budget submission, on the activities” for “prepare biennially a report summarizing the activities”, and struck out “The report shall be transmitted to the Center for the Utilization of Federal Technology by November 1 of each year in which it is due.”.
 
-    Subsec. (g). [Pub. L. 99–502, § 5][/us/pl/99/502/s5], added subsec. (g).
+    Subsec. (g). [Pub. L. 99–502][/us/pl/99/502], § 5, added subsec. (g).
 
  __Transfer of Functions__ 
 
@@ -386,27 +386,27 @@
 [/us/usc/t29/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3002
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
-[/us/pl/96/480/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs11
+[/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2318
 [/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/stat/100/1787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1787
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
-[/us/pl/100/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519
+[/us/pl/100/519/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2FtII
 [/us/stat/102/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2594
-[/us/pl/101/189/s3133/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3133%2Fe
+[/us/pl/101/189/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdC%2FtXXXI
 [/us/stat/103/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1679
-[/us/pl/102/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245
+[/us/pl/102/245/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtIII
 [/us/stat/106/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F19
-[/us/pl/104/66/s3001/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3001%2Ff
+[/us/pl/104/66/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtIII
 [/us/stat/109/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F734
 [/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 [/us/stat/110/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F775
-[/us/pl/105/394/s212/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2Fs212%2Fd
+[/us/pl/105/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2FtII
 [/us/stat/112/3655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3655
 [/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
 [/us/stat/114/1745-1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1745-1747
-[/us/pl/110/69/s3002/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fc%2F4
+[/us/pl/110/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIII
 [/us/stat/121/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F586
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
@@ -414,42 +414,42 @@
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
 [/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
-[/us/pl/106/404/s10/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs10%2Fa%2F1
-[/us/pl/106/404/s7/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs7%2F5
-[/us/pl/106/404/s10/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs10%2Fa%2F2
-[/us/pl/106/404/s10/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs10%2Fa%2F3
-[/us/pl/106/404/s10/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs10%2Fa%2F4
-[/us/pl/106/404/s7/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs7%2F6
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
 [/us/pl/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394
-[/us/pl/104/113/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs3
-[/us/pl/104/113/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs9
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
-[/us/pl/102/245/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs301%2Fa
-[/us/pl/102/245/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs301%2Fb
-[/us/pl/102/245/s301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs301%2Fc
-[/us/pl/102/245/s301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs301%2Fd
-[/us/pl/102/245/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs303
+[/us/pl/102/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245
+[/us/pl/102/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245
+[/us/pl/102/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245
+[/us/pl/102/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245
+[/us/pl/102/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
-[/us/pl/100/418/s5163/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5163%2Fc%2F3
-[/us/pl/100/418/s5115/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fb%2F2
-[/us/pl/100/418/s5162/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5162%2Fb
-[/us/pl/100/418/s5115/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fb%2F2
-[/us/pl/100/519/s201/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs201%2Fd%2F3
-[/us/pl/100/519/s212/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs212%2Fa%2F4
-[/us/pl/100/418/s5163/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5163%2Fc%2F1
-[/us/pl/99/502/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs4%2Fa
-[/us/pl/99/502/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs4%2Fb%2F1
-[/us/pl/99/502/s4/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs4%2Fb%2F2%2FA
-[/us/pl/99/502/s4/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs4%2Fb%2F2%2FB
-[/us/pl/99/502/s4/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs4%2Fb%2F2%2FC
-[/us/pl/99/502/s4/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs4%2Fb%2F2%2FD
-[/us/pl/99/502/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs4%2Fc%2F1
-[/us/pl/99/502/s4/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs4%2Fc%2F2
-[/us/pl/99/502/s4/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs4%2Fc%2F4
-[/us/pl/99/502/s4/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs4%2Fc%2F4
-[/us/pl/99/502/s4/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs4%2Fc%2F5
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519
+[/us/pl/100/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
-[/us/pl/99/502/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs5
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/usc/t42/s3515e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3515e
 [/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701

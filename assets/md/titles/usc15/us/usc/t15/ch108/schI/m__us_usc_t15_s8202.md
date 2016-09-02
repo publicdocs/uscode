@@ -31,7 +31,7 @@
 
         This section may not be construed to preempt any State law, rule, or regulation that restricts the placement of workers’ compensation insurance or excess insurance for self-funded workers’ compensation plans with a nonadmitted insurer.
 
-([Pub. L. 111–203, title V, § 522][/us/pl/111/203/s522], July 21, 2010, [124 Stat. 1590][/us/stat/124/1590].)
+([Pub. L. 111–203, title V][/us/pl/111/203/tV], § 522, July 21, 2010, [124 Stat. 1590][/us/stat/124/1590].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t15/s8201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8201
-[/us/pl/111/203/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs522
+[/us/pl/111/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtV
 [/us/stat/124/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1590
 
 

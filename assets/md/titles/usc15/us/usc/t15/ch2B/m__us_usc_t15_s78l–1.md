@@ -17,7 +17,7 @@
 
     Any application to continue unlisted trading privileges for any security heretofore filed by any exchange and approved by the Commission pursuant to clause (1) of subsection (f) of section 78l of this title and rules and regulations thereunder shall be deemed to have been filed and approved pursuant to clause (1) of said subsection (f).
 
-([May 27, 1936, ch. 462, § 2][/us/act/1936-05-27/ch462/s2], [49 Stat. 1377][/us/stat/49/1377].)
+([May 27, 1936, ch. 462][/us/act/1936-05-27/ch462], § 2, [49 Stat. 1377][/us/stat/49/1377].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t15/s78l]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78l
-[/us/act/1936-05-27/ch462/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch462%2Fs2
+[/us/act/1936-05-27/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch462
 [/us/stat/49/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1377
 
 

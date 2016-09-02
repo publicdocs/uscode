@@ -47,7 +47,7 @@
 
         The regulations prescribed under subsection (a) may include such additional exceptions to subsections (a) through (d) of [section 6802 of this title][/us/usc/t15/s6802] as are deemed consistent with the purposes of this subchapter.
 
-([Pub. L. 106–102, title V, § 504][/us/pl/106/102/s504], Nov. 12, 1999, [113 Stat. 1439][/us/stat/113/1439]; [Pub. L. 111–203, title X, § 1093(3)][/us/pl/111/203/s1093/3], July 21, 2010, [124 Stat. 2095][/us/stat/124/2095].)
+([Pub. L. 106–102, title V][/us/pl/106/102/tV], § 504, Nov. 12, 1999, [113 Stat. 1439][/us/stat/113/1439]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1093(3), July 21, 2010, [124 Stat. 2095][/us/stat/124/2095].)
 
  __References in Text__ 
 
@@ -57,9 +57,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1), (2). [Pub. L. 111–203, § 1093(3)(A)][/us/pl/111/203/s1093/3/A], added pars. (1) and (2) and struck out former pars. (1) and (2) which related, respectively, to rulemaking by the Federal banking agencies, the National Credit Union Administration, the Secretary of the Treasury, the Securities and Exchange Commission, and the Federal Trade Commission, and consultation and coordination among these agencies and authorities to assure consistency and comparability of regulations.
+    2010—Subsec. (a)(1), (2). [Pub. L. 111–203][/us/pl/111/203], § 1093(3)(A), added pars. (1) and (2) and struck out former pars. (1) and (2) which related, respectively, to rulemaking by the Federal banking agencies, the National Credit Union Administration, the Secretary of the Treasury, the Securities and Exchange Commission, and the Federal Trade Commission, and consultation and coordination among these agencies and authorities to assure consistency and comparability of regulations.
 
-    Subsec. (a)(3). [Pub. L. 111–203, § 1093(3)(B)][/us/pl/111/203/s1093/3/B], struck out “and shall be issued in final form not later than 6 months after November 12, 1999” after “title 5”.
+    Subsec. (a)(3). [Pub. L. 111–203][/us/pl/111/203], § 1093(3)(B), struck out “and shall be issued in final form not later than 6 months after November 12, 1999” after “title 5”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -78,16 +78,16 @@
 [/us/usc/t7/s7b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7b%E2%80%932
 [/us/usc/t12/s5519/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5519%2Fa
 [/us/usc/t15/s6802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6802
-[/us/pl/106/102/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs504
+[/us/pl/106/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtV
 [/us/stat/113/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1439
-[/us/pl/111/203/s1093/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1093%2F3
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2095
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/stat/113/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1436
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
-[/us/pl/111/203/s1093/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1093%2F3%2FA
-[/us/pl/111/203/s1093/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1093%2F3%2FB
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

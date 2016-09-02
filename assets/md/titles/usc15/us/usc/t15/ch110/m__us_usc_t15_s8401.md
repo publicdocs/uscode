@@ -33,11 +33,11 @@
 
     (8) Third party sellers used a free trial period to enroll members, after which they periodically charged consumers until consumers affirmatively canceled the memberships. This use of “free-to-pay conversion” and “negative option” sales took advantage of consumers’ expectations that they would have an opportunity to accept or reject the membership club offer at the end of the trial period.
 
-([Pub. L. 111–345, § 2][/us/pl/111/345/s2], Dec. 29, 2010, [124 Stat. 3618][/us/stat/124/3618].)
+([Pub. L. 111–345][/us/pl/111/345], § 2, Dec. 29, 2010, [124 Stat. 3618][/us/stat/124/3618].)
 
  __Short Title__ 
 
-[Pub. L. 111–345, § 1][/us/pl/111/345/s1], Dec. 29, 2010, [124 Stat. 3618][/us/stat/124/3618], provided that: 
+[Pub. L. 111–345][/us/pl/111/345], § 1, Dec. 29, 2010, [124 Stat. 3618][/us/stat/124/3618], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Restore Online Shoppers’ Confidence Act’.”
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/111/345/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F345%2Fs2
+[/us/pl/111/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F345
 [/us/stat/124/3618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3618
-[/us/pl/111/345/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F345%2Fs1
+[/us/pl/111/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F345
 [/us/stat/124/3618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3618
 
 

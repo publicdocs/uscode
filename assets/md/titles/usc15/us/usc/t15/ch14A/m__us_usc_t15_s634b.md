@@ -41,7 +41,7 @@
 
     (12) evaluate the efforts of each department and agency of the United States, and of private industry, to assist small business concerns owned and controlled by veterans, as defined in [section 632(q) of this title][/us/usc/t15/s632/q], and small business concerns owned and controlled by serviced-disabled  <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  veterans, as defined in such [section 632(q) of this title][/us/usc/t15/s632/q], and to provide statistical information on the utilization of such programs by such small business concerns, and to make appropriate recommendations to the Administrator of the Small Business Administration and to the Congress in order to promote the establishment and growth of those small business concerns.
 
-([Pub. L. 94–305, title II, § 202][/us/pl/94/305/s202], June 4, 1976, [90 Stat. 668][/us/stat/90/668]; [Pub. L. 96–481, title II, § 203(b)][/us/pl/96/481/s203/b], Oct. 21, 1980, [94 Stat. 2327][/us/stat/94/2327]; [Pub. L. 106–50, title VII, § 702][/us/pl/106/50/s702], Aug. 17, 1999, [113 Stat. 250][/us/stat/113/250].)
+([Pub. L. 94–305, title II][/us/pl/94/305/tII], § 202, June 4, 1976, [90 Stat. 668][/us/stat/90/668]; [Pub. L. 96–481, title II][/us/pl/96/481/tII], § 203(b), Oct. 21, 1980, [94 Stat. 2327][/us/stat/94/2327]; [Pub. L. 106–50, title VII][/us/pl/106/50/tVII], § 702, Aug. 17, 1999, [113 Stat. 250][/us/stat/113/250].)
 
  __Codification__ 
 
@@ -63,7 +63,7 @@
 
  __Advocacy Study of Paperwork and Tax Impact__ 
 
-    [Pub. L. 103–403, title VI, § 613][/us/pl/103/403/s613], Oct. 22, 1994, [108 Stat. 4205][/us/stat/108/4205], directed Chief Counsel for Advocacy of the Small Business Administration to conduct a study of the impact of all Federal regulatory, paperwork, and tax requirements upon small business, and report its findings to Congress not later than 1 year after Oct. 22, 1994.
+    [Pub. L. 103–403, title VI][/us/pl/103/403/tVI], § 613, Oct. 22, 1994, [108 Stat. 4205][/us/stat/108/4205], directed Chief Counsel for Advocacy of the Small Business Administration to conduct a study of the impact of all Federal regulatory, paperwork, and tax requirements upon small business, and report its findings to Congress not later than 1 year after Oct. 22, 1994.
 
 ----------
 
@@ -75,11 +75,11 @@
 [/us/usc/t5/s504/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs504%2Fe
 [/us/usc/t15/s632/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fq
 [/us/usc/t15/s632/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fq
-[/us/pl/94/305/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2Fs202
+[/us/pl/94/305/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2FtII
 [/us/stat/90/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F668
-[/us/pl/96/481/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs203%2Fb
+[/us/pl/96/481/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2FtII
 [/us/stat/94/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2327
-[/us/pl/106/50/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2Fs702
+[/us/pl/106/50/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2FtVII
 [/us/stat/113/250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F250
 [/us/pl/106/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50
 [/us/pl/96/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481
@@ -90,7 +90,7 @@
 [/us/usc/t5/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs504
 [/us/pl/104/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F52
 [/us/usc/t5/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs591
-[/us/pl/103/403/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs613
+[/us/pl/103/403/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtVI
 [/us/stat/108/4205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4205
 
 

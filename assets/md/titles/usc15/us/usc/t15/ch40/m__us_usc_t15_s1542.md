@@ -67,7 +67,7 @@
 
         The Administrator shall require an individual receiving a scholarship under this section to repay the full amount of the scholarship to the National Oceanic and Atmospheric Administration if the Administrator determines that the individual, in obtaining or using the scholarship, engaged in fraudulent conduct or failed to comply with any term or condition of the scholarship. Such repayments shall be deposited in the NOAA Operations, Research, and Facilities Appropriations Account and treated as an offsetting collection and only be available for financing additional scholarships.
 
-([Pub. L. 108–447, div. B, title II, § 214][/us/pl/108/447/s214], Dec. 8, 2004, [118 Stat. 2884][/us/stat/118/2884].)
+([Pub. L. 108–447, div. B, title II][/us/pl/108/447/dB/tII], § 214, Dec. 8, 2004, [118 Stat. 2884][/us/stat/118/2884].)
 
 ----------
 
@@ -77,7 +77,7 @@
 ----------
 
 [/us/usc/t20/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fa
-[/us/pl/108/447/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs214
+[/us/pl/108/447/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtII
 [/us/stat/118/2884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2884
 
 

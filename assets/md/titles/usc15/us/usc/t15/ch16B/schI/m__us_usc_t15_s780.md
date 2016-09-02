@@ -27,7 +27,7 @@
 
         The Administrator shall submit to the Secretary for inclusion in the annual report required by [section 7267 of title 42][/us/usc/t42/s7267] a statement on the nature and number of the grievances which have been filed, and the action taken and relief provided, pursuant to this section; and he shall make recommendations to the Congress from time to time concerning legislative or administrative actions which may be taken to better assist persons adversely affected by the energy shortages and to distribute more equitably the burdens resulting from any measures adopted, or actions taken, by him.
 
-([Pub. L. 93–275, § 21][/us/pl/93/275/s21], May 7, 1974, [88 Stat. 112][/us/stat/88/112]; [Pub. L. 96–470, title II, § 203(h)][/us/pl/96/470/s203/h], Oct. 19, 1980, [94 Stat. 2244][/us/stat/94/2244].)
+([Pub. L. 93–275][/us/pl/93/275], § 21, May 7, 1974, [88 Stat. 112][/us/stat/88/112]; [Pub. L. 96–470, title II][/us/pl/96/470/tII], § 203(h), Oct. 19, 1980, [94 Stat. 2244][/us/stat/94/2244].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 
 [/us/usc/t15/s766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs766
 [/us/usc/t42/s7267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7267
-[/us/pl/93/275/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs21
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F112
-[/us/pl/96/470/s203/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs203%2Fh
+[/us/pl/96/470/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtII
 [/us/stat/94/2244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2244
 [/us/pl/96/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470
 [/us/usc/t42/s7267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7267

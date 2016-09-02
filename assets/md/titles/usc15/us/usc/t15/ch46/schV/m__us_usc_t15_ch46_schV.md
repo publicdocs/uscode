@@ -11,45 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch46/schIV/m__us_usc_t15_ch46_schIV.md) | [Next](./../../../../..//us/usc/t15/ch46/schV/m__us_usc_t15_s2003.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch46%2FschV)
+[Previous](./../../../../..//us/usc/t15/ch46/schIV/m__us_usc_t15_s1981...1991.md) | [Next](./../../../../..//us/usc/t15/ch46/schV/m__us_usc_t15_s2001 _us_usc_t15_s2002.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch46%2FschV)
 
 ### SUBCHAPTER V—IMPROVING AUTOMOTIVE EFFICIENCY
 
-§§ 2001, 2002. __Repealed.__  __[__  __Pub. L. 103–272, § 7(b)__  __][/us/pl/103/272/s7/b]__  __,__  __July 5, 1994__  __,__  __[__  __108 Stat. 1379__  __][/us/stat/108/1379]__ 
-
-    Section 2001, [Pub. L. 92–513, title V, § 501][/us/pl/92/513/s501], as added [Pub. L. 94–163, title III, § 301][/us/pl/94/163/s301], Dec. 22, 1975, [89 Stat. 901][/us/stat/89/901]; amended [Pub. L. 96–425][/us/pl/96/425], §§ 4(c)(1), 8(b), Oct. 10, 1980, [94 Stat. 1824][/us/stat/94/1824], 1828; [Pub. L. 100–494, § 6(b)][/us/pl/100/494/s6/b], Oct. 14, 1988, [102 Stat. 2452][/us/stat/102/2452]; [Pub. L. 102–486, title IV, § 403(1)][/us/pl/102/486/s403/1], Oct. 24, 1992, [106 Stat. 2876][/us/stat/106/2876], defined terms for purposes of this subchapter. See [section 32901 of Title 49][/us/usc/t49/s32901], Transportation.
-
-    Section 2002, [Pub. L. 92–513, title V, § 502][/us/pl/92/513/s502], as added [Pub. L. 94–163, title III, § 301][/us/pl/94/163/s301], Dec. 22, 1975, [89 Stat. 902][/us/stat/89/902]; amended [Pub. L. 95–91, title III, § 305][/us/pl/95/91/s305], Aug. 4, 1977, [91 Stat. 580][/us/stat/91/580]; [Pub. L. 96–425][/us/pl/96/425], §§ 3(a)(1), 5, 6(b), 7, 8(c), (d), Oct. 10, 1980, [94 Stat. 1821][/us/stat/94/1821], 1825, 1826, 1828; [Pub. L. 100–494, § 6(c)][/us/pl/100/494/s6/c], Oct. 14, 1988, [102 Stat. 2452][/us/stat/102/2452]; [Pub. L. 102–486, title IV, § 403(2)][/us/pl/102/486/s403/2], Oct. 24, 1992, [106 Stat. 2876][/us/stat/106/2876], related to average fuel economy standards. See sections 32902, 32903, and 32916 of Title 49.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch46/schIV/m__us_usc_t15_ch46_schIV.md) | [Next](./../../../../..//us/usc/t15/ch46/schV/m__us_usc_t15_s2003.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch46%2FschV)
+[Previous](./../../../../..//us/usc/t15/ch46/schIV/m__us_usc_t15_s1981...1991.md) | [Next](./../../../../..//us/usc/t15/ch46/schV/m__us_usc_t15_s2001 _us_usc_t15_s2002.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch46%2FschV)
 
 ----------
 ----------
 
-[/us/pl/103/272/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs7%2Fb
-[/us/stat/108/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1379
-[/us/pl/92/513/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F513%2Fs501
-[/us/pl/94/163/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs301
-[/us/stat/89/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F901
-[/us/pl/96/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F425
-[/us/stat/94/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1824
-[/us/pl/100/494/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494%2Fs6%2Fb
-[/us/stat/102/2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2452
-[/us/pl/102/486/s403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs403%2F1
-[/us/stat/106/2876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2876
-[/us/usc/t49/s32901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs32901
-[/us/pl/92/513/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F513%2Fs502
-[/us/pl/94/163/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs301
-[/us/stat/89/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F902
-[/us/pl/95/91/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs305
-[/us/stat/91/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F580
-[/us/pl/96/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F425
-[/us/stat/94/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1821
-[/us/pl/100/494/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F494%2Fs6%2Fc
-[/us/stat/102/2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2452
-[/us/pl/102/486/s403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs403%2F2
-[/us/stat/106/2876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2876
 
 

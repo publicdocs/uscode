@@ -17,7 +17,7 @@
 
     In negotiating a loan guarantee under this chapter, the Board shall make every effort to arrange that the payment of the principal of and interest on any plan guaranteed shall be secured by sufficient property of the enterprise to collateralize fully the amount of the loan guarantee.
 
-([Pub. L. 92–70, § 5][/us/pl/92/70/s5], Aug. 9, 1971, [85 Stat. 179][/us/stat/85/179].)
+([Pub. L. 92–70][/us/pl/92/70], § 5, Aug. 9, 1971, [85 Stat. 179][/us/stat/85/179].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/70/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70%2Fs5
+[/us/pl/92/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70
 [/us/stat/85/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F179
 
 

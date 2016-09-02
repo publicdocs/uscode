@@ -35,7 +35,7 @@
 
         The purpose of this subchapter is to provide for development and coordination of a comprehensive and integrated United States research program which will assist the Nation and the world to understand, assess, predict, and respond to human-induced and natural processes of global change.
 
-([Pub. L. 101–606, title I, § 101][/us/pl/101/606/s101], Nov. 16, 1990, [104 Stat. 3096][/us/stat/104/3096].)
+([Pub. L. 101–606, title I][/us/pl/101/606/tI], § 101, Nov. 16, 1990, [104 Stat. 3096][/us/stat/104/3096].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/101/606/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2Fs101
+[/us/pl/101/606/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2FtI
 [/us/stat/104/3096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3096
 
 

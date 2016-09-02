@@ -17,7 +17,7 @@
 
     Every investment adviser subject to [section 80b–4 of this title][/us/usc/t15/s80b–4] shall establish, maintain, and enforce written policies and procedures reasonably designed, taking into consideration the nature of such investment adviser’s business, to prevent the misuse in violation of this chapter or the Securities Exchange Act of 1934 \[[15 U.S.C. 78a][/us/usc/t15/s78a] et seq.\], or the rules or regulations thereunder, of material, nonpublic information by such investment adviser or any person associated with such investment adviser. The Commission, as it deems necessary or appropriate in the public interest or for the protection of investors, shall adopt rules or regulations to require specific policies or procedures reasonably designed to prevent misuse in violation of this chapter or the Securities Exchange Act of 1934 (or the rules or regulations thereunder) of material, nonpublic information.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 204A, as added [Pub. L. 100–704, § 3(b)(2)][/us/pl/100/704/s3/b/2], Nov. 19, 1988, [102 Stat. 4680][/us/stat/102/4680].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 204A, as added [Pub. L. 100–704][/us/pl/100/704], § 3(b)(2), Nov. 19, 1988, [102 Stat. 4680][/us/stat/102/4680].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 [/us/usc/t15/s80b–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%934
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
-[/us/pl/100/704/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F704%2Fs3%2Fb%2F2
+[/us/pl/100/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F704
 [/us/stat/102/4680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4680
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881

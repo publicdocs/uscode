@@ -437,11 +437,11 @@
 
         An individual or entity that violates any requirement under this section (including any regulation promulgated pursuant to subsection (d)) shall be considered to have committed a prohibited act under [section 2614 of this title][/us/usc/t15/s2614].
 
-([Pub. L. 94–469, title VI, § 601][/us/pl/94/469/s601], as added [Pub. L. 111–199, § 2(a)][/us/pl/111/199/s2/a], July 7, 2010, [124 Stat. 1359][/us/stat/124/1359].)
+([Pub. L. 94–469, title VI][/us/pl/94/469/tVI], § 601, as added [Pub. L. 111–199][/us/pl/111/199], § 2(a), July 7, 2010, [124 Stat. 1359][/us/stat/124/1359].)
 
  __Modification of Regulation__ 
 
-[Pub. L. 111–199, § 4][/us/pl/111/199/s4], July 7, 2010, [124 Stat. 1367][/us/stat/124/1367], provided that: 
+[Pub. L. 111–199][/us/pl/111/199], § 4, July 7, 2010, [124 Stat. 1367][/us/stat/124/1367], provided that: 
 
 > “Not later than 180 days after the date of promulgation of regulations pursuant to section 601(d) of the Toxic Substances Control Act \[[15 U.S.C. 2697(d)][/us/usc/t15/s2697/d]\] (as amended by section 2), the Secretary of Housing and Urban Development shall update the regulation contained in section 3280.308 of title 24, Code of Federal Regulations (as in effect on the date of enactment of this Act \[July 7, 2010\]), to ensure that the regulation reflects the standards established by section 601 of the Toxic Substances Control Act \[[15 U.S.C. 2697][/us/usc/t15/s2697]\].”
 
@@ -454,10 +454,10 @@
 
 [/us/usc/t15/s2612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2612
 [/us/usc/t15/s2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2614
-[/us/pl/94/469/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs601
-[/us/pl/111/199/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F199%2Fs2%2Fa
+[/us/pl/94/469/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtVI
+[/us/pl/111/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F199
 [/us/stat/124/1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1359
-[/us/pl/111/199/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F199%2Fs4
+[/us/pl/111/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F199
 [/us/stat/124/1367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1367
 [/us/usc/t15/s2697/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2697%2Fd
 [/us/usc/t15/s2697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2697

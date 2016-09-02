@@ -23,7 +23,7 @@
 
         On the Council’s own initiative, or on petition to the Council by producers and retail marketers representing 35 percent of the volume of propane in each class, the Council shall, at its own expense, hold a referendum, to be conducted by an independent auditing firm selected by the Council, to determine whether the industry favors termination or suspension of the Council. Termination or suspension shall not take effect unless it is approved by persons representing more than one-half of the total volume of odorized propane in the retail marketer class and more than one-half of the total volume of propane in the producer class, or is approved by persons representing more than two-thirds of the total volume of propane in either such class.
 
-([Pub. L. 104–284, § 4][/us/pl/104/284/s4], Oct. 11, 1996, [110 Stat. 3371][/us/stat/110/3371].)
+([Pub. L. 104–284][/us/pl/104/284], § 4, Oct. 11, 1996, [110 Stat. 3371][/us/stat/110/3371].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t15/s6405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6405
-[/us/pl/104/284/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F284%2Fs4
+[/us/pl/104/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F284
 [/us/stat/110/3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3371
 
 

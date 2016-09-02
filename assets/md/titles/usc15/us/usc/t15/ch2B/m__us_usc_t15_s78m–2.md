@@ -89,7 +89,7 @@
 
         This section shall take effect on the day that is 30 days after July 21, 2010.
 
-([Pub. L. 111–203, title XV, § 1503][/us/pl/111/203/s1503], July 21, 2010, [124 Stat. 2218][/us/stat/124/2218].)
+([Pub. L. 111–203, title XV][/us/pl/111/203/tXV], § 1503, July 21, 2010, [124 Stat. 2218][/us/stat/124/2218].)
 
  __References in Text__ 
 
@@ -127,7 +127,7 @@
 [/us/usc/t30/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs802
 [/us/usc/t30/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs801
 [/us/usc/t30/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs802
-[/us/pl/111/203/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1503
+[/us/pl/111/203/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXV
 [/us/stat/124/2218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2218
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/stat/83/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F742

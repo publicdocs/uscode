@@ -59,11 +59,11 @@
 
         (4) promote the substitution of electric and hybrid vehicles for many gasoline- and diesel-powered vehicles currently used in routine short-haul, low-load applications, where such substitution would be beneficial.
 
-([Pub. L. 94–413, § 2][/us/pl/94/413/s2], Sept. 17, 1976, [90 Stat. 1260][/us/stat/90/1260].)
+([Pub. L. 94–413][/us/pl/94/413], § 2, Sept. 17, 1976, [90 Stat. 1260][/us/stat/90/1260].)
 
  __Short Title__ 
 
-[Pub. L. 94–413, § 1][/us/pl/94/413/s1], Sept. 17, 1976, [90 Stat. 1260][/us/stat/90/1260], provided: 
+[Pub. L. 94–413][/us/pl/94/413], § 1, Sept. 17, 1976, [90 Stat. 1260][/us/stat/90/1260], provided: 
 
 > “That this Act \[enacting this chapter and amending sections 2451 and 2473 of Title 42, The Public Health and Welfare\] may be cited as the ‘Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976’.”
 
@@ -74,9 +74,9 @@
 ----------
 ----------
 
-[/us/pl/94/413/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F413%2Fs2
+[/us/pl/94/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F413
 [/us/stat/90/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1260
-[/us/pl/94/413/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F413%2Fs1
+[/us/pl/94/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F413
 [/us/stat/90/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1260
 
 

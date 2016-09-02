@@ -41,7 +41,7 @@
 
     (4) facilitate dissemination of information through nonprofit organizations with significant outreach programs which complement the regional outreach programs of the United States and Foreign Commercial Service.
 
-([Pub. L. 100–418, title V, § 5407][/us/pl/100/418/s5407], Aug. 23, 1988, [102 Stat. 1466][/us/stat/102/1466].)
+([Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5407, Aug. 23, 1988, [102 Stat. 1466][/us/stat/102/1466].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s5407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5407
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1466
 
 

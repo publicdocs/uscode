@@ -33,7 +33,7 @@
 
         (B) a statement of the accomplishments which could be provided by the expedited completion of each facility and a statement of any funds which have been appropriated but not yet obligated.
 
-([Pub. L. 93–275, § 24][/us/pl/93/275/s24], May 7, 1974, [88 Stat. 114][/us/stat/88/114].)
+([Pub. L. 93–275][/us/pl/93/275], § 24, May 7, 1974, [88 Stat. 114][/us/stat/88/114].)
 
  __Transfer of Functions__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/93/275/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs24
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F114
 
 

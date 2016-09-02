@@ -17,7 +17,7 @@
 
     For the purposes of this chapter, the issue of Internet safety includes issues regarding the use of the Internet in a manner that promotes safe online activity for children, protects children from cybercrimes, including crimes by online predators, and helps parents shield their children from material that is inappropriate for minors.
 
-([Pub. L. 110–385, title II, § 211][/us/pl/110/385/s211], Oct. 10, 2008, [122 Stat. 4102][/us/stat/122/4102].)
+([Pub. L. 110–385, title II][/us/pl/110/385/tII], § 211, Oct. 10, 2008, [122 Stat. 4102][/us/stat/122/4102].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Short Title__ 
 
-[Pub. L. 110–385, title II, § 201(a)][/us/pl/110/385/s201/a], Oct. 10, 2008, [122 Stat. 4102][/us/stat/122/4102], provided that: 
+[Pub. L. 110–385, title II][/us/pl/110/385/tII], § 201(a), Oct. 10, 2008, [122 Stat. 4102][/us/stat/122/4102], provided that: 
 
 > “This title \[enacting this chapter and amending sections 254 and 503 of Title 47, Telecommunications\] may be cited as the ‘Protecting Children in the 21st Century Act’.”
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/110/385/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2Fs211
+[/us/pl/110/385/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2FtII
 [/us/stat/122/4102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4102
 [/us/pl/110/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385
 [/us/stat/122/4102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4102
-[/us/pl/110/385/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2Fs201%2Fa
+[/us/pl/110/385/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2FtII
 [/us/stat/122/4102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4102
 
 

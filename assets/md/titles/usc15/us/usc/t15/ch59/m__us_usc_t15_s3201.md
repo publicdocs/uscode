@@ -37,7 +37,7 @@
 
         Before the beginning of each calendar year, the Secretary shall publish a list identifying each gas utility to which this chapter applies during such calendar year. Promptly after publication of such list, each State regulatory authority shall notify the Secretary of each gas utility on the list for which such State regulatory authority has ratemaking authority.
 
-([Pub. L. 95–617, title III, § 301][/us/pl/95/617/s301], Nov. 9, 1978, [92 Stat. 3149][/us/stat/92/3149].)
+([Pub. L. 95–617, title III][/us/pl/95/617/tIII], § 301, Nov. 9, 1978, [92 Stat. 3149][/us/stat/92/3149].)
 
  __Definitions__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/95/617/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs301
+[/us/pl/95/617/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtIII
 [/us/stat/92/3149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3149
 [/us/usc/t16/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2602
 

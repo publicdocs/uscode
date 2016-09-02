@@ -37,7 +37,7 @@
 
         (2) A regulation under paragraph (1) granting an exemption for a standard or requirement of a State or political subdivision of a State may be promulgated by the Commission only after it has provided, in accordance with [section 553(b) of title 5][/us/usc/t5/s553/b] notice with respect to the promulgation of the regulation and has provided opportunity for the oral presentation of views respecting its promulgation.
 
-([Pub. L. 91–601, § 7][/us/pl/91/601/s7], formerly § 8, Dec. 30, 1970, [84 Stat. 1673][/us/stat/84/1673]; [Pub. L. 92–573, § 30(a)][/us/pl/92/573/s30/a], Oct. 27, 1972, [86 Stat. 1231][/us/stat/86/1231]; [Pub. L. 94–284, § 17(c)][/us/pl/94/284/s17/c], May 11, 1976, [90 Stat. 513][/us/stat/90/513]; renumbered § 7, [Pub. L. 97–35, title XII, § 1205(c)][/us/pl/97/35/s1205/c], Aug. 13, 1981, [95 Stat. 716][/us/stat/95/716].)
+([Pub. L. 91–601][/us/pl/91/601], § 7, formerly § 8, Dec. 30, 1970, [84 Stat. 1673][/us/stat/84/1673]; [Pub. L. 92–573][/us/pl/92/573], § 30(a), Oct. 27, 1972, [86 Stat. 1231][/us/stat/86/1231]; [Pub. L. 94–284][/us/pl/94/284], § 17(c), May 11, 1976, [90 Stat. 513][/us/stat/90/513]; renumbered § 7, [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1205(c), Aug. 13, 1981, [95 Stat. 716][/us/stat/95/716].)
 
  __References in Text__ 
 
@@ -64,13 +64,13 @@
 
 [/us/usc/t15/s1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1472
 [/us/usc/t5/s553/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553%2Fb
-[/us/pl/91/601/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601%2Fs7
+[/us/pl/91/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601
 [/us/stat/84/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1673
-[/us/pl/92/573/s30/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs30%2Fa
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1231
-[/us/pl/94/284/s17/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs17%2Fc
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/stat/90/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F513
-[/us/pl/97/35/s1205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1205%2Fc
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F716
 [/us/usc/t15/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1471
 [/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284

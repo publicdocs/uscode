@@ -45,7 +45,7 @@
 
             The disclosure document must contain, in close proximity to the signature of the student athlete, or, if the student athlete is under the age of 18, the signature of such student athlete’s parent or legal guardian, a conspicuous notice in boldface type stating: “Warning to Student Athlete: If you agree orally or in writing to be represented by an agent now or in the future you may lose your eligibility to compete as a student athlete in your sport. Within 72 hours after entering into this contract or before the next athletic event in which you are eligible to participate, whichever occurs first, both you and the agent by whom you are agreeing to be represented must notify the athletic director of the educational institution at which you are enrolled, or other individual responsible for athletic programs at such educational institution, that you have entered into an agency contract.”
 
-([Pub. L. 108–304, § 3][/us/pl/108/304/s3], Sept. 24, 2004, [118 Stat. 1126][/us/stat/118/1126].)
+([Pub. L. 108–304][/us/pl/108/304], § 3, Sept. 24, 2004, [118 Stat. 1126][/us/stat/118/1126].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/108/304/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F304%2Fs3
+[/us/pl/108/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F304
 [/us/stat/118/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1126
 
 

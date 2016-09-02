@@ -17,7 +17,7 @@
 
     It is declared to be the policy of Congress to protect interstate and foreign commerce from the diversion and obstruction of, and the burden and harmful effect upon, such commerce caused by contraband oil as herein defined, and to encourage the conservation of deposits of crude oil situated within the United States.
 
-([Feb. 22, 1935, ch. 18, § 1][/us/act/1935-02-22/ch18/s1], [49 Stat. 30][/us/stat/49/30].)
+([Feb. 22, 1935, ch. 18][/us/act/1935-02-22/ch18], § 1, [49 Stat. 30][/us/stat/49/30].)
 
  __Short Title__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1935-02-22/ch18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-02-22%2Fch18%2Fs1
+[/us/act/1935-02-22/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-02-22%2Fch18
 [/us/stat/49/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F30
 
 

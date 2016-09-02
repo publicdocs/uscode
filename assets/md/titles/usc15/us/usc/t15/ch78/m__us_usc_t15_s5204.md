@@ -17,7 +17,7 @@
 
     In pursuance of the goals of this chapter, the National Institute of Standards and Technology shall promote fundamental research and materials standards to accelerate the use and application of the new superconducting materials, and shall utilize the Superconductivity Center Focusing on Electronic Applications at the National Institute of Standards and Technology in Boulder, Colorado.
 
-([Pub. L. 100–697, § 5][/us/pl/100/697/s5], Nov. 19, 1988, [102 Stat. 4615][/us/stat/102/4615].)
+([Pub. L. 100–697][/us/pl/100/697], § 5, Nov. 19, 1988, [102 Stat. 4615][/us/stat/102/4615].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/697/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F697%2Fs5
+[/us/pl/100/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F697
 [/us/stat/102/4615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4615
 
 

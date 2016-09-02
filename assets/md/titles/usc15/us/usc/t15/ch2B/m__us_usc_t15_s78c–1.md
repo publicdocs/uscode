@@ -35,7 +35,7 @@
 
         (4) References in this chapter to the “purchase” or “sale” of a security-based swap agreement shall be deemed to mean the execution, termination (prior to its scheduled maturity date), assignment, exchange, or similar transfer or conveyance of, or extinguishing of rights or obligations under, a security-based swap agreement, as the context may require.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 3A, as added [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title III, § 303(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–452; amended [Pub. L. 111–203, title VII, § 762(d)(1)][/us/pl/111/203/s762/d/1], July 21, 2010, [124 Stat. 1760][/us/stat/124/1760].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 3A, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title III, § 303(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–452; amended [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 762(d)(1), July 21, 2010, [124 Stat. 1760][/us/stat/124/1760].)
 
  __Amendment of Section__ 
 
@@ -47,9 +47,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 762(d)(1)(A)][/us/pl/111/203/s762/d/1/A], struck out subsec. (a) and reserved that subsec. Prior to amendment, text read as follows: “The definition of ‘security’ in [section 78c(a)(10) of this title][/us/usc/t15/s78c/a/10] does not include any non-security-based swap agreement (as defined in section 206C of the Gramm-Leach-Bliley Act).”
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 762(d)(1)(A), struck out subsec. (a) and reserved that subsec. Prior to amendment, text read as follows: “The definition of ‘security’ in [section 78c(a)(10) of this title][/us/usc/t15/s78c/a/10] does not include any non-security-based swap agreement (as defined in section 206C of the Gramm-Leach-Bliley Act).”
 
-    Subsec. (b). [Pub. L. 111–203, § 762(d)(1)(B)][/us/pl/111/203/s762/d/1/B], struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreement” wherever appearing.
+    Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 762(d)(1)(B), struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreement” wherever appearing.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -65,15 +65,15 @@
 [/us/usc/t15/s78c/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F10
 [/us/usc/t15/s78p/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78p%2Fa
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/203/s762/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fd%2F1
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1760
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/111/203/s762/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fd%2F1%2FA
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78c/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F10
-[/us/pl/111/203/s762/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fd%2F1%2FB
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs774

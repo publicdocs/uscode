@@ -31,7 +31,7 @@
 
         The requirements of section 4502(d)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title shall continue to be applicable to the use of restitutionary amounts received under this chapter as long as such funds remain available.
 
-([Pub. L. 99–509, title III, § 3007][/us/pl/99/509/s3007], Oct. 21, 1986, [100 Stat. 1887][/us/stat/100/1887].)
+([Pub. L. 99–509, title III][/us/pl/99/509/tIII], § 3007, Oct. 21, 1986, [100 Stat. 1887][/us/stat/100/1887].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 [/us/usc/t15/s4504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4504
 [/us/usc/t15/s4501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4501%2Fa
 [/us/usc/t15/s4505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4505
-[/us/pl/99/509/s3007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs3007
+[/us/pl/99/509/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIII
 [/us/stat/100/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1887
 [/us/usc/t15/s4502/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4502%2Fd
 [/us/usc/t15/s4502/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4502%2Fe

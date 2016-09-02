@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch16A/m__us_usc_t15_ch16A.md) | [Next](./../../../..//us/usc/t15/ch16B/schI/m__us_usc_t15_ch16B_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch16B)
+[Previous](./../../../..//us/usc/t15/ch16A/m__us_usc_t15_s751...760h.md) | [Next](./../../../..//us/usc/t15/ch16B/schI/m__us_usc_t15_ch16B_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch16B)
 
 ## CHAPTER 16B—FEDERAL ENERGY ADMINISTRATION
 
@@ -347,7 +347,7 @@ SUBCHAPTER II—OFFICE OF ENERGY INFORMATION AND ANALYSIS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch16A/m__us_usc_t15_ch16A.md) | [Next](./../../../..//us/usc/t15/ch16B/schI/m__us_usc_t15_ch16B_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch16B)
+[Previous](./../../../..//us/usc/t15/ch16A/m__us_usc_t15_s751...760h.md) | [Next](./../../../..//us/usc/t15/ch16B/schI/m__us_usc_t15_ch16B_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch16B)
 
 ----------
 ----------

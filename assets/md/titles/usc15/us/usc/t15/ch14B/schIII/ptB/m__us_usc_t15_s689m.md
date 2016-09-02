@@ -33,7 +33,7 @@
 
             Each cause of action brought by the United States under this subsection shall be brought by the Administrator or by the Attorney General.
 
-([Pub. L. 85–699, title III, § 364][/us/pl/85/699/s364], as added [Pub. L. 106–554, § 1(a)(8)][/us/pl/106/554/s1/a/8] \[§ 1(b)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–663.)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 364, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(8) \[§ 1(b)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–663.)
 
  __References in Text__ 
 
@@ -46,8 +46,8 @@
 ----------
 ----------
 
-[/us/pl/85/699/s364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs364
-[/us/pl/106/554/s1/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F8
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
 

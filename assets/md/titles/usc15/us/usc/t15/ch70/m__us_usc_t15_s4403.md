@@ -55,7 +55,7 @@
 
                 Such procedures shall require that any person permitted access to the information shall be instructed in writing not to disclose the information to anyone who is not entitled to have access to the information.
 
-([Pub. L. 99–252, § 4][/us/pl/99/252/s4], Feb. 27, 1986, [100 Stat. 32][/us/stat/100/32].)
+([Pub. L. 99–252][/us/pl/99/252], § 4, Feb. 27, 1986, [100 Stat. 32][/us/stat/100/32].)
 
  __Effective Date__ 
 
@@ -69,7 +69,7 @@
 ----------
 
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
-[/us/pl/99/252/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252%2Fs4
+[/us/pl/99/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252
 [/us/stat/100/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F32
 [/us/pl/99/252/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252%2Fs11
 [/us/usc/t15/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4401

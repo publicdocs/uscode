@@ -35,7 +35,7 @@
 
         (2) the State or political subdivision requirement (A) provides a significantly higher degree of protection from such risk than the requirement under this chapter described in subsection (a)(2) and (B) does not, through difficulties in marketing, distribution, or other factors, unduly burden interstate commerce.
 
-([Pub. L. 94–469, title I, § 18][/us/pl/94/469/s18], Oct. 11, 1976, [90 Stat. 2038][/us/stat/90/2038]; renumbered title I, [Pub. L. 99–519, § 3(c)(1)][/us/pl/99/519/s3/c/1], Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989].)
+([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 18, Oct. 11, 1976, [90 Stat. 2038][/us/stat/90/2038]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989].)
 
  __References in Text__ 
 
@@ -51,9 +51,9 @@
 [/us/usc/t15/s2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2603
 [/us/usc/t15/s2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2605
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/94/469/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs18
+[/us/pl/94/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtI
 [/us/stat/90/2038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2038
-[/us/pl/99/519/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs3%2Fc%2F1
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322

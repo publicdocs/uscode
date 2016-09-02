@@ -69,7 +69,7 @@
 
     (9) __Non-profit elementary or secondary school__ 
 
-        The term “non-profit elementary or secondary school” means any elementary or secondary school (as defined in [section 7801 of title 20][/us/usc/t20/s7801]) owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
+        The term “non-profit elementary or secondary school” means any elementary school or secondary school (as defined in [section 7801 of title 20][/us/usc/t20/s7801]) owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
     (10) __Public and commercial building__ 
 
@@ -81,7 +81,7 @@
 
     (12) __School__ 
 
-        The term “school” means any elementary or secondary school as defined in [section 7801 of title 20][/us/usc/t20/s7801].
+        The term “school” means any elementary school or secondary school as defined in [section 7801 of title 20][/us/usc/t20/s7801].
 
     (13) __School building__ 
 
@@ -99,7 +99,7 @@
 
         The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Northern Marianas, the Trust Territory of the Pacific Islands, and the Virgin Islands.
 
-([Pub. L. 94–469, title II, § 202][/us/pl/94/469/s202], as added [Pub. L. 99–519, § 2][/us/pl/99/519/s2], Oct. 22, 1986, [100 Stat. 2971][/us/stat/100/2971]; amended [Pub. L. 103–382, title III, § 391(c)(1)][/us/pl/103/382/s391/c/1]–(3), Oct. 20, 1994, [108 Stat. 4022][/us/stat/108/4022]; [Pub. L. 107–110, title X, § 1076(f)(1)][/us/pl/107/110/s1076/f/1], Jan. 8, 2002, [115 Stat. 2091][/us/stat/115/2091].)
+([Pub. L. 94–469, title II][/us/pl/94/469/tII], § 202, as added [Pub. L. 99–519][/us/pl/99/519], § 2, Oct. 22, 1986, [100 Stat. 2971][/us/stat/100/2971]; amended [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 391(c)(1)–(3), Oct. 20, 1994, [108 Stat. 4022][/us/stat/108/4022]; [Pub. L. 107–110, title X][/us/pl/107/110/tX], § 1076(f)(1), Jan. 8, 2002, [115 Stat. 2091][/us/stat/115/2091]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(xxx)(1), Dec. 10, 2015, [129 Stat. 2191][/us/stat/129/2191].)
 
  __References in Text__ 
 
@@ -107,9 +107,19 @@
 
  __Amendments__ 
 
+    2015—Par. (7)(A). [Pub. L. 114–95][/us/pl/114/95], § 9215(xxx)(1)(A), made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20][/us/usc/t20/s7801].
+
+    Par. (9). [Pub. L. 114–95][/us/pl/114/95], § 9215(xxx)(1)(B), substituted “any elementary school or secondary school (as defined in [section 7801 of title 20][/us/usc/t20/s7801])” for “any elementary or secondary school (as defined in [section 7801 of title 20][/us/usc/t20/s7801])”.
+
+    Par. (12). [Pub. L. 114–95][/us/pl/114/95], § 9215(xxx)(1)(C), substituted “elementary school or secondary school as defined in [section 7801 of title 20][/us/usc/t20/s7801]” for “elementary or secondary school as defined in [section 7801 of title 20][/us/usc/t20/s7801]”.
+
     2002—Pars. (7)(A), (9), (12). [Pub. L. 107–110][/us/pl/107/110] substituted “7801” for “8801”.
 
     1994—Pars. (7)(A), (9), (12). [Pub. L. 103–382][/us/pl/103/382] made technical amendment to reference to [section 8801 of title 20][/us/usc/t20/s8801] to reflect change in reference to corresponding section of original act.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
  __Effective Date of 2002 Amendment__ 
 
@@ -131,19 +141,32 @@
 [/us/usc/t20/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs921
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
-[/us/pl/94/469/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs202
-[/us/pl/99/519/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs2
+[/us/pl/94/469/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtII
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2971
-[/us/pl/103/382/s391/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Fc%2F1
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4022
-[/us/pl/107/110/s1076/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs1076%2Ff%2F1
+[/us/pl/107/110/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2FtX
 [/us/stat/115/2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2091
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2191
 [/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
 [/us/stat/92/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2365
 [/us/usc/t20/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs921
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/usc/t20/s8801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs8801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301

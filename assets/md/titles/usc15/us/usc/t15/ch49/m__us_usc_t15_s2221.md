@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch49/m__us_usc_t15_s2220.md) | [Next](./../../../..//us/usc/t15/ch49/m__us_usc_t15_s2223a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2221)
+[Previous](./../../../..//us/usc/t15/ch49/m__us_usc_t15_s2220.md) | [Next](./../../../..//us/usc/t15/ch49/m__us_usc_t15_s2222 _us_usc_t15_s2223.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2221)
 
 ## § 2221. Arson prevention grants
 
@@ -127,40 +127,26 @@
 
             In allocating grants under this section, the Administrator shall provide to each recipient a notice describing the statement made in paragraph (1) by the Congress.
 
-([Pub. L. 93–498, § 25][/us/pl/93/498/s25], as added [Pub. L. 103–254, § 3][/us/pl/103/254/s3], May 19, 1994, [108 Stat. 679][/us/stat/108/679].)
+([Pub. L. 93–498][/us/pl/93/498], § 25, as added [Pub. L. 103–254][/us/pl/103/254], § 3, May 19, 1994, [108 Stat. 679][/us/stat/108/679].)
 
  __Prior Provisions__ 
 
-    A prior section 2221, [Pub. L. 93–498, § 25][/us/pl/93/498/s25], as added [Pub. L. 95–422, § 4][/us/pl/95/422/s4], Oct. 5, 1978, [92 Stat. 933][/us/stat/92/933], authorized sale by United States Fire Administrator of former Marjorie Webster Junior College facility, located in Washington, D.C., which had previously been purchased as site for National Academy for Fire Prevention and Control, prior to repeal by [Pub. L. 97–80, title II, § 202(b)][/us/pl/97/80/s202/b], Nov. 20, 1981, [95 Stat. 1083][/us/stat/95/1083].
-
-§§ 2222, 2223. __Repealed.__  __[__  __Pub. L. 106–503, title I, § 110(a)(1)(B)__  __][/us/pl/106/503/s110/a/1/B]__  __,__  __Nov. 13, 2000__  __,__  __[__  __114 Stat. 2302__  __][/us/stat/114/2302]__ 
-
-    Section 2222, [Pub. L. 93–498, § 26][/us/pl/93/498/s26], as added [Pub. L. 96–121, § 4][/us/pl/96/121/s4], Nov. 16, 1979, [93 Stat. 864][/us/stat/93/864], related to an effectiveness study concerning smoke detectors, heat detectors, and sprinkler suppression systems.
-
-    Section 2223, [Pub. L. 93–498, § 27][/us/pl/93/498/s27], as added [Pub. L. 96–121, § 5][/us/pl/96/121/s5], Nov. 16, 1979, [93 Stat. 865][/us/stat/93/865], related to a firefighter safety study.
+    A prior section 2221, [Pub. L. 93–498][/us/pl/93/498], § 25, as added [Pub. L. 95–422][/us/pl/95/422], § 4, Oct. 5, 1978, [92 Stat. 933][/us/stat/92/933], authorized sale by United States Fire Administrator of former Marjorie Webster Junior College facility, located in Washington, D.C., which had previously been purchased as site for National Academy for Fire Prevention and Control, prior to repeal by [Pub. L. 97–80, title II][/us/pl/97/80/tII], § 202(b), Nov. 20, 1981, [95 Stat. 1083][/us/stat/95/1083].
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch49/m__us_usc_t15_s2220.md) | [Next](./../../../..//us/usc/t15/ch49/m__us_usc_t15_s2223a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2221)
+[Previous](./../../../..//us/usc/t15/ch49/m__us_usc_t15_s2220.md) | [Next](./../../../..//us/usc/t15/ch49/m__us_usc_t15_s2222 _us_usc_t15_s2223.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2221)
 
 ----------
 ----------
 
-[/us/pl/93/498/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs25
-[/us/pl/103/254/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F254%2Fs3
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
+[/us/pl/103/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F254
 [/us/stat/108/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F679
-[/us/pl/93/498/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs25
-[/us/pl/95/422/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F422%2Fs4
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
+[/us/pl/95/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F422
 [/us/stat/92/933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F933
-[/us/pl/97/80/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F80%2Fs202%2Fb
+[/us/pl/97/80/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F80%2FtII
 [/us/stat/95/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1083
-[/us/pl/106/503/s110/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs110%2Fa%2F1%2FB
-[/us/stat/114/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2302
-[/us/pl/93/498/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs26
-[/us/pl/96/121/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F121%2Fs4
-[/us/stat/93/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F864
-[/us/pl/93/498/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs27
-[/us/pl/96/121/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F121%2Fs5
-[/us/stat/93/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F865
 
 

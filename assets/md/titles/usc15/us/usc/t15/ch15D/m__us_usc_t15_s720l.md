@@ -29,7 +29,7 @@
 
     (6) as a result, natural gas delivered from Alaskan North Slope will not displace or reduce the commercial viability of Canadian natural gas produced from the Mackenzie Delta or production from the 48 contiguous States.
 
-([Pub. L. 108–324, div. C, § 114][/us/pl/108/324/s114], Oct. 13, 2004, [118 Stat. 1264][/us/stat/118/1264].)
+([Pub. L. 108–324, div. C][/us/pl/108/324/dC], § 114, Oct. 13, 2004, [118 Stat. 1264][/us/stat/118/1264].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/108/324/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs114
+[/us/pl/108/324/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2FdC
 [/us/stat/118/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1264
 
 

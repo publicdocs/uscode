@@ -51,7 +51,7 @@
 
         The Commission may issue such regulations as are necessary to carry out this section.
 
-([Pub. L. 108–324, div. C, § 105][/us/pl/108/324/s105], Oct. 13, 2004, [118 Stat. 1258][/us/stat/118/1258].)
+([Pub. L. 108–324, div. C][/us/pl/108/324/dC], § 105, Oct. 13, 2004, [118 Stat. 1258][/us/stat/118/1258].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/108/324/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs105
+[/us/pl/108/324/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2FdC
 [/us/stat/118/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1258
 
 

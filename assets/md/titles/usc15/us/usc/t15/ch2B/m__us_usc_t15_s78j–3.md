@@ -149,7 +149,7 @@
 
             (B) that holds an election for the board of directors of the issuer in which more than 50 percent of the voting power is held by an individual, a group, or another issuer.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 10C, as added [Pub. L. 111–203, title IX, § 952(a)][/us/pl/111/203/s952/a], July 21, 2010, [124 Stat. 1900][/us/stat/124/1900].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 10C, as added [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 952(a), July 21, 2010, [124 Stat. 1900][/us/stat/124/1900].)
 
  __References in Text__ 
 
@@ -168,7 +168,7 @@
 
 [/us/usc/t15/s80a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%931
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/111/203/s952/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs952%2Fa
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1900
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F789

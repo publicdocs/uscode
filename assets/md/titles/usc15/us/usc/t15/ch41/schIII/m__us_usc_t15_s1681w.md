@@ -41,7 +41,7 @@
 
         (2) to alter or affect any requirement imposed under any other provision of law to maintain or destroy such a record.
 
-([Pub. L. 90–321, title VI, § 628][/us/pl/90/321/s628], as added [Pub. L. 108–159, title II, § 216(a)][/us/pl/108/159/s216/a], Dec. 4, 2003, [117 Stat. 1985][/us/stat/117/1985]; amended [Pub. L. 111–203, title X, § 1088(a)(12)][/us/pl/111/203/s1088/a/12], (13), July 21, 2010, [124 Stat. 2091][/us/stat/124/2091], 2092.)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 628, as added [Pub. L. 108–159, title II][/us/pl/108/159/tII], § 216(a), Dec. 4, 2003, [117 Stat. 1985][/us/stat/117/1985]; amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1088(a)(12), (13), July 21, 2010, [124 Stat. 2091][/us/stat/124/2091], 2092.)
 
  __References in Text__ 
 
@@ -49,9 +49,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–203, § 1088(a)(12)][/us/pl/111/203/s1088/a/12], substituted “The Federal Trade Commission, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the Federal banking agencies, and the National Credit Union Administration, with respect to the entities that are subject to their respective enforcement authority under [section 1681s of this title][/us/usc/t15/s1681s],” for “Not later than 1 year after December 4, 2003, the Federal banking agencies, the National Credit Union Administration, and the Commission with respect to the entities that are subject to their respective enforcement authority under [section 1681s of this title][/us/usc/t15/s1681s], and the Securities and Exchange Commission,”.
+    2010—Subsec. (a)(1). [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(12), substituted “The Federal Trade Commission, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the Federal banking agencies, and the National Credit Union Administration, with respect to the entities that are subject to their respective enforcement authority under [section 1681s of this title][/us/usc/t15/s1681s],” for “Not later than 1 year after December 4, 2003, the Federal banking agencies, the National Credit Union Administration, and the Commission with respect to the entities that are subject to their respective enforcement authority under [section 1681s of this title][/us/usc/t15/s1681s], and the Securities and Exchange Commission,”.
 
-    Subsec. (a)(3). [Pub. L. 111–203, § 1088(a)(13)][/us/pl/111/203/s1088/a/13], substituted “the agencies identified in paragraph (1)” for “the Federal banking agencies, the National Credit Union Administration, the Commission, and the Securities and Exchange Commission”.
+    Subsec. (a)(3). [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(13), substituted “the agencies identified in paragraph (1)” for “the Federal banking agencies, the National Credit Union Administration, the Commission, and the Securities and Exchange Commission”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -70,19 +70,19 @@
 
 [/us/usc/t15/s1681s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
-[/us/pl/90/321/s628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs628
-[/us/pl/108/159/s216/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs216%2Fa
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/108/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtII
 [/us/stat/117/1985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1985
-[/us/pl/111/203/s1088/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F12
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2091
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/stat/113/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1338
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
-[/us/pl/111/203/s1088/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F12
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s1681s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s
 [/us/usc/t15/s1681s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s
-[/us/pl/111/203/s1088/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F13
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

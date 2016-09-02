@@ -11,43 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch82/m__us_usc_t15_s5602.md) | [Next](./../../../../..//us/usc/t15/ch82/schII/m__us_usc_t15_ch82_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch82%2FschI)
+[Previous](./../../../../..//us/usc/t15/ch82/m__us_usc_t15_s5602.md) | [Next](./../../../../..//us/usc/t15/ch82/schI/m__us_usc_t15_s5611...5615.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch82%2FschI)
 
 ### SUBCHAPTER I—LANDSAT
 
-§§ 5611 to 5615. __Repealed.__  __[__  __Pub. L. 111–314, § 6__  __][/us/pl/111/314/s6]__  __,__  __Dec. 18, 2010__  __,__  __[__  __124 Stat. 3444__  __][/us/stat/124/3444]__ 
-
-    Section 5611, [Pub. L. 102–555, title I, § 101][/us/pl/102/555/s101], Oct. 28, 1992, [106 Stat. 4166][/us/stat/106/4166], related to management of the Landsat Program. See [section 60111 of Title 51][/us/usc/t51/s60111], National and Commercial Space Programs.
-
-    Section 5612, [Pub. L. 102–555, title I, § 102][/us/pl/102/555/s102], Oct. 28, 1992, [106 Stat. 4168][/us/stat/106/4168], related to procurement of Landsat 7.
-
-    Section 5613, [Pub. L. 102–555, title I, § 103][/us/pl/102/555/s103], Oct. 28, 1992, [106 Stat. 4168][/us/stat/106/4168], related to data policy for Landsat 4 through 6.
-
-    Section 5614, [Pub. L. 102–555, title I, § 104][/us/pl/102/555/s104], Oct. 28, 1992, [106 Stat. 4170][/us/stat/106/4170], related to transfer of Landsat 6 program responsibilities. See [section 60112 of Title 51][/us/usc/t51/s60112].
-
-    Section 5615, [Pub. L. 102–555, title I, § 105][/us/pl/102/555/s105], Oct. 28, 1992, [106 Stat. 4170][/us/stat/106/4170], related to data policy for Landsat 7. See [section 60113 of Title 51][/us/usc/t51/s60113].
-
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch82/m__us_usc_t15_s5602.md) | [Next](./../../../../..//us/usc/t15/ch82/schII/m__us_usc_t15_ch82_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch82%2FschI)
+[Previous](./../../../../..//us/usc/t15/ch82/m__us_usc_t15_s5602.md) | [Next](./../../../../..//us/usc/t15/ch82/schI/m__us_usc_t15_s5611...5615.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch82%2FschI)
 
 ----------
 ----------
 
-[/us/pl/111/314/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs6
-[/us/stat/124/3444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3444
-[/us/pl/102/555/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F555%2Fs101
-[/us/stat/106/4166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4166
-[/us/usc/t51/s60111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs60111
-[/us/pl/102/555/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F555%2Fs102
-[/us/stat/106/4168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4168
-[/us/pl/102/555/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F555%2Fs103
-[/us/stat/106/4168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4168
-[/us/pl/102/555/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F555%2Fs104
-[/us/stat/106/4170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4170
-[/us/usc/t51/s60112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs60112
-[/us/pl/102/555/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F555%2Fs105
-[/us/stat/106/4170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4170
-[/us/usc/t51/s60113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs60113
 
 

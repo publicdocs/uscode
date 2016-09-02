@@ -17,7 +17,7 @@
 
     The President shall establish an interagency United States Global Change Research Program to improve understanding of global change. The Program shall be implemented by the Plan developed under [section 2934 of this title][/us/usc/t15/s2934].
 
-([Pub. L. 101–606, title I, § 103][/us/pl/101/606/s103], Nov. 16, 1990, [104 Stat. 3098][/us/stat/104/3098].)
+([Pub. L. 101–606, title I][/us/pl/101/606/tI], § 103, Nov. 16, 1990, [104 Stat. 3098][/us/stat/104/3098].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t15/s2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2934
-[/us/pl/101/606/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2Fs103
+[/us/pl/101/606/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2FtI
 [/us/stat/104/3098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3098
 
 

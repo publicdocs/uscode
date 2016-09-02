@@ -27,33 +27,33 @@
 
         The sole purpose of this chapter is to create an administration in the executive branch, called the Federal Energy Administration, to vest in the Administration certain functions as provided in this chapter, and to transfer to such Administration certain executive branch functions authorized by other laws, where such transfer is necessary on an interim basis to deal with the Nation’s energy shortages.
 
-([Pub. L. 93–275, § 2][/us/pl/93/275/s2], May 7, 1974, [88 Stat. 97][/us/stat/88/97].)
+([Pub. L. 93–275][/us/pl/93/275], § 2, May 7, 1974, [88 Stat. 97][/us/stat/88/97].)
 
  __Effective and Termination Dates__ 
 
-    [Section 30 of Pub. L. 93–275][/us/pl/93/275/s30], as amended by [Pub. L. 94–332][/us/pl/94/332], June 30, 1976, [90 Stat. 784][/us/stat/90/784]; [Pub. L. 94–385, title I, § 112(a)][/us/pl/94/385/s112/a], Aug. 14, 1976, [90 Stat. 1132][/us/stat/90/1132]; [Pub. L. 95–70, § 6][/us/pl/95/70/s6], July 21, 1977, [91 Stat. 277][/us/stat/91/277], under which this chapter became effective sixty days after May 7, 1974, and was to terminate Sept. 30, 1978, was repealed by [Pub. L. 95–91, title VII, § 709(a)(1)][/us/pl/95/91/s709/a/1], Aug. 4, 1977, [91 Stat. 607][/us/stat/91/607].
+    [Section 30 of Pub. L. 93–275][/us/pl/93/275/s30], as amended by [Pub. L. 94–332][/us/pl/94/332], June 30, 1976, [90 Stat. 784][/us/stat/90/784]; [Pub. L. 94–385, title I][/us/pl/94/385/tI], § 112(a), Aug. 14, 1976, [90 Stat. 1132][/us/stat/90/1132]; [Pub. L. 95–70][/us/pl/95/70], § 6, July 21, 1977, [91 Stat. 277][/us/stat/91/277], under which this chapter became effective sixty days after May 7, 1974, and was to terminate Sept. 30, 1978, was repealed by [Pub. L. 95–91, title VII][/us/pl/95/91/tVII], § 709(a)(1), Aug. 4, 1977, [91 Stat. 607][/us/stat/91/607].
 
  __Short Title of 1977 Amendment__ 
 
-[Pub. L. 95–70, § 1][/us/pl/95/70/s1], July 21, 1977, [91 Stat. 275][/us/stat/91/275], provided that: 
+[Pub. L. 95–70][/us/pl/95/70], § 1, July 21, 1977, [91 Stat. 275][/us/stat/91/275], provided that: 
 
 > “This Act \[enacting sections 788 and 789 of this title and amending sections 766 and 792 of this title, sections 6246, 6309, and 6881 of Title 42, The Public Health and Welfare, and notes under this section\] may be cited as the ‘Federal Energy Administration Authorization Act of 1977’.”
 
  __Short Title of 1976 Amendment__ 
 
-[Pub. L. 94–385, title I, § 101][/us/pl/94/385/s101], Aug. 14, 1976, [90 Stat. 1127][/us/stat/90/1127], provided that: 
+[Pub. L. 94–385, title I][/us/pl/94/385/tI], § 101, Aug. 14, 1976, [90 Stat. 1127][/us/stat/90/1127], provided that: 
 
 > “This title \[enacting sections 787, 790 to 790h of this title, amending sections 757, 764, 766, 772, 774, 777 and 784 of this title and sections 5818, 6211 and 6295 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 753, 757, and 790 of this title\] may be cited as the ‘Federal Energy Administration Act Amendments of 1976’.”
 
  __Short Title__ 
 
-[Pub. L. 93–275, § 1][/us/pl/93/275/s1], May 7, 1974, [88 Stat. 96][/us/stat/88/96], provided that: 
+[Pub. L. 93–275][/us/pl/93/275], § 1, May 7, 1974, [88 Stat. 96][/us/stat/88/96], provided that: 
 
 > “This Act \[enacting this chapter and provisions set out as notes under this section\] may be cited as the ‘Federal Energy Administration Act of 1974’.”
 
  __Separability__ 
 
-[Pub. L. 93–275, § 27][/us/pl/93/275/s27], May 7, 1974, [88 Stat. 115][/us/stat/88/115], provided that: 
+[Pub. L. 93–275][/us/pl/93/275], § 27, May 7, 1974, [88 Stat. 115][/us/stat/88/115], provided that: 
 
 > “If any provision of this Act \[this chapter\], or the application thereof to any person or circumstance, is held invalid, the remainder of this Act \[this chapter\], and the application of such provision to other persons or circumstances, shall not be affected thereby.”
 
@@ -63,7 +63,7 @@
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 93–275, § 29][/us/pl/93/275/s29], May 7, 1974, [88 Stat. 115][/us/stat/88/115], as amended by [Pub. L. 94–385, title I, § 110][/us/pl/94/385/s110], Aug. 14, 1976, [90 Stat. 1130][/us/stat/90/1130]; [Pub. L. 95–70, § 2][/us/pl/95/70/s2], July 21, 1977, [91 Stat. 275][/us/stat/91/275], provided that:
+[Pub. L. 93–275][/us/pl/93/275], § 29, May 7, 1974, [88 Stat. 115][/us/stat/88/115], as amended by [Pub. L. 94–385, title I][/us/pl/94/385/tI], § 110, Aug. 14, 1976, [90 Stat. 1130][/us/stat/90/1130]; [Pub. L. 95–70][/us/pl/95/70], § 2, July 21, 1977, [91 Stat. 275][/us/stat/91/275], provided that:
 
 >     “(a)
 
@@ -135,7 +135,7 @@
 
  __Advice and Consent of Senate Required for Appointment of Director of Energy Policy Office__ 
 
-    [Pub. L. 93–153, title IV, § 404][/us/pl/93/153/s404], Nov. 16, 1973, [87 Stat. 590][/us/stat/87/590], directed that Director of Energy Policy Office be appointed by President, by and with advice and consent of Senate, but that if any individual serving in this office on Nov. 16, 1973, were nominated for such position, he may continue to act unless and until such nomination were disapproved by Senate.
+    [Pub. L. 93–153, title IV][/us/pl/93/153/tIV], § 404, Nov. 16, 1973, [87 Stat. 590][/us/stat/87/590], directed that Director of Energy Policy Office be appointed by President, by and with advice and consent of Senate, but that if any individual serving in this office on Nov. 16, 1973, were nominated for such position, he may continue to act unless and until such nomination were disapproved by Senate.
 
  __Executive Order No. 11712__ 
 
@@ -216,33 +216,33 @@ Under and by virtue of the authority vested in me by the Federal Energy Administ
 ----------
 ----------
 
-[/us/pl/93/275/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs2
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F97
 [/us/pl/93/275/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs30
 [/us/pl/94/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F332
 [/us/stat/90/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F784
-[/us/pl/94/385/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs112%2Fa
+[/us/pl/94/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtI
 [/us/stat/90/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1132
-[/us/pl/95/70/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F70%2Fs6
+[/us/pl/95/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F70
 [/us/stat/91/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F277
-[/us/pl/95/91/s709/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs709%2Fa%2F1
+[/us/pl/95/91/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVII
 [/us/stat/91/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F607
-[/us/pl/95/70/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F70%2Fs1
+[/us/pl/95/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F70
 [/us/stat/91/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F275
-[/us/pl/94/385/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs101
+[/us/pl/94/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtI
 [/us/stat/90/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1127
-[/us/pl/93/275/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs1
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F96
-[/us/pl/93/275/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs27
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F115
-[/us/pl/93/275/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs29
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F115
-[/us/pl/94/385/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs110
+[/us/pl/94/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtI
 [/us/stat/90/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1130
-[/us/pl/95/70/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F70%2Fs2
+[/us/pl/95/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F70
 [/us/stat/91/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F275
 [/us/usc/t15/s787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs787
-[/us/pl/93/153/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F153%2Fs404
+[/us/pl/93/153/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F153%2FtIV
 [/us/stat/87/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F590
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a

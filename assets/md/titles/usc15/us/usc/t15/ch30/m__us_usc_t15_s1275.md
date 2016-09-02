@@ -51,11 +51,11 @@
 
         The Board shall terminate on the date six years after the date it is established under this section.
 
-([Pub. L. 86–613, § 20][/us/pl/86/613/s20], as added [Pub. L. 95–631, § 10][/us/pl/95/631/s10], Nov. 10, 1978, [92 Stat. 3747][/us/stat/92/3747]; amended [Pub. L. 110–314, title II, § 204(b)(4)(H)][/us/pl/110/314/s204/b/4/H], (I), Aug. 14, 2008, [122 Stat. 3042][/us/stat/122/3042].)
+([Pub. L. 86–613][/us/pl/86/613], § 20, as added [Pub. L. 95–631][/us/pl/95/631], § 10, Nov. 10, 1978, [92 Stat. 3747][/us/stat/92/3747]; amended [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 204(b)(4)(H), (I), Aug. 14, 2008, [122 Stat. 3042][/us/stat/122/3042].)
 
  __References in Text__ 
 
-    [Section 5703 of title 5][/us/usc/t5/s5703], referred to in subsec. (b)(5), was amended generally by [Pub. L. 94–22, § 4][/us/pl/94/22/s4], May 19, 1975, [89 Stat. 85][/us/stat/89/85], and, as so amended, does not contain a subsec. (b).
+    [Section 5703 of title 5][/us/usc/t5/s5703], referred to in subsec. (b)(5), was amended generally by [Pub. L. 94–22][/us/pl/94/22], § 4, May 19, 1975, [89 Stat. 85][/us/stat/89/85], and, as so amended, does not contain a subsec. (b).
 
  __Amendments__ 
 
@@ -77,13 +77,13 @@
 [/us/usc/t15/s1261/p/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1261%2Fp%2F1%2FG
 [/us/usc/t15/s1262/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1262%2Fc
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/86/613/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs20
-[/us/pl/95/631/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631%2Fs10
+[/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
+[/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
 [/us/stat/92/3747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3747
-[/us/pl/110/314/s204/b/4/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FH
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3042
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/94/22/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs4
+[/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 [/us/stat/89/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F85
 [/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

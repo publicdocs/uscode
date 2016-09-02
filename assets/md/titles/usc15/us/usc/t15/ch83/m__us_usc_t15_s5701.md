@@ -39,7 +39,7 @@
 
         (8) Vendors of telephone-billed goods and services must also feel confident in their rights and obligations for resolving billing disputes if they are to use this new marketplace for the sale of products of more than nominal value.
 
-([Pub. L. 102–556, § 1][/us/pl/102/556/s1], Oct. 28, 1992, [106 Stat. 4181][/us/stat/106/4181].)
+([Pub. L. 102–556][/us/pl/102/556], § 1, Oct. 28, 1992, [106 Stat. 4181][/us/stat/106/4181].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/102/556/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2Fs1
+[/us/pl/102/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556
 [/us/stat/106/4181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4181
 [/us/pl/102/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556
 [/us/stat/106/4181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4181

@@ -221,7 +221,7 @@
 
             For purposes of this subsection, the term “examining authority” means a self-regulatory organization registered with the Commission under this chapter (other than a registered clearing agency) with the authority to examine, inspect, and otherwise oversee the activities of a registered broker or dealer.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 17, [48 Stat. 897][/us/stat/48/897]; [May 27, 1936, ch. 462, § 4][/us/act/1936-05-27/ch462/s4], [49 Stat. 1379][/us/stat/49/1379]; [June 25, 1938, ch. 677, § 5][/us/act/1938-06-25/ch677/s5], [52 Stat. 1076][/us/stat/52/1076]; [Pub. L. 94–29, § 14][/us/pl/94/29/s14], June 4, 1975, [89 Stat. 137][/us/stat/89/137]; [Pub. L. 99–571, title I, § 102(h)][/us/pl/99/571/s102/h], (i), Oct. 28, 1986, [100 Stat. 3219][/us/stat/100/3219]; [Pub. L. 100–181, title III, § 321][/us/pl/100/181/s321], title VIII, § 801(b), Dec. 4, 1987, [101 Stat. 1257][/us/stat/101/1257], 1265; [Pub. L. 101–432, § 4(a)][/us/pl/101/432/s4/a], Oct. 16, 1990, [104 Stat. 966][/us/stat/104/966]; [Pub. L. 104–290, title I, § 108][/us/pl/104/290/s108], Oct. 11, 1996, [110 Stat. 3425][/us/stat/110/3425]; [Pub. L. 105–353, title III, § 301(b)(5)][/us/pl/105/353/s301/b/5], Nov. 3, 1998, [112 Stat. 3236][/us/stat/112/3236]; [Pub. L. 106–102, title II, § 231(a)][/us/pl/106/102/s231/a], Nov. 12, 1999, [113 Stat. 1402][/us/stat/113/1402]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 204\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–424; [Pub. L. 107–204, title II, § 205(c)(2)][/us/pl/107/204/s205/c/2], July 30, 2002, [116 Stat. 774][/us/stat/116/774]; [Pub. L. 108–386, § 8(f)(5)][/us/pl/108/386/s8/f/5], (6), Oct. 30, 2004, [118 Stat. 2232][/us/stat/118/2232]; [Pub. L. 109–291, § 5][/us/pl/109/291/s5], Sept. 29, 2006, [120 Stat. 1338][/us/stat/120/1338]; [Pub. L. 111–203, title VI, § 617(a)][/us/pl/111/203/s617/a], title IX, §§ 929D, 929S, 975(h), 982(e)(2), 985(b)(7), July 21, 2010, [124 Stat. 1616][/us/stat/124/1616], 1853, 1867, 1923, 1929, 1934.)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 17, [48 Stat. 897][/us/stat/48/897]; [May 27, 1936, ch. 462][/us/act/1936-05-27/ch462], § 4, [49 Stat. 1379][/us/stat/49/1379]; [June 25, 1938, ch. 677][/us/act/1938-06-25/ch677], § 5, [52 Stat. 1076][/us/stat/52/1076]; [Pub. L. 94–29][/us/pl/94/29], § 14, June 4, 1975, [89 Stat. 137][/us/stat/89/137]; [Pub. L. 99–571, title I][/us/pl/99/571/tI], § 102(h), (i), Oct. 28, 1986, [100 Stat. 3219][/us/stat/100/3219]; [Pub. L. 100–181, title III][/us/pl/100/181/tIII], § 321, title VIII, § 801(b), Dec. 4, 1987, [101 Stat. 1257][/us/stat/101/1257], 1265; [Pub. L. 101–432][/us/pl/101/432], § 4(a), Oct. 16, 1990, [104 Stat. 966][/us/stat/104/966]; [Pub. L. 104–290, title I][/us/pl/104/290/tI], § 108, Oct. 11, 1996, [110 Stat. 3425][/us/stat/110/3425]; [Pub. L. 105–353, title III][/us/pl/105/353/tIII], § 301(b)(5), Nov. 3, 1998, [112 Stat. 3236][/us/stat/112/3236]; [Pub. L. 106–102, title II][/us/pl/106/102/tII], § 231(a), Nov. 12, 1999, [113 Stat. 1402][/us/stat/113/1402]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 204\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–424; [Pub. L. 107–204, title II][/us/pl/107/204/tII], § 205(c)(2), July 30, 2002, [116 Stat. 774][/us/stat/116/774]; [Pub. L. 108–386][/us/pl/108/386], § 8(f)(5), (6), Oct. 30, 2004, [118 Stat. 2232][/us/stat/118/2232]; [Pub. L. 109–291][/us/pl/109/291], § 5, Sept. 29, 2006, [120 Stat. 1338][/us/stat/120/1338]; [Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 617(a), title IX, §§ 929D, 929S, 975(h), 982(e)(2), 985(b)(7), July 21, 2010, [124 Stat. 1616][/us/stat/124/1616], 1853, 1867, 1923, 1929, 1934.)
 
  __References in Text__ 
 
@@ -231,37 +231,37 @@
 
     Subchapter VIII of chapter 3 of title 12, referred to in subsec. (h)(3)(B), was in the original “section 9 of the Federal Reserve Act”, meaning section 9 of [act Dec. 23, 1913, ch. 6][/us/act/1913-12-23/ch6], [38 Stat. 251][/us/stat/38/251], as amended, which is classified generally to subchapter VIII (§ 321 et seq.) of chapter 3 of Title 12, Banks and Banking.
 
-    [Section 3401(6) of title 12][/us/usc/t12/s3401/6], referred to in subsec. (h)(4)(A), was redesignated [section 3401(7) of title 12][/us/usc/t12/s3401/7] by [Pub. L. 101–73, title IX, § 941(1)][/us/pl/101/73/s941/1], Aug. 9, 1989, [103 Stat. 496][/us/stat/103/496].
+    [Section 3401(6) of title 12][/us/usc/t12/s3401/6], referred to in subsec. (h)(4)(A), was redesignated [section 3401(7) of title 12][/us/usc/t12/s3401/7] by [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 941(1), Aug. 9, 1989, [103 Stat. 496][/us/stat/103/496].
 
-    Subsection (i) of this section, referred to in subsec. (i), was repealed, and subsec. (j) was redesignated (i), by [Pub. L. 111–203, § 617(a)][/us/pl/111/203/s617/a]. See 2010 Amendment note below.
+    Subsection (i) of this section, referred to in subsec. (i), was repealed, and subsec. (j) was redesignated (i), by [Pub. L. 111–203][/us/pl/111/203], § 617(a). See 2010 Amendment note below.
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–203, § 975(h)][/us/pl/111/203/s975/h], inserted “municipal advisor,” after “municipal securities dealer”.
+    2010—Subsec. (a)(1). [Pub. L. 111–203][/us/pl/111/203], § 975(h), inserted “municipal advisor,” after “municipal securities dealer”.
 
-    Subsec. (b)(1)(B). [Pub. L. 111–203, § 985(b)(7)][/us/pl/111/203/s985/b/7], substituted “give notice to” for “gives notice to”.
+    Subsec. (b)(1)(B). [Pub. L. 111–203][/us/pl/111/203], § 985(b)(7), substituted “give notice to” for “gives notice to”.
 
-    Subsec. (e)(1)(A). [Pub. L. 111–203, § 982(e)(2)][/us/pl/111/203/s982/e/2], substituted “independent public accounting firm, or by a registered public accounting firm if the firm is required to be registered under the Sarbanes-Oxley Act of 2002,” for “registered public accounting firm”.
+    Subsec. (e)(1)(A). [Pub. L. 111–203][/us/pl/111/203], § 982(e)(2), substituted “independent public accounting firm, or by a registered public accounting firm if the firm is required to be registered under the Sarbanes-Oxley Act of 2002,” for “registered public accounting firm”.
 
-    Subsec. (f)(1)(A). [Pub. L. 111–203, § 929D(1)][/us/pl/111/203/s929D/1], substituted “securities that are missing, lost, counterfeit, stolen, or cancelled” for “missing, lost, counterfeit, or stolen securities”.
+    Subsec. (f)(1)(A). [Pub. L. 111–203][/us/pl/111/203], § 929D(1), substituted “securities that are missing, lost, counterfeit, stolen, or cancelled” for “missing, lost, counterfeit, or stolen securities”.
 
-    Subsec. (f)(1)(B). [Pub. L. 111–203, § 929D(2)][/us/pl/111/203/s929D/2], substituted “stolen, cancelled, or reported in such other manner as the Commission, by rule, may prescribe” for “or stolen”.
+    Subsec. (f)(1)(B). [Pub. L. 111–203][/us/pl/111/203], § 929D(2), substituted “stolen, cancelled, or reported in such other manner as the Commission, by rule, may prescribe” for “or stolen”.
 
-    Subsec. (f)(2). [Pub. L. 111–203, § 929S][/us/pl/111/203/s929S], in first sentence, substituted “registered clearing agency, registered securities information processor, national securities exchange, and national securities association” for “and registered clearing agency,” and, in second sentence, substituted “clearing agency, securities information processor, national securities exchange, or national securities association,” for “or clearing agency,”.
+    Subsec. (f)(2). [Pub. L. 111–203][/us/pl/111/203], § 929S, in first sentence, substituted “registered clearing agency, registered securities information processor, national securities exchange, and national securities association” for “and registered clearing agency,” and, in second sentence, substituted “clearing agency, securities information processor, national securities exchange, or national securities association,” for “or clearing agency,”.
 
-    Subsecs. (i) to (k). [Pub. L. 111–203, § 617(a)][/us/pl/111/203/s617/a], redesignated subsecs. (j) and (k) as (i) and (j), respectively, and struck out former subsec. (i) which related to supervision of investment bank holding companies and recordkeeping and reporting requirements.
+    Subsecs. (i) to (k). [Pub. L. 111–203][/us/pl/111/203], § 617(a), redesignated subsecs. (j) and (k) as (i) and (j), respectively, and struck out former subsec. (i) which related to supervision of investment bank holding companies and recordkeeping and reporting requirements.
 
     2006—Subsec. (a)(1). [Pub. L. 109–291][/us/pl/109/291] inserted “nationally recognized statistical rating organization,” after “registered transfer agent,” and inserted at end “Any report that a nationally recognized statistical rating organization is required by Commission rules under this paragraph to make and disseminate to the Commission shall be deemed furnished to the Commission.”
 
-    2004—Subsec. (f)(4)(A). [Pub. L. 108–386, § 8(f)(5)][/us/pl/108/386/s8/f/5], struck out “and banks operating under the Code of Law for the District of Columbia” before semicolon.
+    2004—Subsec. (f)(4)(A). [Pub. L. 108–386][/us/pl/108/386], § 8(f)(5), struck out “and banks operating under the Code of Law for the District of Columbia” before semicolon.
 
-    Subsec. (f)(4)(B). [Pub. L. 108–386, § 8(f)(6)][/us/pl/108/386/s8/f/6], struck out “or a bank operating under the Code of Law for the District of Columbia” before semicolon.
+    Subsec. (f)(4)(B). [Pub. L. 108–386][/us/pl/108/386], § 8(f)(6), struck out “or a bank operating under the Code of Law for the District of Columbia” before semicolon.
 
     2002—Subsecs. (e)(1)(A), (i)(3)(A)(ii). [Pub. L. 107–204][/us/pl/107/204] substituted “a registered public accounting firm” for “an independent public accountant”.
 
-    2000—Subsec. (b). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 204(5)\], which directed amendment of subsec. (b) by adding at the end pars. (2) to (4)(B), was executed by making the addition after par. (1), to reflect the probable intent of Congress.
+    2000—Subsec. (b). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 204(5)\], which directed amendment of subsec. (b) by adding at the end pars. (2) to (4)(B), was executed by making the addition after par. (1), to reflect the probable intent of Congress.
 
-    [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 204(1) to (4), (6)\], inserted subsec. heading, inserted par. (1) designation and heading before “All”, substituted “prior to conducting any such examination of a—” for “prior to conducting any such examination of a”, inserted subpar. (A) designation before “registered clearing”, added subpar. (B), designated last sentence as par. (4)(C) and substituted “Nothing in the proviso in paragraph (1)” for “Nothing in the proviso to the preceding sentence”.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 204(1) to (4), (6)\], inserted subsec. heading, inserted par. (1) designation and heading before “All”, substituted “prior to conducting any such examination of a—” for “prior to conducting any such examination of a”, inserted subpar. (A) designation before “registered clearing”, added subpar. (B), designated last sentence as par. (4)(C) and substituted “Nothing in the proviso in paragraph (1)” for “Nothing in the proviso to the preceding sentence”.
 
     1999—Subsecs. (i) to (k). [Pub. L. 106–102][/us/pl/106/102] added subsecs. (i) and (j) and redesignated former subsec. (i) as (k).
 
@@ -271,21 +271,21 @@
 
     1990—Subsec. (h). [Pub. L. 101–432][/us/pl/101/432] added subsec. (h).
 
-    1987—Subsec. (c)(2). [Pub. L. 100–181, § 321(1)][/us/pl/100/181/s321/1], substituted new par. (2) for former par. (2) which read as follows: “The appropriate regulatory agency for a clearing agency, transfer agent, or municipal securities dealer for which the Commission is not the appropriate regulatory agency shall file with the Commission notice of the commencement of any proceeding and a copy of any order entered by such appropriate regulatory agency against such clearing agency, transfer agent, or municipal securities dealer, and the Commission shall file with such appropriate regulatory agency notice of the commencement of any proceeding and a copy of any order entered by the Commission against such clearing agency, transfer agent, or municipal securities dealer.”
+    1987—Subsec. (c)(2). [Pub. L. 100–181][/us/pl/100/181], § 321(1), substituted new par. (2) for former par. (2) which read as follows: “The appropriate regulatory agency for a clearing agency, transfer agent, or municipal securities dealer for which the Commission is not the appropriate regulatory agency shall file with the Commission notice of the commencement of any proceeding and a copy of any order entered by such appropriate regulatory agency against such clearing agency, transfer agent, or municipal securities dealer, and the Commission shall file with such appropriate regulatory agency notice of the commencement of any proceeding and a copy of any order entered by the Commission against such clearing agency, transfer agent, or municipal securities dealer.”
 
-    Subsec. (f)(1)(A). [Pub. L. 100–181, § 801(b)][/us/pl/100/181/s801/b], substituted “securities issued pursuant to chapter 31 of title 31” for “government securities”.
+    Subsec. (f)(1)(A). [Pub. L. 100–181][/us/pl/100/181], § 801(b), substituted “securities issued pursuant to chapter 31 of title 31” for “government securities”.
 
-    Subsec. (f)(2). [Pub. L. 100–181, § 321(2)][/us/pl/100/181/s321/2], inserted at end “Notwithstanding any other provision of law, in providing identification and processing functions, the Attorney General shall provide the Commission and self-regulatory organizations designated by the Commission with access to all criminal history record information.”
+    Subsec. (f)(2). [Pub. L. 100–181][/us/pl/100/181], § 321(2), inserted at end “Notwithstanding any other provision of law, in providing identification and processing functions, the Attorney General shall provide the Commission and self-regulatory organizations designated by the Commission with access to all criminal history record information.”
 
-    Subsec. (f)(3)(A). [Pub. L. 100–181, § 321(3)][/us/pl/100/181/s321/3], substituted “paragraph (1)” for “paragraphs (1) and (2)”.
+    Subsec. (f)(3)(A). [Pub. L. 100–181][/us/pl/100/181], § 321(3), substituted “paragraph (1)” for “paragraphs (1) and (2)”.
 
-    1986—Subsec. (c)(4). [Pub. L. 99–571, § 102(h)][/us/pl/99/571/s102/h], added par. (4).
+    1986—Subsec. (c)(4). [Pub. L. 99–571][/us/pl/99/571], § 102(h), added par. (4).
 
-    Subsec. (f)(1). [Pub. L. 99–571, § 102(i)(1)][/us/pl/99/571/s102/i/1], inserted “government securities broker, government securities dealer,” in introductory provisions and in subpar. (A).
+    Subsec. (f)(1). [Pub. L. 99–571][/us/pl/99/571], § 102(i)(1), inserted “government securities broker, government securities dealer,” in introductory provisions and in subpar. (A).
 
-    Subsec. (f)(1)(A). [Pub. L. 99–571, § 102(i)(2)][/us/pl/99/571/s102/i/2], inserted “and, in the case of government securities, to the Secretary of the Treasury”.
+    Subsec. (f)(1)(A). [Pub. L. 99–571][/us/pl/99/571], § 102(i)(2), inserted “and, in the case of government securities, to the Secretary of the Treasury”.
 
-    Subsec. (f)(3). [Pub. L. 99–571, § 102(i)(3)][/us/pl/99/571/s102/i/3], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (f)(3). [Pub. L. 99–571][/us/pl/99/571], § 102(i)(3), designated existing provisions as subpar. (A) and added subpar. (B).
 
     1975—Subsec. (a). [Pub. L. 94–29][/us/pl/94/29] designated existing provisions as par. (1), expanded the coverage to require registered municipal securities dealers, the Municipal Securities Rulemaking Board, registered securities information processors, and registered clearing agencies to make and keep such records, to furnish copies thereof, and to make such reports as the Commission may prescribe and clarified the Commission’s authority to require the dissemination of reports submitted pursuant to the rules of the Commission, and added pars. (2) and (3).
 
@@ -299,7 +299,7 @@
 
     Amendment by sections 929D, 929S, 982(e)(2), and 985(b)(7) of [Pub. L. 111–203][/us/pl/111/203] effective 1 day after July 21, 2010, except as otherwise provided, see [section 4 of Pub. L. 111–203][/us/pl/111/203/s4], set out as an Effective Date note under [section 5301 of Title 12][/us/usc/t12/s5301], Banks and Banking.
 
-[Pub. L. 111–203, title VI, § 617(b)][/us/pl/111/203/s617/b], July 21, 2010, [124 Stat. 1616][/us/stat/124/1616], provided that: 
+[Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 617(b), July 21, 2010, [124 Stat. 1616][/us/stat/124/1616], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the transfer date.”
 
@@ -352,33 +352,33 @@
 [/us/usc/t15/s78x/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78x%2Fc
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F897
-[/us/act/1936-05-27/ch462/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch462%2Fs4
+[/us/act/1936-05-27/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch462
 [/us/stat/49/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1379
-[/us/act/1938-06-25/ch677/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch677%2Fs5
+[/us/act/1938-06-25/ch677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch677
 [/us/stat/52/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1076
-[/us/pl/94/29/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs14
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F137
-[/us/pl/99/571/s102/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2Fs102%2Fh
+[/us/pl/99/571/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2FtI
 [/us/stat/100/3219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3219
-[/us/pl/100/181/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs321
+[/us/pl/100/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtIII
 [/us/stat/101/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1257
-[/us/pl/101/432/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432%2Fs4%2Fa
+[/us/pl/101/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432
 [/us/stat/104/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F966
-[/us/pl/104/290/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs108
+[/us/pl/104/290/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtI
 [/us/stat/110/3425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3425
-[/us/pl/105/353/s301/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fb%2F5
+[/us/pl/105/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtIII
 [/us/stat/112/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3236
-[/us/pl/106/102/s231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs231%2Fa
+[/us/pl/106/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtII
 [/us/stat/113/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1402
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/204/s205/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs205%2Fc%2F2
+[/us/pl/107/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtII
 [/us/stat/116/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F774
-[/us/pl/108/386/s8/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386%2Fs8%2Ff%2F5
+[/us/pl/108/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386
 [/us/stat/118/2232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2232
-[/us/pl/109/291/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291%2Fs5
+[/us/pl/109/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291
 [/us/stat/120/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1338
-[/us/pl/111/203/s617/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs617%2Fa
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1616
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
@@ -388,40 +388,40 @@
 [/us/stat/38/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F251
 [/us/usc/t12/s3401/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401%2F6
 [/us/usc/t12/s3401/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401%2F7
-[/us/pl/101/73/s941/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs941%2F1
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F496
-[/us/pl/111/203/s617/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs617%2Fa
-[/us/pl/111/203/s975/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fh
-[/us/pl/111/203/s985/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs985%2Fb%2F7
-[/us/pl/111/203/s982/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fe%2F2
-[/us/pl/111/203/s929D/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929D%2F1
-[/us/pl/111/203/s929D/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929D%2F2
-[/us/pl/111/203/s929S]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929S
-[/us/pl/111/203/s617/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs617%2Fa
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/109/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291
-[/us/pl/108/386/s8/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386%2Fs8%2Ff%2F5
-[/us/pl/108/386/s8/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386%2Fs8%2Ff%2F6
+[/us/pl/108/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386
+[/us/pl/108/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F386
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
 [/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
 [/us/pl/101/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432
-[/us/pl/100/181/s321/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs321%2F1
-[/us/pl/100/181/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs801%2Fb
-[/us/pl/100/181/s321/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs321%2F2
-[/us/pl/100/181/s321/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs321%2F3
-[/us/pl/99/571/s102/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2Fs102%2Fh
-[/us/pl/99/571/s102/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2Fs102%2Fi%2F1
-[/us/pl/99/571/s102/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2Fs102%2Fi%2F2
-[/us/pl/99/571/s102/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2Fs102%2Fi%2F3
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/99/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571
+[/us/pl/99/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571
+[/us/pl/99/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571
+[/us/pl/99/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/111/203/s617/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs617%2Fb
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1616
 [/us/pl/111/203/s617/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs617%2Fb
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

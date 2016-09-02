@@ -81,7 +81,7 @@
 
         (2) may be found.
 
-([Pub. L. 108–304, § 5][/us/pl/108/304/s5], Sept. 24, 2004, [118 Stat. 1127][/us/stat/118/1127].)
+([Pub. L. 108–304][/us/pl/108/304], § 5, Sept. 24, 2004, [118 Stat. 1127][/us/stat/118/1127].)
 
  __References in Text__ 
 
@@ -97,7 +97,7 @@
 [/us/usc/t15/s7802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7802
 [/us/usc/t15/s7802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7802
 [/us/usc/t28/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1391
-[/us/pl/108/304/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F304%2Fs5
+[/us/pl/108/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F304
 [/us/stat/118/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1127
 [/us/pl/108/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F304
 [/us/pl/108/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F304

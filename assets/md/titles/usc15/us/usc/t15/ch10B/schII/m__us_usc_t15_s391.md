@@ -17,11 +17,11 @@
 
     No State, or political subdivision thereof, may impose or assess a tax on or with respect to the generation or transmission of electricity which discriminates against out-of-State manufacturers, producers, wholesalers, retailers, or consumers of that electricity. For purposes of this section a tax is discriminatory if it results, either directly or indirectly, in a greater tax burden on electricity which is generated and transmitted in interstate commerce than on electricity which is generated and transmitted in intrastate commerce.
 
-([Pub. L. 86–272, title II, § 201][/us/pl/86/272/s201], as added [Pub. L. 94–455, title XXI, § 2121(a)][/us/pl/94/455/s2121/a], Oct. 4, 1976, [90 Stat. 1914][/us/stat/90/1914].)
+([Pub. L. 86–272, title II][/us/pl/86/272/tII], § 201, as added [Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2121(a), Oct. 4, 1976, [90 Stat. 1914][/us/stat/90/1914].)
 
  __Effective Date__ 
 
-[Pub. L. 94–455, title XXI, § 2121(b)][/us/pl/94/455/s2121/b], Oct. 4, 1976, [90 Stat. 1914][/us/stat/90/1914], provided that: 
+[Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2121(b), Oct. 4, 1976, [90 Stat. 1914][/us/stat/90/1914], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall take effect beginning June 30, 1974.”
 
@@ -32,10 +32,10 @@
 ----------
 ----------
 
-[/us/pl/86/272/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F272%2Fs201
-[/us/pl/94/455/s2121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2121%2Fa
+[/us/pl/86/272/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F272%2FtII
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1914
-[/us/pl/94/455/s2121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2121%2Fb
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1914
 
 

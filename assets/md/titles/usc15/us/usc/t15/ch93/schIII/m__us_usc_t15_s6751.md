@@ -31,7 +31,7 @@
 
         (4) except as otherwise provided in this subchapter, be subject to, and have all the powers conferred upon, a nonprofit corporation by the District of Columbia Nonprofit Corporation Act (D.C. Code, sec. 29–301.01 et seq.) or any successor thereto.
 
-([Pub. L. 106–102, title III, § 321][/us/pl/106/102/s321], as added [Pub. L. 114–1, title II, § 202(a)][/us/pl/114/1/s202/a], Jan. 12, 2015, [129 Stat. 13][/us/stat/129/13].)
+([Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 321, as added [Pub. L. 114–1, title II][/us/pl/114/1/tII], § 202(a), Jan. 12, 2015, [129 Stat. 13][/us/stat/129/13].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 
     Provisions similar to this section were contained in [section 6752 of this title][/us/usc/t15/s6752], prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1].
 
-    A prior section 6751, [Pub. L. 106–102, title III, § 321][/us/pl/106/102/s321], Nov. 12, 1999, [113 Stat. 1422][/us/stat/113/1422], related to state flexibility in multistate licensing reforms, prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1].
+    A prior section 6751, [Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 321, Nov. 12, 1999, [113 Stat. 1422][/us/stat/113/1422], related to state flexibility in multistate licensing reforms, prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1].
 
 ----------
 
@@ -50,14 +50,14 @@
 ----------
 ----------
 
-[/us/pl/106/102/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs321
-[/us/pl/114/1/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs202%2Fa
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
+[/us/pl/114/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2FtII
 [/us/stat/129/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F13
 [/us/pl/87/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F569
 [/us/stat/76/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F265
 [/us/usc/t15/s6752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6752
 [/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
-[/us/pl/106/102/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs321
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1422
 [/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
 

@@ -87,7 +87,7 @@
 
             (B) all of the production facilities of which are located in the United States.
 
-([Pub. L. 85–699, title V, § 501][/us/pl/85/699/s501], Aug. 21, 1958, [72 Stat. 696][/us/stat/72/696]; [Pub. L. 100–590, title I, § 115(a)][/us/pl/100/590/s115/a], (b)(1), Nov. 3, 1988, [102 Stat. 2997][/us/stat/102/2997]; [Pub. L. 101–574, title II, § 214(a)][/us/pl/101/574/s214/a], (b), Nov. 15, 1990, [104 Stat. 2821][/us/stat/104/2821]; [Pub. L. 106–50, title IV, § 405][/us/pl/106/50/s405], Aug. 17, 1999, [113 Stat. 246][/us/stat/113/246]; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title III, § 302\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–684; [Pub. L. 108–447, div. K, title I, § 105][/us/pl/108/447/s105], Dec. 8, 2004, [118 Stat. 3444][/us/stat/118/3444]; [Pub. L. 110–140, title XII, § 1204(a)][/us/pl/110/140/s1204/a], Dec. 19, 2007, [121 Stat. 1772][/us/stat/121/1772]; [Pub. L. 111–5, div. A, title V, § 504(b)][/us/pl/111/5/s504/b], Feb. 17, 2009, [123 Stat. 156][/us/stat/123/156]; [Pub. L. 111–240, title I, § 1132][/us/pl/111/240/s1132], Sept. 27, 2010, [124 Stat. 2514][/us/stat/124/2514].)
+([Pub. L. 85–699, title V][/us/pl/85/699/tV], § 501, Aug. 21, 1958, [72 Stat. 696][/us/stat/72/696]; [Pub. L. 100–590, title I][/us/pl/100/590/tI], § 115(a), (b)(1), Nov. 3, 1988, [102 Stat. 2997][/us/stat/102/2997]; [Pub. L. 101–574, title II][/us/pl/101/574/tII], § 214(a), (b), Nov. 15, 1990, [104 Stat. 2821][/us/stat/104/2821]; [Pub. L. 106–50, title IV][/us/pl/106/50/tIV], § 405, Aug. 17, 1999, [113 Stat. 246][/us/stat/113/246]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title III, § 302\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–684; [Pub. L. 108–447, div. K, title I][/us/pl/108/447/dK/tI], § 105, Dec. 8, 2004, [118 Stat. 3444][/us/stat/118/3444]; [Pub. L. 110–140, title XII][/us/pl/110/140/tXII], § 1204(a), Dec. 19, 2007, [121 Stat. 1772][/us/stat/121/1772]; [Pub. L. 111–5, div. A, title V][/us/pl/111/5/dA/tV], § 504(b), Feb. 17, 2009, [123 Stat. 156][/us/stat/123/156]; [Pub. L. 111–240, title I][/us/pl/111/240/tI], § 1132, Sept. 27, 2010, [124 Stat. 2514][/us/stat/124/2514].)
 
  __References in Text__ 
 
@@ -99,9 +99,9 @@
 
     2009—Subsec. (e)(1), (2). [Pub. L. 111–5][/us/pl/111/5], which directed amendment of section 501(e)(1), (2) of the Small Business Investment Act by substituting “$65,000” for “$50,000”, was executed by making the substitution in subsec. (e)(1), (2) of this section, which is section 501 of the Small Business Investment Act of 1958, to reflect the probable intent of Congress.
 
-    2007—Subsec. (d)(3). [Pub. L. 110–140, § 1204(a)(4)][/us/pl/110/140/s1204/a/4], inserted the following concluding provisions: “In subparagraphs (J) and (K), terms have the meanings given those terms under the Leadership in Energy and Environmental Design (LEED) standard for green building certification, as determined by the Administrator.”
+    2007—Subsec. (d)(3). [Pub. L. 110–140][/us/pl/110/140], § 1204(a)(4), inserted the following concluding provisions: “In subparagraphs (J) and (K), terms have the meanings given those terms under the Leadership in Energy and Environmental Design (LEED) standard for green building certification, as determined by the Administrator.”
 
-    Subsec. (d)(3)(I) to (K). [Pub. L. 110–140, § 1204(a)(1)][/us/pl/110/140/s1204/a/1]–(3), added subpars. (I) to (K).
+    Subsec. (d)(3)(I) to (K). [Pub. L. 110–140][/us/pl/110/140], § 1204(a)(1)–(3), added subpars. (I) to (K).
 
     2004—Subsec. (e). [Pub. L. 108–447][/us/pl/108/447] added subsec. (e).
 
@@ -109,9 +109,9 @@
 
     1999—Subsec. (d)(3)(E)–(H). [Pub. L. 106–50][/us/pl/106/50] added subpar. (E) and redesignated former subpars. (E) to (G) as (F) to (H), respectively.
 
-    1990—Subsec. (a). [Pub. L. 101–574, § 214(a)][/us/pl/101/574/s214/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Congress hereby finds and declares that the purpose of this subchapter is to foster economic development in both urban and rural areas by providing long term financing for small business concerns through the development company program authorized by this subchapter. In order to carry out this objective, the Administration is hereby directed to place greater emphasis on the needs of rural areas and the promotion of the development company program in such areas, and is further directed to develop a plan for greater outreach of procurement and export trade seminars in such areas. As used in this subchapter, the term ‘rural areas’ means those localities with populations of less than 20,000.”
+    1990—Subsec. (a). [Pub. L. 101–574][/us/pl/101/574], § 214(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Congress hereby finds and declares that the purpose of this subchapter is to foster economic development in both urban and rural areas by providing long term financing for small business concerns through the development company program authorized by this subchapter. In order to carry out this objective, the Administration is hereby directed to place greater emphasis on the needs of rural areas and the promotion of the development company program in such areas, and is further directed to develop a plan for greater outreach of procurement and export trade seminars in such areas. As used in this subchapter, the term ‘rural areas’ means those localities with populations of less than 20,000.”
 
-    Subsec. (d). [Pub. L. 101–574, § 214(b)][/us/pl/101/574/s214/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 101–574][/us/pl/101/574], § 214(b), added subsec. (d).
 
     1988—[Pub. L. 100–590][/us/pl/100/590] inserted “State development companies” as section catchline, added subsec. (a), and redesignated former subsecs. (a) and (b) as (b) and (c), respectively.
 
@@ -125,7 +125,7 @@
 
  __Loan Liquidation Pilot Program__ 
 
-[Pub. L. 104–208, div. D, title II, § 204][/us/pl/104/208/s204], Sept. 30, 1996, [110 Stat. 3009–736][/us/stat/110/3009-736], provided that:
+[Pub. L. 104–208, div. D, title II][/us/pl/104/208/dD/tII], § 204, Sept. 30, 1996, [110 Stat. 3009–736][/us/stat/110/3009-736], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -189,7 +189,7 @@
 
 >         The report shall be based on data from, and issued not later than 90 days after the close of, the first eight 8 \[sic\] fiscal quarters of the pilot program’s operation after the date of implementation.”
 
-    \[[Section 204 of title II of div. D of Pub. L. 104–208][/us/pl/104/208/s204], set out above, to cease to have effect beginning on the date on which final regulations are issued to carry out [section 697g of this title][/us/usc/t15/s697g], see section 1(a)(9) \[title III, § 307(b)\] of [Pub. L. 106–554][/us/pl/106/554], set out as a Regulations note under [section 697g of this title][/us/usc/t15/s697g].\]
+    \[[Section 204 of title II of div. D of Pub. L. 104–208][/us/pl/104/208/dD/tII/s204], set out above, to cease to have effect beginning on the date on which final regulations are issued to carry out [section 697g of this title][/us/usc/t15/s697g], see section 1(a)(9) \[title III, § 307(b)\] of [Pub. L. 106–554][/us/pl/106/554], set out as a Regulations note under [section 697g of this title][/us/usc/t15/s697g].\]
 
 ----------
 
@@ -200,34 +200,34 @@
 
 [/us/usc/t15/s632/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fq
 [/us/usc/t15/s632/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fq
-[/us/pl/85/699/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs501
+[/us/pl/85/699/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtV
 [/us/stat/72/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F696
-[/us/pl/100/590/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2Fs115%2Fa
+[/us/pl/100/590/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2FtI
 [/us/stat/102/2997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2997
-[/us/pl/101/574/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs214%2Fa
+[/us/pl/101/574/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2FtII
 [/us/stat/104/2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2821
-[/us/pl/106/50/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2Fs405
+[/us/pl/106/50/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2FtIV
 [/us/stat/113/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F246
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/447/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs105
+[/us/pl/108/447/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdK%2FtI
 [/us/stat/118/3444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3444
-[/us/pl/110/140/s1204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1204%2Fa
+[/us/pl/110/140/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXII
 [/us/stat/121/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1772
-[/us/pl/111/5/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs504%2Fb
+[/us/pl/111/5/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtV
 [/us/stat/123/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F156
-[/us/pl/111/240/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1132
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2514
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
-[/us/pl/110/140/s1204/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1204%2Fa%2F4
-[/us/pl/110/140/s1204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1204%2Fa%2F1
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50
-[/us/pl/101/574/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs214%2Fa
-[/us/pl/101/574/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs214%2Fb
+[/us/pl/101/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574
+[/us/pl/101/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574
 [/us/pl/100/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
@@ -235,11 +235,11 @@
 [/us/usc/t2/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661
 [/us/pl/107/100/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F100%2Fs6%2Fc
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
-[/us/pl/104/208/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs204
+[/us/pl/104/208/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD%2FtII
 [/us/stat/110/3009-736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-736
 [/us/usc/t15/s695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs695
 [/us/usc/t15/s695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs695
-[/us/pl/104/208/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs204
+[/us/pl/104/208/dD/tII/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD%2FtII%2Fs204
 [/us/usc/t15/s697g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs697g
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t15/s697g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs697g

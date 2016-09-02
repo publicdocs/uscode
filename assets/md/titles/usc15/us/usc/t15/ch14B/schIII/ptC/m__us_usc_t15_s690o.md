@@ -17,7 +17,7 @@
 
     The Administrator may issue such regulations as the Administrator determines necessary to carry out the provisions of this part in accordance with its purposes.
 
-([Pub. L. 85–699, title III, § 396][/us/pl/85/699/s396], as added [Pub. L. 110–140, title XII, § 1207][/us/pl/110/140/s1207], Dec. 19, 2007, [121 Stat. 1783][/us/stat/121/1783].)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 396, as added [Pub. L. 110–140, title XII][/us/pl/110/140/tXII], § 1207, Dec. 19, 2007, [121 Stat. 1783][/us/stat/121/1783].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/85/699/s396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs396
-[/us/pl/110/140/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1207
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/110/140/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXII
 [/us/stat/121/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1783
 
 

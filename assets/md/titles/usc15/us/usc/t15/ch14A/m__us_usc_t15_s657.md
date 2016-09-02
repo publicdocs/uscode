@@ -73,7 +73,7 @@
 
         (4) Members of the Board shall serve without compensation, provided that, members of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Board.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[30\], as added [Pub. L. 104–121, title II, § 222(2)][/us/pl/104/121/s222/2], Mar. 29, 1996, [110 Stat. 860][/us/stat/110/860].)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[30\], as added [Pub. L. 104–121, title II][/us/pl/104/121/tII], § 222(2), Mar. 29, 1996, [110 Stat. 860][/us/stat/110/860].)
 
  __References in Text__ 
 
@@ -98,8 +98,8 @@
 ----------
 ----------
 
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
-[/us/pl/104/121/s222/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs222%2F2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
+[/us/pl/104/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtII
 [/us/stat/110/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F860
 [/us/pl/95/452/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs7
 [/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536

@@ -21,7 +21,7 @@
 
     (2) 5 years after the date on which the violation that is the basis for such liability occurs.
 
-([Pub. L. 90–321, title VI, § 618][/us/pl/90/321/s618], as added [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1134][/us/stat/84/1134]; amended [Pub. L. 108–159, title I, § 156][/us/pl/108/159/s156], Dec. 4, 2003, [117 Stat. 1968][/us/stat/117/1968].)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 618, as added [Pub. L. 91–508, title VI][/us/pl/91/508/tVI], § 601, Oct. 26, 1970, [84 Stat. 1134][/us/stat/84/1134]; amended [Pub. L. 108–159, title I][/us/pl/108/159/tI], § 156, Dec. 4, 2003, [117 Stat. 1968][/us/stat/117/1968].)
 
  __Amendments__ 
 
@@ -38,10 +38,10 @@
 ----------
 ----------
 
-[/us/pl/90/321/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs618
-[/us/pl/91/508/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs601
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/91/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtVI
 [/us/stat/84/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1134
-[/us/pl/108/159/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs156
+[/us/pl/108/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtI
 [/us/stat/117/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1968
 [/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
 [/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159

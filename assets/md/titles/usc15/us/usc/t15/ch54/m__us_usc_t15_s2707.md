@@ -17,7 +17,7 @@
 
     [Section 5908 of title 42][/us/usc/t42/s5908] shall apply to any contract (including any assignment, substitution of parties, or subcontract thereunder) or grant, entered into, made, or issued by the Secretary of Energy under this chapter.
 
-([Pub. L. 95–238, title III, § 308][/us/pl/95/238/s308], Feb. 25, 1978, [92 Stat. 82][/us/stat/92/82].)
+([Pub. L. 95–238, title III][/us/pl/95/238/tIII], § 308, Feb. 25, 1978, [92 Stat. 82][/us/stat/92/82].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t42/s5908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5908
-[/us/pl/95/238/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs308
+[/us/pl/95/238/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtIII
 [/us/stat/92/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F82
 
 

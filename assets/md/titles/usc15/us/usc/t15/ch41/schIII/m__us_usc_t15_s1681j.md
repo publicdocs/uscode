@@ -125,11 +125,11 @@
 
             In the case of an advertisement broadcast by television, the disclosures required under paragraph (1) shall be included in the audio and visual part of such advertisement. In the case of an advertisement broadcast by televison  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “television”. </sup></sup>  or radio, the disclosure required under paragraph (1) shall consist only of the following: “This is not the free credit report provided for by Federal law”.
 
-([Pub. L. 90–321, title VI, § 612][/us/pl/90/321/s612], as added [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1132][/us/stat/84/1132]; amended [Pub. L. 104–208, div. A, title II, § 2410][/us/pl/104/208/s2410], Sept. 30, 1996, [110 Stat. 3009–442][/us/stat/110/3009-442]; [Pub. L. 108–159, title II, § 211(a)][/us/pl/108/159/s211/a], Dec. 4, 2003, [117 Stat. 1968][/us/stat/117/1968]; [Pub. L. 111–24, title II, § 205(a)][/us/pl/111/24/s205/a], May 22, 2009, [123 Stat. 1747][/us/stat/123/1747]; [Pub. L. 111–203, title X, § 1088(a)(2)(A)][/us/pl/111/203/s1088/a/2/A], (C), July 21, 2010, [124 Stat. 2087][/us/stat/124/2087].)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 612, as added [Pub. L. 91–508, title VI][/us/pl/91/508/tVI], § 601, Oct. 26, 1970, [84 Stat. 1132][/us/stat/84/1132]; amended [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2410, Sept. 30, 1996, [110 Stat. 3009–442][/us/stat/110/3009-442]; [Pub. L. 108–159, title II][/us/pl/108/159/tII], § 211(a), Dec. 4, 2003, [117 Stat. 1968][/us/stat/117/1968]; [Pub. L. 111–24, title II][/us/pl/111/24/tII], § 205(a), May 22, 2009, [123 Stat. 1747][/us/stat/123/1747]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1088(a)(2)(A), (C), July 21, 2010, [124 Stat. 2087][/us/stat/124/2087].)
 
  __References in Text__ 
 
-    [Section 1681a(w) of this title][/us/usc/t15/s1681a/w], referred to in subsec. (a)(1)(A), (C)(i), (iv), was redesignated [section 1681a(x) of this title][/us/usc/t15/s1681a/x] by [Pub. L. 111–203, title X, § 1088(a)(1)][/us/pl/111/203/s1088/a/1], July 21, 2010, [124 Stat. 2086][/us/stat/124/2086].
+    [Section 1681a(w) of this title][/us/usc/t15/s1681a/w], referred to in subsec. (a)(1)(A), (C)(i), (iv), was redesignated [section 1681a(x) of this title][/us/usc/t15/s1681a/x] by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1088(a)(1), July 21, 2010, [124 Stat. 2086][/us/stat/124/2086].
 
     Section 211(c) of the Fair and Accurate Credit Transactions Act of 2003, referred to in subsec. (a)(1)(B), probably means [section 211(d) of Pub. L. 108–159][/us/pl/108/159/s211/d], which is set out as a note below and relates to the establishment of a centralized source. [Section 211(c) of Pub. L. 108–159][/us/pl/108/159/s211/c] amended [section 1681g of this title][/us/usc/t15/s1681g].
 
@@ -137,19 +137,19 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1)(C). [Pub. L. 111–203, § 1088(a)(2)(C)][/us/pl/111/203/s1088/a/2/C], substituted “the Bureau” for “the Commission” wherever appearing.
+    2010—Subsec. (a)(1)(C). [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(2)(C), substituted “the Bureau” for “the Commission” wherever appearing.
 
-    Subsec. (f)(2). [Pub. L. 111–203, § 1088(a)(2)(A)][/us/pl/111/203/s1088/a/2/A], substituted “Bureau” for “Federal Trade Commission”.
+    Subsec. (f)(2). [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(2)(A), substituted “Bureau” for “Federal Trade Commission”.
 
     2009—Subsec. (g). [Pub. L. 111–24][/us/pl/111/24] added subsec. (g).
 
-    2003—Subsec. (a). [Pub. L. 108–159, § 211(a)(2)][/us/pl/108/159/s211/a/2], added subsec. (a). Former subsec. (a) redesignated (f).
+    2003—Subsec. (a). [Pub. L. 108–159][/us/pl/108/159], § 211(a)(2), added subsec. (a). Former subsec. (a) redesignated (f).
 
-    Subsec. (d). [Pub. L. 108–159, § 211(a)(4)][/us/pl/108/159/s211/a/4], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 108–159][/us/pl/108/159], § 211(a)(4), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 108–159, § 211(a)(3)][/us/pl/108/159/s211/a/3], (5), redesignated subsec. (d) as (e) and substituted “subsection (f)” for “subsection (a)”.
+    Subsec. (e). [Pub. L. 108–159][/us/pl/108/159], § 211(a)(3), (5), redesignated subsec. (d) as (e) and substituted “subsection (f)” for “subsection (a)”.
 
-    Subsec. (f). [Pub. L. 108–159, § 211(a)(1)][/us/pl/108/159/s211/a/1], (6), redesignated subsec. (a) as (f) and substituted “In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d), a” for “Except as provided in subsections (b), (c), and (d), a” in par. (1).
+    Subsec. (f). [Pub. L. 108–159][/us/pl/108/159], § 211(a)(1), (6), redesignated subsec. (a) as (f) and substituted “In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d), a” for “Except as provided in subsections (b), (c), and (d), a” in par. (1).
 
     1996—[Pub. L. 104–208][/us/pl/104/208] amended section generally. Prior to amendment, section read as follows: “A consumer reporting agency shall make all disclosures pursuant to [section 1681g of this title][/us/usc/t15/s1681g] and furnish all consumer reports pursuant to [section 1681i(d) of this title][/us/usc/t15/s1681i/d] without charge to the consumer if, within thirty days after receipt by such consumer of a notification pursuant to [section 1681m of this title][/us/usc/t15/s1681m] or notification from a debt collection agency affiliated with such consumer reporting agency stating that the consumer’s credit rating may be or has been adversely affected, the consumer makes a request under section 1681g or 1681i(d) of this title. Otherwise, the consumer reporting agency may impose a reasonable charge on the consumer for making disclosure to such consumer pursuant to [section 1681g of this title][/us/usc/t15/s1681g], the charge for which shall be indicated to the consumer prior to making disclosure; and for furnishing notifications, statements, summaries, or codifications to person designated by the consumer pursuant to [section 1681i(d) of this title][/us/usc/t15/s1681i/d], the charge for which shall be indicated to the consumer prior to furnishing such information and shall not exceed the charge that the consumer reporting agency would impose on each designated recipient for a consumer report except that no charge may be made for notifying such persons of the deletion of information which is found to be inaccurate or which can no longer be verified.”
 
@@ -171,7 +171,7 @@
 
  __Regulations__ 
 
-[Pub. L. 111–24, title II, § 205(b)][/us/pl/111/24/s205/b], May 22, 2009, [123 Stat. 1747][/us/stat/123/1747], provided that:
+[Pub. L. 111–24, title II][/us/pl/111/24/tII], § 205(b), May 22, 2009, [123 Stat. 1747][/us/stat/123/1747], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -189,7 +189,7 @@
 
 >     If an advertisement subject to section 612(g) of the Fair Credit Reporting Act \[[15 U.S.C. 1681j(g)][/us/usc/t15/s1681j/g]\], as added by this section, is made public after the 9-month deadline specified in paragraph (1), but before the rule required by paragraph (1) is finalized, such advertisement shall include the disclosure: ‘Free credit reports are available under Federal law at: “AnnualCreditReport.com”.’ ”
 
-[Pub. L. 108–159, title II, § 211(d)][/us/pl/108/159/s211/d], Dec. 4, 2003, [117 Stat. 1972][/us/stat/117/1972], as amended by [Pub. L. 111–203, § 1088(b)(2)][/us/pl/111/203/s1088/b/2], July 21, 2010, [124 Stat. 2092][/us/stat/124/2092], provided that:
+[Pub. L. 108–159, title II][/us/pl/108/159/tII], § 211(d), Dec. 4, 2003, [117 Stat. 1972][/us/stat/117/1972], as amended by [Pub. L. 111–203][/us/pl/111/203], § 1088(b)(2), July 21, 2010, [124 Stat. 2092][/us/stat/124/2092], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -279,32 +279,32 @@
 [/us/usc/t15/s1681i/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681i%2Fd
 [/us/usc/t15/s1681i/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681i%2Fa
 [/us/usc/t15/s1681i/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681i%2Fa
-[/us/pl/90/321/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs612
-[/us/pl/91/508/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs601
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/91/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtVI
 [/us/stat/84/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1132
-[/us/pl/104/208/s2410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2410
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-442
-[/us/pl/108/159/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs211%2Fa
+[/us/pl/108/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtII
 [/us/stat/117/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1968
-[/us/pl/111/24/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs205%2Fa
+[/us/pl/111/24/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtII
 [/us/stat/123/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1747
-[/us/pl/111/203/s1088/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2087
 [/us/usc/t15/s1681a/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fw
 [/us/usc/t15/s1681a/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fx
-[/us/pl/111/203/s1088/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2086
 [/us/pl/108/159/s211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs211%2Fd
 [/us/pl/108/159/s211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs211%2Fc
 [/us/usc/t15/s1681g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681g
 [/us/pl/111/24/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs205%2Fb
-[/us/pl/111/203/s1088/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FC
-[/us/pl/111/203/s1088/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FA
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24
-[/us/pl/108/159/s211/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs211%2Fa%2F2
-[/us/pl/108/159/s211/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs211%2Fa%2F4
-[/us/pl/108/159/s211/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs211%2Fa%2F3
-[/us/pl/108/159/s211/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs211%2Fa%2F1
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t15/s1681g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681g
 [/us/usc/t15/s1681i/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681i%2Fd
@@ -323,13 +323,13 @@
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2420
 [/us/usc/t15/s1681a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a
-[/us/pl/111/24/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs205%2Fb
+[/us/pl/111/24/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtII
 [/us/stat/123/1747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1747
 [/us/usc/t15/s1681j/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681j%2Fg%2F1
 [/us/usc/t15/s1681j/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681j%2Fg
-[/us/pl/108/159/s211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs211%2Fd
+[/us/pl/108/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtII
 [/us/stat/117/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1972
-[/us/pl/111/203/s1088/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fb%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2092
 [/us/usc/t15/s1681a/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fp
 [/us/usc/t15/s1681j/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681j%2Fa

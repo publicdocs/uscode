@@ -177,37 +177,37 @@
 
         (2) the desired training outcome of all such changes.
 
-([Pub. L. 93–498, § 7][/us/pl/93/498/s7], Oct. 29, 1974, [88 Stat. 1537][/us/stat/88/1537]; [Pub. L. 106–503, title I, § 110(a)(2)(B)(ii)][/us/pl/106/503/s110/a/2/B/ii], Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302]; [Pub. L. 108–169, title II, § 204(a)][/us/pl/108/169/s204/a], (d), Dec. 6, 2003, [117 Stat. 2039][/us/stat/117/2039]; [Pub. L. 110–376, § 4(a)][/us/pl/110/376/s4/a]–(c), Oct. 8, 2008, [122 Stat. 4057][/us/stat/122/4057], 4058; [Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1)][/us/pl/112/239/s1802/b/1], Jan. 2, 2013, [126 Stat. 2100][/us/stat/126/2100].)
+([Pub. L. 93–498][/us/pl/93/498], § 7, Oct. 29, 1974, [88 Stat. 1537][/us/stat/88/1537]; [Pub. L. 106–503, title I][/us/pl/106/503/tI], § 110(a)(2)(B)(ii), Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302]; [Pub. L. 108–169, title II][/us/pl/108/169/tII], § 204(a), (d), Dec. 6, 2003, [117 Stat. 2039][/us/stat/117/2039]; [Pub. L. 110–376][/us/pl/110/376], § 4(a)–(c), Oct. 8, 2008, [122 Stat. 4057][/us/stat/122/4057], 4058; [Pub. L. 112–239, div. A, title XVIII][/us/pl/112/239/dA/tXVIII], § 1802(b)(1), Jan. 2, 2013, [126 Stat. 2100][/us/stat/126/2100].)
 
  __Amendments__ 
 
     2013—Subsecs. (a), (b), (g), (j). [Pub. L. 112–239][/us/pl/112/239] substituted “Administrator of FEMA” for “Director” wherever appearing.
 
-    2008—Subsec. (c)(6). [Pub. L. 110–376, § 4(b)(1)][/us/pl/110/376/s4/b/1], inserted “, including on-site training” after “United States”.
+    2008—Subsec. (c)(6). [Pub. L. 110–376][/us/pl/110/376], § 4(b)(1), inserted “, including on-site training” after “United States”.
 
-    Subsec. (d)(1)(H). [Pub. L. 110–376, § 4(a)(1)][/us/pl/110/376/s4/a/1], amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: “response, tactics, and strategies for dealing with terrorist-caused national catastrophes;”.
+    Subsec. (d)(1)(H). [Pub. L. 110–376][/us/pl/110/376], § 4(a)(1), amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: “response, tactics, and strategies for dealing with terrorist-caused national catastrophes;”.
 
-    Subsec. (d)(1)(I), (J). [Pub. L. 110–376, § 4(a)(5)][/us/pl/110/376/s4/a/5], added subpars. (I) and (J). Former subpars. (I) and (J) redesignated (M) and (N), respectively.
+    Subsec. (d)(1)(I), (J). [Pub. L. 110–376][/us/pl/110/376], § 4(a)(5), added subpars. (I) and (J). Former subpars. (I) and (J) redesignated (M) and (N), respectively.
 
-    Subsec. (d)(1)(K). [Pub. L. 110–376, § 4(a)(5)][/us/pl/110/376/s4/a/5], added subpar. (K). Former subpar. (K) redesignated (O).
+    Subsec. (d)(1)(K). [Pub. L. 110–376][/us/pl/110/376], § 4(a)(5), added subpar. (K). Former subpar. (K) redesignated (O).
 
-    [Pub. L. 110–376, § 4(a)(2)][/us/pl/110/376/s4/a/2], substituted “wildland” for “forest”.
+    [Pub. L. 110–376][/us/pl/110/376], § 4(a)(2), substituted “wildland” for “forest”.
 
-    Subsec. (d)(1)(L). [Pub. L. 110–376, § 4(a)(5)][/us/pl/110/376/s4/a/5], added subpar. (L). Former subpar. (L) redesignated (P).
+    Subsec. (d)(1)(L). [Pub. L. 110–376][/us/pl/110/376], § 4(a)(5), added subpar. (L). Former subpar. (L) redesignated (P).
 
-    Subsec. (d)(1)(M). [Pub. L. 110–376, § 4(a)(4)][/us/pl/110/376/s4/a/4], redesignated subpar. (I) as (M). Former subpar. (M) redesignated (Q).
+    Subsec. (d)(1)(M). [Pub. L. 110–376][/us/pl/110/376], § 4(a)(4), redesignated subpar. (I) as (M). Former subpar. (M) redesignated (Q).
 
-    [Pub. L. 110–376, § 4(a)(3)][/us/pl/110/376/s4/a/3], struck out “response” before “tactics”.
+    [Pub. L. 110–376][/us/pl/110/376], § 4(a)(3), struck out “response” before “tactics”.
 
-    Subsec. (d)(1)(N) to (R). [Pub. L. 110–376, § 4(a)(4)][/us/pl/110/376/s4/a/4], redesignated subpars. (J) to (N) as (N) to (R), respectively.
+    Subsec. (d)(1)(N) to (R). [Pub. L. 110–376][/us/pl/110/376], § 4(a)(4), redesignated subpars. (J) to (N) as (N) to (R), respectively.
 
-    Subsec. (f). [Pub. L. 110–376, § 4(b)(2)][/us/pl/110/376/s4/b/2], which directed substitution of “7.5 percent” for “4 percent”, was executed by making the substitution for “4 per centum” to reflect the probable intent of Congress.
+    Subsec. (f). [Pub. L. 110–376][/us/pl/110/376], § 4(b)(2), which directed substitution of “7.5 percent” for “4 percent”, was executed by making the substitution for “4 per centum” to reflect the probable intent of Congress.
 
-    Subsecs. (m), (n). [Pub. L. 110–376, § 4(b)(3)][/us/pl/110/376/s4/b/3], (c), added subsecs. (m) and (n).
+    Subsecs. (m), (n). [Pub. L. 110–376][/us/pl/110/376], § 4(b)(3), (c), added subsecs. (m) and (n).
 
-    2003—Subsec. (d)(1)(F) to (N). [Pub. L. 108–169, § 204(a)][/us/pl/108/169/s204/a], added subpars. (F) to (M) and redesignated former subpar. (F) as (N).
+    2003—Subsec. (d)(1)(F) to (N). [Pub. L. 108–169][/us/pl/108/169], § 204(a), added subpars. (F) to (M) and redesignated former subpar. (F) as (N).
 
-    Subsec. (l). [Pub. L. 108–169, § 204(d)][/us/pl/108/169/s204/d], inserted at end “The Superintendent shall offer, at the Academy and at other sites, courses and training assistance as necessary to accommodate all geographic regions and needs of career and volunteer firefighters.”
+    Subsec. (l). [Pub. L. 108–169][/us/pl/108/169], § 204(d), inserted at end “The Superintendent shall offer, at the Academy and at other sites, courses and training assistance as necessary to accommodate all geographic regions and needs of career and volunteer firefighters.”
 
     2000—Subsecs. (a), (b), (g), (j). [Pub. L. 106–503][/us/pl/106/503] substituted “Director” for “Secretary” wherever appearing.
 
@@ -221,13 +221,13 @@
 
  __Consultation on Fire Academy Classes__ 
 
-[Pub. L. 108–169, title II, § 204(b)][/us/pl/108/169/s204/b], Dec. 6, 2003, [117 Stat. 2039][/us/stat/117/2039], provided that: 
+[Pub. L. 108–169, title II][/us/pl/108/169/tII], § 204(b), Dec. 6, 2003, [117 Stat. 2039][/us/stat/117/2039], provided that: 
 
 > “The Superintendent of the National Fire Academy may consult with other Federal, State, and local agency officials in developing curricula for classes offered by the Academy.”
 
  __Coordination With Other Programs To Avoid Duplication__ 
 
-[Pub. L. 108–169, title II, § 204(c)][/us/pl/108/169/s204/c], Dec. 6, 2003, [117 Stat. 2039][/us/stat/117/2039], provided that: 
+[Pub. L. 108–169, title II][/us/pl/108/169/tII], § 204(c), Dec. 6, 2003, [117 Stat. 2039][/us/stat/117/2039], provided that: 
 
 > “The Administrator of the United States Fire Administration shall coordinate training provided under section 7(d)(1) of the Federal Fire Prevention and Control Act of 1974 ([15 U.S.C. 2206(d)(1)][/us/usc/t15/s2206/d/1]) with the Attorney General, the Secretary of Health and Human Services, and the heads of other Federal agencies—
 
@@ -237,7 +237,7 @@
 
  __Limitations on Authority of Superintendent of Fire Academy; Exclusive Control and Direction of United States Fire Administrator__ 
 
-[Pub. L. 101–507, title III][/us/pl/101/507], Nov. 5, 1990, [104 Stat. 1377][/us/stat/104/1377], provided that: 
+[Pub. L. 101–507, title III][/us/pl/101/507/tIII], Nov. 5, 1990, [104 Stat. 1377][/us/stat/104/1377], provided that: 
 
 > “The Superintendent of the Fire Academy, in exercising the powers and authority provided by section 7 of the Federal Fire Prevention Control Act of 1974 \[[15 U.S.C. 2206][/us/usc/t15/s2206]\], shall be subject to the exclusive direction of the Administrator, United States Fire Administration: Provided, That all funds appropriated by this or any other Act, with respect for any fiscal year, or otherwise made available, for the National Fire Academy in Emmitsburg, Maryland, or any Fire Academy field programs, shall be placed under the exclusive control of the United States Fire Administration.”
 
@@ -252,40 +252,40 @@
 [/us/usc/t15/s2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2216
 [/us/usc/t15/s2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2216
 [/us/usc/t15/s2215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2215
-[/us/pl/93/498/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs7
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1537
-[/us/pl/106/503/s110/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs110%2Fa%2F2%2FB%2Fii
+[/us/pl/106/503/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2FtI
 [/us/stat/114/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2302
-[/us/pl/108/169/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2Fs204%2Fa
+[/us/pl/108/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2FtII
 [/us/stat/117/2039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2039
-[/us/pl/110/376/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs4%2Fa
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
 [/us/stat/122/4057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4057
-[/us/pl/112/239/s1802/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1802%2Fb%2F1
+[/us/pl/112/239/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVIII
 [/us/stat/126/2100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2100
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/110/376/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs4%2Fb%2F1
-[/us/pl/110/376/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs4%2Fa%2F1
-[/us/pl/110/376/s4/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs4%2Fa%2F5
-[/us/pl/110/376/s4/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs4%2Fa%2F5
-[/us/pl/110/376/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs4%2Fa%2F2
-[/us/pl/110/376/s4/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs4%2Fa%2F5
-[/us/pl/110/376/s4/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs4%2Fa%2F4
-[/us/pl/110/376/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs4%2Fa%2F3
-[/us/pl/110/376/s4/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs4%2Fa%2F4
-[/us/pl/110/376/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs4%2Fb%2F2
-[/us/pl/110/376/s4/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs4%2Fb%2F3
-[/us/pl/108/169/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2Fs204%2Fa
-[/us/pl/108/169/s204/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2Fs204%2Fd
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
+[/us/pl/108/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169
+[/us/pl/108/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169
 [/us/pl/106/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t15/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2202
-[/us/pl/108/169/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2Fs204%2Fb
+[/us/pl/108/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2FtII
 [/us/stat/117/2039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2039
-[/us/pl/108/169/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2Fs204%2Fc
+[/us/pl/108/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2FtII
 [/us/stat/117/2039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2039
 [/us/usc/t15/s2206/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2206%2Fd%2F1
-[/us/pl/101/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F507
+[/us/pl/101/507/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F507%2FtIII
 [/us/stat/104/1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1377
 [/us/usc/t15/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2206
 

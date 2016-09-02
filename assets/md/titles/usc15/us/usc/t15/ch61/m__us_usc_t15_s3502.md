@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to legalize the enforcement of provisions described in [section 3501 of this title][/us/usc/t15/s3501] in trademark licensing contracts or agreements described in that section by means of price fixing agreements, horizontal restraints of trade, or group boycotts, if such agreements, restraints, or boycotts would otherwise be unlawful.
 
-([Pub. L. 96–308, § 3][/us/pl/96/308/s3], July 9, 1980, [94 Stat. 939][/us/stat/94/939].)
+([Pub. L. 96–308][/us/pl/96/308], § 3, July 9, 1980, [94 Stat. 939][/us/stat/94/939].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t15/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3501
-[/us/pl/96/308/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F308%2Fs3
+[/us/pl/96/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F308
 [/us/stat/94/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F939
 
 

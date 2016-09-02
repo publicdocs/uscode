@@ -27,7 +27,7 @@
 
         The Commission shall promulgate rules for initial implementation of this chapter as soon as possible after January 4, 1975, but in no event later than one year after such date.
 
-([Pub. L. 93–637, title I, § 112][/us/pl/93/637/s112], Jan. 4, 1975, [88 Stat. 2192][/us/stat/88/2192].)
+([Pub. L. 93–637, title I][/us/pl/93/637/tI], § 112, Jan. 4, 1975, [88 Stat. 2192][/us/stat/88/2192].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t15/s2302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2302%2Fa
-[/us/pl/93/637/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs112
+[/us/pl/93/637/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2FtI
 [/us/stat/88/2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2192
 
 

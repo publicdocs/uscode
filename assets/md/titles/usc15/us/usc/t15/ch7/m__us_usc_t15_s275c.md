@@ -17,7 +17,7 @@
 
     Fees for calibration services, standard reference materials, and other comparable services provided by the National Institute of Standards and Technology shall be at least sufficient to meet the requirements set forth in the amendments made by subsection (a), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and any funds recovered in excess of such requirements shall be returned to the Treasury of the United States.
 
-([Pub. L. 99–73, § 5(b)][/us/pl/99/73/s5/b], July 29, 1985, [99 Stat. 172][/us/stat/99/172]; [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433].)
+([Pub. L. 99–73][/us/pl/99/73], § 5(b), July 29, 1985, [99 Stat. 172][/us/stat/99/172]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–73, § 5(c)][/us/pl/99/73/s5/c], July 29, 1985, [99 Stat. 172][/us/stat/99/172], provided that: 
+[Pub. L. 99–73][/us/pl/99/73], § 5(c), July 29, 1985, [99 Stat. 172][/us/stat/99/172], provided that: 
 
 > “The amendments made by subsection (a) \[amending [section 278b of this title][/us/usc/t15/s278b]\] (and the provisions of subsection (b) \[enacting this section\]) shall be effective October 1, 1984.”
 
@@ -44,14 +44,14 @@
 ----------
 ----------
 
-[/us/pl/99/73/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F73%2Fs5%2Fb
+[/us/pl/99/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F73
 [/us/stat/99/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F172
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
 [/us/pl/99/73/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F73%2Fs5
 [/us/usc/t15/s278b/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278b%2Ff
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/99/73/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F73%2Fs5%2Fc
+[/us/pl/99/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F73
 [/us/stat/99/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F172
 [/us/usc/t15/s278b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278b
 

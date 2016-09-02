@@ -39,7 +39,7 @@
 
         The authority of the Commission under this section with respect to security-based swap agreements shall be subject to the restrictions and limitations of [section 78c–1(b) of this title][/us/usc/t15/s78c–1/b].
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 20, [48 Stat. 899][/us/stat/48/899]; [May 27, 1936, ch. 462, § 6][/us/act/1936-05-27/ch462/s6], [49 Stat. 1379][/us/stat/49/1379]; [Pub. L. 88–467, § 9][/us/pl/88/467/s9], Aug. 20, 1964, [78 Stat. 579][/us/stat/78/579]; [Pub. L. 98–376, § 5][/us/pl/98/376/s5], Aug. 10, 1984, [98 Stat. 1265][/us/stat/98/1265]; [Pub. L. 104–67, title I, § 104][/us/pl/104/67/s104], Dec. 22, 1995, [109 Stat. 757][/us/stat/109/757]; [Pub. L. 105–353, title III, § 301(b)(12)][/us/pl/105/353/s301/b/12], Nov. 3, 1998, [112 Stat. 3236][/us/stat/112/3236]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 205(a)(3), title III, § 303(i), (j)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–426, 2763A–456; [Pub. L. 111–203, title VII, § 762(d)(6)][/us/pl/111/203/s762/d/6], title IX, §§ 929O, 929P(c), July 21, 2010, [124 Stat. 1761][/us/stat/124/1761], 1862, 1865.)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 20, [48 Stat. 899][/us/stat/48/899]; [May 27, 1936, ch. 462][/us/act/1936-05-27/ch462], § 6, [49 Stat. 1379][/us/stat/49/1379]; [Pub. L. 88–467][/us/pl/88/467], § 9, Aug. 20, 1964, [78 Stat. 579][/us/stat/78/579]; [Pub. L. 98–376][/us/pl/98/376], § 5, Aug. 10, 1984, [98 Stat. 1265][/us/stat/98/1265]; [Pub. L. 104–67, title I][/us/pl/104/67/tI], § 104, Dec. 22, 1995, [109 Stat. 757][/us/stat/109/757]; [Pub. L. 105–353, title III][/us/pl/105/353/tIII], § 301(b)(12), Nov. 3, 1998, [112 Stat. 3236][/us/stat/112/3236]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 205(a)(3), title III, § 303(i), (j)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–426, 2763A–456; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 762(d)(6), title IX, §§ 929O, 929P(c), July 21, 2010, [124 Stat. 1761][/us/stat/124/1761], 1862, 1865.)
 
  __Amendment of Section__ 
 
@@ -51,25 +51,25 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 929P(c)][/us/pl/111/203/s929P/c], inserted “(including to the Commission in any action brought under paragraph (1) or (3) of [section 78u(d) of this title][/us/usc/t15/s78u/d])” after “controlled person is liable”.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 929P(c), inserted “(including to the Commission in any action brought under paragraph (1) or (3) of [section 78u(d) of this title][/us/usc/t15/s78u/d])” after “controlled person is liable”.
 
-    Subsec. (d). [Pub. L. 111–203, § 762(d)(6)(A)][/us/pl/111/203/s762/d/6/A], struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreement”.
+    Subsec. (d). [Pub. L. 111–203][/us/pl/111/203], § 762(d)(6)(A), struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreement”.
 
-    Subsec. (e). [Pub. L. 111–203, § 929O][/us/pl/111/203/s929O], inserted “or recklessly” after “knowingly”.
+    Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 929O, inserted “or recklessly” after “knowingly”.
 
-    Subsec. (f). [Pub. L. 111–203, § 762(d)(6)(B)][/us/pl/111/203/s762/d/6/B], struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreements”.
+    Subsec. (f). [Pub. L. 111–203][/us/pl/111/203], § 762(d)(6)(B), struck out “(as defined in section 206B of the Gramm-Leach-Bliley Act)” after “security-based swap agreements”.
 
-    2000—Subsec. (d). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title III, § 303(i)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Wherever communicating, or purchasing or selling a security while in possession of, material nonpublic information would violate, or result in liability to any purchaser or seller of the security under any provision of this chapter, or any rule or regulation thereunder, such conduct in connection with a purchase or sale of a put, call, straddle, option,, privilege, or security futures product with respect to such security or with respect to a group or index of securities including such security, shall also violate and result in comparable liability to any purchaser or seller of that security under such provision, rule, or regulation.”
+    2000—Subsec. (d). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title III, § 303(i)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Wherever communicating, or purchasing or selling a security while in possession of, material nonpublic information would violate, or result in liability to any purchaser or seller of the security under any provision of this chapter, or any rule or regulation thereunder, such conduct in connection with a purchase or sale of a put, call, straddle, option,, privilege, or security futures product with respect to such security or with respect to a group or index of securities including such security, shall also violate and result in comparable liability to any purchaser or seller of that security under such provision, rule, or regulation.”
 
-    [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 205(a)(3)\], substituted “, privilege, or security futures product” for “or privilege”.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 205(a)(3)\], substituted “, privilege, or security futures product” for “or privilege”.
 
-    Subsec. (f). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title III, § 303(j)\], added subsec. (f).
+    Subsec. (f). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title III, § 303(j)\], added subsec. (f).
 
     1998—Subsecs. (e), (f). [Pub. L. 105–353][/us/pl/105/353] redesignated subsec. (f) as (e).
 
-    1995—[Pub. L. 104–67, § 104(1)][/us/pl/104/67/s104/1], substituted “liability of controlling persons and persons who aid and abet violations” for “Liabilities of controlling persons” in section catchline.
+    1995—[Pub. L. 104–67][/us/pl/104/67], § 104(1), substituted “liability of controlling persons and persons who aid and abet violations” for “Liabilities of controlling persons” in section catchline.
 
-    Subsec. (f). [Pub. L. 104–67, § 104(2)][/us/pl/104/67/s104/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 104–67][/us/pl/104/67], § 104(2), added subsec. (f).
 
     1984—Subsec. (d). [Pub. L. 98–376][/us/pl/98/376] added subsec. (d).
 
@@ -111,33 +111,33 @@
 [/us/usc/t15/s78c–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%E2%80%931%2Fb
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F899
-[/us/act/1936-05-27/ch462/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch462%2Fs6
+[/us/act/1936-05-27/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch462
 [/us/stat/49/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1379
-[/us/pl/88/467/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs9
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
 [/us/stat/78/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F579
-[/us/pl/98/376/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F376%2Fs5
+[/us/pl/98/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F376
 [/us/stat/98/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1265
-[/us/pl/104/67/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2Fs104
+[/us/pl/104/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2FtI
 [/us/stat/109/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F757
-[/us/pl/105/353/s301/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fb%2F12
+[/us/pl/105/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtIII
 [/us/stat/112/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3236
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/203/s762/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fd%2F6
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1761
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/111/203/s929P/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929P%2Fc
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78u/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78u%2Fd
-[/us/pl/111/203/s762/d/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fd%2F6%2FA
-[/us/pl/111/203/s929O]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929O
-[/us/pl/111/203/s762/d/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fd%2F6%2FB
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
-[/us/pl/104/67/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2Fs104%2F1
-[/us/pl/104/67/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2Fs104%2F2
+[/us/pl/104/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67
+[/us/pl/104/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67
 [/us/pl/98/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F376
 [/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

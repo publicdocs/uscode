@@ -41,7 +41,7 @@
 
         In any countercyclical efforts undertaken, the President shall consider a triggering mechanism which will implement the program during a period of rising unemployment and phase out the program when unemployment is appropriately reduced, and incorporate effective means to facilitate individuals assisted under programs developed pursuant to this section to return promptly to regular private and public employment as the economy recovers.
 
-([Pub. L. 95–523, title II, § 202][/us/pl/95/523/s202], Oct. 27, 1978, [92 Stat. 1900][/us/stat/92/1900].)
+([Pub. L. 95–523, title II][/us/pl/95/523/tII], § 202, Oct. 27, 1978, [92 Stat. 1900][/us/stat/92/1900].)
 
 ----------
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t15/s3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3111
 [/us/usc/t15/s3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3115
-[/us/pl/95/523/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs202
+[/us/pl/95/523/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2FtII
 [/us/stat/92/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1900
 
 

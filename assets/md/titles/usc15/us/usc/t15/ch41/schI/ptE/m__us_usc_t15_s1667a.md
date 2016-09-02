@@ -41,11 +41,11 @@
 
     The disclosures required under this section may be made in the lease contract to be signed by the lessee. The Bureau may provide by regulation that any portion of the information required to be disclosed under this section may be given in the form of estimates where the lessor is not in a position to know exact information.
 
-([Pub. L. 90–321, title I, § 182][/us/pl/90/321/s182], as added [Pub. L. 94–240, § 3][/us/pl/94/240/s3], Mar. 23, 1976, [90 Stat. 258][/us/stat/90/258]; amended [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], (10)(B), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2109.)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 182, as added [Pub. L. 94–240][/us/pl/94/240], § 3, Mar. 23, 1976, [90 Stat. 258][/us/stat/90/258]; amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), (10)(B), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2109.)
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], (10)(B), made similar amendments, resulting in the substitution of “The Bureau” for “The Board” in concluding provisions.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1100A(2), (10)(B), made similar amendments, resulting in the substitution of “The Bureau” for “The Board” in concluding provisions.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -58,12 +58,12 @@
 ----------
 ----------
 
-[/us/pl/90/321/s182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs182
-[/us/pl/94/240/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240%2Fs3
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/94/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240
 [/us/stat/90/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F258
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

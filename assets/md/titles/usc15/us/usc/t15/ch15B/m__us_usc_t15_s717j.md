@@ -27,7 +27,7 @@
 
         In carrying out the purposes of this chapter, the Commission shall, so far as practicable, avail itself of the services, records, reports, and information of the executive departments and other agencies of the Government, and the President may, from time to time, direct that such services and facilities be made available to the Commission.
 
-([June 21, 1938, ch. 556, § 11][/us/act/1938-06-21/ch556/s11], [52 Stat. 827][/us/stat/52/827].)
+([June 21, 1938, ch. 556][/us/act/1938-06-21/ch556], § 11, [52 Stat. 827][/us/stat/52/827].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-21/ch556/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556%2Fs11
+[/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F827
 
 

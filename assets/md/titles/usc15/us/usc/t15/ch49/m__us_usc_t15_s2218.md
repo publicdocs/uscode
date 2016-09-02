@@ -55,7 +55,7 @@
 
             The Administrator shall provide liaison at an appropriate organizational level to assure coordination of the activities of the Administrator related to emergency medical services provided by fire service-based systems with Federal, State, and local government agencies and departments and nongovernmental organizations so concerned, as well as those entities concerned with emergency medical services generally.
 
-([Pub. L. 93–498, § 21][/us/pl/93/498/s21], Oct. 29, 1974, [88 Stat. 1548][/us/stat/88/1548]; [Pub. L. 96–121, § 2][/us/pl/96/121/s2], Nov. 16, 1979, [93 Stat. 863][/us/stat/93/863]; [Pub. L. 106–503, title I, § 110(a)(2)(B)(ix)][/us/pl/106/503/s110/a/2/B/ix], Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302]; [Pub. L. 110–376, § 9(a)][/us/pl/110/376/s9/a], Oct. 8, 2008, [122 Stat. 4061][/us/stat/122/4061]; [Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1)][/us/pl/112/239/s1802/b/1], Jan. 2, 2013, [126 Stat. 2100][/us/stat/126/2100].)
+([Pub. L. 93–498][/us/pl/93/498], § 21, Oct. 29, 1974, [88 Stat. 1548][/us/stat/88/1548]; [Pub. L. 96–121][/us/pl/96/121], § 2, Nov. 16, 1979, [93 Stat. 863][/us/stat/93/863]; [Pub. L. 106–503, title I][/us/pl/106/503/tI], § 110(a)(2)(B)(ix), Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302]; [Pub. L. 110–376][/us/pl/110/376], § 9(a), Oct. 8, 2008, [122 Stat. 4061][/us/stat/122/4061]; [Pub. L. 112–239, div. A, title XVIII][/us/pl/112/239/dA/tXVIII], § 1802(b)(1), Jan. 2, 2013, [126 Stat. 2100][/us/stat/126/2100].)
 
  __References in Text__ 
 
@@ -63,9 +63,9 @@
 
  __Codification__ 
 
-    In subsec. (b)(1), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes, as amended ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (b)(1), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes, as amended ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (b)(2), “[section 1342 of title 31][/us/usc/t31/s1342]” substituted for “section 3679 of the Revised Statutes ([31 U.S.C. 665(b)][/us/usc/t31/s665/b])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (b)(2), “[section 1342 of title 31][/us/usc/t31/s1342]” substituted for “section 3679 of the Revised Statutes ([31 U.S.C. 665(b)][/us/usc/t31/s665/b])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
@@ -87,7 +87,7 @@
 
  __Enhancement of Science and Mathematics Programs__ 
 
-[Pub. L. 105–108, § 7][/us/pl/105/108/s7], Nov. 20, 1997, [111 Stat. 2265][/us/stat/111/2265], provided that:
+[Pub. L. 105–108][/us/pl/105/108], § 7, Nov. 20, 1997, [111 Stat. 2265][/us/stat/111/2265], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -132,26 +132,26 @@
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s5332/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332%2Fa
-[/us/pl/93/498/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs21
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1548
-[/us/pl/96/121/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F121%2Fs2
+[/us/pl/96/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F121
 [/us/stat/93/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F863
-[/us/pl/106/503/s110/a/2/B/ix]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs110%2Fa%2F2%2FB%2Fix
+[/us/pl/106/503/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2FtI
 [/us/stat/114/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2302
-[/us/pl/110/376/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs9%2Fa
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
 [/us/stat/122/4061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4061
-[/us/pl/112/239/s1802/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1802%2Fb%2F1
+[/us/pl/112/239/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVIII
 [/us/stat/126/2100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2100
 [/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1535
 [/us/usc/t15/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2201
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/usc/t31/s665/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs665%2Fb
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
@@ -161,7 +161,7 @@
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t15/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2202
-[/us/pl/105/108/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F108%2Fs7
+[/us/pl/105/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F108
 [/us/stat/111/2265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2265
 [/us/usc/t40/s549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs549
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa

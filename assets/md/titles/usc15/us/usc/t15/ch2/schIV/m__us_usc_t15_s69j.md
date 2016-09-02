@@ -17,7 +17,7 @@
 
     The provisions of this subchapter shall be held to be in addition to, and not in substitution for or limitation of, the provisions of any other Act of Congress.
 
-([Aug. 8, 1951, ch. 298, § 12][/us/act/1951-08-08/ch298/s12], [65 Stat. 181][/us/stat/65/181].)
+([Aug. 8, 1951, ch. 298][/us/act/1951-08-08/ch298], § 12, [65 Stat. 181][/us/stat/65/181].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1951-08-08/ch298/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298%2Fs12
+[/us/act/1951-08-08/ch298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298
 [/us/stat/65/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F181
 
 

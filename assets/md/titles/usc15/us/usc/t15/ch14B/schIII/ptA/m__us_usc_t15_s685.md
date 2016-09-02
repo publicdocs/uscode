@@ -39,7 +39,7 @@
 
         Any company which has made a loan to a small-business concern under this section is authorized to extend the maturity of or renew such loan for additional periods, not exceeding ten years, if the company finds that such extension or renewal will aid in the orderly liquidation of such loan.
 
-([Pub. L. 85–699, title III, § 305][/us/pl/85/699/s305], Aug. 21, 1958, [72 Stat. 693][/us/stat/72/693]; [Pub. L. 87–341, § 6][/us/pl/87/341/s6], Oct. 3, 1961, [75 Stat. 753][/us/stat/75/753]; [Pub. L. 94–305, title I, § 105][/us/pl/94/305/s105], June 4, 1976, [90 Stat. 666][/us/stat/90/666]; [Pub. L. 102–366, title IV, § 411][/us/pl/102/366/s411], Sept. 4, 1992, [106 Stat. 1018][/us/stat/106/1018].)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 305, Aug. 21, 1958, [72 Stat. 693][/us/stat/72/693]; [Pub. L. 87–341][/us/pl/87/341], § 6, Oct. 3, 1961, [75 Stat. 753][/us/stat/75/753]; [Pub. L. 94–305, title I][/us/pl/94/305/tI], § 105, June 4, 1976, [90 Stat. 666][/us/stat/90/666]; [Pub. L. 102–366, title IV][/us/pl/102/366/tIV], § 411, Sept. 4, 1992, [106 Stat. 1018][/us/stat/106/1018].)
 
  __References in Text__ 
 
@@ -64,13 +64,13 @@
 ----------
 ----------
 
-[/us/pl/85/699/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs305
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
 [/us/stat/72/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F693
-[/us/pl/87/341/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341%2Fs6
+[/us/pl/87/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341
 [/us/stat/75/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F753
-[/us/pl/94/305/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2Fs105
+[/us/pl/94/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2FtI
 [/us/stat/90/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F666
-[/us/pl/102/366/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs411
+[/us/pl/102/366/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2FtIV
 [/us/stat/106/1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1018
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
 [/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366

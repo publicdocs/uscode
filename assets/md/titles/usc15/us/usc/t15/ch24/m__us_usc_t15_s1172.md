@@ -31,7 +31,7 @@
 
         (2) the gambling device remains on board that vessel while in that State.
 
-([Jan. 2, 1951, ch. 1194, § 2][/us/act/1951-01-02/ch1194/s2], [64 Stat. 1134][/us/stat/64/1134]; [Pub. L. 87–840, § 4][/us/pl/87/840/s4], Oct. 18, 1962, [76 Stat. 1075][/us/stat/76/1075]; [Pub. L. 102–251, title II, § 202(a)][/us/pl/102/251/s202/a], Mar. 9, 1992, [106 Stat. 61][/us/stat/106/61].)
+([Jan. 2, 1951, ch. 1194][/us/act/1951-01-02/ch1194], § 2, [64 Stat. 1134][/us/stat/64/1134]; [Pub. L. 87–840][/us/pl/87/840], § 4, Oct. 18, 1962, [76 Stat. 1075][/us/stat/76/1075]; [Pub. L. 102–251, title II][/us/pl/102/251/tII], § 202(a), Mar. 9, 1992, [106 Stat. 61][/us/stat/106/61].)
 
  __References in Text__ 
 
@@ -39,9 +39,9 @@
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–251, § 202(a)(1)][/us/pl/102/251/s202/a/1], (3), (4), designated existing provisions as subsecs. (a) and (b), inserted headings, and added subsec. (c).
+    1992—[Pub. L. 102–251][/us/pl/102/251], § 202(a)(1), (3), (4), designated existing provisions as subsecs. (a) and (b), inserted headings, and added subsec. (c).
 
-    [Pub. L. 102–251, § 202(a)(2)][/us/pl/102/251/s202/a/2], which directed that “, District of Columbia,” be struck out in subsec. (a), was executed by striking out “, the District of Columbia,” after “place in a State” and “outside of such State” to reflect the probable intent of Congress.
+    [Pub. L. 102–251][/us/pl/102/251], § 202(a)(2), which directed that “, District of Columbia,” be struck out in subsec. (a), was executed by striking out “, the District of Columbia,” after “place in a State” and “outside of such State” to reflect the probable intent of Congress.
 
     1962—[Pub. L. 87–840][/us/pl/87/840] excepted gambling devices used or designed for use at and transported to licensed gambling establishments where betting is legal under State laws, and provided that it shall not be unlawful to transport such devices into any State in which the device is specifically enumerated as lawful in a State statute.
 
@@ -58,17 +58,17 @@
 
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1175
-[/us/act/1951-01-02/ch1194/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-02%2Fch1194%2Fs2
+[/us/act/1951-01-02/ch1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-02%2Fch1194
 [/us/stat/64/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1134
-[/us/pl/87/840/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F840%2Fs4
+[/us/pl/87/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F840
 [/us/stat/76/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1075
-[/us/pl/102/251/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs202%2Fa
+[/us/pl/102/251/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2FtII
 [/us/stat/106/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F61
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
-[/us/pl/102/251/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs202%2Fa%2F1
-[/us/pl/102/251/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs202%2Fa%2F2
+[/us/pl/102/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251
+[/us/pl/102/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251
 [/us/pl/87/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F840
 [/us/pl/87/840/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F840%2Fs7
 [/us/usc/t15/s1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1171

@@ -27,11 +27,11 @@
 
         (3) entering into cooperative agreements when authorized to do so under this chapter or any other Act.
 
-([Mar. 3, 1901, ch. 872, § 26][/us/act/1901-03-03/ch872/s26], as added [Pub. L. 100–418, title V, § 5121(a)][/us/pl/100/418/s5121/a], Aug. 23, 1988, [102 Stat. 1435][/us/stat/102/1435].)
+([Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 26, as added [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5121(a), Aug. 23, 1988, [102 Stat. 1435][/us/stat/102/1435].)
 
  __Technology Extension Services__ 
 
-[Pub. L. 100–418, title V, § 5121(b)][/us/pl/100/418/s5121/b], (c), Aug. 23, 1988, [102 Stat. 1436][/us/stat/102/1436], 1437, as amended by [Pub. L. 102–245, title I, § 105(d)][/us/pl/102/245/s105/d], Feb. 14, 1992, [106 Stat. 12][/us/stat/106/12], provided that:
+[Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5121(b), (c), Aug. 23, 1988, [102 Stat. 1436][/us/stat/102/1436], 1437, as amended by [Pub. L. 102–245, title I][/us/pl/102/245/tI], § 105(d), Feb. 14, 1992, [106 Stat. 12][/us/stat/106/12], provided that:
 
 >     “(b)  __Technology Extension Services__  __.—__ 
 
@@ -95,12 +95,12 @@
 ----------
 
 [/us/usc/t15/s278k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278k
-[/us/act/1901-03-03/ch872/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs26
-[/us/pl/100/418/s5121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5121%2Fa
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1435
-[/us/pl/100/418/s5121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5121%2Fb
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1436
-[/us/pl/102/245/s105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs105%2Fd
+[/us/pl/102/245/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtI
 [/us/stat/106/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F12
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t15/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs272

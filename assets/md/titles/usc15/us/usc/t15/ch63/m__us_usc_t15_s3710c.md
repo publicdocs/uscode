@@ -65,55 +65,55 @@
 
         The Comptroller General shall transmit a report to the appropriate committees of the Senate and House of Representatives on the effectiveness of Federal technology transfer programs, including findings, conclusions, and recommendations for improvements in such programs. The report shall be integrated with, and submitted at the same time as, the report required by section 202(b)(3)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 35.
 
-([Pub. L. 96–480, § 14][/us/pl/96/480/s14], as added, renumbered § 13, and amended [Pub. L. 99–502][/us/pl/99/502], §§ 7, 9(e)(1), (3), Oct. 20, 1986, [100 Stat. 1792][/us/stat/100/1792], 1797; renumbered § 14 and amended [Pub. L. 100–418, title V][/us/pl/100/418], §§ 5122(a)(1), 5162(a), Aug. 23, 1988, [102 Stat. 1438][/us/stat/102/1438], 1450; [Pub. L. 100–519, title III, § 303(a)][/us/pl/100/519/s303/a], Oct. 24, 1988, [102 Stat. 2597][/us/stat/102/2597]; [Pub. L. 101–189, div. C, title XXXI, § 3133(c)][/us/pl/101/189/s3133/c], Nov. 29, 1989, [103 Stat. 1677][/us/stat/103/1677]; [Pub. L. 104–113, § 5][/us/pl/104/113/s5], Mar. 7, 1996, [110 Stat. 777][/us/stat/110/777]; [Pub. L. 106–404][/us/pl/106/404], §§ 7(7), 10(b), Nov. 1, 2000, [114 Stat. 1746][/us/stat/114/1746], 1749.)
+([Pub. L. 96–480][/us/pl/96/480], § 14, as added, renumbered § 13, and amended [Pub. L. 99–502][/us/pl/99/502], §§ 7, 9(e)(1), (3), Oct. 20, 1986, [100 Stat. 1792][/us/stat/100/1792], 1797; renumbered § 14 and amended [Pub. L. 100–418, title V][/us/pl/100/418/tV], §§ 5122(a)(1), 5162(a), Aug. 23, 1988, [102 Stat. 1438][/us/stat/102/1438], 1450; [Pub. L. 100–519, title III][/us/pl/100/519/tIII], § 303(a), Oct. 24, 1988, [102 Stat. 2597][/us/stat/102/2597]; [Pub. L. 101–189, div. C, title XXXI][/us/pl/101/189/dC/tXXXI], § 3133(c), Nov. 29, 1989, [103 Stat. 1677][/us/stat/103/1677]; [Pub. L. 104–113][/us/pl/104/113], § 5, Mar. 7, 1996, [110 Stat. 777][/us/stat/110/777]; [Pub. L. 106–404][/us/pl/106/404], §§ 7(7), 10(b), Nov. 1, 2000, [114 Stat. 1746][/us/stat/114/1746], 1749.)
 
  __References in Text__ 
 
-    [Section 202(b)(3) of title 35][/us/usc/t35/s202/b/3], referred to in subsec. (c), was struck out and section 202(b)(4) was redesignated section 202(b)(3) by [Pub. L. 111–8, div. G, title I, § 1301(h)][/us/pl/111/8/s1301/h], Mar. 11, 2009, [123 Stat. 829][/us/stat/123/829].
+    [Section 202(b)(3) of title 35][/us/usc/t35/s202/b/3], referred to in subsec. (c), was struck out and section 202(b)(4) was redesignated section 202(b)(3) by [Pub. L. 111–8, div. G, title I][/us/pl/111/8/dG/tI], § 1301(h), Mar. 11, 2009, [123 Stat. 829][/us/stat/123/829].
 
  __Amendments__ 
 
-    2000—Subsec. (a)(1)(A)(i). [Pub. L. 106–404, § 7(7)(A)][/us/pl/106/404/s7/7/A], (B), inserted “, other than payments of patent costs as delineated by a license or assignment agreement,” after “or other payments” and “, if the inventor’s or coinventor’s rights are assigned to the United States” before period at end.
+    2000—Subsec. (a)(1)(A)(i). [Pub. L. 106–404][/us/pl/106/404], § 7(7)(A), (B), inserted “, other than payments of patent costs as delineated by a license or assignment agreement,” after “or other payments” and “, if the inventor’s or coinventor’s rights are assigned to the United States” before period at end.
 
-    Subsec. (a)(1)(B). [Pub. L. 106–404, § 7(7)(C)][/us/pl/106/404/s7/7/C], substituted “2 succeeding fiscal years” for “succeeding fiscal year” in introductory provisions.
+    Subsec. (a)(1)(B). [Pub. L. 106–404][/us/pl/106/404], § 7(7)(C), substituted “2 succeeding fiscal years” for “succeeding fiscal year” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 106–404, § 7(7)(D)][/us/pl/106/404/s7/7/D], struck out “Government-operated laboratories of the” before “agency for that year,”.
+    Subsec. (a)(2). [Pub. L. 106–404][/us/pl/106/404], § 7(7)(D), struck out “Government-operated laboratories of the” before “agency for that year,”.
 
-    Subsec. (b)(2). [Pub. L. 106–404, § 7(7)(E)][/us/pl/106/404/s7/7/E], substituted “invention” for “inventon”.
+    Subsec. (b)(2). [Pub. L. 106–404][/us/pl/106/404], § 7(7)(E), substituted “invention” for “inventon”.
 
-    Subsec. (c). [Pub. L. 106–404, § 10(b)][/us/pl/106/404/s10/b], amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows:
+    Subsec. (c). [Pub. L. 106–404][/us/pl/106/404], § 10(b), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows:
 
     “(1) In making their annual budget submissions Federal agencies shall submit, to the appropriate authorization and appropriation committees of both Houses of the Congress, summaries of the amount of royalties or other income received and expenditures made (including inventor awards) under this section.
 
     “(2) The Comptroller General, five years after October 20, 1986, shall review the effectiveness of the various royalty-sharing programs established under this section and report to the appropriate committees of the House of Representatives and the Senate, in a timely manner, his findings, conclusions, and recommendations for improvements in such programs.”
 
-    1996—Subsec. (a)(1). [Pub. L. 104–113, § 5(1)][/us/pl/104/113/s5/1], amended par. (1) generally, restructuring subpar. (A) to require head of agency or his designee to pay each year first $2,000, and thereafter at least 15 percent of royalties or other income received by agency on account of any invention to inventor or coinventors if they had assigned their rights in invention to United States and to authorize agencies to provide incentives to laboratory employees who substantially increase technical value of inventions, restructuring subpar. (B) to reorder cls. (i) to (iv), to add cl. (v), and to strike out closing provisions which required unobligated or unused funds to be paid into Treasury, and adding subpar. (C).
+    1996—Subsec. (a)(1). [Pub. L. 104–113][/us/pl/104/113], § 5(1), amended par. (1) generally, restructuring subpar. (A) to require head of agency or his designee to pay each year first $2,000, and thereafter at least 15 percent of royalties or other income received by agency on account of any invention to inventor or coinventors if they had assigned their rights in invention to United States and to authorize agencies to provide incentives to laboratory employees who substantially increase technical value of inventions, restructuring subpar. (B) to reorder cls. (i) to (iv), to add cl. (v), and to strike out closing provisions which required unobligated or unused funds to be paid into Treasury, and adding subpar. (C).
 
-    Subsec. (a)(2). [Pub. L. 104–113, § 5(2)][/us/pl/104/113/s5/2], in first sentence, inserted “or other payments” after “royalties” and substituted “under paragraph (1)(B)” for “for the purposes described in clauses (i) through (iv) of paragraph (1)(B) during that fiscal year or the succeeding fiscal year”.
+    Subsec. (a)(2). [Pub. L. 104–113][/us/pl/104/113], § 5(2), in first sentence, inserted “or other payments” after “royalties” and substituted “under paragraph (1)(B)” for “for the purposes described in clauses (i) through (iv) of paragraph (1)(B) during that fiscal year or the succeeding fiscal year”.
 
-    Subsec. (a)(3). [Pub. L. 104–113, § 5(3)][/us/pl/104/113/s5/3], substituted “$150,000” for “$100,000” in two places.
+    Subsec. (a)(3). [Pub. L. 104–113][/us/pl/104/113], § 5(3), substituted “$150,000” for “$100,000” in two places.
 
-    Subsec. (a)(4). [Pub. L. 104–113, § 5(4)][/us/pl/104/113/s5/4], in first sentence, substituted “other payments” for “other income”, “such royalties or payments” for “such royalties or income”, “offset payments to inventors” for “offset the payment of royalties to inventors”, and “clause (iv) of paragraph (1)(B)” for “clause (i) of paragraph (1)(B)” and, in second sentence, substituted “other payments” for “other income”, substituted “offsetting the payments to inventors” for “payment of the royalties”, and struck out “clauses (i) through (iv) of” before “paragraph (1)(B)”.
+    Subsec. (a)(4). [Pub. L. 104–113][/us/pl/104/113], § 5(4), in first sentence, substituted “other payments” for “other income”, “such royalties or payments” for “such royalties or income”, “offset payments to inventors” for “offset the payment of royalties to inventors”, and “clause (iv) of paragraph (1)(B)” for “clause (i) of paragraph (1)(B)” and, in second sentence, substituted “other payments” for “other income”, substituted “offsetting the payments to inventors” for “payment of the royalties”, and struck out “clauses (i) through (iv) of” before “paragraph (1)(B)”.
 
-    Subsec. (b)(1). [Pub. L. 104–113, § 5(5)][/us/pl/104/113/s5/5], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “by a contractor, grantee, or participant in a cooperative agreement with the agency, or”.
+    Subsec. (b)(1). [Pub. L. 104–113][/us/pl/104/113], § 5(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “by a contractor, grantee, or participant in a cooperative agreement with the agency, or”.
 
-    1989—Subsec. (a)(1). [Pub. L. 101–189, § 3133(c)(1)][/us/pl/101/189/s3133/c/1], in introductory provisions, inserted “by Government-operated Federal laboratories” after “entered into” and made technical amendment to reference to [section 3710a of this title][/us/usc/t15/s3710a] to correct reference to corresponding section of original Act, requiring no change in text.
+    1989—Subsec. (a)(1). [Pub. L. 101–189][/us/pl/101/189], § 3133(c)(1), in introductory provisions, inserted “by Government-operated Federal laboratories” after “entered into” and made technical amendment to reference to [section 3710a of this title][/us/usc/t15/s3710a] to correct reference to corresponding section of original Act, requiring no change in text.
 
-    Subsec. (a)(1)(B)(ii). [Pub. L. 101–189, § 3133(c)(2)][/us/pl/101/189/s3133/c/2], inserted “, including payments to inventors and developers of sensitive or classified technology, regardless of whether the technology has commercial applications” after “that laboratory”.
+    Subsec. (a)(1)(B)(ii). [Pub. L. 101–189][/us/pl/101/189], § 3133(c)(2), inserted “, including payments to inventors and developers of sensitive or classified technology, regardless of whether the technology has commercial applications” after “that laboratory”.
 
-    Subsec. (a)(1)(B)(iv). [Pub. L. 101–189, § 3133(c)(3)][/us/pl/101/189/s3133/c/3], substituted “technology of the laboratories” for “technology of the Government-operated laboratories”.
+    Subsec. (a)(1)(B)(iv). [Pub. L. 101–189][/us/pl/101/189], § 3133(c)(3), substituted “technology of the laboratories” for “technology of the Government-operated laboratories”.
 
-    1988—Subsec. (a)(1)(A)(i). [Pub. L. 100–519, § 303(a)(1)][/us/pl/100/519/s303/a/1], substituted “has assigned his or her rights in the invention to the United States” for “was an employee of the agency at the time the invention was made”.
+    1988—Subsec. (a)(1)(A)(i). [Pub. L. 100–519][/us/pl/100/519], § 303(a)(1), substituted “has assigned his or her rights in the invention to the United States” for “was an employee of the agency at the time the invention was made”.
 
-    Subsec. (a)(1)(A)(ii). [Pub. L. 100–519, § 303(a)(2)][/us/pl/100/519/s303/a/2], substituted “under clause (i)” for “who were employed by the agency at the time the invention was made and whose names appear on licensed inventions”.
+    Subsec. (a)(1)(A)(ii). [Pub. L. 100–519][/us/pl/100/519], § 303(a)(2), substituted “under clause (i)” for “who were employed by the agency at the time the invention was made and whose names appear on licensed inventions”.
 
-    Subsec. (a)(4). [Pub. L. 100–418, § 5162(a)][/us/pl/100/418/s5162/a], substituted “may” for “shall” and “any invention of the other agency” for “such invention performed at the request of the other agency or laboratory” in first sentence.
+    Subsec. (a)(4). [Pub. L. 100–418][/us/pl/100/418], § 5162(a), substituted “may” for “shall” and “any invention of the other agency” for “such invention performed at the request of the other agency or laboratory” in first sentence.
 
-    1986—Subsec. (a)(1). [Pub. L. 99–502, § 9(e)(3)][/us/pl/99/502/s9/e/3], in introductory par. made technical amendment to reference to [section 3710a of this title][/us/usc/t15/s3710a] to reflect renumbering of corresponding section of original act.
+    1986—Subsec. (a)(1). [Pub. L. 99–502][/us/pl/99/502], § 9(e)(3), in introductory par. made technical amendment to reference to [section 3710a of this title][/us/usc/t15/s3710a] to reflect renumbering of corresponding section of original act.
 
  __Effective Date of 1988 Amendment__ 
 
-[Pub. L. 100–519, title III, § 303(b)][/us/pl/100/519/s303/b], Oct. 24, 1988, [102 Stat. 2597][/us/stat/102/2597], provided that: 
+[Pub. L. 100–519, title III][/us/pl/100/519/tIII], § 303(b), Oct. 24, 1988, [102 Stat. 2597][/us/stat/102/2597], provided that: 
 
 > “This section \[amending this section\] shall be effective as of October 20, 1986.”
 
@@ -128,42 +128,42 @@
 [/us/usc/t35/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs207
 [/us/usc/t5/s4504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4504
 [/us/usc/t35/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs207
-[/us/pl/96/480/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs14
+[/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/stat/100/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1792
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1438
-[/us/pl/100/519/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs303%2Fa
+[/us/pl/100/519/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2FtIII
 [/us/stat/102/2597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2597
-[/us/pl/101/189/s3133/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3133%2Fc
+[/us/pl/101/189/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdC%2FtXXXI
 [/us/stat/103/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1677
-[/us/pl/104/113/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs5
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 [/us/stat/110/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F777
 [/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
 [/us/stat/114/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1746
 [/us/usc/t35/s202/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs202%2Fb%2F3
-[/us/pl/111/8/s1301/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs1301%2Fh
+[/us/pl/111/8/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdG%2FtI
 [/us/stat/123/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F829
-[/us/pl/106/404/s7/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs7%2F7%2FA
-[/us/pl/106/404/s7/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs7%2F7%2FC
-[/us/pl/106/404/s7/7/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs7%2F7%2FD
-[/us/pl/106/404/s7/7/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs7%2F7%2FE
-[/us/pl/106/404/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs10%2Fb
-[/us/pl/104/113/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs5%2F1
-[/us/pl/104/113/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs5%2F2
-[/us/pl/104/113/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs5%2F3
-[/us/pl/104/113/s5/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs5%2F4
-[/us/pl/104/113/s5/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs5%2F5
-[/us/pl/101/189/s3133/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3133%2Fc%2F1
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 [/us/usc/t15/s3710a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a
-[/us/pl/101/189/s3133/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3133%2Fc%2F2
-[/us/pl/101/189/s3133/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3133%2Fc%2F3
-[/us/pl/100/519/s303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs303%2Fa%2F1
-[/us/pl/100/519/s303/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs303%2Fa%2F2
-[/us/pl/100/418/s5162/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5162%2Fa
-[/us/pl/99/502/s9/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs9%2Fe%2F3
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/100/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519
+[/us/pl/100/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/usc/t15/s3710a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a
-[/us/pl/100/519/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs303%2Fb
+[/us/pl/100/519/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2FtIII
 [/us/stat/102/2597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2597
 
 

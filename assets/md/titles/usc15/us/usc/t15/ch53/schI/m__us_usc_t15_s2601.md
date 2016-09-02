@@ -39,41 +39,41 @@
 
         It is the intent of Congress that the Administrator shall carry out this chapter in a reasonable and prudent manner, and that the Administrator shall consider the environmental, economic, and social impact of any action the Administrator takes or proposes to take under this chapter.
 
-([Pub. L. 94–469, title I, § 2][/us/pl/94/469/s2], Oct. 11, 1976, [90 Stat. 2003][/us/stat/90/2003]; renumbered title I, [Pub. L. 99–519, § 3(c)(1)][/us/pl/99/519/s3/c/1], Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989].)
+([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 2, Oct. 11, 1976, [90 Stat. 2003][/us/stat/90/2003]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989].)
 
  __Effective Date__ 
 
-[Section 31 of title I of Pub. L. 94–469][/us/pl/94/469/s31]; renumbered title I, [Pub. L. 99–519, § 3(c)][/us/pl/99/519/s3/c], Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989], provided that: 
+[Section 31 of title I of Pub. L. 94–469][/us/pl/94/469/tI/s31]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989], provided that: 
 
 > “Except as provided in section 4(f) \[[section 2603(f) of this title][/us/usc/t15/s2603/f]\], this Act \[enacting this chapter\] shall take effect on January 1, 1977.”
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–199, § 1][/us/pl/111/199/s1], July 7, 2010, [124 Stat. 1359][/us/stat/124/1359], provided that: 
+[Pub. L. 111–199][/us/pl/111/199], § 1, July 7, 2010, [124 Stat. 1359][/us/stat/124/1359], provided that: 
 
 > “This Act \[enacting subchapter VI of this chapter and provisions set out as a note under [section 2697 of this title][/us/usc/t15/s2697]\] may be cited as the ‘Formaldehyde Standards for Composite Wood Products Act’.”
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–414, § 1][/us/pl/110/414/s1], Oct. 14, 2008, [122 Stat. 4341][/us/stat/122/4341], provided that: 
+[Pub. L. 110–414][/us/pl/110/414], § 1, Oct. 14, 2008, [122 Stat. 4341][/us/stat/122/4341], provided that: 
 
 > “This Act \[enacting [section 6939f of Title 42][/us/usc/t42/s6939f], The Public Health and Welfare, amending sections 2605 and 2611 of this title, and enacting provisions set out as a note under [section 2611 of this title][/us/usc/t15/s2611]\] may be cited as the ‘Mercury Export Ban Act of 2008’.”
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–550, title X, § 1021(c)][/us/pl/102/550/s1021/c], Oct. 28, 1992, [106 Stat. 3924][/us/stat/106/3924], provided that: 
+[Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(c), Oct. 28, 1992, [106 Stat. 3924][/us/stat/106/3924], provided that: 
 
 > “This subtitle \[subtitle B (§ 1021) of title X of [Pub. L. 102–550][/us/pl/102/550], enacting sections 2681 to 2692 of this title and amending sections 2606, 2610, 2612, 2615, 2616, 2618, and 2619 of this title\] may be cited as the ‘Lead-Based Paint Exposure Reduction Act’.”
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–519, § 1][/us/pl/99/519/s1], Oct. 22, 1986, [100 Stat. 2970][/us/stat/100/2970], provided that: 
+[Pub. L. 99–519][/us/pl/99/519], § 1, Oct. 22, 1986, [100 Stat. 2970][/us/stat/100/2970], provided that: 
 
 > “This Act \[enacting sections 2641 to 2654 of this title and [section 4022 of Title 20][/us/usc/t20/s4022], Education, amending sections 2614, 2618, and 2619 of this title and sections 4014 and 4021 of Title 20, and enacting provisions set out as a note under [section 4014 of Title 20][/us/usc/t20/s4014]\] may be cited as the ‘Asbestos Hazard Emergency Response Act of 1986’.”
 
  __Short Title__ 
 
-[Pub. L. 94–469, § 1][/us/pl/94/469/s1], Oct. 11, 1976, [90 Stat. 2003][/us/stat/90/2003]; renumbered title I, [Pub. L. 99–519, § 3(c)][/us/pl/99/519/s3/c], Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989], provided that: 
+[Pub. L. 94–469][/us/pl/94/469], § 1, Oct. 11, 1976, [90 Stat. 2003][/us/stat/90/2003]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989], provided that: 
 
 > “This Act \[enacting this chapter and provisions set out as notes under this section\] may be cited as the ‘Toxic Substances Control Act’.”
 
@@ -88,31 +88,31 @@
 ----------
 ----------
 
-[/us/pl/94/469/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs2
+[/us/pl/94/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtI
 [/us/stat/90/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2003
-[/us/pl/99/519/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs3%2Fc%2F1
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
-[/us/pl/94/469/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs31
-[/us/pl/99/519/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs3%2Fc
+[/us/pl/94/469/tI/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtI%2Fs31
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
 [/us/usc/t15/s2603/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2603%2Ff
-[/us/pl/111/199/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F199%2Fs1
+[/us/pl/111/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F199
 [/us/stat/124/1359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1359
 [/us/usc/t15/s2697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2697
-[/us/pl/110/414/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F414%2Fs1
+[/us/pl/110/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F414
 [/us/stat/122/4341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4341
 [/us/usc/t42/s6939f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6939f
 [/us/usc/t15/s2611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2611
-[/us/pl/102/550/s1021/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1021%2Fc
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3924
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
-[/us/pl/99/519/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs1
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2970
 [/us/usc/t20/s4022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4022
 [/us/usc/t20/s4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4014
-[/us/pl/94/469/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs1
+[/us/pl/94/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469
 [/us/stat/90/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2003
-[/us/pl/99/519/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs3%2Fc
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 

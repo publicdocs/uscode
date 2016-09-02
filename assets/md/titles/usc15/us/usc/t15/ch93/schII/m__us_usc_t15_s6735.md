@@ -77,7 +77,7 @@
 
         The term “transferor domicile” means the State from which a mutual insurer is redomesticating pursuant to this subchapter.
 
-([Pub. L. 106–102, title III, § 315][/us/pl/106/102/s315], Nov. 12, 1999, [113 Stat. 1420][/us/stat/113/1420].)
+([Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 315, Nov. 12, 1999, [113 Stat. 1420][/us/stat/113/1420].)
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -91,7 +91,7 @@
 ----------
 
 [/us/usc/t15/s6734/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6734%2Fa
-[/us/pl/106/102/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs315
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1420
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

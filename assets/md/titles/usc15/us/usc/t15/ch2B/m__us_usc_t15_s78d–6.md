@@ -67,7 +67,7 @@
 
             The Comptroller General of the United States may hire independent consultants with specialized expertise in any area relevant to the duties of the Comptroller General described in this section, in order to assist the Comptroller General in carrying out such duties.
 
-([Pub. L. 111–203, title IX, § 961][/us/pl/111/203/s961], July 21, 2010, [124 Stat. 1907][/us/stat/124/1907].)
+([Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 961, July 21, 2010, [124 Stat. 1907][/us/stat/124/1907].)
 
  __Codification__ 
 
@@ -88,7 +88,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs961
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1907
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

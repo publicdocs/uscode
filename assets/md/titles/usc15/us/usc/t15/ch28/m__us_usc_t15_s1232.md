@@ -59,15 +59,15 @@
 
     (h) if an automobile has not been tested by the National Highway Traffic Safety Administration under the New Car Assessment Program, or safety ratings for such automobile have not been assigned in one or more rating categories, a statement to that effect.
 
-([Pub. L. 85–506, § 3][/us/pl/85/506/s3], July 7, 1958, [72 Stat. 326][/us/stat/72/326]; [Pub. L. 109–59, title X, § 10307(a)][/us/pl/109/59/s10307/a], Aug. 10, 2005, [119 Stat. 1941][/us/stat/119/1941]; [Pub. L. 112–141, div. C, title I, § 31314][/us/pl/112/141/s31314], July 6, 2012, [126 Stat. 772][/us/stat/126/772].)
+([Pub. L. 85–506][/us/pl/85/506], § 3, July 7, 1958, [72 Stat. 326][/us/stat/72/326]; [Pub. L. 109–59, title X][/us/pl/109/59/tX], § 10307(a), Aug. 10, 2005, [119 Stat. 1941][/us/stat/119/1941]; [Pub. L. 112–141, div. C, title I][/us/pl/112/141/dC/tI], § 31314, July 6, 2012, [126 Stat. 772][/us/stat/126/772].)
 
  __Amendments__ 
 
     2012—Subsec. (g)(2). [Pub. L. 112–141][/us/pl/112/141] inserted “safety rating categories that may include” after “refers to”.
 
-    2005—Subsec. (f)(3). [Pub. L. 109–59, § 10307(a)(2)][/us/pl/109/59/s10307/a/2], inserted “and” at end.
+    2005—Subsec. (f)(3). [Pub. L. 109–59][/us/pl/109/59], § 10307(a)(2), inserted “and” at end.
 
-    Subsecs. (g), (h). [Pub. L. 109–59, § 10307(a)(1)][/us/pl/109/59/s10307/a/1], (3), (4), added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 109–59][/us/pl/109/59], § 10307(a)(1), (3), (4), added subsecs. (g) and (h).
 
  __Effective Date of 2012 Amendment__ 
 
@@ -75,7 +75,7 @@
 
  __Regulations__ 
 
-[Pub. L. 109–59, title X, § 10307(b)][/us/pl/109/59/s10307/b], Aug. 10, 2005, [119 Stat. 1942][/us/stat/119/1942], provided that: 
+[Pub. L. 109–59, title X][/us/pl/109/59/tX], § 10307(b), Aug. 10, 2005, [119 Stat. 1942][/us/stat/119/1942], provided that: 
 
 > “The Secretary of Transportation shall issue regulations to ensure that the labeling requirements under subsections (g) and (h) of section 3 of the Automobile Information Disclosure Act \[[15 U.S.C. 1232(g)][/us/usc/t15/s1232/g], (h)\], as added by subsection (a), are implemented by September 1, 2007.”
 
@@ -86,19 +86,19 @@
 ----------
 ----------
 
-[/us/pl/85/506/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F506%2Fs3
+[/us/pl/85/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F506
 [/us/stat/72/326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F326
-[/us/pl/109/59/s10307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10307%2Fa
+[/us/pl/109/59/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtX
 [/us/stat/119/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1941
-[/us/pl/112/141/s31314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs31314
+[/us/pl/112/141/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdC%2FtI
 [/us/stat/126/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F772
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/109/59/s10307/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10307%2Fa%2F2
-[/us/pl/109/59/s10307/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10307%2Fa%2F1
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
+[/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/109/59/s10307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs10307%2Fb
+[/us/pl/109/59/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2FtX
 [/us/stat/119/1942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1942
 [/us/usc/t15/s1232/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1232%2Fg
 

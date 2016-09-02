@@ -63,7 +63,7 @@
 
         If the holder of the international registration of the mark is not domiciled in the United States, the holder may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the last designated address, or if the holder does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title XII, § 71, as added [Pub. L. 107–273, div. C, title III, § 13402][/us/pl/107/273/s13402], Nov. 2, 2002, [116 Stat. 1919][/us/stat/116/1919]; amended [Pub. L. 111–146, § 3(d)(2)][/us/pl/111/146/s3/d/2], Mar. 17, 2010, [124 Stat. 68][/us/stat/124/68].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title XII, § 71, as added [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13402, Nov. 2, 2002, [116 Stat. 1919][/us/stat/116/1919]; amended [Pub. L. 111–146][/us/pl/111/146], § 3(d)(2), Mar. 17, 2010, [124 Stat. 68][/us/stat/124/68].)
 
  __Amendments__ 
 
@@ -78,9 +78,9 @@
 
 [/us/usc/t15/s1141i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1141i
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
-[/us/pl/107/273/s13402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13402
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1919
-[/us/pl/111/146/s3/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F146%2Fs3%2Fd%2F2
+[/us/pl/111/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F146
 [/us/stat/124/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F68
 [/us/pl/111/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F146
 

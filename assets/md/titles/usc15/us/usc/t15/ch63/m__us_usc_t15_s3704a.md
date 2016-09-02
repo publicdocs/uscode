@@ -43,7 +43,7 @@
 
         In carrying out subsection (b), the Secretary may enter into contracts for the purpose of collecting information on the nature, extent, and effects of initiatives.
 
-([Pub. L. 96–480, § 6][/us/pl/96/480/s6], as added [Pub. L. 100–418, title V, § 5122(a)(2)][/us/pl/100/418/s5122/a/2], Aug. 23, 1988, [102 Stat. 1438][/us/stat/102/1438].)
+([Pub. L. 96–480][/us/pl/96/480], § 6, as added [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5122(a)(2), Aug. 23, 1988, [102 Stat. 1438][/us/stat/102/1438].)
 
  __Codification__ 
 
@@ -56,8 +56,8 @@
 ----------
 ----------
 
-[/us/pl/96/480/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs6
-[/us/pl/100/418/s5122/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5122%2Fa%2F2
+[/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1438
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

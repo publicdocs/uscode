@@ -23,7 +23,7 @@
 
     (3) the term “Government procurement contract” means any contract for the procurement of any goods or services by any Federal agency.
 
-([Pub. L. 95–507, title II, § 224(a)][/us/pl/95/507/s224/a], Oct. 24, 1978, [92 Stat. 1772][/us/stat/92/1772]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 95–507, title II][/us/pl/95/507/tII], § 224(a), Oct. 24, 1978, [92 Stat. 1772][/us/stat/92/1772]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
-[/us/pl/95/507/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507%2Fs224%2Fa
+[/us/pl/95/507/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507%2FtII
 [/us/stat/92/1772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1772
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/95/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507
 [/us/stat/92/1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1757

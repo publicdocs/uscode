@@ -39,7 +39,7 @@
 
         No individual, association, partnership, or corporation shall use the words “Commodity Credit Corporation” or any combination of the same, as the name or a part thereof under which he or it shall do or purport to do business. Every individual, partnership, association, or corporation violating this prohibition shall be guilty of a misdemeanor and shall be punished by a fine of not more than $1,000 or by imprisonment for not more than one year, or both.
 
-([June 29, 1948, ch. 704, § 15][/us/act/1948-06-29/ch704/s15], [62 Stat. 1074][/us/stat/62/1074]; [June 7, 1949, ch. 175, § 6][/us/act/1949-06-07/ch175/s6], [63 Stat. 157][/us/stat/63/157]; [Aug. 1, 1956, ch. 815, § 2][/us/act/1956-08-01/ch815/s2], [70 Stat. 783][/us/stat/70/783].)
+([June 29, 1948, ch. 704][/us/act/1948-06-29/ch704], § 15, [62 Stat. 1074][/us/stat/62/1074]; [June 7, 1949, ch. 175][/us/act/1949-06-07/ch175], § 6, [63 Stat. 157][/us/stat/63/157]; [Aug. 1, 1956, ch. 815][/us/act/1956-08-01/ch815], § 2, [70 Stat. 783][/us/stat/70/783].)
 
  __Codification__ 
 
@@ -62,11 +62,11 @@
 ----------
 ----------
 
-[/us/act/1948-06-29/ch704/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch704%2Fs15
+[/us/act/1948-06-29/ch704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch704
 [/us/stat/62/1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1074
-[/us/act/1949-06-07/ch175/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-07%2Fch175%2Fs6
+[/us/act/1949-06-07/ch175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-07%2Fch175
 [/us/stat/63/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F157
-[/us/act/1956-08-01/ch815/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch815%2Fs2
+[/us/act/1956-08-01/ch815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch815
 [/us/stat/70/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F783
 [/us/act/1948-06-25/ch645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch645
 [/us/stat/62/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F683

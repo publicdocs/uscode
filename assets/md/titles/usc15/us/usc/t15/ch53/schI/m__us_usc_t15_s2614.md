@@ -25,7 +25,7 @@
 
     (4) fail or refuse to permit entry or inspection as required by [section 2610 of this title][/us/usc/t15/s2610].
 
-([Pub. L. 94–469, title I, § 15][/us/pl/94/469/s15], Oct. 11, 1976, [90 Stat. 2036][/us/stat/90/2036]; renumbered title I and amended [Pub. L. 99–519, § 3(b)(1)][/us/pl/99/519/s3/b/1], (c)(1), Oct. 22, 1986, [100 Stat. 2988][/us/stat/100/2988], 2989.)
+([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 15, Oct. 11, 1976, [90 Stat. 2036][/us/stat/90/2036]; renumbered title I and amended [Pub. L. 99–519][/us/pl/99/519], § 3(b)(1), (c)(1), Oct. 22, 1986, [100 Stat. 2988][/us/stat/100/2988], 2989.)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 
 [/us/usc/t15/s2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2603
 [/us/usc/t15/s2610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2610
-[/us/pl/94/469/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs15
+[/us/pl/94/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtI
 [/us/stat/90/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2036
-[/us/pl/99/519/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs3%2Fb%2F1
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2988]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2988
 [/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 

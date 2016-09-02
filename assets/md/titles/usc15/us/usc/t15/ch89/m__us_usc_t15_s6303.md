@@ -25,7 +25,7 @@
 
         (2) any reporting or other requirement relating to a supervising commission allowed under this section shall be deemed to refer to the entity described in paragraph (1).
 
-([Pub. L. 104–272, § 4][/us/pl/104/272/s4], Oct. 9, 1996, [110 Stat. 3310][/us/stat/110/3310]; [Pub. L. 106–210, § 7(e)][/us/pl/106/210/s7/e], May 26, 2000, [114 Stat. 328][/us/stat/114/328].)
+([Pub. L. 104–272][/us/pl/104/272], § 4, Oct. 9, 1996, [110 Stat. 3310][/us/stat/110/3310]; [Pub. L. 106–210][/us/pl/106/210], § 7(e), May 26, 2000, [114 Stat. 328][/us/stat/114/328].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/104/272/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs4
+[/us/pl/104/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272
 [/us/stat/110/3310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3310
-[/us/pl/106/210/s7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs7%2Fe
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 [/us/stat/114/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F328
 [/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 

@@ -17,7 +17,7 @@
 
     Any item imported into the United States in violation of section 2101(a) or (b) of this title or regulations under [section 2101(c) of this title][/us/usc/t15/s2101/c] shall be subject to seizure and forfeiture under the customs laws.
 
-([Pub. L. 93–167, § 5][/us/pl/93/167/s5], Nov. 29, 1973, [87 Stat. 687][/us/stat/87/687].)
+([Pub. L. 93–167][/us/pl/93/167], § 5, Nov. 29, 1973, [87 Stat. 687][/us/stat/87/687].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t15/s2101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2101%2Fc
-[/us/pl/93/167/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F167%2Fs5
+[/us/pl/93/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F167
 [/us/stat/87/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F687
 
 

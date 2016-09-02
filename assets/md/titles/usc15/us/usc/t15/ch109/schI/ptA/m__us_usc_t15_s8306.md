@@ -81,7 +81,7 @@
 
             The filing of a petition by the complaining Commission pursuant to paragraph (1) shall operate as a stay of the order, until the date on which the determination of the court is final (including any appeal of the determination).
 
-([Pub. L. 111–203, title VII, § 718][/us/pl/111/203/s718], July 21, 2010, [124 Stat. 1652][/us/stat/124/1652].)
+([Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 718, July 21, 2010, [124 Stat. 1652][/us/stat/124/1652].)
 
  __Definition__ 
 
@@ -99,7 +99,7 @@
 [/us/usc/t15/s78mm/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78mm%2Fa%2F1
 [/us/usc/t7/s6/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6%2Fc%2F1
 [/us/usc/t15/s78y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78y
-[/us/pl/111/203/s718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs718
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1652
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
 

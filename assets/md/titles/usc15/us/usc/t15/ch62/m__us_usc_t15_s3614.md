@@ -17,7 +17,7 @@
 
     Any condition, stipulation, or provision binding any person to waive compliance with any provisions of this chapter shall be void.
 
-([Pub. L. 96–399, title VI, § 615][/us/pl/96/399/s615], Oct. 8, 1980, [94 Stat. 1680][/us/stat/94/1680].)
+([Pub. L. 96–399, title VI][/us/pl/96/399/tVI], § 615, Oct. 8, 1980, [94 Stat. 1680][/us/stat/94/1680].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/399/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs615
+[/us/pl/96/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtVI
 [/us/stat/94/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1680
 
 

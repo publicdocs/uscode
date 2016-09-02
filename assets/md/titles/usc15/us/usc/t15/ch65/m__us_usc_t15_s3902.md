@@ -141,21 +141,21 @@
 
         Nothing in this chapter shall be construed to affect the authority of any State to regulate or prohibit the ownership interest in a risk retention group by an insurance company in that State, other than in the case of ownership interest in a risk retention group whose members are insurance companies.
 
-([Pub. L. 97–45, § 3][/us/pl/97/45/s3], Sept. 25, 1981, [95 Stat. 950][/us/stat/95/950]; [Pub. L. 99–563][/us/pl/99/563], §§ 5, 7, 8(a), 12(c), Oct. 27, 1986, [100 Stat. 3172][/us/stat/100/3172], 3175, 3178.)
+([Pub. L. 97–45][/us/pl/97/45], § 3, Sept. 25, 1981, [95 Stat. 950][/us/stat/95/950]; [Pub. L. 99–563][/us/pl/99/563], §§ 5, 7, 8(a), 12(c), Oct. 27, 1986, [100 Stat. 3172][/us/stat/100/3172], 3175, 3178.)
 
  __Amendments__ 
 
-    1986—Subsec. (a)(1)(C). [Pub. L. 99–563, § 12(c)][/us/pl/99/563/s12/c], struck out “product liability or completed operations” before “liability insurance losses”.
+    1986—Subsec. (a)(1)(C). [Pub. L. 99–563][/us/pl/99/563], § 12(c), struck out “product liability or completed operations” before “liability insurance losses”.
 
-    Subsec. (a)(1)(D). [Pub. L. 99–563, § 5(b)(1)][/us/pl/99/563/s5/b/1], redesignated subpar. (E) as (D), substituted a semicolon for “, and, upon request, furnish such commissioner a copy of any financial report submitted by the risk retention group to the commissioners of the chartering or licensing jurisdiction;”, and struck out former subpar. (D) which read as follows: “submit to the appropriate authority reports and other information required of licensed insurers under the laws of a State relating solely to product liability or completed operations liability insurance losses and expenses;”.
+    Subsec. (a)(1)(D). [Pub. L. 99–563][/us/pl/99/563], § 5(b)(1), redesignated subpar. (E) as (D), substituted a semicolon for “, and, upon request, furnish such commissioner a copy of any financial report submitted by the risk retention group to the commissioners of the chartering or licensing jurisdiction;”, and struck out former subpar. (D) which read as follows: “submit to the appropriate authority reports and other information required of licensed insurers under the laws of a State relating solely to product liability or completed operations liability insurance losses and expenses;”.
 
-    Subsec. (a)(1)(E). [Pub. L. 99–563, § 5(b)(1)(A)][/us/pl/99/563/s5/b/1/A], (c), redesignated subpar. (F) as (E), further redesignated cl. (ii) as (i), added cl. (ii), and struck out former cl. (i) which read as follows: “the commissioner has reason to believe the risk retention group is in a financially impaired condition; and”. Former subpar. (E) redesignated (D).
+    Subsec. (a)(1)(E). [Pub. L. 99–563][/us/pl/99/563], § 5(b)(1)(A), (c), redesignated subpar. (F) as (E), further redesignated cl. (ii) as (i), added cl. (ii), and struck out former cl. (i) which read as follows: “the commissioner has reason to believe the risk retention group is in a financially impaired condition; and”. Former subpar. (E) redesignated (D).
 
-    Subsec. (a)(1)(F). [Pub. L. 99–563, § 5(b)(1)(A)][/us/pl/99/563/s5/b/1/A], (d), redesignated subpar. (G) as (F) and amended it generally. Prior to amendment, subpar. (F) read as follows: “comply with a lawful order issued in a delinquency proceeding commenced by the State insurance commissioner if the commissioner of the jurisdiction in which the group is chartered has failed to initiate such a proceeding after notice of a finding of financial impairment under subparagraph (F) of this paragraph;”. Former subpar. (F) redesignated (E).
+    Subsec. (a)(1)(F). [Pub. L. 99–563][/us/pl/99/563], § 5(b)(1)(A), (d), redesignated subpar. (G) as (F) and amended it generally. Prior to amendment, subpar. (F) read as follows: “comply with a lawful order issued in a delinquency proceeding commenced by the State insurance commissioner if the commissioner of the jurisdiction in which the group is chartered has failed to initiate such a proceeding after notice of a finding of financial impairment under subparagraph (F) of this paragraph;”. Former subpar. (F) redesignated (E).
 
-    Subsec. (a)(1)(G) to (I). [Pub. L. 99–563, § 5(b)(1)(A)][/us/pl/99/563/s5/b/1/A], (e), added subpars. (G) to (I). Former subpar. (G) redesignated (F).
+    Subsec. (a)(1)(G) to (I). [Pub. L. 99–563][/us/pl/99/563], § 5(b)(1)(A), (e), added subpars. (G) to (I). Former subpar. (G) redesignated (F).
 
-    Subsec. (b). [Pub. L. 99–563, § 5(a)][/us/pl/99/563/s5/a], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The exemptions specified in subsection (a) of this section apply to—
+    Subsec. (b). [Pub. L. 99–563][/us/pl/99/563], § 5(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The exemptions specified in subsection (a) of this section apply to—
 
     “(1) product liability or completed operations liability insurance coverage provided by a risk retention group for—
 
@@ -180,16 +180,16 @@
 ----------
 ----------
 
-[/us/pl/97/45/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F45%2Fs3
+[/us/pl/97/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F45
 [/us/stat/95/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F950
 [/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
 [/us/stat/100/3172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3172
-[/us/pl/99/563/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs12%2Fc
-[/us/pl/99/563/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs5%2Fb%2F1
-[/us/pl/99/563/s5/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs5%2Fb%2F1%2FA
-[/us/pl/99/563/s5/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs5%2Fb%2F1%2FA
-[/us/pl/99/563/s5/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs5%2Fb%2F1%2FA
-[/us/pl/99/563/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs5%2Fa
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
 [/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
 [/us/pl/99/563/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs11%2Fb
 [/us/usc/t15/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3901

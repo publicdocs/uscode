@@ -177,7 +177,7 @@ SUBCHAPTER II—METRIC CONVERSION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs205" data-uslm-ref="/us/usc/t15/s205">205</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs205l" data-uslm-ref="/us/usc/t15/s205l">205l.</a>  </td>
 
     <td> Implementation in acquisition of construction services and materials for Federal facilities.  </td>
 

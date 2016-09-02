@@ -25,7 +25,7 @@
 
     (4) the term “quality of working life” shall be interpreted to mean the conditions of work relating to the role of the worker in the production process.
 
-([Pub. L. 94–136, title I, § 104][/us/pl/94/136/s104], Nov. 28, 1975, [89 Stat. 735][/us/stat/89/735].)
+([Pub. L. 94–136, title I][/us/pl/94/136/tI], § 104, Nov. 28, 1975, [89 Stat. 735][/us/stat/89/735].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/94/136/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2Fs104
+[/us/pl/94/136/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2FtI
 [/us/stat/89/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F735
 
 

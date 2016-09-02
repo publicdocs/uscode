@@ -97,17 +97,17 @@
 
             Nothing in this subsection shall be construed to prohibit the export of coal.
 
-([Pub. L. 94–469, title I, § 12][/us/pl/94/469/s12], Oct. 11, 1976, [90 Stat. 2033][/us/stat/90/2033]; renumbered title I, [Pub. L. 99–519, § 3(c)(1)][/us/pl/99/519/s3/c/1], Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 110–414, § 4][/us/pl/110/414/s4], Oct. 14, 2008, [122 Stat. 4342][/us/stat/122/4342].)
+([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 12, Oct. 11, 1976, [90 Stat. 2033][/us/stat/90/2033]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 110–414][/us/pl/110/414], § 4, Oct. 14, 2008, [122 Stat. 4342][/us/stat/122/4342].)
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–414, § 4(1)][/us/pl/110/414/s4/1], substituted “subsections (b) and (c)” for “subsection (b)” in introductory provisions.
+    2008—Subsec. (a)(1). [Pub. L. 110–414][/us/pl/110/414], § 4(1), substituted “subsections (b) and (c)” for “subsection (b)” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 110–414, § 4(2)][/us/pl/110/414/s4/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 110–414][/us/pl/110/414], § 4(2), added subsec. (c).
 
  __Findings__ 
 
-[Pub. L. 110–414, § 2][/us/pl/110/414/s2], Oct. 14, 2008, [122 Stat. 4341][/us/stat/122/4341], provided that: 
+[Pub. L. 110–414][/us/pl/110/414], § 2, Oct. 14, 2008, [122 Stat. 4341][/us/stat/122/4341], provided that: 
 
 > “Congress finds that—
 
@@ -159,15 +159,15 @@
 [/us/usc/t15/s2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2615
 [/us/usc/t15/s2616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2616
 [/us/usc/t15/s2619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2619
-[/us/pl/94/469/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs12
+[/us/pl/94/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtI
 [/us/stat/90/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2033
-[/us/pl/99/519/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs3%2Fc%2F1
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
-[/us/pl/110/414/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F414%2Fs4
+[/us/pl/110/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F414
 [/us/stat/122/4342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4342
-[/us/pl/110/414/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F414%2Fs4%2F1
-[/us/pl/110/414/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F414%2Fs4%2F2
-[/us/pl/110/414/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F414%2Fs2
+[/us/pl/110/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F414
+[/us/pl/110/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F414
+[/us/pl/110/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F414
 [/us/stat/122/4341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4341
 
 

@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to affect the applicability of any State law that provides stricter limits on damages and liabilities, affording greater protection to defendants in Y2K actions, than are provided in this chapter.
 
-([Pub. L. 106–37, § 16][/us/pl/106/37/s16], July 20, 1999, [113 Stat. 202][/us/stat/113/202].)
+([Pub. L. 106–37][/us/pl/106/37], § 16, July 20, 1999, [113 Stat. 202][/us/stat/113/202].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/37/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37%2Fs16
+[/us/pl/106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37
 [/us/stat/113/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F202
 
 

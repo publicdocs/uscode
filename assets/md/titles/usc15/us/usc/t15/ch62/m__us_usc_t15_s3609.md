@@ -17,7 +17,7 @@
 
     Any provision in any lease or contract requiring unit owners or the owners’ association, in any conversion project involving a contract meeting the requirements of [section 3607 of this title][/us/usc/t15/s3607] of in any project involving a lease meeting the requirements of [section 3608 of this title][/us/usc/t15/s3608], to reimburse, regardless of outcome, the developer, his successor, or affiliate of the developer for attorneys’ fees or money judgments, in a suit between unit owners or the owners’ association and the developer arising under the lease or agreement, is against public policy and void.
 
-([Pub. L. 96–399, title VI, § 610][/us/pl/96/399/s610], Oct. 8, 1980, [94 Stat. 1678][/us/stat/94/1678].)
+([Pub. L. 96–399, title VI][/us/pl/96/399/tVI], § 610, Oct. 8, 1980, [94 Stat. 1678][/us/stat/94/1678].)
 
  __Effective Date__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t15/s3607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3607
 [/us/usc/t15/s3608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3608
-[/us/pl/96/399/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs610
+[/us/pl/96/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtVI
 [/us/stat/94/1678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1678
 [/us/usc/t15/s3608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3608
 [/us/pl/96/399/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs618

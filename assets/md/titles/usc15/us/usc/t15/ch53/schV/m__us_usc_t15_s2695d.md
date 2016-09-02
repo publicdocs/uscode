@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to carry out this subchapter $1,000,000 for fiscal year 2009, and $1,500,000 for each of fiscal years 2010 through 2013, to remain available until expended.
 
-([Pub. L. 94–469, title V, § 505][/us/pl/94/469/s505], as added [Pub. L. 110–140, title IV, § 461(a)][/us/pl/110/140/s461/a], Dec. 19, 2007, [121 Stat. 1642][/us/stat/121/1642].)
+([Pub. L. 94–469, title V][/us/pl/94/469/tV], § 505, as added [Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 461(a), Dec. 19, 2007, [121 Stat. 1642][/us/stat/121/1642].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/94/469/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs505
-[/us/pl/110/140/s461/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs461%2Fa
+[/us/pl/94/469/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtV
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1642
 
 

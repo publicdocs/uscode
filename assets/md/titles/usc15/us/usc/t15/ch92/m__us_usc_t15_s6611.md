@@ -45,7 +45,7 @@
 
         A person liable for damages, whether by settlement or judgment, in a civil action to which this chapter does not apply because of [section 6603(c) of this title][/us/usc/t15/s6603/c] whose liability, in whole or in part, is the result of a Y2K failure may, notwithstanding any other provision of this chapter, pursue any remedy otherwise available under Federal or State law against the person responsible for that Y2K failure to the extent of recovering the amount of those damages.
 
-([Pub. L. 106–37, § 12][/us/pl/106/37/s12], July 20, 1999, [113 Stat. 199][/us/stat/113/199].)
+([Pub. L. 106–37][/us/pl/106/37], § 12, July 20, 1999, [113 Stat. 199][/us/stat/113/199].)
 
 ----------
 
@@ -55,7 +55,7 @@
 ----------
 
 [/us/usc/t15/s6603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6603%2Fc
-[/us/pl/106/37/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37%2Fs12
+[/us/pl/106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37
 [/us/stat/113/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F199
 
 

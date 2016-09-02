@@ -45,7 +45,7 @@
 
         (2) the consumer should consult a tax adviser for further information regarding the deductibility of interest and charges.
 
-([Pub. L. 90–321, title I, § 144][/us/pl/90/321/s144], May 29, 1968, [82 Stat. 158][/us/stat/82/158]; [Pub. L. 96–221, title VI, § 619(b)][/us/pl/96/221/s619/b], Mar. 31, 1980, [94 Stat. 183][/us/stat/94/183]; [Pub. L. 109–8, title XIII, § 1302(b)(2)][/us/pl/109/8/s1302/b/2], Apr. 20, 2005, [119 Stat. 209][/us/stat/119/209]; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 144, May 29, 1968, [82 Stat. 158][/us/stat/82/158]; [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 619(b), Mar. 31, 1980, [94 Stat. 183][/us/stat/94/183]; [Pub. L. 109–8, title XIII][/us/pl/109/8/tXIII], § 1302(b)(2), Apr. 20, 2005, [119 Stat. 209][/us/stat/119/209]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 
  __Amendments__ 
 
@@ -74,13 +74,13 @@
 ----------
 ----------
 
-[/us/pl/90/321/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs144
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
 [/us/stat/82/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F158
-[/us/pl/96/221/s619/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs619%2Fb
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F183
-[/us/pl/109/8/s1302/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1302%2Fb%2F2
+[/us/pl/109/8/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXIII
 [/us/stat/119/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F209
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8

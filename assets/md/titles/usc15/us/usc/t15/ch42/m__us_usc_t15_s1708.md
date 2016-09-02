@@ -51,7 +51,7 @@
 
         Nothing in this chapter may be construed to prevent or limit the authority of any State or local government to enact and enforce with regard to the sale of land any law, ordinance, or code not in conflict with this chapter. In administering this chapter, the Director shall cooperate with State authorities charged with the responsibility of regulating the sale or lease of lots which are subject to this chapter.
 
-([Pub. L. 90–448, title XIV, § 1409][/us/pl/90/448/s1409], Aug. 1, 1968, [82 Stat. 594][/us/stat/82/594]; [Pub. L. 96–153, title IV, § 404][/us/pl/96/153/s404], Dec. 21, 1979, [93 Stat. 1129][/us/stat/93/1129]; [Pub. L. 111–203, title X, § 1098A(1)][/us/pl/111/203/s1098A/1], July 21, 2010, [124 Stat. 2105][/us/stat/124/2105].)
+([Pub. L. 90–448, title XIV][/us/pl/90/448/tXIV], § 1409, Aug. 1, 1968, [82 Stat. 594][/us/stat/82/594]; [Pub. L. 96–153, title IV][/us/pl/96/153/tIV], § 404, Dec. 21, 1979, [93 Stat. 1129][/us/stat/93/1129]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1098A(1), July 21, 2010, [124 Stat. 2105][/us/stat/124/2105].)
 
  __Amendments__ 
 
@@ -83,11 +83,11 @@
 [/us/usc/t15/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1702
 [/us/usc/t15/s1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1707
 [/us/usc/t15/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1706
-[/us/pl/90/448/s1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1409
+[/us/pl/90/448/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIV
 [/us/stat/82/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F594
-[/us/pl/96/153/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs404
+[/us/pl/96/153/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtIV
 [/us/stat/93/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1129
-[/us/pl/111/203/s1098A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098A%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2105
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153

@@ -63,7 +63,7 @@
 
         This section shall not apply to first-time violations caused by a Y2K failure occurring after December 31, 2000.
 
-([Pub. L. 106–37, § 18][/us/pl/106/37/s18], July 20, 1999, [113 Stat. 202][/us/stat/113/202].)
+([Pub. L. 106–37][/us/pl/106/37], § 18, July 20, 1999, [113 Stat. 202][/us/stat/113/202].)
 
 ----------
 
@@ -74,7 +74,7 @@
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t15/s6604/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6604%2Fb%2F2%2FB
-[/us/pl/106/37/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37%2Fs18
+[/us/pl/106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37
 [/us/stat/113/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F202
 
 

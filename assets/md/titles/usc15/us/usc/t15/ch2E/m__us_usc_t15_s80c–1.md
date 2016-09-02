@@ -31,7 +31,7 @@
 
         A summary of the proceedings of such forums and any findings or recommendations thereof shall be prepared and transmitted to the participants, appropriate committees of the Congress, and others who may be interested in the subject matter.
 
-([Pub. L. 96–477, title V, § 503][/us/pl/96/477/s503], Oct. 21, 1980, [94 Stat. 2292][/us/stat/94/2292].)
+([Pub. L. 96–477, title V][/us/pl/96/477/tV], § 503, Oct. 21, 1980, [94 Stat. 2292][/us/stat/94/2292].)
 
  __Termination of Reporting Requirements__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t15/s80c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80c
-[/us/pl/96/477/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2Fs503
+[/us/pl/96/477/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2FtV
 [/us/stat/94/2292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2292
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

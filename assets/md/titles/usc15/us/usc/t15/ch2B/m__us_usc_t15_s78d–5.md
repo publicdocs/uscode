@@ -35,7 +35,7 @@
 
             Notwithstanding paragraph (1), if the head of any division or office within the Commission responsible for compliance examinations and inspections or his designee determines that a particular compliance examination or inspection is sufficiently complex such that a determination regarding concluding the examination or inspection, or regarding the staff requests the entity undertake corrective action, cannot be completed within the deadline specified in paragraph (1), the head of any division or office within the Commission responsible for compliance examinations and inspections or his designee may, after providing notice to the Chairman of the Commission, extend such deadline as needed for one additional 180-day period.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 4E, as added [Pub. L. 111–203, title IX, § 929U][/us/pl/111/203/s929U], July 21, 2010, [124 Stat. 1867][/us/stat/124/1867].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 4E, as added [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 929U, July 21, 2010, [124 Stat. 1867][/us/stat/124/1867].)
 
  __Effective Date__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/111/203/s929U]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929U
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1867
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

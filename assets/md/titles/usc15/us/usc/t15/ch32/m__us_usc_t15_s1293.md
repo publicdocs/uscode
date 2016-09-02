@@ -23,7 +23,7 @@
 
     (3) such intercollegiate or interscholastic football contest and such game site were announced through publication in a newspaper of general circulation prior to August 1 of such year as being regularly scheduled for such day and place.
 
-([Pub. L. 87–331, § 3][/us/pl/87/331/s3], Sept. 30, 1961, [75 Stat. 732][/us/stat/75/732]; [Pub. L. 89–800, § 6(b)(3)][/us/pl/89/800/s6/b/3], Nov. 8, 1966, [80 Stat. 1515][/us/stat/80/1515].)
+([Pub. L. 87–331][/us/pl/87/331], § 3, Sept. 30, 1961, [75 Stat. 732][/us/stat/75/732]; [Pub. L. 89–800][/us/pl/89/800], § 6(b)(3), Nov. 8, 1966, [80 Stat. 1515][/us/stat/80/1515].)
 
  __Amendments__ 
 
@@ -37,9 +37,9 @@
 ----------
 
 [/us/usc/t15/s1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1291
-[/us/pl/87/331/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F331%2Fs3
+[/us/pl/87/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F331
 [/us/stat/75/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F732
-[/us/pl/89/800/s6/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F800%2Fs6%2Fb%2F3
+[/us/pl/89/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F800
 [/us/stat/80/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1515
 [/us/pl/89/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F800
 [/us/usc/t15/s1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1291

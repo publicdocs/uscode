@@ -23,7 +23,7 @@
 
     (3) permit the use of such model on the computer system maintained by the Federal Energy Administration by any member of the public upon such reasonable terms and conditions as the Administrator shall, by rule, prescribe. Such rules shall provide that any member of the public who uses such model may be charged a fair and reasonable fee, as determined by the Administrator, for using such model.
 
-([Pub. L. 93–275, § 31][/us/pl/93/275/s31], as added [Pub. L. 94–385, title I, § 113][/us/pl/94/385/s113], Aug. 14, 1976, [90 Stat. 1132][/us/stat/90/1132].)
+([Pub. L. 93–275][/us/pl/93/275], § 31, as added [Pub. L. 94–385, title I][/us/pl/94/385/tI], § 113, Aug. 14, 1976, [90 Stat. 1132][/us/stat/90/1132].)
 
  __Transfer of Functions__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/93/275/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs31
-[/us/pl/94/385/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs113
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
+[/us/pl/94/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtI
 [/us/stat/90/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1132
 
 

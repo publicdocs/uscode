@@ -49,7 +49,7 @@
 
         The requirements of this section shall take effect with respect to any rule the proposal of which occurs after 90 days after October 28, 1992.
 
-([Pub. L. 94–469, title IV, § 411][/us/pl/94/469/s411], as added [Pub. L. 102–550, title X, § 1021(a)][/us/pl/102/550/s1021/a], Oct. 28, 1992, [106 Stat. 3922][/us/stat/106/3922].)
+([Pub. L. 94–469, title IV][/us/pl/94/469/tIV], § 411, as added [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(a), Oct. 28, 1992, [106 Stat. 3922][/us/stat/106/3922].)
 
 ----------
 
@@ -58,8 +58,8 @@
 ----------
 ----------
 
-[/us/pl/94/469/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs411
-[/us/pl/102/550/s1021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1021%2Fa
+[/us/pl/94/469/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtIV
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3922
 
 

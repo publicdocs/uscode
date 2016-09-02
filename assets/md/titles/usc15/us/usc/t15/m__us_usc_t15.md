@@ -15,7 +15,7 @@
 
 # Title 15—COMMERCE AND TRADE
 
-Current through 114-115not95
+Current through 114-115
 
 <table>
 

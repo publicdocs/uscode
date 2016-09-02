@@ -29,7 +29,7 @@
 
         The Commission may establish and implement the plan, but not earlier than 9 months after December 16, 2003.
 
-([Pub. L. 108–187, § 9][/us/pl/108/187/s9], Dec. 16, 2003, [117 Stat. 2716][/us/stat/117/2716].)
+([Pub. L. 108–187][/us/pl/108/187], § 9, Dec. 16, 2003, [117 Stat. 2716][/us/stat/117/2716].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/108/187/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs9
+[/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2716
 
 

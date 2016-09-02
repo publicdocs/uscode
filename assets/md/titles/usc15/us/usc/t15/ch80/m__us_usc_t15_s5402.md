@@ -143,37 +143,37 @@
 
     (17) “through-harden” means heating above the transformation temperature followed by quenching and tempering for the purpose of achieving uniform hardness.
 
-([Pub. L. 101–592, § 3][/us/pl/101/592/s3], Nov. 16, 1990, [104 Stat. 2944][/us/stat/104/2944]; [Pub. L. 104–113, § 11(b)][/us/pl/104/113/s11/b], Mar. 7, 1996, [110 Stat. 780][/us/stat/110/780]; [Pub. L. 106–34, § 3][/us/pl/106/34/s3], June 8, 1999, [113 Stat. 118][/us/stat/113/118].)
+([Pub. L. 101–592][/us/pl/101/592], § 3, Nov. 16, 1990, [104 Stat. 2944][/us/stat/104/2944]; [Pub. L. 104–113][/us/pl/104/113], § 11(b), Mar. 7, 1996, [110 Stat. 780][/us/stat/110/780]; [Pub. L. 106–34][/us/pl/106/34], § 3, June 8, 1999, [113 Stat. 118][/us/stat/113/118].)
 
  __Amendments__ 
 
     1999—[Pub. L. 106–34][/us/pl/106/34] amended section catchline and text generally, restating certain definitions, adding new definitions, and striking out definitions of “alter”, “container”, “institute”, “original equipment manufacturer”, “private label distributor”, and “standards and specifications”.
 
-    1996—Par. (1)(B). [Pub. L. 104–113, § 11(b)(1)][/us/pl/104/113/s11/b/1], struck out “having a minimum tensile strength of 150,000 pounds per square inch” after “fasteners”.
+    1996—Par. (1)(B). [Pub. L. 104–113][/us/pl/104/113], § 11(b)(1), struck out “having a minimum tensile strength of 150,000 pounds per square inch” after “fasteners”.
 
-    Par. (2). [Pub. L. 104–113, § 11(b)(2)][/us/pl/104/113/s11/b/2], inserted “consensus” after “or any other”.
+    Par. (2). [Pub. L. 104–113][/us/pl/104/113], § 11(b)(2), inserted “consensus” after “or any other”.
 
-    Par. (5). [Pub. L. 104–113, § 11(b)(3)][/us/pl/104/113/s11/b/3], inserted “or produced in accordance with ASTM F 432” after “307 Grade A” in closing provisions, inserted “or” at end of subpar. (B), struck out “or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “any item within a category added by the Secretary in accordance with [section 5403(b) of this title][/us/usc/t15/s5403/b],”.
+    Par. (5). [Pub. L. 104–113][/us/pl/104/113], § 11(b)(3), inserted “or produced in accordance with ASTM F 432” after “307 Grade A” in closing provisions, inserted “or” at end of subpar. (B), struck out “or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “any item within a category added by the Secretary in accordance with [section 5403(b) of this title][/us/usc/t15/s5403/b],”.
 
-    Par. (6). [Pub. L. 104–113, § 11(b)(4)][/us/pl/104/113/s11/b/4], substituted “government agency” for “other person”.
+    Par. (6). [Pub. L. 104–113][/us/pl/104/113], § 11(b)(4), substituted “government agency” for “other person”.
 
-    Par. (8). [Pub. L. 104–113, § 11(b)(5)][/us/pl/104/113/s11/b/5], substituted “Standards” for “Standard”.
+    Par. (8). [Pub. L. 104–113][/us/pl/104/113], § 11(b)(5), substituted “Standards” for “Standard”.
 
-    Pars. (11), (12). [Pub. L. 104–113, § 11(b)(6)][/us/pl/104/113/s11/b/6], redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11) which read as follows: “ ‘original equipment manufacturer’ means a person who uses fasteners in the manufacture or assembly of its products and sells fasteners to authorized dealers as replacement or service parts for its products;”.
+    Pars. (11), (12). [Pub. L. 104–113][/us/pl/104/113], § 11(b)(6), redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11) which read as follows: “ ‘original equipment manufacturer’ means a person who uses fasteners in the manufacture or assembly of its products and sells fasteners to authorized dealers as replacement or service parts for its products;”.
 
-    Par. (13). [Pub. L. 104–113, § 11(b)(7)][/us/pl/104/113/s11/b/7], substituted “or a government agency” for “, a government agency, or a major end-user of fasteners which defines or describes dimensional characteristics, limits of size, acceptable materials, processing, functional behavior, plating, baking, inspecting, testing, packaging, and required markings of any fastener”.
+    Par. (13). [Pub. L. 104–113][/us/pl/104/113], § 11(b)(7), substituted “or a government agency” for “, a government agency, or a major end-user of fasteners which defines or describes dimensional characteristics, limits of size, acceptable materials, processing, functional behavior, plating, baking, inspecting, testing, packaging, and required markings of any fastener”.
 
-    [Pub. L. 104–113, § 11(b)(6)][/us/pl/104/113/s11/b/6], redesignated par. (14) as (13). Former par. (13) redesignated (12).
+    [Pub. L. 104–113][/us/pl/104/113], § 11(b)(6), redesignated par. (14) as (13). Former par. (13) redesignated (12).
 
-    Par. (14). [Pub. L. 104–113, § 11(b)(8)][/us/pl/104/113/s11/b/8], inserted “for the purpose of achieving a uniform hardness” after “quenching and tempering”.
+    Par. (14). [Pub. L. 104–113][/us/pl/104/113], § 11(b)(8), inserted “for the purpose of achieving a uniform hardness” after “quenching and tempering”.
 
-    [Pub. L. 104–113, § 11(b)(6)][/us/pl/104/113/s11/b/6], redesignated par. (15) as (14). Former par. (14) redesignated (13).
+    [Pub. L. 104–113][/us/pl/104/113], § 11(b)(6), redesignated par. (15) as (14). Former par. (14) redesignated (13).
 
-    Par. (15). [Pub. L. 104–113, § 11(b)(6)][/us/pl/104/113/s11/b/6], redesignated par. (15) as (14).
+    Par. (15). [Pub. L. 104–113][/us/pl/104/113], § 11(b)(6), redesignated par. (15) as (14).
 
  __Comptroller General Report__ 
 
-[Pub. L. 106–34, § 12][/us/pl/106/34/s12], June 8, 1999, [113 Stat. 125][/us/stat/113/125], provided that: 
+[Pub. L. 106–34][/us/pl/106/34], § 12, June 8, 1999, [113 Stat. 125][/us/stat/113/125], provided that: 
 
 > “Not later than 2 years after the date of the enactment of this Act \[June 8, 1999\], the Comptroller General shall transmit to the Congress a report describing any changes in industry practice resulting from or apparently resulting from the enactment of section 3(6)(B) of the Fastener Quality Act \[15 U.S.C. § 5402(6)(B)\], as added by section 3 of this Act.”
 
@@ -188,26 +188,26 @@
 [/us/usc/t15/s5411a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5411a%2Fd
 [/us/usc/t15/s5411a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5411a%2Fa
 [/us/usc/t15/s5411a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5411a%2Fb
-[/us/pl/101/592/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F592%2Fs3
+[/us/pl/101/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F592
 [/us/stat/104/2944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2944
-[/us/pl/104/113/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs11%2Fb
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 [/us/stat/110/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F780
-[/us/pl/106/34/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34%2Fs3
+[/us/pl/106/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34
 [/us/stat/113/118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F118
 [/us/pl/106/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34
-[/us/pl/104/113/s11/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs11%2Fb%2F1
-[/us/pl/104/113/s11/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs11%2Fb%2F2
-[/us/pl/104/113/s11/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs11%2Fb%2F3
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 [/us/usc/t15/s5403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5403%2Fb
-[/us/pl/104/113/s11/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs11%2Fb%2F4
-[/us/pl/104/113/s11/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs11%2Fb%2F5
-[/us/pl/104/113/s11/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs11%2Fb%2F6
-[/us/pl/104/113/s11/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs11%2Fb%2F7
-[/us/pl/104/113/s11/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs11%2Fb%2F6
-[/us/pl/104/113/s11/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs11%2Fb%2F8
-[/us/pl/104/113/s11/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs11%2Fb%2F6
-[/us/pl/104/113/s11/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs11%2Fb%2F6
-[/us/pl/106/34/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34%2Fs12
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
+[/us/pl/106/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34
 [/us/stat/113/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F125
 
 

@@ -53,7 +53,7 @@
 
         The Secretary shall provide for public participation in the conduct of the study under subsection (a), and the preparation of proposals under subsection (b).
 
-([Pub. L. 95–617, title III, § 306][/us/pl/95/617/s306], Nov. 9, 1978, [92 Stat. 3152][/us/stat/92/3152].)
+([Pub. L. 95–617, title III][/us/pl/95/617/tIII], § 306, Nov. 9, 1978, [92 Stat. 3152][/us/stat/92/3152].)
 
  __References in Text__ 
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/95/617/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs306
+[/us/pl/95/617/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtIII
 [/us/stat/92/3152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3152
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 [/us/stat/92/3117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3117

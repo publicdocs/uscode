@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t15/ch41/schI/ptB/m__us_usc_t15_s1635.md) | [Next](./../../../../../..//us/usc/t15/ch41/schI/ptB/m__us_usc_t15_s1637.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1636)
 
-## § 1636. Repealed. [Pub. L. 96–221, title VI, § 614(e)(1)][/us/pl/96/221/s614/e/1], Mar. 31, 1980, [94 Stat. 180][/us/stat/94/180]
+## § 1636. Repealed. [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 614(e)(1), Mar. 31, 1980, [94 Stat. 180][/us/stat/94/180]
 
-    Section, [Pub. L. 90–321, title I, § 126][/us/pl/90/321/s126], May 29, 1968, [82 Stat. 153][/us/stat/82/153], related to contents of periodic statements.
+    Section, [Pub. L. 90–321, title I][/us/pl/90/321/tI], § 126, May 29, 1968, [82 Stat. 153][/us/stat/82/153], related to contents of periodic statements.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/96/221/s614/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs614%2Fe%2F1
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F180
-[/us/pl/90/321/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs126
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
 [/us/stat/82/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F153
 [/us/pl/96/221/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs625
 [/us/usc/t15/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602

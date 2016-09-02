@@ -35,7 +35,7 @@
 
         No assistance shall be provided under this section in support of any activity which includes the sale or marketing of any craft items other than authentic arts and crafts hand made or hand crafted by American Indian artisans.
 
-([Pub. L. 100–418, title II, § 2307][/us/pl/100/418/s2307], Aug. 23, 1988, [102 Stat. 1345][/us/stat/102/1345].)
+([Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2307, Aug. 23, 1988, [102 Stat. 1345][/us/stat/102/1345].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s2307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2307
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1345
 
 

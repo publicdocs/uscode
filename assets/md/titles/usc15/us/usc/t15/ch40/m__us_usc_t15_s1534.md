@@ -59,29 +59,29 @@
 
         The authority of the Secretary to assess fees under this section shall be in addition to, and shall not be construed to limit, the authority under any other law to assess fees relating to the environmental data activities of the National Oceanic and Atmospheric Administration, including the authority of the Secretary pursuant to [section 1307 of title 44][/us/usc/t44/s1307]. Nothing in this section shall be construed to authorize the Secretary to assess fees for nautical and aeronautical products of the National Oceanic and Atmospheric Administration in addition to those fees authorized under [section 1307 of title 44][/us/usc/t44/s1307].
 
-([Pub. L. 100–685, title IV, § 409][/us/pl/100/685/s409], Nov. 17, 1988, [102 Stat. 4100][/us/stat/102/4100]; [Pub. L. 101–508, title X, § 10201(a)][/us/pl/101/508/s10201/a], Nov. 5, 1990, [104 Stat. 1388–392][/us/stat/104/1388-392].)
+([Pub. L. 100–685, title IV][/us/pl/100/685/tIV], § 409, Nov. 17, 1988, [102 Stat. 4100][/us/stat/102/4100]; [Pub. L. 101–508, title X][/us/pl/101/508/tX], § 10201(a), Nov. 5, 1990, [104 Stat. 1388–392][/us/stat/104/1388-392].)
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–508, § 10201(a)(1)][/us/pl/101/508/s10201/a/1], substituted “and information and products derived therefrom collected and/or archived by the National Oceanic and Atmospheric Administration” for “data archived by the National Environmental Satellite, Data, and Information Service of the National Oceanic and Atmospheric Administration”.
+    1990—Subsec. (a). [Pub. L. 101–508][/us/pl/101/508], § 10201(a)(1), substituted “and information and products derived therefrom collected and/or archived by the National Oceanic and Atmospheric Administration” for “data archived by the National Environmental Satellite, Data, and Information Service of the National Oceanic and Atmospheric Administration”.
 
-    Subsec. (b)(1). [Pub. L. 101–508, § 10201(a)(2)][/us/pl/101/508/s10201/a/2], inserted “, information, and products” after “provide data” and substituted “data, information, and products are” for “data is”.
+    Subsec. (b)(1). [Pub. L. 101–508][/us/pl/101/508], § 10201(a)(2), inserted “, information, and products” after “provide data” and substituted “data, information, and products are” for “data is”.
 
-    Subsec. (b)(2). [Pub. L. 101–508, § 10201(a)(3)][/us/pl/101/508/s10201/a/3], inserted “, information, or products” after “provide data” and substituted “basis of exchanging such data, information, and products” for “data exchange basis”.
+    Subsec. (b)(2). [Pub. L. 101–508][/us/pl/101/508], § 10201(a)(3), inserted “, information, or products” after “provide data” and substituted “basis of exchanging such data, information, and products” for “data exchange basis”.
 
-    Subsec. (b)(3). [Pub. L. 101–508, § 10201(a)(4)][/us/pl/101/508/s10201/a/4], added par. (3).
+    Subsec. (b)(3). [Pub. L. 101–508][/us/pl/101/508], § 10201(a)(4), added par. (3).
 
-    Subsec. (d). [Pub. L. 101–508, § 10201(a)(6)][/us/pl/101/508/s10201/a/6], inserted “by the National Environmental Satellite, Data, and Information Service for archived data” after “under this section” in introductory provisions.
+    Subsec. (d). [Pub. L. 101–508][/us/pl/101/508], § 10201(a)(6), inserted “by the National Environmental Satellite, Data, and Information Service for archived data” after “under this section” in introductory provisions.
 
-    Subsec. (d)(1). [Pub. L. 101–508, § 10201(a)(5)][/us/pl/101/508/s10201/a/5], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “No fees shall be assessed under this section until after September 30, 1989.”
+    Subsec. (d)(1). [Pub. L. 101–508][/us/pl/101/508], § 10201(a)(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “No fees shall be assessed under this section until after September 30, 1989.”
 
-    Subsecs. (e), (f)(1). [Pub. L. 101–508, § 10201(a)(6)][/us/pl/101/508/s10201/a/6], inserted “by the National Environmental Satellite, Data, and Information Service for archived data” after “under this section”.
+    Subsecs. (e), (f)(1). [Pub. L. 101–508][/us/pl/101/508], § 10201(a)(6), inserted “by the National Environmental Satellite, Data, and Information Service for archived data” after “under this section”.
 
-    Subsec. (g). [Pub. L. 101–508, § 10201(a)(7)][/us/pl/101/508/s10201/a/7], inserted before period at end “, including the authority of the Secretary pursuant to [section 1307 of title 44][/us/usc/t44/s1307]. Nothing in this section shall be construed to authorize the Secretary to assess fees for nautical and aeronautical products of the National Oceanic and Atmospheric Administration in addition to those fees authorized under [section 1307 of title 44][/us/usc/t44/s1307]”.
+    Subsec. (g). [Pub. L. 101–508][/us/pl/101/508], § 10201(a)(7), inserted before period at end “, including the authority of the Secretary pursuant to [section 1307 of title 44][/us/usc/t44/s1307]. Nothing in this section shall be construed to authorize the Secretary to assess fees for nautical and aeronautical products of the National Oceanic and Atmospheric Administration in addition to those fees authorized under [section 1307 of title 44][/us/usc/t44/s1307]”.
 
  __Effect of Amendments__ 
 
-[Pub. L. 101–508, title X, § 10201(b)][/us/pl/101/508/s10201/b], Nov. 5, 1990, [104 Stat. 1388–393][/us/stat/104/1388-393], provided that:
+[Pub. L. 101–508, title X][/us/pl/101/508/tX], § 10201(b), Nov. 5, 1990, [104 Stat. 1388–393][/us/stat/104/1388-393], provided that:
 
 >     “(1)
 
@@ -104,21 +104,21 @@
 
 [/us/usc/t44/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1307
 [/us/usc/t44/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1307
-[/us/pl/100/685/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F685%2Fs409
+[/us/pl/100/685/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F685%2FtIV
 [/us/stat/102/4100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4100
-[/us/pl/101/508/s10201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs10201%2Fa
+[/us/pl/101/508/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtX
 [/us/stat/104/1388-392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-392
-[/us/pl/101/508/s10201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs10201%2Fa%2F1
-[/us/pl/101/508/s10201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs10201%2Fa%2F2
-[/us/pl/101/508/s10201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs10201%2Fa%2F3
-[/us/pl/101/508/s10201/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs10201%2Fa%2F4
-[/us/pl/101/508/s10201/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs10201%2Fa%2F6
-[/us/pl/101/508/s10201/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs10201%2Fa%2F5
-[/us/pl/101/508/s10201/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs10201%2Fa%2F6
-[/us/pl/101/508/s10201/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs10201%2Fa%2F7
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/usc/t44/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1307
 [/us/usc/t44/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs1307
-[/us/pl/101/508/s10201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs10201%2Fb
+[/us/pl/101/508/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtX
 [/us/stat/104/1388-393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-393
 [/us/act/1988-11-17/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1988-11-17%2Fs409
 [/us/usc/t15/s1534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1534

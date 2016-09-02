@@ -17,7 +17,7 @@
 
     No stockholder, director, officer, employee, or agent of a China Trade Act corporation shall make, issue, or publish any statement, written or oral, or advertisement in any form, as to the value or as to the facts affecting the value of stocks, bonds, or other evidences of debt, or as to the financial condition or transactions, or facts affecting such condition or transactions, of such corporation if it has issued or is to issue stocks, bonds, or other evidences of debt, whenever he knows or has reason to believe that any material representation in such statement or advertisement is false. No stockholder, director, officer, employee, or agent of a China Trade Act corporation shall, if all the authorized capital stock thereof has not been paid in, make, issue, or publish any written statement or advertisement, in any form, stating the amount of the authorized capital stock without also stating as the amount actually paid in, a sum not greater than the amount paid in. Any person violating any provisions of this section shall, upon conviction thereof, be fined not more than $5,000 or imprisoned not more than ten years, or both.
 
-([Sept. 19, 1922, ch. 346, § 18][/us/act/1922-09-19/ch346/s18], [42 Stat. 855][/us/stat/42/855].)
+([Sept. 19, 1922, ch. 346][/us/act/1922-09-19/ch346], § 18, [42 Stat. 855][/us/stat/42/855].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1922-09-19/ch346/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346%2Fs18
+[/us/act/1922-09-19/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346
 [/us/stat/42/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F855
 
 

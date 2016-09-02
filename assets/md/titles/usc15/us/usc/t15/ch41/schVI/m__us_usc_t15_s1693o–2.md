@@ -313,7 +313,7 @@
 
             Sections 1693m and 1693n of this title shall not apply with respect to this section or the requirements imposed pursuant to this section.
 
-([Pub. L. 90–321, title IX, § 920][/us/pl/90/321/s920], as added [Pub. L. 111–203, title X, § 1075(a)(2)][/us/pl/111/203/s1075/a/2], July 21, 2010, [124 Stat. 2068][/us/stat/124/2068].)
+([Pub. L. 90–321, title IX][/us/pl/90/321/tIX], § 920, as added [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1075(a)(2), July 21, 2010, [124 Stat. 2068][/us/stat/124/2068].)
 
  __Prior Provisions__ 
 
@@ -338,8 +338,8 @@
 [/us/usc/t15/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602
 [/us/usc/t31/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs101
 [/us/usc/t5/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs103
-[/us/pl/90/321/s920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs920
-[/us/pl/111/203/s1075/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1075%2Fa%2F2
+[/us/pl/90/321/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIX
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2068
 [/us/pl/90/321/s920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs920
 [/us/usc/t15/s1693p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693p

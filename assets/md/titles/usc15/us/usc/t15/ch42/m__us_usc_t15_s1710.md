@@ -23,7 +23,7 @@
 
         The commencement of proceedings under subsection (a) shall not, unless specifically ordered by the court, operate as a stay of the Secretary’s  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Director’s”. </sup></sup>  order.
 
-([Pub. L. 90–448, title XIV, § 1411][/us/pl/90/448/s1411], Aug. 1, 1968, [82 Stat. 595][/us/stat/82/595]; [Pub. L. 111–203, title X, § 1098A(1)][/us/pl/111/203/s1098A/1], July 21, 2010, [124 Stat. 2105][/us/stat/124/2105].)
+([Pub. L. 90–448, title XIV][/us/pl/90/448/tXIV], § 1411, Aug. 1, 1968, [82 Stat. 595][/us/stat/82/595]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1098A(1), July 21, 2010, [124 Stat. 2105][/us/stat/124/2105].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/90/448/s1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1411
+[/us/pl/90/448/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIV
 [/us/stat/82/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F595
-[/us/pl/111/203/s1098A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098A%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2105
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

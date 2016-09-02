@@ -161,7 +161,7 @@
 
         An insured depository institution shall comply with the prohibition on proprietary trading in derivatives as required by section 619 of the Dodd-Frank Wall Street Reform and Consumer Protection Act \[[12 U.S.C. 1851][/us/usc/t12/s1851]\].
 
-([Pub. L. 111–203, title VII, § 716][/us/pl/111/203/s716], July 21, 2010, [124 Stat. 1648][/us/stat/124/1648]; [Pub. L. 113–235, div. E, title VI, § 630][/us/pl/113/235/s630], Dec. 16, 2014, [128 Stat. 2378][/us/stat/128/2378].)
+([Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 716, July 21, 2010, [124 Stat. 1648][/us/stat/124/1648]; [Pub. L. 113–235, div. E, title VI][/us/pl/113/235/dE/tVI], § 630, Dec. 16, 2014, [128 Stat. 2378][/us/stat/128/2378].)
 
  __References in Text__ 
 
@@ -169,7 +169,7 @@
 
     The Securities Exchange Act of 1934, referred to in subsec. (b)(2)(A)(ii), is [act June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], [48 Stat. 881][/us/stat/48/881], which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title][/us/usc/t15/s78a] and Tables.
 
-    The Federal Deposit Insurance Act, referred to in subsec. (g), is [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2], [64 Stat. 873][/us/stat/64/873], which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of Title 12][/us/usc/t12/s1811] and Tables.
+    The Federal Deposit Insurance Act, referred to in subsec. (g), is [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2, [64 Stat. 873][/us/stat/64/873], which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of Title 12][/us/usc/t12/s1811] and Tables.
 
     Title II, referred to in subsec. (g), is title II of [Pub. L. 111–203][/us/pl/111/203], July 21, 2010, [124 Stat. 1442][/us/stat/124/1442], which is classified principally to subchapter II (§ 5381 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of title II to the Code, see Tables.
 
@@ -185,13 +185,13 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(2)(B). [Pub. L. 113–235, § 630(1)(A)][/us/pl/113/235/s630/1/A], substituted “covered depository institution” for “insured depository institution”.
+    2014—Subsec. (b)(2)(B). [Pub. L. 113–235][/us/pl/113/235], § 630(1)(A), substituted “covered depository institution” for “insured depository institution”.
 
-    Subsec. (b)(3). [Pub. L. 113–235, § 630(1)(B)][/us/pl/113/235/s630/1/B], added par. (3).
+    Subsec. (b)(3). [Pub. L. 113–235][/us/pl/113/235], § 630(1)(B), added par. (3).
 
-    Subsec. (c). [Pub. L. 113–235, § 630(2)][/us/pl/113/235/s630/2], in heading, substituted “covered” for “insured” and, in text, substituted “a covered” for “an insured”, “such covered” for “such insured”, and “savings and loan holding company, or foreign banking organization (as such term is defined under Regulation K of the Board of Governors of the Federal Reserve System (12 CFR 211.21(o)))” for “or savings and loan holding company”.
+    Subsec. (c). [Pub. L. 113–235][/us/pl/113/235], § 630(2), in heading, substituted “covered” for “insured” and, in text, substituted “a covered” for “an insured”, “such covered” for “such insured”, and “savings and loan holding company, or foreign banking organization (as such term is defined under Regulation K of the Board of Governors of the Federal Reserve System (12 CFR 211.21(o)))” for “or savings and loan holding company”.
 
-    Subsec. (d). [Pub. L. 113–235, § 630(3)][/us/pl/113/235/s630/3], amended subsec. (d) generally. Prior to amendment, text read as follows: “The prohibition in subsection (a) shall apply to any insured depository institution unless the insured depository institution limits its swap or security-based swap activities to:
+    Subsec. (d). [Pub. L. 113–235][/us/pl/113/235], § 630(3), amended subsec. (d) generally. Prior to amendment, text read as follows: “The prohibition in subsection (a) shall apply to any insured depository institution unless the insured depository institution limits its swap or security-based swap activities to:
 
     “(1) Hedging and other similar risk mitigating activities directly related to the insured depository institution’s activities.
 
@@ -199,9 +199,9 @@
 
     “(3) Limitation on credit default swaps.—Acting as a swaps entity for credit default swaps, including swaps or security-based swaps referencing the credit risk of asset-backed securities as defined in section 3(a)(77) of the Securities Exchange Act of 1934 ([15 U.S.C. 78c(a)(77)][/us/usc/t15/s78c/a/77]) (as amended by this Act) shall not be considered a bank permissible activity for purposes of subsection (d)(2) unless such swaps or security-based swaps are cleared by a derivatives clearing organization (as such term is defined in section la of the Commodity Exchange Act (7 U.S.C. la)) or a clearing agency (as such term is defined in section 3 of the Securities Exchange Act ([15 U.S.C. 78c][/us/usc/t15/s78c])) that is registered, or exempt from registration, as a derivatives clearing organization under the Commodity Exchange Act or as a clearing agency under the Securities Exchange Act, respectively.”
 
-    Subsec. (e). [Pub. L. 113–235, § 630(4)][/us/pl/113/235/s630/4], substituted “a covered” for “an insured”.
+    Subsec. (e). [Pub. L. 113–235][/us/pl/113/235], § 630(4), substituted “a covered” for “an insured”.
 
-    Subsec. (f). [Pub. L. 113–235, § 630(5)][/us/pl/113/235/s630/5], substituted “a covered depository” for “an insured depository” and substituted “the covered depository” for “the insured depository” wherever appearing.
+    Subsec. (f). [Pub. L. 113–235][/us/pl/113/235], § 630(5), substituted “a covered depository” for “an insured depository” and substituted “the covered depository” for “the insured depository” wherever appearing.
 
  __Definitions__ 
 
@@ -225,9 +225,9 @@
 [/us/usc/t12/s5323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5323
 [/us/usc/t12/s5323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5323
 [/us/usc/t12/s1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1851
-[/us/pl/111/203/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs716
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1648
-[/us/pl/113/235/s630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs630
+[/us/pl/113/235/dE/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdE%2FtVI
 [/us/stat/128/2378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2378
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998
@@ -235,7 +235,7 @@
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F873
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
@@ -255,15 +255,15 @@
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
 [/us/pl/111/203/s619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs619
 [/us/usc/t12/s1851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1851
-[/us/pl/113/235/s630/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs630%2F1%2FA
-[/us/pl/113/235/s630/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs630%2F1%2FB
-[/us/pl/113/235/s630/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs630%2F2
-[/us/pl/113/235/s630/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs630%2F3
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/usc/t12/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24
 [/us/usc/t15/s78c/a/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F77
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
-[/us/pl/113/235/s630/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs630%2F4
-[/us/pl/113/235/s630/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs630%2F5
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
 
 

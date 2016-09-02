@@ -49,7 +49,7 @@
 
         The Council shall consult with each committee to which a report is submitted under this section and after such consultation, each such committee shall submit to its respective House a report setting forth the views and recommendations of such committee with respect to the report of the Council.
 
-([Pub. L. 100–418, title V, § 5208][/us/pl/100/418/s5208], Aug. 23, 1988, [102 Stat. 1461][/us/stat/102/1461]; [Pub. L. 101–382, title I, § 133(d)][/us/pl/101/382/s133/d], Aug. 20, 1990, [104 Stat. 649][/us/stat/104/649].)
+([Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5208, Aug. 23, 1988, [102 Stat. 1461][/us/stat/102/1461]; [Pub. L. 101–382, title I][/us/pl/101/382/tI], § 133(d), Aug. 20, 1990, [104 Stat. 649][/us/stat/104/649].)
 
  __Amendments__ 
 
@@ -66,9 +66,9 @@
 ----------
 ----------
 
-[/us/pl/100/418/s5208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5208
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1461
-[/us/pl/101/382/s133/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs133%2Fd
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F649
 [/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 

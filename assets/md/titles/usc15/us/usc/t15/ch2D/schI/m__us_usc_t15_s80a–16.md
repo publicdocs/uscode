@@ -41,7 +41,7 @@
 
         After opportunity for hearing upon the objections specified in the written statement so filed, the Commission may, and if demanded by the trustees or by such applicants shall, enter an order either sustaining one or more of such objections or refusing to sustain any of them. If the Commission shall enter an order refusing to sustain any of such objections, or if, after the entry of an order sustaining one or more of such objections, the Commission shall find, after notice and opportunity for hearing, that all objections so sustained have been met, and shall enter an order so declaring, the trustees shall mail copies of such material to all shareholders with reasonable promptness after the entry of such order and the renewal of such tender.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 16, [54 Stat. 813][/us/stat/54/813]; [Pub. L. 94–29, § 28(3)][/us/pl/94/29/s28/3], June 4, 1975, [89 Stat. 165][/us/stat/89/165].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 16, [54 Stat. 813][/us/stat/54/813]; [Pub. L. 94–29][/us/pl/94/29], § 28(3), June 4, 1975, [89 Stat. 165][/us/stat/89/165].)
 
  __Amendments__ 
 
@@ -67,7 +67,7 @@
 [/us/usc/t15/s80a–20/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9320%2Fa
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F813
-[/us/pl/94/29/s28/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs28%2F3
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F165
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29

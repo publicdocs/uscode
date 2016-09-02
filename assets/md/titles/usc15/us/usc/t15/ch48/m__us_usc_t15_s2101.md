@@ -35,7 +35,7 @@
 
         Subsections (a)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  (b), and (d), and regulations under subsection (c), shall not apply to any common carrier or contract carrier or freight forwarder with respect to an imitation political item or imitation numismatic item received, shipped, delivered, or handled by it for shipment in the ordinary course of its business.
 
-([Pub. L. 93–167, § 2][/us/pl/93/167/s2], Nov. 29, 1973, [87 Stat. 686][/us/stat/87/686]; [Pub. L. 113–288, § 2(1)][/us/pl/113/288/s2/1], Dec. 19, 2014, [128 Stat. 3281][/us/stat/128/3281].)
+([Pub. L. 93–167][/us/pl/93/167], § 2, Nov. 29, 1973, [87 Stat. 686][/us/stat/87/686]; [Pub. L. 113–288][/us/pl/113/288], § 2(1), Dec. 19, 2014, [128 Stat. 3281][/us/stat/128/3281].)
 
  __References in Text__ 
 
@@ -43,27 +43,27 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–288, § 2(1)(A)][/us/pl/113/288/s2/1/A], inserted “, or the sale in commerce” after “distribution in commerce”.
+    2014—Subsec. (b). [Pub. L. 113–288][/us/pl/113/288], § 2(1)(A), inserted “, or the sale in commerce” after “distribution in commerce”.
 
-    Subsec. (d). [Pub. L. 113–288, § 2(1)(B)][/us/pl/113/288/s2/1/B], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 113–288][/us/pl/113/288], § 2(1)(B), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 113–288, § 2(1)(B)][/us/pl/113/288/s2/1/B], (C), redesignated subsec. (d) as (e) and substituted “(b), and (d)” for “and (b)”.
+    Subsec. (e). [Pub. L. 113–288][/us/pl/113/288], § 2(1)(B), (C), redesignated subsec. (d) as (e) and substituted “(b), and (d)” for “and (b)”.
 
  __Effective Date__ 
 
-[Pub. L. 93–167, § 8][/us/pl/93/167/s8], Nov. 29, 1973, [87 Stat. 687][/us/stat/87/687], provided that: 
+[Pub. L. 93–167][/us/pl/93/167], § 8, Nov. 29, 1973, [87 Stat. 687][/us/stat/87/687], provided that: 
 
 > “This Act \[enacting this chapter\] shall apply only to imitation political items and imitation numismatic items manufactured after the date of enactment of this Act \[Nov. 29, 1973\].”
 
  __Short Title of 2014 Amendment__ 
 
-[Pub. L. 113–288, § 1][/us/pl/113/288/s1], Dec. 19, 2014, [128 Stat. 3281][/us/stat/128/3281], provided that: 
+[Pub. L. 113–288][/us/pl/113/288], § 1, Dec. 19, 2014, [128 Stat. 3281][/us/stat/128/3281], provided that: 
 
 > “This Act \[amending this section and sections 2102 and 2106 of this title\] may be cited as the ‘Collectible Coin Protection Act’.”
 
  __Short Title__ 
 
-[Pub. L. 93–167, § 1][/us/pl/93/167/s1], Nov. 29, 1973, [87 Stat. 686][/us/stat/87/686], provided: 
+[Pub. L. 93–167][/us/pl/93/167], § 1, Nov. 29, 1973, [87 Stat. 686][/us/stat/87/686], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Hobby Protection Act’.”
 
@@ -76,21 +76,21 @@
 
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/pl/93/167/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F167%2Fs2
+[/us/pl/93/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F167
 [/us/stat/87/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F686
-[/us/pl/113/288/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F288%2Fs2%2F1
+[/us/pl/113/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F288
 [/us/stat/128/3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3281
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
-[/us/pl/113/288/s2/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F288%2Fs2%2F1%2FA
-[/us/pl/113/288/s2/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F288%2Fs2%2F1%2FB
-[/us/pl/113/288/s2/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F288%2Fs2%2F1%2FB
-[/us/pl/93/167/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F167%2Fs8
+[/us/pl/113/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F288
+[/us/pl/113/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F288
+[/us/pl/113/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F288
+[/us/pl/93/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F167
 [/us/stat/87/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F687
-[/us/pl/113/288/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F288%2Fs1
+[/us/pl/113/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F288
 [/us/stat/128/3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3281
-[/us/pl/93/167/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F167%2Fs1
+[/us/pl/93/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F167
 [/us/stat/87/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F686
 
 

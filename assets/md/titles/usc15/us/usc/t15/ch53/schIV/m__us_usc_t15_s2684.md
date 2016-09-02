@@ -53,7 +53,7 @@
 
         If a State does not have a State program authorized under this section and in effect by the date which is 2 years after promulgation of the regulations under section 2682 or 2686 of this title, the Administrator shall, by such date, establish a Federal program for section 2682 or 2686 of this title (as the case may be) for such State and administer and enforce such program in such State.
 
-([Pub. L. 94–469, title IV, § 404][/us/pl/94/469/s404], as added [Pub. L. 102–550, title X, § 1021(a)][/us/pl/102/550/s1021/a], Oct. 28, 1992, [106 Stat. 3916][/us/stat/106/3916].)
+([Pub. L. 94–469, title IV][/us/pl/94/469/tIV], § 404, as added [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(a), Oct. 28, 1992, [106 Stat. 3916][/us/stat/106/3916].)
 
 ----------
 
@@ -63,8 +63,8 @@
 ----------
 
 [/us/usc/t15/s2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2682
-[/us/pl/94/469/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs404
-[/us/pl/102/550/s1021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1021%2Fa
+[/us/pl/94/469/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtIV
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3916
 
 

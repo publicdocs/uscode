@@ -173,7 +173,7 @@
 
         In any Y2K action in which the underlying claim arises under the securities laws (as defined in [section 78c(a) of this title][/us/usc/t15/s78c/a]), the provisions of this chapter, other than [section 6612(b) of this title][/us/usc/t15/s6612/b], shall not apply.
 
-([Pub. L. 106–37, § 4][/us/pl/106/37/s4], July 20, 1999, [113 Stat. 188][/us/stat/113/188].)
+([Pub. L. 106–37][/us/pl/106/37], § 4, July 20, 1999, [113 Stat. 188][/us/stat/113/188].)
 
  __References in Text__ 
 
@@ -191,7 +191,7 @@
 [/us/usc/t12/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2602
 [/us/usc/t15/s78c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa
 [/us/usc/t15/s6612/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6612%2Fb
-[/us/pl/106/37/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37%2Fs4
+[/us/pl/106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37
 [/us/stat/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F188
 [/us/pl/105/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F271
 [/us/stat/112/2386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2386

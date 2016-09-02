@@ -415,7 +415,7 @@
 
             (D) the term “outside director” shall have the meaning given such term by rule or regulation of the Commission.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 21D, as added and amended [Pub. L. 104–67, title I, § 101(b)][/us/pl/104/67/s101/b], title II, § 201(a), Dec. 22, 1995, [109 Stat. 743][/us/stat/109/743], 758; [Pub. L. 105–353, title I, § 101(b)(2)][/us/pl/105/353/s101/b/2], title III, § 301(b)(13), Nov. 3, 1998, [112 Stat. 3233][/us/stat/112/3233], 3236; [Pub. L. 111–203, title IX, § 933(b)][/us/pl/111/203/s933/b], July 21, 2010, [124 Stat. 1883][/us/stat/124/1883].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 21D, as added and amended [Pub. L. 104–67, title I][/us/pl/104/67/tI], § 101(b), title II, § 201(a), Dec. 22, 1995, [109 Stat. 743][/us/stat/109/743], 758; [Pub. L. 105–353, title I][/us/pl/105/353/tI], § 101(b)(2), title III, § 301(b)(13), Nov. 3, 1998, [112 Stat. 3233][/us/stat/112/3233], 3236; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 933(b), July 21, 2010, [124 Stat. 1883][/us/stat/124/1883].)
 
  __References in Text__ 
 
@@ -427,13 +427,13 @@
 
     2010—Subsec. (b)(2). [Pub. L. 111–203][/us/pl/111/203] designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), in any” for “In any”, and added subpar. (B).
 
-    1998—Subsec. (b)(3)(D). [Pub. L. 105–353, § 101(b)(2)][/us/pl/105/353/s101/b/2], added subpar. (D).
+    1998—Subsec. (b)(3)(D). [Pub. L. 105–353][/us/pl/105/353], § 101(b)(2), added subpar. (D).
 
-    Subsecs. (f), (g). [Pub. L. 105–353, § 301(b)(13)(B)][/us/pl/105/353/s301/b/13/B], redesignated subsec. (g) as (f).
+    Subsecs. (f), (g). [Pub. L. 105–353][/us/pl/105/353], § 301(b)(13)(B), redesignated subsec. (g) as (f).
 
-    Subsec. (g)(2)(B)(i). [Pub. L. 105–353, § 301(b)(13)(A)][/us/pl/105/353/s301/b/13/A], substituted “subparagraph (A)” for “paragraph (1)”.
+    Subsec. (g)(2)(B)(i). [Pub. L. 105–353][/us/pl/105/353], § 301(b)(13)(A), substituted “subparagraph (A)” for “paragraph (1)”.
 
-    1995—Subsec. (g). [Pub. L. 104–67, § 201(a)][/us/pl/104/67/s201/a], added subsec. (g).
+    1995—Subsec. (g). [Pub. L. 104–67][/us/pl/104/67], § 201(a), added subsec. (g).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -464,18 +464,18 @@
 
 [/us/usc/t15/s77k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77k
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/104/67/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2Fs101%2Fb
+[/us/pl/104/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2FtI
 [/us/stat/109/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F743
-[/us/pl/105/353/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs101%2Fb%2F2
+[/us/pl/105/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtI
 [/us/stat/112/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3233
-[/us/pl/111/203/s933/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs933%2Fb
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1883
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/105/353/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs101%2Fb%2F2
-[/us/pl/105/353/s301/b/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fb%2F13%2FB
-[/us/pl/105/353/s301/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fb%2F13%2FA
-[/us/pl/104/67/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2Fs201%2Fa
+[/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
+[/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
+[/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
+[/us/pl/104/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

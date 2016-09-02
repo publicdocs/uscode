@@ -45,7 +45,7 @@
 
             The enactment of a joint resolution under [section 719f of this title][/us/usc/t15/s719f] approving the decision of the President shall be conclusive as to the legal and factual sufficiency of the environmental impact statements submitted by the President relative to the approved transportation system and no court shall have jurisdiction to consider questions respecting the sufficiency of such statements under the National Environmental Policy Act of 1969 \[[42 U.S.C. 4321][/us/usc/t42/s4321] et seq.\].
 
-([Pub. L. 94–586, § 10][/us/pl/94/586/s10], Oct. 22, 1976, [90 Stat. 2913][/us/stat/90/2913]; [Pub. L. 98–620, title IV, § 402(16)][/us/pl/98/620/s402/16], Nov. 8, 1984, [98 Stat. 3358][/us/stat/98/3358]; [Pub. L. 108–324, div. C, § 107(d)][/us/pl/108/324/s107/d], Oct. 13, 2004, [118 Stat. 1261][/us/stat/118/1261].)
+([Pub. L. 94–586][/us/pl/94/586], § 10, Oct. 22, 1976, [90 Stat. 2913][/us/stat/90/2913]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(16), Nov. 8, 1984, [98 Stat. 3358][/us/stat/98/3358]; [Pub. L. 108–324, div. C][/us/pl/108/324/dC], § 107(d), Oct. 13, 2004, [118 Stat. 1261][/us/stat/118/1261].)
 
  __References in Text__ 
 
@@ -53,13 +53,13 @@
 
  __Amendments__ 
 
-    2004—Subsec. (c). [Pub. L. 108–324, § 107(d)(1)][/us/pl/108/324/s107/d/1], inserted heading.
+    2004—Subsec. (c). [Pub. L. 108–324][/us/pl/108/324], § 107(d)(1), inserted heading.
 
-    Subsec. (c)(1). [Pub. L. 108–324, § 107(d)(1)][/us/pl/108/324/s107/d/1], (2), designated first sentence as subpar. (A) and inserted par. and subpar. headings and designated last sentence as subpar. (B), inserted subpar. heading, and substituted “The Special Court shall have” for “Such court shall have”.
+    Subsec. (c)(1). [Pub. L. 108–324][/us/pl/108/324], § 107(d)(1), (2), designated first sentence as subpar. (A) and inserted par. and subpar. headings and designated last sentence as subpar. (B), inserted subpar. heading, and substituted “The Special Court shall have” for “Such court shall have”.
 
-    Subsec. (c)(2). [Pub. L. 108–324, § 107(d)(3)][/us/pl/108/324/s107/d/3], added par. (2).
+    Subsec. (c)(2). [Pub. L. 108–324][/us/pl/108/324], § 107(d)(3), added par. (2).
 
-    Subsec. (c)(3). [Pub. L. 108–324, § 107(d)(4)][/us/pl/108/324/s107/d/4], inserted heading.
+    Subsec. (c)(3). [Pub. L. 108–324][/us/pl/108/324], § 107(d)(4), inserted heading.
 
     1984—Subsec. (c)(2). [Pub. L. 98–620][/us/pl/98/620] struck out par. (2) which required that any such proceeding had to be assigned for hearing and completed at the earliest possible date, would, to the greatest extent practicable, take precedence over all other matters pending on the docket of the court at that time, and had to be expedited in every way by such court and such court had to render its decision relative to any claim within 90 days from the date such claim was brought unless such court determined that a longer period of time was required to satisfy requirements of the United States Constitution.
 
@@ -83,19 +83,19 @@
 [/us/usc/t15/s719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719
 [/us/usc/t15/s719f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719f
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/94/586/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586%2Fs10
+[/us/pl/94/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586
 [/us/stat/90/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2913
-[/us/pl/98/620/s402/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F16
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3358
-[/us/pl/108/324/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs107%2Fd
+[/us/pl/108/324/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2FdC
 [/us/stat/118/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1261
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
-[/us/pl/108/324/s107/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs107%2Fd%2F1
-[/us/pl/108/324/s107/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs107%2Fd%2F1
-[/us/pl/108/324/s107/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs107%2Fd%2F3
-[/us/pl/108/324/s107/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs107%2Fd%2F4
+[/us/pl/108/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324
+[/us/pl/108/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324
+[/us/pl/108/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324
+[/us/pl/108/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs403

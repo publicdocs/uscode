@@ -17,7 +17,7 @@
 
     Not later than one year after October 27, 1978, the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives each shall conduct a study and submit a report, including findings and recommendations, to the Committee on Rules and Administration of the Senate and the Committee on Rules of the House, respectively, on the subject of establishing a full employment goal in connection with the provisions of this chapter.
 
-([Pub. L. 95–523, § 3][/us/pl/95/523/s3], Oct. 27, 1978, [92 Stat. 1889][/us/stat/92/1889]; S. Res. 30, Mar. 7, 1979.)
+([Pub. L. 95–523][/us/pl/95/523], § 3, Oct. 27, 1978, [92 Stat. 1889][/us/stat/92/1889]; S. Res. 30, Mar. 7, 1979.)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/95/523/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs3
+[/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
 [/us/stat/92/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1889
 [/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
 [/us/stat/92/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1887

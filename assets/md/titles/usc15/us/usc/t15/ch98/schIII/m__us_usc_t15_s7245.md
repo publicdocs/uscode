@@ -21,7 +21,7 @@
 
     (2) if the counsel or officer does not appropriately respond to the evidence (adopting, as necessary, appropriate remedial measures or sanctions with respect to the violation), requiring the attorney to report the evidence to the audit committee of the board of directors of the issuer or to another committee of the board of directors comprised solely of directors not employed directly or indirectly by the issuer, or to the board of directors.
 
-([Pub. L. 107–204, title III, § 307][/us/pl/107/204/s307], July 30, 2002, [116 Stat. 784][/us/stat/116/784].)
+([Pub. L. 107–204, title III][/us/pl/107/204/tIII], § 307, July 30, 2002, [116 Stat. 784][/us/stat/116/784].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/204/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs307
+[/us/pl/107/204/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtIII
 [/us/stat/116/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F784
 
 

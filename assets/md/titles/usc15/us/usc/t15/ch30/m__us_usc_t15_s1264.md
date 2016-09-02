@@ -77,27 +77,27 @@
 
         In the case of an attorney general of a State alleging a violation that affects or may affect such State or its residents, such attorney general may bring a civil action for an injunction to enforce any requirement of this chapter relating to misbranded or banned hazardous substances. The procedural requirements of [section 2073 of this title][/us/usc/t15/s2073] shall apply to any such action.
 
-([Pub. L. 86–613, § 5][/us/pl/86/613/s5], July 12, 1960, [74 Stat. 376][/us/stat/74/376]; [Pub. L. 89–756][/us/pl/89/756], §§ 2(g), 3(c), Nov. 3, 1966, [80 Stat. 1304][/us/stat/80/1304], 1305; [Pub. L. 95–631, § 7(b)][/us/pl/95/631/s7/b], Nov. 10, 1978, [92 Stat. 3745][/us/stat/92/3745]; [Pub. L. 101–608, title I][/us/pl/101/608], §§ 115(b), 118(a), Nov. 16, 1990, [104 Stat. 3119][/us/stat/104/3119], 3121; [Pub. L. 110–314, title II][/us/pl/110/314], §§ 204(b)(4)(B), (H), 217(a)(2), (b)(1)(B), (c)(3), Aug. 14, 2008, [122 Stat. 3041][/us/stat/122/3041], 3042, 3058, 3059, 3060.)
+([Pub. L. 86–613][/us/pl/86/613], § 5, July 12, 1960, [74 Stat. 376][/us/stat/74/376]; [Pub. L. 89–756][/us/pl/89/756], §§ 2(g), 3(c), Nov. 3, 1966, [80 Stat. 1304][/us/stat/80/1304], 1305; [Pub. L. 95–631][/us/pl/95/631], § 7(b), Nov. 10, 1978, [92 Stat. 3745][/us/stat/92/3745]; [Pub. L. 101–608, title I][/us/pl/101/608/tI], §§ 115(b), 118(a), Nov. 16, 1990, [104 Stat. 3119][/us/stat/104/3119], 3121; [Pub. L. 110–314, title II][/us/pl/110/314/tII], §§ 204(b)(4)(B), (H), 217(a)(2), (b)(1)(B), (c)(3), Aug. 14, 2008, [122 Stat. 3041][/us/stat/122/3041], 3042, 3058, 3059, 3060.)
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–314, § 217(c)(3)][/us/pl/110/314/s217/c/3], substituted “5 years, a fine determined under [section 3571 of title 18][/us/usc/t18/s3571], or both.” for “one year, or a fine of not more than $3,000, or both such imprisonment and fine.”
+    2008—Subsec. (a). [Pub. L. 110–314][/us/pl/110/314], § 217(c)(3), substituted “5 years, a fine determined under [section 3571 of title 18][/us/usc/t18/s3571], or both.” for “one year, or a fine of not more than $3,000, or both such imprisonment and fine.”
 
-    Subsec. (b). [Pub. L. 110–314, § 204(b)(4)(B)][/us/pl/110/314/s204/b/4/B], (H), substituted “Commission” for “Secretary” in cl. (1) and “Commission” for “Consumer Product Safety Commission” in cl. (3).
+    Subsec. (b). [Pub. L. 110–314][/us/pl/110/314], § 204(b)(4)(B), (H), substituted “Commission” for “Secretary” in cl. (1) and “Commission” for “Consumer Product Safety Commission” in cl. (3).
 
-    Subsec. (c)(1). [Pub. L. 110–314, § 217(a)(2)(A)][/us/pl/110/314/s217/a/2/A], (B), substituted “$100,000” for “$5,000” and substituted “$15,000,000” for “$1,250,000” in two places.
+    Subsec. (c)(1). [Pub. L. 110–314][/us/pl/110/314], § 217(a)(2)(A), (B), substituted “$100,000” for “$5,000” and substituted “$15,000,000” for “$1,250,000” in two places.
 
-    Subsec. (c)(3). [Pub. L. 110–314, § 217(b)(1)(B)(i)][/us/pl/110/314/s217/b/1/B/i], inserted “the nature, circumstances, extent, and gravity of the violation, including” after “shall consider”, substituted “substance distributed,” for “substance distributed, and”, and inserted “, including how to mitigate undue adverse economic impacts on small businesses, and such other factors as appropriate” before period at end.
+    Subsec. (c)(3). [Pub. L. 110–314][/us/pl/110/314], § 217(b)(1)(B)(i), inserted “the nature, circumstances, extent, and gravity of the violation, including” after “shall consider”, substituted “substance distributed,” for “substance distributed, and”, and inserted “, including how to mitigate undue adverse economic impacts on small businesses, and such other factors as appropriate” before period at end.
 
-    Subsec. (c)(4). [Pub. L. 110–314, § 217(b)(1)(B)(ii)(II)][/us/pl/110/314/s217/b/1/B/ii/II], inserted “, and such other factors as appropriate” after “substance distributed”.
+    Subsec. (c)(4). [Pub. L. 110–314][/us/pl/110/314], § 217(b)(1)(B)(ii)(II), inserted “, and such other factors as appropriate” after “substance distributed”.
 
-    [Pub. L. 110–314, § 217(b)(1)(B)(ii)(I)][/us/pl/110/314/s217/b/1/B/ii/I], which directed insertion of “, including how to mitigate undue adverse economic impacts on small businesses, the nature, circumstances, extent, and gravity of the violation, including” after “person charged”, was executed by making the insertion after “persons charged” to reflect the probable intent of Congress.
+    [Pub. L. 110–314][/us/pl/110/314], § 217(b)(1)(B)(ii)(I), which directed insertion of “, including how to mitigate undue adverse economic impacts on small businesses, the nature, circumstances, extent, and gravity of the violation, including” after “person charged”, was executed by making the insertion after “persons charged” to reflect the probable intent of Congress.
 
-    Subsec. (c)(6)(B). [Pub. L. 110–314, § 217(a)(2)(C)][/us/pl/110/314/s217/a/2/C], which directed substitution of “December 1, 2011,” for “December 1, 1994,” in par. (6)(B) of subsec. (c)(1), was executed by making the substitution in subsec. (c)(6)(B) to reflect the probable intent of Congress.
+    Subsec. (c)(6)(B). [Pub. L. 110–314][/us/pl/110/314], § 217(a)(2)(C), which directed substitution of “December 1, 2011,” for “December 1, 1994,” in par. (6)(B) of subsec. (c)(1), was executed by making the substitution in subsec. (c)(6)(B) to reflect the probable intent of Congress.
 
-    1990—Subsec. (c). [Pub. L. 101–608, § 115(b)][/us/pl/101/608/s115/b], added subsec. (c).
+    1990—Subsec. (c). [Pub. L. 101–608][/us/pl/101/608], § 115(b), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 101–608, § 118(a)][/us/pl/101/608/s118/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 101–608][/us/pl/101/608], § 118(a), added subsec. (d).
 
     1978—Subsec. (b)(3). [Pub. L. 95–631][/us/pl/95/631] substituted “with respect to” for “in respect of” and made cl. (3) inapplicable when the Consumer Product Safety Commission determines that exportation of the substance presents an unreasonable risk of injury to persons residing within the United States.
 
@@ -130,26 +130,26 @@
 [/us/usc/t15/s1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1263
 [/us/usc/t15/s1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1263
 [/us/usc/t15/s2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2073
-[/us/pl/86/613/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs5
+[/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/stat/74/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F376
 [/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
 [/us/stat/80/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1304
-[/us/pl/95/631/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631%2Fs7%2Fb
+[/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
 [/us/stat/92/3745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3745
-[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
+[/us/pl/101/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2FtI
 [/us/stat/104/3119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3119
-[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3041
-[/us/pl/110/314/s217/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs217%2Fc%2F3
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/usc/t18/s3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3571
-[/us/pl/110/314/s204/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FB
-[/us/pl/110/314/s217/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs217%2Fa%2F2%2FA
-[/us/pl/110/314/s217/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs217%2Fb%2F1%2FB%2Fi
-[/us/pl/110/314/s217/b/1/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs217%2Fb%2F1%2FB%2Fii%2FII
-[/us/pl/110/314/s217/b/1/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs217%2Fb%2F1%2FB%2Fii%2FI
-[/us/pl/110/314/s217/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs217%2Fa%2F2%2FC
-[/us/pl/101/608/s115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs115%2Fb
-[/us/pl/101/608/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs118%2Fa
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
+[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
 [/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
 [/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
 [/us/pl/110/314/s217/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs217%2Fa%2F2

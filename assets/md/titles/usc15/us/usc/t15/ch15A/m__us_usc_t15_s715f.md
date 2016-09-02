@@ -23,7 +23,7 @@
 
         No such forfeiture shall be made in the case of contraband oil owned by any person (other than a person shipping such contraband oil in violation of the provisions of this chapter) who has with respect to such contraband oil a certificate of clearance which on its face appears to be valid and to have been issued by a board created under authority of [section 715d of this title][/us/usc/t15/s715d], certifying that the shipment in question is not contraband oil, and such person had no reasonable ground for believing such certificate to be invalid or to have been issued as a result of fraud or misrepresentation of fact.
 
-([Feb. 22, 1935, ch. 18, § 7][/us/act/1935-02-22/ch18/s7], [49 Stat. 32][/us/stat/49/32].)
+([Feb. 22, 1935, ch. 18][/us/act/1935-02-22/ch18], § 7, [49 Stat. 32][/us/stat/49/32].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t15/s715d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs715d
-[/us/act/1935-02-22/ch18/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-02-22%2Fch18%2Fs7
+[/us/act/1935-02-22/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-02-22%2Fch18
 [/us/stat/49/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F32
 
 

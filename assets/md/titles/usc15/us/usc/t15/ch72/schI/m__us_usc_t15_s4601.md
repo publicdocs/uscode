@@ -41,7 +41,7 @@
 
         (2) The term “Sematech” means a consortium of firms in the United States semiconductor industry established for the purposes of (A) conducting research concerning advanced semiconductor manufacturing techniques, and (B) developing techniques to adapt manufacturing expertise to a variety of semiconductor products.
 
-([Pub. L. 100–180, div. A, title II, § 271][/us/pl/100/180/s271], Dec. 4, 1987, [101 Stat. 1068][/us/stat/101/1068]; [Pub. L. 103–160, div. A, title II, § 263(c)(1)][/us/pl/103/160/s263/c/1], Nov. 30, 1993, [107 Stat. 1610][/us/stat/107/1610].)
+([Pub. L. 100–180, div. A, title II][/us/pl/100/180/dA/tII], § 271, Dec. 4, 1987, [101 Stat. 1068][/us/stat/101/1068]; [Pub. L. 103–160, div. A, title II][/us/pl/103/160/dA/tII], § 263(c)(1), Nov. 30, 1993, [107 Stat. 1610][/us/stat/107/1610].)
 
  __Amendments__ 
 
@@ -55,9 +55,9 @@
 ----------
 
 [/us/usc/t15/s4603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4603
-[/us/pl/100/180/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs271
+[/us/pl/100/180/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtII
 [/us/stat/101/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1068
-[/us/pl/103/160/s263/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs263%2Fc%2F1
+[/us/pl/103/160/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtII
 [/us/stat/107/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1610
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 

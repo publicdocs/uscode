@@ -17,7 +17,7 @@
 
     In addition to any other funds otherwise authorized to be appropriated for the purpose of conducting climate-related programs, there are authorized to be appropriated to the Secretary, for the purpose of carrying out the provisions of this chapter, not to exceed $50,000,000 for the fiscal year ending September 30, 1979, not to exceed $65,000,000 for the fiscal year ending September 30, 1980, and not to exceed $25,500,000 for the fiscal year ending September 30, 1981, of which amount not less than $2,653,000 shall be made directly available to the National Climate Program Office in the form of a budget item separate from the activities of the National Oceanic and Atmospheric Administration.
 
-([Pub. L. 95–367, § 9][/us/pl/95/367/s9], Sept. 17, 1978, [92 Stat. 605][/us/stat/92/605]; [Pub. L. 96–547, § 1][/us/pl/96/547/s1], Dec. 18, 1980, [94 Stat. 3217][/us/stat/94/3217].)
+([Pub. L. 95–367][/us/pl/95/367], § 9, Sept. 17, 1978, [92 Stat. 605][/us/stat/92/605]; [Pub. L. 96–547][/us/pl/96/547], § 1, Dec. 18, 1980, [94 Stat. 3217][/us/stat/94/3217].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/95/367/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F367%2Fs9
+[/us/pl/95/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F367
 [/us/stat/92/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F605
-[/us/pl/96/547/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F547%2Fs1
+[/us/pl/96/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F547
 [/us/stat/94/3217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3217
 [/us/pl/96/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F547
 

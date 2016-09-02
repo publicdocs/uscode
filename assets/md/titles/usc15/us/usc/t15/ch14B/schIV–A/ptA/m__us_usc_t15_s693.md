@@ -17,7 +17,7 @@
 
     Without limiting the authority conferred upon the Administrator and the Administration by [section 671 of this title][/us/usc/t15/s671], the Administrator and the Administration shall have, in the performance of and with respect to the functions, powers, and duties conferred by this part, all the authority and be subject to the same conditions prescribed in [section 634(b) of this title][/us/usc/t15/s634/b] with respect to loans, including the authority to execute subleases, assignments of lease and new leases with any person, firm, organization, or other entity, in order to aid in the liquidation of obligations of the Administration hereunder.
 
-([Pub. L. 85–699, title IV, § 402][/us/pl/85/699/s402], as added [Pub. L. 89–117, title III, § 316(a)][/us/pl/89/117/s316/a], Aug. 10, 1965, [79 Stat. 483][/us/stat/79/483]; amended [Pub. L. 91–609, title IX, § 911(a)(2)][/us/pl/91/609/s911/a/2], Dec. 31, 1970, [84 Stat. 1812][/us/stat/84/1812].)
+([Pub. L. 85–699, title IV][/us/pl/85/699/tIV], § 402, as added [Pub. L. 89–117, title III][/us/pl/89/117/tIII], § 316(a), Aug. 10, 1965, [79 Stat. 483][/us/stat/79/483]; amended [Pub. L. 91–609, title IX][/us/pl/91/609/tIX], § 911(a)(2), Dec. 31, 1970, [84 Stat. 1812][/us/stat/84/1812].)
 
  __Amendments__ 
 
@@ -32,10 +32,10 @@
 
 [/us/usc/t15/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs671
 [/us/usc/t15/s634/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs634%2Fb
-[/us/pl/85/699/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs402
-[/us/pl/89/117/s316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs316%2Fa
+[/us/pl/85/699/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIV
+[/us/pl/89/117/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtIII
 [/us/stat/79/483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F483
-[/us/pl/91/609/s911/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs911%2Fa%2F2
+[/us/pl/91/609/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtIX
 [/us/stat/84/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1812
 [/us/pl/91/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609
 

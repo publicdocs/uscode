@@ -35,7 +35,7 @@
 
         (2) The neglect or refusal to maintain and preserve such records is unlawful, and any such manufacturer or dealer who neglects or refuses to maintain and preserve such records shall forfeit to the United States the sum of $100 for each day of such failure which shall accrue to the United States and be recoverable by a civil action.
 
-([Aug. 8, 1951, ch. 298, § 8][/us/act/1951-08-08/ch298/s8], [65 Stat. 179][/us/stat/65/179].)
+([Aug. 8, 1951, ch. 298][/us/act/1951-08-08/ch298], § 8, [65 Stat. 179][/us/stat/65/179].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/act/1951-08-08/ch298/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298%2Fs8
+[/us/act/1951-08-08/ch298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298
 [/us/stat/65/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F179
 [/us/usc/t15/s69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs69
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264

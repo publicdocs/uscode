@@ -37,11 +37,11 @@
 
         (5) ascertain the long-term changes in road design, urban planning, traffic management, maintenance facilities, utility rate structures, and tax policies which are needed to facilitate the manufacture and use of electric and hybrid vehicles in accordance with sections 2512 and 2513  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-([Pub. L. 94–413, § 4][/us/pl/94/413/s4], Sept. 17, 1976, [90 Stat. 1262][/us/stat/90/1262]; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577].)
+([Pub. L. 94–413][/us/pl/94/413], § 4, Sept. 17, 1976, [90 Stat. 1262][/us/stat/90/1262]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577].)
 
  __References in Text__ 
 
-    [Section 2513 of this title][/us/usc/t15/s2513], referred to in subsec. (c)(5), was repealed by [Pub. L. 104–66, title I, § 1051][/us/pl/104/66/s1051](o), Dec. 21, 1995, [109 Stat. 717][/us/stat/109/717].
+    [Section 2513 of this title][/us/usc/t15/s2513], referred to in subsec. (c)(5), was repealed by [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1051(o), Dec. 21, 1995, [109 Stat. 717][/us/stat/109/717].
 
  __Transfer of Functions__ 
 
@@ -54,12 +54,12 @@
 ----------
 ----------
 
-[/us/pl/94/413/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F413%2Fs4
+[/us/pl/94/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F413
 [/us/stat/90/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1262
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
 [/us/usc/t15/s2513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2513
-[/us/pl/104/66/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1051
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F717
 [/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
 [/us/usc/t15/s2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2502

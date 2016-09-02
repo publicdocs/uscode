@@ -81,7 +81,7 @@
 
         (2) information on the exposure of children to environmental hazards in school facilities, as provided by the Administrator.
 
-([Pub. L. 94–469, title V, § 504][/us/pl/94/469/s504], as added [Pub. L. 110–140, title IV, § 461(a)][/us/pl/110/140/s461/a], Dec. 19, 2007, [121 Stat. 1641][/us/stat/121/1641].)
+([Pub. L. 94–469, title V][/us/pl/94/469/tV], § 504, as added [Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 461(a), Dec. 19, 2007, [121 Stat. 1641][/us/stat/121/1641].)
 
  __References in Text__ 
 
@@ -98,8 +98,8 @@
 [/us/usc/t42/s17122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17122
 [/us/usc/t42/s17083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs17083
 [/us/usc/t15/s2695b/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2695b%2Fa
-[/us/pl/94/469/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs504
-[/us/pl/110/140/s461/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs461%2Fa
+[/us/pl/94/469/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtV
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1641
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/stat/121/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1492

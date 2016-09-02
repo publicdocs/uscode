@@ -45,7 +45,7 @@
 
         (B) any pipeline or storage facility subject to the jurisdiction of the Commission under [section 717f of this title][/us/usc/t15/s717f].
 
-([June 21, 1938, ch. 556, § 2][/us/act/1938-06-21/ch556/s2], [52 Stat. 821][/us/stat/52/821]; [Pub. L. 102–486, title IV, § 404(a)(2)][/us/pl/102/486/s404/a/2], Oct. 24, 1992, [106 Stat. 2879][/us/stat/106/2879]; [Pub. L. 109–58, title III, § 311(b)][/us/pl/109/58/s311/b], Aug. 8, 2005, [119 Stat. 685][/us/stat/119/685].)
+([June 21, 1938, ch. 556][/us/act/1938-06-21/ch556], § 2, [52 Stat. 821][/us/stat/52/821]; [Pub. L. 102–486, title IV][/us/pl/102/486/tIV], § 404(a)(2), Oct. 24, 1992, [106 Stat. 2879][/us/stat/106/2879]; [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 311(b), Aug. 8, 2005, [119 Stat. 685][/us/stat/119/685].)
 
  __Amendments__ 
 
@@ -65,11 +65,11 @@
 ----------
 
 [/us/usc/t15/s717f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717f
-[/us/act/1938-06-21/ch556/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556%2Fs2
+[/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F821
-[/us/pl/102/486/s404/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs404%2Fa%2F2
+[/us/pl/102/486/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIV
 [/us/stat/106/2879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2879
-[/us/pl/109/58/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs311%2Fb
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F685
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486

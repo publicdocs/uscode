@@ -113,7 +113,7 @@
 
     (19) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and any other commonwealth, territory, or possession of the United States.
 
-([Pub. L. 95–297, title I, § 101][/us/pl/95/297/s101], June 19, 1978, [92 Stat. 322][/us/stat/92/322]; [Pub. L. 103–371, § 6][/us/pl/103/371/s6], Oct. 19, 1994, [108 Stat. 3486][/us/stat/108/3486]; [Pub. L. 110–140, title II, § 241(c)(1)][/us/pl/110/140/s241/c/1], Dec. 19, 2007, [121 Stat. 1540][/us/stat/121/1540].)
+([Pub. L. 95–297, title I][/us/pl/95/297/tI], § 101, June 19, 1978, [92 Stat. 322][/us/stat/92/322]; [Pub. L. 103–371][/us/pl/103/371], § 6, Oct. 19, 1994, [108 Stat. 3486][/us/stat/108/3486]; [Pub. L. 110–140, title II][/us/pl/110/140/tII], § 241(c)(1), Dec. 19, 2007, [121 Stat. 1540][/us/stat/121/1540].)
 
  __Amendments__ 
 
@@ -127,13 +127,13 @@
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–371, § 1][/us/pl/103/371/s1], Oct. 19, 1994, [108 Stat. 3484][/us/stat/108/3484], provided that: 
+[Pub. L. 103–371][/us/pl/103/371], § 1, Oct. 19, 1994, [108 Stat. 3484][/us/stat/108/3484], provided that: 
 
 > “This Act \[amending this section and sections 2802, 2805, and 2806 of this title\] may be cited as the ‘Petroleum Marketing Practices Act Amendments of 1994’.”
 
  __Short Title__ 
 
-[Pub. L. 95–297, § 1][/us/pl/95/297/s1], June 19, 1978, [92 Stat. 322][/us/stat/92/322], provided: 
+[Pub. L. 95–297][/us/pl/95/297], § 1, June 19, 1978, [92 Stat. 322][/us/stat/92/322], provided: 
 
 > “That this Act \[enacting this chapter and provisions set out as a note under [section 2822 of this title][/us/usc/t15/s2822]\] may be cited as the ‘Petroleum Marketing Practices Act’.”
 
@@ -144,20 +144,20 @@
 ----------
 ----------
 
-[/us/pl/95/297/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2Fs101
+[/us/pl/95/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2FtI
 [/us/stat/92/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F322
-[/us/pl/103/371/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F371%2Fs6
+[/us/pl/103/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F371
 [/us/stat/108/3486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3486
-[/us/pl/110/140/s241/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs241%2Fc%2F1
+[/us/pl/110/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtII
 [/us/stat/121/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1540
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/103/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F371
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/103/371/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F371%2Fs1
+[/us/pl/103/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F371
 [/us/stat/108/3484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3484
-[/us/pl/95/297/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2Fs1
+[/us/pl/95/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297
 [/us/stat/92/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F322
 [/us/usc/t15/s2822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2822
 

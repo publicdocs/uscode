@@ -19,7 +19,7 @@
 
     The facts found by the Secretary of Commerce and recited or set forth in said order shall be prima facie evidence of such facts, but either party may adduce additional evidence. The Department of Justice shall have charge of the enforcement of such order. After the order is so filed in such district court and while pending for review therein, the court may issue a temporary writ of injunction forbidding such association from violating such order or any part thereof. The court shall, upon conclusion of its hearing, enforce its decree by a permanent injunction or other appropriate remedy. Service of such complaint and of all notices may be made upon such association by service upon any officer, or agent thereof, engaged in carrying on its business, or on any attorney authorized to appear in such proceeding for such association and such service shall be binding upon such association, the officers and members thereof.
 
-([June 25, 1934, ch. 742, § 2][/us/act/1934-06-25/ch742/s2], [48 Stat. 1214][/us/stat/48/1214]; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1431][/us/stat/53/1431]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
+([June 25, 1934, ch. 742][/us/act/1934-06-25/ch742], § 2, [48 Stat. 1214][/us/stat/48/1214]; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, [53 Stat. 1431][/us/stat/53/1431]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-25/ch742/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-25%2Fch742%2Fs2
+[/us/act/1934-06-25/ch742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-25%2Fch742
 [/us/stat/48/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1214
 [/us/stat/53/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1431
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090

@@ -23,7 +23,7 @@
 
         The Administration may by rules and regulations, or upon application of an interested party, at any time previous to such failure, by order, after notice and opportunity for hearing, exempt in whole or in part, any small business investment company from the provisions of subsection (a) of this section, upon such terms and conditions and for such period of time as it deems necessary and appropriate, if the Administration finds that such action is not inconsistent with the public interest or the protection of the Administration. The Administration may for the purposes of this section make any alternative requirements appropriate to the situation.
 
-([Pub. L. 85–699, title III, § 315][/us/pl/85/699/s315], as added [Pub. L. 89–779, § 7][/us/pl/89/779/s7], Nov. 6, 1966, [80 Stat. 1364][/us/stat/80/1364].)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 315, as added [Pub. L. 89–779][/us/pl/89/779], § 7, Nov. 6, 1966, [80 Stat. 1364][/us/stat/80/1364].)
 
 ----------
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t15/s687b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687b%2Fb
-[/us/pl/85/699/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs315
-[/us/pl/89/779/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779%2Fs7
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/89/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779
 [/us/stat/80/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1364
 
 

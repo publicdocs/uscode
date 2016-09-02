@@ -43,7 +43,7 @@
 
         For purposes of this section, the term “motor vehicle” has the same meaning as in [section 13102 of title 49][/us/usc/t49/s13102].
 
-([Pub. L. 106–102, title III, § 341][/us/pl/106/102/s341], Nov. 12, 1999, [113 Stat. 1434][/us/stat/113/1434].)
+([Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 341, Nov. 12, 1999, [113 Stat. 1434][/us/stat/113/1434].)
 
 ----------
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t49/s13102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13102
-[/us/pl/106/102/s341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs341
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1434
 
 

@@ -59,7 +59,7 @@
 
         (2) Nothing in this subsection shall prevent the Administrator from concurrently submitting an energy action relating to price together with an energy action relating to allocation of the same oil, refined petroleum product, or refined product category.
 
-([Pub. L. 93–275, § 5][/us/pl/93/275/s5], May 7, 1974, [88 Stat. 98][/us/stat/88/98]; [Pub. L. 94–385, title I, § 102][/us/pl/94/385/s102], Aug. 14, 1976, [90 Stat. 1127][/us/stat/90/1127].)
+([Pub. L. 93–275][/us/pl/93/275], § 5, May 7, 1974, [88 Stat. 98][/us/stat/88/98]; [Pub. L. 94–385, title I][/us/pl/94/385/tI], § 102, Aug. 14, 1976, [90 Stat. 1127][/us/stat/90/1127].)
 
  __References in Text__ 
 
@@ -80,9 +80,9 @@
 ----------
 ----------
 
-[/us/pl/93/275/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs5
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F98
-[/us/pl/94/385/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs102
+[/us/pl/94/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtI
 [/us/stat/90/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1127
 [/us/usc/t15/s760g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs760g
 [/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385

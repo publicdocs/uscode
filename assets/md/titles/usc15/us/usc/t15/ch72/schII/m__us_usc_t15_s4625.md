@@ -23,7 +23,7 @@
 
         The Secretary may make facilities available under this section only to the extent that the cost of the use of such facilities is reimbursed by the user.
 
-([Pub. L. 100–180, div. C, title I, § 3145][/us/pl/100/180/s3145], Dec. 4, 1987, [101 Stat. 1243][/us/stat/101/1243].)
+([Pub. L. 100–180, div. C, title I][/us/pl/100/180/dC/tI], § 3145, Dec. 4, 1987, [101 Stat. 1243][/us/stat/101/1243].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t15/s4623/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4623%2Fa
-[/us/pl/100/180/s3145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3145
+[/us/pl/100/180/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdC%2FtI
 [/us/stat/101/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1243
 
 

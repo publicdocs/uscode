@@ -43,7 +43,7 @@
 
     (12) such other information and such other documents and certifications as the Director may require as being reasonably necessary or appropriate for the protection of purchasers.
 
-([Pub. L. 90–448, title XIV, § 1406][/us/pl/90/448/s1406], Aug. 1, 1968, [82 Stat. 592][/us/stat/82/592]; [Pub. L. 91–609, title IX, § 909][/us/pl/91/609/s909], Dec. 31, 1970, [84 Stat. 1811][/us/stat/84/1811]; [Pub. L. 111–203, title X, § 1098A(1)][/us/pl/111/203/s1098A/1], July 21, 2010, [124 Stat. 2105][/us/stat/124/2105].)
+([Pub. L. 90–448, title XIV][/us/pl/90/448/tXIV], § 1406, Aug. 1, 1968, [82 Stat. 592][/us/stat/82/592]; [Pub. L. 91–609, title IX][/us/pl/91/609/tIX], § 909, Dec. 31, 1970, [84 Stat. 1811][/us/stat/84/1811]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1098A(1), July 21, 2010, [124 Stat. 2105][/us/stat/124/2105].)
 
  __Amendments__ 
 
@@ -62,11 +62,11 @@
 ----------
 ----------
 
-[/us/pl/90/448/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1406
+[/us/pl/90/448/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIV
 [/us/stat/82/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F592
-[/us/pl/91/609/s909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs909
+[/us/pl/91/609/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtIX
 [/us/stat/84/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1811
-[/us/pl/111/203/s1098A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098A%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2105
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/91/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609

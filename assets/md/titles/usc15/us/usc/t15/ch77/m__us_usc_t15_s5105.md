@@ -17,7 +17,7 @@
 
     The Secretary shall coordinate the research and development conducted under this chapter with other research and development being conducted by the Department of Energy and other Federal agencies in order to increase efficiency and avoid duplication of effort.
 
-([Pub. L. 100–680, § 6][/us/pl/100/680/s6], Nov. 17, 1988, [102 Stat. 4076][/us/stat/102/4076].)
+([Pub. L. 100–680][/us/pl/100/680], § 6, Nov. 17, 1988, [102 Stat. 4076][/us/stat/102/4076].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/680/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F680%2Fs6
+[/us/pl/100/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F680
 [/us/stat/102/4076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4076
 
 

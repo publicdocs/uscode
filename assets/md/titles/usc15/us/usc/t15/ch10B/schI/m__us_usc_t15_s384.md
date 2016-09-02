@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application of such provision to any person or circumstance is held invalid, the remainder of this chapter or the application of such provision to persons or circumstances other than those to which it is held invalid, shall not be affected thereby.
 
-([Pub. L. 86–272, title I, § 104][/us/pl/86/272/s104], Sept. 14, 1959, [73 Stat. 556][/us/stat/73/556].)
+([Pub. L. 86–272, title I][/us/pl/86/272/tI], § 104, Sept. 14, 1959, [73 Stat. 556][/us/stat/73/556].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/272/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F272%2Fs104
+[/us/pl/86/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F272%2FtI
 [/us/stat/73/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F556
 
 

@@ -89,7 +89,7 @@
 
         The Director of the Office of Personnel Management may support, as appropriate, internships or other work experience in the Federal Government to the winners of the competitions and challenges under this section.
 
-([Pub. L. 113–274, title III, § 301][/us/pl/113/274/s301], Dec. 18, 2014, [128 Stat. 2981][/us/stat/128/2981].)
+([Pub. L. 113–274, title III][/us/pl/113/274/tIII], § 301, Dec. 18, 2014, [128 Stat. 2981][/us/stat/128/2981].)
 
  __References in Text__ 
 
@@ -104,7 +104,7 @@
 
 [/us/usc/t15/s3719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3719
 [/us/stat/124/3989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3989
-[/us/pl/113/274/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs301
+[/us/pl/113/274/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2FtIII
 [/us/stat/128/2981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2981
 [/us/usc/t15/s3719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3719
 [/us/stat/124/3989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3989

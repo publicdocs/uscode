@@ -61,7 +61,7 @@
 
     (22) “terms and conditions” includes, but is not limited to, the percentage which is paid by the off-track betting system to the host racing association, the percentage which is paid by the host racing association to the horsemen’s group, as well as any arrangements as to the exclusivity between the host racing association and the off-track betting system.
 
-([Pub. L. 95–515, § 3][/us/pl/95/515/s3], Oct. 25, 1978, [92 Stat. 1811][/us/stat/92/1811]; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title VI, § 629\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–108.)
+([Pub. L. 95–515][/us/pl/95/515], § 3, Oct. 25, 1978, [92 Stat. 1811][/us/stat/92/1811]; [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title VI, § 629\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–108.)
 
  __Amendments__ 
 
@@ -74,9 +74,9 @@
 ----------
 ----------
 
-[/us/pl/95/515/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F515%2Fs3
+[/us/pl/95/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F515
 [/us/stat/92/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1811
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
 [/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 

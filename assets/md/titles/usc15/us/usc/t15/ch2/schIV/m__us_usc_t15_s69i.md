@@ -19,7 +19,7 @@
 
     (b) Whenever the Commission has reason to believe any person is guilty of a misdemeanor under this section, it shall certify all pertinent facts to the Attorney General, whose duty it shall be to cause appropriate proceedings to be brought for the enforcement of the provisions of this section against such person.
 
-([Aug. 8, 1951, ch. 298, § 11][/us/act/1951-08-08/ch298/s11], [65 Stat. 181][/us/stat/65/181].)
+([Aug. 8, 1951, ch. 298][/us/act/1951-08-08/ch298], § 11, [65 Stat. 181][/us/stat/65/181].)
 
  __Transfer of Functions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1951-08-08/ch298/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298%2Fs11
+[/us/act/1951-08-08/ch298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298
 [/us/stat/65/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F181
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41

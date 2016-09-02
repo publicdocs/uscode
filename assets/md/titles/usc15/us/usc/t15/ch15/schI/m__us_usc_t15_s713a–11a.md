@@ -17,7 +17,7 @@
 
     After September 30, 1964, the portion of borrowings from Treasury equal to the unreimbursed realized losses recorded on the books of the Commodity Credit Corporation after September 30 of the fiscal year in which such losses are realized, shall not bear interest and interest shall not be accrued or paid thereon.
 
-([Pub. L. 89–316, title III, § 301][/us/pl/89/316/s301], Nov. 2, 1965, [79 Stat. 1178][/us/stat/79/1178]; [Pub. L. 94–273, § 2(6)][/us/pl/94/273/s2/6], Apr. 21, 1976, [90 Stat. 375][/us/stat/90/375].)
+([Pub. L. 89–316, title III][/us/pl/89/316/tIII], § 301, Nov. 2, 1965, [79 Stat. 1178][/us/stat/79/1178]; [Pub. L. 94–273][/us/pl/94/273], § 2(6), Apr. 21, 1976, [90 Stat. 375][/us/stat/90/375].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/89/316/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F316%2Fs301
+[/us/pl/89/316/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F316%2FtIII
 [/us/stat/79/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1178
-[/us/pl/94/273/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs2%2F6
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F375
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 

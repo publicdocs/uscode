@@ -65,7 +65,7 @@
 
         This section applies only to liability for injury, damage, loss, or death caused by equipment that, for purposes of subsection (a), is donated on or after the date that is 30 days after March 9, 2006.
 
-([Pub. L. 109–177, title I, § 125][/us/pl/109/177/s125], Mar. 9, 2006, [120 Stat. 226][/us/stat/120/226].)
+([Pub. L. 109–177, title I][/us/pl/109/177/tI], § 125, Mar. 9, 2006, [120 Stat. 226][/us/stat/120/226].)
 
  __Codification__ 
 
@@ -78,7 +78,7 @@
 ----------
 ----------
 
-[/us/pl/109/177/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs125
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F226
 
 

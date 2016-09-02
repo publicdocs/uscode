@@ -37,7 +37,7 @@
 
         where the person making the solicitation does not solicit customers by telephone but only receives calls initiated by customers in response to the catalog and during those calls takes orders only without further solicitation.
 
-([Pub. L. 103–297, § 7][/us/pl/103/297/s7], Aug. 16, 1994, [108 Stat. 1550][/us/stat/108/1550]; [Pub. L. 107–56, title X, § 1011(b)(3)][/us/pl/107/56/s1011/b/3], Oct. 26, 2001, [115 Stat. 396][/us/stat/115/396].)
+([Pub. L. 103–297][/us/pl/103/297], § 7, Aug. 16, 1994, [108 Stat. 1550][/us/stat/108/1550]; [Pub. L. 107–56, title X][/us/pl/107/56/tX], § 1011(b)(3), Oct. 26, 2001, [115 Stat. 396][/us/stat/115/396].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/103/297/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297%2Fs7
+[/us/pl/103/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297
 [/us/stat/108/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1550
-[/us/pl/107/56/s1011/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs1011%2Fb%2F3
+[/us/pl/107/56/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtX
 [/us/stat/115/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F396
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 

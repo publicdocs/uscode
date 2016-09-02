@@ -23,7 +23,7 @@
 
     (c) The term “Commission” means the Consumer Product Safety Commission.
 
-    (d) Repealed. [Pub. L. 110–314, title II, § 204(b)(4)(A)][/us/pl/110/314/s204/b/4/A], Aug. 14, 2008, [122 Stat. 3041][/us/stat/122/3041]
+    (d) Repealed. [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 204(b)(4)(A), Aug. 14, 2008, [122 Stat. 3041][/us/stat/122/3041]
 
     (e) The term “person” includes an individual, partnership, corporation, and association.
 
@@ -99,7 +99,7 @@
 
     (t) An article may be determined to present a thermal hazard if, in normal use or when subjected to reasonably foreseeable damage or abuse, its design or manufacture presents an unreasonable risk of personal injury or illness because of heat as from heated parts, substances, or surfaces.
 
-([Pub. L. 86–613, § 2][/us/pl/86/613/s2], July 12, 1960, [74 Stat. 372][/us/stat/74/372]; [Pub. L. 89–756][/us/pl/89/756], §§ 2(a)–(c), 3(a), Nov. 3, 1966, [80 Stat. 1303][/us/stat/80/1303], 1304; [Pub. L. 91–113][/us/pl/91/113], §§ 2(a), (c), (d), 3, Nov. 6, 1969, [83 Stat. 187–189][/us/stat/83/187-189]; [Pub. L. 91–601, § 6(a)][/us/pl/91/601/s6/a], formerly § 7(a), Dec. 30, 1970, [84 Stat. 1673][/us/stat/84/1673], renumbered [Pub. L. 97–35, title XII, § 1205(c)][/us/pl/97/35/s1205/c], Aug. 13, 1981, [95 Stat. 716][/us/stat/95/716]; [Pub. L. 92–516, § 3(1)][/us/pl/92/516/s3/1], Oct. 21, 1972, [86 Stat. 998][/us/stat/86/998]; [Pub. L. 94–284, § 3(c)][/us/pl/94/284/s3/c], May 11, 1976, [90 Stat. 503][/us/stat/90/503]; [Pub. L. 95–631, § 9][/us/pl/95/631/s9], Nov. 10, 1978, [92 Stat. 3747][/us/stat/92/3747]; [Pub. L. 99–339, title I, § 109(d)(1)][/us/pl/99/339/s109/d/1], June 19, 1986, [100 Stat. 653][/us/stat/100/653]; [Pub. L. 110–314, title II, § 204(b)(2)][/us/pl/110/314/s204/b/2], (4)(A), (B), (D), Aug. 14, 2008, [122 Stat. 3041][/us/stat/122/3041], 3042.)
+([Pub. L. 86–613][/us/pl/86/613], § 2, July 12, 1960, [74 Stat. 372][/us/stat/74/372]; [Pub. L. 89–756][/us/pl/89/756], §§ 2(a)–(c), 3(a), Nov. 3, 1966, [80 Stat. 1303][/us/stat/80/1303], 1304; [Pub. L. 91–113][/us/pl/91/113], §§ 2(a), (c), (d), 3, Nov. 6, 1969, [83 Stat. 187–189][/us/stat/83/187-189]; [Pub. L. 91–601][/us/pl/91/601], § 6(a), formerly § 7(a), Dec. 30, 1970, [84 Stat. 1673][/us/stat/84/1673], renumbered [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1205(c), Aug. 13, 1981, [95 Stat. 716][/us/stat/95/716]; [Pub. L. 92–516][/us/pl/92/516], § 3(1), Oct. 21, 1972, [86 Stat. 998][/us/stat/86/998]; [Pub. L. 94–284][/us/pl/94/284], § 3(c), May 11, 1976, [90 Stat. 503][/us/stat/90/503]; [Pub. L. 95–631][/us/pl/95/631], § 9, Nov. 10, 1978, [92 Stat. 3747][/us/stat/92/3747]; [Pub. L. 99–339, title I][/us/pl/99/339/tI], § 109(d)(1), June 19, 1986, [100 Stat. 653][/us/stat/100/653]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 204(b)(2), (4)(A), (B), (D), Aug. 14, 2008, [122 Stat. 3041][/us/stat/122/3041], 3042.)
 
  __References in Text__ 
 
@@ -111,21 +111,21 @@
 
     The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(2), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21][/us/usc/t21/s301] and Tables.
 
-    The Atomic Energy Act of 1954, as amended, referred to in subsec. (f)(3), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
+    The Atomic Energy Act of 1954, as amended, referred to in subsec. (f)(3), is [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], as added by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], § 1, [68 Stat. 919][/us/stat/68/919], which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42][/us/usc/t42/s2011] and Tables.
 
-    [Section 1471(2)(D) of this title][/us/usc/t15/s1471/2/D], referred to in subsec. (p), was redesignated section 1471(2)(C) by [Pub. L. 94–284, § 3(a)(2)][/us/pl/94/284/s3/a/2], May 11, 1976, [90 Stat. 503][/us/stat/90/503].
+    [Section 1471(2)(D) of this title][/us/usc/t15/s1471/2/D], referred to in subsec. (p), was redesignated section 1471(2)(C) by [Pub. L. 94–284][/us/pl/94/284], § 3(a)(2), May 11, 1976, [90 Stat. 503][/us/stat/90/503].
 
  __Amendments__ 
 
-    2008—Subsec. (c). [Pub. L. 110–314, § 204(b)(4)(A)][/us/pl/110/314/s204/b/4/A], added subsec. (c) and struck out former subsec. (c) which read as follows: “The term ‘Department’ means the Department of Health, Education, and Welfare.”
+    2008—Subsec. (c). [Pub. L. 110–314][/us/pl/110/314], § 204(b)(4)(A), added subsec. (c) and struck out former subsec. (c) which read as follows: “The term ‘Department’ means the Department of Health, Education, and Welfare.”
 
-    Subsec. (d). [Pub. L. 110–314, § 204(b)(4)(A)][/us/pl/110/314/s204/b/4/A], struck out subsec. (d) which read as follows: “The term ‘Secretary’ means the Secretary of Health, Education, and Welfare.”
+    Subsec. (d). [Pub. L. 110–314][/us/pl/110/314], § 204(b)(4)(A), struck out subsec. (d) which read as follows: “The term ‘Secretary’ means the Secretary of Health, Education, and Welfare.”
 
-    Subsecs. (f)(1)(B) to (D), (h)(2), (k), (p)(1). [Pub. L. 110–314, § 204(b)(4)(B)][/us/pl/110/314/s204/b/4/B], substituted “Commission” for “Secretary” wherever appearing.
+    Subsecs. (f)(1)(B) to (D), (h)(2), (k), (p)(1). [Pub. L. 110–314][/us/pl/110/314], § 204(b)(4)(B), substituted “Commission” for “Secretary” wherever appearing.
 
-    Subsec. (q). [Pub. L. 110–314, § 204(b)(4)(B)][/us/pl/110/314/s204/b/4/B], (D), substituted “Commission” for “Secretary” wherever appearing and “it” for “he” in two places.
+    Subsec. (q). [Pub. L. 110–314][/us/pl/110/314], § 204(b)(4)(B), (D), substituted “Commission” for “Secretary” wherever appearing and “it” for “he” in two places.
 
-    Subsec. (q)(2). [Pub. L. 110–314, § 204(b)(2)][/us/pl/110/314/s204/b/2], substituted “Proceedings for the issuance, amendment, or repeal of regulations pursuant to clause (B) of subparagraph (1) of this paragraph shall be governed by the provisions of subsections (f) through (i) of [section 1262 of this title][/us/usc/t15/s1262], except that if” for “Proceedings for the issuance, amendment, or repeal of regulations pursuant to clause (B) of paragraph (1) of this subsection shall be governed by the provisions of sections 371(e), (f), and (g) of title 21: Provided, That if”.
+    Subsec. (q)(2). [Pub. L. 110–314][/us/pl/110/314], § 204(b)(2), substituted “Proceedings for the issuance, amendment, or repeal of regulations pursuant to clause (B) of subparagraph (1) of this paragraph shall be governed by the provisions of subsections (f) through (i) of [section 1262 of this title][/us/usc/t15/s1262], except that if” for “Proceedings for the issuance, amendment, or repeal of regulations pursuant to clause (B) of paragraph (1) of this subsection shall be governed by the provisions of sections 371(e), (f), and (g) of title 21: Provided, That if”.
 
     1986—Subsec. (f)(1)(E). [Pub. L. 99–339][/us/pl/99/339] added subpar. (E).
 
@@ -137,29 +137,29 @@
 
     1970—Subsec. (p). [Pub. L. 91–601][/us/pl/91/601] substituted in text preceding par. (1) “if the packaging or labeling of such substance is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title or if such substance” for “which substance” and inserted following and below par. (2) provision including in “misbranded hazardous substance” a household substance as defined in [section 1471(2)(D) of this title][/us/usc/t15/s1471/2/D] if it is a substance described in par. (1) of subsec. (f) of this section and its packaging or labeling is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title.
 
-    1969—Subsec. (f)(1)(A). [Pub. L. 91–113, § 3(a)][/us/pl/91/113/s3/a], inserted “or combustible” after “is flammable”.
+    1969—Subsec. (f)(1)(A). [Pub. L. 91–113][/us/pl/91/113], § 3(a), inserted “or combustible” after “is flammable”.
 
-    Subsec. (f)(1)(D). [Pub. L. 91–113, § 2(a)][/us/pl/91/113/s2/a], added subsec. (f)(1)(D).
+    Subsec. (f)(1)(D). [Pub. L. 91–113][/us/pl/91/113], § 2(a), added subsec. (f)(1)(D).
 
-    Subsec. (l). [Pub. L. 91–113, § 3(b)][/us/pl/91/113/s3/b], inserted definition of term “combustible” and expanded references to “flammability” and “flammable” to include “combustibility” and “combustible”, respectively.
+    Subsec. (l). [Pub. L. 91–113][/us/pl/91/113], § 3(b), inserted definition of term “combustible” and expanded references to “flammability” and “flammable” to include “combustibility” and “combustible”, respectively.
 
-    Subsec. (p)(1)(E). [Pub. L. 91–113, § 3(c)][/us/pl/91/113/s3/c], inserted “Combustible” to the enumerated affirmative statements of the principal hazard or hazards required to be stated on the label of a hazardous substance.
+    Subsec. (p)(1)(E). [Pub. L. 91–113][/us/pl/91/113], § 3(c), inserted “Combustible” to the enumerated affirmative statements of the principal hazard or hazards required to be stated on the label of a hazardous substance.
 
-    Subsec. (q)(1). [Pub. L. 91–113, § 2(c)][/us/pl/91/113/s2/c], inserted “or necessarily present an electrical, mechanical, or thermal hazard” after “hazardous substance involved”.
+    Subsec. (q)(1). [Pub. L. 91–113][/us/pl/91/113], § 2(c), inserted “or necessarily present an electrical, mechanical, or thermal hazard” after “hazardous substance involved”.
 
-    Subsecs. (r) to (t). [Pub. L. 91–113, § 2(d)][/us/pl/91/113/s2/d], added subsecs. (r) to (t).
+    Subsecs. (r) to (t). [Pub. L. 91–113][/us/pl/91/113], § 2(d), added subsecs. (r) to (t).
 
-    1966—Subsec. (f). [Pub. L. 89–756, § 2(a)][/us/pl/89/756/s2/a], provided that “hazardous substances” shall apply to any article which is not itself an economic poison within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act but which is a hazard substance within the meaning of par. (1) of this subsec. by reason of its bearing or containing an economic poison.
+    1966—Subsec. (f). [Pub. L. 89–756][/us/pl/89/756], § 2(a), provided that “hazardous substances” shall apply to any article which is not itself an economic poison within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act but which is a hazard substance within the meaning of par. (1) of this subsec. by reason of its bearing or containing an economic poison.
 
-    Subsec. (n). [Pub. L. 89–756, § 2(b)][/us/pl/89/756/s2/b], enlarged term “label” to include, where the article is unpackaged or is packaged in an immediate container not intended or suitable for delivery to the ultimate consumer, a display of written, printed or graphic matter directly upon the article involved or upon a tag or other suitable material affixed thereto.
+    Subsec. (n). [Pub. L. 89–756][/us/pl/89/756], § 2(b), enlarged term “label” to include, where the article is unpackaged or is packaged in an immediate container not intended or suitable for delivery to the ultimate consumer, a display of written, printed or graphic matter directly upon the article involved or upon a tag or other suitable material affixed thereto.
 
-    Subsec. (p). [Pub. L. 89–756, § 2(c)][/us/pl/89/756/s2/c], in introductory text preceding par. (1) substituted “misbranded hazardous substance” for “misbranded package” and “misbranded package of a hazardous substance” and as so retermed enlarged applicability to include toys and other articles intended for use by children, which are hazardous substances, or which bear or contain hazardous substances when susceptible of access by children, and in par. (1), clause (J) inserted further category of “misbranded hazardous substance” where the article is intended for use by children and is not a banned hazardous substance and fails to bear a label with adequate directions for the protection of children from the hazard.
+    Subsec. (p). [Pub. L. 89–756][/us/pl/89/756], § 2(c), in introductory text preceding par. (1) substituted “misbranded hazardous substance” for “misbranded package” and “misbranded package of a hazardous substance” and as so retermed enlarged applicability to include toys and other articles intended for use by children, which are hazardous substances, or which bear or contain hazardous substances when susceptible of access by children, and in par. (1), clause (J) inserted further category of “misbranded hazardous substance” where the article is intended for use by children and is not a banned hazardous substance and fails to bear a label with adequate directions for the protection of children from the hazard.
 
-    Subsec. (q). [Pub. L. 89–756, § 3(a)][/us/pl/89/756/s3/a], added subsec. (q).
+    Subsec. (q). [Pub. L. 89–756][/us/pl/89/756], § 3(a), added subsec. (q).
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–339, title I, § 109(d)(3)][/us/pl/99/339/s109/d/3], June 19, 1986, [100 Stat. 653][/us/stat/100/653], provided that: 
+[Pub. L. 99–339, title I][/us/pl/99/339/tI], § 109(d)(3), June 19, 1986, [100 Stat. 653][/us/stat/100/653], provided that: 
 
 > “The amendments made by this subsection \[amending this section and [section 1263 of this title][/us/usc/t15/s1263]\] shall become effective 24 months after the enactment of this Act \[June 19, 1986\].”
 
@@ -173,13 +173,13 @@
 
  __Effective Date of 1969 Amendment__ 
 
-[Pub. L. 91–113, § 5][/us/pl/91/113/s5], Nov. 6, 1969, [83 Stat. 190][/us/stat/83/190], provided that: 
+[Pub. L. 91–113][/us/pl/91/113], § 5, Nov. 6, 1969, [83 Stat. 190][/us/stat/83/190], provided that: 
 
 > “The amendments made by this Act \[see Short Title of 1969 Amendment note below\] shall take effect on the sixtieth day following the date of the enactment of this Act \[Nov. 6, 1969\].”
 
  __Effective Date__ 
 
-[Pub. L. 86–613, § 17][/us/pl/86/613/s17], formerly § 16, July 12, 1960, [74 Stat. 380][/us/stat/74/380], renumbered [Pub. L. 91–113, § 4(a)][/us/pl/91/113/s4/a], Nov. 6, 1969, [83 Stat. 189][/us/stat/83/189], and amended by [Pub. L. 110–314, title II, § 204(b)(4)(B)][/us/pl/110/314/s204/b/4/B], Aug. 14, 2008, [122 Stat. 3041][/us/stat/122/3041], provided that: 
+[Pub. L. 86–613][/us/pl/86/613], § 17, formerly § 16, July 12, 1960, [74 Stat. 380][/us/stat/74/380], renumbered [Pub. L. 91–113][/us/pl/91/113], § 4(a), Nov. 6, 1969, [83 Stat. 189][/us/stat/83/189], and amended by [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 204(b)(4)(B), Aug. 14, 2008, [122 Stat. 3041][/us/stat/122/3041], provided that: 
 
 > “This Act \[enacting this chapter and repealing sections 401 to 411 of this title\] shall take effect upon the date of its enactment \[July 12, 1960\]; but no penalty or condemnation shall be enforced for any violation of this Act which occurs—
 
@@ -189,37 +189,37 @@
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–267, § 1][/us/pl/103/267/s1], June 16, 1994, [108 Stat. 722][/us/stat/108/722], provided that: 
+[Pub. L. 103–267][/us/pl/103/267], § 1, June 16, 1994, [108 Stat. 722][/us/stat/108/722], provided that: 
 
 > “This Act \[enacting sections 1278 and 6001 to 6006 of this title and provisions set out as notes under this section and sections 1278, 2064, and 6001 of this title\] may be cited as the ‘Child Safety Protection Act’.”
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–491, § 1][/us/pl/98/491/s1], Oct. 17, 1984, [98 Stat. 2269][/us/stat/98/2269], provided: 
+[Pub. L. 98–491][/us/pl/98/491], § 1, Oct. 17, 1984, [98 Stat. 2269][/us/stat/98/2269], provided: 
 
 > “That this Act \[amending [section 1274 of this title][/us/usc/t15/s1274]\] may be cited as the ‘Toy Safety Act of 1984’.”
 
  __Short Title of 1969 Amendment__ 
 
-[Pub. L. 91–113, § 1][/us/pl/91/113/s1], Nov. 6, 1969, [83 Stat. 187][/us/stat/83/187], provided that: 
+[Pub. L. 91–113][/us/pl/91/113], § 1, Nov. 6, 1969, [83 Stat. 187][/us/stat/83/187], provided that: 
 
 > “This Act \[enacting [section 1274 of this title][/us/usc/t15/s1274], amending this section and [section 1262 of this title][/us/usc/t15/s1262], enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and [section 401 of this title][/us/usc/t15/s401]\] may be cited as the ‘Child Protection and Toy Safety Act of 1969’.”
 
  __Short Title of 1966 Amendment__ 
 
-[Pub. L. 89–756, § 1][/us/pl/89/756/s1], Nov. 3, 1966, [80 Stat. 1303][/us/stat/80/1303], provided that: 
+[Pub. L. 89–756][/us/pl/89/756], § 1, Nov. 3, 1966, [80 Stat. 1303][/us/stat/80/1303], provided that: 
 
 > “This title \[probably means this “Act”, amending this section, sections 1262, 1263, 1264, 1265, 1273 of this title, and provisions set out as a note under this section\] may be cited as the ‘Child Protection Act of 1966’.”
 
  __Short Title__ 
 
-[Pub. L. 86–613, § 1][/us/pl/86/613/s1], July 12, 1960, [74 Stat. 372][/us/stat/74/372], as amended by [Pub. L. 89–756, § 5][/us/pl/89/756/s5], Nov. 3, 1966, [80 Stat. 1305][/us/stat/80/1305], provided: 
+[Pub. L. 86–613][/us/pl/86/613], § 1, July 12, 1960, [74 Stat. 372][/us/stat/74/372], as amended by [Pub. L. 89–756][/us/pl/89/756], § 5, Nov. 3, 1966, [80 Stat. 1305][/us/stat/80/1305], provided: 
 
 > “This Act \[enacting this chapter, repealing sections 401 to 411 of this title, and enacting notes set out under this section\] may be cited as the ‘Federal Hazardous Substances Act’.”
 
  __Separability__ 
 
-[Pub. L. 86–613, § 16][/us/pl/86/613/s16], formerly § 15, July 12, 1960, [74 Stat. 380][/us/stat/74/380], renumbered [Pub. L. 91–113, § 4(a)][/us/pl/91/113/s4/a], Nov. 6, 1969, [83 Stat. 189][/us/stat/83/189], provided that: 
+[Pub. L. 86–613][/us/pl/86/613], § 16, formerly § 15, July 12, 1960, [74 Stat. 380][/us/stat/74/380], renumbered [Pub. L. 91–113][/us/pl/91/113], § 4(a), Nov. 6, 1969, [83 Stat. 189][/us/stat/83/189], provided that: 
 
 > “If any provision of this Act \[enacting this chapter and repealing sections 401 to 411 of this title\] is declared unconstitutional, or the applicability thereof to any person or circumstance is held invalid, the constitutionality of the remainder of the Act and the applicability thereof to other persons and circumstances shall not be affected thereby.”
 
@@ -229,7 +229,7 @@
 
  __Effect Upon Federal and State Law__ 
 
-[Pub. L. 86–613, § 18][/us/pl/86/613/s18], formerly § 17, July 12, 1960, [74 Stat. 380][/us/stat/74/380], as amended by [Pub. L. 89–756, § 4(a)][/us/pl/89/756/s4/a], Nov. 3, 1966, [80 Stat. 1305][/us/stat/80/1305]; renumbered and amended by [Pub. L. 91–113, § 4(a)][/us/pl/91/113/s4/a], (b)(1), Nov. 6, 1969, [83 Stat. 189][/us/stat/83/189], 190; [Pub. L. 94–284, § 17(a)][/us/pl/94/284/s17/a], May 11, 1976, [90 Stat. 510][/us/stat/90/510]; [Pub. L. 110–314, title II, § 204(b)(4)(J)][/us/pl/110/314/s204/b/4/J], Aug. 14, 2008, [122 Stat. 3042][/us/stat/122/3042], provided that:
+[Pub. L. 86–613][/us/pl/86/613], § 18, formerly § 17, July 12, 1960, [74 Stat. 380][/us/stat/74/380], as amended by [Pub. L. 89–756][/us/pl/89/756], § 4(a), Nov. 3, 1966, [80 Stat. 1305][/us/stat/80/1305]; renumbered and amended by [Pub. L. 91–113][/us/pl/91/113], § 4(a), (b)(1), Nov. 6, 1969, [83 Stat. 189][/us/stat/83/189], 190; [Pub. L. 94–284][/us/pl/94/284], § 17(a), May 11, 1976, [90 Stat. 510][/us/stat/90/510]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 204(b)(4)(J), Aug. 14, 2008, [122 Stat. 3042][/us/stat/122/3042], provided that:
 
 >     “(a) Nothing in this act \[enacting this chapter and repealing sections 401 to 411 of this title\] shall be construed to modify or affect the provisions of the Flammable Fabrics Act, as amended ([15 U.S.C. 1191][/us/usc/t15/s1191] to 1200) \[sections 1191 to 1204 of this title\], or any regulations promulgated thereunder; or of chapter 39, title 18, United States Code, as amended ([18 U.S.C. 831][/us/usc/t18/s831] et seq.), or any regulations promulgated thereunder or under sections 204(a)(2) and 204(a)(3) of the Interstate Commerce Act, as amended \[[section 31502 of Title 49][/us/usc/t49/s31502], Transportation\] (relating to the transportation of dangerous substances and explosives by surface carriers); or of section 1716, title 18, United States Code, or any regulations promulgated thereunder (relating to mailing of dangerous substances); or of section 902 \[section 1472 of former Title 49\] or regulations promulgated under section 601 of the Federal Aviation Act of 1958 \[section 1421 of former Title 49\] (relating to transportation of dangerous substances and explosives in aircraft); or of the Federal Food, Drug, and Cosmetic Act \[chapter 9 of Title 21, Food and Drugs\]; or of the Public Health Service Act \[chapter 6A of Title 42, The Public Health and Welfare\]; or of the Federal Insecticide, Fungicide, and Rodenticide Act \[section 136 et seq. of Title 7, Agriculture\]; or of the Dangerous Drug Act for the District of Columbia ([70 Stat. 612][/us/stat/70/612]), or the Act entitled ‘An Act to regulate the practice of pharmacy and the sale of poisons in the District of Columbia, and for other purposes’, approved May 7, 1906 ([34 Stat. 175][/us/stat/34/175]), as amended; or of any other Act of Congress, except as specified in section 19 \[set out as a note under sections 401 to 411 of this title\].
 
@@ -263,7 +263,7 @@
 
  __Small Balls as Banned Hazardous Substances__ 
 
-[Pub. L. 103–267, title I, § 101(b)][/us/pl/103/267/s101/b], June 16, 1994, [108 Stat. 725][/us/stat/108/725], provided that: 
+[Pub. L. 103–267, title I][/us/pl/103/267/tI], § 101(b), June 16, 1994, [108 Stat. 725][/us/stat/108/725], provided that: 
 
 > “A small ball—
 
@@ -282,7 +282,7 @@
 ----------
 ----------
 
-[/us/pl/110/314/s204/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FA
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3041
 [/us/usc/t15/s1262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1262%2Fa
 [/us/usc/t15/s1262/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1262%2Fe
@@ -292,25 +292,25 @@
 [/us/usc/t15/s1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1262
 [/us/usc/t15/s1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1262
 [/us/usc/t15/s1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1262
-[/us/pl/86/613/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs2
+[/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/stat/74/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F372
 [/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
 [/us/stat/80/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1303
 [/us/pl/91/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113
 [/us/stat/83/187-189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F187-189
-[/us/pl/91/601/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601%2Fs6%2Fa
+[/us/pl/91/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601
 [/us/stat/84/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1673
-[/us/pl/97/35/s1205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1205%2Fc
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F716
-[/us/pl/92/516/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs3%2F1
+[/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/stat/86/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F998
-[/us/pl/94/284/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs3%2Fc
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/stat/90/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F503
-[/us/pl/95/631/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631%2Fs9
+[/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
 [/us/stat/92/3747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3747
-[/us/pl/99/339/s109/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs109%2Fd%2F1
+[/us/pl/99/339/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtI
 [/us/stat/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F653
-[/us/pl/110/314/s204/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F2
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3041
 [/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
@@ -322,17 +322,17 @@
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
-[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t15/s1471/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1471%2F2%2FD
-[/us/pl/94/284/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs3%2Fa%2F2
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/stat/90/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F503
-[/us/pl/110/314/s204/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FA
-[/us/pl/110/314/s204/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FA
-[/us/pl/110/314/s204/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FB
-[/us/pl/110/314/s204/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FB
-[/us/pl/110/314/s204/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F2
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/usc/t15/s1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1262
 [/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
 [/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
@@ -340,17 +340,17 @@
 [/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/pl/91/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601
 [/us/usc/t15/s1471/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1471%2F2%2FD
-[/us/pl/91/113/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113%2Fs3%2Fa
-[/us/pl/91/113/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113%2Fs2%2Fa
-[/us/pl/91/113/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113%2Fs3%2Fb
-[/us/pl/91/113/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113%2Fs3%2Fc
-[/us/pl/91/113/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113%2Fs2%2Fc
-[/us/pl/91/113/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113%2Fs2%2Fd
-[/us/pl/89/756/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756%2Fs2%2Fa
-[/us/pl/89/756/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756%2Fs2%2Fb
-[/us/pl/89/756/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756%2Fs2%2Fc
-[/us/pl/89/756/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756%2Fs3%2Fa
-[/us/pl/99/339/s109/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs109%2Fd%2F3
+[/us/pl/91/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113
+[/us/pl/91/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113
+[/us/pl/91/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113
+[/us/pl/91/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113
+[/us/pl/91/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113
+[/us/pl/91/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113
+[/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
+[/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
+[/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
+[/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
+[/us/pl/99/339/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtI
 [/us/stat/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F653
 [/us/usc/t15/s1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1263
 [/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
@@ -360,43 +360,43 @@
 [/us/pl/91/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601
 [/us/pl/91/601/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601%2Fs8
 [/us/usc/t15/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1471
-[/us/pl/91/113/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113%2Fs5
+[/us/pl/91/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113
 [/us/stat/83/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F190
-[/us/pl/86/613/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs17
+[/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/stat/74/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F380
-[/us/pl/91/113/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113%2Fs4%2Fa
+[/us/pl/91/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113
 [/us/stat/83/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F189
-[/us/pl/110/314/s204/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FB
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3041
-[/us/pl/103/267/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2Fs1
+[/us/pl/103/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267
 [/us/stat/108/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F722
-[/us/pl/98/491/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F491%2Fs1
+[/us/pl/98/491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F491
 [/us/stat/98/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2269
 [/us/usc/t15/s1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1274
-[/us/pl/91/113/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113%2Fs1
+[/us/pl/91/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113
 [/us/stat/83/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F187
 [/us/usc/t15/s1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1274
 [/us/usc/t15/s1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1262
 [/us/usc/t15/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs401
-[/us/pl/89/756/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756%2Fs1
+[/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
 [/us/stat/80/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1303
-[/us/pl/86/613/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs1
+[/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/stat/74/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F372
-[/us/pl/89/756/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756%2Fs5
+[/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
 [/us/stat/80/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1305
-[/us/pl/86/613/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs16
+[/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/stat/74/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F380
-[/us/pl/91/113/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113%2Fs4%2Fa
+[/us/pl/91/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113
 [/us/stat/83/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F189
-[/us/pl/86/613/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs18
+[/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/stat/74/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F380
-[/us/pl/89/756/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756%2Fs4%2Fa
+[/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
 [/us/stat/80/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1305
-[/us/pl/91/113/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113%2Fs4%2Fa
+[/us/pl/91/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113
 [/us/stat/83/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F189
-[/us/pl/94/284/s17/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs17%2Fa
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/stat/90/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F510
-[/us/pl/110/314/s204/b/4/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FJ
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3042
 [/us/usc/t15/s1191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1191
 [/us/usc/t18/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs831
@@ -409,7 +409,7 @@
 [/us/pl/86/613/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs18
 [/us/pl/110/314/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs231
 [/us/usc/t15/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2051
-[/us/pl/103/267/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2Fs101%2Fb
+[/us/pl/103/267/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2FtI
 [/us/stat/108/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F725
 [/us/usc/t15/s1261/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1261%2Fq
 [/us/pl/103/267/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2Fs101%2Fb

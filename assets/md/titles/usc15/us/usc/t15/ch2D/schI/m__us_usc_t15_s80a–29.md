@@ -93,35 +93,35 @@
 
         The Commission may issue rules and regulations to require any person that maintains a church plan that is excluded from the definition of an investment company solely by reason of [section 80a–3(c)(14) of this title][/us/usc/t15/s80a–3/c/14] to file a notice with the Commission containing such information and in such form as the Commission may prescribe as necessary or appropriate in the public interest or consistent with the protection of investors.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 30, [54 Stat. 836][/us/stat/54/836]; [Pub. L. 104–290, title II, § 206][/us/pl/104/290/s206], title V, § 508(g), Oct. 11, 1996, [110 Stat. 3430][/us/stat/110/3430], 3449; [Pub. L. 105–353, title III, § 301(c)(5)][/us/pl/105/353/s301/c/5], Nov. 3, 1998, [112 Stat. 3237][/us/stat/112/3237].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 30, [54 Stat. 836][/us/stat/54/836]; [Pub. L. 104–290, title II][/us/pl/104/290/tII], § 206, title V, § 508(g), Oct. 11, 1996, [110 Stat. 3430][/us/stat/110/3430], 3449; [Pub. L. 105–353, title III][/us/pl/105/353/tIII], § 301(c)(5), Nov. 3, 1998, [112 Stat. 3237][/us/stat/112/3237].)
 
  __References in Text__ 
 
-    The Securities Act of 1933, referred to in subsec. (i)(1), is [act May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, [48 Stat. 74][/us/stat/48/74], as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
+    The Securities Act of 1933, referred to in subsec. (i)(1), is [act May 27, 1933, ch. 38, title I][/us/act/1933-05-27/ch38/tI], [48 Stat. 74][/us/stat/48/74], as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
 
     The Securities Exchange Act of 1934, referred to in subsec. (i)(1), is [act June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], [48 Stat. 881][/us/stat/48/881], as amended, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title][/us/usc/t15/s78a] and Tables.
 
  __Amendments__ 
 
-    1998—Subsec. (b)(1). [Pub. L. 105–353, § 301(c)(5)(A)][/us/pl/105/353/s301/c/5/A], inserted “and” after semicolon at end.
+    1998—Subsec. (b)(1). [Pub. L. 105–353][/us/pl/105/353], § 301(c)(5)(A), inserted “and” after semicolon at end.
 
-    Subsec. (e). [Pub. L. 105–353, § 301(c)(5)(B)][/us/pl/105/353/s301/c/5/B], substituted “semiannually” for “semi-annually” in introductory provisions.
+    Subsec. (e). [Pub. L. 105–353][/us/pl/105/353], § 301(c)(5)(B), substituted “semiannually” for “semi-annually” in introductory provisions.
 
-    Subsecs. (g) to (j). [Pub. L. 105–353, § 301(c)(5)(C)][/us/pl/105/353/s301/c/5/C], redesignated subsecs. (g) and (h), relating to disclosure to church plan participants and notice to Commission, respectively, as (i) and (j), respectively.
+    Subsecs. (g) to (j). [Pub. L. 105–353][/us/pl/105/353], § 301(c)(5)(C), redesignated subsecs. (g) and (h), relating to disclosure to church plan participants and notice to Commission, respectively, as (i) and (j), respectively.
 
-    1996—Subsec. (b)(1). [Pub. L. 104–290, § 206(1)][/us/pl/104/290/s206/1], added par. (1) and struck out former par. (1) which read as follows: “such information and documents (other than financial statements) as the Commission may require, on a semi-annual or quarterly basis, to keep reasonably current the information and documents contained in the registration statement of such company filed under this subchapter; and”.
+    1996—Subsec. (b)(1). [Pub. L. 104–290][/us/pl/104/290], § 206(1), added par. (1) and struck out former par. (1) which read as follows: “such information and documents (other than financial statements) as the Commission may require, on a semi-annual or quarterly basis, to keep reasonably current the information and documents contained in the registration statement of such company filed under this subchapter; and”.
 
-    Subsecs. (c) to (e). [Pub. L. 104–290, § 206(2)][/us/pl/104/290/s206/2], (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (g).
+    Subsecs. (c) to (e). [Pub. L. 104–290][/us/pl/104/290], § 206(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (g).
 
-    Subsec. (f). [Pub. L. 104–290, § 206(2)][/us/pl/104/290/s206/2], (4), added subsec. (f). Former subsec. (f) redesignated (h).
+    Subsec. (f). [Pub. L. 104–290][/us/pl/104/290], § 206(2), (4), added subsec. (f). Former subsec. (f) redesignated (h).
 
-    Subsec. (g). [Pub. L. 104–290, § 508(g)][/us/pl/104/290/s508/g], added subsec. (g), relating to disclosure to church plan participants.
+    Subsec. (g). [Pub. L. 104–290][/us/pl/104/290], § 508(g), added subsec. (g), relating to disclosure to church plan participants.
 
-    [Pub. L. 104–290, § 206(2)][/us/pl/104/290/s206/2], (5), redesignated subsec. (e), relating to certificate of independent public accountants, as (g), and substituted “pursuant to subsections (a) and (e)” for “pursuant to subsections (a) and (d)”.
+    [Pub. L. 104–290][/us/pl/104/290], § 206(2), (5), redesignated subsec. (e), relating to certificate of independent public accountants, as (g), and substituted “pursuant to subsections (a) and (e)” for “pursuant to subsections (a) and (d)”.
 
-    Subsec. (h). [Pub. L. 104–290, § 508(g)][/us/pl/104/290/s508/g], added subsec. (h), relating to notice to Commission.
+    Subsec. (h). [Pub. L. 104–290][/us/pl/104/290], § 508(g), added subsec. (h), relating to notice to Commission.
 
-    [Pub. L. 104–290, § 206(2)][/us/pl/104/290/s206/2], redesignated subsec. (f), relating to duties and liabilities of affiliated persons, as (h).
+    [Pub. L. 104–290][/us/pl/104/290], § 206(2), redesignated subsec. (f), relating to duties and liabilities of affiliated persons, as (h).
 
  __Transfer of Functions__ 
 
@@ -143,26 +143,26 @@
 [/us/usc/t15/s80a–3/c/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%933%2Fc%2F14
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F836
-[/us/pl/104/290/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs206
+[/us/pl/104/290/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtII
 [/us/stat/110/3430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3430
-[/us/pl/105/353/s301/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fc%2F5
+[/us/pl/105/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtIII
 [/us/stat/112/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3237
-[/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
+[/us/act/1933-05-27/ch38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38%2FtI
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/105/353/s301/c/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fc%2F5%2FA
-[/us/pl/105/353/s301/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fc%2F5%2FB
-[/us/pl/105/353/s301/c/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fc%2F5%2FC
-[/us/pl/104/290/s206/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs206%2F1
-[/us/pl/104/290/s206/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs206%2F2
-[/us/pl/104/290/s206/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs206%2F2
-[/us/pl/104/290/s508/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs508%2Fg
-[/us/pl/104/290/s206/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs206%2F2
-[/us/pl/104/290/s508/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs508%2Fg
-[/us/pl/104/290/s206/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs206%2F2
+[/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
+[/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
+[/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t15/s78d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d
 

@@ -39,11 +39,11 @@
 
  __Amendments__ 
 
-    1960—[Pub. L. 86–750, § 10][/us/pl/86/750/s10], substituted “General prohibitions” for “Unlawful representations” in section catchline.
+    1960—[Pub. L. 86–750][/us/pl/86/750], § 10, substituted “General prohibitions” for “Unlawful representations” in section catchline.
 
-    Subsec. (c). [Pub. L. 86–750, § 11(a)][/us/pl/86/750/s11/a], authorized representation as an investment counsel if person’s principal business consisted of acting as investment adviser, and a substantial part of the business was rendering investment supervisory services, and struck out the requirements that the person be primarily engaged in rendering investment supervisory services, or that his registration application state that the person is, or is about to become engaged primarily in rendering investment advisory services.
+    Subsec. (c). [Pub. L. 86–750][/us/pl/86/750], § 11(a), authorized representation as an investment counsel if person’s principal business consisted of acting as investment adviser, and a substantial part of the business was rendering investment supervisory services, and struck out the requirements that the person be primarily engaged in rendering investment supervisory services, or that his registration application state that the person is, or is about to become engaged primarily in rendering investment advisory services.
 
-    Subsec. (d). [Pub. L. 86–750, § 11(b)][/us/pl/86/750/s11/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 86–750][/us/pl/86/750], § 11(b), added subsec. (d).
 
  __Transfer of Functions__ 
 
@@ -66,9 +66,9 @@
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/86/750/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750%2Fs10
-[/us/pl/86/750/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750%2Fs11%2Fa
-[/us/pl/86/750/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750%2Fs11%2Fb
+[/us/pl/86/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750
+[/us/pl/86/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750
+[/us/pl/86/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t15/s78d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d
 

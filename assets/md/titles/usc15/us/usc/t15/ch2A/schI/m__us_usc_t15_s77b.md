@@ -77,7 +77,7 @@
 
         Whenever pursuant to this subchapter the Commission is engaged in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, the Commission shall also consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 2, [48 Stat. 74][/us/stat/48/74]; [June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title II, § 201, [48 Stat. 905][/us/stat/48/905]; [Aug. 10, 1954, ch. 667][/us/act/1954-08-10/ch667], title I, §§ 1–4, [68 Stat. 683][/us/stat/68/683], 684; [Pub. L. 86–70, § 12(a)][/us/pl/86/70/s12/a], June 25, 1959, [73 Stat. 143][/us/stat/73/143]; [Pub. L. 86–624, § 7(a)][/us/pl/86/624/s7/a], July 12, 1960, [74 Stat. 412][/us/stat/74/412]; [Pub. L. 91–547, § 27(a)][/us/pl/91/547/s27/a], Dec. 14, 1970, [84 Stat. 1433][/us/stat/84/1433]; [Pub. L. 96–477, title VI, § 603][/us/pl/96/477/s603], Oct. 21, 1980, [94 Stat. 2294][/us/stat/94/2294]; [Pub. L. 97–303, § 1][/us/pl/97/303/s1], Oct. 13, 1982, [96 Stat. 1409][/us/stat/96/1409]; [Pub. L. 100–181, title II][/us/pl/100/181], §§ 201, 202, Dec. 4, 1987, [101 Stat. 1252][/us/stat/101/1252]; [Pub. L. 104–290, title I, § 106(a)][/us/pl/104/290/s106/a], Oct. 11, 1996, [110 Stat. 3424][/us/stat/110/3424]; [Pub. L. 105–353, title III, § 301(a)(1)][/us/pl/105/353/s301/a/1], Nov. 3, 1998, [112 Stat. 3235][/us/stat/112/3235]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 208(a)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–434; [Pub. L. 111–203, title VII, § 768(a)][/us/pl/111/203/s768/a], July 21, 2010, [124 Stat. 1800][/us/stat/124/1800]; [Pub. L. 112–106, title I][/us/pl/112/106], §§ 101(a), 105(a), Apr. 5, 2012, [126 Stat. 307][/us/stat/126/307], 310.)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 2, [48 Stat. 74][/us/stat/48/74]; [June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title II, § 201, [48 Stat. 905][/us/stat/48/905]; [Aug. 10, 1954, ch. 667][/us/act/1954-08-10/ch667], title I, §§ 1–4, [68 Stat. 683][/us/stat/68/683], 684; [Pub. L. 86–70][/us/pl/86/70], § 12(a), June 25, 1959, [73 Stat. 143][/us/stat/73/143]; [Pub. L. 86–624][/us/pl/86/624], § 7(a), July 12, 1960, [74 Stat. 412][/us/stat/74/412]; [Pub. L. 91–547][/us/pl/91/547], § 27(a), Dec. 14, 1970, [84 Stat. 1433][/us/stat/84/1433]; [Pub. L. 96–477, title VI][/us/pl/96/477/tVI], § 603, Oct. 21, 1980, [94 Stat. 2294][/us/stat/94/2294]; [Pub. L. 97–303][/us/pl/97/303], § 1, Oct. 13, 1982, [96 Stat. 1409][/us/stat/96/1409]; [Pub. L. 100–181, title II][/us/pl/100/181/tII], §§ 201, 202, Dec. 4, 1987, [101 Stat. 1252][/us/stat/101/1252]; [Pub. L. 104–290, title I][/us/pl/104/290/tI], § 106(a), Oct. 11, 1996, [110 Stat. 3424][/us/stat/110/3424]; [Pub. L. 105–353, title III][/us/pl/105/353/tIII], § 301(a)(1), Nov. 3, 1998, [112 Stat. 3235][/us/stat/112/3235]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 208(a)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–434; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 768(a), July 21, 2010, [124 Stat. 1800][/us/stat/124/1800]; [Pub. L. 112–106, title I][/us/pl/112/106/tI], §§ 101(a), 105(a), Apr. 5, 2012, [126 Stat. 307][/us/stat/126/307], 310.)
 
  __Amendment of Section__ 
 
@@ -95,29 +95,29 @@
 
  __Amendments__ 
 
-    2012—Subsec. (a)(3). [Pub. L. 112–106, § 105(a)][/us/pl/112/106/s105/a], inserted at end “The publication or distribution by a broker or dealer of a research report about an emerging growth company that is the subject of a proposed public offering of the common equity securities of such emerging growth company pursuant to a registration statement that the issuer proposes to file, or has filed, or that is effective shall be deemed for purposes of paragraph (10) of this subsection and [section 77e(c) of this title][/us/usc/t15/s77e/c] not to constitute an offer for sale or offer to sell a security, even if the broker or dealer is participating or will participate in the registered offering of the securities of the issuer. As used in this paragraph, the term ‘research report’ means a written, electronic, or oral communication that includes information, opinions, or recommendations with respect to securities of an issuer or an analysis of a security or an issuer, whether or not it provides information reasonably sufficient upon which to base an investment decision.”
+    2012—Subsec. (a)(3). [Pub. L. 112–106][/us/pl/112/106], § 105(a), inserted at end “The publication or distribution by a broker or dealer of a research report about an emerging growth company that is the subject of a proposed public offering of the common equity securities of such emerging growth company pursuant to a registration statement that the issuer proposes to file, or has filed, or that is effective shall be deemed for purposes of paragraph (10) of this subsection and [section 77e(c) of this title][/us/usc/t15/s77e/c] not to constitute an offer for sale or offer to sell a security, even if the broker or dealer is participating or will participate in the registered offering of the securities of the issuer. As used in this paragraph, the term ‘research report’ means a written, electronic, or oral communication that includes information, opinions, or recommendations with respect to securities of an issuer or an analysis of a security or an issuer, whether or not it provides information reasonably sufficient upon which to base an investment decision.”
 
-    Subsec. (a)(19). [Pub. L. 112–106, § 101(a)][/us/pl/112/106/s101/a], added par. (19).
+    Subsec. (a)(19). [Pub. L. 112–106][/us/pl/112/106], § 101(a), added par. (19).
 
-    2010—Subsec. (a)(1). [Pub. L. 111–203, § 768(a)(1)][/us/pl/111/203/s768/a/1], inserted “security-based swap,” after “security future,”.
+    2010—Subsec. (a)(1). [Pub. L. 111–203][/us/pl/111/203], § 768(a)(1), inserted “security-based swap,” after “security future,”.
 
-    Subsec. (a)(3). [Pub. L. 111–203, § 768(a)(2)][/us/pl/111/203/s768/a/2], inserted at end “Any offer or sale of a security-based swap by or on behalf of the issuer of the securities upon which such security-based swap is based or is referenced, an affiliate of the issuer, or an underwriter, shall constitute a contract for sale of, sale of, offer for sale, or offer to sell such securities.”
+    Subsec. (a)(3). [Pub. L. 111–203][/us/pl/111/203], § 768(a)(2), inserted at end “Any offer or sale of a security-based swap by or on behalf of the issuer of the securities upon which such security-based swap is based or is referenced, an affiliate of the issuer, or an underwriter, shall constitute a contract for sale of, sale of, offer for sale, or offer to sell such securities.”
 
-    Subsec. (a)(17), (18). [Pub. L. 111–203, § 768(a)(3)][/us/pl/111/203/s768/a/3], added pars. (17) and (18).
+    Subsec. (a)(17), (18). [Pub. L. 111–203][/us/pl/111/203], § 768(a)(3), added pars. (17) and (18).
 
-    2000—Subsec. (a)(1). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 208(a)(1)(A)\], inserted “security future,” after “treasury stock,”.
+    2000—Subsec. (a)(1). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 208(a)(1)(A)\], inserted “security future,” after “treasury stock,”.
 
-    Subsec. (a)(3). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 208(a)(1)(B)\], inserted at end “Any offer or sale of a security futures product by or on behalf of the issuer of the securities underlying the security futures product, an affiliate of the issuer, or an underwriter, shall constitute a contract for sale of, sale of, offer for sale, or offer to sell the underlying securities.”
+    Subsec. (a)(3). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 208(a)(1)(B)\], inserted at end “Any offer or sale of a security futures product by or on behalf of the issuer of the securities underlying the security futures product, an affiliate of the issuer, or an underwriter, shall constitute a contract for sale of, sale of, offer for sale, or offer to sell the underlying securities.”
 
-    Subsec. (a)(16). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 208(a)(1)(C)\], added par. (16).
+    Subsec. (a)(16). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 208(a)(1)(C)\], added par. (16).
 
     1998—Subsec. (a)(15)(i). [Pub. L. 105–353][/us/pl/105/353] made technical amendment to reference in original act which appears in text as reference to [section 77c(a)(2) of this title][/us/usc/t15/s77c/a/2] and inserted “of this subsection” after “paragraph (13)”.
 
     1996—[Pub. L. 104–290][/us/pl/104/290] designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-    1987—Par. (5). [Pub. L. 100–181, § 201][/us/pl/100/181/s201], substituted “Securities and Exchange Commission” for “Federal Trade Commission”.
+    1987—Par. (5). [Pub. L. 100–181][/us/pl/100/181], § 201, substituted “Securities and Exchange Commission” for “Federal Trade Commission”.
 
-    Par. (6). [Pub. L. 100–181, § 202][/us/pl/100/181/s202], struck out reference to Canal Zone.
+    Par. (6). [Pub. L. 100–181][/us/pl/100/181], § 202, struck out reference to Canal Zone.
 
     1982—Par. (1). [Pub. L. 97–303][/us/pl/97/303] inserted “any put, call, straddle, option, or privilege on any security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency,” after “mineral rights,”.
 
@@ -135,13 +135,13 @@
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–106, title I, § 101(d)][/us/pl/112/106/s101/d], Apr. 5, 2012, [126 Stat. 308][/us/stat/126/308], provided that: 
+[Pub. L. 112–106, title I][/us/pl/112/106/tI], § 101(d), Apr. 5, 2012, [126 Stat. 308][/us/stat/126/308], provided that: 
 
 > “Notwithstanding section 2(a)(19) of the Securities Act of 1933 \[[15 U.S.C. 77b(a)(19)][/us/usc/t15/s77b/a/19]\] and section 3(a)(80) of the Securities Exchange Act of 1934 \[[15 U.S.C. 78c(a)(80)][/us/usc/t15/s78c/a/80]\], an issuer shall not be an emerging growth company for purposes of such Acts \[[15 U.S.C. 77a][/us/usc/t15/s77a] et seq., 78a et seq.\] if the first sale of common equity securities of such issuer pursuant to an effective registration statement under the Securities Act of 1933 \[[15 U.S.C. 77a][/us/usc/t15/s77a] et seq.\] occurred on or before December 8, 2011.”
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–203, title VII, § 774][/us/pl/111/203/s774], July 21, 2010, [124 Stat. 1802][/us/stat/124/1802], provided that: 
+[Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 774, July 21, 2010, [124 Stat. 1802][/us/stat/124/1802], provided that: 
 
 > “Unless otherwise provided, the provisions of this subtitle \[subtitle B (§§ 761–774) of title VII of [Pub. L. 111–203][/us/pl/111/203], enacting subchapter II (§ 8341 et seq.) of chapter 109 and sections 78c–3 to 78c–5, 78j–2, 78m–1, and 78o–10 of this title, amending this section and sections 77b–1, 77e, 77q, 78c, 78c–1, 78f, 78i, 78j, 78m, 78o, 78p, 78q–1, 78t, 78u–1, 78u–2, 78bb, 78dd, 78mm, 80a–2, and 80b–2 of this title, and amending provisions set out as a note under [section 78c of this title][/us/usc/t15/s78c]\] shall take effect on the later of 360 days after the date of the enactment of this subtitle \[July 21, 2010\] or, to the extent a provision of this subtitle requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of this subtitle.”
 
@@ -151,7 +151,7 @@
 
  __Effective Date of 1954 Amendment__ 
 
-[Act Aug. 10, 1954, ch. 667, § 501][/us/act/1954-08-10/ch667/s501], [68 Stat. 689][/us/stat/68/689], provided that: 
+[Act Aug. 10, 1954, ch. 667][/us/act/1954-08-10/ch667], § 501, [68 Stat. 689][/us/stat/68/689], provided that: 
 
 > “This Act \[amending this section and sections 77c to 77e, 77j, 77l, 77q, 77v, 77ccc to 77fff, 77xxx, 78k, 78l, 80a–2 and 80a–24 of this title\] shall take effect sixty days after the date of its enactment \[Aug. 10, 1954\].”
 
@@ -161,7 +161,7 @@
 
  __Adjusting the Accredited Investor Standard__ 
 
-[Pub. L. 111–203, title IV, § 413][/us/pl/111/203/s413], July 21, 2010, [124 Stat. 1577][/us/stat/124/1577], provided that:
+[Pub. L. 111–203, title IV][/us/pl/111/203/tIV], § 413, July 21, 2010, [124 Stat. 1577][/us/stat/124/1577], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -215,27 +215,27 @@
 [/us/stat/48/905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F905
 [/us/act/1954-08-10/ch667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-10%2Fch667
 [/us/stat/68/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F683
-[/us/pl/86/70/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs12%2Fa
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F143
-[/us/pl/86/624/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs7%2Fa
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F412
-[/us/pl/91/547/s27/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs27%2Fa
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1433
-[/us/pl/96/477/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2Fs603
+[/us/pl/96/477/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2FtVI
 [/us/stat/94/2294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2294
-[/us/pl/97/303/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F303%2Fs1
+[/us/pl/97/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F303
 [/us/stat/96/1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1409
-[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtII
 [/us/stat/101/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1252
-[/us/pl/104/290/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs106%2Fa
+[/us/pl/104/290/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtI
 [/us/stat/110/3424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3424
-[/us/pl/105/353/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fa%2F1
+[/us/pl/105/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtIII
 [/us/stat/112/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3235
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/203/s768/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs768%2Fa
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1800
-[/us/pl/112/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106
+[/us/pl/112/106/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtI
 [/us/stat/126/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F307
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
@@ -246,43 +246,43 @@
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
 [/us/usc/t22/s1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1394
-[/us/pl/112/106/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs105%2Fa
+[/us/pl/112/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106
 [/us/usc/t15/s77e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77e%2Fc
-[/us/pl/112/106/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs101%2Fa
-[/us/pl/111/203/s768/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs768%2Fa%2F1
-[/us/pl/111/203/s768/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs768%2Fa%2F2
-[/us/pl/111/203/s768/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs768%2Fa%2F3
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/112/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
 [/us/usc/t15/s77c/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77c%2Fa%2F2
 [/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
-[/us/pl/100/181/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs201
-[/us/pl/100/181/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs202
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/97/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F303
 [/us/pl/96/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477
 [/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
-[/us/pl/112/106/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs101%2Fd
+[/us/pl/112/106/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtI
 [/us/stat/126/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F308
 [/us/usc/t15/s77b/a/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77b%2Fa%2F19
 [/us/usc/t15/s78c/a/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F80
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
-[/us/pl/111/203/s774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs774
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1802
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
 [/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/pl/91/547/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs30
 [/us/usc/t15/s80a–52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9352
-[/us/act/1954-08-10/ch667/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-10%2Fch667%2Fs501
+[/us/act/1954-08-10/ch667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-10%2Fch667
 [/us/stat/68/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F689
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t15/s78d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d
-[/us/pl/111/203/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs413
+[/us/pl/111/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIV
 [/us/stat/124/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1577
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 

@@ -17,7 +17,7 @@
 
     The several district courts of the United States are invested with jurisdiction, for cause shown, to prevent and restrain violations of this chapter upon the application of the Attorney General of the United States acting through the several United States attorneys in their several districts.
 
-([Pub. L. 89–92, § 11][/us/pl/89/92/s11], formerly § 10, July 27, 1965, [79 Stat. 284][/us/stat/79/284]; [Pub. L. 91–222, § 2][/us/pl/91/222/s2], Apr. 1, 1970, [84 Stat. 89][/us/stat/84/89]; renumbered § 11, [Pub. L. 98–474, § 5(a)][/us/pl/98/474/s5/a], Oct. 12, 1984, [98 Stat. 2203][/us/stat/98/2203].)
+([Pub. L. 89–92][/us/pl/89/92], § 11, formerly § 10, July 27, 1965, [79 Stat. 284][/us/stat/79/284]; [Pub. L. 91–222][/us/pl/91/222], § 2, Apr. 1, 1970, [84 Stat. 89][/us/stat/84/89]; renumbered § 11, [Pub. L. 98–474][/us/pl/98/474], § 5(a), Oct. 12, 1984, [98 Stat. 2203][/us/stat/98/2203].)
 
  __Prior Provisions__ 
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/89/92/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F92%2Fs11
+[/us/pl/89/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F92
 [/us/stat/79/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F284
-[/us/pl/91/222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222%2Fs2
+[/us/pl/91/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222
 [/us/stat/84/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F89
-[/us/pl/98/474/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F474%2Fs5%2Fa
+[/us/pl/98/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F474
 [/us/stat/98/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2203
 [/us/pl/89/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F92
 [/us/pl/98/474/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F474%2Fs5%2Fa

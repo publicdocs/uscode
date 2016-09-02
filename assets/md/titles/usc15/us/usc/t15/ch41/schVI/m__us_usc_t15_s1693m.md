@@ -63,11 +63,11 @@
 
         Without regard to the amount in controversy, any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, within one year from the date of the occurrence of the violation.
 
-([Pub. L. 90–321, title IX, § 916][/us/pl/90/321/s916], formerly § 915, as added [Pub. L. 95–630, title XX, § 2001][/us/pl/95/630/s2001], Nov. 10, 1978, [92 Stat. 3737][/us/stat/92/3737]; renumbered § 916, [Pub. L. 111–24, title IV, § 401(1)][/us/pl/111/24/s401/1], May 22, 2009, [123 Stat. 1751][/us/stat/123/1751]; amended [Pub. L. 111–203, title X, § 1084(1)][/us/pl/111/203/s1084/1], (4), July 21, 2010, [124 Stat. 2081][/us/stat/124/2081], 2082.)
+([Pub. L. 90–321, title IX][/us/pl/90/321/tIX], § 916, formerly § 915, as added [Pub. L. 95–630, title XX][/us/pl/95/630/tXX], § 2001, Nov. 10, 1978, [92 Stat. 3737][/us/stat/92/3737]; renumbered § 916, [Pub. L. 111–24, title IV][/us/pl/111/24/tIV], § 401(1), May 22, 2009, [123 Stat. 1751][/us/stat/123/1751]; amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1084(1), (4), July 21, 2010, [124 Stat. 2081][/us/stat/124/2081], 2082.)
 
  __References in Text__ 
 
-    [Section 1693n of this title][/us/usc/t15/s1693n], referred to in subsec. (d), was in the original a reference to [section 916 of Pub. L. 90–321][/us/pl/90/321/s916], and was translated as meaning [section 917 of Pub. L. 90–321][/us/pl/90/321/s917] to reflect the probable intent of Congress and the renumbering of [section 916 of Pub. L. 90–321][/us/pl/90/321/s916] as section 917 by [Pub. L. 111–24, title IV, § 401(1)][/us/pl/111/24/s401/1], May 22, 2009, [123 Stat. 1751][/us/stat/123/1751].
+    [Section 1693n of this title][/us/usc/t15/s1693n], referred to in subsec. (d), was in the original a reference to [section 916 of Pub. L. 90–321][/us/pl/90/321/s916], and was translated as meaning [section 917 of Pub. L. 90–321][/us/pl/90/321/s917] to reflect the probable intent of Congress and the renumbering of [section 916 of Pub. L. 90–321][/us/pl/90/321/s916] as section 917 by [Pub. L. 111–24, title IV][/us/pl/111/24/tIV], § 401(1), May 22, 2009, [123 Stat. 1751][/us/stat/123/1751].
 
  __Prior Provisions__ 
 
@@ -75,9 +75,9 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 1084(1)][/us/pl/111/203/s1084/1], which directed the substitution of “Bureau” for “Board” wherever appearing in section, was not executed in subsec. (d), which was the only place such term appeared, to reflect the probable intent of Congress and the amendment by [Pub. L. 111–203, § 1084(4)][/us/pl/111/203/s1084/4]. See below.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1084(1), which directed the substitution of “Bureau” for “Board” wherever appearing in section, was not executed in subsec. (d), which was the only place such term appeared, to reflect the probable intent of Congress and the amendment by [Pub. L. 111–203][/us/pl/111/203], § 1084(4). See below.
 
-    Subsec. (d). [Pub. L. 111–203, § 1084(4)][/us/pl/111/203/s1084/4], struck out “of Board or approval of duly authorized official or employee of Federal Reserve System” after “interpretation” in heading that had been supplied editorially and inserted “Bureau of Consumer Financial Protection or the” before “Federal Reserve System” in par. (1) and “Bureau or the” before “Board” wherever appearing.
+    Subsec. (d). [Pub. L. 111–203][/us/pl/111/203], § 1084(4), struck out “of Board or approval of duly authorized official or employee of Federal Reserve System” after “interpretation” in heading that had been supplied editorially and inserted “Bureau of Consumer Financial Protection or the” before “Federal Reserve System” in par. (1) and “Bureau or the” before “Board” wherever appearing.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -94,24 +94,24 @@
 [/us/usc/t15/s1693f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693f
 [/us/usc/t15/s1693h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693h
 [/us/usc/t15/s1693h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693h
-[/us/pl/90/321/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs916
-[/us/pl/95/630/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs2001
+[/us/pl/90/321/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIX
+[/us/pl/95/630/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXX
 [/us/stat/92/3737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3737
-[/us/pl/111/24/s401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs401%2F1
+[/us/pl/111/24/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtIV
 [/us/stat/123/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1751
-[/us/pl/111/203/s1084/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2081
 [/us/usc/t15/s1693n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693n
 [/us/pl/90/321/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs916
 [/us/pl/90/321/s917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs917
 [/us/pl/90/321/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs916
-[/us/pl/111/24/s401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs401%2F1
+[/us/pl/111/24/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtIV
 [/us/stat/123/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1751
 [/us/pl/90/321/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs916
 [/us/usc/t15/s1693n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693n
-[/us/pl/111/203/s1084/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F1
-[/us/pl/111/203/s1084/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F4
-[/us/pl/111/203/s1084/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F4
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

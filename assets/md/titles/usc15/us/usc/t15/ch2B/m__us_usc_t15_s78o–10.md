@@ -525,7 +525,7 @@
 
             (B) for any security-based swap dealer or major security-based swap participant to permit such a person, without the consent of the Commission, to become or remain a person associated with the security-based swap dealer or major security-based swap participant in contravention of such order, if such security-based swap dealer or major security-based swap participant knew, or in the exercise of reasonable care should have known, of such order.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 15F, as added [Pub. L. 111–203, title VII, § 764(a)][/us/pl/111/203/s764/a], July 21, 2010, [124 Stat. 1784][/us/stat/124/1784]; amended [Pub. L. 114–1, title III, § 302(b)][/us/pl/114/1/s302/b], Jan. 12, 2015, [129 Stat. 28][/us/stat/129/28].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 15F, as added [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 764(a), July 21, 2010, [124 Stat. 1784][/us/stat/124/1784]; amended [Pub. L. 114–1, title III][/us/pl/114/1/tIII], § 302(b), Jan. 12, 2015, [129 Stat. 28][/us/stat/129/28].)
 
  __References in Text__ 
 
@@ -565,9 +565,9 @@
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/111/203/s764/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs764%2Fa
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1784
-[/us/pl/114/1/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs302%2Fb
+[/us/pl/114/1/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2FtIII
 [/us/stat/129/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F28
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369

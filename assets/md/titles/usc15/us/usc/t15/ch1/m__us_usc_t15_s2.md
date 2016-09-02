@@ -17,7 +17,7 @@
 
     Every person who shall monopolize, or attempt to monopolize, or combine or conspire with any other person or persons, to monopolize any part of the trade or commerce among the several States, or with foreign nations, shall be deemed guilty of a felony, and, on conviction thereof, shall be punished by fine not exceeding $100,000,000 if a corporation, or, if any other person, $1,000,000, or by imprisonment not exceeding 10 years, or by both said punishments, in the discretion of the court.
 
-([July 2, 1890, ch. 647, § 2][/us/act/1890-07-02/ch647/s2], [26 Stat. 209][/us/stat/26/209]; [July 7, 1955, ch. 281][/us/act/1955-07-07/ch281], [69 Stat. 282][/us/stat/69/282]; [Pub. L. 93–528, § 3][/us/pl/93/528/s3], Dec. 21, 1974, [88 Stat. 1708][/us/stat/88/1708]; [Pub. L. 101–588, § 4(b)][/us/pl/101/588/s4/b], Nov. 16, 1990, [104 Stat. 2880][/us/stat/104/2880]; [Pub. L. 108–237, title II, § 215(b)][/us/pl/108/237/s215/b], June 22, 2004, [118 Stat. 668][/us/stat/118/668].)
+([July 2, 1890, ch. 647][/us/act/1890-07-02/ch647], § 2, [26 Stat. 209][/us/stat/26/209]; [July 7, 1955, ch. 281][/us/act/1955-07-07/ch281], [69 Stat. 282][/us/stat/69/282]; [Pub. L. 93–528][/us/pl/93/528], § 3, Dec. 21, 1974, [88 Stat. 1708][/us/stat/88/1708]; [Pub. L. 101–588][/us/pl/101/588], § 4(b), Nov. 16, 1990, [104 Stat. 2880][/us/stat/104/2880]; [Pub. L. 108–237, title II][/us/pl/108/237/tII], § 215(b), June 22, 2004, [118 Stat. 668][/us/stat/118/668].)
 
  __Amendments__ 
 
@@ -36,15 +36,15 @@
 ----------
 ----------
 
-[/us/act/1890-07-02/ch647/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-02%2Fch647%2Fs2
+[/us/act/1890-07-02/ch647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-02%2Fch647
 [/us/stat/26/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F209
 [/us/act/1955-07-07/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-07%2Fch281
 [/us/stat/69/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F282
-[/us/pl/93/528/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F528%2Fs3
+[/us/pl/93/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F528
 [/us/stat/88/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1708
-[/us/pl/101/588/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F588%2Fs4%2Fb
+[/us/pl/101/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F588
 [/us/stat/104/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2880
-[/us/pl/108/237/s215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2Fs215%2Fb
+[/us/pl/108/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2FtII
 [/us/stat/118/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F668
 [/us/pl/108/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237
 [/us/pl/101/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F588

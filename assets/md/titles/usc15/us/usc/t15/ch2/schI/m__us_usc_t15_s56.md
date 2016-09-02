@@ -87,7 +87,7 @@
 
             The authority provided by this subsection is in addition to any other authority of the Commission or the Attorney General.
 
-([Sept. 26, 1914, ch. 311, § 16][/us/act/1914-09-26/ch311/s16], as added [Mar. 21, 1938, ch. 49, § 4][/us/act/1938-03-21/ch49/s4], [52 Stat. 114][/us/stat/52/114]; amended [Pub. L. 93–153, title IV, § 408(g)][/us/pl/93/153/s408/g], Nov. 16, 1973, [87 Stat. 592][/us/stat/87/592]; [Pub. L. 93–637, title II, § 204(a)][/us/pl/93/637/s204/a], Jan. 4, 1975, [88 Stat. 2199][/us/stat/88/2199]; [Pub. L. 109–455][/us/pl/109/455], §§ 5, 7(b), 13, Dec. 22, 2006, [120 Stat. 3375][/us/stat/120/3375], 3379, 3382; [Pub. L. 112–203, § 1][/us/pl/112/203/s1], Dec. 4, 2012, [126 Stat. 1484][/us/stat/126/1484].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 16, as added [Mar. 21, 1938, ch. 49][/us/act/1938-03-21/ch49], § 4, [52 Stat. 114][/us/stat/52/114]; amended [Pub. L. 93–153, title IV][/us/pl/93/153/tIV], § 408(g), Nov. 16, 1973, [87 Stat. 592][/us/stat/87/592]; [Pub. L. 93–637, title II][/us/pl/93/637/tII], § 204(a), Jan. 4, 1975, [88 Stat. 2199][/us/stat/88/2199]; [Pub. L. 109–455][/us/pl/109/455], §§ 5, 7(b), 13, Dec. 22, 2006, [120 Stat. 3375][/us/stat/120/3375], 3379, 3382; [Pub. L. 112–203][/us/pl/112/203], § 1, Dec. 4, 2012, [126 Stat. 1484][/us/stat/126/1484].)
 
  __Amendment of Section__ 
 
@@ -95,11 +95,11 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–203, § 1][/us/pl/112/203/s1], amended [Pub. L. 109–455, § 13][/us/pl/109/455/s13]. See 2006 Amendment notes below.
+    2012—[Pub. L. 112–203][/us/pl/112/203], § 1, amended [Pub. L. 109–455][/us/pl/109/455], § 13. See 2006 Amendment notes below.
 
-    2006—Subsec. (a)(2)(E). [Pub. L. 109–455, § 7(b)][/us/pl/109/455/s7/b], which added subpar. (E) reading “under [section 57b–2a of this title][/us/usc/t15/s57b–2a];”, was repealed by [Pub. L. 109–455, § 13][/us/pl/109/455/s13], as amended by [Pub. L. 112–203, § 1][/us/pl/112/203/s1]. See Termination Date of 2006 Amendment note below.
+    2006—Subsec. (a)(2)(E). [Pub. L. 109–455][/us/pl/109/455], § 7(b), which added subpar. (E) reading “under [section 57b–2a of this title][/us/usc/t15/s57b–2a];”, was repealed by [Pub. L. 109–455][/us/pl/109/455], § 13, as amended by [Pub. L. 112–203][/us/pl/112/203], § 1. See Termination Date of 2006 Amendment note below.
 
-    Subsec. (c). [Pub. L. 109–455, § 5][/us/pl/109/455/s5], which added subsec. (c) relating to attorneys used and money expended for foreign litigation, was repealed by [Pub. L. 109–455, § 13][/us/pl/109/455/s13], as amended by [Pub. L. 112–203, § 1][/us/pl/112/203/s1]. See Termination Date of 2006 Amendment note below.
+    Subsec. (c). [Pub. L. 109–455][/us/pl/109/455], § 5, which added subsec. (c) relating to attorneys used and money expended for foreign litigation, was repealed by [Pub. L. 109–455][/us/pl/109/455], § 13, as amended by [Pub. L. 112–203][/us/pl/112/203], § 1. See Termination Date of 2006 Amendment note below.
 
     1975—[Pub. L. 93–637][/us/pl/93/637] substituted provisions authorizing the Commission at its election to appear in court by its own name and designate its attorneys for such purpose, for provisions relating to the certification of facts by the Commission to the Attorney General who brought the appropriate proceedings, or, after compliance with [section 45(m) of this title][/us/usc/t15/s45/m], itself brought the appropriate proceedings.
 
@@ -111,7 +111,7 @@
 
  __Effective Date of 1975 Amendment__ 
 
-[Pub. L. 93–637, title II, § 204(c)][/us/pl/93/637/s204/c], Jan. 4, 1975, [88 Stat. 2200][/us/stat/88/2200], provided that: 
+[Pub. L. 93–637, title II][/us/pl/93/637/tII], § 204(c), Jan. 4, 1975, [88 Stat. 2200][/us/stat/88/2200], provided that: 
 
 > “The amendment and repeal made by this section \[amending this section and repealing [section 45(m) of this title][/us/usc/t15/s45/m]\] shall not apply to any civil action commenced before the date of enactment of this Act \[Jan. 4, 1975\].”
 
@@ -133,27 +133,27 @@
 [/us/usc/t15/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs46
 [/us/usc/t15/s57b–2a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57b%E2%80%932a
 [/us/usc/t31/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1304
-[/us/act/1914-09-26/ch311/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs16
-[/us/act/1938-03-21/ch49/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-03-21%2Fch49%2Fs4
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
+[/us/act/1938-03-21/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-03-21%2Fch49
 [/us/stat/52/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F114
-[/us/pl/93/153/s408/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F153%2Fs408%2Fg
+[/us/pl/93/153/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F153%2FtIV
 [/us/stat/87/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F592
-[/us/pl/93/637/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs204%2Fa
+[/us/pl/93/637/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2FtII
 [/us/stat/88/2199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2199
 [/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
 [/us/stat/120/3375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3375
-[/us/pl/112/203/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203%2Fs1
+[/us/pl/112/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203
 [/us/stat/126/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1484
 [/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13
-[/us/pl/112/203/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203%2Fs1
-[/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13
-[/us/pl/109/455/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs7%2Fb
+[/us/pl/112/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
 [/us/usc/t15/s57b–2a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57b%E2%80%932a
-[/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13
-[/us/pl/112/203/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203%2Fs1
-[/us/pl/109/455/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs5
-[/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13
-[/us/pl/112/203/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203%2Fs1
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
+[/us/pl/112/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
+[/us/pl/112/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203
 [/us/pl/93/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637
 [/us/usc/t15/s45/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45%2Fm
 [/us/pl/93/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F153
@@ -163,7 +163,7 @@
 [/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
 [/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13
 [/us/usc/t15/s44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs44
-[/us/pl/93/637/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs204%2Fc
+[/us/pl/93/637/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2FtII
 [/us/stat/88/2200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2200
 [/us/usc/t15/s45/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45%2Fm
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264

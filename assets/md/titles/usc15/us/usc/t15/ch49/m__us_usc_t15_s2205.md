@@ -17,7 +17,7 @@
 
     The Administrator is authorized to take such steps as the Administrator considers appropriate to educate the public and overcome public indifference as to fire, fire prevention, and individual preparedness. Such steps may include, but are not limited to, publications, audiovisual presentations, and demonstrations. Such public education efforts shall include programs to provide specialized information for those groups of individuals who are particularly vulnerable to fire hazards, such as the young and the elderly. The Administrator shall sponsor and encourage research, testing, and experimentation to determine the most effective means of such public education.
 
-([Pub. L. 93–498, § 6][/us/pl/93/498/s6], Oct. 29, 1974, [88 Stat. 1537][/us/stat/88/1537]; [Pub. L. 112–239, div. A, title XVIII, § 1813][/us/pl/112/239/s1813], Jan. 2, 2013, [126 Stat. 2117][/us/stat/126/2117].)
+([Pub. L. 93–498][/us/pl/93/498], § 6, Oct. 29, 1974, [88 Stat. 1537][/us/stat/88/1537]; [Pub. L. 112–239, div. A, title XVIII][/us/pl/112/239/dA/tXVIII], § 1813, Jan. 2, 2013, [126 Stat. 2117][/us/stat/126/2117].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/93/498/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs6
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1537
-[/us/pl/112/239/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1813
+[/us/pl/112/239/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVIII
 [/us/stat/126/2117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2117
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1

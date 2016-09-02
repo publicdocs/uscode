@@ -61,7 +61,7 @@
 
         The court issuing such an order shall give prompt notification of the order to the other courts in which the civil actions consolidated under the order are pending.
 
-([Pub. L. 94–469, title I, § 20][/us/pl/94/469/s20], Oct. 11, 1976, [90 Stat. 2041][/us/stat/90/2041]; renumbered title I and amended [Pub. L. 99–519, § 3(b)(3)][/us/pl/99/519/s3/b/3], (c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; [Pub. L. 102–550, title X, § 1021(b)(9)][/us/pl/102/550/s1021/b/9], Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923].)
+([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 20, Oct. 11, 1976, [90 Stat. 2041][/us/stat/90/2041]; renumbered title I and amended [Pub. L. 99–519][/us/pl/99/519], § 3(b)(3), (c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(b)(9), Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923].)
 
  __Amendments__ 
 
@@ -79,11 +79,11 @@
 [/us/usc/t15/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2604
 [/us/usc/t15/s2615/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2615%2Fa%2F2
 [/us/usc/t15/s2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2606
-[/us/pl/94/469/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs20
+[/us/pl/94/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtI
 [/us/stat/90/2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2041
-[/us/pl/99/519/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs3%2Fb%2F3
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
-[/us/pl/102/550/s1021/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1021%2Fb%2F9
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3923
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519

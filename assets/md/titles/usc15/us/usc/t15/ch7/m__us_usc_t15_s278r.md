@@ -65,7 +65,7 @@
 
         In carrying out this section, the Director shall run a single pilot competition to solicit and make awards. Each award shall be for a 3-year period.
 
-([Mar. 3, 1901, ch. 872, § 33][/us/act/1901-03-03/ch872/s33], as added [Pub. L. 110–69, title III, § 3007(2)][/us/pl/110/69/s3007/2], Aug. 9, 2007, [121 Stat. 591][/us/stat/121/591].)
+([Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 33, as added [Pub. L. 110–69, title III][/us/pl/110/69/tIII], § 3007(2), Aug. 9, 2007, [121 Stat. 591][/us/stat/121/591].)
 
 ----------
 
@@ -74,8 +74,8 @@
 ----------
 ----------
 
-[/us/act/1901-03-03/ch872/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs33
-[/us/pl/110/69/s3007/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3007%2F2
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
+[/us/pl/110/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIII
 [/us/stat/121/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F591
 
 

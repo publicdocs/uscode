@@ -31,7 +31,7 @@
 
             (B) review the research activities of each selected applicant, and the selected applicant’s management plan, and report its findings and recommendations to the Secretary.
 
-([Pub. L. 101–425, § 7][/us/pl/101/425/s7], Oct. 15, 1990, [104 Stat. 918][/us/stat/104/918].)
+([Pub. L. 101–425][/us/pl/101/425], § 7, Oct. 15, 1990, [104 Stat. 918][/us/stat/104/918].)
 
  __Termination of Advisory Boards__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t15/s5304/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5304%2Fd
-[/us/pl/101/425/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F425%2Fs7
+[/us/pl/101/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F425
 [/us/stat/104/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F918
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

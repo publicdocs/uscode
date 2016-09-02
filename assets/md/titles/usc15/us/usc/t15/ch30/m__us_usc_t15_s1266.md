@@ -17,7 +17,7 @@
 
     Before any violation of this chapter is reported by the Commission to any United States attorney for institution of a criminal proceeding, the person against whom such proceeding is contemplated shall be given appropriate notice and an opportunity to present his views, either orally or in writing, with regard to such contemplated proceeding.
 
-([Pub. L. 86–613, § 7][/us/pl/86/613/s7], July 12, 1960, [74 Stat. 377][/us/stat/74/377]; [Pub. L. 110–314, title II, § 204(b)(4)(B)][/us/pl/110/314/s204/b/4/B], Aug. 14, 2008, [122 Stat. 3041][/us/stat/122/3041].)
+([Pub. L. 86–613][/us/pl/86/613], § 7, July 12, 1960, [74 Stat. 377][/us/stat/74/377]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 204(b)(4)(B), Aug. 14, 2008, [122 Stat. 3041][/us/stat/122/3041].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/86/613/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs7
+[/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/stat/74/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F377
-[/us/pl/110/314/s204/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FB
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3041
 [/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 

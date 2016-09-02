@@ -47,13 +47,13 @@
 
         It is the sense of the Congress that a boxing commission should, upon issuing an identification card to a boxer under subsection (b)(1), make a health and safety disclosure to that boxer as that commission considers appropriate. The health and safety disclosure should include the health and safety risks associated with boxing, and, in particular, the risk and frequency of brain injury and the advisability that a boxer periodically undergo medical procedures designed to detect brain injury.
 
-([Pub. L. 104–272, § 6][/us/pl/104/272/s6], Oct. 9, 1996, [110 Stat. 3310][/us/stat/110/3310]; [Pub. L. 106–210, § 7(c)][/us/pl/106/210/s7/c], (f), May 26, 2000, [114 Stat. 328][/us/stat/114/328].)
+([Pub. L. 104–272][/us/pl/104/272], § 6, Oct. 9, 1996, [110 Stat. 3310][/us/stat/110/3310]; [Pub. L. 106–210][/us/pl/106/210], § 7(c), (f), May 26, 2000, [114 Stat. 328][/us/stat/114/328].)
 
  __Amendments__ 
 
-    2000—Subsec. (b)(2). [Pub. L. 106–210, § 7(c)][/us/pl/106/210/s7/c], substituted “4 years” for “2 years”.
+    2000—Subsec. (b)(2). [Pub. L. 106–210][/us/pl/106/210], § 7(c), substituted “4 years” for “2 years”.
 
-    Subsec. (c). [Pub. L. 106–210, § 7(f)][/us/pl/106/210/s7/f], added subsec. (c).
+    Subsec. (c). [Pub. L. 106–210][/us/pl/106/210], § 7(f), added subsec. (c).
 
 ----------
 
@@ -62,11 +62,11 @@
 ----------
 ----------
 
-[/us/pl/104/272/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs6
+[/us/pl/104/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272
 [/us/stat/110/3310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3310
-[/us/pl/106/210/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs7%2Fc
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 [/us/stat/114/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F328
-[/us/pl/106/210/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs7%2Fc
-[/us/pl/106/210/s7/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs7%2Ff
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 
 

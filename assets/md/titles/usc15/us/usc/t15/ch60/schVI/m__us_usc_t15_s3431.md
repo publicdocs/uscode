@@ -93,7 +93,7 @@
 
             For purposes of sections 4 and 5 of the Natural Gas Act \[[15 U.S.C. 717c][/us/usc/t15/s717c], 717d\], the Commission may not deny any interstate pipeline recovery of any amount paid with respect to any purchase of natural gas if, under subsection (b) of this section, such amount is deemed to be just and reasonable for purposes of sections 4 and 5 of such Act, except to the extent the Commission determines that the amount paid was excessive due to fraud, abuse, or similar grounds.
 
-([Pub. L. 95–621, title VI, § 601][/us/pl/95/621/s601], Nov. 9, 1978, [92 Stat. 3409][/us/stat/92/3409]; [Pub. L. 101–60, § 3(a)(7)][/us/pl/101/60/s3/a/7], (b)(7), July 26, 1989, [103 Stat. 158][/us/stat/103/158], 159.)
+([Pub. L. 95–621, title VI][/us/pl/95/621/tVI], § 601, Nov. 9, 1978, [92 Stat. 3409][/us/stat/92/3409]; [Pub. L. 101–60][/us/pl/101/60], § 3(a)(7), (b)(7), July 26, 1989, [103 Stat. 158][/us/stat/103/158], 159.)
 
  __References in Text__ 
 
@@ -101,27 +101,27 @@
 
  __Amendments__ 
 
-    1989—Subsec. (a)(1)(A). [Pub. L. 101–60, § 3(b)(7)(A)][/us/pl/101/60/s3/b/7/A], in heading substituted “Application to first sales” for “Natural gas not committed or dedicated” and amended text generally. Prior to amendment, text read as follows: “For purposes of section 1(b) of the Natural Gas Act, effective on the first day of the first month beginning after November 9, 1978, the provisions of the Natural Gas Act and the jurisdiction of the Commission under such Act shall not apply to natural gas which was not committed or dedicated to interstate commerce as of November 8, 1978, solely by reason of any first sale of such natural gas.”
+    1989—Subsec. (a)(1)(A). [Pub. L. 101–60][/us/pl/101/60], § 3(b)(7)(A), in heading substituted “Application to first sales” for “Natural gas not committed or dedicated” and amended text generally. Prior to amendment, text read as follows: “For purposes of section 1(b) of the Natural Gas Act, effective on the first day of the first month beginning after November 9, 1978, the provisions of the Natural Gas Act and the jurisdiction of the Commission under such Act shall not apply to natural gas which was not committed or dedicated to interstate commerce as of November 8, 1978, solely by reason of any first sale of such natural gas.”
 
-    Subsec. (a)(1)(B). [Pub. L. 101–60, § 3(b)(7)(B)][/us/pl/101/60/s3/b/7/B], (C), redesignated subpar. (C) as (B) and struck out former subpar. (B) which related to committed or dedicated natural gas which was high-cost natural gas, new natural gas, or natural gas produced from any new, onshore production well.
+    Subsec. (a)(1)(B). [Pub. L. 101–60][/us/pl/101/60], § 3(b)(7)(B), (C), redesignated subpar. (C) as (B) and struck out former subpar. (B) which related to committed or dedicated natural gas which was high-cost natural gas, new natural gas, or natural gas produced from any new, onshore production well.
 
-    Subsec. (a)(1)(C). [Pub. L. 101–60, § 3(b)(7)(C)][/us/pl/101/60/s3/b/7/C], (D), redesignated subpar. (D) as (C) and substituted “subparagraph (A) or (B)” for “subparagraph (A), (B), or (C)”. Former subpar. (C) redesignated (B).
+    Subsec. (a)(1)(C). [Pub. L. 101–60][/us/pl/101/60], § 3(b)(7)(C), (D), redesignated subpar. (D) as (C) and substituted “subparagraph (A) or (B)” for “subparagraph (A), (B), or (C)”. Former subpar. (C) redesignated (B).
 
-    Subsec. (a)(1)(D). [Pub. L. 101–60, § 3(b)(7)(C)][/us/pl/101/60/s3/b/7/C], redesignated subpar. (D) as (C).
+    Subsec. (a)(1)(D). [Pub. L. 101–60][/us/pl/101/60], § 3(b)(7)(C), redesignated subpar. (D) as (C).
 
-    Subsec. (a)(1)(E). [Pub. L. 101–60, § 3(b)(7)(B)][/us/pl/101/60/s3/b/7/B], struck out subpar. (E), “Certain additional natural gas”, which read as follows: “For purposes of section 1(b) of the Natural Gas Act, the provisions of the Natural Gas Act and the jurisdiction of the Commission under such Act shall not apply solely by reason of any first sale of natural gas which is committed or dedicated to interstate commerce as of July 25, 1989, and which is not subject to a maximum lawful price under part A of subchapter I of this chapter by reason of [section 3331(f) of this title][/us/usc/t15/s3331/f], effective as of the date such gas ceases to be subject to such maximum lawful price.”
+    Subsec. (a)(1)(E). [Pub. L. 101–60][/us/pl/101/60], § 3(b)(7)(B), struck out subpar. (E), “Certain additional natural gas”, which read as follows: “For purposes of section 1(b) of the Natural Gas Act, the provisions of the Natural Gas Act and the jurisdiction of the Commission under such Act shall not apply solely by reason of any first sale of natural gas which is committed or dedicated to interstate commerce as of July 25, 1989, and which is not subject to a maximum lawful price under part A of subchapter I of this chapter by reason of [section 3331(f) of this title][/us/usc/t15/s3331/f], effective as of the date such gas ceases to be subject to such maximum lawful price.”
 
-    [Pub. L. 101–60, § 3(a)(7)(A)][/us/pl/101/60/s3/a/7/A], substituted “Certain additional natural gas” for “Alaskan natural gas” in heading and amended text generally. Prior to amendment, text read as follows: “Subparagraph (B)(ii) and (iii) shall not apply with respect to natural gas produced from the Prudhoe Bay unit of Alaska and transported through the transportation system approved under the Alaska Natural Gas Transportation Act of 1976.”
+    [Pub. L. 101–60][/us/pl/101/60], § 3(a)(7)(A), substituted “Certain additional natural gas” for “Alaskan natural gas” in heading and amended text generally. Prior to amendment, text read as follows: “Subparagraph (B)(ii) and (iii) shall not apply with respect to natural gas produced from the Prudhoe Bay unit of Alaska and transported through the transportation system approved under the Alaska Natural Gas Transportation Act of 1976.”
 
-    Subsec. (b)(1)(A). [Pub. L. 101–60, § 3(b)(7)(E)][/us/pl/101/60/s3/b/7/E], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Subject to paragraph (4), for purposes of sections 4 and 5 of the Natural Gas Act, any amount paid in any first sale of natural gas shall be deemed to be just and reasonable if—
+    Subsec. (b)(1)(A). [Pub. L. 101–60][/us/pl/101/60], § 3(b)(7)(E), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Subject to paragraph (4), for purposes of sections 4 and 5 of the Natural Gas Act, any amount paid in any first sale of natural gas shall be deemed to be just and reasonable if—
 
     “(i) such amount does not exceed the applicable maximum lawful price established under subchapter I of this chapter; or
 
     “(ii) there is no applicable maximum lawful price solely by reason of the elimination of price controls pursuant to part B of subchapter I of this chapter.”
 
-    Subsec. (b)(1)(D). [Pub. L. 101–60, § 3(b)(7)(F)][/us/pl/101/60/s3/b/7/F], struck out before period at end “if such amount does not exceed the applicable maximum lawful price established under subchapter I of this chapter”.
+    Subsec. (b)(1)(D). [Pub. L. 101–60][/us/pl/101/60], § 3(b)(7)(F), struck out before period at end “if such amount does not exceed the applicable maximum lawful price established under subchapter I of this chapter”.
 
-    Subsec. (c)(2). [Pub. L. 101–60, § 3(a)(7)(B)][/us/pl/101/60/s3/a/7/B], substituted “purchase of natural gas if, under subsection (b) of this section, such amount is deemed to be just and reasonable for purposes of sections 4 and 5 of such Act,” for “purchase of natural gas if—
+    Subsec. (c)(2). [Pub. L. 101–60][/us/pl/101/60], § 3(a)(7)(B), substituted “purchase of natural gas if, under subsection (b) of this section, such amount is deemed to be just and reasonable for purposes of sections 4 and 5 of such Act,” for “purchase of natural gas if—
 
     “(A) under subsection (b) of this section, such amount is deemed to be just and reasonable for purposes of sections 4 and 5 of such Act, and
 
@@ -162,23 +162,23 @@
 [/us/usc/t15/s3371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3371%2Fa
 [/us/usc/t15/s717f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717f
 [/us/usc/t15/s717c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717c
-[/us/pl/95/621/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs601
+[/us/pl/95/621/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2FtVI
 [/us/stat/92/3409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3409
-[/us/pl/101/60/s3/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fa%2F7
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
 [/us/stat/103/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F158
 [/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F821
 [/us/usc/t15/s717w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717w
-[/us/pl/101/60/s3/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fb%2F7%2FA
-[/us/pl/101/60/s3/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fb%2F7%2FB
-[/us/pl/101/60/s3/b/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fb%2F7%2FC
-[/us/pl/101/60/s3/b/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fb%2F7%2FC
-[/us/pl/101/60/s3/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fb%2F7%2FB
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
 [/us/usc/t15/s3331/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3331%2Ff
-[/us/pl/101/60/s3/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fa%2F7%2FA
-[/us/pl/101/60/s3/b/7/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fb%2F7%2FE
-[/us/pl/101/60/s3/b/7/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fb%2F7%2FF
-[/us/pl/101/60/s3/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fa%2F7%2FB
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
 [/us/usc/t15/s3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3341
 [/us/usc/t15/s3342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3342
 [/us/pl/101/60/s3/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fb%2F7

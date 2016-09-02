@@ -33,7 +33,7 @@
 
             As soon as practicable after the close of each fiscal year, SIPC shall submit to the Commission a written report relative to the conduct of its business, and the exercise of the other rights and powers granted by this chapter, during such fiscal year. Such report shall include financial statements setting forth the financial position of SIPC at the end of such fiscal year and the results of its operations (including the source and application of its funds) for such fiscal year. The financial statements so included shall be examined by an independent public accountant or firm of independent public accountants, selected by SIPC and satisfactory to the Commission, and shall be accompanied by the report thereon of such accountant or firm. The Commission shall transmit such report to the President and the Congress with such comment thereon as the Commission may deem appropriate.
 
-([Pub. L. 91–598, § 11][/us/pl/91/598/s11], formerly § 7, Dec. 30, 1970, [84 Stat. 1652][/us/stat/84/1652], 1653; renumbered § 11 and amended [Pub. L. 95–283][/us/pl/95/283], §§ 9, 10, May 21, 1978, [92 Stat. 260][/us/stat/92/260], 268.)
+([Pub. L. 91–598][/us/pl/91/598], § 11, formerly § 7, Dec. 30, 1970, [84 Stat. 1652][/us/stat/84/1652], 1653; renumbered § 11 and amended [Pub. L. 95–283][/us/pl/95/283], §§ 9, 10, May 21, 1978, [92 Stat. 260][/us/stat/92/260], 268.)
 
  __References in Text__ 
 
@@ -64,7 +64,7 @@
 
 [/us/usc/t15/s78iii/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78iii%2Ff
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/91/598/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598%2Fs11
+[/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1652
 [/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/stat/92/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F260

@@ -27,7 +27,7 @@
 
     (5) the term “approved transportation system” means the system for the transportation of Alaska natural gas designated by the President pursuant to section 719e(a) or 719f(b) of this title and approved by joint resolution of the Congress pursuant to [section 719f of this title][/us/usc/t15/s719f].
 
-([Pub. L. 94–586, § 4][/us/pl/94/586/s4], Oct. 22, 1976, [90 Stat. 2904][/us/stat/90/2904].)
+([Pub. L. 94–586][/us/pl/94/586], § 4, Oct. 22, 1976, [90 Stat. 2904][/us/stat/90/2904].)
 
  __Transfer of Functions__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t15/s719f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719f
-[/us/pl/94/586/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586%2Fs4
+[/us/pl/94/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586
 [/us/stat/90/2904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2904
 
 

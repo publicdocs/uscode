@@ -67,7 +67,7 @@
 
         For purposes of this section, providing insurance (including reinsurance) outside the United States that insures, guarantees, or indemnifies insurance products provided in a State, or that indemnifies an insurance company with regard to insurance products provided in a State, shall be considered to be providing insurance as principal in that State.
 
-([Pub. L. 106–102, title III, § 302][/us/pl/106/102/s302], Nov. 12, 1999, [113 Stat. 1407][/us/stat/113/1407].)
+([Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 302, Nov. 12, 1999, [113 Stat. 1407][/us/stat/113/1407].)
 
 ----------
 
@@ -82,7 +82,7 @@
 [/us/usc/t26/s7702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7702
 [/us/usc/t26/s832/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs832%2Fb%2F5
 [/us/usc/t26/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs72
-[/us/pl/106/102/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs302
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1407
 
 

@@ -17,7 +17,7 @@
 
     In supervising nonregistered public accounting firms and their associated persons, appropriate State regulatory authorities should make an independent determination of the proper standards applicable, particularly taking into consideration the size and nature of the business of the accounting firms they supervise and the size and nature of the business of the clients of those firms. The standards applied by the Board under this Act should not be presumed to be applicable for purposes of this section for small and medium sized nonregistered public accounting firms.
 
-([Pub. L. 107–204, title II, § 209][/us/pl/107/204/s209], July 30, 2002, [116 Stat. 775][/us/stat/116/775].)
+([Pub. L. 107–204, title II][/us/pl/107/204/tII], § 209, July 30, 2002, [116 Stat. 775][/us/stat/116/775].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/204/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs209
+[/us/pl/107/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtII
 [/us/stat/116/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F775
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/stat/116/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F745

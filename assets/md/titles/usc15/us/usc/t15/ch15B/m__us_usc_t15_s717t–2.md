@@ -55,7 +55,7 @@
 
         (2) Paragraph (1) shall not apply in any case in which the Commission finds that a seller that has entered into a contract for the transportation or sale of natural gas subject to the jurisdiction of the Commission has engaged in fraudulent market manipulation activities materially affecting the contract in violation of [section 717c–1 of this title][/us/usc/t15/s717c–1].
 
-([June 21, 1938, ch. 556, § 23][/us/act/1938-06-21/ch556/s23], as added [Pub. L. 109–58, title III, § 316][/us/pl/109/58/s316], Aug. 8, 2005, [119 Stat. 691][/us/stat/119/691].)
+([June 21, 1938, ch. 556][/us/act/1938-06-21/ch556], § 23, as added [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 316, Aug. 8, 2005, [119 Stat. 691][/us/stat/119/691].)
 
  __References in Text__ 
 
@@ -75,8 +75,8 @@
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/usc/t15/s717t–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717t%E2%80%931%2Fb
 [/us/usc/t15/s717c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717c%E2%80%931
-[/us/act/1938-06-21/ch556/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556%2Fs23
-[/us/pl/109/58/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs316
+[/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F691
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998

@@ -37,7 +37,7 @@
 
         (3) to require the Administrator to conduct a study to find out the extent of the danger to human health posed by asbestos in public and commercial buildings and the means to respond to any such danger.
 
-([Pub. L. 94–469, title II, § 201][/us/pl/94/469/s201], as added [Pub. L. 99–519, § 2][/us/pl/99/519/s2], Oct. 22, 1986, [100 Stat. 2970][/us/stat/100/2970].)
+([Pub. L. 94–469, title II][/us/pl/94/469/tII], § 201, as added [Pub. L. 99–519][/us/pl/99/519], § 2, Oct. 22, 1986, [100 Stat. 2970][/us/stat/100/2970].)
 
 ----------
 
@@ -46,8 +46,8 @@
 ----------
 ----------
 
-[/us/pl/94/469/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs201
-[/us/pl/99/519/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs2
+[/us/pl/94/469/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtII
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2970
 
 

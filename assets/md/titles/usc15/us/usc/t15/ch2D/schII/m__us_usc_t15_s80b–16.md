@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 216, [54 Stat. 857][/us/stat/54/857], which required the Securities and Exchange Commission to submit an annual report to Congress on the work of the Commission, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 191 of House Document No. 103–7.
+    Section, [act Aug. 22, 1940, ch. 686, title II][/us/act/1940-08-22/ch686/tII], § 216, [54 Stat. 857][/us/stat/54/857], which required the Securities and Exchange Commission to submit an annual report to Congress on the work of the Commission, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 191 of House Document No. 103–7.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
+[/us/act/1940-08-22/ch686/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686%2FtII
 [/us/stat/54/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F857
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

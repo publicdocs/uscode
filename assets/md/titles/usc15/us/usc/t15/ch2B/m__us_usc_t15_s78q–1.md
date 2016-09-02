@@ -257,7 +257,7 @@
 
         The Commission may conform the core principles established in this section to reflect evolving United States and international standards.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 17A, as added [Pub. L. 94–29, § 15][/us/pl/94/29/s15], June 4, 1975, [89 Stat. 141][/us/stat/89/141]; amended [Pub. L. 100–181, title III, § 322][/us/pl/100/181/s322], Dec. 4, 1987, [101 Stat. 1257][/us/stat/101/1257]; [Pub. L. 101–429, title II, § 206][/us/pl/101/429/s206], Oct. 15, 1990, [104 Stat. 941][/us/stat/104/941]; [Pub. L. 101–432, § 5][/us/pl/101/432/s5], Oct. 16, 1990, [104 Stat. 973][/us/stat/104/973]; [Pub. L. 101–550, title II, § 203(c)(1)][/us/pl/101/550/s203/c/1], Nov. 15, 1990, [104 Stat. 2718][/us/stat/104/2718]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, §§ 206(d), 207\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–431, 2763A–434; [Pub. L. 107–204, title VI, § 604(c)(1)(C)][/us/pl/107/204/s604/c/1/C], July 30, 2002, [116 Stat. 796][/us/stat/116/796]; [Pub. L. 111–203, title VII, § 763(b)][/us/pl/111/203/s763/b], title IX, §§ 925(a)(3), 929W, July 21, 2010, [124 Stat. 1768][/us/stat/124/1768], 1851, 1869.)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 17A, as added [Pub. L. 94–29][/us/pl/94/29], § 15, June 4, 1975, [89 Stat. 141][/us/stat/89/141]; amended [Pub. L. 100–181, title III][/us/pl/100/181/tIII], § 322, Dec. 4, 1987, [101 Stat. 1257][/us/stat/101/1257]; [Pub. L. 101–429, title II][/us/pl/101/429/tII], § 206, Oct. 15, 1990, [104 Stat. 941][/us/stat/104/941]; [Pub. L. 101–432][/us/pl/101/432], § 5, Oct. 16, 1990, [104 Stat. 973][/us/stat/104/973]; [Pub. L. 101–550, title II][/us/pl/101/550/tII], § 203(c)(1), Nov. 15, 1990, [104 Stat. 2718][/us/stat/104/2718]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, §§ 206(d), 207\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–431, 2763A–434; [Pub. L. 107–204, title VI][/us/pl/107/204/tVI], § 604(c)(1)(C), July 30, 2002, [116 Stat. 796][/us/stat/116/796]; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 763(b), title IX, §§ 925(a)(3), 929W, July 21, 2010, [124 Stat. 1768][/us/stat/124/1768], 1851, 1869.)
 
  __Amendment of Section__ 
 
@@ -273,39 +273,39 @@
 
  __Amendments__ 
 
-    2010—Subsec. (c)(4)(C). [Pub. L. 111–203, § 925(a)(3)][/us/pl/111/203/s925/a/3], substituted “12 months or bar any such person from being associated with any transfer agent, broker, dealer, investment adviser, municipal securities dealer, municipal advisor, or nationally recognized statistical rating organization,” for “twelve months or bar any such person from being associated with the transfer agent,”.
+    2010—Subsec. (c)(4)(C). [Pub. L. 111–203][/us/pl/111/203], § 925(a)(3), substituted “12 months or bar any such person from being associated with any transfer agent, broker, dealer, investment adviser, municipal securities dealer, municipal advisor, or nationally recognized statistical rating organization,” for “twelve months or bar any such person from being associated with the transfer agent,”.
 
-    Subsec. (g). [Pub. L. 111–203, § 929W][/us/pl/111/203/s929W], added subsec. (g) relating to due diligence for the delivery of dividends, interest, and other valuable property rights.
+    Subsec. (g). [Pub. L. 111–203][/us/pl/111/203], § 929W, added subsec. (g) relating to due diligence for the delivery of dividends, interest, and other valuable property rights.
 
-    [Pub. L. 111–203, § 763(b)][/us/pl/111/203/s763/b], added subsec. (g) relating to registration requirement.
+    [Pub. L. 111–203][/us/pl/111/203], § 763(b), added subsec. (g) relating to registration requirement.
 
-    Subsecs. (h) to (m). [Pub. L. 111–203, § 763(b)][/us/pl/111/203/s763/b], added subsecs. (h) to (m).
+    Subsecs. (h) to (m). [Pub. L. 111–203][/us/pl/111/203], § 763(b), added subsecs. (h) to (m).
 
     2002—Subsec. (c)(3)(A), (4)(C). [Pub. L. 107–204][/us/pl/107/204] inserted “, or is subject to an order or finding,” before “enumerated” and substituted “(H), or (G)” for “or (G)”.
 
-    2000—Subsec. (b)(3)(A). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 207(1)\], inserted “and derivative agreements, contracts, and transactions” after “prompt and accurate clearance and settlement of securities transactions”.
+    2000—Subsec. (b)(3)(A). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 207(1)\], inserted “and derivative agreements, contracts, and transactions” after “prompt and accurate clearance and settlement of securities transactions”.
 
-    Subsec. (b)(3)(F). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 207(2)\], inserted “and, to the extent applicable, derivative agreements, contracts, and transactions” after “designed to promote the prompt and accurate clearance and settlement of securities transactions”.
+    Subsec. (b)(3)(F). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 207(2)\], inserted “and, to the extent applicable, derivative agreements, contracts, and transactions” after “designed to promote the prompt and accurate clearance and settlement of securities transactions”.
 
-    Subsec. (b)(7). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(d)\], added par. (7).
+    Subsec. (b)(7). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 206(d)\], added par. (7).
 
-    Subsec. (b)(8). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 207(3)\], added par. (8).
+    Subsec. (b)(8). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 207(3)\], added par. (8).
 
-    1990—Subsec. (a)(2). [Pub. L. 101–432, § 5(a)][/us/pl/101/432/s5/a], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Commission is directed, therefore, having due regard for the public interest, the protection of investors, the safeguarding of securities and funds, and maintenance of fair competition among brokers and dealers, clearing agencies, and transfer agents, to use its authority under this chapter to facilitate the establishment of a national system for the prompt and accurate clearance and settlement of transactions in securities (other than exempted securities) in accordance with the findings and to carry out the objectives set forth in paragraph (1) of this subsection. The Commission shall use its authority under this chapter to assure equal regulation under this chapter of registered clearing agencies and registered transfer agents.”
+    1990—Subsec. (a)(2). [Pub. L. 101–432][/us/pl/101/432], § 5(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Commission is directed, therefore, having due regard for the public interest, the protection of investors, the safeguarding of securities and funds, and maintenance of fair competition among brokers and dealers, clearing agencies, and transfer agents, to use its authority under this chapter to facilitate the establishment of a national system for the prompt and accurate clearance and settlement of transactions in securities (other than exempted securities) in accordance with the findings and to carry out the objectives set forth in paragraph (1) of this subsection. The Commission shall use its authority under this chapter to assure equal regulation under this chapter of registered clearing agencies and registered transfer agents.”
 
     Subsec. (c)(3)(A), (4)(C). [Pub. L. 101–550][/us/pl/101/550] substituted “(A), (D), (E), or (G)” for “(A), (D), or (E)”.
 
     Subsec. (d)(5). [Pub. L. 101–429][/us/pl/101/429] added par. (5).
 
-    Subsec. (f). [Pub. L. 101–432, § 5(b)][/us/pl/101/432/s5/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 101–432][/us/pl/101/432], § 5(b), added subsec. (f).
 
-    1987—Subsec. (c)(2). [Pub. L. 100–181, § 322(1)][/us/pl/100/181/s322/1], (2), inserted “and any persons associated with the transfer agent” in first sentence and substituted “45” for “thirty” in second sentence.
+    1987—Subsec. (c)(2). [Pub. L. 100–181][/us/pl/100/181], § 322(1), (2), inserted “and any persons associated with the transfer agent” in first sentence and substituted “45” for “thirty” in second sentence.
 
-    Subsec. (c)(3), (4). [Pub. L. 100–181, § 322(3)][/us/pl/100/181/s322/3]–(5), added par. (3), struck out former par. (3)(A) which read as follows: “The appropriate regulatory agency for a transfer agent, by order, shall deny registration to, censure, place limitations on the activities, functions, or operations of, suspend for a period not exceeding twelve months, or revoke the registration of such transfer agent, if such appropriate regulatory agency finds, on the record after notice and opportunity for hearing, that such denial, censure, placing of limitations, suspension, or revocation is in the public interest and that such transfer agent has willfully violated or is unable to comply with any provision of this section or [section 78q of this title][/us/usc/t15/s78q] or the rules or regulations thereunder.”, redesignated subpars. (B) and (C) of former par. (3) as subpars. (A) and (B), respectively, of new par. (4), and added subpar. (C) to such par. (4).
+    Subsec. (c)(3), (4). [Pub. L. 100–181][/us/pl/100/181], § 322(3)–(5), added par. (3), struck out former par. (3)(A) which read as follows: “The appropriate regulatory agency for a transfer agent, by order, shall deny registration to, censure, place limitations on the activities, functions, or operations of, suspend for a period not exceeding twelve months, or revoke the registration of such transfer agent, if such appropriate regulatory agency finds, on the record after notice and opportunity for hearing, that such denial, censure, placing of limitations, suspension, or revocation is in the public interest and that such transfer agent has willfully violated or is unable to comply with any provision of this section or [section 78q of this title][/us/usc/t15/s78q] or the rules or regulations thereunder.”, redesignated subpars. (B) and (C) of former par. (3) as subpars. (A) and (B), respectively, of new par. (4), and added subpar. (C) to such par. (4).
 
-    Subsec. (d)(3)(B). [Pub. L. 100–181, § 322(6)][/us/pl/100/181/s322/6], substituted “clearing agency, transfer agent, or person associated with a transfer agent” for “clearing agency or transfer agent”.
+    Subsec. (d)(3)(B). [Pub. L. 100–181][/us/pl/100/181], § 322(6), substituted “clearing agency, transfer agent, or person associated with a transfer agent” for “clearing agency or transfer agent”.
 
-    Subsec. (d)(4). [Pub. L. 100–181, § 322(7)][/us/pl/100/181/s322/7], substituted “, transfer agent, or person associated with a transfer agent,” for “or transfer agent”.
+    Subsec. (d)(4). [Pub. L. 100–181][/us/pl/100/181], § 322(7), substituted “, transfer agent, or person associated with a transfer agent,” for “or transfer agent”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -339,21 +339,21 @@
 [/us/usc/t12/s1818/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1818%2Fc
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/94/29/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs15
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F141
-[/us/pl/100/181/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs322
+[/us/pl/100/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtIII
 [/us/stat/101/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1257
-[/us/pl/101/429/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2Fs206
+[/us/pl/101/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2FtII
 [/us/stat/104/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F941
-[/us/pl/101/432/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432%2Fs5
+[/us/pl/101/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432
 [/us/stat/104/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F973
-[/us/pl/101/550/s203/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs203%2Fc%2F1
+[/us/pl/101/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtII
 [/us/stat/104/2718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2718
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/204/s604/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs604%2Fc%2F1%2FC
+[/us/pl/107/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtVI
 [/us/stat/116/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F796
-[/us/pl/111/203/s763/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs763%2Fb
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1768
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
@@ -362,24 +362,24 @@
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/111/203/s925/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs925%2Fa%2F3
-[/us/pl/111/203/s929W]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929W
-[/us/pl/111/203/s763/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs763%2Fb
-[/us/pl/111/203/s763/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs763%2Fb
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/101/432/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432%2Fs5%2Fa
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/101/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432
 [/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
 [/us/pl/101/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429
-[/us/pl/101/432/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432%2Fs5%2Fb
-[/us/pl/100/181/s322/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs322%2F1
-[/us/pl/100/181/s322/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs322%2F3
+[/us/pl/101/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/usc/t15/s78q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78q
-[/us/pl/100/181/s322/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs322%2F6
-[/us/pl/100/181/s322/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs322%2F7
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

@@ -17,7 +17,7 @@
 
     An appeal may be taken to the Trademark Trial and Appeal Board from any final decision of the examiner in charge of the registration of marks upon the payment of the prescribed fee.
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title I, § 20, [60 Stat. 435][/us/stat/60/435]; [Pub. L. 85–609, § 1(b)][/us/pl/85/609/s1/b], Aug. 8, 1958, [72 Stat. 540][/us/stat/72/540].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title I, § 20, [60 Stat. 435][/us/stat/60/435]; [Pub. L. 85–609][/us/pl/85/609], § 1(b), Aug. 8, 1958, [72 Stat. 540][/us/stat/72/540].)
 
  __Prior Provisions__ 
 
@@ -52,7 +52,7 @@
 
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F435
-[/us/pl/85/609/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F609%2Fs1%2Fb
+[/us/pl/85/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F609
 [/us/stat/72/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F540
 [/us/act/1905-02-20/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592
 [/us/stat/33/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F726

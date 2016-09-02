@@ -37,27 +37,27 @@
 
     (f) The term “boundaries” has the same meaning given that term in [section 1301 of title 43][/us/usc/t43/s1301].
 
-([Jan. 2, 1951, ch. 1194, § 1][/us/act/1951-01-02/ch1194/s1], [64 Stat. 1134][/us/stat/64/1134]; [Pub. L. 87–840][/us/pl/87/840], §§ 2, 3, Oct. 18, 1962, [76 Stat. 1075][/us/stat/76/1075]; [Pub. L. 102–251, title II, § 202(c)][/us/pl/102/251/s202/c], Mar. 9, 1992, [106 Stat. 62][/us/stat/106/62].)
+([Jan. 2, 1951, ch. 1194][/us/act/1951-01-02/ch1194], § 1, [64 Stat. 1134][/us/stat/64/1134]; [Pub. L. 87–840][/us/pl/87/840], §§ 2, 3, Oct. 18, 1962, [76 Stat. 1075][/us/stat/76/1075]; [Pub. L. 102–251, title II][/us/pl/102/251/tII], § 202(c), Mar. 9, 1992, [106 Stat. 62][/us/stat/106/62].)
 
  __Amendments__ 
 
     1992—Subsec. (f). [Pub. L. 102–251][/us/pl/102/251] added subsec. (f).
 
-    1962—Subsec. (a)(2), (3). [Pub. L. 87–840, § 2][/us/pl/87/840/s2], substituted provisions including machines and mechanical devices designed and manufactured primarily for gambling by the operation of which a person may become entitled to receive, as the result of chance, any money or property, for provisions which included machines or mechanical devices designed and manufactured to operate by inserting a coin, token, or similar object, in par. (2), and inserted “, but which is not attached to any such machine or mechanical device as a constituent part”, in par. (3).
+    1962—Subsec. (a)(2), (3). [Pub. L. 87–840][/us/pl/87/840], § 2, substituted provisions including machines and mechanical devices designed and manufactured primarily for gambling by the operation of which a person may become entitled to receive, as the result of chance, any money or property, for provisions which included machines or mechanical devices designed and manufactured to operate by inserting a coin, token, or similar object, in par. (2), and inserted “, but which is not attached to any such machine or mechanical device as a constituent part”, in par. (3).
 
-    Subsec. (b). [Pub. L. 87–840, § 3][/us/pl/87/840/s3], substituted “the District of Columbia” for “Alaska, Hawaii”.
+    Subsec. (b). [Pub. L. 87–840][/us/pl/87/840], § 3, substituted “the District of Columbia” for “Alaska, Hawaii”.
 
-    Subsecs. (d) and (e). [Pub. L. 87–840, § 3][/us/pl/87/840/s3], added subsecs. (d) and (e).
+    Subsecs. (d) and (e). [Pub. L. 87–840][/us/pl/87/840], § 3, added subsecs. (d) and (e).
 
  __Effective Date of 1962 Amendment__ 
 
-[Pub. L. 87–840, § 7][/us/pl/87/840/s7], Oct. 18, 1962, [76 Stat. 1077][/us/stat/76/1077], provided that: 
+[Pub. L. 87–840][/us/pl/87/840], § 7, Oct. 18, 1962, [76 Stat. 1077][/us/stat/76/1077], provided that: 
 
 > “The amendments made by this Act \[enacting [section 1178 of this title][/us/usc/t15/s1178] and amending this section and sections 1172 and 1173 of this title\] shall take effect on the sixtieth day after the date of its enactment \[Oct. 18, 1962\].”
 
  __Short Title of 1962 Amendment__ 
 
-[Pub. L. 87–840, § 1][/us/pl/87/840/s1], Oct. 18, 1962, [76 Stat. 1075][/us/stat/76/1075], provided: 
+[Pub. L. 87–840][/us/pl/87/840], § 1, Oct. 18, 1962, [76 Stat. 1075][/us/stat/76/1075], provided: 
 
 > “That this Act \[enacting [section 1178 of this title][/us/usc/t15/s1178] and amending this section and sections 1172 and 1173 of this title\] may be cited as the ‘Gambling Devices Act of 1962’.”
 
@@ -67,7 +67,7 @@
 
  __Separability__ 
 
-[Act Jan. 2, 1951, ch. 1194, § 8][/us/act/1951-01-02/ch1194/s8], [64 Stat. 1136][/us/stat/64/1136], provided that: 
+[Act Jan. 2, 1951, ch. 1194][/us/act/1951-01-02/ch1194], § 8, [64 Stat. 1136][/us/stat/64/1136], provided that: 
 
 > “If any provision of this Act \[this chapter\] or the application thereof to any person or circumstance is held invalid, such invalidity shall not affect other provisions or applications of the Act \[this chapter\] which can be given effect without the invalid provision or application, and to this end the provisions of this Act \[this chapter\] are declared to be severable.”
 
@@ -79,23 +79,23 @@
 ----------
 
 [/us/usc/t43/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1301
-[/us/act/1951-01-02/ch1194/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-02%2Fch1194%2Fs1
+[/us/act/1951-01-02/ch1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-02%2Fch1194
 [/us/stat/64/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1134
 [/us/pl/87/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F840
 [/us/stat/76/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1075
-[/us/pl/102/251/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2Fs202%2Fc
+[/us/pl/102/251/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251%2FtII
 [/us/stat/106/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F62
 [/us/pl/102/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F251
-[/us/pl/87/840/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F840%2Fs2
-[/us/pl/87/840/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F840%2Fs3
-[/us/pl/87/840/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F840%2Fs3
-[/us/pl/87/840/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F840%2Fs7
+[/us/pl/87/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F840
+[/us/pl/87/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F840
+[/us/pl/87/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F840
+[/us/pl/87/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F840
 [/us/stat/76/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1077
 [/us/usc/t15/s1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1178
-[/us/pl/87/840/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F840%2Fs1
+[/us/pl/87/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F840
 [/us/stat/76/1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1075
 [/us/usc/t15/s1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1178
-[/us/act/1951-01-02/ch1194/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-02%2Fch1194%2Fs8
+[/us/act/1951-01-02/ch1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-02%2Fch1194
 [/us/stat/64/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1136
 
 

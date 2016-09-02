@@ -47,13 +47,13 @@
 
             Nothing in this section may be construed to prohibit a State from investigating and taking appropriate disciplinary action, including suspension or revocation of authority of an insurance producer to do business in a State, in accordance with State law and that is not inconsistent with the provisions of this section, against a member of the Association as a result of a complaint or for any alleged activity, regardless of whether the activity occurred before or after the insurance producer commenced doing business in the State pursuant to Association membership.
 
-([Pub. L. 106–102, title III, § 330][/us/pl/106/102/s330], as added [Pub. L. 114–1, title II, § 202(a)][/us/pl/114/1/s202/a], Jan. 12, 2015, [129 Stat. 25][/us/stat/129/25].)
+([Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 330, as added [Pub. L. 114–1, title II][/us/pl/114/1/tII], § 202(a), Jan. 12, 2015, [129 Stat. 25][/us/stat/129/25].)
 
  __Prior Provisions__ 
 
     Provisions similar to this section were contained in [section 6763 of this title][/us/usc/t15/s6763], prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1].
 
-    A prior section 6760, [Pub. L. 106–102, title III, § 330][/us/pl/106/102/s330], Nov. 12, 1999, [113 Stat. 1430][/us/stat/113/1430], related to functions of the NAIC, prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1].
+    A prior section 6760, [Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 330, Nov. 12, 1999, [113 Stat. 1430][/us/stat/113/1430], related to functions of the NAIC, prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1].
 
 ----------
 
@@ -62,12 +62,12 @@
 ----------
 ----------
 
-[/us/pl/106/102/s330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs330
-[/us/pl/114/1/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs202%2Fa
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
+[/us/pl/114/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2FtII
 [/us/stat/129/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F25
 [/us/usc/t15/s6763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6763
 [/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
-[/us/pl/106/102/s330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs330
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1430
 [/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
 

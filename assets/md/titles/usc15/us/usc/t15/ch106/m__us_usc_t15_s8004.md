@@ -61,7 +61,7 @@
 
         There is authorized to be appropriated to the Commission such sums as may be necessary to carry out this section through fiscal year 2016. Any amounts appropriated pursuant to this subsection that remain unexpended and unobligated at the end of fiscal year 2016 shall be retained by the Commission and credited to the appropriations account that funds enforcement of the Consumer Product Safety Act \[[15 U.S.C. 2051][/us/usc/t15/s2051] et seq.\].
 
-([Pub. L. 110–140, title XIV, § 1405][/us/pl/110/140/s1405], Dec. 19, 2007, [121 Stat. 1796][/us/stat/121/1796]; [Pub. L. 112–10, div. B, title V, § 1576(b)][/us/pl/112/10/s1576/b], Apr. 15, 2011, [125 Stat. 139][/us/stat/125/139]; [Pub. L. 112–74, div. C, title V, § 502][/us/pl/112/74/s502], Dec. 23, 2011, [125 Stat. 908][/us/stat/125/908]; [Pub. L. 113–76, div. E, title V, § 501(1)][/us/pl/113/76/s501/1], Jan. 17, 2014, [128 Stat. 208][/us/stat/128/208].)
+([Pub. L. 110–140, title XIV][/us/pl/110/140/tXIV], § 1405, Dec. 19, 2007, [121 Stat. 1796][/us/stat/121/1796]; [Pub. L. 112–10, div. B, title V][/us/pl/112/10/dB/tV], § 1576(b), Apr. 15, 2011, [125 Stat. 139][/us/stat/125/139]; [Pub. L. 112–74, div. C, title V][/us/pl/112/74/dC/tV], § 502, Dec. 23, 2011, [125 Stat. 908][/us/stat/125/908]; [Pub. L. 113–76, div. E, title V][/us/pl/113/76/dE/tV], § 501(1), Jan. 17, 2014, [128 Stat. 208][/us/stat/128/208].)
 
  __References in Text__ 
 
@@ -69,13 +69,13 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(1)(A). [Pub. L. 113–76, § 501(1)(A)][/us/pl/113/76/s501/1/A], substituted “all swimming pools constructed in the State after the date the State submits an application to the Commission for a grant under this section” for “all swimming pools constructed after the date that is 6 months after December 23, 2011, in the State”.
+    2014—Subsec. (b)(1)(A). [Pub. L. 113–76][/us/pl/113/76], § 501(1)(A), substituted “all swimming pools constructed in the State after the date the State submits an application to the Commission for a grant under this section” for “all swimming pools constructed after the date that is 6 months after December 23, 2011, in the State”.
 
-    Subsec. (e). [Pub. L. 113–76, § 501(1)(B)][/us/pl/113/76/s501/1/B], substituted “There is authorized to be appropriated to the Commission such sums as may be necessary to carry out this section through fiscal year 2016.” for “There are authorized to be appropriated to the Commission for each of fiscal years 2009 and 2010 $2,000,000 to carry out this section, such sums to remain available until expended.” and “the end of fiscal year 2016” for “the end of fiscal year 2012”.
+    Subsec. (e). [Pub. L. 113–76][/us/pl/113/76], § 501(1)(B), substituted “There is authorized to be appropriated to the Commission such sums as may be necessary to carry out this section through fiscal year 2016.” for “There are authorized to be appropriated to the Commission for each of fiscal years 2009 and 2010 $2,000,000 to carry out this section, such sums to remain available until expended.” and “the end of fiscal year 2016” for “the end of fiscal year 2012”.
 
-    2011—Subsec. (b)(1)(A). [Pub. L. 112–74, § 502(b)][/us/pl/112/74/s502/b], inserted “constructed after the date that is 6 months after December 23, 2011,” after “swimming pools”.
+    2011—Subsec. (b)(1)(A). [Pub. L. 112–74][/us/pl/112/74], § 502(b), inserted “constructed after the date that is 6 months after December 23, 2011,” after “swimming pools”.
 
-    Subsec. (e). [Pub. L. 112–74, § 502(a)][/us/pl/112/74/s502/a], substituted “2012” for “2011”.
+    Subsec. (e). [Pub. L. 112–74][/us/pl/112/74], § 502(a), substituted “2012” for “2011”.
 
     [Pub. L. 112–10][/us/pl/112/10], which directed substitution of “2011” for “2010”, was executed by making the substitution for “2010” the second place appearing to reflect the probable intent of Congress.
 
@@ -89,21 +89,21 @@
 [/us/usc/t15/s8005/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8005%2Fa%2F1%2FA%2Fi
 [/us/usc/t15/s8005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8005
 [/us/usc/t15/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2051
-[/us/pl/110/140/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1405
+[/us/pl/110/140/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXIV
 [/us/stat/121/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1796
-[/us/pl/112/10/s1576/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1576%2Fb
+[/us/pl/112/10/dB/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdB%2FtV
 [/us/stat/125/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F139
-[/us/pl/112/74/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs502
+[/us/pl/112/74/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdC%2FtV
 [/us/stat/125/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F908
-[/us/pl/113/76/s501/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs501%2F1
+[/us/pl/113/76/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2FdE%2FtV
 [/us/stat/128/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F208
 [/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1207
 [/us/usc/t15/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2051
-[/us/pl/113/76/s501/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs501%2F1%2FA
-[/us/pl/113/76/s501/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs501%2F1%2FB
-[/us/pl/112/74/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs502%2Fb
-[/us/pl/112/74/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs502%2Fa
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/pl/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10
 
 

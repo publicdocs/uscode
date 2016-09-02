@@ -43,7 +43,7 @@
 
         If a person disobeys a subpoena issued by the Director under this chapter, the Attorney General, acting on behalf of the Director, may bring a civil action in a district court of the United States to enforce the subpoena. An action under this subsection may be brought in the judicial district in which the person against whom the action is brought resides, is found, or does business. The court may punish a failure to obey an order of the court to comply with the subpoena as a contempt of court.
 
-([Pub. L. 107–231, § 5][/us/pl/107/231/s5], Oct. 1, 2002, [116 Stat. 1474][/us/stat/116/1474].)
+([Pub. L. 107–231][/us/pl/107/231], § 5, Oct. 1, 2002, [116 Stat. 1474][/us/stat/116/1474].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t15/s7307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7307
-[/us/pl/107/231/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231%2Fs5
+[/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
 [/us/stat/116/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1474
 [/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
 [/us/stat/116/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1471

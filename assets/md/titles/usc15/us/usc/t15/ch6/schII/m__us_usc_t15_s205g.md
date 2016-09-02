@@ -31,7 +31,7 @@
 
         Funds not expended by the Board as of the date when it ceases to exist, in accordance with [section 205d(d) of this title][/us/usc/t15/s205d/d], shall revert to the Treasury of the United States as of such date.
 
-([Pub. L. 94–168, § 8][/us/pl/94/168/s8], Dec. 23, 1975, [89 Stat. 1011][/us/stat/89/1011].)
+([Pub. L. 94–168][/us/pl/94/168], § 8, Dec. 23, 1975, [89 Stat. 1011][/us/stat/89/1011].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t15/s205d/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs205d%2Fd
-[/us/pl/94/168/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F168%2Fs8
+[/us/pl/94/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F168
 [/us/stat/89/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1011
 
 

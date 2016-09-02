@@ -31,7 +31,7 @@
 
         A person appointed under subsection (a)(1) shall be subject to the provisions of law relating to ethics, conflicts of interest, corruption, and any other criminal or civil statute or regulation governing the standards of conduct for Federal employees that are applicable to the type of appointment.
 
-([Sept. 26, 1914, ch. 311, § 25A][/us/act/1914-09-26/ch311/s25A], as added [Pub. L. 109–455, § 9][/us/pl/109/455/s9], Dec. 22, 2006, [120 Stat. 3381][/us/stat/120/3381].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 25A, as added [Pub. L. 109–455][/us/pl/109/455], § 9, Dec. 22, 2006, [120 Stat. 3381][/us/stat/120/3381].)
 
  __Repeal of Section__ 
 
@@ -50,8 +50,8 @@
 
 [/us/usc/t15/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs42
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/act/1914-09-26/ch311/s25A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs25A
-[/us/pl/109/455/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs9
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
 [/us/stat/120/3381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3381
 [/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13
 [/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13

@@ -69,7 +69,7 @@
 
         For purposes of this section, the term “outstanding balance” means the amount owed on a credit card account under an open end consumer credit plan as of the end of the 14th day after the date on which the creditor provides notice of an increase in the annual percentage rate, fee, or finance charge in accordance with [section 1637(i) of this title][/us/usc/t15/s1637/i].
 
-([Pub. L. 90–321, title I, § 171][/us/pl/90/321/s171], as added [Pub. L. 111–24, title I, § 101(b)(2)][/us/pl/111/24/s101/b/2], May 22, 2009, [123 Stat. 1736][/us/stat/123/1736].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 171, as added [Pub. L. 111–24, title I][/us/pl/111/24/tI], § 101(b)(2), May 22, 2009, [123 Stat. 1736][/us/stat/123/1736].)
 
  __Prior Provisions__ 
 
@@ -90,8 +90,8 @@
 [/us/usc/t15/s1637/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637%2Fi
 [/us/usc/t15/s1637/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637%2Fi
 [/us/usc/t15/s1637/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637%2Fi
-[/us/pl/90/321/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs171
-[/us/pl/111/24/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs101%2Fb%2F2
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/111/24/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtI
 [/us/stat/123/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1736
 [/us/pl/90/321/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs171
 [/us/usc/t15/s1666j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1666j

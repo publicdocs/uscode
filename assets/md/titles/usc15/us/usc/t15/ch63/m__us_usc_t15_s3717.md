@@ -89,7 +89,7 @@
 
         (5) any other information or recommendations the Council considers appropriate.
 
-([Pub. L. 102–245, title V, § 507][/us/pl/102/245/s507], Feb. 14, 1992, [106 Stat. 27][/us/stat/106/27].)
+([Pub. L. 102–245, title V][/us/pl/102/245/tV], § 507, Feb. 14, 1992, [106 Stat. 27][/us/stat/106/27].)
 
  __References in Text__ 
 
@@ -110,7 +110,7 @@
 ----------
 ----------
 
-[/us/pl/102/245/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs507
+[/us/pl/102/245/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtV
 [/us/stat/106/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F27
 [/us/pl/102/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245
 [/us/stat/106/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F7

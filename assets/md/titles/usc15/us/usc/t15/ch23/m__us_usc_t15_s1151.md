@@ -17,7 +17,7 @@
 
     The purpose of this chapter is to make the results of technological research and development more readily available to industry and business, and to the general public, by clarifying and defining the functions and responsibilities of the Department of Commerce as a central clearinghouse for technical information which is useful to American industry and business.
 
-([Sept. 9, 1950, ch. 936, § 1][/us/act/1950-09-09/ch936/s1], [64 Stat. 823][/us/stat/64/823].)
+([Sept. 9, 1950, ch. 936][/us/act/1950-09-09/ch936], § 1, [64 Stat. 823][/us/stat/64/823].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1950-09-09/ch936/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-09%2Fch936%2Fs1
+[/us/act/1950-09-09/ch936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-09%2Fch936
 [/us/stat/64/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F823
 
 

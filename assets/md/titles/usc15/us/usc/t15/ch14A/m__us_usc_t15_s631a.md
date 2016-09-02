@@ -23,7 +23,7 @@
 
         Congress further declares that the Federal Government is committed to a policy of utilizing all reasonable means, consistent with the overall economic policy goals of the Nation and the preservation of the competitive free enterprise system of the Nation, to establish private sector incentives that will help assure that adequate capital at competitive prices is available to small businesses. To fulfill this policy, departments, agencies, and instrumentalities of the Federal Government shall use all reasonable means to coordinate, create, and sustain policies and programs which promote investment in small businesses, including those investments which expand employment opportunities and which foster the effective and efficient use of human and natural resources in the economy of the Nation.
 
-([Pub. L. 96–302, title III, § 302][/us/pl/96/302/s302], July 2, 1980, [94 Stat. 848][/us/stat/94/848].)
+([Pub. L. 96–302, title III][/us/pl/96/302/tIII], § 302, July 2, 1980, [94 Stat. 848][/us/stat/94/848].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/96/302/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs302
+[/us/pl/96/302/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2FtIII
 [/us/stat/94/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F848
 [/us/pl/96/302/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs507
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631

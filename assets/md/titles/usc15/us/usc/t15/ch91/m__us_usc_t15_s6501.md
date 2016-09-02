@@ -123,11 +123,11 @@
 
         The term “online contact information” means an e-mail address or another substantially similar identifier that permits direct contact with a person online.
 
-([Pub. L. 105–277, div. C, title XIII, § 1302][/us/pl/105/277/s1302], Oct. 21, 1998, [112 Stat. 2681–728][/us/stat/112/2681-728].)
+([Pub. L. 105–277, div. C, title XIII][/us/pl/105/277/dC/tXIII], § 1302, Oct. 21, 1998, [112 Stat. 2681–728][/us/stat/112/2681-728].)
 
  __Effective Date__ 
 
-[Pub. L. 105–277, div. C, title XIII, § 1308][/us/pl/105/277/s1308], Oct. 21, 1998, [112 Stat. 2681–735][/us/stat/112/2681-735], provided that: 
+[Pub. L. 105–277, div. C, title XIII][/us/pl/105/277/dC/tXIII], § 1308, Oct. 21, 1998, [112 Stat. 2681–735][/us/stat/112/2681-735], provided that: 
 
 > “Sections 1303(a), 1305, and 1306 of this title \[enacting sections 6502(a), 6504, and 6505 of this title\] take effect on the later of—
 
@@ -137,7 +137,7 @@
 
  __Short Title__ 
 
-[Pub. L. 105–277, div. C, title XIII, § 1301][/us/pl/105/277/s1301], Oct. 21, 1998, [112 Stat. 2681–728][/us/stat/112/2681-728], provided that: 
+[Pub. L. 105–277, div. C, title XIII][/us/pl/105/277/dC/tXIII], § 1301, Oct. 21, 1998, [112 Stat. 2681–728][/us/stat/112/2681-728], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Children’s Online Privacy Protection Act of 1998’.”
 
@@ -150,12 +150,12 @@
 
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
-[/us/pl/105/277/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1302
+[/us/pl/105/277/dC/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtXIII
 [/us/stat/112/2681-728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-728
-[/us/pl/105/277/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1308
+[/us/pl/105/277/dC/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtXIII
 [/us/stat/112/2681-735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-735
 [/us/usc/t15/s6503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6503
-[/us/pl/105/277/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1301
+[/us/pl/105/277/dC/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtXIII
 [/us/stat/112/2681-728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-728
 
 

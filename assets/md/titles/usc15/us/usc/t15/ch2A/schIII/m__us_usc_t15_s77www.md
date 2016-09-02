@@ -19,11 +19,11 @@
 
     (b) The rights and remedies provided by this subchapter shall be in addition to any and all other rights and remedies that may exist under the Securities Act of 1933 \[[15 U.S.C. 77a][/us/usc/t15/s77a] et seq.\] or the Securities Exchange Act of 1934 \[[15 U.S.C. 78a][/us/usc/t15/s78a] et seq.\], or otherwise at law or in equity; but no person permitted to maintain a suit for damages under the provisions of this subchapter shall recover, through satisfaction of judgment in one or more actions, a total amount in excess of his actual damages on account of the act complained of.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 323, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1176][/us/stat/53/1176]; amended [Pub. L. 111–203, title IX, § 986(b)(5)][/us/pl/111/203/s986/b/5], July 21, 2010, [124 Stat. 1936][/us/stat/124/1936].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 323, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1176][/us/stat/53/1176]; amended [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 986(b)(5), July 21, 2010, [124 Stat. 1936][/us/stat/124/1936].)
 
  __References in Text__ 
 
-    The Securities Act of 1933, referred to in subsec. (b), is [act May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
+    The Securities Act of 1933, referred to in subsec. (b), is [act May 27, 1933, ch. 38, title I][/us/act/1933-05-27/ch38/tI], [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
 
     The Securities Exchange Act of 1934, referred to in subsec. (b), is [act June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], [48 Stat. 881][/us/stat/48/881], which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title][/us/usc/t15/s78a] and Tables.
 
@@ -51,9 +51,9 @@
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/act/1939-08-03/ch411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-03%2Fch411
 [/us/stat/53/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1176
-[/us/pl/111/203/s986/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs986%2Fb%2F5
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1936
-[/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
+[/us/act/1933-05-27/ch38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38%2FtI
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404

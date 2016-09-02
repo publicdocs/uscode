@@ -27,17 +27,17 @@
 
     (d) To enable the National Science Foundation to carry out its powers and duties under this chapter only such sums may be appropriated as the Congress may authorize by law.
 
-([Pub. L. 96–480, § 21][/us/pl/96/480/s21], formerly § 14, Oct. 21, 1980, [94 Stat. 2320][/us/stat/94/2320]; renumbered § 18, [Pub. L. 99–502, § 2][/us/pl/99/502/s2], Oct. 20, 1986, [100 Stat. 1785][/us/stat/100/1785]; renumbered § 17, [Pub. L. 99–502, § 9(e)(1)][/us/pl/99/502/s9/e/1], Oct. 20, 1986, [100 Stat. 1797][/us/stat/100/1797]; renumbered § 18, [Pub. L. 100–107, § 3(a)][/us/pl/100/107/s3/a], Aug. 20, 1987, [101 Stat. 725][/us/stat/101/725]; renumbered § 19 and amended [Pub. L. 100–418, title V][/us/pl/100/418], §§ 5122(a)(1), 5152, Aug. 23, 1988, [102 Stat. 1438][/us/stat/102/1438], 1449; renumbered § 21, [Pub. L. 102–240, title VI, § 6019][/us/pl/102/240/s6019], Dec. 18, 1991, [105 Stat. 2183][/us/stat/105/2183]; [Pub. L. 110–69, title III, § 3002(c)(5)][/us/pl/110/69/s3002/c/5], Aug. 9, 2007, [121 Stat. 586][/us/stat/121/586].)
+([Pub. L. 96–480][/us/pl/96/480], § 21, formerly § 14, Oct. 21, 1980, [94 Stat. 2320][/us/stat/94/2320]; renumbered § 18, [Pub. L. 99–502][/us/pl/99/502], § 2, Oct. 20, 1986, [100 Stat. 1785][/us/stat/100/1785]; renumbered § 17, [Pub. L. 99–502][/us/pl/99/502], § 9(e)(1), Oct. 20, 1986, [100 Stat. 1797][/us/stat/100/1797]; renumbered § 18, [Pub. L. 100–107][/us/pl/100/107], § 3(a), Aug. 20, 1987, [101 Stat. 725][/us/stat/101/725]; renumbered § 19 and amended [Pub. L. 100–418, title V][/us/pl/100/418/tV], §§ 5122(a)(1), 5152, Aug. 23, 1988, [102 Stat. 1438][/us/stat/102/1438], 1449; renumbered § 21, [Pub. L. 102–240, title VI][/us/pl/102/240/tVI], § 6019, Dec. 18, 1991, [105 Stat. 2183][/us/stat/105/2183]; [Pub. L. 110–69, title III][/us/pl/110/69/tIII], § 3002(c)(5), Aug. 9, 2007, [121 Stat. 586][/us/stat/121/586].)
 
  __Amendments__ 
 
-    2007—Subsec. (a)(1). [Pub. L. 110–69, § 3002(c)(5)(A)][/us/pl/110/69/s3002/c/5/A], substituted “sections 3710(g) and 3711” for “sections 3704, 3710(g), and 3711”.
+    2007—Subsec. (a)(1). [Pub. L. 110–69][/us/pl/110/69], § 3002(c)(5)(A), substituted “sections 3710(g) and 3711” for “sections 3704, 3710(g), and 3711”.
 
-    Subsec. (a)(2). [Pub. L. 110–69, § 3002(c)(5)(B)][/us/pl/110/69/s3002/c/5/B], struck out “$500,000 is authorized only for the purpose of carrying out the requirements of the Japanese technical literature program established under [section 3704(d) of this title][/us/usc/t15/s3704/d];” after “Innovation;”.
+    Subsec. (a)(2). [Pub. L. 110–69][/us/pl/110/69], § 3002(c)(5)(B), struck out “$500,000 is authorized only for the purpose of carrying out the requirements of the Japanese technical literature program established under [section 3704(d) of this title][/us/usc/t15/s3704/d];” after “Innovation;”.
 
-    1988—Subsec. (a). [Pub. L. 100–418, § 5152][/us/pl/100/418/s5152], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is authorized to be appropriated to the Secretary for purposes of carrying out [section 3705 of this title][/us/usc/t15/s3705], not to exceed $19,000,000 for the fiscal year ending September 30, 1981, $40,000,000 for fiscal year ending September 30, 1982, $50,000,000 for the fiscal year ending September 30, 1983, and $60,000,000 for each of the fiscal years ending September 30, 1984, and 1985.”
+    1988—Subsec. (a). [Pub. L. 100–418][/us/pl/100/418], § 5152, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is authorized to be appropriated to the Secretary for purposes of carrying out [section 3705 of this title][/us/usc/t15/s3705], not to exceed $19,000,000 for the fiscal year ending September 30, 1981, $40,000,000 for fiscal year ending September 30, 1982, $50,000,000 for the fiscal year ending September 30, 1983, and $60,000,000 for each of the fiscal years ending September 30, 1984, and 1985.”
 
-    Subsec. (b). [Pub. L. 100–418, § 5152][/us/pl/100/418/s5152], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In addition to authorizations of appropriations under subsection (a) of this section, there is authorized to be appropriated to the Secretary for purposes of carrying out the provisions of this chapter, not to exceed $5,000,000 for the fiscal year ending September 30, 1981, $9,000,000 for the fiscal year ending September 30, 1982, and $14,000,000 for each of the fiscal years ending September 30, 1983, 1984, and 1985.”
+    Subsec. (b). [Pub. L. 100–418][/us/pl/100/418], § 5152, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In addition to authorizations of appropriations under subsection (a) of this section, there is authorized to be appropriated to the Secretary for purposes of carrying out the provisions of this chapter, not to exceed $5,000,000 for the fiscal year ending September 30, 1981, $9,000,000 for the fiscal year ending September 30, 1982, and $14,000,000 for each of the fiscal years ending September 30, 1983, 1984, and 1985.”
 
 ----------
 
@@ -47,25 +47,25 @@
 ----------
 
 [/us/usc/t15/s3704a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3704a
-[/us/pl/96/480/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs21
+[/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2320
-[/us/pl/99/502/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs2
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/stat/100/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1785
-[/us/pl/99/502/s9/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs9%2Fe%2F1
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/stat/100/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1797
-[/us/pl/100/107/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F107%2Fs3%2Fa
+[/us/pl/100/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F107
 [/us/stat/101/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F725
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1438
-[/us/pl/102/240/s6019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs6019
+[/us/pl/102/240/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtVI
 [/us/stat/105/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2183
-[/us/pl/110/69/s3002/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fc%2F5
+[/us/pl/110/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIII
 [/us/stat/121/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F586
-[/us/pl/110/69/s3002/c/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fc%2F5%2FA
-[/us/pl/110/69/s3002/c/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fc%2F5%2FB
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 [/us/usc/t15/s3704/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3704%2Fd
-[/us/pl/100/418/s5152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5152
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t15/s3705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3705
-[/us/pl/100/418/s5152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5152
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 
 

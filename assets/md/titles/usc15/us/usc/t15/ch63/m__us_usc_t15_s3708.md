@@ -33,7 +33,7 @@
 
         The Secretary and the National Science Foundation shall, on a continuing basis, provide each other the opportunity to comment on any proposed program of activity under section 3705, 3707, 3710, 3710d, 3711a, or 3712 of this title before funds are committed to such program in order to mount complementary efforts and avoid duplication.
 
-([Pub. L. 96–480, § 10][/us/pl/96/480/s10], formerly § 9, Oct. 21, 1980, [94 Stat. 2316][/us/stat/94/2316]; [Pub. L. 99–502, § 9(e)(2)(C)][/us/pl/99/502/s9/e/2/C], Oct. 20, 1986, [100 Stat. 1797][/us/stat/100/1797]; [Pub. L. 100–107, § 3(b)][/us/pl/100/107/s3/b], Aug. 20, 1987, [101 Stat. 727][/us/stat/101/727]; renumbered § 10 and amended [Pub. L. 100–418, title V, § 5122(a)(1)][/us/pl/100/418/s5122/a/1], (c), Aug. 23, 1988, [102 Stat. 1438][/us/stat/102/1438], 1439; [Pub. L. 102–240, title VI, § 6019][/us/pl/102/240/s6019], Dec. 18, 1991, [105 Stat. 2183][/us/stat/105/2183].)
+([Pub. L. 96–480][/us/pl/96/480], § 10, formerly § 9, Oct. 21, 1980, [94 Stat. 2316][/us/stat/94/2316]; [Pub. L. 99–502][/us/pl/99/502], § 9(e)(2)(C), Oct. 20, 1986, [100 Stat. 1797][/us/stat/100/1797]; [Pub. L. 100–107][/us/pl/100/107], § 3(b), Aug. 20, 1987, [101 Stat. 727][/us/stat/101/727]; renumbered § 10 and amended [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5122(a)(1), (c), Aug. 23, 1988, [102 Stat. 1438][/us/stat/102/1438], 1439; [Pub. L. 102–240, title VI][/us/pl/102/240/tVI], § 6019, Dec. 18, 1991, [105 Stat. 2183][/us/stat/105/2183].)
 
  __Prior Provisions__ 
 
@@ -45,7 +45,7 @@
 
     1991—Subsec. (d). [Pub. L. 102–240][/us/pl/102/240] made technical amendment to reference to [section 3712 of this title][/us/usc/t15/s3712] to reflect renumbering of corresponding section of original act.
 
-    1988—Subsec. (d). [Pub. L. 100–418, § 5122(c)][/us/pl/100/418/s5122/c], made technical amendment to references to sections 3705, 3707, 3710, 3710d, 3711a, and 3712 of this title to reflect renumbering of corresponding sections of original act.
+    1988—Subsec. (d). [Pub. L. 100–418][/us/pl/100/418], § 5122(c), made technical amendment to references to sections 3705, 3707, 3710, 3710d, 3711a, and 3712 of this title to reflect renumbering of corresponding sections of original act.
 
     1987—Subsec. (d). [Pub. L. 100–107][/us/pl/100/107] inserted reference to [section 3711a of this title][/us/usc/t15/s3711a].
 
@@ -58,15 +58,15 @@
 ----------
 ----------
 
-[/us/pl/96/480/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs10
+[/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2316
-[/us/pl/99/502/s9/e/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs9%2Fe%2F2%2FC
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/stat/100/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1797
-[/us/pl/100/107/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F107%2Fs3%2Fb
+[/us/pl/100/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F107
 [/us/stat/101/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F727
-[/us/pl/100/418/s5122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5122%2Fa%2F1
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1438
-[/us/pl/102/240/s6019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs6019
+[/us/pl/102/240/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtVI
 [/us/stat/105/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2183
 [/us/pl/96/480/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs10
 [/us/usc/t15/s3710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710
@@ -75,7 +75,7 @@
 [/us/pl/99/502/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs9%2Fa
 [/us/pl/102/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240
 [/us/usc/t15/s3712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3712
-[/us/pl/100/418/s5122/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5122%2Fc
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F107
 [/us/usc/t15/s3711a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3711a
 [/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502

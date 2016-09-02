@@ -27,7 +27,7 @@
 
         (2) to prohibit the collection, after September 14, 1959, of any net income tax which was assessed on or before such date for a taxable year ending on or before such date.
 
-([Pub. L. 86–272, title I, § 102][/us/pl/86/272/s102], Sept. 14, 1959, [73 Stat. 556][/us/stat/73/556].)
+([Pub. L. 86–272, title I][/us/pl/86/272/tI], § 102, Sept. 14, 1959, [73 Stat. 556][/us/stat/73/556].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t15/s381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs381
-[/us/pl/86/272/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F272%2Fs102
+[/us/pl/86/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F272%2FtI
 [/us/stat/73/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F556
 
 

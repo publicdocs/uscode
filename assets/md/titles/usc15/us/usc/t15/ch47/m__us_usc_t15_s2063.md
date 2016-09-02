@@ -353,7 +353,7 @@
 
         No advertisement for a consumer product or label or packaging of such product may contain a reference to a consumer product safety rule or a voluntary consumer product safety standard unless such product conforms with the applicable safety requirements of such rule or standard.
 
-([Pub. L. 92–573, § 14][/us/pl/92/573/s14], Oct. 27, 1972, [86 Stat. 1220][/us/stat/86/1220]; [Pub. L. 110–314, title I][/us/pl/110/314], §§ 102(a)(1)(A), (2), (3), (b), (d), 103, Aug. 14, 2008, [122 Stat. 3022][/us/stat/122/3022], 3024, 3027, 3028; [Pub. L. 112–28][/us/pl/112/28], §§ 2(a), 6, 10(a), Aug. 12, 2011, [125 Stat. 276][/us/stat/125/276], 281, 283.)
+([Pub. L. 92–573][/us/pl/92/573], § 14, Oct. 27, 1972, [86 Stat. 1220][/us/stat/86/1220]; [Pub. L. 110–314, title I][/us/pl/110/314/tI], §§ 102(a)(1)(A), (2), (3), (b), (d), 103, Aug. 14, 2008, [122 Stat. 3022][/us/stat/122/3022], 3024, 3027, 3028; [Pub. L. 112–28][/us/pl/112/28], §§ 2(a), 6, 10(a), Aug. 12, 2011, [125 Stat. 276][/us/stat/125/276], 281, 283.)
 
  __References in Text__ 
 
@@ -361,39 +361,39 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a)(5). [Pub. L. 112–28, § 6][/us/pl/112/28/s6], designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+    2011—Subsec. (a)(5). [Pub. L. 112–28][/us/pl/112/28], § 6, designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
-    Subsec. (d). [Pub. L. 112–28, § 10(a)][/us/pl/112/28/s10/a], redesignated subsec. (d), relating to requirement for advertisements, as (i).
+    Subsec. (d). [Pub. L. 112–28][/us/pl/112/28], § 10(a), redesignated subsec. (d), relating to requirement for advertisements, as (i).
 
-    Subsec. (d)(2)(B)(ii). [Pub. L. 112–28, § 2(a)(1)][/us/pl/112/28/s2/a/1], substituted “representative” for “random”.
+    Subsec. (d)(2)(B)(ii). [Pub. L. 112–28][/us/pl/112/28], § 2(a)(1), substituted “representative” for “random”.
 
-    Subsec. (d)(3) to (5). [Pub. L. 112–28, § 2(a)(2)][/us/pl/112/28/s2/a/2], added pars. (3) to (5).
+    Subsec. (d)(3) to (5). [Pub. L. 112–28][/us/pl/112/28], § 2(a)(2), added pars. (3) to (5).
 
-    Subsec. (i). [Pub. L. 112–28, § 10(a)][/us/pl/112/28/s10/a], redesignated subsec. (d), relating to requirement for advertisements, as (i).
+    Subsec. (i). [Pub. L. 112–28][/us/pl/112/28], § 10(a), redesignated subsec. (d), relating to requirement for advertisements, as (i).
 
-    2008—Subsec. (a)(1). [Pub. L. 110–314, § 102(a)(1)(A)][/us/pl/110/314/s102/a/1/A], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Every manufacturer of a product which is subject to a consumer product safety standard under this chapter and which is distributed in commerce (and the private labeler of such product if it bears a private label) shall issue a certificate which shall certify that such product conforms to all applicable consumer product safety standards, and shall specify any standard which is applicable. Such certificate shall accompany the product or shall otherwise be furnished to any distributor or retailer to whom the product is delivered. Any certificate under this subsection shall be based on a test of each product or upon a reasonable testing program; shall state the name of the manufacturer or private labeler issuing the certificate; and shall include the date and place of manufacture.”
+    2008—Subsec. (a)(1). [Pub. L. 110–314][/us/pl/110/314], § 102(a)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Every manufacturer of a product which is subject to a consumer product safety standard under this chapter and which is distributed in commerce (and the private labeler of such product if it bears a private label) shall issue a certificate which shall certify that such product conforms to all applicable consumer product safety standards, and shall specify any standard which is applicable. Such certificate shall accompany the product or shall otherwise be furnished to any distributor or retailer to whom the product is delivered. Any certificate under this subsection shall be based on a test of each product or upon a reasonable testing program; shall state the name of the manufacturer or private labeler issuing the certificate; and shall include the date and place of manufacture.”
 
-    Subsec. (a)(2), (3). [Pub. L. 110–314, § 102(a)(2)][/us/pl/110/314/s102/a/2], which directed amendment of par. (2) of this section by adding pars. (2) and (3), was executed by adding pars. (2) and (3) to subsec. (a) of this section, to reflect the probable intent of Congress. Former par. (2) redesignated (4).
+    Subsec. (a)(2), (3). [Pub. L. 110–314][/us/pl/110/314], § 102(a)(2), which directed amendment of par. (2) of this section by adding pars. (2) and (3), was executed by adding pars. (2) and (3) to subsec. (a) of this section, to reflect the probable intent of Congress. Former par. (2) redesignated (4).
 
-    Subsec. (a)(4). [Pub. L. 110–314, § 102(a)(3)][/us/pl/110/314/s102/a/3], substituted “required under paragraph (1), (2), or (3)” for “required by paragraph (1) of this subsection” and “requirement under paragraph (1), (2), or (3)” for “requirement under paragraph (1)”.
+    Subsec. (a)(4). [Pub. L. 110–314][/us/pl/110/314], § 102(a)(3), substituted “required under paragraph (1), (2), or (3)” for “required by paragraph (1) of this subsection” and “requirement under paragraph (1), (2), or (3)” for “requirement under paragraph (1)”.
 
-    [Pub. L. 110–314, § 102(a)(2)][/us/pl/110/314/s102/a/2], which directed amendment of par. (2) of this section by redesignating par. (2) as (4), was executed to subsec. (a) of this section, to reflect the probable intent of Congress.
+    [Pub. L. 110–314][/us/pl/110/314], § 102(a)(2), which directed amendment of par. (2) of this section by redesignating par. (2) as (4), was executed to subsec. (a) of this section, to reflect the probable intent of Congress.
 
-    Subsec. (a)(5). [Pub. L. 110–314, § 103(a)][/us/pl/110/314/s103/a], added par. (5).
+    Subsec. (a)(5). [Pub. L. 110–314][/us/pl/110/314], § 103(a), added par. (5).
 
-    Subsec. (b). [Pub. L. 110–314, § 102(d)][/us/pl/110/314/s102/d], substituted “any product which is subject to a consumer product safety rule under this chapter, or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission,” for “consumer products which are subject to consumer product safety standards under this chapter” and “, unless the Commission, by rule, requires testing by an independent third party for a particular rule, regulation, standard, or ban, or for a particular class of products.” for “or testing programs.”
+    Subsec. (b). [Pub. L. 110–314][/us/pl/110/314], § 102(d), substituted “any product which is subject to a consumer product safety rule under this chapter, or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission,” for “consumer products which are subject to consumer product safety standards under this chapter” and “, unless the Commission, by rule, requires testing by an independent third party for a particular rule, regulation, standard, or ban, or for a particular class of products.” for “or testing programs.”
 
-    Subsec. (c)(2) to (4). [Pub. L. 110–314, § 103(b)][/us/pl/110/314/s103/b], added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+    Subsec. (c)(2) to (4). [Pub. L. 110–314][/us/pl/110/314], § 103(b), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-    Subsec. (d). [Pub. L. 110–314, § 103(c)][/us/pl/110/314/s103/c], added subsec (d) relating to requirement for advertisements.
+    Subsec. (d). [Pub. L. 110–314][/us/pl/110/314], § 103(c), added subsec (d) relating to requirement for advertisements.
 
-    [Pub. L. 110–314, § 102(b)][/us/pl/110/314/s102/b], added subsec. (d) relating to additional regulations for third party testing.
+    [Pub. L. 110–314][/us/pl/110/314], § 102(b), added subsec. (d) relating to additional regulations for third party testing.
 
-    Subsecs. (e) to (h). [Pub. L. 110–314, § 102(b)][/us/pl/110/314/s102/b], added subsecs. (e) to (h).
+    Subsecs. (e) to (h). [Pub. L. 110–314][/us/pl/110/314], § 102(b), added subsecs. (e) to (h).
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–314, title I, § 102(a)(1)(B)][/us/pl/110/314/s102/a/1/B], Aug. 14, 2008, [122 Stat. 3022][/us/stat/122/3022], provided that: 
+[Pub. L. 110–314, title I][/us/pl/110/314/tI], § 102(a)(1)(B), Aug. 14, 2008, [122 Stat. 3022][/us/stat/122/3022], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall take effect 90 days after the date of enactment of this Act \[Aug. 14, 2008\].”
 
@@ -401,7 +401,7 @@
 
  __CPSC Consideration of Existing Requirements__ 
 
-[Pub. L. 110–314, title I, § 102(c)][/us/pl/110/314/s102/c], Aug. 14, 2008, [122 Stat. 3027][/us/stat/122/3027], provided that: 
+[Pub. L. 110–314, title I][/us/pl/110/314/tI], § 102(c), Aug. 14, 2008, [122 Stat. 3027][/us/stat/122/3027], provided that: 
 
 > “In establishing standards for accreditation of a third party conformity assessment body under section 14(a)(3) of the Consumer Product Safety Act \[[15 U.S.C. 2063(a)(3)][/us/usc/t15/s2063/a/3]\], as added by subsection (a), the \[Consumer Product Safety\] Commission may consider standards and protocols for accreditation of such conformity assessment bodies by independent accreditation organizations that are in effect on the date of enactment of this Act \[Aug. 14, 2008\], but shall ensure that the protocols, standards, and requirements prescribed under such section 14(a)(3) incorporate, as the standard for accreditation, the most current scientific and technological standards and techniques available.”
 
@@ -416,36 +416,36 @@
 [/us/usc/t15/s2056a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2056a%2Ff
 [/us/usc/t15/s1278a/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1278a%2Fb%2F6
 [/us/usc/t15/s1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1261
-[/us/pl/92/573/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs14
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1220
-[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtI
 [/us/stat/122/3022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3022
 [/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
 [/us/stat/125/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F276
 [/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/stat/74/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F372
 [/us/usc/t15/s1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1261
-[/us/pl/112/28/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs6
-[/us/pl/112/28/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs10%2Fa
-[/us/pl/112/28/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs2%2Fa%2F1
-[/us/pl/112/28/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs2%2Fa%2F2
-[/us/pl/112/28/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs10%2Fa
-[/us/pl/110/314/s102/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs102%2Fa%2F1%2FA
-[/us/pl/110/314/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs102%2Fa%2F2
-[/us/pl/110/314/s102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs102%2Fa%2F3
-[/us/pl/110/314/s102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs102%2Fa%2F2
-[/us/pl/110/314/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs103%2Fa
-[/us/pl/110/314/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs102%2Fd
-[/us/pl/110/314/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs103%2Fb
-[/us/pl/110/314/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs103%2Fc
-[/us/pl/110/314/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs102%2Fb
-[/us/pl/110/314/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs102%2Fb
-[/us/pl/110/314/s102/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs102%2Fa%2F1%2FB
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtI
 [/us/stat/122/3022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3022
 [/us/pl/110/314/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs103%2Fc
 [/us/pl/110/314/s239/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs239%2Fa
 [/us/usc/t15/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2051
-[/us/pl/110/314/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs102%2Fc
+[/us/pl/110/314/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtI
 [/us/stat/122/3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3027
 [/us/usc/t15/s2063/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2063%2Fa%2F3
 

@@ -35,7 +35,7 @@
 
         A person may not be compelled in connection with an investigation under this section to give testimony or a statement, or to produce a document or other thing, in violation of any legally applicable right or privilege.
 
-([Pub. L. 103–438, § 3][/us/pl/103/438/s3], Nov. 2, 1994, [108 Stat. 4597][/us/stat/108/4597].)
+([Pub. L. 103–438][/us/pl/103/438], § 3, Nov. 2, 1994, [108 Stat. 4597][/us/stat/108/4597].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t15/s6207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6207
 [/us/usc/t15/s6204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6204
-[/us/pl/103/438/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438%2Fs3
+[/us/pl/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438
 [/us/stat/108/4597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4597
 [/us/pl/103/438/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438%2Fs3
 [/us/pl/103/438/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438%2Fs3

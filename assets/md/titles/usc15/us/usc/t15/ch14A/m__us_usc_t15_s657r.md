@@ -147,7 +147,7 @@
 
         Agencies operating mentor protege programs pursuant to subsection (b)(4)(C) shall submit the plans specified in subsection (b)(1)(A) to the Administrator within 6 months of the promulgation of rules required by subsection (b)(3). The Administrator shall provide initial comments on each plan within 60 days of receipt, and final approval or denial of each plan within 180 days after receipt.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[45\], as added [Pub. L. 112–239, div. A, title XVI, § 1641(2)][/us/pl/112/239/s1641/2], Jan. 2, 2013, [126 Stat. 2077][/us/stat/126/2077].)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[45\], as added [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1641(2), Jan. 2, 2013, [126 Stat. 2077][/us/stat/126/2077].)
 
  __Prior Provisions__ 
 
@@ -161,8 +161,8 @@
 ----------
 
 [/us/usc/t15/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
-[/us/pl/112/239/s1641/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1641%2F2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2077
 [/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631

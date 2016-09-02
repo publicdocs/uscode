@@ -25,7 +25,7 @@
 
         (2) The committees of Congress referred to in paragraph (1) are the Committees on Armed Services of the Senate and House of Representatives, the Committee on Energy and Natural Resources of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives.
 
-([Pub. L. 100–180, div. C, title I, § 3151][/us/pl/100/180/s3151], Dec. 4, 1987, [101 Stat. 1244][/us/stat/101/1244]; [Pub. L. 103–437, § 5(b)(6)][/us/pl/103/437/s5/b/6], Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582].)
+([Pub. L. 100–180, div. C, title I][/us/pl/100/180/dC/tI], § 3151, Dec. 4, 1987, [101 Stat. 1244][/us/stat/101/1244]; [Pub. L. 103–437][/us/pl/103/437], § 5(b)(6), Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/100/180/s3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3151
+[/us/pl/100/180/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdC%2FtI
 [/us/stat/101/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1244
-[/us/pl/103/437/s5/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs5%2Fb%2F6
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4582
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 

@@ -33,7 +33,7 @@
 
         (3) to the public if necessary to protect their health and safety.
 
-([Pub. L. 92–205, § 3][/us/pl/92/205/s3], Dec. 18, 1971, [85 Stat. 736][/us/stat/85/736].)
+([Pub. L. 92–205][/us/pl/92/205], § 3, Dec. 18, 1971, [85 Stat. 736][/us/stat/85/736].)
 
 ----------
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
-[/us/pl/92/205/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F205%2Fs3
+[/us/pl/92/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F205
 [/us/stat/85/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F736
 
 

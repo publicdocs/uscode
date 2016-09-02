@@ -113,7 +113,7 @@
 
             (C) any change in the operating plan submitted under paragraph (3)(B) which would result in a variation from such plan with respect to expense levels of more than 10 percent.
 
-([Pub. L. 100–519, title II, § 212][/us/pl/100/519/s212], Oct. 24, 1988, [102 Stat. 2594][/us/stat/102/2594]; [Pub. L. 102–140, title II][/us/pl/102/140], Oct. 28, 1991, [105 Stat. 804][/us/stat/105/804]; [Pub. L. 102–245, title V, § 506(c)][/us/pl/102/245/s506/c], Feb. 14, 1992, [106 Stat. 27][/us/stat/106/27]; [Pub. L. 110–161, div. B, title I, § 109][/us/pl/110/161/s109], Dec. 26, 2007, [121 Stat. 1893][/us/stat/121/1893]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 100–519, title II][/us/pl/100/519/tII], § 212, Oct. 24, 1988, [102 Stat. 2594][/us/stat/102/2594]; [Pub. L. 102–140, title II][/us/pl/102/140/tII], Oct. 28, 1991, [105 Stat. 804][/us/stat/105/804]; [Pub. L. 102–245, title V][/us/pl/102/245/tV], § 506(c), Feb. 14, 1992, [106 Stat. 27][/us/stat/106/27]; [Pub. L. 110–161, div. B, title I][/us/pl/110/161/dB/tI], § 109, Dec. 26, 2007, [121 Stat. 1893][/us/stat/121/1893]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -147,7 +147,7 @@
 
  __National Technical Information Service Revolving Fund__ 
 
-[Pub. L. 102–395, title II][/us/pl/102/395], Oct. 6, 1992, [106 Stat. 1853][/us/stat/106/1853], provided that: 
+[Pub. L. 102–395, title II][/us/pl/102/395/tII], Oct. 6, 1992, [106 Stat. 1853][/us/stat/106/1853], provided that: 
 
 > “For establishment of a National Technical Information Service Revolving Fund, $8,000,000 without fiscal year limitation: Provided, That unexpended balances in Information Products and Services shall be transferred to and merged with this account, to remain available until expended. Notwithstanding [15 U.S.C. 1525][/us/usc/t15/s1525] and 1526, all payments collected by the National Technical Information Service in performing its activities authorized by chapters 23 and 63 of title 15 of the United States Code shall be credited to this Revolving Fund. Without further appropriations action, all expenses incurred in performing the activities of the National Technical Information Service, including modernization, capital equipment and inventory, shall be paid from the fund. A business-type budget for the fund shall be prepared in the manner prescribed by [31 U.S.C. 9103][/us/usc/t31/s9103].”
 
@@ -160,15 +160,15 @@
 
 [/us/usc/t15/s1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1152
 [/us/usc/t15/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1151
-[/us/pl/100/519/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs212
+[/us/pl/100/519/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2FtII
 [/us/stat/102/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2594
-[/us/pl/102/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140
+[/us/pl/102/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2FtII
 [/us/stat/105/804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F804
-[/us/pl/102/245/s506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs506%2Fc
+[/us/pl/102/245/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtV
 [/us/stat/106/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F27
-[/us/pl/110/161/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs109
+[/us/pl/110/161/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdB%2FtI
 [/us/stat/121/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1893
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/100/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519
 [/us/stat/102/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2594
@@ -187,7 +187,7 @@
 [/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/102/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395
+[/us/pl/102/395/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395%2FtII
 [/us/stat/106/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1853
 [/us/usc/t15/s1525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1525
 [/us/usc/t31/s9103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9103

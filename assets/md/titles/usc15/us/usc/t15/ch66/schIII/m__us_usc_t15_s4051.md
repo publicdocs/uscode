@@ -57,7 +57,7 @@
 
         (2) Any fees received by the Secretary pursuant to paragraph (1) shall be deposited in a separate account or accounts which may be used to defray directly the costs incurred in conducting activities authorized by paragraph (1) or to repay or make advances to appropriations or other funds available for such activities.
 
-([Pub. L. 99–64, title II, § 201][/us/pl/99/64/s201], July 12, 1985, [99 Stat. 157][/us/stat/99/157]; [Pub. L. 100–418, title II][/us/pl/100/418], §§ 2305(a), 2308(a), Aug. 23, 1988, [102 Stat. 1344][/us/stat/102/1344], 1346.)
+([Pub. L. 99–64, title II][/us/pl/99/64/tII], § 201, July 12, 1985, [99 Stat. 157][/us/stat/99/157]; [Pub. L. 100–418, title II][/us/pl/100/418/tII], §§ 2305(a), 2308(a), Aug. 23, 1988, [102 Stat. 1344][/us/stat/102/1344], 1346.)
 
  __Codification__ 
 
@@ -65,9 +65,9 @@
 
  __Amendments__ 
 
-    1988—Subsec. (d)(5). [Pub. L. 100–418, § 2305(a)][/us/pl/100/418/s2305/a], added par. (5).
+    1988—Subsec. (d)(5). [Pub. L. 100–418][/us/pl/100/418], § 2305(a), added par. (5).
 
-    Subsec. (e). [Pub. L. 100–418, § 2308(a)][/us/pl/100/418/s2308/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 100–418][/us/pl/100/418], § 2308(a), added subsec. (e).
 
 ----------
 
@@ -79,12 +79,12 @@
 [/us/usc/t15/s4723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4723
 [/us/usc/t15/s4724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4724
 [/us/usc/t44/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs501
-[/us/pl/99/64/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs201
+[/us/pl/99/64/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtII
 [/us/stat/99/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F157
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1344
 [/us/pl/97/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290
-[/us/pl/100/418/s2305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2305%2Fa
-[/us/pl/100/418/s2308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2308%2Fa
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 
 

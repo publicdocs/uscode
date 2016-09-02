@@ -111,7 +111,7 @@
 
         (4) The Administrator of the Economic Regulatory Administration shall keep such Committees fully and currently informed about the status (including delays, settlement negotiations, and other pertinent matters) of all enforcement cases (whether or not in litigation) and subpart V regulation proceedings.
 
-([Pub. L. 99–509, title III, § 3005][/us/pl/99/509/s3005], Oct. 21, 1986, [100 Stat. 1884][/us/stat/100/1884].)
+([Pub. L. 99–509, title III][/us/pl/99/509/tIII], § 3005, Oct. 21, 1986, [100 Stat. 1884][/us/stat/100/1884].)
 
  __References in Text__ 
 
@@ -135,7 +135,7 @@
 [/us/usc/t15/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs751
 [/us/usc/t15/s772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs772
 [/us/usc/t42/s7194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7194
-[/us/pl/99/509/s3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs3005
+[/us/pl/99/509/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIII
 [/us/stat/100/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1884
 [/us/pl/93/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F159
 [/us/stat/87/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F628

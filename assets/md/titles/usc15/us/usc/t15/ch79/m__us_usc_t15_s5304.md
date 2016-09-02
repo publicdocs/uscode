@@ -111,7 +111,7 @@
 
         Each recipient of financial assistance under subsection (d) shall be known as a “National Metal Casting Research Institute”.
 
-([Pub. L. 101–425, § 5][/us/pl/101/425/s5], Oct. 15, 1990, [104 Stat. 916][/us/stat/104/916].)
+([Pub. L. 101–425][/us/pl/101/425], § 5, Oct. 15, 1990, [104 Stat. 916][/us/stat/104/916].)
 
 ----------
 
@@ -123,7 +123,7 @@
 [/us/usc/t15/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5303
 [/us/usc/t15/s5306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5306
 [/us/usc/t15/s5306/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5306%2Fb%2F1
-[/us/pl/101/425/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F425%2Fs5
+[/us/pl/101/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F425
 [/us/stat/104/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F916
 
 

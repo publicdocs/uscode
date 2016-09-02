@@ -27,7 +27,7 @@
 
         In determining the amount of a proposed penalty, the Commission shall take into consideration the nature and seriousness of the violation and the efforts to remedy the violation.
 
-([June 21, 1938, ch. 556, § 22][/us/act/1938-06-21/ch556/s22], as added [Pub. L. 109–58, title III, § 314(b)(1)(B)][/us/pl/109/58/s314/b/1/B], Aug. 8, 2005, [119 Stat. 691][/us/stat/119/691].)
+([June 21, 1938, ch. 556][/us/act/1938-06-21/ch556], § 22, as added [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 314(b)(1)(B), Aug. 8, 2005, [119 Stat. 691][/us/stat/119/691].)
 
  __Prior Provisions__ 
 
@@ -40,8 +40,8 @@
 ----------
 ----------
 
-[/us/act/1938-06-21/ch556/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556%2Fs22
-[/us/pl/109/58/s314/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs314%2Fb%2F1%2FB
+[/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F691
 [/us/usc/t15/s717u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717u
 

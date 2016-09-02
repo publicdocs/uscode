@@ -231,7 +231,7 @@
 
                 A description of how each prize competition advanced the mission of the agency concerned.
 
-([Pub. L. 96–480, § 24][/us/pl/96/480/s24], as added [Pub. L. 111–358, title I, § 105(a)][/us/pl/111/358/s105/a], Jan. 4, 2011, [124 Stat. 3989][/us/stat/124/3989].)
+([Pub. L. 96–480][/us/pl/96/480], § 24, as added [Pub. L. 111–358, title I][/us/pl/111/358/tI], § 105(a), Jan. 4, 2011, [124 Stat. 3989][/us/stat/124/3989].)
 
  __References in Text__ 
 
@@ -250,8 +250,8 @@
 
 [/us/usc/t15/s3703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3703
 [/us/usc/t31/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1341
-[/us/pl/96/480/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs24
-[/us/pl/111/358/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs105%2Fa
+[/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
+[/us/pl/111/358/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtI
 [/us/stat/124/3989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3989
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

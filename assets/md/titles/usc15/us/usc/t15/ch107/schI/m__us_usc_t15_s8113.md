@@ -97,7 +97,7 @@
 
         The joint strategic plan shall be posted for public access on the website of the White House, and shall be disseminated to the public through such other means as the IPEC may identify.
 
-([Pub. L. 110–403, title III, § 303][/us/pl/110/403/s303], Oct. 13, 2008, [122 Stat. 4266][/us/stat/122/4266].)
+([Pub. L. 110–403, title III][/us/pl/110/403/tIII], § 303, Oct. 13, 2008, [122 Stat. 4266][/us/stat/122/4266].)
 
 ----------
 
@@ -111,7 +111,7 @@
 [/us/usc/t15/s8111/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8111%2Fb%2F3
 [/us/usc/t15/s8111/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8111%2Fb%2F3
 [/us/usc/t19/s2242/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2242%2Fa
-[/us/pl/110/403/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs303
+[/us/pl/110/403/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtIII
 [/us/stat/122/4266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4266
 
 

@@ -51,15 +51,15 @@
 
         No court of the United States or any State, and no State (or officer or agency thereof), may make, execute, or enforce any order or process in violation of this section.
 
-([Pub. L. 90–321, title III, § 303][/us/pl/90/321/s303], May 29, 1968, [82 Stat. 163][/us/stat/82/163]; [Pub. L. 95–30, title V, § 501(e)(1)][/us/pl/95/30/s501/e/1]–(3), May 23, 1977, [91 Stat. 161][/us/stat/91/161], 162; [Pub. L. 95–598, title III, § 312(a)][/us/pl/95/598/s312/a], Nov. 6, 1978, [92 Stat. 2676][/us/stat/92/2676].)
+([Pub. L. 90–321, title III][/us/pl/90/321/tIII], § 303, May 29, 1968, [82 Stat. 163][/us/stat/82/163]; [Pub. L. 95–30, title V][/us/pl/95/30/tV], § 501(e)(1)–(3), May 23, 1977, [91 Stat. 161][/us/stat/91/161], 162; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 312(a), Nov. 6, 1978, [92 Stat. 2676][/us/stat/92/2676].)
 
  __Amendments__ 
 
     1978—Subsec. (b)(1)(B). [Pub. L. 95–598][/us/pl/95/598] substituted “court of the United States having jurisdiction over cases under chapter 13 of title 11” for “court of bankruptcy under chapter XIII of the Bankruptcy Act”.
 
-    1977—Subsec. (b). [Pub. L. 95–30, § 501(e)(1)][/us/pl/95/30/s501/e/1], (2), designated existing provisions as par. (1) and existing pars. (1), (2), and (3) as subpars. (A), (B), and (C) thereof, substituted “for the support of any person issued by a court of competent jurisdiction or in accordance with an administrative procedure, which is established by State law, which affords substantial due process, and which is subject to judicial review” for “of any court for the support of any person” in subpar. (A) as so redesignated, and added par. (2).
+    1977—Subsec. (b). [Pub. L. 95–30][/us/pl/95/30], § 501(e)(1), (2), designated existing provisions as par. (1) and existing pars. (1), (2), and (3) as subpars. (A), (B), and (C) thereof, substituted “for the support of any person issued by a court of competent jurisdiction or in accordance with an administrative procedure, which is established by State law, which affords substantial due process, and which is subject to judicial review” for “of any court for the support of any person” in subpar. (A) as so redesignated, and added par. (2).
 
-    Subsec. (c). [Pub. L. 95–30, § 501(e)(3)][/us/pl/95/30/s501/e/3], inserted “, and no State (or officer or agency thereof),” after “or any State”.
+    Subsec. (c). [Pub. L. 95–30][/us/pl/95/30], § 501(e)(3), inserted “, and no State (or officer or agency thereof),” after “or any State”.
 
  __Effective Date of 1978 Amendment__ 
 
@@ -67,7 +67,7 @@
 
  __Effective Date of 1977 Amendment__ 
 
-[Pub. L. 95–30, title V, § 501(e)(5)][/us/pl/95/30/s501/e/5], May 23, 1977, [91 Stat. 162][/us/stat/91/162], provided that: 
+[Pub. L. 95–30, title V][/us/pl/95/30/tV], § 501(e)(5), May 23, 1977, [91 Stat. 162][/us/stat/91/162], provided that: 
 
 > “The amendments made by this subsection \[amending this section and [section 1675 of this title][/us/usc/t15/s1675]\] shall take effect on the first day of the first calendar month which begins after the date of enactment of this Act \[May 23, 1977\].”
 
@@ -80,19 +80,19 @@
 
 [/us/usc/t15/s1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1675
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
-[/us/pl/90/321/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs303
+[/us/pl/90/321/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIII
 [/us/stat/82/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F163
-[/us/pl/95/30/s501/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs501%2Fe%2F1
+[/us/pl/95/30/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtV
 [/us/stat/91/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F161
-[/us/pl/95/598/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs312%2Fa
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2676
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
-[/us/pl/95/30/s501/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs501%2Fe%2F1
-[/us/pl/95/30/s501/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs501%2Fe%2F3
+[/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
+[/us/pl/95/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/95/598/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402%2Fa
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
-[/us/pl/95/30/s501/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2Fs501%2Fe%2F5
+[/us/pl/95/30/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F30%2FtV
 [/us/stat/91/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F162
 [/us/usc/t15/s1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1675
 

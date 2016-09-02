@@ -57,11 +57,11 @@
 
             The copy of any consumer’s statement shall be maintained in the organization’s files for 2 years after the date on which the statement is signed by the consumer.
 
-([Pub. L. 90–321, title IV, § 405][/us/pl/90/321/s405], as added [Pub. L. 104–208, div. A, title II, § 2451][/us/pl/104/208/s2451], Sept. 30, 1996, [110 Stat. 3009–457][/us/stat/110/3009-457].)
+([Pub. L. 90–321, title IV][/us/pl/90/321/tIV], § 405, as added [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2451, Sept. 30, 1996, [110 Stat. 3009–457][/us/stat/110/3009-457].)
 
  __References in Text__ 
 
-    The Credit Repair Organization Act, referred to in subsec. (a), probably means the Credit Repair Organizations Act, [Pub. L. 90–321, title IV][/us/pl/90/321], as added [Pub. L. 104–208, div. A, title II, § 2451][/us/pl/104/208/s2451], Sept. 30, 1996, [110 Stat. 3009–454][/us/stat/110/3009-454], which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title][/us/usc/t15/s1601] and Tables.
+    The Credit Repair Organization Act, referred to in subsec. (a), probably means the Credit Repair Organizations Act, [Pub. L. 90–321, title IV][/us/pl/90/321/tIV], as added [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2451, Sept. 30, 1996, [110 Stat. 3009–454][/us/stat/110/3009-454], which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title][/us/usc/t15/s1601] and Tables.
 
  __Prior Provisions__ 
 
@@ -74,11 +74,11 @@
 ----------
 ----------
 
-[/us/pl/90/321/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs405
-[/us/pl/104/208/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2451
+[/us/pl/90/321/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIV
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-457
-[/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
-[/us/pl/104/208/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2451
+[/us/pl/90/321/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIV
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-454
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/90/321/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs405

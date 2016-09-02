@@ -29,7 +29,7 @@
 
     (3) The term “State” means any State of the United States or the District of Columbia.
 
-([Pub. L. 103–55, § 5][/us/pl/103/55/s5], July 28, 1993, [107 Stat. 277][/us/stat/107/277]; [Pub. L. 104–88, title III, § 336][/us/pl/104/88/s336], Dec. 29, 1995, [109 Stat. 954][/us/stat/109/954]; [Pub. L. 110–234, title IV, § 4002(b)(1)(E)][/us/pl/110/234/s4002/b/1/E], (2)(L), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(E), (2)(L), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858.)
+([Pub. L. 103–55][/us/pl/103/55], § 5, July 28, 1993, [107 Stat. 277][/us/stat/107/277]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 336, Dec. 29, 1995, [109 Stat. 954][/us/stat/109/954]; [Pub. L. 110–234, title IV][/us/pl/110/234/tIV], § 4002(b)(1)(E), (2)(L), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title IV, § 4002(b)(1)(E), (2)(L), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858.)
 
  __Codification__ 
 
@@ -37,7 +37,7 @@
 
  __Amendments__ 
 
-    2008—Par. (2)(B). [Pub. L. 110–246, § 4002(b)(1)(E)][/us/pl/110/246/s4002/b/1/E], (2)(L), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+    2008—Par. (2)(B). [Pub. L. 110–246][/us/pl/110/246], § 4002(b)(1)(E), (2)(L), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
 
     1995—Par. (2). [Pub. L. 104–88][/us/pl/104/88] substituted “subchapter I of chapter 135” for “subchapter II of chapter 105” in subpar. (A) and “is registered under chapter 139” for “holding the appropriate certificate, permit, or license issued under subchapter II of chapter 109” in subpar. (B).
 
@@ -58,19 +58,19 @@
 ----------
 ----------
 
-[/us/pl/103/55/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F55%2Fs5
+[/us/pl/103/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F55
 [/us/stat/107/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F277
-[/us/pl/104/88/s336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs336
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F954
-[/us/pl/110/234/s4002/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs4002%2Fb%2F1%2FE
+[/us/pl/110/234/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtIV
 [/us/stat/122/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1096
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/110/246/s4002/b/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FE
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

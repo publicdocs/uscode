@@ -23,7 +23,7 @@
 
         Every natural-gas company upon request shall file with the Commission an inventory of all or any part of its property and a statement of the original cost thereof, and shall keep the Commission informed regarding the cost of all additions, betterments, extensions, and new construction.
 
-([June 21, 1938, ch. 556, § 6][/us/act/1938-06-21/ch556/s6], [52 Stat. 824][/us/stat/52/824].)
+([June 21, 1938, ch. 556][/us/act/1938-06-21/ch556], § 6, [52 Stat. 824][/us/stat/52/824].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-21/ch556/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556%2Fs6
+[/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F824
 
 

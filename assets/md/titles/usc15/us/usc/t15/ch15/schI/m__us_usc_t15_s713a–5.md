@@ -17,7 +17,7 @@
 
     Bonds, notes, debentures, and other similar obligations issued by the Commodity Credit Corporation under the provisions of sections 713a–1 to 713a–5 of this title shall be deemed and held to be instrumentalities of the Government of the United States, and as such they and the income derived therefrom shall be exempt from Federal, State, municipal, and local taxation (except surtaxes, estate, inheritance, and gift taxes). The Commodity Credit Corporation, including its franchise, its capital, reserves, and surplus, and its income shall be exempt from all taxation imposed by the United States, by any Territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority; except that any real property of the Commodity Credit Corporation shall be subject to State, Territorial, county, municipal, or local taxation to the same extent according to its value as other real property is taxed.
 
-([Mar. 8, 1938, ch. 44, § 5][/us/act/1938-03-08/ch44/s5], [52 Stat. 108][/us/stat/52/108].)
+([Mar. 8, 1938, ch. 44][/us/act/1938-03-08/ch44], § 5, [52 Stat. 108][/us/stat/52/108].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1938-03-08/ch44/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-03-08%2Fch44%2Fs5
+[/us/act/1938-03-08/ch44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-03-08%2Fch44
 [/us/stat/52/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F108
 [/us/usc/t15/s713a–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%933
 [/us/usc/t15/s712a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs712a

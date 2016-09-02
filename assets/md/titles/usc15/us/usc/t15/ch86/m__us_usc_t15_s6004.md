@@ -59,11 +59,11 @@
 
             The final standard developed under subsection (c) shall be considered a consumer product safety standard promulgated under the Consumer Product Safety Act.
 
-([Pub. L. 103–267, title II, § 205][/us/pl/103/267/s205], June 16, 1994, [108 Stat. 727][/us/stat/108/727].)
+([Pub. L. 103–267, title II][/us/pl/103/267/tII], § 205, June 16, 1994, [108 Stat. 727][/us/stat/108/727].)
 
  __References in Text__ 
 
-    Section 30(d) of the Consumer Product Safety Act, referred to in subsec. (c), was classified to [section 2079(d) of this title][/us/usc/t15/s2079/d] prior to repeal by [Pub. L. 110–314, title II, § 237][/us/pl/110/314/s237], Aug. 14, 2008, [122 Stat. 3076][/us/stat/122/3076].
+    Section 30(d) of the Consumer Product Safety Act, referred to in subsec. (c), was classified to [section 2079(d) of this title][/us/usc/t15/s2079/d] prior to repeal by [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 237, Aug. 14, 2008, [122 Stat. 3076][/us/stat/122/3076].
 
     The Consumer Product Safety Act, referred to in subsec. (d), is [Pub. L. 92–573][/us/pl/92/573], Oct. 27, 1972, [86 Stat. 1207][/us/stat/86/1207], as amended, which is classified generally to chapter 47 (§ 2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2051 of this title][/us/usc/t15/s2051] and Tables.
 
@@ -78,10 +78,10 @@
 [/us/usc/t15/s2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2056
 [/us/usc/t15/s2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2060
 [/us/usc/t15/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2051
-[/us/pl/103/267/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2Fs205
+[/us/pl/103/267/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2FtII
 [/us/stat/108/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F727
 [/us/usc/t15/s2079/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2079%2Fd
-[/us/pl/110/314/s237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs237
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3076
 [/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1207

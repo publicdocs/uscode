@@ -39,7 +39,7 @@
 
     (11) The failure or refusal to provide the Secretary with adequate space or facilities, as the Secretary may by regulation under [section 1828 of this title][/us/usc/t15/s1828] prescribe, in which to conduct inspections or any other activity authorized to be performed by the Secretary under this chapter.
 
-([Pub. L. 91–540, § 5][/us/pl/91/540/s5], Dec. 9, 1970, [84 Stat. 1405][/us/stat/84/1405]; [Pub. L. 94–360, § 6][/us/pl/94/360/s6], July 13, 1976, [90 Stat. 916][/us/stat/90/916].)
+([Pub. L. 91–540][/us/pl/91/540], § 5, Dec. 9, 1970, [84 Stat. 1405][/us/stat/84/1405]; [Pub. L. 94–360][/us/pl/94/360], § 6, July 13, 1976, [90 Stat. 916][/us/stat/90/916].)
 
  __Amendments__ 
 
@@ -60,9 +60,9 @@
 [/us/usc/t15/s1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1823
 [/us/usc/t15/s1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1823
 [/us/usc/t15/s1828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1828
-[/us/pl/91/540/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F540%2Fs5
+[/us/pl/91/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F540
 [/us/stat/84/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1405
-[/us/pl/94/360/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360%2Fs6
+[/us/pl/94/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360
 [/us/stat/90/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F916
 [/us/pl/94/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360
 [/us/usc/t15/s1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1823

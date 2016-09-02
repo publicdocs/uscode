@@ -19,11 +19,11 @@
 
     (b) Notwithstanding the provisions of subsection (a), such right to use the Golden Gate Bridge free of toll may be established by any other device or means which may be acceptable to the Golden Gate Bridge and Highway District; and the Secretary of the Army and the Golden Gate Bridge and Highway District, and the Secretary of the Navy and the Golden Gate Bridge and Highway District, may enter into any appropriate agreements to secure the effective, convenient, and just exercise of such right.
 
-([Mar. 14, 1944, ch. 92, § 2][/us/act/1944-03-14/ch92/s2], [58 Stat. 116][/us/stat/58/116].)
+([Mar. 14, 1944, ch. 92][/us/act/1944-03-14/ch92], § 2, [58 Stat. 116][/us/stat/58/116].)
 
  __Codification__ 
 
-    The Department of War was designated the Department of the Army and the title of the Secretary of War was changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3011 to 3013 continued the military Department of the Army under the administrative supervision of a Secretary of the Army.
+    The Department of War was designated the Department of the Army and the title of the Secretary of War was changed to Secretary of the Army by section 205(a) of [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by section 53 of [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3011 to 3013 continued the military Department of the Army under the administrative supervision of a Secretary of the Army.
 
  __Secretary of the Air Force__ 
 
@@ -37,9 +37,9 @@
 ----------
 
 [/us/usc/t15/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1002
-[/us/act/1944-03-14/ch92/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-03-14%2Fch92%2Fs2
+[/us/act/1944-03-14/ch92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-03-14%2Fch92
 [/us/stat/58/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F116
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641

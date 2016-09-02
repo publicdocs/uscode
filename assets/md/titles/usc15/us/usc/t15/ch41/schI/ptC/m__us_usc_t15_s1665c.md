@@ -39,7 +39,7 @@
 
         The Bureau  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Board”. </sup></sup>  shall issue final rules not later than 9 months after May 22, 2009, to implement the requirements of and evaluate compliance with this section, and subsections (a), (b), and (c) shall become effective 15 months after May 22, 2009.
 
-([Pub. L. 90–321, title I, § 148][/us/pl/90/321/s148], as added [Pub. L. 111–24, title I, § 101(c)][/us/pl/111/24/s101/c], May 22, 2009, [123 Stat. 1737][/us/stat/123/1737]; amended [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 148, as added [Pub. L. 111–24, title I][/us/pl/111/24/tI], § 101(c), May 22, 2009, [123 Stat. 1737][/us/stat/123/1737]; amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 
  __Amendments__ 
 
@@ -61,10 +61,10 @@
 ----------
 
 [/us/usc/t15/s1637/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637%2Fi
-[/us/pl/90/321/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs148
-[/us/pl/111/24/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs101%2Fc
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/111/24/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtI
 [/us/stat/123/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1737
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

@@ -45,7 +45,7 @@
 
         No sale under any emergency purchase contract under this section for emergency supplies of natural gas for sale and delivery from any intrastate pipeline which is operating under court supervision as of January 1, 1977, may take effect unless the court approves.
 
-([Pub. L. 95–621, title III, § 302][/us/pl/95/621/s302], Nov. 9, 1978, [92 Stat. 3382][/us/stat/92/3382].)
+([Pub. L. 95–621, title III][/us/pl/95/621/tIII], § 302, Nov. 9, 1978, [92 Stat. 3382][/us/stat/92/3382].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 
 [/us/usc/t15/s3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3361
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
-[/us/pl/95/621/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs302
+[/us/pl/95/621/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2FtIII
 [/us/stat/92/3382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3382
 [/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F821

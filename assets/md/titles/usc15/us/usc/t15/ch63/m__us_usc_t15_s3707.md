@@ -27,7 +27,7 @@
 
         Grants, contracts, and cooperative agreements entered into by the National Science Foundation in execution of the powers and duties of the National Science Foundation under this chapter shall be governed by the National Science Foundation Act of 1950 \[[42 U.S.C. 1861][/us/usc/t42/s1861] et seq.\] and other pertinent Acts.
 
-([Pub. L. 96–480, § 9][/us/pl/96/480/s9], formerly § 8, Oct. 21, 1980, [94 Stat. 2316][/us/stat/94/2316]; [Pub. L. 99–502, § 9(b)(11)][/us/pl/99/502/s9/b/11], (12), (e)(2)(B), Oct. 20, 1986, [100 Stat. 1796][/us/stat/100/1796], 1797; renumbered § 9, [Pub. L. 100–418, title V, § 5122(a)(1)][/us/pl/100/418/s5122/a/1], Aug. 23, 1988, [102 Stat. 1438][/us/stat/102/1438]; [Pub. L. 106–404, § 7(4)][/us/pl/106/404/s7/4], Nov. 1, 2000, [114 Stat. 1745][/us/stat/114/1745].)
+([Pub. L. 96–480][/us/pl/96/480], § 9, formerly § 8, Oct. 21, 1980, [94 Stat. 2316][/us/stat/94/2316]; [Pub. L. 99–502][/us/pl/99/502], § 9(b)(11), (12), (e)(2)(B), Oct. 20, 1986, [100 Stat. 1796][/us/stat/100/1796], 1797; renumbered § 9, [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5122(a)(1), Aug. 23, 1988, [102 Stat. 1438][/us/stat/102/1438]; [Pub. L. 106–404][/us/pl/106/404], § 7(4), Nov. 1, 2000, [114 Stat. 1745][/us/stat/114/1745].)
 
  __References in Text__ 
 
@@ -54,13 +54,13 @@
 [/us/usc/t15/s3705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3705%2Fb
 [/us/usc/t15/s3705/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3705%2Fc%2F3
 [/us/usc/t42/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1861
-[/us/pl/96/480/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs9
+[/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2316
-[/us/pl/99/502/s9/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs9%2Fb%2F11
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/stat/100/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1796
-[/us/pl/100/418/s5122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5122%2Fa%2F1
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1438
-[/us/pl/106/404/s7/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs7%2F4
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
 [/us/stat/114/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1745
 [/us/act/1950-05-10/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171
 [/us/stat/64/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F149

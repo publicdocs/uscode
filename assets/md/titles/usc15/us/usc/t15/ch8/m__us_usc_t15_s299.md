@@ -21,7 +21,7 @@
 
     (c) The term “jewelry trade association” means an organization, consisting primarily of persons actively engaged in the jewelry or a related business, the purposes and activities of which are primarily directed to the improvement of business conditions in the jewelry or related businesses.
 
-([June 13, 1906, ch. 3289, § 6][/us/act/1906-06-13/ch3289/s6], [34 Stat. 262][/us/stat/34/262]; [Pub. L. 91–366, § 1(c)][/us/pl/91/366/s1/c], (d), July 31, 1970, [84 Stat. 690][/us/stat/84/690].)
+([June 13, 1906, ch. 3289][/us/act/1906-06-13/ch3289], § 6, [34 Stat. 262][/us/stat/34/262]; [Pub. L. 91–366][/us/pl/91/366], § 1(c), (d), July 31, 1970, [84 Stat. 690][/us/stat/84/690].)
 
  __Amendments__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/act/1906-06-13/ch3289/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-13%2Fch3289%2Fs6
+[/us/act/1906-06-13/ch3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-13%2Fch3289
 [/us/stat/34/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F262
-[/us/pl/91/366/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F366%2Fs1%2Fc
+[/us/pl/91/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F366
 [/us/stat/84/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F690
 [/us/pl/91/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F366
 [/us/pl/91/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F366

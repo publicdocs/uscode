@@ -145,35 +145,35 @@
 
         (2) As used in this subsection, the term “United States person” means a national of the United States (as defined in [section 1101 of title 8][/us/usc/t8/s1101]) or any corporation, partnership, association, joint-stock company, business trust, unincorporated organization, or sole proprietorship organized under the laws of the United States or any State, territory, possession, or commonwealth of the United States, or any political subdivision thereof.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 30A, as added [Pub. L. 95–213, title I, § 103(a)][/us/pl/95/213/s103/a], Dec. 19, 1977, [91 Stat. 1495][/us/stat/91/1495]; amended [Pub. L. 100–418, title V, § 5003(a)][/us/pl/100/418/s5003/a], Aug. 23, 1988, [102 Stat. 1415][/us/stat/102/1415]; [Pub. L. 105–366, § 2(a)][/us/pl/105/366/s2/a]–(c), Nov. 10, 1998, [112 Stat. 3302][/us/stat/112/3302], 3303.)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 30A, as added [Pub. L. 95–213, title I][/us/pl/95/213/tI], § 103(a), Dec. 19, 1977, [91 Stat. 1495][/us/stat/91/1495]; amended [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5003(a), Aug. 23, 1988, [102 Stat. 1415][/us/stat/102/1415]; [Pub. L. 105–366][/us/pl/105/366], § 2(a)–(c), Nov. 10, 1998, [112 Stat. 3302][/us/stat/112/3302], 3303.)
 
  __Amendments__ 
 
-    1998—Subsec. (a)(1)(A). [Pub. L. 105–366, § 2(a)(1)][/us/pl/105/366/s2/a/1], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
+    1998—Subsec. (a)(1)(A). [Pub. L. 105–366][/us/pl/105/366], § 2(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
 
     “(A)(i) influencing any act or decision of such foreign official in his official capacity, or (ii) inducing such foreign official to do or omit to do any act in violation of the lawful duty of such official, or”.
 
-    Subsec. (a)(2)(A). [Pub. L. 105–366, § 2(a)(2)][/us/pl/105/366/s2/a/2], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
+    Subsec. (a)(2)(A). [Pub. L. 105–366][/us/pl/105/366], § 2(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
 
     “(A)(i) influencing any act or decision of such party, official, or candidate in its or his official capacity, or (ii) inducing such party, official, or candidate to do or omit to do an act in violation of the lawful duty of such party, official, or candidate,”.
 
-    Subsec. (a)(3)(A). [Pub. L. 105–366, § 2(a)(3)][/us/pl/105/366/s2/a/3], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
+    Subsec. (a)(3)(A). [Pub. L. 105–366][/us/pl/105/366], § 2(a)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
 
     “(A)(i) influencing any act or decision of such foreign official, political party, party official, or candidate in his or its official capacity, or (ii) inducing such foreign official, political party, party official, or candidate to do or omit to do any act in violation of the lawful duty of such foreign official, political party, party official, or candidate, or”.
 
-    Subsec. (b). [Pub. L. 105–366, § 2(c)(2)][/us/pl/105/366/s2/c/2], substituted “Subsections (a) and (g)” for “Subsection (a)”.
+    Subsec. (b). [Pub. L. 105–366][/us/pl/105/366], § 2(c)(2), substituted “Subsections (a) and (g)” for “Subsection (a)”.
 
-    Subsec. (c). [Pub. L. 105–366, § 2(c)(3)][/us/pl/105/366/s2/c/3], substituted “subsection (a) or (g)” for “subsection (a)”.
+    Subsec. (c). [Pub. L. 105–366][/us/pl/105/366], § 2(c)(3), substituted “subsection (a) or (g)” for “subsection (a)”.
 
-    Subsec. (f)(1). [Pub. L. 105–366, § 2(b)][/us/pl/105/366/s2/b], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘foreign official’ means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality.”
+    Subsec. (f)(1). [Pub. L. 105–366][/us/pl/105/366], § 2(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘foreign official’ means any officer or employee of a foreign government or any department, agency, or instrumentality thereof, or any person acting in an official capacity for or on behalf of any such government or department, agency, or instrumentality.”
 
-    Subsec. (g). [Pub. L. 105–366, § 2(c)(1)][/us/pl/105/366/s2/c/1], added subsec. (g).
+    Subsec. (g). [Pub. L. 105–366][/us/pl/105/366], § 2(c)(1), added subsec. (g).
 
     1988—[Pub. L. 100–418][/us/pl/100/418] substituted “Prohibited foreign trade” for “Foreign corrupt” in section catchline and amended text generally, revising and restating provisions of subsec. (a) relating to prohibitions, adding subsecs. (b) to (e), and redesignating provisions of subsec. (b) relating to definitions as subsec. (f) and amending those provisions generally.
 
  __Treatment of International Organizations Providing Commercial Communications Services__ 
 
-[Pub. L. 105–366, § 5][/us/pl/105/366/s5], Nov. 10, 1998, [112 Stat. 3309][/us/stat/112/3309], provided that:
+[Pub. L. 105–366][/us/pl/105/366], § 5, Nov. 10, 1998, [112 Stat. 3309][/us/stat/112/3309], provided that:
 
 >     “(a)  __Definition__  __.—__ 
 
@@ -249,7 +249,7 @@
 
  __Enforcement and Monitoring__ 
 
-[Pub. L. 105–366, § 6][/us/pl/105/366/s6], Nov. 10, 1998, [112 Stat. 3311][/us/stat/112/3311], provided that:
+[Pub. L. 105–366][/us/pl/105/366], § 6, Nov. 10, 1998, [112 Stat. 3311][/us/stat/112/3311], provided that:
 
 >     “(a)  __Reports Required__  __.—__ 
 
@@ -307,7 +307,7 @@
 
  __International Agreements Concerning Acts Prohibited With Respect to Issuers and Domestic Concerns; Report to Congress__ 
 
-[Pub. L. 100–418, title V, § 5003(d)][/us/pl/100/418/s5003/d], Aug. 23, 1988, [102 Stat. 1424][/us/stat/102/1424], provided that:
+[Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5003(d), Aug. 23, 1988, [102 Stat. 1424][/us/stat/102/1424], provided that:
 
 >     “(1)  __Negotiations__  __.—__ 
 
@@ -362,21 +362,21 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t22/s288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs288
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/95/213/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213%2Fs103%2Fa
+[/us/pl/95/213/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213%2FtI
 [/us/stat/91/1495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1495
-[/us/pl/100/418/s5003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5003%2Fa
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1415
-[/us/pl/105/366/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366%2Fs2%2Fa
+[/us/pl/105/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366
 [/us/stat/112/3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3302
-[/us/pl/105/366/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366%2Fs2%2Fa%2F1
-[/us/pl/105/366/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366%2Fs2%2Fa%2F2
-[/us/pl/105/366/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366%2Fs2%2Fa%2F3
-[/us/pl/105/366/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366%2Fs2%2Fc%2F2
-[/us/pl/105/366/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366%2Fs2%2Fc%2F3
-[/us/pl/105/366/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366%2Fs2%2Fb
-[/us/pl/105/366/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366%2Fs2%2Fc%2F1
+[/us/pl/105/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366
+[/us/pl/105/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366
+[/us/pl/105/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366
+[/us/pl/105/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366
+[/us/pl/105/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366
+[/us/pl/105/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366
+[/us/pl/105/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/105/366/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366%2Fs5
+[/us/pl/105/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366
 [/us/stat/112/3309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3309
 [/us/usc/t15/s78dd–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%931
 [/us/usc/t15/s78dd–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%932
@@ -384,12 +384,12 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t50/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1801
 [/us/usc/t21/s884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs884
 [/us/pl/105/366/s5/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366%2Fs5%2Fd%2F2
-[/us/pl/105/366/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366%2Fs6
+[/us/pl/105/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366
 [/us/stat/112/3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3311
 [/us/usc/t15/s78dd–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%933
 [/us/usc/t15/s78dd–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%931
 [/us/usc/t15/s78dd–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%932
-[/us/pl/100/418/s5003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5003%2Fd
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1424
 [/us/pl/100/418/s5003/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5003%2Fd%2F1
 [/us/usc/t19/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2901

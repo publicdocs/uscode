@@ -45,7 +45,7 @@
 
         (2) In addition to actions brought by an attorney general of a State under subsection (a), such an action may be brought by officers of such State who are authorized by the State to bring actions in such State for protection of consumers and who are designated by the Commission to bring an action under subsection (a) against persons that the Commission has determined have or are engaged in a pattern or practice which violates a rule of the Commission under [section 5711(a) of this title][/us/usc/t15/s5711/a].
 
-([Pub. L. 102–556, title II, § 202][/us/pl/102/556/s202], Oct. 28, 1992, [106 Stat. 4190][/us/stat/106/4190].)
+([Pub. L. 102–556, title II][/us/pl/102/556/tII], § 202, Oct. 28, 1992, [106 Stat. 4190][/us/stat/106/4190].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 
 [/us/usc/t15/s5711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5711%2Fa
 [/us/usc/t15/s5711/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5711%2Fa
-[/us/pl/102/556/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2Fs202
+[/us/pl/102/556/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2FtII
 [/us/stat/106/4190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4190
 [/us/pl/102/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556
 [/us/stat/106/4181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4181

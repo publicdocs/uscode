@@ -25,7 +25,7 @@
 
     (4) to permit the continued use of traditional systems of weights and measures in non-business activities.
 
-([Pub. L. 94–168, § 3][/us/pl/94/168/s3], Dec. 23, 1975, [89 Stat. 1007][/us/stat/89/1007]; [Pub. L. 100–418, title V, § 5164(b)][/us/pl/100/418/s5164/b], Aug. 23, 1988, [102 Stat. 1452][/us/stat/102/1452].)
+([Pub. L. 94–168][/us/pl/94/168], § 3, Dec. 23, 1975, [89 Stat. 1007][/us/stat/89/1007]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5164(b), Aug. 23, 1988, [102 Stat. 1452][/us/stat/102/1452].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 ----------
 ----------
 
-[/us/pl/94/168/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F168%2Fs3
+[/us/pl/94/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F168
 [/us/stat/89/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1007
-[/us/pl/100/418/s5164/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5164%2Fb
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1452
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t15/s205a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs205a

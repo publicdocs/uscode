@@ -17,7 +17,7 @@
 
     Any person who knowingly and willfully violates [section 330a of this title][/us/usc/t15/s330a], or any rule issued thereunder, shall upon conviction thereof be fined not more than $10,000.
 
-([Pub. L. 92–205, § 5][/us/pl/92/205/s5], Dec. 18, 1971, [85 Stat. 736][/us/stat/85/736].)
+([Pub. L. 92–205][/us/pl/92/205], § 5, Dec. 18, 1971, [85 Stat. 736][/us/stat/85/736].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t15/s330a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs330a
-[/us/pl/92/205/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F205%2Fs5
+[/us/pl/92/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F205
 [/us/stat/85/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F736
 
 

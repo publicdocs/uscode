@@ -23,7 +23,7 @@
 
         No bank described in subsection (a) may make investments described in such subsection that are greater than 5 percent of the capital and surplus of the bank.
 
-([Pub. L. 85–699, title III, § 359][/us/pl/85/699/s359], as added [Pub. L. 106–554, § 1(a)(8)][/us/pl/106/554/s1/a/8] \[§ 1(b)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–661.)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 359, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(8) \[§ 1(b)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–661.)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/85/699/s359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs359
-[/us/pl/106/554/s1/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F8
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

@@ -87,7 +87,7 @@
 
             Violation of paragraph (1) shall be considered to be a violation of section 19(a)(1) of the Consumer Product Safety Act ([15 U.S.C. 2068(a)(1)][/us/usc/t15/s2068/a/1]) and may also be enforced under section 17 of that Act ([15 U.S.C. 2066][/us/usc/t15/s2066]).
 
-([Pub. L. 110–140, title XIV, § 1404][/us/pl/110/140/s1404], Dec. 19, 2007, [121 Stat. 1795][/us/stat/121/1795]; [Pub. L. 110–314, title II, § 238(2)][/us/pl/110/314/s238/2], Aug. 14, 2008, [122 Stat. 3076][/us/stat/122/3076].)
+([Pub. L. 110–140, title XIV][/us/pl/110/140/tXIV], § 1404, Dec. 19, 2007, [121 Stat. 1795][/us/stat/121/1795]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 238(2), Aug. 14, 2008, [122 Stat. 3076][/us/stat/122/3076].)
 
  __References in Text__ 
 
@@ -107,9 +107,9 @@
 [/us/usc/t15/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2051
 [/us/usc/t15/s2068/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2068%2Fa%2F1
 [/us/usc/t15/s2066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2066
-[/us/pl/110/140/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1404
+[/us/pl/110/140/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXIV
 [/us/stat/121/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1795
-[/us/pl/110/314/s238/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs238%2F2
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3076
 [/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1207

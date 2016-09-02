@@ -207,7 +207,7 @@
 
         The Administrator, upon request by a Governor and after notice and comment and opportunity for a public hearing in the affected State, may waive some or all of the requirements of this section and [section 2644 of this title][/us/usc/t15/s2644] with respect to such State if it has established and is implementing a program of asbestos inspection and management that contains requirements that are at least as stringent as the requirements of this section and [section 2644 of this title][/us/usc/t15/s2644].
 
-([Pub. L. 94–469, title II, § 203][/us/pl/94/469/s203], as added [Pub. L. 99–519, § 2][/us/pl/99/519/s2], Oct. 22, 1986, [100 Stat. 2972][/us/stat/100/2972]; amended [Pub. L. 101–637, § 13][/us/pl/101/637/s13], Nov. 28, 1990, [104 Stat. 4593][/us/stat/104/4593].)
+([Pub. L. 94–469, title II][/us/pl/94/469/tII], § 203, as added [Pub. L. 99–519][/us/pl/99/519], § 2, Oct. 22, 1986, [100 Stat. 2972][/us/stat/100/2972]; amended [Pub. L. 101–637][/us/pl/101/637], § 13, Nov. 28, 1990, [104 Stat. 4593][/us/stat/104/4593].)
 
  __References in Text__ 
 
@@ -238,10 +238,10 @@
 [/us/usc/t20/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs921
 [/us/usc/t15/s2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2644
 [/us/usc/t15/s2644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2644
-[/us/pl/94/469/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs203
-[/us/pl/99/519/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs2
+[/us/pl/94/469/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtII
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2972
-[/us/pl/101/637/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs13
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/stat/104/4593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4593
 [/us/pl/95/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F561
 [/us/stat/92/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2365

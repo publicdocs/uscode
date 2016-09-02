@@ -31,7 +31,7 @@
 
         The Commission is authorized to cause inspections, analyses, tests, and examinations to be made of any product subject to this subchapter.
 
-([Pub. L. 85–897, § 7][/us/pl/85/897/s7], Sept. 2, 1958, [72 Stat. 1721][/us/stat/72/1721].)
+([Pub. L. 85–897][/us/pl/85/897], § 7, Sept. 2, 1958, [72 Stat. 1721][/us/stat/72/1721].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/pl/85/897/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F897%2Fs7
+[/us/pl/85/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F897
 [/us/stat/72/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1721
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

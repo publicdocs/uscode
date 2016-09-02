@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated to carry out the purposes of this chapter, in addition to any amounts made available for such purposes pursuant to title I of this Act, the sum of $12,500,000 for the fiscal year ending September 30, 1978.
 
-([Pub. L. 95–238, title III, § 312][/us/pl/95/238/s312], Feb. 25, 1978, [92 Stat. 83][/us/stat/92/83].)
+([Pub. L. 95–238, title III][/us/pl/95/238/tIII], § 312, Feb. 25, 1978, [92 Stat. 83][/us/stat/92/83].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/238/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs312
+[/us/pl/95/238/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtIII
 [/us/stat/92/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F83
 [/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
 [/us/stat/92/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F47

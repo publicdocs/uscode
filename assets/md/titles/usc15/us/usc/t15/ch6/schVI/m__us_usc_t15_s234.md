@@ -17,7 +17,7 @@
 
     The standard barrel for fruits, vegetables, and other dry commodities other than cranberries shall be of the following dimensions when measured without distention of its parts: Length of stave, twenty-eight and one-half inches; diameter of heads, seventeen and one-eighth inches; distance between heads, twenty-six inches; circumference of bulge, sixty-four inches, outside measurement; and the thickness of staves not greater than four-tenths of an inch: Provided, That any barrel of a different form having a capacity of seven thousand and fifty-six cubic inches shall be a standard barrel. The standard barrel for cranberries shall be of the following dimensions when measured without distention of its parts: Length of staves, twenty-eight and one-half inches; diameter of head, sixteen and one-fourth inches; distance between heads, twenty-five and one-fourth inches; circumference of bulge, fifty-eight and one-half inches, outside measurement; and the thickness of staves not greater than four-tenths of an inch.
 
-([Mar. 4, 1915, ch. 158, § 1][/us/act/1915-03-04/ch158/s1], [38 Stat. 1186][/us/stat/38/1186].)
+([Mar. 4, 1915, ch. 158][/us/act/1915-03-04/ch158], § 1, [38 Stat. 1186][/us/stat/38/1186].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1915-03-04/ch158/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-04%2Fch158%2Fs1
+[/us/act/1915-03-04/ch158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-04%2Fch158
 [/us/stat/38/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F1186
 
 

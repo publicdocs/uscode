@@ -151,11 +151,11 @@
 
         A balloon, ball, marble, toy, or game, that is not in compliance with the requirements of this subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “this section”. </sup></sup>  shall be considered a misbranded hazardous substance under [section 1261(p) of this title][/us/usc/t15/s1261/p].
 
-([Pub. L. 86–613, § 24][/us/pl/86/613/s24], as added [Pub. L. 103–267, title I, § 101(a)][/us/pl/103/267/s101/a], June 16, 1994, [108 Stat. 722][/us/stat/108/722]; amended [Pub. L. 110–314, title I, § 105][/us/pl/110/314/s105], Aug. 14, 2008, [122 Stat. 3031][/us/stat/122/3031].)
+([Pub. L. 86–613][/us/pl/86/613], § 24, as added [Pub. L. 103–267, title I][/us/pl/103/267/tI], § 101(a), June 16, 1994, [108 Stat. 722][/us/stat/108/722]; amended [Pub. L. 110–314, title I][/us/pl/110/314/tI], § 105, Aug. 14, 2008, [122 Stat. 3031][/us/stat/122/3031].)
 
  __References in Text__ 
 
-    The Paperwork Reduction Act of 1980, referred to in subsec. (c)(3), is [Pub. L. 96–511][/us/pl/96/511], Dec. 11, 1980, [94 Stat. 2812][/us/stat/94/2812], which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by [Pub. L. 104–13, § 2][/us/pl/104/13/s2], May 22, 1995, [109 Stat. 163][/us/stat/109/163]. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44][/us/usc/t44/s101] and Tables.
+    The Paperwork Reduction Act of 1980, referred to in subsec. (c)(3), is [Pub. L. 96–511][/us/pl/96/511], Dec. 11, 1980, [94 Stat. 2812][/us/stat/94/2812], which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by [Pub. L. 104–13][/us/pl/104/13], § 2, May 22, 1995, [109 Stat. 163][/us/stat/109/163]. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44][/us/usc/t44/s101] and Tables.
 
  __Amendments__ 
 
@@ -163,19 +163,19 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–267, title I, § 101(d)][/us/pl/103/267/s101/d], June 16, 1994, [108 Stat. 725][/us/stat/108/725], provided that: 
+[Pub. L. 103–267, title I][/us/pl/103/267/tI], § 101(d), June 16, 1994, [108 Stat. 725][/us/stat/108/725], provided that: 
 
 > “Subsections (a) and (b) \[enacting this section and provisions set out as a note under [section 1261 of this title][/us/usc/t15/s1261]\] shall take effect January 1, 1995, and section 24 of the Federal Hazardous Substances Act \[this section\] shall apply only to products entered into commerce on or after January 1, 1995.”
 
  __Regulations__ 
 
-[Pub. L. 103–267, title I, § 101(c)][/us/pl/103/267/s101/c], June 16, 1994, [108 Stat. 725][/us/stat/108/725], provided that: 
+[Pub. L. 103–267, title I][/us/pl/103/267/tI], § 101(c), June 16, 1994, [108 Stat. 725][/us/stat/108/725], provided that: 
 
 > “The Consumer Product Safety Commission (hereinafter referred to as the ‘Commission’) shall promulgate regulations, under [section 553 of title 5][/us/usc/t5/s553], United States Code, for the implementation of this section \[enacting this section and provisions set out as notes under this section and [section 1261 of this title][/us/usc/t15/s1261]\] and section 24 of the Federal Hazardous Substances Act \[this section\] by July 1, 1994, or the date that is 6 months after the date of enactment of this Act \[June 16, 1994\], whichever occurs first. Subsections (f) through (i) of section 3 of the Federal Hazardous Substances Act ([15 U.S.C. 1262][/us/usc/t15/s1262]) shall not apply with respect to the issuance of regulations under this subsection.”
 
  __Preemption__ 
 
-[Pub. L. 103–267, title I, § 101(e)][/us/pl/103/267/s101/e], June 16, 1994, [108 Stat. 725][/us/stat/108/725], provided that:
+[Pub. L. 103–267, title I][/us/pl/103/267/tI], § 101(e), June 16, 1994, [108 Stat. 725][/us/stat/108/725], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -198,26 +198,26 @@
 [/us/usc/t15/s2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2058
 [/us/usc/t15/s2068/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2068%2Fa%2F1
 [/us/usc/t15/s1261/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1261%2Fp
-[/us/pl/86/613/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs24
-[/us/pl/103/267/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2Fs101%2Fa
+[/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
+[/us/pl/103/267/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2FtI
 [/us/stat/108/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F722
-[/us/pl/110/314/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs105
+[/us/pl/110/314/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtI
 [/us/stat/122/3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3031
 [/us/pl/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511
 [/us/stat/94/2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2812
-[/us/pl/104/13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13%2Fs2
+[/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/stat/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F163
 [/us/usc/t44/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs101
 [/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
-[/us/pl/103/267/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2Fs101%2Fd
+[/us/pl/103/267/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2FtI
 [/us/stat/108/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F725
 [/us/usc/t15/s1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1261
-[/us/pl/103/267/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2Fs101%2Fc
+[/us/pl/103/267/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2FtI
 [/us/stat/108/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F725
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t15/s1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1261
 [/us/usc/t15/s1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1262
-[/us/pl/103/267/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2Fs101%2Fe
+[/us/pl/103/267/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2FtI
 [/us/stat/108/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F725
 
 

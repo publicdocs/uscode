@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch11/m__us_usc_t15_ch11.md) | [Next](./../../../..//us/usc/t15/ch12/m__us_usc_t15_s431.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch12)
+[Previous](./../../../..//us/usc/t15/ch11/m__us_usc_t15_s401...411.md) | [Next](./../../../..//us/usc/t15/ch12/m__us_usc_t15_s431.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch12)
 
 ## CHAPTER 12—DISCRIMINATION AGAINST FARMERS’ COOPERATIVE ASSOCIATIONS BY BOARDS OF TRADE
 
@@ -51,7 +51,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch11/m__us_usc_t15_ch11.md) | [Next](./../../../..//us/usc/t15/ch12/m__us_usc_t15_s431.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch12)
+[Previous](./../../../..//us/usc/t15/ch11/m__us_usc_t15_s401...411.md) | [Next](./../../../..//us/usc/t15/ch12/m__us_usc_t15_s431.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch12)
 
 ----------
 ----------

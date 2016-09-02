@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated annually for each fiscal year by means of a current, indefinite appropriation, out of any money in the Treasury not otherwise appropriated, an amount sufficient to reimburse Commodity Credit Corporation for its net realized loss incurred during such fiscal year, as reflected in its accounts and shown in its report of its financial condition as of the close of such fiscal year. Reimbursement of net realized loss shall be with appropriated funds, as provided herein, rather than through the cancellation of notes.
 
-([Pub. L. 87–155, § 2][/us/pl/87/155/s2], Aug. 17, 1961, [75 Stat. 391][/us/stat/75/391]; [Pub. L. 100–203, title I, § 1506(a)][/us/pl/100/203/s1506/a], Dec. 22, 1987, [101 Stat. 1330–28][/us/stat/101/1330-28].)
+([Pub. L. 87–155][/us/pl/87/155], § 2, Aug. 17, 1961, [75 Stat. 391][/us/stat/75/391]; [Pub. L. 100–203, title I][/us/pl/100/203/tI], § 1506(a), Dec. 22, 1987, [101 Stat. 1330–28][/us/stat/101/1330-28].)
 
  __Amendments__ 
 
@@ -25,13 +25,13 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–203, title I, § 1506(c)][/us/pl/100/203/s1506/c], Dec. 22, 1987, [101 Stat. 1330–29][/us/stat/101/1330-29], provided that: 
+[Pub. L. 100–203, title I][/us/pl/100/203/tI], § 1506(c), Dec. 22, 1987, [101 Stat. 1330–29][/us/stat/101/1330-29], provided that: 
 
 > “This section and the amendment made by this section \[amending this section and enacting provisions set out as a note below\] shall apply beginning with fiscal year 1988.”
 
  __Operating Expenses__ 
 
-[Pub. L. 100–203, title I, § 1506(b)][/us/pl/100/203/s1506/b], Dec. 22, 1987, [101 Stat. 1330–29][/us/stat/101/1330-29], provided that: 
+[Pub. L. 100–203, title I][/us/pl/100/203/tI], § 1506(b), Dec. 22, 1987, [101 Stat. 1330–29][/us/stat/101/1330-29], provided that: 
 
 > “No funds may be appropriated for operating expenses of the Commodity Credit Corporation except as authorized under [section 2 of Public Law 87–155][/us/pl/87/155/s2] \[[15 U.S.C. 713a–11][/us/usc/t15/s713a–11]\] to reimburse the Corporation for net realized losses.”
 
@@ -42,14 +42,14 @@
 ----------
 ----------
 
-[/us/pl/87/155/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F155%2Fs2
+[/us/pl/87/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F155
 [/us/stat/75/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F391
-[/us/pl/100/203/s1506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1506%2Fa
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-28
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
-[/us/pl/100/203/s1506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1506%2Fc
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-29
-[/us/pl/100/203/s1506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs1506%2Fb
+[/us/pl/100/203/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtI
 [/us/stat/101/1330-29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-29
 [/us/pl/87/155/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F155%2Fs2
 [/us/usc/t15/s713a–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%9311

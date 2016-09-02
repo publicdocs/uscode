@@ -63,13 +63,13 @@
 
         (4) The Commission shall conduct at least one public meeting in the State of Alaska annually.
 
-([Pub. L. 98–373, title I, § 103][/us/pl/98/373/s103], July 31, 1984, [98 Stat. 1243][/us/stat/98/1243]; [Pub. L. 101–609][/us/pl/101/609], §§ 2, 3, Nov. 16, 1990, [104 Stat. 3125][/us/stat/104/3125].)
+([Pub. L. 98–373, title I][/us/pl/98/373/tI], § 103, July 31, 1984, [98 Stat. 1243][/us/stat/98/1243]; [Pub. L. 101–609][/us/pl/101/609], §§ 2, 3, Nov. 16, 1990, [104 Stat. 3125][/us/stat/104/3125].)
 
  __Amendments__ 
 
-    1990—Subsec. (b)(1). [Pub. L. 101–609, § 2][/us/pl/101/609/s2], in introductory provisions, substituted “seven” for “five”, in subpar. (A), substituted “four” for “three”, and in subpar. (C), substituted “two members” for “one member”.
+    1990—Subsec. (b)(1). [Pub. L. 101–609][/us/pl/101/609], § 2, in introductory provisions, substituted “seven” for “five”, in subpar. (A), substituted “four” for “three”, and in subpar. (C), substituted “two members” for “one member”.
 
-    Subsec. (d)(1). [Pub. L. 101–609, § 3][/us/pl/101/609/s3], substituted “GS–18” for “GS–16”.
+    Subsec. (d)(1). [Pub. L. 101–609][/us/pl/101/609], § 3, substituted “GS–18” for “GS–16”.
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -85,12 +85,12 @@
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t15/s4106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4106%2Fb
-[/us/pl/98/373/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs103
+[/us/pl/98/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtI
 [/us/stat/98/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1243
 [/us/pl/101/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F609
 [/us/stat/104/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3125
-[/us/pl/101/609/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F609%2Fs2
-[/us/pl/101/609/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F609%2Fs3
+[/us/pl/101/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F609
+[/us/pl/101/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F609
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 

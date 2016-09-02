@@ -25,7 +25,7 @@
 
     (4) establish an intensified program of research into the treatment of burn and smoke injuries and the rehabilitation of victims of fires within the National Institutes of Health.
 
-([Pub. L. 93–498, § 3][/us/pl/93/498/s3], Oct. 29, 1974, [88 Stat. 1536][/us/stat/88/1536]; [Pub. L. 95–422, § 2(a)(1)][/us/pl/95/422/s2/a/1], Oct. 5, 1978, [92 Stat. 932][/us/stat/92/932].)
+([Pub. L. 93–498][/us/pl/93/498], § 3, Oct. 29, 1974, [88 Stat. 1536][/us/stat/88/1536]; [Pub. L. 95–422][/us/pl/95/422], § 2(a)(1), Oct. 5, 1978, [92 Stat. 932][/us/stat/92/932].)
 
  __References in Text__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/pl/93/498/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs3
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1536
-[/us/pl/95/422/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F422%2Fs2%2Fa%2F1
+[/us/pl/95/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F422
 [/us/stat/92/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F932
 [/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1535

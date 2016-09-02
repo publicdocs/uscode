@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t15/ch63/m__us_usc_t15_s3708.md) | [Next](./../../../..//us/usc/t15/ch63/m__us_usc_t15_s3710.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3709)
 
-## § 3709. Repealed. [Pub. L. 99–502, § 9(a)][/us/pl/99/502/s9/a], Oct. 20, 1986, [100 Stat. 1795][/us/stat/100/1795]
+## § 3709. Repealed. [Pub. L. 99–502][/us/pl/99/502], § 9(a), Oct. 20, 1986, [100 Stat. 1795][/us/stat/100/1795]
 
-    Section, [Pub. L. 96–480, § 10][/us/pl/96/480/s10], Oct. 21, 1980, [94 Stat. 2317][/us/stat/94/2317], related to establishment, duties, membership, and terms of National Industrial Technology Board.
+    Section, [Pub. L. 96–480][/us/pl/96/480], § 10, Oct. 21, 1980, [94 Stat. 2317][/us/stat/94/2317], related to establishment, duties, membership, and terms of National Industrial Technology Board.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/99/502/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs9%2Fa
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/stat/100/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1795
-[/us/pl/96/480/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs10
+[/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2317
 
 

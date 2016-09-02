@@ -61,23 +61,23 @@
 
         (2) The Committee shall render to the Secretary and the Congress such additional reports on specific policy matters as it deems appropriate.
 
-([Mar. 3, 1901, ch. 872, § 10][/us/act/1901-03-03/ch872/s10], [31 Stat. 1450][/us/stat/31/1450]; [Pub. L. 100–418, title V][/us/pl/100/418], §§ 5115(a)(1), 5131(b), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433], 1441; [Pub. L. 104–113, § 8(1)][/us/pl/104/113/s8/1], Mar. 7, 1996, [110 Stat. 779][/us/stat/110/779]; [Pub. L. 110–69, title III][/us/pl/110/69], §§ 3005, 3006, Aug. 9, 2007, [121 Stat. 590][/us/stat/121/590].)
+([Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 10, [31 Stat. 1450][/us/stat/31/1450]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], §§ 5115(a)(1), 5131(b), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433], 1441; [Pub. L. 104–113][/us/pl/104/113], § 8(1), Mar. 7, 1996, [110 Stat. 779][/us/stat/110/779]; [Pub. L. 110–69, title III][/us/pl/110/69/tIII], §§ 3005, 3006, Aug. 9, 2007, [121 Stat. 590][/us/stat/121/590].)
 
  __References in Text__ 
 
-    [Section 278n of this title][/us/usc/t15/s278n], referred to in subsec. (h)(1), was repealed and a new section 278n enacted by [Pub. L. 110–69, title III, § 3012(a)][/us/pl/110/69/s3012/a], (b), Aug. 9, 2007, [121 Stat. 593][/us/stat/121/593], and, as so enacted, section 278n no longer relates to the Advanced Technology Program, to which the term “Program” referred in this chapter.
+    [Section 278n of this title][/us/usc/t15/s278n], referred to in subsec. (h)(1), was repealed and a new section 278n enacted by [Pub. L. 110–69, title III][/us/pl/110/69/tIII], § 3012(a), (b), Aug. 9, 2007, [121 Stat. 593][/us/stat/121/593], and, as so enacted, section 278n no longer relates to the Advanced Technology Program, to which the term “Program” referred in this chapter.
 
  __Amendments__ 
 
-    2007—Subsec. (d). [Pub. L. 110–69, § 3006][/us/pl/110/69/s3006], substituted “twice each year” for “quarterly”.
+    2007—Subsec. (d). [Pub. L. 110–69][/us/pl/110/69], § 3006, substituted “twice each year” for “quarterly”.
 
-    Subsec. (h)(1). [Pub. L. 110–69, § 3005][/us/pl/110/69/s3005], substituted “not later than 30 days after the submittal to Congress of the President’s annual budget request in each year” for “on or before January 31 in each year” and inserted at end “Such report also shall comment on the programmatic planning document and updates thereto submitted to Congress by the Director under subsections (c) and (d) of [section 278i of this title][/us/usc/t15/s278i].”
+    Subsec. (h)(1). [Pub. L. 110–69][/us/pl/110/69], § 3005, substituted “not later than 30 days after the submittal to Congress of the President’s annual budget request in each year” for “on or before January 31 in each year” and inserted at end “Such report also shall comment on the programmatic planning document and updates thereto submitted to Congress by the Director under subsections (c) and (d) of [section 278i of this title][/us/usc/t15/s278i].”
 
     1996—Subsec. (a). [Pub. L. 104–113][/us/pl/104/113] substituted “15 members” for “nine members” and “at least 10” for “at least five”.
 
-    1988—[Pub. L. 100–418, § 5131(b)][/us/pl/100/418/s5131/b], amended section generally, substituting provisions of subsecs. (a) to (h) relating to Visiting Committee on Advanced Technology for provisions of former single undesignated paragraph which related to a visiting committee which was to visit bureau at least once a year and report to Secretary of Commerce upon efficiency of its scientific work and condition of its equipment.
+    1988—[Pub. L. 100–418][/us/pl/100/418], § 5131(b), amended section generally, substituting provisions of subsecs. (a) to (h) relating to Visiting Committee on Advanced Technology for provisions of former single undesignated paragraph which related to a visiting committee which was to visit bureau at least once a year and report to Secretary of Commerce upon efficiency of its scientific work and condition of its equipment.
 
-    [Pub. L. 100–418, § 5115(a)(1)][/us/pl/100/418/s5115/a/1], substituted “Institute” for “bureau”.
+    [Pub. L. 100–418][/us/pl/100/418], § 5115(a)(1), substituted “Institute” for “bureau”.
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -92,23 +92,23 @@
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t15/s278i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278i
-[/us/act/1901-03-03/ch872/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs10
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
 [/us/stat/31/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1450
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
-[/us/pl/104/113/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs8%2F1
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 [/us/stat/110/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F779
-[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIII
 [/us/stat/121/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F590
 [/us/usc/t15/s278n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278n
-[/us/pl/110/69/s3012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3012%2Fa
+[/us/pl/110/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIII
 [/us/stat/121/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F593
-[/us/pl/110/69/s3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3006
-[/us/pl/110/69/s3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3005
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 [/us/usc/t15/s278i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278i
 [/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
-[/us/pl/100/418/s5131/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5131%2Fb
-[/us/pl/100/418/s5115/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fa%2F1
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
 

@@ -41,7 +41,7 @@
 
         (5) to any textile fiber product until such product has been produced by the manufacturer or processor in the form intended for sale or delivery to, or for use by, the ultimate consumer: Provided, That this exemption shall apply only if such textile fiber product is covered by an invoice or other paper relating to the marketing or handling of the textile fiber product and such invoice or paper correctly discloses the information with respect to the textile fiber product which would otherwise be required under [section 70b of this title][/us/usc/t15/s70b] to be on the stamp, tag, label, or other identification and the name and address of the person issuing the invoice or paper.
 
-([Pub. L. 85–897, § 3][/us/pl/85/897/s3], Sept. 2, 1958, [72 Stat. 1718][/us/stat/72/1718].)
+([Pub. L. 85–897][/us/pl/85/897], § 3, Sept. 2, 1958, [72 Stat. 1718][/us/stat/72/1718].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s70b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs70b
-[/us/pl/85/897/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F897%2Fs3
+[/us/pl/85/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F897
 [/us/stat/72/1718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1718
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

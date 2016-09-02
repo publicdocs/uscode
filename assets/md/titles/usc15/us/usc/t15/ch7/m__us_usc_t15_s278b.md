@@ -39,7 +39,7 @@
 
         The amount of any earned net income resulting from the operation of the fund at the close of each fiscal year shall be paid into the general fund of the Treasury: Provided, That such earned net income may be applied to restore any prior impairment of the fund, and to ensure the availability of working capital necessary to replace equipment and inventories.
 
-([Mar. 3, 1901, ch. 872, § 12][/us/act/1901-03-03/ch872/s12], as added [Aug. 3, 1956, ch. 906, § 2][/us/act/1956-08-03/ch906/s2], [70 Stat. 959][/us/stat/70/959]; amended [Pub. L. 95–322, § 2(a)][/us/pl/95/322/s2/a], July 21, 1978, [92 Stat. 395][/us/stat/92/395]; [Pub. L. 99–73, § 5(a)][/us/pl/99/73/s5/a], July 29, 1985, [99 Stat. 172][/us/stat/99/172]; [Pub. L. 100–418, title V, § 5115(a)(1)][/us/pl/100/418/s5115/a/1], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433].)
+([Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 12, as added [Aug. 3, 1956, ch. 906][/us/act/1956-08-03/ch906], § 2, [70 Stat. 959][/us/stat/70/959]; amended [Pub. L. 95–322][/us/pl/95/322], § 2(a), July 21, 1978, [92 Stat. 395][/us/stat/92/395]; [Pub. L. 99–73][/us/pl/99/73], § 5(a), July 29, 1985, [99 Stat. 172][/us/stat/99/172]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(a)(1), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 12 of [act Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], as added by [act July 22, 1950, ch. 486, § 2][/us/act/1950-07-22/ch486/s2], [64 Stat. 373][/us/stat/64/373], related to equipment purchased by Department of Commerce to carry out investigations, prior to repeal by act Aug. 3, 1956.
+    A prior section 12 of [act Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], as added by [act July 22, 1950, ch. 486][/us/act/1950-07-22/ch486], § 2, [64 Stat. 373][/us/stat/64/373], related to equipment purchased by Department of Commerce to carry out investigations, prior to repeal by act Aug. 3, 1956.
 
  __Amendments__ 
 
@@ -70,18 +70,18 @@
 
 [/us/stat/64/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F275
 [/us/usc/t15/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs273
-[/us/act/1901-03-03/ch872/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs12
-[/us/act/1956-08-03/ch906/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch906%2Fs2
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
+[/us/act/1956-08-03/ch906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch906
 [/us/stat/70/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F959
-[/us/pl/95/322/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F322%2Fs2%2Fa
+[/us/pl/95/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F322
 [/us/stat/92/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F395
-[/us/pl/99/73/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F73%2Fs5%2Fa
+[/us/pl/99/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F73
 [/us/stat/99/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F172
-[/us/pl/100/418/s5115/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fa%2F1
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
 [/us/stat/64/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F275
 [/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
-[/us/act/1950-07-22/ch486/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-22%2Fch486%2Fs2
+[/us/act/1950-07-22/ch486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-22%2Fch486
 [/us/stat/64/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F373
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/99/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F73

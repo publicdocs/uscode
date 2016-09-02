@@ -1559,7 +1559,7 @@
 
         (5) recommendations that the program managers of the SBIR or STTR program of the agency consider appropriate for additional actions to increase the effectiveness of enhancing manufacturing activities.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[9\], July 18, 1958, [72 Stat. 391][/us/stat/72/391]; [Pub. L. 97–219][/us/pl/97/219], §§ 3–5, July 22, 1982, [96 Stat. 217][/us/stat/96/217], 218, 221; [Pub. L. 99–443][/us/pl/99/443], §§ 1, 2, Oct. 6, 1986, [100 Stat. 1120][/us/stat/100/1120]; [Pub. L. 100–590, title I, § 108][/us/pl/100/590/s108], Nov. 3, 1988, [102 Stat. 2994][/us/stat/102/2994]; [Pub. L. 102–484, div. D, title XLII, § 4237(d)][/us/pl/102/484/s4237/d], Oct. 23, 1992, [106 Stat. 2692][/us/stat/106/2692]; [Pub. L. 102–564, title I][/us/pl/102/564], §§ 103, 104, title II, § 202(a)–(c), title III, §§ 301(a), 305, Oct. 28, 1992, [106 Stat. 4250][/us/stat/106/4250], 4254, 4256, 4257, 4261, 4262; [Pub. L. 103–403, title VI, § 607][/us/pl/103/403/s607], Oct. 22, 1994, [108 Stat. 4204][/us/stat/108/4204]; [Pub. L. 104–208, div. D, title I, § 110][/us/pl/104/208/s110], Sept. 30, 1996, [110 Stat. 3009–733][/us/stat/110/3009-733]; [Pub. L. 105–135, title V, § 501][/us/pl/105/135/s501], Dec. 2, 1997, [111 Stat. 2620][/us/stat/111/2620]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(5)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, §§ 103–107, 109, 110, 111(c), 113, 114(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–669, 2763A–673, 2763A–679, 2763A–681; [Pub. L. 107–50][/us/pl/107/50], §§ 2, 3(a), 4–7, Oct. 15, 2001, [115 Stat. 263–265][/us/stat/115/263-265]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–163, div. A, title II, § 252][/us/pl/109/163/s252], Jan. 6, 2006, [119 Stat. 3177][/us/stat/119/3177]; [Pub. L. 110–140, title XII, § 1203(e)][/us/pl/110/140/s1203/e], Dec. 19, 2007, [121 Stat. 1771][/us/stat/121/1771]; [Pub. L. 111–84, div. A, title VIII][/us/pl/111/84], §§ 847(a), (b), 848, Oct. 28, 2009, [123 Stat. 2420][/us/stat/123/2420], 2421; [Pub. L. 111–383, div. A, title X, § 1075][/us/pl/111/383/s1075](l), Jan. 7, 2011, [124 Stat. 4378][/us/stat/124/4378]; [Pub. L. 112–17][/us/pl/112/17], §§ 3, 4, June 1, 2011, [125 Stat. 221][/us/stat/125/221], 222; [Pub. L. 112–81, div. A, title X, § 1067(a)][/us/pl/112/81/s1067/a], div. E, title LI, §§ 5101–5107(a), 5108–5111, 5121–5123, 5125–5127, 5131–5135, 5138, 5140, 5141(a), (b)(1), (3), 5144, 5161, 5162, 5164–5167, Dec. 31, 2011, [125 Stat. 1589][/us/stat/125/1589], 1824–1827, 1832–1836, 1838–1842, 1844–1847, 1851–1854, 1857–1861; [Pub. L. 112–239, div. A, title X, § 1076(a)(20)(A)][/us/pl/112/239/s1076/a/20/A], title XVI, § 1615(a), (b), Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949], 2066; [Pub. L. 114–92, div. A, title VIII, § 873(e)][/us/pl/114/92/s873/e], Nov. 25, 2015, [129 Stat. 940][/us/stat/129/940].)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[9\], July 18, 1958, [72 Stat. 391][/us/stat/72/391]; [Pub. L. 97–219][/us/pl/97/219], §§ 3–5, July 22, 1982, [96 Stat. 217][/us/stat/96/217], 218, 221; [Pub. L. 99–443][/us/pl/99/443], §§ 1, 2, Oct. 6, 1986, [100 Stat. 1120][/us/stat/100/1120]; [Pub. L. 100–590, title I][/us/pl/100/590/tI], § 108, Nov. 3, 1988, [102 Stat. 2994][/us/stat/102/2994]; [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4237(d), Oct. 23, 1992, [106 Stat. 2692][/us/stat/106/2692]; [Pub. L. 102–564, title I][/us/pl/102/564/tI], §§ 103, 104, title II, § 202(a)–(c), title III, §§ 301(a), 305, Oct. 28, 1992, [106 Stat. 4250][/us/stat/106/4250], 4254, 4256, 4257, 4261, 4262; [Pub. L. 103–403, title VI][/us/pl/103/403/tVI], § 607, Oct. 22, 1994, [108 Stat. 4204][/us/stat/108/4204]; [Pub. L. 104–208, div. D, title I][/us/pl/104/208/dD/tI], § 110, Sept. 30, 1996, [110 Stat. 3009–733][/us/stat/110/3009-733]; [Pub. L. 105–135, title V][/us/pl/105/135/tV], § 501, Dec. 2, 1997, [111 Stat. 2620][/us/stat/111/2620]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(5)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title I, §§ 103–107, 109, 110, 111(c), 113, 114(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–669, 2763A–673, 2763A–679, 2763A–681; [Pub. L. 107–50][/us/pl/107/50], §§ 2, 3(a), 4–7, Oct. 15, 2001, [115 Stat. 263–265][/us/stat/115/263-265]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–163, div. A, title II][/us/pl/109/163/dA/tII], § 252, Jan. 6, 2006, [119 Stat. 3177][/us/stat/119/3177]; [Pub. L. 110–140, title XII][/us/pl/110/140/tXII], § 1203(e), Dec. 19, 2007, [121 Stat. 1771][/us/stat/121/1771]; [Pub. L. 111–84, div. A, title VIII][/us/pl/111/84/dA/tVIII], §§ 847(a), (b), 848, Oct. 28, 2009, [123 Stat. 2420][/us/stat/123/2420], 2421; [Pub. L. 111–383, div. A, title X][/us/pl/111/383/dA/tX], § 1075(l), Jan. 7, 2011, [124 Stat. 4378][/us/stat/124/4378]; [Pub. L. 112–17][/us/pl/112/17], §§ 3, 4, June 1, 2011, [125 Stat. 221][/us/stat/125/221], 222; [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1067(a), div. E, title LI, §§ 5101–5107(a), 5108–5111, 5121–5123, 5125–5127, 5131–5135, 5138, 5140, 5141(a), (b)(1), (3), 5144, 5161, 5162, 5164–5167, Dec. 31, 2011, [125 Stat. 1589][/us/stat/125/1589], 1824–1827, 1832–1836, 1838–1842, 1844–1847, 1851–1854, 1857–1861; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a)(20)(A), title XVI, § 1615(a), (b), Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949], 2066; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 873(e), Nov. 25, 2015, [129 Stat. 940][/us/stat/129/940].)
 
  __References in Text__ 
 
@@ -1569,65 +1569,65 @@
 
     Executive Order 12333, referred to in subsec. (e)(2), is set out as a note under [section 3001 of Title 50][/us/usc/t50/s3001], War and National Defense.
 
-    [Section 3703(5) of this title][/us/usc/t15/s3703/5], referred to in subsec. (e)(8), was redesignated section 3703(3) by [Pub. L. 110–69, title III, § 3002(c)(3)][/us/pl/110/69/s3002/c/3], Aug. 9, 2007, [121 Stat. 586][/us/stat/121/586].
+    [Section 3703(5) of this title][/us/usc/t15/s3703/5], referred to in subsec. (e)(8), was redesignated section 3703(3) by [Pub. L. 110–69, title III][/us/pl/110/69/tIII], § 3002(c)(3), Aug. 9, 2007, [121 Stat. 586][/us/stat/121/586].
 
     [Section 6683 of title 42][/us/usc/t42/s6683], referred to in subsecs. (g)(3)(A), (j)(2)(E)(i), and (o)(3)(A), was omitted from the Code.
 
-    [Section 2522 of title 10][/us/usc/t10/s2522], referred to in subsecs. (g)(3)(B), (j)(2)(E)(ii), and (o)(3)(B), which related to annual defense critical technology plan, was repealed, and section 2518 (relating to Defense Advanced Manufacturing Technology Partnerships) was redesignated as section 2522, by [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484], §§ 4202(a), 4232(a), Oct. 23, 1992, [106 Stat. 2659][/us/stat/106/2659], 2687, and subsequently repealed.
+    [Section 2522 of title 10][/us/usc/t10/s2522], referred to in subsecs. (g)(3)(B), (j)(2)(E)(ii), and (o)(3)(B), which related to annual defense critical technology plan, was repealed, and section 2518 (relating to Defense Advanced Manufacturing Technology Partnerships) was redesignated as section 2522, by [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], §§ 4202(a), 4232(a), Oct. 23, 1992, [106 Stat. 2659][/us/stat/106/2659], 2687, and subsequently repealed.
 
     Section 105 of the Small Business Research and Development Enhancement Act of 1992, referred to in subsec. (j)(2)(I), is [section 105 of Pub. L. 102–564][/us/pl/102/564/s105], which is set out below.
 
  __Codification__ 
 
-    In subsec. (e)(8), “[section 1303(a)(1) of title 41][/us/usc/t41/s1303/a/1]” substituted for “section 35(c)(1) of the Office of Federal Procurement Policy Act”, which probably should have been a reference to “section 25(c)(1) of the Office of Federal Procurement Policy Act” because that Act does not contain a section 35 and section 25(c) of that Act relates to issuance of the Federal Acquisition Regulation, on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (e)(8), “[section 1303(a)(1) of title 41][/us/usc/t41/s1303/a/1]” substituted for “section 35(c)(1) of the Office of Federal Procurement Policy Act”, which probably should have been a reference to “section 25(c)(1) of the Office of Federal Procurement Policy Act” because that Act does not contain a section 35 and section 25(c) of that Act relates to issuance of the Federal Acquisition Regulation, on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (n)(2)(A), “[section 1303(a)(1) of title 41][/us/usc/t41/s1303/a/1]” substituted for “section 25(c)(1) of the Office of Federal Procurement Policy Act” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (n)(2)(A), “[section 1303(a)(1) of title 41][/us/usc/t41/s1303/a/1]” substituted for “section 25(c)(1) of the Office of Federal Procurement Policy Act” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    Section 209 of [act July 30, 1953, ch. 282][/us/act/1953-07-30/ch282], title II, [67 Stat. 237][/us/stat/67/237], was previously classified to this section. See [section 645 of this title][/us/usc/t15/s645] and Codification note set out under [section 631 of this title][/us/usc/t15/s631].
+    Section 209 of [act July 30, 1953, ch. 282, title II][/us/act/1953-07-30/ch282/tII], [67 Stat. 237][/us/stat/67/237], was previously classified to this section. See [section 645 of this title][/us/usc/t15/s645] and Codification note set out under [section 631 of this title][/us/usc/t15/s631].
 
  __Amendments__ 
 
     2015—Subsec. (mm)(1). [Pub. L. 114–92][/us/pl/114/92] substituted “and until September 30, 2017,” for “, for the 3 fiscal years beginning after December 31, 2011,”.
 
-    2013—Subsec. (b)(7). [Pub. L. 112–239, § 1076(a)(20)(A)][/us/pl/112/239/s1076/a/20/A], repealed [Pub. L. 112–81, § 1067(a)(1)][/us/pl/112/81/s1067/a/1]. See 2011 Amendment note below.
+    2013—Subsec. (b)(7). [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(20)(A), repealed [Pub. L. 112–81][/us/pl/112/81], § 1067(a)(1). See 2011 Amendment note below.
 
-    Subsec. (y)(4). [Pub. L. 112–239, § 1615(b)][/us/pl/112/239/s1615/b], made technical amendment to directory language of [Pub. L. 112–81, § 5141(b)(3)(B)][/us/pl/112/81/s5141/b/3/B]. See 2011 Amendment note below.
+    Subsec. (y)(4). [Pub. L. 112–239][/us/pl/112/239], § 1615(b), made technical amendment to directory language of [Pub. L. 112–81][/us/pl/112/81], § 5141(b)(3)(B). See 2011 Amendment note below.
 
-    [Pub. L. 112–239, § 1615(a)(2)][/us/pl/112/239/s1615/a/2], added par. (4). Former par. (4) redesignated (5).
+    [Pub. L. 112–239][/us/pl/112/239], § 1615(a)(2), added par. (4). Former par. (4) redesignated (5).
 
-    Subsec. (y)(5). [Pub. L. 112–239, § 1615(a)(1)][/us/pl/112/239/s1615/a/1], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+    Subsec. (y)(5). [Pub. L. 112–239][/us/pl/112/239], § 1615(a)(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-    [Pub. L. 112–239, § 1076(a)(20)(A)][/us/pl/112/239/s1076/a/20/A], repealed [Pub. L. 112–81, § 1067(a)(2)][/us/pl/112/81/s1067/a/2]. See 2011 Amendment note below.
+    [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(20)(A), repealed [Pub. L. 112–81][/us/pl/112/81], § 1067(a)(2). See 2011 Amendment note below.
 
-    Subsec. (y)(6). [Pub. L. 112–239, § 1615(a)(1)][/us/pl/112/239/s1615/a/1], redesignated par. (5) as (6).
+    Subsec. (y)(6). [Pub. L. 112–239][/us/pl/112/239], § 1615(a)(1), redesignated par. (5) as (6).
 
-    2011—Subsec. (b)(7). [Pub. L. 112–81, § 5131(1)(B)][/us/pl/112/81/s5131/1/B], substituted “(g)(8) and (o)(9);” for “(g)(10), (o)(9), and (o)(15) of this section, the number of proposals received from, and the number and total amount of awards to, HUBZone small business concerns under each of the SBIR and STTR programs, and a description” in subpar. (A), added subpars. (B) to (F), and inserted “(G) a description” before “of the extent to which Federal agencies”.
+    2011—Subsec. (b)(7). [Pub. L. 112–81][/us/pl/112/81], § 5131(1)(B), substituted “(g)(8) and (o)(9);” for “(g)(10), (o)(9), and (o)(15) of this section, the number of proposals received from, and the number and total amount of awards to, HUBZone small business concerns under each of the SBIR and STTR programs, and a description” in subpar. (A), added subpars. (B) to (F), and inserted “(G) a description” before “of the extent to which Federal agencies”.
 
-    [Pub. L. 112–81, § 5131(1)(A)][/us/pl/112/81/s5131/1/A], substituted “STTR programs, including—” for “STTR programs, including”, and inserted subpar. (A) designation before “the data on output”.
+    [Pub. L. 112–81][/us/pl/112/81], § 5131(1)(A), substituted “STTR programs, including—” for “STTR programs, including”, and inserted subpar. (A) designation before “the data on output”.
 
-    [Pub. L. 112–81, § 1067(a)(1)][/us/pl/112/81/s1067/a/1], which inserted “and including an accounting of funds, initiatives, and outcomes under the Commercialization Pilot Program” after “and (o)(15) of this section,”, was repealed by [Pub. L. 112–239, § 1076(a)(20)(A)][/us/pl/112/239/s1076/a/20/A].
+    [Pub. L. 112–81][/us/pl/112/81], § 1067(a)(1), which inserted “and including an accounting of funds, initiatives, and outcomes under the Commercialization Pilot Program” after “and (o)(15) of this section,”, was repealed by [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(20)(A).
 
-    Subsec. (b)(9). [Pub. L. 112–81, § 5131(1)(C)][/us/pl/112/81/s5131/1/C], (2), (3), added par. (9).
+    Subsec. (b)(9). [Pub. L. 112–81][/us/pl/112/81], § 5131(1)(C), (2), (3), added par. (9).
 
-    Subsec. (e)(4)(B). [Pub. L. 112–81, § 5105(1)][/us/pl/112/81/s5105/1], substituted “which shall not include any invitation, pre-screening, or pre-selection process for eligibility for Phase II, that will further” for “to further”.
+    Subsec. (e)(4)(B). [Pub. L. 112–81][/us/pl/112/81], § 5105(1), substituted “which shall not include any invitation, pre-screening, or pre-selection process for eligibility for Phase II, that will further” for “to further”.
 
-    Subsec. (e)(4)(C). [Pub. L. 112–81, § 5125(a)(1)][/us/pl/112/81/s5125/a/1], inserted “for work that derives from, extends, or completes efforts made under prior funding agreements under the SBIR program” after “phase” in introductory provisions.
+    Subsec. (e)(4)(C). [Pub. L. 112–81][/us/pl/112/81], § 5125(a)(1), inserted “for work that derives from, extends, or completes efforts made under prior funding agreements under the SBIR program” after “phase” in introductory provisions.
 
-    Subsec. (e)(4)(C)(ii). [Pub. L. 112–81, § 5125(b)(1)(A)][/us/pl/112/81/s5125/b/1/A], substituted “merit-based selection procedures” for “scientific review criteria”.
+    Subsec. (e)(4)(C)(ii). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(1)(A), substituted “merit-based selection procedures” for “scientific review criteria”.
 
-    Subsec. (e)(6)(B). [Pub. L. 112–81, § 5105(2)][/us/pl/112/81/s5105/2], substituted “which shall not include any invitation, pre-screening, or pre-selection process for eligibility for Phase II, that will further develop proposals that” for “to further develop proposed ideas to”.
+    Subsec. (e)(6)(B). [Pub. L. 112–81][/us/pl/112/81], § 5105(2), substituted “which shall not include any invitation, pre-screening, or pre-selection process for eligibility for Phase II, that will further develop proposals that” for “to further develop proposed ideas to”.
 
-    Subsec. (e)(6)(C). [Pub. L. 112–81, § 5125(a)(2)][/us/pl/112/81/s5125/a/2], inserted “for work that derives from, extends, or completes efforts made under prior funding agreements under the STTR program” after “phase” in introductory provisions.
+    Subsec. (e)(6)(C). [Pub. L. 112–81][/us/pl/112/81], § 5125(a)(2), inserted “for work that derives from, extends, or completes efforts made under prior funding agreements under the STTR program” after “phase” in introductory provisions.
 
-    Subsec. (e)(9). [Pub. L. 112–81, § 5125(b)(1)(B)][/us/pl/112/81/s5125/b/1/B], substituted “Phase II or Phase III” for “the second or the third phase”.
+    Subsec. (e)(9). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(1)(B), substituted “Phase II or Phase III” for “the second or the third phase”.
 
-    Subsec. (e)(10). [Pub. L. 112–81, § 5125(a)(3)][/us/pl/112/81/s5125/a/3]–(5), added par. (10).
+    Subsec. (e)(10). [Pub. L. 112–81][/us/pl/112/81], § 5125(a)(3)–(5), added par. (10).
 
-    Subsec. (e)(11) to (13). [Pub. L. 112–81, § 5125(b)(1)(C)][/us/pl/112/81/s5125/b/1/C], added pars. (11) to (13).
+    Subsec. (e)(11) to (13). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(1)(C), added pars. (11) to (13).
 
-    Subsec. (f)(1). [Pub. L. 112–81, § 5102(a)(1)][/us/pl/112/81/s5102/a/1], substituted “Except as provided in paragraph (2)(B), each” for “Each” in introductory provisions, added subpars. (C) to (I), and struck out former subpar. (C) which read as follows: “not less than 2.5 percent of such budget in each fiscal year thereafter,”.
+    Subsec. (f)(1). [Pub. L. 112–81][/us/pl/112/81], § 5102(a)(1), substituted “Except as provided in paragraph (2)(B), each” for “Each” in introductory provisions, added subpars. (C) to (I), and struck out former subpar. (C) which read as follows: “not less than 2.5 percent of such budget in each fiscal year thereafter,”.
 
-    Subsec. (f)(2). [Pub. L. 112–81, § 5141(b)(3)(A)][/us/pl/112/81/s5141/b/3/A], substituted “shall not—
+    Subsec. (f)(2). [Pub. L. 112–81][/us/pl/112/81], § 5141(b)(3)(A), substituted “shall not—
 
     “(A) use any of its SBIR budget established pursuant to paragraph (1) for the purpose of funding administrative costs of the program, including costs associated with salaries and expenses; or
 
@@ -1635,47 +1635,47 @@
 
     for “shall not make available for the purpose”.
 
-    [Pub. L. 112–81, § 5141(b)(1)(A)][/us/pl/112/81/s5141/b/1/A], substituted “shall not make available for the purpose” for “shall not—
+    [Pub. L. 112–81][/us/pl/112/81], § 5141(b)(1)(A), substituted “shall not make available for the purpose” for “shall not—
 
     “(A) use any of its SBIR budget established pursuant to paragraph (1) for the purpose of funding administrative costs of the program, including costs associated with salaries and expenses; or
 
     “(B) make available for the purpose”.
 
-    Subsec. (f)(4). [Pub. L. 112–81, § 5102(a)(2)][/us/pl/112/81/s5102/a/2], added par. (4).
+    Subsec. (f)(4). [Pub. L. 112–81][/us/pl/112/81], § 5102(a)(2), added par. (4).
 
-    Subsec. (g)(4). [Pub. L. 112–81, § 5126(a)(1)][/us/pl/112/81/s5126/a/1], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (g)(4). [Pub. L. 112–81][/us/pl/112/81], § 5126(a)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (g)(8) to (10). [Pub. L. 112–81, § 5132][/us/pl/112/81/s5132], added par. (8), redesignated former pars. (8) and (9) as (9) and (10), respectively, and struck out former par. (10) which read as follows: “collect, and maintain in a common format in accordance with subsection (v) of this section, such information from awardees as is necessary to assess the SBIR program, including information necessary to maintain the database described in subsection (k) of this section;”.
+    Subsec. (g)(8) to (10). [Pub. L. 112–81][/us/pl/112/81], § 5132, added par. (8), redesignated former pars. (8) and (9) as (9) and (10), respectively, and struck out former par. (10) which read as follows: “collect, and maintain in a common format in accordance with subsection (v) of this section, such information from awardees as is necessary to assess the SBIR program, including information necessary to maintain the database described in subsection (k) of this section;”.
 
-    Subsec. (g)(12). [Pub. L. 112–81, § 5110(a)][/us/pl/112/81/s5110/a], added par. (12).
+    Subsec. (g)(12). [Pub. L. 112–81][/us/pl/112/81], § 5110(a), added par. (12).
 
-    Subsec. (i)(1). [Pub. L. 112–81, § 5122(b)][/us/pl/112/81/s5122/b], inserted “(including awards under subsection (y))” after “the number of awards”.
+    Subsec. (i)(1). [Pub. L. 112–81][/us/pl/112/81], § 5122(b), inserted “(including awards under subsection (y))” after “the number of awards”.
 
-    Subsec. (j)(1)(B). [Pub. L. 112–81, § 5125(b)(2)(A)][/us/pl/112/81/s5125/b/2/A], substituted “Phase II” for “phase two”.
+    Subsec. (j)(1)(B). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(2)(A), substituted “Phase II” for “phase two”.
 
-    Subsec. (j)(2)(B). [Pub. L. 112–81, § 5125(b)(2)(B)(i)][/us/pl/112/81/s5125/b/2/B/i], substituted “Phase III” for “the third phase” in two places and “Phase II” for “the second phase”.
+    Subsec. (j)(2)(B). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(2)(B)(i), substituted “Phase III” for “the third phase” in two places and “Phase II” for “the second phase”.
 
-    Subsec. (j)(2)(D). [Pub. L. 112–81, § 5125(b)(2)(B)(ii)][/us/pl/112/81/s5125/b/2/B/ii], substituted “Phase I” for “the first phase” and “‘Phase II” for “the second phase”.
+    Subsec. (j)(2)(D). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(2)(B)(ii), substituted “Phase I” for “the first phase” and “‘Phase II” for “the second phase”.
 
-    [Pub. L. 112–81, § 5103(c)(1)][/us/pl/112/81/s5103/c/1], substituted “every year for inflation” for “once every 5 years to reflect economic adjustments and programmatic considerations”.
+    [Pub. L. 112–81][/us/pl/112/81], § 5103(c)(1), substituted “every year for inflation” for “once every 5 years to reflect economic adjustments and programmatic considerations”.
 
-    [Pub. L. 112–81, § 5103(a)][/us/pl/112/81/s5103/a], substituted “$150,000” for “$100,000” and “$1,000,000” for “$750,000”.
+    [Pub. L. 112–81][/us/pl/112/81], § 5103(a), substituted “$150,000” for “$100,000” and “$1,000,000” for “$750,000”.
 
-    Subsec. (j)(2)(F). [Pub. L. 112–81, § 5125(b)(2)(B)(iii)][/us/pl/112/81/s5125/b/2/B/iii], substituted “Phase III” for “the third phase”.
+    Subsec. (j)(2)(F). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(2)(B)(iii), substituted “Phase III” for “the third phase”.
 
-    Subsec. (j)(2)(G). [Pub. L. 112–81, § 5125(b)(2)(B)(iv)][/us/pl/112/81/s5125/b/2/B/iv], substituted “Phase I” for “the first phase” and “Phase II” for “the second phase”.
+    Subsec. (j)(2)(G). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(2)(B)(iv), substituted “Phase I” for “the first phase” and “Phase II” for “the second phase”.
 
-    Subsec. (j)(2)(H). [Pub. L. 112–81, § 5125(b)(2)(B)(v)][/us/pl/112/81/s5125/b/2/B/v], substituted “Phase I” for “the first phase”, “Phase II” for “second phase” in two places, and “Phase III” for “third phase”.
+    Subsec. (j)(2)(H). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(2)(B)(v), substituted “Phase I” for “the first phase”, “Phase II” for “second phase” in two places, and “Phase III” for “third phase”.
 
-    Subsec. (j)(3)(A). [Pub. L. 112–81, § 5125(b)(2)(C)(i)][/us/pl/112/81/s5125/b/2/C/i], substituted “Phase I” for “the first phase (as described in subsection (e)(4)(A) of this section)”, “Phase II” for “(as described in subsection (e)(4)(B) of this section)”, and “Phase III” for “the third phase (as described in subsection (e)(4)(C) of this section)”.
+    Subsec. (j)(3)(A). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(2)(C)(i), substituted “Phase I” for “the first phase (as described in subsection (e)(4)(A) of this section)”, “Phase II” for “(as described in subsection (e)(4)(B) of this section)”, and “Phase III” for “the third phase (as described in subsection (e)(4)(C) of this section)”.
 
-    Subsec. (j)(3)(B). [Pub. L. 112–81, § 5125(b)(2)(C)(ii)][/us/pl/112/81/s5125/b/2/C/ii], substituted “Phase II” for “second phase”.
+    Subsec. (j)(3)(B). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(2)(C)(ii), substituted “Phase II” for “second phase”.
 
-    Subsec. (k). [Pub. L. 112–81, § 5125(b)(3)][/us/pl/112/81/s5125/b/3], substituted “Phase I” for “first phase” and “Phase II” for “second phase” wherever appearing.
+    Subsec. (k). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(3), substituted “Phase I” for “first phase” and “Phase II” for “second phase” wherever appearing.
 
-    Subsec. (k)(1)(F). [Pub. L. 112–81, § 5134][/us/pl/112/81/s5134], added subpar. (F).
+    Subsec. (k)(1)(F). [Pub. L. 112–81][/us/pl/112/81], § 5134, added subpar. (F).
 
-    Subsec. (k)(2). [Pub. L. 112–81, § 5135(1)][/us/pl/112/81/s5135/1], in introductory provisions, substituted “Not later than 90 days after December 31, 2011” for “Not later than 180 days after December 21, 2000”, added subpars. (A), (D), and (G), redesignated former subpars. (A), (B), (D), and (E) as (B), (C), (E), and (F), respectively, and struck out former subpar. (C) which read as follows: “includes for each applicant for a Phase I or Phase II award that does not receive such an award—
+    Subsec. (k)(2). [Pub. L. 112–81][/us/pl/112/81], § 5135(1), in introductory provisions, substituted “Not later than 90 days after December 31, 2011” for “Not later than 180 days after December 21, 2000”, added subpars. (A), (D), and (G), redesignated former subpars. (A), (B), (D), and (E) as (B), (C), (E), and (F), respectively, and struck out former subpar. (C) which read as follows: “includes for each applicant for a Phase I or Phase II award that does not receive such an award—
 
     “(i) the name, size, and location, and an identifying number assigned by the Administration;
 
@@ -1683,47 +1683,47 @@
 
     “(iii) the Federal agency to which the application was made;”.
 
-    Subsec. (k)(3)(C). [Pub. L. 112–81, § 5135(2)][/us/pl/112/81/s5135/2], added subpar. (C).
+    Subsec. (k)(3)(C). [Pub. L. 112–81][/us/pl/112/81], § 5135(2), added subpar. (C).
 
-    Subsec. (l)(2). [Pub. L. 112–81, § 5125(b)(4)][/us/pl/112/81/s5125/b/4], substituted “Phase I” for “the first phase” and “Phase II” for “the second phase”.
+    Subsec. (l)(2). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(4), substituted “Phase I” for “the first phase” and “Phase II” for “the second phase”.
 
-    Subsec. (m). [Pub. L. 112–81, § 5101(a)][/us/pl/112/81/s5101/a], substituted “2017” for “2011”.
+    Subsec. (m). [Pub. L. 112–81][/us/pl/112/81], § 5101(a), substituted “2017” for “2011”.
 
-    [Pub. L. 112–17, § 3(a)][/us/pl/112/17/s3/a], struck out par. (1) designation and heading, substituted “The authorization” for “Except as provided in paragraph (2), the authorization” and “2011” for “2008”, and struck out par. (2). Text of par. (2) read as follows: “The Secretary of Defense and the Secretary of each military department are authorized to carry out the Small Business Innovation Research Program of the Department of Defense until September 30, 2010”.
+    [Pub. L. 112–17][/us/pl/112/17], § 3(a), struck out par. (1) designation and heading, substituted “The authorization” for “Except as provided in paragraph (2), the authorization” and “2011” for “2008”, and struck out par. (2). Text of par. (2) read as follows: “The Secretary of Defense and the Secretary of each military department are authorized to carry out the Small Business Innovation Research Program of the Department of Defense until September 30, 2010”.
 
     Subsec. (m)(2). [Pub. L. 111–383][/us/pl/111/383] substituted “are authorized” for “is authorized”.
 
-    Subsec. (n)(1)(A). [Pub. L. 112–81, § 5101(b)][/us/pl/112/81/s5101/b], substituted “2017” for “2011”.
+    Subsec. (n)(1)(A). [Pub. L. 112–81][/us/pl/112/81], § 5101(b), substituted “2017” for “2011”.
 
-    [Pub. L. 112–17, § 3(b)][/us/pl/112/17/s3/b], struck out cl. (i) designation and heading, substituted “With respect” for “Except as provided in clause (ii), with respect” and “2011” for “2009”, and struck out cl. (ii). Text of cl. (ii) read as follows: “The Secretary of Defense and the Secretary of each military department shall carry out clause (i) with respect to each fiscal year through fiscal year 2010.”
+    [Pub. L. 112–17][/us/pl/112/17], § 3(b), struck out cl. (i) designation and heading, substituted “With respect” for “Except as provided in clause (ii), with respect” and “2011” for “2009”, and struck out cl. (ii). Text of cl. (ii) read as follows: “The Secretary of Defense and the Secretary of each military department shall carry out clause (i) with respect to each fiscal year through fiscal year 2010.”
 
-    Subsec. (n)(1)(B)(ii) to (v). [Pub. L. 112–81, § 5102(b)][/us/pl/112/81/s5102/b], added cls. (ii) to (v) and struck out former cl. (ii) which read as follows: “0.3 percent for fiscal year 2004 and each fiscal year thereafter.”
+    Subsec. (n)(1)(B)(ii) to (v). [Pub. L. 112–81][/us/pl/112/81], § 5102(b), added cls. (ii) to (v) and struck out former cl. (ii) which read as follows: “0.3 percent for fiscal year 2004 and each fiscal year thereafter.”
 
-    Subsec. (o)(4). [Pub. L. 112–81, § 5126(a)(2)][/us/pl/112/81/s5126/a/2], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (o)(4). [Pub. L. 112–81][/us/pl/112/81], § 5126(a)(2), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (o)(9). [Pub. L. 112–81, § 5133][/us/pl/112/81/s5133], added par. (9) and struck out former par. (9) which read as follows: “collect such data from awardees as is necessary to assess STTR program outputs and outcomes;”.
+    Subsec. (o)(9). [Pub. L. 112–81][/us/pl/112/81], § 5133, added par. (9) and struck out former par. (9) which read as follows: “collect such data from awardees as is necessary to assess STTR program outputs and outcomes;”.
 
-    Subsec. (o)(13)(B). [Pub. L. 112–81, § 5125(b)(5)(A)][/us/pl/112/81/s5125/b/5/A], substituted “Phase II” for “second phase”.
+    Subsec. (o)(13)(B). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(5)(A), substituted “Phase II” for “second phase”.
 
-    Subsec. (o)(13)(C). [Pub. L. 112–81, § 5125(b)(5)(B)][/us/pl/112/81/s5125/b/5/B], substituted “Phase III” for “third phase”.
+    Subsec. (o)(13)(C). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(5)(B), substituted “Phase III” for “third phase”.
 
-    Subsec. (o)(15), (16). [Pub. L. 112–81, § 5110(b)][/us/pl/112/81/s5110/b], added par. (16), redesignated former par. (16) as (15) and struck out former par. (15) which read as follows: “collect, and maintain in a common format in accordance with subsection (v) of this section, such information from awardees as is necessary to assess the STTR program, including information necessary to maintain the database described in subsection (k) of this section; and”.
+    Subsec. (o)(15), (16). [Pub. L. 112–81][/us/pl/112/81], § 5110(b), added par. (16), redesignated former par. (16) as (15) and struck out former par. (15) which read as follows: “collect, and maintain in a common format in accordance with subsection (v) of this section, such information from awardees as is necessary to assess the STTR program, including information necessary to maintain the database described in subsection (k) of this section; and”.
 
-    Subsec. (p)(2)(B)(vi). [Pub. L. 112–81, § 5125(b)(6)(A)(i)][/us/pl/112/81/s5125/b/6/A/i], substituted “Phase II” for “the second phase” and “Phase III” for “the third phase”.
+    Subsec. (p)(2)(B)(vi). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(6)(A)(i), substituted “Phase II” for “the second phase” and “Phase III” for “the third phase”.
 
-    Subsec. (p)(2)(B)(ix). [Pub. L. 112–81, § 5125(b)(6)(A)(ii)][/us/pl/112/81/s5125/b/6/A/ii], substituted “Phase I” for “the first phase” and “Phase II” for “the second phase”.
+    Subsec. (p)(2)(B)(ix). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(6)(A)(ii), substituted “Phase I” for “the first phase” and “Phase II” for “the second phase”.
 
-    [Pub. L. 112–81, § 5103(c)(2)][/us/pl/112/81/s5103/c/2], inserted “(each of which the Administrator shall adjust for inflation annually)” after “$1,000,000,”.
+    [Pub. L. 112–81][/us/pl/112/81], § 5103(c)(2), inserted “(each of which the Administrator shall adjust for inflation annually)” after “$1,000,000,”.
 
-    [Pub. L. 112–81, § 5103(b)][/us/pl/112/81/s5103/b], substituted “$150,000” for “$100,000” and “$1,000,000” for “$750,000”.
+    [Pub. L. 112–81][/us/pl/112/81], § 5103(b), substituted “$150,000” for “$100,000” and “$1,000,000” for “$750,000”.
 
-    Subsec. (p)(3). [Pub. L. 112–81, § 5125(b)(6)(B)][/us/pl/112/81/s5125/b/6/B], substituted “Phase I” for “the first phase (as described in subsection (e)(6)(A) of this section)”, “Phase II” for “the second phase (as described in subsection (e)(6)(B) of this section)”, and “Phase III” for “the third phase (as described in subsection (e)(6)(C) of this section)”.
+    Subsec. (p)(3). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(6)(B), substituted “Phase I” for “the first phase (as described in subsection (e)(6)(A) of this section)”, “Phase II” for “the second phase (as described in subsection (e)(6)(B) of this section)”, and “Phase III” for “the third phase (as described in subsection (e)(6)(C) of this section)”.
 
-    Subsec. (q)(1). [Pub. L. 112–81, § 5121(1)][/us/pl/112/81/s5121/1], inserted “or STTR program” after “SBIR program” and substituted “SBIR or STTR projects” for “SBIR projects” in introductory provisions.
+    Subsec. (q)(1). [Pub. L. 112–81][/us/pl/112/81], § 5121(1), inserted “or STTR program” after “SBIR program” and substituted “SBIR or STTR projects” for “SBIR projects” in introductory provisions.
 
-    Subsec. (q)(2). [Pub. L. 112–81, § 5121(2)][/us/pl/112/81/s5121/2], substituted “5 years” for “3 years”.
+    Subsec. (q)(2). [Pub. L. 112–81][/us/pl/112/81], § 5121(2), substituted “5 years” for “3 years”.
 
-    Subsec. (q)(3). [Pub. L. 112–81, § 5121(3)][/us/pl/112/81/s5121/3], added subpars. (A) to (D) and struck out former subpars. (A) and (B) which read as follows:
+    Subsec. (q)(3). [Pub. L. 112–81][/us/pl/112/81], § 5121(3), added subpars. (A) to (D) and struck out former subpars. (A) and (B) which read as follows:
 
     “(A) First phase
 
@@ -1733,159 +1733,159 @@
 
     “Each agency referred to in paragraph (1) may authorize any second phase SBIR award recipient to purchase, with funds available from their SBIR awards, services described in paragraph (1), in an amount equal to not more than $4,000 per year.”
 
-    Subsec. (r). [Pub. L. 112–81, § 5125(b)(7)(A)][/us/pl/112/81/s5125/b/7/A], substituted “Phase III” for “Third phase” in heading.
+    Subsec. (r). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(7)(A), substituted “Phase III” for “Third phase” in heading.
 
-    Subsec. (r)(1). [Pub. L. 112–81, § 5125(b)(7)(B)][/us/pl/112/81/s5125/b/7/B], substituted, in first sentence, “for Phase II” for “for the second phase”, “Phase III” for “third phase”, and “Phase II period” for “second phase period”, and, in second sentence, “Phase II” for “second phase” and “Phase III” for “third phase”.
+    Subsec. (r)(1). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(7)(B), substituted, in first sentence, “for Phase II” for “for the second phase”, “Phase III” for “third phase”, and “Phase II period” for “second phase period”, and, in second sentence, “Phase II” for “second phase” and “Phase III” for “third phase”.
 
-    Subsec. (r)(2). [Pub. L. 112–81, § 5125(b)(7)(C)][/us/pl/112/81/s5125/b/7/C], substituted “Phase III” for “third phase”.
+    Subsec. (r)(2). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(7)(C), substituted “Phase III” for “third phase”.
 
-    Subsec. (r)(4). [Pub. L. 112–81, § 5108][/us/pl/112/81/s5108], added par. (4).
+    Subsec. (r)(4). [Pub. L. 112–81][/us/pl/112/81], § 5108, added par. (4).
 
-    Subsec. (s). [Pub. L. 112–17, § 4][/us/pl/112/17/s4], added subsec. (s).
+    Subsec. (s). [Pub. L. 112–17][/us/pl/112/17], § 4, added subsec. (s).
 
-    Subsec. (u)(2)(B). [Pub. L. 112–81, § 5125(b)(8)][/us/pl/112/81/s5125/b/8], substituted “Phase I” for “the first phase” in introductory provisions.
+    Subsec. (u)(2)(B). [Pub. L. 112–81][/us/pl/112/81], § 5125(b)(8), substituted “Phase I” for “the first phase” in introductory provisions.
 
-    Subsec. (v). [Pub. L. 112–81, § 5144][/us/pl/112/81/s5144], substituted “Reducing paperwork and compliance burden” for “Simplified reporting requirements” in heading, designated existing provisions as par. (1), inserted heading, and added par. (2).
+    Subsec. (v). [Pub. L. 112–81][/us/pl/112/81], § 5144, substituted “Reducing paperwork and compliance burden” for “Simplified reporting requirements” in heading, designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    Subsec. (y). [Pub. L. 112–81, § 5122(a)(1)][/us/pl/112/81/s5122/a/1], (2), substituted “Readiness” for “Pilot” wherever appearing in heading and text.
+    Subsec. (y). [Pub. L. 112–81][/us/pl/112/81], § 5122(a)(1), (2), substituted “Readiness” for “Pilot” wherever appearing in heading and text.
 
-    Subsec. (y)(1). [Pub. L. 112–81, § 5122(a)(3)][/us/pl/112/81/s5122/a/3], inserted “or Small Business Technology Transfer Program” after “Small Business Innovation Research Program” and inserted at end “The authority to create and administer a Commercialization Readiness Program under this subsection may not be construed to eliminate or replace any other SBIR program or STTR program that enhances the insertion or transition of SBIR or STTR technologies, including any such program in effect on January 6, 2006.”
+    Subsec. (y)(1). [Pub. L. 112–81][/us/pl/112/81], § 5122(a)(3), inserted “or Small Business Technology Transfer Program” after “Small Business Innovation Research Program” and inserted at end “The authority to create and administer a Commercialization Readiness Program under this subsection may not be construed to eliminate or replace any other SBIR program or STTR program that enhances the insertion or transition of SBIR or STTR technologies, including any such program in effect on January 6, 2006.”
 
-    Subsec. (y)(2). [Pub. L. 112–81, § 5122(a)(4)][/us/pl/112/81/s5122/a/4], inserted “or Small Business Technology Transfer Program” after “Small Business Innovation Research Program”.
+    Subsec. (y)(2). [Pub. L. 112–81][/us/pl/112/81], § 5122(a)(4), inserted “or Small Business Technology Transfer Program” after “Small Business Innovation Research Program”.
 
-    Subsec. (y)(4). [Pub. L. 112–81, § 5141(b)(3)(B)][/us/pl/112/81/s5141/b/3/B], as amended by [Pub. L. 112–239, § 1615(b)][/us/pl/112/239/s1615/b], amended par. (4) generally. Prior to amendment, text read as follows: “For payment of expenses incurred to administer the Commercialization Readiness Program under this subsection, the Secretary of Defense and each Secretary of a military department is authorized to use not more than an amount equal to 1 percent of the funds available to the Department of Defense or the military department pursuant to the Small Business Innovation Research Program. Such funds shall not be used to make Phase III awards.”
+    Subsec. (y)(4). [Pub. L. 112–81][/us/pl/112/81], § 5141(b)(3)(B), as amended by [Pub. L. 112–239][/us/pl/112/239], § 1615(b), amended par. (4) generally. Prior to amendment, text read as follows: “For payment of expenses incurred to administer the Commercialization Readiness Program under this subsection, the Secretary of Defense and each Secretary of a military department is authorized to use not more than an amount equal to 1 percent of the funds available to the Department of Defense or the military department pursuant to the Small Business Innovation Research Program. Such funds shall not be used to make Phase III awards.”
 
-    [Pub. L. 112–81, § 5141(b)(1)(B)][/us/pl/112/81/s5141/b/1/B], redesignated par. (5) as (4) and struck out former par. (4), which related to funding of expenses incurred to administer the Commercialization Readiness Program.
+    [Pub. L. 112–81][/us/pl/112/81], § 5141(b)(1)(B), redesignated par. (5) as (4) and struck out former par. (4), which related to funding of expenses incurred to administer the Commercialization Readiness Program.
 
-    Subsec. (y)(5). [Pub. L. 112–81, § 5141(b)(1)(B)(ii)][/us/pl/112/81/s5141/b/1/B/ii], redesignated par. (6) as (5). Former par. (5) redesignated (4).
+    Subsec. (y)(5). [Pub. L. 112–81][/us/pl/112/81], § 5141(b)(1)(B)(ii), redesignated par. (6) as (5). Former par. (5) redesignated (4).
 
-    [Pub. L. 112–81, § 5122(a)(7)][/us/pl/112/81/s5122/a/7], added par. (5).
+    [Pub. L. 112–81][/us/pl/112/81], § 5122(a)(7), added par. (5).
 
-    [Pub. L. 112–81, § 5122(a)(5)][/us/pl/112/81/s5122/a/5], struck out par. (5) which required the Secretary of Defense to submit an annual evaluative report regarding activities under the Commercialization Pilot Program.
+    [Pub. L. 112–81][/us/pl/112/81], § 5122(a)(5), struck out par. (5) which required the Secretary of Defense to submit an annual evaluative report regarding activities under the Commercialization Pilot Program.
 
-    [Pub. L. 112–81, § 1067(a)(2)][/us/pl/112/81/s1067/a/2], which struck out par. (5), requiring the Secretary of Defense to submit an annual evaluative report regarding activities under the Commercialization Pilot Program, was repealed by [Pub. L. 112–239, § 1076(a)(20)(A)][/us/pl/112/239/s1076/a/20/A].
+    [Pub. L. 112–81][/us/pl/112/81], § 1067(a)(2), which struck out par. (5), requiring the Secretary of Defense to submit an annual evaluative report regarding activities under the Commercialization Pilot Program, was repealed by [Pub. L. 112–239][/us/pl/112/239], § 1076(a)(20)(A).
 
-    Subsec. (y)(6). [Pub. L. 112–81, § 5141(b)(1)(B)(ii)][/us/pl/112/81/s5141/b/1/B/ii], redesignated par. (6) as (5).
+    Subsec. (y)(6). [Pub. L. 112–81][/us/pl/112/81], § 5141(b)(1)(B)(ii), redesignated par. (6) as (5).
 
-    [Pub. L. 112–81, § 5122(a)(6)][/us/pl/112/81/s5122/a/6], (7), added par. (6) and struck out former par. (6), which provided that pilot program would terminate at the end of fiscal year 2011.
+    [Pub. L. 112–81][/us/pl/112/81], § 5122(a)(6), (7), added par. (6) and struck out former par. (6), which provided that pilot program would terminate at the end of fiscal year 2011.
 
-    [Pub. L. 112–17, § 3(c)][/us/pl/112/17/s3/c], substituted “2011” for “2010”.
+    [Pub. L. 112–17][/us/pl/112/17], § 3(c), substituted “2011” for “2010”.
 
-    Subsec. (aa). [Pub. L. 112–81, § 5103(d)][/us/pl/112/81/s5103/d], added subsec. (aa).
+    Subsec. (aa). [Pub. L. 112–81][/us/pl/112/81], § 5103(d), added subsec. (aa).
 
-    Subsec. (bb). [Pub. L. 112–81, § 5104][/us/pl/112/81/s5104], added subsec. (bb).
+    Subsec. (bb). [Pub. L. 112–81][/us/pl/112/81], § 5104, added subsec. (bb).
 
-    Subsec. (cc). [Pub. L. 112–81, § 5106][/us/pl/112/81/s5106], added subsec. (cc).
+    Subsec. (cc). [Pub. L. 112–81][/us/pl/112/81], § 5106, added subsec. (cc).
 
-    Subsec. (dd). [Pub. L. 112–81, § 5107(a)][/us/pl/112/81/s5107/a], added subsec. (dd).
+    Subsec. (dd). [Pub. L. 112–81][/us/pl/112/81], § 5107(a), added subsec. (dd).
 
-    Subsec. (ee). [Pub. L. 112–81, § 5109][/us/pl/112/81/s5109], added subsec. (ee).
+    Subsec. (ee). [Pub. L. 112–81][/us/pl/112/81], § 5109, added subsec. (ee).
 
-    Subsec. (ff). [Pub. L. 112–81, § 5111][/us/pl/112/81/s5111], added subsec. (ff).
+    Subsec. (ff). [Pub. L. 112–81][/us/pl/112/81], § 5111, added subsec. (ff).
 
-    Subsec. (gg). [Pub. L. 112–81, § 5123][/us/pl/112/81/s5123], added subsec. (gg).
+    Subsec. (gg). [Pub. L. 112–81][/us/pl/112/81], § 5123, added subsec. (gg).
 
-    Subsecs. (hh), (ii). [Pub. L. 112–81, § 5126(b)][/us/pl/112/81/s5126/b], added subsecs. (hh) and (ii).
+    Subsecs. (hh), (ii). [Pub. L. 112–81][/us/pl/112/81], § 5126(b), added subsecs. (hh) and (ii).
 
-    Subsec. (jj). [Pub. L. 112–81, § 5127][/us/pl/112/81/s5127], added subsec. (jj).
+    Subsec. (jj). [Pub. L. 112–81][/us/pl/112/81], § 5127, added subsec. (jj).
 
-    Subsec. (kk). [Pub. L. 112–81, § 5138][/us/pl/112/81/s5138], added subsec. (kk).
+    Subsec. (kk). [Pub. L. 112–81][/us/pl/112/81], § 5138, added subsec. (kk).
 
-    Subsec. (ll). [Pub. L. 112–81, § 5140][/us/pl/112/81/s5140], added subsec. (ll).
+    Subsec. (ll). [Pub. L. 112–81][/us/pl/112/81], § 5140, added subsec. (ll).
 
-    Subsec. (mm). [Pub. L. 112–81, § 5141(a)][/us/pl/112/81/s5141/a], added subsec. (mm).
+    Subsec. (mm). [Pub. L. 112–81][/us/pl/112/81], § 5141(a), added subsec. (mm).
 
-    Subsec. (nn). [Pub. L. 112–81, § 5161][/us/pl/112/81/s5161], added subsec. (nn).
+    Subsec. (nn). [Pub. L. 112–81][/us/pl/112/81], § 5161, added subsec. (nn).
 
-    Subsec. (oo). [Pub. L. 112–81, § 5162][/us/pl/112/81/s5162], added subsec. (oo).
+    Subsec. (oo). [Pub. L. 112–81][/us/pl/112/81], § 5162, added subsec. (oo).
 
-    Subsec. (pp). [Pub. L. 112–81, § 5164][/us/pl/112/81/s5164], added subsec. (pp).
+    Subsec. (pp). [Pub. L. 112–81][/us/pl/112/81], § 5164, added subsec. (pp).
 
-    Subsec. (qq). [Pub. L. 112–81, § 5165][/us/pl/112/81/s5165], added subsec. (qq).
+    Subsec. (qq). [Pub. L. 112–81][/us/pl/112/81], § 5165, added subsec. (qq).
 
-    Subsec. (rr). [Pub. L. 112–81, § 5166][/us/pl/112/81/s5166], added subsec. (rr).
+    Subsec. (rr). [Pub. L. 112–81][/us/pl/112/81], § 5166, added subsec. (rr).
 
-    Subsec. (ss). [Pub. L. 112–81, § 5167][/us/pl/112/81/s5167], added subsec. (ss).
+    Subsec. (ss). [Pub. L. 112–81][/us/pl/112/81], § 5167, added subsec. (ss).
 
-    2009—Subsec. (m). [Pub. L. 111–84, § 847(a)][/us/pl/111/84/s847/a], designated existing provisions as par. (1), inserted par. (1) heading, substituted “Except as provided in paragraph (2), the authorization” for “The authorization”, and added par. (2).
+    2009—Subsec. (m). [Pub. L. 111–84][/us/pl/111/84], § 847(a), designated existing provisions as par. (1), inserted par. (1) heading, substituted “Except as provided in paragraph (2), the authorization” for “The authorization”, and added par. (2).
 
-    Subsec. (n)(1)(A). [Pub. L. 111–84, § 847(b)][/us/pl/111/84/s847/b], designated existing provisions as cl. (i), inserted cl. (i) heading, substituted “Except as provided in clause (ii), with respect” for “With respect”, and added cl. (ii).
+    Subsec. (n)(1)(A). [Pub. L. 111–84][/us/pl/111/84], § 847(b), designated existing provisions as cl. (i), inserted cl. (i) heading, substituted “Except as provided in clause (ii), with respect” for “With respect”, and added cl. (ii).
 
-    Subsec. (y)(6). [Pub. L. 111–84, § 848][/us/pl/111/84/s848], substituted “2010” for “2009”.
+    Subsec. (y)(6). [Pub. L. 111–84][/us/pl/111/84], § 848, substituted “2010” for “2009”.
 
     2007—Subsec. (z). [Pub. L. 110–140][/us/pl/110/140] added subsec. (z).
 
-    2006—Subsec. (b)(8). [Pub. L. 109–163, § 252(b)(1)][/us/pl/109/163/s252/b/1], added par. (8).
+    2006—Subsec. (b)(8). [Pub. L. 109–163][/us/pl/109/163], § 252(b)(1), added par. (8).
 
-    Subsec. (e)(9). [Pub. L. 109–163, § 252(c)][/us/pl/109/163/s252/c], added par. (9).
+    Subsec. (e)(9). [Pub. L. 109–163][/us/pl/109/163], § 252(c), added par. (9).
 
-    Subsec. (g)(11). [Pub. L. 109–163, § 252(b)(2)][/us/pl/109/163/s252/b/2], added par. (11).
+    Subsec. (g)(11). [Pub. L. 109–163][/us/pl/109/163], § 252(b)(2), added par. (11).
 
-    Subsec. (o)(16). [Pub. L. 109–163, § 252(b)(3)][/us/pl/109/163/s252/b/3], added par. (16).
+    Subsec. (o)(16). [Pub. L. 109–163][/us/pl/109/163], § 252(b)(3), added par. (16).
 
-    Subsecs. (x), (y). [Pub. L. 109–163, § 252(a)][/us/pl/109/163/s252/a], added subsecs. (x) and (y).
+    Subsecs. (x), (y). [Pub. L. 109–163][/us/pl/109/163], § 252(a), added subsecs. (x) and (y).
 
     2004—Subsec. (j)(2)(I). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
-    2001—Subsec. (b)(4). [Pub. L. 107–50, § 2(b)][/us/pl/107/50/s2/b], struck out “pilot” before “programs;”.
+    2001—Subsec. (b)(4). [Pub. L. 107–50][/us/pl/107/50], § 2(b), struck out “pilot” before “programs;”.
 
-    Subsec. (b)(7). [Pub. L. 107–50, § 6(d)][/us/pl/107/50/s6/d], substituted “, (o)(9), and (o)(15) of this section, the number of proposals received from, and the number and total amount of awards to, HUBZone small business concerns under each of the SBIR and STTR programs,” for “and (o)(9) of this section,”.
+    Subsec. (b)(7). [Pub. L. 107–50][/us/pl/107/50], § 6(d), substituted “, (o)(9), and (o)(15) of this section, the number of proposals received from, and the number and total amount of awards to, HUBZone small business concerns under each of the SBIR and STTR programs,” for “and (o)(9) of this section,”.
 
-    Subsec. (e)(6). [Pub. L. 107–50, § 2(b)][/us/pl/107/50/s2/b], struck out “pilot” before “program” in introductory provisions.
+    Subsec. (e)(6). [Pub. L. 107–50][/us/pl/107/50], § 2(b), struck out “pilot” before “program” in introductory provisions.
 
-    Subsec. (k)(1). [Pub. L. 107–50, § 6(b)(1)][/us/pl/107/50/s6/b/1], inserted “or STTR” after “SBIR” in subpars. (A) to (C) and added subpar. (E).
+    Subsec. (k)(1). [Pub. L. 107–50][/us/pl/107/50], § 6(b)(1), inserted “or STTR” after “SBIR” in subpars. (A) to (C) and added subpar. (E).
 
-    Subsec. (k)(2). [Pub. L. 107–50, § 6(b)(2)(A)][/us/pl/107/50/s6/b/2/A], (B), in introductory provisions, inserted “or an STTR program pursuant to subsection (n)(1)” after “(f)(1)” and substituted “exclusively for SBIR and STTR” for “solely for SBIR”.
+    Subsec. (k)(2). [Pub. L. 107–50][/us/pl/107/50], § 6(b)(2)(A), (B), in introductory provisions, inserted “or an STTR program pursuant to subsection (n)(1)” after “(f)(1)” and substituted “exclusively for SBIR and STTR” for “solely for SBIR”.
 
-    Subsec. (k)(2)(A)(iii). [Pub. L. 107–50, § 6(b)(2)(C)][/us/pl/107/50/s6/b/2/C], inserted “and STTR” after “SBIR”.
+    Subsec. (k)(2)(A)(iii). [Pub. L. 107–50][/us/pl/107/50], § 6(b)(2)(C), inserted “and STTR” after “SBIR”.
 
-    Subsec. (k)(2)(D). [Pub. L. 107–50, § 6(b)(2)(D)][/us/pl/107/50/s6/b/2/D], inserted “or STTR” after “SBIR”.
+    Subsec. (k)(2)(D). [Pub. L. 107–50][/us/pl/107/50], § 6(b)(2)(D), inserted “or STTR” after “SBIR”.
 
-    Subsec. (n)(1). [Pub. L. 107–50, § 2(a)][/us/pl/107/50/s2/a], amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “With respect to fiscal years 1998, 1999, 2000, and 2001, each Federal agency that has an extramural budget for research, or research and development, in excess of $1,000,000,000 for that fiscal year, is authorized to expend with small business concerns not less than 0.15 percent of that extramural budget specifically in connection with STTR programs that meet the requirements of this section and any policy directives and regulations issued under this section.”
+    Subsec. (n)(1). [Pub. L. 107–50][/us/pl/107/50], § 2(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “With respect to fiscal years 1998, 1999, 2000, and 2001, each Federal agency that has an extramural budget for research, or research and development, in excess of $1,000,000,000 for that fiscal year, is authorized to expend with small business concerns not less than 0.15 percent of that extramural budget specifically in connection with STTR programs that meet the requirements of this section and any policy directives and regulations issued under this section.”
 
-    Subsec. (o)(11). [Pub. L. 107–50, § 7(b)][/us/pl/107/50/s7/b], substituted “adopt the agreement developed by the Administrator under subsection (w) as the agency’s model agreement” for “develop a model agreement not later than July 31, 1993, to be approved by the Administration,”.
+    Subsec. (o)(11). [Pub. L. 107–50][/us/pl/107/50], § 7(b), substituted “adopt the agreement developed by the Administrator under subsection (w) as the agency’s model agreement” for “develop a model agreement not later than July 31, 1993, to be approved by the Administration,”.
 
-    Subsec. (o)(14). [Pub. L. 107–50, § 4][/us/pl/107/50/s4], added par. (14).
+    Subsec. (o)(14). [Pub. L. 107–50][/us/pl/107/50], § 4, added par. (14).
 
-    Subsec. (o)(15). [Pub. L. 107–50, § 6(a)][/us/pl/107/50/s6/a], added par. (15).
+    Subsec. (o)(15). [Pub. L. 107–50][/us/pl/107/50], § 6(a), added par. (15).
 
-    Subsec. (p)(2)(B)(ix). [Pub. L. 107–50, § 3][/us/pl/107/50/s3], substituted “$750,000” for “$500,000” and inserted “, and shorter or longer periods of time to be approved at the discretion of the awarding agency where appropriate for a particular project” before the semicolon at the end.
+    Subsec. (p)(2)(B)(ix). [Pub. L. 107–50][/us/pl/107/50], § 3, substituted “$750,000” for “$500,000” and inserted “, and shorter or longer periods of time to be approved at the discretion of the awarding agency where appropriate for a particular project” before the semicolon at the end.
 
-    Subsec. (p)(3). [Pub. L. 107–50, § 5][/us/pl/107/50/s5], added par. (3).
+    Subsec. (p)(3). [Pub. L. 107–50][/us/pl/107/50], § 5, added par. (3).
 
-    Subsec. (v). [Pub. L. 107–50, § 6(c)][/us/pl/107/50/s6/c], inserted “or STTR” after “SBIR” in two places.
+    Subsec. (v). [Pub. L. 107–50][/us/pl/107/50], § 6(c), inserted “or STTR” after “SBIR” in two places.
 
-    Subsec. (w). [Pub. L. 107–50, § 7(a)][/us/pl/107/50/s7/a], added subsec. (w).
+    Subsec. (w). [Pub. L. 107–50][/us/pl/107/50], § 7(a), added subsec. (w).
 
-    2000—Subsec. (b)(7). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, § 107(b)\], inserted before period at end “, including the data on output and outcomes collected pursuant to subsections (g)(10) and (o)(9) of this section, and a description of the extent to which Federal agencies are providing in a timely manner information needed to maintain the database described in subsection (k)”.
+    2000—Subsec. (b)(7). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title I, § 107(b)\], inserted before period at end “, including the data on output and outcomes collected pursuant to subsections (g)(10) and (o)(9) of this section, and a description of the extent to which Federal agencies are providing in a timely manner information needed to maintain the database described in subsection (k)”.
 
-    [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, § 104\], substituted “, and to the Committee on Science and the Committee on Small Business of the House of Representatives,” for “and the Committee on Small Business of the House of Representatives”.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title I, § 104\], substituted “, and to the Committee on Science and the Committee on Small Business of the House of Representatives,” for “and the Committee on Small Business of the House of Representatives”.
 
-    Subsec. (e)(4)(C)(i). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, § 105\], substituted “; or” for “; and” at end.
+    Subsec. (e)(4)(C)(i). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title I, § 105\], substituted “; or” for “; and” at end.
 
-    Subsec. (g)(9). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, § 106\], added par. (9).
+    Subsec. (g)(9). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title I, § 106\], added par. (9).
 
-    Subsec. (g)(10). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, § 107(a)\], added par. (10).
+    Subsec. (g)(10). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title I, § 107(a)\], added par. (10).
 
-    Subsec. (i). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, § 109\], inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
+    Subsec. (i). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title I, § 109\], inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
-    Subsec. (j)(3). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, § 110\], added par. (3).
+    Subsec. (j)(3). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title I, § 110\], added par. (3).
 
-    Subsec. (k). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, § 107(c)\], amended subsec. (k) generally, substituting present provisions for provisions which read “(k) \[Reserved\]”.
+    Subsec. (k). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title I, § 107(c)\], amended subsec. (k) generally, substituting present provisions for provisions which read “(k) \[Reserved\]”.
 
-    Subsec. (m). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, § 103\], amended heading and text generally. Prior to amendment, text read as follows: “The authorization to carry out the Small Business Innovation Research Program under this section shall terminate on October 1, 2000.”
+    Subsec. (m). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title I, § 103\], amended heading and text generally. Prior to amendment, text read as follows: “The authorization to carry out the Small Business Innovation Research Program under this section shall terminate on October 1, 2000.”
 
-    Subsec. (s)(2). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, § 114(b)\], substituted “for each of the fiscal years 2000 through 2005,” for “for fiscal year 1998, 1999, 2000, or 2001”.
+    Subsec. (s)(2). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title I, § 114(b)\], substituted “for each of the fiscal years 2000 through 2005,” for “for fiscal year 1998, 1999, 2000, or 2001”.
 
-    Subsec. (u). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, § 111(c)\], added subsec. (u).
+    Subsec. (u). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title I, § 111(c)\], added subsec. (u).
 
-    Subsec. (v). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, § 113\], added subsec. (v).
+    Subsec. (v). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title I, § 113\], added subsec. (v).
 
     1999—Subsec. (p)(1)(B). [Pub. L. 106–113][/us/pl/106/113] amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the Commissioner of Patents and Trademarks; and”.
 
-    1997—Subsec. (e)(4)(A). [Pub. L. 105–135, § 501(b)(1)(B)][/us/pl/105/135/s501/b/1/B], substituted “subparagraph (B)” for “subparagraph (B)(ii)”.
+    1997—Subsec. (e)(4)(A). [Pub. L. 105–135][/us/pl/105/135], § 501(b)(1)(B), substituted “subparagraph (B)” for “subparagraph (B)(ii)”.
 
-    Subsec. (n)(1). [Pub. L. 105–135, § 501(a)][/us/pl/105/135/s501/a], added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Each Federal agency which has an extramural budget for research or research and development in excess of $1,000,000,000 in fiscal year 1994, 1995, or 1996, is authorized to expend with small business concerns—
+    Subsec. (n)(1). [Pub. L. 105–135][/us/pl/105/135], § 501(a), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Each Federal agency which has an extramural budget for research or research and development in excess of $1,000,000,000 in fiscal year 1994, 1995, or 1996, is authorized to expend with small business concerns—
 
     “(A) not less than 0.05 percent of such budget in fiscal year 1994;
 
@@ -1895,73 +1895,73 @@
 
     specifically in connection with STTR programs which meet the requirements of this section, policy directives, and regulations issued under this section.”
 
-    Subsec. (o)(8) to (13). [Pub. L. 105–135, § 501(b)(1)(A)][/us/pl/105/135/s501/b/1/A], added pars. (8) and (9) and redesignated former pars. (8) to (11) as (10) to (13), respectively.
+    Subsec. (o)(8) to (13). [Pub. L. 105–135][/us/pl/105/135], § 501(b)(1)(A), added pars. (8) and (9) and redesignated former pars. (8) to (11) as (10) to (13), respectively.
 
-    Subsec. (s). [Pub. L. 105–135, § 501(b)(2)][/us/pl/105/135/s501/b/2], struck out subsec. (s), which related to outreach, including provisions defining eligible State and relating to program authority, amount of assistance, and use of assistance.
+    Subsec. (s). [Pub. L. 105–135][/us/pl/105/135], § 501(b)(2), struck out subsec. (s), which related to outreach, including provisions defining eligible State and relating to program authority, amount of assistance, and use of assistance.
 
-    [Pub. L. 105–135, § 501(b)(1)(C)][/us/pl/105/135/s501/b/1/C], added subsec. (s).
+    [Pub. L. 105–135][/us/pl/105/135], § 501(b)(1)(C), added subsec. (s).
 
-    Subsec. (t). [Pub. L. 105–135, § 501(b)(1)(C)][/us/pl/105/135/s501/b/1/C], added subsec. (t).
+    Subsec. (t). [Pub. L. 105–135][/us/pl/105/135], § 501(b)(1)(C), added subsec. (t).
 
     1996—Subsec. (n)(1)(C). [Pub. L. 104–208][/us/pl/104/208] substituted “fiscal years 1996 and 1997” for “fiscal year 1996”.
 
     1994—Subsec. (q)(2). [Pub. L. 103–403][/us/pl/103/403] amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Annually, each agency may select a vendor for purposes of this subsection using competitive, merit-based criteria, to assist small business concerns to meet the goals listed in paragraph (1).”
 
-    1992—Subsec. (b)(4). [Pub. L. 102–564, § 202(a)(1)][/us/pl/102/564/s202/a/1], inserted before semicolon at end “and small business technology transfer pilot programs”.
+    1992—Subsec. (b)(4). [Pub. L. 102–564][/us/pl/102/564], § 202(a)(1), inserted before semicolon at end “and small business technology transfer pilot programs”.
 
-    Subsec. (b)(5) to (7). [Pub. L. 102–564, § 202(a)(2)][/us/pl/102/564/s202/a/2], inserted “and STTR” after “SBIR” wherever appearing.
+    Subsec. (b)(5) to (7). [Pub. L. 102–564][/us/pl/102/564], § 202(a)(2), inserted “and STTR” after “SBIR” wherever appearing.
 
-    Subsec. (e)(1). [Pub. L. 102–564, § 103(c)][/us/pl/102/564/s103/c], substituted “for the Department of Energy it shall not include amounts obligated for atomic energy defense programs solely for weapons activities or for naval reactor programs” for “for the Department of Defense it shall not include amounts obligated solely for operational systems development”.
+    Subsec. (e)(1). [Pub. L. 102–564][/us/pl/102/564], § 103(c), substituted “for the Department of Energy it shall not include amounts obligated for atomic energy defense programs solely for weapons activities or for naval reactor programs” for “for the Department of Defense it shall not include amounts obligated solely for operational systems development”.
 
-    [Pub. L. 102–484, § 4237(d)(1)][/us/pl/102/484/s4237/d/1], (2)(A), (h)(2), temporarily amended par. (1) by striking out “except that for the Department of Defense it shall not include amounts obligated solely for operational systems development, and” after “Government-operated facilities,” and substituting “, and except that for the Department of Energy it shall not include amounts obligated for atomic energy defense programs for weapons and weapons-related activities or for naval reactor programs;” for semicolon at end. See [section 4237(h)(2) of Pub. L. 102–484][/us/pl/102/484/s4237/h/2] set out in a Small Business Innovation Research Program in Department of Defense note below.
+    [Pub. L. 102–484][/us/pl/102/484], § 4237(d)(1), (2)(A), (h)(2), temporarily amended par. (1) by striking out “except that for the Department of Defense it shall not include amounts obligated solely for operational systems development, and” after “Government-operated facilities,” and substituting “, and except that for the Department of Energy it shall not include amounts obligated for atomic energy defense programs for weapons and weapons-related activities or for naval reactor programs;” for semicolon at end. See [section 4237(h)(2) of Pub. L. 102–484][/us/pl/102/484/s4237/h/2] set out in a Small Business Innovation Research Program in Department of Defense note below.
 
-    Subsec. (e)(4)(A). [Pub. L. 102–564, § 103(a)(1)][/us/pl/102/564/s103/a/1], inserted “that appear to have commercial potential, as described in subparagraph (B)(ii),” after “ideas”.
+    Subsec. (e)(4)(A). [Pub. L. 102–564][/us/pl/102/564], § 103(a)(1), inserted “that appear to have commercial potential, as described in subparagraph (B)(ii),” after “ideas”.
 
-    Subsec. (e)(4)(B). [Pub. L. 102–564, § 103(a)(2)][/us/pl/102/564/s103/a/2], added subpar. (B) and struck out former subpar. (B) which read as follows: “a second phase to further develop the proposed ideas to meet the particular program needs, the awarding of which shall take into consideration the scientific and technical merit and feasibility evidenced by the first phase and, where two or more proposals are evaluated as being of approximately equal scientific and technical merit and feasibility, special consideration shall be given to those proposals that have demonstrated third phase, non-Federal capital commitments; and”.
+    Subsec. (e)(4)(B). [Pub. L. 102–564][/us/pl/102/564], § 103(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “a second phase to further develop the proposed ideas to meet the particular program needs, the awarding of which shall take into consideration the scientific and technical merit and feasibility evidenced by the first phase and, where two or more proposals are evaluated as being of approximately equal scientific and technical merit and feasibility, special consideration shall be given to those proposals that have demonstrated third phase, non-Federal capital commitments; and”.
 
-    Subsec. (e)(4)(C). [Pub. L. 102–564, § 103(a)(2)][/us/pl/102/564/s103/a/2], added subpar. (C) and struck out former subpar. (C) which read as follows: “where appropriate, a third phase in which non-Federal capital pursues commercial applications of the research or research and development and which may also involve follow-on non-SBIR funded production contracts with a Federal agency for products or processes intended for use by the United States Government; and”.
+    Subsec. (e)(4)(C). [Pub. L. 102–564][/us/pl/102/564], § 103(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “where appropriate, a third phase in which non-Federal capital pursues commercial applications of the research or research and development and which may also involve follow-on non-SBIR funded production contracts with a Federal agency for products or processes intended for use by the United States Government; and”.
 
-    Subsec. (e)(6) to (8). [Pub. L. 102–564, § 202(b)][/us/pl/102/564/s202/b], added pars. (6) to (8).
+    Subsec. (e)(6) to (8). [Pub. L. 102–564][/us/pl/102/564], § 202(b), added pars. (6) to (8).
 
-    Subsec. (f). [Pub. L. 102–564, § 103(b)][/us/pl/102/564/s103/b], amended subsec. (f) generally. Prior to amendment, subsec. (f) consisted of pars. (1) and (2) relating to Federal agency extramural budget expenditures for fiscal years 1982 and thereafter for small business concerns in connection with small business innovation research programs meeting the requirements of the Small Business Innovation Development Act of 1982.
+    Subsec. (f). [Pub. L. 102–564][/us/pl/102/564], § 103(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) consisted of pars. (1) and (2) relating to Federal agency extramural budget expenditures for fiscal years 1982 and thereafter for small business concerns in connection with small business innovation research programs meeting the requirements of the Small Business Innovation Development Act of 1982.
 
-    Subsec. (f)(2). [Pub. L. 102–484, § 4237(d)(2)(B)][/us/pl/102/484/s4237/d/2/B], (h)(2), temporarily struck out par. (2) which read “Amounts appropriated for atomic energy defense programs of the Department of Energy shall for the purposes of paragraph (1) be excluded from the amount of the research or research and development budget of that Department.” See [section 4237(h)(2) of Pub. L. 102–484][/us/pl/102/484/s4237/h/2] set out in a Small Business Innovation Research Program in Department of Defense note below.
+    Subsec. (f)(2). [Pub. L. 102–484][/us/pl/102/484], § 4237(d)(2)(B), (h)(2), temporarily struck out par. (2) which read “Amounts appropriated for atomic energy defense programs of the Department of Energy shall for the purposes of paragraph (1) be excluded from the amount of the research or research and development budget of that Department.” See [section 4237(h)(2) of Pub. L. 102–484][/us/pl/102/484/s4237/h/2] set out in a Small Business Innovation Research Program in Department of Defense note below.
 
-    Subsec. (g)(3), (4). [Pub. L. 102–564, § 103(d)][/us/pl/102/564/s103/d], added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
+    Subsec. (g)(3), (4). [Pub. L. 102–564][/us/pl/102/564], § 103(d), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
 
-    Subsec. (g)(5). [Pub. L. 102–564, § 103(d)(1)][/us/pl/102/564/s103/d/1], (h)(2), (i), redesignated par. (4) as (5) and inserted “subject to subsection (l),” before “unilaterally” and “and inform each awardee under such an agreement, to the extent possible, of the expenses of the awardee that will be allowable under the funding agreement” before semicolon at end. Former par. (5) redesignated (6).
+    Subsec. (g)(5). [Pub. L. 102–564][/us/pl/102/564], § 103(d)(1), (h)(2), (i), redesignated par. (4) as (5) and inserted “subject to subsection (l),” before “unilaterally” and “and inform each awardee under such an agreement, to the extent possible, of the expenses of the awardee that will be allowable under the funding agreement” before semicolon at end. Former par. (5) redesignated (6).
 
-    Subsec. (g)(6). [Pub. L. 102–564, § 103(d)(1)][/us/pl/102/564/s103/d/1], redesignated par. (5) as (6). Former par. (6) redesignated (7).
+    Subsec. (g)(6). [Pub. L. 102–564][/us/pl/102/564], § 103(d)(1), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-    Subsec. (g)(7). [Pub. L. 102–564, § 103(d)(1)][/us/pl/102/564/s103/d/1], (e), redesignated par. (6) as (7) and inserted before semicolon at end “and, in all cases, make payment to recipients under such agreements in full, subject to audit, on or before the last day of the 12-month period beginning on the date of completion of such requirements”. Former par. (7) redesignated (8).
+    Subsec. (g)(7). [Pub. L. 102–564][/us/pl/102/564], § 103(d)(1), (e), redesignated par. (6) as (7) and inserted before semicolon at end “and, in all cases, make payment to recipients under such agreements in full, subject to audit, on or before the last day of the 12-month period beginning on the date of completion of such requirements”. Former par. (7) redesignated (8).
 
-    Subsec. (g)(8). [Pub. L. 102–564, § 103(d)(1)][/us/pl/102/564/s103/d/1], redesignated par. (7) as (8).
+    Subsec. (g)(8). [Pub. L. 102–564][/us/pl/102/564], § 103(d)(1), redesignated par. (7) as (8).
 
-    Subsec. (j). [Pub. L. 102–564, § 103(f)][/us/pl/102/564/s103/f], designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), former subpars. (A) to (H) of former par. (2) as cls. (i) to (viii), respectively, of subpar. (B) of par. (1), and former pars. (3) to (7) as subpars. (C) to (G), respectively, of par. (1), and added par. (2).
+    Subsec. (j). [Pub. L. 102–564][/us/pl/102/564], § 103(f), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), former subpars. (A) to (H) of former par. (2) as cls. (i) to (viii), respectively, of subpar. (B) of par. (1), and former pars. (3) to (7) as subpars. (C) to (G), respectively, of par. (1), and added par. (2).
 
-    Subsec. (k). [Pub. L. 102–564, § 103(g)][/us/pl/102/564/s103/g], amended subsec. (k) generally, substituting “(k) \[Reserved\]” for prior provisions of subsec. (k) which read as follows: “The Director of the Office of Science and Technology Policy, in consultation with the Federal Coordinating Council for Science, Engineering and Research, shall, in addition to such other responsibilities imposed upon him by the Small Business Innovation Development Act of 1982—
+    Subsec. (k). [Pub. L. 102–564][/us/pl/102/564], § 103(g), amended subsec. (k) generally, substituting “(k) \[Reserved\]” for prior provisions of subsec. (k) which read as follows: “The Director of the Office of Science and Technology Policy, in consultation with the Federal Coordinating Council for Science, Engineering and Research, shall, in addition to such other responsibilities imposed upon him by the Small Business Innovation Development Act of 1982—
 
     “(1) independently survey and monitor all phases of the implementation and operation of SBIR programs within agencies required to establish an SBIR program, including compliance with the expenditures of funds according to the requirements of subsection (f) of this section; and
 
     “(2) report not less than annually, and at such other times as the Director may deem appropriate, to the Committees on Small Business of the Senate and the House of Representatives on all phases of the implementation and operation of SBIR programs within agencies required to establish an SBIR program, together with such recommendations as the Director may deem appropriate.”
 
-    Subsec. (l). [Pub. L. 102–564, § 103(h)(1)][/us/pl/102/564/s103/h/1], added subsec. (l).
+    Subsec. (l). [Pub. L. 102–564][/us/pl/102/564], § 103(h)(1), added subsec. (l).
 
-    Subsec. (m). [Pub. L. 102–564, § 104(b)][/us/pl/102/564/s104/b], added subsec. (m).
+    Subsec. (m). [Pub. L. 102–564][/us/pl/102/564], § 104(b), added subsec. (m).
 
-    Subsecs. (n) to (p). [Pub. L. 102–564, § 202(c)][/us/pl/102/564/s202/c], added subsecs. (n) to (p).
+    Subsecs. (n) to (p). [Pub. L. 102–564][/us/pl/102/564], § 202(c), added subsecs. (n) to (p).
 
-    Subsec. (q). [Pub. L. 102–564, § 301(a)][/us/pl/102/564/s301/a], added subsec. (q).
+    Subsec. (q). [Pub. L. 102–564][/us/pl/102/564], § 301(a), added subsec. (q).
 
-    Subsec. (r). [Pub. L. 102–564, § 305][/us/pl/102/564/s305], added subsec. (r).
+    Subsec. (r). [Pub. L. 102–564][/us/pl/102/564], § 305, added subsec. (r).
 
     1988—Subsec. (j)(6), (7). [Pub. L. 100–590][/us/pl/100/590] added pars. (6) and (7).
 
-    1986—Subsec. (e)(1). [Pub. L. 99–443, § 1][/us/pl/99/443/s1], inserted provision that for the Department of Defense, the extramural budget shall not include amounts obligated solely for operational systems development.
+    1986—Subsec. (e)(1). [Pub. L. 99–443][/us/pl/99/443], § 1, inserted provision that for the Department of Defense, the extramural budget shall not include amounts obligated solely for operational systems development.
 
-    1982—Subsec. (b)(4) to (7). [Pub. L. 97–219, § 3][/us/pl/97/219/s3], added pars. (4) to (7).
+    1982—Subsec. (b)(4) to (7). [Pub. L. 97–219][/us/pl/97/219], § 3, added pars. (4) to (7).
 
-    Subsecs. (e) to (k). [Pub. L. 97–219, § 4][/us/pl/97/219/s4], added subsecs. (e) to (k).
+    Subsecs. (e) to (k). [Pub. L. 97–219][/us/pl/97/219], § 4, added subsecs. (e) to (k).
 
  __Change of Name__ 
 
@@ -1971,19 +1971,19 @@
 
  __Effective Date of 2013 Amendment__ 
 
-    [Pub. L. 112–239, div. A, title X, § 1076(a)][/us/pl/112/239/s1076/a], Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(20)(A) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
+    [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(a), Jan. 2, 2013, [126 Stat. 1947][/us/stat/126/1947], provided that the amendment made by section 1076(a)(20)(A) is effective Dec. 31, 2011, and as if included in [Pub. L. 112–81][/us/pl/112/81] as enacted.
 
-[Pub. L. 112–239, div. A, title XVI, § 1615(c)][/us/pl/112/239/s1615/c], Jan. 2, 2013, [126 Stat. 2067][/us/stat/126/2067], provided that: 
+[Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1615(c), Jan. 2, 2013, [126 Stat. 2067][/us/stat/126/2067], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect as of January 1, 2012.”
 
  __Effective Date of 2011 Amendment__ 
 
-    [Pub. L. 112–81, div. E, title LI, § 5141(b)(3)][/us/pl/112/81/s5141/b/3], Dec. 31, 2011, [125 Stat. 1854][/us/stat/125/1854], provided in part that the amendments made by [section 5141(b)(3) of Pub. L. 112–81][/us/pl/112/81/s5141/b/3] (amending this section) were effective on the first day of the fourth full fiscal year following Dec. 31, 2011.
+    [Pub. L. 112–81, div. E, title LI][/us/pl/112/81/dE/tLI], § 5141(b)(3), Dec. 31, 2011, [125 Stat. 1854][/us/stat/125/1854], provided in part that the amendments made by [section 5141(b)(3) of Pub. L. 112–81][/us/pl/112/81/s5141/b/3] (amending this section) were effective on the first day of the fourth full fiscal year following Dec. 31, 2011.
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–84, div. A, title VIII, § 847(c)][/us/pl/111/84/s847/c], Oct. 28, 2009, [123 Stat. 2421][/us/stat/123/2421], provided that: 
+[Pub. L. 111–84, div. A, title VIII][/us/pl/111/84/dA/tVIII], § 847(c), Oct. 28, 2009, [123 Stat. 2421][/us/stat/123/2421], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect as of July 30, 2009.”
 
@@ -1993,7 +1993,7 @@
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–50, § 3(b)][/us/pl/107/50/s3/b], Oct. 15, 2001, [115 Stat. 263][/us/stat/115/263], provided that: 
+[Pub. L. 107–50][/us/pl/107/50], § 3(b), Oct. 15, 2001, [115 Stat. 263][/us/stat/115/263], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall be effective beginning in fiscal year 2004.”
 
@@ -2005,7 +2005,7 @@
 
     Amendment by [Pub. L. 105–135][/us/pl/105/135] effective Oct. 1, 1997, see [section 3 of Pub. L. 105–135][/us/pl/105/135/s3], set out as a note under [section 631 of this title][/us/usc/t15/s631].
 
-[Pub. L. 105–135, title V, § 501(b)(2)][/us/pl/105/135/s501/b/2], Dec. 2, 1997, [111 Stat. 2622][/us/stat/111/2622], as amended by [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, § 114(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–681, provided that: 
+[Pub. L. 105–135, title V][/us/pl/105/135/tV], § 501(b)(2), Dec. 2, 1997, [111 Stat. 2622][/us/stat/111/2622], as amended by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title I, § 114(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–681, provided that: 
 
 > “Effective October 1, 2005, section 9(s) of the Small Business Act \[[15 U.S.C. 638(s)][/us/usc/t15/s638/s]\] (as added by paragraph (1) of this subsection) is repealed.”
 
@@ -2019,11 +2019,11 @@
 
  __Termination Date of 1982 Amendment__ 
 
-    [Pub. L. 97–219, § 5][/us/pl/97/219/s5], July 22, 1982, [96 Stat. 221][/us/stat/96/221], as amended by [Pub. L. 99–443, § 2][/us/pl/99/443/s2], Oct. 6, 1986, [100 Stat. 1120][/us/stat/100/1120]; [Pub. L. 102–484, div. D, title XLII, § 4237(a)][/us/pl/102/484/s4237/a], Oct. 23, 1992, [106 Stat. 2691][/us/stat/106/2691], which provided that effective Oct. 1, 1993, subsecs. (b)(4) through (7) and (e) through (k) of this section were to be repealed, was repealed by [Pub. L. 102–564, title I, § 104(a)][/us/pl/102/564/s104/a], Oct. 28, 1992, [106 Stat. 4254][/us/stat/106/4254].
+    [Pub. L. 97–219][/us/pl/97/219], § 5, July 22, 1982, [96 Stat. 221][/us/stat/96/221], as amended by [Pub. L. 99–443][/us/pl/99/443], § 2, Oct. 6, 1986, [100 Stat. 1120][/us/stat/100/1120]; [Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4237(a), Oct. 23, 1992, [106 Stat. 2691][/us/stat/106/2691], which provided that effective Oct. 1, 1993, subsecs. (b)(4) through (7) and (e) through (k) of this section were to be repealed, was repealed by [Pub. L. 102–564, title I][/us/pl/102/564/tI], § 104(a), Oct. 28, 1992, [106 Stat. 4254][/us/stat/106/4254].
 
  __Firms That Are Majority-Owned by Multiple Venture Capital Operating Companies, Hedge Funds, Or Private Equity Firms Entitled to Partial Participation in SBIR Program; Rules for Determining Affiliation__ 
 
-[Pub. L. 112–81, div. E, title LI, § 5107(c)][/us/pl/112/81/s5107/c], (d), Dec. 31, 2011, [125 Stat. 1829][/us/stat/125/1829], 1832, provided that:
+[Pub. L. 112–81, div. E, title LI][/us/pl/112/81/dE/tLI], § 5107(c), (d), Dec. 31, 2011, [125 Stat. 1829][/us/stat/125/1829], 1832, provided that:
 
 >     “(c) __Rulemaking To Ensure That Firms That Are Majority-Owned by Multiple Venture Capital Operating Companies, Hedge Funds, Or Private Equity Firms Are Able To Participate in a Portion of the SBIR Program.—__ 
 
@@ -2139,7 +2139,7 @@
 
  __Accuracy in Funding Base Calculations__ 
 
-[Pub. L. 112–81, div. E, title LI, § 5136][/us/pl/112/81/s5136], Dec. 31, 2011, [125 Stat. 1849][/us/stat/125/1849], provided that:
+[Pub. L. 112–81, div. E, title LI][/us/pl/112/81/dE/tLI], § 5136, Dec. 31, 2011, [125 Stat. 1849][/us/stat/125/1849], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -2177,13 +2177,13 @@
 
  __Transitional Rule__ 
 
-[Pub. L. 112–81, div. E, title LI, § 5141(b)(2)][/us/pl/112/81/s5141/b/2], Dec. 31, 2011, [125 Stat. 1853][/us/stat/125/1853], provided that: 
+[Pub. L. 112–81, div. E, title LI][/us/pl/112/81/dE/tLI], § 5141(b)(2), Dec. 31, 2011, [125 Stat. 1853][/us/stat/125/1853], provided that: 
 
 > “Notwithstanding the amendments made by paragraph (1) \[amending this section\], subsections (f)(2) and (y)(4) of section 9 of the Small Business Act ([15 U.S.C. 638][/us/usc/t15/s638]), as in effect on the day before the date of enactment of this Act \[Dec. 31, 2011\], shall continue to apply to each Federal agency until the effective date of the performance criteria established by the \[Small Business\] Administrator under subsection (mm)(3) of section 9 of the Small Business Act \[[15 U.S.C. 638(mm)(3)][/us/usc/t15/s638/mm/3]\], as added by subsection (a).”
 
  __Conforming Amendments to the SBIR and the STTR Policy Directives__ 
 
-[Pub. L. 112–81, div. E, title LI, § 5151][/us/pl/112/81/s5151], Dec. 31, 2011, [125 Stat. 1857][/us/stat/125/1857], provided that:
+[Pub. L. 112–81, div. E, title LI][/us/pl/112/81/dE/tLI], § 5151, Dec. 31, 2011, [125 Stat. 1857][/us/stat/125/1857], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -2197,7 +2197,7 @@
 
  __Coordination of the SBIR Program and the Experimental Program To Stimulate Competitive Research__ 
 
-[Pub. L. 112–81, div. E, title LI, § 5168][/us/pl/112/81/s5168], Dec. 31, 2011, [125 Stat. 1862][/us/stat/125/1862], provided that:
+[Pub. L. 112–81, div. E, title LI][/us/pl/112/81/dE/tLI], § 5168, Dec. 31, 2011, [125 Stat. 1862][/us/stat/125/1862], provided that:
 
 >     “(a)  __Coordination Required__  __.—__ 
 
@@ -2215,13 +2215,13 @@
 
  __Continuation of SBIR Program Beyond Termination Date__ 
 
-[Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. B, title I, § 149\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–251, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(4) \[div. B, title I, § 149\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–251, provided that: 
 
 > “The Small Business Innovation Research program, otherwise expiring at the end of fiscal year 2000, is authorized to continue in effect during fiscal year 2001.”
 
  __Congressional Findings: Small Business Innovation Research Program Reauthorization Act of 2000__ 
 
-[Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, § 102\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–668, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title I, § 102\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–668, provided that: 
 
 > “Congress finds that—
 
@@ -2237,7 +2237,7 @@
 
  __National Research Council Reports__ 
 
-[Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, § 108\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–671, as amended by [Pub. L. 112–81, div. E, title LI, § 5137][/us/pl/112/81/s5137], Dec. 31, 2011, [125 Stat. 1850][/us/stat/125/1850], provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title I, § 108\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–671, as amended by [Pub. L. 112–81, div. E, title LI][/us/pl/112/81/dE/tLI], § 5137, Dec. 31, 2011, [125 Stat. 1850][/us/stat/125/1850], provided that:
 
 >     “(a)  __Study and Recommendations__  __.—__ 
 
@@ -2335,7 +2335,7 @@
 
  __Congressional Findings and Purposes: Small Business Research and Development Enhancement Act of 1992__ 
 
-[Pub. L. 102–564, title I, § 102][/us/pl/102/564/s102], Oct. 28, 1992, [106 Stat. 4249][/us/stat/106/4249], provided that:
+[Pub. L. 102–564, title I][/us/pl/102/564/tI], § 102, Oct. 28, 1992, [106 Stat. 4249][/us/stat/106/4249], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -2373,11 +2373,11 @@
 
  __Recommendations of Secretary of Defense__ 
 
-    [Pub. L. 102–564, title I, § 106][/us/pl/102/564/s106], Oct. 28, 1992, [106 Stat. 4256][/us/stat/106/4256], required the Secretary of Defense, by Mar. 31, 1996, to submit a recommendation to Congress addressing whether there was a demonstrable reduction in the quality of research performed under the Small Business Innovation Research Program since the beginning of fiscal year 1993, such that increasing the percentage in fiscal years after 1996 under former [15 U.S.C. 638(f)(1)(C)][/us/usc/t15/s638/f/1/C] would adversely affect the performance of the research programs of the Department of Defense.
+    [Pub. L. 102–564, title I][/us/pl/102/564/tI], § 106, Oct. 28, 1992, [106 Stat. 4256][/us/stat/106/4256], required the Secretary of Defense, by Mar. 31, 1996, to submit a recommendation to Congress addressing whether there was a demonstrable reduction in the quality of research performed under the Small Business Innovation Research Program since the beginning of fiscal year 1993, such that increasing the percentage in fiscal years after 1996 under former [15 U.S.C. 638(f)(1)(C)][/us/usc/t15/s638/f/1/C] would adversely affect the performance of the research programs of the Department of Defense.
 
  __Timing of Issuance of Policy Directive__ 
 
-[Pub. L. 102–564, title II, § 202(d)][/us/pl/102/564/s202/d], Oct. 28, 1992, [106 Stat. 4260][/us/stat/106/4260], provided that: 
+[Pub. L. 102–564, title II][/us/pl/102/564/tII], § 202(d), Oct. 28, 1992, [106 Stat. 4260][/us/stat/106/4260], provided that: 
 
 > “The policy directive required by section 9(p) of the Small Business Act \[[15 U.S.C. 638(p)][/us/usc/t15/s638/p]\] (as added by subsection (c) of this section) shall be published—
 
@@ -2387,7 +2387,7 @@
 
  __Sense of Congress Concerning American-Made Equipment and Products__ 
 
-[Pub. L. 102–564, title III, § 306][/us/pl/102/564/s306], Oct. 28, 1992, [106 Stat. 4263][/us/stat/106/4263], provided that:
+[Pub. L. 102–564, title III][/us/pl/102/564/tIII], § 306, Oct. 28, 1992, [106 Stat. 4263][/us/stat/106/4263], provided that:
 
 >     “(a)  __Purchase of American-Made Equipment and Products__  __.—__ 
 
@@ -2399,7 +2399,7 @@
 
  __Small Business Innovation Research Program in Department of Defense__ 
 
-[Pub. L. 102–484, div. D, title XLII, § 4237][/us/pl/102/484/s4237], Oct. 23, 1992, [106 Stat. 2691][/us/stat/106/2691], provided that:
+[Pub. L. 102–484, div. D, title XLII][/us/pl/102/484/dD/tXLII], § 4237, Oct. 23, 1992, [106 Stat. 2691][/us/stat/106/2691], provided that:
 
 >     “(a)  __Extension of Program__  __.—__ 
 
@@ -2593,13 +2593,13 @@
 
  __Use of Department of Agriculture Extramural Budget Funds in Small Business Innovation Research Program__ 
 
-[Pub. L. 99–500, § 101(a)][/us/pl/99/500/s101/a] \[title VI, § 630\], Oct. 18, 1986, [100 Stat. 1783][/us/stat/100/1783], 1783–30, and [Pub. L. 99–591, § 101(a)][/us/pl/99/591/s101/a] \[title VI, § 630\], Oct. 30, 1986, [100 Stat. 3341][/us/stat/100/3341], 3341–30, provided that: 
+[Pub. L. 99–500][/us/pl/99/500], § 101(a) \[title VI, § 630\], Oct. 18, 1986, [100 Stat. 1783][/us/stat/100/1783], 1783–30, and [Pub. L. 99–591][/us/pl/99/591], § 101(a) \[title VI, § 630\], Oct. 30, 1986, [100 Stat. 3341][/us/stat/100/3341], 3341–30, provided that: 
 
 > “All funds appropriated for this fiscal year and all funds appropriated hereafter by this or any other Act that are determined to be part of the ‘extramural budget’ of the Department of Agriculture for any fiscal year for purposes of meeting the requirements of section 9 of the Small Business Act ([15 U.S.C. 638][/us/usc/t15/s638]), as amended by the Small Business Innovation Development Act of 1982, [Public Law 97–219][/us/pl/97/219], shall be available for contracts, grants or cooperative agreements with small business concerns for any purpose in furtherance of the small business innovation research program. Such funds may be transferred for such purpose from one appropriation to another or to a single account.”
 
  __Congressional Findings and Declaration of Purpose: Small Business Innovation Development Act of 1982__ 
 
-[Pub. L. 97–219, § 2][/us/pl/97/219/s2], July 22, 1982, [96 Stat. 217][/us/stat/96/217], provided that:
+[Pub. L. 97–219][/us/pl/97/219], § 2, July 22, 1982, [96 Stat. 217][/us/stat/96/217], provided that:
 
 >     “(a)
 
@@ -2625,11 +2625,11 @@
 
  __Reports of Comptroller General__ 
 
-    [Pub. L. 102–564, title I, § 105][/us/pl/102/564/s105], Oct. 28, 1992, [106 Stat. 4254][/us/stat/106/4254], required the Comptroller General to submit to Congress an interim report, by Mar. 31, 1995, concerning the quality of research performed under Small Business Innovation Research Program funding agreements entered into during fiscal year 1993 and thereafter and a final report, no later than 5 years after Oct. 28, 1992, concerning various aspects of the Small Business Innovation Research Program.
+    [Pub. L. 102–564, title I][/us/pl/102/564/tI], § 105, Oct. 28, 1992, [106 Stat. 4254][/us/stat/106/4254], required the Comptroller General to submit to Congress an interim report, by Mar. 31, 1995, concerning the quality of research performed under Small Business Innovation Research Program funding agreements entered into during fiscal year 1993 and thereafter and a final report, no later than 5 years after Oct. 28, 1992, concerning various aspects of the Small Business Innovation Research Program.
 
-    [Pub. L. 102–564, title II, § 202(e)][/us/pl/102/564/s202/e], Oct. 28, 1992, [106 Stat. 4260][/us/stat/106/4260], required the Comptroller General to submit a report to Congress and the head of each agency required to make expenditures under the Small Business Technology Transfer Program setting forth the Comptroller General’s assessment of various aspects of the program and with the agencies’ compliance with procedural requirements.
+    [Pub. L. 102–564, title II][/us/pl/102/564/tII], § 202(e), Oct. 28, 1992, [106 Stat. 4260][/us/stat/106/4260], required the Comptroller General to submit a report to Congress and the head of each agency required to make expenditures under the Small Business Technology Transfer Program setting forth the Comptroller General’s assessment of various aspects of the program and with the agencies’ compliance with procedural requirements.
 
-    [Pub. L. 97–219, § 6][/us/pl/97/219/s6], July 22, 1982, [96 Stat. 221][/us/stat/96/221], as amended by [Pub. L. 99–443, § 3][/us/pl/99/443/s3], Oct. 6, 1986, [100 Stat. 1120][/us/stat/100/1120]; [Pub. L. 100–418, title VIII, § 8008][/us/pl/100/418/s8008], Aug. 23, 1988, [102 Stat. 1561][/us/stat/102/1561]; [Pub. L. 100–647, title IX, § 9003][/us/pl/100/647/s9003], Nov. 10, 1988, [102 Stat. 3808][/us/stat/102/3808], required the Comptroller General, by Dec. 31, 1988, to transmit a report to appropriate Congressional committees evaluating the effectiveness of the initial phases of the Small Business Innovation Research Program, by Dec. 31, 1991, to transmit to such committees an update of the earlier report, and by July 1, 1989, to transmit to such committees recommendations as to the advisability of certain amendments to the Small Business Innovation Research Program.
+    [Pub. L. 97–219][/us/pl/97/219], § 6, July 22, 1982, [96 Stat. 221][/us/stat/96/221], as amended by [Pub. L. 99–443][/us/pl/99/443], § 3, Oct. 6, 1986, [100 Stat. 1120][/us/stat/100/1120]; [Pub. L. 100–418, title VIII][/us/pl/100/418/tVIII], § 8008, Aug. 23, 1988, [102 Stat. 1561][/us/stat/102/1561]; [Pub. L. 100–647, title IX][/us/pl/100/647/tIX], § 9003, Nov. 10, 1988, [102 Stat. 3808][/us/stat/102/3808], required the Comptroller General, by Dec. 31, 1988, to transmit a report to appropriate Congressional committees evaluating the effectiveness of the initial phases of the Small Business Innovation Research Program, by Dec. 31, 1991, to transmit to such committees an update of the earlier report, and by July 1, 1989, to transmit to such committees recommendations as to the advisability of certain amendments to the Small Business Innovation Research Program.
 
  __Ex. Ord. No. 13329. Encouraging Innovation in Manufacturing__ 
 
@@ -2695,262 +2695,262 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t10/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2501
 [/us/usc/t15/s3710a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a%2Fd
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F391
 [/us/pl/97/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F219
 [/us/stat/96/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F217
 [/us/pl/99/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F443
 [/us/stat/100/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1120
-[/us/pl/100/590/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2Fs108
+[/us/pl/100/590/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2FtI
 [/us/stat/102/2994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2994
-[/us/pl/102/484/s4237/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4237%2Fd
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2692
-[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
+[/us/pl/102/564/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2FtI
 [/us/stat/106/4250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4250
-[/us/pl/103/403/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs607
+[/us/pl/103/403/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtVI
 [/us/stat/108/4204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4204
-[/us/pl/104/208/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs110
+[/us/pl/104/208/dD/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD%2FtI
 [/us/stat/110/3009-733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-733
-[/us/pl/105/135/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs501
+[/us/pl/105/135/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtV
 [/us/stat/111/2620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2620
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/107/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50
 [/us/stat/115/263-265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F263-265
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/109/163/s252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs252
+[/us/pl/109/163/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtII
 [/us/stat/119/3177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3177
-[/us/pl/110/140/s1203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1203%2Fe
+[/us/pl/110/140/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXII
 [/us/stat/121/1771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1771
-[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVIII
 [/us/stat/123/2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2420
-[/us/pl/111/383/s1075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075
+[/us/pl/111/383/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdA%2FtX
 [/us/stat/124/4378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4378
 [/us/pl/112/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F17
 [/us/stat/125/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F221
-[/us/pl/112/81/s1067/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1067%2Fa
+[/us/pl/112/81/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtX
 [/us/stat/125/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1589
-[/us/pl/112/239/s1076/a/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F20%2FA
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1949
-[/us/pl/114/92/s873/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs873%2Fe
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F940
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/usc/t15/s3703/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3703%2F5
-[/us/pl/110/69/s3002/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fc%2F3
+[/us/pl/110/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIII
 [/us/stat/121/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F586
 [/us/usc/t42/s6683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6683
 [/us/usc/t10/s2522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2522
-[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2659
 [/us/pl/102/564/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs105
 [/us/usc/t41/s1303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303%2Fa%2F1
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s1303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303%2Fa%2F1
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/act/1953-07-30/ch282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-30%2Fch282
+[/us/act/1953-07-30/ch282/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-30%2Fch282%2FtII
 [/us/stat/67/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F237
 [/us/usc/t15/s645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs645
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
-[/us/pl/112/239/s1076/a/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F20%2FA
-[/us/pl/112/81/s1067/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1067%2Fa%2F1
-[/us/pl/112/239/s1615/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1615%2Fb
-[/us/pl/112/81/s5141/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5141%2Fb%2F3%2FB
-[/us/pl/112/239/s1615/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1615%2Fa%2F2
-[/us/pl/112/239/s1615/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1615%2Fa%2F1
-[/us/pl/112/239/s1076/a/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F20%2FA
-[/us/pl/112/81/s1067/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1067%2Fa%2F2
-[/us/pl/112/239/s1615/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1615%2Fa%2F1
-[/us/pl/112/81/s5131/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5131%2F1%2FB
-[/us/pl/112/81/s5131/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5131%2F1%2FA
-[/us/pl/112/81/s1067/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1067%2Fa%2F1
-[/us/pl/112/239/s1076/a/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F20%2FA
-[/us/pl/112/81/s5131/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5131%2F1%2FC
-[/us/pl/112/81/s5105/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5105%2F1
-[/us/pl/112/81/s5125/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fa%2F1
-[/us/pl/112/81/s5125/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F1%2FA
-[/us/pl/112/81/s5105/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5105%2F2
-[/us/pl/112/81/s5125/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fa%2F2
-[/us/pl/112/81/s5125/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F1%2FB
-[/us/pl/112/81/s5125/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fa%2F3
-[/us/pl/112/81/s5125/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F1%2FC
-[/us/pl/112/81/s5102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5102%2Fa%2F1
-[/us/pl/112/81/s5141/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5141%2Fb%2F3%2FA
-[/us/pl/112/81/s5141/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5141%2Fb%2F1%2FA
-[/us/pl/112/81/s5102/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5102%2Fa%2F2
-[/us/pl/112/81/s5126/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5126%2Fa%2F1
-[/us/pl/112/81/s5132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5132
-[/us/pl/112/81/s5110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5110%2Fa
-[/us/pl/112/81/s5122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5122%2Fb
-[/us/pl/112/81/s5125/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F2%2FA
-[/us/pl/112/81/s5125/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F2%2FB%2Fi
-[/us/pl/112/81/s5125/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F2%2FB%2Fii
-[/us/pl/112/81/s5103/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5103%2Fc%2F1
-[/us/pl/112/81/s5103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5103%2Fa
-[/us/pl/112/81/s5125/b/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F2%2FB%2Fiii
-[/us/pl/112/81/s5125/b/2/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F2%2FB%2Fiv
-[/us/pl/112/81/s5125/b/2/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F2%2FB%2Fv
-[/us/pl/112/81/s5125/b/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F2%2FC%2Fi
-[/us/pl/112/81/s5125/b/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F2%2FC%2Fii
-[/us/pl/112/81/s5125/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F3
-[/us/pl/112/81/s5134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5134
-[/us/pl/112/81/s5135/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5135%2F1
-[/us/pl/112/81/s5135/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5135%2F2
-[/us/pl/112/81/s5125/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F4
-[/us/pl/112/81/s5101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5101%2Fa
-[/us/pl/112/17/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F17%2Fs3%2Fa
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F17
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/112/81/s5101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5101%2Fb
-[/us/pl/112/17/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F17%2Fs3%2Fb
-[/us/pl/112/81/s5102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5102%2Fb
-[/us/pl/112/81/s5126/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5126%2Fa%2F2
-[/us/pl/112/81/s5133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5133
-[/us/pl/112/81/s5125/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F5%2FA
-[/us/pl/112/81/s5125/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F5%2FB
-[/us/pl/112/81/s5110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5110%2Fb
-[/us/pl/112/81/s5125/b/6/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F6%2FA%2Fi
-[/us/pl/112/81/s5125/b/6/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F6%2FA%2Fii
-[/us/pl/112/81/s5103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5103%2Fc%2F2
-[/us/pl/112/81/s5103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5103%2Fb
-[/us/pl/112/81/s5125/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F6%2FB
-[/us/pl/112/81/s5121/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5121%2F1
-[/us/pl/112/81/s5121/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5121%2F2
-[/us/pl/112/81/s5121/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5121%2F3
-[/us/pl/112/81/s5125/b/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F7%2FA
-[/us/pl/112/81/s5125/b/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F7%2FB
-[/us/pl/112/81/s5125/b/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F7%2FC
-[/us/pl/112/81/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5108
-[/us/pl/112/17/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F17%2Fs4
-[/us/pl/112/81/s5125/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5125%2Fb%2F8
-[/us/pl/112/81/s5144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5144
-[/us/pl/112/81/s5122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5122%2Fa%2F1
-[/us/pl/112/81/s5122/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5122%2Fa%2F3
-[/us/pl/112/81/s5122/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5122%2Fa%2F4
-[/us/pl/112/81/s5141/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5141%2Fb%2F3%2FB
-[/us/pl/112/239/s1615/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1615%2Fb
-[/us/pl/112/81/s5141/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5141%2Fb%2F1%2FB
-[/us/pl/112/81/s5141/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5141%2Fb%2F1%2FB%2Fii
-[/us/pl/112/81/s5122/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5122%2Fa%2F7
-[/us/pl/112/81/s5122/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5122%2Fa%2F5
-[/us/pl/112/81/s1067/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1067%2Fa%2F2
-[/us/pl/112/239/s1076/a/20/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F20%2FA
-[/us/pl/112/81/s5141/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5141%2Fb%2F1%2FB%2Fii
-[/us/pl/112/81/s5122/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5122%2Fa%2F6
-[/us/pl/112/17/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F17%2Fs3%2Fc
-[/us/pl/112/81/s5103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5103%2Fd
-[/us/pl/112/81/s5104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5104
-[/us/pl/112/81/s5106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5106
-[/us/pl/112/81/s5107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5107%2Fa
-[/us/pl/112/81/s5109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5109
-[/us/pl/112/81/s5111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5111
-[/us/pl/112/81/s5123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5123
-[/us/pl/112/81/s5126/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5126%2Fb
-[/us/pl/112/81/s5127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5127
-[/us/pl/112/81/s5138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5138
-[/us/pl/112/81/s5140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5140
-[/us/pl/112/81/s5141/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5141%2Fa
-[/us/pl/112/81/s5161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5161
-[/us/pl/112/81/s5162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5162
-[/us/pl/112/81/s5164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5164
-[/us/pl/112/81/s5165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5165
-[/us/pl/112/81/s5166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5166
-[/us/pl/112/81/s5167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5167
-[/us/pl/111/84/s847/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs847%2Fa
-[/us/pl/111/84/s847/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs847%2Fb
-[/us/pl/111/84/s848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs848
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F17
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F17
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F17
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
-[/us/pl/109/163/s252/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs252%2Fb%2F1
-[/us/pl/109/163/s252/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs252%2Fc
-[/us/pl/109/163/s252/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs252%2Fb%2F2
-[/us/pl/109/163/s252/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs252%2Fb%2F3
-[/us/pl/109/163/s252/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs252%2Fa
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/107/50/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50%2Fs2%2Fb
-[/us/pl/107/50/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50%2Fs6%2Fd
-[/us/pl/107/50/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50%2Fs2%2Fb
-[/us/pl/107/50/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50%2Fs6%2Fb%2F1
-[/us/pl/107/50/s6/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50%2Fs6%2Fb%2F2%2FA
-[/us/pl/107/50/s6/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50%2Fs6%2Fb%2F2%2FC
-[/us/pl/107/50/s6/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50%2Fs6%2Fb%2F2%2FD
-[/us/pl/107/50/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50%2Fs2%2Fa
-[/us/pl/107/50/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50%2Fs7%2Fb
-[/us/pl/107/50/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50%2Fs4
-[/us/pl/107/50/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50%2Fs6%2Fa
-[/us/pl/107/50/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50%2Fs3
-[/us/pl/107/50/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50%2Fs5
-[/us/pl/107/50/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50%2Fs6%2Fc
-[/us/pl/107/50/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50%2Fs7%2Fa
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/107/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50
+[/us/pl/107/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50
+[/us/pl/107/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50
+[/us/pl/107/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50
+[/us/pl/107/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50
+[/us/pl/107/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50
+[/us/pl/107/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50
+[/us/pl/107/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50
+[/us/pl/107/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50
+[/us/pl/107/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50
+[/us/pl/107/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50
+[/us/pl/107/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50
+[/us/pl/107/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50
+[/us/pl/107/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50
+[/us/pl/107/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/105/135/s501/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs501%2Fb%2F1%2FB
-[/us/pl/105/135/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs501%2Fa
-[/us/pl/105/135/s501/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs501%2Fb%2F1%2FA
-[/us/pl/105/135/s501/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs501%2Fb%2F2
-[/us/pl/105/135/s501/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs501%2Fb%2F1%2FC
-[/us/pl/105/135/s501/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs501%2Fb%2F1%2FC
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
-[/us/pl/102/564/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs202%2Fa%2F1
-[/us/pl/102/564/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs202%2Fa%2F2
-[/us/pl/102/564/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs103%2Fc
-[/us/pl/102/484/s4237/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4237%2Fd%2F1
+[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
+[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
+[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/484/s4237/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4237%2Fh%2F2
-[/us/pl/102/564/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs103%2Fa%2F1
-[/us/pl/102/564/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs103%2Fa%2F2
-[/us/pl/102/564/s103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs103%2Fa%2F2
-[/us/pl/102/564/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs202%2Fb
-[/us/pl/102/564/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs103%2Fb
-[/us/pl/102/484/s4237/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4237%2Fd%2F2%2FB
+[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
+[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
+[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
+[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
+[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/484/s4237/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4237%2Fh%2F2
-[/us/pl/102/564/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs103%2Fd
-[/us/pl/102/564/s103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs103%2Fd%2F1
-[/us/pl/102/564/s103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs103%2Fd%2F1
-[/us/pl/102/564/s103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs103%2Fd%2F1
-[/us/pl/102/564/s103/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs103%2Fd%2F1
-[/us/pl/102/564/s103/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs103%2Ff
-[/us/pl/102/564/s103/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs103%2Fg
-[/us/pl/102/564/s103/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs103%2Fh%2F1
-[/us/pl/102/564/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs104%2Fb
-[/us/pl/102/564/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs202%2Fc
-[/us/pl/102/564/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs301%2Fa
-[/us/pl/102/564/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs305
+[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
+[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
+[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
+[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
+[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
+[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
+[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
+[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
+[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
+[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
+[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
+[/us/pl/102/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564
 [/us/pl/100/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590
-[/us/pl/99/443/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F443%2Fs1
-[/us/pl/97/219/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F219%2Fs3
-[/us/pl/97/219/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F219%2Fs4
-[/us/pl/112/239/s1076/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa
+[/us/pl/99/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F443
+[/us/pl/97/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F219
+[/us/pl/97/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F219
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1947
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/112/239/s1615/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1615%2Fc
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2067
-[/us/pl/112/81/s5141/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5141%2Fb%2F3
+[/us/pl/112/81/dE/tLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdE%2FtLI
 [/us/stat/125/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1854
 [/us/pl/112/81/s5141/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5141%2Fb%2F3
-[/us/pl/111/84/s847/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs847%2Fc
+[/us/pl/111/84/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtVIII
 [/us/stat/123/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2421
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/107/50/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50%2Fs3%2Fb
+[/us/pl/107/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50
 [/us/stat/115/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F263
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
@@ -2958,9 +2958,9 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/105/135/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs3
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/105/135/s501/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs501%2Fb%2F2
+[/us/pl/105/135/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtV
 [/us/stat/111/2622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2622
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t15/s638/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638%2Fs
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
@@ -2968,15 +2968,15 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t15/s633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs633
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
-[/us/pl/97/219/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F219%2Fs5
+[/us/pl/97/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F219
 [/us/stat/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F221
-[/us/pl/99/443/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F443%2Fs2
+[/us/pl/99/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F443
 [/us/stat/100/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1120
-[/us/pl/102/484/s4237/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4237%2Fa
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2691
-[/us/pl/102/564/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs104%2Fa
+[/us/pl/102/564/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2FtI
 [/us/stat/106/4254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4254
-[/us/pl/112/81/s5107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5107%2Fc
+[/us/pl/112/81/dE/tLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdE%2FtLI
 [/us/stat/125/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1829
 [/us/usc/t15/s638/dd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638%2Fdd
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
@@ -2988,59 +2988,59 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/112/81/s5002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5002
 [/us/usc/t15/s638b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638b
-[/us/pl/112/81/s5136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5136
+[/us/pl/112/81/dE/tLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdE%2FtLI
 [/us/stat/125/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1849
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
 [/us/usc/t15/s638/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638%2Fi%2F2
 [/us/pl/112/81/s5136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5136
 [/us/pl/112/81/s5002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5002
 [/us/usc/t15/s638b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638b
-[/us/pl/112/81/s5141/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5141%2Fb%2F2
+[/us/pl/112/81/dE/tLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdE%2FtLI
 [/us/stat/125/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1853
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
 [/us/usc/t15/s638/mm/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638%2Fmm%2F3
-[/us/pl/112/81/s5151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5151
+[/us/pl/112/81/dE/tLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdE%2FtLI
 [/us/stat/125/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1857
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/pl/112/81/s5151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5151
 [/us/pl/112/81/s5002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5002
 [/us/usc/t15/s638b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638b
-[/us/pl/112/81/s5168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5168
+[/us/pl/112/81/dE/tLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdE%2FtLI
 [/us/stat/125/1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1862
 [/us/pl/112/81/s5168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5168
 [/us/pl/112/81/s5002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5002
 [/us/usc/t15/s638b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638b
-[/us/pl/106/554/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F4
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/112/81/s5137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5137
+[/us/pl/112/81/dE/tLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdE%2FtLI
 [/us/stat/125/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1850
 [/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306
 [/us/usc/t31/s1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1115
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t15/s638/qq]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638%2Fqq
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/102/564/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs102
+[/us/pl/102/564/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2FtI
 [/us/stat/106/4249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4249
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/102/564/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs106
+[/us/pl/102/564/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2FtI
 [/us/stat/106/4256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4256
 [/us/usc/t15/s638/f/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638%2Ff%2F1%2FC
-[/us/pl/102/564/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs202%2Fd
+[/us/pl/102/564/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2FtII
 [/us/stat/106/4260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4260
 [/us/usc/t15/s638/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638%2Fp
-[/us/pl/102/564/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs306
+[/us/pl/102/564/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2FtIII
 [/us/stat/106/4263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4263
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
-[/us/pl/102/484/s4237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4237
+[/us/pl/102/484/dD/tXLII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdD%2FtXLII
 [/us/stat/106/2691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2691
 [/us/pl/97/219/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F219%2Fs5
 [/us/usc/t15/s638/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638%2Ff%2F1
@@ -3051,25 +3051,25 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/pl/97/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F219
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
-[/us/pl/99/500/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fa
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783
-[/us/pl/99/591/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fa
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
 [/us/pl/97/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F219
-[/us/pl/97/219/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F219%2Fs2
+[/us/pl/97/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F219
 [/us/stat/96/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F217
-[/us/pl/102/564/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs105
+[/us/pl/102/564/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2FtI
 [/us/stat/106/4254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4254
-[/us/pl/102/564/s202/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs202%2Fe
+[/us/pl/102/564/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2FtII
 [/us/stat/106/4260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4260
-[/us/pl/97/219/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F219%2Fs6
+[/us/pl/97/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F219
 [/us/stat/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F221
-[/us/pl/99/443/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F443%2Fs3
+[/us/pl/99/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F443
 [/us/stat/100/1120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1120
-[/us/pl/100/418/s8008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8008
+[/us/pl/100/418/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVIII
 [/us/stat/102/1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1561
-[/us/pl/100/647/s9003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs9003
+[/us/pl/100/647/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtIX
 [/us/stat/102/3808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3808
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/usc/t15/s638/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638%2Fe%2F4

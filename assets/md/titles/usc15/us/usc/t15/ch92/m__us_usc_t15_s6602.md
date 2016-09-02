@@ -71,7 +71,7 @@
 
         The term “alternative dispute resolution” means any process or proceeding, other than adjudication by a court or in an administrative proceeding, to assist in the resolution of issues in controversy, through processes such as early neutral evaluation, mediation, minitrial, and arbitration.
 
-([Pub. L. 106–37, § 3][/us/pl/106/37/s3], July 20, 1999, [113 Stat. 187][/us/stat/113/187].)
+([Pub. L. 106–37][/us/pl/106/37], § 3, July 20, 1999, [113 Stat. 187][/us/stat/113/187].)
 
 ----------
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/106/37/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37%2Fs3
+[/us/pl/106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37
 [/us/stat/113/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F187
 
 

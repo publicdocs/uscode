@@ -53,7 +53,7 @@
 
         (3) The representative of the National Science Foundation shall serve as the Chairperson of the Interagency Committee.
 
-([Pub. L. 98–373, title I, § 107][/us/pl/98/373/s107], July 31, 1984, [98 Stat. 1246][/us/stat/98/1246]; [Pub. L. 109–241, title IX, § 902(g)][/us/pl/109/241/s902/g], July 11, 2006, [120 Stat. 567][/us/stat/120/567].)
+([Pub. L. 98–373, title I][/us/pl/98/373/tI], § 107, July 31, 1984, [98 Stat. 1246][/us/stat/98/1246]; [Pub. L. 109–241, title IX][/us/pl/109/241/tIX], § 902(g), July 11, 2006, [120 Stat. 567][/us/stat/120/567].)
 
  __Amendments__ 
 
@@ -79,9 +79,9 @@
 ----------
 
 [/us/usc/t15/s4107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4107
-[/us/pl/98/373/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs107
+[/us/pl/98/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtI
 [/us/stat/98/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1246
-[/us/pl/109/241/s902/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2Fs902%2Fg
+[/us/pl/109/241/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241%2FtIX
 [/us/stat/120/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F567
 [/us/pl/109/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F241
 [/us/pl/98/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373

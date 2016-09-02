@@ -27,7 +27,7 @@
 
         The neglect or refusal to maintain or preserve the records required by this section is unlawful, and any person neglecting or refusing to maintain such records shall be guilty of an unfair method of competition, and an unfair or deceptive act or practice, in commerce, under the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\].
 
-([Pub. L. 85–897, § 6][/us/pl/85/897/s6], Sept. 2, 1958, [72 Stat. 1721][/us/stat/72/1721].)
+([Pub. L. 85–897][/us/pl/85/897], § 6, Sept. 2, 1958, [72 Stat. 1721][/us/stat/72/1721].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t15/s70c/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs70c%2Fb
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/pl/85/897/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F897%2Fs6
+[/us/pl/85/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F897
 [/us/stat/72/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1721
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

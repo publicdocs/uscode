@@ -17,7 +17,7 @@
 
     The Corporation may, in the conduct of its business, utilize on a contract or fee basis, committees or associations of producers, producer-owned and producer-controlled cooperative associations, and trade facilities.
 
-([June 29, 1948, ch. 704, § 12][/us/act/1948-06-29/ch704/s12], [62 Stat. 1073][/us/stat/62/1073].)
+([June 29, 1948, ch. 704][/us/act/1948-06-29/ch704], § 12, [62 Stat. 1073][/us/stat/62/1073].)
 
  __Exceptions From Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1948-06-29/ch704/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch704%2Fs12
+[/us/act/1948-06-29/ch704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch704
 [/us/stat/62/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1073
 [/us/usc/t15/s712a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs712a
 

@@ -63,7 +63,7 @@
 
         All hearings, investigations, and proceedings under this chapter shall be governed by rules of practice and procedure to be adopted by the Commission, and in the conduct thereof the technical rules of evidence need not be applied. No informality in any hearing, investigation, or proceeding or in the manner of taking testimony shall invalidate any order, decision, rule, or regulation issued under the authority of this chapter.
 
-([June 21, 1938, ch. 556, § 15][/us/act/1938-06-21/ch556/s15], [52 Stat. 829][/us/stat/52/829]; [Pub. L. 109–58, title III, § 313(a)][/us/pl/109/58/s313/a], Aug. 8, 2005, [119 Stat. 688][/us/stat/119/688].)
+([June 21, 1938, ch. 556][/us/act/1938-06-21/ch556], § 15, [52 Stat. 829][/us/stat/52/829]; [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 313(a), Aug. 8, 2005, [119 Stat. 688][/us/stat/119/688].)
 
  __References in Text__ 
 
@@ -91,9 +91,9 @@
 [/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451
 [/us/usc/t16/s1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1465
 [/us/usc/t15/s717r/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717r%2Fd
-[/us/act/1938-06-21/ch556/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556%2Fs15
+[/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F829
-[/us/pl/109/58/s313/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs313%2Fa
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F688
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

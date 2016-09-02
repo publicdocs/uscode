@@ -143,41 +143,41 @@
 
         The Commission shall grant, in whole or in part, or deny any petition under [section 553(e) of title 5][/us/usc/t5/s553/e] requesting the Commission to initiate a rulemaking, within a reasonable time after the date on which such petition is filed. The Commission shall state the reasons for granting or denying such petition. The Commission may not deny any such petition on the basis of a voluntary standard unless the voluntary standard is in existence at the time of the denial of the petition, the Commission has determined that the voluntary standard is likely to result in the elimination or adequate reduction of the risk of injury identified in the petition, and it is likely that there will be substantial compliance with the standard.
 
-([June 30, 1953, ch. 164, § 4][/us/act/1953-06-30/ch164/s4], [67 Stat. 112][/us/stat/67/112]; [Aug. 23, 1954, ch. 833][/us/act/1954-08-23/ch833], [68 Stat. 770][/us/stat/68/770]; [Pub. L. 90–189, § 3][/us/pl/90/189/s3], Dec. 14, 1967, [81 Stat. 569][/us/stat/81/569]; [Pub. L. 94–284, § 20(a)][/us/pl/94/284/s20/a], May 11, 1976, [90 Stat. 515][/us/stat/90/515]; [Pub. L. 97–35, title XII, § 1203(b)(2)][/us/pl/97/35/s1203/b/2], Aug. 13, 1981, [95 Stat. 711][/us/stat/95/711]; [Pub. L. 101–608, title I][/us/pl/101/608], §§ 107(c), 108(c), 110(c), Nov. 16, 1990, [104 Stat. 3112–3114][/us/stat/104/3112-3114]; [Pub. L. 110–314, title II, § 204(c)(1)][/us/pl/110/314/s204/c/1], (2)(B)–(E), Aug. 14, 2008, [122 Stat. 3042][/us/stat/122/3042].)
+([June 30, 1953, ch. 164][/us/act/1953-06-30/ch164], § 4, [67 Stat. 112][/us/stat/67/112]; [Aug. 23, 1954, ch. 833][/us/act/1954-08-23/ch833], [68 Stat. 770][/us/stat/68/770]; [Pub. L. 90–189][/us/pl/90/189], § 3, Dec. 14, 1967, [81 Stat. 569][/us/stat/81/569]; [Pub. L. 94–284][/us/pl/94/284], § 20(a), May 11, 1976, [90 Stat. 515][/us/stat/90/515]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1203(b)(2), Aug. 13, 1981, [95 Stat. 711][/us/stat/95/711]; [Pub. L. 101–608, title I][/us/pl/101/608/tI], §§ 107(c), 108(c), 110(c), Nov. 16, 1990, [104 Stat. 3112–3114][/us/stat/104/3112-3114]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 204(c)(1), (2)(B)–(E), Aug. 14, 2008, [122 Stat. 3042][/us/stat/122/3042].)
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–314, § 204(c)(2)(B)][/us/pl/110/314/s204/c/2/B], (D), substituted “Commission” for “Secretary of Commerce” and “it” for “he”.
+    2008—Subsec. (a). [Pub. L. 110–314][/us/pl/110/314], § 204(c)(2)(B), (D), substituted “Commission” for “Secretary of Commerce” and “it” for “he”.
 
-    Subsec. (b). [Pub. L. 110–314, § 204(c)(2)(B)][/us/pl/110/314/s204/c/2/B]–(D), substituted “Commission finds for” for “Secretary of Commerce finds for”, “Commission finds that” for “Secretary finds that”, “Commission may” for “Secretary may”, and “it may” for “he may”.
+    Subsec. (b). [Pub. L. 110–314][/us/pl/110/314], § 204(c)(2)(B)–(D), substituted “Commission finds for” for “Secretary of Commerce finds for”, “Commission finds that” for “Secretary finds that”, “Commission may” for “Secretary may”, and “it may” for “he may”.
 
-    Subsec. (c). [Pub. L. 110–314, § 204(c)(2)(B)][/us/pl/110/314/s204/c/2/B]–(D), substituted “Commission may” for “Secretary of Commerce may”, “it is required” for “he is required”, “Commission or its” for “Secretary or his”, “Commission or any” for “Secretary or any”, and “its control” for “his control”.
+    Subsec. (c). [Pub. L. 110–314][/us/pl/110/314], § 204(c)(2)(B)–(D), substituted “Commission may” for “Secretary of Commerce may”, “it is required” for “he is required”, “Commission or its” for “Secretary or his”, “Commission or any” for “Secretary or any”, and “its control” for “his control”.
 
-    Subsec. (e)(1). [Pub. L. 110–314, § 204(c)(2)(C)][/us/pl/110/314/s204/c/2/C], substituted “Commission” for “Secretary” wherever appearing.
+    Subsec. (e)(1). [Pub. L. 110–314][/us/pl/110/314], § 204(c)(2)(C), substituted “Commission” for “Secretary” wherever appearing.
 
-    Subsec. (e)(2). [Pub. L. 110–314, § 204(c)(2)(C)][/us/pl/110/314/s204/c/2/C], (D), substituted “Commission” for “Secretary” and “its” for “his” wherever appearing and substituted “it” for “he”.
+    Subsec. (e)(2). [Pub. L. 110–314][/us/pl/110/314], § 204(c)(2)(C), (D), substituted “Commission” for “Secretary” and “its” for “his” wherever appearing and substituted “it” for “he”.
 
-    Subsec. (e)(4). [Pub. L. 110–314, § 204(c)(2)(C)][/us/pl/110/314/s204/c/2/C], substituted “Commission” for “Secretary”.
+    Subsec. (e)(4). [Pub. L. 110–314][/us/pl/110/314], § 204(c)(2)(C), substituted “Commission” for “Secretary”.
 
-    Subsec. (e)(5), (6). [Pub. L. 110–314, § 204(c)(2)(E)][/us/pl/110/314/s204/c/2/E], redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “Any action instituted under this subsection shall survive, notwithstanding any change in the person occupying the office of Secretary or any vacancy in such office.”
+    Subsec. (e)(5), (6). [Pub. L. 110–314][/us/pl/110/314], § 204(c)(2)(E), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: “Any action instituted under this subsection shall survive, notwithstanding any change in the person occupying the office of Secretary or any vacancy in such office.”
 
-    Subsec. (f). [Pub. L. 110–314, § 204(c)(2)(C)][/us/pl/110/314/s204/c/2/C], substituted “Commission” for “Secretary”.
+    Subsec. (f). [Pub. L. 110–314][/us/pl/110/314], § 204(c)(2)(C), substituted “Commission” for “Secretary”.
 
-    Subsec. (g). [Pub. L. 110–314, § 204(c)(1)(A)][/us/pl/110/314/s204/c/1/A], substituted “may be commenced by a notice of proposed rulemaking or” for “shall be commenced” in introductory provisions.
+    Subsec. (g). [Pub. L. 110–314][/us/pl/110/314], § 204(c)(1)(A), substituted “may be commenced by a notice of proposed rulemaking or” for “shall be commenced” in introductory provisions.
 
-    Subsec. (i). [Pub. L. 110–314, § 204(c)(1)(B)][/us/pl/110/314/s204/c/1/B], (C), in introductory provisions, substituted “unless the” for “unless, not less than 60 days after publication of the notice required in subsection (g) of this section, the” and in concluding provisions, substituted “appropriate Congressional committees. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed regulation.” for “Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.”
+    Subsec. (i). [Pub. L. 110–314][/us/pl/110/314], § 204(c)(1)(B), (C), in introductory provisions, substituted “unless the” for “unless, not less than 60 days after publication of the notice required in subsection (g) of this section, the” and in concluding provisions, substituted “appropriate Congressional committees. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed regulation.” for “Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.”
 
-    1990—Subsec. (h)(2). [Pub. L. 101–608, § 108(c)][/us/pl/101/608/s108/c], struck out period at end and inserted “, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.”
+    1990—Subsec. (h)(2). [Pub. L. 101–608][/us/pl/101/608], § 108(c), struck out period at end and inserted “, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.”
 
-    Subsec. (h)(3). [Pub. L. 101–608, § 107(c)][/us/pl/101/608/s107/c], added par. (3).
+    Subsec. (h)(3). [Pub. L. 101–608][/us/pl/101/608], § 107(c), added par. (3).
 
-    Subsec. (k). [Pub. L. 101–608, § 110(c)][/us/pl/101/608/s110/c], added subsec. (k).
+    Subsec. (k). [Pub. L. 101–608][/us/pl/101/608], § 110(c), added subsec. (k).
 
     1981—Subsecs. (g) to (j). [Pub. L. 97–35][/us/pl/97/35] added subsecs. (g) to (j).
 
-    1976—Subsec. (d). [Pub. L. 94–284, § 20(a)(1)][/us/pl/94/284/s20/a/1], provided that standards, regulations, and amendments made thereto, be made in accordance with [section 553 of title 5][/us/usc/t5/s553], except that oral presentation be available with a transcript of such oral presentation kept.
+    1976—Subsec. (d). [Pub. L. 94–284][/us/pl/94/284], § 20(a)(1), provided that standards, regulations, and amendments made thereto, be made in accordance with [section 553 of title 5][/us/usc/t5/s553], except that oral presentation be available with a transcript of such oral presentation kept.
 
-    Subsec. (e)(3). [Pub. L. 94–284, § 20(a)(2)][/us/pl/94/284/s20/a/2], provided that the court not affirm a standard or regulation unless the findings of the Secretary are supported by substantial evidence on the record.
+    Subsec. (e)(3). [Pub. L. 94–284][/us/pl/94/284], § 20(a)(2), provided that the court not affirm a standard or regulation unless the findings of the Secretary are supported by substantial evidence on the record.
 
     1967—[Pub. L. 90–189][/us/pl/90/189] revised section generally to achieve greater flexibility in the promulgation of flammability standards by substituting provisions authorizing the Secretary of Commerce to issue standards of flammability or regulations (including labeling) for fabrics, related materials or products after observing certain specified procedural requirements for provisions which prescribed certain fixed standards of flammability which could be updated only by legislation.
 
@@ -193,7 +193,7 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–284, § 20(b)][/us/pl/94/284/s20/b], May 11, 1976, [90 Stat. 515][/us/stat/90/515], provided that: 
+[Pub. L. 94–284][/us/pl/94/284], § 20(b), May 11, 1976, [90 Stat. 515][/us/stat/90/515], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to standards, regulations, and amendments to standards and regulations, under section 4 of the Flammable Fabrics Act \[this section\] the proceedings for the promulgation of which were begun after the date of the enactment of this Act \[May 11, 1976\].”
 
@@ -212,44 +212,44 @@
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/usc/t15/s2054/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2054%2Fa%2F3
 [/us/usc/t5/s553/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553%2Fe
-[/us/act/1953-06-30/ch164/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch164%2Fs4
+[/us/act/1953-06-30/ch164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch164
 [/us/stat/67/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F112
 [/us/act/1954-08-23/ch833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-23%2Fch833
 [/us/stat/68/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F770
-[/us/pl/90/189/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189%2Fs3
+[/us/pl/90/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189
 [/us/stat/81/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F569
-[/us/pl/94/284/s20/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs20%2Fa
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/stat/90/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F515
-[/us/pl/97/35/s1203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1203%2Fb%2F2
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F711
-[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
+[/us/pl/101/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2FtI
 [/us/stat/104/3112-3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3112-3114
-[/us/pl/110/314/s204/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fc%2F1
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3042
-[/us/pl/110/314/s204/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fc%2F2%2FB
-[/us/pl/110/314/s204/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fc%2F2%2FB
-[/us/pl/110/314/s204/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fc%2F2%2FB
-[/us/pl/110/314/s204/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fc%2F2%2FC
-[/us/pl/110/314/s204/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fc%2F2%2FC
-[/us/pl/110/314/s204/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fc%2F2%2FC
-[/us/pl/110/314/s204/c/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fc%2F2%2FE
-[/us/pl/110/314/s204/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fc%2F2%2FC
-[/us/pl/110/314/s204/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fc%2F1%2FA
-[/us/pl/110/314/s204/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fc%2F1%2FB
-[/us/pl/101/608/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs108%2Fc
-[/us/pl/101/608/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs107%2Fc
-[/us/pl/101/608/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs110%2Fc
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
+[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
+[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/94/284/s20/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs20%2Fa%2F1
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/94/284/s20/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs20%2Fa%2F2
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/pl/90/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1215
 [/us/usc/t15/s2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2052
-[/us/pl/94/284/s20/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs20%2Fb
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/stat/90/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F515
 
 

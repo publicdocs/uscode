@@ -111,7 +111,7 @@
 
         The authority contained in this section is in addition to, independent of, not limited by, and not in limitation of, any other authority of the Federal Energy Administrator.
 
-([Pub. L. 93–319, § 11][/us/pl/93/319/s11], June 22, 1974, [88 Stat. 262][/us/stat/88/262]; [Pub. L. 94–163, title V][/us/pl/94/163], §§ 505(a), 506, Dec. 22, 1975, [89 Stat. 960][/us/stat/89/960]; [Pub. L. 95–620, title VII, § 762(d)][/us/pl/95/620/s762/d], Nov. 9, 1978, [92 Stat. 3346][/us/stat/92/3346]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 93–319][/us/pl/93/319], § 11, June 22, 1974, [88 Stat. 262][/us/stat/88/262]; [Pub. L. 94–163, title V][/us/pl/94/163/tV], §§ 505(a), 506, Dec. 22, 1975, [89 Stat. 960][/us/stat/89/960]; [Pub. L. 95–620, title VII][/us/pl/95/620/tVII], § 762(d), Nov. 9, 1978, [92 Stat. 3346][/us/stat/92/3346]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __References in Text__ 
 
@@ -125,9 +125,9 @@
 
     1978—Subsec. (g). [Pub. L. 95–620][/us/pl/95/620] struck out provisions comprising par. (2) relating to termination of this section at midnight, Dec. 31, 1979, and designated remaining provisions as subsec. (g).
 
-    1975—Subsec. (c)(3). [Pub. L. 94–163, § 505(a)][/us/pl/94/163/s505/a], added par. (3).
+    1975—Subsec. (c)(3). [Pub. L. 94–163][/us/pl/94/163], § 505(a), added par. (3).
 
-    Subsec. (g)(2). [Pub. L. 94–163, § 506][/us/pl/94/163/s506], substituted “December 31, 1979” for “June 30, 1975” in two places.
+    Subsec. (g)(2). [Pub. L. 94–163][/us/pl/94/163], § 506, substituted “December 31, 1979” for “June 30, 1975” in two places.
 
  __Effective Date of 1978 Amendment__ 
 
@@ -135,7 +135,7 @@
 
  __Effective Date of 1975 Amendment__ 
 
-[Pub. L. 94–163, title V, § 505(b)][/us/pl/94/163/s505/b], Dec. 22, 1975, [89 Stat. 960][/us/stat/89/960], provided that: 
+[Pub. L. 94–163, title V][/us/pl/94/163/tV], § 505(b), Dec. 22, 1975, [89 Stat. 960][/us/stat/89/960], provided that: 
 
 > “The amendment made by subsection (a) to section 11(c) of the Energy Supply and Environmental Coordination Act of 1974 \[subsec. (c) of this section\] shall take effect on the first day of the first accounting quarter to which such practices apply.”
 
@@ -158,13 +158,13 @@
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/usc/t15/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs751
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/93/319/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs11
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/stat/88/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F262
-[/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
+[/us/pl/94/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtV
 [/us/stat/89/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F960
-[/us/pl/95/620/s762/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs762%2Fd
+[/us/pl/95/620/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2FtVII
 [/us/stat/92/3346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3346
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/usc/t15/s791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs791
@@ -173,12 +173,12 @@
 [/us/usc/t15/s760g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs760g
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
-[/us/pl/94/163/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs505%2Fa
-[/us/pl/94/163/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs506
+[/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
+[/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/pl/95/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620
 [/us/pl/95/620/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F620%2Fs901
 [/us/usc/t42/s8301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8301
-[/us/pl/94/163/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs505%2Fb
+[/us/pl/94/163/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtV
 [/us/stat/89/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F960
 
 

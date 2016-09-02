@@ -21,7 +21,7 @@
 
     (2) guarantee the debentures issued by Renewable Fuel Capital Investment companies as provided in [section 690d of this title][/us/usc/t15/s690d].
 
-([Pub. L. 85–699, title III, § 383][/us/pl/85/699/s383], as added [Pub. L. 110–140, title XII, § 1207][/us/pl/110/140/s1207], Dec. 19, 2007, [121 Stat. 1776][/us/stat/121/1776].)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 383, as added [Pub. L. 110–140, title XII][/us/pl/110/140/tXII], § 1207, Dec. 19, 2007, [121 Stat. 1776][/us/stat/121/1776].)
 
 ----------
 
@@ -32,8 +32,8 @@
 
 [/us/usc/t15/s690a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs690a
 [/us/usc/t15/s690d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs690d
-[/us/pl/85/699/s383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs383
-[/us/pl/110/140/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1207
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/110/140/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXII
 [/us/stat/121/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1776
 
 

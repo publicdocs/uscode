@@ -35,7 +35,7 @@
 
         (2) the recipients of which have customarily been a State or an interstate fishery commission.
 
-([Pub. L. 102–567, title IV, § 404][/us/pl/102/567/s404], Oct. 29, 1992, [106 Stat. 4292][/us/stat/106/4292].)
+([Pub. L. 102–567, title IV][/us/pl/102/567/tIV], § 404, Oct. 29, 1992, [106 Stat. 4292][/us/stat/106/4292].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/102/567/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs404
+[/us/pl/102/567/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtIV
 [/us/stat/106/4292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4292
 
 

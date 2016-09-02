@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch68/schVII/m__us_usc_t15_ch68_schVII.md) | [Next](./../../../..//us/usc/t15/ch69/m__us_usc_t15_s4301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch69)
+[Previous](./../../../..//us/usc/t15/ch68/schVII/m__us_usc_t15_s4291 _us_usc_t15_s4292.md) | [Next](./../../../..//us/usc/t15/ch69/m__us_usc_t15_s4301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch69)
 
 ## CHAPTER 69—COOPERATIVE RESEARCH
 
@@ -75,7 +75,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch68/schVII/m__us_usc_t15_ch68_schVII.md) | [Next](./../../../..//us/usc/t15/ch69/m__us_usc_t15_s4301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch69)
+[Previous](./../../../..//us/usc/t15/ch68/schVII/m__us_usc_t15_s4291 _us_usc_t15_s4292.md) | [Next](./../../../..//us/usc/t15/ch69/m__us_usc_t15_s4301.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch69)
 
 ----------
 ----------

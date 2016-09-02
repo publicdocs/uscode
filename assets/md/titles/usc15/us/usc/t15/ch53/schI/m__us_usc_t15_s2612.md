@@ -31,7 +31,7 @@
 
         The Secretary of the Treasury, after consultation with the Administrator, shall issue rules for the administration of subsection (a) of this section.
 
-([Pub. L. 94–469, title I, § 13][/us/pl/94/469/s13], Oct. 11, 1976, [90 Stat. 2034][/us/stat/90/2034]; renumbered title I, [Pub. L. 99–519, § 3(c)(1)][/us/pl/99/519/s3/c/1], Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 100–418, title I, § 1214(e)(2)][/us/pl/100/418/s1214/e/2], Aug. 23, 1988, [102 Stat. 1156][/us/stat/102/1156]; [Pub. L. 102–550, title X, § 1021(b)(4)][/us/pl/102/550/s1021/b/4], Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923].)
+([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 13, Oct. 11, 1976, [90 Stat. 2034][/us/stat/90/2034]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1214(e)(2), Aug. 23, 1988, [102 Stat. 1156][/us/stat/102/1156]; [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(b)(4), Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923].)
 
  __References in Text__ 
 
@@ -57,13 +57,13 @@
 [/us/usc/t15/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2604
 [/us/usc/t15/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2604
 [/us/usc/t15/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2604
-[/us/pl/94/469/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs13
+[/us/pl/94/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtI
 [/us/stat/90/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2034
-[/us/pl/99/519/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs3%2Fc%2F1
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
-[/us/pl/100/418/s1214/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fe%2F2
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1156
-[/us/pl/102/550/s1021/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1021%2Fb%2F4
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3923
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550

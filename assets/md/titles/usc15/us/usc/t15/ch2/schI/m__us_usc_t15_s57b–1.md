@@ -189,7 +189,7 @@
 
         (2) apply to or affect the jurisdiction, duties, or powers of any agency of the Federal Government, other than the Commission, regardless of whether such jurisdiction, duties, or powers are derived in whole or in part, by reference to this subchapter.
 
-([Sept. 26, 1914, ch. 311, § 20][/us/act/1914-09-26/ch311/s20], as added [Pub. L. 96–252, § 13][/us/pl/96/252/s13], May 28, 1980, [94 Stat. 380][/us/stat/94/380]; amended [Pub. L. 103–312, § 7][/us/pl/103/312/s7], Aug. 26, 1994, [108 Stat. 1693][/us/stat/108/1693]; [Pub. L. 103–438, § 3(e)(2)(B)][/us/pl/103/438/s3/e/2/B], Nov. 2, 1994, [108 Stat. 4598][/us/stat/108/4598].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 20, as added [Pub. L. 96–252][/us/pl/96/252], § 13, May 28, 1980, [94 Stat. 380][/us/stat/94/380]; amended [Pub. L. 103–312][/us/pl/103/312], § 7, Aug. 26, 1994, [108 Stat. 1693][/us/stat/108/1693]; [Pub. L. 103–438][/us/pl/103/438], § 3(e)(2)(B), Nov. 2, 1994, [108 Stat. 4598][/us/stat/108/4598].)
 
  __References in Text__ 
 
@@ -203,23 +203,23 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a)(2). [Pub. L. 103–312, § 7(a)(1)][/us/pl/103/312/s7/a/1], inserted before period at end “or in any antitrust violations”.
+    1994—Subsec. (a)(2). [Pub. L. 103–312][/us/pl/103/312], § 7(a)(1), inserted before period at end “or in any antitrust violations”.
 
-    Subsec. (a)(3). [Pub. L. 103–312, § 7(a)(2)][/us/pl/103/312/s7/a/2], inserted before period at end “or any provisions relating to antitrust violations”.
+    Subsec. (a)(3). [Pub. L. 103–312][/us/pl/103/312], § 7(a)(2), inserted before period at end “or any provisions relating to antitrust violations”.
 
-    Subsec. (a)(7). [Pub. L. 103–312, § 7(a)(3)][/us/pl/103/312/s7/a/3], inserted before period at end “or any antitrust violation”.
+    Subsec. (a)(7). [Pub. L. 103–312][/us/pl/103/312], § 7(a)(3), inserted before period at end “or any antitrust violation”.
 
     Subsec. (a)(8). [Pub. L. 103–438][/us/pl/103/438] amended par. (8) generally. Prior to amendment, par. (8) read as follows: “The term ‘antitrust violation’ means any unfair method of competition (within the meaning of [section 45(a)(1) of this title][/us/usc/t15/s45/a/1]), any violation of the Clayton Act, any violation of any other Federal statute that prohibits, or makes available to the Commission a civil remedy with respect to, any restraint upon or monopolization of interstate or foreign trade or commerce, or any activity in preparation for a merger, acquisition, joint venture, or similar transaction, which if consummated, may result in such an unfair method of competition or violation.”
 
-    [Pub. L. 103–312, § 7(a)(4)][/us/pl/103/312/s7/a/4], added par. (8).
+    [Pub. L. 103–312][/us/pl/103/312], § 7(a)(4), added par. (8).
 
-    Subsec. (c)(1). [Pub. L. 103–312, § 7(b)(1)][/us/pl/103/312/s7/b/1], inserted “or tangible things” after “control of any documentary material”, “or to antitrust violations,” after “[section 45(a)(1) of this title][/us/usc/t15/s45/a/1]),”, and “to submit such tangible things,” after “copying or reproduction,”.
+    Subsec. (c)(1). [Pub. L. 103–312][/us/pl/103/312], § 7(b)(1), inserted “or tangible things” after “control of any documentary material”, “or to antitrust violations,” after “[section 45(a)(1) of this title][/us/usc/t15/s45/a/1]),”, and “to submit such tangible things,” after “copying or reproduction,”.
 
-    Subsec. (c)(4) to (14). [Pub. L. 103–312, § 7(b)(2)][/us/pl/103/312/s7/b/2], added pars. (4) and (12) and redesignated former pars. (4) to (10), (11), and (12) as (5) to (11), (13), and (14), respectively.
+    Subsec. (c)(4) to (14). [Pub. L. 103–312][/us/pl/103/312], § 7(b)(2), added pars. (4) and (12) and redesignated former pars. (4) to (10), (11), and (12) as (5) to (11), (13), and (14), respectively.
 
-    Subsec. (g). [Pub. L. 103–312, § 7(c)][/us/pl/103/312/s7/c], inserted “, tangible things” after “documentary material”.
+    Subsec. (g). [Pub. L. 103–312][/us/pl/103/312], § 7(c), inserted “, tangible things” after “documentary material”.
 
-    Subsec. (j)(1). [Pub. L. 103–312, § 7(d)][/us/pl/103/312/s7/d], inserted before semicolon at end “, any proceeding under section 11(b) of the Clayton Act ([15 U.S.C. 21(b)][/us/usc/t15/s21/b]), or any adjudicative proceeding under any other provision of law”.
+    Subsec. (j)(1). [Pub. L. 103–312][/us/pl/103/312], § 7(d), inserted before semicolon at end “, any proceeding under section 11(b) of the Clayton Act ([15 U.S.C. 21(b)][/us/usc/t15/s21/b]), or any adjudicative proceeding under any other provision of law”.
 
  __Effective Date of 1994 Amendment__ 
 
@@ -254,12 +254,12 @@
 [/us/usc/t28/s1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1291
 [/us/usc/t15/s45/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45%2Fb
 [/us/usc/t15/s21/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs21%2Fb
-[/us/act/1914-09-26/ch311/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs20
-[/us/pl/96/252/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs13
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
+[/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
 [/us/stat/94/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F380
-[/us/pl/103/312/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs7
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
 [/us/stat/108/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1693
-[/us/pl/103/438/s3/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438%2Fs3%2Fe%2F2%2FB
+[/us/pl/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438
 [/us/stat/108/4598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4598
 [/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
 [/us/stat/38/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F730
@@ -269,17 +269,17 @@
 [/us/usc/t15/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6201
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/usc/t15/s57c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57c
-[/us/pl/103/312/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs7%2Fa%2F1
-[/us/pl/103/312/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs7%2Fa%2F2
-[/us/pl/103/312/s7/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs7%2Fa%2F3
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
 [/us/pl/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438
 [/us/usc/t15/s45/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45%2Fa%2F1
-[/us/pl/103/312/s7/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs7%2Fa%2F4
-[/us/pl/103/312/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs7%2Fb%2F1
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
 [/us/usc/t15/s45/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45%2Fa%2F1
-[/us/pl/103/312/s7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs7%2Fb%2F2
-[/us/pl/103/312/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs7%2Fc
-[/us/pl/103/312/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs7%2Fd
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
 [/us/usc/t15/s21/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs21%2Fb
 [/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
 [/us/pl/103/312/s15/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs15%2Fd

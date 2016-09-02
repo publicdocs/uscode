@@ -107,7 +107,7 @@
 
  __Codification__ 
 
-    This chapter is comprised of title IV of [Pub. L. 100–533][/us/pl/100/533], as added by [Pub. L. 103–403, title IV, § 413][/us/pl/103/403/s413], Oct. 22, 1994, [108 Stat. 4193][/us/stat/108/4193], and amended. Title IV of [Pub. L. 100–533][/us/pl/100/533] was formerly set out as a note under [section 631 of this title][/us/usc/t15/s631].
+    This chapter is comprised of title IV of [Pub. L. 100–533][/us/pl/100/533], as added by [Pub. L. 103–403, title IV][/us/pl/103/403/tIV], § 413, Oct. 22, 1994, [108 Stat. 4193][/us/stat/108/4193], and amended. Title IV of [Pub. L. 100–533][/us/pl/100/533] was formerly set out as a note under [section 631 of this title][/us/usc/t15/s631].
 
 ----------
 
@@ -117,7 +117,7 @@
 ----------
 
 [/us/pl/100/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533
-[/us/pl/103/403/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs413
+[/us/pl/103/403/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtIV
 [/us/stat/108/4193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4193
 [/us/pl/100/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631

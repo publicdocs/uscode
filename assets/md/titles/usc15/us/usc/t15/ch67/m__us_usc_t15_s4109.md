@@ -29,7 +29,7 @@
 
         (2) The Office of Management and Budget shall seek to facilitate planning for the design, procurement, maintenance, deployment, and operations of icebreakers needed to provide a platform for Arctic research by allocating all funds necessary to support icebreaking operations, except for recurring incremental costs associated with specific projects, to the Coast Guard.
 
-([Pub. L. 98–373, title I, § 110][/us/pl/98/373/s110], July 31, 1984, [98 Stat. 1248][/us/stat/98/1248].)
+([Pub. L. 98–373, title I][/us/pl/98/373/tI], § 110, July 31, 1984, [98 Stat. 1248][/us/stat/98/1248].)
 
  __Termination of Reporting Requirements__ 
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t15/s4107/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4107%2Fa%2F5
 [/us/usc/t15/s4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4108
-[/us/pl/98/373/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs110
+[/us/pl/98/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtI
 [/us/stat/98/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1248
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

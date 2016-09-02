@@ -17,7 +17,7 @@
 
     In carrying out sections 7403 and 7404 of this title, the Director shall consult with other Federal agencies.
 
-([Pub. L. 107–305, § 6][/us/pl/107/305/s6], Nov. 27, 2002, [116 Stat. 2374][/us/stat/116/2374].)
+([Pub. L. 107–305][/us/pl/107/305], § 6, Nov. 27, 2002, [116 Stat. 2374][/us/stat/116/2374].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/305/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305%2Fs6
+[/us/pl/107/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305
 [/us/stat/116/2374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2374
 
 

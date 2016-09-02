@@ -49,7 +49,7 @@
 
             Not later than 1 year after July 30, 2002, the Commission shall submit a report on the results of the study required by paragraph (1) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
 
-([Pub. L. 107–204, title I, § 108][/us/pl/107/204/s108], July 30, 2002, [116 Stat. 768][/us/stat/116/768].)
+([Pub. L. 107–204, title I][/us/pl/107/204/tI], § 108, July 30, 2002, [116 Stat. 768][/us/stat/116/768].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 ----------
 
 [/us/usc/t15/s77s/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77s%2Fb
-[/us/pl/107/204/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs108
+[/us/pl/107/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtI
 [/us/stat/116/768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F768
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/stat/116/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F745

@@ -29,7 +29,7 @@
 
         (3) recommendations concerning any legislation he deems necessary, and the reasons therefor, for improving the implementation of the objectives of this chapter as set forth in [section 2402 of this title][/us/usc/t15/s2402].
 
-([Pub. L. 94–136, title V, § 501][/us/pl/94/136/s501], Nov. 28, 1975, [89 Stat. 742][/us/stat/89/742].)
+([Pub. L. 94–136, title V][/us/pl/94/136/tV], § 501, Nov. 28, 1975, [89 Stat. 742][/us/stat/89/742].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t15/s2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2402
-[/us/pl/94/136/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2Fs501
+[/us/pl/94/136/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2FtV
 [/us/stat/89/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F742
 
 

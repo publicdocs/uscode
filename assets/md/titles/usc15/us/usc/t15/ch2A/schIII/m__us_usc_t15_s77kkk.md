@@ -61,19 +61,19 @@
 
         (6) the acquisition, ownership, acceptance, or negotiation of any drafts, bills of exchange, acceptances, or obligations which fall within the classification of self-liquidating paper as defined in the indenture.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 311, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1161][/us/stat/53/1161]; amended [Pub. L. 101–550, title IV, § 409][/us/pl/101/550/s409], Nov. 15, 1990, [104 Stat. 2728][/us/stat/104/2728]; [Pub. L. 111–203, title IX, § 986(b)(4)][/us/pl/111/203/s986/b/4], July 21, 2010, [124 Stat. 1936][/us/stat/124/1936].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 311, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1161][/us/stat/53/1161]; amended [Pub. L. 101–550, title IV][/us/pl/101/550/tIV], § 409, Nov. 15, 1990, [104 Stat. 2728][/us/stat/104/2728]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 986(b)(4), July 21, 2010, [124 Stat. 1936][/us/stat/124/1936].)
 
  __References in Text__ 
 
-    Section 25(a) of the Federal Reserve Act, as amended, referred to in subsec. (b)(5), which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking, was renumbered section 25A of that act by [Pub. L. 102–242, title I, § 142(e)(2)][/us/pl/102/242/s142/e/2], Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281].
+    Section 25(a) of the Federal Reserve Act, as amended, referred to in subsec. (b)(5), which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking, was renumbered section 25A of that act by [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 142(e)(2), Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281].
 
  __Amendments__ 
 
     2010—Subsec. (c). [Pub. L. 111–203][/us/pl/111/203] struck out subsec. (c) which related to issue or sale of securities by a registered holding company.
 
-    1990—Subsec. (a). [Pub. L. 101–550, § 409(1)][/us/pl/101/550/s409/1]–(4), struck out “the indenture to be qualified shall provide that” before “if” in first par., substituted “If” for “The indenture to be qualified shall provide that, if” in third par., substituted “three months” for “four months” and “three months’ ” for “four months’ ” wherever appearing, and inserted at end “In any case commenced under the Bankruptcy Act of July 1, 1898, or any amendment thereto enacted prior to November 6, 1978, all references to periods of three months shall be deemed to be references to periods of four months.”
+    1990—Subsec. (a). [Pub. L. 101–550][/us/pl/101/550], § 409(1)–(4), struck out “the indenture to be qualified shall provide that” before “if” in first par., substituted “If” for “The indenture to be qualified shall provide that, if” in third par., substituted “three months” for “four months” and “three months’ ” for “four months’ ” wherever appearing, and inserted at end “In any case commenced under the Bankruptcy Act of July 1, 1898, or any amendment thereto enacted prior to November 6, 1978, all references to periods of three months shall be deemed to be references to periods of four months.”
 
-    Subsec. (b). [Pub. L. 101–550, § 409(5)][/us/pl/101/550/s409/5], substituted “shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “may”.
+    Subsec. (b). [Pub. L. 101–550][/us/pl/101/550], § 409(5), substituted “shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to” for “may”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -94,15 +94,15 @@
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/act/1939-08-03/ch411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-03%2Fch411
 [/us/stat/53/1161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1161
-[/us/pl/101/550/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs409
+[/us/pl/101/550/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtIV
 [/us/stat/104/2728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2728
-[/us/pl/111/203/s986/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs986%2Fb%2F4
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1936
-[/us/pl/102/242/s142/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs142%2Fe%2F2
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2281
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/101/550/s409/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs409%2F1
-[/us/pl/101/550/s409/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs409%2F5
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

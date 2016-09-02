@@ -17,7 +17,7 @@
 
     The antitrust laws, as defined in [section 1 of the Act of October 15, 1914][/us/act/1914-10-15/s1], as amended ([38 Stat. 730][/us/stat/38/730]) \[[15 U.S.C. 12][/us/usc/t15/s12]\], or in the Federal Trade Commission Act, as amended ([38 Stat. 717][/us/stat/38/717]) \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\], shall not apply to any joint agreement by or among persons engaging in or conducting the organized professional team sports of football, baseball, basketball, or hockey, by which any league of clubs participating in professional football, baseball, basketball, or hockey contests sells or otherwise transfers all or any part of the rights of such league’s member clubs in the sponsored telecasting of the games of football, baseball, basketball, or hockey, as the case may be, engaged in or conducted by such clubs. In addition, such laws shall not apply to a joint agreement by which the member clubs of two or more professional football leagues, which are exempt from income tax under section 501(c)(6) of the Internal Revenue Code of 1986 \[[26 U.S.C. 501(c)(6)][/us/usc/t26/s501/c/6]\], combine their operations in expanded single league so exempt from income tax, if such agreement increases rather than decreases the number of professional football clubs so operating, and the provisions of which are directly relevant thereto.
 
-([Pub. L. 87–331, § 1][/us/pl/87/331/s1], Sept. 30, 1961, [75 Stat. 732][/us/stat/75/732]; [Pub. L. 89–800, § 6(b)(1)][/us/pl/89/800/s6/b/1], Nov. 8, 1966, [80 Stat. 1515][/us/stat/80/1515]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 87–331][/us/pl/87/331], § 1, Sept. 30, 1961, [75 Stat. 732][/us/stat/75/732]; [Pub. L. 89–800][/us/pl/89/800], § 6(b)(1), Nov. 8, 1966, [80 Stat. 1515][/us/stat/80/1515]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 
  __Savings Provision__ 
 
-[Pub. L. 87–331, § 6][/us/pl/87/331/s6], Sept. 30, 1961, [75 Stat. 732][/us/stat/75/732], provided that: 
+[Pub. L. 87–331][/us/pl/87/331], § 6, Sept. 30, 1961, [75 Stat. 732][/us/stat/75/732], provided that: 
 
 > “Nothing in this Act \[this chapter\] shall affect any cause of action existing on the effective date hereof \[Sept. 30, 1961\] in respect to the organized professional team sports of baseball, football, basketball, or hockey.”
 
@@ -52,11 +52,11 @@
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t26/s501/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F6
-[/us/pl/87/331/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F331%2Fs1
+[/us/pl/87/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F331
 [/us/stat/75/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F732
-[/us/pl/89/800/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F800%2Fs6%2Fb%2F1
+[/us/pl/89/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F800
 [/us/stat/80/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1515
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
@@ -65,7 +65,7 @@
 [/us/pl/89/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F800
 [/us/pl/87/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F331
 [/us/stat/75/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F732
-[/us/pl/87/331/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F331%2Fs6
+[/us/pl/87/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F331
 [/us/stat/75/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F732
 
 

@@ -53,7 +53,7 @@
 
         (3) Exchange of information concerning environmentally safe energy technologies and practices, including those described in paragraphs (1) and (2).
 
-([Pub. L. 101–606, title II, § 203][/us/pl/101/606/s203], Nov. 16, 1990, [104 Stat. 3102][/us/stat/104/3102].)
+([Pub. L. 101–606, title II][/us/pl/101/606/tII], § 203, Nov. 16, 1990, [104 Stat. 3102][/us/stat/104/3102].)
 
 ----------
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/101/606/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2Fs203
+[/us/pl/101/606/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2FtII
 [/us/stat/104/3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3102
 
 

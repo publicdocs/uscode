@@ -17,7 +17,7 @@
 
     If any provisions of this chapter or the application thereof to any person or circumstance is held invalid, the remainder of this chapter shall not be affected thereby.
 
-([Pub. L. 96–399, title VI, § 617][/us/pl/96/399/s617], Oct. 8, 1980, [94 Stat. 1680][/us/stat/94/1680].)
+([Pub. L. 96–399, title VI][/us/pl/96/399/tVI], § 617, Oct. 8, 1980, [94 Stat. 1680][/us/stat/94/1680].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/399/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs617
+[/us/pl/96/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtVI
 [/us/stat/94/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1680
 
 

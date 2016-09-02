@@ -31,7 +31,7 @@
 
         (4) any other issues and questions the Council deems appropriate shall be considered.
 
-([Pub. L. 100–418, title V, § 5422][/us/pl/100/418/s5422], Aug. 23, 1988, [102 Stat. 1468][/us/stat/102/1468]; [Pub. L. 102–245, title I, § 103(e)][/us/pl/102/245/s103/e], Feb. 14, 1992, [106 Stat. 9][/us/stat/106/9]; [Pub. L. 103–160, div. A, title II, § 263(g)][/us/pl/103/160/s263/g], Nov. 30, 1993, [107 Stat. 1610][/us/stat/107/1610].)
+([Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5422, Aug. 23, 1988, [102 Stat. 1468][/us/stat/102/1468]; [Pub. L. 102–245, title I][/us/pl/102/245/tI], § 103(e), Feb. 14, 1992, [106 Stat. 9][/us/stat/106/9]; [Pub. L. 103–160, div. A, title II][/us/pl/103/160/dA/tII], § 263(g), Nov. 30, 1993, [107 Stat. 1610][/us/stat/107/1610].)
 
  __Codification__ 
 
@@ -55,11 +55,11 @@
 ----------
 
 [/us/usc/t15/s4603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4603%2Fa
-[/us/pl/100/418/s5422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5422
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1468
-[/us/pl/102/245/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs103%2Fe
+[/us/pl/102/245/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtI
 [/us/stat/106/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F9
-[/us/pl/103/160/s263/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs263%2Fg
+[/us/pl/103/160/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtII
 [/us/stat/107/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1610
 [/us/pl/100/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160

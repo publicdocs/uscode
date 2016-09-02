@@ -83,7 +83,7 @@
 
         (4) In the case of action with respect to a joint resolution described in this subsection, the phrase “a waiver of a provision of law” shall be substituted in subsection (d) for the phrase “the Alaska natural gas transportation system.”.
 
-([Pub. L. 94–586, § 8][/us/pl/94/586/s8], Oct. 22, 1976, [90 Stat. 2909][/us/stat/90/2909].)
+([Pub. L. 94–586][/us/pl/94/586], § 8, Oct. 22, 1976, [90 Stat. 2909][/us/stat/90/2909].)
 
  __References in Text__ 
 
@@ -126,7 +126,7 @@
 [/us/usc/t15/s719c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719c%2Fc
 [/us/usc/t15/s719g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719g
 [/us/usc/t15/s719g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719g
-[/us/pl/94/586/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586%2Fs8
+[/us/pl/94/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586
 [/us/stat/90/2909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2909
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

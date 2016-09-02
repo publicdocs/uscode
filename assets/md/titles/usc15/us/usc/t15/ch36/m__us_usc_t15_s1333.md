@@ -127,7 +127,7 @@
 
             This subsection applies to a retailer only if that retailer is responsible for or directs the label statements required under this section.
 
-([Pub. L. 89–92, § 4][/us/pl/89/92/s4], July 27, 1965, [79 Stat. 283][/us/stat/79/283]; [Pub. L. 91–222, § 2][/us/pl/91/222/s2], Apr. 1, 1970, [84 Stat. 88][/us/stat/84/88]; [Pub. L. 98–474, § 4(a)][/us/pl/98/474/s4/a], Oct. 12, 1984, [98 Stat. 2201][/us/stat/98/2201]; [Pub. L. 99–92, § 11][/us/pl/99/92/s11]\[(a)\], Aug. 16, 1985, [99 Stat. 402][/us/stat/99/402]; [Pub. L. 99–117, § 11(d)][/us/pl/99/117/s11/d], Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495]; [Pub. L. 111–31, div. A, title II][/us/pl/111/31], §§ 201(a), 202(b), 206, June 22, 2009, [123 Stat. 1842][/us/stat/123/1842], 1845, 1849.)
+([Pub. L. 89–92][/us/pl/89/92], § 4, July 27, 1965, [79 Stat. 283][/us/stat/79/283]; [Pub. L. 91–222][/us/pl/91/222], § 2, Apr. 1, 1970, [84 Stat. 88][/us/stat/84/88]; [Pub. L. 98–474][/us/pl/98/474], § 4(a), Oct. 12, 1984, [98 Stat. 2201][/us/stat/98/2201]; [Pub. L. 99–92][/us/pl/99/92], § 11\[(a)\], Aug. 16, 1985, [99 Stat. 402][/us/stat/99/402]; [Pub. L. 99–117][/us/pl/99/117], § 11(d), Oct. 7, 1985, [99 Stat. 495][/us/stat/99/495]; [Pub. L. 111–31, div. A, title II][/us/pl/111/31/dA/tII], §§ 201(a), 202(b), 206, June 22, 2009, [123 Stat. 1842][/us/stat/123/1842], 1845, 1849.)
 
  __References in Text__ 
 
@@ -135,11 +135,11 @@
 
  __Amendments__ 
 
-    2009—[Pub. L. 111–31, § 201(a)][/us/pl/111/31/s201/a], amended section generally. Prior to amendment, section related to cigarette labeling requirements.
+    2009—[Pub. L. 111–31][/us/pl/111/31], § 201(a), amended section generally. Prior to amendment, section related to cigarette labeling requirements.
 
-    Subsec. (d). [Pub. L. 111–31, § 202(b)][/us/pl/111/31/s202/b], added subsec. (d) relating to change in required statements.
+    Subsec. (d). [Pub. L. 111–31][/us/pl/111/31], § 202(b), added subsec. (d) relating to change in required statements.
 
-    Subsec. (e). [Pub. L. 111–31, § 206][/us/pl/111/31/s206], added subsec. (e).
+    Subsec. (e). [Pub. L. 111–31][/us/pl/111/31], § 206, added subsec. (e).
 
     1985—Subsec. (c). [Pub. L. 99–92][/us/pl/99/92] designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the” for “The label”, and added par. (2).
 
@@ -151,13 +151,13 @@
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–31, div. A, title II, § 201(b)][/us/pl/111/31/s201/b], June 22, 2009, [123 Stat. 1845][/us/stat/123/1845], provided that: 
+[Pub. L. 111–31, div. A, title II][/us/pl/111/31/dA/tII], § 201(b), June 22, 2009, [123 Stat. 1845][/us/stat/123/1845], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect 15 months after the issuance of the regulations required by subsection (a) \[final rule issued June 22, 2011, eff. Sept. 22, 2012; see 76 F.R. 36628\]. Such effective date shall be with respect to the date of manufacture, provided that, in any case, beginning 30 days after such effective date, a manufacturer shall not introduce into the domestic commerce of the United States any product, irrespective of the date of manufacture, that is not in conformance with section 4 of the Federal Cigarette Labeling and Advertising Act ([15 U.S.C. 1333][/us/usc/t15/s1333]), as amended by subsection (a).”
 
  __Effective Date of 1985 Amendment__ 
 
-[Pub. L. 99–92, § 11(c)][/us/pl/99/92/s11/c], Aug. 16, 1985, [99 Stat. 403][/us/stat/99/403], provided that:
+[Pub. L. 99–92][/us/pl/99/92], § 11(c), Aug. 16, 1985, [99 Stat. 403][/us/stat/99/403], provided that:
 
 >     “(1)
 
@@ -171,13 +171,13 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–474, § 4(b)][/us/pl/98/474/s4/b], Oct. 12, 1984, [98 Stat. 2203][/us/stat/98/2203], provided that: 
+[Pub. L. 98–474][/us/pl/98/474], § 4(b), Oct. 12, 1984, [98 Stat. 2203][/us/stat/98/2203], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect upon the expiration of a one-year period beginning on the date of the enactment of this Act \[Oct. 12, 1984\].”
 
  __Effective Date of 1970 Amendment__ 
 
-[Pub. L. 91–222, § 3][/us/pl/91/222/s3], Apr. 1, 1970, [84 Stat. 90][/us/stat/84/90], provided in part that: 
+[Pub. L. 91–222][/us/pl/91/222], § 3, Apr. 1, 1970, [84 Stat. 90][/us/stat/84/90], provided in part that: 
 
 > “Section 4 of the amendment made by this Act \[amending this section\] shall take effect on the first day of the seventh calendar month which begins after the date of the enactment of this Act \[Apr. 1, 1970\].”
 
@@ -195,36 +195,36 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/89/92/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F92%2Fs4
+[/us/pl/89/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F92
 [/us/stat/79/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F283
-[/us/pl/91/222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222%2Fs2
+[/us/pl/91/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222
 [/us/stat/84/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F88
-[/us/pl/98/474/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F474%2Fs4%2Fa
+[/us/pl/98/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F474
 [/us/stat/98/2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2201
-[/us/pl/99/92/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92%2Fs11
+[/us/pl/99/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92
 [/us/stat/99/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F402
-[/us/pl/99/117/s11/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117%2Fs11%2Fd
+[/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/stat/99/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F495
-[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtII
 [/us/stat/123/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1842
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/111/31/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs201%2Fa
-[/us/pl/111/31/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs202%2Fb
-[/us/pl/111/31/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs206
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
+[/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/pl/99/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92
 [/us/pl/99/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F117
 [/us/pl/98/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F474
 [/us/pl/91/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222
-[/us/pl/111/31/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs201%2Fb
+[/us/pl/111/31/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtII
 [/us/stat/123/1845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1845
 [/us/usc/t15/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1333
-[/us/pl/99/92/s11/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92%2Fs11%2Fc
+[/us/pl/99/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92
 [/us/stat/99/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F403
-[/us/pl/98/474/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F474%2Fs4%2Fb
+[/us/pl/98/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F474
 [/us/stat/98/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2203
-[/us/pl/91/222/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222%2Fs3
+[/us/pl/91/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222
 [/us/stat/84/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F90
 
 

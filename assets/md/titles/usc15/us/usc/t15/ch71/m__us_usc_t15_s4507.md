@@ -37,7 +37,7 @@
 
     (5) The term “State” means each of the several States, the District of Columbia, the commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-([Pub. L. 99–509, title III, § 3008][/us/pl/99/509/s3008], Oct. 21, 1986, [100 Stat. 1887][/us/stat/100/1887].)
+([Pub. L. 99–509, title III][/us/pl/99/509/tIII], § 3008, Oct. 21, 1986, [100 Stat. 1887][/us/stat/100/1887].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
     The Energy Policy and Conservation Act, referred to in par. (3)(B), (C), is [Pub. L. 94–163][/us/pl/94/163], Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871], as amended. Parts D and G of title III of the Energy Policy and Conservation Act are classified generally to parts B (§ 6321 et seq.) and E (§ 6371 et seq.), respectively, of subchapter III of chapter 77 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of Title 42][/us/usc/t42/s6201] and Tables.
 
-    The National Energy Extension Service Act, referred to in par. (3)(D), is title V of [Pub. L. 95–39][/us/pl/95/39], June 3, 1977, [91 Stat. 191][/us/stat/91/191], as amended, which was classified principally to chapter 83 (§ 7001 et seq.) of Title 42 and was repealed by [Pub. L. 102–486, title I, § 143(a)][/us/pl/102/486/s143/a], Oct. 24, 1992, [106 Stat. 2843][/us/stat/106/2843]. For complete classification of this Act to the Code, see Short Title note set out under [section 7001 of Title 42][/us/usc/t42/s7001] and Tables.
+    The National Energy Extension Service Act, referred to in par. (3)(D), is title V of [Pub. L. 95–39][/us/pl/95/39], June 3, 1977, [91 Stat. 191][/us/stat/91/191], as amended, which was classified principally to chapter 83 (§ 7001 et seq.) of Title 42 and was repealed by [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 143(a), Oct. 24, 1992, [106 Stat. 2843][/us/stat/106/2843]. For complete classification of this Act to the Code, see Short Title note set out under [section 7001 of Title 42][/us/usc/t42/s7001] and Tables.
 
 ----------
 
@@ -58,7 +58,7 @@
 [/us/usc/t42/s6321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6321
 [/us/usc/t42/s6371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6371
 [/us/usc/t42/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7001
-[/us/pl/99/509/s3008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs3008
+[/us/pl/99/509/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIII
 [/us/stat/100/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1887
 [/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
 [/us/stat/90/1150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1150
@@ -68,7 +68,7 @@
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
 [/us/pl/95/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F39
 [/us/stat/91/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F191
-[/us/pl/102/486/s143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs143%2Fa
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2843
 [/us/usc/t42/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7001
 

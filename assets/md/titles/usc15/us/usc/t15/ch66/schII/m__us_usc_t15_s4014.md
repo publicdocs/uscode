@@ -35,7 +35,7 @@
 
         (3) For purposes of carrying out this subsection, the Attorney General, and the Assistant Attorney General in charge of the antitrust division of the Department of Justice, may conduct investigations in the same manner as the Attorney General and the Assistant Attorney General conduct investigations under [section 1312 of this title][/us/usc/t15/s1312], except that no civil investigative demand may be issued to a person to whom a certificate of review is issued if such person is the target of such investigation.
 
-([Pub. L. 97–290, title III, § 304][/us/pl/97/290/s304], Oct. 8, 1982, [96 Stat. 1242][/us/stat/96/1242].)
+([Pub. L. 97–290, title III][/us/pl/97/290/tIII], § 304, Oct. 8, 1982, [96 Stat. 1242][/us/stat/96/1242].)
 
  __Effective Date__ 
 
@@ -52,7 +52,7 @@
 [/us/usc/t15/s4013/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4013%2Fa
 [/us/usc/t15/s4013/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4013%2Fa
 [/us/usc/t15/s1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1312
-[/us/pl/97/290/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs304
+[/us/pl/97/290/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2FtIII
 [/us/stat/96/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1242
 [/us/pl/97/290/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs312
 [/us/usc/t15/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4011

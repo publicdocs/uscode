@@ -57,7 +57,7 @@
 
         For the purpose of carrying out the provisions of paragraph (6) of subsection (a), there are authorized to be appropriated such sums, not to exceed $500,000, as may be necessary. For the purpose of carrying out the provisions of this section other than such paragraph (6), there are authorized to be appropriated such sums, not to exceed $1,000,000, as may be necessary.
 
-([Pub. L. 94–469, title III, § 307][/us/pl/94/469/s307], as added [Pub. L. 100–551, § 1(a)][/us/pl/100/551/s1/a], Oct. 28, 1988, [102 Stat. 2761][/us/stat/102/2761].)
+([Pub. L. 94–469, title III][/us/pl/94/469/tIII], § 307, as added [Pub. L. 100–551][/us/pl/100/551], § 1(a), Oct. 28, 1988, [102 Stat. 2761][/us/stat/102/2761].)
 
 ----------
 
@@ -66,8 +66,8 @@
 ----------
 ----------
 
-[/us/pl/94/469/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs307
-[/us/pl/100/551/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F551%2Fs1%2Fa
+[/us/pl/94/469/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtIII
+[/us/pl/100/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F551
 [/us/stat/102/2761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2761
 
 

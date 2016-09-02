@@ -61,7 +61,7 @@
 
     (16) The false representation or implication that a debt collector operates or is employed by a consumer reporting agency as defined by [section 1681a(f) of this title][/us/usc/t15/s1681a/f].
 
-([Pub. L. 90–321, title VIII, § 807][/us/pl/90/321/s807], as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 877][/us/stat/91/877]; amended [Pub. L. 104–208, div. A, title II, § 2305(a)][/us/pl/104/208/s2305/a], Sept. 30, 1996, [110 Stat. 3009–425][/us/stat/110/3009-425].)
+([Pub. L. 90–321, title VIII][/us/pl/90/321/tVIII], § 807, as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 877][/us/stat/91/877]; amended [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2305(a), Sept. 30, 1996, [110 Stat. 3009–425][/us/stat/110/3009-425].)
 
  __Amendments__ 
 
@@ -69,7 +69,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–208, div. A, title II, § 2305(b)][/us/pl/104/208/s2305/b], Sept. 30, 1996, [110 Stat. 3009–425][/us/stat/110/3009-425], provided that: 
+[Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2305(b), Sept. 30, 1996, [110 Stat. 3009–425][/us/stat/110/3009-425], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect 90 days after the date of enactment of this Act \[Sept. 30, 1996\] and shall apply to all communications made after that date of enactment.”
 
@@ -81,14 +81,14 @@
 ----------
 
 [/us/usc/t15/s1681a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Ff
-[/us/pl/90/321/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs807
+[/us/pl/90/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVIII
 [/us/pl/95/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F109
 [/us/stat/91/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F877
-[/us/pl/104/208/s2305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2305%2Fa
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-425
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t15/s1692b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1692b
-[/us/pl/104/208/s2305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2305%2Fb
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-425
 
 

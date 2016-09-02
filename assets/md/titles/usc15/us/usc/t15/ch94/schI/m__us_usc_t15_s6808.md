@@ -45,7 +45,7 @@
 
         On or before January 1, 2002, the Secretary shall submit a report to the Congress containing the findings and conclusions of the study required under subsection (a), together with such recommendations for legislative or administrative action as may be appropriate.
 
-([Pub. L. 106–102, title V, § 508][/us/pl/106/102/s508], Nov. 12, 1999, [113 Stat. 1442][/us/stat/113/1442].)
+([Pub. L. 106–102, title V][/us/pl/106/102/tV], § 508, Nov. 12, 1999, [113 Stat. 1442][/us/stat/113/1442].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/106/102/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs508
+[/us/pl/106/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtV
 [/us/stat/113/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1442
 
 

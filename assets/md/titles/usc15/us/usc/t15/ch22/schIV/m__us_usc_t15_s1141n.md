@@ -17,7 +17,7 @@
 
     When a United States registration and a subsequently issued certificate of extension of protection to the United States are owned by the same person, identify the same mark, and list the same goods or services, the extension of protection shall have the same rights that accrued to the registration prior to issuance of the certificate of extension of protection.
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title XII, § 74, as added [Pub. L. 107–273, div. C, title III, § 13402][/us/pl/107/273/s13402], Nov. 2, 2002, [116 Stat. 1920][/us/stat/116/1920].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title XII, § 74, as added [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13402, Nov. 2, 2002, [116 Stat. 1920][/us/stat/116/1920].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
-[/us/pl/107/273/s13402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13402
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1920
 
 

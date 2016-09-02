@@ -71,15 +71,15 @@
 
         (2) $119,000 for adjustments required by law in salaries, pay, retirement, and employee benefits.
 
-([Mar. 3, 1901, ch. 872, § 16][/us/act/1901-03-03/ch872/s16], as added [Pub. L. 93–498, § 18][/us/pl/93/498/s18], Oct. 29, 1974, [88 Stat. 1545][/us/stat/88/1545]; amended [Pub. L. 94–411, § 1(b)][/us/pl/94/411/s1/b], Sept. 13, 1976, [90 Stat. 1254][/us/stat/90/1254]; [Pub. L. 95–422][/us/pl/95/422], §§ 1(b), 2(b), 3(b), Oct. 5, 1978, [92 Stat. 932][/us/stat/92/932], 933; [Pub. L. 96–121, § 3][/us/pl/96/121/s3], Nov. 16, 1979, [93 Stat. 863][/us/stat/93/863].)
+([Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 16, as added [Pub. L. 93–498][/us/pl/93/498], § 18, Oct. 29, 1974, [88 Stat. 1545][/us/stat/88/1545]; amended [Pub. L. 94–411][/us/pl/94/411], § 1(b), Sept. 13, 1976, [90 Stat. 1254][/us/stat/90/1254]; [Pub. L. 95–422][/us/pl/95/422], §§ 1(b), 2(b), 3(b), Oct. 5, 1978, [92 Stat. 932][/us/stat/92/932], 933; [Pub. L. 96–121][/us/pl/96/121], § 3, Nov. 16, 1979, [93 Stat. 863][/us/stat/93/863].)
 
  __References in Text__ 
 
-    [Section 2220(b)(1) of this title][/us/usc/t15/s2220/b/1], referred to in subsec. (b)(1), was repealed by [Pub. L. 106–503, title I, § 110(a)(1)(D)][/us/pl/106/503/s110/a/1/D], Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302].
+    [Section 2220(b)(1) of this title][/us/usc/t15/s2220/b/1], referred to in subsec. (b)(1), was repealed by [Pub. L. 106–503, title I][/us/pl/106/503/tI], § 110(a)(1)(D), Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302].
 
  __Prior Provisions__ 
 
-    A prior section 16 of act Mar. 3, 1901, as added by act Mar. 1, 1968, [Pub. L. 90–259, title I, § 102][/us/pl/90/259/s102], [82 Stat. 35][/us/stat/82/35], related to fire research and safety programs, prior to repeal by act Oct. 29, 1974.
+    A prior section 16 of act Mar. 3, 1901, as added by act Mar. 1, 1968, [Pub. L. 90–259, title I][/us/pl/90/259/tI], § 102, [82 Stat. 35][/us/stat/82/35], related to fire research and safety programs, prior to repeal by act Oct. 29, 1974.
 
  __Amendments__ 
 
@@ -87,7 +87,7 @@
 
     1978—Subsec. (a). [Pub. L. 95–422][/us/pl/95/422], §§ 2(b), 3(b), in provisions preceding par. (1) substituted “United States Fire Administration” for “National Fire Prevention and Control Administration” and added par. (1)(I).
 
-    Subsec. (b). [Pub. L. 95–422, § 1(b)][/us/pl/95/422/s1/b], inserted provision authorizing appropriation of not to exceed $5,600,000 for the fiscal year ending Sept. 30, 1979.
+    Subsec. (b). [Pub. L. 95–422][/us/pl/95/422], § 1(b), inserted provision authorizing appropriation of not to exceed $5,600,000 for the fiscal year ending Sept. 30, 1979.
 
     1976—Subsec. (b). [Pub. L. 94–411][/us/pl/94/411] substituted provisions authorizing to be appropriated not to exceed $1,275,000 for the transitional fiscal quarter of July 1, 1976, through Sept. 30, 1976, not to exceed $5,500,000 for the fiscal year ending Sept. 30, 1977, and not to exceed $6,000,000 for the fiscal year ending Sept. 30, 1978, for provisions authorizing to be appropriated not to exceed $3,500,000 for the fiscal year ending June 30, 1975, and not to exceed $4,000,000 for the fiscal year ending June 30, 1976.
 
@@ -97,7 +97,7 @@
 
  __Combination of Fire Research and Building Technology Programs__ 
 
-[Pub. L. 102–245, title I, § 104(g)][/us/pl/102/245/s104/g], Feb. 14, 1992, [106 Stat. 11][/us/stat/106/11], provided that: 
+[Pub. L. 102–245, title I][/us/pl/102/245/tI], § 104(g), Feb. 14, 1992, [106 Stat. 11][/us/stat/106/11], provided that: 
 
 > “The fire research and building technology programs of the Institute may be combined for administrative purposes only, and separate budget accounts for fire research and building technology shall be maintained. No later than December 31, 1992, the Secretary, acting through the Director of the Institute, shall report to Congress on the results of the combination, on efforts to preserve the integrity of the fire research and building technology programs, on the long-range basic and applied research plans of the two programs, on procedures for receiving advice on fire and earthquake research priorities from constituencies concerned with public safety, and on the relation between the combined program at the Institute and the United States Fire Administration.”
 
@@ -116,27 +116,27 @@
 ----------
 ----------
 
-[/us/act/1901-03-03/ch872/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs16
-[/us/pl/93/498/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs18
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1545
-[/us/pl/94/411/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F411%2Fs1%2Fb
+[/us/pl/94/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F411
 [/us/stat/90/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1254
 [/us/pl/95/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F422
 [/us/stat/92/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F932
-[/us/pl/96/121/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F121%2Fs3
+[/us/pl/96/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F121
 [/us/stat/93/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F863
 [/us/usc/t15/s2220/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2220%2Fb%2F1
-[/us/pl/106/503/s110/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs110%2Fa%2F1%2FD
+[/us/pl/106/503/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2FtI
 [/us/stat/114/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2302
-[/us/pl/90/259/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F259%2Fs102
+[/us/pl/90/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F259%2FtI
 [/us/stat/82/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F35
 [/us/pl/96/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F121
 [/us/pl/95/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F422
-[/us/pl/95/422/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F422%2Fs1%2Fb
+[/us/pl/95/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F422
 [/us/pl/94/411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F411
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/102/245/s104/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs104%2Fg
+[/us/pl/102/245/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtI
 [/us/stat/106/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F11
 [/us/pl/90/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F259
 

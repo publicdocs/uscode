@@ -65,7 +65,7 @@
 
         (2) the term “research report” means a written or electronic communication that includes an analysis of equity securities of individual companies or industries, and that provides information reasonably sufficient upon which to base an investment decision.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 15D, as added [Pub. L. 107–204, title V, § 501(a)][/us/pl/107/204/s501/a], July 30, 2002, [116 Stat. 791][/us/stat/116/791]; amended [Pub. L. 112–106, title I, § 105(b)][/us/pl/112/106/s105/b], Apr. 5, 2012, [126 Stat. 311][/us/stat/126/311].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 15D, as added [Pub. L. 107–204, title V][/us/pl/107/204/tV], § 501(a), July 30, 2002, [116 Stat. 791][/us/stat/116/791]; amended [Pub. L. 112–106, title I][/us/pl/112/106/tI], § 105(b), Apr. 5, 2012, [126 Stat. 311][/us/stat/126/311].)
 
  __Amendments__ 
 
@@ -73,7 +73,7 @@
 
  __Post Offering Communications__ 
 
-[Pub. L. 112–106, title I, § 105(d)][/us/pl/112/106/s105/d], Apr. 5, 2012, [126 Stat. 311][/us/stat/126/311], provided that: 
+[Pub. L. 112–106, title I][/us/pl/112/106/tI], § 105(d), Apr. 5, 2012, [126 Stat. 311][/us/stat/126/311], provided that: 
 
 > “Neither the \[Securities and Exchange\] Commission nor any national securities association registered under section 15A of the Securities Exchange Act of 1934 \[[15 U.S.C. 78][/us/usc/t15/s78]o–3\] may adopt or maintain any rule or regulation prohibiting any broker, dealer, or member of a national securities association from publishing or distributing any research report or making a public appearance, with respect to the securities of an emerging growth company, either—
 
@@ -83,7 +83,7 @@
 
  __Commission Authority__ 
 
-[Pub. L. 107–204, title V, § 501(c)][/us/pl/107/204/s501/c], July 30, 2002, [116 Stat. 793][/us/stat/116/793], provided that: 
+[Pub. L. 107–204, title V][/us/pl/107/204/tV], § 501(c), July 30, 2002, [116 Stat. 793][/us/stat/116/793], provided that: 
 
 > “The Commission may promulgate and amend its regulations, or direct a registered securities association or national securities exchange to promulgate and amend its rules, to carry out section 15D of the Securities Exchange Act of 1934 \[[15 U.S.C. 78][/us/usc/t15/s78]o–6\], as added by this section, as is necessary for the protection of investors and in the public interest.”
 
@@ -95,15 +95,15 @@
 ----------
 
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/107/204/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs501%2Fa
+[/us/pl/107/204/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtV
 [/us/stat/116/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F791
-[/us/pl/112/106/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs105%2Fb
+[/us/pl/112/106/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtI
 [/us/stat/126/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F311
 [/us/pl/112/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106
-[/us/pl/112/106/s105/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs105%2Fd
+[/us/pl/112/106/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtI
 [/us/stat/126/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F311
 [/us/usc/t15/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78
-[/us/pl/107/204/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs501%2Fc
+[/us/pl/107/204/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtV
 [/us/stat/116/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F793
 [/us/usc/t15/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78
 

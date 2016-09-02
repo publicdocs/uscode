@@ -17,7 +17,7 @@
 
     Any part of the funds not to exceed $1,500,000 per year, created under and to carry out the provisions of [section 612c of title 7][/us/usc/t7/s612c], may also be used by the Secretary of Agriculture for the purpose of diverting surplus fishery products (including fish, shellfish, mollusks, and crustacea) from the normal channels of trade and commerce by acquiring them and providing for their distribution through Federal, State, and private relief channels: Provided, That none of the funds made available to the Secretary of Agriculture under this section and [section 713c–3 of this title][/us/usc/t15/s713c–3] shall be used to purchase any of the commodities designated in this section and [section 713c–3 of this title][/us/usc/t15/s713c–3] which may have been produced in any foreign country. The provisions of law relating to the acquisition of materials or supplies for the United States shall not apply to the acquisition of commodities under this section and [section 713c–3 of this title][/us/usc/t15/s713c–3].
 
-([Aug. 11, 1939, ch. 696, § 1][/us/act/1939-08-11/ch696/s1], [53 Stat. 1411][/us/stat/53/1411]; 1940 Reorg. Plan No. III, § 5, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232]; 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, [60 Stat. 1100][/us/stat/60/1100].)
+([Aug. 11, 1939, ch. 696][/us/act/1939-08-11/ch696], § 1, [53 Stat. 1411][/us/stat/53/1411]; 1940 Reorg. Plan No. III, § 5, eff. June 30, 1940, 5 F.R. 2108, [54 Stat. 1232][/us/stat/54/1232]; 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, [60 Stat. 1100][/us/stat/60/1100].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 [/us/usc/t15/s713c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713c%E2%80%933
 [/us/usc/t15/s713c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713c%E2%80%933
 [/us/usc/t15/s713c–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713c%E2%80%933
-[/us/act/1939-08-11/ch696/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch696%2Fs1
+[/us/act/1939-08-11/ch696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch696
 [/us/stat/53/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1411
 [/us/stat/54/1232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1232
 [/us/stat/60/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1100

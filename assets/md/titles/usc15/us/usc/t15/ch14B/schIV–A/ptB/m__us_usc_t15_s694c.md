@@ -19,7 +19,7 @@
 
     (b) Such sums as may be appropriated to the Fund to carry out the programs authorized by this part shall be without fiscal year limitation.
 
-([Pub. L. 85–699, title IV, § 412][/us/pl/85/699/s412], as added [Pub. L. 93–386, § 6(a)(4)][/us/pl/93/386/s6/a/4], Aug. 23, 1974, [88 Stat. 747][/us/stat/88/747]; amended [Pub. L. 94–305, title I, § 113][/us/pl/94/305/s113], June 4, 1976, [90 Stat. 667][/us/stat/90/667]; [Pub. L. 95–14, § 4][/us/pl/95/14/s4], Mar. 24, 1977, [91 Stat. 25][/us/stat/91/25]; [Pub. L. 95–89, title I, § 105][/us/pl/95/89/s105], Aug. 4, 1977, [91 Stat. 556][/us/stat/91/556]; [Pub. L. 96–302, title I, § 111][/us/pl/96/302/s111], July 2, 1980, [94 Stat. 837][/us/stat/94/837]; [Pub. L. 100–590, title II, § 208][/us/pl/100/590/s208], Nov. 3, 1988, [102 Stat. 3009][/us/stat/102/3009].)
+([Pub. L. 85–699, title IV][/us/pl/85/699/tIV], § 412, as added [Pub. L. 93–386][/us/pl/93/386], § 6(a)(4), Aug. 23, 1974, [88 Stat. 747][/us/stat/88/747]; amended [Pub. L. 94–305, title I][/us/pl/94/305/tI], § 113, June 4, 1976, [90 Stat. 667][/us/stat/90/667]; [Pub. L. 95–14][/us/pl/95/14], § 4, Mar. 24, 1977, [91 Stat. 25][/us/stat/91/25]; [Pub. L. 95–89, title I][/us/pl/95/89/tI], § 105, Aug. 4, 1977, [91 Stat. 556][/us/stat/91/556]; [Pub. L. 96–302, title I][/us/pl/96/302/tI], § 111, July 2, 1980, [94 Stat. 837][/us/stat/94/837]; [Pub. L. 100–590, title II][/us/pl/100/590/tII], § 208, Nov. 3, 1988, [102 Stat. 3009][/us/stat/102/3009].)
 
  __Amendments__ 
 
@@ -52,18 +52,18 @@
 ----------
 ----------
 
-[/us/pl/85/699/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs412
-[/us/pl/93/386/s6/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386%2Fs6%2Fa%2F4
+[/us/pl/85/699/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIV
+[/us/pl/93/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386
 [/us/stat/88/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F747
-[/us/pl/94/305/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2Fs113
+[/us/pl/94/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2FtI
 [/us/stat/90/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F667
-[/us/pl/95/14/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F14%2Fs4
+[/us/pl/95/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F14
 [/us/stat/91/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F25
-[/us/pl/95/89/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F89%2Fs105
+[/us/pl/95/89/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F89%2FtI
 [/us/stat/91/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F556
-[/us/pl/96/302/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs111
+[/us/pl/96/302/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2FtI
 [/us/stat/94/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F837
-[/us/pl/100/590/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2Fs208
+[/us/pl/100/590/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2FtII
 [/us/stat/102/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3009
 [/us/pl/100/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590
 [/us/pl/96/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302

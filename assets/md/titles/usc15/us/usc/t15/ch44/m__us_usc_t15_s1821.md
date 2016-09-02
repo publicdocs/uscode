@@ -37,7 +37,7 @@
 
     (4) The term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
 
-([Pub. L. 91–540, § 2][/us/pl/91/540/s2], Dec. 9, 1970, [84 Stat. 1404][/us/stat/84/1404]; [Pub. L. 94–360, § 3][/us/pl/94/360/s3], July 13, 1976, [90 Stat. 915][/us/stat/90/915].)
+([Pub. L. 91–540][/us/pl/91/540], § 2, Dec. 9, 1970, [84 Stat. 1404][/us/stat/84/1404]; [Pub. L. 94–360][/us/pl/94/360], § 3, July 13, 1976, [90 Stat. 915][/us/stat/90/915].)
 
  __Amendments__ 
 
@@ -45,13 +45,13 @@
 
  __Short Title of 1976 Amendment__ 
 
-[Pub. L. 94–360, § 1(a)][/us/pl/94/360/s1/a], July 13, 1976, [90 Stat. 915][/us/stat/90/915], provided that: 
+[Pub. L. 94–360][/us/pl/94/360], § 1(a), July 13, 1976, [90 Stat. 915][/us/stat/90/915], provided that: 
 
 > “This Act \[amending this section and sections 1822 to 1825, 1827, 1830, and 1831 of this title and enacting provisions set out as notes under this section and [section 1831 of this title][/us/usc/t15/s1831]\] may be cited as the ‘Horse Protection Act Amendments of 1976’.”
 
  __Short Title__ 
 
-[Pub. L. 91–540, § 1][/us/pl/91/540/s1], Dec. 9, 1970, [84 Stat. 1404][/us/stat/84/1404], as amended by [Pub. L. 94–360, § 2][/us/pl/94/360/s2], July 13, 1976, [90 Stat. 915][/us/stat/90/915], provided: 
+[Pub. L. 91–540][/us/pl/91/540], § 1, Dec. 9, 1970, [84 Stat. 1404][/us/stat/84/1404], as amended by [Pub. L. 94–360][/us/pl/94/360], § 2, July 13, 1976, [90 Stat. 915][/us/stat/90/915], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Horse Protection Act’.”
 
@@ -66,17 +66,17 @@
 ----------
 ----------
 
-[/us/pl/91/540/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F540%2Fs2
+[/us/pl/91/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F540
 [/us/stat/84/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1404
-[/us/pl/94/360/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360%2Fs3
+[/us/pl/94/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360
 [/us/stat/90/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F915
 [/us/pl/94/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360
-[/us/pl/94/360/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360%2Fs1%2Fa
+[/us/pl/94/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360
 [/us/stat/90/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F915
 [/us/usc/t15/s1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1831
-[/us/pl/91/540/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F540%2Fs1
+[/us/pl/91/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F540
 [/us/stat/84/1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1404
-[/us/pl/94/360/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360%2Fs2
+[/us/pl/94/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360
 [/us/stat/90/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F915
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

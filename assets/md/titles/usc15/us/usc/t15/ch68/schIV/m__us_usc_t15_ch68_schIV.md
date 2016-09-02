@@ -11,46 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch68/schIII/m__us_usc_t15_ch68_schIII.md) | [Next](./../../../../..//us/usc/t15/ch68/schV/m__us_usc_t15_ch68_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch68%2FschIV)
+[Previous](./../../../../..//us/usc/t15/ch68/schIII/m__us_usc_t15_s4221...4228.md) | [Next](./../../../../..//us/usc/t15/ch68/schIV/m__us_usc_t15_s4241...4246.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch68%2FschIV)
 
 ### SUBCHAPTER IV—LICENSING OF PRIVATE REMOTE-SENSING SPACE SYSTEMS
 
-§§ 4241 to 4246. __Repealed.__  __[__  __Pub. L. 102–555, § 4__  __][/us/pl/102/555/s4]__  __,__  __Oct. 28, 1992__  __,__  __[__  __106 Stat. 4166__  __][/us/stat/106/4166]__ 
-
-    Section 4241, [Pub. L. 98–365, title IV, § 401][/us/pl/98/365/s401], July 17, 1984, [98 Stat. 459][/us/stat/98/459], related to authority of Secretary of Commerce to license private sector parties, conditions for grant of license, review of applications by Secretary, and provisions relating to denial of licenses.
-
-    Section 4242, [Pub. L. 98–365, title IV, § 402][/us/pl/98/365/s402], July 17, 1984, [98 Stat. 459][/us/stat/98/459]; [Pub. L. 102–567, title I, § 114(b)][/us/pl/102/567/s114/b], Oct. 29, 1992, [106 Stat. 4279][/us/stat/106/4279], provided licensing requirements for operation of private remote-sensing space system.
-
-    Section 4243, [Pub. L. 98–365, title IV, § 403][/us/pl/98/365/s403], July 17, 1984, [98 Stat. 460][/us/stat/98/460], related to administrative authority of Secretary of Commerce, review of adverse action on license application, and judicial review of final actions.
-
-    Section 4244, [Pub. L. 98–365, title IV, § 404][/us/pl/98/365/s404], July 17, 1984, [98 Stat. 461][/us/stat/98/461], related to regulatory authority of Secretary of Commerce.
-
-    Section 4245, [Pub. L. 98–365, title IV, § 405][/us/pl/98/365/s405], July 17, 1984, [98 Stat. 461][/us/stat/98/461], related to licensing of private remote-sensing space systems which utilize civilian government satellites or vehicles, assistance by Secretary of Commerce in finding opportunities for such utilization, utilization agreements by Federal agencies, research and development, and subchapter’s effect on authority of Federal Communications Commission.
-
-    Section 4246, [Pub. L. 98–365, title IV, § 406][/us/pl/98/365/s406], July 17, 1984, [98 Stat. 461][/us/stat/98/461], related to termination of subchapter.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch68/schIII/m__us_usc_t15_ch68_schIII.md) | [Next](./../../../../..//us/usc/t15/ch68/schV/m__us_usc_t15_ch68_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch68%2FschIV)
+[Previous](./../../../../..//us/usc/t15/ch68/schIII/m__us_usc_t15_s4221...4228.md) | [Next](./../../../../..//us/usc/t15/ch68/schIV/m__us_usc_t15_s4241...4246.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch68%2FschIV)
 
 ----------
 ----------
 
-[/us/pl/102/555/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F555%2Fs4
-[/us/stat/106/4166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4166
-[/us/pl/98/365/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs401
-[/us/stat/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F459
-[/us/pl/98/365/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs402
-[/us/stat/98/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F459
-[/us/pl/102/567/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs114%2Fb
-[/us/stat/106/4279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4279
-[/us/pl/98/365/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs403
-[/us/stat/98/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F460
-[/us/pl/98/365/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs404
-[/us/stat/98/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F461
-[/us/pl/98/365/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs405
-[/us/stat/98/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F461
-[/us/pl/98/365/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs406
-[/us/stat/98/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F461
 
 

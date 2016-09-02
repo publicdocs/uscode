@@ -21,7 +21,7 @@
 
     (2) as required by the laws of the State, Commonwealth, territory, or possession.
 
-([Pub. L. 98–623, title IV, § 406][/us/pl/98/623/s406], Nov. 8, 1984, [98 Stat. 3409][/us/stat/98/3409].)
+([Pub. L. 98–623, title IV][/us/pl/98/623/tIV], § 406, Nov. 8, 1984, [98 Stat. 3409][/us/stat/98/3409].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/98/623/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs406
+[/us/pl/98/623/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtIV
 [/us/stat/98/3409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3409
 
 

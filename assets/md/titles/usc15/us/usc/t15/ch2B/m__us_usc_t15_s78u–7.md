@@ -31,7 +31,7 @@
 
         The Securities and Exchange Commission shall establish a separate office within the Commission to administer and enforce the provisions of [section 78u–6 of this title][/us/usc/t15/s78u–6] (as add  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “added”. </sup></sup>  by section 922(a)). <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  Such office shall report annually to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on its activities, whistleblower complaints, and the response of the Commission to such complaints.
 
-([Pub. L. 111–203, title IX, § 924][/us/pl/111/203/s924], July 21, 2010, [124 Stat. 1850][/us/stat/124/1850].)
+([Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 924, July 21, 2010, [124 Stat. 1850][/us/stat/124/1850].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 [/us/usc/t15/s78u–6/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78u%E2%80%936%2Fa%2F3
 [/us/usc/t15/s78u–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78u%E2%80%936
 [/us/usc/t15/s78u–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78u%E2%80%936
-[/us/pl/111/203/s924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs924
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1850
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s922/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs922%2Fa

@@ -45,15 +45,15 @@
 
         If (1) after one year after the date on which the Secretary of Commerce first makes the request of manufacturers, packers, and distributors to participate in the development of a voluntary product standard as provided in subsection (d) of this section, he determines that such a standard will not be published pursuant to the provisions of such subsection (d), or (2) if such a standard is published and the Secretary of Commerce determines that it has not been observed, he shall promptly report such determination to the Congress with a statement of the efforts that have been made under the voluntary standards program and his recommendation as to whether Congress should enact legislation providing regulatory authority to deal with the situation in question.
 
-([Pub. L. 89–755, § 5][/us/pl/89/755/s5], Nov. 3, 1966, [80 Stat. 1298][/us/stat/80/1298]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 102–245, title I, § 107(a)(1)][/us/pl/102/245/s107/a/1], (2), Feb. 14, 1992, [106 Stat. 13][/us/stat/106/13]; [Pub. L. 102–329][/us/pl/102/329], §§ 1(1), (2), 3, Aug. 3, 1992, [106 Stat. 847][/us/stat/106/847], 848.)
+([Pub. L. 89–755][/us/pl/89/755], § 5, Nov. 3, 1966, [80 Stat. 1298][/us/stat/80/1298]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 102–245, title I][/us/pl/102/245/tI], § 107(a)(1), (2), Feb. 14, 1992, [106 Stat. 13][/us/stat/106/13]; [Pub. L. 102–329][/us/pl/102/329], §§ 1(1), (2), 3, Aug. 3, 1992, [106 Stat. 847][/us/stat/106/847], 848.)
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–245, § 107(a)(1)][/us/pl/102/245/s107/a/1], (2), (b), which directed amendment of section, effective two years after Feb. 14, 1992, by substituting “weight or mass” for “weight” in subsec. (c)(1) and “weights or masses” for “weights” in subsec. (d), was repealed by [Pub. L. 102–329, § 3][/us/pl/102/329/s3].
+    1992—[Pub. L. 102–245][/us/pl/102/245], § 107(a)(1), (2), (b), which directed amendment of section, effective two years after Feb. 14, 1992, by substituting “weight or mass” for “weight” in subsec. (c)(1) and “weights or masses” for “weights” in subsec. (d), was repealed by [Pub. L. 102–329][/us/pl/102/329], § 3.
 
-    Subsec. (c)(1). [Pub. L. 102–329, § 1(1)][/us/pl/102/329/s1/1], substituted “weight or mass” for “weight”.
+    Subsec. (c)(1). [Pub. L. 102–329][/us/pl/102/329], § 1(1), substituted “weight or mass” for “weight”.
 
-    Subsec. (d). [Pub. L. 102–329, § 1(2)][/us/pl/102/329/s1/2], substituted “weights or masses” for “weights”.
+    Subsec. (d). [Pub. L. 102–329][/us/pl/102/329], § 1(2), substituted “weights or masses” for “weights”.
 
  __Change of Name__ 
 
@@ -76,18 +76,18 @@
 [/us/usc/t15/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1453
 [/us/usc/t21/s321/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321%2Ff
 [/us/usc/t15/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs272
-[/us/pl/89/755/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F755%2Fs5
+[/us/pl/89/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F755
 [/us/stat/80/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1298
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/102/245/s107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs107%2Fa%2F1
+[/us/pl/102/245/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtI
 [/us/stat/106/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F13
 [/us/pl/102/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F329
 [/us/stat/106/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F847
-[/us/pl/102/245/s107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs107%2Fa%2F1
-[/us/pl/102/329/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F329%2Fs3
-[/us/pl/102/329/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F329%2Fs1%2F1
-[/us/pl/102/329/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F329%2Fs1%2F2
+[/us/pl/102/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245
+[/us/pl/102/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F329
+[/us/pl/102/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F329
+[/us/pl/102/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F329
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/pl/102/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F329

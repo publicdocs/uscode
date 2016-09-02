@@ -109,7 +109,7 @@
 
         It shall be unlawful for any person, directly or indirectly, by the use of any means or instrumentality of interstate commerce or of the mails, or of any facility of any national securities exchange, to effect any transaction in, or to induce or attempt to induce the purchase or sale of, any security-based swap, in connection with which such person engages in any fraudulent, deceptive, or manipulative act or practice, makes any fictitious quotation, or engages in any transaction, practice, or course of business which operates as a fraud or deceit upon any person. The Commission shall, for the purposes of this subsection, by rules and regulations define, and prescribe means reasonably designed to prevent, such transactions, acts, practices, and courses of business as are fraudulent, deceptive, or manipulative, and such quotations as are fictitious.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 9, [48 Stat. 889][/us/stat/48/889]; [Pub. L. 97–303, § 3][/us/pl/97/303/s3], Oct. 13, 1982, [96 Stat. 1409][/us/stat/96/1409]; [Pub. L. 101–432, § 6(a)][/us/pl/101/432/s6/a], Oct. 16, 1990, [104 Stat. 975][/us/stat/104/975]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 205(a)(1), (2), title III, § 303(b), (c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–425, 2763A–426, 2763A–453, 2763A–454; [Pub. L. 111–203, title VII][/us/pl/111/203], §§ 762(d)(2), 763(f), (g), title IX, §§ 929L(1), 929X(b), July 21, 2010, [124 Stat. 1760][/us/stat/124/1760], 1777, 1861, 1870.)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 9, [48 Stat. 889][/us/stat/48/889]; [Pub. L. 97–303][/us/pl/97/303], § 3, Oct. 13, 1982, [96 Stat. 1409][/us/stat/96/1409]; [Pub. L. 101–432][/us/pl/101/432], § 6(a), Oct. 16, 1990, [104 Stat. 975][/us/stat/104/975]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 205(a)(1), (2), title III, § 303(b), (c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–425, 2763A–426, 2763A–453, 2763A–454; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], §§ 762(d)(2), 763(f), (g), title IX, §§ 929L(1), 929X(b), July 21, 2010, [124 Stat. 1760][/us/stat/124/1760], 1777, 1861, 1870.)
 
  __Amendment of Section__ 
 
@@ -121,13 +121,13 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 929L(1)(A)][/us/pl/111/203/s929L/1/A], substituted “other than a government security” for “registered on a national securities exchange” wherever appearing.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 929L(1)(A), substituted “other than a government security” for “registered on a national securities exchange” wherever appearing.
 
-    Subsec. (a)(2) to (5). [Pub. L. 111–203, § 762(d)(2)(A)][/us/pl/111/203/s762/d/2/A], added pars. (2) to (5) and struck out former pars. (2) to (5) which prohibited certain actions in the purchase or sale of a security or a security-based swap agreement, such as making false or misleading statements or creating conditions to raise or depress the price of such security.
+    Subsec. (a)(2) to (5). [Pub. L. 111–203][/us/pl/111/203], § 762(d)(2)(A), added pars. (2) to (5) and struck out former pars. (2) to (5) which prohibited certain actions in the purchase or sale of a security or a security-based swap agreement, such as making false or misleading statements or creating conditions to raise or depress the price of such security.
 
-    Subsec. (b). [Pub. L. 111–203, § 929L(1)(B)][/us/pl/111/203/s929L/1/B], struck out “by use of any facility of a national securities exchange,” after “effect,” in introductory provisions.
+    Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 929L(1)(B), struck out “by use of any facility of a national securities exchange,” after “effect,” in introductory provisions.
 
-    Subsec. (b)(1) to (3). [Pub. L. 111–203, § 763(f)][/us/pl/111/203/s763/f], added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
+    Subsec. (b)(1) to (3). [Pub. L. 111–203][/us/pl/111/203], § 763(f), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
 
     “(1) any transaction in connection with any security whereby any party to such transaction acquires (A) any put, call, straddle, or other option or privilege of buying the security from or selling the security to another without being bound to do so; or (B) any security futures product on the security; or
 
@@ -135,19 +135,19 @@
 
     “(3) any transaction in any security for the account of any person who he has reason to believe has, and who actually has, directly or indirectly, any interest in any (A) such put, call, straddle, option, or privilege; or (B) such security futures product with relation to such security.”
 
-    Subsec. (c). [Pub. L. 111–203, § 929L(1)(C)][/us/pl/111/203/s929L/1/C], inserted “broker, dealer, or” after “unlawful for any”.
+    Subsec. (c). [Pub. L. 111–203][/us/pl/111/203], § 929L(1)(C), inserted “broker, dealer, or” after “unlawful for any”.
 
-    [Pub. L. 111–203, § 929L(1)(A)][/us/pl/111/203/s929L/1/A], substituted “other than a government security” for “registered on a national securities exchange”.
+    [Pub. L. 111–203][/us/pl/111/203], § 929L(1)(A), substituted “other than a government security” for “registered on a national securities exchange”.
 
-    Subsecs. (d) to (i). [Pub. L. 111–203, § 929X(b)][/us/pl/111/203/s929X/b], added subsec. (d) and redesignated former subsecs. (d) to (h) as (e) to (i), respectively. Former subsec. (i), relating to limitation on Commission authority, redesignated (j).
+    Subsecs. (d) to (i). [Pub. L. 111–203][/us/pl/111/203], § 929X(b), added subsec. (d) and redesignated former subsecs. (d) to (h) as (e) to (i), respectively. Former subsec. (i), relating to limitation on Commission authority, redesignated (j).
 
-    Subsec. (j). [Pub. L. 111–203, § 929X(b)(1)][/us/pl/111/203/s929X/b/1], redesignated subsec. (i), relating to limitation on Commission authority, as (j).
+    Subsec. (j). [Pub. L. 111–203][/us/pl/111/203], § 929X(b)(1), redesignated subsec. (i), relating to limitation on Commission authority, as (j).
 
-    [Pub. L. 111–203, § 763(g)][/us/pl/111/203/s763/g], added subsec. (j) relating to regulations relating to security-based swaps.
+    [Pub. L. 111–203][/us/pl/111/203], § 763(g), added subsec. (j) relating to regulations relating to security-based swaps.
 
-    [Pub. L. 111–203, § 762(d)(2)(B)][/us/pl/111/203/s762/d/2/B], which directed amendment of subsec. (i) by striking out “(as defined in section 206B of the Gramm-Leach-Bliley Act)”, was executed by making the strike out after “security-based swap agreements” in subsec. (j) relating to limitation on Commission authority, to reflect the probable intent of Congress and the redesignation of subsec. (i) as (j) by [Pub. L. 111–203, § 929X(b)(1)][/us/pl/111/203/s929X/b/1]. See above and Effective Date of 2010 Amendment notes below.
+    [Pub. L. 111–203][/us/pl/111/203], § 762(d)(2)(B), which directed amendment of subsec. (i) by striking out “(as defined in section 206B of the Gramm-Leach-Bliley Act)”, was executed by making the strike out after “security-based swap agreements” in subsec. (j) relating to limitation on Commission authority, to reflect the probable intent of Congress and the redesignation of subsec. (i) as (j) by [Pub. L. 111–203][/us/pl/111/203], § 929X(b)(1). See above and Effective Date of 2010 Amendment notes below.
 
-    2000—Subsec. (a)(2) to (5). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title III, § 303(b)\], amended pars. (2) to (5) generally. Prior to amendment, pars. (2) to (5) read as follows:
+    2000—Subsec. (a)(2) to (5). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title III, § 303(b)\], amended pars. (2) to (5) generally. Prior to amendment, pars. (2) to (5) read as follows:
 
     “(2) To effect, alone or with one or more other persons, a series of transactions in any security registered on a national securities exchange creating actual or apparent active trading in such security or raising or depressing the price of such security, for the purpose of inducing the purchase or sale of such security by others.
 
@@ -157,21 +157,21 @@
 
     “(5) For a consideration, received directly or indirectly from a dealer or broker, or other person selling or offering for sale or purchasing or offering to purchase the security, to induce the purchase or sale of any security registered on a national securities exchange by the circulation or dissemination of information to the effect that the price of any such security will or is likely to rise or fall because of the market operations of any one or more persons conducted for the purpose of raising or depressing the price of such security.”
 
-    Subsec. (b)(1). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 205(a)(1)(A)\], inserted “(A)” after “acquires” and substituted “; or (B) any security futures product on the security; or” for “; or”.
+    Subsec. (b)(1). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 205(a)(1)(A)\], inserted “(A)” after “acquires” and substituted “; or (B) any security futures product on the security; or” for “; or”.
 
-    Subsec. (b)(2). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 205(a)(1)(B)\], inserted “(A)” after “interest in any” and substituted “; or (B) such security futures product; or” for “; or”.
+    Subsec. (b)(2). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 205(a)(1)(B)\], inserted “(A)” after “interest in any” and substituted “; or (B) such security futures product; or” for “; or”.
 
-    Subsec. (b)(3). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 205(a)(1)(C)\], inserted “(A)” after “interest in any” and “; or (B) such security futures product” after “privilege”.
+    Subsec. (b)(3). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 205(a)(1)(C)\], inserted “(A)” after “interest in any” and “; or (B) such security futures product” after “privilege”.
 
-    Subsec. (g). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 205(a)(2)\], designated existing provisions as par. (1), inserted “other than a security futures product” after “future delivery”, and added par. (2).
+    Subsec. (g). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 205(a)(2)\], designated existing provisions as par. (1), inserted “other than a security futures product” after “future delivery”, and added par. (2).
 
-    Subsec. (i). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title III, § 303(c)\], added subsec. (i).
+    Subsec. (i). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title III, § 303(c)\], added subsec. (i).
 
     1990—Subsec. (h). [Pub. L. 101–432][/us/pl/101/432] added subsec. (h).
 
-    1982—Subsec. (f). [Pub. L. 97–303, § 3(1)][/us/pl/97/303/s3/1], substituted “The provisions of subsection (a) shall not apply” for “The provisions of this section shall not apply”.
+    1982—Subsec. (f). [Pub. L. 97–303][/us/pl/97/303], § 3(1), substituted “The provisions of subsection (a) shall not apply” for “The provisions of this section shall not apply”.
 
-    Subsec. (g). [Pub. L. 97–303, § 3(2)][/us/pl/97/303/s3/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 97–303][/us/pl/97/303], § 3(2), added subsec. (g).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -194,38 +194,38 @@
 [/us/usc/t15/s78c–1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%E2%80%931%2Fb
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F889
-[/us/pl/97/303/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F303%2Fs3
+[/us/pl/97/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F303
 [/us/stat/96/1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1409
-[/us/pl/101/432/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432%2Fs6%2Fa
+[/us/pl/101/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432
 [/us/stat/104/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F975
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1760
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
-[/us/pl/111/203/s929L/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929L%2F1%2FA
-[/us/pl/111/203/s762/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fd%2F2%2FA
-[/us/pl/111/203/s929L/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929L%2F1%2FB
-[/us/pl/111/203/s763/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs763%2Ff
-[/us/pl/111/203/s929L/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929L%2F1%2FC
-[/us/pl/111/203/s929L/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929L%2F1%2FA
-[/us/pl/111/203/s929X/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929X%2Fb
-[/us/pl/111/203/s929X/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929X%2Fb%2F1
-[/us/pl/111/203/s763/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs763%2Fg
-[/us/pl/111/203/s762/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fd%2F2%2FB
-[/us/pl/111/203/s929X/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929X%2Fb%2F1
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/101/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432
-[/us/pl/97/303/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F303%2Fs3%2F1
-[/us/pl/97/303/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F303%2Fs3%2F2
+[/us/pl/97/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F303
+[/us/pl/97/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F303
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

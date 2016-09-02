@@ -161,7 +161,7 @@
 
                 The term “sector-specific agency” means the Federal department or agency responsible for providing institutional knowledge and specialized expertise as well as leading, facilitating, or supporting the security and resilience programs and associated activities of its designated critical infrastructure sector in the all-hazards environment.
 
-([Mar. 3, 1901, ch. 872, § 2][/us/act/1901-03-03/ch872/s2], [31 Stat. 1449][/us/stat/31/1449]; [July 22, 1950, ch. 486, § 1][/us/act/1950-07-22/ch486/s1], [64 Stat. 371][/us/stat/64/371]; [Pub. L. 92–317, § 3(b)][/us/pl/92/317/s3/b], June 22, 1972, [86 Stat. 235][/us/stat/86/235]; [Pub. L. 100–235, § 3(1)][/us/pl/100/235/s3/1], Jan. 8, 1988, [101 Stat. 1724][/us/stat/101/1724]; [Pub. L. 100–418, title V, § 5112(a)][/us/pl/100/418/s5112/a], Aug. 23, 1988, [102 Stat. 1428][/us/stat/102/1428]; [Pub. L. 102–245, title II, § 201(e)][/us/pl/102/245/s201/e], Feb. 14, 1992, [106 Stat. 19][/us/stat/106/19]; [Pub. L. 104–113, § 12(a)][/us/pl/104/113/s12/a], (b), Mar. 7, 1996, [110 Stat. 782][/us/stat/110/782]; [Pub. L. 110–69, title III][/us/pl/110/69], §§ 3002(c)(2)(A), 3013(b), Aug. 9, 2007, [121 Stat. 586][/us/stat/121/586], 598; [Pub. L. 113–274, title I, § 101(a)][/us/pl/113/274/s101/a], (b), Dec. 18, 2014, [128 Stat. 2972][/us/stat/128/2972].)
+([Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 2, [31 Stat. 1449][/us/stat/31/1449]; [July 22, 1950, ch. 486][/us/act/1950-07-22/ch486], § 1, [64 Stat. 371][/us/stat/64/371]; [Pub. L. 92–317][/us/pl/92/317], § 3(b), June 22, 1972, [86 Stat. 235][/us/stat/86/235]; [Pub. L. 100–235][/us/pl/100/235], § 3(1), Jan. 8, 1988, [101 Stat. 1724][/us/stat/101/1724]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5112(a), Aug. 23, 1988, [102 Stat. 1428][/us/stat/102/1428]; [Pub. L. 102–245, title II][/us/pl/102/245/tII], § 201(e), Feb. 14, 1992, [106 Stat. 19][/us/stat/106/19]; [Pub. L. 104–113][/us/pl/104/113], § 12(a), (b), Mar. 7, 1996, [110 Stat. 782][/us/stat/110/782]; [Pub. L. 110–69, title III][/us/pl/110/69/tIII], §§ 3002(c)(2)(A), 3013(b), Aug. 9, 2007, [121 Stat. 586][/us/stat/121/586], 598; [Pub. L. 113–274, title I][/us/pl/113/274/tI], § 101(a), (b), Dec. 18, 2014, [128 Stat. 2972][/us/stat/128/2972].)
 
  __References in Text__ 
 
@@ -169,21 +169,21 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c)(15) to (23). [Pub. L. 113–274, § 101(a)][/us/pl/113/274/s101/a], added par. (15) and redesignated former pars. (15) to (22) as (16) to (23), respectively.
+    2014—Subsec. (c)(15) to (23). [Pub. L. 113–274][/us/pl/113/274], § 101(a), added par. (15) and redesignated former pars. (15) to (22) as (16) to (23), respectively.
 
-    Subsec. (e). [Pub. L. 113–274, § 101(b)][/us/pl/113/274/s101/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 113–274][/us/pl/113/274], § 101(b), added subsec. (e).
 
-    2007—Subsec. (b). [Pub. L. 110–69, § 3002(c)(2)(A)(i)][/us/pl/110/69/s3002/c/2/A/i], struck out “and, if appropriate, through other officials,” before “is authorized” in introductory provisions.
+    2007—Subsec. (b). [Pub. L. 110–69][/us/pl/110/69], § 3002(c)(2)(A)(i), struck out “and, if appropriate, through other officials,” before “is authorized” in introductory provisions.
 
-    Subsec. (b)(4). [Pub. L. 110–69, § 3013(b)][/us/pl/110/69/s3013/b], inserted “and grants and cooperative agreements,” after “arrangements,”.
+    Subsec. (b)(4). [Pub. L. 110–69][/us/pl/110/69], § 3013(b), inserted “and grants and cooperative agreements,” after “arrangements,”.
 
-    Subsec. (c). [Pub. L. 110–69, § 3002(c)(2)(A)(ii)][/us/pl/110/69/s3002/c/2/A/ii], struck out “and, if appropriate, through other appropriate officials,” before “may,” in introductory provisions.
+    Subsec. (c). [Pub. L. 110–69][/us/pl/110/69], § 3002(c)(2)(A)(ii), struck out “and, if appropriate, through other appropriate officials,” before “may,” in introductory provisions.
 
-    1996—Subsec. (b)(2). [Pub. L. 104–113, § 12(a)(1)][/us/pl/104/113/s12/a/1], struck out “, including comparing standards used in scientific investigations, engineering, manufacturing, commerce, industry, and educational institutions with the standards adopted or recognized by the Federal Government” after “consistent with those standards”.
+    1996—Subsec. (b)(2). [Pub. L. 104–113][/us/pl/104/113], § 12(a)(1), struck out “, including comparing standards used in scientific investigations, engineering, manufacturing, commerce, industry, and educational institutions with the standards adopted or recognized by the Federal Government” after “consistent with those standards”.
 
-    Subsec. (b)(3) to (12). [Pub. L. 104–113, § 12(a)(2)][/us/pl/104/113/s12/a/2], (3), added par. (3) and redesignated former pars. (3) to (11) as (4) to (12), respectively.
+    Subsec. (b)(3) to (12). [Pub. L. 104–113][/us/pl/104/113], § 12(a)(2), (3), added par. (3) and redesignated former pars. (3) to (11) as (4) to (12), respectively.
 
-    Subsec. (b)(13). [Pub. L. 104–113, § 12(b)(3)][/us/pl/104/113/s12/b/3], added par. (13).
+    Subsec. (b)(13). [Pub. L. 104–113][/us/pl/104/113], § 12(b)(3), added par. (13).
 
     1992—Subsec. (d). [Pub. L. 102–245][/us/pl/102/245] added subsec. (d).
 
@@ -197,7 +197,7 @@
 
  __Enhancement of Science and Mathematics Programs__ 
 
-[Pub. L. 105–309, § 6][/us/pl/105/309/s6], Oct. 30, 1998, [112 Stat. 2936][/us/stat/112/2936], provided that:
+[Pub. L. 105–309][/us/pl/105/309], § 6, Oct. 30, 1998, [112 Stat. 2936][/us/stat/112/2936], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -229,13 +229,13 @@
 
  __Transmittal of Plan for Standards Conformity to Congress__ 
 
-[Pub. L. 104–113, § 12(c)][/us/pl/104/113/s12/c], Mar. 7, 1996, [110 Stat. 783][/us/stat/110/783], provided that: 
+[Pub. L. 104–113][/us/pl/104/113], § 12(c), Mar. 7, 1996, [110 Stat. 783][/us/stat/110/783], provided that: 
 
 > “The National Institute of Standards and Technology shall, within 90 days after the date of enactment of this Act \[Mar. 7, 1996\], transmit to the Congress a plan for implementing the amendments made by this section \[amending this section and enacting provisions set out as a note below\].”
 
  __Utilization of Consensus Technical Standards by Federal Agencies__ 
 
-[Pub. L. 104–113, § 12(d)][/us/pl/104/113/s12/d], Mar. 7, 1996, [110 Stat. 783][/us/stat/110/783], as amended by [Pub. L. 107–107, div. A, title XI, § 1115][/us/pl/107/107/s1115], Dec. 28, 2001, [115 Stat. 1241][/us/stat/115/1241], provided that:
+[Pub. L. 104–113][/us/pl/104/113], § 12(d), Mar. 7, 1996, [110 Stat. 783][/us/stat/110/783], as amended by [Pub. L. 107–107, div. A, title XI][/us/pl/107/107/dA/tXI], § 1115, Dec. 28, 2001, [115 Stat. 1241][/us/stat/115/1241], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -259,7 +259,7 @@
 
  __International Standards__ 
 
-[Pub. L. 100–519, title I, § 112][/us/pl/100/519/s112], Oct. 24, 1988, [102 Stat. 2592][/us/stat/102/2592], provided that:
+[Pub. L. 100–519, title I][/us/pl/100/519/tI], § 112, Oct. 24, 1988, [102 Stat. 2592][/us/stat/102/2592], provided that:
 
 >     “(a)  __Program__  __.—__ 
 
@@ -271,7 +271,7 @@
 
  __Initial Organization Plan for Institute__ 
 
-[Pub. L. 100–418, title V, § 5112(d)][/us/pl/100/418/s5112/d], Aug. 23, 1988, [102 Stat. 1431][/us/stat/102/1431], provided that:
+[Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5112(d), Aug. 23, 1988, [102 Stat. 1431][/us/stat/102/1431], provided that:
 
 >     “(1)
 
@@ -293,7 +293,7 @@
 
  __National Institute of Standards and Technology; Small Business Plan__ 
 
-[Pub. L. 100–418, title V, § 5163(b)][/us/pl/100/418/s5163/b], Aug. 23, 1988, [102 Stat. 1450][/us/stat/102/1450], provided that: 
+[Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5163(b), Aug. 23, 1988, [102 Stat. 1450][/us/stat/102/1450], provided that: 
 
 > “The Director of the National Institute of Standards and Technology shall prepare a plan detailing the manner in which the Institute will make small businesses more aware of the Institute’s activities and research, and the manner in which the Institute will seek to increase the application by small businesses of the Institute’s research, particularly in manufacturing. The plan shall be submitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives not later than 120 days after the date of the enactment of this Act \[Aug. 23, 1988\].”
 
@@ -313,58 +313,58 @@
 ----------
 
 [/us/usc/t42/s5195c/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195c%2Fe
-[/us/act/1901-03-03/ch872/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs2
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
 [/us/stat/31/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1449
-[/us/act/1950-07-22/ch486/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-22%2Fch486%2Fs1
+[/us/act/1950-07-22/ch486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-07-22%2Fch486
 [/us/stat/64/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F371
-[/us/pl/92/317/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F317%2Fs3%2Fb
+[/us/pl/92/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F317
 [/us/stat/86/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F235
-[/us/pl/100/235/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F235%2Fs3%2F1
+[/us/pl/100/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F235
 [/us/stat/101/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1724
-[/us/pl/100/418/s5112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5112%2Fa
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1428
-[/us/pl/102/245/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs201%2Fe
+[/us/pl/102/245/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtII
 [/us/stat/106/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F19
-[/us/pl/104/113/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs12%2Fa
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 [/us/stat/110/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F782
-[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIII
 [/us/stat/121/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F586
-[/us/pl/113/274/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs101%2Fa
+[/us/pl/113/274/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2FtI
 [/us/stat/128/2972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2972
 [/us/usc/t15/s278g–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933
-[/us/pl/113/274/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs101%2Fa
-[/us/pl/113/274/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs101%2Fb
-[/us/pl/110/69/s3002/c/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fc%2F2%2FA%2Fi
-[/us/pl/110/69/s3013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3013%2Fb
-[/us/pl/110/69/s3002/c/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fc%2F2%2FA%2Fii
-[/us/pl/104/113/s12/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs12%2Fa%2F1
-[/us/pl/104/113/s12/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs12%2Fa%2F2
-[/us/pl/104/113/s12/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs12%2Fb%2F3
+[/us/pl/113/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274
+[/us/pl/113/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 [/us/pl/102/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F235
 [/us/pl/92/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F317
-[/us/pl/105/309/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F309%2Fs6
+[/us/pl/105/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F309
 [/us/stat/112/2936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2936
 [/us/usc/t40/s549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs549
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/104/113/s12/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs12%2Fc
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 [/us/stat/110/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F783
-[/us/pl/104/113/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs12%2Fd
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 [/us/stat/110/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F783
-[/us/pl/107/107/s1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1115
+[/us/pl/107/107/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXI
 [/us/stat/115/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1241
 [/us/usc/t5/s5946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5946
-[/us/pl/100/519/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs112
+[/us/pl/100/519/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2FtI
 [/us/stat/102/2592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2592
-[/us/pl/100/418/s5112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5112%2Fd
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1431
 [/us/usc/t15/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs271
 [/us/act/1901-03-03/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fs2%2Fc
 [/us/usc/t15/s272/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs272%2Fc
 [/us/act/1901-03-03/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fs27
 [/us/usc/t15/s278m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278m
-[/us/pl/100/418/s5163/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5163%2Fb
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1450
 [/us/act/1949-10-25/ch703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-25%2Fch703
 [/us/stat/63/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F886

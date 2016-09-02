@@ -29,11 +29,11 @@
 
         As used in this chapter the term “energy information” shall have the meaning described in [section 796 of this title][/us/usc/t15/s796].
 
-([Pub. L. 93–275, § 51][/us/pl/93/275/s51], as added [Pub. L. 94–385, title I, § 142][/us/pl/94/385/s142], Aug. 14, 1976, [90 Stat. 1135][/us/stat/90/1135].)
+([Pub. L. 93–275][/us/pl/93/275], § 51, as added [Pub. L. 94–385, title I][/us/pl/94/385/tI], § 142, Aug. 14, 1976, [90 Stat. 1135][/us/stat/90/1135].)
 
  __Effective Date__ 
 
-[Pub. L. 94–385, title I, § 143][/us/pl/94/385/s143], Aug. 14, 1976, [90 Stat. 1140][/us/stat/90/1140], provided that: 
+[Pub. L. 94–385, title I][/us/pl/94/385/tI], § 143, Aug. 14, 1976, [90 Stat. 1140][/us/stat/90/1140], provided that: 
 
 > “The amendments made by this part C to the Federal Energy Administration Act of 1974 \[enacting this subchapter\] shall take effect 150 days after the date of enactment of this Act \[Aug. 14, 1976\], except that section 56(c) of the Federal Energy Administration Act of 1974 (as added by this part) \[[section 790e(c) of this title][/us/usc/t15/s790e/c]\] shall take effect on the date of enactment of this Act \[Aug. 14, 1976\].”
 
@@ -45,7 +45,7 @@
 
  __Congressional Findings and Purpose__ 
 
-[Pub. L. 94–385, title I, § 141][/us/pl/94/385/s141], Aug. 14, 1976, [90 Stat. 1135][/us/stat/90/1135], provided that:
+[Pub. L. 94–385, title I][/us/pl/94/385/tI], § 141, Aug. 14, 1976, [90 Stat. 1135][/us/stat/90/1135], provided that:
 
 >     “(a) The Congress finds that the public interest requires that decisionmaking, with respect to this Nation’s energy requirements and the sufficiency and availability of energy resources and supplies, be based on adequate, accurate, comparable, coordinated, and credible energy information.
 
@@ -63,14 +63,14 @@
 [/us/usc/t15/s797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs797
 [/us/usc/t15/s772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs772
 [/us/usc/t15/s796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs796
-[/us/pl/93/275/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs51
-[/us/pl/94/385/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs142
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
+[/us/pl/94/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtI
 [/us/stat/90/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1135
-[/us/pl/94/385/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs143
+[/us/pl/94/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtI
 [/us/stat/90/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1140
 [/us/usc/t15/s790e/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs790e%2Fc
 [/us/usc/t42/s7135/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7135%2Fc
-[/us/pl/94/385/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs141
+[/us/pl/94/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtI
 [/us/stat/90/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1135
 [/us/usc/t15/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs761
 

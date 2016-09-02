@@ -27,7 +27,7 @@
 
         For purposes of this section, the term “surplus natural gas” means any natural gas which is determined, by the State agency having regulatory jurisdiction over the intrastate pipeline which would be entitled to receive such natural gas in the absence of any assignment to exceed the then current demands on such pipeline for natural gas.
 
-([Pub. L. 95–621, title III, § 312][/us/pl/95/621/s312], Nov. 9, 1978, [92 Stat. 3392][/us/stat/92/3392]; [Pub. L. 101–60, § 3(b)(2)][/us/pl/101/60/s3/b/2], July 26, 1989, [103 Stat. 158][/us/stat/103/158].)
+([Pub. L. 95–621, title III][/us/pl/95/621/tIII], § 312, Nov. 9, 1978, [92 Stat. 3392][/us/stat/92/3392]; [Pub. L. 101–60][/us/pl/101/60], § 3(b)(2), July 26, 1989, [103 Stat. 158][/us/stat/103/158].)
 
  __References in Text__ 
 
@@ -56,9 +56,9 @@
 
 [/us/usc/t15/s3431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3431
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
-[/us/pl/95/621/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs312
+[/us/pl/95/621/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2FtIII
 [/us/stat/92/3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3392
-[/us/pl/101/60/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fb%2F2
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
 [/us/stat/103/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F158
 [/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F821

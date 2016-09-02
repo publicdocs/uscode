@@ -111,11 +111,11 @@
 
         The Commission may from time to time by its rules and regulations and subject to such terms and conditions as may be prescribed therein, add to the securities exempted as provided in this section any class of securities issued by a small business investment company under the Small Business Investment Act of 1958 \[[15 U.S.C. 661][/us/usc/t15/s661] et seq.\] if it finds, having regard to the purposes of that Act, that the enforcement of this subchapter with respect to such securities is not necessary in the public interest and for the protection of investors.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 3, [48 Stat. 75][/us/stat/48/75]; [June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title II, § 202, [48 Stat. 906][/us/stat/48/906]; [Feb. 4, 1887, ch. 104][/us/act/1887-02-04/ch104], title II, § 214, as added [Aug. 9, 1935, ch. 498][/us/act/1935-08-09/ch498], [49 Stat. 557][/us/stat/49/557]; amended [June 29, 1938, ch. 811, § 15][/us/act/1938-06-29/ch811/s15], [52 Stat. 1240][/us/stat/52/1240]; [May 15, 1945, ch. 122][/us/act/1945-05-15/ch122], [59 Stat. 167][/us/stat/59/167]; [Aug. 10, 1954, ch. 667][/us/act/1954-08-10/ch667], title I, § 5, [68 Stat. 684][/us/stat/68/684]; [Pub. L. 85–699, title III, § 307(a)][/us/pl/85/699/s307/a], Aug. 21, 1958, [72 Stat. 694][/us/stat/72/694]; [Pub. L. 91–373, title IV, § 401(a)][/us/pl/91/373/s401/a], Aug. 10, 1970, [84 Stat. 718][/us/stat/84/718]; [Pub. L. 91–547, § 27(b)][/us/pl/91/547/s27/b], (c), Dec. 14, 1970, [84 Stat. 1434][/us/stat/84/1434]; [Pub. L. 91–565][/us/pl/91/565], Dec. 19, 1970, [84 Stat. 1480][/us/stat/84/1480]; [Pub. L. 91–567, § 6(a)][/us/pl/91/567/s6/a], Dec. 22, 1970, [84 Stat. 1498][/us/stat/84/1498]; [Pub. L. 94–210, title III, § 308(a)(1)][/us/pl/94/210/s308/a/1], (3), Feb. 5, 1976, [90 Stat. 56][/us/stat/90/56], 57; [Pub. L. 95–283, § 18][/us/pl/95/283/s18], May 21, 1978, [92 Stat. 275][/us/stat/92/275]; [Pub. L. 95–425, § 2][/us/pl/95/425/s2], Oct. 6, 1978, [92 Stat. 962][/us/stat/92/962]; [Pub. L. 95–598, title III, § 306][/us/pl/95/598/s306], Nov. 6, 1978, [92 Stat. 2674][/us/stat/92/2674]; [Pub. L. 96–477, title III, § 301][/us/pl/96/477/s301], title VII, § 701, Oct. 21, 1980, [94 Stat. 2291][/us/stat/94/2291], 2294; [Pub. L. 97–261, § 19(d)][/us/pl/97/261/s19/d], Sept. 20, 1982, [96 Stat. 1121][/us/stat/96/1121]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–181, title II][/us/pl/100/181], §§ 203, 204, Dec. 4, 1987, [101 Stat. 1252][/us/stat/101/1252]; [Pub. L. 103–325, title III, § 320][/us/pl/103/325/s320], Sept. 23, 1994, [108 Stat. 2225][/us/stat/108/2225]; [Pub. L. 104–62, § 3][/us/pl/104/62/s3], Dec. 8, 1995, [109 Stat. 684][/us/stat/109/684]; [Pub. L. 104–290, title V, § 508(b)][/us/pl/104/290/s508/b], Oct. 11, 1996, [110 Stat. 3447][/us/stat/110/3447]; [Pub. L. 106–102, title II, § 221(a)][/us/pl/106/102/s221/a], Nov. 12, 1999, [113 Stat. 1401][/us/stat/113/1401]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 208(a)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–435; [Pub. L. 108–359, § 1(b)][/us/pl/108/359/s1/b], Oct. 25, 2004, [118 Stat. 1666][/us/stat/118/1666]; [Pub. L. 111–203, title IX, § 985(a)(1)][/us/pl/111/203/s985/a/1], July 21, 2010, [124 Stat. 1933][/us/stat/124/1933]; [Pub. L. 112–106, title IV, § 401(a)][/us/pl/112/106/s401/a], Apr. 5, 2012, [126 Stat. 323][/us/stat/126/323]; [Pub. L. 112–142, § 2][/us/pl/112/142/s2], July 9, 2012, [126 Stat. 989][/us/stat/126/989].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 3, [48 Stat. 75][/us/stat/48/75]; [June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title II, § 202, [48 Stat. 906][/us/stat/48/906]; [Feb. 4, 1887, ch. 104][/us/act/1887-02-04/ch104], title II, § 214, as added [Aug. 9, 1935, ch. 498][/us/act/1935-08-09/ch498], [49 Stat. 557][/us/stat/49/557]; amended [June 29, 1938, ch. 811][/us/act/1938-06-29/ch811], § 15, [52 Stat. 1240][/us/stat/52/1240]; [May 15, 1945, ch. 122][/us/act/1945-05-15/ch122], [59 Stat. 167][/us/stat/59/167]; [Aug. 10, 1954, ch. 667][/us/act/1954-08-10/ch667], title I, § 5, [68 Stat. 684][/us/stat/68/684]; [Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 307(a), Aug. 21, 1958, [72 Stat. 694][/us/stat/72/694]; [Pub. L. 91–373, title IV][/us/pl/91/373/tIV], § 401(a), Aug. 10, 1970, [84 Stat. 718][/us/stat/84/718]; [Pub. L. 91–547][/us/pl/91/547], § 27(b), (c), Dec. 14, 1970, [84 Stat. 1434][/us/stat/84/1434]; [Pub. L. 91–565][/us/pl/91/565], Dec. 19, 1970, [84 Stat. 1480][/us/stat/84/1480]; [Pub. L. 91–567][/us/pl/91/567], § 6(a), Dec. 22, 1970, [84 Stat. 1498][/us/stat/84/1498]; [Pub. L. 94–210, title III][/us/pl/94/210/tIII], § 308(a)(1), (3), Feb. 5, 1976, [90 Stat. 56][/us/stat/90/56], 57; [Pub. L. 95–283][/us/pl/95/283], § 18, May 21, 1978, [92 Stat. 275][/us/stat/92/275]; [Pub. L. 95–425][/us/pl/95/425], § 2, Oct. 6, 1978, [92 Stat. 962][/us/stat/92/962]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 306, Nov. 6, 1978, [92 Stat. 2674][/us/stat/92/2674]; [Pub. L. 96–477, title III][/us/pl/96/477/tIII], § 301, title VII, § 701, Oct. 21, 1980, [94 Stat. 2291][/us/stat/94/2291], 2294; [Pub. L. 97–261][/us/pl/97/261], § 19(d), Sept. 20, 1982, [96 Stat. 1121][/us/stat/96/1121]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 100–181, title II][/us/pl/100/181/tII], §§ 203, 204, Dec. 4, 1987, [101 Stat. 1252][/us/stat/101/1252]; [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 320, Sept. 23, 1994, [108 Stat. 2225][/us/stat/108/2225]; [Pub. L. 104–62][/us/pl/104/62], § 3, Dec. 8, 1995, [109 Stat. 684][/us/stat/109/684]; [Pub. L. 104–290, title V][/us/pl/104/290/tV], § 508(b), Oct. 11, 1996, [110 Stat. 3447][/us/stat/110/3447]; [Pub. L. 106–102, title II][/us/pl/106/102/tII], § 221(a), Nov. 12, 1999, [113 Stat. 1401][/us/stat/113/1401]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 208(a)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–435; [Pub. L. 108–359][/us/pl/108/359], § 1(b), Oct. 25, 2004, [118 Stat. 1666][/us/stat/118/1666]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 985(a)(1), July 21, 2010, [124 Stat. 1933][/us/stat/124/1933]; [Pub. L. 112–106, title IV][/us/pl/112/106/tIV], § 401(a), Apr. 5, 2012, [126 Stat. 323][/us/stat/126/323]; [Pub. L. 112–142][/us/pl/112/142], § 2, July 9, 2012, [126 Stat. 989][/us/stat/126/989].)
 
  __References in Text__ 
 
-    [Section 103 of title 26][/us/usc/t26/s103], referred to in subsec. (a)(2), which related to interest on certain governmental obligations was amended generally by [Pub. L. 99–514, title XIII, § 1301(a)][/us/pl/99/514/s1301/a], Oct. 22, 1986, [100 Stat. 2602][/us/stat/100/2602], and as so amended relates to interest on State and local bonds. Section 103(b)(2) (formerly section 103(c)(2)), which prior to the general amendment defined industrial development bond, relates to the applicability of the interest exclusion to arbitrage bonds.
+    [Section 103 of title 26][/us/usc/t26/s103], referred to in subsec. (a)(2), which related to interest on certain governmental obligations was amended generally by [Pub. L. 99–514, title XIII][/us/pl/99/514/tXIII], § 1301(a), Oct. 22, 1986, [100 Stat. 2602][/us/stat/100/2602], and as so amended relates to interest on State and local bonds. Section 103(b)(2) (formerly section 103(c)(2)), which prior to the general amendment defined industrial development bond, relates to the applicability of the interest exclusion to arbitrage bonds.
 
     The Investment Company Act of 1940, referred to in subsec. (a)(2), is title I of [act Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], [54 Stat. 789][/us/stat/54/789], as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title][/us/usc/t15/s80a–51] and Tables.
 
@@ -145,21 +145,21 @@
 
     1994—Subsec. (a)(12). [Pub. L. 103–325][/us/pl/103/325] added par. (12).
 
-    1987—Subsec. (a)(1). [Pub. L. 100–181, § 203][/us/pl/100/181/s203], substituted “Reserved.” for “Any security which, prior to or within sixty days after May 27, 1933, has been sold or disposed of by the issuer or bona fide offered to the public, but this exemption shall not apply to any new offering of any such security by an issuer or underwriter subsequent to such sixty days;”.
+    1987—Subsec. (a)(1). [Pub. L. 100–181][/us/pl/100/181], § 203, substituted “Reserved.” for “Any security which, prior to or within sixty days after May 27, 1933, has been sold or disposed of by the issuer or bona fide offered to the public, but this exemption shall not apply to any new offering of any such security by an issuer or underwriter subsequent to such sixty days;”.
 
-    Subsec. (a)(5)(A). [Pub. L. 100–181, § 204][/us/pl/100/181/s204], struck out “, except that the foregoing exemption shall not apply with respect to any such security where the issuer takes from the total amount paid or deposited by the purchaser, by way of any fee, cash value or other device whatsoever, either upon termination of the investment at maturity or before maturity, an aggregate amount in excess of 3 per centum of the face value of such security” after “any such institution”.
+    Subsec. (a)(5)(A). [Pub. L. 100–181][/us/pl/100/181], § 204, struck out “, except that the foregoing exemption shall not apply with respect to any such security where the issuer takes from the total amount paid or deposited by the purchaser, by way of any fee, cash value or other device whatsoever, either upon termination of the investment at maturity or before maturity, an aggregate amount in excess of 3 per centum of the face value of such security” after “any such institution”.
 
     1986—Subsec. (a)(2), (5). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
     1982—Subsec. (a)(6). [Pub. L. 97–261][/us/pl/97/261] struck out provisions relating to any security issued by a motor carrier subject to provisions of section 314 \[11302\] of title 49.
 
-    1980—Subsec. (a)(2). [Pub. L. 96–477, § 701][/us/pl/96/477/s701], provided that single trust funds did not have to be maintained by banks in order to qualify for exemption from the provisions of this subchapter, substituted provisions relating to securities arising out of contracts issued by insurance companies for provisions relating to separate accounts maintained by insurance companies, provided that an interest, participation, or security could be issued in connection with certain governmental plans as defined in [section 414(d) of title 26][/us/usc/t26/s414/d] and qualify for exemption from the provisions of this subchapter, and excluded from exemption plans described in cls. (A), (B), or (C) of par. (2) which were funded by annuity contracts described in [section 403(b) of title 26][/us/usc/t26/s403/b].
+    1980—Subsec. (a)(2). [Pub. L. 96–477][/us/pl/96/477], § 701, provided that single trust funds did not have to be maintained by banks in order to qualify for exemption from the provisions of this subchapter, substituted provisions relating to securities arising out of contracts issued by insurance companies for provisions relating to separate accounts maintained by insurance companies, provided that an interest, participation, or security could be issued in connection with certain governmental plans as defined in [section 414(d) of title 26][/us/usc/t26/s414/d] and qualify for exemption from the provisions of this subchapter, and excluded from exemption plans described in cls. (A), (B), or (C) of par. (2) which were funded by annuity contracts described in [section 403(b) of title 26][/us/usc/t26/s403/b].
 
-    Subsec. (b). [Pub. L. 96–477, § 301][/us/pl/96/477/s301], substituted “$5,000,000” for “$2,000,000”.
+    Subsec. (b). [Pub. L. 96–477][/us/pl/96/477], § 301, substituted “$5,000,000” for “$2,000,000”.
 
-    1978—Subsec. (a)(7). [Pub. L. 95–598, § 306(a)][/us/pl/95/598/s306/a], substituted “or debtor in possession in a case under title 11” for “in bankruptcy”.
+    1978—Subsec. (a)(7). [Pub. L. 95–598][/us/pl/95/598], § 306(a), substituted “or debtor in possession in a case under title 11” for “in bankruptcy”.
 
-    Subsec. (a)(9), (10). [Pub. L. 95–598, § 306(b)][/us/pl/95/598/s306/b], substituted “Except with respect to a security exchanged in a case under title 11, any” for “Any”.
+    Subsec. (a)(9), (10). [Pub. L. 95–598][/us/pl/95/598], § 306(b), substituted “Except with respect to a security exchanged in a case under title 11, any” for “Any”.
 
     Subsec. (b). [Pub. L. 95–425][/us/pl/95/425] substituted “$2,000,000” for “$1,500,000”.
 
@@ -169,11 +169,11 @@
 
     1970—Subsec. (a)(2). [Pub. L. 91–567][/us/pl/91/567] exempted any interest or participation in any common trust fund or similar fund maintained by a bank exclusively for the collective investment and reinvestment of assets contributed thereto by such bank in its capacity as trustee, executor, administrator, or guardian, any security which is an industrial development bond the interest on which is excludable from gross income under [section 103(a)(1) of title 26][/us/usc/t26/s103/a/1], any interest or participation in a single or collective trust fund maintained by a bank or in a separate account maintained by an insurance company which interest or participation is issued in connection with a stock bonus, pension, or profit-sharing plan which meets the requirements for qualification under [section 401 of title 26][/us/usc/t26/s401], or an annuity plan which meets the requirements for the deduction of the employer’s contribution under [section 404(a)(2) of title 26][/us/usc/t26/s404/a/2], directed the Commission to exempt from the provisions of [section 77e of this title][/us/usc/t15/s77e] any interest or participation issued in connection with a stock bonus, pension, profit-sharing, or annuity plan which covers employees some or all of whom are employees within the meaning of [section 401(c)(1) of title 26][/us/usc/t26/s401/c/1] if and to the extent that the Commission determines this to be necessary or appropriate in the public interest and consistent with the protection of investors, and provided that for the purposes of this paragraph a security issued or guaranteed by a bank shall not include any interest or participation in any collective trust fund maintained by a bank, and that in the case of a common trust fund or similar fund, or a collective trust fund, the term “bank” has the same meaning as in the Investment Company Act of 1940.
 
-    [Pub. L. 91–547, § 27(b)][/us/pl/91/547/s27/b], struck out reference to industrial development bonds the interest on which is excludable from gross income under [section 103(a)(1) of title 26][/us/usc/t26/s103/a/1]; and exempted from registration provisions interests or participations in common trust funds maintained by a bank for collective investment of assets held by it in a fiduciary capacity interests or participations in bank collective trust funds maintained for funding of employees’ stock bonus, pension, or profit-sharing plans; interests or participations in separate accounts maintained by insurance companies for funding certain stock-bonus, pension, or profit-sharing plans which meet the requirements for qualification under [section 401 of title 26][/us/usc/t26/s401]; and interests or participations issued by bank collective trust funds or insurance company separate accounts for funding certain stock-bonus, pension, profit-sharing, or annuity plans when the Commission by rule, regulation, or order determines this to be necessary in the public interest; provided that a security issued or guaranteed by a bank shall not include any interest or participation in any collective trust fund maintained by a bank; substituted where first appearing “security issued or guaranteed by any bank” for “security issued or guaranteed by any national bank, or by any banking institution organized under the laws of any State or Territory or the District of Columbia, the business of which is substantially confined to banking and is supervised by the State or Territorial banking commission or similar official”, the latter provision now incorporated in a separate definition of term “bank”; and made the Investment Company Act definition of bank applicable as in the case of a common trust fund or similar fund, or a collective trust fund.
+    [Pub. L. 91–547][/us/pl/91/547], § 27(b), struck out reference to industrial development bonds the interest on which is excludable from gross income under [section 103(a)(1) of title 26][/us/usc/t26/s103/a/1]; and exempted from registration provisions interests or participations in common trust funds maintained by a bank for collective investment of assets held by it in a fiduciary capacity interests or participations in bank collective trust funds maintained for funding of employees’ stock bonus, pension, or profit-sharing plans; interests or participations in separate accounts maintained by insurance companies for funding certain stock-bonus, pension, or profit-sharing plans which meet the requirements for qualification under [section 401 of title 26][/us/usc/t26/s401]; and interests or participations issued by bank collective trust funds or insurance company separate accounts for funding certain stock-bonus, pension, profit-sharing, or annuity plans when the Commission by rule, regulation, or order determines this to be necessary in the public interest; provided that a security issued or guaranteed by a bank shall not include any interest or participation in any collective trust fund maintained by a bank; substituted where first appearing “security issued or guaranteed by any bank” for “security issued or guaranteed by any national bank, or by any banking institution organized under the laws of any State or Territory or the District of Columbia, the business of which is substantially confined to banking and is supervised by the State or Territorial banking commission or similar official”, the latter provision now incorporated in a separate definition of term “bank”; and made the Investment Company Act definition of bank applicable as in the case of a common trust fund or similar fund, or a collective trust fund.
 
     [Pub. L. 91–373][/us/pl/91/373] inserted reference to industrial development bonds the interest on which is excludable from gross income under [section 103(a)(1) of title 26][/us/usc/t26/s103/a/1].
 
-    Subsec. (a)(5). [Pub. L. 91–547, § 27(c)][/us/pl/91/547/s27/c], designated existing provisions as cl. (A), included cooperative bank issues, required the issuer to be an institution which is supervised and examined by State or Federal authority having supervision over such institution, struck out “substantially all the business of which is confined to the making of loans to members” after “similar institution” and substituted provisions designated as cl. (B) for prior provision relating to a security issued by a farmers’ cooperative association as defined in paragraphs (12), (13), and (14) of section 103 of the Revenue Act of 1932.
+    Subsec. (a)(5). [Pub. L. 91–547][/us/pl/91/547], § 27(c), designated existing provisions as cl. (A), included cooperative bank issues, required the issuer to be an institution which is supervised and examined by State or Federal authority having supervision over such institution, struck out “substantially all the business of which is confined to the making of loans to members” after “similar institution” and substituted provisions designated as cl. (B) for prior provision relating to a security issued by a farmers’ cooperative association as defined in paragraphs (12), (13), and (14) of section 103 of the Revenue Act of 1932.
 
     Subsec. (b). [Pub. L. 91–565][/us/pl/91/565] substituted “$500,000” for “$300,000”.
 
@@ -195,19 +195,19 @@
 
  __Effective Date of 1999 Amendment__ 
 
-[Pub. L. 106–102, title II, § 225][/us/pl/106/102/s225], Nov. 12, 1999, [113 Stat. 1402][/us/stat/113/1402], provided that: 
+[Pub. L. 106–102, title II][/us/pl/106/102/tII], § 225, Nov. 12, 1999, [113 Stat. 1402][/us/stat/113/1402], provided that: 
 
 > “This subtitle \[subtitle B (§§ 211–225) of title II of [Pub. L. 106–102][/us/pl/106/102], enacting [section 80b–10a of this title][/us/usc/t15/s80b–10a] and amending this section and sections 78c, 80a–2, 80a–3, 80a–9, 80a–10, 80a–17, 80a–26, 80a–34, and 80b–2 of this title\] shall take effect 18 months after the date of the enactment of this Act \[Nov. 12, 1999\].”
 
  __Effective Date of 1995 Amendment__ 
 
-[Pub. L. 104–62, § 7][/us/pl/104/62/s7], Dec. 8, 1995, [109 Stat. 686][/us/stat/109/686], provided that: 
+[Pub. L. 104–62][/us/pl/104/62], § 7, Dec. 8, 1995, [109 Stat. 686][/us/stat/109/686], provided that: 
 
 > “This Act \[enacting [section 80a–3a of this title][/us/usc/t15/s80a–3a], amending this section and sections 78c, 78l, 80a–3, 80a–7, and 80b–3 of this title, and enacting provisions set out as a note under [section 80a–51 of this title][/us/usc/t15/s80a–51]\] and the amendments made by this Act shall apply in all administrative and judicial actions pending on or commenced after the date of enactment of this Act \[Dec. 8, 1995\], as a defense to any claim that any person, security, interest, or participation of the type described in this Act and the amendments made by this Act is subject to the provisions of the Securities Act of 1933 \[[15 U.S.C. 77a][/us/usc/t15/s77a] et seq.\], the Securities Exchange Act of 1934 \[[15 U.S.C. 78a][/us/usc/t15/s78a] et seq.\], the Investment Company Act of 1940 \[[15 U.S.C. 80a–1][/us/usc/t15/s80a–1] et seq.\], or the Investment Advisers Act of 1940 \[[15 U.S.C. 80b–1][/us/usc/t15/s80b–1] et seq.\], or any State statute or regulation preempted as provided in section 6 of this Act \[enacting [section 80a–3a of this title][/us/usc/t15/s80a–3a]\], except as otherwise specifically provided in such Acts or State law.”
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–261, § 31][/us/pl/97/261/s31], Sept. 20, 1982, [96 Stat. 1129][/us/stat/96/1129], provided that:
+[Pub. L. 97–261][/us/pl/97/261], § 31, Sept. 20, 1982, [96 Stat. 1129][/us/stat/96/1129], provided that:
 
 >     “(a) Except as provided in subsections (b) and (c) of this section, this Act \[see Tables for classification\] shall take effect on the 60th day after the date of enactment of this Act \[Sept. 20, 1982\].
 
@@ -221,19 +221,19 @@
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–210, § 308(d)(1)][/us/pl/94/210/s308/d/1], Feb. 5, 1976, [90 Stat. 57][/us/stat/90/57], provided that: 
+[Pub. L. 94–210][/us/pl/94/210], § 308(d)(1), Feb. 5, 1976, [90 Stat. 57][/us/stat/90/57], provided that: 
 
 > “The amendments made by subsection (a) of this section \[amending this section, [section 77s of this title][/us/usc/t15/s77s], and section 314 of former Title 49, Transportation\] shall take effect on the 60th day after the date of enactment of this Act \[Feb. 5, 1976\], but shall not apply to any bona fide offering of a security made by the issuer, or by or through an underwriter, before such 60th day.”
 
  __Effective Date of 1970 Amendments__ 
 
-[Pub. L. 91–567, § 6(d)][/us/pl/91/567/s6/d], Dec. 22, 1970, [84 Stat. 1499][/us/stat/84/1499], provided that: 
+[Pub. L. 91–567][/us/pl/91/567], § 6(d), Dec. 22, 1970, [84 Stat. 1499][/us/stat/84/1499], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 77ddd and 78c of this title\] shall apply with respect to securities sold after January 1, 1970.”
 
     Amendment by [Pub. L. 91–547][/us/pl/91/547] effective Dec. 14, 1970, see [section 30 of Pub. L. 91–547][/us/pl/91/547/s30], set out as a note under [section 80a–52 of this title][/us/usc/t15/s80a–52].
 
-[Pub. L. 91–373, title IV, § 401(c)][/us/pl/91/373/s401/c], Aug. 10, 1970, [84 Stat. 718][/us/stat/84/718], provided that: 
+[Pub. L. 91–373, title IV][/us/pl/91/373/tIV], § 401(c), Aug. 10, 1970, [84 Stat. 718][/us/stat/84/718], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 78c of this title][/us/usc/t15/s78c]\] shall apply with respect to securities sold after January 1, 1970.”
 
@@ -243,7 +243,7 @@
 
  __Repeals__ 
 
-    Section 214 of act Feb. 4, 1887 (the Interstate Commerce Act), as added [Aug. 9, 1935, ch. 498][/us/act/1935-08-09/ch498], [49 Stat. 557][/us/stat/49/557], cited as a credit to this section, was repealed by [Pub. L. 97–449, § 7(b)][/us/pl/97/449/s7/b], Jan. 12, 1983, [96 Stat. 2443][/us/stat/96/2443], 2444.
+    Section 214 of act Feb. 4, 1887 (the Interstate Commerce Act), as added [Aug. 9, 1935, ch. 498][/us/act/1935-08-09/ch498], [49 Stat. 557][/us/stat/49/557], cited as a credit to this section, was repealed by [Pub. L. 97–449][/us/pl/97/449], § 7(b), Jan. 12, 1983, [96 Stat. 2443][/us/stat/96/2443], 2444.
 
  __Transfer of Functions__ 
 
@@ -251,7 +251,7 @@
 
  __Further Promoting the Adoption of the NAIC Model Regulations That Enhance Protection of Seniors and Other Consumers__ 
 
-[Pub. L. 111–203, title IX, § 989J][/us/pl/111/203/s989J], July 21, 2010, [124 Stat. 1949][/us/stat/124/1949], provided that:
+[Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 989J, July 21, 2010, [124 Stat. 1949][/us/stat/124/1949], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -289,7 +289,7 @@
 
  __Securities and Investment Company Provisions Inapplicable to Certain Life Insurance Benefits Issued Prior to__  __March 23, 1959__ 
 
-[Pub. L. 91–547, § 29][/us/pl/91/547/s29], Dec. 14, 1970, [84 Stat. 1436][/us/stat/84/1436], provided that: 
+[Pub. L. 91–547][/us/pl/91/547], § 29, Dec. 14, 1970, [84 Stat. 1436][/us/stat/84/1436], provided that: 
 
 > “The provisions of the Securities Act of 1933 \[this subchapter\] and the Investment Company Act of 1940 \[section 80a–1 et seq. of this title\] shall not apply, except for purposes of definition of terms used in this section, to any interest or participation (including any separate account or other fund providing for the sharing of income or gains and losses, and any interest or participation in such account or fund) in any contract, certificate, or policy providing for life insurance benefits which was issued prior to March 23, 1959, by an insurance company, if (1) the form of such contract, certificate, or policy was approved by the insurance commissioner, or similar official or agency, of a State, territory or the District of Columbia, and (2) under such contract, certificate, or policy not to exceed 49 per centum of the gross premiums or other consideration paid was to be allocated to a separate account or other fund providing for the sharing of income or gains and losses. Nothing herein contained shall be taken to imply that any such interest or participation constitutes a ‘security’ under any other laws of the United States.”
 
@@ -333,58 +333,58 @@
 [/us/act/1887-02-04/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1887-02-04%2Fch104
 [/us/act/1935-08-09/ch498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-09%2Fch498
 [/us/stat/49/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F557
-[/us/act/1938-06-29/ch811/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-29%2Fch811%2Fs15
+[/us/act/1938-06-29/ch811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-29%2Fch811
 [/us/stat/52/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1240
 [/us/act/1945-05-15/ch122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-05-15%2Fch122
 [/us/stat/59/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F167
 [/us/act/1954-08-10/ch667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-10%2Fch667
 [/us/stat/68/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F684
-[/us/pl/85/699/s307/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs307%2Fa
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
 [/us/stat/72/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F694
-[/us/pl/91/373/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs401%2Fa
+[/us/pl/91/373/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtIV
 [/us/stat/84/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F718
-[/us/pl/91/547/s27/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs27%2Fb
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1434
 [/us/pl/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F565
 [/us/stat/84/1480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1480
-[/us/pl/91/567/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F567%2Fs6%2Fa
+[/us/pl/91/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F567
 [/us/stat/84/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1498
-[/us/pl/94/210/s308/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F210%2Fs308%2Fa%2F1
+[/us/pl/94/210/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F210%2FtIII
 [/us/stat/90/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F56
-[/us/pl/95/283/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs18
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/stat/92/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F275
-[/us/pl/95/425/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F425%2Fs2
+[/us/pl/95/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F425
 [/us/stat/92/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F962
-[/us/pl/95/598/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs306
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2674
-[/us/pl/96/477/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2Fs301
+[/us/pl/96/477/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2FtIII
 [/us/stat/94/2291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2291
-[/us/pl/97/261/s19/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261%2Fs19%2Fd
+[/us/pl/97/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261
 [/us/stat/96/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1121
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtII
 [/us/stat/101/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1252
-[/us/pl/103/325/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs320
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2225
-[/us/pl/104/62/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F62%2Fs3
+[/us/pl/104/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F62
 [/us/stat/109/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F684
-[/us/pl/104/290/s508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs508%2Fb
+[/us/pl/104/290/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtV
 [/us/stat/110/3447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3447
-[/us/pl/106/102/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs221%2Fa
+[/us/pl/106/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtII
 [/us/stat/113/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1401
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/359/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F359%2Fs1%2Fb
+[/us/pl/108/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F359
 [/us/stat/118/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1666
-[/us/pl/111/203/s985/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs985%2Fa%2F1
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1933
-[/us/pl/112/106/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs401%2Fa
+[/us/pl/112/106/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtIV
 [/us/stat/126/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F323
-[/us/pl/112/142/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F142%2Fs2
+[/us/pl/112/142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F142
 [/us/stat/126/989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F989
 [/us/usc/t26/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs103
-[/us/pl/99/514/s1301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1301%2Fa
+[/us/pl/99/514/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXIII
 [/us/stat/100/2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2602
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F789
@@ -408,16 +408,16 @@
 [/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
 [/us/pl/104/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F62
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
-[/us/pl/100/181/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs203
-[/us/pl/100/181/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs204
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261
-[/us/pl/96/477/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2Fs701
+[/us/pl/96/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477
 [/us/usc/t26/s414/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs414%2Fd
 [/us/usc/t26/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs403%2Fb
-[/us/pl/96/477/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2Fs301
-[/us/pl/95/598/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs306%2Fa
-[/us/pl/95/598/s306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs306%2Fb
+[/us/pl/96/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/95/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F425
 [/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/pl/94/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F210
@@ -429,22 +429,22 @@
 [/us/usc/t26/s404/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404%2Fa%2F2
 [/us/usc/t15/s77e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77e
 [/us/usc/t26/s401/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401%2Fc%2F1
-[/us/pl/91/547/s27/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs27%2Fb
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/usc/t26/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs103%2Fa%2F1
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/pl/91/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373
 [/us/usc/t26/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs103%2Fa%2F1
-[/us/pl/91/547/s27/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs27%2Fc
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/pl/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F565
 [/us/pl/85/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/106/102/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs225
+[/us/pl/106/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtII
 [/us/stat/113/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1402
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/usc/t15/s80b–10a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%9310a
-[/us/pl/104/62/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F62%2Fs7
+[/us/pl/104/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F62
 [/us/stat/109/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F686
 [/us/usc/t15/s80a–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%933a
 [/us/usc/t15/s80a–51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9351
@@ -453,37 +453,37 @@
 [/us/usc/t15/s80a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%931
 [/us/usc/t15/s80b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%931
 [/us/usc/t15/s80a–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%933a
-[/us/pl/97/261/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261%2Fs31
+[/us/pl/97/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F261
 [/us/stat/96/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1129
 [/us/usc/t49/s10706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs10706
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/95/598/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402%2Fa
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101
-[/us/pl/94/210/s308/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F210%2Fs308%2Fd%2F1
+[/us/pl/94/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F210
 [/us/stat/90/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F57
 [/us/usc/t15/s77s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77s
-[/us/pl/91/567/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F567%2Fs6%2Fd
+[/us/pl/91/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F567
 [/us/stat/84/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1499
 [/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/pl/91/547/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs30
 [/us/usc/t15/s80a–52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9352
-[/us/pl/91/373/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2Fs401%2Fc
+[/us/pl/91/373/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F373%2FtIV
 [/us/stat/84/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F718
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
 [/us/usc/t15/s77b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77b
 [/us/act/1935-08-09/ch498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-09%2Fch498
 [/us/stat/49/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F557
-[/us/pl/97/449/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs7%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2443
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t15/s78d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d
-[/us/pl/111/203/s989J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs989J
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1949
 [/us/usc/t15/s77c/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77c%2Fa%2F8
 [/us/usc/t15/s77c/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77c%2Fa%2F8
 [/us/pl/111/203/s989J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs989J
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/91/547/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs29
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1436
 
 

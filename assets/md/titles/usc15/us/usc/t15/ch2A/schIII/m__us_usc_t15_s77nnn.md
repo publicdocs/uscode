@@ -75,21 +75,21 @@
 
         Nothing in this section shall be construed either as requiring the inclusion in the indenture to be qualified of provisions that the obligor upon the indenture securities shall furnish to the indenture trustee any other evidence of compliance with the conditions and covenants provided for in the indenture than the evidence specified in this section, or as preventing the inclusion of such provisions in such indenture, if the parties so agree.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 314, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1167][/us/stat/53/1167]; amended [Pub. L. 101–550, title IV, § 413][/us/pl/101/550/s413], Nov. 15, 1990, [104 Stat. 2729][/us/stat/104/2729].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 314, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1167][/us/stat/53/1167]; amended [Pub. L. 101–550, title IV][/us/pl/101/550/tIV], § 413, Nov. 15, 1990, [104 Stat. 2729][/us/stat/104/2729].)
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–550, § 413(1)][/us/pl/101/550/s413/1]–(6), in introductory provision substituted “Each” for “The indenture to be qualified shall contain provisions requiring each” and inserted “shall” after “thereby” and in pars. (1) to (3) struck out “to” after the paragraph designation, and directed the addition of par. (4) at the end which was executed by inserting par. (4) after par. (3) to reflect the probable intent of Congress.
+    1990—Subsec. (a). [Pub. L. 101–550][/us/pl/101/550], § 413(1)–(6), in introductory provision substituted “Each” for “The indenture to be qualified shall contain provisions requiring each” and inserted “shall” after “thereby” and in pars. (1) to (3) struck out “to” after the paragraph designation, and directed the addition of par. (4) at the end which was executed by inserting par. (4) after par. (3) to reflect the probable intent of Congress.
 
-    Subsec. (b). [Pub. L. 101–550, § 413(7)][/us/pl/101/550/s413/7], (8), struck out “such indenture shall contain provisions requiring” before “the obligor” and substituted “securities shall furnish” for “securities to furnish”.
+    Subsec. (b). [Pub. L. 101–550][/us/pl/101/550], § 413(7), (8), struck out “such indenture shall contain provisions requiring” before “the obligor” and substituted “securities shall furnish” for “securities to furnish”.
 
-    Subsec. (c). [Pub. L. 101–550, § 413(9)][/us/pl/101/550/s413/9], (10), substituted “The obligor” for “The indenture to be qualified shall contain provisions requiring the obligor” and “securities shall furnish” for “securities to furnish”.
+    Subsec. (c). [Pub. L. 101–550][/us/pl/101/550], § 413(9), (10), substituted “The obligor” for “The indenture to be qualified shall contain provisions requiring the obligor” and “securities shall furnish” for “securities to furnish”.
 
-    Subsec. (d). [Pub. L. 101–550, § 413(11)][/us/pl/101/550/s413/11], (13), (14), substituted “the obligor upon the indenture securities shall furnish to the indenture trustee a certificate or opinion of an engineer, appraiser, or other expert as to the fair value” for “such indenture shall contain provisions” in introductory provisions and “The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that such provision is excluded) to provide that” for “If the indenture to be qualified so provides,” and “duly authorized to make such certificate or opinion by the obligor from time to time” for “specified in the indenture” in penultimate sentence.
+    Subsec. (d). [Pub. L. 101–550][/us/pl/101/550], § 413(11), (13), (14), substituted “the obligor upon the indenture securities shall furnish to the indenture trustee a certificate or opinion of an engineer, appraiser, or other expert as to the fair value” for “such indenture shall contain provisions” in introductory provisions and “The indenture to be qualified shall automatically be deemed (unless it is expressly provided therein that such provision is excluded) to provide that” for “If the indenture to be qualified so provides,” and “duly authorized to make such certificate or opinion by the obligor from time to time” for “specified in the indenture” in penultimate sentence.
 
-    Subsec. (d)(1) to (3). [Pub. L. 101–550, § 413(12)][/us/pl/101/550/s413/12], which directed that “requiring the obligor upon the indenture securities to furnish to the indenture trustee a certificate or opinion of an engineer, appraiser or other expert as to the fair value” be struck out after the paragraph designations in pars. (1) to (3), was executed by striking out “requiring the obligor upon the indenture securities to furnish to the indenture trustee a certificate or opinion of an engineer, appraiser, or other expert as to the fair value”, as the probable intent of Congress.
+    Subsec. (d)(1) to (3). [Pub. L. 101–550][/us/pl/101/550], § 413(12), which directed that “requiring the obligor upon the indenture securities to furnish to the indenture trustee a certificate or opinion of an engineer, appraiser or other expert as to the fair value” be struck out after the paragraph designations in pars. (1) to (3), was executed by striking out “requiring the obligor upon the indenture securities to furnish to the indenture trustee a certificate or opinion of an engineer, appraiser, or other expert as to the fair value”, as the probable intent of Congress.
 
-    Subsec. (e). [Pub. L. 101–550, § 413(15)][/us/pl/101/550/s413/15], inserted “(other than certificates provided pursuant to subsection (a)(4) of this section)” after “indenture”.
+    Subsec. (e). [Pub. L. 101–550][/us/pl/101/550], § 413(15), inserted “(other than certificates provided pursuant to subsection (a)(4) of this section)” after “indenture”.
 
  __Transfer of Functions__ 
 
@@ -107,14 +107,14 @@
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/act/1939-08-03/ch411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-03%2Fch411
 [/us/stat/53/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1167
-[/us/pl/101/550/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs413
+[/us/pl/101/550/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtIV
 [/us/stat/104/2729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2729
-[/us/pl/101/550/s413/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs413%2F1
-[/us/pl/101/550/s413/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs413%2F7
-[/us/pl/101/550/s413/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs413%2F9
-[/us/pl/101/550/s413/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs413%2F11
-[/us/pl/101/550/s413/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs413%2F12
-[/us/pl/101/550/s413/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs413%2F15
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t15/s78d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d
 

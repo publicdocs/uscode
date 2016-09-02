@@ -17,7 +17,7 @@
 
     The Director shall have authority from time to time to make, issue, amend, and rescind such rules and regulations and such orders as are necessary or appropriate to the exercise of the functions and powers conferred upon him elsewhere in this chapter. For the purpose of his rules and regulations, the Director may classify persons and matters within his jurisdiction and prescribe different requirements for different classes of persons or matters.
 
-([Pub. L. 90–448, title XIV, § 1419][/us/pl/90/448/s1419], Aug. 1, 1968, [82 Stat. 598][/us/stat/82/598]; [Pub. L. 111–203, title X, § 1098A(1)][/us/pl/111/203/s1098A/1], July 21, 2010, [124 Stat. 2105][/us/stat/124/2105].)
+([Pub. L. 90–448, title XIV][/us/pl/90/448/tXIV], § 1419, Aug. 1, 1968, [82 Stat. 598][/us/stat/82/598]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1098A(1), July 21, 2010, [124 Stat. 2105][/us/stat/124/2105].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/90/448/s1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1419
+[/us/pl/90/448/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIV
 [/us/stat/82/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F598
-[/us/pl/111/203/s1098A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098A%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2105
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

@@ -37,7 +37,7 @@
 
         To assist and evaluate the enforcement of this section, and the broader equal employment opportunity policies of this chapter the Secretary of Labor shall include, in the annual report referred to in [section 1022a(f)(2)(B) of this title][/us/usc/t15/s1022a/f/2/B], a detailed analysis of the extent to which the enforcement of this section achieves positive results in both the quantity and quality of jobs, and for employment opportunities generally.
 
-([Pub. L. 95–523, title IV, § 401][/us/pl/95/523/s401], Oct. 27, 1978, [92 Stat. 1907][/us/stat/92/1907]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(12)(B)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–421.)
+([Pub. L. 95–523, title IV][/us/pl/95/523/tIV], § 401, Oct. 27, 1978, [92 Stat. 1907][/us/stat/92/1907]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(12)(B)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–421.)
 
  __References in Text__ 
 
@@ -58,9 +58,9 @@
 
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
 [/us/usc/t15/s1022a/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1022a%2Ff%2F2%2FB
-[/us/pl/95/523/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs401
+[/us/pl/95/523/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2FtIV
 [/us/stat/92/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1907
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/usc/t15/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3102
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352

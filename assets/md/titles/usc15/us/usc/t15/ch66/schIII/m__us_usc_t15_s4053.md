@@ -39,7 +39,7 @@
 
         The Secretary of Energy shall report to the Congress on the effect on energy security and on domestic energy supplies of any action taken under this section which results in the acquisition by the Government of petroleum or petroleum products. Such report shall be submitted to the Congress not later than 90 days after such acquisition.
 
-([Pub. L. 99–64, title II, § 203][/us/pl/99/64/s203], July 12, 1985, [99 Stat. 158][/us/stat/99/158].)
+([Pub. L. 99–64, title II][/us/pl/99/64/tII], § 203, July 12, 1985, [99 Stat. 158][/us/stat/99/158].)
 
  __Codification__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/99/64/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs203
+[/us/pl/99/64/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtII
 [/us/stat/99/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F158
 [/us/pl/97/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290
 

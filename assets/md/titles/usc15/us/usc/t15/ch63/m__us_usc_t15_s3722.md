@@ -203,7 +203,7 @@
 
             To the extent provided for in advance by appropriations Acts, the Secretary may use not to exceed $10,000,000 for each of the fiscal years 2015 through 2019 to carry out this section from amounts appropriated for economic development assistance programs.
 
-([Pub. L. 96–480, § 27][/us/pl/96/480/s27], as added [Pub. L. 111–358, title VI, § 603][/us/pl/111/358/s603], Jan. 4, 2011, [124 Stat. 4030][/us/stat/124/4030]; amended [Pub. L. 113–235, div. B, title VII, § 705][/us/pl/113/235/s705], Dec. 16, 2014, [128 Stat. 2230][/us/stat/128/2230].)
+([Pub. L. 96–480][/us/pl/96/480], § 27, as added [Pub. L. 111–358, title VI][/us/pl/111/358/tVI], § 603, Jan. 4, 2011, [124 Stat. 4030][/us/stat/124/4030]; amended [Pub. L. 113–235, div. B, title VII][/us/pl/113/235/dB/tVII], § 705, Dec. 16, 2014, [128 Stat. 2230][/us/stat/128/2230].)
 
  __References in Text__ 
 
@@ -220,10 +220,10 @@
 ----------
 ----------
 
-[/us/pl/96/480/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs27
-[/us/pl/111/358/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs603
+[/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
+[/us/pl/111/358/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtVI
 [/us/stat/124/4030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4030
-[/us/pl/113/235/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs705
+[/us/pl/113/235/dB/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdB%2FtVII
 [/us/stat/128/2230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2230
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/stat/128/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2220

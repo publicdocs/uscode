@@ -29,7 +29,7 @@
 
     (6) such other bureaus or other organizational units as the Secretary of Commerce may from time to time establish in accordance with law.
 
-([Feb. 14, 1903, ch. 552][/us/act/1903-02-14/ch552], §§ 4, 12, [32 Stat. 826][/us/stat/32/826], 830; [June 17, 1910, ch. 301, § 4][/us/act/1910-06-17/ch301/s4], [36 Stat. 537][/us/stat/36/537]; [Aug. 23, 1912, ch. 350, § 1][/us/act/1912-08-23/ch350/s1], [37 Stat. 407][/us/stat/37/407]; [Mar. 4, 1913, ch. 141, § 3][/us/act/1913-03-04/ch141/s3], [37 Stat. 737][/us/stat/37/737]; [Jan. 5, 1923, ch. 23, § 1][/us/act/1923-01-05/ch23/s1], [42 Stat. 1109][/us/stat/42/1109]; [June 30, 1932, ch. 314][/us/act/1932-06-30/ch314], pt. II, title V, § 501, [47 Stat. 415][/us/stat/47/415]; Feb. 22, 1934, Ex. Ord. 6611; [May 27, 1936, ch. 463, § 1][/us/act/1936-05-27/ch463/s1], [49 Stat. 1380][/us/stat/49/1380]; 1939 Reorg. Plan No. II, §§ 2(a), 4(e), 6, eff. July 1, 1936, 4 F.R. 2731, [53 Stat. 1432][/us/stat/53/1432]; 1940 Reorg. Plan No. IV, §§ 7, 8, eff. June 30, 1940, 5 F.R. 2422, [54 Stat. 1235][/us/stat/54/1235], 1236; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, [60 Stat. 1097][/us/stat/60/1097]; [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 103(a), [63 Stat. 380][/us/stat/63/380]; [Aug. 4, 1949, ch. 393, § 20][/us/act/1949-08-04/ch393/s20], [63 Stat. 561][/us/stat/63/561]; 1949 Reorg. Plan No. 7, § 1, eff. Aug. 19, 1949, 14 F.R. 5228, [63 Stat. 1070][/us/stat/63/1070]; 1950 Reorg. Plan No. 21, §§ 101, 106, 201, 15 F.R. 3178, [64 Stat. 1273][/us/stat/64/1273]; [Pub. L. 93–498, § 23][/us/pl/93/498/s23], Oct. 29, 1974, [88 Stat. 1549][/us/stat/88/1549]; [Pub. L. 93–596, § 3][/us/pl/93/596/s3], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 95–422, § 2(c)][/us/pl/95/422/s2/c], Oct. 5, 1978, [92 Stat. 932][/us/stat/92/932]; [Pub. L. 97–31, § 12(6)][/us/pl/97/31/s12/6], Aug. 6, 1981, [95 Stat. 154][/us/stat/95/154]; [Pub. L. 97–63, § 4(a)(1)][/us/pl/97/63/s4/a/1], Oct. 16, 1981, [95 Stat. 1014][/us/stat/95/1014]; [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(6)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583; [Pub. L. 106–503, title I, § 110(b)][/us/pl/106/503/s110/b], Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302].)
+([Feb. 14, 1903, ch. 552][/us/act/1903-02-14/ch552], §§ 4, 12, [32 Stat. 826][/us/stat/32/826], 830; [June 17, 1910, ch. 301][/us/act/1910-06-17/ch301], § 4, [36 Stat. 537][/us/stat/36/537]; [Aug. 23, 1912, ch. 350][/us/act/1912-08-23/ch350], § 1, [37 Stat. 407][/us/stat/37/407]; [Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], § 3, [37 Stat. 737][/us/stat/37/737]; [Jan. 5, 1923, ch. 23][/us/act/1923-01-05/ch23], § 1, [42 Stat. 1109][/us/stat/42/1109]; [June 30, 1932, ch. 314][/us/act/1932-06-30/ch314], pt. II, title V, § 501, [47 Stat. 415][/us/stat/47/415]; Feb. 22, 1934, Ex. Ord. 6611; [May 27, 1936, ch. 463][/us/act/1936-05-27/ch463], § 1, [49 Stat. 1380][/us/stat/49/1380]; 1939 Reorg. Plan No. II, §§ 2(a), 4(e), 6, eff. July 1, 1936, 4 F.R. 2731, [53 Stat. 1432][/us/stat/53/1432]; 1940 Reorg. Plan No. IV, §§ 7, 8, eff. June 30, 1940, 5 F.R. 2422, [54 Stat. 1235][/us/stat/54/1235], 1236; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, [60 Stat. 1097][/us/stat/60/1097]; [June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 103(a), [63 Stat. 380][/us/stat/63/380]; [Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], § 20, [63 Stat. 561][/us/stat/63/561]; 1949 Reorg. Plan No. 7, § 1, eff. Aug. 19, 1949, 14 F.R. 5228, [63 Stat. 1070][/us/stat/63/1070]; 1950 Reorg. Plan No. 21, §§ 101, 106, 201, 15 F.R. 3178, [64 Stat. 1273][/us/stat/64/1273]; [Pub. L. 93–498][/us/pl/93/498], § 23, Oct. 29, 1974, [88 Stat. 1549][/us/stat/88/1549]; [Pub. L. 93–596][/us/pl/93/596], § 3, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 95–422][/us/pl/95/422], § 2(c), Oct. 5, 1978, [92 Stat. 932][/us/stat/92/932]; [Pub. L. 97–31][/us/pl/97/31], § 12(6), Aug. 6, 1981, [95 Stat. 154][/us/stat/95/154]; [Pub. L. 97–63][/us/pl/97/63], § 4(a)(1), Oct. 16, 1981, [95 Stat. 1014][/us/stat/95/1014]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(6)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583; [Pub. L. 106–503, title I][/us/pl/106/503/tI], § 110(b), Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302].)
 
  __Codification__ 
 
@@ -63,11 +63,11 @@ In order to implement the provisions of Reorganization Plan No. 4 of 1970, eff. 
 
  __Repeals__ 
 
-    [Act June 17, 1910, ch. 301, § 4][/us/act/1910-06-17/ch301/s4], [36 Stat. 537][/us/stat/36/537], cited as a credit to this section, was repealed by [act Aug. 4, 1949, ch. 393, § 20][/us/act/1949-08-04/ch393/s20], [63 Stat. 561][/us/stat/63/561].
+    [Act June 17, 1910, ch. 301][/us/act/1910-06-17/ch301], § 4, [36 Stat. 537][/us/stat/36/537], cited as a credit to this section, was repealed by [act Aug. 4, 1949, ch. 393][/us/act/1949-08-04/ch393], § 20, [63 Stat. 561][/us/stat/63/561].
 
-    [Act June 30, 1932, ch. 314][/us/act/1932-06-30/ch314], pt. II, title V, § 501, [47 Stat. 415][/us/stat/47/415], cited as a credit to this section, was repealed by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 648][/us/stat/80/648] and [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], 1074.
+    [Act June 30, 1932, ch. 314][/us/act/1932-06-30/ch314], pt. II, title V, § 501, [47 Stat. 415][/us/stat/47/415], cited as a credit to this section, was repealed by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 648][/us/stat/80/648] and [Pub. L. 97–258][/us/pl/97/258], § 5(b), Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], 1074.
 
-    [Act May 27, 1936, ch. 463, § 1][/us/act/1936-05-27/ch463/s1], [49 Stat. 1380][/us/stat/49/1380], cited as a credit to this section, was repealed by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 649][/us/stat/80/649].
+    [Act May 27, 1936, ch. 463][/us/act/1936-05-27/ch463], § 1, [49 Stat. 1380][/us/stat/49/1380], cited as a credit to this section, was repealed by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 649][/us/stat/80/649].
 
  __Transfer of Functions; Organizational History__ 
 
@@ -85,7 +85,7 @@ In order to implement the provisions of Reorganization Plan No. 4 of 1970, eff. 
 
     Section 304 of Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, 26 F.R. 7315, [75 Stat. 840][/us/stat/75/840], set out in the Appendix to Title 5, abolished Federal Maritime Board, including offices of members of Board. Functions of Board transferred either to Federal Maritime Commission, which was established as an independent body, or to Secretary of Commerce by sections 103 and 202 of Reorg. Plan No. 7 of 1961.
 
-    Maritime Administration of Department of Commerce transferred to Department of Transportation, and all related functions of Secretary and other officers and offices of Department of Commerce transferred to Department of Transportation and vested in Secretary of Transportation, by Maritime Act of 1981, [Pub. L. 97–31][/us/pl/97/31], Aug. 6, 1981, [95 Stat. 151][/us/stat/95/151], which was repealed in part by [Pub. L. 109–304, § 19][/us/pl/109/304/s19], Oct. 6, 2006, [120 Stat. 1710][/us/stat/120/1710]. See [section 109 of Title 49][/us/usc/t49/s109], Transportation.
+    Maritime Administration of Department of Commerce transferred to Department of Transportation, and all related functions of Secretary and other officers and offices of Department of Commerce transferred to Department of Transportation and vested in Secretary of Transportation, by Maritime Act of 1981, [Pub. L. 97–31][/us/pl/97/31], Aug. 6, 1981, [95 Stat. 151][/us/stat/95/151], which was repealed in part by [Pub. L. 109–304][/us/pl/109/304], § 19, Oct. 6, 2006, [120 Stat. 1710][/us/stat/120/1710]. See [section 109 of Title 49][/us/usc/t49/s109], Transportation.
 
     Community Relations Service transferred from Department of Commerce to Department of Justice by Reorg. Plan No. 1 of 1966, eff. Apr. 22, 1966, 31 F.R. 6187, [80 Stat. 1607][/us/stat/80/1607], set out in the Appendix to Title 5.
 
@@ -97,9 +97,9 @@ Department of Commerce, prior to act Mar. 4, 1913, was known as Department of Co
 
     Bureau of Fisheries transferred to Department of the Interior by section 4(e) of Reorg. Plan No. II of 1939. Reorg. Plan No. II of 1939 is set out in the Appendix to Title 5.
 
-    Bureau of Immigration changed to Bureau of Immigration and Naturalization by [act June 29, 1906, ch. 3592, § 1][/us/act/1906-06-29/ch3592/s1], [34 Stat. 596][/us/stat/34/596]. Commissioner General of Immigration, Commissioners of Immigration, and Bureau of Immigration and Naturalization, transferred to Department of Labor by act Mar. 4, 1913. Subsequently, by Ex. Ord. No. 6166, § 14 of June 10, 1933, and Reorg. Plan No. V of 1940, eff. June 14, 1940, 5 F.R. 2223, [54 Stat. 1238][/us/stat/54/1238], Bureau of Immigration and Bureau of Naturalization consolidated to form Immigration and Naturalization Service and transferred to Department of Justice.
+    Bureau of Immigration changed to Bureau of Immigration and Naturalization by [act June 29, 1906, ch. 3592][/us/act/1906-06-29/ch3592], § 1, [34 Stat. 596][/us/stat/34/596]. Commissioner General of Immigration, Commissioners of Immigration, and Bureau of Immigration and Naturalization, transferred to Department of Labor by act Mar. 4, 1913. Subsequently, by Ex. Ord. No. 6166, § 14 of June 10, 1933, and Reorg. Plan No. V of 1940, eff. June 14, 1940, 5 F.R. 2223, [54 Stat. 1238][/us/stat/54/1238], Bureau of Immigration and Bureau of Naturalization consolidated to form Immigration and Naturalization Service and transferred to Department of Justice.
 
-    Light-House Board and Light-House Establishment consolidated under Bureau of Lighthouses by [act June 17, 1910, ch. 301, § 4][/us/act/1910-06-17/ch301/s4], [36 Stat. 537][/us/stat/36/537]. Bureau of Lighthouses transferred to Coast Guard in Department of the Treasury by Reorg. Plan No. II of 1939, § 2(a). Reorg. Plan No. II of 1939 is set out in the Appendix to Title 5. Said section 4 of act June 17, 1910, was repealed by section 20 of act Aug. 4, 1949, section 1 of which reestablished Coast Guard by enacting Title 14, Coast Guard. Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by [Pub. L. 89–670, § 6(b)(1)][/us/pl/89/670/s6/b/1], Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938]. [Section 6(b)(2) of Pub. L. 89–670][/us/pl/89/670/s6/b/2], however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14][/us/usc/t14/s3], Coast Guard. See [section 108 of Title 49][/us/usc/t49/s108], Transportation.
+    Light-House Board and Light-House Establishment consolidated under Bureau of Lighthouses by [act June 17, 1910, ch. 301][/us/act/1910-06-17/ch301], § 4, [36 Stat. 537][/us/stat/36/537]. Bureau of Lighthouses transferred to Coast Guard in Department of the Treasury by Reorg. Plan No. II of 1939, § 2(a). Reorg. Plan No. II of 1939 is set out in the Appendix to Title 5. Said section 4 of act June 17, 1910, was repealed by section 20 of act Aug. 4, 1949, section 1 of which reestablished Coast Guard by enacting Title 14, Coast Guard. Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by [Pub. L. 89–670][/us/pl/89/670], § 6(b)(1), Oct. 15, 1966, [80 Stat. 938][/us/stat/80/938]. [Section 6(b)(2) of Pub. L. 89–670][/us/pl/89/670/s6/b/2], however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in [section 3 of Title 14][/us/usc/t14/s3], Coast Guard. See [section 108 of Title 49][/us/usc/t49/s108], Transportation.
 
     Bureau of Mines transferred from Department of the Interior to Department of Commerce by Ex. Ord. No. 4239, eff. July 1, 1925, and retransferred to Department of the Interior by Ex. Ord. No. 6611, Feb. 24, 1934. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under [section 1 of Title 30][/us/usc/t30/s1], Mineral Lands and Mining.
 
@@ -109,7 +109,7 @@ Department of Commerce, prior to act Mar. 4, 1913, was known as Department of Co
 
     Civil Aeronautics Authority \[Civil Aeronautics Board\] transferred to Department of Commerce by section 7 of Reorg. Plan No. IV of 1940, set out in the Appendix to Title 5. For transfer of functions of Civil Aeronautics Board see section 1551 et seq. and section 1655(d) of former Title 49, Transportation.
 
-    Inland Waterways Corporation transferred to Department of Commerce by section 6 of Reorg. Plan No. II of 1939. Reorg. Plan No. II of 1939 is set out in the Appendix of Title 5. [Pub. L. 88–67, § 2][/us/pl/88/67/s2], July 19, 1963, [77 Stat. 81][/us/stat/77/81], provided generally for liquidation of affairs of Inland Waterways Corporation.
+    Inland Waterways Corporation transferred to Department of Commerce by section 6 of Reorg. Plan No. II of 1939. Reorg. Plan No. II of 1939 is set out in the Appendix of Title 5. [Pub. L. 88–67][/us/pl/88/67], § 2, July 19, 1963, [77 Stat. 81][/us/stat/77/81], provided generally for liquidation of affairs of Inland Waterways Corporation.
 
     Patent Office transferred from Department of the Interior by Ex. Ord. of Mar. 17, 1925, as authorized by section 12 of act Feb. 14, 1903. See [section 1517 of this title][/us/usc/t15/s1517].
 
@@ -117,9 +117,9 @@ Department of Commerce, prior to act Mar. 4, 1913, was known as Department of Co
 
     Weather Bureau transferred from Department of Agriculture by section 8 of Reorg. Plan No. IV of 1940. Reorg. Plan IV of 1940 is set out in the Appendix to Title 5. Coast and Geodetic Survey and Weather Bureau consolidated to form a new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 4443][/us/stat/79/4443], set out in the Appendix to Title 5.
 
-    Functions, powers, and duties of Office of Audits and Investigations and Inspections Staff and that portion of office referred to as Office of Investigations and Security which had responsibility for investigation of alleged criminal violations and program abuse in Department of Commerce transferred to Office of Inspector General in Department of Commerce, as established by [Pub. L. 95–452, § 2][/us/pl/95/452/s2], Oct. 12, 1978, [92 Stat. 1101][/us/stat/92/1101], set out in the Appendix to Title 5, Government Organization and Employees. See [section 9(a)(1)(B) of Pub. L. 95–452][/us/pl/95/452/s9/a/1/B], set out in the Appendix to Title 5.
+    Functions, powers, and duties of Office of Audits and Investigations and Inspections Staff and that portion of office referred to as Office of Investigations and Security which had responsibility for investigation of alleged criminal violations and program abuse in Department of Commerce transferred to Office of Inspector General in Department of Commerce, as established by [Pub. L. 95–452][/us/pl/95/452], § 2, Oct. 12, 1978, [92 Stat. 1101][/us/stat/92/1101], set out in the Appendix to Title 5, Government Organization and Employees. See [section 9(a)(1)(B) of Pub. L. 95–452][/us/pl/95/452/s9/a/1/B], set out in the Appendix to Title 5.
 
- __REORGANIZATION PLAN NO. 4 OF 1970__  __Eff.__  __Oct. 3, 1970__  __, 35 F.R. 15627,__  __[__  __84 Stat. 2090__  __][/us/stat/84/2090]__  __, as amended__  __[__  __Pub. L. 94–461, § 4(c)(1)__  __][/us/pl/94/461/s4/c/1]__  __,__  __Oct. 8, 1976__  __,__  __[__  __90 Stat. 1969__  __][/us/stat/90/1969]__  __;__  __[__  __Pub. L. 95–219, § 3(a)(1)__  __][/us/pl/95/219/s3/a/1]__  __,__  __Dec. 28, 1977__  __,__  __[__  __91 Stat. 1613__  __][/us/stat/91/1613]__  __;__  __[__  __Pub. L. 98–498, title III, § 320(c)(3)__  __][/us/pl/98/498/s320/c/3]__  __,__  __Oct. 19, 1984__  __,__  __[__  __98 Stat. 2309__  __][/us/stat/98/2309]__  __;__  __[__  __Pub. L. 99–659, title IV, § 407(d)__  __][/us/pl/99/659/s407/d]__  __,__  __Nov. 14, 1986__  __,__  __[__  __100 Stat. 3739__  __][/us/stat/100/3739]__  __;__  __[__  __Pub. L. 112–166, § 2(b)(1)__  __][/us/pl/112/166/s2/b/1]__  __,__  __Aug. 10, 2012__  __,__  __[__  __126 Stat. 1283__  __][/us/stat/126/1283]__ 
+ __REORGANIZATION PLAN NO. 4 OF 1970__  __Eff.__  __Oct. 3, 1970__  __, 35 F.R. 15627,__  __[__  __84 Stat. 2090__  __][/us/stat/84/2090]__  __, as amended__  __[__  __Pub. L. 94–461__  __][/us/pl/94/461]__  __, § 4(c)(1),__  __Oct. 8, 1976__  __,__  __[__  __90 Stat. 1969__  __][/us/stat/90/1969]__  __;__  __[__  __Pub. L. 95–219__  __][/us/pl/95/219]__  __, § 3(a)(1),__  __Dec. 28, 1977__  __,__  __[__  __91 Stat. 1613__  __][/us/stat/91/1613]__  __;__  __[__  __Pub. L. 98–498, title III__  __][/us/pl/98/498/tIII]__  __, § 320(c)(3),__  __Oct. 19, 1984__  __,__  __[__  __98 Stat. 2309__  __][/us/stat/98/2309]__  __;__  __[__  __Pub. L. 99–659, title IV__  __][/us/pl/99/659/tIV]__  __, § 407(d),__  __Nov. 14, 1986__  __,__  __[__  __100 Stat. 3739__  __][/us/stat/100/3739]__  __;__  __[__  __Pub. L. 112–166__  __][/us/pl/112/166]__  __, § 2(b)(1),__  __Aug. 10, 2012__  __,__  __[__  __126 Stat. 1283__  __][/us/stat/126/1283]__ 
 
     Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, July 9, 1970, pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.
 
@@ -149,7 +149,7 @@ Department of Commerce, prior to act Mar. 4, 1913, was known as Department of Co
 
     (c) There shall be in the Administration a Deputy Administrator of the National Oceanic and Atmospheric Administration who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate now or hereafter provided for Level IV of the Executive Schedule Pay Rates ([5 U.S.C. 5315][/us/usc/t5/s5315]). The Deputy Administrator shall perform such functions as the Administrator shall from time to time assign or delegate, and shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
 
-    (d) There shall be in the Administration a Chief Scientist of the National Oceanic and Atmospheric Administration who shall be appointed by the President and shall be compensated at the rate now or hereafter provided for Level V of the Executive Schedule Pay Rates ([5 U.S.C. 5316][/us/usc/t5/s5316]). The Chief Scientist shall be the principal scientific adviser to the Administrator, and shall perform such other duties as the Administrator may direct. The Chief Scientist shall be an individual who is, by reason of scientific education and experience, knowledgeable in the principles of oceanic, atmospheric, or other scientific disciplines important to the work of the Administration. \[As amended [Pub. L. 94–461, § 4(c)(1)][/us/pl/94/461/s4/c/1], Oct. 8, 1976, [90 Stat. 1969][/us/stat/90/1969]; [Pub. L. 99–659, title IV, § 407(d)][/us/pl/99/659/s407/d], Nov. 14, 1986, [100 Stat. 3739][/us/stat/100/3739]; [Pub. L. 112–166, § 2(b)(1)][/us/pl/112/166/s2/b/1], Aug. 10, 2012, [126 Stat. 1283][/us/stat/126/1283].\]
+    (d) There shall be in the Administration a Chief Scientist of the National Oceanic and Atmospheric Administration who shall be appointed by the President and shall be compensated at the rate now or hereafter provided for Level V of the Executive Schedule Pay Rates ([5 U.S.C. 5316][/us/usc/t5/s5316]). The Chief Scientist shall be the principal scientific adviser to the Administrator, and shall perform such other duties as the Administrator may direct. The Chief Scientist shall be an individual who is, by reason of scientific education and experience, knowledgeable in the principles of oceanic, atmospheric, or other scientific disciplines important to the work of the Administration. \[As amended [Pub. L. 94–461][/us/pl/94/461], § 4(c)(1), Oct. 8, 1976, [90 Stat. 1969][/us/stat/90/1969]; [Pub. L. 99–659, title IV][/us/pl/99/659/tIV], § 407(d), Nov. 14, 1986, [100 Stat. 3739][/us/stat/100/3739]; [Pub. L. 112–166][/us/pl/112/166], § 2(b)(1), Aug. 10, 2012, [126 Stat. 1283][/us/stat/126/1283].\]
 
     (e)(1) There shall be in the Administration a General Counsel and five Assistant Administrators, one of whom shall be the Assistant Administrator for Coastal Zone Management and one of whom shall be the Assistant Administrator for Fisheries. The General Counsel and each Assistant Administrator shall be appointed by the Secretary, subject to approval of the President, and shall be compensated at a rate now or hereafter provided for level V of the Executive Schedule Pay Rates ([5 U.S.C. 5316][/us/usc/t5/s5316]).
 
@@ -157,7 +157,7 @@ Department of Commerce, prior to act Mar. 4, 1913, was known as Department of Co
 
     (3) The Assistant Administrator for Coastal Zone Management shall be an individual who is, by reason of background and experience, especially qualified to direct the implementation and administration of the Coastal Zone Management Act of 1972 ([16 U.S.C. 1451][/us/usc/t16/s1451] et seq.).
 
-    (4) The Assistant Administrator for Fisheries shall be responsible for all matters related to living marine resources which may arise in connection with the conduct of the functions of the Administration. \[As amended [Pub. L. 95–219, § 3(a)(1)][/us/pl/95/219/s3/a/1], Dec. 28, 1977, [91 Stat. 1613][/us/stat/91/1613].\]
+    (4) The Assistant Administrator for Fisheries shall be responsible for all matters related to living marine resources which may arise in connection with the conduct of the functions of the Administration. \[As amended [Pub. L. 95–219][/us/pl/95/219], § 3(a)(1), Dec. 28, 1977, [91 Stat. 1613][/us/stat/91/1613].\]
 
     (f) The President may appoint in the Administration, by and with the advice and consent of the Senate, two commissioned officers to serve at any one time as the designated heads of two principal constituent organizational entities of the Administration, or the President may designate one such officer as the head of such an organizational entity and the other as the head of the commissioned corps of the Administration. Any such designation shall create a vacancy on the active list and the officer while serving under this subsection shall have the rank, pay, and allowances of a rear admiral (upper half).
 
@@ -236,42 +236,42 @@ Message of the President  <sup>\[1\]</sup>  <sup><sup> 1 For additional Mess
 
 [/us/act/1903-02-14/ch552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552
 [/us/stat/32/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F826
-[/us/act/1910-06-17/ch301/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-17%2Fch301%2Fs4
+[/us/act/1910-06-17/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-17%2Fch301
 [/us/stat/36/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F537
-[/us/act/1912-08-23/ch350/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-23%2Fch350%2Fs1
+[/us/act/1912-08-23/ch350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-23%2Fch350
 [/us/stat/37/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F407
-[/us/act/1913-03-04/ch141/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs3
+[/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F737
-[/us/act/1923-01-05/ch23/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-01-05%2Fch23%2Fs1
+[/us/act/1923-01-05/ch23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-01-05%2Fch23
 [/us/stat/42/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1109
 [/us/act/1932-06-30/ch314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-06-30%2Fch314
 [/us/stat/47/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F415
-[/us/act/1936-05-27/ch463/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch463%2Fs1
+[/us/act/1936-05-27/ch463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch463
 [/us/stat/49/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1380
 [/us/stat/53/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1432
 [/us/stat/54/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1235
 [/us/stat/60/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1097
 [/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
 [/us/stat/63/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F380
-[/us/act/1949-08-04/ch393/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393%2Fs20
+[/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F561
 [/us/stat/63/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1070
 [/us/stat/64/1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1273
-[/us/pl/93/498/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs23
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1549
-[/us/pl/93/596/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs3
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/95/422/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F422%2Fs2%2Fc
+[/us/pl/95/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F422
 [/us/stat/92/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F932
-[/us/pl/97/31/s12/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31%2Fs12%2F6
+[/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
 [/us/stat/95/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F154
-[/us/pl/97/63/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63%2Fs4%2Fa%2F1
+[/us/pl/97/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F63
 [/us/stat/95/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1014
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/106/503/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs110%2Fb
+[/us/pl/106/503/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2FtI
 [/us/stat/114/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2302
 [/us/usc/t5/s597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs597
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
@@ -290,19 +290,19 @@ Message of the President  <sup>\[1\]</sup>  <sup><sup> 1 For additional Mess
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs1
-[/us/act/1910-06-17/ch301/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-17%2Fch301%2Fs4
+[/us/act/1910-06-17/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-17%2Fch301
 [/us/stat/36/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F537
-[/us/act/1949-08-04/ch393/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393%2Fs20
+[/us/act/1949-08-04/ch393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-04%2Fch393
 [/us/stat/63/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F561
 [/us/act/1932-06-30/ch314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-06-30%2Fch314
 [/us/stat/47/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F415
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F648
-[/us/pl/97/258/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs5%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1068
-[/us/act/1936-05-27/ch463/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch463%2Fs1
+[/us/act/1936-05-27/ch463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch463
 [/us/stat/49/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1380
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F649
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
@@ -319,39 +319,39 @@ Message of the President  <sup>\[1\]</sup>  <sup><sup> 1 For additional Mess
 [/us/stat/75/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F840
 [/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
 [/us/stat/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F151
-[/us/pl/109/304/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs19
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1710
 [/us/usc/t49/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs109
 [/us/stat/80/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1607
-[/us/act/1906-06-29/ch3592/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-29%2Fch3592%2Fs1
+[/us/act/1906-06-29/ch3592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-29%2Fch3592
 [/us/stat/34/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F596
 [/us/stat/54/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1238
-[/us/act/1910-06-17/ch301/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-17%2Fch301%2Fs4
+[/us/act/1910-06-17/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-17%2Fch301
 [/us/stat/36/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F537
-[/us/pl/89/670/s6/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F1
+[/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/stat/80/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F938
 [/us/pl/89/670/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670%2Fs6%2Fb%2F2
 [/us/usc/t14/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs3
 [/us/usc/t49/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs108
 [/us/usc/t30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1
-[/us/pl/88/67/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F67%2Fs2
+[/us/pl/88/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F67
 [/us/stat/77/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F81
 [/us/usc/t15/s1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1517
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/stat/79/4443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F4443
-[/us/pl/95/452/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs2
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
 [/us/pl/95/452/s9/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs9%2Fa%2F1%2FB
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
-[/us/pl/94/461/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F461%2Fs4%2Fc%2F1
+[/us/pl/94/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F461
 [/us/stat/90/1969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1969
-[/us/pl/95/219/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F219%2Fs3%2Fa%2F1
+[/us/pl/95/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F219
 [/us/stat/91/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1613
-[/us/pl/98/498/s320/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2Fs320%2Fc%2F3
+[/us/pl/98/498/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F498%2FtIII
 [/us/stat/98/2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2309
-[/us/pl/99/659/s407/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs407%2Fd
+[/us/pl/99/659/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtIV
 [/us/stat/100/3739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3739
-[/us/pl/112/166/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fb%2F1
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1283
 [/us/pl/86/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F359
 [/us/stat/73/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F642
@@ -363,15 +363,15 @@ Message of the President  <sup>\[1\]</sup>  <sup><sup> 1 For additional Mess
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
-[/us/pl/94/461/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F461%2Fs4%2Fc%2F1
+[/us/pl/94/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F461
 [/us/stat/90/1969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1969
-[/us/pl/99/659/s407/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs407%2Fd
+[/us/pl/99/659/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtIV
 [/us/stat/100/3739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3739
-[/us/pl/112/166/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fb%2F1
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1283
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t16/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1451
-[/us/pl/95/219/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F219%2Fs3%2Fa%2F1
+[/us/pl/95/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F219
 [/us/stat/91/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1613
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318

@@ -39,7 +39,7 @@
 
         Nothing contained in this chapter shall be construed to reduce in any way the responsibilities of the Secretary of Energy for automotive research, development, and demonstration under the Energy Reorganization Act of 1974 ([42 U.S.C. 5801][/us/usc/t42/s5801] et seq.) and the Federal Nonnuclear Energy Research and Development Act of 1974 ([42 U.S.C. 5901][/us/usc/t42/s5901] et seq.).
 
-([Pub. L. 95–238, title III, § 306][/us/pl/95/238/s306], Feb. 25, 1978, [92 Stat. 81][/us/stat/92/81].)
+([Pub. L. 95–238, title III][/us/pl/95/238/tIII], § 306, Feb. 25, 1978, [92 Stat. 81][/us/stat/92/81].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 [/us/usc/t15/s2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2703
 [/us/usc/t42/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5801
 [/us/usc/t42/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5901
-[/us/pl/95/238/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs306
+[/us/pl/95/238/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtIII
 [/us/stat/92/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F81
 [/us/usc/t42/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5801
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438

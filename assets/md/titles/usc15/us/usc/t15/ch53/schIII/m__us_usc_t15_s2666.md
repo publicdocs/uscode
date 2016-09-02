@@ -111,11 +111,11 @@
 
         (5) No amount appropriated under this subsection may be used to cover the costs of the proficiency rating program under [section 2665(a)(2) of this title][/us/usc/t15/s2665/a/2].
 
-([Pub. L. 94–469, title III, § 306][/us/pl/94/469/s306], as added [Pub. L. 100–551, § 1(a)][/us/pl/100/551/s1/a], Oct. 28, 1988, [102 Stat. 2758][/us/stat/102/2758].)
+([Pub. L. 94–469, title III][/us/pl/94/469/tIII], § 306, as added [Pub. L. 100–551][/us/pl/100/551], § 1(a), Oct. 28, 1988, [102 Stat. 2758][/us/stat/102/2758].)
 
  __Federal Share of Cost__ 
 
-[Pub. L. 109–54, title II][/us/pl/109/54], Aug. 2, 2005, [119 Stat. 531][/us/stat/119/531], provided in part that: 
+[Pub. L. 109–54, title II][/us/pl/109/54/tII], Aug. 2, 2005, [119 Stat. 531][/us/stat/119/531], provided in part that: 
 
 > “Beginning in fiscal year 2006 and thereafter, and notwithstanding section 306 of the Toxic Substances Control Act \[[15 U.S.C. 2666][/us/usc/t15/s2666]\], the Federal share of the cost of radon program activities implemented with Federal assistance under section 306 shall not exceed 60 percent in the third and subsequent grant years.”
 
@@ -129,10 +129,10 @@
 [/us/usc/t15/s2664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2664
 [/us/usc/t15/s2665/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2665%2Fa%2F2
 [/us/usc/t15/s2665/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2665%2Fa%2F2
-[/us/pl/94/469/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs306
-[/us/pl/100/551/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F551%2Fs1%2Fa
+[/us/pl/94/469/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtIII
+[/us/pl/100/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F551
 [/us/stat/102/2758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2758
-[/us/pl/109/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54
+[/us/pl/109/54/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54%2FtII
 [/us/stat/119/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F531
 [/us/usc/t15/s2666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2666
 

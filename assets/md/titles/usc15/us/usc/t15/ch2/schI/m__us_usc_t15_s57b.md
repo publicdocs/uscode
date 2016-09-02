@@ -39,11 +39,11 @@
 
         Remedies provided in this section are in addition to, and not in lieu of, any other remedy or right of action provided by State or Federal law. Nothing in this section shall be construed to affect any authority of the Commission under any other provision of law.
 
-([Sept. 26, 1914, ch. 311, § 19][/us/act/1914-09-26/ch311/s19], as added [Pub. L. 93–637, title II, § 206(a)][/us/pl/93/637/s206/a], Jan. 4, 1975, [88 Stat. 2201][/us/stat/88/2201].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 19, as added [Pub. L. 93–637, title II][/us/pl/93/637/tII], § 206(a), Jan. 4, 1975, [88 Stat. 2201][/us/stat/88/2201].)
 
  __Effective Date__ 
 
-[Pub. L. 93–637, title II, § 206(b)][/us/pl/93/637/s206/b], Jan. 4, 1975, [88 Stat. 2202][/us/stat/88/2202], provided that: 
+[Pub. L. 93–637, title II][/us/pl/93/637/tII], § 206(b), Jan. 4, 1975, [88 Stat. 2202][/us/stat/88/2202], provided that: 
 
 > “The amendment made by subsection (a) of this section \[enacting this section\] shall not apply to—
 
@@ -65,10 +65,10 @@
 [/us/usc/t15/s45/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45%2Fb
 [/us/usc/t15/s45/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45%2Fg%2F1
 [/us/usc/t15/s45/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45%2Fb
-[/us/act/1914-09-26/ch311/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs19
-[/us/pl/93/637/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs206%2Fa
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
+[/us/pl/93/637/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2FtII
 [/us/stat/88/2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2201
-[/us/pl/93/637/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs206%2Fb
+[/us/pl/93/637/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2FtII
 [/us/stat/88/2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2202
 
 

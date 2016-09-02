@@ -17,11 +17,11 @@
 
     The President is authorized, by order in writing, to transfer at any time the whole or any part of any office, bureau, division, or other branch of the public service engaged in statistical or scientific work, from the Department of State, the Department of the Treasury, the Department of Defense, the Department of Justice, the United States Postal Service, or the Department of the Interior, to the Department of Commerce; and in every such case the duties and authority performed by and conferred by law upon such office, bureau, division, or other branch of the public service, or the part thereof so transferred, shall be thereby transferred with such office, bureau, division, or other branch of the public service, or the part thereof which is so transferred. All power and authority conferred by law, both supervisory and appellate, upon the department from which such transfer is made, or the Secretary thereof, in relation to the said office, bureau, division, or other branch of the public service, or the part thereof so transferred, shall immediately, when such transfer is so ordered by the President, be fully conferred upon and vested in the Department of Commerce, or the Secretary thereof, as the case may be, as to the whole or part of such office, bureau, division, or other branch of the public service so transferred.
 
-([Feb. 14, 1903, ch. 552, § 12][/us/act/1903-02-14/ch552/s12], [32 Stat. 830][/us/stat/32/830]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 201(a), [61 Stat. 499][/us/stat/61/499]; [Aug. 10, 1949, ch. 412, § 4][/us/act/1949-08-10/ch412/s4], [63 Stat. 579][/us/stat/63/579]; [Pub. L. 91–375][/us/pl/91/375], §§ 4(a), 6(o), Aug. 12, 1970, [84 Stat. 773][/us/stat/84/773], 783.)
+([Feb. 14, 1903, ch. 552][/us/act/1903-02-14/ch552], § 12, [32 Stat. 830][/us/stat/32/830]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 201(a), [61 Stat. 499][/us/stat/61/499]; [Aug. 10, 1949, ch. 412][/us/act/1949-08-10/ch412], § 4, [63 Stat. 579][/us/stat/63/579]; [Pub. L. 91–375][/us/pl/91/375], §§ 4(a), 6(o), Aug. 12, 1970, [84 Stat. 773][/us/stat/84/773], 783.)
 
  __Codification__ 
 
-    Section was formerly classified to [section 602 of Title 5][/us/usc/t5/s602] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 602 of Title 5][/us/usc/t5/s602] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Change of Name__ 
 
@@ -33,7 +33,7 @@
 
  __Meteorological Satellite (METSAT) and Associated Ground Systems; Expenditure of Funds To Develop Proposals To Transfer Ownership to Private Entities Prohibited__ 
 
-[Pub. L. 98–166, title I, § 101][/us/pl/98/166/s101], Nov. 28, 1983, [97 Stat. 1076][/us/stat/97/1076], provided that: 
+[Pub. L. 98–166, title I][/us/pl/98/166/tI], § 101, Nov. 28, 1983, [97 Stat. 1076][/us/stat/97/1076], provided that: 
 
 > “No funds made available by this Act, or any other Act, may be used—
 
@@ -43,7 +43,7 @@
 
  __Civil Land Remote Sensing Satellite System; Termination__ 
 
-[Pub. L. 98–52, title II, § 202][/us/pl/98/52/s202], July 15, 1983, [97 Stat. 285][/us/stat/97/285], as amended by [Pub. L. 103–437, § 5(b)(1)][/us/pl/103/437/s5/b/1], Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582], provided that: 
+[Pub. L. 98–52, title II][/us/pl/98/52/tII], § 202, July 15, 1983, [97 Stat. 285][/us/stat/97/285], as amended by [Pub. L. 103–437][/us/pl/103/437], § 5(b)(1), Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582], provided that: 
 
 > “Notwithstanding title II of the National Aeronautics and Space Administration Authorization Act, 1983 \[[Pub. L. 97–324][/us/pl/97/324], set out as a note below\], the Secretary of Commerce shall not transfer the ownership or management of any civil land, meteorological, or ocean remote sensing space satellite system and associated ground system equipment unless, in addition to any other requirement of law—
 
@@ -51,7 +51,7 @@
 
 >     “(2) the Congress thereafter enacts a law which contains such policies, procedures, conditions, or limitations (or a combination thereof) as it deems appropriate for any such transfer.”
 
-[Pub. L. 97–324, title II, § 201][/us/pl/97/324/s201], Oct. 15, 1982, [96 Stat. 1601][/us/stat/96/1601], as amended by [Pub. L. 98–365, title VI, § 608][/us/pl/98/365/s608], July 17, 1984, [98 Stat. 466][/us/stat/98/466]; [Pub. L. 103–437, § 5(b)(2)][/us/pl/103/437/s5/b/2], Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582], provided that:
+[Pub. L. 97–324, title II][/us/pl/97/324/tII], § 201, Oct. 15, 1982, [96 Stat. 1601][/us/stat/96/1601], as amended by [Pub. L. 98–365, title VI][/us/pl/98/365/tVI], § 608, July 17, 1984, [98 Stat. 466][/us/stat/98/466]; [Pub. L. 103–437][/us/pl/103/437], § 5(b)(2), Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582], provided that:
 
 >     “(a) The Secretary of Commerce is authorized to plan and provide for the management and operation of civil remote-sensing space systems, which may include the Landsat 4 and 5 satellites and associated ground system equipment transferred from the National Aeronautics and Space Administration; to provide for user fees; and to plan for the transfer of the operation of civil remote-sensing space systems to the private sector when in the national interest.
 
@@ -110,16 +110,16 @@ Section 1. (a) The following programs and activities are hereby transferred to t
 ----------
 ----------
 
-[/us/act/1903-02-14/ch552/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552%2Fs12
+[/us/act/1903-02-14/ch552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552
 [/us/stat/32/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F830
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F499
-[/us/act/1949-08-10/ch412/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412%2Fs4
+[/us/act/1949-08-10/ch412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-08-10%2Fch412
 [/us/stat/63/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F579
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F773
 [/us/usc/t5/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs602
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/pl/91/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F375
 [/us/stat/84/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F773
@@ -127,18 +127,18 @@ Section 1. (a) The following programs and activities are hereby transferred to t
 [/us/usc/t39/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs201
 [/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F736
-[/us/pl/98/166/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F166%2Fs101
+[/us/pl/98/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F166%2FtI
 [/us/stat/97/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1076
-[/us/pl/98/52/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F52%2Fs202
+[/us/pl/98/52/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F52%2FtII
 [/us/stat/97/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F285
-[/us/pl/103/437/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs5%2Fb%2F1
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4582
 [/us/pl/97/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F324
-[/us/pl/97/324/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F324%2Fs201
+[/us/pl/97/324/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F324%2FtII
 [/us/stat/96/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1601
-[/us/pl/98/365/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs608
+[/us/pl/98/365/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2FtVI
 [/us/stat/98/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F466
-[/us/pl/103/437/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs5%2Fb%2F2
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4582
 [/us/act/1903-02-14/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fs12
 [/us/usc/t15/s1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1517

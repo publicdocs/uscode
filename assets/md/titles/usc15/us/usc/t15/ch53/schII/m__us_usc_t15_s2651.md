@@ -23,7 +23,7 @@
 
         Any public or private employee or representative of employees who believes he or she has been fired or otherwise discriminated against in violation of subsection (a) may within 90 days after the alleged violation occurs apply to the Secretary of Labor for a review of the firing or alleged discrimination. The review shall be conducted in accordance with [section 660(c) of title 29][/us/usc/t29/s660/c].
 
-([Pub. L. 94–469, title II, § 211][/us/pl/94/469/s211], as added [Pub. L. 99–519, § 2][/us/pl/99/519/s2], Oct. 22, 1986, [100 Stat. 2987][/us/stat/100/2987].)
+([Pub. L. 94–469, title II][/us/pl/94/469/tII], § 211, as added [Pub. L. 99–519][/us/pl/99/519], § 2, Oct. 22, 1986, [100 Stat. 2987][/us/stat/100/2987].)
 
 ----------
 
@@ -33,8 +33,8 @@
 ----------
 
 [/us/usc/t29/s660/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs660%2Fc
-[/us/pl/94/469/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs211
-[/us/pl/99/519/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs2
+[/us/pl/94/469/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtII
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2987
 
 

@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated such amounts as may be necessary for purposes of carrying out the provisions of this joint resolution.
 
-([Dec. 30, 1947, ch. 526, § 9][/us/act/1947-12-30/ch526/s9], [61 Stat. 948][/us/stat/61/948].)
+([Dec. 30, 1947, ch. 526][/us/act/1947-12-30/ch526], § 9, [61 Stat. 948][/us/stat/61/948].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1947-12-30/ch526/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-12-30%2Fch526%2Fs9
+[/us/act/1947-12-30/ch526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-12-30%2Fch526
 [/us/stat/61/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F948
 [/us/act/1947-12-30/ch526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-12-30%2Fch526
 [/us/stat/61/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F945

@@ -43,7 +43,7 @@
 
         (2) during the preceding 12-month period, has had fewer than 6 clients who are residents of that State.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 222, as added [Pub. L. 86–750, § 16][/us/pl/86/750/s16], Sept. 13, 1960, [74 Stat. 888][/us/stat/74/888]; amended [Pub. L. 104–290, title III, § 304][/us/pl/104/290/s304], Oct. 11, 1996, [110 Stat. 3438][/us/stat/110/3438]; [Pub. L. 105–353, title III, § 301(d)(2)][/us/pl/105/353/s301/d/2], Nov. 3, 1998, [112 Stat. 3237][/us/stat/112/3237]; [Pub. L. 111–203, title IX, § 985(e)(4)][/us/pl/111/203/s985/e/4], July 21, 2010, [124 Stat. 1935][/us/stat/124/1935].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 222, as added [Pub. L. 86–750][/us/pl/86/750], § 16, Sept. 13, 1960, [74 Stat. 888][/us/stat/74/888]; amended [Pub. L. 104–290, title III][/us/pl/104/290/tIII], § 304, Oct. 11, 1996, [110 Stat. 3438][/us/stat/110/3438]; [Pub. L. 105–353, title III][/us/pl/105/353/tIII], § 301(d)(2), Nov. 3, 1998, [112 Stat. 3237][/us/stat/112/3237]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 985(e)(4), July 21, 2010, [124 Stat. 1935][/us/stat/124/1935].)
 
  __Amendments__ 
 
@@ -69,13 +69,13 @@
 ----------
 
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
-[/us/pl/86/750/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750%2Fs16
+[/us/pl/86/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750
 [/us/stat/74/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F888
-[/us/pl/104/290/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs304
+[/us/pl/104/290/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtIII
 [/us/stat/110/3438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3438
-[/us/pl/105/353/s301/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fd%2F2
+[/us/pl/105/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtIII
 [/us/stat/112/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3237
-[/us/pl/111/203/s985/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs985%2Fe%2F4
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1935
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353

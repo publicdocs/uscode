@@ -17,7 +17,7 @@
 
     The period of continuous use prescribed under [section 1065 of this title][/us/usc/t15/s1065] for a mark covered by an extension of protection issued under this subchapter may begin no earlier than the date on which the Director issues the certificate of the extension of protection under [section 1141i of this title][/us/usc/t15/s1141i], except as provided in [section 1141n of this title][/us/usc/t15/s1141n].
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title XII, § 73, as added [Pub. L. 107–273, div. C, title III, § 13402][/us/pl/107/273/s13402], Nov. 2, 2002, [116 Stat. 1920][/us/stat/116/1920].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title XII, § 73, as added [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13402, Nov. 2, 2002, [116 Stat. 1920][/us/stat/116/1920].)
 
 ----------
 
@@ -30,7 +30,7 @@
 [/us/usc/t15/s1141i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1141i
 [/us/usc/t15/s1141n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1141n
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
-[/us/pl/107/273/s13402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13402
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1920
 
 

@@ -153,7 +153,7 @@
 
         The head of each agency and department identified under [section 5511(a)(3)(B) of this title][/us/usc/t15/s5511/a/3/B], through existing programs and activities, shall support research that will lead to the development of a scientific foundation for the field of cybersecurity, including research that increases understanding of the underlying principles of securing complex networked systems, enables repeatable experimentation, and creates quantifiable security metrics.
 
-([Pub. L. 113–274, title II, § 201][/us/pl/113/274/s201], Dec. 18, 2014, [128 Stat. 2974][/us/stat/128/2974].)
+([Pub. L. 113–274, title II][/us/pl/113/274/tII], § 201, Dec. 18, 2014, [128 Stat. 2974][/us/stat/128/2974].)
 
  __Codification__ 
 
@@ -172,7 +172,7 @@
 [/us/usc/t15/s5511/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5511%2Fa%2F3%2FB
 [/us/usc/t15/s5511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5511
 [/us/usc/t15/s5511/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5511%2Fa%2F3%2FB
-[/us/pl/113/274/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs201
+[/us/pl/113/274/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2FtII
 [/us/stat/128/2974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2974
 [/us/pl/113/274/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs201
 [/us/pl/113/274/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs201

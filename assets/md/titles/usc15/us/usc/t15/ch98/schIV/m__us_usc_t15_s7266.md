@@ -39,7 +39,7 @@
 
         In no event shall an issuer required to file reports under section 78m(a) or 78o(d) of this title be reviewed under this section less frequently than once every 3 years.
 
-([Pub. L. 107–204, title IV, § 408][/us/pl/107/204/s408], July 30, 2002, [116 Stat. 790][/us/stat/116/790].)
+([Pub. L. 107–204, title IV][/us/pl/107/204/tIV], § 408, July 30, 2002, [116 Stat. 790][/us/stat/116/790].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t15/s78m/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m%2Fa
-[/us/pl/107/204/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs408
+[/us/pl/107/204/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtIV
 [/us/stat/116/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F790
 
 

@@ -117,11 +117,11 @@
 
                 No prospective user of a consumer report or of a credit score generated using the information in the file of a consumer that includes an extended fraud alert in accordance with this section may establish a new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) 1 of this title), in the name of the consumer, or issue an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, unless the user contacts the consumer in person or using the contact method described in subparagraph (A)(ii) to confirm that the application for a new credit plan or increase in credit limit, or request for an additional card is not the result of identity theft.
 
-([Pub. L. 90–321, title VI, § 605A][/us/pl/90/321/s605A], as added [Pub. L. 108–159, title I, § 112(a)][/us/pl/108/159/s112/a], Dec. 4, 2003, [117 Stat. 1955][/us/stat/117/1955]; amended [Pub. L. 111–203, title X, § 1088(a)(2)(C)][/us/pl/111/203/s1088/a/2/C], July 21, 2010, [124 Stat. 2087][/us/stat/124/2087].)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 605A, as added [Pub. L. 108–159, title I][/us/pl/108/159/tI], § 112(a), Dec. 4, 2003, [117 Stat. 1955][/us/stat/117/1955]; amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1088(a)(2)(C), July 21, 2010, [124 Stat. 2087][/us/stat/124/2087].)
 
  __References in Text__ 
 
-    [Section 1602(i) of this title][/us/usc/t15/s1602/i], referred to in subsec. (h), was redesignated [section 1602(j) of this title][/us/usc/t15/s1602/j] by [Pub. L. 111–203, title X, § 1100A(1)(A)][/us/pl/111/203/s1100A/1/A], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
+    [Section 1602(i) of this title][/us/usc/t15/s1602/i], referred to in subsec. (h), was redesignated [section 1602(j) of this title][/us/usc/t15/s1602/j] by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(1)(A), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
 
  __Amendments__ 
 
@@ -137,13 +137,13 @@
 
  __Regulations__ 
 
-[Pub. L. 108–159, title I, § 112(b)][/us/pl/108/159/s112/b], Dec. 4, 2003, [117 Stat. 1959][/us/stat/117/1959], as amended by [Pub. L. 111–203, title X, § 1088(b)(1)][/us/pl/111/203/s1088/b/1], July 21, 2010, [124 Stat. 2092][/us/stat/124/2092], provided that: 
+[Pub. L. 108–159, title I][/us/pl/108/159/tI], § 112(b), Dec. 4, 2003, [117 Stat. 1959][/us/stat/117/1959], as amended by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1088(b)(1), July 21, 2010, [124 Stat. 2092][/us/stat/124/2092], provided that: 
 
 > “The Bureau shall prescribe regulations to define what constitutes appropriate proof of identity for purposes of sections 605A , 605B, and 609(a)(1) of the Fair Credit Reporting Act \[[15 U.S.C. 1681c–1][/us/usc/t15/s1681c–1], 1681c–2, 1681g(a)(1)\], as amended by this Act.”
 
  __Public Campaign To Prevent Identity Theft__ 
 
-[Pub. L. 108–159, title I, § 151(b)][/us/pl/108/159/s151/b], Dec. 4, 2003, [117 Stat. 1964][/us/stat/117/1964], provided that: 
+[Pub. L. 108–159, title I][/us/pl/108/159/tI], § 151(b), Dec. 4, 2003, [117 Stat. 1964][/us/stat/117/1964], provided that: 
 
 > “Not later than 2 years after the date of enactment of this Act \[Dec. 4, 2003\], the Commission shall establish and implement a media and distribution campaign to teach the public how to prevent identity theft. Such campaign shall include existing Commission education materials, as well as radio, television, and print public service announcements, video cassettes, interactive digital video discs (DVD’s) or compact audio discs (CD’s), and Internet resources.”
 
@@ -173,14 +173,14 @@
 [/us/usc/t15/s1681a/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fp
 [/us/usc/t15/s1681a/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fp
 [/us/usc/t15/s1681a/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fp
-[/us/pl/90/321/s605A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs605A
-[/us/pl/108/159/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs112%2Fa
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/108/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtI
 [/us/stat/117/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1955
-[/us/pl/111/203/s1088/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FC
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2087
 [/us/usc/t15/s1602/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fi
 [/us/usc/t15/s1602/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fj
-[/us/pl/111/203/s1100A/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F1%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
@@ -188,12 +188,12 @@
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/pl/108/159/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs3
 [/us/usc/t15/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681
-[/us/pl/108/159/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs112%2Fb
+[/us/pl/108/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtI
 [/us/stat/117/1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1959
-[/us/pl/111/203/s1088/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fb%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2092
 [/us/usc/t15/s1681c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681c%E2%80%931
-[/us/pl/108/159/s151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs151%2Fb
+[/us/pl/108/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtI
 [/us/stat/117/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1964
 [/us/pl/108/159/s151/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs151%2Fb
 [/us/pl/108/159/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs2

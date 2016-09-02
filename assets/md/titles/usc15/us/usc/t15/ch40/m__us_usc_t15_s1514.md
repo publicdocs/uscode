@@ -29,11 +29,11 @@
 
     (f) erecting, altering, repairing, equipping, furnishing, and maintaining, by contract or otherwise, such living and working quarters and facilities as may be necessary to carry out its authorized work at remote localities not on foreign soil where such living and working accommodations are not otherwise available.
 
-([Oct. 26, 1949, ch. 733][/us/act/1949-10-26/ch733], [63 Stat. 907][/us/stat/63/907]; [Aug. 30, 1954, ch. 1076, § 1(11)][/us/act/1954-08-30/ch1076/s1/11], [68 Stat. 967][/us/stat/68/967]; [Pub. L. 93–608, § 1(3)][/us/pl/93/608/s1/3], Jan. 2, 1975, [88 Stat. 1967][/us/stat/88/1967].)
+([Oct. 26, 1949, ch. 733][/us/act/1949-10-26/ch733], [63 Stat. 907][/us/stat/63/907]; [Aug. 30, 1954, ch. 1076][/us/act/1954-08-30/ch1076], § 1(11), [68 Stat. 967][/us/stat/68/967]; [Pub. L. 93–608][/us/pl/93/608], § 1(3), Jan. 2, 1975, [88 Stat. 1967][/us/stat/88/1967].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 596a of Title 5][/us/usc/t5/s596a] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 596a of Title 5][/us/usc/t5/s596a] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
@@ -54,12 +54,12 @@
 
 [/us/act/1949-10-26/ch733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch733
 [/us/stat/63/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F907
-[/us/act/1954-08-30/ch1076/s1/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076%2Fs1%2F11
+[/us/act/1954-08-30/ch1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1076
 [/us/stat/68/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F967
-[/us/pl/93/608/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F608%2Fs1%2F3
+[/us/pl/93/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F608
 [/us/stat/88/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1967
 [/us/usc/t5/s596a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs596a
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/pl/93/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F608
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318

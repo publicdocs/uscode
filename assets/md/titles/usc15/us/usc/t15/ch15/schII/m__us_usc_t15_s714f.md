@@ -17,7 +17,7 @@
 
     The Corporation is authorized to use in the conduct of its business all its funds and other assets, including capital and net earnings therefrom, and all funds and other assets which have been or may hereafter be transferred or allocated to, borrowed by, or otherwise acquired by it.
 
-([June 29, 1948, ch. 704, § 8][/us/act/1948-06-29/ch704/s8], [62 Stat. 1072][/us/stat/62/1072].)
+([June 29, 1948, ch. 704][/us/act/1948-06-29/ch704], § 8, [62 Stat. 1072][/us/stat/62/1072].)
 
  __Exceptions From Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1948-06-29/ch704/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch704%2Fs8
+[/us/act/1948-06-29/ch704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch704
 [/us/stat/62/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1072
 [/us/usc/t15/s712a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs712a
 

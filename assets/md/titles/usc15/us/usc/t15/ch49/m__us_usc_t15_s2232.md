@@ -63,7 +63,7 @@
 
         (2) $20,000,000 for fiscal year 2002.
 
-([Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVII, § 1703\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–364; [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410].)
+([Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XVII, § 1703\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–364; [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410].)
 
  __Codification__ 
 
@@ -86,9 +86,9 @@
 ----------
 ----------
 
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
 [/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
 [/us/usc/t6/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs313

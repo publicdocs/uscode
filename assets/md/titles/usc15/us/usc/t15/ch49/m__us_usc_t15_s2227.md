@@ -185,29 +185,29 @@
 
         In the implementation of this section, the process for meeting space needs in urban areas shall continue to give first consideration to a centralized community business area and adjacent areas of similar character to the extent of any Federal requirement therefor.
 
-([Pub. L. 93–498, § 31][/us/pl/93/498/s31], as added [Pub. L. 102–522, title I, § 106(a)][/us/pl/102/522/s106/a], Oct. 26, 1992, [106 Stat. 3412][/us/stat/106/3412]; amended [Pub. L. 103–254, § 6][/us/pl/103/254/s6], May 19, 1994, [108 Stat. 682][/us/stat/108/682]; [Pub. L. 104–316, title I, § 107][/us/pl/104/316/s107], Oct. 19, 1996, [110 Stat. 3832][/us/stat/110/3832]; [Pub. L. 105–108, § 3(4)][/us/pl/105/108/s3/4], (5), Nov. 20, 1997, [111 Stat. 2264][/us/stat/111/2264].)
+([Pub. L. 93–498][/us/pl/93/498], § 31, as added [Pub. L. 102–522, title I][/us/pl/102/522/tI], § 106(a), Oct. 26, 1992, [106 Stat. 3412][/us/stat/106/3412]; amended [Pub. L. 103–254][/us/pl/103/254], § 6, May 19, 1994, [108 Stat. 682][/us/stat/108/682]; [Pub. L. 104–316, title I][/us/pl/104/316/tI], § 107, Oct. 19, 1996, [110 Stat. 3832][/us/stat/110/3832]; [Pub. L. 105–108][/us/pl/105/108], § 3(4), (5), Nov. 20, 1997, [111 Stat. 2264][/us/stat/111/2264].)
 
  __References in Text__ 
 
     The National Housing Act, referred to in subsec. (a)(5)(B), is [act June 27, 1934, ch. 847][/us/act/1934-06-27/ch847], [48 Stat. 1246][/us/stat/48/1246], as amended, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see References in Text note set out under [section 1701 of Title 12][/us/usc/t12/s1701] and Tables.
 
-    [Section 1441a(c) of title 12][/us/usc/t12/s1441a/c], referred to in subsec. (a)(5)(B), was repealed by [Pub. L. 111–203, title III, § 364(b)][/us/pl/111/203/s364/b], July 21, 2010, [124 Stat. 1555][/us/stat/124/1555].
+    [Section 1441a(c) of title 12][/us/usc/t12/s1441a/c], referred to in subsec. (a)(5)(B), was repealed by [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 364(b), July 21, 2010, [124 Stat. 1555][/us/stat/124/1555].
 
  __Amendments__ 
 
-    1997—Subsec. (c)(2)(B)(i). [Pub. L. 105–108, § 3(4)][/us/pl/105/108/s3/4], inserted “or any successor standard to that standard” after “(known as the Life Safety Code)”.
+    1997—Subsec. (c)(2)(B)(i). [Pub. L. 105–108][/us/pl/105/108], § 3(4), inserted “or any successor standard to that standard” after “(known as the Life Safety Code)”.
 
-    Subsec. (c)(2)(B)(ii). [Pub. L. 105–108, § 3(5)][/us/pl/105/108/s3/5], inserted “or any successor standard to that standard” after “Association Standard 101”.
+    Subsec. (c)(2)(B)(ii). [Pub. L. 105–108][/us/pl/105/108], § 3(5), inserted “or any successor standard to that standard” after “Association Standard 101”.
 
     1996—Subsec. (b)(1)(B)(iii). [Pub. L. 104–316][/us/pl/104/316] struck out cl. (iii) which read as follows: “Within 3 years after October 26, 1992, and periodically thereafter, the Comptroller General shall audit a selection of certifications made under clause (ii) and report to Congress on the results of such audit.”
 
-    1994—Subsec. (c)(1)(A). [Pub. L. 103–254, § 6(1)][/us/pl/103/254/s6/1], substituted “Except as otherwise provided in this paragraph, no Federal” for “No Federal”.
+    1994—Subsec. (c)(1)(A). [Pub. L. 103–254][/us/pl/103/254], § 6(1), substituted “Except as otherwise provided in this paragraph, no Federal” for “No Federal”.
 
-    Subsec. (c)(1)(C), (D). [Pub. L. 103–254, § 6(2)][/us/pl/103/254/s6/2], added subpars. (C) and (D).
+    Subsec. (c)(1)(C), (D). [Pub. L. 103–254][/us/pl/103/254], § 6(2), added subpars. (C) and (D).
 
  __Effective Date__ 
 
-[Pub. L. 102–522, title I, § 106(b)][/us/pl/102/522/s106/b], Oct. 26, 1992, [106 Stat. 3417][/us/stat/106/3417], provided that: 
+[Pub. L. 102–522, title I][/us/pl/102/522/tI], § 106(b), Oct. 26, 1992, [106 Stat. 3417][/us/stat/106/3417], provided that: 
 
 > “Subsection (b) of section 31 of the Federal Fire Prevention and Control Act of 1974 \[[15 U.S.C. 2227][/us/usc/t15/s2227]\], as added by subsection (a) of this section, shall take effect 2 years after the date of enactment of this Act \[Oct. 26, 1992\].”
 
@@ -227,27 +227,27 @@
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t12/s1715z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1715z
 [/us/usc/t12/s1831q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831q
-[/us/pl/93/498/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs31
-[/us/pl/102/522/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F522%2Fs106%2Fa
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
+[/us/pl/102/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F522%2FtI
 [/us/stat/106/3412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3412
-[/us/pl/103/254/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F254%2Fs6
+[/us/pl/103/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F254
 [/us/stat/108/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F682
-[/us/pl/104/316/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs107
+[/us/pl/104/316/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtI
 [/us/stat/110/3832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3832
-[/us/pl/105/108/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F108%2Fs3%2F4
+[/us/pl/105/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F108
 [/us/stat/111/2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2264
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
 [/us/usc/t12/s1441a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441a%2Fc
-[/us/pl/111/203/s364/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs364%2Fb
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1555
-[/us/pl/105/108/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F108%2Fs3%2F4
-[/us/pl/105/108/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F108%2Fs3%2F5
+[/us/pl/105/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F108
+[/us/pl/105/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F108
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
-[/us/pl/103/254/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F254%2Fs6%2F1
-[/us/pl/103/254/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F254%2Fs6%2F2
-[/us/pl/102/522/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F522%2Fs106%2Fb
+[/us/pl/103/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F254
+[/us/pl/103/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F254
+[/us/pl/102/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F522%2FtI
 [/us/stat/106/3417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3417
 [/us/usc/t15/s2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2227
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1

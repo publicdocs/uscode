@@ -17,11 +17,11 @@
 
     Except where specific provision is made to the contrary, nothing in this subchapter shall affect (1) the jurisdiction of the Commission under the Securities Act of 1933 \[[15 U.S.C. 77a][/us/usc/t15/s77a] et seq.\], the Securities Exchange Act of 1934 \[[15 U.S.C. 78a][/us/usc/t15/s78a] et seq.\], the Trust Indenture Act of 1939 \[[15 U.S.C. 77aaa][/us/usc/t15/s77aaa] et seq.\], or subchapter II of this chapter, over any person, security, or transaction, or (2) the rights, obligations, duties, or liabilities of any person under such Acts; nor shall anything in this subchapter affect the jurisdiction of any other commission, board, agency, or officer of the United States or of any State or political subdivision of any State, over any person, security, or transaction, insofar as such jurisdiction does not conflict with any provision of this subchapter or of any rule, regulation, or order hereunder.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 50, [54 Stat. 846][/us/stat/54/846]; [Pub. L. 111–203, title IX, § 986(c)(4)][/us/pl/111/203/s986/c/4], July 21, 2010, [124 Stat. 1936][/us/stat/124/1936].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 50, [54 Stat. 846][/us/stat/54/846]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 986(c)(4), July 21, 2010, [124 Stat. 1936][/us/stat/124/1936].)
 
  __References in Text__ 
 
-    The Securities Act of 1933, referred to in text, is [act May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
+    The Securities Act of 1933, referred to in text, is [act May 27, 1933, ch. 38, title I][/us/act/1933-05-27/ch38/tI], [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
 
     The Securities Exchange Act of 1934, referred to in text, is [act June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], [48 Stat. 881][/us/stat/48/881], which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title][/us/usc/t15/s78a] and Tables.
 
@@ -51,9 +51,9 @@
 [/us/usc/t15/s77aaa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77aaa
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F846
-[/us/pl/111/203/s986/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs986%2Fc%2F4
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1936
-[/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
+[/us/act/1933-05-27/ch38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38%2FtI
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404

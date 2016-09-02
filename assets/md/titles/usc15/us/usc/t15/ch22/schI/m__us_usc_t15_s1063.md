@@ -25,11 +25,11 @@
 
         (2) a notice of allowance shall be issued to the applicant if the applicant applied for registration under [section 1051(b) of this title][/us/usc/t15/s1051/b].
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title I, § 13, [60 Stat. 433][/us/stat/60/433]; [Pub. L. 87–772, § 8][/us/pl/87/772/s8], Oct. 9, 1962, [76 Stat. 771][/us/stat/76/771]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 93–600, § 1][/us/pl/93/600/s1], Jan. 2, 1975, [88 Stat. 1955][/us/stat/88/1955]; [Pub. L. 97–247, § 9(a)][/us/pl/97/247/s9/a], Aug. 27, 1982, [96 Stat. 320][/us/stat/96/320]; [Pub. L. 100–667, title I, § 114][/us/pl/100/667/s114], Nov. 16, 1988, [102 Stat. 3940][/us/stat/102/3940]; [Pub. L. 106–43, § 2(b)][/us/pl/106/43/s2/b], Aug. 5, 1999, [113 Stat. 218][/us/stat/113/218]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(1)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583; [Pub. L. 109–312, § 3(b)][/us/pl/109/312/s3/b], Oct. 6, 2006, [120 Stat. 1732][/us/stat/120/1732].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title I, § 13, [60 Stat. 433][/us/stat/60/433]; [Pub. L. 87–772][/us/pl/87/772], § 8, Oct. 9, 1962, [76 Stat. 771][/us/stat/76/771]; [Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 93–600][/us/pl/93/600], § 1, Jan. 2, 1975, [88 Stat. 1955][/us/stat/88/1955]; [Pub. L. 97–247][/us/pl/97/247], § 9(a), Aug. 27, 1982, [96 Stat. 320][/us/stat/96/320]; [Pub. L. 100–667, title I][/us/pl/100/667/tI], § 114, Nov. 16, 1988, [102 Stat. 3940][/us/stat/102/3940]; [Pub. L. 106–43][/us/pl/106/43], § 2(b), Aug. 5, 1999, [113 Stat. 218][/us/stat/113/218]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(1)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583; [Pub. L. 109–312][/us/pl/109/312], § 3(b), Oct. 6, 2006, [120 Stat. 1732][/us/stat/120/1732].)
 
  __Prior Provisions__ 
 
-    Acts [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], §§ 6, 7, [33 Stat. 726][/us/stat/33/726]; [Mar. 2, 1907, ch. 2573, § 2][/us/act/1907-03-02/ch2573/s2], [34 Stat. 1252][/us/stat/34/1252].
+    Acts [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], §§ 6, 7, [33 Stat. 726][/us/stat/33/726]; [Mar. 2, 1907, ch. 2573][/us/act/1907-03-02/ch2573], § 2, [34 Stat. 1252][/us/stat/34/1252].
 
  __Amendments__ 
 
@@ -65,7 +65,7 @@
 
  __Effective Date of 1975 Amendments__ 
 
-[Pub. L. 93–600, § 4][/us/pl/93/600/s4], Jan. 2, 1975, [88 Stat. 1955][/us/stat/88/1955], provided that: 
+[Pub. L. 93–600][/us/pl/93/600], § 4, Jan. 2, 1975, [88 Stat. 1955][/us/stat/88/1955], provided that: 
 
 > “This Act \[amending this section and sections 1071 and 1117 of this title\] shall become effective upon enactment \[Jan. 2, 1975\], but shall not affect any suit, proceeding, or appeal then pending.”
 
@@ -93,25 +93,25 @@
 [/us/usc/t15/s1051/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051%2Fb
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F433
-[/us/pl/87/772/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772%2Fs8
+[/us/pl/87/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772
 [/us/stat/76/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F771
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/93/600/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F600%2Fs1
+[/us/pl/93/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F600
 [/us/stat/88/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1955
-[/us/pl/97/247/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247%2Fs9%2Fa
+[/us/pl/97/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247
 [/us/stat/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F320
-[/us/pl/100/667/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs114
+[/us/pl/100/667/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtI
 [/us/stat/102/3940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3940
-[/us/pl/106/43/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43%2Fs2%2Fb
+[/us/pl/106/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43
 [/us/stat/113/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F218
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/109/312/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F312%2Fs3%2Fb
+[/us/pl/109/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F312
 [/us/stat/120/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1732
 [/us/act/1905-02-20/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592
 [/us/stat/33/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F726
-[/us/act/1907-03-02/ch2573/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-02%2Fch2573%2Fs2
+[/us/act/1907-03-02/ch2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-02%2Fch2573
 [/us/stat/34/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1252
 [/us/pl/109/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F312
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
@@ -134,7 +134,7 @@
 [/us/pl/97/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247
 [/us/pl/97/247/s17/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247%2Fs17%2Fc
 [/us/usc/t35/s294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs294
-[/us/pl/93/600/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F600%2Fs4
+[/us/pl/93/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F600
 [/us/stat/88/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1955
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/pl/93/596/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs4

@@ -125,11 +125,11 @@
 
         A common carrier, contract carrier, third-party logistics provider, or freight forwarder shall not, for purposes of this chapter, be deemed to be a manufacturer, distributor, or retailer of a consumer product solely by reason of receiving or transporting a consumer product in the ordinary course of its business as such a carrier or forwarder.
 
-([Pub. L. 92–573, § 3][/us/pl/92/573/s3], Oct. 27, 1972, [86 Stat. 1208][/us/stat/86/1208]; [Pub. L. 94–284, § 3(b)][/us/pl/94/284/s3/b], (d), May 11, 1976, [90 Stat. 503][/us/stat/90/503]; [Pub. L. 97–35, title XII, § 1213][/us/pl/97/35/s1213], Aug. 13, 1981, [95 Stat. 724][/us/stat/95/724]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 110–314, title II, § 235(a)][/us/pl/110/314/s235/a]–(c)(1), Aug. 14, 2008, [122 Stat. 3074][/us/stat/122/3074].)
+([Pub. L. 92–573][/us/pl/92/573], § 3, Oct. 27, 1972, [86 Stat. 1208][/us/stat/86/1208]; [Pub. L. 94–284][/us/pl/94/284], § 3(b), (d), May 11, 1976, [90 Stat. 503][/us/stat/90/503]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1213, Aug. 13, 1981, [95 Stat. 724][/us/stat/95/724]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 235(a)–(c)(1), Aug. 14, 2008, [122 Stat. 3074][/us/stat/122/3074].)
 
  __References in Text__ 
 
-    [Section 2079(d) of this title][/us/usc/t15/s2079/d], referred to in subsec. (a)(5), was repealed by [Pub. L. 110–314, title II, § 237][/us/pl/110/314/s237], Aug. 14, 2008, [122 Stat. 3076][/us/stat/122/3076].
+    [Section 2079(d) of this title][/us/usc/t15/s2079/d], referred to in subsec. (a)(5), was repealed by [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 237, Aug. 14, 2008, [122 Stat. 3076][/us/stat/122/3076].
 
     The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (a)(5)(D), is [act June 25, 1947, ch. 125][/us/act/1947-06-25/ch125], as amended generally by [Pub. L. 92–516][/us/pl/92/516], Oct. 21, 1972, [86 Stat. 973][/us/stat/86/973], which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of Title 7][/us/usc/t7/s136] and Tables.
 
@@ -141,19 +141,19 @@
 
  __Codification__ 
 
-    In subsec. (a)(5)(C), (F), “section 30102(a)(6) and (7) of title 49” substituted for “sections 102(3) and (4) of the National Traffic and Motor Vehicle Safety Act of 1966 \[[15 U.S.C. 1391(3)][/us/usc/t15/s1391/3] and (4)\]” and “[section 40102(a) of title 49][/us/usc/t49/s40102/a]” substituted for “section 101 of the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301\]” on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+    In subsec. (a)(5)(C), (F), “section 30102(a)(6) and (7) of title 49” substituted for “sections 102(3) and (4) of the National Traffic and Motor Vehicle Safety Act of 1966 \[[15 U.S.C. 1391(3)][/us/usc/t15/s1391/3] and (4)\]” and “[section 40102(a) of title 49][/us/usc/t49/s40102/a]” substituted for “section 101 of the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301\]” on authority of [Pub. L. 103–272][/us/pl/103/272], § 6(b), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
-    In subsec. (a)(5)(G), “chapter 43 of title 46” and “[section 2101(1) of title 46][/us/usc/t46/s2101/1]” substituted for “the Federal Boat Safety Act of 1971 ([46 U.S.C. 1451][/us/usc/t46/s1451] et seq.)” and “section 3(8) of the Federal Boat Safety Act of 1971 \[[46 U.S.C. 1452(8)][/us/usc/t46/s1452/8]\]”, respectively, on authority of [Pub. L. 98–89, § 2(b)][/us/pl/98/89/s2/b], Aug. 26, 1983, [97 Stat. 598][/us/stat/97/598], section 1 of which enacted Title 46, Shipping.
+    In subsec. (a)(5)(G), “chapter 43 of title 46” and “[section 2101(1) of title 46][/us/usc/t46/s2101/1]” substituted for “the Federal Boat Safety Act of 1971 ([46 U.S.C. 1451][/us/usc/t46/s1451] et seq.)” and “section 3(8) of the Federal Boat Safety Act of 1971 \[[46 U.S.C. 1452(8)][/us/usc/t46/s1452/8]\]”, respectively, on authority of [Pub. L. 98–89][/us/pl/98/89], § 2(b), Aug. 26, 1983, [97 Stat. 598][/us/stat/97/598], section 1 of which enacted Title 46, Shipping.
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–314, § 235(b)(2)][/us/pl/110/314/s235/b/2]–(4), realigned margins, inserted par. headings, reordered pars. in alphabetical order based on headings of pars., and renumbered pars. as so reordered.
+    2008—Subsec. (a). [Pub. L. 110–314][/us/pl/110/314], § 235(b)(2)–(4), realigned margins, inserted par. headings, reordered pars. in alphabetical order based on headings of pars., and renumbered pars. as so reordered.
 
-    [Pub. L. 110–314, § 235(b)(1)][/us/pl/110/314/s235/b/1], which directed amendment of subsec. (a) by substituting subsec. heading and introductory provisions for “for purposes of this chapter:”, was executed by making the substitution for “For purposes of this chapter:” to reflect the probable intent of Congress.
+    [Pub. L. 110–314][/us/pl/110/314], § 235(b)(1), which directed amendment of subsec. (a) by substituting subsec. heading and introductory provisions for “for purposes of this chapter:”, was executed by making the substitution for “For purposes of this chapter:” to reflect the probable intent of Congress.
 
-    Subsec. (a)(15) to (17). [Pub. L. 110–314, § 235(a)][/us/pl/110/314/s235/a], added pars. (15) defining “appropriate Congressional committees”, (16) defining “children’s product”, and (17) defining “third-party logistics providers”.
+    Subsec. (a)(15) to (17). [Pub. L. 110–314][/us/pl/110/314], § 235(a), added pars. (15) defining “appropriate Congressional committees”, (16) defining “children’s product”, and (17) defining “third-party logistics providers”.
 
-    Subsec. (b). [Pub. L. 110–314, § 235(b)(5)][/us/pl/110/314/s235/b/5], (c)(1), inserted heading and inserted “third-party logistics provider,” after “contract carrier,” in text.
+    Subsec. (b). [Pub. L. 110–314][/us/pl/110/314], § 235(b)(5), (c)(1), inserted heading and inserted “third-party logistics provider,” after “contract carrier,” in text.
 
     1986—Subsec. (a)(1)(E). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
@@ -163,7 +163,7 @@
 
  __Effective Date of 1981 Amendment__ 
 
-[Pub. L. 97–35, title XII, § 1215][/us/pl/97/35/s1215], Aug. 13, 1981, [95 Stat. 724][/us/stat/95/724], provided that:
+[Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1215, Aug. 13, 1981, [95 Stat. 724][/us/stat/95/724], provided that:
 
 >     “(a) Except as provided in subsection (b), the amendments made by this subtitle \[see Short Title of 1981 Amendment note set out under [section 2051 of this title][/us/usc/t15/s2051]\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\].
 
@@ -198,18 +198,18 @@
 [/us/usc/t15/s2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2079
 [/us/usc/t18/s845/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs845%2Fa%2F5
 [/us/usc/t15/s2056/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2056%2Fa
-[/us/pl/92/573/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs3
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1208
-[/us/pl/94/284/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs3%2Fb
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/stat/90/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F503
-[/us/pl/97/35/s1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1213
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F724
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/110/314/s235/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs235%2Fa
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3074
 [/us/usc/t15/s2079/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2079%2Fd
-[/us/pl/110/314/s237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs237
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3076
 [/us/act/1947-06-25/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-25%2Fch125
 [/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
@@ -224,21 +224,21 @@
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/usc/t15/s1391/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1391%2F3
 [/us/usc/t49/s40102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40102%2Fa
-[/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
 [/us/usc/t46/s2101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs2101%2F1
 [/us/usc/t46/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1451
 [/us/usc/t46/s1452/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs1452%2F8
-[/us/pl/98/89/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89%2Fs2%2Fb
+[/us/pl/98/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F89
 [/us/stat/97/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F598
-[/us/pl/110/314/s235/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs235%2Fb%2F2
-[/us/pl/110/314/s235/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs235%2Fb%2F1
-[/us/pl/110/314/s235/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs235%2Fa
-[/us/pl/110/314/s235/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs235%2Fb%2F5
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
-[/us/pl/97/35/s1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1215
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F724
 [/us/usc/t15/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2051
 [/us/usc/t15/s2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2076

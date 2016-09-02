@@ -17,7 +17,7 @@
 
     The Secretary of Commerce is authorized to create an advisory committee to consist of a representative from each of the Departments of State, Agriculture, and Commerce, the Interstate Commerce Commission, and the Department of Transportation, as may be designated by such Departments or agencies, respectively, and such additional members, representatives of the various sections of the Nation, including transportation and accommodations agencies, not to exceed six members, to be appointed by the Secretary of Commerce to serve at his pleasure. Meetings of the committee shall be held at the request of the Secretary for the purpose of making recommendations concerning the promotion of tourist travel under the provisions of sections 1544 to 1548 of this title. The members of the committee shall receive no compensation for their services as members, but shall be entitled to reimbursement for such necessary travel and other expenses in connection with their attendance at committee meetings as may be authorized or approved by the Secretary.
 
-([July 19, 1940, ch. 642, § 3][/us/act/1940-07-19/ch642/s3], [54 Stat. 773][/us/stat/54/773]; [Pub. L. 93–193, § 2][/us/pl/93/193/s2], Dec. 19, 1973, [87 Stat. 765][/us/stat/87/765]; [Pub. L. 97–31, § 12(10)][/us/pl/97/31/s12/10], Aug. 6, 1981, [95 Stat. 154][/us/stat/95/154]; [Pub. L. 98–443, § 9][/us/pl/98/443/s9](o), Oct. 4, 1984, [98 Stat. 1708][/us/stat/98/1708].)
+([July 19, 1940, ch. 642][/us/act/1940-07-19/ch642], § 3, [54 Stat. 773][/us/stat/54/773]; [Pub. L. 93–193][/us/pl/93/193], § 2, Dec. 19, 1973, [87 Stat. 765][/us/stat/87/765]; [Pub. L. 97–31][/us/pl/97/31], § 12(10), Aug. 6, 1981, [95 Stat. 154][/us/stat/95/154]; [Pub. L. 98–443][/us/pl/98/443], § 9(o), Oct. 4, 1984, [98 Stat. 1708][/us/stat/98/1708].)
 
  __Codification__ 
 
@@ -48,13 +48,13 @@
 ----------
 ----------
 
-[/us/act/1940-07-19/ch642/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-19%2Fch642%2Fs3
+[/us/act/1940-07-19/ch642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-19%2Fch642
 [/us/stat/54/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F773
-[/us/pl/93/193/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F193%2Fs2
+[/us/pl/93/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F193
 [/us/stat/87/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F765
-[/us/pl/97/31/s12/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31%2Fs12%2F10
+[/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
 [/us/stat/95/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F154
-[/us/pl/98/443/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs9
+[/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/stat/98/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1708
 [/us/usc/t16/s18b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs18b
 [/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443

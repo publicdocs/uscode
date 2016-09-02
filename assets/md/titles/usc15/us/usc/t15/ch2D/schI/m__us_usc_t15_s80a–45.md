@@ -25,7 +25,7 @@
 
         (2) to lease and allocate such real property as may be necessary for carrying out its functions under this subchapter.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 46, [54 Stat. 845][/us/stat/54/845]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Pub. L. 101–550, title I, § 104(c)][/us/pl/101/550/s104/c], Nov. 15, 1990, [104 Stat. 2714][/us/stat/104/2714].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 46, [54 Stat. 845][/us/stat/54/845]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Pub. L. 101–550, title I][/us/pl/101/550/tI], § 104(c), Nov. 15, 1990, [104 Stat. 2714][/us/stat/104/2714].)
 
  __Codification__ 
 
@@ -57,7 +57,7 @@
 [/us/stat/54/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F845
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
-[/us/pl/101/550/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs104%2Fc
+[/us/pl/101/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtI
 [/us/stat/104/2714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2714
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

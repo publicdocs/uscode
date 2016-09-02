@@ -27,7 +27,7 @@
 
         The Administration shall have authority to act as trustee or receiver of the licensee. Upon request by the Administration, the court may appoint the Administration to act in such capacity unless the court deems such appointment inequitable or otherwise inappropriate by reason of the special circumstances involved.
 
-([Pub. L. 85–699, title III, § 311][/us/pl/85/699/s311], as added [Pub. L. 87–341, § 9][/us/pl/87/341/s9], Oct. 3, 1961, [75 Stat. 755][/us/stat/75/755]; amended [Pub. L. 89–779, § 6][/us/pl/89/779/s6], Nov. 6, 1966, [80 Stat. 1360][/us/stat/80/1360]; [Pub. L. 98–620, title IV, § 402(15)(C)][/us/pl/98/620/s402/15/C], Nov. 8, 1984, [98 Stat. 3358][/us/stat/98/3358].)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 311, as added [Pub. L. 87–341][/us/pl/87/341], § 9, Oct. 3, 1961, [75 Stat. 755][/us/stat/75/755]; amended [Pub. L. 89–779][/us/pl/89/779], § 6, Nov. 6, 1966, [80 Stat. 1360][/us/stat/80/1360]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(15)(C), Nov. 8, 1984, [98 Stat. 3358][/us/stat/98/3358].)
 
  __References in Text__ 
 
@@ -50,12 +50,12 @@
 ----------
 ----------
 
-[/us/pl/85/699/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs311
-[/us/pl/87/341/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341%2Fs9
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/87/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341
 [/us/stat/75/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F755
-[/us/pl/89/779/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779%2Fs6
+[/us/pl/89/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779
 [/us/stat/80/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1360
-[/us/pl/98/620/s402/15/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F15%2FC
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3358
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620

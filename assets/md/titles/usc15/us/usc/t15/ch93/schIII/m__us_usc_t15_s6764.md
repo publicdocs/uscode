@@ -63,17 +63,17 @@
 
             A law of the United States applicable only to or within the District of Columbia shall be treated as a State law rather than a law of the United States.
 
-([Pub. L. 106–102, title III, § 334][/us/pl/106/102/s334], as added [Pub. L. 114–1, title II, § 202(a)][/us/pl/114/1/s202/a], Jan. 12, 2015, [129 Stat. 27][/us/stat/129/27].)
+([Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 334, as added [Pub. L. 114–1, title II][/us/pl/114/1/tII], § 202(a), Jan. 12, 2015, [129 Stat. 27][/us/stat/129/27].)
 
  __Prior Provisions__ 
 
     Provisions similar to this section were contained in [section 6766 of this title][/us/usc/t15/s6766], prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1].
 
-    A prior section 6764, [Pub. L. 106–102, title III, § 334][/us/pl/106/102/s334], Nov. 12, 1999, [113 Stat. 1433][/us/stat/113/1433], related to coordination with other regulators, prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1]. See [section 6761 of this title][/us/usc/t15/s6761].
+    A prior section 6764, [Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 334, Nov. 12, 1999, [113 Stat. 1433][/us/stat/113/1433], related to coordination with other regulators, prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1]. See [section 6761 of this title][/us/usc/t15/s6761].
 
-    A prior section 6765, [Pub. L. 106–102, title III, § 335][/us/pl/106/102/s335], Nov. 12, 1999, [113 Stat. 1433][/us/stat/113/1433], which related to judicial review, was omitted in the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1]. See [section 6762 of this title][/us/usc/t15/s6762].
+    A prior section 6765, [Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 335, Nov. 12, 1999, [113 Stat. 1433][/us/stat/113/1433], which related to judicial review, was omitted in the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1]. See [section 6762 of this title][/us/usc/t15/s6762].
 
-    A prior section 6766, [Pub. L. 106–102, title III, § 336][/us/pl/106/102/s336], Nov. 12, 1999, [113 Stat. 1433][/us/stat/113/1433], which related to definitions, was omitted in the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1].
+    A prior section 6766, [Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 336, Nov. 12, 1999, [113 Stat. 1433][/us/stat/113/1433], which related to definitions, was omitted in the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1].
 
 ----------
 
@@ -84,20 +84,20 @@
 
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t31/s313/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs313%2Fe%2F2%2FB
-[/us/pl/106/102/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs334
-[/us/pl/114/1/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs202%2Fa
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
+[/us/pl/114/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2FtII
 [/us/stat/129/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F27
 [/us/usc/t15/s6766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6766
 [/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
-[/us/pl/106/102/s334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs334
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1433
 [/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
 [/us/usc/t15/s6761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6761
-[/us/pl/106/102/s335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs335
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1433
 [/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
 [/us/usc/t15/s6762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6762
-[/us/pl/106/102/s336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs336
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1433
 [/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
 

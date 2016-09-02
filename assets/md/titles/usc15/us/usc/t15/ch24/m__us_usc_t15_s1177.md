@@ -17,7 +17,7 @@
 
     Any gambling device transported, delivered, shipped, manufactured, reconditioned, repaired, sold, disposed of, received, possessed, or used in violation of the provisions of this chapter shall be seized and forfeited to the United States. All provisions of law relating to the seizure, summary and judicial forfeiture, and condemnation of vessels, vehicles, merchandise, and baggage for violation of the customs laws; the disposition of such vessels, vehicles, merchandise, and baggage or the proceeds from the sale thereof; the remission or mitigation of such forfeitures; and the compromise of claims and the award of compensation to informers in respect of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as applicable and not inconsistent with the provisions hereof: Provided, That such duties as are imposed upon the collector of customs or any other person with respect to the seizure and forfeiture of vessels, vehicles, merchandise, and baggage under the customs laws shall be performed with respect to seizures and forfeitures of gambling devices under this chapter by such officers, agents, or other persons as may be authorized or designated for that purpose by the Attorney General.
 
-([Jan. 2, 1951, ch. 1194, § 7][/us/act/1951-01-02/ch1194/s7], [64 Stat. 1135][/us/stat/64/1135].)
+([Jan. 2, 1951, ch. 1194][/us/act/1951-01-02/ch1194], § 7, [64 Stat. 1135][/us/stat/64/1135].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1951-01-02/ch1194/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-02%2Fch1194%2Fs7
+[/us/act/1951-01-02/ch1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-02%2Fch1194
 [/us/stat/64/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1135
 [/us/stat/79/1317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1317
 [/us/stat/64/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1280

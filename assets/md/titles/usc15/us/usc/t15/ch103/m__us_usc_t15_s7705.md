@@ -57,7 +57,7 @@
 
         Except as provided in [section 7706(f)(8) of this title][/us/usc/t15/s7706/f/8], nothing in this section may be construed to limit or prevent any action that may be taken under this chapter with respect to any violation of any other section of this chapter.
 
-([Pub. L. 108–187, § 6][/us/pl/108/187/s6], Dec. 16, 2003, [117 Stat. 2710][/us/stat/117/2710].)
+([Pub. L. 108–187][/us/pl/108/187], § 6, Dec. 16, 2003, [117 Stat. 2710][/us/stat/117/2710].)
 
  __References in Text__ 
 
@@ -74,7 +74,7 @@
 [/us/usc/t15/s7704/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7704%2Fa%2F1
 [/us/usc/t15/s7706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7706
 [/us/usc/t15/s7706/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7706%2Ff%2F8
-[/us/pl/108/187/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs6
+[/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2710
 [/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2699

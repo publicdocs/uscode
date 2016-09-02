@@ -55,7 +55,7 @@
 
         The information included in each report under subsection (d) that is described in subparagraphs (A) through (C) of subsection (d)(6), shall be reported verbatim, together with any separate additional, concurring, or dissenting views of the Administrator.
 
-([Pub. L. 100–533, title IV, § 406][/us/pl/100/533/s406], as added [Pub. L. 103–403, title IV, § 413][/us/pl/103/403/s413], Oct. 22, 1994, [108 Stat. 4195][/us/stat/108/4195]; amended [Pub. L. 105–135, title III, § 303][/us/pl/105/135/s303], Dec. 2, 1997, [111 Stat. 2609][/us/stat/111/2609].)
+([Pub. L. 100–533, title IV][/us/pl/100/533/tIV], § 406, as added [Pub. L. 103–403, title IV][/us/pl/103/403/tIV], § 413, Oct. 22, 1994, [108 Stat. 4195][/us/stat/108/4195]; amended [Pub. L. 105–135, title III][/us/pl/105/135/tIII], § 303, Dec. 2, 1997, [111 Stat. 2609][/us/stat/111/2609].)
 
  __Prior Provisions__ 
 
@@ -63,11 +63,11 @@
 
  __Amendments__ 
 
-    1997—Subsec. (c). [Pub. L. 105–135, § 303(1)][/us/pl/105/135/s303/1], inserted “(through the Assistant Administrator of the Office of Women’s Business Ownership)” after “Administrator”.
+    1997—Subsec. (c). [Pub. L. 105–135][/us/pl/105/135], § 303(1), inserted “(through the Assistant Administrator of the Office of Women’s Business Ownership)” after “Administrator”.
 
-    Subsec. (d)(6). [Pub. L. 105–135, § 303(2)][/us/pl/105/135/s303/2], added par. (6).
+    Subsec. (d)(6). [Pub. L. 105–135][/us/pl/105/135], § 303(2), added par. (6).
 
-    Subsec. (e). [Pub. L. 105–135, § 303(2)][/us/pl/105/135/s303/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 105–135][/us/pl/105/135], § 303(2), added subsec. (e).
 
  __Change of Name__ 
 
@@ -84,18 +84,18 @@
 ----------
 ----------
 
-[/us/pl/100/533/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs406
-[/us/pl/103/403/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs413
+[/us/pl/100/533/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2FtIV
+[/us/pl/103/403/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtIV
 [/us/stat/108/4195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4195
-[/us/pl/105/135/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs303
+[/us/pl/105/135/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtIII
 [/us/stat/111/2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2609
 [/us/pl/100/533/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs406
 [/us/stat/102/2696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2696
 [/us/pl/100/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533
 [/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
-[/us/pl/105/135/s303/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs303%2F1
-[/us/pl/105/135/s303/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs303%2F2
-[/us/pl/105/135/s303/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs303%2F2
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/105/135/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs3
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631

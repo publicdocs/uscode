@@ -23,7 +23,7 @@
 
     (3) such additional information as the commission may require.
 
-([Pub. L. 104–272, § 12][/us/pl/104/272/s12], as added [Pub. L. 106–210, § 4(2)][/us/pl/106/210/s4/2], May 26, 2000, [114 Stat. 324][/us/stat/114/324].)
+([Pub. L. 104–272][/us/pl/104/272], § 12, as added [Pub. L. 106–210][/us/pl/106/210], § 4(2), May 26, 2000, [114 Stat. 324][/us/stat/114/324].)
 
  __Prior Provisions__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/104/272/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs12
-[/us/pl/106/210/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs4%2F2
+[/us/pl/104/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 [/us/stat/114/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F324
 [/us/pl/104/272/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs12
 [/us/usc/t15/s6311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6311

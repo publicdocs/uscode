@@ -29,7 +29,7 @@
 
         (C) to make grants to Renewable Fuel Investment Capital companies, and to other entities, for the purpose of providing operational assistance to smaller enterprises financed, or expected to be financed, by such companies.
 
-([Pub. L. 85–699, title III, § 382][/us/pl/85/699/s382], as added [Pub. L. 110–140, title XII, § 1207][/us/pl/110/140/s1207], Dec. 19, 2007, [121 Stat. 1775][/us/stat/121/1775].)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 382, as added [Pub. L. 110–140, title XII][/us/pl/110/140/tXII], § 1207, Dec. 19, 2007, [121 Stat. 1775][/us/stat/121/1775].)
 
 ----------
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/pl/85/699/s382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs382
-[/us/pl/110/140/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1207
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/110/140/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXII
 [/us/stat/121/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1775
 
 

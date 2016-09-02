@@ -17,7 +17,7 @@
 
     The rights and remedies provided by this chapter shall be in addition to any and all other rights and remedies that may exist at law or in equity.
 
-([Pub. L. 90–448, title XIV, § 1414][/us/pl/90/448/s1414], Aug. 1, 1968, [82 Stat. 596][/us/stat/82/596].)
+([Pub. L. 90–448, title XIV][/us/pl/90/448/tXIV], § 1414, Aug. 1, 1968, [82 Stat. 596][/us/stat/82/596].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/448/s1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1414
+[/us/pl/90/448/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIV
 [/us/stat/82/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F596
 
 

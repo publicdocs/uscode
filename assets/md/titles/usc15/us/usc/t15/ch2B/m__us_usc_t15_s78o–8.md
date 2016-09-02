@@ -29,7 +29,7 @@
 
         Nothing in this section shall prohibit a nationally recognized statistical rating organization from using distinct sets of symbols to denote credit ratings for different types of securities or money market instruments.
 
-([Pub. L. 111–203, title IX, § 938][/us/pl/111/203/s938], July 21, 2010, [124 Stat. 1885][/us/stat/124/1885].)
+([Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 938, July 21, 2010, [124 Stat. 1885][/us/stat/124/1885].)
 
  __Codification__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs938
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1885
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

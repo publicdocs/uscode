@@ -17,7 +17,7 @@
 
     No action shall be maintained to enforce any right or liability created by this chapter unless brought within six years after such cause of action accrued, except that an action pursuant to [section 3608 of this title][/us/usc/t15/s3608] must be brought within four years after October 8, 1980.
 
-([Pub. L. 96–399, title VI, § 614][/us/pl/96/399/s614], Oct. 8, 1980, [94 Stat. 1680][/us/stat/94/1680].)
+([Pub. L. 96–399, title VI][/us/pl/96/399/tVI], § 614, Oct. 8, 1980, [94 Stat. 1680][/us/stat/94/1680].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t15/s3608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3608
-[/us/pl/96/399/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs614
+[/us/pl/96/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtVI
 [/us/stat/94/1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1680
 
 

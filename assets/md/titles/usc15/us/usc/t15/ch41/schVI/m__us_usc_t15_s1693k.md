@@ -21,7 +21,7 @@
 
     (2) require a consumer to establish an account for receipt of electronic fund transfers with a particular financial institution as a condition of employment or receipt of a government benefit.
 
-([Pub. L. 90–321, title IX, § 913][/us/pl/90/321/s913], as added [Pub. L. 95–630, title XX, § 2001][/us/pl/95/630/s2001], Nov. 10, 1978, [92 Stat. 3737][/us/stat/92/3737].)
+([Pub. L. 90–321, title IX][/us/pl/90/321/tIX], § 913, as added [Pub. L. 95–630, title XX][/us/pl/95/630/tXX], § 2001, Nov. 10, 1978, [92 Stat. 3737][/us/stat/92/3737].)
 
 ----------
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/90/321/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs913
-[/us/pl/95/630/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs2001
+[/us/pl/90/321/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIX
+[/us/pl/95/630/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXX
 [/us/stat/92/3737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3737
 
 

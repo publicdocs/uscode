@@ -49,7 +49,7 @@
 
             Beginning for fiscal year 2010, the Inspector General of the Commission shall include in an annual report to the appropriate Congressional committees the Inspector General’s findings, conclusions, and recommendations from the reviews and audits under subsections (a) and (b).
 
-([Pub. L. 110–314, title II, § 205][/us/pl/110/314/s205], Aug. 14, 2008, [122 Stat. 3043][/us/stat/122/3043].)
+([Pub. L. 110–314, title II][/us/pl/110/314/tII], § 205, Aug. 14, 2008, [122 Stat. 3043][/us/stat/122/3043].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 [/us/usc/t15/s2055a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2055a
 [/us/usc/t15/s2063/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2063%2Fa%2F3
 [/us/usc/t15/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2051
-[/us/pl/110/314/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs205
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3043
 [/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/stat/122/3016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3016

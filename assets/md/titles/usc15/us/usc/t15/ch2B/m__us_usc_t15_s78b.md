@@ -25,7 +25,7 @@
 
     (4) National emergencies, which produce widespread unemployment and the dislocation of trade, transportation, and industry, and which burden interstate commerce and adversely affect the general welfare, are precipitated, intensified, and prolonged by manipulation and sudden and unreasonable fluctuations of security prices and by excessive speculation on such exchanges and markets, and to meet such emergencies the Federal Government is put to such great expense as to burden the national credit.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 2, [48 Stat. 881][/us/stat/48/881]; [Pub. L. 94–29, § 2][/us/pl/94/29/s2], June 4, 1975, [89 Stat. 97][/us/stat/89/97]; [Pub. L. 111–203, title IX, § 985(b)(1)][/us/pl/111/203/s985/b/1], July 21, 2010, [124 Stat. 1933][/us/stat/124/1933].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 2, [48 Stat. 881][/us/stat/48/881]; [Pub. L. 94–29][/us/pl/94/29], § 2, June 4, 1975, [89 Stat. 97][/us/stat/89/97]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 985(b)(1), July 21, 2010, [124 Stat. 1933][/us/stat/124/1933].)
 
  __Amendments__ 
 
@@ -39,13 +39,13 @@
 
  __Effective Date of 1975 Amendment__ 
 
-[Pub. L. 94–29, § 31(a)][/us/pl/94/29/s31/a], June 4, 1975, [89 Stat. 170][/us/stat/89/170], provided that: 
+[Pub. L. 94–29][/us/pl/94/29], § 31(a), June 4, 1975, [89 Stat. 170][/us/stat/89/170], provided that: 
 
 > “This Act \[enacting sections 78k–1, 78o–4, 78q–1, and 78kk of this title, amending this section and sections 77d, 77x, 77yyy, 78c, 78d–1, 78f, 78h, 78k, 78l, 78m, 78o, 78o–3, 78q, 78s, 78u, 78w, 78x, 78y, 78bb, 78ee, 78ff, 78iii, 79z–3, 80a–9, 80a–10, 80a–13, 80a–15, 80a–16, 80a–18, 80a–31, 80a–35, 80a–48, 80b–3, 80b–4, and 80b–17 of this title, and enacting provisions set out as notes under sections 78a and 78f of this title\] shall become effective on the date of its enactment \[June 4, 1975\] except as hereinafter provided. The amendments made by this Act to sections 3(a)(12), 6(a) through (d), 11A(b), 15(a), 15A, 15B(a), 17A(b), and (c), and 19(g) of the Securities Exchange Act of 1934 \[sections 78c(a)(12), 78f(a) through (d), 78k–1(b), 78o(a), 78o–3, 78o–4(a), 78q–1(b) and (c), and 78s(g) of this title\] shall become effective one hundred eighty days after the date of enactment of this Act \[June 4, 1975\], and the amendments made by this Act to section 31 of the Securities Exchange Act of 1934 \[[section 78ee of this title][/us/usc/t15/s78ee]\] shall become effective on January 1, 1976. Neither the provisions of section 3(a)(3), 6(b)(2), or 6(c)(1) of the Securities Exchange Act of 1934 (as amended by this Act) \[section 78c(a)(3), 78f(b)(2), or 78f(c)(1) of this title\] nor any rule or regulation thereunder shall apply so as to deprive any person of membership in any national securities exchange (or its successor) of which such person was, on the date of enactment of this Act \[June 4, 1975\], a member or a member firm as defined in the constitution of such exchange or so as to deny membership in any such exchange (or its successor) to any natural person who is or becomes associated with such member or member firm.”
 
  __Study and Report on Impact of Technological Advances on Securities Markets__ 
 
-[Pub. L. 104–290, title V, § 510(a)][/us/pl/104/290/s510/a], Oct. 11, 1996, [110 Stat. 3450][/us/stat/110/3450], provided that:
+[Pub. L. 104–290, title V][/us/pl/104/290/tV], § 510(a), Oct. 11, 1996, [110 Stat. 3450][/us/stat/110/3450], provided that:
 
 >     “(1) __Study.—__ 
 
@@ -79,11 +79,11 @@
 
  __Joint Study on Impact of Additional Securities Based on Pooled Obligations__ 
 
-[Pub. L. 103–325, title II, § 209][/us/pl/103/325/s209], Sept. 23, 1994, [108 Stat. 2202][/us/stat/108/2202], provided that:
+[Pub. L. 103–325, title II][/us/pl/103/325/tII], § 209, Sept. 23, 1994, [108 Stat. 2202][/us/stat/108/2202], provided that:
 
 >     “(a)  __Joint Study Required__  __.—__ 
 
->     The Board and the Commission shall conduct a joint study of the impact of the provisions of this subtitle \[subtitle A \[§[§ 201–210 of title II of Pub. L. 103–325][/us/pl/103/325/s201–210]\], see Short Title of 1994 Amendment note set out under [section 78a of this title][/us/usc/t15/s78a]\] (including the amendments made by this subtitle) on the credit and securities markets. Such study shall evaluate—
+>     The Board and the Commission shall conduct a joint study of the impact of the provisions of this subtitle \[subtitle A \[§§ 201–210 of title II of [Pub. L. 103–325][/us/pl/103/325]\], see Short Title of 1994 Amendment note set out under [section 78a of this title][/us/usc/t15/s78a]\] (including the amendments made by this subtitle) on the credit and securities markets. Such study shall evaluate—
 
 >         “(1)
 
@@ -133,7 +133,7 @@
 
  __Intermarket Coordination; Reports to Congress__ 
 
-[Pub. L. 101–432, § 8(a)][/us/pl/101/432/s8/a], Oct. 16, 1990, [104 Stat. 976][/us/stat/104/976], provided that: 
+[Pub. L. 101–432][/us/pl/101/432], § 8(a), Oct. 16, 1990, [104 Stat. 976][/us/stat/104/976], provided that: 
 
 > “The Secretary of the Treasury, the Chairman of the Board of Governors of the Federal Reserve System, the Chairman of the Securities and Exchange Commission, and the Chairman of the Commodity Futures Trading Commission, shall report to the Congress not later than May 31, 1991, and annually thereafter until May 31, 1995, on the following:
 
@@ -149,7 +149,7 @@
 
  __Securities Laws Study__ 
 
-    [Pub. L. 100–704, § 7][/us/pl/100/704/s7], Nov. 19, 1988, [102 Stat. 4682][/us/stat/102/4682], directed Securities and Exchange Commission to study and investigate adequacy of Federal securities laws and regulations for protection of the public interest and interests of investors, specified subjects for the study and investigation and authority of Commission in conducting the study and investigation, directed Commission to supply interim information to Congress on the progress of, and any impediments to completing, the study and investigation, directed Commission to report to Congress on results of the study and investigation within 18 months after the date funds are appropriated for the study and investigation, including in such report the Commission’s recommendations.
+    [Pub. L. 100–704][/us/pl/100/704], § 7, Nov. 19, 1988, [102 Stat. 4682][/us/stat/102/4682], directed Securities and Exchange Commission to study and investigate adequacy of Federal securities laws and regulations for protection of the public interest and interests of investors, specified subjects for the study and investigation and authority of Commission in conducting the study and investigation, directed Commission to supply interim information to Congress on the progress of, and any impediments to completing, the study and investigation, directed Commission to report to Congress on results of the study and investigation within 18 months after the date funds are appropriated for the study and investigation, including in such report the Commission’s recommendations.
 
  __Foreign Investment Study__ 
 
@@ -200,27 +200,27 @@
 
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
-[/us/pl/94/29/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs2
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F97
-[/us/pl/111/203/s985/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs985%2Fb%2F1
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1933
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/94/29/s31/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs31%2Fa
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F170
 [/us/usc/t15/s78ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78ee
-[/us/pl/104/290/s510/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs510%2Fa
+[/us/pl/104/290/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtV
 [/us/stat/110/3450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3450
-[/us/pl/103/325/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs209
+[/us/pl/103/325/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtII
 [/us/stat/108/2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2202
-[/us/pl/103/325/s201–210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs201%E2%80%93210
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/101/432/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432%2Fs8%2Fa
+[/us/pl/101/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432
 [/us/stat/104/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F976
-[/us/pl/100/704/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F704%2Fs7
+[/us/pl/100/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F704
 [/us/stat/102/4682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4682
 [/us/pl/93/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F479
 [/us/stat/88/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1450

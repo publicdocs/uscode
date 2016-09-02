@@ -21,7 +21,7 @@
 
     (2) different individuals to serve as chairman of the board of directors and chief executive officer (or in equivalent positions of the issuer).
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 14B, as added [Pub. L. 111–203, title IX, § 972][/us/pl/111/203/s972], July 21, 2010, [124 Stat. 1915][/us/stat/124/1915].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 14B, as added [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 972, July 21, 2010, [124 Stat. 1915][/us/stat/124/1915].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/111/203/s972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs972
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1915
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4

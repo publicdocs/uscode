@@ -17,7 +17,7 @@
 
     The Administrator shall, by regulation, establish such requirements as may be necessary to carry out this chapter.
 
-([Pub. L. 103–325, title I, § 181][/us/pl/103/325/s181], as added [Pub. L. 106–102, title VII, § 725][/us/pl/106/102/s725], Nov. 12, 1999, [113 Stat. 1475][/us/stat/113/1475].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 181, as added [Pub. L. 106–102, title VII][/us/pl/106/102/tVII], § 725, Nov. 12, 1999, [113 Stat. 1475][/us/stat/113/1475].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/103/325/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs181
-[/us/pl/106/102/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs725
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
+[/us/pl/106/102/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtVII
 [/us/stat/113/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1475
 
 

@@ -41,7 +41,7 @@
 
         (2) shall be construed to transfer authority regarding the control, use, or allocation of law enforcement resources, or the initiation or prosecution of individual cases or types of cases, from the responsible law enforcement department or agency.
 
-([Pub. L. 110–403, title III, § 305][/us/pl/110/403/s305], Oct. 13, 2008, [122 Stat. 4270][/us/stat/122/4270].)
+([Pub. L. 110–403, title III][/us/pl/110/403/tIII], § 305, Oct. 13, 2008, [122 Stat. 4270][/us/stat/122/4270].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t15/s8111/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8111%2Fb%2F3%2FA
-[/us/pl/110/403/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs305
+[/us/pl/110/403/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtIII
 [/us/stat/122/4270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4270
 [/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
 [/us/stat/122/4256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4256

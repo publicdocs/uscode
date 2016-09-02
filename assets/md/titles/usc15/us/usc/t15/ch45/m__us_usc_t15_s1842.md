@@ -17,7 +17,7 @@
 
     The Board, on such terms and conditions as it deems appropriate, may guarantee, or make commitments to guarantee, lenders against loss of principal or interest on loans that meet the requirements of this chapter.
 
-([Pub. L. 92–70, § 3][/us/pl/92/70/s3], Aug. 9, 1971, [85 Stat. 178][/us/stat/85/178].)
+([Pub. L. 92–70][/us/pl/92/70], § 3, Aug. 9, 1971, [85 Stat. 178][/us/stat/85/178].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/70/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70%2Fs3
+[/us/pl/92/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70
 [/us/stat/85/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F178
 
 

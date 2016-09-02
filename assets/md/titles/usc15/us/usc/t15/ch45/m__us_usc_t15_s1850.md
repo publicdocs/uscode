@@ -23,7 +23,7 @@
 
         The Board shall be entitled to recover from the borrower, or any other person liable therefor, the amount of any payments made pursuant to any guarantee agreement entered into under this chapter, and upon making any such payment, the Board shall be subrogated to all the rights of the recipient thereof.
 
-([Pub. L. 92–70, § 11][/us/pl/92/70/s11], Aug. 9, 1971, [85 Stat. 181][/us/stat/85/181].)
+([Pub. L. 92–70][/us/pl/92/70], § 11, Aug. 9, 1971, [85 Stat. 181][/us/stat/85/181].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/92/70/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70%2Fs11
+[/us/pl/92/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70
 [/us/stat/85/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F181
 
 

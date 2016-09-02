@@ -35,7 +35,7 @@
 
         The Secretary shall require the sponsor of the Alaska natural gas transportation system to submit such updated environmental data, reports, permits, and impact analyses as the Secretary determines are necessary to develop detailed terms, conditions, and compliance plans required by section 5 of the President’s decision.
 
-([Pub. L. 108–324, div. C, § 110][/us/pl/108/324/s110], Oct. 13, 2004, [118 Stat. 1262][/us/stat/118/1262].)
+([Pub. L. 108–324, div. C][/us/pl/108/324/dC], § 110, Oct. 13, 2004, [118 Stat. 1262][/us/stat/118/1262].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 [/us/usc/t15/s719g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719g
 [/us/usc/t15/s719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719
 [/us/usc/t15/s719g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719g
-[/us/pl/108/324/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs110
+[/us/pl/108/324/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2FdC
 [/us/stat/118/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1262
 [/us/pl/108/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324
 [/us/stat/118/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1255

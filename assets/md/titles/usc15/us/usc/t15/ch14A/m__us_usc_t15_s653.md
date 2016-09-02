@@ -37,15 +37,15 @@
 
         (5) work with the United States Tourism and Travel Administration to assist small businesses in rural areas with tourism promotion and development.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[26\], as added [Pub. L. 101–574, title III, § 302][/us/pl/101/574/s302], Nov. 15, 1990, [104 Stat. 2827][/us/stat/104/2827].)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[26\], as added [Pub. L. 101–574, title III][/us/pl/101/574/tIII], § 302, Nov. 15, 1990, [104 Stat. 2827][/us/stat/104/2827].)
 
  __Catalog of Programs To Assist Rural Small Business Concerns__ 
 
-    [Pub. L. 101–574, title III, § 304][/us/pl/101/574/s304], Nov. 15, 1990, [104 Stat. 2829][/us/stat/104/2829], required the Small Business Administration to compile a catalog of programs administered by Federal and State departments and agencies which offer assistance to small business concerns in rural areas by no later than 180 days after Nov. 15, 1990, and to issue updates of the catalog by Feb. 1, 1993, and Feb. 1, 1995.
+    [Pub. L. 101–574, title III][/us/pl/101/574/tIII], § 304, Nov. 15, 1990, [104 Stat. 2829][/us/stat/104/2829], required the Small Business Administration to compile a catalog of programs administered by Federal and State departments and agencies which offer assistance to small business concerns in rural areas by no later than 180 days after Nov. 15, 1990, and to issue updates of the catalog by Feb. 1, 1993, and Feb. 1, 1995.
 
  __Rural Small Business Conferences__ 
 
-[Pub. L. 101–574, title III, § 306][/us/pl/101/574/s306], Nov. 15, 1990, [104 Stat. 2829][/us/stat/104/2829], provided that:
+[Pub. L. 101–574, title III][/us/pl/101/574/tIII], § 306, Nov. 15, 1990, [104 Stat. 2829][/us/stat/104/2829], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -81,7 +81,7 @@
 
  __Rural Tourism Training Program__ 
 
-[Pub. L. 101–574, title III, § 311][/us/pl/101/574/s311], Nov. 15, 1990, [104 Stat. 2832][/us/stat/104/2832], provided that: 
+[Pub. L. 101–574, title III][/us/pl/101/574/tIII], § 311, Nov. 15, 1990, [104 Stat. 2832][/us/stat/104/2832], provided that: 
 
 > “The Chief Counsel for Advocacy of the Small Business Administration shall conduct training sessions on the types of Federal assistance available for the development of rural small businesses engaged in tourism and tourism-related activities. Such training sessions shall be conducted in conjunction with the Office of Rural Affairs (established pursuant to section 26 of the Small Business Act \[[15 U.S.C. 653][/us/usc/t15/s653]\]) and appropriate personnel designated by each district office of the Administration.”
 
@@ -92,16 +92,16 @@
 ----------
 ----------
 
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
-[/us/pl/101/574/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs302
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
+[/us/pl/101/574/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2FtIII
 [/us/stat/104/2827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2827
-[/us/pl/101/574/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs304
+[/us/pl/101/574/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2FtIII
 [/us/stat/104/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2829
-[/us/pl/101/574/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs306
+[/us/pl/101/574/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2FtIII
 [/us/stat/104/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2829
 [/us/pl/94/305/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2Fs206
 [/us/usc/t15/s634f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs634f
-[/us/pl/101/574/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs311
+[/us/pl/101/574/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2FtIII
 [/us/stat/104/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2832
 [/us/usc/t15/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs653
 

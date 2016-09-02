@@ -27,7 +27,7 @@
 
         Notwithstanding [section 1640(e) of this title][/us/usc/t15/s1640/e], any action under this section may be brought in any United States district court or in any other court of competent jurisdiction. Such actions alleging a failure to disclose or otherwise comply with the requirements of this part shall be brought within one year of the termination of the lease agreement.
 
-([Pub. L. 90–321, title I, § 185][/us/pl/90/321/s185], as added [Pub. L. 94–240, § 3][/us/pl/94/240/s3], Mar. 23, 1976, [90 Stat. 260][/us/stat/90/260]; amended [Pub. L. 96–221, title VI, § 624][/us/pl/96/221/s624], Mar. 31, 1980, [94 Stat. 185][/us/stat/94/185].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 185, as added [Pub. L. 94–240][/us/pl/94/240], § 3, Mar. 23, 1976, [90 Stat. 260][/us/stat/90/260]; amended [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 624, Mar. 31, 1980, [94 Stat. 185][/us/stat/94/185].)
 
  __Amendments__ 
 
@@ -48,10 +48,10 @@
 [/us/usc/t15/s1667c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1667c
 [/us/usc/t15/s1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1640
 [/us/usc/t15/s1640/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1640%2Fe
-[/us/pl/90/321/s185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs185
-[/us/pl/94/240/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240%2Fs3
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/94/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240
 [/us/stat/90/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F260
-[/us/pl/96/221/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs624
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F185
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/usc/t15/s1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1614

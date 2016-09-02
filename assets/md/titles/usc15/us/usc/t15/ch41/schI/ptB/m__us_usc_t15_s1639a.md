@@ -67,7 +67,7 @@
 
         No provision of subsection (b) or (d) shall be construed as affecting the liability of any servicer or person as described in subsection (d) for actual fraud in the origination or servicing of a loan or in the implementation of a qualified loss mitigation plan, or for the violation of a State or Federal law, including laws regulating the origination of mortgage loans, commonly referred to as predatory lending laws.
 
-([Pub. L. 90–321, title I, § 129A][/us/pl/90/321/s129A], as added [Pub. L. 110–289, div. A, title IV, § 1403][/us/pl/110/289/s1403], July 30, 2008, [122 Stat. 2809][/us/stat/122/2809]; renumbered § 129 and amended [Pub. L. 111–22, div. A, title II, § 201(b)][/us/pl/111/22/s201/b], May 20, 2009, [123 Stat. 1638][/us/stat/123/1638]; renumbered § 129A, [Pub. L. 111–203, title XIV, § 1402(a)(1)][/us/pl/111/203/s1402/a/1], July 21, 2010, [124 Stat. 2138][/us/stat/124/2138].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 129A, as added [Pub. L. 110–289, div. A, title IV][/us/pl/110/289/dA/tIV], § 1403, July 30, 2008, [122 Stat. 2809][/us/stat/122/2809]; renumbered § 129 and amended [Pub. L. 111–22, div. A, title II][/us/pl/111/22/dA/tII], § 201(b), May 20, 2009, [123 Stat. 1638][/us/stat/123/1638]; renumbered § 129A, [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1402(a)(1), July 21, 2010, [124 Stat. 2138][/us/stat/124/2138].)
 
  __References in Text__ 
 
@@ -79,7 +79,7 @@
 
  __Findings__ 
 
-[Pub. L. 111–22, div. A, title II, § 201(a)][/us/pl/111/22/s201/a], May 20, 2009, [123 Stat. 1638][/us/stat/123/1638], provided that: 
+[Pub. L. 111–22, div. A, title II][/us/pl/111/22/dA/tII], § 201(a), May 20, 2009, [123 Stat. 1638][/us/stat/123/1638], provided that: 
 
 > “Congress finds the following:
 
@@ -109,18 +109,18 @@
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
-[/us/pl/90/321/s129A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs129A
-[/us/pl/110/289/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1403
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/110/289/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtIV
 [/us/stat/122/2809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2809
-[/us/pl/111/22/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs201%2Fb
+[/us/pl/111/22/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtII
 [/us/stat/123/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1638
-[/us/pl/111/203/s1402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1402%2Fa%2F1
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2138
 [/us/pl/110/343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F343
 [/us/stat/122/3765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3765
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
-[/us/pl/111/22/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs201%2Fa
+[/us/pl/111/22/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtII
 [/us/stat/123/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1638
 [/us/usc/t12/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5201
 

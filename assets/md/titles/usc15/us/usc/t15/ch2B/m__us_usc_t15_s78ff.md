@@ -39,7 +39,7 @@
 
         (3) Whenever a fine is imposed under paragraph (2) upon any officer, director, employee, agent, or stockholder of an issuer, such fine may not be paid, directly or indirectly, by such issuer.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 32, [48 Stat. 904][/us/stat/48/904]; [May 27, 1936, ch. 462, § 9][/us/act/1936-05-27/ch462/s9], [49 Stat. 1380][/us/stat/49/1380]; [June 25, 1938, ch. 677, § 4][/us/act/1938-06-25/ch677/s4], [52 Stat. 1076][/us/stat/52/1076]; [Pub. L. 88–467, § 11][/us/pl/88/467/s11], Aug. 20, 1964, [78 Stat. 580][/us/stat/78/580]; [Pub. L. 94–29][/us/pl/94/29], §§ 23, 27(b), June 4, 1975, [89 Stat. 162][/us/stat/89/162], 163; [Pub. L. 95–213, title I, § 103(b)][/us/pl/95/213/s103/b], Dec. 19, 1977, [91 Stat. 1496][/us/stat/91/1496]; [Pub. L. 98–376, § 3][/us/pl/98/376/s3], Aug. 10, 1984, [98 Stat. 1265][/us/stat/98/1265]; [Pub. L. 100–418, title V, § 5003(b)][/us/pl/100/418/s5003/b], Aug. 23, 1988, [102 Stat. 1419][/us/stat/102/1419]; [Pub. L. 100–704, § 4][/us/pl/100/704/s4], Nov. 19, 1988, [102 Stat. 4680][/us/stat/102/4680]; [Pub. L. 105–366, § 2(d)][/us/pl/105/366/s2/d], Nov. 10, 1998, [112 Stat. 3303][/us/stat/112/3303]; [Pub. L. 107–204, title XI, § 1106][/us/pl/107/204/s1106], July 30, 2002, [116 Stat. 810][/us/stat/116/810].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 32, [48 Stat. 904][/us/stat/48/904]; [May 27, 1936, ch. 462][/us/act/1936-05-27/ch462], § 9, [49 Stat. 1380][/us/stat/49/1380]; [June 25, 1938, ch. 677][/us/act/1938-06-25/ch677], § 4, [52 Stat. 1076][/us/stat/52/1076]; [Pub. L. 88–467][/us/pl/88/467], § 11, Aug. 20, 1964, [78 Stat. 580][/us/stat/78/580]; [Pub. L. 94–29][/us/pl/94/29], §§ 23, 27(b), June 4, 1975, [89 Stat. 162][/us/stat/89/162], 163; [Pub. L. 95–213, title I][/us/pl/95/213/tI], § 103(b), Dec. 19, 1977, [91 Stat. 1496][/us/stat/91/1496]; [Pub. L. 98–376][/us/pl/98/376], § 3, Aug. 10, 1984, [98 Stat. 1265][/us/stat/98/1265]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5003(b), Aug. 23, 1988, [102 Stat. 1419][/us/stat/102/1419]; [Pub. L. 100–704][/us/pl/100/704], § 4, Nov. 19, 1988, [102 Stat. 4680][/us/stat/102/4680]; [Pub. L. 105–366][/us/pl/105/366], § 2(d), Nov. 10, 1998, [112 Stat. 3303][/us/stat/112/3303]; [Pub. L. 107–204, title XI][/us/pl/107/204/tXI], § 1106, July 30, 2002, [116 Stat. 810][/us/stat/116/810].)
 
  __References in Text__ 
 
@@ -49,9 +49,9 @@
 
     2002—Subsec. (a). [Pub. L. 107–204][/us/pl/107/204] substituted “$5,000,000, or imprisoned not more than 20 years” for “$1,000,000, or imprisoned not more than 10 years” and “$25,000,000” for “$2,500,000”.
 
-    1998—Subsec. (c)(1). [Pub. L. 105–366, § 2(d)(1)][/us/pl/105/366/s2/d/1], (2), substituted “subsection (a) or (g) of section 78dd–1” for “section 78dd–1(a)” in subpars. (A) and (B).
+    1998—Subsec. (c)(1). [Pub. L. 105–366][/us/pl/105/366], § 2(d)(1), (2), substituted “subsection (a) or (g) of section 78dd–1” for “section 78dd–1(a)” in subpars. (A) and (B).
 
-    Subsec. (c)(2). [Pub. L. 105–366, § 2(d)(3)][/us/pl/105/366/s2/d/3], amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+    Subsec. (c)(2). [Pub. L. 105–366][/us/pl/105/366], § 2(d)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
     “(2)(A) Any officer or director of an issuer, or stockholder acting on behalf of such issuer, who willfully violates [section 78dd–1(a) of this title][/us/usc/t15/s78dd–1/a] shall be fined not more than $100,000, or imprisoned not more than 5 years, or both.
 
@@ -73,13 +73,13 @@
 
     1984—Subsec. (a). [Pub. L. 98–376][/us/pl/98/376] substituted “$100,000” for “$10,000”.
 
-    1977—Subsec. (a). [Pub. L. 95–213, § 103(b)(1)][/us/pl/95/213/s103/b/1], inserted “(other than [section 78dd–1 of this title][/us/usc/t15/s78dd–1])” after “Any person who willfully violates any provision of this chapter”.
+    1977—Subsec. (a). [Pub. L. 95–213][/us/pl/95/213], § 103(b)(1), inserted “(other than [section 78dd–1 of this title][/us/usc/t15/s78dd–1])” after “Any person who willfully violates any provision of this chapter”.
 
-    Subsec. (c). [Pub. L. 95–213, § 103(b)(2)][/us/pl/95/213/s103/b/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 95–213][/us/pl/95/213], § 103(b)(2), added subsec. (c).
 
     1975—Subsec. (a). [Pub. L. 94–29][/us/pl/94/29], §§ 23(1), 27(b), inserted “or by any self-regulatory organization in connection with an application for membership or participation therein or to become associated with a member thereof,” and substituted “or imprisoned not more than five years” for “or imprisoned not more than two years”.
 
-    Subsec. (c). [Pub. L. 94–29, § 23(2)][/us/pl/94/29/s23/2], struck out subsec. (c) which rendered this section inapplicable to violations of any rule or regulation prescribed pursuant to paragraph (3) of subsection (c) of section 78o of this title.
+    Subsec. (c). [Pub. L. 94–29][/us/pl/94/29], § 23(2), struck out subsec. (c) which rendered this section inapplicable to violations of any rule or regulation prescribed pursuant to paragraph (3) of subsection (c) of section 78o of this title.
 
     1964—Subsec. (b). [Pub. L. 88–467][/us/pl/88/467] substituted “required to be filed under” for “pursuant to an undertaking contained in a registration statement as provided in” and inserted “or any rule or regulation thereunder” after “section 78o of this title.”
 
@@ -119,30 +119,30 @@
 [/us/usc/t15/s78dd–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%931
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F904
-[/us/act/1936-05-27/ch462/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch462%2Fs9
+[/us/act/1936-05-27/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch462
 [/us/stat/49/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1380
-[/us/act/1938-06-25/ch677/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch677%2Fs4
+[/us/act/1938-06-25/ch677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch677
 [/us/stat/52/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1076
-[/us/pl/88/467/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs11
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
 [/us/stat/78/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F580
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F162
-[/us/pl/95/213/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213%2Fs103%2Fb
+[/us/pl/95/213/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213%2FtI
 [/us/stat/91/1496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1496
-[/us/pl/98/376/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F376%2Fs3
+[/us/pl/98/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F376
 [/us/stat/98/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1265
-[/us/pl/100/418/s5003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5003%2Fb
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1419
-[/us/pl/100/704/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F704%2Fs4
+[/us/pl/100/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F704
 [/us/stat/102/4680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4680
-[/us/pl/105/366/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366%2Fs2%2Fd
+[/us/pl/105/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366
 [/us/stat/112/3303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3303
-[/us/pl/107/204/s1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs1106
+[/us/pl/107/204/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtXI
 [/us/stat/116/810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F810
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
-[/us/pl/105/366/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366%2Fs2%2Fd%2F1
-[/us/pl/105/366/s2/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366%2Fs2%2Fd%2F3
+[/us/pl/105/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366
+[/us/pl/105/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F366
 [/us/usc/t15/s78dd–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%931%2Fa
 [/us/usc/t15/s78dd–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%931%2Fa
 [/us/usc/t15/s78dd–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%931%2Fa
@@ -152,11 +152,11 @@
 [/us/usc/t15/s78dd–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%931%2Fa
 [/us/usc/t15/s78dd–1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%931%2Fa
 [/us/pl/98/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F376
-[/us/pl/95/213/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213%2Fs103%2Fb%2F1
+[/us/pl/95/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213
 [/us/usc/t15/s78dd–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78dd%E2%80%931
-[/us/pl/95/213/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213%2Fs103%2Fb%2F2
+[/us/pl/95/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
-[/us/pl/94/29/s23/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs23%2F2
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
 [/us/pl/100/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F704
 [/us/pl/100/704/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F704%2Fs9

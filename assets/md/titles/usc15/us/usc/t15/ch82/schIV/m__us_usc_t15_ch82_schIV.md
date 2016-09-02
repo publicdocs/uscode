@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch82/schIII/m__us_usc_t15_ch82_schIII.md) | [Next](./../../../../..//us/usc/t15/ch82/schIV/m__us_usc_t15_s5641.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch82%2FschIV)
+[Previous](./../../../../..//us/usc/t15/ch82/schIII/m__us_usc_t15_s5631...5633.md) | [Next](./../../../../..//us/usc/t15/ch82/schIV/m__us_usc_t15_s5641.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch82%2FschIV)
 
 ### SUBCHAPTER IV—ASSESSING OPTIONS FOR SUCCESSOR LAND REMOTE SENSING SYSTEM
 
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch82/schIII/m__us_usc_t15_ch82_schIII.md) | [Next](./../../../../..//us/usc/t15/ch82/schIV/m__us_usc_t15_s5641.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch82%2FschIV)
+[Previous](./../../../../..//us/usc/t15/ch82/schIII/m__us_usc_t15_s5631...5633.md) | [Next](./../../../../..//us/usc/t15/ch82/schIV/m__us_usc_t15_s5641.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch82%2FschIV)
 
 ----------
 ----------

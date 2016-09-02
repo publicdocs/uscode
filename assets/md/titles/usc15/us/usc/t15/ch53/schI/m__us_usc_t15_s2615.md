@@ -43,7 +43,7 @@
 
         Any person who knowingly or willfully violates any provision of section 2614 or 2689 of this title, shall, in addition to or in lieu of any civil penalty which may be imposed under subsection (a) of this section for such violation, be subject, upon conviction, to a fine of not more than $25,000 for each day of violation, or to imprisonment for not more than one year, or both.
 
-([Pub. L. 94–469, title I, § 16][/us/pl/94/469/s16], Oct. 11, 1976, [90 Stat. 2037][/us/stat/90/2037]; renumbered title I, [Pub. L. 99–519, § 3(c)(1)][/us/pl/99/519/s3/c/1], Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 102–550, title X, § 1021(b)(5)][/us/pl/102/550/s1021/b/5], Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923].)
+([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 16, Oct. 11, 1976, [90 Stat. 2037][/us/stat/90/2037]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(b)(5), Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923].)
 
  __Amendments__ 
 
@@ -57,11 +57,11 @@
 ----------
 
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/pl/94/469/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs16
+[/us/pl/94/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtI
 [/us/stat/90/2037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2037
-[/us/pl/99/519/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs3%2Fc%2F1
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
-[/us/pl/102/550/s1021/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1021%2Fb%2F5
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3923
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t15/s2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2614

@@ -239,13 +239,13 @@
 
         The term “Federal antitrust laws” means the Sherman Act ([15 U.S.C. 1][/us/usc/t15/s1] et seq.), the Clayton Act ([15 U.S.C. 12][/us/usc/t15/s12], 13, 14–19, 20, 21, 22–27), the Federal Trade Commission Act ([15 U.S.C. 41][/us/usc/t15/s41] et seq.), sections 73 and 74 of the Wilson Tariff Act ([15 U.S.C. 8–9][/us/usc/t15/s8–9]), and the Act of June 19, 1936, chapter 592 ([15 U.S.C. 13][/us/usc/t15/s13], 13a, 13b, and 21a).
 
-([Pub. L. 95–621, § 2][/us/pl/95/621/s2], Nov. 9, 1978, [92 Stat. 3352][/us/stat/92/3352].)
+([Pub. L. 95–621][/us/pl/95/621], § 2, Nov. 9, 1978, [92 Stat. 3352][/us/stat/92/3352].)
 
  __References in Text__ 
 
     The Natural Gas Act, and such Act, referred to in pars. (15), (16), (18)(A)(ii), (B)(i), (iii)(II), (23), is [act June 21, 1938, ch. 556][/us/act/1938-06-21/ch556], [52 Stat. 821][/us/stat/52/821], as amended, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see [section 717w of this title][/us/usc/t15/s717w] and Tables.
 
-    Section 6 of the Emergency Natural Gas Act of 1977, referred to in par. (18)(B)(i)(I), is [Pub. L. 95–2, § 6][/us/pl/95/2/s6], Feb. 2, 1977, [91 Stat. 7][/us/stat/91/7], which was formerly set out in a note under [section 717 of this title][/us/usc/t15/s717].
+    Section 6 of the Emergency Natural Gas Act of 1977, referred to in par. (18)(B)(i)(I), is [Pub. L. 95–2][/us/pl/95/2], § 6, Feb. 2, 1977, [91 Stat. 7][/us/stat/91/7], which was formerly set out in a note under [section 717 of this title][/us/usc/t15/s717].
 
     The Sherman Act ([15 U.S.C. 1][/us/usc/t15/s1] et seq.), referred to in par. (37), is [act July 2, 1890, ch. 647][/us/act/1890-07-02/ch647], [26 Stat. 209][/us/stat/26/209], as amended, which is classified to sections 1 to 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of this title][/us/usc/t15/s1] and Tables.
 
@@ -257,13 +257,13 @@
 
  __Short Title of 1989 Amendment__ 
 
-[Pub. L. 101–60, § 1][/us/pl/101/60/s1], July 26, 1989, [103 Stat. 157][/us/stat/103/157], provided that: 
+[Pub. L. 101–60][/us/pl/101/60], § 1, July 26, 1989, [103 Stat. 157][/us/stat/103/157], provided that: 
 
 > “This Act \[amending sections 3331, 3372, 3373, 3375, 3411, 3412, 3414, 3416, 3431, and 3432 of this title, repealing sections 3311 to 3320, 3331 to 3333, 3413, and 3417 of this title, and enacting provisions set out as notes under sections 3311 and 3372 of this title\] may be cited as the ‘Natural Gas Wellhead Decontrol Act of 1989’.”
 
  __Short Title__ 
 
-[Pub. L. 95–621, § 1][/us/pl/95/621/s1], Nov. 9, 1978, [92 Stat. 3351][/us/stat/92/3351], provided that: 
+[Pub. L. 95–621][/us/pl/95/621], § 1, Nov. 9, 1978, [92 Stat. 3351][/us/stat/92/3351], provided that: 
 
 > “This Act \[enacting this chapter and amending [section 7255 of Title 42][/us/usc/t42/s7255], The Public Health and Welfare\] may be cited as the ‘Natural Gas Policy Act of 1978’.”
 
@@ -293,12 +293,12 @@
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s8–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8%E2%80%939
 [/us/usc/t15/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs13
-[/us/pl/95/621/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs2
+[/us/pl/95/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621
 [/us/stat/92/3352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3352
 [/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F821
 [/us/usc/t15/s717w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717w
-[/us/pl/95/2/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F2%2Fs6
+[/us/pl/95/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F2
 [/us/stat/91/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F7
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1
@@ -317,9 +317,9 @@
 [/us/stat/49/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1526
 [/us/usc/t15/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs13
 [/us/usc/t15/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs13
-[/us/pl/101/60/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs1
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
 [/us/stat/103/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F157
-[/us/pl/95/621/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs1
+[/us/pl/95/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621
 [/us/stat/92/3351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3351
 [/us/usc/t42/s7255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7255
 

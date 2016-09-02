@@ -207,7 +207,7 @@
 
         (5) the term “TIP Advisory Board” means the advisory board established under subsection (j).
 
-([Mar. 3, 1901, ch. 872, § 28][/us/act/1901-03-03/ch872/s28], as added [Pub. L. 110–69, title III, § 3012(b)][/us/pl/110/69/s3012/b], Aug. 9, 2007, [121 Stat. 593][/us/stat/121/593]; amended [Pub. L. 113–188, title II, § 201(d)][/us/pl/113/188/s201/d], (e), Nov. 26, 2014, [128 Stat. 2018][/us/stat/128/2018].)
+([Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 28, as added [Pub. L. 110–69, title III][/us/pl/110/69/tIII], § 3012(b), Aug. 9, 2007, [121 Stat. 593][/us/stat/121/593]; amended [Pub. L. 113–188, title II][/us/pl/113/188/tII], § 201(d), (e), Nov. 26, 2014, [128 Stat. 2018][/us/stat/128/2018].)
 
  __References in Text__ 
 
@@ -215,29 +215,29 @@
 
  __Prior Provisions__ 
 
-    A prior section 278n, [act Mar. 3, 1901, ch. 872, § 28][/us/act/1901-03-03/ch872/s28], as added [Pub. L. 100–418, title V, § 5131(a)][/us/pl/100/418/s5131/a], Aug. 23, 1988, [102 Stat. 1439][/us/stat/102/1439]; amended [Pub. L. 102–245, title II, § 201(c)][/us/pl/102/245/s201/c], Feb. 14, 1992, [106 Stat. 16][/us/stat/106/16], related to the Advanced Technology Program, prior to repeal by [Pub. L. 110–69, title III, § 3012(a)][/us/pl/110/69/s3012/a], Aug. 9, 2007, [121 Stat. 593][/us/stat/121/593].
+    A prior section 278n, [act Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 28, as added [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5131(a), Aug. 23, 1988, [102 Stat. 1439][/us/stat/102/1439]; amended [Pub. L. 102–245, title II][/us/pl/102/245/tII], § 201(c), Feb. 14, 1992, [106 Stat. 16][/us/stat/106/16], related to the Advanced Technology Program, prior to repeal by [Pub. L. 110–69, title III][/us/pl/110/69/tIII], § 3012(a), Aug. 9, 2007, [121 Stat. 593][/us/stat/121/593].
 
  __Amendments__ 
 
-    2014—Subsecs. (g) to (j). [Pub. L. 113–188, § 201(d)(1)][/us/pl/113/188/s201/d/1], (2), redesignated subsecs. (h) to (k) as (g) to (j), respectively, and struck out former subsec. (g) which required annual reports describing the Technology Innovation Program’s activities.
+    2014—Subsecs. (g) to (j). [Pub. L. 113–188][/us/pl/113/188], § 201(d)(1), (2), redesignated subsecs. (h) to (k) as (g) to (j), respectively, and struck out former subsec. (g) which required annual reports describing the Technology Innovation Program’s activities.
 
-    Subsec. (j)(5). [Pub. L. 113–188, § 201(e)][/us/pl/113/188/s201/e], struck out par. (5) which related to annual Technology Innovation Program status reports transmitted by the TIP Advisory Board.
+    Subsec. (j)(5). [Pub. L. 113–188][/us/pl/113/188], § 201(e), struck out par. (5) which related to annual Technology Innovation Program status reports transmitted by the TIP Advisory Board.
 
-    Subsec. (k). [Pub. L. 113–188, § 201(d)(2)][/us/pl/113/188/s201/d/2], redesignated subsec. (l) as (k). Former subsec. (k) redesignated (j).
+    Subsec. (k). [Pub. L. 113–188][/us/pl/113/188], § 201(d)(2), redesignated subsec. (l) as (k). Former subsec. (k) redesignated (j).
 
-    Subsec. (k)(5). [Pub. L. 113–188, § 201(d)(3)][/us/pl/113/188/s201/d/3], substituted “under subsection (j)” for “under subsection (k)”.
+    Subsec. (k)(5). [Pub. L. 113–188][/us/pl/113/188], § 201(d)(3), substituted “under subsection (j)” for “under subsection (k)”.
 
-    Subsec. (l). [Pub. L. 113–188, § 201(d)(2)][/us/pl/113/188/s201/d/2], redesignated subsec. (l) as (k).
+    Subsec. (l). [Pub. L. 113–188][/us/pl/113/188], § 201(d)(2), redesignated subsec. (l) as (k).
 
  __Technology Innovation Program__ 
 
-[Pub. L. 111–240, title IV, § 4226(b)][/us/pl/111/240/s4226/b], Sept. 27, 2010, [124 Stat. 2598][/us/stat/124/2598], provided that: 
+[Pub. L. 111–240, title IV][/us/pl/111/240/tIV], § 4226(b), Sept. 27, 2010, [124 Stat. 2598][/us/stat/124/2598], provided that: 
 
 > “In awarding grants, cooperative agreements, or contracts under section 28 of the National Institute of Standards and Technology Act ([15 U.S.C. 278n][/us/usc/t15/s278n]), in addition to the award criteria set forth in subsection (c) of that section, the Director of the National Institute of Standards and Technology may take into consideration whether an application has significant potential for enhancing the competitiveness of small- and medium-sized businesses in the United States in the global marketplace. The Director shall consult with the Technology Innovation Program Advisory Board and the Secretary of Commerce in implementing this subsection.”
 
  __Transition__ 
 
-[Pub. L. 110–69, title III, § 3012(c)][/us/pl/110/69/s3012/c], Aug. 9, 2007, [121 Stat. 598][/us/stat/121/598], provided that: 
+[Pub. L. 110–69, title III][/us/pl/110/69/tIII], § 3012(c), Aug. 9, 2007, [121 Stat. 598][/us/stat/121/598], provided that: 
 
 > “Notwithstanding the repeal made by subsection (a) \[repealing former [section 278n of this title][/us/usc/t15/s278n]\], the Director shall carry out section 28 of the National Institute of Standards and Technology Act ([15 U.S.C. 278n][/us/usc/t15/s278n]) as such section was in effect on the day before the date of the enactment of this Act \[Aug. 9, 2007\], with respect to applications for grants under such section submitted before such date, until the earlier of—
 
@@ -247,7 +247,7 @@
 
  __National Academies of Sciences and Engineering Study of Government-Industry Cooperation in Civilian Technology__ 
 
-    [Pub. L. 100–418, title V, § 5131(c)][/us/pl/100/418/s5131/c], Aug. 23, 1988, [102 Stat. 1443][/us/stat/102/1443], directed the Secretary of Commerce, within 90 days after Aug. 23, 1988, to enter into contracts with the National Academies of Sciences and Engineering to review the various types of cooperative arrangements between the private sector and the Federal Government and required a report based on the review to be submitted to the Secretary, the President, and Congress within 18 months after the contracts were signed.
+    [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5131(c), Aug. 23, 1988, [102 Stat. 1443][/us/stat/102/1443], directed the Secretary of Commerce, within 90 days after Aug. 23, 1988, to enter into contracts with the National Academies of Sciences and Engineering to review the various types of cooperative arrangements between the private sector and the Federal Government and required a report based on the review to be submitted to the Secretary, the President, and Congress within 18 months after the contracts were signed.
 
 ----------
 
@@ -257,34 +257,34 @@
 ----------
 
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/act/1901-03-03/ch872/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs28
-[/us/pl/110/69/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3012%2Fb
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
+[/us/pl/110/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIII
 [/us/stat/121/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F593
-[/us/pl/113/188/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs201%2Fd
+[/us/pl/113/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtII
 [/us/stat/128/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2018
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/act/1901-03-03/ch872/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs28
-[/us/pl/100/418/s5131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5131%2Fa
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1439
-[/us/pl/102/245/s201/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs201%2Fc
+[/us/pl/102/245/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtII
 [/us/stat/106/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F16
-[/us/pl/110/69/s3012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3012%2Fa
+[/us/pl/110/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIII
 [/us/stat/121/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F593
-[/us/pl/113/188/s201/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs201%2Fd%2F1
-[/us/pl/113/188/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs201%2Fe
-[/us/pl/113/188/s201/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs201%2Fd%2F2
-[/us/pl/113/188/s201/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs201%2Fd%2F3
-[/us/pl/113/188/s201/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs201%2Fd%2F2
-[/us/pl/111/240/s4226/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs4226%2Fb
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
+[/us/pl/113/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188
+[/us/pl/111/240/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtIV
 [/us/stat/124/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2598
 [/us/usc/t15/s278n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278n
-[/us/pl/110/69/s3012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3012%2Fc
+[/us/pl/110/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIII
 [/us/stat/121/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F598
 [/us/usc/t15/s278n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278n
 [/us/usc/t15/s278n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278n
 [/us/usc/t15/s278n/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278n%2Ff
-[/us/pl/100/418/s5131/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5131%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1443
 
 

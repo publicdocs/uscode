@@ -225,29 +225,31 @@
 
                 The term “State educational agency” has the meaning given the term in [section 7801 of title 20][/us/usc/t20/s7801].
 
-([Pub. L. 96–480, § 5][/us/pl/96/480/s5], Oct. 21, 1980, [94 Stat. 2312][/us/stat/94/2312]; [Pub. L. 99–382, § 2][/us/pl/99/382/s2], Aug. 14, 1986, [100 Stat. 811][/us/stat/100/811]; [Pub. L. 99–502, § 9(b)(3)][/us/pl/99/502/s9/b/3]–(5), (e)(2)(A), Oct. 20, 1986, [100 Stat. 1795][/us/stat/100/1795], 1797; [Pub. L. 100–519, title II, § 201(a)][/us/pl/100/519/s201/a]–(c), (d)(2), Oct. 24, 1988, [102 Stat. 2593][/us/stat/102/2593], 2594; [Pub. L. 102–245, title III, § 306][/us/pl/102/245/s306], Feb. 14, 1992, [106 Stat. 20][/us/stat/106/20]; [Pub. L. 105–309, § 9][/us/pl/105/309/s9], Oct. 30, 1998, [112 Stat. 2938][/us/stat/112/2938]; [Pub. L. 106–404, § 7(3)][/us/pl/106/404/s7/3], Nov. 1, 2000, [114 Stat. 1745][/us/stat/114/1745]; [Pub. L. 110–69, title III, § 3002(a)][/us/pl/110/69/s3002/a], Aug. 9, 2007, [121 Stat. 586][/us/stat/121/586]; [Pub. L. 110–315, title IX, § 971][/us/pl/110/315/s971], Aug. 14, 2008, [122 Stat. 3473][/us/stat/122/3473].)
+([Pub. L. 96–480][/us/pl/96/480], § 5, Oct. 21, 1980, [94 Stat. 2312][/us/stat/94/2312]; [Pub. L. 99–382][/us/pl/99/382], § 2, Aug. 14, 1986, [100 Stat. 811][/us/stat/100/811]; [Pub. L. 99–502][/us/pl/99/502], § 9(b)(3)–(5), (e)(2)(A), Oct. 20, 1986, [100 Stat. 1795][/us/stat/100/1795], 1797; [Pub. L. 100–519, title II][/us/pl/100/519/tII], § 201(a)–(c), (d)(2), Oct. 24, 1988, [102 Stat. 2593][/us/stat/102/2593], 2594; [Pub. L. 102–245, title III][/us/pl/102/245/tIII], § 306, Feb. 14, 1992, [106 Stat. 20][/us/stat/106/20]; [Pub. L. 105–309][/us/pl/105/309], § 9, Oct. 30, 1998, [112 Stat. 2938][/us/stat/112/2938]; [Pub. L. 106–404][/us/pl/106/404], § 7(3), Nov. 1, 2000, [114 Stat. 1745][/us/stat/114/1745]; [Pub. L. 110–69, title III][/us/pl/110/69/tIII], § 3002(a), Aug. 9, 2007, [121 Stat. 586][/us/stat/121/586]; [Pub. L. 110–315, title IX][/us/pl/110/315/tIX], § 971, Aug. 14, 2008, [122 Stat. 3473][/us/stat/122/3473]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(sss), Dec. 10, 2015, [129 Stat. 2190][/us/stat/129/2190].)
 
  __Amendments__ 
 
+    2015—Subsec. (c)(8)(D), (G), (H). [Pub. L. 114–95][/us/pl/114/95] made technical amendments to references in original act which appear in text as references to [section 7801 of title 20][/us/usc/t20/s7801].
+
     2008—Subsec. (c). [Pub. L. 110–315][/us/pl/110/315] added subsec. (c).
 
-    2007—[Pub. L. 110–69, § 3002(a)(5)][/us/pl/110/69/s3002/a/5], substituted “Experimental program to stimulate competitive technology” for “Commerce and technological innovation” in section catchline.
+    2007—[Pub. L. 110–69][/us/pl/110/69], § 3002(a)(5), substituted “Experimental program to stimulate competitive technology” for “Commerce and technological innovation” in section catchline.
 
-    Subsec. (a). [Pub. L. 110–69, § 3002(a)(3)(B)][/us/pl/110/69/s3002/a/3/B], (E), substituted “Program establishment” for “Experimental Program to Stimulate Competitive Technology” in heading and struck out “, acting through the Under Secretary,” after “Secretary” wherever appearing in text.
+    Subsec. (a). [Pub. L. 110–69][/us/pl/110/69], § 3002(a)(3)(B), (E), substituted “Program establishment” for “Experimental Program to Stimulate Competitive Technology” in heading and struck out “, acting through the Under Secretary,” after “Secretary” wherever appearing in text.
 
-    [Pub. L. 110–69, § 3002(a)(1)][/us/pl/110/69/s3002/a/1], (2), redesignated subsec. (f) as (a) and struck out former subsec. (a) which related to the establishment of a Technology Administration within the Department of Commerce.
+    [Pub. L. 110–69][/us/pl/110/69], § 3002(a)(1), (2), redesignated subsec. (f) as (a) and struck out former subsec. (a) which related to the establishment of a Technology Administration within the Department of Commerce.
 
-    Subsec. (a)(1). [Pub. L. 110–69, § 3002(a)(3)(A)][/us/pl/110/69/s3002/a/3/A], substituted “Beginning in fiscal year 1999, the Secretary shall establish” for “The Secretary, acting through the Under Secretary, shall establish for fiscal year 1999”.
+    Subsec. (a)(1). [Pub. L. 110–69][/us/pl/110/69], § 3002(a)(3)(A), substituted “Beginning in fiscal year 1999, the Secretary shall establish” for “The Secretary, acting through the Under Secretary, shall establish for fiscal year 1999”.
 
-    Subsec. (a)(6). [Pub. L. 110–69, § 3002(a)(3)(C)][/us/pl/110/69/s3002/a/3/C], redesignated par. (6) as subsec. (b).
+    Subsec. (a)(6). [Pub. L. 110–69][/us/pl/110/69], § 3002(a)(3)(C), redesignated par. (6) as subsec. (b).
 
-    Subsec. (a)(7). [Pub. L. 110–69, § 3002(a)(3)(D)][/us/pl/110/69/s3002/a/3/D], struck out par. (7) which required the Under Secretary of Commerce for Technology to submit a report on the Experimental Program to Stimulate Competitive Technology no later than 90 days after Oct. 30, 1998.
+    Subsec. (a)(7). [Pub. L. 110–69][/us/pl/110/69], § 3002(a)(3)(D), struck out par. (7) which required the Under Secretary of Commerce for Technology to submit a report on the Experimental Program to Stimulate Competitive Technology no later than 90 days after Oct. 30, 1998.
 
-    Subsec. (b). [Pub. L. 110–69, § 3002(a)(1)][/us/pl/110/69/s3002/a/1], (3)(C), (4), redesignated subsec. (a)(6) as (b), substituted “subsection (a)” for “this subsection”, and struck out former subsec. (b) which related to appointment of Under Secretary of Commerce for Technology and Assistant Secretary of Commerce for Technology Policy.
+    Subsec. (b). [Pub. L. 110–69][/us/pl/110/69], § 3002(a)(1), (3)(C), (4), redesignated subsec. (a)(6) as (b), substituted “subsection (a)” for “this subsection”, and struck out former subsec. (b) which related to appointment of Under Secretary of Commerce for Technology and Assistant Secretary of Commerce for Technology Policy.
 
-    Subsecs. (c) to (e). [Pub. L. 110–69, § 3002(a)(1)][/us/pl/110/69/s3002/a/1], struck out subsecs. (c) to (e) which related, respectively, to duties of the Secretary, Japanese technical literature, and a progress report required within 3 years after Oct. 21, 1980.
+    Subsecs. (c) to (e). [Pub. L. 110–69][/us/pl/110/69], § 3002(a)(1), struck out subsecs. (c) to (e) which related, respectively, to duties of the Secretary, Japanese technical literature, and a progress report required within 3 years after Oct. 21, 1980.
 
-    Subsec. (f). [Pub. L. 110–69, § 3002(a)(2)][/us/pl/110/69/s3002/a/2], redesignated subsec. (f) as (a).
+    Subsec. (f). [Pub. L. 110–69][/us/pl/110/69], § 3002(a)(2), redesignated subsec. (f) as (a).
 
     2000—Subsec. (c)(11). [Pub. L. 106–404][/us/pl/106/404] substituted “State or local governments” for “State of local governments”.
 
@@ -255,51 +257,55 @@
 
     1992—Subsec. (c)(13) to (15). [Pub. L. 102–245][/us/pl/102/245] added par. (13) and redesignated former pars. (13) and (14) as (14) and (15), respectively.
 
-    1988—Subsec. (a). [Pub. L. 100–519, § 201(a)][/us/pl/100/519/s201/a], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall establish and maintain an Office of Productivity, Technology, and Innovation in accordance with the provisions, findings, and purposes of this chapter.”
+    1988—Subsec. (a). [Pub. L. 100–519][/us/pl/100/519], § 201(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall establish and maintain an Office of Productivity, Technology, and Innovation in accordance with the provisions, findings, and purposes of this chapter.”
 
-    Subsec. (b). [Pub. L. 100–519, § 201(b)][/us/pl/100/519/s201/b], amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The President shall appoint, by and with the advice and consent of the Senate, an Assistant Secretary for Productivity, Technology, and Innovation.”
+    Subsec. (b). [Pub. L. 100–519][/us/pl/100/519], § 201(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The President shall appoint, by and with the advice and consent of the Senate, an Assistant Secretary for Productivity, Technology, and Innovation.”
 
-    Subsec. (c). [Pub. L. 100–519, § 201(c)(2)][/us/pl/100/519/s201/c/2], substituted “Under Secretary, as appropriate,” for “Assistant Secretary, on a continuing basis,” in introductory provisions.
+    Subsec. (c). [Pub. L. 100–519][/us/pl/100/519], § 201(c)(2), substituted “Under Secretary, as appropriate,” for “Assistant Secretary, on a continuing basis,” in introductory provisions.
 
-    Subsec. (c)(1) to (9). [Pub. L. 100–519, § 201(c)(1)][/us/pl/100/519/s201/c/1], (2), added pars. (1) to (4) and redesignated former pars. (1) to (5) as (5) to (9), respectively. Former pars. (6) to (9) redesignated (10) to (13), respectively.
+    Subsec. (c)(1) to (9). [Pub. L. 100–519][/us/pl/100/519], § 201(c)(1), (2), added pars. (1) to (4) and redesignated former pars. (1) to (5) as (5) to (9), respectively. Former pars. (6) to (9) redesignated (10) to (13), respectively.
 
-    Subsec. (c)(10). [Pub. L. 100–519, § 201(c)(1)][/us/pl/100/519/s201/c/1], (3), redesignated former par. (6) as (10) and substituted “Under Secretary” for “Assistant Secretary”. Former par. (10) redesignated (14).
+    Subsec. (c)(10). [Pub. L. 100–519][/us/pl/100/519], § 201(c)(1), (3), redesignated former par. (6) as (10) and substituted “Under Secretary” for “Assistant Secretary”. Former par. (10) redesignated (14).
 
-    Subsec. (c)(11) to (14). [Pub. L. 100–519, § 201(c)(1)][/us/pl/100/519/s201/c/1], redesignated former pars. (7) to (10) as (11) to (14), respectively.
+    Subsec. (c)(11) to (14). [Pub. L. 100–519][/us/pl/100/519], § 201(c)(1), redesignated former pars. (7) to (10) as (11) to (14), respectively.
 
-    Subsec. (d)(1). [Pub. L. 100–519, § 201(d)(2)][/us/pl/100/519/s201/d/2], substituted “and the Under Secretary shall establish, and through the National Technical Information Service and with the cooperation of” for “shall establish and, through the National Technical Information Service and”.
+    Subsec. (d)(1). [Pub. L. 100–519][/us/pl/100/519], § 201(d)(2), substituted “and the Under Secretary shall establish, and through the National Technical Information Service and with the cooperation of” for “shall establish and, through the National Technical Information Service and”.
 
-    1986—Subsec. (a). [Pub. L. 99–502, § 9(b)(3)][/us/pl/99/502/s9/b/3], substituted “Office of Productivity, Technology, and Innovation” for “Office of Industrial Technology”.
+    1986—Subsec. (a). [Pub. L. 99–502][/us/pl/99/502], § 9(b)(3), substituted “Office of Productivity, Technology, and Innovation” for “Office of Industrial Technology”.
 
-    Subsec. (b). [Pub. L. 99–502, § 9(b)(4)][/us/pl/99/502/s9/b/4], substituted “an Assistant Secretary for Productivity, Technology, and Innovation” for “a Director of the Office, who shall be compensated at the rate provided for level V of the Executive Schedule in [section 5316 of title 5][/us/usc/t5/s5316]”.
+    Subsec. (b). [Pub. L. 99–502][/us/pl/99/502], § 9(b)(4), substituted “an Assistant Secretary for Productivity, Technology, and Innovation” for “a Director of the Office, who shall be compensated at the rate provided for level V of the Executive Schedule in [section 5316 of title 5][/us/usc/t5/s5316]”.
 
-    Subsec. (c). [Pub. L. 99–502, § 9(b)(5)(A)][/us/pl/99/502/s9/b/5/A], substituted “the Assistant Secretary” for “the Director” in provisions preceding par. (1).
+    Subsec. (c). [Pub. L. 99–502][/us/pl/99/502], § 9(b)(5)(A), substituted “the Assistant Secretary” for “the Director” in provisions preceding par. (1).
 
-    Subsec. (c)(6). [Pub. L. 99–502, § 9(b)(5)(A)][/us/pl/99/502/s9/b/5/A], substituted “the Assistant Secretary” for “the Director”.
+    Subsec. (c)(6). [Pub. L. 99–502][/us/pl/99/502], § 9(b)(5)(A), substituted “the Assistant Secretary” for “the Director”.
 
-    Subsec. (c)(7) to (10). [Pub. L. 99–502, § 9(b)(5)(B)][/us/pl/99/502/s9/b/5/B], (C), added pars. (7) and (8) and redesignated former pars. (7) and (8) as (9) and (10), respectively.
+    Subsec. (c)(7) to (10). [Pub. L. 99–502][/us/pl/99/502], § 9(b)(5)(B), (C), added pars. (7) and (8) and redesignated former pars. (7) and (8) as (9) and (10), respectively.
 
-    Subsec. (d). [Pub. L. 99–382, § 2(2)][/us/pl/99/382/s2/2], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 99–382][/us/pl/99/382], § 2(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 99–502, § 9(e)(2)(A)][/us/pl/99/502/s9/e/2/A], which directed the insertion of “(as then in effect)” in subsec. (d), was executed to subsec. (e) to reflect the probable intent of Congress in view of the redesignation of subsec. (d) as (e) by [Pub. L. 99–382][/us/pl/99/382].
+    Subsec. (e). [Pub. L. 99–502][/us/pl/99/502], § 9(e)(2)(A), which directed the insertion of “(as then in effect)” in subsec. (d), was executed to subsec. (e) to reflect the probable intent of Congress in view of the redesignation of subsec. (d) as (e) by [Pub. L. 99–382][/us/pl/99/382].
 
-    [Pub. L. 99–382, § 2(1)][/us/pl/99/382/s2/1], redesignated subsec. (d) as (e).
+    [Pub. L. 99–382][/us/pl/99/382], § 2(1), redesignated subsec. (d) as (e).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
  __Construction__ 
 
-[Pub. L. 110–69, title III, § 3002(b)][/us/pl/110/69/s3002/b], Aug. 9, 2007, [121 Stat. 586][/us/stat/121/586], provided that: 
+[Pub. L. 110–69, title III][/us/pl/110/69/tIII], § 3002(b), Aug. 9, 2007, [121 Stat. 586][/us/stat/121/586], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall not be construed to eliminate the National Institute of Standards and Technology or the National Technical Information Service.”
 
  __Transition Provision__ 
 
-[Pub. L. 100–519, title II, § 201(e)][/us/pl/100/519/s201/e], Oct. 24, 1988, [102 Stat. 2594][/us/stat/102/2594], provided that: 
+[Pub. L. 100–519, title II][/us/pl/100/519/tII], § 201(e), Oct. 24, 1988, [102 Stat. 2594][/us/stat/102/2594], provided that: 
 
 > “The individual serving as the Assistant Secretary of Commerce for Productivity, Technology, and Innovation immediately before the date of enactment of this Act \[Oct. 24, 1988\] shall serve as Acting Assistant Secretary of Commerce for Technology Policy until the Assistant Secretary takes office.”
 
  __Commercial Space Programs__ 
 
-[Pub. L. 100–519, title II, § 201(f)][/us/pl/100/519/s201/f], as added by [Pub. L. 100–685, title II, § 219][/us/pl/100/685/s219], Nov. 17, 1988, [102 Stat. 4095][/us/stat/102/4095], provided that: 
+[Pub. L. 100–519, title II][/us/pl/100/519/tII], § 201(f), as added by [Pub. L. 100–685, title II][/us/pl/100/685/tII], § 219, Nov. 17, 1988, [102 Stat. 4095][/us/stat/102/4095], provided that: 
 
 > “Nothing in this section \[amending this section, sections 3703 and 3710 of this title, and [section 5314 of Title 5][/us/usc/t5/s5314], Government Organization and Employees, and enacting provisions formerly set out as a note above\] authorizes the Department to establish an Office of Commercial Space Programs or to place such an office into the Technology Administration without prior authorization of the Congress.”
 
@@ -326,60 +332,67 @@
 [/us/usc/t15/s632/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fp
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
-[/us/pl/96/480/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs5
+[/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2312
-[/us/pl/99/382/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F382%2Fs2
+[/us/pl/99/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F382
 [/us/stat/100/811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F811
-[/us/pl/99/502/s9/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs9%2Fb%2F3
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/stat/100/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1795
-[/us/pl/100/519/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs201%2Fa
+[/us/pl/100/519/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2FtII
 [/us/stat/102/2593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2593
-[/us/pl/102/245/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs306
+[/us/pl/102/245/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtIII
 [/us/stat/106/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F20
-[/us/pl/105/309/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F309%2Fs9
+[/us/pl/105/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F309
 [/us/stat/112/2938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2938
-[/us/pl/106/404/s7/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs7%2F3
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
 [/us/stat/114/1745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1745
-[/us/pl/110/69/s3002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fa
+[/us/pl/110/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIII
 [/us/stat/121/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F586
-[/us/pl/110/315/s971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs971
+[/us/pl/110/315/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtIX
 [/us/stat/122/3473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3473
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2190
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
-[/us/pl/110/69/s3002/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fa%2F5
-[/us/pl/110/69/s3002/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fa%2F3%2FB
-[/us/pl/110/69/s3002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fa%2F1
-[/us/pl/110/69/s3002/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fa%2F3%2FA
-[/us/pl/110/69/s3002/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fa%2F3%2FC
-[/us/pl/110/69/s3002/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fa%2F3%2FD
-[/us/pl/110/69/s3002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fa%2F1
-[/us/pl/110/69/s3002/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fa%2F1
-[/us/pl/110/69/s3002/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fa%2F2
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 [/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
 [/us/pl/105/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F309
 [/us/pl/102/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245
-[/us/pl/100/519/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs201%2Fa
-[/us/pl/100/519/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs201%2Fb
-[/us/pl/100/519/s201/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs201%2Fc%2F2
-[/us/pl/100/519/s201/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs201%2Fc%2F1
-[/us/pl/100/519/s201/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs201%2Fc%2F1
-[/us/pl/100/519/s201/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs201%2Fc%2F1
-[/us/pl/100/519/s201/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs201%2Fd%2F2
-[/us/pl/99/502/s9/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs9%2Fb%2F3
-[/us/pl/99/502/s9/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs9%2Fb%2F4
+[/us/pl/100/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519
+[/us/pl/100/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519
+[/us/pl/100/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519
+[/us/pl/100/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519
+[/us/pl/100/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519
+[/us/pl/100/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519
+[/us/pl/100/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
-[/us/pl/99/502/s9/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs9%2Fb%2F5%2FA
-[/us/pl/99/502/s9/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs9%2Fb%2F5%2FA
-[/us/pl/99/502/s9/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs9%2Fb%2F5%2FB
-[/us/pl/99/382/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F382%2Fs2%2F2
-[/us/pl/99/502/s9/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs9%2Fe%2F2%2FA
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/pl/99/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F382
-[/us/pl/99/382/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F382%2Fs2%2F1
-[/us/pl/110/69/s3002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fb
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
+[/us/pl/99/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F382
+[/us/pl/99/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F382
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/pl/110/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIII
 [/us/stat/121/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F586
-[/us/pl/100/519/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs201%2Fe
+[/us/pl/100/519/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2FtII
 [/us/stat/102/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2594
-[/us/pl/100/519/s201/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs201%2Ff
-[/us/pl/100/685/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F685%2Fs219
+[/us/pl/100/519/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2FtII
+[/us/pl/100/685/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F685%2FtII
 [/us/stat/102/4095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4095
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
 

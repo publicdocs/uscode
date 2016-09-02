@@ -133,7 +133,7 @@
 
         Nothing in this section (other than the provisions of clause (c) and clause (d)) shall apply to the business of insurance, except that the Commission shall have authority to conduct studies and prepare reports relating to the business of insurance. The Commission may exercise such authority only upon receiving a request which is agreed to by a majority of the members of the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Energy and Commerce of the House of Representatives. The authority to conduct any such study shall expire at the end of the Congress during which the request for such study was made.
 
-([Sept. 26, 1914, ch. 311, § 6][/us/act/1914-09-26/ch311/s6], [38 Stat. 721][/us/stat/38/721]; [Pub. L. 93–153, title IV, § 408(e)][/us/pl/93/153/s408/e], Nov. 16, 1973, [87 Stat. 592][/us/stat/87/592]; [Pub. L. 93–637, title II][/us/pl/93/637], §§ 201(b), 202(b), 203(a), Jan. 4, 1975, [88 Stat. 2193][/us/stat/88/2193], 2198; [Pub. L. 96–37, § 1(b)][/us/pl/96/37/s1/b], July 23, 1979, [93 Stat. 95][/us/stat/93/95]; [Pub. L. 96–252][/us/pl/96/252], §§ 3–5(a), May 28, 1980, [94 Stat. 374][/us/stat/94/374], 375; [Pub. L. 100–86, title VII, § 715(a)][/us/pl/100/86/s715/a], (b), Aug. 10, 1987, [101 Stat. 655][/us/stat/101/655]; [Pub. L. 103–437, § 5(a)][/us/pl/103/437/s5/a], Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582]; [Pub. L. 103–438, § 3(e)(2)(A)][/us/pl/103/438/s3/e/2/A], Nov. 2, 1994, [108 Stat. 4598][/us/stat/108/4598]; [Pub. L. 109–455][/us/pl/109/455], §§ 4(a), (b), (d), 13, Dec. 22, 2006, [120 Stat. 3372][/us/stat/120/3372], 3373, 3375, 3382; [Pub. L. 112–203, § 1][/us/pl/112/203/s1], Dec. 4, 2012, [126 Stat. 1484][/us/stat/126/1484].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 6, [38 Stat. 721][/us/stat/38/721]; [Pub. L. 93–153, title IV][/us/pl/93/153/tIV], § 408(e), Nov. 16, 1973, [87 Stat. 592][/us/stat/87/592]; [Pub. L. 93–637, title II][/us/pl/93/637/tII], §§ 201(b), 202(b), 203(a), Jan. 4, 1975, [88 Stat. 2193][/us/stat/88/2193], 2198; [Pub. L. 96–37][/us/pl/96/37], § 1(b), July 23, 1979, [93 Stat. 95][/us/stat/93/95]; [Pub. L. 96–252][/us/pl/96/252], §§ 3–5(a), May 28, 1980, [94 Stat. 374][/us/stat/94/374], 375; [Pub. L. 100–86, title VII][/us/pl/100/86/tVII], § 715(a), (b), Aug. 10, 1987, [101 Stat. 655][/us/stat/101/655]; [Pub. L. 103–437][/us/pl/103/437], § 5(a), Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582]; [Pub. L. 103–438][/us/pl/103/438], § 3(e)(2)(A), Nov. 2, 1994, [108 Stat. 4598][/us/stat/108/4598]; [Pub. L. 109–455][/us/pl/109/455], §§ 4(a), (b), (d), 13, Dec. 22, 2006, [120 Stat. 3372][/us/stat/120/3372], 3373, 3375, 3382; [Pub. L. 112–203][/us/pl/112/203], § 1, Dec. 4, 2012, [126 Stat. 1484][/us/stat/126/1484].)
 
  __Amendment of Section__ 
 
@@ -147,37 +147,37 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–203, § 1][/us/pl/112/203/s1], amended [Pub. L. 109–455, § 13][/us/pl/109/455/s13]. See 2006 Amendment notes below.
+    2012—[Pub. L. 112–203][/us/pl/112/203], § 1, amended [Pub. L. 109–455][/us/pl/109/455], § 13. See 2006 Amendment notes below.
 
-    2006—[Pub. L. 109–455, § 4(d)][/us/pl/109/455/s4/d], which substituted “subsections (a), (b), and (j)” for “clauses (a) and (b)” in proviso following subsec. (l), was repealed by [Pub. L. 109–455, § 13][/us/pl/109/455/s13], as amended by [Pub. L. 112–203, § 1][/us/pl/112/203/s1]. See Termination Date of 2006 Amendment note below.
+    2006—[Pub. L. 109–455][/us/pl/109/455], § 4(d), which substituted “subsections (a), (b), and (j)” for “clauses (a) and (b)” in proviso following subsec. (l), was repealed by [Pub. L. 109–455][/us/pl/109/455], § 13, as amended by [Pub. L. 112–203][/us/pl/112/203], § 1. See Termination Date of 2006 Amendment note below.
 
-    Subsec. (f). [Pub. L. 109–455, § 4(a)][/us/pl/109/455/s4/a], which inserted “(1)” after “disclose such information”, substituted “purposes, and” for “purposes.”, and added par. (2) providing for conditional disclosure to officers and employees of foreign law enforcement, was repealed by [Pub. L. 109–455, § 13][/us/pl/109/455/s13], as amended by [Pub. L. 112–203, § 1][/us/pl/112/203/s1]. See Termination Date of 2006 Amendment note below.
+    Subsec. (f). [Pub. L. 109–455][/us/pl/109/455], § 4(a), which inserted “(1)” after “disclose such information”, substituted “purposes, and” for “purposes.”, and added par. (2) providing for conditional disclosure to officers and employees of foreign law enforcement, was repealed by [Pub. L. 109–455][/us/pl/109/455], § 13, as amended by [Pub. L. 112–203][/us/pl/112/203], § 1. See Termination Date of 2006 Amendment note below.
 
-    Subsecs. (j) to (l). [Pub. L. 109–455, § 4(b)][/us/pl/109/455/s4/b], which added subsecs. (j) to (l) relating to investigative assistance for foreign law enforcement agencies, referral of evidence for criminal proceedings, and expenditures for cooperative arrangements, respectively, was repealed by [Pub. L. 109–455, § 13][/us/pl/109/455/s13], as amended by [Pub. L. 112–203, § 1][/us/pl/112/203/s1]. See Termination Date of 2006 Amendment note below.
+    Subsecs. (j) to (l). [Pub. L. 109–455][/us/pl/109/455], § 4(b), which added subsecs. (j) to (l) relating to investigative assistance for foreign law enforcement agencies, referral of evidence for criminal proceedings, and expenditures for cooperative arrangements, respectively, was repealed by [Pub. L. 109–455][/us/pl/109/455], § 13, as amended by [Pub. L. 112–203][/us/pl/112/203], § 1. See Termination Date of 2006 Amendment note below.
 
     1994—[Pub. L. 103–437][/us/pl/103/437], in first and third undesignated pars. following proviso after subsec. (h), substituted “Committee on Energy and Commerce” for “Committee on Interstate and Foreign Commerce”.
 
     Subsec. (i). [Pub. L. 103–438][/us/pl/103/438] added subsec. (i).
 
-    1987—[Pub. L. 100–86, § 715(b)][/us/pl/100/86/s715/b], in proviso following subsec. (h), inserted reference to Federal credit unions described in [section 57a(f)(4) of this title][/us/usc/t15/s57a/f/4] and reference to in business as a Federal credit union.
+    1987—[Pub. L. 100–86][/us/pl/100/86], § 715(b), in proviso following subsec. (h), inserted reference to Federal credit unions described in [section 57a(f)(4) of this title][/us/usc/t15/s57a/f/4] and reference to in business as a Federal credit union.
 
-    Subsecs. (a), (b). [Pub. L. 100–86, § 715(a)(1)][/us/pl/100/86/s715/a/1], (2), inserted reference to Federal credit unions described in [section 57a(f)(4) of this title][/us/usc/t15/s57a/f/4].
+    Subsecs. (a), (b). [Pub. L. 100–86][/us/pl/100/86], § 715(a)(1), (2), inserted reference to Federal credit unions described in [section 57a(f)(4) of this title][/us/usc/t15/s57a/f/4].
 
     1980—[Pub. L. 96–252][/us/pl/96/252], §§ 3(b)–5(a), inserted three undesignated paragraphs following proviso after subsec. (h) requiring the Commission to establish a plan to reduce burdens imposed upon small businesses by the quarterly financial reporting requirements under subsec. (b) of this section, prohibiting Commissioners and officers and employees of the Commission from publishing or disclosing information whereby line-of-business data furnished by particular establishments or individuals can be identified, and, with certain exceptions, making this section inapplicable to the business of insurance.
 
-    Subsec. (f). [Pub. L. 96–252, § 3(a)][/us/pl/96/252/s3/a], substituted “as are” for “, except trade secrets and names of customers, as it shall deem expedient” and inserted proviso restricting Commission’s authority to make public trade secrets or commercial or financial information which is obtained from any person and which is privileged or confidential.
+    Subsec. (f). [Pub. L. 96–252][/us/pl/96/252], § 3(a), substituted “as are” for “, except trade secrets and names of customers, as it shall deem expedient” and inserted proviso restricting Commission’s authority to make public trade secrets or commercial or financial information which is obtained from any person and which is privileged or confidential.
 
-    1979—[Pub. L. 96–37, § 1(b)(3)][/us/pl/96/37/s1/b/3], in proviso following subsec. (h), inserted references to savings and loan institutions and to persons, partnerships, corporations, groups of persons, partnerships, or corporations or industries that are not engaged or are engaged only incidentally in business as savings and loan institutions.
+    1979—[Pub. L. 96–37][/us/pl/96/37], § 1(b)(3), in proviso following subsec. (h), inserted references to savings and loan institutions and to persons, partnerships, corporations, groups of persons, partnerships, or corporations or industries that are not engaged or are engaged only incidentally in business as savings and loan institutions.
 
-    Subsecs. (a), (b). [Pub. L. 96–37, § 1(b)(1)][/us/pl/96/37/s1/b/1], (2), inserted reference to savings and loan institutions described in [section 57a(f)(3) of this title][/us/usc/t15/s57a/f/3].
+    Subsecs. (a), (b). [Pub. L. 96–37][/us/pl/96/37], § 1(b)(1), (2), inserted reference to savings and loan institutions described in [section 57a(f)(3) of this title][/us/usc/t15/s57a/f/3].
 
-    1975—[Pub. L. 93–637, § 203(a)(3)][/us/pl/93/637/s203/a/3], in proviso following subsec. (h), substituted “any person, partnership, or corporation to the extent that such action is necessary to the investigation of any person, partnership, or corporation, group of persons, partnerships, or corporations,” for “any such corporation to the extent that such action is necessary to the investigation of any corporation, group of corporations,”.
+    1975—[Pub. L. 93–637][/us/pl/93/637], § 203(a)(3), in proviso following subsec. (h), substituted “any person, partnership, or corporation to the extent that such action is necessary to the investigation of any person, partnership, or corporation, group of persons, partnerships, or corporations,” for “any such corporation to the extent that such action is necessary to the investigation of any corporation, group of corporations,”.
 
     Subsec. (a). [Pub. L. 93–637][/us/pl/93/637], §§ 201(b), 203(a)(1), substituted “in or whose business affects commerce” for “in commerce”, “person, partnership, or corporation” for “corporation”, and “persons, partnerships, and corporations” for “corporations and to individuals, associations, and partnerships”.
 
     Subsec. (b). [Pub. L. 93–637][/us/pl/93/637], §§ 201(b), 203(a)(2), substituted “in or whose business affects commerce” for “in commerce”, “special orders, persons, partnerships, and corporations, engaged in or whose business affects commerce, excepting” for “special orders, corporations engaged in or whose business affects commerce, excepting”, and “respective persons, partnerships, and corporations” for “respective corporations”.
 
-    Subsec. (g). [Pub. L. 93–637, § 202(b)][/us/pl/93/637/s202/b], inserted “(except as provided in [section 57a(a)(2) of this title][/us/usc/t15/s57a/a/2])” before “to make rules and regulations”.
+    Subsec. (g). [Pub. L. 93–637][/us/pl/93/637], § 202(b), inserted “(except as provided in [section 57a(a)(2) of this title][/us/usc/t15/s57a/a/2])” before “to make rules and regulations”.
 
     1973—[Pub. L. 93–153][/us/pl/93/153] inserted proviso following subsec. (h) that the Commission’s investigatory powers to gather and compile information, investigate, and require reports or answers is not curtailed as regards banks and common carriers when the investigation in question is an investigation of a corporation, group of corporations, or industry not engaged or engaged only incidentally in banking or in business as a common carrier subject to the Act to regulate commerce notwithstanding provisions excepting banks and common carriers subject to the Act from the exercise of the Commission’s power to investigate and require reports from corporations.
 
@@ -203,7 +203,7 @@
 
  __Study and Evaluation of Effectiveness of State Policies and Programs Relating to Regulation of Certain Health Insurance Policies__ 
 
-[Pub. L. 96–252, § 5(b)][/us/pl/96/252/s5/b], May 28, 1980, [94 Stat. 376][/us/stat/94/376], provided that: 
+[Pub. L. 96–252][/us/pl/96/252], § 5(b), May 28, 1980, [94 Stat. 376][/us/stat/94/376], provided that: 
 
 > “The amendment made in subsection (a) \[adding undesignated paragraph authorizing studies and reports relating to the business of insurance\] shall not be construed to prohibit the Federal Trade Commission from participating with the Secretary of Health and Human Services in a comprehensive study and evaluation of the comparative effectiveness of various State policies and programs relating to the regulation of health insurance policies available for purchase by individuals who are eligible for benefits under the program of health insurance benefits established in title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\].”
 
@@ -241,57 +241,57 @@
 [/us/usc/t50/s4605/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F4
 [/us/usc/t15/s57a/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a%2Ff%2F3
 [/us/usc/t15/s57a/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a%2Ff%2F4
-[/us/act/1914-09-26/ch311/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs6
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F721
-[/us/pl/93/153/s408/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F153%2Fs408%2Fe
+[/us/pl/93/153/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F153%2FtIV
 [/us/stat/87/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F592
-[/us/pl/93/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637
+[/us/pl/93/637/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2FtII
 [/us/stat/88/2193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2193
-[/us/pl/96/37/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F37%2Fs1%2Fb
+[/us/pl/96/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F37
 [/us/stat/93/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F95
 [/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
 [/us/stat/94/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F374
-[/us/pl/100/86/s715/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs715%2Fa
+[/us/pl/100/86/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2FtVII
 [/us/stat/101/655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F655
-[/us/pl/103/437/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs5%2Fa
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4582
-[/us/pl/103/438/s3/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438%2Fs3%2Fe%2F2%2FA
+[/us/pl/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438
 [/us/stat/108/4598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4598
 [/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
 [/us/stat/120/3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3372
-[/us/pl/112/203/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203%2Fs1
+[/us/pl/112/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203
 [/us/stat/126/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1484
 [/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13
 [/us/usc/t15/s44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs44
 [/us/pl/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438
 [/us/stat/108/4597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4597
 [/us/usc/t15/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6201
-[/us/pl/112/203/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203%2Fs1
-[/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13
-[/us/pl/109/455/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs4%2Fd
-[/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13
-[/us/pl/112/203/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203%2Fs1
-[/us/pl/109/455/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs4%2Fa
-[/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13
-[/us/pl/112/203/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203%2Fs1
-[/us/pl/109/455/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs4%2Fb
-[/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13
-[/us/pl/112/203/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203%2Fs1
+[/us/pl/112/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
+[/us/pl/112/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
+[/us/pl/112/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
+[/us/pl/112/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438
-[/us/pl/100/86/s715/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs715%2Fb
+[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
 [/us/usc/t15/s57a/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a%2Ff%2F4
-[/us/pl/100/86/s715/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86%2Fs715%2Fa%2F1
+[/us/pl/100/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F86
 [/us/usc/t15/s57a/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a%2Ff%2F4
 [/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
-[/us/pl/96/252/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs3%2Fa
-[/us/pl/96/37/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F37%2Fs1%2Fb%2F3
-[/us/pl/96/37/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F37%2Fs1%2Fb%2F1
+[/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
+[/us/pl/96/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F37
+[/us/pl/96/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F37
 [/us/usc/t15/s57a/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a%2Ff%2F3
-[/us/pl/93/637/s203/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs203%2Fa%2F3
 [/us/pl/93/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637
 [/us/pl/93/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637
-[/us/pl/93/637/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs202%2Fb
+[/us/pl/93/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637
+[/us/pl/93/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637
 [/us/usc/t15/s57a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a%2Fa%2F2
 [/us/pl/93/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F153
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
@@ -307,7 +307,7 @@
 [/us/usc/t15/s57a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/pl/96/252/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs5%2Fb
+[/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
 [/us/stat/94/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F376
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/stat/53/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F29

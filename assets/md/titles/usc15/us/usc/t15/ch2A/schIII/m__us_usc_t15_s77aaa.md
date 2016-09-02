@@ -21,7 +21,7 @@
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–550, title IV, § 401][/us/pl/101/550/s401], Nov. 15, 1990, [104 Stat. 2721][/us/stat/104/2721], provided that: 
+[Pub. L. 101–550, title IV][/us/pl/101/550/tIV], § 401, Nov. 15, 1990, [104 Stat. 2721][/us/stat/104/2721], provided that: 
 
 > “This title \[amending sections 77ccc to 77eee, 77iii to 77rrr, and 77vvv of this title\] may be cited as the ‘Trust Indenture Reform Act of 1990’.”
 
@@ -35,7 +35,7 @@
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/act/1939-08-03/ch411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-03%2Fch411
 [/us/stat/53/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1149
-[/us/pl/101/550/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs401
+[/us/pl/101/550/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtIV
 [/us/stat/104/2721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2721
 
 

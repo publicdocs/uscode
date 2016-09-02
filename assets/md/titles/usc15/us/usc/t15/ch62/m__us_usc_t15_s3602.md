@@ -17,7 +17,7 @@
 
     It is the sense of the Congress that lending by federally insured lending institutions for the conversion of rental housing to condominiums and cooperative housing should be discouraged where there are adverse impacts on housing opportunities of the low- and moderate-income and elderly and handicapped tenants involved.
 
-([Pub. L. 96–399, title VI, § 603][/us/pl/96/399/s603], Oct. 8, 1980, [94 Stat. 1673][/us/stat/94/1673].)
+([Pub. L. 96–399, title VI][/us/pl/96/399/tVI], § 603, Oct. 8, 1980, [94 Stat. 1673][/us/stat/94/1673].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/399/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs603
+[/us/pl/96/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtVI
 [/us/stat/94/1673]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1673
 
 

@@ -29,7 +29,7 @@
 
     (6) after the debt collector knows the consumer is represented by an attorney with regard to the subject debt and has knowledge of, or can readily ascertain, such attorney’s name and address, not communicate with any person other than that attorney, unless the attorney fails to respond within a reasonable period of time to communication from the debt collector.
 
-([Pub. L. 90–321, title VIII, § 804][/us/pl/90/321/s804], as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 876][/us/stat/91/876].)
+([Pub. L. 90–321, title VIII][/us/pl/90/321/tVIII], § 804, as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 876][/us/stat/91/876].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/90/321/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs804
+[/us/pl/90/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVIII
 [/us/pl/95/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F109
 [/us/stat/91/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F876
 

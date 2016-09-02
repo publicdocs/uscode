@@ -47,7 +47,7 @@
 
         (5) supplement, but neither supplant nor duplicate, the automotive propulsion system research and development efforts of private industry.
 
-([Pub. L. 96–512, § 2][/us/pl/96/512/s2], Dec. 12, 1980, [94 Stat. 2827][/us/stat/94/2827].)
+([Pub. L. 96–512][/us/pl/96/512], § 2, Dec. 12, 1980, [94 Stat. 2827][/us/stat/94/2827].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 
  __Short Title__ 
 
-[Pub. L. 96–512, § 1][/us/pl/96/512/s1], Dec. 12, 1980, [94 Stat. 2827][/us/stat/94/2827], provided: 
+[Pub. L. 96–512][/us/pl/96/512], § 1, Dec. 12, 1980, [94 Stat. 2827][/us/stat/94/2827], provided: 
 
 > “That this Act \[enacting this chapter\] may be cited as the ‘Methane Transportation Research, Development, and Demonstration Act of 1980’.”
 
@@ -67,12 +67,12 @@
 ----------
 
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/96/512/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F512%2Fs2
+[/us/pl/96/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F512
 [/us/stat/94/2827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2827
 [/us/act/1955-07-14/ch360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-14%2Fch360
 [/us/stat/69/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F322
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401
-[/us/pl/96/512/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F512%2Fs1
+[/us/pl/96/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F512
 [/us/stat/94/2827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2827
 
 

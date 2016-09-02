@@ -79,7 +79,7 @@
 
             Nothing in this subsection may be construed to prohibit the use of a book-entry or other electronic form of registration for trust certificates issued under this section.
 
-([Pub. L. 85–699, title III, § 386][/us/pl/85/699/s386], as added [Pub. L. 110–140, title XII, § 1207][/us/pl/110/140/s1207], Dec. 19, 2007, [121 Stat. 1779][/us/stat/121/1779].)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 386, as added [Pub. L. 110–140, title XII][/us/pl/110/140/tXII], § 1207, Dec. 19, 2007, [121 Stat. 1779][/us/stat/121/1779].)
 
 ----------
 
@@ -88,8 +88,8 @@
 ----------
 ----------
 
-[/us/pl/85/699/s386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs386
-[/us/pl/110/140/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1207
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/110/140/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXII
 [/us/stat/121/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1779
 
 

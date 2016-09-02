@@ -179,7 +179,7 @@
 
         For purposes of this section, the term “environmental business” means a business that produces environmental technologies, goods, or services.
 
-([Pub. L. 100–418, title II, § 2313][/us/pl/100/418/s2313], as added [Pub. L. 102–429, title II, § 204(a)][/us/pl/102/429/s204/a], Oct. 21, 1992, [106 Stat. 2202][/us/stat/106/2202]; amended [Pub. L. 103–392, title IV, § 402][/us/pl/103/392/s402], Oct. 22, 1994, [108 Stat. 4099][/us/stat/108/4099].)
+([Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2313, as added [Pub. L. 102–429, title II][/us/pl/102/429/tII], § 204(a), Oct. 21, 1992, [106 Stat. 2202][/us/stat/106/2202]; amended [Pub. L. 103–392, title IV][/us/pl/103/392/tIV], § 402, Oct. 22, 1994, [108 Stat. 4099][/us/stat/108/4099].)
 
  __References in Text__ 
 
@@ -187,9 +187,9 @@
 
  __Amendments__ 
 
-    1994—Subsecs. (c) to (e). [Pub. L. 103–392, § 402(a)][/us/pl/103/392/s402/a], added subsecs. (c) and (d), redesignated former subsec. (c) as (e), and struck out former subsec. (d) which related to overseas services for exporters.
+    1994—Subsecs. (c) to (e). [Pub. L. 103–392][/us/pl/103/392], § 402(a), added subsecs. (c) and (d), redesignated former subsec. (c) as (e), and struck out former subsec. (d) which related to overseas services for exporters.
 
-    Subsecs. (f) to (k). [Pub. L. 103–392, § 402(b)][/us/pl/103/392/s402/b], added subsecs. (f) to (k).
+    Subsecs. (f) to (k). [Pub. L. 103–392][/us/pl/103/392], § 402(b), added subsecs. (f) to (k).
 
  __Report on Insurance Feasibility__ 
 
@@ -204,14 +204,14 @@
 
 [/us/usc/t15/s4727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4727
 [/us/usc/t15/s4721/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4721%2Fb%2F8
-[/us/pl/100/418/s2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2313
-[/us/pl/102/429/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs204%2Fa
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
+[/us/pl/102/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2FtII
 [/us/stat/106/2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2202
-[/us/pl/103/392/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392%2Fs402
+[/us/pl/103/392/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392%2FtIV
 [/us/stat/108/4099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4099
 [/us/usc/t15/s4721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4721
-[/us/pl/103/392/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392%2Fs402%2Fa
-[/us/pl/103/392/s402/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392%2Fs402%2Fb
+[/us/pl/103/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392
+[/us/pl/103/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F392
 [/us/pl/102/429/s204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs204%2Fb
 
 

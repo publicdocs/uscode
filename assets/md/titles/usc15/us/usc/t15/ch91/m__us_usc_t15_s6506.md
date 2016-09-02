@@ -21,7 +21,7 @@
 
     (2) prepare and submit to Congress a report on the results of the review under paragraph (1).
 
-([Pub. L. 105–277, div. C, title XIII, § 1307][/us/pl/105/277/s1307], Oct. 21, 1998, [112 Stat. 2681–735][/us/stat/112/2681-735].)
+([Pub. L. 105–277, div. C, title XIII][/us/pl/105/277/dC/tXIII], § 1307, Oct. 21, 1998, [112 Stat. 2681–735][/us/stat/112/2681-735].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t15/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6502
-[/us/pl/105/277/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1307
+[/us/pl/105/277/dC/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtXIII
 [/us/stat/112/2681-735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-735
 
 

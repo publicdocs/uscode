@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch31/m__us_usc_t15_ch31.md) | [Next](./../../../..//us/usc/t15/ch32/m__us_usc_t15_s1291.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch32)
+[Previous](./../../../..//us/usc/t15/ch31/m__us_usc_t15_s1281 _us_usc_t15_s1282.md) | [Next](./../../../..//us/usc/t15/ch32/m__us_usc_t15_s1291.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch32)
 
 ## CHAPTER 32—TELECASTING OF PROFESSIONAL SPORTS CONTESTS
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch31/m__us_usc_t15_ch31.md) | [Next](./../../../..//us/usc/t15/ch32/m__us_usc_t15_s1291.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch32)
+[Previous](./../../../..//us/usc/t15/ch31/m__us_usc_t15_s1281 _us_usc_t15_s1282.md) | [Next](./../../../..//us/usc/t15/ch32/m__us_usc_t15_s1291.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch32)
 
 ----------
 ----------

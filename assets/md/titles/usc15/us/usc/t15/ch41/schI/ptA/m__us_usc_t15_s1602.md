@@ -275,7 +275,7 @@
 
         (4) Paragraphs (1) and (2) shall not apply to discount points used to purchase an interest rate reduction unless the amount of the interest rate reduction purchased is reasonably consistent with established industry norms and practices for secondary mortgage market transactions.
 
-([Pub. L. 90–321, title I, § 103][/us/pl/90/321/s103], May 29, 1968, [82 Stat. 147][/us/stat/82/147]; [Pub. L. 91–508, title V, § 501][/us/pl/91/508/s501], Oct. 26, 1970, [84 Stat. 1126][/us/stat/84/1126]; [Pub. L. 93–495, title III, § 303][/us/pl/93/495/s303], Oct. 28, 1974, [88 Stat. 1511][/us/stat/88/1511]; [Pub. L. 94–222, § 3(a)][/us/pl/94/222/s3/a], Feb. 27, 1976, [90 Stat. 197][/us/stat/90/197]; [Pub. L. 96–221, title VI][/us/pl/96/221], §§ 602, 603(a), (b), 604, 612(a)(2), (b), Mar. 31, 1980, [94 Stat. 168][/us/stat/94/168], 169, 175, 176; [Pub. L. 97–25, title I, § 102][/us/pl/97/25/s102], July 27, 1981, [95 Stat. 144][/us/stat/95/144]; [Pub. L. 97–320, title VII, § 702(a)][/us/pl/97/320/s702/a], Oct. 15, 1982, [96 Stat. 1538][/us/stat/96/1538]; [Pub. L. 103–325, title I][/us/pl/103/325], §§ 152(a)–(c), 154(a), Sept. 23, 1994, [108 Stat. 2190][/us/stat/108/2190], 2191, 2196; [Pub. L. 110–315, title X, § 1011(b)][/us/pl/110/315/s1011/b], Aug. 14, 2008, [122 Stat. 3481][/us/stat/122/3481]; [Pub. L. 111–24, title I, § 108][/us/pl/111/24/s108], May 22, 2009, [123 Stat. 1743][/us/stat/123/1743]; [Pub. L. 111–203, title X, § 1100A(1)][/us/pl/111/203/s1100A/1], (2), title XIV, §§ 1401, 1431, July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2137, 2157.)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 103, May 29, 1968, [82 Stat. 147][/us/stat/82/147]; [Pub. L. 91–508, title V][/us/pl/91/508/tV], § 501, Oct. 26, 1970, [84 Stat. 1126][/us/stat/84/1126]; [Pub. L. 93–495, title III][/us/pl/93/495/tIII], § 303, Oct. 28, 1974, [88 Stat. 1511][/us/stat/88/1511]; [Pub. L. 94–222][/us/pl/94/222], § 3(a), Feb. 27, 1976, [90 Stat. 197][/us/stat/90/197]; [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], §§ 602, 603(a), (b), 604, 612(a)(2), (b), Mar. 31, 1980, [94 Stat. 168][/us/stat/94/168], 169, 175, 176; [Pub. L. 97–25, title I][/us/pl/97/25/tI], § 102, July 27, 1981, [95 Stat. 144][/us/stat/95/144]; [Pub. L. 97–320, title VII][/us/pl/97/320/tVII], § 702(a), Oct. 15, 1982, [96 Stat. 1538][/us/stat/96/1538]; [Pub. L. 103–325, title I][/us/pl/103/325/tI], §§ 152(a)–(c), 154(a), Sept. 23, 1994, [108 Stat. 2190][/us/stat/108/2190], 2191, 2196; [Pub. L. 110–315, title X][/us/pl/110/315/tX], § 1011(b), Aug. 14, 2008, [122 Stat. 3481][/us/stat/122/3481]; [Pub. L. 111–24, title I][/us/pl/111/24/tI], § 108, May 22, 2009, [123 Stat. 1743][/us/stat/123/1743]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(1), (2), title XIV, §§ 1401, 1431, July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2137, 2157.)
 
  __References in Text__ 
 
@@ -287,11 +287,11 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], which directed substitution of “Bureau” for “Board” wherever appearing, was executed by making the substitution wherever appearing in subsecs. (g), (z), and (bb)(2)(A), (C), (4)(D), but not in subsec. (c), to reflect the probable intent of Congress.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1100A(2), which directed substitution of “Bureau” for “Board” wherever appearing, was executed by making the substitution wherever appearing in subsecs. (g), (z), and (bb)(2)(A), (C), (4)(D), but not in subsec. (c), to reflect the probable intent of Congress.
 
-    Subsecs. (b) to (z). [Pub. L. 111–203, § 1100(A)(1)][/us/pl/111/203/s1100/A/1], added subsec. (b) and redesignated former subsecs. (b) to (z) as (c) to (aa), respectively.
+    Subsecs. (b) to (z). [Pub. L. 111–203][/us/pl/111/203], § 1100(A)(1), added subsec. (b) and redesignated former subsecs. (b) to (z) as (c) to (aa), respectively.
 
-    Subsec. (bb). [Pub. L. 111–203, § 1431(a)][/us/pl/111/203/s1431/a], which directed amendment of subsec. (aa) by inserting subsec. heading, adding par. (1), and striking out former par. (1), was executed by making the amendment to subsec. (bb) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by [Pub. L. 111–203, § 1100(A)(1)][/us/pl/111/203/s1100/A/1]. See below. Text of former par. (1) read as follows: “A mortgage referred to in this subsection means a consumer credit transaction that is secured by the consumer’s principal dwelling, other than a residential mortgage transaction, a reverse mortgage transaction, or a transaction under an open end credit plan, if—
+    Subsec. (bb). [Pub. L. 111–203][/us/pl/111/203], § 1431(a), which directed amendment of subsec. (aa) by inserting subsec. heading, adding par. (1), and striking out former par. (1), was executed by making the amendment to subsec. (bb) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by [Pub. L. 111–203][/us/pl/111/203], § 1100(A)(1). See below. Text of former par. (1) read as follows: “A mortgage referred to in this subsection means a consumer credit transaction that is secured by the consumer’s principal dwelling, other than a residential mortgage transaction, a reverse mortgage transaction, or a transaction under an open end credit plan, if—
 
     “(A) the annual percentage rate at consummation of the transaction will exceed by more than 10 percentage points the yield on Treasury securities having comparable periods of maturity on the fifteenth day of the month immediately preceding the month in which the application for the extension of credit is received by the creditor; or
 
@@ -301,57 +301,57 @@
 
     “(ii) $400.”
 
-    [Pub. L. 111–203, § 1100(A)(1)][/us/pl/111/203/s1100/A/1], redesignated subsec. (aa) as (bb). Former subsec. (bb) redesignated (cc).
+    [Pub. L. 111–203][/us/pl/111/203], § 1100(A)(1), redesignated subsec. (aa) as (bb). Former subsec. (bb) redesignated (cc).
 
-    Subsec. (bb)(2)(B). [Pub. L. 111–203, § 1431(b)][/us/pl/111/203/s1431/b], which directed amendment of subsec. (aa)(2) by adding subpar. (B) and striking out former subpar. (B), was executed by making the amendment to subsec. (bb)(2) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by [Pub. L. 111–203, § 1100(A)(1)][/us/pl/111/203/s1100/A/1]. See above. Text of former subpar. (B) read as follows: “An increase or decrease under subparagraph (A) may not result in the number of percentage points referred to in subparagraph (A) being—
+    Subsec. (bb)(2)(B). [Pub. L. 111–203][/us/pl/111/203], § 1431(b), which directed amendment of subsec. (aa)(2) by adding subpar. (B) and striking out former subpar. (B), was executed by making the amendment to subsec. (bb)(2) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by [Pub. L. 111–203][/us/pl/111/203], § 1100(A)(1). See above. Text of former subpar. (B) read as follows: “An increase or decrease under subparagraph (A) may not result in the number of percentage points referred to in subparagraph (A) being—
 
     “(i) less that 8 percentage points; or
 
     “(ii) greater than 12 percentage points.”
 
-    Subsec. (bb)(4)(B). [Pub. L. 111–203, § 1431(c)(1)(A)][/us/pl/111/203/s1431/c/1/A], which directed amendment of subsec. (aa)(4) by adding subpar. (B) and struck out former subpar. (B), was executed by making the amendment to subsec. (bb)(4) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by [Pub. L. 111–203, § 1100(A)(1)][/us/pl/111/203/s1100/A/1]. See above. Text of former subpar. (B) read as follows: “all compensation paid to mortgage brokers;”.
+    Subsec. (bb)(4)(B). [Pub. L. 111–203][/us/pl/111/203], § 1431(c)(1)(A), which directed amendment of subsec. (aa)(4) by adding subpar. (B) and struck out former subpar. (B), was executed by making the amendment to subsec. (bb)(4) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by [Pub. L. 111–203][/us/pl/111/203], § 1100(A)(1). See above. Text of former subpar. (B) read as follows: “all compensation paid to mortgage brokers;”.
 
-    Subsec. (bb)(4)(D) to (G). [Pub. L. 111–203, § 1431(c)(1)(B)][/us/pl/111/203/s1431/c/1/B], (C), which directed amendment of subsec. (aa)(4) by adding subpars. (D) to (F) and redesignating former subpar. (D) as (G), was executed by making the amendment to subsec. (bb)(4) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by [Pub. L. 111–203, § 1100(A)(1)][/us/pl/111/203/s1100/A/1]. See above.
+    Subsec. (bb)(4)(D) to (G). [Pub. L. 111–203][/us/pl/111/203], § 1431(c)(1)(B), (C), which directed amendment of subsec. (aa)(4) by adding subpars. (D) to (F) and redesignating former subpar. (D) as (G), was executed by making the amendment to subsec. (bb)(4) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by [Pub. L. 111–203][/us/pl/111/203], § 1100(A)(1). See above.
 
-    Subsec. (bb)(5), (6). [Pub. L. 111–203, § 1431(c)(2)][/us/pl/111/203/s1431/c/2], which directed amendment of subsec. (aa) by adding par. (5) and redesignating former par. (5) as (6), was executed by making the amendment to subsec. (bb) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by [Pub. L. 111–203, § 1100(A)(1)][/us/pl/111/203/s1100/A/1]. See above.
+    Subsec. (bb)(5), (6). [Pub. L. 111–203][/us/pl/111/203], § 1431(c)(2), which directed amendment of subsec. (aa) by adding par. (5) and redesignating former par. (5) as (6), was executed by making the amendment to subsec. (bb) to reflect the probable intent of Congress and the redesignation of subsec. (aa) as (bb) by [Pub. L. 111–203][/us/pl/111/203], § 1100(A)(1). See above.
 
-    Subsec. (cc). [Pub. L. 111–203, § 1401][/us/pl/111/203/s1401], added subsec. (cc) relating to definitions relating to mortgage origination and residential mortgage loans.
+    Subsec. (cc). [Pub. L. 111–203][/us/pl/111/203], § 1401, added subsec. (cc) relating to definitions relating to mortgage origination and residential mortgage loans.
 
-    [Pub. L. 111–203, § 1100(A)(1)][/us/pl/111/203/s1100/A/1], redesignated subsec. (bb) as (cc) defining the term “reverse mortgage transaction”.
+    [Pub. L. 111–203][/us/pl/111/203], § 1100(A)(1), redesignated subsec. (bb) as (cc) defining the term “reverse mortgage transaction”.
 
-    Subsec. (dd). [Pub. L. 111–203, § 1431(d)][/us/pl/111/203/s1431/d], added subsec. (dd).
+    Subsec. (dd). [Pub. L. 111–203][/us/pl/111/203], § 1431(d), added subsec. (dd).
 
     2009—Subsec. (i). [Pub. L. 111–24][/us/pl/111/24] substituted “terms ‘open end credit plan’ and ‘open end consumer credit plan’ mean” for “term ‘open end credit plan’ means” in first sentence and inserted “or open end consumer credit plan” after “credit plan” wherever appearing in second sentence.
 
     2008—Subsec. (f). [Pub. L. 110–315][/us/pl/110/315] inserted at end “The term ‘creditor’ includes a private educational lender (as that term is defined in [section 1650 of this title][/us/usc/t15/s1650]) for purposes of this subchapter.”
 
-    1994—Subsec. (f). [Pub. L. 103–325, § 152(c)][/us/pl/103/325/s152/c], inserted at end “Any person who originates 2 or more mortgages referred to in subsection (aa) in any 12-month period or any person who originates 1 or more such mortgages through a mortgage broker shall be considered to be a creditor for purposes of this subchapter.”
+    1994—Subsec. (f). [Pub. L. 103–325][/us/pl/103/325], § 152(c), inserted at end “Any person who originates 2 or more mortgages referred to in subsection (aa) in any 12-month period or any person who originates 1 or more such mortgages through a mortgage broker shall be considered to be a creditor for purposes of this subchapter.”
 
-    Subsec. (u). [Pub. L. 103–325, § 152(b)][/us/pl/103/325/s152/b], substituted “the due dates” for “and the due dates” and inserted before period at end “, and the disclosures required by [section 1639(a) of this title][/us/usc/t15/s1639/a]”.
+    Subsec. (u). [Pub. L. 103–325][/us/pl/103/325], § 152(b), substituted “the due dates” for “and the due dates” and inserted before period at end “, and the disclosures required by [section 1639(a) of this title][/us/usc/t15/s1639/a]”.
 
-    Subsec. (aa). [Pub. L. 103–325, § 152(a)][/us/pl/103/325/s152/a], added subsec. (aa).
+    Subsec. (aa). [Pub. L. 103–325][/us/pl/103/325], § 152(a), added subsec. (aa).
 
-    Subsec. (bb). [Pub. L. 103–325, § 154(a)][/us/pl/103/325/s154/a], added subsec. (bb).
+    Subsec. (bb). [Pub. L. 103–325][/us/pl/103/325], § 154(a), added subsec. (bb).
 
     1982—Subsec. (f). [Pub. L. 97–320][/us/pl/97/320] struck out provision that a person who regularly arranged for the extension of consumer credit payable in more than four installments or for which the payment of a finance charge was or might have been required from persons not creditors was a creditor, and provision that this subchapter applied to any creditor, irrespective of his or its status as a natural person or any type of organization, who was a card issuer.
 
     1981—Subsecs. (x) to (z). [Pub. L. 97–25][/us/pl/97/25] added subsec. (z) and, effective Apr. 10, 1982, redesignated subsecs. (x), (y), and (z) as (y), (z), and (x), respectively.
 
-    1980—Subsec. (f). [Pub. L. 96–221, § 602(a)][/us/pl/96/221/s602/a], substituted provisions defining term “creditor” as referring only to a person who both regularly extends consumer credit, subject to specified conditions, and is the person to whom the debt arising is initially payable on the face of the indebtedness or by agreement, and notwithstanding such provisions, also refers to a person regularly arranging for the extension of consumer credit, and a card issuer and any person honoring the credit card, subject to specified conditions, for provisions defining term “creditor” as referring only to creditors who regularly extend, or arrange for the extension of credit payable in more than four installments or where a finance charge is or may be required, and substituted “(a)(5)” for “(a)(6)”, “(a)(6)” for “(a)(7)”, “(a)(7)” for “(a)(8)”, “(b)(8)” for “(b)(9)”, and “(b)(10)” for “(b)(11)”.
+    1980—Subsec. (f). [Pub. L. 96–221][/us/pl/96/221], § 602(a), substituted provisions defining term “creditor” as referring only to a person who both regularly extends consumer credit, subject to specified conditions, and is the person to whom the debt arising is initially payable on the face of the indebtedness or by agreement, and notwithstanding such provisions, also refers to a person regularly arranging for the extension of consumer credit, and a card issuer and any person honoring the credit card, subject to specified conditions, for provisions defining term “creditor” as referring only to creditors who regularly extend, or arrange for the extension of credit payable in more than four installments or where a finance charge is or may be required, and substituted “(a)(5)” for “(a)(6)”, “(a)(6)” for “(a)(7)”, “(a)(7)” for “(a)(8)”, “(b)(8)” for “(b)(9)”, and “(b)(10)” for “(b)(11)”.
 
-    Subsec. (g). [Pub. L. 96–221, § 602(b)][/us/pl/96/221/s602/b], substituted “in which the seller is a creditor” for “with respect to which credit is extended or arranged by the seller”.
+    Subsec. (g). [Pub. L. 96–221][/us/pl/96/221], § 602(b), substituted “in which the seller is a creditor” for “with respect to which credit is extended or arranged by the seller”.
 
-    Subsec. (h). [Pub. L. 96–221, § 603(a)][/us/pl/96/221/s603/a], struck out applicability to agricultural purposes.
+    Subsec. (h). [Pub. L. 96–221][/us/pl/96/221], § 603(a), struck out applicability to agricultural purposes.
 
-    Subsec. (i). [Pub. L. 96–221, § 604][/us/pl/96/221/s604], inserted provisions respecting the reasonable contemplations of the creditor, and verification of credit information from time to time.
+    Subsec. (i). [Pub. L. 96–221][/us/pl/96/221], § 604, inserted provisions respecting the reasonable contemplations of the creditor, and verification of credit information from time to time.
 
-    Subsecs. (s), (t). [Pub. L. 96–221, § 603(b)][/us/pl/96/221/s603/b], added subsecs. (s) and (t). Former subsecs. (s) and (t) redesignated (x) and (y), respectively.
+    Subsecs. (s), (t). [Pub. L. 96–221][/us/pl/96/221], § 603(b), added subsecs. (s) and (t). Former subsecs. (s) and (t) redesignated (x) and (y), respectively.
 
-    Subsec. (u). [Pub. L. 96–221, § 612(a)(2)][/us/pl/96/221/s612/a/2], added subsec. (u).
+    Subsec. (u). [Pub. L. 96–221][/us/pl/96/221], § 612(a)(2), added subsec. (u).
 
-    Subsecs. (v), (w). [Pub. L. 96–221, § 612(b)][/us/pl/96/221/s612/b], added subsecs. (v) and (w).
+    Subsecs. (v), (w). [Pub. L. 96–221][/us/pl/96/221], § 612(b), added subsecs. (v) and (w).
 
-    Subsecs. (x), (y). [Pub. L. 96–221, § 603(b)][/us/pl/96/221/s603/b], redesignated former subsecs. (s) and (t) as (x) and (y), respectively.
+    Subsecs. (x), (y). [Pub. L. 96–221][/us/pl/96/221], § 603(b), redesignated former subsecs. (s) and (t) as (x) and (y), respectively.
 
     1976—Subsecs. (p) to (t). [Pub. L. 94–222][/us/pl/94/222] added subsecs. (p) and (q) and redesignated former subsecs. (p) to (r) as (r) to (t), respectively.
 
@@ -367,13 +367,13 @@
 
  __Effective Date of 2009 Amendment__ 
 
-[Pub. L. 111–24, § 3][/us/pl/111/24/s3], May 22, 2009, [123 Stat. 1735][/us/stat/123/1735], provided that: 
+[Pub. L. 111–24][/us/pl/111/24], § 3, May 22, 2009, [123 Stat. 1735][/us/stat/123/1735], provided that: 
 
 > “This Act \[enacting sections 1616, 1651, 1665c to 1665e, 1666i–1, 1666i–2, and 1693l–1 of this title and [section 1a–7b of Title 16][/us/usc/t16/s1a–7b], Conservation, amending this section and sections 1632, 1637, 1640, 1650, 1666b, 1666c, 1666j, 1681b, 1681j, and 1693m to 1693r of this title, enacting provisions set out as notes under this section and sections 1637, 1638, 1666b, 1681j, and 1693l–1 of this title and [section 5311 of Title 31][/us/usc/t31/s5311], Money and Finance, and amending provisions set out as notes under sections 1638 and 1693 of this title\] and the amendments made by this Act shall become effective 9 months after the date of enactment of this Act \[May 22, 2009\], except as otherwise specifically provided in this Act.”
 
  __Effective Date of 1982 Amendment__ 
 
-[Pub. L. 97–320, title VII, § 702(b)][/us/pl/97/320/s702/b], Oct. 15, 1982, [96 Stat. 1538][/us/stat/96/1538], provided that: 
+[Pub. L. 97–320, title VII][/us/pl/97/320/tVII], § 702(b), Oct. 15, 1982, [96 Stat. 1538][/us/stat/96/1538], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the effective date of title VI of the Depository Institutions Deregulation and Monetary Control Act of 1980 \[two years and six months after Mar. 31, 1980, see Effective Date of 1980 Amendment note below\].”
 
@@ -383,7 +383,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–221, title VI, § 625][/us/pl/96/221/s625], Mar. 31, 1980, [94 Stat. 185][/us/stat/94/185], as amended by [Pub. L. 97–25, title III, § 301][/us/pl/97/25/s301], July 27, 1981, [95 Stat. 145][/us/stat/95/145]; [Pub. L. 97–110, title III, § 301][/us/pl/97/110/s301], Dec. 26, 1981, [95 Stat. 1515][/us/stat/95/1515], provided that:
+[Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 625, Mar. 31, 1980, [94 Stat. 185][/us/stat/94/185], as amended by [Pub. L. 97–25, title III][/us/pl/97/25/tIII], § 301, July 27, 1981, [95 Stat. 145][/us/stat/95/145]; [Pub. L. 97–110, title III][/us/pl/97/110/tIII], § 301, Dec. 26, 1981, [95 Stat. 1515][/us/stat/95/1515], provided that:
 
 >     “(a) Except as provided in section 608(b) \[set out as an Effective Date of 1980 Amendment note under [section 1607 of this title][/us/usc/t15/s1607]\], the amendments made by this title \[enacting [section 1646 of this title][/us/usc/t15/s1646], amending sections 57a, 1602 to 1606, 1610, 1612, 1613, 1631, 1632, 1635, 1637, 1638, 1640, 1641, 1643, 1663, 1664, 1665a, 1666, 1666d, 1667d, and 1691f of this title, repealing sections 1614, 1636, and 1639 of this title, and enacting provisions set out as a note under [section 1601 of this title][/us/usc/t15/s1601]\] shall take effect upon the expiration of two years and six months after the date of enactment of this title \[Mar. 31, 1980\].
 
@@ -397,17 +397,17 @@
 
  __Regulations__ 
 
-[Pub. L. 111–24, § 2][/us/pl/111/24/s2], May 22, 2009, [123 Stat. 1735][/us/stat/123/1735], provided that: 
+[Pub. L. 111–24][/us/pl/111/24], § 2, May 22, 2009, [123 Stat. 1735][/us/stat/123/1735], provided that: 
 
 > “The Board of Governors of the Federal Reserve System (in this Act \[see Short Title of 2009 Amendment note set out under [section 1601 of this title][/us/usc/t15/s1601]\] referred to as the ‘Board’) may issue such rules and publish such model forms as it considers necessary to carry out this Act and the amendments made by this Act.”
 
-[Pub. L. 103–325, title I, § 155][/us/pl/103/325/s155], Sept. 23, 1994, [108 Stat. 2197][/us/stat/108/2197], provided that: 
+[Pub. L. 103–325, title I][/us/pl/103/325/tI], § 155, Sept. 23, 1994, [108 Stat. 2197][/us/stat/108/2197], provided that: 
 
 > “Not later than 180 days after the date of enactment of this Act \[Sept. 23, 1994\], the Board of Governors of the Federal Reserve System shall issue such regulations as may be necessary to carry out this subtitle \[subtitle B (§§ 151–158) of title I of [Pub. L. 103–325][/us/pl/103/325], see Short Title of 1994 Amendment note set out under [section 1601 of this title][/us/usc/t15/s1601]\], and such regulations shall become effective on the date on which disclosure regulations are required to become effective under section 105(d) of the Truth in Lending Act \[15 U.S.C. § 1604(d)\].”
 
  __Applicability of 1994 Amendments and Regulations to Subsection (aa) Mortgages__ 
 
-[Pub. L. 103–325, title I, § 156][/us/pl/103/325/s156], Sept. 23, 1994, [108 Stat. 2197][/us/stat/108/2197], provided that: 
+[Pub. L. 103–325, title I][/us/pl/103/325/tI], § 156, Sept. 23, 1994, [108 Stat. 2197][/us/stat/108/2197], provided that: 
 
 > “This subtitle \[subtitle B (§§ 151–158) of title I of [Pub. L. 103–325][/us/pl/103/325], see Short Title of 1994 Amendment note set out under [section 1601 of this title][/us/usc/t15/s1601]\], and the amendments made by this subtitle, shall apply to every mortgage referred to in section 103(aa) of the Truth in Lending Act \[now [15 U.S.C. 1602(bb)][/us/usc/t15/s1602/bb]\] (as added by section 152(a) of this Act) consummated on or after the date on which regulations issued under section 155 \[set out above\] become effective.”
 
@@ -438,27 +438,27 @@
 [/us/usc/t12/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1702
 [/us/usc/t15/s1639c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639c
 [/us/usc/t12/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1702
-[/us/pl/90/321/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs103
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
 [/us/stat/82/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F147
-[/us/pl/91/508/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs501
+[/us/pl/91/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtV
 [/us/stat/84/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1126
-[/us/pl/93/495/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs303
+[/us/pl/93/495/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtIII
 [/us/stat/88/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1511
-[/us/pl/94/222/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F222%2Fs3%2Fa
+[/us/pl/94/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F222
 [/us/stat/90/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F197
-[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F168
-[/us/pl/97/25/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F25%2Fs102
+[/us/pl/97/25/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F25%2FtI
 [/us/stat/95/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F144
-[/us/pl/97/320/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs702%2Fa
+[/us/pl/97/320/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtVII
 [/us/stat/96/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1538
-[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2190
-[/us/pl/110/315/s1011/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs1011%2Fb
+[/us/pl/110/315/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtX
 [/us/stat/122/3481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3481
-[/us/pl/111/24/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs108
+[/us/pl/111/24/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtI
 [/us/stat/123/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1743
-[/us/pl/111/203/s1100A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/stat/108/2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2160
@@ -470,40 +470,40 @@
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
-[/us/pl/111/203/s1100/A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2FA%2F1
-[/us/pl/111/203/s1431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1431%2Fa
-[/us/pl/111/203/s1100/A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2FA%2F1
-[/us/pl/111/203/s1100/A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2FA%2F1
-[/us/pl/111/203/s1431/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1431%2Fb
-[/us/pl/111/203/s1100/A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2FA%2F1
-[/us/pl/111/203/s1431/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1431%2Fc%2F1%2FA
-[/us/pl/111/203/s1100/A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2FA%2F1
-[/us/pl/111/203/s1431/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1431%2Fc%2F1%2FB
-[/us/pl/111/203/s1100/A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2FA%2F1
-[/us/pl/111/203/s1431/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1431%2Fc%2F2
-[/us/pl/111/203/s1100/A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2FA%2F1
-[/us/pl/111/203/s1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1401
-[/us/pl/111/203/s1100/A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100%2FA%2F1
-[/us/pl/111/203/s1431/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1431%2Fd
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t15/s1650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1650
-[/us/pl/103/325/s152/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs152%2Fc
-[/us/pl/103/325/s152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs152%2Fb
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/usc/t15/s1639/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639%2Fa
-[/us/pl/103/325/s152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs152%2Fa
-[/us/pl/103/325/s154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs154%2Fa
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
 [/us/pl/97/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F25
-[/us/pl/96/221/s602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs602%2Fa
-[/us/pl/96/221/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs602%2Fb
-[/us/pl/96/221/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs603%2Fa
-[/us/pl/96/221/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs604
-[/us/pl/96/221/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs603%2Fb
-[/us/pl/96/221/s612/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs612%2Fa%2F2
-[/us/pl/96/221/s612/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs612%2Fb
-[/us/pl/96/221/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs603%2Fb
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/94/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F222
 [/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
 [/us/pl/91/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508
@@ -513,18 +513,18 @@
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/111/24/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs3
+[/us/pl/111/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24
 [/us/stat/123/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1735
 [/us/usc/t16/s1a–7b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1a%E2%80%937b
 [/us/usc/t31/s5311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5311
-[/us/pl/97/320/s702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs702%2Fb
+[/us/pl/97/320/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtVII
 [/us/stat/96/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1538
 [/us/pl/97/25/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F25%2Fs102%2Fb
-[/us/pl/96/221/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs625
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F185
-[/us/pl/97/25/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F25%2Fs301
+[/us/pl/97/25/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F25%2FtIII
 [/us/stat/95/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F145
-[/us/pl/97/110/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F110%2Fs301
+[/us/pl/97/110/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F110%2FtIII
 [/us/stat/95/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1515
 [/us/usc/t15/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1607
 [/us/usc/t15/s1646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1646
@@ -532,14 +532,14 @@
 [/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
 [/us/pl/93/495/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs308
 [/us/usc/t15/s1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1666
-[/us/pl/111/24/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs2
+[/us/pl/111/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24
 [/us/stat/123/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1735
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/103/325/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs155
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2197
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/103/325/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs156
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2197
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601

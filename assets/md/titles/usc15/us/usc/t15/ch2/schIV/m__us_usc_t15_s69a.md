@@ -47,7 +47,7 @@
 
         (2) when sold in a face to face transaction at a place such as a residence, craft fair, or other location used on a temporary or short term basis, by the person who trapped or hunted the animal, where the revenue from the sale of apparel or fur products is not the primary source of income of such person.
 
-([Aug. 8, 1951, ch. 298, § 3][/us/act/1951-08-08/ch298/s3], [65 Stat. 176][/us/stat/65/176]; [Pub. L. 111–313, § 3][/us/pl/111/313/s3], Dec. 18, 2010, [124 Stat. 3326][/us/stat/124/3326].)
+([Aug. 8, 1951, ch. 298][/us/act/1951-08-08/ch298], § 3, [65 Stat. 176][/us/stat/65/176]; [Pub. L. 111–313][/us/pl/111/313], § 3, Dec. 18, 2010, [124 Stat. 3326][/us/stat/124/3326].)
 
  __References in Text__ 
 
@@ -74,9 +74,9 @@
 [/us/usc/t15/s69b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs69b
 [/us/usc/t15/s69b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs69b%2F2%2FE
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/act/1951-08-08/ch298/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298%2Fs3
+[/us/act/1951-08-08/ch298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298
 [/us/stat/65/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F176
-[/us/pl/111/313/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F313%2Fs3
+[/us/pl/111/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F313
 [/us/stat/124/3326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3326
 [/us/usc/t15/s69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs69
 [/us/pl/111/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F313

@@ -27,7 +27,7 @@
 
         The Secretary, on his own motion, may, to the same extent as provided in subsections (a) through (b), intervene as a matter of right in any proceeding which relates to rates or rate design of nonregulated gas utilities.
 
-([Pub. L. 95–617, title III, § 305][/us/pl/95/617/s305], Nov. 9, 1978, [92 Stat. 3152][/us/stat/92/3152].)
+([Pub. L. 95–617, title III][/us/pl/95/617/tIII], § 305, Nov. 9, 1978, [92 Stat. 3152][/us/stat/92/3152].)
 
  __Definitions__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t15/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3201
-[/us/pl/95/617/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs305
+[/us/pl/95/617/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtIII
 [/us/stat/92/3152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3152
 [/us/usc/t16/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2602
 

@@ -51,7 +51,7 @@
 
         There is authorized to be appropriated to carry out the program under this section not to exceed $1,000,000 for each of fiscal years 1989, 1990, and 1991.
 
-([Pub. L. 94–469, title III, § 308][/us/pl/94/469/s308], as added [Pub. L. 100–551, § 1(a)][/us/pl/100/551/s1/a], Oct. 28, 1988, [102 Stat. 2762][/us/stat/102/2762].)
+([Pub. L. 94–469, title III][/us/pl/94/469/tIII], § 308, as added [Pub. L. 100–551][/us/pl/100/551], § 1(a), Oct. 28, 1988, [102 Stat. 2762][/us/stat/102/2762].)
 
 ----------
 
@@ -60,8 +60,8 @@
 ----------
 ----------
 
-[/us/pl/94/469/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs308
-[/us/pl/100/551/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F551%2Fs1%2Fa
+[/us/pl/94/469/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtIII
+[/us/pl/100/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F551
 [/us/stat/102/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2762
 
 

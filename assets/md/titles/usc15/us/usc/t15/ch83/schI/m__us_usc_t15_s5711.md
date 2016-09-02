@@ -121,7 +121,7 @@
 
         Any violation of any rule prescribed under subsection (a) shall be treated as a violation of a rule respecting unfair or deceptive acts or practices under [section 45 of this title][/us/usc/t15/s45]. Notwithstanding [section 45(a)(2) of this title][/us/usc/t15/s45/a/2], communications common carriers shall be subject to the jurisdiction of the Commission for purposes of this subchapter.
 
-([Pub. L. 102–556, title II, § 201][/us/pl/102/556/s201], Oct. 28, 1992, [106 Stat. 4187][/us/stat/106/4187].)
+([Pub. L. 102–556, title II][/us/pl/102/556/tII], § 201, Oct. 28, 1992, [106 Stat. 4187][/us/stat/106/4187].)
 
 ----------
 
@@ -134,7 +134,7 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
 [/us/usc/t15/s45/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45%2Fa%2F2
-[/us/pl/102/556/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2Fs201
+[/us/pl/102/556/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2FtII
 [/us/stat/106/4187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4187
 
 

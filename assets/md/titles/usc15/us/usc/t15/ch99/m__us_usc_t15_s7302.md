@@ -17,7 +17,7 @@
 
     Each Team shall be composed of individuals selected by the Director and led by an individual designated by the Director. Team members shall include at least 1 employee of the National Institute of Standards and Technology and shall include other experts who are not employees of the National Institute of Standards and Technology, who may include private sector experts, university experts, representatives of professional organizations with appropriate expertise, and appropriate Federal, State, or local officials. Team members who are not Federal employees shall be considered Federal Government contractors.
 
-([Pub. L. 107–231, § 3][/us/pl/107/231/s3], Oct. 1, 2002, [116 Stat. 1472][/us/stat/116/1472].)
+([Pub. L. 107–231][/us/pl/107/231], § 3, Oct. 1, 2002, [116 Stat. 1472][/us/stat/116/1472].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/107/231/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231%2Fs3
+[/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
 [/us/stat/116/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1472
 
 

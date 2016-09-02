@@ -43,7 +43,7 @@
 
     (b) It is the purpose of this chapter to increase United States exports of products and services by encouraging more efficient provision of export trade services to United States producers and suppliers, in particular by establishing an office within the Department of Commerce to promote the formation of export trade associations and export trading companies, by permitting bank holding companies, bankers’ banks, and Edge Act corporations and agreement corporations that are subsidiaries of bank holding companies to invest in export trading companies, by reducing restrictions on trade financing provided by financial institutions, and by modifying the application of the antitrust laws to certain export trade.
 
-([Pub. L. 97–290, title I, § 102][/us/pl/97/290/s102], Oct. 8, 1982, [96 Stat. 1233][/us/stat/96/1233].)
+([Pub. L. 97–290, title I][/us/pl/97/290/tI], § 102, Oct. 8, 1982, [96 Stat. 1233][/us/stat/96/1233].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Short Title__ 
 
-[Pub. L. 97–290, title I, § 101][/us/pl/97/290/s101], Oct. 8, 1982, [96 Stat. 1233][/us/stat/96/1233], provided that: 
+[Pub. L. 97–290, title I][/us/pl/97/290/tI], § 101, Oct. 8, 1982, [96 Stat. 1233][/us/stat/96/1233], provided that: 
 
 > “This title \[enacting this subchapter\] may be cited as the ‘Export Trading Company Act of 1982’.”
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/97/290/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs102
+[/us/pl/97/290/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2FtI
 [/us/stat/96/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1233
 [/us/pl/97/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290
 [/us/stat/96/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1233
@@ -74,7 +74,7 @@
 [/us/act/1919-12-24/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-12-24%2Fch18
 [/us/stat/41/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F378
 [/us/usc/t12/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs611
-[/us/pl/97/290/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs101
+[/us/pl/97/290/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2FtI
 [/us/stat/96/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1233
 
 

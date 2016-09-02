@@ -145,7 +145,7 @@
 
         (2) the unit will be an improved lot.
 
-([Pub. L. 90–448, title XIV, § 1403][/us/pl/90/448/s1403], Aug. 1, 1968, [82 Stat. 590][/us/stat/82/590]; [Pub. L. 91–152, title IV, § 411][/us/pl/91/152/s411], Dec. 24, 1969, [83 Stat. 398][/us/stat/83/398]; [Pub. L. 93–383, title VIII, § 812(b)][/us/pl/93/383/s812/b], Aug. 22, 1974, [88 Stat. 736][/us/stat/88/736]; [Pub. L. 95–557, title IX, § 907][/us/pl/95/557/s907], Oct. 31, 1978, [92 Stat. 2127][/us/stat/92/2127]; [Pub. L. 96–153, title IV, § 402][/us/pl/96/153/s402], Dec. 21, 1979, [93 Stat. 1123][/us/stat/93/1123]; [Pub. L. 111–203, title X, § 1098A(1)][/us/pl/111/203/s1098A/1], July 21, 2010, [124 Stat. 2105][/us/stat/124/2105]; [Pub. L. 113–167, § 1(a)][/us/pl/113/167/s1/a], Sept. 26, 2014, [128 Stat. 1882][/us/stat/128/1882].)
+([Pub. L. 90–448, title XIV][/us/pl/90/448/tXIV], § 1403, Aug. 1, 1968, [82 Stat. 590][/us/stat/82/590]; [Pub. L. 91–152, title IV][/us/pl/91/152/tIV], § 411, Dec. 24, 1969, [83 Stat. 398][/us/stat/83/398]; [Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 812(b), Aug. 22, 1974, [88 Stat. 736][/us/stat/88/736]; [Pub. L. 95–557, title IX][/us/pl/95/557/tIX], § 907, Oct. 31, 1978, [92 Stat. 2127][/us/stat/92/2127]; [Pub. L. 96–153, title IV][/us/pl/96/153/tIV], § 402, Dec. 21, 1979, [93 Stat. 1123][/us/stat/93/1123]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1098A(1), July 21, 2010, [124 Stat. 2105][/us/stat/124/2105]; [Pub. L. 113–167][/us/pl/113/167], § 1(a), Sept. 26, 2014, [128 Stat. 1882][/us/stat/128/1882].)
 
  __References in Text__ 
 
@@ -153,9 +153,9 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(9). [Pub. L. 113–167, § 1(a)(1)][/us/pl/113/167/s1/a/1], added par. (9).
+    2014—Subsec. (b)(9). [Pub. L. 113–167][/us/pl/113/167], § 1(a)(1), added par. (9).
 
-    Subsec. (d). [Pub. L. 113–167, § 1(a)(2)][/us/pl/113/167/s1/a/2], added subsec. (d).
+    Subsec. (d). [Pub. L. 113–167][/us/pl/113/167], § 1(a)(2), added subsec. (d).
 
     2010—Subsecs. (b)(2), (8)(B), (G), (c). [Pub. L. 111–203][/us/pl/111/203] substituted “Director” for “Secretary”.
 
@@ -163,13 +163,13 @@
 
     Subsec. (b). [Pub. L. 96–153][/us/pl/96/153] revised existing provisions formerly set out as pars. (1) to (7) into pars. (1) to (8) and, as so revised, substituted provisions setting forth criteria respecting sale or lease of lots subject to other statutory registration and disclosure requirements, for provisions setting forth criteria respecting sale or lease of lots in municipality or county with minimum standards.
 
-    1978—Subsec. (a)(3). [Pub. L. 95–557, § 907(a)(1)][/us/pl/95/557/s907/a/1], inserted “condominium” after “commercial”.
+    1978—Subsec. (a)(3). [Pub. L. 95–557][/us/pl/95/557], § 907(a)(1), inserted “condominium” after “commercial”.
 
-    Subsec. (a)(10). [Pub. L. 95–557, § 907(a)(2)][/us/pl/95/557/s907/a/2], inserted “United States land patents or Federal grants and reservations similar to United States land patents, nor to” after “do not refer to”.
+    Subsec. (a)(10). [Pub. L. 95–557][/us/pl/95/557], § 907(a)(2), inserted “United States land patents or Federal grants and reservations similar to United States land patents, nor to” after “do not refer to”.
 
-    Subsec. (a)(11). [Pub. L. 95–557, § 907(a)(3)][/us/pl/95/557/s907/a/3], inserted “or which is restricted to such use by a declaration of covenants, conditions, and restrictions which has been recorded in the official records of the city or county in which such real estate is located” before “when”.
+    Subsec. (a)(11). [Pub. L. 95–557][/us/pl/95/557], § 907(a)(3), inserted “or which is restricted to such use by a declaration of covenants, conditions, and restrictions which has been recorded in the official records of the city or county in which such real estate is located” before “when”.
 
-    Subsecs. (b), (c). [Pub. L. 95–557, § 907(b)(1)][/us/pl/95/557/s907/b/1], (2), added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsecs. (b), (c). [Pub. L. 95–557][/us/pl/95/557], § 907(b)(1), (2), added subsec. (b) and redesignated former subsec. (b) as (c).
 
     1974—Subsec. (a)(11). [Pub. L. 93–383][/us/pl/93/383] added par. (11).
 
@@ -177,7 +177,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–167, § 2][/us/pl/113/167/s2], Sept. 26, 2014, [128 Stat. 1882][/us/stat/128/1882], provided that: 
+[Pub. L. 113–167][/us/pl/113/167], § 2, Sept. 26, 2014, [128 Stat. 1882][/us/stat/128/1882], provided that: 
 
 > “The amendments made by this Act \[amending this section\] shall take effect 180 days after the date of the enactment of this Act \[Sept. 26, 2014\].”
 
@@ -197,35 +197,35 @@
 ----------
 
 [/us/usc/t15/s1703/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1703%2Fa%2F1
-[/us/pl/90/448/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1403
+[/us/pl/90/448/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIV
 [/us/stat/82/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F590
-[/us/pl/91/152/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2Fs411
+[/us/pl/91/152/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152%2FtIV
 [/us/stat/83/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F398
-[/us/pl/93/383/s812/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs812%2Fb
+[/us/pl/93/383/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVIII
 [/us/stat/88/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F736
-[/us/pl/95/557/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs907
+[/us/pl/95/557/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2FtIX
 [/us/stat/92/2127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2127
-[/us/pl/96/153/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs402
+[/us/pl/96/153/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtIV
 [/us/stat/93/1123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1123
-[/us/pl/111/203/s1098A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098A%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2105
-[/us/pl/113/167/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F167%2Fs1%2Fa
+[/us/pl/113/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F167
 [/us/stat/128/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1882
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
 [/us/pl/96/153/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs410
 [/us/usc/t15/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1701
-[/us/pl/113/167/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F167%2Fs1%2Fa%2F1
-[/us/pl/113/167/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F167%2Fs1%2Fa%2F2
+[/us/pl/113/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F167
+[/us/pl/113/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F167
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
-[/us/pl/95/557/s907/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs907%2Fa%2F1
-[/us/pl/95/557/s907/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs907%2Fa%2F2
-[/us/pl/95/557/s907/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs907%2Fa%2F3
-[/us/pl/95/557/s907/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557%2Fs907%2Fb%2F1
+[/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
+[/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
+[/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
+[/us/pl/95/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F557
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
 [/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
-[/us/pl/113/167/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F167%2Fs2
+[/us/pl/113/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F167
 [/us/stat/128/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1882
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H

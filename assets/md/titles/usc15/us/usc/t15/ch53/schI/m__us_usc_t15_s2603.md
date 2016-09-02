@@ -221,7 +221,7 @@
 
         A person intending to manufacture or process a chemical substance for which notice is required under [section 2604(a) of this title][/us/usc/t15/s2604/a] and who is not required under a rule under subsection (a) to conduct tests and submit data on such substance may petition the Administrator to prescribe standards for the development of test data for such substance. The Administrator shall by order either grant or deny any such petition within 60 days of its receipt. If the petition is granted, the Administrator shall prescribe such standards for such substance within 75 days of the date the petition is granted. If the petition is denied, the Administrator shall publish, subject to [section 2613 of this title][/us/usc/t15/s2613], in the Federal Register the reasons for such denial.
 
-([Pub. L. 94–469, title I, § 4][/us/pl/94/469/s4], Oct. 11, 1976, [90 Stat. 2006][/us/stat/90/2006]; renumbered title I, [Pub. L. 99–519, § 3(c)(1)][/us/pl/99/519/s3/c/1], Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989].)
+([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 4, Oct. 11, 1976, [90 Stat. 2006][/us/stat/90/2006]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989].)
 
  __References in Text__ 
 
@@ -244,9 +244,9 @@
 [/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
 [/us/usc/t15/s2604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2604%2Fa
 [/us/usc/t15/s2613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2613
-[/us/pl/94/469/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs4
+[/us/pl/94/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtI
 [/us/stat/90/2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2006
-[/us/pl/99/519/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs3%2Fc%2F1
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
 [/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1590

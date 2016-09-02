@@ -25,7 +25,7 @@
 
     (4) recommendations for research and other appropriate actions needed to help prevent future building failures.
 
-([Pub. L. 107–231, § 8][/us/pl/107/231/s8], Oct. 1, 2002, [116 Stat. 1475][/us/stat/116/1475].)
+([Pub. L. 107–231][/us/pl/107/231], § 8, Oct. 1, 2002, [116 Stat. 1475][/us/stat/116/1475].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/107/231/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231%2Fs8
+[/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
 [/us/stat/116/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1475
 
 

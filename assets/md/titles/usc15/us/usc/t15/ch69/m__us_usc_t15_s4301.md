@@ -103,7 +103,7 @@
 
         (3) Entering into any agreement or conspiracy that would set or restrain prices of any good or service.
 
-([Pub. L. 98–462, § 2][/us/pl/98/462/s2], Oct. 11, 1984, [98 Stat. 1815][/us/stat/98/1815]; [Pub. L. 103–42, § 3(b)][/us/pl/103/42/s3/b], (c), June 10, 1993, [107 Stat. 117][/us/stat/107/117], 118; [Pub. L. 108–237, title I, § 103][/us/pl/108/237/s103], June 22, 2004, [118 Stat. 663][/us/stat/118/663].)
+([Pub. L. 98–462][/us/pl/98/462], § 2, Oct. 11, 1984, [98 Stat. 1815][/us/stat/98/1815]; [Pub. L. 103–42][/us/pl/103/42], § 3(b), (c), June 10, 1993, [107 Stat. 117][/us/stat/107/117], 118; [Pub. L. 108–237, title I][/us/pl/108/237/tI], § 103, June 22, 2004, [118 Stat. 663][/us/stat/118/663].)
 
  __References in Text__ 
 
@@ -111,43 +111,43 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a)(7) to (10). [Pub. L. 108–237, § 103(1)][/us/pl/108/237/s103/1], added pars. (7) to (10).
+    2004—Subsec. (a)(7) to (10). [Pub. L. 108–237][/us/pl/108/237], § 103(1), added pars. (7) to (10).
 
-    Subsec. (c). [Pub. L. 108–237, § 103(2)][/us/pl/108/237/s103/2], added subsec. (c).
+    Subsec. (c). [Pub. L. 108–237][/us/pl/108/237], § 103(2), added subsec. (c).
 
-    1993—Subsec. (a)(6). [Pub. L. 103–42, § 3(b)][/us/pl/103/42/s3/b], struck out “research and development” after “joint” in introductory provisions, inserted subpars. (D) and (E), redesignated former subpars. (D) and (E) as (F) and (G), respectively, inserted “or production” after “research” in subpar. (F), substituted “(D), (E), and (F)” for “and (D)” in subpar. (G), and substituted “such venture” for “research” after “facilities for the conducting of” in concluding provisions.
+    1993—Subsec. (a)(6). [Pub. L. 103–42][/us/pl/103/42], § 3(b), struck out “research and development” after “joint” in introductory provisions, inserted subpars. (D) and (E), redesignated former subpars. (D) and (E) as (F) and (G), respectively, inserted “or production” after “research” in subpar. (F), substituted “(D), (E), and (F)” for “and (D)” in subpar. (G), and substituted “such venture” for “research” after “facilities for the conducting of” in concluding provisions.
 
-    Subsec. (b). [Pub. L. 103–42, § 3(c)(1)][/us/pl/103/42/s3/c/1], struck out “research and development” before “venture” in introductory provisions.
+    Subsec. (b). [Pub. L. 103–42][/us/pl/103/42], § 3(c)(1), struck out “research and development” before “venture” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 103–42, § 3(c)(2)][/us/pl/103/42/s3/c/2], substituted “if such information is not reasonably required to carry out” for “that is not reasonably required to conduct the research and development that is”.
+    Subsec. (b)(1). [Pub. L. 103–42][/us/pl/103/42], § 3(c)(2), substituted “if such information is not reasonably required to carry out” for “that is not reasonably required to conduct the research and development that is”.
 
-    Subsec. (b)(2). [Pub. L. 103–42, § 3(c)(3)][/us/pl/103/42/s3/c/3], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “entering into any agreement or engaging in any other conduct restricting, requiring, or otherwise involving the production or marketing by any person who is a party to such venture of any product, process, or service, other than the production or marketing of proprietary information developed through such venture, such as patents and trade secrets, and”.
+    Subsec. (b)(2). [Pub. L. 103–42][/us/pl/103/42], § 3(c)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “entering into any agreement or engaging in any other conduct restricting, requiring, or otherwise involving the production or marketing by any person who is a party to such venture of any product, process, or service, other than the production or marketing of proprietary information developed through such venture, such as patents and trade secrets, and”.
 
-    Subsec. (b)(3). [Pub. L. 103–42, § 3(c)(4)][/us/pl/103/42/s3/c/4], in subpar. (A) substituted “, developments, products, processes, or services not developed through, or produced by,” for “or developments not developed through”, in subpar. (B) substituted “any person who is a party to such venture” for “such party”, and at end of concluding provisions substituted comma for period.
+    Subsec. (b)(3). [Pub. L. 103–42][/us/pl/103/42], § 3(c)(4), in subpar. (A) substituted “, developments, products, processes, or services not developed through, or produced by,” for “or developments not developed through”, in subpar. (B) substituted “any person who is a party to such venture” for “such party”, and at end of concluding provisions substituted comma for period.
 
-    Subsec. (b)(4) to (8). [Pub. L. 103–42, § 3(c)(5)][/us/pl/103/42/s3/c/5], added pars. (4) to (8).
+    Subsec. (b)(4) to (8). [Pub. L. 103–42][/us/pl/103/42], § 3(c)(5), added pars. (4) to (8).
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–237, title I, § 101][/us/pl/108/237/s101], June 22, 2004, [118 Stat. 661][/us/stat/118/661], provided that: 
+[Pub. L. 108–237, title I][/us/pl/108/237/tI], § 101, June 22, 2004, [118 Stat. 661][/us/stat/118/661], provided that: 
 
 > “This title \[amending this section and sections 4302 to 4305 of this title and enacting provisions set out as notes under this section\] may be cited as the ‘Standards Development Organization Advancement Act of 2004’.”
 
  __Short Title of 1993 Amendment__ 
 
-[Pub. L. 103–42, § 1][/us/pl/103/42/s1], June 10, 1993, [107 Stat. 117][/us/stat/107/117], provided that: 
+[Pub. L. 103–42][/us/pl/103/42], § 1, June 10, 1993, [107 Stat. 117][/us/stat/107/117], provided that: 
 
 > “This Act \[enacting [section 4306 of this title][/us/usc/t15/s4306], amending this section and sections 4302 to 4305 of this title, enacting provisions set out as notes under this section and [section 4305 of this title][/us/usc/t15/s4305], and amending a provision set out as a note under this section\] may be cited as the ‘National Cooperative Production Amendments of 1993’.”
 
  __Short Title__ 
 
-[Pub. L. 98–462, § 1][/us/pl/98/462/s1], Oct. 11, 1984, [98 Stat. 1815][/us/stat/98/1815], as amended by [Pub. L. 103–42, § 3(a)][/us/pl/103/42/s3/a], June 10, 1993, [107 Stat. 117][/us/stat/107/117], provided that: 
+[Pub. L. 98–462][/us/pl/98/462], § 1, Oct. 11, 1984, [98 Stat. 1815][/us/stat/98/1815], as amended by [Pub. L. 103–42][/us/pl/103/42], § 3(a), June 10, 1993, [107 Stat. 117][/us/stat/107/117], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘National Cooperative Research and Production Act of 1993’.”
 
  __Construction of 2004 Amendment__ 
 
-[Pub. L. 108–237, title I, § 108][/us/pl/108/237/s108], June 22, 2004, [118 Stat. 665][/us/stat/118/665], provided that: 
+[Pub. L. 108–237, title I][/us/pl/108/237/tI], § 108, June 22, 2004, [118 Stat. 665][/us/stat/118/665], provided that: 
 
 > “Nothing in this title \[amending this section and sections 4302 to 4305 of this title and enacting provisions set out as notes under this section\] shall be construed to alter or modify the antitrust treatment under existing law of—
 
@@ -157,7 +157,7 @@
 
  __Findings and Purpose__ 
 
-[Pub. L. 108–237, title I, § 102][/us/pl/108/237/s102], June 22, 2004, [118 Stat. 661][/us/stat/118/661], provided that: 
+[Pub. L. 108–237, title I][/us/pl/108/237/tI], § 102, June 22, 2004, [118 Stat. 661][/us/stat/118/661], provided that: 
 
 > “The Congress finds the following:
 
@@ -195,7 +195,7 @@
 
 >     “(10) As was the case with respect to research and production joint ventures before the passage of the National Cooperative Research and Production Act of 1993, if relief from the threat of liability under the antitrust laws is not granted to voluntary consensus standards bodies, both regarding the development of new standards and efforts to keep existing standards current, such bodies could be forced to cut back on standards development activities at great financial cost both to the Government and to the national economy.”
 
-[Pub. L. 103–42, § 2][/us/pl/103/42/s2], June 10, 1993, [107 Stat. 117][/us/stat/107/117], provided that:
+[Pub. L. 103–42][/us/pl/103/42], § 2, June 10, 1993, [107 Stat. 117][/us/stat/107/117], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -223,42 +223,42 @@
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/usc/t15/s15g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs15g%2F2
-[/us/pl/98/462/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F462%2Fs2
+[/us/pl/98/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F462
 [/us/stat/98/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1815
-[/us/pl/103/42/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42%2Fs3%2Fb
+[/us/pl/103/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42
 [/us/stat/107/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F117
-[/us/pl/108/237/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2Fs103
+[/us/pl/108/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2FtI
 [/us/stat/118/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F663
 [/us/pl/104/113/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs12%2Fd
 [/us/usc/t15/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs272
-[/us/pl/108/237/s103/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2Fs103%2F1
-[/us/pl/108/237/s103/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2Fs103%2F2
-[/us/pl/103/42/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42%2Fs3%2Fb
-[/us/pl/103/42/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42%2Fs3%2Fc%2F1
-[/us/pl/103/42/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42%2Fs3%2Fc%2F2
-[/us/pl/103/42/s3/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42%2Fs3%2Fc%2F3
-[/us/pl/103/42/s3/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42%2Fs3%2Fc%2F4
-[/us/pl/103/42/s3/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42%2Fs3%2Fc%2F5
-[/us/pl/108/237/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2Fs101
+[/us/pl/108/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237
+[/us/pl/108/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237
+[/us/pl/103/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42
+[/us/pl/103/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42
+[/us/pl/103/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42
+[/us/pl/103/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42
+[/us/pl/103/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42
+[/us/pl/103/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42
+[/us/pl/108/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2FtI
 [/us/stat/118/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F661
-[/us/pl/103/42/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42%2Fs1
+[/us/pl/103/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42
 [/us/stat/107/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F117
 [/us/usc/t15/s4306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4306
 [/us/usc/t15/s4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4305
-[/us/pl/98/462/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F462%2Fs1
+[/us/pl/98/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F462
 [/us/stat/98/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1815
-[/us/pl/103/42/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42%2Fs3%2Fa
+[/us/pl/103/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42
 [/us/stat/107/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F117
-[/us/pl/108/237/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2Fs108
+[/us/pl/108/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2FtI
 [/us/stat/118/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F665
-[/us/pl/108/237/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2Fs102
+[/us/pl/108/237/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2FtI
 [/us/stat/118/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F661
 [/us/usc/t15/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4301
 [/us/pl/103/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42
 [/us/usc/t15/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs272
 [/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
-[/us/pl/103/42/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42%2Fs2
+[/us/pl/103/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42
 [/us/stat/107/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F117
 
 

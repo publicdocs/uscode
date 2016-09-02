@@ -107,7 +107,7 @@
 
         The Board shall include in the annual report required by [section 7211(h) of this title][/us/usc/t15/s7211/h] the results of its standard setting responsibilities during the period to which the report relates, including a discussion of the work of the Board with any designated professional groups of accountants and advisory groups described in paragraphs (3)(A) and (4) of subsection (a), and its pending issues agenda for future standard setting projects.
 
-([Pub. L. 107–204, title I, § 103][/us/pl/107/204/s103], July 30, 2002, [116 Stat. 755][/us/stat/116/755]; [Pub. L. 111–203, title IX, § 982(d)][/us/pl/111/203/s982/d], July 21, 2010, [124 Stat. 1929][/us/stat/124/1929]; [Pub. L. 112–106, title I, § 104][/us/pl/112/106/s104], Apr. 5, 2012, [126 Stat. 310][/us/stat/126/310].)
+([Pub. L. 107–204, title I][/us/pl/107/204/tI], § 103, July 30, 2002, [116 Stat. 755][/us/stat/116/755]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 982(d), July 21, 2010, [124 Stat. 1929][/us/stat/124/1929]; [Pub. L. 112–106, title I][/us/pl/112/106/tI], § 104, Apr. 5, 2012, [126 Stat. 310][/us/stat/126/310].)
 
  __References in Text__ 
 
@@ -119,11 +119,11 @@
 
     2012—Subsec. (a)(3)(C). [Pub. L. 112–106][/us/pl/112/106] added subpar. (C).
 
-    2010—Subsec. (a)(1). [Pub. L. 111–203, § 982(d)(1)][/us/pl/111/203/s982/d/1], substituted “such ethics standards, and such independence standards” for “and such ethics standards”.
+    2010—Subsec. (a)(1). [Pub. L. 111–203][/us/pl/111/203], § 982(d)(1), substituted “such ethics standards, and such independence standards” for “and such ethics standards”.
 
-    Subsec. (a)(2)(A)(iii). [Pub. L. 111–203, § 982(d)(2)][/us/pl/111/203/s982/d/2], substituted “in each audit report for an issuer, describe” for “describe in each audit report” in introductory provisions.
+    Subsec. (a)(2)(A)(iii). [Pub. L. 111–203][/us/pl/111/203], § 982(d)(2), substituted “in each audit report for an issuer, describe” for “describe in each audit report” in introductory provisions.
 
-    Subsec. (a)(2)(B)(i). [Pub. L. 111–203, § 982(d)(3)][/us/pl/111/203/s982/d/3], substituted “issuers, brokers, and dealers” for “issuers”.
+    Subsec. (a)(2)(B)(i). [Pub. L. 111–203][/us/pl/111/203], § 982(d)(3), substituted “issuers, brokers, and dealers” for “issuers”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -142,20 +142,20 @@
 [/us/usc/t15/s7217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7217
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
 [/us/usc/t15/s7211/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7211%2Fh
-[/us/pl/107/204/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs103
+[/us/pl/107/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtI
 [/us/stat/116/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F755
-[/us/pl/111/203/s982/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fd
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1929
-[/us/pl/112/106/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs104
+[/us/pl/112/106/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtI
 [/us/stat/126/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F310
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/stat/116/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F745
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/stat/116/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F771
 [/us/pl/112/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106
-[/us/pl/111/203/s982/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fd%2F1
-[/us/pl/111/203/s982/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fd%2F2
-[/us/pl/111/203/s982/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fd%2F3
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

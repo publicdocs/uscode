@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 3, 1948, ch. 400][/us/act/1948-06-03/ch400], title III, [62 Stat. 328][/us/stat/62/328], which related to extra compensation for certain employees in Alaska and other territorial possessions, was from the Department of Commerce Appropriation Act, 1949, and was not repeated in subsequent appropriations acts. See [section 327 of this title][/us/usc/t15/s327].
+    Section, [act June 3, 1948, ch. 400, title III][/us/act/1948-06-03/ch400/tIII], [62 Stat. 328][/us/stat/62/328], which related to extra compensation for certain employees in Alaska and other territorial possessions, was from the Department of Commerce Appropriation Act, 1949, and was not repeated in subsequent appropriations acts. See [section 327 of this title][/us/usc/t15/s327].
 
  __Similar Provisions__ 
 
@@ -40,7 +40,7 @@ Similar provisions were contained in the following appropriation acts:
 ----------
 ----------
 
-[/us/act/1948-06-03/ch400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-03%2Fch400
+[/us/act/1948-06-03/ch400/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-03%2Fch400%2FtIII
 [/us/stat/62/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F328
 [/us/usc/t15/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs327
 [/us/act/1947-07-09/ch211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-09%2Fch211

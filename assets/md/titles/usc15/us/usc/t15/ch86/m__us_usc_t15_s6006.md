@@ -21,7 +21,7 @@
 
     (2) the final standard, once it is established under [section 6004(c) of this title][/us/usc/t15/s6004/c].
 
-([Pub. L. 103–267, title II, § 207][/us/pl/103/267/s207], June 16, 1994, [108 Stat. 728][/us/stat/108/728].)
+([Pub. L. 103–267, title II][/us/pl/103/267/tII], § 207, June 16, 1994, [108 Stat. 728][/us/stat/108/728].)
 
 ----------
 
@@ -33,7 +33,7 @@
 [/us/usc/t15/s6004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6004%2Fb
 [/us/usc/t15/s6004/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6004%2Fc
 [/us/usc/t15/s6004/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6004%2Fc
-[/us/pl/103/267/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2Fs207
+[/us/pl/103/267/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2FtII
 [/us/stat/108/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F728
 
 

@@ -23,7 +23,7 @@
 
         The Commission shall by regulation exempt from the requirements of this subchapter any class of telephone-billed purchase transactions within any State if it determines that under the law of that State that class of transactions is subject to requirements substantially similar to those imposed under this subchapter 1 or that such law gives greater protection to the consumer, and that there is adequate provision for enforcement.
 
-([Pub. L. 102–556, title III, § 302][/us/pl/102/556/s302], Oct. 28, 1992, [106 Stat. 4192][/us/stat/106/4192].)
+([Pub. L. 102–556, title III][/us/pl/102/556/tIII], § 302, Oct. 28, 1992, [106 Stat. 4192][/us/stat/106/4192].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/102/556/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2Fs302
+[/us/pl/102/556/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556%2FtIII
 [/us/stat/106/4192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4192
 [/us/pl/102/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556
 [/us/pl/102/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F556

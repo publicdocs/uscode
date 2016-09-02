@@ -35,11 +35,11 @@
 
     (9) make advances, progress, and other payments deemed necessary under this chapter without regard to the provisions of section 3324(a) and (b) of title 31.
 
-([Pub. L. 94–136, title IV, § 401][/us/pl/94/136/s401], Nov. 28, 1975, [89 Stat. 741][/us/stat/89/741].)
+([Pub. L. 94–136, title IV][/us/pl/94/136/tIV], § 401, Nov. 28, 1975, [89 Stat. 741][/us/stat/89/741].)
 
  __Codification__ 
 
-    In par. (9), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes, as amended (21 \[31\] U.S.C. 529)” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In par. (9), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes, as amended (21 \[31\] U.S.C. 529)” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -56,9 +56,9 @@
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/94/136/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2Fs401
+[/us/pl/94/136/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2FtIV
 [/us/stat/89/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F741
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

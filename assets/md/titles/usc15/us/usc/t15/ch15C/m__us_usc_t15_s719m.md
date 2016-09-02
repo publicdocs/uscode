@@ -17,7 +17,7 @@
 
     There is hereby authorized to be appropriated beginning in fiscal year 1978 and each fiscal year thereafter, such sums as may be necessary to carry out the functions of the Federal inspector appointed by the President with the advice and consent of the Senate under [section 719e of this title][/us/usc/t15/s719e].
 
-([Pub. L. 94–586, § 15][/us/pl/94/586/s15], Oct. 22, 1976, [90 Stat. 2915][/us/stat/90/2915].)
+([Pub. L. 94–586][/us/pl/94/586], § 15, Oct. 22, 1976, [90 Stat. 2915][/us/stat/90/2915].)
 
  __Transfer of Functions__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e
-[/us/pl/94/586/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586%2Fs15
+[/us/pl/94/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586
 [/us/stat/90/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2915
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e

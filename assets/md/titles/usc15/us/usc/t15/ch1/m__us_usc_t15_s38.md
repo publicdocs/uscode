@@ -25,7 +25,7 @@
 
     (b) Nothing contained in the “antitrust laws” as designated in [section 12 of this title][/us/usc/t15/s12], shall be construed as declaring illegal an association entered into by marine insurance companies for the following purposes: To transact a marine insurance and reinsurance business in the United States and in foreign countries and to reinsure or otherwise apportion among its membership the risks undertaken by such association or any of the component members.
 
-([June 5, 1920, ch. 250, § 29][/us/act/1920-06-05/ch250/s29], [41 Stat. 1000][/us/stat/41/1000].)
+([June 5, 1920, ch. 250][/us/act/1920-06-05/ch250], § 29, [41 Stat. 1000][/us/stat/41/1000].)
 
  __Codification__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
-[/us/act/1920-06-05/ch250/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch250%2Fs29
+[/us/act/1920-06-05/ch250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch250
 [/us/stat/41/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1000
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1485

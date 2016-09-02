@@ -47,7 +47,7 @@
 
         For the purpose of the Full Employment and Balanced Growth Act of 1978 \[[15 U.S.C. 3101][/us/usc/t15/s3101] et seq.\], the terms “inflation”, “prices”, and “reasonable price stability” refer to the rate of change or level of the consumer price index as set forth by the Bureau of Labor Statistics, United States Department of Labor.
 
-([Feb. 20, 1946, ch. 33, § 3][/us/act/1946-02-20/ch33/s3], [60 Stat. 24][/us/stat/60/24]; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title II, § 226, [60 Stat. 838][/us/stat/60/838]; [June 18, 1956, ch. 399, § 1][/us/act/1956-06-18/ch399/s1], [70 Stat. 289][/us/stat/70/289]; [Pub. L. 95–523, title I, § 103][/us/pl/95/523/s103], Oct. 27, 1978, [92 Stat. 1892][/us/stat/92/1892]; [Pub. L. 96–10, § 6(d)][/us/pl/96/10/s6/d], May 10, 1979, [93 Stat. 24][/us/stat/93/24]; [Pub. L. 101–508, title XIII, § 13112(e)][/us/pl/101/508/s13112/e], Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609].)
+([Feb. 20, 1946, ch. 33][/us/act/1946-02-20/ch33], § 3, [60 Stat. 24][/us/stat/60/24]; [Aug. 2, 1946, ch. 753][/us/act/1946-08-02/ch753], title II, § 226, [60 Stat. 838][/us/stat/60/838]; [June 18, 1956, ch. 399][/us/act/1956-06-18/ch399], § 1, [70 Stat. 289][/us/stat/70/289]; [Pub. L. 95–523, title I][/us/pl/95/523/tI], § 103, Oct. 27, 1978, [92 Stat. 1892][/us/stat/92/1892]; [Pub. L. 96–10][/us/pl/96/10], § 6(d), May 10, 1979, [93 Stat. 24][/us/stat/93/24]; [Pub. L. 101–508, title XIII][/us/pl/101/508/tXIII], § 13112(e), Nov. 5, 1990, [104 Stat. 1388–609][/us/stat/104/1388-609].)
 
  __References in Text__ 
 
@@ -63,9 +63,9 @@
 
     1979—Subsec. (a)(2)(A). [Pub. L. 96–10][/us/pl/96/10] inserted reference to Federal outlays as a proportion of gross national product.
 
-    1978—Subsec. (a). [Pub. L. 95–523, § 103(a)][/us/pl/95/523/s103/a], among other changes, inserted provisions relating to the annual report of the Council of Economic Advisers and the inclusion in the President’s Economic Report of annual numerical goals for employment, unemployment, production etc., and employment objectives for certain subgroups and struck out provisions relating to the review of the Federal Government’s economic program and economic conditions affecting employment in the United States.
+    1978—Subsec. (a). [Pub. L. 95–523][/us/pl/95/523], § 103(a), among other changes, inserted provisions relating to the annual report of the Council of Economic Advisers and the inclusion in the President’s Economic Report of annual numerical goals for employment, unemployment, production etc., and employment objectives for certain subgroups and struck out provisions relating to the review of the Federal Government’s economic program and economic conditions affecting employment in the United States.
 
-    Subsecs. (d), (e). [Pub. L. 95–523, § 103(b)][/us/pl/95/523/s103/b], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 95–523][/us/pl/95/523], § 103(b), added subsecs. (d) and (e).
 
     1956—Subsec. (a). Act June 18, 1956, substituted “not later than January 20 of each year” for “at the beginning of each regular session (commencing with the year 1947)”.
 
@@ -89,17 +89,17 @@
 [/us/usc/t15/s1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1024
 [/us/usc/t15/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3101
 [/us/usc/t15/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3101
-[/us/act/1946-02-20/ch33/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-20%2Fch33%2Fs3
+[/us/act/1946-02-20/ch33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-20%2Fch33
 [/us/stat/60/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F24
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F838
-[/us/act/1956-06-18/ch399/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-18%2Fch399%2Fs1
+[/us/act/1956-06-18/ch399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-18%2Fch399
 [/us/stat/70/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F289
-[/us/pl/95/523/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs103
+[/us/pl/95/523/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2FtI
 [/us/stat/92/1892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1892
-[/us/pl/96/10/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F10%2Fs6%2Fd
+[/us/pl/96/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F10
 [/us/stat/93/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F24
-[/us/pl/101/508/s13112/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13112%2Fe
+[/us/pl/101/508/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXIII
 [/us/stat/104/1388-609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-609
 [/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
 [/us/stat/92/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1887
@@ -111,8 +111,8 @@
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t15/s1022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1022%2Fa
 [/us/pl/96/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F10
-[/us/pl/95/523/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs103%2Fa
-[/us/pl/95/523/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs103%2Fb
+[/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
+[/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
 [/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
 
 

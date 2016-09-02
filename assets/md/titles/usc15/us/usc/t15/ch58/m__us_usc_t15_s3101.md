@@ -49,11 +49,11 @@
 
     (e) The Congress further finds that the United States is part of an interdependent world trading and monetary system and that attainment of the requirements specified in subsection (d) is dependent upon policies promoting a free and fair international trading system and a sound and stable international monetary system.
 
-([Pub. L. 95–523, § 2][/us/pl/95/523/s2], Oct. 27, 1978, [92 Stat. 1888][/us/stat/92/1888].)
+([Pub. L. 95–523][/us/pl/95/523], § 2, Oct. 27, 1978, [92 Stat. 1888][/us/stat/92/1888].)
 
  __Short Title__ 
 
-    [Pub. L. 95–523, § 1][/us/pl/95/523/s1], Oct. 27, 1978, [92 Stat. 1887][/us/stat/92/1887], provided in part that this Act \[enacting this chapter and sections 1022a to 1022f of this title, amending sections 1021, 1022, 1023, and 1024 of this title, sections 632 and 636 of Title 2, The Congress, and [section 225a of Title 12][/us/usc/t12/s225a], Banks and Banking, and enacting provisions set out as notes under section 1021 of title and [section 225a of Title 12][/us/usc/t12/s225a]\] may be cited as the “Full Employment and Balanced Growth Act of 1978”.
+    [Pub. L. 95–523][/us/pl/95/523], § 1, Oct. 27, 1978, [92 Stat. 1887][/us/stat/92/1887], provided in part that this Act \[enacting this chapter and sections 1022a to 1022f of this title, amending sections 1021, 1022, 1023, and 1024 of this title, sections 632 and 636 of Title 2, The Congress, and [section 225a of Title 12][/us/usc/t12/s225a], Banks and Banking, and enacting provisions set out as notes under section 1021 of title and [section 225a of Title 12][/us/usc/t12/s225a]\] may be cited as the “Full Employment and Balanced Growth Act of 1978”.
 
 ----------
 
@@ -62,9 +62,9 @@
 ----------
 ----------
 
-[/us/pl/95/523/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs2
+[/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
 [/us/stat/92/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1888
-[/us/pl/95/523/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs1
+[/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
 [/us/stat/92/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1887
 [/us/usc/t12/s225a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs225a
 [/us/usc/t12/s225a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs225a

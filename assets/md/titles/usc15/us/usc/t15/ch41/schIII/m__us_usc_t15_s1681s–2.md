@@ -285,7 +285,7 @@
 
             (D) examine the policies and processes that persons that furnish information to consumer reporting agencies employ to conduct reinvestigations and correct inaccurate information relating to consumers that has been furnished to consumer reporting agencies.
 
-([Pub. L. 90–321, title VI, § 623][/us/pl/90/321/s623], as added [Pub. L. 104–208, div. A, title II, § 2413(a)(2)][/us/pl/104/208/s2413/a/2], Sept. 30, 1996, [110 Stat. 3009–447][/us/stat/110/3009-447]; amended [Pub. L. 108–159, title I, § 154(a)][/us/pl/108/159/s154/a], title II, § 217(a), title III, §§ 312(a)–(e)(1), 314(b), title IV, § 412(a), Dec. 4, 2003, [117 Stat. 1966][/us/stat/117/1966], 1986, 1989–1993, 1995, 2002; [Pub. L. 111–203, title X, § 1088(a)(2)(D)][/us/pl/111/203/s1088/a/2/D], (11), July 21, 2010, [124 Stat. 2087][/us/stat/124/2087], 2090.)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 623, as added [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2413(a)(2), Sept. 30, 1996, [110 Stat. 3009–447][/us/stat/110/3009-447]; amended [Pub. L. 108–159, title I][/us/pl/108/159/tI], § 154(a), title II, § 217(a), title III, §§ 312(a)–(e)(1), 314(b), title IV, § 412(a), Dec. 4, 2003, [117 Stat. 1966][/us/stat/117/1966], 1986, 1989–1993, 1995, 2002; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1088(a)(2)(D), (11), July 21, 2010, [124 Stat. 2087][/us/stat/124/2087], 2090.)
 
  __Prior Provisions__ 
 
@@ -293,35 +293,35 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(7)(D). [Pub. L. 111–203, § 1088(a)(11)(A)][/us/pl/111/203/s1088/a/11/A], added subpar. (D) and struck out former subpar. (D) which related to duty of Board to prescribe a model disclosure.
+    2010—Subsec. (a)(7)(D). [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(11)(A), added subpar. (D) and struck out former subpar. (D) which related to duty of Board to prescribe a model disclosure.
 
-    Subsec. (a)(8)(A). [Pub. L. 111–203, § 1088(a)(11)(B)][/us/pl/111/203/s1088/a/11/B], which directed amendment of subpar. (A) by inserting “, in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration,” before “shall jointly”, was executed by making the insertion before “shall prescribe”, to reflect the probable intent of Congress and the amendment by [Pub. L. 111–203, § 1088(a)(2)(D)][/us/pl/111/203/s1088/a/2/D]. See below.
+    Subsec. (a)(8)(A). [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(11)(B), which directed amendment of subpar. (A) by inserting “, in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration,” before “shall jointly”, was executed by making the insertion before “shall prescribe”, to reflect the probable intent of Congress and the amendment by [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(2)(D). See below.
 
-    [Pub. L. 111–203, § 1088(a)(2)(D)][/us/pl/111/203/s1088/a/2/D], substituted “The Bureau shall” for “The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly”.
+    [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(2)(D), substituted “The Bureau shall” for “The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly”.
 
-    Subsec. (e). [Pub. L. 111–203, § 1088(a)(11)(C)][/us/pl/111/203/s1088/a/11/C], added subsec. (e) and struck out former subsec. (e) which related to establishment and maintenance of accuracy guidelines and prescription of implementing regulations by the Federal banking agencies, the National Credit Union Administration, and the Commission.
+    Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(11)(C), added subsec. (e) and struck out former subsec. (e) which related to establishment and maintenance of accuracy guidelines and prescription of implementing regulations by the Federal banking agencies, the National Credit Union Administration, and the Commission.
 
-    2003—Subsec. (a)(1)(A). [Pub. L. 108–159, § 312(b)(1)][/us/pl/108/159/s312/b/1], substituted “knows or has reasonable cause to believe that the information is inaccurate” for “knows or consciously avoids knowing that the information is inaccurate”.
+    2003—Subsec. (a)(1)(A). [Pub. L. 108–159][/us/pl/108/159], § 312(b)(1), substituted “knows or has reasonable cause to believe that the information is inaccurate” for “knows or consciously avoids knowing that the information is inaccurate”.
 
-    Subsec. (a)(1)(D). [Pub. L. 108–159, § 312(b)(2)][/us/pl/108/159/s312/b/2], added subpar. (D).
+    Subsec. (a)(1)(D). [Pub. L. 108–159][/us/pl/108/159], § 312(b)(2), added subpar. (D).
 
-    Subsec. (a)(5). [Pub. L. 108–159, § 312(d)][/us/pl/108/159/s312/d], designated existing provisions as subpar. (A), inserted heading, inserted “date of delinquency on the account, which shall be the” before “month” and “on the account” before “that immediately preceded”, and added subpar. (B).
+    Subsec. (a)(5). [Pub. L. 108–159][/us/pl/108/159], § 312(d), designated existing provisions as subpar. (A), inserted heading, inserted “date of delinquency on the account, which shall be the” before “month” and “on the account” before “that immediately preceded”, and added subpar. (B).
 
-    Subsec. (a)(6). [Pub. L. 108–159, § 154(a)][/us/pl/108/159/s154/a], added par. (6).
+    Subsec. (a)(6). [Pub. L. 108–159][/us/pl/108/159], § 154(a), added par. (6).
 
-    Subsec. (a)(7). [Pub. L. 108–159, § 217(a)][/us/pl/108/159/s217/a], added par. (7).
+    Subsec. (a)(7). [Pub. L. 108–159][/us/pl/108/159], § 217(a), added par. (7).
 
-    Subsec. (a)(8). [Pub. L. 108–159, § 312(c)][/us/pl/108/159/s312/c], added par. (8).
+    Subsec. (a)(8). [Pub. L. 108–159][/us/pl/108/159], § 312(c), added par. (8).
 
-    Subsec. (a)(9). [Pub. L. 108–159, § 412(a)][/us/pl/108/159/s412/a], added par. (9).
+    Subsec. (a)(9). [Pub. L. 108–159][/us/pl/108/159], § 412(a), added par. (9).
 
-    Subsec. (b)(1)(E). [Pub. L. 108–159, § 314(b)][/us/pl/108/159/s314/b], added subpar. (E).
+    Subsec. (b)(1)(E). [Pub. L. 108–159][/us/pl/108/159], § 314(b), added subpar. (E).
 
-    Subsec. (c). [Pub. L. 108–159, § 312(e)(1)][/us/pl/108/159/s312/e/1], added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Sections 1681n and 1681o of this title do not apply to any failure to comply with subsection (a) of this section, except as provided in [section 1681s(c)(1)(B) of this title][/us/usc/t15/s1681s/c/1/B].”
+    Subsec. (c). [Pub. L. 108–159][/us/pl/108/159], § 312(e)(1), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Sections 1681n and 1681o of this title do not apply to any failure to comply with subsection (a) of this section, except as provided in [section 1681s(c)(1)(B) of this title][/us/usc/t15/s1681s/c/1/B].”
 
-    Subsec. (d). [Pub. L. 108–159, § 312(e)(1)][/us/pl/108/159/s312/e/1], added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Subsection (a) of this section shall be enforced exclusively under [section 1681s of this title][/us/usc/t15/s1681s] by the Federal agencies and officials and the State officials identified in that section.”
+    Subsec. (d). [Pub. L. 108–159][/us/pl/108/159], § 312(e)(1), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Subsection (a) of this section shall be enforced exclusively under [section 1681s of this title][/us/usc/t15/s1681s] by the Federal agencies and officials and the State officials identified in that section.”
 
-    Subsec. (e). [Pub. L. 108–159, § 312(a)][/us/pl/108/159/s312/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 108–159][/us/pl/108/159], § 312(a), added subsec. (e).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -339,7 +339,7 @@
 
  __Model Disclosure Form__ 
 
-[Pub. L. 108–159, title II, § 217(b)][/us/pl/108/159/s217/b], Dec. 4, 2003, [117 Stat. 1987][/us/stat/117/1987], provided that: 
+[Pub. L. 108–159, title II][/us/pl/108/159/tII], § 217(b), Dec. 4, 2003, [117 Stat. 1987][/us/stat/117/1987], provided that: 
 
 > “Before the end of the 6-month period beginning on the date of enactment of this Act \[Dec. 4, 2003\], the Board shall adopt the model disclosure required under the amendment made by subsection (a) \[amending this section\] after notice duly given in the Federal Register and an opportunity for public comment in accordance with [section 553 of title 5][/us/usc/t5/s553], United States Code.”
 
@@ -371,33 +371,33 @@
 [/us/usc/t15/s1681s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s
 [/us/usc/t15/s1681s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s
 [/us/usc/t15/s1681s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s
-[/us/pl/90/321/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs623
-[/us/pl/104/208/s2413/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2413%2Fa%2F2
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-447
-[/us/pl/108/159/s154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs154%2Fa
+[/us/pl/108/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtI
 [/us/stat/117/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1966
-[/us/pl/111/203/s1088/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FD
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2087
 [/us/pl/90/321/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs623
 [/us/usc/t15/s1681t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681t
-[/us/pl/111/203/s1088/a/11/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F11%2FA
-[/us/pl/111/203/s1088/a/11/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F11%2FB
-[/us/pl/111/203/s1088/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FD
-[/us/pl/111/203/s1088/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FD
-[/us/pl/111/203/s1088/a/11/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F11%2FC
-[/us/pl/108/159/s312/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs312%2Fb%2F1
-[/us/pl/108/159/s312/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs312%2Fb%2F2
-[/us/pl/108/159/s312/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs312%2Fd
-[/us/pl/108/159/s154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs154%2Fa
-[/us/pl/108/159/s217/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs217%2Fa
-[/us/pl/108/159/s312/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs312%2Fc
-[/us/pl/108/159/s412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs412%2Fa
-[/us/pl/108/159/s314/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs314%2Fb
-[/us/pl/108/159/s312/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs312%2Fe%2F1
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
 [/us/usc/t15/s1681s/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s%2Fc%2F1%2FB
-[/us/pl/108/159/s312/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs312%2Fe%2F1
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
 [/us/usc/t15/s1681s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s
-[/us/pl/108/159/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs312%2Fa
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
@@ -409,7 +409,7 @@
 [/us/usc/t15/s1681b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681b
 [/us/pl/104/208/s2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2420
 [/us/usc/t15/s1681a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a
-[/us/pl/108/159/s217/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs217%2Fb
+[/us/pl/108/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtII
 [/us/stat/117/1987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1987
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/pl/108/159/s217/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs217%2Fb

@@ -93,25 +93,25 @@
 
         The full faith and credit of the United States is pledged to the payment of all obligations incurred under this section.
 
-([Pub. L. 94–413, § 10][/us/pl/94/413/s10], Sept. 17, 1976, [90 Stat. 1267][/us/stat/90/1267]; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577]; [Pub. L. 95–238, title VI, § 603][/us/pl/95/238/s603], Feb. 25, 1978, [92 Stat. 93][/us/stat/92/93]; [Pub. L. 103–437, § 5(d)(2)][/us/pl/103/437/s5/d/2], Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582].)
+([Pub. L. 94–413][/us/pl/94/413], § 10, Sept. 17, 1976, [90 Stat. 1267][/us/stat/90/1267]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577]; [Pub. L. 95–238, title VI][/us/pl/95/238/tVI], § 603, Feb. 25, 1978, [92 Stat. 93][/us/stat/92/93]; [Pub. L. 103–437][/us/pl/103/437], § 5(d)(2), Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582].)
 
  __Codification__ 
 
-    In subsec. (e)(3)(C), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (e)(3)(C), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
-    In subsec. (i), “[section 50501 of title 46][/us/usc/t46/s50501]” substituted for “section 2 of the Shipping Act of 1916 ([46 U.S.C. 802][/us/usc/t46/s802])” and “subsections (a) and (b) of such section 50501” substituted for “subsection (a) of such section 2” on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], section 8(b) of which enacted parts A and B of subtitle V of Title 46, Shipping.
+    In subsec. (i), “[section 50501 of title 46][/us/usc/t46/s50501]” substituted for “section 2 of the Shipping Act of 1916 ([46 U.S.C. 802][/us/usc/t46/s802])” and “subsections (a) and (b) of such section 50501” substituted for “subsection (a) of such section 2” on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], section 8(b) of which enacted parts A and B of subtitle V of Title 46, Shipping.
 
  __Amendments__ 
 
     1994—Subsec. (e)(1). [Pub. L. 103–437][/us/pl/103/437] substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology” and “Committee on Commerce, Science, and Transportation” for “Committee on Commerce”.
 
-    1978—Subsec. (e)(3). [Pub. L. 95–238, § 603(a)(1)][/us/pl/95/238/s603/a/1], added par. (3).
+    1978—Subsec. (e)(3). [Pub. L. 95–238][/us/pl/95/238], § 603(a)(1), added par. (3).
 
-    Subsec. (g). [Pub. L. 95–238, § 603(b)][/us/pl/95/238/s603/b], inserted provisions relating to payment of principal by the Administrator.
+    Subsec. (g). [Pub. L. 95–238][/us/pl/95/238], § 603(b), inserted provisions relating to payment of principal by the Administrator.
 
-    Subsec. (h). [Pub. L. 95–238, § 603(c)][/us/pl/95/238/s603/c], substituted “7” for “5”.
+    Subsec. (h). [Pub. L. 95–238][/us/pl/95/238], § 603(c), substituted “7” for “5”.
 
-    Subsec. (j). [Pub. L. 95–238, § 603(a)(2)][/us/pl/95/238/s603/a/2], added subsec. (j).
+    Subsec. (j). [Pub. L. 95–238][/us/pl/95/238], § 603(a)(2), added subsec. (j).
 
  __Transfer of Functions__ 
 
@@ -126,25 +126,25 @@
 
 [/us/usc/t15/s2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2514
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
-[/us/pl/94/413/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F413%2Fs10
+[/us/pl/94/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F413
 [/us/stat/90/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1267
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
-[/us/pl/95/238/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs603
+[/us/pl/95/238/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtVI
 [/us/stat/92/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F93
-[/us/pl/103/437/s5/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs5%2Fd%2F2
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4582
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
 [/us/usc/t46/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs802
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/95/238/s603/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs603%2Fa%2F1
-[/us/pl/95/238/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs603%2Fb
-[/us/pl/95/238/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs603%2Fc
-[/us/pl/95/238/s603/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs603%2Fa%2F2
+[/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
+[/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
+[/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
+[/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
 [/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
 [/us/usc/t15/s2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2502
 

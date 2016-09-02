@@ -23,7 +23,7 @@
 
         It shall be unlawful for any person to furnish, with respect to any fur product or fur, a false guaranty (except a person relying upon a guaranty to the same effect received in good faith signed by and containing the name and address of the person residing in the United States by whom the fur product or fur guaranteed was manufactured or from whom it was received) with reason to believe the fur product or fur falsely guaranteed may be introduced, sold, transported, or distributed in commerce, and any person who violates the provisions of this subsection is guilty of an unfair method of competition, and an unfair or deceptive act or practice, in commerce within the meaning of the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\].
 
-([Aug. 8, 1951, ch. 298, § 10][/us/act/1951-08-08/ch298/s10], [65 Stat. 181][/us/stat/65/181].)
+([Aug. 8, 1951, ch. 298][/us/act/1951-08-08/ch298], § 10, [65 Stat. 181][/us/stat/65/181].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t15/s69a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs69a
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/act/1951-08-08/ch298/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298%2Fs10
+[/us/act/1951-08-08/ch298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298
 [/us/stat/65/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F181
 [/us/usc/t15/s69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs69
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264

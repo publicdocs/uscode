@@ -121,7 +121,7 @@
 
         This section and any regulations promulgated thereunder do not apply to an extension of credit relating to a plan described in section 101(53D) of title 11.
 
-([Pub. L. 90–321, title I, § 129B][/us/pl/90/321/s129B], as added and amended [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], title XIV, §§ 1402(a)(2), 1403–1405(a), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2139–2141.)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 129B, as added and amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), title XIV, §§ 1402(a)(2), 1403–1405(a), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2139–2141.)
 
  __References in Text__ 
 
@@ -129,13 +129,13 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], substituted “Bureau” for “Board” wherever appearing.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
-    Subsec. (c). [Pub. L. 111–203, § 1403][/us/pl/111/203/s1403], added subsec. (c).
+    Subsec. (c). [Pub. L. 111–203][/us/pl/111/203], § 1403, added subsec. (c).
 
-    Subsec. (d). [Pub. L. 111–203, § 1404][/us/pl/111/203/s1404], added subsec. (d).
+    Subsec. (d). [Pub. L. 111–203][/us/pl/111/203], § 1404, added subsec. (d).
 
-    Subsecs. (e), (f). [Pub. L. 111–203, § 1405(a)][/us/pl/111/203/s1405/a], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 111–203][/us/pl/111/203], § 1405(a), added subsecs. (e) and (f).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -149,7 +149,7 @@
 
  __Rule of Construction__ 
 
-[Pub. L. 111–203, title XIV, § 1415][/us/pl/111/203/s1415], July 21, 2010, [124 Stat. 2153][/us/stat/124/2153], provided that: 
+[Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1415, July 21, 2010, [124 Stat. 2153][/us/stat/124/2153], provided that: 
 
 > “Except as otherwise expressly provided in section 129B or 129C of the Truth in Lending Act \[[15 U.S.C. 1639b][/us/usc/t15/s1639b], 1639c\] (as added by this title), no provision of such section 129B or 129C shall be construed as superseding, repealing, or affecting any duty, right, obligation, privilege, or remedy of any person under any other provision of the Truth in Lending Act \[[15 U.S.C. 1601][/us/usc/t15/s1601] et seq.\] or any other provision of Federal or State law.”
 
@@ -171,16 +171,16 @@
 [/us/usc/t15/s1639c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639c
 [/us/usc/t15/s1639c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639c
 [/us/usc/t15/s1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1604
-[/us/pl/90/321/s129B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs129B
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/stat/122/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2810
 [/us/usc/t12/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5101
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
-[/us/pl/111/203/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1403
-[/us/pl/111/203/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1404
-[/us/pl/111/203/s1405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1405%2Fa
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
@@ -189,7 +189,7 @@
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/111/203/s1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1415
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2153
 [/us/usc/t15/s1639b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639b
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601

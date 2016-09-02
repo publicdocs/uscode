@@ -17,7 +17,7 @@
 
     Except as otherwise provided in this chapter, the provisions of the Securities Exchange Act of 1934 \[[15 U.S.C. 78a][/us/usc/t15/s78a] et seq.\] (hereinafter referred to as the “1934 Act”) apply as if this chapter constituted an amendment to, and was included as a section of, such Act.
 
-([Pub. L. 91–598, § 2][/us/pl/91/598/s2], Dec. 30, 1970, [84 Stat. 1637][/us/stat/84/1637].)
+([Pub. L. 91–598][/us/pl/91/598], § 2, Dec. 30, 1970, [84 Stat. 1637][/us/stat/84/1637].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/91/598/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598%2Fs2
+[/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1637
 [/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1636

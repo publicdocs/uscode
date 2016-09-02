@@ -247,7 +247,7 @@
 
         Any ban imposed by subsection (a) or rule promulgated under subsection (a) or (b) of this section, and section 1303.1 of title 16, Code of Federal Regulations (as modified pursuant to subsection (f)(1) or (2)), or any successor regulation, shall be considered a regulation of the Commission promulgated under or for the enforcement of section 2(q) of the Federal Hazardous Substances Act ([15 U.S.C. 1261(q)][/us/usc/t15/s1261/q]).
 
-([Pub. L. 110–314, title I, § 101][/us/pl/110/314/s101], Aug. 14, 2008, [122 Stat. 3017][/us/stat/122/3017]; [Pub. L. 112–28][/us/pl/112/28], §§ 1, 10(b), Aug. 12, 2011, [125 Stat. 273][/us/stat/125/273], 283.)
+([Pub. L. 110–314, title I][/us/pl/110/314/tI], § 101, Aug. 14, 2008, [122 Stat. 3017][/us/stat/122/3017]; [Pub. L. 112–28][/us/pl/112/28], §§ 1, 10(b), Aug. 12, 2011, [125 Stat. 273][/us/stat/125/273], 283.)
 
  __References in Text__ 
 
@@ -263,23 +263,23 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a)(1). [Pub. L. 112–28, § 10(b)][/us/pl/112/28/s10/b], substituted “(as defined in section 3(a) of the Consumer Product Safety Act ([15 U.S.C. 2052(a)][/us/usc/t15/s2052/a]))” for “(as defined in section 3(a)(16) of the Consumer Product Safety Act ([15 U.S.C. 2052(a)(16)][/us/usc/t15/s2052/a/16]))”.
+    2011—Subsec. (a)(1). [Pub. L. 112–28][/us/pl/112/28], § 10(b), substituted “(as defined in section 3(a) of the Consumer Product Safety Act ([15 U.S.C. 2052(a)][/us/usc/t15/s2052/a]))” for “(as defined in section 3(a)(16) of the Consumer Product Safety Act ([15 U.S.C. 2052(a)(16)][/us/usc/t15/s2052/a/16]))”.
 
-    Subsec. (a)(3). [Pub. L. 112–28, § 1(a)][/us/pl/112/28/s1/a], added par. (3).
+    Subsec. (a)(3). [Pub. L. 112–28][/us/pl/112/28], § 1(a), added par. (3).
 
-    Subsec. (b)(1). [Pub. L. 112–28, § 1(b)(1)][/us/pl/112/28/s1/b/1], added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Commission may, by regulation, exclude a specific product or material from the prohibition in subsection (a) if the Commission, after notice and a hearing, determines on the basis of the best-available, objective, peer-reviewed, scientific evidence that lead in such product or material will neither—
+    Subsec. (b)(1). [Pub. L. 112–28][/us/pl/112/28], § 1(b)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Commission may, by regulation, exclude a specific product or material from the prohibition in subsection (a) if the Commission, after notice and a hearing, determines on the basis of the best-available, objective, peer-reviewed, scientific evidence that lead in such product or material will neither—
 
     “(A) result in the absorption of any lead into the human body, taking into account normal and reasonably foreseeable use and abuse of such product by a child, including swallowing, mouthing, breaking, or other children’s activities, and the aging of the product; nor
 
     “(B) have any other adverse impact on public health or safety.”
 
-    Subsec. (b)(2)(A). [Pub. L. 112–28, § 1(b)(2)][/us/pl/112/28/s1/b/2], substituted “include” for “include to,”.
+    Subsec. (b)(2)(A). [Pub. L. 112–28][/us/pl/112/28], § 1(b)(2), substituted “include” for “include to,”.
 
-    Subsec. (b)(5) to (8). [Pub. L. 112–28, § 1(b)(3)][/us/pl/112/28/s1/b/3], added pars. (5) to (7) and redesignated former par. (5) as (8).
+    Subsec. (b)(5) to (8). [Pub. L. 112–28][/us/pl/112/28], § 1(b)(3), added pars. (5) to (7) and redesignated former par. (5) as (8).
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–28, § 11][/us/pl/112/28/s11], Aug. 12, 2011, [125 Stat. 283][/us/stat/125/283], provided that: 
+[Pub. L. 112–28][/us/pl/112/28], § 11, Aug. 12, 2011, [125 Stat. 283][/us/stat/125/283], provided that: 
 
 > “Except as provided otherwise, the amendments made by this Act \[amending this section and sections 2055a, 2056a, 2056b, 2057c, 2063, 2068, and 2076 of this title and enacting provisions set out as a note under [section 2089 of this title][/us/usc/t15/s2089]\] shall take effect on the date of enactment of this Act \[Aug. 12, 2011\].”
 
@@ -301,7 +301,7 @@
 [/us/usc/t15/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2051
 [/us/usc/t16/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1303
 [/us/usc/t15/s1261/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1261%2Fq
-[/us/pl/110/314/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs101
+[/us/pl/110/314/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtI
 [/us/stat/122/3017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3017
 [/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
 [/us/stat/125/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F273
@@ -314,14 +314,14 @@
 [/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/stat/122/3016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3016
 [/us/usc/t15/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2051
-[/us/pl/112/28/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs10%2Fb
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
 [/us/usc/t15/s2052/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2052%2Fa
 [/us/usc/t15/s2052/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2052%2Fa%2F16
-[/us/pl/112/28/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs1%2Fa
-[/us/pl/112/28/s1/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs1%2Fb%2F1
-[/us/pl/112/28/s1/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs1%2Fb%2F2
-[/us/pl/112/28/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs1%2Fb%2F3
-[/us/pl/112/28/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs11
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
 [/us/stat/125/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F283
 [/us/usc/t15/s2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2089
 [/us/pl/110/314/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs2%2Fa

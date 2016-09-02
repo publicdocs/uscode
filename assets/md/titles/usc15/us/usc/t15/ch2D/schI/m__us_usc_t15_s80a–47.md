@@ -27,7 +27,7 @@
 
         It shall be unlawful for any person without just cause to hinder, delay, or obstruct the making, filing, or keeping of any information, document, report, record, or account required to be made, filed, or kept under any provision of this subchapter or any rule, regulation, or order thereunder.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 48, [54 Stat. 846][/us/stat/54/846]; [Pub. L. 111–203, title IX, § 929M(b)][/us/pl/111/203/s929M/b], July 21, 2010, [124 Stat. 1861][/us/stat/124/1861].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 48, [54 Stat. 846][/us/stat/54/846]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 929M(b), July 21, 2010, [124 Stat. 1861][/us/stat/124/1861].)
 
  __Amendments__ 
 
@@ -47,7 +47,7 @@
 [/us/usc/t15/s80a–41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9341
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F846
-[/us/pl/111/203/s929M/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929M%2Fb
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1861
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

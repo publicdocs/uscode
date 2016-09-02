@@ -43,15 +43,15 @@
 
         The Bureau shall by regulation exempt from the requirements of sections 1691 and 1691a of this title any class of credit transactions within any State if it determines that under the law of that State that class of transactions is subject to requirements substantially similar to those imposed under this subchapter or that such law gives greater protection to the applicant, and that there is adequate provision for enforcement. Failure to comply with any requirement of such State law in any transaction so exempted shall constitute a violation of this subchapter for the purposes of [section 1691e of this title][/us/usc/t15/s1691e].
 
-([Pub. L. 90–321, title VII, § 705][/us/pl/90/321/s705], as added [Pub. L. 93–495, title V, § 503][/us/pl/93/495/s503], Oct. 28, 1974, [88 Stat. 1523][/us/stat/88/1523]; amended [Pub. L. 94–239, § 5][/us/pl/94/239/s5], Mar. 23, 1976, [90 Stat. 253][/us/stat/90/253]; [Pub. L. 111–203, title X, § 1085(1)][/us/pl/111/203/s1085/1], July 21, 2010, [124 Stat. 2083][/us/stat/124/2083].)
+([Pub. L. 90–321, title VII][/us/pl/90/321/tVII], § 705, as added [Pub. L. 93–495, title V][/us/pl/93/495/tV], § 503, Oct. 28, 1974, [88 Stat. 1523][/us/stat/88/1523]; amended [Pub. L. 94–239][/us/pl/94/239], § 5, Mar. 23, 1976, [90 Stat. 253][/us/stat/90/253]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1085(1), July 21, 2010, [124 Stat. 2083][/us/stat/124/2083].)
 
  __Amendments__ 
 
     2010—Subsecs. (f), (g). [Pub. L. 111–203][/us/pl/111/203] substituted “Bureau” for “Board” wherever appearing.
 
-    1976—Subsec. (e). [Pub. L. 94–239, § 5(1)][/us/pl/94/239/s5/1], substituted provisions requiring an election of remedies in legal actions involving the recovery of monetary damages, for provisions specifying a general election of remedies.
+    1976—Subsec. (e). [Pub. L. 94–239][/us/pl/94/239], § 5(1), substituted provisions requiring an election of remedies in legal actions involving the recovery of monetary damages, for provisions specifying a general election of remedies.
 
-    Subsecs. (f), (g). [Pub. L. 94–239, § 5(2)][/us/pl/94/239/s5/2], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 94–239][/us/pl/94/239], § 5(2), added subsecs. (f) and (g).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -69,16 +69,16 @@
 ----------
 
 [/us/usc/t15/s1691e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1691e
-[/us/pl/90/321/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs705
-[/us/pl/93/495/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs503
+[/us/pl/90/321/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVII
+[/us/pl/93/495/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtV
 [/us/stat/88/1523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1523
-[/us/pl/94/239/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239%2Fs5
+[/us/pl/94/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239
 [/us/stat/90/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F253
-[/us/pl/111/203/s1085/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1085%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2083
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/94/239/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239%2Fs5%2F1
-[/us/pl/94/239/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239%2Fs5%2F2
+[/us/pl/94/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239
+[/us/pl/94/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

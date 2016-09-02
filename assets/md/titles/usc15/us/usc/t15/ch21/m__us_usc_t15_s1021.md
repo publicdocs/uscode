@@ -63,7 +63,7 @@
 
         The Congress further declares that it is the purpose of the Full Employment and Balanced Growth Act of 1978 \[[15 U.S.C. 3101][/us/usc/t15/s3101] et seq.\] to rely principally on the private sector for expansion of economic activity and creation of new jobs for a growing labor force. Toward this end, it is the purpose of this chapter to encourage the adoption of fiscal policies that would establish the share of the gross national product accounted for by Federal outlays at the lowest level consistent with national needs and priorities.
 
-([Feb. 20, 1946, ch. 33, § 2][/us/act/1946-02-20/ch33/s2], [60 Stat. 23][/us/stat/60/23]; [Pub. L. 95–523, title I, § 102][/us/pl/95/523/s102], Oct. 27, 1978, [92 Stat. 1890][/us/stat/92/1890].)
+([Feb. 20, 1946, ch. 33][/us/act/1946-02-20/ch33], § 2, [60 Stat. 23][/us/stat/60/23]; [Pub. L. 95–523, title I][/us/pl/95/523/tI], § 102, Oct. 27, 1978, [92 Stat. 1890][/us/stat/92/1890].)
 
  __References in Text__ 
 
@@ -75,13 +75,13 @@
 
  __Short Title__ 
 
-[Act Feb. 20, 1946, ch. 33, § 1][/us/act/1946-02-20/ch33/s1], [60 Stat. 23][/us/stat/60/23], provided: 
+[Act Feb. 20, 1946, ch. 33][/us/act/1946-02-20/ch33], § 1, [60 Stat. 23][/us/stat/60/23], provided: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Employment Act of 1946’.”
 
  __Statement of Purpose__ 
 
-[Pub. L. 95–523, title I, § 101][/us/pl/95/523/s101], Oct. 27, 1978, [92 Stat. 1890][/us/stat/92/1890], provided that: 
+[Pub. L. 95–523, title I][/us/pl/95/523/tI], § 101, Oct. 27, 1978, [92 Stat. 1890][/us/stat/92/1890], provided that: 
 
 > “It is the purpose of this title \[enacting sections 1022a to 1022f of this title, amending sections 1021, 1022 and 1023 of this title and [section 225a of Title 12][/us/usc/t12/s225a], Banks and Banking, and enacting provisions set out as a note under [section 225a of Title 12][/us/usc/t12/s225a]\]—
 
@@ -109,17 +109,17 @@
 [/us/usc/t15/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3101
 [/us/usc/t15/s1022a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1022a
 [/us/usc/t15/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3101
-[/us/act/1946-02-20/ch33/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-20%2Fch33%2Fs2
+[/us/act/1946-02-20/ch33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-20%2Fch33
 [/us/stat/60/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F23
-[/us/pl/95/523/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs102
+[/us/pl/95/523/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2FtI
 [/us/stat/92/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1890
 [/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
 [/us/stat/92/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1887
 [/us/usc/t15/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3101
 [/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
-[/us/act/1946-02-20/ch33/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-20%2Fch33%2Fs1
+[/us/act/1946-02-20/ch33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-20%2Fch33
 [/us/stat/60/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F23
-[/us/pl/95/523/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs101
+[/us/pl/95/523/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2FtI
 [/us/stat/92/1890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1890
 [/us/usc/t12/s225a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs225a
 [/us/usc/t12/s225a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs225a

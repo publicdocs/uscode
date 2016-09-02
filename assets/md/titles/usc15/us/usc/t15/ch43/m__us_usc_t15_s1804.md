@@ -19,7 +19,7 @@
 
     (b) The provisions of [section 1803 of this title][/us/usc/t15/s1803] shall apply to the determination of any civil or criminal action pending in any district court of the United State  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “States”. </sup></sup>  on July 24, 1970, in which it is alleged that any such joint operating agreement is unlawful under any antitrust law.
 
-([Pub. L. 91–353, § 5][/us/pl/91/353/s5], July 24, 1970, [84 Stat. 467][/us/stat/84/467].)
+([Pub. L. 91–353][/us/pl/91/353], § 5, July 24, 1970, [84 Stat. 467][/us/stat/84/467].)
 
 ----------
 
@@ -30,7 +30,7 @@
 
 [/us/usc/t15/s1803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1803%2Fa
 [/us/usc/t15/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1803
-[/us/pl/91/353/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F353%2Fs5
+[/us/pl/91/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F353
 [/us/stat/84/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F467
 
 

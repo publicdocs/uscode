@@ -29,7 +29,7 @@
 
         The Secretary of Energy shall carry out projects to develop, plan, construct, acquire, operate, or support special equipment, instrumentation, or facilities for investigators conducting research and development in nanotechnology.
 
-([Pub. L. 108–153, § 8][/us/pl/108/153/s8], Dec. 3, 2003, [117 Stat. 1930][/us/stat/117/1930].)
+([Pub. L. 108–153][/us/pl/108/153], § 8, Dec. 3, 2003, [117 Stat. 1930][/us/stat/117/1930].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t15/s7505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7505%2Fb
-[/us/pl/108/153/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F153%2Fs8
+[/us/pl/108/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F153
 [/us/stat/117/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1930
 
 

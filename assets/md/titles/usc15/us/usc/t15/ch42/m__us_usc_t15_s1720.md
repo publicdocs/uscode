@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated such sums as may be necessary to carry out this chapter.
 
-([Pub. L. 90–448, title XIV, § 1422][/us/pl/90/448/s1422], formerly § 1421, Aug. 1, 1968, [82 Stat. 599][/us/stat/82/599]; renumbered § 1422, [Pub. L. 96–153, title IV, § 409][/us/pl/96/153/s409], Dec. 21, 1979, [93 Stat. 1132][/us/stat/93/1132].)
+([Pub. L. 90–448, title XIV][/us/pl/90/448/tXIV], § 1422, formerly § 1421, Aug. 1, 1968, [82 Stat. 599][/us/stat/82/599]; renumbered § 1422, [Pub. L. 96–153, title IV][/us/pl/96/153/tIV], § 409, Dec. 21, 1979, [93 Stat. 1132][/us/stat/93/1132].)
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/90/448/s1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1422
+[/us/pl/90/448/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIV
 [/us/stat/82/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F599
-[/us/pl/96/153/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs409
+[/us/pl/96/153/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtIV
 [/us/stat/93/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1132
 
 

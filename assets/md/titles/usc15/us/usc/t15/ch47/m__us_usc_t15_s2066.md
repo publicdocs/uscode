@@ -61,7 +61,7 @@
 
         (3) The Commission shall periodically report to the appropriate Congressional committees the results of the surveillance program under paragraph (1).
 
-([Pub. L. 92–573, § 17][/us/pl/92/573/s17], Oct. 27, 1972, [86 Stat. 1223][/us/stat/86/1223]; [Pub. L. 100–418, title I, § 1214(d)][/us/pl/100/418/s1214/d], Aug. 23, 1988, [102 Stat. 1156][/us/stat/102/1156]; [Pub. L. 101–608, title I, § 114][/us/pl/101/608/s114], Nov. 16, 1990, [104 Stat. 3118][/us/stat/104/3118]; [Pub. L. 110–314, title II][/us/pl/110/314], §§ 216(b), 223(b), (c)(1), 235(c)(6), Aug. 14, 2008, [122 Stat. 3058][/us/stat/122/3058], 3068, 3069, 3075.)
+([Pub. L. 92–573][/us/pl/92/573], § 17, Oct. 27, 1972, [86 Stat. 1223][/us/stat/86/1223]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1214(d), Aug. 23, 1988, [102 Stat. 1156][/us/stat/102/1156]; [Pub. L. 101–608, title I][/us/pl/101/608/tI], § 114, Nov. 16, 1990, [104 Stat. 3118][/us/stat/104/3118]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], §§ 216(b), 223(b), (c)(1), 235(c)(6), Aug. 14, 2008, [122 Stat. 3058][/us/stat/122/3058], 3068, 3069, 3075.)
 
  __References in Text__ 
 
@@ -69,13 +69,13 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(2). [Pub. L. 110–314, § 216(b)][/us/pl/110/314/s216/b], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “is not accompanied by a certificate required by [section 2063 of this title][/us/usc/t15/s2063], or is not labeled in accordance with regulations under [section 2063(c) of this title][/us/usc/t15/s2063/c];”.
+    2008—Subsec. (a)(2). [Pub. L. 110–314][/us/pl/110/314], § 216(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “is not accompanied by a certificate required by [section 2063 of this title][/us/usc/t15/s2063], or is not labeled in accordance with regulations under [section 2063(c) of this title][/us/usc/t15/s2063/c];”.
 
-    Subsec. (e). [Pub. L. 110–314, § 223(b)][/us/pl/110/314/s223/b], amended subsec. (e) generally. Prior to amendment, text read as follows: “Products refused admission into the customs territory of the United States under this section must be exported, except that upon application, the Secretary of the Treasury may permit the destruction of the product in lieu of exportation. If the owner or consignee does not export the product within a reasonable time, the Department of the Treasury may destroy the product.”
+    Subsec. (e). [Pub. L. 110–314][/us/pl/110/314], § 223(b), amended subsec. (e) generally. Prior to amendment, text read as follows: “Products refused admission into the customs territory of the United States under this section must be exported, except that upon application, the Secretary of the Treasury may permit the destruction of the product in lieu of exportation. If the owner or consignee does not export the product within a reasonable time, the Department of the Treasury may destroy the product.”
 
-    Subsec. (g). [Pub. L. 110–314, § 223(c)(1)][/us/pl/110/314/s223/c/1], amended subsec. (g) generally. Prior to amendment, text read as follows: “The Commission may, by rule, condition the importation of a consumer product on the manufacturer’s compliance with the inspection and recordkeeping requirements of this chapter and the Commission’s rules with respect to such requirements.”
+    Subsec. (g). [Pub. L. 110–314][/us/pl/110/314], § 223(c)(1), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Commission may, by rule, condition the importation of a consumer product on the manufacturer’s compliance with the inspection and recordkeeping requirements of this chapter and the Commission’s rules with respect to such requirements.”
 
-    Subsec. (h)(3). [Pub. L. 110–314, § 235(c)(6)][/us/pl/110/314/s235/c/6], substituted “the appropriate Congressional committees” for “the Congress”.
+    Subsec. (h)(3). [Pub. L. 110–314][/us/pl/110/314], § 235(c)(6), substituted “the appropriate Congressional committees” for “the Congress”.
 
     1990—Subsec. (h). [Pub. L. 101–608][/us/pl/101/608] added subsec. (h).
 
@@ -91,7 +91,7 @@
 
  __Import Safety Management and Interagency Cooperation__ 
 
-[Pub. L. 110–314, title II, § 222][/us/pl/110/314/s222], Aug. 14, 2008, [122 Stat. 3066][/us/stat/122/3066], provided that:
+[Pub. L. 110–314, title II][/us/pl/110/314/tII], § 222, Aug. 14, 2008, [122 Stat. 3066][/us/stat/122/3066], provided that:
 
 >     “(a)  __Risk Assessment Methodology__  __.—__ 
 
@@ -173,21 +173,21 @@
 [/us/usc/t15/s2071/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2071%2Fb
 [/us/usc/t15/s2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2065
 [/us/usc/t15/s2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2065
-[/us/pl/92/573/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs17
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1223
-[/us/pl/100/418/s1214/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fd
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1156
-[/us/pl/101/608/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs114
+[/us/pl/101/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2FtI
 [/us/stat/104/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3118
-[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3058
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/pl/110/314/s216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs216%2Fb
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/usc/t15/s2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2063
 [/us/usc/t15/s2063/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2063%2Fc
-[/us/pl/110/314/s223/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs223%2Fb
-[/us/pl/110/314/s223/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs223%2Fc%2F1
-[/us/pl/110/314/s235/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs235%2Fc%2F6
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
@@ -196,7 +196,7 @@
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/418/s1217/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1217%2Fb%2F1
 [/us/usc/t19/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3001
-[/us/pl/110/314/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs222
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3066
 [/us/usc/t15/s2066/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2066%2Fa
 [/us/usc/t19/s1411/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1411%2Fd

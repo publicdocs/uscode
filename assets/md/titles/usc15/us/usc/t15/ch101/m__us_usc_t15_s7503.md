@@ -53,7 +53,7 @@
 
         Section 14 of the Federal Advisory Committee Act shall not apply to the Advisory Panel.
 
-([Pub. L. 108–153, § 4][/us/pl/108/153/s4], Dec. 3, 2003, [117 Stat. 1927][/us/stat/117/1927].)
+([Pub. L. 108–153][/us/pl/108/153], § 4, Dec. 3, 2003, [117 Stat. 1927][/us/stat/117/1927].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/108/153/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F153%2Fs4
+[/us/pl/108/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F153
 [/us/stat/117/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1927
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/usc/t42/s6601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6601

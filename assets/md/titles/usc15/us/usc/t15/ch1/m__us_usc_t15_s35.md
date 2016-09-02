@@ -23,7 +23,7 @@
 
         Subsection (a) shall not apply to cases commenced before the effective date of this Act unless the defendant establishes and the court determines, in light of all the circumstances, including the stage of litigation and the availability of alternative relief under the Clayton Act, that it would be inequitable not to apply this subsection to a pending case. In consideration of this section, existence of a jury verdict, district court judgment, or any stage of litigation subsequent thereto, shall be deemed to be prima facie evidence that subsection (a) shall not apply.
 
-([Pub. L. 98–544, § 3][/us/pl/98/544/s3], Oct. 24, 1984, [98 Stat. 2750][/us/stat/98/2750].)
+([Pub. L. 98–544][/us/pl/98/544], § 3, Oct. 24, 1984, [98 Stat. 2750][/us/stat/98/2750].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t15/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs15
-[/us/pl/98/544/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F544%2Fs3
+[/us/pl/98/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F544
 [/us/stat/98/2750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2750
 [/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
 [/us/stat/38/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F730

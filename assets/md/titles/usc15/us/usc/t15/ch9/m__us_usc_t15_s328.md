@@ -17,7 +17,7 @@
 
     Subject to approval of the President, and without charge to the National Weather Service, the Secretary of the Army, the Secretary of the Air Force, and the Secretary of the Navy are authorized to transfer to the National Weather Service equipment and supplies which are surplus to the needs of their respective Departments and necessary for the establishment, maintenance, and operation of Arctic weather stations.
 
-([June 2, 1948, ch. 373, § 4][/us/act/1948-06-02/ch373/s4], [62 Stat. 286][/us/stat/62/286]; 1965 Reorg. Plan No. 2, 1970 eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
+([June 2, 1948, ch. 373][/us/act/1948-06-02/ch373], § 4, [62 Stat. 286][/us/stat/62/286]; 1965 Reorg. Plan No. 2, 1970 eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
 
  __Transfer of Functions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1948-06-02/ch373/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-02%2Fch373%2Fs4
+[/us/act/1948-06-02/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-02%2Fch373
 [/us/stat/62/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F286
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090

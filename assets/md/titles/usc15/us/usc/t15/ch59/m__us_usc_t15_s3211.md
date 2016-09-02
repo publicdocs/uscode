@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to limit or affect any authority of the Secretary or the Commission under any other provision of law.
 
-([Pub. L. 95–617, title III, § 311][/us/pl/95/617/s311], Nov. 9, 1978, [92 Stat. 3154][/us/stat/92/3154].)
+([Pub. L. 95–617, title III][/us/pl/95/617/tIII], § 311, Nov. 9, 1978, [92 Stat. 3154][/us/stat/92/3154].)
 
  __Definitions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/95/617/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs311
+[/us/pl/95/617/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtIII
 [/us/stat/92/3154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3154
 [/us/usc/t16/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2602
 

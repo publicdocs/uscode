@@ -61,7 +61,7 @@
 
         (2) Any equipment, device, paraphernalia, or substance which was used in violation of any provision of this chapter or any regulation issued under this chapter or which contributed to the soring of any horse at or prior to any horse show, horse exhibition, or horse sale or auction, shall be liable to be proceeded against, by process of libel for the seizure and condemnation of such equipment, device, paraphernalia, or substance, in any United States district court within the jurisdiction of which such equipment, device, paraphernalia, or substance is found. Such proceedings shall conform as nearly as possible to proceedings in rem in admiralty.
 
-([Pub. L. 91–540, § 6][/us/pl/91/540/s6], Dec. 9, 1970, [84 Stat. 1406][/us/stat/84/1406]; [Pub. L. 94–360, § 7][/us/pl/94/360/s7], July 13, 1976, [90 Stat. 918][/us/stat/90/918].)
+([Pub. L. 91–540][/us/pl/91/540], § 6, Dec. 9, 1970, [84 Stat. 1406][/us/stat/84/1406]; [Pub. L. 94–360][/us/pl/94/360], § 7, July 13, 1976, [90 Stat. 918][/us/stat/90/918].)
 
  __Amendments__ 
 
@@ -83,9 +83,9 @@
 [/us/usc/t15/s1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1823
 [/us/usc/t15/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1824
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
-[/us/pl/91/540/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F540%2Fs6
+[/us/pl/91/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F540
 [/us/stat/84/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1406
-[/us/pl/94/360/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360%2Fs7
+[/us/pl/94/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360
 [/us/stat/90/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F918
 [/us/pl/94/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360
 [/us/pl/94/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360

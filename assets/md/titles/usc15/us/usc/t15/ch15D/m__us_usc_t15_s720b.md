@@ -55,7 +55,7 @@
 
         (2) not later than 180 days after the date of issuance of the draft environmental impact statement, issue a final environmental impact statement, unless the Commission for good cause determines that additional time is needed.
 
-([Pub. L. 108–324, div. C, § 104][/us/pl/108/324/s104], Oct. 13, 2004, [118 Stat. 1257][/us/stat/118/1257].)
+([Pub. L. 108–324, div. C][/us/pl/108/324/dC], § 104, Oct. 13, 2004, [118 Stat. 1257][/us/stat/118/1257].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 [/us/usc/t15/s720a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs720a
 [/us/usc/t42/s4332/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332%2F2%2FC
 [/us/usc/t15/s720a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs720a
-[/us/pl/108/324/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs104
+[/us/pl/108/324/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2FdC
 [/us/stat/118/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1257
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

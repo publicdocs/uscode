@@ -27,7 +27,7 @@
 
     (5) a knife that contains a spring, detent, or other mechanism designed to create a bias toward closure of the blade and that requires exertion applied to the blade by hand, wrist, or arm to overcome the bias toward closure to assist in opening the knife.
 
-([Pub. L. 85–623, § 4][/us/pl/85/623/s4], Aug. 12, 1958, [72 Stat. 562][/us/stat/72/562]; [Pub. L. 111–83, title V, § 562][/us/pl/111/83/s562], Oct. 28, 2009, [123 Stat. 2183][/us/stat/123/2183].)
+([Pub. L. 85–623][/us/pl/85/623], § 4, Aug. 12, 1958, [72 Stat. 562][/us/stat/72/562]; [Pub. L. 111–83, title V][/us/pl/111/83/tV], § 562, Oct. 28, 2009, [123 Stat. 2183][/us/stat/123/2183].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/85/623/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F623%2Fs4
+[/us/pl/85/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F623
 [/us/stat/72/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F562
-[/us/pl/111/83/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs562
+[/us/pl/111/83/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2FtV
 [/us/stat/123/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2183
 [/us/pl/111/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83
 

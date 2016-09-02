@@ -35,7 +35,7 @@
 
         (4) Where there is an adverse party, such suit may be instituted against the party in interest as shown by the records of the United States Patent and Trademark Office at the time of the decision complained of, but any party in interest may become a party to the action. If there are adverse parties residing in a plurality of districts not embraced within the same State, or an adverse party residing in a foreign country, the United States District Court for the Eastern District of Virginia shall have jurisdiction and may issue summons against the adverse parties directed to the marshal of any district in which any adverse party resides. Summons against adverse parties residing in foreign countries may be served by publication or otherwise as the court directs.
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title I, § 21, [60 Stat. 435][/us/stat/60/435]; [July 19, 1952, ch. 950, § 2][/us/act/1952-07-19/ch950/s2], [66 Stat. 814][/us/stat/66/814]; [Pub. L. 85–609, § 1(c)][/us/pl/85/609/s1/c], Aug. 8, 1958, [72 Stat. 540][/us/stat/72/540]; [Pub. L. 87–772, § 12][/us/pl/87/772/s12], Oct. 9, 1962, [76 Stat. 771][/us/stat/76/771]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 93–600, § 2][/us/pl/93/600/s2], Jan. 2, 1975, [88 Stat. 1955][/us/stat/88/1955]; [Pub. L. 97–164, title I, § 162(1)][/us/pl/97/164/s162/1], Apr. 2, 1982, [96 Stat. 49][/us/stat/96/49]; [Pub. L. 98–620, title IV, § 414(b)][/us/pl/98/620/s414/b], Nov. 8, 1984, [98 Stat. 3363][/us/stat/98/3363]; [Pub. L. 100–667, title I, § 120][/us/pl/100/667/s120], Nov. 16, 1988, [102 Stat. 3942][/us/stat/102/3942]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(1)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583; [Pub. L. 111–146, § 3(c)][/us/pl/111/146/s3/c], Mar. 17, 2010, [124 Stat. 67][/us/stat/124/67]; [Pub. L. 112–29, § 9(a)][/us/pl/112/29/s9/a], Sept. 16, 2011, [125 Stat. 316][/us/stat/125/316].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title I, § 21, [60 Stat. 435][/us/stat/60/435]; [July 19, 1952, ch. 950][/us/act/1952-07-19/ch950], § 2, [66 Stat. 814][/us/stat/66/814]; [Pub. L. 85–609][/us/pl/85/609], § 1(c), Aug. 8, 1958, [72 Stat. 540][/us/stat/72/540]; [Pub. L. 87–772][/us/pl/87/772], § 12, Oct. 9, 1962, [76 Stat. 771][/us/stat/76/771]; [Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 93–600][/us/pl/93/600], § 2, Jan. 2, 1975, [88 Stat. 1955][/us/stat/88/1955]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 162(1), Apr. 2, 1982, [96 Stat. 49][/us/stat/96/49]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 414(b), Nov. 8, 1984, [98 Stat. 3363][/us/stat/98/3363]; [Pub. L. 100–667, title I][/us/pl/100/667/tI], § 120, Nov. 16, 1988, [102 Stat. 3942][/us/stat/102/3942]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(1)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583; [Pub. L. 111–146][/us/pl/111/146], § 3(c), Mar. 17, 2010, [124 Stat. 67][/us/stat/124/67]; [Pub. L. 112–29][/us/pl/112/29], § 9(a), Sept. 16, 2011, [125 Stat. 316][/us/stat/125/316].)
 
  __Codification__ 
 
@@ -43,29 +43,29 @@
 
  __Prior Provisions__ 
 
-    Acts [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], §§ 9, 22, [33 Stat. 727][/us/stat/33/727], 729; [Mar. 2, 1929, ch. 488, § 2(b)][/us/act/1929-03-02/ch488/s2/b], [45 Stat. 1478][/us/stat/45/1478].
+    Acts [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], §§ 9, 22, [33 Stat. 727][/us/stat/33/727], 729; [Mar. 2, 1929, ch. 488][/us/act/1929-03-02/ch488], § 2(b), [45 Stat. 1478][/us/stat/45/1478].
 
  __Amendments__ 
 
     2011—Subsec. (b)(4). [Pub. L. 112–29][/us/pl/112/29] substituted “United States District Court for the Eastern District of Virginia” for “United States District Court for the District of Columbia”.
 
-    2010—Subsec. (a)(1). [Pub. L. 111–146, § 3(c)(2)][/us/pl/111/146/s3/c/2], inserted “or [section 1141k of this title][/us/usc/t15/s1141k]” after “[section 1058 of this title][/us/usc/t15/s1058]”.
+    2010—Subsec. (a)(1). [Pub. L. 111–146][/us/pl/111/146], § 3(c)(2), inserted “or [section 1141k of this title][/us/usc/t15/s1141k]” after “[section 1058 of this title][/us/usc/t15/s1058]”.
 
-    Subsec. (a)(2) to (4). [Pub. L. 111–146, § 3(c)(1)][/us/pl/111/146/s3/c/1], inserted “United States” before “Patent and Trademark Office” wherever appearing.
+    Subsec. (a)(2) to (4). [Pub. L. 111–146][/us/pl/111/146], § 3(c)(1), inserted “United States” before “Patent and Trademark Office” wherever appearing.
 
-    Subsec. (b)(3). [Pub. L. 111–146, § 3(c)(1)][/us/pl/111/146/s3/c/1], inserted “United States” before “Patent and Trademark Office” in two places.
+    Subsec. (b)(3). [Pub. L. 111–146][/us/pl/111/146], § 3(c)(1), inserted “United States” before “Patent and Trademark Office” in two places.
 
-    Subsec. (b)(4). [Pub. L. 111–146, § 3(c)(1)][/us/pl/111/146/s3/c/1], (3), inserted “United States” before “Patent and Trademark Office” and substituted “If there are” for “If there be”.
+    Subsec. (b)(4). [Pub. L. 111–146][/us/pl/111/146], § 3(c)(1), (3), inserted “United States” before “Patent and Trademark Office” and substituted “If there are” for “If there be”.
 
     1999—[Pub. L. 106–113][/us/pl/106/113] substituted “Director” for “Commissioner” wherever appearing.
 
-    1988—Subsec. (a)(1). [Pub. L. 100–667, § 120(1)][/us/pl/100/667/s120/1], made technical amendments to references in the original act to subsection (b) of this section resulting in no change in text, and substituted “paragraph (2) of this subsection” for “subsection (a)(2) of this section” and “action under subsection” for “action under said subsection”.
+    1988—Subsec. (a)(1). [Pub. L. 100–667][/us/pl/100/667], § 120(1), made technical amendments to references in the original act to subsection (b) of this section resulting in no change in text, and substituted “paragraph (2) of this subsection” for “subsection (a)(2) of this section” and “action under subsection” for “action under said subsection”.
 
-    Subsec. (a)(4). [Pub. L. 100–667, § 120(2)][/us/pl/100/667/s120/2], inserted provision that no final judgment be entered before mark is registered if applicant cannot prevail without establishing constructive use.
+    Subsec. (a)(4). [Pub. L. 100–667][/us/pl/100/667], § 120(2), inserted provision that no final judgment be entered before mark is registered if applicant cannot prevail without establishing constructive use.
 
-    Subsec. (b)(1). [Pub. L. 100–667, § 120(3)][/us/pl/100/667/s120/3], made technical amendments to references in the original act to subsection (a) of this section resulting in no change in text and inserted provision that no final judgment be entered before mark is registered if applicant cannot prevail without establishing constructive use.
+    Subsec. (b)(1). [Pub. L. 100–667][/us/pl/100/667], § 120(3), made technical amendments to references in the original act to subsection (a) of this section resulting in no change in text and inserted provision that no final judgment be entered before mark is registered if applicant cannot prevail without establishing constructive use.
 
-    Subsec. (b)(3). [Pub. L. 100–667, § 120(4)][/us/pl/100/667/s120/4], amended first sentence generally. Prior to amendment, first sentence read as follows: “In all cases where there is no adverse party, a copy of the complaint shall be served on the Commissioner; and all the expenses of the proceedings shall be paid by the party bringing them, whether the final decision is in his favor or not.”
+    Subsec. (b)(3). [Pub. L. 100–667][/us/pl/100/667], § 120(4), amended first sentence generally. Prior to amendment, first sentence read as follows: “In all cases where there is no adverse party, a copy of the complaint shall be served on the Commissioner; and all the expenses of the proceedings shall be paid by the party bringing them, whether the final decision is in his favor or not.”
 
     1984—Subsec. (a)(2). [Pub. L. 98–620][/us/pl/98/620] substituted provisions requiring the appellant to file a written notice of appeal in the Patent and Trademark Office directed to the Commissioner for provisions requiring the appellant to file the notice of appeal with the Commissioner, and struck out provision which required the notice of appeal to specify the party or parties taking the appeal, to designate the decision or part thereof appealed from, and to state that the appeal was being taken to the United States Court of Appeals for the Federal Circuit.
 
@@ -95,7 +95,7 @@
 
  __Effective Date of 2011 Amendment__ 
 
-[Pub. L. 112–29, § 9(b)][/us/pl/112/29/s9/b], Sept. 16, 2011, [125 Stat. 316][/us/stat/125/316], provided that: 
+[Pub. L. 112–29][/us/pl/112/29], § 9(b), Sept. 16, 2011, [125 Stat. 316][/us/stat/125/316], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 32, 145, 146, 154, and 293 of Title 35, Patents\] shall take effect on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any civil action commenced on or after that date.”
 
@@ -152,47 +152,47 @@
 [/us/usc/t15/s1057/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1057%2Fc
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F435
-[/us/act/1952-07-19/ch950/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950%2Fs2
+[/us/act/1952-07-19/ch950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-19%2Fch950
 [/us/stat/66/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F814
-[/us/pl/85/609/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F609%2Fs1%2Fc
+[/us/pl/85/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F609
 [/us/stat/72/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F540
-[/us/pl/87/772/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772%2Fs12
+[/us/pl/87/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772
 [/us/stat/76/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F771
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/93/600/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F600%2Fs2
+[/us/pl/93/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F600
 [/us/stat/88/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1955
-[/us/pl/97/164/s162/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs162%2F1
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F49
-[/us/pl/98/620/s414/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs414%2Fb
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3363
-[/us/pl/100/667/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs120
+[/us/pl/100/667/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtI
 [/us/stat/102/3942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3942
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/111/146/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F146%2Fs3%2Fc
+[/us/pl/111/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F146
 [/us/stat/124/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F67
-[/us/pl/112/29/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs9%2Fa
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F316
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/pl/93/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F600
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/act/1905-02-20/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592
 [/us/stat/33/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F727
-[/us/act/1929-03-02/ch488/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch488%2Fs2%2Fb
+[/us/act/1929-03-02/ch488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch488
 [/us/stat/45/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1478
 [/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
-[/us/pl/111/146/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F146%2Fs3%2Fc%2F2
+[/us/pl/111/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F146
 [/us/usc/t15/s1141k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1141k
 [/us/usc/t15/s1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1058
-[/us/pl/111/146/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F146%2Fs3%2Fc%2F1
-[/us/pl/111/146/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F146%2Fs3%2Fc%2F1
-[/us/pl/111/146/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F146%2Fs3%2Fc%2F1
+[/us/pl/111/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F146
+[/us/pl/111/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F146
+[/us/pl/111/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F146
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
-[/us/pl/100/667/s120/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs120%2F1
-[/us/pl/100/667/s120/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs120%2F2
-[/us/pl/100/667/s120/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs120%2F3
-[/us/pl/100/667/s120/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs120%2F4
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
+[/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
@@ -205,7 +205,7 @@
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/pl/87/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772
 [/us/pl/85/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F609
-[/us/pl/112/29/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29%2Fs9%2Fb
+[/us/pl/112/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F29
 [/us/stat/125/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F316
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113

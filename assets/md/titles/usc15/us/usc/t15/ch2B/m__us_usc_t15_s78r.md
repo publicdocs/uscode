@@ -27,7 +27,7 @@
 
         No action shall be maintained to enforce any liability created under this section unless brought within one year after the discovery of the facts constituting the cause of action and within three years after such cause of action accrued.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 18, [48 Stat. 897][/us/stat/48/897]; [May 27, 1936, ch. 462, § 5][/us/act/1936-05-27/ch462/s5], [49 Stat. 1379][/us/stat/49/1379].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 18, [48 Stat. 897][/us/stat/48/897]; [May 27, 1936, ch. 462][/us/act/1936-05-27/ch462], § 5, [49 Stat. 1379][/us/stat/49/1379].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F897
-[/us/act/1936-05-27/ch462/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch462%2Fs5
+[/us/act/1936-05-27/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch462
 [/us/stat/49/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1379
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 

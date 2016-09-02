@@ -23,7 +23,7 @@
 
     (3) to any so-called claw, crane, or digger machine and similar devices which are not operated by coin, are actuated by a crank, and are designed and manufactured primarily for use at carnivals or county or State fairs.
 
-([Jan. 2, 1951, ch. 1194, § 9][/us/act/1951-01-02/ch1194/s9], as added [Pub. L. 87–840, § 6][/us/pl/87/840/s6], Oct. 18, 1962, [76 Stat. 1077][/us/stat/76/1077].)
+([Jan. 2, 1951, ch. 1194][/us/act/1951-01-02/ch1194], § 9, as added [Pub. L. 87–840][/us/pl/87/840], § 6, Oct. 18, 1962, [76 Stat. 1077][/us/stat/76/1077].)
 
  __Effective Date__ 
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/act/1951-01-02/ch1194/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-02%2Fch1194%2Fs9
-[/us/pl/87/840/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F840%2Fs6
+[/us/act/1951-01-02/ch1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-02%2Fch1194
+[/us/pl/87/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F840
 [/us/stat/76/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1077
 [/us/pl/87/840/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F840%2Fs7
 [/us/usc/t15/s1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1171

@@ -51,7 +51,7 @@
 
         In making grants under this chapter, the Administrator shall ensure that any application made by a qualified organization that is a participant in the program established under [section 636(m) of this title][/us/usc/t15/s636/m] does not receive preferential consideration over applications from other qualified organizations that are not participants in such program.
 
-([Pub. L. 103–325, title I, § 176][/us/pl/103/325/s176], as added [Pub. L. 106–102, title VII, § 725][/us/pl/106/102/s725], Nov. 12, 1999, [113 Stat. 1473][/us/stat/113/1473].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 176, as added [Pub. L. 106–102, title VII][/us/pl/106/102/tVII], § 725, Nov. 12, 1999, [113 Stat. 1473][/us/stat/113/1473].)
 
 ----------
 
@@ -63,8 +63,8 @@
 [/us/usc/t15/s6903/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6903%2F1
 [/us/usc/t15/s6903/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6903%2F2
 [/us/usc/t15/s636/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fm
-[/us/pl/103/325/s176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs176
-[/us/pl/106/102/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs725
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
+[/us/pl/106/102/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtVII
 [/us/stat/113/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1473
 
 

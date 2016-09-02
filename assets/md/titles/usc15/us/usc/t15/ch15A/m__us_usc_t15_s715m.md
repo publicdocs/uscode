@@ -17,7 +17,7 @@
 
     The Secretary of the Interior, in carrying out this chapter, is authorized to cooperate with Federal and State authorities.
 
-([June 25, 1946, ch. 472, § 3][/us/act/1946-06-25/ch472/s3], [60 Stat. 307][/us/stat/60/307].)
+([June 25, 1946, ch. 472][/us/act/1946-06-25/ch472], § 3, [60 Stat. 307][/us/stat/60/307].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1946-06-25/ch472/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-25%2Fch472%2Fs3
+[/us/act/1946-06-25/ch472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-25%2Fch472
 [/us/stat/60/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F307
 [/us/usc/t15/s715j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs715j
 

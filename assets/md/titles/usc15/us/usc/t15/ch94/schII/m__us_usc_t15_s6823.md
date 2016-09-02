@@ -23,7 +23,7 @@
 
         Whoever violates, or attempts to violate, [section 6821 of this title][/us/usc/t15/s6821] while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period shall be fined twice the amount provided in subsection (b)(3) or (c)(3) (as the case may be) of [section 3571 of title 18][/us/usc/t18/s3571], imprisoned for not more than 10 years, or both.
 
-([Pub. L. 106–102, title V, § 523][/us/pl/106/102/s523], Nov. 12, 1999, [113 Stat. 1448][/us/stat/113/1448].)
+([Pub. L. 106–102, title V][/us/pl/106/102/tV], § 523, Nov. 12, 1999, [113 Stat. 1448][/us/stat/113/1448].)
 
 ----------
 
@@ -35,7 +35,7 @@
 [/us/usc/t15/s6821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6821
 [/us/usc/t15/s6821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6821
 [/us/usc/t18/s3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3571
-[/us/pl/106/102/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs523
+[/us/pl/106/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtV
 [/us/stat/113/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1448
 
 

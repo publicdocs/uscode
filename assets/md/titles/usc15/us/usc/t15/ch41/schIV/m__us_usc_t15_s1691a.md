@@ -29,13 +29,13 @@
 
     (g) Any reference to any requirement imposed under this subchapter or any provision thereof includes reference to the regulations of the Bureau under this subchapter or the provision thereof in question.
 
-([Pub. L. 90–321, title VII, § 702][/us/pl/90/321/s702], as added [Pub. L. 93–495, title V, § 503][/us/pl/93/495/s503], Oct. 28, 1974, [88 Stat. 1522][/us/stat/88/1522]; amended [Pub. L. 111–203, title X, § 1085(1)][/us/pl/111/203/s1085/1], (2), July 21, 2010, [124 Stat. 2083][/us/stat/124/2083].)
+([Pub. L. 90–321, title VII][/us/pl/90/321/tVII], § 702, as added [Pub. L. 93–495, title V][/us/pl/93/495/tV], § 503, Oct. 28, 1974, [88 Stat. 1522][/us/stat/88/1522]; amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1085(1), (2), July 21, 2010, [124 Stat. 2083][/us/stat/124/2083].)
 
  __Amendments__ 
 
-    2010—Subsec. (c). [Pub. L. 111–203, § 1085(2)][/us/pl/111/203/s1085/2], added subsec. (c) and struck out former subsec. (c) which read as follows: “The term ‘Board’ refers to the Board of Governors of the Federal Reserve System.”
+    2010—Subsec. (c). [Pub. L. 111–203][/us/pl/111/203], § 1085(2), added subsec. (c) and struck out former subsec. (c) which read as follows: “The term ‘Board’ refers to the Board of Governors of the Federal Reserve System.”
 
-    Subsec. (g). [Pub. L. 111–203, § 1085(1)][/us/pl/111/203/s1085/1], substituted “Bureau” for “Board”.
+    Subsec. (g). [Pub. L. 111–203][/us/pl/111/203], § 1085(1), substituted “Bureau” for “Board”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -48,13 +48,13 @@
 ----------
 ----------
 
-[/us/pl/90/321/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs702
-[/us/pl/93/495/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs503
+[/us/pl/90/321/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVII
+[/us/pl/93/495/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtV
 [/us/stat/88/1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1522
-[/us/pl/111/203/s1085/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1085%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2083
-[/us/pl/111/203/s1085/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1085%2F2
-[/us/pl/111/203/s1085/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1085%2F1
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

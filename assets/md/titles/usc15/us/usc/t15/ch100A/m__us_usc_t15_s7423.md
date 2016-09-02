@@ -17,7 +17,7 @@
 
     No additional funds are authorized to carry out this Act, and the amendments made by this Act. This Act, and the amendments made by this Act, shall be carried out using amounts otherwise authorized or appropriated.
 
-([Pub. L. 113–274, § 4][/us/pl/113/274/s4], Dec. 18, 2014, [128 Stat. 2972][/us/stat/128/2972].)
+([Pub. L. 113–274][/us/pl/113/274], § 4, Dec. 18, 2014, [128 Stat. 2972][/us/stat/128/2972].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/113/274/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs4
+[/us/pl/113/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274
 [/us/stat/128/2972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2972
 [/us/pl/113/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274
 [/us/stat/128/2971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2971

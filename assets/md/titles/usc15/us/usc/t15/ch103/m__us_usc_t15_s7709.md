@@ -29,7 +29,7 @@
 
         (3) analysis and recommendations concerning options for protecting consumers, including children, from the receipt and viewing of commercial electronic mail that is obscene or pornographic.
 
-([Pub. L. 108–187, § 10][/us/pl/108/187/s10], Dec. 16, 2003, [117 Stat. 2716][/us/stat/117/2716].)
+([Pub. L. 108–187][/us/pl/108/187], § 10, Dec. 16, 2003, [117 Stat. 2716][/us/stat/117/2716].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/108/187/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs10
+[/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2716
 [/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2699

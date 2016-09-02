@@ -65,7 +65,7 @@
 
             (D) uses natural gas in any other use the curtailment of which the Secretary of Energy determines would endanger life, health, or maintenance of physical property.
 
-([Pub. L. 95–621, title IV, § 401][/us/pl/95/621/s401], Nov. 9, 1978, [92 Stat. 3394][/us/stat/92/3394].)
+([Pub. L. 95–621, title IV][/us/pl/95/621/tIV], § 401, Nov. 9, 1978, [92 Stat. 3394][/us/stat/92/3394].)
 
 ----------
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/95/621/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs401
+[/us/pl/95/621/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2FtIV
 [/us/stat/92/3394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3394
 
 

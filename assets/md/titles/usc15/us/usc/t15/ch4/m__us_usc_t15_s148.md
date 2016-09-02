@@ -17,7 +17,7 @@
 
     No share of stock of a China Trade Act corporation shall, for the purposes of [section 147 of this title][/us/usc/t15/s147] or of subdivision (d) of [section 144 of this title][/us/usc/t15/s144], be held paid in real or personal property unless (1) a certificate describing the property and stating the value at which it is to be received has been filed by the corporation with the Secretary or the registrar in such manner as shall be by regulation prescribed, and a fee to be fixed by the Secretary or the registrar, respectively, to cover the cost of any necessary investigation has been paid, and (2) the Secretary or the registrar, as the case may be, finds and has certified to the corporation that such value is not more than the fair market value of the property.
 
-([Sept. 19, 1922, ch. 346, § 8][/us/act/1922-09-19/ch346/s8], [42 Stat. 851][/us/stat/42/851].)
+([Sept. 19, 1922, ch. 346][/us/act/1922-09-19/ch346], § 8, [42 Stat. 851][/us/stat/42/851].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t15/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs147
 [/us/usc/t15/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs144
-[/us/act/1922-09-19/ch346/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346%2Fs8
+[/us/act/1922-09-19/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346
 [/us/stat/42/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F851
 [/us/usc/t15/s144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs144
 [/us/usc/t15/s144/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs144%2Fb%2F7

@@ -89,7 +89,7 @@
 
         The Secretary shall arrange for participation and review by representatives of each affected industry and by labor in the updating of the management and research plans and in the evaluation of the progress of research and development activities for their industry conducted under this chapter.
 
-([Pub. L. 100–680, § 4][/us/pl/100/680/s4], Nov. 17, 1988, [102 Stat. 4074][/us/stat/102/4074]; [Pub. L. 102–486, title XXI, § 2106(a)(1)][/us/pl/102/486/s2106/a/1], Oct. 24, 1992, [106 Stat. 3070][/us/stat/106/3070]; [Pub. L. 110–229, title VI, § 602(b)][/us/pl/110/229/s602/b], May 8, 2008, [122 Stat. 853][/us/stat/122/853].)
+([Pub. L. 100–680][/us/pl/100/680], § 4, Nov. 17, 1988, [102 Stat. 4074][/us/stat/102/4074]; [Pub. L. 102–486, title XXI][/us/pl/102/486/tXXI], § 2106(a)(1), Oct. 24, 1992, [106 Stat. 3070][/us/stat/106/3070]; [Pub. L. 110–229, title VI][/us/pl/110/229/tVI], § 602(b), May 8, 2008, [122 Stat. 853][/us/stat/122/853].)
 
  __References in Text__ 
 
@@ -97,9 +97,9 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c)(1)(H). [Pub. L. 110–229, § 602(b)(1)][/us/pl/110/229/s602/b/1], substituted “sheet and bar steels” for “coatings for sheet steels”.
+    2008—Subsec. (c)(1)(H). [Pub. L. 110–229][/us/pl/110/229], § 602(b)(1), substituted “sheet and bar steels” for “coatings for sheet steels”.
 
-    Subsec. (c)(1)(K). [Pub. L. 110–229, § 602(b)(2)][/us/pl/110/229/s602/b/2], added subpar. (K).
+    Subsec. (c)(1)(K). [Pub. L. 110–229][/us/pl/110/229], § 602(b)(2), added subpar. (K).
 
     1992—Subsec. (b)(5). [Pub. L. 102–486][/us/pl/102/486] substituted “Industrial Technologies” for “Industrial Programs”.
 
@@ -112,17 +112,17 @@
 
 [/us/usc/t42/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5901
 [/us/usc/t15/s5104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5104%2Fa
-[/us/pl/100/680/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F680%2Fs4
+[/us/pl/100/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F680
 [/us/stat/102/4074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4074
-[/us/pl/102/486/s2106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2106%2Fa%2F1
+[/us/pl/102/486/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXI
 [/us/stat/106/3070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3070
-[/us/pl/110/229/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs602%2Fb
+[/us/pl/110/229/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2FtVI
 [/us/stat/122/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F853
 [/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
 [/us/stat/88/1878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1878
 [/us/usc/t42/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5901
-[/us/pl/110/229/s602/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs602%2Fb%2F1
-[/us/pl/110/229/s602/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229%2Fs602%2Fb%2F2
+[/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
+[/us/pl/110/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F229
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 
 

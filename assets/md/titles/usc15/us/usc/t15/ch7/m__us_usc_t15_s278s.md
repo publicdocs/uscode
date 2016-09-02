@@ -347,7 +347,7 @@
 
         Chapter 18 of title 35 shall apply to any funding agreement (as defined in section 201 of that title) awarded to new or existing centers for manufacturing innovation.
 
-([Mar. 3, 1901, ch. 872, § 34][/us/act/1901-03-03/ch872/s34], as added [Pub. L. 113–235, div. B, title VII, § 703(2)][/us/pl/113/235/s703/2], Dec. 16, 2014, [128 Stat. 2221][/us/stat/128/2221].)
+([Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 34, as added [Pub. L. 113–235, div. B, title VII][/us/pl/113/235/dB/tVII], § 703(2), Dec. 16, 2014, [128 Stat. 2221][/us/stat/128/2221].)
 
  __References in Text__ 
 
@@ -359,7 +359,7 @@
 
  __Findings__ 
 
-[Pub. L. 113–235, div. B, title VII, § 702][/us/pl/113/235/s702], Dec. 16, 2014, [128 Stat. 2220][/us/stat/128/2220], provided that: 
+[Pub. L. 113–235, div. B, title VII][/us/pl/113/235/dB/tVII], § 702, Dec. 16, 2014, [128 Stat. 2220][/us/stat/128/2220], provided that: 
 
 > “Congress finds the following:
 
@@ -383,15 +383,15 @@
 ----------
 
 [/us/usc/t5/s3132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa
-[/us/act/1901-03-03/ch872/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs34
-[/us/pl/113/235/s703/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs703%2F2
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
+[/us/pl/113/235/dB/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdB%2FtVII
 [/us/stat/128/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2221
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/stat/128/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2220
 [/us/usc/t15/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs271
 [/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
 [/us/usc/t15/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs271
-[/us/pl/113/235/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs702
+[/us/pl/113/235/dB/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdB%2FtVII
 [/us/stat/128/2220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2220
 
 

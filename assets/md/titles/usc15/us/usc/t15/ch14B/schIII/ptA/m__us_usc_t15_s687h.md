@@ -11,46 +11,28 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687g.md) | [Next](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687k.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687h)
+[Previous](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687g.md) | [Next](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687i _us_usc_t15_s687j.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687h)
 
 ## § 687h. Jurisdiction and service of process
 
     Any suit or action brought under section 687, 687a, 687c, 687e, or 687g of this title by the Administration at law or in equity to enforce any liability or duty created by, or to enjoin any violation of, this chapter, or any rule, regulation, or order promulgated thereunder, shall be brought in the district wherein the licensee maintains its principal office, and process in such cases may be served in any district in which the defendant maintains its principal office or transacts business, or wherever the defendant may be found.
 
-([Pub. L. 85–699, title III, § 316][/us/pl/85/699/s316], as added [Pub. L. 89–779, § 7][/us/pl/89/779/s7], Nov. 6, 1966, [80 Stat. 1364][/us/stat/80/1364].)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 316, as added [Pub. L. 89–779][/us/pl/89/779], § 7, Nov. 6, 1966, [80 Stat. 1364][/us/stat/80/1364].)
 
  __References in Text__ 
 
     For definition of “this chapter”, referred to in text, see References in Text note set out under [section 661 of this title][/us/usc/t15/s661].
 
-§§ 687i, 687j. __Repealed.__  __[__  __Pub. L. 104–208, div. D, title II, § 208(h)(1)(E)__  __][/us/pl/104/208/s208/h/1/E]__  __,__  __Sept. 30, 1996__  __,__  __[__  __110 Stat. 3009–747__  __][/us/stat/110/3009-747]__ 
-
-    Section 687i, [Pub. L. 85–699, title III, § 317][/us/pl/85/699/s317], as added [Pub. L. 92–595, § 2(g)][/us/pl/92/595/s2/g], Oct. 27, 1972, [86 Stat. 1316][/us/stat/86/1316]; amended [Pub. L. 95–507, title I, § 103][/us/pl/95/507/s103], Oct. 24, 1978, [92 Stat. 1758][/us/stat/92/1758], established effective rate of interest of debentures purchased by Administration from small business investment company under authority of [section 683(c) of this title][/us/usc/t15/s683/c].
-
-    Section 687j, [Pub. L. 85–699, title III, § 318][/us/pl/85/699/s318], as added [Pub. L. 92–595, § 2(g)][/us/pl/92/595/s2/g], Oct. 27, 1972, [86 Stat. 1316][/us/stat/86/1316], authorized Administration to extend benefits of sections 683(c) and 687i of this title to any small business investment company operating under authority of [section 681(d) of this title][/us/usc/t15/s681/d], and which was owned, in whole or in part, by one or more small business investment companies, in accordance with regulations promulgated by Administration.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687g.md) | [Next](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687k.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687h)
+[Previous](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687g.md) | [Next](./../../../../../..//us/usc/t15/ch14B/schIII/ptA/m__us_usc_t15_s687i _us_usc_t15_s687j.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687h)
 
 ----------
 ----------
 
-[/us/pl/85/699/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs316
-[/us/pl/89/779/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779%2Fs7
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/89/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779
 [/us/stat/80/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1364
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
-[/us/pl/104/208/s208/h/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fh%2F1%2FE
-[/us/stat/110/3009-747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-747
-[/us/pl/85/699/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs317
-[/us/pl/92/595/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595%2Fs2%2Fg
-[/us/stat/86/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1316
-[/us/pl/95/507/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507%2Fs103
-[/us/stat/92/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1758
-[/us/usc/t15/s683/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs683%2Fc
-[/us/pl/85/699/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs318
-[/us/pl/92/595/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595%2Fs2%2Fg
-[/us/stat/86/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1316
-[/us/usc/t15/s681/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681%2Fd
 
 

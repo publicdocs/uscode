@@ -33,21 +33,21 @@
 
         If a card issuer makes a material change in the mailing address, office, or procedures for handling cardholder payments, and such change causes a material delay in the crediting of a cardholder payment made during the 60-day period following the date on which such change took effect, the card issuer may not impose any late fee or finance charge for a late payment on the credit card account to which such payment was credited.
 
-([Pub. L. 90–321, title I, § 164][/us/pl/90/321/s164], as added [Pub. L. 93–495, title III, § 306][/us/pl/93/495/s306], Oct. 28, 1974, [88 Stat. 1514][/us/stat/88/1514]; amended [Pub. L. 111–24, title I, § 104][/us/pl/111/24/s104], May 22, 2009, [123 Stat. 1741][/us/stat/123/1741]; [Pub. L. 111–203, title X][/us/pl/111/203], §§ 1087, 1100A(2), July 21, 2010, [124 Stat. 2086][/us/stat/124/2086], 2107.)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 164, as added [Pub. L. 93–495, title III][/us/pl/93/495/tIII], § 306, Oct. 28, 1974, [88 Stat. 1514][/us/stat/88/1514]; amended [Pub. L. 111–24, title I][/us/pl/111/24/tI], § 104, May 22, 2009, [123 Stat. 1741][/us/stat/123/1741]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], §§ 1087, 1100A(2), July 21, 2010, [124 Stat. 2086][/us/stat/124/2086], 2107.)
 
  __Codification__ 
 
-    Pub L. 111–203, § 1100A(2), which directed the substitution of “Bureau” for “Board” wherever appearing in title I of [Pub. L. 90–321][/us/pl/90/321], was executed to this section, which is [section 164 of title I of Pub. L. 90–321][/us/pl/90/321/s164]. [Section 1087 of Pub. L. 111–203][/us/pl/111/203/s1087], which directed the making of an identical amendment in title III of [Pub. L. 93–495][/us/pl/93/495], which added this section to title I of [Pub. L. 90–321][/us/pl/90/321], has not been executed.
+    Pub L. 111–203, § 1100A(2), which directed the substitution of “Bureau” for “Board” wherever appearing in title I of [Pub. L. 90–321][/us/pl/90/321], was executed to this section, which is [section 164 of title I of Pub. L. 90–321][/us/pl/90/321/tI/s164]. [Section 1087 of Pub. L. 111–203][/us/pl/111/203/s1087], which directed the making of an identical amendment in title III of [Pub. L. 93–495][/us/pl/93/495], which added this section to title I of [Pub. L. 90–321][/us/pl/90/321], has not been executed.
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], substituted “Bureau” for “Board”. See Codification note above.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 1100A(2), substituted “Bureau” for “Board”. See Codification note above.
 
-    2009—[Pub. L. 111–24, § 104(1)][/us/pl/111/24/s104/1], substituted “Prompt and fair crediting of payments” for “Prompt crediting of payments” in section catchline, designated existing provisions as subsec. (a), and inserted subsec. (a) heading.
+    2009—[Pub. L. 111–24][/us/pl/111/24], § 104(1), substituted “Prompt and fair crediting of payments” for “Prompt crediting of payments” in section catchline, designated existing provisions as subsec. (a), and inserted subsec. (a) heading.
 
-    Subsec. (a). [Pub. L. 111–24, § 104(2)][/us/pl/111/24/s104/2], (3), inserted “, by 5:00 p.m. on the date on which such payment is due,” after “in readily identifiable form” and substituted “manner, and location” for “manner, location, and time”.
+    Subsec. (a). [Pub. L. 111–24][/us/pl/111/24], § 104(2), (3), inserted “, by 5:00 p.m. on the date on which such payment is due,” after “in readily identifiable form” and substituted “manner, and location” for “manner, location, and time”.
 
-    Subsecs. (b), (c). [Pub. L. 111–24, § 104(4)][/us/pl/111/24/s104/4], added subsecs. (b) and (c).
+    Subsecs. (b), (c). [Pub. L. 111–24][/us/pl/111/24], § 104(4), added subsecs. (b) and (c).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -64,22 +64,22 @@
 ----------
 ----------
 
-[/us/pl/90/321/s164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs164
-[/us/pl/93/495/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs306
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/93/495/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtIII
 [/us/stat/88/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1514
-[/us/pl/111/24/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs104
+[/us/pl/111/24/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtI
 [/us/stat/123/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1741
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2086
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
-[/us/pl/90/321/s164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs164
+[/us/pl/90/321/tI/s164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI%2Fs164
 [/us/pl/111/203/s1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1087
 [/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
-[/us/pl/111/24/s104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs104%2F1
-[/us/pl/111/24/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs104%2F2
-[/us/pl/111/24/s104/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs104%2F4
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24
+[/us/pl/111/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24
+[/us/pl/111/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

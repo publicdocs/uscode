@@ -101,15 +101,15 @@
 
         The term “use” includes the consumption, storage, handling, or disposal of cigarettes or smokeless tobacco.
 
-([Oct. 19, 1949, ch. 699, § 1][/us/act/1949-10-19/ch699/s1], as added [Pub. L. 111–154, § 2(a)][/us/pl/111/154/s2/a], Mar. 31, 2010, [124 Stat. 1088][/us/stat/124/1088].)
+([Oct. 19, 1949, ch. 699][/us/act/1949-10-19/ch699], § 1, as added [Pub. L. 111–154][/us/pl/111/154], § 2(a), Mar. 31, 2010, [124 Stat. 1088][/us/stat/124/1088].)
 
  __Prior Provisions__ 
 
-    A prior section 375, [act Oct. 19, 1949, ch. 699, § 1][/us/act/1949-10-19/ch699/s1], [63 Stat. 884][/us/stat/63/884]; [Aug. 9, 1955, ch. 695, § 1][/us/act/1955-08-09/ch695/s1], [69 Stat. 627][/us/stat/69/627], set out definitions for this chapter, prior to repeal by [Pub. L. 111–154, § 2(a)][/us/pl/111/154/s2/a], Mar. 31, 2010, [124 Stat. 1088][/us/stat/124/1088].
+    A prior section 375, [act Oct. 19, 1949, ch. 699][/us/act/1949-10-19/ch699], § 1, [63 Stat. 884][/us/stat/63/884]; [Aug. 9, 1955, ch. 695][/us/act/1955-08-09/ch695], § 1, [69 Stat. 627][/us/stat/69/627], set out definitions for this chapter, prior to repeal by [Pub. L. 111–154][/us/pl/111/154], § 2(a), Mar. 31, 2010, [124 Stat. 1088][/us/stat/124/1088].
 
  __Effective Date__ 
 
-[Pub. L. 111–154, § 6][/us/pl/111/154/s6], Mar. 31, 2010, [124 Stat. 1110][/us/stat/124/1110], provided that:
+[Pub. L. 111–154][/us/pl/111/154], § 6, Mar. 31, 2010, [124 Stat. 1110][/us/stat/124/1110], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -121,7 +121,7 @@
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–154, § 1(a)][/us/pl/111/154/s1/a], Mar. 31, 2010, [124 Stat. 1087][/us/stat/124/1087], provided that: 
+[Pub. L. 111–154][/us/pl/111/154], § 1(a), Mar. 31, 2010, [124 Stat. 1087][/us/stat/124/1087], provided that: 
 
 > “This Act \[enacting this section, sections 376a, 377, and 378 of this title, and [section 1716E of Title 18][/us/usc/t18/s1716E], Crimes and Criminal Procedure, amending [section 376 of this title][/us/usc/t15/s376] and [section 2343 of Title 18][/us/usc/t18/s2343], repealing former sections 375, 377, and 378 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Prevent All Cigarette Trafficking Act of 2009’ or ‘PACT Act’.”
 
@@ -131,13 +131,13 @@
 
  __Severability__ 
 
-[Pub. L. 111–154, § 7][/us/pl/111/154/s7], Mar. 31, 2010, [124 Stat. 1111][/us/stat/124/1111], provided that: 
+[Pub. L. 111–154][/us/pl/111/154], § 7, Mar. 31, 2010, [124 Stat. 1111][/us/stat/124/1111], provided that: 
 
 > “If any provision of this Act \[see Short Title of 2010 Amendment note above\], or any amendment made by this Act, or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of the Act to any other person or circumstance shall not be affected thereby.”
 
  __Findings and Purpose__ 
 
-[Pub. L. 111–154, § 1(b)][/us/pl/111/154/s1/b], (c), Mar. 31, 2010, [124 Stat. 1087][/us/stat/124/1087], 1088, provided that:
+[Pub. L. 111–154][/us/pl/111/154], § 1(b), (c), Mar. 31, 2010, [124 Stat. 1087][/us/stat/124/1087], 1088, provided that:
 
 >     “(b)  __Findings__  __.—__ 
 
@@ -181,7 +181,7 @@
 
  __Exclusions Regarding Indian Tribes and Tribal Matters__ 
 
-[Pub. L. 111–154, § 5][/us/pl/111/154/s5], Mar. 31, 2010, [124 Stat. 1109][/us/stat/124/1109], provided that:
+[Pub. L. 111–154][/us/pl/111/154], § 5, Mar. 31, 2010, [124 Stat. 1109][/us/stat/124/1109], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -240,30 +240,30 @@
 [/us/usc/t18/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1151
 [/us/usc/t25/s450b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fe
 [/us/usc/t25/s479a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs479a%E2%80%931
-[/us/act/1949-10-19/ch699/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-19%2Fch699%2Fs1
-[/us/pl/111/154/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154%2Fs2%2Fa
+[/us/act/1949-10-19/ch699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-19%2Fch699
+[/us/pl/111/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154
 [/us/stat/124/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1088
-[/us/act/1949-10-19/ch699/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-19%2Fch699%2Fs1
+[/us/act/1949-10-19/ch699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-19%2Fch699
 [/us/stat/63/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F884
-[/us/act/1955-08-09/ch695/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch695%2Fs1
+[/us/act/1955-08-09/ch695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch695
 [/us/stat/69/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F627
-[/us/pl/111/154/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154%2Fs2%2Fa
+[/us/pl/111/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154
 [/us/stat/124/1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1088
-[/us/pl/111/154/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154%2Fs6
+[/us/pl/111/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154
 [/us/stat/124/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1110
 [/us/usc/t18/s2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2343
-[/us/pl/111/154/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154%2Fs1%2Fa
+[/us/pl/111/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154
 [/us/stat/124/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1087
 [/us/usc/t18/s1716E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1716E
 [/us/usc/t15/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs376
 [/us/usc/t18/s2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2343
 [/us/act/1949-10-19/ch699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-19%2Fch699
 [/us/stat/63/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F884
-[/us/pl/111/154/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154%2Fs7
+[/us/pl/111/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154
 [/us/stat/124/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1111
-[/us/pl/111/154/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154%2Fs1%2Fb
+[/us/pl/111/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154
 [/us/stat/124/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1087
-[/us/pl/111/154/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154%2Fs5
+[/us/pl/111/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F154
 [/us/stat/124/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1109
 [/us/usc/t25/s450b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fe
 [/us/usc/t15/s375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs375

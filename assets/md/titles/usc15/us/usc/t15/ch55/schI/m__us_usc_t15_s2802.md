@@ -217,13 +217,13 @@
 
         (2) if such termination or nonrenewal is based upon an event described in subsection (c)(7) and the leased marketing premises are subsequently rebuilt or replaced by the franchisor and operated under a franchise, the franchisor shall, within a reasonable period of time, grant to the franchisee a right of first refusal of the franchise under which such premises are to be operated.
 
-([Pub. L. 95–297, title I, § 102][/us/pl/95/297/s102], June 19, 1978, [92 Stat. 324][/us/stat/92/324]; [Pub. L. 103–371][/us/pl/103/371], §§ 2, 3, Oct. 19, 1994, [108 Stat. 3484][/us/stat/108/3484].)
+([Pub. L. 95–297, title I][/us/pl/95/297/tI], § 102, June 19, 1978, [92 Stat. 324][/us/stat/92/324]; [Pub. L. 103–371][/us/pl/103/371], §§ 2, 3, Oct. 19, 1994, [108 Stat. 3484][/us/stat/108/3484].)
 
  __Amendments__ 
 
-    1994—Subsec. (b)(3)(A)(ii). [Pub. L. 103–371, § 2][/us/pl/103/371/s2], inserted “converting the leased marketing premises to operation by employees or agents of the franchisor for the benefit of the franchisor or otherwise” after “purpose of”.
+    1994—Subsec. (b)(3)(A)(ii). [Pub. L. 103–371][/us/pl/103/371], § 2, inserted “converting the leased marketing premises to operation by employees or agents of the franchisor for the benefit of the franchisor or otherwise” after “purpose of”.
 
-    Subsec. (c)(4). [Pub. L. 103–371, § 3][/us/pl/103/371/s3], redesignated portion of introductory language of par. (4) as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpars. (B) and (C).
+    Subsec. (c)(4). [Pub. L. 103–371][/us/pl/103/371], § 3, redesignated portion of introductory language of par. (4) as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpars. (B) and (C).
 
 ----------
 
@@ -245,11 +245,11 @@
 [/us/usc/t15/s2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2804
 [/us/usc/t15/s2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2804
 [/us/usc/t15/s2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2804
-[/us/pl/95/297/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2Fs102
+[/us/pl/95/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2FtI
 [/us/stat/92/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F324
 [/us/pl/103/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F371
 [/us/stat/108/3484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3484
-[/us/pl/103/371/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F371%2Fs2
-[/us/pl/103/371/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F371%2Fs3
+[/us/pl/103/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F371
+[/us/pl/103/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F371
 
 

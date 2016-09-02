@@ -45,7 +45,7 @@
 
         (3) the impact of abandoned calls made by predictive dialing devices on do-not-call enforcement.
 
-([Pub. L. 108–10, § 4][/us/pl/108/10/s4], Mar. 11, 2003, [117 Stat. 557][/us/stat/117/557]; [Pub. L. 110–188, § 3][/us/pl/110/188/s3], Feb. 15, 2008, [122 Stat. 637][/us/stat/122/637].)
+([Pub. L. 108–10][/us/pl/108/10], § 4, Mar. 11, 2003, [117 Stat. 557][/us/stat/117/557]; [Pub. L. 110–188][/us/pl/110/188], § 3, Feb. 15, 2008, [122 Stat. 637][/us/stat/122/637].)
 
  __Amendments__ 
 
@@ -58,9 +58,9 @@
 ----------
 ----------
 
-[/us/pl/108/10/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F10%2Fs4
+[/us/pl/108/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F10
 [/us/stat/117/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F557
-[/us/pl/110/188/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F188%2Fs3
+[/us/pl/110/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F188
 [/us/stat/122/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F637
 [/us/pl/110/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F188
 

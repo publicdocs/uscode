@@ -171,7 +171,7 @@
 
             Not later than 60 days after promulgation of a rule under paragraph (1), any person adversely affected by such rule may file a petition for review under the procedures set forth in [section 2060 of this title][/us/usc/t15/s2060].
 
-([Pub. L. 92–573, § 15][/us/pl/92/573/s15], Oct. 27, 1972, [86 Stat. 1221][/us/stat/86/1221]; [Pub. L. 94–284, § 12(a)][/us/pl/94/284/s12/a], May 11, 1976, [90 Stat. 508][/us/stat/90/508]; [Pub. L. 97–35, title XII, § 1211(h)(4)][/us/pl/97/35/s1211/h/4], Aug. 13, 1981, [95 Stat. 723][/us/stat/95/723]; [Pub. L. 97–414, § 9(j)(3)][/us/pl/97/414/s9/j/3], (m), Jan. 4, 1983, [96 Stat. 2064][/us/stat/96/2064], 2065; [Pub. L. 100–418, title I, § 1214(d)][/us/pl/100/418/s1214/d], Aug. 23, 1988, [102 Stat. 1156][/us/stat/102/1156]; [Pub. L. 101–608, title I][/us/pl/101/608], §§ 111(a)(2), 112(a), 113, Nov. 16, 1990, [104 Stat. 3114][/us/stat/104/3114], 3115, 3117; [Pub. L. 110–314, title II][/us/pl/110/314], §§ 214, 223(a), Aug. 14, 2008, [122 Stat. 3052][/us/stat/122/3052], 3068.)
+([Pub. L. 92–573][/us/pl/92/573], § 15, Oct. 27, 1972, [86 Stat. 1221][/us/stat/86/1221]; [Pub. L. 94–284][/us/pl/94/284], § 12(a), May 11, 1976, [90 Stat. 508][/us/stat/90/508]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1211(h)(4), Aug. 13, 1981, [95 Stat. 723][/us/stat/95/723]; [Pub. L. 97–414][/us/pl/97/414], § 9(j)(3), (m), Jan. 4, 1983, [96 Stat. 2064][/us/stat/96/2064], 2065; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1214(d), Aug. 23, 1988, [102 Stat. 1156][/us/stat/102/1156]; [Pub. L. 101–608, title I][/us/pl/101/608/tI], §§ 111(a)(2), 112(a), 113, Nov. 16, 1990, [104 Stat. 3114][/us/stat/104/3114], 3115, 3117; [Pub. L. 110–314, title II][/us/pl/110/314/tII], §§ 214, 223(a), Aug. 14, 2008, [122 Stat. 3052][/us/stat/122/3052], 3068.)
 
  __References in Text__ 
 
@@ -179,69 +179,69 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–314, § 214(a)(1)][/us/pl/110/314/s214/a/1], inserted “under this chapter or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission” after “consumer product safety rule”.
+    2008—Subsec. (a)(1). [Pub. L. 110–314][/us/pl/110/314], § 214(a)(1), inserted “under this chapter or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission” after “consumer product safety rule”.
 
-    Subsec. (b). [Pub. L. 110–314, § 214(a)(2)(B)][/us/pl/110/314/s214/a/2/B]–(D), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and inserted “A report provided under paragraph (2) may not be used as the basis for criminal prosecution of the reporting person under [section 1264 of this title][/us/usc/t15/s1264], except for offenses which require a showing of intent to defraud or mislead.” at end of concluding provisions.
+    Subsec. (b). [Pub. L. 110–314][/us/pl/110/314], § 214(a)(2)(B)–(D), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and inserted “A report provided under paragraph (2) may not be used as the basis for criminal prosecution of the reporting person under [section 1264 of this title][/us/usc/t15/s1264], except for offenses which require a showing of intent to defraud or mislead.” at end of concluding provisions.
 
-    [Pub. L. 110–314, § 214(a)(2)(A)][/us/pl/110/314/s214/a/2/A], substituted “consumer product, or other product or substance over which the Commission has jurisdiction under any other Act enforced by the Commission (other than motor vehicle equipment as defined in [section 30102(a)(7) of title 49][/us/usc/t49/s30102/a/7]), distributed in commerce,” for “consumer product distributed in commerce,” in introductory provisions.
+    [Pub. L. 110–314][/us/pl/110/314], § 214(a)(2)(A), substituted “consumer product, or other product or substance over which the Commission has jurisdiction under any other Act enforced by the Commission (other than motor vehicle equipment as defined in [section 30102(a)(7) of title 49][/us/usc/t49/s30102/a/7]), distributed in commerce,” for “consumer product distributed in commerce,” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 110–314, § 214(a)(3)(A)][/us/pl/110/314/s214/a/3/A], (C), (D), designated existing provisions as par. (1), added subpars. (A) to (C), and redesignated former pars. (1) to (3) as subpars. (D) to (F), respectively.
+    Subsec. (c). [Pub. L. 110–314][/us/pl/110/314], § 214(a)(3)(A), (C), (D), designated existing provisions as par. (1), added subpars. (A) to (C), and redesignated former pars. (1) to (3) as subpars. (D) to (F), respectively.
 
-    Subsec. (c)(1). [Pub. L. 110–314, § 214(a)(3)(B)][/us/pl/110/314/s214/a/3/B], inserted “or if the Commission, after notifying the manufacturer, determines a product to be an imminently hazardous consumer product and has filed an action under [section 2061 of this title][/us/usc/t15/s2061],” after “such substantial product hazard,” in introductory provisions.
+    Subsec. (c)(1). [Pub. L. 110–314][/us/pl/110/314], § 214(a)(3)(B), inserted “or if the Commission, after notifying the manufacturer, determines a product to be an imminently hazardous consumer product and has filed an action under [section 2061 of this title][/us/usc/t15/s2061],” after “such substantial product hazard,” in introductory provisions.
 
-    Subsec. (c)(1)(D). [Pub. L. 110–314, § 214(a)(3)(E)][/us/pl/110/314/s214/a/3/E], substituted “comply, including posting clear and conspicuous notice on its Internet website, providing notice to any third party Internet website on which such manufacturer, retailer, distributor, or licensor has placed the product for sale, and announcements in languages other than English and on radio and television where the Commission determines that a substantial number of consumers to whom the recall is directed may not be reached by other notice.” for “comply.”
+    Subsec. (c)(1)(D). [Pub. L. 110–314][/us/pl/110/314], § 214(a)(3)(E), substituted “comply, including posting clear and conspicuous notice on its Internet website, providing notice to any third party Internet website on which such manufacturer, retailer, distributor, or licensor has placed the product for sale, and announcements in languages other than English and on radio and television where the Commission determines that a substantial number of consumers to whom the recall is directed may not be reached by other notice.” for “comply.”
 
-    Subsec. (c)(2), (3). [Pub. L. 110–314, § 214(a)(3)(F)][/us/pl/110/314/s214/a/3/F], added pars. (2) and (3).
+    Subsec. (c)(2), (3). [Pub. L. 110–314][/us/pl/110/314], § 214(a)(3)(F), added pars. (2) and (3).
 
-    Subsec. (d). [Pub. L. 110–314, § 214(b)(1)][/us/pl/110/314/s214/b/1], (4), inserted par. (1) designation before “If the Commission” and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively.
+    Subsec. (d). [Pub. L. 110–314][/us/pl/110/314], § 214(b)(1), (4), inserted par. (1) designation before “If the Commission” and redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively.
 
-    Subsec. (d)(1). [Pub. L. 110–314, § 214(b)(2)][/us/pl/110/314/s214/b/2], (3), in introductory provisions inserted “to provide the notice required by subsection (c) and” after “such product” and substituted “any one or more of the following actions it determines to be in the public interest:” for “whichever of the following actions the person to whom the order is directed elects:”.
+    Subsec. (d)(1). [Pub. L. 110–314][/us/pl/110/314], § 214(b)(2), (3), in introductory provisions inserted “to provide the notice required by subsection (c) and” after “such product” and substituted “any one or more of the following actions it determines to be in the public interest:” for “whichever of the following actions the person to whom the order is directed elects:”.
 
-    Subsec. (d)(1)(A), (B). [Pub. L. 110–314, § 214(b)(5)][/us/pl/110/314/s214/b/5], substituted “rule, regulation, standard, or ban” for “consumer product safety rule”.
+    Subsec. (d)(1)(A), (B). [Pub. L. 110–314][/us/pl/110/314], § 214(b)(5), substituted “rule, regulation, standard, or ban” for “consumer product safety rule”.
 
-    Subsec. (d)(1)(C). [Pub. L. 110–314, § 214(b)(6)][/us/pl/110/314/s214/b/6], (7), substituted “more (i)” for “more (A)” and “or (ii)” for “or (B)”.
+    Subsec. (d)(1)(C). [Pub. L. 110–314][/us/pl/110/314], § 214(b)(6), (7), substituted “more (i)” for “more (A)” and “or (ii)” for “or (B)”.
 
-    Subsec. (d)(2). [Pub. L. 110–314, § 214(b)(13)][/us/pl/110/314/s214/b/13], which directed substitution of “described in paragraph (1)(C).” for “described in paragraph (3).”, could not be executed because “paragraph (3)” did not appear subsequent to amendment by [Pub. L. 110–314, § 214(b)(11)][/us/pl/110/314/s214/b/11]. See below.
+    Subsec. (d)(2). [Pub. L. 110–314][/us/pl/110/314], § 214(b)(13), which directed substitution of “described in paragraph (1)(C).” for “described in paragraph (3).”, could not be executed because “paragraph (3)” did not appear subsequent to amendment by [Pub. L. 110–314][/us/pl/110/314], § 214(b)(11). See below.
 
-    [Pub. L. 110–314, § 214(b)(12)][/us/pl/110/314/s214/b/12], struck out “If an order under this subsection is directed to more than one person, the Commission shall specify which person has the election under this subsection” before “. An order under this subsection may prohibit”.
+    [Pub. L. 110–314][/us/pl/110/314], § 214(b)(12), struck out “If an order under this subsection is directed to more than one person, the Commission shall specify which person has the election under this subsection” before “. An order under this subsection may prohibit”.
 
-    [Pub. L. 110–314, § 214(b)(11)][/us/pl/110/314/s214/b/11], substituted “if the Commission orders the action described in subparagraph (C)” for “if the person to whom the order is directed elects to take the action described in paragraph (3)”.
+    [Pub. L. 110–314][/us/pl/110/314], § 214(b)(11), substituted “if the Commission orders the action described in subparagraph (C)” for “if the person to whom the order is directed elects to take the action described in paragraph (3)”.
 
-    [Pub. L. 110–314, § 214(b)(9)][/us/pl/110/314/s214/b/9], (10), substituted “for approval by the Commission,” for “satisfactory to the Commission,” and “subparagraphs under which such person has been ordered to act” for “paragraphs of this subsection under which such person has elected to act”.
+    [Pub. L. 110–314][/us/pl/110/314], § 214(b)(9), (10), substituted “for approval by the Commission,” for “satisfactory to the Commission,” and “subparagraphs under which such person has been ordered to act” for “paragraphs of this subsection under which such person has elected to act”.
 
-    [Pub. L. 110–314, § 214(b)(8)][/us/pl/110/314/s214/b/8], designated concluding provisions of subsec. (d) as par. (2) and substituted “shall also require” for “may also require”. Former par. (2) redesignated (1)(B).
+    [Pub. L. 110–314][/us/pl/110/314], § 214(b)(8), designated concluding provisions of subsec. (d) as par. (2) and substituted “shall also require” for “may also require”. Former par. (2) redesignated (1)(B).
 
-    Subsec. (d)(3). [Pub. L. 110–314, § 214(b)(14)][/us/pl/110/314/s214/b/14], added par. (3). Former par. (3) redesignated (1)(C).
+    Subsec. (d)(3). [Pub. L. 110–314][/us/pl/110/314], § 214(b)(14), added par. (3). Former par. (3) redesignated (1)(C).
 
-    Subsec. (f). [Pub. L. 110–314, § 214(a)(4)][/us/pl/110/314/s214/a/4], designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), an order” for “An order”, and added par. (2).
+    Subsec. (f). [Pub. L. 110–314][/us/pl/110/314], § 214(a)(4), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), an order” for “An order”, and added par. (2).
 
-    Subsec. (i). [Pub. L. 110–314, § 214(c)][/us/pl/110/314/s214/c], added subsec. (i).
+    Subsec. (i). [Pub. L. 110–314][/us/pl/110/314], § 214(c), added subsec. (i).
 
-    Subsec. (j). [Pub. L. 110–314, § 223(a)][/us/pl/110/314/s223/a], added subsec. (j).
+    Subsec. (j). [Pub. L. 110–314][/us/pl/110/314], § 223(a), added subsec. (j).
 
-    1990—Subsec. (b). [Pub. L. 101–608, § 112(a)(4)][/us/pl/101/608/s112/a/4], (5), in concluding provisions substituted “comply, of such defect, or of such risk” for “comply or of such defect” and “defect, failure to comply, or such risk” for “defect or failure to comply”.
+    1990—Subsec. (b). [Pub. L. 101–608][/us/pl/101/608], § 112(a)(4), (5), in concluding provisions substituted “comply, of such defect, or of such risk” for “comply or of such defect” and “defect, failure to comply, or such risk” for “defect or failure to comply”.
 
-    Subsec. (b)(1). [Pub. L. 101–608, § 112(a)(1)][/us/pl/101/608/s112/a/1], inserted reference to voluntary consumer product safety standard upon which Commission has relied under [section 2058 of this title][/us/usc/t15/s2058].
+    Subsec. (b)(1). [Pub. L. 101–608][/us/pl/101/608], § 112(a)(1), inserted reference to voluntary consumer product safety standard upon which Commission has relied under [section 2058 of this title][/us/usc/t15/s2058].
 
-    Subsec. (b)(3). [Pub. L. 101–608, § 112(a)(2)][/us/pl/101/608/s112/a/2], (3), added par. (3).
+    Subsec. (b)(3). [Pub. L. 101–608][/us/pl/101/608], § 112(a)(2), (3), added par. (3).
 
-    Subsec. (f). [Pub. L. 101–608, § 113][/us/pl/101/608/s113], inserted at end “Any settlement offer which is submitted to the presiding officer at a hearing under this subsection shall be transmitted by the officer to the Commission for its consideration unless the settlement offer is clearly frivolous or duplicative of offers previously made.”
+    Subsec. (f). [Pub. L. 101–608][/us/pl/101/608], § 113, inserted at end “Any settlement offer which is submitted to the presiding officer at a hearing under this subsection shall be transmitted by the officer to the Commission for its consideration unless the settlement offer is clearly frivolous or duplicative of offers previously made.”
 
-    Subsec. (h). [Pub. L. 101–608, § 111(a)(2)][/us/pl/101/608/s111/a/2], added subsec. (h).
+    Subsec. (h). [Pub. L. 101–608][/us/pl/101/608], § 111(a)(2), added subsec. (h).
 
     1988—Subsec. (d). [Pub. L. 100–418][/us/pl/100/418] substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 to the Tariff Schedules of the United States” in last sentence.
 
-    1983—Subsec. (g)(1). [Pub. L. 97–414, § 9(m)][/us/pl/97/414/s9/m], amended, in part, [Pub. L. 97–35, § 1211(h)(4)][/us/pl/97/35/s1211/h/4]. See 1981 Amendment note below.
+    1983—Subsec. (g)(1). [Pub. L. 97–414][/us/pl/97/414], § 9(m), amended, in part, [Pub. L. 97–35][/us/pl/97/35], § 1211(h)(4). See 1981 Amendment note below.
 
-    [Pub. L. 97–414, § 9(j)(3)][/us/pl/97/414/s9/j/3], substituted “2061(d)(1)” for “section 2061(c)(1)”.
+    [Pub. L. 97–414][/us/pl/97/414], § 9(j)(3), substituted “2061(d)(1)” for “section 2061(c)(1)”.
 
-    1981—Subsec. (g)(1). [Pub. L. 97–35, § 1211(h)(4)][/us/pl/97/35/s1211/h/4], substituted “section 2061(c)(1)” for “section 2061(e)(1)”.
+    1981—Subsec. (g)(1). [Pub. L. 97–35][/us/pl/97/35], § 1211(h)(4), substituted “section 2061(c)(1)” for “section 2061(e)(1)”.
 
-    [Pub. L. 97–35, § 1211(h)(4)][/us/pl/97/35/s1211/h/4], which directed insertion of “, Science and Transportation” after “on Commerce” and could not be executed because “on Commerce” did not appear in text, was amended by [Pub. L. 97–414, § 9(m)][/us/pl/97/414/s9/m], so as to strike out such directory language.
+    [Pub. L. 97–35][/us/pl/97/35], § 1211(h)(4), which directed insertion of “, Science and Transportation” after “on Commerce” and could not be executed because “on Commerce” did not appear in text, was amended by [Pub. L. 97–414][/us/pl/97/414], § 9(m), so as to strike out such directory language.
 
-    1976—Subsec. (d). [Pub. L. 94–284, § 12(a)(1)][/us/pl/94/284/s12/a/1], provided, in provision following par. (3), that an order issued under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States, the product for which the order was issued.
+    1976—Subsec. (d). [Pub. L. 94–284][/us/pl/94/284], § 12(a)(1), provided, in provision following par. (3), that an order issued under this subsection may prohibit the person to whom it applies from manufacturing for sale, offering for sale, distributing in commerce, or importing into the customs territory of the United States, the product for which the order was issued.
 
-    Subsec. (g). [Pub. L. 94–284, § 12(a)(2)][/us/pl/94/284/s12/a/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 94–284][/us/pl/94/284], § 12(a)(2), added subsec. (g).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -257,7 +257,7 @@
 
  __Reporting Requirements__ 
 
-[Pub. L. 103–267, title I, § 102][/us/pl/103/267/s102], June 16, 1994, [108 Stat. 726][/us/stat/108/726], provided that:
+[Pub. L. 103–267, title I][/us/pl/103/267/tI], § 102, June 16, 1994, [108 Stat. 726][/us/stat/108/726], provided that:
 
 >     “(a) __Reports to Consumer Product Safety Commission.—__ 
 
@@ -299,60 +299,60 @@
 [/us/usc/t28/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1331
 [/us/usc/t15/s2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2061
 [/us/usc/t15/s2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2060
-[/us/pl/92/573/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs15
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1221
-[/us/pl/94/284/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs12%2Fa
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/stat/90/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F508
-[/us/pl/97/35/s1211/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1211%2Fh%2F4
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F723
-[/us/pl/97/414/s9/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs9%2Fj%2F3
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2064
-[/us/pl/100/418/s1214/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs1214%2Fd
+[/us/pl/100/418/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtI
 [/us/stat/102/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1156
-[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
+[/us/pl/101/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2FtI
 [/us/stat/104/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3114
-[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3052
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
-[/us/pl/110/314/s214/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs214%2Fa%2F1
-[/us/pl/110/314/s214/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs214%2Fa%2F2%2FB
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/usc/t15/s1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1264
-[/us/pl/110/314/s214/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs214%2Fa%2F2%2FA
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/usc/t49/s30102/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30102%2Fa%2F7
-[/us/pl/110/314/s214/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs214%2Fa%2F3%2FA
-[/us/pl/110/314/s214/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs214%2Fa%2F3%2FB
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/usc/t15/s2061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2061
-[/us/pl/110/314/s214/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs214%2Fa%2F3%2FE
-[/us/pl/110/314/s214/a/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs214%2Fa%2F3%2FF
-[/us/pl/110/314/s214/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs214%2Fb%2F1
-[/us/pl/110/314/s214/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs214%2Fb%2F2
-[/us/pl/110/314/s214/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs214%2Fb%2F5
-[/us/pl/110/314/s214/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs214%2Fb%2F6
-[/us/pl/110/314/s214/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs214%2Fb%2F13
-[/us/pl/110/314/s214/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs214%2Fb%2F11
-[/us/pl/110/314/s214/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs214%2Fb%2F12
-[/us/pl/110/314/s214/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs214%2Fb%2F11
-[/us/pl/110/314/s214/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs214%2Fb%2F9
-[/us/pl/110/314/s214/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs214%2Fb%2F8
-[/us/pl/110/314/s214/b/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs214%2Fb%2F14
-[/us/pl/110/314/s214/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs214%2Fa%2F4
-[/us/pl/110/314/s214/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs214%2Fc
-[/us/pl/110/314/s223/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs223%2Fa
-[/us/pl/101/608/s112/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs112%2Fa%2F4
-[/us/pl/101/608/s112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs112%2Fa%2F1
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
+[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
 [/us/usc/t15/s2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2058
-[/us/pl/101/608/s112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs112%2Fa%2F2
-[/us/pl/101/608/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs113
-[/us/pl/101/608/s111/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs111%2Fa%2F2
+[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
+[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
+[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/97/414/s9/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs9%2Fm
-[/us/pl/97/35/s1211/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1211%2Fh%2F4
-[/us/pl/97/414/s9/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs9%2Fj%2F3
-[/us/pl/97/35/s1211/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1211%2Fh%2F4
-[/us/pl/97/35/s1211/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1211%2Fh%2F4
-[/us/pl/97/414/s9/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs9%2Fm
-[/us/pl/94/284/s12/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs12%2Fa%2F1
-[/us/pl/94/284/s12/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs12%2Fa%2F2
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/pl/110/314/s214/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs214%2Fa%2F2
 [/us/pl/110/314/s239/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs239%2Fa
 [/us/usc/t15/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2051
@@ -362,7 +362,7 @@
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1215
 [/us/usc/t15/s2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2052
-[/us/pl/103/267/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2Fs102
+[/us/pl/103/267/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2FtI
 [/us/stat/108/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F726
 [/us/usc/t15/s2068/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2068%2Fa%2F3
 [/us/usc/t15/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2051

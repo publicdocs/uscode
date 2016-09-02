@@ -41,7 +41,7 @@
 
         shall be fined not more than $10,000 or imprisoned not more than ten years, or both.
 
-([Pub. L. 90–321, title I, § 134][/us/pl/90/321/s134], as added [Pub. L. 91–508, title V, § 502(a)][/us/pl/91/508/s502/a], Oct. 26, 1970, [84 Stat. 1127][/us/stat/84/1127]; amended [Pub. L. 93–495, title IV, § 414][/us/pl/93/495/s414], Oct. 28, 1974, [88 Stat. 1520][/us/stat/88/1520].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 134, as added [Pub. L. 91–508, title V][/us/pl/91/508/tV], § 502(a), Oct. 26, 1970, [84 Stat. 1127][/us/stat/84/1127]; amended [Pub. L. 93–495, title IV][/us/pl/93/495/tIV], § 414, Oct. 28, 1974, [88 Stat. 1520][/us/stat/88/1520].)
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 91–508, title V, § 503(3)][/us/pl/91/508/s503/3], Oct. 26, 1970, [84 Stat. 1127][/us/stat/84/1127], provided that: 
+[Pub. L. 91–508, title V][/us/pl/91/508/tV], § 503(3), Oct. 26, 1970, [84 Stat. 1127][/us/stat/84/1127], provided that: 
 
 > “Section 134 of such Act \[this section\] applies to offenses committed on or after such date of enactment \[Oct. 26, 1970\].”
 
@@ -64,16 +64,16 @@
 ----------
 ----------
 
-[/us/pl/90/321/s134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs134
-[/us/pl/91/508/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs502%2Fa
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/91/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtV
 [/us/stat/84/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1127
-[/us/pl/93/495/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs414
+[/us/pl/93/495/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtIV
 [/us/stat/88/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1520
 [/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
 [/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
 [/us/pl/93/495/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs416
 [/us/usc/t15/s1665a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1665a
-[/us/pl/91/508/s503/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs503%2F3
+[/us/pl/91/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtV
 [/us/stat/84/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1127
 
 

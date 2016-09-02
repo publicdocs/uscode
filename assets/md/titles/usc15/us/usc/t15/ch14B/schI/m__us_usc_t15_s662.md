@@ -155,13 +155,13 @@
 
     (19) the term “Energy Saving qualified investment” means investment in a small business concern that is primarily engaged in researching, manufacturing, developing, or providing products, goods, or services that reduce the use or consumption of non-renewable energy resources.
 
-([Pub. L. 85–699, title I, § 103][/us/pl/85/699/s103], Aug. 21, 1958, [72 Stat. 690][/us/stat/72/690]; [Pub. L. 86–502, § 3][/us/pl/86/502/s3], June 11, 1960, [74 Stat. 196][/us/stat/74/196]; [Pub. L. 87–341, § 2][/us/pl/87/341/s2], Oct. 3, 1961, [75 Stat. 752][/us/stat/75/752]; [Pub. L. 92–595, § 2(a)][/us/pl/92/595/s2/a], Oct. 27, 1972, [86 Stat. 1314][/us/stat/86/1314]; [Pub. L. 94–305, title I, § 106(a)][/us/pl/94/305/s106/a], June 4, 1976, [90 Stat. 666][/us/stat/90/666]; [Pub. L. 102–366, title IV, § 410][/us/pl/102/366/s410], Sept. 4, 1992, [106 Stat. 1017][/us/stat/106/1017]; [Pub. L. 104–208, div. D, title II, § 208(a)][/us/pl/104/208/s208/a], Sept. 30, 1996, [110 Stat. 3009–739][/us/stat/110/3009-739]; [Pub. L. 105–135, title II, § 213][/us/pl/105/135/s213], Dec. 2, 1997, [111 Stat. 2601][/us/stat/111/2601]; [Pub. L. 106–9, § 2(c)][/us/pl/106/9/s2/c], Apr. 5, 1999, [113 Stat. 17][/us/stat/113/17]; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title IV, § 402\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–690; [Pub. L. 110–140, title XII, § 1205(b)][/us/pl/110/140/s1205/b], Dec. 19, 2007, [121 Stat. 1773][/us/stat/121/1773].)
+([Pub. L. 85–699, title I][/us/pl/85/699/tI], § 103, Aug. 21, 1958, [72 Stat. 690][/us/stat/72/690]; [Pub. L. 86–502][/us/pl/86/502], § 3, June 11, 1960, [74 Stat. 196][/us/stat/74/196]; [Pub. L. 87–341][/us/pl/87/341], § 2, Oct. 3, 1961, [75 Stat. 752][/us/stat/75/752]; [Pub. L. 92–595][/us/pl/92/595], § 2(a), Oct. 27, 1972, [86 Stat. 1314][/us/stat/86/1314]; [Pub. L. 94–305, title I][/us/pl/94/305/tI], § 106(a), June 4, 1976, [90 Stat. 666][/us/stat/90/666]; [Pub. L. 102–366, title IV][/us/pl/102/366/tIV], § 410, Sept. 4, 1992, [106 Stat. 1017][/us/stat/106/1017]; [Pub. L. 104–208, div. D, title II][/us/pl/104/208/dD/tII], § 208(a), Sept. 30, 1996, [110 Stat. 3009–739][/us/stat/110/3009-739]; [Pub. L. 105–135, title II][/us/pl/105/135/tII], § 213, Dec. 2, 1997, [111 Stat. 2601][/us/stat/111/2601]; [Pub. L. 106–9][/us/pl/106/9], § 2(c), Apr. 5, 1999, [113 Stat. 17][/us/stat/113/17]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title IV, § 402\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–690; [Pub. L. 110–140, title XII][/us/pl/110/140/tXII], § 1205(b), Dec. 19, 2007, [121 Stat. 1773][/us/stat/121/1773].)
 
  __References in Text__ 
 
     For definition of “this chapter”, referred to in text, see References in Text note set out under [section 661 of this title][/us/usc/t15/s661].
 
-    The Small Business Act, referred to in par. (5), is [Pub. L. 85–536, § 2][/us/pl/85/536/s2](1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified to chapter 14A (§ 631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of this title][/us/usc/t15/s631] and Tables. The term “small-business concern” is defined in [section 632 of this title][/us/usc/t15/s632].
+    The Small Business Act, referred to in par. (5), is [Pub. L. 85–536][/us/pl/85/536], § 2(1 et seq.), July 18, 1958, [72 Stat. 384][/us/stat/72/384], which is classified to chapter 14A (§ 631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of this title][/us/usc/t15/s631] and Tables. The term “small-business concern” is defined in [section 632 of this title][/us/usc/t15/s632].
 
     The Employee Retirement Income Security Act of 1974, referred to in par. (14), is [Pub. L. 93–406][/us/pl/93/406], Sept. 2, 1974, [88 Stat. 829][/us/stat/88/829], which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29][/us/usc/t29/s1001] and Tables.
 
@@ -171,13 +171,13 @@
 
     2007—Pars. (18), (19). [Pub. L. 110–140][/us/pl/110/140] added pars. (18) and (19).
 
-    2000—Par. (5)(A)(i). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title IV, § 402(a)\], inserted before semicolon at end “regardless of the allocation of control during the investment period under any investment agreement between the business concern and the entity making the investment”.
+    2000—Par. (5)(A)(i). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title IV, § 402(a)\], inserted before semicolon at end “regardless of the allocation of control during the investment period under any investment agreement between the business concern and the entity making the investment”.
 
-    Par. (17). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title IV, § 402(b)\], added par. (17).
+    Par. (17). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title IV, § 402(b)\], added par. (17).
 
-    1999—Par. (5). [Pub. L. 106–9, § 2(c)(1)][/us/pl/106/9/s2/c/1], designated existing provisions after “for purposes of this chapter” as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpar. (B).
+    1999—Par. (5). [Pub. L. 106–9][/us/pl/106/9], § 2(c)(1), designated existing provisions after “for purposes of this chapter” as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpar. (B).
 
-    Par. (12)(A)(ii). [Pub. L. 106–9, § 2(c)(2)][/us/pl/106/9/s2/c/2], inserted before “; or”: “except that, for purposes of this clause, if the business concern is not required by law to pay Federal income taxes at the enterprise level, but is required to pass income through to the shareholders, partners, beneficiaries, or other equitable owners of the business concern, the net income of the business concern shall be determined by allowing a deduction in an amount equal to the sum of—
+    Par. (12)(A)(ii). [Pub. L. 106–9][/us/pl/106/9], § 2(c)(2), inserted before “; or”: “except that, for purposes of this clause, if the business concern is not required by law to pay Federal income taxes at the enterprise level, but is required to pass income through to the shareholders, partners, beneficiaries, or other equitable owners of the business concern, the net income of the business concern shall be determined by allowing a deduction in an amount equal to the sum of—
 
     “(I) if the business concern is not required by law to pay State (and local, if any) income taxes at the enterprise level, the net income (determined without regard to this clause), multiplied by the marginal State income tax rate (or by the combined State and local income tax rates, as applicable) that would have applied if the business concern were a corporation; and
 
@@ -185,7 +185,7 @@
 
     1997—Par. (9)(B)(iii). [Pub. L. 105–135][/us/pl/105/135] added subcl. (I) and redesignated former subcls. (I) and (II) as (II) and (III), respectively.
 
-    1996—Par. (5). [Pub. L. 104–208, § 208(a)(1)][/us/pl/104/208/s208/a/1], inserted before semicolon at end “, except that, for purposes of this chapter, an investment by a venture capital firm, investment company (including a small business investment company) employee welfare benefit plan or pension plan, or trust, foundation, or endowment that is exempt from Federal income taxation—
+    1996—Par. (5). [Pub. L. 104–208][/us/pl/104/208], § 208(a)(1), inserted before semicolon at end “, except that, for purposes of this chapter, an investment by a venture capital firm, investment company (including a small business investment company) employee welfare benefit plan or pension plan, or trust, foundation, or endowment that is exempt from Federal income taxation—
 
     “(A) shall not cause a business concern to be deemed not independently owned and operated;
 
@@ -193,9 +193,9 @@
 
     “(C) shall be disregarded in determining whether a small business concern is a smaller enterprise”.
 
-    Par. (9). [Pub. L. 104–208, § 208(a)(2)][/us/pl/104/208/s208/a/2], amended par. (9) generally. Prior to amendment, par. (9) read as follows: “notwithstanding any other provision of law, the term ‘private capital’ means the private paid-in capital and paid-in surplus of a corporate licensee, or the private partnership capital of an unincorporate licensee, inclusive of (A) any funds invested in the licensee by a public or private pension fund, (B) any funds invested in the licensee by State or local government entities, to the extent that such investment does not exceed 33 percent of a licensee’s total private capital and otherwise meets criteria established by the Administration, and (C) unfunded commitments from institutional investors that meet criteria established by the Administration, but it excludes any funds which are borrowed by the licensee from any source or which are obtained or derived, directly or indirectly, from any Federal source, including the Administration: Provided, That no unfunded commitment from an institutional investor may be used for the purpose of meeting the minimum amount of private capital required by this chapter or as the basis for the Administration to issue obligations to provide financing; and”.
+    Par. (9). [Pub. L. 104–208][/us/pl/104/208], § 208(a)(2), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “notwithstanding any other provision of law, the term ‘private capital’ means the private paid-in capital and paid-in surplus of a corporate licensee, or the private partnership capital of an unincorporate licensee, inclusive of (A) any funds invested in the licensee by a public or private pension fund, (B) any funds invested in the licensee by State or local government entities, to the extent that such investment does not exceed 33 percent of a licensee’s total private capital and otherwise meets criteria established by the Administration, and (C) unfunded commitments from institutional investors that meet criteria established by the Administration, but it excludes any funds which are borrowed by the licensee from any source or which are obtained or derived, directly or indirectly, from any Federal source, including the Administration: Provided, That no unfunded commitment from an institutional investor may be used for the purpose of meeting the minimum amount of private capital required by this chapter or as the basis for the Administration to issue obligations to provide financing; and”.
 
-    Pars. (10) to (16). [Pub. L. 104–208, § 208(a)(3)][/us/pl/104/208/s208/a/3], added pars. (10) to (16) and struck out former par. (10) which read as follows: “the term ‘leverage’ includes debentures purchased or guaranteed by the Administration, participating securities purchased or guaranteed by the Administration, or preferred securities issued by companies licensed under [section 681(d) of this title][/us/usc/t15/s681/d] and which have been purchased by the Administration.”
+    Pars. (10) to (16). [Pub. L. 104–208][/us/pl/104/208], § 208(a)(3), added pars. (10) to (16) and struck out former par. (10) which read as follows: “the term ‘leverage’ includes debentures purchased or guaranteed by the Administration, participating securities purchased or guaranteed by the Administration, or preferred securities issued by companies licensed under [section 681(d) of this title][/us/usc/t15/s681/d] and which have been purchased by the Administration.”
 
     1992—Pars. (9), (10). [Pub. L. 102–366][/us/pl/102/366] added pars. (9) and (10).
 
@@ -205,9 +205,9 @@
 
     Par. (7). [Pub. L. 92–595][/us/pl/92/595] substituted “section 681” for “section 681(c)”.
 
-    1961—Par. (3). [Pub. L. 87–341, § 2(1)][/us/pl/87/341/s2/1], inserted “licensee” and substituted “company approved by the Administration to operate under the provisions of this chapter and issued a license as provided in [section 681(c) of this title][/us/usc/t15/s681/c]” for “small business investment company organized as provided in subchapter III of this chapter, including (except for purposes of sections 681 and 687(f) of this title) a State-chartered investment company which has obtained the approval of the Administrator to operate under the provisions of this chapter as provided in [section 688 of this title][/us/usc/t15/s688] and a company converted into a small business investment company under [section 691 of this title][/us/usc/t15/s691]”.
+    1961—Par. (3). [Pub. L. 87–341][/us/pl/87/341], § 2(1), inserted “licensee” and substituted “company approved by the Administration to operate under the provisions of this chapter and issued a license as provided in [section 681(c) of this title][/us/usc/t15/s681/c]” for “small business investment company organized as provided in subchapter III of this chapter, including (except for purposes of sections 681 and 687(f) of this title) a State-chartered investment company which has obtained the approval of the Administrator to operate under the provisions of this chapter as provided in [section 688 of this title][/us/usc/t15/s688] and a company converted into a small business investment company under [section 691 of this title][/us/usc/t15/s691]”.
 
-    Par. (7). [Pub. L. 87–341, § 2(2)][/us/pl/87/341/s2/2], added par. (7).
+    Par. (7). [Pub. L. 87–341][/us/pl/87/341], § 2(2), added par. (7).
 
     1960—Par. (4). [Pub. L. 86–502][/us/pl/86/502] substituted definition of “State” for definition of “United States”.
 
@@ -237,30 +237,30 @@
 [/us/usc/t15/s681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
-[/us/pl/85/699/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs103
+[/us/pl/85/699/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtI
 [/us/stat/72/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F690
-[/us/pl/86/502/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F502%2Fs3
+[/us/pl/86/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F502
 [/us/stat/74/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F196
-[/us/pl/87/341/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341%2Fs2
+[/us/pl/87/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341
 [/us/stat/75/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F752
-[/us/pl/92/595/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595%2Fs2%2Fa
+[/us/pl/92/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595
 [/us/stat/86/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1314
-[/us/pl/94/305/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2Fs106%2Fa
+[/us/pl/94/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2FtI
 [/us/stat/90/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F666
-[/us/pl/102/366/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs410
+[/us/pl/102/366/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2FtIV
 [/us/stat/106/1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1017
-[/us/pl/104/208/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fa
+[/us/pl/104/208/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD%2FtII
 [/us/stat/110/3009-739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-739
-[/us/pl/105/135/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs213
+[/us/pl/105/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtII
 [/us/stat/111/2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2601
-[/us/pl/106/9/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F9%2Fs2%2Fc
+[/us/pl/106/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F9
 [/us/stat/113/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F17
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/110/140/s1205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1205%2Fb
+[/us/pl/110/140/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXII
 [/us/stat/121/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1773
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F384
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
@@ -269,24 +269,24 @@
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/9/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F9%2Fs2%2Fc%2F1
-[/us/pl/106/9/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F9%2Fs2%2Fc%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F9
+[/us/pl/106/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F9
 [/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
-[/us/pl/104/208/s208/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fa%2F1
-[/us/pl/104/208/s208/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fa%2F2
-[/us/pl/104/208/s208/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fa%2F3
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t15/s681/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681%2Fd
 [/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
 [/us/pl/94/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305
 [/us/pl/92/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595
 [/us/pl/92/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595
-[/us/pl/87/341/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341%2Fs2%2F1
+[/us/pl/87/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341
 [/us/usc/t15/s681/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681%2Fc
 [/us/usc/t15/s688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs688
 [/us/usc/t15/s691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs691
-[/us/pl/87/341/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341%2Fs2%2F2
+[/us/pl/87/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341
 [/us/pl/86/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F502
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601

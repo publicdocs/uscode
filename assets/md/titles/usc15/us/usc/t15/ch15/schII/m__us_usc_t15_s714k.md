@@ -17,7 +17,7 @@
 
     The Corporation shall at all times maintain complete and accurate books of account and shall file annually with the Secretary of Agriculture a complete report as to the business of the Corporation, a copy of which shall be forwarded by the Secretary of Agriculture to the President for transmission to the Congress. In addition to the annual report, the Corporation shall submit to Congress on a quarterly basis an itemized report of all expenditures over $10,000 made under section 714c or 714i of this title during the period covered by the report, including expenditures in the form of allotments or fund transfers to other agencies and departments of the Federal Government.
 
-([June 29, 1948, ch. 704, § 13][/us/act/1948-06-29/ch704/s13], [62 Stat. 1073][/us/stat/62/1073]; [Pub. L. 104–127, title I, § 161(b)(3)][/us/pl/104/127/s161/b/3], Apr. 4, 1996, [110 Stat. 934][/us/stat/110/934].)
+([June 29, 1948, ch. 704][/us/act/1948-06-29/ch704], § 13, [62 Stat. 1073][/us/stat/62/1073]; [Pub. L. 104–127, title I][/us/pl/104/127/tI], § 161(b)(3), Apr. 4, 1996, [110 Stat. 934][/us/stat/110/934].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/act/1948-06-29/ch704/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch704%2Fs13
+[/us/act/1948-06-29/ch704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch704
 [/us/stat/62/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1073
-[/us/pl/104/127/s161/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs161%2Fb%2F3
+[/us/pl/104/127/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtI
 [/us/stat/110/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F934
 [/us/pl/104/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

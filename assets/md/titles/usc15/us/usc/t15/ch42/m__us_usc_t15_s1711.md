@@ -27,7 +27,7 @@
 
         No action shall be maintained under [section 1709 of this title][/us/usc/t15/s1709] to enforce a right created under subsection (b), (c), (d), or (e) of [section 1703 of this title][/us/usc/t15/s1703] unless brought within three years after the signing of the contract or lease, notwithstanding delivery of a deed to a purchaser.
 
-([Pub. L. 90–448, title XIV, § 1412][/us/pl/90/448/s1412], Aug. 1, 1968, [82 Stat. 596][/us/stat/82/596]; [Pub. L. 96–153, title IV, § 406][/us/pl/96/153/s406], Dec. 21, 1979, [93 Stat. 1131][/us/stat/93/1131].)
+([Pub. L. 90–448, title XIV][/us/pl/90/448/tXIV], § 1412, Aug. 1, 1968, [82 Stat. 596][/us/stat/82/596]; [Pub. L. 96–153, title IV][/us/pl/96/153/tIV], § 406, Dec. 21, 1979, [93 Stat. 1131][/us/stat/93/1131].)
 
  __Amendments__ 
 
@@ -49,9 +49,9 @@
 [/us/usc/t15/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1703
 [/us/usc/t15/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1709
 [/us/usc/t15/s1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1703
-[/us/pl/90/448/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1412
+[/us/pl/90/448/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIV
 [/us/stat/82/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F596
-[/us/pl/96/153/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs406
+[/us/pl/96/153/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtIV
 [/us/stat/93/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1131
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
 [/us/usc/t15/s1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1709

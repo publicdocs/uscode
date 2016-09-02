@@ -27,7 +27,7 @@
 
         Nothing in this section shall be construed to diminish, impair, or otherwise affect the authority of the Board of Directors of the Tennessee Valley Authority to carry out its statutory functions under the Tennessee Valley Authority Act of 1933 \[[16 U.S.C. 831][/us/usc/t16/s831] et seq.\].
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 37, as added [Pub. L. 108–447, div. H, title V, § 520(2)][/us/pl/108/447/s520/2], Dec. 8, 2004, [118 Stat. 3267][/us/stat/118/3267].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 37, as added [Pub. L. 108–447, div. H, title V][/us/pl/108/447/dH/tV], § 520(2), Dec. 8, 2004, [118 Stat. 3267][/us/stat/118/3267].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 [/us/usc/t15/s78j–1/m/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78j%E2%80%931%2Fm%2F1
 [/us/usc/t16/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs831
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/108/447/s520/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs520%2F2
+[/us/pl/108/447/dH/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdH%2FtV
 [/us/stat/118/3267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3267
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/act/1933-05-18/ch32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-18%2Fch32

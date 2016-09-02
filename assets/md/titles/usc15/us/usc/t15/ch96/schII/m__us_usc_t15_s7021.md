@@ -77,11 +77,11 @@
 
         For purposes of this subsection, all references to the Uniform Commercial Code are to the Uniform Commercial Code as in effect in the jurisdiction the law of which governs the transferable record.
 
-([Pub. L. 106–229, title II, § 201][/us/pl/106/229/s201], June 30, 2000, [114 Stat. 473][/us/stat/114/473].)
+([Pub. L. 106–229, title II][/us/pl/106/229/tII], § 201, June 30, 2000, [114 Stat. 473][/us/stat/114/473].)
 
  __Effective Date__ 
 
-[Pub. L. 106–229, title II, § 202][/us/pl/106/229/s202], June 30, 2000, [114 Stat. 475][/us/stat/114/475], provided that: 
+[Pub. L. 106–229, title II][/us/pl/106/229/tII], § 202, June 30, 2000, [114 Stat. 475][/us/stat/114/475], provided that: 
 
 > “This title \[enacting this subchapter\] shall be effective 90 days after the date of enactment of this Act \[June 30, 2000\].”
 
@@ -93,9 +93,9 @@
 ----------
 
 [/us/usc/t15/s7006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7006
-[/us/pl/106/229/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2Fs201
+[/us/pl/106/229/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2FtII
 [/us/stat/114/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F473
-[/us/pl/106/229/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2Fs202
+[/us/pl/106/229/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2FtII
 [/us/stat/114/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F475
 
 

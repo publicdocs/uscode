@@ -61,7 +61,7 @@
 
             (F) any explanation or justification of existing or proposed rate schedules, or notification of hearings thereon.
 
-([Pub. L. 95–617, title III, § 304][/us/pl/95/617/s304], Nov. 9, 1978, [92 Stat. 3151][/us/stat/92/3151].)
+([Pub. L. 95–617, title III][/us/pl/95/617/tIII], § 304, Nov. 9, 1978, [92 Stat. 3151][/us/stat/92/3151].)
 
  __References in Text__ 
 
@@ -78,7 +78,7 @@
 [/us/usc/t15/s3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3203
 [/us/usc/t15/s3203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3203
 [/us/usc/t42/s8211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8211
-[/us/pl/95/617/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs304
+[/us/pl/95/617/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtIII
 [/us/stat/92/3151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3151
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
 [/us/stat/92/3208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3208

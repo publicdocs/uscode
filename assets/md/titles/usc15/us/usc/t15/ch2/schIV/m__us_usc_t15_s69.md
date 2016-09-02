@@ -39,7 +39,7 @@
 
     (k) The term “United States” means the several States, the District of Columbia, and the Territories and possessions of the United States.
 
-([Aug. 8, 1951, ch. 298, § 2][/us/act/1951-08-08/ch298/s2], [65 Stat. 175][/us/stat/65/175]; [Pub. L. 106–476, title I, § 1443(b)][/us/pl/106/476/s1443/b], Nov. 9, 2000, [114 Stat. 2167][/us/stat/114/2167]; [Pub. L. 111–313, § 2(a)][/us/pl/111/313/s2/a], Dec. 18, 2010, [124 Stat. 3326][/us/stat/124/3326].)
+([Aug. 8, 1951, ch. 298][/us/act/1951-08-08/ch298], § 2, [65 Stat. 175][/us/stat/65/175]; [Pub. L. 106–476, title I][/us/pl/106/476/tI], § 1443(b), Nov. 9, 2000, [114 Stat. 2167][/us/stat/114/2167]; [Pub. L. 111–313][/us/pl/111/313], § 2(a), Dec. 18, 2010, [124 Stat. 3326][/us/stat/124/3326].)
 
  __References in Text__ 
 
@@ -53,31 +53,31 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–313, § 2(b)][/us/pl/111/313/s2/b], Dec. 18, 2010, [124 Stat. 3326][/us/stat/124/3326], provided that: 
+[Pub. L. 111–313][/us/pl/111/313], § 2(b), Dec. 18, 2010, [124 Stat. 3326][/us/stat/124/3326], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on the date that is 90 days after the date of the enactment of this Act \[Dec. 18, 2010\].”
 
  __Effective Date__ 
 
-[Act Aug. 8, 1951, ch. 298, § 14][/us/act/1951-08-08/ch298/s14], [65 Stat. 181][/us/stat/65/181], provided that: 
+[Act Aug. 8, 1951, ch. 298][/us/act/1951-08-08/ch298], § 14, [65 Stat. 181][/us/stat/65/181], provided that: 
 
 > “This Act \[this subchapter\], except section 7 \[[section 69e of this title][/us/usc/t15/s69e]\], shall take effect one year after the date of its enactment \[Aug. 8, 1951\].”
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–313, § 1][/us/pl/111/313/s1], Dec. 18, 2010, [124 Stat. 3326][/us/stat/124/3326], provided that: 
+[Pub. L. 111–313][/us/pl/111/313], § 1, Dec. 18, 2010, [124 Stat. 3326][/us/stat/124/3326], provided that: 
 
 > “This Act \[amending this section and [section 69a of this title][/us/usc/t15/s69a] and enacting provisions set out as a note under this section\] may be cited as the ‘Truth in Fur Labeling Act of 2010’.”
 
  __Short Title__ 
 
-[Act Aug. 8, 1951, ch. 298, § 1][/us/act/1951-08-08/ch298/s1], [65 Stat. 175][/us/stat/65/175], provided: 
+[Act Aug. 8, 1951, ch. 298][/us/act/1951-08-08/ch298], § 1, [65 Stat. 175][/us/stat/65/175], provided: 
 
 > “That this Act \[this subchapter\] may be cited as the ‘Fur Products Labeling Act’ ”.
 
  __Separability__ 
 
-[Act Aug. 8, 1951, ch. 298, § 13][/us/act/1951-08-08/ch298/s13], [65 Stat. 181][/us/stat/65/181], provided that: 
+[Act Aug. 8, 1951, ch. 298][/us/act/1951-08-08/ch298], § 13, [65 Stat. 181][/us/stat/65/181], provided that: 
 
 > “If any provision of this Act \[this subchapter\] or the application thereof to any person or circumstance is held invalid, the remainder of the Act \[this subchapter\] and the application of such provision to any other person or circumstance shall not be affected thereby.”
 
@@ -94,11 +94,11 @@
 
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s69e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs69e
-[/us/act/1951-08-08/ch298/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298%2Fs2
+[/us/act/1951-08-08/ch298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298
 [/us/stat/65/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F175
-[/us/pl/106/476/s1443/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2Fs1443%2Fb
+[/us/pl/106/476/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476%2FtI
 [/us/stat/114/2167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2167
-[/us/pl/111/313/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F313%2Fs2%2Fa
+[/us/pl/111/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F313
 [/us/stat/124/3326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3326
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
@@ -107,17 +107,17 @@
 [/us/usc/t19/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1308
 [/us/pl/106/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F476
 [/us/usc/t19/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1308
-[/us/pl/111/313/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F313%2Fs2%2Fb
+[/us/pl/111/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F313
 [/us/stat/124/3326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3326
-[/us/act/1951-08-08/ch298/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298%2Fs14
+[/us/act/1951-08-08/ch298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298
 [/us/stat/65/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F181
 [/us/usc/t15/s69e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs69e
-[/us/pl/111/313/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F313%2Fs1
+[/us/pl/111/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F313
 [/us/stat/124/3326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3326
 [/us/usc/t15/s69a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs69a
-[/us/act/1951-08-08/ch298/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298%2Fs1
+[/us/act/1951-08-08/ch298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298
 [/us/stat/65/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F175
-[/us/act/1951-08-08/ch298/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298%2Fs13
+[/us/act/1951-08-08/ch298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298
 [/us/stat/65/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F181
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41

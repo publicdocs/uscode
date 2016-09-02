@@ -33,7 +33,7 @@
 
             The Secretary of Commerce, after providing notice and an opportunity for an agency hearing on the record, may impose a civil penalty of not to exceed $10,000 for each violation of this section or any regulation, order, or license issued under this section, either in addition to or in lieu of any other liability or penalty which may be imposed.
 
-([Mar. 3, 1891, ch. 521, § 3][/us/act/1891-03-03/ch521/s3], as added [Pub. L. 99–64, title I, § 125][/us/pl/99/64/s125], July 12, 1985, [99 Stat. 156][/us/stat/99/156].)
+([Mar. 3, 1891, ch. 521][/us/act/1891-03-03/ch521], § 3, as added [Pub. L. 99–64, title I][/us/pl/99/64/tI], § 125, July 12, 1985, [99 Stat. 156][/us/stat/99/156].)
 
  __Codification__ 
 
@@ -52,8 +52,8 @@
 ----------
 ----------
 
-[/us/act/1891-03-03/ch521/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch521%2Fs3
-[/us/pl/99/64/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2Fs125
+[/us/act/1891-03-03/ch521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch521
+[/us/pl/99/64/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F64%2FtI
 [/us/stat/99/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F156
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1485

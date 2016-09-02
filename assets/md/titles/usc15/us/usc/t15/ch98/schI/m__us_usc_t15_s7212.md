@@ -75,15 +75,15 @@
 
         The Board shall assess and collect a registration fee and an annual fee from each registered public accounting firm, in amounts that are sufficient to recover the costs of processing and reviewing applications and annual reports.
 
-([Pub. L. 107–204, title I, § 102][/us/pl/107/204/s102], July 30, 2002, [116 Stat. 753][/us/stat/116/753]; [Pub. L. 111–203, title IX, § 982(c)][/us/pl/111/203/s982/c], July 21, 2010, [124 Stat. 1928][/us/stat/124/1928].)
+([Pub. L. 107–204, title I][/us/pl/107/204/tI], § 102, July 30, 2002, [116 Stat. 753][/us/stat/116/753]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 982(c), July 21, 2010, [124 Stat. 1928][/us/stat/124/1928].)
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 982(c)(1)][/us/pl/111/203/s982/c/1], substituted “It” for “Beginning 180 days after the date of the determination of the Commission under [section 7211(d) of this title][/us/usc/t15/s7211/d], it”.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 982(c)(1), substituted “It” for “Beginning 180 days after the date of the determination of the Commission under [section 7211(d) of this title][/us/usc/t15/s7211/d], it”.
 
-    Subsec. (b)(2)(A). [Pub. L. 111–203, § 982(c)(2)(A)][/us/pl/111/203/s982/c/2/A], substituted “issuers, brokers, and dealers” for “issuers”.
+    Subsec. (b)(2)(A). [Pub. L. 111–203][/us/pl/111/203], § 982(c)(2)(A), substituted “issuers, brokers, and dealers” for “issuers”.
 
-    Subsec. (b)(2)(B), (G). [Pub. L. 111–203, § 982(c)(2)(B)][/us/pl/111/203/s982/c/2/B], substituted “issuer, broker, or dealer” for “issuer” wherever appearing.
+    Subsec. (b)(2)(B), (G). [Pub. L. 111–203][/us/pl/111/203], § 982(c)(2)(B), substituted “issuer, broker, or dealer” for “issuer” wherever appearing.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -96,14 +96,14 @@
 ----------
 ----------
 
-[/us/pl/107/204/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs102
+[/us/pl/107/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtI
 [/us/stat/116/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F753
-[/us/pl/111/203/s982/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fc
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1928
-[/us/pl/111/203/s982/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fc%2F1
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s7211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7211%2Fd
-[/us/pl/111/203/s982/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fc%2F2%2FA
-[/us/pl/111/203/s982/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fc%2F2%2FB
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

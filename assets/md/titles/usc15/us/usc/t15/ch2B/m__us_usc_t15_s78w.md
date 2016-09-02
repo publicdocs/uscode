@@ -61,7 +61,7 @@
 
         Within 1 year after October 15, 1990, the Commission shall establish regulations providing for the expeditious conduct of hearings and rendering of decisions under [section 78u–3 of this title][/us/usc/t15/s78u–3], [section 77h–1 of this title][/us/usc/t15/s77h–1], [section 80a–9(f) of this title][/us/usc/t15/s80a–9/f], and [section 80b–3(k) of this title][/us/usc/t15/s80b–3/k].
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 23, [48 Stat. 901][/us/stat/48/901]; [Aug. 23, 1935, ch. 614, § 203(a)][/us/act/1935-08-23/ch614/s203/a], [49 Stat. 704][/us/stat/49/704]; [May 27, 1936, ch. 462, § 8][/us/act/1936-05-27/ch462/s8], [49 Stat. 1379][/us/stat/49/1379]; [Pub. L. 88–467, § 10][/us/pl/88/467/s10], Aug. 20, 1964, [78 Stat. 580][/us/stat/78/580]; [Pub. L. 94–29, § 18][/us/pl/94/29/s18], June 4, 1975, [89 Stat. 155][/us/stat/89/155]; [Pub. L. 99–571, title I, § 102(j)][/us/pl/99/571/s102/j], Oct. 28, 1986, [100 Stat. 3220][/us/stat/100/3220]; [Pub. L. 100–181, title III][/us/pl/100/181], §§ 324, 325, Dec. 4, 1987, [101 Stat. 1259][/us/stat/101/1259]; [Pub. L. 101–429, title II, § 204][/us/pl/101/429/s204], Oct. 15, 1990, [104 Stat. 940][/us/stat/104/940]; [Pub. L. 103–202, title I, § 107][/us/pl/103/202/s107], Dec. 17, 1993, [107 Stat. 2351][/us/stat/107/2351]; [Pub. L. 109–351, title IV, § 401(a)(3)][/us/pl/109/351/s401/a/3], Oct. 13, 2006, [120 Stat. 1973][/us/stat/120/1973]; [Pub. L. 111–203, title III, § 376(4)][/us/pl/111/203/s376/4], July 21, 2010, [124 Stat. 1569][/us/stat/124/1569].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 23, [48 Stat. 901][/us/stat/48/901]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], § 203(a), [49 Stat. 704][/us/stat/49/704]; [May 27, 1936, ch. 462][/us/act/1936-05-27/ch462], § 8, [49 Stat. 1379][/us/stat/49/1379]; [Pub. L. 88–467][/us/pl/88/467], § 10, Aug. 20, 1964, [78 Stat. 580][/us/stat/78/580]; [Pub. L. 94–29][/us/pl/94/29], § 18, June 4, 1975, [89 Stat. 155][/us/stat/89/155]; [Pub. L. 99–571, title I][/us/pl/99/571/tI], § 102(j), Oct. 28, 1986, [100 Stat. 3220][/us/stat/100/3220]; [Pub. L. 100–181, title III][/us/pl/100/181/tIII], §§ 324, 325, Dec. 4, 1987, [101 Stat. 1259][/us/stat/101/1259]; [Pub. L. 101–429, title II][/us/pl/101/429/tII], § 204, Oct. 15, 1990, [104 Stat. 940][/us/stat/104/940]; [Pub. L. 103–202, title I][/us/pl/103/202/tI], § 107, Dec. 17, 1993, [107 Stat. 2351][/us/stat/107/2351]; [Pub. L. 109–351, title IV][/us/pl/109/351/tIV], § 401(a)(3), Oct. 13, 2006, [120 Stat. 1973][/us/stat/120/1973]; [Pub. L. 111–203, title III][/us/pl/111/203/tIII], § 376(4), July 21, 2010, [124 Stat. 1569][/us/stat/124/1569].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
     2006—Subsec. (b)(1). [Pub. L. 109–351][/us/pl/109/351] inserted “other than the Office of Thrift Supervision,” before “shall each”.
 
-    1993—Subsec. (b)(4)(C) to (K). [Pub. L. 103–202, § 107][/us/pl/103/202/s107], redesignated subpars. (E) to (G) and (I) to (K) as (C) to (E) and (F) to (H), respectively, added a new subpar. (I), and struck out former subpars. (C), (D), and (H). Prior to amendment, subpars. (C), (D), and (H) read as follows:
+    1993—Subsec. (b)(4)(C) to (K). [Pub. L. 103–202][/us/pl/103/202], § 107, redesignated subpars. (E) to (G) and (I) to (K) as (C) to (E) and (F) to (H), respectively, added a new subpar. (I), and struck out former subpars. (C), (D), and (H). Prior to amendment, subpars. (C), (D), and (H) read as follows:
 
     “(C) beginning in 1975 and ending in 1980, information, data, and recommendations with respect to the development of a national system for the prompt and accurate clearance and settlement of securities transactions, including a summary of the regulatory activities, operational capabilities, financial resources, and plans of self-regulatory organizations and registered transfer agents with respect thereto;
 
@@ -83,15 +83,15 @@
 
     1990—Subsec. (d). [Pub. L. 101–429][/us/pl/101/429] added subsec. (d).
 
-    1987—Subsec. (a)(1). [Pub. L. 100–181, § 324(1)][/us/pl/100/181/s324/1], inserted “or” before “any self-regulatory organization” in last sentence.
+    1987—Subsec. (a)(1). [Pub. L. 100–181][/us/pl/100/181], § 324(1), inserted “or” before “any self-regulatory organization” in last sentence.
 
-    Subsec. (a)(3). [Pub. L. 100–181, § 324(2)][/us/pl/100/181/s324/2], inserted “shall” after “[section 78s(b) of this title][/us/usc/t15/s78s/b],”.
+    Subsec. (a)(3). [Pub. L. 100–181][/us/pl/100/181], § 324(2), inserted “shall” after “[section 78s(b) of this title][/us/usc/t15/s78s/b],”.
 
-    Subsec. (b)(4)(F). [Pub. L. 100–181, § 325][/us/pl/100/181/s325], substituted “the” for “The”.
+    Subsec. (b)(4)(F). [Pub. L. 100–181][/us/pl/100/181], § 325, substituted “the” for “The”.
 
-    1986—Subsec. (a)(2). [Pub. L. 99–571, § 102(j)(1)][/us/pl/99/571/s102/j/1], (2), inserted “and the Secretary of the Treasury” in three places and “or the Secretary’s” in one place.
+    1986—Subsec. (a)(2). [Pub. L. 99–571][/us/pl/99/571], § 102(j)(1), (2), inserted “and the Secretary of the Treasury” in three places and “or the Secretary’s” in one place.
 
-    Subsec. (a)(3). [Pub. L. 99–571, § 102(j)(3)][/us/pl/99/571/s102/j/3], (4), inserted “and the Secretary” in three places and “or the Secretary” in one place.
+    Subsec. (a)(3). [Pub. L. 99–571][/us/pl/99/571], § 102(j)(3), (4), inserted “and the Secretary” in three places and “or the Secretary” in one place.
 
     1975—Subsec. (a). [Pub. L. 94–29][/us/pl/94/29] designated existing provisions as par. (1), inserted references to other agencies enumerated in [section 78c(a)(34) of this title][/us/usc/t15/s78c/a/34], regulations appropriate to implement the provisions of this chapter for which the agencies are responsible, the classification of persons, transactions, statements, applications, and reports, the prescribing of greater, lesser, or different requirements for different classifications, and the non-liability of self-regulatory organization, and added pars. (2) and (3).
 
@@ -161,37 +161,37 @@
 [/us/usc/t15/s80b–3/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%933%2Fk
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F901
-[/us/act/1935-08-23/ch614/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614%2Fs203%2Fa
+[/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/act/1936-05-27/ch462/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch462%2Fs8
+[/us/act/1936-05-27/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch462
 [/us/stat/49/1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1379
-[/us/pl/88/467/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs10
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
 [/us/stat/78/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F580
-[/us/pl/94/29/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs18
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F155
-[/us/pl/99/571/s102/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2Fs102%2Fj
+[/us/pl/99/571/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2FtI
 [/us/stat/100/3220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3220
-[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtIII
 [/us/stat/101/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1259
-[/us/pl/101/429/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2Fs204
+[/us/pl/101/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2FtII
 [/us/stat/104/940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F940
-[/us/pl/103/202/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2Fs107
+[/us/pl/103/202/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2FtI
 [/us/stat/107/2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2351
-[/us/pl/109/351/s401/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs401%2Fa%2F3
+[/us/pl/109/351/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtIV
 [/us/stat/120/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1973
-[/us/pl/111/203/s376/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs376%2F4
+[/us/pl/111/203/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIII
 [/us/stat/124/1569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1569
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
-[/us/pl/103/202/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2Fs107
+[/us/pl/103/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202
 [/us/pl/101/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429
-[/us/pl/100/181/s324/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs324%2F1
-[/us/pl/100/181/s324/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs324%2F2
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/usc/t15/s78s/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78s%2Fb
-[/us/pl/100/181/s325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs325
-[/us/pl/99/571/s102/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2Fs102%2Fj%2F1
-[/us/pl/99/571/s102/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2Fs102%2Fj%2F3
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/99/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571
+[/us/pl/99/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/usc/t15/s78c/a/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F34
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29

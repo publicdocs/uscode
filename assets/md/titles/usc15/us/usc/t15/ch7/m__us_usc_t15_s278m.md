@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s278l.md) | [Next](./../../../..//us/usc/t15/ch7/m__us_usc_t15_s278n.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278m)
 
-## § 278m. Repealed. [Pub. L. 110–69, title III, § 3013(d)][/us/pl/110/69/s3013/d], Aug. 9, 2007, [121 Stat. 599][/us/stat/121/599]
+## § 278m. Repealed. [Pub. L. 110–69, title III][/us/pl/110/69/tIII], § 3013(d), Aug. 9, 2007, [121 Stat. 599][/us/stat/121/599]
 
-    Section, [act Mar. 3, 1901, ch. 872, § 27][/us/act/1901-03-03/ch872/s27], as added [Pub. L. 100–418, title V, § 5121(d)][/us/pl/100/418/s5121/d], Aug. 23, 1988, [102 Stat. 1437][/us/stat/102/1437], related to the establishment of a program for the evaluation of non-energy inventions.
+    Section, [act Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 27, as added [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5121(d), Aug. 23, 1988, [102 Stat. 1437][/us/stat/102/1437], related to the establishment of a program for the evaluation of non-energy inventions.
 
 ----------
 
@@ -24,10 +24,10 @@
 ----------
 ----------
 
-[/us/pl/110/69/s3013/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3013%2Fd
+[/us/pl/110/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIII
 [/us/stat/121/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F599
-[/us/act/1901-03-03/ch872/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs27
-[/us/pl/100/418/s5121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5121%2Fd
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1437
 
 

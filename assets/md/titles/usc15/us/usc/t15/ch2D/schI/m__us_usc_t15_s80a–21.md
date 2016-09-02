@@ -21,7 +21,7 @@
 
     (b) such person controls or is under common control with such registered company; except that the provisions of this paragraph shall not apply to any loan from a registered company to a company which owns all of the outstanding securities of such registered company, except directors’ qualifying shares.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 21, [54 Stat. 822][/us/stat/54/822]; [Pub. L. 100–181, title VI, § 615][/us/pl/100/181/s615], Dec. 4, 1987, [101 Stat. 1262][/us/stat/101/1262].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 21, [54 Stat. 822][/us/stat/54/822]; [Pub. L. 100–181, title VI][/us/pl/100/181/tVI], § 615, Dec. 4, 1987, [101 Stat. 1262][/us/stat/101/1262].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F822
-[/us/pl/100/181/s615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs615
+[/us/pl/100/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVI
 [/us/stat/101/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1262
 [/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 

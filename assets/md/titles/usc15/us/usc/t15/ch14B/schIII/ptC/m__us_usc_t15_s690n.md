@@ -17,7 +17,7 @@
 
     Using the procedures for removing or suspending a director or an officer of a licensee set forth in [section 687e of this title][/us/usc/t15/s687e] (to the extent such procedures are not inconsistent with the requirements of this part), the Administrator may remove or suspend any director or officer of any Renewable Fuel Capital Investment company.
 
-([Pub. L. 85–699, title III, § 395][/us/pl/85/699/s395], as added [Pub. L. 110–140, title XII, § 1207][/us/pl/110/140/s1207], Dec. 19, 2007, [121 Stat. 1783][/us/stat/121/1783].)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 395, as added [Pub. L. 110–140, title XII][/us/pl/110/140/tXII], § 1207, Dec. 19, 2007, [121 Stat. 1783][/us/stat/121/1783].)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t15/s687e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687e
-[/us/pl/85/699/s395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs395
-[/us/pl/110/140/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1207
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/110/140/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXII
 [/us/stat/121/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1783
 
 

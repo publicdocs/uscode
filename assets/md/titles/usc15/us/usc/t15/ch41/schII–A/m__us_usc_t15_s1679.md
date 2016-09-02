@@ -31,7 +31,7 @@
 
         (2) to protect the public from unfair or deceptive advertising and business practices by credit repair organizations.
 
-([Pub. L. 90–321, title IV, § 402][/us/pl/90/321/s402], as added [Pub. L. 104–208, div. A, title II, § 2451][/us/pl/104/208/s2451], Sept. 30, 1996, [110 Stat. 3009–455][/us/stat/110/3009-455].)
+([Pub. L. 90–321, title IV][/us/pl/90/321/tIV], § 402, as added [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2451, Sept. 30, 1996, [110 Stat. 3009–455][/us/stat/110/3009-455].)
 
  __Prior Provisions__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date of Subchapter__ 
 
-[Section 413 of title IV of Pub. L. 90–321][/us/pl/90/321/s413], as added by [Pub. L. 104–208, div. A, title II, § 2451][/us/pl/104/208/s2451], Sept. 30, 1996, [110 Stat. 3009–462][/us/stat/110/3009-462], provided that: 
+[Section 413 of title IV of Pub. L. 90–321][/us/pl/90/321/tIV/s413], as added by [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2451, Sept. 30, 1996, [110 Stat. 3009–462][/us/stat/110/3009-462], provided that: 
 
 > “This title \[enacting this subchapter\] shall apply after the end of the 6-month period beginning on the date of the enactment of the Credit Repair Organizations Act \[Sept. 30, 1996\], except with respect to contracts entered into by a credit repair organization before the end of such period.”
 
@@ -54,8 +54,8 @@
 ----------
 ----------
 
-[/us/pl/90/321/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs402
-[/us/pl/104/208/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2451
+[/us/pl/90/321/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIV
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-455
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
 [/us/stat/82/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F164
@@ -64,8 +64,8 @@
 [/us/pl/92/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F321
 [/us/stat/86/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F382
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/90/321/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs413
-[/us/pl/104/208/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2451
+[/us/pl/90/321/tIV/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIV%2Fs413
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-462
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 

@@ -27,7 +27,7 @@
 
         The provisions of subsection (a) shall be applicable, irrespective of the basis of exchange, (1) to any offer of exchange of any security of a registered open-end company for a security of a registered unit investment trust or registered face-amount certificate company; and (2) to any type of offer of exchange of the securities of registered unit investment trusts or registered face-amount certificate companies for the securities of any other investment company.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 11, [54 Stat. 808][/us/stat/54/808]; [Pub. L. 91–547, § 6][/us/pl/91/547/s6], Dec. 14, 1970, [84 Stat. 1417][/us/stat/84/1417].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 11, [54 Stat. 808][/us/stat/54/808]; [Pub. L. 91–547][/us/pl/91/547], § 6, Dec. 14, 1970, [84 Stat. 1417][/us/stat/84/1417].)
 
  __Amendments__ 
 
@@ -50,7 +50,7 @@
 
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F808
-[/us/pl/91/547/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs6
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1417
 [/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547

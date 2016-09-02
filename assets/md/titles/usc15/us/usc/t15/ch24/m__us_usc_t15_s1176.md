@@ -17,7 +17,7 @@
 
     Whoever violates any of the provisions of sections 1172, 1173, 1174, or 1175 of this title shall be fined not more than $5,000 or imprisoned not more than two years, or both.
 
-([Jan. 2, 1951, ch. 1194, § 6][/us/act/1951-01-02/ch1194/s6], [64 Stat. 1135][/us/stat/64/1135].)
+([Jan. 2, 1951, ch. 1194][/us/act/1951-01-02/ch1194], § 6, [64 Stat. 1135][/us/stat/64/1135].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1951-01-02/ch1194/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-02%2Fch1194%2Fs6
+[/us/act/1951-01-02/ch1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-01-02%2Fch1194
 [/us/stat/64/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1135
 
 

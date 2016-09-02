@@ -41,7 +41,7 @@
 
     (5) The term “labeling” means all labels and other written, printed, or graphic matter (A) upon any household substance or its package, or (B) accompanying such substance.
 
-([Pub. L. 91–601, § 2][/us/pl/91/601/s2], Dec. 30, 1970, [84 Stat. 1670][/us/stat/84/1670]; [Pub. L. 92–516, § 3(2)][/us/pl/92/516/s3/2], Oct. 21, 1972, [86 Stat. 998][/us/stat/86/998]; [Pub. L. 92–573, § 30(a)][/us/pl/92/573/s30/a], Oct. 27, 1972, [86 Stat. 1231][/us/stat/86/1231]; [Pub. L. 94–284, § 3(a)][/us/pl/94/284/s3/a], May 11, 1976, [90 Stat. 503][/us/stat/90/503].)
+([Pub. L. 91–601][/us/pl/91/601], § 2, Dec. 30, 1970, [84 Stat. 1670][/us/stat/84/1670]; [Pub. L. 92–516][/us/pl/92/516], § 3(2), Oct. 21, 1972, [86 Stat. 998][/us/stat/86/998]; [Pub. L. 92–573][/us/pl/92/573], § 30(a), Oct. 27, 1972, [86 Stat. 1231][/us/stat/86/1231]; [Pub. L. 94–284][/us/pl/94/284], § 3(a), May 11, 1976, [90 Stat. 503][/us/stat/90/503].)
 
  __References in Text__ 
 
@@ -59,13 +59,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 91–601, § 8][/us/pl/91/601/s8], formerly § 9, Dec. 30, 1970, [84 Stat. 1674][/us/stat/84/1674], as amended by [Pub. L. 92–573, § 30(a)][/us/pl/92/573/s30/a], Oct. 27, 1972, [86 Stat. 1231][/us/stat/86/1231], and renumbered by [Pub. L. 97–35, title XII, § 1205(c)][/us/pl/97/35/s1205/c], Aug. 13, 1981, [95 Stat. 716][/us/stat/95/716], provided that: 
+[Pub. L. 91–601][/us/pl/91/601], § 8, formerly § 9, Dec. 30, 1970, [84 Stat. 1674][/us/stat/84/1674], as amended by [Pub. L. 92–573][/us/pl/92/573], § 30(a), Oct. 27, 1972, [86 Stat. 1231][/us/stat/86/1231], and renumbered by [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1205(c), Aug. 13, 1981, [95 Stat. 716][/us/stat/95/716], provided that: 
 
 > “This Act \[see Short Title note set out below\] shall take effect on the date of its enactment \[Dec. 30, 1970\]. Each regulation establishing a special packaging standard shall specify the date such standard is to take effect which date shall not be sooner than one hundred and eighty days or later than one year from the date such regulation is final, unless the Commission, for good cause found, determines that an earlier effective date is in the public interest and publishes in the Federal Register his reason for such finding, in which case such earlier date shall apply. No such standard shall be effective as to household substances subject to this Act packaged prior to the effective date of such final regulation.”
 
  __Short Title__ 
 
-[Pub. L. 91–601, § 1][/us/pl/91/601/s1], Dec. 30, 1970, [84 Stat. 1670][/us/stat/84/1670], provided that: 
+[Pub. L. 91–601][/us/pl/91/601], § 1, Dec. 30, 1970, [84 Stat. 1670][/us/stat/84/1670], provided that: 
 
 > “This Act \[enacting this chapter, [section 135(z)(2)(i) of Title 7][/us/usc/t7/s135/z/2/i], Agriculture, and sections 343(n), 352(p), and 362(f) of Title 21, Food and Drugs, amending [section 1261(p) of this title][/us/usc/t15/s1261/p] and [section 353(b)(2) of Title 21][/us/usc/t21/s353/b/2], and enacting provisions set out as a note under this section\] may be cited as the ‘Poison Prevention Packaging Act of 1970’.”
 
@@ -83,13 +83,13 @@
 [/us/usc/t15/s1261/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1261%2Ff
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/usc/t15/s1473/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1473%2Fa%2F2
-[/us/pl/91/601/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601%2Fs2
+[/us/pl/91/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601
 [/us/stat/84/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1670
-[/us/pl/92/516/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs3%2F2
+[/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/stat/86/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F998
-[/us/pl/92/573/s30/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs30%2Fa
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1231
-[/us/pl/94/284/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs3%2Fa
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/stat/90/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F503
 [/us/pl/91/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601
 [/us/usc/t7/s136/z/2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136%2Fz%2F2%2Fi
@@ -101,13 +101,13 @@
 [/us/pl/92/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516
 [/us/pl/92/516/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F516%2Fs4
 [/us/usc/t7/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs136
-[/us/pl/91/601/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601%2Fs8
+[/us/pl/91/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601
 [/us/stat/84/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1674
-[/us/pl/92/573/s30/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs30%2Fa
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1231
-[/us/pl/97/35/s1205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1205%2Fc
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F716
-[/us/pl/91/601/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601%2Fs1
+[/us/pl/91/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601
 [/us/stat/84/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1670
 [/us/usc/t7/s135/z/2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs135%2Fz%2F2%2Fi
 [/us/usc/t15/s1261/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1261%2Fp

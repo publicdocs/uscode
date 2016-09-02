@@ -149,7 +149,7 @@
 
         The Director of the National Science Foundation shall evaluate and report periodically to Congress on the success of recruiting individuals for scholarships under this section and on hiring and retaining those individuals in the public sector workforce.
 
-([Pub. L. 113–274, title III, § 302][/us/pl/113/274/s302], Dec. 18, 2014, [128 Stat. 2982][/us/stat/128/2982].)
+([Pub. L. 113–274, title III][/us/pl/113/274/tIII], § 302, Dec. 18, 2014, [128 Stat. 2982][/us/stat/128/2982].)
 
  __References in Text__ 
 
@@ -163,7 +163,7 @@
 ----------
 
 [/us/usc/t20/s1087a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087a
-[/us/pl/113/274/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs302
+[/us/pl/113/274/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2FtIII
 [/us/stat/128/2982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2982
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219

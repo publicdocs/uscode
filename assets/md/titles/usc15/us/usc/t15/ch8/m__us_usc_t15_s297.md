@@ -35,7 +35,7 @@
 
         Each identifying trademark or name applied to any article of merchandise in compliance with clause (A) of this subsection shall be applied to that article by the same means as that used in applying the quality mark or stamp appearing thereon, in type or lettering at least as large as that used in such quality mark or stamp, and in a position as close as possible to that quality mark or stamp. For the purposes of this subsection, the term “State” includes the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the District of Columbia.
 
-([June 13, 1906, ch. 3289, § 4][/us/act/1906-06-13/ch3289/s4], [34 Stat. 261][/us/stat/34/261]; [Pub. L. 87–354, § 1][/us/pl/87/354/s1], Oct. 4, 1961, [75 Stat. 775][/us/stat/75/775]; [Pub. L. 91–366, § 1(e)][/us/pl/91/366/s1/e], July 31, 1970, [84 Stat. 691][/us/stat/84/691].)
+([June 13, 1906, ch. 3289][/us/act/1906-06-13/ch3289], § 4, [34 Stat. 261][/us/stat/34/261]; [Pub. L. 87–354][/us/pl/87/354], § 1, Oct. 4, 1961, [75 Stat. 775][/us/stat/75/775]; [Pub. L. 91–366][/us/pl/91/366], § 1(e), July 31, 1970, [84 Stat. 691][/us/stat/84/691].)
 
  __References in Text__ 
 
@@ -49,25 +49,25 @@
 
  __Effective Date of 1970 Amendment__ 
 
-[Pub. L. 91–366, § 4][/us/pl/91/366/s4], July 31, 1970, [84 Stat. 691][/us/stat/84/691], provided that: 
+[Pub. L. 91–366][/us/pl/91/366], § 4, July 31, 1970, [84 Stat. 691][/us/stat/84/691], provided that: 
 
 > “This Act \[amending this section and sections 298 and 299 of this title and enacting provisions set out below\] shall take effect three months after enactment \[July 31, 1970\].”
 
  __Effective Date of 1961 Amendment__ 
 
-[Pub. L. 87–354, § 2][/us/pl/87/354/s2], Oct. 4, 1961, [75 Stat. 776][/us/stat/75/776], provided that: 
+[Pub. L. 87–354][/us/pl/87/354], § 2, Oct. 4, 1961, [75 Stat. 776][/us/stat/75/776], provided that: 
 
 > “The amendments made by this Act \[amending this section\] shall take effect on the first day of the third month beginning after the date of enactment of this Act \[Oct. 4, 1961\].”
 
  __Separability__ 
 
-[Pub. L. 91–366, § 2][/us/pl/91/366/s2], July 31, 1970, [84 Stat. 691][/us/stat/84/691], provided that: 
+[Pub. L. 91–366][/us/pl/91/366], § 2, July 31, 1970, [84 Stat. 691][/us/stat/84/691], provided that: 
 
 > “If any provision of this Act \[see Effective Date of 1970 Amendment note above\] or any amendment made thereby, or the application thereof to any person, as that term is herein defined, is held invalid, the remainder of the Act or amendment and the application of the remaining provisions of the Act or amendment to any person shall not be affected thereby.”
 
  __Construction of 1970 Amendment__ 
 
-[Pub. L. 91–366, § 3][/us/pl/91/366/s3], July 31, 1970, [84 Stat. 691][/us/stat/84/691], provided that: 
+[Pub. L. 91–366][/us/pl/91/366], § 3, July 31, 1970, [84 Stat. 691][/us/stat/84/691], provided that: 
 
 > “The provisions of this Act \[see Effective Date of 1970 Amendment note above\] and amendments made thereby shall be held to be in addition to, and not in substitution for or limitation of, the provisions of any other Act of the United States.”
 
@@ -80,21 +80,21 @@
 
 [/us/usc/t15/s294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs294
 [/us/usc/t15/s294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs294
-[/us/act/1906-06-13/ch3289/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-13%2Fch3289%2Fs4
+[/us/act/1906-06-13/ch3289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-06-13%2Fch3289
 [/us/stat/34/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F261
-[/us/pl/87/354/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F354%2Fs1
+[/us/pl/87/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F354
 [/us/stat/75/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F775
-[/us/pl/91/366/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F366%2Fs1%2Fe
+[/us/pl/91/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F366
 [/us/stat/84/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F691
 [/us/pl/91/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F366
 [/us/pl/87/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F354
-[/us/pl/91/366/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F366%2Fs4
+[/us/pl/91/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F366
 [/us/stat/84/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F691
-[/us/pl/87/354/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F354%2Fs2
+[/us/pl/87/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F354
 [/us/stat/75/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F776
-[/us/pl/91/366/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F366%2Fs2
+[/us/pl/91/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F366
 [/us/stat/84/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F691
-[/us/pl/91/366/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F366%2Fs3
+[/us/pl/91/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F366
 [/us/stat/84/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F691
 
 

@@ -203,11 +203,11 @@
 
             (E) The number of times that the Administration has failed to approve or reject a liquidation plan in accordance with subparagraph (A)(i), a workout plan in accordance with subparagraph (C)(i), or to approve or deny a request for purchase of indebtedness under subparagraph (B)(i), including specific information regarding the reasons for the Administration’s failure and any delays that resulted.
 
-([Pub. L. 85–699, title V, § 510][/us/pl/85/699/s510], as added [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title III, § 307(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–685.)
+([Pub. L. 85–699, title V][/us/pl/85/699/tV], § 510, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title III, § 307(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–685.)
 
  __References in Text__ 
 
-    The Small Business Programs Improvement Act of 1996, referred to in subsec. (b)(1)(A)(i), is [Pub. L. 104–208, div. D][/us/pl/104/208], Sept. 30, 1996, [110 Stat. 3009–724][/us/stat/110/3009-724]. Provisions relating to loan liquidation pilot program are contained in [section 204 of title II of div. D of Pub. L. 104–208][/us/pl/104/208/s204], which is set out as a note under [section 695 of this title][/us/usc/t15/s695]. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under [section 631 of this title][/us/usc/t15/s631] and Tables.
+    The Small Business Programs Improvement Act of 1996, referred to in subsec. (b)(1)(A)(i), is [Pub. L. 104–208, div. D][/us/pl/104/208/dD], Sept. 30, 1996, [110 Stat. 3009–724][/us/stat/110/3009-724]. Provisions relating to loan liquidation pilot program are contained in [section 204 of title II of div. D of Pub. L. 104–208][/us/pl/104/208/dD/tII/s204], which is set out as a note under [section 695 of this title][/us/usc/t15/s695]. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under [section 631 of this title][/us/usc/t15/s631] and Tables.
 
  __Change of Name__ 
 
@@ -215,7 +215,7 @@
 
  __Regulations__ 
 
-[Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title III, § 307(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–689, provided that:
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title III, § 307(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–689, provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -223,7 +223,7 @@
 
 >     “(2)  __Termination of pilot program__  __.—__ 
 
->     Beginning on the date on which final regulations are issued under paragraph (1), section 204 of the Small Business Programs Improvement Act of 1996 \[[Pub. L. 104–208, div. D][/us/pl/104/208]\] ([15 U.S.C. 695][/us/usc/t15/s695] note) shall cease to have effect.”
+>     Beginning on the date on which final regulations are issued under paragraph (1), section 204 of the Small Business Programs Improvement Act of 1996 \[[Pub. L. 104–208, div. D][/us/pl/104/208/dD]\] ([15 U.S.C. 695][/us/usc/t15/s695] note) shall cease to have effect.”
 
 ----------
 
@@ -239,18 +239,18 @@
 [/us/usc/t15/s697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs697
 [/us/usc/t15/s697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs697
 [/us/usc/t15/s696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs696
-[/us/pl/85/699/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs510
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/85/699/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtV
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dD]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD
 [/us/stat/110/3009-724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-724
-[/us/pl/104/208/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs204
+[/us/pl/104/208/dD/tII/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD%2FtII%2Fs204
 [/us/usc/t15/s695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs695
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t15/s697g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs697g
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dD]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD
 [/us/usc/t15/s695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs695
 
 

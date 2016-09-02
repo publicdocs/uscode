@@ -33,7 +33,7 @@
 
         (2) The Board shall prescribe and collect a guarantee fee in connection with each loan guaranteed under this chapter. Such fee shall reflect the Government’s administrative expense in making the guarantee and the risk assumed by the Government and shall not be less than an amount which, when added to the amount of interest payable to the lender of such loan, produces a total charge appropriate for loan agreements of comparable risk and maturity if supplied by the normal capital markets.
 
-([Pub. L. 92–70, § 4][/us/pl/92/70/s4], Aug. 9, 1971, [85 Stat. 178][/us/stat/85/178].)
+([Pub. L. 92–70][/us/pl/92/70], § 4, Aug. 9, 1971, [85 Stat. 178][/us/stat/85/178].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/92/70/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70%2Fs4
+[/us/pl/92/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70
 [/us/stat/85/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F178
 
 

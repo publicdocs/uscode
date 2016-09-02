@@ -53,13 +53,13 @@
 
             (B) the agency issues such license for a period not to exceed 5 years in the case of a State that enacted a State law before October 1, 1996, that provides for the issuance of an initial weapons license or a renewal of a weapons license, as the case may be, for a period not to exceed 5 years.
 
-([Pub. L. 103–55, § 3][/us/pl/103/55/s3], July 28, 1993, [107 Stat. 276][/us/stat/107/276]; [Pub. L. 105–287, § 2][/us/pl/105/287/s2], Oct. 27, 1998, [112 Stat. 2776][/us/stat/112/2776].)
+([Pub. L. 103–55][/us/pl/103/55], § 3, July 28, 1993, [107 Stat. 276][/us/stat/107/276]; [Pub. L. 105–287][/us/pl/105/287], § 2, Oct. 27, 1998, [112 Stat. 2776][/us/stat/112/2776].)
 
  __Amendments__ 
 
-    1998—Subsec. (a). [Pub. L. 105–287, § 2(a)][/us/pl/105/287/s2/a], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “If an armored car crew member employed by an armored car company has in effect a license issued by the appropriate State agency (in the State in which such member is primarily employed by such company) to carry a weapon while acting in the services of such company in that State, and such State agency meets the minimum State requirements under subsection (b) of this section, then such crew member shall be entitled to lawfully carry any weapon to which such license relates in any State while such crew member is acting in the service of such company.”
+    1998—Subsec. (a). [Pub. L. 105–287][/us/pl/105/287], § 2(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “If an armored car crew member employed by an armored car company has in effect a license issued by the appropriate State agency (in the State in which such member is primarily employed by such company) to carry a weapon while acting in the services of such company in that State, and such State agency meets the minimum State requirements under subsection (b) of this section, then such crew member shall be entitled to lawfully carry any weapon to which such license relates in any State while such crew member is acting in the service of such company.”
 
-    Subsec. (b). [Pub. L. 105–287, § 2(b)][/us/pl/105/287/s2/b], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “A State agency meets the minimum State requirements of this subsection if in issuing a weapons license to an armored car crew member described in subsection (a) of this section, the agency requires the crew member to provide information on an annual basis to the satisfaction of the agency that—
+    Subsec. (b). [Pub. L. 105–287][/us/pl/105/287], § 2(b), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “A State agency meets the minimum State requirements of this subsection if in issuing a weapons license to an armored car crew member described in subsection (a) of this section, the agency requires the crew member to provide information on an annual basis to the satisfaction of the agency that—
 
     “(1) the crew member has received classroom and range training in weapons safety and marksmanship during the current year by a qualified instructor for each weapon that the crew member is licensed to carry; and
 
@@ -67,7 +67,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–287, § 3][/us/pl/105/287/s3], Oct. 27, 1998, [112 Stat. 2777][/us/stat/112/2777], provided that: 
+[Pub. L. 105–287][/us/pl/105/287], § 3, Oct. 27, 1998, [112 Stat. 2777][/us/stat/112/2777], provided that: 
 
 > “The amendments made by section 2 \[amending this section\] shall take effect 30 days after the date of the enactment of this Act \[Oct. 27, 1998\].”
 
@@ -78,13 +78,13 @@
 ----------
 ----------
 
-[/us/pl/103/55/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F55%2Fs3
+[/us/pl/103/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F55
 [/us/stat/107/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F276
-[/us/pl/105/287/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F287%2Fs2
+[/us/pl/105/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F287
 [/us/stat/112/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2776
-[/us/pl/105/287/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F287%2Fs2%2Fa
-[/us/pl/105/287/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F287%2Fs2%2Fb
-[/us/pl/105/287/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F287%2Fs3
+[/us/pl/105/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F287
+[/us/pl/105/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F287
+[/us/pl/105/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F287
 [/us/stat/112/2777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2777
 
 

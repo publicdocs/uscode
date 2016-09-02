@@ -73,7 +73,7 @@
 
         In the promotion of technology from research and development efforts by Centers under this section, chapter 18 of title 35 shall apply to the extent not inconsistent with this section.
 
-([Pub. L. 96–480, § 7][/us/pl/96/480/s7], formerly § 6, Oct. 21, 1980, [94 Stat. 2313][/us/stat/94/2313]; [Pub. L. 99–502, § 9(b)(6)][/us/pl/99/502/s9/b/6]–(10), Oct. 20, 1986, [100 Stat. 1796][/us/stat/100/1796]; renumbered § 7, [Pub. L. 100–418, title V, § 5122(a)(1)][/us/pl/100/418/s5122/a/1], Aug. 23, 1988, [102 Stat. 1438][/us/stat/102/1438].)
+([Pub. L. 96–480][/us/pl/96/480], § 7, formerly § 6, Oct. 21, 1980, [94 Stat. 2313][/us/stat/94/2313]; [Pub. L. 99–502][/us/pl/99/502], § 9(b)(6)–(10), Oct. 20, 1986, [100 Stat. 1796][/us/stat/100/1796]; renumbered § 7, [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5122(a)(1), Aug. 23, 1988, [102 Stat. 1438][/us/stat/102/1438].)
 
  __Prior Provisions__ 
 
@@ -81,17 +81,17 @@
 
  __Amendments__ 
 
-    1986—Subsec. (a). [Pub. L. 99–502, § 9(b)(7)][/us/pl/99/502/s9/b/7], substituted “Cooperative Research Centers” for “Centers for Industrial Technology”.
+    1986—Subsec. (a). [Pub. L. 99–502][/us/pl/99/502], § 9(b)(7), substituted “Cooperative Research Centers” for “Centers for Industrial Technology”.
 
-    Subsec. (b)(1). [Pub. L. 99–502, § 9(b)(8)][/us/pl/99/502/s9/b/8], struck out “basic and applied” after “industry-university”.
+    Subsec. (b)(1). [Pub. L. 99–502][/us/pl/99/502], § 9(b)(8), struck out “basic and applied” after “industry-university”.
 
-    Subsec. (e). [Pub. L. 99–502, § 9(b)(9)][/us/pl/99/502/s9/b/9], amended subsec. (e) generally. Prior to amendment, subsec. (e) provided that a Center of Industrial Technology had the option to acquire title to an invention conceived or made under its auspices and supported by Federal funds, authorized supporting agency to require the Center to grant licenses to the invention to responsible applicants in certain cases, and provided for judicial review of licensing determinations by the supporting agency.
+    Subsec. (e). [Pub. L. 99–502][/us/pl/99/502], § 9(b)(9), amended subsec. (e) generally. Prior to amendment, subsec. (e) provided that a Center of Industrial Technology had the option to acquire title to an invention conceived or made under its auspices and supported by Federal funds, authorized supporting agency to require the Center to grant licenses to the invention to responsible applicants in certain cases, and provided for judicial review of licensing determinations by the supporting agency.
 
-    Subsec. (f). [Pub. L. 99–502, § 9(b)(10)][/us/pl/99/502/s9/b/10], struck out subsec. (f) which read as follows: “The supporting agency may request the Attorney General’s opinion whether the proposed joint research activities of a Center would violate any of the antitrust laws. The Attorney General shall advise the supporting agency of his determination and the reasons for it within 120 days after receipt of such request.”
+    Subsec. (f). [Pub. L. 99–502][/us/pl/99/502], § 9(b)(10), struck out subsec. (f) which read as follows: “The supporting agency may request the Attorney General’s opinion whether the proposed joint research activities of a Center would violate any of the antitrust laws. The Attorney General shall advise the supporting agency of his determination and the reasons for it within 120 days after receipt of such request.”
 
  __Model Program__ 
 
-[Pub. L. 101–510, div. A, title VIII, § 827(b)][/us/pl/101/510/s827/b], Nov. 5, 1990, [104 Stat. 1607][/us/stat/104/1607], as amended by [Pub. L. 102–190, div. A, title X, § 1062(a)(2)][/us/pl/102/190/s1062/a/2], Dec. 5, 1991, [105 Stat. 1475][/us/stat/105/1475], provided that:
+[Pub. L. 101–510, div. A, title VIII][/us/pl/101/510/dA/tVIII], § 827(b), Nov. 5, 1990, [104 Stat. 1607][/us/stat/104/1607], as amended by [Pub. L. 102–190, div. A, title X][/us/pl/102/190/dA/tX], § 1062(a)(2), Dec. 5, 1991, [105 Stat. 1475][/us/stat/105/1475], provided that:
 
 >     “(1) In the administration of applicable provisions of the Stevenson-Wydler Technology Innovation Act of 1980 \[[15 U.S.C. 3701][/us/usc/t15/s3701] et seq.\] or section 5121(b) of the Omnibus Trade and Competitiveness Act of 1988 \[[Pub. L. 100–418][/us/pl/100/418], [15 U.S.C. 278][/us/usc/t15/s278]l note\], the Secretary of Commerce shall develop, in consultation with the Secretary of Defense and the Secretary of Energy, model programs for national defense laboratories.
 
@@ -112,21 +112,21 @@
 ----------
 ----------
 
-[/us/pl/96/480/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs7
+[/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2313
-[/us/pl/99/502/s9/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs9%2Fb%2F6
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/stat/100/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1796
-[/us/pl/100/418/s5122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5122%2Fa%2F1
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1438
 [/us/pl/96/480/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs7
 [/us/usc/t15/s3706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3706
-[/us/pl/99/502/s9/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs9%2Fb%2F7
-[/us/pl/99/502/s9/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs9%2Fb%2F8
-[/us/pl/99/502/s9/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs9%2Fb%2F9
-[/us/pl/99/502/s9/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502%2Fs9%2Fb%2F10
-[/us/pl/101/510/s827/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs827%2Fb
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
+[/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
+[/us/pl/101/510/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVIII
 [/us/stat/104/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1607
-[/us/pl/102/190/s1062/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1062%2Fa%2F2
+[/us/pl/102/190/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2FdA%2FtX
 [/us/stat/105/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1475
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418

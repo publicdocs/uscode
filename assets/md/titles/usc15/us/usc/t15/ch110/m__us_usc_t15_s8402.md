@@ -77,11 +77,11 @@
 
                 (iii) a successor of an entity described in clause (i) or (ii).
 
-([Pub. L. 111–345, § 3][/us/pl/111/345/s3], Dec. 29, 2010, [124 Stat. 3619][/us/stat/124/3619].)
+([Pub. L. 111–345][/us/pl/111/345], § 3, Dec. 29, 2010, [124 Stat. 3619][/us/stat/124/3619].)
 
  __References in Text__ 
 
-    The Electronic Fund Transfer Act, referred to in subsec. (c), is title IX of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 95–630, title XX, § 2001][/us/pl/95/630/s2001], Nov. 10, 1978, [92 Stat. 3728][/us/stat/92/3728], which is classified generally to subchapter VI (§ 1693 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title][/us/usc/t15/s1601] and Tables.
+    The Electronic Fund Transfer Act, referred to in subsec. (c), is title IX of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 95–630, title XX][/us/pl/95/630/tXX], § 2001, Nov. 10, 1978, [92 Stat. 3728][/us/stat/92/3728], which is classified generally to subchapter VI (§ 1693 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title][/us/usc/t15/s1601] and Tables.
 
 ----------
 
@@ -91,10 +91,10 @@
 ----------
 
 [/us/usc/t15/s1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693
-[/us/pl/111/345/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F345%2Fs3
+[/us/pl/111/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F345
 [/us/stat/124/3619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3619
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
-[/us/pl/95/630/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs2001
+[/us/pl/95/630/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXX
 [/us/stat/92/3728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3728
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 

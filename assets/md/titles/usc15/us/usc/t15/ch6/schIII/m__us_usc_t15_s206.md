@@ -1865,7 +1865,7 @@
 
     The same and no other shall be used in determining duties and taxes levied by the United States of America on sheet and plate iron and steel. But this subchapter shall not be construed to increase duties upon any articles which may be imported.
 
-([Mar. 3, 1893, ch. 221, § 1][/us/act/1893-03-03/ch221/s1], [27 Stat. 746][/us/stat/27/746].)
+([Mar. 3, 1893, ch. 221][/us/act/1893-03-03/ch221], § 1, [27 Stat. 746][/us/stat/27/746].)
 
  __References in Text__ 
 
@@ -1878,7 +1878,7 @@
 ----------
 ----------
 
-[/us/act/1893-03-03/ch221/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-03%2Fch221%2Fs1
+[/us/act/1893-03-03/ch221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-03%2Fch221
 [/us/stat/27/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F746
 [/us/act/1893-03-03/ch221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-03%2Fch221
 [/us/stat/27/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F746

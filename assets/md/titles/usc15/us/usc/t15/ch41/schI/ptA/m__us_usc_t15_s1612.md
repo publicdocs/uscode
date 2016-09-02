@@ -31,7 +31,7 @@
 
         A creditor participating in a credit program administered, insured, or guaranteed by any department or agency of the United States shall not be held liable for a civil or criminal penalty under the laws of any State (other than laws determined under [section 1610 of this title][/us/usc/t15/s1610] to be inconsistent with this subchapter) for any technical or procedural failure, such as a failure to use a specific form, to make information available at a specific place on an instrument, or to use a specific typeface, as required by State law, which is caused by the use of an instrument required to be used by such department or agency.
 
-([Pub. L. 90–321, title I, § 113][/us/pl/90/321/s113], May 29, 1968, [82 Stat. 151][/us/stat/82/151]; [Pub. L. 96–221, title VI, § 622(a)][/us/pl/96/221/s622/a], Mar. 31, 1980, [94 Stat. 184][/us/stat/94/184]; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 113, May 29, 1968, [82 Stat. 151][/us/stat/82/151]; [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 622(a), Mar. 31, 1980, [94 Stat. 184][/us/stat/94/184]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 
  __Amendments__ 
 
@@ -55,11 +55,11 @@
 ----------
 
 [/us/usc/t15/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1610
-[/us/pl/90/321/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs113
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
 [/us/stat/82/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F151
-[/us/pl/96/221/s622/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs622%2Fa
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F184
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221

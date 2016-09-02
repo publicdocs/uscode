@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to carry out the purposes of this chapter, not to exceed $6,250,000 for the fiscal year ending June 30, 1976, and the subsequent transition period ending September 30, 1976; not to exceed $5,000,000 for the fiscal year ending September 30, 1977; and not to exceed $5,000,000 for the fiscal year ending September 30, 1978. Funds appropriated for any fiscal year shall remain available for obligation until expended.
 
-([Pub. L. 94–136, title VII, § 701][/us/pl/94/136/s701], Nov. 28, 1975, [89 Stat. 743][/us/stat/89/743].)
+([Pub. L. 94–136, title VII][/us/pl/94/136/tVII], § 701, Nov. 28, 1975, [89 Stat. 743][/us/stat/89/743].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/136/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2Fs701
+[/us/pl/94/136/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2FtVII
 [/us/stat/89/743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F743
 
 

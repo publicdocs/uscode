@@ -17,7 +17,7 @@
 
     The provisions of this subchapter shall be held to be in addition to, and not in substitution for or limitation of, the provisions of any other Act of the United States.
 
-([Pub. L. 85–897, § 14][/us/pl/85/897/s14], Sept. 2, 1958, [72 Stat. 1724][/us/stat/72/1724].)
+([Pub. L. 85–897][/us/pl/85/897], § 14, Sept. 2, 1958, [72 Stat. 1724][/us/stat/72/1724].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/897/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F897%2Fs14
+[/us/pl/85/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F897
 [/us/stat/72/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1724
 
 

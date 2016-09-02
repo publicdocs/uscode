@@ -93,7 +93,7 @@
 
         The provisions of this section apply only to warranties which pertain to consumer products actually costing the consumer more than $5.
 
-([Pub. L. 93–637, title I, § 102][/us/pl/93/637/s102], Jan. 4, 1975, [88 Stat. 2185][/us/stat/88/2185]; [Pub. L. 114–51, § 3(a)][/us/pl/114/51/s3/a], Sept. 24, 2015, [129 Stat. 494][/us/stat/129/494].)
+([Pub. L. 93–637, title I][/us/pl/93/637/tI], § 102, Jan. 4, 1975, [88 Stat. 2185][/us/stat/88/2185]; [Pub. L. 114–51][/us/pl/114/51], § 3(a), Sept. 24, 2015, [129 Stat. 494][/us/stat/129/494].)
 
  __Amendments__ 
 
@@ -101,7 +101,7 @@
 
  __Findings__ 
 
-[Pub. L. 114–51, § 2][/us/pl/114/51/s2], Sept. 24, 2015, [129 Stat. 494][/us/stat/129/494], provided that: 
+[Pub. L. 114–51][/us/pl/114/51], § 2, Sept. 24, 2015, [129 Stat. 494][/us/stat/129/494], provided that: 
 
 > “Congress makes the following findings:
 
@@ -113,7 +113,7 @@
 
  __Revision of Rules__ 
 
-[Pub. L. 114–51, § 3(b)][/us/pl/114/51/s3/b], Sept. 24, 2015, [129 Stat. 495][/us/stat/129/495], provided that:
+[Pub. L. 114–51][/us/pl/114/51], § 3(b), Sept. 24, 2015, [129 Stat. 495][/us/stat/129/495], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -130,14 +130,14 @@
 ----------
 ----------
 
-[/us/pl/93/637/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs102
+[/us/pl/93/637/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2FtI
 [/us/stat/88/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2185
-[/us/pl/114/51/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F51%2Fs3%2Fa
+[/us/pl/114/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F51
 [/us/stat/129/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F494
 [/us/pl/114/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F51
-[/us/pl/114/51/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F51%2Fs2
+[/us/pl/114/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F51
 [/us/stat/129/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F494
-[/us/pl/114/51/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F51%2Fs3%2Fb
+[/us/pl/114/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F51
 [/us/stat/129/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F495
 [/us/pl/93/637/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs102%2Fb
 [/us/usc/t15/s2309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2309%2Fa

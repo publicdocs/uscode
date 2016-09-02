@@ -71,7 +71,7 @@
 
             Within 4 years after October 28, 1992, the Administrator shall revise the regulations under subsection (a) to apply the regulations to renovation or remodeling activities in target housing, public buildings constructed before 1978, and commercial buildings that create lead-based paint hazards. In determining which contractors are engaged in such activities, the Administrator shall utilize the results of the study under paragraph (2) and consult with the representatives of labor organizations, lead-based paint activities contractors, persons engaged in remodeling and renovation, experts in lead health effects, and others. If the Administrator determines that any category of contractors engaged in renovation or remodeling does not require certification, the Administrator shall publish an explanation of the basis for that determination.
 
-([Pub. L. 94–469, title IV, § 402][/us/pl/94/469/s402], as added [Pub. L. 102–550, title X, § 1021(a)][/us/pl/102/550/s1021/a], Oct. 28, 1992, [106 Stat. 3914][/us/stat/106/3914].)
+([Pub. L. 94–469, title IV][/us/pl/94/469/tIV], § 402, as added [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(a), Oct. 28, 1992, [106 Stat. 3914][/us/stat/106/3914].)
 
 ----------
 
@@ -84,8 +84,8 @@
 [/us/pl/102/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F139
 [/us/stat/105/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F765
 [/us/usc/t42/s4822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4822
-[/us/pl/94/469/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs402
-[/us/pl/102/550/s1021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1021%2Fa
+[/us/pl/94/469/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtIV
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3914
 
 

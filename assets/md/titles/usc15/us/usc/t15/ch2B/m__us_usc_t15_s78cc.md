@@ -27,7 +27,7 @@
 
         Nothing in this chapter shall be construed (1) to affect the validity of any loan or extension of credit (or any extension or renewal thereof) made or of any lien created prior or subsequent to the enactment of this chapter, unless at the time of the making of such loan or extension of credit (or extension or renewal thereof) or the creating of such lien, the person making such loan or extension of credit (or extension or renewal thereof) or acquiring such lien shall have actual knowledge of facts by reason of which the making of such loan or extension of credit (or extension or renewal thereof) or the acquisition of such lien is a violation of the provisions of this chapter or any rule or regulation thereunder, or (2) to afford a defense to the collection of any debt or obligation or the enforcement of any lien by any person who shall have acquired such debt, obligation, or lien in good faith for value and without actual knowledge of the violation of any provision of this chapter or any rule or regulation thereunder affecting the legality of such debt, obligation, or lien.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 29, [48 Stat. 903][/us/stat/48/903]; [June 25, 1938, ch. 677, § 3][/us/act/1938-06-25/ch677/s3], [52 Stat. 1076][/us/stat/52/1076]; [Pub. L. 101–429, title V, § 507][/us/pl/101/429/s507], Oct. 15, 1990, [104 Stat. 956][/us/stat/104/956]; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 927, 929T, July 21, 2010, [124 Stat. 1852][/us/stat/124/1852], 1867.)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 29, [48 Stat. 903][/us/stat/48/903]; [June 25, 1938, ch. 677][/us/act/1938-06-25/ch677], § 3, [52 Stat. 1076][/us/stat/52/1076]; [Pub. L. 101–429, title V][/us/pl/101/429/tV], § 507, Oct. 15, 1990, [104 Stat. 956][/us/stat/104/956]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], §§ 927, 929T, July 21, 2010, [124 Stat. 1852][/us/stat/124/1852], 1867.)
 
  __References in Text__ 
 
@@ -58,11 +58,11 @@
 
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F903
-[/us/act/1938-06-25/ch677/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch677%2Fs3
+[/us/act/1938-06-25/ch677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch677
 [/us/stat/52/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1076
-[/us/pl/101/429/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2Fs507
+[/us/pl/101/429/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2FtV
 [/us/stat/104/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F956
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1852
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

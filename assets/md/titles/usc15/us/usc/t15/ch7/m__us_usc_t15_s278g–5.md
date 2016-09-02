@@ -39,7 +39,7 @@
 
         The Director shall ensure that the Manufacturing Extension Program is prepared to advise small- and medium-sized businesses on how to acquire the expertise, equipment, and training necessary to participate fully in supply chains using enterprise integration.
 
-([Pub. L. 107–277, § 3][/us/pl/107/277/s3], Nov. 5, 2002, [116 Stat. 1936][/us/stat/116/1936]; [Pub. L. 113–188, title II, § 201(b)][/us/pl/113/188/s201/b], Nov. 26, 2014, [128 Stat. 2018][/us/stat/128/2018].)
+([Pub. L. 107–277][/us/pl/107/277], § 3, Nov. 5, 2002, [116 Stat. 1936][/us/stat/116/1936]; [Pub. L. 113–188, title II][/us/pl/113/188/tII], § 201(b), Nov. 26, 2014, [128 Stat. 2018][/us/stat/128/2018].)
 
  __References in Text__ 
 
@@ -92,9 +92,9 @@
 ----------
 ----------
 
-[/us/pl/107/277/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F277%2Fs3
+[/us/pl/107/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F277
 [/us/stat/116/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1936
-[/us/pl/113/188/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2Fs201%2Fb
+[/us/pl/113/188/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F188%2FtII
 [/us/stat/128/2018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2018
 [/us/pl/107/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F277
 [/us/stat/116/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1936

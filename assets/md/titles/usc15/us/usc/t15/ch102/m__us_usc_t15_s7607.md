@@ -17,7 +17,7 @@
 
     The Federal Trade Commission shall prescribe rules pursuant to [section 57a of this title][/us/usc/t15/s57a] to carry out this chapter. Rules so prescribed shall be exempt from the requirements of the Magnuson-Moss Warranty—Federal Trade Commission Improvement Act ([15 U.S.C. 2301][/us/usc/t15/s2301] et seq.). Any such regulations shall be issued in accordance with [section 553 of title 5][/us/usc/t5/s553]. The first rules under this section shall take effect not later than 180 days after the effective date of this chapter.
 
-([Pub. L. 108–164, § 8][/us/pl/108/164/s8], Dec. 6, 2003, [117 Stat. 2026][/us/stat/117/2026].)
+([Pub. L. 108–164][/us/pl/108/164], § 8, Dec. 6, 2003, [117 Stat. 2026][/us/stat/117/2026].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 [/us/usc/t15/s57a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a
 [/us/usc/t15/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2301
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/108/164/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F164%2Fs8
+[/us/pl/108/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F164
 [/us/stat/117/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2026
 [/us/pl/93/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637
 [/us/stat/88/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2183

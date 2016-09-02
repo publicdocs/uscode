@@ -17,7 +17,7 @@
 
     As used in this chapter, the term “interstate commerce” includes commerce between one State, Territory, possession, the District of Columbia, or the Commonwealth of Puerto Rico and another State, Territory, possession, the District of Columbia, or the Commonwealth of Puerto Rico.
 
-([Aug. 2, 1956, ch. 890, § 4][/us/act/1956-08-02/ch890/s4], [70 Stat. 953][/us/stat/70/953].)
+([Aug. 2, 1956, ch. 890][/us/act/1956-08-02/ch890], § 4, [70 Stat. 953][/us/stat/70/953].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-02/ch890/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch890%2Fs4
+[/us/act/1956-08-02/ch890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch890
 [/us/stat/70/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F953
 [/us/usc/t15/s2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2079
 

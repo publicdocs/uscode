@@ -33,7 +33,7 @@
 
             Not more than 10 percent of the total funds made available from the Administration in any fiscal year to carry out this chapter may be excepted from the matching requirements of subsection (a), as authorized by paragraph (1) of this subsection.
 
-([Pub. L. 103–325, title I, § 177][/us/pl/103/325/s177], as added [Pub. L. 106–102, title VII, § 725][/us/pl/106/102/s725], Nov. 12, 1999, [113 Stat. 1474][/us/stat/113/1474].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 177, as added [Pub. L. 106–102, title VII][/us/pl/106/102/tVII], § 725, Nov. 12, 1999, [113 Stat. 1474][/us/stat/113/1474].)
 
 ----------
 
@@ -42,8 +42,8 @@
 ----------
 ----------
 
-[/us/pl/103/325/s177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs177
-[/us/pl/106/102/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs725
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
+[/us/pl/106/102/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtVII
 [/us/stat/113/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1474
 
 

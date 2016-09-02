@@ -193,7 +193,7 @@
 
         The authority to award assistance and grants under this section shall expire on the date that is 5 years after January 2, 2013.
 
-([Pub. L. 93–498, § 34][/us/pl/93/498/s34], as added [Pub. L. 108–136, div. A, title X, § 1057][/us/pl/108/136/s1057], Nov. 24, 2003, [117 Stat. 1616][/us/stat/117/1616]; amended [Pub. L. 112–239, div. A, title XVIII, § 1804][/us/pl/112/239/s1804], Jan. 2, 2013, [126 Stat. 2111][/us/stat/126/2111]; [Pub. L. 113–66, div. A, title X, § 1091(b)(9)][/us/pl/113/66/s1091/b/9], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876].)
+([Pub. L. 93–498][/us/pl/93/498], § 34, as added [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1057, Nov. 24, 2003, [117 Stat. 1616][/us/stat/117/1616]; amended [Pub. L. 112–239, div. A, title XVIII][/us/pl/112/239/dA/tXVIII], § 1804, Jan. 2, 2013, [126 Stat. 2111][/us/stat/126/2111]; [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1091(b)(9), Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876].)
 
  __References in Text__ 
 
@@ -205,19 +205,19 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–239, § 1804(j)][/us/pl/112/239/s1804/j], substituted “Staffing for adequate fire and emergency response” for “Expansion of pre-September 11, 2001, fire grant program” in section catchline.
+    2013—[Pub. L. 112–239][/us/pl/112/239], § 1804(j), substituted “Staffing for adequate fire and emergency response” for “Expansion of pre-September 11, 2001, fire grant program” in section catchline.
 
-    [Pub. L. 112–239, § 1804(i)][/us/pl/112/239/s1804/i], as amended by [Pub. L. 113–66, § 1091(b)(9)(B)][/us/pl/113/66/s1091/b/9/B], substituted “Administrator of FEMA” for “Administrator” wherever appearing, except in those places in which “Administrator of FEMA” already appeared.
+    [Pub. L. 112–239][/us/pl/112/239], § 1804(i), as amended by [Pub. L. 113–66][/us/pl/113/66], § 1091(b)(9)(B), substituted “Administrator of FEMA” for “Administrator” wherever appearing, except in those places in which “Administrator of FEMA” already appeared.
 
-    Subsec. (a)(1)(A). [Pub. L. 112–239, § 1804(g)(2)][/us/pl/112/239/s1804/g/2], substituted “career fire departments, combination fire departments, and volunteer fire departments” for “career, volunteer, and combination fire departments”.
+    Subsec. (a)(1)(A). [Pub. L. 112–239][/us/pl/112/239], § 1804(g)(2), substituted “career fire departments, combination fire departments, and volunteer fire departments” for “career, volunteer, and combination fire departments”.
 
-    Subsec. (a)(1)(B). [Pub. L. 112–239, § 1804(a)(1)][/us/pl/112/239/s1804/a/1], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
+    Subsec. (a)(1)(B). [Pub. L. 112–239][/us/pl/112/239], § 1804(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
     “(B)(i) Grants made under this paragraph shall be for 4 years and be used for programs to hire new, additional firefighters.
 
     “(ii) Grantees are required to commit to retaining for at least 1 year beyond the termination of their grants those firefighters hired under this paragraph.”
 
-    Subsec. (a)(1)(E). [Pub. L. 112–239, § 1804(a)(2)][/us/pl/112/239/s1804/a/2], amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “The portion of the costs of hiring firefighters provided by a grant under this paragraph may not exceed—
+    Subsec. (a)(1)(E). [Pub. L. 112–239][/us/pl/112/239], § 1804(a)(2), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “The portion of the costs of hiring firefighters provided by a grant under this paragraph may not exceed—
 
     “(i) 90 percent in the first year of the grant;
 
@@ -227,45 +227,45 @@
 
     “(iv) 30 percent in the fourth year of the grant.”
 
-    Subsec. (a)(2). [Pub. L. 112–239, § 1804(b)][/us/pl/112/239/s1804/b], substituted “national, State, local, or tribal organizations” for “organizations on a local or statewide basis”.
+    Subsec. (a)(2). [Pub. L. 112–239][/us/pl/112/239], § 1804(b), substituted “national, State, local, or tribal organizations” for “organizations on a local or statewide basis”.
 
-    Subsec. (c)(4). [Pub. L. 112–239, § 1804(c)][/us/pl/112/239/s1804/c], amended par. (4) generally. Prior to amendment, par. (4) read as follows:
+    Subsec. (c)(4). [Pub. L. 112–239][/us/pl/112/239], § 1804(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
 
     “(4)(A) Total funding provided under this section over 4 years for hiring a firefighter may not exceed $100,000.
 
     “(B) The $100,000 cap shall be adjusted annually for inflation beginning in fiscal year 2005.”
 
-    Subsec. (d). [Pub. L. 112–239, § 1804(d)(2)][/us/pl/112/239/s1804/d/2], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 112–239][/us/pl/112/239], § 1804(d)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (e). [Pub. L. 112–239, § 1804(e)][/us/pl/112/239/s1804/e], added par. (1) and designated existing provisions as par. (2) and inserted heading.
+    Subsec. (e). [Pub. L. 112–239][/us/pl/112/239], § 1804(e), added par. (1) and designated existing provisions as par. (2) and inserted heading.
 
-    [Pub. L. 112–239, § 1804(d)(1)][/us/pl/112/239/s1804/d/1], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    [Pub. L. 112–239][/us/pl/112/239], § 1804(d)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 112–239, § 1804(f)][/us/pl/112/239/s1804/f], substituted “Report” for “Sunset and reports” in heading and “Not later than September 30, 2014, the Administrator of FEMA shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science and Technology and the Committee on Transportation and Infrastructure of the House of Representatives a report on” for “The authority under this section to make grants shall lapse at the conclusion of 10 years from November 24, 2003. Not later than 6 years after November 24, 2003, the Administrator shall submit a report to Congress concerning” in text.
+    Subsec. (f). [Pub. L. 112–239][/us/pl/112/239], § 1804(f), substituted “Report” for “Sunset and reports” in heading and “Not later than September 30, 2014, the Administrator of FEMA shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science and Technology and the Committee on Transportation and Infrastructure of the House of Representatives a report on” for “The authority under this section to make grants shall lapse at the conclusion of 10 years from November 24, 2003. Not later than 6 years after November 24, 2003, the Administrator shall submit a report to Congress concerning” in text.
 
-    [Pub. L. 112–239, § 1804(d)(1)][/us/pl/112/239/s1804/d/1], redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+    [Pub. L. 112–239][/us/pl/112/239], § 1804(d)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-    Subsecs. (g), (h). [Pub. L. 112–239, § 1804(d)(1)][/us/pl/112/239/s1804/d/1], redesignated subsecs. (f) and (g) as (g) and (h), respectively. Former subsec. (h) redesignated (i).
+    Subsecs. (g), (h). [Pub. L. 112–239][/us/pl/112/239], § 1804(d)(1), redesignated subsecs. (f) and (g) as (g) and (h), respectively. Former subsec. (h) redesignated (i).
 
-    Subsec. (i). [Pub. L. 112–239, § 1804(g)(1)(A)][/us/pl/112/239/s1804/g/1/A], substituted “In this section:” for “In this section, the term—” in introductory provisions.
+    Subsec. (i). [Pub. L. 112–239][/us/pl/112/239], § 1804(g)(1)(A), substituted “In this section:” for “In this section, the term—” in introductory provisions.
 
-    [Pub. L. 112–239, § 1804(d)(1)][/us/pl/112/239/s1804/d/1], redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+    [Pub. L. 112–239][/us/pl/112/239], § 1804(d)(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-    Subsec. (i)(1). [Pub. L. 112–239, § 1804(g)(1)(B)][/us/pl/112/239/s1804/g/1/B], inserted “The term” before “ ‘firefighter’ has” and substituted period for “; and”.
+    Subsec. (i)(1). [Pub. L. 112–239][/us/pl/112/239], § 1804(g)(1)(B), inserted “The term” before “ ‘firefighter’ has” and substituted period for “; and”.
 
-    Subsec. (i)(2). [Pub. L. 112–239, § 1804(g)(1)(C)][/us/pl/112/239/s1804/g/1/C], (D), added par. (2) and struck out former par. (2) which read as follows: “ ‘Indian tribe’ means a tribe, band, pueblo, nation, or other organized group or community of Indians, including an Alaska Native village (as defined in or established under the Alaska Native Claims Settlement Act ([43 U.S.C. 1601][/us/usc/t43/s1601] et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.”
+    Subsec. (i)(2). [Pub. L. 112–239][/us/pl/112/239], § 1804(g)(1)(C), (D), added par. (2) and struck out former par. (2) which read as follows: “ ‘Indian tribe’ means a tribe, band, pueblo, nation, or other organized group or community of Indians, including an Alaska Native village (as defined in or established under the Alaska Native Claims Settlement Act ([43 U.S.C. 1601][/us/usc/t43/s1601] et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.”
 
-    Subsec. (j). [Pub. L. 112–239, § 1804(h)(2)][/us/pl/112/239/s1804/h/2], (3), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (9) as subpars. (A) to (I), respectively, of par. (1), redesignated subpars. (A) and (B) of former par. (9) as cls. (i) and (ii) of subpar. (I), and added pars. (2) and (3).
+    Subsec. (j). [Pub. L. 112–239][/us/pl/112/239], § 1804(h)(2), (3), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (9) as subpars. (A) to (I), respectively, of par. (1), redesignated subpars. (A) and (B) of former par. (9) as cls. (i) and (ii) of subpar. (I), and added pars. (2) and (3).
 
-    [Pub. L. 112–239, § 1804(d)(1)][/us/pl/112/239/s1804/d/1], redesignated subsec. (i) as (j).
+    [Pub. L. 112–239][/us/pl/112/239], § 1804(d)(1), redesignated subsec. (i) as (j).
 
-    Subsec. (j)(8), (9). [Pub. L. 112–239, § 1804(h)(1)][/us/pl/112/239/s1804/h/1], as amended by [Pub. L. 113–66, § 1091(b)(9)(A)][/us/pl/113/66/s1091/b/9/A], added pars. (8) and (9).
+    Subsec. (j)(8), (9). [Pub. L. 112–239][/us/pl/112/239], § 1804(h)(1), as amended by [Pub. L. 113–66][/us/pl/113/66], § 1091(b)(9)(A), added pars. (8) and (9).
 
-    Subsec. (k). [Pub. L. 112–239, § 1804(k)][/us/pl/112/239/s1804/k], added subsec. (k).
+    Subsec. (k). [Pub. L. 112–239][/us/pl/112/239], § 1804(k), added subsec. (k).
 
  __Effective Date of 2013 Amendment__ 
 
-    [Pub. L. 113–66, div. A, title X, § 1091(b)][/us/pl/113/66/s1091/b], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided in part that the amendment made by section 1091(b)(9) is effective as of Jan. 2, 2013, and as if included in [Pub. L. 112–239][/us/pl/112/239] as enacted.
+    [Pub. L. 113–66, div. A, title X][/us/pl/113/66/dA/tX], § 1091(b), Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876], provided in part that the amendment made by section 1091(b)(9) is effective as of Jan. 2, 2013, and as if included in [Pub. L. 112–239][/us/pl/112/239] as enacted.
 
 ----------
 
@@ -276,41 +276,41 @@
 
 [/us/usc/t29/s203/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs203%2Fy
 [/us/usc/t15/s2229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2229%2Fa
-[/us/pl/93/498/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs34
-[/us/pl/108/136/s1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1057
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1616
-[/us/pl/112/239/s1804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804
+[/us/pl/112/239/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVIII
 [/us/stat/126/2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2111
-[/us/pl/113/66/s1091/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb%2F9
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
 [/us/usc/t29/s203/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs203%2Fy
 [/us/pl/93/498/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs34
 [/us/usc/t15/s2231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2231
-[/us/pl/112/239/s1804/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fj
-[/us/pl/112/239/s1804/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fi
-[/us/pl/113/66/s1091/b/9/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb%2F9%2FB
-[/us/pl/112/239/s1804/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fg%2F2
-[/us/pl/112/239/s1804/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fa%2F1
-[/us/pl/112/239/s1804/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fa%2F2
-[/us/pl/112/239/s1804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fb
-[/us/pl/112/239/s1804/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fc
-[/us/pl/112/239/s1804/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fd%2F2
-[/us/pl/112/239/s1804/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fe
-[/us/pl/112/239/s1804/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fd%2F1
-[/us/pl/112/239/s1804/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Ff
-[/us/pl/112/239/s1804/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fd%2F1
-[/us/pl/112/239/s1804/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fd%2F1
-[/us/pl/112/239/s1804/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fg%2F1%2FA
-[/us/pl/112/239/s1804/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fd%2F1
-[/us/pl/112/239/s1804/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fg%2F1%2FB
-[/us/pl/112/239/s1804/g/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fg%2F1%2FC
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
-[/us/pl/112/239/s1804/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fh%2F2
-[/us/pl/112/239/s1804/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fd%2F1
-[/us/pl/112/239/s1804/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fh%2F1
-[/us/pl/113/66/s1091/b/9/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb%2F9%2FA
-[/us/pl/112/239/s1804/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1804%2Fk
-[/us/pl/113/66/s1091/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/113/66/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtX
 [/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 

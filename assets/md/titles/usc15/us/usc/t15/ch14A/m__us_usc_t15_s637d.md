@@ -29,7 +29,7 @@
 
         (C) the aggregate value by which such entities exceeded, or failed to meet, their subcontracting goals during the prior fiscal year.
 
-([Pub. L. 112–239, div. A, title XVI, § 1653(b)][/us/pl/112/239/s1653/b], Jan. 2, 2013, [126 Stat. 2082][/us/stat/126/2082].)
+([Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1653(b), Jan. 2, 2013, [126 Stat. 2082][/us/stat/126/2082].)
 
  __Codification__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t15/s637/d/6/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fd%2F6%2FE
 [/us/usc/t15/s637/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fd%2F6
-[/us/pl/112/239/s1653/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1653%2Fb
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2082
 
 

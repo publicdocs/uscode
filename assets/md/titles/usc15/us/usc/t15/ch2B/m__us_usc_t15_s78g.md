@@ -141,29 +141,29 @@
 
         Subject to such rules and regulations as the Board of Governors of the Federal Reserve System may adopt in the public interest and for the protection of investors, no member of a national securities exchange or broker or dealer shall be deemed to have extended or maintained credit or arranged for the extension or maintenance of credit for the purpose of purchasing a security, within the meaning of this section, by reason of a bona fide agreement for delayed delivery of a mortgage related security or a small business related security against full payment of the purchase price thereof upon such delivery within one hundred and eighty days after the purchase, or within such shorter period as the Board of Governors of the Federal Reserve System may prescribe by rule or regulation.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 7, [48 Stat. 886][/us/stat/48/886]; [Aug. 23, 1935, ch. 614, § 203(a)][/us/act/1935-08-23/ch614/s203/a], [49 Stat. 704][/us/stat/49/704]; [Pub. L. 90–437][/us/pl/90/437], July 29, 1968, [82 Stat. 452][/us/stat/82/452]; [Pub. L. 91–508, title III, § 301(a)][/us/pl/91/508/s301/a], Oct. 26, 1970, [84 Stat. 1124][/us/stat/84/1124]; [Pub. L. 98–440, title I, § 102][/us/pl/98/440/s102], Oct. 3, 1984, [98 Stat. 1690][/us/stat/98/1690]; [Pub. L. 103–325, title II, § 203][/us/pl/103/325/s203], Sept. 23, 1994, [108 Stat. 2199][/us/stat/108/2199]; [Pub. L. 104–290, title I, § 104(a)][/us/pl/104/290/s104/a], Oct. 11, 1996, [110 Stat. 3422][/us/stat/110/3422]; [Pub. L. 105–353, title III, § 301(b)(5)][/us/pl/105/353/s301/b/5], (6), Nov. 3, 1998, [112 Stat. 3236][/us/stat/112/3236]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–429; [Pub. L. 111–203, title IX, § 929][/us/pl/111/203/s929], July 21, 2010, [124 Stat. 1852][/us/stat/124/1852].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 7, [48 Stat. 886][/us/stat/48/886]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 90–437][/us/pl/90/437], July 29, 1968, [82 Stat. 452][/us/stat/82/452]; [Pub. L. 91–508, title III][/us/pl/91/508/tIII], § 301(a), Oct. 26, 1970, [84 Stat. 1124][/us/stat/84/1124]; [Pub. L. 98–440, title I][/us/pl/98/440/tI], § 102, Oct. 3, 1984, [98 Stat. 1690][/us/stat/98/1690]; [Pub. L. 103–325, title II][/us/pl/103/325/tII], § 203, Sept. 23, 1994, [108 Stat. 2199][/us/stat/108/2199]; [Pub. L. 104–290, title I][/us/pl/104/290/tI], § 104(a), Oct. 11, 1996, [110 Stat. 3422][/us/stat/110/3422]; [Pub. L. 105–353, title III][/us/pl/105/353/tIII], § 301(b)(5), (6), Nov. 3, 1998, [112 Stat. 3236][/us/stat/112/3236]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 206(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–429; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 929, July 21, 2010, [124 Stat. 1852][/us/stat/124/1852].)
 
  __Amendments__ 
 
     2010—Subsec. (c)(1)(A). [Pub. L. 111–203][/us/pl/111/203] substituted “; or” for “; and” at end.
 
-    2000—Subsec. (a). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(b)(1)\], inserted “or a security futures product” after “exempted security” in introductory provisions.
+    2000—Subsec. (a). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 206(b)(1)\], inserted “or a security futures product” after “exempted security” in introductory provisions.
 
-    Subsec. (c)(1)(A). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(b)(2)\], inserted “except as provided in paragraph (2),” after “security),”.
+    Subsec. (c)(1)(A). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 206(b)(2)\], inserted “except as provided in paragraph (2),” after “security),”.
 
-    Subsec. (c)(2), (3). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(b)(3), (4)\], added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (c)(2), (3). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 206(b)(3), (4)\], added par. (2) and redesignated former par. (2) as (3).
 
-    1998—Subsecs. (a), (b). [Pub. L. 105–353, § 301(b)(5)][/us/pl/105/353/s301/b/5], substituted “Board of Governors of the Federal Reserve System” for “Federal Reserve Board”.
+    1998—Subsecs. (a), (b). [Pub. L. 105–353][/us/pl/105/353], § 301(b)(5), substituted “Board of Governors of the Federal Reserve System” for “Federal Reserve Board”.
 
-    Subsec. (d). [Pub. L. 105–353, § 301(b)(6)][/us/pl/105/353/s301/b/6], substituted “exceptions” for “exception” in heading.
+    Subsec. (d). [Pub. L. 105–353][/us/pl/105/353], § 301(b)(6), substituted “exceptions” for “exception” in heading.
 
-    1996—Subsec. (c). [Pub. L. 104–290, § 104(a)(1)][/us/pl/104/290/s104/a/1], amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “It shall be unlawful for any member of a national securities exchange or any broker or dealer, directly or indirectly, to extend or maintain credit or arrange for the extension or maintenance of credit to or for any customer—
+    1996—Subsec. (c). [Pub. L. 104–290][/us/pl/104/290], § 104(a)(1), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “It shall be unlawful for any member of a national securities exchange or any broker or dealer, directly or indirectly, to extend or maintain credit or arrange for the extension or maintenance of credit to or for any customer—
 
     “(1) on any security (other than an exempted security), in contravention of the rules and regulations which the Board of Governors of the Federal Reserve System shall prescribe under subsections (a) and (b) of this section;
 
     “(2) without collateral or on any collateral other than securities, except in accordance with such rules and regulations as the Board of Governors of the Federal Reserve System may prescribe (A) to permit under specified conditions and for a limited period any such member, broker, or dealer to maintain a credit initially extended in conformity with the rules and regulations of the Board of Governors of the Federal Reserve System, and (B) to permit the extension or maintenance of credit in cases where the extension or maintenance of credit is not for the purpose of purchasing or carrying securities or of evading or circumventing the provisions of paragraph (1) of this subsection.”
 
-    Subsec. (d). [Pub. L. 104–290, § 104(a)(2)][/us/pl/104/290/s104/a/2], amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “It shall be unlawful for any person not subject to subsection (c) of this section to extend or maintain credit or to arrange for the extension or maintenance of credit for the purpose of purchasing or carrying any security, in contravention of such rules and regulations as the Board of Governors of the Federal Reserve System shall prescribe to prevent the excessive use of credit for the purchasing or carrying of or trading in securities in circumvention of the other provisions of this section. Such rules and regulations may impose upon all loans made for the purpose of purchasing or carrying securities limitations similar to those imposed upon members, brokers, or dealers by subsection (c) of this section and the rules and regulations thereunder. This subsection and the rules and regulations thereunder shall not apply (A) to a loan made by a person not in the ordinary course of his business, (B) to a loan on an exempted security, (C) to a loan to a dealer to aid in the financing of the distribution of securities to customers not through the medium of a national securities exchange, (D) to a loan by a bank on a security other than an equity security, or (E) to such other loans as the Board of Governors of the Federal Reserve System shall, by such rules and regulations as it may deem necessary or appropriate in the public interest or for the protection of investors, exempt, either unconditionally or upon specified terms and conditions or for stated periods, from the operation of this subsection and the rules and regulations thereunder.”
+    Subsec. (d). [Pub. L. 104–290][/us/pl/104/290], § 104(a)(2), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “It shall be unlawful for any person not subject to subsection (c) of this section to extend or maintain credit or to arrange for the extension or maintenance of credit for the purpose of purchasing or carrying any security, in contravention of such rules and regulations as the Board of Governors of the Federal Reserve System shall prescribe to prevent the excessive use of credit for the purchasing or carrying of or trading in securities in circumvention of the other provisions of this section. Such rules and regulations may impose upon all loans made for the purpose of purchasing or carrying securities limitations similar to those imposed upon members, brokers, or dealers by subsection (c) of this section and the rules and regulations thereunder. This subsection and the rules and regulations thereunder shall not apply (A) to a loan made by a person not in the ordinary course of his business, (B) to a loan on an exempted security, (C) to a loan to a dealer to aid in the financing of the distribution of securities to customers not through the medium of a national securities exchange, (D) to a loan by a bank on a security other than an equity security, or (E) to such other loans as the Board of Governors of the Federal Reserve System shall, by such rules and regulations as it may deem necessary or appropriate in the public interest or for the protection of investors, exempt, either unconditionally or upon specified terms and conditions or for stated periods, from the operation of this subsection and the rules and regulations thereunder.”
 
     1994—Subsec. (g). [Pub. L. 103–325][/us/pl/103/325] inserted “or a small business related security” after “mortgage related security”.
 
@@ -171,11 +171,11 @@
 
     1970—Subsec. (f). [Pub. L. 91–508][/us/pl/91/508] added subsec. (f).
 
-    1968—Subsec. (a). [Pub. L. 90–437, § 1(1)][/us/pl/90/437/s1/1], struck out “registered on a national securities exchange” after “(other than an exempted security)”.
+    1968—Subsec. (a). [Pub. L. 90–437][/us/pl/90/437], § 1(1), struck out “registered on a national securities exchange” after “(other than an exempted security)”.
 
-    Subsec. (c). [Pub. L. 90–437, § 1(2)][/us/pl/90/437/s1/2], struck out “who transacts a business in securities through the medium of any such member” after “any broker or dealer”, in par. (1) struck out “registered on a national securities exchange” after “(other than an exempted security)”, and in par. (2) substituted “other than securities” for “other than exempted securities and/or securities registered upon a national securities exchange”.
+    Subsec. (c). [Pub. L. 90–437][/us/pl/90/437], § 1(2), struck out “who transacts a business in securities through the medium of any such member” after “any broker or dealer”, in par. (1) struck out “registered on a national securities exchange” after “(other than an exempted security)”, and in par. (2) substituted “other than securities” for “other than exempted securities and/or securities registered upon a national securities exchange”.
 
-    Subsec. (d). [Pub. L. 90–437, § 1(3)][/us/pl/90/437/s1/3], struck out “registered on a national securities exchange” after “the purpose of purchasing or carrying any security”, and “registered on national securities exchanges” after “the purpose of purchasing or carrying securities”.
+    Subsec. (d). [Pub. L. 90–437][/us/pl/90/437], § 1(3), struck out “registered on a national securities exchange” after “the purpose of purchasing or carrying any security”, and “registered on national securities exchanges” after “the purpose of purchasing or carrying securities”.
 
  __Change of Name__ 
 
@@ -189,13 +189,13 @@
 
     Amendment by [Pub. L. 91–508][/us/pl/91/508] effective on first day of seventh calendar month which begins after Oct. 26, 1970, except as otherwise provided in [section 401(c) of Pub. L. 91–508][/us/pl/91/508/s401/c], see [section 401(a) of Pub. L. 91–508][/us/pl/91/508/s401/a], set out as a note under [section 1951 of Title 12][/us/usc/t12/s1951], Banks and Banking.
 
-[Pub. L. 91–508, title IV, § 401(c)][/us/pl/91/508/s401/c], Oct. 26, 1970, [84 Stat. 1125][/us/stat/84/1125], provided that: 
+[Pub. L. 91–508, title IV][/us/pl/91/508/tIV], § 401(c), Oct. 26, 1970, [84 Stat. 1125][/us/stat/84/1125], provided that: 
 
 > “The Board of Governors of the Federal Reserve System may by regulation provide that the amendment made by title III \[amending this section\] shall be effective on any date not earlier than the publication of the regulation in the Federal Register and not later than the first day of the thirteenth calendar month which begins after the date of enactment \[Oct. 26, 1970\].”
 
  __Validity of Rules and Regulations__ 
 
-[Pub. L. 91–508, title III, § 301(b)][/us/pl/91/508/s301/b], Oct. 26, 1970, [84 Stat. 1125][/us/stat/84/1125], provided that: 
+[Pub. L. 91–508, title III][/us/pl/91/508/tIII], § 301(b), Oct. 26, 1970, [84 Stat. 1125][/us/stat/84/1125], provided that: 
 
 > “The amendment made by subsection (a) of this section \[amending this section\] does not affect the continuing validity of any rule or regulation under section 7 of the Securities Exchange Act of 1934 \[this section\] in effect prior to the effective date of the amendment.”
 
@@ -210,38 +210,38 @@
 [/us/usc/t15/s78f/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78f%2Fa
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F886
-[/us/act/1935-08-23/ch614/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614%2Fs203%2Fa
+[/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
 [/us/pl/90/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F437
 [/us/stat/82/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F452
-[/us/pl/91/508/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs301%2Fa
+[/us/pl/91/508/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtIII
 [/us/stat/84/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1124
-[/us/pl/98/440/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440%2Fs102
+[/us/pl/98/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440%2FtI
 [/us/stat/98/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1690
-[/us/pl/103/325/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs203
+[/us/pl/103/325/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtII
 [/us/stat/108/2199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2199
-[/us/pl/104/290/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs104%2Fa
+[/us/pl/104/290/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtI
 [/us/stat/110/3422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3422
-[/us/pl/105/353/s301/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fb%2F5
+[/us/pl/105/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtIII
 [/us/stat/112/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3236
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/203/s929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1852
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/105/353/s301/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fb%2F5
-[/us/pl/105/353/s301/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fb%2F6
-[/us/pl/104/290/s104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs104%2Fa%2F1
-[/us/pl/104/290/s104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs104%2Fa%2F2
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
+[/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/98/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440
 [/us/pl/91/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508
-[/us/pl/90/437/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F437%2Fs1%2F1
-[/us/pl/90/437/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F437%2Fs1%2F2
-[/us/pl/90/437/s1/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F437%2Fs1%2F3
+[/us/pl/90/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F437
+[/us/pl/90/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F437
+[/us/pl/90/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F437
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
@@ -249,9 +249,9 @@
 [/us/pl/91/508/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs401%2Fc
 [/us/pl/91/508/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs401%2Fa
 [/us/usc/t12/s1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1951
-[/us/pl/91/508/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs401%2Fc
+[/us/pl/91/508/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtIV
 [/us/stat/84/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1125
-[/us/pl/91/508/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs301%2Fb
+[/us/pl/91/508/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtIII
 [/us/stat/84/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1125
 
 

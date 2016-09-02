@@ -37,7 +37,7 @@
 
         Final action by the Commission on a request for approval of guidelines, or the failure to act within 180 days on a request for approval of guidelines, submitted under subsection (b) may be appealed to a district court of the United States of appropriate jurisdiction as provided for in [section 706 of title 5][/us/usc/t5/s706].
 
-([Pub. L. 105–277, div. C, title XIII, § 1304][/us/pl/105/277/s1304], Oct. 21, 1998, [112 Stat. 2681–732][/us/stat/112/2681-732].)
+([Pub. L. 105–277, div. C, title XIII][/us/pl/105/277/dC/tXIII], § 1304, Oct. 21, 1998, [112 Stat. 2681–732][/us/stat/112/2681-732].)
 
 ----------
 
@@ -51,7 +51,7 @@
 [/us/usc/t15/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6502
 [/us/usc/t15/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6502
 [/us/usc/t5/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706
-[/us/pl/105/277/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1304
+[/us/pl/105/277/dC/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtXIII
 [/us/stat/112/2681-732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-732
 
 

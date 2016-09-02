@@ -41,7 +41,7 @@
 
     (8) Using any language or symbol, other than the debt collector’s address, on any envelope when communicating with a consumer by use of the mails or by telegram, except that a debt collector may use his business name if such name does not indicate that he is in the debt collection business.
 
-([Pub. L. 90–321, title VIII, § 808][/us/pl/90/321/s808], as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 879][/us/stat/91/879].)
+([Pub. L. 90–321, title VIII][/us/pl/90/321/tVIII], § 808, as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 879][/us/stat/91/879].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/90/321/s808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs808
+[/us/pl/90/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVIII
 [/us/pl/95/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F109
 [/us/stat/91/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F879
 

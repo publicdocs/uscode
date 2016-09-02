@@ -149,7 +149,7 @@
 
             (B) more than 50 percent of the net profit or loss of which accrues to 1 or more women.
 
-([Pub. L. 90–321, title VII, § 704B][/us/pl/90/321/s704B], as added [Pub. L. 111–203, title X, § 1071(a)][/us/pl/111/203/s1071/a], July 21, 2010, [124 Stat. 2056][/us/stat/124/2056].)
+([Pub. L. 90–321, title VII][/us/pl/90/321/tVII], § 704B, as added [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1071(a), July 21, 2010, [124 Stat. 2056][/us/stat/124/2056].)
 
  __References in Text__ 
 
@@ -167,8 +167,8 @@
 ----------
 
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
-[/us/pl/90/321/s704B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs704B
-[/us/pl/111/203/s1071/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1071%2Fa
+[/us/pl/90/321/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVII
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2056
 [/us/pl/101/73/s1204/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs1204%2Fc%2F3
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811

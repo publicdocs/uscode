@@ -41,7 +41,7 @@
 
         (2) a corporation, partnership, or other association created under the laws of the United States or any State (including the District of Columbia or any commonwealth, territory, or possession of the United States).
 
-([Pub. L. 100–418, title II, § 2306][/us/pl/100/418/s2306], Aug. 23, 1988, [102 Stat. 1344][/us/stat/102/1344].)
+([Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2306, Aug. 23, 1988, [102 Stat. 1344][/us/stat/102/1344].)
 
  __Termination of Reporting Requirements__ 
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2306
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
 [/us/stat/102/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1344
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

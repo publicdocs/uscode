@@ -45,7 +45,7 @@
 
         The Administrator shall include a report on the plan whenever the Administration submits the report required by section 657o of this title.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[40\], as added [Pub. L. 110–234, title XII, § 12075][/us/pl/110/234/s12075], May 22, 2008, [122 Stat. 1414][/us/stat/122/1414], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12075, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2176.)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[40\], as added [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12075, May 22, 2008, [122 Stat. 1414][/us/stat/122/1414], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12075, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2176.)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 
  __Disaster Plan Improvements__ 
 
-[Pub. L. 114–88, div. A, title I, § 1105][/us/pl/114/88/s1105], Nov. 25, 2015, [129 Stat. 688][/us/stat/129/688], provided that: 
+[Pub. L. 114–88, div. A, title I][/us/pl/114/88/dA/tI], § 1105, Nov. 25, 2015, [129 Stat. 688][/us/stat/129/688], provided that: 
 
 > “The Administrator of the Small Business Administration shall revise the comprehensive written disaster response plan required in section 40 of the Small Business Act ([15 U.S.C. 657][/us/usc/t15/s657]l), or any successor thereto, to incorporate the Administration’s response to a situation in which an extreme volume of applications are received during the period of time immediately after a disaster, which shall include a plan to ensure that sufficient human and technological resources are made available and a plan to prevent delays in loan processing.”
 
@@ -73,10 +73,10 @@
 ----------
 
 [/us/usc/t15/s636/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fb%2F9
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
-[/us/pl/110/234/s12075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12075
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1414
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
@@ -88,7 +88,7 @@
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/114/88/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2Fs1105
+[/us/pl/114/88/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2FdA%2FtI
 [/us/stat/129/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F688
 [/us/usc/t15/s657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657
 

@@ -171,13 +171,13 @@
 
         For the purposes of this section, the term “investment adviser” includes a corporate or other trustee performing the functions of an investment adviser.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 9, [54 Stat. 805][/us/stat/54/805]; [Pub. L. 91–547, § 4][/us/pl/91/547/s4], Dec. 14, 1970, [84 Stat. 1415][/us/stat/84/1415]; [Pub. L. 94–29, § 28(6)][/us/pl/94/29/s28/6], June 4, 1975, [89 Stat. 166][/us/stat/89/166]; [Pub. L. 99–571, title I, § 102][/us/pl/99/571/s102](l), Oct. 28, 1986, [100 Stat. 3220][/us/stat/100/3220]; [Pub. L. 100–181, title VI, § 609][/us/pl/100/181/s609], Dec. 4, 1987, [101 Stat. 1261][/us/stat/101/1261]; [Pub. L. 101–429, title III, § 301][/us/pl/101/429/s301], Oct. 15, 1990, [104 Stat. 941][/us/stat/104/941]; [Pub. L. 101–550, title II, § 205(a)][/us/pl/101/550/s205/a], Nov. 15, 1990, [104 Stat. 2718][/us/stat/104/2718]; [Pub. L. 106–102, title II, § 222][/us/pl/106/102/s222], Nov. 12, 1999, [113 Stat. 1401][/us/stat/113/1401]; [Pub. L. 109–291, § 4(b)(2)(B)][/us/pl/109/291/s4/b/2/B], Sept. 29, 2006, [120 Stat. 1337][/us/stat/120/1337]; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 929P(a)(3), 985(d)(2), July 21, 2010, [124 Stat. 1863][/us/stat/124/1863], 1934.)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 9, [54 Stat. 805][/us/stat/54/805]; [Pub. L. 91–547][/us/pl/91/547], § 4, Dec. 14, 1970, [84 Stat. 1415][/us/stat/84/1415]; [Pub. L. 94–29][/us/pl/94/29], § 28(6), June 4, 1975, [89 Stat. 166][/us/stat/89/166]; [Pub. L. 99–571, title I][/us/pl/99/571/tI], § 102(l), Oct. 28, 1986, [100 Stat. 3220][/us/stat/100/3220]; [Pub. L. 100–181, title VI][/us/pl/100/181/tVI], § 609, Dec. 4, 1987, [101 Stat. 1261][/us/stat/101/1261]; [Pub. L. 101–429, title III][/us/pl/101/429/tIII], § 301, Oct. 15, 1990, [104 Stat. 941][/us/stat/104/941]; [Pub. L. 101–550, title II][/us/pl/101/550/tII], § 205(a), Nov. 15, 1990, [104 Stat. 2718][/us/stat/104/2718]; [Pub. L. 106–102, title II][/us/pl/106/102/tII], § 222, Nov. 12, 1999, [113 Stat. 1401][/us/stat/113/1401]; [Pub. L. 109–291][/us/pl/109/291], § 4(b)(2)(B), Sept. 29, 2006, [120 Stat. 1337][/us/stat/120/1337]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], §§ 929P(a)(3), 985(d)(2), July 21, 2010, [124 Stat. 1863][/us/stat/124/1863], 1934.)
 
  __References in Text__ 
 
     The Commodity Exchange Act, referred to in subsecs. (a)(1), (2) and (b)(2), (3), is [act Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], [42 Stat. 998][/us/stat/42/998], which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7][/us/usc/t7/s1] and Tables.
 
-    The Securities Act of 1933, referred to in subsecs. (b)(2), (3) and (d)(1)(A)(i), is [act May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
+    The Securities Act of 1933, referred to in subsecs. (b)(2), (3) and (d)(1)(A)(i), is [act May 27, 1933, ch. 38, title I][/us/act/1933-05-27/ch38/tI], [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
 
     The Securities Exchange Act of 1934, referred to in subsecs. (b)(2), (3) and (d)(1)(A)(i), is [act June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], [48 Stat. 881][/us/stat/48/881], which is classified generally to 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title][/us/usc/t15/s78a] and Tables.
 
@@ -185,9 +185,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(4)(B). [Pub. L. 111–203, § 985(d)(2)][/us/pl/111/203/s985/d/2], inserted “or” at end.
+    2010—Subsec. (b)(4)(B). [Pub. L. 111–203][/us/pl/111/203], § 985(d)(2), inserted “or” at end.
 
-    Subsec. (d)(1). [Pub. L. 111–203, § 929P(a)(3)][/us/pl/111/203/s929P/a/3], designated existing provisions as subpar. (A) and inserted heading, inserted “that such penalty is in the public interest, and” after “opportunity for hearing,” in introductory provisions, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and realigned margins, struck out concluding provisions which read “and that such penalty is in the public interest.”, and added subpar. (B).
+    Subsec. (d)(1). [Pub. L. 111–203][/us/pl/111/203], § 929P(a)(3), designated existing provisions as subpar. (A) and inserted heading, inserted “that such penalty is in the public interest, and” after “opportunity for hearing,” in introductory provisions, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and realigned margins, struck out concluding provisions which read “and that such penalty is in the public interest.”, and added subpar. (B).
 
     2006—Subsec. (a). [Pub. L. 109–291][/us/pl/109/291] inserted “credit rating agency,” after “transfer agent,” in pars. (1) and (2).
 
@@ -195,11 +195,11 @@
 
     1990—Subsec. (b)(4) to (6). [Pub. L. 101–550][/us/pl/101/550] added pars. (4) to (6).
 
-    Subsecs. (d) to (f). [Pub. L. 101–429, § 301(1)][/us/pl/101/429/s301/1], (2), added subsecs. (d) to (f) and redesignated former subsec. (d) as (g).
+    Subsecs. (d) to (f). [Pub. L. 101–429][/us/pl/101/429], § 301(1), (2), added subsecs. (d) to (f) and redesignated former subsec. (d) as (g).
 
-    Subsec. (g). [Pub. L. 101–429, § 301(3)][/us/pl/101/429/s301/3], which directed the striking out of “subsections (a) through (c) of” after “the purposes of”, was executed by striking out “subsection (a) through (c) of” as the probable intent of Congress.
+    Subsec. (g). [Pub. L. 101–429][/us/pl/101/429], § 301(3), which directed the striking out of “subsections (a) through (c) of” after “the purposes of”, was executed by striking out “subsection (a) through (c) of” as the probable intent of Congress.
 
-    [Pub. L. 101–429, § 301(1)][/us/pl/101/429/s301/1], redesignated subsec. (d) as (g).
+    [Pub. L. 101–429][/us/pl/101/429], § 301(1), redesignated subsec. (d) as (g).
 
     1987—Subsec. (a)(1), (2). [Pub. L. 100–181][/us/pl/100/181] amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
@@ -207,19 +207,19 @@
 
     “(2) any person who, by reason of any misconduct, is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an underwriter, broker, dealer, investment adviser, municipal securities dealer, government securities broker, government securities dealer, or entity or person required to be registered under the Commodity Exchange Act, or as an affiliated person, salesman, or employee of any investment company, bank, insurance company, or entity or person required to be registered under the Commodity Exchange Act, or from engaging in or continuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security; or”.
 
-    1986—Subsec. (a)(1), (2). [Pub. L. 99–571, § 102][/us/pl/99/571/s102](l)(1), inserted pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+    1986—Subsec. (a)(1), (2). [Pub. L. 99–571][/us/pl/99/571], § 102(l)(1), inserted pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
     “(1) any person who within ten years has been convicted of any felony or misdemeanor involving the purchase or sale of any security or arising out of such person’s conduct as an underwriter, broker, dealer, or investment adviser, or as an affiliated person, salesman, or employee of any investment company, bank, or insurance company;
 
     “(2) any person who, by reason of any misconduct, is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an underwriter, broker, dealer, or investment adviser, or as an affiliated person, salesman, or employee of any investment company, bank, or insurance company, or from engaging in or continuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security; or”.
 
-    Subsec. (b)(2), (3). [Pub. L. 99–571, § 102][/us/pl/99/571/s102](l)(2), (3), inserted reference to Commodity Exchange Act.
+    Subsec. (b)(2), (3). [Pub. L. 99–571][/us/pl/99/571], § 102(l)(2), (3), inserted reference to Commodity Exchange Act.
 
     1975—Subsec. (d). [Pub. L. 94–29][/us/pl/94/29] added subsec. (d).
 
-    1970—Subsec. (a). [Pub. L. 91–547, § 4(a)][/us/pl/91/547/s4/a], inserted “employee,” before “officer” in introductory text.
+    1970—Subsec. (a). [Pub. L. 91–547][/us/pl/91/547], § 4(a), inserted “employee,” before “officer” in introductory text.
 
-    Subsecs. (b), (c). [Pub. L. 91–547, § 4(b)][/us/pl/91/547/s4/b], added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsecs. (b), (c). [Pub. L. 91–547][/us/pl/91/547], § 4(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -272,28 +272,28 @@
 [/us/usc/t15/s80a–42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9342
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F805
-[/us/pl/91/547/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs4
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1415
-[/us/pl/94/29/s28/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs28%2F6
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F166
-[/us/pl/99/571/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2Fs102
+[/us/pl/99/571/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2FtI
 [/us/stat/100/3220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3220
-[/us/pl/100/181/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs609
+[/us/pl/100/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVI
 [/us/stat/101/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1261
-[/us/pl/101/429/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2Fs301
+[/us/pl/101/429/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2FtIII
 [/us/stat/104/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F941
-[/us/pl/101/550/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs205%2Fa
+[/us/pl/101/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtII
 [/us/stat/104/2718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2718
-[/us/pl/106/102/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs222
+[/us/pl/106/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtII
 [/us/stat/113/1401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1401
-[/us/pl/109/291/s4/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291%2Fs4%2Fb%2F2%2FB
+[/us/pl/109/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291
 [/us/stat/120/1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1337
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1863
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
-[/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
+[/us/act/1933-05-27/ch38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38%2FtI
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
@@ -302,20 +302,20 @@
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F847
 [/us/usc/t15/s80b–20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%9320
-[/us/pl/111/203/s985/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs985%2Fd%2F2
-[/us/pl/111/203/s929P/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929P%2Fa%2F3
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/109/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
-[/us/pl/101/429/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2Fs301%2F1
-[/us/pl/101/429/s301/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2Fs301%2F3
-[/us/pl/101/429/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2Fs301%2F1
+[/us/pl/101/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429
+[/us/pl/101/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429
+[/us/pl/101/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429
 [/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
-[/us/pl/99/571/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2Fs102
-[/us/pl/99/571/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2Fs102
+[/us/pl/99/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571
+[/us/pl/99/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
-[/us/pl/91/547/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs4%2Fa
-[/us/pl/91/547/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs4%2Fb
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

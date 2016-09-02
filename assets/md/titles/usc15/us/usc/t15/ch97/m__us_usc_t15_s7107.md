@@ -75,7 +75,7 @@
 
         The executive director and staff of the Council may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and except as provided in subsection (e), may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that the executive director may not receive pay in excess of the annual rate of basic pay payable for a position at ES–3 of the Senior Executive Pay Schedule under section 5832  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be section “5382”. </sup></sup>  of title 5.
 
-([Pub. L. 100–533, title IV, § 407][/us/pl/100/533/s407], as added [Pub. L. 103–403, title IV, § 413][/us/pl/103/403/s413], Oct. 22, 1994, [108 Stat. 4196][/us/stat/108/4196]; amended [Pub. L. 105–135, title III, § 304][/us/pl/105/135/s304], Dec. 2, 1997, [111 Stat. 2609][/us/stat/111/2609]; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VII, § 702\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–701.)
+([Pub. L. 100–533, title IV][/us/pl/100/533/tIV], § 407, as added [Pub. L. 103–403, title IV][/us/pl/103/403/tIV], § 413, Oct. 22, 1994, [108 Stat. 4196][/us/stat/108/4196]; amended [Pub. L. 105–135, title III][/us/pl/105/135/tIII], § 304, Dec. 2, 1997, [111 Stat. 2609][/us/stat/111/2609]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title VII, § 702\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–701.)
 
  __References in Text__ 
 
@@ -83,15 +83,15 @@
 
  __Prior Provisions__ 
 
-    A prior [section 407 of Pub. L. 100–533][/us/pl/100/533/s407], title IV, Oct. 25, 1988, [102 Stat. 2696][/us/stat/102/2696]; [Pub. L. 103–81, § 11][/us/pl/103/81/s11], Aug. 13, 1993, [107 Stat. 783][/us/stat/107/783], related to authorization of appropriations to carry out this chapter, prior to the general amendment of title IV of [Pub. L. 100–533][/us/pl/100/533] by [Pub. L. 103–403][/us/pl/103/403]. See [section 7110 of this title][/us/usc/t15/s7110].
+    A prior [section 407 of Pub. L. 100–533][/us/pl/100/533/s407], title IV, Oct. 25, 1988, [102 Stat. 2696][/us/stat/102/2696]; [Pub. L. 103–81][/us/pl/103/81], § 11, Aug. 13, 1993, [107 Stat. 783][/us/stat/107/783], related to authorization of appropriations to carry out this chapter, prior to the general amendment of title IV of [Pub. L. 100–533][/us/pl/100/533] by [Pub. L. 103–403][/us/pl/103/403]. See [section 7110 of this title][/us/usc/t15/s7110].
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VII, § 702(1)\], substituted “The President” for “Not later than 45 days after December 2, 1997, the President”.
+    2000—Subsec. (a). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title VII, § 702(1)\], substituted “The President” for “Not later than 45 days after December 2, 1997, the President”.
 
-    Subsec. (b). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VII, § 702(2)\], in introductory provisions, substituted “The Administrator” for “Not later than 60 days after December 2, 1997, the Administrator” and struck out “the Assistant Administrator of the Office of Women’s Business Ownership and” after “in consultation with”.
+    Subsec. (b). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title VII, § 702(2)\], in introductory provisions, substituted “The Administrator” for “Not later than 60 days after December 2, 1997, the Administrator” and struck out “the Assistant Administrator of the Office of Women’s Business Ownership and” after “in consultation with”.
 
-    Subsec. (d). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VII, § 702(3)\], struck out before period at end “, except that, of the initial members appointed to the Council—
+    Subsec. (d). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title VII, § 702(3)\], struck out before period at end “, except that, of the initial members appointed to the Council—
 
     “(1) 2 members appointed under subsection (b)(1) of this section shall be appointed for a term of 1 year;
 
@@ -99,21 +99,21 @@
 
     “(3) each member appointed under subsection (b)(3) of this section shall be appointed for a term of 2 years”.
 
-    Subsec. (h). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VII, § 702(4)\], substituted “The Administrator” for “Not later than 60 days after October 22, 1994, the Administrator”.
+    Subsec. (h). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title VII, § 702(4)\], substituted “The Administrator” for “Not later than 60 days after October 22, 1994, the Administrator”.
 
-    1997—Subsec. (a). [Pub. L. 105–135, § 304(1)][/us/pl/105/135/s304/1], made substitution in original which was executed by substituting “December 2, 1997” for “October 22, 1994” to reflect the probable intent of Congress.
+    1997—Subsec. (a). [Pub. L. 105–135][/us/pl/105/135], § 304(1), made substitution in original which was executed by substituting “December 2, 1997” for “October 22, 1994” to reflect the probable intent of Congress.
 
-    Subsec. (b). [Pub. L. 105–135, § 304(2)(A)][/us/pl/105/135/s304/2/A]–(C), in introductory provisions made substitution in original which was executed by substituting “December 2, 1997” for “October 22, 1994” to reflect the probable intent of Congress, inserted “, after receiving the recommendations of the Chairman and the Ranking Member of the Committees on Small Business of the House of Representatives and the Senate,” after “the Administrator shall”, and substituted “14” for “9”.
+    Subsec. (b). [Pub. L. 105–135][/us/pl/105/135], § 304(2)(A)–(C), in introductory provisions made substitution in original which was executed by substituting “December 2, 1997” for “October 22, 1994” to reflect the probable intent of Congress, inserted “, after receiving the recommendations of the Chairman and the Ranking Member of the Committees on Small Business of the House of Representatives and the Senate,” after “the Administrator shall”, and substituted “14” for “9”.
 
-    Subsec. (b)(1), (2). [Pub. L. 105–135, § 304(2)(D)][/us/pl/105/135/s304/2/D], (E), substituted “4” for “2” in introductory provisions.
+    Subsec. (b)(1), (2). [Pub. L. 105–135][/us/pl/105/135], § 304(2)(D), (E), substituted “4” for “2” in introductory provisions.
 
-    Subsec. (b)(3). [Pub. L. 105–135, § 304(2)(F)][/us/pl/105/135/s304/2/F], substituted “6” for “5”, struck out “national” after “representatives of”, and inserted before period at end “, including representatives of women’s business center sites”.
+    Subsec. (b)(3). [Pub. L. 105–135][/us/pl/105/135], § 304(2)(F), substituted “6” for “5”, struck out “national” after “representatives of”, and inserted before period at end “, including representatives of women’s business center sites”.
 
-    Subsec. (c). [Pub. L. 105–135, § 304(3)][/us/pl/105/135/s304/3], inserted “(including both urban and rural areas)” after “geographic”.
+    Subsec. (c). [Pub. L. 105–135][/us/pl/105/135], § 304(3), inserted “(including both urban and rural areas)” after “geographic”.
 
-    Subsec. (d). [Pub. L. 105–135, § 304(4)][/us/pl/105/135/s304/4], added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “The term of service of the members of the Council shall be 3 years.”
+    Subsec. (d). [Pub. L. 105–135][/us/pl/105/135], § 304(4), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “The term of service of the members of the Council shall be 3 years.”
 
-    Subsec. (f). [Pub. L. 105–135, § 304(5)][/us/pl/105/135/s304/5], added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “A vacancy on the Council shall, not later than 30 days after the date on which the vacancy occurs, be filled in the same manner in which the original appointment was made.”
+    Subsec. (f). [Pub. L. 105–135][/us/pl/105/135], § 304(5), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “A vacancy on the Council shall, not later than 30 days after the date on which the vacancy occurs, be filled in the same manner in which the original appointment was made.”
 
  __Change of Name__ 
 
@@ -133,32 +133,32 @@
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/usc/t15/s637/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fb
-[/us/pl/100/533/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs407
-[/us/pl/103/403/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs413
+[/us/pl/100/533/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2FtIV
+[/us/pl/103/403/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtIV
 [/us/stat/108/4196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4196
-[/us/pl/105/135/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs304
+[/us/pl/105/135/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtIII
 [/us/stat/111/2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2609
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/100/533/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs407
 [/us/stat/102/2696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2696
-[/us/pl/103/81/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F81%2Fs11
+[/us/pl/103/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F81
 [/us/stat/107/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F783
 [/us/pl/100/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533
 [/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
 [/us/usc/t15/s7110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7110
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/105/135/s304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs304%2F1
-[/us/pl/105/135/s304/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs304%2F2%2FA
-[/us/pl/105/135/s304/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs304%2F2%2FD
-[/us/pl/105/135/s304/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs304%2F2%2FF
-[/us/pl/105/135/s304/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs304%2F3
-[/us/pl/105/135/s304/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs304%2F4
-[/us/pl/105/135/s304/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs304%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/105/135/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs3
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631

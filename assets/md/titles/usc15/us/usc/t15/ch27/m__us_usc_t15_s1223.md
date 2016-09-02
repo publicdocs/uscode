@@ -17,7 +17,7 @@
 
     Any action brought pursuant to this chapter shall be forever barred unless commenced within three years after the cause of action shall have accrued.
 
-([Aug. 8, 1956, ch. 1038, § 3][/us/act/1956-08-08/ch1038/s3], [70 Stat. 1125][/us/stat/70/1125].)
+([Aug. 8, 1956, ch. 1038][/us/act/1956-08-08/ch1038], § 3, [70 Stat. 1125][/us/stat/70/1125].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-08/ch1038/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1038%2Fs3
+[/us/act/1956-08-08/ch1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1038
 [/us/stat/70/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1125
 
 

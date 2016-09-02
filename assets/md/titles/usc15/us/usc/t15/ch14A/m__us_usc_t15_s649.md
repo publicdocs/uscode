@@ -349,25 +349,25 @@
 
         (4) the term “Office” means the Office of International Trade established under subsection (a)(1).
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[22\], as added [Pub. L. 96–481, title I, § 113(a)][/us/pl/96/481/s113/a], Oct. 21, 1980, [94 Stat. 2323][/us/stat/94/2323]; amended [Pub. L. 100–418, title VIII, § 8003][/us/pl/100/418/s8003], Aug. 23, 1988, [102 Stat. 1554][/us/stat/102/1554]; [Pub. L. 111–240, title I][/us/pl/111/240], §§ 1203(a), (c), 1204(a), 1205(a), Sept. 27, 2010, [124 Stat. 2521][/us/stat/124/2521], 2522, 2527.)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[22\], as added [Pub. L. 96–481, title I][/us/pl/96/481/tI], § 113(a), Oct. 21, 1980, [94 Stat. 2323][/us/stat/94/2323]; amended [Pub. L. 100–418, title VIII][/us/pl/100/418/tVIII], § 8003, Aug. 23, 1988, [102 Stat. 1554][/us/stat/102/1554]; [Pub. L. 111–240, title I][/us/pl/111/240/tI], §§ 1203(a), (c), 1204(a), 1205(a), Sept. 27, 2010, [124 Stat. 2521][/us/stat/124/2521], 2522, 2527.)
 
  __Prior Provisions__ 
 
-    A prior section 649, [act July 30, 1953, ch. 282][/us/act/1953-07-30/ch282], title II, § 220, [67 Stat. 240][/us/stat/67/240], which required a fair charge for use of Government-owned property, was omitted as superseded by [section 643 of this title][/us/usc/t15/s643]. See Codification note set out under [section 631 of this title][/us/usc/t15/s631].
+    A prior section 649, [act July 30, 1953, ch. 282, title II][/us/act/1953-07-30/ch282/tII], § 220, [67 Stat. 240][/us/stat/67/240], which required a fair charge for use of Government-owned property, was omitted as superseded by [section 643 of this title][/us/usc/t15/s643]. See Codification note set out under [section 631 of this title][/us/usc/t15/s631].
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–240, § 1203(a)(1)][/us/pl/111/240/s1203/a/1], inserted section catchline.
+    2010—[Pub. L. 111–240][/us/pl/111/240], § 1203(a)(1), inserted section catchline.
 
-    Subsec. (a). [Pub. L. 111–240, § 1203(a)][/us/pl/111/240/s1203/a], inserted subsec. (a) heading, designated existing provisions as par. (1), inserted par. (1) heading, substituted “for the primary purposes of increasing—” for period at end, added subpars. (A) and (B) of par. (1), and added par. (2).
+    Subsec. (a). [Pub. L. 111–240][/us/pl/111/240], § 1203(a), inserted subsec. (a) heading, designated existing provisions as par. (1), inserted par. (1) heading, substituted “for the primary purposes of increasing—” for period at end, added subpars. (A) and (B) of par. (1), and added par. (2).
 
-    Subsec. (b). [Pub. L. 111–240, § 1204(a)(1)][/us/pl/111/240/s1204/a/1], added subsec. (b) and struck out former subsec. (b) which related to development of distribution network, marketing of programs and dissemination of information, and bilingual job applicants.
+    Subsec. (b). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(1), added subsec. (b) and struck out former subsec. (b) which related to development of distribution network, marketing of programs and dissemination of information, and bilingual job applicants.
 
-    Subsec. (c). [Pub. L. 111–240, § 1204(a)(2)(A)][/us/pl/111/240/s1204/a/2/A], inserted heading and substituted “The Associate Administrator” for “The Office” in introductory provisions.
+    Subsec. (c). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(A), inserted heading and substituted “The Associate Administrator” for “The Office” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 111–240, § 1204(a)(2)(C)][/us/pl/111/240/s1204/a/2/C], added par. (1). Former par. (1) redesignated (2).
+    Subsec. (c)(1). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(C), added par. (1). Former par. (1) redesignated (2).
 
-    Subsec. (c)(2). [Pub. L. 111–240, § 1204(a)(2)(D)][/us/pl/111/240/s1204/a/2/D], substituted “mechanism for—
+    Subsec. (c)(2). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(D), substituted “mechanism for—
 
     “(A) identifying subsectors of the small business community with strong export potential;
 
@@ -379,79 +379,79 @@
 
     for “mechanism for (A) identifying sub-sectors of the small business community with strong export potential; (B) identifying areas of demand in foreign markets; (C) prescreening foreign buyers for commercial and credit purposes; and (D) assisting”.
 
-    [Pub. L. 111–240, § 1204(a)(2)(B)][/us/pl/111/240/s1204/a/2/B], redesignated par. (1) as (2). Former par. (2) redesignated (3).
+    [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(B), redesignated par. (1) as (2). Former par. (2) redesignated (3).
 
-    Subsec. (c)(3). [Pub. L. 111–240, § 1204(a)(2)(E)][/us/pl/111/240/s1204/a/2/E], substituted “assist small business concerns in forming and using” for “assist small businesses in the formation and utilization of”.
+    Subsec. (c)(3). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(E), substituted “assist small business concerns in forming and using” for “assist small businesses in the formation and utilization of”.
 
-    [Pub. L. 111–240, § 1204(a)(2)(B)][/us/pl/111/240/s1204/a/2/B], redesignated par. (2) as (3). Former par. (3) redesignated (4).
+    [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(B), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-    Subsec. (c)(4). [Pub. L. 111–240, § 1204(a)(2)(F)][/us/pl/111/240/s1204/a/2/F], substituted “district” for “local”, “small business development center network” for “Small Business Development Center network”, and “small business development center program” for “Small Business Development Center Program” and struck out “existing” before “translation”.
+    Subsec. (c)(4). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(F), substituted “district” for “local”, “small business development center network” for “Small Business Development Center network”, and “small business development center program” for “Small Business Development Center Program” and struck out “existing” before “translation”.
 
-    [Pub. L. 111–240, § 1204(a)(2)(B)][/us/pl/111/240/s1204/a/2/B], redesignated par. (3) as (4). Former par. (4) redesignated (5).
+    [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(B), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-    Subsec. (c)(5). [Pub. L. 111–240, § 1204(a)(2)(B)][/us/pl/111/240/s1204/a/2/B], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+    Subsec. (c)(5). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(B), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-    Subsec. (c)(5)(A). [Pub. L. 111–240, § 1204(a)(2)(G)(i)][/us/pl/111/240/s1204/a/2/G/i], substituted “Gross State Product” for “Gross State Produce”.
+    Subsec. (c)(5)(A). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(G)(i), substituted “Gross State Product” for “Gross State Produce”.
 
-    Subsec. (c)(5)(B). [Pub. L. 111–240, § 1204(a)(2)(G)(ii)][/us/pl/111/240/s1204/a/2/G/ii], substituted “North American Industry Classification System” for “SIC” in two places.
+    Subsec. (c)(5)(B). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(G)(ii), substituted “North American Industry Classification System” for “SIC” in two places.
 
-    Subsec. (c)(5)(C). [Pub. L. 111–240, § 1204(a)(2)(G)(iii)][/us/pl/111/240/s1204/a/2/G/iii], substituted “small business concerns” for “small businesses”.
+    Subsec. (c)(5)(C). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(G)(iii), substituted “small business concerns” for “small businesses”.
 
-    Subsec. (c)(6). [Pub. L. 111–240, § 1204(a)(2)(H)][/us/pl/111/240/s1204/a/2/H], substituted semicolon for period at end.
+    Subsec. (c)(6). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(H), substituted semicolon for period at end.
 
-    [Pub. L. 111–240, § 1204(a)(2)(B)][/us/pl/111/240/s1204/a/2/B], redesignated par. (5) as (6). Former par. (6) redesignated (7).
+    [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(B), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-    Subsec. (c)(7). [Pub. L. 111–240, § 1204(a)(2)(I)(i)(II)][/us/pl/111/240/s1204/a/2/I/i/II], (v), substituted “small business concerns” for “small businesses” and “up to date” for “current” in introductory provisions.
+    Subsec. (c)(7). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(I)(i)(II), (v), substituted “small business concerns” for “small businesses” and “up to date” for “current” in introductory provisions.
 
-    [Pub. L. 111–240, § 1204(a)(2)(I)(i)(I)][/us/pl/111/240/s1204/a/2/I/i/I], which directed amendment of introductory provisions by inserting “concerns” after “small business”, could not be executed because the words “small business” did not appear.
+    [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(I)(i)(I), which directed amendment of introductory provisions by inserting “concerns” after “small business”, could not be executed because the words “small business” did not appear.
 
-    [Pub. L. 111–240, § 1204(a)(2)(B)][/us/pl/111/240/s1204/a/2/B], redesignated par. (6) as (7). Former par. (7) redesignated (8).
+    [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(B), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-    Subsec. (c)(7)(A). [Pub. L. 111–240, § 1204(a)(2)(I)(ii)][/us/pl/111/240/s1204/a/2/I/ii], substituted “regional and district offices of the Administration” for “Administration’s regional offices”.
+    Subsec. (c)(7)(A). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(I)(ii), substituted “regional and district offices of the Administration” for “Administration’s regional offices”.
 
-    Subsec. (c)(7)(B). [Pub. L. 111–240, § 1204(a)(2)(I)(iii)][/us/pl/111/240/s1204/a/2/I/iii], struck out “current” before “list”.
+    Subsec. (c)(7)(B). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(I)(iii), struck out “current” before “list”.
 
-    Subsec. (c)(7)(C). [Pub. L. 111–240, § 1204(a)(2)(I)(iv)][/us/pl/111/240/s1204/a/2/I/iv], (v), struck out “current” before “directory” and substituted “small business concerns” for “small businesses”.
+    Subsec. (c)(7)(C). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(I)(iv), (v), struck out “current” before “directory” and substituted “small business concerns” for “small businesses”.
 
-    Subsec. (c)(7)(D). [Pub. L. 111–240, § 1204(a)(2)(I)(v)][/us/pl/111/240/s1204/a/2/I/v], substituted “small business concerns” for “small businesses”.
+    Subsec. (c)(7)(D). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(I)(v), substituted “small business concerns” for “small businesses”.
 
-    Subsec. (c)(8). [Pub. L. 111–240, § 1204(a)(2)(J)][/us/pl/111/240/s1204/a/2/J], struck out “and” at end. The amendment was made to reflect the probable intent of Congress, in the absence of quotation marks around the word “and” in the directory language.
+    Subsec. (c)(8). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(J), struck out “and” at end. The amendment was made to reflect the probable intent of Congress, in the absence of quotation marks around the word “and” in the directory language.
 
-    [Pub. L. 111–240, § 1204(a)(2)(B)][/us/pl/111/240/s1204/a/2/B], redesignated par. (7) as (8). Former par. (8) redesignated (9).
+    [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(B), redesignated par. (7) as (8). Former par. (8) redesignated (9).
 
-    Subsec. (c)(9). [Pub. L. 111–240, § 1204(a)(2)(K)(i)][/us/pl/111/240/s1204/a/2/K/i], (vi), in introductory provisions, substituted “small business concerns” for “small businesses” and “individual in each district office and providing each Administration regional office with a full-time export development specialist, who” for “person in each district office. Such specialists” and struck out “full-time export development specialists to each Administration regional office and assigning” before “primary responsibility”.
+    Subsec. (c)(9). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(K)(i), (vi), in introductory provisions, substituted “small business concerns” for “small businesses” and “individual in each district office and providing each Administration regional office with a full-time export development specialist, who” for “person in each district office. Such specialists” and struck out “full-time export development specialists to each Administration regional office and assigning” before “primary responsibility”.
 
-    [Pub. L. 111–240, § 1204(a)(2)(B)][/us/pl/111/240/s1204/a/2/B], redesignated par. (8) as (9).
+    [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(B), redesignated par. (8) as (9).
 
-    Subsec. (c)(9)(A). [Pub. L. 111–240, § 1204(a)(2)(K)(vi)][/us/pl/111/240/s1204/a/2/K/vi], substituted “small business concerns” for “small businesses”.
+    Subsec. (c)(9)(A). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(K)(vi), substituted “small business concerns” for “small businesses”.
 
-    Subsec. (c)(9)(B). [Pub. L. 111–240, § 1204(a)(2)(K)(vi)][/us/pl/111/240/s1204/a/2/K/vi], substituted “small business concerns” for “small businesses”.
+    Subsec. (c)(9)(B). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(K)(vi), substituted “small business concerns” for “small businesses”.
 
-    [Pub. L. 111–240, § 1204(a)(2)(K)(ii)(II)][/us/pl/111/240/s1204/a/2/K/ii/II], which directed amendment by substituting “in” for “with”, was executed by making the substitution for “within”, to reflect the probable intent of Congress.
+    [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(K)(ii)(II), which directed amendment by substituting “in” for “with”, was executed by making the substitution for “within”, to reflect the probable intent of Congress.
 
-    [Pub. L. 111–240, § 1204(a)(2)(K)(ii)(I)][/us/pl/111/240/s1204/a/2/K/ii/I], struck out “current” before “directory”.
+    [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(K)(ii)(I), struck out “current” before “directory”.
 
-    Subsec. (c)(9)(D). [Pub. L. 111–240, § 1204(a)(2)(K)(iii)][/us/pl/111/240/s1204/a/2/K/iii], (vi), substituted “personnel of the Administration involved in making” for “Administration personnel involved in granting” and “small business concerns” for “small businesses” and struck out “and” at end.
+    Subsec. (c)(9)(D). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(K)(iii), (vi), substituted “personnel of the Administration involved in making” for “Administration personnel involved in granting” and “small business concerns” for “small businesses” and struck out “and” at end.
 
-    Subsec. (c)(9)(E). [Pub. L. 111–240, § 1204(a)(2)(K)(iv)][/us/pl/111/240/s1204/a/2/K/iv], substituted “the needs of small business concerns” for “small businesses’ needs” and semicolon for period at end.
+    Subsec. (c)(9)(E). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(K)(iv), substituted “the needs of small business concerns” for “small businesses’ needs” and semicolon for period at end.
 
-    Subsec. (c)(9)(F), (G). [Pub. L. 111–240, § 1204(a)(2)(K)(v)][/us/pl/111/240/s1204/a/2/K/v], added subpars. (F) and (G).
+    Subsec. (c)(9)(F), (G). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(K)(v), added subpars. (F) and (G).
 
-    Subsec. (c)(10) to (13). [Pub. L. 111–240, § 1204(a)(2)(L)][/us/pl/111/240/s1204/a/2/L], added pars. (10) to (13).
+    Subsec. (c)(10) to (13). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(2)(L), added pars. (10) to (13).
 
-    Subsec. (d). [Pub. L. 111–240, § 1204(a)(3)][/us/pl/111/240/s1204/a/3], inserted subsec. (d) heading, designated first sentence of existing provisions as par. (1), inserted par. (1) heading, substituted “The Associate Administrator” for “The Office” in par. (1), designated second sentence of existing provisions as par. (2), inserted par. (2) heading, substituted “To accomplish the goal established under paragraph (1), the Associate Administrator shall—” for “To accomplish this goal, the Office shall work” in par. (2), added subpar. (A) and inserted “(B) work” before “in cooperation”, redesignated former pars. (1) to (5) as cls. (i) to (v), respectively, of subpar. (B) of par. (2), and realigned margins.
+    Subsec. (d). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(3), inserted subsec. (d) heading, designated first sentence of existing provisions as par. (1), inserted par. (1) heading, substituted “The Associate Administrator” for “The Office” in par. (1), designated second sentence of existing provisions as par. (2), inserted par. (2) heading, substituted “To accomplish the goal established under paragraph (1), the Associate Administrator shall—” for “To accomplish this goal, the Office shall work” in par. (2), added subpar. (A) and inserted “(B) work” before “in cooperation”, redesignated former pars. (1) to (5) as cls. (i) to (v), respectively, of subpar. (B) of par. (2), and realigned margins.
 
-    Subsec. (e). [Pub. L. 111–240, § 1204(a)(4)][/us/pl/111/240/s1204/a/4], inserted heading and substituted “The Associate Administrator” for “The Office” in introductory provisions.
+    Subsec. (e). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(4), inserted heading and substituted “The Associate Administrator” for “The Office” in introductory provisions.
 
-    Subsec. (f). [Pub. L. 111–240, § 1204(a)(5)][/us/pl/111/240/s1204/a/5], amended subsec. (f) generally. Prior to amendment, text read as follows: “The Office shall report to the Committees on Small Business of the House of Representatives and the Senate on an annual basis as to its progress in implementing the requirements under this section.”
+    Subsec. (f). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(5), amended subsec. (f) generally. Prior to amendment, text read as follows: “The Office shall report to the Committees on Small Business of the House of Representatives and the Senate on an annual basis as to its progress in implementing the requirements under this section.”
 
-    Subsec. (g). [Pub. L. 111–240, § 1204(a)(6)][/us/pl/111/240/s1204/a/6], inserted heading and substituted “The Associate Administrator” for “The Office” in introductory provisions.
+    Subsec. (g). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(6), inserted heading and substituted “The Associate Administrator” for “The Office” in introductory provisions.
 
-    Subsec. (h). [Pub. L. 111–240, § 1203(c)][/us/pl/111/240/s1203/c], added subsec. (h).
+    Subsec. (h). [Pub. L. 111–240][/us/pl/111/240], § 1203(c), added subsec. (h).
 
-    Subsecs. (i), (j). [Pub. L. 111–240, § 1204(a)(7)][/us/pl/111/240/s1204/a/7], added subsecs. (i) and (j).
+    Subsecs. (i), (j). [Pub. L. 111–240][/us/pl/111/240], § 1204(a)(7), added subsecs. (i) and (j).
 
-    Subsecs. (k), (l). [Pub. L. 111–240, § 1205(a)][/us/pl/111/240/s1205/a], added subsecs. (k) and (l).
+    Subsecs. (k), (l). [Pub. L. 111–240][/us/pl/111/240], § 1205(a), added subsecs. (k) and (l).
 
     1988—Subsecs. (b) to (g). [Pub. L. 100–418][/us/pl/100/418] added subsec. (b), redesignated former subsec. (b) as (c) and added pars. (1) to (5) and redesignated former pars. (1) to (3) as (6) to (8), respectively, and added subsecs. (d) to (g).
 
@@ -461,7 +461,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–481, title I, § 113(b)][/us/pl/96/481/s113/b], Oct. 21, 1980, [94 Stat. 2324][/us/stat/94/2324], provided that: 
+[Pub. L. 96–481, title I][/us/pl/96/481/tI], § 113(b), Oct. 21, 1980, [94 Stat. 2324][/us/stat/94/2324], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall take effect on October 1, 1980, or the date of enactment of this Act \[Oct. 21, 1980\], whichever occurs later.”
 
@@ -471,13 +471,13 @@
 
  __Implementation__ 
 
-[Pub. L. 111–240, title I, § 1203(e)][/us/pl/111/240/s1203/e], Sept. 27, 2010, [124 Stat. 2522][/us/stat/124/2522], provided that: 
+[Pub. L. 111–240, title I][/us/pl/111/240/tI], § 1203(e), Sept. 27, 2010, [124 Stat. 2522][/us/stat/124/2522], provided that: 
 
 > “Not later than 90 days after the date of enactment of this Act \[Sept. 27, 2010\], the Administrator of the Small Business Administration shall appoint an Associate Administrator for International Trade under section 22(a) of the Small Business Act ([15 U.S.C. 649(a)][/us/usc/t15/s649/a]), as added by this section.”
 
  __Study and Report on Filling Gaps in High-and-Low-Export Volume Areas__ 
 
-[Pub. L. 111–240, title I, § 1205(b)][/us/pl/111/240/s1205/b], Sept. 27, 2010, [124 Stat. 2529][/us/stat/124/2529], provided that:
+[Pub. L. 111–240, title I][/us/pl/111/240/tI], § 1205(b), Sept. 27, 2010, [124 Stat. 2529][/us/stat/124/2529], provided that:
 
 >     “(1)  __Study and report__  __.—__ 
 
@@ -535,7 +535,7 @@
 
  __Congressional Declaration of Policy__ 
 
-[Pub. L. 96–481, title I, § 111][/us/pl/96/481/s111], Oct. 21, 1980, [94 Stat. 2323][/us/stat/94/2323], provided that:
+[Pub. L. 96–481, title I][/us/pl/96/481/tI], § 111, Oct. 21, 1980, [94 Stat. 2323][/us/stat/94/2323], provided that:
 
 >     “(a)
 
@@ -581,75 +581,75 @@
 [/us/usc/t15/s636/a/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa%2F34
 [/us/usc/t15/s4727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4727
 [/us/usc/t15/s4721/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4721%2Fb%2F8
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
-[/us/pl/96/481/s113/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs113%2Fa
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
+[/us/pl/96/481/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2FtI
 [/us/stat/94/2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2323
-[/us/pl/100/418/s8003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8003
+[/us/pl/100/418/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVIII
 [/us/stat/102/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1554
-[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2521
-[/us/act/1953-07-30/ch282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-30%2Fch282
+[/us/act/1953-07-30/ch282/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-30%2Fch282%2FtII
 [/us/stat/67/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F240
 [/us/usc/t15/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs643
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/111/240/s1203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1203%2Fa%2F1
-[/us/pl/111/240/s1203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1203%2Fa
-[/us/pl/111/240/s1204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F1
-[/us/pl/111/240/s1204/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FA
-[/us/pl/111/240/s1204/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FC
-[/us/pl/111/240/s1204/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FD
-[/us/pl/111/240/s1204/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FB
-[/us/pl/111/240/s1204/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FE
-[/us/pl/111/240/s1204/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FB
-[/us/pl/111/240/s1204/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FF
-[/us/pl/111/240/s1204/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FB
-[/us/pl/111/240/s1204/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FB
-[/us/pl/111/240/s1204/a/2/G/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FG%2Fi
-[/us/pl/111/240/s1204/a/2/G/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FG%2Fii
-[/us/pl/111/240/s1204/a/2/G/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FG%2Fiii
-[/us/pl/111/240/s1204/a/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FH
-[/us/pl/111/240/s1204/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FB
-[/us/pl/111/240/s1204/a/2/I/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FI%2Fi%2FII
-[/us/pl/111/240/s1204/a/2/I/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FI%2Fi%2FI
-[/us/pl/111/240/s1204/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FB
-[/us/pl/111/240/s1204/a/2/I/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FI%2Fii
-[/us/pl/111/240/s1204/a/2/I/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FI%2Fiii
-[/us/pl/111/240/s1204/a/2/I/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FI%2Fiv
-[/us/pl/111/240/s1204/a/2/I/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FI%2Fv
-[/us/pl/111/240/s1204/a/2/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FJ
-[/us/pl/111/240/s1204/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FB
-[/us/pl/111/240/s1204/a/2/K/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FK%2Fi
-[/us/pl/111/240/s1204/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FB
-[/us/pl/111/240/s1204/a/2/K/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FK%2Fvi
-[/us/pl/111/240/s1204/a/2/K/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FK%2Fvi
-[/us/pl/111/240/s1204/a/2/K/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FK%2Fii%2FII
-[/us/pl/111/240/s1204/a/2/K/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FK%2Fii%2FI
-[/us/pl/111/240/s1204/a/2/K/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FK%2Fiii
-[/us/pl/111/240/s1204/a/2/K/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FK%2Fiv
-[/us/pl/111/240/s1204/a/2/K/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FK%2Fv
-[/us/pl/111/240/s1204/a/2/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F2%2FL
-[/us/pl/111/240/s1204/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F3
-[/us/pl/111/240/s1204/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F4
-[/us/pl/111/240/s1204/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F5
-[/us/pl/111/240/s1204/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F6
-[/us/pl/111/240/s1203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1203%2Fc
-[/us/pl/111/240/s1204/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1204%2Fa%2F7
-[/us/pl/111/240/s1205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1205%2Fa
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/96/481/s113/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs113%2Fb
+[/us/pl/96/481/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2FtI
 [/us/stat/94/2324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2324
 [/us/pl/96/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/111/240/s1203/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1203%2Fe
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2522
 [/us/usc/t15/s649/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs649%2Fa
-[/us/pl/111/240/s1205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1205%2Fb
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2529
 [/us/usc/t15/s649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs649
 [/us/pl/111/240/s1205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1205%2Fb
 [/us/pl/111/240/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1001
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
-[/us/pl/96/481/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs111
+[/us/pl/96/481/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2FtI
 [/us/stat/94/2323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2323
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
 

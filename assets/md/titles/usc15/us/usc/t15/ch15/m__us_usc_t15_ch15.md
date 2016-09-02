@@ -321,7 +321,7 @@ SUBCHAPTER II—COMMODITY CREDIT CORPORATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs714" data-uslm-ref="/us/usc/t15/s714">714</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs714l" data-uslm-ref="/us/usc/t15/s714l">714l.</a>  </td>
 
     <td> Interest of Members of Congress.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER II—COMMODITY CREDIT CORPORATION  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs714" data-uslm-ref="/us/usc/t15/s714">714</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs714o" data-uslm-ref="/us/usc/t15/s714o">714o.</a>  </td>
 
     <td> Dissolution of Delaware corporation.  </td>
 

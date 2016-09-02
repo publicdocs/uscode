@@ -37,7 +37,7 @@
 
         There are authorized to be appropriated to the Secretary of Commerce for the National Institute of Standards and Technology for the purposes of carrying out this section, $700,000.
 
-([Pub. L. 107–305, § 12][/us/pl/107/305/s12], Nov. 27, 2002, [116 Stat. 2380][/us/stat/116/2380].)
+([Pub. L. 107–305][/us/pl/107/305], § 12, Nov. 27, 2002, [116 Stat. 2380][/us/stat/116/2380].)
 
  __Change of Name__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/107/305/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305%2Fs12
+[/us/pl/107/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305
 [/us/stat/116/2380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2380
 
 

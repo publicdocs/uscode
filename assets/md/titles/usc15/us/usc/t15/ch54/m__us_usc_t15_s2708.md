@@ -17,7 +17,7 @@
 
     [Section 5876 of title 42][/us/usc/t42/s5876] shall apply with respect to the authority of the Comptroller General to have access to and rights of examination of books, documents, papers, and records of recipients of financial assistance under this chapter; except that for the purposes of this chapter, the term “contract” (as used in [section 2206 of title 42][/us/usc/t42/s2206], insofar as it relates to such [section 5876 of title 42][/us/usc/t42/s5876]) means “contract or grant”.
 
-([Pub. L. 95–238, title III, § 309][/us/pl/95/238/s309], Feb. 25, 1978, [92 Stat. 82][/us/stat/92/82].)
+([Pub. L. 95–238, title III][/us/pl/95/238/tIII], § 309, Feb. 25, 1978, [92 Stat. 82][/us/stat/92/82].)
 
 ----------
 
@@ -29,7 +29,7 @@
 [/us/usc/t42/s5876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5876
 [/us/usc/t42/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2206
 [/us/usc/t42/s5876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5876
-[/us/pl/95/238/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs309
+[/us/pl/95/238/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtIII
 [/us/stat/92/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F82
 
 

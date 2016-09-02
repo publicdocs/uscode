@@ -85,17 +85,17 @@
 
             Nothing in this subsection shall affect the requirements of Federal law as such requirements apply to advertisement by any medium other than radio broadcast.
 
-([Pub. L. 90–321, title I, § 184][/us/pl/90/321/s184], as added [Pub. L. 94–240, § 3][/us/pl/94/240/s3], Mar. 23, 1976, [90 Stat. 259][/us/stat/90/259]; amended [Pub. L. 103–325, title III, § 336(a)][/us/pl/103/325/s336/a], Sept. 23, 1994, [108 Stat. 2234][/us/stat/108/2234]; [Pub. L. 104–208, div. A, title II, § 2605(c)][/us/pl/104/208/s2605/c], Sept. 30, 1996, [110 Stat. 3009–473][/us/stat/110/3009-473]; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], (10)(A), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2109.)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 184, as added [Pub. L. 94–240][/us/pl/94/240], § 3, Mar. 23, 1976, [90 Stat. 259][/us/stat/90/259]; amended [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 336(a), Sept. 23, 1994, [108 Stat. 2234][/us/stat/108/2234]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2605(c), Sept. 30, 1996, [110 Stat. 3009–473][/us/stat/110/3009-473]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), (10)(A), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2109.)
 
  __Amendments__ 
 
-    2010—Subsec. (c)(1)(D). [Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], (10)(A), made similar amendments, resulting in the substitution of “the Bureau” for “the Board”.
+    2010—Subsec. (c)(1)(D). [Pub. L. 111–203][/us/pl/111/203], § 1100A(2), (10)(A), made similar amendments, resulting in the substitution of “the Bureau” for “the Board”.
 
-    1996—Subsec. (a). [Pub. L. 104–208, § 2605(c)(1)][/us/pl/104/208/s2605/c/1], (3), added subsec. (a) and struck out former subsec. (a) consisting of introductory provisions and 5 pars. relating to contents of lease agreements required if consumer lease advertisement stated amount of payment, number of required payments, or that any or no payments were required at lease inception.
+    1996—Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 2605(c)(1), (3), added subsec. (a) and struck out former subsec. (a) consisting of introductory provisions and 5 pars. relating to contents of lease agreements required if consumer lease advertisement stated amount of payment, number of required payments, or that any or no payments were required at lease inception.
 
-    Subsec. (b). [Pub. L. 104–208, § 2605(c)(3)][/us/pl/104/208/s2605/c/3], added subsec. (b). Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 104–208][/us/pl/104/208], § 2605(c)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 104–208, § 2605(c)(1)][/us/pl/104/208/s2605/c/1], (2), redesignated subsec. (b) as (c) and struck out former subsec. (c) which read as follows: “There is no liability under this section on the part of any owner or personnel, as such, of any medium in which an advertisement appears or through which it is disseminated.”
+    Subsec. (c). [Pub. L. 104–208][/us/pl/104/208], § 2605(c)(1), (2), redesignated subsec. (b) as (c) and struck out former subsec. (c) which read as follows: “There is no liability under this section on the part of any owner or personnel, as such, of any medium in which an advertisement appears or through which it is disseminated.”
 
     1994—Subsecs. (b), (c). [Pub. L. 103–325][/us/pl/103/325] added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -105,7 +105,7 @@
 
  __Study of Advertising Rules__ 
 
-[Pub. L. 103–325, title III, § 336(b)][/us/pl/103/325/s336/b], Sept. 23, 1994, [108 Stat. 2235][/us/stat/108/2235], provided that: 
+[Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 336(b), Sept. 23, 1994, [108 Stat. 2235][/us/stat/108/2235], provided that: 
 
 > “Not later than 365 days after the date of enactment of this Act \[Sept. 23, 1994\], the Board of Governors of the Federal Reserve System shall submit a report to the Congress on—
 
@@ -122,24 +122,24 @@
 ----------
 ----------
 
-[/us/pl/90/321/s184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs184
-[/us/pl/94/240/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240%2Fs3
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/94/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240
 [/us/stat/90/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F259
-[/us/pl/103/325/s336/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs336%2Fa
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2234
-[/us/pl/104/208/s2605/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2605%2Fc
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-473
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
-[/us/pl/104/208/s2605/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2605%2Fc%2F1
-[/us/pl/104/208/s2605/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2605%2Fc%2F3
-[/us/pl/104/208/s2605/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2605%2Fc%2F1
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/103/325/s336/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs336%2Fb
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2235
 
 

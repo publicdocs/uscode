@@ -83,7 +83,7 @@
 
         It shall be unlawful for any affiliated person of or principal underwriter for a registered investment company or any affiliated person of an investment adviser of or principal underwriter for a registered investment company, to engage in any act, practice, or course of business in connection with the purchase or sale, directly or indirectly, by such person of any security held or to be acquired by such registered investment company in contravention of such rules and regulations as the Commission may adopt to define, and prescribe means reasonably necessary to prevent, such acts, practices, or courses of business as are fraudulent, deceptive or manipulative. Such rules and regulations may include requirements for the adoption of codes of ethics by registered investment companies and investment advisers of, and principal underwriters for, such investment companies establishing such standards as are reasonably necessary to prevent such acts, practices, or courses of business.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 17, [54 Stat. 815][/us/stat/54/815]; [Pub. L. 91–547, § 9][/us/pl/91/547/s9], Dec. 14, 1970, [84 Stat. 1420][/us/stat/84/1420]; [Pub. L. 100–181, title VI, § 612][/us/pl/100/181/s612], Dec. 4, 1987, [101 Stat. 1261][/us/stat/101/1261]; [Pub. L. 106–102, title II][/us/pl/106/102], §§ 211(a), 212, Nov. 12, 1999, [113 Stat. 1396][/us/stat/113/1396]; [Pub. L. 111–203, title IX, § 985(d)(4)][/us/pl/111/203/s985/d/4], July 21, 2010, [124 Stat. 1934][/us/stat/124/1934].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 17, [54 Stat. 815][/us/stat/54/815]; [Pub. L. 91–547][/us/pl/91/547], § 9, Dec. 14, 1970, [84 Stat. 1420][/us/stat/84/1420]; [Pub. L. 100–181, title VI][/us/pl/100/181/tVI], § 612, Dec. 4, 1987, [101 Stat. 1261][/us/stat/101/1261]; [Pub. L. 106–102, title II][/us/pl/106/102/tII], §§ 211(a), 212, Nov. 12, 1999, [113 Stat. 1396][/us/stat/113/1396]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 985(d)(4), July 21, 2010, [124 Stat. 1934][/us/stat/124/1934].)
 
  __References in Text__ 
 
@@ -93,23 +93,23 @@
 
  __Amendments__ 
 
-    2010—Subsec. (f)(4). [Pub. L. 111–203, § 985(d)(4)(A)][/us/pl/111/203/s985/d/4/A], substituted “No member of a national securities exchange” for “No such member”.
+    2010—Subsec. (f)(4). [Pub. L. 111–203][/us/pl/111/203], § 985(d)(4)(A), substituted “No member of a national securities exchange” for “No such member”.
 
-    Subsec. (f)(6). [Pub. L. 111–203, § 985(d)(4)(B)][/us/pl/111/203/s985/d/4/B], substituted “company, may serve” for “company may serve”.
+    Subsec. (f)(6). [Pub. L. 111–203][/us/pl/111/203], § 985(d)(4)(B), substituted “company, may serve” for “company may serve”.
 
-    1999—Subsec. (a)(4). [Pub. L. 106–102, § 212][/us/pl/106/102/s212], added par. (4).
+    1999—Subsec. (a)(4). [Pub. L. 106–102][/us/pl/106/102], § 212, added par. (4).
 
-    Subsec. (f). [Pub. L. 106–102, § 211(a)][/us/pl/106/102/s211/a], inserted heading, designated first sentence as par. (1) and cls. (1) to (3) as (A) to (C), respectively, designated second through fifth sentences as pars. (2) to (5), respectively, and realigned margins, and added par. (6).
+    Subsec. (f). [Pub. L. 106–102][/us/pl/106/102], § 211(a), inserted heading, designated first sentence as par. (1) and cls. (1) to (3) as (A) to (C), respectively, designated second through fifth sentences as pars. (2) to (5), respectively, and realigned margins, and added par. (6).
 
     1987—Subsec. (h). [Pub. L. 100–181][/us/pl/100/181] struck out second sentence which read as follows: “In the event that any such instrument does not at the effective date of this chapter comply with the requirements of this subsection and is not amended to comply therewith prior to the expiration of said one year, such company may nevertheless continue to be a registered investment company and shall not be deemed to violate this subsection if prior to said expiration date each such director or officer shall have filed with the Commission a waiver in writing of any protective provision of the instrument to the extent that it does not comply with this subsection, and each such person subsequently elected or appointed shall before assuming office file a similar waiver.”
 
     Subsec. (i). [Pub. L. 100–181][/us/pl/100/181] struck out second sentence which read as follows: “In the event that any such contract or agreement does not at the effective date of this chapter comply with the requirements of this subsection and is not amended to comply therewith prior to the expiration of said one year, this subsection shall not be deemed to have been violated if prior to said expiration date each such investment adviser or principal underwriter shall have filed with the Commission a waiver in writing of any protective provision of the contract or agreement to the extent that it does not comply with this subsection.”
 
-    1970—Subsec. (f). [Pub. L. 91–547, § 9(a)][/us/pl/91/547/s9/a], provided in cl. (1) for a registered investment company which is a collective fund maintained by a bank authority to keep its securities and similar investments in the custody of the sponsoring bank, authorized a registered management company or its custodian (with the consent of the management company), subject to the rulemaking power of the Commission, to deposit the securities of the management company in a central certificate depository established by a national securities exchange or a registered national securities association, and provided that if an investment company employs a bank as a custodian for securities and similar investments, then all of its cash assets, shall likewise be held by a bank, subject to direction as to expenditure and disposition by proper company officials, and provided for maintenance of a checking account or accounts in one or more banks in amounts not to exceed the amount of the fidelity bond covering persons authorized to draw on the accounts.
+    1970—Subsec. (f). [Pub. L. 91–547][/us/pl/91/547], § 9(a), provided in cl. (1) for a registered investment company which is a collective fund maintained by a bank authority to keep its securities and similar investments in the custody of the sponsoring bank, authorized a registered management company or its custodian (with the consent of the management company), subject to the rulemaking power of the Commission, to deposit the securities of the management company in a central certificate depository established by a national securities exchange or a registered national securities association, and provided that if an investment company employs a bank as a custodian for securities and similar investments, then all of its cash assets, shall likewise be held by a bank, subject to direction as to expenditure and disposition by proper company officials, and provided for maintenance of a checking account or accounts in one or more banks in amounts not to exceed the amount of the fidelity bond covering persons authorized to draw on the accounts.
 
-    Subsec. (g). [Pub. L. 91–547, § 9(b)][/us/pl/91/547/s9/b], substituted “officer or employee” for “officer and employee” and inserted “(unless the officer or employee has such access solely through his position as an officer or employee of a bank)” before “be bonded”.
+    Subsec. (g). [Pub. L. 91–547][/us/pl/91/547], § 9(b), substituted “officer or employee” for “officer and employee” and inserted “(unless the officer or employee has such access solely through his position as an officer or employee of a bank)” before “be bonded”.
 
-    Subsec. (j). [Pub. L. 91–547, § 9(c)][/us/pl/91/547/s9/c], added subsec. (j).
+    Subsec. (j). [Pub. L. 91–547][/us/pl/91/547], § 9(c), added subsec. (j).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -143,27 +143,27 @@
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F815
-[/us/pl/91/547/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs9
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1420
-[/us/pl/100/181/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs612
+[/us/pl/100/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVI
 [/us/stat/101/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1261
-[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/106/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtII
 [/us/stat/113/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1396
-[/us/pl/111/203/s985/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs985%2Fd%2F4
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1934
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/usc/t15/s80a–52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9352
-[/us/pl/111/203/s985/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs985%2Fd%2F4%2FA
-[/us/pl/111/203/s985/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs985%2Fd%2F4%2FB
-[/us/pl/106/102/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs212
-[/us/pl/106/102/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs211%2Fa
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
-[/us/pl/91/547/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs9%2Fa
-[/us/pl/91/547/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs9%2Fb
-[/us/pl/91/547/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs9%2Fc
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

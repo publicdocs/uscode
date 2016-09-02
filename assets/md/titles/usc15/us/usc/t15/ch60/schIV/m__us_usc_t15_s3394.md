@@ -23,7 +23,7 @@
 
         The limitation under subsection (a) shall not affect the authority of the Commission to enforce any curtailment of deliveries of natural gas under the Natural Gas Act \[[15 U.S.C. 717][/us/usc/t15/s717] et seq.\].
 
-([Pub. L. 95–621, title IV, § 404][/us/pl/95/621/s404], Nov. 9, 1978, [92 Stat. 3396][/us/stat/92/3396].)
+([Pub. L. 95–621, title IV][/us/pl/95/621/tIV], § 404, Nov. 9, 1978, [92 Stat. 3396][/us/stat/92/3396].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t15/s717f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717f
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
-[/us/pl/95/621/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs404
+[/us/pl/95/621/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2FtIV
 [/us/stat/92/3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3396
 [/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F821

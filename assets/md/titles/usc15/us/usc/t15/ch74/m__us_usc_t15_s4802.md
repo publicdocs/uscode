@@ -17,7 +17,7 @@
 
     There is established the Competitiveness Policy Council (hereafter in this chapter referred to as the “Council”), an advisory committee under the provisions of the Federal Advisory Committee Act (5 U.S.C. App.).
 
-([Pub. L. 100–418, title V, § 5203][/us/pl/100/418/s5203], Aug. 23, 1988, [102 Stat. 1456][/us/stat/102/1456].)
+([Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5203, Aug. 23, 1988, [102 Stat. 1456][/us/stat/102/1456].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s5203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5203
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1456
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

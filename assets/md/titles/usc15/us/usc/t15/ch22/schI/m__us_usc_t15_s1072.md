@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    Acts March 3, 1881, and February 20, 1905, referred to in text, are acts [Mar. 3, 1881, ch. 138][/us/act/1881-03-03/ch138], [21 Stat. 502][/us/stat/21/502] and [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], [33 Stat. 724][/us/stat/33/724], which were repealed insofar as inconsistent with this chapter by [act July 5, 1946, ch. 540, § 46(a)][/us/act/1946-07-05/ch540/s46/a], [60 Stat. 444][/us/stat/60/444]. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
+    Acts March 3, 1881, and February 20, 1905, referred to in text, are acts [Mar. 3, 1881, ch. 138][/us/act/1881-03-03/ch138], [21 Stat. 502][/us/stat/21/502] and [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], [33 Stat. 724][/us/stat/33/724], which were repealed insofar as inconsistent with this chapter by [act July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], § 46(a), [60 Stat. 444][/us/stat/60/444]. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
  __Repeal and Effect on Existing Rights__ 
 
@@ -40,7 +40,7 @@
 [/us/stat/21/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F21%2F502
 [/us/act/1905-02-20/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592
 [/us/stat/33/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F724
-[/us/act/1946-07-05/ch540/s46/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540%2Fs46%2Fa
+[/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F444
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
 

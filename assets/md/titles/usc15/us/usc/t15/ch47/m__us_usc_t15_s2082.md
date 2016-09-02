@@ -101,19 +101,19 @@
 
         There are authorized to be appropriated, for each of the fiscal years 1978, 1979, 1980, and 1981, such sums as may be necessary to carry out the provisions of this section.
 
-([Pub. L. 92–573, § 35][/us/pl/92/573/s35], as added [Pub. L. 95–319, § 3(a)][/us/pl/95/319/s3/a], July 11, 1978, [92 Stat. 386][/us/stat/92/386]; amended [Pub. L. 103–437, § 5(c)(2)][/us/pl/103/437/s5/c/2], Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582]; [Pub. L. 110–314, title II, § 235(c)(3)][/us/pl/110/314/s235/c/3], (5), Aug. 14, 2008, [122 Stat. 3074][/us/stat/122/3074], 3075.)
+([Pub. L. 92–573][/us/pl/92/573], § 35, as added [Pub. L. 95–319][/us/pl/95/319], § 3(a), July 11, 1978, [92 Stat. 386][/us/stat/92/386]; amended [Pub. L. 103–437][/us/pl/103/437], § 5(c)(2), Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 235(c)(3), (5), Aug. 14, 2008, [122 Stat. 3074][/us/stat/122/3074], 3075.)
 
  __Amendments__ 
 
-    2008—Subsec. (c)(2)(D)(iii). [Pub. L. 110–314, § 235(c)(3)][/us/pl/110/314/s235/c/3], substituted “the appropriate Congressional committees” for “the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives”.
+    2008—Subsec. (c)(2)(D)(iii). [Pub. L. 110–314][/us/pl/110/314], § 235(c)(3), substituted “the appropriate Congressional committees” for “the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives”.
 
-    Subsec. (e)(1). [Pub. L. 110–314, § 235(c)(5)][/us/pl/110/314/s235/c/5], substituted “the appropriate Congressional committees” for “the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Energy and Commerce of the House of Representatives”.
+    Subsec. (e)(1). [Pub. L. 110–314][/us/pl/110/314], § 235(c)(5), substituted “the appropriate Congressional committees” for “the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Energy and Commerce of the House of Representatives”.
 
     1994—Subsecs. (c)(2)(D)(iii), (e)(1). [Pub. L. 103–437][/us/pl/103/437] substituted “Committee on Energy and Commerce” for “Committee on Interstate and Foreign Commerce”.
 
  __Congressional Statement of Findings and Purpose__ 
 
-[Pub. L. 95–319, § 2][/us/pl/95/319/s2], July 11, 1978, [92 Stat. 386][/us/stat/92/386], provided that:
+[Pub. L. 95–319][/us/pl/95/319], § 2, July 11, 1978, [92 Stat. 386][/us/stat/92/386], provided that:
 
 >     “(a)
 
@@ -145,17 +145,17 @@
 [/us/usc/t15/s2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2063
 [/us/usc/t15/s2063/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2063%2Fb
 [/us/usc/t15/s2063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2063
-[/us/pl/92/573/s35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs35
-[/us/pl/95/319/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F319%2Fs3%2Fa
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
+[/us/pl/95/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F319
 [/us/stat/92/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F386
-[/us/pl/103/437/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs5%2Fc%2F2
-[/us/stat/108/4582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4582
-[/us/pl/110/314/s235/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs235%2Fc%2F3
-[/us/stat/122/3074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3074
-[/us/pl/110/314/s235/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs235%2Fc%2F3
-[/us/pl/110/314/s235/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs235%2Fc%2F5
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
-[/us/pl/95/319/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F319%2Fs2
+[/us/stat/108/4582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4582
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
+[/us/stat/122/3074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3074
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
+[/us/pl/95/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F319
 [/us/stat/92/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F386
 [/us/usc/t15/s2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2068
 

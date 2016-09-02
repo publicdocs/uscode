@@ -37,7 +37,7 @@
 
     (10) The term “demand-side management” includes energy conservation, energy efficiency, and load management techniques.
 
-([Pub. L. 95–617, title III, § 302][/us/pl/95/617/s302], Nov. 9, 1978, [92 Stat. 3150][/us/stat/92/3150]; [Pub. L. 102–486, title I, § 115(a)][/us/pl/102/486/s115/a], Oct. 24, 1992, [106 Stat. 2803][/us/stat/106/2803].)
+([Pub. L. 95–617, title III][/us/pl/95/617/tIII], § 302, Nov. 9, 1978, [92 Stat. 3150][/us/stat/92/3150]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 115(a), Oct. 24, 1992, [106 Stat. 2803][/us/stat/106/2803].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/pl/95/617/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs302
+[/us/pl/95/617/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtIII
 [/us/stat/92/3150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3150
-[/us/pl/102/486/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs115%2Fa
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2803
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/usc/t16/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2602

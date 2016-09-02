@@ -605,7 +605,7 @@
 
         The authority to award assistance and grants under this section shall expire on the date that is 5 years after January 2, 2013.
 
-([Pub. L. 93–498, § 33][/us/pl/93/498/s33], as added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVII, § 1701(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–360; amended [Pub. L. 107–107, div. A, title X, § 1061][/us/pl/107/107/s1061], Dec. 28, 2001, [115 Stat. 1231][/us/stat/115/1231]; [Pub. L. 108–7, div. K, title IV, § 421][/us/pl/108/7/s421], Feb. 20, 2003, [117 Stat. 526][/us/stat/117/526]; [Pub. L. 108–169, title II, § 205][/us/pl/108/169/s205], Dec. 6, 2003, [117 Stat. 2040][/us/stat/117/2040]; [Pub. L. 108–375, div. C, title XXXVI, § 3602][/us/pl/108/375/s3602], Oct. 28, 2004, [118 Stat. 2195][/us/stat/118/2195]; [Pub. L. 112–239, div. A, title XVIII, § 1803][/us/pl/112/239/s1803], Jan. 2, 2013, [126 Stat. 2100][/us/stat/126/2100].)
+([Pub. L. 93–498][/us/pl/93/498], § 33, as added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XVII, § 1701(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–360; amended [Pub. L. 107–107, div. A, title X][/us/pl/107/107/dA/tX], § 1061, Dec. 28, 2001, [115 Stat. 1231][/us/stat/115/1231]; [Pub. L. 108–7, div. K, title IV][/us/pl/108/7/dK/tIV], § 421, Feb. 20, 2003, [117 Stat. 526][/us/stat/117/526]; [Pub. L. 108–169, title II][/us/pl/108/169/tII], § 205, Dec. 6, 2003, [117 Stat. 2040][/us/stat/117/2040]; [Pub. L. 108–375, div. C, title XXXVI][/us/pl/108/375/dC/tXXXVI], § 3602, Oct. 28, 2004, [118 Stat. 2195][/us/stat/118/2195]; [Pub. L. 112–239, div. A, title XVIII][/us/pl/112/239/dA/tXVIII], § 1803, Jan. 2, 2013, [126 Stat. 2100][/us/stat/126/2100].)
 
  __References in Text__ 
 
@@ -619,41 +619,41 @@
 
     2013—[Pub. L. 112–239][/us/pl/112/239] amended section generally. Prior to amendment, section authorized grants for firefighter assistance.
 
-    2004—Subsec. (b)(1)(A). [Pub. L. 108–375, § 3602(1)][/us/pl/108/375/s3602/1], inserted “throughout the Nation” after “personnel” and struck out “and” at end.
+    2004—Subsec. (b)(1)(A). [Pub. L. 108–375][/us/pl/108/375], § 3602(1), inserted “throughout the Nation” after “personnel” and struck out “and” at end.
 
-    Subsec. (b)(1)(B). [Pub. L. 108–375, § 3602(2)][/us/pl/108/375/s3602/2], inserted “and firefighter safety research and development” after “fire prevention” and substituted “; and” for period at end.
+    Subsec. (b)(1)(B). [Pub. L. 108–375][/us/pl/108/375], § 3602(2), inserted “and firefighter safety research and development” after “fire prevention” and substituted “; and” for period at end.
 
-    Subsec. (b)(1)(C). [Pub. L. 108–375, § 3602(3)][/us/pl/108/375/s3602/3], added subpar. (C).
+    Subsec. (b)(1)(C). [Pub. L. 108–375][/us/pl/108/375], § 3602(3), added subpar. (C).
 
-    Subsec. (b)(3)(F). [Pub. L. 108–375, § 3602(4)][/us/pl/108/375/s3602/4], inserted “and nonaffiliated EMS organizations” after “fire departments”.
+    Subsec. (b)(3)(F). [Pub. L. 108–375][/us/pl/108/375], § 3602(4), inserted “and nonaffiliated EMS organizations” after “fire departments”.
 
-    Subsec. (b)(4). [Pub. L. 108–375, § 3602(5)(A)][/us/pl/108/375/s3602/5/A], inserted “and firefighter safety research and development” after “prevention” in heading.
+    Subsec. (b)(4). [Pub. L. 108–375][/us/pl/108/375], § 3602(5)(A), inserted “and firefighter safety research and development” after “prevention” in heading.
 
-    Subsec. (b)(4)(A)(ii). [Pub. L. 108–375, § 3602(5)(B)][/us/pl/108/375/s3602/5/B], inserted “that are not fire departments and” after “community organizations”, “and firefighter research and development programs,” after “fire safety programs and activities,”, and “and research to improve firefighter health and life safety” after “fire prevention programs”.
+    Subsec. (b)(4)(A)(ii). [Pub. L. 108–375][/us/pl/108/375], § 3602(5)(B), inserted “that are not fire departments and” after “community organizations”, “and firefighter research and development programs,” after “fire safety programs and activities,”, and “and research to improve firefighter health and life safety” after “fire prevention programs”.
 
-    Subsec. (b)(4)(B). [Pub. L. 108–375, § 3602(5)(C)][/us/pl/108/375/s3602/5/C], substituted “to high risk groups from fire, as well as research programs that demonstrate the potential to improve firefighter safety” for “to children from fire”.
+    Subsec. (b)(4)(B). [Pub. L. 108–375][/us/pl/108/375], § 3602(5)(C), substituted “to high risk groups from fire, as well as research programs that demonstrate the potential to improve firefighter safety” for “to children from fire”.
 
-    Subsec. (b)(4)(C). [Pub. L. 108–375, § 3602(5)(D)][/us/pl/108/375/s3602/5/D], added subpar. (C).
+    Subsec. (b)(4)(C). [Pub. L. 108–375][/us/pl/108/375], § 3602(5)(D), added subpar. (C).
 
-    Subsec. (b)(5)(B)(iv), (v). [Pub. L. 108–375, § 3602(6)][/us/pl/108/375/s3602/6], added cl. (iv) and redesignated former cl. (iv) as (v).
+    Subsec. (b)(5)(B)(iv), (v). [Pub. L. 108–375][/us/pl/108/375], § 3602(6), added cl. (iv) and redesignated former cl. (iv) as (v).
 
-    Subsec. (b)(6). [Pub. L. 108–375, § 3602(7)][/us/pl/108/375/s3602/7], added subpars. (A) to (C) and struck out former subpars. (A) and (B) which read as follows:
+    Subsec. (b)(6). [Pub. L. 108–375][/us/pl/108/375], § 3602(7), added subpars. (A) to (C) and struck out former subpars. (A) and (B) which read as follows:
 
     “(A) In general.—Subject to subparagraph (B), the Director may provide assistance under this subsection only if the applicant for the assistance agrees to match with an equal amount of non-Federal funds 30 percent of the assistance received under this subsection for any fiscal year.
 
     “(B) Requirement for small community organizations.—In the case of an applicant whose personnel serve jurisdictions of 50,000 or fewer residents, the percent applied under the matching requirement of subparagraph (A) shall be 10 percent.”
 
-    Subsec. (b)(10)(A). [Pub. L. 108–375, § 3602(8)(A)][/us/pl/108/375/s3602/8/A], amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “A grant recipient under this section may not receive more than $750,000 under this section for any fiscal year.”
+    Subsec. (b)(10)(A). [Pub. L. 108–375][/us/pl/108/375], § 3602(8)(A), amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “A grant recipient under this section may not receive more than $750,000 under this section for any fiscal year.”
 
-    Subsec. (b)(10)(B) to (F). [Pub. L. 108–375, § 3602(8)(B)][/us/pl/108/375/s3602/8/B]–(D), redesignated subpar. (B) as (C) and added new subpars. (B) and (D) to (F).
+    Subsec. (b)(10)(B) to (F). [Pub. L. 108–375][/us/pl/108/375], § 3602(8)(B)–(D), redesignated subpar. (B) as (C) and added new subpars. (B) and (D) to (F).
 
-    Subsec. (b)(13) to (17). [Pub. L. 108–375, § 3602(9)][/us/pl/108/375/s3602/9], added pars. (13) to (17).
+    Subsec. (b)(13) to (17). [Pub. L. 108–375][/us/pl/108/375], § 3602(9), added pars. (13) to (17).
 
-    Subsec. (d). [Pub. L. 108–375, § 3602(10)][/us/pl/108/375/s3602/10], amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “In this section, the term ‘State’ includes the District of Columbia and the Commonwealth of Puerto Rico.”
+    Subsec. (d). [Pub. L. 108–375][/us/pl/108/375], § 3602(10), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “In this section, the term ‘State’ includes the District of Columbia and the Commonwealth of Puerto Rico.”
 
-    Subsec. (e)(1). [Pub. L. 108–375, § 3602(11)][/us/pl/108/375/s3602/11], substituted “There are authorized to be appropriated for the purposes of this section $900,000,000 for fiscal year 2005, $950,000,000 for fiscal year 2006, and $1,000,000,000 for each of the fiscal years 2007 through 2009.” for “There are authorized to be appropriated $900,000,000 for each of the fiscal years 2002 through 2004 for the purposes of this section.”
+    Subsec. (e)(1). [Pub. L. 108–375][/us/pl/108/375], § 3602(11), substituted “There are authorized to be appropriated for the purposes of this section $900,000,000 for fiscal year 2005, $950,000,000 for fiscal year 2006, and $1,000,000,000 for each of the fiscal years 2007 through 2009.” for “There are authorized to be appropriated $900,000,000 for each of the fiscal years 2002 through 2004 for the purposes of this section.”
 
-    2003—Subsec. (b)(2). [Pub. L. 108–169, § 205(a)(1)][/us/pl/108/169/s205/a/1], added par. (2) and struck out heading and text of former par. (2). Text read as follows:
+    2003—Subsec. (b)(2). [Pub. L. 108–169][/us/pl/108/169], § 205(a)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows:
 
     “(A) Establishment.—Before providing assistance under paragraph (1), the Director shall establish an office in the Federal Emergency Management Agency to administer the assistance under this section.
 
@@ -663,19 +663,19 @@
 
     “(ii) Grant-writing assistance.—To provide grant-writing assistance to applicants.”
 
-    Subsec. (b)(3)(B). [Pub. L. 108–169, § 205(b)][/us/pl/108/169/s205/b], inserted “maritime firefighting,” after “arson prevention and detection,”.
+    Subsec. (b)(3)(B). [Pub. L. 108–169][/us/pl/108/169], § 205(b), inserted “maritime firefighting,” after “arson prevention and detection,”.
 
-    Subsec. (b)(3)(H). [Pub. L. 108–169, § 205(c)(1)][/us/pl/108/169/s205/c/1], inserted “equipment for fighting fires with foam in remote areas without access to water, and” after “including”.
+    Subsec. (b)(3)(H). [Pub. L. 108–169][/us/pl/108/169], § 205(c)(1), inserted “equipment for fighting fires with foam in remote areas without access to water, and” after “including”.
 
     Subsec. (b)(12). [Pub. L. 108–7][/us/pl/108/7] added par. (12).
 
-    Subsec. (e)(1). [Pub. L. 108–169, § 205(c)(2)][/us/pl/108/169/s205/c/2], inserted at end “Of the amounts authorized in this paragraph, $3,000,000 shall be made available each year through fiscal year 2008 for foam firefighting equipment.”
+    Subsec. (e)(1). [Pub. L. 108–169][/us/pl/108/169], § 205(c)(2), inserted at end “Of the amounts authorized in this paragraph, $3,000,000 shall be made available each year through fiscal year 2008 for foam firefighting equipment.”
 
-    Subsec. (e)(2). [Pub. L. 108–169, § 205(a)(2)][/us/pl/108/169/s205/a/2], struck out “operate the office established under subsection (b)(2) of this section and” before “make grants and provide assistance under this section.”
+    Subsec. (e)(2). [Pub. L. 108–169][/us/pl/108/169], § 205(a)(2), struck out “operate the office established under subsection (b)(2) of this section and” before “make grants and provide assistance under this section.”
 
-    2001—Subsec. (b)(3). [Pub. L. 107–107, § 1061(b)][/us/pl/107/107/s1061/b], (c), substituted “the grant funds for one or more of the following purposes:” for “the grant funds—” in introductory provisions, capitalized the initial letter of the first word of each of subpars. (A) to (N), substituted a period for the semicolon at end of each of subpars. (A) to (L) and a period for “; or” at end of subpar. (M), inserted “(including response to a terrorism incident or use of a weapon of mass destruction)” after “emergency response” in subpar. (B), substituted “, monitoring, and response to a terrorism incident or use of a weapon of mass destruction” for “and monitoring” in subpar. (H), and inserted “, including protective equipment to respond to a terrorism incident or the use of a weapon of mass destruction” after “equipment for firefighting personnel” in subpar. (I).
+    2001—Subsec. (b)(3). [Pub. L. 107–107][/us/pl/107/107], § 1061(b), (c), substituted “the grant funds for one or more of the following purposes:” for “the grant funds—” in introductory provisions, capitalized the initial letter of the first word of each of subpars. (A) to (N), substituted a period for the semicolon at end of each of subpars. (A) to (L) and a period for “; or” at end of subpar. (M), inserted “(including response to a terrorism incident or use of a weapon of mass destruction)” after “emergency response” in subpar. (B), substituted “, monitoring, and response to a terrorism incident or use of a weapon of mass destruction” for “and monitoring” in subpar. (H), and inserted “, including protective equipment to respond to a terrorism incident or the use of a weapon of mass destruction” after “equipment for firefighting personnel” in subpar. (I).
 
-    Subsec. (e). [Pub. L. 107–107, § 1061(a)][/us/pl/107/107/s1061/a], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated for the purposes of this section amounts as follows:
+    Subsec. (e). [Pub. L. 107–107][/us/pl/107/107], § 1061(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated for the purposes of this section amounts as follows:
 
     “(1) $100,000,000 for fiscal year 2001.
 
@@ -697,47 +697,47 @@
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t20/s1067q/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1067q%2Fa
 [/us/usc/t6/s747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs747
-[/us/pl/93/498/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs33
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/107/107/s1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1061
+[/us/pl/107/107/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtX
 [/us/stat/115/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1231
-[/us/pl/108/7/s421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs421
+[/us/pl/108/7/dK/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdK%2FtIV
 [/us/stat/117/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F526
-[/us/pl/108/169/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2Fs205
+[/us/pl/108/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2FtII
 [/us/stat/117/2040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2040
-[/us/pl/108/375/s3602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3602
+[/us/pl/108/375/dC/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXVI
 [/us/stat/118/2195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2195
-[/us/pl/112/239/s1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1803
+[/us/pl/112/239/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVIII
 [/us/stat/126/2100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2100
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/93/498/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs33
 [/us/usc/t15/s2230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2230
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/108/375/s3602/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3602%2F1
-[/us/pl/108/375/s3602/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3602%2F2
-[/us/pl/108/375/s3602/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3602%2F3
-[/us/pl/108/375/s3602/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3602%2F4
-[/us/pl/108/375/s3602/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3602%2F5%2FA
-[/us/pl/108/375/s3602/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3602%2F5%2FB
-[/us/pl/108/375/s3602/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3602%2F5%2FC
-[/us/pl/108/375/s3602/5/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3602%2F5%2FD
-[/us/pl/108/375/s3602/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3602%2F6
-[/us/pl/108/375/s3602/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3602%2F7
-[/us/pl/108/375/s3602/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3602%2F8%2FA
-[/us/pl/108/375/s3602/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3602%2F8%2FB
-[/us/pl/108/375/s3602/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3602%2F9
-[/us/pl/108/375/s3602/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3602%2F10
-[/us/pl/108/375/s3602/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3602%2F11
-[/us/pl/108/169/s205/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2Fs205%2Fa%2F1
-[/us/pl/108/169/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2Fs205%2Fb
-[/us/pl/108/169/s205/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2Fs205%2Fc%2F1
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
+[/us/pl/108/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169
+[/us/pl/108/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169
+[/us/pl/108/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
-[/us/pl/108/169/s205/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2Fs205%2Fc%2F2
-[/us/pl/108/169/s205/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2Fs205%2Fa%2F2
-[/us/pl/107/107/s1061/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1061%2Fb
-[/us/pl/107/107/s1061/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1061%2Fa
+[/us/pl/108/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169
+[/us/pl/108/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

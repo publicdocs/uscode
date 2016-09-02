@@ -41,7 +41,7 @@
 
         (2) In addition to actions brought by an attorney general of a State under subsection (a), such an action may be brought by officers of such State who are authorized by the State to bring actions in such State on behalf of its residents.
 
-([Pub. L. 103–297, § 4][/us/pl/103/297/s4], Aug. 16, 1994, [108 Stat. 1548][/us/stat/108/1548]; [Pub. L. 111–203, title X, § 1100C(b)][/us/pl/111/203/s1100C/b], July 21, 2010, [124 Stat. 2111][/us/stat/124/2111].)
+([Pub. L. 103–297][/us/pl/103/297], § 4, Aug. 16, 1994, [108 Stat. 1548][/us/stat/108/1548]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100C(b), July 21, 2010, [124 Stat. 2111][/us/stat/124/2111].)
 
  __References in Text__ 
 
@@ -65,9 +65,9 @@
 [/us/usc/t15/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6102
 [/us/usc/t15/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6102
 [/us/usc/t28/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1391
-[/us/pl/103/297/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297%2Fs4
+[/us/pl/103/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297
 [/us/stat/108/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1548
-[/us/pl/111/203/s1100C/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100C%2Fb
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2111
 [/us/pl/103/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297
 [/us/stat/108/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1545

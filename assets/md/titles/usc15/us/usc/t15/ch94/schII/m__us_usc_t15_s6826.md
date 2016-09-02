@@ -27,7 +27,7 @@
 
         The Federal Trade Commission and the Attorney General shall submit to Congress an annual report on number and disposition of all enforcement actions taken pursuant to this subchapter.
 
-([Pub. L. 106–102, title V, § 526][/us/pl/106/102/s526], Nov. 12, 1999, [113 Stat. 1448][/us/stat/113/1448].)
+([Pub. L. 106–102, title V][/us/pl/106/102/tV], § 526, Nov. 12, 1999, [113 Stat. 1448][/us/stat/113/1448].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/106/102/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs526
+[/us/pl/106/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtV
 [/us/stat/113/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1448
 
 

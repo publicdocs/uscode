@@ -97,7 +97,7 @@
 
             (C) without reasonable justification or excuse, has failed to enforce compliance with any such provision or rule, or any professional standard by any registered public accounting firm or any associated person thereof.
 
-([Pub. L. 107–204, title I, § 107][/us/pl/107/204/s107], July 30, 2002, [116 Stat. 765][/us/stat/116/765]; [Pub. L. 111–203, title IX, § 929F(i)][/us/pl/111/203/s929F/i], July 21, 2010, [124 Stat. 1855][/us/stat/124/1855].)
+([Pub. L. 107–204, title I][/us/pl/107/204/tI], § 107, July 30, 2002, [116 Stat. 765][/us/stat/116/765]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 929F(i), July 21, 2010, [124 Stat. 1855][/us/stat/124/1855].)
 
  __References in Text__ 
 
@@ -134,9 +134,9 @@ For information regarding constitutionality of certain provisions of [section 10
 [/us/usc/t15/s7215/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7215%2Fe
 [/us/usc/t15/s78s/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78s%2Fe%2F2
 [/us/usc/t15/s7217/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7217%2Fc%2F3
-[/us/pl/107/204/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs107
+[/us/pl/107/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtI
 [/us/stat/116/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F765
-[/us/pl/111/203/s929F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929F%2Fi
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1855
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/stat/116/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F745

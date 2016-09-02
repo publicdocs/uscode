@@ -17,7 +17,7 @@
 
     Dividends declared by a China Trade Act corporation shall be derived wholly from the surplus profits of its business.
 
-([Sept. 19, 1922, ch. 346, § 13][/us/act/1922-09-19/ch346/s13], [42 Stat. 853][/us/stat/42/853].)
+([Sept. 19, 1922, ch. 346][/us/act/1922-09-19/ch346], § 13, [42 Stat. 853][/us/stat/42/853].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1922-09-19/ch346/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346%2Fs13
+[/us/act/1922-09-19/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346
 [/us/stat/42/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F853
 
 

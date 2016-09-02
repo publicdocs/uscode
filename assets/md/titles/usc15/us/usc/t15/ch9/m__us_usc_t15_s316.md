@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Mar. 4, 1913, ch. 145, § 1][/us/act/1913-03-04/ch145/s1] \[part\], [37 Stat. 830][/us/stat/37/830], related to travel expenses, and has been superseded by section 5701 et seq. of Title 5, Government Organization and Employees.
+    Section, [act Mar. 4, 1913, ch. 145][/us/act/1913-03-04/ch145], § 1 \[part\], [37 Stat. 830][/us/stat/37/830], related to travel expenses, and has been superseded by section 5701 et seq. of Title 5, Government Organization and Employees.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1913-03-04/ch145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145%2Fs1
+[/us/act/1913-03-04/ch145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch145
 [/us/stat/37/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F830
 
 

@@ -17,7 +17,7 @@
 
     If any provision of this subchapter, or the application thereof to any person, partnership, or corporation, or circumstance, is held invalid, the remainder of this subchapter, and the application of such provisions to any other person, partnership, corporation, or circumstance, shall not be affected thereby.
 
-([Sept. 26, 1914, ch. 311, § 17][/us/act/1914-09-26/ch311/s17], as added [Mar. 21, 1938, ch. 49, § 4][/us/act/1938-03-21/ch49/s4], [52 Stat. 114][/us/stat/52/114].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 17, as added [Mar. 21, 1938, ch. 49][/us/act/1938-03-21/ch49], § 4, [52 Stat. 114][/us/stat/52/114].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1914-09-26/ch311/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs17
-[/us/act/1938-03-21/ch49/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-03-21%2Fch49%2Fs4
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
+[/us/act/1938-03-21/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-03-21%2Fch49
 [/us/stat/52/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F114
 
 

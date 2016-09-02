@@ -67,11 +67,11 @@
 
         (7) any other error described in regulations of the Bureau.
 
-([Pub. L. 90–321, title IX, § 908][/us/pl/90/321/s908], as added [Pub. L. 95–630, title XX, § 2001][/us/pl/95/630/s2001], Nov. 10, 1978, [92 Stat. 3733][/us/stat/92/3733]; amended [Pub. L. 111–203, title X, § 1084(1)][/us/pl/111/203/s1084/1], July 21, 2010, [124 Stat. 2081][/us/stat/124/2081].)
+([Pub. L. 90–321, title IX][/us/pl/90/321/tIX], § 908, as added [Pub. L. 95–630, title XX][/us/pl/95/630/tXX], § 2001, Nov. 10, 1978, [92 Stat. 3733][/us/stat/92/3733]; amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1084(1), July 21, 2010, [124 Stat. 2081][/us/stat/124/2081].)
 
  __References in Text__ 
 
-    [Section 1693m of this title][/us/usc/t15/s1693m], referred to in subsec. (e), was in the original a reference to [section 915 of Pub. L. 90–321][/us/pl/90/321/s915], and was translated as meaning [section 916 of Pub. L. 90–321][/us/pl/90/321/s916] to reflect the probable intent of Congress and the renumbering of [section 915 of Pub. L. 90–321][/us/pl/90/321/s915] as section 916 by [Pub. L. 111–24, title IV, § 401(1)][/us/pl/111/24/s401/1], May 22, 2009, [123 Stat. 1751][/us/stat/123/1751].
+    [Section 1693m of this title][/us/usc/t15/s1693m], referred to in subsec. (e), was in the original a reference to [section 915 of Pub. L. 90–321][/us/pl/90/321/s915], and was translated as meaning [section 916 of Pub. L. 90–321][/us/pl/90/321/s916] to reflect the probable intent of Congress and the renumbering of [section 915 of Pub. L. 90–321][/us/pl/90/321/s915] as section 916 by [Pub. L. 111–24, title IV][/us/pl/111/24/tIV], § 401(1), May 22, 2009, [123 Stat. 1751][/us/stat/123/1751].
 
  __Amendments__ 
 
@@ -92,16 +92,16 @@
 [/us/usc/t15/s1693d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693d%2Fb
 [/us/usc/t15/s1693g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693g
 [/us/usc/t15/s1693g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693g
-[/us/pl/90/321/s908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs908
-[/us/pl/95/630/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs2001
+[/us/pl/90/321/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIX
+[/us/pl/95/630/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXX
 [/us/stat/92/3733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3733
-[/us/pl/111/203/s1084/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2081
 [/us/usc/t15/s1693m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693m
 [/us/pl/90/321/s915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs915
 [/us/pl/90/321/s916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs916
 [/us/pl/90/321/s915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs915
-[/us/pl/111/24/s401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs401%2F1
+[/us/pl/111/24/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtIV
 [/us/stat/123/1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1751
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

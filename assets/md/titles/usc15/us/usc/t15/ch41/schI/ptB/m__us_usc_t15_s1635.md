@@ -77,39 +77,39 @@
 
             This subsection shall apply to all consumer credit transactions in existence or consummated on or after September 30, 1995.
 
-([Pub. L. 90–321, title I, § 125][/us/pl/90/321/s125], May 29, 1968, [82 Stat. 153][/us/stat/82/153]; [Pub. L. 93–495, title IV][/us/pl/93/495], §§ 404, 405, 412, Oct. 28, 1974, [88 Stat. 1517][/us/stat/88/1517], 1519; [Pub. L. 96–221, title VI, § 612(a)(1)][/us/pl/96/221/s612/a/1], (3)–(6), Mar. 31, 1980, [94 Stat. 175][/us/stat/94/175], 176; [Pub. L. 98–479, title II, § 205][/us/pl/98/479/s205], Oct. 17, 1984, [98 Stat. 2234][/us/stat/98/2234]; [Pub. L. 104–29][/us/pl/104/29], §§ 5, 8, Sept. 30, 1995, [109 Stat. 274][/us/stat/109/274], 275; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 125, May 29, 1968, [82 Stat. 153][/us/stat/82/153]; [Pub. L. 93–495, title IV][/us/pl/93/495/tIV], §§ 404, 405, 412, Oct. 28, 1974, [88 Stat. 1517][/us/stat/88/1517], 1519; [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 612(a)(1), (3)–(6), Mar. 31, 1980, [94 Stat. 175][/us/stat/94/175], 176; [Pub. L. 98–479, title II][/us/pl/98/479/tII], § 205, Oct. 17, 1984, [98 Stat. 2234][/us/stat/98/2234]; [Pub. L. 104–29][/us/pl/104/29], §§ 5, 8, Sept. 30, 1995, [109 Stat. 274][/us/stat/109/274], 275; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 
  __References in Text__ 
 
-    [Section 1602(w) of this title][/us/usc/t15/s1602/w], referred to in subsec. (e)(1), was redesignated [section 1602(x) of this title][/us/usc/t15/s1602/x] by [Pub. L. 111–203, title X, § 1100A(1)(A)][/us/pl/111/203/s1100A/1/A], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
+    [Section 1602(w) of this title][/us/usc/t15/s1602/w], referred to in subsec. (e)(1), was redesignated [section 1602(x) of this title][/us/usc/t15/s1602/x] by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(1)(A), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
 
  __Amendments__ 
 
     2010—Subsecs. (a), (d), (h), (i)(1)(B). [Pub. L. 111–203][/us/pl/111/203] substituted “Bureau” for “Board” wherever appearing.
 
-    1995—Subsec. (h). [Pub. L. 104–29, § 5][/us/pl/104/29/s5], added subsec. (h).
+    1995—Subsec. (h). [Pub. L. 104–29][/us/pl/104/29], § 5, added subsec. (h).
 
-    Subsec. (i). [Pub. L. 104–29, § 8][/us/pl/104/29/s8], added subsec. (i).
+    Subsec. (i). [Pub. L. 104–29][/us/pl/104/29], § 8, added subsec. (i).
 
     1984—Subsec. (e). [Pub. L. 98–479][/us/pl/98/479] redesignated par. (1) as subsec. (e), redesignated subpars. (A), (B), (C), and (D) of par. (1) as pars. (1), (2), (3), and (4), respectively, and struck out par. (2) which read as follows: “The provisions of paragraph (1)(D) shall cease to be effective 3 years after the effective date of the Truth in Lending Simplification Reform Act.”
 
-    1980—Subsec. (a). [Pub. L. 96–221, § 612(a)(1)][/us/pl/96/221/s612/a/1], substituted provisions relating to the right of rescission until midnight of the third business day following the consummation of the transaction or the delivery of the information and rescission forms required together with the statement containing the material disclosures required under this subchapter, whichever is later, for provisions relating to right of rescission until midnight of the third business day following the consummation of the transaction or the delivery of the required disclosures and all other material disclosures required under this part, whichever is later.
+    1980—Subsec. (a). [Pub. L. 96–221][/us/pl/96/221], § 612(a)(1), substituted provisions relating to the right of rescission until midnight of the third business day following the consummation of the transaction or the delivery of the information and rescission forms required together with the statement containing the material disclosures required under this subchapter, whichever is later, for provisions relating to right of rescission until midnight of the third business day following the consummation of the transaction or the delivery of the required disclosures and all other material disclosures required under this part, whichever is later.
 
-    Subsec. (b). [Pub. L. 96–221, § 612(a)(3)][/us/pl/96/221/s612/a/3], (4), inserted provisions setting forth applicability of procedures prescribed by this subsection, and substituted “20” for “ten” in two places.
+    Subsec. (b). [Pub. L. 96–221][/us/pl/96/221], § 612(a)(3), (4), inserted provisions setting forth applicability of procedures prescribed by this subsection, and substituted “20” for “ten” in two places.
 
-    Subsec. (c). [Pub. L. 96–221, § 612(a)(5)][/us/pl/96/221/s612/a/5], inserted “information, forms, and” after “whom”.
+    Subsec. (c). [Pub. L. 96–221][/us/pl/96/221], § 612(a)(5), inserted “information, forms, and” after “whom”.
 
-    Subsec. (e). [Pub. L. 96–221, § 612(a)(6)][/us/pl/96/221/s612/a/6], substituted provisions relating to nonapplicability to residential mortgage transactions, refinancing or consolidation transactions, etc., for provisions relating to nonapplicability to creation or retention of first liens.
+    Subsec. (e). [Pub. L. 96–221][/us/pl/96/221], § 612(a)(6), substituted provisions relating to nonapplicability to residential mortgage transactions, refinancing or consolidation transactions, etc., for provisions relating to nonapplicability to creation or retention of first liens.
 
-    Subsec. (f). [Pub. L. 96–221, § 612(a)(6)][/us/pl/96/221/s612/a/6], substituted provisions setting forth duration of right of rescission where the required information and forms or other disclosures required under this part have not been delivered to the obligor, and exceptions to such term, for provisions setting forth duration of right of rescission where the required disclosures or any other material disclosures required under this part have not been delivered to the obligor.
+    Subsec. (f). [Pub. L. 96–221][/us/pl/96/221], § 612(a)(6), substituted provisions setting forth duration of right of rescission where the required information and forms or other disclosures required under this part have not been delivered to the obligor, and exceptions to such term, for provisions setting forth duration of right of rescission where the required disclosures or any other material disclosures required under this part have not been delivered to the obligor.
 
-    Subsec. (g). [Pub. L. 96–221, § 612(a)(6)][/us/pl/96/221/s612/a/6], added subsec. (g).
+    Subsec. (g). [Pub. L. 96–221][/us/pl/96/221], § 612(a)(6), added subsec. (g).
 
-    1974—Subsecs. (a), (b). [Pub. L. 93–495, § 404][/us/pl/93/495/s404], inserted provisions relating to security interest arising by operation of law.
+    1974—Subsecs. (a), (b). [Pub. L. 93–495][/us/pl/93/495], § 404, inserted provisions relating to security interest arising by operation of law.
 
-    Subsec. (e). [Pub. L. 93–495, § 412][/us/pl/93/495/s412], inserted exemption for consumer credit transactions where a State agency is the creditor.
+    Subsec. (e). [Pub. L. 93–495][/us/pl/93/495], § 412, inserted exemption for consumer credit transactions where a State agency is the creditor.
 
-    Subsec. (f). [Pub. L. 93–495, § 405][/us/pl/93/495/s405], added subsec. (f).
+    Subsec. (f). [Pub. L. 93–495][/us/pl/93/495], § 405, added subsec. (f).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -133,35 +133,35 @@
 [/us/usc/t15/s1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1640
 [/us/usc/t15/s1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1649
 [/us/usc/t15/s1605/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1605%2Ff
-[/us/pl/90/321/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs125
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
 [/us/stat/82/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F153
-[/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
+[/us/pl/93/495/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtIV
 [/us/stat/88/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1517
-[/us/pl/96/221/s612/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs612%2Fa%2F1
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F175
-[/us/pl/98/479/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2Fs205
+[/us/pl/98/479/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479%2FtII
 [/us/stat/98/2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2234
 [/us/pl/104/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29
 [/us/stat/109/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F274
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/usc/t15/s1602/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fw
 [/us/usc/t15/s1602/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fx
-[/us/pl/111/203/s1100A/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F1%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/104/29/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29%2Fs5
-[/us/pl/104/29/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29%2Fs8
+[/us/pl/104/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29
+[/us/pl/104/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29
 [/us/pl/98/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F479
-[/us/pl/96/221/s612/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs612%2Fa%2F1
-[/us/pl/96/221/s612/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs612%2Fa%2F3
-[/us/pl/96/221/s612/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs612%2Fa%2F5
-[/us/pl/96/221/s612/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs612%2Fa%2F6
-[/us/pl/96/221/s612/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs612%2Fa%2F6
-[/us/pl/96/221/s612/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs612%2Fa%2F6
-[/us/pl/93/495/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs404
-[/us/pl/93/495/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs412
-[/us/pl/93/495/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs405
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
+[/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
+[/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

@@ -39,7 +39,7 @@
 
         (5) develop provisions designed to attract structurally unemployed youth into productive full-time employment through incentives to private and independent sector businesses;  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The semicolon probably should be a period. </sup></sup> 
 
-([Pub. L. 95–523, title II, § 205][/us/pl/95/523/s205], Oct. 27, 1978, [92 Stat. 1901][/us/stat/92/1901].)
+([Pub. L. 95–523, title II][/us/pl/95/523/tII], § 205, Oct. 27, 1978, [92 Stat. 1901][/us/stat/92/1901].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/95/523/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs205
+[/us/pl/95/523/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2FtII
 [/us/stat/92/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1901
 [/us/usc/t15/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3102
 

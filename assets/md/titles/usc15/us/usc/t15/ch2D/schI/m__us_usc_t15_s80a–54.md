@@ -65,11 +65,11 @@
 
         For purposes of this section, the value of a business development company’s assets shall be determined as of the date of the most recent financial statements filed by such company with the Commission pursuant to [section 78m of this title][/us/usc/t15/s78m], and shall be determined no less frequently than annually.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 55, as added [Pub. L. 96–477, title I, § 105][/us/pl/96/477/s105], Oct. 21, 1980, [94 Stat. 2278][/us/stat/94/2278]; amended [Pub. L. 100–181, title VI, § 626][/us/pl/100/181/s626], Dec. 4, 1987, [101 Stat. 1263][/us/stat/101/1263]; [Pub. L. 104–290, title V, § 505][/us/pl/104/290/s505], Oct. 11, 1996, [110 Stat. 3446][/us/stat/110/3446].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 55, as added [Pub. L. 96–477, title I][/us/pl/96/477/tI], § 105, Oct. 21, 1980, [94 Stat. 2278][/us/stat/94/2278]; amended [Pub. L. 100–181, title VI][/us/pl/100/181/tVI], § 626, Dec. 4, 1987, [101 Stat. 1263][/us/stat/101/1263]; [Pub. L. 104–290, title V][/us/pl/104/290/tV], § 505, Oct. 11, 1996, [110 Stat. 3446][/us/stat/110/3446].)
 
  __References in Text__ 
 
-    The Securities Act of 1933, referred to in subsec. (a)(1), is [act May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, [48 Stat. 74][/us/stat/48/74], as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
+    The Securities Act of 1933, referred to in subsec. (a)(1), is [act May 27, 1933, ch. 38, title I][/us/act/1933-05-27/ch38/tI], [48 Stat. 74][/us/stat/48/74], as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
 
  __Amendments__ 
 
@@ -90,13 +90,13 @@
 [/us/usc/t15/s80a–56/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9356%2Fj
 [/us/usc/t15/s78m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
-[/us/pl/96/477/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2Fs105
+[/us/pl/96/477/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2FtI
 [/us/stat/94/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2278
-[/us/pl/100/181/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs626
+[/us/pl/100/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVI
 [/us/stat/101/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1263
-[/us/pl/104/290/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs505
+[/us/pl/104/290/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtV
 [/us/stat/110/3446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3446
-[/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
+[/us/act/1933-05-27/ch38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38%2FtI
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290

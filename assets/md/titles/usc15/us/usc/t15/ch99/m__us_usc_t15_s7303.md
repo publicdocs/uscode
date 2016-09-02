@@ -71,7 +71,7 @@
 
             If a Federal law enforcement agency suspects and notifies the Director that a building failure being investigated by a Team under this chapter may have been caused by a criminal act, the Team, in consultation with the Federal law enforcement agency, shall take necessary actions to ensure that evidence of the criminal act is preserved.
 
-([Pub. L. 107–231, § 4][/us/pl/107/231/s4], Oct. 1, 2002, [116 Stat. 1472][/us/stat/116/1472].)
+([Pub. L. 107–231][/us/pl/107/231], § 4, Oct. 1, 2002, [116 Stat. 1472][/us/stat/116/1472].)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 ----------
 
 [/us/usc/t15/s7301/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7301%2Fc%2F1
-[/us/pl/107/231/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231%2Fs4
+[/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
 [/us/stat/116/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1472
 [/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
 [/us/stat/116/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1471

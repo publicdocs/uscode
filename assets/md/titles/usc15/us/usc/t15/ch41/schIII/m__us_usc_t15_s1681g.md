@@ -405,7 +405,7 @@
 
                 A lender shall not have liability under any contractual provision for disclosure of a credit score pursuant to this subsection.
 
-([Pub. L. 90–321, title VI, § 609][/us/pl/90/321/s609], as added [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1131][/us/stat/84/1131]; amended [Pub. L. 103–325, title III, § 339][/us/pl/103/325/s339], Sept. 23, 1994, [108 Stat. 2237][/us/stat/108/2237]; [Pub. L. 104–208, div. A, title II, § 2408(a)][/us/pl/104/208/s2408/a]–(d)(1), (e)(5)(A), Sept. 30, 1996, [110 Stat. 3009–436][/us/stat/110/3009-436], 3009–437, 3009–439; [Pub. L. 105–347, § 4(a)][/us/pl/105/347/s4/a], Nov. 2, 1998, [112 Stat. 3210][/us/stat/112/3210]; [Pub. L. 108–159, title I][/us/pl/108/159], §§ 115, 151(a)(1), title II, §§ 211(c), 212(a)–(c), title VIII, § 811(d), Dec. 4, 2003, [117 Stat. 1961][/us/stat/117/1961], 1970, 1973–1975, 2011; [Pub. L. 111–203, title X, § 1088(a)(2)(C)][/us/pl/111/203/s1088/a/2/C], July 21, 2010, [124 Stat. 2087][/us/stat/124/2087].)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 609, as added [Pub. L. 91–508, title VI][/us/pl/91/508/tVI], § 601, Oct. 26, 1970, [84 Stat. 1131][/us/stat/84/1131]; amended [Pub. L. 103–325, title III][/us/pl/103/325/tIII], § 339, Sept. 23, 1994, [108 Stat. 2237][/us/stat/108/2237]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2408(a)–(d)(1), (e)(5)(A), Sept. 30, 1996, [110 Stat. 3009–436][/us/stat/110/3009-436], 3009–437, 3009–439; [Pub. L. 105–347][/us/pl/105/347], § 4(a), Nov. 2, 1998, [112 Stat. 3210][/us/stat/112/3210]; [Pub. L. 108–159, title I][/us/pl/108/159/tI], §§ 115, 151(a)(1), title II, §§ 211(c), 212(a)–(c), title VIII, § 811(d), Dec. 4, 2003, [117 Stat. 1961][/us/stat/117/1961], 1970, 1973–1975, 2011; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1088(a)(2)(C), July 21, 2010, [124 Stat. 2087][/us/stat/124/2087].)
 
  __References in Text__ 
 
@@ -415,7 +415,7 @@
 
     Section 211(c) of the Fair and Accurate Credit Transactions Act of 2003, referred to in subsec. (c)(1)(B)(v), probably means [section 211(d) of Pub. L. 108–159][/us/pl/108/159/s211/d], which is set out as a note under [section 1681j of this title][/us/usc/t15/s1681j] and relates to the promulgation of regulations. [Section 211(c) of Pub. L. 108–159][/us/pl/108/159/s211/c] amended this section.
 
-    [Section 1681a(w) of this title][/us/usc/t15/s1681a/w], referred to in subsec. (c)(1)(B)(vi), was redesignated [section 1681a(x) of this title][/us/usc/t15/s1681a/x] by [Pub. L. 111–203, title X, § 1088(a)(1)][/us/pl/111/203/s1088/a/1], July 21, 2010, [124 Stat. 2086][/us/stat/124/2086].
+    [Section 1681a(w) of this title][/us/usc/t15/s1681a/w], referred to in subsec. (c)(1)(B)(vi), was redesignated [section 1681a(x) of this title][/us/usc/t15/s1681a/x] by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1088(a)(1), July 21, 2010, [124 Stat. 2086][/us/stat/124/2086].
 
     [Public Law 106–102][/us/pl/106/102], referred to in subsec. (e)(9)(A), is [Pub. L. 106–102][/us/pl/106/102], Nov. 12, 1999, [113 Stat. 1338][/us/stat/113/1338], as amended, known as the Gramm-Leach-Bliley Act. Subtitle A of title V of the Act is classified principally to subchapter I (§ 6801 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under [section 1811 of Title 12][/us/usc/t12/s1811], Banks and Banking, and Tables.
 
@@ -423,7 +423,7 @@
 
     2010—[Pub. L. 111–203][/us/pl/111/203] substituted “the Bureau” for “the Commission” wherever appearing.
 
-    2003—Subsec. (a)(1). [Pub. L. 108–159, § 115][/us/pl/108/159/s115], substituted “except that—
+    2003—Subsec. (a)(1). [Pub. L. 108–159][/us/pl/108/159], § 115, substituted “except that—
 
     “(A) if the consumer to whom the file relates requests that the first 5 digits of the social security number (or similar identification number) of the consumer not be included in the disclosure and the consumer reporting agency has received appropriate proof of the identity of the requester, the consumer reporting agency shall so truncate such number in such disclosure; and
 
@@ -431,33 +431,33 @@
 
     for “except that nothing”.
 
-    Subsec. (a)(2), (3)(C). [Pub. L. 108–159, § 811(d)][/us/pl/108/159/s811/d], realigned margins.
+    Subsec. (a)(2), (3)(C). [Pub. L. 108–159][/us/pl/108/159], § 811(d), realigned margins.
 
-    Subsec. (a)(6). [Pub. L. 108–159, § 212(a)][/us/pl/108/159/s212/a], added par. (6).
+    Subsec. (a)(6). [Pub. L. 108–159][/us/pl/108/159], § 212(a), added par. (6).
 
-    Subsec. (c). [Pub. L. 108–159, § 211(c)][/us/pl/108/159/s211/c], amended subsec. (c) generally. Prior to amendment, subsec. (c) related to the summary of rights required to be included with disclosure to consumers by consumer reporting agencies.
+    Subsec. (c). [Pub. L. 108–159][/us/pl/108/159], § 211(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to the summary of rights required to be included with disclosure to consumers by consumer reporting agencies.
 
-    Subsecs. (d), (e). [Pub. L. 108–159, § 151(a)(1)][/us/pl/108/159/s151/a/1], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 108–159][/us/pl/108/159], § 151(a)(1), added subsecs. (d) and (e).
 
-    Subsec. (f). [Pub. L. 108–159, § 212(b)][/us/pl/108/159/s212/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 108–159][/us/pl/108/159], § 212(b), added subsec. (f).
 
-    Subsec. (g). [Pub. L. 108–159, § 212(c)][/us/pl/108/159/s212/c], added subsec. (g).
+    Subsec. (g). [Pub. L. 108–159][/us/pl/108/159], § 212(c), added subsec. (g).
 
     1998—Subsec. (a)(3)(C). [Pub. L. 105–347][/us/pl/105/347] added subpar. (C).
 
-    1996—Subsec. (a). [Pub. L. 104–208, § 2408(e)(5)(A)][/us/pl/104/208/s2408/e/5/A], in introductory provisions substituted “, and subject to [section 1681h(a)(1) of this title][/us/usc/t15/s1681h/a/1]” for “and proper identification of any consumer”.
+    1996—Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 2408(e)(5)(A), in introductory provisions substituted “, and subject to [section 1681h(a)(1) of this title][/us/usc/t15/s1681h/a/1]” for “and proper identification of any consumer”.
 
-    Subsec. (a)(1). [Pub. L. 104–208, § 2408(a)][/us/pl/104/208/s2408/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The nature and substance of all information (except medical information) in its files on the consumer at the time of the request.”
+    Subsec. (a)(1). [Pub. L. 104–208][/us/pl/104/208], § 2408(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The nature and substance of all information (except medical information) in its files on the consumer at the time of the request.”
 
-    Subsec. (a)(3). [Pub. L. 104–208, § 2408(b)][/us/pl/104/208/s2408/b], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The recipients of any consumer report on the consumer which it has furnished—
+    Subsec. (a)(3). [Pub. L. 104–208][/us/pl/104/208], § 2408(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The recipients of any consumer report on the consumer which it has furnished—
 
     “(A) for employment purposes within the two-year period preceding the request, and
 
     “(B) for any other purpose within the six-month period preceding the request.”
 
-    Subsec. (a)(5). [Pub. L. 104–208, § 2408(c)][/us/pl/104/208/s2408/c], added par. (5).
+    Subsec. (a)(5). [Pub. L. 104–208][/us/pl/104/208], § 2408(c), added par. (5).
 
-    Subsec. (c). [Pub. L. 104–208, § 2408(d)(1)][/us/pl/104/208/s2408/d/1], added subsec. (c).
+    Subsec. (c). [Pub. L. 104–208][/us/pl/104/208], § 2408(d)(1), added subsec. (c).
 
     1994—Subsec. (a)(4). [Pub. L. 103–325][/us/pl/103/325] added par. (4).
 
@@ -479,7 +479,7 @@
 
  __Simplified Disclosure To Maximize Comprehensibility and Standardization__ 
 
-[Pub. L. 104–208, div. A, title II, § 2408(e)(2)][/us/pl/104/208/s2408/e/2], (3), Sept. 30, 1996, [110 Stat. 3009–438][/us/stat/110/3009-438], 3009–439, provided that:
+[Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2408(e)(2), (3), Sept. 30, 1996, [110 Stat. 3009–438][/us/stat/110/3009-438], 3009–439, provided that:
 
 >     “(2)  __Simplified disclosure__  __.—__ 
 
@@ -510,18 +510,18 @@
 [/us/usc/t15/s1681i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681i
 [/us/usc/t12/s4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4502
 [/us/usc/t12/s4502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4502
-[/us/pl/90/321/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs609
-[/us/pl/91/508/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs601
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/91/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtVI
 [/us/stat/84/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1131
-[/us/pl/103/325/s339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs339
+[/us/pl/103/325/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtIII
 [/us/stat/108/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2237
-[/us/pl/104/208/s2408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2408%2Fa
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-436
-[/us/pl/105/347/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347%2Fs4%2Fa
+[/us/pl/105/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347
 [/us/stat/112/3210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3210
-[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtI
 [/us/stat/117/1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1961
-[/us/pl/111/203/s1088/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FC
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2087
 [/us/usc/t15/s1681b/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681b%2Fb%2F4
 [/us/pl/90/321/s504/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs504%2Fd
@@ -531,27 +531,27 @@
 [/us/pl/108/159/s211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs211%2Fc
 [/us/usc/t15/s1681a/w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fw
 [/us/usc/t15/s1681a/x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fx
-[/us/pl/111/203/s1088/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2086
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/stat/113/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1338
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/108/159/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs115
-[/us/pl/108/159/s811/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs811%2Fd
-[/us/pl/108/159/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs212%2Fa
-[/us/pl/108/159/s211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs211%2Fc
-[/us/pl/108/159/s151/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs151%2Fa%2F1
-[/us/pl/108/159/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs212%2Fb
-[/us/pl/108/159/s212/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs212%2Fc
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
 [/us/pl/105/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347
-[/us/pl/104/208/s2408/e/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2408%2Fe%2F5%2FA
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t15/s1681h/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681h%2Fa%2F1
-[/us/pl/104/208/s2408/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2408%2Fa
-[/us/pl/104/208/s2408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2408%2Fb
-[/us/pl/104/208/s2408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2408%2Fc
-[/us/pl/104/208/s2408/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2408%2Fd%2F1
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
@@ -566,7 +566,7 @@
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2420
 [/us/usc/t15/s1681a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a
-[/us/pl/104/208/s2408/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2408%2Fe%2F2
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-438
 [/us/usc/t15/s1681g/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681g%2Fa
 

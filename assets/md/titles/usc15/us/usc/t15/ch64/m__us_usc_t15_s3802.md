@@ -29,7 +29,7 @@
 
     (f) the terms “facilities for the transmission and storage of methane”, “methane transmission, storage and dispensing facilities”, and any variant thereof means such facilities which are (1) directly necessary for the conduct of a demonstration, (2) for the exclusive use of a demonstration and (3) reasonably incidental to a demonstration.
 
-([Pub. L. 96–512, § 3][/us/pl/96/512/s3], Dec. 12, 1980, [94 Stat. 2828][/us/stat/94/2828].)
+([Pub. L. 96–512][/us/pl/96/512], § 3, Dec. 12, 1980, [94 Stat. 2828][/us/stat/94/2828].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t15/s3301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3301%2F1
-[/us/pl/96/512/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F512%2Fs3
+[/us/pl/96/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F512
 [/us/stat/94/2828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2828
 
 

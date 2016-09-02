@@ -207,7 +207,7 @@
 
             (B) to any advisers employed by the audit committee under paragraph (5).
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 10A, as added [Pub. L. 104–67, title III, § 301(a)][/us/pl/104/67/s301/a], Dec. 22, 1995, [109 Stat. 762][/us/stat/109/762]; amended [Pub. L. 107–204, title II][/us/pl/107/204], §§ 201(a), 202–204, 205(b), (d), 206, title III, § 301, July 30, 2002, [116 Stat. 771–775][/us/stat/116/771-775]; [Pub. L. 111–203, title IX, § 985(b)(3)][/us/pl/111/203/s985/b/3], July 21, 2010, [124 Stat. 1933][/us/stat/124/1933].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 10A, as added [Pub. L. 104–67, title III][/us/pl/104/67/tIII], § 301(a), Dec. 22, 1995, [109 Stat. 762][/us/stat/109/762]; amended [Pub. L. 107–204, title II][/us/pl/107/204/tII], §§ 201(a), 202–204, 205(b), (d), 206, title III, § 301, July 30, 2002, [116 Stat. 771–775][/us/stat/116/771-775]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 985(b)(3), July 21, 2010, [124 Stat. 1933][/us/stat/124/1933].)
 
  __References in Text__ 
 
@@ -219,35 +219,35 @@
 
     2010—Subsec. (i)(1)(B). [Pub. L. 111–203][/us/pl/111/203] substituted “minimis” for “minimus” in heading and “the non-audit” for “the nonaudit” in cl. (i).
 
-    2002—Subsec. (a). [Pub. L. 107–204, § 205(b)(1)][/us/pl/107/204/s205/b/1], substituted “a registered public accounting firm” for “an independent public accountant” in introductory provisions.
+    2002—Subsec. (a). [Pub. L. 107–204][/us/pl/107/204], § 205(b)(1), substituted “a registered public accounting firm” for “an independent public accountant” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 107–204, § 205(b)(2)][/us/pl/107/204/s205/b/2], (4)(A), in introductory provisions, substituted “the registered public accounting firm” for “the independent public accountant” and “the firm” for “the accountant”.
+    Subsec. (b)(1). [Pub. L. 107–204][/us/pl/107/204], § 205(b)(2), (4)(A), in introductory provisions, substituted “the registered public accounting firm” for “the independent public accountant” and “the firm” for “the accountant”.
 
-    Subsec. (b)(1)(B). [Pub. L. 107–204, § 205(b)(4)(B)][/us/pl/107/204/s205/b/4/B], substituted “such firm” for “such accountant”.
+    Subsec. (b)(1)(B). [Pub. L. 107–204][/us/pl/107/204], § 205(b)(4)(B), substituted “such firm” for “such accountant”.
 
-    Subsec. (b)(2). [Pub. L. 107–204, § 205(b)(2)][/us/pl/107/204/s205/b/2], (4)(A), (B), in introductory provisions, substituted “the firm” for “the accountant”, “such firm” for “such accountant”, and “the registered public accounting firm” for “the independent public accountant” and, in concluding provisions, substituted “the registered public accounting firm” for “the independent public accountant”.
+    Subsec. (b)(2). [Pub. L. 107–204][/us/pl/107/204], § 205(b)(2), (4)(A), (B), in introductory provisions, substituted “the firm” for “the accountant”, “such firm” for “such accountant”, and “the registered public accounting firm” for “the independent public accountant” and, in concluding provisions, substituted “the registered public accounting firm” for “the independent public accountant”.
 
-    Subsec. (b)(3). [Pub. L. 107–204, § 205(b)(2)][/us/pl/107/204/s205/b/2], substituted “the registered public accounting firm” for “the independent public accountant” wherever appearing in introductory provisions.
+    Subsec. (b)(3). [Pub. L. 107–204][/us/pl/107/204], § 205(b)(2), substituted “the registered public accounting firm” for “the independent public accountant” wherever appearing in introductory provisions.
 
-    Subsec. (b)(4). [Pub. L. 107–204, § 205(b)(1)][/us/pl/107/204/s205/b/1], (4)(A), (C), substituted “a registered public accounting firm” for “an independent public accountant”, “the firm” for “the accountant”, and “the report of the firm” for “the accountant’s report”.
+    Subsec. (b)(4). [Pub. L. 107–204][/us/pl/107/204], § 205(b)(1), (4)(A), (C), substituted “a registered public accounting firm” for “an independent public accountant”, “the firm” for “the accountant”, and “the report of the firm” for “the accountant’s report”.
 
-    Subsec. (c). [Pub. L. 107–204, § 205(b)(3)][/us/pl/107/204/s205/b/3], substituted “No registered public accounting firm” for “No independent public accountant”.
+    Subsec. (c). [Pub. L. 107–204][/us/pl/107/204], § 205(b)(3), substituted “No registered public accounting firm” for “No independent public accountant”.
 
-    Subsec. (d). [Pub. L. 107–204, § 205(b)(1)][/us/pl/107/204/s205/b/1], (2), substituted “a registered public accounting firm” for “an independent public accountant” and “the registered public accounting firm” for “the independent public accountant”.
+    Subsec. (d). [Pub. L. 107–204][/us/pl/107/204], § 205(b)(1), (2), substituted “a registered public accounting firm” for “an independent public accountant” and “the registered public accounting firm” for “the independent public accountant”.
 
-    Subsec. (f). [Pub. L. 107–204, § 205(d)][/us/pl/107/204/s205/d], substituted “Definitions” for “Definition” in heading and inserted at end “As used in this section, the term ‘issuer’ means an issuer (as defined in [section 78c of this title][/us/usc/t15/s78c]), the securities of which are registered under section 78l of this title, or that is required to file reports pursuant to section 78o(d) of this title, or that files or has filed a registration statement that has not yet become effective under the Securities Act of 1933 ([15 U.S.C. 77a][/us/usc/t15/s77a] et seq.), and that it has not withdrawn.”
+    Subsec. (f). [Pub. L. 107–204][/us/pl/107/204], § 205(d), substituted “Definitions” for “Definition” in heading and inserted at end “As used in this section, the term ‘issuer’ means an issuer (as defined in [section 78c of this title][/us/usc/t15/s78c]), the securities of which are registered under section 78l of this title, or that is required to file reports pursuant to section 78o(d) of this title, or that files or has filed a registration statement that has not yet become effective under the Securities Act of 1933 ([15 U.S.C. 77a][/us/usc/t15/s77a] et seq.), and that it has not withdrawn.”
 
-    Subsecs. (g), (h). [Pub. L. 107–204, § 201(a)][/us/pl/107/204/s201/a], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 107–204][/us/pl/107/204], § 201(a), added subsecs. (g) and (h).
 
-    Subsec. (i). [Pub. L. 107–204, § 202][/us/pl/107/204/s202], added subsec. (i).
+    Subsec. (i). [Pub. L. 107–204][/us/pl/107/204], § 202, added subsec. (i).
 
-    Subsec. (j). [Pub. L. 107–204, § 203][/us/pl/107/204/s203], added subsec. (j).
+    Subsec. (j). [Pub. L. 107–204][/us/pl/107/204], § 203, added subsec. (j).
 
-    Subsec. (k). [Pub. L. 107–204, § 204][/us/pl/107/204/s204], added subsec. (k).
+    Subsec. (k). [Pub. L. 107–204][/us/pl/107/204], § 204, added subsec. (k).
 
-    Subsec. (l). [Pub. L. 107–204, § 206][/us/pl/107/204/s206], added subsec. (l).
+    Subsec. (l). [Pub. L. 107–204][/us/pl/107/204], § 206, added subsec. (l).
 
-    Subsec. (m). [Pub. L. 107–204, § 301][/us/pl/107/204/s301], added subsec. (m).
+    Subsec. (m). [Pub. L. 107–204][/us/pl/107/204], § 301, added subsec. (m).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -255,7 +255,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–67, title III, § 301(b)][/us/pl/104/67/s301/b], Dec. 22, 1995, [109 Stat. 764][/us/stat/109/764], provided that: 
+[Pub. L. 104–67, title III][/us/pl/104/67/tIII], § 301(b), Dec. 22, 1995, [109 Stat. 764][/us/stat/109/764], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall apply to each annual report—
 
@@ -265,7 +265,7 @@
 
  __Construction__ 
 
-[Pub. L. 104–67, title II, § 203][/us/pl/104/67/s203], Dec. 22, 1995, [109 Stat. 762][/us/stat/109/762], provided that: 
+[Pub. L. 104–67, title II][/us/pl/104/67/tII], § 203, Dec. 22, 1995, [109 Stat. 762][/us/stat/109/762], provided that: 
 
 > “Nothing in this Act \[see Short Title of 1995 Amendment note set out under [section 78a of this title][/us/usc/t15/s78a]\] or the amendments made by this Act shall be deemed to create or ratify any implied private right of action, or to prevent the Commission, by rule or regulation, from restricting or otherwise regulating private actions under the Securities Exchange Act of 1934 \[[15 U.S.C. 78a][/us/usc/t15/s78a] et seq.\].”
 
@@ -284,40 +284,40 @@
 [/us/usc/t15/s7211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7211
 [/us/usc/t15/s78m/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m%2Fa
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/104/67/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2Fs301%2Fa
+[/us/pl/104/67/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2FtIII
 [/us/stat/109/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F762
-[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/107/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtII
 [/us/stat/116/771-775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F771-775
-[/us/pl/111/203/s985/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs985%2Fb%2F3
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1933
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/107/204/s205/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs205%2Fb%2F1
-[/us/pl/107/204/s205/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs205%2Fb%2F2
-[/us/pl/107/204/s205/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs205%2Fb%2F4%2FB
-[/us/pl/107/204/s205/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs205%2Fb%2F2
-[/us/pl/107/204/s205/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs205%2Fb%2F2
-[/us/pl/107/204/s205/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs205%2Fb%2F1
-[/us/pl/107/204/s205/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs205%2Fb%2F3
-[/us/pl/107/204/s205/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs205%2Fb%2F1
-[/us/pl/107/204/s205/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs205%2Fd
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
-[/us/pl/107/204/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs201%2Fa
-[/us/pl/107/204/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs202
-[/us/pl/107/204/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs203
-[/us/pl/107/204/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs204
-[/us/pl/107/204/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs206
-[/us/pl/107/204/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs301
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/104/67/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2Fs301%2Fb
+[/us/pl/104/67/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2FtIII
 [/us/stat/109/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F764
-[/us/pl/104/67/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2Fs203
+[/us/pl/104/67/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2FtII
 [/us/stat/109/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F762
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a

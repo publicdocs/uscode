@@ -39,7 +39,7 @@
 
     (k) The introduction or delivery for introduction into interstate commerce of any lead solder which has a lead content in excess of 0.2 percent which does not prominently display a warning label stating the lead content of the solder and warning that the use of such solder in the making of joints or fittings in any private or public potable water supply system is prohibited.
 
-([Pub. L. 86–613, § 4][/us/pl/86/613/s4], July 12, 1960, [74 Stat. 375][/us/stat/74/375]; [Pub. L. 89–756][/us/pl/89/756], §§ 2(f), 3(b), Nov. 3, 1966, [80 Stat. 1304][/us/stat/80/1304], 1305; [Pub. L. 95–631, § 7(a)][/us/pl/95/631/s7/a], Nov. 10, 1978, [92 Stat. 3745][/us/stat/92/3745]; [Pub. L. 97–35, title XII, § 1211(f)(2)][/us/pl/97/35/s1211/f/2], Aug. 13, 1981, [95 Stat. 723][/us/stat/95/723]; [Pub. L. 99–339, title I, § 109(d)(2)][/us/pl/99/339/s109/d/2], June 19, 1986, [100 Stat. 653][/us/stat/100/653]; [Pub. L. 110–314, title II, § 204(b)(4)(B)][/us/pl/110/314/s204/b/4/B], (C), (H), Aug. 14, 2008, [122 Stat. 3041][/us/stat/122/3041], 3042.)
+([Pub. L. 86–613][/us/pl/86/613], § 4, July 12, 1960, [74 Stat. 375][/us/stat/74/375]; [Pub. L. 89–756][/us/pl/89/756], §§ 2(f), 3(b), Nov. 3, 1966, [80 Stat. 1304][/us/stat/80/1304], 1305; [Pub. L. 95–631][/us/pl/95/631], § 7(a), Nov. 10, 1978, [92 Stat. 3745][/us/stat/92/3745]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1211(f)(2), Aug. 13, 1981, [95 Stat. 723][/us/stat/95/723]; [Pub. L. 99–339, title I][/us/pl/99/339/tI], § 109(d)(2), June 19, 1986, [100 Stat. 653][/us/stat/100/653]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 204(b)(4)(B), (C), (H), Aug. 14, 2008, [122 Stat. 3041][/us/stat/122/3041], 3042.)
 
  __References in Text__ 
 
@@ -47,9 +47,9 @@
 
  __Amendments__ 
 
-    2008—Subsec. (h). [Pub. L. 110–314, § 204(b)(4)(B)][/us/pl/110/314/s204/b/4/B], (C), substituted “Commission or officers or employees of the Commission” for “Secretary or officers or employees of the Department”.
+    2008—Subsec. (h). [Pub. L. 110–314][/us/pl/110/314], § 204(b)(4)(B), (C), substituted “Commission or officers or employees of the Commission” for “Secretary or officers or employees of the Department”.
 
-    Subsec. (i). [Pub. L. 110–314, § 204(b)(4)(H)][/us/pl/110/314/s204/b/4/H], substituted “Commission” for “Consumer Product Safety Commission”.
+    Subsec. (i). [Pub. L. 110–314][/us/pl/110/314], § 204(b)(4)(H), substituted “Commission” for “Consumer Product Safety Commission”.
 
     1986—Subsec. (k). [Pub. L. 99–339][/us/pl/99/339] added subsec. (k).
 
@@ -63,7 +63,7 @@
 
     Subsec. (c). [Pub. L. 89–756][/us/pl/89/756], §§ 2(f)(1), 3(b), substituted “misbranded hazardous substance or banned hazardous substance” for “misbranded package of a hazardous substance”.
 
-    Subsec. (f). [Pub. L. 89–756, § 2(f)(2)][/us/pl/89/756/s2/f/2], substituted “being a misbranded hazardous substance” for “being in a misbranded package”.
+    Subsec. (f). [Pub. L. 89–756][/us/pl/89/756], § 2(f)(2), substituted “being a misbranded hazardous substance” for “being in a misbranded package”.
 
     Subsec. (g). [Pub. L. 89–756][/us/pl/89/756], §§ 2(f)(1), 3(b), substituted “misbranded hazardous substance or banned hazardous substance” for “misbranded package of a hazardous substance”.
 
@@ -89,30 +89,30 @@
 [/us/usc/t15/s1270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1270
 [/us/usc/t15/s1273/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1273%2Fd
 [/us/usc/t15/s1274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1274
-[/us/pl/86/613/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs4
+[/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/stat/74/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F375
 [/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
 [/us/stat/80/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1304
-[/us/pl/95/631/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631%2Fs7%2Fa
+[/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
 [/us/stat/92/3745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3745
-[/us/pl/97/35/s1211/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1211%2Ff%2F2
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F723
-[/us/pl/99/339/s109/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs109%2Fd%2F2
+[/us/pl/99/339/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2FtI
 [/us/stat/100/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F653
-[/us/pl/110/314/s204/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FB
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3041
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/110/314/s204/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FB
-[/us/pl/110/314/s204/b/4/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FH
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
 [/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
 [/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
 [/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
-[/us/pl/89/756/s2/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756%2Fs2%2Ff%2F2
+[/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
 [/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
 [/us/pl/99/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339
 [/us/pl/99/339/s109/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F339%2Fs109%2Fd%2F3

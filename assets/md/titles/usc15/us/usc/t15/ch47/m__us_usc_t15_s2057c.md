@@ -131,7 +131,7 @@
 
                 For purposes of this section a toy can be placed in a child’s mouth if any part of the toy can actually be brought to the mouth and kept in the mouth by a child so that it can be sucked and chewed. If the children’s product can only be licked, it is not regarded as able to be placed in the mouth. If a toy or part of a toy in one dimension is smaller than 5 centimeters, it can be placed in the mouth.
 
-([Pub. L. 110–314, title I, § 108][/us/pl/110/314/s108], Aug. 14, 2008, [122 Stat. 3036][/us/stat/122/3036]; [Pub. L. 112–28, § 5(a)][/us/pl/112/28/s5/a], Aug. 12, 2011, [125 Stat. 280][/us/stat/125/280].)
+([Pub. L. 110–314, title I][/us/pl/110/314/tI], § 108, Aug. 14, 2008, [122 Stat. 3036][/us/stat/122/3036]; [Pub. L. 112–28][/us/pl/112/28], § 5(a), Aug. 12, 2011, [125 Stat. 280][/us/stat/125/280].)
 
  __References in Text__ 
 
@@ -166,9 +166,9 @@
 [/us/usc/t15/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2051
 [/us/usc/t15/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2051
 [/us/usc/t15/s2052/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2052%2Fa%2F1
-[/us/pl/110/314/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs108
+[/us/pl/110/314/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtI
 [/us/stat/122/3036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3036
-[/us/pl/112/28/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs5%2Fa
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
 [/us/stat/125/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F280
 [/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
 [/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573

@@ -17,7 +17,7 @@
 
     In the absence of specific agreement to the contrary, additional facilities, including equipment, purchased pursuant to the performance of services authorized by [section 273 of this title][/us/usc/t15/s273] shall become the property of the Department of Commerce.
 
-([Mar. 3, 1901, ch. 872, § 8][/us/act/1901-03-03/ch872/s8], [31 Stat. 1450][/us/stat/31/1450]; [June 30, 1932, ch. 314][/us/act/1932-06-30/ch314], pt. II, title III, § 312, [47 Stat. 410][/us/stat/47/410]; [Aug. 3, 1956, ch. 906, § 1][/us/act/1956-08-03/ch906/s1], [70 Stat. 959][/us/stat/70/959].)
+([Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 8, [31 Stat. 1450][/us/stat/31/1450]; [June 30, 1932, ch. 314][/us/act/1932-06-30/ch314], pt. II, title III, § 312, [47 Stat. 410][/us/stat/47/410]; [Aug. 3, 1956, ch. 906][/us/act/1956-08-03/ch906], § 1, [70 Stat. 959][/us/stat/70/959].)
 
  __Amendments__ 
 
@@ -37,11 +37,11 @@
 ----------
 
 [/us/usc/t15/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs273
-[/us/act/1901-03-03/ch872/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs8
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
 [/us/stat/31/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1450
 [/us/act/1932-06-30/ch314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-06-30%2Fch314
 [/us/stat/47/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F410
-[/us/act/1956-08-03/ch906/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch906%2Fs1
+[/us/act/1956-08-03/ch906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch906
 [/us/stat/70/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F959
 [/us/usc/t15/s278b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278b
 [/us/usc/t15/s275a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs275a

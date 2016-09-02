@@ -35,11 +35,11 @@
 
         It is the purpose of this subchapter to eliminate abusive debt collection practices by debt collectors, to insure that those debt collectors who refrain from using abusive debt collection practices are not competitively disadvantaged, and to promote consistent State action to protect consumers against debt collection abuses.
 
-([Pub. L. 90–321, title VIII, § 802][/us/pl/90/321/s802], as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 874][/us/stat/91/874].)
+([Pub. L. 90–321, title VIII][/us/pl/90/321/tVIII], § 802, as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 874][/us/stat/91/874].)
 
  __Effective Date__ 
 
-[Pub. L. 90–321, title VIII, § 819][/us/pl/90/321/s819], formerly § 818, as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 883][/us/stat/91/883], § 818; renumbered § 819, [Pub. L. 109–351, title VIII, § 801(a)(1)][/us/pl/109/351/s801/a/1], Oct. 13, 2006, [120 Stat. 2004][/us/stat/120/2004], provided that: 
+[Pub. L. 90–321, title VIII][/us/pl/90/321/tVIII], § 819, formerly § 818, as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 883][/us/stat/91/883], § 818; renumbered § 819, [Pub. L. 109–351, title VIII][/us/pl/109/351/tVIII], § 801(a)(1), Oct. 13, 2006, [120 Stat. 2004][/us/stat/120/2004], provided that: 
 
 > “This title \[enacting this subchapter\] takes effect upon the expiration of six months after the date of its enactment \[Sept. 20, 1977\], but section 809 \[[section 1692g of this title][/us/usc/t15/s1692g]\] shall apply only with respect to debts for which the initial attempt to collect occurs after such effective date.”
 
@@ -54,13 +54,13 @@
 ----------
 ----------
 
-[/us/pl/90/321/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs802
+[/us/pl/90/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVIII
 [/us/pl/95/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F109
 [/us/stat/91/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F874
-[/us/pl/90/321/s819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs819
+[/us/pl/90/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVIII
 [/us/pl/95/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F109
 [/us/stat/91/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F883
-[/us/pl/109/351/s801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs801%2Fa%2F1
+[/us/pl/109/351/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVIII
 [/us/stat/120/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2004
 [/us/usc/t15/s1692g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1692g
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601

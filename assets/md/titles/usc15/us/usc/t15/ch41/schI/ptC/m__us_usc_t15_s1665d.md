@@ -43,11 +43,11 @@
 
         The Bureau, in consultation with the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Director of the Office of Thrift Supervision, and the National Credit Union Administration Board, may issue rules to provide an amount for any penalty fee or charge described under subsection (a) that is presumed to be reasonable and proportional to the omission or violation to which the fee or charge relates.
 
-([Pub. L. 90–321, title I, § 149][/us/pl/90/321/s149], as added [Pub. L. 111–24, title I, § 102(b)(1)][/us/pl/111/24/s102/b/1], May 22, 2009, [123 Stat. 1740][/us/stat/123/1740]; amended [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 149, as added [Pub. L. 111–24, title I][/us/pl/111/24/tI], § 102(b)(1), May 22, 2009, [123 Stat. 1740][/us/stat/123/1740]; amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 
  __Amendments__ 
 
-    2010—Subsecs. (b) to (e). [Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], which directed amendment of this section by substituting “Bureau” for “Board” wherever appearing, was executed by making the substitution for “Board” the first time appearing in subsecs. (b) and (e), and wherever appearing in subsecs. (c) and (d), to reflect the probable intent of Congress.
+    2010—Subsecs. (b) to (e). [Pub. L. 111–203][/us/pl/111/203], § 1100A(2), which directed amendment of this section by substituting “Bureau” for “Board” wherever appearing, was executed by making the substitution for “Board” the first time appearing in subsecs. (b) and (e), and wherever appearing in subsecs. (c) and (d), to reflect the probable intent of Congress.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -64,12 +64,12 @@
 ----------
 ----------
 
-[/us/pl/90/321/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs149
-[/us/pl/111/24/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs102%2Fb%2F1
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/111/24/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtI
 [/us/stat/123/1740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1740
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

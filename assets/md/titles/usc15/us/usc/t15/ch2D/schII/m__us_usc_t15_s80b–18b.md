@@ -17,7 +17,7 @@
 
     An investment adviser registered under this subchapter shall take such steps to safeguard client assets over which such adviser has custody, including, without limitation, verification of such assets by an independent public accountant, as the Commission may, by rule, prescribe.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 223, as added [Pub. L. 111–203, title IV, § 411][/us/pl/111/203/s411], July 21, 2010, [124 Stat. 1577][/us/stat/124/1577].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 223, as added [Pub. L. 111–203, title IV][/us/pl/111/203/tIV], § 411, July 21, 2010, [124 Stat. 1577][/us/stat/124/1577].)
 
  __Effective Date__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
-[/us/pl/111/203/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs411
+[/us/pl/111/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIV
 [/us/stat/124/1577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1577
 [/us/pl/111/203/s419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs419
 [/us/usc/t15/s80b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%932

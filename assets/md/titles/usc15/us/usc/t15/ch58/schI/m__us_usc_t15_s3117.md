@@ -37,7 +37,7 @@
 
         The Economic Report referred to in subsection (b) shall review and assess Federal policies and programs which directly, or through grants-in-aid to State and local governments, or indirectly through other means, affect the adequacy, composition and effectiveness of public investments, as a means of achieving the goals of this chapter and the Employment Act of 1946 \[[15 U.S.C. 1021][/us/usc/t15/s1021] et seq.\]. The President shall recommend, as appropriate, new programs and policies or modifications to improve existing Federal programs affecting public investment.
 
-([Pub. L. 95–523, title II, § 207][/us/pl/95/523/s207], Oct. 27, 1978, [92 Stat. 1903][/us/stat/92/1903].)
+([Pub. L. 95–523, title II][/us/pl/95/523/tII], § 207, Oct. 27, 1978, [92 Stat. 1903][/us/stat/92/1903].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 [/us/usc/t15/s1021/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1021%2Fi
 [/us/usc/t15/s1021/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1021%2Fi
 [/us/usc/t15/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1021
-[/us/pl/95/523/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs207
+[/us/pl/95/523/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2FtII
 [/us/stat/92/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1903
 [/us/usc/t15/s1021/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1021%2Fi
 [/us/pl/95/523/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs102

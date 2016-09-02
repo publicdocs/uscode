@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    “Chapter 15 of title 44” substituted in text for “the Federal Register Act” on authority of [Pub. L. 90–620, § 2(b)][/us/pl/90/620/s2/b], Oct. 22, 1968, [82 Stat. 1305][/us/stat/82/1305], the first section of which enacted Title 44, Public Printing and Documents.
+    “Chapter 15 of title 44” substituted in text for “the Federal Register Act” on authority of [Pub. L. 90–620][/us/pl/90/620], § 2(b), Oct. 22, 1968, [82 Stat. 1305][/us/stat/82/1305], the first section of which enacted Title 44, Public Printing and Documents.
 
  __Transfer of Functions__ 
 
@@ -36,7 +36,7 @@
 
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F842
-[/us/pl/90/620/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620%2Fs2%2Fb
+[/us/pl/90/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F620
 [/us/stat/82/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1305
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t15/s78d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d

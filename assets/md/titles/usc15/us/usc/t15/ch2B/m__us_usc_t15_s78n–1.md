@@ -79,7 +79,7 @@
 
                 (ii) in the case of any other issuer, the 1-year period beginning on the date the issuer is no longer an emerging growth company.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 14A, as added [Pub. L. 111–203, title IX, § 951][/us/pl/111/203/s951], July 21, 2010, [124 Stat. 1899][/us/stat/124/1899]; amended [Pub. L. 112–106, title I, § 102(a)(1)][/us/pl/112/106/s102/a/1], Apr. 5, 2012, [126 Stat. 308][/us/stat/126/308].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 14A, as added [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 951, July 21, 2010, [124 Stat. 1899][/us/stat/124/1899]; amended [Pub. L. 112–106, title I][/us/pl/112/106/tI], § 102(a)(1), Apr. 5, 2012, [126 Stat. 308][/us/stat/126/308].)
 
  __References in Text__ 
 
@@ -103,9 +103,9 @@
 [/us/usc/t15/s78m/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m%2Ff
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/111/203/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs951
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1899
-[/us/pl/112/106/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs102%2Fa%2F1
+[/us/pl/112/106/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtI
 [/us/stat/126/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F308
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74

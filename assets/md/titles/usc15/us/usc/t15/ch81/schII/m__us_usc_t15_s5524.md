@@ -55,7 +55,7 @@
 
         (2) to the National Oceanic and Atmospheric Administration for the purposes of the Program $2,500,000 for fiscal year 1992; $3,000,000 for fiscal year 1993; $3,500,000 for fiscal year 1994; $4,000,000 for fiscal year 1995; and $4,500,000 for fiscal year 1996.
 
-([Pub. L. 102–194, title II, § 204][/us/pl/102/194/s204], Dec. 9, 1991, [105 Stat. 1601][/us/stat/105/1601].)
+([Pub. L. 102–194, title II][/us/pl/102/194/tII], § 204, Dec. 9, 1991, [105 Stat. 1601][/us/stat/105/1601].)
 
  __References in Text__ 
 
@@ -70,7 +70,7 @@
 
 [/us/pl/100/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F235
 [/us/stat/101/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1724
-[/us/pl/102/194/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2Fs204
+[/us/pl/102/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2FtII
 [/us/stat/105/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1601
 [/us/pl/100/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F235
 [/us/stat/101/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1724

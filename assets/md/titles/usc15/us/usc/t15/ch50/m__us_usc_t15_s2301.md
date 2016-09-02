@@ -71,7 +71,7 @@
 
     (15) The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Canal Zone, or American Samoa. The term “State law” includes a law of the United States applicable only to the District of Columbia or only to a territory or possession of the United States; and the term “Federal law” excludes any State law.
 
-([Pub. L. 93–637, title I, § 101][/us/pl/93/637/s101], Jan. 4, 1975, [88 Stat. 2183][/us/stat/88/2183].)
+([Pub. L. 93–637, title I][/us/pl/93/637/tI], § 101, Jan. 4, 1975, [88 Stat. 2183][/us/stat/88/2183].)
 
  __References in Text__ 
 
@@ -79,13 +79,13 @@
 
  __Short Title of 2015 Amendment__ 
 
-[Pub. L. 114–51, § 1][/us/pl/114/51/s1], Sept. 24, 2015, [129 Stat. 494][/us/stat/129/494], provided that: 
+[Pub. L. 114–51][/us/pl/114/51], § 1, Sept. 24, 2015, [129 Stat. 494][/us/stat/129/494], provided that: 
 
 > “This Act \[amending [section 2302 of this title][/us/usc/t15/s2302] and enacting provisions set out as notes under [section 2302 of this title][/us/usc/t15/s2302]\] may be cited as the ‘E-Warranty Act of 2015’.”
 
  __Short Title__ 
 
-[Pub. L. 93–637, § 1][/us/pl/93/637/s1], Jan. 4, 1975, [88 Stat. 2183][/us/stat/88/2183], provided: 
+[Pub. L. 93–637][/us/pl/93/637], § 1, Jan. 4, 1975, [88 Stat. 2183][/us/stat/88/2183], provided: 
 
 > “That this act \[enacting this chapter and sections 57a to 57c of this title, amending sections 45, 46, 49, 50, 52, 56, and 58 of this title, and enacting provisions set out as notes under sections 45, 56, 57a, and 57b of this title\] may be cited as the ‘Magnuson-Moss Warranty—Federal Trade Commission Improvement Act’.”
 
@@ -96,14 +96,14 @@
 ----------
 ----------
 
-[/us/pl/93/637/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs101
+[/us/pl/93/637/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2FtI
 [/us/stat/88/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2183
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
-[/us/pl/114/51/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F51%2Fs1
+[/us/pl/114/51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F51
 [/us/stat/129/494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F494
 [/us/usc/t15/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2302
 [/us/usc/t15/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2302
-[/us/pl/93/637/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs1
+[/us/pl/93/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637
 [/us/stat/88/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2183
 
 

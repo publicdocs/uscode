@@ -27,7 +27,7 @@
 
         (2) conduct occurring outside the United States that has a foreseeable substantial effect within the United States.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 214, [54 Stat. 856][/us/stat/54/856]; [Pub. L. 100–181, title VII, § 707][/us/pl/100/181/s707], Dec. 4, 1987, [101 Stat. 1264][/us/stat/101/1264]; [Pub. L. 101–429, title IV, § 403][/us/pl/101/429/s403], Oct. 15, 1990, [104 Stat. 951][/us/stat/104/951]; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 929E(d), 929P(b)(3), July 21, 2010, [124 Stat. 1853][/us/stat/124/1853], 1865.)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 214, [54 Stat. 856][/us/stat/54/856]; [Pub. L. 100–181, title VII][/us/pl/100/181/tVII], § 707, Dec. 4, 1987, [101 Stat. 1264][/us/stat/101/1264]; [Pub. L. 101–429, title IV][/us/pl/101/429/tIV], § 403, Oct. 15, 1990, [104 Stat. 951][/us/stat/104/951]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], §§ 929E(d), 929P(b)(3), July 21, 2010, [124 Stat. 1853][/us/stat/124/1853], 1865.)
 
  __References in Text__ 
 
@@ -35,9 +35,9 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 929P(b)(3)][/us/pl/111/203/s929P/b/3], designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 929P(b)(3), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-    [Pub. L. 111–203, § 929E(d)][/us/pl/111/203/s929E/d], inserted “In any action or proceeding instituted by the Commission under this subchapter in a United States district court for any judicial district, a subpoena issued to compel the attendance of a witness or the production of documents or tangible things (or both) at a hearing or trial may be served at any place within the United States. Rule 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure shall not apply to a subpoena issued under the preceding sentence.” after “defendant may be found.”
+    [Pub. L. 111–203][/us/pl/111/203], § 929E(d), inserted “In any action or proceeding instituted by the Commission under this subchapter in a United States district court for any judicial district, a subpoena issued to compel the attendance of a witness or the production of documents or tangible things (or both) at a hearing or trial may be served at any place within the United States. Rule 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure shall not apply to a subpoena issued under the preceding sentence.” after “defendant may be found.”
 
     1990—[Pub. L. 101–429][/us/pl/101/429] inserted “and actions at law brought to enforce any liability or duty created by, or” after “all suits in equity” and “to enforce any liability or duty created by, or” after “Any suit or action”.
 
@@ -65,14 +65,14 @@
 [/us/usc/t15/s80b–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%936
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F856
-[/us/pl/100/181/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs707
+[/us/pl/100/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVII
 [/us/stat/101/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1264
-[/us/pl/101/429/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2Fs403
+[/us/pl/101/429/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2FtIV
 [/us/stat/104/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F951
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1853
-[/us/pl/111/203/s929P/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929P%2Fb%2F3
-[/us/pl/111/203/s929E/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929E%2Fd
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/101/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429
 [/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

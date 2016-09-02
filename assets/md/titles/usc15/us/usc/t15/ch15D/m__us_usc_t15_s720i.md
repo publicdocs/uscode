@@ -27,7 +27,7 @@
 
         (B) negotiate a project labor agreement to expedite construction of the pipeline.
 
-([Pub. L. 108–324, div. C, § 111][/us/pl/108/324/s111], Oct. 13, 2004, [118 Stat. 1263][/us/stat/118/1263].)
+([Pub. L. 108–324, div. C][/us/pl/108/324/dC], § 111, Oct. 13, 2004, [118 Stat. 1263][/us/stat/118/1263].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/108/324/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs111
+[/us/pl/108/324/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2FdC
 [/us/stat/118/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1263
 
 

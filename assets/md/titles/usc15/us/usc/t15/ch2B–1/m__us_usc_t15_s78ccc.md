@@ -183,7 +183,7 @@
 
             The Commission may, by such rules as it determines to be necessary or appropriate in the public interest or to carry out the purposes of this chapter, require SIPC to adopt, amend, or repeal any SIPC bylaw or rule, whenever adopted.
 
-([Pub. L. 91–598, § 3][/us/pl/91/598/s3], Dec. 30, 1970, [84 Stat. 1637][/us/stat/84/1637]; [Pub. L. 95–283][/us/pl/95/283], §§ 2–5, May 21, 1978, [92 Stat. 249–251][/us/stat/92/249-251]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 203(d)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–424.)
+([Pub. L. 91–598][/us/pl/91/598], § 3, Dec. 30, 1970, [84 Stat. 1637][/us/stat/84/1637]; [Pub. L. 95–283][/us/pl/95/283], §§ 2–5, May 21, 1978, [92 Stat. 249–251][/us/stat/92/249-251]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 203(d)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–424.)
 
  __References in Text__ 
 
@@ -195,17 +195,17 @@
 
     2000—Subsec. (a)(2)(A)(iii). [Pub. L. 106–554][/us/pl/106/554] added cl. (iii).
 
-    1978—Subsec. (a). [Pub. L. 95–283, § 2(a)][/us/pl/95/283/s2/a], substituted “Creation and membership” for “Creation” in heading, redesignated introductory text and cls. (1) and (3) as par. (1), and added par. 2 which incorporated provisions formerly contained in cl. (2) as par. (2)(A).
+    1978—Subsec. (a). [Pub. L. 95–283][/us/pl/95/283], § 2(a), substituted “Creation and membership” for “Creation” in heading, redesignated introductory text and cls. (1) and (3) as par. (1), and added par. 2 which incorporated provisions formerly contained in cl. (2) as par. (2)(A).
 
-    Subsec. (b). [Pub. L. 95–283, § 3][/us/pl/95/283/s3], in par. (1) substituted “State, Federal, or other court” for “court, State, or Federal”, in par. (3) substituted provisions relating to adoption, etc., of bylaws by the Board of Directors, for provisions relating to adoption, etc., of bylaws and rules by the Board of Directors, added par. (4), and redesignated former pars. (4) to (8) as (5) to (9), respectively.
+    Subsec. (b). [Pub. L. 95–283][/us/pl/95/283], § 3, in par. (1) substituted “State, Federal, or other court” for “court, State, or Federal”, in par. (3) substituted provisions relating to adoption, etc., of bylaws by the Board of Directors, for provisions relating to adoption, etc., of bylaws and rules by the Board of Directors, added par. (4), and redesignated former pars. (4) to (8) as (5) to (9), respectively.
 
-    Subsec. (c)(2)(C)(ii). [Pub. L. 95–283, § 4(a)][/us/pl/95/283/s4/a], substituted “a broker or dealer or associated with a member of a national securities exchange, within the meaning of section 78c(a)(18) or section 78c(a)(21), respectively, of this title, or similarly associated with any self-regulatory organization or other securities industry group,” for “any broker or dealer, within the meaning of paragraph (18) of [section 78c(a) of this title][/us/usc/t15/s78c/a], or similarly associated with a national securities exchange or other securities industry group”.
+    Subsec. (c)(2)(C)(ii). [Pub. L. 95–283][/us/pl/95/283], § 4(a), substituted “a broker or dealer or associated with a member of a national securities exchange, within the meaning of section 78c(a)(18) or section 78c(a)(21), respectively, of this title, or similarly associated with any self-regulatory organization or other securities industry group,” for “any broker or dealer, within the meaning of paragraph (18) of [section 78c(a) of this title][/us/usc/t15/s78c/a], or similarly associated with a national securities exchange or other securities industry group”.
 
-    Subsec. (c)(5). [Pub. L. 95–283, § 4(b)][/us/pl/95/283/s4/b], substituted “Compensation” for “Compensation, etc.” in heading, and in text struck out provisions relating to determinations of dollar volume of trading on exchanges.
+    Subsec. (c)(5). [Pub. L. 95–283][/us/pl/95/283], § 4(b), substituted “Compensation” for “Compensation, etc.” in heading, and in text struck out provisions relating to determinations of dollar volume of trading on exchanges.
 
-    Subsec. (e). [Pub. L. 95–283, § 5][/us/pl/95/283/s5], inserted “and rules” after “Bylaws” in heading, and in text substituted provisions relating to procedures applicable to proposed changes in the bylaws and rules of SIPC and required action by the Commission with respect to any SIPC bylaw or rule, for provisions relating to procedures applicable to adoption of initial bylaws and rules of SIPC and any alteration, supplement, repeal, or addition, effective date of any such bylaw or rule, and required action by the Commission with respect to any SIPC bylaw or rule.
+    Subsec. (e). [Pub. L. 95–283][/us/pl/95/283], § 5, inserted “and rules” after “Bylaws” in heading, and in text substituted provisions relating to procedures applicable to proposed changes in the bylaws and rules of SIPC and required action by the Commission with respect to any SIPC bylaw or rule, for provisions relating to procedures applicable to adoption of initial bylaws and rules of SIPC and any alteration, supplement, repeal, or addition, effective date of any such bylaw or rule, and required action by the Commission with respect to any SIPC bylaw or rule.
 
-    Subsec. (f). [Pub. L. 95–283, § 2(b)][/us/pl/95/283/s2/b], struck out subsec. (f) which set forth qualifications for other members of SIPC.
+    Subsec. (f). [Pub. L. 95–283][/us/pl/95/283], § 2(b), struck out subsec. (f) which set forth qualifications for other members of SIPC.
 
 ----------
 
@@ -216,23 +216,23 @@
 
 [/us/usc/t15/s78y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78y
 [/us/usc/t5/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs704
-[/us/pl/91/598/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598%2Fs3
+[/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1637
 [/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/stat/92/249-251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F249-251
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1636
 [/us/pl/87/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F569
 [/us/stat/76/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F265
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
-[/us/pl/95/283/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs2%2Fa
-[/us/pl/95/283/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs3
-[/us/pl/95/283/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs4%2Fa
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/usc/t15/s78c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa
-[/us/pl/95/283/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs4%2Fb
-[/us/pl/95/283/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs5
-[/us/pl/95/283/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs2%2Fb
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 
 

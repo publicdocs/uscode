@@ -75,7 +75,7 @@
 
         (6) appropriate policies to ensure the security of resources available on the Network and to protect the privacy of users of networks.
 
-([Pub. L. 102–194, title I, § 102][/us/pl/102/194/s102], Dec. 9, 1991, [105 Stat. 1598][/us/stat/105/1598].)
+([Pub. L. 102–194, title I][/us/pl/102/194/tI], § 102, Dec. 9, 1991, [105 Stat. 1598][/us/stat/105/1598].)
 
 ----------
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/102/194/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2Fs102
+[/us/pl/102/194/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2FtI
 [/us/stat/105/1598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1598
 
 

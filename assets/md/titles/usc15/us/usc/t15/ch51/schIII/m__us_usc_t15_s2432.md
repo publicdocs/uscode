@@ -17,7 +17,7 @@
 
     Each department, agency, and independent establishment of the Federal Government, in coordination with the Center, shall study and review the promulgation and implementation of its statutory authority, policies, and regulations, and shall identify such statutes, policies, and regulations which adversely affect productivity growth in the public or private sectors of the United States, or those which impede the efficient functioning of the Nation’s economy, and shall recommend to the President and the Congress, or implement where appropriate, alternative statutes, policies, and regulations which will contribute to the achievement of the purposes of this chapter.
 
-([Pub. L. 94–136, title III, § 302][/us/pl/94/136/s302], Nov. 28, 1975, [89 Stat. 740][/us/stat/89/740].)
+([Pub. L. 94–136, title III][/us/pl/94/136/tIII], § 302, Nov. 28, 1975, [89 Stat. 740][/us/stat/89/740].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/136/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2Fs302
+[/us/pl/94/136/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2FtIII
 [/us/stat/89/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F740
 
 

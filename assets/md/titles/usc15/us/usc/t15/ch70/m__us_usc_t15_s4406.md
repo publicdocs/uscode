@@ -27,7 +27,7 @@
 
         Nothing in this chapter shall relieve any person from liability at common law or under State statutory law to any other person.
 
-([Pub. L. 99–252, § 7][/us/pl/99/252/s7], Feb. 27, 1986, [100 Stat. 34][/us/stat/100/34]; [Pub. L. 111–31, div. A, title II, § 205(b)][/us/pl/111/31/s205/b], June 22, 2009, [123 Stat. 1849][/us/stat/123/1849].)
+([Pub. L. 99–252][/us/pl/99/252], § 7, Feb. 27, 1986, [100 Stat. 34][/us/stat/100/34]; [Pub. L. 111–31, div. A, title II][/us/pl/111/31/dA/tII], § 205(b), June 22, 2009, [123 Stat. 1849][/us/stat/123/1849].)
 
  __References in Text__ 
 
@@ -46,9 +46,9 @@
 
 [/us/usc/t15/s4402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4402
 [/us/usc/t15/s4402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4402
-[/us/pl/99/252/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252%2Fs7
+[/us/pl/99/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252
 [/us/stat/100/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F34
-[/us/pl/111/31/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs205%2Fb
+[/us/pl/111/31/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtII
 [/us/stat/123/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1849
 [/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/stat/123/1776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1776

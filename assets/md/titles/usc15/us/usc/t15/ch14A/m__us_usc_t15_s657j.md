@@ -59,7 +59,7 @@
 
             (F) such additional information as is determined necessary by the Administrator.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[38\], as added [Pub. L. 110–234, title XII, § 12067][/us/pl/110/234/s12067], May 22, 2008, [122 Stat. 1410][/us/stat/122/1410], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12067, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2172; [Pub. L. 114–88, div. B, title III, § 2303][/us/pl/114/88/s2303], Nov. 25, 2015, [129 Stat. 696][/us/stat/129/696].)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[38\], as added [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12067, May 22, 2008, [122 Stat. 1410][/us/stat/122/1410], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12067, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2172; [Pub. L. 114–88, div. B, title III][/us/pl/114/88/dB/tIII], § 2303, Nov. 25, 2015, [129 Stat. 696][/us/stat/129/696].)
 
  __Codification__ 
 
@@ -82,12 +82,12 @@
 
 [/us/usc/t15/s636/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fb
 [/us/usc/t15/s636/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fb
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
-[/us/pl/110/234/s12067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12067
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1410
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/114/88/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2Fs2303
+[/us/pl/114/88/dB/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2FdB%2FtIII
 [/us/stat/129/696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F696
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

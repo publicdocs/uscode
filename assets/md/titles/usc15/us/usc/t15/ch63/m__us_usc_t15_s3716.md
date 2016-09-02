@@ -27,7 +27,7 @@
 
         The Secretary shall submit a report to the Congress within 1 year after February 14, 1992, on the actions taken under subsection (a).
 
-([Pub. L. 102–245, title V, § 504][/us/pl/102/245/s504], Feb. 14, 1992, [106 Stat. 24][/us/stat/106/24].)
+([Pub. L. 102–245, title V][/us/pl/102/245/tV], § 504, Feb. 14, 1992, [106 Stat. 24][/us/stat/106/24].)
 
  __Codification__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/102/245/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs504
+[/us/pl/102/245/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtV
 [/us/stat/106/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F24
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

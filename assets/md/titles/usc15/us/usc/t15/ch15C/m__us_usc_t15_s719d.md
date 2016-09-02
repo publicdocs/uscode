@@ -47,7 +47,7 @@
 
         Following receipt by the President of the Commission’s recommendations, the Council on Environmental Quality shall afford interested persons an opportunity to present oral and written data, views, and arguments respecting the environmental impact statements submitted by the Commission under [section 719c(e) of this title][/us/usc/t15/s719c/e]. Not later than July 1, 1977, the Council on Environmental Quality shall submit to the President a report, which shall be contemporaneously made available by the Council to the public, summarizing any data, views, and arguments received and setting forth the Council’s views concerning the legal and factual sufficiency of each such environmental impact statement and other matters related to environmental impact as the Council considers to be relevant.
 
-([Pub. L. 94–586, § 6][/us/pl/94/586/s6], Oct. 22, 1976, [90 Stat. 2906][/us/stat/90/2906].)
+([Pub. L. 94–586][/us/pl/94/586], § 6, Oct. 22, 1976, [90 Stat. 2906][/us/stat/90/2906].)
 
  __Transfer of Functions__ 
 
@@ -67,7 +67,7 @@
 [/us/usc/t15/s719c/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719c%2Fc
 [/us/usc/t15/s719f/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719f%2Fg
 [/us/usc/t15/s719c/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719c%2Fe
-[/us/pl/94/586/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586%2Fs6
+[/us/pl/94/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586
 [/us/stat/90/2906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2906
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e

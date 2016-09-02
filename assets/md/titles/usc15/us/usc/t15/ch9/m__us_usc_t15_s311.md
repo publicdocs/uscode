@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act Oct. 1, 1890, ch. 1266, § 1][/us/act/1890-10-01/ch1266/s1], [26 Stat. 653][/us/stat/26/653], as amended, relating to the establishment of a Weather Bureau in the Department of Commerce, was omitted because the Weather Bureau was consolidated with the Coast and Geodetic Survey to form a new agency in the Department to be known as the Environmental Science Services Administration, and the office of Chief of the Weather Bureau was abolished, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318], set out as a note below. The Reorg. Plan also transferred to the Secretary of Commerce all functions of the Bureau and the Chief of the Bureau.
+    Section, [act Oct. 1, 1890, ch. 1266][/us/act/1890-10-01/ch1266], § 1, [26 Stat. 653][/us/stat/26/653], as amended, relating to the establishment of a Weather Bureau in the Department of Commerce, was omitted because the Weather Bureau was consolidated with the Coast and Geodetic Survey to form a new agency in the Department to be known as the Environmental Science Services Administration, and the office of Chief of the Weather Bureau was abolished, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318], set out as a note below. The Reorg. Plan also transferred to the Secretary of Commerce all functions of the Bureau and the Chief of the Bureau.
 
     Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090], set out as a note under [section 1511 of this title][/us/usc/t15/s1511], abolished the Environmental Science Services Administration, including the offices of Administrator and Deputy Administrator, and established the National Oceanic and Atmospheric Administration within the Department of Commerce. By Department Organization Order 25–5A, republished 39 F.R. 27486, July 29, 1974, the Secretary of Commerce delegated to the National Oceanic and Atmospheric Administration a number of functions vested in him, including his functions under this chapter of the Code. By order of the Acting Associate Administrator, 35 F.R. 19249, Dec. 19, 1970, the following organizational names appearing in chapter IX of subtitle B of Title 15, Code of Federal Regulations, relating to the Administration, were changed: Environmental Science Services Administration to National Oceanic and Atmospheric Administration (ESSA to NOAA); Coast and Geodetic Survey to National Ocean Survey, and Weather Bureau to National Weather Service.
 
@@ -25,19 +25,19 @@
 
  __Short Title of 2014 Amendment__ 
 
-[Pub. L. 113–86, § 1][/us/pl/113/86/s1], Mar. 6, 2014, [128 Stat. 1015][/us/stat/128/1015], provided that: 
+[Pub. L. 113–86][/us/pl/113/86], § 1, Mar. 6, 2014, [128 Stat. 1015][/us/stat/128/1015], provided that: 
 
 > “This Act \[amending [section 313d of this title][/us/usc/t15/s313d] and amending provisions set out as a note under [section 313d of this title][/us/usc/t15/s313d]\] may be cited as the ‘National Integrated Drought Information System Reauthorization Act of 2014’.”
 
  __Short Title of 2006 Amendment__ 
 
-[Pub. L. 109–430, § 1][/us/pl/109/430/s1], Dec. 20, 2006, [120 Stat. 2918][/us/stat/120/2918], provided that: 
+[Pub. L. 109–430][/us/pl/109/430], § 1, Dec. 20, 2006, [120 Stat. 2918][/us/stat/120/2918], provided that: 
 
 > “This Act \[enacting [section 313d of this title][/us/usc/t15/s313d] and provisions set out as notes under [section 313d of this title][/us/usc/t15/s313d]\] may be cited as the ‘National Integrated Drought Information System Act of 2006’.”
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–253, § 1][/us/pl/107/253/s1], Oct. 29, 2002, [116 Stat. 1731][/us/stat/116/1731], provided that: 
+[Pub. L. 107–253][/us/pl/107/253], § 1, Oct. 29, 2002, [116 Stat. 1731][/us/stat/116/1731], provided that: 
 
 > “This Act \[enacting [section 313c of this title][/us/usc/t15/s313c] and provisions set out as notes under [section 313c of this title][/us/usc/t15/s313c]\] may be cited as the ‘Inland Flood Forecasting and Warning System Act of 2002’.”
 
@@ -45,7 +45,7 @@
 
     [Act Aug. 13, 1953, ch. 426][/us/act/1953-08-13/ch426], [67 Stat. 559][/us/stat/67/559], as amended by [act July 9, 1956, ch. 522][/us/act/1956-07-09/ch522], [70 Stat. 509][/us/stat/70/509], related to research and experimentation in the field of weather modification and created the Advisory Committee on Weather Control. [Pub. L. 85–170][/us/pl/85/170], ch. II, § 201, Aug. 28, 1957, [71 Stat. 427][/us/stat/71/427], provided in part that the Advisory Committee on Weather Control shall complete its report and terminate its activities by Dec. 31, 1957.
 
- __REORGANIZATION PLAN NO. 2 OF 1965__  __Eff.__  __July 13, 1965__  __, 30 F.R. 8819,__  __[__  __79 Stat. 1318__  __][/us/stat/79/1318]__  __, as amended__  __[__  __Pub. L. 90–83, § 10(c)__  __][/us/pl/90/83/s10/c]__  __,__  __Sept. 11, 1967__  __,__  __[__  __81 Stat. 224__  __][/us/stat/81/224]__ 
+ __REORGANIZATION PLAN NO. 2 OF 1965__  __Eff.__  __July 13, 1965__  __, 30 F.R. 8819,__  __[__  __79 Stat. 1318__  __][/us/stat/79/1318]__  __, as amended__  __[__  __Pub. L. 90–83__  __][/us/pl/90/83]__  __, § 10(c),__  __Sept. 11, 1967__  __,__  __[__  __81 Stat. 224__  __][/us/stat/81/224]__ 
 
     Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, May 13, 1965, pursuant to the provisions of the Reorganization Act of 1949, [63 Stat. 203][/us/stat/63/203], as amended \[see [5 U.S.C. 901][/us/usc/t5/s901] et seq.\].
 
@@ -136,21 +136,21 @@ I transmit herewith Reorganization Plan No. 2 of 1965, prepared in accordance wi
 ----------
 ----------
 
-[/us/act/1890-10-01/ch1266/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-10-01%2Fch1266%2Fs1
+[/us/act/1890-10-01/ch1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-10-01%2Fch1266
 [/us/stat/26/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F653
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318
 [/us/stat/84/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2090
 [/us/usc/t15/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1511
 [/us/stat/54/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1236
-[/us/pl/113/86/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F86%2Fs1
+[/us/pl/113/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F86
 [/us/stat/128/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1015
 [/us/usc/t15/s313d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs313d
 [/us/usc/t15/s313d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs313d
-[/us/pl/109/430/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F430%2Fs1
+[/us/pl/109/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F430
 [/us/stat/120/2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2918
 [/us/usc/t15/s313d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs313d
 [/us/usc/t15/s313d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs313d
-[/us/pl/107/253/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F253%2Fs1
+[/us/pl/107/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F253
 [/us/stat/116/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1731
 [/us/usc/t15/s313c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs313c
 [/us/usc/t15/s313c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs313c
@@ -161,7 +161,7 @@ I transmit herewith Reorganization Plan No. 2 of 1965, prepared in accordance wi
 [/us/pl/85/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F170
 [/us/stat/71/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F427
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318
-[/us/pl/90/83/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs10%2Fc
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F224
 [/us/stat/63/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F203
 [/us/usc/t5/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs901

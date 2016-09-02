@@ -17,7 +17,7 @@
 
     It is hereby declared that it is the express intent of Congress to supersede any and all laws of the States or political subdivisions thereof insofar as they may now or hereafter provide for the labeling of the net quantity of contents of the package of any consumer commodity covered by this chapter which are less stringent than or require information different from the requirements of [section 1453 of this title][/us/usc/t15/s1453] or regulations promulgated pursuant thereto.
 
-([Pub. L. 89–755, § 12][/us/pl/89/755/s12], Nov. 3, 1966, [80 Stat. 1302][/us/stat/80/1302].)
+([Pub. L. 89–755][/us/pl/89/755], § 12, Nov. 3, 1966, [80 Stat. 1302][/us/stat/80/1302].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t15/s1453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1453
-[/us/pl/89/755/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F755%2Fs12
+[/us/pl/89/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F755
 [/us/stat/80/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1302
 
 

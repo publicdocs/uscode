@@ -31,7 +31,7 @@
 
         In the case of a household substance subject to such a standard which is packaged under subsection (a) in a noncomplying package, if the Commission determines that such substance is not also being supplied by a manufacturer (or packer) in popular size packages which comply with such standard, it may, after giving the manufacturer (or packer) an opportunity to comply with the purposes of this Act, by order require such substance to be packaged by such manufacturer (or packer) exclusively in special packaging complying with such standard if it finds, after opportunity for hearing, that such exclusive use of special packaging is necessary to accomplish the purposes of this Act.
 
-([Pub. L. 91–601, § 4][/us/pl/91/601/s4], Dec. 30, 1970, [84 Stat. 1671][/us/stat/84/1671]; [Pub. L. 92–573, § 30(a)][/us/pl/92/573/s30/a], Oct. 27, 1972, [86 Stat. 1231][/us/stat/86/1231].)
+([Pub. L. 91–601][/us/pl/91/601], § 4, Dec. 30, 1970, [84 Stat. 1671][/us/stat/84/1671]; [Pub. L. 92–573][/us/pl/92/573], § 30(a), Oct. 27, 1972, [86 Stat. 1231][/us/stat/86/1231].)
 
  __References in Text__ 
 
@@ -49,9 +49,9 @@
 ----------
 
 [/us/usc/t15/s1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1472
-[/us/pl/91/601/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601%2Fs4
+[/us/pl/91/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601
 [/us/stat/84/1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1671
-[/us/pl/92/573/s30/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs30%2Fa
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1231
 [/us/usc/t15/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1471
 [/us/pl/92/573/s30/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs30%2Fa

@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 85–469, title I, § 101][/us/pl/85/469/s101], June 25, 1958, [72 Stat. 234][/us/stat/72/234]; [Pub. L. 86–88, title I, § 101][/us/pl/86/88/s101], July 13, 1959, [73 Stat. 207][/us/stat/73/207], which prescribed the maximum base rate of pay for employees conducting meteorological investigations in the Arctic region, was from an appropriation act and was omitted in view of [section 327 of this title][/us/usc/t15/s327] which authorizes the Secretary of Commerce to establish the rates of compensation for such personnel. Provisions of this section were repeated in [Pub. L. 86–451, title I, § 101][/us/pl/86/451/s101], May 13, 1960, [74 Stat. 99][/us/stat/74/99].
+    Section, [Pub. L. 85–469, title I][/us/pl/85/469/tI], § 101, June 25, 1958, [72 Stat. 234][/us/stat/72/234]; [Pub. L. 86–88, title I][/us/pl/86/88/tI], § 101, July 13, 1959, [73 Stat. 207][/us/stat/73/207], which prescribed the maximum base rate of pay for employees conducting meteorological investigations in the Arctic region, was from an appropriation act and was omitted in view of [section 327 of this title][/us/usc/t15/s327] which authorizes the Secretary of Commerce to establish the rates of compensation for such personnel. Provisions of this section were repeated in [Pub. L. 86–451, title I][/us/pl/86/451/tI], § 101, May 13, 1960, [74 Stat. 99][/us/stat/74/99].
 
 ----------
 
@@ -26,12 +26,12 @@
 ----------
 ----------
 
-[/us/pl/85/469/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F469%2Fs101
+[/us/pl/85/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F469%2FtI
 [/us/stat/72/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F234
-[/us/pl/86/88/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F88%2Fs101
+[/us/pl/86/88/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F88%2FtI
 [/us/stat/73/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F207
 [/us/usc/t15/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs327
-[/us/pl/86/451/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F451%2Fs101
+[/us/pl/86/451/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F451%2FtI
 [/us/stat/74/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F99
 
 

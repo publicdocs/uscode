@@ -19,7 +19,7 @@
 
     (b) Nothing contained in this section shall be construed to impair or otherwise interfere with any program carried into effect by the Secretary of Health and Human Services under other provisions of law in cooperation with State governments or agencies, instrumentalities, or political subdivisions thereof.
 
-([Pub. L. 89–755, § 9][/us/pl/89/755/s9], Nov. 3, 1966, [80 Stat. 1301][/us/stat/80/1301]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 89–755][/us/pl/89/755], § 9, Nov. 3, 1966, [80 Stat. 1301][/us/stat/80/1301]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Change of Name__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/89/755/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F755%2Fs9
+[/us/pl/89/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F755
 [/us/stat/80/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1301
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb

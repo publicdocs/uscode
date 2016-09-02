@@ -83,7 +83,7 @@
 
         Each year the Council shall prepare and make publicly available a report which includes an identification and description of all programs and projects undertaken by the Council during the previous year as well as those planned for the coming year. Such report shall also detail the allocation or planned allocation of Council resources for each such program and project.
 
-([Pub. L. 104–284, § 5][/us/pl/104/284/s5], Oct. 11, 1996, [110 Stat. 3371][/us/stat/110/3371]; [Pub. L. 113–269, § 2(a)][/us/pl/113/269/s2/a], Dec. 18, 2014, [128 Stat. 2947][/us/stat/128/2947].)
+([Pub. L. 104–284][/us/pl/104/284], § 5, Oct. 11, 1996, [110 Stat. 3371][/us/stat/110/3371]; [Pub. L. 113–269][/us/pl/113/269], § 2(a), Dec. 18, 2014, [128 Stat. 2947][/us/stat/128/2947].)
 
  __Amendments__ 
 
@@ -97,9 +97,9 @@
 ----------
 
 [/us/usc/t15/s6406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6406
-[/us/pl/104/284/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F284%2Fs5
+[/us/pl/104/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F284
 [/us/stat/110/3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3371
-[/us/pl/113/269/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F269%2Fs2%2Fa
+[/us/pl/113/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F269
 [/us/stat/128/2947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2947
 [/us/pl/113/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F269
 

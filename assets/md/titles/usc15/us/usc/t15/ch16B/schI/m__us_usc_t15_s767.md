@@ -61,7 +61,7 @@
 
         Any reference in this chapter to any provision of law shall be deemed to include, as appropriate, references thereto as now or hereafter amended or supplemented.
 
-([Pub. L. 93–275, § 8][/us/pl/93/275/s8], May 7, 1974, [88 Stat. 103][/us/stat/88/103].)
+([Pub. L. 93–275][/us/pl/93/275], § 8, May 7, 1974, [88 Stat. 103][/us/stat/88/103].)
 
  __Transfer of Functions__ 
 
@@ -77,7 +77,7 @@
 [/us/usc/t15/s766/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs766%2Fi%2F2
 [/us/usc/t15/s766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs766
 [/us/usc/t15/s766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs766
-[/us/pl/93/275/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs8
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F103
 
 

@@ -29,7 +29,7 @@
 
     (6) the term “Secretary” means the Secretary of Commerce.
 
-([Pub. L. 100–418, title V, § 5401][/us/pl/100/418/s5401], Aug. 23, 1988, [102 Stat. 1463][/us/stat/102/1463].)
+([Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5401, Aug. 23, 1988, [102 Stat. 1463][/us/stat/102/1463].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t15/s4906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4906
-[/us/pl/100/418/s5401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5401
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1463
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/usc/t15/s4603a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4603a

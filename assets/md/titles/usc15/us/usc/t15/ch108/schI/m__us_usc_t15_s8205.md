@@ -21,7 +21,7 @@
 
     (2) the exempt commercial purchaser has subsequently requested in writing the broker to procure or place such insurance from a nonadmitted insurer.
 
-([Pub. L. 111–203, title V, § 525][/us/pl/111/203/s525], July 21, 2010, [124 Stat. 1591][/us/stat/124/1591].)
+([Pub. L. 111–203, title V][/us/pl/111/203/tV], § 525, July 21, 2010, [124 Stat. 1591][/us/stat/124/1591].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs525
+[/us/pl/111/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtV
 [/us/stat/124/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1591
 
 

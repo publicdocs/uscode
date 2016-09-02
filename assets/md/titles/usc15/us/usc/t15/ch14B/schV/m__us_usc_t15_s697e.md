@@ -281,7 +281,7 @@
 
         (4) such other information as the Administration deems appropriate.
 
-([Pub. L. 85–699, title V, § 508][/us/pl/85/699/s508], as added and amended [Pub. L. 103–403, title II, § 217][/us/pl/103/403/s217], Oct. 22, 1994, [108 Stat. 4185][/us/stat/108/4185]; [Pub. L. 105–135, title II, § 223(a)][/us/pl/105/135/s223/a], Dec. 2, 1997, [111 Stat. 2604][/us/stat/111/2604]; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title III, §§ 305, 306\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–685; [Pub. L. 108–232][/us/pl/108/232], §§ 2–3(c), May 28, 2004, [118 Stat. 649–652][/us/stat/118/649-652].)
+([Pub. L. 85–699, title V][/us/pl/85/699/tV], § 508, as added and amended [Pub. L. 103–403, title II][/us/pl/103/403/tII], § 217, Oct. 22, 1994, [108 Stat. 4185][/us/stat/108/4185]; [Pub. L. 105–135, title II][/us/pl/105/135/tII], § 223(a), Dec. 2, 1997, [111 Stat. 2604][/us/stat/111/2604]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title III, §§ 305, 306\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–685; [Pub. L. 108–232][/us/pl/108/232], §§ 2–3(c), May 28, 2004, [118 Stat. 649–652][/us/stat/118/649-652].)
 
  __Codification__ 
 
@@ -291,47 +291,47 @@
 
  __Amendments__ 
 
-    2004—Subsec. (b)(2)(C). [Pub. L. 108–232, § 3(b)][/us/pl/108/232/s3/b], inserted “(15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) for such company)” before “; and”.
+    2004—Subsec. (b)(2)(C). [Pub. L. 108–232][/us/pl/108/232], § 3(b), inserted “(15 percent in the case of any such loss attributable to a debenture issued by the company during any period for which an election is in effect under subsection (c)(7) for such company)” before “; and”.
 
-    Subsec. (b)(2)(D). [Pub. L. 108–232, § 3(c)(1)][/us/pl/108/232/s3/c/1], substituted “subsection (c)” for “subsection (c)(2)”.
+    Subsec. (b)(2)(D). [Pub. L. 108–232][/us/pl/108/232], § 3(c)(1), substituted “subsection (c)” for “subsection (c)(2)”.
 
-    Subsec. (c)(5). [Pub. L. 108–232, § 3(c)(2)][/us/pl/108/232/s3/c/2], struck out “10 percent” after “the premier company’s”.
+    Subsec. (c)(5). [Pub. L. 108–232][/us/pl/108/232], § 3(c)(2), struck out “10 percent” after “the premier company’s”.
 
-    Subsec. (c)(6). [Pub. L. 108–232, § 2][/us/pl/108/232/s2], designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+    Subsec. (c)(6). [Pub. L. 108–232][/us/pl/108/232], § 2, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-    Subsec. (c)(7), (8). [Pub. L. 108–232, § 3(a)][/us/pl/108/232/s3/a], added pars. (7) and (8).
+    Subsec. (c)(7), (8). [Pub. L. 108–232][/us/pl/108/232], § 3(a), added pars. (7) and (8).
 
-    2000—[Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title III, § 305\], repealed [Pub. L. 103–403, § 217(b)][/us/pl/103/403/s217/b]. See 1994 Amendment note below.
+    2000—[Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title III, § 305\], repealed [Pub. L. 103–403][/us/pl/103/403], § 217(b). See 1994 Amendment note below.
 
-    Subsec. (a). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title III, § 306(1)\], substituted “The” for “On a pilot program basis, the”.
+    Subsec. (a). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title III, § 306(1)\], substituted “The” for “On a pilot program basis, the”.
 
-    Subsecs. (d), (e). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title III, § 306(2), (5)\], added heading and text of subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
+    Subsecs. (d), (e). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title III, § 306(2), (5)\], added heading and text of subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title III, § 306(2), (3)\], redesignated subsec. (e) as (f) and substituted “subsection (g)” for “subsection (f)”. Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title III, § 306(2), (3)\], redesignated subsec. (e) as (f) and substituted “subsection (g)” for “subsection (f)”. Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title III, § 306(2)\], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title III, § 306(2)\], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title III, § 306(2), (4)\], redesignated subsec. (g) as (h) and substituted “subsection (g)” for “subsection (f)”. Former subsec. (h) redesignated (i).
+    Subsec. (h). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title III, § 306(2), (4)\], redesignated subsec. (g) as (h) and substituted “subsection (g)” for “subsection (f)”. Former subsec. (h) redesignated (i).
 
-    Subsecs. (i), (j). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title III, § 306(2)\], redesignated subsecs. (h) and (i) as (i) and (j), respectively.
+    Subsecs. (i), (j). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title III, § 306(2)\], redesignated subsecs. (h) and (i) as (i) and (j), respectively.
 
-    1997—Subsec. (a). [Pub. L. 105–135, § 223(a)(1)][/us/pl/105/135/s223/a/1], struck out “not more than 15” before “certified development companies”.
+    1997—Subsec. (a). [Pub. L. 105–135][/us/pl/105/135], § 223(a)(1), struck out “not more than 15” before “certified development companies”.
 
-    Subsec. (b)(2). [Pub. L. 105–135, § 223(a)(2)(A)(i)][/us/pl/105/135/s223/a/2/A/i], struck out “if such company” after “premier certified lender” in introductory provisions.
+    Subsec. (b)(2). [Pub. L. 105–135][/us/pl/105/135], § 223(a)(2)(A)(i), struck out “if such company” after “premier certified lender” in introductory provisions.
 
-    Subsec. (b)(2)(A), (B). [Pub. L. 105–135, § 223(a)(2)(A)(ii)][/us/pl/105/135/s223/a/2/A/ii], added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+    Subsec. (b)(2)(A), (B). [Pub. L. 105–135][/us/pl/105/135], § 223(a)(2)(A)(ii), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
     “(A) has been an active participant in the accredited lenders program during the 12-month period preceding the date on which the company submits an application under paragraph (1), except that, prior to January 1, 1996, the Administration may waive this requirement if the company is qualified to participate in the accredited lenders program;
 
     “(B) has a history of submitting to the Administration adequately analyzed debenture guarantee application packages; and”.
 
-    Subsec. (b)(2)(C). [Pub. L. 105–135, § 223(a)(2)(A)(iii)][/us/pl/105/135/s223/a/2/A/iii], inserted “if the company” before “agrees to assume” and substituted “; and” for period at end.
+    Subsec. (b)(2)(C). [Pub. L. 105–135][/us/pl/105/135], § 223(a)(2)(A)(iii), inserted “if the company” before “agrees to assume” and substituted “; and” for period at end.
 
-    Subsec. (b)(2)(D). [Pub. L. 105–135, § 223(a)(2)(A)(iv)][/us/pl/105/135/s223/a/2/A/iv], added subpar. (D).
+    Subsec. (b)(2)(D). [Pub. L. 105–135][/us/pl/105/135], § 223(a)(2)(A)(iv), added subpar. (D).
 
-    Subsec. (b)(3). [Pub. L. 105–135, § 223(a)(2)(B)][/us/pl/105/135/s223/a/2/B], added par. (3).
+    Subsec. (b)(3). [Pub. L. 105–135][/us/pl/105/135], § 223(a)(2)(B), added par. (3).
 
-    Subsec. (c). [Pub. L. 105–135, § 223(a)(3)][/us/pl/105/135/s223/a/3], added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows:
+    Subsec. (c). [Pub. L. 105–135][/us/pl/105/135], § 223(a)(3), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows:
 
     “(1) Establishment.—A company designated as a premier certified lender shall establish a loss reserve for financings approved pursuant to this section.
 
@@ -351,17 +351,17 @@
 
     “(C) 25 percent not later than 2 years after a debenture is closed.”
 
-    Subsec. (d)(1). [Pub. L. 105–135, § 223(a)(4)][/us/pl/105/135/s223/a/4], substituted “to approve, authorize, close, service, foreclose, litigate (except that the Administration may monitor the conduct of any such litigation to which a premier certified lender is a party), and liquidate loans” for “to approve loans”.
+    Subsec. (d)(1). [Pub. L. 105–135][/us/pl/105/135], § 223(a)(4), substituted “to approve, authorize, close, service, foreclose, litigate (except that the Administration may monitor the conduct of any such litigation to which a premier certified lender is a party), and liquidate loans” for “to approve loans”.
 
-    Subsec. (f). [Pub. L. 105–135, § 223(a)(5)][/us/pl/105/135/s223/a/5], substituted “certified development company” for “State or local development company” in introductory provisions.
+    Subsec. (f). [Pub. L. 105–135][/us/pl/105/135], § 223(a)(5), substituted “certified development company” for “State or local development company” in introductory provisions.
 
-    Subsec. (g). [Pub. L. 105–135, § 223(a)(6)][/us/pl/105/135/s223/a/6], substituted “revocation” for “designation” in heading.
+    Subsec. (g). [Pub. L. 105–135][/us/pl/105/135], § 223(a)(6), substituted “revocation” for “designation” in heading.
 
-    Subsec. (h). [Pub. L. 105–135, § 223(a)(7)][/us/pl/105/135/s223/a/7], added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “Not later than 180 days after October 22, 1994, the Administration shall promulgate regulations to carry out this section.”
+    Subsec. (h). [Pub. L. 105–135][/us/pl/105/135], § 223(a)(7), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “Not later than 180 days after October 22, 1994, the Administration shall promulgate regulations to carry out this section.”
 
-    Subsec. (i)(3). [Pub. L. 105–135, § 223(a)(8)][/us/pl/105/135/s223/a/8], substituted “other lenders, specifically comparing default rates and recovery rates on liquidations” for “other lenders”.
+    Subsec. (i)(3). [Pub. L. 105–135][/us/pl/105/135], § 223(a)(8), substituted “other lenders, specifically comparing default rates and recovery rates on liquidations” for “other lenders”.
 
-    1994—[Pub. L. 103–403, § 217(b)][/us/pl/103/403/s217/b], which directed repeal of this section effective Oct. 1, 2000, and was repealed by section 1(a)(9) \[title III, § 305\] of [Pub. L. 106–554][/us/pl/106/554], was not executed to reflect the probable intent of Congress and the amendments to this section by section 1(a)(9) \[title III, § 306\] of [Pub. L. 106–554][/us/pl/106/554]. See Termination Date note below.
+    1994—[Pub. L. 103–403][/us/pl/103/403], § 217(b), which directed repeal of this section effective Oct. 1, 2000, and was repealed by section 1(a)(9) \[title III, § 305\] of [Pub. L. 106–554][/us/pl/106/554], was not executed to reflect the probable intent of Congress and the amendments to this section by section 1(a)(9) \[title III, § 306\] of [Pub. L. 106–554][/us/pl/106/554]. See Termination Date note below.
 
  __Change of Name__ 
 
@@ -373,11 +373,11 @@
 
  __Termination Date__ 
 
-    [Section 217(b) of Pub. L. 103–403][/us/pl/103/403/s217/b], as amended by [Pub. L. 105–135, title II, § 223(c)][/us/pl/105/135/s223/c], Dec. 2, 1997, [111 Stat. 2606][/us/stat/111/2606], which provided that this section was to be repealed effective Oct. 1, 2000, was repealed by [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title III, § 305\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–685.
+    [Section 217(b) of Pub. L. 103–403][/us/pl/103/403/s217/b], as amended by [Pub. L. 105–135, title II][/us/pl/105/135/tII], § 223(c), Dec. 2, 1997, [111 Stat. 2606][/us/stat/111/2606], which provided that this section was to be repealed effective Oct. 1, 2000, was repealed by [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title III, § 305\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–685.
 
  __Regulations__ 
 
-[Pub. L. 105–135, title II, § 223(b)][/us/pl/105/135/s223/b], Dec. 2, 1997, [111 Stat. 2606][/us/stat/111/2606], provided that: 
+[Pub. L. 105–135, title II][/us/pl/105/135/tII], § 223(b), Dec. 2, 1997, [111 Stat. 2606][/us/stat/111/2606], provided that: 
 
 > “The Administrator shall—
 
@@ -396,54 +396,54 @@
 [/us/usc/t15/s697/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs697%2Fb%2F6
 [/us/usc/t15/s697/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs697%2Fa
 [/us/usc/t15/s697a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs697a
-[/us/pl/85/699/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs508
-[/us/pl/103/403/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs217
+[/us/pl/85/699/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtV
+[/us/pl/103/403/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtII
 [/us/stat/108/4185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4185
-[/us/pl/105/135/s223/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs223%2Fa
+[/us/pl/105/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtII
 [/us/stat/111/2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2604
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/108/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F232
 [/us/stat/118/649-652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F649-652
 [/us/pl/108/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F232
 [/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
-[/us/pl/108/232/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F232%2Fs3%2Fb
-[/us/pl/108/232/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F232%2Fs3%2Fc%2F1
-[/us/pl/108/232/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F232%2Fs3%2Fc%2F2
-[/us/pl/108/232/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F232%2Fs2
-[/us/pl/108/232/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F232%2Fs3%2Fa
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/103/403/s217/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs217%2Fb
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/105/135/s223/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs223%2Fa%2F1
-[/us/pl/105/135/s223/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs223%2Fa%2F2%2FA%2Fi
-[/us/pl/105/135/s223/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs223%2Fa%2F2%2FA%2Fii
-[/us/pl/105/135/s223/a/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs223%2Fa%2F2%2FA%2Fiii
-[/us/pl/105/135/s223/a/2/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs223%2Fa%2F2%2FA%2Fiv
-[/us/pl/105/135/s223/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs223%2Fa%2F2%2FB
-[/us/pl/105/135/s223/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs223%2Fa%2F3
-[/us/pl/105/135/s223/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs223%2Fa%2F4
-[/us/pl/105/135/s223/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs223%2Fa%2F5
-[/us/pl/105/135/s223/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs223%2Fa%2F6
-[/us/pl/105/135/s223/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs223%2Fa%2F7
-[/us/pl/105/135/s223/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs223%2Fa%2F8
-[/us/pl/103/403/s217/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs217%2Fb
+[/us/pl/108/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F232
+[/us/pl/108/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F232
+[/us/pl/108/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F232
+[/us/pl/108/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F232
+[/us/pl/108/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F232
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/105/135/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs3
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/pl/103/403/s217/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs217%2Fb
-[/us/pl/105/135/s223/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs223%2Fc
+[/us/pl/105/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtII
 [/us/stat/111/2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2606
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/105/135/s223/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs223%2Fb
+[/us/pl/105/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtII
 [/us/stat/111/2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2606
 
 

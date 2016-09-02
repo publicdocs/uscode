@@ -29,7 +29,7 @@
 
         shall be reinstated on motion by the plaintiff not later than 60 days after December 19, 1991.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 27A, as added [Pub. L. 102–242, title IV, § 476][/us/pl/102/242/s476], Dec. 19, 1991, [105 Stat. 2387][/us/stat/105/2387].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 27A, as added [Pub. L. 102–242, title IV][/us/pl/102/242/tIV], § 476, Dec. 19, 1991, [105 Stat. 2387][/us/stat/105/2387].)
 
  __Constitutionality__ 
 
@@ -45,7 +45,7 @@ For information regarding constitutionality of certain provisions of section 27A
 [/us/usc/t15/s78j/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78j%2Fb
 [/us/usc/t15/s78j/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78j%2Fb
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/102/242/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs476
+[/us/pl/102/242/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtIV
 [/us/stat/105/2387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2387
 [/us/pl/102/242/s476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs476
 

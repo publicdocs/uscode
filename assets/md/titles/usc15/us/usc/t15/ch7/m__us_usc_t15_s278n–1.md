@@ -33,7 +33,7 @@
 
         Not later than 18 months after January 4, 2011, the Director shall submit to Congress and make publicly available a report describing the assessment performed under subsection (b)(1) and making recommendations about research priorities to address gaps in the measurement, technical standards, and conformity assessment needs identified by the assessment.
 
-([Pub. L. 111–358, title IV, § 405][/us/pl/111/358/s405], Jan. 4, 2011, [124 Stat. 4003][/us/stat/124/4003].)
+([Pub. L. 111–358, title IV][/us/pl/111/358/tIV], § 405, Jan. 4, 2011, [124 Stat. 4003][/us/stat/124/4003].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 
  __Definitions__ 
 
-[Pub. L. 111–358, title IV, § 409][/us/pl/111/358/s409], Jan. 4, 2011, [124 Stat. 4004][/us/stat/124/4004], provided that: 
+[Pub. L. 111–358, title IV][/us/pl/111/358/tIV], § 409, Jan. 4, 2011, [124 Stat. 4004][/us/stat/124/4004], provided that: 
 
 > “In this title \[enacting this section and sections 273a and 278n–2 of this title, amending sections 274, 278g–1, 278g–2, 278g–2a, and 278k of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees, and repealing [section 1533 of this title][/us/usc/t15/s1533] and provisions set out as a note under [section 278k of this title][/us/usc/t15/s278k]\]:
 
@@ -64,9 +64,9 @@
 ----------
 ----------
 
-[/us/pl/111/358/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs405
+[/us/pl/111/358/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtIV
 [/us/stat/124/4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4003
-[/us/pl/111/358/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs409
+[/us/pl/111/358/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtIV
 [/us/stat/124/4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4004
 [/us/usc/t15/s1533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1533
 [/us/usc/t15/s278k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278k

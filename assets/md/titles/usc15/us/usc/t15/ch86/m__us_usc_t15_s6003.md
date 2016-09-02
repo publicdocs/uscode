@@ -17,7 +17,7 @@
 
     Not later than May 1, 1997, the Administrator of the National Highway Traffic Safety Administration shall report to Congress on the effectiveness of the grant program established by [section 6001 of this title][/us/usc/t15/s6001]. The report shall include a list of grant recipients, a summary of the types of programs implemented by the grantees, and any recommendation by the Administrator regarding how the program should be changed in the future.
 
-([Pub. L. 103–267, title II, § 204][/us/pl/103/267/s204], June 16, 1994, [108 Stat. 727][/us/stat/108/727].)
+([Pub. L. 103–267, title II][/us/pl/103/267/tII], § 204, June 16, 1994, [108 Stat. 727][/us/stat/108/727].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t15/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6001
-[/us/pl/103/267/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2Fs204
+[/us/pl/103/267/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2FtII
 [/us/stat/108/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F727
 
 

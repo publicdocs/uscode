@@ -17,7 +17,7 @@
 
     It shall be the duty of each United States attorney, to whom satisfactory evidence of any violation of sections 237 to 242 of this title is presented, to cause appropriate proceedings to be commenced and prosecuted in the United States court having jurisdiction of such offense.
 
-([Aug. 23, 1916, ch. 396, § 6][/us/act/1916-08-23/ch396/s6], [39 Stat. 531][/us/stat/39/531]; [June 25, 1948, ch. 646, § 1][/us/act/1948-06-25/ch646/s1], [62 Stat. 909][/us/stat/62/909].)
+([Aug. 23, 1916, ch. 396][/us/act/1916-08-23/ch396], § 6, [39 Stat. 531][/us/stat/39/531]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 1, [62 Stat. 909][/us/stat/62/909].)
 
  __Change of Name__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1916-08-23/ch396/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-23%2Fch396%2Fs6
+[/us/act/1916-08-23/ch396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-23%2Fch396
 [/us/stat/39/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F531
-[/us/act/1948-06-25/ch646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs1
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F909
 [/us/usc/t28/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs541
 

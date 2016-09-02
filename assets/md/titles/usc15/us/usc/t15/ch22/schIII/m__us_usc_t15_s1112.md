@@ -17,11 +17,11 @@
 
     The Director may establish a classification of goods and services, for convenience of Patent and Trademark Office administration, but not to limit or extend the applicant’s or registrant’s rights. The applicant may apply to register a mark for any or all of the goods or services on or in connection with which he or she is using or has a bona fide intention to use the mark in commerce: Provided, That if the Director by regulation permits the filing of an application for the registration of a mark for goods or services which fall within a plurality of classes, a fee equaling the sum of the fees for filing an application in each class shall be paid, and the Director may issue a single certificate of registration for such mark.
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title IV, § 30, [60 Stat. 436][/us/stat/60/436]; [Pub. L. 87–772, § 16][/us/pl/87/772/s16], Oct. 9, 1962, [76 Stat. 773][/us/stat/76/773]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 100–667, title I, § 126][/us/pl/100/667/s126], Nov. 16, 1988, [102 Stat. 3943][/us/stat/102/3943]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(1)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583.)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title IV, § 30, [60 Stat. 436][/us/stat/60/436]; [Pub. L. 87–772][/us/pl/87/772], § 16, Oct. 9, 1962, [76 Stat. 773][/us/stat/76/773]; [Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 100–667, title I][/us/pl/100/667/tI], § 126, Nov. 16, 1988, [102 Stat. 3943][/us/stat/102/3943]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(1)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583.)
 
  __Prior Provisions__ 
 
-    [Act May 4, 1906, ch. 2081, § 2][/us/act/1906-05-04/ch2081/s2], [34 Stat. 169][/us/stat/34/169].
+    [Act May 4, 1906, ch. 2081][/us/act/1906-05-04/ch2081], § 2, [34 Stat. 169][/us/stat/34/169].
 
  __Amendments__ 
 
@@ -62,15 +62,15 @@
 
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F436
-[/us/pl/87/772/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772%2Fs16
+[/us/pl/87/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772
 [/us/stat/76/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F773
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/100/667/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs126
+[/us/pl/100/667/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtI
 [/us/stat/102/3943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3943
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/act/1906-05-04/ch2081/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-05-04%2Fch2081%2Fs2
+[/us/act/1906-05-04/ch2081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-05-04%2Fch2081
 [/us/stat/34/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F169
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667

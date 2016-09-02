@@ -83,7 +83,7 @@
 
         (4) fulfill the requirements of this subsection either directly or by contract.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[35\], as added [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, § 112\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–680.)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[35\], as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title I, § 112\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–680.)
 
 ----------
 
@@ -96,8 +96,8 @@
 [/us/usc/t15/s657d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657d
 [/us/usc/t15/s657d/c/1/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657d%2Fc%2F1%2FE%2Fii
 [/us/usc/t15/s638/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638%2Fk%2F1
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

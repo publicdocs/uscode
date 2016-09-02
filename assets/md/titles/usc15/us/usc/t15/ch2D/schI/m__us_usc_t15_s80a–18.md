@@ -109,7 +109,7 @@
 
         The provisions of subparagraphs (A) and (B) of paragraph (1) of subsection (a) of this section shall not apply to investment companies operating under the Small Business Investment Act of 1958 \[[15 U.S.C. 661][/us/usc/t15/s661] et seq.\], and the provisions of paragraph (2) of said subsection shall not apply to such companies so long as such class of senior security shall be held or guaranteed by the Small Business Administration.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 18, [54 Stat. 817][/us/stat/54/817]; [Pub. L. 85–699, title III, § 307(c)][/us/pl/85/699/s307/c], Aug. 21, 1958, [72 Stat. 694][/us/stat/72/694]; [Pub. L. 91–547, § 10][/us/pl/91/547/s10], Dec. 14, 1970, [84 Stat. 1421][/us/stat/84/1421]; [Pub. L. 85–699, title III, § 317][/us/pl/85/699/s317], formerly § 319, Aug. 21, 1958, as added [Pub. L. 92–595, § 2(g)][/us/pl/92/595/s2/g], Oct. 27, 1972, [86 Stat. 1316][/us/stat/86/1316], renumbered § 317, [Pub. L. 104–208, div. D, title II, § 208(h)(1)(E)][/us/pl/104/208/s208/h/1/E], Sept. 30, 1996, [110 Stat. 3009–747][/us/stat/110/3009-747]; [Pub. L. 94–29, § 28(4)][/us/pl/94/29/s28/4], June 4, 1975, [89 Stat. 165][/us/stat/89/165]; [Pub. L. 100–181, title VI, § 613][/us/pl/100/181/s613], Dec. 4, 1987, [101 Stat. 1261][/us/stat/101/1261]; [Pub. L. 105–353, title III, § 301(c)(4)][/us/pl/105/353/s301/c/4], Nov. 3, 1998, [112 Stat. 3236][/us/stat/112/3236].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 18, [54 Stat. 817][/us/stat/54/817]; [Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 307(c), Aug. 21, 1958, [72 Stat. 694][/us/stat/72/694]; [Pub. L. 91–547][/us/pl/91/547], § 10, Dec. 14, 1970, [84 Stat. 1421][/us/stat/84/1421]; [Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 317, formerly § 319, Aug. 21, 1958, as added [Pub. L. 92–595][/us/pl/92/595], § 2(g), Oct. 27, 1972, [86 Stat. 1316][/us/stat/86/1316], renumbered § 317, [Pub. L. 104–208, div. D, title II][/us/pl/104/208/dD/tII], § 208(h)(1)(E), Sept. 30, 1996, [110 Stat. 3009–747][/us/stat/110/3009-747]; [Pub. L. 94–29][/us/pl/94/29], § 28(4), June 4, 1975, [89 Stat. 165][/us/stat/89/165]; [Pub. L. 100–181, title VI][/us/pl/100/181/tVI], § 613, Dec. 4, 1987, [101 Stat. 1261][/us/stat/101/1261]; [Pub. L. 105–353, title III][/us/pl/105/353/tIII], § 301(c)(4), Nov. 3, 1998, [112 Stat. 3236][/us/stat/112/3236].)
 
  __References in Text__ 
 
@@ -153,20 +153,20 @@
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F817
-[/us/pl/85/699/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs307%2Fc
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
 [/us/stat/72/694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F694
-[/us/pl/91/547/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs10
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1421
-[/us/pl/85/699/s317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs317
-[/us/pl/92/595/s2/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595%2Fs2%2Fg
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/92/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595
 [/us/stat/86/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1316
-[/us/pl/104/208/s208/h/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fh%2F1%2FE
+[/us/pl/104/208/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD%2FtII
 [/us/stat/110/3009-747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-747
-[/us/pl/94/29/s28/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs28%2F4
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F165
-[/us/pl/100/181/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs613
+[/us/pl/100/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVI
 [/us/stat/101/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1261
-[/us/pl/105/353/s301/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fc%2F4
+[/us/pl/105/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtIII
 [/us/stat/112/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3236
 [/us/pl/85/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699
 [/us/stat/72/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F689

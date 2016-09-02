@@ -57,37 +57,37 @@
 
         A copy of each such report shall, at the time of such transmission to indenture security holders, be filed with each stock exchange upon which the indenture securities are listed, and also with the Commission.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 313, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1165][/us/stat/53/1165]; amended [Pub. L. 101–550, title IV][/us/pl/101/550], §§ 411, 412, Nov. 15, 1990, [104 Stat. 2729][/us/stat/104/2729]; [Pub. L. 105–353, title III, § 301(e)(3)][/us/pl/105/353/s301/e/3], Nov. 3, 1998, [112 Stat. 3237][/us/stat/112/3237].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 313, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1165][/us/stat/53/1165]; amended [Pub. L. 101–550, title IV][/us/pl/101/550/tIV], §§ 411, 412, Nov. 15, 1990, [104 Stat. 2729][/us/stat/104/2729]; [Pub. L. 105–353, title III][/us/pl/105/353/tIII], § 301(e)(3), Nov. 3, 1998, [112 Stat. 3237][/us/stat/112/3237].)
 
  __Amendments__ 
 
-    1998—Subsec. (a)(4). [Pub. L. 105–353, § 301(e)(3)(A)][/us/pl/105/353/s301/e/3/A], inserted “any change to” before “the amount”.
+    1998—Subsec. (a)(4). [Pub. L. 105–353][/us/pl/105/353], § 301(e)(3)(A), inserted “any change to” before “the amount”.
 
-    Subsec. (a)(6). [Pub. L. 105–353, § 301(e)(3)(B)][/us/pl/105/353/s301/e/3/B], struck out “any change to” before “any release”.
+    Subsec. (a)(6). [Pub. L. 105–353][/us/pl/105/353], § 301(e)(3)(B), struck out “any change to” before “any release”.
 
-    1990—Subsec. (a). [Pub. L. 101–550, § 411(1)][/us/pl/101/550/s411/1], (2), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to” and inserted “any of the following events which may have occurred within the previous 12 months (but if no such event has occurred within such period no report need be transmitted):” after “a brief report with respect to”.
+    1990—Subsec. (a). [Pub. L. 101–550][/us/pl/101/550], § 411(1), (2), substituted “The indenture trustee shall” for “The indenture to be qualified shall contain provisions requiring the indenture trustee to” and inserted “any of the following events which may have occurred within the previous 12 months (but if no such event has occurred within such period no report need be transmitted):” after “a brief report with respect to”.
 
-    Subsec. (a)(1). [Pub. L. 101–550, § 411(3)][/us/pl/101/550/s411/3], (4), inserted “any change to” before “its eligibility” and struck out “, or in lieu thereof, if to the best of its knowledge it has continued to be eligible and qualified under such section, a written statement to such effect” after “of this title”.
+    Subsec. (a)(1). [Pub. L. 101–550][/us/pl/101/550], § 411(3), (4), inserted “any change to” before “its eligibility” and struck out “, or in lieu thereof, if to the best of its knowledge it has continued to be eligible and qualified under such section, a written statement to such effect” after “of this title”.
 
-    Subsec. (a)(2). [Pub. L. 101–550, § 411(5)][/us/pl/101/550/s411/5], added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (a)(2). [Pub. L. 101–550][/us/pl/101/550], § 411(5), added par. (2) and redesignated former par. (2) as (3).
 
-    Subsec. (a)(3), (4). [Pub. L. 101–550, § 411(5)(A)][/us/pl/101/550/s411/5/A], redesignated pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
+    Subsec. (a)(3), (4). [Pub. L. 101–550][/us/pl/101/550], § 411(5)(A), redesignated pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
 
-    Subsec. (a)(5). [Pub. L. 101–550, § 411(5)(A)][/us/pl/101/550/s411/5/A], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+    Subsec. (a)(5). [Pub. L. 101–550][/us/pl/101/550], § 411(5)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-    [Pub. L. 101–550, § 411(3)][/us/pl/101/550/s411/3], inserted “any change to” after the paragraph designation.
+    [Pub. L. 101–550][/us/pl/101/550], § 411(3), inserted “any change to” after the paragraph designation.
 
-    Subsec. (a)(6). [Pub. L. 101–550, § 411(5)(A)][/us/pl/101/550/s411/5/A], redesignated par. (5) as (6). Former par. (6) redesignated (7).
+    Subsec. (a)(6). [Pub. L. 101–550][/us/pl/101/550], § 411(5)(A), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-    [Pub. L. 101–550, § 411(3)][/us/pl/101/550/s411/3], inserted “any change to” after the paragraph designation.
+    [Pub. L. 101–550][/us/pl/101/550], § 411(3), inserted “any change to” after the paragraph designation.
 
-    Subsec. (a)(7), (8). [Pub. L. 101–550, § 411(5)(A)][/us/pl/101/550/s411/5/A], redesignated pars. (6) and (7) as (7) and (8), respectively.
+    Subsec. (a)(7), (8). [Pub. L. 101–550][/us/pl/101/550], § 411(5)(A), redesignated pars. (6) and (7) as (7) and (8), respectively.
 
-    Subsec. (b). [Pub. L. 101–550, § 412(1)][/us/pl/101/550/s412/1], substituted “The indenture trustee shall” for “The indenture to be qualified shall also contain provisions requiring the indenture trustee to”.
+    Subsec. (b). [Pub. L. 101–550][/us/pl/101/550], § 412(1), substituted “The indenture trustee shall” for “The indenture to be qualified shall also contain provisions requiring the indenture trustee to”.
 
-    Subsec. (c). [Pub. L. 101–550, § 412(2)][/us/pl/101/550/s412/2], substituted “Reports” for “The indenture to be qualified shall also provide that reports”.
+    Subsec. (c). [Pub. L. 101–550][/us/pl/101/550], § 412(2), substituted “Reports” for “The indenture to be qualified shall also provide that reports”.
 
-    Subsec. (d). [Pub. L. 101–550, § 412(3)][/us/pl/101/550/s412/3], substituted “A copy” for “The indenture to be qualified shall also provide that a copy”.
+    Subsec. (d). [Pub. L. 101–550][/us/pl/101/550], § 412(3), substituted “A copy” for “The indenture to be qualified shall also provide that a copy”.
 
  __Transfer of Functions__ 
 
@@ -107,24 +107,24 @@
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/act/1939-08-03/ch411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-03%2Fch411
 [/us/stat/53/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1165
-[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtIV
 [/us/stat/104/2729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2729
-[/us/pl/105/353/s301/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fe%2F3
+[/us/pl/105/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtIII
 [/us/stat/112/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3237
-[/us/pl/105/353/s301/e/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fe%2F3%2FA
-[/us/pl/105/353/s301/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fe%2F3%2FB
-[/us/pl/101/550/s411/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs411%2F1
-[/us/pl/101/550/s411/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs411%2F3
-[/us/pl/101/550/s411/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs411%2F5
-[/us/pl/101/550/s411/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs411%2F5%2FA
-[/us/pl/101/550/s411/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs411%2F5%2FA
-[/us/pl/101/550/s411/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs411%2F3
-[/us/pl/101/550/s411/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs411%2F5%2FA
-[/us/pl/101/550/s411/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs411%2F3
-[/us/pl/101/550/s411/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs411%2F5%2FA
-[/us/pl/101/550/s412/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs412%2F1
-[/us/pl/101/550/s412/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs412%2F2
-[/us/pl/101/550/s412/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs412%2F3
+[/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
+[/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t15/s78d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d
 

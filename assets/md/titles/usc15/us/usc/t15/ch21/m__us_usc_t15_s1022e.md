@@ -43,7 +43,7 @@
 
         (8) such other administrative actions and recommendations for legislation as the President deems desirable, to promote reasonable price stability.
 
-([Feb. 20, 1946, ch. 33, § 8][/us/act/1946-02-20/ch33/s8], as added [Pub. L. 95–523, title I, § 109][/us/pl/95/523/s109], Oct. 27, 1978, [92 Stat. 1898][/us/stat/92/1898].)
+([Feb. 20, 1946, ch. 33][/us/act/1946-02-20/ch33], § 8, as added [Pub. L. 95–523, title I][/us/pl/95/523/tI], § 109, Oct. 27, 1978, [92 Stat. 1898][/us/stat/92/1898].)
 
 ----------
 
@@ -55,8 +55,8 @@
 [/us/usc/t15/s1022/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1022%2Fa%2F3
 [/us/usc/t15/s1022a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1022a%2Fa
 [/us/usc/t15/s1022b/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1022b%2Fb
-[/us/act/1946-02-20/ch33/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-20%2Fch33%2Fs8
-[/us/pl/95/523/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs109
+[/us/act/1946-02-20/ch33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-20%2Fch33
+[/us/pl/95/523/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2FtI
 [/us/stat/92/1898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1898
 
 

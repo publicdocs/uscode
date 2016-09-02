@@ -29,7 +29,7 @@
 
     Third. That the association shall not deal in the products of nonmembers to an amount greater in value than such as are handled by it for members.
 
-([June 25, 1934, ch. 742, § 1][/us/act/1934-06-25/ch742/s1], [48 Stat. 1213][/us/stat/48/1213].)
+([June 25, 1934, ch. 742][/us/act/1934-06-25/ch742], § 1, [48 Stat. 1213][/us/stat/48/1213].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-25/ch742/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-25%2Fch742%2Fs1
+[/us/act/1934-06-25/ch742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-25%2Fch742
 [/us/stat/48/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1213
 
 

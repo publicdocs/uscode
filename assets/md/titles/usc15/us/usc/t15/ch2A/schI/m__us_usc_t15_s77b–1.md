@@ -35,7 +35,7 @@
 
         (4) References in this subchapter to the “purchase” or “sale” of a security-based swap agreement shall be deemed to mean the execution, termination (prior to its scheduled maturity date), assignment, exchange, or similar transfer or conveyance of, or extinguishing of rights or obligations under, a security-based swap agreement (as defined in [section 78c(a)(78) of this title][/us/usc/t15/s78c/a/78]), as the context may require.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 2A, as added [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title III, § 302(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–451; amended [Pub. L. 111–203, title VII, § 762(c)(1)][/us/pl/111/203/s762/c/1], July 21, 2010, [124 Stat. 1759][/us/stat/124/1759].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 2A, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title III, § 302(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–451; amended [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 762(c)(1), July 21, 2010, [124 Stat. 1759][/us/stat/124/1759].)
 
  __Amendment of Section__ 
 
@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 762(c)(1)(A)][/us/pl/111/203/s762/c/1/A], struck out subsec. (a) and reserved subsec. (a) designation. Text read as follows: “The definition of ‘security’ in [section 77b(a)(1) of this title][/us/usc/t15/s77b/a/1] does not include any non-security-based swap agreement (as defined in section 206C of the Gramm-Leach-Bliley Act).”
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 762(c)(1)(A), struck out subsec. (a) and reserved subsec. (a) designation. Text read as follows: “The definition of ‘security’ in [section 77b(a)(1) of this title][/us/usc/t15/s77b/a/1] does not include any non-security-based swap agreement (as defined in section 206C of the Gramm-Leach-Bliley Act).”
 
-    Subsec. (b). [Pub. L. 111–203, § 762(c)(1)(B)][/us/pl/111/203/s762/c/1/B], substituted “(as defined in [section 78c(a)(78) of this title][/us/usc/t15/s78c/a/78])” for “(as defined in section 206B of the Gramm-Leach-Bliley Act)” wherever appearing.
+    Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 762(c)(1)(B), substituted “(as defined in [section 78c(a)(78) of this title][/us/usc/t15/s78c/a/78])” for “(as defined in section 206B of the Gramm-Leach-Bliley Act)” wherever appearing.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -64,14 +64,14 @@
 [/us/usc/t15/s78c/a/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F78
 [/us/usc/t15/s78c/a/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F78
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/203/s762/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fc%2F1
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1759
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/111/203/s762/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fc%2F1%2FA
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s77b/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77b%2Fa%2F1
-[/us/pl/111/203/s762/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fc%2F1%2FB
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78c/a/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F78
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

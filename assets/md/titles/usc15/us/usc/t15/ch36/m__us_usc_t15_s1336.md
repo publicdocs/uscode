@@ -17,7 +17,7 @@
 
     Nothing in this chapter (other than the requirements of [section 1333 of this title][/us/usc/t15/s1333]) shall be construed to limit, restrict, expand, or otherwise affect the authority of the Federal Trade Commission with respect to unfair or deceptive acts or practices in the advertising of cigarettes.
 
-([Pub. L. 89–92, § 8][/us/pl/89/92/s8], formerly § 7, July 27, 1965, [79 Stat. 283][/us/stat/79/283]; [Pub. L. 91–222, § 2][/us/pl/91/222/s2], Apr. 1, 1970, [84 Stat. 89][/us/stat/84/89]; renumbered § 8 and amended [Pub. L. 98–474][/us/pl/98/474], §§ 5(a), 6(c), Oct. 12, 1984, [98 Stat. 2203][/us/stat/98/2203], 2204; [Pub. L. 99–92, § 12][/us/pl/99/92/s12], Aug. 16, 1985, [99 Stat. 404][/us/stat/99/404].)
+([Pub. L. 89–92][/us/pl/89/92], § 8, formerly § 7, July 27, 1965, [79 Stat. 283][/us/stat/79/283]; [Pub. L. 91–222][/us/pl/91/222], § 2, Apr. 1, 1970, [84 Stat. 89][/us/stat/84/89]; renumbered § 8 and amended [Pub. L. 98–474][/us/pl/98/474], §§ 5(a), 6(c), Oct. 12, 1984, [98 Stat. 2203][/us/stat/98/2203], 2204; [Pub. L. 99–92][/us/pl/99/92], § 12, Aug. 16, 1985, [99 Stat. 404][/us/stat/99/404].)
 
  __Prior Provisions__ 
 
@@ -43,13 +43,13 @@
 ----------
 
 [/us/usc/t15/s1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1333
-[/us/pl/89/92/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F92%2Fs8
+[/us/pl/89/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F92
 [/us/stat/79/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F283
-[/us/pl/91/222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222%2Fs2
+[/us/pl/91/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222
 [/us/stat/84/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F89
 [/us/pl/98/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F474
 [/us/stat/98/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2203
-[/us/pl/99/92/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92%2Fs12
+[/us/pl/99/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92
 [/us/stat/99/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F404
 [/us/pl/89/92/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F92%2Fs8
 [/us/usc/t15/s1337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1337

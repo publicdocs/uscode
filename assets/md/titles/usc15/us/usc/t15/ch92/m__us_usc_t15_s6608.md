@@ -27,7 +27,7 @@
 
         Subsection (a) does not apply to damages suffered by reason of the plaintiff’s justifiable reliance upon an affirmative material misrepresentation by the defendant, made by the defendant with actual knowledge of its falsity, concerning the potential for Y2K failure of the device or system used or sold by the defendant that experienced the Y2K failure alleged to have caused the plaintiff’s harm.
 
-([Pub. L. 106–37, § 9][/us/pl/106/37/s9], July 20, 1999, [113 Stat. 198][/us/stat/113/198].)
+([Pub. L. 106–37][/us/pl/106/37], § 9, July 20, 1999, [113 Stat. 198][/us/stat/113/198].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/106/37/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37%2Fs9
+[/us/pl/106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37
 [/us/stat/113/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F198
 
 

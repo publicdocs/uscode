@@ -77,7 +77,7 @@
 
         For purposes of this section, only the warrantor actually making a written affirmation of fact, promise, or undertaking shall be deemed to have created a written warranty, and any rights arising thereunder may be enforced under this section only against such warrantor and no other person.
 
-([Pub. L. 93–637, title I, § 110][/us/pl/93/637/s110], Jan. 4, 1975, [88 Stat. 2189][/us/stat/88/2189].)
+([Pub. L. 93–637, title I][/us/pl/93/637/tI], § 110, Jan. 4, 1975, [88 Stat. 2189][/us/stat/88/2189].)
 
  __References in Text__ 
 
@@ -92,7 +92,7 @@
 
 [/us/usc/t15/s45/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45%2Fa%2F1
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
-[/us/pl/93/637/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs110
+[/us/pl/93/637/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2FtI
 [/us/stat/88/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2189
 
 

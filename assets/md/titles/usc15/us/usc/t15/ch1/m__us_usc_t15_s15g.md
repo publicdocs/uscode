@@ -29,7 +29,7 @@
 
     (3) The term “natural persons” does not include proprietorships or partnerships.
 
-([Oct. 15, 1914, ch. 323, § 4G][/us/act/1914-10-15/ch323/s4G], as added [Pub. L. 94–435, title III, § 301][/us/pl/94/435/s301], Sept. 30, 1976, [90 Stat. 1396][/us/stat/90/1396].)
+([Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], § 4G, as added [Pub. L. 94–435, title III][/us/pl/94/435/tIII], § 301, Sept. 30, 1976, [90 Stat. 1396][/us/stat/90/1396].)
 
  __Effective Date__ 
 
@@ -44,8 +44,8 @@
 
 [/us/usc/t15/s15c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs15c
 [/us/usc/t15/s15c/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs15c%2Fd%2F1
-[/us/act/1914-10-15/ch323/s4G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323%2Fs4G
-[/us/pl/94/435/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs301
+[/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
+[/us/pl/94/435/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2FtIII
 [/us/stat/90/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1396
 [/us/pl/94/435/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs304
 [/us/usc/t15/s15c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs15c

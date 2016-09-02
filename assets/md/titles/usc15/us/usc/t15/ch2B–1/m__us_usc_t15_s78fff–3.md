@@ -91,7 +91,7 @@
 
             (C) such other factors as the Board of Directors of SIPC may determine appropriate.
 
-([Pub. L. 91–598, § 9][/us/pl/91/598/s9], as added [Pub. L. 95–283, § 9][/us/pl/95/283/s9], May 21, 1978, [92 Stat. 265][/us/stat/92/265]; amended [Pub. L. 96–433, § 1][/us/pl/96/433/s1], Oct. 10, 1980, [94 Stat. 1855][/us/stat/94/1855]; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 929H(a), 983(a), July 21, 2010, [124 Stat. 1856][/us/stat/124/1856], 1931.)
+([Pub. L. 91–598][/us/pl/91/598], § 9, as added [Pub. L. 95–283][/us/pl/95/283], § 9, May 21, 1978, [92 Stat. 265][/us/stat/92/265]; amended [Pub. L. 96–433][/us/pl/96/433], § 1, Oct. 10, 1980, [94 Stat. 1855][/us/stat/94/1855]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], §§ 929H(a), 983(a), July 21, 2010, [124 Stat. 1856][/us/stat/124/1856], 1931.)
 
  __References in Text__ 
 
@@ -103,15 +103,15 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–203, § 983(a)][/us/pl/111/203/s983/a], inserted “or options on commodity futures contracts” after “claim for securities”.
+    2010—Subsec. (a)(1). [Pub. L. 111–203][/us/pl/111/203], § 983(a), inserted “or options on commodity futures contracts” after “claim for securities”.
 
-    [Pub. L. 111–203, § 929H(a)(1)][/us/pl/111/203/s929H/a/1], substituted “the standard maximum cash advance amount for each such customer, as determined in accordance with subsection (d)” for “$100,000 for each such customer”.
+    [Pub. L. 111–203][/us/pl/111/203], § 929H(a)(1), substituted “the standard maximum cash advance amount for each such customer, as determined in accordance with subsection (d)” for “$100,000 for each such customer”.
 
-    Subsecs. (d), (e). [Pub. L. 111–203, § 929H(a)(2)][/us/pl/111/203/s929H/a/2], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 111–203][/us/pl/111/203], § 929H(a)(2), added subsecs. (d) and (e).
 
-    1980—Subsec. (a). [Pub. L. 96–433, § 1(1)][/us/pl/96/433/s1/1], substituted in opening par. “$500,000” for “$100,000”.
+    1980—Subsec. (a). [Pub. L. 96–433][/us/pl/96/433], § 1(1), substituted in opening par. “$500,000” for “$100,000”.
 
-    Subsec. (a)(1). [Pub. L. 96–433, § 1(2)][/us/pl/96/433/s1/2], substituted “$100,000” for “$40,000”.
+    Subsec. (a)(1). [Pub. L. 96–433][/us/pl/96/433], § 1(2), substituted “$100,000” for “$40,000”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -135,22 +135,22 @@
 [/us/usc/t15/s78fff–2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78fff%E2%80%932%2Ff
 [/us/usc/t15/s78fff–2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78fff%E2%80%932%2Fd
 [/us/usc/t15/s78ccc/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78ccc%2Fe%2F2
-[/us/pl/91/598/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598%2Fs9
-[/us/pl/95/283/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs9
+[/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/stat/92/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F265
-[/us/pl/96/433/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F433%2Fs1
+[/us/pl/96/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F433
 [/us/stat/94/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1855
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1856
 [/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1636
 [/us/pl/91/598/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598%2Fs9
 [/us/usc/t15/s78iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78iii
-[/us/pl/111/203/s983/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs983%2Fa
-[/us/pl/111/203/s929H/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929H%2Fa%2F1
-[/us/pl/111/203/s929H/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929H%2Fa%2F2
-[/us/pl/96/433/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F433%2Fs1%2F1
-[/us/pl/96/433/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F433%2Fs1%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/96/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F433
+[/us/pl/96/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F433
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

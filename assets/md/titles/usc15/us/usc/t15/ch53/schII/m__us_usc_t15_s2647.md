@@ -85,7 +85,7 @@
 
         and who fails to obtain the accreditation under [section 2646 of this title][/us/usc/t15/s2646], or in the case of employees to require or provide for the accreditation required, is liable for a civil penalty of not more than $5,000 for each day during which the violation continues, unless such contractor is a direct employee of the Federal Government.
 
-([Pub. L. 94–469, title II, § 207][/us/pl/94/469/s207], as added [Pub. L. 99–519, § 2][/us/pl/99/519/s2], Oct. 22, 1986, [100 Stat. 2983][/us/stat/100/2983]; amended [Pub. L. 100–368, § 5][/us/pl/100/368/s5], July 18, 1988, [102 Stat. 833][/us/stat/102/833]; [Pub. L. 101–637, § 15(a)(4)][/us/pl/101/637/s15/a/4], Nov. 28, 1990, [104 Stat. 4596][/us/stat/104/4596].)
+([Pub. L. 94–469, title II][/us/pl/94/469/tII], § 207, as added [Pub. L. 99–519][/us/pl/99/519], § 2, Oct. 22, 1986, [100 Stat. 2983][/us/stat/100/2983]; amended [Pub. L. 100–368][/us/pl/100/368], § 5, July 18, 1988, [102 Stat. 833][/us/stat/102/833]; [Pub. L. 101–637][/us/pl/101/637], § 15(a)(4), Nov. 28, 1990, [104 Stat. 4596][/us/stat/104/4596].)
 
  __Amendments__ 
 
@@ -126,12 +126,12 @@
 [/us/usc/t15/s2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2643
 [/us/usc/t15/s2619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2619
 [/us/usc/t15/s2646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2646
-[/us/pl/94/469/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs207
-[/us/pl/99/519/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs2
+[/us/pl/94/469/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtII
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2983
-[/us/pl/100/368/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F368%2Fs5
+[/us/pl/100/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F368
 [/us/stat/102/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F833
-[/us/pl/101/637/s15/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637%2Fs15%2Fa%2F4
+[/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/stat/104/4596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4596
 [/us/pl/101/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F637
 [/us/pl/100/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F368

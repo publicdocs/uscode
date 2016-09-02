@@ -17,7 +17,7 @@
 
     Every contract, combination in the form of trust or otherwise, or conspiracy, in restraint of trade or commerce among the several States, or with foreign nations, is declared to be illegal. Every person who shall make any contract or engage in any combination or conspiracy hereby declared to be illegal shall be deemed guilty of a felony, and, on conviction thereof, shall be punished by fine not exceeding $100,000,000 if a corporation, or, if any other person, $1,000,000, or by imprisonment not exceeding 10 years, or by both said punishments, in the discretion of the court.
 
-([July 2, 1890, ch. 647, § 1][/us/act/1890-07-02/ch647/s1], [26 Stat. 209][/us/stat/26/209]; [Aug. 17, 1937, ch. 690][/us/act/1937-08-17/ch690], title VIII, [50 Stat. 693][/us/stat/50/693]; [July 7, 1955, ch. 281][/us/act/1955-07-07/ch281], [69 Stat. 282][/us/stat/69/282]; [Pub. L. 93–528, § 3][/us/pl/93/528/s3], Dec. 21, 1974, [88 Stat. 1708][/us/stat/88/1708]; [Pub. L. 94–145, § 2][/us/pl/94/145/s2], Dec. 12, 1975, [89 Stat. 801][/us/stat/89/801]; [Pub. L. 101–588, § 4(a)][/us/pl/101/588/s4/a], Nov. 16, 1990, [104 Stat. 2880][/us/stat/104/2880]; [Pub. L. 108–237, title II, § 215(a)][/us/pl/108/237/s215/a], June 22, 2004, [118 Stat. 668][/us/stat/118/668].)
+([July 2, 1890, ch. 647][/us/act/1890-07-02/ch647], § 1, [26 Stat. 209][/us/stat/26/209]; [Aug. 17, 1937, ch. 690][/us/act/1937-08-17/ch690], title VIII, [50 Stat. 693][/us/stat/50/693]; [July 7, 1955, ch. 281][/us/act/1955-07-07/ch281], [69 Stat. 282][/us/stat/69/282]; [Pub. L. 93–528][/us/pl/93/528], § 3, Dec. 21, 1974, [88 Stat. 1708][/us/stat/88/1708]; [Pub. L. 94–145][/us/pl/94/145], § 2, Dec. 12, 1975, [89 Stat. 801][/us/stat/89/801]; [Pub. L. 101–588][/us/pl/101/588], § 4(a), Nov. 16, 1990, [104 Stat. 2880][/us/stat/104/2880]; [Pub. L. 108–237, title II][/us/pl/108/237/tII], § 215(a), June 22, 2004, [118 Stat. 668][/us/stat/118/668].)
 
  __Amendments__ 
 
@@ -35,131 +35,131 @@
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–72, § 4][/us/pl/107/72/s4], Nov. 20, 2001, [115 Stat. 650][/us/stat/115/650], provided that: 
+[Pub. L. 107–72][/us/pl/107/72], § 4, Nov. 20, 2001, [115 Stat. 650][/us/stat/115/650], provided that: 
 
 > “This Act \[enacting and amending provisions set out as notes under this section\] and the amendments made by this Act shall take effect on September 30, 2001.”
 
  __Effective Date of 1975 Amendment__ 
 
-[Pub. L. 94–145, § 4][/us/pl/94/145/s4], Dec. 12, 1974, [89 Stat. 801][/us/stat/89/801], provided that: 
+[Pub. L. 94–145][/us/pl/94/145], § 4, Dec. 12, 1974, [89 Stat. 801][/us/stat/89/801], provided that: 
 
 > “The amendments made by sections 2 and 3 of this Act \[amending this section and [section 45 of this title][/us/usc/t15/s45]\] shall take effect upon the expiration of the ninety-day period which begins on the date of enactment of this Act \[Dec. 12, 1975\].”
 
  __Short Title of 2015 Amendment__ 
 
-[Pub. L. 114–44, § 1][/us/pl/114/44/s1], Aug. 6, 2015, [129 Stat. 472][/us/stat/129/472], provided that: 
+[Pub. L. 114–44][/us/pl/114/44], § 1, Aug. 6, 2015, [129 Stat. 472][/us/stat/129/472], provided that: 
 
 > “This Act \[amending provisions set out as a note under this section\] may be cited as the ‘Need-Based Educational Aid Act of 2015’.”
 
  __Short Title of 2009 Amendment__ 
 
-[Pub. L. 111–30, § 1][/us/pl/111/30/s1], June 19, 2009, [123 Stat. 1775][/us/stat/123/1775], provided that: 
+[Pub. L. 111–30][/us/pl/111/30], § 1, June 19, 2009, [123 Stat. 1775][/us/stat/123/1775], provided that: 
 
 > “This Act \[enacting and amending provisions set out as notes under this section\] may be cited as the ‘Antitrust Criminal Penalty Enhancement and Reform Act of 2004 Extension Act’.”
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–327, § 1][/us/pl/110/327/s1], Sept. 30, 2008, [122 Stat. 3566][/us/stat/122/3566], provided that: 
+[Pub. L. 110–327][/us/pl/110/327], § 1, Sept. 30, 2008, [122 Stat. 3566][/us/stat/122/3566], provided that: 
 
 > “This Act \[amending provisions set out as a note under this section\] may be cited as the ‘Need-Based Educational Aid Act of 2008’.”
 
  __Short Title of 2007 Amendment__ 
 
-[Pub. L. 110–6, § 1][/us/pl/110/6/s1], Feb. 26, 2007, [121 Stat. 61][/us/stat/121/61], provided that: 
+[Pub. L. 110–6][/us/pl/110/6], § 1, Feb. 26, 2007, [121 Stat. 61][/us/stat/121/61], provided that: 
 
 > “This Act \[amending provisions set out as a note under this section\] may be cited as the ‘Antitrust Modernization Commission Extension Act of 2007’.”
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–237, title II, § 201][/us/pl/108/237/s201], June 22, 2004, [118 Stat. 665][/us/stat/118/665], provided that: 
+[Pub. L. 108–237, title II][/us/pl/108/237/tII], § 201, June 22, 2004, [118 Stat. 665][/us/stat/118/665], provided that: 
 
 > “This title \[amending this section and sections 2, 3, and 16 of this title and enacting provisions set out as notes under this section and [section 16 of this title][/us/usc/t15/s16]\] may be cited as the ‘Antitrust Criminal Penalty Enhancement and Reform Act of 2004’.”
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–273, div. C, title IV, § 14101][/us/pl/107/273/s14101], Nov. 2, 2002, [116 Stat. 1921][/us/stat/116/1921], provided that: 
+[Pub. L. 107–273, div. C, title IV][/us/pl/107/273/dC/tIV], § 14101, Nov. 2, 2002, [116 Stat. 1921][/us/stat/116/1921], provided that: 
 
 > “This title \[amending sections 3, 12, 27, and 44 of this title, [section 225 of Title 7][/us/usc/t7/s225], Agriculture, [section 1413 of Title 30][/us/usc/t30/s1413], Mineral Lands and Mining, and [section 2135 of Title 42][/us/usc/t42/s2135], The Public Health and Welfare, repealing sections 30 and 31 of this title, enacting provisions set out as a note under [section 3 of this title][/us/usc/t15/s3], amending provisions set out as notes under this section and [section 8 of this title][/us/usc/t15/s8], and repealing provisions set out as notes under [section 15 of this title][/us/usc/t15/s15] and [section 41309 of Title 49][/us/usc/t49/s41309], Transportation\] may be cited as the ‘Antitrust Technical Corrections Act of 2002’.”
 
  __Short Title of 2001 Amendment__ 
 
-[Pub. L. 107–72, § 1][/us/pl/107/72/s1], Nov. 20, 2001, [115 Stat. 648][/us/stat/115/648], provided that: 
+[Pub. L. 107–72][/us/pl/107/72], § 1, Nov. 20, 2001, [115 Stat. 648][/us/stat/115/648], provided that: 
 
 > “This Act \[enacting and amending provisions set out as notes under this section\] may be cited as the ‘Need-Based Educational Aid Act of 2001’.”
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–297, § 1][/us/pl/105/297/s1], Oct. 27, 1998, [112 Stat. 2824][/us/stat/112/2824], provided that: 
+[Pub. L. 105–297][/us/pl/105/297], § 1, Oct. 27, 1998, [112 Stat. 2824][/us/stat/112/2824], provided that: 
 
 > “This Act \[enacting [section 26b of this title][/us/usc/t15/s26b] and provisions set out as a note under [section 26b of this title][/us/usc/t15/s26b]\] may be cited as the ‘Curt Flood Act of 1998’.”
 
  __Short Title of 1997 Amendments__ 
 
-[Pub. L. 105–43, § 1][/us/pl/105/43/s1], Sept. 17, 1997, [111 Stat. 1140][/us/stat/111/1140], provided that: 
+[Pub. L. 105–43][/us/pl/105/43], § 1, Sept. 17, 1997, [111 Stat. 1140][/us/stat/111/1140], provided that: 
 
 > “This Act \[enacting and amending provisions set out as notes below\] may be cited as the ‘Need-Based Educational Aid Antitrust Protection Act of 1997’.”
 
-[Pub. L. 105–26, § 1][/us/pl/105/26/s1], July 3, 1997, [111 Stat. 241][/us/stat/111/241], provided that: 
+[Pub. L. 105–26][/us/pl/105/26], § 1, July 3, 1997, [111 Stat. 241][/us/stat/111/241], provided that: 
 
 > “This Act \[amending sections 37 and 37a of this title and enacting provisions set out as notes under [section 37 of this title][/us/usc/t15/s37]\] may be cited as the ‘Charitable Donation Antitrust Immunity Act of 1997’.”
 
  __Short Title of 1995 Amendment__ 
 
-[Pub. L. 104–63, § 1][/us/pl/104/63/s1], Dec. 8, 1995, [109 Stat. 687][/us/stat/109/687], provided that: 
+[Pub. L. 104–63][/us/pl/104/63], § 1, Dec. 8, 1995, [109 Stat. 687][/us/stat/109/687], provided that: 
 
 > “This Act \[enacting sections 37 and 37a of this title and provisions set out as a note under [section 37 of this title][/us/usc/t15/s37]\] may be cited as the ‘Charitable Gift Annuity Antitrust Relief Act of 1995’.”
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–588, § 1][/us/pl/101/588/s1], Nov. 16, 1990, [104 Stat. 2879][/us/stat/104/2879], provided: 
+[Pub. L. 101–588][/us/pl/101/588], § 1, Nov. 16, 1990, [104 Stat. 2879][/us/stat/104/2879], provided: 
 
 > “That this Act \[amending this section and sections 2, 3, 15a, and 19 of this title and repealing [section 20 of this title][/us/usc/t15/s20]\] may be cited as the ‘Antitrust Amendments Act of 1990’.”
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–544, § 1][/us/pl/98/544/s1], Oct. 24, 1984, [98 Stat. 2750][/us/stat/98/2750], provided: 
+[Pub. L. 98–544][/us/pl/98/544], § 1, Oct. 24, 1984, [98 Stat. 2750][/us/stat/98/2750], provided: 
 
 > “That this Act \[enacting sections 34 to 36 of this title and provisions set out as a note under [section 34 of this title][/us/usc/t15/s34]\] may be cited as the ‘Local Government Antitrust Act of 1984’.”
 
  __Short Title of 1982 Amendment__ 
 
-[Pub. L. 97–290, title IV, § 401][/us/pl/97/290/s401], Oct. 8, 1982, [96 Stat. 1246][/us/stat/96/1246], provided that: 
+[Pub. L. 97–290, title IV][/us/pl/97/290/tIV], § 401, Oct. 8, 1982, [96 Stat. 1246][/us/stat/96/1246], provided that: 
 
 > “This title \[enacting [section 6a of this title][/us/usc/t15/s6a] and amending [section 45 of this title][/us/usc/t15/s45]\] may be cited as the ‘Foreign Trade Antitrust Improvements Act of 1982’.”
 
  __Short Title of 1980 Amendment__ 
 
-[Pub. L. 96–493, § 1][/us/pl/96/493/s1], Dec. 2, 1980, [94 Stat. 2568][/us/stat/94/2568], provided: 
+[Pub. L. 96–493][/us/pl/96/493], § 1, Dec. 2, 1980, [94 Stat. 2568][/us/stat/94/2568], provided: 
 
 > “That this Act \[enacting [section 26a of this title][/us/usc/t15/s26a]\] may be cited as the ‘Gasohol Competition Act of 1980’.”
 
  __Short Title of 1976 Amendment__ 
 
-[Pub. L. 94–435, § 1][/us/pl/94/435/s1], Sept. 30, 1976, [90 Stat. 1383][/us/stat/90/1383], provided: 
+[Pub. L. 94–435][/us/pl/94/435], § 1, Sept. 30, 1976, [90 Stat. 1383][/us/stat/90/1383], provided: 
 
 > “That this Act \[enacting sections 15c to 15h, 18a, and 66 of this title, amending sections 12, 15b, 16, 26, and 1311 to 1314 of this title, [section 1505 of Title 18][/us/usc/t18/s1505], Crimes and Criminal Procedure, and [section 1407 of Title 28][/us/usc/t28/s1407], Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 8, 15c, 18a, and 1311 of this title\] may be cited as the ‘Hart-Scott-Rodino Antitrust Improvements Act of 1976’.”
 
  __Short Title of 1975 Amendment__ 
 
-[Pub. L. 94–145, § 1][/us/pl/94/145/s1], Dec. 12, 1975, [89 Stat. 801][/us/stat/89/801], provided: 
+[Pub. L. 94–145][/us/pl/94/145], § 1, Dec. 12, 1975, [89 Stat. 801][/us/stat/89/801], provided: 
 
 > “That this Act \[amending this section and [section 45 of this title][/us/usc/t15/s45] and enacting provisions set out as a note under this section\] may be cited as the ‘Consumer Goods Pricing Act of 1975’.”
 
  __Short Title of 1974 Amendment__ 
 
-[Pub. L. 93–528, § 1][/us/pl/93/528/s1], Dec. 21, 1974, [88 Stat. 1706][/us/stat/88/1706], provided: 
+[Pub. L. 93–528][/us/pl/93/528], § 1, Dec. 21, 1974, [88 Stat. 1706][/us/stat/88/1706], provided: 
 
 > “That this Act \[amending this section and section 2, 3, 16, 28, and 29 of this title, [section 401 of Title 47][/us/usc/t47/s401], Telecommunications, and sections 43, 44, and 45 of former Title 49, Transportation, and enacting provisions set out as notes under this section and [section 29 of this title][/us/usc/t15/s29]\] may be cited as the ‘Antitrust Procedures and Penalties Act’.”
 
  __Short Title__ 
 
-[Pub. L. 94–435, title III, § 305(a)][/us/pl/94/435/s305/a], Sept. 30, 1976, [90 Stat. 1397][/us/stat/90/1397], added immediately following the enacting clause of act July 2, 1890, the following: 
+[Pub. L. 94–435, title III][/us/pl/94/435/tIII], § 305(a), Sept. 30, 1976, [90 Stat. 1397][/us/stat/90/1397], added immediately following the enacting clause of act July 2, 1890, the following: 
 
 > “That this Act \[this section and sections 2 to 7 of this title\] may be cited as the ‘Sherman Act’.”
 
  __Antitrust Enforcement Enhancements and Cooperation Incentives__ 
 
-[Pub. L. 108–237, title II][/us/pl/108/237], §§ 211–214, June 22, 2004, [118 Stat. 666][/us/stat/118/666], 667, as amended by [Pub. L. 111–30, § 2][/us/pl/111/30/s2], June 19, 2009, [123 Stat. 1775][/us/stat/123/1775]; [Pub. L. 111–190][/us/pl/111/190], §§ 1–4, June 9, 2010, [124 Stat. 1275][/us/stat/124/1275], 1276, provided that:
+[Pub. L. 108–237, title II][/us/pl/108/237/tII], §§ 211–214, June 22, 2004, [118 Stat. 666][/us/stat/118/666], 667, as amended by [Pub. L. 111–30][/us/pl/111/30], § 2, June 19, 2009, [123 Stat. 1775][/us/stat/123/1775]; [Pub. L. 111–190][/us/pl/111/190], §§ 1–4, June 9, 2010, [124 Stat. 1275][/us/stat/124/1275], 1276, provided that:
 
 > “SEC. 211. __SUNSET.__ 
 
@@ -257,13 +257,13 @@
 
 >     “(3) affect, in any way, the joint and several liability of any party to a civil action described in section 213(a) of this subtitle, other than that of the antitrust leniency applicant and cooperating individuals as provided in section 213(a) of this subtitle.”
 
-\[[Pub. L. 111–190, § 6][/us/pl/111/190/s6], June 9, 2010, [124 Stat. 1276][/us/stat/124/1276], provided that: 
+\[[Pub. L. 111–190][/us/pl/111/190], § 6, June 9, 2010, [124 Stat. 1276][/us/stat/124/1276], provided that: 
 
 > “The amendments made by section 1 \[amending [section 211 of Pub. L. 108–237][/us/pl/108/237/s211], set out above\] shall take effect immediately before June 22, 2010.”
 
 \]
 
-\[[Pub. L. 111–30, § 3][/us/pl/111/30/s3], June 19, 2009, [123 Stat. 1775][/us/stat/123/1775], provided that: 
+\[[Pub. L. 111–30][/us/pl/111/30], § 3, June 19, 2009, [123 Stat. 1775][/us/stat/123/1775], provided that: 
 
 > “The amendment made by section 2 \[amending [section 211(a) of Pub. L. 108–237][/us/pl/108/237/s211/a], set out above\] shall take effect immediately before June 22, 2009.”
 
@@ -271,7 +271,7 @@
 
  __Antitrust Modernization Commission__ 
 
-[Pub. L. 107–273, div. C, title I][/us/pl/107/273], subtitle D, Nov. 2, 2002, [116 Stat. 1856][/us/stat/116/1856], as amended by [Pub. L. 110–6, § 2][/us/pl/110/6/s2], Feb. 26, 2007, [121 Stat. 61][/us/stat/121/61], provided that:
+[Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], subtitle D, Nov. 2, 2002, [116 Stat. 1856][/us/stat/116/1856], as amended by [Pub. L. 110–6][/us/pl/110/6], § 2, Feb. 26, 2007, [121 Stat. 61][/us/stat/121/61], provided that:
 
 > “SEC. 11051. __SHORT TITLE.__ 
 
@@ -425,11 +425,11 @@
 
  __Year 2000 Information and Readiness Disclosure__ 
 
-    [Pub. L. 105–271][/us/pl/105/271], Oct. 19, 1998, [112 Stat. 2386][/us/stat/112/2386], as amended by [Pub. L. 107–273, div. C, title IV, § 14102(e)][/us/pl/107/273/s14102/e], Nov. 2, 2002, [116 Stat. 1922][/us/stat/116/1922], known as the Year 2000 Information and Readiness Disclosure Act, provided for the free disclosure and exchange of information about computer processing problems, solutions, test practices and test results, and related matters in connection with the transition to the year 2000.
+    [Pub. L. 105–271][/us/pl/105/271], Oct. 19, 1998, [112 Stat. 2386][/us/stat/112/2386], as amended by [Pub. L. 107–273, div. C, title IV][/us/pl/107/273/dC/tIV], § 14102(e), Nov. 2, 2002, [116 Stat. 1922][/us/stat/116/1922], known as the Year 2000 Information and Readiness Disclosure Act, provided for the free disclosure and exchange of information about computer processing problems, solutions, test practices and test results, and related matters in connection with the transition to the year 2000.
 
  __Application of Antitrust Laws to Award of Need-Based Educational Aid__ 
 
-[Pub. L. 107–72, § 3][/us/pl/107/72/s3], Nov. 20, 2001, [115 Stat. 648][/us/stat/115/648], provided that:
+[Pub. L. 107–72][/us/pl/107/72], § 3, Nov. 20, 2001, [115 Stat. 648][/us/stat/115/648], provided that:
 
 >     “(a) __Study.—__ 
 
@@ -519,7 +519,7 @@
 
 >         Nothing in this subsection shall be construed to require an institution of higher education that does not participate under the antitrust exemption under section 568 of the Improving America’s Schools Act of 1994 ([15 U.S.C. 1][/us/usc/t15/s1] note) to collect and maintain data under this subsection.”
 
-[Pub. L. 103–382, title V, § 568(a)][/us/pl/103/382/s568/a]–(d), Oct. 20, 1994, [108 Stat. 4060][/us/stat/108/4060], 4061, as amended by [Pub. L. 105–43, § 2(a)][/us/pl/105/43/s2/a], Sept. 17, 1997, [111 Stat. 1140][/us/stat/111/1140]; [Pub. L. 105–244, title I, § 102(a)(3)][/us/pl/105/244/s102/a/3], Oct. 7, 1998, [112 Stat. 1618][/us/stat/112/1618]; [Pub. L. 107–72, § 2][/us/pl/107/72/s2], Nov. 20, 2001, [115 Stat. 648][/us/stat/115/648]; [Pub. L. 110–327, § 2][/us/pl/110/327/s2], Sept. 30, 2008, [122 Stat. 3566][/us/stat/122/3566]; [Pub. L. 114–44, § 2][/us/pl/114/44/s2], Aug. 6, 2015, [129 Stat. 472][/us/stat/129/472], provided that:
+[Pub. L. 103–382, title V][/us/pl/103/382/tV], § 568(a)–(d), Oct. 20, 1994, [108 Stat. 4060][/us/stat/108/4060], 4061, as amended by [Pub. L. 105–43][/us/pl/105/43], § 2(a), Sept. 17, 1997, [111 Stat. 1140][/us/stat/111/1140]; [Pub. L. 105–244, title I][/us/pl/105/244/tI], § 102(a)(3), Oct. 7, 1998, [112 Stat. 1618][/us/stat/112/1618]; [Pub. L. 107–72][/us/pl/107/72], § 2, Nov. 20, 2001, [115 Stat. 648][/us/stat/115/648]; [Pub. L. 110–327][/us/pl/110/327], § 2, Sept. 30, 2008, [122 Stat. 3566][/us/stat/122/3566]; [Pub. L. 114–44][/us/pl/114/44], § 2, Aug. 6, 2015, [129 Stat. 472][/us/stat/129/472], provided that:
 
 >     “(a)  __Exemption__  __.—__ 
 
@@ -561,7 +561,7 @@
 
 >     Subsection (a) shall expire on September 30, 2022.”
 
-\[[Pub. L. 105–43, § 2(b)][/us/pl/105/43/s2/b], Sept. 17, 1997, [111 Stat. 1140][/us/stat/111/1140], provided that: 
+\[[Pub. L. 105–43][/us/pl/105/43], § 2(b), Sept. 17, 1997, [111 Stat. 1140][/us/stat/111/1140], provided that: 
 
 > “The amendments made by subsection (a) \[amending section 568(a)–(d) of [Pub. L. 103–382][/us/pl/103/382], set out above\] shall take effect immediately before September 30, 1997.”
 
@@ -574,41 +574,41 @@
 ----------
 ----------
 
-[/us/act/1890-07-02/ch647/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-02%2Fch647%2Fs1
+[/us/act/1890-07-02/ch647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-02%2Fch647
 [/us/stat/26/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F209
 [/us/act/1937-08-17/ch690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-17%2Fch690
 [/us/stat/50/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F693
 [/us/act/1955-07-07/ch281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-07%2Fch281
 [/us/stat/69/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F282
-[/us/pl/93/528/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F528%2Fs3
+[/us/pl/93/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F528
 [/us/stat/88/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1708
-[/us/pl/94/145/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F145%2Fs2
+[/us/pl/94/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F145
 [/us/stat/89/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F801
-[/us/pl/101/588/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F588%2Fs4%2Fa
+[/us/pl/101/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F588
 [/us/stat/104/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2880
-[/us/pl/108/237/s215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2Fs215%2Fa
+[/us/pl/108/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2FtII
 [/us/stat/118/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F668
 [/us/pl/108/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237
 [/us/pl/101/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F588
 [/us/pl/94/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F145
 [/us/pl/93/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F528
-[/us/pl/107/72/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F72%2Fs4
+[/us/pl/107/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F72
 [/us/stat/115/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F650
-[/us/pl/94/145/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F145%2Fs4
+[/us/pl/94/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F145
 [/us/stat/89/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F801
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
-[/us/pl/114/44/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F44%2Fs1
+[/us/pl/114/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F44
 [/us/stat/129/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F472
-[/us/pl/111/30/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F30%2Fs1
+[/us/pl/111/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F30
 [/us/stat/123/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1775
-[/us/pl/110/327/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F327%2Fs1
+[/us/pl/110/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F327
 [/us/stat/122/3566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3566
-[/us/pl/110/6/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F6%2Fs1
+[/us/pl/110/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F6
 [/us/stat/121/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F61
-[/us/pl/108/237/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2Fs201
+[/us/pl/108/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2FtII
 [/us/stat/118/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F665
 [/us/usc/t15/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs16
-[/us/pl/107/273/s14101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs14101
+[/us/pl/107/273/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIV
 [/us/stat/116/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1921
 [/us/usc/t7/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs225
 [/us/usc/t30/s1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1413
@@ -617,49 +617,49 @@
 [/us/usc/t15/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8
 [/us/usc/t15/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs15
 [/us/usc/t49/s41309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs41309
-[/us/pl/107/72/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F72%2Fs1
+[/us/pl/107/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F72
 [/us/stat/115/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F648
-[/us/pl/105/297/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F297%2Fs1
+[/us/pl/105/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F297
 [/us/stat/112/2824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2824
 [/us/usc/t15/s26b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs26b
 [/us/usc/t15/s26b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs26b
-[/us/pl/105/43/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F43%2Fs1
+[/us/pl/105/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F43
 [/us/stat/111/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1140
-[/us/pl/105/26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F26%2Fs1
+[/us/pl/105/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F26
 [/us/stat/111/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F241
 [/us/usc/t15/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs37
-[/us/pl/104/63/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F63%2Fs1
+[/us/pl/104/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F63
 [/us/stat/109/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F687
 [/us/usc/t15/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs37
-[/us/pl/101/588/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F588%2Fs1
+[/us/pl/101/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F588
 [/us/stat/104/2879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2879
 [/us/usc/t15/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs20
-[/us/pl/98/544/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F544%2Fs1
+[/us/pl/98/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F544
 [/us/stat/98/2750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2750
 [/us/usc/t15/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs34
-[/us/pl/97/290/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs401
+[/us/pl/97/290/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2FtIV
 [/us/stat/96/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1246
 [/us/usc/t15/s6a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6a
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
-[/us/pl/96/493/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F493%2Fs1
+[/us/pl/96/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F493
 [/us/stat/94/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2568
 [/us/usc/t15/s26a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs26a
-[/us/pl/94/435/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs1
+[/us/pl/94/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435
 [/us/stat/90/1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1383
 [/us/usc/t18/s1505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1505
 [/us/usc/t28/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1407
-[/us/pl/94/145/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F145%2Fs1
+[/us/pl/94/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F145
 [/us/stat/89/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F801
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
-[/us/pl/93/528/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F528%2Fs1
+[/us/pl/93/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F528
 [/us/stat/88/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1706
 [/us/usc/t47/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs401
 [/us/usc/t15/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs29
-[/us/pl/94/435/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs305%2Fa
+[/us/pl/94/435/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2FtIII
 [/us/stat/90/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1397
-[/us/pl/108/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237
+[/us/pl/108/237/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2FtII
 [/us/stat/118/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F666
-[/us/pl/111/30/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F30%2Fs2
+[/us/pl/111/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F30
 [/us/stat/123/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1775
 [/us/pl/111/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F190
 [/us/stat/124/1275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1275
@@ -669,15 +669,15 @@
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1
 [/us/usc/t15/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs15
 [/us/pl/108/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237
-[/us/pl/111/190/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F190%2Fs6
+[/us/pl/111/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F190
 [/us/stat/124/1276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1276
 [/us/pl/108/237/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2Fs211
-[/us/pl/111/30/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F30%2Fs3
+[/us/pl/111/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F30
 [/us/stat/123/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1775
 [/us/pl/108/237/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F237%2Fs211%2Fa
-[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1856
-[/us/pl/110/6/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F6%2Fs2
+[/us/pl/110/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F6
 [/us/stat/121/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F61
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
@@ -685,9 +685,9 @@
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/pl/105/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F271
 [/us/stat/112/2386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2386
-[/us/pl/107/273/s14102/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs14102%2Fe
+[/us/pl/107/273/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIV
 [/us/stat/116/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1922
-[/us/pl/107/72/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F72%2Fs3
+[/us/pl/107/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F72
 [/us/stat/115/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F648
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
@@ -696,17 +696,17 @@
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1
-[/us/pl/103/382/s568/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs568%2Fa
+[/us/pl/103/382/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtV
 [/us/stat/108/4060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4060
-[/us/pl/105/43/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F43%2Fs2%2Fa
+[/us/pl/105/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F43
 [/us/stat/111/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1140
-[/us/pl/105/244/s102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2Fs102%2Fa%2F3
+[/us/pl/105/244/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F244%2FtI
 [/us/stat/112/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1618
-[/us/pl/107/72/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F72%2Fs2
+[/us/pl/107/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F72
 [/us/stat/115/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F648
-[/us/pl/110/327/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F327%2Fs2
+[/us/pl/110/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F327
 [/us/stat/122/3566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3566
-[/us/pl/114/44/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F44%2Fs2
+[/us/pl/114/44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F44
 [/us/stat/129/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F472
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
@@ -716,7 +716,7 @@
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t8/s1101/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2F20
 [/us/usc/t8/s1101/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2F22
-[/us/pl/105/43/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F43%2Fs2%2Fb
+[/us/pl/105/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F43
 [/us/stat/111/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1140
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 

@@ -35,7 +35,7 @@
 
         For purposes of enforcement of this chapter (including any regulation promulgated under this chapter) the Secretary, or any representative of the Secretary duly designated by the Secretary, may inspect any horse show, horse exhibition, or horse sale or auction or any horse at any such show, exhibition, sale, or auction. Such an inspection may only be made upon presenting appropriate credentials. Each such inspection shall be commenced and completed with reasonable promptness and shall be conducted within reasonable limits and in a reasonable manner. An inspection under this subsection shall extend to all things (including rec­ords) bearing on whether the requirements of this chapter have been complied with.
 
-([Pub. L. 91–540, § 4][/us/pl/91/540/s4], Dec. 9, 1970, [84 Stat. 1405][/us/stat/84/1405]; [Pub. L. 94–360, § 5][/us/pl/94/360/s5], July 13, 1976, [90 Stat. 916][/us/stat/90/916].)
+([Pub. L. 91–540][/us/pl/91/540], § 4, Dec. 9, 1970, [84 Stat. 1405][/us/stat/84/1405]; [Pub. L. 94–360][/us/pl/94/360], § 5, July 13, 1976, [90 Stat. 916][/us/stat/90/916].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/91/540/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F540%2Fs4
+[/us/pl/91/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F540
 [/us/stat/84/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1405
-[/us/pl/94/360/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360%2Fs5
+[/us/pl/94/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360
 [/us/stat/90/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F916
 [/us/pl/94/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360
 [/us/usc/t15/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1824

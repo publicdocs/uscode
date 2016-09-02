@@ -59,7 +59,7 @@
 
         (5) The scope of the conduct, acts, practices, or agreements covered by subsection (b) shall not be strictly or narrowly construed.
 
-([Oct. 15, 1914, ch. 323, § 27][/us/act/1914-10-15/ch323/s27], as added [Pub. L. 105–297, § 3][/us/pl/105/297/s3], Oct. 27, 1998, [112 Stat. 2824][/us/stat/112/2824].)
+([Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], § 27, as added [Pub. L. 105–297][/us/pl/105/297], § 3, Oct. 27, 1998, [112 Stat. 2824][/us/stat/112/2824].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
  __Purpose__ 
 
-[Pub. L. 105–297, § 2][/us/pl/105/297/s2], Oct. 27, 1998, [112 Stat. 2824][/us/stat/112/2824], provided that: 
+[Pub. L. 105–297][/us/pl/105/297], § 2, Oct. 27, 1998, [112 Stat. 2824][/us/stat/112/2824], provided that: 
 
 > “It is the purpose of this legislation to state that major league baseball players are covered under the antitrust laws (i.e., that major league baseball players will have the same rights under the antitrust laws as do other professional athletes, e.g., football and basketball players), along with a provision that makes it clear that the passage of this Act \[enacting this section and provisions set out as a note under [section 1 of this title][/us/usc/t15/s1]\] does not change the application of the antitrust laws in any other context or with respect to any other person or entity.”
 
@@ -85,8 +85,8 @@
 ----------
 
 [/us/pl/87/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F331
-[/us/act/1914-10-15/ch323/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323%2Fs27
-[/us/pl/105/297/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F297%2Fs3
+[/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
+[/us/pl/105/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F297
 [/us/stat/112/2824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2824
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/pl/87/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F331
@@ -94,7 +94,7 @@
 [/us/stat/75/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F732
 [/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
 [/us/usc/t15/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs27
-[/us/pl/105/297/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F297%2Fs2
+[/us/pl/105/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F297
 [/us/stat/112/2824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2824
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1
 

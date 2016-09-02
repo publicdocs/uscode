@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to preempt any rights or causes of action that any buyer may have with respect to any seller of fasteners under the law of any State, except to the extent that the provisions of this chapter are in conflict with such State law.
 
-([Pub. L. 101–592, § 8][/us/pl/101/592/s8], formerly § 11, Nov. 16, 1990, [104 Stat. 2952][/us/stat/104/2952]; renumbered § 8, [Pub. L. 106–34, § 8][/us/pl/106/34/s8], June 8, 1999, [113 Stat. 123][/us/stat/113/123].)
+([Pub. L. 101–592][/us/pl/101/592], § 8, formerly § 11, Nov. 16, 1990, [104 Stat. 2952][/us/stat/104/2952]; renumbered § 8, [Pub. L. 106–34][/us/pl/106/34], § 8, June 8, 1999, [113 Stat. 123][/us/stat/113/123].)
 
  __Prior Provisions__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/101/592/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F592%2Fs8
+[/us/pl/101/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F592
 [/us/stat/104/2952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2952
-[/us/pl/106/34/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34%2Fs8
+[/us/pl/106/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34
 [/us/stat/113/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F123
 [/us/pl/101/592/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F592%2Fs8
 [/us/usc/t15/s5407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5407

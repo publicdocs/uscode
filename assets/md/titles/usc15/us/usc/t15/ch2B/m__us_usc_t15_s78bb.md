@@ -171,7 +171,7 @@
 
                 Nothing in this paragraph shall be construed to affect the discretion of a State court in determining whether actions filed in such court should be joined, consolidated, or otherwise allowed to proceed as a single action.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 28, [48 Stat. 903][/us/stat/48/903]; [Pub. L. 94–29, § 21][/us/pl/94/29/s21], June 4, 1975, [89 Stat. 160][/us/stat/89/160]; [Pub. L. 97–303, § 4][/us/pl/97/303/s4], Oct. 13, 1982, [96 Stat. 1409][/us/stat/96/1409]; [Pub. L. 100–181, title III][/us/pl/100/181], §§ 327–329, Dec. 4, 1987, [101 Stat. 1259][/us/stat/101/1259]; [Pub. L. 104–290, title I, § 103(b)][/us/pl/104/290/s103/b], Oct. 11, 1996, [110 Stat. 3422][/us/stat/110/3422]; [Pub. L. 105–353, title I, § 101(b)(1)][/us/pl/105/353/s101/b/1], Nov. 3, 1998, [112 Stat. 3230][/us/stat/112/3230]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, §§ 203(a)(2), 210\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–422, 2763A–436; [Pub. L. 111–203, title VII, § 767][/us/pl/111/203/s767], July 21, 2010, [124 Stat. 1799][/us/stat/124/1799].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 28, [48 Stat. 903][/us/stat/48/903]; [Pub. L. 94–29][/us/pl/94/29], § 21, June 4, 1975, [89 Stat. 160][/us/stat/89/160]; [Pub. L. 97–303][/us/pl/97/303], § 4, Oct. 13, 1982, [96 Stat. 1409][/us/stat/96/1409]; [Pub. L. 100–181, title III][/us/pl/100/181/tIII], §§ 327–329, Dec. 4, 1987, [101 Stat. 1259][/us/stat/101/1259]; [Pub. L. 104–290, title I][/us/pl/104/290/tI], § 103(b), Oct. 11, 1996, [110 Stat. 3422][/us/stat/110/3422]; [Pub. L. 105–353, title I][/us/pl/105/353/tI], § 101(b)(1), Nov. 3, 1998, [112 Stat. 3230][/us/stat/112/3230]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, §§ 203(a)(2), 210\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–422, 2763A–436; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 767, July 21, 2010, [124 Stat. 1799][/us/stat/124/1799].)
 
  __Amendment of Section__ 
 
@@ -181,33 +181,33 @@
 
     This chapter, referred to in subsecs. (a) to (c) and (e), was in the original “this title”. See References in Text note set out under [section 78a of this title][/us/usc/t15/s78a].
 
-    The Securities Act of 1933, referred to in subsec. (f)(5)(E), is [act May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. Section 4(2) of the Act was redesignated section 4(a)(2) by [Pub. L. 112–106, title II, § 201(b)(1)][/us/pl/112/106/s201/b/1], (c)(1), Apr. 5, 2012, [126 Stat. 314][/us/stat/126/314], and is classified to [section 77d(a)(2) of this title][/us/usc/t15/s77d/a/2]. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
+    The Securities Act of 1933, referred to in subsec. (f)(5)(E), is [act May 27, 1933, ch. 38, title I][/us/act/1933-05-27/ch38/tI], [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. Section 4(2) of the Act was redesignated section 4(a)(2) by [Pub. L. 112–106, title II][/us/pl/112/106/tII], § 201(b)(1), (c)(1), Apr. 5, 2012, [126 Stat. 314][/us/stat/126/314], and is classified to [section 77d(a)(2) of this title][/us/usc/t15/s77d/a/2]. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
 
  __Amendments__ 
 
     2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203] amended subsec. (a) generally. Prior to amendment, subsec. (a) related to rights and remedies provided by this chapter and applicability of certain State securities laws.
 
-    2000—Subsec. (a). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 210\], inserted “subject to this chapter” after “privilege, or other security”, substituted “any such security” for “any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to [section 78s(b) of this title][/us/usc/t15/s78s/b]”, and inserted at end “No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security futures product, except that this sentence shall not be construed as limiting any State antifraud law of general applicability.”
+    2000—Subsec. (a). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 210\], inserted “subject to this chapter” after “privilege, or other security”, substituted “any such security” for “any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to [section 78s(b) of this title][/us/usc/t15/s78s/b]”, and inserted at end “No provision of State law regarding the offer, sale, or distribution of securities shall apply to any transaction in a security futures product, except that this sentence shall not be construed as limiting any State antifraud law of general applicability.”
 
-    Subsec. (e)(4). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 203(a)(2)\], added par. (4).
+    Subsec. (e)(4). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 203(a)(2)\], added par. (4).
 
-    1998—Subsec. (a). [Pub. L. 105–353, § 101(b)(1)(A)][/us/pl/105/353/s101/b/1/A], substituted “Except as provided in subsection (f) of this section, the rights and remedies” for “The rights and remedies”.
+    1998—Subsec. (a). [Pub. L. 105–353][/us/pl/105/353], § 101(b)(1)(A), substituted “Except as provided in subsection (f) of this section, the rights and remedies” for “The rights and remedies”.
 
-    Subsec. (f). [Pub. L. 105–353, § 101(b)(1)(B)][/us/pl/105/353/s101/b/1/B], added subsec. (f).
+    Subsec. (f). [Pub. L. 105–353][/us/pl/105/353], § 101(b)(1)(B), added subsec. (f).
 
     1996—Subsec. (a). [Pub. L. 104–290][/us/pl/104/290] substituted “Except as otherwise specifically provided in this chapter, nothing” for “Nothing”.
 
-    1987—Subsec. (c). [Pub. L. 100–181, § 327][/us/pl/100/181/s327], substituted “on” for “or” after “self-regulatory organization”.
+    1987—Subsec. (c). [Pub. L. 100–181][/us/pl/100/181], § 327, substituted “on” for “or” after “self-regulatory organization”.
 
-    Subsec. (d). [Pub. L. 100–181, § 328][/us/pl/100/181/s328], substituted “change in beneficial” for “change is beneficial”.
+    Subsec. (d). [Pub. L. 100–181][/us/pl/100/181], § 328, substituted “change in beneficial” for “change is beneficial”.
 
-    Subsec. (e)(1). [Pub. L. 100–181, § 329][/us/pl/100/181/s329], substituted “subsequent to the date of enactment of the Securities Acts Amendments of 1975” for “subsequent to the date of enactment of the Securities Acts Amendments in 1975”, which for purposes of codification was translated as “subsequent to June 4, 1975,” thus requiring no change in text.
+    Subsec. (e)(1). [Pub. L. 100–181][/us/pl/100/181], § 329, substituted “subsequent to the date of enactment of the Securities Acts Amendments of 1975” for “subsequent to the date of enactment of the Securities Acts Amendments in 1975”, which for purposes of codification was translated as “subsequent to June 4, 1975,” thus requiring no change in text.
 
     1982—Subsec. (a). [Pub. L. 97–303][/us/pl/97/303] inserted provision that no State law which prohibits or regulates the making or promoting of wagering or gaming contracts, or the operation of “bucket shops” or other similar or related activities, shall invalidate any put, call, straddle, option, privilege, or other security, or apply to any activity which is incidental or related to the offer, purchase, sale, exercise, settlement, or closeout of any such instrument, if such instrument is traded pursuant to rules and regulations of a self-regulatory organization that are filed with the Commission pursuant to [section 78s(b) of this title][/us/usc/t15/s78s/b].
 
-    1975—Subsec. (b). [Pub. L. 94–29, § 21(1)][/us/pl/94/29/s21/1], struck out provisions that nothing in this chapter be construed to modify existing law with regard to the binding effect on any member of an exchange of any disciplinary action taken by the authorities of an exchange and made the remaining provisions applicable to all members of and participants in all self-regulatory organizations as well as municipal securities professionals.
+    1975—Subsec. (b). [Pub. L. 94–29][/us/pl/94/29], § 21(1), struck out provisions that nothing in this chapter be construed to modify existing law with regard to the binding effect on any member of an exchange of any disciplinary action taken by the authorities of an exchange and made the remaining provisions applicable to all members of and participants in all self-regulatory organizations as well as municipal securities professionals.
 
-    Subsecs. (c) to (e). [Pub. L. 94–29, § 21(2)][/us/pl/94/29/s21/2], added subsecs. (c) to (e).
+    Subsecs. (c) to (e). [Pub. L. 94–29][/us/pl/94/29], § 21(2), added subsecs. (c) to (e).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -239,42 +239,42 @@
 [/us/usc/t15/s77d/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77d%2Fa%2F2
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F903
-[/us/pl/94/29/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs21
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F160
-[/us/pl/97/303/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F303%2Fs4
+[/us/pl/97/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F303
 [/us/stat/96/1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1409
-[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtIII
 [/us/stat/101/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1259
-[/us/pl/104/290/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs103%2Fb
+[/us/pl/104/290/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtI
 [/us/stat/110/3422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3422
-[/us/pl/105/353/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs101%2Fb%2F1
+[/us/pl/105/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtI
 [/us/stat/112/3230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3230
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/203/s767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs767
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1799
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
+[/us/act/1933-05-27/ch38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38%2FtI
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
-[/us/pl/112/106/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs201%2Fb%2F1
+[/us/pl/112/106/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtII
 [/us/stat/126/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F314
 [/us/usc/t15/s77d/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77d%2Fa%2F2
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t15/s78s/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78s%2Fb
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/105/353/s101/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs101%2Fb%2F1%2FA
-[/us/pl/105/353/s101/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs101%2Fb%2F1%2FB
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
+[/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
 [/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
-[/us/pl/100/181/s327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs327
-[/us/pl/100/181/s328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs328
-[/us/pl/100/181/s329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs329
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/97/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F303
 [/us/usc/t15/s78s/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78s%2Fb
-[/us/pl/94/29/s21/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs21%2F1
-[/us/pl/94/29/s21/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs21%2F2
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs774

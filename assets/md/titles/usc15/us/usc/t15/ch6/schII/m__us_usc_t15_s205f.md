@@ -29,11 +29,11 @@
 
     (6) perform such other acts as may be necessary to carry out the duties prescribed by this subchapter.
 
-([Pub. L. 94–168, § 7][/us/pl/94/168/s7], Dec. 23, 1975, [89 Stat. 1011][/us/stat/89/1011].)
+([Pub. L. 94–168][/us/pl/94/168], § 7, Dec. 23, 1975, [89 Stat. 1011][/us/stat/89/1011].)
 
  __Codification__ 
 
-    In par. (4), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended ([40 U.S.C. 471][/us/usc/t40/s471] et seq.)” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In par. (4), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended ([40 U.S.C. 471][/us/usc/t40/s471] et seq.)” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], which Act enacted Title 40, Public Buildings, Property, and Works, and [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
 ----------
 
@@ -42,12 +42,12 @@
 ----------
 ----------
 
-[/us/pl/94/168/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F168%2Fs7
+[/us/pl/94/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F168
 [/us/stat/89/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1011
 [/us/usc/t40/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs471
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 
 

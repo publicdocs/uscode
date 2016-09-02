@@ -17,7 +17,7 @@
 
     Tolls may be charged for the passage or transit over the San Francisco-Oakland Bay Bridge of Government traffic, or military, naval, or civilian personnel and their dependents, and of civilian employees of the Army and Navy traveling on Government business, but such tolls shall not be in excess of the tolls charged for the passage or transit of other like traffic over such bridge: Provided, however, That subject to the provisions of [section 1006 of this title][/us/usc/t15/s1006], military, Coast Guard, and naval personnel, and civilian employees of the Army and Navy and Coast Guard and personnel and employees of the National Ocean Survey, when such personnel or employees are engaged in the performance of official duties requiring the use of such bridge, together with the conveyances being used by them in the performance of such duties, shall have the use of such bridge free of toll: Provided further, That subject to the provisions of [section 1006 of this title][/us/usc/t15/s1006], military, Coast Guard, and naval personnel, civilian employees of the Army and Navy and Coast Guard and personnel and employees of the National Ocean Survey, and their dependents, when such personnel, employees, or dependents are resident or employed on Yerba Buena Island or Treasure Island, or on any vessel berthed at any point on said islands, together with the conveyances being used by them, when proceeding to or from said islands, shall have the use of such bridge free of toll.
 
-([July 1, 1946, ch. 528, § 1][/us/act/1946-07-01/ch528/s1], [60 Stat. 347][/us/stat/60/347].)
+([July 1, 1946, ch. 528][/us/act/1946-07-01/ch528], § 1, [60 Stat. 347][/us/stat/60/347].)
 
  __Effective Date__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t15/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1006
 [/us/usc/t15/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1006
-[/us/act/1946-07-01/ch528/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-01%2Fch528%2Fs1
+[/us/act/1946-07-01/ch528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-01%2Fch528
 [/us/stat/60/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F347
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318

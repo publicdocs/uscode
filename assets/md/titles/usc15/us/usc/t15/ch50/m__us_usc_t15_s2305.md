@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall prohibit the selling of a consumer product which has both full and limited warranties if such warranties are clearly and conspicuously differentiated.
 
-([Pub. L. 93–637, title I, § 105][/us/pl/93/637/s105], Jan. 4, 1975, [88 Stat. 2188][/us/stat/88/2188].)
+([Pub. L. 93–637, title I][/us/pl/93/637/tI], § 105, Jan. 4, 1975, [88 Stat. 2188][/us/stat/88/2188].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/637/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs105
+[/us/pl/93/637/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2FtI
 [/us/stat/88/2188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2188
 
 

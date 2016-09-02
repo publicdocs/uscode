@@ -71,33 +71,33 @@
 
         In addition to any prospectus permitted or required by section 10(a) of the Securities Act of 1933 \[[15 U.S.C. 77j(a)][/us/usc/t15/s77j/a]\], the Commission shall permit, by rules or regulations deemed necessary or appropriate in the public interest or for the protection of investors, the use of a prospectus for purposes of section 5(b)(1) of that Act \[[15 U.S.C. 77e(b)(1)][/us/usc/t15/s77e/b/1]\] with respect to securities issued by a registered investment company. Such a prospectus, which may include information the substance of which is not included in the prospectus specified in section 10(a) of the Securities Act of 1933, shall be deemed to be permitted by section 10(b) of that Act \[[15 U.S.C. 77j(b)][/us/usc/t15/s77j/b]\].
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 24, [54 Stat. 825][/us/stat/54/825]; [Aug. 10, 1954, ch. 667][/us/act/1954-08-10/ch667], title IV, §§ 402, 403, [68 Stat. 689][/us/stat/68/689]; [Pub. L. 91–547, § 13][/us/pl/91/547/s13], Dec. 14, 1970, [84 Stat. 1423][/us/stat/84/1423]; [Pub. L. 100–181, title VI, § 617][/us/pl/100/181/s617], Dec. 4, 1987, [101 Stat. 1262][/us/stat/101/1262]; [Pub. L. 104–290, title II][/us/pl/104/290], §§ 203(a), (b), 204, Oct. 11, 1996, [110 Stat. 3427][/us/stat/110/3427], 3428.)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 24, [54 Stat. 825][/us/stat/54/825]; [Aug. 10, 1954, ch. 667][/us/act/1954-08-10/ch667], title IV, §§ 402, 403, [68 Stat. 689][/us/stat/68/689]; [Pub. L. 91–547][/us/pl/91/547], § 13, Dec. 14, 1970, [84 Stat. 1423][/us/stat/84/1423]; [Pub. L. 100–181, title VI][/us/pl/100/181/tVI], § 617, Dec. 4, 1987, [101 Stat. 1262][/us/stat/101/1262]; [Pub. L. 104–290, title II][/us/pl/104/290/tII], §§ 203(a), (b), 204, Oct. 11, 1996, [110 Stat. 3427][/us/stat/110/3427], 3428.)
 
  __References in Text__ 
 
-    The Securities Act of 1933, referred to in subsecs. (a), (c), and (e), is [act May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, [48 Stat. 74][/us/stat/48/74], as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
+    The Securities Act of 1933, referred to in subsecs. (a), (c), and (e), is [act May 27, 1933, ch. 38, title I][/us/act/1933-05-27/ch38/tI], [48 Stat. 74][/us/stat/48/74], as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
 
     For the effective date of this subchapter, referred to in subsec. (c), see [section 80a–52 of this title][/us/usc/t15/s80a–52].
 
-    Section 4(3) of the Securities Act of 1933, referred to in subsec. (d), was redesignated section 4(a)(3) of that Act by [Pub. L. 112–106, title II, § 201(b)(1)][/us/pl/112/106/s201/b/1], (c)(1), Apr. 5, 2012, [126 Stat. 314][/us/stat/126/314], and is classified to [section 77d(a)(3) of this title][/us/usc/t15/s77d/a/3].
+    Section 4(3) of the Securities Act of 1933, referred to in subsec. (d), was redesignated section 4(a)(3) of that Act by [Pub. L. 112–106, title II][/us/pl/112/106/tII], § 201(b)(1), (c)(1), Apr. 5, 2012, [126 Stat. 314][/us/stat/126/314], and is classified to [section 77d(a)(3) of this title][/us/usc/t15/s77d/a/3].
 
  __Amendments__ 
 
-    1996—Subsec. (e). [Pub. L. 104–290, § 203(a)][/us/pl/104/290/s203/a], substituted “For” for “(3) For”, struck out “pursuant to this subsection or otherwise” before “shall be deemed the effective date of the registration statement”, and struck out pars. (1) and (2) which read as follows:
+    1996—Subsec. (e). [Pub. L. 104–290][/us/pl/104/290], § 203(a), substituted “For” for “(3) For”, struck out “pursuant to this subsection or otherwise” before “shall be deemed the effective date of the registration statement”, and struck out pars. (1) and (2) which read as follows:
 
     “(1) A registration statement under the Securities Act of 1933 relating to a security issued by a face-amount certificate company or a redeemable security issued by an open-end management company or unit investment trust may be amended after its effective date so as to increase the securities specified therein as proposed to be offered. At the time of filing such amendment there shall be paid to the Commission a fee, calculated in the manner specified in section 6(b) of said Act, with respect to the additional securities therein proposed to be offered.
 
     “(2) The filing of such an amendment to a registration statement under the Securities Act of 1933 shall not be deemed to have taken place unless it is accompanied by a United States postal money order or a certified bank check or cash for the amount of the fee required under paragraph (1) of this subsection.”
 
-    Subsec. (f). [Pub. L. 104–290, § 203(b)][/us/pl/104/290/s203/b], inserted heading and amended text generally. Prior to amendment, text read as follows: “In the case of securities issued by a face-amount certificate company or redeemable securities issued by an open-end management company or unit investment trust, which are sold in an amount in excess of the number of securities included in an effective registration statement of any such company, such company may, in accordance with such rules and regulations as the Commission shall adopt as it deems necessary or appropriate in the public interest or for the protection of investors, elect to have the registration of such securities deemed effective as of the time of their sale, upon payment to the Commission, within six months after any such sale, of a registration fee of three times the amount of the fee which would have otherwise been applicable to such securities. Upon any such election and payment, the registration statement of such company shall be considered to have been in effect with respect to such shares. The Commission may also adopt rules and regulations as it deems necessary or appropriate in the public interest or for the protection of investors to permit the registration of an indefinite number of the securities issued by a face-amount certificate company or redeemable securities issued by an open-end management company or unit investment trust.”
+    Subsec. (f). [Pub. L. 104–290][/us/pl/104/290], § 203(b), inserted heading and amended text generally. Prior to amendment, text read as follows: “In the case of securities issued by a face-amount certificate company or redeemable securities issued by an open-end management company or unit investment trust, which are sold in an amount in excess of the number of securities included in an effective registration statement of any such company, such company may, in accordance with such rules and regulations as the Commission shall adopt as it deems necessary or appropriate in the public interest or for the protection of investors, elect to have the registration of such securities deemed effective as of the time of their sale, upon payment to the Commission, within six months after any such sale, of a registration fee of three times the amount of the fee which would have otherwise been applicable to such securities. Upon any such election and payment, the registration statement of such company shall be considered to have been in effect with respect to such shares. The Commission may also adopt rules and regulations as it deems necessary or appropriate in the public interest or for the protection of investors to permit the registration of an indefinite number of the securities issued by a face-amount certificate company or redeemable securities issued by an open-end management company or unit investment trust.”
 
-    Subsec. (g). [Pub. L. 104–290, § 204][/us/pl/104/290/s204], added subsec. (g).
+    Subsec. (g). [Pub. L. 104–290][/us/pl/104/290], § 204, added subsec. (g).
 
     1987—Subsec. (d). [Pub. L. 100–181][/us/pl/100/181] struck out “, except a security sold or disposed of by the issuer or bona fide offered to the public prior to the effective date of this subchapter and with respect to a security so sold, disposed of, or offered, shall not apply to any new offering thereof on or after the effective date of this subchapter” at end of second sentence.
 
-    1970—Subsec. (d). [Pub. L. 91–547, § 13(a)][/us/pl/91/547/s13/a], substituted “section 4(3) of the Securities Act of 1933” for “the third clause of section 4(1) of the Securities Act of 1933” and struck out the comma before “if any”.
+    1970—Subsec. (d). [Pub. L. 91–547][/us/pl/91/547], § 13(a), substituted “section 4(3) of the Securities Act of 1933” for “the third clause of section 4(1) of the Securities Act of 1933” and struck out the comma before “if any”.
 
-    Subsec. (f). [Pub. L. 91–547, § 13(b)][/us/pl/91/547/s13/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 91–547][/us/pl/91/547], § 13(b), added subsec. (f).
 
     1954—Subsec. (d). Act Aug. 10, 1954, § 402, inserted provision making dealer’s exemption contained in third clause of [section 77d(1) of this title][/us/usc/t15/s77d/1] inapplicable to transactions in the securities of investment companies that are offered to the public on a continuous basis, subject to certain exceptions.
 
@@ -105,7 +105,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–290, title II, § 203(c)][/us/pl/104/290/s203/c], Oct. 11, 1996, [110 Stat. 3428][/us/stat/110/3428], provided that: 
+[Pub. L. 104–290, title II][/us/pl/104/290/tII], § 203(c), Oct. 11, 1996, [110 Stat. 3428][/us/stat/110/3428], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall become effective on the earlier of—
 
@@ -156,27 +156,27 @@
 [/us/stat/54/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F825
 [/us/act/1954-08-10/ch667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-10%2Fch667
 [/us/stat/68/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F689
-[/us/pl/91/547/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs13
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1423
-[/us/pl/100/181/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs617
+[/us/pl/100/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVI
 [/us/stat/101/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1262
-[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtII
 [/us/stat/110/3427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3427
-[/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
+[/us/act/1933-05-27/ch38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38%2FtI
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/usc/t15/s80a–52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9352
-[/us/pl/112/106/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs201%2Fb%2F1
+[/us/pl/112/106/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtII
 [/us/stat/126/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F314
 [/us/usc/t15/s77d/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77d%2Fa%2F3
-[/us/pl/104/290/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs203%2Fa
-[/us/pl/104/290/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs203%2Fb
-[/us/pl/104/290/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs204
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
 [/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
-[/us/pl/91/547/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs13%2Fa
-[/us/pl/91/547/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs13%2Fb
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/usc/t15/s77d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77d%2F1
-[/us/pl/104/290/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs203%2Fc
+[/us/pl/104/290/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtII
 [/us/stat/110/3428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3428
 [/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/pl/91/547/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs30

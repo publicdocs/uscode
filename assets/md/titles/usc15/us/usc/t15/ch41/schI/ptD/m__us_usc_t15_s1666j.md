@@ -27,15 +27,15 @@
 
         Notwithstanding any other provisions of this subchapter, any discount offered under [section 1666f(b) of this title][/us/usc/t15/s1666f/b] shall not be considered a finance charge or other charge for credit under the usury laws of any State or under the laws of any State relating to disclosure of information in connection with credit transactions, or relating to the types, amounts or rates of charges, or to any element or elements of charges permissible under such laws in connection with the extension or use of credit.
 
-([Pub. L. 90–321, title I, § 173][/us/pl/90/321/s173], formerly § 171, as added [Pub. L. 93–495, title III, § 306][/us/pl/93/495/s306], Oct. 28, 1974, [88 Stat. 1516][/us/stat/88/1516]; amended [Pub. L. 94–222, § 3(d)][/us/pl/94/222/s3/d], Feb. 27, 1976, [90 Stat. 198][/us/stat/90/198]; renumbered § 173, [Pub. L. 111–24, title I, § 101(b)(1)][/us/pl/111/24/s101/b/1], May 22, 2009, [123 Stat. 1736][/us/stat/123/1736]; [Pub. L. 111–203, title X][/us/pl/111/203], §§ 1087, 1100A(2), July 21, 2010, [124 Stat. 2086][/us/stat/124/2086], 2107.)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 173, formerly § 171, as added [Pub. L. 93–495, title III][/us/pl/93/495/tIII], § 306, Oct. 28, 1974, [88 Stat. 1516][/us/stat/88/1516]; amended [Pub. L. 94–222][/us/pl/94/222], § 3(d), Feb. 27, 1976, [90 Stat. 198][/us/stat/90/198]; renumbered § 173, [Pub. L. 111–24, title I][/us/pl/111/24/tI], § 101(b)(1), May 22, 2009, [123 Stat. 1736][/us/stat/123/1736]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], §§ 1087, 1100A(2), July 21, 2010, [124 Stat. 2086][/us/stat/124/2086], 2107.)
 
  __Codification__ 
 
-    Pub L. 111–203, § 1100A(2), which directed the substitution of “Bureau” for “Board” wherever appearing in title I of [Pub. L. 90–321][/us/pl/90/321], was executed to this section, which is [section 173 of title I of Pub. L. 90–321][/us/pl/90/321/s173]. [Section 1087 of Pub. L. 111–203][/us/pl/111/203/s1087], which directed the making of an identical amendment in title III of [Pub. L. 93–495][/us/pl/93/495], which added this section to title I of [Pub. L. 90–321][/us/pl/90/321], has not been executed.
+    Pub L. 111–203, § 1100A(2), which directed the substitution of “Bureau” for “Board” wherever appearing in title I of [Pub. L. 90–321][/us/pl/90/321], was executed to this section, which is [section 173 of title I of Pub. L. 90–321][/us/pl/90/321/tI/s173]. [Section 1087 of Pub. L. 111–203][/us/pl/111/203/s1087], which directed the making of an identical amendment in title III of [Pub. L. 93–495][/us/pl/93/495], which added this section to title I of [Pub. L. 90–321][/us/pl/90/321], has not been executed.
 
  __Amendments__ 
 
-    2010—Subsecs. (a), (b). [Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], substituted “Bureau” for “Board” wherever appearing. See Codification note above.
+    2010—Subsecs. (a), (b). [Pub. L. 111–203][/us/pl/111/203], § 1100A(2), substituted “Bureau” for “Board” wherever appearing. See Codification note above.
 
     1976—Subsec. (c). [Pub. L. 94–222][/us/pl/94/222] added subsec. (c).
 
@@ -51,21 +51,21 @@
 ----------
 
 [/us/usc/t15/s1666f/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1666f%2Fb
-[/us/pl/90/321/s173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs173
-[/us/pl/93/495/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs306
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/93/495/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtIII
 [/us/stat/88/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1516
-[/us/pl/94/222/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F222%2Fs3%2Fd
+[/us/pl/94/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F222
 [/us/stat/90/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F198
-[/us/pl/111/24/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs101%2Fb%2F1
+[/us/pl/111/24/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtI
 [/us/stat/123/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1736
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2086
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
-[/us/pl/90/321/s173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs173
+[/us/pl/90/321/tI/s173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI%2Fs173
 [/us/pl/111/203/s1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1087
 [/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/94/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F222
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H

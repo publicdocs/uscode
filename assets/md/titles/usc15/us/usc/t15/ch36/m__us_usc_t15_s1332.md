@@ -41,7 +41,7 @@
 
     (9) The term “Secretary” means the Secretary of Health and Human Services.
 
-([Pub. L. 89–92, § 3][/us/pl/89/92/s3], July 27, 1965, [79 Stat. 282][/us/stat/79/282]; [Pub. L. 91–222, § 2][/us/pl/91/222/s2], Apr. 1, 1970, [84 Stat. 88][/us/stat/84/88]; [Pub. L. 93–109, § 2][/us/pl/93/109/s2], Sept. 21, 1973, [87 Stat. 352][/us/stat/87/352]; [Pub. L. 98–474, § 6(b)][/us/pl/98/474/s6/b], Oct. 12, 1984, [98 Stat. 2204][/us/stat/98/2204]; [Pub. L. 99–92, § 11(b)][/us/pl/99/92/s11/b], Aug. 16, 1985, [99 Stat. 403][/us/stat/99/403].)
+([Pub. L. 89–92][/us/pl/89/92], § 3, July 27, 1965, [79 Stat. 282][/us/stat/79/282]; [Pub. L. 91–222][/us/pl/91/222], § 2, Apr. 1, 1970, [84 Stat. 88][/us/stat/84/88]; [Pub. L. 93–109][/us/pl/93/109], § 2, Sept. 21, 1973, [87 Stat. 352][/us/stat/87/352]; [Pub. L. 98–474][/us/pl/98/474], § 6(b), Oct. 12, 1984, [98 Stat. 2204][/us/stat/98/2204]; [Pub. L. 99–92][/us/pl/99/92], § 11(b), Aug. 16, 1985, [99 Stat. 403][/us/stat/99/403].)
 
  __Amendments__ 
 
@@ -55,7 +55,7 @@
 
  __Effective Date of 1973 Amendment__ 
 
-[Pub. L. 93–109, § 4][/us/pl/93/109/s4], Sept. 21, 1973, [87 Stat. 352][/us/stat/87/352], provided that: 
+[Pub. L. 93–109][/us/pl/93/109], § 4, Sept. 21, 1973, [87 Stat. 352][/us/stat/87/352], provided that: 
 
 > “The amendment made by this Act \[amending this section and [section 1335 of this title][/us/usc/t15/s1335]\] shall become effective thirty days after the date of enactment \[Sept. 21, 1973\].”
 
@@ -70,21 +70,21 @@
 ----------
 ----------
 
-[/us/pl/89/92/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F92%2Fs3
+[/us/pl/89/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F92
 [/us/stat/79/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F282
-[/us/pl/91/222/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222%2Fs2
+[/us/pl/91/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222
 [/us/stat/84/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F88
-[/us/pl/93/109/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F109%2Fs2
+[/us/pl/93/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F109
 [/us/stat/87/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F352
-[/us/pl/98/474/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F474%2Fs6%2Fb
+[/us/pl/98/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F474
 [/us/stat/98/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2204
-[/us/pl/99/92/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92%2Fs11%2Fb
+[/us/pl/99/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92
 [/us/stat/99/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F403
 [/us/pl/99/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92
 [/us/pl/98/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F474
 [/us/pl/93/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F109
 [/us/pl/91/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222
-[/us/pl/93/109/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F109%2Fs4
+[/us/pl/93/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F109
 [/us/stat/87/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F352
 [/us/usc/t15/s1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1335
 [/us/pl/91/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F222

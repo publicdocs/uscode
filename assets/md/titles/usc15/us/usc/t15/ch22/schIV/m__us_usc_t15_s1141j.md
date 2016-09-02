@@ -27,7 +27,7 @@
 
         The holder of an international registration canceled in whole or in part by the International Bureau at the request of the office of origin, under article 6(4) of the Madrid Protocol, may file an application, under section 1051 or 1126 of this title, for the registration of the same mark for any of the goods and services to which the cancellation applies that were covered by an extension of protection to the United States based on that international registration. Such an application shall be treated as if it had been filed on the international registration date or the date of recordal of the request for extension of protection with the International Bureau, whichever date applies, and, if the extension of protection enjoyed priority under [section 1141g of this title][/us/usc/t15/s1141g], shall enjoy the same priority. Such an application shall be entitled to the benefits conferred by this subsection only if the application is filed not later than 3 months after the date on which the international registration was canceled, in whole or in part, and only if the application complies with all the requirements of this chapter which apply to any application filed pursuant to section 1051 or 1126 of this title.
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title XII, § 70, as added [Pub. L. 107–273, div. C, title III, § 13402][/us/pl/107/273/s13402], Nov. 2, 2002, [116 Stat. 1918][/us/stat/116/1918].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title XII, § 70, as added [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13402, Nov. 2, 2002, [116 Stat. 1918][/us/stat/116/1918].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t15/s1141g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1141g
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
-[/us/pl/107/273/s13402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13402
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1918
 
 

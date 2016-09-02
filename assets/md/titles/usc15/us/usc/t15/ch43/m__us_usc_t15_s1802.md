@@ -29,7 +29,7 @@
 
     (6) The term “person” means any individual, and any partnership, corporation, association, or other legal entity existing under or authorized by the law of the United States, any State or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any foreign country.
 
-([Pub. L. 91–353, § 3][/us/pl/91/353/s3], July 24, 1970, [84 Stat. 466][/us/stat/84/466].)
+([Pub. L. 91–353][/us/pl/91/353], § 3, July 24, 1970, [84 Stat. 466][/us/stat/84/466].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s44]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs44
-[/us/pl/91/353/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F353%2Fs3
+[/us/pl/91/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F353
 [/us/stat/84/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F466
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

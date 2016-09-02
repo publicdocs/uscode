@@ -49,7 +49,7 @@
 
         Not later than 1 year after December 18, 2014, and every 5 years thereafter, the Director shall transmit the strategic plan under subsection (c) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
 
-([Pub. L. 113–274, title IV, § 401][/us/pl/113/274/s401], Dec. 18, 2014, [128 Stat. 2985][/us/stat/128/2985].)
+([Pub. L. 113–274, title IV][/us/pl/113/274/tIV], § 401, Dec. 18, 2014, [128 Stat. 2985][/us/stat/128/2985].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/113/274/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs401
+[/us/pl/113/274/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2FtIV
 [/us/stat/128/2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2985
 
 

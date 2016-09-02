@@ -41,7 +41,7 @@
 
         The term “program component area” means a major subject area established under [section 7501(c)(2) of this title][/us/usc/t15/s7501/c/2] under which is  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “are”. </sup></sup>  grouped related individual projects and activities carried out under the Program.
 
-([Pub. L. 108–153, § 10][/us/pl/108/153/s10], Dec. 3, 2003, [117 Stat. 1931][/us/stat/117/1931].)
+([Pub. L. 108–153][/us/pl/108/153], § 10, Dec. 3, 2003, [117 Stat. 1931][/us/stat/117/1931].)
 
 ----------
 
@@ -54,7 +54,7 @@
 [/us/usc/t15/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7501
 [/us/usc/t15/s7501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7501%2Fc
 [/us/usc/t15/s7501/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7501%2Fc%2F2
-[/us/pl/108/153/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F153%2Fs10
+[/us/pl/108/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F153
 [/us/stat/117/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1931
 
 

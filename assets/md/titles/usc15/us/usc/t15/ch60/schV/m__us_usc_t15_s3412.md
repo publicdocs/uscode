@@ -27,7 +27,7 @@
 
         The Commission or any other Federal officer or agency authorized to issue rules or orders described in subsection (a) (other than an order under section 3361, 3362, or 3363 of this title) shall, by rule, provide for the making of such adjustments, consistent with the other purposes of this chapter, as may be necessary to prevent special hardship, inequity, or an unfair distribution of burdens. Such rule shall establish procedures which are available to any person for the purpose of seeking an interpretation, modification, or rescission of, exception to, or exemption from, such applicable rules or orders. If any person is aggrieved or adversely affected by the denial of a request for adjustment under the preceding sentence, such person may request a review of such denial by the officer or agency and may obtain judicial review in accordance with [section 3416 of this title][/us/usc/t15/s3416] when such denial becomes final. The officer or agency shall, by rule, establish procedures, including an opportunity for oral presentation of data, views, and arguments, for considering requests for adjustment under this subsection.
 
-([Pub. L. 95–621, title V, § 502][/us/pl/95/621/s502], Nov. 9, 1978, [92 Stat. 3397][/us/stat/92/3397]; [Pub. L. 101–60, § 3(a)(3)][/us/pl/101/60/s3/a/3], July 26, 1989, [103 Stat. 158][/us/stat/103/158].)
+([Pub. L. 95–621, title V][/us/pl/95/621/tV], § 502, Nov. 9, 1978, [92 Stat. 3397][/us/stat/92/3397]; [Pub. L. 101–60][/us/pl/101/60], § 3(a)(3), July 26, 1989, [103 Stat. 158][/us/stat/103/158].)
 
  __Amendments__ 
 
@@ -43,9 +43,9 @@
 [/us/usc/t5/s551/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F4
 [/us/usc/t5/s553/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553%2Fd%2F3
 [/us/usc/t15/s3416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3416
-[/us/pl/95/621/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs502
+[/us/pl/95/621/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2FtV
 [/us/stat/92/3397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3397
-[/us/pl/101/60/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fa%2F3
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
 [/us/stat/103/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F158
 [/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
 [/us/usc/t15/s3347/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3347%2Fc

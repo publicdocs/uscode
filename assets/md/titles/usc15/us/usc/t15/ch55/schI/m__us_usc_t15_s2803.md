@@ -91,7 +91,7 @@
 
             (B) the requirements of section 2802(b)(2)(E)(ii) and (iii) of this title are satisfied.
 
-([Pub. L. 95–297, title I, § 103][/us/pl/95/297/s103], June 19, 1978, [92 Stat. 328][/us/stat/92/328].)
+([Pub. L. 95–297, title I][/us/pl/95/297/tI], § 103, June 19, 1978, [92 Stat. 328][/us/stat/92/328].)
 
 ----------
 
@@ -107,7 +107,7 @@
 [/us/usc/t15/s2802/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2802%2Fb%2F2%2FE
 [/us/usc/t15/s2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2804
 [/us/usc/t15/s2802/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2802%2Fb%2F2%2FE
-[/us/pl/95/297/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2Fs103
+[/us/pl/95/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2FtI
 [/us/stat/92/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F328
 
 

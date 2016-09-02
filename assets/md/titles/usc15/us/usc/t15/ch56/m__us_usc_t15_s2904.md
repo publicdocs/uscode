@@ -105,7 +105,7 @@
 
          Each Federal agency and department participating in the Program, shall prepare and submit to the Office of Management and Budget, on or before the date of submission of departmental requests for appropriations to the Office of Management and Budget, an annual request for appropriations for the Program for the subsequent fiscal year and shall transmit a copy of such request to the National Climate Program Office. The Office of Management and Budget shall review the request for appropriations as an integrated, coherent, multiagency request.
 
-([Pub. L. 95–367, § 5(a)][/us/pl/95/367/s5/a]–(g)(1), Sept. 17, 1978, [92 Stat. 601–603][/us/stat/92/601-603]; [Pub. L. 99–272, title VI, § 6084(b)][/us/pl/99/272/s6084/b]–(f), Apr. 7, 1986, [100 Stat. 136][/us/stat/100/136], 137.)
+([Pub. L. 95–367][/us/pl/95/367], § 5(a)–(g)(1), Sept. 17, 1978, [92 Stat. 601–603][/us/stat/92/601-603]; [Pub. L. 99–272, title VI][/us/pl/99/272/tVI], § 6084(b)–(f), Apr. 7, 1986, [100 Stat. 136][/us/stat/100/136], 137.)
 
  __Codification__ 
 
@@ -113,17 +113,17 @@
 
  __Amendments__ 
 
-    1986—Subsec. (c). [Pub. L. 99–272, § 6084(b)][/us/pl/99/272/s6084/b], designated first sentence as par. (1), substituted pars. (2) and (3) for second sentence which provided that “The Office shall be the lead entity responsible for administering the Program”, and designated third sentence as par. (4).
+    1986—Subsec. (c). [Pub. L. 99–272][/us/pl/99/272], § 6084(b), designated first sentence as par. (1), substituted pars. (2) and (3) for second sentence which provided that “The Office shall be the lead entity responsible for administering the Program”, and designated third sentence as par. (4).
 
-    Subsec. (d)(7). [Pub. L. 99–272, § 6084(c)(1)][/us/pl/99/272/s6084/c/1], inserted provision that such mechanisms may provide, among others, for certain enumerated State and regional services and functions.
+    Subsec. (d)(7). [Pub. L. 99–272][/us/pl/99/272], § 6084(c)(1), inserted provision that such mechanisms may provide, among others, for certain enumerated State and regional services and functions.
 
-    Subsec. (d)(9). [Pub. L. 99–272, § 6084(c)(2)][/us/pl/99/272/s6084/c/2], (3), substituted “at least once every four years” for “biennially” and “described in paragraph (7)” for “under [section 2905 of this title][/us/usc/t15/s2905]”.
+    Subsec. (d)(9). [Pub. L. 99–272][/us/pl/99/272], § 6084(c)(2), (3), substituted “at least once every four years” for “biennially” and “described in paragraph (7)” for “under [section 2905 of this title][/us/usc/t15/s2905]”.
 
-    Subsec. (e). [Pub. L. 99–272, § 6084(d)][/us/pl/99/272/s6084/d], substituted provisions relating to the establishment and maintenance of the Climate Program Policy Board for provisions relating to the establishment and maintenance of an advisory committee and interagency groups.
+    Subsec. (e). [Pub. L. 99–272][/us/pl/99/272], § 6084(d), substituted provisions relating to the establishment and maintenance of the Climate Program Policy Board for provisions relating to the establishment and maintenance of an advisory committee and interagency groups.
 
-    Subsec. (f)(2). [Pub. L. 99–272, § 6084(e)][/us/pl/99/272/s6084/e], substituted “shall cooperate with the Office in” for “shall cooperate in”.
+    Subsec. (f)(2). [Pub. L. 99–272][/us/pl/99/272], § 6084(e), substituted “shall cooperate with the Office in” for “shall cooperate in”.
 
-    Subsec. (g). [Pub. L. 99–272, § 6084(f)][/us/pl/99/272/s6084/f], inserted provision requiring each Federal agency and department participating in the Program to transmit a copy of such request to the National Climate Program Office.
+    Subsec. (g). [Pub. L. 99–272][/us/pl/99/272], § 6084(f), inserted provision requiring each Federal agency and department participating in the Program to transmit a copy of such request to the National Climate Program Office.
 
 ----------
 
@@ -132,17 +132,17 @@
 ----------
 ----------
 
-[/us/pl/95/367/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F367%2Fs5%2Fa
+[/us/pl/95/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F367
 [/us/stat/92/601-603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F601-603
-[/us/pl/99/272/s6084/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6084%2Fb
+[/us/pl/99/272/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtVI
 [/us/stat/100/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F136
 [/us/pl/95/367/s5/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F367%2Fs5%2Fg
-[/us/pl/99/272/s6084/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6084%2Fb
-[/us/pl/99/272/s6084/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6084%2Fc%2F1
-[/us/pl/99/272/s6084/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6084%2Fc%2F2
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/usc/t15/s2905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2905
-[/us/pl/99/272/s6084/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6084%2Fd
-[/us/pl/99/272/s6084/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6084%2Fe
-[/us/pl/99/272/s6084/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6084%2Ff
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 
 

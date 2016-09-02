@@ -23,15 +23,15 @@
 
     Any officer or employee of the Commission who shall make public any information obtained by the Commission without its authority, unless directed by a court, shall be deemed guilty of a misdemeanor, and, upon conviction thereof, shall be punished by a fine not exceeding $5,000, or by imprisonment not exceeding one year, or by fine and imprisonment, in the discretion of the court.
 
-([Sept. 26, 1914, ch. 311, § 10][/us/act/1914-09-26/ch311/s10], [38 Stat. 723][/us/stat/38/723]; [June 25, 1948, ch. 646, § 1][/us/act/1948-06-25/ch646/s1], [62 Stat. 909][/us/stat/62/909]; [Pub. L. 93–637, title II, § 203(c)][/us/pl/93/637/s203/c], Jan. 4, 1975, [88 Stat. 2199][/us/stat/88/2199]; [Pub. L. 96–252, § 6][/us/pl/96/252/s6], May 28, 1980, [94 Stat. 376][/us/stat/94/376].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 10, [38 Stat. 723][/us/stat/38/723]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 1, [62 Stat. 909][/us/stat/62/909]; [Pub. L. 93–637, title II][/us/pl/93/637/tII], § 203(c), Jan. 4, 1975, [88 Stat. 2199][/us/stat/88/2199]; [Pub. L. 96–252][/us/pl/96/252], § 6, May 28, 1980, [94 Stat. 376][/us/stat/94/376].)
 
  __Amendments__ 
 
     1980—First par. [Pub. L. 96–252][/us/pl/96/252] inserted “any” after “produce” and “an order of a district court of the United States directing compliance with” after “obedience to”.
 
-    1975—Second par. [Pub. L. 93–637, § 203(c)(1)][/us/pl/93/637/s203/c/1], substituted “person, partnership, or corporation” for “corporation” wherever appearing.
+    1975—Second par. [Pub. L. 93–637][/us/pl/93/637], § 203(c)(1), substituted “person, partnership, or corporation” for “corporation” wherever appearing.
 
-    Third par. [Pub. L. 93–637, § 203(c)(2)][/us/pl/93/637/s203/c/2], substituted “If any persons, partnership, or corporation” for “If any corporation”, and “in the case of a corporation or partnership in the district where the corporation or partnership has its principal office or in any district in which it shall do business, and in the case of any person in the district where such person resides or has his principal place of business” for “in the district where the corporation has its principal office or in any district in which it shall do business”.
+    Third par. [Pub. L. 93–637][/us/pl/93/637], § 203(c)(2), substituted “If any persons, partnership, or corporation” for “If any corporation”, and “in the case of a corporation or partnership in the district where the corporation or partnership has its principal office or in any district in which it shall do business, and in the case of any person in the district where such person resides or has his principal place of business” for “in the district where the corporation has its principal office or in any district in which it shall do business”.
 
  __Change of Name__ 
 
@@ -52,17 +52,17 @@
 ----------
 ----------
 
-[/us/act/1914-09-26/ch311/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs10
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F723
-[/us/act/1948-06-25/ch646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs1
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F909
-[/us/pl/93/637/s203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs203%2Fc
+[/us/pl/93/637/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2FtII
 [/us/stat/88/2199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2199
-[/us/pl/96/252/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs6
+[/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
 [/us/stat/94/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F376
 [/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
-[/us/pl/93/637/s203/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs203%2Fc%2F1
-[/us/pl/93/637/s203/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs203%2Fc%2F2
+[/us/pl/93/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637
+[/us/pl/93/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637
 [/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
 [/us/pl/96/252/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs23
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45

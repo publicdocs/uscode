@@ -23,7 +23,7 @@
 
         Within 12 months after June 30, 2000, the Secretary of Commerce and the Federal Trade Commission shall submit a report to the Congress evaluating any benefits provided to consumers by the procedure required by [section 7001(c)(1)(C)(ii) of this title][/us/usc/t15/s7001/c/1/C/ii]; any burdens imposed on electronic commerce by that provision; whether the benefits outweigh the burdens; whether the absence of the procedure required by [section 7001(c)(1)(C)(ii) of this title][/us/usc/t15/s7001/c/1/C/ii] would increase the incidence of fraud directed against consumers; and suggesting any revisions to the provision deemed appropriate by the Secretary and the Commission. In conducting this evaluation, the Secretary and the Commission shall solicit comment from the general public, consumer representatives, and electronic commerce businesses.
 
-([Pub. L. 106–229, title I, § 105][/us/pl/106/229/s105], June 30, 2000, [114 Stat. 471][/us/stat/114/471].)
+([Pub. L. 106–229, title I][/us/pl/106/229/tI], § 105, June 30, 2000, [114 Stat. 471][/us/stat/114/471].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t15/s7001/c/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7001%2Fc%2F1%2FC%2Fii
 [/us/usc/t15/s7001/c/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7001%2Fc%2F1%2FC%2Fii
-[/us/pl/106/229/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2Fs105
+[/us/pl/106/229/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2FtI
 [/us/stat/114/471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F471
 
 

@@ -105,7 +105,7 @@
 
         No State or local government may impose any liability for commercial activities or actions by operators in interstate or foreign commerce in connection with an activity or action described in this chapter that is inconsistent with the treatment of those activities or actions under this section.
 
-([Pub. L. 105–277, div. C, title XIII, § 1303][/us/pl/105/277/s1303], Oct. 21, 1998, [112 Stat. 2681–730][/us/stat/112/2681-730].)
+([Pub. L. 105–277, div. C, title XIII][/us/pl/105/277/dC/tXIII], § 1303, Oct. 21, 1998, [112 Stat. 2681–730][/us/stat/112/2681-730].)
 
  __Effective Date__ 
 
@@ -120,7 +120,7 @@
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t15/s57a/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a%2Fa%2F1%2FB
-[/us/pl/105/277/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1303
+[/us/pl/105/277/dC/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtXIII
 [/us/stat/112/2681-730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-730
 [/us/pl/105/277/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1308
 [/us/usc/t15/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6501

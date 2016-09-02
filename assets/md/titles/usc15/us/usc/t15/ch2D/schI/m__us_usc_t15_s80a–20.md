@@ -35,13 +35,13 @@
 
         If cross-ownership or circular ownership between a registered investment company and any other company or companies comes into existence upon the purchase by a registered investment company of the securities of another company, it shall be the duty of such registered company, within one year after it first knows of the existence of such cross-ownership or circular ownership, to eliminate the same.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 20, [54 Stat. 822][/us/stat/54/822]; [Pub. L. 100–181, title VI, § 614][/us/pl/100/181/s614], Dec. 4, 1987, [101 Stat. 1262][/us/stat/101/1262].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 20, [54 Stat. 822][/us/stat/54/822]; [Pub. L. 100–181, title VI][/us/pl/100/181/tVI], § 614, Dec. 4, 1987, [101 Stat. 1262][/us/stat/101/1262].)
 
  __Amendments__ 
 
-    1987—Subsec. (b). [Pub. L. 100–181, § 614(1)][/us/pl/100/181/s614/1], struck out at end “The prohibitions of this subsection shall not apply to a class of voting-trust certificates, if any certificate of such class was made the subject of a public offering by the issuer or by or through an underwriter prior to March 15, 1940.”
+    1987—Subsec. (b). [Pub. L. 100–181][/us/pl/100/181], § 614(1), struck out at end “The prohibitions of this subsection shall not apply to a class of voting-trust certificates, if any certificate of such class was made the subject of a public offering by the issuer or by or through an underwriter prior to March 15, 1940.”
 
-    Subsec. (d). [Pub. L. 100–181, § 614(2)][/us/pl/100/181/s614/2], (3), struck out first sentence “If on the effective date of this subchapter cross-ownership or circular ownership exists between a registered investment company and any other company or companies, it shall be the duty of such registered company, within five years after such effective date, to eliminate such cross-ownership or circular ownership.” and “at any time after the effective date of this subchapter” after “If” in second sentence.
+    Subsec. (d). [Pub. L. 100–181][/us/pl/100/181], § 614(2), (3), struck out first sentence “If on the effective date of this subchapter cross-ownership or circular ownership exists between a registered investment company and any other company or companies, it shall be the duty of such registered company, within five years after such effective date, to eliminate such cross-ownership or circular ownership.” and “at any time after the effective date of this subchapter” after “If” in second sentence.
 
  __Transfer of Functions__ 
 
@@ -56,10 +56,10 @@
 
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F822
-[/us/pl/100/181/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs614
+[/us/pl/100/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVI
 [/us/stat/101/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1262
-[/us/pl/100/181/s614/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs614%2F1
-[/us/pl/100/181/s614/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs614%2F2
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t15/s78d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d
 

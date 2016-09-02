@@ -39,15 +39,15 @@
 
     (6) “Program” means the United States Global Change Research Program established under [section 2933 of this title][/us/usc/t15/s2933].
 
-([Pub. L. 101–606, § 2][/us/pl/101/606/s2], Nov. 16, 1990, [104 Stat. 3096][/us/stat/104/3096].)
+([Pub. L. 101–606][/us/pl/101/606], § 2, Nov. 16, 1990, [104 Stat. 3096][/us/stat/104/3096].)
 
  __Short Title__ 
 
-[Pub. L. 101–606, § 1][/us/pl/101/606/s1], Nov. 16, 1990, [104 Stat. 3096][/us/stat/104/3096], provided that: 
+[Pub. L. 101–606][/us/pl/101/606], § 1, Nov. 16, 1990, [104 Stat. 3096][/us/stat/104/3096], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Global Change Research Act of 1990’.”
 
-[Pub. L. 101–606, title II, § 201][/us/pl/101/606/s201], Nov. 16, 1990, [104 Stat. 3102][/us/stat/104/3102], provided that: 
+[Pub. L. 101–606, title II][/us/pl/101/606/tII], § 201, Nov. 16, 1990, [104 Stat. 3102][/us/stat/104/3102], provided that: 
 
 > “This title \[enacting subchapter II of this chapter\] may be cited as the ‘International Cooperation in Global Change Research Act of 1990’.”
 
@@ -61,11 +61,11 @@
 [/us/usc/t15/s2932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2932
 [/us/usc/t15/s2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2934
 [/us/usc/t15/s2933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2933
-[/us/pl/101/606/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2Fs2
+[/us/pl/101/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606
 [/us/stat/104/3096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3096
-[/us/pl/101/606/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2Fs1
+[/us/pl/101/606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606
 [/us/stat/104/3096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3096
-[/us/pl/101/606/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2Fs201
+[/us/pl/101/606/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2FtII
 [/us/stat/104/3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3102
 
 

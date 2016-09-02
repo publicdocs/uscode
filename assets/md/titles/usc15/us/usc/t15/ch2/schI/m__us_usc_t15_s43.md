@@ -17,7 +17,7 @@
 
     The principal office of the Commission shall be in the city of Washington, but it may meet and exercise all its powers at any other place. The Commission may, by one or more of its members, or by such examiners as it may designate, prosecute any inquiry necessary to its duties in any part of the United States.
 
-([Sept. 26, 1914, ch. 311, § 3][/us/act/1914-09-26/ch311/s3], [38 Stat. 719][/us/stat/38/719].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 3, [38 Stat. 719][/us/stat/38/719].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1914-09-26/ch311/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs3
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F719
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41

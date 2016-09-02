@@ -17,7 +17,7 @@
 
     The Administrator may, for a period not to exceed thirty days in any one calendar year, provide for the exercise or performance of a management oversight review with respect to the conduct of any Federal or State (with consent of the Governor) energy program conducted pursuant to this chapter. Such review may be conducted by contract or by any Federal department or agency. A written report shall be submitted to the Administrator concerning the findings of the review.
 
-([Pub. L. 93–275, § 19][/us/pl/93/275/s19], May 7, 1974, [88 Stat. 111][/us/stat/88/111].)
+([Pub. L. 93–275][/us/pl/93/275], § 19, May 7, 1974, [88 Stat. 111][/us/stat/88/111].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/275/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs19
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F111
 
 

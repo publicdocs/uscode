@@ -17,7 +17,7 @@
 
     Every person to whom a certificate of review is issued shall submit to the Secretary an annual report, in such form and at such time as the Secretary may require, that updates where necessary the information required by [section 4012(a) of this title][/us/usc/t15/s4012/a].
 
-([Pub. L. 97–290, title III, § 308][/us/pl/97/290/s308], Oct. 8, 1982, [96 Stat. 1244][/us/stat/96/1244].)
+([Pub. L. 97–290, title III][/us/pl/97/290/tIII], § 308, Oct. 8, 1982, [96 Stat. 1244][/us/stat/96/1244].)
 
  __Effective Date__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t15/s4012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4012%2Fa
-[/us/pl/97/290/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs308
+[/us/pl/97/290/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2FtIII
 [/us/stat/96/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1244
 [/us/pl/97/290/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs312
 [/us/usc/t15/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4011

@@ -49,7 +49,7 @@
 
         (2) The Secretary shall establish and maintain a hotline system to facilitate the reporting of alleged violations of this chapter, and the Secretary shall evaluate allegations reported through that system and report any credible allegations to the Attorney General.
 
-([Pub. L. 101–592, § 6][/us/pl/101/592/s6], formerly § 9, Nov. 16, 1990, [104 Stat. 2950][/us/stat/104/2950]; [Pub. L. 104–113, § 11(g)][/us/pl/104/113/s11/g], Mar. 7, 1996, [110 Stat. 782][/us/stat/110/782]; renumbered § 6 and amended [Pub. L. 106–34, § 6][/us/pl/106/34/s6], June 8, 1999, [113 Stat. 122][/us/stat/113/122].)
+([Pub. L. 101–592][/us/pl/101/592], § 6, formerly § 9, Nov. 16, 1990, [104 Stat. 2950][/us/stat/104/2950]; [Pub. L. 104–113][/us/pl/104/113], § 11(g), Mar. 7, 1996, [110 Stat. 782][/us/stat/110/782]; renumbered § 6 and amended [Pub. L. 106–34][/us/pl/106/34], § 6, June 8, 1999, [113 Stat. 122][/us/stat/113/122].)
 
  __Prior Provisions__ 
 
@@ -57,11 +57,11 @@
 
  __Amendments__ 
 
-    1999—Subsec. (b)(3). [Pub. L. 106–34, § 6(1)][/us/pl/106/34/s6/1], substituted “of this subsection” for “of this section”.
+    1999—Subsec. (b)(3). [Pub. L. 106–34][/us/pl/106/34], § 6(1), substituted “of this subsection” for “of this section”.
 
-    Subsec. (b)(4). [Pub. L. 106–34, § 6(2)][/us/pl/106/34/s6/2], inserted “arbitrate,” after “Secretary may”.
+    Subsec. (b)(4). [Pub. L. 106–34][/us/pl/106/34], § 6(2), inserted “arbitrate,” after “Secretary may”.
 
-    Subsec. (d). [Pub. L. 106–34, § 6(3)][/us/pl/106/34/s6/3], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (d). [Pub. L. 106–34][/us/pl/106/34], § 6(3), designated existing provisions as par. (1) and added par. (2).
 
     1996—Subsec. (d). [Pub. L. 104–113][/us/pl/104/113] added subsec. (d).
 
@@ -73,18 +73,18 @@
 ----------
 
 [/us/usc/t5/s706/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706%2F2
-[/us/pl/101/592/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F592%2Fs6
+[/us/pl/101/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F592
 [/us/stat/104/2950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2950
-[/us/pl/104/113/s11/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs11%2Fg
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 [/us/stat/110/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F782
-[/us/pl/106/34/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34%2Fs6
+[/us/pl/106/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34
 [/us/stat/113/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F122
 [/us/pl/101/592/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F592%2Fs6
 [/us/usc/t15/s5405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5405
 [/us/pl/106/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34
-[/us/pl/106/34/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34%2Fs6%2F1
-[/us/pl/106/34/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34%2Fs6%2F2
-[/us/pl/106/34/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34%2Fs6%2F3
+[/us/pl/106/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34
+[/us/pl/106/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34
+[/us/pl/106/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34
 [/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 
 

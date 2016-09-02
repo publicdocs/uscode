@@ -33,11 +33,11 @@
 
     (h) Carry out such other operations as the Congress may specifically authorize or provide for.    In the Corporation’s purchasing and selling operations with respect to agricultural commodities (other than tobacco) (except sales to other Government agencies), and in the warehousing, transporting, processing, or handling of agricultural commodities (other than tobacco), the Corporation shall, to the maximum extent practicable consistent with the fulfillment of the Corporation’s purposes and the effective and efficient conduct of its business, utilize the usual and customary channels, facilities, and arrangements of trade and commerce (including, at the option of the Corporation, the use of private sector entities).
 
-([June 29, 1948, ch. 704, § 5][/us/act/1948-06-29/ch704/s5], [62 Stat. 1072][/us/stat/62/1072]; [Pub. L. 98–623, title IV, § 405(a)][/us/pl/98/623/s405/a], Nov. 8, 1984, [98 Stat. 3409][/us/stat/98/3409]; [Pub. L. 104–127, title III, § 381(a)][/us/pl/104/127/s381/a], Apr. 4, 1996, [110 Stat. 1016][/us/stat/110/1016]; [Pub. L. 107–171, title I, § 1609][/us/pl/107/171/s1609], May 13, 2002, [116 Stat. 218][/us/stat/116/218]; [Pub. L. 108–357, title VI, § 612(d)][/us/pl/108/357/s612/d], Oct. 22, 2004, [118 Stat. 1524][/us/stat/118/1524].)
+([June 29, 1948, ch. 704][/us/act/1948-06-29/ch704], § 5, [62 Stat. 1072][/us/stat/62/1072]; [Pub. L. 98–623, title IV][/us/pl/98/623/tIV], § 405(a), Nov. 8, 1984, [98 Stat. 3409][/us/stat/98/3409]; [Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 381(a), Apr. 4, 1996, [110 Stat. 1016][/us/stat/110/1016]; [Pub. L. 107–171, title I][/us/pl/107/171/tI], § 1609, May 13, 2002, [116 Stat. 218][/us/stat/116/218]; [Pub. L. 108–357, title VI][/us/pl/108/357/tVI], § 612(d), Oct. 22, 2004, [118 Stat. 1524][/us/stat/118/1524].)
 
  __Codification__ 
 
-    “Chapter 91 of title 31” substituted in provision preceding subsec. (a) for “the Government Corporation Control Act (31 U.S.C., 1940 edition, Supp. V, 841)” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    “Chapter 91 of title 31” substituted in provision preceding subsec. (a) for “the Government Corporation Control Act (31 U.S.C., 1940 edition, Supp. V, 841)” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
@@ -55,13 +55,13 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–127, title III, § 381(b)][/us/pl/104/127/s381/b], Apr. 4, 1996, [110 Stat. 1016][/us/stat/110/1016], provided that: 
+[Pub. L. 104–127, title III][/us/pl/104/127/tIII], § 381(b), Apr. 4, 1996, [110 Stat. 1016][/us/stat/110/1016], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall become effective on January 1, 1997.”
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–623, title IV, § 405(d)][/us/pl/98/623/s405/d], Nov. 8, 1984, [98 Stat. 3409][/us/stat/98/3409], provided that: 
+[Pub. L. 98–623, title IV][/us/pl/98/623/tIV], § 405(d), Nov. 8, 1984, [98 Stat. 3409][/us/stat/98/3409], provided that: 
 
 > “For purposes of section 135 of the Omnibus Budget Reconciliation Act of 1982 ([7 U.S.C. 612c][/us/usc/t7/s612c] note) \[[Pub. L. 97–253][/us/pl/97/253]\], the amendments made by this section \[amending this section and sections 1707a and 1732 of Title 7, Agriculture\] shall be considered to have taken effect before the date of the enactment of that Act \[Sept. 8, 1982\].”
 
@@ -75,7 +75,7 @@
 
  __Export Enhancement Program; Promotion of United States Meat Exports__ 
 
-[Pub. L. 101–220, § 2][/us/pl/101/220/s2], Dec. 12, 1989, [103 Stat. 1876][/us/stat/103/1876], provided that:
+[Pub. L. 101–220][/us/pl/101/220], § 2, Dec. 12, 1989, [103 Stat. 1876][/us/stat/103/1876], provided that:
 
 >     “(a)  __Commissaries__  __.—__ 
 
@@ -97,7 +97,7 @@
 
  __Use of Commodity Credit Corporation for Purchase of Agricultural Products Formerly Intended for Export to Soviet Union__ 
 
-[Pub. L. 96–494, title II, § 206][/us/pl/96/494/s206], Dec. 3, 1980, [94 Stat. 2572][/us/stat/94/2572], provided that: 
+[Pub. L. 96–494, title II][/us/pl/96/494/tII], § 206, Dec. 3, 1980, [94 Stat. 2572][/us/stat/94/2572], provided that: 
 
 > “Notwithstanding any other provision of law, the Secretary of Agriculture may use, subject to such terms and conditions as the Secretary may deem appropriate, the funds, facilities, and authorities of the Commodity Credit Corporation in purchasing and handling agricultural products, other than grains, that—
 
@@ -114,17 +114,17 @@
 ----------
 ----------
 
-[/us/act/1948-06-29/ch704/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch704%2Fs5
+[/us/act/1948-06-29/ch704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch704
 [/us/stat/62/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1072
-[/us/pl/98/623/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs405%2Fa
+[/us/pl/98/623/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtIV
 [/us/stat/98/3409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3409
-[/us/pl/104/127/s381/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs381%2Fa
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1016
-[/us/pl/107/171/s1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2Fs1609
+[/us/pl/107/171/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171%2FtI
 [/us/stat/116/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F218
-[/us/pl/108/357/s612/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs612%2Fd
+[/us/pl/108/357/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVI
 [/us/stat/118/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1524
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171
@@ -133,9 +133,9 @@
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/357/s643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs643
 [/us/usc/t7/s518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs518
-[/us/pl/104/127/s381/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs381%2Fb
+[/us/pl/104/127/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2FtIII
 [/us/stat/110/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1016
-[/us/pl/98/623/s405/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2Fs405%2Fd
+[/us/pl/98/623/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F623%2FtIV
 [/us/stat/98/3409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3409
 [/us/usc/t7/s612c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs612c
 [/us/pl/97/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F253
@@ -143,7 +143,7 @@
 [/us/pl/108/357/s614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs614
 [/us/usc/t7/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs515
 [/us/usc/t15/s712a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs712a
-[/us/pl/101/220/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220%2Fs2
+[/us/pl/101/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F220
 [/us/stat/103/1876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1876
 [/us/usc/t15/s714c/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714c%2Ff
 [/us/usc/t15/s714c/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714c%2Ff
@@ -151,7 +151,7 @@
 [/us/stat/57/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F566
 [/us/usc/t15/s713a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713a
 [/us/usc/t15/s713a–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713a%E2%80%939
-[/us/pl/96/494/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2Fs206
+[/us/pl/96/494/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F494%2FtII
 [/us/stat/94/2572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2572
 
 

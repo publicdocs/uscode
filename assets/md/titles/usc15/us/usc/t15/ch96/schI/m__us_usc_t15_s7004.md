@@ -97,11 +97,11 @@
 
         The Federal Communications Commission shall not hold any contract for telecommunications service or letter of agency for a preferred carrier change, that otherwise complies with the Commission’s rules, to be legally ineffective, invalid, or unenforceable solely because an electronic record or electronic signature was used in its formation or authorization.
 
-([Pub. L. 106–229, title I, § 104][/us/pl/106/229/s104], June 30, 2000, [114 Stat. 469][/us/stat/114/469].)
+([Pub. L. 106–229, title I][/us/pl/106/229/tI], § 104, June 30, 2000, [114 Stat. 469][/us/stat/114/469].)
 
  __References in Text__ 
 
-    The Government Paperwork Elimination Act, referred to in subsec. (c)(2), is title XVII of [Pub. L. 105–277, div. C][/us/pl/105/277], Oct. 21, 1998, [112 Stat. 2681–749][/us/stat/112/2681-749], which amended [section 3504 of Title 44][/us/usc/t44/s3504], Public Printing and Documents, and enacted provisions set out as a note under [section 3504 of Title 44][/us/usc/t44/s3504]. For complete classification of this Act to the Code, see Tables.
+    The Government Paperwork Elimination Act, referred to in subsec. (c)(2), is title XVII of [Pub. L. 105–277, div. C][/us/pl/105/277/dC], Oct. 21, 1998, [112 Stat. 2681–749][/us/stat/112/2681-749], which amended [section 3504 of Title 44][/us/usc/t44/s3504], Public Printing and Documents, and enacted provisions set out as a note under [section 3504 of Title 44][/us/usc/t44/s3504]. For complete classification of this Act to the Code, see Tables.
 
     The Investment Company Act of 1940, referred to in subsec. (d)(2), is title I of [act Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], [54 Stat. 789][/us/stat/54/789], as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title][/us/usc/t15/s80a–51] and Tables.
 
@@ -123,9 +123,9 @@
 [/us/usc/t15/s7001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7001%2Fc
 [/us/usc/t15/s80a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%931
 [/us/usc/t15/s77b/a/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77b%2Fa%2F10%2FA
-[/us/pl/106/229/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2Fs104
+[/us/pl/106/229/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2FtI
 [/us/stat/114/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F469
-[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC
 [/us/stat/112/2681-749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-749
 [/us/usc/t44/s3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3504
 [/us/usc/t44/s3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3504

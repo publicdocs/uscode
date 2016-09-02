@@ -23,7 +23,7 @@
 
         The programs, projects, and activities described in subsection (a) shall be included in the budget for general science and research activities of the Department of Energy, except that any programs, projects, and activities that directly support and directly benefit the defense activities of the Department shall be included in the budget for atomic energy defense activities of the Department of Energy.
 
-([Pub. L. 100–180, div. C, title I, § 3146][/us/pl/100/180/s3146], Dec. 4, 1987, [101 Stat. 1243][/us/stat/101/1243].)
+([Pub. L. 100–180, div. C, title I][/us/pl/100/180/dC/tI], § 3146, Dec. 4, 1987, [101 Stat. 1243][/us/stat/101/1243].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/100/180/s3146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3146
+[/us/pl/100/180/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdC%2FtI
 [/us/stat/101/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1243
 
 

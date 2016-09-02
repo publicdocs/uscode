@@ -23,7 +23,7 @@
 
         A qualified civil liability action that is pending on October 26, 2005, shall be immediately dismissed by the court in which the action was brought or is currently pending.
 
-([Pub. L. 109–92, § 3][/us/pl/109/92/s3], Oct. 26, 2005, [119 Stat. 2096][/us/stat/119/2096].)
+([Pub. L. 109–92][/us/pl/109/92], § 3, Oct. 26, 2005, [119 Stat. 2096][/us/stat/119/2096].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/109/92/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92%2Fs3
+[/us/pl/109/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92
 [/us/stat/119/2096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2096
 
 

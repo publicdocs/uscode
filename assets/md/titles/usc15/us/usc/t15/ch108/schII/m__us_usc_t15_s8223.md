@@ -53,7 +53,7 @@
 
         The term “State” includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, the Virgin Islands, and American Samoa.
 
-([Pub. L. 111–203, title V, § 533][/us/pl/111/203/s533], July 21, 2010, [124 Stat. 1595][/us/stat/124/1595].)
+([Pub. L. 111–203, title V][/us/pl/111/203/tV], § 533, July 21, 2010, [124 Stat. 1595][/us/stat/124/1595].)
 
 ----------
 
@@ -62,7 +62,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs533
+[/us/pl/111/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtV
 [/us/stat/124/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1595
 
 

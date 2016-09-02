@@ -969,7 +969,7 @@ SUBCHAPTER III—CREDIT REPORTING AGENCIES  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1681" data-uslm-ref="/us/usc/t15/s1681">1681</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1681l" data-uslm-ref="/us/usc/t15/s1681l">1681l.</a>  </td>
 
     <td> Restrictions on investigative consumer reports.  </td>
 
@@ -993,7 +993,7 @@ SUBCHAPTER III—CREDIT REPORTING AGENCIES  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1681" data-uslm-ref="/us/usc/t15/s1681">1681</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1681o" data-uslm-ref="/us/usc/t15/s1681o">1681o.</a>  </td>
 
     <td> Civil liability for negligent noncompliance.  </td>
 
@@ -1281,7 +1281,7 @@ SUBCHAPTER V—DEBT COLLECTION PRACTICES  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1692" data-uslm-ref="/us/usc/t15/s1692">1692</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1692l" data-uslm-ref="/us/usc/t15/s1692l">1692l.</a>  </td>
 
     <td> Administrative enforcement.  </td>
 
@@ -1305,7 +1305,7 @@ SUBCHAPTER V—DEBT COLLECTION PRACTICES  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1692" data-uslm-ref="/us/usc/t15/s1692">1692</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1692o" data-uslm-ref="/us/usc/t15/s1692o">1692o.</a>  </td>
 
     <td> Exemption for State regulation.  </td>
 
@@ -1425,7 +1425,7 @@ SUBCHAPTER VI—ELECTRONIC FUND TRANSFERS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1693" data-uslm-ref="/us/usc/t15/s1693">1693</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1693l" data-uslm-ref="/us/usc/t15/s1693l">1693l.</a>  </td>
 
     <td> Waiver of rights.  </td>
 
@@ -1433,7 +1433,7 @@ SUBCHAPTER VI—ELECTRONIC FUND TRANSFERS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1693" data-uslm-ref="/us/usc/t15/s1693">1693</a>l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1693l" data-uslm-ref="/us/usc/t15/s1693l">1693l</a>–1.  </td>
 
     <td> General-use prepaid cards, gift certificates, and store gift cards.  </td>
 
@@ -1457,7 +1457,7 @@ SUBCHAPTER VI—ELECTRONIC FUND TRANSFERS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1693" data-uslm-ref="/us/usc/t15/s1693">1693</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1693o" data-uslm-ref="/us/usc/t15/s1693o">1693o.</a>  </td>
 
     <td> Administrative enforcement.  </td>
 
@@ -1465,7 +1465,7 @@ SUBCHAPTER VI—ELECTRONIC FUND TRANSFERS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1693" data-uslm-ref="/us/usc/t15/s1693">1693</a>o–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1693o" data-uslm-ref="/us/usc/t15/s1693o">1693o</a>–1.  </td>
 
     <td> Remittance transfers.  </td>
 
@@ -1473,7 +1473,7 @@ SUBCHAPTER VI—ELECTRONIC FUND TRANSFERS  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1693" data-uslm-ref="/us/usc/t15/s1693">1693</a>o–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1693o" data-uslm-ref="/us/usc/t15/s1693o">1693o</a>–2.  </td>
 
     <td> Reasonable fees and rules for payment card transactions.  </td>
 

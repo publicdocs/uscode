@@ -113,7 +113,7 @@
 
         The funds of SIPC may be made available to guarantee or secure any indemnification under paragraph (2). The prior approval of SIPC to such indemnification shall be conditioned, among such other standards as SIPC may determine, upon a determination by SIPC that the probable cost of any such indemnification can reasonably be expected not to exceed the cost to SIPC of proceeding under [section 78fff–3(a) of this title][/us/usc/t15/s78fff–3/a] and [section 78fff–3(b) of this title][/us/usc/t15/s78fff–3/b].
 
-([Pub. L. 91–598, § 8][/us/pl/91/598/s8], as added [Pub. L. 95–283, § 9][/us/pl/95/283/s9], May 21, 1978, [92 Stat. 261][/us/stat/92/261]; amended [Pub. L. 95–598, title III, § 308][/us/pl/95/598/s308](l), (m), Nov. 6, 1978, [92 Stat. 2675][/us/stat/92/2675].)
+([Pub. L. 91–598][/us/pl/91/598], § 8, as added [Pub. L. 95–283][/us/pl/95/283], § 9, May 21, 1978, [92 Stat. 261][/us/stat/92/261]; amended [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 308(l), (m), Nov. 6, 1978, [92 Stat. 2675][/us/stat/92/2675].)
 
  __Prior Provisions__ 
 
@@ -146,10 +146,10 @@
 [/us/usc/t15/s78fff–3/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78fff%E2%80%933%2Fa%2F5
 [/us/usc/t15/s78fff–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78fff%E2%80%933%2Fa
 [/us/usc/t15/s78fff–3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78fff%E2%80%933%2Fb
-[/us/pl/91/598/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598%2Fs8
-[/us/pl/95/283/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs9
+[/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/stat/92/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F261
-[/us/pl/95/598/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2675
 [/us/pl/91/598/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598%2Fs8
 [/us/usc/t15/s78hhh]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78hhh

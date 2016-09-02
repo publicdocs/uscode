@@ -17,7 +17,7 @@
 
     The effective date of the provisions of this subchapter, so far as the same relate to face-amount certificates or to face-amount certificate companies, is January 1, 1941. The effective date of provisions hereof, insofar as the same do not apply to face-amount certificates or face-amount certificate companies is November 1, 1940. Except as herein otherwise provided, every provision of this subchapter shall take effect on November 1, 1940.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 53, [54 Stat. 847][/us/stat/54/847]; [Pub. L. 100–181, title VI, § 624][/us/pl/100/181/s624], Dec. 4, 1987, [101 Stat. 1262][/us/stat/101/1262].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 53, [54 Stat. 847][/us/stat/54/847]; [Pub. L. 100–181, title VI][/us/pl/100/181/tVI], § 624, Dec. 4, 1987, [101 Stat. 1262][/us/stat/101/1262].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date of 1970 Amendment__ 
 
-[Pub. L. 91–547, § 30][/us/pl/91/547/s30], Dec. 14, 1970, [84 Stat. 1436][/us/stat/84/1436], provided that: 
+[Pub. L. 91–547][/us/pl/91/547], § 30, Dec. 14, 1970, [84 Stat. 1436][/us/stat/84/1436], provided that: 
 
 > “This Act \[see Short Title note set out under [section 80a–51 of this title][/us/usc/t15/s80a–51]\] shall take effect on the date of its enactment \[Dec. 14, 1970\], except that—
 
@@ -46,11 +46,11 @@
 
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F847
-[/us/pl/100/181/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs624
+[/us/pl/100/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVI
 [/us/stat/101/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1262
 [/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/usc/t15/s80a–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%938
-[/us/pl/91/547/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs30
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1436
 [/us/usc/t15/s80a–51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9351
 [/us/usc/t15/s80a–10/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9310%2Fd

@@ -45,17 +45,17 @@
 
         In the case of creditors determining the annual percentage rate in a manner other than as described in subsection (d), the Bureau may authorize other reasonable tolerances.
 
-([Pub. L. 90–321, title I, § 107][/us/pl/90/321/s107], May 29, 1968, [82 Stat. 149][/us/stat/82/149]; [Pub. L. 96–221, title VI, § 607][/us/pl/96/221/s607], Mar. 31, 1980, [94 Stat. 170][/us/stat/94/170]; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 107, May 29, 1968, [82 Stat. 149][/us/stat/82/149]; [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 607, Mar. 31, 1980, [94 Stat. 170][/us/stat/94/170]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 
  __Amendments__ 
 
     2010—[Pub. L. 111–203][/us/pl/111/203] substituted “Bureau” for “Board” wherever appearing.
 
-    1980—Subsec. (c). [Pub. L. 96–221, § 607(a)][/us/pl/96/221/s607/a], substituted provisions relating to allowable tolerances for purposes of compliance with disclosure requirements, for provisions relating to rounding off of annual percentage rates which are converted from single add-on or other rates.
+    1980—Subsec. (c). [Pub. L. 96–221][/us/pl/96/221], § 607(a), substituted provisions relating to allowable tolerances for purposes of compliance with disclosure requirements, for provisions relating to rounding off of annual percentage rates which are converted from single add-on or other rates.
 
-    Subsec. (e). [Pub. L. 96–221, § 607(b)][/us/pl/96/221/s607/b], struck out reference to subsection (c) of this section.
+    Subsec. (e). [Pub. L. 96–221][/us/pl/96/221], § 607(b), struck out reference to subsection (c) of this section.
 
-    Subsec. (f). [Pub. L. 96–221, § 607(c)][/us/pl/96/221/s607/c], struck out subsec. (f) setting forth requirements for form of expressing percentage rates prior to Jan. 1, 1971.
+    Subsec. (f). [Pub. L. 96–221][/us/pl/96/221], § 607(c), struck out subsec. (f) setting forth requirements for form of expressing percentage rates prior to Jan. 1, 1971.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -72,16 +72,16 @@
 ----------
 ----------
 
-[/us/pl/90/321/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs107
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
 [/us/stat/82/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F149
-[/us/pl/96/221/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs607
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F170
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/96/221/s607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs607%2Fa
-[/us/pl/96/221/s607/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs607%2Fb
-[/us/pl/96/221/s607/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs607%2Fc
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

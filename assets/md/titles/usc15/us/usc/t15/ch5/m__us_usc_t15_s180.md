@@ -13,7 +13,7 @@
 
 [Previous](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s179.md) | [Next](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s181.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs180)
 
-## § 180. Repealed. [Feb. 28, 1933, ch. 131, § 1][/us/act/1933-02-28/ch131/s1], [47 Stat. 1349][/us/stat/47/1349]
+## § 180. Repealed. [Feb. 28, 1933, ch. 131][/us/act/1933-02-28/ch131], § 1, [47 Stat. 1349][/us/stat/47/1349]
 
     Section, R.S. § 340, related to statements of vessels registered.
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/act/1933-02-28/ch131/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-02-28%2Fch131%2Fs1
+[/us/act/1933-02-28/ch131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-02-28%2Fch131
 [/us/stat/47/1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1349
 
 

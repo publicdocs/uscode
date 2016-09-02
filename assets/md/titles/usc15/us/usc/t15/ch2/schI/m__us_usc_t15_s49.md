@@ -27,15 +27,15 @@
 
     Witnesses summoned before the Commission shall be paid the same fees and mileage that are paid witnesses in the courts of the United States and witnesses whose depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
 
-([Sept. 26, 1914, ch. 311, § 9][/us/act/1914-09-26/ch311/s9], [38 Stat. 722][/us/stat/38/722]; [Pub. L. 91–452, title II, § 211][/us/pl/91/452/s211], Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929]; [Pub. L. 93–637, title II, § 203(b)][/us/pl/93/637/s203/b], Jan. 4, 1975, [88 Stat. 2198][/us/stat/88/2198].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 9, [38 Stat. 722][/us/stat/38/722]; [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 211, Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929]; [Pub. L. 93–637, title II][/us/pl/93/637/tII], § 203(b), Jan. 4, 1975, [88 Stat. 2198][/us/stat/88/2198].)
 
  __Amendments__ 
 
-    1975—First par. [Pub. L. 93–637, § 203(b)(1)][/us/pl/93/637/s203/b/1], substituted “person, partnership, or corporation” for “corporation”.
+    1975—First par. [Pub. L. 93–637][/us/pl/93/637], § 203(b)(1), substituted “person, partnership, or corporation” for “corporation”.
 
-    Third par. [Pub. L. 93–637, § 203(b)(2)][/us/pl/93/637/s203/b/2], substituted “person, partnership, or corporation” for “corporation or other person” wherever appearing.
+    Third par. [Pub. L. 93–637][/us/pl/93/637], § 203(b)(2), substituted “person, partnership, or corporation” for “corporation or other person” wherever appearing.
 
-    Fourth par. [Pub. L. 93–637, § 203(b)(3)][/us/pl/93/637/s203/b/3], substituted “person, partnership, or corporation” for “person or corporation”.
+    Fourth par. [Pub. L. 93–637][/us/pl/93/637], § 203(b)(3), substituted “person, partnership, or corporation” for “person or corporation”.
 
     1970—Seventh par. [Pub. L. 91–452][/us/pl/91/452] struck out provisions which granted immunity from prosecution for any natural person testifying or producing evidence, documentary or otherwise, before the commission in obedience to a subpoena issued by it.
 
@@ -58,15 +58,15 @@
 ----------
 ----------
 
-[/us/act/1914-09-26/ch311/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs9
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F722
-[/us/pl/91/452/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs211
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F929
-[/us/pl/93/637/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs203%2Fb
+[/us/pl/93/637/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2FtII
 [/us/stat/88/2198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2198
-[/us/pl/93/637/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs203%2Fb%2F1
-[/us/pl/93/637/s203/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs203%2Fb%2F2
-[/us/pl/93/637/s203/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs203%2Fb%2F3
+[/us/pl/93/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637
+[/us/pl/93/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637
+[/us/pl/93/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637
 [/us/pl/91/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452
 [/us/pl/91/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452
 [/us/pl/91/452/s260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs260

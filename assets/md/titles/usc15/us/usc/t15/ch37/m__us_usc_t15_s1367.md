@@ -17,7 +17,7 @@
 
     Upon notice by the Secretary to any designated agency or participating institution that no further payments will be made pending substantial compliance, correction, or repayment under [section 1366 of this title][/us/usc/t15/s1366], any funds which may have been paid to such agency or institution under this chapter and which are not expended by the agency or institution on the date of such notice, shall be repaid to the Secretary and be deposited to the account of the appropriations from which they originally were paid.
 
-([Pub. L. 89–182, § 17][/us/pl/89/182/s17], Sept. 14, 1965, [79 Stat. 684][/us/stat/79/684].)
+([Pub. L. 89–182][/us/pl/89/182], § 17, Sept. 14, 1965, [79 Stat. 684][/us/stat/79/684].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t15/s1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1366
-[/us/pl/89/182/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182%2Fs17
+[/us/pl/89/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182
 [/us/stat/79/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F684
 
 

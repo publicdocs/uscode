@@ -63,7 +63,7 @@
 
         (2) a statement detailing with particularity the recommendations of the Commission with respect to Federal interagency activities in Arctic research and the disposition and responses to those recommendations.
 
-([Pub. L. 98–373, title I, § 108][/us/pl/98/373/s108], July 31, 1984, [98 Stat. 1246][/us/stat/98/1246]; [Pub. L. 101–609, § 6][/us/pl/101/609/s6], Nov. 16, 1990, [104 Stat. 3126][/us/stat/104/3126].)
+([Pub. L. 98–373, title I][/us/pl/98/373/tI], § 108, July 31, 1984, [98 Stat. 1246][/us/stat/98/1246]; [Pub. L. 101–609][/us/pl/101/609], § 6, Nov. 16, 1990, [104 Stat. 3126][/us/stat/104/3126].)
 
  __Amendments__ 
 
@@ -99,9 +99,9 @@
 [/us/usc/t15/s4108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4108
 [/us/usc/t15/s4109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4109
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/98/373/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs108
+[/us/pl/98/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtI
 [/us/stat/98/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1246
-[/us/pl/101/609/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F609%2Fs6
+[/us/pl/101/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F609
 [/us/stat/104/3126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3126
 [/us/pl/101/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F609
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

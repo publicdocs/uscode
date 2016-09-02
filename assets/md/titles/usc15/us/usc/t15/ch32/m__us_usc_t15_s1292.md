@@ -17,7 +17,7 @@
 
     [Section 1291 of this title][/us/usc/t15/s1291] shall not apply to any joint agreement described in the first sentence in such section which prohibits any person to whom such rights are sold or transferred from televising any games within any area, except within the home territory of a member club of the league on a day when such club is playing a game at home.
 
-([Pub. L. 87–331, § 2][/us/pl/87/331/s2], Sept. 30, 1961, [75 Stat. 732][/us/stat/75/732]; [Pub. L. 89–800, § 6(b)(2)][/us/pl/89/800/s6/b/2], Nov. 8, 1966, [80 Stat. 1515][/us/stat/80/1515].)
+([Pub. L. 87–331][/us/pl/87/331], § 2, Sept. 30, 1961, [75 Stat. 732][/us/stat/75/732]; [Pub. L. 89–800][/us/pl/89/800], § 6(b)(2), Nov. 8, 1966, [80 Stat. 1515][/us/stat/80/1515].)
 
  __Amendments__ 
 
@@ -31,9 +31,9 @@
 ----------
 
 [/us/usc/t15/s1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1291
-[/us/pl/87/331/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F331%2Fs2
+[/us/pl/87/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F331
 [/us/stat/75/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F732
-[/us/pl/89/800/s6/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F800%2Fs6%2Fb%2F2
+[/us/pl/89/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F800
 [/us/stat/80/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1515
 [/us/pl/89/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F800
 

@@ -37,7 +37,7 @@
 
         (3) promote international efforts to provide technical and other assistance to developing nations which will facilitate improvements in their domestic standard of living while minimizing damage to the global or regional environment.
 
-([Pub. L. 101–606, title II, § 202][/us/pl/101/606/s202], Nov. 16, 1990, [104 Stat. 3102][/us/stat/104/3102].)
+([Pub. L. 101–606, title II][/us/pl/101/606/tII], § 202, Nov. 16, 1990, [104 Stat. 3102][/us/stat/104/3102].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/101/606/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2Fs202
+[/us/pl/101/606/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2FtII
 [/us/stat/104/3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3102
 
 

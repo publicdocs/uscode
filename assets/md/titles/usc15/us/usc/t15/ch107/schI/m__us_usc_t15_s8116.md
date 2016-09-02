@@ -19,7 +19,7 @@
 
         There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out this subchapter.
 
-([Pub. L. 110–403, title III, § 306][/us/pl/110/403/s306], Oct. 13, 2008, [122 Stat. 4270][/us/stat/122/4270].)
+([Pub. L. 110–403, title III][/us/pl/110/403/tIII], § 306, Oct. 13, 2008, [122 Stat. 4270][/us/stat/122/4270].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/110/403/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs306
+[/us/pl/110/403/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtIII
 [/us/stat/122/4270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4270
 [/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
 [/us/stat/122/4264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4264

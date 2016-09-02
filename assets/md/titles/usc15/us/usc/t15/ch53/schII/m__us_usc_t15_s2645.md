@@ -139,13 +139,13 @@
 
             (D) A list containing each local educational agency that failed to submit a management plan as of October 9, 1989.
 
-([Pub. L. 94–469, title II, § 205][/us/pl/94/469/s205], as added [Pub. L. 99–519, § 2][/us/pl/99/519/s2], Oct. 22, 1986, [100 Stat. 2979][/us/stat/100/2979]; amended [Pub. L. 100–368][/us/pl/100/368], §§ 1(a), 2, July 18, 1988, [102 Stat. 829][/us/stat/102/829], 831.)
+([Pub. L. 94–469, title II][/us/pl/94/469/tII], § 205, as added [Pub. L. 99–519][/us/pl/99/519], § 2, Oct. 22, 1986, [100 Stat. 2979][/us/stat/100/2979]; amended [Pub. L. 100–368][/us/pl/100/368], §§ 1(a), 2, July 18, 1988, [102 Stat. 829][/us/stat/102/829], 831.)
 
  __Amendments__ 
 
-    1988—Subsec. (d). [Pub. L. 100–368, § 1(a)][/us/pl/100/368/s1/a], added subsec. (d).
+    1988—Subsec. (d). [Pub. L. 100–368][/us/pl/100/368], § 1(a), added subsec. (d).
 
-    Subsec. (e). [Pub. L. 100–368, § 2][/us/pl/100/368/s2], added subsec. (e).
+    Subsec. (e). [Pub. L. 100–368][/us/pl/100/368], § 2, added subsec. (e).
 
 ----------
 
@@ -161,12 +161,12 @@
 [/us/usc/t15/s2644/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2644%2Fd
 [/us/usc/t15/s2643/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2643%2Fm
 [/us/usc/t15/s2643/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2643%2Fi
-[/us/pl/94/469/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs205
-[/us/pl/99/519/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs2
+[/us/pl/94/469/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtII
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2979
 [/us/pl/100/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F368
 [/us/stat/102/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F829
-[/us/pl/100/368/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F368%2Fs1%2Fa
-[/us/pl/100/368/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F368%2Fs2
+[/us/pl/100/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F368
+[/us/pl/100/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F368
 
 

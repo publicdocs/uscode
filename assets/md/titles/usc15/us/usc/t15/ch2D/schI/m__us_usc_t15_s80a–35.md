@@ -45,15 +45,15 @@
 
         For the purposes of subsections (a) and (b) of this section, the term “investment adviser” includes a corporate or other trustee performing the functions of an investment adviser.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 36, [54 Stat. 841][/us/stat/54/841]; [Pub. L. 91–547, § 20][/us/pl/91/547/s20], Dec. 14, 1970, [84 Stat. 1428][/us/stat/84/1428]; [Pub. L. 94–29, § 28(7)][/us/pl/94/29/s28/7], June 4, 1975, [89 Stat. 166][/us/stat/89/166]; [Pub. L. 100–181, title VI, § 622][/us/pl/100/181/s622], Dec. 4, 1987, [101 Stat. 1262][/us/stat/101/1262]; [Pub. L. 111–203, title IX, § 929F(f)][/us/pl/111/203/s929F/f], July 21, 2010, [124 Stat. 1854][/us/stat/124/1854].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 36, [54 Stat. 841][/us/stat/54/841]; [Pub. L. 91–547][/us/pl/91/547], § 20, Dec. 14, 1970, [84 Stat. 1428][/us/stat/84/1428]; [Pub. L. 94–29][/us/pl/94/29], § 28(7), June 4, 1975, [89 Stat. 166][/us/stat/89/166]; [Pub. L. 100–181, title VI][/us/pl/100/181/tVI], § 622, Dec. 4, 1987, [101 Stat. 1262][/us/stat/101/1262]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 929F(f), July 21, 2010, [124 Stat. 1854][/us/stat/124/1854].)
 
  __Amendments__ 
 
     2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], in introductory provisions, substituted “a person who is, or at the time of the alleged misconduct was, serving or acting” for “a person serving or acting” and “for which such person so serves or acts, or at the time of the alleged misconduct, so served or acted” for “for which such person so serves or acts”.
 
-    1987—Subsec. (b)(4). [Pub. L. 100–181, § 622(1)][/us/pl/100/181/s622/1], substituted “loads” for “loans”.
+    1987—Subsec. (b)(4). [Pub. L. 100–181][/us/pl/100/181], § 622(1), substituted “loads” for “loans”.
 
-    Subsecs. (c), (d). [Pub. L. 100–181, § 622(2)][/us/pl/100/181/s622/2], (3), redesignated as subsec. (c) provisions which were added and designated as subsec. (d) by [Pub. L. 94–29][/us/pl/94/29], and substituted “subsections (a) and (b)” for “subsections (a) through (c)”.
+    Subsecs. (c), (d). [Pub. L. 100–181][/us/pl/100/181], § 622(2), (3), redesignated as subsec. (c) provisions which were added and designated as subsec. (d) by [Pub. L. 94–29][/us/pl/94/29], and substituted “subsections (a) and (b)” for “subsections (a) through (c)”.
 
     1975—Subsec. (d). [Pub. L. 94–29][/us/pl/94/29] added subsec. (d).
 
@@ -89,17 +89,17 @@
 [/us/usc/t15/s80b–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%933
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F841
-[/us/pl/91/547/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs20
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1428
-[/us/pl/94/29/s28/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs28%2F7
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F166
-[/us/pl/100/181/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs622
+[/us/pl/100/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVI
 [/us/stat/101/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1262
-[/us/pl/111/203/s929F/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929F%2Ff
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1854
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/100/181/s622/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs622%2F1
-[/us/pl/100/181/s622/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs622%2F2
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547

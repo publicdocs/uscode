@@ -45,7 +45,7 @@
 
         As used in this section, “United States” includes the several States, the District of Columbia, any territory of the United States, and any insular possession or other place under the jurisdiction of the United States.
 
-([Oct. 15, 1914, ch. 323, § 26][/us/act/1914-10-15/ch323/s26], as added [Pub. L. 96–493, § 2][/us/pl/96/493/s2], Dec. 2, 1980, [94 Stat. 2568][/us/stat/94/2568].)
+([Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], § 26, as added [Pub. L. 96–493][/us/pl/96/493], § 2, Dec. 2, 1980, [94 Stat. 2568][/us/stat/94/2568].)
 
  __Short Title__ 
 
@@ -58,8 +58,8 @@
 ----------
 ----------
 
-[/us/act/1914-10-15/ch323/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323%2Fs26
-[/us/pl/96/493/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F493%2Fs2
+[/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
+[/us/pl/96/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F493
 [/us/stat/94/2568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2568
 [/us/pl/96/493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F493
 [/us/pl/96/493/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F493%2Fs1

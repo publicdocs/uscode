@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch33/m__us_usc_t15_ch33.md) | [Next](./../../../..//us/usc/t15/ch34/m__us_usc_t15_s1311.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch34)
+[Previous](./../../../..//us/usc/t15/ch33/m__us_usc_t15_s1301...1303.md) | [Next](./../../../..//us/usc/t15/ch34/m__us_usc_t15_s1311.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch34)
 
 ## CHAPTER 34—ANTITRUST CIVIL PROCESS
 
@@ -59,7 +59,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch33/m__us_usc_t15_ch33.md) | [Next](./../../../..//us/usc/t15/ch34/m__us_usc_t15_s1311.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch34)
+[Previous](./../../../..//us/usc/t15/ch33/m__us_usc_t15_s1301...1303.md) | [Next](./../../../..//us/usc/t15/ch34/m__us_usc_t15_s1311.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch34)
 
 ----------
 ----------

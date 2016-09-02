@@ -99,7 +99,7 @@
 
         There are authorized to be appropriated to the Administrator such sums as are necessary to carry out this section.
 
-([Pub. L. 110–234, title XII, § 12085][/us/pl/110/234/s12085], May 22, 2008, [122 Stat. 1421][/us/stat/122/1421]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12085, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2183.)
+([Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12085, May 22, 2008, [122 Stat. 1421][/us/stat/122/1421]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12085, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2183.)
 
  __References in Text__ 
 
@@ -129,9 +129,9 @@
 [/us/usc/t15/s636/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fb
 [/us/usc/t15/s636/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fb
 [/us/usc/t15/s636/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fb
-[/us/pl/110/234/s12085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12085
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1421
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/usc/t15/s636/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fb
 [/us/usc/t15/s636/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fb%2F9

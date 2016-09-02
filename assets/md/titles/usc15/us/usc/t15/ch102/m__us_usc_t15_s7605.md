@@ -17,7 +17,7 @@
 
     Any person that engages in the manufacture, processing, assembly, sale, offering for sale, or distribution of contact lenses may not represent, by advertisement, sales presentation, or otherwise, that contact lenses may be obtained without a prescription.
 
-([Pub. L. 108–164, § 6][/us/pl/108/164/s6], Dec. 6, 2003, [117 Stat. 2026][/us/stat/117/2026].)
+([Pub. L. 108–164][/us/pl/108/164], § 6, Dec. 6, 2003, [117 Stat. 2026][/us/stat/117/2026].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/164/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F164%2Fs6
+[/us/pl/108/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F164
 [/us/stat/117/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2026
 
 

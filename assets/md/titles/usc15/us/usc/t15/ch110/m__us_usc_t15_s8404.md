@@ -27,7 +27,7 @@
 
         Nothing in this section shall be construed to limit the authority of the Commission under any other provision of law.
 
-([Pub. L. 111–345, § 5][/us/pl/111/345/s5], Dec. 29, 2010, [124 Stat. 3620][/us/stat/124/3620].)
+([Pub. L. 111–345][/us/pl/111/345], § 5, Dec. 29, 2010, [124 Stat. 3620][/us/stat/124/3620].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t15/s57a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/pl/111/345/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F345%2Fs5
+[/us/pl/111/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F345
 [/us/stat/124/3620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3620
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

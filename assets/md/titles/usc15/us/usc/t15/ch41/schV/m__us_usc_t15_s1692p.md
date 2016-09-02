@@ -91,7 +91,7 @@
 
             The term “bad check violation” means a violation of the applicable State criminal law relating to the writing of dishonored checks.
 
-([Pub. L. 90–321, title VIII, § 818][/us/pl/90/321/s818], as added [Pub. L. 109–351, title VIII, § 801(a)(2)][/us/pl/109/351/s801/a/2], Oct. 13, 2006, [120 Stat. 2004][/us/stat/120/2004].)
+([Pub. L. 90–321, title VIII][/us/pl/90/321/tVIII], § 818, as added [Pub. L. 109–351, title VIII][/us/pl/109/351/tVIII], § 801(a)(2), Oct. 13, 2006, [120 Stat. 2004][/us/stat/120/2004].)
 
 ----------
 
@@ -103,8 +103,8 @@
 [/us/usc/t15/s1692a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1692a%2F6
 [/us/usc/t1/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft1%2Fs2
 [/us/usc/t12/s5002/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5002%2F6
-[/us/pl/90/321/s818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs818
-[/us/pl/109/351/s801/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs801%2Fa%2F2
+[/us/pl/90/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVIII
+[/us/pl/109/351/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVIII
 [/us/stat/120/2004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2004
 
 

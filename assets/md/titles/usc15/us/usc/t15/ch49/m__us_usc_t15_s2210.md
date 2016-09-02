@@ -37,7 +37,7 @@
 
         In the case of a dispute arising in connection with a claim under this section, the United States Court of Federal Claims shall have jurisdiction to adjudicate the claim and enter judgment accordingly.
 
-([Pub. L. 93–498, § 11][/us/pl/93/498/s11], Oct. 29, 1974, [88 Stat. 1543][/us/stat/88/1543]; [Pub. L. 97–164, title I, § 146][/us/pl/97/164/s146], Apr. 2, 1982, [96 Stat. 45][/us/stat/96/45]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 106–503, title I, § 110(a)(2)(B)(iii)][/us/pl/106/503/s110/a/2/B/iii], Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302]; [Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1)][/us/pl/112/239/s1802/b/1], Jan. 2, 2013, [126 Stat. 2100][/us/stat/126/2100].)
+([Pub. L. 93–498][/us/pl/93/498], § 11, Oct. 29, 1974, [88 Stat. 1543][/us/stat/88/1543]; [Pub. L. 97–164, title I][/us/pl/97/164/tI], § 146, Apr. 2, 1982, [96 Stat. 45][/us/stat/96/45]; [Pub. L. 102–572, title IX][/us/pl/102/572/tIX], § 902(b)(1), Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 106–503, title I][/us/pl/106/503/tI], § 110(a)(2)(B)(iii), Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302]; [Pub. L. 112–239, div. A, title XVIII][/us/pl/112/239/dA/tXVIII], § 1802(b)(1), Jan. 2, 2013, [126 Stat. 2100][/us/stat/126/2100].)
 
  __Amendments__ 
 
@@ -72,15 +72,15 @@
 ----------
 ----------
 
-[/us/pl/93/498/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs11
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1543
-[/us/pl/97/164/s146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2Fs146
+[/us/pl/97/164/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F164%2FtI
 [/us/stat/96/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F45
-[/us/pl/102/572/s902/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs902%2Fb%2F1
+[/us/pl/102/572/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2FtIX
 [/us/stat/106/4516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4516
-[/us/pl/106/503/s110/a/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs110%2Fa%2F2%2FB%2Fiii
+[/us/pl/106/503/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2FtI
 [/us/stat/114/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2302
-[/us/pl/112/239/s1802/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1802%2Fb%2F1
+[/us/pl/112/239/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVIII
 [/us/stat/126/2100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2100
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/106/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503

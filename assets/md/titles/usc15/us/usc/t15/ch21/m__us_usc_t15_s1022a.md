@@ -67,13 +67,13 @@
 
         (2) For purposes of this section, the term “veteran” shall mean the same as defined in section 4211(1) or (2) of title 38.
 
-([Feb. 20, 1946, ch. 33, § 4][/us/act/1946-02-20/ch33/s4], as added [Pub. L. 95–523, title I, § 104][/us/pl/95/523/s104], Oct. 27, 1978, [92 Stat. 1893][/us/stat/92/1893]; amended [Pub. L. 96–10, § 6(a)][/us/pl/96/10/s6/a]–(c), May 10, 1979, [93 Stat. 23][/us/stat/93/23], 24; [Pub. L. 103–446, title XII, § 1203(c)(4)][/us/pl/103/446/s1203/c/4], Nov. 2, 1994, [108 Stat. 4690][/us/stat/108/4690]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(11)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–420.)
+([Feb. 20, 1946, ch. 33][/us/act/1946-02-20/ch33], § 4, as added [Pub. L. 95–523, title I][/us/pl/95/523/tI], § 104, Oct. 27, 1978, [92 Stat. 1893][/us/stat/92/1893]; amended [Pub. L. 96–10][/us/pl/96/10], § 6(a)–(c), May 10, 1979, [93 Stat. 23][/us/stat/93/23], 24; [Pub. L. 103–446, title XII][/us/pl/103/446/tXII], § 1203(c)(4), Nov. 2, 1994, [108 Stat. 4690][/us/stat/108/4690]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(11)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–420.)
 
  __References in Text__ 
 
     The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (d), is [Pub. L. 95–523][/us/pl/95/523], Oct. 27, 1978, [92 Stat. 1887][/us/stat/92/1887], as amended. Title III of the Full Employment and Balanced Growth Act of 1978 is classified principally to subchapter II (§ 3131 et seq.) of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title][/us/usc/t15/s3101] and Tables.
 
-    Section 304 of the Full Employment and Balanced Growth Act of 1978, referred to in subsec. (e), is [Pub. L. 95–523, § 304][/us/pl/95/523/s304], Oct. 27, 1978, [92 Stat. 1906][/us/stat/92/1906], which amended [section 632 of Title 2][/us/usc/t2/s632], The Congress.
+    Section 304 of the Full Employment and Balanced Growth Act of 1978, referred to in subsec. (e), is [Pub. L. 95–523][/us/pl/95/523], § 304, Oct. 27, 1978, [92 Stat. 1906][/us/stat/92/1906], which amended [section 632 of Title 2][/us/usc/t2/s632], The Congress.
 
  __Prior Provisions__ 
 
@@ -85,11 +85,11 @@
 
     1994—Subsec. (g)(2). [Pub. L. 103–446][/us/pl/103/446] substituted “this section” for “this subsection” and “section 4211(1) or (2) of title 38” for “section 2011(1) or (2)(A) of title 38”.
 
-    1979—Subsec. (b)(3). [Pub. L. 96–10, § 6(a)][/us/pl/96/10/s6/a], added par. (3).
+    1979—Subsec. (b)(3). [Pub. L. 96–10][/us/pl/96/10], § 6(a), added par. (3).
 
-    Subsec. (c)(3). [Pub. L. 96–10, § 6(b)][/us/pl/96/10/s6/b], added par. (3).
+    Subsec. (c)(3). [Pub. L. 96–10][/us/pl/96/10], § 6(b), added par. (3).
 
-    Subsec. (d). [Pub. L. 96–10, § 6(c)][/us/pl/96/10/s6/c], inserted reference to Federal outlays as a proportion of gross national product.
+    Subsec. (d). [Pub. L. 96–10][/us/pl/96/10], § 6(c), inserted reference to Federal outlays as a proportion of gross national product.
 
 ----------
 
@@ -104,26 +104,26 @@
 [/us/usc/t15/s1022/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1022%2Fe
 [/us/usc/t15/s3131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3131
 [/us/usc/t15/s1022/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1022%2Fd
-[/us/act/1946-02-20/ch33/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-20%2Fch33%2Fs4
-[/us/pl/95/523/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs104
+[/us/act/1946-02-20/ch33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-20%2Fch33
+[/us/pl/95/523/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2FtI
 [/us/stat/92/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1893
-[/us/pl/96/10/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F10%2Fs6%2Fa
+[/us/pl/96/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F10
 [/us/stat/93/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F23
-[/us/pl/103/446/s1203/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2Fs1203%2Fc%2F4
+[/us/pl/103/446/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446%2FtXII
 [/us/stat/108/4690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4690
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
 [/us/stat/92/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1887
 [/us/usc/t15/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3101
-[/us/pl/95/523/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs304
+[/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
 [/us/stat/92/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1906
 [/us/usc/t2/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs632
 [/us/usc/t15/s1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1023
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/103/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F446
-[/us/pl/96/10/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F10%2Fs6%2Fa
-[/us/pl/96/10/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F10%2Fs6%2Fb
-[/us/pl/96/10/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F10%2Fs6%2Fc
+[/us/pl/96/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F10
+[/us/pl/96/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F10
+[/us/pl/96/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F10
 
 

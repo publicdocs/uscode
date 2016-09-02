@@ -29,7 +29,7 @@
 
         There are authorized to be appropriated to the Commission for each of the fiscal years 2008 through 2012 $5,000,000 to carry out the education program authorized by subsection (a).
 
-([Pub. L. 110–140, title XIV, § 1407][/us/pl/110/140/s1407], Dec. 19, 2007, [121 Stat. 1799][/us/stat/121/1799].)
+([Pub. L. 110–140, title XIV][/us/pl/110/140/tXIV], § 1407, Dec. 19, 2007, [121 Stat. 1799][/us/stat/121/1799].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/110/140/s1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1407
+[/us/pl/110/140/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXIV
 [/us/stat/121/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1799
 
 

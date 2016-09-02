@@ -43,11 +43,11 @@
 
         Any chemical substance, mixture, or product subject to subchapter IV which was manufactured, processed, or distributed in commerce in violation of this chapter or any rule promulgated or order issued under this chapter or any article containing such a substance or mixture shall be liable to be proceeded against, by process of libel, for the seizure and condemnation of such substance, mixture, product, or article, in any district court of the United States within the jurisdiction of which such substance, mixture, product, or article is found. Such proceedings shall conform as nearly as possible to proceedings in rem in admiralty.
 
-([Pub. L. 94–469, title I, § 17][/us/pl/94/469/s17], Oct. 11, 1976, [90 Stat. 2037][/us/stat/90/2037]; renumbered title I, [Pub. L. 99–519, § 3(c)(1)][/us/pl/99/519/s3/c/1], Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 102–550, title X, § 1021(b)(6)][/us/pl/102/550/s1021/b/6], (7), Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923].)
+([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 17, Oct. 11, 1976, [90 Stat. 2037][/us/stat/90/2037]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(b)(6), (7), Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923].)
 
  __Amendments__ 
 
-    1992—Subsec. (a). [Pub. L. 102–550, § 1021(b)(6)][/us/pl/102/550/s1021/b/6], which directed that subsec. (a) be amended “to read as follows” and then set out the subsec. (a) designation and heading, followed by the par. (1) designation and text, without any restatement of par. (2), was executed as a general amendment of par. (1) only, to reflect the probable intent of Congress. Prior to amendment, par. (1) read as follows: “The district courts of the United States shall have jurisdiction over civil actions to—
+    1992—Subsec. (a). [Pub. L. 102–550][/us/pl/102/550], § 1021(b)(6), which directed that subsec. (a) be amended “to read as follows” and then set out the subsec. (a) designation and heading, followed by the par. (1) designation and text, without any restatement of par. (2), was executed as a general amendment of par. (1) only, to reflect the probable intent of Congress. Prior to amendment, par. (1) read as follows: “The district courts of the United States shall have jurisdiction over civil actions to—
 
     “(A) restrain any violation of [section 2614 of this title][/us/usc/t15/s2614],
 
@@ -57,7 +57,7 @@
 
     “(D) direct any manufacturer or processor of a chemical substance or mixture manufactured or processed in violation of section 2604 or 2605 of this title or a rule or order under section 2604 or 2605 of this title and distributed in commerce, (i) to give notice of such fact to distributors in commerce of such substance or mixture and, to the extent reasonably ascertainable, to other persons in possession of such substance or mixture or exposed to such substance or mixture, (ii) to give public notice of such risk of injury, and (iii) to either replace or repurchase such substance or mixture, whichever the person to which the requirement is directed elects.”
 
-    Subsec. (b). [Pub. L. 102–550, § 1021(b)(7)][/us/pl/102/550/s1021/b/7], in first sentence substituted “substance, mixture, or product subject to subchapter IV” for “substance or mixture” and inserted “product,” before “or article” in two places.
+    Subsec. (b). [Pub. L. 102–550][/us/pl/102/550], § 1021(b)(7), in first sentence substituted “substance, mixture, or product subject to subchapter IV” for “substance or mixture” and inserted “product,” before “or article” in two places.
 
 ----------
 
@@ -71,14 +71,14 @@
 [/us/usc/t15/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2604
 [/us/usc/t15/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2604
 [/us/usc/t15/s2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2614
-[/us/pl/94/469/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs17
+[/us/pl/94/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtI
 [/us/stat/90/2037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2037
-[/us/pl/99/519/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs3%2Fc%2F1
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
-[/us/pl/102/550/s1021/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1021%2Fb%2F6
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3923
-[/us/pl/102/550/s1021/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1021%2Fb%2F6
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t15/s2614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2614
-[/us/pl/102/550/s1021/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1021%2Fb%2F7
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 
 

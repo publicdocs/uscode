@@ -27,7 +27,7 @@
 
     (5) appoint, and accept without compensation the services of, scientists and engineering specialists to be advisors to the Commission. Each advisor may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5][/us/usc/t5/s5703]. Except for the purposes of chapter 81 of title 5 (relating to compensation for work injuries) and chapter 171 of title 28 (relating to tort claims), an advisor appointed under this paragraph shall not be considered an employee of the United States for any purpose.
 
-([Pub. L. 98–373, title I, § 106][/us/pl/98/373/s106], July 31, 1984, [98 Stat. 1245][/us/stat/98/1245]; [Pub. L. 101–609, § 5][/us/pl/101/609/s5], Nov. 16, 1990, [104 Stat. 3125][/us/stat/104/3125].)
+([Pub. L. 98–373, title I][/us/pl/98/373/tI], § 106, July 31, 1984, [98 Stat. 1245][/us/stat/98/1245]; [Pub. L. 101–609][/us/pl/101/609], § 5, Nov. 16, 1990, [104 Stat. 3125][/us/stat/104/3125].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/98/373/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs106
+[/us/pl/98/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtI
 [/us/stat/98/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1245
-[/us/pl/101/609/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F609%2Fs5
+[/us/pl/101/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F609
 [/us/stat/104/3125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3125
 [/us/pl/101/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F609
 

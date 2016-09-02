@@ -17,7 +17,7 @@
 
     It shall be unlawful for any person to introduce or deliver for introduction into interstate commerce any household refrigerator manufactured on or after the date this section takes effect unless it is equipped with a device, enabling the door thereof to be opened from the inside, which conforms with standards prescribed pursuant to [section 1213 of this title][/us/usc/t15/s1213].
 
-([Aug. 2, 1956, ch. 890, § 1][/us/act/1956-08-02/ch890/s1], [70 Stat. 953][/us/stat/70/953].)
+([Aug. 2, 1956, ch. 890][/us/act/1956-08-02/ch890], § 1, [70 Stat. 953][/us/stat/70/953].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Effective Date__ 
 
-[Act Aug. 2, 1956, ch. 890, § 5][/us/act/1956-08-02/ch890/s5], [70 Stat. 953][/us/stat/70/953], provided that: 
+[Act Aug. 2, 1956, ch. 890][/us/act/1956-08-02/ch890], § 5, [70 Stat. 953][/us/stat/70/953], provided that: 
 
 > “This Act \[this chapter\] shall take effect on the date of its enactment \[Aug. 2, 1956\], except that the first section of this Act \[this section\] shall take effect one year and 90 days after the date of publication of commercial standards first established under section 3 of this Act \[[section 1213 of this title][/us/usc/t15/s1213]\]. In the event of a change in said commercial standards first established, a like period shall be allowed for compliance with said change in commercial standards.”
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t15/s1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1213
-[/us/act/1956-08-02/ch890/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch890%2Fs1
+[/us/act/1956-08-02/ch890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch890
 [/us/stat/70/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F953
-[/us/act/1956-08-02/ch890/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch890%2Fs5
+[/us/act/1956-08-02/ch890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch890
 [/us/stat/70/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F953
 [/us/usc/t15/s1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1213
 [/us/usc/t15/s2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2079

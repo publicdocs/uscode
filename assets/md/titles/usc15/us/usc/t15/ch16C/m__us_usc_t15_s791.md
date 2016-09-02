@@ -17,7 +17,7 @@
 
     The purposes of this chapter are (1) to provide for a means to assist in meeting the essential needs of the United States for fuels, in a manner which is consistent, to the fullest extent practicable, with existing national commitments to protect and improve the environment, and (2) to provide requirements for reports respecting energy resources.
 
-([Pub. L. 93–319, § 1(b)][/us/pl/93/319/s1/b], June 22, 1974, [88 Stat. 246][/us/stat/88/246].)
+([Pub. L. 93–319][/us/pl/93/319], § 1(b), June 22, 1974, [88 Stat. 246][/us/stat/88/246].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Short Title__ 
 
-    [Pub. L. 93–319, § 1(a)][/us/pl/93/319/s1/a], June 22, 1974, [88 Stat. 246][/us/stat/88/246], provided that [Pub. L. 93–319][/us/pl/93/319] \[enacting this chapter, enacting sections 1857c–10 and 1857f–6f of Title 42, The Public Health and Welfare, and amending sections 1857b–1, 1857c–5, 1857c–8, 1857c–9, 1857d–1, 1857f–1, 1857f–6e, 1857f–7, 1857h–5, and 1857l of Title 42\] may be cited as the “Energy Supply and Environmental Coordination Act of 1974”.
+    [Pub. L. 93–319][/us/pl/93/319], § 1(a), June 22, 1974, [88 Stat. 246][/us/stat/88/246], provided that [Pub. L. 93–319][/us/pl/93/319] \[enacting this chapter, enacting sections 1857c–10 and 1857f–6f of Title 42, The Public Health and Welfare, and amending sections 1857b–1, 1857c–5, 1857c–8, 1857c–9, 1857d–1, 1857f–1, 1857f–6e, 1857f–7, 1857h–5, and 1857l of Title 42\] may be cited as the “Energy Supply and Environmental Coordination Act of 1974”.
 
 ----------
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/93/319/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs1%2Fb
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/stat/88/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F246
 [/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
-[/us/pl/93/319/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs1%2Fa
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/stat/88/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F246
 [/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 

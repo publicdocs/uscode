@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch2C/m__us_usc_t15_ch2C.md) | [Next](./../../../..//us/usc/t15/ch2D/schI/m__us_usc_t15_ch2D_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch2D)
+[Previous](./../../../..//us/usc/t15/ch2C/m__us_usc_t15_s79...79z–6.md) | [Next](./../../../..//us/usc/t15/ch2D/schI/m__us_usc_t15_ch2D_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch2D)
 
 ## CHAPTER 2D—INVESTMENT COMPANIES AND ADVISERS
 
@@ -787,7 +787,7 @@ SUBCHAPTER II—INVESTMENT ADVISERS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch2C/m__us_usc_t15_ch2C.md) | [Next](./../../../..//us/usc/t15/ch2D/schI/m__us_usc_t15_ch2D_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch2D)
+[Previous](./../../../..//us/usc/t15/ch2C/m__us_usc_t15_s79...79z–6.md) | [Next](./../../../..//us/usc/t15/ch2D/schI/m__us_usc_t15_ch2D_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch2D)
 
 ----------
 ----------

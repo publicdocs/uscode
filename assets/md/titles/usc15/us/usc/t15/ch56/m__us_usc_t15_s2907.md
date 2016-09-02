@@ -23,7 +23,7 @@
 
         (2) The Director of the Office and the Comptroller General of the United States, or any of their duly authorized representatives, shall, until the expiration of 3 years after the completion of the activities (referred to in paragraph (1)) of any person or entity pursuant to any contract or grant arrangement referred to in subsection (a), have access for the purpose of audit and examination to any books, documents, papers, and records of such person or entity which, in the judgment of the Director or the Comptroller General, may be related or pertinent to such contract or grant arrangement.
 
-([Pub. L. 95–367, § 8][/us/pl/95/367/s8], Sept. 17, 1978, [92 Stat. 604][/us/stat/92/604].)
+([Pub. L. 95–367][/us/pl/95/367], § 8, Sept. 17, 1978, [92 Stat. 604][/us/stat/92/604].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/95/367/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F367%2Fs8
+[/us/pl/95/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F367
 [/us/stat/92/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F604
 
 

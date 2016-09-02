@@ -47,7 +47,7 @@
 
         Nothing in this Act shall be construed to require the Consumer Product Safety Commission, in establishing a standard under this section, to prepare a comparison of the costs that would be incurred in complying with such standard with the benefits of such standard.
 
-([Pub. L. 91–601, § 3][/us/pl/91/601/s3], Dec. 30, 1970, [84 Stat. 1670][/us/stat/84/1670]; [Pub. L. 92–573, § 30(a)][/us/pl/92/573/s30/a], Oct. 27, 1972, [86 Stat. 1231][/us/stat/86/1231]; [Pub. L. 97–414, § 9(k)][/us/pl/97/414/s9/k], Jan. 4, 1983, [96 Stat. 2065][/us/stat/96/2065]; [Pub. L. 110–314, title II, § 233][/us/pl/110/314/s233], Aug. 14, 2008, [122 Stat. 3073][/us/stat/122/3073].)
+([Pub. L. 91–601][/us/pl/91/601], § 3, Dec. 30, 1970, [84 Stat. 1670][/us/stat/84/1670]; [Pub. L. 92–573][/us/pl/92/573], § 30(a), Oct. 27, 1972, [86 Stat. 1231][/us/stat/86/1231]; [Pub. L. 97–414][/us/pl/97/414], § 9(k), Jan. 4, 1983, [96 Stat. 2065][/us/stat/96/2065]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 233, Aug. 14, 2008, [122 Stat. 3073][/us/stat/122/3073].)
 
  __References in Text__ 
 
@@ -72,13 +72,13 @@
 
 [/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/usc/t15/s1473/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1473%2Fa%2F2
-[/us/pl/91/601/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601%2Fs3
+[/us/pl/91/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601
 [/us/stat/84/1670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1670
-[/us/pl/92/573/s30/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs30%2Fa
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1231
-[/us/pl/97/414/s9/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs9%2Fk
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2065
-[/us/pl/110/314/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs233
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3073
 [/us/usc/t15/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1471
 [/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314

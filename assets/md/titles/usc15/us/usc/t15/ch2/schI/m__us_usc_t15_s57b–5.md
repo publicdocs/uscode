@@ -19,7 +19,7 @@
 
     (b) The Commission shall not have any authority to conduct any study or investigation of any agricultural marketing orders.
 
-([Sept. 26, 1914, ch. 311, § 24][/us/act/1914-09-26/ch311/s24], as added [Pub. L. 103–312, § 2][/us/pl/103/312/s2], Aug. 26, 1994, [108 Stat. 1691][/us/stat/108/1691].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 24, as added [Pub. L. 103–312][/us/pl/103/312], § 2, Aug. 26, 1994, [108 Stat. 1691][/us/stat/108/1691].)
 
  __Prior Provisions__ 
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/act/1914-09-26/ch311/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs24
-[/us/pl/103/312/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs2
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
 [/us/stat/108/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1691
 [/us/usc/t15/s57c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57c
 

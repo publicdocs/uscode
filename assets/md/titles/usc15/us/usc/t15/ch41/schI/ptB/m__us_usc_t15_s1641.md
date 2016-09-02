@@ -111,11 +111,11 @@
 
             As used in this subsection, the term “mortgage loan” means any consumer credit transaction that is secured by the principal dwelling of a consumer.
 
-([Pub. L. 90–321, title I, § 131][/us/pl/90/321/s131], May 29, 1968, [82 Stat. 157][/us/stat/82/157]; [Pub. L. 96–221, title VI, § 616(a)][/us/pl/96/221/s616/a], Mar. 31, 1980, [94 Stat. 182][/us/stat/94/182]; [Pub. L. 103–325, title I, § 153(c)][/us/pl/103/325/s153/c], Sept. 23, 1994, [108 Stat. 2195][/us/stat/108/2195]; [Pub. L. 104–29, § 7][/us/pl/104/29/s7], Sept. 30, 1995, [109 Stat. 274][/us/stat/109/274]; [Pub. L. 111–22, div. A, title IV, § 404(a)][/us/pl/111/22/s404/a], May 20, 2009, [123 Stat. 1658][/us/stat/123/1658]; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 131, May 29, 1968, [82 Stat. 157][/us/stat/82/157]; [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 616(a), Mar. 31, 1980, [94 Stat. 182][/us/stat/94/182]; [Pub. L. 103–325, title I][/us/pl/103/325/tI], § 153(c), Sept. 23, 1994, [108 Stat. 2195][/us/stat/108/2195]; [Pub. L. 104–29][/us/pl/104/29], § 7, Sept. 30, 1995, [109 Stat. 274][/us/stat/109/274]; [Pub. L. 111–22, div. A, title IV][/us/pl/111/22/dA/tIV], § 404(a), May 20, 2009, [123 Stat. 1658][/us/stat/123/1658]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 
  __References in Text__ 
 
-    [Section 1602(aa) of this title][/us/usc/t15/s1602/aa], referred to in subsec. (d)(1), (4), was redesignated [section 1602(bb) of this title][/us/usc/t15/s1602/bb] by [Pub. L. 111–203, title X, § 1100A(1)(A)][/us/pl/111/203/s1100A/1/A], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
+    [Section 1602(aa) of this title][/us/usc/t15/s1602/aa], referred to in subsec. (d)(1), (4), was redesignated [section 1602(bb) of this title][/us/usc/t15/s1602/bb] by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(1)(A), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
 
  __Amendments__ 
 
@@ -123,9 +123,9 @@
 
     2009—Subsec. (g). [Pub. L. 111–22][/us/pl/111/22] added subsec. (g).
 
-    1995—Subsec. (e). [Pub. L. 104–29, § 7(a)][/us/pl/104/29/s7/a], added subsec. (e).
+    1995—Subsec. (e). [Pub. L. 104–29][/us/pl/104/29], § 7(a), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 104–29, § 7(b)][/us/pl/104/29/s7/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 104–29][/us/pl/104/29], § 7(b), added subsec. (f).
 
     1994—Subsec. (d). [Pub. L. 103–325][/us/pl/103/325] added subsec. (d).
 
@@ -152,26 +152,26 @@
 [/us/usc/t15/s1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1640
 [/us/usc/t15/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1607
 [/us/usc/t12/s2605/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2605%2Fi%2F2
-[/us/pl/90/321/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs131
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
 [/us/stat/82/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F157
-[/us/pl/96/221/s616/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs616%2Fa
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F182
-[/us/pl/103/325/s153/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs153%2Fc
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2195
-[/us/pl/104/29/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29%2Fs7
+[/us/pl/104/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29
 [/us/stat/109/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F274
-[/us/pl/111/22/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs404%2Fa
+[/us/pl/111/22/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2FdA%2FtIV
 [/us/stat/123/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1658
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/usc/t15/s1602/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Faa
 [/us/usc/t15/s1602/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fbb
-[/us/pl/111/203/s1100A/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F1%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22
-[/us/pl/104/29/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29%2Fs7%2Fa
-[/us/pl/104/29/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29%2Fs7%2Fb
+[/us/pl/104/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29
+[/us/pl/104/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/usc/t15/s1640/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1640%2Fd

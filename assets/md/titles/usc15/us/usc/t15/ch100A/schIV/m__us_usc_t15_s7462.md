@@ -27,7 +27,7 @@
 
         In carrying out the activities specified in subsection (a)(1), the Director shall ensure consultation with appropriate private sector stakeholders.
 
-([Pub. L. 113–274, title V, § 502][/us/pl/113/274/s502], Dec. 18, 2014, [128 Stat. 2986][/us/stat/128/2986].)
+([Pub. L. 113–274, title V][/us/pl/113/274/tV], § 502, Dec. 18, 2014, [128 Stat. 2986][/us/stat/128/2986].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/113/274/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs502
+[/us/pl/113/274/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2FtV
 [/us/stat/128/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2986
 
 

@@ -87,33 +87,33 @@
 
         Notwithstanding subsection (a), the Board shall have authority to prescribe rules under this subchapter with respect to a person described in [section 5519(a) of title 12][/us/usc/t12/s5519/a]. Regulations prescribed under this subsection may contain such classifications, differentiations, or other provisions, as in the judgment of the Board are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion thereof, or to facilitate compliance therewith.
 
-([Pub. L. 90–321, title I, § 105][/us/pl/90/321/s105], May 29, 1968, [82 Stat. 148][/us/stat/82/148]; [Pub. L. 96–221, title VI, § 605][/us/pl/96/221/s605], Mar. 31, 1980, [94 Stat. 170][/us/stat/94/170]; [Pub. L. 103–325, title I, § 152(e)(2)(A)][/us/pl/103/325/s152/e/2/A], Sept. 23, 1994, [108 Stat. 2194][/us/stat/108/2194]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208], §§ 2102(b), 2104, Sept. 30, 1996, [110 Stat. 3009–399][/us/stat/110/3009-399], 3009–401; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], (4)–(7), title XIV, § 1472(c), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2108, 2190.)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 105, May 29, 1968, [82 Stat. 148][/us/stat/82/148]; [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 605, Mar. 31, 1980, [94 Stat. 170][/us/stat/94/170]; [Pub. L. 103–325, title I][/us/pl/103/325/tI], § 152(e)(2)(A), Sept. 23, 1994, [108 Stat. 2194][/us/stat/108/2194]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], §§ 2102(b), 2104, Sept. 30, 1996, [110 Stat. 3009–399][/us/stat/110/3009-399], 3009–401; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), (4)–(7), title XIV, § 1472(c), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2108, 2190.)
 
  __References in Text__ 
 
-    [Section 1602(aa) of this title][/us/usc/t15/s1602/aa], referred to in subsecs. (a) and (f)(1), was redesignated [section 1602(bb) of this title][/us/usc/t15/s1602/bb] by [Pub. L. 111–203, title X, § 1100A(1)(A)][/us/pl/111/203/s1100A/1/A], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
+    [Section 1602(aa) of this title][/us/usc/t15/s1602/aa], referred to in subsecs. (a) and (f)(1), was redesignated [section 1602(bb) of this title][/us/usc/t15/s1602/bb] by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(1)(A), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
 
     The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b), is [Pub. L. 93–533][/us/pl/93/533], Dec. 22, 1974, [88 Stat. 1724][/us/stat/88/1724], which is classified principally to chapter 27 (§ 2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 12][/us/usc/t12/s2601] and Tables.
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], (4), substituted “Bureau” for “Board” in two places, substituted “Except with respect to the provisions of [section 1639 of this title][/us/usc/t15/s1639] that apply to a mortgage referred to in [section 1602(aa) of this title][/us/usc/t15/s1602/aa], such regulations may contain such additional requirements,”for “Except in the case of a mortgage referred to in [section 1602(aa) of this title][/us/usc/t15/s1602/aa], these regulations may contain such”, and inserted “all or” after “exceptions for”.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 1100A(2), (4), substituted “Bureau” for “Board” in two places, substituted “Except with respect to the provisions of [section 1639 of this title][/us/usc/t15/s1639] that apply to a mortgage referred to in [section 1602(aa) of this title][/us/usc/t15/s1602/aa], such regulations may contain such additional requirements,”for “Except in the case of a mortgage referred to in [section 1602(aa) of this title][/us/usc/t15/s1602/aa], these regulations may contain such”, and inserted “all or” after “exceptions for”.
 
-    Subsec. (b). [Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], (5), substituted “Bureau” for “Board” wherever appearing in last three sentences and substituted first two sentences for former first sentence which read as follows: “The Board shall publish model disclosure forms and clauses for common transactions to facilitate compliance with the disclosure requirements of this subchapter and to aid the borrower or lessee in understanding the transaction by utilizing readily understandable language to simplify the technical nature of the disclosures.”
+    Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 1100A(2), (5), substituted “Bureau” for “Board” wherever appearing in last three sentences and substituted first two sentences for former first sentence which read as follows: “The Board shall publish model disclosure forms and clauses for common transactions to facilitate compliance with the disclosure requirements of this subchapter and to aid the borrower or lessee in understanding the transaction by utilizing readily understandable language to simplify the technical nature of the disclosures.”
 
-    Subsecs. (c), (d). [Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], substituted “Bureau” for “Board” wherever appearing.
+    Subsecs. (c), (d). [Pub. L. 111–203][/us/pl/111/203], § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
-    Subsec. (f). [Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], (6), substituted “Bureau” for “Board” wherever appearing and inserted “all or” after “from all or part of this subchapter” in par. (1).
+    Subsec. (f). [Pub. L. 111–203][/us/pl/111/203], § 1100A(2), (6), substituted “Bureau” for “Board” wherever appearing and inserted “all or” after “from all or part of this subchapter” in par. (1).
 
-    Subsec. (g). [Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], substituted “Bureau” for “Board” in pars. (1) and (2).
+    Subsec. (g). [Pub. L. 111–203][/us/pl/111/203], § 1100A(2), substituted “Bureau” for “Board” in pars. (1) and (2).
 
-    Subsec. (h). [Pub. L. 111–203, § 1472(c)][/us/pl/111/203/s1472/c], which directed addition of subsec. (h) at end of section, was executed by adding subsec. (h) before subsec. (i), to reflect the probable intent of Congress and prior amendment by [Pub. L. 111–203, § 1100A(7)][/us/pl/111/203/s1100A/7]. See below.
+    Subsec. (h). [Pub. L. 111–203][/us/pl/111/203], § 1472(c), which directed addition of subsec. (h) at end of section, was executed by adding subsec. (h) before subsec. (i), to reflect the probable intent of Congress and prior amendment by [Pub. L. 111–203][/us/pl/111/203], § 1100A(7). See below.
 
-    Subsec. (i). [Pub. L. 111–203, § 1100A(7)][/us/pl/111/203/s1100A/7], added subsec. (i).
+    Subsec. (i). [Pub. L. 111–203][/us/pl/111/203], § 1100A(7), added subsec. (i).
 
-    1996—Subsec. (f). [Pub. L. 104–208, § 2102(b)][/us/pl/104/208/s2102/b], added subsec. (f).
+    1996—Subsec. (f). [Pub. L. 104–208][/us/pl/104/208], § 2102(b), added subsec. (f).
 
-    Subsec. (g). [Pub. L. 104–208, § 2104][/us/pl/104/208/s2104], added subsec. (g).
+    Subsec. (g). [Pub. L. 104–208][/us/pl/104/208], § 2104, added subsec. (g).
 
     1994—Subsec. (a). [Pub. L. 103–325][/us/pl/103/325] substituted “Except in the case of a mortgage referred to in [section 1602(aa) of this title][/us/usc/t15/s1602/aa], these” for “These” in second sentence.
 
@@ -140,36 +140,36 @@
 [/us/usc/t12/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2601
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t12/s5519/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5519%2Fa
-[/us/pl/90/321/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs105
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
 [/us/stat/82/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F148
-[/us/pl/96/221/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs605
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F170
-[/us/pl/103/325/s152/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs152%2Fe%2F2%2FA
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2194
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-399
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/usc/t15/s1602/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Faa
 [/us/usc/t15/s1602/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fbb
-[/us/pl/111/203/s1100A/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F1%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
 [/us/stat/88/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1724
 [/us/usc/t12/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2601
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639
 [/us/usc/t15/s1602/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Faa
 [/us/usc/t15/s1602/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Faa
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
-[/us/pl/111/203/s1472/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1472%2Fc
-[/us/pl/111/203/s1100A/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F7
-[/us/pl/111/203/s1100A/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F7
-[/us/pl/104/208/s2102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2102%2Fb
-[/us/pl/104/208/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2104
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/usc/t15/s1602/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Faa
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221

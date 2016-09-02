@@ -23,7 +23,7 @@
 
         The Commission shall implement the rules prescribed under sections 3391 and 3392 of this title pursuant to its authority under the Department of Energy Organization Act \[[42 U.S.C. 7101][/us/usc/t42/s7101] et seq.\] to establish, review, and enforce curtailments under the Natural Gas Act \[[15 U.S.C. 717][/us/usc/t15/s717] et seq.\].
 
-([Pub. L. 95–621, title IV, § 403][/us/pl/95/621/s403], Nov. 9, 1978, [92 Stat. 3396][/us/stat/92/3396].)
+([Pub. L. 95–621, title IV][/us/pl/95/621/tIV], § 403, Nov. 9, 1978, [92 Stat. 3396][/us/stat/92/3396].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
 [/us/usc/t42/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7101
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
-[/us/pl/95/621/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs403
+[/us/pl/95/621/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2FtIV
 [/us/stat/92/3396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3396
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/stat/91/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F565

@@ -145,7 +145,7 @@ SUBCHAPTER I—DOMESTIC SECURITIES  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs77" data-uslm-ref="/us/usc/t15/s77">77</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs77l" data-uslm-ref="/us/usc/t15/s77l">77l.</a>  </td>
 
     <td> Civil liabilities arising in connection with prospectuses and communications.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—DOMESTIC SECURITIES  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs77" data-uslm-ref="/us/usc/t15/s77">77</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs77o" data-uslm-ref="/us/usc/t15/s77o">77o.</a>  </td>
 
     <td> Liability of controlling persons.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER II—FOREIGN SECURITIES  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs77" data-uslm-ref="/us/usc/t15/s77">77</a>ll.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs77ll" data-uslm-ref="/us/usc/t15/s77ll">77ll.</a>  </td>
 
     <td> Effective date of subchapter.  </td>
 
@@ -513,7 +513,7 @@ SUBCHAPTER III—TRUST INDENTURES  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs77" data-uslm-ref="/us/usc/t15/s77">77</a>lll.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs77lll" data-uslm-ref="/us/usc/t15/s77lll">77lll.</a>  </td>
 
     <td> Bondholders’ lists.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER III—TRUST INDENTURES  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs77" data-uslm-ref="/us/usc/t15/s77">77</a>ooo.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs77ooo" data-uslm-ref="/us/usc/t15/s77ooo">77ooo.</a>  </td>
 
     <td> Duties and responsibility of the trustee.  </td>
 

@@ -19,7 +19,7 @@
 
     (b) Notwithstanding the provisions of subsection (a), such right to use the San Francisco-Oakland Bay Bridge free of toll may be established by any other device or means which may be acceptable to the California Toll Bridge Authority; and the Secretary of the appropriate Department and the California Toll Bridge Authority may enter into any appropriate agreements to secure the effective, convenient, and just exercise of such right.
 
-([July 1, 1946, ch. 528, § 2][/us/act/1946-07-01/ch528/s2], [60 Stat. 348][/us/stat/60/348].)
+([July 1, 1946, ch. 528][/us/act/1946-07-01/ch528], § 2, [60 Stat. 348][/us/stat/60/348].)
 
 ----------
 
@@ -30,7 +30,7 @@
 
 [/us/usc/t15/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1005
 [/us/usc/t15/s1005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1005
-[/us/act/1946-07-01/ch528/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-01%2Fch528%2Fs2
+[/us/act/1946-07-01/ch528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-01%2Fch528
 [/us/stat/60/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F348
 
 

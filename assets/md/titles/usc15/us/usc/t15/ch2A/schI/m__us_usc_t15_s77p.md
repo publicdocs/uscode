@@ -121,11 +121,11 @@
 
             The term “covered security” means a security that satisfies the standards for a covered security specified in paragraph (1) or (2) of [section 77r(b) of this title][/us/usc/t15/s77r/b] at the time during which it is alleged that the misrepresentation, omission, or manipulative or deceptive conduct occurred, except that such term shall not include any debt security that is exempt from registration under this subchapter pursuant to rules issued by the Commission under section 77d(2)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 16, [48 Stat. 84][/us/stat/48/84]; [Pub. L. 105–353, title I, § 101(a)(1)][/us/pl/105/353/s101/a/1], Nov. 3, 1998, [112 Stat. 3227][/us/stat/112/3227].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 16, [48 Stat. 84][/us/stat/48/84]; [Pub. L. 105–353, title I][/us/pl/105/353/tI], § 101(a)(1), Nov. 3, 1998, [112 Stat. 3227][/us/stat/112/3227].)
 
  __References in Text__ 
 
-    [Section 77d(2) of this title][/us/usc/t15/s77d/2], referred to in subsec. (f)(3), was redesignated [section 77d(a)(2) of this title][/us/usc/t15/s77d/a/2] by [Pub. L. 112–106, title II, § 201(b)(1)][/us/pl/112/106/s201/b/1], (c)(1), Apr. 5, 2012, [126 Stat. 314][/us/stat/126/314].
+    [Section 77d(2) of this title][/us/usc/t15/s77d/2], referred to in subsec. (f)(3), was redesignated [section 77d(a)(2) of this title][/us/usc/t15/s77d/a/2] by [Pub. L. 112–106, title II][/us/pl/112/106/tII], § 201(b)(1), (c)(1), Apr. 5, 2012, [126 Stat. 314][/us/stat/126/314].
 
  __Amendments__ 
 
@@ -133,7 +133,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-[Pub. L. 105–353, title I, § 101(c)][/us/pl/105/353/s101/c], Nov. 3, 1998, [112 Stat. 3233][/us/stat/112/3233], provided that: 
+[Pub. L. 105–353, title I][/us/pl/105/353/tI], § 101(c), Nov. 3, 1998, [112 Stat. 3233][/us/stat/112/3233], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 77v, 77z–1, 78u–4, and 78bb of this title\] shall not affect or apply to any action commenced before and pending on the date of enactment of this Act \[Nov. 3, 1998\].”
 
@@ -147,14 +147,14 @@
 [/us/usc/t15/s77r/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77r%2Fb
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/stat/48/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F84
-[/us/pl/105/353/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs101%2Fa%2F1
+[/us/pl/105/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtI
 [/us/stat/112/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3227
 [/us/usc/t15/s77d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77d%2F2
 [/us/usc/t15/s77d/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77d%2Fa%2F2
-[/us/pl/112/106/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs201%2Fb%2F1
+[/us/pl/112/106/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtII
 [/us/stat/126/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F314
 [/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
-[/us/pl/105/353/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs101%2Fc
+[/us/pl/105/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtI
 [/us/stat/112/3233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3233
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of Commerce, the Secretary of Agriculture, and three directors first appointed as provided in [section 502 of this title][/us/usc/t15/s502] and their successors, are created a body corporate of the District of Columbia by the name of the “Textile Foundation” (in this chapter referred to as the corporation). The incorporation shall be held effected upon the date of the first meeting of the board of directors. The corporation shall maintain its principal office in the District of Columbia and may establish such agencies or branch offices at such places as it deems advisable.
 
-([June 10, 1930, ch. 440, § 1][/us/act/1930-06-10/ch440/s1], [46 Stat. 539][/us/stat/46/539].)
+([June 10, 1930, ch. 440][/us/act/1930-06-10/ch440], § 1, [46 Stat. 539][/us/stat/46/539].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t15/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs502
-[/us/act/1930-06-10/ch440/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch440%2Fs1
+[/us/act/1930-06-10/ch440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch440
 [/us/stat/46/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F539
 
 

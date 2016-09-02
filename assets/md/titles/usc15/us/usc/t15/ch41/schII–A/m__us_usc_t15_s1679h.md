@@ -69,7 +69,7 @@
 
             Whenever the Federal Trade Commission has instituted a civil action for violation of this subchapter, no State may, during the pendency of such action, bring an action under this section against any defendant named in the complaint of the Commission for any violation of this subchapter that is alleged in that complaint.
 
-([Pub. L. 90–321, title IV, § 410][/us/pl/90/321/s410], as added [Pub. L. 104–208, div. A, title II, § 2451][/us/pl/104/208/s2451], Sept. 30, 1996, [110 Stat. 3009–460][/us/stat/110/3009-460].)
+([Pub. L. 90–321, title IV][/us/pl/90/321/tIV], § 410, as added [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2451, Sept. 30, 1996, [110 Stat. 3009–460][/us/stat/110/3009-460].)
 
  __References in Text__ 
 
@@ -86,8 +86,8 @@
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s45/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45%2Fa
 [/us/usc/t15/s1679g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1679g
-[/us/pl/90/321/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs410
-[/us/pl/104/208/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2451
+[/us/pl/90/321/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIV
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-460
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

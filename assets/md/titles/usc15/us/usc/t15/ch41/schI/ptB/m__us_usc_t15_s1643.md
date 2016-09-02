@@ -47,7 +47,7 @@
 
         Except as provided in this section, a cardholder incurs no liability from the unauthorized use of a credit card.
 
-([Pub. L. 90–321, title I, § 133][/us/pl/90/321/s133], as added [Pub. L. 91–508, title V, § 502(a)][/us/pl/91/508/s502/a], Oct. 26, 1970, [84 Stat. 1126][/us/stat/84/1126]; amended [Pub. L. 96–221, title VI, § 617][/us/pl/96/221/s617], Mar. 31, 1980, [94 Stat. 182][/us/stat/94/182].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 133, as added [Pub. L. 91–508, title V][/us/pl/91/508/tV], § 502(a), Oct. 26, 1970, [84 Stat. 1126][/us/stat/84/1126]; amended [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 617, Mar. 31, 1980, [94 Stat. 182][/us/stat/94/182].)
 
  __Amendments__ 
 
@@ -59,7 +59,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 91–508, title V, § 503(2)][/us/pl/91/508/s503/2], Oct. 26, 1970, [84 Stat. 1127][/us/stat/84/1127], provided that: 
+[Pub. L. 91–508, title V][/us/pl/91/508/tV], § 503(2), Oct. 26, 1970, [84 Stat. 1127][/us/stat/84/1127], provided that: 
 
 > “Section 133 of such Act \[this section\] takes effect upon the expiration of 90 days after such date of enactment \[Oct. 26, 1970\].”
 
@@ -71,16 +71,16 @@
 ----------
 
 [/us/usc/t15/s1637/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637%2Fb
-[/us/pl/90/321/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs133
-[/us/pl/91/508/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs502%2Fa
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/91/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtV
 [/us/stat/84/1126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1126
-[/us/pl/96/221/s617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs617
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F182
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/96/221/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs625
 [/us/usc/t15/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602
-[/us/pl/91/508/s503/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs503%2F2
+[/us/pl/91/508/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtV
 [/us/stat/84/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1127
 
 

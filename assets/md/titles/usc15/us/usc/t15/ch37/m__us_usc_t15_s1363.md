@@ -23,7 +23,7 @@
 
         Nothing contained in this chapter shall be deemed to affect the functions or responsibilities under law of any other department or agency of the United States.
 
-([Pub. L. 89–182, § 13][/us/pl/89/182/s13], Sept. 14, 1965, [79 Stat. 683][/us/stat/79/683].)
+([Pub. L. 89–182][/us/pl/89/182], § 13, Sept. 14, 1965, [79 Stat. 683][/us/stat/79/683].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/89/182/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182%2Fs13
+[/us/pl/89/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182
 [/us/stat/79/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F683
 
 

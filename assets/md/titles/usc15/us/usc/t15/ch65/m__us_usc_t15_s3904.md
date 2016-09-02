@@ -31,7 +31,7 @@
 
         The ownership interests of members in a risk retention group shall not be considered securities for purposes of any State blue sky law.
 
-([Pub. L. 97–45, § 5][/us/pl/97/45/s5], Sept. 25, 1981, [95 Stat. 952][/us/stat/95/952].)
+([Pub. L. 97–45][/us/pl/97/45], § 5, Sept. 25, 1981, [95 Stat. 952][/us/stat/95/952].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 [/us/usc/t15/s77q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77q
 [/us/usc/t15/s78j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78j
 [/us/usc/t15/s80a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%931
-[/us/pl/97/45/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F45%2Fs5
+[/us/pl/97/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F45
 [/us/stat/95/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F952
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F789

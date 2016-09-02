@@ -17,7 +17,7 @@
 
     The Secretary of Commerce shall have charge of the forecasting of weather, the issue of storm warnings, the display of weather and flood signals for the benefit of agriculture, commerce, and navigation, the gauging and reporting of rivers, the maintenance and operation of seacoast telegraph lines and the collection and transmission of marine intelligence for the benefit of commerce and navigation, the reporting of temperature and rain-fall conditions for the cotton interests, the display of frost and cold-wave signals, the distribution of meteorological information in the interests of agriculture and commerce, and the taking of such meteorological observations as may be necessary to establish and record the climatic conditions of the United States, or as are essential for the proper execution of the foregoing duties.
 
-([Oct. 1, 1890, ch. 1266, § 3][/us/act/1890-10-01/ch1266/s3], [26 Stat. 653][/us/stat/26/653]; [May 20, 1926, ch. 344, § 5][/us/act/1926-05-20/ch344/s5] (e), [44 Stat. 571][/us/stat/44/571]; [June 23, 1938, ch. 601][/us/act/1938-06-23/ch601], title XI, § 1107(k), [52 Stat. 1029][/us/stat/52/1029]; 1940 Reorg. Plan No. IV, § 8, eff. June 30, 1940, 5 F.R. 2421, [54 Stat. 1236][/us/stat/54/1236]; 1965 Reorg. Plan No. 2, §§ 1, 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318].)
+([Oct. 1, 1890, ch. 1266][/us/act/1890-10-01/ch1266], § 3, [26 Stat. 653][/us/stat/26/653]; [May 20, 1926, ch. 344][/us/act/1926-05-20/ch344], § 5 (e), [44 Stat. 571][/us/stat/44/571]; [June 23, 1938, ch. 601][/us/act/1938-06-23/ch601], title XI, § 1107(k), [52 Stat. 1029][/us/stat/52/1029]; 1940 Reorg. Plan No. IV, § 8, eff. June 30, 1940, 5 F.R. 2421, [54 Stat. 1236][/us/stat/54/1236]; 1965 Reorg. Plan No. 2, §§ 1, 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318].)
 
  __Amendments__ 
 
@@ -27,7 +27,7 @@
 
  __Repeals__ 
 
-    [Pub. L. 85–726, title XIV, § 1401(b)][/us/pl/85/726/s1401/b], Aug. 23, 1958, [72 Stat. 806][/us/stat/72/806], repealed [act June 23, 1938, ch. 601][/us/act/1938-06-23/ch601], title XI, § 1107(k), [52 Stat. 1029][/us/stat/52/1029], cited to the credit of this section.
+    [Pub. L. 85–726, title XIV][/us/pl/85/726/tXIV], § 1401(b), Aug. 23, 1958, [72 Stat. 806][/us/stat/72/806], repealed [act June 23, 1938, ch. 601, title XI][/us/act/1938-06-23/ch601/tXI], § 1107(k), [52 Stat. 1029][/us/stat/52/1029], cited to the credit of this section.
 
  __Transfer of Functions__ 
 
@@ -35,41 +35,41 @@
 
  __Use of Funds for Hurricane Reconnaissance Program__ 
 
-[Pub. L. 108–199, div. B, title II, § 203][/us/pl/108/199/s203], Jan. 23, 2004, [118 Stat. 72][/us/stat/118/72], provided in part that: 
+[Pub. L. 108–199, div. B, title II][/us/pl/108/199/dB/tII], § 203, Jan. 23, 2004, [118 Stat. 72][/us/stat/118/72], provided in part that: 
 
 > “Hereafter, none of the funds made available by this or any other Act for the National Oceanic and Atmospheric Administration may be used to support the hurricane reconnaissance aircraft and activities that are under the control of the United States Air Force or the United States Air Force Reserve.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 108–7, div. B, title II, § 203][/us/pl/108/7/s203], Feb. 20, 2003, [117 Stat. 77][/us/stat/117/77].
+    [Pub. L. 108–7, div. B, title II][/us/pl/108/7/dB/tII], § 203, Feb. 20, 2003, [117 Stat. 77][/us/stat/117/77].
 
-    [Pub. L. 107–77, title II, § 203][/us/pl/107/77/s203], Nov. 28, 2001, [115 Stat. 778][/us/stat/115/778].
+    [Pub. L. 107–77, title II][/us/pl/107/77/tII], § 203, Nov. 28, 2001, [115 Stat. 778][/us/stat/115/778].
 
-    [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title II, § 203\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–78.
+    [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title II, § 203\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–78.
 
-    [Pub. L. 106–113, div. B, § 1000(a)(1)][/us/pl/106/113/s1000/a/1] \[title II, § 203\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–31.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(1) \[title II, § 203\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–31.
 
-    [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title II, § 203\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–86.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title II, § 203\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–86.
 
-    [Pub. L. 105–119, title II, § 203][/us/pl/105/119/s203], Nov. 26, 1997, [111 Stat. 2479][/us/stat/111/2479].
+    [Pub. L. 105–119, title II][/us/pl/105/119/tII], § 203, Nov. 26, 1997, [111 Stat. 2479][/us/stat/111/2479].
 
-    [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 203\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–39.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 203\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–39.
 
-    [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title II, § 203\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–30; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
+    [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title II, § 203\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–30; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
 
-    [Pub. L. 103–317, title II, § 203][/us/pl/103/317/s203], Aug. 26, 1994, [108 Stat. 1749][/us/stat/108/1749].
+    [Pub. L. 103–317, title II][/us/pl/103/317/tII], § 203, Aug. 26, 1994, [108 Stat. 1749][/us/stat/108/1749].
 
-    [Pub. L. 103–121, title II, § 203][/us/pl/103/121/s203], Oct. 27, 1993, [107 Stat. 1176][/us/stat/107/1176].
+    [Pub. L. 103–121, title II][/us/pl/103/121/tII], § 203, Oct. 27, 1993, [107 Stat. 1176][/us/stat/107/1176].
 
-    [Pub. L. 102–395, title II, § 203][/us/pl/102/395/s203], Oct. 6, 1992, [106 Stat. 1855][/us/stat/106/1855].
+    [Pub. L. 102–395, title II][/us/pl/102/395/tII], § 203, Oct. 6, 1992, [106 Stat. 1855][/us/stat/106/1855].
 
-    [Pub. L. 102–140, title II, § 203][/us/pl/102/140/s203], Oct. 28, 1991, [105 Stat. 806][/us/stat/105/806].
+    [Pub. L. 102–140, title II][/us/pl/102/140/tII], § 203, Oct. 28, 1991, [105 Stat. 806][/us/stat/105/806].
 
-    [Pub. L. 101–515, title I, § 103][/us/pl/101/515/s103], Nov. 5, 1990, [104 Stat. 2107][/us/stat/104/2107].
+    [Pub. L. 101–515, title I][/us/pl/101/515/tI], § 103, Nov. 5, 1990, [104 Stat. 2107][/us/stat/104/2107].
 
  __Hurricane Reconnaissance Program__ 
 
-[Pub. L. 102–567, title I, § 107][/us/pl/102/567/s107], Oct. 29, 1992, [106 Stat. 4275][/us/stat/106/4275], provided that:
+[Pub. L. 102–567, title I][/us/pl/102/567/tI], § 107, Oct. 29, 1992, [106 Stat. 4275][/us/stat/106/4275], provided that:
 
 >     “(a)  __Establishment of Program__  __.—__ 
 
@@ -93,7 +93,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __United States Weather Research Program__ 
 
-[Pub. L. 102–567, title I, § 108][/us/pl/102/567/s108], Oct. 29, 1992, [106 Stat. 4276][/us/stat/106/4276], provided that:
+[Pub. L. 102–567, title I][/us/pl/102/567/tI], § 108, Oct. 29, 1992, [106 Stat. 4276][/us/stat/106/4276], provided that:
 
 >     “(a)  __Establishment__  __.—__ 
 
@@ -119,7 +119,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Weather Service Modernization__ 
 
-[Pub. L. 102–567, title VII][/us/pl/102/567], Oct. 29, 1992, [106 Stat. 4303][/us/stat/106/4303], provided that:
+[Pub. L. 102–567, title VII][/us/pl/102/567/tVII], Oct. 29, 1992, [106 Stat. 4303][/us/stat/106/4303], provided that:
 
 > “SEC. 701. __SHORT TITLE.__ 
 
@@ -329,7 +329,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Purchase of Atmospheric Wind Data__ 
 
-[Pub. L. 101–595, title III, § 320][/us/pl/101/595/s320], Nov. 16, 1990, [104 Stat. 2989][/us/stat/104/2989], provided that: 
+[Pub. L. 101–595, title III][/us/pl/101/595/tIII], § 320, Nov. 16, 1990, [104 Stat. 2989][/us/stat/104/2989], provided that: 
 
 > “The National Oceanic and Atmospheric Administration is authorized to enter into a contract for the future purchase of atmospheric wind data. Any and all obligations of the Government under such contract shall be contingent upon the following terms:
 
@@ -339,15 +339,15 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __National Weather Service 10-Year Strategic Plan__ 
 
-    [Pub. L. 100–685, title IV, § 407][/us/pl/100/685/s407], Nov. 17, 1988, [102 Stat. 4098][/us/stat/102/4098], as amended by [Pub. L. 102–567, title VII, § 709(1)][/us/pl/102/567/s709/1], Oct. 29, 1992, [106 Stat. 4309][/us/stat/106/4309], directed Secretary of Commerce to prepare and submit to Congress, not later than 90 days after Nov. 17, 1988, a 10-year strategic plan for comprehensive modernization of National Weather Service, setting forth basic service improvement objectives of modernization as well as critical new technological components and associated operational changes necessary to fulfill objectives of weather and flood warning service improvements.
+    [Pub. L. 100–685, title IV][/us/pl/100/685/tIV], § 407, Nov. 17, 1988, [102 Stat. 4098][/us/stat/102/4098], as amended by [Pub. L. 102–567, title VII][/us/pl/102/567/tVII], § 709(1), Oct. 29, 1992, [106 Stat. 4309][/us/stat/106/4309], directed Secretary of Commerce to prepare and submit to Congress, not later than 90 days after Nov. 17, 1988, a 10-year strategic plan for comprehensive modernization of National Weather Service, setting forth basic service improvement objectives of modernization as well as critical new technological components and associated operational changes necessary to fulfill objectives of weather and flood warning service improvements.
 
  __Degradation-of-Weather-Services Standard for Providing Services__ 
 
-    [Pub. L. 100–685, title IV, § 408][/us/pl/100/685/s408], Nov. 17, 1988, [102 Stat. 4099][/us/stat/102/4099], prohibited Secretary of Commerce from closing, consolidating, automating, or relocating, any Weather Service Office or Weather Service Forecast Office pursuant to the implementation of the strategic plan required by [section 407 of Pub. L. 100–685][/us/pl/100/685/s407] \[formerly set out above\] unless the Secretary certified to Committee on Commerce, Science, and Transportation of the Senate and Committee on Science, Space, and Technology of the House of Representatives that such action would not result in any degradation of weather services provided to the affected area, prior to repeal by [Pub. L. 102–567, title VII, § 709(2)][/us/pl/102/567/s709/2], Oct. 29, 1992, [106 Stat. 4309][/us/stat/106/4309].
+    [Pub. L. 100–685, title IV][/us/pl/100/685/tIV], § 408, Nov. 17, 1988, [102 Stat. 4099][/us/stat/102/4099], prohibited Secretary of Commerce from closing, consolidating, automating, or relocating, any Weather Service Office or Weather Service Forecast Office pursuant to the implementation of the strategic plan required by [section 407 of Pub. L. 100–685][/us/pl/100/685/s407] \[formerly set out above\] unless the Secretary certified to Committee on Commerce, Science, and Transportation of the Senate and Committee on Science, Space, and Technology of the House of Representatives that such action would not result in any degradation of weather services provided to the affected area, prior to repeal by [Pub. L. 102–567, title VII][/us/pl/102/567/tVII], § 709(2), Oct. 29, 1992, [106 Stat. 4309][/us/stat/106/4309].
 
  __Weather and Climate Information in Agriculture__ 
 
-[Pub. L. 99–198, title XVII, § 1762][/us/pl/99/198/s1762], Dec. 23, 1985, [99 Stat. 1651][/us/stat/99/1651], provided that:
+[Pub. L. 99–198, title XVII][/us/pl/99/198/tXVII], § 1762, Dec. 23, 1985, [99 Stat. 1651][/us/stat/99/1651], provided that:
 
 >     “(a)
 
@@ -365,7 +365,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __National Weather Service; Congressional Approval Requisite To Sale, Lease, Transfer, or Dismantling of Agency__ 
 
-[Pub. L. 98–8, title I, § 104][/us/pl/98/8/s104], Mar. 24, 1983, [97 Stat. 34][/us/stat/97/34], provided that:
+[Pub. L. 98–8, title I][/us/pl/98/8/tI], § 104, Mar. 24, 1983, [97 Stat. 34][/us/stat/97/34], provided that:
 
 >     “Since the Administration has proposed to sell the weather (METSAT) and land (LANDSAT) satellite systems;
 
@@ -381,7 +381,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Study of Thunderstorms and Atmospheric Disturbances; Reports; Expenditures; Cooperation of Other Departments__ 
 
-[Act June 16, 1948, ch. 483][/us/act/1948-06-16/ch483], [62 Stat. 470][/us/stat/62/470], as amended Oct. 19, 1980, [Pub. L. 96–470, title I, § 103(b)][/us/pl/96/470/s103/b], [94 Stat. 2237][/us/stat/94/2237], provided: 
+[Act June 16, 1948, ch. 483][/us/act/1948-06-16/ch483], [62 Stat. 470][/us/stat/62/470], as amended Oct. 19, 1980, [Pub. L. 96–470, title I][/us/pl/96/470/tI], § 103(b), [94 Stat. 2237][/us/stat/94/2237], provided: 
 
 > “That the Chief of the Weather Bureau is authorized and directed to study fully and thoroughly the internal structure of thunderstorms, hurricanes, cyclones, and other severe atmospheric disturbances, particularly the degree of turbulence within such storms and the development, maintenance, and magnitude of updrafts and downdrafts with a view to establishing methods by which the characteristics of particular thunderstorms may be forecast and methods by which the characteristics of such storms may be determined on visual observation from outside of the immediate thunderstorm area. Such study shall be concluded at the earliest practicable date and a final report submitted to Congress.
 
@@ -396,55 +396,55 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
-[/us/act/1890-10-01/ch1266/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-10-01%2Fch1266%2Fs3
+[/us/act/1890-10-01/ch1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-10-01%2Fch1266
 [/us/stat/26/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F653
-[/us/act/1926-05-20/ch344/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-20%2Fch344%2Fs5
+[/us/act/1926-05-20/ch344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-20%2Fch344
 [/us/stat/44/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F571
 [/us/act/1938-06-23/ch601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-23%2Fch601
 [/us/stat/52/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1029
 [/us/stat/54/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1236
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318
-[/us/pl/85/726/s1401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726%2Fs1401%2Fb
+[/us/pl/85/726/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F726%2FtXIV
 [/us/stat/72/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F806
-[/us/act/1938-06-23/ch601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-23%2Fch601
+[/us/act/1938-06-23/ch601/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-23%2Fch601%2FtXI
 [/us/stat/52/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1029
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318
 [/us/usc/t15/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs311
-[/us/pl/108/199/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs203
+[/us/pl/108/199/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdB%2FtII
 [/us/stat/118/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F72
-[/us/pl/108/7/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs203
+[/us/pl/108/7/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdB%2FtII
 [/us/stat/117/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F77
-[/us/pl/107/77/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs203
+[/us/pl/107/77/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2FtII
 [/us/stat/115/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F778
-[/us/pl/106/553/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553%2Fs1%2Fa%2F2
+[/us/pl/106/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F553
 [/us/stat/114/2762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2762
-[/us/pl/106/113/s1000/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F1
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
-[/us/pl/105/119/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2Fs203
+[/us/pl/105/119/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtII
 [/us/stat/111/2479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2479
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/103/317/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317%2Fs203
+[/us/pl/103/317/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317%2FtII
 [/us/stat/108/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1749
-[/us/pl/103/121/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F121%2Fs203
+[/us/pl/103/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F121%2FtII
 [/us/stat/107/1176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1176
-[/us/pl/102/395/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395%2Fs203
+[/us/pl/102/395/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395%2FtII
 [/us/stat/106/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1855
-[/us/pl/102/140/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2Fs203
+[/us/pl/102/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2FtII
 [/us/stat/105/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F806
-[/us/pl/101/515/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2Fs103
+[/us/pl/101/515/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2FtI
 [/us/stat/104/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2107
-[/us/pl/102/567/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs107
+[/us/pl/102/567/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtI
 [/us/stat/106/4275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4275
-[/us/pl/102/567/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs108
+[/us/pl/102/567/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtI
 [/us/stat/106/4276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4276
-[/us/pl/102/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567
+[/us/pl/102/567/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtVII
 [/us/stat/106/4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4303
 [/us/usc/t15/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs313
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
@@ -453,24 +453,24 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/100/685/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F685%2Fs408
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376
-[/us/pl/101/595/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2Fs320
+[/us/pl/101/595/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F595%2FtIII
 [/us/stat/104/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2989
-[/us/pl/100/685/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F685%2Fs407
+[/us/pl/100/685/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F685%2FtIV
 [/us/stat/102/4098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4098
-[/us/pl/102/567/s709/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs709%2F1
+[/us/pl/102/567/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtVII
 [/us/stat/106/4309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4309
-[/us/pl/100/685/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F685%2Fs408
+[/us/pl/100/685/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F685%2FtIV
 [/us/stat/102/4099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4099
 [/us/pl/100/685/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F685%2Fs407
-[/us/pl/102/567/s709/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs709%2F2
+[/us/pl/102/567/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtVII
 [/us/stat/106/4309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4309
-[/us/pl/99/198/s1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2Fs1762
+[/us/pl/99/198/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F198%2FtXVII
 [/us/stat/99/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1651
-[/us/pl/98/8/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2Fs104
+[/us/pl/98/8/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F8%2FtI
 [/us/stat/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F34
 [/us/act/1948-06-16/ch483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-16%2Fch483
 [/us/stat/62/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F470
-[/us/pl/96/470/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs103%2Fb
+[/us/pl/96/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtI
 [/us/stat/94/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2237
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 

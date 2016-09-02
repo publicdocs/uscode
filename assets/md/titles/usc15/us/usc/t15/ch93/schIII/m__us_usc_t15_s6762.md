@@ -23,13 +23,13 @@
 
         In any action under subsection (a), the court shall give appropriate weight to the interpretation of the Association of its bylaws and standards and this subchapter.
 
-([Pub. L. 106–102, title III, § 332][/us/pl/106/102/s332], as added [Pub. L. 114–1, title II, § 202(a)][/us/pl/114/1/s202/a], Jan. 12, 2015, [129 Stat. 26][/us/stat/129/26].)
+([Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 332, as added [Pub. L. 114–1, title II][/us/pl/114/1/tII], § 202(a), Jan. 12, 2015, [129 Stat. 26][/us/stat/129/26].)
 
  __Prior Provisions__ 
 
     Provisions similar to this section were contained in [section 6765 of this title][/us/usc/t15/s6765], prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1].
 
-    A prior section 6762, [Pub. L. 106–102, title III, § 332][/us/pl/106/102/s332], Nov. 12, 1999, [113 Stat. 1431][/us/stat/113/1431], related to elimination of NAIC oversight, prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1]. See sections 6757 and 6759 of this title.
+    A prior section 6762, [Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 332, Nov. 12, 1999, [113 Stat. 1431][/us/stat/113/1431], related to elimination of NAIC oversight, prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1]. See sections 6757 and 6759 of this title.
 
 ----------
 
@@ -38,12 +38,12 @@
 ----------
 ----------
 
-[/us/pl/106/102/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs332
-[/us/pl/114/1/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs202%2Fa
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
+[/us/pl/114/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2FtII
 [/us/stat/129/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F26
 [/us/usc/t15/s6765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6765
 [/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
-[/us/pl/106/102/s332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs332
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1431
 [/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
 

@@ -95,11 +95,11 @@
 
         The term “opposition period” means the time allowed for filing an opposition in the United States Patent and Trademark Office, including any extension of time granted under [section 1063 of this title][/us/usc/t15/s1063].
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title XII, § 60, as added [Pub. L. 107–273, div. C, title III, § 13402][/us/pl/107/273/s13402], Nov. 2, 2002, [116 Stat. 1913][/us/stat/116/1913].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title XII, § 60, as added [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13402, Nov. 2, 2002, [116 Stat. 1913][/us/stat/116/1913].)
 
  __Effective Date__ 
 
-[Pub. L. 107–273, div. C, title III, § 13403][/us/pl/107/273/s13403], Nov. 2, 2002, [116 Stat. 1920][/us/stat/116/1920], provided that: 
+[Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13403, Nov. 2, 2002, [116 Stat. 1920][/us/stat/116/1920], provided that: 
 
 > “This subtitle \[subtitle D (§§ 13401–13403) of title III of div. C of [Pub. L. 107–273][/us/pl/107/273], enacting this subchapter and provisions set out as a note under [section 1051 of this title][/us/usc/t15/s1051]\] and the amendments made by this subtitle shall take effect on the later of—
 
@@ -116,9 +116,9 @@
 
 [/us/usc/t15/s1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1063
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
-[/us/pl/107/273/s13402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13402
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1913
-[/us/pl/107/273/s13403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13403
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1920
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051

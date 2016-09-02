@@ -19,7 +19,7 @@
 
     (b) In the case of preauthorized transfers from a consumer’s account to the same person which may vary in amount, the financial institution or designated payee shall, prior to each transfer, provide reasonable advance notice to the consumer, in accordance with regulations of the Bureau, of the amount to be transferred and the scheduled date of the transfer.
 
-([Pub. L. 90–321, title IX, § 907][/us/pl/90/321/s907], as added [Pub. L. 95–630, title XX, § 2001][/us/pl/95/630/s2001], Nov. 10, 1978, [92 Stat. 3733][/us/stat/92/3733]; amended [Pub. L. 111–203, title X, § 1084(1)][/us/pl/111/203/s1084/1], July 21, 2010, [124 Stat. 2081][/us/stat/124/2081].)
+([Pub. L. 90–321, title IX][/us/pl/90/321/tIX], § 907, as added [Pub. L. 95–630, title XX][/us/pl/95/630/tXX], § 2001, Nov. 10, 1978, [92 Stat. 3733][/us/stat/92/3733]; amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1084(1), July 21, 2010, [124 Stat. 2081][/us/stat/124/2081].)
 
  __Amendments__ 
 
@@ -36,10 +36,10 @@
 ----------
 ----------
 
-[/us/pl/90/321/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs907
-[/us/pl/95/630/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs2001
+[/us/pl/90/321/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIX
+[/us/pl/95/630/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXX
 [/us/stat/92/3733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3733
-[/us/pl/111/203/s1084/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2081
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

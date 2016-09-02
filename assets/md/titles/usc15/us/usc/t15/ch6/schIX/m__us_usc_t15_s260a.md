@@ -27,7 +27,7 @@
 
         For any violation of the provisions of this section the Secretary of Transportation or his duly authorized agent may apply to the district court of the United States for the district in which such violation occurs for the enforcement of this section; and such court shall have jurisdiction to enforce obedience thereto by writ of injunction or by other process, mandatory or otherwise, restraining against further violations of this section and enjoining obedience thereto.
 
-([Pub. L. 89–387, § 3][/us/pl/89/387/s3], Apr. 13, 1966, [80 Stat. 107][/us/stat/80/107]; [Pub. L. 92–267][/us/pl/92/267], Mar. 30, 1972, [86 Stat. 116][/us/stat/86/116]; [Pub. L. 97–449, § 2(c)][/us/pl/97/449/s2/c], Jan. 12, 1983, [96 Stat. 2439][/us/stat/96/2439]; [Pub. L. 99–359, § 2(b)][/us/pl/99/359/s2/b], July 8, 1986, [100 Stat. 764][/us/stat/100/764]; [Pub. L. 109–58, title I, § 110(a)][/us/pl/109/58/s110/a], Aug. 8, 2005, [119 Stat. 615][/us/stat/119/615].)
+([Pub. L. 89–387][/us/pl/89/387], § 3, Apr. 13, 1966, [80 Stat. 107][/us/stat/80/107]; [Pub. L. 92–267][/us/pl/92/267], Mar. 30, 1972, [86 Stat. 116][/us/stat/86/116]; [Pub. L. 97–449][/us/pl/97/449], § 2(c), Jan. 12, 1983, [96 Stat. 2439][/us/stat/96/2439]; [Pub. L. 99–359][/us/pl/99/359], § 2(b), July 8, 1986, [100 Stat. 764][/us/stat/100/764]; [Pub. L. 109–58, title I][/us/pl/109/58/tI], § 110(a), Aug. 8, 2005, [119 Stat. 615][/us/stat/119/615].)
 
  __Amendments__ 
 
@@ -41,19 +41,19 @@
 
  __Effective Date of 2005 Amendment__ 
 
-[Pub. L. 109–58, title I, § 110(b)][/us/pl/109/58/s110/b], Aug. 8, 2005, [119 Stat. 615][/us/stat/119/615], provided that: 
+[Pub. L. 109–58, title I][/us/pl/109/58/tI], § 110(b), Aug. 8, 2005, [119 Stat. 615][/us/stat/119/615], provided that: 
 
 > “Subsection (a) \[amending this section\] shall take effect 1 year after the date of enactment of this Act \[Aug. 8, 2005\] or March 1, 2007, whichever is later.”
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–359, § 2(e)][/us/pl/99/359/s2/e], July 8, 1986, [100 Stat. 765][/us/stat/100/765], provided that: 
+[Pub. L. 99–359][/us/pl/99/359], § 2(e), July 8, 1986, [100 Stat. 765][/us/stat/100/765], provided that: 
 
 > “This section \[amending this section and enacting provisions set out as notes below\] shall take effect 60 days after the date of enactment of this Act \[July 8, 1986\], except that if such effective date occurs in any calendar year after March 1, this section shall take effect on the first day of the following calendar year.”
 
  __Study and Report on Energy Consumption; Reversion__ 
 
-[Pub. L. 109–58, title I, § 110(c)][/us/pl/109/58/s110/c], (d), Aug. 8, 2005, [119 Stat. 615][/us/stat/119/615], provided that:
+[Pub. L. 109–58, title I][/us/pl/109/58/tI], § 110(c), (d), Aug. 8, 2005, [119 Stat. 615][/us/stat/119/615], provided that:
 
 >     “(c)  __Report to Congress__  __.—__ 
 
@@ -65,7 +65,7 @@
 
  __Congressional Findings; Expansion of Daylight Saving Time__ 
 
-[Pub. L. 99–359, § 2(a)][/us/pl/99/359/s2/a], July 8, 1986, [100 Stat. 764][/us/stat/100/764], provided that: 
+[Pub. L. 99–359][/us/pl/99/359], § 2(a), July 8, 1986, [100 Stat. 764][/us/stat/100/764], provided that: 
 
 > “The Congress finds—
 
@@ -79,7 +79,7 @@
 
  __Effectiveness of State Exemption in Effect on__  __July 8, 1986__ 
 
-[Pub. L. 99–359, § 2(c)][/us/pl/99/359/s2/c], July 8, 1986, [100 Stat. 764][/us/stat/100/764], provided that: 
+[Pub. L. 99–359][/us/pl/99/359], § 2(c), July 8, 1986, [100 Stat. 764][/us/stat/100/764], provided that: 
 
 > “Any law in effect on the date of the enactment of this Act \[July 8, 1986\]—
 
@@ -91,7 +91,7 @@
 
  __Adjustment by General Rules or Interim Action With Respect to Hours of Operation of Daytime Standard Amplitude Modulation Broadcast Stations__ 
 
-[Pub. L. 99–359, § 2(d)][/us/pl/99/359/s2/d], July 8, 1986, [100 Stat. 764][/us/stat/100/764], provided that:
+[Pub. L. 99–359][/us/pl/99/359], § 2(d), July 8, 1986, [100 Stat. 764][/us/stat/100/764], provided that:
 
 >     “(1) Notwithstanding any other law or any regulation issued under any such law, the Federal Communications Commission shall, consistent with any existing treaty or other agreement, make such adjustment by general rules, or by interim action pending such general rules, with respect to hours of operation of daytime standard amplitude modulation broadcast stations, as may be consistent with the public interest, including the public’s interest in receiving interference-free service.
 
@@ -125,33 +125,33 @@ By virtue of the authority vested in me by section 3(b) of the Emergency Dayligh
 ----------
 
 [/us/usc/t15/s265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs265
-[/us/pl/89/387/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F387%2Fs3
+[/us/pl/89/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F387
 [/us/stat/80/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F107
 [/us/pl/92/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F267
 [/us/stat/86/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F116
-[/us/pl/97/449/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs2%2Fc
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2439
-[/us/pl/99/359/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F359%2Fs2%2Fb
+[/us/pl/99/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F359
 [/us/stat/100/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F764
-[/us/pl/109/58/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs110%2Fa
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F615
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/99/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F359
 [/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/pl/92/267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F267
-[/us/pl/109/58/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs110%2Fb
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F615
-[/us/pl/99/359/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F359%2Fs2%2Fe
+[/us/pl/99/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F359
 [/us/stat/100/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F765
-[/us/pl/109/58/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs110%2Fc
+[/us/pl/109/58/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtI
 [/us/stat/119/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F615
-[/us/pl/99/359/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F359%2Fs2%2Fa
+[/us/pl/99/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F359
 [/us/stat/100/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F764
-[/us/pl/99/359/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F359%2Fs2%2Fc
+[/us/pl/99/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F359
 [/us/stat/100/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F764
 [/us/usc/t15/s260a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs260a%2Fa%2F2
 [/us/usc/t15/s260a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs260a%2Fa
-[/us/pl/99/359/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F359%2Fs2%2Fd
+[/us/pl/99/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F359
 [/us/stat/100/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F764
 [/us/pl/93/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F182
 [/us/stat/87/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F707

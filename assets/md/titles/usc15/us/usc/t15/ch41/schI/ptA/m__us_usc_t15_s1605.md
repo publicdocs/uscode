@@ -97,31 +97,31 @@
 
                 if the amount disclosed as the finance charge does not vary from the actual finance charge by more than an amount equal to one percent of the total amount of credit extended.
 
-([Pub. L. 90–321, title I, § 106][/us/pl/90/321/s106], May 29, 1968, [82 Stat. 148][/us/stat/82/148]; [Pub. L. 96–221, title VI][/us/pl/96/221] § 606, Mar. 31, 1980, [94 Stat. 170][/us/stat/94/170]; [Pub. L. 104–29][/us/pl/104/29], §§ 2(a), (b)(1), (c)–(e), 3(a), Sept. 30, 1995, [109 Stat. 271][/us/stat/109/271], 272; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 106, May 29, 1968, [82 Stat. 148][/us/stat/82/148]; [Pub. L. 96–221, title VI][/us/pl/96/221/tVI] § 606, Mar. 31, 1980, [94 Stat. 170][/us/stat/94/170]; [Pub. L. 104–29][/us/pl/104/29], §§ 2(a), (b)(1), (c)–(e), 3(a), Sept. 30, 1995, [109 Stat. 271][/us/stat/109/271], 272; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 
  __References in Text__ 
 
-    Subsecs. (aa) and (w) of [section 1602 of this title][/us/usc/t15/s1602], referred to in subsec. (f)(2)(B), were redesignated subsecs. (bb) and (x), respectively, of [section 1602 of this title][/us/usc/t15/s1602] by [Pub. L. 111–203, title X, § 1100A(1)(A)][/us/pl/111/203/s1100A/1/A], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
+    Subsecs. (aa) and (w) of [section 1602 of this title][/us/usc/t15/s1602], referred to in subsec. (f)(2)(B), were redesignated subsecs. (bb) and (x), respectively, of [section 1602 of this title][/us/usc/t15/s1602] by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(1)(A), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
 
  __Amendments__ 
 
     2010—Subsec. (d). [Pub. L. 111–203][/us/pl/111/203] substituted “Bureau” for “Board” in introductory provisions.
 
-    1995—Subsec. (a). [Pub. L. 104–29, § 2(a)][/us/pl/104/29/s2/a], in introductory provisions inserted after second sentence “The finance charge shall not include fees and amounts imposed by third party closing agents (including settlement agents, attorneys, and escrow and title companies) if the creditor does not require the imposition of the charges or the services provided and does not retain the charges.”
+    1995—Subsec. (a). [Pub. L. 104–29][/us/pl/104/29], § 2(a), in introductory provisions inserted after second sentence “The finance charge shall not include fees and amounts imposed by third party closing agents (including settlement agents, attorneys, and escrow and title companies) if the creditor does not require the imposition of the charges or the services provided and does not retain the charges.”
 
-    Subsec. (a)(6). [Pub. L. 104–29, § 2(b)(1)][/us/pl/104/29/s2/b/1], added par. (6).
+    Subsec. (a)(6). [Pub. L. 104–29][/us/pl/104/29], § 2(b)(1), added par. (6).
 
-    Subsec. (d)(3). [Pub. L. 104–29, § 2(c)][/us/pl/104/29/s2/c], added par. (3).
+    Subsec. (d)(3). [Pub. L. 104–29][/us/pl/104/29], § 2(c), added par. (3).
 
-    Subsec. (e)(2). [Pub. L. 104–29, § 2(d)][/us/pl/104/29/s2/d], amended par. (2) generally, substituting “loan-related” for “a deed, settlement statement, or other”.
+    Subsec. (e)(2). [Pub. L. 104–29][/us/pl/104/29], § 2(d), amended par. (2) generally, substituting “loan-related” for “a deed, settlement statement, or other”.
 
-    Subsec. (e)(5). [Pub. L. 104–29, § 2(e)][/us/pl/104/29/s2/e], inserted before period “, including fees related to any pest infestation or flood hazard inspections conducted prior to closing”.
+    Subsec. (e)(5). [Pub. L. 104–29][/us/pl/104/29], § 2(e), inserted before period “, including fees related to any pest infestation or flood hazard inspections conducted prior to closing”.
 
-    Subsec. (f). [Pub. L. 104–29, § 3(a)][/us/pl/104/29/s3/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 104–29][/us/pl/104/29], § 3(a), added subsec. (f).
 
-    1980—Subsec. (a). [Pub. L. 96–221, § 606(a)][/us/pl/96/221/s606/a], inserted provisions excluding charges of a type payable in comparable cash transactions and indicated that pars. (1) to (5) are examples of charges.
+    1980—Subsec. (a). [Pub. L. 96–221][/us/pl/96/221], § 606(a), inserted provisions excluding charges of a type payable in comparable cash transactions and indicated that pars. (1) to (5) are examples of charges.
 
-    Subsec. (d). [Pub. L. 96–221, § 606(b)][/us/pl/96/221/s606/b], struck out pars. (3) and (4) setting forth applicability to taxes and any other type of charge, respectively.
+    Subsec. (d). [Pub. L. 96–221][/us/pl/96/221], § 606(b), struck out pars. (3) and (4) setting forth applicability to taxes and any other type of charge, respectively.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -129,7 +129,7 @@
 
  __Effective Date of 1995 Amendment__ 
 
-[Pub. L. 104–29, § 2(b)(2)][/us/pl/104/29/s2/b/2], Sept. 30, 1995, [109 Stat. 271][/us/stat/109/271], provided that: 
+[Pub. L. 104–29][/us/pl/104/29], § 2(b)(2), Sept. 30, 1995, [109 Stat. 271][/us/stat/109/271], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on the earlier of—
 
@@ -143,13 +143,13 @@
 
  __Regulations__ 
 
-[Pub. L. 104–29, § 2(b)(3)][/us/pl/104/29/s2/b/3], Sept. 30, 1995, [109 Stat. 271][/us/stat/109/271], provided that: 
+[Pub. L. 104–29][/us/pl/104/29], § 2(b)(3), Sept. 30, 1995, [109 Stat. 271][/us/stat/109/271], provided that: 
 
 > “The Board of Governors of the Federal Reserve System shall promulgate regulations implementing the amendment made by paragraph (1) \[amending this section\] by no later than 6 months after the date of the enactment of this Act \[Sept. 30, 1995\].”
 
  __Ensuring That Finance Charges Reflect Cost of Credit__ 
 
-[Pub. L. 104–29, § 2(f)][/us/pl/104/29/s2/f], Sept. 30, 1995, [109 Stat. 272][/us/stat/109/272], provided that:
+[Pub. L. 104–29][/us/pl/104/29], § 2(f), Sept. 30, 1995, [109 Stat. 272][/us/stat/109/272], provided that:
 
 >     “(1) __Report.—__ 
 
@@ -181,38 +181,38 @@
 ----------
 
 [/us/usc/t15/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1635
-[/us/pl/90/321/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs106
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
 [/us/stat/82/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F148
-[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F170
 [/us/pl/104/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29
 [/us/stat/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F271
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/usc/t15/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602
 [/us/usc/t15/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602
-[/us/pl/111/203/s1100A/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F1%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/104/29/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29%2Fs2%2Fa
-[/us/pl/104/29/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29%2Fs2%2Fb%2F1
-[/us/pl/104/29/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29%2Fs2%2Fc
-[/us/pl/104/29/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29%2Fs2%2Fd
-[/us/pl/104/29/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29%2Fs2%2Fe
-[/us/pl/104/29/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29%2Fs3%2Fa
-[/us/pl/96/221/s606/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs606%2Fa
-[/us/pl/96/221/s606/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs606%2Fb
+[/us/pl/104/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29
+[/us/pl/104/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29
+[/us/pl/104/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29
+[/us/pl/104/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29
+[/us/pl/104/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29
+[/us/pl/104/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/104/29/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29%2Fs2%2Fb%2F2
+[/us/pl/104/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29
 [/us/stat/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F271
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/96/221/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs625
 [/us/usc/t15/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602
-[/us/pl/104/29/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29%2Fs2%2Fb%2F3
+[/us/pl/104/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29
 [/us/stat/109/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F271
-[/us/pl/104/29/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29%2Fs2%2Ff
+[/us/pl/104/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29
 [/us/stat/109/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F272
 [/us/usc/t15/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1605
 

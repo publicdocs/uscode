@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application thereof to any person or circumstance is held invalid, the remainder of this chapter and the application of such provision to other persons or circumstances shall not be affected.
 
-([Pub. L. 108–187, § 15][/us/pl/108/187/s15], Dec. 16, 2003, [117 Stat. 2718][/us/stat/117/2718].)
+([Pub. L. 108–187][/us/pl/108/187], § 15, Dec. 16, 2003, [117 Stat. 2718][/us/stat/117/2718].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/108/187/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs15
+[/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2718
 [/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2699

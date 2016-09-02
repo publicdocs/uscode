@@ -29,7 +29,7 @@
 
         (3) to protect against unauthorized access to or use of such records or information which could result in substantial harm or inconvenience to any customer.
 
-([Pub. L. 106–102, title V, § 501][/us/pl/106/102/s501], Nov. 12, 1999, [113 Stat. 1436][/us/stat/113/1436]; [Pub. L. 111–203, title X, § 1093(1)][/us/pl/111/203/s1093/1], July 21, 2010, [124 Stat. 2095][/us/stat/124/2095].)
+([Pub. L. 106–102, title V][/us/pl/106/102/tV], § 501, Nov. 12, 1999, [113 Stat. 1436][/us/stat/113/1436]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1093(1), July 21, 2010, [124 Stat. 2095][/us/stat/124/2095].)
 
  __Amendments__ 
 
@@ -41,7 +41,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 106–102, title V, § 510][/us/pl/106/102/s510], Nov. 12, 1999, [113 Stat. 1445][/us/stat/113/1445], provided that: 
+[Pub. L. 106–102, title V][/us/pl/106/102/tV], § 510, Nov. 12, 1999, [113 Stat. 1445][/us/stat/113/1445], provided that: 
 
 > “This subtitle \[subtitle A (§§ 501–510) of title V of [Pub. L. 106–102][/us/pl/106/102], enacting this subchapter and amending [section 1681s of this title][/us/usc/t15/s1681s]\] shall take effect 6 months after the date on which rules are required to be prescribed under section 504(a)(3) \[[15 U.S.C. 6804(a)(3)][/us/usc/t15/s6804/a/3]\], except—
 
@@ -57,16 +57,16 @@
 ----------
 
 [/us/usc/t15/s6805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6805%2Fa
-[/us/pl/106/102/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs501
+[/us/pl/106/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtV
 [/us/stat/113/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1436
-[/us/pl/111/203/s1093/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1093%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2095
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s6805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6805%2Fa
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/106/102/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs510
+[/us/pl/106/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtV
 [/us/stat/113/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1445
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/usc/t15/s1681s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s

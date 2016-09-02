@@ -37,7 +37,7 @@
 
             This section does not restrict the rights, remedies, or defenses of any person under law or equity.
 
-([Pub. L. 108–304, § 6][/us/pl/108/304/s6], Sept. 24, 2004, [118 Stat. 1128][/us/stat/118/1128].)
+([Pub. L. 108–304][/us/pl/108/304], § 6, Sept. 24, 2004, [118 Stat. 1128][/us/stat/118/1128].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/108/304/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F304%2Fs6
+[/us/pl/108/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F304
 [/us/stat/118/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1128
 
 

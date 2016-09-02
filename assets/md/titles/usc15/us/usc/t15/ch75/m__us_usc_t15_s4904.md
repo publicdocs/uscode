@@ -17,7 +17,7 @@
 
     The Secretary shall regularly consult with representatives of the private sector and officials of State and local governments to assess the adequacy of United States trade information. The Secretary shall seek recommendations on how trade information can be made more accessible, understandable, and relevant. The Secretary shall seek recommendations as to what data should be included in the export promotion data system in the Data Bank.
 
-([Pub. L. 100–418, title V, § 5404][/us/pl/100/418/s5404], Aug. 23, 1988, [102 Stat. 1464][/us/stat/102/1464].)
+([Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5404, Aug. 23, 1988, [102 Stat. 1464][/us/stat/102/1464].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s5404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5404
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1464
 
 

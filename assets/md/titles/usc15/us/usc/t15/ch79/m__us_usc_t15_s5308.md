@@ -33,7 +33,7 @@
 
         With respect to patent rights, the Institutes shall be treated in the same manner as are nonprofit organizations and small business firms under chapter 18 of title 35, notwithstanding any provisions to the contrary contained in that chapter.
 
-([Pub. L. 101–425, § 9][/us/pl/101/425/s9], Oct. 15, 1990, [104 Stat. 919][/us/stat/104/919].)
+([Pub. L. 101–425][/us/pl/101/425], § 9, Oct. 15, 1990, [104 Stat. 919][/us/stat/104/919].)
 
 ----------
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
-[/us/pl/101/425/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F425%2Fs9
+[/us/pl/101/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F425
 [/us/stat/104/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F919
 
 

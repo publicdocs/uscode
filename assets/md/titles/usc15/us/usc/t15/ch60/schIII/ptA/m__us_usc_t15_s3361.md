@@ -37,7 +37,7 @@
 
             Nothing in this subsection shall prohibit the President from extending, under subsection (a), any emergency (or extension thereof), previously declared under subsection (a), upon the expiration of such declaration of emergency (or extension thereof) under paragraph (1)(B).
 
-([Pub. L. 95–621, title III, § 301][/us/pl/95/621/s301], Nov. 9, 1978, [92 Stat. 3381][/us/stat/92/3381].)
+([Pub. L. 95–621, title III][/us/pl/95/621/tIII], § 301, Nov. 9, 1978, [92 Stat. 3381][/us/stat/92/3381].)
 
  __Delegation of Functions__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t15/s3363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3363
-[/us/pl/95/621/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs301
+[/us/pl/95/621/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2FtIII
 [/us/stat/92/3381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3381
 [/us/usc/t15/s3364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3364
 

@@ -27,11 +27,11 @@
 
     (b) It is the policy of the Congress in this chapter to regulate interstate commerce with respect to wagering on horseracing, in order to further the horseracing and legal off-track betting industries in the United States.
 
-([Pub. L. 95–515, § 2][/us/pl/95/515/s2], Oct. 25, 1978, [92 Stat. 1811][/us/stat/92/1811].)
+([Pub. L. 95–515][/us/pl/95/515], § 2, Oct. 25, 1978, [92 Stat. 1811][/us/stat/92/1811].)
 
  __Effective Date__ 
 
-[Pub. L. 95–515, § 9][/us/pl/95/515/s9], Oct. 25, 1978, [92 Stat. 1815][/us/stat/92/1815], provided that:
+[Pub. L. 95–515][/us/pl/95/515], § 9, Oct. 25, 1978, [92 Stat. 1815][/us/stat/92/1815], provided that:
 
 >     “(a) The provisions of this Act \[this chapter\] shall take effect on the date of enactment of this Act \[Oct. 25, 1978\], and, except as provided in subsection (b) of this section, shall apply to any interstate off-track wager accepted on or after such date of enactment.
 
@@ -45,7 +45,7 @@
 
  __Short Title__ 
 
-[Pub. L. 95–515, § 1][/us/pl/95/515/s1], Oct. 25, 1978, [92 Stat. 1811][/us/stat/92/1811], provided that: 
+[Pub. L. 95–515][/us/pl/95/515], § 1, Oct. 25, 1978, [92 Stat. 1811][/us/stat/92/1811], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Interstate Horseracing Act of 1978’.”
 
@@ -56,12 +56,12 @@
 ----------
 ----------
 
-[/us/pl/95/515/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F515%2Fs2
+[/us/pl/95/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F515
 [/us/stat/92/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1811
-[/us/pl/95/515/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F515%2Fs9
+[/us/pl/95/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F515
 [/us/stat/92/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1815
 [/us/usc/t15/s3004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3004%2Fb
-[/us/pl/95/515/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F515%2Fs1
+[/us/pl/95/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F515
 [/us/stat/92/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1811
 
 

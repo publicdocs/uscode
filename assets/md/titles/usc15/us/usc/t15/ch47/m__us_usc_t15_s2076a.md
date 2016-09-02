@@ -19,7 +19,7 @@
 
     (2) The Commission shall submit information with respect to the imposition of civil penalties under the statutes which it administers. The information shall include the number of civil penalties imposed, an identification of the violations that led to the imposition of such penalties, and the amount of revenue recovered from the imposition of such penalties.
 
-([Pub. L. 101–608, title I, § 115(d)][/us/pl/101/608/s115/d], Nov. 16, 1990, [104 Stat. 3121][/us/stat/104/3121].)
+([Pub. L. 101–608, title I][/us/pl/101/608/tI], § 115(d), Nov. 16, 1990, [104 Stat. 3121][/us/stat/104/3121].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/101/608/s115/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs115%2Fd
+[/us/pl/101/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2FtI
 [/us/stat/104/3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3121
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

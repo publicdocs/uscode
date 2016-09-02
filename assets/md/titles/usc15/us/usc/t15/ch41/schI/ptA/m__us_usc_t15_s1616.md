@@ -73,7 +73,7 @@
 
         (2) section 5 of the Federal Trade Commission Act \[[15 U.S.C. 45][/us/usc/t15/s45]\], and regulations prescribed under the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\], including part 227 of title 12 of the Code of Federal Regulations, as prescribed by the Board (referred to as “Regulation AA”).
 
-([Pub. L. 111–24, title V, § 502][/us/pl/111/24/s502], May 22, 2009, [123 Stat. 1755][/us/stat/123/1755].)
+([Pub. L. 111–24, title V][/us/pl/111/24/tV], § 502, May 22, 2009, [123 Stat. 1755][/us/stat/123/1755].)
 
  __References in Text__ 
 
@@ -106,7 +106,7 @@
 [/us/usc/t12/s247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs247
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/pl/111/24/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs502
+[/us/pl/111/24/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtV
 [/us/stat/123/1755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1755
 [/us/pl/111/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24
 [/us/pl/111/24/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs3

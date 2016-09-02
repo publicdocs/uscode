@@ -45,7 +45,7 @@
 
         On the basis of the interim report or the final report of the study required by subsection (a), a State may enact or amend State law to establish or modify a standard of liability for local educational agencies or asbestos contractors with respect to actions required under this subchapter.
 
-([Pub. L. 94–469, title II, § 210][/us/pl/94/469/s210], as added [Pub. L. 99–519, § 2][/us/pl/99/519/s2], Oct. 22, 1986, [100 Stat. 2986][/us/stat/100/2986].)
+([Pub. L. 94–469, title II][/us/pl/94/469/tII], § 210, as added [Pub. L. 99–519][/us/pl/99/519], § 2, Oct. 22, 1986, [100 Stat. 2986][/us/stat/100/2986].)
 
 ----------
 
@@ -56,8 +56,8 @@
 
 [/us/usc/t15/s2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2643
 [/us/usc/t15/s2646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2646
-[/us/pl/94/469/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs210
-[/us/pl/99/519/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs2
+[/us/pl/94/469/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtII
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2986
 
 

@@ -17,7 +17,7 @@
 
     Upon request, the Administrator shall assist the Consumer Product Safety Commission in the development of fire safety standards or codes for consumer products, as defined in the Consumer Product Safety Act ([15 U.S.C. 2051][/us/usc/t15/s2051] et seq.).
 
-([Pub. L. 93–498, § 22][/us/pl/93/498/s22], Oct. 29, 1974, [88 Stat. 1549][/us/stat/88/1549].)
+([Pub. L. 93–498][/us/pl/93/498], § 22, Oct. 29, 1974, [88 Stat. 1549][/us/stat/88/1549].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t15/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2051
-[/us/pl/93/498/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs22
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1549
 [/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1207

@@ -55,7 +55,7 @@
 
         (2) a review of the activities of registered securities associations and national securities exchanges in the development of the system.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 17B, as added [Pub. L. 101–429, title V, § 506][/us/pl/101/429/s506], Oct. 15, 1990, [104 Stat. 955][/us/stat/104/955].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 17B, as added [Pub. L. 101–429, title V][/us/pl/101/429/tV], § 506, Oct. 15, 1990, [104 Stat. 955][/us/stat/104/955].)
 
  __References in Text__ 
 
@@ -74,7 +74,7 @@
 
 [/us/usc/t15/s78w/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78w%2Fb%2F1
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/101/429/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2Fs506
+[/us/pl/101/429/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2FtV
 [/us/stat/104/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F955
 [/us/usc/t15/s78w/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78w%2Fb%2F1
 [/us/usc/t15/s78w]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78w

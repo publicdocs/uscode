@@ -147,25 +147,25 @@
 
         The Commission shall grant, in whole or in part, or deny any petition under [section 553(e) of title 5][/us/usc/t5/s553/e] requesting the Commission to initiate a rulemaking, within a reasonable time after the date on which such petition is filed. The Commission shall state the reasons for granting or denying such petition. The Commission may not deny any such petition on the basis of a voluntary standard unless the voluntary standard is in existence at the time of the denial of the petition, the Commission has determined that the voluntary standard is likely to result in the elimination or adequate reduction of the risk of injury identified in the petition, and it is likely that there will be substantial compliance with the standard.
 
-([Pub. L. 92–573, § 9][/us/pl/92/573/s9], Oct. 27, 1972, [86 Stat. 1215][/us/stat/86/1215]; [Pub. L. 94–284, § 9][/us/pl/94/284/s9], May 11, 1976, [90 Stat. 506][/us/stat/90/506]; [Pub. L. 95–631, § 4(d)][/us/pl/95/631/s4/d], Nov. 10, 1978, [92 Stat. 3744][/us/stat/92/3744]; [Pub. L. 97–35, title XII, § 1203(a)][/us/pl/97/35/s1203/a], Aug. 13, 1981, [95 Stat. 704][/us/stat/95/704]; [Pub. L. 101–608, title I][/us/pl/101/608], §§ 108(a), 109, 110(a), Nov. 16, 1990, [104 Stat. 3112][/us/stat/104/3112], 3113; [Pub. L. 110–314, title II][/us/pl/110/314], §§ 204(a)(1), 213, 235(c)(3), Aug. 14, 2008, [122 Stat. 3040][/us/stat/122/3040], 3052, 3074.)
+([Pub. L. 92–573][/us/pl/92/573], § 9, Oct. 27, 1972, [86 Stat. 1215][/us/stat/86/1215]; [Pub. L. 94–284][/us/pl/94/284], § 9, May 11, 1976, [90 Stat. 506][/us/stat/90/506]; [Pub. L. 95–631][/us/pl/95/631], § 4(d), Nov. 10, 1978, [92 Stat. 3744][/us/stat/92/3744]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1203(a), Aug. 13, 1981, [95 Stat. 704][/us/stat/95/704]; [Pub. L. 101–608, title I][/us/pl/101/608/tI], §§ 108(a), 109, 110(a), Nov. 16, 1990, [104 Stat. 3112][/us/stat/104/3112], 3113; [Pub. L. 110–314, title II][/us/pl/110/314/tII], §§ 204(a)(1), 213, 235(c)(3), Aug. 14, 2008, [122 Stat. 3040][/us/stat/122/3040], 3052, 3074.)
 
  __Amendments__ 
 
     2008—Subsec. (a). [Pub. L. 110–314][/us/pl/110/314], §§ 204(a)(1)(A), 235(c)(3), substituted “may be commenced” for “shall be commenced” in introductory provisions and “the appropriate Congressional committees” for “the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives” in concluding provisions.
 
-    Subsec. (b). [Pub. L. 110–314, § 204(a)(1)(B)][/us/pl/110/314/s204/a/1/B], which directed amendment of subsec. (b) by substituting “in a notice” for “in the notice”, was executed by making the substitution the first place the words appeared in par. (1) after “risk of injury identified”, to reflect the probable intent of Congress.
+    Subsec. (b). [Pub. L. 110–314][/us/pl/110/314], § 204(a)(1)(B), which directed amendment of subsec. (b) by substituting “in a notice” for “in the notice”, was executed by making the substitution the first place the words appeared in par. (1) after “risk of injury identified”, to reflect the probable intent of Congress.
 
-    Subsec. (c). [Pub. L. 110–314, § 235(c)(3)][/us/pl/110/314/s235/c/3], substituted “the appropriate Congressional committees” for “the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives” in two places in concluding provisions.
+    Subsec. (c). [Pub. L. 110–314][/us/pl/110/314], § 235(c)(3), substituted “the appropriate Congressional committees” for “the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives” in two places in concluding provisions.
 
-    [Pub. L. 110–314, § 204(a)(1)(C)][/us/pl/110/314/s204/a/1/C]–(E), in introductory provisions, substituted “unless the” for “unless, not less than 60 days after publication of the notice required in subsection (a) of this section, the” and in concluding provisions, substituted “the notice,” for “an advance notice of proposed rulemaking under subsection (a) of this section relating to the product involved,” and “Register. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed consumer product safety standard.” for “Register.”
+    [Pub. L. 110–314][/us/pl/110/314], § 204(a)(1)(C)–(E), in introductory provisions, substituted “unless the” for “unless, not less than 60 days after publication of the notice required in subsection (a) of this section, the” and in concluding provisions, substituted “the notice,” for “an advance notice of proposed rulemaking under subsection (a) of this section relating to the product involved,” and “Register. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed consumer product safety standard.” for “Register.”
 
-    Subsec. (g)(2). [Pub. L. 110–314, § 213][/us/pl/110/314/s213], inserted “or to which a rule under this chapter or similar rule, regulation, standard, or ban under any other Act enforced by the Commission applies,” after “applies,” and substituted “rule, regulation, standard, or ban” for “consumer product safety rule” the second, third, and fourth places it appeared.
+    Subsec. (g)(2). [Pub. L. 110–314][/us/pl/110/314], § 213, inserted “or to which a rule under this chapter or similar rule, regulation, standard, or ban under any other Act enforced by the Commission applies,” after “applies,” and substituted “rule, regulation, standard, or ban” for “consumer product safety rule” the second, third, and fourth places it appeared.
 
-    1990—Subsec. (b)(2). [Pub. L. 101–608, § 108(a)][/us/pl/101/608/s108/a], struck out period at end and inserted “, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary consumer product safety standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.”
+    1990—Subsec. (b)(2). [Pub. L. 101–608][/us/pl/101/608], § 108(a), struck out period at end and inserted “, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary consumer product safety standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.”
 
-    Subsec. (c). [Pub. L. 101–608, § 109][/us/pl/101/608/s109], inserted at end “Any proposed consumer product safety rule shall be issued within twelve months after the date of publication of an advance notice of proposed rulemaking under subsection (a) relating to the product involved, unless the Commission determines that such proposed rule is not reasonably necessary to eliminate or reduce the risk of injury associated with the product or is not in the public interest. The Commission may extend the twelve-month period for good cause. If the Commission extends such period, it shall immediately transmit notice of such extension to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives. Such notice shall include an explanation of the reasons for such extension, together with an estimate of the date by which the Commission anticipates such rulemaking will be completed. The Commission shall publish notice of such extension and the information submitted to the Congress in the Federal Register.”
+    Subsec. (c). [Pub. L. 101–608][/us/pl/101/608], § 109, inserted at end “Any proposed consumer product safety rule shall be issued within twelve months after the date of publication of an advance notice of proposed rulemaking under subsection (a) relating to the product involved, unless the Commission determines that such proposed rule is not reasonably necessary to eliminate or reduce the risk of injury associated with the product or is not in the public interest. The Commission may extend the twelve-month period for good cause. If the Commission extends such period, it shall immediately transmit notice of such extension to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives. Such notice shall include an explanation of the reasons for such extension, together with an estimate of the date by which the Commission anticipates such rulemaking will be completed. The Commission shall publish notice of such extension and the information submitted to the Congress in the Federal Register.”
 
-    Subsec. (i). [Pub. L. 101–608, § 110(a)][/us/pl/101/608/s110/a], added subsec. (i).
+    Subsec. (i). [Pub. L. 101–608][/us/pl/101/608], § 110(a), added subsec. (i).
 
     1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35] amended subsec. (a) generally, substituting provisions for the commencement of rule-making proceedings by the publication of a notice of proposed rule-making for provisions for the promulgation of rule after publication of a notice according to specified provisions of law and to withdraw applicable notice of proceeding upon determination that such rule was not reasonably necessary to eliminate or reduce an unreasonable risk of injury associated with the product or that it was in the public interest, and providing for certain other procedural safeguards.
 
@@ -198,26 +198,26 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t15/s2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2060
 [/us/usc/t5/s553/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553%2Fe
-[/us/pl/92/573/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs9
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1215
-[/us/pl/94/284/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs9
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/stat/90/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F506
-[/us/pl/95/631/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631%2Fs4%2Fd
+[/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
 [/us/stat/92/3744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3744
-[/us/pl/97/35/s1203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1203%2Fa
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F704
-[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
+[/us/pl/101/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2FtI
 [/us/stat/104/3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3112
-[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3040
 [/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
-[/us/pl/110/314/s204/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fa%2F1%2FB
-[/us/pl/110/314/s235/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs235%2Fc%2F3
-[/us/pl/110/314/s204/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fa%2F1%2FC
-[/us/pl/110/314/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs213
-[/us/pl/101/608/s108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs108%2Fa
-[/us/pl/101/608/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs109
-[/us/pl/101/608/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs110%2Fa
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
+[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
+[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

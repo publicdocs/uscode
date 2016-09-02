@@ -43,7 +43,7 @@
 
         Not later than twelve months after December 30, 1970, the Commission shall compile a list of unsafe or unsound practices by members of SIPC in conducting their business and report to the Congress (1) the steps being taken under the authority of existing law to eliminate those practices and (2) recommendations concerning additional legislation which may be needed to eliminate those unsafe or unsound practices.
 
-([Pub. L. 91–598, § 15][/us/pl/91/598/s15], formerly § 11, Dec. 30, 1970, [84 Stat. 1655][/us/stat/84/1655]; renumbered § 15 and amended [Pub. L. 95–283][/us/pl/95/283], §§ 9, 14, May 21, 1978, [92 Stat. 260][/us/stat/92/260], 270; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
+([Pub. L. 91–598][/us/pl/91/598], § 15, formerly § 11, Dec. 30, 1970, [84 Stat. 1655][/us/stat/84/1655]; renumbered § 15 and amended [Pub. L. 95–283][/us/pl/95/283], §§ 9, 14, May 21, 1978, [92 Stat. 260][/us/stat/92/260], 270; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095].)
 
  __References in Text__ 
 
@@ -53,13 +53,13 @@
 
     1986—Subsec. (e). [Pub. L. 99–514][/us/pl/99/514] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-    1978—Subsec. (b). [Pub. L. 95–283, § 14(c)][/us/pl/95/283/s14/c], redesignated subsec. (c) as (b). Former subsec. (b), relating to application of securities investor protection provisions to foreign members, was struck out.
+    1978—Subsec. (b). [Pub. L. 95–283][/us/pl/95/283], § 14(c), redesignated subsec. (c) as (b). Former subsec. (b), relating to application of securities investor protection provisions to foreign members, was struck out.
 
-    Subsec. (c). [Pub. L. 95–283, § 14(a)][/us/pl/95/283/s14/a], (c), redesignated subsec. (d) as (c) and inserted “, officers, or employees” after “Directors” in heading and text. Former subsec. (c) redesignated (b).
+    Subsec. (c). [Pub. L. 95–283][/us/pl/95/283], § 14(a), (c), redesignated subsec. (d) as (c) and inserted “, officers, or employees” after “Directors” in heading and text. Former subsec. (c) redesignated (b).
 
-    Subsec. (d). [Pub. L. 95–283, § 14(b)][/us/pl/95/283/s14/b], (c), redesignated subsec. (e) as (d), inserted provisions authorizing SIPC to prescribe necessary and proper minimal requirements for providing public notice of membership by a member of SIPC in SIPC, and struck out provisions authorizing rules by SIPC to implement advertising requirements. Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 95–283][/us/pl/95/283], § 14(b), (c), redesignated subsec. (e) as (d), inserted provisions authorizing SIPC to prescribe necessary and proper minimal requirements for providing public notice of membership by a member of SIPC in SIPC, and struck out provisions authorizing rules by SIPC to implement advertising requirements. Former subsec. (d) redesignated (c).
 
-    Subsecs. (e) to (h). [Pub. L. 95–283, § 14(c)][/us/pl/95/283/s14/c], redesignated subsecs. (e) to (h) as (d) to (g), respectively.
+    Subsecs. (e) to (h). [Pub. L. 95–283][/us/pl/95/283], § 14(c), redesignated subsecs. (e) to (h) as (d) to (g), respectively.
 
 ----------
 
@@ -73,18 +73,18 @@
 [/us/usc/t26/s162/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs162%2Fa
 [/us/usc/t15/s78t/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78t%2Fa
 [/us/usc/t15/s78t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78t
-[/us/pl/91/598/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598%2Fs15
+[/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1655
 [/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/stat/92/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F260
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
 [/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1636
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/95/283/s14/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs14%2Fc
-[/us/pl/95/283/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs14%2Fa
-[/us/pl/95/283/s14/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs14%2Fb
-[/us/pl/95/283/s14/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs14%2Fc
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 
 

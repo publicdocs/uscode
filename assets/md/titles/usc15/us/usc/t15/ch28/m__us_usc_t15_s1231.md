@@ -39,7 +39,7 @@
 
     (h) The term “commerce” shall mean commerce among the several States of the United States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or among the Territories or between any Territory and any State or foreign nation, or between the District of Columbia and any State or Territory or foreign nation. New automobiles delivered to, or for further delivery to, ultimate purchasers within the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, Virgin Islands, American Samoa, the Trust Territories of the Pacific, the Canal Zone, Wake Island, Midway Island, Kingman Reef, Johnson Island, or within any other place under the jurisdiction of the United States shall be deemed to have been distributed in commerce.
 
-([Pub. L. 85–506, § 2][/us/pl/85/506/s2], July 7, 1958, [72 Stat. 325][/us/stat/72/325]; [Pub. L. 92–359][/us/pl/92/359], July 28, 1972, [86 Stat. 502][/us/stat/86/502].)
+([Pub. L. 85–506][/us/pl/85/506], § 2, July 7, 1958, [72 Stat. 325][/us/stat/72/325]; [Pub. L. 92–359][/us/pl/92/359], July 28, 1972, [86 Stat. 502][/us/stat/86/502].)
 
  __References in Text__ 
 
@@ -51,13 +51,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 85–506, § 5][/us/pl/85/506/s5], July 7, 1958, [72 Stat. 327][/us/stat/72/327], provided that: 
+[Pub. L. 85–506][/us/pl/85/506], § 5, July 7, 1958, [72 Stat. 327][/us/stat/72/327], provided that: 
 
 > “This Act \[enacting this chapter\] shall take effect on the first day of October 1958 or on the first day of the introduction of any new model of automobile in any line of automobile beginning after the date of enactment of this Act \[July 7, 1958\], whichever date shall last occur.”
 
  __Short Title__ 
 
-[Pub. L. 85–506, § 1][/us/pl/85/506/s1], July 7, 1958, [72 Stat. 325][/us/stat/72/325], provided: 
+[Pub. L. 85–506][/us/pl/85/506], § 1, July 7, 1958, [72 Stat. 325][/us/stat/72/325], provided: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Automobile Information Disclosure Act’.”
 
@@ -72,15 +72,15 @@
 ----------
 ----------
 
-[/us/pl/85/506/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F506%2Fs2
+[/us/pl/85/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F506
 [/us/stat/72/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F325
 [/us/pl/92/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F359
 [/us/stat/86/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F502
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/pl/92/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F359
-[/us/pl/85/506/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F506%2Fs5
+[/us/pl/85/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F506
 [/us/stat/72/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F327
-[/us/pl/85/506/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F506%2Fs1
+[/us/pl/85/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F506
 [/us/stat/72/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F325
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

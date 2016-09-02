@@ -17,7 +17,7 @@
 
     Two or more States may cooperate in administering and coordinating their plans and programs supported under this chapter, in which event all or part of the sums authorized and payable under [section 1360 of this title][/us/usc/t15/s1360] to all of the cooperating States may be paid to the designated agency, participating institutions, or persons authorized to receive them under the terms of the agreement between the cooperating States. When the cooperative agreement designates an interstate agency to act on behalf of all of the cooperating States, it shall submit to the Secretary for review and approval under [section 1356 of this title][/us/usc/t15/s1356] an interstate five-year plan and an annual interstate technical services program which, as nearly as practicable, shall meet the requirements of sections 1354 and 1355 of this title.
 
-([Pub. L. 89–182, § 7][/us/pl/89/182/s7], Sept. 14, 1965, [79 Stat. 681][/us/stat/79/681].)
+([Pub. L. 89–182][/us/pl/89/182], § 7, Sept. 14, 1965, [79 Stat. 681][/us/stat/79/681].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t15/s1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1360
 [/us/usc/t15/s1356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1356
-[/us/pl/89/182/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182%2Fs7
+[/us/pl/89/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182
 [/us/stat/79/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F681
 
 

@@ -27,7 +27,7 @@
 
         Any recommendation by the President for legislation to implement any program enacted pursuant to the provisions of this chapter, requiring the use of funds under this chapter, and submitted pursuant to the requirements of this chapter, shall contain appropriate wage provisions based upon existing wage standard legislation.
 
-([Pub. L. 95–523, title IV, § 402][/us/pl/95/523/s402], Oct. 27, 1978, [92 Stat. 1908][/us/stat/92/1908].)
+([Pub. L. 95–523, title IV][/us/pl/95/523/tIV], § 402, Oct. 27, 1978, [92 Stat. 1908][/us/stat/92/1908].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
  __Codification__ 
 
-    “Sections 3141–3144, 3146, and 3147 of title 40 apply” substituted in subsec. (b) for “the Davis-Bacon Act ([40 U.S.C. 276a][/us/usc/t40/s276a]—276a–5) applies” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    “Sections 3141–3144, 3146, and 3147 of title 40 apply” substituted in subsec. (b) for “the Davis-Bacon Act ([40 U.S.C. 276a][/us/usc/t40/s276a]—276a–5) applies” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 ----------
 
@@ -49,14 +49,14 @@
 [/us/usc/t15/s3116/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3116%2Fc%2F1
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/usc/t15/s3116/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3116%2Fc%2F1
-[/us/pl/95/523/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs402
+[/us/pl/95/523/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2FtIV
 [/us/stat/92/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1908
 [/us/usc/t15/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3102
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/usc/t40/s276a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276a
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
 
 

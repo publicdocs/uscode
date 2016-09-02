@@ -71,7 +71,7 @@
 
             (C) is updated whenever there is a material change in the information.
 
-([Pub. L. 104–272, § 11][/us/pl/104/272/s11], as added [Pub. L. 106–210, § 4(2)][/us/pl/106/210/s4/2], May 26, 2000, [114 Stat. 323][/us/stat/114/323].)
+([Pub. L. 104–272][/us/pl/104/272], § 11, as added [Pub. L. 106–210][/us/pl/106/210], § 4(2), May 26, 2000, [114 Stat. 323][/us/stat/114/323].)
 
  __Prior Provisions__ 
 
@@ -84,8 +84,8 @@
 ----------
 ----------
 
-[/us/pl/104/272/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs11
-[/us/pl/106/210/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs4%2F2
+[/us/pl/104/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 [/us/stat/114/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F323
 [/us/pl/104/272/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs11
 [/us/usc/t15/s6310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6310

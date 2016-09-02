@@ -31,7 +31,7 @@
 
         Except as otherwise provided in sections 6102(d), 6102(e), 6103, and 6104 of this title, and subject to subtitle B of the Consumer Financial Protection Act of 2010 \[[12 U.S.C. 5511][/us/usc/t12/s5511] et seq.\], this chapter shall be enforced by the Bureau of Consumer Financial Protection under subtitle E of the Consumer Financial Protection Act of 2010 \[[12 U.S.C. 5561][/us/usc/t12/s5561] et seq.\], with respect to the offering or provision of a consumer financial product or service subject to that Act.
 
-([Pub. L. 103–297, § 6][/us/pl/103/297/s6], Aug. 16, 1994, [108 Stat. 1549][/us/stat/108/1549]; [Pub. L. 111–203, title X, § 1100C(d)][/us/pl/111/203/s1100C/d], July 21, 2010, [124 Stat. 2111][/us/stat/124/2111].)
+([Pub. L. 103–297][/us/pl/103/297], § 6, Aug. 16, 1994, [108 Stat. 1549][/us/stat/108/1549]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100C(d), July 21, 2010, [124 Stat. 2111][/us/stat/124/2111].)
 
  __References in Text__ 
 
@@ -61,9 +61,9 @@
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t12/s5511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5511
 [/us/usc/t12/s5561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5561
-[/us/pl/103/297/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297%2Fs6
+[/us/pl/103/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297
 [/us/stat/108/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1549
-[/us/pl/111/203/s1100C/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100C%2Fd
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2111
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

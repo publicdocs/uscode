@@ -41,7 +41,7 @@
 
     (8) the term “Attorney General” means the Attorney General of the United States or his designee.
 
-([Pub. L. 97–290, title III, § 311][/us/pl/97/290/s311], Oct. 8, 1982, [96 Stat. 1245][/us/stat/96/1245].)
+([Pub. L. 97–290, title III][/us/pl/97/290/tIII], § 311, Oct. 8, 1982, [96 Stat. 1245][/us/stat/96/1245].)
 
  __Effective Date__ 
 
@@ -57,7 +57,7 @@
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
-[/us/pl/97/290/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs311
+[/us/pl/97/290/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2FtIII
 [/us/stat/96/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1245
 [/us/pl/97/290/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs312
 [/us/usc/t15/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4011

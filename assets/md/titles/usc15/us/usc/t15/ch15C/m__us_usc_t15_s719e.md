@@ -35,7 +35,7 @@
 
             (D) identify those provisions of law, relating to any determination of a Federal officer or agency as to whether a certificate, permit, right-of-way, lease, or other authorization shall be issued or be granted, which provisions the President finds (i) involve determinations which are subsumed in his decision and (ii) require waiver pursuant to [section 719f(g) of this title][/us/usc/t15/s719f/g] in order to permit the expeditious construction and initial operation of the transportation system.
 
-        (5) Repealed. [Pub. L. 102–486, title XXX, § 3012(a)][/us/pl/102/486/s3012/a], Oct. 24, 1992, [106 Stat. 3128][/us/stat/106/3128].
+        (5) Repealed. [Pub. L. 102–486, title XXX][/us/pl/102/486/tXXX], § 3012(a), Oct. 24, 1992, [106 Stat. 3128][/us/stat/106/3128].
 
         (6) If the President determines to designate for approval a transportation system for delivery of Alaska natural gas to the contiguous States, he may identify in such decision such terms and conditions permissible under existing law as he determines appropriate for inclusion with respect to any issuance or authorization directed to be made pursuant to [section 719g of this title][/us/usc/t15/s719g].
 
@@ -55,7 +55,7 @@
 
         If the President determines to designate a transportation system for approval, the decision of the President shall take effect as provided in [section 719f of this title][/us/usc/t15/s719f], except that the approval of a decision of the President shall not be construed as amending or otherwise affecting the laws of the United States so as to grant any new financing authority as may have been identified by the President pursuant to subsection (c).
 
-([Pub. L. 94–586, § 7][/us/pl/94/586/s7], Oct. 22, 1976, [90 Stat. 2907][/us/stat/90/2907]; [Pub. L. 102–486, title XXX, § 3012(a)][/us/pl/102/486/s3012/a], Oct. 24, 1992, [106 Stat. 3128][/us/stat/106/3128].)
+([Pub. L. 94–586][/us/pl/94/586], § 7, Oct. 22, 1976, [90 Stat. 2907][/us/stat/90/2907]; [Pub. L. 102–486, title XXX][/us/pl/102/486/tXXX], § 3012(a), Oct. 24, 1992, [106 Stat. 3128][/us/stat/106/3128].)
 
  __Amendments__ 
 
@@ -69,7 +69,7 @@
 
  __Abolition of Office of Federal Inspector__ 
 
-[Pub. L. 102–486, title XXX, § 3012(b)][/us/pl/102/486/s3012/b], Oct. 24, 1992, [106 Stat. 3128][/us/stat/106/3128], provided that: 
+[Pub. L. 102–486, title XXX][/us/pl/102/486/tXXX], § 3012(b), Oct. 24, 1992, [106 Stat. 3128][/us/stat/106/3128], provided that: 
 
 > “The Office of Federal Inspector of Construction for the Alaska Natural Gas Transportation System \[also known as “Office of the Federal Inspector for the Alaska Natural Gas Transportation System”\], created pursuant to the paragraph \[[15 U.S.C. 719e(a)(5)][/us/usc/t15/s719e/a/5]\] repealed by subsection (a) of this section, is abolished. All functions and authority vested in the Inspector are hereby transferred to the Secretary of Energy.”
 
@@ -221,21 +221,21 @@ Subject to the provisions of Sections 201, 202, and 203 of this Plan, all functi
 [/us/usc/t15/s719d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719d
 [/us/usc/t15/s719g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719g
 [/us/usc/t15/s719f/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719f%2Fg
-[/us/pl/102/486/s3012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fa
+[/us/pl/102/486/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXX
 [/us/stat/106/3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3128
 [/us/usc/t15/s719g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719g
 [/us/usc/t15/s719f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719f
 [/us/usc/t15/s719f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719f
-[/us/pl/94/586/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586%2Fs7
+[/us/pl/94/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586
 [/us/stat/90/2907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2907
-[/us/pl/102/486/s3012/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fa
+[/us/pl/102/486/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXX
 [/us/stat/106/3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3128
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/95/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F158
 [/us/usc/t15/s719f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719f
 [/us/pl/102/486/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fb
 [/us/usc/t15/s720d/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs720d%2Ff
-[/us/pl/102/486/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fb
+[/us/pl/102/486/tXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXX
 [/us/stat/106/3128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3128
 [/us/usc/t15/s719e/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e%2Fa%2F5
 [/us/usc/t15/s720d/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs720d%2Ff

@@ -117,7 +117,7 @@
 
         Nothing in this chapter shall affect the authority of any State to bring an action in any Federal or State court.
 
-([Pub. L. 97–45, § 4][/us/pl/97/45/s4], Sept. 25, 1981, [95 Stat. 951][/us/stat/95/951]; [Pub. L. 99–563][/us/pl/99/563], §§ 6, 8(b), 12(d), Oct. 27, 1986, [100 Stat. 3174][/us/stat/100/3174], 3175, 3178.)
+([Pub. L. 97–45][/us/pl/97/45], § 4, Sept. 25, 1981, [95 Stat. 951][/us/stat/95/951]; [Pub. L. 99–563][/us/pl/99/563], §§ 6, 8(b), 12(d), Oct. 27, 1986, [100 Stat. 3174][/us/stat/100/3174], 3175, 3178.)
 
  __Codification__ 
 
@@ -125,11 +125,11 @@
 
  __Amendments__ 
 
-    1986—Subsec. (a). [Pub. L. 99–563, § 8(b)(1)][/us/pl/99/563/s8/b/1], inserted reference to [section 3905 of this title][/us/usc/t15/s3905].
+    1986—Subsec. (a). [Pub. L. 99–563][/us/pl/99/563], § 8(b)(1), inserted reference to [section 3905 of this title][/us/usc/t15/s3905].
 
-    Subsec. (b)(1). [Pub. L. 99–563, § 12(d)(1)][/us/pl/99/563/s12/d/1], substituted “liability insurance” for “product liability or completed operations liability insurance, and comprehensive general liability insurance which includes either of these coverages,”.
+    Subsec. (b)(1). [Pub. L. 99–563][/us/pl/99/563], § 12(d)(1), substituted “liability insurance” for “product liability or completed operations liability insurance, and comprehensive general liability insurance which includes either of these coverages,”.
 
-    Subsec. (b)(2)(A). [Pub. L. 99–563, § 12(d)(2)][/us/pl/99/563/s12/d/2], struck out “product liability or completed operations insurance, and comprehensive general” before “liability coverage”.
+    Subsec. (b)(2)(A). [Pub. L. 99–563][/us/pl/99/563], § 12(d)(2), struck out “product liability or completed operations insurance, and comprehensive general” before “liability coverage”.
 
     Subsecs. (d) to (h). [Pub. L. 99–563][/us/pl/99/563], §§ 6, 8(b)(2), added subsecs. (d) to (h).
 
@@ -141,15 +141,15 @@
 ----------
 
 [/us/usc/t15/s3905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3905
-[/us/pl/97/45/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F45%2Fs4
+[/us/pl/97/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F45
 [/us/stat/95/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F951
 [/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
 [/us/stat/100/3174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3174
 [/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
-[/us/pl/99/563/s8/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs8%2Fb%2F1
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
 [/us/usc/t15/s3905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3905
-[/us/pl/99/563/s12/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs12%2Fd%2F1
-[/us/pl/99/563/s12/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs12%2Fd%2F2
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
 [/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
 
 

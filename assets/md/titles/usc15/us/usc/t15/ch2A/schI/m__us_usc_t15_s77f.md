@@ -327,7 +327,7 @@
 
             Notwithstanding any other provision of this subchapter, the Commission shall not be compelled to disclose any information provided to or obtained by the Commission pursuant to this subsection. For purposes of [section 552 of title 5][/us/usc/t5/s552], this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. Information described in or obtained pursuant to this subsection shall be deemed to constitute confidential information for purposes of [section 78x(b)(2) of this title][/us/usc/t15/s78x/b/2].
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 6, [48 Stat. 78][/us/stat/48/78]; [Pub. L. 89–289, § 1][/us/pl/89/289/s1], Oct. 22, 1965, [79 Stat. 1051][/us/stat/79/1051]; [Pub. L. 100–181, title II, § 205][/us/pl/100/181/s205], Dec. 4, 1987, [101 Stat. 1252][/us/stat/101/1252]; [Pub. L. 104–290, title IV, § 404][/us/pl/104/290/s404], Oct. 11, 1996, [110 Stat. 3441][/us/stat/110/3441]; [Pub. L. 107–123, § 4][/us/pl/107/123/s4], Jan. 16, 2002, [115 Stat. 2393][/us/stat/115/2393]; [Pub. L. 111–203, title IX, § 991(b)(1)][/us/pl/111/203/s991/b/1], July 21, 2010, [124 Stat. 1951][/us/stat/124/1951]; [Pub. L. 112–106, title I, § 106(a)][/us/pl/112/106/s106/a], Apr. 5, 2012, [126 Stat. 312][/us/stat/126/312]; [Pub. L. 114–94, div. G, title LXXI][/us/pl/114/94], §§ 71001, 71002, Dec. 4, 2015, [129 Stat. 1783][/us/stat/129/1783].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 6, [48 Stat. 78][/us/stat/48/78]; [Pub. L. 89–289][/us/pl/89/289], § 1, Oct. 22, 1965, [79 Stat. 1051][/us/stat/79/1051]; [Pub. L. 100–181, title II][/us/pl/100/181/tII], § 205, Dec. 4, 1987, [101 Stat. 1252][/us/stat/101/1252]; [Pub. L. 104–290, title IV][/us/pl/104/290/tIV], § 404, Oct. 11, 1996, [110 Stat. 3441][/us/stat/110/3441]; [Pub. L. 107–123][/us/pl/107/123], § 4, Jan. 16, 2002, [115 Stat. 2393][/us/stat/115/2393]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 991(b)(1), July 21, 2010, [124 Stat. 1951][/us/stat/124/1951]; [Pub. L. 112–106, title I][/us/pl/112/106/tI], § 106(a), Apr. 5, 2012, [126 Stat. 312][/us/stat/126/312]; [Pub. L. 114–94, div. G, title LXXI][/us/pl/114/94/dG/tLXXI], §§ 71001, 71002, Dec. 4, 2015, [129 Stat. 1783][/us/stat/129/1783].)
 
  __References in Text__ 
 
@@ -339,17 +339,17 @@
 
     2012—Subsec. (e). [Pub. L. 112–106][/us/pl/112/106] added subsec. (e).
 
-    2010—Subsec. (b). [Pub. L. 111–203, § 991(b)(1)(A)][/us/pl/111/203/s991/b/1/A]–(G), in par. (5), substituted “target fee” for “target offsetting” and, in par. (11)(A), substituted “Target fee” for “Target offsetting” in heading and table and “target fee” for “target offsetting” in introductory provisions, redesignated pars. (2), (5), (7), (10), and (11) as (1), (2), (3), (5), and (6), respectively, and struck out former pars. (1), (3), (4), (6), (8), and (9) which related to recovery of cost of services, offsetting collections, prohibition of treatment of fees as general revenues, final rate adjustment, review and effective date of rates, and rate during lapse of appropriation, respectively.
+    2010—Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 991(b)(1)(A)–(G), in par. (5), substituted “target fee” for “target offsetting” and, in par. (11)(A), substituted “Target fee” for “Target offsetting” in heading and table and “target fee” for “target offsetting” in introductory provisions, redesignated pars. (2), (5), (7), (10), and (11) as (1), (2), (3), (5), and (6), respectively, and struck out former pars. (1), (3), (4), (6), (8), and (9) which related to recovery of cost of services, offsetting collections, prohibition of treatment of fees as general revenues, final rate adjustment, review and effective date of rates, and rate during lapse of appropriation, respectively.
 
-    Subsec. (b)(1). [Pub. L. 111–203, § 991(b)(1)(H)][/us/pl/111/203/s991/b/1/H], substituted “paragraph (2).” for “paragraph (5) or (6).”
+    Subsec. (b)(1). [Pub. L. 111–203][/us/pl/111/203], § 991(b)(1)(H), substituted “paragraph (2).” for “paragraph (5) or (6).”
 
-    Subsec. (b)(2). [Pub. L. 111–203, § 991(b)(1)(I)][/us/pl/111/203/s991/b/1/I], substituted “For each fiscal year” for “For each of the fiscal years 2003 through 2011” and “paragraph (1)” for “paragraph (2)”.
+    Subsec. (b)(2). [Pub. L. 111–203][/us/pl/111/203], § 991(b)(1)(I), substituted “For each fiscal year” for “For each of the fiscal years 2003 through 2011” and “paragraph (1)” for “paragraph (2)”.
 
-    Subsec. (b)(4). [Pub. L. 111–203, § 991(b)(1)(J)][/us/pl/111/203/s991/b/1/J], added par. (4). Former par. (4) struck out.
+    Subsec. (b)(4). [Pub. L. 111–203][/us/pl/111/203], § 991(b)(1)(J), added par. (4). Former par. (4) struck out.
 
-    Subsec. (b)(5). [Pub. L. 111–203, § 991(b)(1)(K)][/us/pl/111/203/s991/b/1/K], substituted “August 31” for “April 30”.
+    Subsec. (b)(5). [Pub. L. 111–203][/us/pl/111/203], § 991(b)(1)(K), substituted “August 31” for “April 30”.
 
-    Subsec. (b)(6)(A). [Pub. L. 111–203, § 991(b)(1)(L)][/us/pl/111/203/s991/b/1/L], substituted “each fiscal year” for “each of the fiscal years 2002 through 2011” in introductory provisions and, in table, added items for fiscal years 2012 to 2021 and each fiscal year thereafter.
+    Subsec. (b)(6)(A). [Pub. L. 111–203][/us/pl/111/203], § 991(b)(1)(L), substituted “each fiscal year” for “each of the fiscal years 2002 through 2011” in introductory provisions and, in table, added items for fiscal years 2012 to 2021 and each fiscal year thereafter.
 
     2002—Subsec. (b)(2) to (11). [Pub. L. 107–123][/us/pl/107/123] added pars. (2) to (11) and struck out former pars. (2) to (5), which required fee payment, set out rates for general revenue and offsetting collection fees, and required pro rata rates for amounts and balances equal to less than $1,000,000.
 
@@ -361,7 +361,7 @@
 
  __Effective Date of 2010 Amendment__ 
 
-[Pub. L. 111–203, title IX, § 991(b)(4)][/us/pl/111/203/s991/b/4], July 21, 2010, [124 Stat. 1953][/us/stat/124/1953], provided that: 
+[Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 991(b)(4), July 21, 2010, [124 Stat. 1953][/us/stat/124/1953], provided that: 
 
 > “The amendments made by this subsection \[amending this section and sections 78m and 78n of this title\] shall take effect on October 1, 2011, except that for fiscal year 2012, the \[Securities and Exchange\] Commission shall publish the rate established under section 6(b) of the Securities Act of 1933 ([15 U.S.C. 77f(b)][/us/usc/t15/s77f/b]), as amended by this Act, on August 31, 2011.”
 
@@ -371,7 +371,7 @@
 
  __Effective Date of 1965 Amendment__ 
 
-[Pub. L. 89–289, § 2][/us/pl/89/289/s2], Oct. 22, 1965, [79 Stat. 1051][/us/stat/79/1051], provided that: 
+[Pub. L. 89–289][/us/pl/89/289], § 2, Oct. 22, 1965, [79 Stat. 1051][/us/stat/79/1051], provided that: 
 
 > “The amendment made by the first section of this Act \[amending this section\] shall take effect January 1, 1966.”
 
@@ -381,31 +381,31 @@
 
  __Increase in Registration Fees and Deposit Into Treasury__ 
 
-    [Pub. L. 105–46, § 113][/us/pl/105/46/s113], Sept. 30, 1997, [111 Stat. 1156][/us/stat/111/1156], provided that the amount made available to the Securities and Exchange Commission, under the heading Salaries and Expenses, was to include, in addition to direct appropriations, the amount collected under the fee rate and offsetting collection authority contained in [Public Law 104–208][/us/pl/104/208], which fee rate and offsetting collection authority was to remain in effect during the period of [Pub. L. 105–46][/us/pl/105/46] which provided continuing appropriations for fiscal year 1998.
+    [Pub. L. 105–46][/us/pl/105/46], § 113, Sept. 30, 1997, [111 Stat. 1156][/us/stat/111/1156], provided that the amount made available to the Securities and Exchange Commission, under the heading Salaries and Expenses, was to include, in addition to direct appropriations, the amount collected under the fee rate and offsetting collection authority contained in [Public Law 104–208][/us/pl/104/208], which fee rate and offsetting collection authority was to remain in effect during the period of [Pub. L. 105–46][/us/pl/105/46] which provided continuing appropriations for fiscal year 1998.
 
-[Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title V\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–61, which provided in part that on Sept. 30, 1996, the rate of fees under subsec. (b) of this section were increased from one-fiftieth of one percentum to one-thirty-third of one percentum, and such increase was to be deposited as an offsetting collection to this appropriation, to remain available until expended, to recover costs of services of the securities registration process, was from the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title V\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–61, which provided in part that on Sept. 30, 1996, the rate of fees under subsec. (b) of this section were increased from one-fiftieth of one percentum to one-thirty-third of one percentum, and such increase was to be deposited as an offsetting collection to this appropriation, to remain available until expended, to recover costs of services of the securities registration process, was from the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 104–134, title I, § 101][/us/pl/104/134/s101]\[(a)\] \[title V\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–60; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
+    [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101\[(a)\] \[title V\], Apr. 26, 1996, [110 Stat. 1321][/us/stat/110/1321], 1321–60; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
 
-    [Pub. L. 104–99, title II, § 209][/us/pl/104/99/s209], Jan. 26, 1996, [110 Stat. 37][/us/stat/110/37].
+    [Pub. L. 104–99, title II][/us/pl/104/99/tII], § 209, Jan. 26, 1996, [110 Stat. 37][/us/stat/110/37].
 
-    [Pub. L. 104–56, § 119][/us/pl/104/56/s119], Nov. 20, 1995, [109 Stat. 552][/us/stat/109/552].
+    [Pub. L. 104–56][/us/pl/104/56], § 119, Nov. 20, 1995, [109 Stat. 552][/us/stat/109/552].
 
-    [Pub. L. 104–54, § 119][/us/pl/104/54/s119], Nov. 19, 1995, [109 Stat. 544][/us/stat/109/544].
+    [Pub. L. 104–54][/us/pl/104/54], § 119, Nov. 19, 1995, [109 Stat. 544][/us/stat/109/544].
 
-    [Pub. L. 104–31, § 120][/us/pl/104/31/s120], Sept. 30, 1995, [109 Stat. 282][/us/stat/109/282].
+    [Pub. L. 104–31][/us/pl/104/31], § 120, Sept. 30, 1995, [109 Stat. 282][/us/stat/109/282].
 
     [Pub. L. 103–352][/us/pl/103/352], Oct. 10, 1994, [108 Stat. 3148][/us/stat/108/3148].
 
-    [Pub. L. 103–121, title I][/us/pl/103/121], Oct. 27, 1993, [107 Stat. 1168][/us/stat/107/1168].
+    [Pub. L. 103–121, title I][/us/pl/103/121/tI], Oct. 27, 1993, [107 Stat. 1168][/us/stat/107/1168].
 
-    [Pub. L. 102–395, title I][/us/pl/102/395], Oct. 6, 1992, [106 Stat. 1848][/us/stat/106/1848].
+    [Pub. L. 102–395, title I][/us/pl/102/395/tI], Oct. 6, 1992, [106 Stat. 1848][/us/stat/106/1848].
 
-    [Pub. L. 102–140, title I][/us/pl/102/140], Oct. 28, 1991, [105 Stat. 798][/us/stat/105/798].
+    [Pub. L. 102–140, title I][/us/pl/102/140/tI], Oct. 28, 1991, [105 Stat. 798][/us/stat/105/798].
 
-    [Pub. L. 101–515, title V][/us/pl/101/515], Nov. 5, 1990, [104 Stat. 2139][/us/stat/104/2139].
+    [Pub. L. 101–515, title V][/us/pl/101/515/tV], Nov. 5, 1990, [104 Stat. 2139][/us/stat/104/2139].
 
-    [Pub. L. 101–162, title V][/us/pl/101/162], Nov. 21, 1989, [103 Stat. 1022][/us/stat/103/1022].
+    [Pub. L. 101–162, title V][/us/pl/101/162/tV], Nov. 21, 1989, [103 Stat. 1022][/us/stat/103/1022].
 
 ----------
 
@@ -420,71 +420,71 @@
 [/us/usc/t15/s78x/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78x%2Fb%2F2
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/stat/48/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F78
-[/us/pl/89/289/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F289%2Fs1
+[/us/pl/89/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F289
 [/us/stat/79/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1051
-[/us/pl/100/181/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs205
+[/us/pl/100/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtII
 [/us/stat/101/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1252
-[/us/pl/104/290/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs404
+[/us/pl/104/290/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtIV
 [/us/stat/110/3441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3441
-[/us/pl/107/123/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs4
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
 [/us/stat/115/2393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2393
-[/us/pl/111/203/s991/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fb%2F1
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1951
-[/us/pl/112/106/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs106%2Fa
+[/us/pl/112/106/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtI
 [/us/stat/126/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F312
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dG/tLXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXI
 [/us/stat/129/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1783
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106
-[/us/pl/111/203/s991/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fb%2F1%2FA
-[/us/pl/111/203/s991/b/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fb%2F1%2FH
-[/us/pl/111/203/s991/b/1/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fb%2F1%2FI
-[/us/pl/111/203/s991/b/1/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fb%2F1%2FJ
-[/us/pl/111/203/s991/b/1/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fb%2F1%2FK
-[/us/pl/111/203/s991/b/1/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fb%2F1%2FL
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
 [/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
 [/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/89/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F289
-[/us/pl/111/203/s991/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fb%2F4
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1953
 [/us/usc/t15/s77f/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77f%2Fb
 [/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
 [/us/pl/107/123/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs11
 [/us/usc/t15/s78ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78ee
-[/us/pl/89/289/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F289%2Fs2
+[/us/pl/89/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F289
 [/us/stat/79/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1051
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t15/s78d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d
-[/us/pl/105/46/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F46%2Fs113
+[/us/pl/105/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F46
 [/us/stat/111/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1156
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/105/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F46
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/104/134/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/104/99/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs209
+[/us/pl/104/99/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2FtII
 [/us/stat/110/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F37
-[/us/pl/104/56/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F56%2Fs119
+[/us/pl/104/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F56
 [/us/stat/109/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F552
-[/us/pl/104/54/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F54%2Fs119
+[/us/pl/104/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F54
 [/us/stat/109/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F544
-[/us/pl/104/31/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F31%2Fs120
+[/us/pl/104/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F31
 [/us/stat/109/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F282
 [/us/pl/103/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F352
 [/us/stat/108/3148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3148
-[/us/pl/103/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F121
+[/us/pl/103/121/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F121%2FtI
 [/us/stat/107/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1168
-[/us/pl/102/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395
+[/us/pl/102/395/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F395%2FtI
 [/us/stat/106/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1848
-[/us/pl/102/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140
+[/us/pl/102/140/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2FtI
 [/us/stat/105/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F798
-[/us/pl/101/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515
+[/us/pl/101/515/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2FtV
 [/us/stat/104/2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2139
-[/us/pl/101/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162
+[/us/pl/101/162/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2FtV
 [/us/stat/103/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1022
 
 

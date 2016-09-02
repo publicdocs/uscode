@@ -103,7 +103,7 @@
 
             (F) if a subcontractor for a small business concern owned and controlled by service-disabled veterans, is such a concern.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[46\], as added [Pub. L. 112–239, div. A, title XVI, § 1651][/us/pl/112/239/s1651], Jan. 2, 2013, [126 Stat. 2079][/us/stat/126/2079]; amended [Pub. L. 114–92, div. A, title VIII, § 864(b)][/us/pl/114/92/s864/b], Nov. 25, 2015, [129 Stat. 927][/us/stat/129/927].)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[46\], as added [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1651, Jan. 2, 2013, [126 Stat. 2079][/us/stat/126/2079]; amended [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 864(b), Nov. 25, 2015, [129 Stat. 927][/us/stat/129/927].)
 
  __Amendments__ 
 
@@ -111,7 +111,7 @@
 
  __Inapplicability of Requirement To Review and Justify Certain Contracts__ 
 
-[Pub. L. 113–66, div. A, title XVI, § 1615][/us/pl/113/66/s1615], Dec. 26, 2013, [127 Stat. 950][/us/stat/127/950], provided that: 
+[Pub. L. 113–66, div. A, title XVI][/us/pl/113/66/dA/tXVI], § 1615, Dec. 26, 2013, [127 Stat. 950][/us/stat/127/950], provided that: 
 
 > “In the case of a contract to which the provisions of section 46 of the Small Business Act ([15 U.S.C. 657s][/us/usc/t15/s657s]) apply, the requirements under section 802 of the National Defense Authorization Act for Fiscal Year 2013 ([Public Law 112–239][/us/pl/112/239]; [126 Stat. 1824][/us/stat/126/1824]; [10 U.S.C. 2304][/us/usc/t10/s2304] note) do not apply.”
 
@@ -130,13 +130,13 @@
 [/us/usc/t15/s637/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fa
 [/us/usc/t15/s637/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fm
 [/us/usc/t15/s637/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fm
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
-[/us/pl/112/239/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1651
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2079
-[/us/pl/114/92/s864/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs864%2Fb
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F927
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
-[/us/pl/113/66/s1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1615
+[/us/pl/113/66/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2FdA%2FtXVI
 [/us/stat/127/950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F950
 [/us/usc/t15/s657s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657s
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239

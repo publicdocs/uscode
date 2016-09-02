@@ -75,7 +75,7 @@
 
         If the Commission recommends the approval of a particular transportation system, it shall submit to the President with such recommendation (1) an identification of those facilities and operations which are proposed to be encompassed within the term “construction and initial operation” in order to define the scope of directions contained in [section 719g of this title][/us/usc/t15/s719g] and (2) the terms and conditions permitted under the Natural Gas Act \[[15 U.S.C. 717][/us/usc/t15/s717] et seq.\], which the Commission determines to be appropriate for inclusion in a certificate of public convenience and necessity to be issued respecting such system. The Commission shall submit to the President contemporaneously with its’ report an environmental impact statement prepared respecting the recommended system, if any, and each environmental impact statement which may have been prepared respecting any other system reported on under this section.
 
-([Pub. L. 94–586, § 5][/us/pl/94/586/s5], Oct. 22, 1976, [90 Stat. 2904][/us/stat/90/2904].)
+([Pub. L. 94–586][/us/pl/94/586], § 5, Oct. 22, 1976, [90 Stat. 2904][/us/stat/90/2904].)
 
  __References in Text__ 
 
@@ -102,7 +102,7 @@
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e
 [/us/usc/t15/s719g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719g
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
-[/us/pl/94/586/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586%2Fs5
+[/us/pl/94/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586
 [/us/stat/90/2904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2904
 [/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F821

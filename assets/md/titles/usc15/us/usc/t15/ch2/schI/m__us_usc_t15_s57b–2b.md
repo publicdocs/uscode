@@ -67,7 +67,7 @@
 
         (4) An Internet service provider or provider of telephone services.
 
-([Sept. 26, 1914, ch. 311, § 21B][/us/act/1914-09-26/ch311/s21B], as added [Pub. L. 109–455, § 8][/us/pl/109/455/s8], Dec. 22, 2006, [120 Stat. 3380][/us/stat/120/3380].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 21B, as added [Pub. L. 109–455][/us/pl/109/455], § 8, Dec. 22, 2006, [120 Stat. 3380][/us/stat/120/3380].)
 
  __Repeal of Section__ 
 
@@ -87,8 +87,8 @@
 [/us/usc/t15/s45/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45%2Fa
 [/us/usc/t31/s5318/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5318%2Fg%2F3
 [/us/usc/t31/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5312
-[/us/act/1914-09-26/ch311/s21B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs21B
-[/us/pl/109/455/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs8
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
 [/us/stat/120/3380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3380
 [/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13
 [/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13

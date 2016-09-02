@@ -17,7 +17,7 @@
 
     There shall be in the Department of Commerce a General Counsel, who shall be appointed by the President, by and with the advice and consent of the Senate.
 
-([Mar. 18, 1904, ch. 716, § 1][/us/act/1904-03-18/ch716/s1], [33 Stat. 135][/us/stat/33/135]; [July 17, 1952, ch. 932, § 2][/us/act/1952-07-17/ch932/s2], [66 Stat. 758][/us/stat/66/758]; [Aug. 20, 1954, ch. 776][/us/act/1954-08-20/ch776], [68 Stat. 753][/us/stat/68/753].)
+([Mar. 18, 1904, ch. 716][/us/act/1904-03-18/ch716], § 1, [33 Stat. 135][/us/stat/33/135]; [July 17, 1952, ch. 932][/us/act/1952-07-17/ch932], § 2, [66 Stat. 758][/us/stat/66/758]; [Aug. 20, 1954, ch. 776][/us/act/1954-08-20/ch776], [68 Stat. 753][/us/stat/68/753].)
 
  __Codification__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/act/1904-03-18/ch716/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1904-03-18%2Fch716%2Fs1
+[/us/act/1904-03-18/ch716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1904-03-18%2Fch716
 [/us/stat/33/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F135
-[/us/act/1952-07-17/ch932/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-17%2Fch932%2Fs2
+[/us/act/1952-07-17/ch932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-17%2Fch932
 [/us/stat/66/758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F758
 [/us/act/1954-08-20/ch776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-20%2Fch776
 [/us/stat/68/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F753

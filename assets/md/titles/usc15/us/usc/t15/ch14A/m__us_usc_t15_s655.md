@@ -65,11 +65,11 @@
 
         Centers are encouraged to seek funding from Federal and non-Federal sources other than those provided for in this section to assist small businesses in the identification of appropriate technologies to fill their needs, the transfer of technologies from Federal laboratories, public and private universities, and other public and private institutions, the analysis of commercial opportunities represented by such technologies, and such other functions as the development, business planning, market research, and financial packaging required for commercialization. Insofar as such Centers pursue these activities, Federal agencies are encouraged to employ these Centers to interface with small businesses for such purposes as facilitating small business participation in Federal procurement and fostering commercialization of Federally-funded research and development.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[28\], as added [Pub. L. 102–140, title VI, § 609(d)][/us/pl/102/140/s609/d], Oct. 28, 1991, [105 Stat. 825][/us/stat/105/825].)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[28\], as added [Pub. L. 102–140, title VI][/us/pl/102/140/tVI], § 609(d), Oct. 28, 1991, [105 Stat. 825][/us/stat/105/825].)
 
  __References in Text__ 
 
-    [Section 648a of this title][/us/usc/t15/s648a], referred to in subsecs. (e) to (g), was repealed by [Pub. L. 102–140, title VI, § 609(e)][/us/pl/102/140/s609/e], Oct. 28, 1991, [105 Stat. 826][/us/stat/105/826], effective Oct. 1, 1992.
+    [Section 648a of this title][/us/usc/t15/s648a], referred to in subsecs. (e) to (g), was repealed by [Pub. L. 102–140, title VI][/us/pl/102/140/tVI], § 609(e), Oct. 28, 1991, [105 Stat. 826][/us/stat/105/826], effective Oct. 1, 1992.
 
  __Change of Name__ 
 
@@ -84,11 +84,11 @@
 ----------
 ----------
 
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
-[/us/pl/102/140/s609/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2Fs609%2Fd
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
+[/us/pl/102/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2FtVI
 [/us/stat/105/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F825
 [/us/usc/t15/s648a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648a
-[/us/pl/102/140/s609/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2Fs609%2Fe
+[/us/pl/102/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2FtVI
 [/us/stat/105/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F826
 [/us/pl/108/271/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8
 [/us/usc/t31/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs702

@@ -17,11 +17,11 @@
 
     For the purpose of Federal income, estate, and gift taxes, property accepted under [section 1522 of this title][/us/usc/t15/s1522] shall be considered as a gift or bequest to or for the use of the United States.
 
-([Pub. L. 88–611, § 2][/us/pl/88/611/s2], Oct. 2, 1964, [78 Stat. 991][/us/stat/78/991].)
+([Pub. L. 88–611][/us/pl/88/611], § 2, Oct. 2, 1964, [78 Stat. 991][/us/stat/78/991].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 608b of Title 5][/us/usc/t5/s608b] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 608b of Title 5][/us/usc/t5/s608b] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
 ----------
 
@@ -31,10 +31,10 @@
 ----------
 
 [/us/usc/t15/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1522
-[/us/pl/88/611/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F611%2Fs2
+[/us/pl/88/611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F611
 [/us/stat/78/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F991
 [/us/usc/t5/s608b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs608b
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 
 

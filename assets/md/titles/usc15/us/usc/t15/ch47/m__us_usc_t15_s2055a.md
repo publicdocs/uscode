@@ -233,15 +233,15 @@
 
         (2) risk of injury, illness, or death, as determined by the Commission.
 
-([Pub. L. 92–573, § 6A][/us/pl/92/573/s6A], as added [Pub. L. 110–314, title II, § 212(a)][/us/pl/110/314/s212/a], Aug. 14, 2008, [122 Stat. 3048][/us/stat/122/3048]; amended [Pub. L. 112–28, § 7][/us/pl/112/28/s7], Aug. 12, 2011, [125 Stat. 281][/us/stat/125/281].)
+([Pub. L. 92–573][/us/pl/92/573], § 6A, as added [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 212(a), Aug. 14, 2008, [122 Stat. 3048][/us/stat/122/3048]; amended [Pub. L. 112–28][/us/pl/112/28], § 7, Aug. 12, 2011, [125 Stat. 281][/us/stat/125/281].)
 
  __Amendments__ 
 
-    2011—Subsec. (c)(3)(A). [Pub. L. 112–28, § 7(1)][/us/pl/112/28/s7/1], inserted “or paragraph (5)” after “paragraph (4)(A)”.
+    2011—Subsec. (c)(3)(A). [Pub. L. 112–28][/us/pl/112/28], § 7(1), inserted “or paragraph (5)” after “paragraph (4)(A)”.
 
-    Subsec. (c)(4)(A). [Pub. L. 112–28, § 7(2)][/us/pl/112/28/s7/2], substituted “receives notice that the information in such report or comment is materially inaccurate, the Commission shall stay the publication of the report on the database as required under paragraph (3) for a period of no more than 5 additional days. If the Commission determines that the information in such report or comment is materially inaccurate, the Commission shall—” for “determines that the information in such report or comment is materially inaccurate, the Commission shall—” in introductory provisions.
+    Subsec. (c)(4)(A). [Pub. L. 112–28][/us/pl/112/28], § 7(2), substituted “receives notice that the information in such report or comment is materially inaccurate, the Commission shall stay the publication of the report on the database as required under paragraph (3) for a period of no more than 5 additional days. If the Commission determines that the information in such report or comment is materially inaccurate, the Commission shall—” for “determines that the information in such report or comment is materially inaccurate, the Commission shall—” in introductory provisions.
 
-    Subsec. (c)(5). [Pub. L. 112–28, § 7(3)][/us/pl/112/28/s7/3], added par. (5).
+    Subsec. (c)(5). [Pub. L. 112–28][/us/pl/112/28], § 7(3), added par. (5).
 
 ----------
 
@@ -254,13 +254,13 @@
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
 [/us/usc/t15/s2064/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2064%2Fb
-[/us/pl/92/573/s6A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs6A
-[/us/pl/110/314/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs212%2Fa
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3048
-[/us/pl/112/28/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs7
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
 [/us/stat/125/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F281
-[/us/pl/112/28/s7/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs7%2F1
-[/us/pl/112/28/s7/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs7%2F2
-[/us/pl/112/28/s7/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs7%2F3
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
 
 

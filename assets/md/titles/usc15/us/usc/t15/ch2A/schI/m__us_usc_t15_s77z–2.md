@@ -201,7 +201,7 @@
 
             The terms “blank check company”, “rollup transaction”, “partnership”, “limited liability company”, “executive officer of an entity” and “direct participation investment program”, have the meanings given those terms by rule or regulation of the Commission.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 27A, as added [Pub. L. 104–67, title I, § 102(a)][/us/pl/104/67/s102/a], Dec. 22, 1995, [109 Stat. 749][/us/stat/109/749]; amended [Pub. L. 105–353, title III, § 301(a)(5)][/us/pl/105/353/s301/a/5], Nov. 3, 1998, [112 Stat. 3235][/us/stat/112/3235]; [Pub. L. 111–203, title IX, § 985(a)(4)][/us/pl/111/203/s985/a/4], July 21, 2010, [124 Stat. 1933][/us/stat/124/1933].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 27A, as added [Pub. L. 104–67, title I][/us/pl/104/67/tI], § 102(a), Dec. 22, 1995, [109 Stat. 749][/us/stat/109/749]; amended [Pub. L. 105–353, title III][/us/pl/105/353/tIII], § 301(a)(5), Nov. 3, 1998, [112 Stat. 3235][/us/stat/112/3235]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 985(a)(4), July 21, 2010, [124 Stat. 1933][/us/stat/124/1933].)
 
  __Amendments__ 
 
@@ -234,11 +234,11 @@
 [/us/usc/t15/s78m/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m%2Fe
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
-[/us/pl/104/67/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2Fs102%2Fa
+[/us/pl/104/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2FtI
 [/us/stat/109/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F749
-[/us/pl/105/353/s301/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fa%2F5
+[/us/pl/105/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtIII
 [/us/stat/112/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3235
-[/us/pl/111/203/s985/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs985%2Fa%2F4
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1933
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353

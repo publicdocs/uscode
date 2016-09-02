@@ -213,7 +213,7 @@
 
             In any action brought pursuant to paragraph (1), the court may, in its discretion, require an undertaking for the payment of the costs of such action, and assess reasonable costs, including reasonable attorneys’ fees, against any party.
 
-([Pub. L. 108–187, § 7][/us/pl/108/187/s7], Dec. 16, 2003, [117 Stat. 2711][/us/stat/117/2711].)
+([Pub. L. 108–187][/us/pl/108/187], § 7, Dec. 16, 2003, [117 Stat. 2711][/us/stat/117/2711].)
 
  __References in Text__ 
 
@@ -285,7 +285,7 @@
 [/us/usc/t15/s7704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7704
 [/us/usc/t15/s7704/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7704%2Fa%2F1
 [/us/usc/t15/s7704/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7704%2Fb
-[/us/pl/108/187/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs7
+[/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2711
 [/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2699

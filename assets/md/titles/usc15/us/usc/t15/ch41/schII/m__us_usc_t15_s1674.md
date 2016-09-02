@@ -23,7 +23,7 @@
 
         Whoever willfully violates subsection (a) of this section shall be fined not more than $1,000, or imprisoned not more than one year, or both.
 
-([Pub. L. 90–321, title III, § 304][/us/pl/90/321/s304], May 29, 1968, [82 Stat. 163][/us/stat/82/163].)
+([Pub. L. 90–321, title III][/us/pl/90/321/tIII], § 304, May 29, 1968, [82 Stat. 163][/us/stat/82/163].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/90/321/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs304
+[/us/pl/90/321/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIII
 [/us/stat/82/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F163
 
 

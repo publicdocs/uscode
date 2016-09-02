@@ -93,7 +93,7 @@
 
             The term “solicitation” means the marketing of a product or service initiated by a person to a particular consumer that is based on an exchange of information described in subsection (a), and is intended to encourage the consumer to purchase such product or service, but does not include communications that are directed at the general public or determined not to be a solicitation by the regulations prescribed under this section.
 
-([Pub. L. 90–321, title VI, § 624][/us/pl/90/321/s624], as added [Pub. L. 108–159, title II, § 214(a)(2)][/us/pl/108/159/s214/a/2], Dec. 4, 2003, [117 Stat. 1980][/us/stat/117/1980].)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 624, as added [Pub. L. 108–159, title II][/us/pl/108/159/tII], § 214(a)(2), Dec. 4, 2003, [117 Stat. 1980][/us/stat/117/1980].)
 
  __Prior Provisions__ 
 
@@ -107,7 +107,7 @@
 
  __Regulations__ 
 
-[Pub. L. 108–159, title II, § 214(b)][/us/pl/108/159/s214/b], Dec. 4, 2003, [117 Stat. 1982][/us/stat/117/1982], as amended by [Pub. L. 111–203, title X, § 1088(b)(3)][/us/pl/111/203/s1088/b/3], July 21, 2010, [124 Stat. 2092][/us/stat/124/2092], provided that:
+[Pub. L. 108–159, title II][/us/pl/108/159/tII], § 214(b), Dec. 4, 2003, [117 Stat. 1982][/us/stat/117/1982], as amended by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1088(b)(3), July 21, 2010, [124 Stat. 2092][/us/stat/124/2092], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -145,7 +145,7 @@
 
  __Studies of Information Sharing Practices__ 
 
-[Pub. L. 108–159, title II, § 214(e)][/us/pl/108/159/s214/e], Dec. 4, 2003, [117 Stat. 1983][/us/stat/117/1983], as amended by [Pub. L. 111–203, title X, § 1088(b)(4)][/us/pl/111/203/s1088/b/4], July 21, 2010, [124 Stat. 2092][/us/stat/124/2092], provided that:
+[Pub. L. 108–159, title II][/us/pl/108/159/tII], § 214(e), Dec. 4, 2003, [117 Stat. 1983][/us/stat/117/1983], as amended by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1088(b)(4), July 21, 2010, [124 Stat. 2092][/us/stat/124/2092], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -202,8 +202,8 @@
 
 [/us/usc/t15/s1681a/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fd%2F2%2FA
 [/us/usc/t15/s1681t/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681t%2Fb%2F2
-[/us/pl/90/321/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs624
-[/us/pl/108/159/s214/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs214%2Fa%2F2
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/108/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtII
 [/us/stat/117/1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1980
 [/us/pl/90/321/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs624
 [/us/usc/t15/s1681t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681t
@@ -211,9 +211,9 @@
 [/us/usc/t15/s1681u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681u
 [/us/pl/108/159/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs3
 [/us/usc/t15/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681
-[/us/pl/108/159/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs214%2Fb
+[/us/pl/108/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtII
 [/us/stat/117/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1982
-[/us/pl/111/203/s1088/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fb%2F3
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2092
 [/us/usc/t15/s1681s–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s%E2%80%933
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
@@ -221,9 +221,9 @@
 [/us/pl/108/159/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs214%2Fb
 [/us/pl/108/159/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs2
 [/us/usc/t15/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681
-[/us/pl/108/159/s214/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs214%2Fe
+[/us/pl/108/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtII
 [/us/stat/117/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1983
-[/us/pl/111/203/s1088/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fb%2F4
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2092
 [/us/pl/108/159/s214/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs214%2Fe
 [/us/pl/108/159/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs2

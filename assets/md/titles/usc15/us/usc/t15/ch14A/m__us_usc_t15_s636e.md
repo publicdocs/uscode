@@ -31,7 +31,7 @@
 
     (7) the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, and any territory or possession of the United States.
 
-([Pub. L. 110–234, title XII, § 12052][/us/pl/110/234/s12052], May 22, 2008, [122 Stat. 1406][/us/stat/122/1406]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12052, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2168.)
+([Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12052, May 22, 2008, [122 Stat. 1406][/us/stat/122/1406]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12052, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2168.)
 
  __References in Text__ 
 
@@ -63,9 +63,9 @@
 [/us/usc/t15/s636/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fb
 [/us/usc/t42/s5122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5122
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
-[/us/pl/110/234/s12052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12052
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1406
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631

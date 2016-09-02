@@ -17,7 +17,7 @@
 
     Operating costs for the National Technical Information Service associated with the acquisition, processing, storage, bibliographic control, and archiving of information and documents shall be recovered primarily through the collection of fees.
 
-([Pub. L. 102–245, title I, § 103(c)][/us/pl/102/245/s103/c], Feb. 14, 1992, [106 Stat. 8][/us/stat/106/8].)
+([Pub. L. 102–245, title I][/us/pl/102/245/tI], § 103(c), Feb. 14, 1992, [106 Stat. 8][/us/stat/106/8].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/102/245/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs103%2Fc
+[/us/pl/102/245/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtI
 [/us/stat/106/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F8
 
 

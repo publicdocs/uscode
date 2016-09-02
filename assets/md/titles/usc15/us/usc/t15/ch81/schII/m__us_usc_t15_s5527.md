@@ -27,7 +27,7 @@
 
         In accordance with Federal contracting law, Federal agencies and departments participating in the Program may acquire prototype or early production models of new high-performance computing systems and subsystems to stimulate hardware and software development. Items of computing equipment acquired under this subsection shall be considered research computers for purposes of applicable acquisition regulations.
 
-([Pub. L. 102–194, title II, § 207][/us/pl/102/194/s207], Dec. 9, 1991, [105 Stat. 1602][/us/stat/105/1602].)
+([Pub. L. 102–194, title II][/us/pl/102/194/tII], § 207, Dec. 9, 1991, [105 Stat. 1602][/us/stat/105/1602].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t10/s2315/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2315%2Fa
 [/us/usc/t10/s2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2315
-[/us/pl/102/194/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2Fs207
+[/us/pl/102/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2FtII
 [/us/stat/105/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1602
 
 

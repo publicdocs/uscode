@@ -31,7 +31,7 @@
 
         Nothing in this chapter (other than the requirements of sections 4402 and 4403 of this title) shall be construed to limit, restrict, or expand the authority of the Federal Trade Commission with respect to unfair or deceptive acts or practices in the advertising of smokeless tobacco products.
 
-([Pub. L. 99–252, § 5][/us/pl/99/252/s5], Feb. 27, 1986, [100 Stat. 33][/us/stat/100/33].)
+([Pub. L. 99–252][/us/pl/99/252], § 5, Feb. 27, 1986, [100 Stat. 33][/us/stat/100/33].)
 
  __Effective Date__ 
 
@@ -50,7 +50,7 @@
 [/us/usc/t15/s4402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4402
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t15/s4402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4402
-[/us/pl/99/252/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252%2Fs5
+[/us/pl/99/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252
 [/us/stat/100/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F33
 [/us/pl/99/252/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252%2Fs11%2Fa
 [/us/usc/t15/s4401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4401

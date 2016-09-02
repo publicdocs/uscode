@@ -27,7 +27,7 @@
 
         One or more national laboratories of the Department of Energy shall participate in the Initiative by conducting research and development activities relating to research on the development of semiconductor manufacturing technologies. Such activities may include research and development relating to materials fabrication, materials characterization, design and modeling of devices, and new processing equipment.
 
-([Pub. L. 100–180, div. C, title I, § 3143][/us/pl/100/180/s3143], Dec. 4, 1987, [101 Stat. 1243][/us/stat/101/1243].)
+([Pub. L. 100–180, div. C, title I][/us/pl/100/180/dC/tI], § 3143, Dec. 4, 1987, [101 Stat. 1243][/us/stat/101/1243].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t15/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4622
 [/us/usc/t15/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4622
-[/us/pl/100/180/s3143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3143
+[/us/pl/100/180/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdC%2FtI
 [/us/stat/101/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1243
 
 

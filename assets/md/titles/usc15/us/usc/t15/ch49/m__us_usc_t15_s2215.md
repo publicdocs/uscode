@@ -45,7 +45,7 @@
 
     (i) a summary of reviews, evaluations, and suggested improvements in State and local fire prevention and building codes, fire services, and any relevant Federal or private codes, regulations, and fire services.
 
-([Pub. L. 93–498, § 16][/us/pl/93/498/s16], Oct. 29, 1974, [88 Stat. 1545][/us/stat/88/1545]; [Pub. L. 96–472, title II, § 202][/us/pl/96/472/s202], Oct. 19, 1980, [94 Stat. 2260][/us/stat/94/2260]; [Pub. L. 106–503, title I, § 110(a)(2)(B)(vi)][/us/pl/106/503/s110/a/2/B/vi], Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302]; [Pub. L. 112–239, div. A, title XVIII, § 1802(b)(1)][/us/pl/112/239/s1802/b/1], Jan. 2, 2013, [126 Stat. 2100][/us/stat/126/2100].)
+([Pub. L. 93–498][/us/pl/93/498], § 16, Oct. 29, 1974, [88 Stat. 1545][/us/stat/88/1545]; [Pub. L. 96–472, title II][/us/pl/96/472/tII], § 202, Oct. 19, 1980, [94 Stat. 2260][/us/stat/94/2260]; [Pub. L. 106–503, title I][/us/pl/106/503/tI], § 110(a)(2)(B)(vi), Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302]; [Pub. L. 112–239, div. A, title XVIII][/us/pl/112/239/dA/tXVIII], § 1802(b)(1), Jan. 2, 2013, [126 Stat. 2100][/us/stat/126/2100].)
 
  __References in Text__ 
 
@@ -74,13 +74,13 @@
 ----------
 ----------
 
-[/us/pl/93/498/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs16
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1545
-[/us/pl/96/472/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F472%2Fs202
+[/us/pl/96/472/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F472%2FtII
 [/us/stat/94/2260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2260
-[/us/pl/106/503/s110/a/2/B/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs110%2Fa%2F2%2FB%2Fvi
+[/us/pl/106/503/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2FtI
 [/us/stat/114/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2302
-[/us/pl/112/239/s1802/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1802%2Fb%2F1
+[/us/pl/112/239/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVIII
 [/us/stat/126/2100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2100
 [/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1535

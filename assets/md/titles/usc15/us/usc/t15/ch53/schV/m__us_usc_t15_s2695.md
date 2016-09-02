@@ -33,7 +33,7 @@
 
         The authority of the Administrator to carry out this section shall expire 5 years after December 19, 2007.
 
-([Pub. L. 94–469, title V, § 501][/us/pl/94/469/s501], as added [Pub. L. 110–140, title IV, § 461(a)][/us/pl/110/140/s461/a], Dec. 19, 2007, [121 Stat. 1640][/us/stat/121/1640].)
+([Pub. L. 94–469, title V][/us/pl/94/469/tV], § 501, as added [Pub. L. 110–140, title IV][/us/pl/110/140/tIV], § 461(a), Dec. 19, 2007, [121 Stat. 1640][/us/stat/121/1640].)
 
  __Effective Date__ 
 
@@ -46,8 +46,8 @@
 ----------
 ----------
 
-[/us/pl/94/469/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs501
-[/us/pl/110/140/s461/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs461%2Fa
+[/us/pl/94/469/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtV
+[/us/pl/110/140/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtIV
 [/us/stat/121/1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1640
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

@@ -17,7 +17,7 @@
 
     No person may accept an interstate off-track wager except as provided in this chapter.
 
-([Pub. L. 95–515, § 4][/us/pl/95/515/s4], Oct. 25, 1978, [92 Stat. 1813][/us/stat/92/1813].)
+([Pub. L. 95–515][/us/pl/95/515], § 4, Oct. 25, 1978, [92 Stat. 1813][/us/stat/92/1813].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/95/515/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F515%2Fs4
+[/us/pl/95/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F515
 [/us/stat/92/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1813
 
 

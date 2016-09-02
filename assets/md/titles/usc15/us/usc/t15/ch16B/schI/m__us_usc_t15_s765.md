@@ -31,7 +31,7 @@
 
         There are hereby transferred to and vested in the Administrator all functions of the Chairman of the Cost of Living Council, the Executive Director of the Cost of Living Council, and the Cost of Living Council, and officers and components thereof, as relate to or are utilized by the Energy Division of the Cost of Living Council.
 
-([Pub. L. 93–275, § 6][/us/pl/93/275/s6], May 7, 1974, [88 Stat. 100][/us/stat/88/100].)
+([Pub. L. 93–275][/us/pl/93/275], § 6, May 7, 1974, [88 Stat. 100][/us/stat/88/100].)
 
  __Transfer of Functions__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/93/275/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs6
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F100
 
 

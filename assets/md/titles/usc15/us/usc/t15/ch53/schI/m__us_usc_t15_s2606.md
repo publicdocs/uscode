@@ -63,7 +63,7 @@
 
         For the purposes of subsection (a), the term “imminently hazardous chemical substance or mixture” means a chemical substance or mixture which presents an imminent and unreasonable risk of serious or widespread injury to health or the environment. Such a risk to health or the environment shall be considered imminent if it is shown that the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance or mixture, or that any combination of such activities, is likely to result in such injury to health or the environment before a final rule under [section 2605 of this title][/us/usc/t15/s2605] can protect against such risk.
 
-([Pub. L. 94–469, title I, § 7][/us/pl/94/469/s7], Oct. 11, 1976, [90 Stat. 2026][/us/stat/90/2026]; renumbered title I, [Pub. L. 99–519, § 3(c)(1)][/us/pl/99/519/s3/c/1], Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 102–550, title X, § 1021(b)(1)][/us/pl/102/550/s1021/b/1], Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923].)
+([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 7, Oct. 11, 1976, [90 Stat. 2026][/us/stat/90/2026]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(b)(1), Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923].)
 
  __Amendments__ 
 
@@ -84,11 +84,11 @@
 [/us/usc/t15/s2605/d/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2605%2Fd%2F2%2FA%2Fi
 [/us/usc/t15/s2605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2605%2Fa
 [/us/usc/t15/s2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2605
-[/us/pl/94/469/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs7
+[/us/pl/94/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtI
 [/us/stat/90/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2026
-[/us/pl/99/519/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs3%2Fc%2F1
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
-[/us/pl/102/550/s1021/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1021%2Fb%2F1
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3923
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/usc/t15/s2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2603

@@ -49,7 +49,7 @@
 
         If a supplier designates a warranty applicable to a consumer product as a “full (statement of duration)” warranty, then the warranty on such product shall, for purposes of any action under [section 2310(d) of this title][/us/usc/t15/s2310/d] or under any State law, be deemed to incorporate at least the minimum requirements of this section and rules prescribed under this section.
 
-([Pub. L. 93–637, title I, § 104][/us/pl/93/637/s104], Jan. 4, 1975, [88 Stat. 2187][/us/stat/88/2187].)
+([Pub. L. 93–637, title I][/us/pl/93/637/tI], § 104, Jan. 4, 1975, [88 Stat. 2187][/us/stat/88/2187].)
 
 ----------
 
@@ -61,7 +61,7 @@
 [/us/usc/t15/s2308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2308%2Fb
 [/us/usc/t15/s2302/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2302%2Fc
 [/us/usc/t15/s2310/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2310%2Fd
-[/us/pl/93/637/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs104
+[/us/pl/93/637/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2FtI
 [/us/stat/88/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2187
 
 

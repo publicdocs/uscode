@@ -17,7 +17,7 @@
 
     Nothing in this Act shall be deemed to extinguish any liability which may have arisen prior to the effective date of this Act by reason of any violation of section 78o of this title or of any rule or regulation thereunder.
 
-([May 27, 1936, ch. 462, § 11][/us/act/1936-05-27/ch462/s11], [49 Stat. 1380][/us/stat/49/1380].)
+([May 27, 1936, ch. 462][/us/act/1936-05-27/ch462], § 11, [49 Stat. 1380][/us/stat/49/1380].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1936-05-27/ch462/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch462%2Fs11
+[/us/act/1936-05-27/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch462
 [/us/stat/49/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1380
 [/us/act/1936-05-27/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch462
 [/us/stat/49/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1375

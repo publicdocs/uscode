@@ -31,11 +31,11 @@
 
         The Bureau shall determine whether tolerances for numerical disclosures other than the annual percentage rate are necessary to facilitate compliance with this subchapter, and if it determines that such tolerances are necessary to facilitate compliance, it shall by regulation permit disclosures within such tolerances. The Bureau shall exercise its authority to permit tolerances for numerical disclosures other than the annual percentage rate so that such tolerances are narrow enough to prevent such tolerances from resulting in misleading disclosures or disclosures that circumvent the purposes of this subchapter.
 
-([Pub. L. 90–321, title I, § 121][/us/pl/90/321/s121], May 29, 1968, [82 Stat. 152][/us/stat/82/152]; [Pub. L. 93–495, title III, § 307(c)][/us/pl/93/495/s307/c], (d), title IV, § 409, Oct. 28, 1974, [88 Stat. 1516][/us/stat/88/1516], 1519; [Pub. L. 94–205, § 11][/us/pl/94/205/s11], Jan. 2, 1976, [89 Stat. 1159][/us/stat/89/1159]; [Pub. L. 96–221, title VI, § 611][/us/pl/96/221/s611], Mar. 31, 1980, [94 Stat. 174][/us/stat/94/174]; [Pub. L. 104–29, § 3(b)][/us/pl/104/29/s3/b], Sept. 30, 1995, [109 Stat. 273][/us/stat/109/273]; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 121, May 29, 1968, [82 Stat. 152][/us/stat/82/152]; [Pub. L. 93–495, title III][/us/pl/93/495/tIII], § 307(c), (d), title IV, § 409, Oct. 28, 1974, [88 Stat. 1516][/us/stat/88/1516], 1519; [Pub. L. 94–205][/us/pl/94/205], § 11, Jan. 2, 1976, [89 Stat. 1159][/us/stat/89/1159]; [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 611, Mar. 31, 1980, [94 Stat. 174][/us/stat/94/174]; [Pub. L. 104–29][/us/pl/104/29], § 3(b), Sept. 30, 1995, [109 Stat. 273][/us/stat/109/273]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 
  __References in Text__ 
 
-    [Section 1602(f) of this title][/us/usc/t15/s1602/f], referred to in subsec. (b), was redesignated [section 1602(g) of this title][/us/usc/t15/s1602/g] by [Pub. L. 111–203, title X, § 1100A(1)(A)][/us/pl/111/203/s1100A/1/A], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
+    [Section 1602(f) of this title][/us/usc/t15/s1602/f], referred to in subsec. (b), was redesignated [section 1602(g) of this title][/us/usc/t15/s1602/g] by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(1)(A), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
 
  __Amendments__ 
 
@@ -51,11 +51,11 @@
 
     1976—Subsec. (c). [Pub. L. 94–205][/us/pl/94/205] struck out subsec. (c) which related to disclosure including a full statement of closing costs incurred and permitted estimates of such information where the lender was not in a position to know exact information.
 
-    1974—Subsec. (a). [Pub. L. 93–495, § 307(c)][/us/pl/93/495/s307/c], inserted reference to part D of this subchapter and struck out “and upon whom a finance charge is or may be imposed” after “extended”.
+    1974—Subsec. (a). [Pub. L. 93–495][/us/pl/93/495], § 307(c), inserted reference to part D of this subchapter and struck out “and upon whom a finance charge is or may be imposed” after “extended”.
 
-    Subsec. (b). [Pub. L. 93–495, § 307(d)][/us/pl/93/495/s307/d], inserted reference to part D of this subchapter.
+    Subsec. (b). [Pub. L. 93–495][/us/pl/93/495], § 307(d), inserted reference to part D of this subchapter.
 
-    Subsec. (c). [Pub. L. 93–495, § 409][/us/pl/93/495/s409], added subsec (c).
+    Subsec. (c). [Pub. L. 93–495][/us/pl/93/495], § 409, added subsec (c).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -77,7 +77,7 @@
 
  __Effective Date__ 
 
-    [Pub. L. 90–321, title V, § 504(b)][/us/pl/90/321/s504/b], May 29, 1968, [82 Stat. 167][/us/stat/82/167], provided in part that chapter 2 of title I, which enacted sections 1631 to 1641 of this title, is effective July 1, 1969.
+    [Pub. L. 90–321, title V][/us/pl/90/321/tV], § 504(b), May 29, 1968, [82 Stat. 167][/us/stat/82/167], provided in part that chapter 2 of title I, which enacted sections 1631 to 1641 of this title, is effective July 1, 1969.
 
  __Real Estate Settlement Procedures__ 
 
@@ -92,21 +92,21 @@
 
 [/us/usc/t15/s1635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1635
 [/us/usc/t15/s1667/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1667%2F3
-[/us/pl/90/321/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs121
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
 [/us/stat/82/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F152
-[/us/pl/93/495/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs307%2Fc
+[/us/pl/93/495/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtIII
 [/us/stat/88/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1516
-[/us/pl/94/205/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205%2Fs11
+[/us/pl/94/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205
 [/us/stat/89/1159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1159
-[/us/pl/96/221/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs611
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F174
-[/us/pl/104/29/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29%2Fs3%2Fb
+[/us/pl/104/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29
 [/us/stat/109/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F273
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/usc/t15/s1602/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Ff
 [/us/usc/t15/s1602/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fg
-[/us/pl/111/203/s1100A/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F1%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/104/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F29
@@ -114,9 +114,9 @@
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/94/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F205
-[/us/pl/93/495/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs307%2Fc
-[/us/pl/93/495/s307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs307%2Fd
-[/us/pl/93/495/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs409
+[/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
+[/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
+[/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
@@ -132,7 +132,7 @@
 [/us/pl/93/495/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs409
 [/us/pl/93/495/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs416
 [/us/usc/t15/s1665a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1665a
-[/us/pl/90/321/s504/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs504%2Fb
+[/us/pl/90/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtV
 [/us/stat/82/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F167
 [/us/usc/t12/s2605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2605
 

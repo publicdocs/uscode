@@ -23,7 +23,7 @@
 
         This chapter shall not be construed to modify or affect the allocation of responsibility between the Attorney General and the Commission for the enforcement of the Federal antitrust laws.
 
-([Pub. L. 103–438, § 10][/us/pl/103/438/s10], Nov. 2, 1994, [108 Stat. 4602][/us/stat/108/4602].)
+([Pub. L. 103–438][/us/pl/103/438], § 10, Nov. 2, 1994, [108 Stat. 4602][/us/stat/108/4602].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/438/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438%2Fs10
+[/us/pl/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438
 [/us/stat/108/4602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4602
 
 

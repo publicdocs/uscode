@@ -33,15 +33,15 @@
 
         (2) In this subsection, the term “criminal violation” means a violation of this chapter or any other Act enforced by the Commission for which the violator is sentenced to pay a fine, be imprisoned, or both.
 
-([Pub. L. 92–573, § 21][/us/pl/92/573/s21], Oct. 27, 1972, [86 Stat. 1225][/us/stat/86/1225]; [Pub. L. 110–314, title II, § 217(c)(1)][/us/pl/110/314/s217/c/1], (2), (d), Aug. 14, 2008, [122 Stat. 3060][/us/stat/122/3060].)
+([Pub. L. 92–573][/us/pl/92/573], § 21, Oct. 27, 1972, [86 Stat. 1225][/us/stat/86/1225]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 217(c)(1), (2), (d), Aug. 14, 2008, [122 Stat. 3060][/us/stat/122/3060].)
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–314, § 217(c)(1)][/us/pl/110/314/s217/c/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any person who knowingly and willfully violates [section 2068 of this title][/us/usc/t15/s2068] after having received notice of noncompliance from the Commission shall be fined not more than $50,000 or be imprisoned not more than one year, or both.”
+    2008—Subsec. (a). [Pub. L. 110–314][/us/pl/110/314], § 217(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any person who knowingly and willfully violates [section 2068 of this title][/us/usc/t15/s2068] after having received notice of noncompliance from the Commission shall be fined not more than $50,000 or be imprisoned not more than one year, or both.”
 
-    Subsec. (b). [Pub. L. 110–314, § 217(c)(2)][/us/pl/110/314/s217/c/2], struck out “, and who has knowledge of notice of noncompliance received by the corporation from the Commission,” after “[section 2068 of this title][/us/usc/t15/s2068]”.
+    Subsec. (b). [Pub. L. 110–314][/us/pl/110/314], § 217(c)(2), struck out “, and who has knowledge of notice of noncompliance received by the corporation from the Commission,” after “[section 2068 of this title][/us/usc/t15/s2068]”.
 
-    Subsec. (c). [Pub. L. 110–314, § 217(d)][/us/pl/110/314/s217/d], added subsec. (c).
+    Subsec. (c). [Pub. L. 110–314][/us/pl/110/314], § 217(d), added subsec. (c).
 
 ----------
 
@@ -53,14 +53,14 @@
 [/us/usc/t15/s2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2068
 [/us/usc/t18/s3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3571
 [/us/usc/t15/s2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2068
-[/us/pl/92/573/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs21
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1225
-[/us/pl/110/314/s217/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs217%2Fc%2F1
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3060
-[/us/pl/110/314/s217/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs217%2Fc%2F1
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/usc/t15/s2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2068
-[/us/pl/110/314/s217/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs217%2Fc%2F2
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/usc/t15/s2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2068
-[/us/pl/110/314/s217/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs217%2Fd
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 
 

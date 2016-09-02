@@ -63,7 +63,7 @@
 
         (9) require a person acting, or offering to act, as an insurance licensee for a redomesticated insurer in the licensed State to obtain a license from that State, except that such State may not impose any qualification or requirement that discriminates against a nonresident insurance licensee.
 
-([Pub. L. 106–102, title III, § 313][/us/pl/106/102/s313], Nov. 12, 1999, [113 Stat. 1419][/us/stat/113/1419].)
+([Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 313, Nov. 12, 1999, [113 Stat. 1419][/us/stat/113/1419].)
 
 ----------
 
@@ -73,7 +73,7 @@
 ----------
 
 [/us/usc/t15/s6734/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6734%2Fa
-[/us/pl/106/102/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs313
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1419
 
 

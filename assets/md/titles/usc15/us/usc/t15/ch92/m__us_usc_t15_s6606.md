@@ -113,7 +113,7 @@
 
         For the purpose of applying this section to a Y2K action that is maintained as a class action in Federal or State court, the requirements of the preceding subsections of this section apply only to named plaintiffs in the class action.
 
-([Pub. L. 106–37, § 7][/us/pl/106/37/s7], July 20, 1999, [113 Stat. 196][/us/stat/113/196].)
+([Pub. L. 106–37][/us/pl/106/37], § 7, July 20, 1999, [113 Stat. 196][/us/stat/113/196].)
 
  __References in Text__ 
 
@@ -130,7 +130,7 @@
 ----------
 ----------
 
-[/us/pl/106/37/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37%2Fs7
+[/us/pl/106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37
 [/us/stat/113/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F196
 [/us/pl/105/271/s3/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F271%2Fs3%2F7
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1

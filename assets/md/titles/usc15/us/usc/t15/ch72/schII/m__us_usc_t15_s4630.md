@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated to the Department of Energy for fiscal year 1988 the sum of $25,000,000 for general science and research activities of the Department of Energy under the Initiative.
 
-([Pub. L. 100–180, div. C, title I, § 3150][/us/pl/100/180/s3150], Dec. 4, 1987, [101 Stat. 1244][/us/stat/101/1244].)
+([Pub. L. 100–180, div. C, title I][/us/pl/100/180/dC/tI], § 3150, Dec. 4, 1987, [101 Stat. 1244][/us/stat/101/1244].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/180/s3150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3150
+[/us/pl/100/180/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdC%2FtI
 [/us/stat/101/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1244
 
 

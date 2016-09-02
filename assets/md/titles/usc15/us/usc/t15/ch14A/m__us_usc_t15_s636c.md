@@ -17,13 +17,13 @@
 
     In the administration of any Federal disaster loan program under the authority of section 636a  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, section 4452  <sup>\[1\]</sup>  of title 42, or [section 233 of Public Law 91–606][/us/pl/91/606/s233], the age of any adult loan applicant shall not be considered in determining whether such loan should be made or the amount of such loan.
 
-([Pub. L. 91–606, title II, § 235][/us/pl/91/606/s235], Dec. 31, 1970, [84 Stat. 1754][/us/stat/84/1754].)
+([Pub. L. 91–606, title II][/us/pl/91/606/tII], § 235, Dec. 31, 1970, [84 Stat. 1754][/us/stat/84/1754].)
 
  __References in Text__ 
 
-    [Section 636a of this title][/us/usc/t15/s636a], referred to in text, was repealed by [Pub. L. 97–35, title XIX, § 1917][/us/pl/97/35/s1917], Aug. 13, 1981, [95 Stat. 781][/us/stat/95/781].
+    [Section 636a of this title][/us/usc/t15/s636a], referred to in text, was repealed by [Pub. L. 97–35, title XIX][/us/pl/97/35/tXIX], § 1917, Aug. 13, 1981, [95 Stat. 781][/us/stat/95/781].
 
-    [Section 4452 of title 42][/us/usc/t42/s4452], referred to in text, was repealed by [Pub. L. 93–24, § 7][/us/pl/93/24/s7], Apr. 20, 1973, [87 Stat. 25][/us/stat/87/25].
+    [Section 4452 of title 42][/us/usc/t42/s4452], referred to in text, was repealed by [Pub. L. 93–24][/us/pl/93/24], § 7, Apr. 20, 1973, [87 Stat. 25][/us/stat/87/25].
 
     [Section 233 of Public Law 91–606][/us/pl/91/606/s233], referred to in text, amended section 1820(a)(2), (f) \[now 3720(a)(2), (f)\] of Title 38, Veterans’ Benefits.
 
@@ -43,13 +43,13 @@
 ----------
 
 [/us/pl/91/606/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2Fs233
-[/us/pl/91/606/s235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2Fs235
+[/us/pl/91/606/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2FtII
 [/us/stat/84/1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1754
 [/us/usc/t15/s636a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636a
-[/us/pl/97/35/s1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1917
+[/us/pl/97/35/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIX
 [/us/stat/95/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F781
 [/us/usc/t42/s4452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4452
-[/us/pl/93/24/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F24%2Fs7
+[/us/pl/93/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F24
 [/us/stat/87/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F25
 [/us/pl/91/606/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2Fs233
 [/us/usc/t42/s4454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4454

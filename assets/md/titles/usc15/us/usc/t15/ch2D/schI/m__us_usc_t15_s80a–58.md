@@ -17,7 +17,7 @@
 
     Notwithstanding the exemption set forth in [section 80–6(f) of this title][/us/usc/t15/s80–6/f], sections 80a–1, 80a–2, 80a–3, 80a–4, 80a–5, 80a–6, 80a–9, 80a–10(f), 80a–15(a), (c), and (f), 80a–16(b), 80a–17(f) through (j), 80a–19(a), 80a–20(b), 80a–31(a) and (c), 80a–32 through 80a–46, and 80a–48 through 80a–52 of this title shall apply to a business development company to the same extent as if it were a registered closed-end investment company.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 59, as added [Pub. L. 96–477, title I, § 105][/us/pl/96/477/s105], Oct. 21, 1980, [94 Stat. 2285][/us/stat/94/2285].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 59, as added [Pub. L. 96–477, title I][/us/pl/96/477/tI], § 105, Oct. 21, 1980, [94 Stat. 2285][/us/stat/94/2285].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t15/s80–6/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80%E2%80%936%2Ff
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
-[/us/pl/96/477/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2Fs105
+[/us/pl/96/477/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2FtI
 [/us/stat/94/2285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2285
 
 

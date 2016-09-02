@@ -61,7 +61,7 @@
 
         The Board shall cease to exist when the Congress, by law, determines that its mission has been accomplished.
 
-([Pub. L. 94–168, § 5][/us/pl/94/168/s5], Dec. 23, 1975, [89 Stat. 1007][/us/stat/89/1007].)
+([Pub. L. 94–168][/us/pl/94/168], § 5, Dec. 23, 1975, [89 Stat. 1007][/us/stat/89/1007].)
 
 ----------
 
@@ -70,7 +70,7 @@
 ----------
 ----------
 
-[/us/pl/94/168/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F168%2Fs5
+[/us/pl/94/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F168
 [/us/stat/89/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1007
 
 

@@ -47,11 +47,11 @@
 
         It shall be unlawful for any registered investment company to adopt as a part of the name or title of such company, or of any securities of which it is the issuer, any word or words that the Commission finds are materially deceptive or misleading. The Commission is authorized, by rule, regulation, or order, to define such names or titles as are materially deceptive or misleading.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 35, [54 Stat. 840][/us/stat/54/840]; [Pub. L. 104–290, title II, § 208][/us/pl/104/290/s208], Oct. 11, 1996, [110 Stat. 3432][/us/stat/110/3432]; [Pub. L. 106–102, title II, § 214][/us/pl/106/102/s214], Nov. 12, 1999, [113 Stat. 1398][/us/stat/113/1398].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 35, [54 Stat. 840][/us/stat/54/840]; [Pub. L. 104–290, title II][/us/pl/104/290/tII], § 208, Oct. 11, 1996, [110 Stat. 3432][/us/stat/110/3432]; [Pub. L. 106–102, title II][/us/pl/106/102/tII], § 214, Nov. 12, 1999, [113 Stat. 1398][/us/stat/113/1398].)
 
  __References in Text__ 
 
-    The Securities Act of 1933, referred to in subsec. (c), is [act May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
+    The Securities Act of 1933, referred to in subsec. (c), is [act May 27, 1933, ch. 38, title I][/us/act/1933-05-27/ch38/tI], [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
 
     The Securities Exchange Act of 1934, referred to in subsec. (c), is [act June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], [48 Stat. 881][/us/stat/48/881], which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title][/us/usc/t15/s78a] and Tables.
 
@@ -82,11 +82,11 @@
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F840
-[/us/pl/104/290/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs208
+[/us/pl/104/290/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtII
 [/us/stat/110/3432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3432
-[/us/pl/106/102/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs214
+[/us/pl/106/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtII
 [/us/stat/113/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1398
-[/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
+[/us/act/1933-05-27/ch38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38%2FtI
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404

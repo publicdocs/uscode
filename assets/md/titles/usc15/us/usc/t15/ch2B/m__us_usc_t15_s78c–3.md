@@ -357,7 +357,7 @@
 
                 (ii) include a certification that, under penalty of law, the compliance report is accurate and complete.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 3C, as added [Pub. L. 111–203, title VII, § 763(a)][/us/pl/111/203/s763/a], July 21, 2010, [124 Stat. 1762][/us/stat/124/1762]; amended [Pub. L. 114–113, div. O, title VII, § 705(b)][/us/pl/114/113/s705/b], Dec. 18, 2015, [129 Stat. 3027][/us/stat/129/3027].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 3C, as added [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 763(a), July 21, 2010, [124 Stat. 1762][/us/stat/124/1762]; amended [Pub. L. 114–113, div. O, title VII][/us/pl/114/113/dO/tVII], § 705(b), Dec. 18, 2015, [129 Stat. 3027][/us/stat/129/3027].)
 
  __References in Text__ 
 
@@ -394,9 +394,9 @@
 [/us/usc/t15/s78c–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%E2%80%934
 [/us/usc/t15/s78c–4/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%E2%80%934%2Fe
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/111/203/s763/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs763%2Fa
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1762
-[/us/pl/114/113/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs705%2Fb
+[/us/pl/114/113/dO/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdO%2FtVII
 [/us/stat/129/3027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3027
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/111/203/s774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs774

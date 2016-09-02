@@ -41,11 +41,11 @@
 
         (3) supplement, but neither supplant nor duplicate, the automotive propulsion system research and development efforts of private industry.
 
-([Pub. L. 95–238, title III, § 302][/us/pl/95/238/s302], Feb. 25, 1978, [92 Stat. 78][/us/stat/92/78].)
+([Pub. L. 95–238, title III][/us/pl/95/238/tIII], § 302, Feb. 25, 1978, [92 Stat. 78][/us/stat/92/78].)
 
  __Short Title__ 
 
-[Pub. L. 95–238, title III, § 301][/us/pl/95/238/s301], Feb. 25, 1978, [92 Stat. 78][/us/stat/92/78], provided that: 
+[Pub. L. 95–238, title III][/us/pl/95/238/tIII], § 301, Feb. 25, 1978, [92 Stat. 78][/us/stat/92/78], provided that: 
 
 > “This title \[enacting this chapter and amending [section 2451 of Title 42][/us/usc/t42/s2451], The Public Health and Welfare\] may be cited as the ‘Automotive Propulsion Research and Development Act of 1978’.”
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/pl/95/238/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs302
+[/us/pl/95/238/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtIII
 [/us/stat/92/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F78
-[/us/pl/95/238/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs301
+[/us/pl/95/238/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtIII
 [/us/stat/92/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F78
 [/us/usc/t42/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2451
 

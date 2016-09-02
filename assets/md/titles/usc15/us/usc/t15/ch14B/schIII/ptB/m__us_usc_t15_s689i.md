@@ -17,7 +17,7 @@
 
     [Section 687k of this title][/us/usc/t15/s687k] shall not apply to any debenture issued by a New Markets Venture Capital company under this part.
 
-([Pub. L. 85–699, title III, § 360][/us/pl/85/699/s360], as added [Pub. L. 106–554, § 1(a)(8)][/us/pl/106/554/s1/a/8] \[§ 1(b)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–661.)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 360, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(8) \[§ 1(b)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–661.)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t15/s687k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687k
-[/us/pl/85/699/s360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs360
-[/us/pl/106/554/s1/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F8
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

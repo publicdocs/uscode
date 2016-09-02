@@ -31,7 +31,7 @@
 
         On or before March 15 of each year, a majority of the members of the Joint Economic Committee shall submit a report to the Committees on the Budget of the Senate and the House of Representatives. Such report shall include findings, recommendations, and any appropriate analyses with respect and in direct comparison to each of the short-term and medium-term goals set forth in the Economic Report.
 
-([Pub. L. 95–523, title III, § 302][/us/pl/95/523/s302], Oct. 27, 1978, [92 Stat. 1904][/us/stat/92/1904].)
+([Pub. L. 95–523, title III][/us/pl/95/523/tIII], § 302, Oct. 27, 1978, [92 Stat. 1904][/us/stat/92/1904].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t15/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1021
 [/us/usc/t15/s1022/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1022%2Fa%2F2
-[/us/pl/95/523/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs302
+[/us/pl/95/523/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2FtIII
 [/us/stat/92/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1904
 [/us/act/1946-02-20/ch33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-20%2Fch33
 [/us/stat/60/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F23

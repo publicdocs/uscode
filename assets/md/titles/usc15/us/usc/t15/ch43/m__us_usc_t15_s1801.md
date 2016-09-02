@@ -17,11 +17,11 @@
 
     In the public interest of maintaining a newspaper press editorially and reportorially independent and competitive in all parts of the United States, it is hereby declared to be the public policy of the United States to preserve the publication of newspapers in any city, community, or metropolitan area where a joint operating arrangement has been heretofore entered into because of economic distress or is hereafter effected in accordance with the provisions of this chapter.
 
-([Pub. L. 91–353, § 2][/us/pl/91/353/s2], July 24, 1970, [84 Stat. 466][/us/stat/84/466].)
+([Pub. L. 91–353][/us/pl/91/353], § 2, July 24, 1970, [84 Stat. 466][/us/stat/84/466].)
 
  __Short Title__ 
 
-[Pub. L. 91–353, § 1][/us/pl/91/353/s1], July 24, 1970, [84 Stat. 466][/us/stat/84/466], provided that: 
+[Pub. L. 91–353][/us/pl/91/353], § 1, July 24, 1970, [84 Stat. 466][/us/stat/84/466], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Newspaper Preservation Act’.”
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/91/353/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F353%2Fs2
+[/us/pl/91/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F353
 [/us/stat/84/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F466
-[/us/pl/91/353/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F353%2Fs1
+[/us/pl/91/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F353
 [/us/stat/84/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F466
 [/us/pl/91/353/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F353%2Fs6
 

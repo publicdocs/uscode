@@ -17,7 +17,7 @@
 
     There is established an interagency committee to be known as the Interagency Committee on Women’s Business Enterprise.
 
-([Pub. L. 100–533, title IV, § 401][/us/pl/100/533/s401], as added [Pub. L. 103–403, title IV, § 413][/us/pl/103/403/s413], Oct. 22, 1994, [108 Stat. 4193][/us/stat/108/4193].)
+([Pub. L. 100–533, title IV][/us/pl/100/533/tIV], § 401, as added [Pub. L. 103–403, title IV][/us/pl/103/403/tIV], § 413, Oct. 22, 1994, [108 Stat. 4193][/us/stat/108/4193].)
 
  __Prior Provisions__ 
 
@@ -25,7 +25,7 @@
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VII, § 701\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–701, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title VII, § 701\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–701, provided that: 
 
 > “This title \[amending sections 7107, 7109, and 7110 of this title and repealing former [section 7109 of this title][/us/usc/t15/s7109]\] may be cited as the ‘National Women’s Business Council Reauthorization Act of 2000’.”
 
@@ -130,15 +130,15 @@
 ----------
 ----------
 
-[/us/pl/100/533/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs401
-[/us/pl/103/403/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs413
+[/us/pl/100/533/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2FtIV
+[/us/pl/103/403/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtIV
 [/us/stat/108/4193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4193
 [/us/pl/100/533/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs401
 [/us/stat/102/2694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2694
 [/us/pl/100/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533
 [/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
 [/us/usc/t15/s7105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7105
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t15/s7109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7109
 

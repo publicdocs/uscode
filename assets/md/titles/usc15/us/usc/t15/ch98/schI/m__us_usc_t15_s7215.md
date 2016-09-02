@@ -247,7 +247,7 @@
 
             The Commission shall establish for appropriate cases an expedited procedure for consideration and determination of the question of the duration of a stay pending review of any disciplinary action of the Board under this subsection.
 
-([Pub. L. 107–204, title I, § 105][/us/pl/107/204/s105], July 30, 2002, [116 Stat. 759][/us/stat/116/759]; [Pub. L. 110–289, div. A, title I, § 1161(h)][/us/pl/110/289/s1161/h], July 30, 2008, [122 Stat. 2781][/us/stat/122/2781]; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 929F(h), 981(b), (c), 982(f), (i), (j), July 21, 2010, [124 Stat. 1855][/us/stat/124/1855], 1926, 1927, 1929–1931.)
+([Pub. L. 107–204, title I][/us/pl/107/204/tI], § 105, July 30, 2002, [116 Stat. 759][/us/stat/116/759]; [Pub. L. 110–289, div. A, title I][/us/pl/110/289/dA/tI], § 1161(h), July 30, 2008, [122 Stat. 2781][/us/stat/122/2781]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], §§ 929F(h), 981(b), (c), 982(f), (i), (j), July 21, 2010, [124 Stat. 1855][/us/stat/124/1855], 1926, 1927, 1929–1931.)
 
  __References in Text__ 
 
@@ -257,19 +257,19 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(4)(B)(ii) to (iv). [Pub. L. 111–203, § 982(i)][/us/pl/111/203/s982/i], added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+    2010—Subsec. (b)(4)(B)(ii) to (iv). [Pub. L. 111–203][/us/pl/111/203], § 982(i), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
 
-    Subsec. (b)(5)(A). [Pub. L. 111–203, § 981(c)][/us/pl/111/203/s981/c], substituted “subparagraphs (B) and (C)” for “subparagraph (B)”.
+    Subsec. (b)(5)(A). [Pub. L. 111–203][/us/pl/111/203], § 981(c), substituted “subparagraphs (B) and (C)” for “subparagraph (B)”.
 
-    Subsec. (b)(5)(B)(ii)(V). [Pub. L. 111–203, § 982(j)][/us/pl/111/203/s982/j], added subcl. (V).
+    Subsec. (b)(5)(B)(ii)(V). [Pub. L. 111–203][/us/pl/111/203], § 982(j), added subcl. (V).
 
-    Subsec. (b)(5)(C). [Pub. L. 111–203, § 981(b)][/us/pl/111/203/s981/b], added subpar. (C).
+    Subsec. (b)(5)(C). [Pub. L. 111–203][/us/pl/111/203], § 981(b), added subpar. (C).
 
-    Subsec. (c)(6)(A). [Pub. L. 111–203, § 929F(h)(1)][/us/pl/111/203/s929F/h/1], substituted “any person who is, or at the time of the alleged failure reasonably to supervise was, a supervisory person” for “the supervisory personnel” in introductory provisions.
+    Subsec. (c)(6)(A). [Pub. L. 111–203][/us/pl/111/203], § 929F(h)(1), substituted “any person who is, or at the time of the alleged failure reasonably to supervise was, a supervisory person” for “the supervisory personnel” in introductory provisions.
 
-    Subsec. (c)(6)(B). [Pub. L. 111–203, § 929F(h)(2)][/us/pl/111/203/s929F/h/2], in introductory provisions, substituted “No current or former supervisory person” for “No associated person” and “any associated person” for “any other person”.
+    Subsec. (c)(6)(B). [Pub. L. 111–203][/us/pl/111/203], § 929F(h)(2), in introductory provisions, substituted “No current or former supervisory person” for “No associated person” and “any associated person” for “any other person”.
 
-    Subsec. (c)(7)(B). [Pub. L. 111–203, § 982(f)][/us/pl/111/203/s982/f], in heading, inserted “, broker, or dealer” after “issuer” and, in text, substituted “a registered public accounting firm under this subsection” for “an issuer under this subsection” and “any issuer, broker, or dealer” for “any issuer” in two places.
+    Subsec. (c)(7)(B). [Pub. L. 111–203][/us/pl/111/203], § 982(f), in heading, inserted “, broker, or dealer” after “issuer” and, in text, substituted “a registered public accounting firm under this subsection” for “an issuer under this subsection” and “any issuer, broker, or dealer” for “any issuer” in two places.
 
     2008—Subsec. (b)(5)(B)(ii)(II). [Pub. L. 110–289][/us/pl/110/289] inserted “and the Director of the Federal Housing Finance Agency,” after “Commission,”.
 
@@ -289,23 +289,23 @@
 [/us/usc/t15/s7214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7214
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t15/s6809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6809
-[/us/pl/107/204/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs105
+[/us/pl/107/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtI
 [/us/stat/116/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F759
-[/us/pl/110/289/s1161/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs1161%2Fh
+[/us/pl/110/289/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdA%2FtI
 [/us/stat/122/2781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2781
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1855
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/stat/116/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F745
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/111/203/s982/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fi
-[/us/pl/111/203/s981/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs981%2Fc
-[/us/pl/111/203/s982/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fj
-[/us/pl/111/203/s981/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs981%2Fb
-[/us/pl/111/203/s929F/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929F%2Fh%2F1
-[/us/pl/111/203/s929F/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929F%2Fh%2F2
-[/us/pl/111/203/s982/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Ff
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4

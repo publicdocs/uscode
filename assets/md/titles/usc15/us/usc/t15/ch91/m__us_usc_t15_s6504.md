@@ -95,7 +95,7 @@
 
             (B) may be found.
 
-([Pub. L. 105–277, div. C, title XIII, § 1305][/us/pl/105/277/s1305], Oct. 21, 1998, [112 Stat. 2681–733][/us/stat/112/2681-733].)
+([Pub. L. 105–277, div. C, title XIII][/us/pl/105/277/dC/tXIII], § 1305, Oct. 21, 1998, [112 Stat. 2681–733][/us/stat/112/2681-733].)
 
  __Effective Date__ 
 
@@ -111,7 +111,7 @@
 [/us/usc/t15/s6502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6502%2Fb
 [/us/usc/t15/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6502
 [/us/usc/t28/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1391
-[/us/pl/105/277/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1305
+[/us/pl/105/277/dC/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtXIII
 [/us/stat/112/2681-733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-733
 [/us/pl/105/277/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1308
 [/us/usc/t15/s6501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6501

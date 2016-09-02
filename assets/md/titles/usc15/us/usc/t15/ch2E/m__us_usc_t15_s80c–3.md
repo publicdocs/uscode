@@ -19,7 +19,7 @@
 
     (b) The Commission shall report on these efforts at the annual Government-business forum required by [section 80c–1 of this title][/us/usc/t15/s80c–1].
 
-([Pub. L. 96–477, title V, § 506][/us/pl/96/477/s506], Oct. 21, 1980, [94 Stat. 2293][/us/stat/94/2293].)
+([Pub. L. 96–477, title V][/us/pl/96/477/tV], § 506, Oct. 21, 1980, [94 Stat. 2293][/us/stat/94/2293].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t15/s80c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80c%E2%80%931
-[/us/pl/96/477/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2Fs506
+[/us/pl/96/477/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2FtV
 [/us/stat/94/2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2293
 
 

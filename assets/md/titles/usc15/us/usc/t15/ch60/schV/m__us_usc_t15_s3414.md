@@ -29,7 +29,7 @@
 
             Whenever it appears to the President that any person has engaged, is engaged, or is about to engage in acts or practices constituting a violation of any order under [section 3362 of this title][/us/usc/t15/s3362] or any order or supplemental order issued under [section 3363 of this title][/us/usc/t15/s3363], the President may bring a civil action in any appropriate district court of the United States to enjoin such acts or practices.
 
-        (3) __Repealed.__  __[__  __Pub. L. 101–60, § 3(a)(4)(B)__  __][/us/pl/101/60/s3/a/4/B]__  __,__  __July 26, 1989__  __,__  __[__  __103 Stat. 158__  __][/us/stat/103/158]__ 
+        (3) __Repealed.__  __[__  __Pub. L. 101–60__  __][/us/pl/101/60]__  __, § 3(a)(4)(B),__  __July 26, 1989__  __,__  __[__  __103 Stat. 158__  __][/us/stat/103/158]__ 
 
         (4) __Relief available__ 
 
@@ -105,19 +105,19 @@
 
             (B) had constructive knowledge deemed to be possessed by a reasonable individual who acts under similar circumstances.
 
-([Pub. L. 95–621, title V, § 504][/us/pl/95/621/s504], Nov. 9, 1978, [92 Stat. 3401][/us/stat/92/3401]; [Pub. L. 101–60, § 3(a)(4)][/us/pl/101/60/s3/a/4], (b)(6), July 26, 1989, [103 Stat. 158][/us/stat/103/158], 159; [Pub. L. 109–58, title III, § 314(a)(2)][/us/pl/109/58/s314/a/2], (b)(2), Aug. 8, 2005, [119 Stat. 690][/us/stat/119/690], 691.)
+([Pub. L. 95–621, title V][/us/pl/95/621/tV], § 504, Nov. 9, 1978, [92 Stat. 3401][/us/stat/92/3401]; [Pub. L. 101–60][/us/pl/101/60], § 3(a)(4), (b)(6), July 26, 1989, [103 Stat. 158][/us/stat/103/158], 159; [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 314(a)(2), (b)(2), Aug. 8, 2005, [119 Stat. 690][/us/stat/119/690], 691.)
 
  __Amendments__ 
 
-    2005—Subsec. (b)(6)(A). [Pub. L. 109–58, § 314(b)(2)][/us/pl/109/58/s314/b/2], substituted “$1,000,000” for “$5,000” in cl. (i) and “$1,000,000” for “$25,000” in cl. (ii).
+    2005—Subsec. (b)(6)(A). [Pub. L. 109–58][/us/pl/109/58], § 314(b)(2), substituted “$1,000,000” for “$5,000” in cl. (i) and “$1,000,000” for “$25,000” in cl. (ii).
 
-    Subsec. (c)(1). [Pub. L. 109–58, § 314(a)(2)(A)][/us/pl/109/58/s314/a/2/A], substituted “$1,000,000” for “$5,000” in subpar. (A) and “5 years” for “two years” in subpar. (B).
+    Subsec. (c)(1). [Pub. L. 109–58][/us/pl/109/58], § 314(a)(2)(A), substituted “$1,000,000” for “$5,000” in subpar. (A) and “5 years” for “two years” in subpar. (B).
 
-    Subsec. (c)(2). [Pub. L. 109–58, § 314(a)(2)(B)][/us/pl/109/58/s314/a/2/B], substituted “$50,000 for each day on which the offense occurs” for “$500 for each violation”.
+    Subsec. (c)(2). [Pub. L. 109–58][/us/pl/109/58], § 314(a)(2)(B), substituted “$50,000 for each day on which the offense occurs” for “$500 for each violation”.
 
-    1989—Subsec. (a). [Pub. L. 101–60, § 3(b)(6)][/us/pl/101/60/s3/b/6], struck out par. (2) designation and par. (1) making it unlawful to sell natural gas at a first sale price in excess of any applicable maximum lawful price under this chapter.
+    1989—Subsec. (a). [Pub. L. 101–60][/us/pl/101/60], § 3(b)(6), struck out par. (2) designation and par. (1) making it unlawful to sell natural gas at a first sale price in excess of any applicable maximum lawful price under this chapter.
 
-    Subsec. (b). [Pub. L. 101–60, § 3(a)(4)][/us/pl/101/60/s3/a/4], substituted “paragraph (2)” for “paragraphs (2) and (3)” in par. (1), struck out par. (3) which related to enforcement of incremental pricing, and substituted “paragraph (1) or (2)” for “paragraph (1), (2), or (3)” in par. (4).
+    Subsec. (b). [Pub. L. 101–60][/us/pl/101/60], § 3(a)(4), substituted “paragraph (2)” for “paragraphs (2) and (3)” in par. (1), struck out par. (3) which related to enforcement of incremental pricing, and substituted “paragraph (1) or (2)” for “paragraph (1), (2), or (3)” in par. (4).
 
  __Effective Date of 1989 Amendment__ 
 
@@ -132,23 +132,23 @@
 
 [/us/usc/t15/s3362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3362
 [/us/usc/t15/s3363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3363
-[/us/pl/101/60/s3/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fa%2F4%2FB
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
 [/us/stat/103/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F158
 [/us/usc/t15/s3362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3362
 [/us/usc/t15/s3363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3363
 [/us/usc/t15/s3362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3362
 [/us/usc/t15/s3363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3363
-[/us/pl/95/621/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs504
+[/us/pl/95/621/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2FtV
 [/us/stat/92/3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3401
-[/us/pl/101/60/s3/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fa%2F4
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
 [/us/stat/103/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F158
-[/us/pl/109/58/s314/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs314%2Fa%2F2
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F690
-[/us/pl/109/58/s314/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs314%2Fb%2F2
-[/us/pl/109/58/s314/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs314%2Fa%2F2%2FA
-[/us/pl/109/58/s314/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs314%2Fa%2F2%2FB
-[/us/pl/101/60/s3/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fb%2F6
-[/us/pl/101/60/s3/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fa%2F4
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
 [/us/pl/101/60/s3/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fb%2F6
 [/us/pl/101/60/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fb
 [/us/usc/t15/s3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3372

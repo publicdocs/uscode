@@ -33,7 +33,7 @@
 
         (2) Nothing in this chapter shall authorize the Secretary to appeal or otherwise seek judicial review of the decisions of a State regulatory authority or nonregulated gas utility or to become a party to any action to obtain such review or appeal. The Secretary may participate as an amicus curiae in any judicial review of an action arising under the provisions of this chapter.
 
-([Pub. L. 95–617, title III, § 307][/us/pl/95/617/s307], Nov. 9, 1978, [92 Stat. 3153][/us/stat/92/3153].)
+([Pub. L. 95–617, title III][/us/pl/95/617/tIII], § 307, Nov. 9, 1978, [92 Stat. 3153][/us/stat/92/3153].)
 
  __Definitions__ 
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t15/s3205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3205
-[/us/pl/95/617/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs307
+[/us/pl/95/617/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtIII
 [/us/stat/92/3153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3153
 [/us/usc/t16/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2602
 

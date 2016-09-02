@@ -27,15 +27,15 @@
 
         A registrant of a mark registered under the provisions of the Act of March 3, 1881, or the Act of February 20, 1905, may, at any time prior to the expiration of the registration thereof, upon the payment of the prescribed fee file with the Director an affidavit setting forth those goods stated in the registration on which said mark is in use in commerce and that the registrant claims the benefits of this chapter for said mark. The Director shall publish notice thereof with a reproduction of said mark in the Official Gazette, and notify the registrant of such publication and of the requirement for the affidavit of use or nonuse as provided for in subsection (b) of [section 1058 of this title][/us/usc/t15/s1058]. Marks published under this subsection shall not be subject to the provisions of [section 1063 of this title][/us/usc/t15/s1063].
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title I, § 12, [60 Stat. 432][/us/stat/60/432]; [Pub. L. 87–772, § 7][/us/pl/87/772/s7], Oct. 9, 1962, [76 Stat. 770][/us/stat/76/770]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 100–667, title I, § 113][/us/pl/100/667/s113], Nov. 16, 1988, [102 Stat. 3940][/us/stat/102/3940]; [Pub. L. 105–330, title I, § 104][/us/pl/105/330/s104], Oct. 30, 1998, [112 Stat. 3066][/us/stat/112/3066]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(1)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583.)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title I, § 12, [60 Stat. 432][/us/stat/60/432]; [Pub. L. 87–772][/us/pl/87/772], § 7, Oct. 9, 1962, [76 Stat. 770][/us/stat/76/770]; [Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 100–667, title I][/us/pl/100/667/tI], § 113, Nov. 16, 1988, [102 Stat. 3940][/us/stat/102/3940]; [Pub. L. 105–330, title I][/us/pl/105/330/tI], § 104, Oct. 30, 1998, [112 Stat. 3066][/us/stat/112/3066]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(1)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583.)
 
  __References in Text__ 
 
-    Acts March 3, 1881 and February 20, 1905, referred to in subsec. (c), are acts [Mar. 3, 1881, ch. 138][/us/act/1881-03-03/ch138], [21 Stat. 502][/us/stat/21/502] and [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], [33 Stat. 724][/us/stat/33/724], which were repealed insofar as inconsistent with this chapter by [act July 5, 1946, ch. 540, § 46(a)][/us/act/1946-07-05/ch540/s46/a], [60 Stat. 444][/us/stat/60/444]. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
+    Acts March 3, 1881 and February 20, 1905, referred to in subsec. (c), are acts [Mar. 3, 1881, ch. 138][/us/act/1881-03-03/ch138], [21 Stat. 502][/us/stat/21/502] and [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], [33 Stat. 724][/us/stat/33/724], which were repealed insofar as inconsistent with this chapter by [act July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], § 46(a), [60 Stat. 444][/us/stat/60/444]. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
  __Prior Provisions__ 
 
-    Acts [Feb. 20, 1905, ch. 592, § 6][/us/act/1905-02-20/ch592/s6], [33 Stat. 726][/us/stat/33/726]; [Mar. 2, 1907, ch. 2573, § 2][/us/act/1907-03-02/ch2573/s2], [34 Stat. 1252][/us/stat/34/1252].
+    Acts [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], § 6, [33 Stat. 726][/us/stat/33/726]; [Mar. 2, 1907, ch. 2573][/us/act/1907-03-02/ch2573], § 2, [34 Stat. 1252][/us/stat/34/1252].
 
  __Amendments__ 
 
@@ -90,25 +90,25 @@
 [/us/usc/t15/s1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1063
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F432
-[/us/pl/87/772/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772%2Fs7
+[/us/pl/87/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772
 [/us/stat/76/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F770
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/100/667/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs113
+[/us/pl/100/667/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtI
 [/us/stat/102/3940]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3940
-[/us/pl/105/330/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2Fs104
+[/us/pl/105/330/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2FtI
 [/us/stat/112/3066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3066
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/act/1881-03-03/ch138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1881-03-03%2Fch138
 [/us/stat/21/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F21%2F502
 [/us/act/1905-02-20/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592
 [/us/stat/33/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F724
-[/us/act/1946-07-05/ch540/s46/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540%2Fs46%2Fa
+[/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F444
-[/us/act/1905-02-20/ch592/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592%2Fs6
+[/us/act/1905-02-20/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592
 [/us/stat/33/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F726
-[/us/act/1907-03-02/ch2573/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-02%2Fch2573%2Fs2
+[/us/act/1907-03-02/ch2573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1907-03-02%2Fch2573
 [/us/stat/34/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F1252
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/105/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330

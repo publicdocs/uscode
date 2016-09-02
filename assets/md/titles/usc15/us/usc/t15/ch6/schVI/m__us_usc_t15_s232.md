@@ -17,7 +17,7 @@
 
     All barrels packed with apples shall be deemed to be below standard if the barrel bears any statement, design, or device indicating that the barrel is a standard barrel of apples, as defined in [section 231 of this title][/us/usc/t15/s231], and the capacity of the barrel is less than the capacity prescribed by said section, unless the barrel shall be plainly marked on end and side with words or figures showing the fractional relation which the actual capacity of the barrel bears to the capacity prescribed by said section. The marking required by this section shall be in block letters of size not less than seventy-two point (one-inch) gothic.
 
-([Aug. 3, 1912, ch. 273, § 4][/us/act/1912-08-03/ch273/s4], [37 Stat. 251][/us/stat/37/251].)
+([Aug. 3, 1912, ch. 273][/us/act/1912-08-03/ch273], § 4, [37 Stat. 251][/us/stat/37/251].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t15/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs231
-[/us/act/1912-08-03/ch273/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-03%2Fch273%2Fs4
+[/us/act/1912-08-03/ch273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-03%2Fch273
 [/us/stat/37/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F251
 
 

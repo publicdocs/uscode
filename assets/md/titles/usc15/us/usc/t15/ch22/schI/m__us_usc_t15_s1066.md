@@ -17,11 +17,11 @@
 
     Upon petition showing extraordinary circumstances, the Director may declare that an interference exists when application is made for the registration of a mark which so resembles a mark previously registered by another, or for the registration of which another has previously made application, as to be likely when used on or in connection with the goods or services of the applicant to cause confusion or mistake or to deceive. No interference shall be declared between an application and the registration of a mark the right to the use of which has become incontestable.
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title I, § 16, [60 Stat. 434][/us/stat/60/434]; [Pub. L. 87–772, § 11][/us/pl/87/772/s11], Oct. 9, 1962, [76 Stat. 771][/us/stat/76/771]; [Pub. L. 97–247, § 11][/us/pl/97/247/s11], Aug. 27, 1982, [96 Stat. 321][/us/stat/96/321]; [Pub. L. 100–667, title I, § 117][/us/pl/100/667/s117], Nov. 16, 1988, [102 Stat. 3941][/us/stat/102/3941]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(1)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583.)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title I, § 16, [60 Stat. 434][/us/stat/60/434]; [Pub. L. 87–772][/us/pl/87/772], § 11, Oct. 9, 1962, [76 Stat. 771][/us/stat/76/771]; [Pub. L. 97–247][/us/pl/97/247], § 11, Aug. 27, 1982, [96 Stat. 321][/us/stat/96/321]; [Pub. L. 100–667, title I][/us/pl/100/667/tI], § 117, Nov. 16, 1988, [102 Stat. 3941][/us/stat/102/3941]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(1)(B)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583.)
 
  __Prior Provisions__ 
 
-    [Act Feb. 20, 1905, ch. 592, § 7][/us/act/1905-02-20/ch592/s7], [33 Stat. 726][/us/stat/33/726].
+    [Act Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], § 7, [33 Stat. 726][/us/stat/33/726].
 
  __Amendments__ 
 
@@ -62,15 +62,15 @@
 
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F434
-[/us/pl/87/772/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772%2Fs11
+[/us/pl/87/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772
 [/us/stat/76/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F771
-[/us/pl/97/247/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247%2Fs11
+[/us/pl/97/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247
 [/us/stat/96/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F321
-[/us/pl/100/667/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs117
+[/us/pl/100/667/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtI
 [/us/stat/102/3941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3941
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/act/1905-02-20/ch592/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592%2Fs7
+[/us/act/1905-02-20/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592
 [/us/stat/33/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F726
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667

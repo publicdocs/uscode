@@ -47,7 +47,7 @@
 
         For purposes of this section, the term “appropriate Federal banking agency” shall have the same meaning as given in [section 1813 of title 12][/us/usc/t12/s1813].
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 210A, as added [Pub. L. 106–102, title II, § 220][/us/pl/106/102/s220], Nov. 12, 1999, [113 Stat. 1400][/us/stat/113/1400]; [Pub. L. 109–351, title IV, § 401(b)(2)][/us/pl/109/351/s401/b/2], Oct. 13, 2006, [120 Stat. 1973][/us/stat/120/1973].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 210A, as added [Pub. L. 106–102, title II][/us/pl/106/102/tII], § 220, Nov. 12, 1999, [113 Stat. 1400][/us/stat/113/1400]; [Pub. L. 109–351, title IV][/us/pl/109/351/tIV], § 401(b)(2), Oct. 13, 2006, [120 Stat. 1973][/us/stat/120/1973].)
 
  __Amendments__ 
 
@@ -69,9 +69,9 @@
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
-[/us/pl/106/102/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs220
+[/us/pl/106/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtII
 [/us/stat/113/1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1400
-[/us/pl/109/351/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs401%2Fb%2F2
+[/us/pl/109/351/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtIV
 [/us/stat/120/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1973
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/pl/106/102/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs225

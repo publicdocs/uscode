@@ -17,7 +17,7 @@
 
     No person may engage, or attempt to engage, in any weather modification activity in the United States unless he submits to the Secretary such reports with respect thereto, in such form and containing such information, as the Secretary may by rule prescribe. The Secretary may require that such reports be submitted to him before, during, and after any such activity or attempt.
 
-([Pub. L. 92–205, § 2][/us/pl/92/205/s2], Dec. 18, 1971, [85 Stat. 736][/us/stat/85/736].)
+([Pub. L. 92–205][/us/pl/92/205], § 2, Dec. 18, 1971, [85 Stat. 736][/us/stat/85/736].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/205/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F205%2Fs2
+[/us/pl/92/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F205
 [/us/stat/85/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F736
 
 

@@ -81,7 +81,7 @@
 
         (3) the provisions of subsection (f) shall apply to purchases and other acquisitions for the account of such company of securities a principal underwriter of which is the depositor or an investment adviser of such company, or an affiliated person of such depositor or investment adviser.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 10, [54 Stat. 806][/us/stat/54/806]; [Pub. L. 91–547, § 5][/us/pl/91/547/s5], Dec. 14, 1970, [84 Stat. 1416][/us/stat/84/1416]; [Pub. L. 94–29, § 28(5)][/us/pl/94/29/s28/5], June 4, 1975, [89 Stat. 165][/us/stat/89/165]; [Pub. L. 106–102, title II, § 213(c)][/us/pl/106/102/s213/c], Nov. 12, 1999, [113 Stat. 1398][/us/stat/113/1398]; [Pub. L. 109–351, title IV, § 401(c)][/us/pl/109/351/s401/c], Oct. 13, 2006, [120 Stat. 1973][/us/stat/120/1973].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 10, [54 Stat. 806][/us/stat/54/806]; [Pub. L. 91–547][/us/pl/91/547], § 5, Dec. 14, 1970, [84 Stat. 1416][/us/stat/84/1416]; [Pub. L. 94–29][/us/pl/94/29], § 28(5), June 4, 1975, [89 Stat. 165][/us/stat/89/165]; [Pub. L. 106–102, title II][/us/pl/106/102/tII], § 213(c), Nov. 12, 1999, [113 Stat. 1398][/us/stat/113/1398]; [Pub. L. 109–351, title IV][/us/pl/109/351/tIV], § 401(c), Oct. 13, 2006, [120 Stat. 1973][/us/stat/120/1973].)
 
  __Amendments__ 
 
@@ -91,15 +91,15 @@
 
     1975—Subsec. (e). [Pub. L. 94–29][/us/pl/94/29] inserted reference to provisions of [section 80a–15(f)(1) of this title][/us/usc/t15/s80a–15/f/1].
 
-    1970—Subsec. (a). [Pub. L. 91–547, § 5(a)][/us/pl/91/547/s5/a], struck out introductory text “After one year from the effective date of this subchapter” and substituted “interested persons of such registered company” for “investment advisers of, affiliated persons of an investment adviser of, or officers or employees of, such registered company”.
+    1970—Subsec. (a). [Pub. L. 91–547][/us/pl/91/547], § 5(a), struck out introductory text “After one year from the effective date of this subchapter” and substituted “interested persons of such registered company” for “investment advisers of, affiliated persons of an investment adviser of, or officers or employees of, such registered company”.
 
-    Subsec. (b). [Pub. L. 91–547, § 5(b)(1)][/us/pl/91/547/s5/b/1], struck out introductory text “After one year from the effective date of this subchapter,” and substituted “No” for “no”.
+    Subsec. (b). [Pub. L. 91–547][/us/pl/91/547], § 5(b)(1), struck out introductory text “After one year from the effective date of this subchapter,” and substituted “No” for “no”.
 
-    Subsec. (b)(2). [Pub. L. 91–547, § 5(b)(2)][/us/pl/91/547/s5/b/2], substituted “interested” for “affiliated” in two places.
+    Subsec. (b)(2). [Pub. L. 91–547][/us/pl/91/547], § 5(b)(2), substituted “interested” for “affiliated” in two places.
 
-    Subsec. (c). [Pub. L. 91–547, § 5(c)][/us/pl/91/547/s5/c], struck out introductory text “After the effective date of this subchapter”, substituted “No”, “, except that”, “had a majority”, and “such company” for “no”, “: Provided, That”, “shall have had a majority”, and “such company”, respectively, and inserted reference to employees where first appearing.
+    Subsec. (c). [Pub. L. 91–547][/us/pl/91/547], § 5(c), struck out introductory text “After the effective date of this subchapter”, substituted “No”, “, except that”, “had a majority”, and “such company” for “no”, “: Provided, That”, “shall have had a majority”, and “such company”, respectively, and inserted reference to employees where first appearing.
 
-    Subsec. (d). [Pub. L. 91–547, § 5(d)][/us/pl/91/547/s5/d], reenacted provisions except for substitution of “interested persons” for “affiliated persons” in introductory text, deletion of “such investment adviser” before “is engaged” in item (2), and substitution of “class of securities” for “class of stock” and “unit” for “share” in two places in item (8).
+    Subsec. (d). [Pub. L. 91–547][/us/pl/91/547], § 5(d), reenacted provisions except for substitution of “interested persons” for “affiliated persons” in introductory text, deletion of “such investment adviser” before “is engaged” in item (2), and substitution of “class of securities” for “class of stock” and “unit” for “share” in two places in item (8).
 
  __Effective Date of 1999 Amendment__ 
 
@@ -129,13 +129,13 @@
 [/us/usc/t15/s80a–15/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9315%2Ff%2F1
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F806
-[/us/pl/91/547/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs5
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1416
-[/us/pl/94/29/s28/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs28%2F5
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F165
-[/us/pl/106/102/s213/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs213%2Fc
+[/us/pl/106/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtII
 [/us/stat/113/1398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1398
-[/us/pl/109/351/s401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs401%2Fc
+[/us/pl/109/351/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtIV
 [/us/stat/120/1973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1973
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
 [/us/usc/t12/s1467a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1467a
@@ -143,11 +143,11 @@
 [/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/usc/t15/s80a–15/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9315%2Ff%2F1
-[/us/pl/91/547/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs5%2Fa
-[/us/pl/91/547/s5/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs5%2Fb%2F1
-[/us/pl/91/547/s5/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs5%2Fb%2F2
-[/us/pl/91/547/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs5%2Fc
-[/us/pl/91/547/s5/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs5%2Fd
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/pl/106/102/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs225
 [/us/usc/t15/s77c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77c

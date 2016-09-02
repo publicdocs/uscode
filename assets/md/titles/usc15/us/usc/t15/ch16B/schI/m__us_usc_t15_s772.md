@@ -53,13 +53,13 @@
 
         Any failure to make information available to the Administrator under subsection (b), any failure to comply with any general or special order under subsection (c), or any failure to allow the Administrator to act under subsection (d) shall be subject to the same penalties as any violation of [section 796 of this title][/us/usc/t15/s796] or any rule, regulation, or order issued under such section.
 
-([Pub. L. 93–275, § 13][/us/pl/93/275/s13], May 7, 1974, [88 Stat. 107][/us/stat/88/107]; [Pub. L. 94–385, title I][/us/pl/94/385], §§ 107, 108, Aug. 14, 1976, [90 Stat. 1129][/us/stat/90/1129].)
+([Pub. L. 93–275][/us/pl/93/275], § 13, May 7, 1974, [88 Stat. 107][/us/stat/88/107]; [Pub. L. 94–385, title I][/us/pl/94/385/tI], §§ 107, 108, Aug. 14, 1976, [90 Stat. 1129][/us/stat/90/1129].)
 
  __Amendments__ 
 
-    1976—Subsecs. (g), (h). [Pub. L. 94–385, § 107][/us/pl/94/385/s107], added subsecs. (g) and (h).
+    1976—Subsecs. (g), (h). [Pub. L. 94–385][/us/pl/94/385], § 107, added subsecs. (g) and (h).
 
-    Subsec. (i). [Pub. L. 94–385, § 108][/us/pl/94/385/s108], added subsec. (i).
+    Subsec. (i). [Pub. L. 94–385][/us/pl/94/385], § 108, added subsec. (i).
 
  __Transfer of Functions__ 
 
@@ -73,11 +73,11 @@
 ----------
 
 [/us/usc/t15/s796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs796
-[/us/pl/93/275/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs13
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F107
-[/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
+[/us/pl/94/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtI
 [/us/stat/90/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1129
-[/us/pl/94/385/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs107
-[/us/pl/94/385/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs108
+[/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
+[/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
 
 

@@ -31,7 +31,7 @@
 
         (5) a description of the actions taken by the Interagency Committee to coordinate the budget review process in order to ensure interagency coordination and cooperation in (A) carrying out Federal Arctic research programs, and (B) eliminating unnecessary duplication of effort among these programs.
 
-([Pub. L. 98–373, title I, § 109][/us/pl/98/373/s109], July 31, 1984, [98 Stat. 1247][/us/stat/98/1247].)
+([Pub. L. 98–373, title I][/us/pl/98/373/tI], § 109, July 31, 1984, [98 Stat. 1247][/us/stat/98/1247].)
 
  __Termination of Reporting Requirements__ 
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/98/373/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs109
+[/us/pl/98/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtI
 [/us/stat/98/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1247
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554

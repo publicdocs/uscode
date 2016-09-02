@@ -19,7 +19,7 @@
 
     (b) Any person who violates this section shall be liable to the same extent and in the same manner as a debt collector is liable under [section 1692k of this title][/us/usc/t15/s1692k] for failure to comply with a provision of this subchapter.
 
-([Pub. L. 90–321, title VIII, § 812][/us/pl/90/321/s812], as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 880][/us/stat/91/880].)
+([Pub. L. 90–321, title VIII][/us/pl/90/321/tVIII], § 812, as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 880][/us/stat/91/880].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t15/s1692k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1692k
-[/us/pl/90/321/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs812
+[/us/pl/90/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVIII
 [/us/pl/95/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F109
 [/us/stat/91/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F880
 

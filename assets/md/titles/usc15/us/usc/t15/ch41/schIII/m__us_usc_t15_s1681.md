@@ -31,11 +31,11 @@
 
         It is the purpose of this subchapter to require that consumer reporting agencies adopt reasonable procedures for meeting the needs of commerce for consumer credit, personnel, insurance, and other information in a manner which is fair and equitable to the consumer, with regard to the confidentiality, accuracy, relevancy, and proper utilization of such information in accordance with the requirements of this subchapter.
 
-([Pub. L. 90–321, title VI, § 602][/us/pl/90/321/s602], as added [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1128][/us/stat/84/1128].)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 602, as added [Pub. L. 91–508, title VI][/us/pl/91/508/tVI], § 601, Oct. 26, 1970, [84 Stat. 1128][/us/stat/84/1128].)
 
  __Effective Date of 2003 Amendment__ 
 
-[Pub. L. 108–159, § 3][/us/pl/108/159/s3], Dec. 4, 2003, [117 Stat. 1953][/us/stat/117/1953], provided that: 
+[Pub. L. 108–159][/us/pl/108/159], § 3, Dec. 4, 2003, [117 Stat. 1953][/us/stat/117/1953], provided that: 
 
 > “Except as otherwise specifically provided in this Act \[see Short Title of 2003 Amendment note set out under [section 1601 of this title][/us/usc/t15/s1601]\] and the amendments made by this Act—
 
@@ -47,7 +47,7 @@
 
  __Effective Date__ 
 
-[Section 504(d) of Pub. L. 90–321][/us/pl/90/321/s504/d], as added by [Pub. L. 91–508, title VI, § 602][/us/pl/91/508/s602], Oct. 26, 1970, [84 Stat. 1136][/us/stat/84/1136], provided that: 
+[Section 504(d) of Pub. L. 90–321][/us/pl/90/321/s504/d], as added by [Pub. L. 91–508, title VI][/us/pl/91/508/tVI], § 602, Oct. 26, 1970, [84 Stat. 1136][/us/stat/84/1136], provided that: 
 
 > “Title VI \[enacting this subchapter\] takes effect upon the expiration of one hundred and eighty days following the date of its enactment \[Oct. 26, 1970\].”
 
@@ -57,7 +57,7 @@
 
  __Study of Effects of Credit Scores and Credit-Based Insurance Scores on Availability and Affordability of Financial Products__ 
 
-[Pub. L. 108–159, title II, § 215][/us/pl/108/159/s215], Dec. 4, 2003, [117 Stat. 1984][/us/stat/117/1984], provided that:
+[Pub. L. 108–159, title II][/us/pl/108/159/tII], § 215, Dec. 4, 2003, [117 Stat. 1984][/us/stat/117/1984], provided that:
 
 >     “(a)  __Study Required__  __.—__ 
 
@@ -87,7 +87,7 @@
 
  __FTC Study of Issues Relating to the Fair Credit Reporting Act__ 
 
-[Pub. L. 108–159, title III, § 318][/us/pl/108/159/s318], Dec. 4, 2003, [117 Stat. 1998][/us/stat/117/1998], provided that:
+[Pub. L. 108–159, title III][/us/pl/108/159/tIII], § 318, Dec. 4, 2003, [117 Stat. 1998][/us/stat/117/1998], provided that:
 
 >     “(a) __Study Required.—__ 
 
@@ -145,7 +145,7 @@
 
  __FTC Study of the Accuracy of Consumer Reports__ 
 
-[Pub. L. 108–159, title III, § 319][/us/pl/108/159/s319], Dec. 4, 2003, [117 Stat. 1999][/us/stat/117/1999], provided that:
+[Pub. L. 108–159, title III][/us/pl/108/159/tIII], § 319, Dec. 4, 2003, [117 Stat. 1999][/us/stat/117/1999], provided that:
 
 >     “(a)  __Study Required__  __.—__ 
 
@@ -167,7 +167,7 @@
 
  __Definitions__ 
 
-[Pub. L. 108–159, § 2][/us/pl/108/159/s2], Dec. 4, 2003, [117 Stat. 1953][/us/stat/117/1953], provided that: 
+[Pub. L. 108–159][/us/pl/108/159], § 2, Dec. 4, 2003, [117 Stat. 1953][/us/stat/117/1953], provided that: 
 
 > “As used in this Act \[see Short Title of 2003 Amendment note set out under [section 1601 of this title][/us/usc/t15/s1601]\]—
 
@@ -186,26 +186,26 @@
 ----------
 ----------
 
-[/us/pl/90/321/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs602
-[/us/pl/91/508/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs601
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/91/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtVI
 [/us/stat/84/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1128
-[/us/pl/108/159/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs3
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
 [/us/stat/117/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1953
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
 [/us/pl/90/321/s504/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs504%2Fd
-[/us/pl/91/508/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs602
+[/us/pl/91/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtVI
 [/us/stat/84/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1136
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/108/159/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs215
+[/us/pl/108/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtII
 [/us/stat/117/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1984
 [/us/usc/t15/s1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1691
-[/us/pl/108/159/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs318
+[/us/pl/108/159/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtIII
 [/us/stat/117/1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1998
 [/us/usc/t15/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681
-[/us/pl/108/159/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs319
+[/us/pl/108/159/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtIII
 [/us/stat/117/1999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1999
-[/us/pl/108/159/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs2
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
 [/us/stat/117/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1953
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/usc/t20/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9701

@@ -17,7 +17,7 @@
 
     Not later than 180 days after March 11, 2003, the Federal Communications Commission shall issue a final rule pursuant to the rulemaking proceeding that it began on September 18, 2002, under the Telephone Consumer Protection Act ([47 U.S.C. 227][/us/usc/t47/s227] et seq.). In issuing such rule, the Federal Communications Commission shall consult and coordinate with the Federal Trade Commission to maximize consistency with the rule promulgated by the Federal Trade Commission (16 CFR 310.4(b)).
 
-([Pub. L. 108–10, § 3][/us/pl/108/10/s3], Mar. 11, 2003, [117 Stat. 557][/us/stat/117/557].)
+([Pub. L. 108–10][/us/pl/108/10], § 3, Mar. 11, 2003, [117 Stat. 557][/us/stat/117/557].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t47/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft47%2Fs227
-[/us/pl/108/10/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F10%2Fs3
+[/us/pl/108/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F10
 [/us/stat/117/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F557
 [/us/pl/102/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F243
 [/us/stat/105/2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2394

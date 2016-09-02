@@ -35,7 +35,7 @@
 
         When contracting and otherwise using Federal funds to conduct demonstrations under this chapter, the Secretary of Energy shall seek cost-sharing with others to the maximum extent practical. During the first 2 years of demonstration activities the Secretary of Energy may enter into procurement or lease contracts for purposes of carrying out demonstrations under this chapter without regard to the provisions of chapter 83 of title 41.
 
-([Pub. L. 94–413, § 8][/us/pl/94/413/s8], Sept. 17, 1976, [90 Stat. 1266][/us/stat/90/1266]; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577]; [Pub. L. 95–238, title VI, § 602][/us/pl/95/238/s602], Feb. 25, 1978, [92 Stat. 92][/us/stat/92/92].)
+([Pub. L. 94–413][/us/pl/94/413], § 8, Sept. 17, 1976, [90 Stat. 1266][/us/stat/90/1266]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577]; [Pub. L. 95–238, title VI][/us/pl/95/238/tVI], § 602, Feb. 25, 1978, [92 Stat. 92][/us/stat/92/92].)
 
  __References in Text__ 
 
@@ -47,9 +47,9 @@
 
     In subsec. (b), the words “the Federal Energy Administration,” which followed “Environmental Protection Agency,” have been omitted from the Code in view of the termination of the Federal Energy Administration and the transfer of the functions of the Administration to the Secretary of Energy pursuant to sections 301(a) and 703 of [Pub. L. 95–91][/us/pl/95/91] which are classified to sections 7151(a) and 7293 of Title 42, The Public Health and Welfare. This transfer would result in this phrase being redundant in that it would provide for the Secretary of Energy to consult with the Secretary of Energy.
 
-    In subsec. (c), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (e), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 ([47 Stat. 1520][/us/stat/47/1520]; [41 U.S.C. 10a–10c][/us/usc/t41/s10a–10c])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (e), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 ([47 Stat. 1520][/us/stat/47/1520]; [41 U.S.C. 10a–10c][/us/usc/t41/s10a–10c])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -72,11 +72,11 @@
 [/us/usc/t42/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5801
 [/us/pl/93/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F577
 [/us/usc/t42/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5901
-[/us/pl/94/413/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F413%2Fs8
+[/us/pl/94/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F413
 [/us/stat/90/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1266
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
-[/us/pl/95/238/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs602
+[/us/pl/95/238/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtVI
 [/us/stat/92/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F92
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438
 [/us/pl/93/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F438
@@ -89,11 +89,11 @@
 [/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/stat/47/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1520
 [/us/usc/t41/s10a–10c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10a%E2%80%9310c
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
 [/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa

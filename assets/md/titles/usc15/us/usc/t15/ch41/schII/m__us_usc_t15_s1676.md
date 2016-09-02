@@ -17,7 +17,7 @@
 
     The Secretary of Labor, acting through the Wage and Hour Division of the Department of Labor, shall enforce the provisions of this subchapter.
 
-([Pub. L. 90–321, title III, § 306][/us/pl/90/321/s306], May 29, 1968, [82 Stat. 164][/us/stat/82/164].)
+([Pub. L. 90–321, title III][/us/pl/90/321/tIII], § 306, May 29, 1968, [82 Stat. 164][/us/stat/82/164].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/321/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs306
+[/us/pl/90/321/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIII
 [/us/stat/82/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F164
 
 

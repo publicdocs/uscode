@@ -31,7 +31,7 @@
 
         From sums otherwise authorized to be appropriated, there are authorized to be appropriated to the National Science Foundation for the purposes of the Program $213,000,000 for fiscal year 1992; $262,000,000 for fiscal year 1993; $305,000,000 for fiscal year 1994; $354,000,000 for fiscal year 1995; and $413,000,000 for fiscal year 1996.
 
-([Pub. L. 102–194, title II, § 201][/us/pl/102/194/s201], Dec. 9, 1991, [105 Stat. 1599][/us/stat/105/1599].)
+([Pub. L. 102–194, title II][/us/pl/102/194/tII], § 201, Dec. 9, 1991, [105 Stat. 1599][/us/stat/105/1599].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/102/194/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2Fs201
+[/us/pl/102/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2FtII
 [/us/stat/105/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1599
 
 

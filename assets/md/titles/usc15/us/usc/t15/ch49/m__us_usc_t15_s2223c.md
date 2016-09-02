@@ -17,7 +17,7 @@
 
     The working group established under [section 2223b of this title][/us/usc/t15/s2223b] shall, within 1 year after October 22, 1990, submit a report to the Administrator and to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate presenting the results of the review carried out under sections 2223a to 2223e of this title, along with recommendations to ensure that response information disseminated to emergency response personnel is appropriate for operational personnel at the local level.
 
-([Pub. L. 101–446, § 4][/us/pl/101/446/s4], Oct. 22, 1990, [104 Stat. 1045][/us/stat/104/1045].)
+([Pub. L. 101–446][/us/pl/101/446], § 4, Oct. 22, 1990, [104 Stat. 1045][/us/stat/104/1045].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t15/s2223b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2223b
-[/us/pl/101/446/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F446%2Fs4
+[/us/pl/101/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F446
 [/us/stat/104/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1045
 
 

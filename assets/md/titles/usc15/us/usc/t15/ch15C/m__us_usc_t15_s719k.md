@@ -23,7 +23,7 @@
 
         The State of Alaska is authorized to ship its royalty gas on the approved transportation system for use within Alaska and, to the extent its contracts for the sale of royalty gas so provide, to withdraw such gas from the interstate market for use within Alaska; the Federal Power Commission shall issue all authorizations necessary to effectuate such shipment and withdrawal subject to review by the Commission only of the justness and reasonableness of the rate charged for such transportation.
 
-([Pub. L. 94–586, § 13][/us/pl/94/586/s13], Oct. 22, 1976, [90 Stat. 2915][/us/stat/90/2915].)
+([Pub. L. 94–586][/us/pl/94/586], § 13, Oct. 22, 1976, [90 Stat. 2915][/us/stat/90/2915].)
 
  __Transfer of Functions__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t15/s719g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719g
-[/us/pl/94/586/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586%2Fs13
+[/us/pl/94/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586
 [/us/stat/90/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2915
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e

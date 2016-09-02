@@ -17,7 +17,7 @@
 
     The National Science Foundation shall promote fundamental research in pursuance of the goals of this chapter.
 
-([Pub. L. 100–697, § 6][/us/pl/100/697/s6], Nov. 19, 1988, [102 Stat. 4615][/us/stat/102/4615].)
+([Pub. L. 100–697][/us/pl/100/697], § 6, Nov. 19, 1988, [102 Stat. 4615][/us/stat/102/4615].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/697/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F697%2Fs6
+[/us/pl/100/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F697
 [/us/stat/102/4615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4615
 
 

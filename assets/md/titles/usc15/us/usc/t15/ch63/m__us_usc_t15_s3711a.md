@@ -81,7 +81,7 @@
 
         The Secretary shall prepare and submit to the President and the Congress, within 3 years after August 20, 1987, a report on the progress, findings, and conclusions of activities conducted pursuant to this section along with recommendations for possible modifications thereof.
 
-([Pub. L. 96–480, § 17][/us/pl/96/480/s17], formerly § 16, as added [Pub. L. 100–107, § 3(a)][/us/pl/100/107/s3/a], Aug. 20, 1987, [101 Stat. 725][/us/stat/101/725]; renumbered § 17 and amended [Pub. L. 100–418, title V][/us/pl/100/418], §§ 5115(b)(2)(A), 5122(a)(1), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433], 1438; [Pub. L. 102–245, title III, § 305][/us/pl/102/245/s305], Feb. 14, 1992, [106 Stat. 20][/us/stat/106/20]; [Pub. L. 105–309, § 3][/us/pl/105/309/s3], Oct. 30, 1998, [112 Stat. 2935][/us/stat/112/2935]; [Pub. L. 108–320, § 1][/us/pl/108/320/s1], Oct. 5, 2004, [118 Stat. 1213][/us/stat/118/1213]; [Pub. L. 110–69, title III, § 3010][/us/pl/110/69/s3010], Aug. 9, 2007, [121 Stat. 592][/us/stat/121/592].)
+([Pub. L. 96–480][/us/pl/96/480], § 17, formerly § 16, as added [Pub. L. 100–107][/us/pl/100/107], § 3(a), Aug. 20, 1987, [101 Stat. 725][/us/stat/101/725]; renumbered § 17 and amended [Pub. L. 100–418, title V][/us/pl/100/418/tV], §§ 5115(b)(2)(A), 5122(a)(1), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433], 1438; [Pub. L. 102–245, title III][/us/pl/102/245/tIII], § 305, Feb. 14, 1992, [106 Stat. 20][/us/stat/106/20]; [Pub. L. 105–309][/us/pl/105/309], § 3, Oct. 30, 1998, [112 Stat. 2935][/us/stat/112/2935]; [Pub. L. 108–320][/us/pl/108/320], § 1, Oct. 5, 2004, [118 Stat. 1213][/us/stat/118/1213]; [Pub. L. 110–69, title III][/us/pl/110/69/tIII], § 3010, Aug. 9, 2007, [121 Stat. 592][/us/stat/121/592].)
 
  __Amendments__ 
 
@@ -89,17 +89,17 @@
 
     2004—Subsec. (c)(1)(F). [Pub. L. 108–320][/us/pl/108/320] added subpar. (F).
 
-    1998—Subsec. (c)(1)(D), (E). [Pub. L. 105–309, § 3(b)][/us/pl/105/309/s3/b], added subpars. (D) and (E).
+    1998—Subsec. (c)(1)(D), (E). [Pub. L. 105–309][/us/pl/105/309], § 3(b), added subpars. (D) and (E).
 
-    Subsec. (c)(3). [Pub. L. 105–309, § 3(a)][/us/pl/105/309/s3/a], inserted “, unless the Secretary determines that a third award is merited and can be given at no additional cost to the Federal Government” after “in any year”.
+    Subsec. (c)(3). [Pub. L. 105–309][/us/pl/105/309], § 3(a), inserted “, unless the Secretary determines that a third award is merited and can be given at no additional cost to the Federal Government” after “in any year”.
 
     1992—Subsec. (f). [Pub. L. 102–245][/us/pl/102/245] inserted at end “The Director is authorized to use appropriated funds to carry out responsibilities under this chapter.”
 
-    1988—Subsecs. (d), (e). [Pub. L. 100–418, § 5115(b)(2)(A)][/us/pl/100/418/s5115/b/2/A], substituted “National Institute of Standards and Technology” for “National Bureau of Standards” wherever appearing.
+    1988—Subsecs. (d), (e). [Pub. L. 100–418][/us/pl/100/418], § 5115(b)(2)(A), substituted “National Institute of Standards and Technology” for “National Bureau of Standards” wherever appearing.
 
  __Findings and Purposes__ 
 
-[Pub. L. 100–107, § 2][/us/pl/100/107/s2], Aug. 20, 1987, [101 Stat. 724][/us/stat/101/724], provided that:
+[Pub. L. 100–107][/us/pl/100/107], § 2, Aug. 20, 1987, [101 Stat. 724][/us/stat/101/724], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -142,26 +142,26 @@
 ----------
 ----------
 
-[/us/pl/96/480/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs17
-[/us/pl/100/107/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F107%2Fs3%2Fa
+[/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
+[/us/pl/100/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F107
 [/us/stat/101/725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F725
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
-[/us/pl/102/245/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs305
+[/us/pl/102/245/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtIII
 [/us/stat/106/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F20
-[/us/pl/105/309/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F309%2Fs3
+[/us/pl/105/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F309
 [/us/stat/112/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2935
-[/us/pl/108/320/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F320%2Fs1
+[/us/pl/108/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F320
 [/us/stat/118/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1213
-[/us/pl/110/69/s3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3010
+[/us/pl/110/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIII
 [/us/stat/121/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F592
 [/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 [/us/pl/108/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F320
-[/us/pl/105/309/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F309%2Fs3%2Fb
-[/us/pl/105/309/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F309%2Fs3%2Fa
+[/us/pl/105/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F309
+[/us/pl/105/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F309
 [/us/pl/102/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245
-[/us/pl/100/418/s5115/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fb%2F2%2FA
-[/us/pl/100/107/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F107%2Fs2
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F107
 [/us/stat/101/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F724
 [/us/usc/t15/s3708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3708
 [/us/usc/t15/s3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3701

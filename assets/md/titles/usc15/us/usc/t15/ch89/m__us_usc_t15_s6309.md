@@ -67,17 +67,17 @@
 
         (3) [section 6307b of this title][/us/usc/t15/s6307b] against a boxer acting in his capacity as a boxer.
 
-([Pub. L. 104–272, § 18][/us/pl/104/272/s18], formerly § 10, Oct. 9, 1996, [110 Stat. 3312][/us/stat/110/3312]; renumbered § 18 and amended [Pub. L. 106–210][/us/pl/106/210], §§ 4(1), 6, May 26, 2000, [114 Stat. 322][/us/stat/114/322], 326.)
+([Pub. L. 104–272][/us/pl/104/272], § 18, formerly § 10, Oct. 9, 1996, [110 Stat. 3312][/us/stat/110/3312]; renumbered § 18 and amended [Pub. L. 106–210][/us/pl/106/210], §§ 4(1), 6, May 26, 2000, [114 Stat. 322][/us/stat/114/322], 326.)
 
  __Amendments__ 
 
-    2000—Subsec. (b)(1). [Pub. L. 106–210, § 6(1)][/us/pl/106/210/s6/1], inserted “, other than section 6307a(b), 6307b, 6307c, 6307d, 6307e, 6307f, or 6307h of this title,” after “this chapter”.
+    2000—Subsec. (b)(1). [Pub. L. 106–210][/us/pl/106/210], § 6(1), inserted “, other than section 6307a(b), 6307b, 6307c, 6307d, 6307e, 6307f, or 6307h of this title,” after “this chapter”.
 
-    Subsec. (b)(2). [Pub. L. 106–210, § 6(3)][/us/pl/106/210/s6/3], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (b)(2). [Pub. L. 106–210][/us/pl/106/210], § 6(3), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (b)(3), (4). [Pub. L. 106–210, § 6(2)][/us/pl/106/210/s6/2], (4), redesignated pars. (2) and (3) as (3) and (4), respectively, and in par. (3) substituted “section 6308(a)” for “section 6308”.
+    Subsec. (b)(3), (4). [Pub. L. 106–210][/us/pl/106/210], § 6(2), (4), redesignated pars. (2) and (3) as (3) and (4), respectively, and in par. (3) substituted “section 6308(a)” for “section 6308”.
 
-    Subsecs. (c) to (e). [Pub. L. 106–210, § 6(5)][/us/pl/106/210/s6/5], added subsecs. (c) to (e).
+    Subsecs. (c) to (e). [Pub. L. 106–210][/us/pl/106/210], § 6(5), added subsecs. (c) to (e).
 
 ----------
 
@@ -88,13 +88,13 @@
 
 [/us/usc/t15/s6308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6308%2Fa
 [/us/usc/t15/s6307b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6307b
-[/us/pl/104/272/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs18
+[/us/pl/104/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272
 [/us/stat/110/3312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3312
 [/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 [/us/stat/114/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F322
-[/us/pl/106/210/s6/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs6%2F1
-[/us/pl/106/210/s6/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs6%2F3
-[/us/pl/106/210/s6/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs6%2F2
-[/us/pl/106/210/s6/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs6%2F5
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 
 

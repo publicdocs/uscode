@@ -31,7 +31,7 @@
 
         The neglect or refusal to maintain and so preserve such records is unlawful, and any such manufacturer who neglects or refuses to maintain and so preserve such records shall forfeit to the United States the sum of $100 for each day of such failure, which shall accrue to the United States and be recoverable in a civil action.
 
-([Oct. 14, 1940, ch. 871, § 6][/us/act/1940-10-14/ch871/s6], [54 Stat. 1131][/us/stat/54/1131].)
+([Oct. 14, 1940, ch. 871][/us/act/1940-10-14/ch871], § 6, [54 Stat. 1131][/us/stat/54/1131].)
 
  __Transfer of Functions__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/act/1940-10-14/ch871/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch871%2Fs6
+[/us/act/1940-10-14/ch871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch871
 [/us/stat/54/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1131
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41

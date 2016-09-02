@@ -65,21 +65,21 @@
 
         Except as provided in sections 1681n and 1681o of this title, no consumer may bring any action or proceeding in the nature of defamation, invasion of privacy, or negligence with respect to the reporting of information against any consumer reporting agency, any user of information, or any person who furnishes information to a consumer reporting agency, based on information disclosed pursuant to section 1681g, 1681h, or 1681m of this title, or based on information disclosed by a user of a consumer report to or for a consumer against whom the user has taken adverse action, based in whole or in part on the report  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a comma. </sup></sup>  except as to false information furnished with malice or willful intent to injure such consumer.
 
-([Pub. L. 90–321, title VI, § 610][/us/pl/90/321/s610], as added [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1131][/us/stat/84/1131]; amended [Pub. L. 104–208, div. A, title II, § 2408(e)(1)][/us/pl/104/208/s2408/e/1], (4), (5)(B), Sept. 30, 1996, [110 Stat. 3009–438][/us/stat/110/3009-438], 3009–439.)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 610, as added [Pub. L. 91–508, title VI][/us/pl/91/508/tVI], § 601, Oct. 26, 1970, [84 Stat. 1131][/us/stat/84/1131]; amended [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2408(e)(1), (4), (5)(B), Sept. 30, 1996, [110 Stat. 3009–438][/us/stat/110/3009-438], 3009–439.)
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–208, § 2408(e)(5)(B)][/us/pl/104/208/s2408/e/5/B], inserted “and form” after “Conditions” in section catchline.
+    1996—[Pub. L. 104–208][/us/pl/104/208], § 2408(e)(5)(B), inserted “and form” after “Conditions” in section catchline.
 
-    Subsec. (a). [Pub. L. 104–208, § 2408(e)(1)][/us/pl/104/208/s2408/e/1], inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “A consumer reporting agency shall make the disclosures required under [section 1681g of this title][/us/usc/t15/s1681g] during normal business hours and on reasonable notice.”
+    Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 2408(e)(1), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “A consumer reporting agency shall make the disclosures required under [section 1681g of this title][/us/usc/t15/s1681g] during normal business hours and on reasonable notice.”
 
-    Subsec. (b). [Pub. L. 104–208, § 2408(e)(1)][/us/pl/104/208/s2408/e/1], inserted heading and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “The disclosures required under [section 1681g of this title][/us/usc/t15/s1681g] shall be made to the consumer—
+    Subsec. (b). [Pub. L. 104–208][/us/pl/104/208], § 2408(e)(1), inserted heading and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “The disclosures required under [section 1681g of this title][/us/usc/t15/s1681g] shall be made to the consumer—
 
     “(1) in person if he appears in person and furnishes proper identification; or
 
     “(2) by telephone if he has made a written request, with proper identification, for telephone disclosure and the toll charge, if any, for the telephone call is prepaid by or charged directly to the consumer.”
 
-    Subsec. (e). [Pub. L. 104–208, § 2408(e)(4)][/us/pl/104/208/s2408/e/4], inserted “or based on information disclosed by a user of a consumer report to or for a consumer against whom the user has taken adverse action, based in whole or in part on the report” before “except”.
+    Subsec. (e). [Pub. L. 104–208][/us/pl/104/208], § 2408(e)(4), inserted “or based on information disclosed by a user of a consumer report to or for a consumer against whom the user has taken adverse action, based in whole or in part on the report” before “except”.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -96,17 +96,17 @@
 [/us/usc/t15/s1681g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681g
 [/us/usc/t15/s1681g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681g
 [/us/usc/t15/s1681g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681g
-[/us/pl/90/321/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs610
-[/us/pl/91/508/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs601
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/91/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtVI
 [/us/stat/84/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1131
-[/us/pl/104/208/s2408/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2408%2Fe%2F1
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-438
-[/us/pl/104/208/s2408/e/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2408%2Fe%2F5%2FB
-[/us/pl/104/208/s2408/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2408%2Fe%2F1
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t15/s1681g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681g
-[/us/pl/104/208/s2408/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2408%2Fe%2F1
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t15/s1681g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681g
-[/us/pl/104/208/s2408/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2408%2Fe%2F4
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2420
 [/us/usc/t15/s1681a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a

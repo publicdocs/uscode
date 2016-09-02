@@ -37,7 +37,7 @@
 
             The Commission shall report its findings to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate within 180 days after of  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “of” probably should not appear. </sup></sup>  July 30, 2002, and shall use such findings to revise its rules and regulations as necessary. The report shall include a discussion of regulatory or legislative actions that are recommended or that may be necessary to address concerns identified in the study.
 
-([Pub. L. 107–204, title III, § 308][/us/pl/107/204/s308], July 30, 2002, [116 Stat. 784][/us/stat/116/784]; [Pub. L. 111–203, title IX, § 929B][/us/pl/111/203/s929B], July 21, 2010, [124 Stat. 1852][/us/stat/124/1852].)
+([Pub. L. 107–204, title III][/us/pl/107/204/tIII], § 308, July 30, 2002, [116 Stat. 784][/us/stat/116/784]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 929B, July 21, 2010, [124 Stat. 1852][/us/stat/124/1852].)
 
  __Codification__ 
 
@@ -45,11 +45,11 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 929B(1)][/us/pl/111/203/s929B/1], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “If in any judicial or administrative action brought by the Commission under the securities laws (as such term is defined in [section 78c(a)(47) of this title][/us/usc/t15/s78c/a/47]) the Commission obtains an order requiring disgorgement against any person for a violation of such laws or the rules or regulations thereunder, or such person agrees in settlement of any such action to such disgorgement, and the Commission also obtains pursuant to such laws a civil penalty against such person, the amount of such civil penalty shall, on the motion or at the direction of the Commission, be added to and become part of the disgorgement fund for the benefit of the victims of such violation.”
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 929B(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “If in any judicial or administrative action brought by the Commission under the securities laws (as such term is defined in [section 78c(a)(47) of this title][/us/usc/t15/s78c/a/47]) the Commission obtains an order requiring disgorgement against any person for a violation of such laws or the rules or regulations thereunder, or such person agrees in settlement of any such action to such disgorgement, and the Commission also obtains pursuant to such laws a civil penalty against such person, the amount of such civil penalty shall, on the motion or at the direction of the Commission, be added to and become part of the disgorgement fund for the benefit of the victims of such violation.”
 
-    Subsec. (b). [Pub. L. 111–203, § 929B(2)][/us/pl/111/203/s929B/2], substituted “for a disgorgement fund or other fund described in subsection (a)” for “for a disgorgement fund described in subsection (a)” and “in such fund” for “in the disgorgement fund”.
+    Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 929B(2), substituted “for a disgorgement fund or other fund described in subsection (a)” for “for a disgorgement fund described in subsection (a)” and “in such fund” for “in the disgorgement fund”.
 
-    Subsec. (e). [Pub. L. 111–203, § 929B(3)][/us/pl/111/203/s929B/3], struck out subsec. (e). Text read as follows: “As used in this section, the term ‘disgorgement fund’ means a fund established in any administrative or judicial proceeding described in subsection (a) of this section.”
+    Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 929B(3), struck out subsec. (e). Text read as follows: “As used in this section, the term ‘disgorgement fund’ means a fund established in any administrative or judicial proceeding described in subsection (a) of this section.”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -62,16 +62,16 @@
 ----------
 ----------
 
-[/us/pl/107/204/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs308
+[/us/pl/107/204/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtIII
 [/us/stat/116/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F784
-[/us/pl/111/203/s929B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929B
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1852
 [/us/pl/107/204/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs308
 [/us/pl/107/204/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs308
-[/us/pl/111/203/s929B/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929B%2F1
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78c/a/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F47
-[/us/pl/111/203/s929B/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929B%2F2
-[/us/pl/111/203/s929B/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929B%2F3
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

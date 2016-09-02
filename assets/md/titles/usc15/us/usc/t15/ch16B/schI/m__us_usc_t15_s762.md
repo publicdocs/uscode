@@ -17,7 +17,7 @@
 
     There is hereby established an independent agency in the executive branch to be known as the Federal Energy Administration (hereinafter in this chapter referred to as the “Administration”).
 
-([Pub. L. 93–275, § 3][/us/pl/93/275/s3], May 7, 1974, [88 Stat. 97][/us/stat/88/97].)
+([Pub. L. 93–275][/us/pl/93/275], § 3, May 7, 1974, [88 Stat. 97][/us/stat/88/97].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/275/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs3
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F97
 
 

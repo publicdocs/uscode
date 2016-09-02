@@ -109,23 +109,23 @@
 
         Any resignation of an indenture trustee shall become effective only upon the appointment of a successor trustee and such successor’s acceptance of such an appointment.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 310, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1157][/us/stat/53/1157]; amended [Pub. L. 101–550, title IV][/us/pl/101/550], §§ 406–408, Nov. 15, 1990, [104 Stat. 2723][/us/stat/104/2723], 2724; [Pub. L. 111–203, title IX, § 986(b)(3)][/us/pl/111/203/s986/b/3], July 21, 2010, [124 Stat. 1936][/us/stat/124/1936].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 310, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1157][/us/stat/53/1157]; amended [Pub. L. 101–550, title IV][/us/pl/101/550/tIV], §§ 406–408, Nov. 15, 1990, [104 Stat. 2723][/us/stat/104/2723], 2724; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 986(b)(3), July 21, 2010, [124 Stat. 1936][/us/stat/124/1936].)
 
  __Amendments__ 
 
     2010—Subsec. (c). [Pub. L. 111–203][/us/pl/111/203] struck out subsec. (c). Text read as follows: “The Public Utility Holding Company Act of 1935 shall not be held to establish or authorize the establishment of any standards regarding the eligibility and qualifications of any trustee or prospective trustee under an indenture to be qualified under this subchapter, or regarding the provisions to be included in any such indenture with respect to the eligibility and qualifications of the trustee thereunder, other than those established by the provisions of this section.”
 
-    1990—Subsec. (a)(1). [Pub. L. 101–550, § 406(1)][/us/pl/101/550/s406/1]–(4), substituted “There shall” for “The indenture to be qualified shall require that there shall”, and “under every indenture qualified or to be qualified pursuant to this subchapter” for “thereunder”, inserted “or a corporation or other person permitted to act as trustee by the Commission” before “(referred to”, and inserted at end “The Commission may, pursuant to such rules and regulations as it may prescribe, or by order on application, permit a corporation or other person organized and doing business under the laws of a foreign government to act as sole trustee under an indenture qualified or to be qualified pursuant to this subchapter, if such corporation or other person (i) is authorized under such laws to exercise corporate trust powers, and (ii) is subject to supervision or examination by authority of such foreign government or a political subdivision thereof substantially equivalent to supervision or examination applicable to United States institutional trustees. In prescribing such rules and regulations or making such order, the Commission shall consider whether under such laws, a United States institutional trustee is eligible to act as sole trustee under an indenture relating to securities sold within the jurisdiction of such foreign government.”
+    1990—Subsec. (a)(1). [Pub. L. 101–550][/us/pl/101/550], § 406(1)–(4), substituted “There shall” for “The indenture to be qualified shall require that there shall”, and “under every indenture qualified or to be qualified pursuant to this subchapter” for “thereunder”, inserted “or a corporation or other person permitted to act as trustee by the Commission” before “(referred to”, and inserted at end “The Commission may, pursuant to such rules and regulations as it may prescribe, or by order on application, permit a corporation or other person organized and doing business under the laws of a foreign government to act as sole trustee under an indenture qualified or to be qualified pursuant to this subchapter, if such corporation or other person (i) is authorized under such laws to exercise corporate trust powers, and (ii) is subject to supervision or examination by authority of such foreign government or a political subdivision thereof substantially equivalent to supervision or examination applicable to United States institutional trustees. In prescribing such rules and regulations or making such order, the Commission shall consider whether under such laws, a United States institutional trustee is eligible to act as sole trustee under an indenture relating to securities sold within the jurisdiction of such foreign government.”
 
-    Subsec. (a)(2). [Pub. L. 101–550, § 406(5)][/us/pl/101/550/s406/5], which directed the substitution of “Such institution” for “The indenture to be qualified shall require that such institution”, was executed by making the substitution for “The indenture to be qualified shall require that such institutional”, as the probable intent of Congress.
+    Subsec. (a)(2). [Pub. L. 101–550][/us/pl/101/550], § 406(5), which directed the substitution of “Such institution” for “The indenture to be qualified shall require that such institution”, was executed by making the substitution for “The indenture to be qualified shall require that such institutional”, as the probable intent of Congress.
 
-    Subsec. (a)(3). [Pub. L. 101–550, § 406(6)][/us/pl/101/550/s406/6], struck out “such indenture shall provide that” before “the rights”.
+    Subsec. (a)(3). [Pub. L. 101–550][/us/pl/101/550], § 406(6), struck out “such indenture shall provide that” before “the rights”.
 
-    Subsec. (a)(4). [Pub. L. 101–550, § 406(7)][/us/pl/101/550/s406/7], (8), struck out “the indenture to be qualified shall require that” before “the indenture” and inserted “shall” after “trustee or trustees”.
+    Subsec. (a)(4). [Pub. L. 101–550][/us/pl/101/550], § 406(7), (8), struck out “the indenture to be qualified shall require that” before “the indenture” and inserted “shall” after “trustee or trustees”.
 
-    Subsec. (a)(5). [Pub. L. 101–550, § 407][/us/pl/101/550/s407], added par. (5).
+    Subsec. (a)(5). [Pub. L. 101–550][/us/pl/101/550], § 407, added par. (5).
 
-    Subsec. (b). [Pub. L. 101–550, § 408][/us/pl/101/550/s408], amended subsec. (b) generally.
+    Subsec. (b). [Pub. L. 101–550][/us/pl/101/550], § 408, amended subsec. (b) generally.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -150,17 +150,17 @@
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/act/1939-08-03/ch411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-03%2Fch411
 [/us/stat/53/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1157
-[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtIV
 [/us/stat/104/2723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2723
-[/us/pl/111/203/s986/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs986%2Fb%2F3
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1936
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/101/550/s406/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs406%2F1
-[/us/pl/101/550/s406/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs406%2F5
-[/us/pl/101/550/s406/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs406%2F6
-[/us/pl/101/550/s406/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs406%2F7
-[/us/pl/101/550/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs407
-[/us/pl/101/550/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs408
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

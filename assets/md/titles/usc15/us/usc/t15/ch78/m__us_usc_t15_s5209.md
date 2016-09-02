@@ -27,7 +27,7 @@
 
         The Director of the Office of Science and Technology Policy, in collaboration with the Secretary of Commerce and the Secretary of Energy, shall identify those Federal policies and regulations which impede the ability of the private sector to undertake long-term investment programs to commercialize superconductivity applications.
 
-([Pub. L. 100–697, § 10][/us/pl/100/697/s10], Nov. 19, 1988, [102 Stat. 4616][/us/stat/102/4616].)
+([Pub. L. 100–697][/us/pl/100/697], § 10, Nov. 19, 1988, [102 Stat. 4616][/us/stat/102/4616].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/100/697/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F697%2Fs10
+[/us/pl/100/697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F697
 [/us/stat/102/4616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4616
 
 

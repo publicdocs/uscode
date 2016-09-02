@@ -31,15 +31,15 @@
 
         (2) continue steel research and development initiative efforts begun under title II of the Interior and Related Agencies portion of the joint resolution entitled “Joint Resolution making further continuing appropriations for the fiscal year 1986, and for other purposes”, approved December 19, 1985 ([Public Law 99–190][/us/pl/99/190]).
 
-([Pub. L. 100–680, § 2][/us/pl/100/680/s2], Nov. 17, 1988, [102 Stat. 4073][/us/stat/102/4073].)
+([Pub. L. 100–680][/us/pl/100/680], § 2, Nov. 17, 1988, [102 Stat. 4073][/us/stat/102/4073].)
 
  __References in Text__ 
 
-    Title II of the Interior and Related Agencies portion of the joint resolution entitled “Joint Resolution making further continuing appropriations for the fiscal year 1986, and for other purposes”, approved December 19, 1985 ([Public Law 99–190][/us/pl/99/190]), referred to in subsec. (b)(2), is [Pub. L. 99–190, § 101(d)][/us/pl/99/190/s101/d] \[title II\], Dec. 19, 1985, [99 Stat. 1224][/us/stat/99/1224], 1244. The provisions relating to steel research and development are not classified to the Code.
+    Title II of the Interior and Related Agencies portion of the joint resolution entitled “Joint Resolution making further continuing appropriations for the fiscal year 1986, and for other purposes”, approved December 19, 1985 ([Public Law 99–190][/us/pl/99/190]), referred to in subsec. (b)(2), is [Pub. L. 99–190][/us/pl/99/190], § 101(d) \[title II\], Dec. 19, 1985, [99 Stat. 1224][/us/stat/99/1224], 1244. The provisions relating to steel research and development are not classified to the Code.
 
  __Short Title__ 
 
-[Pub. L. 100–680, § 1][/us/pl/100/680/s1], Nov. 17, 1988, [102 Stat. 4073][/us/stat/102/4073], provided that: 
+[Pub. L. 100–680][/us/pl/100/680], § 1, Nov. 17, 1988, [102 Stat. 4073][/us/stat/102/4073], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Steel and Aluminum Energy Conservation and Technology Competitiveness Act of 1988’.”
 
@@ -51,12 +51,12 @@
 ----------
 
 [/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
-[/us/pl/100/680/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F680%2Fs2
+[/us/pl/100/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F680
 [/us/stat/102/4073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4073
 [/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
-[/us/pl/99/190/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fd
+[/us/pl/99/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190
 [/us/stat/99/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1224
-[/us/pl/100/680/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F680%2Fs1
+[/us/pl/100/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F680
 [/us/stat/102/4073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4073
 
 

@@ -73,7 +73,7 @@
 
     (15) study the effects of materials availability upon productivity growth.
 
-([Pub. L. 94–136, title II, § 204][/us/pl/94/136/s204], Nov. 28, 1975, [89 Stat. 737][/us/stat/89/737]; 1978 Reorg. Plan No. 2, § 102, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
+([Pub. L. 94–136, title II][/us/pl/94/136/tII], § 204, Nov. 28, 1975, [89 Stat. 737][/us/stat/89/737]; 1978 Reorg. Plan No. 2, § 102, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783].)
 
  __Transfer of Functions__ 
 
@@ -86,7 +86,7 @@
 ----------
 ----------
 
-[/us/pl/94/136/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2Fs204
+[/us/pl/94/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2FtII
 [/us/stat/89/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F737
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783

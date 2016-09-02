@@ -59,13 +59,13 @@
 
         [Section 693 of this title][/us/usc/t15/s693] shall apply to the administration of this section.
 
-([Pub. L. 85–699, title IV, § 404][/us/pl/85/699/s404], as added [Pub. L. 94–305, title I, § 102][/us/pl/94/305/s102], June 4, 1976, [90 Stat. 663][/us/stat/90/663]; amended [Pub. L. 98–473, title I, § 115][/us/pl/98/473/s115], Oct. 12, 1984, [98 Stat. 1967][/us/stat/98/1967].)
+([Pub. L. 85–699, title IV][/us/pl/85/699/tIV], § 404, as added [Pub. L. 94–305, title I][/us/pl/94/305/tI], § 102, June 4, 1976, [90 Stat. 663][/us/stat/90/663]; amended [Pub. L. 98–473, title I][/us/pl/98/473/tI], § 115, Oct. 12, 1984, [98 Stat. 1967][/us/stat/98/1967].)
 
  __Amendments__ 
 
-    1984—Subsec. (b)(1). [Pub. L. 98–473, § 115(1)][/us/pl/98/473/s115/1], (2), substituted “shall be issued” for “may be issued” and inserted “, and the Administration is expressly prohibited from denying such guarantee due to the property being so acquired”.
+    1984—Subsec. (b)(1). [Pub. L. 98–473][/us/pl/98/473], § 115(1), (2), substituted “shall be issued” for “may be issued” and inserted “, and the Administration is expressly prohibited from denying such guarantee due to the property being so acquired”.
 
-    Subsec. (c). [Pub. L. 98–473, § 115(3)][/us/pl/98/473/s115/3], substituted “be less than 1 per centum or more than 3½ per centum” for “exceed 3½ per centum”.
+    Subsec. (c). [Pub. L. 98–473][/us/pl/98/473], § 115(3), substituted “be less than 1 per centum or more than 3½ per centum” for “exceed 3½ per centum”.
 
 ----------
 
@@ -76,12 +76,12 @@
 
 [/us/usc/t15/s693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs693
 [/us/usc/t15/s693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs693
-[/us/pl/85/699/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs404
-[/us/pl/94/305/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2Fs102
+[/us/pl/85/699/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIV
+[/us/pl/94/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2FtI
 [/us/stat/90/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F663
-[/us/pl/98/473/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs115
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1967
-[/us/pl/98/473/s115/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs115%2F1
-[/us/pl/98/473/s115/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs115%2F3
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 
 

@@ -43,19 +43,19 @@
 
         (3) The term “governmental authority having jurisdiction” means the Federal, State, local, or other governmental entity with statutory or regulatory authority for the approval of fire safety systems, equipment, installations, or procedures within a specified locality.
 
-([Pub. L. 93–498, § 29][/us/pl/93/498/s29], as added [Pub. L. 101–391, § 3(a)][/us/pl/101/391/s3/a], Sept. 25, 1990, [104 Stat. 748][/us/stat/104/748]; amended [Pub. L. 102–522, title I, § 105][/us/pl/102/522/s105], Oct. 26, 1992, [106 Stat. 3411][/us/stat/106/3411]; [Pub. L. 105–108, § 3(1)][/us/pl/105/108/s3/1]–(3), Nov. 20, 1997, [111 Stat. 2264][/us/stat/111/2264].)
+([Pub. L. 93–498][/us/pl/93/498], § 29, as added [Pub. L. 101–391][/us/pl/101/391], § 3(a), Sept. 25, 1990, [104 Stat. 748][/us/stat/104/748]; amended [Pub. L. 102–522, title I][/us/pl/102/522/tI], § 105, Oct. 26, 1992, [106 Stat. 3411][/us/stat/106/3411]; [Pub. L. 105–108][/us/pl/105/108], § 3(1)–(3), Nov. 20, 1997, [111 Stat. 2264][/us/stat/111/2264].)
 
  __Amendments__ 
 
-    1997—Subsec. (a)(1). [Pub. L. 105–108, § 3(1)][/us/pl/105/108/s3/1], inserted “or any successor standard to that standard” after “Association Standard 74”.
+    1997—Subsec. (a)(1). [Pub. L. 105–108][/us/pl/105/108], § 3(1), inserted “or any successor standard to that standard” after “Association Standard 74”.
 
-    Subsec. (a)(2). [Pub. L. 105–108, § 3(2)][/us/pl/105/108/s3/2], inserted “, or any successor standard to that standard” before “, whichever is appropriate,”.
+    Subsec. (a)(2). [Pub. L. 105–108][/us/pl/105/108], § 3(2), inserted “, or any successor standard to that standard” before “, whichever is appropriate,”.
 
-    Subsec. (b)(2). [Pub. L. 105–108, § 3(3)][/us/pl/105/108/s3/3], inserted “, or any successor standard to that standard” after “Association Standard 13 or 13–R”.
+    Subsec. (b)(2). [Pub. L. 105–108][/us/pl/105/108], § 3(3), inserted “, or any successor standard to that standard” after “Association Standard 13 or 13–R”.
 
-    1992—Subsecs. (b) to (d). [Pub. L. 102–522, § 105(a)][/us/pl/102/522/s105/a], added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+    1992—Subsecs. (b) to (d). [Pub. L. 102–522][/us/pl/102/522], § 105(a), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-    Subsec. (d)(3). [Pub. L. 102–522, § 105(b)][/us/pl/102/522/s105/b], added par. (3).
+    Subsec. (d)(3). [Pub. L. 102–522][/us/pl/102/522], § 105(b), added par. (3).
 
 ----------
 
@@ -64,17 +64,17 @@
 ----------
 ----------
 
-[/us/pl/93/498/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs29
-[/us/pl/101/391/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391%2Fs3%2Fa
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
+[/us/pl/101/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391
 [/us/stat/104/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F748
-[/us/pl/102/522/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F522%2Fs105
+[/us/pl/102/522/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F522%2FtI
 [/us/stat/106/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3411
-[/us/pl/105/108/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F108%2Fs3%2F1
+[/us/pl/105/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F108
 [/us/stat/111/2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2264
-[/us/pl/105/108/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F108%2Fs3%2F1
-[/us/pl/105/108/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F108%2Fs3%2F2
-[/us/pl/105/108/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F108%2Fs3%2F3
-[/us/pl/102/522/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F522%2Fs105%2Fa
-[/us/pl/102/522/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F522%2Fs105%2Fb
+[/us/pl/105/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F108
+[/us/pl/105/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F108
+[/us/pl/105/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F108
+[/us/pl/102/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F522
+[/us/pl/102/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F522
 
 

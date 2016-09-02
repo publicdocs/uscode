@@ -75,7 +75,7 @@
 
         The provisions of subsections (e) and (f) of section 10, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  of the Federal Advisory Committee Act shall not apply to the Council.
 
-([Pub. L. 100–418, title V, § 5207][/us/pl/100/418/s5207], Aug. 23, 1988, [102 Stat. 1459][/us/stat/102/1459]; [Pub. L. 101–382, title I, § 133(c)][/us/pl/101/382/s133/c], Aug. 20, 1990, [104 Stat. 649][/us/stat/104/649].)
+([Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5207, Aug. 23, 1988, [102 Stat. 1459][/us/stat/102/1459]; [Pub. L. 101–382, title I][/us/pl/101/382/tI], § 133(c), Aug. 20, 1990, [104 Stat. 649][/us/stat/104/649].)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 
     1990—Subsec. (c). [Pub. L. 101–382][/us/pl/101/382] redesignated subsec. (d) as (c), and substituted “120” for “60”.
 
-    Subsecs. (d) to (i). [Pub. L. 101–382, § 133(c)(1)][/us/pl/101/382/s133/c/1], redesignated subsecs. (e) to (i) as (d) to (h), respectively. Former subsec. (d) redesignated (c).
+    Subsecs. (d) to (i). [Pub. L. 101–382][/us/pl/101/382], § 133(c)(1), redesignated subsecs. (e) to (i) as (d) to (h), respectively. Former subsec. (d) redesignated (c).
 
  __Change of Name__ 
 
@@ -100,13 +100,13 @@
 
 [/us/usc/t15/s4807/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4807%2Fb%2F1%2FB
 [/us/usc/t15/s4807/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4807%2Fb%2F1%2FC
-[/us/pl/100/418/s5207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5207
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1459
-[/us/pl/101/382/s133/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs133%2Fc
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F649
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
-[/us/pl/101/382/s133/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs133%2Fc%2F1
+[/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 
 

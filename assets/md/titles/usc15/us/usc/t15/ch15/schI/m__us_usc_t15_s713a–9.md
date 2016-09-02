@@ -17,7 +17,7 @@
 
     Full reimbursement shall be made to the Commodity Credit Corporation for services performed, losses sustained, operating costs incurred, or commodities purchased or delivered to or on behalf of the Lend-Lease Administration, the Army or Navy, the Board of Economic Warfare, the Reconstruction Finance Corporation, or any other Government agency, from the appropriate funds of these agencies.
 
-([July 16, 1943, ch. 241, § 4][/us/act/1943-07-16/ch241/s4], [57 Stat. 566][/us/stat/57/566].)
+([July 16, 1943, ch. 241][/us/act/1943-07-16/ch241], § 4, [57 Stat. 566][/us/stat/57/566].)
 
  __Transfer of Functions__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1943-07-16/ch241/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-16%2Fch241%2Fs4
+[/us/act/1943-07-16/ch241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-16%2Fch241
 [/us/stat/57/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F566
 [/us/usc/t15/s712a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs712a
 [/us/stat/71/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F647

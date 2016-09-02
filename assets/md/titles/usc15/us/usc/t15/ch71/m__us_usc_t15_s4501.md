@@ -57,7 +57,7 @@
 
         Consistent with the disbursement requirements of this chapter, the Secretary of the Treasury shall provide that amounts described in subsection (a) shall earn interest at the maximum rate earned on investments of Federal trust funds by the Secretary of the Treasury in short-term and long-term securities issued by the Federal Government (including minority bank investments).
 
-([Pub. L. 99–509, title III, § 3002][/us/pl/99/509/s3002], Oct. 21, 1986, [100 Stat. 1881][/us/stat/100/1881].)
+([Pub. L. 99–509, title III][/us/pl/99/509/tIII], § 3002, Oct. 21, 1986, [100 Stat. 1881][/us/stat/100/1881].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
  __Short Title__ 
 
-[Pub. L. 99–509, title III, § 3001][/us/pl/99/509/s3001], Oct. 21, 1986, [100 Stat. 1881][/us/stat/100/1881], provided that: 
+[Pub. L. 99–509, title III][/us/pl/99/509/tIII], § 3001, Oct. 21, 1986, [100 Stat. 1881][/us/stat/100/1881], provided that: 
 
 > “This subtitle \[subtitle A (§§ 3001–3008) of title III of [Pub. L. 99–509][/us/pl/99/509], enacting this chapter\] may be cited as the ‘Petroleum Overcharge Distribution and Restitution Act of 1986’.”
 
@@ -83,7 +83,7 @@
 [/us/usc/t15/s4504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4504
 [/us/usc/t15/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs751
 [/us/pl/97/377/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs155
-[/us/pl/99/509/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs3002
+[/us/pl/99/509/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIII
 [/us/stat/100/1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1881
 [/us/pl/93/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F159
 [/us/stat/87/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F628
@@ -94,7 +94,7 @@
 [/us/pl/97/377/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs155
 [/us/pl/97/377/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs155
 [/us/stat/96/1919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1919
-[/us/pl/99/509/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs3001
+[/us/pl/99/509/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIII
 [/us/stat/100/1881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1881
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 

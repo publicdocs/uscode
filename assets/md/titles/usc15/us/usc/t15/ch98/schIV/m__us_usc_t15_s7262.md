@@ -31,7 +31,7 @@
 
         Subsection (b) shall not apply with respect to any audit report prepared for an issuer that is neither a “large accelerated filer” nor an “accelerated filer” as those terms are defined in Rule 12b–2 of the Commission (17 C.F.R. 240.12b–2).
 
-([Pub. L. 107–204, title IV, § 404][/us/pl/107/204/s404], July 30, 2002, [116 Stat. 789][/us/stat/116/789]; [Pub. L. 111–203, title IX, § 989G(a)][/us/pl/111/203/s989G/a], July 21, 2010, [124 Stat. 1948][/us/stat/124/1948]; [Pub. L. 112–106, title I, § 103][/us/pl/112/106/s103], Apr. 5, 2012, [126 Stat. 310][/us/stat/126/310].)
+([Pub. L. 107–204, title IV][/us/pl/107/204/tIV], § 404, July 30, 2002, [116 Stat. 789][/us/stat/116/789]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 989G(a), July 21, 2010, [124 Stat. 1948][/us/stat/124/1948]; [Pub. L. 112–106, title I][/us/pl/112/106/tI], § 103, Apr. 5, 2012, [126 Stat. 310][/us/stat/126/310].)
 
  __Amendments__ 
 
@@ -51,11 +51,11 @@
 ----------
 
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
-[/us/pl/107/204/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs404
+[/us/pl/107/204/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtIV
 [/us/stat/116/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F789
-[/us/pl/111/203/s989G/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs989G%2Fa
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1948
-[/us/pl/112/106/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs103
+[/us/pl/112/106/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtI
 [/us/stat/126/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F310
 [/us/pl/112/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c

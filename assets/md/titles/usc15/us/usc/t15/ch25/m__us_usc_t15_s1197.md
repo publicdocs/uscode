@@ -23,7 +23,7 @@
 
         It shall be unlawful for any person to furnish, with respect to any product, fabric, or related material, a false guaranty (except a person relying upon a guaranty to the same effect received in good faith signed by and containing the name and address of the person by whom the product, fabric, or related material guaranteed was manufactured or from whom it was received) with reason to believe the product, fabric, or related material falsely guaranteed may be introduced, sold, or transported in commerce, and any person who violates the provisions of this subsection is guilty of an unfair method of competition, and an unfair or deceptive act or practice, in commerce within the meaning of the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\].
 
-([June 30, 1953, ch. 164, § 8][/us/act/1953-06-30/ch164/s8], [67 Stat. 114][/us/stat/67/114]; [Pub. L. 90–189, § 6][/us/pl/90/189/s6], Dec. 14, 1967, [81 Stat. 572][/us/stat/81/572].)
+([June 30, 1953, ch. 164][/us/act/1953-06-30/ch164], § 8, [67 Stat. 114][/us/stat/67/114]; [Pub. L. 90–189][/us/pl/90/189], § 6, Dec. 14, 1967, [81 Stat. 572][/us/stat/81/572].)
 
  __References in Text__ 
 
@@ -51,9 +51,9 @@
 [/us/usc/t15/s1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1193
 [/us/usc/t15/s1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1193
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/act/1953-06-30/ch164/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch164%2Fs8
+[/us/act/1953-06-30/ch164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch164
 [/us/stat/67/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F114
-[/us/pl/90/189/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189%2Fs6
+[/us/pl/90/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189
 [/us/stat/81/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F572
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

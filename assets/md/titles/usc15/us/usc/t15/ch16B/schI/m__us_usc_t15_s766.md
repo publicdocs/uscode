@@ -33,13 +33,13 @@
 
         Judicial review of administrative rulemaking of general and national applicability done under this chapter, except that done pursuant to the Emergency Petroleum Allocation Act of 1973 \[[15 U.S.C. 751][/us/usc/t15/s751] et seq.\], <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  may be obtained only by filing a petition for review in the United States Court of Appeals for the District of Columbia within thirty days from the date of promulgation of any such rule, regulation, or order, and judicial review of administrative rulemaking of general, but less than national, applicability done under this chapter, except that done pursuant to the Emergency Petroleum Allocation Act of 1973, <sup>\[1\]</sup>  may be obtained only by filing a petition for review in the United States Court of Appeals for the appropriate circuit within thirty days from the date of promulgation of any such rule, regulation, or order, the appropriate circuit being defined as the circuit which contains the area or the greater part of the area within which the rule, regulation, or order is to have effect.
 
-    (d) __to (k) Repealed or Redesignated.__  __[__  __Pub. L. 95–91, title VII, § 709(a)(2)(B)__  __][/us/pl/95/91/s709/a/2/B]__  __, (C), (F), (G),__  __Aug. 4, 1977__  __,__  __[__  __91 Stat. 608__  __][/us/stat/91/608]__ 
+    (d) __to (k) Repealed or Redesignated.__  __[__  __Pub. L. 95–91, title VII__  __][/us/pl/95/91/tVII]__  __, § 709(a)(2)(B), (C), (F), (G),__  __Aug. 4, 1977__  __,__  __[__  __91 Stat. 608__  __][/us/stat/91/608]__ 
 
     (l) __Authority and responsibility of General Counsel__ 
 
         Effective beginning July 1, 1977, amounts authorized to be appropriated under this chapter or any other Act shall not be available for the payment of salaries and other expenses with respect to any office of regional counsel of the Administration unless such office is under the direct supervision and control of the General Counsel of the Administration.
 
-([Pub. L. 93–275, § 7][/us/pl/93/275/s7], May 7, 1974, [88 Stat. 100][/us/stat/88/100]; [Pub. L. 94–385, title I][/us/pl/94/385], §§ 103–106, Aug. 14, 1976, [90 Stat. 1127–1129][/us/stat/90/1127-1129]; [Pub. L. 95–70, § 8][/us/pl/95/70/s8], July 21, 1977, [91 Stat. 277][/us/stat/91/277]; [Pub. L. 95–91, title VII, § 709(a)(2)][/us/pl/95/91/s709/a/2], Aug. 4, 1977, [91 Stat. 607][/us/stat/91/607].)
+([Pub. L. 93–275][/us/pl/93/275], § 7, May 7, 1974, [88 Stat. 100][/us/stat/88/100]; [Pub. L. 94–385, title I][/us/pl/94/385/tI], §§ 103–106, Aug. 14, 1976, [90 Stat. 1127–1129][/us/stat/90/1127-1129]; [Pub. L. 95–70][/us/pl/95/70], § 8, July 21, 1977, [91 Stat. 277][/us/stat/91/277]; [Pub. L. 95–91, title VII][/us/pl/95/91/tVII], § 709(a)(2), Aug. 4, 1977, [91 Stat. 607][/us/stat/91/607].)
 
  __References in Text__ 
 
@@ -47,35 +47,35 @@
 
  __Amendments__ 
 
-    1977—Subsec. (a). [Pub. L. 95–91, § 709(a)(2)(A)][/us/pl/95/91/s709/a/2/A], struck out subsec. (a) provisions: for appointment, employment, and compensation of officers and employees; for prescription of their authority and duties; for placement of specified number of positions in GS–16, 17, and 18 and making competitive service provisions inapplicable to a limited number of such positions; and making classification standards and procedures applicable to the authority provided for in this section and for duration of such authority; and redesignated subsec. (c) as (a).
+    1977—Subsec. (a). [Pub. L. 95–91][/us/pl/95/91], § 709(a)(2)(A), struck out subsec. (a) provisions: for appointment, employment, and compensation of officers and employees; for prescription of their authority and duties; for placement of specified number of positions in GS–16, 17, and 18 and making competitive service provisions inapplicable to a limited number of such positions; and making classification standards and procedures applicable to the authority provided for in this section and for duration of such authority; and redesignated subsec. (c) as (a).
 
-    Subsec. (b). [Pub. L. 95–91, § 709(a)(2)(A)][/us/pl/95/91/s709/a/2/A], (C)–(E), struck out subsec. (b) provisions respecting employment and compensation of experts and consultants, redesignated subsec. (i)(1)(D) as (b), and substituted therein “any rule or regulation, or any order having the applicability and effect of a rule as defined in [section 551(4) of title 5][/us/usc/t5/s551/4] pursuant to this chapter” for “the rules, regulations, or orders described in paragraph (A)” and “subsection (c)” for “paragraph (2) of this subsection”.
+    Subsec. (b). [Pub. L. 95–91][/us/pl/95/91], § 709(a)(2)(A), (C)–(E), struck out subsec. (b) provisions respecting employment and compensation of experts and consultants, redesignated subsec. (i)(1)(D) as (b), and substituted therein “any rule or regulation, or any order having the applicability and effect of a rule as defined in [section 551(4) of title 5][/us/usc/t5/s551/4] pursuant to this chapter” for “the rules, regulations, or orders described in paragraph (A)” and “subsection (c)” for “paragraph (2) of this subsection”.
 
-    Subsec. (c). [Pub. L. 95–91, § 709(a)(2)(F)][/us/pl/95/91/s709/a/2/F], redesignated subsec. (i)(2)(A) as (c). Former subsec. (c) redesignated (a).
+    Subsec. (c). [Pub. L. 95–91][/us/pl/95/91], § 709(a)(2)(F), redesignated subsec. (i)(2)(A) as (c). Former subsec. (c) redesignated (a).
 
-    Subsecs. (d) to (h). [Pub. L. 95–91, § 709(a)(2)(B)][/us/pl/95/91/s709/a/2/B], struck out subsecs. (d) to (h) relating to: interagency cooperation and reimbursement; seal and judicial notice; acceptance of gifts; contract authority; and performance of other necessary activities.
+    Subsecs. (d) to (h). [Pub. L. 95–91][/us/pl/95/91], § 709(a)(2)(B), struck out subsecs. (d) to (h) relating to: interagency cooperation and reimbursement; seal and judicial notice; acceptance of gifts; contract authority; and performance of other necessary activities.
 
-    Subsec. (i)(1)(A) to (C). [Pub. L. 95–91, § 709(a)(2)(C)][/us/pl/95/91/s709/a/2/C], struck out subpar. (A) to (C) provisions relating to: application of subch. II of ch. 5 of title 5 to rules, regulations, or orders issued under this chapter; publication of notice of proposed rules, regulations, or orders in the Federal Register and opportunity for comment and waiver of the requirements when warranted by considerations of public health, safety, or welfare; and opportunity for oral presentation of views, data, and arguments where rules, regulations, or orders are likely to have a substantial impact on the Nation’s economy or large numbers of individuals or businesses.
+    Subsec. (i)(1)(A) to (C). [Pub. L. 95–91][/us/pl/95/91], § 709(a)(2)(C), struck out subpar. (A) to (C) provisions relating to: application of subch. II of ch. 5 of title 5 to rules, regulations, or orders issued under this chapter; publication of notice of proposed rules, regulations, or orders in the Federal Register and opportunity for comment and waiver of the requirements when warranted by considerations of public health, safety, or welfare; and opportunity for oral presentation of views, data, and arguments where rules, regulations, or orders are likely to have a substantial impact on the Nation’s economy or large numbers of individuals or businesses.
 
-    Subsec. (i)(1)(D). [Pub. L. 95–91, § 709(a)(2)(C)][/us/pl/95/91/s709/a/2/C], redesignated subpar. (D) as subsec. (b).
+    Subsec. (i)(1)(D). [Pub. L. 95–91][/us/pl/95/91], § 709(a)(2)(C), redesignated subpar. (D) as subsec. (b).
 
-    Subsec. (i)(E), (F). [Pub. L. 95–91, § 709(a)(2)(C)][/us/pl/95/91/s709/a/2/C], struck out provisions of subpars. (E) and (F) providing for public availability of internal rules and guidelines of the agency forming a basis for rules, regulations, or orders and agency opinions respecting determinations of requests for exception or exemption from rules or orders; and procedures for holding hearings or oral presentation of views with respect to rules or regulations the effects of which are confined to a single unit of local government or the residents thereof, a single geographic area within a State or the residents thereof, or a single State or the residents thereof.
+    Subsec. (i)(E), (F). [Pub. L. 95–91][/us/pl/95/91], § 709(a)(2)(C), struck out provisions of subpars. (E) and (F) providing for public availability of internal rules and guidelines of the agency forming a basis for rules, regulations, or orders and agency opinions respecting determinations of requests for exception or exemption from rules or orders; and procedures for holding hearings or oral presentation of views with respect to rules or regulations the effects of which are confined to a single unit of local government or the residents thereof, a single geographic area within a State or the residents thereof, or a single State or the residents thereof.
 
-    Subsec. (i)(2)(A). [Pub. L. 95–91, § 709(a)(2)(F)][/us/pl/95/91/s709/a/2/F], redesignated subpar. (A) as subsec. (c).
+    Subsec. (i)(2)(A). [Pub. L. 95–91][/us/pl/95/91], § 709(a)(2)(F), redesignated subpar. (A) as subsec. (c).
 
-    Subsec. (i)(2)(B), (3). [Pub. L. 95–91, § 709(a)(2)(F)][/us/pl/95/91/s709/a/2/F], (G), struck out par. (2)(B) provisions relating to jurisdiction of federal district courts, power of courts of competent jurisdiction to consider defenses, removal of cases raising constitutional defenses, and concurrent jurisdiction of cases or controversies arising under rules, regulations, or orders of State or local government agencies; and par. (3) provisions relating to procedures for State or local government agencies.
+    Subsec. (i)(2)(B), (3). [Pub. L. 95–91][/us/pl/95/91], § 709(a)(2)(F), (G), struck out par. (2)(B) provisions relating to jurisdiction of federal district courts, power of courts of competent jurisdiction to consider defenses, removal of cases raising constitutional defenses, and concurrent jurisdiction of cases or controversies arising under rules, regulations, or orders of State or local government agencies; and par. (3) provisions relating to procedures for State or local government agencies.
 
-    Subsecs. (j), (k). [Pub. L. 95–91, § 709(a)(2)(G)][/us/pl/95/91/s709/a/2/G], struck out subsecs. (j) and (k) relating to information for independent regulatory agencies and limitation on enforcement authority of the Administrator.
+    Subsecs. (j), (k). [Pub. L. 95–91][/us/pl/95/91], § 709(a)(2)(G), struck out subsecs. (j) and (k) relating to information for independent regulatory agencies and limitation on enforcement authority of the Administrator.
 
     Subsec. (l). [Pub. L. 95–70][/us/pl/95/70] added subsec. (l).
 
-    1976—Subsec. (c). [Pub. L. 94–385, § 103][/us/pl/94/385/s103], struck out provisions relating to review of rules, regulations and procedures by the Cost of Living Council and redistributed remaining provisions as pars. (1) and (2).
+    1976—Subsec. (c). [Pub. L. 94–385][/us/pl/94/385], § 103, struck out provisions relating to review of rules, regulations and procedures by the Cost of Living Council and redistributed remaining provisions as pars. (1) and (2).
 
-    Subsec. (i)(1)(D). [Pub. L. 94–385, § 104][/us/pl/94/385/s104], inserted provisions which require any officer or agency authorized to issue rules, regulations or orders to establish criteria and guidelines for evaluation of special hardship situations, to include in every decision the standards applied in the disposition of such situations, and requiring the hearing upon request of the aggrieved party to be heard by an officer other than the one denying the adjustment.
+    Subsec. (i)(1)(D). [Pub. L. 94–385][/us/pl/94/385], § 104, inserted provisions which require any officer or agency authorized to issue rules, regulations or orders to establish criteria and guidelines for evaluation of special hardship situations, to include in every decision the standards applied in the disposition of such situations, and requiring the hearing upon request of the aggrieved party to be heard by an officer other than the one denying the adjustment.
 
-    Subsec. (i)(1)(F). [Pub. L. 94–385, § 105][/us/pl/94/385/s105], added subpar. (F).
+    Subsec. (i)(1)(F). [Pub. L. 94–385][/us/pl/94/385], § 105, added subpar. (F).
 
-    Subsec. (k). [Pub. L. 94–385, § 106][/us/pl/94/385/s106], added subsec. (k).
+    Subsec. (k). [Pub. L. 94–385][/us/pl/94/385], § 106, added subsec. (k).
 
  __Transfer of Functions__ 
 
@@ -90,34 +90,34 @@
 
 [/us/usc/t5/s551/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F4
 [/us/usc/t15/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs751
-[/us/pl/95/91/s709/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs709%2Fa%2F2%2FB
+[/us/pl/95/91/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVII
 [/us/stat/91/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F608
-[/us/pl/93/275/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs7
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F100
-[/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
+[/us/pl/94/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtI
 [/us/stat/90/1127-1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1127-1129
-[/us/pl/95/70/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F70%2Fs8
+[/us/pl/95/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F70
 [/us/stat/91/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F277
-[/us/pl/95/91/s709/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs709%2Fa%2F2
+[/us/pl/95/91/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVII
 [/us/stat/91/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F607
 [/us/pl/93/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F159
 [/us/stat/87/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F628
 [/us/usc/t15/s760g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs760g
-[/us/pl/95/91/s709/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs709%2Fa%2F2%2FA
-[/us/pl/95/91/s709/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs709%2Fa%2F2%2FA
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/usc/t5/s551/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F4
-[/us/pl/95/91/s709/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs709%2Fa%2F2%2FF
-[/us/pl/95/91/s709/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs709%2Fa%2F2%2FB
-[/us/pl/95/91/s709/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs709%2Fa%2F2%2FC
-[/us/pl/95/91/s709/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs709%2Fa%2F2%2FC
-[/us/pl/95/91/s709/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs709%2Fa%2F2%2FC
-[/us/pl/95/91/s709/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs709%2Fa%2F2%2FF
-[/us/pl/95/91/s709/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs709%2Fa%2F2%2FF
-[/us/pl/95/91/s709/a/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs709%2Fa%2F2%2FG
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
+[/us/pl/95/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91
 [/us/pl/95/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F70
-[/us/pl/94/385/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs103
-[/us/pl/94/385/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs104
-[/us/pl/94/385/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs105
-[/us/pl/94/385/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs106
+[/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
+[/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
+[/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
+[/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
 
 

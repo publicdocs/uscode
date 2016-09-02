@@ -23,7 +23,7 @@
 
         In any efforts under this section, the President shall endeavor to meet criteria that establish programs which are funded to take account of the fiscal needs and budget conditions of the respective States and localities and their own efforts, with special attention to the rates of unemployment in such States and localities.
 
-([Pub. L. 95–523, title II, § 203][/us/pl/95/523/s203], Oct. 27, 1978, [92 Stat. 1900][/us/stat/92/1900].)
+([Pub. L. 95–523, title II][/us/pl/95/523/tII], § 203, Oct. 27, 1978, [92 Stat. 1900][/us/stat/92/1900].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 
 [/us/usc/t15/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3112
 [/us/usc/t15/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1021
-[/us/pl/95/523/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs203
+[/us/pl/95/523/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2FtII
 [/us/stat/92/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1900
 [/us/usc/t15/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3102
 [/us/act/1946-02-20/ch33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-20%2Fch33

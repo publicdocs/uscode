@@ -27,7 +27,7 @@
 
         The books, accounts, memoranda, and records of any person who controls directly or indirectly a natural-gas company subject to the jurisdiction of the Commission and of any other company controlled by such person, insofar as they relate to transactions with or the business of such natural-gas company, shall be subject to examination on the order of the Commission.
 
-([June 21, 1938, ch. 556, § 8][/us/act/1938-06-21/ch556/s8], [52 Stat. 825][/us/stat/52/825].)
+([June 21, 1938, ch. 556][/us/act/1938-06-21/ch556], § 8, [52 Stat. 825][/us/stat/52/825].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-21/ch556/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556%2Fs8
+[/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F825
 
 

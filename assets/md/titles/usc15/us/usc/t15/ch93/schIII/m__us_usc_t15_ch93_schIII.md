@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Subtitle C of title III of the Gramm-Leach-Bliley Act, comprising this subchapter, was originally enacted by [Pub. L. 106–102, title III][/us/pl/106/102], Nov. 12, 1999, [113 Stat. 1422][/us/stat/113/1422]. Such subtitle is shown herein, however, as having been added by [Pub. L. 114–1, title II, § 202(a)][/us/pl/114/1/s202/a], Jan. 12, 2015, [129 Stat. 12][/us/stat/129/12], because of the extensive revision of subtitle C by [Pub. L. 114–1][/us/pl/114/1].
+    Subtitle C of title III of the Gramm-Leach-Bliley Act, comprising this subchapter, was originally enacted by [Pub. L. 106–102, title III][/us/pl/106/102/tIII], Nov. 12, 1999, [113 Stat. 1422][/us/stat/113/1422]. Such subtitle is shown herein, however, as having been added by [Pub. L. 114–1, title II][/us/pl/114/1/tII], § 202(a), Jan. 12, 2015, [129 Stat. 12][/us/stat/129/12], because of the extensive revision of subtitle C by [Pub. L. 114–1][/us/pl/114/1].
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1422
-[/us/pl/114/1/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs202%2Fa
+[/us/pl/114/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2FtII
 [/us/stat/129/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F12
 [/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
 

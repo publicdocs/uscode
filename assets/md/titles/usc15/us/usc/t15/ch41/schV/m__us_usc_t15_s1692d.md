@@ -29,11 +29,11 @@
 
     (6) Except as provided in [section 1692b of this title][/us/usc/t15/s1692b], the placement of telephone calls without meaningful disclosure of the caller’s identity.
 
-([Pub. L. 90–321, title VIII, § 806][/us/pl/90/321/s806], as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 877][/us/stat/91/877].)
+([Pub. L. 90–321, title VIII][/us/pl/90/321/tVIII], § 806, as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 877][/us/stat/91/877].)
 
  __References in Text__ 
 
-    [Section 1681b(3) of this title][/us/usc/t15/s1681b/3], referred to in par. (3), was redesignated [section 1681b(a)(3) of this title][/us/usc/t15/s1681b/a/3] by [Pub. L. 104–208, div. A, title II, § 2403(a)(1)][/us/pl/104/208/s2403/a/1], Sept. 30, 1996, [110 Stat. 3009–430][/us/stat/110/3009-430].
+    [Section 1681b(3) of this title][/us/usc/t15/s1681b/3], referred to in par. (3), was redesignated [section 1681b(a)(3) of this title][/us/usc/t15/s1681b/a/3] by [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2403(a)(1), Sept. 30, 1996, [110 Stat. 3009–430][/us/stat/110/3009-430].
 
 ----------
 
@@ -43,12 +43,12 @@
 ----------
 
 [/us/usc/t15/s1692b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1692b
-[/us/pl/90/321/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs806
+[/us/pl/90/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVIII
 [/us/pl/95/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F109
 [/us/stat/91/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F877
 [/us/usc/t15/s1681b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681b%2F3
 [/us/usc/t15/s1681b/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681b%2Fa%2F3
-[/us/pl/104/208/s2403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2403%2Fa%2F1
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-430
 
 

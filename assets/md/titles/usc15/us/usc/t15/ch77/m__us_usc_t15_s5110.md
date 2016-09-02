@@ -19,7 +19,7 @@
 
     (b) No funds so authorized to be appropriated to any such department, agency, or instrumentality shall be available for payment in connection with any grant, contract, or other agreement, unless the recipient of such grant, contract, or party to such agreement, as the case may be, has in place and will continue to administer in good faith a written policy, adopted by such recipient, contractor, or party’s board of directors or other governing authority, satisfactory to the head of the department, agency, or instrumentality making such payment, designed to ensure that all of the workplace of such recipient, contractor, or party are free from the illegal use, possession, or distribution of controlled substances (as defined in the Controlled Substances Act \[[21 U.S.C. 801][/us/usc/t21/s801] et seq.\]) by the officers and employees of such recipient, contractor, or party.
 
-([Pub. L. 100–680, § 11][/us/pl/100/680/s11], Nov. 17, 1988, [102 Stat. 4077][/us/stat/102/4077]; [Pub. L. 102–486, title XXI, § 2106(a)(5)][/us/pl/102/486/s2106/a/5], Oct. 24, 1992, [106 Stat. 3070][/us/stat/106/3070].)
+([Pub. L. 100–680][/us/pl/100/680], § 11, Nov. 17, 1988, [102 Stat. 4077][/us/stat/102/4077]; [Pub. L. 102–486, title XXI][/us/pl/102/486/tXXI], § 2106(a)(5), Oct. 24, 1992, [106 Stat. 3070][/us/stat/106/3070].)
 
  __References in Text__ 
 
@@ -31,13 +31,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 100–685, title II, § 215][/us/pl/100/685/s215], Nov. 17, 1988, [102 Stat. 4093][/us/stat/102/4093], provided that:
+[Pub. L. 100–685, title II][/us/pl/100/685/tII], § 215, Nov. 17, 1988, [102 Stat. 4093][/us/stat/102/4093], provided that:
 
 >     “(a) No funds authorized to be appropriated under this Act, or under any other Act authorizing appropriations for fiscal year 1989 through 1993 for the \[National Aeronautics and Space\] Administration, shall be obligated or expended unless the Administration has in place, and will continue to administer in good faith, a written policy designed to ensure that all of its workplaces are free from the illegal use, possession, or distribution of controlled substances (as defined in the Controlled Substances Act \[[21 U.S.C. 801][/us/usc/t21/s801] et seq.\]) by the officers and employees of the Administration.
 
 >     “(b) No funds authorized to be appropriated to the Administration for fiscal years 1989 through 1993 shall be available for payment in connection with any grant, contract, or other agreement, unless the recipient of such grant, contractor, or party to such agreement, as the case may be, has in place and will continue to administer in good faith a written policy, adopted by the board of directors or other government authority of such recipient, contractor, or party, satisfactory to the Administrator of the \[National Aeronautics and Space\] Administration, designed to ensure that all of the workplaces of such recipient, contractor, or party are free from the illegal use, possession, or distribution of controlled substances (as defined in the Controlled Substances Act) by the officers and employees of such recipient, contractor, or party.
 
->     “(c) The provisions of this section, and the provisions of the Steel and Aluminum Energy Conservation and Technology Competitiveness Act of 1988 \[[15 U.S.C. 5101][/us/usc/t15/s5101] et seq.\], the National Institute of Standards and Technology Authorization Act for Fiscal Year 1989 \[[Pub. L. 100–519, title I][/us/pl/100/519], Oct. 24, 1988, [102 Stat. 2589][/us/stat/102/2589]\], the National Science Foundation Authorization Act for Fiscal Years 1989 and 1990 \[probably means [Pub. L. 100–570][/us/pl/100/570], Oct. 31, 1988, [102 Stat. 2865][/us/stat/102/2865]\], and the National Nutrition Monitoring and Related Research Act of 1988 \[probably means S. 1081, One Hundredth Congress, which was pocket vetoed\], relating to a drug-free workplace, shall not be effective until January 16, 1989.”
+>     “(c) The provisions of this section, and the provisions of the Steel and Aluminum Energy Conservation and Technology Competitiveness Act of 1988 \[[15 U.S.C. 5101][/us/usc/t15/s5101] et seq.\], the National Institute of Standards and Technology Authorization Act for Fiscal Year 1989 \[[Pub. L. 100–519, title I][/us/pl/100/519/tI], Oct. 24, 1988, [102 Stat. 2589][/us/stat/102/2589]\], the National Science Foundation Authorization Act for Fiscal Years 1989 and 1990 \[probably means [Pub. L. 100–570][/us/pl/100/570], Oct. 31, 1988, [102 Stat. 2865][/us/stat/102/2865]\], and the National Nutrition Monitoring and Related Research Act of 1988 \[probably means S. 1081, One Hundredth Congress, which was pocket vetoed\], relating to a drug-free workplace, shall not be effective until January 16, 1989.”
 
 ----------
 
@@ -48,19 +48,19 @@
 
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
-[/us/pl/100/680/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F680%2Fs11
+[/us/pl/100/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F680
 [/us/stat/102/4077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4077
-[/us/pl/102/486/s2106/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs2106%2Fa%2F5
+[/us/pl/102/486/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXXI
 [/us/stat/106/3070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3070
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
-[/us/pl/100/685/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F685%2Fs215
+[/us/pl/100/685/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F685%2FtII
 [/us/stat/102/4093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4093
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t15/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5101
-[/us/pl/100/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519
+[/us/pl/100/519/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2FtI
 [/us/stat/102/2589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2589
 [/us/pl/100/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F570
 [/us/stat/102/2865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2865

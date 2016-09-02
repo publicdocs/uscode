@@ -31,17 +31,17 @@
 
     (7) “Program Component Areas” means the major subject areas under which related individual projects and activities carried out under the Program are grouped.
 
-([Pub. L. 102–194, § 4][/us/pl/102/194/s4], Dec. 9, 1991, [105 Stat. 1595][/us/stat/105/1595]; [Pub. L. 105–305, § 7(b)][/us/pl/105/305/s7/b], Oct. 28, 1998, [112 Stat. 2924][/us/stat/112/2924]; [Pub. L. 110–69, title VII, § 7024(a)(2)][/us/pl/110/69/s7024/a/2], Aug. 9, 2007, [121 Stat. 689][/us/stat/121/689].)
+([Pub. L. 102–194][/us/pl/102/194], § 4, Dec. 9, 1991, [105 Stat. 1595][/us/stat/105/1595]; [Pub. L. 105–305][/us/pl/105/305], § 7(b), Oct. 28, 1998, [112 Stat. 2924][/us/stat/112/2924]; [Pub. L. 110–69, title VII][/us/pl/110/69/tVII], § 7024(a)(2), Aug. 9, 2007, [121 Stat. 689][/us/stat/121/689].)
 
  __Amendments__ 
 
-    2007—Par. (2). [Pub. L. 110–69, § 7024(a)(2)(A)][/us/pl/110/69/s7024/a/2/A], inserted “and multidisciplinary teams of researchers” after “high-performance computing resources”.
+    2007—Par. (2). [Pub. L. 110–69][/us/pl/110/69], § 7024(a)(2)(A), inserted “and multidisciplinary teams of researchers” after “high-performance computing resources”.
 
-    Par. (3). [Pub. L. 110–69, § 7024(a)(2)(B)][/us/pl/110/69/s7024/a/2/B], struck out “scientific workstations,” after “technologies, including” and “(including vector supercomputers and large scale parallel systems)” after “supercomputer systems”, substituted “applications” for “and applications”, and inserted “, and the management of large data sets” after “systems software”.
+    Par. (3). [Pub. L. 110–69][/us/pl/110/69], § 7024(a)(2)(B), struck out “scientific workstations,” after “technologies, including” and “(including vector supercomputers and large scale parallel systems)” after “supercomputer systems”, substituted “applications” for “and applications”, and inserted “, and the management of large data sets” after “systems software”.
 
-    Par. (4). [Pub. L. 110–69, § 7024(a)(2)(C)][/us/pl/110/69/s7024/a/2/C], struck out “packet switched” before “data networks”.
+    Par. (4). [Pub. L. 110–69][/us/pl/110/69], § 7024(a)(2)(C), struck out “packet switched” before “data networks”.
 
-    Par. (7). [Pub. L. 110–69, § 7024(a)(2)(D)][/us/pl/110/69/s7024/a/2/D]–(F), added par. (7).
+    Par. (7). [Pub. L. 110–69][/us/pl/110/69], § 7024(a)(2)(D)–(F), added par. (7).
 
     1998—Pars. (4) to (6). [Pub. L. 105–305][/us/pl/105/305] added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
@@ -54,16 +54,16 @@
 
 [/us/usc/t15/s5512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5512
 [/us/usc/t15/s5511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5511
-[/us/pl/102/194/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2Fs4
+[/us/pl/102/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194
 [/us/stat/105/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1595
-[/us/pl/105/305/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305%2Fs7%2Fb
+[/us/pl/105/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305
 [/us/stat/112/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2924
-[/us/pl/110/69/s7024/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7024%2Fa%2F2
+[/us/pl/110/69/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtVII
 [/us/stat/121/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F689
-[/us/pl/110/69/s7024/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7024%2Fa%2F2%2FA
-[/us/pl/110/69/s7024/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7024%2Fa%2F2%2FB
-[/us/pl/110/69/s7024/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7024%2Fa%2F2%2FC
-[/us/pl/110/69/s7024/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs7024%2Fa%2F2%2FD
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 [/us/pl/105/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305
 
 

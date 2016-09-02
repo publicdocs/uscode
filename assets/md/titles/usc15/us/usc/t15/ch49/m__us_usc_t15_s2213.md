@@ -17,7 +17,7 @@
 
     The Administrator is authorized to organize, or to participate in organizing, an annual conference on fire prevention and control. He may pay, in whole or in part, the cost of such conference and the expenses of some or all of the participants. All of the Nation’s fire services shall be eligible to send representatives to each such conference to discuss, exchange ideas on, and participate in educational programs on new techniques in fire prevention and control. Such conferences shall be open to the public.
 
-([Pub. L. 93–498, § 14][/us/pl/93/498/s14], Oct. 29, 1974, [88 Stat. 1544][/us/stat/88/1544].)
+([Pub. L. 93–498][/us/pl/93/498], § 14, Oct. 29, 1974, [88 Stat. 1544][/us/stat/88/1544].)
 
  __Transfer of Functions__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/93/498/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs14
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1544
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

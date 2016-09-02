@@ -17,11 +17,11 @@
 
     The official records and papers on file in and pertaining exclusively to the business of any bureau, office, department, or branch of the public service transferred to the Department of Commerce, together with the furniture in use in such bureau, office, department, or branch of the public service, are transferred to the Department of Commerce.
 
-([Feb. 14, 1903, ch. 552, § 4][/us/act/1903-02-14/ch552/s4], [32 Stat. 826][/us/stat/32/826].)
+([Feb. 14, 1903, ch. 552][/us/act/1903-02-14/ch552], § 4, [32 Stat. 826][/us/stat/32/826].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 598 of Title 5][/us/usc/t5/s598] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 598 of Title 5][/us/usc/t5/s598] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Change of Name__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/act/1903-02-14/ch552/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552%2Fs4
+[/us/act/1903-02-14/ch552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552
 [/us/stat/32/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F826
 [/us/usc/t5/s598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs598
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F736

@@ -31,7 +31,7 @@
 
     (7) provide nongovernmental members of the Team reasonable compensation for time spent carrying out activities under this chapter.
 
-([Pub. L. 107–231, § 6][/us/pl/107/231/s6], Oct. 1, 2002, [116 Stat. 1474][/us/stat/116/1474].)
+([Pub. L. 107–231][/us/pl/107/231], § 6, Oct. 1, 2002, [116 Stat. 1474][/us/stat/116/1474].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/107/231/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231%2Fs6
+[/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
 [/us/stat/116/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1474
 [/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
 [/us/stat/116/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1471

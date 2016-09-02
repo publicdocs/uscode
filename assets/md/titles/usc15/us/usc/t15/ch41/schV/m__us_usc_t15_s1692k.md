@@ -49,7 +49,7 @@
 
         No provision of this section imposing any liability shall apply to any act done or omitted in good faith in conformity with any advisory opinion of the Bureau, notwithstanding that after such act or omission has occurred, such opinion is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
 
-([Pub. L. 90–321, title VIII, § 813][/us/pl/90/321/s813], as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 881][/us/stat/91/881]; amended [Pub. L. 111–203, title X, § 1089(1)][/us/pl/111/203/s1089/1], July 21, 2010, [124 Stat. 2092][/us/stat/124/2092].)
+([Pub. L. 90–321, title VIII][/us/pl/90/321/tVIII], § 813, as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 881][/us/stat/91/881]; amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1089(1), July 21, 2010, [124 Stat. 2092][/us/stat/124/2092].)
 
  __Amendments__ 
 
@@ -66,10 +66,10 @@
 ----------
 ----------
 
-[/us/pl/90/321/s813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs813
+[/us/pl/90/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVIII
 [/us/pl/95/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F109
 [/us/stat/91/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F881
-[/us/pl/111/203/s1089/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1089%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2092
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

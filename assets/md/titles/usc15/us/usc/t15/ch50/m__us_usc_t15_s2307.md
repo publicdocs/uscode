@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to prevent any warrantor from designating representatives to perform duties under the written or implied warranty: Provided, That such warrantor shall make reasonable arrangements for compensation of such designated representatives, but no such designation shall relieve the warrantor of his direct responsibilities to the consumer or make the representative a cowarrantor.
 
-([Pub. L. 93–637, title I, § 107][/us/pl/93/637/s107], Jan. 4, 1975, [88 Stat. 2189][/us/stat/88/2189].)
+([Pub. L. 93–637, title I][/us/pl/93/637/tI], § 107, Jan. 4, 1975, [88 Stat. 2189][/us/stat/88/2189].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/637/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs107
+[/us/pl/93/637/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2FtI
 [/us/stat/88/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2189
 
 

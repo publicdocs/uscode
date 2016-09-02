@@ -23,7 +23,7 @@
 
         If an open end consumer credit plan provides a time period within which an obligor may repay any portion of the credit extended without incurring an additional finance charge, such additional finance charge may not be imposed with respect to such portion of the credit extended for the billing cycle of which such period is a part, unless a statement which includes the amount upon which the finance charge for the period is based was mailed or delivered to the consumer not later than 21 days before the date specified in the statement by which payment must be made in order to avoid imposition of that finance charge.
 
-([Pub. L. 90–321, title I, § 163][/us/pl/90/321/s163], as added [Pub. L. 93–495, title III, § 306][/us/pl/93/495/s306], Oct. 28, 1974, [88 Stat. 1514][/us/stat/88/1514]; amended [Pub. L. 111–24, title I, § 106(b)(1)][/us/pl/111/24/s106/b/1], May 22, 2009, [123 Stat. 1742][/us/stat/123/1742]; [Pub. L. 111–93, § 2][/us/pl/111/93/s2], Nov. 6, 2009, [123 Stat. 2998][/us/stat/123/2998].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 163, as added [Pub. L. 93–495, title III][/us/pl/93/495/tIII], § 306, Oct. 28, 1974, [88 Stat. 1514][/us/stat/88/1514]; amended [Pub. L. 111–24, title I][/us/pl/111/24/tI], § 106(b)(1), May 22, 2009, [123 Stat. 1742][/us/stat/123/1742]; [Pub. L. 111–93][/us/pl/111/93], § 2, Nov. 6, 2009, [123 Stat. 2998][/us/stat/123/2998].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 111–24, title I, § 106(b)(2)][/us/pl/111/24/s106/b/2], May 22, 2009, [123 Stat. 1742][/us/stat/123/1742], provided that: 
+[Pub. L. 111–24, title I][/us/pl/111/24/tI], § 106(b)(2), May 22, 2009, [123 Stat. 1742][/us/stat/123/1742], provided that: 
 
 > “Notwithstanding section 3 \[see Effective Date of 2009 Amendment note set out under [section 1602 of this title][/us/usc/t15/s1602]\], section 163 of the Truth in Lending Act \[[15 U.S.C. 1666b][/us/usc/t15/s1666b]\], as amended by this subsection, shall become effective 90 days after the date of enactment of this Act \[May 22, 2009\].”
 
@@ -45,16 +45,16 @@
 ----------
 
 [/us/usc/t15/s1637/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637%2Fb
-[/us/pl/90/321/s163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs163
-[/us/pl/93/495/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs306
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/93/495/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtIII
 [/us/stat/88/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1514
-[/us/pl/111/24/s106/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs106%2Fb%2F1
+[/us/pl/111/24/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtI
 [/us/stat/123/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1742
-[/us/pl/111/93/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F93%2Fs2
+[/us/pl/111/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F93
 [/us/stat/123/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2998
 [/us/pl/111/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24
 [/us/pl/111/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F93
-[/us/pl/111/24/s106/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs106%2Fb%2F2
+[/us/pl/111/24/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtI
 [/us/stat/123/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1742
 [/us/usc/t15/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602
 [/us/usc/t15/s1666b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1666b

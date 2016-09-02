@@ -41,11 +41,11 @@
 
         (3) to establish 18 as the minimum age for the purchase of smokeless tobacco.
 
-([Pub. L. 99–252, § 2][/us/pl/99/252/s2], Feb. 27, 1986, [100 Stat. 30][/us/stat/100/30].)
+([Pub. L. 99–252][/us/pl/99/252], § 2, Feb. 27, 1986, [100 Stat. 30][/us/stat/100/30].)
 
  __Effective Date__ 
 
-[Pub. L. 99–252, § 11][/us/pl/99/252/s11], Feb. 27, 1986, [100 Stat. 35][/us/stat/100/35], provided that:
+[Pub. L. 99–252][/us/pl/99/252], § 11, Feb. 27, 1986, [100 Stat. 35][/us/stat/100/35], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -57,7 +57,7 @@
 
  __Short Title__ 
 
-[Pub. L. 99–252, § 1][/us/pl/99/252/s1], Feb. 27, 1986, [100 Stat. 30][/us/stat/100/30], provided that: 
+[Pub. L. 99–252][/us/pl/99/252], § 1, Feb. 27, 1986, [100 Stat. 30][/us/stat/100/30], provided that: 
 
 > “This Act \[enacting this chapter and amending [section 342 of Title 21][/us/usc/t21/s342], Food and Drugs\] may be cited as the ‘Comprehensive Smokeless Tobacco Health Education Act of 1986’.”
 
@@ -68,13 +68,13 @@
 ----------
 ----------
 
-[/us/pl/99/252/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252%2Fs2
+[/us/pl/99/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252
 [/us/stat/100/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F30
-[/us/pl/99/252/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252%2Fs11
+[/us/pl/99/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252
 [/us/stat/100/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F35
 [/us/usc/t21/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs342
 [/us/usc/t21/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs342
-[/us/pl/99/252/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252%2Fs1
+[/us/pl/99/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252
 [/us/stat/100/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F30
 [/us/usc/t21/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs342
 

@@ -33,7 +33,7 @@
 
         The Secretary of Energy shall conduct a survey of developers, lending institutions, and other appropriate persons or institutions and shall otherwise make a study for the purpose of determining whether, and under what conditions, research, development, demonstration, and commercial availability of advanced automobile propulsion system technology may be aided by the guarantee of financial obligations by the Federal Government. The Secretary of Energy shall report the results of such survey and study to the Congress within 1 year after February 25, 1978. Such report shall include an examination of those stages of advanced automobile propulsion system technology research, development, demonstration, and commercialization for which financial obligation guarantees may be useful or appropriate and shall contain such legislative recommendations as may be necessary.
 
-([Pub. L. 95–238, title III, § 310][/us/pl/95/238/s310], Feb. 25, 1978, [92 Stat. 83][/us/stat/92/83].)
+([Pub. L. 95–238, title III][/us/pl/95/238/tIII], § 310, Feb. 25, 1978, [92 Stat. 83][/us/stat/92/83].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/95/238/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs310
+[/us/pl/95/238/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtIII
 [/us/stat/92/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F83
 [/us/usc/t42/s5914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5914
 

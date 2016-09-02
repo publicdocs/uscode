@@ -77,7 +77,7 @@
 
         Notwithstanding the termination of this chapter, the President shall designate an appropriate Federal agency to conduct the analysis specified in subsection (b)(6).
 
-([Pub. L. 93–275, § 15][/us/pl/93/275/s15], May 7, 1974, [88 Stat. 108][/us/stat/88/108]; [Pub. L. 94–385, title I, § 109(a)][/us/pl/94/385/s109/a]–(c), Aug. 14, 1976, [90 Stat. 1130][/us/stat/90/1130].)
+([Pub. L. 93–275][/us/pl/93/275], § 15, May 7, 1974, [88 Stat. 108][/us/stat/88/108]; [Pub. L. 94–385, title I][/us/pl/94/385/tI], § 109(a)–(c), Aug. 14, 1976, [90 Stat. 1130][/us/stat/90/1130].)
 
  __References in Text__ 
 
@@ -85,11 +85,11 @@
 
  __Amendments__ 
 
-    1976—Subsec. (a). [Pub. L. 94–385, § 109(a)][/us/pl/94/385/s109/a], redesignated subsec. (b) as (a) and struck out former subsec. (a) relating to submission of a report by the President to Congress with recommendations for disposition, continuation, or reorganization of Energy Administration and organization of the Federal Government for the management of energy and natural resources policies and programs.
+    1976—Subsec. (a). [Pub. L. 94–385][/us/pl/94/385], § 109(a), redesignated subsec. (b) as (a) and struck out former subsec. (a) relating to submission of a report by the President to Congress with recommendations for disposition, continuation, or reorganization of Energy Administration and organization of the Federal Government for the management of energy and natural resources policies and programs.
 
-    Subsec. (b). [Pub. L. 94–385, § 109(a)(2)][/us/pl/94/385/s109/a/2], (b), redesignated subsec. (c) as (b) and added par. (6) and provisions requiring Administrator to include in report a discussion on benefits of employing a utility and Btu tax as a means for obtaining national energy goals. Former subsec. (b) redesignated (a).
+    Subsec. (b). [Pub. L. 94–385][/us/pl/94/385], § 109(a)(2), (b), redesignated subsec. (c) as (b) and added par. (6) and provisions requiring Administrator to include in report a discussion on benefits of employing a utility and Btu tax as a means for obtaining national energy goals. Former subsec. (b) redesignated (a).
 
-    Subsecs. (c) to (e). [Pub. L. 94–385, § 109(a)(2)][/us/pl/94/385/s109/a/2], (c), redesignated subsecs. (c) to (e) as (b) to (d), respectively, and added new subsec. (e).
+    Subsecs. (c) to (e). [Pub. L. 94–385][/us/pl/94/385], § 109(a)(2), (c), redesignated subsecs. (c) to (e) as (b) to (d), respectively, and added new subsec. (e).
 
  __Transfer of Functions__ 
 
@@ -103,13 +103,13 @@
 ----------
 
 [/us/usc/t15/s772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs772
-[/us/pl/93/275/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs15
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F108
-[/us/pl/94/385/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs109%2Fa
+[/us/pl/94/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtI
 [/us/stat/90/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1130
 [/us/usc/t15/s761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs761
-[/us/pl/94/385/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs109%2Fa
-[/us/pl/94/385/s109/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs109%2Fa%2F2
-[/us/pl/94/385/s109/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs109%2Fa%2F2
+[/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
+[/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
+[/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
 
 

@@ -41,7 +41,7 @@
 
         Within 2 years after October 28, 1992, the Administrator shall promulgate regulations under this subsection to require each person who performs for compensation a renovation of target housing to provide a lead hazard information pamphlet to the owner and occupant of such housing prior to commencing the renovation.
 
-([Pub. L. 94–469, title IV, § 406][/us/pl/94/469/s406], as added [Pub. L. 102–550, title X, § 1021(a)][/us/pl/102/550/s1021/a], Oct. 28, 1992, [106 Stat. 3920][/us/stat/106/3920].)
+([Pub. L. 94–469, title IV][/us/pl/94/469/tIV], § 406, as added [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(a), Oct. 28, 1992, [106 Stat. 3920][/us/stat/106/3920].)
 
 ----------
 
@@ -51,8 +51,8 @@
 ----------
 
 [/us/usc/t42/s4852d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4852d
-[/us/pl/94/469/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs406
-[/us/pl/102/550/s1021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1021%2Fa
+[/us/pl/94/469/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtIV
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3920
 
 

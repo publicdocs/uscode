@@ -65,7 +65,7 @@
 
         No franchise-related document that requires that 3 grades of gasoline be sold by the applicable franchisee shall prevent the franchisee from selling a renewable fuel in lieu of 1, and only 1, grade of gasoline.
 
-([Pub. L. 95–297, title I, § 107][/us/pl/95/297/s107], as added [Pub. L. 110–140, title II, § 241(a)][/us/pl/110/140/s241/a], Dec. 19, 2007, [121 Stat. 1538][/us/stat/121/1538].)
+([Pub. L. 95–297, title I][/us/pl/95/297/tI], § 107, as added [Pub. L. 110–140, title II][/us/pl/110/140/tII], § 241(a), Dec. 19, 2007, [121 Stat. 1538][/us/stat/121/1538].)
 
  __Effective Date__ 
 
@@ -78,8 +78,8 @@
 ----------
 ----------
 
-[/us/pl/95/297/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2Fs107
-[/us/pl/110/140/s241/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs241%2Fa
+[/us/pl/95/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2FtI
+[/us/pl/110/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtII
 [/us/stat/121/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1538
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824

@@ -19,7 +19,7 @@
 
     (b) Whenever the Commission has reason to believe that any person is guilty of a misdemeanor under this section, it may certify all pertinent facts to the Attorney General. If, on the basis of the facts certified, the Attorney General concurs in such belief, it shall be his duty to cause appropriate proceedings to be brought for the enforcement of the provisions of this section against such person.
 
-([Pub. L. 85–897, § 11][/us/pl/85/897/s11], Sept. 2, 1958, [72 Stat. 1723][/us/stat/72/1723].)
+([Pub. L. 85–897][/us/pl/85/897], § 11, Sept. 2, 1958, [72 Stat. 1723][/us/stat/72/1723].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/85/897/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F897%2Fs11
+[/us/pl/85/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F897
 [/us/stat/72/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1723
 
 

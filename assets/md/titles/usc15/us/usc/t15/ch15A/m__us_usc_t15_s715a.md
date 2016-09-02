@@ -25,7 +25,7 @@
 
     (4) The term “person” includes an individual, partnership, corporation, or joint-stock company,
 
-([Feb. 22, 1935, ch. 18, § 2][/us/act/1935-02-22/ch18/s2], [49 Stat. 30][/us/stat/49/30]; [Pub. L. 89–644][/us/pl/89/644], Oct. 13, 1966, [80 Stat. 890][/us/stat/80/890].)
+([Feb. 22, 1935, ch. 18][/us/act/1935-02-22/ch18], § 2, [49 Stat. 30][/us/stat/49/30]; [Pub. L. 89–644][/us/pl/89/644], Oct. 13, 1966, [80 Stat. 890][/us/stat/80/890].)
 
  __Amendments__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1935-02-22/ch18/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-02-22%2Fch18%2Fs2
+[/us/act/1935-02-22/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-02-22%2Fch18
 [/us/stat/49/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F30
 [/us/pl/89/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F644
 [/us/stat/80/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F890

@@ -77,7 +77,7 @@
 
             (B) include appropriate safeguards to ensure that the noncash assets of a licensee are not overvalued.
 
-([Pub. L. 85–699, title III, § 310][/us/pl/85/699/s310], as added [Pub. L. 87–341, § 9][/us/pl/87/341/s9], Oct. 3, 1961, [75 Stat. 755][/us/stat/75/755]; amended [Pub. L. 89–779, § 5][/us/pl/89/779/s5], Nov. 6, 1966, [80 Stat. 1360][/us/stat/80/1360]; [Pub. L. 90–104, title II, § 208][/us/pl/90/104/s208], Oct. 11, 1967, [81 Stat. 271][/us/stat/81/271]; [Pub. L. 100–590, title I, § 104][/us/pl/100/590/s104], Nov. 3, 1988, [102 Stat. 2992][/us/stat/102/2992]; [Pub. L. 102–366, title IV][/us/pl/102/366], §§ 406(b), 407(a), 408(b), Sept. 4, 1992, [106 Stat. 1016][/us/stat/106/1016]; [Pub. L. 104–208, div. D, title II, § 208(f)][/us/pl/104/208/s208/f], (h)(1)(C), Sept. 30, 1996, [110 Stat. 3009–745][/us/stat/110/3009-745], 3009–747; [Pub. L. 105–135, title II, § 216][/us/pl/105/135/s216], Dec. 2, 1997, [111 Stat. 2603][/us/stat/111/2603]; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title IV, § 406\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–691.)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 310, as added [Pub. L. 87–341][/us/pl/87/341], § 9, Oct. 3, 1961, [75 Stat. 755][/us/stat/75/755]; amended [Pub. L. 89–779][/us/pl/89/779], § 5, Nov. 6, 1966, [80 Stat. 1360][/us/stat/80/1360]; [Pub. L. 90–104, title II][/us/pl/90/104/tII], § 208, Oct. 11, 1967, [81 Stat. 271][/us/stat/81/271]; [Pub. L. 100–590, title I][/us/pl/100/590/tI], § 104, Nov. 3, 1988, [102 Stat. 2992][/us/stat/102/2992]; [Pub. L. 102–366, title IV][/us/pl/102/366/tIV], §§ 406(b), 407(a), 408(b), Sept. 4, 1992, [106 Stat. 1016][/us/stat/106/1016]; [Pub. L. 104–208, div. D, title II][/us/pl/104/208/dD/tII], § 208(f), (h)(1)(C), Sept. 30, 1996, [110 Stat. 3009–745][/us/stat/110/3009-745], 3009–747; [Pub. L. 105–135, title II][/us/pl/105/135/tII], § 216, Dec. 2, 1997, [111 Stat. 2603][/us/stat/111/2603]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title IV, § 406\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–691.)
 
  __References in Text__ 
 
@@ -91,17 +91,17 @@
 
     1997—Subsec. (b). [Pub. L. 105–135][/us/pl/105/135] inserted after first sentence “Fees collected under this subsection shall be deposited in the account for salaries and expenses of the Administration, and are authorized to be appropriated solely to cover the costs of examinations and other program oversight activities.”
 
-    1996—Subsec. (b). [Pub. L. 104–208, § 208(f)(1)][/us/pl/104/208/s208/f/1], inserted “which may be conducted with the assistance of a private sector entity that has both the qualifications to conduct and expertise in conducting such examinations,” after “Investment Division of the Administration,” in first sentence.
+    1996—Subsec. (b). [Pub. L. 104–208][/us/pl/104/208], § 208(f)(1), inserted “which may be conducted with the assistance of a private sector entity that has both the qualifications to conduct and expertise in conducting such examinations,” after “Investment Division of the Administration,” in first sentence.
 
-    Subsec. (c)(4). [Pub. L. 104–208, § 208(h)(1)(C)][/us/pl/104/208/s208/h/1/C], struck out “not less than four years in the case of section 301(d) licensees and in all other cases,” after “small businesses for”.
+    Subsec. (c)(4). [Pub. L. 104–208][/us/pl/104/208], § 208(h)(1)(C), struck out “not less than four years in the case of section 301(d) licensees and in all other cases,” after “small businesses for”.
 
-    Subsec. (d). [Pub. L. 104–208, § 208(f)(2)][/us/pl/104/208/s208/f/2], inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “Each small business investment company shall adopt written guidelines for determination of the value of investments made by such company. The board of directors of corporations and the general partners of partnerships shall have the sole responsibility for making a good faith determination of the fair market value of the investments made by such company. Determinations shall be made and reported to the Administration not less than semiannually or at more frequent intervals as the Administration determines appropriate: Provided, That any company which does not have outstanding financial assistance under the provisions of this subchapter shall be required to make such determinations and reports to the Administration annually, unless the Administration, in its discretion, determines otherwise.”
+    Subsec. (d). [Pub. L. 104–208][/us/pl/104/208], § 208(f)(2), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “Each small business investment company shall adopt written guidelines for determination of the value of investments made by such company. The board of directors of corporations and the general partners of partnerships shall have the sole responsibility for making a good faith determination of the fair market value of the investments made by such company. Determinations shall be made and reported to the Administration not less than semiannually or at more frequent intervals as the Administration determines appropriate: Provided, That any company which does not have outstanding financial assistance under the provisions of this subchapter shall be required to make such determinations and reports to the Administration annually, unless the Administration, in its discretion, determines otherwise.”
 
-    1992—Subsec. (b). [Pub. L. 102–366, § 407(a)][/us/pl/102/366/s407/a], substituted “Investment Division of” for “Administration by examiners selected or approved by”.
+    1992—Subsec. (b). [Pub. L. 102–366][/us/pl/102/366], § 407(a), substituted “Investment Division of” for “Administration by examiners selected or approved by”.
 
-    Subsec. (c)(5). [Pub. L. 102–366, § 408(b)][/us/pl/102/366/s408/b], inserted before semicolon at end “, if such restriction is applicable”.
+    Subsec. (c)(5). [Pub. L. 102–366][/us/pl/102/366], § 408(b), inserted before semicolon at end “, if such restriction is applicable”.
 
-    Subsec. (d). [Pub. L. 102–366, § 406(b)][/us/pl/102/366/s406/b], added subsec. (d).
+    Subsec. (d). [Pub. L. 102–366][/us/pl/102/366], § 406(b), added subsec. (d).
 
     1988—Subsec. (b). [Pub. L. 100–590][/us/pl/100/590] struck out second sentence, which read as follows: “Each such company shall be examined at least once each year, except that the Administrator may waive examination in the case of a company whose operations have been suspended by reason of the fact that the company is involved in litigation or is in receivership.”
 
@@ -125,7 +125,7 @@
 
  __Transfer of Resources__ 
 
-[Pub. L. 102–366, title IV, § 407(b)][/us/pl/102/366/s407/b], Sept. 4, 1992, [106 Stat. 1016][/us/stat/106/1016], provided that: 
+[Pub. L. 102–366, title IV][/us/pl/102/366/tIV], § 407(b), Sept. 4, 1992, [106 Stat. 1016][/us/stat/106/1016], provided that: 
 
 > “Effective October 1, 1992, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, and other funds employed, held, used, arising from, available or to be made available, which are related to the examination function provided by section 310 of the Small Business Investment Act of 1958 \[[15 U.S.C. 687b][/us/usc/t15/s687b]\] shall be transferred by the Inspector General of the Small Business Administration to the Investment Division of the Small Business Administration.”
 
@@ -137,22 +137,22 @@
 ----------
 
 [/us/usc/t15/s80a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%931
-[/us/pl/85/699/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs310
-[/us/pl/87/341/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341%2Fs9
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/87/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341
 [/us/stat/75/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F755
-[/us/pl/89/779/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779%2Fs5
+[/us/pl/89/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779
 [/us/stat/80/1360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1360
-[/us/pl/90/104/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104%2Fs208
+[/us/pl/90/104/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104%2FtII
 [/us/stat/81/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F271
-[/us/pl/100/590/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2Fs104
+[/us/pl/100/590/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2FtI
 [/us/stat/102/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2992
-[/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
+[/us/pl/102/366/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2FtIV
 [/us/stat/106/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1016
-[/us/pl/104/208/s208/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Ff
+[/us/pl/104/208/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD%2FtII
 [/us/stat/110/3009-745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-745
-[/us/pl/105/135/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs216
+[/us/pl/105/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtII
 [/us/stat/111/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2603
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
@@ -160,12 +160,12 @@
 [/us/usc/t15/s80a–51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9351
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
-[/us/pl/104/208/s208/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Ff%2F1
-[/us/pl/104/208/s208/h/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fh%2F1%2FC
-[/us/pl/104/208/s208/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Ff%2F2
-[/us/pl/102/366/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs407%2Fa
-[/us/pl/102/366/s408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs408%2Fb
-[/us/pl/102/366/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs406%2Fb
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
+[/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
+[/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
 [/us/pl/100/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590
 [/us/pl/100/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590
 [/us/pl/90/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104
@@ -179,7 +179,7 @@
 [/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
 [/us/pl/102/366/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs418
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
-[/us/pl/102/366/s407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs407%2Fb
+[/us/pl/102/366/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2FtIV
 [/us/stat/106/1016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1016
 [/us/usc/t15/s687b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687b
 

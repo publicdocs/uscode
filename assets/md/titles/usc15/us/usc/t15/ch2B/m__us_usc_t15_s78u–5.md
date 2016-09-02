@@ -193,7 +193,7 @@
 
             The terms “blank check company”, “rollup transaction”, “partnership”, “limited liability company”, “executive officer of an entity” and “direct participation investment program”, have the meanings given those terms by rule or regulation of the Commission.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 21E, as added [Pub. L. 104–67, title I, § 102(b)][/us/pl/104/67/s102/b], Dec. 22, 1995, [109 Stat. 753][/us/stat/109/753].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 21E, as added [Pub. L. 104–67, title I][/us/pl/104/67/tI], § 102(b), Dec. 22, 1995, [109 Stat. 753][/us/stat/109/753].)
 
  __References in Text__ 
 
@@ -220,7 +220,7 @@
 [/us/usc/t15/s80a–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%933%2Fa
 [/us/usc/t15/s78m/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m%2Fe
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/104/67/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2Fs102%2Fb
+[/us/pl/104/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2FtI
 [/us/stat/109/753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F753
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a

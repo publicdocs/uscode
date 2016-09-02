@@ -97,7 +97,7 @@
 
         The term “unlawful misuse” means conduct that violates a statute, ordinance, or regulation as it relates to the use of a qualified product.
 
-([Pub. L. 109–92, § 4][/us/pl/109/92/s4], Oct. 26, 2005, [119 Stat. 2097][/us/stat/119/2097].)
+([Pub. L. 109–92][/us/pl/109/92], § 4, Oct. 26, 2005, [119 Stat. 2097][/us/stat/119/2097].)
 
  __References in Text__ 
 
@@ -118,7 +118,7 @@
 [/us/usc/t18/s921/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921%2Fa%2F11
 [/us/usc/t18/s921/a/17/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs921%2Fa%2F17%2FA
 [/us/usc/t26/s501/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F6
-[/us/pl/109/92/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92%2Fs4
+[/us/pl/109/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92
 [/us/stat/119/2097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2097
 [/us/pl/109/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92
 [/us/stat/119/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2095

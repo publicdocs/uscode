@@ -49,7 +49,7 @@
 
         This section shall not be construed to bar or limit in any manner any action by the Commission or the Attorney General under any other provision of this chapter, nor shall it bar or limit in any manner any action to recover penalties, or to seek any other order regarding penalties.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 20A, as added [Pub. L. 100–704, § 5][/us/pl/100/704/s5], Nov. 19, 1988, [102 Stat. 4680][/us/stat/102/4680].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 20A, as added [Pub. L. 100–704][/us/pl/100/704], § 5, Nov. 19, 1988, [102 Stat. 4680][/us/stat/102/4680].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 [/us/usc/t15/s78u/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78u%2Fd
 [/us/usc/t15/s78t/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78t%2Fa
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/100/704/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F704%2Fs5
+[/us/pl/100/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F704
 [/us/stat/102/4680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4680
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/100/704/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F704%2Fs9

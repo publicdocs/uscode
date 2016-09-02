@@ -75,7 +75,7 @@
 
             The selection of a Center shall be determined by a competitive proposal process administered by the Secretary.
 
-([Pub. L. 108–423, § 3][/us/pl/108/423/s3], Nov. 30, 2004, [118 Stat. 2400][/us/stat/118/2400].)
+([Pub. L. 108–423][/us/pl/108/423], § 3, Nov. 30, 2004, [118 Stat. 2400][/us/stat/118/2400].)
 
  __References in Text__ 
 
@@ -92,7 +92,7 @@
 ----------
 ----------
 
-[/us/pl/108/423/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423%2Fs3
+[/us/pl/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423
 [/us/stat/118/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2400
 [/us/pl/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423
 [/us/stat/118/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2400

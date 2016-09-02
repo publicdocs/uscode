@@ -17,7 +17,7 @@
 
     A card issuer may not open any credit card account for any consumer under an open end consumer credit plan, or increase any credit limit applicable to such account, unless the card issuer considers the ability of the consumer to make the required payments under the terms of such account.
 
-([Pub. L. 90–321, title I, § 150][/us/pl/90/321/s150], as added [Pub. L. 111–24, title I, § 109(a)][/us/pl/111/24/s109/a], May 22, 2009, [123 Stat. 1743][/us/stat/123/1743].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 150, as added [Pub. L. 111–24, title I][/us/pl/111/24/tI], § 109(a), May 22, 2009, [123 Stat. 1743][/us/stat/123/1743].)
 
  __Effective Date__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/90/321/s150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs150
-[/us/pl/111/24/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs109%2Fa
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/111/24/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtI
 [/us/stat/123/1743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1743
 [/us/pl/111/24/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs3
 [/us/usc/t15/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602

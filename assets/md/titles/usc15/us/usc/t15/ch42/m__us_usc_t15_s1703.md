@@ -67,7 +67,7 @@
 
         If a contract or agreement is revoked pursuant to subsection (b), (c), or (d), if the purchaser or lessee tenders to the seller or lessor (or successor thereof) an instrument conveying his or her rights and interests in the lot, and if the rights and interests and the lot are in a condition which is substantially similar to the condition in which they were conveyed or purported to be conveyed to the purchaser or lessee, such purchaser or lessee shall be entitled to all money paid by him or her under such contract or agreement.
 
-([Pub. L. 90–448, title XIV, § 1404][/us/pl/90/448/s1404], Aug. 1, 1968, [82 Stat. 591][/us/stat/82/591]; [Pub. L. 93–383, title VIII, § 812(c)(1)][/us/pl/93/383/s812/c/1], Aug. 22, 1974, [88 Stat. 737][/us/stat/88/737]; [Pub. L. 96–153, title IV, § 403][/us/pl/96/153/s403], Dec. 21, 1979, [93 Stat. 1127][/us/stat/93/1127].)
+([Pub. L. 90–448, title XIV][/us/pl/90/448/tXIV], § 1404, Aug. 1, 1968, [82 Stat. 591][/us/stat/82/591]; [Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 812(c)(1), Aug. 22, 1974, [88 Stat. 737][/us/stat/88/737]; [Pub. L. 96–153, title IV][/us/pl/96/153/tIV], § 403, Dec. 21, 1979, [93 Stat. 1127][/us/stat/93/1127].)
 
  __Amendments__ 
 
@@ -85,7 +85,7 @@
 
  __Effective Date of 1974 Amendment__ 
 
-[Pub. L. 93–383, title VIII, § 812(c)(2)][/us/pl/93/383/s812/c/2], Aug. 22, 1974, [88 Stat. 737][/us/stat/88/737], provided that: 
+[Pub. L. 93–383, title VIII][/us/pl/93/383/tVIII], § 812(c)(2), Aug. 22, 1974, [88 Stat. 737][/us/stat/88/737], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall be effective sixty days after the date of the enactment of this Act \[Aug. 22, 1974\].”
 
@@ -102,11 +102,11 @@
 [/us/usc/t15/s1702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1702%2Fa
 [/us/usc/t15/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1702
 [/us/usc/t15/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1702
-[/us/pl/90/448/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1404
+[/us/pl/90/448/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIV
 [/us/stat/82/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F591
-[/us/pl/93/383/s812/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs812%2Fc%2F1
+[/us/pl/93/383/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVIII
 [/us/stat/88/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F737
-[/us/pl/96/153/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs403
+[/us/pl/96/153/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2FtIV
 [/us/stat/93/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1127
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
 [/us/usc/t15/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1702
@@ -117,7 +117,7 @@
 [/us/pl/96/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153
 [/us/pl/96/153/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F153%2Fs410
 [/us/usc/t15/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1701
-[/us/pl/93/383/s812/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2Fs812%2Fc%2F2
+[/us/pl/93/383/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383%2FtVIII
 [/us/stat/88/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F737
 
 

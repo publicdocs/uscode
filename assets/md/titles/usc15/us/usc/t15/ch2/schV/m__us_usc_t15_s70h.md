@@ -23,7 +23,7 @@
 
         The furnishing of a false guaranty, except where the person furnishing such false guaranty relies on a guaranty to the same effect received in good faith signed by and containing the name and address of the person residing in the United States by whom the product guaranteed was manufactured or from whom it was received, is unlawful, and shall be an unfair method of competition, and an unfair and deceptive act or practice, in commerce, within the meaning of the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\].
 
-([Pub. L. 85–897, § 10][/us/pl/85/897/s10], Sept. 2, 1958, [72 Stat. 1722][/us/stat/72/1722].)
+([Pub. L. 85–897][/us/pl/85/897], § 10, Sept. 2, 1958, [72 Stat. 1722][/us/stat/72/1722].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t15/s70a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs70a
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/pl/85/897/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F897%2Fs10
+[/us/pl/85/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F897
 [/us/stat/72/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1722
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

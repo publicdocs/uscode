@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title II, § 210, [48 Stat. 908][/us/stat/48/908], transferred the powers, duties and functions of the Federal Trade Commission under subchapter I of chapter 2A of this title to the Securities and Exchange Commission. Pending proceedings before the Federal Trade Commission were continued before the Securities and Exchange Commission.
+    Section, [act June 6, 1934, ch. 404, title II][/us/act/1934-06-06/ch404/tII], § 210, [48 Stat. 908][/us/stat/48/908], transferred the powers, duties and functions of the Federal Trade Commission under subchapter I of chapter 2A of this title to the Securities and Exchange Commission. Pending proceedings before the Federal Trade Commission were continued before the Securities and Exchange Commission.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
+[/us/act/1934-06-06/ch404/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404%2FtII
 [/us/stat/48/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F908
 
 

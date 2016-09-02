@@ -37,7 +37,7 @@
 
         (3) any other statute or regulation governing the conduct of Federal employees.
 
-([Pub. L. 110–314, title II, § 208][/us/pl/110/314/s208], Aug. 14, 2008, [122 Stat. 3046][/us/stat/122/3046].)
+([Pub. L. 110–314, title II][/us/pl/110/314/tII], § 208, Aug. 14, 2008, [122 Stat. 3046][/us/stat/122/3046].)
 
  __References in Text__ 
 
@@ -59,7 +59,7 @@
 ----------
 
 [/us/usc/t15/s2053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2053
-[/us/pl/110/314/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs208
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3046
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824

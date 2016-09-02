@@ -109,7 +109,7 @@
 
         (2) No provision of any franchise shall be valid or enforceable if the provision specifies that the interpretation or enforcement of the franchise shall be governed by the law of any State other than the State in which the franchisee has the principal place of business of the franchisee.
 
-([Pub. L. 95–297, title I, § 105][/us/pl/95/297/s105], June 19, 1978, [92 Stat. 331][/us/stat/92/331]; [Pub. L. 103–371, § 4][/us/pl/103/371/s4], Oct. 19, 1994, [108 Stat. 3485][/us/stat/108/3485]; [Pub. L. 110–140, title II, § 241(b)][/us/pl/110/140/s241/b], Dec. 19, 2007, [121 Stat. 1540][/us/stat/121/1540].)
+([Pub. L. 95–297, title I][/us/pl/95/297/tI], § 105, June 19, 1978, [92 Stat. 331][/us/stat/92/331]; [Pub. L. 103–371][/us/pl/103/371], § 4, Oct. 19, 1994, [108 Stat. 3485][/us/stat/108/3485]; [Pub. L. 110–140, title II][/us/pl/110/140/tII], § 241(b), Dec. 19, 2007, [121 Stat. 1540][/us/stat/121/1540].)
 
  __References in Text__ 
 
@@ -139,11 +139,11 @@
 [/us/usc/t15/s2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2802
 [/us/usc/t15/s2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2804
 [/us/usc/t15/s2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2802
-[/us/pl/95/297/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2Fs105
+[/us/pl/95/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2FtI
 [/us/stat/92/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F331
-[/us/pl/103/371/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F371%2Fs4
+[/us/pl/103/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F371
 [/us/stat/108/3485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3485
-[/us/pl/110/140/s241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs241%2Fb
+[/us/pl/110/140/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtII
 [/us/stat/121/1540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1540
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/103/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F371

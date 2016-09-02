@@ -31,7 +31,7 @@
 
         Nothing contained in this section shall in any way affect or derogate from the powers of the courts of the United States and the Commission with reference to reorganizations contained in title 11.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 25, [54 Stat. 826][/us/stat/54/826]; [Pub. L. 91–547, § 14][/us/pl/91/547/s14], Dec. 14, 1970, [84 Stat. 1424][/us/stat/84/1424]; [Pub. L. 95–598, title III, § 310(c)][/us/pl/95/598/s310/c], Nov. 6, 1978, [92 Stat. 2676][/us/stat/92/2676].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 25, [54 Stat. 826][/us/stat/54/826]; [Pub. L. 91–547][/us/pl/91/547], § 14, Dec. 14, 1970, [84 Stat. 1424][/us/stat/84/1424]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 310(c), Nov. 6, 1978, [92 Stat. 2676][/us/stat/92/2676].)
 
  __Amendments__ 
 
@@ -60,9 +60,9 @@
 
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F826
-[/us/pl/91/547/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs14
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1424
-[/us/pl/95/598/s310/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs310%2Fc
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2676
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547

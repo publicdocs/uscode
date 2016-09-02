@@ -49,7 +49,7 @@
 
             (B) the most recently published version of the recommended regulatory guidelines certified and published by the Association of Boxing Commissions.
 
-([Pub. L. 104–272, § 21][/us/pl/104/272/s21], formerly § 13, Oct. 9, 1996, [110 Stat. 3313][/us/stat/110/3313]; renumbered § 21, [Pub. L. 106–210, § 4(1)][/us/pl/106/210/s4/1], May 26, 2000, [114 Stat. 322][/us/stat/114/322].)
+([Pub. L. 104–272][/us/pl/104/272], § 21, formerly § 13, Oct. 9, 1996, [110 Stat. 3313][/us/stat/110/3313]; renumbered § 21, [Pub. L. 106–210][/us/pl/106/210], § 4(1), May 26, 2000, [114 Stat. 322][/us/stat/114/322].)
 
 ----------
 
@@ -59,9 +59,9 @@
 ----------
 
 [/us/usc/t25/s450b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450b%2Fe
-[/us/pl/104/272/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs21
+[/us/pl/104/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272
 [/us/stat/110/3313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3313
-[/us/pl/106/210/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs4%2F1
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 [/us/stat/114/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F322
 
 

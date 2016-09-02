@@ -17,7 +17,7 @@
 
     Each department, agency, and independent establishment of the Federal Government, in coordination with the Center, shall, to the extent appropriate, make available to State and local governments, labor organizations, industry, public institutions, and other qualified organizations advice, information, and support, including financial and other assistance, designed to maintain, promote, and enhance sustained productivity growth in the public and private sectors of the United States.
 
-([Pub. L. 94–136, title III, § 303][/us/pl/94/136/s303], Nov. 28, 1975, [89 Stat. 741][/us/stat/89/741].)
+([Pub. L. 94–136, title III][/us/pl/94/136/tIII], § 303, Nov. 28, 1975, [89 Stat. 741][/us/stat/89/741].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/136/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2Fs303
+[/us/pl/94/136/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2FtIII
 [/us/stat/89/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F741
 
 

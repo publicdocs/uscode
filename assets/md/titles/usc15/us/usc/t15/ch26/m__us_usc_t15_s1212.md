@@ -17,7 +17,7 @@
 
     Any person who violates [section 1211 of this title][/us/usc/t15/s1211] shall be guilty of a misdemeanor and shall, upon conviction thereof, be subject to imprisonment for not more than one year, or a fine of not more than $1,000, or both.
 
-([Aug. 2, 1956, ch. 890, § 2][/us/act/1956-08-02/ch890/s2], [70 Stat. 953][/us/stat/70/953].)
+([Aug. 2, 1956, ch. 890][/us/act/1956-08-02/ch890], § 2, [70 Stat. 953][/us/stat/70/953].)
 
  __Transfer of Functions__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t15/s1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1211
-[/us/act/1956-08-02/ch890/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch890%2Fs2
+[/us/act/1956-08-02/ch890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-02%2Fch890
 [/us/stat/70/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F953
 [/us/usc/t15/s2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2079
 

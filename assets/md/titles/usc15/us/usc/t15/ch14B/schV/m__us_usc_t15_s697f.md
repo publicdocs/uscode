@@ -129,7 +129,7 @@
 
         There are authorized to be appropriated $30,000,000 to carry out the provisions of The Small Business Prepayment Penalty Relief Act of 1994.
 
-([Pub. L. 85–699, title V, § 509][/us/pl/85/699/s509], as added [Pub. L. 103–403, title V, § 503][/us/pl/103/403/s503], Oct. 22, 1994, [108 Stat. 4199][/us/stat/108/4199]; amended [Pub. L. 104–208, div. D, title II, § 208(h)(1)(H)][/us/pl/104/208/s208/h/1/H], Sept. 30, 1996, [110 Stat. 3009–747][/us/stat/110/3009-747].)
+([Pub. L. 85–699, title V][/us/pl/85/699/tV], § 509, as added [Pub. L. 103–403, title V][/us/pl/103/403/tV], § 503, Oct. 22, 1994, [108 Stat. 4199][/us/stat/108/4199]; amended [Pub. L. 104–208, div. D, title II][/us/pl/104/208/dD/tII], § 208(h)(1)(H), Sept. 30, 1996, [110 Stat. 3009–747][/us/stat/110/3009-747].)
 
  __References in Text__ 
 
@@ -141,13 +141,13 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a)(1). [Pub. L. 104–208, § 208(h)(1)(H)(i)][/us/pl/104/208/s208/h/1/H/i], struck out at end “A small business investment company operating under the authority of [section 681(d) of this title][/us/usc/t15/s681/d] that has issued a debenture that was purchased by and is held by the Administration, may, under the same terms and conditions, prepay such debenture, and the penalty as provided in this section, and shall thereafter be immediately eligible to apply for additional assistance from the Administration.”
+    1996—Subsec. (a)(1). [Pub. L. 104–208][/us/pl/104/208], § 208(h)(1)(H)(i), struck out at end “A small business investment company operating under the authority of [section 681(d) of this title][/us/usc/t15/s681/d] that has issued a debenture that was purchased by and is held by the Administration, may, under the same terms and conditions, prepay such debenture, and the penalty as provided in this section, and shall thereafter be immediately eligible to apply for additional assistance from the Administration.”
 
-    Subsec. (e)(1)(B). [Pub. L. 104–208, § 208(h)(1)(H)(ii)][/us/pl/104/208/s208/h/1/H/ii], substituted “[section 681 of this title][/us/usc/t15/s681]” for “subsection (c) or (d) of [section 681 of this title][/us/usc/t15/s681]”.
+    Subsec. (e)(1)(B). [Pub. L. 104–208][/us/pl/104/208], § 208(h)(1)(H)(ii), substituted “[section 681 of this title][/us/usc/t15/s681]” for “subsection (c) or (d) of [section 681 of this title][/us/usc/t15/s681]”.
 
  __Intention of Congress__ 
 
-[Pub. L. 103–403, title V, § 502][/us/pl/103/403/s502], Oct. 22, 1994, [108 Stat. 4198][/us/stat/108/4198], provided that:
+[Pub. L. 103–403, title V][/us/pl/103/403/tV], § 502, Oct. 22, 1994, [108 Stat. 4198][/us/stat/108/4198], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -192,10 +192,10 @@
 [/us/usc/t15/s697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs697
 [/us/usc/t15/s681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681
 [/us/usc/t15/s697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs697
-[/us/pl/85/699/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs509
-[/us/pl/103/403/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs503
+[/us/pl/85/699/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtV
+[/us/pl/103/403/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtV
 [/us/stat/108/4199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4199
-[/us/pl/104/208/s208/h/1/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fh%2F1%2FH
+[/us/pl/104/208/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD%2FtII
 [/us/stat/110/3009-747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-747
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
 [/us/pl/103/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317
@@ -205,12 +205,12 @@
 [/us/stat/108/4198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4198
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
-[/us/pl/104/208/s208/h/1/H/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fh%2F1%2FH%2Fi
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t15/s681/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681%2Fd
-[/us/pl/104/208/s208/h/1/H/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fh%2F1%2FH%2Fii
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t15/s681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681
 [/us/usc/t15/s681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681
-[/us/pl/103/403/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs502
+[/us/pl/103/403/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtV
 [/us/stat/108/4198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4198
 [/us/pl/103/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317
 [/us/stat/108/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1724

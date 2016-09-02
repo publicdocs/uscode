@@ -23,7 +23,7 @@
 
         The manufacture for sale, the sale, or the offering for sale, of any product made of fabric or related material which fails to conform to an applicable standard or regulation issued or amended under [section 1193 of this title][/us/usc/t15/s1193], and which has been shipped or received in commerce shall be unlawful and shall be an unfair method of competition and an unfair and deceptive act or practice in commerce under the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\].
 
-([June 30, 1953, ch. 164, § 3][/us/act/1953-06-30/ch164/s3], [67 Stat. 111][/us/stat/67/111]; [Pub. L. 90–189, § 2][/us/pl/90/189/s2], Dec. 14, 1967, [81 Stat. 568][/us/stat/81/568].)
+([June 30, 1953, ch. 164][/us/act/1953-06-30/ch164], § 3, [67 Stat. 111][/us/stat/67/111]; [Pub. L. 90–189][/us/pl/90/189], § 2, Dec. 14, 1967, [81 Stat. 568][/us/stat/81/568].)
 
  __References in Text__ 
 
@@ -50,9 +50,9 @@
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1193
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/act/1953-06-30/ch164/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch164%2Fs3
+[/us/act/1953-06-30/ch164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch164
 [/us/stat/67/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F111
-[/us/pl/90/189/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189%2Fs2
+[/us/pl/90/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189
 [/us/stat/81/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F568
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

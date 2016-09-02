@@ -203,7 +203,7 @@
 
         In addition to any other authority under this chapter, a small business investment company licensed in the first fiscal year after December 19, 2007, or any fiscal year thereafter may issue Energy Saving debentures.
 
-([Pub. L. 85–699, title III, § 303][/us/pl/85/699/s303], Aug. 21, 1958, [72 Stat. 692][/us/stat/72/692]; [Pub. L. 87–341, § 4][/us/pl/87/341/s4], Oct. 3, 1961, [75 Stat. 752][/us/stat/75/752]; [Pub. L. 88–273, § 3][/us/pl/88/273/s3], Feb. 28, 1964, [78 Stat. 146][/us/stat/78/146]; [Pub. L. 90–104, title II, § 205][/us/pl/90/104/s205], Oct. 11, 1967, [81 Stat. 270][/us/stat/81/270]; [Pub. L. 92–213, § 10][/us/pl/92/213/s10], Dec. 22, 1971, [85 Stat. 776][/us/stat/85/776]; [Pub. L. 92–595, § 2(c)][/us/pl/92/595/s2/c], (d), Oct. 27, 1972, [86 Stat. 1314][/us/stat/86/1314]; [Pub. L. 94–305, title I, § 104][/us/pl/94/305/s104], June 4, 1976, [90 Stat. 665][/us/stat/90/665]; [Pub. L. 95–507, title I, § 101][/us/pl/95/507/s101], Oct. 24, 1978, [92 Stat. 1757][/us/stat/92/1757]; [Pub. L. 101–162, title V][/us/pl/101/162], (4), Nov. 21, 1989, [103 Stat. 1025][/us/stat/103/1025]; [Pub. L. 101–574, title II, § 215(a)(1)][/us/pl/101/574/s215/a/1], (b), Nov. 15, 1990, [104 Stat. 2822][/us/stat/104/2822]; [Pub. L. 102–366, title IV][/us/pl/102/366], §§ 402, 403, 412, 413, Sept. 4, 1992, [106 Stat. 1008][/us/stat/106/1008], 1009, 1018; [Pub. L. 103–403, title II, § 215][/us/pl/103/403/s215], Oct. 22, 1994, [108 Stat. 4184][/us/stat/108/4184]; [Pub. L. 104–208, div. D, title II, § 208(d)(1)][/us/pl/104/208/s208/d/1]–(4)(A), (5), (6), (h)(1)(A), Sept. 30, 1996, [110 Stat. 3009–743][/us/stat/110/3009-743], 3009–744, 3009–746; [Pub. L. 105–135, title II, § 215(b)][/us/pl/105/135/s215/b]–(d), Dec. 2, 1997, [111 Stat. 2602][/us/stat/111/2602], 2603; [Pub. L. 106–9, § 2(d)(1)][/us/pl/106/9/s2/d/1], Apr. 5, 1999, [113 Stat. 18][/us/stat/113/18]; [Pub. L. 106–554, § 1(a)(8)][/us/pl/106/554/s1/a/8] \[§ 1(d)\], § 1(a)(9) \[title IV, §§ 404, 405\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–664, 2763A–690, 2763A–691; [Pub. L. 107–100, § 2(a)][/us/pl/107/100/s2/a], Dec. 21, 2001, [115 Stat. 966][/us/stat/115/966]; [Pub. L. 108–84, § 117][/us/pl/108/84/s117], Sept. 30, 2003, [117 Stat. 1044][/us/stat/117/1044]; [Pub. L. 108–172, § 1(b)][/us/pl/108/172/s1/b], Dec. 6, 2003, [117 Stat. 2065][/us/stat/117/2065]; [Pub. L. 108–447, div. K, title II, § 201][/us/pl/108/447/s201], Dec. 8, 2004, [118 Stat. 3465][/us/stat/118/3465]; [Pub. L. 110–140, title XII][/us/pl/110/140], §§ 1205(a), 1206, Dec. 19, 2007, [121 Stat. 1773][/us/stat/121/1773]; [Pub. L. 111–5, div. A, title V, § 505(a)][/us/pl/111/5/s505/a], (c), Feb. 17, 2009, [123 Stat. 156][/us/stat/123/156], 157; [Pub. L. 114–113, div. E, title V, § 521(b)][/us/pl/114/113/s521/b], Dec. 18, 2015, [129 Stat. 2464][/us/stat/129/2464].)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 303, Aug. 21, 1958, [72 Stat. 692][/us/stat/72/692]; [Pub. L. 87–341][/us/pl/87/341], § 4, Oct. 3, 1961, [75 Stat. 752][/us/stat/75/752]; [Pub. L. 88–273][/us/pl/88/273], § 3, Feb. 28, 1964, [78 Stat. 146][/us/stat/78/146]; [Pub. L. 90–104, title II][/us/pl/90/104/tII], § 205, Oct. 11, 1967, [81 Stat. 270][/us/stat/81/270]; [Pub. L. 92–213][/us/pl/92/213], § 10, Dec. 22, 1971, [85 Stat. 776][/us/stat/85/776]; [Pub. L. 92–595][/us/pl/92/595], § 2(c), (d), Oct. 27, 1972, [86 Stat. 1314][/us/stat/86/1314]; [Pub. L. 94–305, title I][/us/pl/94/305/tI], § 104, June 4, 1976, [90 Stat. 665][/us/stat/90/665]; [Pub. L. 95–507, title I][/us/pl/95/507/tI], § 101, Oct. 24, 1978, [92 Stat. 1757][/us/stat/92/1757]; [Pub. L. 101–162, title V][/us/pl/101/162/tV], (4), Nov. 21, 1989, [103 Stat. 1025][/us/stat/103/1025]; [Pub. L. 101–574, title II][/us/pl/101/574/tII], § 215(a)(1), (b), Nov. 15, 1990, [104 Stat. 2822][/us/stat/104/2822]; [Pub. L. 102–366, title IV][/us/pl/102/366/tIV], §§ 402, 403, 412, 413, Sept. 4, 1992, [106 Stat. 1008][/us/stat/106/1008], 1009, 1018; [Pub. L. 103–403, title II][/us/pl/103/403/tII], § 215, Oct. 22, 1994, [108 Stat. 4184][/us/stat/108/4184]; [Pub. L. 104–208, div. D, title II][/us/pl/104/208/dD/tII], § 208(d)(1)–(4)(A), (5), (6), (h)(1)(A), Sept. 30, 1996, [110 Stat. 3009–743][/us/stat/110/3009-743], 3009–744, 3009–746; [Pub. L. 105–135, title II][/us/pl/105/135/tII], § 215(b)–(d), Dec. 2, 1997, [111 Stat. 2602][/us/stat/111/2602], 2603; [Pub. L. 106–9][/us/pl/106/9], § 2(d)(1), Apr. 5, 1999, [113 Stat. 18][/us/stat/113/18]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(8) \[§ 1(d)\], § 1(a)(9) \[title IV, §§ 404, 405\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–664, 2763A–690, 2763A–691; [Pub. L. 107–100][/us/pl/107/100], § 2(a), Dec. 21, 2001, [115 Stat. 966][/us/stat/115/966]; [Pub. L. 108–84][/us/pl/108/84], § 117, Sept. 30, 2003, [117 Stat. 1044][/us/stat/117/1044]; [Pub. L. 108–172][/us/pl/108/172], § 1(b), Dec. 6, 2003, [117 Stat. 2065][/us/stat/117/2065]; [Pub. L. 108–447, div. K, title II][/us/pl/108/447/dK/tII], § 201, Dec. 8, 2004, [118 Stat. 3465][/us/stat/118/3465]; [Pub. L. 110–140, title XII][/us/pl/110/140/tXII], §§ 1205(a), 1206, Dec. 19, 2007, [121 Stat. 1773][/us/stat/121/1773]; [Pub. L. 111–5, div. A, title V][/us/pl/111/5/dA/tV], § 505(a), (c), Feb. 17, 2009, [123 Stat. 156][/us/stat/123/156], 157; [Pub. L. 114–113, div. E, title V][/us/pl/114/113/dE/tV], § 521(b), Dec. 18, 2015, [129 Stat. 2464][/us/stat/129/2464].)
 
  __References in Text__ 
 
@@ -213,37 +213,37 @@
 
     2015—Subsec. (b)(2)(B). [Pub. L. 114–113][/us/pl/114/113] substituted “$350,000,000” for “$225,000,000”.
 
-    2009—Subsec. (b)(2)(A), (B). [Pub. L. 111–5, § 505(a)(1)][/us/pl/111/5/s505/a/1], added subpars. (A) and (B) and struck out former subpars. (A) and (B) which set forth the maximum amount of outstanding leverage for a company with private capital of not more than $15,000,000, for a company with from $15,000,000 to $30,000,000 in private capital, and for a company with private capital of more than $30,000,000, and set forth provisions relating to initial and annual adjustments of amounts.
+    2009—Subsec. (b)(2)(A), (B). [Pub. L. 111–5][/us/pl/111/5], § 505(a)(1), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which set forth the maximum amount of outstanding leverage for a company with private capital of not more than $15,000,000, for a company with from $15,000,000 to $30,000,000 in private capital, and for a company with private capital of more than $30,000,000, and set forth provisions relating to initial and annual adjustments of amounts.
 
-    Subsec. (b)(2)(C). [Pub. L. 111–5, § 505(a)(2)][/us/pl/111/5/s505/a/2], designated existing provisions as cl. (i) and added cls. (ii) and (iii).
+    Subsec. (b)(2)(C). [Pub. L. 111–5][/us/pl/111/5], § 505(a)(2), designated existing provisions as cl. (i) and added cls. (ii) and (iii).
 
-    Subsec. (b)(4). [Pub. L. 111–5, § 505(a)(3)][/us/pl/111/5/s505/a/3], struck out par. (4) which related to maximum aggregate amount of leverage.
+    Subsec. (b)(4). [Pub. L. 111–5][/us/pl/111/5], § 505(a)(3), struck out par. (4) which related to maximum aggregate amount of leverage.
 
-    Subsec. (d). [Pub. L. 111–5, § 505(c)][/us/pl/111/5/s505/c], amended subsec. (d) generally. Prior to amendment, subsec. (d) related to written certification that not less than 20 percent of the licensee’s aggregate dollar amount of financings would be provided to smaller enterprises, required additional written certification by those licensees with leverage over $90,000,000, and set forth provisions relating to multiple licensees.
+    Subsec. (d). [Pub. L. 111–5][/us/pl/111/5], § 505(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to written certification that not less than 20 percent of the licensee’s aggregate dollar amount of financings would be provided to smaller enterprises, required additional written certification by those licensees with leverage over $90,000,000, and set forth provisions relating to multiple licensees.
 
-    2007—Subsec. (b)(2)(D). [Pub. L. 110–140, § 1206(a)][/us/pl/110/140/s1206/a], added subpar. (D).
+    2007—Subsec. (b)(2)(D). [Pub. L. 110–140][/us/pl/110/140], § 1206(a), added subpar. (D).
 
-    Subsec. (b)(4)(E). [Pub. L. 110–140, § 1206(b)][/us/pl/110/140/s1206/b], added subpar. (E).
+    Subsec. (b)(4)(E). [Pub. L. 110–140][/us/pl/110/140], § 1206(b), added subpar. (E).
 
-    Subsec. (k). [Pub. L. 110–140, § 1205(a)][/us/pl/110/140/s1205/a], added subsec. (k).
+    Subsec. (k). [Pub. L. 110–140][/us/pl/110/140], § 1205(a), added subsec. (k).
 
     2004—Subsec. (g)(4). [Pub. L. 108–447][/us/pl/108/447] substituted “chapter” for “subsection” in first sentence and “from appropriate sources, as determined by the Administration” for “contingent upon and limited to the extent of earnings” in second sentence.
 
     2003—Subsec. (g)(2). [Pub. L. 108–84][/us/pl/108/84] and [Pub. L. 108–172][/us/pl/108/172] amended par. (2) identically, substituting “1.46 percent” for “1.38 percent”.
 
-    2001—Subsec. (b). [Pub. L. 107–100, § 2(a)(1)][/us/pl/107/100/s2/a/1], in introductory provisions, substituted “September 30, 2001” for “September 30, 2000”, struck out “of not more than 1 percent per year” after “annually by the Administration,”, and inserted “which amount may not exceed 1.38 percent per year, and” before “which shall be paid”.
+    2001—Subsec. (b). [Pub. L. 107–100][/us/pl/107/100], § 2(a)(1), in introductory provisions, substituted “September 30, 2001” for “September 30, 2000”, struck out “of not more than 1 percent per year” after “annually by the Administration,”, and inserted “which amount may not exceed 1.38 percent per year, and” before “which shall be paid”.
 
-    Subsec. (g)(2). [Pub. L. 107–100, § 2(a)(2)][/us/pl/107/100/s2/a/2], substituted “September 30, 2001” for “September 30, 2000”, struck out “of not more than 1 percent per year” after “annually by the Administration,”, and inserted “which amount may not exceed 1.38 percent per year, and” before “which shall be paid”.
+    Subsec. (g)(2). [Pub. L. 107–100][/us/pl/107/100], § 2(a)(2), substituted “September 30, 2001” for “September 30, 2000”, struck out “of not more than 1 percent per year” after “annually by the Administration,”, and inserted “which amount may not exceed 1.38 percent per year, and” before “which shall be paid”.
 
-    2000—Subsec. (b). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title IV, § 404(a)\], in introductory provisions, substituted “plus, for debentures obligated after September 30, 2000, an additional charge, in an amount established annually by the Administration, of not more than 1 percent per year as necessary to reduce to zero the cost (as defined in [section 661a of title 2][/us/usc/t2/s661a]) to the Administration of purchasing and guaranteeing debentures under this chapter, which shall be paid to and retained by the Administration” for “plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration”.
+    2000—Subsec. (b). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title IV, § 404(a)\], in introductory provisions, substituted “plus, for debentures obligated after September 30, 2000, an additional charge, in an amount established annually by the Administration, of not more than 1 percent per year as necessary to reduce to zero the cost (as defined in [section 661a of title 2][/us/usc/t2/s661a]) to the Administration of purchasing and guaranteeing debentures under this chapter, which shall be paid to and retained by the Administration” for “plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration”.
 
-    Subsec. (b)(2). [Pub. L. 106–554, § 1(a)(8)][/us/pl/106/554/s1/a/8] \[§ 1(d)(1)\], amended par. (2) generally, revising structure of par. from one consisting of introductory provisions and subpars. (A) to (D) to one consisting of subpars. (A) and (B), and adding subpar. (C).
+    Subsec. (b)(2). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(8) \[§ 1(d)(1)\], amended par. (2) generally, revising structure of par. from one consisting of introductory provisions and subpars. (A) to (D) to one consisting of subpars. (A) and (B), and adding subpar. (C).
 
-    Subsec. (b)(4)(D). [Pub. L. 106–554, § 1(a)(8)][/us/pl/106/554/s1/a/8] \[§ 1(d)(2)\], added subpar. (D).
+    Subsec. (b)(4)(D). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(8) \[§ 1(d)(2)\], added subpar. (D).
 
-    Subsec. (g)(2). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title IV, § 404(b)\], substituted “plus, for participating securities obligated after September 30, 2000, an additional charge, in an amount established annually by the Administration, of not more than 1 percent per year as necessary to reduce to zero the cost (as defined in [section 661a of title 2][/us/usc/t2/s661a]) to the Administration of purchasing and guaranteeing participating securities under this chapter, which shall be paid to and retained by the Administration” for “plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration”.
+    Subsec. (g)(2). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title IV, § 404(b)\], substituted “plus, for participating securities obligated after September 30, 2000, an additional charge, in an amount established annually by the Administration, of not more than 1 percent per year as necessary to reduce to zero the cost (as defined in [section 661a of title 2][/us/usc/t2/s661a]) to the Administration of purchasing and guaranteeing participating securities under this chapter, which shall be paid to and retained by the Administration” for “plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration”.
 
-    Subsec. (g)(8). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title IV, § 405\], substituted “subchapter S corporation” for “subchapter s corporation”, “any time during any calendar quarter based on an” for “the end of any calendar quarter based on a quarterly”, and “interim distributions for a calendar year,” for “quarterly distributions for a calendar year,”.
+    Subsec. (g)(8). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title IV, § 405\], substituted “subchapter S corporation” for “subchapter s corporation”, “any time during any calendar quarter based on an” for “the end of any calendar quarter based on a quarterly”, and “interim distributions for a calendar year,” for “quarterly distributions for a calendar year,”.
 
     1999—Subsec. (g)(13). [Pub. L. 106–9][/us/pl/106/9] struck out heading and text of par. (13). Text read as follows:
 
@@ -251,41 +251,41 @@
 
     “(B) Exception.—During the last quarter of each fiscal year, if the Administrator determines that there is a lack of qualified applicants with private capital of not more than $20,000,000, the Administrator may utilize all or any part of the program level for securities reserved under subparagraph (A) for qualified applicants with private capital of more than $20,000,000.”
 
-    1997—Subsec. (b)(2)(D). [Pub. L. 105–135, § 215(b)(1)(A)][/us/pl/105/135/s215/b/1/A], added subpar. (D).
+    1997—Subsec. (b)(2)(D). [Pub. L. 105–135][/us/pl/105/135], § 215(b)(1)(A), added subpar. (D).
 
-    Subsec. (b)(4). [Pub. L. 105–135, § 215(b)(1)(B)][/us/pl/105/135/s215/b/1/B], added par. (4) and struck out former par. (4) which read as follows: “In no event shall the aggregate amount of outstanding leverage of any such company or companies which are commonly controlled as determined by the Administration exceed $90,000,000, unless the Administration determines on a case by case basis to permit a higher amount for companies under common control and imposes such additional terms and conditions as it determines appropriate to minimize the risk of loss to the Administration in the event of default.”
+    Subsec. (b)(4). [Pub. L. 105–135][/us/pl/105/135], § 215(b)(1)(B), added par. (4) and struck out former par. (4) which read as follows: “In no event shall the aggregate amount of outstanding leverage of any such company or companies which are commonly controlled as determined by the Administration exceed $90,000,000, unless the Administration determines on a case by case basis to permit a higher amount for companies under common control and imposes such additional terms and conditions as it determines appropriate to minimize the risk of loss to the Administration in the event of default.”
 
-    Subsec. (d). [Pub. L. 105–135, § 215(b)(2)][/us/pl/105/135/s215/b/2], added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “The Administrator shall require each licensee, as a condition of approval of an application for leverage, to certify in writing that not less than 20 percent of the aggregate dollar amount of the financings of the licensee will be provided to smaller enterprises.”
+    Subsec. (d). [Pub. L. 105–135][/us/pl/105/135], § 215(b)(2), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “The Administrator shall require each licensee, as a condition of approval of an application for leverage, to certify in writing that not less than 20 percent of the aggregate dollar amount of the financings of the licensee will be provided to smaller enterprises.”
 
-    Subsec. (g)(8). [Pub. L. 105–135, § 215(c)][/us/pl/105/135/s215/c], inserted at end “A company may also elect to make a distribution under this paragraph at the end of any calendar quarter based on a quarterly estimate of the maximum tax liability. If a company makes 1 or more quarterly distributions for a calendar year, and the aggregate amount of those distributions exceeds the maximum amount that the company could have distributed based on a single annual computation, any subsequent distribution by the company under this paragraph shall be reduced by an amount equal to the excess amount distributed.”
+    Subsec. (g)(8). [Pub. L. 105–135][/us/pl/105/135], § 215(c), inserted at end “A company may also elect to make a distribution under this paragraph at the end of any calendar quarter based on a quarterly estimate of the maximum tax liability. If a company makes 1 or more quarterly distributions for a calendar year, and the aggregate amount of those distributions exceeds the maximum amount that the company could have distributed based on a single annual computation, any subsequent distribution by the company under this paragraph shall be reduced by an amount equal to the excess amount distributed.”
 
-    Subsec. (i). [Pub. L. 105–135, § 215(d)][/us/pl/105/135/s215/d], substituted “in the following manner: 1 percent upon the date on which the Administration enters into any commitment for such leverage with the licensee, and the balance of 2 percent (or 3 percent if no commitment has been entered into by the Administration) on the date on which the leverage is drawn by the licensee” for “, payable upon the earlier of the date of entry into any commitment for such leverage or the date on which the leverage is drawn by the licensee” before period at end.
+    Subsec. (i). [Pub. L. 105–135][/us/pl/105/135], § 215(d), substituted “in the following manner: 1 percent upon the date on which the Administration enters into any commitment for such leverage with the licensee, and the balance of 2 percent (or 3 percent if no commitment has been entered into by the Administration) on the date on which the leverage is drawn by the licensee” for “, payable upon the earlier of the date of entry into any commitment for such leverage or the date on which the leverage is drawn by the licensee” before period at end.
 
-    1996—Subsec. (a). [Pub. L. 104–208, § 208(h)(1)(A)(i)][/us/pl/104/208/s208/h/1/A/i], substituted “securities,” for “debenture bonds,”.
+    1996—Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 208(h)(1)(A)(i), substituted “securities,” for “debenture bonds,”.
 
-    Subsec. (b). [Pub. L. 104–208, § 208(d)(1)][/us/pl/104/208/s208/d/1], (6)(A), in first sentence struck out “(but only to the extent that the necessary funds are not available to said company from private sources on reasonable terms)” after “is authorized” and in fifth sentence substituted “1 percent, plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration” for “1 per centum, plus such additional charge, if any, toward covering other costs of the program as the Administration may determine to be consistent with its purposes”.
+    Subsec. (b). [Pub. L. 104–208][/us/pl/104/208], § 208(d)(1), (6)(A), in first sentence struck out “(but only to the extent that the necessary funds are not available to said company from private sources on reasonable terms)” after “is authorized” and in fifth sentence substituted “1 percent, plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration” for “1 per centum, plus such additional charge, if any, toward covering other costs of the program as the Administration may determine to be consistent with its purposes”.
 
-    Subsec. (c). [Pub. L. 104–208, § 208(d)(2)][/us/pl/104/208/s208/d/2], inserted heading and amended text of subsec. (c) generally. Prior to amendment, text consisted of 7 pars. which authorized the Administration to purchase securities and to purchase or guarantee payments on debentures issued by small business investment companies operating under [section 681(d) of this title][/us/usc/t15/s681/d].
+    Subsec. (c). [Pub. L. 104–208][/us/pl/104/208], § 208(d)(2), inserted heading and amended text of subsec. (c) generally. Prior to amendment, text consisted of 7 pars. which authorized the Administration to purchase securities and to purchase or guarantee payments on debentures issued by small business investment companies operating under [section 681(d) of this title][/us/usc/t15/s681/d].
 
-    Subsec. (d). [Pub. L. 104–208, § 208(d)(3)][/us/pl/104/208/s208/d/3], inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “If the Administration guarantees debentures issued by a small business investment company operating under authority of [section 681(d) of this title][/us/usc/t15/s681/d], it shall make, on behalf of the company payments in such amounts as will reduce the effective rate of interest to be paid by the company during the first five years of the term of such debentures to a rate of interest 3 points below the market rate of interest determined pursuant to section 687l of this title. Such payments shall be made by the Administration to the holder of the debenture, its agents or assigns, or to the appropriate central registration agent, if any. The authority to reduce interest rates as provided in this subsection shall be limited to amounts provided in advance in appropriations Acts, and the total amount shall be reserved within the business loan and investment fund to pay an amount equal to the amount of the reduction as it becomes due.”
+    Subsec. (d). [Pub. L. 104–208][/us/pl/104/208], § 208(d)(3), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “If the Administration guarantees debentures issued by a small business investment company operating under authority of [section 681(d) of this title][/us/usc/t15/s681/d], it shall make, on behalf of the company payments in such amounts as will reduce the effective rate of interest to be paid by the company during the first five years of the term of such debentures to a rate of interest 3 points below the market rate of interest determined pursuant to section 687l of this title. Such payments shall be made by the Administration to the holder of the debenture, its agents or assigns, or to the appropriate central registration agent, if any. The authority to reduce interest rates as provided in this subsection shall be limited to amounts provided in advance in appropriations Acts, and the total amount shall be reserved within the business loan and investment fund to pay an amount equal to the amount of the reduction as it becomes due.”
 
-    Subsec. (e). [Pub. L. 104–208, § 208(d)(4)(A)][/us/pl/104/208/s208/d/4/A], inserted heading and amended text of subsec. (e) generally. Prior to amendment, text read as follows: “In determining the private capital of a small business investment company licensed under [section 681(d) of this title][/us/usc/t15/s681/d] and notwithstanding [section 662(9) of this title][/us/usc/t15/s662/9], Federal, State, or local government funds received from sources other than the Administration shall be included solely for regulatory purposes, and not for the purpose of obtaining financial assistance from or licensing by the Administration, providing such funds were invested to November 21, 1989: Provided, That such companies may include in private capital for any purpose funds indirectly obtained from State or local governments. As used in this subsection, the term ‘capital indirectly obtained’ includes income generated by a State financing authority or similar State institution or agency or from the investment of State or local money or amounts originally provided to nonprofit institutions or corporations which such institutions or corporations, in their discretion, determine to invest in a company licensed under [section 681(d) of this title][/us/usc/t15/s681/d].”
+    Subsec. (e). [Pub. L. 104–208][/us/pl/104/208], § 208(d)(4)(A), inserted heading and amended text of subsec. (e) generally. Prior to amendment, text read as follows: “In determining the private capital of a small business investment company licensed under [section 681(d) of this title][/us/usc/t15/s681/d] and notwithstanding [section 662(9) of this title][/us/usc/t15/s662/9], Federal, State, or local government funds received from sources other than the Administration shall be included solely for regulatory purposes, and not for the purpose of obtaining financial assistance from or licensing by the Administration, providing such funds were invested to November 21, 1989: Provided, That such companies may include in private capital for any purpose funds indirectly obtained from State or local governments. As used in this subsection, the term ‘capital indirectly obtained’ includes income generated by a State financing authority or similar State institution or agency or from the investment of State or local money or amounts originally provided to nonprofit institutions or corporations which such institutions or corporations, in their discretion, determine to invest in a company licensed under [section 681(d) of this title][/us/usc/t15/s681/d].”
 
-    Subsec. (f). [Pub. L. 104–208, § 208(h)(1)(A)(ii)][/us/pl/104/208/s208/h/1/A/ii], added subsec. (f) and struck out former subsec. (f) which read as follows: “Notwithstanding the provisions of any other law, rule, or regulation, the Administration is authorized to allow the issuer of any preferred stock heretofore sold to the Administration to redeem or repurchase such stock upon the payment to the Administration of an amount less than the par value of such stock. The Administration, in its sole discretion, shall determine the repurchase price after considering factors including, but not limited to, the market value of the stock, the value of benefits previously provided and anticipated to accrue to the issuer, the amount of dividends previously paid, accrued, and anticipated, and the Administration’s estimate of any anticipated redemption. The Administration may guarantee debentures as provided in paragraph (5) of subsection (c) of this section and allow the issuer to use the proceeds to make the payments authorized herein. Any monies received by the Administration from the repurchase of preferred stock shall be deposited in the business loan and investment fund and shall be available solely to provide assistance to companies operating under the authority of [section 681(d) of this title][/us/usc/t15/s681/d], to the extent and in the amounts provided in advance in appropriations Acts.”
+    Subsec. (f). [Pub. L. 104–208][/us/pl/104/208], § 208(h)(1)(A)(ii), added subsec. (f) and struck out former subsec. (f) which read as follows: “Notwithstanding the provisions of any other law, rule, or regulation, the Administration is authorized to allow the issuer of any preferred stock heretofore sold to the Administration to redeem or repurchase such stock upon the payment to the Administration of an amount less than the par value of such stock. The Administration, in its sole discretion, shall determine the repurchase price after considering factors including, but not limited to, the market value of the stock, the value of benefits previously provided and anticipated to accrue to the issuer, the amount of dividends previously paid, accrued, and anticipated, and the Administration’s estimate of any anticipated redemption. The Administration may guarantee debentures as provided in paragraph (5) of subsection (c) of this section and allow the issuer to use the proceeds to make the payments authorized herein. Any monies received by the Administration from the repurchase of preferred stock shall be deposited in the business loan and investment fund and shall be available solely to provide assistance to companies operating under the authority of [section 681(d) of this title][/us/usc/t15/s681/d], to the extent and in the amounts provided in advance in appropriations Acts.”
 
-    Subsec. (g)(2). [Pub. L. 104–208, § 208(d)(6)(B)][/us/pl/104/208/s208/d/6/B], substituted “1 percent, plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration” for “1 per centum, plus, at the time the guarantee is issued, such additional charge, if any, toward covering other costs of the program as the Administration may determine to be consistent with its purposes, but not to exceed 2 per centum”.
+    Subsec. (g)(2). [Pub. L. 104–208][/us/pl/104/208], § 208(d)(6)(B), substituted “1 percent, plus an additional charge of 1 percent per annum which shall be paid to and retained by the Administration” for “1 per centum, plus, at the time the guarantee is issued, such additional charge, if any, toward covering other costs of the program as the Administration may determine to be consistent with its purposes, but not to exceed 2 per centum”.
 
-    Subsec. (g)(4). [Pub. L. 104–208, § 208(d)(5)][/us/pl/104/208/s208/d/5], struck out “and maintain” after “shall invest”.
+    Subsec. (g)(4). [Pub. L. 104–208][/us/pl/104/208], § 208(d)(5), struck out “and maintain” after “shall invest”.
 
-    Subsec. (g)(8). [Pub. L. 104–208, § 208(h)(1)(A)(iii)][/us/pl/104/208/s208/h/1/A/iii], substituted “partners, shareholders, or members” for “partners or shareholders”, “partner’s, shareholder’s, or member’s” for “partner’s or shareholder’s”, and “partner, shareholder, or member” for “partner or shareholder”.
+    Subsec. (g)(8). [Pub. L. 104–208][/us/pl/104/208], § 208(h)(1)(A)(iii), substituted “partners, shareholders, or members” for “partners or shareholders”, “partner’s, shareholder’s, or member’s” for “partner’s or shareholder’s”, and “partner, shareholder, or member” for “partner or shareholder”.
 
-    Subsecs. (i), (j). [Pub. L. 104–208, § 208(d)(6)(C)][/us/pl/104/208/s208/d/6/C], added subsecs. (i) and (j).
+    Subsecs. (i), (j). [Pub. L. 104–208][/us/pl/104/208], § 208(d)(6)(C), added subsecs. (i) and (j).
 
     1994—Subsec. (g)(13). [Pub. L. 103–403][/us/pl/103/403] added par. (13).
 
-    1992—Subsec. (b). [Pub. L. 102–366, § 402(1)][/us/pl/102/366/s402/1], inserted “or participating securities” after “debentures” in first and sixth sentences.
+    1992—Subsec. (b). [Pub. L. 102–366][/us/pl/102/366], § 402(1), inserted “or participating securities” after “debentures” in first and sixth sentences.
 
-    Subsec. (b)(1) to (4). [Pub. L. 102–366, § 402(2)][/us/pl/102/366/s402/2], added pars. (1) to (4) and struck out former pars. (1) to (3) which read as follows:
+    Subsec. (b)(1) to (4). [Pub. L. 102–366][/us/pl/102/366], § 402(2), added pars. (1) to (4) and struck out former pars. (1) to (3) which read as follows:
 
     “(1) The total amount of debentures purchased or guaranteed and outstanding at any one time from a company which does not qualify under the terms of paragraph (2) of this subsection, shall not exceed 300 percent of the combined private paid-in capital and paid-in surplus of such company. In no event shall the debentures guaranteed and outstanding under this subchapter of any such company or companies which are commonly controlled as determined by the Administration exceed $35,000,000.
 
@@ -293,23 +293,23 @@
 
     “(3) Outstanding amounts of financial assistance provided to a company by the Administration prior to the effective date of the Small Business Investment Act Amendments of 1967 shall be deducted from the maximum amount of debentures which the Administration would otherwise be authorized to purchase or guarantee under this subsection.”
 
-    Subsec. (c). [Pub. L. 102–366, § 412(1)][/us/pl/102/366/s412/1], (2), struck out “preferred” before “securities” in first sentence and inserted at end “As used in this subsection, the term ‘securities’ means shares of nonvoting stock or other corporate securities or limited partnership interests which have similar characteristics.”
+    Subsec. (c). [Pub. L. 102–366][/us/pl/102/366], § 412(1), (2), struck out “preferred” before “securities” in first sentence and inserted at end “As used in this subsection, the term ‘securities’ means shares of nonvoting stock or other corporate securities or limited partnership interests which have similar characteristics.”
 
-    Subsec. (c)(1). [Pub. L. 102–366, § 412(3)][/us/pl/102/366/s412/3], in introductory provisions substituted “such securities” for “shares of nonvoting stock (or other corporate securities having similar characteristics)”.
+    Subsec. (c)(1). [Pub. L. 102–366][/us/pl/102/366], § 412(3), in introductory provisions substituted “such securities” for “shares of nonvoting stock (or other corporate securities having similar characteristics)”.
 
-    Subsec. (c)(6). [Pub. L. 102–366, § 402(3)][/us/pl/102/366/s402/3], inserted before period at end “, except as provided in paragraph (7)”.
+    Subsec. (c)(6). [Pub. L. 102–366][/us/pl/102/366], § 402(3), inserted before period at end “, except as provided in paragraph (7)”.
 
-    Subsec. (c)(7). [Pub. L. 102–366, § 402(4)][/us/pl/102/366/s402/4], added par. (7).
+    Subsec. (c)(7). [Pub. L. 102–366][/us/pl/102/366], § 402(4), added par. (7).
 
-    Subsec. (e). [Pub. L. 102–366, § 413][/us/pl/102/366/s413], inserted “licensed under [section 681(d) of this title][/us/usc/t15/s681/d] and notwithstanding [section 662(9) of this title][/us/usc/t15/s662/9]” after “company” and substituted “to November 21, 1989: Provided, That such companies may include in private capital for any purpose funds indirectly obtained from State or local governments. As used in this subsection, the term ‘capital indirectly obtained’ includes income generated by a State financing authority or similar State institution or agency or from the investment of State or local money or amounts originally provided to nonprofit institutions or corporations which such institutions or corporations, in their discretion, determine to invest in a company licensed under [section 681(d) of this title][/us/usc/t15/s681/d].” for “prior to November 21, 1989.”
+    Subsec. (e). [Pub. L. 102–366][/us/pl/102/366], § 413, inserted “licensed under [section 681(d) of this title][/us/usc/t15/s681/d] and notwithstanding [section 662(9) of this title][/us/usc/t15/s662/9]” after “company” and substituted “to November 21, 1989: Provided, That such companies may include in private capital for any purpose funds indirectly obtained from State or local governments. As used in this subsection, the term ‘capital indirectly obtained’ includes income generated by a State financing authority or similar State institution or agency or from the investment of State or local money or amounts originally provided to nonprofit institutions or corporations which such institutions or corporations, in their discretion, determine to invest in a company licensed under [section 681(d) of this title][/us/usc/t15/s681/d].” for “prior to November 21, 1989.”
 
-    Subsecs. (g), (h). [Pub. L. 102–366, § 403][/us/pl/102/366/s403], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 102–366][/us/pl/102/366], § 403, added subsecs. (g) and (h).
 
-    1990—Subsec. (b)(1). [Pub. L. 101–574, § 215(a)(1)][/us/pl/101/574/s215/a/1], amended last sentence generally. Prior to amendment, last sentence read as follows: “In no event shall the debentures of any such company purchased or guaranteed and outstanding under this paragraph exceed $35,000,000.”
+    1990—Subsec. (b)(1). [Pub. L. 101–574][/us/pl/101/574], § 215(a)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “In no event shall the debentures of any such company purchased or guaranteed and outstanding under this paragraph exceed $35,000,000.”
 
-    Subsec. (c)(6). [Pub. L. 101–574, § 215(b)(1)][/us/pl/101/574/s215/b/1], inserted “under the provisions of this subchapter,” after “debentures or securities”.
+    Subsec. (c)(6). [Pub. L. 101–574][/us/pl/101/574], § 215(b)(1), inserted “under the provisions of this subchapter,” after “debentures or securities”.
 
-    Subsec. (d). [Pub. L. 101–574, § 215(b)(2)][/us/pl/101/574/s215/b/2], struck out after second sentence “The aggregate amount of debentures with interest rate reductions as provided in this subsection or as provided in [section 687i of this title][/us/usc/t15/s687i] which may be outstanding at any time from any such company shall not exceed 200 per centum of the private paid-in capital and paid-in surplus of such company.”
+    Subsec. (d). [Pub. L. 101–574][/us/pl/101/574], § 215(b)(2), struck out after second sentence “The aggregate amount of debentures with interest rate reductions as provided in this subsection or as provided in [section 687i of this title][/us/usc/t15/s687i] which may be outstanding at any time from any such company shall not exceed 200 per centum of the private paid-in capital and paid-in surplus of such company.”
 
     1989—Subsec. (c). [Pub. L. 101–162][/us/pl/101/162] added subsec. (c) and struck out former subsec. (c) which contained provisions substantially similar to introductory provisions and pars. (1) to (4).
 
@@ -317,19 +317,19 @@
 
     1978—Subsec. (c)(1). [Pub. L. 95–507][/us/pl/95/507] increased the amount of preferred stock small business investment companies were authorized to sell to the Administration so long as such preferred stock leverage did not exceed 200 per centum of the qualified paid-in capital and so long as the amount of such stock purchased by the Administration was not greater in amount than the investment companies’ outstanding equity investments and inserted definition of “equity securities”.
 
-    1976—Subsec. (b)(1). [Pub. L. 94–305, § 104(a)][/us/pl/94/305/s104/a], substituted “300” for “200” and “$35,000,000” for “$15,000,000”.
+    1976—Subsec. (b)(1). [Pub. L. 94–305][/us/pl/94/305], § 104(a), substituted “300” for “200” and “$35,000,000” for “$15,000,000”.
 
-    Subsec. (b)(2). [Pub. L. 94–305, § 104(b)][/us/pl/94/305/s104/b], substituted “400” for “300” and “$35,000,000” for “$20,000,000”.
+    Subsec. (b)(2). [Pub. L. 94–305][/us/pl/94/305], § 104(b), substituted “400” for “300” and “$35,000,000” for “$20,000,000”.
 
-    Subsec. (c)(2)(iii). [Pub. L. 94–305, § 104(c)][/us/pl/94/305/s104/c], substituted “400” for “300” and “300” for “200”.
+    Subsec. (c)(2)(iii). [Pub. L. 94–305][/us/pl/94/305], § 104(c), substituted “400” for “300” and “300” for “200”.
 
-    Subsec. (c)(4). [Pub. L. 94–305, § 104(c)(2)][/us/pl/94/305/s104/c/2], substituted “300” for “200”.
+    Subsec. (c)(4). [Pub. L. 94–305][/us/pl/94/305], § 104(c)(2), substituted “300” for “200”.
 
-    1972—Subsec. (b)(1). [Pub. L. 92–595, § 2(c)(1)][/us/pl/92/595/s2/c/1], (2), substituted “combined private paid-in capital” for “combined paid-in capital” and “$15,000,000” for “$7,500,000”.
+    1972—Subsec. (b)(1). [Pub. L. 92–595][/us/pl/92/595], § 2(c)(1), (2), substituted “combined private paid-in capital” for “combined paid-in capital” and “$15,000,000” for “$7,500,000”.
 
-    Subsec. (b)(2). [Pub. L. 92–595, § 2(c)(3)][/us/pl/92/595/s2/c/3], substituted provisions relating to the purchase of debentures from companies not complying with [section 681(d) of this title][/us/usc/t15/s681/d] having investments or legal commitments of 65 per cent or more and whose combined private paid-in capital and paid-in surplus is $500,000 or more for provisions relating to such purchase from companies having investments or legal commitments of 65 per cent or more and whose combined paid-in capital and paid-in surplus is $1,000,000 or more, and increased the maximum amount of outstanding debentures from $10,000,000 to $20,000,000.
+    Subsec. (b)(2). [Pub. L. 92–595][/us/pl/92/595], § 2(c)(3), substituted provisions relating to the purchase of debentures from companies not complying with [section 681(d) of this title][/us/usc/t15/s681/d] having investments or legal commitments of 65 per cent or more and whose combined private paid-in capital and paid-in surplus is $500,000 or more for provisions relating to such purchase from companies having investments or legal commitments of 65 per cent or more and whose combined paid-in capital and paid-in surplus is $1,000,000 or more, and increased the maximum amount of outstanding debentures from $10,000,000 to $20,000,000.
 
-    Subsec. (c). [Pub. L. 92–595, § 2(d)][/us/pl/92/595/s2/d], added subsec. (c).
+    Subsec. (c). [Pub. L. 92–595][/us/pl/92/595], § 2(d), added subsec. (c).
 
     1971—Subsec. (b). [Pub. L. 92–213][/us/pl/92/213] inserted provision for a guaranty authority for the Administration and inserted requirement that such guaranty authority of the Administration be exercised only when authorized in appropriation Acts, authorized the purchase or guaranty on such terms as the Administration deems appropriate pursuant to regulations issued by the Administration, pledged the full faith and credit of the United States to the payment of amounts required to be paid in full under such guaranty, and struck out provision authorizing Administration cooperation with banks or other lending institutions in the purchase of debentures.
 
@@ -345,7 +345,7 @@
 
  __Effective Date of 2001 Amendment__ 
 
-[Pub. L. 107–100, § 2(b)][/us/pl/107/100/s2/b], Dec. 21, 2001, [115 Stat. 966][/us/stat/115/966], provided that: 
+[Pub. L. 107–100][/us/pl/107/100], § 2(b), Dec. 21, 2001, [115 Stat. 966][/us/stat/115/966], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall become effective on October 1, 2001.”
 
@@ -355,7 +355,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–574, title II, § 215(a)(2)][/us/pl/101/574/s215/a/2], Nov. 15, 1990, [104 Stat. 2822][/us/stat/104/2822], as amended by [Pub. L. 102–140, title VI, § 609(c)][/us/pl/102/140/s609/c], Oct. 28, 1991, [105 Stat. 825][/us/stat/105/825], provided that: 
+[Pub. L. 101–574, title II][/us/pl/101/574/tII], § 215(a)(2), Nov. 15, 1990, [104 Stat. 2822][/us/stat/104/2822], as amended by [Pub. L. 102–140, title VI][/us/pl/102/140/tVI], § 609(c), Oct. 28, 1991, [105 Stat. 825][/us/stat/105/825], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section\] shall become effective on July 1, 1992.”
 
@@ -365,7 +365,7 @@
 
  __Regulations__ 
 
-[Pub. L. 104–208, div. D, title II, § 208(d)(4)(B)][/us/pl/104/208/s208/d/4/B], Sept. 30, 1996, [110 Stat. 3009–744][/us/stat/110/3009-744], provided that:
+[Pub. L. 104–208, div. D, title II][/us/pl/104/208/dD/tII], § 208(d)(4)(B), Sept. 30, 1996, [110 Stat. 3009–744][/us/stat/110/3009-744], provided that:
 
 >     “(i)  __Uniform applicability__  __.—__ 
 
@@ -399,123 +399,123 @@
 [/us/usc/t15/s681/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681%2Fc
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
-[/us/pl/85/699/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs303
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
 [/us/stat/72/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F692
-[/us/pl/87/341/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341%2Fs4
+[/us/pl/87/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341
 [/us/stat/75/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F752
-[/us/pl/88/273/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F273%2Fs3
+[/us/pl/88/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F273
 [/us/stat/78/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F146
-[/us/pl/90/104/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104%2Fs205
+[/us/pl/90/104/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104%2FtII
 [/us/stat/81/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F270
-[/us/pl/92/213/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F213%2Fs10
+[/us/pl/92/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F213
 [/us/stat/85/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F776
-[/us/pl/92/595/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595%2Fs2%2Fc
+[/us/pl/92/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595
 [/us/stat/86/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1314
-[/us/pl/94/305/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2Fs104
+[/us/pl/94/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2FtI
 [/us/stat/90/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F665
-[/us/pl/95/507/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507%2Fs101
+[/us/pl/95/507/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507%2FtI
 [/us/stat/92/1757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1757
-[/us/pl/101/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162
+[/us/pl/101/162/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2FtV
 [/us/stat/103/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1025
-[/us/pl/101/574/s215/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs215%2Fa%2F1
+[/us/pl/101/574/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2FtII
 [/us/stat/104/2822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2822
-[/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
+[/us/pl/102/366/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2FtIV
 [/us/stat/106/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1008
-[/us/pl/103/403/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs215
+[/us/pl/103/403/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtII
 [/us/stat/108/4184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4184
-[/us/pl/104/208/s208/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fd%2F1
+[/us/pl/104/208/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD%2FtII
 [/us/stat/110/3009-743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-743
-[/us/pl/105/135/s215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs215%2Fb
+[/us/pl/105/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtII
 [/us/stat/111/2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2602
-[/us/pl/106/9/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F9%2Fs2%2Fd%2F1
+[/us/pl/106/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F9
 [/us/stat/113/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F18
-[/us/pl/106/554/s1/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F8
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/100/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F100%2Fs2%2Fa
+[/us/pl/107/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F100
 [/us/stat/115/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F966
-[/us/pl/108/84/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F84%2Fs117
+[/us/pl/108/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F84
 [/us/stat/117/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1044
-[/us/pl/108/172/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F172%2Fs1%2Fb
+[/us/pl/108/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F172
 [/us/stat/117/2065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2065
-[/us/pl/108/447/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs201
+[/us/pl/108/447/dK/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdK%2FtII
 [/us/stat/118/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3465
-[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXII
 [/us/stat/121/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1773
-[/us/pl/111/5/s505/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs505%2Fa
+[/us/pl/111/5/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtV
 [/us/stat/123/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F156
-[/us/pl/114/113/s521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs521%2Fb
+[/us/pl/114/113/dE/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdE%2FtV
 [/us/stat/129/2464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2464
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
-[/us/pl/111/5/s505/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs505%2Fa%2F1
-[/us/pl/111/5/s505/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs505%2Fa%2F2
-[/us/pl/111/5/s505/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs505%2Fa%2F3
-[/us/pl/111/5/s505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs505%2Fc
-[/us/pl/110/140/s1206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1206%2Fa
-[/us/pl/110/140/s1206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1206%2Fb
-[/us/pl/110/140/s1205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1205%2Fa
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/108/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F84
 [/us/pl/108/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F172
-[/us/pl/107/100/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F100%2Fs2%2Fa%2F1
-[/us/pl/107/100/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F100%2Fs2%2Fa%2F2
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/107/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F100
+[/us/pl/107/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F100
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
-[/us/pl/106/554/s1/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F8
-[/us/pl/106/554/s1/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F8
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t2/s661a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F9
-[/us/pl/105/135/s215/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs215%2Fb%2F1%2FA
-[/us/pl/105/135/s215/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs215%2Fb%2F1%2FB
-[/us/pl/105/135/s215/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs215%2Fb%2F2
-[/us/pl/105/135/s215/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs215%2Fc
-[/us/pl/105/135/s215/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs215%2Fd
-[/us/pl/104/208/s208/h/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fh%2F1%2FA%2Fi
-[/us/pl/104/208/s208/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fd%2F1
-[/us/pl/104/208/s208/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fd%2F2
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t15/s681/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681%2Fd
-[/us/pl/104/208/s208/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fd%2F3
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t15/s681/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681%2Fd
-[/us/pl/104/208/s208/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fd%2F4%2FA
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t15/s681/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681%2Fd
 [/us/usc/t15/s662/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs662%2F9
 [/us/usc/t15/s681/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681%2Fd
-[/us/pl/104/208/s208/h/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fh%2F1%2FA%2Fii
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t15/s681/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681%2Fd
-[/us/pl/104/208/s208/d/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fd%2F6%2FB
-[/us/pl/104/208/s208/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fd%2F5
-[/us/pl/104/208/s208/h/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fh%2F1%2FA%2Fiii
-[/us/pl/104/208/s208/d/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fd%2F6%2FC
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
-[/us/pl/102/366/s402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs402%2F1
-[/us/pl/102/366/s402/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs402%2F2
+[/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
+[/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
 [/us/usc/t15/s681/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681%2Fd
-[/us/pl/102/366/s412/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs412%2F1
-[/us/pl/102/366/s412/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs412%2F3
-[/us/pl/102/366/s402/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs402%2F3
-[/us/pl/102/366/s402/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs402%2F4
-[/us/pl/102/366/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs413
+[/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
+[/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
+[/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
+[/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
+[/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
 [/us/usc/t15/s681/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681%2Fd
 [/us/usc/t15/s662/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs662%2F9
 [/us/usc/t15/s681/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681%2Fd
-[/us/pl/102/366/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs403
-[/us/pl/101/574/s215/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs215%2Fa%2F1
-[/us/pl/101/574/s215/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs215%2Fb%2F1
-[/us/pl/101/574/s215/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs215%2Fb%2F2
+[/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
+[/us/pl/101/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574
+[/us/pl/101/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574
+[/us/pl/101/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574
 [/us/usc/t15/s687i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687i
 [/us/pl/101/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162
 [/us/pl/101/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162
 [/us/pl/95/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507
-[/us/pl/94/305/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2Fs104%2Fa
-[/us/pl/94/305/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2Fs104%2Fb
-[/us/pl/94/305/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2Fs104%2Fc
-[/us/pl/94/305/s104/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2Fs104%2Fc%2F2
-[/us/pl/92/595/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595%2Fs2%2Fc%2F1
-[/us/pl/92/595/s2/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595%2Fs2%2Fc%2F3
+[/us/pl/94/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305
+[/us/pl/94/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305
+[/us/pl/94/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305
+[/us/pl/94/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305
+[/us/pl/92/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595
+[/us/pl/92/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595
 [/us/usc/t15/s681/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681%2Fd
-[/us/pl/92/595/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595%2Fs2%2Fd
+[/us/pl/92/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595
 [/us/pl/92/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F213
 [/us/pl/90/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104
 [/us/usc/t15/s682/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs682%2Fa
@@ -524,19 +524,19 @@
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/107/100/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F100%2Fs2%2Fb
+[/us/pl/107/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F100
 [/us/stat/115/966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F966
 [/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/105/135/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs3
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/101/574/s215/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs215%2Fa%2F2
+[/us/pl/101/574/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2FtII
 [/us/stat/104/2822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2822
-[/us/pl/102/140/s609/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2Fs609%2Fc
+[/us/pl/102/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2FtVI
 [/us/stat/105/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F825
 [/us/pl/90/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104
 [/us/pl/90/104/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104%2Fs211
 [/us/usc/t15/s681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681
-[/us/pl/104/208/s208/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fd%2F4%2FB
+[/us/pl/104/208/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD%2FtII
 [/us/stat/110/3009-744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-744
 [/us/usc/t15/s683/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs683%2Fe
 [/us/usc/t15/s662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs662

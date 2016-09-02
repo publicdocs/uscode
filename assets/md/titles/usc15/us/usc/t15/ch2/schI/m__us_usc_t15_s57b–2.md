@@ -143,7 +143,7 @@
 
                 Nothing in this subsection shall authorize the Commission to withhold information from the Congress or prevent the Commission from complying with an order of a court of the United States in an action commenced by the United States or the Commission.
 
-([Sept. 26, 1914, ch. 311, § 21][/us/act/1914-09-26/ch311/s21], as added [Pub. L. 96–252, § 14][/us/pl/96/252/s14], May 28, 1980, [94 Stat. 385][/us/stat/94/385]; amended [Pub. L. 103–312, § 8][/us/pl/103/312/s8], Aug. 26, 1994, [108 Stat. 1694][/us/stat/108/1694]; [Pub. L. 109–455][/us/pl/109/455], §§ 6, 13, Dec. 22, 2006, [120 Stat. 3376][/us/stat/120/3376], 3382; [Pub. L. 112–203, § 1][/us/pl/112/203/s1], Dec. 4, 2012, [126 Stat. 1484][/us/stat/126/1484].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 21, as added [Pub. L. 96–252][/us/pl/96/252], § 14, May 28, 1980, [94 Stat. 385][/us/stat/94/385]; amended [Pub. L. 103–312][/us/pl/103/312], § 8, Aug. 26, 1994, [108 Stat. 1694][/us/stat/108/1694]; [Pub. L. 109–455][/us/pl/109/455], §§ 6, 13, Dec. 22, 2006, [120 Stat. 3376][/us/stat/120/3376], 3382; [Pub. L. 112–203][/us/pl/112/203], § 1, Dec. 4, 2012, [126 Stat. 1484][/us/stat/126/1484].)
 
  __Amendment of Section__ 
 
@@ -161,25 +161,25 @@
 
  __Amendments__ 
 
-    2012—[Pub. L. 112–203, § 1][/us/pl/112/203/s1], amended [Pub. L. 109–455, § 13][/us/pl/109/455/s13]. See 2006 Amendment notes below.
+    2012—[Pub. L. 112–203][/us/pl/112/203], § 1, amended [Pub. L. 109–455][/us/pl/109/455], § 13. See 2006 Amendment notes below.
 
-    2006—Subsec. (b)(6). [Pub. L. 109–455, § 6(a)][/us/pl/109/455/s6/a], which inserted at end “The custodian may make such material available to any foreign law enforcement agency upon the prior certification of an appropriate official of any such foreign law enforcement agency, either by a prior agreement or memorandum of understanding with the Commission or by other written certification, that such material will be maintained in confidence and will be used only for official law enforcement purposes, if—”, added subpars. (A) to (D) setting forth conditions for making materials available to foreign law enforcement agencies, and inserted concluding provisions restricting disclosure of certain antitrust materials, was repealed by [Pub. L. 109–455, § 13][/us/pl/109/455/s13], as amended by [Pub. L. 112–203, § 1][/us/pl/112/203/s1]. See Termination Date of 2006 Amendment note below.
+    2006—Subsec. (b)(6). [Pub. L. 109–455][/us/pl/109/455], § 6(a), which inserted at end “The custodian may make such material available to any foreign law enforcement agency upon the prior certification of an appropriate official of any such foreign law enforcement agency, either by a prior agreement or memorandum of understanding with the Commission or by other written certification, that such material will be maintained in confidence and will be used only for official law enforcement purposes, if—”, added subpars. (A) to (D) setting forth conditions for making materials available to foreign law enforcement agencies, and inserted concluding provisions restricting disclosure of certain antitrust materials, was repealed by [Pub. L. 109–455][/us/pl/109/455], § 13, as amended by [Pub. L. 112–203][/us/pl/112/203], § 1. See Termination Date of 2006 Amendment note below.
 
-    Subsec. (f). [Pub. L. 109–455, § 6(b)][/us/pl/109/455/s6/b], which inserted heading “Exemption from public disclosure” and amended text of subsec. (f) generally, was repealed by [Pub. L. 109–455, § 13][/us/pl/109/455/s13], as amended by [Pub. L. 112–203, § 1][/us/pl/112/203/s1]. Prior to amendment by section 6(b), text read as follows: “Any material which is received by the Commission in any investigation, a purpose of which is to determine whether any person may have violated any provision of the laws administered by the Commission, and which is provided pursuant to any compulsory process under this subchapter or which is provided voluntarily in place of such compulsory process shall be exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552].” See Termination Date of 2006 Amendment note below.
+    Subsec. (f). [Pub. L. 109–455][/us/pl/109/455], § 6(b), which inserted heading “Exemption from public disclosure” and amended text of subsec. (f) generally, was repealed by [Pub. L. 109–455][/us/pl/109/455], § 13, as amended by [Pub. L. 112–203][/us/pl/112/203], § 1. Prior to amendment by section 6(b), text read as follows: “Any material which is received by the Commission in any investigation, a purpose of which is to determine whether any person may have violated any provision of the laws administered by the Commission, and which is provided pursuant to any compulsory process under this subchapter or which is provided voluntarily in place of such compulsory process shall be exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552].” See Termination Date of 2006 Amendment note below.
 
-    1994—Subsec. (a)(1). [Pub. L. 103–312, § 8(1)][/us/pl/103/312/s8/1], inserted “tangible things,” after “documentary material,”.
+    1994—Subsec. (a)(1). [Pub. L. 103–312][/us/pl/103/312], § 8(1), inserted “tangible things,” after “documentary material,”.
 
-    Subsec. (b)(1). [Pub. L. 103–312, § 8(2)][/us/pl/103/312/s8/2], inserted “, tangible thing,” after “document”.
+    Subsec. (b)(1). [Pub. L. 103–312][/us/pl/103/312], § 8(2), inserted “, tangible thing,” after “document”.
 
-    Subsec. (b)(2)(A). [Pub. L. 103–312, § 8(3)][/us/pl/103/312/s8/3], inserted “tangible things,” after “documentary material,”.
+    Subsec. (b)(2)(A). [Pub. L. 103–312][/us/pl/103/312], § 8(3), inserted “tangible things,” after “documentary material,”.
 
-    Subsec. (b)(3). [Pub. L. 103–312, § 8(4)][/us/pl/103/312/s8/4], in subpar. (A), inserted “tangible things,” after “documentary material,”, in subpar. (B), inserted “, and may make tangible things available,” after “transcripts of oral testimony” and “, things,” after “such material”, in subpar. (C), inserted “tangible things,” after “documentary material,” and “, things,” after “material”, and in subpar. (D)(i), inserted “, tangible things,” after “documentary material”.
+    Subsec. (b)(3). [Pub. L. 103–312][/us/pl/103/312], § 8(4), in subpar. (A), inserted “tangible things,” after “documentary material,”, in subpar. (B), inserted “, and may make tangible things available,” after “transcripts of oral testimony” and “, things,” after “such material”, in subpar. (C), inserted “tangible things,” after “documentary material,” and “, things,” after “material”, and in subpar. (D)(i), inserted “, tangible things,” after “documentary material”.
 
-    Subsec. (b)(4), (5). [Pub. L. 103–312, § 8(5)][/us/pl/103/312/s8/5], (6), inserted “tangible things,” after “documentary material,”.
+    Subsec. (b)(4), (5). [Pub. L. 103–312][/us/pl/103/312], § 8(5), (6), inserted “tangible things,” after “documentary material,”.
 
-    Subsec. (b)(6). [Pub. L. 103–312, § 8(7)][/us/pl/103/312/s8/7], inserted “The custodian of any tangible things may make such things available for inspection to such persons on the same basis.” after first sentence, and “results of inspections of tangible things,” after “Such documentary material,”.
+    Subsec. (b)(6). [Pub. L. 103–312][/us/pl/103/312], § 8(7), inserted “The custodian of any tangible things may make such things available for inspection to such persons on the same basis.” after first sentence, and “results of inspections of tangible things,” after “Such documentary material,”.
 
-    Subsec. (b)(7). [Pub. L. 103–312, § 8(8)][/us/pl/103/312/s8/8], inserted “tangible things,” after “documentary material,”.
+    Subsec. (b)(7). [Pub. L. 103–312][/us/pl/103/312], § 8(8), inserted “tangible things,” after “documentary material,”.
 
  __Termination Date of 2006 Amendment__ 
 
@@ -211,14 +211,14 @@
 [/us/usc/t15/s46/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs46%2Ff
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/act/1914-09-26/ch311/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs21
-[/us/pl/96/252/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs14
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
+[/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
 [/us/stat/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F385
-[/us/pl/103/312/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs8
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
 [/us/stat/108/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1694
 [/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
 [/us/stat/120/3376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3376
-[/us/pl/112/203/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203%2Fs1
+[/us/pl/112/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203
 [/us/stat/126/1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1484
 [/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13
 [/us/usc/t5/s552/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fe
@@ -229,22 +229,22 @@
 [/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
-[/us/pl/112/203/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203%2Fs1
-[/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13
-[/us/pl/109/455/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs6%2Fa
-[/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13
-[/us/pl/112/203/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203%2Fs1
-[/us/pl/109/455/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs6%2Fb
-[/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13
-[/us/pl/112/203/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203%2Fs1
+[/us/pl/112/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
+[/us/pl/112/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
+[/us/pl/112/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F203
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/103/312/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs8%2F1
-[/us/pl/103/312/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs8%2F2
-[/us/pl/103/312/s8/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs8%2F3
-[/us/pl/103/312/s8/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs8%2F4
-[/us/pl/103/312/s8/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs8%2F5
-[/us/pl/103/312/s8/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs8%2F7
-[/us/pl/103/312/s8/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs8%2F8
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
 [/us/pl/109/455/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs6
 [/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
 [/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455

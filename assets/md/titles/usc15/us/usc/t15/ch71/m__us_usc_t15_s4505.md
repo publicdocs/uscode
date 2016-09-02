@@ -35,7 +35,7 @@
 
         The reports required by this chapter shall be transmitted to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
 
-([Pub. L. 99–509, title III, § 3006][/us/pl/99/509/s3006], Oct. 21, 1986, [100 Stat. 1886][/us/stat/100/1886].)
+([Pub. L. 99–509, title III][/us/pl/99/509/tIII], § 3006, Oct. 21, 1986, [100 Stat. 1886][/us/stat/100/1886].)
 
  __References in Text__ 
 
@@ -62,7 +62,7 @@
 [/us/pl/97/377/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs155
 [/us/pl/97/377/s155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs155
 [/us/usc/t15/s4501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4501%2Fa
-[/us/pl/99/509/s3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs3006
+[/us/pl/99/509/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIII
 [/us/stat/100/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1886
 [/us/pl/93/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F159
 [/us/stat/87/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F628

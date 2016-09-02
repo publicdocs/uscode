@@ -23,7 +23,7 @@
 
     (3) both.
 
-([June 30, 1953, ch. 164, § 7][/us/act/1953-06-30/ch164/s7], [67 Stat. 114][/us/stat/67/114]; [Pub. L. 95–631, § 8(b)][/us/pl/95/631/s8/b], Nov. 10, 1978, [92 Stat. 3747][/us/stat/92/3747]; [Pub. L. 110–314, title II, § 217(c)(4)][/us/pl/110/314/s217/c/4], Aug. 14, 2008, [122 Stat. 3060][/us/stat/122/3060].)
+([June 30, 1953, ch. 164][/us/act/1953-06-30/ch164], § 7, [67 Stat. 114][/us/stat/67/114]; [Pub. L. 95–631][/us/pl/95/631], § 8(b), Nov. 10, 1978, [92 Stat. 3747][/us/stat/92/3747]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 217(c)(4), Aug. 14, 2008, [122 Stat. 3060][/us/stat/122/3060].)
 
  __Amendments__ 
 
@@ -40,11 +40,11 @@
 
 [/us/usc/t15/s1202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1202%2Fc
 [/us/usc/t18/s3571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3571
-[/us/act/1953-06-30/ch164/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch164%2Fs7
+[/us/act/1953-06-30/ch164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch164
 [/us/stat/67/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F114
-[/us/pl/95/631/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631%2Fs8%2Fb
+[/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
 [/us/stat/92/3747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3747
-[/us/pl/110/314/s217/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs217%2Fc%2F4
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3060
 [/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/usc/t15/s1202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1202%2Fc

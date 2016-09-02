@@ -17,7 +17,7 @@
 
     The Commission may accept payment or reimbursement, in cash or in kind, from a domestic or foreign law enforcement agency, or payment or reimbursement made on behalf of such agency, for expenses incurred by the Commission, its members, or employees in carrying out any activity pursuant to a statute administered by the Commission without regard to any other provision of law. Any such payments or reimbursements shall be considered a reimbursement to the appropriated funds of the Commission.
 
-([Sept. 26, 1914, ch. 311, § 26][/us/act/1914-09-26/ch311/s26], as added [Pub. L. 109–455, § 11(2)][/us/pl/109/455/s11/2], Dec. 22, 2006, [120 Stat. 3381][/us/stat/120/3381].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 26, as added [Pub. L. 109–455][/us/pl/109/455], § 11(2), Dec. 22, 2006, [120 Stat. 3381][/us/stat/120/3381].)
 
  __Repeal of Section__ 
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/act/1914-09-26/ch311/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs26
-[/us/pl/109/455/s11/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs11%2F2
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
 [/us/stat/120/3381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3381
 [/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58

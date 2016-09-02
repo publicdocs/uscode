@@ -55,13 +55,13 @@
 
         Nothing contained in this chapter shall be construed to limit the authority of the Commission under any other provisions of law.
 
-([Pub. L. 105–277, div. C, title XIII, § 1306][/us/pl/105/277/s1306], Oct. 21, 1998, [112 Stat. 2681–734][/us/stat/112/2681-734].)
+([Pub. L. 105–277, div. C, title XIII][/us/pl/105/277/dC/tXIII], § 1306, Oct. 21, 1998, [112 Stat. 2681–734][/us/stat/112/2681-734].)
 
  __References in Text__ 
 
     The Federal Trade Commission Act, referred to in subsecs. (a) and (d), is [act Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], [38 Stat. 717][/us/stat/38/717], as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title][/us/usc/t15/s58] and Tables.
 
-    Section 25(a) of the Federal Reserve Act, referred to in subsec. (b)(1)(B), which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking, was renumbered section 25A of that act by [Pub. L. 102–242, title I, § 142(e)(2)][/us/pl/102/242/s142/e/2], Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281]. Section 25 of the Federal Reserve Act is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12.
+    Section 25(a) of the Federal Reserve Act, referred to in subsec. (b)(1)(B), which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, Banks and Banking, was renumbered section 25A of that act by [Pub. L. 102–242, title I][/us/pl/102/242/tI], § 142(e)(2), Dec. 19, 1991, [105 Stat. 2281][/us/stat/105/2281]. Section 25 of the Federal Reserve Act is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12.
 
     The Federal Credit Union Act, referred to in subsec. (b)(3), is [act June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], [48 Stat. 1216][/us/stat/48/1216], as amended, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1751 of Title 12][/us/usc/t12/s1751] and Tables.
 
@@ -92,12 +92,12 @@
 [/us/usc/t12/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2001
 [/us/usc/t15/s6502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6502
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/pl/105/277/s1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs1306
+[/us/pl/105/277/dC/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtXIII
 [/us/stat/112/2681-734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-734
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
-[/us/pl/102/242/s142/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs142%2Fe%2F2
+[/us/pl/102/242/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtI
 [/us/stat/105/2281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2281
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
 [/us/stat/48/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1216

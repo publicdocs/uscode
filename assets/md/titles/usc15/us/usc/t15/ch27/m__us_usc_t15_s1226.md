@@ -37,7 +37,7 @@
 
         Subsection (a) shall apply to contracts entered into, amended, altered, modified, renewed, or extended after November 2, 2002.
 
-([Pub. L. 107–273, div. C, title I, § 11028][/us/pl/107/273/s11028], Nov. 2, 2002, [116 Stat. 1835][/us/stat/116/1835].)
+([Pub. L. 107–273, div. C, title I][/us/pl/107/273/dC/tI], § 11028, Nov. 2, 2002, [116 Stat. 1835][/us/stat/116/1835].)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t49/s30102/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30102%2F6
-[/us/pl/107/273/s11028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs11028
+[/us/pl/107/273/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtI
 [/us/stat/116/1835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1835
 [/us/act/1956-08-08/ch1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1038
 

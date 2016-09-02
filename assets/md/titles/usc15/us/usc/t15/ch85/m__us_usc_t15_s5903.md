@@ -17,7 +17,7 @@
 
     This chapter shall supersede any provision of State law (or the law of any political subdivision of a State) that is inconsistent with this chapter.
 
-([Pub. L. 103–55, § 4][/us/pl/103/55/s4], July 28, 1993, [107 Stat. 277][/us/stat/107/277].)
+([Pub. L. 103–55][/us/pl/103/55], § 4, July 28, 1993, [107 Stat. 277][/us/stat/107/277].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/55/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F55%2Fs4
+[/us/pl/103/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F55
 [/us/stat/107/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F277
 
 

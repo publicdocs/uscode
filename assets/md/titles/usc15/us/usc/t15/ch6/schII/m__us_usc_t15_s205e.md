@@ -49,7 +49,7 @@
 
     (11) submit to the Congress and to the President, not later than 1 year after the date of enactment of the Act making appropriations for carrying out this subchapter, a report on the need to provide an effective structural mechanism for converting customary units to metric units in statutes, regulations, and other laws at all levels of government, on a coordinated and timely basis, in response to voluntary conversion programs adopted and implemented by various sectors of society under the auspices and with the approval of the Board. If the Board determines that such a need exists, such report shall include recommendations as to appropriate and effective means for establishing and implementing such a mechanism.
 
-([Pub. L. 94–168, § 6][/us/pl/94/168/s6], Dec. 23, 1975, [89 Stat. 1008][/us/stat/89/1008]; [Pub. L. 96–88, title III, § 301][/us/pl/96/88/s301], title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
+([Pub. L. 94–168][/us/pl/94/168], § 6, Dec. 23, 1975, [89 Stat. 1008][/us/stat/89/1008]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301, title V, § 507, Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677], 692.)
 
  __Transfer of Functions__ 
 
@@ -66,9 +66,9 @@
 ----------
 ----------
 
-[/us/pl/94/168/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F168%2Fs6
+[/us/pl/94/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F168
 [/us/stat/89/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1008
-[/us/pl/96/88/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
 [/us/pl/96/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

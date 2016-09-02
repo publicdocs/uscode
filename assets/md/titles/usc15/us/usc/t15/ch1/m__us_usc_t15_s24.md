@@ -17,7 +17,7 @@
 
     Whenever a corporation shall violate any of the penal provisions of the antitrust laws, such violation shall be deemed to be also that of the individual directors, officers, or agents of such corporation who shall have authorized, ordered, or done any of the acts constituting in whole or in part such violation, and such violation shall be deemed a misdemeanor, and upon conviction therefor of any such director, officer, or agent he shall be punished by a fine of not exceeding $5,000 or by imprisonment for not exceeding one year, or by both, in the discretion of the court.
 
-([Oct. 15, 1914, ch. 323, § 14][/us/act/1914-10-15/ch323/s14], [38 Stat. 736][/us/stat/38/736].)
+([Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], § 14, [38 Stat. 736][/us/stat/38/736].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1914-10-15/ch323/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323%2Fs14
+[/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
 [/us/stat/38/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F736
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 

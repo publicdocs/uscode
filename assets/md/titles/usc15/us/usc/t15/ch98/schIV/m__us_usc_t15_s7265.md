@@ -45,7 +45,7 @@
 
         (2) issue final rules to implement this section, not later than 180 days after July 30, 2002.
 
-([Pub. L. 107–204, title IV, § 407][/us/pl/107/204/s407], July 30, 2002, [116 Stat. 790][/us/stat/116/790].)
+([Pub. L. 107–204, title IV][/us/pl/107/204/tIV], § 407, July 30, 2002, [116 Stat. 790][/us/stat/116/790].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/107/204/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs407
+[/us/pl/107/204/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtIV
 [/us/stat/116/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F790
 
 

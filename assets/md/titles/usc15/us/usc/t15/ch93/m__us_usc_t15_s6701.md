@@ -223,7 +223,7 @@
 
             The term “State” means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
 
-([Pub. L. 106–102, title I, § 104][/us/pl/106/102/s104], Nov. 12, 1999, [113 Stat. 1352][/us/stat/113/1352].)
+([Pub. L. 106–102, title I][/us/pl/106/102/tI], § 104, Nov. 12, 1999, [113 Stat. 1352][/us/stat/113/1352].)
 
  __References in Text__ 
 
@@ -231,39 +231,39 @@
 
     This Act, referred to in subsecs. (c)(1), (d)(1), (4)(D)(iii), (iv), (e), and (f)(2), is [Pub. L. 106–102][/us/pl/106/102], Nov. 12, 1999, [113 Stat. 1338][/us/stat/113/1338], known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under [section 1811 of Title 12][/us/usc/t12/s1811], Banks and Banking, and Tables.
 
-    Section 106 of the Bank Holding Company Act Amendments of 1970, referred to in subsec. (d)(2)(B)(viii)(I), is [Pub. L. 91–607, title I, § 106][/us/pl/91/607/s106], Dec. 31, 1970, [84 Stat. 1766][/us/stat/84/1766], as amended, which is classified generally to chapter 22 (§ 1971 et seq.) of Title 12, Banks and Banking.
+    Section 106 of the Bank Holding Company Act Amendments of 1970, referred to in subsec. (d)(2)(B)(viii)(I), is [Pub. L. 91–607, title I][/us/pl/91/607/tI], § 106, Dec. 31, 1970, [84 Stat. 1766][/us/stat/84/1766], as amended, which is classified generally to chapter 22 (§ 1971 et seq.) of Title 12, Banks and Banking.
 
  __Short Title of 2015 Amendment__ 
 
-[Pub. L. 114–1, § 1(a)][/us/pl/114/1/s1/a], Jan. 12, 2015, [129 Stat. 3][/us/stat/129/3], provided that: 
+[Pub. L. 114–1][/us/pl/114/1], § 1(a), Jan. 12, 2015, [129 Stat. 3][/us/stat/129/3], provided that: 
 
 > “This Act \[enacting subchapter III of this chapter, amending section 78o–10 of this title, [section 6s of Title 7][/us/usc/t7/s6s], Agriculture, and [section 241 of Title 12][/us/usc/t12/s241], Banks and Banking, enacting provisions set out as notes under this section, sections 1 and 6s of Title 7, and [section 241 of Title 12][/us/usc/t12/s241], and amending provisions set out as a note under this section\] may be cited as the ‘Terrorism Risk Insurance Program Reauthorization Act of 2015’.”
 
-[Pub. L. 114–1, title II, § 201][/us/pl/114/1/s201], Jan. 12, 2015, [129 Stat. 12][/us/stat/129/12], provided that: 
+[Pub. L. 114–1, title II][/us/pl/114/1/tII], § 201, Jan. 12, 2015, [129 Stat. 12][/us/stat/129/12], provided that: 
 
 > “This title \[enacting subchapter III of this chapter\] may be cited as the ‘National Association of Registered Agents and Brokers Reform Act of 2015’.”
 
  __Short Title of 2007 Amendment__ 
 
-[Pub. L. 110–160, § 1(a)][/us/pl/110/160/s1/a], Dec. 26, 2007, [121 Stat. 1839][/us/stat/121/1839], provided that: 
+[Pub. L. 110–160][/us/pl/110/160], § 1(a), Dec. 26, 2007, [121 Stat. 1839][/us/stat/121/1839], provided that: 
 
 > “This Act \[amending provisions set out as a note under this section\] may be cited as the ‘Terrorism Risk Insurance Program Reauthorization Act of 2007’.”
 
  __Short Title of 2005 Amendment__ 
 
-[Pub. L. 109–144, § 1][/us/pl/109/144/s1], Dec. 22, 2005, [119 Stat. 2660][/us/stat/119/2660], provided that: 
+[Pub. L. 109–144][/us/pl/109/144], § 1, Dec. 22, 2005, [119 Stat. 2660][/us/stat/119/2660], provided that: 
 
 > “This Act \[amending provisions set out as a note under this section\] may be cited as the ‘Terrorism Risk Insurance Extension Act of 2005’.”
 
  __Short Title of 2002 Amendment__ 
 
-[Pub. L. 107–297, § 1(a)][/us/pl/107/297/s1/a], Nov. 26, 2002, [116 Stat. 2322][/us/stat/116/2322], provided that: 
+[Pub. L. 107–297][/us/pl/107/297], § 1(a), Nov. 26, 2002, [116 Stat. 2322][/us/stat/116/2322], provided that: 
 
 > “This Act \[amending [section 248 of Title 12][/us/usc/t12/s248], Banks and Banking, and sections 1606 and 1610 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section and [section 1610 of Title 28][/us/usc/t28/s1610], and amending provisions set out as a note under [section 1610 of Title 28][/us/usc/t28/s1610]\] may be cited as the ‘Terrorism Risk Insurance Act of 2002’.”
 
  __Advisory Committee on Risk-Sharing Mechanisms__ 
 
-[Pub. L. 114–1, title I, § 110][/us/pl/114/1/s110], Jan. 12, 2015, [129 Stat. 9][/us/stat/129/9], provided that:
+[Pub. L. 114–1, title I][/us/pl/114/1/tI], § 110, Jan. 12, 2015, [129 Stat. 9][/us/stat/129/9], provided that:
 
 >     “(a) __Finding; Rule of Construction.—__ 
 
@@ -291,7 +291,7 @@
 
  __Terrorism Insurance Program__ 
 
-[Pub. L. 107–297, title I][/us/pl/107/297], Nov. 26, 2002, [116 Stat. 2322][/us/stat/116/2322], as amended by [Pub. L. 109–144][/us/pl/109/144], §§ 2–8, Dec. 22, 2005, [119 Stat. 2660–2662][/us/stat/119/2660-2662]; [Pub. L. 110–160][/us/pl/110/160], §§ 2–5, Dec. 26, 2007, [121 Stat. 1839–1841][/us/stat/121/1839-1841], [Pub. L. 114–1, title I][/us/pl/114/1], §§ 101–106, 107(e), 111, 112, Jan. 12, 2015, [129 Stat. 3–5][/us/stat/129/3-5], 8, 10–12, provided that:
+[Pub. L. 107–297, title I][/us/pl/107/297/tI], Nov. 26, 2002, [116 Stat. 2322][/us/stat/116/2322], as amended by [Pub. L. 109–144][/us/pl/109/144], §§ 2–8, Dec. 22, 2005, [119 Stat. 2660–2662][/us/stat/119/2660-2662]; [Pub. L. 110–160][/us/pl/110/160], §§ 2–5, Dec. 26, 2007, [121 Stat. 1839–1841][/us/stat/121/1839-1841], [Pub. L. 114–1, title I][/us/pl/114/1/tI], §§ 101–106, 107(e), 111, 112, Jan. 12, 2015, [129 Stat. 3–5][/us/stat/129/3-5], 8, 10–12, provided that:
 
 > “SEC. 101. __CONGRESSIONAL FINDINGS AND PURPOSE.__ 
 
@@ -1139,9 +1139,9 @@
 
 >         The Secretary shall submit a report to the Congress setting forth the findings and conclusions of each study required under paragraph (1).”
 
-    \[[Pub. L. 114–1, title I][/us/pl/114/1], §§ 103, 105, 111, 112, Jan. 12, 2015, [129 Stat. 4][/us/stat/129/4], 5, 10, 12, which directed amendment of “subparagraph (B) of section 103(e)(1)”, “paragraph (1)(A) of section 102”, “section 104”, and “section 108”, respectively, without specifying the name of the Act being amended, were executed to those sections of the Terrorism Risk Insurance Act of 2002 (title I of [Pub. L. 107–297][/us/pl/107/297], set out above), to reflect the probable intent of Congress.\]
+    \[[Pub. L. 114–1, title I][/us/pl/114/1/tI], §§ 103, 105, 111, 112, Jan. 12, 2015, [129 Stat. 4][/us/stat/129/4], 5, 10, 12, which directed amendment of “subparagraph (B) of section 103(e)(1)”, “paragraph (1)(A) of section 102”, “section 104”, and “section 108”, respectively, without specifying the name of the Act being amended, were executed to those sections of the Terrorism Risk Insurance Act of 2002 (title I of [Pub. L. 107–297][/us/pl/107/297], set out above), to reflect the probable intent of Congress.\]
 
-    \[[Pub. L. 110–160, § 4(b)(2)][/us/pl/110/160/s4/b/2], Dec. 26, 2007, [121 Stat. 1840][/us/stat/121/1840], which directed amendment of [section 103(e)(3) of Pub. L. 107–297][/us/pl/107/297/s103/e/3], set out above, by substituting period for “ ‘and the Congress shall’ and all that follows through the end of the paragraph”, was executed by substituting period for “and the Congress shall” and all that followed through end of first sentence, to reflect the probable intent of Congress, in light of insertion of last sentence of par. (3) by [Pub. L. 110–160, § 4(b)(1)][/us/pl/110/160/s4/b/1].\]
+    \[[Pub. L. 110–160][/us/pl/110/160], § 4(b)(2), Dec. 26, 2007, [121 Stat. 1840][/us/stat/121/1840], which directed amendment of [section 103(e)(3) of Pub. L. 107–297][/us/pl/107/297/s103/e/3], set out above, by substituting period for “ ‘and the Congress shall’ and all that follows through the end of the paragraph”, was executed by substituting period for “and the Congress shall” and all that followed through end of first sentence, to reflect the probable intent of Congress, in light of insertion of last sentence of par. (3) by [Pub. L. 110–160][/us/pl/110/160], § 4(b)(1).\]
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -1164,7 +1164,7 @@
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
-[/us/pl/106/102/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs104
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1352
 [/us/act/1945-03-09/ch20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-03-09%2Fch20
 [/us/stat/59/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F33
@@ -1172,35 +1172,35 @@
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/stat/113/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1338
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
-[/us/pl/91/607/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2Fs106
+[/us/pl/91/607/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F607%2FtI
 [/us/stat/84/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1766
-[/us/pl/114/1/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs1%2Fa
+[/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
 [/us/stat/129/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3
 [/us/usc/t7/s6s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6s
 [/us/usc/t12/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs241
 [/us/usc/t12/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs241
-[/us/pl/114/1/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs201
+[/us/pl/114/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2FtII
 [/us/stat/129/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F12
-[/us/pl/110/160/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F160%2Fs1%2Fa
+[/us/pl/110/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F160
 [/us/stat/121/1839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1839
-[/us/pl/109/144/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F144%2Fs1
+[/us/pl/109/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F144
 [/us/stat/119/2660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2660
-[/us/pl/107/297/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F297%2Fs1%2Fa
+[/us/pl/107/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F297
 [/us/stat/116/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2322
 [/us/usc/t12/s248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs248
 [/us/usc/t28/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1610
 [/us/usc/t28/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1610
-[/us/pl/114/1/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs110
+[/us/pl/114/1/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2FtI
 [/us/stat/129/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F9
 [/us/pl/114/1/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs1%2Fa
 [/us/usc/t15/s6701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6701
-[/us/pl/107/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F297
+[/us/pl/107/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F297%2FtI
 [/us/stat/116/2322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2322
 [/us/pl/109/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F144
 [/us/stat/119/2660-2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2660-2662
 [/us/pl/110/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F160
 [/us/stat/121/1839-1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1839-1841
-[/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
+[/us/pl/114/1/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2FtI
 [/us/stat/129/3-5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3-5
 [/us/pl/114/1/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs107
 [/us/stat/129/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F7
@@ -1212,13 +1212,13 @@
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/pl/107/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F42
 [/us/usc/t49/s40101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs40101
-[/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
+[/us/pl/114/1/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2FtI
 [/us/stat/129/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F4
 [/us/pl/107/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F297
-[/us/pl/110/160/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F160%2Fs4%2Fb%2F2
+[/us/pl/110/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F160
 [/us/stat/121/1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1840
 [/us/pl/107/297/s103/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F297%2Fs103%2Fe%2F3
-[/us/pl/110/160/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F160%2Fs4%2Fb%2F1
+[/us/pl/110/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F160
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 
 

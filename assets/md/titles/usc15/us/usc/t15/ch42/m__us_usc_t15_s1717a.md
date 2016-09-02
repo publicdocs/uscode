@@ -77,7 +77,7 @@
 
         Civil money penalties collected under this section shall be paid to the Director and, upon approval in an appropriation Act, may be used by the Director to cover all or part of the cost of rendering services under this chapter.
 
-([Pub. L. 90–448, title XIV, § 1418a][/us/pl/90/448/s1418a], as added [Pub. L. 101–235, title I, § 111(a)][/us/pl/101/235/s111/a], Dec. 15, 1989, [103 Stat. 2014][/us/stat/103/2014]; amended [Pub. L. 111–203, title X, § 1098A(1)][/us/pl/111/203/s1098A/1], July 21, 2010, [124 Stat. 2105][/us/stat/124/2105].)
+([Pub. L. 90–448, title XIV][/us/pl/90/448/tXIV], § 1418a, as added [Pub. L. 101–235, title I][/us/pl/101/235/tI], § 111(a), Dec. 15, 1989, [103 Stat. 2014][/us/stat/103/2014]; amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1098A(1), July 21, 2010, [124 Stat. 2105][/us/stat/124/2105].)
 
  __Amendments__ 
 
@@ -89,7 +89,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 101–235, title I, § 111(b)][/us/pl/101/235/s111/b], Dec. 15, 1989, [103 Stat. 2016][/us/stat/103/2016], provided that: 
+[Pub. L. 101–235, title I][/us/pl/101/235/tI], § 111(b), Dec. 15, 1989, [103 Stat. 2016][/us/stat/103/2016], provided that: 
 
 > “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to—
 
@@ -105,16 +105,16 @@
 ----------
 
 [/us/usc/t15/s1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1710
-[/us/pl/90/448/s1418a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1418a
-[/us/pl/101/235/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs111%2Fa
+[/us/pl/90/448/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIV
+[/us/pl/101/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtI
 [/us/stat/103/2014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2014
-[/us/pl/111/203/s1098A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098A%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2105
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/101/235/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2Fs111%2Fb
+[/us/pl/101/235/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F235%2FtI
 [/us/stat/103/2016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2016
 
 

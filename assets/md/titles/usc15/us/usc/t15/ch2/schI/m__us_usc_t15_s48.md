@@ -17,7 +17,7 @@
 
     The several departments and bureaus of the Government when directed by the President shall furnish the Commission, upon its request, all records, papers, and information in their possession relating to any corporation subject to any of the provisions of this subchapter, and shall detail from time to time such officials and employees to the Commission as he may direct.
 
-([Sept. 26, 1914, ch. 311, § 8][/us/act/1914-09-26/ch311/s8], [38 Stat. 722][/us/stat/38/722].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 8, [38 Stat. 722][/us/stat/38/722].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1914-09-26/ch311/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs8
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F722
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41

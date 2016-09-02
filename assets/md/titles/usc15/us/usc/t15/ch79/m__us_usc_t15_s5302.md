@@ -41,7 +41,7 @@
 
     (7) “Secretary” means the Secretary of Energy.
 
-([Pub. L. 101–425, § 3][/us/pl/101/425/s3], Oct. 15, 1990, [104 Stat. 915][/us/stat/104/915].)
+([Pub. L. 101–425][/us/pl/101/425], § 3, Oct. 15, 1990, [104 Stat. 915][/us/stat/104/915].)
 
 ----------
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/101/425/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F425%2Fs3
+[/us/pl/101/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F425
 [/us/stat/104/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F915
 
 

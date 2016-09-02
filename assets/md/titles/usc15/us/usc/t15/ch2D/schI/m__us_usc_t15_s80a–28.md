@@ -99,7 +99,7 @@
 
         (2) Notwithstanding paragraphs (1) and (2) of subsection (d), (A) in respect of any certificate of the installment type, during the first certificate year, the holder of the certificate, upon surrender thereof, shall be entitled to a value payable in cash not less than 80 per centum of the amount of the gross payments made on the certificate; and (B) in respect of any certificate of the installment type, at any time after the expiration of the first certificate year and prior to maturity, the holder of the certificate, upon surrender thereof, shall be entitled to a value payable in cash not less than the then amount of the reserve for such certificate required by clauses (1) and (2) of subparagraph (D) of paragraph (2) of subsection (a), less a surrender charge that shall not exceed 2 per centum of the face or maturity amount of the certificate, or 15 per centum of the amount of such reserve, whichever is the lesser, but in no event shall such value be less than 80 per centum of the gross payments made on the certificate. The amount of the surrender value for the end of each certificate year shall be set out in the certificate.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 28, [54 Stat. 829][/us/stat/54/829]; [Pub. L. 91–547, § 17][/us/pl/91/547/s17], Dec. 14, 1970, [84 Stat. 1426][/us/stat/84/1426]; [Pub. L. 100–181, title VI][/us/pl/100/181], §§ 620, 621, Dec. 4, 1987, [101 Stat. 1262][/us/stat/101/1262].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 28, [54 Stat. 829][/us/stat/54/829]; [Pub. L. 91–547][/us/pl/91/547], § 17, Dec. 14, 1970, [84 Stat. 1426][/us/stat/84/1426]; [Pub. L. 100–181, title VI][/us/pl/100/181/tVI], §§ 620, 621, Dec. 4, 1987, [101 Stat. 1262][/us/stat/101/1262].)
 
  __References in Text__ 
 
@@ -111,9 +111,9 @@
 
  __Amendments__ 
 
-    1987—Subsec. (a)(2)(B). [Pub. L. 100–181, § 620][/us/pl/100/181/s620], substituted “paragraph” for “subsection”.
+    1987—Subsec. (a)(2)(B). [Pub. L. 100–181][/us/pl/100/181], § 620, substituted “paragraph” for “subsection”.
 
-    Subsec. (d)(2). [Pub. L. 100–181, § 621][/us/pl/100/181/s621], inserted “of” before “subsection (a)”.
+    Subsec. (d)(2). [Pub. L. 100–181][/us/pl/100/181], § 621, inserted “of” before “subsection (a)”.
 
     1970—Subsec. (i). [Pub. L. 91–547][/us/pl/91/547] added subsec. (i).
 
@@ -135,15 +135,15 @@
 [/us/usc/t15/s80a–26/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9326%2Fa
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F829
-[/us/pl/91/547/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs17
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1426
-[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVI
 [/us/stat/101/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1262
 [/us/usc/t15/s80a–52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9352
 [/us/pl/91/547/s30/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs30%2F3
 [/us/usc/t15/s80a–52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9352
-[/us/pl/100/181/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs620
-[/us/pl/100/181/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs621
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/pl/91/547/s30/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs30%2F3

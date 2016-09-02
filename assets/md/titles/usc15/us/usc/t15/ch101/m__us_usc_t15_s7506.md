@@ -27,7 +27,7 @@
 
         The Secretary of Commerce or his designee, in consultation with the National Nanotechnology Coordination Office and, to the extent possible, utilizing resources at the National Technical Information Service, shall establish a clearinghouse of information related to commercialization of nanotechnology research, including information relating to activities by regional, State, and local commercial nanotechnology initiatives; transition of research, technologies, and concepts from Federal nanotechnology research and development programs into commercial and military products; best practices by government, universities and private sector laboratories transitioning technology to commercial use; examples of ways to overcome barriers and challenges to technology deployment; and use of manufacturing infrastructure and workforce.
 
-([Pub. L. 108–153, § 7][/us/pl/108/153/s7], Dec. 3, 2003, [117 Stat. 1930][/us/stat/117/1930].)
+([Pub. L. 108–153][/us/pl/108/153], § 7, Dec. 3, 2003, [117 Stat. 1930][/us/stat/117/1930].)
 
  __Change of Name__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t15/s7501/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7501%2Fb%2F7
-[/us/pl/108/153/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F153%2Fs7
+[/us/pl/108/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F153
 [/us/stat/117/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1930
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/usc/t15/s278k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278k

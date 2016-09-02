@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to confer any regulatory authority on any Federal, State, tribal, or local department or agency.
 
-([Pub. L. 113–274, § 3][/us/pl/113/274/s3], Dec. 18, 2014, [128 Stat. 2972][/us/stat/128/2972].)
+([Pub. L. 113–274][/us/pl/113/274], § 3, Dec. 18, 2014, [128 Stat. 2972][/us/stat/128/2972].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/113/274/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs3
+[/us/pl/113/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274
 [/us/stat/128/2972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2972
 [/us/pl/113/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274
 [/us/stat/128/2971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2971

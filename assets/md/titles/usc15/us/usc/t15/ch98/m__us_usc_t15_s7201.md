@@ -143,7 +143,7 @@
 
         The term “foreign auditor oversight authority” means any governmental body or other entity empowered by a foreign government to conduct inspections of public accounting firms or otherwise to administer or enforce laws related to the regulation of public accounting firms.
 
-([Pub. L. 107–204, § 2(a)][/us/pl/107/204/s2/a], July 30, 2002, [116 Stat. 746][/us/stat/116/746]; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 929F(g)(1), 981(a), 982(a)(2), July 21, 2010, [124 Stat. 1854][/us/stat/124/1854], 1926, 1928.)
+([Pub. L. 107–204][/us/pl/107/204], § 2(a), July 30, 2002, [116 Stat. 746][/us/stat/116/746]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], §§ 929F(g)(1), 981(a), 982(a)(2), July 21, 2010, [124 Stat. 1854][/us/stat/124/1854], 1926, 1928.)
 
  __References in Text__ 
 
@@ -155,11 +155,11 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 982(a)(2)][/us/pl/111/203/s982/a/2], substituted “Except as otherwise specifically provided in this Act, in this” for “In this” in introductory provisions.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 982(a)(2), substituted “Except as otherwise specifically provided in this Act, in this” for “In this” in introductory provisions.
 
-    Par. (9)(C). [Pub. L. 111–203, § 929F(g)(1)][/us/pl/111/203/s929F/g/1], added subpar. (C).
+    Par. (9)(C). [Pub. L. 111–203][/us/pl/111/203], § 929F(g)(1), added subpar. (C).
 
-    Par. (17). [Pub. L. 111–203, § 981(a)][/us/pl/111/203/s981/a], added par. (17).
+    Par. (17). [Pub. L. 111–203][/us/pl/111/203], § 981(a), added par. (17).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -167,13 +167,13 @@
 
  __Short Title__ 
 
-[Pub. L. 107–204, § 1(a)][/us/pl/107/204/s1/a], July 30, 2002, [116 Stat. 745][/us/stat/116/745], provided that: 
+[Pub. L. 107–204][/us/pl/107/204], § 1(a), July 30, 2002, [116 Stat. 745][/us/stat/116/745], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Sarbanes-Oxley Act of 2002’.”
 
  __GAO Study and Report Regarding Consolidation of Public Accounting Firms__ 
 
-    [Pub. L. 107–204, title VII, § 701][/us/pl/107/204/s701], July 30, 2002, [116 Stat. 797][/us/stat/116/797], directed the Comptroller General, in consultation with the Commission, regulatory agencies in other countries of the Group of Seven Industrialized Nations, the Justice Department, and others, to study the factors resulting in the consolidation of public accounting firms and their impact, and to report the study findings to Congress not later than 1 year after July 30, 2002.
+    [Pub. L. 107–204, title VII][/us/pl/107/204/tVII], § 701, July 30, 2002, [116 Stat. 797][/us/stat/116/797], directed the Comptroller General, in consultation with the Commission, regulatory agencies in other countries of the Group of Seven Industrialized Nations, the Justice Department, and others, to study the factors resulting in the consolidation of public accounting firms and their impact, and to report the study findings to Congress not later than 1 year after July 30, 2002.
 
 ----------
 
@@ -197,9 +197,9 @@
 [/us/usc/t15/s7217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7217
 [/us/usc/t15/s78c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa
 [/us/usc/t15/s78c/a/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F47
-[/us/pl/107/204/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs2%2Fa
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/stat/116/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F746
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1854
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/stat/116/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F745
@@ -208,15 +208,15 @@
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/stat/116/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F771
-[/us/pl/111/203/s982/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fa%2F2
-[/us/pl/111/203/s929F/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929F%2Fg%2F1
-[/us/pl/111/203/s981/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs981%2Fa
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/107/204/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs1%2Fa
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/stat/116/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F745
-[/us/pl/107/204/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs701
+[/us/pl/107/204/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtVII
 [/us/stat/116/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F797
 
 

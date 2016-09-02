@@ -53,7 +53,7 @@
 
         If the notice required to be posted pursuant to [section 1693b(d)(3)(B)(i) of this title][/us/usc/t15/s1693b/d/3/B/i] by an automated teller machine operator has been posted by such operator in compliance with such section and the notice is subsequently removed, damaged, or altered by any person other than the operator of the automated teller machine, the operator shall have no liability under this section for failure to comply with [section 1693b(d)(3)(B)(i) of this title][/us/usc/t15/s1693b/d/3/B/i].
 
-([Pub. L. 90–321, title IX, § 910][/us/pl/90/321/s910], as added [Pub. L. 95–630, title XX, § 2001][/us/pl/95/630/s2001], Nov. 10, 1978, [92 Stat. 3735][/us/stat/92/3735]; amended [Pub. L. 106–102, title VII, § 705][/us/pl/106/102/s705], Nov. 12, 1999, [113 Stat. 1465][/us/stat/113/1465]; [Pub. L. 111–203, title X, § 1084(1)][/us/pl/111/203/s1084/1], July 21, 2010, [124 Stat. 2081][/us/stat/124/2081].)
+([Pub. L. 90–321, title IX][/us/pl/90/321/tIX], § 910, as added [Pub. L. 95–630, title XX][/us/pl/95/630/tXX], § 2001, Nov. 10, 1978, [92 Stat. 3735][/us/stat/92/3735]; amended [Pub. L. 106–102, title VII][/us/pl/106/102/tVII], § 705, Nov. 12, 1999, [113 Stat. 1465][/us/stat/113/1465]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1084(1), July 21, 2010, [124 Stat. 2081][/us/stat/124/2081].)
 
  __Amendments__ 
 
@@ -74,12 +74,12 @@
 
 [/us/usc/t15/s1693b/d/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693b%2Fd%2F3%2FB%2Fi
 [/us/usc/t15/s1693b/d/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693b%2Fd%2F3%2FB%2Fi
-[/us/pl/90/321/s910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs910
-[/us/pl/95/630/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs2001
+[/us/pl/90/321/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIX
+[/us/pl/95/630/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXX
 [/us/stat/92/3735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3735
-[/us/pl/106/102/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs705
+[/us/pl/106/102/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtVII
 [/us/stat/113/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1465
-[/us/pl/111/203/s1084/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2081
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102

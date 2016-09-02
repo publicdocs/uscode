@@ -17,7 +17,7 @@
 
     The provisions of this chapter are in addition to, and not in substitution for or limitation of, the provisions of any other law of the United States or of the law of any State.
 
-([Pub. L. 93–167, § 6][/us/pl/93/167/s6], Nov. 29, 1973, [87 Stat. 687][/us/stat/87/687].)
+([Pub. L. 93–167][/us/pl/93/167], § 6, Nov. 29, 1973, [87 Stat. 687][/us/stat/87/687].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/167/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F167%2Fs6
+[/us/pl/93/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F167
 [/us/stat/87/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F687
 
 

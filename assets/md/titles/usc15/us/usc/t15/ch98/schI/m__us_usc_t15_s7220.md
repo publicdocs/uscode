@@ -67,7 +67,7 @@
 
         The term “self-regulatory organization” has the same meaning as in [section 78c(a) of this title][/us/usc/t15/s78c/a].
 
-([Pub. L. 107–204, title I, § 110][/us/pl/107/204/s110], as added [Pub. L. 111–203, title IX, § 982(a)(1)][/us/pl/111/203/s982/a/1], July 21, 2010, [124 Stat. 1927][/us/stat/124/1927].)
+([Pub. L. 107–204, title I][/us/pl/107/204/tI], § 110, as added [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 982(a)(1), July 21, 2010, [124 Stat. 1927][/us/stat/124/1927].)
 
  __References in Text__ 
 
@@ -95,8 +95,8 @@
 [/us/usc/t15/s78m/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m%2Fb
 [/us/usc/t15/s7213/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7213%2Fa
 [/us/usc/t15/s78c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa
-[/us/pl/107/204/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs110
-[/us/pl/111/203/s982/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fa%2F1
+[/us/pl/107/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtI
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1927
 [/us/usc/t15/s77s/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77s%2Fb
 [/us/usc/t15/s77s/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77s%2Fb

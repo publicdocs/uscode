@@ -29,7 +29,7 @@
 
         (2) Any person who receives or utilizes any proceeds of any grant made or cooperative agreement entered into under this section shall keep such records as the Secretary shall by regulation prescribe as being necessary and appropriate to facilitate effective audit and evaluation, including records which fully disclose the amount and disposition by such recipient of such proceeds, the total cost of the program or project in connection with which such proceeds were used, and the amount, if any, of such costs which was provided through other sources.
 
-([Pub. L. 96–480, § 8][/us/pl/96/480/s8], formerly § 7, Oct. 21, 1980, [94 Stat. 2315][/us/stat/94/2315]; renumbered § 8 and amended [Pub. L. 100–418, title V][/us/pl/100/418], §§ 5115(b)(1), 5122(a)(1), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433], 1438.)
+([Pub. L. 96–480][/us/pl/96/480], § 8, formerly § 7, Oct. 21, 1980, [94 Stat. 2315][/us/stat/94/2315]; renumbered § 8 and amended [Pub. L. 100–418, title V][/us/pl/100/418/tV], §§ 5115(b)(1), 5122(a)(1), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433], 1438.)
 
  __Prior Provisions__ 
 
@@ -37,7 +37,7 @@
 
  __Amendments__ 
 
-    1988—Subsec. (b). [Pub. L. 100–418, § 5115(b)(1)][/us/pl/100/418/s5115/b/1], substituted “Assistant Secretary” for “Director”.
+    1988—Subsec. (b). [Pub. L. 100–418][/us/pl/100/418], § 5115(b)(1), substituted “Assistant Secretary” for “Director”.
 
 ----------
 
@@ -46,12 +46,12 @@
 ----------
 ----------
 
-[/us/pl/96/480/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs8
+[/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/stat/94/2315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2315
-[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
 [/us/pl/96/480/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs8
 [/us/usc/t15/s3707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3707
-[/us/pl/100/418/s5115/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fb%2F1
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 
 

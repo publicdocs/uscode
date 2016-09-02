@@ -17,7 +17,7 @@
 
     The shipment or transportation in interstate commerce from any State of contraband oil produced in such State is prohibited. For the purposes of this section contraband oil shall not be deemed to have been produced in a State if none of the petroleum constituting such contraband oil, or from which it was produced or derived, was produced, transported, or withdrawn from storage in excess of the amounts permitted to be produced, transported, or withdrawn from storage under the laws of such State or under any regulation or order prescribed thereunder by any board, commission, officer, or other duly authorized agency of such State.
 
-([Feb. 22, 1935, ch. 18, § 3][/us/act/1935-02-22/ch18/s3], [49 Stat. 31][/us/stat/49/31].)
+([Feb. 22, 1935, ch. 18][/us/act/1935-02-22/ch18], § 3, [49 Stat. 31][/us/stat/49/31].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1935-02-22/ch18/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-02-22%2Fch18%2Fs3
+[/us/act/1935-02-22/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-02-22%2Fch18
 [/us/stat/49/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F31
 
 

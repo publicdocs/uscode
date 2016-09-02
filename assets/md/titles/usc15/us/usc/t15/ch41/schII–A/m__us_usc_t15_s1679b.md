@@ -55,7 +55,7 @@
 
         No credit repair organization may charge or receive any money or other valuable consideration for the performance of any service which the credit repair organization has agreed to perform for any consumer before such service is fully performed.
 
-([Pub. L. 90–321, title IV, § 404][/us/pl/90/321/s404], as added [Pub. L. 104–208, div. A, title II, § 2451][/us/pl/104/208/s2451], Sept. 30, 1996, [110 Stat. 3009–456][/us/stat/110/3009-456].)
+([Pub. L. 90–321, title IV][/us/pl/90/321/tIV], § 404, as added [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2451, Sept. 30, 1996, [110 Stat. 3009–456][/us/stat/110/3009-456].)
 
  __Prior Provisions__ 
 
@@ -69,8 +69,8 @@
 ----------
 
 [/us/usc/t15/s1681a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Ff
-[/us/pl/90/321/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs404
-[/us/pl/104/208/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2451
+[/us/pl/90/321/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIV
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-456
 [/us/pl/90/321/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs404
 [/us/usc/t15/s1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1679

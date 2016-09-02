@@ -53,7 +53,7 @@
 
         to secure such relief as may be necessary to respond to the hazard. The district court of the United States in the district in which the response will be carried out shall have jurisdiction to grant such relief, including injunctive relief.
 
-([Pub. L. 94–469, title II, § 208][/us/pl/94/469/s208], as added [Pub. L. 99–519, § 2][/us/pl/99/519/s2], Oct. 22, 1986, [100 Stat. 2985][/us/stat/100/2985].)
+([Pub. L. 94–469, title II][/us/pl/94/469/tII], § 208, as added [Pub. L. 99–519][/us/pl/99/519], § 2, Oct. 22, 1986, [100 Stat. 2985][/us/stat/100/2985].)
 
 ----------
 
@@ -62,8 +62,8 @@
 ----------
 ----------
 
-[/us/pl/94/469/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs208
-[/us/pl/99/519/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs2
+[/us/pl/94/469/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtII
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2985
 
 

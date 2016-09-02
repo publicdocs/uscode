@@ -17,7 +17,7 @@
 
     The Secretary of Energy may authorize temporary exchanges of personnel between the national laboratories of the Department of Energy and any domestic firm or any consortium referred to in [section 4622 of this title][/us/usc/t15/s4622] that is participating in the Initiative. The exchange of personnel shall be subject to such restrictions, limitations, terms, and conditions that the Secretary of Energy considers necessary in the interest of national security.
 
-([Pub. L. 100–180, div. C, title I, § 3144][/us/pl/100/180/s3144], Dec. 4, 1987, [101 Stat. 1243][/us/stat/101/1243].)
+([Pub. L. 100–180, div. C, title I][/us/pl/100/180/dC/tI], § 3144, Dec. 4, 1987, [101 Stat. 1243][/us/stat/101/1243].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t15/s4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4622
-[/us/pl/100/180/s3144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3144
+[/us/pl/100/180/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdC%2FtI
 [/us/stat/101/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1243
 
 

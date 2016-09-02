@@ -345,7 +345,7 @@
 
         It shall be unlawful for any person to effect a transaction in a security-based swap with or for a person that is not an eligible contract participant, unless such transaction is effected on a national securities exchange registered pursuant to subsection (b).
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 6, [48 Stat. 885][/us/stat/48/885]; [Pub. L. 94–29, § 4][/us/pl/94/29/s4], June 4, 1975, [89 Stat. 104][/us/stat/89/104]; [Pub. L. 100–181, title III][/us/pl/100/181], §§ 309–312, Dec. 4, 1987, [101 Stat. 1255][/us/stat/101/1255]; [Pub. L. 103–202, title III, § 303(b)][/us/pl/103/202/s303/b], Dec. 17, 1993, [107 Stat. 2365][/us/stat/107/2365]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, §§ 202(a), 206(a), (i), (k)(2), (l)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–416, 2763A–426, 2763A–433, 2763A–434; [Pub. L. 111–203, title VII][/us/pl/111/203], §§ 721(e)(8), 734(b)(2), 763(e), title IX, § 957, July 21, 2010, [124 Stat. 1671][/us/stat/124/1671], 1718, 1777, 1906.)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 6, [48 Stat. 885][/us/stat/48/885]; [Pub. L. 94–29][/us/pl/94/29], § 4, June 4, 1975, [89 Stat. 104][/us/stat/89/104]; [Pub. L. 100–181, title III][/us/pl/100/181/tIII], §§ 309–312, Dec. 4, 1987, [101 Stat. 1255][/us/stat/101/1255]; [Pub. L. 103–202, title III][/us/pl/103/202/tIII], § 303(b), Dec. 17, 1993, [107 Stat. 2365][/us/stat/107/2365]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, §§ 202(a), 206(a), (i), (k)(2), (l)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–416, 2763A–426, 2763A–433, 2763A–434; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], §§ 721(e)(8), 734(b)(2), 763(e), title IX, § 957, July 21, 2010, [124 Stat. 1671][/us/stat/124/1671], 1718, 1777, 1906.)
 
  __Amendment of Section__ 
 
@@ -357,45 +357,45 @@
 
     The Investment Company Act of 1940, referred to in subsec. (b)(10)(B), is title I of [act Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], [54 Stat. 789][/us/stat/54/789], which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title][/us/usc/t15/s80a–51] and Tables.
 
-    The Commodity Exchange Act, referred to in subsecs. (g)(1)(A) and (h)(6), is [act Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], [42 Stat. 998][/us/stat/42/998], which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. [Section 1a(2) of Title 7][/us/usc/t7/s1a/2] was redesignated section 1a(6) by [Pub. L. 111–203, title VII, § 721(a)(1)][/us/pl/111/203/s721/a/1], July 21, 2010, [124 Stat. 1658][/us/stat/124/1658]. For complete classification of this Act to the Code, see [section 1 of Title 7][/us/usc/t7/s1] and Tables.
+    The Commodity Exchange Act, referred to in subsecs. (g)(1)(A) and (h)(6), is [act Sept. 21, 1922, ch. 369][/us/act/1922-09-21/ch369], [42 Stat. 998][/us/stat/42/998], which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. [Section 1a(2) of Title 7][/us/usc/t7/s1a/2] was redesignated section 1a(6) by [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 721(a)(1), July 21, 2010, [124 Stat. 1658][/us/stat/124/1658]. For complete classification of this Act to the Code, see [section 1 of Title 7][/us/usc/t7/s1] and Tables.
 
-    Subsection (k) of [section 78q of this title][/us/usc/t15/s78q], referred to in subsec. (g)(4)(A)(iv), was redesignated subsec. (j) by [Pub. L. 111–203, title VI, § 617(a)(2)][/us/pl/111/203/s617/a/2], July 21, 2010, [124 Stat. 1616][/us/stat/124/1616].
+    Subsection (k) of [section 78q of this title][/us/usc/t15/s78q], referred to in subsec. (g)(4)(A)(iv), was redesignated subsec. (j) by [Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 617(a)(2), July 21, 2010, [124 Stat. 1616][/us/stat/124/1616].
 
  __Amendments__ 
 
-    2010—Subsec. (b)(9). [Pub. L. 111–203, § 957(1)][/us/pl/111/203/s957/1], designated introductory provisions and subpars. (A) to (D) as subpar. (A), redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A) and realigned margins, redesignated former cls. (i) to (v) of subpar. (A) as subcls. (I) to (V), respectively, of cl. (i) and realigned margins, and designated concluding provisions as subpar. (B).
+    2010—Subsec. (b)(9). [Pub. L. 111–203][/us/pl/111/203], § 957(1), designated introductory provisions and subpars. (A) to (D) as subpar. (A), redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A) and realigned margins, redesignated former cls. (i) to (v) of subpar. (A) as subcls. (I) to (V), respectively, of cl. (i) and realigned margins, and designated concluding provisions as subpar. (B).
 
-    Subsec. (b)(10). [Pub. L. 111–203, § 957(2)][/us/pl/111/203/s957/2], added par. (10).
+    Subsec. (b)(10). [Pub. L. 111–203][/us/pl/111/203], § 957(2), added par. (10).
 
-    Subsec. (g)(1)(A). [Pub. L. 111–203, § 734(b)(2)][/us/pl/111/203/s734/b/2], substituted “that has been designated” for “that—(i) has been designated” and “and” for “or” at end and struck out cl. (ii) which read as follows: “is registered as a derivative transaction execution facility under section 5a of the Commodity Exchange Act and such registration is not suspended by the Commodity Futures Trading Commission; and”.
+    Subsec. (g)(1)(A). [Pub. L. 111–203][/us/pl/111/203], § 734(b)(2), substituted “that has been designated” for “that—(i) has been designated” and “and” for “or” at end and struck out cl. (ii) which read as follows: “is registered as a derivative transaction execution facility under section 5a of the Commodity Exchange Act and such registration is not suspended by the Commodity Futures Trading Commission; and”.
 
-    Subsec. (g)(5)(B)(i)(I). [Pub. L. 111–203, § 721(e)(8)(A)][/us/pl/111/203/s721/e/8/A], substituted “section 1a(18)(B)(ii)” for “section 1a(12)(B)(ii)”.
+    Subsec. (g)(5)(B)(i)(I). [Pub. L. 111–203][/us/pl/111/203], § 721(e)(8)(A), substituted “section 1a(18)(B)(ii)” for “section 1a(12)(B)(ii)”.
 
-    Subsec. (g)(5)(B)(i)(II). [Pub. L. 111–203, § 721(e)(8)(B)][/us/pl/111/203/s721/e/8/B], substituted “section 1a(18)” for “section 1a(12)”.
+    Subsec. (g)(5)(B)(i)(II). [Pub. L. 111–203][/us/pl/111/203], § 721(e)(8)(B), substituted “section 1a(18)” for “section 1a(12)”.
 
-    Subsec. (l). [Pub. L. 111–203, § 763(e)][/us/pl/111/203/s763/e], added subsec. (l).
+    Subsec. (l). [Pub. L. 111–203][/us/pl/111/203], § 763(e), added subsec. (l).
 
-    2000—Subsec. (g). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 202(a)\], added subsec. (g).
+    2000—Subsec. (g). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 202(a)\], added subsec. (g).
 
-    Subsec. (h). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(a)\], added subsec. (h).
+    Subsec. (h). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 206(a)\], added subsec. (h).
 
-    Subsec. (i). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(i)\], added subsec. (i).
+    Subsec. (i). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 206(i)\], added subsec. (i).
 
-    Subsec. (j). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(k)(2)\], added subsec. (j).
+    Subsec. (j). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 206(k)(2)\], added subsec. (j).
 
-    Subsec. (k). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(l)\], added subsec. (k).
+    Subsec. (k). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 206(l)\], added subsec. (k).
 
     1993—Subsec. (b)(9). [Pub. L. 103–202][/us/pl/103/202] added par. (9).
 
-    1987—Subsec. (c)(2). [Pub. L. 100–181, § 309][/us/pl/100/181/s309], substituted “protection of investors shall” for “protection shall”.
+    1987—Subsec. (c)(2). [Pub. L. 100–181][/us/pl/100/181], § 309, substituted “protection of investors shall” for “protection shall”.
 
-    Subsec. (c)(3)(A). [Pub. L. 100–181, § 310][/us/pl/100/181/s310], substituted “associated” for “association”.
+    Subsec. (c)(3)(A). [Pub. L. 100–181][/us/pl/100/181], § 310, substituted “associated” for “association”.
 
-    Subsec. (c)(4). [Pub. L. 100–181, § 311][/us/pl/100/181/s311], substituted “may limit (A)” for “may (A) limit”.
+    Subsec. (c)(4). [Pub. L. 100–181][/us/pl/100/181], § 311, substituted “may limit (A)” for “may (A) limit”.
 
-    Subsec. (e)(1). [Pub. L. 100–181, § 312(1)][/us/pl/100/181/s312/1], substituted “paragraph (3) of this subsection” for “paragraph (4) of this section”.
+    Subsec. (e)(1). [Pub. L. 100–181][/us/pl/100/181], § 312(1), substituted “paragraph (3) of this subsection” for “paragraph (4) of this section”.
 
-    Subsec. (e)(3), (4). [Pub. L. 100–181, § 312(2)][/us/pl/100/181/s312/2], (3), redesignated par. (4) as (3) and, in subpar. (E), substituted “fixing” for “fixes” in introductory provisions, “subparagraph (A) of this paragraph” for “paragraph (4)(A) of this subsection” in cl. (1), and “subparagraph (B) of this paragraph” for “paragraph (4)(B) of this subsection” in cl. (2), and struck out former par. (3) which read as follows: “Until December 31, 1976, the Commission, on a regular basis, shall file with the Speaker of the House and the President of the Senate information concerning the effect on the public interest, protection of investors, and maintenance of fair and orderly markets of the absence of any schedule or fixed rates of commissions, allowances, discounts, or other fees to be charged by members of any national securities exchange for effecting transactions on such exchange.”
+    Subsec. (e)(3), (4). [Pub. L. 100–181][/us/pl/100/181], § 312(2), (3), redesignated par. (4) as (3) and, in subpar. (E), substituted “fixing” for “fixes” in introductory provisions, “subparagraph (A) of this paragraph” for “paragraph (4)(A) of this subsection” in cl. (1), and “subparagraph (B) of this paragraph” for “paragraph (4)(B) of this subsection” in cl. (2), and struck out former par. (3) which read as follows: “Until December 31, 1976, the Commission, on a regular basis, shall file with the Speaker of the House and the President of the Senate information concerning the effect on the public interest, protection of investors, and maintenance of fair and orderly markets of the absence of any schedule or fixed rates of commissions, allowances, discounts, or other fees to be charged by members of any national securities exchange for effecting transactions on such exchange.”
 
     1975—[Pub. L. 94–29][/us/pl/94/29] restructured the entire section and, in addition, authorized the Commission to require an exchange to file such documents and information as it deems necessary or appropriate in the public interest or for the protection of investors and to prescribe the form and substance of an exchange’s application for registration, expanded to eight the number of explicit statutory requirements that must be satisfied before an exchange may be registered as a national securities exchange, set forth the authority of a national securities exchange to admit or deny persons membership or association with members, prescribed exchange procedures for instituting disciplinary actions, denying membership, and summarily suspending members or persons associated with members, specified the authority of national securities exchanges to impose schedules or fix rates of commissions, allowances, discounts, or other fees to be charged by its members for transacting business on the exchange, and empowered the Commission to regulate any broker or dealer who effects transactions on an exchange on a regular basis but who is not a member of that exchange and any person who effects transactions on an exchange without the services of another person acting as broker.
 
@@ -409,7 +409,7 @@
 
  __Effective Date of 1993 Amendment__ 
 
-[Pub. L. 103–202, title III, § 304][/us/pl/103/202/s304], Dec. 17, 1993, [107 Stat. 2367][/us/stat/107/2367], provided that:
+[Pub. L. 103–202, title III][/us/pl/103/202/tIII], § 304, Dec. 17, 1993, [107 Stat. 2367][/us/stat/107/2367], provided that:
 
 >     “(a) __Effective Date.—__ 
 
@@ -439,7 +439,7 @@
 
  __Changes in Organization and Rules of National Securities Exchanges and Registered Securities Associations__ 
 
-[Pub. L. 94–29, § 31(b)][/us/pl/94/29/s31/b], June 4, 1975, [89 Stat. 170][/us/stat/89/170], provided that: 
+[Pub. L. 94–29][/us/pl/94/29], § 31(b), June 4, 1975, [89 Stat. 170][/us/stat/89/170], provided that: 
 
 > “If it appears to the Commission at any time within one year of the effective date of any amendment made by this Act \[see Short Title of 1975 Amendment note under [section 78a of this title][/us/usc/t15/s78a]\] to the Securities Exchange Act of 1934 that the organization or rules of any national securities exchange or registered securities association registered with the Commission on the date of enactment of this Act \[June 4, 1975\] do not comply with such Act as amended, the Commission shall so notify such exchange or association in writing, specifying the respects in which the exchange or association is not in compliance with such Act. On and after the one hundred eightieth day following the date of receipt of such notice by a national securities exchange or registered securities association, the Commission, without regard to the provisions of section 19(h) of the Securities Exchange Act of 1934 \[[section 78s(h) of this title][/us/usc/t15/s78s/h]\], as amended by this Act, is authorized by order, to suspend the registration of any such exchange or association or impose limitations on the activities, functions, and operations of any such exchange or association, if the Commission finds, after notice and opportunity for hearing, that the organization or rules of such exchange or association do not comply with such Act. Any such suspension or limitation shall continue in effect until the Commission, by order, declares that such exchange or association is in compliance with such requirements.”
 
@@ -483,15 +483,15 @@
 [/us/usc/t7/s6f/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6f%2Fa
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F885
-[/us/pl/94/29/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs4
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F104
-[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtIII
 [/us/stat/101/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1255
-[/us/pl/103/202/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2Fs303%2Fb
+[/us/pl/103/202/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2FtIII
 [/us/stat/107/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2365
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1671
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
@@ -501,29 +501,29 @@
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998
 [/us/usc/t7/s1a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1a%2F2
-[/us/pl/111/203/s721/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs721%2Fa%2F1
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1658
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/usc/t15/s78q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78q
-[/us/pl/111/203/s617/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs617%2Fa%2F2
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1616
-[/us/pl/111/203/s957/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs957%2F1
-[/us/pl/111/203/s957/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs957%2F2
-[/us/pl/111/203/s734/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs734%2Fb%2F2
-[/us/pl/111/203/s721/e/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs721%2Fe%2F8%2FA
-[/us/pl/111/203/s721/e/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs721%2Fe%2F8%2FB
-[/us/pl/111/203/s763/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs763%2Fe
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/103/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202
-[/us/pl/100/181/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs309
-[/us/pl/100/181/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs310
-[/us/pl/100/181/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs311
-[/us/pl/100/181/s312/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs312%2F1
-[/us/pl/100/181/s312/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs312%2F2
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/pl/111/203/s957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs957
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
@@ -536,7 +536,7 @@
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs774
 [/us/usc/t15/s77b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77b
-[/us/pl/103/202/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2Fs304
+[/us/pl/103/202/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2FtIII
 [/us/stat/107/2367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2367
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
@@ -546,7 +546,7 @@
 [/us/usc/t15/s78b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78b
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t15/s78d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d
-[/us/pl/94/29/s31/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs31%2Fb
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F170
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/usc/t15/s78s/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78s%2Fh

@@ -17,7 +17,7 @@
 
     If any provision of this chapter, or the application thereof, is held invalid, the remainder of this chapter shall not be affected thereby.
 
-([Pub. L. 94–586, § 16][/us/pl/94/586/s16], Oct. 22, 1976, [90 Stat. 2915][/us/stat/90/2915].)
+([Pub. L. 94–586][/us/pl/94/586], § 16, Oct. 22, 1976, [90 Stat. 2915][/us/stat/90/2915].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/586/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586%2Fs16
+[/us/pl/94/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586
 [/us/stat/90/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2915
 
 

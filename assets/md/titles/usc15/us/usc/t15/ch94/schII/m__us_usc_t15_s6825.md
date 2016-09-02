@@ -17,7 +17,7 @@
 
     In furtherance of the objectives of this subchapter, each Federal banking agency (as defined in [section 1813(z) of title 12][/us/usc/t12/s1813/z]), the National Credit Union Administration, and the Securities and Exchange Commission or self-regulatory organizations, as appropriate, shall review regulations and guidelines applicable to financial institutions under their respective jurisdictions and shall prescribe such revisions to such regulations and guidelines as may be necessary to ensure that such financial institutions have policies, procedures, and controls in place to prevent the unauthorized disclosure of customer financial information and to deter and detect activities proscribed under [section 6821 of this title][/us/usc/t15/s6821].
 
-([Pub. L. 106–102, title V, § 525][/us/pl/106/102/s525], Nov. 12, 1999, [113 Stat. 1448][/us/stat/113/1448].)
+([Pub. L. 106–102, title V][/us/pl/106/102/tV], § 525, Nov. 12, 1999, [113 Stat. 1448][/us/stat/113/1448].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t12/s1813/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fz
 [/us/usc/t15/s6821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6821
-[/us/pl/106/102/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs525
+[/us/pl/106/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtV
 [/us/stat/113/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1448
 
 

@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 101–606, title I, § 107][/us/pl/101/606/s107], Nov. 16, 1990, [104 Stat. 3101][/us/stat/104/3101], which required the Chairman of the Federal Coordinating Council on Science, Engineering, and Technology to submit an annual report to Congress on the activities conducted by the Committee on Earth and Environmental Sciences pursuant to this subchapter, terminated effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 157 of House Document No. 103–7.
+    Section, [Pub. L. 101–606, title I][/us/pl/101/606/tI], § 107, Nov. 16, 1990, [104 Stat. 3101][/us/stat/104/3101], which required the Chairman of the Federal Coordinating Council on Science, Engineering, and Technology to submit an annual report to Congress on the activities conducted by the Committee on Earth and Environmental Sciences pursuant to this subchapter, terminated effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 157 of House Document No. 103–7.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/606/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2Fs107
+[/us/pl/101/606/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2FtI
 [/us/stat/104/3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3101
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

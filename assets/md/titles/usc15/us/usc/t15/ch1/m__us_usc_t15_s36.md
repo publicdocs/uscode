@@ -23,7 +23,7 @@
 
         Subsection (a) shall not apply with respect to cases commenced before the effective date of this Act.
 
-([Pub. L. 98–544, § 4][/us/pl/98/544/s4], Oct. 24, 1984, [98 Stat. 2750][/us/stat/98/2750].)
+([Pub. L. 98–544][/us/pl/98/544], § 4, Oct. 24, 1984, [98 Stat. 2750][/us/stat/98/2750].)
 
  __References in Text__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t15/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs15
-[/us/pl/98/544/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F544%2Fs4
+[/us/pl/98/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F544
 [/us/stat/98/2750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2750
 [/us/pl/98/544/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F544%2Fs6
 [/us/usc/t15/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs34

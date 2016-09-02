@@ -17,7 +17,7 @@
 
     Each department, agency, and independent establishment of the Federal Government shall identify, develop, initiate, and support appropriate programs, systems, procedures, policies, and techniques to improve the productivity of such departments and agencies, including the implementation, where desirable, of specific programs recommended, supported, or implemented by the Center.
 
-([Pub. L. 94–136, title III, § 304][/us/pl/94/136/s304], Nov. 28, 1975, [89 Stat. 741][/us/stat/89/741].)
+([Pub. L. 94–136, title III][/us/pl/94/136/tIII], § 304, Nov. 28, 1975, [89 Stat. 741][/us/stat/89/741].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/136/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2Fs304
+[/us/pl/94/136/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2FtIII
 [/us/stat/89/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F741
 
 

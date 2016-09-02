@@ -31,15 +31,15 @@
 
         Not less than thirty days before any person exports to a foreign country any misbranded hazardous substance or banned hazardous substance, such person shall file a statement with the Commission notifying the Commission of such exportation, and the Commission, upon receipt of such statement, shall promptly notify the government of such country of such exportation and the basis upon which such substance is considered misbranded or has been banned under this chapter. Any statement filed with the Commission under the preceding sentence shall specify the anticipated date of shipment of such substance, the country and port of destination of such substance, and the quantity of such substance that will be exported, and shall contain such other information as the Commission may by regulation require. Upon petition filed with the Commission by any person required to file a statement under this subsection respecting an exportation, the Commission may, for good cause shown, exempt such person from the requirement of this subsection that such a statement be filed no less than thirty days before the date of the exportation, except that in no case shall the Commission permit such a statement to be filed later than the tenth day before such date.
 
-([Pub. L. 86–613, § 14][/us/pl/86/613/s14], July 12, 1960, [74 Stat. 379][/us/stat/74/379]; [Pub. L. 89–756][/us/pl/89/756], §§ 2(i), 3(e), Nov. 3, 1966, [80 Stat. 1304][/us/stat/80/1304], 1305; [Pub. L. 95–631, § 7(c)][/us/pl/95/631/s7/c], Nov. 10, 1978, [92 Stat. 3746][/us/stat/92/3746]; [Pub. L. 110–314, title II, § 204(b)(4)(D)][/us/pl/110/314/s204/b/4/D], (F)–(I), Aug. 14, 2008, [122 Stat. 3042][/us/stat/122/3042].)
+([Pub. L. 86–613][/us/pl/86/613], § 14, July 12, 1960, [74 Stat. 379][/us/stat/74/379]; [Pub. L. 89–756][/us/pl/89/756], §§ 2(i), 3(e), Nov. 3, 1966, [80 Stat. 1304][/us/stat/80/1304], 1305; [Pub. L. 95–631][/us/pl/95/631], § 7(c), Nov. 10, 1978, [92 Stat. 3746][/us/stat/92/3746]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 204(b)(4)(D), (F)–(I), Aug. 14, 2008, [122 Stat. 3042][/us/stat/122/3042].)
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–314, § 204(b)(4)(D)][/us/pl/110/314/s204/b/4/D], (F), substituted “upon its request” for “upon his request” and substituted “Commission” for “Secretary of Health, Education, and Welfare” in two places.
+    2008—Subsec. (a). [Pub. L. 110–314][/us/pl/110/314], § 204(b)(4)(D), (F), substituted “upon its request” for “upon his request” and substituted “Commission” for “Secretary of Health, Education, and Welfare” in two places.
 
-    Subsec. (b). [Pub. L. 110–314, § 204(b)(4)(F)][/us/pl/110/314/s204/b/4/F], (G), substituted “appears to the Commission” for “appears to the Secretary of Health, Education, and Welfare” and “Commission designated by” for “Department of Health, Education, and Welfare designated by”.
+    Subsec. (b). [Pub. L. 110–314][/us/pl/110/314], § 204(b)(4)(F), (G), substituted “appears to the Commission” for “appears to the Secretary of Health, Education, and Welfare” and “Commission designated by” for “Department of Health, Education, and Welfare designated by”.
 
-    Subsec. (d). [Pub. L. 110–314, § 204(b)(4)(H)][/us/pl/110/314/s204/b/4/H], (I), substituted “statement with the Commission” for “statement with the Consumer Product Safety Commission” and struck out “(hereinafter in this section referred to as the ‘Commission’)” before “notifying”.
+    Subsec. (d). [Pub. L. 110–314][/us/pl/110/314], § 204(b)(4)(H), (I), substituted “statement with the Commission” for “statement with the Consumer Product Safety Commission” and struck out “(hereinafter in this section referred to as the ‘Commission’)” before “notifying”.
 
     1978—Subsec. (d). [Pub. L. 95–631][/us/pl/95/631] added subsec. (d).
 
@@ -53,17 +53,17 @@
 ----------
 
 [/us/usc/t15/s1263/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1263%2Ff
-[/us/pl/86/613/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs14
+[/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/stat/74/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F379
 [/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
 [/us/stat/80/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1304
-[/us/pl/95/631/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631%2Fs7%2Fc
+[/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
 [/us/stat/92/3746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3746
-[/us/pl/110/314/s204/b/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FD
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3042
-[/us/pl/110/314/s204/b/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FD
-[/us/pl/110/314/s204/b/4/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FF
-[/us/pl/110/314/s204/b/4/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FH
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
 [/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
 

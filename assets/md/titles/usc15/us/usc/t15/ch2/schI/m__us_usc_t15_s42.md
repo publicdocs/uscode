@@ -25,7 +25,7 @@
 
     The Government Accountability Office shall receive and examine all accounts of expenditures of the Commission.
 
-([Sept. 26, 1914, ch. 311, § 2][/us/act/1914-09-26/ch311/s2], [38 Stat. 718][/us/stat/38/718]; [June 10, 1921, ch. 18][/us/act/1921-06-10/ch18], title III, § 304, [42 Stat. 24][/us/stat/42/24]; 1978 Reorg. Plan No. 2, § 102, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 2, [38 Stat. 718][/us/stat/38/718]; [June 10, 1921, ch. 18][/us/act/1921-06-10/ch18], title III, § 304, [42 Stat. 24][/us/stat/42/24]; 1978 Reorg. Plan No. 2, § 102, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __References in Text__ 
 
@@ -52,12 +52,12 @@
 ----------
 ----------
 
-[/us/act/1914-09-26/ch311/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs2
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F718
 [/us/act/1921-06-10/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-06-10%2Fch18
 [/us/stat/42/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F24
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/usc/t5/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2102
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783

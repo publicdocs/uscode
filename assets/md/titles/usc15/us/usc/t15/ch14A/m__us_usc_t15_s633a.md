@@ -17,7 +17,7 @@
 
     Beginning in fiscal year 2013 and each fiscal year thereafter, the budget request for the Small Business Administration shall provide a detailed justification of any proposed changes from the enacted level by individual appropriation. The detailed justification shall include at a minimum a description of each credit and non-credit program including amount of funding and costs by appropriation account and fiscal year. For activities funded in multiple appropriations, the budget justification shall specify the amount included in each enacted appropriation, the amount proposed in the budget year and a justification for any proposed changes.
 
-([Pub. L. 112–74, div. C, title V, § 532][/us/pl/112/74/s532], Dec. 23, 2011, [125 Stat. 923][/us/stat/125/923].)
+([Pub. L. 112–74, div. C, title V][/us/pl/112/74/dC/tV], § 532, Dec. 23, 2011, [125 Stat. 923][/us/stat/125/923].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/112/74/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs532
+[/us/pl/112/74/dC/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2FdC%2FtV
 [/us/stat/125/923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F923
 
 

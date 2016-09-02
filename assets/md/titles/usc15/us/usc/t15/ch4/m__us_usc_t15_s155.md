@@ -23,13 +23,13 @@
 
         In the case of failure to comply with any subpoena or in the case of the contumacy of any witness before the registrar or any individual so authorized by him, the registrar or such individual may invoke the aid of any Federal district court. Such court may thereupon order the witness to comply with the requirements of such subpoena and to give evidence touching the matter in question. Any failure to obey such order may be punished by such court as a contempt thereof.
 
-    (c) __Repealed.__  __[__  __Pub. L. 91–452, title II, § 217__  __][/us/pl/91/452/s217]__  __,__  __Oct. 15, 1970__  __,__  __[__  __84 Stat. 929__  __][/us/stat/84/929]__ 
+    (c) __Repealed.__  __[__  __Pub. L. 91–452, title II__  __][/us/pl/91/452/tII]__  __, § 217,__  __Oct. 15, 1970__  __,__  __[__  __84 Stat. 929__  __][/us/stat/84/929]__ 
 
     (d) __Access of registrar or his employee to books and records__ 
 
         For the efficient administration of the functions vested in the registrar by this chapter, he, or any officer, employee, or agent of the United States authorized in writing by him, shall at all reasonable times, for the purpose of examination, have access to and the right to copy any book, account, record, paper, or correspondence relating to the business or affairs of a China Trade Act corporation. Any person who upon demand refuses the registrar, or any duly authorized officer, employee, or agent, such access or opportunity to copy, or hinders, obstructs, or resists him in the exercise of such right, shall be liable to a penalty of not more than $5,000 for each such offense. Such penalty shall be recoverable in a civil suit brought in the name of the United States.
 
-([Sept. 19, 1922, ch. 346, § 15][/us/act/1922-09-19/ch346/s15], [42 Stat. 853][/us/stat/42/853]; [Pub. L. 91–452, title II, § 217][/us/pl/91/452/s217], Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929].)
+([Sept. 19, 1922, ch. 346][/us/act/1922-09-19/ch346], § 15, [42 Stat. 853][/us/stat/42/853]; [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 217, Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929].)
 
  __Amendments__ 
 
@@ -50,11 +50,11 @@
 ----------
 ----------
 
-[/us/pl/91/452/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs217
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F929
-[/us/act/1922-09-19/ch346/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346%2Fs15
+[/us/act/1922-09-19/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346
 [/us/stat/42/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F853
-[/us/pl/91/452/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs217
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F929
 [/us/pl/91/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452
 [/us/pl/91/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452

@@ -23,7 +23,7 @@
 
         Nothing in this chapter shall be construed as granting the Secretary or any other Federal official any authority to promulgate rules of general application to regulate the production, transportation, storage, safety, use or pricing of methane as a transportation fuel or vehicles which use methane as a transportation fuel.
 
-([Pub. L. 96–512, § 11][/us/pl/96/512/s11], Dec. 12, 1980, [94 Stat. 2833][/us/stat/94/2833].)
+([Pub. L. 96–512][/us/pl/96/512], § 11, Dec. 12, 1980, [94 Stat. 2833][/us/stat/94/2833].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/96/512/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F512%2Fs11
+[/us/pl/96/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F512
 [/us/stat/94/2833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2833
 
 

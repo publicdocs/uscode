@@ -17,7 +17,7 @@
 
     No individual shall on the grounds of sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity carried on or receiving Federal assistance under this chapter. This provision will be enforced through agency provisions and rules similar to those already established, with respect to racial and other discrimination, under title VI of the Civil Rights Act of 1964 \[[42 U.S.C. 2000d][/us/usc/t42/s2000d] et seq.\]. However, this remedy is not exclusive and will not prejudice or remove any other legal remedies available to any individual alleging discrimination.
 
-([Pub. L. 93–275, § 16][/us/pl/93/275/s16], May 7, 1974, [88 Stat. 109][/us/stat/88/109].)
+([Pub. L. 93–275][/us/pl/93/275], § 16, May 7, 1974, [88 Stat. 109][/us/stat/88/109].)
 
  __References in Text__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
-[/us/pl/93/275/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs16
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F109
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241

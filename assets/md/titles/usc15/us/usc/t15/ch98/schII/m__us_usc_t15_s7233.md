@@ -23,7 +23,7 @@
 
         It shall be unlawful for any registered public accounting firm (or an associated person thereof, as applicable) to prepare or issue any audit report with respect to any issuer, if the firm or associated person engages in any activity with respect to that issuer prohibited by any of subsections (g) through (l) of [section 78j–1 of this title][/us/usc/t15/s78j–1] or any rule or regulation of the Commission or of the Board issued thereunder.
 
-([Pub. L. 107–204, title II, § 208][/us/pl/107/204/s208], July 30, 2002, [116 Stat. 775][/us/stat/116/775].)
+([Pub. L. 107–204, title II][/us/pl/107/204/tII], § 208, July 30, 2002, [116 Stat. 775][/us/stat/116/775].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t15/s78j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78j%E2%80%931
 [/us/usc/t15/s78j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78j%E2%80%931
-[/us/pl/107/204/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs208
+[/us/pl/107/204/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtII
 [/us/stat/116/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F775
 
 

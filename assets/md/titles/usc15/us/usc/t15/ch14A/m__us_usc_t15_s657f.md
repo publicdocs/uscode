@@ -47,13 +47,13 @@
 
         For purposes of this section, the term “contracting officer” has the meaning given such term in [section 2101(1) of title 41][/us/usc/t41/s2101/1].
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[36\], as added [Pub. L. 108–183, title III, § 308][/us/pl/108/183/s308], Dec. 16, 2003, [117 Stat. 2662][/us/stat/117/2662].)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[36\], as added [Pub. L. 108–183, title III][/us/pl/108/183/tIII], § 308, Dec. 16, 2003, [117 Stat. 2662][/us/stat/117/2662].)
 
  __Codification__ 
 
-    In subsec. (c), “chapter 85 of title 41” substituted for “the Javits-Wagner-O’Day Act ([41 U.S.C. 46][/us/usc/t41/s46] et seq.)” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (c), “chapter 85 of title 41” substituted for “the Javits-Wagner-O’Day Act ([41 U.S.C. 46][/us/usc/t41/s46] et seq.)” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (e), “[section 2101(1) of title 41][/us/usc/t41/s2101/1]” substituted for “section 27(f)(5) of the Office of Federal Procurement Policy Act ([41 U.S.C. 423(f)(5)][/us/usc/t41/s423/f/5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (e), “[section 2101(1) of title 41][/us/usc/t41/s2101/1]” substituted for “section 27(f)(5) of the Office of Federal Procurement Policy Act ([41 U.S.C. 423(f)(5)][/us/usc/t41/s423/f/5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Prior Provisions__ 
 
@@ -68,15 +68,15 @@
 
 [/us/usc/t15/s637/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fm
 [/us/usc/t41/s2101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs2101%2F1
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
-[/us/pl/108/183/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2Fs308
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
+[/us/pl/108/183/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F183%2FtIII
 [/us/stat/117/2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2662
 [/us/usc/t41/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs46
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/usc/t41/s2101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs2101%2F1
 [/us/usc/t41/s423/f/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs423%2Ff%2F5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631

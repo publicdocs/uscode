@@ -213,7 +213,7 @@
 
         (4) the term “sender” means a consumer who requests a remittance provider to send a remittance transfer for the consumer to a designated recipient.
 
-([Pub. L. 90–321, title IX, § 919][/us/pl/90/321/s919], as added and amended [Pub. L. 111–203, title X][/us/pl/111/203], §§ 1073(a)(4), 1084(1), July 21, 2010, [124 Stat. 2060][/us/stat/124/2060], 2081.)
+([Pub. L. 90–321, title IX][/us/pl/90/321/tIX], § 919, as added and amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], §§ 1073(a)(4), 1084(1), July 21, 2010, [124 Stat. 2060][/us/stat/124/2060], 2081.)
 
  __References in Text__ 
 
@@ -229,7 +229,7 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 1084(1)][/us/pl/111/203/s1084/1], substituted “Bureau” for “Board” wherever appearing.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1084(1), substituted “Bureau” for “Board” wherever appearing.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -261,8 +261,8 @@
 [/us/usc/t15/s7006/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7006%2F2
 [/us/usc/t15/s1693a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693a
 [/us/usc/t15/s1693d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693d%2Fa
-[/us/pl/90/321/s919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs919
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/90/321/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIX
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2060
 [/us/pl/106/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229
 [/us/stat/114/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F464
@@ -274,7 +274,7 @@
 [/us/usc/t15/s1693p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693p
 [/us/pl/90/321/s919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs919
 [/us/usc/t15/s1693q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1693q
-[/us/pl/111/203/s1084/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F1
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1084/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F1
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

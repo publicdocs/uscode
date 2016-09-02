@@ -99,7 +99,7 @@
 
             Review under paragraph (1) may be sought during the 30-day period following the date of the event giving rise to the review under subparagraph (A) or (B) of paragraph (1).
 
-([Pub. L. 107–204, title I, § 104][/us/pl/107/204/s104], July 30, 2002, [116 Stat. 757][/us/stat/116/757]; [Pub. L. 111–203, title IX, § 982(e)(1)][/us/pl/111/203/s982/e/1], July 21, 2010, [124 Stat. 1929][/us/stat/124/1929].)
+([Pub. L. 107–204, title I][/us/pl/107/204/tI], § 104, July 30, 2002, [116 Stat. 757][/us/stat/116/757]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 982(e)(1), July 21, 2010, [124 Stat. 1929][/us/stat/124/1929].)
 
  __References in Text__ 
 
@@ -126,9 +126,9 @@
 [/us/usc/t15/s7215/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7215%2Fb%2F5%2FA
 [/us/usc/t15/s78y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78y
 [/us/usc/t5/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs704
-[/us/pl/107/204/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs104
+[/us/pl/107/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtI
 [/us/stat/116/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F757
-[/us/pl/111/203/s982/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fe%2F1
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1929
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/stat/116/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F745

@@ -27,13 +27,13 @@
 
         (2) except as provided in regulations issued by the Administration, such concern shall agree that it will not thereafter incur any indebtedness without first securing the approval of the company and giving the company the first opportunity to finance such indebtedness.
 
-    (c) __Repealed.__  __[__  __Pub. L. 90–104, title II, § 206__  __][/us/pl/90/104/s206]__  __,__  __Oct. 11, 1967__  __,__  __[__  __81 Stat. 271__  __][/us/stat/81/271]__ 
+    (c) __Repealed.__  __[__  __Pub. L. 90–104, title II__  __][/us/pl/90/104/tII]__  __, § 206,__  __Oct. 11, 1967__  __,__  __[__  __81 Stat. 271__  __][/us/stat/81/271]__ 
 
     (d) __Direct or cooperative provision of capital__ 
 
         Equity capital provided to incorporated small business concerns under this section may be provided directly or in cooperation with other investors, incorporated or unincorporated, through agreements to participate on an immediate basis.
 
-([Pub. L. 85–699, title III, § 304][/us/pl/85/699/s304], Aug. 21, 1958, [72 Stat. 693][/us/stat/72/693]; [Pub. L. 86–502, § 6][/us/pl/86/502/s6], June 11, 1960, [74 Stat. 196][/us/stat/74/196]; [Pub. L. 87–341, § 5][/us/pl/87/341/s5], Oct. 3, 1961, [75 Stat. 752][/us/stat/75/752]; [Pub. L. 90–104, title II, § 206][/us/pl/90/104/s206], Oct. 11, 1967, [81 Stat. 271][/us/stat/81/271]; [Pub. L. 92–595, § 2(e)][/us/pl/92/595/s2/e], Oct. 27, 1972, [86 Stat. 1316][/us/stat/86/1316].)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 304, Aug. 21, 1958, [72 Stat. 693][/us/stat/72/693]; [Pub. L. 86–502][/us/pl/86/502], § 6, June 11, 1960, [74 Stat. 196][/us/stat/74/196]; [Pub. L. 87–341][/us/pl/87/341], § 5, Oct. 3, 1961, [75 Stat. 752][/us/stat/75/752]; [Pub. L. 90–104, title II][/us/pl/90/104/tII], § 206, Oct. 11, 1967, [81 Stat. 271][/us/stat/81/271]; [Pub. L. 92–595][/us/pl/92/595], § 2(e), Oct. 27, 1972, [86 Stat. 1316][/us/stat/86/1316].)
 
  __Amendments__ 
 
@@ -60,17 +60,17 @@
 ----------
 ----------
 
-[/us/pl/90/104/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104%2Fs206
+[/us/pl/90/104/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104%2FtII
 [/us/stat/81/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F271
-[/us/pl/85/699/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs304
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
 [/us/stat/72/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F693
-[/us/pl/86/502/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F502%2Fs6
+[/us/pl/86/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F502
 [/us/stat/74/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F196
-[/us/pl/87/341/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341%2Fs5
+[/us/pl/87/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341
 [/us/stat/75/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F752
-[/us/pl/90/104/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104%2Fs206
+[/us/pl/90/104/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104%2FtII
 [/us/stat/81/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F271
-[/us/pl/92/595/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595%2Fs2%2Fe
+[/us/pl/92/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595
 [/us/stat/86/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1316
 [/us/pl/92/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595
 [/us/pl/90/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104

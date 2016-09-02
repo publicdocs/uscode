@@ -73,7 +73,7 @@
 
         (B) the sale, lease, exchange, or other disposition of any interest in real property, or any combination thereof.
 
-([Pub. L. 106–229, title I, § 106][/us/pl/106/229/s106], June 30, 2000, [114 Stat. 472][/us/stat/114/472].)
+([Pub. L. 106–229, title I][/us/pl/106/229/tI], § 106, June 30, 2000, [114 Stat. 472][/us/stat/114/472].)
 
 ----------
 
@@ -83,7 +83,7 @@
 ----------
 
 [/us/usc/t5/s552/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Ff
-[/us/pl/106/229/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2Fs106
+[/us/pl/106/229/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2FtI
 [/us/stat/114/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F472
 
 

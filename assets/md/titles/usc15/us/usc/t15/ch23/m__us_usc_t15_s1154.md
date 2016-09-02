@@ -17,7 +17,7 @@
 
     The Secretary is directed to refer to the armed services all scientific or technical information, coming to his attention, which he deems to have an immediate or potential practical military value or significance, and to refer to the heads of other Government agencies such scientific or technical information as relates to activities within the primary responsibility of such agencies.
 
-([Sept. 9, 1950, ch. 936, § 4][/us/act/1950-09-09/ch936/s4], [64 Stat. 824][/us/stat/64/824].)
+([Sept. 9, 1950, ch. 936][/us/act/1950-09-09/ch936], § 4, [64 Stat. 824][/us/stat/64/824].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1950-09-09/ch936/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-09%2Fch936%2Fs4
+[/us/act/1950-09-09/ch936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-09%2Fch936
 [/us/stat/64/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F824
 
 

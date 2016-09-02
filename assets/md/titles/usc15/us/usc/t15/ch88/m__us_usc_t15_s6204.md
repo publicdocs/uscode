@@ -37,7 +37,7 @@
 
     (4) Antitrust evidence that is classified under [section 2162 of title 42][/us/usc/t42/s2162].
 
-([Pub. L. 103–438, § 5][/us/pl/103/438/s5], Nov. 2, 1994, [108 Stat. 4599][/us/stat/108/4599].)
+([Pub. L. 103–438][/us/pl/103/438], § 5, Nov. 2, 1994, [108 Stat. 4599][/us/stat/108/4599].)
 
  __References in Text__ 
 
@@ -55,7 +55,7 @@
 [/us/usc/t15/s18a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs18a
 [/us/usc/t15/s18a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs18a
 [/us/usc/t42/s2162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2162
-[/us/pl/103/438/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438%2Fs5
+[/us/pl/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438
 [/us/stat/108/4599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4599
 
 

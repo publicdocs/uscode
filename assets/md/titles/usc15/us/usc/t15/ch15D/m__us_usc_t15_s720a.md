@@ -93,7 +93,7 @@
 
         The Commission may issue such regulations as are necessary to carry out this section.
 
-([Pub. L. 108–324, div. C, § 103][/us/pl/108/324/s103], Oct. 13, 2004, [118 Stat. 1256][/us/stat/118/1256].)
+([Pub. L. 108–324, div. C][/us/pl/108/324/dC], § 103, Oct. 13, 2004, [118 Stat. 1256][/us/stat/118/1256].)
 
  __References in Text__ 
 
@@ -117,7 +117,7 @@
 [/us/usc/t15/s720c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs720c
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
 [/us/usc/t15/s719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719
-[/us/pl/108/324/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs103
+[/us/pl/108/324/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2FdC
 [/us/stat/118/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1256
 [/us/pl/94/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586
 [/us/stat/90/2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2903

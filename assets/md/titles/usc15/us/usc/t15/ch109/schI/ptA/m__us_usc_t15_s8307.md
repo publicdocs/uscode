@@ -109,7 +109,7 @@
 
             For purposes of this subsection, the term “stable value contract” means any contract, agreement, or transaction that provides a crediting interest rate and guaranty or financial assurance of liquidity at contract or book value prior to maturity offered by a bank, insurance company, or other State or federally regulated financial institution for the benefit of any individual or commingled fund available as an investment in an employee benefit plan (as defined in [section 1002(3) of title 29][/us/usc/t29/s1002/3], including plans described in [section 1002(32) of title 29][/us/usc/t29/s1002/32]) subject to participant direction, an eligible deferred compensation plan (as defined in [section 457(b) of title 26][/us/usc/t26/s457/b]) that is maintained by an eligible employer described in [section 457(e)(1)(A) of title 26][/us/usc/t26/s457/e/1/A], an arrangement described in [section 403(b) of title 26][/us/usc/t26/s403/b], or a qualified tuition program (as defined in [section 529 of title 26][/us/usc/t26/s529]).
 
-([Pub. L. 111–203, title VII, § 719][/us/pl/111/203/s719], July 21, 2010, [124 Stat. 1654][/us/stat/124/1654].)
+([Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 719, July 21, 2010, [124 Stat. 1654][/us/stat/124/1654].)
 
  __References in Text__ 
 
@@ -135,7 +135,7 @@
 [/us/usc/t26/s457/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs457%2Fe%2F1%2FA
 [/us/usc/t26/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs403%2Fb
 [/us/usc/t26/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs529
-[/us/pl/111/203/s719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs719
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1654
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998

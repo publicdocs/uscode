@@ -29,7 +29,7 @@
 
         The Secretary of Commerce shall provide notice to the Committees on Merchant Marine and Fisheries, Science, Space, and Technology, and Appropriations of the House of Representatives, and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate not later than 15 days before any major reorganization of any program, project, or activity of the National Oceanic and Atmospheric Administration.
 
-([Pub. L. 102–567, title IV, § 403][/us/pl/102/567/s403], Oct. 29, 1992, [106 Stat. 4291][/us/stat/106/4291].)
+([Pub. L. 102–567, title IV][/us/pl/102/567/tIV], § 403, Oct. 29, 1992, [106 Stat. 4291][/us/stat/106/4291].)
 
  __Abolition of House Committee on Merchant Marine and Fisheries__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/102/567/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs403
+[/us/pl/102/567/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtIV
 [/us/stat/106/4291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4291
 [/us/pl/104/14/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fb%2F3
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

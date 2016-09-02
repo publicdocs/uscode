@@ -27,7 +27,7 @@
 
         (2) conduct occurring outside the United States that has a foreseeable substantial effect within the United States.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 27, [48 Stat. 902][/us/stat/48/902]; [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]; [June 25, 1948, ch. 646, § 32(b)][/us/act/1948-06-25/ch646/s32/b], [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107]; [Pub. L. 100–181, title III, § 326][/us/pl/100/181/s326], Dec. 4, 1987, [101 Stat. 1259][/us/stat/101/1259]; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 929E(b), 929P(b)(2), July 21, 2010, [124 Stat. 1853][/us/stat/124/1853], 1865.)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 27, [48 Stat. 902][/us/stat/48/902]; [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 32(b), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 127, [63 Stat. 107][/us/stat/63/107]; [Pub. L. 100–181, title III][/us/pl/100/181/tIII], § 326, Dec. 4, 1987, [101 Stat. 1259][/us/stat/101/1259]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], §§ 929E(b), 929P(b)(2), July 21, 2010, [124 Stat. 1853][/us/stat/124/1853], 1865.)
 
  __References in Text__ 
 
@@ -41,9 +41,9 @@
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 929P(b)(2)][/us/pl/111/203/s929P/b/2], designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 929P(b)(2), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-    [Pub. L. 111–203, § 929E(b)][/us/pl/111/203/s929E/b], inserted “In any action or proceeding instituted by the Commission under this chapter in a United States district court for any judicial district, a subpoena issued to compel the attendance of a witness or the production of documents or tangible things (or both) at a hearing or trial may be served at any place within the United States. Rule 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure shall not apply to a subpoena issued under the preceding sentence.” after “defendant may be found.”
+    [Pub. L. 111–203][/us/pl/111/203], § 929E(b), inserted “In any action or proceeding instituted by the Commission under this chapter in a United States district court for any judicial district, a subpoena issued to compel the attendance of a witness or the production of documents or tangible things (or both) at a hearing or trial may be served at any place within the United States. Rule 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure shall not apply to a subpoena issued under the preceding sentence.” after “defendant may be found.”
 
     1987—[Pub. L. 100–181][/us/pl/100/181] struck out “, the United States District Court for the District of Columbia,” after “district courts of the United States” and substituted “sections 1254, 1291, 1292, and 1294 of title 28” for “sections 128 and 240 of the Judicial Code, as amended (U.S.C., title 28, secs. 225 and 347)”. See Codification note above.
 
@@ -66,20 +66,20 @@
 [/us/stat/48/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F902
 [/us/act/1936-06-25/ch804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-25%2Fch804
 [/us/stat/49/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1921
-[/us/act/1948-06-25/ch646/s32/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs32%2Fb
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1949-05-24/ch139/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs127
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
-[/us/pl/100/181/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs326
+[/us/pl/100/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtIII
 [/us/stat/101/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1259
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1853
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/usc/t28/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs132%2Fa
 [/us/usc/t28/s88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs88
-[/us/pl/111/203/s929P/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929P%2Fb%2F2
-[/us/pl/111/203/s929E/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929E%2Fb
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4

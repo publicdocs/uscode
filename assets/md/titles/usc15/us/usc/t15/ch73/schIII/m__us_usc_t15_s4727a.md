@@ -27,7 +27,7 @@
 
     (5) by not later than March 30, 2000, and annually thereafter, include the matters addressed in paragraphs (1), (2), (3), and (4) in the annual report required to be submitted under [section 4727(f) of this title][/us/usc/t15/s4727/f].
 
-([Pub. L. 106–158, § 6][/us/pl/106/158/s6], Dec. 6, 1999, [113 Stat. 1746][/us/stat/113/1746].)
+([Pub. L. 106–158][/us/pl/106/158], § 6, Dec. 6, 1999, [113 Stat. 1746][/us/stat/113/1746].)
 
  __Codification__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t15/s4727/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4727%2Ff
-[/us/pl/106/158/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158%2Fs6
+[/us/pl/106/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F158
 [/us/stat/113/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1746
 
 

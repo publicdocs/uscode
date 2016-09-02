@@ -25,7 +25,7 @@
 
     (4) the term “agent of a foreign principal” is defined as such term is defined under subsection (d) of [section 611 of title 22][/us/usc/t22/s611] subject to the provisions of [section 613 of title 22][/us/usc/t22/s613].
 
-([Pub. L. 100–418, title V, § 5210][/us/pl/100/418/s5210], Aug. 23, 1988, [102 Stat. 1461][/us/stat/102/1461].)
+([Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5210, Aug. 23, 1988, [102 Stat. 1461][/us/stat/102/1461].)
 
 ----------
 
@@ -37,7 +37,7 @@
 [/us/usc/t15/s4802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4802
 [/us/usc/t22/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs611
 [/us/usc/t22/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs613
-[/us/pl/100/418/s5210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5210
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1461
 
 

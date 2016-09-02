@@ -53,11 +53,11 @@
 
     (18) The term “Bankruptcy Act” means the Bankruptcy Act or title 11.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 303, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1151][/us/stat/53/1151]; amended [Aug. 10, 1954, ch. 667][/us/act/1954-08-10/ch667], title III, § 301, [68 Stat. 686][/us/stat/68/686]; [Pub. L. 95–598, title III, § 307][/us/pl/95/598/s307], Nov. 6, 1978, [92 Stat. 2674][/us/stat/92/2674]; [Pub. L. 100–181, title V][/us/pl/100/181], §§ 501, 502, Dec. 4, 1987, [101 Stat. 1260][/us/stat/101/1260]; [Pub. L. 101–550, title IV, § 402][/us/pl/101/550/s402], Nov. 15, 1990, [104 Stat. 2722][/us/stat/104/2722]; [Pub. L. 105–353, title III, § 301(e)(1)][/us/pl/105/353/s301/e/1], Nov. 3, 1998, [112 Stat. 3237][/us/stat/112/3237]; [Pub. L. 111–203, title IX, § 986(b)(1)][/us/pl/111/203/s986/b/1], July 21, 2010, [124 Stat. 1935][/us/stat/124/1935].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 303, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1151][/us/stat/53/1151]; amended [Aug. 10, 1954, ch. 667][/us/act/1954-08-10/ch667], title III, § 301, [68 Stat. 686][/us/stat/68/686]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 307, Nov. 6, 1978, [92 Stat. 2674][/us/stat/92/2674]; [Pub. L. 100–181, title V][/us/pl/100/181/tV], §§ 501, 502, Dec. 4, 1987, [101 Stat. 1260][/us/stat/101/1260]; [Pub. L. 101–550, title IV][/us/pl/101/550/tIV], § 402, Nov. 15, 1990, [104 Stat. 2722][/us/stat/104/2722]; [Pub. L. 105–353, title III][/us/pl/105/353/tIII], § 301(e)(1), Nov. 3, 1998, [112 Stat. 3237][/us/stat/112/3237]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 986(b)(1), July 21, 2010, [124 Stat. 1935][/us/stat/124/1935].)
 
  __References in Text__ 
 
-    The Securities Act of 1933, referred to in pars. (3) and (17), is [act May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
+    The Securities Act of 1933, referred to in pars. (3) and (17), is [act May 27, 1933, ch. 38, title I][/us/act/1933-05-27/ch38/tI], [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
 
     The Securities Exchange Act of 1934, referred to in par. (17), is [act June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], [48 Stat. 881][/us/stat/48/881], which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title][/us/usc/t15/s78a] and Tables.
 
@@ -71,9 +71,9 @@
 
     1990—Par. (8). [Pub. L. 101–550][/us/pl/101/550] inserted “[section 77eee of this title][/us/usc/t15/s77eee] or” after “provided for in”.
 
-    1987—Par. (4). [Pub. L. 100–181, § 501][/us/pl/100/181/s501], substituted “undertaking” for “undertakng”.
+    1987—Par. (4). [Pub. L. 100–181][/us/pl/100/181], § 501, substituted “undertaking” for “undertakng”.
 
-    Par. (12). [Pub. L. 100–181, § 502][/us/pl/100/181/s502], inserted “(including a guarantor)” after “person” in two places.
+    Par. (12). [Pub. L. 100–181][/us/pl/100/181], § 502, inserted “(including a guarantor)” after “person” in two places.
 
     1978—Par. (18). [Pub. L. 95–598][/us/pl/95/598] substituted “Bankruptcy Act or title 11” for “Act entitled ‘An Act to establish a uniform system of bankruptcy throughout the United States’, approved July 1, 1898, as amended, whether amended prior to or after August 3, 1939”.
 
@@ -118,17 +118,17 @@
 [/us/stat/53/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1151
 [/us/act/1954-08-10/ch667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-10%2Fch667
 [/us/stat/68/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F686
-[/us/pl/95/598/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs307
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2674
-[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtV
 [/us/stat/101/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1260
-[/us/pl/101/550/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs402
+[/us/pl/101/550/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtIV
 [/us/stat/104/2722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2722
-[/us/pl/105/353/s301/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fe%2F1
+[/us/pl/105/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtIII
 [/us/stat/112/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3237
-[/us/pl/111/203/s986/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs986%2Fb%2F1
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1935
-[/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
+[/us/act/1933-05-27/ch38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38%2FtI
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
@@ -142,8 +142,8 @@
 [/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
 [/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
 [/us/usc/t15/s77eee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77eee
-[/us/pl/100/181/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs501
-[/us/pl/100/181/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs502
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4

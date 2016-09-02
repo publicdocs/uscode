@@ -81,27 +81,27 @@
 
             (B) transferred to the investment adviser or the corporate trustee, or an affiliated person or persons of such investment adviser or corporate trustee, or is transferred from the investment adviser or corporate trustee to an affiliated person or persons of the investment adviser or corporate trustee: Provided, That (i) each transferee (other than such adviser or trustee) is a natural person and (ii) the transferees (other than such adviser or trustee) owned in the aggregate more than 25 per centum of such voting securities for a period of at least six months prior to such transfer.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 15, [54 Stat. 812][/us/stat/54/812]; [Pub. L. 91–547, § 8][/us/pl/91/547/s8], Dec. 14, 1970, [84 Stat. 1419][/us/stat/84/1419]; [Pub. L. 94–29, § 28(1)][/us/pl/94/29/s28/1], (2), (4), June 4, 1975, [89 Stat. 164][/us/stat/89/164], 165; [Pub. L. 100–181, title VI, § 611][/us/pl/100/181/s611], Dec. 4, 1987, [101 Stat. 1261][/us/stat/101/1261].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 15, [54 Stat. 812][/us/stat/54/812]; [Pub. L. 91–547][/us/pl/91/547], § 8, Dec. 14, 1970, [84 Stat. 1419][/us/stat/84/1419]; [Pub. L. 94–29][/us/pl/94/29], § 28(1), (2), (4), June 4, 1975, [89 Stat. 164][/us/stat/89/164], 165; [Pub. L. 100–181, title VI][/us/pl/100/181/tVI], § 611, Dec. 4, 1987, [101 Stat. 1261][/us/stat/101/1261].)
 
  __Amendments__ 
 
-    1987—Subsec. (d). [Pub. L. 100–181, § 611(1)][/us/pl/100/181/s611/1], substituted “paragraph (42)” for “paragraph (40)”.
+    1987—Subsec. (d). [Pub. L. 100–181][/us/pl/100/181], § 611(1), substituted “paragraph (42)” for “paragraph (40)”.
 
-    Subsec. (f)(3)(B). [Pub. L. 100–181, § 611(2)][/us/pl/100/181/s611/2], substituted a comma for the period at end.
+    Subsec. (f)(3)(B). [Pub. L. 100–181][/us/pl/100/181], § 611(2), substituted a comma for the period at end.
 
-    1975—Subsec. (c). [Pub. L. 94–29, § 28(2)][/us/pl/94/29/s28/2], inserted provisions making it unlawful for the directors of a registered investment company, in connection with their evaluation of the terms of any contract whereby a person undertakes regularly to serve or act as investment adviser of such company, to take into account the purchase price or other consideration any person may have paid in connection with a transaction of the type referred to in paragraph (1), (3), or (4) of subsec. (f).
+    1975—Subsec. (c). [Pub. L. 94–29][/us/pl/94/29], § 28(2), inserted provisions making it unlawful for the directors of a registered investment company, in connection with their evaluation of the terms of any contract whereby a person undertakes regularly to serve or act as investment adviser of such company, to take into account the purchase price or other consideration any person may have paid in connection with a transaction of the type referred to in paragraph (1), (3), or (4) of subsec. (f).
 
-    Subsec. (d). [Pub. L. 94–29, § 28(4)][/us/pl/94/29/s28/4], substituted “[section 80a–16(c) of this title][/us/usc/t15/s80a–16/c]” for “subsection (b) of [section 80a–16 of this title][/us/usc/t15/s80a–16]”.
+    Subsec. (d). [Pub. L. 94–29][/us/pl/94/29], § 28(4), substituted “[section 80a–16(c) of this title][/us/usc/t15/s80a–16/c]” for “subsection (b) of [section 80a–16 of this title][/us/usc/t15/s80a–16]”.
 
-    Subsec. (f). [Pub. L. 94–29, § 28(1)][/us/pl/94/29/s28/1], added subsec. (f).
+    Subsec. (f). [Pub. L. 94–29][/us/pl/94/29], § 28(1), added subsec. (f).
 
-    1970—Subsec. (a). [Pub. L. 91–547, § 8(a)][/us/pl/91/547/s8/a], struck out introductory phrase “After one year from the effective date of this subchapter” and “unless in effect prior to March 15, 1940,” before “has been approved”, and “by the investment adviser” after “assignment” in item (4), and substituted “It” for “it”.
+    1970—Subsec. (a). [Pub. L. 91–547][/us/pl/91/547], § 8(a), struck out introductory phrase “After one year from the effective date of this subchapter” and “unless in effect prior to March 15, 1940,” before “has been approved”, and “by the investment adviser” after “assignment” in item (4), and substituted “It” for “it”.
 
-    Subsec. (b). [Pub. L. 91–547, § 8(b)][/us/pl/91/547/s8/b], struck out introductory phrase “After one year from the effective date of this subchapter,” and concluding phrase “, unless in effect prior to March 15, 1940” after “which contract” before item (1), struck out “by such underwriter” after “assignment” in item (2), and substituted “It” for “it”.
+    Subsec. (b). [Pub. L. 91–547][/us/pl/91/547], § 8(b), struck out introductory phrase “After one year from the effective date of this subchapter,” and concluding phrase “, unless in effect prior to March 15, 1940” after “which contract” before item (1), struck out “by such underwriter” after “assignment” in item (2), and substituted “It” for “it”.
 
-    Subsec. (c). [Pub. L. 91–547, § 8(c)][/us/pl/91/547/s8/c], made it the duty of the directors of a registered investment company to request and evaluate, and the duty of an investment adviser to such company to furnish, such information as may reasonably be necessary to evaluate the terms of any contract whereby a person undertakes regularly to serve or act as investment adviser of such company, substituted “interested persons” for “affiliated persons”, and struck out “except a written agreement which was in effect prior to March 15, 1940,” after “written or oral,”, item (1) designation following “have been approved” and item “or (2) by the vote of a majority of the outstanding voting securities of such company” after “any such party,”, and inserted “the vote” in phrase “by the vote of a majority”, and provision respecting voting “cast in person at a meeting called for the purpose of voting on such approval”.
+    Subsec. (c). [Pub. L. 91–547][/us/pl/91/547], § 8(c), made it the duty of the directors of a registered investment company to request and evaluate, and the duty of an investment adviser to such company to furnish, such information as may reasonably be necessary to evaluate the terms of any contract whereby a person undertakes regularly to serve or act as investment adviser of such company, substituted “interested persons” for “affiliated persons”, and struck out “except a written agreement which was in effect prior to March 15, 1940,” after “written or oral,”, item (1) designation following “have been approved” and item “or (2) by the vote of a majority of the outstanding voting securities of such company” after “any such party,”, and inserted “the vote” in phrase “by the vote of a majority”, and provision respecting voting “cast in person at a meeting called for the purpose of voting on such approval”.
 
-    Subsecs. (d) to (f). [Pub. L. 91–547, § 8(d)][/us/pl/91/547/s8/d], redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which prohibited any person after March 15, 1945, from acting as investment adviser to, or principal underwriter for, any registered investment company pursuant to a written contract in effect prior to March 15, 1940, unless such contract was renewed prior to March 15, 1945, in such form as to make it comply with subsecs. (a) or (b).
+    Subsecs. (d) to (f). [Pub. L. 91–547][/us/pl/91/547], § 8(d), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which prohibited any person after March 15, 1945, from acting as investment adviser to, or principal underwriter for, any registered investment company pursuant to a written contract in effect prior to March 15, 1940, unless such contract was renewed prior to March 15, 1945, in such form as to make it comply with subsecs. (a) or (b).
 
  __Effective Date of 1975 Amendment__ 
 
@@ -124,23 +124,23 @@
 [/us/usc/t15/s80a–6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%936%2Fc
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F812
-[/us/pl/91/547/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs8
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1419
-[/us/pl/94/29/s28/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs28%2F1
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F164
-[/us/pl/100/181/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs611
+[/us/pl/100/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVI
 [/us/stat/101/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1261
-[/us/pl/100/181/s611/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs611%2F1
-[/us/pl/100/181/s611/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs611%2F2
-[/us/pl/94/29/s28/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs28%2F2
-[/us/pl/94/29/s28/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs28%2F4
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/usc/t15/s80a–16/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9316%2Fc
 [/us/usc/t15/s80a–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9316
-[/us/pl/94/29/s28/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs28%2F1
-[/us/pl/91/547/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs8%2Fa
-[/us/pl/91/547/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs8%2Fb
-[/us/pl/91/547/s8/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs8%2Fc
-[/us/pl/91/547/s8/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs8%2Fd
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/pl/94/29/s31/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs31%2Fa
 [/us/usc/t15/s78b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78b

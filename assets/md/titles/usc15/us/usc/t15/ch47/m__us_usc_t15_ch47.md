@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch46A/m__us_usc_t15_ch46A.md) | [Next](./../../../..//us/usc/t15/ch47/m__us_usc_t15_s2051.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch47)
+[Previous](./../../../..//us/usc/t15/ch46A/m__us_usc_t15_s2041...2044.md) | [Next](./../../../..//us/usc/t15/ch47/m__us_usc_t15_s2051.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch47)
 
 ## CHAPTER 47—CONSUMER PRODUCT SAFETY
 
@@ -419,7 +419,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch46A/m__us_usc_t15_ch46A.md) | [Next](./../../../..//us/usc/t15/ch47/m__us_usc_t15_s2051.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch47)
+[Previous](./../../../..//us/usc/t15/ch46A/m__us_usc_t15_s2041...2044.md) | [Next](./../../../..//us/usc/t15/ch47/m__us_usc_t15_s2051.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch47)
 
 ----------
 ----------

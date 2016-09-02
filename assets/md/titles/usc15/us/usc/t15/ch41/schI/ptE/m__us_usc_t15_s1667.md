@@ -27,7 +27,7 @@
 
     (5) The terms “security” and “security interest” mean any interest in property which secures payment or performance of an obligation.
 
-([Pub. L. 90–321, title I, § 181][/us/pl/90/321/s181], as added [Pub. L. 94–240, § 3][/us/pl/94/240/s3], Mar. 23, 1976, [90 Stat. 257][/us/stat/90/257]; amended [Pub. L. 111–203, title X, § 1100E(a)(2)][/us/pl/111/203/s1100E/a/2], July 21, 2010, [124 Stat. 2111][/us/stat/124/2111].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 181, as added [Pub. L. 94–240][/us/pl/94/240], § 3, Mar. 23, 1976, [90 Stat. 257][/us/stat/90/257]; amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100E(a)(2), July 21, 2010, [124 Stat. 2111][/us/stat/124/2111].)
 
  __Adjustments for Inflation__ 
 
@@ -35,7 +35,7 @@
 
  __References in Text__ 
 
-    [Section 1602(g) of this title][/us/usc/t15/s1602/g], referred to in par. (1), was redesignated [section 1602(h) of this title][/us/usc/t15/s1602/h] by [Pub. L. 111–203, title X, § 1100A(1)(A)][/us/pl/111/203/s1100A/1/A], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
+    [Section 1602(g) of this title][/us/usc/t15/s1602/g], referred to in par. (1), was redesignated [section 1602(h) of this title][/us/usc/t15/s1602/h] by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(1)(A), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
 
  __Amendments__ 
 
@@ -47,7 +47,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 94–240, § 6][/us/pl/94/240/s6], Mar. 23, 1976, [90 Stat. 261][/us/stat/90/261], provided that: 
+[Pub. L. 94–240][/us/pl/94/240], § 6, Mar. 23, 1976, [90 Stat. 261][/us/stat/90/261], provided that: 
 
 > “This Act \[enacting this section and sections 1667a to 1667e of this title, amending sections 1601 and 1640 of this title, and enacting provisions set out as a note under [section 1601 of this title][/us/usc/t15/s1601]\] takes effect one year after the date of its enactment \[Mar. 23, 1976\].”
 
@@ -62,22 +62,22 @@
 ----------
 ----------
 
-[/us/pl/90/321/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs181
-[/us/pl/94/240/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240%2Fs3
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/94/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240
 [/us/stat/90/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F257
-[/us/pl/111/203/s1100E/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100E%2Fa%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2111
 [/us/pl/111/203/s1100E/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100E%2Fb
 [/us/usc/t15/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1603
 [/us/usc/t15/s1602/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fg
 [/us/usc/t15/s1602/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fh
-[/us/pl/111/203/s1100A/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F1%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/94/240/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240%2Fs6
+[/us/pl/94/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240
 [/us/stat/90/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F261
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/111/203/s1100E/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100E%2Fb

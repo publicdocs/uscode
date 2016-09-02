@@ -17,7 +17,7 @@
 
     Wherever reference is made in this chapter to the President such reference shall be held to include, in addition to the President, any agency, officer, or employee who may be designated by the President for the execution of any of the powers and functions vested in the President under this chapter.
 
-([Feb. 22, 1935, ch. 18, § 11][/us/act/1935-02-22/ch18/s11], [49 Stat. 33][/us/stat/49/33].)
+([Feb. 22, 1935, ch. 18][/us/act/1935-02-22/ch18], § 11, [49 Stat. 33][/us/stat/49/33].)
 
  __Delegation of Functions__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/act/1935-02-22/ch18/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-02-22%2Fch18%2Fs11
+[/us/act/1935-02-22/ch18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-02-22%2Fch18
 [/us/stat/49/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F33
 [/us/usc/t15/s715c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs715c
 [/us/usc/t15/s715c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs715c

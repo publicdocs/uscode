@@ -21,7 +21,7 @@
 
     The word “association” wherever used in this subchapter means any corporation or combination, by contract or otherwise, of two or more persons, partnerships, or corporations.
 
-([Apr. 10, 1918, ch. 50, § 1][/us/act/1918-04-10/ch50/s1], [40 Stat. 516][/us/stat/40/516].)
+([Apr. 10, 1918, ch. 50][/us/act/1918-04-10/ch50], § 1, [40 Stat. 516][/us/stat/40/516].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1918-04-10/ch50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-04-10%2Fch50%2Fs1
+[/us/act/1918-04-10/ch50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-04-10%2Fch50
 [/us/stat/40/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F516
 
 

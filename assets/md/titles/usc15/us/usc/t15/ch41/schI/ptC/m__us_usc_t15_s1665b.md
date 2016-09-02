@@ -79,7 +79,7 @@
 
         (2) the aggregate amount of the minimum periodic payments required would not fully amortize such outstanding balance by such date or at the end of such period.
 
-([Pub. L. 90–321, title I, § 147][/us/pl/90/321/s147], as added [Pub. L. 100–709, § 2(c)][/us/pl/100/709/s2/c], Nov. 23, 1988, [102 Stat. 4730][/us/stat/102/4730]; amended [Pub. L. 109–8, title XIII, § 1302(a)(2)][/us/pl/109/8/s1302/a/2], Apr. 20, 2005, [119 Stat. 208][/us/stat/119/208]; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 147, as added [Pub. L. 100–709][/us/pl/100/709], § 2(c), Nov. 23, 1988, [102 Stat. 4730][/us/stat/102/4730]; amended [Pub. L. 109–8, title XIII][/us/pl/109/8/tXIII], § 1302(a)(2), Apr. 20, 2005, [119 Stat. 208][/us/stat/119/208]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 
  __Amendments__ 
 
@@ -111,12 +111,12 @@
 ----------
 
 [/us/usc/t15/s1637a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637a
-[/us/pl/90/321/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs147
-[/us/pl/100/709/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F709%2Fs2%2Fc
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/100/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F709
 [/us/stat/102/4730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4730
-[/us/pl/109/8/s1302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1302%2Fa%2F2
+[/us/pl/109/8/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXIII
 [/us/stat/119/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F208
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8

@@ -45,7 +45,7 @@
 
         The United States Court of Appeals for the District of Columbia Circuit shall set any action brought under subsection (a) for expedited consideration, taking into account the national interest of enhancing national energy security by providing access to the significant gas reserves in Alaska needed to meet the anticipated demand for natural gas.
 
-([Pub. L. 108–324, div. C, § 107][/us/pl/108/324/s107], Oct. 13, 2004, [118 Stat. 1261][/us/stat/118/1261]; [Pub. L. 111–11, title XIII, § 13003][/us/pl/111/11/s13003], Mar. 30, 2009, [123 Stat. 1448][/us/stat/123/1448]; [Pub. L. 113–287, § 5(c)][/us/pl/113/287/s5/c], Dec. 19, 2014, [128 Stat. 3264][/us/stat/128/3264].)
+([Pub. L. 108–324, div. C][/us/pl/108/324/dC], § 107, Oct. 13, 2004, [118 Stat. 1261][/us/stat/118/1261]; [Pub. L. 111–11, title XIII][/us/pl/111/11/tXIII], § 13003, Mar. 30, 2009, [123 Stat. 1448][/us/stat/123/1448]; [Pub. L. 113–287][/us/pl/113/287], § 5(c), Dec. 19, 2014, [128 Stat. 3264][/us/stat/128/3264].)
 
  __References in Text__ 
 
@@ -78,11 +78,11 @@
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t16/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs3101
-[/us/pl/108/324/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs107
+[/us/pl/108/324/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2FdC
 [/us/stat/118/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1261
-[/us/pl/111/11/s13003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs13003
+[/us/pl/111/11/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2FtXIII
 [/us/stat/123/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1448
-[/us/pl/113/287/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287%2Fs5%2Fc
+[/us/pl/113/287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F287
 [/us/stat/128/3264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3264
 [/us/pl/108/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324
 [/us/stat/118/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1255

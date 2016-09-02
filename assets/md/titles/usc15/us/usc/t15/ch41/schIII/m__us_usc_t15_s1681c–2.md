@@ -91,7 +91,7 @@
 
         No provision of this section shall be construed as requiring a consumer reporting agency to prevent a Federal, State, or local law enforcement agency from accessing blocked information in a consumer file to which the agency could otherwise obtain access under this subchapter.
 
-([Pub. L. 90–321, title VI, § 605B][/us/pl/90/321/s605B], as added [Pub. L. 108–159, title I, § 152(a)][/us/pl/108/159/s152/a], Dec. 4, 2003, [117 Stat. 1964][/us/stat/117/1964]; amended [Pub. L. 111–203, title X, § 1088(a)(2)(C)][/us/pl/111/203/s1088/a/2/C], July 21, 2010, [124 Stat. 2087][/us/stat/124/2087].)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 605B, as added [Pub. L. 108–159, title I][/us/pl/108/159/tI], § 152(a), Dec. 4, 2003, [117 Stat. 1964][/us/stat/117/1964]; amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1088(a)(2)(C), July 21, 2010, [124 Stat. 2087][/us/stat/124/2087].)
 
  __Amendments__ 
 
@@ -114,10 +114,10 @@
 
 [/us/usc/t15/s1681i/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681i%2Fa%2F5%2FB
 [/us/usc/t15/s1681a/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fp
-[/us/pl/90/321/s605B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs605B
-[/us/pl/108/159/s152/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs152%2Fa
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/108/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtI
 [/us/stat/117/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1964
-[/us/pl/111/203/s1088/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FC
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2087
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

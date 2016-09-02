@@ -65,7 +65,7 @@
 
         The Commission, by rule or regulation, may require any person that effects transactions for such person’s own account or the account of others in any securities-based swap or uncleared security-based swap and any security or loan or group or narrow-based security index of securities or loans as set forth in paragraphs (1) and (2) of subsection (a) under this section to report such information as the Commission may prescribe regarding any position or positions in any security-based swap or uncleared security-based swap and any security or loan or group or narrow-based security index of securities or loans and any other instrument relating to such security or loan or group or narrow-based security index of securities or loans as set forth in paragraphs (1) and (2) of subsection (a) under this section.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 10B, as added [Pub. L. 111–203, title VII, § 763(h)][/us/pl/111/203/s763/h], July 21, 2010, [124 Stat. 1778][/us/stat/124/1778].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 10B, as added [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 763(h), July 21, 2010, [124 Stat. 1778][/us/stat/124/1778].)
 
  __References in Text__ 
 
@@ -86,7 +86,7 @@
 [/us/usc/t15/s78c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa
 [/us/usc/t15/s78c/a/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F68
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/111/203/s763/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs763%2Fh
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1778
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

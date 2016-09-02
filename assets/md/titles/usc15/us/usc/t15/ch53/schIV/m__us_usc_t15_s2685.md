@@ -125,7 +125,7 @@
 
         Not later than 30 months after October 28, 1992, the President shall, after notice and opportunity for comment, establish by rule appropriate criteria, testing protocols, and performance characteristics as are necessary to ensure, to the greatest extent possible and consistent with the purposes and policy of this subchapter, that lead-based paint hazard evaluation and reduction products introduced into commerce after a period specified in the rule are effective for the intended use described by the manufacturer. The rule shall identify the types or classes of products that are subject to such rule. The President, in implementation of the rule, shall, to the maximum extent possible, utilize independent testing laboratories, as appropriate, and consult with such entities and others in developing the rules. The President may delegate the authorities under this subsection to the Environmental Protection Agency or the Secretary of Commerce or such other appropriate agency.
 
-([Pub. L. 94–469, title IV, § 405][/us/pl/94/469/s405], as added [Pub. L. 102–550, title X, § 1021(a)][/us/pl/102/550/s1021/a], Oct. 28, 1992, [106 Stat. 3917][/us/stat/106/3917].)
+([Pub. L. 94–469, title IV][/us/pl/94/469/tIV], § 405, as added [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(a), Oct. 28, 1992, [106 Stat. 3917][/us/stat/106/3917].)
 
 ----------
 
@@ -134,8 +134,8 @@
 ----------
 ----------
 
-[/us/pl/94/469/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs405
-[/us/pl/102/550/s1021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1021%2Fa
+[/us/pl/94/469/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtIV
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3917
 
 

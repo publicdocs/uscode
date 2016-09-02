@@ -19,7 +19,7 @@
 
     (b) The commencement of proceedings under subsection (a) shall not, unless specifically ordered by the court, operate as a stay of the Commission’s order.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 9, [48 Stat. 80][/us/stat/48/80]; [Pub. L. 85–791, § 9][/us/pl/85/791/s9], Aug. 28, 1958, [72 Stat. 945][/us/stat/72/945]; [Pub. L. 100–181, title II, § 206][/us/pl/100/181/s206], Dec. 4, 1987, [101 Stat. 1252][/us/stat/101/1252].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 9, [48 Stat. 80][/us/stat/48/80]; [Pub. L. 85–791][/us/pl/85/791], § 9, Aug. 28, 1958, [72 Stat. 945][/us/stat/72/945]; [Pub. L. 100–181, title II][/us/pl/100/181/tII], § 206, Dec. 4, 1987, [101 Stat. 1252][/us/stat/101/1252].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/stat/48/80]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F80
-[/us/pl/85/791/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs9
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/stat/72/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F945
-[/us/pl/100/181/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs206
+[/us/pl/100/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtII
 [/us/stat/101/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1252
 [/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254

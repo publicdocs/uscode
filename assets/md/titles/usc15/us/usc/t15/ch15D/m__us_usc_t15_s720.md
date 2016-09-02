@@ -57,7 +57,7 @@
 
         The term “State” means the State of Alaska.
 
-([Pub. L. 108–324, div. C, § 102][/us/pl/108/324/s102], Oct. 13, 2004, [118 Stat. 1255][/us/stat/118/1255].)
+([Pub. L. 108–324, div. C][/us/pl/108/324/dC], § 102, Oct. 13, 2004, [118 Stat. 1255][/us/stat/118/1255].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 
  __Short Title__ 
 
-[Pub. L. 108–324, div. C, § 101][/us/pl/108/324/s101], Oct. 13, 2004, [118 Stat. 1255][/us/stat/118/1255], provided that: 
+[Pub. L. 108–324, div. C][/us/pl/108/324/dC], § 101, Oct. 13, 2004, [118 Stat. 1255][/us/stat/118/1255], provided that: 
 
 > “This division \[enacting this chapter and amending [section 719h of this title][/us/usc/t15/s719h]\] may be cited as the ‘Alaska Natural Gas Pipeline Act’.”
 
@@ -86,14 +86,14 @@
 [/us/pl/95/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F158
 [/us/usc/t15/s719f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719f
 [/us/stat/91/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1268
-[/us/pl/108/324/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs102
+[/us/pl/108/324/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2FdC
 [/us/stat/118/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1255
 [/us/pl/108/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324
 [/us/stat/118/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1255
 [/us/pl/94/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586
 [/us/stat/90/2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2903
 [/us/usc/t15/s719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719
-[/us/pl/108/324/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs101
+[/us/pl/108/324/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2FdC
 [/us/stat/118/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1255
 [/us/usc/t15/s719h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719h
 

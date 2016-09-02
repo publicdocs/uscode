@@ -17,7 +17,7 @@
 
     Whoever knowingly introduces, or manufactures for introduction, into interstate commerce, or transports or distributes in interstate commerce, any switchblade knife, shall be fined not more than $2,000 or imprisoned not more than five years, or both.
 
-([Pub. L. 85–623, § 2][/us/pl/85/623/s2], Aug. 12, 1958, [72 Stat. 562][/us/stat/72/562].)
+([Pub. L. 85–623][/us/pl/85/623], § 2, Aug. 12, 1958, [72 Stat. 562][/us/stat/72/562].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/85/623/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F623%2Fs2
+[/us/pl/85/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F623
 [/us/stat/72/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F562
 
 

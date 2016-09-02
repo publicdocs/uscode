@@ -27,7 +27,7 @@
 
         (2) by operation of inertia, gravity, or both.
 
-([Pub. L. 85–623, § 1][/us/pl/85/623/s1], Aug. 12, 1958, [72 Stat. 562][/us/stat/72/562].)
+([Pub. L. 85–623][/us/pl/85/623], § 1, Aug. 12, 1958, [72 Stat. 562][/us/stat/72/562].)
 
  __References in Text__ 
 
@@ -35,13 +35,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 85–623, § 6][/us/pl/85/623/s6], Aug. 12, 1958, [72 Stat. 563][/us/stat/72/563], provided that: 
+[Pub. L. 85–623][/us/pl/85/623], § 6, Aug. 12, 1958, [72 Stat. 563][/us/stat/72/563], provided that: 
 
 > “This Act \[enacting this chapter and amending [section 1716 of Title 18][/us/usc/t18/s1716], Crimes and Criminal Procedure\] shall take effect on the sixtieth day after the date of its enactment \[Aug. 12, 1958\].”
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–570, title X, § 10001][/us/pl/99/570/s10001], Oct. 27, 1986, [100 Stat. 3207–166][/us/stat/100/3207-166], provided that: 
+[Pub. L. 99–570, title X][/us/pl/99/570/tX], § 10001, Oct. 27, 1986, [100 Stat. 3207–166][/us/stat/100/3207-166], provided that: 
 
 > “This title \[enacting [section 1245 of this title][/us/usc/t15/s1245], amending [section 1716 of Title 18][/us/usc/t18/s1716], Crimes and Criminal Procedure, and enacting provisions set out as a note under [section 1245 of this title][/us/usc/t15/s1245]\] may be cited as the ‘Ballistic Knife Prohibition Act of 1986’.”
 
@@ -56,14 +56,14 @@
 ----------
 ----------
 
-[/us/pl/85/623/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F623%2Fs1
+[/us/pl/85/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F623
 [/us/stat/72/562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F562
 [/us/pl/85/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F623
 [/us/usc/t18/s1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1716
-[/us/pl/85/623/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F623%2Fs6
+[/us/pl/85/623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F623
 [/us/stat/72/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F563
 [/us/usc/t18/s1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1716
-[/us/pl/99/570/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs10001
+[/us/pl/99/570/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2FtX
 [/us/stat/100/3207-166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-166
 [/us/usc/t15/s1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1245
 [/us/usc/t18/s1716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1716

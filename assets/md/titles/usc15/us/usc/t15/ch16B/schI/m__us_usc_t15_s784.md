@@ -31,7 +31,7 @@
 
         The Administrator shall not be required to collect independently information described in subsection (a) if he can secure the information described in subsection (a) from other Federal agencies and the information secured from such agencies is available to the Congress pursuant to a request under subsection (b).
 
-([Pub. L. 93–275, § 25][/us/pl/93/275/s25], May 7, 1974, [88 Stat. 114][/us/stat/88/114]; [Pub. L. 94–385, title I, § 111][/us/pl/94/385/s111], Aug. 14, 1976, [90 Stat. 1132][/us/stat/90/1132].)
+([Pub. L. 93–275][/us/pl/93/275], § 25, May 7, 1974, [88 Stat. 114][/us/stat/88/114]; [Pub. L. 94–385, title I][/us/pl/94/385/tI], § 111, Aug. 14, 1976, [90 Stat. 1132][/us/stat/90/1132].)
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 ----------
 ----------
 
-[/us/pl/93/275/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs25
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F114
-[/us/pl/94/385/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs111
+[/us/pl/94/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtI
 [/us/stat/90/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1132
 [/us/pl/94/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385
 

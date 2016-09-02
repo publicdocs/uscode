@@ -21,7 +21,7 @@
 
  __References in Text__ 
 
-    Act of March 19, 1920, referred to in text, is [act Mar. 19, 1920, ch. 104][/us/act/1920-03-19/ch104], §§ 1–9, [41 Stat. 533][/us/stat/41/533], which was generally classified to sections 121 to 128 of this title, and which was repealed insofar as inconsistent with this chapter by [act July 5, 1946, ch. 540, § 46(b)][/us/act/1946-07-05/ch540/s46/b], [60 Stat. 444][/us/stat/60/444].
+    Act of March 19, 1920, referred to in text, is [act Mar. 19, 1920, ch. 104][/us/act/1920-03-19/ch104], §§ 1–9, [41 Stat. 533][/us/stat/41/533], which was generally classified to sections 121 to 128 of this title, and which was repealed insofar as inconsistent with this chapter by [act July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], § 46(b), [60 Stat. 444][/us/stat/60/444].
 
  __Repeal and Effect on Existing Rights__ 
 
@@ -38,7 +38,7 @@
 [/us/stat/60/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F436
 [/us/act/1920-03-19/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-19%2Fch104
 [/us/stat/41/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F533
-[/us/act/1946-07-05/ch540/s46/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540%2Fs46%2Fb
+[/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F444
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
 

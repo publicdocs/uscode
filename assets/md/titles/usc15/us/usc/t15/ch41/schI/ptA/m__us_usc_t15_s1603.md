@@ -27,11 +27,11 @@
 
     (5) Transactions for which the Bureau, by rule, determines that coverage under this subchapter is not necessary to carry out the purposes of this subchapter.
 
-    (6) Repealed. [Pub. L. 96–221, title VI, § 603(c)(3)][/us/pl/96/221/s603/c/3], Mar. 31, 1980, [94 Stat. 169][/us/stat/94/169].
+    (6) Repealed. [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 603(c)(3), Mar. 31, 1980, [94 Stat. 169][/us/stat/94/169].
 
     (7) Loans made, insured, or guaranteed pursuant to a program authorized by title IV of the Higher Education Act of 1965 \[[20 U.S.C. 1070][/us/usc/t20/s1070] et seq., [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\].
 
-([Pub. L. 90–321, title I, § 104][/us/pl/90/321/s104], May 29, 1968, [82 Stat. 147][/us/stat/82/147]; [Pub. L. 93–495, title IV, § 402][/us/pl/93/495/s402], Oct. 28, 1974, [88 Stat. 1517][/us/stat/88/1517]; [Pub. L. 96–221, title VI, § 603(c)][/us/pl/96/221/s603/c], Mar. 31, 1980, [94 Stat. 169][/us/stat/94/169]; [Pub. L. 97–320, title VII, § 701(a)][/us/pl/97/320/s701/a], Oct. 15, 1982, [96 Stat. 1538][/us/stat/96/1538]; [Pub. L. 104–208, div. A, title II, § 2102(a)][/us/pl/104/208/s2102/a], Sept. 30, 1996, [110 Stat. 3009–398][/us/stat/110/3009-398]; [Pub. L. 110–315, title X, § 1022][/us/pl/110/315/s1022], Aug. 14, 2008, [122 Stat. 3488][/us/stat/122/3488]; [Pub. L. 111–203, title X][/us/pl/111/203], §§ 1100A(2), 1100E(a)(1), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2111.)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 104, May 29, 1968, [82 Stat. 147][/us/stat/82/147]; [Pub. L. 93–495, title IV][/us/pl/93/495/tIV], § 402, Oct. 28, 1974, [88 Stat. 1517][/us/stat/88/1517]; [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 603(c), Mar. 31, 1980, [94 Stat. 169][/us/stat/94/169]; [Pub. L. 97–320, title VII][/us/pl/97/320/tVII], § 701(a), Oct. 15, 1982, [96 Stat. 1538][/us/stat/96/1538]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2102(a), Sept. 30, 1996, [110 Stat. 3009–398][/us/stat/110/3009-398]; [Pub. L. 110–315, title X][/us/pl/110/315/tX], § 1022, Aug. 14, 2008, [122 Stat. 3488][/us/stat/122/3488]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], §§ 1100A(2), 1100E(a)(1), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2111.)
 
  __Adjustments for Inflation__ 
 
@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    2010—Par. (3). [Pub. L. 111–203, § 1100E(a)(1)][/us/pl/111/203/s1100E/a/1], substituted “$50,000” for “$25,000”.
+    2010—Par. (3). [Pub. L. 111–203][/us/pl/111/203], § 1100E(a)(1), substituted “$50,000” for “$25,000”.
 
-    Pars. (4), (5). [Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], substituted “Bureau” for “Board”.
+    Pars. (4), (5). [Pub. L. 111–203][/us/pl/111/203], § 1100A(2), substituted “Bureau” for “Board”.
 
     2008—Par. (3). [Pub. L. 110–315][/us/pl/110/315] inserted “and other than private education loans (as that term is defined in [section 1650(a) of this title][/us/usc/t15/s1650/a])” after “consumer”.
 
@@ -53,11 +53,11 @@
 
     1982—Par. (6). [Pub. L. 97–320][/us/pl/97/320] added par. (6).
 
-    1980—Par. (1). [Pub. L. 96–221, § 603(c)(1)][/us/pl/96/221/s603/c/1], inserted provision relating to applicability to agricultural purposes.
+    1980—Par. (1). [Pub. L. 96–221][/us/pl/96/221], § 603(c)(1), inserted provision relating to applicability to agricultural purposes.
 
-    Par. (3). [Pub. L. 96–221, § 603(c)(2)][/us/pl/96/221/s603/c/2], substituted provision excepting security interest in real property, or in personal property used as the consumer’s principal dwelling, for provisions excepting real property transactions.
+    Par. (3). [Pub. L. 96–221][/us/pl/96/221], § 603(c)(2), substituted provision excepting security interest in real property, or in personal property used as the consumer’s principal dwelling, for provisions excepting real property transactions.
 
-    Par. (5). [Pub. L. 96–221, § 603(c)(3)][/us/pl/96/221/s603/c/3], struck out par. (5) which related to credit transactions primarily for agricultural purposes where the amount financed exceeds $25,000.
+    Par. (5). [Pub. L. 96–221][/us/pl/96/221], § 603(c)(3), struck out par. (5) which related to credit transactions primarily for agricultural purposes where the amount financed exceeds $25,000.
 
     1974—Par. (5). [Pub. L. 93–495][/us/pl/93/495] added par. (5).
 
@@ -67,7 +67,7 @@
 
  __Effective Date of 1982 Amendment__ 
 
-[Section 701(c) of Pub. L. 97–320][/us/pl/97/320/s701/c], as amended by [Pub. L. 97–457, § 31][/us/pl/97/457/s31], Jan. 12, 1983, [96 Stat. 2511][/us/stat/96/2511], provided that: 
+[Section 701(c) of Pub. L. 97–320][/us/pl/97/320/s701/c], as amended by [Pub. L. 97–457][/us/pl/97/457], § 31, Jan. 12, 1983, [96 Stat. 2511][/us/stat/96/2511], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] and subsection (b) \[enacting [section 1099 of Title 20][/us/usc/t20/s1099], Education\] shall be effective with respect to loans made prior to, on, and after the date of the enactment of this Act \[Oct. 15, 1982\].”
 
@@ -85,7 +85,7 @@
 
  __Adjustments for Inflation__ 
 
-[Pub. L. 111–203, title X, § 1100E(b)][/us/pl/111/203/s1100E/b], July 21, 2010, [124 Stat. 2111][/us/stat/124/2111], provided that: 
+[Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100E(b), July 21, 2010, [124 Stat. 2111][/us/stat/124/2111], provided that: 
 
 > “On and after December 31, 2011, the Bureau \[of Consumer Financial Protection\] shall adjust annually the dollar amounts described in sections 104(3) and 181(1) of the Truth in Lending Act \[[15 U.S.C. 1603(3)][/us/usc/t15/s1603/3], 1667(1)\] (as amended by this section), by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers, as published by the Bureau of Labor Statistics, rounded to the nearest multiple of $100, or $1,000, as applicable.”
 
@@ -97,43 +97,43 @@
 ----------
 
 [/us/usc/t15/s1650/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1650%2Fa
-[/us/pl/96/221/s603/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs603%2Fc%2F3
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F169
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
-[/us/pl/90/321/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs104
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
 [/us/stat/82/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F147
-[/us/pl/93/495/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs402
+[/us/pl/93/495/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtIV
 [/us/stat/88/1517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1517
-[/us/pl/96/221/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs603%2Fc
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F169
-[/us/pl/97/320/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs701%2Fa
+[/us/pl/97/320/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2FtVII
 [/us/stat/96/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1538
-[/us/pl/104/208/s2102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2102%2Fa
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-398
-[/us/pl/110/315/s1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs1022
+[/us/pl/110/315/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtX
 [/us/stat/122/3488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3488
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/111/203/s1100E/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100E%2Fb
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/111/203/s1100E/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100E%2Fa%2F1
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/110/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315
 [/us/usc/t15/s1650/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1650%2Fa
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/97/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320
-[/us/pl/96/221/s603/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs603%2Fc%2F1
-[/us/pl/96/221/s603/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs603%2Fc%2F2
-[/us/pl/96/221/s603/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs603%2Fc%2F3
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
+[/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/pl/97/320/s701/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F320%2Fs701%2Fc
-[/us/pl/97/457/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457%2Fs31
+[/us/pl/97/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F457
 [/us/stat/96/2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2511
 [/us/usc/t20/s1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1099
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
@@ -144,7 +144,7 @@
 [/us/usc/t15/s1665a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1665a
 [/us/pl/105/18/s50002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F18%2Fs50002
 [/us/usc/t12/s4008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4008
-[/us/pl/111/203/s1100E/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100E%2Fb
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2111
 [/us/usc/t15/s1603/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1603%2F3
 

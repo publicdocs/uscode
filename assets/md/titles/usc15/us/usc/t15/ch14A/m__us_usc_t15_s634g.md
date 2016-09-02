@@ -27,7 +27,7 @@
 
         There are authorized to be appropriated such sums as are necessary to carry out sections 634a to 634g of this title. Any amount appropriated under this subsection shall remain available, without fiscal year limitation, until expended.
 
-([Pub. L. 94–305, title II, § 207][/us/pl/94/305/s207], as added [Pub. L. 111–240, title I, § 1602(b)][/us/pl/111/240/s1602/b], Sept. 27, 2010, [124 Stat. 2551][/us/stat/124/2551].)
+([Pub. L. 94–305, title II][/us/pl/94/305/tII], § 207, as added [Pub. L. 111–240, title I][/us/pl/111/240/tI], § 1602(b), Sept. 27, 2010, [124 Stat. 2551][/us/stat/124/2551].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 634g, [Pub. L. 94–305, title II, § 207][/us/pl/94/305/s207], June 4, 1976, [90 Stat. 671][/us/stat/90/671], related to authorization of appropriations, prior to repeal by [Pub. L. 111–240, title I, § 1602(b)][/us/pl/111/240/s1602/b], Sept. 27, 2010, [124 Stat. 2551][/us/stat/124/2551].
+    A prior section 634g, [Pub. L. 94–305, title II][/us/pl/94/305/tII], § 207, June 4, 1976, [90 Stat. 671][/us/stat/90/671], related to authorization of appropriations, prior to repeal by [Pub. L. 111–240, title I][/us/pl/111/240/tI], § 1602(b), Sept. 27, 2010, [124 Stat. 2551][/us/stat/124/2551].
 
 ----------
 
@@ -45,12 +45,12 @@
 ----------
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/94/305/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2Fs207
-[/us/pl/111/240/s1602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1602%2Fb
+[/us/pl/94/305/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2FtII
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2551
-[/us/pl/94/305/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2Fs207
+[/us/pl/94/305/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2FtII
 [/us/stat/90/671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F671
-[/us/pl/111/240/s1602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1602%2Fb
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2551
 
 

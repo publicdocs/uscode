@@ -21,7 +21,7 @@
 
     (2) the date of international registration or the date of the recordal of the request for extension of protection to the United States is not later than 6 months after the date of the first regular national filing (within the meaning of Article 4(A)(3) of the Paris Convention for the Protection of Industrial Property) or a subsequent application (within the meaning of Article 4(C)(4) of the Paris Convention for the Protection of Industrial Property).
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title XII, § 67, as added [Pub. L. 107–273, div. C, title III, § 13402][/us/pl/107/273/s13402], Nov. 2, 2002, [116 Stat. 1917][/us/stat/116/1917].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title XII, § 67, as added [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13402, Nov. 2, 2002, [116 Stat. 1917][/us/stat/116/1917].)
 
 ----------
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
-[/us/pl/107/273/s13402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13402
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1917
 
 

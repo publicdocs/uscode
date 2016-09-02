@@ -17,7 +17,7 @@
 
     In order to obtain information for the purpose of carrying out its functions under this chapter, the Commission shall have the same authority as is vested in the Secretary under 7151(a) of title 42 with respect to the exercise of authority under [section 796(b) of this title][/us/usc/t15/s796/b] and section 772(b), (c), and (d) of this title.
 
-([Pub. L. 95–621, title V, § 508(b)][/us/pl/95/621/s508/b], Nov. 9, 1978, [92 Stat. 3408][/us/stat/92/3408].)
+([Pub. L. 95–621, title V][/us/pl/95/621/tV], § 508(b), Nov. 9, 1978, [92 Stat. 3408][/us/stat/92/3408].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t15/s796/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs796%2Fb
-[/us/pl/95/621/s508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs508%2Fb
+[/us/pl/95/621/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2FtV
 [/us/stat/92/3408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3408
 
 

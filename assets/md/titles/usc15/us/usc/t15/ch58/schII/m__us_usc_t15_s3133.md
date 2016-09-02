@@ -23,7 +23,7 @@
 
         (2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House), at any time, in the same manner and to the same extent as in the case of any other rule of such House.
 
-([Pub. L. 95–523, title III, § 305][/us/pl/95/523/s305], Oct. 27, 1978, [92 Stat. 1907][/us/stat/92/1907].)
+([Pub. L. 95–523, title III][/us/pl/95/523/tIII], § 305, Oct. 27, 1978, [92 Stat. 1907][/us/stat/92/1907].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/95/523/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs305
+[/us/pl/95/523/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2FtIII
 [/us/stat/92/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1907
 [/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
 [/us/stat/92/1904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1904

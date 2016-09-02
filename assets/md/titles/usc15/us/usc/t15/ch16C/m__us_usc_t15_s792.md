@@ -65,25 +65,25 @@
 
         (2) Authority to amend, repeal, rescind, modify, or enforce such rules or orders shall expire at midnight, December 31, 1984; but the expiration of such authority shall not affect any administrative or judicial proceeding which relates to any act or omission which occurred prior to January 1, 1985.
 
-([Pub. L. 93–319, § 2][/us/pl/93/319/s2], June 22, 1974, [88 Stat. 246][/us/stat/88/246]; [Pub. L. 94–163, title I, § 101][/us/pl/94/163/s101], Dec. 22, 1975, [89 Stat. 875][/us/stat/89/875]; [Pub. L. 95–70, § 7][/us/pl/95/70/s7], July 21, 1977, [91 Stat. 277][/us/stat/91/277].)
+([Pub. L. 93–319][/us/pl/93/319], § 2, June 22, 1974, [88 Stat. 246][/us/stat/88/246]; [Pub. L. 94–163, title I][/us/pl/94/163/tI], § 101, Dec. 22, 1975, [89 Stat. 875][/us/stat/89/875]; [Pub. L. 95–70][/us/pl/95/70], § 7, July 21, 1977, [91 Stat. 277][/us/stat/91/277].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (b)(1) and (d), was in the original “this Act”, meaning [Pub. L. 93–319][/us/pl/93/319]. For complete classification of this Act to the Code, see Short Title note set out under [section 791 of this title][/us/usc/t15/s791] and Tables.
 
-    [Section 1857c–10 of title 42][/us/usc/t42/s1857c–10], referred to in subsec. (b)(2)(B), (3)(B), was in the original a reference to section 119 of the Clean Air Act, and was repealed by [Pub. L. 95–95, § 112(b)][/us/pl/95/95/s112/b], which provided in part that references in this section to section 1857c–10 shall be construed to refer to [section 7413(d) of title 42][/us/usc/t42/s7413/d] and to paragraph (5) thereof in particular. Subsequently, [section 7413 of title 42][/us/usc/t42/s7413] was amended generally by [Pub. L. 101–549, title VII, § 701][/us/pl/101/549/s701], Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672], and, as so amended, subsec. (d) no longer relates to final compliance orders. See [section 7413(a) of title 42][/us/usc/t42/s7413/a] for provisions relating generally to compliance orders. For further details, see Compliance Orders note set out below.
+    [Section 1857c–10 of title 42][/us/usc/t42/s1857c–10], referred to in subsec. (b)(2)(B), (3)(B), was in the original a reference to section 119 of the Clean Air Act, and was repealed by [Pub. L. 95–95][/us/pl/95/95], § 112(b), which provided in part that references in this section to section 1857c–10 shall be construed to refer to [section 7413(d) of title 42][/us/usc/t42/s7413/d] and to paragraph (5) thereof in particular. Subsequently, [section 7413 of title 42][/us/usc/t42/s7413] was amended generally by [Pub. L. 101–549, title VII][/us/pl/101/549/tVII], § 701, Nov. 15, 1990, [104 Stat. 2672][/us/stat/104/2672], and, as so amended, subsec. (d) no longer relates to final compliance orders. See [section 7413(a) of title 42][/us/usc/t42/s7413/a] for provisions relating generally to compliance orders. For further details, see Compliance Orders note set out below.
 
  __Amendments__ 
 
     1977—Subsec. (f)(1). [Pub. L. 95–70][/us/pl/95/70] substituted “shall expire at midnight, December 31, 1978” for “shall expire at midnight, June 30, 1977”.
 
-    1975—Subsec. (a). [Pub. L. 94–163, § 101(b)][/us/pl/94/163/s101/b], authorized the Administrator to prohibit any powerplant or other fuel burning installation from burning natural gas or petroleum products as its primary energy source if such powerplant or other installation is required to meet a design or construction requirement under subsec. (c) of this section.
+    1975—Subsec. (a). [Pub. L. 94–163][/us/pl/94/163], § 101(b), authorized the Administrator to prohibit any powerplant or other fuel burning installation from burning natural gas or petroleum products as its primary energy source if such powerplant or other installation is required to meet a design or construction requirement under subsec. (c) of this section.
 
-    Subsec. (c). [Pub. L. 94–163, § 101(c)][/us/pl/94/163/s101/c], inserted “or other major fuel burning installation” after “powerplant” wherever appearing and inserted “in the case of a powerplant” after “if the Administrator determines that (1)”.
+    Subsec. (c). [Pub. L. 94–163][/us/pl/94/163], § 101(c), inserted “or other major fuel burning installation” after “powerplant” wherever appearing and inserted “in the case of a powerplant” after “if the Administrator determines that (1)”.
 
-    Subsec. (f)(1). [Pub. L. 94–163, § 101(a)(1)][/us/pl/94/163/s101/a/1], substituted “June 30, 1977” for “June 30, 1975” and “January 1, 1985” for “January 1, 1979”.
+    Subsec. (f)(1). [Pub. L. 94–163][/us/pl/94/163], § 101(a)(1), substituted “June 30, 1977” for “June 30, 1975” and “January 1, 1985” for “January 1, 1979”.
 
-    Subsec. (f)(2). [Pub. L. 94–163, § 101(a)(2)][/us/pl/94/163/s101/a/2], substituted “December 31, 1984” for “December 31, 1978” and “January 1, 1985” for “January 1, 1979”.
+    Subsec. (f)(2). [Pub. L. 94–163][/us/pl/94/163], § 101(a)(2), substituted “December 31, 1984” for “December 31, 1978” and “January 1, 1985” for “January 1, 1979”.
 
  __Transfer of Functions__ 
 
@@ -91,7 +91,7 @@
 
  __Compliance Orders__ 
 
-[Pub. L. 95–95, title I, § 112(b)][/us/pl/95/95/s112/b], Aug. 7, 1977, [91 Stat. 709][/us/stat/91/709], repealed section 119 of the Clean Air Act, which was classified to [section 1857c–10 of Title 42][/us/usc/t42/s1857c–10], The Public Health and Welfare, and which related to the Administrator’s authority to deal with the energy shortage. [Section 112(b) of Pub. L. 95–95][/us/pl/95/95/s112/b] provided that:
+[Pub. L. 95–95, title I][/us/pl/95/95/tI], § 112(b), Aug. 7, 1977, [91 Stat. 709][/us/stat/91/709], repealed section 119 of the Clean Air Act, which was classified to [section 1857c–10 of Title 42][/us/usc/t42/s1857c–10], The Public Health and Welfare, and which related to the Administrator’s authority to deal with the energy shortage. [Section 112(b) of Pub. L. 95–95][/us/pl/95/95/s112/b] provided that:
 
 >     “(1) Section 119 of such Act \[[section 1857c–10 of Title 42][/us/usc/t42/s1857c–10], The Public Health and Welfare\] is hereby repealed. All references to such section 119 \[[section 1857c–10 of Title 42][/us/usc/t42/s1857c–10]\] or subsections thereof in section 2 of the Energy Supply and Environmental Coordination Act of 1974 ([Public Law 93–319][/us/pl/93/319]) \[this section\] or any amendment thereto, or any subsequent enactment which supersedes such Act \[[Pub. L. 93–319][/us/pl/93/319], June 22, 1974, [88 Stat. 246][/us/stat/88/246]\], shall be construed to refer to section 113(d) of the Clean Air Act \[[section 7413(d) of Title 42][/us/usc/t42/s7413/d]\] and to paragraph (5) thereof in particular. Any certification or notification required to be given by the Administrator of the Environmental Protection Agency under section 2 of the Energy Supply and Environmental Coordination Act of 1974 \[this section\] or any amendment thereto, or any subsequent enactment which supersedes such Act, shall be given only when the Governor of the State in which is located the source to which the proposed order under section 113(d)(5) of the Clean Air Act \[[section 7413(d)(5) of Title 42][/us/usc/t42/s7413/d/5]\] is to be issued gives his prior written concurrence.
 
@@ -106,27 +106,27 @@
 ----------
 ----------
 
-[/us/pl/93/319/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs2
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/stat/88/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F246
-[/us/pl/94/163/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs101
+[/us/pl/94/163/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2FtI
 [/us/stat/89/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F875
-[/us/pl/95/70/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F70%2Fs7
+[/us/pl/95/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F70
 [/us/stat/91/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F277
 [/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/usc/t15/s791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs791
 [/us/usc/t42/s1857c–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857c%E2%80%9310
-[/us/pl/95/95/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs112%2Fb
+[/us/pl/95/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95
 [/us/usc/t42/s7413/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413%2Fd
 [/us/usc/t42/s7413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413
-[/us/pl/101/549/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs701
+[/us/pl/101/549/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtVII
 [/us/stat/104/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2672
 [/us/usc/t42/s7413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7413%2Fa
 [/us/pl/95/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F70
-[/us/pl/94/163/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs101%2Fb
-[/us/pl/94/163/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs101%2Fc
-[/us/pl/94/163/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs101%2Fa%2F1
-[/us/pl/94/163/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163%2Fs101%2Fa%2F2
-[/us/pl/95/95/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs112%2Fb
+[/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
+[/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
+[/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
+[/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
+[/us/pl/95/95/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2FtI
 [/us/stat/91/709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F709
 [/us/usc/t42/s1857c–10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1857c%E2%80%9310
 [/us/pl/95/95/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F95%2Fs112%2Fb

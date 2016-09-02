@@ -27,7 +27,7 @@
 
     (e) any recommendations for additional legislation which may be required to assist in achieving the purposes of this chapter.
 
-([Pub. L. 95–367, § 7][/us/pl/95/367/s7], Sept. 17, 1978, [92 Stat. 604][/us/stat/92/604]; [Pub. L. 97–375, title II, § 202(b)][/us/pl/97/375/s202/b], Dec. 21, 1982, [96 Stat. 1822][/us/stat/96/1822].)
+([Pub. L. 95–367][/us/pl/95/367], § 7, Sept. 17, 1978, [92 Stat. 604][/us/stat/92/604]; [Pub. L. 97–375, title II][/us/pl/97/375/tII], § 202(b), Dec. 21, 1982, [96 Stat. 1822][/us/stat/96/1822].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t15/s2904/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2904%2Fg
-[/us/pl/95/367/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F367%2Fs7
+[/us/pl/95/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F367
 [/us/stat/92/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F604
-[/us/pl/97/375/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs202%2Fb
+[/us/pl/97/375/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtII
 [/us/stat/96/1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1822
 [/us/pl/97/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375
 

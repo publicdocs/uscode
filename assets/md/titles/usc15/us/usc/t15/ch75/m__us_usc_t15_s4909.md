@@ -21,7 +21,7 @@
 
     (2) that is specifically authorized under criteria established by statute or an Executive order not to be disclosed in the interest of national defense or foreign policy and are in fact properly classified pursuant to such Executive order.
 
-([Pub. L. 100–418, title V, § 5409][/us/pl/100/418/s5409], Aug. 23, 1988, [102 Stat. 1467][/us/stat/102/1467].)
+([Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5409, Aug. 23, 1988, [102 Stat. 1467][/us/stat/102/1467].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s5409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5409
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1467
 
 

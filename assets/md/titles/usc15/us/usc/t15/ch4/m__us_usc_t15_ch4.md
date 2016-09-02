@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch3/m__us_usc_t15_ch3.md) | [Next](./../../../..//us/usc/t15/ch4/m__us_usc_t15_s141.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch4)
+[Previous](./../../../..//us/usc/t15/ch3/m__us_usc_t15_s81...134.md) | [Next](./../../../..//us/usc/t15/ch4/m__us_usc_t15_s141.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch4)
 
 ## CHAPTER 4—CHINA TRADE
 
@@ -219,7 +219,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t15/ch3/m__us_usc_t15_ch3.md) | [Next](./../../../..//us/usc/t15/ch4/m__us_usc_t15_s141.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch4)
+[Previous](./../../../..//us/usc/t15/ch3/m__us_usc_t15_s81...134.md) | [Next](./../../../..//us/usc/t15/ch4/m__us_usc_t15_s141.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch4)
 
 ----------
 ----------

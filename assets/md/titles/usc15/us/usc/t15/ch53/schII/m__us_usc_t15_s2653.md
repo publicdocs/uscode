@@ -27,7 +27,7 @@
 
     (5) include recommendations that explicitly address whether there is a need to establish standards for, and regulate asbestos exposure in, public and commercial buildings.
 
-([Pub. L. 94–469, title II, § 213][/us/pl/94/469/s213], as added [Pub. L. 99–519, § 2][/us/pl/99/519/s2], Oct. 22, 1986, [100 Stat. 2987][/us/stat/100/2987].)
+([Pub. L. 94–469, title II][/us/pl/94/469/tII], § 213, as added [Pub. L. 99–519][/us/pl/99/519], § 2, Oct. 22, 1986, [100 Stat. 2987][/us/stat/100/2987].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/94/469/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs213
-[/us/pl/99/519/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs2
+[/us/pl/94/469/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtII
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2987
 
 

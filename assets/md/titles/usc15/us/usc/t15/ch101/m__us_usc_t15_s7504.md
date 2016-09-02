@@ -69,7 +69,7 @@
 
         The Director of the National Nanotechnology Coordination Office shall transmit the results of any evaluation for which it made arrangements under subsection (a) to the Advisory Panel, the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science upon receipt. The first such evaluation shall be transmitted no later than June 10, 2005, with subsequent evaluations transmitted to the Committees every 3 years thereafter.
 
-([Pub. L. 108–153, § 5][/us/pl/108/153/s5], Dec. 3, 2003, [117 Stat. 1928][/us/stat/117/1928].)
+([Pub. L. 108–153][/us/pl/108/153], § 5, Dec. 3, 2003, [117 Stat. 1928][/us/stat/117/1928].)
 
  __Change of Name__ 
 
@@ -82,7 +82,7 @@
 ----------
 ----------
 
-[/us/pl/108/153/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F153%2Fs5
+[/us/pl/108/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F153
 [/us/stat/117/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1928
 
 

@@ -225,7 +225,7 @@ Part A—Small Business Investment Companies  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs687" data-uslm-ref="/us/usc/t15/s687">687</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs687l" data-uslm-ref="/us/usc/t15/s687l">687l.</a>  </td>
 
     <td> Issuance and guarantee of trust certificates.  </td>
 
@@ -353,7 +353,7 @@ Part B—New Markets Venture Capital Program  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs689" data-uslm-ref="/us/usc/t15/s689">689</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs689l" data-uslm-ref="/us/usc/t15/s689l">689l</a>.  </td>
 
     <td> Injunctions and other orders.  </td>
 
@@ -377,7 +377,7 @@ Part B—New Markets Venture Capital Program  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs689" data-uslm-ref="/us/usc/t15/s689">689</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs689o" data-uslm-ref="/us/usc/t15/s689o">689o</a>.  </td>
 
     <td> Removal or suspension of directors or officers.  </td>
 
@@ -505,7 +505,7 @@ Part C—Renewable Fuel Capital Investment Pilot Program  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs690" data-uslm-ref="/us/usc/t15/s690">690</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs690l" data-uslm-ref="/us/usc/t15/s690l">690l.</a>  </td>
 
     <td> Examinations.  </td>
 
@@ -529,7 +529,7 @@ Part C—Renewable Fuel Capital Investment Pilot Program  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs690" data-uslm-ref="/us/usc/t15/s690">690</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs690o" data-uslm-ref="/us/usc/t15/s690o">690o.</a>  </td>
 
     <td> Regulations.  </td>
 

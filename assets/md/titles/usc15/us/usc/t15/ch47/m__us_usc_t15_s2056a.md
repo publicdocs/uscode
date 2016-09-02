@@ -177,13 +177,13 @@
 
             (L) bassinets and cradles.
 
-([Pub. L. 110–314, title I, § 104][/us/pl/110/314/s104], Aug. 14, 2008, [122 Stat. 3028][/us/stat/122/3028]; [Pub. L. 112–28, § 3][/us/pl/112/28/s3], Aug. 12, 2011, [125 Stat. 279][/us/stat/125/279].)
+([Pub. L. 110–314, title I][/us/pl/110/314/tI], § 104, Aug. 14, 2008, [122 Stat. 3028][/us/stat/122/3028]; [Pub. L. 112–28][/us/pl/112/28], § 3, Aug. 12, 2011, [125 Stat. 279][/us/stat/125/279].)
 
  __References in Text__ 
 
     [Section 2060(g) of this title][/us/usc/t15/s2060/g], as added by section 236 of this Act, referred to in subsec. (b)(3), is [section 2060(g) of this title][/us/usc/t15/s2060/g], as added by [section 236 of Pub. L. 110–314][/us/pl/110/314/s236].
 
-    The Paperwork Reduction Act of 1980, referred to in subsec. (d)(1), is [Pub. L. 96–511][/us/pl/96/511], Dec. 11, 1980, [94 Stat. 2812][/us/stat/94/2812], which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by [Pub. L. 104–13, § 2][/us/pl/104/13/s2], May 22, 1995, [109 Stat. 163][/us/stat/109/163]. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44][/us/usc/t44/s101] and Tables.
+    The Paperwork Reduction Act of 1980, referred to in subsec. (d)(1), is [Pub. L. 96–511][/us/pl/96/511], Dec. 11, 1980, [94 Stat. 2812][/us/stat/94/2812], which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by [Pub. L. 104–13][/us/pl/104/13], § 2, May 22, 1995, [109 Stat. 163][/us/stat/109/163]. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44][/us/usc/t44/s101] and Tables.
 
     This Act, referred to in subsec. (d)(3), is [Pub. L. 110–314][/us/pl/110/314], Aug. 14, 2008, [122 Stat. 3016][/us/stat/122/3016], known as the Consumer Product Safety Improvement Act of 2008. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under [section 2051 of this title][/us/usc/t15/s2051] and Tables.
 
@@ -193,9 +193,9 @@
 
  __Amendments__ 
 
-    2011—Subsec. (b)(4). [Pub. L. 112–28, § 3(a)][/us/pl/112/28/s3/a], added par. (4).
+    2011—Subsec. (b)(4). [Pub. L. 112–28][/us/pl/112/28], § 3(a), added par. (4).
 
-    Subsec. (c)(3), (4). [Pub. L. 112–28, § 3(b)][/us/pl/112/28/s3/b], added par. (3) and redesignated former par. (3) as (4).
+    Subsec. (c)(3), (4). [Pub. L. 112–28][/us/pl/112/28], § 3(b), added par. (3) and redesignated former par. (3) as (4).
 
  __Definitions__ 
 
@@ -215,23 +215,23 @@
 [/us/usc/t15/s2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2203
 [/us/usc/t44/s3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3501
 [/us/usc/t15/s2065/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2065%2Fb
-[/us/pl/110/314/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs104
+[/us/pl/110/314/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtI
 [/us/stat/122/3028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3028
-[/us/pl/112/28/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs3
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
 [/us/stat/125/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F279
 [/us/usc/t15/s2060/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2060%2Fg
 [/us/usc/t15/s2060/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2060%2Fg
 [/us/pl/110/314/s236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs236
 [/us/pl/96/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F511
 [/us/stat/94/2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2812
-[/us/pl/104/13/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13%2Fs2
+[/us/pl/104/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F13
 [/us/stat/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F163
 [/us/usc/t44/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs101
 [/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/stat/122/3016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3016
 [/us/usc/t15/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2051
-[/us/pl/112/28/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs3%2Fa
-[/us/pl/112/28/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs3%2Fb
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
 [/us/pl/110/314/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs2%2Fa
 [/us/usc/t15/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2051
 

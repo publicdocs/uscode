@@ -45,7 +45,7 @@
 
     (b) The Commission may exclude from the provisions of this subchapter other textile fiber products (1) which have an insignificant or inconsequential textile fiber content, or (2) with respect to which the disclosure of textile fiber content is not necessary for the protection of the ultimate consumer.
 
-([Pub. L. 85–897, § 12][/us/pl/85/897/s12], Sept. 2, 1958, [72 Stat. 1723][/us/stat/72/1723].)
+([Pub. L. 85–897][/us/pl/85/897], § 12, Sept. 2, 1958, [72 Stat. 1723][/us/stat/72/1723].)
 
  __References in Text__ 
 
@@ -61,7 +61,7 @@
 [/us/usc/t15/s70b/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs70b%2Fh
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
 [/us/usc/t15/s70b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs70b
-[/us/pl/85/897/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F897%2Fs12
+[/us/pl/85/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F897
 [/us/stat/72/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1723
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

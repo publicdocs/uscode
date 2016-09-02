@@ -121,7 +121,7 @@
 
         (3) No amount appropriated under this subsection may be used to cover the costs of the proficiency rating program under subsection (a)(2).
 
-([Pub. L. 94–469, title III, § 305][/us/pl/94/469/s305], as added [Pub. L. 100–551, § 1(a)][/us/pl/100/551/s1/a], Oct. 28, 1988, [102 Stat. 2756][/us/stat/102/2756]; amended [Pub. L. 101–508, title X, § 10202][/us/pl/101/508/s10202], Nov. 5, 1990, [104 Stat. 1388–393][/us/stat/104/1388-393]; [Pub. L. 104–66, title II, § 2021][/us/pl/104/66/s2021](l), Dec. 21, 1995, [109 Stat. 728][/us/stat/109/728].)
+([Pub. L. 94–469, title III][/us/pl/94/469/tIII], § 305, as added [Pub. L. 100–551][/us/pl/100/551], § 1(a), Oct. 28, 1988, [102 Stat. 2756][/us/stat/102/2756]; amended [Pub. L. 101–508, title X][/us/pl/101/508/tX], § 10202, Nov. 5, 1990, [104 Stat. 1388–393][/us/stat/104/1388-393]; [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2021(l), Dec. 21, 1995, [109 Stat. 728][/us/stat/109/728].)
 
  __Amendments__ 
 
@@ -137,12 +137,12 @@
 ----------
 
 [/us/usc/t15/s2666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2666
-[/us/pl/94/469/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs305
-[/us/pl/100/551/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F551%2Fs1%2Fa
+[/us/pl/94/469/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtIII
+[/us/pl/100/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F551
 [/us/stat/102/2756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2756
-[/us/pl/101/508/s10202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs10202
+[/us/pl/101/508/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtX
 [/us/stat/104/1388-393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-393
-[/us/pl/104/66/s2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2021
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F728
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/usc/t42/s7401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7401

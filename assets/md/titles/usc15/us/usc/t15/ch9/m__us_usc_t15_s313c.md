@@ -33,17 +33,17 @@
 
         (B) how shifts in climate, development, and erosion patterns might make certain regions vulnerable to more continual or escalating flood damage in the future.
 
-([Pub. L. 107–253, § 2][/us/pl/107/253/s2], Oct. 29, 2002, [116 Stat. 1731][/us/stat/116/1731].)
+([Pub. L. 107–253][/us/pl/107/253], § 2, Oct. 29, 2002, [116 Stat. 1731][/us/stat/116/1731].)
 
  __Authorization of Appropriations__ 
 
-[Pub. L. 107–253, § 3][/us/pl/107/253/s3], Oct. 29, 2002, [116 Stat. 1731][/us/stat/116/1731], provided that: 
+[Pub. L. 107–253][/us/pl/107/253], § 3, Oct. 29, 2002, [116 Stat. 1731][/us/stat/116/1731], provided that: 
 
 > “There are authorized to be appropriated to the National Oceanic and Atmospheric Administration for carrying out this Act \[see Short Title of 2002 Amendment note set out under [section 311 of this title][/us/usc/t15/s311]\] $1,250,000 for each of the fiscal years 2003 through 2005, of which $100,000 for each fiscal year shall be available for competitive merit-reviewed grants to institutions of higher education (as defined in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001][/us/usc/t20/s1001])) to carry out the activities described in section 2(5) \[[15 U.S.C. 313c(5)][/us/usc/t15/s313c/5]\], and $1,150,000 for each of the fiscal years 2006 and 2007. Of the amounts authorized under this section, $250,000 for each fiscal year shall be available for competitive merit-reviewed grants to institutions of higher education (as defined in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001][/us/usc/t20/s1001])) to develop models that can improve the ability to forecast the coastal and estuary-inland flooding that is influenced by tropical cyclones. The models should incorporate the interaction of such factors as storm surges, soil saturation, and other relevant phenomena.”
 
  __Report__ 
 
-    [Pub. L. 107–253, § 4][/us/pl/107/253/s4], Oct. 29, 2002, [116 Stat. 1732][/us/stat/116/1732], required the National Oceanic and Atmospheric Administration to provide Congress with annual reports through fiscal year 2007 on its activities under [Pub. L. 107–253][/us/pl/107/253] (see Short Title note set out under [section 311 of this title][/us/usc/t15/s311]) and the success and acceptance of the inland flood warning index developed under par. (2) of this section and also to report by Jan. 1, 2006, on the likely long-term trends in inland flooding for use in outreach activities conducted under par. (4) of this section.
+    [Pub. L. 107–253][/us/pl/107/253], § 4, Oct. 29, 2002, [116 Stat. 1732][/us/stat/116/1732], required the National Oceanic and Atmospheric Administration to provide Congress with annual reports through fiscal year 2007 on its activities under [Pub. L. 107–253][/us/pl/107/253] (see Short Title note set out under [section 311 of this title][/us/usc/t15/s311]) and the success and acceptance of the inland flood warning index developed under par. (2) of this section and also to report by Jan. 1, 2006, on the likely long-term trends in inland flooding for use in outreach activities conducted under par. (4) of this section.
 
 ----------
 
@@ -52,15 +52,15 @@
 ----------
 ----------
 
-[/us/pl/107/253/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F253%2Fs2
+[/us/pl/107/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F253
 [/us/stat/116/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1731
-[/us/pl/107/253/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F253%2Fs3
+[/us/pl/107/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F253
 [/us/stat/116/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1731
 [/us/usc/t15/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs311
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/usc/t15/s313c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs313c%2F5
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/107/253/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F253%2Fs4
+[/us/pl/107/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F253
 [/us/stat/116/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1732
 [/us/pl/107/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F253
 [/us/usc/t15/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs311

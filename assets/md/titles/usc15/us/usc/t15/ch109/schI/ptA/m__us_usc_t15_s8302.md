@@ -219,7 +219,7 @@
 
         provided, however, that no action by the Commodity Futures Trading Commission or the Securities and Exchange Commission described in paragraphs (1) through (4) shall become effective prior to the effective date applicable to such action under the provisions of this Act.
 
-([Pub. L. 111–203, title VII, § 712][/us/pl/111/203/s712], July 21, 2010, [124 Stat. 1641][/us/stat/124/1641].)
+([Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 712, July 21, 2010, [124 Stat. 1641][/us/stat/124/1641].)
 
  __References in Text__ 
 
@@ -250,7 +250,7 @@
 [/us/usc/t7/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs21
 [/us/usc/t7/s1a/47/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1a%2F47%2FA%2Fv
 [/us/usc/t15/s78c/a/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F78
-[/us/pl/111/203/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs712
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1641
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1641

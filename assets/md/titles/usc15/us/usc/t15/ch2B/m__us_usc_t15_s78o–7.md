@@ -753,7 +753,7 @@
 
         In producing a credit rating, a nationally recognized statistical rating organization shall consider information about an issuer that the nationally recognized statistical rating organization has, or receives from a source other than the issuer or underwriter, that the nationally recognized statistical rating organization finds credible and potentially significant to a rating decision.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 15E, as added [Pub. L. 109–291, § 4(a)][/us/pl/109/291/s4/a], Sept. 29, 2006, [120 Stat. 1329][/us/stat/120/1329]; amended [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 932(a), 933(a), 934, 935, July 21, 2010, [124 Stat. 1872][/us/stat/124/1872], 1883, 1884.)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 15E, as added [Pub. L. 109–291][/us/pl/109/291], § 4(a), Sept. 29, 2006, [120 Stat. 1329][/us/stat/120/1329]; amended [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], §§ 932(a), 933(a), 934, 935, July 21, 2010, [124 Stat. 1872][/us/stat/124/1872], 1883, 1884.)
 
  __References in Text__ 
 
@@ -763,33 +763,33 @@
 
  __Amendments__ 
 
-    2010—Subsec. (b)(1)(A). [Pub. L. 111–203, § 932(a)(1)(A)][/us/pl/111/203/s932/a/1/A], substituted “filed” for “furnished” and “filing” for “furnishing”.
+    2010—Subsec. (b)(1)(A). [Pub. L. 111–203][/us/pl/111/203], § 932(a)(1)(A), substituted “filed” for “furnished” and “filing” for “furnishing”.
 
-    Subsec. (b)(1)(B). [Pub. L. 111–203, § 932(a)(1)(B)][/us/pl/111/203/s932/a/1/B], substituted “filing” for “furnishing”.
+    Subsec. (b)(1)(B). [Pub. L. 111–203][/us/pl/111/203], § 932(a)(1)(B), substituted “filing” for “furnishing”.
 
-    Subsec. (b)(2). [Pub. L. 111–203, § 932(a)(1)(C)][/us/pl/111/203/s932/a/1/C], substituted “file with” for “furnish to” in introductory provisions.
+    Subsec. (b)(2). [Pub. L. 111–203][/us/pl/111/203], § 932(a)(1)(C), substituted “file with” for “furnish to” in introductory provisions.
 
-    Subsec. (c)(2). [Pub. L. 111–203, § 932(a)(2)(A)][/us/pl/111/203/s932/a/2/A], inserted “any other provision of this section, or” after “Notwithstanding” and inserted at end “Nothing in this paragraph may be construed to afford a defense against any action or proceeding brought by the Commission to enforce the antifraud provisions of the securities laws.”
+    Subsec. (c)(2). [Pub. L. 111–203][/us/pl/111/203], § 932(a)(2)(A), inserted “any other provision of this section, or” after “Notwithstanding” and inserted at end “Nothing in this paragraph may be construed to afford a defense against any action or proceeding brought by the Commission to enforce the antifraud provisions of the securities laws.”
 
-    Subsec. (c)(3). [Pub. L. 111–203, § 932(a)(2)(B)][/us/pl/111/203/s932/a/2/B], added par. (3).
+    Subsec. (c)(3). [Pub. L. 111–203][/us/pl/111/203], § 932(a)(2)(B), added par. (3).
 
-    Subsec. (d). [Pub. L. 111–203, § 932(a)(3)][/us/pl/111/203/s932/a/3], designated existing provisions as par. (1), inserted heading, inserted “, or with respect to any person who is associated with, who is seeking to become associated with, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a nationally recognized statistical rating organization, the Commission, by order, shall censure, place limitations on the activities or functions of such person, suspend for a period not exceeding 1 year, or bar such person from being associated with a nationally recognized statistical rating organization,” before “if the Commission finds” and “bar” before “or revocation is necessary”, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of subpar. (B), in subpar. (B), substituted “filed with” for “furnished to” in introductory provisions, in subpar. (D), substituted “file” for “furnish”, and added subpar. (F) and par. (2).
+    Subsec. (d). [Pub. L. 111–203][/us/pl/111/203], § 932(a)(3), designated existing provisions as par. (1), inserted heading, inserted “, or with respect to any person who is associated with, who is seeking to become associated with, or, at the time of the alleged misconduct, who was associated or was seeking to become associated with a nationally recognized statistical rating organization, the Commission, by order, shall censure, place limitations on the activities or functions of such person, suspend for a period not exceeding 1 year, or bar such person from being associated with a nationally recognized statistical rating organization,” before “if the Commission finds” and “bar” before “or revocation is necessary”, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1) and former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of subpar. (B), in subpar. (B), substituted “filed with” for “furnished to” in introductory provisions, in subpar. (D), substituted “file” for “furnish”, and added subpar. (F) and par. (2).
 
-    Subsec. (h)(3) to (5). [Pub. L. 111–203, § 932(a)(4)][/us/pl/111/203/s932/a/4], added pars. (3) to (5).
+    Subsec. (h)(3) to (5). [Pub. L. 111–203][/us/pl/111/203], § 932(a)(4), added pars. (3) to (5).
 
-    Subsec. (j). [Pub. L. 111–203, § 932(a)(5)][/us/pl/111/203/s932/a/5], designated existing provisions as par. (1), inserted heading, and added pars. (2) to (5).
+    Subsec. (j). [Pub. L. 111–203][/us/pl/111/203], § 932(a)(5), designated existing provisions as par. (1), inserted heading, and added pars. (2) to (5).
 
-    Subsec. (k). [Pub. L. 111–203, § 932(a)(6)][/us/pl/111/203/s932/a/6], substituted “file with” for “furnish to”.
+    Subsec. (k). [Pub. L. 111–203][/us/pl/111/203], § 932(a)(6), substituted “file with” for “furnish to”.
 
-    Subsec. (l)(2)(A)(i). [Pub. L. 111–203, § 932(a)(7)][/us/pl/111/203/s932/a/7], substituted “filed” for “furnished”.
+    Subsec. (l)(2)(A)(i). [Pub. L. 111–203][/us/pl/111/203], § 932(a)(7), substituted “filed” for “furnished”.
 
-    Subsec. (m). [Pub. L. 111–203, § 933(a)][/us/pl/111/203/s933/a], amended subsec. (m) generally. Prior to amendment, subsec. (m) provided that registration did not constitute a waiver of rights, privileges, or defenses and that this section could not be construed as creating any private right of action.
+    Subsec. (m). [Pub. L. 111–203][/us/pl/111/203], § 933(a), amended subsec. (m) generally. Prior to amendment, subsec. (m) provided that registration did not constitute a waiver of rights, privileges, or defenses and that this section could not be construed as creating any private right of action.
 
-    Subsecs. (p) to (t). [Pub. L. 111–203, § 932(a)(8)][/us/pl/111/203/s932/a/8], added subsecs. (p) to (t) and struck out former subsec. (p) which related to applicability date of this section.
+    Subsecs. (p) to (t). [Pub. L. 111–203][/us/pl/111/203], § 932(a)(8), added subsecs. (p) to (t) and struck out former subsec. (p) which related to applicability date of this section.
 
-    Subsec. (u). [Pub. L. 111–203, § 934][/us/pl/111/203/s934], added subsec. (u).
+    Subsec. (u). [Pub. L. 111–203][/us/pl/111/203], § 934, added subsec. (u).
 
-    Subsec. (v). [Pub. L. 111–203, § 935][/us/pl/111/203/s935], added subsec. (v).
+    Subsec. (v). [Pub. L. 111–203][/us/pl/111/203], § 935, added subsec. (v).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -797,13 +797,13 @@
 
  __Regulations__ 
 
-[Pub. L. 111–203, title IX, § 937][/us/pl/111/203/s937], July 21, 2010, [124 Stat. 1885][/us/stat/124/1885], provided that: 
+[Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 937, July 21, 2010, [124 Stat. 1885][/us/stat/124/1885], provided that: 
 
 > “Unless otherwise specifically provided in this subtitle \[subtitle C (§§ 931–939H) of title IX of [Pub. L. 111–203][/us/pl/111/203], enacting sections 78o–8 and 78o–9 of this title, amending this section and sections 78c, 78u–4, and 80a–6 of this title, sections 24a, 1817, 1831e, and 4519 of Title 12, Banks and Banking, and [section 286hh of Title 22][/us/usc/t22/s286hh], Foreign Relations and Intercourse, and enacting provisions set out as notes under this section, sections 78m and 78o–9 of this title, and [section 24a of Title 12][/us/usc/t12/s24a]\], the \[Securities and Exchange\] Commission shall issue final regulations, as required by this subtitle and the amendments made by this subtitle, not later than 1 year after the date of enactment of this Act \[July 21, 2010\].”
 
  __Qualification Standards for Credit Rating Analysts__ 
 
-[Pub. L. 111–203, title IX, § 936][/us/pl/111/203/s936], July 21, 2010, [124 Stat. 1884][/us/stat/124/1884], provided that: 
+[Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 936, July 21, 2010, [124 Stat. 1884][/us/stat/124/1884], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[July 21, 2010\], the Commission shall issue rules that are reasonably designed to ensure that any person employed by a nationally recognized statistical rating organization to perform credit ratings—
 
@@ -815,7 +815,7 @@
 
  __Review of Reliance on Ratings__ 
 
-[Pub. L. 111–203, title IX, § 939A][/us/pl/111/203/s939A], July 21, 2010, [124 Stat. 1887][/us/stat/124/1887], provided that:
+[Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 939A, July 21, 2010, [124 Stat. 1887][/us/stat/124/1887], provided that:
 
 >     “(a)  __Agency Review__  __.—__ 
 
@@ -837,7 +837,7 @@
 
  __Representations and Warranties in Asset-backed Offerings__ 
 
-[Pub. L. 111–203, title IX, § 943][/us/pl/111/203/s943], July 21, 2010, [124 Stat. 1897][/us/stat/124/1897], provided that: 
+[Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 943, July 21, 2010, [124 Stat. 1897][/us/stat/124/1897], provided that: 
 
 > “Not later than 180 days after the date of enactment of this Act \[July 21, 2010\], the Securities and Exchange Commission shall prescribe regulations on the use of representations and warranties in the market for asset-backed securities (as that term is defined in section 3(a)(77) \[now 3(a)(79)\] of the Securities Exchange Act of 1934 \[[15 U.S.C. 78c(a)(79)][/us/usc/t15/s78c/a/79]\], as added by this subtitle) that—
 
@@ -855,7 +855,7 @@
 
  __Findings__ 
 
-[Pub. L. 111–203, title IX, § 931][/us/pl/111/203/s931], July 21, 2010, [124 Stat. 1872][/us/stat/124/1872], provided that: 
+[Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 931, July 21, 2010, [124 Stat. 1872][/us/stat/124/1872], provided that: 
 
 > “Congress finds the following:
 
@@ -871,7 +871,7 @@
 
     \[For definitions of terms used in [section 931 of Pub. L. 111–203][/us/pl/111/203/s931], set out above, see [section 5301 of Title 12][/us/usc/t12/s5301], Banks and Banking.\]
 
-[Pub. L. 109–291, § 2][/us/pl/109/291/s2], Sept. 29, 2006, [120 Stat. 1327][/us/stat/120/1327], provided that: 
+[Pub. L. 109–291][/us/pl/109/291], § 2, Sept. 29, 2006, [120 Stat. 1327][/us/stat/120/1327], provided that: 
 
 > “Upon the basis of facts disclosed by the record and report of the Securities and Exchange Commission made pursuant to section 702 of the Sarbanes-Oxley Act of 2002 \[[Pub. L. 107–204][/us/pl/107/204]\] ([116 Stat. 797][/us/stat/116/797]), hearings before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives during the 108th and 109th Congresses, comment letters to the concept releases and proposed rules of the Commission, and facts otherwise disclosed and ascertained, Congress finds that credit rating agencies are of national importance, in that, among other things—
 
@@ -889,7 +889,7 @@
 
  __Securities and Exchange Commission Annual Report__ 
 
-[Pub. L. 109–291, § 6][/us/pl/109/291/s6], Sept. 29, 2006, [120 Stat. 1338][/us/stat/120/1338], provided that: 
+[Pub. L. 109–291][/us/pl/109/291], § 6, Sept. 29, 2006, [120 Stat. 1338][/us/stat/120/1338], provided that: 
 
 > “The Commission shall submit an annual report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that, with respect to the year to which the report relates—
 
@@ -901,7 +901,7 @@
 
  __Definitions__ 
 
-[Pub. L. 109–291, § 3(b)][/us/pl/109/291/s3/b], Sept. 29, 2006, [120 Stat. 1328][/us/stat/120/1328], provided that: 
+[Pub. L. 109–291][/us/pl/109/291], § 3(b), Sept. 29, 2006, [120 Stat. 1328][/us/stat/120/1328], provided that: 
 
 > “As used in this Act \[see Short Title of 2006 Amendment note set out under [section 78a of this title][/us/usc/t15/s78a]\]—
 
@@ -927,62 +927,62 @@
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
 [/us/usc/t15/s78u–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78u%E2%80%935
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/109/291/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291%2Fs4%2Fa
+[/us/pl/109/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291
 [/us/stat/120/1329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1329
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1872
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/111/203/s932/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs932%2Fa%2F1%2FA
-[/us/pl/111/203/s932/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs932%2Fa%2F1%2FB
-[/us/pl/111/203/s932/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs932%2Fa%2F1%2FC
-[/us/pl/111/203/s932/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs932%2Fa%2F2%2FA
-[/us/pl/111/203/s932/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs932%2Fa%2F2%2FB
-[/us/pl/111/203/s932/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs932%2Fa%2F3
-[/us/pl/111/203/s932/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs932%2Fa%2F4
-[/us/pl/111/203/s932/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs932%2Fa%2F5
-[/us/pl/111/203/s932/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs932%2Fa%2F6
-[/us/pl/111/203/s932/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs932%2Fa%2F7
-[/us/pl/111/203/s933/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs933%2Fa
-[/us/pl/111/203/s932/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs932%2Fa%2F8
-[/us/pl/111/203/s934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs934
-[/us/pl/111/203/s935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs935
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/111/203/s937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs937
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1885
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t22/s286hh]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs286hh
 [/us/usc/t12/s24a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs24a
-[/us/pl/111/203/s936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs936
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1884
 [/us/pl/111/203/s936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs936
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/111/203/s939A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs939A
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1887
 [/us/pl/111/203/s939A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs939A
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/111/203/s943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs943
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1897
 [/us/usc/t15/s78c/a/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F79
 [/us/usc/t15/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78
 [/us/pl/111/203/s943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs943
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/111/203/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs931
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1872
 [/us/pl/111/203/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs931
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/109/291/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291%2Fs2
+[/us/pl/109/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291
 [/us/stat/120/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1327
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/stat/116/797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F797
-[/us/pl/109/291/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291%2Fs6
+[/us/pl/109/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291
 [/us/stat/120/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1338
 [/us/usc/t15/s78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78
-[/us/pl/109/291/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291%2Fs3%2Fb
+[/us/pl/109/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F291
 [/us/stat/120/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1328
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/usc/t15/s78c/a/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F62

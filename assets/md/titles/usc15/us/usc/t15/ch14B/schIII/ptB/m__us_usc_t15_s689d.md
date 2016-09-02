@@ -55,7 +55,7 @@
 
             (B) the total amount of leverage projected in the participation agreement of the covered New Markets Venture Capital.
 
-([Pub. L. 85–699, title III, § 355][/us/pl/85/699/s355], as added [Pub. L. 106–554, § 1(a)(8)][/us/pl/106/554/s1/a/8] \[§ 1(b)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–658; amended [Pub. L. 111–240, title I, § 1115][/us/pl/111/240/s1115], Sept. 27, 2010, [124 Stat. 2508][/us/stat/124/2508].)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 355, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(8) \[§ 1(b)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–658; amended [Pub. L. 111–240, title I][/us/pl/111/240/tI], § 1115, Sept. 27, 2010, [124 Stat. 2508][/us/stat/124/2508].)
 
  __Amendments__ 
 
@@ -69,10 +69,10 @@
 ----------
 
 [/us/usc/t15/s689c/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs689c%2Fe
-[/us/pl/85/699/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs355
-[/us/pl/106/554/s1/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F8
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/240/s1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1115
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2508
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 

@@ -69,7 +69,7 @@
 
             The Director shall publish promptly in the Federal Register final procedures, and subsequent updates thereof, developed under paragraph (1).
 
-([Pub. L. 107–231, § 2][/us/pl/107/231/s2], Oct. 1, 2002, [116 Stat. 1471][/us/stat/116/1471]; [Pub. L. 107–305, § 15][/us/pl/107/305/s15], Nov. 27, 2002, [116 Stat. 2381][/us/stat/116/2381].)
+([Pub. L. 107–231][/us/pl/107/231], § 2, Oct. 1, 2002, [116 Stat. 1471][/us/stat/116/1471]; [Pub. L. 107–305][/us/pl/107/305], § 15, Nov. 27, 2002, [116 Stat. 2381][/us/stat/116/2381].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 
  __Short Title__ 
 
-[Pub. L. 107–231, § 1][/us/pl/107/231/s1], Oct. 1, 2002, [116 Stat. 1471][/us/stat/116/1471], provided that: 
+[Pub. L. 107–231][/us/pl/107/231], § 1, Oct. 1, 2002, [116 Stat. 1471][/us/stat/116/1471], provided that: 
 
 > “This Act \[enacting this chapter and amending [section 281a of this title][/us/usc/t15/s281a]\] may be cited as the ‘National Construction Safety Team Act’.”
 
@@ -97,9 +97,9 @@
 [/us/usc/t15/s7306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7306
 [/us/usc/t15/s7303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7303%2Fa
 [/us/usc/t42/s7701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7701
-[/us/pl/107/231/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231%2Fs2
+[/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
 [/us/stat/116/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1471
-[/us/pl/107/305/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305%2Fs15
+[/us/pl/107/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305
 [/us/stat/116/2381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2381
 [/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
 [/us/stat/116/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1471
@@ -109,7 +109,7 @@
 [/us/pl/107/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305
 [/us/usc/t15/s7306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7306
 [/us/usc/t15/s7307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7307
-[/us/pl/107/231/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231%2Fs1
+[/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
 [/us/stat/116/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1471
 [/us/usc/t15/s281a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs281a
 

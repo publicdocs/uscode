@@ -77,7 +77,7 @@
 
             In an action to enforce a cease-and-desist order entered by the Commission pursuant to [section 80a–9(f) of this title][/us/usc/t15/s80a–9/f], each separate violation of such order shall be a separate offense, except that in the case of a violation through a continuing failure to comply with the order, each day of the failure to comply shall be deemed a separate offense.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 42, [54 Stat. 842][/us/stat/54/842]; [Pub. L. 91–452, title II, § 215][/us/pl/91/452/s215], Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929]; [Pub. L. 100–181, title VI, § 623][/us/pl/100/181/s623], Dec. 4, 1987, [101 Stat. 1262][/us/stat/101/1262]; [Pub. L. 101–429, title III, § 302][/us/pl/101/429/s302], Oct. 15, 1990, [104 Stat. 945][/us/stat/104/945]; [Pub. L. 107–204, title III, § 308(d)(4)][/us/pl/107/204/s308/d/4], July 30, 2002, [116 Stat. 785][/us/stat/116/785]; [Pub. L. 111–203, title IX, § 923(a)(2)][/us/pl/111/203/s923/a/2], July 21, 2010, [124 Stat. 1849][/us/stat/124/1849].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 42, [54 Stat. 842][/us/stat/54/842]; [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 215, Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929]; [Pub. L. 100–181, title VI][/us/pl/100/181/tVI], § 623, Dec. 4, 1987, [101 Stat. 1262][/us/stat/101/1262]; [Pub. L. 101–429, title III][/us/pl/101/429/tIII], § 302, Oct. 15, 1990, [104 Stat. 945][/us/stat/104/945]; [Pub. L. 107–204, title III][/us/pl/107/204/tIII], § 308(d)(4), July 30, 2002, [116 Stat. 785][/us/stat/116/785]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 923(a)(2), July 21, 2010, [124 Stat. 1849][/us/stat/124/1849].)
 
  __Amendments__ 
 
@@ -126,15 +126,15 @@
 [/us/usc/t15/s80a–9/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%939%2Ff
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F842
-[/us/pl/91/452/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs215
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F929
-[/us/pl/100/181/s623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs623
+[/us/pl/100/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVI
 [/us/stat/101/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1262
-[/us/pl/101/429/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2Fs302
+[/us/pl/101/429/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2FtIII
 [/us/stat/104/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F945
-[/us/pl/107/204/s308/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs308%2Fd%2F4
+[/us/pl/107/204/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtIII
 [/us/stat/116/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F785
-[/us/pl/111/203/s923/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs923%2Fa%2F2
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1849
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78u–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78u%E2%80%936

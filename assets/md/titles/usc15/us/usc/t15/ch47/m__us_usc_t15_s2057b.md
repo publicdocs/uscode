@@ -31,7 +31,7 @@
 
         This section shall take effect 90 days after November 29, 1990.
 
-([Pub. L. 101–647, title XXXII, § 3202][/us/pl/101/647/s3202], Nov. 29, 1990, [104 Stat. 4917][/us/stat/104/4917].)
+([Pub. L. 101–647, title XXXII][/us/pl/101/647/tXXXII], § 3202, Nov. 29, 1990, [104 Stat. 4917][/us/stat/104/4917].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t15/s2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2057
 [/us/usc/t15/s2057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2057
 [/us/usc/t21/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs301
-[/us/pl/101/647/s3202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs3202
+[/us/pl/101/647/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2FtXXXII
 [/us/stat/104/4917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4917
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

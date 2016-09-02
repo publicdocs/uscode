@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs717" data-uslm-ref="/us/usc/t15/s717">717</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs717l" data-uslm-ref="/us/usc/t15/s717l">717l.</a>  </td>
 
     <td> Complaints.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs717" data-uslm-ref="/us/usc/t15/s717">717</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs717o" data-uslm-ref="/us/usc/t15/s717o">717o.</a>  </td>
 
     <td> Administrative powers of Commission; rules, regulations, and orders.  </td>
 

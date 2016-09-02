@@ -17,7 +17,7 @@
 
     Within 2 years after May 26, 2000, the Association of Boxing Commissions (ABC) shall develop and shall approve by a vote of no less than a majority of its member State boxing commissioners, guidelines for minimum contractual provisions that should be included in bout agreements and boxing contracts. It is the sense of the Congress that State boxing commissions should follow these ABC guidelines.
 
-([Pub. L. 104–272, § 9][/us/pl/104/272/s9], as added [Pub. L. 106–210, § 4(2)][/us/pl/106/210/s4/2], May 26, 2000, [114 Stat. 322][/us/stat/114/322].)
+([Pub. L. 104–272][/us/pl/104/272], § 9, as added [Pub. L. 106–210][/us/pl/106/210], § 4(2), May 26, 2000, [114 Stat. 322][/us/stat/114/322].)
 
  __Prior Provisions__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/104/272/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs9
-[/us/pl/106/210/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs4%2F2
+[/us/pl/104/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 [/us/stat/114/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F322
 [/us/pl/104/272/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs9
 [/us/usc/t15/s6308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6308

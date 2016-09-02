@@ -37,7 +37,7 @@
 
     (3) representatives of companies engaged in the manufacture and processing of chemicals.
 
-([Pub. L. 101–446, § 3][/us/pl/101/446/s3], Oct. 22, 1990, [104 Stat. 1045][/us/stat/104/1045]; [Pub. L. 107–296, title XI, § 1112(d)][/us/pl/107/296/s1112/d], Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276].)
+([Pub. L. 101–446][/us/pl/101/446], § 3, Oct. 22, 1990, [104 Stat. 1045][/us/stat/104/1045]; [Pub. L. 107–296, title XI][/us/pl/107/296/tXI], § 1112(d), Nov. 25, 2002, [116 Stat. 2276][/us/stat/116/2276].)
 
  __Codification__ 
 
@@ -59,9 +59,9 @@
 ----------
 
 [/us/usc/t15/s2223a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2223a
-[/us/pl/101/446/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F446%2Fs3
+[/us/pl/101/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F446
 [/us/stat/104/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1045
-[/us/pl/107/296/s1112/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1112%2Fd
+[/us/pl/107/296/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXI
 [/us/stat/116/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2276
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

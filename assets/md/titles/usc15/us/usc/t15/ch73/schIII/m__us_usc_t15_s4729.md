@@ -63,7 +63,7 @@
 
             Portions of each report under this section may incorporate or be based upon relevant reports and testimony produced by the Department of Commerce or other agencies, but the policy views shall be those of the Secretary of Commerce.
 
-([Pub. L. 100–418, title II, § 2314][/us/pl/100/418/s2314], as added [Pub. L. 102–429, title II, § 206][/us/pl/102/429/s206], Oct. 21, 1992, [106 Stat. 2204][/us/stat/106/2204]; amended [Pub. L. 104–66, title I, § 1022(b)][/us/pl/104/66/s1022/b], Dec. 21, 1995, [109 Stat. 713][/us/stat/109/713].)
+([Pub. L. 100–418, title II][/us/pl/100/418/tII], § 2314, as added [Pub. L. 102–429, title II][/us/pl/102/429/tII], § 206, Oct. 21, 1992, [106 Stat. 2204][/us/stat/106/2204]; amended [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1022(b), Dec. 21, 1995, [109 Stat. 713][/us/stat/109/713].)
 
  __References in Text__ 
 
@@ -82,10 +82,10 @@
 
 [/us/usc/t15/s4727/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4727%2Ff
 [/us/usc/t15/s4723a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4723a
-[/us/pl/100/418/s2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs2314
-[/us/pl/102/429/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs206
+[/us/pl/100/418/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtII
+[/us/pl/102/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2FtII
 [/us/stat/106/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2204
-[/us/pl/104/66/s1022/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1022%2Fb
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F713
 [/us/usc/t22/s5821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs5821
 [/us/pl/102/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F511

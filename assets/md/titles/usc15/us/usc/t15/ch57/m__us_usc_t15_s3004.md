@@ -47,7 +47,7 @@
 
         No parimutuel off-track betting system may employ a takeout for an interstate wager which is greater than the takeout for corresponding wagering pools of off-track wagers on races run within the off-track State except where such greater takeout is authorized by State law in the off-track State.
 
-([Pub. L. 95–515, § 5][/us/pl/95/515/s5], Oct. 25, 1978, [92 Stat. 1813][/us/stat/92/1813].)
+([Pub. L. 95–515][/us/pl/95/515], § 5, Oct. 25, 1978, [92 Stat. 1813][/us/stat/92/1813].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/95/515/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F515%2Fs5
+[/us/pl/95/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F515
 [/us/stat/92/1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1813
 
 

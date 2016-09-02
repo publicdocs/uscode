@@ -31,7 +31,7 @@
 
         (4) recommendations for legislation necessary to improve public access to Federal scientific and technical information.
 
-([Pub. L. 102–245, title I, § 108][/us/pl/102/245/s108], Feb. 14, 1992, [106 Stat. 13][/us/stat/106/13].)
+([Pub. L. 102–245, title I][/us/pl/102/245/tI], § 108, Feb. 14, 1992, [106 Stat. 13][/us/stat/106/13].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t15/s3710/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710%2Fc
 [/us/usc/t15/s3704b/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3704b%2Ff%2F3
-[/us/pl/102/245/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs108
+[/us/pl/102/245/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtI
 [/us/stat/106/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F13
 
 

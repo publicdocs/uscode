@@ -59,7 +59,7 @@
 
         Any member of the Committee may appoint a designee to serve in place of such member on the Committee.
 
-([Pub. L. 100–418, title V, § 5402][/us/pl/100/418/s5402], Aug. 23, 1988, [102 Stat. 1463][/us/stat/102/1463].)
+([Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5402, Aug. 23, 1988, [102 Stat. 1463][/us/stat/102/1463].)
 
  __Change of Name__ 
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s5402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5402
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1463
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001

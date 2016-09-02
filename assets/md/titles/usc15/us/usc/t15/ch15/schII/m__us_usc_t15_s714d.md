@@ -17,7 +17,7 @@
 
     The Federal statutes applicable to Commodity Credit Corporation, a Delaware corporation, shall be applicable to the Corporation. Commodity Credit Corporation, a Delaware corporation, shall cease to be an agency of the United States as provided in [section 713(a) of this title][/us/usc/t15/s713/a].
 
-([June 29, 1948, ch. 704, § 6][/us/act/1948-06-29/ch704/s6], [62 Stat. 1072][/us/stat/62/1072].)
+([June 29, 1948, ch. 704][/us/act/1948-06-29/ch704], § 6, [62 Stat. 1072][/us/stat/62/1072].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t15/s713/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713%2Fa
-[/us/act/1948-06-29/ch704/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch704%2Fs6
+[/us/act/1948-06-29/ch704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch704
 [/us/stat/62/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1072
 [/us/usc/t15/s713/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713%2Fa
 [/us/usc/t15/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713

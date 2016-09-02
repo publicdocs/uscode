@@ -23,7 +23,7 @@
 
     (3) for the 5-year period beginning on June 30, 1980, include use of natural gas in the distillation of fuel-grade alcohol from food grains or other biomass by facilities in existence on June 30, 1980, which do not have the installed capability to burn coal lawfully.
 
-([Pub. L. 96–294, title II, § 273][/us/pl/96/294/s273], June 30, 1980, [94 Stat. 711][/us/stat/94/711].)
+([Pub. L. 96–294, title II][/us/pl/96/294/tII], § 273, June 30, 1980, [94 Stat. 711][/us/stat/94/711].)
 
  __References in Text__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t15/s3391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3391
 [/us/usc/t7/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1421
-[/us/pl/96/294/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2Fs273
+[/us/pl/96/294/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F294%2FtII
 [/us/stat/94/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F711
 [/us/act/1949-10-31/ch792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-31%2Fch792
 [/us/stat/63/1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1051

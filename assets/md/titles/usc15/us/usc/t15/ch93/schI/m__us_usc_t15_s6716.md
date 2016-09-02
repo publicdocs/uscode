@@ -67,7 +67,7 @@
 
             The terms “Board” and “financial holding company” have the same meanings as in [section 1841 of title 12][/us/usc/t12/s1841].
 
-([Pub. L. 106–102, title III, § 307][/us/pl/106/102/s307], Nov. 12, 1999, [113 Stat. 1415][/us/stat/113/1415].)
+([Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 307, Nov. 12, 1999, [113 Stat. 1415][/us/stat/113/1415].)
 
 ----------
 
@@ -78,7 +78,7 @@
 
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
-[/us/pl/106/102/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs307
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1415
 
 

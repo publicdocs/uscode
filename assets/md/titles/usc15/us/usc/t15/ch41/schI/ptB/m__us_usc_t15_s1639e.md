@@ -103,7 +103,7 @@
 
             The agency referred to in subsection (a) or (c) of [section 1607 of this title][/us/usc/t15/s1607] with respect to any person described in paragraph (1) shall assess any penalty under this subsection to which such person is subject.
 
-([Pub. L. 90–321, title I, § 129E][/us/pl/90/321/s129E], as added [Pub. L. 111–203, title XIV, § 1472(a)][/us/pl/111/203/s1472/a], July 21, 2010, [124 Stat. 2187][/us/stat/124/2187].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 129E, as added [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1472(a), July 21, 2010, [124 Stat. 2187][/us/stat/124/2187].)
 
  __Effective Date__ 
 
@@ -119,8 +119,8 @@
 [/us/usc/t12/s3353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3353
 [/us/usc/t15/s1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1640
 [/us/usc/t15/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1607
-[/us/pl/90/321/s129E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs129E
-[/us/pl/111/203/s1472/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1472%2Fa
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2187
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601

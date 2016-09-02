@@ -43,7 +43,7 @@
 
         No separate suit shall be brought under this section if, at the time the suit is brought, the same alleged violation is the subject of a pending action by the Federal Trade Commission or the United States under this chapter.
 
-([Pub. L. 111–345, § 6][/us/pl/111/345/s6], Dec. 29, 2010, [124 Stat. 3621][/us/stat/124/3621].)
+([Pub. L. 111–345][/us/pl/111/345], § 6, Dec. 29, 2010, [124 Stat. 3621][/us/stat/124/3621].)
 
 ----------
 
@@ -53,7 +53,7 @@
 ----------
 
 [/us/usc/t28/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1391
-[/us/pl/111/345/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F345%2Fs6
+[/us/pl/111/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F345
 [/us/stat/124/3621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3621
 
 

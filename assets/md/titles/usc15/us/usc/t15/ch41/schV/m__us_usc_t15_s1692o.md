@@ -17,7 +17,7 @@
 
     The Bureau shall by regulation exempt from the requirements of this subchapter any class of debt collection practices within any State if the Bureau determines that under the law of that State that class of debt collection practices is subject to requirements substantially similar to those imposed by this subchapter, and that there is adequate provision for enforcement.
 
-([Pub. L. 90–321, title VIII, § 817][/us/pl/90/321/s817], as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 883][/us/stat/91/883]; amended [Pub. L. 111–203, title X, § 1089(1)][/us/pl/111/203/s1089/1], July 21, 2010, [124 Stat. 2092][/us/stat/124/2092].)
+([Pub. L. 90–321, title VIII][/us/pl/90/321/tVIII], § 817, as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 883][/us/stat/91/883]; amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1089(1), July 21, 2010, [124 Stat. 2092][/us/stat/124/2092].)
 
  __Amendments__ 
 
@@ -34,10 +34,10 @@
 ----------
 ----------
 
-[/us/pl/90/321/s817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs817
+[/us/pl/90/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVIII
 [/us/pl/95/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F109
 [/us/stat/91/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F883
-[/us/pl/111/203/s1089/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1089%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2092
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

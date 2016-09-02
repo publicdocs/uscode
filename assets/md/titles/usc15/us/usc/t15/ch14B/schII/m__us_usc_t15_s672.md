@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t15/ch14B/schII/m__us_usc_t15_s671.md) | [Next](./../../../../..//us/usc/t15/ch14B/schIII/m__us_usc_t15_ch14B_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs672)
 
-## § 672. Repealed. [Pub. L. 87–341, § 11(h)(1)][/us/pl/87/341/s11/h/1], Oct. 3, 1961, [75 Stat. 757][/us/stat/75/757]
+## § 672. Repealed. [Pub. L. 87–341][/us/pl/87/341], § 11(h)(1), Oct. 3, 1961, [75 Stat. 757][/us/stat/75/757]
 
-    Section, [Pub. L. 85–699, title II, § 202(b)][/us/pl/85/699/s202/b], Aug. 21, 1958, [72 Stat. 691][/us/stat/72/691], authorized appropriations for business expenses.
+    Section, [Pub. L. 85–699, title II][/us/pl/85/699/tII], § 202(b), Aug. 21, 1958, [72 Stat. 691][/us/stat/72/691], authorized appropriations for business expenses.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/87/341/s11/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341%2Fs11%2Fh%2F1
+[/us/pl/87/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341
 [/us/stat/75/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F757
-[/us/pl/85/699/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs202%2Fb
+[/us/pl/85/699/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtII
 [/us/stat/72/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F691
 
 

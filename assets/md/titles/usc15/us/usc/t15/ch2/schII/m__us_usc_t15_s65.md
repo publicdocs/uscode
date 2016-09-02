@@ -21,7 +21,7 @@
 
     For the purpose of enforcing these provisions the Federal Trade Commission shall have all the powers, so far as applicable, given it in the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\].
 
-([Apr. 10, 1918, ch. 50, § 5][/us/act/1918-04-10/ch50/s5], [40 Stat. 517][/us/stat/40/517]; [June 25, 1948, ch. 646, § 1][/us/act/1948-06-25/ch646/s1], [62 Stat. 909][/us/stat/62/909].)
+([Apr. 10, 1918, ch. 50][/us/act/1918-04-10/ch50], § 5, [40 Stat. 517][/us/stat/40/517]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 1, [62 Stat. 909][/us/stat/62/909].)
 
  __References in Text__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/act/1918-04-10/ch50/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-04-10%2Fch50%2Fs5
+[/us/act/1918-04-10/ch50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-04-10%2Fch50
 [/us/stat/40/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F517
-[/us/act/1948-06-25/ch646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs1
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F909
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

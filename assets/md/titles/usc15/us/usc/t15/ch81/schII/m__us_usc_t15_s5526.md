@@ -23,7 +23,7 @@
 
         From sums otherwise authorized to be appropriated, there are authorized to be appropriated to the Department of Education for the purposes of this section $1,500,000 for fiscal year 1992; $1,700,000 for fiscal year 1993; $1,900,000 for fiscal year 1994; $2,100,000 for fiscal year 1995; and $2,300,000 for fiscal year 1996.
 
-([Pub. L. 102–194, title II, § 206][/us/pl/102/194/s206], Dec. 9, 1991, [105 Stat. 1602][/us/stat/105/1602].)
+([Pub. L. 102–194, title II][/us/pl/102/194/tII], § 206, Dec. 9, 1991, [105 Stat. 1602][/us/stat/105/1602].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/102/194/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2Fs206
+[/us/pl/102/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2FtII
 [/us/stat/105/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1602
 
 

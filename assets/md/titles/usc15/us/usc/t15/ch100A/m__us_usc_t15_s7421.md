@@ -25,7 +25,7 @@
 
         The term “information system” has the meaning given that term in [section 3502 of title 44][/us/usc/t44/s3502].
 
-([Pub. L. 113–274, § 2][/us/pl/113/274/s2], Dec. 18, 2014, [128 Stat. 2971][/us/stat/128/2971].)
+([Pub. L. 113–274][/us/pl/113/274], § 2, Dec. 18, 2014, [128 Stat. 2971][/us/stat/128/2971].)
 
  __References in Text__ 
 
@@ -33,7 +33,7 @@
 
  __Short Title__ 
 
-[Pub. L. 113–274, § 1(a)][/us/pl/113/274/s1/a], Dec. 18, 2014, [128 Stat. 2971][/us/stat/128/2971], provided that: 
+[Pub. L. 113–274][/us/pl/113/274], § 1(a), Dec. 18, 2014, [128 Stat. 2971][/us/stat/128/2971], provided that: 
 
 > “This Act \[enacting this chapter and amending sections 272, 278g–3, 7403, and 7406 of this title\] may be cited as the ‘Cybersecurity Enhancement Act of 2014’.”
 
@@ -45,11 +45,11 @@
 ----------
 
 [/us/usc/t44/s3502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3502
-[/us/pl/113/274/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs2
+[/us/pl/113/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274
 [/us/stat/128/2971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2971
 [/us/pl/113/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274
 [/us/stat/128/2971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2971
-[/us/pl/113/274/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs1%2Fa
+[/us/pl/113/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274
 [/us/stat/128/2971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2971
 
 

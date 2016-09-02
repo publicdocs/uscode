@@ -113,7 +113,7 @@
 
                 (ii) if the user establishes a continuing relationship with the consumer, and the user regularly and in the ordinary course of business furnishes information to the consumer reporting agency from which the notice of discrepancy pertaining to the consumer was obtained, to reconcile the address of the consumer with the consumer reporting agency by furnishing such address to such consumer reporting agency as part of information regularly furnished by the user for the period in which the relationship is established.
 
-([Pub. L. 90–321, title VI, § 605][/us/pl/90/321/s605], as added [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1129][/us/stat/84/1129]; amended [Pub. L. 95–598, title III, § 312(b)][/us/pl/95/598/s312/b], Nov. 6, 1978, [92 Stat. 2676][/us/stat/92/2676]; [Pub. L. 104–208, div. A, title II, § 2406(a)][/us/pl/104/208/s2406/a]–(e)(1), Sept. 30, 1996, [110 Stat. 3009–434][/us/stat/110/3009-434], 3009–435; [Pub. L. 105–347, § 5][/us/pl/105/347/s5], Nov. 2, 1998, [112 Stat. 3211][/us/stat/112/3211]; [Pub. L. 108–159, title I, § 113][/us/pl/108/159/s113], title II, § 212(d), title III, § 315, title IV, § 412(b), (c), title VIII, § 811(c)(1), (2)(A), Dec. 4, 2003, [117 Stat. 1959][/us/stat/117/1959], 1977, 1996, 2002, 2011; [Pub. L. 111–203, title X, § 1088(a)(2)(D)][/us/pl/111/203/s1088/a/2/D], (5), July 21, 2010, [124 Stat. 2087][/us/stat/124/2087].)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 605, as added [Pub. L. 91–508, title VI][/us/pl/91/508/tVI], § 601, Oct. 26, 1970, [84 Stat. 1129][/us/stat/84/1129]; amended [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 312(b), Nov. 6, 1978, [92 Stat. 2676][/us/stat/92/2676]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2406(a)–(e)(1), Sept. 30, 1996, [110 Stat. 3009–434][/us/stat/110/3009-434], 3009–435; [Pub. L. 105–347][/us/pl/105/347], § 5, Nov. 2, 1998, [112 Stat. 3211][/us/stat/112/3211]; [Pub. L. 108–159, title I][/us/pl/108/159/tI], § 113, title II, § 212(d), title III, § 315, title IV, § 412(b), (c), title VIII, § 811(c)(1), (2)(A), Dec. 4, 2003, [117 Stat. 1959][/us/stat/117/1959], 1977, 1996, 2002, 2011; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1088(a)(2)(D), (5), July 21, 2010, [124 Stat. 2087][/us/stat/124/2087].)
 
  __References in Text__ 
 
@@ -121,39 +121,39 @@
 
  __Amendments__ 
 
-    2010—Subsec. (h)(2)(A). [Pub. L. 111–203, § 1088(a)(5)][/us/pl/111/203/s1088/a/5], substituted “, in consultation with the Federal banking agencies, the National Credit Union Administration, and the Federal Trade Commission,” for “with respect to the entities that are subject to their respective enforcement authority under [section 1681s of this title][/us/usc/t15/s1681s]”.
+    2010—Subsec. (h)(2)(A). [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(5), substituted “, in consultation with the Federal banking agencies, the National Credit Union Administration, and the Federal Trade Commission,” for “with respect to the entities that are subject to their respective enforcement authority under [section 1681s of this title][/us/usc/t15/s1681s]”.
 
-    [Pub. L. 111–203, § 1088(a)(2)(D)][/us/pl/111/203/s1088/a/2/D], substituted “The Bureau shall” for “The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly”.
+    [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(2)(D), substituted “The Bureau shall” for “The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly”.
 
-    2003—Subsec. (a)(1). [Pub. L. 108–159, § 811(c)(1)][/us/pl/108/159/s811/c/1], substituted “(1) Cases” for “(1) cases”.
+    2003—Subsec. (a)(1). [Pub. L. 108–159][/us/pl/108/159], § 811(c)(1), substituted “(1) Cases” for “(1) cases”.
 
-    Subsec. (a)(2). [Pub. L. 108–159, § 811(c)(2)(A)][/us/pl/108/159/s811/c/2/A], made technical correction to directory language of [Pub. L. 105–347, § 5(1)][/us/pl/105/347/s5/1]. See 1998 Amendment note below.
+    Subsec. (a)(2). [Pub. L. 108–159][/us/pl/108/159], § 811(c)(2)(A), made technical correction to directory language of [Pub. L. 105–347][/us/pl/105/347], § 5(1). See 1998 Amendment note below.
 
-    Subsec. (a)(6). [Pub. L. 108–159, § 412(b)][/us/pl/108/159/s412/b], added par. (6).
+    Subsec. (a)(6). [Pub. L. 108–159][/us/pl/108/159], § 412(b), added par. (6).
 
-    Subsec. (b). [Pub. L. 108–159, § 412(c)][/us/pl/108/159/s412/c], substituted “The provisions of paragraphs (1) through (5) of subsection (a)” for “The provisions of subsection (a)” in introductory provisions.
+    Subsec. (b). [Pub. L. 108–159][/us/pl/108/159], § 412(c), substituted “The provisions of paragraphs (1) through (5) of subsection (a)” for “The provisions of subsection (a)” in introductory provisions.
 
-    Subsec. (d). [Pub. L. 108–159, § 212(d)][/us/pl/108/159/s212/d], designated existing provisions as par. (1), inserted heading, and added par. (2).
+    Subsec. (d). [Pub. L. 108–159][/us/pl/108/159], § 212(d), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-    Subsec. (g). [Pub. L. 108–159, § 113][/us/pl/108/159/s113], added subsec. (g).
+    Subsec. (g). [Pub. L. 108–159][/us/pl/108/159], § 113, added subsec. (g).
 
-    Subsec. (h). [Pub. L. 108–159, § 315][/us/pl/108/159/s315], added subsec. (h).
+    Subsec. (h). [Pub. L. 108–159][/us/pl/108/159], § 315, added subsec. (h).
 
-    1998—Subsec. (a)(2). [Pub. L. 105–347, § 5(1)][/us/pl/105/347/s5/1], as amended by [Pub. L. 108–159, § 811(c)(2)(A)][/us/pl/108/159/s811/c/2/A], substituted “Civil suits, civil judgments, and records of arrest that” for “Suits and judgments which”.
+    1998—Subsec. (a)(2). [Pub. L. 105–347][/us/pl/105/347], § 5(1), as amended by [Pub. L. 108–159][/us/pl/108/159], § 811(c)(2)(A), substituted “Civil suits, civil judgments, and records of arrest that” for “Suits and judgments which”.
 
-    Subsec. (a)(5), (6). [Pub. L. 105–347, § 5(2)][/us/pl/105/347/s5/2]–(4), redesignated par. (6) as (5), inserted “, other than records of convictions of crimes” after “of information”, and struck out former par. (5) which read as follows: “Records of arrest, indictment, or conviction of crime which, from date of disposition, release, or parole, antedate the report by more than seven years.”
+    Subsec. (a)(5), (6). [Pub. L. 105–347][/us/pl/105/347], § 5(2)–(4), redesignated par. (6) as (5), inserted “, other than records of convictions of crimes” after “of information”, and struck out former par. (5) which read as follows: “Records of arrest, indictment, or conviction of crime which, from date of disposition, release, or parole, antedate the report by more than seven years.”
 
-    1996—[Pub. L. 104–208, § 2406(e)(1)][/us/pl/104/208/s2406/e/1], amended section catchline.
+    1996—[Pub. L. 104–208][/us/pl/104/208], § 2406(e)(1), amended section catchline.
 
-    Subsec. (a). [Pub. L. 104–208, § 2406(a)(1)][/us/pl/104/208/s2406/a/1], inserted heading.
+    Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 2406(a)(1), inserted heading.
 
-    Subsec. (b). [Pub. L. 104–208, § 2406(a)(2)][/us/pl/104/208/s2406/a/2], substituted “$150,000” for “$50,000” in pars. (1) and (2) and “$75,000” for “$20,000” in par. (3).
+    Subsec. (b). [Pub. L. 104–208][/us/pl/104/208], § 2406(a)(2), substituted “$150,000” for “$50,000” in pars. (1) and (2) and “$75,000” for “$20,000” in par. (3).
 
-    Subsec. (c). [Pub. L. 104–208, § 2406(b)][/us/pl/104/208/s2406/b], added subsec. (c).
+    Subsec. (c). [Pub. L. 104–208][/us/pl/104/208], § 2406(b), added subsec. (c).
 
-    Subsec. (d). [Pub. L. 104–208, § 2406(c)][/us/pl/104/208/s2406/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–208][/us/pl/104/208], § 2406(c), added subsec. (d).
 
-    Subsecs. (e), (f). [Pub. L. 104–208, § 2406(d)][/us/pl/104/208/s2406/d], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 104–208][/us/pl/104/208], § 2406(d), added subsecs. (e) and (f).
 
     1978—Subsec. (a)(1). [Pub. L. 95–598][/us/pl/95/598] substituted “cases under title 11 or under the Bankruptcy Act that, from the date of entry of the order for relief or the date of adjudication, as the case may be, antedate the report by more than 10 years” for “Bankruptcies which, from date of adjudication of the most recent bankruptcy, antedate the report by more than fourteen years”.
 
@@ -167,7 +167,7 @@
 
     Amendment by [section 412 of Pub. L. 108–159][/us/pl/108/159/s412] effective at end of 15-month period beginning on Dec. 4, 2003, see [section 412(g) of Pub. L. 108–159][/us/pl/108/159/s412/g], set out as a note under [section 1681b of this title][/us/usc/t15/s1681b].
 
-[Pub. L. 108–159, title VIII, § 811(c)(2)(B)][/us/pl/108/159/s811/c/2/B], Dec. 4, 2003, [117 Stat. 2011][/us/stat/117/2011], provided that: 
+[Pub. L. 108–159, title VIII][/us/pl/108/159/tVIII], § 811(c)(2)(B), Dec. 4, 2003, [117 Stat. 2011][/us/stat/117/2011], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall be deemed to have the same effective date as [section 5(1) of Public Law 105–347][/us/pl/105/347/s5/1] ([112 Stat. 3211][/us/stat/112/3211]) \[see Effective Date of 1998 Amendment note below\].”
 
@@ -194,43 +194,43 @@
 [/us/usc/t15/s1681s–2/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s%E2%80%932%2Fa%2F4
 [/us/usc/t15/s1681s–2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s%E2%80%932%2Fa%2F3
 [/us/usc/t15/s1681a/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fp
-[/us/pl/90/321/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs605
-[/us/pl/91/508/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs601
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/91/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtVI
 [/us/stat/84/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1129
-[/us/pl/95/598/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs312%2Fb
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2676
-[/us/pl/104/208/s2406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2406%2Fa
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-434
-[/us/pl/105/347/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347%2Fs5
+[/us/pl/105/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347
 [/us/stat/112/3211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3211
-[/us/pl/108/159/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs113
+[/us/pl/108/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtI
 [/us/stat/117/1959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1959
-[/us/pl/111/203/s1088/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FD
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2087
 [/us/act/1898-07-01/ch541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1898-07-01%2Fch541
 [/us/stat/30/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F544
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2549
-[/us/pl/111/203/s1088/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F5
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s1681s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s
-[/us/pl/111/203/s1088/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FD
-[/us/pl/108/159/s811/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs811%2Fc%2F1
-[/us/pl/108/159/s811/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs811%2Fc%2F2%2FA
-[/us/pl/105/347/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347%2Fs5%2F1
-[/us/pl/108/159/s412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs412%2Fb
-[/us/pl/108/159/s412/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs412%2Fc
-[/us/pl/108/159/s212/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs212%2Fd
-[/us/pl/108/159/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs113
-[/us/pl/108/159/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs315
-[/us/pl/105/347/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347%2Fs5%2F1
-[/us/pl/108/159/s811/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs811%2Fc%2F2%2FA
-[/us/pl/105/347/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347%2Fs5%2F2
-[/us/pl/104/208/s2406/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2406%2Fe%2F1
-[/us/pl/104/208/s2406/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2406%2Fa%2F1
-[/us/pl/104/208/s2406/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2406%2Fa%2F2
-[/us/pl/104/208/s2406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2406%2Fb
-[/us/pl/104/208/s2406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2406%2Fc
-[/us/pl/104/208/s2406/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2406%2Fd
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/105/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/105/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/105/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
@@ -241,7 +241,7 @@
 [/us/pl/108/159/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs412
 [/us/pl/108/159/s412/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs412%2Fg
 [/us/usc/t15/s1681b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681b
-[/us/pl/108/159/s811/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs811%2Fc%2F2%2FB
+[/us/pl/108/159/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtVIII
 [/us/stat/117/2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2011
 [/us/pl/105/347/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347%2Fs5%2F1
 [/us/stat/112/3211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3211

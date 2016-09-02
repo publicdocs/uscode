@@ -17,7 +17,7 @@
 
     An imported product, fabric, or related material to which flammability standards under this chapter are applicable shall not be delivered from customs custody except as provided in [section 1499 of title 19][/us/usc/t19/s1499]. In the event an imported product, fabric, or related material is delivered from customs custody under bond, as provided in [section 1499 of title 19][/us/usc/t19/s1499] and fails to conform with an applicable flammability standard in effect on the date of entry of such merchandise, the Secretary of the Treasury shall demand redelivery and in the absence thereof shall assert a claim for liquidated damages for breach of a condition of the bond arising out of such failure to conform or redeliver in accordance with regulations prescribed by the Secretary of the Treasury or his delegate. When asserting a claim for liquidated damages against an importer for failure to redeliver such nonconforming goods, the liquidated damages shall be not less than 10 per centum of the value of the nonconforming merchandise if, within five years prior thereto, the importer has previously been assessed liquidated damages for failure to redeliver nonconforming goods in response to a demand from the Secretary of the Treasury as set forth above.
 
-([June 30, 1953, ch. 164, § 9][/us/act/1953-06-30/ch164/s9], [67 Stat. 114][/us/stat/67/114]; [Pub. L. 90–189, § 7][/us/pl/90/189/s7], Dec. 14, 1967, [81 Stat. 572][/us/stat/81/572].)
+([June 30, 1953, ch. 164][/us/act/1953-06-30/ch164], § 9, [67 Stat. 114][/us/stat/67/114]; [Pub. L. 90–189][/us/pl/90/189], § 7, Dec. 14, 1967, [81 Stat. 572][/us/stat/81/572].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 
 [/us/usc/t19/s1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1499
 [/us/usc/t19/s1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1499
-[/us/act/1953-06-30/ch164/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch164%2Fs9
+[/us/act/1953-06-30/ch164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch164
 [/us/stat/67/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F114
-[/us/pl/90/189/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189%2Fs7
+[/us/pl/90/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189
 [/us/stat/81/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F572
 [/us/pl/90/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189
 [/us/usc/t19/s1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1499

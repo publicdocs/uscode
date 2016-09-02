@@ -49,7 +49,7 @@
 
         (3) If the Commission authorizes a natural gas company to charge market-based rates under this subsection, the Commission shall review periodically whether the market-based rate is just, reasonable, and not unduly discriminatory or preferential.
 
-([June 21, 1938, ch. 556, § 4][/us/act/1938-06-21/ch556/s4], [52 Stat. 822][/us/stat/52/822]; [Pub. L. 87–454][/us/pl/87/454], May 21, 1962, [76 Stat. 72][/us/stat/76/72]; [Pub. L. 109–58, title III, § 312][/us/pl/109/58/s312], Aug. 8, 2005, [119 Stat. 688][/us/stat/119/688].)
+([June 21, 1938, ch. 556][/us/act/1938-06-21/ch556], § 4, [52 Stat. 822][/us/stat/52/822]; [Pub. L. 87–454][/us/pl/87/454], May 21, 1962, [76 Stat. 72][/us/stat/76/72]; [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 312, Aug. 8, 2005, [119 Stat. 688][/us/stat/119/688].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
  __Advance Recovery of Expenses Incurred by Natural Gas Companies for Natural Gas Research, Development, and Demonstration Projects__ 
 
-    [Pub. L. 102–104, title III][/us/pl/102/104], Aug. 17, 1991, [105 Stat. 531][/us/stat/105/531], authorized Federal Energy Regulatory Commission, pursuant to this section, to allow recovery, in advance, of expenses by natural-gas companies for research, development and demonstration activities by Gas Research Institute for projects on use of natural gas in motor vehicles and on use of natural gas to control emissions from combustion of other fuels, subject to Commission finding that benefits, including environmental benefits, to both existing and future ratepayers resulting from such activities exceed all direct costs to both existing and future ratepayers, prior to repeal by [Pub. L. 102–486, title IV, § 408(c)][/us/pl/102/486/s408/c], Oct. 24, 1992, [106 Stat. 2882][/us/stat/106/2882].
+    [Pub. L. 102–104, title III][/us/pl/102/104/tIII], Aug. 17, 1991, [105 Stat. 531][/us/stat/105/531], authorized Federal Energy Regulatory Commission, pursuant to this section, to allow recovery, in advance, of expenses by natural-gas companies for research, development and demonstration activities by Gas Research Institute for projects on use of natural gas in motor vehicles and on use of natural gas to control emissions from combustion of other fuels, subject to Commission finding that benefits, including environmental benefits, to both existing and future ratepayers resulting from such activities exceed all direct costs to both existing and future ratepayers, prior to repeal by [Pub. L. 102–486, title IV][/us/pl/102/486/tIV], § 408(c), Oct. 24, 1992, [106 Stat. 2882][/us/stat/106/2882].
 
 ----------
 
@@ -73,20 +73,20 @@
 ----------
 
 [/us/usc/t15/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3301
-[/us/act/1938-06-21/ch556/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556%2Fs4
+[/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F822
 [/us/pl/87/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F454
 [/us/stat/76/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F72
-[/us/pl/109/58/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs312
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F688
 [/us/pl/95/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621
 [/us/stat/92/3350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3350
 [/us/usc/t15/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3301
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/87/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F454
-[/us/pl/102/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F104
+[/us/pl/102/104/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F104%2FtIII
 [/us/stat/105/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F531
-[/us/pl/102/486/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs408%2Fc
+[/us/pl/102/486/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIV
 [/us/stat/106/2882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2882
 
 

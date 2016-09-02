@@ -13,13 +13,13 @@
 
 [Previous](./../../../..//us/usc/t15/ch40/m__us_usc_t15_s1532.md) | [Next](./../../../..//us/usc/t15/ch40/m__us_usc_t15_s1534.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1533)
 
-## § 1533. Repealed. [Pub. L. 111–358, title IV, § 407(c)][/us/pl/111/358/s407/c], Jan. 4, 2011, [124 Stat. 4004][/us/stat/124/4004]
+## § 1533. Repealed. [Pub. L. 111–358, title IV][/us/pl/111/358/tIV], § 407(c), Jan. 4, 2011, [124 Stat. 4004][/us/stat/124/4004]
 
-    Section, [Pub. L. 100–418, title V, § 5163(d)][/us/pl/100/418/s5163/d], Aug. 23, 1988, [102 Stat. 1451][/us/stat/102/1451], established the Commerce, Science, and Technology Fellowship Program within the Department of Commerce.
+    Section, [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5163(d), Aug. 23, 1988, [102 Stat. 1451][/us/stat/102/1451], established the Commerce, Science, and Technology Fellowship Program within the Department of Commerce.
 
  __Codification__ 
 
-    [Pub. L. 111–358, § 407(c)][/us/pl/111/358/s407/c], which directed the repeal of section 5163(d) of the Omnibus Trade and Competition Act of 1988, was executed by repealing this section, which was section 5163(d) of the Omnibus Trade and Competitiveness Act of 1988 ([Pub. L. 100–418][/us/pl/100/418]), to reflect the probable intent of Congress.
+    [Pub. L. 111–358][/us/pl/111/358], § 407(c), which directed the repeal of section 5163(d) of the Omnibus Trade and Competition Act of 1988, was executed by repealing this section, which was section 5163(d) of the Omnibus Trade and Competitiveness Act of 1988 ([Pub. L. 100–418][/us/pl/100/418]), to reflect the probable intent of Congress.
 
 ----------
 
@@ -28,11 +28,11 @@
 ----------
 ----------
 
-[/us/pl/111/358/s407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs407%2Fc
+[/us/pl/111/358/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtIV
 [/us/stat/124/4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4004
-[/us/pl/100/418/s5163/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5163%2Fd
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1451
-[/us/pl/111/358/s407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs407%2Fc
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 
 

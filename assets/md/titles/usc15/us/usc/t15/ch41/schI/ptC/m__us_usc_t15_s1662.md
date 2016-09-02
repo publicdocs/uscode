@@ -21,7 +21,7 @@
 
     (2) that a specified downpayment is required in connection with any extension of consumer credit, unless the creditor usually and customarily arranges downpayments in that amount.
 
-([Pub. L. 90–321, title I, § 142][/us/pl/90/321/s142], May 29, 1968, [82 Stat. 158][/us/stat/82/158].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 142, May 29, 1968, [82 Stat. 158][/us/stat/82/158].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/90/321/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs142
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
 [/us/stat/82/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F158
 
 

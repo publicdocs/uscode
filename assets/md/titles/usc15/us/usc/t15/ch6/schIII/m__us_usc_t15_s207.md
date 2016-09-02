@@ -17,7 +17,7 @@
 
     The Secretary of Commerce is authorized and required to prepare suitable standards in accordance with [section 206 of this title][/us/usc/t15/s206].
 
-([Mar. 3, 1893, ch. 221, § 2][/us/act/1893-03-03/ch221/s2], [27 Stat. 746][/us/stat/27/746]; [Feb. 14, 1903, ch. 552, § 10][/us/act/1903-02-14/ch552/s10], [32 Stat. 829][/us/stat/32/829]; [Mar. 4, 1913, ch. 141, § 1][/us/act/1913-03-04/ch141/s1], [37 Stat. 736][/us/stat/37/736].)
+([Mar. 3, 1893, ch. 221][/us/act/1893-03-03/ch221], § 2, [27 Stat. 746][/us/stat/27/746]; [Feb. 14, 1903, ch. 552][/us/act/1903-02-14/ch552], § 10, [32 Stat. 829][/us/stat/32/829]; [Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], § 1, [37 Stat. 736][/us/stat/37/736].)
 
  __Change of Name__ 
 
@@ -35,11 +35,11 @@
 ----------
 
 [/us/usc/t15/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs206
-[/us/act/1893-03-03/ch221/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-03%2Fch221%2Fs2
+[/us/act/1893-03-03/ch221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1893-03-03%2Fch221
 [/us/stat/27/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F746
-[/us/act/1903-02-14/ch552/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552%2Fs10
+[/us/act/1903-02-14/ch552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552
 [/us/stat/32/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F829
-[/us/act/1913-03-04/ch141/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs1
+[/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F736
 
 

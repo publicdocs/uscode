@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs720" data-uslm-ref="/us/usc/t15/s720">720</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs720l" data-uslm-ref="/us/usc/t15/s720l">720l.</a>  </td>
 
     <td> Sense of Congress concerning natural gas demand.  </td>
 

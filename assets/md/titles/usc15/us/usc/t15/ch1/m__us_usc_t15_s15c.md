@@ -49,7 +49,7 @@
 
         (2) the court may, in its discretion, award a reasonable attorney’s fee to a prevailing defendant upon a finding that the State attorney general has acted in bad faith, vexatiously, wantonly, or for oppressive reasons.
 
-([Oct. 15, 1914, ch. 323, § 4C][/us/act/1914-10-15/ch323/s4C], as added [Pub. L. 94–435, title III, § 301][/us/pl/94/435/s301], Sept. 30, 1976, [90 Stat. 1394][/us/stat/90/1394]; amended [Pub. L. 96–349, § 4(a)(3)][/us/pl/96/349/s4/a/3], Sept. 12, 1980, [94 Stat. 1157][/us/stat/94/1157].)
+([Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], § 4C, as added [Pub. L. 94–435, title III][/us/pl/94/435/tIII], § 301, Sept. 30, 1976, [90 Stat. 1394][/us/stat/90/1394]; amended [Pub. L. 96–349][/us/pl/96/349], § 4(a)(3), Sept. 12, 1980, [94 Stat. 1157][/us/stat/94/1157].)
 
  __References in Text__ 
 
@@ -65,7 +65,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 94–435, title III, § 304][/us/pl/94/435/s304], Sept. 30, 1976, [90 Stat. 1396][/us/stat/90/1396], provided that: 
+[Pub. L. 94–435, title III][/us/pl/94/435/tIII], § 304, Sept. 30, 1976, [90 Stat. 1396][/us/stat/90/1396], provided that: 
 
 > “The amendments to the Clayton Act made by section 301 of this Act \[enacting this section and sections 15d to 15h of this title\] shall not apply to any injury sustained prior to the date of enactment of this Act \[Sept. 30, 1976\].”
 
@@ -77,17 +77,17 @@
 ----------
 
 [/us/usc/t15/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs15
-[/us/act/1914-10-15/ch323/s4C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323%2Fs4C
-[/us/pl/94/435/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs301
+[/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
+[/us/pl/94/435/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2FtIII
 [/us/stat/90/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1394
-[/us/pl/96/349/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349%2Fs4%2Fa%2F3
+[/us/pl/96/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349
 [/us/stat/94/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1157
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/pl/96/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349
 [/us/pl/96/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349
 [/us/pl/96/349/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349%2Fs4%2Fb
 [/us/usc/t15/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs15
-[/us/pl/94/435/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs304
+[/us/pl/94/435/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2FtIII
 [/us/stat/90/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1396
 
 

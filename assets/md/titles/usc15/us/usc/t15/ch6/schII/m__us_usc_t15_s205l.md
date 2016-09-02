@@ -53,7 +53,7 @@
 
         The provisions of subsections (b) and (c) of this section shall not apply to Federal contracts to acquire construction products for the construction of facilities outside of the United States and its territories.
 
-    (e) __Repealed.__  __[__  __Pub. L. 108–423, § 6__  __][/us/pl/108/423/s6]__  __,__  __Nov. 30, 2004__  __,__  __[__  __118 Stat. 2402__  __][/us/stat/118/2402]__ 
+    (e) __Repealed.__  __[__  __Pub. L. 108–423__  __][/us/pl/108/423]__  __, § 6,__  __Nov. 30, 2004__  __,__  __[__  __118 Stat. 2402__  __][/us/stat/118/2402]__ 
 
     (f) __Agency ombudsman__ 
 
@@ -83,7 +83,7 @@
 
         (5) Nothing in this section shall be construed to supersede the bid protest process established under subchapter V of chapter 35 of title 31.
 
-([Pub. L. 94–168, § 14][/us/pl/94/168/s14], as added and amended [Pub. L. 104–289][/us/pl/104/289], §§ 4(a), 5, Oct. 11, 1996, [110 Stat. 3412][/us/stat/110/3412], 3414; [Pub. L. 108–423, § 6][/us/pl/108/423/s6], Nov. 30, 2004, [118 Stat. 2402][/us/stat/118/2402].)
+([Pub. L. 94–168][/us/pl/94/168], § 14, as added and amended [Pub. L. 104–289][/us/pl/104/289], §§ 4(a), 5, Oct. 11, 1996, [110 Stat. 3412][/us/stat/110/3412], 3414; [Pub. L. 108–423][/us/pl/108/423], § 6, Nov. 30, 2004, [118 Stat. 2402][/us/stat/118/2402].)
 
  __References in Text__ 
 
@@ -91,13 +91,13 @@
 
  __Codification__ 
 
-    In subsec. (a), “division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251][/us/usc/t41/s251] et seq.)”, “[section 3307(d) of title 41][/us/usc/t41/s3307/d]” substituted for “section 314B(c) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 264b(c)][/us/usc/t41/s264b/c])”, “section 3307(b) to (d) of title 41” substituted for “section 314B of the Federal Property and Administrative Services Act of 1949”, and “or 3307(b) to (d)” substituted for “or 314B” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a), “division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “title III of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251][/us/usc/t41/s251] et seq.)”, “[section 3307(d) of title 41][/us/usc/t41/s3307/d]” substituted for “section 314B(c) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 264b(c)][/us/usc/t41/s264b/c])”, “section 3307(b) to (d) of title 41” substituted for “section 314B of the Federal Property and Administrative Services Act of 1949”, and “or 3307(b) to (d)” substituted for “or 314B” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
     2004—Subsec. (e). [Pub. L. 108–423][/us/pl/108/423] struck out heading and text of subsec. (e). Text read as follows: “The provisions contained in subsections (b) and (c) of this section shall expire 10 years from the effective date of the Savings in Construction Act of 1996.”
 
-    1996—[Pub. L. 104–289, § 5][/us/pl/104/289/s5], added subsec. (f).
+    1996—[Pub. L. 104–289][/us/pl/104/289], § 5, added subsec. (f).
 
  __Effective Date; Savings Provision__ 
 
@@ -117,22 +117,22 @@
 [/us/usc/t10/s2377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2377
 [/us/usc/t15/s205b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs205b
 [/us/usc/t15/s205b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs205b
-[/us/pl/108/423/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423%2Fs6
+[/us/pl/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423
 [/us/stat/118/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2402
 [/us/usc/t15/s205b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs205b%2F2
-[/us/pl/94/168/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F168%2Fs14
+[/us/pl/94/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F168
 [/us/pl/104/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F289
 [/us/stat/110/3412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3412
-[/us/pl/108/423/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423%2Fs6
+[/us/pl/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423
 [/us/stat/118/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2402
 [/us/usc/t15/s205c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs205c
 [/us/usc/t41/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs251
 [/us/usc/t41/s3307/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs3307%2Fd
 [/us/usc/t41/s264b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs264b%2Fc
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423
-[/us/pl/104/289/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F289%2Fs5
+[/us/pl/104/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F289
 [/us/pl/104/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F289
 [/us/pl/104/289/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F289%2Fs6%2Fb
 [/us/usc/t15/s205c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs205c

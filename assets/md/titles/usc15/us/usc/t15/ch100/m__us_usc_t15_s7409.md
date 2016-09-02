@@ -17,7 +17,7 @@
 
     The Director of the National Science Foundation and the Director of the National Institute of Standards and Technology shall coordinate the research programs authorized by this chapter or pursuant to amendments made by this chapter. The Director of the Office of Science and Technology Policy shall work with the Director of the National Science Foundation and the Director of the National Institute of Standards and Technology to ensure that programs authorized by this chapter or pursuant to amendments made by this chapter are taken into account in any government-wide cyber security research effort.
 
-([Pub. L. 107–305, § 13][/us/pl/107/305/s13], Nov. 27, 2002, [116 Stat. 2380][/us/stat/116/2380].)
+([Pub. L. 107–305][/us/pl/107/305], § 13, Nov. 27, 2002, [116 Stat. 2380][/us/stat/116/2380].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/305/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305%2Fs13
+[/us/pl/107/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305
 [/us/stat/116/2380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2380
 [/us/pl/107/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305
 [/us/stat/116/2367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2367

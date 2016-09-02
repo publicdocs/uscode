@@ -27,11 +27,11 @@
 
         If the right to exercise such review is declined, or if no such review is sought within the time stated in the rules promulgated by the Commission, then the action of any such division of the Commission, individual Commissioner, administrative law judge, employee, or employee board, shall, for all purposes, including appeal or review thereof, be deemed the action of the Commission.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 4A, as added [Pub. L. 100–181, title III, § 308(a)][/us/pl/100/181/s308/a], Dec. 4, 1987, [101 Stat. 1254][/us/stat/101/1254].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 4A, as added [Pub. L. 100–181, title III][/us/pl/100/181/tIII], § 308(a), Dec. 4, 1987, [101 Stat. 1254][/us/stat/101/1254].)
 
  __Prior Provisions__ 
 
-    A prior section 78d–1, [Pub. L. 87–592, § 1][/us/pl/87/592/s1], Aug. 20, 1962, [76 Stat. 394][/us/stat/76/394]; [Pub. L. 94–29, § 25][/us/pl/94/29/s25], June 4, 1975, [89 Stat. 163][/us/stat/89/163]; [Pub. L. 95–251, § 2(a)(4)][/us/pl/95/251/s2/a/4], Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183], provided for subject matter similar to the provisions comprising this section, prior to repeal by [section 308(b) of Pub. L. 100–181][/us/pl/100/181/s308/b].
+    A prior section 78d–1, [Pub. L. 87–592][/us/pl/87/592], § 1, Aug. 20, 1962, [76 Stat. 394][/us/stat/76/394]; [Pub. L. 94–29][/us/pl/94/29], § 25, June 4, 1975, [89 Stat. 163][/us/stat/89/163]; [Pub. L. 95–251][/us/pl/95/251], § 2(a)(4), Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183], provided for subject matter similar to the provisions comprising this section, prior to repeal by [section 308(b) of Pub. L. 100–181][/us/pl/100/181/s308/b].
 
 ----------
 
@@ -45,13 +45,13 @@
 [/us/usc/t15/s77h/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77h%2Fc
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/100/181/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs308%2Fa
+[/us/pl/100/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtIII
 [/us/stat/101/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1254
-[/us/pl/87/592/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F592%2Fs1
+[/us/pl/87/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F592
 [/us/stat/76/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F394
-[/us/pl/94/29/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs25
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F163
-[/us/pl/95/251/s2/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs2%2Fa%2F4
+[/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/stat/92/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F183
 [/us/pl/100/181/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs308%2Fb
 

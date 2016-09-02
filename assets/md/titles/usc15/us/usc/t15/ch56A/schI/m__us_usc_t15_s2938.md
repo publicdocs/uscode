@@ -31,7 +31,7 @@
 
         Nothing in this subchapter shall be construed, interpreted, or applied to preclude or delay the planning or implementation of any Federal action designed, in whole or in part, to address the threats of stratospheric ozone depletion or global climate change.
 
-([Pub. L. 101–606, title I, § 108][/us/pl/101/606/s108], Nov. 16, 1990, [104 Stat. 3101][/us/stat/104/3101].)
+([Pub. L. 101–606, title I][/us/pl/101/606/tI], § 108, Nov. 16, 1990, [104 Stat. 3101][/us/stat/104/3101].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t15/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2901
 [/us/usc/t15/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2901
-[/us/pl/101/606/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2Fs108
+[/us/pl/101/606/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2FtI
 [/us/stat/104/3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3101
 [/us/pl/95/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F367
 [/us/stat/92/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F601

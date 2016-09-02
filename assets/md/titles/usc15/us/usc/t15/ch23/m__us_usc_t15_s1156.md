@@ -23,7 +23,7 @@
 
         The Secretary is authorized to call upon other departments and independent establishments and agencies of the Government to provide, with their consent, such available services, facilities, or other cooperation as he shall deem necessary or helpful in carrying out the provisions of this chapter, and he is directed to utilize existing facilities to the full extent deemed feasible.
 
-([Sept. 9, 1950, ch. 936, § 6][/us/act/1950-09-09/ch936/s6], [64 Stat. 824][/us/stat/64/824].)
+([Sept. 9, 1950, ch. 936][/us/act/1950-09-09/ch936], § 6, [64 Stat. 824][/us/stat/64/824].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1950-09-09/ch936/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-09%2Fch936%2Fs6
+[/us/act/1950-09-09/ch936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-09%2Fch936
 [/us/stat/64/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F824
 
 

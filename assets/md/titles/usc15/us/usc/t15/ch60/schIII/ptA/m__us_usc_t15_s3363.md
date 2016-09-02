@@ -183,7 +183,7 @@
 
         (3) any use of natural gas the curtailment of which the President determines would endanger life, health, or maintenance of physical property.
 
-([Pub. L. 95–621, title III, § 303][/us/pl/95/621/s303], Nov. 9, 1978, [92 Stat. 3383][/us/stat/92/3383].)
+([Pub. L. 95–621, title III][/us/pl/95/621/tIII], § 303, Nov. 9, 1978, [92 Stat. 3383][/us/stat/92/3383].)
 
 ----------
 
@@ -198,7 +198,7 @@
 [/us/usc/t15/s717z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717z
 [/us/usc/t15/s3301/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3301%2F19
 [/us/usc/t15/s717z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717z
-[/us/pl/95/621/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs303
+[/us/pl/95/621/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2FtIII
 [/us/stat/92/3383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3383
 
 

@@ -57,11 +57,11 @@
 
         (2) the structural integrity of the building.
 
-([Pub. L. 94–469, title II, § 215][/us/pl/94/469/s215], as added [Pub. L. 100–368, § 4(a)][/us/pl/100/368/s4/a], July 18, 1988, [102 Stat. 832][/us/stat/102/832].)
+([Pub. L. 94–469, title II][/us/pl/94/469/tII], § 215, as added [Pub. L. 100–368][/us/pl/100/368], § 4(a), July 18, 1988, [102 Stat. 832][/us/stat/102/832].)
 
  __Effective Date__ 
 
-[Pub. L. 100–368, § 4(c)][/us/pl/100/368/s4/c], July 18, 1988, [102 Stat. 833][/us/stat/102/833], provided that: 
+[Pub. L. 100–368][/us/pl/100/368], § 4(c), July 18, 1988, [102 Stat. 833][/us/stat/102/833], provided that: 
 
 > “Section 215 of the Toxic Substances Control Act \[this section\], as added by subsection (a), shall take effect on October 12, 1988.”
 
@@ -75,10 +75,10 @@
 [/us/usc/t15/s2645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2645
 [/us/usc/t20/s4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4014
 [/us/usc/t15/s2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2643
-[/us/pl/94/469/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs215
-[/us/pl/100/368/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F368%2Fs4%2Fa
+[/us/pl/94/469/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtII
+[/us/pl/100/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F368
 [/us/stat/102/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F832
-[/us/pl/100/368/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F368%2Fs4%2Fc
+[/us/pl/100/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F368
 [/us/stat/102/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F833
 
 

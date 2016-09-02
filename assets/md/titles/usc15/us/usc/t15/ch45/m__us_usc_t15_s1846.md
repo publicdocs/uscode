@@ -23,7 +23,7 @@
 
         The Government Accountability Office shall make a detailed audit of all accounts, books, records, and transactions of any borrower with respect to which an application for a loan guarantee is made under this chapter. The Government Accountability Office shall report the results of such audit to the Board and to the Congress.
 
-([Pub. L. 92–70, § 7][/us/pl/92/70/s7], Aug. 9, 1971, [85 Stat. 180][/us/stat/85/180]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 92–70][/us/pl/92/70], § 7, Aug. 9, 1971, [85 Stat. 180][/us/stat/85/180]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/pl/92/70/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70%2Fs7
+[/us/pl/92/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70
 [/us/stat/85/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F180
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 

@@ -17,7 +17,7 @@
 
     The National Institute of Standards and Technology shall annually submit to the Congress, at the time of the release of the President’s budget, a three year budget estimate for the Institute, including funding estimates for each major account and new initiative.
 
-([Pub. L. 100–519, title I, § 111][/us/pl/100/519/s111], Oct. 24, 1988, [102 Stat. 2592][/us/stat/102/2592].)
+([Pub. L. 100–519, title I][/us/pl/100/519/tI], § 111, Oct. 24, 1988, [102 Stat. 2592][/us/stat/102/2592].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/519/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs111
+[/us/pl/100/519/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2FtI
 [/us/stat/102/2592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2592
 
 

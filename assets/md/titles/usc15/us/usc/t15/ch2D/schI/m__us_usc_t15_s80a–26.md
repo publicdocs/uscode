@@ -73,7 +73,7 @@
 
             The Commission may issue such rules and regulations to carry out paragraph (2)(A) as it determines are necessary or appropriate in the public interest or for the protection of investors.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 26, [54 Stat. 827][/us/stat/54/827]; [Pub. L. 91–547, § 15][/us/pl/91/547/s15], Dec. 14, 1970, [84 Stat. 1424][/us/stat/84/1424]; [Pub. L. 100–181, title VI][/us/pl/100/181], §§ 618, 619, Dec. 4, 1987, [101 Stat. 1262][/us/stat/101/1262]; [Pub. L. 104–290, title II, § 205(a)][/us/pl/104/290/s205/a], Oct. 11, 1996, [110 Stat. 3429][/us/stat/110/3429]; [Pub. L. 106–102, title II, § 211(b)][/us/pl/106/102/s211/b], Nov. 12, 1999, [113 Stat. 1396][/us/stat/113/1396].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 26, [54 Stat. 827][/us/stat/54/827]; [Pub. L. 91–547][/us/pl/91/547], § 15, Dec. 14, 1970, [84 Stat. 1424][/us/stat/84/1424]; [Pub. L. 100–181, title VI][/us/pl/100/181/tVI], §§ 618, 619, Dec. 4, 1987, [101 Stat. 1262][/us/stat/101/1262]; [Pub. L. 104–290, title II][/us/pl/104/290/tII], § 205(a), Oct. 11, 1996, [110 Stat. 3429][/us/stat/110/3429]; [Pub. L. 106–102, title II][/us/pl/106/102/tII], § 211(b), Nov. 12, 1999, [113 Stat. 1396][/us/stat/113/1396].)
 
  __Amendments__ 
 
@@ -81,9 +81,9 @@
 
     1996—Subsec. (e). [Pub. L. 104–290][/us/pl/104/290] added subsec. (e).
 
-    1987—Subsec. (b). [Pub. L. 100–181, § 618][/us/pl/100/181/s618], substituted “intended” for “intend”.
+    1987—Subsec. (b). [Pub. L. 100–181][/us/pl/100/181], § 618, substituted “intended” for “intend”.
 
-    Subsec. (c). [Pub. L. 100–181, § 619][/us/pl/100/181/s619], substituted “contract or agreement” for “contract of agreement”.
+    Subsec. (c). [Pub. L. 100–181][/us/pl/100/181], § 619, substituted “contract or agreement” for “contract of agreement”.
 
     1970—Subsecs. (b) to (d). [Pub. L. 91–547][/us/pl/91/547] added subsec. (b), redesignated former subsec. (b) as (c), struck out “at the effective date of this subchapter” before “comply”, substituted “contract of agreement” for “contract or agreement”, and redesignated former subsec. (c) as (d).
 
@@ -109,18 +109,18 @@
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F827
-[/us/pl/91/547/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs15
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1424
-[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVI
 [/us/stat/101/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1262
-[/us/pl/104/290/s205/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs205%2Fa
+[/us/pl/104/290/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtII
 [/us/stat/110/3429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3429
-[/us/pl/106/102/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs211%2Fb
+[/us/pl/106/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtII
 [/us/stat/113/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1396
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
-[/us/pl/100/181/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs618
-[/us/pl/100/181/s619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs619
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/pl/106/102/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs225

@@ -33,7 +33,7 @@
 
     (8) overcoming institutional barriers to widespread use including but not limited to restrictions on the transportation of methane for vehicular use through tunnels, and the potential expansion of the distribution of methane for vehicular purposes.
 
-([Pub. L. 96–512, § 6][/us/pl/96/512/s6], Dec. 12, 1980, [94 Stat. 2830][/us/stat/94/2830].)
+([Pub. L. 96–512][/us/pl/96/512], § 6, Dec. 12, 1980, [94 Stat. 2830][/us/stat/94/2830].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/96/512/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F512%2Fs6
+[/us/pl/96/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F512
 [/us/stat/94/2830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2830
 
 

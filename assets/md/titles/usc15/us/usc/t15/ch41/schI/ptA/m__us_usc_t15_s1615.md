@@ -79,7 +79,7 @@
 
             (B) includes any assignee of any creditor with respect to credit extended in connection with any consumer credit transaction and any subsequent assignee with respect to such credit.
 
-([Pub. L. 102–550, title IX, § 933][/us/pl/102/550/s933], Oct. 28, 1992, [106 Stat. 3891][/us/stat/106/3891].)
+([Pub. L. 102–550, title IX][/us/pl/102/550/tIX], § 933, Oct. 28, 1992, [106 Stat. 3891][/us/stat/106/3891].)
 
  __Codification__ 
 
@@ -94,7 +94,7 @@
 
 [/us/usc/t15/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602
 [/us/usc/t15/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602
-[/us/pl/102/550/s933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs933
+[/us/pl/102/550/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtIX
 [/us/stat/106/3891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3891
 
 

@@ -17,7 +17,7 @@
 
     Each year, the Bureau and the Attorney General shall, respectively, make reports to the Congress concerning the administration of their functions under this subchapter, including such recommendations as the Bureau and the Attorney General, respectively, deem necessary or appropriate. In addition, each report of the Bureau shall include its assessment of the extent to which compliance with the requirements of this subchapter is being achieved, and a summary of the enforcement actions taken by each of the agencies assigned administrative enforcement responsibilities under [section 1691c of this title][/us/usc/t15/s1691c].
 
-([Pub. L. 90–321, title VII, § 707][/us/pl/90/321/s707], as added [Pub. L. 94–239, § 7][/us/pl/94/239/s7], Mar. 23, 1976, [90 Stat. 255][/us/stat/90/255]; amended [Pub. L. 96–221, title VI, § 610(c)][/us/pl/96/221/s610/c], Mar. 31, 1980, [94 Stat. 174][/us/stat/94/174]; [Pub. L. 111–203, title X, § 1085(1)][/us/pl/111/203/s1085/1], July 21, 2010, [124 Stat. 2083][/us/stat/124/2083].)
+([Pub. L. 90–321, title VII][/us/pl/90/321/tVII], § 707, as added [Pub. L. 94–239][/us/pl/94/239], § 7, Mar. 23, 1976, [90 Stat. 255][/us/stat/90/255]; amended [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 610(c), Mar. 31, 1980, [94 Stat. 174][/us/stat/94/174]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1085(1), July 21, 2010, [124 Stat. 2083][/us/stat/124/2083].)
 
  __Amendments__ 
 
@@ -45,12 +45,12 @@
 ----------
 
 [/us/usc/t15/s1691c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1691c
-[/us/pl/90/321/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs707
-[/us/pl/94/239/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239%2Fs7
+[/us/pl/90/321/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVII
+[/us/pl/94/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239
 [/us/stat/90/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F255
-[/us/pl/96/221/s610/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs610%2Fc
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F174
-[/us/pl/111/203/s1085/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1085%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2083
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221

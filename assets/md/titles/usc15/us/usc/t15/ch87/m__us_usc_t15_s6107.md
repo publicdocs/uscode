@@ -37,7 +37,7 @@
 
         The authority of the Federal Trade Commission to bring a criminal contempt action under subsection (a) expires 2 years after the date of the first promulgation of rules under [section 6102 of this title][/us/usc/t15/s6102]. The expiration of such authority shall have no effect on an action brought before the expiration date.
 
-([Pub. L. 103–297, § 9][/us/pl/103/297/s9], Aug. 16, 1994, [108 Stat. 1550][/us/stat/108/1550].)
+([Pub. L. 103–297][/us/pl/103/297], § 9, Aug. 16, 1994, [108 Stat. 1550][/us/stat/108/1550].)
 
 ----------
 
@@ -48,7 +48,7 @@
 
 [/us/usc/t15/s53/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs53%2Fb
 [/us/usc/t15/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6102
-[/us/pl/103/297/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297%2Fs9
+[/us/pl/103/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297
 [/us/stat/108/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1550
 
 

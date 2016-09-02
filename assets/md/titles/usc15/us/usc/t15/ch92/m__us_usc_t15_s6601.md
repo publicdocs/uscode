@@ -65,11 +65,11 @@
 
         (4) to lessen the burdens on interstate commerce by discouraging insubstantial lawsuits while preserving the ability of individuals and businesses that have suffered real injury to obtain complete relief.
 
-([Pub. L. 106–37, § 2][/us/pl/106/37/s2], July 20, 1999, [113 Stat. 185][/us/stat/113/185].)
+([Pub. L. 106–37][/us/pl/106/37], § 2, July 20, 1999, [113 Stat. 185][/us/stat/113/185].)
 
  __Short Title__ 
 
-[Pub. L. 106–37, § 1(a)][/us/pl/106/37/s1/a], July 20, 1999, [113 Stat. 185][/us/stat/113/185], provided that: 
+[Pub. L. 106–37][/us/pl/106/37], § 1(a), July 20, 1999, [113 Stat. 185][/us/stat/113/185], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Y2K Act’.”
 
@@ -80,9 +80,9 @@
 ----------
 ----------
 
-[/us/pl/106/37/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37%2Fs2
+[/us/pl/106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37
 [/us/stat/113/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F185
-[/us/pl/106/37/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37%2Fs1%2Fa
+[/us/pl/106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37
 [/us/stat/113/185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F185
 
 

@@ -25,7 +25,7 @@
 
     (4) whether the award of such interest is necessary to compensate the United States adequately for the injury sustained by the United States.
 
-([Oct. 15, 1914, ch. 323, § 4A][/us/act/1914-10-15/ch323/s4A], as added [July 7, 1955, ch. 283, § 1][/us/act/1955-07-07/ch283/s1], [69 Stat. 282][/us/stat/69/282]; amended [Pub. L. 96–349, § 4(a)(2)][/us/pl/96/349/s4/a/2], Sept. 12, 1980, [94 Stat. 1156][/us/stat/94/1156]; [Pub. L. 101–588, § 5][/us/pl/101/588/s5], Nov. 16, 1990, [104 Stat. 2880][/us/stat/104/2880].)
+([Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], § 4A, as added [July 7, 1955, ch. 283][/us/act/1955-07-07/ch283], § 1, [69 Stat. 282][/us/stat/69/282]; amended [Pub. L. 96–349][/us/pl/96/349], § 4(a)(2), Sept. 12, 1980, [94 Stat. 1156][/us/stat/94/1156]; [Pub. L. 101–588][/us/pl/101/588], § 5, Nov. 16, 1990, [104 Stat. 2880][/us/stat/104/2880].)
 
  __References in Text__ 
 
@@ -52,12 +52,12 @@
 ----------
 ----------
 
-[/us/act/1914-10-15/ch323/s4A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323%2Fs4A
-[/us/act/1955-07-07/ch283/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-07%2Fch283%2Fs1
+[/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
+[/us/act/1955-07-07/ch283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-07%2Fch283
 [/us/stat/69/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F282
-[/us/pl/96/349/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349%2Fs4%2Fa%2F2
+[/us/pl/96/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349
 [/us/stat/94/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1156
-[/us/pl/101/588/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F588%2Fs5
+[/us/pl/101/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F588
 [/us/stat/104/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2880
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/pl/101/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F588

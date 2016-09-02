@@ -17,7 +17,7 @@
 
     An automobile dealer may bring suit against any automobile manufacturer engaged in commerce, in any district court of the United States in the district in which said manufacturer resides, or is found, or has an agent, without respect to the amount in controversy, and shall recover the damages by him sustained and the cost of suit by reason of the failure of said automobile manufacturer from and after August 8, 1956, to act in good faith in performing or complying with any of the terms or provisions of the franchise, or in terminating, canceling, or not renewing the franchise with said dealer: Provided, That in any such suit the manufacturer shall not be barred from asserting in defense of any such action the failure of the dealer to act in good faith.
 
-([Aug. 8, 1956, ch. 1038, § 2][/us/act/1956-08-08/ch1038/s2], [70 Stat. 1125][/us/stat/70/1125].)
+([Aug. 8, 1956, ch. 1038][/us/act/1956-08-08/ch1038], § 2, [70 Stat. 1125][/us/stat/70/1125].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-08/ch1038/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1038%2Fs2
+[/us/act/1956-08-08/ch1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1038
 [/us/stat/70/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1125
 
 

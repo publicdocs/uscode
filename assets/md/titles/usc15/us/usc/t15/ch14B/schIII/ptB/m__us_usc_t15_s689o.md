@@ -17,7 +17,7 @@
 
     Using the procedures for removing or suspending a director or an officer of a licensee set forth in [section 687e of this title][/us/usc/t15/s687e] (to the extent such procedures are not inconsistent with the requirements of this part), the Administrator may remove or suspend any director or officer of any New Markets Venture Capital company.
 
-([Pub. L. 85–699, title III, § 366][/us/pl/85/699/s366], as added [Pub. L. 106–554, § 1(a)(8)][/us/pl/106/554/s1/a/8] \[§ 1(b)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–664.)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 366, as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(8) \[§ 1(b)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–664.)
 
 ----------
 
@@ -27,8 +27,8 @@
 ----------
 
 [/us/usc/t15/s687e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687e
-[/us/pl/85/699/s366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs366
-[/us/pl/106/554/s1/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F8
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

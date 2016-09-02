@@ -11,39 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch68/schIV/m__us_usc_t15_ch68_schIV.md) | [Next](./../../../../..//us/usc/t15/ch68/schVI/m__us_usc_t15_ch68_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch68%2FschV)
+[Previous](./../../../../..//us/usc/t15/ch68/schIV/m__us_usc_t15_s4241...4246.md) | [Next](./../../../../..//us/usc/t15/ch68/schV/m__us_usc_t15_s4261...4264.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch68%2FschV)
 
 ### SUBCHAPTER V—RESEARCH AND DEVELOPMENT
 
-§§ 4261 to 4264. __Repealed.__  __[__  __Pub. L. 102–555, § 4__  __][/us/pl/102/555/s4]__  __,__  __Oct. 28, 1992__  __,__  __[__  __106 Stat. 4166__  __][/us/stat/106/4166]__ 
-
-    Section 4261, [Pub. L. 98–365, title V, § 501][/us/pl/98/365/s501], July 17, 1984, [98 Stat. 461][/us/stat/98/461], related to continued Federal remote-sensing research and development.
-
-    Section 4262, [Pub. L. 98–365, title V, § 502][/us/pl/98/365/s502], July 17, 1984, [98 Stat. 462][/us/stat/98/462]; [Pub. L. 100–147, title III, § 306][/us/pl/100/147/s306], Oct. 30, 1987, [101 Stat. 876][/us/stat/101/876], related to remote-sensing research and development activities of Federal agencies.
-
-    Section 4263, [Pub. L. 98–365, title V, § 503][/us/pl/98/365/s503], July 17, 1984, [98 Stat. 463][/us/stat/98/463], related to sale of experimental data.
-
-    Section 4264, [Pub. L. 98–365, title V, § 504][/us/pl/98/365/s504], as added [Pub. L. 100–147, title III, § 307][/us/pl/100/147/s307], Oct. 30, 1987, [101 Stat. 877][/us/stat/101/877], related to remote-sensing research and development activities of system operators.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch68/schIV/m__us_usc_t15_ch68_schIV.md) | [Next](./../../../../..//us/usc/t15/ch68/schVI/m__us_usc_t15_ch68_schVI.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch68%2FschV)
+[Previous](./../../../../..//us/usc/t15/ch68/schIV/m__us_usc_t15_s4241...4246.md) | [Next](./../../../../..//us/usc/t15/ch68/schV/m__us_usc_t15_s4261...4264.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch68%2FschV)
 
 ----------
 ----------
 
-[/us/pl/102/555/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F555%2Fs4
-[/us/stat/106/4166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4166
-[/us/pl/98/365/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs501
-[/us/stat/98/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F461
-[/us/pl/98/365/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs502
-[/us/stat/98/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F462
-[/us/pl/100/147/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F147%2Fs306
-[/us/stat/101/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F876
-[/us/pl/98/365/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs503
-[/us/stat/98/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F463
-[/us/pl/98/365/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F365%2Fs504
-[/us/pl/100/147/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F147%2Fs307
-[/us/stat/101/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F877
 
 

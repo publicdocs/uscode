@@ -17,7 +17,7 @@
 
     The Administrator shall establish a microenterprise technical assistance and capacity building grant program to provide assistance from the Administration in the form of grants to qualified organizations in accordance with this chapter.
 
-([Pub. L. 103–325, title I, § 173][/us/pl/103/325/s173], as added [Pub. L. 106–102, title VII, § 725][/us/pl/106/102/s725], Nov. 12, 1999, [113 Stat. 1473][/us/stat/113/1473].)
+([Pub. L. 103–325, title I][/us/pl/103/325/tI], § 173, as added [Pub. L. 106–102, title VII][/us/pl/106/102/tVII], § 725, Nov. 12, 1999, [113 Stat. 1473][/us/stat/113/1473].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/103/325/s173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs173
-[/us/pl/106/102/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs725
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
+[/us/pl/106/102/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtVII
 [/us/stat/113/1473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1473
 
 

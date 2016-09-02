@@ -85,7 +85,7 @@
 
         It shall be an unfair or deceptive act or practice in or affecting commerce (within the meaning of section 5(a)(1) of the Federal Trade Commission Act \[[15 U.S.C. 45(a)(1)][/us/usc/t15/s45/a/1]\]) for any person to violate subsection (a), (b), (c), or (e) of [section 2822 of this title][/us/usc/t15/s2822], or a rule prescribed under subsection (d) of [section 2822 of this title][/us/usc/t15/s2822]. For purposes of the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\] (including any remedy or penalty applicable to any violation thereof) such a violation shall be treated as a violation of a rule under such Act respecting unfair or deceptive acts or practices.
 
-([Pub. L. 95–297, title II, § 203][/us/pl/95/297/s203], June 19, 1978, [92 Stat. 335][/us/stat/92/335]; [Pub. L. 102–486, title XV][/us/pl/102/486], §§ 1501(c)(3), 1502(b), (c), Oct. 24, 1992, [106 Stat. 2997][/us/stat/106/2997], 2998.)
+([Pub. L. 95–297, title II][/us/pl/95/297/tII], § 203, June 19, 1978, [92 Stat. 335][/us/stat/92/335]; [Pub. L. 102–486, title XV][/us/pl/102/486/tXV], §§ 1501(c)(3), 1502(b), (c), Oct. 24, 1992, [106 Stat. 2997][/us/stat/106/2997], 2998.)
 
  __References in Text__ 
 
@@ -93,13 +93,13 @@
 
  __Amendments__ 
 
-    1992—Subsec. (b)(1). [Pub. L. 102–486, § 1502(c)][/us/pl/102/486/s1502/c], struck out “shall” after “Agency” in introductory provisions, inserted “may” before “conduct” in subpar. (A), inserted “shall” before “certify” in subpar. (B), and in subpar. (C) inserted “shall” before “notify” and struck out before period at end “discovered in the course of such field testing”.
+    1992—Subsec. (b)(1). [Pub. L. 102–486][/us/pl/102/486], § 1502(c), struck out “shall” after “Agency” in introductory provisions, inserted “may” before “conduct” in subpar. (A), inserted “shall” before “certify” in subpar. (B), and in subpar. (C) inserted “shall” before “notify” and struck out before period at end “discovered in the course of such field testing”.
 
-    [Pub. L. 102–486, § 1501(c)(3)(A)][/us/pl/102/486/s1501/c/3/A], (B), substituted “automotive fuel rating” for “octane rating” and “fuel” for “gasoline” wherever appearing.
+    [Pub. L. 102–486][/us/pl/102/486], § 1501(c)(3)(A), (B), substituted “automotive fuel rating” for “octane rating” and “fuel” for “gasoline” wherever appearing.
 
-    Subsec. (c). [Pub. L. 102–486, § 1501(c)(3)][/us/pl/102/486/s1501/c/3], substituted “automotive fuel rating” for “octane rating” and “fuel” for “gasoline” wherever appearing, “section 2821” for “section 2821(1)” in par. (3), and “automotive fuel ratings” for “octane ratings” in par. (4).
+    Subsec. (c). [Pub. L. 102–486][/us/pl/102/486], § 1501(c)(3), substituted “automotive fuel rating” for “octane rating” and “fuel” for “gasoline” wherever appearing, “section 2821” for “section 2821(1)” in par. (3), and “automotive fuel ratings” for “octane ratings” in par. (4).
 
-    Subsec. (e). [Pub. L. 102–586, § 1502(b)][/us/pl/102/586/s1502/b], struck out before end of second sentence “; except that for purposes of section 5(m)(1)(A) of such Act, the term ‘or knowledge fairly implied on the basis of objective circumstances’ shall not apply to any violation by any gasoline retailer of the requirements of section 2822(c) or (e) of this title”.
+    Subsec. (e). [Pub. L. 102–586][/us/pl/102/586], § 1502(b), struck out before end of second sentence “; except that for purposes of section 5(m)(1)(A) of such Act, the term ‘or knowledge fairly implied on the basis of objective circumstances’ shall not apply to any violation by any gasoline retailer of the requirements of section 2822(c) or (e) of this title”.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -130,17 +130,17 @@
 [/us/usc/t15/s2822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2822
 [/us/usc/t15/s2822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2822
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/pl/95/297/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2Fs203
+[/us/pl/95/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2FtII
 [/us/stat/92/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F335
-[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXV
 [/us/stat/106/2997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2997
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
-[/us/pl/102/486/s1502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1502%2Fc
-[/us/pl/102/486/s1501/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1501%2Fc%2F3%2FA
-[/us/pl/102/486/s1501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1501%2Fc%2F3
-[/us/pl/102/586/s1502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586%2Fs1502%2Fb
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F586
 [/us/pl/102/486/s1501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1501%2Fc%2F3
 [/us/pl/102/486/s1501/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1501%2Fd%2F1
 [/us/usc/t15/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2821

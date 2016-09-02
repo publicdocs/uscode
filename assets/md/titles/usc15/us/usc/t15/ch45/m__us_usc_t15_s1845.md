@@ -61,7 +61,7 @@
 
         (2) As used in paragraph (1) of this subsection, the term “collateral” includes all assets pledged under loan agreements and, if appropriate in the opinion of the Board, all sums of the borrower on deposit with the lender and subject to offset under section 68 of the Bankruptcy Act.
 
-([Pub. L. 92–70, § 6][/us/pl/92/70/s6], Aug. 9, 1971, [85 Stat. 179][/us/stat/85/179].)
+([Pub. L. 92–70][/us/pl/92/70], § 6, Aug. 9, 1971, [85 Stat. 179][/us/stat/85/179].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 ----------
 
 [/us/usc/t15/s1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1846
-[/us/pl/92/70/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70%2Fs6
+[/us/pl/92/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70
 [/us/stat/85/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F179
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/stat/92/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2682

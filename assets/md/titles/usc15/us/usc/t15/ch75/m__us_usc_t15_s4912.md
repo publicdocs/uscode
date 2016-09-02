@@ -17,7 +17,7 @@
 
     The Secretary shall provide reasonable public services and access (including electronic access) to any information maintained as part of the Data Bank and may charge reasonable fees consistent with [section 552 of title 5][/us/usc/t5/s552].
 
-([Pub. L. 100–418, title V, § 5412][/us/pl/100/418/s5412], Aug. 23, 1988, [102 Stat. 1467][/us/stat/102/1467].)
+([Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5412, Aug. 23, 1988, [102 Stat. 1467][/us/stat/102/1467].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/100/418/s5412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5412
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1467
 
 

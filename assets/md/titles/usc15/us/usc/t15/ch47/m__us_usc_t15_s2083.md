@@ -39,7 +39,7 @@
 
         (2) the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of the periods of continuous session of the Congress specified in subsection (b).
 
-([Pub. L. 92–573, § 36][/us/pl/92/573/s36], as added [Pub. L. 97–35, title XII, § 1207(a)][/us/pl/97/35/s1207/a], Aug. 13, 1981, [95 Stat. 718][/us/stat/95/718].)
+([Pub. L. 92–573][/us/pl/92/573], § 36, as added [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1207(a), Aug. 13, 1981, [95 Stat. 718][/us/stat/95/718].)
 
  __Effective Date__ 
 
@@ -53,8 +53,8 @@
 ----------
 
 [/us/usc/t15/s2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2058
-[/us/pl/92/573/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs36
-[/us/pl/97/35/s1207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1207%2Fa
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F718
 [/us/pl/97/35/s1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1215
 [/us/usc/t15/s2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2052

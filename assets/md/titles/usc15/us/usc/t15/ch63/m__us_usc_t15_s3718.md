@@ -143,7 +143,7 @@
 
         Notwithstanding subsection (a) and paragraphs (1) and (2) of subsection (c), the President may designate an existing council to carry out the requirements of this section.
 
-([Pub. L. 110–69, title I, § 1006][/us/pl/110/69/s1006], Aug. 9, 2007, [121 Stat. 578][/us/stat/121/578].)
+([Pub. L. 110–69, title I][/us/pl/110/69/tI], § 1006, Aug. 9, 2007, [121 Stat. 578][/us/stat/121/578].)
 
  __Codification__ 
 
@@ -168,7 +168,7 @@
 ----------
 ----------
 
-[/us/pl/110/69/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs1006
+[/us/pl/110/69/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtI
 [/us/stat/121/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F578
 [/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 

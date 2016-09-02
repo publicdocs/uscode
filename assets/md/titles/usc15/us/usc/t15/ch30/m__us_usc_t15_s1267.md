@@ -23,7 +23,7 @@
 
         In any proceeding for criminal contempt for violation of an injunction or restraining order issued under this section, which violation also constitutes a violation of this chapter, trial shall be by the court or, upon demand of the accused, by a jury. Such trial shall be conducted in accordance with the practice and procedure applicable in the case of proceedings subject to the provisions of rule 42(b) of the Federal Rules of Criminal Procedure.
 
-([Pub. L. 86–613, § 8][/us/pl/86/613/s8], July 12, 1960, [74 Stat. 378][/us/stat/74/378].)
+([Pub. L. 86–613][/us/pl/86/613], § 8, July 12, 1960, [74 Stat. 378][/us/stat/74/378].)
 
  __Transfer of Functions__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/86/613/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs8
+[/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/stat/74/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F378
 [/us/usc/t15/s2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2079
 

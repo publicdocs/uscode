@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 102–555, § 2][/us/pl/102/555/s2], Oct. 28, 1992, [106 Stat. 4163][/us/stat/106/4163], which related to findings, was transferred and is set out as a note under [section 60101 of Title 51][/us/usc/t51/s60101], National and Commercial Space Programs.
+    Section, [Pub. L. 102–555][/us/pl/102/555], § 2, Oct. 28, 1992, [106 Stat. 4163][/us/stat/106/4163], which related to findings, was transferred and is set out as a note under [section 60101 of Title 51][/us/usc/t51/s60101], National and Commercial Space Programs.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/102/555/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F555%2Fs2
+[/us/pl/102/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F555
 [/us/stat/106/4163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4163
 [/us/usc/t51/s60101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs60101
 

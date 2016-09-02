@@ -33,13 +33,13 @@
 
         The disclosure of any such information as to the names and addresses of the indenture security holders in accordance with the provisions of this section, regardless of the source from which such information was derived, shall not be deemed to be a violation of any existing law, or of any law hereafter enacted which does not specifically refer to this section, nor shall such trustee be held accountable by reason of mailing any material pursuant to a request made under subsection (b) of this section.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 312, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1164][/us/stat/53/1164]; amended [Pub. L. 101–550, title IV, § 410][/us/pl/101/550/s410], Nov. 15, 1990, [104 Stat. 2728][/us/stat/104/2728].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 312, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1164][/us/stat/53/1164]; amended [Pub. L. 101–550, title IV][/us/pl/101/550/tIV], § 410, Nov. 15, 1990, [104 Stat. 2728][/us/stat/104/2728].)
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–550, § 410(1)][/us/pl/101/550/s410/1], (2), substituted “Each obligor” for “The indenture to be qualified shall contain provisions requiring each obligor” and “indenture securities shall” for “indenture securities to”.
+    1990—Subsec. (a). [Pub. L. 101–550][/us/pl/101/550], § 410(1), (2), substituted “Each obligor” for “The indenture to be qualified shall contain provisions requiring each obligor” and “indenture securities shall” for “indenture securities to”.
 
-    Subsec. (b). [Pub. L. 101–550, § 410(3)][/us/pl/101/550/s410/3], substituted “Within” for “The indenture to be qualified shall also contain provisions requiring that, within”.
+    Subsec. (b). [Pub. L. 101–550][/us/pl/101/550], § 410(3), substituted “Within” for “The indenture to be qualified shall also contain provisions requiring that, within”.
 
  __Transfer of Functions__ 
 
@@ -55,10 +55,10 @@
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/act/1939-08-03/ch411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-03%2Fch411
 [/us/stat/53/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1164
-[/us/pl/101/550/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs410
+[/us/pl/101/550/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtIV
 [/us/stat/104/2728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2728
-[/us/pl/101/550/s410/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs410%2F1
-[/us/pl/101/550/s410/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs410%2F3
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t15/s78d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d
 

@@ -31,7 +31,7 @@
 
         (5) The judgment of the court affirming or setting aside, in whole or in part, any such standard of the Commission shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in [section 1254 of title 28][/us/usc/t28/s1254].
 
-([Pub. L. 91–601, § 5][/us/pl/91/601/s5], Dec. 30, 1970, [84 Stat. 1671][/us/stat/84/1671]; [Pub. L. 92–573, § 30(a)][/us/pl/92/573/s30/a], Oct. 27, 1972, [86 Stat. 1231][/us/stat/86/1231].)
+([Pub. L. 91–601][/us/pl/91/601], § 5, Dec. 30, 1970, [84 Stat. 1671][/us/stat/84/1671]; [Pub. L. 92–573][/us/pl/92/573], § 30(a), Oct. 27, 1972, [86 Stat. 1231][/us/stat/86/1231].)
 
  __Transfer of Functions__ 
 
@@ -51,9 +51,9 @@
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t5/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/91/601/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601%2Fs5
+[/us/pl/91/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F601
 [/us/stat/84/1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1671
-[/us/pl/92/573/s30/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs30%2Fa
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1231
 [/us/pl/92/573/s30/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs30%2Fa
 [/us/usc/t15/s2079/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2079%2Fa

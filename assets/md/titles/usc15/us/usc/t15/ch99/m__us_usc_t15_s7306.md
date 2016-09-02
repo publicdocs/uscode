@@ -35,7 +35,7 @@
 
         A Team and the National Institute of Standards and Technology shall not publicly release any information it receives in the course of an investigation under this chapter if the Director finds that the disclosure of that information might jeopardize public safety.
 
-([Pub. L. 107–231, § 7][/us/pl/107/231/s7], Oct. 1, 2002, [116 Stat. 1475][/us/stat/116/1475].)
+([Pub. L. 107–231][/us/pl/107/231], § 7, Oct. 1, 2002, [116 Stat. 1475][/us/stat/116/1475].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t5/s552/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb
 [/us/usc/t15/s7307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7307
-[/us/pl/107/231/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231%2Fs7
+[/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
 [/us/stat/116/1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1475
 [/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
 [/us/stat/116/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1471

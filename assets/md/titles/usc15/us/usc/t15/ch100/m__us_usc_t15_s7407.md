@@ -45,11 +45,11 @@
 
         (E) $6,800,000 for fiscal year 2007.
 
-([Pub. L. 107–305, § 11][/us/pl/107/305/s11], Nov. 27, 2002, [116 Stat. 2379][/us/stat/116/2379].)
+([Pub. L. 107–305][/us/pl/107/305], § 11, Nov. 27, 2002, [116 Stat. 2379][/us/stat/116/2379].)
 
  __References in Text__ 
 
-    [Section 278g–3 of this title][/us/usc/t15/s278g–3], referred to in par. (2), was amended by [Pub. L. 107–347, title III, § 303][/us/pl/107/347/s303], Dec. 17, 2002, [116 Stat. 2957][/us/stat/116/2957], and, as so amended, did not contain a subsec. (f). A later amendment by [Pub. L. 113–274, title II, § 204(1)][/us/pl/113/274/s204/1], Dec. 18, 2014, [128 Stat. 2980][/us/stat/128/2980], redesignated subsec. (e) of [section 278g–3 of this title][/us/usc/t15/s278g–3], relating to definitions, as (f).
+    [Section 278g–3 of this title][/us/usc/t15/s278g–3], referred to in par. (2), was amended by [Pub. L. 107–347, title III][/us/pl/107/347/tIII], § 303, Dec. 17, 2002, [116 Stat. 2957][/us/stat/116/2957], and, as so amended, did not contain a subsec. (f). A later amendment by [Pub. L. 113–274, title II][/us/pl/113/274/tII], § 204(1), Dec. 18, 2014, [128 Stat. 2980][/us/stat/128/2980], redesignated subsec. (e) of [section 278g–3 of this title][/us/usc/t15/s278g–3], relating to definitions, as (f).
 
 ----------
 
@@ -59,12 +59,12 @@
 ----------
 
 [/us/usc/t15/s278h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278h
-[/us/pl/107/305/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305%2Fs11
+[/us/pl/107/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305
 [/us/stat/116/2379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2379
 [/us/usc/t15/s278g–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933
-[/us/pl/107/347/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs303
+[/us/pl/107/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtIII
 [/us/stat/116/2957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2957
-[/us/pl/113/274/s204/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs204%2F1
+[/us/pl/113/274/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2FtII
 [/us/stat/128/2980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2980
 [/us/usc/t15/s278g–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933
 

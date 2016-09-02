@@ -141,7 +141,7 @@
 
         (2) Whenever the Commission submits any legislative recommendations, or testimony, or comments on legislation to the President or the Office of Management and Budget, it shall concurrently transmit a copy thereof to the Congress. No officer or agency of the United States shall have any authority to require the Commission to submit its legislative recommendations, or testimony, or comments on legislation, to any officer or agency of the United States for approval, comments, or review, prior to the submission of such recommendations, testimony, or comments to the Congress.
 
-([Pub. L. 92–573, § 27][/us/pl/92/573/s27], Oct. 27, 1972, [86 Stat. 1227][/us/stat/86/1227]; [Pub. L. 94–273, § 31][/us/pl/94/273/s31], Apr. 21, 1976, [90 Stat. 380][/us/stat/90/380]; [Pub. L. 94–284][/us/pl/94/284], §§ 8(b), 11(c), (d), 14, May 11, 1976, [90 Stat. 506–509][/us/stat/90/506-509]; [Pub. L. 95–631, § 11][/us/pl/95/631/s11], Nov. 10, 1978, [92 Stat. 3748][/us/stat/92/3748]; [Pub. L. 97–35, title XII][/us/pl/97/35], §§ 1207(b), 1208, 1209(c), 1211(d), Aug. 13, 1981, [95 Stat. 718][/us/stat/95/718], 720, 721; [Pub. L. 110–314, title II, § 209(a)][/us/pl/110/314/s209/a], Aug. 14, 2008, [122 Stat. 3046][/us/stat/122/3046]; [Pub. L. 112–28, § 8][/us/pl/112/28/s8], Aug. 12, 2011, [125 Stat. 282][/us/stat/125/282].)
+([Pub. L. 92–573][/us/pl/92/573], § 27, Oct. 27, 1972, [86 Stat. 1227][/us/stat/86/1227]; [Pub. L. 94–273][/us/pl/94/273], § 31, Apr. 21, 1976, [90 Stat. 380][/us/stat/90/380]; [Pub. L. 94–284][/us/pl/94/284], §§ 8(b), 11(c), (d), 14, May 11, 1976, [90 Stat. 506–509][/us/stat/90/506-509]; [Pub. L. 95–631][/us/pl/95/631], § 11, Nov. 10, 1978, [92 Stat. 3748][/us/stat/92/3748]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], §§ 1207(b), 1208, 1209(c), 1211(d), Aug. 13, 1981, [95 Stat. 718][/us/stat/95/718], 720, 721; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 209(a), Aug. 14, 2008, [122 Stat. 3046][/us/stat/122/3046]; [Pub. L. 112–28][/us/pl/112/28], § 8, Aug. 12, 2011, [125 Stat. 282][/us/stat/125/282].)
 
  __References in Text__ 
 
@@ -149,45 +149,45 @@
 
  __Codification__ 
 
-    In subsec. (b)(6), “[section 1342 of title 31][/us/usc/t31/s1342]” substituted for “section 3679 of the Revised Statutes ([31 U.S.C. 665(b)][/us/usc/t31/s665/b])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (b)(6), “[section 1342 of title 31][/us/usc/t31/s1342]” substituted for “section 3679 of the Revised Statutes ([31 U.S.C. 665(b)][/us/usc/t31/s665/b])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
-    “[Section 8141 of title 40][/us/usc/t40/s8141]” substituted in subsec. (b)(8) for “the Act of March 3, 1877 ([40 U.S.C. 34][/us/usc/t40/s34])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    “[Section 8141 of title 40][/us/usc/t40/s8141]” substituted in subsec. (b)(8) for “the Act of March 3, 1877 ([40 U.S.C. 34][/us/usc/t40/s34])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
-    2011—Subsec. (b)(3). [Pub. L. 112–28, § 8(1)][/us/pl/112/28/s8/1], inserted “and physical” after “documentary”.
+    2011—Subsec. (b)(3). [Pub. L. 112–28][/us/pl/112/28], § 8(1), inserted “and physical” after “documentary”.
 
-    Subsec. (b)(9). [Pub. L. 112–28, § 8(2)][/us/pl/112/28/s8/2], (3), added par. (9). Former par. (9) redesignated (10).
+    Subsec. (b)(9). [Pub. L. 112–28][/us/pl/112/28], § 8(2), (3), added par. (9). Former par. (9) redesignated (10).
 
-    Subsec. (b)(10). [Pub. L. 112–28, § 8(3)][/us/pl/112/28/s8/3], (4), redesignated par. (9) as (10) and inserted “(except as provided in paragraph (9))” after “paragraph (3)”.
+    Subsec. (b)(10). [Pub. L. 112–28][/us/pl/112/28], § 8(3), (4), redesignated par. (9) as (10) and inserted “(except as provided in paragraph (9))” after “paragraph (3)”.
 
-    2008—Subsec. (j). [Pub. L. 110–314, § 209(a)(1)][/us/pl/110/314/s209/a/1], substituted “Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 ([31 U.S.C. 1113][/us/usc/t31/s1113] note), the Commission” for “The Commission” in introductory provisions.
+    2008—Subsec. (j). [Pub. L. 110–314][/us/pl/110/314], § 209(a)(1), substituted “Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 ([31 U.S.C. 1113][/us/usc/t31/s1113] note), the Commission” for “The Commission” in introductory provisions.
 
-    Subsec. (j)(5) to (13). [Pub. L. 110–314, § 209(a)(2)][/us/pl/110/314/s209/a/2], added pars. (5) and (6) and redesignated former pars. (5) to (11) as (7) to (13), respectively.
+    Subsec. (j)(5) to (13). [Pub. L. 110–314][/us/pl/110/314], § 209(a)(2), added pars. (5) and (6) and redesignated former pars. (5) to (11) as (7) to (13), respectively.
 
-    1981—Subsec. (b). [Pub. L. 97–35, § 1208][/us/pl/97/35/s1208], substituted in par. (1) “may prescribe to carry out a specific regulatory or enforcement function of the Commission” for “may prescribe” and in provision following par. (9) inserted requirement that an order issued under par. (1) shall contain a complete statement of the reason the Commission requires the report or answers specified in the order to carry out a specific regulatory or enforcement function of the commission, and that such an order shall be designed to place the least burden on the person subject to the order as is practicable, taking into account the purposes for which the order was issued.
+    1981—Subsec. (b). [Pub. L. 97–35][/us/pl/97/35], § 1208, substituted in par. (1) “may prescribe to carry out a specific regulatory or enforcement function of the Commission” for “may prescribe” and in provision following par. (9) inserted requirement that an order issued under par. (1) shall contain a complete statement of the reason the Commission requires the report or answers specified in the order to carry out a specific regulatory or enforcement function of the commission, and that such an order shall be designed to place the least burden on the person subject to the order as is practicable, taking into account the purposes for which the order was issued.
 
-    Subsec. (j)(10), (11). [Pub. L. 97–35, § 1209(c)][/us/pl/97/35/s1209/c], added par. (10) and redesignated former par. (10) as (11).
+    Subsec. (j)(10), (11). [Pub. L. 97–35][/us/pl/97/35], § 1209(c), added par. (10) and redesignated former par. (10) as (11).
 
-    Subsec. (l). [Pub. L. 97–35, § 1207(b)][/us/pl/97/35/s1207/b], struck out subsec. (l) which provided for reports to the House of Representatives and the Senate of proposed consumer product safety rules and regulations.
+    Subsec. (l). [Pub. L. 97–35][/us/pl/97/35], § 1207(b), struck out subsec. (l) which provided for reports to the House of Representatives and the Senate of proposed consumer product safety rules and regulations.
 
-    Subsec. (m). [Pub. L. 97–35, § 1211(d)][/us/pl/97/35/s1211/d], struck out subsec. (m) which defined “rule”, provided for a study of all the rules in effect on Nov. 10, 1978, and required a report be made to Congress recommending deletion of particular rules or parts of particular rules and initiation of particular rulemaking proceedings.
+    Subsec. (m). [Pub. L. 97–35][/us/pl/97/35], § 1211(d), struck out subsec. (m) which defined “rule”, provided for a study of all the rules in effect on Nov. 10, 1978, and required a report be made to Congress recommending deletion of particular rules or parts of particular rules and initiation of particular rulemaking proceedings.
 
     1978—Subsec. (m). [Pub. L. 95–631][/us/pl/95/631] added subsec. (m).
 
-    1976—Subsec. (b)(7). [Pub. L. 94–284, § 11(c)][/us/pl/94/284/s11/c], permitted the Commission to initiate, defend, prosecute, or appeal any civil action through its own legal representative provided that the Commission make a written request to the Attorney General for such representation and the Attorney General fail within a 45 day period to notify the Commission in writing that the Attorney General will represent the Commission, and with regard to criminal action, permitted the Commission to initiate, prosecute, or appeal with its own legal representative, with the concurrence of the Attorney General, or through the Attorney General.
+    1976—Subsec. (b)(7). [Pub. L. 94–284][/us/pl/94/284], § 11(c), permitted the Commission to initiate, defend, prosecute, or appeal any civil action through its own legal representative provided that the Commission make a written request to the Attorney General for such representation and the Attorney General fail within a 45 day period to notify the Commission in writing that the Attorney General will represent the Commission, and with regard to criminal action, permitted the Commission to initiate, prosecute, or appeal with its own legal representative, with the concurrence of the Attorney General, or through the Attorney General.
 
-    Subsec. (b)(8), (9). [Pub. L. 94–284, § 8(b)][/us/pl/94/284/s8/b], added par. (8) and redesignated former par. (8) as par (9).
+    Subsec. (b)(8), (9). [Pub. L. 94–284][/us/pl/94/284], § 8(b), added par. (8) and redesignated former par. (8) as par (9).
 
-    Subsec. (c). [Pub. L. 94–284, § 11(d)][/us/pl/94/284/s11/d], substituted “(subject to subsection (b)(7))” for “with the concurrence of the Attorney General”.
+    Subsec. (c). [Pub. L. 94–284][/us/pl/94/284], § 11(d), substituted “(subject to subsection (b)(7))” for “with the concurrence of the Attorney General”.
 
     Subsec. (j). [Pub. L. 94–273][/us/pl/94/273] substituted “at the beginning of each regular session of Congress” for “on or before October 1 of each year”.
 
-    Subsec. (l). [Pub. L. 94–284, § 14][/us/pl/94/284/s14], added subsec. (l).
+    Subsec. (l). [Pub. L. 94–284][/us/pl/94/284], § 14, added subsec. (l).
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–314, title II, § 209(b)][/us/pl/110/314/s209/b], Aug. 14, 2008, [122 Stat. 3047][/us/stat/122/3047], provided that: 
+[Pub. L. 110–314, title II][/us/pl/110/314/tII], § 209(b), Aug. 14, 2008, [122 Stat. 3047][/us/stat/122/3047], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to reports submitted for fiscal year 2009 and thereafter.”
 
@@ -197,13 +197,13 @@
 
  __Submission of Copy of Certain Documents to Congress__ 
 
-[Pub. L. 110–314, title II, § 203(a)][/us/pl/110/314/s203/a], Aug. 14, 2008, [122 Stat. 3040][/us/stat/122/3040], provided that: 
+[Pub. L. 110–314, title II][/us/pl/110/314/tII], § 203(a), Aug. 14, 2008, [122 Stat. 3040][/us/stat/122/3040], provided that: 
 
 > “Notwithstanding any rule, regulation, or order to the contrary, the \[Consumer Product Safety\] Commission shall comply with the requirements of section 27(k) of the Consumer Product Safety Act ([15 U.S.C. 2076(k)][/us/usc/t15/s2076/k]) with respect to budget recommendations, legislative recommendations, testimony, and comments on legislation submitted by the Commission to the President or the Office of Management and Budget after the date of enactment of this Act \[Aug. 14, 2008\].”
 
  __User Fee Study__ 
 
-    [Pub. L. 101–608, title I, § 119][/us/pl/101/608/s119], Nov. 16, 1990, [104 Stat. 3122][/us/stat/104/3122], directed Consumer Product Safety Commission to conduct a study of feasibility of requiring entities subject to Consumer Product Safety Act ([15 U.S.C. 2051][/us/usc/t15/s2051] et seq.) to pay to Commission amounts to defray reasonable costs of particular services provided by Commission to such entities, with Commission to complete study within one year of Nov. 16, 1990, and report results of study to Congress.
+    [Pub. L. 101–608, title I][/us/pl/101/608/tI], § 119, Nov. 16, 1990, [104 Stat. 3122][/us/stat/104/3122], directed Consumer Product Safety Commission to conduct a study of feasibility of requiring entities subject to Consumer Product Safety Act ([15 U.S.C. 2051][/us/usc/t15/s2051] et seq.) to pay to Commission amounts to defray reasonable costs of particular services provided by Commission to such entities, with Commission to complete study within one year of Nov. 16, 1990, and report results of study to Congress.
 
 ----------
 
@@ -218,56 +218,56 @@
 [/us/usc/t15/s2064/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2064%2Fd
 [/us/usc/t15/s2064/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2064%2Fc
 [/us/usc/t15/s2064/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2064%2Fd
-[/us/pl/92/573/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs27
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1227
-[/us/pl/94/273/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs31
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F380
 [/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/stat/90/506-509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F506-509
-[/us/pl/95/631/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631%2Fs11
+[/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
 [/us/stat/92/3748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3748
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F718
-[/us/pl/110/314/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs209%2Fa
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3046
-[/us/pl/112/28/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs8
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
 [/us/stat/125/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F282
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/usc/t31/s665/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs665%2Fb
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/usc/t40/s8141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs8141
 [/us/usc/t40/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs34
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/112/28/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs8%2F1
-[/us/pl/112/28/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs8%2F2
-[/us/pl/112/28/s8/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs8%2F3
-[/us/pl/110/314/s209/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs209%2Fa%2F1
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
-[/us/pl/110/314/s209/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs209%2Fa%2F2
-[/us/pl/97/35/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1208
-[/us/pl/97/35/s1209/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1209%2Fc
-[/us/pl/97/35/s1207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1207%2Fb
-[/us/pl/97/35/s1211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1211%2Fd
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
-[/us/pl/94/284/s11/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs11%2Fc
-[/us/pl/94/284/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs8%2Fb
-[/us/pl/94/284/s11/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs11%2Fd
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
-[/us/pl/94/284/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs14
-[/us/pl/110/314/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs209%2Fb
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3047
 [/us/pl/97/35/s1207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1207%2Fb
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1215
 [/us/usc/t15/s2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2052
-[/us/pl/110/314/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs203%2Fa
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3040
 [/us/usc/t15/s2076/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2076%2Fk
-[/us/pl/101/608/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs119
+[/us/pl/101/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2FtI
 [/us/stat/104/3122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3122
 [/us/usc/t15/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2051
 

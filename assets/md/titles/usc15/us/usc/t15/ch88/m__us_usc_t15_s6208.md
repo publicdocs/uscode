@@ -33,7 +33,7 @@
 
             Nothing in this section shall be construed to affect the availability of judicial review under laws referred to in [section 6204 of this title][/us/usc/t15/s6204].
 
-([Pub. L. 103–438, § 9][/us/pl/103/438/s9], Nov. 2, 1994, [108 Stat. 4602][/us/stat/108/4602].)
+([Pub. L. 103–438][/us/pl/103/438], § 9, Nov. 2, 1994, [108 Stat. 4602][/us/stat/108/4602].)
 
 ----------
 
@@ -47,7 +47,7 @@
 [/us/usc/t15/s6206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6206
 [/us/usc/t15/s6204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6204
 [/us/usc/t15/s6204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6204
-[/us/pl/103/438/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438%2Fs9
+[/us/pl/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438
 [/us/stat/108/4602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4602
 
 

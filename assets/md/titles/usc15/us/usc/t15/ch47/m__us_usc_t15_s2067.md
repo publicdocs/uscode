@@ -31,17 +31,17 @@
 
         Nothing in this section shall apply to any consumer product, the export of which is permitted by the Secretary of the Treasury pursuant to [section 2066(e) of this title][/us/usc/t15/s2066/e].
 
-([Pub. L. 92–573, § 18][/us/pl/92/573/s18], Oct. 27, 1972, [86 Stat. 1224][/us/stat/86/1224]; [Pub. L. 95–631, § 6(a)][/us/pl/95/631/s6/a], Nov. 10, 1978, [92 Stat. 3745][/us/stat/92/3745]; [Pub. L. 110–314, title II, § 221(a)][/us/pl/110/314/s221/a], Aug. 14, 2008, [122 Stat. 3065][/us/stat/122/3065].)
+([Pub. L. 92–573][/us/pl/92/573], § 18, Oct. 27, 1972, [86 Stat. 1224][/us/stat/86/1224]; [Pub. L. 95–631][/us/pl/95/631], § 6(a), Nov. 10, 1978, [92 Stat. 3745][/us/stat/92/3745]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 221(a), Aug. 14, 2008, [122 Stat. 3065][/us/stat/122/3065].)
 
  __Amendments__ 
 
-    2008—Subsec. (b). [Pub. L. 110–314, § 221(a)(1)][/us/pl/110/314/s221/a/1], substituted “any product which is not in conformity with an applicable consumer product safety rule in effect under this chapter,” for “any product—
+    2008—Subsec. (b). [Pub. L. 110–314][/us/pl/110/314], § 221(a)(1), substituted “any product which is not in conformity with an applicable consumer product safety rule in effect under this chapter,” for “any product—
 
     “(1) which is not in conformity with an applicable consumer product safety standard in effect under this chapter, or
 
     “(2) which is declared to be a banned hazardous substance by a rule promulgated under [section 2058 of this title][/us/usc/t15/s2058],”.
 
-    Subsecs. (c), (d). [Pub. L. 110–314, § 221(a)(2)][/us/pl/110/314/s221/a/2], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 110–314][/us/pl/110/314], § 221(a)(2), added subsecs. (c) and (d).
 
     1978—Subsec. (a). [Pub. L. 95–631][/us/pl/95/631] designated existing text as subsec. (a) and cl. (A) and in subsec. (a), as so designated, added cl. (B), and added subsec. (b).
 
@@ -53,15 +53,15 @@
 ----------
 
 [/us/usc/t15/s2066/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2066%2Fe
-[/us/pl/92/573/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs18
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1224
-[/us/pl/95/631/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631%2Fs6%2Fa
+[/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
 [/us/stat/92/3745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3745
-[/us/pl/110/314/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs221%2Fa
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3065
-[/us/pl/110/314/s221/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs221%2Fa%2F1
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/usc/t15/s2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2058
-[/us/pl/110/314/s221/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs221%2Fa%2F2
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
 
 

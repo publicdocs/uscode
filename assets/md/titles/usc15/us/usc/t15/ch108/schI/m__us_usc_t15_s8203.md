@@ -17,7 +17,7 @@
 
     After the expiration of the 2-year period beginning on July 21, 2010, a State may not collect any fees relating to licensing of an individual or entity as a surplus lines broker in the State unless the State has in effect at such time laws or regulations that provide for participation by the State in the national insurance producer database of the NAIC, or any other equivalent uniform national database, for the licensure of surplus lines brokers and the renewal of such licenses.
 
-([Pub. L. 111–203, title V, § 523][/us/pl/111/203/s523], July 21, 2010, [124 Stat. 1590][/us/stat/124/1590].)
+([Pub. L. 111–203, title V][/us/pl/111/203/tV], § 523, July 21, 2010, [124 Stat. 1590][/us/stat/124/1590].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs523
+[/us/pl/111/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtV
 [/us/stat/124/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1590
 
 

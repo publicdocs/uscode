@@ -43,7 +43,7 @@
 
         Witnesses whose depositions are taken as authorized in this chapter, and the person or officer taking the same, shall be entitled to the same fees as are paid for like services in the courts of the United States.
 
-([June 21, 1938, ch. 556, § 14][/us/act/1938-06-21/ch556/s14], [52 Stat. 828][/us/stat/52/828]; [Pub. L. 91–452, title II, § 218][/us/pl/91/452/s218], Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929].)
+([June 21, 1938, ch. 556][/us/act/1938-06-21/ch556], § 14, [52 Stat. 828][/us/stat/52/828]; [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 218, Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929].)
 
  __Amendments__ 
 
@@ -55,7 +55,7 @@
 
  __Study and Report on Natural Gas Pipeline and Storage Facilities in New England__ 
 
-[Pub. L. 107–355, § 26][/us/pl/107/355/s26], Dec. 17, 2002, [116 Stat. 3012][/us/stat/116/3012], provided that:
+[Pub. L. 107–355][/us/pl/107/355], § 26, Dec. 17, 2002, [116 Stat. 3012][/us/stat/116/3012], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -77,15 +77,15 @@
 ----------
 
 [/us/usc/t16/s825k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs825k
-[/us/act/1938-06-21/ch556/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556%2Fs14
+[/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F828
-[/us/pl/91/452/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs218
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F929
 [/us/pl/91/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452
 [/us/pl/91/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452
 [/us/pl/91/452/s260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs260
 [/us/usc/t18/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs6001
-[/us/pl/107/355/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs26
+[/us/pl/107/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355
 [/us/stat/116/3012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F3012
 
 

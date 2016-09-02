@@ -41,7 +41,7 @@
 
         A certified copy of the bylaws and amendments thereof and of the minutes of all stockholders’ meetings of the corporation shall be filed with the registrar.
 
-([Sept. 19, 1922, ch. 346, § 10][/us/act/1922-09-19/ch346/s10], [42 Stat. 852][/us/stat/42/852]; [Feb. 26, 1925, ch. 345, § 9][/us/act/1925-02-26/ch345/s9], [43 Stat. 996][/us/stat/43/996].)
+([Sept. 19, 1922, ch. 346][/us/act/1922-09-19/ch346], § 10, [42 Stat. 852][/us/stat/42/852]; [Feb. 26, 1925, ch. 345][/us/act/1925-02-26/ch345], § 9, [43 Stat. 996][/us/stat/43/996].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 ----------
 ----------
 
-[/us/act/1922-09-19/ch346/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346%2Fs10
+[/us/act/1922-09-19/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346
 [/us/stat/42/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F852
-[/us/act/1925-02-26/ch345/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-26%2Fch345%2Fs9
+[/us/act/1925-02-26/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-26%2Fch345
 [/us/stat/43/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F996
 
 

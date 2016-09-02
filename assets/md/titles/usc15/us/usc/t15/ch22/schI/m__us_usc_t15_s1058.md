@@ -63,11 +63,11 @@
 
         If the owner is not domiciled in the United States, the owner may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the last designated address, or if the owner does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title I, § 8, [60 Stat. 431][/us/stat/60/431]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 97–247, § 8][/us/pl/97/247/s8], Aug. 27, 1982, [96 Stat. 320][/us/stat/96/320]; [Pub. L. 100–667, title I, § 110][/us/pl/100/667/s110], Nov. 16, 1988, [102 Stat. 3939][/us/stat/102/3939]; [Pub. L. 105–330, title I, § 105][/us/pl/105/330/s105], Oct. 30, 1998, [112 Stat. 3066][/us/stat/112/3066]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(1)(B), (C)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583; [Pub. L. 107–273, div. C, title III, § 13207(b)(3)][/us/pl/107/273/s13207/b/3], Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 111–146, § 3(d)(1)][/us/pl/111/146/s3/d/1], Mar. 17, 2010, [124 Stat. 67][/us/stat/124/67].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title I, § 8, [60 Stat. 431][/us/stat/60/431]; [Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949]; [Pub. L. 97–247][/us/pl/97/247], § 8, Aug. 27, 1982, [96 Stat. 320][/us/stat/96/320]; [Pub. L. 100–667, title I][/us/pl/100/667/tI], § 110, Nov. 16, 1988, [102 Stat. 3939][/us/stat/102/3939]; [Pub. L. 105–330, title I][/us/pl/105/330/tI], § 105, Oct. 30, 1998, [112 Stat. 3066][/us/stat/112/3066]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title IV, § 4732(b)(1)(B), (C)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–583; [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13207(b)(3), Nov. 2, 2002, [116 Stat. 1906][/us/stat/116/1906]; [Pub. L. 111–146][/us/pl/111/146], § 3(d)(1), Mar. 17, 2010, [124 Stat. 67][/us/stat/124/67].)
 
  __Prior Provisions__ 
 
-    [Act Feb. 20, 1905, ch. 592, § 12][/us/act/1905-02-20/ch592/s12], [33 Stat. 727][/us/stat/33/727].
+    [Act Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], § 12, [33 Stat. 727][/us/stat/33/727].
 
  __Amendments__ 
 
@@ -75,11 +75,11 @@
 
     2002—Subsec. (f). [Pub. L. 107–273][/us/pl/107/273] amended subsec. (f) generally. Prior to amendment, text read as follows: “If the registrant is not domiciled in the United States, the registrant shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Director.”
 
-    1999—Subsecs. (a) to (c). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(1)(B)\], substituted “Director” for “Commissioner” wherever appearing.
+    1999—Subsecs. (a) to (c). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(b)(1)(B)\], substituted “Director” for “Commissioner” wherever appearing.
 
-    Subsec. (e). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(1)(B), (C)\], amended subsec. (e) identically, substituting “Director” for “Commissioner”.
+    Subsec. (e). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(b)(1)(B), (C)\], amended subsec. (e) identically, substituting “Director” for “Commissioner”.
 
-    Subsec. (f). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title IV, § 4732(b)(1)(B)\], substituted “Director” for “Commissioner”.
+    Subsec. (f). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title IV, § 4732(b)(1)(B)\], substituted “Director” for “Commissioner”.
 
     1998—[Pub. L. 105–330][/us/pl/105/330] amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (c) relating to affidavits of continuing use, registrations published under other provisions of law, and notification of acceptance or refusal of affidavits.
 
@@ -97,13 +97,13 @@
 
     Amendment by [Pub. L. 105–330][/us/pl/105/330] effective on the date that is 1 year after Oct. 30, 1998, see [section 110 of Pub. L. 105–330][/us/pl/105/330/s110], set out as a note under [section 1051 of this title][/us/usc/t15/s1051].
 
-[Pub. L. 105–330, title I, § 109(a)][/us/pl/105/330/s109/a], Oct. 30, 1998, [112 Stat. 3069][/us/stat/112/3069], provided that: 
+[Pub. L. 105–330, title I][/us/pl/105/330/tI], § 109(a), Oct. 30, 1998, [112 Stat. 3069][/us/stat/112/3069], provided that: 
 
 > “The provisions of section 8 of the Trademark Act of 1946 \[[15 U.S.C. 1058][/us/usc/t15/s1058]\], as amended by section 105 of this Act, shall apply to a registration for trademark issued or renewed for a 20-year term, if the expiration date of the registration is on or after the effective date of this Act \[probably should be “this title”, see [section 110 of Pub. L. 105–330][/us/pl/105/330/s110], set out as an Effective Date of 1998 Amendment note under [section 1051 of this title][/us/usc/t15/s1051]\].”
 
     For provisions relating to applicability of amendment by [Pub. L. 105–330][/us/pl/105/330] to applications for registration of trademarks, see [section 109(b) of Pub. L. 105–330][/us/pl/105/330/s109/b], set out as a note under [section 1051 of this title][/us/usc/t15/s1051].
 
-[Pub. L. 105–330, title I, § 109(c)][/us/pl/105/330/s109/c], Oct. 30, 1998, [112 Stat. 3069][/us/stat/112/3069], provided that: 
+[Pub. L. 105–330, title I][/us/pl/105/330/tI], § 109(c), Oct. 30, 1998, [112 Stat. 3069][/us/stat/112/3069], provided that: 
 
 > “The provisions of section 8 of the Trademark Act of 1946 \[[15 U.S.C. 1058][/us/usc/t15/s1058]\], as amended by section 105 of this Act, shall apply to the filing of an affidavit if the sixth or tenth anniversary of the registration, or the sixth anniversary of publication of the registration under section 12(c) of the Trademark Act of 1946 \[[15 U.S.C. 1062(c)][/us/usc/t15/s1062/c]\], for which the affidavit is filed is on or after the effective date of this Act \[probably should be “this title”, see [section 110 of Pub. L. 105–330][/us/pl/105/330/s110], set out as an Effective Date of 1998 Amendment note under [section 1051 of this title][/us/usc/t15/s1051]\].”
 
@@ -129,13 +129,13 @@
 
  __References to Trademark Act of 1946__ 
 
-[Pub. L. 105–330, title I, § 102][/us/pl/105/330/s102], Oct. 30, 1998, [112 Stat. 3064][/us/stat/112/3064], provided that: 
+[Pub. L. 105–330, title I][/us/pl/105/330/tI], § 102, Oct. 30, 1998, [112 Stat. 3064][/us/stat/112/3064], provided that: 
 
 > “For purposes of this title \[see Short Title of 1998 Amendment note set out under [section 1051 of this title][/us/usc/t15/s1051]\], the Act entitled ‘An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes’, approved July 5, 1946 ([15 U.S.C. 1051][/us/usc/t15/s1051] et seq.), shall be referred to as the ‘Trademark Act of 1946’.”
 
  __Pending Applications__ 
 
-[Act July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title XI, § 51, as added Nov. 16, 1988, [Pub. L. 100–667, title I, § 135][/us/pl/100/667/s135], [102 Stat. 3948][/us/stat/102/3948], provided that: 
+[Act July 5, 1946, ch. 540, title XI][/us/act/1946-07-05/ch540/tXI], § 51, as added Nov. 16, 1988, [Pub. L. 100–667, title I][/us/pl/100/667/tI], § 135, [102 Stat. 3948][/us/stat/102/3948], provided that: 
 
 > “All certificates of registration based upon applications for registration pending in the Patent and Trademark Office on the effective date of the Trademark Law Revision Act of 1988 \[see Effective Date of 1988 Amendment note set out under [section 1051 of this title][/us/usc/t15/s1051]\] shall remain in force for a period of 10 years.”
 
@@ -150,27 +150,27 @@
 [/us/usc/t15/s1062/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1062%2Fc
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F431
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/pl/97/247/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247%2Fs8
+[/us/pl/97/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247
 [/us/stat/96/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F320
-[/us/pl/100/667/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs110
+[/us/pl/100/667/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtI
 [/us/stat/102/3939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3939
-[/us/pl/105/330/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2Fs105
+[/us/pl/105/330/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2FtI
 [/us/stat/112/3066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3066
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/107/273/s13207/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13207%2Fb%2F3
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1906
-[/us/pl/111/146/s3/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F146%2Fs3%2Fd%2F1
+[/us/pl/111/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F146
 [/us/stat/124/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F67
-[/us/act/1905-02-20/ch592/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592%2Fs12
+[/us/act/1905-02-20/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592
 [/us/stat/33/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F727
 [/us/pl/111/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F146
 [/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/105/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330
 [/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
 [/us/pl/97/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F247
@@ -181,7 +181,7 @@
 [/us/pl/105/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330
 [/us/pl/105/330/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2Fs110
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
-[/us/pl/105/330/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2Fs109%2Fa
+[/us/pl/105/330/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2FtI
 [/us/stat/112/3069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3069
 [/us/usc/t15/s1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1058
 [/us/pl/105/330/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2Fs110
@@ -189,7 +189,7 @@
 [/us/pl/105/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330
 [/us/pl/105/330/s109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2Fs109%2Fb
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
-[/us/pl/105/330/s109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2Fs109%2Fc
+[/us/pl/105/330/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2FtI
 [/us/stat/112/3069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3069
 [/us/usc/t15/s1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1058
 [/us/usc/t15/s1062/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1062%2Fc
@@ -206,12 +206,12 @@
 [/us/usc/t15/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1111
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
-[/us/pl/105/330/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2Fs102
+[/us/pl/105/330/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2FtI
 [/us/stat/112/3064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3064
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
-[/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
-[/us/pl/100/667/s135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs135
+[/us/act/1946-07-05/ch540/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540%2FtXI
+[/us/pl/100/667/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtI
 [/us/stat/102/3948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3948
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
 

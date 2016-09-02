@@ -327,7 +327,7 @@
 
         The Commission shall have the authority to issue such rules and regulations as may be necessary or appropriate to implement the provisions of this section consistent with the purposes of this section.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 21F, as added [Pub. L. 111–203, title IX, § 922(a)][/us/pl/111/203/s922/a], July 21, 2010, [124 Stat. 1841][/us/stat/124/1841].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 21F, as added [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 922(a), July 21, 2010, [124 Stat. 1841][/us/stat/124/1841].)
 
  __References in Text__ 
 
@@ -359,7 +359,7 @@
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/111/203/s922/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs922%2Fa
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1841
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/stat/116/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F745

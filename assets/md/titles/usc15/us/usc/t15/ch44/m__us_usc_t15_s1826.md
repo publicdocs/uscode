@@ -17,7 +17,7 @@
 
     Whenever the Secretary believes that a willful violation of this chapter has occurred and that prosecution is needed to obtain compliance with this chapter, he shall inform the Attorney General and the Attorney General shall take such action with respect to such matter as he deems appropriate.
 
-([Pub. L. 91–540, § 7][/us/pl/91/540/s7], Dec. 9, 1970, [84 Stat. 1406][/us/stat/84/1406].)
+([Pub. L. 91–540][/us/pl/91/540], § 7, Dec. 9, 1970, [84 Stat. 1406][/us/stat/84/1406].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/540/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F540%2Fs7
+[/us/pl/91/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F540
 [/us/stat/84/1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1406
 
 

@@ -53,7 +53,7 @@
 
         In the event of the death, disability, or separation from service in the Department of Justice of the custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony produced under any demand issued pursuant to this chapter, or the official relief of such custodian from responsibility for the custody and control of such material, answers, or transcripts, the Assistant Attorney General in charge of the Antitrust Division shall promptly (1) designate another antitrust investigator to serve as custodian of such material, answers, or transcripts, and (2) transmit in writing to the person who produced such material, answers, or testimony notice as to the identity and address of the successor so designated. Any successor designated under this subsection shall have with regard to such material, answers, or transcripts all duties and responsibilities imposed by this chapter upon his predecessor in office with regard thereto, except that he shall not be held responsible for any default or dereliction which occurred prior to his designation.
 
-([Pub. L. 87–664, § 4][/us/pl/87/664/s4], Sept. 19, 1962, [76 Stat. 549][/us/stat/76/549]; [Pub. L. 94–435, title I, § 103][/us/pl/94/435/s103], Sept. 30, 1976, [90 Stat. 1387][/us/stat/90/1387]; [Pub. L. 96–349][/us/pl/96/349], §§ 2(b)(4), 7(a)(2), Sept. 12, 1980, [94 Stat. 1155][/us/stat/94/1155], 1158.)
+([Pub. L. 87–664][/us/pl/87/664], § 4, Sept. 19, 1962, [76 Stat. 549][/us/stat/76/549]; [Pub. L. 94–435, title I][/us/pl/94/435/tI], § 103, Sept. 30, 1976, [90 Stat. 1387][/us/stat/90/1387]; [Pub. L. 96–349][/us/pl/96/349], §§ 2(b)(4), 7(a)(2), Sept. 12, 1980, [94 Stat. 1155][/us/stat/94/1155], 1158.)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
  __Amendments__ 
 
-    1980—Subsec. (c)(2). [Pub. L. 96–349, § 7(a)(2)][/us/pl/96/349/s7/a/2], provided for use of copies of documentary material by agents of the Department of Justice, including use by such agents in connection with the taking of oral testimony.
+    1980—Subsec. (c)(2). [Pub. L. 96–349][/us/pl/96/349], § 7(a)(2), provided for use of copies of documentary material by agents of the Department of Justice, including use by such agents in connection with the taking of oral testimony.
 
     Subsec. (c)(3). [Pub. L. 96–349][/us/pl/96/349], §§ 2(b)(4), 7(a)(2), inserted “, and, in the case of any product of discovery produced pursuant to an express demand for such material, of the person from whom the discovery was obtained” before “, by any individual” and reference to “agent” of the Department of Justice.
 
@@ -91,9 +91,9 @@
 ----------
 
 [/us/usc/t15/s1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1312
-[/us/pl/87/664/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F664%2Fs4
+[/us/pl/87/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F664
 [/us/stat/76/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F549
-[/us/pl/94/435/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs103
+[/us/pl/94/435/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2FtI
 [/us/stat/90/1387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1387
 [/us/pl/96/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349
 [/us/stat/94/1155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1155
@@ -102,7 +102,7 @@
 [/us/pl/96/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349
 [/us/pl/87/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F664
 [/us/usc/t15/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1311
-[/us/pl/96/349/s7/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349%2Fs7%2Fa%2F2
+[/us/pl/96/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349
 [/us/pl/96/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349
 [/us/pl/94/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435
 [/us/pl/94/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435

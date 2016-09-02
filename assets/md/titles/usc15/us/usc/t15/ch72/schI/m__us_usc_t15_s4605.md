@@ -17,7 +17,7 @@
 
     Any export of materials, equipment, and technology developed by Sematech in whole or in part with financial assistance provided under [section 4602(a) of this title][/us/usc/t15/s4602/a] shall be subject to the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) \[now [50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\] and shall not be subject to the Arms Export Control Act \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\].
 
-([Pub. L. 100–180, div. A, title II, § 275][/us/pl/100/180/s275], Dec. 4, 1987, [101 Stat. 1071][/us/stat/101/1071].)
+([Pub. L. 100–180, div. A, title II][/us/pl/100/180/dA/tII], § 275, Dec. 4, 1987, [101 Stat. 1071][/us/stat/101/1071].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 [/us/usc/t15/s4602/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4602%2Fa
 [/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
-[/us/pl/100/180/s275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs275
+[/us/pl/100/180/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtII
 [/us/stat/101/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1071
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
 [/us/stat/93/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F503

@@ -23,7 +23,7 @@
 
         From sums otherwise authorized to be appropriated, there are authorized to be appropriated to the National Aeronautics and Space Administration for the purposes of the Program $72,000,000 for fiscal year 1992; $107,000,000 for fiscal year 1993; $134,000,000 for fiscal year 1994; $151,000,000 for fiscal year 1995; and $145,000,000 for fiscal year 1996.
 
-([Pub. L. 102–194, title II, § 202][/us/pl/102/194/s202], Dec. 9, 1991, [105 Stat. 1600][/us/stat/105/1600].)
+([Pub. L. 102–194, title II][/us/pl/102/194/tII], § 202, Dec. 9, 1991, [105 Stat. 1600][/us/stat/105/1600].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/102/194/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2Fs202
+[/us/pl/102/194/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2FtII
 [/us/stat/105/1600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1600
 
 

@@ -153,7 +153,7 @@
 
             Not more than 5 percent of the total amount made available under this subsection for any fiscal year shall be used for administrative costs (determined without regard to the administrative costs of eligible intermediaries).
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[27\], as added [Pub. L. 101–574, title III, § 310][/us/pl/101/574/s310], Nov. 15, 1990, [104 Stat. 2831][/us/stat/104/2831]; amended [Pub. L. 105–277, div. C, title IX, § 904][/us/pl/105/277/s904], Oct. 21, 1998, [112 Stat. 2681–708][/us/stat/112/2681-708]; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title V, § 503(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–695; [Pub. L. 108–447, div. K, title I][/us/pl/108/447], §§ 123–126, Dec. 8, 2004, [118 Stat. 3449–3451][/us/stat/118/3449-3451].)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[27\], as added [Pub. L. 101–574, title III][/us/pl/101/574/tIII], § 310, Nov. 15, 1990, [104 Stat. 2831][/us/stat/104/2831]; amended [Pub. L. 105–277, div. C, title IX][/us/pl/105/277/dC/tIX], § 904, Oct. 21, 1998, [112 Stat. 2681–708][/us/stat/112/2681-708]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title V, § 503(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–695; [Pub. L. 108–447, div. K, title I][/us/pl/108/447/dK/tI], §§ 123–126, Dec. 8, 2004, [118 Stat. 3449–3451][/us/stat/118/3449-3451].)
 
  __References in Text__ 
 
@@ -161,15 +161,15 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a)(2)(D). [Pub. L. 108–447, § 125][/us/pl/108/447/s125], amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the purpose of which is—
+    2004—Subsec. (a)(2)(D). [Pub. L. 108–447][/us/pl/108/447], § 125, amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the purpose of which is—
 
     “(i) to develop comprehensive drug-free workplace programs or to supply drug-free workplace services; or
 
     “(ii) to provide other forms of assistance and services to small business concerns.”
 
-    Subsec. (b). [Pub. L. 108–447, § 124][/us/pl/108/447/s124], designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
+    Subsec. (b). [Pub. L. 108–447][/us/pl/108/447], § 124, designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
 
-    Subsec. (c). [Pub. L. 108–447, § 126][/us/pl/108/447/s126], amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Each drug-free workplace program established with assistance made available under this section shall—
+    Subsec. (c). [Pub. L. 108–447][/us/pl/108/447], § 126, amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Each drug-free workplace program established with assistance made available under this section shall—
 
     “(1) include, as reasonably necessary and appropriate, practices and procedures to ensure the confidentiality of illegal drug test results and of any participation by an employee in a rehabilitation program;
 
@@ -177,21 +177,21 @@
 
     “(3) require that a medical review officer reviewing illegal drug test results shall report only the final results, limited to those drugs for which the employee tests positive, in writing and in a manner designed to ensure the confidentiality of the results.”
 
-    Subsec. (g)(1). [Pub. L. 108–447, § 123(a)][/us/pl/108/447/s123/a], substituted “(other than subsection (b)(2)), $5,000,000 for each of fiscal years 2005 and 2006. Amounts made available under this paragraph” for “, $5,000,000 for each of fiscal years 2001 through 2003. Amounts made available under this subsection”.
+    Subsec. (g)(1). [Pub. L. 108–447][/us/pl/108/447], § 123(a), substituted “(other than subsection (b)(2)), $5,000,000 for each of fiscal years 2005 and 2006. Amounts made available under this paragraph” for “, $5,000,000 for each of fiscal years 2001 through 2003. Amounts made available under this subsection”.
 
-    Subsec. (g)(2). [Pub. L. 108–447, § 123(b)][/us/pl/108/447/s123/b], substituted “paragraph (1) for each of fiscal years 2005 and 2006, not more than the greater of 10 percent or $500,000” for “this subsection, not more than the greater of 10 percent or $1,000,000”.
+    Subsec. (g)(2). [Pub. L. 108–447][/us/pl/108/447], § 123(b), substituted “paragraph (1) for each of fiscal years 2005 and 2006, not more than the greater of 10 percent or $500,000” for “this subsection, not more than the greater of 10 percent or $1,000,000”.
 
-    Subsec. (g)(3), (4). [Pub. L. 108–447, § 123(c)][/us/pl/108/447/s123/c], (d), added pars. (3) and (4).
+    Subsec. (g)(3), (4). [Pub. L. 108–447][/us/pl/108/447], § 123(c), (d), added pars. (3) and (4).
 
-    2000—[Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title V, § 503(a)(1)\], substituted “Paul D. Coverdell drug-free workplace program” for “Drug-free workplace demonstration program” in section catchline.
+    2000—[Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title V, § 503(a)(1)\], substituted “Paul D. Coverdell drug-free workplace program” for “Drug-free workplace demonstration program” in section catchline.
 
-    Subsec. (g)(1). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title V, § 503(a)(2)\], substituted “$5,000,000 for each of fiscal years 2001 through 2003” for “$10,000,000 for fiscal years 1999 and 2000”.
+    Subsec. (g)(1). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title V, § 503(a)(2)\], substituted “$5,000,000 for each of fiscal years 2001 through 2003” for “$10,000,000 for fiscal years 1999 and 2000”.
 
     1998—[Pub. L. 105–277][/us/pl/105/277] amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (c) authorizing Administration to make grants to conduct tourism demonstration programs, establishing purpose of program, placing a condition on grant recipients, authorizing appropriations, and requiring report to President and Congress.
 
  __Findings and Purposes of 1998 Amendment__ 
 
-[Pub. L. 105–277, div. C, title IX, § 902][/us/pl/105/277/s902], Oct. 21, 1998, [112 Stat. 2681–707][/us/stat/112/2681-707], provided that:
+[Pub. L. 105–277, div. C, title IX][/us/pl/105/277/dC/tIX], § 902, Oct. 21, 1998, [112 Stat. 2681–707][/us/stat/112/2681-707], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -231,7 +231,7 @@
 
  __Sense of Congress for 1998 Amendment__ 
 
-[Pub. L. 105–277, div. C, title IX, § 903][/us/pl/105/277/s903], Oct. 21, 1998, [112 Stat. 2681–708][/us/stat/112/2681-708], provided that: 
+[Pub. L. 105–277, div. C, title IX][/us/pl/105/277/dC/tIX], § 903, Oct. 21, 1998, [112 Stat. 2681–708][/us/stat/112/2681-708], provided that: 
 
 > “It is the sense of Congress that—
 
@@ -264,31 +264,31 @@
 
 [/us/usc/t21/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1521
 [/us/usc/t15/s648/c/3/T]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648%2Fc%2F3%2FT
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
-[/us/pl/101/574/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs310
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
+[/us/pl/101/574/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2FtIII
 [/us/stat/104/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2831
-[/us/pl/105/277/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs904
+[/us/pl/105/277/dC/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtIX
 [/us/stat/112/2681-708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-708
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdK%2FtI
 [/us/stat/118/3449-3451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3449-3451
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
 [/us/stat/102/4181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4181
 [/us/usc/t21/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1501
-[/us/pl/108/447/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs125
-[/us/pl/108/447/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs124
-[/us/pl/108/447/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs126
-[/us/pl/108/447/s123/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs123%2Fa
-[/us/pl/108/447/s123/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs123%2Fb
-[/us/pl/108/447/s123/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs123%2Fc
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/105/277/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs902
+[/us/pl/105/277/dC/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtIX
 [/us/stat/112/2681-707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-707
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/105/277/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs903
+[/us/pl/105/277/dC/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtIX
 [/us/stat/112/2681-708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-708
 
 

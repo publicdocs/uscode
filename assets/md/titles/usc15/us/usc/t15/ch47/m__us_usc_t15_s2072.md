@@ -27,15 +27,15 @@
 
         The remedies provided for in this section shall be in addition to and not in lieu of any other remedies provided by common law or under Federal or State law.
 
-([Pub. L. 92–573, § 23][/us/pl/92/573/s23], Oct. 27, 1972, [86 Stat. 1226][/us/stat/86/1226]; [Pub. L. 94–284, § 10(c)][/us/pl/94/284/s10/c], May 11, 1976, [90 Stat. 507][/us/stat/90/507]; [Pub. L. 96–486, § 3][/us/pl/96/486/s3], Dec. 1, 1980, [94 Stat. 2369][/us/stat/94/2369]; [Pub. L. 97–35, title XII, § 1211(h)(3)(B)][/us/pl/97/35/s1211/h/3/B], Aug. 13, 1981, [95 Stat. 723][/us/stat/95/723].)
+([Pub. L. 92–573][/us/pl/92/573], § 23, Oct. 27, 1972, [86 Stat. 1226][/us/stat/86/1226]; [Pub. L. 94–284][/us/pl/94/284], § 10(c), May 11, 1976, [90 Stat. 507][/us/stat/90/507]; [Pub. L. 96–486][/us/pl/96/486], § 3, Dec. 1, 1980, [94 Stat. 2369][/us/stat/94/2369]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1211(h)(3)(B), Aug. 13, 1981, [95 Stat. 723][/us/stat/95/723].)
 
  __Amendments__ 
 
     1981—Subsec. (a). [Pub. L. 97–35][/us/pl/97/35] substituted “[section 2060(f) of this title][/us/usc/t15/s2060/f]” for “[section 2059(e)(4) of this title][/us/usc/t15/s2059/e/4]”.
 
-    1980—Subsec. (a). [Pub. L. 96–486, § 3(a)][/us/pl/96/486/s3/a], struck out provision subjecting actions under this section to [section 1331 of title 28][/us/usc/t28/s1331] as to the amount in controversy and inserted proviso establishing minimum amount in controversy and excepting actions brought against the United States, or agencies, officers, or employees thereof.
+    1980—Subsec. (a). [Pub. L. 96–486][/us/pl/96/486], § 3(a), struck out provision subjecting actions under this section to [section 1331 of title 28][/us/usc/t28/s1331] as to the amount in controversy and inserted proviso establishing minimum amount in controversy and excepting actions brought against the United States, or agencies, officers, or employees thereof.
 
-    Subsecs. (b), (c). [Pub. L. 96–486, § 3(b)][/us/pl/96/486/s3/b], added subsec. (b) and redesignated former subsec. (b) as (c).
+    Subsecs. (b), (c). [Pub. L. 96–486][/us/pl/96/486], § 3(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
     1976—Subsec. (a). [Pub. L. 94–284][/us/pl/94/284] substituted “shall” for “and shall” and provision permitting the court to award costs in the interest of justice for a prior provision which permitted the court to award costs in its discretion.
 
@@ -55,20 +55,20 @@
 ----------
 
 [/us/usc/t15/s2060/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2060%2Ff
-[/us/pl/92/573/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs23
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1226
-[/us/pl/94/284/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs10%2Fc
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/stat/90/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F507
-[/us/pl/96/486/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F486%2Fs3
+[/us/pl/96/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F486
 [/us/stat/94/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2369
-[/us/pl/97/35/s1211/h/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1211%2Fh%2F3%2FB
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F723
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/usc/t15/s2060/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2060%2Ff
 [/us/usc/t15/s2059/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2059%2Fe%2F4
-[/us/pl/96/486/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F486%2Fs3%2Fa
+[/us/pl/96/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F486
 [/us/usc/t28/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1331
-[/us/pl/96/486/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F486%2Fs3%2Fb
+[/us/pl/96/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F486
 [/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1215

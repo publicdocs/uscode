@@ -135,7 +135,7 @@
 
         (8) Any person appearing for oral examination pursuant to a demand served under this section shall be entitled to the same fees and mileage which are paid to witnesses in the district courts of the United States.
 
-([Pub. L. 87–664, § 3][/us/pl/87/664/s3], Sept. 19, 1962, [76 Stat. 548][/us/stat/76/548]; [Pub. L. 94–435, title I, § 102][/us/pl/94/435/s102], Sept. 30, 1976, [90 Stat. 1384][/us/stat/90/1384]; [Pub. L. 96–349, § 2(b)(1)][/us/pl/96/349/s2/b/1]–(3), Sept. 12, 1980, [94 Stat. 1154][/us/stat/94/1154]; [Pub. L. 103–438, § 3(e)(1)(B)][/us/pl/103/438/s3/e/1/B], Nov. 2, 1994, [108 Stat. 4598][/us/stat/108/4598].)
+([Pub. L. 87–664][/us/pl/87/664], § 3, Sept. 19, 1962, [76 Stat. 548][/us/stat/76/548]; [Pub. L. 94–435, title I][/us/pl/94/435/tI], § 102, Sept. 30, 1976, [90 Stat. 1384][/us/stat/90/1384]; [Pub. L. 96–349][/us/pl/96/349], § 2(b)(1)–(3), Sept. 12, 1980, [94 Stat. 1154][/us/stat/94/1154]; [Pub. L. 103–438][/us/pl/103/438], § 3(e)(1)(B), Nov. 2, 1994, [108 Stat. 4598][/us/stat/108/4598].)
 
  __References in Text__ 
 
@@ -143,17 +143,17 @@
 
     This chapter, referred to in subsecs. (c)(1)(B), (2) and (d), was in the original “this Act”, meaning [Pub. L. 87–664][/us/pl/87/664], which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1311 of this title][/us/usc/t15/s1311] and Tables.
 
-    [Section 30 of this title][/us/usc/t15/s30], referred to in subsec. (i)(2), was repealed by [Pub. L. 107–273, div. C, title IV, § 14102(f)][/us/pl/107/273/s14102/f], Nov. 2, 2002, [116 Stat. 1922][/us/stat/116/1922].
+    [Section 30 of this title][/us/usc/t15/s30], referred to in subsec. (i)(2), was repealed by [Pub. L. 107–273, div. C, title IV][/us/pl/107/273/dC/tIV], § 14102(f), Nov. 2, 2002, [116 Stat. 1922][/us/stat/116/1922].
 
  __Amendments__ 
 
     1994—Subsec. (a). [Pub. L. 103–438][/us/pl/103/438] inserted “or, with respect to the International Antitrust Enforcement Assistance Act of 1994, an investigation authorized by section 3 of such Act” after “investigation” and “by the United States” after “proceeding”.
 
-    1980—Subsec. (a). [Pub. L. 96–349, § 2(b)(1)][/us/pl/96/349/s2/b/1], inserted provision for service and notice of a civil investigative demand for any product of discovery.
+    1980—Subsec. (a). [Pub. L. 96–349][/us/pl/96/349], § 2(b)(1), inserted provision for service and notice of a civil investigative demand for any product of discovery.
 
-    Subsec. (b). [Pub. L. 96–349, § 2(b)(2)][/us/pl/96/349/s2/b/2], inserted provision respecting time demand for product of discovery is returnable.
+    Subsec. (b). [Pub. L. 96–349][/us/pl/96/349], § 2(b)(2), inserted provision respecting time demand for product of discovery is returnable.
 
-    Subsec. (c). [Pub. L. 96–349, § 2(b)(3)][/us/pl/96/349/s2/b/3], designated existing provisions as par. (1), redesignated as cls. (A) and (B) former cls. (1) and (2), and added par. (2).
+    Subsec. (c). [Pub. L. 96–349][/us/pl/96/349], § 2(b)(3), designated existing provisions as par. (1), redesignated as cls. (A) and (B) former cls. (1) and (2), and added par. (2).
 
     1976—Subsec. (a). [Pub. L. 94–435][/us/pl/94/435] struck out “under investigation” before “may be in possession”, inserted “or may have any information” after “any documentary material”, and inserted provision requiring the production of documentary material for inspection or reproduction, answers in writing to written interrogatories, the giving of oral testimony concerning documentary material or information, and the furnishing of any combination of such material, answers, or testimony.
 
@@ -184,13 +184,13 @@
 [/us/usc/t15/s1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1314
 [/us/usc/t15/s1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1314
 [/us/usc/t15/s1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1314
-[/us/pl/87/664/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F664%2Fs3
+[/us/pl/87/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F664
 [/us/stat/76/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F548
-[/us/pl/94/435/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs102
+[/us/pl/94/435/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2FtI
 [/us/stat/90/1384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1384
-[/us/pl/96/349/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349%2Fs2%2Fb%2F1
+[/us/pl/96/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349
 [/us/stat/94/1154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1154
-[/us/pl/103/438/s3/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438%2Fs3%2Fe%2F1%2FB
+[/us/pl/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438
 [/us/stat/108/4598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4598
 [/us/pl/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438
 [/us/stat/108/4597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4597
@@ -198,12 +198,12 @@
 [/us/pl/87/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F664
 [/us/usc/t15/s1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1311
 [/us/usc/t15/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs30
-[/us/pl/107/273/s14102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs14102%2Ff
+[/us/pl/107/273/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIV
 [/us/stat/116/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1922
 [/us/pl/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438
-[/us/pl/96/349/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349%2Fs2%2Fb%2F1
-[/us/pl/96/349/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349%2Fs2%2Fb%2F2
-[/us/pl/96/349/s2/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349%2Fs2%2Fb%2F3
+[/us/pl/96/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349
+[/us/pl/96/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349
+[/us/pl/96/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349
 [/us/pl/94/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435
 [/us/pl/94/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435
 [/us/pl/94/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435

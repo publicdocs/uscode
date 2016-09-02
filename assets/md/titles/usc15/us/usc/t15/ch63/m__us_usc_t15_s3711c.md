@@ -27,7 +27,7 @@
 
         The Secretary of Transportation may seek and accept gifts of money from private sources for the purpose of making cash prize awards under this section. Such money may be used only for that purpose, and only such money may be used for that purpose.
 
-([Pub. L. 96–480, § 19][/us/pl/96/480/s19], as added [Pub. L. 102–240, title VI, § 6019][/us/pl/102/240/s6019], Dec. 18, 1991, [105 Stat. 2184][/us/stat/105/2184].)
+([Pub. L. 96–480][/us/pl/96/480], § 19, as added [Pub. L. 102–240, title VI][/us/pl/102/240/tVI], § 6019, Dec. 18, 1991, [105 Stat. 2184][/us/stat/105/2184].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/96/480/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs19
-[/us/pl/102/240/s6019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2Fs6019
+[/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
+[/us/pl/102/240/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F240%2FtVI
 [/us/stat/105/2184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2184
 
 

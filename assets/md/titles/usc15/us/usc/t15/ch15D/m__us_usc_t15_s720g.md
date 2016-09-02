@@ -39,7 +39,7 @@
 
         (2) any recommendations of the Secretary (including proposals for legislation to implement the recommendations).
 
-([Pub. L. 108–324, div. C, § 109][/us/pl/108/324/s109], Oct. 13, 2004, [118 Stat. 1262][/us/stat/118/1262].)
+([Pub. L. 108–324, div. C][/us/pl/108/324/dC], § 109, Oct. 13, 2004, [118 Stat. 1262][/us/stat/118/1262].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/108/324/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs109
+[/us/pl/108/324/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2FdC
 [/us/stat/118/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1262
 
 

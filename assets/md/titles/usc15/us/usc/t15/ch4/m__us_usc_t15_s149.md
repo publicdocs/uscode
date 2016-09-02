@@ -23,7 +23,7 @@
 
     (c) The manner of calling for and collecting payments upon shares of stock, the penalties and forfeitures for nonpayment, the preparation of certificates of the shares, the manner of recording their sale or transfer, and the manner of their representation at stockholders’ meetings.
 
-([Sept. 19, 1922, ch. 346, § 9][/us/act/1922-09-19/ch346/s9], [42 Stat. 852][/us/stat/42/852]; [Feb. 26, 1925, ch. 345, § 8][/us/act/1925-02-26/ch345/s8], [43 Stat. 996][/us/stat/43/996].)
+([Sept. 19, 1922, ch. 346][/us/act/1922-09-19/ch346], § 9, [42 Stat. 852][/us/stat/42/852]; [Feb. 26, 1925, ch. 345][/us/act/1925-02-26/ch345], § 8, [43 Stat. 996][/us/stat/43/996].)
 
  __Amendments__ 
 
@@ -36,9 +36,9 @@
 ----------
 ----------
 
-[/us/act/1922-09-19/ch346/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346%2Fs9
+[/us/act/1922-09-19/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346
 [/us/stat/42/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F852
-[/us/act/1925-02-26/ch345/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-26%2Fch345%2Fs8
+[/us/act/1925-02-26/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-26%2Fch345
 [/us/stat/43/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F996
 
 

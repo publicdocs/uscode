@@ -65,11 +65,11 @@
 
         (6) The provisions and requirements of this subsection shall not apply with respect to any contract, grant, or project which was entered into, made, or formally approved and initiated prior to the enactment of this chapter, or with respect to any renewal or extension thereof.
 
-([Pub. L. 96–512, § 4][/us/pl/96/512/s4], Dec. 12, 1980, [94 Stat. 2828][/us/stat/94/2828]; [Pub. L. 97–375, title I, § 106(c)][/us/pl/97/375/s106/c], Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820]; [Pub. L. 103–437, § 5(b)(5)][/us/pl/103/437/s5/b/5], Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582].)
+([Pub. L. 96–512][/us/pl/96/512], § 4, Dec. 12, 1980, [94 Stat. 2828][/us/stat/94/2828]; [Pub. L. 97–375, title I][/us/pl/97/375/tI], § 106(c), Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820]; [Pub. L. 103–437][/us/pl/103/437], § 5(b)(5), Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582].)
 
  __References in Text__ 
 
-    [Section 3808 of this title][/us/usc/t15/s3808], referred to in subsec. (d)(4), was repealed by [Pub. L. 104–66, title I, § 1051(p)][/us/pl/104/66/s1051/p], Dec. 21, 1995, [109 Stat. 717][/us/stat/109/717].
+    [Section 3808 of this title][/us/usc/t15/s3808], referred to in subsec. (d)(4), was repealed by [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1051(p), Dec. 21, 1995, [109 Stat. 717][/us/stat/109/717].
 
  __Amendments__ 
 
@@ -86,14 +86,14 @@
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t42/s5916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5916
-[/us/pl/96/512/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F512%2Fs4
+[/us/pl/96/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F512
 [/us/stat/94/2828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2828
-[/us/pl/97/375/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs106%2Fc
+[/us/pl/97/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtI
 [/us/stat/96/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1820
-[/us/pl/103/437/s5/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs5%2Fb%2F5
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4582
 [/us/usc/t15/s3808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3808
-[/us/pl/104/66/s1051/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1051%2Fp
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F717
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/97/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375

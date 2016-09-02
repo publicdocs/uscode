@@ -29,7 +29,7 @@
 
         (B) which establishes a leasehold interest in, or other rights to use, possess, or gain access to, a condominium or cooperative unit.
 
-([Pub. L. 96–399, title VI, § 605][/us/pl/96/399/s605], Oct. 8, 1980, [94 Stat. 1675][/us/stat/94/1675].)
+([Pub. L. 96–399, title VI][/us/pl/96/399/tVI], § 605, Oct. 8, 1980, [94 Stat. 1675][/us/stat/94/1675].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/96/399/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs605
+[/us/pl/96/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtVI
 [/us/stat/94/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1675
 
 

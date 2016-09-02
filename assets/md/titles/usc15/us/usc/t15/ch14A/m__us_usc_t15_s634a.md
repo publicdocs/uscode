@@ -17,7 +17,7 @@
 
     There is established within the Small Business Administration an Office of Advocacy. The management of the Office shall be vested in a Chief Counsel for Advocacy who shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
-([Pub. L. 94–305, title II, § 201][/us/pl/94/305/s201], June 4, 1976, [90 Stat. 668][/us/stat/90/668].)
+([Pub. L. 94–305, title II][/us/pl/94/305/tII], § 201, June 4, 1976, [90 Stat. 668][/us/stat/90/668].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/94/305/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2Fs201
+[/us/pl/94/305/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2FtII
 [/us/stat/90/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F668
 
 

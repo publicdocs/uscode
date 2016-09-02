@@ -59,7 +59,7 @@
 
     (12) publish their analysis and recommendations in the form of an annual report to the President and the Congress which also comments on the overall competitiveness of the American economy.
 
-([Pub. L. 100–418, title V, § 5204][/us/pl/100/418/s5204], Aug. 23, 1988, [102 Stat. 1456][/us/stat/102/1456].)
+([Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5204, Aug. 23, 1988, [102 Stat. 1456][/us/stat/102/1456].)
 
  __Termination of Reporting Requirements__ 
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s5204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5204
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1456
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

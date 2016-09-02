@@ -331,11 +331,11 @@
 
         This section and any regulations promulgated under this section do not apply to an extension of credit relating to a plan described in section 101(53D) of title 11.
 
-([Pub. L. 90–321, title I, § 129C][/us/pl/90/321/s129C], as added and amended [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], title XIV, §§ 1411(a)(2), 1412, 1414(a), (c), (d), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2142, 2145, 2149, 2152; [Pub. L. 114–94, div. G, title LXXXIX, § 89003(1)][/us/pl/114/94/s89003/1], Dec. 4, 2015, [129 Stat. 1800][/us/stat/129/1800].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 129C, as added and amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), title XIV, §§ 1411(a)(2), 1412, 1414(a), (c), (d), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2142, 2145, 2149, 2152; [Pub. L. 114–94, div. G, title LXXXIX][/us/pl/114/94/dG/tLXXXIX], § 89003(1), Dec. 4, 2015, [129 Stat. 1800][/us/stat/129/1800].)
 
  __References in Text__ 
 
-    [Section 1602(aa)(4) of this title][/us/usc/t15/s1602/aa/4], referred to in subsecs. (a)(5)(C) and (b)(2)(C)(i), was redesignated [section 1602(bb)(4) of this title][/us/usc/t15/s1602/bb/4] by [Pub. L. 111–203, title X, § 1100A(1)(A)][/us/pl/111/203/s1100A/1/A], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
+    [Section 1602(aa)(4) of this title][/us/usc/t15/s1602/aa/4], referred to in subsecs. (a)(5)(C) and (b)(2)(C)(i), was redesignated [section 1602(bb)(4) of this title][/us/usc/t15/s1602/bb/4] by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(1)(A), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
 
     This part, referred to in subsec. (b)(2)(E)(iv)(IV), was in the original “this subtitle”, and was translated as reading “this chapter”, meaning chapter 2 of title I of [Pub. L. 90–321][/us/pl/90/321], to reflect the probable intent of Congress. Title I of [Pub. L. 90–321][/us/pl/90/321] does not contain subtitles.
 
@@ -347,15 +347,15 @@
 
     2015—Subsec. (b)(2)(E)(iv)(I). [Pub. L. 114–94][/us/pl/114/94] struck out “predominantly” after “operates”.
 
-    2010—[Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], substituted “Bureau” for “Board” wherever appearing.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
-    Subsec. (b). [Pub. L. 111–203, § 1412][/us/pl/111/203/s1412], added subsec. (b).
+    Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 1412, added subsec. (b).
 
-    Subsecs. (c) to (f). [Pub. L. 111–203, § 1414(a)][/us/pl/111/203/s1414/a], added subsecs. (c) to (f).
+    Subsecs. (c) to (f). [Pub. L. 111–203][/us/pl/111/203], § 1414(a), added subsecs. (c) to (f).
 
-    Subsec. (g). [Pub. L. 111–203, § 1414(c)][/us/pl/111/203/s1414/c], added subsec. (g).
+    Subsec. (g). [Pub. L. 111–203][/us/pl/111/203], § 1414(c), added subsec. (g).
 
-    Subsecs. (h), (i). [Pub. L. 111–203, § 1414(d)][/us/pl/111/203/s1414/d], added subsecs. (h) and (i).
+    Subsecs. (h), (i). [Pub. L. 111–203][/us/pl/111/203], § 1414(d), added subsecs. (h) and (i).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -369,7 +369,7 @@
 
  __Rule of Construction__ 
 
-[Pub. L. 111–203, title XIV, § 1411(a)(1)][/us/pl/111/203/s1411/a/1], July 21, 2010, [124 Stat. 2142][/us/stat/124/2142], provided that: 
+[Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1411(a)(1), July 21, 2010, [124 Stat. 2142][/us/stat/124/2142], provided that: 
 
 > “No regulation, order, or guidance issued by the Bureau under this title \[see Tables for classification\] shall be construed as requiring a depository institution to apply mortgage underwriting standards that do not meet the minimum underwriting standards required by the appropriate prudential regulator of the depository institution.”
 
@@ -389,14 +389,14 @@
 [/us/usc/t12/s1454/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1454%2Fa%2F2
 [/us/usc/t12/s1454/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1454%2Fa%2F2
 [/us/usc/t15/s1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1640
-[/us/pl/90/321/s129C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs129C
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
-[/us/pl/114/94/s89003/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs89003%2F1
+[/us/pl/114/94/dG/tLXXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXXIX
 [/us/stat/129/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1800
 [/us/usc/t15/s1602/aa/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Faa%2F4
 [/us/usc/t15/s1602/bb/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fbb%2F4
-[/us/pl/111/203/s1100A/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F1%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
@@ -407,11 +407,11 @@
 [/us/stat/124/2136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2136
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
-[/us/pl/111/203/s1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1412
-[/us/pl/111/203/s1414/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1414%2Fa
-[/us/pl/111/203/s1414/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1414%2Fc
-[/us/pl/111/203/s1414/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1414%2Fd
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
@@ -420,7 +420,7 @@
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/111/203/s1411/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1411%2Fa%2F1
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2142
 [/us/pl/111/203/s1411/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1411%2Fa%2F1
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

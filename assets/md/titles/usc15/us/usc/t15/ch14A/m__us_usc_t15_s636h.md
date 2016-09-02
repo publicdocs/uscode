@@ -63,7 +63,7 @@
 
         (3) information on the status of the implementation of the responsibilities described in subsection (b).
 
-([Pub. L. 110–234, title XII, § 12073][/us/pl/110/234/s12073], May 22, 2008, [122 Stat. 1413][/us/stat/122/1413]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12073, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2175.)
+([Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12073, May 22, 2008, [122 Stat. 1413][/us/stat/122/1413]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12073, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2175.)
 
  __References in Text__ 
 
@@ -87,9 +87,9 @@
 ----------
 
 [/us/usc/t15/s636g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636g
-[/us/pl/110/234/s12073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12073
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1413
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234

@@ -119,7 +119,7 @@
 
         (5) an assessment of how Federal agencies are implementing the plan described in subsection (c)(7), and a description of the amount of Small Business Innovative Research and Small Business Technology Transfer Research funds supporting the plan.
 
-([Pub. L. 108–153, § 2][/us/pl/108/153/s2], Dec. 3, 2003, [117 Stat. 1923][/us/stat/117/1923].)
+([Pub. L. 108–153][/us/pl/108/153], § 2, Dec. 3, 2003, [117 Stat. 1923][/us/stat/117/1923].)
 
  __References in Text__ 
 
@@ -131,7 +131,7 @@
 
  __Short Title__ 
 
-[Pub. L. 108–153, § 1][/us/pl/108/153/s1], Dec. 3, 2003, [117 Stat. 1923][/us/stat/117/1923], provided that: 
+[Pub. L. 108–153][/us/pl/108/153], § 1, Dec. 3, 2003, [117 Stat. 1923][/us/stat/117/1923], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘21st Century Nanotechnology Research and Development Act’.”
 
@@ -147,11 +147,11 @@
 [/us/usc/t20/s1067k/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1067k%2F3
 [/us/usc/t15/s7502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7502
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
-[/us/pl/108/153/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F153%2Fs2
+[/us/pl/108/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F153
 [/us/stat/117/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1923
 [/us/pl/107/314/s246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs246
 [/us/usc/t10/s2358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2358
-[/us/pl/108/153/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F153%2Fs1
+[/us/pl/108/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F153
 [/us/stat/117/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1923
 
 

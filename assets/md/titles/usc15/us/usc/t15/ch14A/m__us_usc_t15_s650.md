@@ -221,11 +221,11 @@
 
         (2) The Administrator may by rules and regulations that shall be codified in the Code of Federal Regulations, after an opportunity for notice and comment, or upon application of an interested party, at any time previous to such failure, by order, after notice and opportunity for hearing which shall be conducted pursuant to sections 554, 556, and 557 of title 5, exempt in whole or in part, any small business lending company or non-Federally regulated lender from paragraph (1), upon such terms and conditions and for such period of time as it deems necessary and appropriate, if the Administrator finds that such action is not inconsistent with the public interest or the protection of the Administration. The Administrator may for the purposes of this section make any alternative requirements appropriate to the situation.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[23\], as added [Pub. L. 98–473, title I, § 111A(a)][/us/pl/98/473/s111A/a], Oct. 12, 1984, [98 Stat. 1965][/us/stat/98/1965]; [Pub. L. 108–447, div. K, title I, § 161][/us/pl/108/447/s161], Dec. 8, 2004, [118 Stat. 3458][/us/stat/118/3458].)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[23\], as added [Pub. L. 98–473, title I][/us/pl/98/473/tI], § 111A(a), Oct. 12, 1984, [98 Stat. 1965][/us/stat/98/1965]; [Pub. L. 108–447, div. K, title I][/us/pl/108/447/dK/tI], § 161, Dec. 8, 2004, [118 Stat. 3458][/us/stat/118/3458].)
 
  __Prior Provisions__ 
 
-    A prior section 650, acts [July 30, 1953, ch. 282][/us/act/1953-07-30/ch282], title II, § 221, [67 Stat. 240][/us/stat/67/240]; [June 30, 1955, ch. 251, § 4][/us/act/1955-06-30/ch251/s4], [69 Stat. 225][/us/stat/69/225]; [Aug. 9, 1955, ch. 628, § 13][/us/act/1955-08-09/ch628/s13], [69 Stat. 551][/us/stat/69/551]; [Pub. L. 85–120, § 2][/us/pl/85/120/s2], Aug. 3, 1957, [71 Stat. 341][/us/stat/71/341], provided for a termination date of the Small Business Act of 1953, and was omitted from the general revision by [Pub. L. 85–536][/us/pl/85/536]. See Codification note set out under [section 631 of this title][/us/usc/t15/s631].
+    A prior section 650, acts [July 30, 1953, ch. 282][/us/act/1953-07-30/ch282], title II, § 221, [67 Stat. 240][/us/stat/67/240]; [June 30, 1955, ch. 251][/us/act/1955-06-30/ch251], § 4, [69 Stat. 225][/us/stat/69/225]; [Aug. 9, 1955, ch. 628][/us/act/1955-08-09/ch628], § 13, [69 Stat. 551][/us/stat/69/551]; [Pub. L. 85–120][/us/pl/85/120], § 2, Aug. 3, 1957, [71 Stat. 341][/us/stat/71/341], provided for a termination date of the Small Business Act of 1953, and was omitted from the general revision by [Pub. L. 85–536][/us/pl/85/536]. See Codification note set out under [section 631 of this title][/us/usc/t15/s631].
 
  __Amendments__ 
 
@@ -243,18 +243,18 @@
 [/us/usc/t5/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3105
 [/us/usc/t15/s636/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa
 [/us/usc/t15/s636/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fa
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
-[/us/pl/98/473/s111A/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs111A%2Fa
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
+[/us/pl/98/473/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtI
 [/us/stat/98/1965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1965
-[/us/pl/108/447/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs161
+[/us/pl/108/447/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdK%2FtI
 [/us/stat/118/3458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3458
 [/us/act/1953-07-30/ch282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-30%2Fch282
 [/us/stat/67/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F240
-[/us/act/1955-06-30/ch251/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-30%2Fch251%2Fs4
+[/us/act/1955-06-30/ch251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-06-30%2Fch251
 [/us/stat/69/225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F225
-[/us/act/1955-08-09/ch628/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch628%2Fs13
+[/us/act/1955-08-09/ch628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch628
 [/us/stat/69/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F551
-[/us/pl/85/120/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F120%2Fs2
+[/us/pl/85/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F120
 [/us/stat/71/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F341
 [/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631

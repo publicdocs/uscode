@@ -17,7 +17,7 @@
 
     The corporation shall, on or before the 1st day of December in each year, transmit to Congress and to the President a report of its proceedings and activities for the preceding calendar year, including a detailed statement of its receipts and expenditures. Such reports shall not be printed as public documents.
 
-([June 10, 1930, ch. 440, § 5][/us/act/1930-06-10/ch440/s5], [46 Stat. 540][/us/stat/46/540].)
+([June 10, 1930, ch. 440][/us/act/1930-06-10/ch440], § 5, [46 Stat. 540][/us/stat/46/540].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1930-06-10/ch440/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch440%2Fs5
+[/us/act/1930-06-10/ch440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch440
 [/us/stat/46/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F540
 
 

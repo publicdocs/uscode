@@ -17,7 +17,7 @@
 
     When lime is sold in interstate or foreign commerce in containers of less capacity than the standard small barrel, it shall be sold in fractional parts of said standard small barrel, and the net weight of lime contained in such container shall by stencil or otherwise be clearly marked thereon, together with the name of the manufacturer thereof, and the name of the brand, if any, under which it is sold, and, if imported, the name of the country from which it is imported.
 
-([Aug. 23, 1916, ch. 396, § 3][/us/act/1916-08-23/ch396/s3], [39 Stat. 530][/us/stat/39/530].)
+([Aug. 23, 1916, ch. 396][/us/act/1916-08-23/ch396], § 3, [39 Stat. 530][/us/stat/39/530].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1916-08-23/ch396/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-23%2Fch396%2Fs3
+[/us/act/1916-08-23/ch396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-23%2Fch396
 [/us/stat/39/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F530
 
 

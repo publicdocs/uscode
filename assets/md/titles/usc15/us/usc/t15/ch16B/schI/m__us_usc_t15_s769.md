@@ -21,7 +21,7 @@
 
     (2) any reference to “perform” or “performance”, when used in relation to functions, shall be deemed to include the exercise of power, authority, rights, and privileges.
 
-([Pub. L. 93–275, § 10][/us/pl/93/275/s10], May 7, 1974, [88 Stat. 105][/us/stat/88/105].)
+([Pub. L. 93–275][/us/pl/93/275], § 10, May 7, 1974, [88 Stat. 105][/us/stat/88/105].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/93/275/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs10
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F105
 
 

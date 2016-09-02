@@ -17,11 +17,11 @@
 
     The Administrator of the National Oceanic and Atmospheric Administration shall establish an Institute for Aviation Weather Prediction. The Institute shall provide forecasts, weather warnings, and other weather services to the United States aviation community. The Institute shall expand upon the activities of the aviation unit currently at the National Severe Storms Forecast Center in Kansas City, Missouri, and shall be established in the Kansas City  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  Missouri  <sup>\[1\]</sup>  area. The Administrator of the National Oceanic and Atmospheric Administration shall provide a full and fair opportunity for employees at the National Severe Storms Center to assume comparable duties and responsibilities within the Institute.
 
-([Pub. L. 102–588, title II, § 222][/us/pl/102/588/s222], Nov. 4, 1992, [106 Stat. 5119][/us/stat/106/5119].)
+([Pub. L. 102–588, title II][/us/pl/102/588/tII], § 222, Nov. 4, 1992, [106 Stat. 5119][/us/stat/106/5119].)
 
  __Similar Provisions__ 
 
-    Similar provisions were contained in [Pub. L. 102–567, title I, § 112][/us/pl/102/567/s112], Oct. 29, 1992, [106 Stat. 4278][/us/stat/106/4278].
+    Similar provisions were contained in [Pub. L. 102–567, title I][/us/pl/102/567/tI], § 112, Oct. 29, 1992, [106 Stat. 4278][/us/stat/106/4278].
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/102/588/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F588%2Fs222
+[/us/pl/102/588/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F588%2FtII
 [/us/stat/106/5119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F5119
-[/us/pl/102/567/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs112
+[/us/pl/102/567/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtI
 [/us/stat/106/4278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4278
 
 

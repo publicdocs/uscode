@@ -35,33 +35,33 @@
 
     (9) Information security is an important part of computing, information, and communications systems and applications, and research into security architectures is a critical aspect of computing, information, and communications research programs.
 
-([Pub. L. 102–194, § 2][/us/pl/102/194/s2], Dec. 9, 1991, [105 Stat. 1594][/us/stat/105/1594]; [Pub. L. 105–305, § 2(b)][/us/pl/105/305/s2/b], Oct. 28, 1998, [112 Stat. 2919][/us/stat/112/2919].)
+([Pub. L. 102–194][/us/pl/102/194], § 2, Dec. 9, 1991, [105 Stat. 1594][/us/stat/105/1594]; [Pub. L. 105–305][/us/pl/105/305], § 2(b), Oct. 28, 1998, [112 Stat. 2919][/us/stat/112/2919].)
 
  __Amendments__ 
 
-    1998—Par. (4). [Pub. L. 105–305, § 2(b)(1)][/us/pl/105/305/s2/b/1], added par. (4) and struck out former par. (4) which read as follows: “A high-capacity and high-speed national research and education computer network would provide researchers and educators with access to computer and information resources and act as a test bed for further research and development of high-capacity and high-speed computer networks.”
+    1998—Par. (4). [Pub. L. 105–305][/us/pl/105/305], § 2(b)(1), added par. (4) and struck out former par. (4) which read as follows: “A high-capacity and high-speed national research and education computer network would provide researchers and educators with access to computer and information resources and act as a test bed for further research and development of high-capacity and high-speed computer networks.”
 
-    Pars. (7) to (9). [Pub. L. 105–305, § 2(b)(2)][/us/pl/105/305/s2/b/2], added pars. (7) to (9).
+    Pars. (7) to (9). [Pub. L. 105–305][/us/pl/105/305], § 2(b)(2), added pars. (7) to (9).
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–305, § 1][/us/pl/105/305/s1], Oct. 28, 1998, [112 Stat. 2919][/us/stat/112/2919], provided that: 
+[Pub. L. 105–305][/us/pl/105/305], § 1, Oct. 28, 1998, [112 Stat. 2919][/us/stat/112/2919], provided that: 
 
 > “This Act \[enacting [section 5513 of this title][/us/usc/t15/s5513], amending this section and sections 5502, 5503, and 5511 of this title, and enacting provisions set out as notes under this section\] may be cited as the ‘Next Generation Internet Research Act of 1998’.”
 
  __Short Title__ 
 
-[Pub. L. 102–194, § 1][/us/pl/102/194/s1], Dec. 9, 1991, [105 Stat. 1594][/us/stat/105/1594], provided that: 
+[Pub. L. 102–194][/us/pl/102/194], § 1, Dec. 9, 1991, [105 Stat. 1594][/us/stat/105/1594], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘High-Performance Computing Act of 1991’.”
 
-[Pub. L. 108–423, § 1][/us/pl/108/423/s1], Nov. 30, 2004, [118 Stat. 2400][/us/stat/118/2400], provided that: 
+[Pub. L. 108–423][/us/pl/108/423], § 1, Nov. 30, 2004, [118 Stat. 2400][/us/stat/118/2400], provided that: 
 
 > “This Act \[enacting subchapter III of this chapter, amending sections 205l of this title and 1862n–9 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under [section 1862n–9 of Title 42][/us/usc/t42/s1862n–9]\] may be cited as the ‘Department of Energy High-End Computing Revitalization Act of 2004’.”
 
  __Congressional Findings__ 
 
-[Pub. L. 105–305, § 2(a)][/us/pl/105/305/s2/a], Oct. 28, 1998, [112 Stat. 2919][/us/stat/112/2919], provided that: 
+[Pub. L. 105–305][/us/pl/105/305], § 2(a), Oct. 28, 1998, [112 Stat. 2919][/us/stat/112/2919], provided that: 
 
 > “The Congress finds that—
 
@@ -77,7 +77,7 @@
 
  __Purposes__ 
 
-[Pub. L. 105–305, § 3(a)][/us/pl/105/305/s3/a], Oct. 28, 1998, [112 Stat. 2920][/us/stat/112/2920], provided that: 
+[Pub. L. 105–305][/us/pl/105/305], § 3(a), Oct. 28, 1998, [112 Stat. 2920][/us/stat/112/2920], provided that: 
 
 > “The purposes of this Act \[see Short Title of 1998 Amendment note above\] are—
 
@@ -105,7 +105,7 @@
 
  __Definitions__ 
 
-[Pub. L. 105–305, § 7(a)][/us/pl/105/305/s7/a], Oct. 28, 1998, [112 Stat. 2924][/us/stat/112/2924], provided that: 
+[Pub. L. 105–305][/us/pl/105/305], § 7(a), Oct. 28, 1998, [112 Stat. 2924][/us/stat/112/2924], provided that: 
 
 > “For purposes of this Act \[see Short Title of 1998 Amendment note above\]—
 
@@ -198,27 +198,27 @@
 ----------
 ----------
 
-[/us/pl/102/194/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2Fs2
+[/us/pl/102/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194
 [/us/stat/105/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1594
-[/us/pl/105/305/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305%2Fs2%2Fb
+[/us/pl/105/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305
 [/us/stat/112/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2919
-[/us/pl/105/305/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305%2Fs2%2Fb%2F1
-[/us/pl/105/305/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305%2Fs2%2Fb%2F2
-[/us/pl/105/305/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305%2Fs1
+[/us/pl/105/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305
+[/us/pl/105/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305
+[/us/pl/105/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305
 [/us/stat/112/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2919
 [/us/usc/t15/s5513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5513
-[/us/pl/102/194/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2Fs1
+[/us/pl/102/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194
 [/us/stat/105/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1594
-[/us/pl/108/423/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423%2Fs1
+[/us/pl/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423
 [/us/stat/118/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2400
 [/us/usc/t42/s1862n–9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862n%E2%80%939
-[/us/pl/105/305/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305%2Fs2%2Fa
+[/us/pl/105/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305
 [/us/stat/112/2919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2919
-[/us/pl/105/305/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305%2Fs3%2Fa
+[/us/pl/105/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305
 [/us/stat/112/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2920
 [/us/usc/t15/s5501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5501
 [/us/usc/t15/s5501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5501
-[/us/pl/105/305/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305%2Fs7%2Fa
+[/us/pl/105/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305
 [/us/stat/112/2924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2924
 
 

@@ -73,33 +73,33 @@
 
         the agency shall notify the Secretary of Housing and Urban Development of the violation, and shall notify the applicant that the Secretary of Housing and Urban Development has been notified of the alleged violation and that remedies for the violation may be available under the Fair Housing Act.
 
-([Pub. L. 90–321, title VII, § 706][/us/pl/90/321/s706], as added [Pub. L. 93–495, title V, § 503][/us/pl/93/495/s503], Oct. 28, 1974, [88 Stat. 1524][/us/stat/88/1524]; amended [Pub. L. 94–239, § 6][/us/pl/94/239/s6], Mar. 23, 1976, [90 Stat. 253][/us/stat/90/253]; [Pub. L. 102–242, title II, § 223(a)][/us/pl/102/242/s223/a]–(c), Dec. 19, 1991, [105 Stat. 2306][/us/stat/105/2306]; [Pub. L. 111–203, title X, § 1085(1)][/us/pl/111/203/s1085/1], (5)–(7), July 21, 2010, [124 Stat. 2083][/us/stat/124/2083], 2085.)
+([Pub. L. 90–321, title VII][/us/pl/90/321/tVII], § 706, as added [Pub. L. 93–495, title V][/us/pl/93/495/tV], § 503, Oct. 28, 1974, [88 Stat. 1524][/us/stat/88/1524]; amended [Pub. L. 94–239][/us/pl/94/239], § 6, Mar. 23, 1976, [90 Stat. 253][/us/stat/90/253]; [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 223(a)–(c), Dec. 19, 1991, [105 Stat. 2306][/us/stat/105/2306]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1085(1), (5)–(7), July 21, 2010, [124 Stat. 2083][/us/stat/124/2083], 2085.)
 
  __References in Text__ 
 
-    [Section 3612 of title 42][/us/usc/t42/s3612], referred to in subsec. (i), which related to enforcement of the Fair Housing Act ([42 U.S.C. 3601][/us/usc/t42/s3601] et seq.) by private persons, was repealed by [Pub. L. 100–430, § 8(2)][/us/pl/100/430/s8/2], Sept. 13, 1988, [102 Stat. 1625][/us/stat/102/1625]. See [section 3613 of Title 42][/us/usc/t42/s3613], The Public Health and Welfare.
+    [Section 3612 of title 42][/us/usc/t42/s3612], referred to in subsec. (i), which related to enforcement of the Fair Housing Act ([42 U.S.C. 3601][/us/usc/t42/s3601] et seq.) by private persons, was repealed by [Pub. L. 100–430][/us/pl/100/430], § 8(2), Sept. 13, 1988, [102 Stat. 1625][/us/stat/102/1625]. See [section 3613 of Title 42][/us/usc/t42/s3613], The Public Health and Welfare.
 
-    Paragraph (1), (2), or (3) of [section 1691c(a) of this title][/us/usc/t15/s1691c/a], referred to in subsec. (k), probably means par. (1), (2), or (3) of [section 1691c(a) of this title][/us/usc/t15/s1691c/a] prior to repeal of pars. (1) and (2), enactment of new pars. (1) and (9), and redesignation of par. (3) as (2) by [Pub. L. 111–203, title X, § 1085(4)(A)(ii)][/us/pl/111/203/s1085/4/A/ii]–(vi), July 21, 2010, [124 Stat. 2084][/us/stat/124/2084].
+    Paragraph (1), (2), or (3) of [section 1691c(a) of this title][/us/usc/t15/s1691c/a], referred to in subsec. (k), probably means par. (1), (2), or (3) of [section 1691c(a) of this title][/us/usc/t15/s1691c/a] prior to repeal of pars. (1) and (2), enactment of new pars. (1) and (9), and redesignation of par. (3) as (2) by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1085(4)(A)(ii)–(vi), July 21, 2010, [124 Stat. 2084][/us/stat/124/2084].
 
     The Fair Housing Act, referred to in subsec. (k), is title VIII of [Pub. L. 90–284][/us/pl/90/284], Apr. 11, 1968, [82 Stat. 81][/us/stat/82/81], which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of Title 42][/us/usc/t42/s3601] and Tables.
 
  __Amendments__ 
 
-    2010—Subsec. (e). [Pub. L. 111–203, § 1085(5)(B)][/us/pl/111/203/s1085/5/B], substituted “Bureau of Consumer Financial Protection” for “Federal Reserve System” in text.
+    2010—Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 1085(5)(B), substituted “Bureau of Consumer Financial Protection” for “Federal Reserve System” in text.
 
-    [Pub. L. 111–203, § 1085(5)(A)][/us/pl/111/203/s1085/5/A], which directed amendment of “subsection heading” by substituting “Bureau” for “Board” wherever appearing and “Bureau of Consumer Financial Protection” for “Federal Reserve System”, was executed by making the substitutions in heading that had been supplied editorially, to reflect the probable intent of Congress.
+    [Pub. L. 111–203][/us/pl/111/203], § 1085(5)(A), which directed amendment of “subsection heading” by substituting “Bureau” for “Board” wherever appearing and “Bureau of Consumer Financial Protection” for “Federal Reserve System”, was executed by making the substitutions in heading that had been supplied editorially, to reflect the probable intent of Congress.
 
-    [Pub. L. 111–203, § 1085(1)][/us/pl/111/203/s1085/1], substituted “Bureau” for “Board” wherever appearing.
+    [Pub. L. 111–203][/us/pl/111/203], § 1085(1), substituted “Bureau” for “Board” wherever appearing.
 
-    Subsec. (f). [Pub. L. 111–203, § 1085(7)][/us/pl/111/203/s1085/7], substituted “5 years after” for “two years from” wherever appearing.
+    Subsec. (f). [Pub. L. 111–203][/us/pl/111/203], § 1085(7), substituted “5 years after” for “two years from” wherever appearing.
 
-    Subsec. (g). [Pub. L. 111–203, § 1085(6)][/us/pl/111/203/s1085/6], substituted “(9)” for “(3)”.
+    Subsec. (g). [Pub. L. 111–203][/us/pl/111/203], § 1085(6), substituted “(9)” for “(3)”.
 
-    1991—Subsec. (g). [Pub. L. 102–242, § 223(a)][/us/pl/102/242/s223/a], inserted at end “Each agency referred to in paragraphs (1), (2), and (3) of [section 1691c(a) of this title][/us/usc/t15/s1691c/a] shall refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has engaged in a pattern or practice of discouraging or denying applications for credit in violation of [section 1691(a) of this title][/us/usc/t15/s1691/a]. Each such agency may refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has violated [section 1691(a) of this title][/us/usc/t15/s1691/a].”
+    1991—Subsec. (g). [Pub. L. 102–242][/us/pl/102/242], § 223(a), inserted at end “Each agency referred to in paragraphs (1), (2), and (3) of [section 1691c(a) of this title][/us/usc/t15/s1691c/a] shall refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has engaged in a pattern or practice of discouraging or denying applications for credit in violation of [section 1691(a) of this title][/us/usc/t15/s1691/a]. Each such agency may refer the matter to the Attorney General whenever the agency has reason to believe that 1 or more creditors has violated [section 1691(a) of this title][/us/usc/t15/s1691/a].”
 
-    Subsec. (h). [Pub. L. 102–242, § 223(b)][/us/pl/102/242/s223/b], inserted “actual and punitive damages and” after “be appropriate, including”.
+    Subsec. (h). [Pub. L. 102–242][/us/pl/102/242], § 223(b), inserted “actual and punitive damages and” after “be appropriate, including”.
 
-    Subsec. (k). [Pub. L. 102–242, § 223(c)][/us/pl/102/242/s223/c], added subsec. (k).
+    Subsec. (k). [Pub. L. 102–242][/us/pl/102/242], § 223(c), added subsec. (k).
 
     1976—Subsec. (a). [Pub. L. 94–239][/us/pl/94/239] substituted reference to member for reference to representative.
 
@@ -139,38 +139,38 @@
 [/us/usc/t42/s3605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3605
 [/us/usc/t15/s1691c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1691c%2Fa
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
-[/us/pl/90/321/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs706
-[/us/pl/93/495/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs503
+[/us/pl/90/321/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVII
+[/us/pl/93/495/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtV
 [/us/stat/88/1524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1524
-[/us/pl/94/239/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239%2Fs6
+[/us/pl/94/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239
 [/us/stat/90/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F253
-[/us/pl/102/242/s223/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs223%2Fa
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2306
-[/us/pl/111/203/s1085/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1085%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2083
 [/us/usc/t42/s3612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3612
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
-[/us/pl/100/430/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430%2Fs8%2F2
+[/us/pl/100/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F430
 [/us/stat/102/1625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1625
 [/us/usc/t42/s3613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3613
 [/us/usc/t15/s1691c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1691c%2Fa
 [/us/usc/t15/s1691c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1691c%2Fa
-[/us/pl/111/203/s1085/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1085%2F4%2FA%2Fii
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2084
 [/us/pl/90/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F284
 [/us/stat/82/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F81
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
-[/us/pl/111/203/s1085/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1085%2F5%2FB
-[/us/pl/111/203/s1085/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1085%2F5%2FA
-[/us/pl/111/203/s1085/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1085%2F1
-[/us/pl/111/203/s1085/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1085%2F7
-[/us/pl/111/203/s1085/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1085%2F6
-[/us/pl/102/242/s223/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs223%2Fa
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/usc/t15/s1691c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1691c%2Fa
 [/us/usc/t15/s1691/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1691%2Fa
 [/us/usc/t15/s1691/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1691%2Fa
-[/us/pl/102/242/s223/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs223%2Fb
-[/us/pl/102/242/s223/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs223%2Fc
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/94/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239
 [/us/pl/94/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239
 [/us/pl/94/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F239

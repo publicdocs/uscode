@@ -17,7 +17,7 @@
 
     The District Courts of the United States and the United States courts of any Territory or other place subject to the jurisdiction of the United States shall have exclusive jurisdiction of violations of this chapter or the rules, regulations, and orders thereunder, and of all suits in equity and actions at law brought to enforce any liability or duty created by, or to enjoin any violation of, this chapter or any rule, regulation, or order thereunder. Any criminal proceeding shall be brought in the district wherein any act or transaction constituting the violation occurred. Any suit or action to enforce any liability or duty created by, or to enjoin any violation of, this chapter or any rule, regulation, or order thereunder may be brought in any such district or in the district wherein the defendant is an inhabitant, and process in such cases may be served wherever the defendant may be found. Judgments and decrees so rendered shall be subject to review as provided in sections 1254, 1291, and 1292 of title 28. No costs shall be assessed against the Commission in any judicial proceeding by or against the Commission under this chapter.
 
-([June 21, 1938, ch. 556, § 24][/us/act/1938-06-21/ch556/s24], formerly § 22, [52 Stat. 833][/us/stat/52/833]; [June 25, 1948, ch. 646, § 1][/us/act/1948-06-25/ch646/s1], [62 Stat. 875][/us/stat/62/875], 895; renumbered § 24, [Pub. L. 109–58, title III, § 314(b)(1)(A)][/us/pl/109/58/s314/b/1/A], Aug. 8, 2005, [119 Stat. 690][/us/stat/119/690].)
+([June 21, 1938, ch. 556][/us/act/1938-06-21/ch556], § 24, formerly § 22, [52 Stat. 833][/us/stat/52/833]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 1, [62 Stat. 875][/us/stat/62/875], 895; renumbered § 24, [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 314(b)(1)(A), Aug. 8, 2005, [119 Stat. 690][/us/stat/119/690].)
 
  __Codification__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/act/1938-06-21/ch556/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556%2Fs24
+[/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F833
-[/us/act/1948-06-25/ch646/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs1
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F875
-[/us/pl/109/58/s314/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs314%2Fb%2F1%2FA
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F690
 [/us/usc/t28/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs132%2Fa
 [/us/usc/t28/s88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs88

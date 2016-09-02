@@ -275,7 +275,7 @@
 
         (3) facilitate improved communication between the Centers to assist such manufacturers in implementing appropriate, targeted solutions to such obstacles.
 
-([Mar. 3, 1901, ch. 872, § 25][/us/act/1901-03-03/ch872/s25], as added [Pub. L. 100–418, title V, § 5121(a)][/us/pl/100/418/s5121/a], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; amended [Pub. L. 102–245, title I, § 105(e)][/us/pl/102/245/s105/e], Feb. 14, 1992, [106 Stat. 12][/us/stat/106/12]; [Pub. L. 105–309, § 2][/us/pl/105/309/s2], Oct. 30, 1998, [112 Stat. 2935][/us/stat/112/2935]; [Pub. L. 110–69, title III, § 3003][/us/pl/110/69/s3003], Aug. 9, 2007, [121 Stat. 587][/us/stat/121/587]; [Pub. L. 111–240, title IV, § 4226(a)][/us/pl/111/240/s4226/a], Sept. 27, 2010, [124 Stat. 2598][/us/stat/124/2598]; [Pub. L. 111–358, title IV, § 404(a)][/us/pl/111/358/s404/a]–(f)(1), (3), (h), (i), title VII, § 703, Jan. 4, 2011, [124 Stat. 4001–4003][/us/stat/124/4001-4003], 4042.)
+([Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 25, as added [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5121(a), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; amended [Pub. L. 102–245, title I][/us/pl/102/245/tI], § 105(e), Feb. 14, 1992, [106 Stat. 12][/us/stat/106/12]; [Pub. L. 105–309][/us/pl/105/309], § 2, Oct. 30, 1998, [112 Stat. 2935][/us/stat/112/2935]; [Pub. L. 110–69, title III][/us/pl/110/69/tIII], § 3003, Aug. 9, 2007, [121 Stat. 587][/us/stat/121/587]; [Pub. L. 111–240, title IV][/us/pl/111/240/tIV], § 4226(a), Sept. 27, 2010, [124 Stat. 2598][/us/stat/124/2598]; [Pub. L. 111–358, title IV][/us/pl/111/358/tIV], § 404(a)–(f)(1), (3), (h), (i), title VII, § 703, Jan. 4, 2011, [124 Stat. 4001–4003][/us/stat/124/4001-4003], 4042.)
 
  __References in Text__ 
 
@@ -283,19 +283,19 @@
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 111–358, § 404(f)(3)(A)][/us/pl/111/358/s404/f/3/A], substituted “regional centers for the transfer of manufacturing technology” for “Regional Centers for the Transfer of Manufacturing Technology” in introductory provisions.
+    2011—Subsec. (a). [Pub. L. 111–358][/us/pl/111/358], § 404(f)(3)(A), substituted “regional centers for the transfer of manufacturing technology” for “Regional Centers for the Transfer of Manufacturing Technology” in introductory provisions.
 
-    Subsec. (a)(6). [Pub. L. 111–358, § 404(a)][/us/pl/111/358/s404/a], added par. (6).
+    Subsec. (a)(6). [Pub. L. 111–358][/us/pl/111/358], § 404(a), added par. (6).
 
-    Subsec. (c)(7), (8). [Pub. L. 111–358, § 404(d)][/us/pl/111/358/s404/d], added pars. (7) and (8).
+    Subsec. (c)(7), (8). [Pub. L. 111–358][/us/pl/111/358], § 404(d), added pars. (7) and (8).
 
-    Subsec. (e)(4). [Pub. L. 111–358, § 404(e)][/us/pl/111/358/s404/e], amended par. (4) generally. Prior to amendment, text read as follows: “In discharging its duties under this subsection, the MEP Advisory Board shall function solely in an advisory capacity, in accordance with the Federal Advisory Committee Act.”
+    Subsec. (e)(4). [Pub. L. 111–358][/us/pl/111/358], § 404(e), amended par. (4) generally. Prior to amendment, text read as follows: “In discharging its duties under this subsection, the MEP Advisory Board shall function solely in an advisory capacity, in accordance with the Federal Advisory Committee Act.”
 
-    Subsec. (f)(3). [Pub. L. 111–358, § 703(a)][/us/pl/111/358/s703/a], substituted “to add capabilities to the MEP program, including the development of” for “to develop” and “Centers may be reimbursed for costs incurred under the program. These themes—” for “These themes shall be related to projects associated with manufacturing extension activities, including supply chain integration and quality management, and including the transfer of technology based on the technological needs of manufacturers and available technologies from institutions of higher education, laboratories, and other technology producing entities, or extend beyond these traditional areas.” and added subpars. (A) to (C).
+    Subsec. (f)(3). [Pub. L. 111–358][/us/pl/111/358], § 703(a), substituted “to add capabilities to the MEP program, including the development of” for “to develop” and “Centers may be reimbursed for costs incurred under the program. These themes—” for “These themes shall be related to projects associated with manufacturing extension activities, including supply chain integration and quality management, and including the transfer of technology based on the technological needs of manufacturers and available technologies from institutions of higher education, laboratories, and other technology producing entities, or extend beyond these traditional areas.” and added subpars. (A) to (C).
 
-    [Pub. L. 111–358, § 404(i)][/us/pl/111/358/s404/i], substituted “Director of the Hollings MEP program,” for “Director of the Centers program,”.
+    [Pub. L. 111–358][/us/pl/111/358], § 404(i), substituted “Director of the Hollings MEP program,” for “Director of the Centers program,”.
 
-    Subsec. (f)(5). [Pub. L. 111–358, § 703(b)][/us/pl/111/358/s703/b], amended par. (5) generally. Prior to amendment, text read as follows: “Awards under this subsection shall be peer reviewed and competitively awarded. The Director shall select proposals to receive awards—
+    Subsec. (f)(5). [Pub. L. 111–358][/us/pl/111/358], § 703(b), amended par. (5) generally. Prior to amendment, text read as follows: “Awards under this subsection shall be peer reviewed and competitively awarded. The Director shall select proposals to receive awards—
 
     “(A) that utilize innovative or collaborative approaches to solving the problem described in the competition;
 
@@ -303,45 +303,45 @@
 
     “(C) that will contribute to the long-term economic stability of that region.”
 
-    Subsec. (f)(7). [Pub. L. 111–358, § 703(c)][/us/pl/111/358/s703/c], added par. (7) relating to duration.
+    Subsec. (f)(7). [Pub. L. 111–358][/us/pl/111/358], § 703(c), added par. (7) relating to duration.
 
-    Subsec. (f)(8), (9). [Pub. L. 111–358, § 703(c)][/us/pl/111/358/s703/c], added pars. (8) and (9).
+    Subsec. (f)(8), (9). [Pub. L. 111–358][/us/pl/111/358], § 703(c), added pars. (8) and (9).
 
-    Subsec. (g). [Pub. L. 111–358, § 404(b)][/us/pl/111/358/s404/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 111–358][/us/pl/111/358], § 404(b), added subsec. (g).
 
-    Subsec. (h). [Pub. L. 111–358, § 404(c)][/us/pl/111/358/s404/c], added subsec. (h).
+    Subsec. (h). [Pub. L. 111–358][/us/pl/111/358], § 404(c), added subsec. (h).
 
-    Subsec. (i). [Pub. L. 111–358, § 404(f)(1)][/us/pl/111/358/s404/f/1], added subsec. (i).
+    Subsec. (i). [Pub. L. 111–358][/us/pl/111/358], § 404(f)(1), added subsec. (i).
 
-    Subsec. (j). [Pub. L. 111–358, § 404(f)(3)(B)][/us/pl/111/358/s404/f/3/B], added subsec. (j).
+    Subsec. (j). [Pub. L. 111–358][/us/pl/111/358], § 404(f)(3)(B), added subsec. (j).
 
-    Subsec. (k). [Pub. L. 111–358, § 404(h)][/us/pl/111/358/s404/h], added subsec. (k).
+    Subsec. (k). [Pub. L. 111–358][/us/pl/111/358], § 404(h), added subsec. (k).
 
     2010—Subsec. (f)(7). [Pub. L. 111–240][/us/pl/111/240] added par. (7) relating to global marketplace projects.
 
-    2007—Subsec. (c)(3). [Pub. L. 110–69, § 3003(a)][/us/pl/110/69/s3003/a], amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Any nonprofit institution, or group thereof, or consortia of nonprofit institutions, including entities existing on August 23, 1988, may submit to the Secretary an application for financial support under this subsection, in accordance with the procedures established by the Secretary and published in the Federal Register under paragraph (2). In order to receive assistance under this section, an applicant shall provide adequate assurances that it will contribute 50 percent or more of the proposed Center’s capital and annual operating and maintenance costs for the first three years and an increasing share for each of the last three years. Each applicant shall also submit a proposal for the allocation of the legal rights associated with any invention which may result from the proposed Center’s activities.”
+    2007—Subsec. (c)(3). [Pub. L. 110–69][/us/pl/110/69], § 3003(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Any nonprofit institution, or group thereof, or consortia of nonprofit institutions, including entities existing on August 23, 1988, may submit to the Secretary an application for financial support under this subsection, in accordance with the procedures established by the Secretary and published in the Federal Register under paragraph (2). In order to receive assistance under this section, an applicant shall provide adequate assurances that it will contribute 50 percent or more of the proposed Center’s capital and annual operating and maintenance costs for the first three years and an increasing share for each of the last three years. Each applicant shall also submit a proposal for the allocation of the legal rights associated with any invention which may result from the proposed Center’s activities.”
 
-    Subsec. (c)(5). [Pub. L. 110–69, § 3003(b)][/us/pl/110/69/s3003/b], inserted “A Center that has not received a positive evaluation by the evaluation panel shall be notified by the panel of the deficiencies in its performance and shall be placed on probation for one year, after which time the panel shall reevaluate the Center. If the Center has not addressed the deficiencies identified by the panel, or shown a significant improvement in its performance, the Director shall conduct a new competition to select an operator for the Center or may close the Center.” after “at declining levels.”
+    Subsec. (c)(5). [Pub. L. 110–69][/us/pl/110/69], § 3003(b), inserted “A Center that has not received a positive evaluation by the evaluation panel shall be notified by the panel of the deficiencies in its performance and shall be placed on probation for one year, after which time the panel shall reevaluate the Center. If the Center has not addressed the deficiencies identified by the panel, or shown a significant improvement in its performance, the Director shall conduct a new competition to select an operator for the Center or may close the Center.” after “at declining levels.”
 
-    Subsec. (d). [Pub. L. 110–69, § 3003(c)][/us/pl/110/69/s3003/c], added subsec. (d) and struck out former subsec. (d). Text of former subsec. (d) read as follows: “In addition to such sums as may be authorized and appropriated to the Secretary and Director to operate the Centers program, the Secretary and Director also may accept funds from other Federal departments and agencies for the purpose of providing Federal funds to support Centers. Any Center which is supported with funds which originally came from other Federal departments and agencies shall be selected and operated according to the provisions of this section.”
+    Subsec. (d). [Pub. L. 110–69][/us/pl/110/69], § 3003(c), added subsec. (d) and struck out former subsec. (d). Text of former subsec. (d) read as follows: “In addition to such sums as may be authorized and appropriated to the Secretary and Director to operate the Centers program, the Secretary and Director also may accept funds from other Federal departments and agencies for the purpose of providing Federal funds to support Centers. Any Center which is supported with funds which originally came from other Federal departments and agencies shall be selected and operated according to the provisions of this section.”
 
-    Subsec. (e). [Pub. L. 110–69, § 3003(d)][/us/pl/110/69/s3003/d], added subsec. (e).
+    Subsec. (e). [Pub. L. 110–69][/us/pl/110/69], § 3003(d), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 110–69, § 3003(e)][/us/pl/110/69/s3003/e], added subsec. (f).
+    Subsec. (f). [Pub. L. 110–69][/us/pl/110/69], § 3003(e), added subsec. (f).
 
     1998—Subsec. (c)(5). [Pub. L. 105–309][/us/pl/105/309] substituted “. After the sixth year, a Center may receive additional financial support under this section if it has received a positive evaluation through an independent review, under procedures established by the Institute. Such an independent review shall be required at least every two years after the sixth year of operation. Funding received for a fiscal year under this section after the sixth year of operation shall not exceed one third of the capital and annual operating and maintenance costs of the Center under the program.” for “, which are designed to ensure that the Center no longer needs financial support from the Institute by the seventh year. In no event shall funding for a Center be provided by the Department of Commerce after the sixth year of the operation of a Center.”
 
-    1992—Subsec. (c)(6). [Pub. L. 102–245, § 105(e)(1)][/us/pl/102/245/s105/e/1], inserted before period at end “except for contracts for such specific technology extension or transfer services as may be specified by statute or by the Director”.
+    1992—Subsec. (c)(6). [Pub. L. 102–245][/us/pl/102/245], § 105(e)(1), inserted before period at end “except for contracts for such specific technology extension or transfer services as may be specified by statute or by the Director”.
 
-    Subsec. (d). [Pub. L. 102–245, § 105(e)(2)][/us/pl/102/245/s105/e/2], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated for the purposes of carrying out this section, a combined total of not to exceed $40,000,000 for fiscal years 1989 and 1990. Such sums shall remain available until expended.”
+    Subsec. (d). [Pub. L. 102–245][/us/pl/102/245], § 105(e)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated for the purposes of carrying out this section, a combined total of not to exceed $40,000,000 for fiscal years 1989 and 1990. Such sums shall remain available until expended.”
 
  __Change of Name__ 
 
-    [Pub. L. 108–447, div. B, title II][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 2879][/us/stat/118/2879], which in part renamed the Manufacturing Extension Partnership Program authorized under this section as the Hollings Manufacturing Partnership Program and which named the centers established and receiving funding under subsec. (a) of this section the Hollings Manufacturing Extension Centers, was repealed by [Pub. L. 111–358, title IV, § 404(f)(2)][/us/pl/111/358/s404/f/2], Jan. 4, 2011, [124 Stat. 4002][/us/stat/124/4002].
+    [Pub. L. 108–447, div. B, title II][/us/pl/108/447/dB/tII], Dec. 8, 2004, [118 Stat. 2879][/us/stat/118/2879], which in part renamed the Manufacturing Extension Partnership Program authorized under this section as the Hollings Manufacturing Partnership Program and which named the centers established and receiving funding under subsec. (a) of this section the Hollings Manufacturing Extension Centers, was repealed by [Pub. L. 111–358, title IV][/us/pl/111/358/tIV], § 404(f)(2), Jan. 4, 2011, [124 Stat. 4002][/us/stat/124/4002].
 
  __Findings__ 
 
-[Pub. L. 111–358, title VII, § 702][/us/pl/111/358/s702], Jan. 4, 2011, [124 Stat. 4041][/us/stat/124/4041], provided that: 
+[Pub. L. 111–358, title VII][/us/pl/111/358/tVII], § 702, Jan. 4, 2011, [124 Stat. 4041][/us/stat/124/4041], provided that: 
 
 > “Congress finds the following:
 
@@ -361,27 +361,27 @@
 
  __Agreements and Contributions for Collective Research and Development Initiatives__ 
 
-[Pub. L. 108–7, div. B, title II][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 73][/us/stat/117/73], provided in part: 
+[Pub. L. 108–7, div. B, title II][/us/pl/108/7/dB/tII], Feb. 20, 2003, [117 Stat. 73][/us/stat/117/73], provided in part: 
 
 > “That hereafter the Secretary of Commerce is authorized to enter into agreements with one or more nonprofit organizations for the purpose of carrying out collective research and development initiatives pertaining to [15 U.S.C. 278k][/us/usc/t15/s278k] paragraph (a), and is authorized to seek and accept contributions from public and private sources to support these efforts as necessary.”
 
     Similar provisions were contained in the following prior appropriation act:
 
-    [Pub. L. 107–77, title II][/us/pl/107/77], Nov. 28, 2001, [115 Stat. 774][/us/stat/115/774].
+    [Pub. L. 107–77, title II][/us/pl/107/77/tII], Nov. 28, 2001, [115 Stat. 774][/us/stat/115/774].
 
  __Additional Renewal of Federal Financial Assistance for Centers__ 
 
-[Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title II\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–83, which provided that Federal financial assistance awarded by the Secretary of Commerce to a Regional Center for the Transfer of Manufacturing Technology could continue beyond six years and could be renewed for additional periods, not to exceed one year, at a rate not to exceed one-third of the Center’s total annual costs or the level of funding in the sixth year, whichever was less, subject before any such renewal to a positive evaluation of the Center and to a finding by the Secretary of Commerce that continuation of Federal funding to the Center was in the best interest of the Regional Centers for the Transfer of Manufacturing Technology Program, was from the Departments of Commerce Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, and was not repeated in subsequent appropriations Acts. Similar provisions were contained in the following prior appropriation acts:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(b) \[title II\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–83, which provided that Federal financial assistance awarded by the Secretary of Commerce to a Regional Center for the Transfer of Manufacturing Technology could continue beyond six years and could be renewed for additional periods, not to exceed one year, at a rate not to exceed one-third of the Center’s total annual costs or the level of funding in the sixth year, whichever was less, subject before any such renewal to a positive evaluation of the Center and to a finding by the Secretary of Commerce that continuation of Federal funding to the Center was in the best interest of the Regional Centers for the Transfer of Manufacturing Technology Program, was from the Departments of Commerce Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, and was not repeated in subsequent appropriations Acts. Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 105–119, title II][/us/pl/105/119], Nov. 26, 1997, [111 Stat. 2476][/us/stat/111/2476].
+    [Pub. L. 105–119, title II][/us/pl/105/119/tII], Nov. 26, 1997, [111 Stat. 2476][/us/stat/111/2476].
 
-    [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–36.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–36.
 
-    [Pub. L. 103–317, title II][/us/pl/103/317], Aug. 26, 1994, [108 Stat. 1741][/us/stat/108/1741].
+    [Pub. L. 103–317, title II][/us/pl/103/317/tII], Aug. 26, 1994, [108 Stat. 1741][/us/stat/108/1741].
 
  __Publication in Federal Register__ 
 
-[Pub. L. 100–519, title I, § 102(d)][/us/pl/100/519/s102/d], Oct. 24, 1988, [102 Stat. 2590][/us/stat/102/2590], provided that: 
+[Pub. L. 100–519, title I][/us/pl/100/519/tI], § 102(d), Oct. 24, 1988, [102 Stat. 2590][/us/stat/102/2590], provided that: 
 
 > “The requirement of [section 25(c)(2) of the Act of March 3, 1901][/us/act/1901-03-03/s25/c/2], \[[15 U.S.C. 278k(c)(2)][/us/usc/t15/s278k/c/2]\], shall be considered to have been met by the publication made by the National Bureau of Standards on July 18, 1988 (53 Fed. Reg. 27060).”
 
@@ -398,65 +398,65 @@
 [/us/usc/t15/s278i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278i
 [/us/usc/t15/s3711a/d/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3711a%2Fd%2F1%2FC
 [/us/usc/t20/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fa
-[/us/act/1901-03-03/ch872/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs25
-[/us/pl/100/418/s5121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5121%2Fa
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
-[/us/pl/102/245/s105/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs105%2Fe
+[/us/pl/102/245/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtI
 [/us/stat/106/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F12
-[/us/pl/105/309/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F309%2Fs2
+[/us/pl/105/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F309
 [/us/stat/112/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2935
-[/us/pl/110/69/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3003
+[/us/pl/110/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIII
 [/us/stat/121/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F587
-[/us/pl/111/240/s4226/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs4226%2Fa
+[/us/pl/111/240/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtIV
 [/us/stat/124/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2598
-[/us/pl/111/358/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs404%2Fa
+[/us/pl/111/358/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtIV
 [/us/stat/124/4001-4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4001-4003
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/111/358/s404/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs404%2Ff%2F3%2FA
-[/us/pl/111/358/s404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs404%2Fa
-[/us/pl/111/358/s404/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs404%2Fd
-[/us/pl/111/358/s404/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs404%2Fe
-[/us/pl/111/358/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs703%2Fa
-[/us/pl/111/358/s404/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs404%2Fi
-[/us/pl/111/358/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs703%2Fb
-[/us/pl/111/358/s703/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs703%2Fc
-[/us/pl/111/358/s703/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs703%2Fc
-[/us/pl/111/358/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs404%2Fb
-[/us/pl/111/358/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs404%2Fc
-[/us/pl/111/358/s404/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs404%2Ff%2F1
-[/us/pl/111/358/s404/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs404%2Ff%2F3%2FB
-[/us/pl/111/358/s404/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs404%2Fh
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
+[/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
-[/us/pl/110/69/s3003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3003%2Fa
-[/us/pl/110/69/s3003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3003%2Fb
-[/us/pl/110/69/s3003/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3003%2Fc
-[/us/pl/110/69/s3003/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3003%2Fd
-[/us/pl/110/69/s3003/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3003%2Fe
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
+[/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 [/us/pl/105/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F309
-[/us/pl/102/245/s105/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs105%2Fe%2F1
-[/us/pl/102/245/s105/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs105%2Fe%2F2
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/102/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245
+[/us/pl/102/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245
+[/us/pl/108/447/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdB%2FtII
 [/us/stat/118/2879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2879
-[/us/pl/111/358/s404/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs404%2Ff%2F2
+[/us/pl/111/358/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtIV
 [/us/stat/124/4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4002
-[/us/pl/111/358/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs702
+[/us/pl/111/358/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtVII
 [/us/stat/124/4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4041
 [/us/usc/t15/s278k/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278k%2Ff
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdB%2FtII
 [/us/stat/117/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F73
 [/us/usc/t15/s278k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278k
-[/us/pl/107/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77
+[/us/pl/107/77/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2FtII
 [/us/stat/115/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F774
-[/us/pl/105/277/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Fb
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-50
-[/us/pl/105/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119
+[/us/pl/105/119/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F119%2FtII
 [/us/stat/111/2476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2476
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/103/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317
+[/us/pl/103/317/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F317%2FtII
 [/us/stat/108/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1741
-[/us/pl/100/519/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs102%2Fd
+[/us/pl/100/519/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2FtI
 [/us/stat/102/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2590
 [/us/act/1901-03-03/s25/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fs25%2Fc%2F2
 [/us/usc/t15/s278k/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278k%2Fc%2F2

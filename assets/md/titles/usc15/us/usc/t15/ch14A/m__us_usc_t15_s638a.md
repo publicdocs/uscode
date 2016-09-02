@@ -21,7 +21,7 @@
 
     (2) submit to Congress a report regarding the study conducted under paragraph (1).
 
-([Pub. L. 112–81, div. E, title LI, § 5142][/us/pl/112/81/s5142], Dec. 31, 2011, [125 Stat. 1854][/us/stat/125/1854].)
+([Pub. L. 112–81, div. E, title LI][/us/pl/112/81/dE/tLI], § 5142, Dec. 31, 2011, [125 Stat. 1854][/us/stat/125/1854].)
 
  __Codification__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
-[/us/pl/112/81/s5142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5142
+[/us/pl/112/81/dE/tLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdE%2FtLI
 [/us/stat/125/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1854
 
 

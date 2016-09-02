@@ -27,7 +27,7 @@
 
         The Administrator may carry out this section only with amounts appropriated in advance specifically to carry out this section.
 
-([Pub. L. 110–234, title XII, § 12079][/us/pl/110/234/s12079], May 22, 2008, [122 Stat. 1416][/us/stat/122/1416]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12079, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2178.)
+([Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12079, May 22, 2008, [122 Stat. 1416][/us/stat/122/1416]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12079, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2178.)
 
  __Codification__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/110/234/s12079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12079
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1416
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

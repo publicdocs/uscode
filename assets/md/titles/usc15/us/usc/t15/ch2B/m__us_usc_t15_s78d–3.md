@@ -39,7 +39,7 @@
 
             (B) repeated instances of unreasonable conduct, each resulting in a violation of applicable professional standards, that indicate a lack of competence to practice before the Commission.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 4C, as added [Pub. L. 107–204, title VI, § 602][/us/pl/107/204/s602], July 30, 2002, [116 Stat. 794][/us/stat/116/794].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 4C, as added [Pub. L. 107–204, title VI][/us/pl/107/204/tVI], § 602, July 30, 2002, [116 Stat. 794][/us/stat/116/794].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/107/204/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs602
+[/us/pl/107/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtVI
 [/us/stat/116/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F794
 
 

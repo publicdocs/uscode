@@ -49,7 +49,7 @@
 
         (5) Nothing in this subsection shall prohibit the use of a book-entry or other electronic form of registration for trust certificates.
 
-([Pub. L. 85–699, title III, § 319][/us/pl/85/699/s319], formerly § 321, as added [Pub. L. 99–272, title XVIII, § 18005(a)][/us/pl/99/272/s18005/a], Apr. 7, 1986, [100 Stat. 364][/us/stat/100/364]; amended [Pub. L. 101–162, title V][/us/pl/101/162], (5), Nov. 21, 1989, [103 Stat. 1028][/us/stat/103/1028]; [Pub. L. 102–366, title IV, § 404][/us/pl/102/366/s404], Sept. 4, 1992, [106 Stat. 1013][/us/stat/106/1013]; renumbered § 319 and amended [Pub. L. 104–208, div. D, title II][/us/pl/104/208], §§ 205(b), 208(h)(1)(E), (F), Sept. 30, 1996, [110 Stat. 3009–738][/us/stat/110/3009-738], 3009–747.)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 319, formerly § 321, as added [Pub. L. 99–272, title XVIII][/us/pl/99/272/tXVIII], § 18005(a), Apr. 7, 1986, [100 Stat. 364][/us/stat/100/364]; amended [Pub. L. 101–162, title V][/us/pl/101/162/tV], (5), Nov. 21, 1989, [103 Stat. 1028][/us/stat/103/1028]; [Pub. L. 102–366, title IV][/us/pl/102/366/tIV], § 404, Sept. 4, 1992, [106 Stat. 1013][/us/stat/106/1013]; renumbered § 319 and amended [Pub. L. 104–208, div. D, title II][/us/pl/104/208/dD/tII], §§ 205(b), 208(h)(1)(E), (F), Sept. 30, 1996, [110 Stat. 3009–738][/us/stat/110/3009-738], 3009–747.)
 
  __References in Text__ 
 
@@ -61,9 +61,9 @@
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–208, § 208(h)(1)(F)(i)][/us/pl/104/208/s208/h/1/F/i], struck out “, including companies operating under the authority of [section 681(d) of this title][/us/usc/t15/s681/d],” after “investment companies”.
+    1996—Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 208(h)(1)(F)(i), struck out “, including companies operating under the authority of [section 681(d) of this title][/us/usc/t15/s681/d],” after “investment companies”.
 
-    Subsec. (f)(1). [Pub. L. 104–208, § 205(b)(1)][/us/pl/104/208/s205/b/1], struck out at end “Such central registration shall include with respect to each sale—
+    Subsec. (f)(1). [Pub. L. 104–208][/us/pl/104/208], § 205(b)(1), struck out at end “Such central registration shall include with respect to each sale—
 
     “(A) identification of each small business investment company;
 
@@ -81,9 +81,9 @@
 
     “(H) such other information as the Administration deems appropriate.”
 
-    Subsec. (f)(2). [Pub. L. 104–208, § 208(h)(1)(F)(ii)][/us/pl/104/208/s208/h/1/F/ii], inserted “or investments in obligations of the United States” after “accounts”.
+    Subsec. (f)(2). [Pub. L. 104–208][/us/pl/104/208], § 208(h)(1)(F)(ii), inserted “or investments in obligations of the United States” after “accounts”.
 
-    Subsec. (f)(5). [Pub. L. 104–208, § 205(b)(2)][/us/pl/104/208/s205/b/2], added par. (5).
+    Subsec. (f)(5). [Pub. L. 104–208][/us/pl/104/208], § 205(b)(2), added par. (5).
 
     1992—[Pub. L. 102–366][/us/pl/102/366] amended section generally, in subsec. (a) authorizing issuance of trust certificates representing ownership of participating securities, in subsec. (b) inserting provisions authorizing Administration to guarantee payment of redemption price of and priority payments on participating securities, in subsec. (e)(2) including participating securities within prohibition against preclusion or limitation of Administration’s ownership rights, and in subsec. (f) in par. (1) substituting provisions relating to small business investment company for provisions relating to development company and requiring prioritized payment rate to be included in central registration requirements, and in par. (2) inserting provisions relating to participating securities, contracts to carry out pooling, and maintenance of commercial bank accounts.
 
@@ -97,7 +97,7 @@
 
  __Regulations__ 
 
-[Pub. L. 99–272, title XVIII, § 18005(b)][/us/pl/99/272/s18005/b], Apr. 7, 1986, [100 Stat. 365][/us/stat/100/365], provided that:
+[Pub. L. 99–272, title XVIII][/us/pl/99/272/tXVIII], § 18005(b), Apr. 7, 1986, [100 Stat. 365][/us/stat/100/365], provided that:
 
 >     “(1) Notwithstanding any law, rule, or regulation, within 60 days after the date of the enactment of this Act \[Apr. 7, 1986\], the Small Business Administration shall develop and promulgate final rules and regulations to implement the central registration provisions provided for in section 321(f)(1) of the Small Business Investment Act \[[15 U.S.C. 687][/us/usc/t15/s687]l(f)(1)\], and shall contract with an agent for an initial period of not to exceed two years to carry out the functions provided for in sections 321(f)(2) and 321(f)(3) of such Act.
 
@@ -115,23 +115,23 @@
 ----------
 
 [/us/usc/t15/s683/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs683%2Fg
-[/us/pl/85/699/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs319
-[/us/pl/99/272/s18005/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs18005%2Fa
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/99/272/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXVIII
 [/us/stat/100/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F364
-[/us/pl/101/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162
+[/us/pl/101/162/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2FtV
 [/us/stat/103/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1028
-[/us/pl/102/366/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs404
+[/us/pl/102/366/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2FtIV
 [/us/stat/106/1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1013
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD%2FtII
 [/us/stat/110/3009-738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-738
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
 [/us/pl/85/699/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs319
 [/us/usc/t15/s80a–18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9318
-[/us/pl/104/208/s208/h/1/F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fh%2F1%2FF%2Fi
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t15/s681/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681%2Fd
-[/us/pl/104/208/s205/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs205%2Fb%2F1
-[/us/pl/104/208/s208/h/1/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fh%2F1%2FF%2Fii
-[/us/pl/104/208/s205/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs205%2Fb%2F2
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
 [/us/pl/101/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162
 [/us/usc/t15/s681/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681%2Fd
@@ -141,7 +141,7 @@
 [/us/pl/104/208/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208
 [/us/pl/104/208/s208/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs208%2Fj
 [/us/usc/t15/s634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs634
-[/us/pl/99/272/s18005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs18005%2Fb
+[/us/pl/99/272/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXVIII
 [/us/stat/100/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F365
 [/us/usc/t15/s687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687
 [/us/usc/t15/s687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs687

@@ -29,7 +29,7 @@
 
         This section does not alter or affect the right under State law of a card issuer to attach or otherwise levy upon funds of a cardholder held on deposit with the card issuer if that remedy is constitutionally available to creditors generally.
 
-([Pub. L. 90–321, title I, § 169][/us/pl/90/321/s169], as added [Pub. L. 93–495, title III, § 306][/us/pl/93/495/s306], Oct. 28, 1974, [88 Stat. 1515][/us/stat/88/1515].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 169, as added [Pub. L. 93–495, title III][/us/pl/93/495/tIII], § 306, Oct. 28, 1974, [88 Stat. 1515][/us/stat/88/1515].)
 
  __References in Text__ 
 
@@ -42,8 +42,8 @@
 ----------
 ----------
 
-[/us/pl/90/321/s169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs169
-[/us/pl/93/495/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs306
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/93/495/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtIII
 [/us/stat/88/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1515
 [/us/usc/t15/s1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1666
 

@@ -27,7 +27,7 @@
 
     (5) regulation under this chapter by the Secretary is appropriate to prevent and eliminate burdens upon commerce and to effectively regulate commerce.
 
-([Pub. L. 91–540, § 3][/us/pl/91/540/s3], Dec. 9, 1970, [84 Stat. 1405][/us/stat/84/1405]; [Pub. L. 94–360, § 4][/us/pl/94/360/s4], July 13, 1976, [90 Stat. 915][/us/stat/90/915].)
+([Pub. L. 91–540][/us/pl/91/540], § 3, Dec. 9, 1970, [84 Stat. 1405][/us/stat/84/1405]; [Pub. L. 94–360][/us/pl/94/360], § 4, July 13, 1976, [90 Stat. 915][/us/stat/90/915].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/91/540/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F540%2Fs3
+[/us/pl/91/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F540
 [/us/stat/84/1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1405
-[/us/pl/94/360/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360%2Fs4
+[/us/pl/94/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360
 [/us/stat/90/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F915
 [/us/pl/94/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F360
 

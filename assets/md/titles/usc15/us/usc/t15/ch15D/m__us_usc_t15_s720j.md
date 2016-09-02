@@ -27,7 +27,7 @@
 
         (2) to maximize those benefits, the sponsors of the Alaska natural gas transportation project should maximize the participation of small business concerns in contracts and subcontracts awarded in carrying out the project.
 
-([Pub. L. 108–324, div. C, § 112][/us/pl/108/324/s112], Oct. 13, 2004, [118 Stat. 1263][/us/stat/118/1263]; [Pub. L. 111–68, div. A, title I, § 1501(b)][/us/pl/111/68/s1501/b], Oct. 1, 2009, [123 Stat. 2041][/us/stat/123/2041].)
+([Pub. L. 108–324, div. C][/us/pl/108/324/dC], § 112, Oct. 13, 2004, [118 Stat. 1263][/us/stat/118/1263]; [Pub. L. 111–68, div. A, title I][/us/pl/111/68/dA/tI], § 1501(b), Oct. 1, 2009, [123 Stat. 2041][/us/stat/123/2041].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t15/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fa
-[/us/pl/108/324/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs112
+[/us/pl/108/324/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2FdC
 [/us/stat/118/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1263
-[/us/pl/111/68/s1501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1501%2Fb
+[/us/pl/111/68/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2FdA%2FtI
 [/us/stat/123/2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2041
 [/us/pl/111/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68
 

@@ -213,7 +213,7 @@
 
         In any private action arising under this subchapter in which the plaintiff may recover money damages only on proof that a defendant acted with a particular state of mind, the court shall, when requested by a defendant, submit to the jury a written interrogatory on the issue of each such defendant’s state of mind at the time the alleged violation occurred.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 27, as added [Pub. L. 104–67, title I, § 101(a)][/us/pl/104/67/s101/a], Dec. 22, 1995, [109 Stat. 737][/us/stat/109/737]; amended [Pub. L. 105–353, title I, § 101(a)(2)][/us/pl/105/353/s101/a/2], title III, § 301(a)(5), Nov. 3, 1998, [112 Stat. 3230][/us/stat/112/3230], 3235.)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 27, as added [Pub. L. 104–67, title I][/us/pl/104/67/tI], § 101(a), Dec. 22, 1995, [109 Stat. 737][/us/stat/109/737]; amended [Pub. L. 105–353, title I][/us/pl/105/353/tI], § 101(a)(2), title III, § 301(a)(5), Nov. 3, 1998, [112 Stat. 3230][/us/stat/112/3230], 3235.)
 
  __References in Text__ 
 
@@ -221,9 +221,9 @@
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–353, § 301(a)(5)][/us/pl/105/353/s301/a/5], made technical correction relating to placement of section in subchapter.
+    1998—[Pub. L. 105–353][/us/pl/105/353], § 301(a)(5), made technical correction relating to placement of section in subchapter.
 
-    Subsec. (b)(4). [Pub. L. 105–353, § 101(a)(2)][/us/pl/105/353/s101/a/2], added par. (4).
+    Subsec. (b)(4). [Pub. L. 105–353][/us/pl/105/353], § 101(a)(2), added par. (4).
 
  __Effective Date of 1998 Amendment__ 
 
@@ -245,12 +245,12 @@
 ----------
 
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
-[/us/pl/104/67/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2Fs101%2Fa
+[/us/pl/104/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2FtI
 [/us/stat/109/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F737
-[/us/pl/105/353/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs101%2Fa%2F2
+[/us/pl/105/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtI
 [/us/stat/112/3230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3230
-[/us/pl/105/353/s301/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fa%2F5
-[/us/pl/105/353/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs101%2Fa%2F2
+[/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
+[/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
 [/us/pl/105/353/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs101%2Fa%2F2
 [/us/pl/105/353/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs101%2Fc
 [/us/usc/t15/s77p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77p

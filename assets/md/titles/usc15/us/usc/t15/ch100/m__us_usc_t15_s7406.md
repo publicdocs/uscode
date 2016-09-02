@@ -71,7 +71,7 @@
 
             Paragraph (1) does not apply to any computer hardware or software system for which the National Institute of Standards and Technology does not have responsibility under [section 278g–3(a)(3) of this title][/us/usc/t15/s278g–3/a/3].
 
-([Pub. L. 107–305, § 8][/us/pl/107/305/s8], Nov. 27, 2002, [116 Stat. 2375][/us/stat/116/2375]; [Pub. L. 113–274, title II, § 203][/us/pl/113/274/s203], Dec. 18, 2014, [128 Stat. 2979][/us/stat/128/2979]; [Pub. L. 113–283, § 2(e)(2)][/us/pl/113/283/s2/e/2], Dec. 18, 2014, [128 Stat. 3086][/us/stat/128/3086].)
+([Pub. L. 107–305][/us/pl/107/305], § 8, Nov. 27, 2002, [116 Stat. 2375][/us/stat/116/2375]; [Pub. L. 113–274, title II][/us/pl/113/274/tII], § 203, Dec. 18, 2014, [128 Stat. 2979][/us/stat/128/2979]; [Pub. L. 113–283][/us/pl/113/283], § 2(e)(2), Dec. 18, 2014, [128 Stat. 3086][/us/stat/128/3086].)
 
  __Codification__ 
 
@@ -93,11 +93,11 @@
 [/us/usc/t44/s3554/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3554%2Fb
 [/us/usc/t31/s1115/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1115%2Fd
 [/us/usc/t15/s278g–3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933%2Fa%2F3
-[/us/pl/107/305/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305%2Fs8
+[/us/pl/107/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305
 [/us/stat/116/2375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2375
-[/us/pl/113/274/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs203
+[/us/pl/113/274/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2FtII
 [/us/stat/128/2979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2979
-[/us/pl/113/283/s2/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fe%2F2
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/stat/128/3086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3086
 [/us/pl/107/305/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305%2Fs8
 [/us/pl/107/305/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305%2Fs8

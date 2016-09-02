@@ -51,7 +51,7 @@
 
         (ii) prohibit the sale (other than prohibiting the sale to minors) of traditional B–B, paint ball, or pellet-firing air guns that expel a projectile through the force of air pressure.
 
-([Pub. L. 100–615, § 4][/us/pl/100/615/s4], Nov. 5, 1988, [102 Stat. 3190][/us/stat/102/3190].)
+([Pub. L. 100–615][/us/pl/100/615], § 4, Nov. 5, 1988, [102 Stat. 3190][/us/stat/102/3190].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/100/615/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615%2Fs4
+[/us/pl/100/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F615
 [/us/stat/102/3190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3190
 
 

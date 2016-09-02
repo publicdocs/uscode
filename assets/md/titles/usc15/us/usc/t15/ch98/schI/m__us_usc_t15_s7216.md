@@ -69,7 +69,7 @@
 
         In this section, the term “foreign public accounting firm” means a public accounting firm that is organized and operates under the laws of a foreign government or political subdivision thereof.
 
-([Pub. L. 107–204, title I, § 106][/us/pl/107/204/s106], July 30, 2002, [116 Stat. 764][/us/stat/116/764]; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 929J, 982(g), July 21, 2010, [124 Stat. 1859][/us/stat/124/1859], 1930.)
+([Pub. L. 107–204, title I][/us/pl/107/204/tI], § 106, July 30, 2002, [116 Stat. 764][/us/stat/116/764]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], §§ 929J, 982(g), July 21, 2010, [124 Stat. 1859][/us/stat/124/1859], 1930.)
 
  __References in Text__ 
 
@@ -77,13 +77,13 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–203, § 982(g)(1)][/us/pl/111/203/s982/g/1], substituted “issuer, broker, or dealer” for “issuer”.
+    2010—Subsec. (a)(1). [Pub. L. 111–203][/us/pl/111/203], § 982(g)(1), substituted “issuer, broker, or dealer” for “issuer”.
 
-    Subsec. (a)(2). [Pub. L. 111–203, § 982(g)(2)][/us/pl/111/203/s982/g/2], substituted “issuers, brokers, or dealers” for “issuers”.
+    Subsec. (a)(2). [Pub. L. 111–203][/us/pl/111/203], § 982(g)(2), substituted “issuers, brokers, or dealers” for “issuers”.
 
-    Subsec. (b). [Pub. L. 111–203, § 929J(1)][/us/pl/111/203/s929J/1], added subsec. (b) and struck out former subsec. (b) which related to deemed consent to production of audit workpapers by foreign and domestic firms.
+    Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 929J(1), added subsec. (b) and struck out former subsec. (b) which related to deemed consent to production of audit workpapers by foreign and domestic firms.
 
-    Subsecs. (d) to (g). [Pub. L. 111–203, § 929J(2)][/us/pl/111/203/s929J/2], (3), added subsecs. (d) to (f) and redesignated former subsec. (d) as (g).
+    Subsecs. (d) to (g). [Pub. L. 111–203][/us/pl/111/203], § 929J(2), (3), added subsecs. (d) to (f) and redesignated former subsec. (d) as (g).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -97,16 +97,16 @@
 ----------
 
 [/us/usc/t15/s7212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7212
-[/us/pl/107/204/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs106
+[/us/pl/107/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtI
 [/us/stat/116/764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F764
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1859
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/stat/116/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F745
-[/us/pl/111/203/s982/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fg%2F1
-[/us/pl/111/203/s982/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fg%2F2
-[/us/pl/111/203/s929J/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929J%2F1
-[/us/pl/111/203/s929J/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929J%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

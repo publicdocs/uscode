@@ -75,7 +75,7 @@
 
         (8) to comply with Federal, State, or local laws, rules, and other applicable legal requirements; to comply with a properly authorized civil, criminal, or regulatory investigation or subpoena or summons by Federal, State, or local authorities; or to respond to judicial process or government regulatory authorities having jurisdiction over the financial institution for examination, compliance, or other purposes as authorized by law.
 
-([Pub. L. 106–102, title V, § 502][/us/pl/106/102/s502], Nov. 12, 1999, [113 Stat. 1437][/us/stat/113/1437]; [Pub. L. 111–203, title X, § 1093(2)][/us/pl/111/203/s1093/2], July 21, 2010, [124 Stat. 2095][/us/stat/124/2095].)
+([Pub. L. 106–102, title V][/us/pl/106/102/tV], § 502, Nov. 12, 1999, [113 Stat. 1437][/us/stat/113/1437]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1093(2), July 21, 2010, [124 Stat. 2095][/us/stat/124/2095].)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 
     Chapter 2 of title I of [Public Law 91–508][/us/pl/91/508], referred to in subsec. (e)(5), is chapter 2 (§§ 121–129) of title I of [Pub. L. 91–508][/us/pl/91/508], Oct. 26, 1970, [84 Stat. 1116][/us/stat/84/1116], which is classified generally to chapter 21 (§ 1951 et seq.) of Title 12, Banks and Banking. For complete classification of chapter 2 to the Code, see Tables.
 
-    The Fair Credit Reporting Act, referred to in subsec. (e)(6)(A), is title VI of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1127][/us/stat/84/1127], which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title][/us/usc/t15/s1601] and Tables.
+    The Fair Credit Reporting Act, referred to in subsec. (e)(6)(A), is title VI of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 91–508, title VI][/us/pl/91/508/tVI], § 601, Oct. 26, 1970, [84 Stat. 1127][/us/stat/84/1127], which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title][/us/usc/t15/s1601] and Tables.
 
  __Amendments__ 
 
@@ -109,9 +109,9 @@
 [/us/pl/91/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508
 [/us/usc/t12/s1951–195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1951%E2%80%93195
 [/us/usc/t15/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681
-[/us/pl/106/102/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs502
+[/us/pl/106/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtV
 [/us/stat/113/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1437
-[/us/pl/111/203/s1093/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1093%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2095
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/stat/113/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1436
@@ -122,7 +122,7 @@
 [/us/pl/91/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508
 [/us/stat/84/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1116
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
-[/us/pl/91/508/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs601
+[/us/pl/91/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtVI
 [/us/stat/84/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1127
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

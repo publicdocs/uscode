@@ -17,7 +17,7 @@
 
     Except for the amendments made by subsections (a) and (b), nothing in this chapter shall be construed to modify, limit, or supersede the operation of the Fair Credit Reporting Act \[[15 U.S.C. 1681][/us/usc/t15/s1681] et seq.\], and no inference shall be drawn on the basis of the provisions of this chapter regarding whether information is transaction or experience information under section 603 of such Act \[[15 U.S.C. 1681a][/us/usc/t15/s1681a]\].
 
-([Pub. L. 106–102, title V, § 506(c)][/us/pl/106/102/s506/c], Nov. 12, 1999, [113 Stat. 1442][/us/stat/113/1442].)
+([Pub. L. 106–102, title V][/us/pl/106/102/tV], § 506(c), Nov. 12, 1999, [113 Stat. 1442][/us/stat/113/1442].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
     This chapter, referred to in text, was in the original “this title”, meaning title V of [Pub. L. 106–102][/us/pl/106/102], Nov. 12, 1999, [113 Stat. 1436][/us/stat/113/1436], as amended, which enacted this chapter and amended [section 1681s of this title][/us/usc/t15/s1681s]. For complete classification of title V to the Code, see Tables.
 
-    The Fair Credit Reporting Act, referred to in text, is title VI of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1127][/us/stat/84/1127], as amended, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title][/us/usc/t15/s1601] and Tables.
+    The Fair Credit Reporting Act, referred to in text, is title VI of [Pub. L. 90–321][/us/pl/90/321], as added by [Pub. L. 91–508, title VI][/us/pl/91/508/tVI], § 601, Oct. 26, 1970, [84 Stat. 1127][/us/stat/84/1127], as amended, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title][/us/usc/t15/s1601] and Tables.
 
 ----------
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t15/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681
 [/us/usc/t15/s1681a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a
-[/us/pl/106/102/s506/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs506%2Fc
+[/us/pl/106/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtV
 [/us/stat/113/1442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1442
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/usc/t15/s1681s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s
@@ -44,7 +44,7 @@
 [/us/stat/113/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1436
 [/us/usc/t15/s1681s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
-[/us/pl/91/508/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs601
+[/us/pl/91/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtVI
 [/us/stat/84/1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1127
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 

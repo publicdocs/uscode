@@ -25,23 +25,23 @@
 
     (4) the determinations whether to authorize a transportation system for delivery of Alaska natural gas to the contiguous States and, if so, which system to select, involve questions of the utmost importance respecting national energy policy, international relations, national security, and economic and environmental impact, and therefore should appropriately be addressed by the Congress and the President in addition to those Federal officers and agencies assigned functions under law pertaining to the selection, construction, and initial operation of such a system.
 
-([Pub. L. 94–586, § 2][/us/pl/94/586/s2], Oct. 22, 1976, [90 Stat. 2903][/us/stat/90/2903].)
+([Pub. L. 94–586][/us/pl/94/586], § 2, Oct. 22, 1976, [90 Stat. 2903][/us/stat/90/2903].)
 
  __Expiration Date__ 
 
-[Pub. L. 94–586, § 20][/us/pl/94/586/s20], Oct. 22, 1976, [90 Stat. 2916][/us/stat/90/2916], provided that: 
+[Pub. L. 94–586][/us/pl/94/586], § 20, Oct. 22, 1976, [90 Stat. 2916][/us/stat/90/2916], provided that: 
 
 > “This Act \[this chapter\] shall terminate in the event that no decision of the President takes effect under section 8 of this Act \[[section 719f of this title][/us/usc/t15/s719f]\], such termination to occur at the end of the last day on which a decision could be, but is not, approved under such section.”
 
  __Short Title__ 
 
-[Pub. L. 94–586, § 1][/us/pl/94/586/s1], Oct. 22, 1976, [90 Stat. 2903][/us/stat/90/2903], provided that: 
+[Pub. L. 94–586][/us/pl/94/586], § 1, Oct. 22, 1976, [90 Stat. 2903][/us/stat/90/2903], provided that: 
 
 > “This Act \[enacting this chapter and provisions set out as notes under this section and [section 1651 of Title 43][/us/usc/t43/s1651], Public Lands\] may be cited as the ‘Alaska Natural Gas Transportation Act of 1976’.”
 
  __Antitrust Study__ 
 
-    [Pub. L. 94–586, § 19][/us/pl/94/586/s19], Oct. 22, 1976, [90 Stat. 2916][/us/stat/90/2916], directed Attorney General of United States to conduct a thorough study of antitrust issues and problems relating to production and transportation of Alaska natural gas and, not later than six months after Oct. 22, 1976, to complete such study and submit to Congress a report containing his findings and recommendations with respect thereto.
+    [Pub. L. 94–586][/us/pl/94/586], § 19, Oct. 22, 1976, [90 Stat. 2916][/us/stat/90/2916], directed Attorney General of United States to conduct a thorough study of antitrust issues and problems relating to production and transportation of Alaska natural gas and, not later than six months after Oct. 22, 1976, to complete such study and submit to Congress a report containing his findings and recommendations with respect thereto.
 
 ----------
 
@@ -50,15 +50,15 @@
 ----------
 ----------
 
-[/us/pl/94/586/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586%2Fs2
+[/us/pl/94/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586
 [/us/stat/90/2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2903
-[/us/pl/94/586/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586%2Fs20
+[/us/pl/94/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586
 [/us/stat/90/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2916
 [/us/usc/t15/s719f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719f
-[/us/pl/94/586/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586%2Fs1
+[/us/pl/94/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586
 [/us/stat/90/2903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2903
 [/us/usc/t43/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1651
-[/us/pl/94/586/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586%2Fs19
+[/us/pl/94/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F586
 [/us/stat/90/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2916
 
 

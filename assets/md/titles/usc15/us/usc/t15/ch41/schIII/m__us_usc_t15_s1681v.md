@@ -91,25 +91,25 @@
 
         (2) In the case of the semiannual reports required to be submitted under paragraph (1) to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, the submittal dates for such reports shall be as provided in [section 3106 of title 50][/us/usc/t50/s3106].
 
-([Pub. L. 90–321, title VI, § 627][/us/pl/90/321/s627], formerly § 626, as added [Pub. L. 107–56, title III, § 358(g)(1)(B)][/us/pl/107/56/s358/g/1/B], Oct. 26, 2001, [115 Stat. 327][/us/stat/115/327]; renumbered § 627 and amended [Pub. L. 108–159, title II, § 214(a)(1)][/us/pl/108/159/s214/a/1], (c)(3), Dec. 4, 2003, [117 Stat. 1980][/us/stat/117/1980], 1983; [Pub. L. 108–458, title VI, § 6203][/us/pl/108/458/s6203](l), Dec. 17, 2004, [118 Stat. 3747][/us/stat/118/3747]; [Pub. L. 109–177, title I][/us/pl/109/177], §§ 116(c), 118(b), Mar. 9, 2006, [120 Stat. 214][/us/stat/120/214], 217; [Pub. L. 109–178, § 4(c)(2)][/us/pl/109/178/s4/c/2], Mar. 9, 2006, [120 Stat. 280][/us/stat/120/280]; [Pub. L. 114–23, title V][/us/pl/114/23], §§ 501(d), 502(d), 503(d), June 2, 2015, [129 Stat. 282][/us/stat/129/282], 286, 290.)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 627, formerly § 626, as added [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 358(g)(1)(B), Oct. 26, 2001, [115 Stat. 327][/us/stat/115/327]; renumbered § 627 and amended [Pub. L. 108–159, title II][/us/pl/108/159/tII], § 214(a)(1), (c)(3), Dec. 4, 2003, [117 Stat. 1980][/us/stat/117/1980], 1983; [Pub. L. 108–458, title VI][/us/pl/108/458/tVI], § 6203(l), Dec. 17, 2004, [118 Stat. 3747][/us/stat/118/3747]; [Pub. L. 109–177, title I][/us/pl/109/177/tI], §§ 116(c), 118(b), Mar. 9, 2006, [120 Stat. 214][/us/stat/120/214], 217; [Pub. L. 109–178][/us/pl/109/178], § 4(c)(2), Mar. 9, 2006, [120 Stat. 280][/us/stat/120/280]; [Pub. L. 114–23, title V][/us/pl/114/23/tV], §§ 501(d), 502(d), 503(d), June 2, 2015, [129 Stat. 282][/us/stat/129/282], 286, 290.)
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–23, § 501(d)][/us/pl/114/23/s501/d], substituted “analysis and that includes a term that specifically identifies a consumer or account to be used as the basis for the production of such information.” for “analysis.”
+    2015—Subsec. (a). [Pub. L. 114–23][/us/pl/114/23], § 501(d), substituted “analysis and that includes a term that specifically identifies a consumer or account to be used as the basis for the production of such information.” for “analysis.”
 
-    Subsec. (c). [Pub. L. 114–23, § 502(d)][/us/pl/114/23/s502/d], added subsec. (c) and struck out former subsec. (c) which related to confidentiality.
+    Subsec. (c). [Pub. L. 114–23][/us/pl/114/23], § 502(d), added subsec. (c) and struck out former subsec. (c) which related to confidentiality.
 
-    Subsecs. (d) to (g). [Pub. L. 114–23, § 503(d)][/us/pl/114/23/s503/d], added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
+    Subsecs. (d) to (g). [Pub. L. 114–23][/us/pl/114/23], § 503(d), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
-    2006—Subsec. (c). [Pub. L. 109–177, § 116(c)][/us/pl/109/177/s116/c], amended subsec. (c) generally. Prior to amendment, text read as follows: “No consumer reporting agency, or officer, employee, or agent of such consumer reporting agency, shall disclose to any person, or specify in any consumer report, that a government agency has sought or obtained access to information under subsection (a) of this section.”
+    2006—Subsec. (c). [Pub. L. 109–177][/us/pl/109/177], § 116(c), amended subsec. (c) generally. Prior to amendment, text read as follows: “No consumer reporting agency, or officer, employee, or agent of such consumer reporting agency, shall disclose to any person, or specify in any consumer report, that a government agency has sought or obtained access to information under subsection (a) of this section.”
 
     Subsec. (c)(4). [Pub. L. 109–178][/us/pl/109/178] amended par. (4) generally. Prior to amendment, par. (4) read as follows: “At the request of the authorized Government agency, any person making or intending to make a disclosure under this section shall identify to the requesting official of the authorized Government agency the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, but in no circumstance shall a person be required to inform such requesting official that the person intends to consult an attorney to obtain legal advice or legal assistance.”
 
-    Subsec. (f). [Pub. L. 109–177, § 118(b)][/us/pl/109/177/s118/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 109–177][/us/pl/109/177], § 118(b), added subsec. (f).
 
     2004—Subsec. (e). [Pub. L. 108–458][/us/pl/108/458] substituted “government agency” for “governmental agency”.
 
-    2003—Subsec. (d). [Pub. L. 108–159, § 214(c)(3)][/us/pl/108/159/s214/c/3], made technical amendment to reference in original act which appears in text as reference to [section 1681u of this title][/us/usc/t15/s1681u].
+    2003—Subsec. (d). [Pub. L. 108–159][/us/pl/108/159], § 214(c)(3), made technical amendment to reference in original act which appears in text as reference to [section 1681u of this title][/us/usc/t15/s1681u].
 
  __Effective Date of 2004 Amendment__ 
 
@@ -134,27 +134,27 @@
 [/us/usc/t18/s3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3511
 [/us/usc/t15/s1681u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681u
 [/us/usc/t50/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3106
-[/us/pl/90/321/s627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs627
-[/us/pl/107/56/s358/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs358%2Fg%2F1%2FB
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F327
-[/us/pl/108/159/s214/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs214%2Fa%2F1
+[/us/pl/108/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtII
 [/us/stat/117/1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1980
-[/us/pl/108/458/s6203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2Fs6203
+[/us/pl/108/458/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458%2FtVI
 [/us/stat/118/3747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3747
-[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F214
-[/us/pl/109/178/s4/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F178%2Fs4%2Fc%2F2
-[/us/stat/120/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F280
-[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
-[/us/stat/129/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F282
-[/us/pl/114/23/s501/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs501%2Fd
-[/us/pl/114/23/s502/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs502%2Fd
-[/us/pl/114/23/s503/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs503%2Fd
-[/us/pl/109/177/s116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs116%2Fc
 [/us/pl/109/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F178
-[/us/pl/109/177/s118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs118%2Fb
+[/us/stat/120/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F280
+[/us/pl/114/23/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtV
+[/us/stat/129/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F282
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
+[/us/pl/109/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F178
+[/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
-[/us/pl/108/159/s214/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs214%2Fc%2F3
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
 [/us/usc/t15/s1681u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681u
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56

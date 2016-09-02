@@ -43,7 +43,7 @@
 
         (5) recommendations on the feasibility of providing tax incentives for persons who use public mass transportation systems.
 
-([Pub. L. 93–319, § 8][/us/pl/93/319/s8], June 22, 1974, [88 Stat. 260][/us/stat/88/260].)
+([Pub. L. 93–319][/us/pl/93/319], § 8, June 22, 1974, [88 Stat. 260][/us/stat/88/260].)
 
  __Transfer of Functions__ 
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t23/s142/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs142%2Fa%2F2
-[/us/pl/93/319/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs8
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/stat/88/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F260
 
 

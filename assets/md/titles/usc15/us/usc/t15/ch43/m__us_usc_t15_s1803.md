@@ -27,7 +27,7 @@
 
         Nothing contained in the chapter shall be construed to exempt from any antitrust law any predatory pricing, any predatory practice, or any other conduct in the otherwise lawful operations of a joint newspaper operating arrangement which would be unlawful under any antitrust law if engaged in by a single entity. Except as provided in this chapter, no joint newspaper operating arrangement or any party thereto shall be exempt from any antitrust law.
 
-([Pub. L. 91–353, § 4][/us/pl/91/353/s4], July 24, 1970, [84 Stat. 467][/us/stat/84/467].)
+([Pub. L. 91–353][/us/pl/91/353], § 4, July 24, 1970, [84 Stat. 467][/us/stat/84/467].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/91/353/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F353%2Fs4
+[/us/pl/91/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F353
 [/us/stat/84/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F467
 
 

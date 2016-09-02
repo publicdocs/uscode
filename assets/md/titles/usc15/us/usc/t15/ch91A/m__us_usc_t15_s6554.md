@@ -39,11 +39,11 @@
 
         The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group.
 
-([Pub. L. 110–385, title II, § 214][/us/pl/110/385/s214], Oct. 10, 2008, [122 Stat. 4103][/us/stat/122/4103].)
+([Pub. L. 110–385, title II][/us/pl/110/385/tII], § 214, Oct. 10, 2008, [122 Stat. 4103][/us/stat/122/4103].)
 
  __References in Text__ 
 
-    [Section 13032 of title 42][/us/usc/t42/s13032], referred to in the original in subsec. (a)(2), probably should have been a reference to [section 227 of Pub. L. 101–647][/us/pl/101/647/s227], which was classified to [section 13032 of title 42][/us/usc/t42/s13032], prior to repeal by [Pub. L. 110–401, title V, § 501(b)(1)][/us/pl/110/401/s501/b/1], Oct. 13, 2008, [122 Stat. 4251][/us/stat/122/4251].
+    [Section 13032 of title 42][/us/usc/t42/s13032], referred to in the original in subsec. (a)(2), probably should have been a reference to [section 227 of Pub. L. 101–647][/us/pl/101/647/s227], which was classified to [section 13032 of title 42][/us/usc/t42/s13032], prior to repeal by [Pub. L. 110–401, title V][/us/pl/110/401/tV], § 501(b)(1), Oct. 13, 2008, [122 Stat. 4251][/us/stat/122/4251].
 
     The Federal Advisory Committee Act, referred to in subsec. (c), is [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -54,12 +54,12 @@
 ----------
 ----------
 
-[/us/pl/110/385/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2Fs214
+[/us/pl/110/385/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2FtII
 [/us/stat/122/4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4103
 [/us/usc/t42/s13032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13032
 [/us/pl/101/647/s227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F647%2Fs227
 [/us/usc/t42/s13032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13032
-[/us/pl/110/401/s501/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2Fs501%2Fb%2F1
+[/us/pl/110/401/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F401%2FtV
 [/us/stat/122/4251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4251
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

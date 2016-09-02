@@ -41,7 +41,7 @@
 
         As used in this section, the terms “electronic record” and “electronic signature” have the same meanings provided in [section 7006 of this title][/us/usc/t15/s7006].
 
-([Pub. L. 106–229, title III, § 301][/us/pl/106/229/s301], June 30, 2000, [114 Stat. 475][/us/stat/114/475].)
+([Pub. L. 106–229, title III][/us/pl/106/229/tIII], § 301, June 30, 2000, [114 Stat. 475][/us/stat/114/475].)
 
 ----------
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t15/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7001
 [/us/usc/t15/s7006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7006
-[/us/pl/106/229/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2Fs301
+[/us/pl/106/229/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2FtIII
 [/us/stat/114/475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F475
 
 

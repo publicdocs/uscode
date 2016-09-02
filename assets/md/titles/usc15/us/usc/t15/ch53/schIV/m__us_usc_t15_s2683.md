@@ -17,7 +17,7 @@
 
     Within 18 months after October 28, 1992, the Administrator shall promulgate regulations which shall identify, for purposes of this subchapter and the Residential Lead-Based Paint Hazard Reduction Act of 1992 \[[42 U.S.C. 4851][/us/usc/t42/s4851] et seq.\], lead-based paint hazards, lead-contaminated dust, and lead-contaminated soil.
 
-([Pub. L. 94–469, title IV, § 403][/us/pl/94/469/s403], as added [Pub. L. 102–550, title X, § 1021(a)][/us/pl/102/550/s1021/a], Oct. 28, 1992, [106 Stat. 3916][/us/stat/106/3916].)
+([Pub. L. 94–469, title IV][/us/pl/94/469/tIV], § 403, as added [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(a), Oct. 28, 1992, [106 Stat. 3916][/us/stat/106/3916].)
 
  __References in Text__ 
 
@@ -31,8 +31,8 @@
 ----------
 
 [/us/usc/t42/s4851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4851
-[/us/pl/94/469/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs403
-[/us/pl/102/550/s1021/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1021%2Fa
+[/us/pl/94/469/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtIV
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3916
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3897

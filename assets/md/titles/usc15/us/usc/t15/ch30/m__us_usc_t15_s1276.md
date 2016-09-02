@@ -39,7 +39,7 @@
 
         (2) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the periods of continuous session of the Congress specified in subsection (b).
 
-([Pub. L. 86–613, § 21][/us/pl/86/613/s21], as added [Pub. L. 97–35, title XII, § 1207(c)][/us/pl/97/35/s1207/c], Aug. 13, 1981, [95 Stat. 718][/us/stat/95/718]; amended [Pub. L. 110–314, title II, § 204(b)(4)(H)][/us/pl/110/314/s204/b/4/H], Aug. 14, 2008, [122 Stat. 3042][/us/stat/122/3042].)
+([Pub. L. 86–613][/us/pl/86/613], § 21, as added [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1207(c), Aug. 13, 1981, [95 Stat. 718][/us/stat/95/718]; amended [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 204(b)(4)(H), Aug. 14, 2008, [122 Stat. 3042][/us/stat/122/3042].)
 
  __References in Text__ 
 
@@ -62,10 +62,10 @@
 
 [/us/usc/t15/s1261/q/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1261%2Fq%2F1
 [/us/usc/t15/s1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1262
-[/us/pl/86/613/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs21
-[/us/pl/97/35/s1207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1207%2Fc
+[/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F718
-[/us/pl/110/314/s204/b/4/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FH
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3042
 [/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/stat/74/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F372

@@ -241,35 +241,35 @@
 
             (B) in the case of a high-cost mortgage, change the terms of the loan in a manner beneficial so that the loan will no longer be a high-cost mortgage.
 
-([Pub. L. 90–321, title I, § 129][/us/pl/90/321/s129], as added [Pub. L. 103–325, title I, § 152(d)][/us/pl/103/325/s152/d], Sept. 23, 1994, [108 Stat. 2191][/us/stat/108/2191]; amended [Pub. L. 111–8, div. D, title VI, § 626(c)][/us/pl/111/8/s626/c], Mar. 11, 2009, [123 Stat. 679][/us/stat/123/679]; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], (9), title XIV, §§ 1432, 1433, July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2109, 2160.)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 129, as added [Pub. L. 103–325, title I][/us/pl/103/325/tI], § 152(d), Sept. 23, 1994, [108 Stat. 2191][/us/stat/108/2191]; amended [Pub. L. 111–8, div. D, title VI][/us/pl/111/8/dD/tVI], § 626(c), Mar. 11, 2009, [123 Stat. 679][/us/stat/123/679]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), (9), title XIV, §§ 1432, 1433, July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2109, 2160.)
 
  __References in Text__ 
 
-    [Section 1602(aa) of this title][/us/usc/t15/s1602/aa], referred to in text, was redesignated [section 1602(bb) of this title][/us/usc/t15/s1602/bb] by [Pub. L. 111–203, title X, § 1100A(1)(A)][/us/pl/111/203/s1100A/1/A], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
+    [Section 1602(aa) of this title][/us/usc/t15/s1602/aa], referred to in text, was redesignated [section 1602(bb) of this title][/us/usc/t15/s1602/bb] by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(1)(A), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
 
     The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (u)(2), is [Pub. L. 93–533][/us/pl/93/533], Dec. 22, 1974, [88 Stat. 1724][/us/stat/88/1724], which is classified principally to chapter 27 (§ 2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 12][/us/usc/t12/s2601] and Tables.
 
  __Prior Provisions__ 
 
-    A prior section 1639, [Pub. L. 90–321, title I, § 129][/us/pl/90/321/s129], May 29, 1968, [82 Stat. 156][/us/stat/82/156], related to consumer loans not under open end credit plans, prior to repeal by [Pub. L. 96–221, title VI, § 614(d)(1)][/us/pl/96/221/s614/d/1], Mar. 31, 1980, [94 Stat. 180][/us/stat/94/180]. Repeal effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see [section 625 of Pub. L. 96–221][/us/pl/96/221/s625], set out as an Effective Date of 1980 Amendment note under [section 1602 of this title][/us/usc/t15/s1602].
+    A prior section 1639, [Pub. L. 90–321, title I][/us/pl/90/321/tI], § 129, May 29, 1968, [82 Stat. 156][/us/stat/82/156], related to consumer loans not under open end credit plans, prior to repeal by [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 614(d)(1), Mar. 31, 1980, [94 Stat. 180][/us/stat/94/180]. Repeal effective on expiration of two years and six months after Mar. 31, 1980, with all regulations, forms, and clauses required to be prescribed to be promulgated at least one year prior to such effective date, and allowing any creditor to comply with any amendments, in accordance with the regulations, forms, and clauses prescribed by the Board prior to such effective date, see [section 625 of Pub. L. 96–221][/us/pl/96/221/s625], set out as an Effective Date of 1980 Amendment note under [section 1602 of this title][/us/usc/t15/s1602].
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], substituted “Bureau” for “Board” wherever appearing.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
-    Subsec. (c)(2). [Pub. L. 111–203, § 1432(a)][/us/pl/111/203/s1432/a], struck out par. (2) which related to exception to prepayment penalty prohibition.
+    Subsec. (c)(2). [Pub. L. 111–203][/us/pl/111/203], § 1432(a), struck out par. (2) which related to exception to prepayment penalty prohibition.
 
-    Subsec. (e). [Pub. L. 111–203, § 1432(b)][/us/pl/111/203/s1432/b], amended subsec. (e) generally. Prior to amendment, text read as follows: “A mortgage referred to in [section 1602(aa) of this title][/us/usc/t15/s1602/aa] having a term of less than 5 years may not include terms under which the aggregate amount of the regular periodic payments would not fully amortize the outstanding principal balance.”
+    Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 1432(b), amended subsec. (e) generally. Prior to amendment, text read as follows: “A mortgage referred to in [section 1602(aa) of this title][/us/usc/t15/s1602/aa] having a term of less than 5 years may not include terms under which the aggregate amount of the regular periodic payments would not fully amortize the outstanding principal balance.”
 
-    Subsecs. (j) to (l). [Pub. L. 111–203, § 1433(a)(2)][/us/pl/111/203/s1433/a/2], added subsecs. (j) to (l). Former subsecs. (j) to (l) redesignated (n) to (p), respectively.
+    Subsecs. (j) to (l). [Pub. L. 111–203][/us/pl/111/203], § 1433(a)(2), added subsecs. (j) to (l). Former subsecs. (j) to (l) redesignated (n) to (p), respectively.
 
-    Subsec. (m). [Pub. L. 111–203, § 1433(a)(2)][/us/pl/111/203/s1433/a/2], added subsec. (m). Former subsec. (m) redesignated (q).
+    Subsec. (m). [Pub. L. 111–203][/us/pl/111/203], § 1433(a)(2), added subsec. (m). Former subsec. (m) redesignated (q).
 
-    [Pub. L. 111–203, § 1100A(9)][/us/pl/111/203/s1100A/9], added subsec. (m) and struck out former subsec. (m). Prior to amendment, text read as follows: “For purposes of enforcement by the Federal Trade Commission, any violation of a regulation issued by the Federal Reserve Board pursuant to subsection (l)(2) of this section shall be treated as a violation of a rule promulgated under [section 57a of this title][/us/usc/t15/s57a] regarding unfair or deceptive acts or practices.”
+    [Pub. L. 111–203][/us/pl/111/203], § 1100A(9), added subsec. (m) and struck out former subsec. (m). Prior to amendment, text read as follows: “For purposes of enforcement by the Federal Trade Commission, any violation of a regulation issued by the Federal Reserve Board pursuant to subsection (l)(2) of this section shall be treated as a violation of a rule promulgated under [section 57a of this title][/us/usc/t15/s57a] regarding unfair or deceptive acts or practices.”
 
-    Subsecs. (n) to (q). [Pub. L. 111–203, § 1433(a)(1)][/us/pl/111/203/s1433/a/1], redesignated former subsecs. (j) to (m) as (n) to (q), respectively.
+    Subsecs. (n) to (q). [Pub. L. 111–203][/us/pl/111/203], § 1433(a)(1), redesignated former subsecs. (j) to (m) as (n) to (q), respectively.
 
-    Subsecs. (r) to (v). [Pub. L. 111–203, § 1433(b)][/us/pl/111/203/s1433/b]–(f), added subsecs. (r) to (v).
+    Subsecs. (r) to (v). [Pub. L. 111–203][/us/pl/111/203], § 1433(b)–(f), added subsecs. (r) to (v).
 
     2009—Subsec. (m). [Pub. L. 111–8][/us/pl/111/8] added subsec. (m).
 
@@ -293,36 +293,36 @@
 [/us/usc/t12/s1841/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841%2Fk
 [/us/usc/t15/s57a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a
 [/us/usc/t12/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2601
-[/us/pl/90/321/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs129
-[/us/pl/103/325/s152/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs152%2Fd
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2191
-[/us/pl/111/8/s626/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs626%2Fc
+[/us/pl/111/8/dD/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2FdD%2FtVI
 [/us/stat/123/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F679
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/usc/t15/s1602/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Faa
 [/us/usc/t15/s1602/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fbb
-[/us/pl/111/203/s1100A/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F1%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/93/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F533
 [/us/stat/88/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1724
 [/us/usc/t12/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2601
-[/us/pl/90/321/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs129
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
 [/us/stat/82/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F156
-[/us/pl/96/221/s614/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs614%2Fd%2F1
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F180
 [/us/pl/96/221/s625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs625
 [/us/usc/t15/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
-[/us/pl/111/203/s1432/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1432%2Fa
-[/us/pl/111/203/s1432/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1432%2Fb
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s1602/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Faa
-[/us/pl/111/203/s1433/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1433%2Fa%2F2
-[/us/pl/111/203/s1433/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1433%2Fa%2F2
-[/us/pl/111/203/s1100A/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F9
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s57a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a
-[/us/pl/111/203/s1433/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1433%2Fa%2F1
-[/us/pl/111/203/s1433/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1433%2Fb
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H

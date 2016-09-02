@@ -63,35 +63,35 @@
 
          As used in this section, the terms “information system” and “information technology” have the meanings given in [section 278g–3 of this title][/us/usc/t15/s278g–3].
 
-([Mar. 3, 1901, ch. 872, § 21][/us/act/1901-03-03/ch872/s21], as added [Pub. L. 100–235, § 3(2)][/us/pl/100/235/s3/2], Jan. 8, 1988, [101 Stat. 1727][/us/stat/101/1727]; amended [Pub. L. 100–418, title V, § 5115(a)(1)][/us/pl/100/418/s5115/a/1], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 107–296, title X, § 1004][/us/pl/107/296/s1004], Nov. 25, 2002, [116 Stat. 2271][/us/stat/116/2271]; [Pub. L. 107–347, title III, § 304][/us/pl/107/347/s304], Dec. 17, 2002, [116 Stat. 2959][/us/stat/116/2959]; [Pub. L. 113–283, § 2(f)(2)][/us/pl/113/283/s2/f/2], Dec. 18, 2014, [128 Stat. 3087][/us/stat/128/3087].)
+([Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 21, as added [Pub. L. 100–235][/us/pl/100/235], § 3(2), Jan. 8, 1988, [101 Stat. 1727][/us/stat/101/1727]; amended [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(a)(1), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 107–296, title X][/us/pl/107/296/tX], § 1004, Nov. 25, 2002, [116 Stat. 2271][/us/stat/116/2271]; [Pub. L. 107–347, title III][/us/pl/107/347/tIII], § 304, Dec. 17, 2002, [116 Stat. 2959][/us/stat/116/2959]; [Pub. L. 113–283][/us/pl/113/283], § 2(f)(2), Dec. 18, 2014, [128 Stat. 3087][/us/stat/128/3087].)
 
  __Amendments__ 
 
-    2014—Subsec. (b)(2). [Pub. L. 113–283, § 2(f)(2)(A)][/us/pl/113/283/s2/f/2/A], inserted “, the Secretary of Homeland Security,” after “the Institute”.
+    2014—Subsec. (b)(2). [Pub. L. 113–283][/us/pl/113/283], § 2(f)(2)(A), inserted “, the Secretary of Homeland Security,” after “the Institute”.
 
-    Subsec. (b)(3). [Pub. L. 113–283, § 2(f)(2)(B)][/us/pl/113/283/s2/f/2/B], inserted “the Secretary of Homeland Security,” after “the Secretary of Commerce,”.
+    Subsec. (b)(3). [Pub. L. 113–283][/us/pl/113/283], § 2(f)(2)(B), inserted “the Secretary of Homeland Security,” after “the Secretary of Commerce,”.
 
-    2002—Subsec. (a). [Pub. L. 107–296, § 1004(1)][/us/pl/107/296/s1004/1], and [Pub. L. 107–347, § 304(1)][/us/pl/107/347/s304/1], amended subsec. (a) identically, substituting “Information Security and Privacy Advisory Board” for “Computer System Security and Privacy Advisory Board” in introductory provisions.
+    2002—Subsec. (a). [Pub. L. 107–296][/us/pl/107/296], § 1004(1), and [Pub. L. 107–347][/us/pl/107/347], § 304(1), amended subsec. (a) identically, substituting “Information Security and Privacy Advisory Board” for “Computer System Security and Privacy Advisory Board” in introductory provisions.
 
-    Subsec. (a)(1). [Pub. L. 107–296, § 1004(2)][/us/pl/107/296/s1004/2], and [Pub. L. 107–347, § 304(2)][/us/pl/107/347/s304/2], amended par. (1) identically, substituting “information technology” for “computer or telecommunications”.
+    Subsec. (a)(1). [Pub. L. 107–296][/us/pl/107/296], § 1004(2), and [Pub. L. 107–347][/us/pl/107/347], § 304(2), amended par. (1) identically, substituting “information technology” for “computer or telecommunications”.
 
-    Subsec. (a)(2). [Pub. L. 107–296, § 1004(3)][/us/pl/107/296/s1004/3], and [Pub. L. 107–347, § 304(3)][/us/pl/107/347/s304/3], amended par. (2) identically, substituting “information technology” for “computer or telecommunications technology” and for “computer or telecommunications equipment”.
+    Subsec. (a)(2). [Pub. L. 107–296][/us/pl/107/296], § 1004(3), and [Pub. L. 107–347][/us/pl/107/347], § 304(3), amended par. (2) identically, substituting “information technology” for “computer or telecommunications technology” and for “computer or telecommunications equipment”.
 
-    Subsec. (a)(3). [Pub. L. 107–296, § 1004(4)][/us/pl/107/296/s1004/4], and [Pub. L. 107–347, § 304(4)][/us/pl/107/347/s304/4], amended par. (3) identically, substituting “information system” for “computer systems” and “information security” for “computer systems security”.
+    Subsec. (a)(3). [Pub. L. 107–296][/us/pl/107/296], § 1004(4), and [Pub. L. 107–347][/us/pl/107/347], § 304(4), amended par. (3) identically, substituting “information system” for “computer systems” and “information security” for “computer systems security”.
 
-    Subsec. (b)(1). [Pub. L. 107–296, § 1004(5)][/us/pl/107/296/s1004/5], and [Pub. L. 107–347, § 304(5)][/us/pl/107/347/s304/5], amended par. (1) identically, substituting “information security” for “computer systems security”.
+    Subsec. (b)(1). [Pub. L. 107–296][/us/pl/107/296], § 1004(5), and [Pub. L. 107–347][/us/pl/107/347], § 304(5), amended par. (1) identically, substituting “information security” for “computer systems security”.
 
-    Subsec. (b)(2). [Pub. L. 107–347, § 304(6)][/us/pl/107/347/s304/6], added par. (2) and struck out former par. (2) which read as follows: “to advise the Institute and the Secretary of Commerce on security and privacy issues pertaining to Federal computer systems; and”.
+    Subsec. (b)(2). [Pub. L. 107–347][/us/pl/107/347], § 304(6), added par. (2) and struck out former par. (2) which read as follows: “to advise the Institute and the Secretary of Commerce on security and privacy issues pertaining to Federal computer systems; and”.
 
-    [Pub. L. 107–296, § 1004(6)][/us/pl/107/296/s1004/6], added par. (2) and struck out former par. (2), as added by [Pub. L. 107–347][/us/pl/107/347], which read as follows: “to advise the Institute, the Secretary of Commerce, and the Director of the Office of Management and Budget on information security and privacy issues pertaining to Federal Government information systems, including through review of proposed standards and guidelines developed under [section 278g–3 of this title][/us/usc/t15/s278g–3]; and”.
+    [Pub. L. 107–296][/us/pl/107/296], § 1004(6), added par. (2) and struck out former par. (2), as added by [Pub. L. 107–347][/us/pl/107/347], which read as follows: “to advise the Institute, the Secretary of Commerce, and the Director of the Office of Management and Budget on information security and privacy issues pertaining to Federal Government information systems, including through review of proposed standards and guidelines developed under [section 278g–3 of this title][/us/usc/t15/s278g–3]; and”.
 
-    Subsec. (b)(3). [Pub. L. 107–296, § 1004(7)][/us/pl/107/296/s1004/7], and [Pub. L. 107–347, § 304(7)][/us/pl/107/347/s304/7], amended par. (3) identically, inserting “annually” after “report”.
+    Subsec. (b)(3). [Pub. L. 107–296][/us/pl/107/296], § 1004(7), and [Pub. L. 107–347][/us/pl/107/347], § 304(7), amended par. (3) identically, inserting “annually” after “report”.
 
-    Subsecs. (f), (g). [Pub. L. 107–296, § 1004(8)][/us/pl/107/296/s1004/8], (9), and [Pub. L. 107–347, § 304(8)][/us/pl/107/347/s304/8], (9), amended section identically, adding subsec. (f) and redesignating former subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    Subsecs. (f), (g). [Pub. L. 107–296][/us/pl/107/296], § 1004(8), (9), and [Pub. L. 107–347][/us/pl/107/347], § 304(8), (9), amended section identically, adding subsec. (f) and redesignating former subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 107–296, § 1004(10)][/us/pl/107/296/s1004/10], and [Pub. L. 107–347, § 304(10)][/us/pl/107/347/s304/10], amended section identically, adding subsec. (h) and striking out former subsec. (h) which read as follows: “As used in this section, the terms ‘computer system’ and ‘Federal computer system’ have the meanings given in [section 278g–3 of this title][/us/usc/t15/s278g–3].”
+    Subsec. (h). [Pub. L. 107–296][/us/pl/107/296], § 1004(10), and [Pub. L. 107–347][/us/pl/107/347], § 304(10), amended section identically, adding subsec. (h) and striking out former subsec. (h) which read as follows: “As used in this section, the terms ‘computer system’ and ‘Federal computer system’ have the meanings given in [section 278g–3 of this title][/us/usc/t15/s278g–3].”
 
-    [Pub. L. 107–296, § 1004(9)][/us/pl/107/296/s1004/9], and [Pub. L. 107–347, § 304(9)][/us/pl/107/347/s304/9], amended section identically, redesignating subsec. (g) as (h).
+    [Pub. L. 107–296][/us/pl/107/296], § 1004(9), and [Pub. L. 107–347][/us/pl/107/347], § 304(9), amended section identically, redesignating subsec. (g) as (h).
 
     1988—Subsec. (b)(2). [Pub. L. 100–418][/us/pl/100/418], which directed that this chapter be amended by substituting “Institute” for “National Bureau of Standards”, “Bureau”, or “bureau”, wherever appearing, was executed to par. (2) by substituting “Institute” for “Bureau of Standards”, to reflect the probable intent of Congress.
 
@@ -116,42 +116,42 @@
 
 [/us/usc/t15/s278g–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933
 [/us/usc/t15/s278g–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933
-[/us/act/1901-03-03/ch872/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs21
-[/us/pl/100/235/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F235%2Fs3%2F2
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
+[/us/pl/100/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F235
 [/us/stat/101/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1727
-[/us/pl/100/418/s5115/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fa%2F1
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
-[/us/pl/107/296/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1004
+[/us/pl/107/296/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtX
 [/us/stat/116/2271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2271
-[/us/pl/107/347/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs304
+[/us/pl/107/347/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtIII
 [/us/stat/116/2959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2959
-[/us/pl/113/283/s2/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Ff%2F2
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/stat/128/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3087
-[/us/pl/113/283/s2/f/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Ff%2F2%2FA
-[/us/pl/113/283/s2/f/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Ff%2F2%2FB
-[/us/pl/107/296/s1004/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1004%2F1
-[/us/pl/107/347/s304/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs304%2F1
-[/us/pl/107/296/s1004/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1004%2F2
-[/us/pl/107/347/s304/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs304%2F2
-[/us/pl/107/296/s1004/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1004%2F3
-[/us/pl/107/347/s304/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs304%2F3
-[/us/pl/107/296/s1004/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1004%2F4
-[/us/pl/107/347/s304/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs304%2F4
-[/us/pl/107/296/s1004/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1004%2F5
-[/us/pl/107/347/s304/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs304%2F5
-[/us/pl/107/347/s304/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs304%2F6
-[/us/pl/107/296/s1004/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1004%2F6
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/usc/t15/s278g–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933
-[/us/pl/107/296/s1004/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1004%2F7
-[/us/pl/107/347/s304/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs304%2F7
-[/us/pl/107/296/s1004/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1004%2F8
-[/us/pl/107/347/s304/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs304%2F8
-[/us/pl/107/296/s1004/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1004%2F10
-[/us/pl/107/347/s304/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs304%2F10
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/usc/t15/s278g–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g%E2%80%933
-[/us/pl/107/296/s1004/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1004%2F9
-[/us/pl/107/347/s304/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs304%2F9
+[/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
+[/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347

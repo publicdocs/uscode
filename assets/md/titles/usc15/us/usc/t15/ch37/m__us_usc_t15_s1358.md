@@ -19,7 +19,7 @@
 
     (b) The right to alter, amend, or repeal this section, or consent granted by this section, is expressly reserved.
 
-([Pub. L. 89–182, § 8][/us/pl/89/182/s8], Sept. 14, 1965, [79 Stat. 682][/us/stat/79/682].)
+([Pub. L. 89–182][/us/pl/89/182], § 8, Sept. 14, 1965, [79 Stat. 682][/us/stat/79/682].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t15/s1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1357
-[/us/pl/89/182/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182%2Fs8
+[/us/pl/89/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182
 [/us/stat/79/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F682
 
 

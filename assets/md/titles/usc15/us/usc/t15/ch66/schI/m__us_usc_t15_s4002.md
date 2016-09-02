@@ -41,7 +41,7 @@
 
     (b) The Secretary of Commerce may by regulation further define any term defined in subsection (a), in order to carry out this subchapter.
 
-([Pub. L. 97–290, title I, § 103][/us/pl/97/290/s103], Oct. 8, 1982, [96 Stat. 1234][/us/stat/96/1234].)
+([Pub. L. 97–290, title I][/us/pl/97/290/tI], § 103, Oct. 8, 1982, [96 Stat. 1234][/us/stat/96/1234].)
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -57,7 +57,7 @@
 [/us/usc/t15/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12%2Fa
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
-[/us/pl/97/290/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs103
+[/us/pl/97/290/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2FtI
 [/us/stat/96/1234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1234
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
 

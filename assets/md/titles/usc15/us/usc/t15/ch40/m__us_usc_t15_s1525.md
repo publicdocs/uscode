@@ -19,7 +19,7 @@
 
     In the case of nonprofit organizations, research organizations, or public organizations or agencies, the Secretary may engage in joint projects, or perform services, on matters of mutual interest, the cost of which shall be apportioned equitably, as determined by the Secretary, who may, however, waive payment of any portion of such costs by others, when authorized to do so under regulations approved by the Office of Management and Budget.
 
-([Pub. L. 91–412, § 1][/us/pl/91/412/s1], Sept. 25, 1970, [84 Stat. 864][/us/stat/84/864]; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085][/us/stat/84/2085].)
+([Pub. L. 91–412][/us/pl/91/412], § 1, Sept. 25, 1970, [84 Stat. 864][/us/stat/84/864]; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085][/us/stat/84/2085].)
 
  __Transfer of Functions__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t15/s1152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1152
-[/us/pl/91/412/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F412%2Fs1
+[/us/pl/91/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F412
 [/us/stat/84/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F864
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085

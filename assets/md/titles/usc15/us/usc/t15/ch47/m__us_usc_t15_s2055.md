@@ -115,7 +115,7 @@
 
         (5) Any officer or employee of the Commission or other officer or employee of the Federal Government who receives information provided under [section 2084 of this title][/us/usc/t15/s2084], who willfully violates the requirements of this subsection shall be subject to dismissal or other appropriate disciplinary action consistent with procedures and requirements established by the Office of Personnel Management.
 
-([Pub. L. 92–573, § 6][/us/pl/92/573/s6], Oct. 27, 1972, [86 Stat. 1212][/us/stat/86/1212]; [Pub. L. 97–35, title XII, § 1204][/us/pl/97/35/s1204], Aug. 13, 1981, [95 Stat. 713][/us/stat/95/713]; [Pub. L. 97–414, § 9(j)(1)][/us/pl/97/414/s9/j/1], Jan. 4, 1983, [96 Stat. 2064][/us/stat/96/2064]; [Pub. L. 101–608, title I][/us/pl/101/608], §§ 106, 112(c), Nov. 16, 1990, [104 Stat. 3111][/us/stat/104/3111], 3116; [Pub. L. 110–314, title II][/us/pl/110/314], §§ 211, 235(c)(2), Aug. 14, 2008, [122 Stat. 3047][/us/stat/122/3047], 3074.)
+([Pub. L. 92–573][/us/pl/92/573], § 6, Oct. 27, 1972, [86 Stat. 1212][/us/stat/86/1212]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1204, Aug. 13, 1981, [95 Stat. 713][/us/stat/95/713]; [Pub. L. 97–414][/us/pl/97/414], § 9(j)(1), Jan. 4, 1983, [96 Stat. 2064][/us/stat/96/2064]; [Pub. L. 101–608, title I][/us/pl/101/608/tI], §§ 106, 112(c), Nov. 16, 1990, [104 Stat. 3111][/us/stat/104/3111], 3116; [Pub. L. 110–314, title II][/us/pl/110/314/tII], §§ 211, 235(c)(2), Aug. 14, 2008, [122 Stat. 3047][/us/stat/122/3047], 3074.)
 
  __References in Text__ 
 
@@ -129,23 +129,23 @@
 
  __Amendments__ 
 
-    2008—Subsec. (a)(3). [Pub. L. 110–314, § 211(1)][/us/pl/110/314/s211/1], inserted “A manufacturer or private labeler shall submit any such mark within 15 calendar days after the date on which it receives the Commission’s offer.” after “paragraph (2).”
+    2008—Subsec. (a)(3). [Pub. L. 110–314][/us/pl/110/314], § 211(1), inserted “A manufacturer or private labeler shall submit any such mark within 15 calendar days after the date on which it receives the Commission’s offer.” after “paragraph (2).”
 
-    Subsec. (b)(1). [Pub. L. 110–314, § 211(2)][/us/pl/110/314/s211/2]–(4), substituted “15 days” for “30 days”, “publishes a finding that the public” for “finds that the public”, and “notice),” for “notice and publishes such a finding in the Federal Register),”.
+    Subsec. (b)(1). [Pub. L. 110–314][/us/pl/110/314], § 211(2)–(4), substituted “15 days” for “30 days”, “publishes a finding that the public” for “finds that the public”, and “notice),” for “notice and publishes such a finding in the Federal Register),”.
 
-    Subsec. (b)(2). [Pub. L. 110–314, § 211(5)][/us/pl/110/314/s211/5]–(7), substituted “5 days” for “10 days”, “publishes a finding that the public” for “finds that the public”, and “notice.” for “notice and publishes such finding in the Federal Register.”
+    Subsec. (b)(2). [Pub. L. 110–314][/us/pl/110/314], § 211(5)–(7), substituted “5 days” for “10 days”, “publishes a finding that the public” for “finds that the public”, and “notice.” for “notice and publishes such finding in the Federal Register.”
 
-    Subsec. (b)(3). [Pub. L. 110–314, § 211(8)][/us/pl/110/314/s211/8], designated existing provisions as subpar. (A) and added subpar. (B).
+    Subsec. (b)(3). [Pub. L. 110–314][/us/pl/110/314], § 211(8), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (b)(4). [Pub. L. 110–314, § 211(9)][/us/pl/110/314/s211/9], which directed substitution of “any consumer product safety rule or provision of this Act or similar rule or provision of any other Act enforced by the Commission;” for “[section 2068 of this title][/us/usc/t15/s2068] (related to prohibited acts);”, was executed by making the substitution for “[section 2068 of this title][/us/usc/t15/s2068] (relating to prohibited acts);” to reflect the probable intent of Congress.
+    Subsec. (b)(4). [Pub. L. 110–314][/us/pl/110/314], § 211(9), which directed substitution of “any consumer product safety rule or provision of this Act or similar rule or provision of any other Act enforced by the Commission;” for “[section 2068 of this title][/us/usc/t15/s2068] (related to prohibited acts);”, was executed by making the substitution for “[section 2068 of this title][/us/usc/t15/s2068] (relating to prohibited acts);” to reflect the probable intent of Congress.
 
-    Subsec. (b)(5). [Pub. L. 110–314, § 211(10)][/us/pl/110/314/s211/10]–(13), added subpar. (D) and substituted “any consumer product safety rule or provision under this Act or similar rule or provision of any other Act enforced by the Commission,” for “[section 2068(a) of this title][/us/usc/t15/s2068/a],” in concluding provisions.
+    Subsec. (b)(5). [Pub. L. 110–314][/us/pl/110/314], § 211(10)–(13), added subpar. (D) and substituted “any consumer product safety rule or provision under this Act or similar rule or provision of any other Act enforced by the Commission,” for “[section 2068(a) of this title][/us/usc/t15/s2068/a],” in concluding provisions.
 
-    Subsec. (e)(4). [Pub. L. 110–314, § 235(c)(2)][/us/pl/110/314/s235/c/2], substituted “either of the appropriate Congressional committees or any subcommittee thereof,” for “the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Energy and Commerce of the House of Representatives or any subcommittee of such committee,”.
+    Subsec. (e)(4). [Pub. L. 110–314][/us/pl/110/314], § 235(c)(2), substituted “either of the appropriate Congressional committees or any subcommittee thereof,” for “the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Energy and Commerce of the House of Representatives or any subcommittee of such committee,”.
 
-    1990—Subsec. (a)(8). [Pub. L. 101–608, § 106][/us/pl/101/608/s106], amended par. (8) generally. Prior to amendment, par. (8) read as follows: “The provisions of paragraphs (2) through (6) shall not prohibit the disclosure of information to other officers or employees concerned with carrying out this Act or when relevant in any administrative proceeding under this Act, or in judicial proceedings to which the Commission is a party. Any disclosure of relevant information in Commission administrative proceedings, or in judicial proceedings to which the Commission is a party, shall be governed by the rules of the Commission (including in camera review rules for confidential material) for such proceedings or by court rules or orders, except that the rules of the Commission shall not be amended in a manner inconsistent with the purposes of this section.”
+    1990—Subsec. (a)(8). [Pub. L. 101–608][/us/pl/101/608], § 106, amended par. (8) generally. Prior to amendment, par. (8) read as follows: “The provisions of paragraphs (2) through (6) shall not prohibit the disclosure of information to other officers or employees concerned with carrying out this Act or when relevant in any administrative proceeding under this Act, or in judicial proceedings to which the Commission is a party. Any disclosure of relevant information in Commission administrative proceedings, or in judicial proceedings to which the Commission is a party, shall be governed by the rules of the Commission (including in camera review rules for confidential material) for such proceedings or by court rules or orders, except that the rules of the Commission shall not be amended in a manner inconsistent with the purposes of this section.”
 
-    Subsec. (e). [Pub. L. 101–608, § 112(c)][/us/pl/101/608/s112/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 101–608][/us/pl/101/608], § 112(c), added subsec. (e).
 
     1983—Subsec. (b)(1). [Pub. L. 97–414][/us/pl/97/414] substituted “paragraph (4)” for “paragraph (2)”.
 
@@ -196,15 +196,15 @@
 [/us/usc/t15/s2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2084
 [/us/usc/t15/s2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2084
 [/us/usc/t15/s2084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2084
-[/us/pl/92/573/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs6
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1212
-[/us/pl/97/35/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1204
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F713
-[/us/pl/97/414/s9/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414%2Fs9%2Fj%2F1
+[/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/stat/96/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2064
-[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
+[/us/pl/101/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2FtI
 [/us/stat/104/3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3111
-[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3047
 [/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1207
@@ -218,18 +218,18 @@
 [/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/stat/74/372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F372
 [/us/usc/t15/s1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1261
-[/us/pl/110/314/s211/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs211%2F1
-[/us/pl/110/314/s211/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs211%2F2
-[/us/pl/110/314/s211/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs211%2F5
-[/us/pl/110/314/s211/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs211%2F8
-[/us/pl/110/314/s211/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs211%2F9
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/usc/t15/s2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2068
 [/us/usc/t15/s2068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2068
-[/us/pl/110/314/s211/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs211%2F10
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/usc/t15/s2068/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2068%2Fa
-[/us/pl/110/314/s235/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs235%2Fc%2F2
-[/us/pl/101/608/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs106
-[/us/pl/101/608/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs112%2Fc
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
+[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
 [/us/pl/97/414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F414
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

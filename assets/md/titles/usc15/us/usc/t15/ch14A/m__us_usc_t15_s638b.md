@@ -111,7 +111,7 @@
 
         (4) an accounting of the funds used to address fraud, waste, and abuse, including a description of personnel and resources funded and funds that were recovered or saved.
 
-([Pub. L. 112–81, div. E, title LI, § 5143][/us/pl/112/81/s5143], Dec. 31, 2011, [125 Stat. 1854][/us/stat/125/1854].)
+([Pub. L. 112–81, div. E, title LI][/us/pl/112/81/dE/tLI], § 5143, Dec. 31, 2011, [125 Stat. 1854][/us/stat/125/1854].)
 
  __Codification__ 
 
@@ -119,7 +119,7 @@
 
  __Definitions__ 
 
-[Pub. L. 112–81, div. E, title L, § 5002][/us/pl/112/81/s5002], Dec. 31, 2011, [125 Stat. 1823][/us/stat/125/1823], provided that: 
+[Pub. L. 112–81, div. E, title L][/us/pl/112/81/dE/tL], § 5002, Dec. 31, 2011, [125 Stat. 1823][/us/stat/125/1823], provided that: 
 
 > “In this division \[enacting this section and [section 638a of this title][/us/usc/t15/s638a], amending sections 632 and 638 of this title, enacting provisions set out as notes under this section and sections 631 and 638 of this title, and amending provisions set out as a note under [section 638 of this title][/us/usc/t15/s638]\]—
 
@@ -137,9 +137,9 @@
 ----------
 
 [/us/usc/t15/s638/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638%2Fk
-[/us/pl/112/81/s5143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5143
+[/us/pl/112/81/dE/tLI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdE%2FtLI
 [/us/stat/125/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1854
-[/us/pl/112/81/s5002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs5002
+[/us/pl/112/81/dE/tL]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdE%2FtL
 [/us/stat/125/1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1823
 [/us/usc/t15/s638a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638a
 [/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638

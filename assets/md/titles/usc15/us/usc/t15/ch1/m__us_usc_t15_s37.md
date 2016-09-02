@@ -37,7 +37,7 @@
 
         Subsections (a) and (b) shall not apply with respect to the enforcement of a State law similar to any of the antitrust laws, with respect to charitable gift annuities, or charitable remainder trusts, created after the State enacts a statute, not later than December 8, 1998, that expressly provides that subsections (a) and (b) shall not apply with respect to such charitable gift annuities and such charitable remainder trusts.
 
-([Pub. L. 104–63, § 2][/us/pl/104/63/s2], Dec. 8, 1995, [109 Stat. 687][/us/stat/109/687]; [Pub. L. 105–26, § 2(1)][/us/pl/105/26/s2/1], July 3, 1997, [111 Stat. 241][/us/stat/111/241].)
+([Pub. L. 104–63][/us/pl/104/63], § 2, Dec. 8, 1995, [109 Stat. 687][/us/stat/109/687]; [Pub. L. 105–26][/us/pl/105/26], § 2(1), July 3, 1997, [111 Stat. 241][/us/stat/111/241].)
 
  __References in Text__ 
 
@@ -49,19 +49,19 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–26, § 3][/us/pl/105/26/s3], July 3, 1997, [111 Stat. 242][/us/stat/111/242], provided that: 
+[Pub. L. 105–26][/us/pl/105/26], § 3, July 3, 1997, [111 Stat. 242][/us/stat/111/242], provided that: 
 
 > “This Act \[see Short Title of 1997 Amendments note set out under [section 1 of this title][/us/usc/t15/s1]\], and the amendments made by this Act, shall apply with respect to all conduct occurring before, on, or after the date of the enactment of this Act \[July 3, 1997\] and shall apply in all administrative and judicial actions pending on or commenced after the date of the enactment of this Act.”
 
  __Effective Date__ 
 
-[Pub. L. 104–63, § 4][/us/pl/104/63/s4], Dec. 8, 1995, [109 Stat. 688][/us/stat/109/688], provided that: 
+[Pub. L. 104–63][/us/pl/104/63], § 4, Dec. 8, 1995, [109 Stat. 688][/us/stat/109/688], provided that: 
 
 > “This Act \[enacting this section, [section 37a of this title][/us/usc/t15/s37a], and provisions set out as a note under [section 1 of this title][/us/usc/t15/s1]\] shall apply with respect to conduct occurring before, on, or after the date of the enactment of this Act \[Dec. 8, 1995\].”
 
  __Study and Report__ 
 
-[Pub. L. 105–26, § 4][/us/pl/105/26/s4], July 3, 1997, [111 Stat. 242][/us/stat/111/242], provided that:
+[Pub. L. 105–26][/us/pl/105/26], § 4, July 3, 1997, [111 Stat. 242][/us/stat/111/242], provided that:
 
 >     “(a)  __Study and Report__  __.—__ 
 
@@ -83,20 +83,20 @@
 ----------
 
 [/us/usc/t15/s37a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs37a
-[/us/pl/104/63/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F63%2Fs2
+[/us/pl/104/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F63
 [/us/stat/109/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F687
-[/us/pl/105/26/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F26%2Fs2%2F1
+[/us/pl/105/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F26
 [/us/stat/111/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F241
 [/us/usc/t15/s37a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs37a%2F1
 [/us/pl/105/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F26
-[/us/pl/105/26/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F26%2Fs3
+[/us/pl/105/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F26
 [/us/stat/111/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F242
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1
-[/us/pl/104/63/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F63%2Fs4
+[/us/pl/104/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F63
 [/us/stat/109/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F688
 [/us/usc/t15/s37a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs37a
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1
-[/us/pl/105/26/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F26%2Fs4
+[/us/pl/105/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F26
 [/us/stat/111/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F242
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1
 

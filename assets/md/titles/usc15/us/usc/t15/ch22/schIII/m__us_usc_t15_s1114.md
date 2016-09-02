@@ -83,11 +83,11 @@
 
         (D) Any failure by a manufacturer, licensee, or licensor of technology to qualify for the exemption under subparagraphs (A) and (B) shall not be construed to create an inference that any such party that engages in conduct described in paragraph (11) of [section 110 of title 17][/us/usc/t17/s110] is liable for trademark infringement by reason of such conduct.
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title VI, § 32, [60 Stat. 437][/us/stat/60/437]; [Pub. L. 87–772, § 17][/us/pl/87/772/s17], Oct. 9, 1962, [76 Stat. 773][/us/stat/76/773]; [Pub. L. 100–667, title I, § 127][/us/pl/100/667/s127], Nov. 16, 1988, [102 Stat. 3943][/us/stat/102/3943]; [Pub. L. 102–542, § 3(a)][/us/pl/102/542/s3/a], Oct. 27, 1992, [106 Stat. 3567][/us/stat/106/3567]; [Pub. L. 105–330, title II, § 201(a)(8)][/us/pl/105/330/s201/a/8], Oct. 30, 1998, [112 Stat. 3070][/us/stat/112/3070]; [Pub. L. 106–43, § 4(a)][/us/pl/106/43/s4/a], Aug. 5, 1999, [113 Stat. 219][/us/stat/113/219]; [Pub. L. 106–113, div. B, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title III, § 3004\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–549; [Pub. L. 109–9, title II, § 202(b)][/us/pl/109/9/s202/b], Apr. 27, 2005, [119 Stat. 223][/us/stat/119/223].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title VI, § 32, [60 Stat. 437][/us/stat/60/437]; [Pub. L. 87–772][/us/pl/87/772], § 17, Oct. 9, 1962, [76 Stat. 773][/us/stat/76/773]; [Pub. L. 100–667, title I][/us/pl/100/667/tI], § 127, Nov. 16, 1988, [102 Stat. 3943][/us/stat/102/3943]; [Pub. L. 102–542][/us/pl/102/542], § 3(a), Oct. 27, 1992, [106 Stat. 3567][/us/stat/106/3567]; [Pub. L. 105–330, title II][/us/pl/105/330/tII], § 201(a)(8), Oct. 30, 1998, [112 Stat. 3070][/us/stat/112/3070]; [Pub. L. 106–43][/us/pl/106/43], § 4(a), Aug. 5, 1999, [113 Stat. 219][/us/stat/113/219]; [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(9) \[title III, § 3004\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–549; [Pub. L. 109–9, title II][/us/pl/109/9/tII], § 202(b), Apr. 27, 2005, [119 Stat. 223][/us/stat/119/223].)
 
  __Prior Provisions__ 
 
-    Acts [Feb. 20, 1905, ch. 592, § 16][/us/act/1905-02-20/ch592/s16], [33 Stat. 728][/us/stat/33/728]; [Mar. 19, 1920, ch. 104, § 4][/us/act/1920-03-19/ch104/s4], [41 Stat. 534][/us/stat/41/534].
+    Acts [Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], § 16, [33 Stat. 728][/us/stat/33/728]; [Mar. 19, 1920, ch. 104][/us/act/1920-03-19/ch104], § 4, [41 Stat. 534][/us/stat/41/534].
 
  __Amendments__ 
 
@@ -95,9 +95,9 @@
 
     1999—Par. (1). [Pub. L. 106–43][/us/pl/106/43], in undesignated par., inserted after “includes” in first sentence “the United States, all agencies and instrumentalities thereof, and all individuals, firms, corporations, or other persons acting for the United States and with the authorization and consent of the United States, and” and, in second sentence, substituted “The United States, all agencies and instrumentalities thereof, and all individuals, firms, corporations, other persons acting for the United States and with the authorization and consent of the United States, and any” for “Any”.
 
-    Par. (2). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title III, § 3004(1)\], in introductory provisions, substituted “under section 1125(a) or (d) of this title” for “under [section 1125(a) of this title][/us/usc/t15/s1125/a]”.
+    Par. (2). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title III, § 3004(1)\], in introductory provisions, substituted “under section 1125(a) or (d) of this title” for “under [section 1125(a) of this title][/us/usc/t15/s1125/a]”.
 
-    Par. (2)(D), (E). [Pub. L. 106–113, § 1000(a)(9)][/us/pl/106/113/s1000/a/9] \[title III, § 3004(2)\], added subpar. (D) and redesignated former subpar. (D) as (E).
+    Par. (2)(D), (E). [Pub. L. 106–113][/us/pl/106/113], § 1000(a)(9) \[title III, § 3004(2)\], added subpar. (D) and redesignated former subpar. (D) as (E).
 
     1998—Par. (1). [Pub. L. 105–330][/us/pl/105/330] substituted “As used in this paragraph” for “As used in this subsection” in last paragraph.
 
@@ -119,7 +119,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–542, § 4][/us/pl/102/542/s4], Oct. 27, 1992, [106 Stat. 3568][/us/stat/106/3568], provided that: 
+[Pub. L. 102–542][/us/pl/102/542], § 4, Oct. 27, 1992, [106 Stat. 3568][/us/stat/106/3568], provided that: 
 
 > “The amendments made by this Act \[enacting [section 1122 of this title][/us/usc/t15/s1122] and amending this section and sections 1125 and 1127 of this title\] shall take effect with respect to violations that occur on or after the date of the enactment of this Act \[Oct. 27, 1992\].”
 
@@ -150,29 +150,29 @@
 [/us/usc/t17/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17%2Fs110
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F437
-[/us/pl/87/772/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772%2Fs17
+[/us/pl/87/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F772
 [/us/stat/76/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F773
-[/us/pl/100/667/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs127
+[/us/pl/100/667/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtI
 [/us/stat/102/3943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3943
-[/us/pl/102/542/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F542%2Fs3%2Fa
+[/us/pl/102/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F542
 [/us/stat/106/3567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3567
-[/us/pl/105/330/s201/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2Fs201%2Fa%2F8
+[/us/pl/105/330/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2FtII
 [/us/stat/112/3070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3070
-[/us/pl/106/43/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43%2Fs4%2Fa
+[/us/pl/106/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43
 [/us/stat/113/219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F219
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
-[/us/pl/109/9/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2Fs202%2Fb
+[/us/pl/109/9/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9%2FtII
 [/us/stat/119/223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F223
-[/us/act/1905-02-20/ch592/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592%2Fs16
+[/us/act/1905-02-20/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592
 [/us/stat/33/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F728
-[/us/act/1920-03-19/ch104/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-19%2Fch104%2Fs4
+[/us/act/1920-03-19/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-19%2Fch104
 [/us/stat/41/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F534
 [/us/pl/109/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F9
 [/us/pl/106/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F43
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/usc/t15/s1125/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1125%2Fa
-[/us/pl/106/113/s1000/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F9
+[/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/pl/105/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330
 [/us/pl/102/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F542
 [/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
@@ -184,7 +184,7 @@
 [/us/pl/105/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330
 [/us/pl/105/330/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F330%2Fs201%2Fb
 [/us/usc/t15/s1051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1051
-[/us/pl/102/542/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F542%2Fs4
+[/us/pl/102/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F542
 [/us/stat/106/3568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3568
 [/us/usc/t15/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1122
 [/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667

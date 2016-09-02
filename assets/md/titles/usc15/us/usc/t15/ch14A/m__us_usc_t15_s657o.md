@@ -25,7 +25,7 @@
 
     (4) describe the plans of the Administration for preparing to respond to disasters during the next fiscal year.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[43\], as added [Pub. L. 110–234, title XII, § 12091(g)][/us/pl/110/234/s12091/g], May 22, 2008, [122 Stat. 1426][/us/stat/122/1426], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12091(g), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2188.)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[43\], as added [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12091(g), May 22, 2008, [122 Stat. 1426][/us/stat/122/1426], and [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12091(g), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2188.)
 
  __Codification__ 
 
@@ -42,10 +42,10 @@
 ----------
 ----------
 
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
-[/us/pl/110/234/s12091/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12091%2Fg
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1426
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246

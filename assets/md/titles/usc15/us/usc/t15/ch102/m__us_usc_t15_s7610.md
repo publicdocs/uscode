@@ -51,7 +51,7 @@
 
         (H) In the case of a private label contact lens, name of manufacturer, trade name of private label brand, and, if applicable, trade name of equivalent brand name.
 
-([Pub. L. 108–164, § 11][/us/pl/108/164/s11], Dec. 6, 2003, [117 Stat. 2027][/us/stat/117/2027].)
+([Pub. L. 108–164][/us/pl/108/164], § 11, Dec. 6, 2003, [117 Stat. 2027][/us/stat/117/2027].)
 
 ----------
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/108/164/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F164%2Fs11
+[/us/pl/108/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F164
 [/us/stat/117/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2027
 
 

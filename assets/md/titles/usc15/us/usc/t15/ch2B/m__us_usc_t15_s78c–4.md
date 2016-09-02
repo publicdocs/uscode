@@ -259,7 +259,7 @@
 
         The Commission shall prescribe rules governing the regulation of security-based swap execution facilities under this section.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 3D, as added [Pub. L. 111–203, title VII, § 763(c)][/us/pl/111/203/s763/c], July 21, 2010, [124 Stat. 1769][/us/stat/124/1769].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 3D, as added [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 763(c), July 21, 2010, [124 Stat. 1769][/us/stat/124/1769].)
 
  __References in Text__ 
 
@@ -278,7 +278,7 @@
 
 [/us/usc/t15/s78c–3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%E2%80%933%2Fa%2F1
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/111/203/s763/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs763%2Fc
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1769
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

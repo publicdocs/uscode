@@ -63,7 +63,7 @@
 
         (3) the Committee on Small Business of the House of Representatives.
 
-([Pub. L. 108–447, div. K, title I, § 147][/us/pl/108/447/s147], Dec. 8, 2004, [118 Stat. 3455][/us/stat/118/3455].)
+([Pub. L. 108–447, div. K, title I][/us/pl/108/447/dK/tI], § 147, Dec. 8, 2004, [118 Stat. 3455][/us/stat/118/3455].)
 
  __References in Text__ 
 
@@ -80,7 +80,7 @@
 ----------
 ----------
 
-[/us/pl/108/447/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs147
+[/us/pl/108/447/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdK%2FtI
 [/us/stat/118/3455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3455
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/stat/118/3453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3453

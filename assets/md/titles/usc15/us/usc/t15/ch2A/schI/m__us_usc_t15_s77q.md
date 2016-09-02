@@ -37,7 +37,7 @@
 
         The authority of the Commission under this section with respect to security-based swap agreements (as defined in [section 78c(a)(78) of this title][/us/usc/t15/s78c/a/78]) shall be subject to the restrictions and limitations of [section 77b–1(b) of this title][/us/usc/t15/s77b–1/b].
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 17, [48 Stat. 84][/us/stat/48/84]; [Aug. 10, 1954, ch. 667][/us/act/1954-08-10/ch667], title I, § 10, [68 Stat. 686][/us/stat/68/686]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title III, § 302(b), (c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–452; [Pub. L. 111–203, title VII, § 762(c)(2)][/us/pl/111/203/s762/c/2], July 21, 2010, [124 Stat. 1759][/us/stat/124/1759].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 17, [48 Stat. 84][/us/stat/48/84]; [Aug. 10, 1954, ch. 667][/us/act/1954-08-10/ch667], title I, § 10, [68 Stat. 686][/us/stat/68/686]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title III, § 302(b), (c)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–452; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 762(c)(2), July 21, 2010, [124 Stat. 1759][/us/stat/124/1759].)
 
  __Amendment of Section__ 
 
@@ -49,11 +49,11 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 762(c)(2)(A)][/us/pl/111/203/s762/c/2/A], in introductory provisions, inserted “(including security-based swaps)” after “securities” and substituted “(as defined in [section 78c(a)(78) of this title][/us/usc/t15/s78c/a/78])” for “(as defined in section 206B of the Gramm-Leach-Bliley Act)”.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 762(c)(2)(A), in introductory provisions, inserted “(including security-based swaps)” after “securities” and substituted “(as defined in [section 78c(a)(78) of this title][/us/usc/t15/s78c/a/78])” for “(as defined in section 206B of the Gramm-Leach-Bliley Act)”.
 
-    Subsec. (d). [Pub. L. 111–203, § 762(c)(2)(B)][/us/pl/111/203/s762/c/2/B], substituted “78c(a)(78) of this title” for “206B of the Gramm-Leach-Bliley Act”.
+    Subsec. (d). [Pub. L. 111–203][/us/pl/111/203], § 762(c)(2)(B), substituted “78c(a)(78) of this title” for “206B of the Gramm-Leach-Bliley Act”.
 
-    2000—Subsec. (a). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title III, § 302(b)\], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “It shall be unlawful for any person in the offer or sale of any securities by the use of any means or instruments of transportation or communication in interstate commerce or by the use of the mails, directly or indirectly—
+    2000—Subsec. (a). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title III, § 302(b)\], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “It shall be unlawful for any person in the offer or sale of any securities by the use of any means or instruments of transportation or communication in interstate commerce or by the use of the mails, directly or indirectly—
 
     “(1) to employ any device, scheme, or artifice to defraud, or
 
@@ -61,7 +61,7 @@
 
     “(3) to engage in any transaction, practice, or course of business which operates or would operate as a fraud or deceit upon the purchaser.”
 
-    Subsec. (d). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title III, § 302(c)\], added subsec. (d).
+    Subsec. (d). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title III, § 302(c)\], added subsec. (d).
 
     1954—Subsec. (a). Act Aug. 10, 1954, inserted “offer or” before “sale” in introductory text.
 
@@ -87,18 +87,18 @@
 [/us/stat/48/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F84
 [/us/act/1954-08-10/ch667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-10%2Fch667
 [/us/stat/68/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F686
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/111/203/s762/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fc%2F2
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1759
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78c/a/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F78
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/111/203/s762/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fc%2F2%2FA
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78c/a/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F78
-[/us/pl/111/203/s762/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs762%2Fc%2F2%2FB
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs774

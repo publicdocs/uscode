@@ -43,23 +43,23 @@
 
     (4) promoting the rapid adoption of open network standards.
 
-([Pub. L. 102–194, § 3][/us/pl/102/194/s3], Dec. 9, 1991, [105 Stat. 1594][/us/stat/105/1594]; [Pub. L. 105–305, § 3(b)][/us/pl/105/305/s3/b], Oct. 28, 1998, [112 Stat. 2920][/us/stat/112/2920].)
+([Pub. L. 102–194][/us/pl/102/194], § 3, Dec. 9, 1991, [105 Stat. 1594][/us/stat/105/1594]; [Pub. L. 105–305][/us/pl/105/305], § 3(b), Oct. 28, 1998, [112 Stat. 2920][/us/stat/112/2920].)
 
  __Amendments__ 
 
-    1998—[Pub. L. 105–305, § 3(b)(1)][/us/pl/105/305/s3/b/1], substituted “Purposes” for “Purpose” as section catchline.
+    1998—[Pub. L. 105–305][/us/pl/105/305], § 3(b)(1), substituted “Purposes” for “Purpose” as section catchline.
 
-    [Pub. L. 105–305, § 3(b)(2)][/us/pl/105/305/s3/b/2], substituted “purposes of this chapter are” for “purpose of this chapter is” in introductory provisions.
+    [Pub. L. 105–305][/us/pl/105/305], § 3(b)(2), substituted “purposes of this chapter are” for “purpose of this chapter is” in introductory provisions.
 
-    Par. (1)(A). [Pub. L. 105–305, § 3(b)(3)][/us/pl/105/305/s3/b/3], redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “establish a high-capacity and high-speed National Research and Education Network;”.
+    Par. (1)(A). [Pub. L. 105–305][/us/pl/105/305], § 3(b)(3), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “establish a high-capacity and high-speed National Research and Education Network;”.
 
-    Par. (1)(B). [Pub. L. 105–305, § 3(b)(3)][/us/pl/105/305/s3/b/3], (4), redesignated subpar. (C) as (B) and substituted “Internet” for “Network”. Former subpar. (B) redesignated (A).
+    Par. (1)(B). [Pub. L. 105–305][/us/pl/105/305], § 3(b)(3), (4), redesignated subpar. (C) as (B) and substituted “Internet” for “Network”. Former subpar. (B) redesignated (A).
 
-    Par. (1)(C) to (I). [Pub. L. 105–305, § 3(b)(3)][/us/pl/105/305/s3/b/3], (5), redesignated subpars. (D) to (I) as (C) to (H), respectively, and struck out “and” at end of par. (H).
+    Par. (1)(C) to (I). [Pub. L. 105–305][/us/pl/105/305], § 3(b)(3), (5), redesignated subpars. (D) to (I) as (C) to (H), respectively, and struck out “and” at end of par. (H).
 
-    Par. (2). [Pub. L. 105–305, § 3(b)(6)][/us/pl/105/305/s3/b/6], substituted “network research and development programs;” for “efforts.”
+    Par. (2). [Pub. L. 105–305][/us/pl/105/305], § 3(b)(6), substituted “network research and development programs;” for “efforts.”
 
-    Pars. (3), (4). [Pub. L. 105–305, § 3(b)(7)][/us/pl/105/305/s3/b/7], added pars. (3) and (4).
+    Pars. (3), (4). [Pub. L. 105–305][/us/pl/105/305], § 3(b)(7), added pars. (3) and (4).
 
 ----------
 
@@ -68,16 +68,16 @@
 ----------
 ----------
 
-[/us/pl/102/194/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2Fs3
+[/us/pl/102/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194
 [/us/stat/105/1594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1594
-[/us/pl/105/305/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305%2Fs3%2Fb
+[/us/pl/105/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305
 [/us/stat/112/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2920
-[/us/pl/105/305/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305%2Fs3%2Fb%2F1
-[/us/pl/105/305/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305%2Fs3%2Fb%2F2
-[/us/pl/105/305/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305%2Fs3%2Fb%2F3
-[/us/pl/105/305/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305%2Fs3%2Fb%2F3
-[/us/pl/105/305/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305%2Fs3%2Fb%2F3
-[/us/pl/105/305/s3/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305%2Fs3%2Fb%2F6
-[/us/pl/105/305/s3/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305%2Fs3%2Fb%2F7
+[/us/pl/105/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305
+[/us/pl/105/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305
+[/us/pl/105/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305
+[/us/pl/105/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305
+[/us/pl/105/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305
+[/us/pl/105/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305
+[/us/pl/105/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305
 
 

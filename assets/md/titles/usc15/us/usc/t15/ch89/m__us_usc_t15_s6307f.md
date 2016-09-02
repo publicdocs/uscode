@@ -17,7 +17,7 @@
 
     A judge or referee shall not be entitled to receive any compensation, directly or indirectly, in connection with a boxing match until it provides to the boxing commission responsible for regulating the match in a State a statement of all consideration, including reimbursement for expenses, that will be received from any source for participation in the match.
 
-([Pub. L. 104–272, § 14][/us/pl/104/272/s14], as added [Pub. L. 106–210, § 4(2)][/us/pl/106/210/s4/2], May 26, 2000, [114 Stat. 325][/us/stat/114/325].)
+([Pub. L. 104–272][/us/pl/104/272], § 14, as added [Pub. L. 106–210][/us/pl/106/210], § 4(2), May 26, 2000, [114 Stat. 325][/us/stat/114/325].)
 
  __Prior Provisions__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/104/272/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs14
-[/us/pl/106/210/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs4%2F2
+[/us/pl/104/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 [/us/stat/114/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F325
 [/us/pl/104/272/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs14
 [/us/usc/t15/s6313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6313

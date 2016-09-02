@@ -39,81 +39,81 @@
 
     (11) The unacceptably high rates of death, injury, and property loss from fire can be reduced if the Federal Government establishes a coordinated program to support and reinforce the fire prevention and control activities of State and local governments.
 
-([Pub. L. 93–498, § 2][/us/pl/93/498/s2], Oct. 29, 1974, [88 Stat. 1535][/us/stat/88/1535].)
+([Pub. L. 93–498][/us/pl/93/498], § 2, Oct. 29, 1974, [88 Stat. 1535][/us/stat/88/1535].)
 
  __References in Text__ 
 
-    The National Commission on Fire Prevention and Control, established pursuant to [Public Law 90–259][/us/pl/90/259], referred to in par. (1), refers to the Commission established pursuant to [Pub. L. 90–259, title II][/us/pl/90/259], §§ 201–207, Mar. 1, 1968, [82 Stat. 36][/us/stat/82/36], which provisions were set out as a note under [section 278f of this title][/us/usc/t15/s278f]. The Commission has expired pursuant to sections 203(c) and 207 of [Pub. L. 90–259][/us/pl/90/259].
+    The National Commission on Fire Prevention and Control, established pursuant to [Public Law 90–259][/us/pl/90/259], referred to in par. (1), refers to the Commission established pursuant to [Pub. L. 90–259, title II][/us/pl/90/259/tII], §§ 201–207, Mar. 1, 1968, [82 Stat. 36][/us/stat/82/36], which provisions were set out as a note under [section 278f of this title][/us/usc/t15/s278f]. The Commission has expired pursuant to sections 203(c) and 207 of [Pub. L. 90–259][/us/pl/90/259].
 
  __Short Title of 2013 Amendment__ 
 
-[Pub. L. 112–239, div. A, title XVIII, § 1801][/us/pl/112/239/s1801], Jan. 2, 2013, [126 Stat. 2099][/us/stat/126/2099], provided that: 
+[Pub. L. 112–239, div. A, title XVIII][/us/pl/112/239/dA/tXVIII], § 1801, Jan. 2, 2013, [126 Stat. 2099][/us/stat/126/2099], provided that: 
 
 > “This subtitle \[subtitle A (§§ 1801–1807) of title XVIII of div. A of [Pub. L. 112–239][/us/pl/112/239], amending sections 2203, 2204, 2206, 2210, 2214, 2215, 2217, 2218, 2224, 2226, 2229, 2229a of this title and [section 290a of Title 42][/us/usc/t42/s290a], The Public Health and Welfare\] may be cited as the ‘Fire Grants Reauthorization Act of 2012’.”
 
-[Pub. L. 112–239, div. A, title XVIII, § 1811][/us/pl/112/239/s1811], Jan. 2, 2013, [126 Stat. 2117][/us/stat/126/2117], provided that: 
+[Pub. L. 112–239, div. A, title XVIII][/us/pl/112/239/dA/tXVIII], § 1811, Jan. 2, 2013, [126 Stat. 2117][/us/stat/126/2117], provided that: 
 
 > “This subtitle \[subtitle B (§§ 1811–1815) of title XVIII of div. A of [Pub. L. 112–239][/us/pl/112/239], amending sections 2204, 2205, 2208, 2216 of this title\] may be cited as the ‘United States Fire Administration Reauthorization Act of 2012’.”
 
  __Short Title of 2008 Amendment__ 
 
-[Pub. L. 110–376, § 1][/us/pl/110/376/s1], Oct. 8, 2008, [122 Stat. 4056][/us/stat/122/4056], provided that: 
+[Pub. L. 110–376][/us/pl/110/376], § 1, Oct. 8, 2008, [122 Stat. 4056][/us/stat/122/4056], provided that: 
 
 > “This subtitle \[probably should be “This Act”, enacting [section 2234 of this title][/us/usc/t15/s2234], amending sections 2203, 2206 to 2208, 2216, and 2218 of this title and [section 321d of Title 6][/us/usc/t6/s321d], Domestic Security, and enacting provisions set out as a note under this section\] may be cited as the ‘United States Fire Administration Reauthorization Act of 2008’.”
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–375, div. C, title XXXVI, § 3601][/us/pl/108/375/s3601], Oct. 28, 2004, [118 Stat. 2195][/us/stat/118/2195], provided that: 
+[Pub. L. 108–375, div. C, title XXXVI][/us/pl/108/375/dC/tXXXVI], § 3601, Oct. 28, 2004, [118 Stat. 2195][/us/stat/118/2195], provided that: 
 
 > “This title \[amending [section 2229 of this title][/us/usc/t15/s2229]\] may be cited as the ‘Assistance to Firefighters Grant Program Reauthorization Act of 2004’.”
 
  __Short Title of 2003 Amendment__ 
 
-[Pub. L. 108–169, title I, § 101][/us/pl/108/169/s101], Dec. 6, 2003, [117 Stat. 2036][/us/stat/117/2036], provided that: 
+[Pub. L. 108–169, title I][/us/pl/108/169/tI], § 101, Dec. 6, 2003, [117 Stat. 2036][/us/stat/117/2036], provided that: 
 
 > “This title \[amending [section 2216 of this title][/us/usc/t15/s2216] and enacting provisions set out as a note under [section 2204 of this title][/us/usc/t15/s2204]\] may be cited as the ‘United States Fire Administration Reauthorization Act of 2003’.”
 
-[Pub. L. 108–169, title II, § 201][/us/pl/108/169/s201], Dec. 6, 2003, [117 Stat. 2036][/us/stat/117/2036], provided that: 
+[Pub. L. 108–169, title II][/us/pl/108/169/tII], § 201, Dec. 6, 2003, [117 Stat. 2036][/us/stat/117/2036], provided that: 
 
 > “This title \[amending sections 2206, 2207, 2209, and 2229 of this title and sections 151303, 151304, and 151307 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and enacting provisions set out as notes under [section 2206 of this title][/us/usc/t15/s2206]\] may be cited as the ‘Firefighting Research and Coordination Act’.”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–503, title I, § 101][/us/pl/106/503/s101], Nov. 13, 2000, [114 Stat. 2298][/us/stat/114/2298], provided that: 
+[Pub. L. 106–503, title I][/us/pl/106/503/tI], § 101, Nov. 13, 2000, [114 Stat. 2298][/us/stat/114/2298], provided that: 
 
 > “This title \[enacting sections 2230 and 2231 of this title, amending sections 1511, 2203, 2204, 2206, 2209, 2210, 2214 to 2218 and 2220 of this title, sections 151302 to 151304 and 151307 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and [section 290a of Title 42][/us/usc/t42/s290a], The Public Health and Welfare, and repealing sections 2222 and 2223 of this title\] may be cited as the ‘Fire Administration Authorization Act of 2000’.”
 
  __Short Title of 1997 Amendment__ 
 
-[Pub. L. 105–108, § 1][/us/pl/105/108/s1], Nov. 20, 1997, [111 Stat. 2264][/us/stat/111/2264], provided that: 
+[Pub. L. 105–108][/us/pl/105/108], § 1, Nov. 20, 1997, [111 Stat. 2264][/us/stat/111/2264], provided that: 
 
 > “This Act \[amending sections 2216, 2225, and 2227 of this title and enacting provisions set out as notes under sections 2204 and 2218 of this title\] may be cited as the ‘United States Fire Administration Authorization Act for Fiscal Years 1998 and 1999’.”
 
  __Short Title of 1994 Amendment__ 
 
-[Pub. L. 103–254, § 1][/us/pl/103/254/s1], May 19, 1994, [108 Stat. 679][/us/stat/108/679], provided that: 
+[Pub. L. 103–254][/us/pl/103/254], § 1, May 19, 1994, [108 Stat. 679][/us/stat/108/679], provided that: 
 
 > “This Act \[enacting sections 2221 and 2228 of this title, amending sections 2216, 2220, and 2227 of this title, and enacting provisions set out as notes under this section and [section 2216 of this title][/us/usc/t15/s2216]\] may be cited as the ‘Arson Prevention Act of 1994’.”
 
  __Short Title of 1990 Amendment__ 
 
-[Pub. L. 101–391, § 1][/us/pl/101/391/s1], Sept. 25, 1990, [104 Stat. 747][/us/stat/104/747], provided that: 
+[Pub. L. 101–391][/us/pl/101/391], § 1, Sept. 25, 1990, [104 Stat. 747][/us/stat/104/747], provided that: 
 
 > “This Act \[enacting sections 2224, 2225, 2225a and 2226 of this title and [section 5707a of Title 5][/us/usc/t5/s5707a], Government Organization and Employees, amending [section 2203 of this title][/us/usc/t15/s2203] and sections 5701 and 5707 of Title 5, and enacting provisions set out as notes under this section and sections 5707 and 5707a of Title 5\] may be cited as the ‘Hotel and Motel Fire Safety Act of 1990’.”
 
  __Short Title__ 
 
-[Pub. L. 93–498, § 1][/us/pl/93/498/s1], Oct. 29, 1974, [88 Stat. 1535][/us/stat/88/1535], provided: 
+[Pub. L. 93–498][/us/pl/93/498], § 1, Oct. 29, 1974, [88 Stat. 1535][/us/stat/88/1535], provided: 
 
 > “That this Act \[enacting this chapter and [section 290a of Title 42][/us/usc/t42/s290a], The Public Health and Welfare, amending sections 278f and 1511 of this title, and repealing [section 278g of this title][/us/usc/t15/s278g]\] may be cited as the ‘Federal Fire Prevention and Control Act of 1974’.”
 
  __Study on Need for Federal Assistance to State and Local Communities To Fund Firefighting and Emergency Response Activities__ 
 
-    [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVII, § 1701(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–363, required the Director of the Federal Emergency Management Agency to conduct a study in conjunction with the National Fire Protection Association related to the activities and needs of the fire services and submit a report on the results of the study to Congress within 18 months of Oct. 30, 2000.
+    [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title XVII, § 1701(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–363, required the Director of the Federal Emergency Management Agency to conduct a study in conjunction with the National Fire Protection Association related to the activities and needs of the fire services and submit a report on the results of the study to Congress within 18 months of Oct. 30, 2000.
 
  __Local Firefighter and Emergency Services Training__ 
 
-[Pub. L. 104–132, title VIII, § 819][/us/pl/104/132/s819], Apr. 24, 1996, [110 Stat. 1316][/us/stat/110/1316], as amended by [Pub. L. 109–295, title VI, § 612(c)][/us/pl/109/295/s612/c], Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410], provided that:
+[Pub. L. 104–132, title VIII][/us/pl/104/132/tVIII], § 819, Apr. 24, 1996, [110 Stat. 1316][/us/stat/110/1316], as amended by [Pub. L. 109–295, title VI][/us/pl/109/295/tVI], § 612(c), Oct. 4, 2006, [120 Stat. 1410][/us/stat/120/1410], provided that:
 
 >     “(a)  __Grant Authorization__  __.—__ 
 
@@ -125,7 +125,7 @@
 
  __Arson Prevention and Control; Congressional Findings__ 
 
-[Pub. L. 103–254, § 2][/us/pl/103/254/s2], May 19, 1994, [108 Stat. 679][/us/stat/108/679], provided that: 
+[Pub. L. 103–254][/us/pl/103/254], § 2, May 19, 1994, [108 Stat. 679][/us/stat/108/679], provided that: 
 
 > “Congress finds that—
 
@@ -147,7 +147,7 @@
 
  __Congressional Findings and Purpose__ 
 
-[Pub. L. 110–376, § 2][/us/pl/110/376/s2], Oct. 8, 2008, [122 Stat. 4056][/us/stat/122/4056], provided that: 
+[Pub. L. 110–376][/us/pl/110/376], § 2, Oct. 8, 2008, [122 Stat. 4056][/us/stat/122/4056], provided that: 
 
 > “Congress makes the following findings:
 
@@ -165,7 +165,7 @@
 
 >     “(7) Because of the essential role of the United States Fire Administration and the fire service community in preparing for and responding to national \[probably should be “natural”\] and man-made disasters, the United States Fire Administration should have a prominent place within the Federal Emergency Management Agency and the Department of Homeland Security.”
 
-[Pub. L. 101–391, § 2][/us/pl/101/391/s2], Sept. 25, 1990, [104 Stat. 747][/us/stat/104/747], provided that:
+[Pub. L. 101–391][/us/pl/101/391], § 2, Sept. 25, 1990, [104 Stat. 747][/us/stat/104/747], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -187,13 +187,13 @@
 
  __Waiver of Federal Liability__ 
 
-[Pub. L. 101–391, § 7][/us/pl/101/391/s7], Sept. 25, 1990, [104 Stat. 752][/us/stat/104/752], provided that: 
+[Pub. L. 101–391][/us/pl/101/391], § 7, Sept. 25, 1990, [104 Stat. 752][/us/stat/104/752], provided that: 
 
 > “In any action for damages resulting from a fire at a place of public accommodation, the Federal Government may not be found liable for the death of or injury to any person or damage to any property because an officer or employee of the Federal Government was negligent in carrying out any requirement under this Act \[see Short Title of 1990 Amendment note above\] or the amendments made by this Act.”
 
  __Effect on Certain Requirements__ 
 
-[Pub. L. 101–391, § 8][/us/pl/101/391/s8], Sept. 25, 1990, [104 Stat. 752][/us/stat/104/752], provided that: 
+[Pub. L. 101–391][/us/pl/101/391], § 8, Sept. 25, 1990, [104 Stat. 752][/us/stat/104/752], provided that: 
 
 > “Nothing in this Act \[see Short Title of 1990 Amendment note above\] shall be construed to encourage model building code organizations, or State or local governments, to reduce requirements for fire resistive walls or other safety features.”
 
@@ -353,65 +353,65 @@ By the authority vested in me as President by the Constitution and laws of the U
 ----------
 
 [/us/pl/90/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F259
-[/us/pl/93/498/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs2
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1535
 [/us/pl/90/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F259
-[/us/pl/90/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F259
+[/us/pl/90/259/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F259%2FtII
 [/us/stat/82/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F36
 [/us/usc/t15/s278f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278f
 [/us/pl/90/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F259
-[/us/pl/112/239/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1801
+[/us/pl/112/239/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVIII
 [/us/stat/126/2099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2099
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t42/s290a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290a
-[/us/pl/112/239/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1811
+[/us/pl/112/239/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVIII
 [/us/stat/126/2117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2117
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/110/376/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs1
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
 [/us/stat/122/4056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4056
 [/us/usc/t15/s2234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2234
 [/us/usc/t6/s321d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs321d
-[/us/pl/108/375/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs3601
+[/us/pl/108/375/dC/tXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2FdC%2FtXXXVI
 [/us/stat/118/2195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2195
 [/us/usc/t15/s2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2229
-[/us/pl/108/169/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2Fs101
+[/us/pl/108/169/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2FtI
 [/us/stat/117/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2036
 [/us/usc/t15/s2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2216
 [/us/usc/t15/s2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2204
-[/us/pl/108/169/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2Fs201
+[/us/pl/108/169/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F169%2FtII
 [/us/stat/117/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2036
 [/us/usc/t15/s2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2206
-[/us/pl/106/503/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs101
+[/us/pl/106/503/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2FtI
 [/us/stat/114/2298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2298
 [/us/usc/t42/s290a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290a
-[/us/pl/105/108/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F108%2Fs1
+[/us/pl/105/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F108
 [/us/stat/111/2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2264
-[/us/pl/103/254/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F254%2Fs1
+[/us/pl/103/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F254
 [/us/stat/108/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F679
 [/us/usc/t15/s2216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2216
-[/us/pl/101/391/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391%2Fs1
+[/us/pl/101/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391
 [/us/stat/104/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F747
 [/us/usc/t5/s5707a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5707a
 [/us/usc/t15/s2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2203
-[/us/pl/93/498/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs1
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1535
 [/us/usc/t42/s290a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs290a
 [/us/usc/t15/s278g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278g
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/104/132/s819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2Fs819
+[/us/pl/104/132/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F132%2FtVIII
 [/us/stat/110/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1316
-[/us/pl/109/295/s612/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2Fs612%2Fc
+[/us/pl/109/295/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295%2FtVI
 [/us/stat/120/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1410
-[/us/pl/103/254/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F254%2Fs2
+[/us/pl/103/254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F254
 [/us/stat/108/679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F679
-[/us/pl/110/376/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs2
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
 [/us/stat/122/4056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4056
-[/us/pl/101/391/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391%2Fs2
+[/us/pl/101/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391
 [/us/stat/104/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F747
-[/us/pl/101/391/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391%2Fs7
+[/us/pl/101/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391
 [/us/stat/104/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F752
-[/us/pl/101/391/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391%2Fs8
+[/us/pl/101/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F391
 [/us/stat/104/752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F752
 [/us/stat/92/3788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3788
 [/us/usc/t5/s5313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5313

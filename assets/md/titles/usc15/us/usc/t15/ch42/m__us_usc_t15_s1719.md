@@ -17,7 +17,7 @@
 
     The district courts of the United States, the United States courts of any territory, and the United States District Court for the District of Columbia shall have jurisdiction of offenses and violations under this chapter and under the rules and regulations prescribed by the Director pursuant thereto, and concurrent with State courts, of all suits in equity and actions at law brought to enforce any liability or duty created by this chapter. Any such suit or action may be brought to enforce any liability or duty created by this chapter. Any such suit or action may be brought in the district wherein the defendant is found or is an inhabitant or transacts business, or in the district where the offer or sale took place, if the defendant participated therein, and process in such cases may be served in any other district of which the defendant is an inhabitant or wherever the defendant may be found. Judgments and decrees so rendered shall be subject to review as provided in sections 1254 and 1291 of title 28. No case arising under this chapter and brought in any State court of competent jurisdiction shall be removed to any court of the United States, except where the United States or any officer or employee of the United States in his official capacity is a party. No costs shall be assessed for or against the Director in any proceeding under this chapter brought by or against him in the Supreme Court or such other courts.
 
-([Pub. L. 90–448, title XIV, § 1420][/us/pl/90/448/s1420], Aug. 1, 1968, [82 Stat. 598][/us/stat/82/598]; [Pub. L. 100–628, title X, § 1089(b)][/us/pl/100/628/s1089/b], Nov. 7, 1988, [102 Stat. 3283][/us/stat/102/3283]; [Pub. L. 111–203, title X, § 1098A(1)][/us/pl/111/203/s1098A/1], July 21, 2010, [124 Stat. 2105][/us/stat/124/2105].)
+([Pub. L. 90–448, title XIV][/us/pl/90/448/tXIV], § 1420, Aug. 1, 1968, [82 Stat. 598][/us/stat/82/598]; [Pub. L. 100–628, title X][/us/pl/100/628/tX], § 1089(b), Nov. 7, 1988, [102 Stat. 3283][/us/stat/102/3283]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1098A(1), July 21, 2010, [124 Stat. 2105][/us/stat/124/2105].)
 
  __Amendments__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/pl/90/448/s1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1420
+[/us/pl/90/448/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXIV
 [/us/stat/82/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F598
-[/us/pl/100/628/s1089/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs1089%2Fb
+[/us/pl/100/628/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtX
 [/us/stat/102/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3283
-[/us/pl/111/203/s1098A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1098A%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2105
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628

@@ -51,11 +51,11 @@
 
         The term “credit” has the meaning given to such term in section 1602(e)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-([Pub. L. 90–321, title IV, § 403][/us/pl/90/321/s403], as added [Pub. L. 104–208, div. A, title II, § 2451][/us/pl/104/208/s2451], Sept. 30, 1996, [110 Stat. 3009–455][/us/stat/110/3009-455].)
+([Pub. L. 90–321, title IV][/us/pl/90/321/tIV], § 403, as added [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2451, Sept. 30, 1996, [110 Stat. 3009–455][/us/stat/110/3009-455].)
 
  __References in Text__ 
 
-    [Section 1602(e) of this title][/us/usc/t15/s1602/e], referred to in par. (4), was redesignated [section 1602(f) of this title][/us/usc/t15/s1602/f] by [Pub. L. 111–203, title X, § 1100A(1)(A)][/us/pl/111/203/s1100A/1/A], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
+    [Section 1602(e) of this title][/us/usc/t15/s1602/e], referred to in par. (4), was redesignated [section 1602(f) of this title][/us/usc/t15/s1602/f] by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(1)(A), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
 
  __Prior Provisions__ 
 
@@ -72,12 +72,12 @@
 [/us/usc/t15/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t12/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752
-[/us/pl/90/321/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs403
-[/us/pl/104/208/s2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2451
+[/us/pl/90/321/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIV
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-455
 [/us/usc/t15/s1602/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fe
 [/us/usc/t15/s1602/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Ff
-[/us/pl/111/203/s1100A/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F1%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/90/321/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs403
 [/us/usc/t15/s1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1679

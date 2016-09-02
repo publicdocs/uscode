@@ -23,11 +23,11 @@
 
         The amount provided by a grant under this section shall not exceed 80 percent of the cost of the program for which the grant is made. In crediting the recipient State, political subdivision, or nonprofit organization for the non-Federal share of the cost of such a program (other than planning and administration), the aggregate of all expenditures made by such State, political subdivision, or nonprofit organization (exclusive of Federal funds) for the purposes described in [section 6002 of this title][/us/usc/t15/s6002] (other than expenditures for planning and administration) shall be available for such crediting, without regard to whether such expenditures were actually made in connection with such program.
 
-([Pub. L. 103–267, title II, § 202][/us/pl/103/267/s202], June 16, 1994, [108 Stat. 726][/us/stat/108/726].)
+([Pub. L. 103–267, title II][/us/pl/103/267/tII], § 202, June 16, 1994, [108 Stat. 726][/us/stat/108/726].)
 
  __Short Title__ 
 
-[Pub. L. 103–267, title II, § 201][/us/pl/103/267/s201], June 16, 1994, [108 Stat. 726][/us/stat/108/726], provided that: 
+[Pub. L. 103–267, title II][/us/pl/103/267/tII], § 201, June 16, 1994, [108 Stat. 726][/us/stat/108/726], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Children’s Bicycle Helmet Safety Act of 1994’.”
 
@@ -40,9 +40,9 @@
 
 [/us/usc/t15/s6002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6002
 [/us/usc/t15/s6002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6002
-[/us/pl/103/267/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2Fs202
+[/us/pl/103/267/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2FtII
 [/us/stat/108/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F726
-[/us/pl/103/267/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2Fs201
+[/us/pl/103/267/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F267%2FtII
 [/us/stat/108/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F726
 
 

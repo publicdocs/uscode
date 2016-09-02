@@ -153,7 +153,7 @@
 
             (C) That credit card and debt education and counseling sessions be offered as a regular part of any orientation program for new students of such institution.
 
-([Pub. L. 90–321, title I, § 140][/us/pl/90/321/s140], as added [Pub. L. 110–315, title X, § 1011(a)][/us/pl/110/315/s1011/a], Aug. 14, 2008, [122 Stat. 3479][/us/stat/122/3479]; amended [Pub. L. 111–24, title III, § 304][/us/pl/111/24/s304], May 22, 2009, [123 Stat. 1749][/us/stat/123/1749]; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 140, as added [Pub. L. 110–315, title X][/us/pl/110/315/tX], § 1011(a), Aug. 14, 2008, [122 Stat. 3479][/us/stat/122/3479]; amended [Pub. L. 111–24, title III][/us/pl/111/24/tIII], § 304, May 22, 2009, [123 Stat. 1749][/us/stat/123/1749]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 
  __References in Text__ 
 
@@ -193,12 +193,12 @@
 [/us/usc/t12/s1752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1752
 [/us/usc/t20/s1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1070
 [/us/usc/t42/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2751
-[/us/pl/90/321/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs140
-[/us/pl/110/315/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs1011%2Fa
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/110/315/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2FtX
 [/us/stat/122/3479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3479
-[/us/pl/111/24/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs304
+[/us/pl/111/24/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtIII
 [/us/stat/123/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1749
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219

@@ -55,7 +55,7 @@
 
         The Bureau is authorized to enter into contracts or other arrangements with appropriate persons, organizations, or State agencies to carry out its functions under subsections (a) and (b) and to furnish financial assistance in support thereof.
 
-([Pub. L. 90–321, title I, § 136][/us/pl/90/321/s136], as added [Pub. L. 96–221, title VI, § 618(a)][/us/pl/96/221/s618/a], Mar. 31, 1980, [94 Stat. 183][/us/stat/94/183]; amended [Pub. L. 100–583, § 5][/us/pl/100/583/s5], Nov. 3, 1988, [102 Stat. 2967][/us/stat/102/2967]; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 136, as added [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 618(a), Mar. 31, 1980, [94 Stat. 183][/us/stat/94/183]; amended [Pub. L. 100–583][/us/pl/100/583], § 5, Nov. 3, 1988, [102 Stat. 2967][/us/stat/102/2967]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 
  __Amendments__ 
 
@@ -79,12 +79,12 @@
 ----------
 
 [/us/usc/t15/s1637/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637%2Fc
-[/us/pl/90/321/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs136
-[/us/pl/96/221/s618/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs618%2Fa
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F183
-[/us/pl/100/583/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F583%2Fs5
+[/us/pl/100/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F583
 [/us/stat/102/2967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2967
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/100/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F583

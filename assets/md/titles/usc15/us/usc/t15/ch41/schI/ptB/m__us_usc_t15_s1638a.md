@@ -49,7 +49,7 @@
 
         The Board may require the notice in paragraph (b) or other notice consistent with this chapter for adjustable rate mortgage loans that are not hybrid adjustable rate mortgage loans.
 
-([Pub. L. 90–321, title I, § 128A][/us/pl/90/321/s128A], as added [Pub. L. 111–203, title XIV, § 1418(a)][/us/pl/111/203/s1418/a], July 21, 2010, [124 Stat. 2153][/us/stat/124/2153].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 128A, as added [Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1418(a), July 21, 2010, [124 Stat. 2153][/us/stat/124/2153].)
 
  __References in Text__ 
 
@@ -67,8 +67,8 @@
 ----------
 
 [/us/usc/t12/s1441a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1441a%E2%80%931
-[/us/pl/90/321/s128A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs128A
-[/us/pl/111/203/s1418/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1418%2Fa
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2153
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
 [/us/stat/82/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F146

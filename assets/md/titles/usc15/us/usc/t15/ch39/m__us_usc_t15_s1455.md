@@ -31,7 +31,7 @@
 
         No regulation adopted under this chapter shall preclude the continued use of returnable or reusable glass containers for beverages in inventory or with the trade as of the effective date of this Act, nor shall any regulation under this chapter preclude the orderly disposal of packages in inventory or with the trade as of the effective date of such regulation.
 
-([Pub. L. 89–755, § 6][/us/pl/89/755/s6], Nov. 3, 1966, [80 Stat. 1299][/us/stat/80/1299]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 89–755][/us/pl/89/755], § 6, Nov. 3, 1966, [80 Stat. 1299][/us/stat/80/1299]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __References in Text__ 
 
@@ -50,9 +50,9 @@
 
 [/us/usc/t21/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs371
 [/us/usc/t21/s371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs371
-[/us/pl/89/755/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F755%2Fs6
+[/us/pl/89/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F755
 [/us/stat/80/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1299
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/89/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F755
 [/us/usc/t15/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1451

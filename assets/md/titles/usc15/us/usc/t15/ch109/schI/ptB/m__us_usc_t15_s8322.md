@@ -17,7 +17,7 @@
 
     Nothing in the Wall Street Transparency and Accountability Act of 2010 or the amendments to the Commodity Exchange Act \[[7 U.S.C. 1][/us/usc/t7/s1] et seq.\] made by such Act shall limit or affect any statutory enforcement authority of the Federal Energy Regulatory Commission pursuant to [section 824v of title 16][/us/usc/t16/s824v] and [section 717c–1 of this title][/us/usc/t15/s717c–1] that existed prior to July 21, 2010.
 
-([Pub. L. 111–203, title VII, § 722(g)][/us/pl/111/203/s722/g], July 21, 2010, [124 Stat. 1674][/us/stat/124/1674].)
+([Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 722(g), July 21, 2010, [124 Stat. 1674][/us/stat/124/1674].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/usc/t16/s824v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs824v
 [/us/usc/t15/s717c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717c%E2%80%931
-[/us/pl/111/203/s722/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs722%2Fg
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1674
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1641

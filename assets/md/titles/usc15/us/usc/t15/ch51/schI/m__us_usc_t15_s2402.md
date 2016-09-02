@@ -21,7 +21,7 @@
 
     (2) to establish as an independent establishment of the executive branch a National Center for Productivity and Quality of Working Life to focus, coordinate, and promote efforts to improve the rate of productivity growth.
 
-([Pub. L. 94–136, title I, § 102][/us/pl/94/136/s102], Nov. 28, 1975, [89 Stat. 734][/us/stat/89/734].)
+([Pub. L. 94–136, title I][/us/pl/94/136/tI], § 102, Nov. 28, 1975, [89 Stat. 734][/us/stat/89/734].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/94/136/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2Fs102
+[/us/pl/94/136/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2FtI
 [/us/stat/89/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F734
 
 

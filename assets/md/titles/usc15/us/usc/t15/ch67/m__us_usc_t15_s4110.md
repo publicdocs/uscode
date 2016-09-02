@@ -19,7 +19,7 @@
 
     (b) Any new spending authority (within the meaning of [section 651 of title 2][/us/usc/t2/s651]) which is provided under this chapter shall be effective for any fiscal year only to such extent or in such amounts as may be provided in appropriation Acts.
 
-([Pub. L. 98–373, title I, § 111][/us/pl/98/373/s111], July 31, 1984, [98 Stat. 1248][/us/stat/98/1248].)
+([Pub. L. 98–373, title I][/us/pl/98/373/tI], § 111, July 31, 1984, [98 Stat. 1248][/us/stat/98/1248].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t2/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs651
-[/us/pl/98/373/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs111
+[/us/pl/98/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtI
 [/us/stat/98/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1248
 
 

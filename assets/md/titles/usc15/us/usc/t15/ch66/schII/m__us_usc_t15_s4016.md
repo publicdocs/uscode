@@ -31,7 +31,7 @@
 
         (5) The Attorney General may file suit pursuant to [section 25 of this title][/us/usc/t15/s25] to enjoin conduct threatening clear and irreparable harm to the national interest.
 
-([Pub. L. 97–290, title III, § 306][/us/pl/97/290/s306], Oct. 8, 1982, [96 Stat. 1243][/us/stat/96/1243].)
+([Pub. L. 97–290, title III][/us/pl/97/290/tIII], § 306, Oct. 8, 1982, [96 Stat. 1243][/us/stat/96/1243].)
 
  __Effective Date__ 
 
@@ -52,7 +52,7 @@
 [/us/usc/t15/s4013/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4013%2Fa
 [/us/usc/t15/s4013/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4013%2Fa
 [/us/usc/t15/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs25
-[/us/pl/97/290/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs306
+[/us/pl/97/290/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2FtIII
 [/us/stat/96/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1243
 [/us/pl/97/290/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs312
 [/us/usc/t15/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4011

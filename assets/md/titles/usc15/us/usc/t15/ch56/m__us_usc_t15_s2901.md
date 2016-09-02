@@ -29,17 +29,17 @@
 
     (6) The United States lacks a well-defined and coordinated program in climate-related research, monitoring, assessment of effects, and information utilization.
 
-([Pub. L. 95–367, § 2][/us/pl/95/367/s2], Sept. 17, 1978, [92 Stat. 601][/us/stat/92/601].)
+([Pub. L. 95–367][/us/pl/95/367], § 2, Sept. 17, 1978, [92 Stat. 601][/us/stat/92/601].)
 
  __Short Title__ 
 
-[Pub. L. 95–367, § 1][/us/pl/95/367/s1], Sept. 17, 1978, [92 Stat. 601][/us/stat/92/601], provided: 
+[Pub. L. 95–367][/us/pl/95/367], § 1, Sept. 17, 1978, [92 Stat. 601][/us/stat/92/601], provided: 
 
 > “That this Act \[enacting this chapter, amending section 25 of former Title 31, Money and Finance, and enacting provisions set out as a note under section 25 of former Title 31\] may be cited as the ‘National Climate Program Act’.”
 
  __Global Climate Protection__ 
 
-[Pub. L. 100–204, title XI][/us/pl/100/204], Dec. 22, 1987, [101 Stat. 1407][/us/stat/101/1407], as amended by [Pub. L. 103–199, title VI, § 603(1)][/us/pl/103/199/s603/1], Dec. 17, 1993, [107 Stat. 2327][/us/stat/107/2327], provided that:
+[Pub. L. 100–204, title XI][/us/pl/100/204/tXI], Dec. 22, 1987, [101 Stat. 1407][/us/stat/101/1407], as amended by [Pub. L. 103–199, title VI][/us/pl/103/199/tVI], § 603(1), Dec. 17, 1993, [107 Stat. 2327][/us/stat/107/2327], provided that:
 
 > “SEC. 1101. __SHORT TITLE.__ 
 
@@ -120,13 +120,13 @@
 ----------
 ----------
 
-[/us/pl/95/367/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F367%2Fs2
+[/us/pl/95/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F367
 [/us/stat/92/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F601
-[/us/pl/95/367/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F367%2Fs1
+[/us/pl/95/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F367
 [/us/stat/92/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F601
-[/us/pl/100/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204
+[/us/pl/100/204/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F204%2FtXI
 [/us/stat/101/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1407
-[/us/pl/103/199/s603/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs603%2F1
+[/us/pl/103/199/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtVI
 [/us/stat/107/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2327
 
 

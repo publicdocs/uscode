@@ -17,7 +17,7 @@
 
     The directors designated in the articles of incorporation shall, until their successors take office, direct the exercise of all powers of a China Trade Act corporation except such as are conferred upon the stockholders by law or by the articles of incorporation or bylaws of the corporation. Thereafter the directors elected in accordance with the bylaws of the corporation shall direct the exercise of all powers of the corporation except such as are so conferred upon the stockholders. In the exercise of such powers the directors may appoint and remove and fix the compensation of such officers and employees of the corporation as they deem advisable.
 
-([Sept. 19, 1922, ch. 346, § 11][/us/act/1922-09-19/ch346/s11], [42 Stat. 852][/us/stat/42/852].)
+([Sept. 19, 1922, ch. 346][/us/act/1922-09-19/ch346], § 11, [42 Stat. 852][/us/stat/42/852].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1922-09-19/ch346/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346%2Fs11
+[/us/act/1922-09-19/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346
 [/us/stat/42/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F852
 
 

@@ -87,13 +87,13 @@
 
         shall be exempt from sections 80a–1 through 80a–52 of this title, except to the extent provided in sections 80a–58 through 80a–64 of this title.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 6, [54 Stat. 800][/us/stat/54/800]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352]; [Pub. L. 86–70, § 12(e)][/us/pl/86/70/s12/e], June 25, 1959, [73 Stat. 143][/us/stat/73/143]; [Pub. L. 86–624, § 7(c)][/us/pl/86/624/s7/c], July 12, 1960, [74 Stat. 412][/us/stat/74/412]; [Pub. L. 95–598, title III, § 310(b)][/us/pl/95/598/s310/b], Nov. 6, 1978, [92 Stat. 2676][/us/stat/92/2676]; [Pub. L. 96–477, title I, § 103][/us/pl/96/477/s103], Oct. 21, 1980, [94 Stat. 2277][/us/stat/94/2277]; [Pub. L. 100–181, title VI, § 608][/us/pl/100/181/s608], Dec. 4, 1987, [101 Stat. 1261][/us/stat/101/1261]; [Pub. L. 104–290, title V][/us/pl/104/290], §§ 501, 502, Oct. 11, 1996, [110 Stat. 3444][/us/stat/110/3444], 3445; [Pub. L. 111–203, title IX, § 939(c)][/us/pl/111/203/s939/c], July 21, 2010, [124 Stat. 1886][/us/stat/124/1886].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 6, [54 Stat. 800][/us/stat/54/800]; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, [60 Stat. 1352][/us/stat/60/1352]; [Pub. L. 86–70][/us/pl/86/70], § 12(e), June 25, 1959, [73 Stat. 143][/us/stat/73/143]; [Pub. L. 86–624][/us/pl/86/624], § 7(c), July 12, 1960, [74 Stat. 412][/us/stat/74/412]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 310(b), Nov. 6, 1978, [92 Stat. 2676][/us/stat/92/2676]; [Pub. L. 96–477, title I][/us/pl/96/477/tI], § 103, Oct. 21, 1980, [94 Stat. 2277][/us/stat/94/2277]; [Pub. L. 100–181, title VI][/us/pl/100/181/tVI], § 608, Dec. 4, 1987, [101 Stat. 1261][/us/stat/101/1261]; [Pub. L. 104–290, title V][/us/pl/104/290/tV], §§ 501, 502, Oct. 11, 1996, [110 Stat. 3444][/us/stat/110/3444], 3445; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 939(c), July 21, 2010, [124 Stat. 1886][/us/stat/124/1886].)
 
  __References in Text__ 
 
     For the effective date of this subchapter, referred to in subsec. (a)(2), see [section 80a–52 of this title][/us/usc/t15/s80a–52].
 
-    [Section 1724 of title 12][/us/usc/t12/s1724], referred to in subsec. (a)(3), was repealed by [Pub. L. 101–73, title IV, § 407][/us/pl/101/73/s407], Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363].
+    [Section 1724 of title 12][/us/usc/t12/s1724], referred to in subsec. (a)(3), was repealed by [Pub. L. 101–73, title IV][/us/pl/101/73/tIV], § 407, Aug. 9, 1989, [103 Stat. 363][/us/stat/103/363].
 
  __Codification__ 
 
@@ -103,13 +103,13 @@
 
     2010—Subsec. (a)(5)(A)(iv)(I). [Pub. L. 111–203][/us/pl/111/203] substituted “meets such standards of credit-worthiness as the Commission shall adopt” for “is rated investment grade by not less than 1 nationally recognized statistical rating organization”.
 
-    1996—Subsec. (a)(5). [Pub. L. 104–290, § 501][/us/pl/104/290/s501], added par. (5).
+    1996—Subsec. (a)(5). [Pub. L. 104–290][/us/pl/104/290], § 501, added par. (5).
 
-    Subsec. (d)(1). [Pub. L. 104–290, § 502][/us/pl/104/290/s502], substituted “$10,000,000, or such other amount as the Commission may set by rule, regulation, or order” for “$100,000”.
+    Subsec. (d)(1). [Pub. L. 104–290][/us/pl/104/290], § 502, substituted “$10,000,000, or such other amount as the Commission may set by rule, regulation, or order” for “$100,000”.
 
-    1987—Subsec. (a)(1). [Pub. L. 100–181, § 608(1)][/us/pl/100/181/s608/1], struck out reference to Canal Zone.
+    1987—Subsec. (a)(1). [Pub. L. 100–181][/us/pl/100/181], § 608(1), struck out reference to Canal Zone.
 
-    Subsec. (a)(2) to (5). [Pub. L. 100–181, § 608(2)][/us/pl/100/181/s608/2], redesignated former pars. (3) to (5) as (2) to (4), and struck out former par. (2) which read as follows: “Any company for which, in a proceeding in any court of the United States or of a State, a receiver, trustee in a case under title 11, or similar officer had been appointed or elected prior to the effective date of this subchapter, and every such officer so appointed or elected prior to the effective date of this subchapter; but such exemption shall continue only so long as (A) the conduct of such company’s business remains subject to the supervision of such court or officer thereof, and (B) such company does not sell exclusively for cash any security of which it is the issuer, except short-term paper and ordinary receiver’s or trustee’s certificates.”
+    Subsec. (a)(2) to (5). [Pub. L. 100–181][/us/pl/100/181], § 608(2), redesignated former pars. (3) to (5) as (2) to (4), and struck out former par. (2) which read as follows: “Any company for which, in a proceeding in any court of the United States or of a State, a receiver, trustee in a case under title 11, or similar officer had been appointed or elected prior to the effective date of this subchapter, and every such officer so appointed or elected prior to the effective date of this subchapter; but such exemption shall continue only so long as (A) the conduct of such company’s business remains subject to the supervision of such court or officer thereof, and (B) such company does not sell exclusively for cash any security of which it is the issuer, except short-term paper and ordinary receiver’s or trustee’s certificates.”
 
     1980—Subsec. (f). [Pub. L. 96–477][/us/pl/96/477] added subsec. (f).
 
@@ -155,30 +155,30 @@
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F800
 [/us/stat/60/1352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1352
-[/us/pl/86/70/s12/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs12%2Fe
+[/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/stat/73/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F143
-[/us/pl/86/624/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs7%2Fc
+[/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624
 [/us/stat/74/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F412
-[/us/pl/95/598/s310/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs310%2Fb
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2676
-[/us/pl/96/477/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2Fs103
+[/us/pl/96/477/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2FtI
 [/us/stat/94/2277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2277
-[/us/pl/100/181/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs608
+[/us/pl/100/181/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVI
 [/us/stat/101/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1261
-[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtV
 [/us/stat/110/3444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3444
-[/us/pl/111/203/s939/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs939%2Fc
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1886
 [/us/usc/t15/s80a–52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9352
 [/us/usc/t12/s1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1724
-[/us/pl/101/73/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs407
+[/us/pl/101/73/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIV
 [/us/stat/103/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F363
 [/us/usc/t22/s1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs1394
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/104/290/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs501
-[/us/pl/104/290/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs502
-[/us/pl/100/181/s608/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs608%2F1
-[/us/pl/100/181/s608/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs608%2F2
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/96/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/86/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624

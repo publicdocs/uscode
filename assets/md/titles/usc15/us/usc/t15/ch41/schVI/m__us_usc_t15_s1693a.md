@@ -55,23 +55,23 @@
 
     (12) the term “unauthorized electronic fund transfer” means an electronic fund transfer from a consumer’s account initiated by a person other than the consumer without actual authority to initiate such transfer and from which the consumer receives no benefit, but the term does not include any electronic fund transfer (A) initiated by a person other than the consumer who was furnished with the card, code, or other means of access to such consumer’s account by such consumer, unless the consumer has notified the financial institution involved that transfers by such other person are no longer authorized, (B) initiated with fraudulent intent by the consumer or any person acting in concert with the consumer, or (C) which constitutes an error committed by a financial institution.
 
-([Pub. L. 90–321, title IX, § 903][/us/pl/90/321/s903], as added [Pub. L. 95–630, title XX, § 2001][/us/pl/95/630/s2001], Nov. 10, 1978, [92 Stat. 3728][/us/stat/92/3728]; amended [Pub. L. 111–203, title X, § 1084(1)][/us/pl/111/203/s1084/1], (2), July 21, 2010, [124 Stat. 2081][/us/stat/124/2081].)
+([Pub. L. 90–321, title IX][/us/pl/90/321/tIX], § 903, as added [Pub. L. 95–630, title XX][/us/pl/95/630/tXX], § 2001, Nov. 10, 1978, [92 Stat. 3728][/us/stat/92/3728]; amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1084(1), (2), July 21, 2010, [124 Stat. 2081][/us/stat/124/2081].)
 
  __References in Text__ 
 
-    [Section 1602(i) of this title][/us/usc/t15/s1602/i], referred to in par. (2), was redesignated [section 1602(j) of this title][/us/usc/t15/s1602/j] by [Pub. L. 111–203, title X, § 1100A(1)(A)][/us/pl/111/203/s1100A/1/A], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
+    [Section 1602(i) of this title][/us/usc/t15/s1602/i], referred to in par. (2), was redesignated [section 1602(j) of this title][/us/usc/t15/s1602/j] by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(1)(A), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 1084(1)][/us/pl/111/203/s1084/1], which directed the substitution of “Bureau” for “Board” wherever appearing, was executed by making the substitution in pars. (2) and (6) but not in par. (3), to reflect the probable intent of Congress.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1084(1), which directed the substitution of “Bureau” for “Board” wherever appearing, was executed by making the substitution in pars. (2) and (6) but not in par. (3), to reflect the probable intent of Congress.
 
-    Par. (3). [Pub. L. 111–203, § 1084(2)(A)][/us/pl/111/203/s1084/2/A], redesignated par. (3) as (4) defining the term “Board”.
+    Par. (3). [Pub. L. 111–203][/us/pl/111/203], § 1084(2)(A), redesignated par. (3) as (4) defining the term “Board”.
 
-    Par. (4). [Pub. L. 111–203, § 1084(2)(B)][/us/pl/111/203/s1084/2/B], which directed addition of par. (4) defining the term “Bureau” after par. (3), was executed by making the addition after par. (4) defining the term “Board”, to reflect the probable intent of Congress.
+    Par. (4). [Pub. L. 111–203][/us/pl/111/203], § 1084(2)(B), which directed addition of par. (4) defining the term “Bureau” after par. (3), was executed by making the addition after par. (4) defining the term “Board”, to reflect the probable intent of Congress.
 
-    [Pub. L. 111–203, § 1084(2)(A)][/us/pl/111/203/s1084/2/A], redesignated par. (3) as (4) defining the term “Board”. Former par. (4) redesignated (5).
+    [Pub. L. 111–203][/us/pl/111/203], § 1084(2)(A), redesignated par. (3) as (4) defining the term “Board”. Former par. (4) redesignated (5).
 
-    Pars. (5) to (12). [Pub. L. 111–203, § 1084(2)(A)][/us/pl/111/203/s1084/2/A], redesignated pars. (4) to (11) as (5) to (12), respectively.
+    Pars. (5) to (12). [Pub. L. 111–203][/us/pl/111/203], § 1084(2)(A), redesignated pars. (4) to (11) as (5) to (12), respectively.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -84,20 +84,20 @@
 ----------
 ----------
 
-[/us/pl/90/321/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs903
-[/us/pl/95/630/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs2001
+[/us/pl/90/321/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIX
+[/us/pl/95/630/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXX
 [/us/stat/92/3728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3728
-[/us/pl/111/203/s1084/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F1
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2081
 [/us/usc/t15/s1602/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fi
 [/us/usc/t15/s1602/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fj
-[/us/pl/111/203/s1100A/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F1%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
-[/us/pl/111/203/s1084/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F1
-[/us/pl/111/203/s1084/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F2%2FA
-[/us/pl/111/203/s1084/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F2%2FB
-[/us/pl/111/203/s1084/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F2%2FA
-[/us/pl/111/203/s1084/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1084%2F2%2FA
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

@@ -21,7 +21,7 @@
 
     (b) An annual technical services program which shall (1) identify specific methods, which may include contracts, for accomplishing particular goals and outline the likely impact of these methods in terms of the five-year plan; (2) contain a detailed budget, together with procedures for adequate fiscal control, fund accounting, and auditing, to assure proper disbursement for funds paid to the State under this chapter; and (3) indicate the specific responsibilities assigned to each participating institution in the State.
 
-([Pub. L. 89–182, § 4][/us/pl/89/182/s4], Sept. 14, 1965, [79 Stat. 680][/us/stat/79/680].)
+([Pub. L. 89–182][/us/pl/89/182], § 4, Sept. 14, 1965, [79 Stat. 680][/us/stat/79/680].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/89/182/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182%2Fs4
+[/us/pl/89/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182
 [/us/stat/79/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F680
 
 

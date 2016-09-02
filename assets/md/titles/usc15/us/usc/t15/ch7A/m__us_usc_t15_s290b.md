@@ -17,7 +17,7 @@
 
     The Secretary is authorized and directed to provide or arrange for the collection, compilation, critical evaluation, publication, and dissemination of standard reference data. In carrying out this program, the Secretary shall, to the maximum extent practicable, utilize the reference data services and facilities of other agencies and instrumentalities of the Federal Government and of State and local governments, persons, firms, institutions, and associations, with their consent and in such a manner as to avoid duplication of those services and facilities. All agencies and instrumentalities of the Federal Government are encouraged to exercise their duties and functions in such manner as will assist in carrying out the purpose of this chapter. This section shall be deemed complementary to existing authority, and nothing herein is intended to repeal, supersede, or diminish existing authority or responsibility of any agency or instrumentality of the Federal Government.
 
-([Pub. L. 90–396, § 3][/us/pl/90/396/s3], July 11, 1968, [82 Stat. 340][/us/stat/82/340].)
+([Pub. L. 90–396][/us/pl/90/396], § 3, July 11, 1968, [82 Stat. 340][/us/stat/82/340].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/396/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F396%2Fs3
+[/us/pl/90/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F396
 [/us/stat/82/340]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F340
 
 

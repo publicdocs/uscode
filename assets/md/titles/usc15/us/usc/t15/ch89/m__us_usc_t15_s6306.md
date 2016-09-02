@@ -53,13 +53,13 @@
 
         (2) if the boxer appeals to the Association of Boxing Commissions, and the Association of Boxing Commissions determines that the suspension of such boxer was without sufficient grounds, for an improper purpose, or not related to the health and safety of the boxer or the purposes of this chapter.
 
-([Pub. L. 104–272, § 7][/us/pl/104/272/s7], Oct. 9, 1996, [110 Stat. 3311][/us/stat/110/3311]; [Pub. L. 106–210, § 7(b)][/us/pl/106/210/s7/b], (d), May 26, 2000, [114 Stat. 328][/us/stat/114/328].)
+([Pub. L. 104–272][/us/pl/104/272], § 7, Oct. 9, 1996, [110 Stat. 3311][/us/stat/110/3311]; [Pub. L. 106–210][/us/pl/106/210], § 7(b), (d), May 26, 2000, [114 Stat. 328][/us/stat/114/328].)
 
  __Amendments__ 
 
-    2000—Subsec. (a)(2)(E). [Pub. L. 106–210, § 7(b)][/us/pl/106/210/s7/b], added subpar. (E).
+    2000—Subsec. (a)(2)(E). [Pub. L. 106–210][/us/pl/106/210], § 7(b), added subpar. (E).
 
-    Subsec. (a)(3). [Pub. L. 106–210, § 7(d)][/us/pl/106/210/s7/d], substituted “boxer, licensee, manager, matchmaker, promoter, or other boxing service provider” for “boxer” the first place appearing.
+    Subsec. (a)(3). [Pub. L. 106–210][/us/pl/106/210], § 7(d), substituted “boxer, licensee, manager, matchmaker, promoter, or other boxing service provider” for “boxer” the first place appearing.
 
 ----------
 
@@ -68,11 +68,11 @@
 ----------
 ----------
 
-[/us/pl/104/272/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs7
+[/us/pl/104/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272
 [/us/stat/110/3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3311
-[/us/pl/106/210/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs7%2Fb
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 [/us/stat/114/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F328
-[/us/pl/106/210/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs7%2Fb
-[/us/pl/106/210/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs7%2Fd
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 
 

@@ -29,7 +29,7 @@
 
     (6) promoting recycling and source reduction of pollutants in order to reduce the volume of waste which must be disposed of, thus decreasing energy use and greenhouse gas emissions.
 
-([Pub. L. 101–606, title II, § 204][/us/pl/101/606/s204], Nov. 16, 1990, [104 Stat. 3103][/us/stat/104/3103].)
+([Pub. L. 101–606, title II][/us/pl/101/606/tII], § 204, Nov. 16, 1990, [104 Stat. 3103][/us/stat/104/3103].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/101/606/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2Fs204
+[/us/pl/101/606/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2FtII
 [/us/stat/104/3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3103
 
 

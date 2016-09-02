@@ -91,25 +91,25 @@
 
             For purposes of this subsection, the term “person participating in an offering of penny stock” includes any person engaging in activities with a broker, dealer, or issuer for purposes of issuing, trading, or inducing or attempting to induce the purchase or sale of, any penny stock. The Commission may, by rule or regulation, define such term to include other activities, and may, by rule, regulation, or order, exempt any person or class of persons, in whole or in part, conditionally or unconditionally, from inclusion in such term.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 20, [48 Stat. 86][/us/stat/48/86]; [Pub. L. 100–181, title II, § 208][/us/pl/100/181/s208], Dec. 4, 1987, [101 Stat. 1253][/us/stat/101/1253]; [Pub. L. 101–429, title I, § 101][/us/pl/101/429/s101], Oct. 15, 1990, [104 Stat. 932][/us/stat/104/932]; [Pub. L. 104–67, title I, § 103(b)(1)][/us/pl/104/67/s103/b/1], Dec. 22, 1995, [109 Stat. 756][/us/stat/109/756]; [Pub. L. 107–204, title III][/us/pl/107/204], §§ 305(a)(2), 308(d)(3), title VI, § 603(b), July 30, 2002, [116 Stat. 779][/us/stat/116/779], 785, 795; [Pub. L. 111–203, title IX, § 923(a)(1)][/us/pl/111/203/s923/a/1], July 21, 2010, [124 Stat. 1849][/us/stat/124/1849].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 20, [48 Stat. 86][/us/stat/48/86]; [Pub. L. 100–181, title II][/us/pl/100/181/tII], § 208, Dec. 4, 1987, [101 Stat. 1253][/us/stat/101/1253]; [Pub. L. 101–429, title I][/us/pl/101/429/tI], § 101, Oct. 15, 1990, [104 Stat. 932][/us/stat/104/932]; [Pub. L. 104–67, title I][/us/pl/104/67/tI], § 103(b)(1), Dec. 22, 1995, [109 Stat. 756][/us/stat/109/756]; [Pub. L. 107–204, title III][/us/pl/107/204/tIII], §§ 305(a)(2), 308(d)(3), title VI, § 603(b), July 30, 2002, [116 Stat. 779][/us/stat/116/779], 785, 795; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 923(a)(1), July 21, 2010, [124 Stat. 1849][/us/stat/124/1849].)
 
  __Amendments__ 
 
     2010—Subsec. (d)(3)(A). [Pub. L. 111–203][/us/pl/111/203] inserted “and [section 78u–6 of this title][/us/usc/t15/s78u–6]” after “[section 7246 of this title][/us/usc/t15/s7246]”.
 
-    2002—Subsec. (d)(3)(A). [Pub. L. 107–204, § 308(d)(3)][/us/pl/107/204/s308/d/3], inserted “, except as otherwise provided in [section 7246 of this title][/us/usc/t15/s7246]” before period at end.
+    2002—Subsec. (d)(3)(A). [Pub. L. 107–204][/us/pl/107/204], § 308(d)(3), inserted “, except as otherwise provided in [section 7246 of this title][/us/usc/t15/s7246]” before period at end.
 
-    Subsec. (e). [Pub. L. 107–204, § 305(a)(2)][/us/pl/107/204/s305/a/2], substituted “unfitness” for “substantial unfitness”.
+    Subsec. (e). [Pub. L. 107–204][/us/pl/107/204], § 305(a)(2), substituted “unfitness” for “substantial unfitness”.
 
-    Subsec. (g). [Pub. L. 107–204, § 603(b)][/us/pl/107/204/s603/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 107–204][/us/pl/107/204], § 603(b), added subsec. (g).
 
     1995—Subsec. (f). [Pub. L. 104–67][/us/pl/104/67] added subsec. (f).
 
     1990—Subsecs. (d), (e). [Pub. L. 101–429][/us/pl/101/429] added subsecs. (d) and (e).
 
-    1987—Subsec. (b). [Pub. L. 100–181, § 208(a)][/us/pl/100/181/s208/a], inserted first sentence and struck out former first sentence containing similar provisions.
+    1987—Subsec. (b). [Pub. L. 100–181][/us/pl/100/181], § 208(a), inserted first sentence and struck out former first sentence containing similar provisions.
 
-    Subsec. (c). [Pub. L. 100–181, § 208(b)][/us/pl/100/181/s208/b], amended subsec. (c) generally.
+    Subsec. (c). [Pub. L. 100–181][/us/pl/100/181], § 208(b), amended subsec. (c) generally.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -147,27 +147,27 @@
 [/us/usc/t15/s77q/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77q%2Fa%2F1
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/stat/48/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F86
-[/us/pl/100/181/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs208
+[/us/pl/100/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtII
 [/us/stat/101/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1253
-[/us/pl/101/429/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2Fs101
+[/us/pl/101/429/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2FtI
 [/us/stat/104/932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F932
-[/us/pl/104/67/s103/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2Fs103%2Fb%2F1
+[/us/pl/104/67/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67%2FtI
 [/us/stat/109/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F756
-[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/107/204/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtIII
 [/us/stat/116/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F779
-[/us/pl/111/203/s923/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs923%2Fa%2F1
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1849
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78u–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78u%E2%80%936
 [/us/usc/t15/s7246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7246
-[/us/pl/107/204/s308/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs308%2Fd%2F3
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/usc/t15/s7246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7246
-[/us/pl/107/204/s305/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs305%2Fa%2F2
-[/us/pl/107/204/s603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs603%2Fb
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/pl/104/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F67
 [/us/pl/101/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429
-[/us/pl/100/181/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs208%2Fa
-[/us/pl/100/181/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs208%2Fb
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

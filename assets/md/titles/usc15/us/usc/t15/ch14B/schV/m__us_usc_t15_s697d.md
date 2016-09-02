@@ -57,17 +57,17 @@
 
         For purposes of this section, the term “qualified State or local development company” has the same meaning as in [section 697(e) of this title][/us/usc/t15/s697/e].
 
-([Pub. L. 85–699, title V, § 507][/us/pl/85/699/s507], as added [Pub. L. 103–403, title II, § 212(a)][/us/pl/103/403/s212/a], Oct. 22, 1994, [108 Stat. 4183][/us/stat/108/4183].)
+([Pub. L. 85–699, title V][/us/pl/85/699/tV], § 507, as added [Pub. L. 103–403, title II][/us/pl/103/403/tII], § 212(a), Oct. 22, 1994, [108 Stat. 4183][/us/stat/108/4183].)
 
  __Regulations__ 
 
-[Pub. L. 103–403, title II, § 212(b)][/us/pl/103/403/s212/b], Oct. 22, 1994, [108 Stat. 4184][/us/stat/108/4184], provided that: 
+[Pub. L. 103–403, title II][/us/pl/103/403/tII], § 212(b), Oct. 22, 1994, [108 Stat. 4184][/us/stat/108/4184], provided that: 
 
 > “Not later than 120 days after the date of enactment of this Act \[Oct. 22, 1994\], the Administration shall promulgate final regulations to carry out this section \[enacting this section and provisions set out below\].”
 
  __Report on Implementation of Program__ 
 
-[Pub. L. 103–403, title II, § 212(c)][/us/pl/103/403/s212/c], Oct. 22, 1994, [108 Stat. 4184][/us/stat/108/4184], provided that: 
+[Pub. L. 103–403, title II][/us/pl/103/403/tII], § 212(c), Oct. 22, 1994, [108 Stat. 4184][/us/stat/108/4184], provided that: 
 
 > “Not later than 1 year after the effective date of regulations promulgated under subsection (b) \[set out above\], and biennially thereafter, the Administration shall report to the Committees on Small Business of the Senate and the House of Representatives \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\] on the implementation of this section \[enacting this section and provisions set out above\]. Such report shall include data on the number of development companies designated as accredited lenders, their debenture guarantee volume, their loss rates, the average processing time on their guarantee applications, and such other information as the Administration deems appropriate.”
 
@@ -79,12 +79,12 @@
 ----------
 
 [/us/usc/t15/s697/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs697%2Fe
-[/us/pl/85/699/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs507
-[/us/pl/103/403/s212/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs212%2Fa
+[/us/pl/85/699/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtV
+[/us/pl/103/403/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtII
 [/us/stat/108/4183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4183
-[/us/pl/103/403/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs212%2Fb
+[/us/pl/103/403/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtII
 [/us/stat/108/4184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4184
-[/us/pl/103/403/s212/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs212%2Fc
+[/us/pl/103/403/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtII
 [/us/stat/108/4184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4184
 
 

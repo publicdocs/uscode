@@ -23,7 +23,7 @@
 
         The subject of the conference shall be employment, with particular attention to structural unemployment and the plight of disadvantaged youth. The conference shall also focus on issues such as implementation of adequate and effective incentives for private sector employers to hire the hard-core unemployed. Special attention shall be given to the creation of jobs through the use of targeted employment tax credits, wage vouchers, and other incentives to private sector businesses.
 
-([Pub. L. 95–523, § 4][/us/pl/95/523/s4], Oct. 27, 1978, [92 Stat. 1889][/us/stat/92/1889].)
+([Pub. L. 95–523][/us/pl/95/523], § 4, Oct. 27, 1978, [92 Stat. 1889][/us/stat/92/1889].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/95/523/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs4
+[/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
 [/us/stat/92/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1889
 
 

@@ -19,7 +19,7 @@
 
     (b) Nothing contained in this chapter shall render the said Sherman Act inapplicable to any agreement to boycott, coerce, or intimidate, or act of boycott, coercion, or intimidation.
 
-([Mar. 9, 1945, ch. 20, § 3][/us/act/1945-03-09/ch20/s3], [59 Stat. 34][/us/stat/59/34]; [July 25, 1947, ch. 326][/us/act/1947-07-25/ch326], [61 Stat. 448][/us/stat/61/448].)
+([Mar. 9, 1945, ch. 20][/us/act/1945-03-09/ch20], § 3, [59 Stat. 34][/us/stat/59/34]; [July 25, 1947, ch. 326][/us/act/1947-07-25/ch326], [61 Stat. 448][/us/stat/61/448].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/act/1945-03-09/ch20/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-03-09%2Fch20%2Fs3
+[/us/act/1945-03-09/ch20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-03-09%2Fch20
 [/us/stat/59/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F34
 [/us/act/1947-07-25/ch326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch326
 [/us/stat/61/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F448

@@ -27,7 +27,7 @@
 
         If a lease has a residual value provision at the termination of the lease, the lessee may obtain at his expense, a professional appraisal of the leased property by an independent third party agreed to by both parties. Such appraisal shall be final and binding on the parties.
 
-([Pub. L. 90–321, title I, § 183][/us/pl/90/321/s183], as added [Pub. L. 94–240, § 3][/us/pl/94/240/s3], Mar. 23, 1976, [90 Stat. 259][/us/stat/90/259].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 183, as added [Pub. L. 94–240][/us/pl/94/240], § 3, Mar. 23, 1976, [90 Stat. 259][/us/stat/90/259].)
 
 ----------
 
@@ -36,8 +36,8 @@
 ----------
 ----------
 
-[/us/pl/90/321/s183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs183
-[/us/pl/94/240/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240%2Fs3
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/94/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240
 [/us/stat/90/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F259
 
 

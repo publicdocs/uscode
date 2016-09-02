@@ -103,7 +103,7 @@
 
         shall not be required to provide an annual disclosure under this section until such time as the financial institution fails to comply with any criteria described in paragraph (1) or (2).
 
-([Pub. L. 106–102, title V, § 503][/us/pl/106/102/s503], Nov. 12, 1999, [113 Stat. 1439][/us/stat/113/1439]; [Pub. L. 109–351, title VI, § 609][/us/pl/109/351/s609], title VII, § 728, Oct. 13, 2006, [120 Stat. 1983][/us/stat/120/1983], 2003; [Pub. L. 114–94, div. G, title LXXV, § 75001][/us/pl/114/94/s75001], Dec. 4, 2015, [129 Stat. 1787][/us/stat/129/1787].)
+([Pub. L. 106–102, title V][/us/pl/106/102/tV], § 503, Nov. 12, 1999, [113 Stat. 1439][/us/stat/113/1439]; [Pub. L. 109–351, title VI][/us/pl/109/351/tVI], § 609, title VII, § 728, Oct. 13, 2006, [120 Stat. 1983][/us/stat/120/1983], 2003; [Pub. L. 114–94, div. G, title LXXV][/us/pl/114/94/dG/tLXXV], § 75001, Dec. 4, 2015, [129 Stat. 1787][/us/stat/129/1787].)
 
  __Amendments__ 
 
@@ -132,11 +132,11 @@
 [/us/usc/t15/s6804/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6804%2Fa%2F1
 [/us/usc/t15/s6802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6802
 [/us/usc/t15/s6804/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6804%2Fb
-[/us/pl/106/102/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs503
+[/us/pl/106/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtV
 [/us/stat/113/1439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1439
-[/us/pl/109/351/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs609
+[/us/pl/109/351/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVI
 [/us/stat/120/1983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1983
-[/us/pl/114/94/s75001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs75001
+[/us/pl/114/94/dG/tLXXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXV
 [/us/stat/129/1787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1787
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351

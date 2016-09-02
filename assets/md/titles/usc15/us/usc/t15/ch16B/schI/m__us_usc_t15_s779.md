@@ -55,7 +55,7 @@
 
         (4) promote the promulgation of uniform criteria, procedures, and forms for grant or contract applications for energy proposals submitted by State governments.
 
-([Pub. L. 93–275, § 20][/us/pl/93/275/s20], May 7, 1974, [88 Stat. 111][/us/stat/88/111].)
+([Pub. L. 93–275][/us/pl/93/275], § 20, May 7, 1974, [88 Stat. 111][/us/stat/88/111].)
 
  __Transfer of Functions__ 
 
@@ -68,7 +68,7 @@
 ----------
 ----------
 
-[/us/pl/93/275/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs20
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F111
 
 

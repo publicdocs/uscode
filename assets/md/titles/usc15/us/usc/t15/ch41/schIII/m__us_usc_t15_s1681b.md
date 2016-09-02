@@ -341,17 +341,17 @@
 
             No provision of this subsection shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.
 
-([Pub. L. 90–321, title VI, § 604][/us/pl/90/321/s604], as added [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1129][/us/stat/84/1129]; amended [Pub. L. 101–73, title IX, § 964(c)][/us/pl/101/73/s964/c], Aug. 9, 1989, [103 Stat. 506][/us/stat/103/506]; [Pub. L. 104–193, title III, § 352][/us/pl/104/193/s352], Aug. 22, 1996, [110 Stat. 2240][/us/stat/110/2240]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208], §§ 2403, 2404(a), (b), 2405, Sept. 30, 1996, [110 Stat. 3009–430][/us/stat/110/3009-430], 3009–431, 3009–433, 3009–434; [Pub. L. 105–107, title III, § 311(a)][/us/pl/105/107/s311/a], Nov. 20, 1997, [111 Stat. 2255][/us/stat/111/2255]; [Pub. L. 105–347][/us/pl/105/347], §§ 2, 3, 6(4), Nov. 2, 1998, [112 Stat. 3208][/us/stat/112/3208], 3210, 3211; [Pub. L. 107–306, title VIII, § 811(b)(8)(A)][/us/pl/107/306/s811/b/8/A], Nov. 27, 2002, [116 Stat. 2426][/us/stat/116/2426]; [Pub. L. 108–159, title II, § 213(c)][/us/pl/108/159/s213/c], title IV, §§ 411(a), 412(f), title VIII, § 811(b), Dec. 4, 2003, [117 Stat. 1979][/us/stat/117/1979], 1999, 2003, 2011; [Pub. L. 108–177, title III, § 361(j)][/us/pl/108/177/s361/j], Dec. 13, 2003, [117 Stat. 2625][/us/stat/117/2625]; [Pub. L. 109–351, title VII, § 719][/us/pl/109/351/s719], Oct. 13, 2006, [120 Stat. 1998][/us/stat/120/1998]; [Pub. L. 110–161, div. D, title VII, § 743][/us/pl/110/161/s743], Dec. 26, 2007, [121 Stat. 2033][/us/stat/121/2033]; [Pub. L. 111–24, title III, § 302][/us/pl/111/24/s302], May 22, 2009, [123 Stat. 1748][/us/stat/123/1748]; [Pub. L. 111–203, title X, § 1088(a)(2)(A)][/us/pl/111/203/s1088/a/2/A], (4), July 21, 2010, [124 Stat. 2087][/us/stat/124/2087]; [Pub. L. 114–94, div. G, title LXXX, § 80001][/us/pl/114/94/s80001], Dec. 4, 2015, [129 Stat. 1792][/us/stat/129/1792].)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 604, as added [Pub. L. 91–508, title VI][/us/pl/91/508/tVI], § 601, Oct. 26, 1970, [84 Stat. 1129][/us/stat/84/1129]; amended [Pub. L. 101–73, title IX][/us/pl/101/73/tIX], § 964(c), Aug. 9, 1989, [103 Stat. 506][/us/stat/103/506]; [Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 352, Aug. 22, 1996, [110 Stat. 2240][/us/stat/110/2240]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], §§ 2403, 2404(a), (b), 2405, Sept. 30, 1996, [110 Stat. 3009–430][/us/stat/110/3009-430], 3009–431, 3009–433, 3009–434; [Pub. L. 105–107, title III][/us/pl/105/107/tIII], § 311(a), Nov. 20, 1997, [111 Stat. 2255][/us/stat/111/2255]; [Pub. L. 105–347][/us/pl/105/347], §§ 2, 3, 6(4), Nov. 2, 1998, [112 Stat. 3208][/us/stat/112/3208], 3210, 3211; [Pub. L. 107–306, title VIII][/us/pl/107/306/tVIII], § 811(b)(8)(A), Nov. 27, 2002, [116 Stat. 2426][/us/stat/116/2426]; [Pub. L. 108–159, title II][/us/pl/108/159/tII], § 213(c), title IV, §§ 411(a), 412(f), title VIII, § 811(b), Dec. 4, 2003, [117 Stat. 1979][/us/stat/117/1979], 1999, 2003, 2011; [Pub. L. 108–177, title III][/us/pl/108/177/tIII], § 361(j), Dec. 13, 2003, [117 Stat. 2625][/us/stat/117/2625]; [Pub. L. 109–351, title VII][/us/pl/109/351/tVII], § 719, Oct. 13, 2006, [120 Stat. 1998][/us/stat/120/1998]; [Pub. L. 110–161, div. D, title VII][/us/pl/110/161/dD/tVII], § 743, Dec. 26, 2007, [121 Stat. 2033][/us/stat/121/2033]; [Pub. L. 111–24, title III][/us/pl/111/24/tIII], § 302, May 22, 2009, [123 Stat. 1748][/us/stat/123/1748]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1088(a)(2)(A), (4), July 21, 2010, [124 Stat. 2087][/us/stat/124/2087]; [Pub. L. 114–94, div. G, title LXXX][/us/pl/114/94/dG/tLXXX], § 80001, Dec. 4, 2015, [129 Stat. 1792][/us/stat/129/1792].)
 
  __References in Text__ 
 
-    The Federal Deposit Insurance Act, referred to in subsec. (a)(6), is [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2], [64 Stat. 873][/us/stat/64/873], which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of Title 12][/us/usc/t12/s1811] and Tables.
+    The Federal Deposit Insurance Act, referred to in subsec. (a)(6), is [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2, [64 Stat. 873][/us/stat/64/873], which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of Title 12][/us/usc/t12/s1811] and Tables.
 
     The Federal Credit Union Act, referred to in subsec. (a)(6), is [act June 26, 1934, ch. 750][/us/act/1934-06-26/ch750], [48 Stat. 1216][/us/stat/48/1216], which is classified principally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1751 of Title 12][/us/usc/t12/s1751] and Tables.
 
-    [Section 1681g(c) of this title][/us/usc/t15/s1681g/c], referred to in subsec. (b)(1)(B), (3)(A)(ii), (B)(ii), was amended generally by [Pub. L. 108–159, title II, § 211(c)][/us/pl/108/159/s211/c], Dec. 4, 2003, [117 Stat. 1970][/us/stat/117/1970], and, as so amended, no longer contains a par. (3).
+    [Section 1681g(c) of this title][/us/usc/t15/s1681g/c], referred to in subsec. (b)(1)(B), (3)(A)(ii), (B)(ii), was amended generally by [Pub. L. 108–159, title II][/us/pl/108/159/tII], § 211(c), Dec. 4, 2003, [117 Stat. 1970][/us/stat/117/1970], and, as so amended, no longer contains a par. (3).
 
-    [Section 1681m(a)(3) of this title][/us/usc/t15/s1681m/a/3], referred to in subsec. (b)(2)(B)(i), was redesignated [section 1681m(a)(4) of this title][/us/usc/t15/s1681m/a/4] by [Pub. L. 111–203, title X, § 1100F(1)(A)][/us/pl/111/203/s1100F/1/A], July 21, 2010, [124 Stat. 2112][/us/stat/124/2112].
+    [Section 1681m(a)(3) of this title][/us/usc/t15/s1681m/a/3], referred to in subsec. (b)(2)(B)(i), was redesignated [section 1681m(a)(4) of this title][/us/usc/t15/s1681m/a/4] by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100F(1)(A), July 21, 2010, [124 Stat. 2112][/us/stat/124/2112].
 
     Executive Order No. 12958, referred to in subsec. (b)(4)(D)(i), which was formerly set out under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
@@ -361,17 +361,17 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(4)(A). [Pub. L. 114–94, § 80001(1)][/us/pl/114/94/s80001/1], substituted “, determining the appropriate level of such payments, or enforcing a child support order, award, agreement, or judgment” for “or determining the appropriate level of such payments”.
+    2015—Subsec. (a)(4)(A). [Pub. L. 114–94][/us/pl/114/94], § 80001(1), substituted “, determining the appropriate level of such payments, or enforcing a child support order, award, agreement, or judgment” for “or determining the appropriate level of such payments”.
 
-    Subsec. (a)(4)(B). [Pub. L. 114–94, § 80001(2)(A)][/us/pl/114/94/s80001/2/A], substituted “parentage” for “paternity” and inserted “and” at end.
+    Subsec. (a)(4)(B). [Pub. L. 114–94][/us/pl/114/94], § 80001(2)(A), substituted “parentage” for “paternity” and inserted “and” at end.
 
-    Subsec. (a)(4)(C), (D). [Pub. L. 114–94, § 80001(3)][/us/pl/114/94/s80001/3], (4), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “the person has provided at least 10 days’ prior notice to the consumer whose report is requested, by certified or registered mail to the last known address of the consumer, that the report will be requested; and”.
+    Subsec. (a)(4)(C), (D). [Pub. L. 114–94][/us/pl/114/94], § 80001(3), (4), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “the person has provided at least 10 days’ prior notice to the consumer whose report is requested, by certified or registered mail to the last known address of the consumer, that the report will be requested; and”.
 
-    2010—Subsec. (b)(1)(B), (3)(A)(ii), (B)(ii). [Pub. L. 111–203, § 1088(a)(2)(A)][/us/pl/111/203/s1088/a/2/A], substituted “Bureau” for “Federal Trade Commission”.
+    2010—Subsec. (b)(1)(B), (3)(A)(ii), (B)(ii). [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(2)(A), substituted “Bureau” for “Federal Trade Commission”.
 
-    Subsec. (g)(3)(C). [Pub. L. 111–203, § 1088(a)(4)(A)][/us/pl/111/203/s1088/a/4/A], added subpar. (C) and struck out former subpar. (C) which read as follows: “as otherwise determined to be necessary and appropriate, by regulation or order and subject to paragraph (6), by the Commission, any Federal banking agency or the National Credit Union Administration (with respect to any financial institution subject to the jurisdiction of such agency or Administration under paragraph (1), (2), or (3) of [section 1681s(b) of this title][/us/usc/t15/s1681s/b], or the applicable State insurance authority (with respect to any person engaged in providing insurance or annuities).”
+    Subsec. (g)(3)(C). [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(4)(A), added subpar. (C) and struck out former subpar. (C) which read as follows: “as otherwise determined to be necessary and appropriate, by regulation or order and subject to paragraph (6), by the Commission, any Federal banking agency or the National Credit Union Administration (with respect to any financial institution subject to the jurisdiction of such agency or Administration under paragraph (1), (2), or (3) of [section 1681s(b) of this title][/us/usc/t15/s1681s/b], or the applicable State insurance authority (with respect to any person engaged in providing insurance or annuities).”
 
-    Subsec. (g)(5). [Pub. L. 111–203, § 1088(a)(4)(B)][/us/pl/111/203/s1088/a/4/B], added par. (5) and struck out former par. (5) which related to prescription of par. (2) regulations by each Federal banking agency and the National Credit Union Administration and required issuance of final regulations before the end of the 6-month period beginning on Dec. 4, 2003.
+    Subsec. (g)(5). [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(4)(B), added par. (5) and struck out former par. (5) which related to prescription of par. (2) regulations by each Federal banking agency and the National Credit Union Administration and required issuance of final regulations before the end of the 6-month period beginning on Dec. 4, 2003.
 
     2009—Subsec. (c)(1)(B)(iv). [Pub. L. 111–24][/us/pl/111/24] added cl. (iv).
 
@@ -379,7 +379,7 @@
 
     2006—Subsec. (a)(6). [Pub. L. 109–351][/us/pl/109/351] added par. (6).
 
-    2003—Subsec. (a). [Pub. L. 108–159, § 811(b)][/us/pl/108/159/s811/b], realigned margins.
+    2003—Subsec. (a). [Pub. L. 108–159][/us/pl/108/159], § 811(b), realigned margins.
 
     Subsec. (b)(4)(D) to (F). [Pub. L. 108–177][/us/pl/108/177] struck out subpars. (D) and (E) and redesignated subpar. (F) as (D). Prior to amendment, subpars. (D) and (E) read as follows:
 
@@ -387,45 +387,45 @@
 
     “(E) Reports to congressional intelligence committees.—In the case of a report to be submitted under subparagraph (D) to the congressional intelligence committees (as defined in [section 401a of title 50][/us/usc/t50/s401a]), the submittal date for such report shall be as provided in [section 415b of title 50][/us/usc/t50/s415b].”
 
-    Subsec. (e)(3)(A), (4)(B)(i). [Pub. L. 108–159, § 213(c)][/us/pl/108/159/s213/c], substituted “5-year period” for “2-year period”.
+    Subsec. (e)(3)(A), (4)(B)(i). [Pub. L. 108–159][/us/pl/108/159], § 213(c), substituted “5-year period” for “2-year period”.
 
-    Subsec. (g). [Pub. L. 108–159, § 411(a)][/us/pl/108/159/s411/a], amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information about a consumer, unless the consumer consents to the furnishing of the report.”
+    Subsec. (g). [Pub. L. 108–159][/us/pl/108/159], § 411(a), amended heading and text of subsec. (g) generally. Prior to amendment, text read as follows: “A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information about a consumer, unless the consumer consents to the furnishing of the report.”
 
-    Subsec. (g)(1). [Pub. L. 108–159, § 412(f)(1)][/us/pl/108/159/s412/f/1], inserted “(other than medical contact information treated in the manner required under [section 1681c(a)(6) of this title][/us/usc/t15/s1681c/a/6])” after “a consumer report that contains medical information” in introductory provisions.
+    Subsec. (g)(1). [Pub. L. 108–159][/us/pl/108/159], § 412(f)(1), inserted “(other than medical contact information treated in the manner required under [section 1681c(a)(6) of this title][/us/usc/t15/s1681c/a/6])” after “a consumer report that contains medical information” in introductory provisions.
 
-    Subsec. (g)(2). [Pub. L. 108–159, § 412(f)(2)][/us/pl/108/159/s412/f/2], inserted “(other than medical information treated in the manner required under [section 1681c(a)(6) of this title][/us/usc/t15/s1681c/a/6])” after “a creditor shall not obtain or use medical information”.
+    Subsec. (g)(2). [Pub. L. 108–159][/us/pl/108/159], § 412(f)(2), inserted “(other than medical information treated in the manner required under [section 1681c(a)(6) of this title][/us/usc/t15/s1681c/a/6])” after “a creditor shall not obtain or use medical information”.
 
-    2002—Subsec. (b)(4)(D). [Pub. L. 107–306, § 811(b)(8)(A)(i)][/us/pl/107/306/s811/b/8/A/i], substituted “Except as provided in subparagraph (E), not later than” for “Not later than”.
+    2002—Subsec. (b)(4)(D). [Pub. L. 107–306][/us/pl/107/306], § 811(b)(8)(A)(i), substituted “Except as provided in subparagraph (E), not later than” for “Not later than”.
 
-    Subsec. (b)(4)(E), (F). [Pub. L. 107–306, § 811(b)(8)(A)(ii)][/us/pl/107/306/s811/b/8/A/ii], (iii), added subpar. (E) and redesignated former subpar. (E) as (F).
+    Subsec. (b)(4)(E), (F). [Pub. L. 107–306][/us/pl/107/306], § 811(b)(8)(A)(ii), (iii), added subpar. (E) and redesignated former subpar. (E) as (F).
 
-    1998—Subsec. (b)(1)(B). [Pub. L. 105–347, § 3][/us/pl/105/347/s3], inserted “, or has previously provided,” before “a summary”.
+    1998—Subsec. (b)(1)(B). [Pub. L. 105–347][/us/pl/105/347], § 3, inserted “, or has previously provided,” before “a summary”.
 
-    Subsec. (b)(2). [Pub. L. 105–347, § 2(a)][/us/pl/105/347/s2/a], amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “A person may not procure a consumer report, or cause a consumer report to be procured, for employment purposes with respect to any consumer, unless—
+    Subsec. (b)(2). [Pub. L. 105–347][/us/pl/105/347], § 2(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “A person may not procure a consumer report, or cause a consumer report to be procured, for employment purposes with respect to any consumer, unless—
 
     “(A) a clear and conspicuous disclosure has been made in writing to the consumer at any time before the report is procured or caused to be procured, in a document that consists solely of the disclosure, that a consumer report may be obtained for employment purposes; and
 
     “(B) the consumer has authorized in writing the procurement of the report by that person.”
 
-    Subsec. (b)(3). [Pub. L. 105–347, § 2(b)][/us/pl/105/347/s2/b], amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In using a consumer report for employment purposes, before taking any adverse action based in whole or in part on the report, the person intending to take such adverse action shall provide to the consumer to whom the report relates—
+    Subsec. (b)(3). [Pub. L. 105–347][/us/pl/105/347], § 2(b), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In using a consumer report for employment purposes, before taking any adverse action based in whole or in part on the report, the person intending to take such adverse action shall provide to the consumer to whom the report relates—
 
     “(A) a copy of the report; and
 
     “(B) a description in writing of the rights of the consumer under this subchapter, as prescribed by the Federal Trade Commission under [section 1681g(c)(3) of this title][/us/usc/t15/s1681g/c/3].”
 
-    Subsec. (g). [Pub. L. 105–347, § 6(4)][/us/pl/105/347/s6/4], struck out “or a direct marketing transaction” after “or insurance transaction”.
+    Subsec. (g). [Pub. L. 105–347][/us/pl/105/347], § 6(4), struck out “or a direct marketing transaction” after “or insurance transaction”.
 
     1997—Subsec. (b)(4). [Pub. L. 105–107][/us/pl/105/107] added par. (4).
 
     1996—[Pub. L. 104–208][/us/pl/104/208], §§ 2403(a), 2404(a)(1), designated existing provisions as subsec. (a) and inserted heading, substituted “Subject to subsection (c), any consumer reporting agency” for “A consumer reporting agency” in introductory provisions, added subpars. (E) and (F) of par. (3), and struck out former subpar. (E) of par. (3) which read as follows: “otherwise has a legitimate business need for the information in connection with a business transaction involving the consumer.”
 
-    Subsec. (b). [Pub. L. 104–208, § 2403(b)][/us/pl/104/208/s2403/b], added subsec. (b).
+    Subsec. (b). [Pub. L. 104–208][/us/pl/104/208], § 2403(b), added subsec. (b).
 
-    Subsecs. (c) to (e). [Pub. L. 104–208, § 2404(a)(2)][/us/pl/104/208/s2404/a/2], added subsecs. (c) to (e).
+    Subsecs. (c) to (e). [Pub. L. 104–208][/us/pl/104/208], § 2404(a)(2), added subsecs. (c) to (e).
 
-    Subsec. (f). [Pub. L. 104–208, § 2404(b)][/us/pl/104/208/s2404/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 104–208][/us/pl/104/208], § 2404(b), added subsec. (f).
 
-    Subsec. (g). [Pub. L. 104–208, § 2405][/us/pl/104/208/s2405], added subsec. (g).
+    Subsec. (g). [Pub. L. 104–208][/us/pl/104/208], § 2405, added subsec. (g).
 
     Pars. (4), (5). [Pub. L. 104–193][/us/pl/104/193] added pars. (4) and (5).
 
@@ -447,7 +447,7 @@
 
     Amendment by [section 411 of Pub. L. 108–159][/us/pl/108/159/s411] effective at end of 180-day period beginning on Dec. 4, 2003, with certain exceptions, see [section 411(d) of Pub. L. 108–159][/us/pl/108/159/s411/d], set out as an Effective Date of 2003 Amendment note under [section 1681a of this title][/us/usc/t15/s1681a].
 
-[Pub. L. 108–159, title IV, § 412(g)][/us/pl/108/159/s412/g], Dec. 4, 2003, [117 Stat. 2003][/us/stat/117/2003], provided that: 
+[Pub. L. 108–159, title IV][/us/pl/108/159/tIV], § 412(g), Dec. 4, 2003, [117 Stat. 2003][/us/stat/117/2003], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 1681c, 1681s, and 1681s–2 of this title\] shall take effect at the end of the 15-month period beginning on the date of enactment of this Act \[Dec. 4, 2003\].”
 
@@ -457,7 +457,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–107, title III, § 311(c)][/us/pl/105/107/s311/c], Nov. 20, 1997, [111 Stat. 2256][/us/stat/111/2256], provided that: 
+[Pub. L. 105–107, title III][/us/pl/105/107/tIII], § 311(c), Nov. 20, 1997, [111 Stat. 2256][/us/stat/111/2256], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 1681e of this title][/us/usc/t15/s1681e]\] shall take effect as if such amendments had been included in chapter 1 of subtitle D of the Economic Growth and Regulatory Paperwork Reduction Act of 1996 \[chapter 1 (§§ 2401–2422) of subtitle D of title II of div. A of [Pub. L. 104–208][/us/pl/104/208]\], as of the date of the enactment of such Act \[Sept. 30, 1996\].”
 
@@ -469,7 +469,7 @@
 
  __Public Awareness Campaign__ 
 
-[Pub. L. 108–159, title II, § 213(d)][/us/pl/108/159/s213/d], Dec. 4, 2003, [117 Stat. 1979][/us/stat/117/1979], provided that: 
+[Pub. L. 108–159, title II][/us/pl/108/159/tII], § 213(d), Dec. 4, 2003, [117 Stat. 1979][/us/stat/117/1979], provided that: 
 
 > “The Commission shall actively publicize and conspicuously post on its website any address and the toll-free telephone number established as part of a notification system for opting out of prescreening under section 604(e) of the Fair Credit Reporting Act ([15 U.S.C. 1681b(e)][/us/usc/t15/s1681b/e]), and otherwise take measures to increase public awareness regarding the availability of the right to opt out of prescreening.”
 
@@ -477,13 +477,13 @@
 
  __Coordination With Federal Laws Relating to Medical Confidentiality__ 
 
-[Pub. L. 108–159, title IV, § 412(d)][/us/pl/108/159/s412/d], Dec. 4, 2003, [117 Stat. 2002][/us/stat/117/2002], provided that: 
+[Pub. L. 108–159, title IV][/us/pl/108/159/tIV], § 412(d), Dec. 4, 2003, [117 Stat. 2002][/us/stat/117/2002], provided that: 
 
 > “No provision of any amendment made by this section \[amending this section and sections 1681c, 1681s, and 1681s–2 of this title\] shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.”
 
  __FTC Guidelines Regarding Prescreening for Insurance Transactions__ 
 
-[Pub. L. 104–208, div. A, title II, § 2404(c)][/us/pl/104/208/s2404/c], Sept. 30, 1996, [110 Stat. 3009–434][/us/stat/110/3009-434], provided that: 
+[Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2404(c), Sept. 30, 1996, [110 Stat. 3009–434][/us/stat/110/3009-434], provided that: 
 
 > “The Federal Trade Commission may issue such guidelines as it deems necessary with respect to the use of consumer reports in connection with insurance transactions that are not initiated by the consumer pursuant to section 604(c) of the Fair Credit Reporting Act \[[15 U.S.C. 1681b(c)][/us/usc/t15/s1681b/c]\], as added by subsection (a) of this section.”
 
@@ -507,47 +507,47 @@
 [/us/usc/t15/s1681c/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681c%2Fa%2F6
 [/us/usc/t15/s1681a/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fd%2F3
 [/us/usc/t15/s6802/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6802%2Fe
-[/us/pl/90/321/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs604
-[/us/pl/91/508/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs601
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/91/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtVI
 [/us/stat/84/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1129
-[/us/pl/101/73/s964/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs964%2Fc
+[/us/pl/101/73/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtIX
 [/us/stat/103/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F506
-[/us/pl/104/193/s352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs352
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2240
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-430
-[/us/pl/105/107/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2Fs311%2Fa
+[/us/pl/105/107/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2FtIII
 [/us/stat/111/2255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2255
 [/us/pl/105/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347
 [/us/stat/112/3208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3208
-[/us/pl/107/306/s811/b/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs811%2Fb%2F8%2FA
+[/us/pl/107/306/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVIII
 [/us/stat/116/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2426
-[/us/pl/108/159/s213/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs213%2Fc
+[/us/pl/108/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtII
 [/us/stat/117/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1979
-[/us/pl/108/177/s361/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2Fs361%2Fj
+[/us/pl/108/177/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177%2FtIII
 [/us/stat/117/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2625
-[/us/pl/109/351/s719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2Fs719
+[/us/pl/109/351/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351%2FtVII
 [/us/stat/120/1998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1998
-[/us/pl/110/161/s743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs743
+[/us/pl/110/161/dD/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdD%2FtVII
 [/us/stat/121/2033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2033
-[/us/pl/111/24/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2Fs302
+[/us/pl/111/24/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24%2FtIII
 [/us/stat/123/1748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1748
-[/us/pl/111/203/s1088/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2087
-[/us/pl/114/94/s80001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs80001
+[/us/pl/114/94/dG/tLXXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXX
 [/us/stat/129/1792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1792
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F873
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/act/1934-06-26/ch750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-26%2Fch750
 [/us/stat/48/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1216
 [/us/usc/t12/s1751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1751
 [/us/usc/t15/s1681g/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681g%2Fc
-[/us/pl/108/159/s211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs211%2Fc
+[/us/pl/108/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtII
 [/us/stat/117/1970]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1970
 [/us/usc/t15/s1681m/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681m%2Fa%2F3
 [/us/usc/t15/s1681m/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681m%2Fa%2F4
-[/us/pl/111/203/s1100F/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100F%2F1%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2112
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/stat/110/1936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1936
@@ -555,39 +555,39 @@
 [/us/pl/104/191/s262/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs262%2Fa
 [/us/stat/110/2030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2030
 [/us/usc/t42/s1320d–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%938
-[/us/pl/114/94/s80001/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs80001%2F1
-[/us/pl/114/94/s80001/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs80001%2F2%2FA
-[/us/pl/114/94/s80001/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs80001%2F3
-[/us/pl/111/203/s1088/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FA
-[/us/pl/111/203/s1088/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F4%2FA
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s1681s/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s%2Fb
-[/us/pl/111/203/s1088/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F4%2FB
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F24
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/109/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F351
-[/us/pl/108/159/s811/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs811%2Fb
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
 [/us/pl/108/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F177
 [/us/usc/t50/s401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401a
 [/us/usc/t50/s415b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs415b
-[/us/pl/108/159/s213/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs213%2Fc
-[/us/pl/108/159/s411/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs411%2Fa
-[/us/pl/108/159/s412/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs412%2Ff%2F1
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
 [/us/usc/t15/s1681c/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681c%2Fa%2F6
-[/us/pl/108/159/s412/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs412%2Ff%2F2
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
 [/us/usc/t15/s1681c/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681c%2Fa%2F6
-[/us/pl/107/306/s811/b/8/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs811%2Fb%2F8%2FA%2Fi
-[/us/pl/107/306/s811/b/8/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs811%2Fb%2F8%2FA%2Fii
-[/us/pl/105/347/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347%2Fs3
-[/us/pl/105/347/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347%2Fs2%2Fa
-[/us/pl/105/347/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347%2Fs2%2Fb
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
+[/us/pl/105/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347
+[/us/pl/105/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347
+[/us/pl/105/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347
 [/us/usc/t15/s1681g/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681g%2Fc%2F3
-[/us/pl/105/347/s6/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347%2Fs6%2F4
+[/us/pl/105/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347
 [/us/pl/105/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/104/208/s2403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2403%2Fb
-[/us/pl/104/208/s2404/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2404%2Fa%2F2
-[/us/pl/104/208/s2404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2404%2Fb
-[/us/pl/104/208/s2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2405
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
@@ -605,13 +605,13 @@
 [/us/pl/108/159/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs411
 [/us/pl/108/159/s411/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs411%2Fd
 [/us/usc/t15/s1681a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a
-[/us/pl/108/159/s412/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs412%2Fg
+[/us/pl/108/159/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtIV
 [/us/stat/117/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2003
 [/us/pl/105/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347
 [/us/pl/104/208/s2403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2403
 [/us/pl/105/347/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347%2Fs7
 [/us/usc/t15/s1681a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a
-[/us/pl/105/107/s311/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2Fs311%2Fc
+[/us/pl/105/107/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F107%2FtIII
 [/us/stat/111/2256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2256
 [/us/usc/t15/s1681e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681e
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
@@ -621,15 +621,15 @@
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654
-[/us/pl/108/159/s213/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs213%2Fd
+[/us/pl/108/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtII
 [/us/stat/117/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1979
 [/us/usc/t15/s1681b/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681b%2Fe
 [/us/pl/108/159/s213/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs213%2Fd
 [/us/pl/108/159/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs2
 [/us/usc/t15/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681
-[/us/pl/108/159/s412/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs412%2Fd
+[/us/pl/108/159/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtIV
 [/us/stat/117/2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2002
-[/us/pl/104/208/s2404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2404%2Fc
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-434
 [/us/usc/t15/s1681b/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681b%2Fc
 

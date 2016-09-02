@@ -31,7 +31,7 @@
 
         (4) otherwise apply the laws of the State to reinsurance agreements of ceding insurers not domiciled in that State.
 
-([Pub. L. 111–203, title V, § 531][/us/pl/111/203/s531], July 21, 2010, [124 Stat. 1595][/us/stat/124/1595].)
+([Pub. L. 111–203, title V][/us/pl/111/203/tV], § 531, July 21, 2010, [124 Stat. 1595][/us/stat/124/1595].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs531
+[/us/pl/111/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtV
 [/us/stat/124/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1595
 
 

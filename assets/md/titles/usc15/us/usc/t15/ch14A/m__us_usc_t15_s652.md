@@ -69,7 +69,7 @@
 
         There are hereby authorized to be appropriated to the Small Business Administration the sum of $3,000,000 for fiscal year 1991, $5,000,000 for fiscal year 1992, $2,000,000 for each of fiscal years 1993 and 1994, and $1,000,000 for fiscal year 1995 to carry out the provisions of this section. Such sums shall be disbursed by the Small Business Administration as requested by the Commission and may remain available until expended. Any authority to enter contracts or other spending authority provided for in this section is subject to amounts provided for in advance in appropriations Acts.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[25\], as added [Pub. L. 101–515, title V, § 7][/us/pl/101/515/s7], Nov. 5, 1990, [104 Stat. 2142][/us/stat/104/2142]; amended [Pub. L. 103–81, § 9(b)][/us/pl/103/81/s9/b], Aug. 13, 1993, [107 Stat. 783][/us/stat/107/783]; [Pub. L. 103–403, title IV, § 405][/us/pl/103/403/s405], Oct. 22, 1994, [108 Stat. 4192][/us/stat/108/4192].)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[25\], as added [Pub. L. 101–515, title V][/us/pl/101/515/tV], § 7, Nov. 5, 1990, [104 Stat. 2142][/us/stat/104/2142]; amended [Pub. L. 103–81][/us/pl/103/81], § 9(b), Aug. 13, 1993, [107 Stat. 783][/us/stat/107/783]; [Pub. L. 103–403, title IV][/us/pl/103/403/tIV], § 405, Oct. 22, 1994, [108 Stat. 4192][/us/stat/108/4192].)
 
  __Amendments__ 
 
@@ -86,12 +86,12 @@
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t5/s3341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3341
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
-[/us/pl/101/515/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2Fs7
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
+[/us/pl/101/515/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2FtV
 [/us/stat/104/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2142
-[/us/pl/103/81/s9/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F81%2Fs9%2Fb
+[/us/pl/103/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F81
 [/us/stat/107/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F783
-[/us/pl/103/403/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs405
+[/us/pl/103/403/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtIV
 [/us/stat/108/4192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4192
 [/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
 [/us/pl/103/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F81

@@ -37,7 +37,7 @@
 
         The term “Secretary” means the Secretary of Energy, acting through the Director of the Office of Science of the Department of Energy.
 
-([Pub. L. 108–423, § 2][/us/pl/108/423/s2], Nov. 30, 2004, [118 Stat. 2400][/us/stat/118/2400].)
+([Pub. L. 108–423][/us/pl/108/423], § 2, Nov. 30, 2004, [118 Stat. 2400][/us/stat/118/2400].)
 
  __References in Text__ 
 
@@ -60,7 +60,7 @@
 
 [/us/usc/t15/s5542/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5542%2Fd
 [/us/usc/t20/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001%2Fa
-[/us/pl/108/423/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423%2Fs2
+[/us/pl/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423
 [/us/stat/118/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2400
 [/us/pl/108/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F423
 [/us/stat/118/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2400

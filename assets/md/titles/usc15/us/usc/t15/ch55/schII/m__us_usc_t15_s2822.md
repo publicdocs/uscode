@@ -73,7 +73,7 @@
 
         (2) may be used as a fuel in such motor vehicle under all operating conditions without knocking.
 
-([Pub. L. 95–297, title II, § 202][/us/pl/95/297/s202], June 19, 1978, [92 Stat. 334][/us/stat/92/334]; [Pub. L. 102–486, title XV, § 1501(c)(2)][/us/pl/102/486/s1501/c/2], Oct. 24, 1992, [106 Stat. 2997][/us/stat/106/2997].)
+([Pub. L. 95–297, title II][/us/pl/95/297/tII], § 202, June 19, 1978, [92 Stat. 334][/us/stat/92/334]; [Pub. L. 102–486, title XV][/us/pl/102/486/tXV], § 1501(c)(2), Oct. 24, 1992, [106 Stat. 2997][/us/stat/106/2997].)
 
  __Amendments__ 
 
@@ -85,7 +85,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 95–297, title II, § 205][/us/pl/95/297/s205], June 19, 1978, [92 Stat. 337][/us/stat/92/337], provided that:
+[Pub. L. 95–297, title II][/us/pl/95/297/tII], § 205, June 19, 1978, [92 Stat. 337][/us/stat/92/337], provided that:
 
 >     “(a) Sections 202(a)(1) \[subsec. (a)(1) of this section\] and 203(b) \[[section 2823(b) of this title][/us/usc/t15/s2823/b]\] shall take effect on the first day of the first calendar month beginning more than 6 months after the date of the enactment of this Act \[June 19, 1978\].
 
@@ -104,15 +104,15 @@
 ----------
 ----------
 
-[/us/pl/95/297/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2Fs202
+[/us/pl/95/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2FtII
 [/us/stat/92/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F334
-[/us/pl/102/486/s1501/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1501%2Fc%2F2
+[/us/pl/102/486/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtXV
 [/us/stat/106/2997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2997
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/102/486/s1501/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1501%2Fd%2F1
 [/us/usc/t15/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2821
-[/us/pl/95/297/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2Fs205
+[/us/pl/95/297/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F297%2FtII
 [/us/stat/92/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F337
 [/us/usc/t15/s2823/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2823%2Fb
 [/us/pl/102/486/s1503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs1503

@@ -17,7 +17,7 @@
 
     Notwithstanding the exemption set forth in [section 80a–6(f) of this title][/us/usc/t15/s80a–6/f], [section 80a–47 of this title][/us/usc/t15/s80a–47] shall apply to a business development company to the same extent as if it were a registered closed-end investment company, except that the provisions of [section 80a–47(a) of this title][/us/usc/t15/s80a–47/a] shall not be construed to require any company which is not an investment company within the meaning of [section 80a–3(a) of this title][/us/usc/t15/s80a–3/a] to comply with the provisions of this subchapter which are applicable to a business development company solely because such company is a wholly-owned subsidiary of, or directly or indirectly controlled by, a business development company.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 65, as added [Pub. L. 96–477, title I, § 105][/us/pl/96/477/s105], Oct. 21, 1980, [94 Stat. 2289][/us/stat/94/2289].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 65, as added [Pub. L. 96–477, title I][/us/pl/96/477/tI], § 105, Oct. 21, 1980, [94 Stat. 2289][/us/stat/94/2289].)
 
 ----------
 
@@ -31,7 +31,7 @@
 [/us/usc/t15/s80a–47/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9347%2Fa
 [/us/usc/t15/s80a–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%933%2Fa
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
-[/us/pl/96/477/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2Fs105
+[/us/pl/96/477/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2FtI
 [/us/stat/94/2289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2289
 
 

@@ -65,7 +65,7 @@
 
         As used in this section, the term “direct communication” includes communication by telephone, facsimile, or electronic mail.
 
-([Pub. L. 108–164, § 4][/us/pl/108/164/s4], Dec. 6, 2003, [117 Stat. 2024][/us/stat/117/2024].)
+([Pub. L. 108–164][/us/pl/108/164], § 4, Dec. 6, 2003, [117 Stat. 2024][/us/stat/117/2024].)
 
 ----------
 
@@ -74,7 +74,7 @@
 ----------
 ----------
 
-[/us/pl/108/164/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F164%2Fs4
+[/us/pl/108/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F164
 [/us/stat/117/2024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2024
 
 

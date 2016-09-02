@@ -27,7 +27,7 @@
 
         Subject to sections 2055(a)(2) and 2055(b) of this title but notwithstanding [section 2055(a)(1) of this title][/us/usc/t15/s2055/a/1], (1) any accident or investigation report made under this chapter by an officer or employee of the Commission shall be made available to the public in a manner which will not identify any injured person or any person treating him, without the consent of the person so identified, and (2) all reports on research projects, demonstration projects, and other related activities shall be public information.
 
-([Pub. L. 92–573, § 25][/us/pl/92/573/s25], Oct. 27, 1972, [86 Stat. 1227][/us/stat/86/1227].)
+([Pub. L. 92–573][/us/pl/92/573], § 25, Oct. 27, 1972, [86 Stat. 1227][/us/stat/86/1227].)
 
  __Preemption__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t15/s2055/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2055%2Fa%2F1
-[/us/pl/92/573/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs25
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1227
 [/us/usc/t15/s2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2051
 [/us/pl/110/314/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs231

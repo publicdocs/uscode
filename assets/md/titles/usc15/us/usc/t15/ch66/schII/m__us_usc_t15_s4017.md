@@ -27,7 +27,7 @@
 
         [Section 553 of title 5][/us/usc/t5/s553] shall not apply to the issuance of guidelines under subsection (a).
 
-([Pub. L. 97–290, title III, § 307][/us/pl/97/290/s307], Oct. 8, 1982, [96 Stat. 1244][/us/stat/96/1244].)
+([Pub. L. 97–290, title III][/us/pl/97/290/tIII], § 307, Oct. 8, 1982, [96 Stat. 1244][/us/stat/96/1244].)
 
  __Effective Date__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/97/290/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs307
+[/us/pl/97/290/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2FtIII
 [/us/stat/96/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1244
 [/us/pl/97/290/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs312
 [/us/usc/t15/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4011

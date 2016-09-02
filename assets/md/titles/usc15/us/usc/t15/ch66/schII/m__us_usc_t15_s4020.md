@@ -17,7 +17,7 @@
 
     The Secretary, with the concurrence of the Attorney General, shall promulgate such rules and regulations as are necessary to carry out the purposes of this chapter.
 
-([Pub. L. 97–290, title III, § 310][/us/pl/97/290/s310], Oct. 8, 1982, [96 Stat. 1245][/us/stat/96/1245].)
+([Pub. L. 97–290, title III][/us/pl/97/290/tIII], § 310, Oct. 8, 1982, [96 Stat. 1245][/us/stat/96/1245].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/97/290/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs310
+[/us/pl/97/290/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2FtIII
 [/us/stat/96/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1245
 [/us/pl/97/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290
 [/us/stat/96/1233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1233

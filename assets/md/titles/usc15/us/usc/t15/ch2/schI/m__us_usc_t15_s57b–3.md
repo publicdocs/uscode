@@ -99,7 +99,7 @@
 
         (4) The Commission shall not propose or promulgate a rule which was not listed on a regulatory agenda unless the Commission publishes with the rule an explanation of the reasons the rule was omitted from such agenda.
 
-([Sept. 26, 1914, ch. 311, § 22][/us/act/1914-09-26/ch311/s22], as added [Pub. L. 96–252, § 15][/us/pl/96/252/s15], May 28, 1980, [94 Stat. 388][/us/stat/94/388].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 22, as added [Pub. L. 96–252][/us/pl/96/252], § 15, May 28, 1980, [94 Stat. 388][/us/stat/94/388].)
 
  __Effective Date__ 
 
@@ -115,8 +115,8 @@
 [/us/usc/t15/s57a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a
 [/us/usc/t15/s57a/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a%2Fa%2F1%2FB
 [/us/usc/t15/s57a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a%2Fe
-[/us/act/1914-09-26/ch311/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs22
-[/us/pl/96/252/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs15
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
+[/us/pl/96/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252
 [/us/stat/94/388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F388
 [/us/pl/96/252/s23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F252%2Fs23
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45

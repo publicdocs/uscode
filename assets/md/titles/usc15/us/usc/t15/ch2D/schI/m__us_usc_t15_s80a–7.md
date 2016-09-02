@@ -55,7 +55,7 @@
 
         Each fund that is excluded from the definition of an investment company under [section 80a–3(c)(10)(B) of this title][/us/usc/t15/s80a–3/c/10/B] shall provide, to each donor to such fund, at the time of the donation or within 90 days after December 8, 1995, whichever is later, written information describing the material terms of the operation of such fund.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 7, [54 Stat. 802][/us/stat/54/802]; [Pub. L. 104–62, § 2(b)][/us/pl/104/62/s2/b], Dec. 8, 1995, [109 Stat. 683][/us/stat/109/683].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 7, [54 Stat. 802][/us/stat/54/802]; [Pub. L. 104–62][/us/pl/104/62], § 2(b), Dec. 8, 1995, [109 Stat. 683][/us/stat/109/683].)
 
  __Amendments__ 
 
@@ -83,7 +83,7 @@
 [/us/usc/t15/s80a–3/c/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%933%2Fc%2F10%2FB
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F802
-[/us/pl/104/62/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F62%2Fs2%2Fb
+[/us/pl/104/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F62
 [/us/stat/109/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F683
 [/us/pl/104/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F62
 [/us/pl/104/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F62

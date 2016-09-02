@@ -29,11 +29,11 @@
 
         may be taken into account in applying any indefinite price escalator clause (as defined in section 3315(b)(3)(B) 1 of this title, as such section was in effect on January 1, 1989).
 
-([Pub. L. 95–621, title III, § 313][/us/pl/95/621/s313], Nov. 9, 1978, [92 Stat. 3392][/us/stat/92/3392]; [Pub. L. 101–60, § 3(b)(3)][/us/pl/101/60/s3/b/3], July 26, 1989, [103 Stat. 159][/us/stat/103/159].)
+([Pub. L. 95–621, title III][/us/pl/95/621/tIII], § 313, Nov. 9, 1978, [92 Stat. 3392][/us/stat/92/3392]; [Pub. L. 101–60][/us/pl/101/60], § 3(b)(3), July 26, 1989, [103 Stat. 159][/us/stat/103/159].)
 
  __References in Text__ 
 
-    Sections 3315 and 3317 of this title, referred to in text, were repealed effective Jan. 1, 1993, by [Pub. L. 101–60, § 2(b)][/us/pl/101/60/s2/b], July 26, 1989, [103 Stat. 158][/us/stat/103/158].
+    Sections 3315 and 3317 of this title, referred to in text, were repealed effective Jan. 1, 1993, by [Pub. L. 101–60][/us/pl/101/60], § 2(b), July 26, 1989, [103 Stat. 158][/us/stat/103/158].
 
  __Amendments__ 
 
@@ -51,11 +51,11 @@
 ----------
 
 [/us/usc/t15/s3362/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3362%2Fa
-[/us/pl/95/621/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs313
+[/us/pl/95/621/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2FtIII
 [/us/stat/92/3392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3392
-[/us/pl/101/60/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fb%2F3
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
 [/us/stat/103/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F159
-[/us/pl/101/60/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs2%2Fb
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
 [/us/stat/103/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F158
 [/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
 [/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60

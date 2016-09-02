@@ -35,7 +35,7 @@
 
         (2) subject primarily to regulation by a State commission, whether or not such State commission has, or is exercising, jurisdiction over the sale, sale for resale, or transportation of vehicular natural gas.
 
-([June 21, 1938, ch. 556, § 1][/us/act/1938-06-21/ch556/s1], [52 Stat. 821][/us/stat/52/821]; [Mar. 27, 1954, ch. 115][/us/act/1954-03-27/ch115], [68 Stat. 36][/us/stat/68/36]; [Pub. L. 102–486, title IV, § 404(a)(1)][/us/pl/102/486/s404/a/1], Oct. 24, 1992, [106 Stat. 2879][/us/stat/106/2879]; [Pub. L. 109–58, title III, § 311(a)][/us/pl/109/58/s311/a], Aug. 8, 2005, [119 Stat. 685][/us/stat/119/685].)
+([June 21, 1938, ch. 556][/us/act/1938-06-21/ch556], § 1, [52 Stat. 821][/us/stat/52/821]; [Mar. 27, 1954, ch. 115][/us/act/1954-03-27/ch115], [68 Stat. 36][/us/stat/68/36]; [Pub. L. 102–486, title IV][/us/pl/102/486/tIV], § 404(a)(1), Oct. 24, 1992, [106 Stat. 2879][/us/stat/106/2879]; [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 311(a), Aug. 8, 2005, [119 Stat. 685][/us/stat/119/685].)
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __State Laws and Regulations__ 
 
-[Pub. L. 102–486, title IV, § 404(b)][/us/pl/102/486/s404/b], Oct. 24, 1992, [106 Stat. 2879][/us/stat/106/2879], provided that: 
+[Pub. L. 102–486, title IV][/us/pl/102/486/tIV], § 404(b), Oct. 24, 1992, [106 Stat. 2879][/us/stat/106/2879], provided that: 
 
 > “The transportation or sale of natural gas by any person who is not otherwise a public utility, within the meaning of State law—
 
@@ -84,17 +84,17 @@
 ----------
 ----------
 
-[/us/act/1938-06-21/ch556/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556%2Fs1
+[/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F821
 [/us/act/1954-03-27/ch115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-03-27%2Fch115
 [/us/stat/68/36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F36
-[/us/pl/102/486/s404/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs404%2Fa%2F1
+[/us/pl/102/486/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIV
 [/us/stat/106/2879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2879
-[/us/pl/109/58/s311/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs311%2Fa
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F685
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
-[/us/pl/102/486/s404/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs404%2Fb
+[/us/pl/102/486/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtIV
 [/us/stat/106/2879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2879
 [/us/pl/95/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F2
 [/us/stat/91/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F4

@@ -257,11 +257,11 @@
 
         The authority to carry out the FAST program under this section shall terminate on September 30, 2005.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[34\], as added [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, § 111(b)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–674; amended [Pub. L. 107–50, § 8][/us/pl/107/50/s8], Oct. 15, 2001, [115 Stat. 265][/us/stat/115/265]; [Pub. L. 114–88, div. B, title I, § 2104][/us/pl/114/88/s2104], Nov. 25, 2015, [129 Stat. 691][/us/stat/129/691].)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[34\], as added [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title I, § 111(b)(2)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–674; amended [Pub. L. 107–50][/us/pl/107/50], § 8, Oct. 15, 2001, [115 Stat. 265][/us/stat/115/265]; [Pub. L. 114–88, div. B, title I][/us/pl/114/88/dB/tI], § 2104, Nov. 25, 2015, [129 Stat. 691][/us/stat/129/691].)
 
  __References in Text__ 
 
-    Subpar. (C) of [section 42(d)(5) of title 26][/us/usc/t26/s42/d/5], referred to in subsec. (e)(2)(B), was redesignated (B) by [Pub. L. 110–289, div. C, title I, § 3003(g)(3)][/us/pl/110/289/s3003/g/3], July 30, 2008, [122 Stat. 2882][/us/stat/122/2882].
+    Subpar. (C) of [section 42(d)(5) of title 26][/us/usc/t26/s42/d/5], referred to in subsec. (e)(2)(B), was redesignated (B) by [Pub. L. 110–289, div. C, title I][/us/pl/110/289/dC/tI], § 3003(g)(3), July 30, 2008, [122 Stat. 2882][/us/stat/122/2882].
 
  __Prior Provisions__ 
 
@@ -269,15 +269,15 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(3) to (10). [Pub. L. 114–88, § 2104(a)][/us/pl/114/88/s2104/a], added par. (3) and redesignated former pars. (3) to (9) as (4) to (10), respectively.
+    2015—Subsec. (a)(3) to (10). [Pub. L. 114–88][/us/pl/114/88], § 2104(a), added par. (3) and redesignated former pars. (3) to (9) as (4) to (10), respectively.
 
-    Subsec. (c)(2)(C). [Pub. L. 114–88, § 2104(b)][/us/pl/114/88/s2104/b], added subpar. (C).
+    Subsec. (c)(2)(C). [Pub. L. 114–88][/us/pl/114/88], § 2104(b), added subpar. (C).
 
-    Subsec. (c)(5). [Pub. L. 114–88, § 2104(c)][/us/pl/114/88/s2104/c], added par. (5).
+    Subsec. (c)(5). [Pub. L. 114–88][/us/pl/114/88], § 2104(c), added par. (5).
 
-    2001—Subsec. (c)(2)(B)(vi). [Pub. L. 107–50, § 8(a)][/us/pl/107/50/s8/a], added cl. (vi).
+    2001—Subsec. (c)(2)(B)(vi). [Pub. L. 107–50][/us/pl/107/50], § 8(a), added cl. (vi).
 
-    Subsec. (c)(4). [Pub. L. 107–50, § 8(b)][/us/pl/107/50/s8/b], inserted at end “The Administrator shall promulgate regulations establishing standards for the consideration of proposals under paragraph (2), including standards regarding each of the considerations identified in paragraph (2)(B).”
+    Subsec. (c)(4). [Pub. L. 107–50][/us/pl/107/50], § 8(b), inserted at end “The Administrator shall promulgate regulations establishing standards for the consideration of proposals under paragraph (2), including standards regarding each of the considerations identified in paragraph (2)(B).”
 
  __Change of Name__ 
 
@@ -287,7 +287,7 @@
 
  __Findings__ 
 
-[Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title I, § 111(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–674, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title I, § 111(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–674, provided that: 
 
 > “Congress finds that—
 
@@ -318,24 +318,24 @@
 [/us/usc/t15/s638/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638%2Fk
 [/us/usc/t15/s657e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657e
 [/us/usc/t15/s657e/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657e%2Fd
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/50/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50%2Fs8
+[/us/pl/107/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50
 [/us/stat/115/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F265
-[/us/pl/114/88/s2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2Fs2104
+[/us/pl/114/88/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2FdB%2FtI
 [/us/stat/129/691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F691
 [/us/usc/t26/s42/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42%2Fd%2F5
-[/us/pl/110/289/s3003/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs3003%2Fg%2F3
+[/us/pl/110/289/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdC%2FtI
 [/us/stat/122/2882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2882
 [/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/114/88/s2104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2Fs2104%2Fa
-[/us/pl/114/88/s2104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2Fs2104%2Fb
-[/us/pl/114/88/s2104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2Fs2104%2Fc
-[/us/pl/107/50/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50%2Fs8%2Fa
-[/us/pl/107/50/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50%2Fs8%2Fb
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/114/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88
+[/us/pl/114/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88
+[/us/pl/114/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88
+[/us/pl/107/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50
+[/us/pl/107/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F50
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

@@ -25,15 +25,15 @@
 
     (b) Each paying agent shall hold in trust for the benefit of the indenture security holders or the indenture trustee all sums held by such paying agent for the payment of the principal of or interest on the indenture securities, and shall give to such trustee notice of any default by any obligor upon the indenture securities in the making of any such payment.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 317, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1173][/us/stat/53/1173]; amended [Pub. L. 101–550, title IV, § 416][/us/pl/101/550/s416], Nov. 15, 1990, [104 Stat. 2731][/us/stat/104/2731]; [Pub. L. 111–203, title IX, § 985(c)(2)][/us/pl/111/203/s985/c/2], July 21, 2010, [124 Stat. 1934][/us/stat/124/1934].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 317, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1173][/us/stat/53/1173]; amended [Pub. L. 101–550, title IV][/us/pl/101/550/tIV], § 416, Nov. 15, 1990, [104 Stat. 2731][/us/stat/104/2731]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 985(c)(2), July 21, 2010, [124 Stat. 1934][/us/stat/124/1934].)
 
  __Amendments__ 
 
     2010—Subsec. (a)(1). [Pub. L. 111–203][/us/pl/111/203] substituted “(1) in the” for “(1) , in the”.
 
-    1990—Subsec. (a). [Pub. L. 101–550, § 416(1)][/us/pl/101/550/s416/1]–(3), in introductory provisions, substituted “trustee shall be authorized” for “to be qualified shall contain provisions”, in par. (1) struck out “authorizing the indenture trustee” after the paragraph designation, and in par. (2) struck out “authorizing such trustee” after the paragraph designation.
+    1990—Subsec. (a). [Pub. L. 101–550][/us/pl/101/550], § 416(1)–(3), in introductory provisions, substituted “trustee shall be authorized” for “to be qualified shall contain provisions”, in par. (1) struck out “authorizing the indenture trustee” after the paragraph designation, and in par. (2) struck out “authorizing such trustee” after the paragraph designation.
 
-    Subsec. (b). [Pub. L. 101–550, § 416(4)][/us/pl/101/550/s416/4], substituted “Each” for “The indenture to be qualified shall provide that each”.
+    Subsec. (b). [Pub. L. 101–550][/us/pl/101/550], § 416(4), substituted “Each” for “The indenture to be qualified shall provide that each”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -49,13 +49,13 @@
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/act/1939-08-03/ch411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-03%2Fch411
 [/us/stat/53/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1173
-[/us/pl/101/550/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs416
+[/us/pl/101/550/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtIV
 [/us/stat/104/2731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2731
-[/us/pl/111/203/s985/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs985%2Fc%2F2
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1934
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/101/550/s416/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs416%2F1
-[/us/pl/101/550/s416/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs416%2F4
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

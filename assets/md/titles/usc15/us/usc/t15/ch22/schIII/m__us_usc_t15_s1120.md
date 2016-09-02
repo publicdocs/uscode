@@ -17,11 +17,11 @@
 
     Any person who shall procure registration in the Patent and Trademark Office of a mark by a false or fraudulent declaration or representation, oral or in writing, or by any false means, shall be liable in a civil action by any person injured thereby for any damages sustained in consequence thereof.
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title VI, § 38, [60 Stat. 440][/us/stat/60/440]; [Pub. L. 93–596, § 1][/us/pl/93/596/s1], Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title VI, § 38, [60 Stat. 440][/us/stat/60/440]; [Pub. L. 93–596][/us/pl/93/596], § 1, Jan. 2, 1975, [88 Stat. 1949][/us/stat/88/1949].)
 
  __Prior Provisions__ 
 
-    [Act Feb. 20, 1905, ch. 592, § 25][/us/act/1905-02-20/ch592/s25], [33 Stat. 730][/us/stat/33/730].
+    [Act Feb. 20, 1905, ch. 592][/us/act/1905-02-20/ch592], § 25, [33 Stat. 730][/us/stat/33/730].
 
  __Amendments__ 
 
@@ -48,9 +48,9 @@
 
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F440
-[/us/pl/93/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596%2Fs1
+[/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/stat/88/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1949
-[/us/act/1905-02-20/ch592/s25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592%2Fs25
+[/us/act/1905-02-20/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1905-02-20%2Fch592
 [/us/stat/33/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F730
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596
 [/us/pl/93/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F596

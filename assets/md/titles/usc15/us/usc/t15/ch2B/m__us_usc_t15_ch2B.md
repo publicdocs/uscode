@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78l" data-uslm-ref="/us/usc/t15/s78l">78l.</a>  </td>
 
     <td> Registration requirements for securities.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78l" data-uslm-ref="/us/usc/t15/s78l">78l</a>–1.  </td>
 
     <td> Applications for unlisted trading privileges deemed filed under section 78l of this title.  </td>
 
@@ -329,7 +329,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78o" data-uslm-ref="/us/usc/t15/s78o">78o.</a>  </td>
 
     <td> Registration and regulation of brokers and dealers.  </td>
 
@@ -337,7 +337,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78o" data-uslm-ref="/us/usc/t15/s78o">78o</a>–1.  </td>
 
     <td> Brokers deemed to be registered.  </td>
 
@@ -345,7 +345,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78o" data-uslm-ref="/us/usc/t15/s78o">78o</a>–2.  </td>
 
     <td> Liabilities arising prior to amendment unaffected.  </td>
 
@@ -353,7 +353,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78o" data-uslm-ref="/us/usc/t15/s78o">78o</a>–3.  </td>
 
     <td> Registered securities associations.  </td>
 
@@ -361,7 +361,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78o" data-uslm-ref="/us/usc/t15/s78o">78o</a>–4.  </td>
 
     <td> Municipal securities.  </td>
 
@@ -369,7 +369,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–4a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78o" data-uslm-ref="/us/usc/t15/s78o">78o</a>–4a.  </td>
 
     <td> Commission Office of Municipal Securities.  </td>
 
@@ -377,7 +377,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78o" data-uslm-ref="/us/usc/t15/s78o">78o</a>–5.  </td>
 
     <td> Government securities brokers and dealers.  </td>
 
@@ -385,7 +385,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78o" data-uslm-ref="/us/usc/t15/s78o">78o</a>–6.  </td>
 
     <td> Securities analysts and research reports.  </td>
 
@@ -393,7 +393,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78o" data-uslm-ref="/us/usc/t15/s78o">78o</a>–7.  </td>
 
     <td> Registration of nationally recognized statistical rating organizations.  </td>
 
@@ -401,7 +401,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78o" data-uslm-ref="/us/usc/t15/s78o">78o</a>–8.  </td>
 
     <td> Universal ratings symbols.  </td>
 
@@ -409,7 +409,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78o" data-uslm-ref="/us/usc/t15/s78o">78o</a>–9.  </td>
 
     <td> Study and rulemaking on assigned credit ratings.  </td>
 
@@ -417,7 +417,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78o" data-uslm-ref="/us/usc/t15/s78o">78o</a>–10.  </td>
 
     <td> Registration and regulation of security-based swap dealers and major security-based swap participants.  </td>
 
@@ -425,7 +425,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>o–11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78o" data-uslm-ref="/us/usc/t15/s78o">78o</a>–11.  </td>
 
     <td> Credit risk retention.  </td>
 
@@ -721,7 +721,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>ll.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78ll" data-uslm-ref="/us/usc/t15/s78ll">78ll.</a>  </td>
 
     <td> Requirements for the EDGAR system.  </td>
 
@@ -745,7 +745,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78" data-uslm-ref="/us/usc/t15/s78">78</a>oo.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs78oo" data-uslm-ref="/us/usc/t15/s78oo">78oo.</a>  </td>
 
     <td> Federal National Mortgage Association, Federal Home Loan Mortgage Corporation, Federal Home Loan Banks.  </td>
 

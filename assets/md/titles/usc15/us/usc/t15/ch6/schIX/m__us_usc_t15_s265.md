@@ -21,7 +21,7 @@
 
     Beginning at a point where such western boundary time zone line crosses the State boundary line between Kansas and Oklahoma; thence westerly along said State boundary line to the northwest corner of the State of Oklahoma; thence in a southerly direction along the west State boundary line of Oklahoma and the west State boundary line of Texas to the southeastern corner of the State of New Mexico; thence in a westerly direction along the State boundary line between the States of Texas and New Mexico to the Rio Grande River; thence down the Rio Grande River as the boundary line between the United States and Mexico: Provided, That the Chicago, Rock Island and Gulf Railway Company and the Chicago, Rock Island and Pacific Railway Company may use Tucumcari, New Mexico, as the point at which they change from central to mountain time and vice versa; the Colorado Southern and Fort Worth and Denver City Railway Companies may use Sixela, New Mexico, as such changing point; the Atchison, Topeka and Santa Fe Railway Company and other branches of the Santa Fe system may use Clovis, New Mexico, as such changing point, and those railways running into or through El Paso may use El Paso as such point: Provided further, That this section shall not, except as herein provided, interfere with the adjustment of time zones as established by the Secretary of Transportation.
 
-([Mar. 4, 1921, ch. 173, § 1][/us/act/1921-03-04/ch173/s1], [41 Stat. 1446][/us/stat/41/1446]; [Pub. L. 97–449, § 2(c)][/us/pl/97/449/s2/c], Jan. 12, 1983, [96 Stat. 2439][/us/stat/96/2439].)
+([Mar. 4, 1921, ch. 173][/us/act/1921-03-04/ch173], § 1, [41 Stat. 1446][/us/stat/41/1446]; [Pub. L. 97–449][/us/pl/97/449], § 2(c), Jan. 12, 1983, [96 Stat. 2439][/us/stat/96/2439].)
 
  __Amendments__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/act/1921-03-04/ch173/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-04%2Fch173%2Fs1
+[/us/act/1921-03-04/ch173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-03-04%2Fch173
 [/us/stat/41/1446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1446
-[/us/pl/97/449/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs2%2Fc
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2439
 [/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/pl/91/228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F228

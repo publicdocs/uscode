@@ -29,7 +29,7 @@
 
     (6) The term “Secretary” means the Secretary of Health and Human Services.
 
-([Pub. L. 99–252, § 9][/us/pl/99/252/s9], Feb. 27, 1986, [100 Stat. 34][/us/stat/100/34]; [Pub. L. 111–31, div. A, title I, § 101(c)][/us/pl/111/31/s101/c], June 22, 2009, [123 Stat. 1830][/us/stat/123/1830].)
+([Pub. L. 99–252][/us/pl/99/252], § 9, Feb. 27, 1986, [100 Stat. 34][/us/stat/100/34]; [Pub. L. 111–31, div. A, title I][/us/pl/111/31/dA/tI], § 101(c), June 22, 2009, [123 Stat. 1830][/us/stat/123/1830].)
 
  __Amendments__ 
 
@@ -43,9 +43,9 @@
 ----------
 
 [/us/usc/t21/s387/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs387%2F18
-[/us/pl/99/252/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252%2Fs9
+[/us/pl/99/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F252
 [/us/stat/100/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F34
-[/us/pl/111/31/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs101%2Fc
+[/us/pl/111/31/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2FdA%2FtI
 [/us/stat/123/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1830
 [/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 

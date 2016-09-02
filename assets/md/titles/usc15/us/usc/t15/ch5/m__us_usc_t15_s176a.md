@@ -17,7 +17,7 @@
 
     Any statistical information furnished in confidence to the Bureau of Foreign and Domestic Commerce by individuals, corporations, and firms shall be held to be confidential, and shall be used only for the statistical purposes for which it is supplied. Except as provided in the Confidential Information Protection and Statistical Efficiency Act of 2002, the Director of the Bureau of Foreign and Domestic Commerce shall not permit anyone other than the sworn employees of the Bureau to examine such individual reports, nor shall he permit any statistics of domestic commerce to be published in such manner as to reveal the identity of the individual, corporation, or firm furnishing such data.
 
-([Jan. 27, 1938, ch. 11, § 1][/us/act/1938-01-27/ch11/s1], [52 Stat. 8][/us/stat/52/8]; [Pub. L. 107–347, title V, § 526(a)][/us/pl/107/347/s526/a], Dec. 17, 2002, [116 Stat. 2969][/us/stat/116/2969].)
+([Jan. 27, 1938, ch. 11][/us/act/1938-01-27/ch11], § 1, [52 Stat. 8][/us/stat/52/8]; [Pub. L. 107–347, title V][/us/pl/107/347/tV], § 526(a), Dec. 17, 2002, [116 Stat. 2969][/us/stat/116/2969].)
 
  __References in Text__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/act/1938-01-27/ch11/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-01-27%2Fch11%2Fs1
+[/us/act/1938-01-27/ch11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-01-27%2Fch11
 [/us/stat/52/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F8
-[/us/pl/107/347/s526/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs526%2Fa
+[/us/pl/107/347/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2FtV
 [/us/stat/116/2969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2969
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/stat/116/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2962

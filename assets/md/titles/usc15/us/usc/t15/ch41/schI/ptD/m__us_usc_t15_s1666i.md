@@ -23,7 +23,7 @@
 
         The amount of claims or defenses asserted by the cardholder may not exceed the amount of credit outstanding with respect to such transaction at the time the cardholder first notifies the card issuer or the person honoring the credit card of such claim or defense. For the purpose of determining the amount of credit outstanding in the preceding sentence, payments and credits to the cardholder’s account are deemed to have been applied, in the order indicated, to the payment of: (1) late charges in the order of their entry to the account; (2) finance charges in order of their entry to the account; and (3) debits to the account other than those set forth above, in the order in which each debit entry to the account was made.
 
-([Pub. L. 90–321, title I, § 170][/us/pl/90/321/s170], as added [Pub. L. 93–495, title III, § 306][/us/pl/93/495/s306], Oct. 28, 1974, [88 Stat. 1515][/us/stat/88/1515].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 170, as added [Pub. L. 93–495, title III][/us/pl/93/495/tIII], § 306, Oct. 28, 1974, [88 Stat. 1515][/us/stat/88/1515].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/90/321/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs170
-[/us/pl/93/495/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs306
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/93/495/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtIII
 [/us/stat/88/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1515
 
 

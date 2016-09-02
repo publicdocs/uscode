@@ -39,7 +39,7 @@
 
         (2) The President shall identify in each annual budget submitted to the Congress under [section 1105 of title 31][/us/usc/t31/s1105] those items in each agency’s or department’s annual budget which are elements of the Program.
 
-([Pub. L. 101–606, title I, § 105][/us/pl/101/606/s105], Nov. 16, 1990, [104 Stat. 3100][/us/stat/104/3100].)
+([Pub. L. 101–606, title I][/us/pl/101/606/tI], § 105, Nov. 16, 1990, [104 Stat. 3100][/us/stat/104/3100].)
 
 ----------
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t31/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1108
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/101/606/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2Fs105
+[/us/pl/101/606/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2FtI
 [/us/stat/104/3100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3100
 
 

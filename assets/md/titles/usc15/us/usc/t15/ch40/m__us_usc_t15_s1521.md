@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 607 of Title 5][/us/usc/t5/s607] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 607 of Title 5][/us/usc/t5/s607] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 6, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Transfer of Functions__ 
 
@@ -38,7 +38,7 @@
 [/us/stat/58/415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F415
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
 [/us/usc/t5/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs607
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
 

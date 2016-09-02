@@ -17,7 +17,7 @@
 
     Every combination, conspiracy, trust, agreement, or contract is declared to be contrary to public policy, illegal, and void when the same is made by or between two or more persons or corporations, either of whom, as agent or principal, is engaged in importing any article from any foreign country into the United States, and when such combination, conspiracy, trust, agreement, or contract is intended to operate in restraint of lawful trade, or free competition in lawful trade or commerce, or to increase the market price in any part of the United States of any article or articles imported or intended to be imported into the United States, or of any manufacture into which such imported article enters or is intended to enter. Every person who shall be engaged in the importation of goods or any commodity from any foreign country in violation of this section, or who shall combine or conspire with another to violate the same, is guilty of a misdemeanor, and on conviction thereof in any court of the United States such person shall be fined in a sum not less than $100 and not exceeding $5,000, and shall be further punished by imprisonment, in the discretion of the court, for a term not less than three months nor exceeding twelve months.
 
-([Aug. 27, 1894, ch. 349, § 73][/us/act/1894-08-27/ch349/s73], [28 Stat. 570][/us/stat/28/570]; [Feb. 12, 1913, ch. 40][/us/act/1913-02-12/ch40], [37 Stat. 667][/us/stat/37/667].)
+([Aug. 27, 1894, ch. 349][/us/act/1894-08-27/ch349], § 73, [28 Stat. 570][/us/stat/28/570]; [Feb. 12, 1913, ch. 40][/us/act/1913-02-12/ch40], [37 Stat. 667][/us/stat/37/667].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Short Title__ 
 
-Section 77, formerly § 78, of act Aug. 27, 1894, as added by [Pub. L. 94–435, title III, § 305(d)][/us/pl/94/435/s305/d], Sept. 30, 1976, [90 Stat. 1397][/us/stat/90/1397]; renumbered § 77 and amended [Pub. L. 107–273, div. C, title IV, § 14102(c)(1)(B)][/us/pl/107/273/s14102/c/1/B], Nov. 2, 2002, [116 Stat. 1921][/us/stat/116/1921], provided that: 
+Section 77, formerly § 78, of act Aug. 27, 1894, as added by [Pub. L. 94–435, title III][/us/pl/94/435/tIII], § 305(d), Sept. 30, 1976, [90 Stat. 1397][/us/stat/90/1397]; renumbered § 77 and amended [Pub. L. 107–273, div. C, title IV][/us/pl/107/273/dC/tIV], § 14102(c)(1)(B), Nov. 2, 2002, [116 Stat. 1921][/us/stat/116/1921], provided that: 
 
 > “Sections 73, 74, 75, and 76 of this Act \[enacting sections 8 to 11 of this title\] may be cited as the ‘Wilson Tariff Act’.”
 
@@ -36,13 +36,13 @@ Section 77, formerly § 78, of act Aug. 27, 1894, as added by [Pub. L. 94–43
 ----------
 ----------
 
-[/us/act/1894-08-27/ch349/s73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-27%2Fch349%2Fs73
+[/us/act/1894-08-27/ch349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-27%2Fch349
 [/us/stat/28/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F570
 [/us/act/1913-02-12/ch40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-02-12%2Fch40
 [/us/stat/37/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F667
-[/us/pl/94/435/s305/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs305%2Fd
+[/us/pl/94/435/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2FtIII
 [/us/stat/90/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1397
-[/us/pl/107/273/s14102/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs14102%2Fc%2F1%2FB
+[/us/pl/107/273/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIV
 [/us/stat/116/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1921
 
 

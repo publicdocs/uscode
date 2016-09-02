@@ -39,7 +39,7 @@
 
     (11) the term “Secretary” means the Secretary of Energy.
 
-([Pub. L. 104–284, § 3][/us/pl/104/284/s3], Oct. 11, 1996, [110 Stat. 3370][/us/stat/110/3370].)
+([Pub. L. 104–284][/us/pl/104/284], § 3, Oct. 11, 1996, [110 Stat. 3370][/us/stat/110/3370].)
 
 ----------
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t15/s6403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6403
-[/us/pl/104/284/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F284%2Fs3
+[/us/pl/104/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F284
 [/us/stat/110/3370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3370
 
 

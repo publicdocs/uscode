@@ -51,7 +51,7 @@
 
         No provision of this Act or any other Federal law shall be construed as superseding or affecting a State law which was in effect before November 12, 1999, and which prohibits title insurance from being offered, provided, or sold in such State, or from being underwritten with respect to real property in such State, by any person whatsoever.
 
-([Pub. L. 106–102, title III, § 303][/us/pl/106/102/s303], Nov. 12, 1999, [113 Stat. 1408][/us/stat/113/1408].)
+([Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 303, Nov. 12, 1999, [113 Stat. 1408][/us/stat/113/1408].)
 
  __References in Text__ 
 
@@ -66,7 +66,7 @@
 
 [/us/usc/t15/s6701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6701
 [/us/usc/t12/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1841
-[/us/pl/106/102/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs303
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1408
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/stat/113/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1338

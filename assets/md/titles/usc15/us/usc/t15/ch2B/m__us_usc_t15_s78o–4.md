@@ -233,7 +233,7 @@
 
         (10) the term “obligated person” means any person, including an issuer of municipal securities, who is either generally or through an enterprise, fund, or account of such person, committed by contract or other arrangement to support the payment of all or part of the obligations on the municipal securities to be sold in an offering of municipal securities.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 15B, as added [Pub. L. 94–29, § 13][/us/pl/94/29/s13], June 4, 1975, [89 Stat. 131][/us/stat/89/131]; amended [Pub. L. 98–38, § 4][/us/pl/98/38/s4], June 6, 1983, [97 Stat. 207][/us/stat/97/207]; [Pub. L. 100–181, title III][/us/pl/100/181], §§ 318–320, Dec. 4, 1987, [101 Stat. 1256][/us/stat/101/1256], 1257; [Pub. L. 101–429, title II, § 205][/us/pl/101/429/s205], Oct. 15, 1990, [104 Stat. 941][/us/stat/104/941]; [Pub. L. 101–550, title II, § 203(c)(1)][/us/pl/101/550/s203/c/1], Nov. 15, 1990, [104 Stat. 2718][/us/stat/104/2718]; [Pub. L. 105–353, title III, § 301(b)(9)][/us/pl/105/353/s301/b/9], Nov. 3, 1998, [112 Stat. 3236][/us/stat/112/3236]; [Pub. L. 107–204, title VI, § 604(c)(1)(B)][/us/pl/107/204/s604/c/1/B], July 30, 2002, [116 Stat. 796][/us/stat/116/796]; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 925(a)(2), 929F(a), 975(a)–(e), July 21, 2010, [124 Stat. 1850][/us/stat/124/1850], 1853, 1915–1921.)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 15B, as added [Pub. L. 94–29][/us/pl/94/29], § 13, June 4, 1975, [89 Stat. 131][/us/stat/89/131]; amended [Pub. L. 98–38][/us/pl/98/38], § 4, June 6, 1983, [97 Stat. 207][/us/stat/97/207]; [Pub. L. 100–181, title III][/us/pl/100/181/tIII], §§ 318–320, Dec. 4, 1987, [101 Stat. 1256][/us/stat/101/1256], 1257; [Pub. L. 101–429, title II][/us/pl/101/429/tII], § 205, Oct. 15, 1990, [104 Stat. 941][/us/stat/104/941]; [Pub. L. 101–550, title II][/us/pl/101/550/tII], § 203(c)(1), Nov. 15, 1990, [104 Stat. 2718][/us/stat/104/2718]; [Pub. L. 105–353, title III][/us/pl/105/353/tIII], § 301(b)(9), Nov. 3, 1998, [112 Stat. 3236][/us/stat/112/3236]; [Pub. L. 107–204, title VI][/us/pl/107/204/tVI], § 604(c)(1)(B), July 30, 2002, [116 Stat. 796][/us/stat/116/796]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], §§ 925(a)(2), 929F(a), 975(a)–(e), July 21, 2010, [124 Stat. 1850][/us/stat/124/1850], 1853, 1915–1921.)
 
  __References in Text__ 
 
@@ -247,67 +247,67 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a)(1). [Pub. L. 111–203, § 975(a)(1)][/us/pl/111/203/s975/a/1], designated existing provisions as subpar. (A) and added subpar. (B).
+    2010—Subsec. (a)(1). [Pub. L. 111–203][/us/pl/111/203], § 975(a)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-    Subsec. (a)(2), (3). [Pub. L. 111–203, § 975(a)(2)][/us/pl/111/203/s975/a/2], (3), inserted “or municipal advisor” after “municipal securities dealer” wherever appearing.
+    Subsec. (a)(2), (3). [Pub. L. 111–203][/us/pl/111/203], § 975(a)(2), (3), inserted “or municipal advisor” after “municipal securities dealer” wherever appearing.
 
-    Subsec. (a)(4). [Pub. L. 111–203, § 975(a)(4)][/us/pl/111/203/s975/a/4], substituted “dealer, municipal securities dealer, or municipal advisor, or class of brokers, dealers, municipal securities dealers, or municipal advisors” for “dealer, or municipal securities dealer or class of brokers, dealers, or municipal securities dealers”.
+    Subsec. (a)(4). [Pub. L. 111–203][/us/pl/111/203], § 975(a)(4), substituted “dealer, municipal securities dealer, or municipal advisor, or class of brokers, dealers, municipal securities dealers, or municipal advisors” for “dealer, or municipal securities dealer or class of brokers, dealers, or municipal securities dealers”.
 
-    Subsec. (a)(5). [Pub. L. 111–203, § 975(a)(5)][/us/pl/111/203/s975/a/5], added par. (5).
+    Subsec. (a)(5). [Pub. L. 111–203][/us/pl/111/203], § 975(a)(5), added par. (5).
 
-    Subsec. (b)(1). [Pub. L. 111–203, § 975(b)(1)(C)][/us/pl/111/203/s975/b/1/C], which directed amendment of third sentence by striking out “initial”, was executed in fourth sentence by striking out “initial” after “office of the” and after “such”, to reflect the probable intent of Congress.
+    Subsec. (b)(1). [Pub. L. 111–203][/us/pl/111/203], § 975(b)(1)(C), which directed amendment of third sentence by striking out “initial”, was executed in fourth sentence by striking out “initial” after “office of the” and after “such”, to reflect the probable intent of Congress.
 
-    [Pub. L. 111–203, § 975(b)(1)(B)][/us/pl/111/203/s975/b/1/B], added second and third sentences and struck out former second sentence which read as follows: “The initial members of the Board shall serve as members for a term of two years, and shall consist of (A) five individuals who are not associated with any broker, dealer, or municipal securities dealer (other than by reason of being under common control with, or indirectly controlling, any broker or dealer which is not a municipal securities broker or municipal securities dealer), at least one of whom shall be representative of investors in municipal securities, and at least one of whom shall be representative of issuers of municipal securities (which members are hereinafter referred to as ‘public representatives’); (B) five individuals who are associated with and representative of municipal securities brokers and municipal securities dealers which are not banks or subsidiaries or departments or divisions of banks (which members are hereinafter referred to as ‘broker-dealer representatives’); and (C) five individuals who are associated with and representative of municipal securities dealers which are banks or subsidiaries or departments or divisions of banks (which members are hereinafter referred to as ‘bank representatives’).”
+    [Pub. L. 111–203][/us/pl/111/203], § 975(b)(1)(B), added second and third sentences and struck out former second sentence which read as follows: “The initial members of the Board shall serve as members for a term of two years, and shall consist of (A) five individuals who are not associated with any broker, dealer, or municipal securities dealer (other than by reason of being under common control with, or indirectly controlling, any broker or dealer which is not a municipal securities broker or municipal securities dealer), at least one of whom shall be representative of investors in municipal securities, and at least one of whom shall be representative of issuers of municipal securities (which members are hereinafter referred to as ‘public representatives’); (B) five individuals who are associated with and representative of municipal securities brokers and municipal securities dealers which are not banks or subsidiaries or departments or divisions of banks (which members are hereinafter referred to as ‘broker-dealer representatives’); and (C) five individuals who are associated with and representative of municipal securities dealers which are banks or subsidiaries or departments or divisions of banks (which members are hereinafter referred to as ‘bank representatives’).”
 
-    [Pub. L. 111–203, § 975(b)(1)(A)][/us/pl/111/203/s975/b/1/A], in first sentence, substituted “The Municipal Securities Rulemaking Board shall be composed of 15 members, or such other number of members as specified by rules of the Board pursuant to paragraph (2)(B),” for “Not later than one hundred twenty days after June 4, 1975, the Commission shall establish a Municipal Securities Rulemaking Board (hereinafter in this section referred to as the ‘Board’), to be composed initially of fifteen members appointed by the Commission”.
+    [Pub. L. 111–203][/us/pl/111/203], § 975(b)(1)(A), in first sentence, substituted “The Municipal Securities Rulemaking Board shall be composed of 15 members, or such other number of members as specified by rules of the Board pursuant to paragraph (2)(B),” for “Not later than one hundred twenty days after June 4, 1975, the Commission shall establish a Municipal Securities Rulemaking Board (hereinafter in this section referred to as the ‘Board’), to be composed initially of fifteen members appointed by the Commission”.
 
-    Subsec. (b)(2). [Pub. L. 111–203, § 975(b)(2)(A)][/us/pl/111/203/s975/b/2/A], in introductory provisions, inserted “and advice provided to or on behalf of municipal entities or obligated persons by brokers, dealers, municipal securities dealers, and municipal advisors with respect to municipal financial products, the issuance of municipal securities, and solicitations of municipal entities or obligated persons undertaken by brokers, dealers, municipal securities dealers, and municipal advisors” before period at end of first sentence and struck out “(Such rules are hereinafter collectively referred to in this chapter as ‘rules of the Board’.)” before “The rules”.
+    Subsec. (b)(2). [Pub. L. 111–203][/us/pl/111/203], § 975(b)(2)(A), in introductory provisions, inserted “and advice provided to or on behalf of municipal entities or obligated persons by brokers, dealers, municipal securities dealers, and municipal advisors with respect to municipal financial products, the issuance of municipal securities, and solicitations of municipal entities or obligated persons undertaken by brokers, dealers, municipal securities dealers, and municipal advisors” before period at end of first sentence and struck out “(Such rules are hereinafter collectively referred to in this chapter as ‘rules of the Board’.)” before “The rules”.
 
-    Subsec. (b)(2)(A). [Pub. L. 111–203, § 975(b)(2)(B)][/us/pl/111/203/s975/b/2/B], in introductory provisions, inserted “, and no broker, dealer, municipal securities dealer, or municipal advisor shall provide advice to or on behalf of a municipal entity or obligated person with respect to municipal financial products or the issuance of municipal securities,” after “sale of, any municipal security” and “and municipal entities or obligated persons” after “protection of investors”, in cl. (i), substituted “municipal securities brokers, municipal securities dealers, and municipal advisors” for “municipal securities brokers and municipal securities dealers” in two places, in cl. (ii), inserted “and” at end, in cl. (iii), substituted period for “; and” at end, and struck out cl. (iv) which read as follows: “provide that persons in any such class other than municipal securities brokers and municipal securities dealers and partners, officers, and supervisory employees of municipal securities brokers or municipal securities dealers, may be qualified solely on the basis of compliance with such standards of training and such other qualifications as the Board finds appropriate.”
+    Subsec. (b)(2)(A). [Pub. L. 111–203][/us/pl/111/203], § 975(b)(2)(B), in introductory provisions, inserted “, and no broker, dealer, municipal securities dealer, or municipal advisor shall provide advice to or on behalf of a municipal entity or obligated person with respect to municipal financial products or the issuance of municipal securities,” after “sale of, any municipal security” and “and municipal entities or obligated persons” after “protection of investors”, in cl. (i), substituted “municipal securities brokers, municipal securities dealers, and municipal advisors” for “municipal securities brokers and municipal securities dealers” in two places, in cl. (ii), inserted “and” at end, in cl. (iii), substituted period for “; and” at end, and struck out cl. (iv) which read as follows: “provide that persons in any such class other than municipal securities brokers and municipal securities dealers and partners, officers, and supervisory employees of municipal securities brokers or municipal securities dealers, may be qualified solely on the basis of compliance with such standards of training and such other qualifications as the Board finds appropriate.”
 
-    Subsec. (b)(2)(B). [Pub. L. 111–203, § 975(b)(2)(C)][/us/pl/111/203/s975/b/2/C], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “establish fair procedures for the nomination and election of members of the Board and assure fair representation in such nominations and elections of municipal securities brokers and municipal securities dealers. Such rules shall provide that the membership of the Board shall at all times be equally divided among public representatives, broker-dealer representatives, and bank representatives, and that the public representatives shall be subject to approval by the Commission to assure that no one of them is associated with any broker, dealer, or municipal securities dealer (other than by reason of being under common control with, or indirectly controlling, any broker or dealer which is not a municipal securities broker or municipal securities dealer) and that at least one is representative of investors in municipal securities and at least one is representative of issuers of municipal securities. Such rules shall also specify the term members shall serve and may increase the number of members which shall constitute the whole Board provided that such number is an odd number.”
+    Subsec. (b)(2)(B). [Pub. L. 111–203][/us/pl/111/203], § 975(b)(2)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “establish fair procedures for the nomination and election of members of the Board and assure fair representation in such nominations and elections of municipal securities brokers and municipal securities dealers. Such rules shall provide that the membership of the Board shall at all times be equally divided among public representatives, broker-dealer representatives, and bank representatives, and that the public representatives shall be subject to approval by the Commission to assure that no one of them is associated with any broker, dealer, or municipal securities dealer (other than by reason of being under common control with, or indirectly controlling, any broker or dealer which is not a municipal securities broker or municipal securities dealer) and that at least one is representative of investors in municipal securities and at least one is representative of issuers of municipal securities. Such rules shall also specify the term members shall serve and may increase the number of members which shall constitute the whole Board provided that such number is an odd number.”
 
-    Subsec. (b)(2)(C). [Pub. L. 111–203, § 975(b)(2)(D)][/us/pl/111/203/s975/b/2/D], inserted “and municipal financial products” after “municipal securities” the first two places appearing and “, municipal entities, obligated persons,” after “to protect investors” and substituted “among customers, municipal entities, obligated persons, municipal securities brokers, municipal securities dealers, or municipal advisors,” for “between customers, issuers, municipal securities brokers, or municipal securities dealers,” and “brokers, municipal securities dealers, or municipal advisors, to regulate” for “brokers or municipal securities dealers, to regulate”.
+    Subsec. (b)(2)(C). [Pub. L. 111–203][/us/pl/111/203], § 975(b)(2)(D), inserted “and municipal financial products” after “municipal securities” the first two places appearing and “, municipal entities, obligated persons,” after “to protect investors” and substituted “among customers, municipal entities, obligated persons, municipal securities brokers, municipal securities dealers, or municipal advisors,” for “between customers, issuers, municipal securities brokers, or municipal securities dealers,” and “brokers, municipal securities dealers, or municipal advisors, to regulate” for “brokers or municipal securities dealers, to regulate”.
 
-    Subsec. (b)(2)(D). [Pub. L. 111–203, § 975(b)(2)(E)][/us/pl/111/203/s975/b/2/E], inserted “and advice concerning municipal financial products” after “transactions in municipal securities” and “municipal advisor,” before “or person associated” and substituted “that no” for “That no” and “a municipal securities broker, municipal securities dealer, or municipal advisor may be compelled” for “a municipal securities broker or municipal securities dealer may be compelled”.
+    Subsec. (b)(2)(D). [Pub. L. 111–203][/us/pl/111/203], § 975(b)(2)(E), inserted “and advice concerning municipal financial products” after “transactions in municipal securities” and “municipal advisor,” before “or person associated” and substituted “that no” for “That no” and “a municipal securities broker, municipal securities dealer, or municipal advisor may be compelled” for “a municipal securities broker or municipal securities dealer may be compelled”.
 
-    Subsec. (b)(2)(E). [Pub. L. 111–203, § 975(b)(2)(F)][/us/pl/111/203/s975/b/2/F], substituted “municipal securities brokers, municipal securities dealers, and municipal advisors” for “municipal securities brokers and municipal securities dealers” and “municipal securities broker, municipal securities dealer, or municipal advisor” for “municipal securities broker or municipal securities dealer”.
+    Subsec. (b)(2)(E). [Pub. L. 111–203][/us/pl/111/203], § 975(b)(2)(F), substituted “municipal securities brokers, municipal securities dealers, and municipal advisors” for “municipal securities brokers and municipal securities dealers” and “municipal securities broker, municipal securities dealer, or municipal advisor” for “municipal securities broker or municipal securities dealer”.
 
-    Subsec. (b)(2)(G). [Pub. L. 111–203, § 975(b)(2)(G)][/us/pl/111/203/s975/b/2/G], substituted “municipal securities brokers, municipal securities dealers, and municipal advisors” for “municipal securities brokers and municipal securities dealers”.
+    Subsec. (b)(2)(G). [Pub. L. 111–203][/us/pl/111/203], § 975(b)(2)(G), substituted “municipal securities brokers, municipal securities dealers, and municipal advisors” for “municipal securities brokers and municipal securities dealers”.
 
-    Subsec. (b)(2)(J). [Pub. L. 111–203, § 975(b)(2)(H)][/us/pl/111/203/s975/b/2/H], substituted “each municipal securities broker, municipal securities dealer, and municipal advisor” for “each municipal securities broker and each municipal securities dealer” and inserted “, which may include charges for failure to submit to the Board, or to any information system operated by the Board, within the prescribed timeframes, any items of information or documents required to be submitted under any rule issued by the Board” after “such fees and charges”.
+    Subsec. (b)(2)(J). [Pub. L. 111–203][/us/pl/111/203], § 975(b)(2)(H), substituted “each municipal securities broker, municipal securities dealer, and municipal advisor” for “each municipal securities broker and each municipal securities dealer” and inserted “, which may include charges for failure to submit to the Board, or to any information system operated by the Board, within the prescribed timeframes, any items of information or documents required to be submitted under any rule issued by the Board” after “such fees and charges”.
 
-    Subsec. (b)(2)(K). [Pub. L. 111–203, § 975(b)(2)(I)][/us/pl/111/203/s975/b/2/I], substituted “a related account of a broker, dealer, or municipal securities dealer” for “a municipal securities investment portfolio” and substituted “any broker, dealer, or municipal securities dealer” for “any municipal securities dealer” in two places.
+    Subsec. (b)(2)(K). [Pub. L. 111–203][/us/pl/111/203], § 975(b)(2)(I), substituted “a related account of a broker, dealer, or municipal securities dealer” for “a municipal securities investment portfolio” and substituted “any broker, dealer, or municipal securities dealer” for “any municipal securities dealer” in two places.
 
-    Subsec. (b)(2)(L). [Pub. L. 111–203, § 975(b)(2)(J)][/us/pl/111/203/s975/b/2/J], added subpar. (L).
+    Subsec. (b)(2)(L). [Pub. L. 111–203][/us/pl/111/203], § 975(b)(2)(J), added subpar. (L).
 
-    Subsec. (b)(3) to (5), (7). [Pub. L. 111–203, § 975(b)(3)][/us/pl/111/203/s975/b/3], (4), added pars. (3) to (5) and redesignated former par. (3) as (7).
+    Subsec. (b)(3) to (5), (7). [Pub. L. 111–203][/us/pl/111/203], § 975(b)(3), (4), added pars. (3) to (5) and redesignated former par. (3) as (7).
 
-    Subsec. (c)(1). [Pub. L. 111–203, § 975(c)(1)][/us/pl/111/203/s975/c/1], (2), inserted “, and no broker, dealer, municipal securities dealer, or municipal advisor shall make use of the mails or any means or instrumentality of interstate commerce to provide advice to or on behalf of a municipal entity or obligated person with respect to municipal financial products, the issuance of municipal securities, or to undertake a solicitation of a municipal entity or obligated person,” after “any municipal security” and inserted at end “A municipal advisor and any person associated with such municipal advisor shall be deemed to have a fiduciary duty to any municipal entity for whom such municipal advisor acts as a municipal advisor, and no municipal advisor may engage in any act, practice, or course of business which is not consistent with a municipal advisor’s fiduciary duty or that is in contravention of any rule of the Board.”
+    Subsec. (c)(1). [Pub. L. 111–203][/us/pl/111/203], § 975(c)(1), (2), inserted “, and no broker, dealer, municipal securities dealer, or municipal advisor shall make use of the mails or any means or instrumentality of interstate commerce to provide advice to or on behalf of a municipal entity or obligated person with respect to municipal financial products, the issuance of municipal securities, or to undertake a solicitation of a municipal entity or obligated person,” after “any municipal security” and inserted at end “A municipal advisor and any person associated with such municipal advisor shall be deemed to have a fiduciary duty to any municipal entity for whom such municipal advisor acts as a municipal advisor, and no municipal advisor may engage in any act, practice, or course of business which is not consistent with a municipal advisor’s fiduciary duty or that is in contravention of any rule of the Board.”
 
-    Subsec. (c)(2). [Pub. L. 111–203, § 975(c)(3)][/us/pl/111/203/s975/c/3], inserted “or municipal advisor” after “municipal securities dealer” in two places.
+    Subsec. (c)(2). [Pub. L. 111–203][/us/pl/111/203], § 975(c)(3), inserted “or municipal advisor” after “municipal securities dealer” in two places.
 
-    Subsec. (c)(3). [Pub. L. 111–203, § 975(c)(4)][/us/pl/111/203/s975/c/4], inserted “or municipal entities or obligated person” after “protection of investors” in two places and “or municipal advisor” after “municipal securities dealer” wherever appearing.
+    Subsec. (c)(3). [Pub. L. 111–203][/us/pl/111/203], § 975(c)(4), inserted “or municipal entities or obligated person” after “protection of investors” in two places and “or municipal advisor” after “municipal securities dealer” wherever appearing.
 
-    Subsec. (c)(4). [Pub. L. 111–203, § 975(c)(5)][/us/pl/111/203/s975/c/5], which directed amendment of par. (4) by inserting “or municipal advisor” after “municipal securities dealer or obligated person” each place that term appears, could not be executed because such term does not appear.
+    Subsec. (c)(4). [Pub. L. 111–203][/us/pl/111/203], § 975(c)(5), which directed amendment of par. (4) by inserting “or municipal advisor” after “municipal securities dealer or obligated person” each place that term appears, could not be executed because such term does not appear.
 
-    [Pub. L. 111–203, § 925(a)(2)][/us/pl/111/203/s925/a/2], substituted “12 months or bar any such person from being associated with a broker, dealer, investment adviser, municipal securities dealer, municipal advisor, transfer agent, or nationally recognized statistical rating organization,” for “twelve months or bar any such person from being associated with a municipal securities dealer,”.
+    [Pub. L. 111–203][/us/pl/111/203], § 925(a)(2), substituted “12 months or bar any such person from being associated with a broker, dealer, investment adviser, municipal securities dealer, municipal advisor, transfer agent, or nationally recognized statistical rating organization,” for “twelve months or bar any such person from being associated with a municipal securities dealer,”.
 
-    Subsec. (c)(6)(B). [Pub. L. 111–203, § 975(c)(6)][/us/pl/111/203/s975/c/6], inserted “or municipal entities or obligated person” after “protection of investors”.
+    Subsec. (c)(6)(B). [Pub. L. 111–203][/us/pl/111/203], § 975(c)(6), inserted “or municipal entities or obligated person” after “protection of investors”.
 
-    Subsec. (c)(7)(A)(iii). [Pub. L. 111–203, § 975(c)(7)(A)][/us/pl/111/203/s975/c/7/A], added cl. (iii).
+    Subsec. (c)(7)(A)(iii). [Pub. L. 111–203][/us/pl/111/203], § 975(c)(7)(A), added cl. (iii).
 
-    Subsec. (c)(7)(B). [Pub. L. 111–203, § 975(c)(7)(B)][/us/pl/111/203/s975/c/7/B], inserted “or municipal entities or obligated person” after “protection of investors”.
+    Subsec. (c)(7)(B). [Pub. L. 111–203][/us/pl/111/203], § 975(c)(7)(B), inserted “or municipal entities or obligated person” after “protection of investors”.
 
-    Subsec. (c)(8). [Pub. L. 111–203, § 929F(a)][/us/pl/111/203/s929F/a], substituted “any person who is, or at the time of the alleged violation or abuse was, a member or employee” for “any member or employee”.
+    Subsec. (c)(8). [Pub. L. 111–203][/us/pl/111/203], § 929F(a), substituted “any person who is, or at the time of the alleged violation or abuse was, a member or employee” for “any member or employee”.
 
-    Subsec. (c)(9). [Pub. L. 111–203, § 975(c)(8)][/us/pl/111/203/s975/c/8], added par. (9).
+    Subsec. (c)(9). [Pub. L. 111–203][/us/pl/111/203], § 975(c)(8), added par. (9).
 
-    Subsec. (d)(2). [Pub. L. 111–203, § 975(d)(2)][/us/pl/111/203/s975/d/2], which directed amendment of par. (2) by inserting “or municipal advisors” before “to furnish”, was executed by making the insertion before “to furnish” the second place appearing, to reflect the probable intent of Congress.
+    Subsec. (d)(2). [Pub. L. 111–203][/us/pl/111/203], § 975(d)(2), which directed amendment of par. (2) by inserting “or municipal advisors” before “to furnish”, was executed by making the insertion before “to furnish” the second place appearing, to reflect the probable intent of Congress.
 
-    [Pub. L. 111–203, § 975(d)(1)][/us/pl/111/203/s975/d/1], substituted “through a municipal securities broker, municipal securities dealer, municipal advisor, or otherwise” for “through a municipal securities broker or municipal securities dealer or otherwise”.
+    [Pub. L. 111–203][/us/pl/111/203], § 975(d)(1), substituted “through a municipal securities broker, municipal securities dealer, municipal advisor, or otherwise” for “through a municipal securities broker or municipal securities dealer or otherwise”.
 
-    Subsec. (e). [Pub. L. 111–203, § 975(e)][/us/pl/111/203/s975/e], added subsec. (e).
+    Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 975(e), added subsec. (e).
 
     2002—Subsec. (c)(2), (4). [Pub. L. 107–204][/us/pl/107/204] substituted “, or is subject to an order or finding,” for “or omission” and “(H), or (G)” for “or (G)”.
 
@@ -317,15 +317,15 @@
 
     Subsec. (c)(6)(A). [Pub. L. 101–429][/us/pl/101/429] substituted “, the nature” for “and the nature” and “proposed action, and whether the Commission is seeking a monetary penalty against such municipal securities dealer or such associated person pursuant to [section 78u–2 of this title][/us/usc/t15/s78u–2]; and” for “proposed action and”.
 
-    1987—Subsec. (b)(2)(C). [Pub. L. 100–181, § 318][/us/pl/100/181/s318], substituted “municipal securities dealers, to regulate” for “municipal security dealers, to regulate” “purposes of this chapter” for “purposes of this chapter or the securities”, and “burden on competition” for “burden or competition”.
+    1987—Subsec. (b)(2)(C). [Pub. L. 100–181][/us/pl/100/181], § 318, substituted “municipal securities dealers, to regulate” for “municipal security dealers, to regulate” “purposes of this chapter” for “purposes of this chapter or the securities”, and “burden on competition” for “burden or competition”.
 
-    Subsec. (c)(4). [Pub. L. 100–181, § 319][/us/pl/100/181/s319], substituted new first sentence for former first sentence which read as follows: “The Commission, by order, shall censure any person associated, or seeking to become associated with, a municipal securities dealer or suspend for a period not exceeding twelve months or bar any such person from being associated with a municipal securities dealer, if the Commission finds, on the record after notice and opportunity for hearing, that such censure, suspension, or bar is in the public interest and that such person has committed or omitted any act or omission enumerated in subparagraph (A), (D), or (E) of paragraph (4) of section 78o(b) of this title, has been convicted of any offense specified in subparagraph (B) of such paragraph (4) within ten years of the commencement of the proceedings under this paragraph, or is enjoined from any action, conduct, or practice specified in subparagraph (C) of such paragraph (4).”
+    Subsec. (c)(4). [Pub. L. 100–181][/us/pl/100/181], § 319, substituted new first sentence for former first sentence which read as follows: “The Commission, by order, shall censure any person associated, or seeking to become associated with, a municipal securities dealer or suspend for a period not exceeding twelve months or bar any such person from being associated with a municipal securities dealer, if the Commission finds, on the record after notice and opportunity for hearing, that such censure, suspension, or bar is in the public interest and that such person has committed or omitted any act or omission enumerated in subparagraph (A), (D), or (E) of paragraph (4) of section 78o(b) of this title, has been convicted of any offense specified in subparagraph (B) of such paragraph (4) within ten years of the commencement of the proceedings under this paragraph, or is enjoined from any action, conduct, or practice specified in subparagraph (C) of such paragraph (4).”
 
-    Subsec. (c)(6)(A). [Pub. L. 100–181, § 320][/us/pl/100/181/s320], substituted “Board” for “board”.
+    Subsec. (c)(6)(A). [Pub. L. 100–181][/us/pl/100/181], § 320, substituted “Board” for “board”.
 
-    1983—Subsec. (b)(1)(A). [Pub. L. 98–38, § 4(a)][/us/pl/98/38/s4/a], inserted “(other than by reason of being under common control with, or indirectly controlling, any broker or dealer which is not a municipal securities broker or municipal securities dealer)” after “securities dealer”.
+    1983—Subsec. (b)(1)(A). [Pub. L. 98–38][/us/pl/98/38], § 4(a), inserted “(other than by reason of being under common control with, or indirectly controlling, any broker or dealer which is not a municipal securities broker or municipal securities dealer)” after “securities dealer”.
 
-    Subsec. (b)(2)(B). [Pub. L. 98–38, § 4(b)][/us/pl/98/38/s4/b], inserted “(other than by reason of being under common control with, or indirectly controlling, any broker or dealer which is not a municipal securities broker or municipal securities dealer)” after “broker, dealer, or municipal securities dealer”.
+    Subsec. (b)(2)(B). [Pub. L. 98–38][/us/pl/98/38], § 4(b), inserted “(other than by reason of being under common control with, or indirectly controlling, any broker or dealer which is not a municipal securities broker or municipal securities dealer)” after “broker, dealer, or municipal securities dealer”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -362,21 +362,21 @@
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
 [/us/usc/t15/s80b–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%932
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/94/29/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs13
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F131
-[/us/pl/98/38/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F38%2Fs4
+[/us/pl/98/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F38
 [/us/stat/97/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F207
-[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtIII
 [/us/stat/101/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1256
-[/us/pl/101/429/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2Fs205
+[/us/pl/101/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2FtII
 [/us/stat/104/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F941
-[/us/pl/101/550/s203/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs203%2Fc%2F1
+[/us/pl/101/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtII
 [/us/stat/104/2718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2718
-[/us/pl/105/353/s301/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fb%2F9
+[/us/pl/105/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtIII
 [/us/stat/112/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3236
-[/us/pl/107/204/s604/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs604%2Fc%2F1%2FB
+[/us/pl/107/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtVI
 [/us/stat/116/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F796
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1850
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
@@ -385,47 +385,47 @@
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
-[/us/pl/111/203/s975/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fa%2F1
-[/us/pl/111/203/s975/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fa%2F2
-[/us/pl/111/203/s975/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fa%2F4
-[/us/pl/111/203/s975/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fa%2F5
-[/us/pl/111/203/s975/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fb%2F1%2FC
-[/us/pl/111/203/s975/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fb%2F1%2FB
-[/us/pl/111/203/s975/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fb%2F1%2FA
-[/us/pl/111/203/s975/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fb%2F2%2FA
-[/us/pl/111/203/s975/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fb%2F2%2FB
-[/us/pl/111/203/s975/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fb%2F2%2FC
-[/us/pl/111/203/s975/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fb%2F2%2FD
-[/us/pl/111/203/s975/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fb%2F2%2FE
-[/us/pl/111/203/s975/b/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fb%2F2%2FF
-[/us/pl/111/203/s975/b/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fb%2F2%2FG
-[/us/pl/111/203/s975/b/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fb%2F2%2FH
-[/us/pl/111/203/s975/b/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fb%2F2%2FI
-[/us/pl/111/203/s975/b/2/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fb%2F2%2FJ
-[/us/pl/111/203/s975/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fb%2F3
-[/us/pl/111/203/s975/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fc%2F1
-[/us/pl/111/203/s975/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fc%2F3
-[/us/pl/111/203/s975/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fc%2F4
-[/us/pl/111/203/s975/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fc%2F5
-[/us/pl/111/203/s925/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs925%2Fa%2F2
-[/us/pl/111/203/s975/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fc%2F6
-[/us/pl/111/203/s975/c/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fc%2F7%2FA
-[/us/pl/111/203/s975/c/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fc%2F7%2FB
-[/us/pl/111/203/s929F/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929F%2Fa
-[/us/pl/111/203/s975/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fc%2F8
-[/us/pl/111/203/s975/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fd%2F2
-[/us/pl/111/203/s975/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fd%2F1
-[/us/pl/111/203/s975/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fe
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
 [/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
 [/us/pl/101/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429
 [/us/usc/t15/s78u–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78u%E2%80%932
-[/us/pl/100/181/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs318
-[/us/pl/100/181/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs319
-[/us/pl/100/181/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs320
-[/us/pl/98/38/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F38%2Fs4%2Fa
-[/us/pl/98/38/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F38%2Fs4%2Fb
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/98/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F38
+[/us/pl/98/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F38
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

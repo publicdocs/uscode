@@ -17,7 +17,7 @@
 
     For purposes of this subchapter, the term “intellectual property enforcement” means matters relating to the enforcement of laws protecting copyrights, patents, trademarks, other forms of intellectual property, and trade secrets, both in the United States and abroad, including in particular matters relating to combating counterfeit and infringing goods.
 
-([Pub. L. 110–403, title III, § 302][/us/pl/110/403/s302], Oct. 13, 2008, [122 Stat. 4266][/us/stat/122/4266].)
+([Pub. L. 110–403, title III][/us/pl/110/403/tIII], § 302, Oct. 13, 2008, [122 Stat. 4266][/us/stat/122/4266].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/110/403/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2Fs302
+[/us/pl/110/403/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403%2FtIII
 [/us/stat/122/4266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4266
 [/us/pl/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F403
 [/us/stat/122/4264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4264

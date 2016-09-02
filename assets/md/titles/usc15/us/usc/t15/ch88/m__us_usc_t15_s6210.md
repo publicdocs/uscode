@@ -31,7 +31,7 @@
 
     (7) describing any significant problems or concerns of which the Attorney General is aware with respect to the operation of this chapter.
 
-([Pub. L. 103–438, § 11][/us/pl/103/438/s11], Nov. 2, 1994, [108 Stat. 4602][/us/stat/108/4602].)
+([Pub. L. 103–438][/us/pl/103/438], § 11, Nov. 2, 1994, [108 Stat. 4602][/us/stat/108/4602].)
 
 ----------
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t15/s6202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6202
 [/us/usc/t15/s6203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6203
-[/us/pl/103/438/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438%2Fs11
+[/us/pl/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438
 [/us/stat/108/4602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4602
 
 

@@ -149,35 +149,35 @@
 
         The Commission shall grant, in whole or in part, or deny any petition under [section 553(e) of title 5][/us/usc/t5/s553/e] requesting the Commission to initiate a rulemaking, within a reasonable time after the date on which such petition is filed. The Commission shall state the reasons for granting or denying such petition. The Commission may not deny any such petition on the basis of a voluntary standard unless the voluntary standard is in existence at the time of the denial of the petition, the Commission has determined that the voluntary standard is likely to result in the elimination or adequate reduction of the risk of injury identified in the petition, and it is likely that there will be substantial compliance with the standard.
 
-([Pub. L. 86–613, § 3][/us/pl/86/613/s3], July 12, 1960, [74 Stat. 374][/us/stat/74/374]; [Pub. L. 89–756, § 2(d)][/us/pl/89/756/s2/d], (e), Nov. 3, 1966, [80 Stat. 1303][/us/stat/80/1303], 1304; [Pub. L. 91–113, § 2(b)][/us/pl/91/113/s2/b], Nov. 6, 1969, [83 Stat. 187][/us/stat/83/187]; [Pub. L. 97–35, title XII, § 1203(b)(1)][/us/pl/97/35/s1203/b/1], Aug. 13, 1981, [95 Stat. 708][/us/stat/95/708]; [Pub. L. 101–608, title I][/us/pl/101/608], §§ 107(b), 108(b), 110(b), Nov. 16, 1990, [104 Stat. 3112][/us/stat/104/3112], 3113; [Pub. L. 110–314, title II, § 204(b)(1)][/us/pl/110/314/s204/b/1], (3), (4)(B), (D), Aug. 14, 2008, [122 Stat. 3041][/us/stat/122/3041], 3042.)
+([Pub. L. 86–613][/us/pl/86/613], § 3, July 12, 1960, [74 Stat. 374][/us/stat/74/374]; [Pub. L. 89–756][/us/pl/89/756], § 2(d), (e), Nov. 3, 1966, [80 Stat. 1303][/us/stat/80/1303], 1304; [Pub. L. 91–113][/us/pl/91/113], § 2(b), Nov. 6, 1969, [83 Stat. 187][/us/stat/83/187]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1203(b)(1), Aug. 13, 1981, [95 Stat. 708][/us/stat/95/708]; [Pub. L. 101–608, title I][/us/pl/101/608/tI], §§ 107(b), 108(b), 110(b), Nov. 16, 1990, [104 Stat. 3112][/us/stat/104/3112], 3113; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 204(b)(1), (3), (4)(B), (D), Aug. 14, 2008, [122 Stat. 3041][/us/stat/122/3041], 3042.)
 
  __Amendments__ 
 
-    2008—Subsec. (a). [Pub. L. 110–314, § 204(b)(1)][/us/pl/110/314/s204/b/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized the Commission to declare hazardous substances by regulation and detailed proceedings for the issuance, amendment, or repeal of such regulations.
+    2008—Subsec. (a). [Pub. L. 110–314][/us/pl/110/314], § 204(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized the Commission to declare hazardous substances by regulation and detailed proceedings for the issuance, amendment, or repeal of such regulations.
 
-    Subsecs. (b) to (e). [Pub. L. 110–314, § 204(b)(4)(D)][/us/pl/110/314/s204/b/4/D], substituted “it” for “he” and “its” for “his” wherever appearing in reference to the Secretary of Health, Education, and Welfare.
+    Subsecs. (b) to (e). [Pub. L. 110–314][/us/pl/110/314], § 204(b)(4)(D), substituted “it” for “he” and “its” for “his” wherever appearing in reference to the Secretary of Health, Education, and Welfare.
 
-    [Pub. L. 110–314, § 204(b)(4)(B)][/us/pl/110/314/s204/b/4/B], substituted “Commission” for “Secretary” wherever appearing.
+    [Pub. L. 110–314][/us/pl/110/314], § 204(b)(4)(B), substituted “Commission” for “Secretary” wherever appearing.
 
-    Subsec. (f). [Pub. L. 110–314, § 204(b)(3)(A)][/us/pl/110/314/s204/b/3/A], substituted “may be commenced” for “shall be commenced” in introductory provisions.
+    Subsec. (f). [Pub. L. 110–314][/us/pl/110/314], § 204(b)(3)(A), substituted “may be commenced” for “shall be commenced” in introductory provisions.
 
-    Subsec. (g)(1). [Pub. L. 110–314, § 204(b)(3)(B)][/us/pl/110/314/s204/b/3/B], substituted “identified in a notice” for “identified in the notice”.
+    Subsec. (g)(1). [Pub. L. 110–314][/us/pl/110/314], § 204(b)(3)(B), substituted “identified in a notice” for “identified in the notice”.
 
-    Subsec. (h). [Pub. L. 110–314, § 204(b)(3)(C)][/us/pl/110/314/s204/b/3/C], (D), in introductory provisions, substituted “unless the” for “unless, not less than 60 days after publication of the notice required in subsection (f) of this section, the” and in concluding provisions, substituted “appropriate Congressional committees. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed regulation.” for “Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.”
+    Subsec. (h). [Pub. L. 110–314][/us/pl/110/314], § 204(b)(3)(C), (D), in introductory provisions, substituted “unless the” for “unless, not less than 60 days after publication of the notice required in subsection (f) of this section, the” and in concluding provisions, substituted “appropriate Congressional committees. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed regulation.” for “Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.”
 
-    1990—Subsec. (g)(2). [Pub. L. 101–608, § 108(b)][/us/pl/101/608/s108/b], struck out period at end and inserted “, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.”
+    1990—Subsec. (g)(2). [Pub. L. 101–608][/us/pl/101/608], § 108(b), struck out period at end and inserted “, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.”
 
-    Subsec. (g)(3). [Pub. L. 101–608, § 107(b)][/us/pl/101/608/s107/b], added par. (3).
+    Subsec. (g)(3). [Pub. L. 101–608][/us/pl/101/608], § 107(b), added par. (3).
 
-    Subsec. (j). [Pub. L. 101–608, § 110(b)][/us/pl/101/608/s110/b], added subsec. (j).
+    Subsec. (j). [Pub. L. 101–608][/us/pl/101/608], § 110(b), added subsec. (j).
 
     1981—Subsecs. (f) to (i). [Pub. L. 97–35][/us/pl/97/35] added subsecs. (f) to (i).
 
     1969—Subsec. (e). [Pub. L. 91–113][/us/pl/91/113] added subsec. (e).
 
-    1966—Subsec. (b). [Pub. L. 89–756, § 2(d)][/us/pl/89/756/s2/d], substituted “any such hazardous substance intended, or packaged in a form suitable, for use in the household or by children, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded hazardous substance” for “any container of such hazardous substance, intended or suitable for household use, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded package of a hazardous substance”.
+    1966—Subsec. (b). [Pub. L. 89–756][/us/pl/89/756], § 2(d), substituted “any such hazardous substance intended, or packaged in a form suitable, for use in the household or by children, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded hazardous substance” for “any container of such hazardous substance, intended or suitable for household use, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded package of a hazardous substance”.
 
-    Subsec. (d). [Pub. L. 89–756, § 2(e)][/us/pl/89/756/s2/e], inserted “hazardous substance or” before “container of a hazardous substance”.
+    Subsec. (d). [Pub. L. 89–756][/us/pl/89/756], § 2(e), inserted “hazardous substance or” before “container of a hazardous substance”.
 
  __Change of Name__ 
 
@@ -220,31 +220,31 @@
 [/us/usc/t15/s1261/q/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1261%2Fq%2F1
 [/us/usc/t15/s1261/q/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1261%2Fq%2F1
 [/us/usc/t5/s553/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553%2Fe
-[/us/pl/86/613/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs3
+[/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/stat/74/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F374
-[/us/pl/89/756/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756%2Fs2%2Fd
+[/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
 [/us/stat/80/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1303
-[/us/pl/91/113/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113%2Fs2%2Fb
+[/us/pl/91/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113
 [/us/stat/83/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F187
-[/us/pl/97/35/s1203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1203%2Fb%2F1
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F708
-[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
+[/us/pl/101/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2FtI
 [/us/stat/104/3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3112
-[/us/pl/110/314/s204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F1
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3041
-[/us/pl/110/314/s204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F1
-[/us/pl/110/314/s204/b/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FD
-[/us/pl/110/314/s204/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F4%2FB
-[/us/pl/110/314/s204/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F3%2FA
-[/us/pl/110/314/s204/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F3%2FB
-[/us/pl/110/314/s204/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fb%2F3%2FC
-[/us/pl/101/608/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs108%2Fb
-[/us/pl/101/608/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs107%2Fb
-[/us/pl/101/608/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs110%2Fb
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
+[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
+[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/91/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F113
-[/us/pl/89/756/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756%2Fs2%2Fd
-[/us/pl/89/756/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756%2Fs2%2Fe
+[/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
+[/us/pl/89/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F756
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

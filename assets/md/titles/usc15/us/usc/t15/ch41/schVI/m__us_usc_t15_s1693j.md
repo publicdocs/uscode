@@ -17,7 +17,7 @@
 
     If a system malfunction prevents the effectuation of an electronic fund transfer initiated by a consumer to another person, and such other person has agreed to accept payment by such means, the consumer’s obligation to the other person shall be suspended until the malfunction is corrected and the electronic fund transfer may be completed, unless such other person has subsequently, by written request, demanded payment by means other than an electronic fund transfer.
 
-([Pub. L. 90–321, title IX, § 912][/us/pl/90/321/s912], as added [Pub. L. 95–630, title XX, § 2001][/us/pl/95/630/s2001], Nov. 10, 1978, [92 Stat. 3737][/us/stat/92/3737].)
+([Pub. L. 90–321, title IX][/us/pl/90/321/tIX], § 912, as added [Pub. L. 95–630, title XX][/us/pl/95/630/tXX], § 2001, Nov. 10, 1978, [92 Stat. 3737][/us/stat/92/3737].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/90/321/s912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs912
-[/us/pl/95/630/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs2001
+[/us/pl/90/321/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIX
+[/us/pl/95/630/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXX
 [/us/stat/92/3737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3737
 
 

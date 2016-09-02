@@ -23,7 +23,7 @@
 
         The commencement of proceedings under subsection (a) shall not, unless specifically ordered by the court, operate as a stay of the Commission’s order.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 213, [54 Stat. 855][/us/stat/54/855]; [June 25, 1948, ch. 646, § 32(a)][/us/act/1948-06-25/ch646/s32/a], [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107]; [Pub. L. 85–791, § 26][/us/pl/85/791/s26], Aug. 28, 1958, [72 Stat. 949][/us/stat/72/949]; [Pub. L. 100–181, title VII, § 706][/us/pl/100/181/s706], Dec. 4, 1987, [101 Stat. 1264][/us/stat/101/1264]; [Pub. L. 111–203, title IX, § 985(e)(3)][/us/pl/111/203/s985/e/3], July 21, 2010, [124 Stat. 1935][/us/stat/124/1935].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 213, [54 Stat. 855][/us/stat/54/855]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 32(a), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 127, [63 Stat. 107][/us/stat/63/107]; [Pub. L. 85–791][/us/pl/85/791], § 26, Aug. 28, 1958, [72 Stat. 949][/us/stat/72/949]; [Pub. L. 100–181, title VII][/us/pl/100/181/tVII], § 706, Dec. 4, 1987, [101 Stat. 1264][/us/stat/101/1264]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 985(e)(3), July 21, 2010, [124 Stat. 1935][/us/stat/124/1935].)
 
  __Amendments__ 
 
@@ -56,15 +56,15 @@
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F855
-[/us/act/1948-06-25/ch646/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs32%2Fa
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1949-05-24/ch139/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs127
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
-[/us/pl/85/791/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs26
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/stat/72/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F949
-[/us/pl/100/181/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs706
+[/us/pl/100/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVII
 [/us/stat/101/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1264
-[/us/pl/111/203/s985/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs985%2Fe%2F3
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1935
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181

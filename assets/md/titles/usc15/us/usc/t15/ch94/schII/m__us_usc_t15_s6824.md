@@ -23,7 +23,7 @@
 
         For purposes of this section, a State statute, regulation, order, or interpretation is not inconsistent with the provisions of this subchapter if the protection such statute, regulation, order, or interpretation affords any person is greater than the protection provided under this subchapter as determined by the Federal Trade Commission, after consultation with the agency or authority with jurisdiction under [section 6822 of this title][/us/usc/t15/s6822] of either the person that initiated the complaint or that is the subject of the complaint, on its own motion or upon the petition of any interested party.
 
-([Pub. L. 106–102, title V, § 524][/us/pl/106/102/s524], Nov. 12, 1999, [113 Stat. 1448][/us/stat/113/1448].)
+([Pub. L. 106–102, title V][/us/pl/106/102/tV], § 524, Nov. 12, 1999, [113 Stat. 1448][/us/stat/113/1448].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t15/s6822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6822
-[/us/pl/106/102/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs524
+[/us/pl/106/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtV
 [/us/stat/113/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1448
 
 

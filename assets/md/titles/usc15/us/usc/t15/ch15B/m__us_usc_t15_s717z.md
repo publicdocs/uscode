@@ -91,7 +91,7 @@
 
         In applying the provisions of this section in the case of natural gas subject to a prohibition order issued under this section, the term “petroleum products” (as defined in subsection (h)(2) of this section) shall be substituted for the term “heavy petroleum fuel oil” (as defined in [section 717y(e)(7) of this title][/us/usc/t15/s717y/e/7]) if the person subject to any order under this section demonstrates to the Commission that the acquisition and use of heavy petroleum fuel oil is not technically or economically feasible.
 
-([Pub. L. 95–617, title VI, § 607][/us/pl/95/617/s607], Nov. 9, 1978, [92 Stat. 3171][/us/stat/92/3171].)
+([Pub. L. 95–617, title VI][/us/pl/95/617/tVI], § 607, Nov. 9, 1978, [92 Stat. 3171][/us/stat/92/3171].)
 
  __Codification__ 
 
@@ -116,7 +116,7 @@
 [/us/usc/t42/s7603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7603
 [/us/usc/t42/s8302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs8302
 [/us/usc/t15/s717y/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717y%2Fe%2F7
-[/us/pl/95/617/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs607
+[/us/pl/95/617/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtVI
 [/us/stat/92/3171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3171
 [/us/usc/t15/s3364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3364
 [/us/usc/t16/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2602

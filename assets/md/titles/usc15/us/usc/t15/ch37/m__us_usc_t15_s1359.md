@@ -17,7 +17,7 @@
 
     Each designated agency shall appoint an advisory council for technical services, the members of which shall represent broad community interests and shall be qualified to evaluate programs submitted under [section 1354 of this title][/us/usc/t15/s1354]. The advisory council shall review each annual program, evaluate its relation to the purposes of this chapter, and report its findings to the designated agency and the Governor or his designee. Each report of each advisory council shall be available to the Secretary on request. Members of any such advisory council shall not be compensated for serving as such, but may be reimbursed for necessary expenses incurred by them in connection with attending meetings of any advisory council of which they are members.
 
-([Pub. L. 89–182, § 9][/us/pl/89/182/s9], Sept. 14, 1965, [79 Stat. 682][/us/stat/79/682].)
+([Pub. L. 89–182][/us/pl/89/182], § 9, Sept. 14, 1965, [79 Stat. 682][/us/stat/79/682].)
 
  __Termination of Advisory Councils__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t15/s1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1354
-[/us/pl/89/182/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182%2Fs9
+[/us/pl/89/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182
 [/us/stat/79/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F682
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

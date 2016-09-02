@@ -49,11 +49,11 @@
 
             Any lessor who properly uses the material aspects of any model disclosure form established by the Bureau under this subsection shall be deemed to be in compliance with the disclosure requirements to which the form relates.
 
-([Pub. L. 90–321, title I, § 187][/us/pl/90/321/s187], as added [Pub. L. 104–208, div. A, title II, § 2605(b)(1)][/us/pl/104/208/s2605/b/1], Sept. 30, 1996, [110 Stat. 3009–471][/us/stat/110/3009-471]; amended [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], (10), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2109.)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 187, as added [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2605(b)(1), Sept. 30, 1996, [110 Stat. 3009–471][/us/stat/110/3009-471]; amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), (10), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2109.)
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], (10), substituted “Bureau” for “Board”, “the Bureau” for “the Board”, and “The Bureau” for “The Board ” wherever appearing.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1100A(2), (10), substituted “Bureau” for “Board”, “the Bureau” for “the Board”, and “The Bureau” for “The Board ” wherever appearing.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -61,7 +61,7 @@
 
  __Effective Date__ 
 
-[Section 2605(b)(2) of div. A of Pub. L. 104–208][/us/pl/104/208/s2605/b/2] provided that:
+[Section 2605(b)(2) of div. A of Pub. L. 104–208][/us/pl/104/208/dA/s2605/b/2] provided that:
 
 >     “(A)  __In general__  __.—__ 
 
@@ -85,7 +85,7 @@
 
  __Congressional Findings and Declaration of Purposes__ 
 
-[Section 2605(a) of div. A of Pub. L. 104–208][/us/pl/104/208/s2605/a] provided that:
+[Section 2605(a) of div. A of Pub. L. 104–208][/us/pl/104/208/dA/s2605/a] provided that:
 
 >     “(1)  __Findings__  __.—__ 
 
@@ -122,18 +122,18 @@
 ----------
 ----------
 
-[/us/pl/90/321/s187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs187
-[/us/pl/104/208/s2605/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2605%2Fb%2F1
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-471
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/104/208/s2605/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2605%2Fb%2F2
+[/us/pl/104/208/dA/s2605/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2Fs2605%2Fb%2F2
 [/us/usc/t15/s1667f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1667f
 [/us/usc/t15/s1667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1667
-[/us/pl/104/208/s2605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2605%2Fa
+[/us/pl/104/208/dA/s2605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2Fs2605%2Fa
 
 

@@ -17,7 +17,7 @@
 
     All brokers and dealers for whom registration was in effect on May 27, 1936, in accordance with rules and regulations of the Commission prescribed pursuant to section 78o of this title shall be deemed to be registered pursuant to said section.
 
-([May 27, 1936, ch. 462, § 10][/us/act/1936-05-27/ch462/s10], [49 Stat. 1380][/us/stat/49/1380].)
+([May 27, 1936, ch. 462][/us/act/1936-05-27/ch462], § 10, [49 Stat. 1380][/us/stat/49/1380].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1936-05-27/ch462/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch462%2Fs10
+[/us/act/1936-05-27/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-05-27%2Fch462
 [/us/stat/49/1380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1380
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t15/s78d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d

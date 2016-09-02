@@ -21,7 +21,7 @@
 
     (2) to facilitate economic development in the State, all project sponsors should negotiate in good faith with any willing Alaskan person that desires to be involved in the project.
 
-([Pub. L. 108–324, div. C, § 115][/us/pl/108/324/s115], Oct. 13, 2004, [118 Stat. 1265][/us/stat/118/1265].)
+([Pub. L. 108–324, div. C][/us/pl/108/324/dC], § 115, Oct. 13, 2004, [118 Stat. 1265][/us/stat/118/1265].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/108/324/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs115
+[/us/pl/108/324/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2FdC
 [/us/stat/118/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1265
 
 

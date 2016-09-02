@@ -59,17 +59,17 @@
 
             (B) the person interviewed is the best possible source of the information.
 
-([Pub. L. 90–321, title VI, § 606][/us/pl/90/321/s606], as added [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1130][/us/stat/84/1130]; amended [Pub. L. 104–208, div. A, title II][/us/pl/104/208], §§ 2408(d)(2), 2414, Sept. 30, 1996, [110 Stat. 3009–438][/us/stat/110/3009-438], 3009–449.)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 606, as added [Pub. L. 91–508, title VI][/us/pl/91/508/tVI], § 601, Oct. 26, 1970, [84 Stat. 1130][/us/stat/84/1130]; amended [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], §§ 2408(d)(2), 2414, Sept. 30, 1996, [110 Stat. 3009–438][/us/stat/110/3009-438], 3009–449.)
 
  __Amendments__ 
 
     1996—Subsec. (a)(1)(B). [Pub. L. 104–208][/us/pl/104/208], §§ 2408(d)(2), 2414(1), inserted “and the written summary of the rights of the consumer prepared pursuant to [section 1681g(c) of this title][/us/usc/t15/s1681g/c]” before the semicolon and substituted “and” for “or” at end.
 
-    Subsec. (a)(2). [Pub. L. 104–208, § 2414(2)][/us/pl/104/208/s2414/2], added par. (2) and struck out former par. (2) which read as follows: “the report is to be used for employment purposes for which the consumer has not specifically applied.”
+    Subsec. (a)(2). [Pub. L. 104–208][/us/pl/104/208], § 2414(2), added par. (2) and struck out former par. (2) which read as follows: “the report is to be used for employment purposes for which the consumer has not specifically applied.”
 
-    Subsec. (b). [Pub. L. 104–208, § 2414(3)][/us/pl/104/208/s2414/3], substituted “, make a complete” for “, shall make a complete”.
+    Subsec. (b). [Pub. L. 104–208][/us/pl/104/208], § 2414(3), substituted “, make a complete” for “, shall make a complete”.
 
-    Subsec. (d). [Pub. L. 104–208, § 2414(4)][/us/pl/104/208/s2414/4], added subsec. (d).
+    Subsec. (d). [Pub. L. 104–208][/us/pl/104/208], § 2414(4), added subsec. (d).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -84,16 +84,16 @@
 
 [/us/usc/t15/s1681g/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681g%2Fc
 [/us/usc/t15/s1681k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681k
-[/us/pl/90/321/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs606
-[/us/pl/91/508/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs601
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/91/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtVI
 [/us/stat/84/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1130
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-438
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t15/s1681g/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681g%2Fc
-[/us/pl/104/208/s2414/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2414%2F2
-[/us/pl/104/208/s2414/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2414%2F3
-[/us/pl/104/208/s2414/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2414%2F4
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2420
 [/us/usc/t15/s1681a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a

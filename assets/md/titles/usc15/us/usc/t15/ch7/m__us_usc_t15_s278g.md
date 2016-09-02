@@ -31,7 +31,7 @@
 
         For any scientific and engineering disciplines for which there is a shortage of suitably qualified and available United States citizens and nationals, the Secretary is authorized to recruit and employ in scientific and engineering fields at the Institute foreign nationals who have been lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act \[[8 U.S.C. 1101][/us/usc/t8/s1101] et seq.\] and who intend to become United States citizens. Employment of a person under this paragraph shall not be subject to the provisions of title 5 governing employment in the competitive service, or to any prohibition in any other Act against the employment of aliens, or against the payment of compensation to them.
 
-([Mar. 3, 1901, ch. 872, § 17][/us/act/1901-03-03/ch872/s17], as added [Pub. L. 96–461, § 9][/us/pl/96/461/s9], Oct. 15, 1980, [94 Stat. 2051][/us/stat/94/2051]; amended [Pub. L. 100–418, title V, § 5115(a)(1)][/us/pl/100/418/s5115/a/1], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 102–245, title I, § 104(h)(2)][/us/pl/102/245/s104/h/2], Feb. 14, 1992, [106 Stat. 11][/us/stat/106/11].)
+([Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 17, as added [Pub. L. 96–461][/us/pl/96/461], § 9, Oct. 15, 1980, [94 Stat. 2051][/us/stat/94/2051]; amended [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(a)(1), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 102–245, title I][/us/pl/102/245/tI], § 104(h)(2), Feb. 14, 1992, [106 Stat. 11][/us/stat/106/11].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 278g, [act Mar. 3, 1901, ch. 872, § 17][/us/act/1901-03-03/ch872/s17], as added Mar. 1, 1968, [Pub. L. 90–259, title I, § 102][/us/pl/90/259/s102], [82 Stat. 35][/us/stat/82/35], related to grants to States, local governments, other non-Federal public agencies, and non-profit institutions, reimbursement of Federal agencies, delegation of powers, advance of public moneys, cooperation of Federal agencies, and issuance of rules and regulations, prior to repeal by [Pub. L. 93–498, § 18][/us/pl/93/498/s18], Oct. 29, 1974, [88 Stat. 1545][/us/stat/88/1545].
+    A prior section 278g, [act Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 17, as added Mar. 1, 1968, [Pub. L. 90–259, title I][/us/pl/90/259/tI], § 102, [82 Stat. 35][/us/stat/82/35], related to grants to States, local governments, other non-Federal public agencies, and non-profit institutions, reimbursement of Federal agencies, delegation of powers, advance of public moneys, cooperation of Federal agencies, and issuance of rules and regulations, prior to repeal by [Pub. L. 93–498][/us/pl/93/498], § 18, Oct. 29, 1974, [88 Stat. 1545][/us/stat/88/1545].
 
  __Amendments__ 
 
@@ -49,13 +49,13 @@
 
  __Effective Date__ 
 
-[Pub. L. 96–461, § 11][/us/pl/96/461/s11], Oct. 15, 1980, [94 Stat. 2052][/us/stat/94/2052], provided that: 
+[Pub. L. 96–461][/us/pl/96/461], § 11, Oct. 15, 1980, [94 Stat. 2052][/us/stat/94/2052], provided that: 
 
 > “The effective date of sections 8 and 9 of this Act \[enacting this section, amending [section 278d of this title][/us/usc/t15/s278d], and enacting provisions set out below\] shall be October 1, 1980.”
 
  __Congressional Declaration of Purpose__ 
 
-    [Pub. L. 96–461, § 9][/us/pl/96/461/s9], Oct. 15, 1980, [94 Stat. 2051][/us/stat/94/2051], as amended by [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433], provided in part that this section was enacted “\[i\]n order to develop and strengthen the expertise of the National Institute of Standards and Technology in science and engineering, to enhance the Secretary’s ability to maintain the Institute’s programs at the forefront of worldwide developments in science and engineering, and to cooperate in international scientific activities”.
+    [Pub. L. 96–461][/us/pl/96/461], § 9, Oct. 15, 1980, [94 Stat. 2051][/us/stat/94/2051], as amended by [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433], provided in part that this section was enacted “\[i\]n order to develop and strengthen the expertise of the National Institute of Standards and Technology in science and engineering, to enhance the Secretary’s ability to maintain the Institute’s programs at the forefront of worldwide developments in science and engineering, and to cooperate in international scientific activities”.
 
 ----------
 
@@ -67,29 +67,29 @@
 [/us/usc/t5/s7342/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7342%2Fa
 [/us/usc/t5/s7342/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7342%2Fh
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/act/1901-03-03/ch872/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs17
-[/us/pl/96/461/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F461%2Fs9
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
+[/us/pl/96/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F461
 [/us/stat/94/2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2051
-[/us/pl/100/418/s5115/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fa%2F1
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
-[/us/pl/102/245/s104/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs104%2Fh%2F2
+[/us/pl/102/245/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtI
 [/us/stat/106/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F11
 [/us/act/1952-06-27/ch477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-06-27%2Fch477
 [/us/stat/66/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F163
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
-[/us/act/1901-03-03/ch872/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs17
-[/us/pl/90/259/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F259%2Fs102
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
+[/us/pl/90/259/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F259%2FtI
 [/us/stat/82/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F35
-[/us/pl/93/498/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs18
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1545
 [/us/pl/102/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
-[/us/pl/96/461/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F461%2Fs11
+[/us/pl/96/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F461
 [/us/stat/94/2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2052
 [/us/usc/t15/s278d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs278d
-[/us/pl/96/461/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F461%2Fs9
+[/us/pl/96/461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F461
 [/us/stat/94/2051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2051
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
 
 

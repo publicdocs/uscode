@@ -129,7 +129,7 @@
 
         (2) $2,000,000 for fiscal year 2006.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[32\], as added [Pub. L. 106–50, title II, § 201(b)(2)][/us/pl/106/50/s201/b/2], Aug. 17, 1999, [113 Stat. 235][/us/stat/113/235]; amended [Pub. L. 108–447, div. K, title I, § 145][/us/pl/108/447/s145], Dec. 8, 2004, [118 Stat. 3455][/us/stat/118/3455]; [Pub. L. 110–186, title I][/us/pl/110/186], §§ 102, 104, Feb. 14, 2008, [122 Stat. 624][/us/stat/122/624], 625.)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[32\], as added [Pub. L. 106–50, title II][/us/pl/106/50/tII], § 201(b)(2), Aug. 17, 1999, [113 Stat. 235][/us/stat/113/235]; amended [Pub. L. 108–447, div. K, title I][/us/pl/108/447/dK/tI], § 145, Dec. 8, 2004, [118 Stat. 3455][/us/stat/118/3455]; [Pub. L. 110–186, title I][/us/pl/110/186/tI], §§ 102, 104, Feb. 14, 2008, [122 Stat. 624][/us/stat/122/624], 625.)
 
  __Prior Provisions__ 
 
@@ -137,17 +137,17 @@
 
  __Amendments__ 
 
-    2008—Subsec. (c). [Pub. L. 110–186, § 102(2)][/us/pl/110/186/s102/2], added subsec. (c). Former subsec. (c) redesignated (f).
+    2008—Subsec. (c). [Pub. L. 110–186][/us/pl/110/186], § 102(2), added subsec. (c). Former subsec. (c) redesignated (f).
 
-    Subsecs. (d), (e). [Pub. L. 110–186, § 104][/us/pl/110/186/s104], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 110–186][/us/pl/110/186], § 104, added subsecs. (d) and (e).
 
-    Subsec. (f). [Pub. L. 110–186, § 102(1)][/us/pl/110/186/s102/1], redesignated subsec. (c) as (f).
+    Subsec. (f). [Pub. L. 110–186][/us/pl/110/186], § 102(1), redesignated subsec. (c) as (f).
 
     2004—Subsec. (c). [Pub. L. 108–447][/us/pl/108/447] added subsec. (c).
 
  __Congressional Findings__ 
 
-[Pub. L. 106–50, title I, § 101][/us/pl/106/50/s101], Aug. 17, 1999, [113 Stat. 234][/us/stat/113/234], provided that: 
+[Pub. L. 106–50, title I][/us/pl/106/50/tI], § 101, Aug. 17, 1999, [113 Stat. 234][/us/stat/113/234], provided that: 
 
 > “Congress finds the following:
 
@@ -163,7 +163,7 @@
 
  __Congressional Purpose__ 
 
-[Pub. L. 106–50, title I, § 102][/us/pl/106/50/s102], Aug. 17, 1999, [113 Stat. 234][/us/stat/113/234], provided that: 
+[Pub. L. 106–50, title I][/us/pl/106/50/tI], § 102, Aug. 17, 1999, [113 Stat. 234][/us/stat/113/234], provided that: 
 
 > “The purpose of this Act \[see Short Title of 1999 Amendments note set out under [section 631 of this title][/us/usc/t15/s631]\] is to expand existing and establish new assistance programs for veterans who own or operate small businesses. This Act accomplishes this purpose by—
 
@@ -175,7 +175,7 @@
 
  __Advisory Committee on Veterans Business Affairs__ 
 
-[Pub. L. 106–50, title II, § 203][/us/pl/106/50/s203], Aug. 17, 1999, [113 Stat. 239][/us/stat/113/239], as amended by [Pub. L. 108–447, div. K, title I, § 143(b)][/us/pl/108/447/s143/b], Dec. 8, 2004, [118 Stat. 3455][/us/stat/118/3455]; [Pub. L. 110–186, title I, § 103(b)][/us/pl/110/186/s103/b], Feb. 14, 2008, [122 Stat. 625][/us/stat/122/625]; [Pub. L. 112–239, div. A, title XVI, § 1699(c)(3)][/us/pl/112/239/s1699/c/3], Jan. 2, 2013, [126 Stat. 2092][/us/stat/126/2092], provided that:
+[Pub. L. 106–50, title II][/us/pl/106/50/tII], § 203, Aug. 17, 1999, [113 Stat. 239][/us/stat/113/239], as amended by [Pub. L. 108–447, div. K, title I][/us/pl/108/447/dK/tI], § 143(b), Dec. 8, 2004, [118 Stat. 3455][/us/stat/118/3455]; [Pub. L. 110–186, title I][/us/pl/110/186/tI], § 103(b), Feb. 14, 2008, [122 Stat. 625][/us/stat/122/625]; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1699(c)(3), Jan. 2, 2013, [126 Stat. 2092][/us/stat/126/2092], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -315,7 +315,7 @@
 
  __SCORE Program__ 
 
-[Pub. L. 106–50, title III, § 301][/us/pl/106/50/s301], Aug. 17, 1999, [113 Stat. 242][/us/stat/113/242], provided that:
+[Pub. L. 106–50, title III][/us/pl/106/50/tIII], § 301, Aug. 17, 1999, [113 Stat. 242][/us/stat/113/242], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -333,7 +333,7 @@
 
  __Entrepreneurial Assistance__ 
 
-[Pub. L. 106–50, title III, § 302][/us/pl/106/50/s302], Aug. 17, 1999, [113 Stat. 242][/us/stat/113/242], provided that: 
+[Pub. L. 106–50, title III][/us/pl/106/50/tIII], § 302, Aug. 17, 1999, [113 Stat. 242][/us/stat/113/242], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[Aug. 17, 1999\], the Secretary of Veterans Affairs, the Administrator of the Small Business Administration, and the head of the association formed pursuant to section 21(a)(3)(A) of the Small Business Act ([15 U.S.C. 648(a)(3)(A)][/us/usc/t15/s648/a/3/A]) shall enter into a memorandum of understanding with respect to entrepreneurial assistance to veterans, including service-disabled veterans, through Small Business Development Centers (described in section 21 of the Small Business Act ([15 U.S.C. 648][/us/usc/t15/s648])) and facilities of the Department of Veterans Affairs. Such assistance shall include the following:
 
@@ -353,7 +353,7 @@
 
  __Annual Report of Administrator__ 
 
-[Pub. L. 106–50, title VI, § 603][/us/pl/106/50/s603], Aug. 17, 1999, [113 Stat. 248][/us/stat/113/248], provided that: 
+[Pub. L. 106–50, title VI][/us/pl/106/50/tVI], § 603, Aug. 17, 1999, [113 Stat. 248][/us/stat/113/248], provided that: 
 
 > “The Administrator of the Small Business Administration shall transmit annually to the Committees on Small Business and Veterans Affairs of the House of Representatives and the Senate \[Committee on Small Business of Senate now Committee on Small Business and Entrepreneurship of Senate\] a report on the needs of small business concerns owned and controlled by veterans and small business concerns owned and controlled by service-disabled veterans, which shall include information on—
 
@@ -365,7 +365,7 @@
 
  __Data and Information Collection__ 
 
-[Pub. L. 106–50, title VI, § 604][/us/pl/106/50/s604], Aug. 17, 1999, [113 Stat. 249][/us/stat/113/249], provided that:
+[Pub. L. 106–50, title VI][/us/pl/106/50/tVI], § 604, Aug. 17, 1999, [113 Stat. 249][/us/stat/113/249], provided that:
 
 >     “(a)  __Information on Federal Procurement Practices__  __.—__ 
 
@@ -459,7 +459,7 @@ Sec. 3. Functions. Consistent with the Act and other applicable law, the Task Fo
 
  __Definitions__ 
 
-[Pub. L. 106–50, title I, § 103(b)][/us/pl/106/50/s103/b], Aug. 17, 1999, [113 Stat. 235][/us/stat/113/235], provided that: 
+[Pub. L. 106–50, title I][/us/pl/106/50/tI], § 103(b), Aug. 17, 1999, [113 Stat. 235][/us/stat/113/235], provided that: 
 
 > “In this Act \[see Short Title of 1999 Amendments note set out under [section 631 of this title][/us/usc/t15/s631]\], the definitions contained in section 3(q) of the Small Business Act \[[15 U.S.C. 632(q)][/us/usc/t15/s632/q]\], as added by this section, apply.”
 
@@ -471,50 +471,50 @@ Sec. 3. Functions. Consistent with the Act and other applicable law, the Task Fo
 ----------
 
 [/us/usc/t15/s633/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs633%2Fb%2F1
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
-[/us/pl/106/50/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2Fs201%2Fb%2F2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
+[/us/pl/106/50/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2FtII
 [/us/stat/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F235
-[/us/pl/108/447/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs145
+[/us/pl/108/447/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdK%2FtI
 [/us/stat/118/3455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3455
-[/us/pl/110/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F186
+[/us/pl/110/186/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F186%2FtI
 [/us/stat/122/624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F624
 [/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/110/186/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F186%2Fs102%2F2
-[/us/pl/110/186/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F186%2Fs104
-[/us/pl/110/186/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F186%2Fs102%2F1
+[/us/pl/110/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F186
+[/us/pl/110/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F186
+[/us/pl/110/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F186
 [/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
-[/us/pl/106/50/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2Fs101
+[/us/pl/106/50/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2FtI
 [/us/stat/113/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F234
-[/us/pl/106/50/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2Fs102
+[/us/pl/106/50/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2FtI
 [/us/stat/113/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F234
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/106/50/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2Fs203
+[/us/pl/106/50/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2FtII
 [/us/stat/113/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F239
-[/us/pl/108/447/s143/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs143%2Fb
+[/us/pl/108/447/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdK%2FtI
 [/us/stat/118/3455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3455
-[/us/pl/110/186/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F186%2Fs103%2Fb
+[/us/pl/110/186/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F186%2FtI
 [/us/stat/122/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F625
-[/us/pl/112/239/s1699/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1699%2Fc%2F3
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2092
 [/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/106/50/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2Fs301
+[/us/pl/106/50/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2FtIII
 [/us/stat/113/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F242
 [/us/usc/t15/s637/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fb%2F1%2FB
 [/us/usc/t15/s633/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs633%2Fb%2F2%2FB
-[/us/pl/106/50/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2Fs302
+[/us/pl/106/50/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2FtIII
 [/us/stat/113/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F242
 [/us/usc/t15/s648/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648%2Fa%2F3%2FA
 [/us/usc/t15/s648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648
-[/us/pl/106/50/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2Fs603
+[/us/pl/106/50/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2FtVI
 [/us/stat/113/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F248
-[/us/pl/106/50/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2Fs604
+[/us/pl/106/50/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2FtVI
 [/us/stat/113/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F249
 [/us/usc/t41/s405/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs405%2Fd%2F4%2FA
 [/us/usc/t41/s1122/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1122%2Fa%2F4%2FA
 [/us/pl/110/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F186
-[/us/pl/106/50/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2Fs103%2Fb
+[/us/pl/106/50/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2FtI
 [/us/stat/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F235
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/usc/t15/s632/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fq

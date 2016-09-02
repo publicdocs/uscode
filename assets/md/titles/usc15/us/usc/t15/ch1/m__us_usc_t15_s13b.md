@@ -17,7 +17,7 @@
 
     Nothing in this Act shall prevent a cooperative association from returning to its members, producers, or consumers the whole, or any part of, the net earnings or surplus resulting from its trading operations, in proportion to their purchases or sales from, to, or through the association.
 
-([June 19, 1936, ch. 592, § 4][/us/act/1936-06-19/ch592/s4], [49 Stat. 1528][/us/stat/49/1528].)
+([June 19, 1936, ch. 592][/us/act/1936-06-19/ch592], § 4, [49 Stat. 1528][/us/stat/49/1528].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1936-06-19/ch592/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-19%2Fch592%2Fs4
+[/us/act/1936-06-19/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-19%2Fch592
 [/us/stat/49/1528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1528
 [/us/act/1936-06-19/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-19%2Fch592
 [/us/stat/49/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1526

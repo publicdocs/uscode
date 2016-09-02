@@ -35,7 +35,7 @@
 
         The provisions of subsections (a) and (c) of this section apply only to warranties which pertain to consumer products actually costing the consumer more than $10 and which are not designated “full (statement of duration) warranties”.
 
-([Pub. L. 93–637, title I, § 103][/us/pl/93/637/s103], Jan. 4, 1975, [88 Stat. 2187][/us/stat/88/2187].)
+([Pub. L. 93–637, title I][/us/pl/93/637/tI], § 103, Jan. 4, 1975, [88 Stat. 2187][/us/stat/88/2187].)
 
 ----------
 
@@ -47,7 +47,7 @@
 [/us/usc/t15/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2304
 [/us/usc/t15/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2304
 [/us/usc/t15/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2302
-[/us/pl/93/637/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs103
+[/us/pl/93/637/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2FtI
 [/us/stat/88/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2187
 
 

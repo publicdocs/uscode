@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t15/ch60/schV/m__us_usc_t15_s3412.md) | [Next](./../../../../..//us/usc/t15/ch60/schV/m__us_usc_t15_s3414.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3413)
 
-## § 3413. Repealed. [Pub. L. 101–60, § 3(b)(5)][/us/pl/101/60/s3/b/5], July 26, 1989, [103 Stat. 159][/us/stat/103/159]
+## § 3413. Repealed. [Pub. L. 101–60][/us/pl/101/60], § 3(b)(5), July 26, 1989, [103 Stat. 159][/us/stat/103/159]
 
-    Section, [Pub. L. 95–621, title V, § 503][/us/pl/95/621/s503], Nov. 9, 1978, [92 Stat. 3397][/us/stat/92/3397], related to various determinations to be made by State or Federal agencies for qualifying under certain categories of natural gas.
+    Section, [Pub. L. 95–621, title V][/us/pl/95/621/tV], § 503, Nov. 9, 1978, [92 Stat. 3397][/us/stat/92/3397], related to various determinations to be made by State or Federal agencies for qualifying under certain categories of natural gas.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/101/60/s3/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fb%2F5
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
 [/us/stat/103/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F159
-[/us/pl/95/621/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs503
+[/us/pl/95/621/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2FtV
 [/us/stat/92/3397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3397
 [/us/pl/101/60/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fb
 [/us/usc/t15/s3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3372

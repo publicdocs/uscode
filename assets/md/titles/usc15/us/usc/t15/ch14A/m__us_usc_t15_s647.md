@@ -27,11 +27,11 @@
 
         (2) “credit elsewhere” means the availability of sufficient credit from non-Federal sources at reasonable rates and terms, taking into consideration prevailing private rates and terms in the community in or near where the concern transacts business for similar purposes and periods of time.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[18\], July 18, 1958, [72 Stat. 396][/us/stat/72/396]; [Pub. L. 93–386, § 5][/us/pl/93/386/s5], Aug. 23, 1974, [88 Stat. 746][/us/stat/88/746]; [Pub. L. 94–305, title I, § 112(e)][/us/pl/94/305/s112/e], June 4, 1976, [90 Stat. 667][/us/stat/90/667]; [Pub. L. 96–38, title I, § 101(c)][/us/pl/96/38/s101/c], July 25, 1979, [93 Stat. 119][/us/stat/93/119]; [Pub. L. 96–302, title I, § 119(c)][/us/pl/96/302/s119/c], July 2, 1980, [94 Stat. 841][/us/stat/94/841]; [Pub. L. 98–270, title III, § 303][/us/pl/98/270/s303], Apr. 18, 1984, [98 Stat. 160][/us/stat/98/160]; [Pub. L. 98–369, div. B, title IV, § 2401][/us/pl/98/369/s2401], July 18, 1984, [98 Stat. 1116][/us/stat/98/1116]; [Pub. L. 99–272, title XVIII, § 18006(a)(3)][/us/pl/99/272/s18006/a/3], Apr. 7, 1986, [100 Stat. 366][/us/stat/100/366].)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[18\], July 18, 1958, [72 Stat. 396][/us/stat/72/396]; [Pub. L. 93–386][/us/pl/93/386], § 5, Aug. 23, 1974, [88 Stat. 746][/us/stat/88/746]; [Pub. L. 94–305, title I][/us/pl/94/305/tI], § 112(e), June 4, 1976, [90 Stat. 667][/us/stat/90/667]; [Pub. L. 96–38, title I][/us/pl/96/38/tI], § 101(c), July 25, 1979, [93 Stat. 119][/us/stat/93/119]; [Pub. L. 96–302, title I][/us/pl/96/302/tI], § 119(c), July 2, 1980, [94 Stat. 841][/us/stat/94/841]; [Pub. L. 98–270, title III][/us/pl/98/270/tIII], § 303, Apr. 18, 1984, [98 Stat. 160][/us/stat/98/160]; [Pub. L. 98–369, div. B, title IV][/us/pl/98/369/dB/tIV], § 2401, July 18, 1984, [98 Stat. 1116][/us/stat/98/1116]; [Pub. L. 99–272, title XVIII][/us/pl/99/272/tXVIII], § 18006(a)(3), Apr. 7, 1986, [100 Stat. 366][/us/stat/100/366].)
 
  __Prior Provisions__ 
 
-    Prior similar provisions were contained in section 225, of [act July 30, 1953, ch. 282][/us/act/1953-07-30/ch282], as added by [act Aug. 9, 1955, ch. 628, § 14][/us/act/1955-08-09/ch628/s14], [69 Stat. 551][/us/stat/69/551], which was previously classified to [section 651 of this title][/us/usc/t15/s651]. The provisions of section 218 of act July 30, 1953, formerly classified to this section, were transferred to section 2\[12\] of [Pub. L. 85–536][/us/pl/85/536], and are classified to [section 641 of this title][/us/usc/t15/s641]. See Codification note set out under [section 631 of this title][/us/usc/t15/s631].
+    Prior similar provisions were contained in section 225, of [act July 30, 1953, ch. 282][/us/act/1953-07-30/ch282], as added by [act Aug. 9, 1955, ch. 628][/us/act/1955-08-09/ch628], § 14, [69 Stat. 551][/us/stat/69/551], which was previously classified to [section 651 of this title][/us/usc/t15/s651]. The provisions of section 218 of act July 30, 1953, formerly classified to this section, were transferred to section 2\[12\] of [Pub. L. 85–536][/us/pl/85/536], and are classified to [section 641 of this title][/us/usc/t15/s641]. See Codification note set out under [section 631 of this title][/us/usc/t15/s631].
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 
     [Pub. L. 98–270][/us/pl/98/270] substituted “October 1, 1986” for “October 1, 1983”.
 
-    1980—Subsec. (a). [Pub. L. 96–302, § 119(c)(1)][/us/pl/96/302/s119/c/1], inserted proviso relating to eligibility for loan assistance prior to October 1, 1983.
+    1980—Subsec. (a). [Pub. L. 96–302][/us/pl/96/302], § 119(c)(1), inserted proviso relating to eligibility for loan assistance prior to October 1, 1983.
 
-    Subsec. (b). [Pub. L. 96–302, § 119(c)(2)][/us/pl/96/302/s119/c/2], added par. (1) and designated as par. (2) existing definition of “credit elsewhere”.
+    Subsec. (b). [Pub. L. 96–302][/us/pl/96/302], § 119(c)(2), added par. (1) and designated as par. (2) existing definition of “credit elsewhere”.
 
     1979—[Pub. L. 96–38][/us/pl/96/38] designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -61,7 +61,7 @@
 
  __Programs Administered by the Department of Commerce__ 
 
-[Pub. L. 95–507, § 207][/us/pl/95/507/s207], Oct. 24, 1978, [92 Stat. 1767][/us/stat/92/1767], provided that: 
+[Pub. L. 95–507][/us/pl/95/507], § 207, Oct. 24, 1978, [92 Stat. 1767][/us/stat/92/1767], provided that: 
 
 > “Nothing in this chapter \[meaning chapter 1 of title II of [Pub. L. 95–507][/us/pl/95/507], consisting of sections 201–206 of [Pub. L. 95–507][/us/pl/95/507] which amended sections 631, 633, 636, and 637 of this title\] is intended to duplicate or limit any programs or projects administered by the Department of Commerce.”
 
@@ -72,24 +72,24 @@
 ----------
 ----------
 
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F396
-[/us/pl/93/386/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386%2Fs5
+[/us/pl/93/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386
 [/us/stat/88/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F746
-[/us/pl/94/305/s112/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2Fs112%2Fe
+[/us/pl/94/305/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305%2FtI
 [/us/stat/90/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F667
-[/us/pl/96/38/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38%2Fs101%2Fc
+[/us/pl/96/38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38%2FtI
 [/us/stat/93/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F119
-[/us/pl/96/302/s119/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs119%2Fc
+[/us/pl/96/302/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2FtI
 [/us/stat/94/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F841
-[/us/pl/98/270/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F270%2Fs303
+[/us/pl/98/270/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F270%2FtIII
 [/us/stat/98/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F160
-[/us/pl/98/369/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2401
+[/us/pl/98/369/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdB%2FtIV
 [/us/stat/98/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1116
-[/us/pl/99/272/s18006/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs18006%2Fa%2F3
+[/us/pl/99/272/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXVIII
 [/us/stat/100/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F366
 [/us/act/1953-07-30/ch282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-30%2Fch282
-[/us/act/1955-08-09/ch628/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch628%2Fs14
+[/us/act/1955-08-09/ch628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch628
 [/us/stat/69/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F551
 [/us/usc/t15/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs651
 [/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
@@ -99,8 +99,8 @@
 [/us/usc/t15/s636/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fb%2F1
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F270
-[/us/pl/96/302/s119/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs119%2Fc%2F1
-[/us/pl/96/302/s119/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs119%2Fc%2F2
+[/us/pl/96/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302
+[/us/pl/96/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302
 [/us/pl/96/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F38
 [/us/pl/94/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F305
 [/us/pl/93/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386
@@ -110,7 +110,7 @@
 [/us/pl/96/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302
 [/us/pl/96/302/s119/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs119%2Fd
 [/us/usc/t15/s636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636
-[/us/pl/95/507/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507%2Fs207
+[/us/pl/95/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507
 [/us/stat/92/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1767
 [/us/pl/95/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507
 [/us/pl/95/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507

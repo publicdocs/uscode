@@ -17,7 +17,7 @@
 
     The Secretary of Transportation, in furtherance of the purposes of this chapter, shall evaluate the extent to which the automobile industry utilizes advanced automotive technology which is or could be made available to it.
 
-([Pub. L. 95–238, title III, § 305][/us/pl/95/238/s305], Feb. 25, 1978, [92 Stat. 81][/us/stat/92/81]; [Pub. L. 104–66, title I, § 1121(i)][/us/pl/104/66/s1121/i], Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724].)
+([Pub. L. 95–238, title III][/us/pl/95/238/tIII], § 305, Feb. 25, 1978, [92 Stat. 81][/us/stat/92/81]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1121(i), Dec. 21, 1995, [109 Stat. 724][/us/stat/109/724].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/95/238/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs305
+[/us/pl/95/238/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtIII
 [/us/stat/92/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F81
-[/us/pl/104/66/s1121/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1121%2Fi
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F724
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 

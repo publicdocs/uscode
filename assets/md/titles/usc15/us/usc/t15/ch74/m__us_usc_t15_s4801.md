@@ -83,11 +83,11 @@
 
             (D) publish analysis in the form of periodic reports and recommendations concerning the United States business and trade policy.
 
-([Pub. L. 100–418, title V, § 5202][/us/pl/100/418/s5202], Aug. 23, 1988, [102 Stat. 1455][/us/stat/102/1455].)
+([Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5202, Aug. 23, 1988, [102 Stat. 1455][/us/stat/102/1455].)
 
  __Short Title__ 
 
-[Pub. L. 100–418, title V, § 5201][/us/pl/100/418/s5201], Aug. 23, 1988, [102 Stat. 1454][/us/stat/102/1454], provided that: 
+[Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5201, Aug. 23, 1988, [102 Stat. 1454][/us/stat/102/1454], provided that: 
 
 > “This subtitle \[subtitle C (§§ 5201–5210) of title V of [Pub. L. 100–418][/us/pl/100/418], enacting this chapter\] may be cited as the ‘Competitiveness Policy Council Act’.”
 
@@ -98,9 +98,9 @@
 ----------
 ----------
 
-[/us/pl/100/418/s5202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5202
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1455
-[/us/pl/100/418/s5201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5201
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1454
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 

@@ -11,28 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch6/schIII/m__us_usc_t15_s208.md) | [Next](./../../../../..//us/usc/t15/ch6/schV/m__us_usc_t15_ch6_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch6%2FschIV)
+[Previous](./../../../../..//us/usc/t15/ch6/schIII/m__us_usc_t15_s208.md) | [Next](./../../../../..//us/usc/t15/ch6/schIV/m__us_usc_t15_s208a...212.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch6%2FschIV)
 
 ### SUBCHAPTER IV—SCREW THREADS
 
-§§ 208a to 212. __Repealed.__  __[__  __Pub. L. 89–554, § 8(a)__  __][/us/pl/89/554/s8/a]__  __,__  __Sept. 6, 1966__  __,__  __[__  __80 Stat. 644__  __][/us/stat/80/644]__  __, 646__ 
-
-    Sections, acts [July 18, 1918, ch. 156][/us/act/1918-07-18/ch156], §§ 1–5, [40 Stat. 912][/us/stat/40/912], 913; [Mar. 3, 1919, ch. 96][/us/act/1919-03-03/ch96], [40 Stat. 1291][/us/stat/40/1291]; [Apr. 16, 1926, ch. 148][/us/act/1926-04-16/ch148], [44 Stat. 297][/us/stat/44/297], created Commission for the Standardization of Screw Threads and provided for composition of Commission, its duties, and pay.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch6/schIII/m__us_usc_t15_s208.md) | [Next](./../../../../..//us/usc/t15/ch6/schV/m__us_usc_t15_ch6_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch6%2FschIV)
+[Previous](./../../../../..//us/usc/t15/ch6/schIII/m__us_usc_t15_s208.md) | [Next](./../../../../..//us/usc/t15/ch6/schIV/m__us_usc_t15_s208a...212.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch6%2FschIV)
 
 ----------
 ----------
 
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
-[/us/stat/80/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F644
-[/us/act/1918-07-18/ch156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-07-18%2Fch156
-[/us/stat/40/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F912
-[/us/act/1919-03-03/ch96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-03-03%2Fch96
-[/us/stat/40/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1291
-[/us/act/1926-04-16/ch148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-04-16%2Fch148
-[/us/stat/44/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F297
 
 

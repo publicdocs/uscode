@@ -21,7 +21,7 @@
 
     A verified statement from the manufacturer or producer of such wool products showing their fiber content as required under the provisions of this subchapter may be required under regulations prescribed by the Secretary of the Treasury.
 
-([Oct. 14, 1940, ch. 871, § 8][/us/act/1940-10-14/ch871/s8], [54 Stat. 1132][/us/stat/54/1132].)
+([Oct. 14, 1940, ch. 871][/us/act/1940-10-14/ch871], § 8, [54 Stat. 1132][/us/stat/54/1132].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 ----------
 
 [/us/stat/46/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F719
-[/us/act/1940-10-14/ch871/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch871%2Fs8
+[/us/act/1940-10-14/ch871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch871
 [/us/stat/54/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1132
 [/us/stat/46/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F719
 [/us/usc/t19/s1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1482

@@ -85,7 +85,7 @@
 
         Except as otherwise provided in this section, nothing in this section supersedes any rule of Federal or State civil procedure applicable to class actions.
 
-([Pub. L. 106–37, § 15][/us/pl/106/37/s15], July 20, 1999, [113 Stat. 201][/us/stat/113/201].)
+([Pub. L. 106–37][/us/pl/106/37], § 15, July 20, 1999, [113 Stat. 201][/us/stat/113/201].)
 
  __References in Text__ 
 
@@ -98,7 +98,7 @@
 ----------
 ----------
 
-[/us/pl/106/37/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37%2Fs15
+[/us/pl/106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37
 [/us/stat/113/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F201
 
 

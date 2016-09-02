@@ -231,7 +231,7 @@
 
             There are authorized to be appropriated to the National Science Foundation to carry out this paragraph $5,000,000 for each of fiscal years 2003 through 2007.
 
-([Pub. L. 107–305, § 5][/us/pl/107/305/s5], Nov. 27, 2002, [116 Stat. 2370][/us/stat/116/2370].)
+([Pub. L. 107–305][/us/pl/107/305], § 5, Nov. 27, 2002, [116 Stat. 2370][/us/stat/116/2370].)
 
  __References in Text__ 
 
@@ -248,7 +248,7 @@
 [/us/usc/t42/s1862h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862h
 [/us/usc/t42/s1862i/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862i%2Fa
 [/us/usc/t42/s1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1869
-[/us/pl/107/305/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305%2Fs5
+[/us/pl/107/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F305
 [/us/stat/116/2370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2370
 [/us/pl/102/476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F476
 [/us/stat/106/2297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2297

@@ -23,7 +23,7 @@
 
     (3) provides simple mechanisms for a consumer to stop recurring charges from being placed on the consumer’s credit card, debit card, bank account, or other financial account.
 
-([Pub. L. 111–345, § 4][/us/pl/111/345/s4], Dec. 29, 2010, [124 Stat. 3620][/us/stat/124/3620].)
+([Pub. L. 111–345][/us/pl/111/345], § 4, Dec. 29, 2010, [124 Stat. 3620][/us/stat/124/3620].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/111/345/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F345%2Fs4
+[/us/pl/111/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F345
 [/us/stat/124/3620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3620
 
 

@@ -121,7 +121,7 @@
 
             (C) a designation of any activities of the Commission for which multi-year budget authority would be suitable.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 31, [48 Stat. 904][/us/stat/48/904]; [Mar. 17, 1944, ch. 101][/us/act/1944-03-17/ch101], [58 Stat. 117][/us/stat/58/117]; [Pub. L. 94–29, § 22][/us/pl/94/29/s22], June 4, 1975, [89 Stat. 162][/us/stat/89/162]; [Pub. L. 104–290, title IV, § 405(a)][/us/pl/104/290/s405/a], Oct. 11, 1996, [110 Stat. 3442][/us/stat/110/3442]; [Pub. L. 105–353, title III, § 301(b)(14)][/us/pl/105/353/s301/b/14], Nov. 3, 1998, [112 Stat. 3236][/us/stat/112/3236]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(f)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–432; [Pub. L. 107–123][/us/pl/107/123], §§ 2, 3, Jan. 16, 2002, [115 Stat. 2390][/us/stat/115/2390]; [Pub. L. 111–203, title IX, § 991(a)(1)][/us/pl/111/203/s991/a/1], (d)(1), July 21, 2010, [124 Stat. 1950][/us/stat/124/1950], 1954.)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 31, [48 Stat. 904][/us/stat/48/904]; [Mar. 17, 1944, ch. 101][/us/act/1944-03-17/ch101], [58 Stat. 117][/us/stat/58/117]; [Pub. L. 94–29][/us/pl/94/29], § 22, June 4, 1975, [89 Stat. 162][/us/stat/89/162]; [Pub. L. 104–290, title IV][/us/pl/104/290/tIV], § 405(a), Oct. 11, 1996, [110 Stat. 3442][/us/stat/110/3442]; [Pub. L. 105–353, title III][/us/pl/105/353/tIII], § 301(b)(14), Nov. 3, 1998, [112 Stat. 3236][/us/stat/112/3236]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 206(f)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–432; [Pub. L. 107–123][/us/pl/107/123], §§ 2, 3, Jan. 16, 2002, [115 Stat. 2390][/us/stat/115/2390]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 991(a)(1), (d)(1), July 21, 2010, [124 Stat. 1950][/us/stat/124/1950], 1954.)
 
  __Adjustment of Fee Amount__ 
 
@@ -129,63 +129,63 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 991(a)(1)(A)][/us/pl/111/203/s991/a/1/A], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Commission shall, in accordance with this section, collect transaction fees and assessments that are designed to recover the costs to the Government of the supervision and regulation of securities markets and securities professionals, and costs related to such supervision and regulation, including enforcement activities, policy and rulemaking activities, administration, legal services, and international regulatory activities.”
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 991(a)(1)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Commission shall, in accordance with this section, collect transaction fees and assessments that are designed to recover the costs to the Government of the supervision and regulation of securities markets and securities professionals, and costs related to such supervision and regulation, including enforcement activities, policy and rulemaking activities, administration, legal services, and international regulatory activities.”
 
-    Subsec. (e)(2). [Pub. L. 111–203, § 991(a)(1)(B)][/us/pl/111/203/s991/a/1/B], substituted “September 25” for “September 30”.
+    Subsec. (e)(2). [Pub. L. 111–203][/us/pl/111/203], § 991(a)(1)(B), substituted “September 25” for “September 30”.
 
-    Subsec. (g). [Pub. L. 111–203, § 991(a)(1)(C)][/us/pl/111/203/s991/a/1/C], substituted “30 days after the date on which an Act making a regular appropriation to the Commission for such fiscal year is enacted” for “April 30 of the fiscal year preceding the fiscal year to which such rate applies”.
+    Subsec. (g). [Pub. L. 111–203][/us/pl/111/203], § 991(a)(1)(C), substituted “30 days after the date on which an Act making a regular appropriation to the Commission for such fiscal year is enacted” for “April 30 of the fiscal year preceding the fiscal year to which such rate applies”.
 
-    Subsec. (j). [Pub. L. 111–203, § 991(a)(1)(D)][/us/pl/111/203/s991/a/1/D], added subsec. (j) and struck out former subsec. (j) which related to recapture of projection windfalls for further rate reductions.
+    Subsec. (j). [Pub. L. 111–203][/us/pl/111/203], § 991(a)(1)(D), added subsec. (j) and struck out former subsec. (j) which related to recapture of projection windfalls for further rate reductions.
 
-    Subsec. (k). [Pub. L. 111–203, § 991(a)(1)(E)][/us/pl/111/203/s991/a/1/E], substituted “60 days” for “30 days”.
+    Subsec. (k). [Pub. L. 111–203][/us/pl/111/203], § 991(a)(1)(E), substituted “60 days” for “30 days”.
 
-    Subsec. (l). [Pub. L. 111–203, § 991(a)(1)(F)][/us/pl/111/203/s991/a/1/F], substituted “Baseline estimate of the aggregate dollar amount of sales” for “Definitions” in heading and struck out introductory provisions “For purposes of this section:”, par. (2) designation and heading “Baseline estimate of the aggregate dollar amount of sales”, and par. (1) which provided table of target offsetting collection amounts for fiscal years 2002 through 2011.
+    Subsec. (l). [Pub. L. 111–203][/us/pl/111/203], § 991(a)(1)(F), substituted “Baseline estimate of the aggregate dollar amount of sales” for “Definitions” in heading and struck out introductory provisions “For purposes of this section:”, par. (2) designation and heading “Baseline estimate of the aggregate dollar amount of sales”, and par. (1) which provided table of target offsetting collection amounts for fiscal years 2002 through 2011.
 
-    Subsec. (m). [Pub. L. 111–203, § 991(d)(1)][/us/pl/111/203/s991/d/1], added subsec. (m).
+    Subsec. (m). [Pub. L. 111–203][/us/pl/111/203], § 991(d)(1), added subsec. (m).
 
-    2002—Subsec. (b). [Pub. L. 107–123, § 3(a)(1)][/us/pl/107/123/s3/a/1], substituted “Subject to subsection (j), each” for “Every” and struck out at end “Fees collected pursuant to this subsection shall be deposited and collected as general revenue of the Treasury.”
+    2002—Subsec. (b). [Pub. L. 107–123][/us/pl/107/123], § 3(a)(1), substituted “Subject to subsection (j), each” for “Every” and struck out at end “Fees collected pursuant to this subsection shall be deposited and collected as general revenue of the Treasury.”
 
-    [Pub. L. 107–123, § 2(1)][/us/pl/107/123/s2/1]–(3), substituted “$15 per $1,000,000” for “1⁄300 of one percent” and “security futures products, and options on securities indexes (excluding a narrow-based security index)” for “and security futures products” and struck out “, except that for fiscal year 2007 or any succeeding fiscal year such rate shall be equal to 1⁄800 of one percent of such aggregate dollar amount of sales” before period at end of first sentence.
+    [Pub. L. 107–123][/us/pl/107/123], § 2(1)–(3), substituted “$15 per $1,000,000” for “1⁄300 of one percent” and “security futures products, and options on securities indexes (excluding a narrow-based security index)” for “and security futures products” and struck out “, except that for fiscal year 2007 or any succeeding fiscal year such rate shall be equal to 1⁄800 of one percent of such aggregate dollar amount of sales” before period at end of first sentence.
 
-    Subsec. (c). [Pub. L. 107–123, § 3(a)(3)][/us/pl/107/123/s3/a/3], redesignated subsec. (d) as (c), substituted “Off-exchange trades of exchange registered and last-sale-reported securities” for “Off-exchange trades of last-sale-reported securities” in subsec. heading, struck out par. (1) heading, substituted “Subject to subsection (j), each national securities” for “Each national securities”, inserted “registered on a national securities exchange or” after “narrow-based security index))”, struck out “, excluding any sales for which a fee is paid under subsection (c) of this section” after “national securities association”, and struck out pars. (2) and (3), which related to deposit of fees and lapse of appropriations.
+    Subsec. (c). [Pub. L. 107–123][/us/pl/107/123], § 3(a)(3), redesignated subsec. (d) as (c), substituted “Off-exchange trades of exchange registered and last-sale-reported securities” for “Off-exchange trades of last-sale-reported securities” in subsec. heading, struck out par. (1) heading, substituted “Subject to subsection (j), each national securities” for “Each national securities”, inserted “registered on a national securities exchange or” after “narrow-based security index))”, struck out “, excluding any sales for which a fee is paid under subsection (c) of this section” after “national securities association”, and struck out pars. (2) and (3), which related to deposit of fees and lapse of appropriations.
 
-    [Pub. L. 107–123, § 3(a)(2)][/us/pl/107/123/s3/a/2], struck out heading and text of former subsec. (c). Text read as follows: “Each national securities association shall pay to the Commission a fee at a rate equal to 1⁄300 of one percent of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange of securities registered on such an exchange (other than bonds, debentures, other evidences of indebtedness, and security futures products), except that for fiscal year 2007 or any succeeding fiscal year such rate shall be equal to 1⁄800 of one percent of such aggregate dollar amount of sales. Fees collected pursuant to this subsection shall be deposited and collected as general revenue of the Treasury.”
+    [Pub. L. 107–123][/us/pl/107/123], § 3(a)(2), struck out heading and text of former subsec. (c). Text read as follows: “Each national securities association shall pay to the Commission a fee at a rate equal to 1⁄300 of one percent of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange of securities registered on such an exchange (other than bonds, debentures, other evidences of indebtedness, and security futures products), except that for fiscal year 2007 or any succeeding fiscal year such rate shall be equal to 1⁄800 of one percent of such aggregate dollar amount of sales. Fees collected pursuant to this subsection shall be deposited and collected as general revenue of the Treasury.”
 
-    [Pub. L. 107–123, § 2(1)][/us/pl/107/123/s2/1],(2), (4), which directed that subsec. (d) be amended by substituting “$15 per $1,000,000” for “1⁄300 of one percent” and “security futures products, and options on securities indexes (excluding a narrow-based security index)” for “and security futures products”, and striking out “, except that for fiscal year 2007, or any succeeding fiscal year, such rate shall be equal to 1⁄800 of one percent of such aggregate dollar amount of sale” before period at end of par. (1), was executed by making the amendment in subsec. (c), to reflect the probable intent of Congress and the amendment by [Pub. L. 107–123, § 3(a)(3)][/us/pl/107/123/s3/a/3], which redesignated subsec. (d) as (c). See above.
+    [Pub. L. 107–123][/us/pl/107/123], § 2(1),(2), (4), which directed that subsec. (d) be amended by substituting “$15 per $1,000,000” for “1⁄300 of one percent” and “security futures products, and options on securities indexes (excluding a narrow-based security index)” for “and security futures products”, and striking out “, except that for fiscal year 2007, or any succeeding fiscal year, such rate shall be equal to 1⁄800 of one percent of such aggregate dollar amount of sale” before period at end of par. (1), was executed by making the amendment in subsec. (c), to reflect the probable intent of Congress and the amendment by [Pub. L. 107–123][/us/pl/107/123], § 3(a)(3), which redesignated subsec. (d) as (c). See above.
 
-    Subsec. (d). [Pub. L. 107–123, § 3(a)(4)][/us/pl/107/123/s3/a/4], (6), redesignated subsec. (e) as (d) and substituted “except that for fiscal year 2007 and each succeeding fiscal year such assessment shall be equal to $0.0042 for each such transaction” for “except that for fiscal year 2007 or any succeeding fiscal year such assessment shall be equal to $0.0075 for each such transaction. Assessments collected pursuant to this subsection shall be deposited and collected as general revenue of the Treasury”. Former subsec. (d) redesignated (c).
+    Subsec. (d). [Pub. L. 107–123][/us/pl/107/123], § 3(a)(4), (6), redesignated subsec. (e) as (d) and substituted “except that for fiscal year 2007 and each succeeding fiscal year such assessment shall be equal to $0.0042 for each such transaction” for “except that for fiscal year 2007 or any succeeding fiscal year such assessment shall be equal to $0.0075 for each such transaction. Assessments collected pursuant to this subsection shall be deposited and collected as general revenue of the Treasury”. Former subsec. (d) redesignated (c).
 
-    [Pub. L. 107–123, § 2(5)][/us/pl/107/123/s2/5], which directed that subsec. (e) be amended by substituting “$0.009” for “$0.02”, was executed by making the amendment in subsec. (d), to reflect the probable intent of Congress and the amendment by [Pub. L. 107–123, § 3(a)(4)][/us/pl/107/123/s3/a/4], (6) which redesignated subsec. (e) as (d). See above.
+    [Pub. L. 107–123][/us/pl/107/123], § 2(5), which directed that subsec. (e) be amended by substituting “$0.009” for “$0.02”, was executed by making the amendment in subsec. (d), to reflect the probable intent of Congress and the amendment by [Pub. L. 107–123][/us/pl/107/123], § 3(a)(4), (6) which redesignated subsec. (e) as (d). See above.
 
-    Subsec. (e). [Pub. L. 107–123, § 3(a)(5)][/us/pl/107/123/s3/a/5], (6), redesignated subsec. (f) as (e) and substituted “Dates for payments” for “Dates for payment of fees” in heading and “The fees and assessments required” for “The fees required” in introductory provisions. Former subsec. (e) redesignated (d).
+    Subsec. (e). [Pub. L. 107–123][/us/pl/107/123], § 3(a)(5), (6), redesignated subsec. (f) as (e) and substituted “Dates for payments” for “Dates for payment of fees” in heading and “The fees and assessments required” for “The fees required” in introductory provisions. Former subsec. (e) redesignated (d).
 
-    Subsec. (f). [Pub. L. 107–123, § 3(a)(6)][/us/pl/107/123/s3/a/6], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+    Subsec. (f). [Pub. L. 107–123][/us/pl/107/123], § 3(a)(6), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-    Subsec. (g). [Pub. L. 107–123, § 3(a)(6)][/us/pl/107/123/s3/a/6], (b)(2), redesignated subsec. (h) as (g) and inserted before period at end “not later than April 30 of the fiscal year preceding the fiscal year to which such rate applies, together with any estimates or projections on which such fees are based”. Former subsec. (g) redesignated (f).
+    Subsec. (g). [Pub. L. 107–123][/us/pl/107/123], § 3(a)(6), (b)(2), redesignated subsec. (h) as (g) and inserted before period at end “not later than April 30 of the fiscal year preceding the fiscal year to which such rate applies, together with any estimates or projections on which such fees are based”. Former subsec. (g) redesignated (f).
 
-    Subsec. (h). [Pub. L. 107–123, § 3(a)(6)][/us/pl/107/123/s3/a/6], redesignated subsec. (i), as enacted by [Pub. L. 107–123, § 2(6)][/us/pl/107/123/s2/6], as (h). See below. Former subsec. (h) redesignated (g).
+    Subsec. (h). [Pub. L. 107–123][/us/pl/107/123], § 3(a)(6), redesignated subsec. (i), as enacted by [Pub. L. 107–123][/us/pl/107/123], § 2(6), as (h). See below. Former subsec. (h) redesignated (g).
 
-    Subsec. (i). [Pub. L. 107–123, § 3(a)(7)][/us/pl/107/123/s3/a/7], added subsec. (i).
+    Subsec. (i). [Pub. L. 107–123][/us/pl/107/123], § 3(a)(7), added subsec. (i).
 
-    [Pub. L. 107–123, § 2(6)][/us/pl/107/123/s2/6], added subsec. (i).
+    [Pub. L. 107–123][/us/pl/107/123], § 2(6), added subsec. (i).
 
-    Subsecs. (j) to (l). [Pub. L. 107–123, § 3(b)(1)][/us/pl/107/123/s3/b/1], added subsecs. (j) to (l).
+    Subsecs. (j) to (l). [Pub. L. 107–123][/us/pl/107/123], § 3(b)(1), added subsecs. (j) to (l).
 
-    2000—Subsec. (a). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(f)(1)\], inserted “and assessments” after “fees”.
+    2000—Subsec. (a). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 206(f)(1)\], inserted “and assessments” after “fees”.
 
-    Subsecs. (b), (c), (d)(1). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(f)(2)\], substituted “other evidences of indebtedness, and security futures products” for “and other evidences of indebtedness”.
+    Subsecs. (b), (c), (d)(1). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 206(f)(2)\], substituted “other evidences of indebtedness, and security futures products” for “and other evidences of indebtedness”.
 
-    Subsec. (e). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(f)(6)\], added subsec. (e). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 206(f)(6)\], added subsec. (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(f)(5)\], redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 206(f)(5)\], redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-    [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(f)(3)\], inserted “or assessment” after “fee”.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 206(f)(3)\], inserted “or assessment” after “fee”.
 
-    Subsec. (g). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(f)(5)\], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 206(f)(5)\], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(f)(4)\], inserted “and assessment” after “fee”.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 206(f)(4)\], inserted “and assessment” after “fee”.
 
-    Subsec. (h). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(f)(5)\], redesignated subsec. (g) as (h).
+    Subsec. (h). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 206(f)(5)\], redesignated subsec. (g) as (h).
 
     1998—Subsec. (a). [Pub. L. 105–353][/us/pl/105/353] substituted “this section” for “this subsection”.
 
@@ -199,7 +199,7 @@
 
     Amendment by [section 991(d)(1) of Pub. L. 111–203][/us/pl/111/203/s991/d/1] effective 1 day after July 21, 2010, except as otherwise provided, see [section 4 of Pub. L. 111–203][/us/pl/111/203/s4], set out as an Effective Date note under [section 5301 of Title 12][/us/usc/t12/s5301], Banks and Banking.
 
-[Pub. L. 111–203, title IX, § 991(a)(2)][/us/pl/111/203/s991/a/2], July 21, 2010, [124 Stat. 1951][/us/stat/124/1951], provided that: 
+[Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 991(a)(2), July 21, 2010, [124 Stat. 1951][/us/stat/124/1951], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall take effect on the later of—
 
@@ -209,7 +209,7 @@
 
  __Effective Date of 2002 Amendment__ 
 
-[Pub. L. 107–123, § 11][/us/pl/107/123/s11], Jan. 16, 2002, [115 Stat. 2401][/us/stat/115/2401], provided that:
+[Pub. L. 107–123][/us/pl/107/123], § 11, Jan. 16, 2002, [115 Stat. 2401][/us/stat/115/2401], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -229,7 +229,7 @@
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–290, title IV, § 405(b)][/us/pl/104/290/s405/b], Oct. 11, 1996, [110 Stat. 3443][/us/stat/110/3443], provided that:
+[Pub. L. 104–290, title IV][/us/pl/104/290/tIV], § 405(b), Oct. 11, 1996, [110 Stat. 3443][/us/stat/110/3443], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -249,13 +249,13 @@
 
  __Budget of the President__ 
 
-[Pub. L. 111–203, title IX, § 991(d)(2)][/us/pl/111/203/s991/d/2], July 21, 2010, [124 Stat. 1954][/us/stat/124/1954], provided that: 
+[Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 991(d)(2), July 21, 2010, [124 Stat. 1954][/us/stat/124/1954], provided that: 
 
 > “For fiscal year 2012, and each fiscal year thereafter, the annual budget for the Administration submitted by the President to Congress shall reflect the amendments made by this section \[amending this section and sections 77f, 78d, 78m, 78n, and 78kk of this title\].”
 
  __Study of the Effect of Fee Reductions__ 
 
-[Pub. L. 107–123, § 9][/us/pl/107/123/s9], Jan. 16, 2002, [115 Stat. 2400][/us/stat/115/2400], provided that:
+[Pub. L. 107–123][/us/pl/107/123], § 9, Jan. 16, 2002, [115 Stat. 2400][/us/stat/115/2400], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -279,7 +279,7 @@
 
  __Fees From National Securities Associations for Member Transactions Other Than on National Securities Exchanges__ 
 
-[Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title V\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–61, provided in part: 
+[Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title V\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–61, provided in part: 
 
 > “That effective January 1, 1997, every national securities association shall pay to the Commission a fee at a rate of one-three-hundredth of one percentum of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange (other than bonds, debentures, and other evidences of indebtedness) subject to prompt last sale reporting pursuant to the rules of the Commission or a registered national securities association, excluding any sales for which a fee is paid under section 31 of the Securities Exchange Act of 1934 ([15 U.S.C. 78ee][/us/usc/t15/s78ee]), and such increase shall be deposited as an offsetting collection to this appropriation, to remain available until expended, to recover the costs to the Government of the supervision and regulation of securities markets and securities professionals: Provided further, That the fee due from every national securities association shall be paid on or before September 30, 1997, with respect to transactions and sales occurring during the period beginning on January 1, 1997, and ending at the close of August 31, 1997”.
 
@@ -312,77 +312,77 @@
 [/us/stat/48/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F904
 [/us/act/1944-03-17/ch101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-03-17%2Fch101
 [/us/stat/58/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F117
-[/us/pl/94/29/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs22
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F162
-[/us/pl/104/290/s405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs405%2Fa
+[/us/pl/104/290/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtIV
 [/us/stat/110/3442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3442
-[/us/pl/105/353/s301/b/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fb%2F14
+[/us/pl/105/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtIII
 [/us/stat/112/3236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3236
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
 [/us/stat/115/2390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2390
-[/us/pl/111/203/s991/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fa%2F1
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1950
-[/us/pl/111/203/s991/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fa%2F1%2FA
-[/us/pl/111/203/s991/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fa%2F1%2FB
-[/us/pl/111/203/s991/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fa%2F1%2FC
-[/us/pl/111/203/s991/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fa%2F1%2FD
-[/us/pl/111/203/s991/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fa%2F1%2FE
-[/us/pl/111/203/s991/a/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fa%2F1%2FF
-[/us/pl/111/203/s991/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fd%2F1
-[/us/pl/107/123/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs3%2Fa%2F1
-[/us/pl/107/123/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs2%2F1
-[/us/pl/107/123/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs3%2Fa%2F3
-[/us/pl/107/123/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs3%2Fa%2F2
-[/us/pl/107/123/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs2%2F1
-[/us/pl/107/123/s3/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs3%2Fa%2F3
-[/us/pl/107/123/s3/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs3%2Fa%2F4
-[/us/pl/107/123/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs2%2F5
-[/us/pl/107/123/s3/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs3%2Fa%2F4
-[/us/pl/107/123/s3/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs3%2Fa%2F5
-[/us/pl/107/123/s3/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs3%2Fa%2F6
-[/us/pl/107/123/s3/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs3%2Fa%2F6
-[/us/pl/107/123/s3/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs3%2Fa%2F6
-[/us/pl/107/123/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs2%2F6
-[/us/pl/107/123/s3/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs3%2Fa%2F7
-[/us/pl/107/123/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs2%2F6
-[/us/pl/107/123/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs3%2Fb%2F1
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
 [/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/pl/111/203/s991/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fd%2F1
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/111/203/s991/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fa%2F2
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1951
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
-[/us/pl/107/123/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs11
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
 [/us/stat/115/2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2401
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/usc/t15/s77f/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77f%2Fb%2F9
 [/us/usc/t15/s78m/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m%2Fe%2F9
-[/us/pl/104/290/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs405%2Fb
+[/us/pl/104/290/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtIV
 [/us/stat/110/3443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3443
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/pl/94/29/s31/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs31%2Fa
 [/us/usc/t15/s78b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78b
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t15/s78d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d
-[/us/pl/111/203/s991/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fd%2F2
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1954
-[/us/pl/107/123/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs9
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
 [/us/stat/115/2400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2400
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
 [/us/usc/t15/s78ee]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78ee
 

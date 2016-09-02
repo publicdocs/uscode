@@ -35,7 +35,7 @@
 
         (2) issue final rules or regulations required by this section, not later than 270 days after July 30, 2002.
 
-([Pub. L. 107–204, title III, § 303][/us/pl/107/204/s303], July 30, 2002, [116 Stat. 778][/us/stat/116/778].)
+([Pub. L. 107–204, title III][/us/pl/107/204/tIII], § 303, July 30, 2002, [116 Stat. 778][/us/stat/116/778].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/107/204/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs303
+[/us/pl/107/204/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtIII
 [/us/stat/116/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F778
 
 

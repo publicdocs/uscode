@@ -27,7 +27,7 @@
 
         (3) This subsection shall not apply (A) to the lawful portion of a contract to the extent that it may be severed from the unlawful portion of the contract, or (B) to preclude recovery against any person for unjust enrichment.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 47, [54 Stat. 845][/us/stat/54/845]; [Pub. L. 96–477, title I, § 104][/us/pl/96/477/s104], Oct. 21, 1980, [94 Stat. 2277][/us/stat/94/2277].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 47, [54 Stat. 845][/us/stat/54/845]; [Pub. L. 96–477, title I][/us/pl/96/477/tI], § 104, Oct. 21, 1980, [94 Stat. 2277][/us/stat/94/2277].)
 
  __Amendments__ 
 
@@ -42,7 +42,7 @@
 
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F845
-[/us/pl/96/477/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2Fs104
+[/us/pl/96/477/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477%2FtI
 [/us/stat/94/2277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2277
 [/us/pl/96/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F477
 

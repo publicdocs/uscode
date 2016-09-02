@@ -301,7 +301,7 @@
 
         (2) the date of incorporation of the Association.
 
-([Pub. L. 106–102, title III, § 323][/us/pl/106/102/s323], as added [Pub. L. 114–1, title II, § 202(a)][/us/pl/114/1/s202/a], Jan. 12, 2015, [129 Stat. 13][/us/stat/129/13].)
+([Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 323, as added [Pub. L. 114–1, title II][/us/pl/114/1/tII], § 202(a), Jan. 12, 2015, [129 Stat. 13][/us/stat/129/13].)
 
  __References in Text__ 
 
@@ -311,7 +311,7 @@
 
     Provisions similar to this section were contained in [section 6755 of this title][/us/usc/t15/s6755], prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1].
 
-    A prior section 6753, [Pub. L. 106–102, title III, § 323][/us/pl/106/102/s323], Nov. 12, 1999, [113 Stat. 1424][/us/stat/113/1424], related to purpose of the Association, prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1]. See [section 6752 of this title][/us/usc/t15/s6752].
+    A prior section 6753, [Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 323, Nov. 12, 1999, [113 Stat. 1424][/us/stat/113/1424], related to purpose of the Association, prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1]. See [section 6752 of this title][/us/usc/t15/s6752].
 
 ----------
 
@@ -321,15 +321,15 @@
 ----------
 
 [/us/usc/t18/s1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1033
-[/us/pl/106/102/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs323
-[/us/pl/114/1/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs202%2Fa
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
+[/us/pl/114/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2FtII
 [/us/stat/129/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F13
 [/us/pl/103/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322
 [/us/stat/108/1796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1796
 [/us/usc/t42/s13701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13701
 [/us/usc/t15/s6755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6755
 [/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
-[/us/pl/106/102/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs323
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1424
 [/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
 [/us/usc/t15/s6752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6752

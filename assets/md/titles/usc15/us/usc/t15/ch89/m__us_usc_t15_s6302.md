@@ -21,7 +21,7 @@
 
     (2) to assist State boxing commissions to provide proper oversight for the professional boxing industry in the United States.
 
-([Pub. L. 104–272, § 3][/us/pl/104/272/s3], Oct. 9, 1996, [110 Stat. 3310][/us/stat/110/3310].)
+([Pub. L. 104–272][/us/pl/104/272], § 3, Oct. 9, 1996, [110 Stat. 3310][/us/stat/110/3310].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/104/272/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs3
+[/us/pl/104/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272
 [/us/stat/110/3310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3310
 
 

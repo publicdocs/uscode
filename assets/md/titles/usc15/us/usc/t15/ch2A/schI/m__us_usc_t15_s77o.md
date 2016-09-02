@@ -23,7 +23,7 @@
 
         For purposes of any action brought by the Commission under subparagraph (b) or (d) of [section 77t of this title][/us/usc/t15/s77t], any person that knowingly or recklessly provides substantial assistance to another person in violation of a provision of this subchapter, or of any rule or regulation issued under this subchapter, shall be deemed to be in violation of such provision to the same extent as the person to whom such assistance is provided.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 15, [48 Stat. 84][/us/stat/48/84]; [June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title II, § 208, [48 Stat. 908][/us/stat/48/908]; [Pub. L. 111–203, title IX, § 929M(a)][/us/pl/111/203/s929M/a], July 21, 2010, [124 Stat. 1861][/us/stat/124/1861].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 15, [48 Stat. 84][/us/stat/48/84]; [June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title II, § 208, [48 Stat. 908][/us/stat/48/908]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 929M(a), July 21, 2010, [124 Stat. 1861][/us/stat/124/1861].)
 
  __Amendments__ 
 
@@ -47,7 +47,7 @@
 [/us/stat/48/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F84
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F908
-[/us/pl/111/203/s929M/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929M%2Fa
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1861
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

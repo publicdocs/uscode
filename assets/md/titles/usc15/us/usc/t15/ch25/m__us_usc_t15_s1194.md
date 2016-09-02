@@ -77,7 +77,7 @@
 
                     (II) the Consumer Price Index for the month of June preceding the date on which the maximum authorized penalty was last adjusted.
 
-([June 30, 1953, ch. 164, § 5][/us/act/1953-06-30/ch164/s5], [67 Stat. 112][/us/stat/67/112]; [Pub. L. 90–189, § 4][/us/pl/90/189/s4], Dec. 14, 1967, [81 Stat. 570][/us/stat/81/570]; [Pub. L. 101–608, title I][/us/pl/101/608], §§ 115(c), 118(b), Nov. 16, 1990, [104 Stat. 3120][/us/stat/104/3120], 3122; [Pub. L. 110–314, title II, § 217(a)(3)][/us/pl/110/314/s217/a/3], (b)(1)(C), Aug. 14, 2008, [122 Stat. 3058][/us/stat/122/3058], 3059.)
+([June 30, 1953, ch. 164][/us/act/1953-06-30/ch164], § 5, [67 Stat. 112][/us/stat/67/112]; [Pub. L. 90–189][/us/pl/90/189], § 4, Dec. 14, 1967, [81 Stat. 570][/us/stat/81/570]; [Pub. L. 101–608, title I][/us/pl/101/608/tI], §§ 115(c), 118(b), Nov. 16, 1990, [104 Stat. 3120][/us/stat/104/3120], 3122; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 217(a)(3), (b)(1)(C), Aug. 14, 2008, [122 Stat. 3058][/us/stat/122/3058], 3059.)
 
  __References in Text__ 
 
@@ -85,31 +85,31 @@
 
  __Amendments__ 
 
-    2008—Subsec. (e)(1). [Pub. L. 110–314, § 217(a)(3)(A)][/us/pl/110/314/s217/a/3/A], (B), substituted “$100,000” for “$5,000” and “$15,000,000” for “$1,250,000”.
+    2008—Subsec. (e)(1). [Pub. L. 110–314][/us/pl/110/314], § 217(a)(3)(A), (B), substituted “$100,000” for “$5,000” and “$15,000,000” for “$1,250,000”.
 
-    Subsec. (e)(2). [Pub. L. 110–314, § 217(b)(1)(C)(i)][/us/pl/110/314/s217/b/1/C/i], substituted “nature, circumstances, extent, and gravity” for “nature and number” and “absence of injury,” for “absence of injury, and” and inserted “, and such other factors as appropriate” before period at end.
+    Subsec. (e)(2). [Pub. L. 110–314][/us/pl/110/314], § 217(b)(1)(C)(i), substituted “nature, circumstances, extent, and gravity” for “nature and number” and “absence of injury,” for “absence of injury, and” and inserted “, and such other factors as appropriate” before period at end.
 
-    Subsec. (e)(3). [Pub. L. 110–314, § 217(b)(1)(C)(ii)(III)][/us/pl/110/314/s217/b/1/C/ii/III], which directed insertion of “, and such other factors as appropriate” before the period, was executed by making the insertion before period at end of second sentence, to reflect the probable intent of Congress.
+    Subsec. (e)(3). [Pub. L. 110–314][/us/pl/110/314], § 217(b)(1)(C)(ii)(III), which directed insertion of “, and such other factors as appropriate” before the period, was executed by making the insertion before period at end of second sentence, to reflect the probable intent of Congress.
 
-    [Pub. L. 110–314, § 217(b)(1)(C)(ii)(II)][/us/pl/110/314/s217/b/1/C/ii/II], which directed the substitution of “absence of injury,” for “absence of injury, and”, could not be executed because “absence of injury, and” did not appear in par. (3).
+    [Pub. L. 110–314][/us/pl/110/314], § 217(b)(1)(C)(ii)(II), which directed the substitution of “absence of injury,” for “absence of injury, and”, could not be executed because “absence of injury, and” did not appear in par. (3).
 
-    [Pub. L. 110–314, § 217(b)(1)(C)(ii)(I)][/us/pl/110/314/s217/b/1/C/ii/I], substituted “nature, circumstances, extent, and gravity” for “nature and number”.
+    [Pub. L. 110–314][/us/pl/110/314], § 217(b)(1)(C)(ii)(I), substituted “nature, circumstances, extent, and gravity” for “nature and number”.
 
-    Subsec. (e)(5)(B). [Pub. L. 110–314, § 217(a)(3)(C)][/us/pl/110/314/s217/a/3/C], which directed the substitution of “December 1, 2011,” for “December 1, 1994,” in par. (6)(B) of subsec. (e)(1), was executed by making the substitution in par. (5)(B) of subsec. (e) to reflect the probable intent of Congress because subsec. (e) does not contain a par. (6).
+    Subsec. (e)(5)(B). [Pub. L. 110–314][/us/pl/110/314], § 217(a)(3)(C), which directed the substitution of “December 1, 2011,” for “December 1, 1994,” in par. (6)(B) of subsec. (e)(1), was executed by making the substitution in par. (5)(B) of subsec. (e) to reflect the probable intent of Congress because subsec. (e) does not contain a par. (6).
 
-    1990—Subsec. (a). [Pub. L. 101–608, § 118(b)][/us/pl/101/608/s118/b], inserted at end “In the case of an attorney general of a State alleging a violation of a standard or regulation under [section 1193 of this title][/us/usc/t15/s1193] that affects or may affect such State or its residents, such attorney general may bring a civil action for an injunction to enforce the requirement of such standard or regulation. The procedural requirements of [section 2073 of this title][/us/usc/t15/s2073] shall apply to any such action.”
+    1990—Subsec. (a). [Pub. L. 101–608][/us/pl/101/608], § 118(b), inserted at end “In the case of an attorney general of a State alleging a violation of a standard or regulation under [section 1193 of this title][/us/usc/t15/s1193] that affects or may affect such State or its residents, such attorney general may bring a civil action for an injunction to enforce the requirement of such standard or regulation. The procedural requirements of [section 2073 of this title][/us/usc/t15/s2073] shall apply to any such action.”
 
-    Subsec. (e). [Pub. L. 101–608, § 115(c)][/us/pl/101/608/s115/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 101–608][/us/pl/101/608], § 115(c), added subsec. (e).
 
-    1967—Subsec. (c). [Pub. L. 90–189, § 4(a)][/us/pl/90/189/s4/a], inserted “, including provisions for maintenance of records relating to fabrics, related materials, and products,” after “rules and regulations” and inserted sentence making violations of such rules and regulations unlawful and an unfair method of competition and an unfair and deceptive act or practice, in commerce, under the Federal Trade Commission Act.
+    1967—Subsec. (c). [Pub. L. 90–189][/us/pl/90/189], § 4(a), inserted “, including provisions for maintenance of records relating to fabrics, related materials, and products,” after “rules and regulations” and inserted sentence making violations of such rules and regulations unlawful and an unfair method of competition and an unfair and deceptive act or practice, in commerce, under the Federal Trade Commission Act.
 
-    Subsec. (d)(1). [Pub. L. 90–189, § 4(b)][/us/pl/90/189/s4/b], substituted “product, fabric or related material” for “article of wearing apparel or fabric”.
+    Subsec. (d)(1). [Pub. L. 90–189][/us/pl/90/189], § 4(b), substituted “product, fabric or related material” for “article of wearing apparel or fabric”.
 
-    Subsec. (d)(2). [Pub. L. 90–189, § 4(b)][/us/pl/90/189/s4/b], substituted “or territory or with the District of Columbia or the Commonwealth of Puerto Rico” for “, Territory, or possession or with the District of Columbia”.
+    Subsec. (d)(2). [Pub. L. 90–189][/us/pl/90/189], § 4(b), substituted “or territory or with the District of Columbia or the Commonwealth of Puerto Rico” for “, Territory, or possession or with the District of Columbia”.
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–314, title II, § 217(a)(4)][/us/pl/110/314/s217/a/4], Aug. 14, 2008, [122 Stat. 3058][/us/stat/122/3058], provided that: 
+[Pub. L. 110–314, title II][/us/pl/110/314/tII], § 217(a)(4), Aug. 14, 2008, [122 Stat. 3058][/us/stat/122/3058], provided that: 
 
 > “The amendments made by this subsection \[amending this section and sections 1264 and 2069 of this title\] shall take effect on the date that is the earlier of the date on which final regulations are issued under subsection (b)(2) \[set out as a note under [section 2069 of this title][/us/usc/t15/s2069]\] or 1 year after the date of enactment of this Act \[Aug. 14, 2008\].”
 
@@ -137,31 +137,31 @@
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
 [/us/usc/t15/s1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1193
 [/us/usc/t15/s1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1193
-[/us/act/1953-06-30/ch164/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch164%2Fs5
+[/us/act/1953-06-30/ch164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch164
 [/us/stat/67/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F112
-[/us/pl/90/189/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189%2Fs4
+[/us/pl/90/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189
 [/us/stat/81/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F570
-[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
+[/us/pl/101/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2FtI
 [/us/stat/104/3120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3120
-[/us/pl/110/314/s217/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs217%2Fa%2F3
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3058
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
 [/us/usc/t15/s58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs58
-[/us/pl/110/314/s217/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs217%2Fa%2F3%2FA
-[/us/pl/110/314/s217/b/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs217%2Fb%2F1%2FC%2Fi
-[/us/pl/110/314/s217/b/1/C/ii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs217%2Fb%2F1%2FC%2Fii%2FIII
-[/us/pl/110/314/s217/b/1/C/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs217%2Fb%2F1%2FC%2Fii%2FII
-[/us/pl/110/314/s217/b/1/C/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs217%2Fb%2F1%2FC%2Fii%2FI
-[/us/pl/110/314/s217/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs217%2Fa%2F3%2FC
-[/us/pl/101/608/s118/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs118%2Fb
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
+[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
 [/us/usc/t15/s1193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1193
 [/us/usc/t15/s2073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2073
-[/us/pl/101/608/s115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs115%2Fc
-[/us/pl/90/189/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189%2Fs4%2Fa
-[/us/pl/90/189/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189%2Fs4%2Fb
-[/us/pl/90/189/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189%2Fs4%2Fb
-[/us/pl/110/314/s217/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs217%2Fa%2F4
+[/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
+[/us/pl/90/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189
+[/us/pl/90/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189
+[/us/pl/90/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3058
 [/us/usc/t15/s2069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2069
 [/us/usc/t15/s2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2079

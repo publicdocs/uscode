@@ -151,7 +151,7 @@
 
             (D) Such other information as the Bureau determines necessary for the protection of the consumer.
 
-([Pub. L. 90–321, title I, § 129D][/us/pl/90/321/s129D], as added and amended [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], title XIV, §§ 1461(a), 1462, July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2178, 2181; [Pub. L. 114–94, div. G, title LXXXIX, § 89003(2)][/us/pl/114/94/s89003/2], Dec. 4, 2015, [129 Stat. 1801][/us/stat/129/1801].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 129D, as added and amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), title XIV, §§ 1461(a), 1462, July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2178, 2181; [Pub. L. 114–94, div. G, title LXXXIX][/us/pl/114/94/dG/tLXXXIX], § 89003(2), Dec. 4, 2015, [129 Stat. 1801][/us/stat/129/1801].)
 
  __References in Text__ 
 
@@ -167,9 +167,9 @@
 
     2015—Subsec. (c)(1). [Pub. L. 114–94][/us/pl/114/94] struck out “predominantly” after “operates”.
 
-    2010—[Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], substituted “Bureau” for “Board” wherever appearing.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1100A(2), substituted “Bureau” for “Board” wherever appearing.
 
-    Subsec. (j). [Pub. L. 111–203, § 1462][/us/pl/111/203/s1462], added subsec. (j).
+    Subsec. (j). [Pub. L. 111–203][/us/pl/111/203], § 1462, added subsec. (j).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -183,7 +183,7 @@
 
  __Exemptions and Modifications__ 
 
-[Pub. L. 111–203, title XIV, § 1461(b)][/us/pl/111/203/s1461/b], July 21, 2010, [124 Stat. 2181][/us/stat/124/2181], provided that: 
+[Pub. L. 111–203, title XIV][/us/pl/111/203/tXIV], § 1461(b), July 21, 2010, [124 Stat. 2181][/us/stat/124/2181], provided that: 
 
 > “The Board may prescribe rules that revise, add to, or subtract from the criteria of section 129D(b) of the Truth in Lending Act \[[15 U.S.C. 1639d(b)][/us/usc/t15/s1639d/b]\] if the Board determines that such rules are in the interest of consumers and in the public interest.”
 
@@ -201,10 +201,10 @@
 [/us/usc/t42/s4012a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4012a%2Fd
 [/us/usc/t12/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2601
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
-[/us/pl/90/321/s129D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs129D
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
-[/us/pl/114/94/s89003/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs89003%2F2
+[/us/pl/114/94/dG/tLXXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXXIX
 [/us/stat/129/1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1801
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
@@ -218,8 +218,8 @@
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
-[/us/pl/111/203/s1462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1462
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
@@ -228,7 +228,7 @@
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/111/203/s1461/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1461%2Fb
+[/us/pl/111/203/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXIV
 [/us/stat/124/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2181
 [/us/usc/t15/s1639d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639d%2Fb
 

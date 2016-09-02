@@ -23,7 +23,7 @@
 
         Such advisory board or boards shall include appropriate representation of labor, small and larger businesses and industries, agriculture, consumers, State and local officials, and the public at large, and shall advise and consult with respect to matters related to this chapter, the Full Employment aand  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “and”. </sup></sup>  Balanced Growth Act of 1978 \[[15 U.S.C. 3101][/us/usc/t15/s3101] et seq.\], and other appropriate matters related to national economic programs and policies. The President shall, in accordance with applicable provisions of law, take the steps necessary to provide appropriate compensation to the members of such advisory board or boards.
 
-([Feb. 20, 1946, ch. 33, § 9][/us/act/1946-02-20/ch33/s9], as added [Pub. L. 95–523, title I, § 111][/us/pl/95/523/s111], Oct. 27, 1978, [92 Stat. 1899][/us/stat/92/1899].)
+([Feb. 20, 1946, ch. 33][/us/act/1946-02-20/ch33], § 9, as added [Pub. L. 95–523, title I][/us/pl/95/523/tI], § 111, Oct. 27, 1978, [92 Stat. 1899][/us/stat/92/1899].)
 
  __References in Text__ 
 
@@ -41,8 +41,8 @@
 ----------
 
 [/us/usc/t15/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3101
-[/us/act/1946-02-20/ch33/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-20%2Fch33%2Fs9
-[/us/pl/95/523/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs111
+[/us/act/1946-02-20/ch33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-20%2Fch33
+[/us/pl/95/523/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2FtI
 [/us/stat/92/1899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1899
 [/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
 [/us/stat/92/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1887

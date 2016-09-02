@@ -17,7 +17,7 @@
 
     There shall be in the Department of Commerce, in addition to the Assistant Secretaries of Commerce provided by law before November 14, 1986, one additional Assistant Secretary of Commerce who shall have the title Assistant Secretary of Commerce for Oceans and Atmosphere and shall serve as the Deputy Administrator of the National Oceanic and Atmospheric Administration established by Reorganization Plan No. 4 of 1970 \[5 U.S.C. App.\] and perform such duties and functions as the Under Secretary of Commerce for Oceans and Atmosphere shall prescribe. The Assistant Secretary for Oceans and Atmosphere shall be appointed by the President by and with the advice and consent of the Senate and shall be compensated at the rate now or hereafter provided for Level IV of the Executive Schedule Pay Rates ([5 U.S.C. 5315][/us/usc/t5/s5315]).
 
-([Pub. L. 99–659, title IV, § 407(b)][/us/pl/99/659/s407/b], Nov. 14, 1986, [100 Stat. 3739][/us/stat/100/3739].)
+([Pub. L. 99–659, title IV][/us/pl/99/659/tIV], § 407(b), Nov. 14, 1986, [100 Stat. 3739][/us/stat/100/3739].)
 
  __References in Text__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/99/659/s407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs407%2Fb
+[/us/pl/99/659/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtIV
 [/us/stat/100/3739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3739
 [/us/usc/t15/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1511
 [/us/pl/99/659/s407/c/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs407%2Fc%2FB

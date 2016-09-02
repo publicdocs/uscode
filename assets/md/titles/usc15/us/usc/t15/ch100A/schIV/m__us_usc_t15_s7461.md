@@ -25,7 +25,7 @@
 
         The term “Institute” means the National Institute of Standards and Technology.
 
-([Pub. L. 113–274, title V, § 501][/us/pl/113/274/s501], Dec. 18, 2014, [128 Stat. 2986][/us/stat/128/2986].)
+([Pub. L. 113–274, title V][/us/pl/113/274/tV], § 501, Dec. 18, 2014, [128 Stat. 2986][/us/stat/128/2986].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/113/274/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2Fs501
+[/us/pl/113/274/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F274%2FtV
 [/us/stat/128/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2986
 
 

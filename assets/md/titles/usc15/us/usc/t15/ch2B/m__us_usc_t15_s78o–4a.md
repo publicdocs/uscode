@@ -37,7 +37,7 @@
 
             The staff of the Office of Municipal Securities shall include individuals with knowledge of and expertise in municipal finance.
 
-([Pub. L. 111–203, title IX, § 979][/us/pl/111/203/s979], July 21, 2010, [124 Stat. 1926][/us/stat/124/1926].)
+([Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 979, July 21, 2010, [124 Stat. 1926][/us/stat/124/1926].)
 
  __Codification__ 
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs979
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1926
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

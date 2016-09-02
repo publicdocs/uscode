@@ -457,7 +457,7 @@
 
             Subject to amounts approved in advance in appropriations Acts, the Administration may make grants or enter into cooperative agreements to carry out the provisions of this subsection.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[21\], as added [Pub. L. 96–302, title II, § 202][/us/pl/96/302/s202], July 2, 1980, [94 Stat. 843][/us/stat/94/843]; amended [Pub. L. 98–395, § 2][/us/pl/98/395/s2], Aug. 21, 1984, [98 Stat. 1366][/us/stat/98/1366]; [Pub. L. 100–418, title VIII, § 8006(b)][/us/pl/100/418/s8006/b], Aug. 23, 1988, [102 Stat. 1557][/us/stat/102/1557]; [Pub. L. 100–590, title I][/us/pl/100/590], §§ 134, 135(3), Nov. 3, 1988, [102 Stat. 3006][/us/stat/102/3006], 3007; [Pub. L. 101–515, title V][/us/pl/101/515], §§ 5(a), 6, Nov. 5, 1990, [104 Stat. 2142][/us/stat/104/2142]; [Pub. L. 101–574, title II, § 201(a)(1)][/us/pl/101/574/s201/a/1], title III, § 303, Nov. 15, 1990, [104 Stat. 2818][/us/stat/104/2818], 2828; [Pub. L. 102–366, title II][/us/pl/102/366], §§ 212, 223(a), Sept. 4, 1992, [106 Stat. 998][/us/stat/106/998], 1000; [Pub. L. 103–81, § 9(a)][/us/pl/103/81/s9/a], Aug. 13, 1993, [107 Stat. 783][/us/stat/107/783]; [Pub. L. 103–403, title IV][/us/pl/103/403], §§ 402–404, Oct. 22, 1994, [108 Stat. 4190][/us/stat/108/4190], 4191; [Pub. L. 104–66, title II, § 2121][/us/pl/104/66/s2121], Dec. 21, 1995, [109 Stat. 730][/us/stat/109/730]; [Pub. L. 104–121, title II, § 214(a)][/us/pl/104/121/s214/a], Mar. 29, 1996, [110 Stat. 859][/us/stat/110/859]; [Pub. L. 104–208, div. D, title I, § 106][/us/pl/104/208/s106], Sept. 30, 1996, [110 Stat. 3009–731][/us/stat/110/3009-731]; [Pub. L. 105–135, title V][/us/pl/105/135], §§ 502, 506(a), Dec. 2, 1997, [111 Stat. 2622][/us/stat/111/2622], 2624; [Pub. L. 105–277, div. C, title IX, § 905][/us/pl/105/277/s905], Oct. 21, 1998, [112 Stat. 2681–710][/us/stat/112/2681-710]; [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title V, § 503(e), title VIII, § 804(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–695, 2763A–703; [Pub. L. 107–20, title II, § 2203(b)][/us/pl/107/20/s2203/b], July 24, 2001, [115 Stat. 170][/us/stat/115/170]; [Pub. L. 108–447, div. K, title I][/us/pl/108/447], §§ 122, 142, Dec. 8, 2004, [118 Stat. 3449][/us/stat/118/3449], 3454; [Pub. L. 110–186, title I, § 107][/us/pl/110/186/s107], Feb. 14, 2008, [122 Stat. 627][/us/stat/122/627]; [Pub. L. 111–240, title I, § 1209][/us/pl/111/240/s1209], Sept. 27, 2010, [124 Stat. 2536][/us/stat/124/2536]; [Pub. L. 113–291, div. A, title VIII, § 823(a)][/us/pl/113/291/s823/a], Dec. 19, 2014, [128 Stat. 3436][/us/stat/128/3436]; [Pub. L. 114–88, div. B, title I, § 2103(a)][/us/pl/114/88/s2103/a], Nov. 25, 2015, [129 Stat. 690][/us/stat/129/690].)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[21\], as added [Pub. L. 96–302, title II][/us/pl/96/302/tII], § 202, July 2, 1980, [94 Stat. 843][/us/stat/94/843]; amended [Pub. L. 98–395][/us/pl/98/395], § 2, Aug. 21, 1984, [98 Stat. 1366][/us/stat/98/1366]; [Pub. L. 100–418, title VIII][/us/pl/100/418/tVIII], § 8006(b), Aug. 23, 1988, [102 Stat. 1557][/us/stat/102/1557]; [Pub. L. 100–590, title I][/us/pl/100/590/tI], §§ 134, 135(3), Nov. 3, 1988, [102 Stat. 3006][/us/stat/102/3006], 3007; [Pub. L. 101–515, title V][/us/pl/101/515/tV], §§ 5(a), 6, Nov. 5, 1990, [104 Stat. 2142][/us/stat/104/2142]; [Pub. L. 101–574, title II][/us/pl/101/574/tII], § 201(a)(1), title III, § 303, Nov. 15, 1990, [104 Stat. 2818][/us/stat/104/2818], 2828; [Pub. L. 102–366, title II][/us/pl/102/366/tII], §§ 212, 223(a), Sept. 4, 1992, [106 Stat. 998][/us/stat/106/998], 1000; [Pub. L. 103–81][/us/pl/103/81], § 9(a), Aug. 13, 1993, [107 Stat. 783][/us/stat/107/783]; [Pub. L. 103–403, title IV][/us/pl/103/403/tIV], §§ 402–404, Oct. 22, 1994, [108 Stat. 4190][/us/stat/108/4190], 4191; [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2121, Dec. 21, 1995, [109 Stat. 730][/us/stat/109/730]; [Pub. L. 104–121, title II][/us/pl/104/121/tII], § 214(a), Mar. 29, 1996, [110 Stat. 859][/us/stat/110/859]; [Pub. L. 104–208, div. D, title I][/us/pl/104/208/dD/tI], § 106, Sept. 30, 1996, [110 Stat. 3009–731][/us/stat/110/3009-731]; [Pub. L. 105–135, title V][/us/pl/105/135/tV], §§ 502, 506(a), Dec. 2, 1997, [111 Stat. 2622][/us/stat/111/2622], 2624; [Pub. L. 105–277, div. C, title IX][/us/pl/105/277/dC/tIX], § 905, Oct. 21, 1998, [112 Stat. 2681–710][/us/stat/112/2681-710]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title V, § 503(e), title VIII, § 804(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–695, 2763A–703; [Pub. L. 107–20, title II][/us/pl/107/20/tII], § 2203(b), July 24, 2001, [115 Stat. 170][/us/stat/115/170]; [Pub. L. 108–447, div. K, title I][/us/pl/108/447/dK/tI], §§ 122, 142, Dec. 8, 2004, [118 Stat. 3449][/us/stat/118/3449], 3454; [Pub. L. 110–186, title I][/us/pl/110/186/tI], § 107, Feb. 14, 2008, [122 Stat. 627][/us/stat/122/627]; [Pub. L. 111–240, title I][/us/pl/111/240/tI], § 1209, Sept. 27, 2010, [124 Stat. 2536][/us/stat/124/2536]; [Pub. L. 113–291, div. A, title VIII][/us/pl/113/291/dA/tVIII], § 823(a), Dec. 19, 2014, [128 Stat. 3436][/us/stat/128/3436]; [Pub. L. 114–88, div. B, title I][/us/pl/114/88/dB/tI], § 2103(a), Nov. 25, 2015, [129 Stat. 690][/us/stat/129/690].)
 
  __References in Text__ 
 
@@ -473,7 +473,7 @@
 
  __Prior Provisions__ 
 
-    A prior [section 648 of this title][/us/usc/t15/s648], [act July 30, 1953, ch. 282][/us/act/1953-07-30/ch282], title II, § 219, [67 Stat. 239][/us/stat/67/239], which related to requirements for loans, was omitted as superseded by [section 642 of this title][/us/usc/t15/s642]. See Codification note set out under [section 631 of this title][/us/usc/t15/s631].
+    A prior [section 648 of this title][/us/usc/t15/s648], [act July 30, 1953, ch. 282, title II][/us/act/1953-07-30/ch282/tII], § 219, [67 Stat. 239][/us/stat/67/239], which related to requirements for loans, was omitted as superseded by [section 642 of this title][/us/usc/t15/s642]. See Codification note set out under [section 631 of this title][/us/usc/t15/s631].
 
     A prior section 2\[21\] of [Pub. L. 85–536][/us/pl/85/536] was renumbered section 2\[47\] and is set out as a note under [section 631 of this title][/us/usc/t15/s631].
 
@@ -487,35 +487,35 @@
 
     2008—Subsec. (n). [Pub. L. 110–186][/us/pl/110/186] added subsec. (n).
 
-    2004—Subsec. (a)(4)(C)(vii) to (ix). [Pub. L. 108–447, § 122(b)][/us/pl/108/447/s122/b], added cls. (vii) and (viii), redesignated former cl. (viii) as (ix), and struck out heading and text of former cl. (vii). Text read as follows: “There is authorized to be appropriated to carry out this subparagraph $125,000,000 for each of fiscal years 2001, 2002, and 2003.”
+    2004—Subsec. (a)(4)(C)(vii) to (ix). [Pub. L. 108–447][/us/pl/108/447], § 122(b), added cls. (vii) and (viii), redesignated former cl. (viii) as (ix), and struck out heading and text of former cl. (vii). Text read as follows: “There is authorized to be appropriated to carry out this subparagraph $125,000,000 for each of fiscal years 2001, 2002, and 2003.”
 
-    Subsec. (a)(7). [Pub. L. 108–447, § 142(a)][/us/pl/108/447/s142/a], added par. (7).
+    Subsec. (a)(7). [Pub. L. 108–447][/us/pl/108/447], § 142(a), added par. (7).
 
-    Subsec. (c)(3)(T). [Pub. L. 108–447, § 122(a)][/us/pl/108/447/s122/a], substituted “October 1, 2006” for “October 1, 2003”.
+    Subsec. (c)(3)(T). [Pub. L. 108–447][/us/pl/108/447], § 122(a), substituted “October 1, 2006” for “October 1, 2003”.
 
-    Subsec. (k). [Pub. L. 108–447, § 142(b)][/us/pl/108/447/s142/b], substituted “Accreditation” for “Certification” and “accreditation” for “certification” wherever appearing in headings and text.
+    Subsec. (k). [Pub. L. 108–447][/us/pl/108/447], § 142(b), substituted “Accreditation” for “Certification” and “accreditation” for “certification” wherever appearing in headings and text.
 
     2001—Subsec. (a)(4)(C)(v)(II). [Pub. L. 107–20][/us/pl/107/20] inserted “, or accompanying report language,” after “in appropriations Acts”.
 
-    2000—Subsec. (a)(4)(C). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VIII, § 804(b)\], amended heading and text of subpar. (C) generally, substituting present provisions for provisions providing that the amount of a grant received by a State under this section would be equal to the greater of $500,000, or the sum of the State’s pro rata share of the national program, plus $300,000 in fiscal year 1998, $400,000 in fiscal year 1999, and $500,000 in each fiscal year thereafter, provisions relating to pro rata reductions, matching requirement, and exception for grants provided to a small business development center to carry out the provisions of subsection (c)(3)(G), and provisions setting forth appropriations of $85,000,000 for fiscal year 1998, $90,000,000 for fiscal year 1999, and $95,000,000 for fiscal year 2000 and each fiscal year thereafter.
+    2000—Subsec. (a)(4)(C). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title VIII, § 804(b)\], amended heading and text of subpar. (C) generally, substituting present provisions for provisions providing that the amount of a grant received by a State under this section would be equal to the greater of $500,000, or the sum of the State’s pro rata share of the national program, plus $300,000 in fiscal year 1998, $400,000 in fiscal year 1999, and $500,000 in each fiscal year thereafter, provisions relating to pro rata reductions, matching requirement, and exception for grants provided to a small business development center to carry out the provisions of subsection (c)(3)(G), and provisions setting forth appropriations of $85,000,000 for fiscal year 1998, $90,000,000 for fiscal year 1999, and $95,000,000 for fiscal year 2000 and each fiscal year thereafter.
 
-    Subsec. (c)(3)(T). [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title V, § 503(e)\], substituted “2003” for “2000”.
+    Subsec. (c)(3)(T). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title V, § 503(e)\], substituted “2003” for “2000”.
 
     1998—Subsec. (c)(3)(T). [Pub. L. 105–277][/us/pl/105/277] added subpar. (T).
 
-    1997—Subsec. (a)(1). [Pub. L. 105–135, § 502(a)(1)][/us/pl/105/135/s502/a/1], inserted “any women’s business center operating pursuant to [section 656 of this title][/us/usc/t15/s656],” after “credit or finance corporation,”, “or a women’s business center operating pursuant to [section 656 of this title][/us/usc/t15/s656]” after “other than an institution of higher education”, and “and women’s business centers operating pursuant to [section 656 of this title][/us/usc/t15/s656]” after “utilize institutions of higher education”.
+    1997—Subsec. (a)(1). [Pub. L. 105–135][/us/pl/105/135], § 502(a)(1), inserted “any women’s business center operating pursuant to [section 656 of this title][/us/usc/t15/s656],” after “credit or finance corporation,”, “or a women’s business center operating pursuant to [section 656 of this title][/us/usc/t15/s656]” after “other than an institution of higher education”, and “and women’s business centers operating pursuant to [section 656 of this title][/us/usc/t15/s656]” after “utilize institutions of higher education”.
 
-    Subsec. (a)(3). [Pub. L. 105–135, § 502(a)(2)(A)][/us/pl/105/135/s502/a/2/A], substituted “for the delivery of programs and services to the small business community. Such programs and services shall be jointly developed, negotiated, and agreed upon, with full participation of both parties, pursuant to an executed cooperative agreement between the Small Business Development Center applicant and the Administration” for “, but with recognition that a partnership exists under this section between the Administration and the applicant for the delivery of assistance to the small business community. Services shall be provided pursuant to a negotiated cooperative agreement with full participation of both parties”.
+    Subsec. (a)(3). [Pub. L. 105–135][/us/pl/105/135], § 502(a)(2)(A), substituted “for the delivery of programs and services to the small business community. Such programs and services shall be jointly developed, negotiated, and agreed upon, with full participation of both parties, pursuant to an executed cooperative agreement between the Small Business Development Center applicant and the Administration” for “, but with recognition that a partnership exists under this section between the Administration and the applicant for the delivery of assistance to the small business community. Services shall be provided pursuant to a negotiated cooperative agreement with full participation of both parties”.
 
-    Subsec. (a)(3)(C). [Pub. L. 105–135, § 502(a)(2)(B)][/us/pl/105/135/s502/a/2/B], added subpar. (C).
+    Subsec. (a)(3)(C). [Pub. L. 105–135][/us/pl/105/135], § 502(a)(2)(B), added subpar. (C).
 
-    Subsec. (a)(4)(C)(i). [Pub. L. 105–135, § 502(a)(3)(A)][/us/pl/105/135/s502/a/3/A], added cl. (i) and struck out heading and text of former cl. (i). Text read as follows: “Except as provided in clause (ii), no State receiving funds under this section shall receive a grant that exceeds—
+    Subsec. (a)(4)(C)(i). [Pub. L. 105–135][/us/pl/105/135], § 502(a)(3)(A), added cl. (i) and struck out heading and text of former cl. (i). Text read as follows: “Except as provided in clause (ii), no State receiving funds under this section shall receive a grant that exceeds—
 
     “(I) for fiscal year 1995, the sum of such State’s pro rata share of a national program based upon the population of the State as compared to the total population in the United States, and $125,000; or
 
     “(II) in each succeeding fiscal year, the sum of such State’s pro rata share of a national program based upon the population of the State as compared to the total population in the United States, and $200,000.”
 
-    Subsec. (a)(4)(C)(iii). [Pub. L. 105–135, § 502(a)(3)(B)][/us/pl/105/135/s502/a/3/B], added cl. (iii) and struck out former cl. (iii) which read as follows:
+    Subsec. (a)(4)(C)(iii). [Pub. L. 105–135][/us/pl/105/135], § 502(a)(3)(B), added cl. (iii) and struck out former cl. (iii) which read as follows:
 
     “(iii) Amount.—The amount of the national program shall be—
 
@@ -525,109 +525,109 @@
 
     “(III) $85,000,000 beginning October 1, 1997.”
 
-    Subsec. (a)(6)(C). [Pub. L. 105–135, § 502(a)(4)][/us/pl/105/135/s502/a/4], added subpar. (C).
+    Subsec. (a)(6)(C). [Pub. L. 105–135][/us/pl/105/135], § 502(a)(4), added subpar. (C).
 
-    Subsec. (c)(3). [Pub. L. 105–135, § 502(b)(4)][/us/pl/105/135/s502/b/4], redesignated closing provisions as par. (4). Former par. (4) redesignated (5).
+    Subsec. (c)(3). [Pub. L. 105–135][/us/pl/105/135], § 502(b)(4), redesignated closing provisions as par. (4). Former par. (4) redesignated (5).
 
-    Subsec. (c)(3)(A). [Pub. L. 105–135, § 502(b)(1)(A)][/us/pl/105/135/s502/b/1/A], substituted “businesses, including—” for “businesses;” in introductory provisions and added cls. (i) to (iv).
+    Subsec. (c)(3)(A). [Pub. L. 105–135][/us/pl/105/135], § 502(b)(1)(A), substituted “businesses, including—” for “businesses;” in introductory provisions and added cls. (i) to (iv).
 
-    Subsec. (c)(3)(B). [Pub. L. 105–135, § 502(b)(1)(B)][/us/pl/105/135/s502/b/1/B], realigned margins.
+    Subsec. (c)(3)(B). [Pub. L. 105–135][/us/pl/105/135], § 502(b)(1)(B), realigned margins.
 
-    Subsec. (c)(3)(C). [Pub. L. 105–135, § 502(b)(1)(B)][/us/pl/105/135/s502/b/1/B], (C), realigned margins and inserted “and the Administration” after “Small Business Development Center”.
+    Subsec. (c)(3)(C). [Pub. L. 105–135][/us/pl/105/135], § 502(b)(1)(B), (C), realigned margins and inserted “and the Administration” after “Small Business Development Center”.
 
-    Subsec. (c)(3)(D) to (G), (M) to (O), (Q), (R). [Pub. L. 105–135, § 502(b)(1)(B)][/us/pl/105/135/s502/b/1/B], realigned margins.
+    Subsec. (c)(3)(D) to (G), (M) to (O), (Q), (R). [Pub. L. 105–135][/us/pl/105/135], § 502(b)(1)(B), realigned margins.
 
-    Subsec. (c)(3)(S). [Pub. L. 105–135, § 506(a)][/us/pl/105/135/s506/a], added subpar. (S).
+    Subsec. (c)(3)(S). [Pub. L. 105–135][/us/pl/105/135], § 506(a), added subpar. (S).
 
-    Subsec. (c)(4). [Pub. L. 105–135, § 502(b)(4)][/us/pl/105/135/s502/b/4], redesignated closing provisions of par. (3) as (4). Former par. (4) redesignated (5).
+    Subsec. (c)(4). [Pub. L. 105–135][/us/pl/105/135], § 502(b)(4), redesignated closing provisions of par. (3) as (4). Former par. (4) redesignated (5).
 
-    Subsec. (c)(5). [Pub. L. 105–135, § 502(b)(3)][/us/pl/105/135/s502/b/3], redesignated par. (4) as (5). Former par. (5) redesignated (6).
+    Subsec. (c)(5). [Pub. L. 105–135][/us/pl/105/135], § 502(b)(3), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-    [Pub. L. 105–135, § 502(b)(2)][/us/pl/105/135/s502/b/2], realigned margins, substituted “subsection (a)(1)” for “paragraph (a)(1)” and “whichever date occurs last,” for “which ever date occurs last,,”.
+    [Pub. L. 105–135][/us/pl/105/135], § 502(b)(2), realigned margins, substituted “subsection (a)(1)” for “paragraph (a)(1)” and “whichever date occurs last,” for “which ever date occurs last,,”.
 
-    Subsec. (c)(6) to (8). [Pub. L. 105–135, § 502(b)(3)][/us/pl/105/135/s502/b/3], redesignated pars. (5) to (7) as (6) to (8), respectively.
+    Subsec. (c)(6) to (8). [Pub. L. 105–135][/us/pl/105/135], § 502(b)(3), redesignated pars. (5) to (7) as (6) to (8), respectively.
 
-    Subsec. (l). [Pub. L. 105–135, § 502(c)][/us/pl/105/135/s502/c], inserted at end “If any contract or cooperative agreement under this section with an entity that is covered by this section is not renewed or extended, any award of a successor contract or cooperative agreement under this section to another entity shall be made on a competitive basis.”
+    Subsec. (l). [Pub. L. 105–135][/us/pl/105/135], § 502(c), inserted at end “If any contract or cooperative agreement under this section with an entity that is covered by this section is not renewed or extended, any award of a successor contract or cooperative agreement under this section to another entity shall be made on a competitive basis.”
 
-    Subsec. (m). [Pub. L. 105–135, § 502(d)][/us/pl/105/135/s502/d], added subsec. (m).
+    Subsec. (m). [Pub. L. 105–135][/us/pl/105/135], § 502(d), added subsec. (m).
 
     1996—Subsec. (c)(3)(Q), (R). [Pub. L. 104–121][/us/pl/104/121] added subpars. (Q) and (R).
 
-    Subsec. (c)(7). [Pub. L. 104–208, § 106(a)(2)(A)][/us/pl/104/208/s106/a/2/A], substituted “Associate Administrator for Small Business Development Centers” for “Deputy Associate Administrator of the Small Business Development Center program”.
+    Subsec. (c)(7). [Pub. L. 104–208][/us/pl/104/208], § 106(a)(2)(A), substituted “Associate Administrator for Small Business Development Centers” for “Deputy Associate Administrator of the Small Business Development Center program”.
 
-    Subsec. (h). [Pub. L. 104–208, § 106(a)(1)][/us/pl/104/208/s106/a/1], amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:
+    Subsec. (h). [Pub. L. 104–208][/us/pl/104/208], § 106(a)(1), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:
 
     “(h)(1) The Administrator shall appoint a Associate Administrator for Small Business Development Centers who shall report to an official who is not more than one level below the Office of the Administrator and who shall serve without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to chapter 51, and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, but at a rate not less than the rate of GS–17 of the General Schedule.
 
     “(2) The sole responsibility of the Associate Administrator for Small Business Development Centers shall be to administer the small business development center program. Duties of the position shall include, but are not limited to, recommending the annual program budget, reviewing the annual budgets submitted by each applicant, establishing appropriate funding levels therefore, selecting applicants to participate in this program, implementing the provisions of this section, maintaining a clearinghouse to provide for the dissemination and exchange of information between small business development centers and conducting audits of recipients of grants under this section. The Associate Administrator for Small Business Development Centers shall confer with and seek the advise and counsel of the Board in carrying out the responsibilities described in this subsection.”
 
-    Subsec. (i)(2). [Pub. L. 104–208, § 106(a)(2)(B)][/us/pl/104/208/s106/a/2/B], substituted “Associate Administrator for Small Business Development Centers” for “Deputy Associate Administrator for Management Assistance”.
+    Subsec. (i)(2). [Pub. L. 104–208][/us/pl/104/208], § 106(a)(2)(B), substituted “Associate Administrator for Small Business Development Centers” for “Deputy Associate Administrator for Management Assistance”.
 
-    Subsec. (k)(3). [Pub. L. 104–208, § 106(b)][/us/pl/104/208/s106/b], amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In extending or renewing a cooperative agreement of a small business development center, the Administration shall consider the results of the examination and certification program conducted pursuant to paragraphs (1) and (2).”
+    Subsec. (k)(3). [Pub. L. 104–208][/us/pl/104/208], § 106(b), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “In extending or renewing a cooperative agreement of a small business development center, the Administration shall consider the results of the examination and certification program conducted pursuant to paragraphs (1) and (2).”
 
-    Subsec. (l). [Pub. L. 104–208, § 106(c)][/us/pl/104/208/s106/c], amended heading and text of subsec. (l) generally. Prior to amendment, text read as follows: “The authority to enter into contracts shall be in effect for each fiscal year only to the extent or in the amounts as are provided in advance in appropriations Acts. After the administration has entered a contract, either as a grant or a cooperative agreement, with any applicant under this section, it shall not suspend, terminate or fail to renew or extend any such contract unless the Administration provides the applicant with written notification setting forth the reasons therefor and affording the applicant an opportunity for a hearing, appeal or other administrative proceeding under the provisions of the Administrative Procedures Act.”
+    Subsec. (l). [Pub. L. 104–208][/us/pl/104/208], § 106(c), amended heading and text of subsec. (l) generally. Prior to amendment, text read as follows: “The authority to enter into contracts shall be in effect for each fiscal year only to the extent or in the amounts as are provided in advance in appropriations Acts. After the administration has entered a contract, either as a grant or a cooperative agreement, with any applicant under this section, it shall not suspend, terminate or fail to renew or extend any such contract unless the Administration provides the applicant with written notification setting forth the reasons therefor and affording the applicant an opportunity for a hearing, appeal or other administrative proceeding under the provisions of the Administrative Procedures Act.”
 
     1995—Subsec. (g). [Pub. L. 104–66][/us/pl/104/66] amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The National Aeronautics and Space Administration and industrial application centers supported by the National Aeronautics and Space Administration are authorized and directed to cooperate with small business development centers participating in this program. The National Aeronautics and Space Administration shall report annually on the performance of such industrial application centers with recommendations to the Administration and the Congress on how such industrial application centers can be strengthened and expanded. The National Aeronautics and Space Administration shall include in its report to Congress information on the ability of industrial application centers to interact with the Nation’s small business community and recommendations to the Administration on continued funding.”
 
-    1994—Subsec. (a)(4). [Pub. L. 103–403, § 402][/us/pl/103/403/s402], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Except as provided in paragraph (4), the Administration shall require, as a condition to any grant (or amendment or modification thereof) made to an applicant under this section that an additional amount (excluding any fees collected from recipients of such assistance) equal to the amount of such grant be provided from sources other than the Federal Government: Provided, That the additional amount shall not include any amount of indirect costs or in-kind contributions paid for under any Federal program, nor shall such indirect costs or in-kind contributions exceed 50 per centum of the non-Federal additional amount: Provided further, That no recipient of funds under this section shall receive a grant which would exceed its pro rata share of a $70,000,000 program based upon the population to be served by the Small Business Development Center as compared to the total population of the United States, plus $100,000 for each State, but no State shall receive less than $200,000.”
+    1994—Subsec. (a)(4). [Pub. L. 103–403][/us/pl/103/403], § 402, amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Except as provided in paragraph (4), the Administration shall require, as a condition to any grant (or amendment or modification thereof) made to an applicant under this section that an additional amount (excluding any fees collected from recipients of such assistance) equal to the amount of such grant be provided from sources other than the Federal Government: Provided, That the additional amount shall not include any amount of indirect costs or in-kind contributions paid for under any Federal program, nor shall such indirect costs or in-kind contributions exceed 50 per centum of the non-Federal additional amount: Provided further, That no recipient of funds under this section shall receive a grant which would exceed its pro rata share of a $70,000,000 program based upon the population to be served by the Small Business Development Center as compared to the total population of the United States, plus $100,000 for each State, but no State shall receive less than $200,000.”
 
-    Subsec. (a)(5). [Pub. L. 103–403, § 403][/us/pl/103/403/s403], amended par. (5) generally, substituting present provisions for former provisions which required matching amount from non-Federal sources equal to amount of Federal grant.
+    Subsec. (a)(5). [Pub. L. 103–403][/us/pl/103/403], § 403, amended par. (5) generally, substituting present provisions for former provisions which required matching amount from non-Federal sources equal to amount of Federal grant.
 
-    Subsec. (k). [Pub. L. 103–403, § 404][/us/pl/103/403/s404], amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “Within six months of August 21, 1984, the Administration shall develop and implement a program proposal for onsite evaluation of each Small Business Development Center. Such evaluation shall be conducted at least once every two years and shall provide for the participation of a representative of at least one other Small Business Development Center on a cost-reimbursement basis.”
+    Subsec. (k). [Pub. L. 103–403][/us/pl/103/403], § 404, amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “Within six months of August 21, 1984, the Administration shall develop and implement a program proposal for onsite evaluation of each Small Business Development Center. Such evaluation shall be conducted at least once every two years and shall provide for the participation of a representative of at least one other Small Business Development Center on a cost-reimbursement basis.”
 
     1993—Subsec. (c)(7). [Pub. L. 103–81][/us/pl/103/81] substituted “system. Subject to amounts approved in advance in appropriations Acts, the Administration may make grants or enter cooperative agreements with one or more centers to carry out the provisions of this paragraph. Said grants or cooperative agreements shall be awarded for periods of no more than five years duration. The matching funds provisions of subsection (a) shall not be applicable to grants or cooperative agreements under this paragraph. The system shall” for “system which will” in introductory provisions.
 
-    1992—Subsec. (a)(3)(A), (B). [Pub. L. 102–366, § 223(a)][/us/pl/102/366/s223/a], added subpars. (A) and (B).
+    1992—Subsec. (a)(3)(A), (B). [Pub. L. 102–366][/us/pl/102/366], § 223(a), added subpars. (A) and (B).
 
-    Subsec. (c)(3)(D) to (G). [Pub. L. 102–366, § 212][/us/pl/102/366/s212], redesignated former subpars. (E) to (G) as (D) to (F), respectively, added subpar. (G), and struck out former subpar. (D) which read as follows: “assisting small businesses in developing and implementing marketing and production strategies that will enable them to better compete within the domestic market;”.
+    Subsec. (c)(3)(D) to (G). [Pub. L. 102–366][/us/pl/102/366], § 212, redesignated former subpars. (E) to (G) as (D) to (F), respectively, added subpar. (G), and struck out former subpar. (D) which read as follows: “assisting small businesses in developing and implementing marketing and production strategies that will enable them to better compete within the domestic market;”.
 
-    1990—Subsec. (a)(1). [Pub. L. 101–515, § 6][/us/pl/101/515/s6], struck out period at end of first sentence and inserted “: Provided, That after December 31, 1990, the Administration shall not make a grant to any applicant other than an institution of higher education as a Small Business Development Center unless the applicant was receiving a grant (including a contract or cooperative agreement) on such date. The Administration shall require any applicant for a small business development center grant with performance commencing on or after January 1, 1992 to have its own budget and to primarily utilize institutions of higher education to provide services to the small business community.”
+    1990—Subsec. (a)(1). [Pub. L. 101–515][/us/pl/101/515], § 6, struck out period at end of first sentence and inserted “: Provided, That after December 31, 1990, the Administration shall not make a grant to any applicant other than an institution of higher education as a Small Business Development Center unless the applicant was receiving a grant (including a contract or cooperative agreement) on such date. The Administration shall require any applicant for a small business development center grant with performance commencing on or after January 1, 1992 to have its own budget and to primarily utilize institutions of higher education to provide services to the small business community.”
 
-    Subsec. (a)(4). [Pub. L. 101–515, § 5(a)][/us/pl/101/515/s5/a], and [Pub. L. 101–574, § 201(a)(1)][/us/pl/101/574/s201/a/1], amended par. (4) identically, substituting “Provided further, That no recipient of funds under this section shall receive a grant which would exceed its pro rata share of a $70,000,000 program based upon the population to be served by the Small Business Development Center as compared to the total population of the United States, plus $100,000 for each State, but no State shall receive less than $200,000.” for “Provided further, That no recipient of funds under this section shall receive a grant which would exceed its pro rata share of a $65,000,000 program based upon the population to be served by the Small Business Development Center as compared to the total population in the United States, or $200,000, whichever is greater.”
+    Subsec. (a)(4). [Pub. L. 101–515][/us/pl/101/515], § 5(a), and [Pub. L. 101–574][/us/pl/101/574], § 201(a)(1), amended par. (4) identically, substituting “Provided further, That no recipient of funds under this section shall receive a grant which would exceed its pro rata share of a $70,000,000 program based upon the population to be served by the Small Business Development Center as compared to the total population of the United States, plus $100,000 for each State, but no State shall receive less than $200,000.” for “Provided further, That no recipient of funds under this section shall receive a grant which would exceed its pro rata share of a $65,000,000 program based upon the population to be served by the Small Business Development Center as compared to the total population in the United States, or $200,000, whichever is greater.”
 
-    Subsec. (c)(3)(M) to (P). [Pub. L. 101–574, § 303][/us/pl/101/574/s303], added subpars. (M) to (O) and redesignated former subpar. (M) as (P).
+    Subsec. (c)(3)(M) to (P). [Pub. L. 101–574][/us/pl/101/574], § 303, added subpars. (M) to (O) and redesignated former subpar. (M) as (P).
 
-    1988—Subsec. (a)(1). [Pub. L. 100–418, § 8006(b)(1)][/us/pl/100/418/s8006/b/1], inserted provision relating to management and technical assistance regarding small business participation in international markets, export promotion and technology transfer.
+    1988—Subsec. (a)(1). [Pub. L. 100–418][/us/pl/100/418], § 8006(b)(1), inserted provision relating to management and technical assistance regarding small business participation in international markets, export promotion and technology transfer.
 
-    Subsec. (a)(2) to (6). [Pub. L. 100–418, § 8006(b)(2)][/us/pl/100/418/s8006/b/2], (3), added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and added par. (6).
+    Subsec. (a)(2) to (6). [Pub. L. 100–418][/us/pl/100/418], § 8006(b)(2), (3), added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and added par. (6).
 
-    Subsec. (c)(3)(B) to (M). [Pub. L. 100–418, § 8006(b)(4)][/us/pl/100/418/s8006/b/4], (5), added subpars. (B) to (G), redesignated former subpars. (C) to (H) as (H) to (M), respectively, and struck out former subpar. (B) which read as follows: “assisting in technology transfer, research, and coupling from existing sources to small businesses;”.
+    Subsec. (c)(3)(B) to (M). [Pub. L. 100–418][/us/pl/100/418], § 8006(b)(4), (5), added subpars. (B) to (G), redesignated former subpars. (C) to (H) as (H) to (M), respectively, and struck out former subpar. (B) which read as follows: “assisting in technology transfer, research, and coupling from existing sources to small businesses;”.
 
-    Subsec. (c)(5). [Pub. L. 100–590, § 135(3)][/us/pl/100/590/s135/3], inserted “or the date the Administration notifies the grantee funded under subsection (a)(1) that funds are available for grant applications pursuant to subsection (a)(6), which ever date occurs last,” after “such center”.
+    Subsec. (c)(5). [Pub. L. 100–590][/us/pl/100/590], § 135(3), inserted “or the date the Administration notifies the grantee funded under subsection (a)(1) that funds are available for grant applications pursuant to subsection (a)(6), which ever date occurs last,” after “such center”.
 
-    [Pub. L. 100–418, § 8006(b)(6)][/us/pl/100/418/s8006/b/6], added par. (5).
+    [Pub. L. 100–418][/us/pl/100/418], § 8006(b)(6), added par. (5).
 
-    Subsec. (c)(6), (7). [Pub. L. 100–418, § 8006(b)(6)][/us/pl/100/418/s8006/b/6], added pars. (6) and (7).
+    Subsec. (c)(6), (7). [Pub. L. 100–418][/us/pl/100/418], § 8006(b)(6), added pars. (6) and (7).
 
-    Subsecs. (d) to (g). [Pub. L. 100–418, § 8006(b)(7)][/us/pl/100/418/s8006/b/7], added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively. Former subsec. (g) redesignated (h).
+    Subsecs. (d) to (g). [Pub. L. 100–418][/us/pl/100/418], § 8006(b)(7), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively. Former subsec. (g) redesignated (h).
 
-    Subsec. (h). [Pub. L. 100–590, § 134(1)][/us/pl/100/590/s134/1], (2), which directed that subsec. (g) be amended by substituting “Associate Administrator for Small Business Development Centers” for “Deputy Associate Administrator for Management Assistance” in three places, and in par. (1) by substituting “an official who is not more than one level below the Office of the Administrator” for “the Associate Administrator for Management Assistance”, was executed to subsec. (h) to reflect the probable intent of Congress and the intervening redesignation of subsec. (g) as (h) by [section 8006(b)(7) of Pub. L. 100–418][/us/pl/100/418/s8006/b/7].
+    Subsec. (h). [Pub. L. 100–590][/us/pl/100/590], § 134(1), (2), which directed that subsec. (g) be amended by substituting “Associate Administrator for Small Business Development Centers” for “Deputy Associate Administrator for Management Assistance” in three places, and in par. (1) by substituting “an official who is not more than one level below the Office of the Administrator” for “the Associate Administrator for Management Assistance”, was executed to subsec. (h) to reflect the probable intent of Congress and the intervening redesignation of subsec. (g) as (h) by [section 8006(b)(7) of Pub. L. 100–418][/us/pl/100/418/s8006/b/7].
 
-    [Pub. L. 100–418, § 8006(b)(7)][/us/pl/100/418/s8006/b/7], redesignated former subsec. (g) as (h). Former subsec. (h) redesignated (i).
+    [Pub. L. 100–418][/us/pl/100/418], § 8006(b)(7), redesignated former subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-    Subsecs. (i) to (k). [Pub. L. 100–418, § 8006(b)(7)][/us/pl/100/418/s8006/b/7], redesignated former subsecs. (h) to (j) as (i) to (k), respectively. Former subsec. (k) redesignated (l).
+    Subsecs. (i) to (k). [Pub. L. 100–418][/us/pl/100/418], § 8006(b)(7), redesignated former subsecs. (h) to (j) as (i) to (k), respectively. Former subsec. (k) redesignated (l).
 
-    Subsec. (l) [Pub. L. 100–590, § 134(3)][/us/pl/100/590/s134/3], which directed that subsec. (k) be amended by inserting provisions which prohibited Administration from suspending, terminating or failing to renew or extend any contract without written notification and opportunity for hearing, appeal or other administrative proceeding, was executed to subsec. (l) to reflect the probable intent of Congress and the intervening redesignation of subsec. (k) as (l) by [section 8006(b)(7) of Pub. L. 100–418][/us/pl/100/418/s8006/b/7].
+    Subsec. (l) [Pub. L. 100–590][/us/pl/100/590], § 134(3), which directed that subsec. (k) be amended by inserting provisions which prohibited Administration from suspending, terminating or failing to renew or extend any contract without written notification and opportunity for hearing, appeal or other administrative proceeding, was executed to subsec. (l) to reflect the probable intent of Congress and the intervening redesignation of subsec. (k) as (l) by [section 8006(b)(7) of Pub. L. 100–418][/us/pl/100/418/s8006/b/7].
 
-    [Pub. L. 100–418, § 8006(b)(7)][/us/pl/100/418/s8006/b/7], redesignated former subsec. (k) as (l).
+    [Pub. L. 100–418][/us/pl/100/418], § 8006(b)(7), redesignated former subsec. (k) as (l).
 
-    1984—Subsec. (a)(1). [Pub. L. 98–395, § 2(1)][/us/pl/98/395/s2/1], inserted “The term of such grants shall be made on a calendar year basis or to coincide with the Federal fiscal year.”
+    1984—Subsec. (a)(1). [Pub. L. 98–395][/us/pl/98/395], § 2(1), inserted “The term of such grants shall be made on a calendar year basis or to coincide with the Federal fiscal year.”
 
-    Subsec. (a)(2) to (4). [Pub. L. 98–395, § 2(2)][/us/pl/98/395/s2/2], added pars. (2) to (4). Former par. (2), which contained provisions similar to par. (3), was struck out.
+    Subsec. (a)(2) to (4). [Pub. L. 98–395][/us/pl/98/395], § 2(2), added pars. (2) to (4). Former par. (2), which contained provisions similar to par. (3), was struck out.
 
-    Subsec. (b)(1). [Pub. L. 98–395, § 2(3)][/us/pl/98/395/s2/3], substituted “Financial” for “During fiscal years 1981, 1982, and 1983, financial”.
+    Subsec. (b)(1). [Pub. L. 98–395][/us/pl/98/395], § 2(3), substituted “Financial” for “During fiscal years 1981, 1982, and 1983, financial”.
 
-    Subsec. (c)(2). [Pub. L. 98–395, § 2(4)][/us/pl/98/395/s2/4], inserted in provisions preceding subpar. (A) “The facilities and staff of each Small Business Development Center shall be located in such places as to provide maximum accessibility and benefits to the small businesses which the center is intended to serve.”
+    Subsec. (c)(2). [Pub. L. 98–395][/us/pl/98/395], § 2(4), inserted in provisions preceding subpar. (A) “The facilities and staff of each Small Business Development Center shall be located in such places as to provide maximum accessibility and benefits to the small businesses which the center is intended to serve.”
 
-    Subsec. (c)(2)(A). [Pub. L. 98–395, § 2(5)][/us/pl/98/395/s2/5], substituted “including a full-time director who shall have the authority to make expenditures under the center’s budget and who shall manage the program activities;” for “including a staff director to manage the program activities.”
+    Subsec. (c)(2)(A). [Pub. L. 98–395][/us/pl/98/395], § 2(5), substituted “including a full-time director who shall have the authority to make expenditures under the center’s budget and who shall manage the program activities;” for “including a staff director to manage the program activities.”
 
-    Subsec. (e). [Pub. L. 98–395, § 2(6)][/us/pl/98/395/s2/6], substituted provisions authorizing the National Science Foundation to cooperate with the Administration and with Small Business Development Centers in developing and establishing programs to support the centers, for former provisions which related to the National Science Foundation and innovation centers, and reports to be made to the Administration and Congress.
+    Subsec. (e). [Pub. L. 98–395][/us/pl/98/395], § 2(6), substituted provisions authorizing the National Science Foundation to cooperate with the Administration and with Small Business Development Centers in developing and establishing programs to support the centers, for former provisions which related to the National Science Foundation and innovation centers, and reports to be made to the Administration and Congress.
 
-    Subsec. (h)(2). [Pub. L. 98–395, § 2(7)][/us/pl/98/395/s2/7], substituted “at least semiannually” for “at least quarterly”.
+    Subsec. (h)(2). [Pub. L. 98–395][/us/pl/98/395], § 2(7), substituted “at least semiannually” for “at least quarterly”.
 
-    Subsec. (i)(1). [Pub. L. 98–395, § 2(8)][/us/pl/98/395/s2/8], substituted “shall” for “may”.
+    Subsec. (i)(1). [Pub. L. 98–395][/us/pl/98/395], § 2(8), substituted “shall” for “may”.
 
-    Subsec. (j). [Pub. L. 98–395, § 2(9)][/us/pl/98/395/s2/9], substituted provisions mandating that the Administration develop and implement program proposals for onsite evaluation of each Small Business Development Center for provisions which related to the establishment of program evaluation plans and their submission to Congressional committees.
+    Subsec. (j). [Pub. L. 98–395][/us/pl/98/395], § 2(9), substituted provisions mandating that the Administration develop and implement program proposals for onsite evaluation of each Small Business Development Center for provisions which related to the establishment of program evaluation plans and their submission to Congressional committees.
 
  __Effective Date of 1997 Amendment__ 
 
@@ -641,17 +641,17 @@
 
  __Effective Date of 1990 Amendments__ 
 
-[Pub. L. 101–574, title II, § 201(a)(2)][/us/pl/101/574/s201/a/2], Nov. 15, 1990, [104 Stat. 2818][/us/stat/104/2818], provided that: 
+[Pub. L. 101–574, title II][/us/pl/101/574/tII], § 201(a)(2), Nov. 15, 1990, [104 Stat. 2818][/us/stat/104/2818], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall apply to contracts, grants, or cooperative agreements for performance commencing on or after October 1, 1991. Contracts, grants, or cooperative agreements the performance of which commences before October 1, 1991, shall receive funding for the entire term of performance without regard to the amendment made by paragraph (1) and according to the State’s pro rata share of a $65,000,000 program as computed on the effective date of this section \[Nov. 15, 1990\] under population estimates used for calendar year 1990 agreements, plus $50,000 for each State, but no State shall receive less than $200,000.”
 
-[Pub. L. 101–515, title V, § 5(c)][/us/pl/101/515/s5/c], Nov. 5, 1990, [104 Stat. 2142][/us/stat/104/2142], provided that: 
+[Pub. L. 101–515, title V][/us/pl/101/515/tV], § 5(c), Nov. 5, 1990, [104 Stat. 2142][/us/stat/104/2142], provided that: 
 
 > “The amendments to the second proviso in subsection (a)(4) \[[15 U.S.C. 648(a)(4)][/us/usc/t15/s648/a/4]\] made by subsection (a) of this section shall apply to contracts, grants or cooperative agreements for performance commencing on or after October 1, 1991; contracts, grants or cooperative agreements for performance commencing prior thereto shall receive funding for the entire term of performance without regard to this amendment and according to the State’s pro rata share of a $65,000,000 program as computed on the effective date of this section \[Nov. 5, 1990\] under population estimates used for calendar year 1990 agreements, plus $50,000 for each State, but no State shall receive less than $200,000.”
 
  __Effective and Termination Dates__ 
 
-    [Pub. L. 96–302, title II, § 204][/us/pl/96/302/s204], July 2, 1980, [94 Stat. 848][/us/stat/94/848], as amended by [Pub. L. 98–177][/us/pl/98/177], Nov. 29, 1983, [97 Stat. 1125][/us/stat/97/1125]; [Pub. L. 98–395, § 4][/us/pl/98/395/s4], Aug. 21, 1984, [98 Stat. 1368][/us/stat/98/1368]; [Pub. L. 101–162, title V][/us/pl/101/162], (6), Nov. 21, 1989, [103 Stat. 1028][/us/stat/103/1028], which provided for the repeal, effective Oct. 1, 1991, of sections 201 and 202 of [Pub. L. 96–302][/us/pl/96/302], which enacted this section and provisions set out as a note under [section 631 of this title][/us/usc/t15/s631] and redesignated section 2\[21\] as 2\[30\] of [Pub. L. 85–536][/us/pl/85/536], set out as a note under [section 631 of this title][/us/usc/t15/s631], was repealed by [Pub. L. 101–515, § 5(b)][/us/pl/101/515/s5/b], Nov. 5, 1990, [104 Stat. 2142][/us/stat/104/2142], and [Pub. L. 101–574, title II, § 201(b)][/us/pl/101/574/s201/b], Nov. 15, 1990, [104 Stat. 2818][/us/stat/104/2818].
+    [Pub. L. 96–302, title II][/us/pl/96/302/tII], § 204, July 2, 1980, [94 Stat. 848][/us/stat/94/848], as amended by [Pub. L. 98–177][/us/pl/98/177], Nov. 29, 1983, [97 Stat. 1125][/us/stat/97/1125]; [Pub. L. 98–395][/us/pl/98/395], § 4, Aug. 21, 1984, [98 Stat. 1368][/us/stat/98/1368]; [Pub. L. 101–162, title V][/us/pl/101/162/tV], (6), Nov. 21, 1989, [103 Stat. 1028][/us/stat/103/1028], which provided for the repeal, effective Oct. 1, 1991, of sections 201 and 202 of [Pub. L. 96–302][/us/pl/96/302], which enacted this section and provisions set out as a note under [section 631 of this title][/us/usc/t15/s631] and redesignated section 2\[21\] as 2\[30\] of [Pub. L. 85–536][/us/pl/85/536], set out as a note under [section 631 of this title][/us/usc/t15/s631], was repealed by [Pub. L. 101–515][/us/pl/101/515], § 5(b), Nov. 5, 1990, [104 Stat. 2142][/us/stat/104/2142], and [Pub. L. 101–574, title II][/us/pl/101/574/tII], § 201(b), Nov. 15, 1990, [104 Stat. 2818][/us/stat/104/2818].
 
     Section effective Oct. 1, 1980, see [section 507 of Pub. L. 96–302][/us/pl/96/302/s507], set out as an Effective Date of 1980 Amendment note under [section 631 of this title][/us/usc/t15/s631].
 
@@ -661,11 +661,11 @@
 
  __Regulations__ 
 
-    [Pub. L. 102–366, title II, § 223(b)][/us/pl/102/366/s223/b], Sept. 4, 1992, [106 Stat. 1000][/us/stat/106/1000], as amended by [Pub. L. 103–81, § 9(c)][/us/pl/103/81/s9/c], Aug. 13, 1993, [107 Stat. 783][/us/stat/107/783], provided that not later than 180 days after Sept. 4, 1992, the Administrator of the Small Business Administration was to submit to the Committees on Small Business and the Committees on Appropriations of the Senate and the House of Representatives proposed regulations for the Small Business Development Center Program authorized by this section.
+    [Pub. L. 102–366, title II][/us/pl/102/366/tII], § 223(b), Sept. 4, 1992, [106 Stat. 1000][/us/stat/106/1000], as amended by [Pub. L. 103–81][/us/pl/103/81], § 9(c), Aug. 13, 1993, [107 Stat. 783][/us/stat/107/783], provided that not later than 180 days after Sept. 4, 1992, the Administrator of the Small Business Administration was to submit to the Committees on Small Business and the Committees on Appropriations of the Senate and the House of Representatives proposed regulations for the Small Business Development Center Program authorized by this section.
 
  __Small Business Technology Transfer Demonstration Program__ 
 
-    [Pub. L. 101–574, title II, § 231][/us/pl/101/574/s231], Nov. 15, 1990, [104 Stat. 2823][/us/stat/104/2823], as amended by [Pub. L. 102–564, title III, § 302][/us/pl/102/564/s302], Oct. 28, 1992, [106 Stat. 4262][/us/stat/106/4262], established within the Small Business Administration a Small Business Technology Transfer Demonstration Program to demonstrate the feasibility of providing small businesses with education, training, and technical assistance with respect to technology transfer and application and provided that the Program would terminate on Sept. 30, 1995.
+    [Pub. L. 101–574, title II][/us/pl/101/574/tII], § 231, Nov. 15, 1990, [104 Stat. 2823][/us/stat/104/2823], as amended by [Pub. L. 102–564, title III][/us/pl/102/564/tIII], § 302, Oct. 28, 1992, [106 Stat. 4262][/us/stat/106/4262], established within the Small Business Administration a Small Business Technology Transfer Demonstration Program to demonstrate the feasibility of providing small businesses with education, training, and technical assistance with respect to technology transfer and application and provided that the Program would terminate on Sept. 30, 1995.
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -684,48 +684,48 @@
 [/us/usc/t15/s649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs649
 [/us/usc/t15/s644/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644%2Fg
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
-[/us/pl/96/302/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs202
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
+[/us/pl/96/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2FtII
 [/us/stat/94/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F843
-[/us/pl/98/395/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395%2Fs2
+[/us/pl/98/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395
 [/us/stat/98/1366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1366
-[/us/pl/100/418/s8006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8006%2Fb
+[/us/pl/100/418/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVIII
 [/us/stat/102/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1557
-[/us/pl/100/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590
+[/us/pl/100/590/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2FtI
 [/us/stat/102/3006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3006
-[/us/pl/101/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515
+[/us/pl/101/515/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2FtV
 [/us/stat/104/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2142
-[/us/pl/101/574/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs201%2Fa%2F1
+[/us/pl/101/574/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2FtII
 [/us/stat/104/2818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2818
-[/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
+[/us/pl/102/366/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2FtII
 [/us/stat/106/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F998
-[/us/pl/103/81/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F81%2Fs9%2Fa
+[/us/pl/103/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F81
 [/us/stat/107/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F783
-[/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
+[/us/pl/103/403/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtIV
 [/us/stat/108/4190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4190
-[/us/pl/104/66/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2121
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F730
-[/us/pl/104/121/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs214%2Fa
+[/us/pl/104/121/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2FtII
 [/us/stat/110/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F859
-[/us/pl/104/208/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs106
+[/us/pl/104/208/dD/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD%2FtI
 [/us/stat/110/3009-731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-731
-[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtV
 [/us/stat/111/2622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2622
-[/us/pl/105/277/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs905
+[/us/pl/105/277/dC/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtIX
 [/us/stat/112/2681-710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-710
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/107/20/s2203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2Fs2203%2Fb
+[/us/pl/107/20/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20%2FtII
 [/us/stat/115/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F170
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdK%2FtI
 [/us/stat/118/3449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3449
-[/us/pl/110/186/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F186%2Fs107
+[/us/pl/110/186/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F186%2FtI
 [/us/stat/122/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F627
-[/us/pl/111/240/s1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1209
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2536
-[/us/pl/113/291/s823/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs823%2Fa
+[/us/pl/113/291/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2FdA%2FtVIII
 [/us/stat/128/3436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3436
-[/us/pl/114/88/s2103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2Fs2103%2Fa
+[/us/pl/114/88/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F88%2FdB%2FtI
 [/us/stat/129/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F690
 [/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
@@ -735,7 +735,7 @@
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
 [/us/usc/t15/s648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648
-[/us/act/1953-07-30/ch282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-30%2Fch282
+[/us/act/1953-07-30/ch282/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-30%2Fch282%2FtII
 [/us/stat/67/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F239
 [/us/usc/t15/s642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs642
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
@@ -746,75 +746,75 @@
 [/us/usc/t22/s2778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2778
 [/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 [/us/pl/110/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F186
-[/us/pl/108/447/s122/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs122%2Fb
-[/us/pl/108/447/s142/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs142%2Fa
-[/us/pl/108/447/s122/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs122%2Fa
-[/us/pl/108/447/s142/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs142%2Fb
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/107/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F20
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/105/135/s502/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs502%2Fa%2F1
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/usc/t15/s656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs656
 [/us/usc/t15/s656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs656
 [/us/usc/t15/s656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs656
-[/us/pl/105/135/s502/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs502%2Fa%2F2%2FA
-[/us/pl/105/135/s502/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs502%2Fa%2F2%2FB
-[/us/pl/105/135/s502/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs502%2Fa%2F3%2FA
-[/us/pl/105/135/s502/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs502%2Fa%2F3%2FB
-[/us/pl/105/135/s502/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs502%2Fa%2F4
-[/us/pl/105/135/s502/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs502%2Fb%2F4
-[/us/pl/105/135/s502/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs502%2Fb%2F1%2FA
-[/us/pl/105/135/s502/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs502%2Fb%2F1%2FB
-[/us/pl/105/135/s502/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs502%2Fb%2F1%2FB
-[/us/pl/105/135/s502/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs502%2Fb%2F1%2FB
-[/us/pl/105/135/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs506%2Fa
-[/us/pl/105/135/s502/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs502%2Fb%2F4
-[/us/pl/105/135/s502/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs502%2Fb%2F3
-[/us/pl/105/135/s502/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs502%2Fb%2F2
-[/us/pl/105/135/s502/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs502%2Fb%2F3
-[/us/pl/105/135/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs502%2Fc
-[/us/pl/105/135/s502/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs502%2Fd
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
+[/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
-[/us/pl/104/208/s106/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs106%2Fa%2F2%2FA
-[/us/pl/104/208/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs106%2Fa%2F1
-[/us/pl/104/208/s106/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs106%2Fa%2F2%2FB
-[/us/pl/104/208/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs106%2Fb
-[/us/pl/104/208/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs106%2Fc
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
-[/us/pl/103/403/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs402
-[/us/pl/103/403/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs403
-[/us/pl/103/403/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs404
+[/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
+[/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
+[/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
 [/us/pl/103/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F81
-[/us/pl/102/366/s223/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs223%2Fa
-[/us/pl/102/366/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs212
-[/us/pl/101/515/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2Fs6
-[/us/pl/101/515/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2Fs5%2Fa
-[/us/pl/101/574/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs201%2Fa%2F1
-[/us/pl/101/574/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs303
-[/us/pl/100/418/s8006/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8006%2Fb%2F1
-[/us/pl/100/418/s8006/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8006%2Fb%2F2
-[/us/pl/100/418/s8006/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8006%2Fb%2F4
-[/us/pl/100/590/s135/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2Fs135%2F3
-[/us/pl/100/418/s8006/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8006%2Fb%2F6
-[/us/pl/100/418/s8006/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8006%2Fb%2F6
+[/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
+[/us/pl/102/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366
+[/us/pl/101/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515
+[/us/pl/101/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515
+[/us/pl/101/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574
+[/us/pl/101/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590
 [/us/pl/100/418/s8006/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8006%2Fb%2F7
-[/us/pl/100/590/s134/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2Fs134%2F1
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/100/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590
 [/us/pl/100/418/s8006/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8006%2Fb%2F7
-[/us/pl/100/418/s8006/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8006%2Fb%2F7
-[/us/pl/100/418/s8006/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8006%2Fb%2F7
-[/us/pl/100/590/s134/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2Fs134%2F3
-[/us/pl/100/418/s8006/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8006%2Fb%2F7
-[/us/pl/100/418/s8006/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs8006%2Fb%2F7
-[/us/pl/98/395/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395%2Fs2%2F1
-[/us/pl/98/395/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395%2Fs2%2F2
-[/us/pl/98/395/s2/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395%2Fs2%2F3
-[/us/pl/98/395/s2/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395%2Fs2%2F4
-[/us/pl/98/395/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395%2Fs2%2F5
-[/us/pl/98/395/s2/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395%2Fs2%2F6
-[/us/pl/98/395/s2/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395%2Fs2%2F7
-[/us/pl/98/395/s2/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395%2Fs2%2F8
-[/us/pl/98/395/s2/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395%2Fs2%2F9
+[/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
+[/us/pl/98/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395
+[/us/pl/98/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395
+[/us/pl/98/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395
+[/us/pl/98/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395
+[/us/pl/98/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395
+[/us/pl/98/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395
+[/us/pl/98/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395
+[/us/pl/98/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395
+[/us/pl/98/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395
 [/us/pl/105/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135
 [/us/pl/105/135/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs3
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
@@ -824,38 +824,38 @@
 [/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
 [/us/pl/104/121/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs216
 [/us/usc/t5/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs601
-[/us/pl/101/574/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs201%2Fa%2F2
+[/us/pl/101/574/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2FtII
 [/us/stat/104/2818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2818
-[/us/pl/101/515/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2Fs5%2Fc
+[/us/pl/101/515/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2FtV
 [/us/stat/104/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2142
 [/us/usc/t15/s648/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs648%2Fa%2F4
-[/us/pl/96/302/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs204
+[/us/pl/96/302/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2FtII
 [/us/stat/94/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F848
 [/us/pl/98/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F177
 [/us/stat/97/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1125
-[/us/pl/98/395/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395%2Fs4
+[/us/pl/98/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F395
 [/us/stat/98/1368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1368
-[/us/pl/101/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162
+[/us/pl/101/162/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162%2FtV
 [/us/stat/103/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1028
 [/us/pl/96/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/101/515/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2Fs5%2Fb
+[/us/pl/101/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515
 [/us/stat/104/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2142
-[/us/pl/101/574/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs201%2Fb
+[/us/pl/101/574/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2FtII
 [/us/stat/104/2818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2818
 [/us/pl/96/302/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs507
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/pl/96/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/102/366/s223/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs223%2Fb
+[/us/pl/102/366/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2FtII
 [/us/stat/106/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1000
-[/us/pl/103/81/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F81%2Fs9%2Fc
+[/us/pl/103/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F81
 [/us/stat/107/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F783
-[/us/pl/101/574/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs231
+[/us/pl/101/574/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2FtII
 [/us/stat/104/2823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2823
-[/us/pl/102/564/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2Fs302
+[/us/pl/102/564/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F564%2FtIII
 [/us/stat/106/4262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4262
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

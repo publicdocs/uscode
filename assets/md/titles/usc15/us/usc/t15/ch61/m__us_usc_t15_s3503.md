@@ -17,7 +17,7 @@
 
     As used in this chapter, the term “antitrust law” means the Sherman Act ([15 U.S.C. 1][/us/usc/t15/s1] et seq.), the Clayton Act ([15 U.S.C. 12][/us/usc/t15/s12] et seq.), and the Federal Trade Commission Act ([15 U.S.C. 41][/us/usc/t15/s41] et seq.).
 
-([Pub. L. 96–308, § 5][/us/pl/96/308/s5], July 9, 1980, [94 Stat. 939][/us/stat/94/939].)
+([Pub. L. 96–308][/us/pl/96/308], § 5, July 9, 1980, [94 Stat. 939][/us/stat/94/939].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/pl/96/308/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F308%2Fs5
+[/us/pl/96/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F308
 [/us/stat/94/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F939
 [/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1
 [/us/act/1890-07-02/ch647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-02%2Fch647

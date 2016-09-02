@@ -21,7 +21,7 @@
 
     (B) is filed in such court or delivered by such company or party defendant, such documents shall be filed with the Commission not later than five days after such filing or delivery.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 33, [54 Stat. 839][/us/stat/54/839]; [Pub. L. 91–547, § 19][/us/pl/91/547/s19], Dec. 14, 1970, [84 Stat. 1428][/us/stat/84/1428].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 33, [54 Stat. 839][/us/stat/54/839]; [Pub. L. 91–547][/us/pl/91/547], § 19, Dec. 14, 1970, [84 Stat. 1428][/us/stat/84/1428].)
 
  __Amendments__ 
 
@@ -44,7 +44,7 @@
 
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F839
-[/us/pl/91/547/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs19
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1428
 [/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547

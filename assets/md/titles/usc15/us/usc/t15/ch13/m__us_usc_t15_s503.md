@@ -23,7 +23,7 @@
 
         The Textile Alliance, Incorporated, is authorized to pay to the corporation the amounts payable in accordance with the arrangement between the Textile Alliance, Incorporated, and the Department of State, in lieu of paying such amounts into the United States Treasury; except that any amounts payable in accordance with such arrangement, and paid into the United States Treasury before June 10, 1930, are authorized to be appropriated to the credit of the corporation. Upon the receipt by the corporation of such amounts the liability of the Textile Alliance, Incorporated, under such arrangement shall be extinguished.
 
-([June 10, 1930, ch. 440, § 3][/us/act/1930-06-10/ch440/s3], [46 Stat. 539][/us/stat/46/539].)
+([June 10, 1930, ch. 440][/us/act/1930-06-10/ch440], § 3, [46 Stat. 539][/us/stat/46/539].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1930-06-10/ch440/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch440%2Fs3
+[/us/act/1930-06-10/ch440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch440
 [/us/stat/46/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F539
 
 

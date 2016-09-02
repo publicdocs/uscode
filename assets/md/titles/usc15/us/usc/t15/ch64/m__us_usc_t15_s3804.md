@@ -23,7 +23,7 @@
 
         Each department, agency, and instrumentality of the executive branch of the Federal Government shall carefully consider any written request from the Secretary, the head of any organizational entity designated by the Secretary pursuant to [section 3803(a) of this title][/us/usc/t15/s3803/a], or the head of any agency which is party to an agreement or arrangement pursuant to [section 3803(b) of this title][/us/usc/t15/s3803/b], to furnish such assistance, on a reimbursable basis, as the Secretary or such head deems necessary to carry out the program and to achieve the purposes of this chapter. Such assistance may include transfer of personnel with their consent and without prejudice to their position and rating.
 
-([Pub. L. 96–512, § 5][/us/pl/96/512/s5], Dec. 12, 1980, [94 Stat. 2830][/us/stat/94/2830].)
+([Pub. L. 96–512][/us/pl/96/512], § 5, Dec. 12, 1980, [94 Stat. 2830][/us/stat/94/2830].)
 
 ----------
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t15/s3803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3803%2Fa
 [/us/usc/t15/s3803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3803%2Fb
-[/us/pl/96/512/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F512%2Fs5
+[/us/pl/96/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F512
 [/us/stat/94/2830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2830
 
 

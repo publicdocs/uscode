@@ -155,7 +155,7 @@
 
         If the Bureau determines that a person described in paragraph (9) of [section 1681s–2(a) of this title][/us/usc/t15/s1681s–2/a] has not met the requirements of such paragraph, the Bureau shall take action to ensure the person’s compliance with such paragraph, which may include issuing model guidance or prescribing reasonable policies and procedures, as necessary to ensure that such person complies with such paragraph.
 
-([Pub. L. 90–321, title VI, § 621][/us/pl/90/321/s621], as added [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1134][/us/stat/84/1134]; amended [Pub. L. 98–443, § 9(n)][/us/pl/98/443/s9/n], Oct. 4, 1984, [98 Stat. 1708][/us/stat/98/1708]; [Pub. L. 101–73, title VII, § 744][/us/pl/101/73/s744](l), Aug. 9, 1989, [103 Stat. 439][/us/stat/103/439]; [Pub. L. 102–242, title II, § 212(c)][/us/pl/102/242/s212/c], Dec. 19, 1991, [105 Stat. 2300][/us/stat/105/2300]; [Pub. L. 102–550, title XVI, § 1604(a)(6)][/us/pl/102/550/s1604/a/6], Oct. 28, 1992, [106 Stat. 4082][/us/stat/106/4082]; [Pub. L. 104–88, title III, § 314][/us/pl/104/88/s314], Dec. 29, 1995, [109 Stat. 948][/us/stat/109/948]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208], §§ 2416–2418, Sept. 30, 1996, [110 Stat. 3009–450][/us/stat/110/3009-450] to 3009–452; [Pub. L. 105–347, § 6(6)][/us/pl/105/347/s6/6], Nov. 2, 1998, [112 Stat. 3211][/us/stat/112/3211]; [Pub. L. 106–102, title V, § 506(a)][/us/pl/106/102/s506/a], (b), Nov. 12, 1999, [113 Stat. 1441][/us/stat/113/1441], 1442; [Pub. L. 108–159, title I, § 153][/us/pl/108/159/s153], title III, § 312(e)(2), title IV, § 412(e), title VIII, § 811(f), Dec. 4, 2003, [117 Stat. 1966][/us/stat/117/1966], 1993, 2003, 2012; [Pub. L. 111–203, title X, § 1088(a)(2)(A)][/us/pl/111/203/s1088/a/2/A]–(C), (10), July 21, 2010, [124 Stat. 2087][/us/stat/124/2087], 2088.)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 621, as added [Pub. L. 91–508, title VI][/us/pl/91/508/tVI], § 601, Oct. 26, 1970, [84 Stat. 1134][/us/stat/84/1134]; amended [Pub. L. 98–443][/us/pl/98/443], § 9(n), Oct. 4, 1984, [98 Stat. 1708][/us/stat/98/1708]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 744(l), Aug. 9, 1989, [103 Stat. 439][/us/stat/103/439]; [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 212(c), Dec. 19, 1991, [105 Stat. 2300][/us/stat/105/2300]; [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1604(a)(6), Oct. 28, 1992, [106 Stat. 4082][/us/stat/106/4082]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 314, Dec. 29, 1995, [109 Stat. 948][/us/stat/109/948]; [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], §§ 2416–2418, Sept. 30, 1996, [110 Stat. 3009–450][/us/stat/110/3009-450] to 3009–452; [Pub. L. 105–347][/us/pl/105/347], § 6(6), Nov. 2, 1998, [112 Stat. 3211][/us/stat/112/3211]; [Pub. L. 106–102, title V][/us/pl/106/102/tV], § 506(a), (b), Nov. 12, 1999, [113 Stat. 1441][/us/stat/113/1441], 1442; [Pub. L. 108–159, title I][/us/pl/108/159/tI], § 153, title III, § 312(e)(2), title IV, § 412(e), title VIII, § 811(f), Dec. 4, 2003, [117 Stat. 1966][/us/stat/117/1966], 1993, 2003, 2012; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1088(a)(2)(A)–(C), (10), July 21, 2010, [124 Stat. 2087][/us/stat/124/2087], 2088.)
 
  __References in Text__ 
 
@@ -173,77 +173,77 @@
 
  __Codification__ 
 
-    In subsec. (b)(1)(D), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 (49 App. U.S.C. 1301 et seq.)” and “that part” substituted for “that Act” on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49.
+    In subsec. (b)(1)(D), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 (49 App. U.S.C. 1301 et seq.)” and “that part” substituted for “that Act” on authority of [Pub. L. 103–272][/us/pl/103/272], § 6(b), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49.
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 1088(a)(10)(A)][/us/pl/111/203/s1088/a/10/A], added subsec. (a) and struck out former subsec. (a) which related to enforcement by Federal Trade Commission.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(10)(A), added subsec. (a) and struck out former subsec. (a) which related to enforcement by Federal Trade Commission.
 
-    Subsec. (b). [Pub. L. 111–203, § 1088(a)(10)(B)][/us/pl/111/203/s1088/a/10/B], added subsec. (b) and struck out former subsec. (b) which related to enforcement under section 8 of the Federal Deposit Insurance Act, the Federal Credit Union Act, subtitle IV of title 49, part A of subtitle VII of title 49, and the Packers and Stockyards Act, 1921.
+    Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(10)(B), added subsec. (b) and struck out former subsec. (b) which related to enforcement under section 8 of the Federal Deposit Insurance Act, the Federal Credit Union Act, subtitle IV of title 49, part A of subtitle VII of title 49, and the Packers and Stockyards Act, 1921.
 
-    Subsec. (c)(2). [Pub. L. 111–203, § 1088(a)(10)(C)][/us/pl/111/203/s1088/a/10/C], in introductory provisions, inserted “and the Federal Trade Commission” before “or the appropriate” and before “or appropriate” in two places.
+    Subsec. (c)(2). [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(10)(C), in introductory provisions, inserted “and the Federal Trade Commission” before “or the appropriate” and before “or appropriate” in two places.
 
-    [Pub. L. 111–203, § 1088(a)(2)(C)][/us/pl/111/203/s1088/a/2/C], in introductory provisions, substituted “provide the Bureau” for “provide the Commission”.
+    [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(2)(C), in introductory provisions, substituted “provide the Bureau” for “provide the Commission”.
 
-    [Pub. L. 111–203, § 1088(a)(2)(A)][/us/pl/111/203/s1088/a/2/A], in introductory provisions, substituted “upon the Bureau” for “upon the Federal Trade Commission” and “The Bureau” for “The Federal Trade Commission”.
+    [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(2)(A), in introductory provisions, substituted “upon the Bureau” for “upon the Federal Trade Commission” and “The Bureau” for “The Federal Trade Commission”.
 
-    Subsec. (c)(4). [Pub. L. 111–203, § 1088(a)(10)(D)][/us/pl/111/203/s1088/a/10/D], inserted “, the Federal Trade Commission,” before “or the appropriate” in two places.
+    Subsec. (c)(4). [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(10)(D), inserted “, the Federal Trade Commission,” before “or the appropriate” in two places.
 
-    [Pub. L. 111–203, § 1088(a)(2)(C)][/us/pl/111/203/s1088/a/2/C], substituted “complaint of the Bureau” for “complaint of the Commission”.
+    [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(2)(C), substituted “complaint of the Bureau” for “complaint of the Commission”.
 
-    [Pub. L. 111–203, § 1088(a)(2)(A)][/us/pl/111/203/s1088/a/2/A], substituted “If the Bureau” for “If the Federal Trade Commission”.
+    [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(2)(A), substituted “If the Bureau” for “If the Federal Trade Commission”.
 
-    Subsec. (e). [Pub. L. 111–203, § 1088(a)(10)(E)][/us/pl/111/203/s1088/a/10/E], added subsec. (e) and struck out former subsec. (e) which related to prescription of regulations by certain Federal banking agencies, the Board of Governors of the Federal Reserve System, and the Board of the National Credit Union Administration.
+    Subsec. (e). [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(10)(E), added subsec. (e) and struck out former subsec. (e) which related to prescription of regulations by certain Federal banking agencies, the Board of Governors of the Federal Reserve System, and the Board of the National Credit Union Administration.
 
-    Subsec. (f)(2). [Pub. L. 111–203, § 1088(a)(10)(F)][/us/pl/111/203/s1088/a/10/F], substituted “the Federal Trade Commission, the Federal banking agencies,” for “the Federal banking agencies”.
+    Subsec. (f)(2). [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(10)(F), substituted “the Federal Trade Commission, the Federal banking agencies,” for “the Federal banking agencies”.
 
-    Subsec. (f)(3). [Pub. L. 111–203, § 1088(a)(2)(C)][/us/pl/111/203/s1088/a/2/C], substituted “the Bureau” for “the Commission”.
+    Subsec. (f)(3). [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(2)(C), substituted “the Bureau” for “the Commission”.
 
-    Subsec. (g). [Pub. L. 111–203, § 1088(a)(2)(C)][/us/pl/111/203/s1088/a/2/C], substituted “the Bureau” for “the Commission” in two places.
+    Subsec. (g). [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(2)(C), substituted “the Bureau” for “the Commission” in two places.
 
-    [Pub. L. 111–203, § 1088(a)(2)(B)][/us/pl/111/203/s1088/a/2/B], substituted “Bureau” for “FTC” in heading.
+    [Pub. L. 111–203][/us/pl/111/203], § 1088(a)(2)(B), substituted “Bureau” for “FTC” in heading.
 
-    2003—Subsec. (b)(1)(B). [Pub. L. 108–159, § 811(f)][/us/pl/108/159/s811/f], substituted “25A” for “25(a)”.
+    2003—Subsec. (b)(1)(B). [Pub. L. 108–159][/us/pl/108/159], § 811(f), substituted “25A” for “25(a)”.
 
-    Subsec. (c)(1)(B)(ii). [Pub. L. 108–159, § 312(e)(2)(A)][/us/pl/108/159/s312/e/2/A], substituted “described in any of paragraphs (1) through (3) of section 1681s–2(c)” for “of section 1681s–2(a)”.
+    Subsec. (c)(1)(B)(ii). [Pub. L. 108–159][/us/pl/108/159], § 312(e)(2)(A), substituted “described in any of paragraphs (1) through (3) of section 1681s–2(c)” for “of section 1681s–2(a)”.
 
-    Subsec. (c)(5). [Pub. L. 108–159, § 312(e)(2)(B)(ii)][/us/pl/108/159/s312/e/2/B/ii], substituted “certain violations” for “violation of section 1681s–2(a)(1)” in heading.
+    Subsec. (c)(5). [Pub. L. 108–159][/us/pl/108/159], § 312(e)(2)(B)(ii), substituted “certain violations” for “violation of section 1681s–2(a)(1)” in heading.
 
-    Subsec. (c)(5)(A), (B). [Pub. L. 108–159, § 312(e)(2)(B)(i)][/us/pl/108/159/s312/e/2/B/i], substituted “described in any of paragraphs (1) through (3) of section 1681s–2(c)” for “of section 1681s–2(a)(1)”.
+    Subsec. (c)(5)(A), (B). [Pub. L. 108–159][/us/pl/108/159], § 312(e)(2)(B)(i), substituted “described in any of paragraphs (1) through (3) of section 1681s–2(c)” for “of section 1681s–2(a)(1)”.
 
-    Subsec. (f). [Pub. L. 108–159, § 153][/us/pl/108/159/s153], added subsec. (f).
+    Subsec. (f). [Pub. L. 108–159][/us/pl/108/159], § 153, added subsec. (f).
 
-    Subsec. (g). [Pub. L. 108–159, § 412(e)][/us/pl/108/159/s412/e], added subsec. (g).
+    Subsec. (g). [Pub. L. 108–159][/us/pl/108/159], § 412(e), added subsec. (g).
 
-    1999—Subsec. (a)(4). [Pub. L. 106–102, § 506(b)][/us/pl/106/102/s506/b], struck out par. (4) which read as follows: “Neither the Commission nor any other agency referred to in subsection (b) of this section may prescribe trade regulation rules or other regulations with respect to this subchapter.”
+    1999—Subsec. (a)(4). [Pub. L. 106–102][/us/pl/106/102], § 506(b), struck out par. (4) which read as follows: “Neither the Commission nor any other agency referred to in subsection (b) of this section may prescribe trade regulation rules or other regulations with respect to this subchapter.”
 
-    Subsec. (d). [Pub. L. 106–102, § 506(a)(1)][/us/pl/106/102/s506/a/1], struck out at the end “Notwithstanding the preceding, no agency referred to in subsection (b) of this section may conduct an examination of a bank, savings association, or credit union regarding compliance with the provisions of this subchapter, except in response to a complaint (or if the agency otherwise has knowledge) that the bank, savings association, or credit union has violated a provision of this subchapter, in which case, the agency may conduct an examination as necessary to investigate the complaint. If an agency determines during an investigation in response to a complaint that a violation of this subchapter has occurred, the agency may, during its next 2 regularly scheduled examinations of the bank, savings association, or credit union, examine for compliance with this subchapter.”
+    Subsec. (d). [Pub. L. 106–102][/us/pl/106/102], § 506(a)(1), struck out at the end “Notwithstanding the preceding, no agency referred to in subsection (b) of this section may conduct an examination of a bank, savings association, or credit union regarding compliance with the provisions of this subchapter, except in response to a complaint (or if the agency otherwise has knowledge) that the bank, savings association, or credit union has violated a provision of this subchapter, in which case, the agency may conduct an examination as necessary to investigate the complaint. If an agency determines during an investigation in response to a complaint that a violation of this subchapter has occurred, the agency may, during its next 2 regularly scheduled examinations of the bank, savings association, or credit union, examine for compliance with this subchapter.”
 
-    Subsec. (e). [Pub. L. 106–102, § 506(a)(2)][/us/pl/106/102/s506/a/2], added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “The Board of Governors of the Federal Reserve System may issue interpretations of any provision of this subchapter as such provision may apply to any persons identified under paragraph (1), (2), and (3) of subsection (b) of this section, or to the holding companies and affiliates of such persons, in consultation with Federal agencies identified in paragraphs (1), (2), and (3) of subsection (b) of this section.”
+    Subsec. (e). [Pub. L. 106–102][/us/pl/106/102], § 506(a)(2), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “The Board of Governors of the Federal Reserve System may issue interpretations of any provision of this subchapter as such provision may apply to any persons identified under paragraph (1), (2), and (3) of subsection (b) of this section, or to the holding companies and affiliates of such persons, in consultation with Federal agencies identified in paragraphs (1), (2), and (3) of subsection (b) of this section.”
 
     1998—Subsec. (b). [Pub. L. 105–347][/us/pl/105/347] struck out “or (e)” after “subject to subsection (d)” in introductory provisions.
 
-    1996—Subsec. (a). [Pub. L. 104–208, § 2416(b)(1)][/us/pl/104/208/s2416/b/1], which directed the amendment of subsec. (a) by inserting heading “Enforcement by Federal Trade Commission” before “Compliance with the requirements”, was executed by making the insertion after “(a)”, to reflect the probable intent of Congress and the amendment by [Pub. L. 104–208, § 2416(a)][/us/pl/104/208/s2416/a]. See below.
+    1996—Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 2416(b)(1), which directed the amendment of subsec. (a) by inserting heading “Enforcement by Federal Trade Commission” before “Compliance with the requirements”, was executed by making the insertion after “(a)”, to reflect the probable intent of Congress and the amendment by [Pub. L. 104–208][/us/pl/104/208], § 2416(a). See below.
 
-    [Pub. L. 104–208, § 2416(a)][/us/pl/104/208/s2416/a], inserted “(1)” after “(a)” and added pars. (2) to (4).
+    [Pub. L. 104–208][/us/pl/104/208], § 2416(a), inserted “(1)” after “(a)” and added pars. (2) to (4).
 
-    Subsec. (b). [Pub. L. 104–208, § 2416(b)(2)][/us/pl/104/208/s2416/b/2], inserted heading and in introductory provisions substituted “Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies, persons who use consumer reports from such agencies, persons who furnish information to such agencies, and users of information that are subject to subsection (d) or (e) of [section 1681m of this title][/us/usc/t15/s1681m] shall be enforced under—” for “Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies and persons who use consumer reports from such agencies shall be enforced under—”.
+    Subsec. (b). [Pub. L. 104–208][/us/pl/104/208], § 2416(b)(2), inserted heading and in introductory provisions substituted “Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies, persons who use consumer reports from such agencies, persons who furnish information to such agencies, and users of information that are subject to subsection (d) or (e) of [section 1681m of this title][/us/usc/t15/s1681m] shall be enforced under—” for “Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies and persons who use consumer reports from such agencies shall be enforced under—”.
 
-    Subsec. (c). [Pub. L. 104–208, § 2417(2)][/us/pl/104/208/s2417/2], added subsec. (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 104–208][/us/pl/104/208], § 2417(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-    [Pub. L. 104–208, § 2416(c)][/us/pl/104/208/s2416/c], inserted at end “Notwithstanding the preceding, no agency referred to in subsection (b) of this section may conduct an examination of a bank, savings association, or credit union regarding compliance with the provisions of this subchapter, except in response to a complaint (or if the agency otherwise has knowledge) that the bank, savings association, or credit union has violated a provision of this subchapter, in which case, the agency may conduct an examination as necessary to investigate the complaint. If an agency determines during an investigation in response to a complaint that a violation of this subchapter has occurred, the agency may, during its next 2 regularly scheduled examinations of the bank, savings association, or credit union, examine for compliance with this subchapter.”
+    [Pub. L. 104–208][/us/pl/104/208], § 2416(c), inserted at end “Notwithstanding the preceding, no agency referred to in subsection (b) of this section may conduct an examination of a bank, savings association, or credit union regarding compliance with the provisions of this subchapter, except in response to a complaint (or if the agency otherwise has knowledge) that the bank, savings association, or credit union has violated a provision of this subchapter, in which case, the agency may conduct an examination as necessary to investigate the complaint. If an agency determines during an investigation in response to a complaint that a violation of this subchapter has occurred, the agency may, during its next 2 regularly scheduled examinations of the bank, savings association, or credit union, examine for compliance with this subchapter.”
 
-    Subsec. (d). [Pub. L. 104–208, § 2417(1)][/us/pl/104/208/s2417/1], redesignated subsec. (c) as (d).
+    Subsec. (d). [Pub. L. 104–208][/us/pl/104/208], § 2417(1), redesignated subsec. (c) as (d).
 
-    Subsec. (e). [Pub. L. 104–208, § 2418][/us/pl/104/208/s2418], added subsec. (e).
+    Subsec. (e). [Pub. L. 104–208][/us/pl/104/208], § 2418, added subsec. (e).
 
     1995—Subsec. (b)(4). [Pub. L. 104–88][/us/pl/104/88] substituted “Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board” for “Interstate Commerce Commission with respect to any common carrier subject to those Acts”.
 
     1992—Subsec. (b)(1)(C). [Pub. L. 102–550][/us/pl/102/550] substituted semicolon for period at end.
 
-    1991—Subsec. (b). [Pub. L. 102–242, § 212(c)(2)][/us/pl/102/242/s212/c/2], inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act ([12 U.S.C. 1813(s)][/us/usc/t12/s1813/s]) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 ([12 U.S.C. 3101][/us/usc/t12/s3101]).”
+    1991—Subsec. (b). [Pub. L. 102–242][/us/pl/102/242], § 212(c)(2), inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act ([12 U.S.C. 1813(s)][/us/usc/t12/s1813/s]) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 ([12 U.S.C. 3101][/us/usc/t12/s3101]).”
 
-    [Pub. L. 102–242, § 212(c)(1)][/us/pl/102/242/s212/c/1], added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of:
+    [Pub. L. 102–242][/us/pl/102/242], § 212(c)(1), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of:
 
     “(A) national banks, by the Comptroller of the Currency;
 
@@ -323,28 +323,28 @@
 [/us/usc/t15/s1681c–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681c%E2%80%932
 [/us/usc/t15/s1681a/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a%2Fp
 [/us/usc/t15/s1681s–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681s%E2%80%932%2Fa
-[/us/pl/90/321/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs621
-[/us/pl/91/508/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs601
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/91/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtVI
 [/us/stat/84/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1134
-[/us/pl/98/443/s9/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs9%2Fn
+[/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/stat/98/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1708
-[/us/pl/101/73/s744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs744
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F439
-[/us/pl/102/242/s212/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs212%2Fc
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2300
-[/us/pl/102/550/s1604/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fa%2F6
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4082
-[/us/pl/104/88/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs314
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F948
-[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-450
-[/us/pl/105/347/s6/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347%2Fs6%2F6
+[/us/pl/105/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347
 [/us/stat/112/3211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3211
-[/us/pl/106/102/s506/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs506%2Fa
+[/us/pl/106/102/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtV
 [/us/stat/113/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1441
-[/us/pl/108/159/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs153
+[/us/pl/108/159/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtI
 [/us/stat/117/1966]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1966
-[/us/pl/111/203/s1088/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2087
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
@@ -360,46 +360,46 @@
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
-[/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
-[/us/pl/111/203/s1088/a/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F10%2FA
-[/us/pl/111/203/s1088/a/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F10%2FB
-[/us/pl/111/203/s1088/a/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F10%2FC
-[/us/pl/111/203/s1088/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FC
-[/us/pl/111/203/s1088/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FA
-[/us/pl/111/203/s1088/a/10/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F10%2FD
-[/us/pl/111/203/s1088/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FC
-[/us/pl/111/203/s1088/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FA
-[/us/pl/111/203/s1088/a/10/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F10%2FE
-[/us/pl/111/203/s1088/a/10/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F10%2FF
-[/us/pl/111/203/s1088/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FC
-[/us/pl/111/203/s1088/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FC
-[/us/pl/111/203/s1088/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1088%2Fa%2F2%2FB
-[/us/pl/108/159/s811/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs811%2Ff
-[/us/pl/108/159/s312/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs312%2Fe%2F2%2FA
-[/us/pl/108/159/s312/e/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs312%2Fe%2F2%2FB%2Fii
-[/us/pl/108/159/s312/e/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs312%2Fe%2F2%2FB%2Fi
-[/us/pl/108/159/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs153
-[/us/pl/108/159/s412/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs412%2Fe
-[/us/pl/106/102/s506/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs506%2Fb
-[/us/pl/106/102/s506/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs506%2Fa%2F1
-[/us/pl/106/102/s506/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs506%2Fa%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
+[/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/pl/105/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347
-[/us/pl/104/208/s2416/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2416%2Fb%2F1
-[/us/pl/104/208/s2416/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2416%2Fa
-[/us/pl/104/208/s2416/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2416%2Fa
-[/us/pl/104/208/s2416/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2416%2Fb%2F2
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t15/s1681m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681m
-[/us/pl/104/208/s2417/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2417%2F2
-[/us/pl/104/208/s2416/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2416%2Fc
-[/us/pl/104/208/s2417/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2417%2F1
-[/us/pl/104/208/s2418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2418
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
-[/us/pl/102/242/s212/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs212%2Fc%2F2
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/usc/t12/s1813/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fs
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
-[/us/pl/102/242/s212/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs212%2Fc%2F1
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

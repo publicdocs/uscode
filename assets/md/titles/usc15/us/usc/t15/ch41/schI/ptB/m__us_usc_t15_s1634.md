@@ -17,7 +17,7 @@
 
     If information disclosed in accordance with this part is subsequently rendered inaccurate as the result of any act, occurrence, or agreement subsequent to the delivery of the required disclosures, the inaccuracy resulting therefrom does not constitute a violation of this part.
 
-([Pub. L. 90–321, title I, § 124][/us/pl/90/321/s124], May 29, 1968, [82 Stat. 152][/us/stat/82/152].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 124, May 29, 1968, [82 Stat. 152][/us/stat/82/152].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/321/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs124
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
 [/us/stat/82/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F152
 
 

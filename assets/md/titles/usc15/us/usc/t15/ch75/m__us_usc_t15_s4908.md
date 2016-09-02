@@ -47,7 +47,7 @@
 
         (2) an index of leading indicators which includes the measurement of service sector activity in direct proportion to the contribution of the service sector to the gross national product of the United States.
 
-([Pub. L. 100–418, title V, § 5408][/us/pl/100/418/s5408], Aug. 23, 1988, [102 Stat. 1466][/us/stat/102/1466].)
+([Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5408, Aug. 23, 1988, [102 Stat. 1466][/us/stat/102/1466].)
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s5408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5408
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1466
 
 

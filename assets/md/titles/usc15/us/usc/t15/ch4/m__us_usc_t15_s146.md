@@ -33,7 +33,7 @@
 
     (h) May establish such branch offices at such places in China as it deems advisable.
 
-([Sept. 19, 1922, ch. 346, § 6][/us/act/1922-09-19/ch346/s6], [42 Stat. 851][/us/stat/42/851]; [Feb. 26, 1925, ch. 345, § 6][/us/act/1925-02-26/ch345/s6], [43 Stat. 996][/us/stat/43/996].)
+([Sept. 19, 1922, ch. 346][/us/act/1922-09-19/ch346], § 6, [42 Stat. 851][/us/stat/42/851]; [Feb. 26, 1925, ch. 345][/us/act/1925-02-26/ch345], § 6, [43 Stat. 996][/us/stat/43/996].)
 
  __Amendments__ 
 
@@ -50,9 +50,9 @@
 ----------
 ----------
 
-[/us/act/1922-09-19/ch346/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346%2Fs6
+[/us/act/1922-09-19/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346
 [/us/stat/42/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F851
-[/us/act/1925-02-26/ch345/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-26%2Fch345%2Fs6
+[/us/act/1925-02-26/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-26%2Fch345
 [/us/stat/43/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F996
 [/us/stat/57/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F767
 [/us/usc/t15/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs142

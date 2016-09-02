@@ -25,7 +25,7 @@
 
     (4) The term “Secretary” means the Secretary of Commerce.
 
-([Pub. L. 95–367, § 4][/us/pl/95/367/s4], Sept. 17, 1978, [92 Stat. 601][/us/stat/92/601]; [Pub. L. 99–272, title VI, § 6084(a)][/us/pl/99/272/s6084/a], Apr. 7, 1986, [100 Stat. 136][/us/stat/100/136].)
+([Pub. L. 95–367][/us/pl/95/367], § 4, Sept. 17, 1978, [92 Stat. 601][/us/stat/92/601]; [Pub. L. 99–272, title VI][/us/pl/99/272/tVI], § 6084(a), Apr. 7, 1986, [100 Stat. 136][/us/stat/100/136].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 ----------
 ----------
 
-[/us/pl/95/367/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F367%2Fs4
+[/us/pl/95/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F367
 [/us/stat/92/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F601
-[/us/pl/99/272/s6084/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs6084%2Fa
+[/us/pl/99/272/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtVI
 [/us/stat/100/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F136
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 

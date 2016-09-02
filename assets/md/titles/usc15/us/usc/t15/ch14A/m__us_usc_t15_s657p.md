@@ -101,7 +101,7 @@
 
                 Each report submitted under subparagraph (A) shall include a status update on all efforts made to educate owners and employees of small business concerns on options for providing health insurance for children through public and private alternatives.
 
-([Pub. L. 111–3, title VI, § 621][/us/pl/111/3/s621], Feb. 4, 2009, [123 Stat. 104][/us/stat/123/104].)
+([Pub. L. 111–3, title VI][/us/pl/111/3/tVI], § 621, Feb. 4, 2009, [123 Stat. 104][/us/stat/123/104].)
 
  __References in Text__ 
 
@@ -133,7 +133,7 @@
 [/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
 [/us/usc/t15/s656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs656
 [/us/usc/t26/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs125
-[/us/pl/111/3/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs621
+[/us/pl/111/3/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtVI
 [/us/stat/123/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F104
 [/us/pl/85/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699
 [/us/stat/72/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F689

@@ -27,7 +27,7 @@
 
         A verified statement from the manufacturer, producer of, or dealer in, imported fur products and furs showing information required under the provisions of this subchapter may be required under regulations prescribed by the Secretary of the Treasury.
 
-([Aug. 8, 1951, ch. 298, § 6][/us/act/1951-08-08/ch298/s6], [65 Stat. 178][/us/stat/65/178].)
+([Aug. 8, 1951, ch. 298][/us/act/1951-08-08/ch298], § 6, [65 Stat. 178][/us/stat/65/178].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/act/1951-08-08/ch298/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298%2Fs6
+[/us/act/1951-08-08/ch298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298
 [/us/stat/65/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F178
 [/us/act/1930-06-17/ch497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-17%2Fch497
 [/us/stat/46/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F590

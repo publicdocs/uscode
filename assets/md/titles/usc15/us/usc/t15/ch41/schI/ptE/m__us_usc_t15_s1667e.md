@@ -19,11 +19,11 @@
 
     (b) The Bureau shall by regulation exempt from the requirements of this part any class of lease transactions within any State if it determines that under the law of that State that class of transactions is subject to requirements substantially similar to those imposed under this part or that such law gives greater protection and benefit to the consumer, and that there is adequate provision for enforcement.
 
-([Pub. L. 90–321, title I, § 186][/us/pl/90/321/s186], as added [Pub. L. 94–240, § 3][/us/pl/94/240/s3], Mar. 23, 1976, [90 Stat. 260][/us/stat/90/260]; amended [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], (10), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2109.)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 186, as added [Pub. L. 94–240][/us/pl/94/240], § 3, Mar. 23, 1976, [90 Stat. 260][/us/stat/90/260]; amended [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), (10), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107], 2109.)
 
  __Amendments__ 
 
-    2010—[Pub. L. 111–203, § 1100A(2)][/us/pl/111/203/s1100A/2], (10), substituted “Bureau” for “Board”, “the Bureau” for “the Board”, and “The Bureau” for “The Board” wherever appearing.
+    2010—[Pub. L. 111–203][/us/pl/111/203], § 1100A(2), (10), substituted “Bureau” for “Board”, “the Bureau” for “the Board”, and “The Bureau” for “The Board” wherever appearing.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -36,12 +36,12 @@
 ----------
 ----------
 
-[/us/pl/90/321/s186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs186
-[/us/pl/94/240/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240%2Fs3
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/94/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F240
 [/us/stat/90/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F260
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

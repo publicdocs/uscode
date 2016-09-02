@@ -33,7 +33,7 @@
 
         Nothing in this subchapter shall be construed to authorize the bringing of legal actions by debt collectors.
 
-([Pub. L. 90–321, title VIII, § 811][/us/pl/90/321/s811], as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 880][/us/stat/91/880].)
+([Pub. L. 90–321, title VIII][/us/pl/90/321/tVIII], § 811, as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 880][/us/stat/91/880].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/90/321/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs811
+[/us/pl/90/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVIII
 [/us/pl/95/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F109
 [/us/stat/91/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F880
 

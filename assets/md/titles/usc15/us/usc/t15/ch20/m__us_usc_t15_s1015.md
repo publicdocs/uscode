@@ -17,7 +17,7 @@
 
     As used in this chapter, the term “State” includes the several States, Alaska, Hawaii, Puerto Rico, Guam, and the District of Columbia.
 
-([Mar. 9, 1945, ch. 20, § 5][/us/act/1945-03-09/ch20/s5], [59 Stat. 34][/us/stat/59/34]; [Aug. 1, 1956, ch. 852, § 4][/us/act/1956-08-01/ch852/s4], [70 Stat. 908][/us/stat/70/908].)
+([Mar. 9, 1945, ch. 20][/us/act/1945-03-09/ch20], § 5, [59 Stat. 34][/us/stat/59/34]; [Aug. 1, 1956, ch. 852][/us/act/1956-08-01/ch852], § 4, [70 Stat. 908][/us/stat/70/908].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1945-03-09/ch20/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-03-09%2Fch20%2Fs5
+[/us/act/1945-03-09/ch20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-03-09%2Fch20
 [/us/stat/59/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F34
-[/us/act/1956-08-01/ch852/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch852%2Fs4
+[/us/act/1956-08-01/ch852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch852
 [/us/stat/70/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F908
 [/us/pl/85/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F508
 [/us/stat/72/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F339

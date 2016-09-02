@@ -25,7 +25,7 @@
 
     (4) facilitating access to Internet safety education and public awareness efforts the Commission considers appropriate by States, units of local government, schools, police departments, nonprofit organizations, and other appropriate entities.
 
-([Pub. L. 110–385, title II, § 212][/us/pl/110/385/s212], Oct. 10, 2008, [122 Stat. 4103][/us/stat/122/4103].)
+([Pub. L. 110–385, title II][/us/pl/110/385/tII], § 212, Oct. 10, 2008, [122 Stat. 4103][/us/stat/122/4103].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/110/385/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2Fs212
+[/us/pl/110/385/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F385%2FtII
 [/us/stat/122/4103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4103
 
 

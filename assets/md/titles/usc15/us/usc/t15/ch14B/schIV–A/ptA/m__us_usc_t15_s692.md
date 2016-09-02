@@ -39,7 +39,7 @@
 
         (4) such other provisions, not inconsistent with the purposes of this part, as the Administrator may in his discretion require.
 
-([Pub. L. 85–699, title IV, § 401][/us/pl/85/699/s401], as added [Pub. L. 89–117, title III, § 316(a)][/us/pl/89/117/s316/a], Aug. 10, 1965, [79 Stat. 482][/us/stat/79/482]; amended [Pub. L. 90–104, title II, § 209][/us/pl/90/104/s209], Oct. 11, 1967, [81 Stat. 271][/us/stat/81/271]; [Pub. L. 91–609, title IX, § 911(a)(2)][/us/pl/91/609/s911/a/2], Dec. 31, 1970, [84 Stat. 1812][/us/stat/84/1812].)
+([Pub. L. 85–699, title IV][/us/pl/85/699/tIV], § 401, as added [Pub. L. 89–117, title III][/us/pl/89/117/tIII], § 316(a), Aug. 10, 1965, [79 Stat. 482][/us/stat/79/482]; amended [Pub. L. 90–104, title II][/us/pl/90/104/tII], § 209, Oct. 11, 1967, [81 Stat. 271][/us/stat/81/271]; [Pub. L. 91–609, title IX][/us/pl/91/609/tIX], § 911(a)(2), Dec. 31, 1970, [84 Stat. 1812][/us/stat/84/1812].)
 
  __Amendments__ 
 
@@ -58,12 +58,12 @@
 ----------
 ----------
 
-[/us/pl/85/699/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs401
-[/us/pl/89/117/s316/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs316%2Fa
+[/us/pl/85/699/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIV
+[/us/pl/89/117/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtIII
 [/us/stat/79/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F482
-[/us/pl/90/104/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104%2Fs209
+[/us/pl/90/104/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104%2FtII
 [/us/stat/81/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F271
-[/us/pl/91/609/s911/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs911%2Fa%2F2
+[/us/pl/91/609/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtIX
 [/us/stat/84/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1812
 [/us/pl/91/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609
 [/us/pl/90/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104

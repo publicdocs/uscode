@@ -25,7 +25,7 @@
 
         (2) No Department of Energy national laboratory may receive more than $10,000,000 of nonappropriated funds under any cooperative research and development agreement entered into under this subsection in connection with the Initiative, except to the extent approved in advance by the Secretary of Energy.
 
-([Pub. L. 100–180, div. C, title I, § 3147][/us/pl/100/180/s3147], Dec. 4, 1987, [101 Stat. 1244][/us/stat/101/1244].)
+([Pub. L. 100–180, div. C, title I][/us/pl/100/180/dC/tI], § 3147, Dec. 4, 1987, [101 Stat. 1244][/us/stat/101/1244].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/100/180/s3147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3147
+[/us/pl/100/180/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdC%2FtI
 [/us/stat/101/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1244
 
 

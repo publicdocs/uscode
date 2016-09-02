@@ -105,7 +105,7 @@
 
     (b) Nothing in this chapter shall be construed to affect either the tort law or the law governing the interpretation of insurance contracts of any State, and the definitions of liability, personal risk liability, and insurance under any State law shall not be applied for the purposes of this chapter, including recognition or qualification of risk retention groups or purchasing groups.
 
-([Pub. L. 97–45, § 2][/us/pl/97/45/s2], Sept. 25, 1981, [95 Stat. 949][/us/stat/95/949]; [Pub. L. 98–193][/us/pl/98/193], Dec. 1, 1983, [97 Stat. 1344][/us/stat/97/1344]; [Pub. L. 99–563][/us/pl/99/563], §§ 3, 4, 12(b), Oct. 27, 1986, [100 Stat. 3170][/us/stat/100/3170], 3171, 3177.)
+([Pub. L. 97–45][/us/pl/97/45], § 2, Sept. 25, 1981, [95 Stat. 949][/us/stat/95/949]; [Pub. L. 98–193][/us/pl/98/193], Dec. 1, 1983, [97 Stat. 1344][/us/stat/97/1344]; [Pub. L. 99–563][/us/pl/99/563], §§ 3, 4, 12(b), Oct. 27, 1986, [100 Stat. 3170][/us/stat/100/3170], 3171, 3177.)
 
  __References in Text__ 
 
@@ -117,27 +117,27 @@
 
  __Amendments__ 
 
-    1986—Subsec. (a)(1) to (3). [Pub. L. 99–563, § 3(a)][/us/pl/99/563/s3/a], redesignated par. (2) as (1), added pars. (2) and (3), and struck out former par. (1) defining completed operations liability, and former par. (3) defining product liability.
+    1986—Subsec. (a)(1) to (3). [Pub. L. 99–563][/us/pl/99/563], § 3(a), redesignated par. (2) as (1), added pars. (2) and (3), and struck out former par. (1) defining completed operations liability, and former par. (3) defining product liability.
 
-    Subsec. (a)(4). [Pub. L. 99–563, § 4(a)(1)][/us/pl/99/563/s4/a/1], struck out “taxable as a corporation, or as an insurance company, formed under the laws of any State, Bermuda, or the Cayman Islands” after “association” in introductory provisions.
+    Subsec. (a)(4). [Pub. L. 99–563][/us/pl/99/563], § 4(a)(1), struck out “taxable as a corporation, or as an insurance company, formed under the laws of any State, Bermuda, or the Cayman Islands” after “association” in introductory provisions.
 
-    Subsec. (a)(4)(A). [Pub. L. 99–563, § 4(a)(2)][/us/pl/99/563/s4/a/2], substituted “liability exposure” for “product liability or completed operations liability risk exposure”.
+    Subsec. (a)(4)(A). [Pub. L. 99–563][/us/pl/99/563], § 4(a)(2), substituted “liability exposure” for “product liability or completed operations liability risk exposure”.
 
-    Subsec. (a)(4)(C). [Pub. L. 99–563, § 4(a)(3)][/us/pl/99/563/s4/a/3], amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “which is chartered or licensed as an insurance company and authorized to engage in the business of insurance under the laws of any State, or which is so chartered or licensed and authorized before January 1, 1985, under the laws of Bermuda or the Cayman Islands, except that any group so chartered or licensed and authorized under the laws of Bermuda or the Cayman Islands shall be considered to be a risk retention group only after it has certified to the insurance commissioner of at least one State that it satisfies the capitalization requirements of such State;”.
+    Subsec. (a)(4)(C). [Pub. L. 99–563][/us/pl/99/563], § 4(a)(3), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “which is chartered or licensed as an insurance company and authorized to engage in the business of insurance under the laws of any State, or which is so chartered or licensed and authorized before January 1, 1985, under the laws of Bermuda or the Cayman Islands, except that any group so chartered or licensed and authorized under the laws of Bermuda or the Cayman Islands shall be considered to be a risk retention group only after it has certified to the insurance commissioner of at least one State that it satisfies the capitalization requirements of such State;”.
 
-    Subsec. (a)(4)(E) to (H). [Pub. L. 99–563, § 4(a)(4)][/us/pl/99/563/s4/a/4], added subpars. (E) to (H), and struck out former subpar. (E) which read as follows: “which is composed of member each of whose principal activity consists of the manufacture, design, importation, distribution, packaging, labeling, lease, or sale of a product or products;”.
+    Subsec. (a)(4)(E) to (H). [Pub. L. 99–563][/us/pl/99/563], § 4(a)(4), added subpars. (E) to (H), and struck out former subpar. (E) which read as follows: “which is composed of member each of whose principal activity consists of the manufacture, design, importation, distribution, packaging, labeling, lease, or sale of a product or products;”.
 
-    Subsec. (a)(5). [Pub. L. 99–563, § 4(b)][/us/pl/99/563/s4/b], amended par. (5) generally. Prior to amendment, par. (5) read as follows: “ ‘purchasing group’ means any group of persons which has as one of its purposes the purchase of product liability or completed operations liability insurance on a group basis;”.
+    Subsec. (a)(5). [Pub. L. 99–563][/us/pl/99/563], § 4(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “ ‘purchasing group’ means any group of persons which has as one of its purposes the purchase of product liability or completed operations liability insurance on a group basis;”.
 
-    Subsec. (a)(7). [Pub. L. 99–563, § 3(b)][/us/pl/99/563/s3/b], added par. (7).
+    Subsec. (a)(7). [Pub. L. 99–563][/us/pl/99/563], § 3(b), added par. (7).
 
-    Subsec. (b). [Pub. L. 99–563, § 12(b)][/us/pl/99/563/s12/b], substituted “liability, personal risk liability, and insurance” for “product liability and product liability insurance”.
+    Subsec. (b). [Pub. L. 99–563][/us/pl/99/563], § 12(b), substituted “liability, personal risk liability, and insurance” for “product liability and product liability insurance”.
 
     1983—Subsec. (b). [Pub. L. 98–193][/us/pl/98/193] substituted provision that nothing in this chapter would be construed to affect either the tort law or the law governing the interpretation of insurance contracts of any State, and that the definitions of product liability and product liability insurance under any State law would not be applied for the purposes of this chapter, including recognition or qualification of risk retention groups or purchasing groups for provision that the definition of product liability in this section would not be construed to affect either the tort law or the law governing the interpretation of insurance contracts of any State.
 
  __Effective Date of 1986 Amendment; Applicability__ 
 
-[Pub. L. 99–563, § 11(a)][/us/pl/99/563/s11/a], (b), and (c)(2), Oct. 27, 1986, [100 Stat. 3177][/us/stat/100/3177], provided that:
+[Pub. L. 99–563][/us/pl/99/563], § 11(a), (b), and (c)(2), Oct. 27, 1986, [100 Stat. 3177][/us/stat/100/3177], provided that:
 
 >     “(a)  __General Rule__  __.—__ 
 
@@ -157,19 +157,19 @@
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–563, § 1][/us/pl/99/563/s1], Oct. 27, 1986, [100 Stat. 3170][/us/stat/100/3170], provided that: 
+[Pub. L. 99–563][/us/pl/99/563], § 1, Oct. 27, 1986, [100 Stat. 3170][/us/stat/100/3170], provided that: 
 
 > “This Act \[enacting sections 3905 and 3906 of this title, amending this section, sections 3902 and 3903 of this title, and sections 9671 to 9675 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and [section 9671 of Title 42][/us/usc/t42/s9671], and amending provisions set out as a note under this section\] may be cited as the ‘Risk Retention Amendments of 1986’.”
 
  __Short Title__ 
 
-[Pub. L. 97–45, § 1][/us/pl/97/45/s1], Sept. 25, 1981, [95 Stat. 949][/us/stat/95/949], as amended by [Pub. L. 99–563, § 12(a)][/us/pl/99/563/s12/a], Oct. 27, 1986, [100 Stat. 3177][/us/stat/100/3177], provided that: 
+[Pub. L. 97–45][/us/pl/97/45], § 1, Sept. 25, 1981, [95 Stat. 949][/us/stat/95/949], as amended by [Pub. L. 99–563][/us/pl/99/563], § 12(a), Oct. 27, 1986, [100 Stat. 3177][/us/stat/100/3177], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Liability Risk Retention Act of 1986’.”
 
  __Oversight of Implementation; Report to Congress__ 
 
-[Pub. L. 99–563, § 10][/us/pl/99/563/s10], Oct. 27, 1986, [100 Stat. 3176][/us/stat/100/3176], provided that:
+[Pub. L. 99–563][/us/pl/99/563], § 10, Oct. 27, 1986, [100 Stat. 3176][/us/stat/100/3176], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -207,7 +207,7 @@
 ----------
 
 [/us/usc/t45/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs51
-[/us/pl/97/45/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F45%2Fs2
+[/us/pl/97/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F45
 [/us/stat/95/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F949
 [/us/pl/98/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F193
 [/us/stat/97/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1344
@@ -217,29 +217,29 @@
 [/us/act/1908-04-22/ch149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1908-04-22%2Fch149
 [/us/stat/35/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F35%2F65
 [/us/usc/t45/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs51
-[/us/pl/99/563/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs3%2Fa
-[/us/pl/99/563/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs4%2Fa%2F1
-[/us/pl/99/563/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs4%2Fa%2F2
-[/us/pl/99/563/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs4%2Fa%2F3
-[/us/pl/99/563/s4/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs4%2Fa%2F4
-[/us/pl/99/563/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs4%2Fb
-[/us/pl/99/563/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs3%2Fb
-[/us/pl/99/563/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs12%2Fb
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
 [/us/pl/98/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F193
-[/us/pl/99/563/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs11%2Fa
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
 [/us/stat/100/3177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3177
 [/us/usc/t15/s3902/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3902%2Fd
 [/us/pl/97/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F45
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/usc/t42/s6901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6901
-[/us/pl/99/563/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs1
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
 [/us/stat/100/3170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3170
 [/us/usc/t42/s9671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9671
-[/us/pl/97/45/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F45%2Fs1
+[/us/pl/97/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F45
 [/us/stat/95/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F949
-[/us/pl/99/563/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs12%2Fa
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
 [/us/stat/100/3177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3177
-[/us/pl/99/563/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563%2Fs10
+[/us/pl/99/563]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F563
 [/us/stat/100/3176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3176
 [/us/pl/97/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F45
 

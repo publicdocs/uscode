@@ -17,7 +17,7 @@
 
     All textile fiber products imported into the United States shall be stamped, tagged, labeled, or otherwise identified in accordance with the provisions of [section 70b of this title][/us/usc/t15/s70b], and all invoices of such products required pursuant to [section 1484 of title 19][/us/usc/t19/s1484], shall set forth, in addition to the matter therein specified, the information with respect to said products required under the provisions of [section 70b(b) of this title][/us/usc/t15/s70b/b], which information shall be in the invoices prior to their certification, if such certification is required pursuant to [section 1484 of title 19][/us/usc/t19/s1484]. The falsification of, or failure to set forth the required information in such invoices, or the falsification or perjury of the consignee’s declaration provided for in [section 1485 of title 19][/us/usc/t19/s1485], insofar as it relates to such information, is unlawful, and shall be an unfair method of competition, and an unfair and deceptive act or practice, in commerce under the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\]; and any person who falsifies, or perjures the consignee’s declaration insofar as it relates to such information, may thenceforth be prohibited by the Commission from importing, or participating in the importation of, any textile fiber product into the United States except upon filing bond with the Secretary of the Treasury in a sum double the value of said products and any duty thereon, conditioned upon compliance with the provisions of this subchapter. A verified statement from the manufacturer or producer of such products showing their fiber content as required under the provisions of this subchapter may be required under regulation prescribed by the Secretary of the Treasury.
 
-([Pub. L. 85–897, § 9][/us/pl/85/897/s9], Sept. 2, 1958, [72 Stat. 1722][/us/stat/72/1722].)
+([Pub. L. 85–897][/us/pl/85/897], § 9, Sept. 2, 1958, [72 Stat. 1722][/us/stat/72/1722].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 [/us/usc/t19/s1484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1484
 [/us/usc/t19/s1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1485
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/pl/85/897/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F897%2Fs9
+[/us/pl/85/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F897
 [/us/stat/72/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1722
 [/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

@@ -85,7 +85,7 @@
 
         (B) prohibiting and regulating disclosure of information that is obtained by such organization in the course of administering or enforcing such laws.
 
-([Pub. L. 103–438, § 12][/us/pl/103/438/s12], Nov. 2, 1994, [108 Stat. 4603][/us/stat/108/4603].)
+([Pub. L. 103–438][/us/pl/103/438], § 12, Nov. 2, 1994, [108 Stat. 4603][/us/stat/108/4603].)
 
 ----------
 
@@ -101,7 +101,7 @@
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
-[/us/pl/103/438/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438%2Fs12
+[/us/pl/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438
 [/us/stat/108/4603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4603
 
 

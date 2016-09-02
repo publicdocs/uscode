@@ -19,7 +19,7 @@
 
     (b) The Secretary is authorized to prescribe and fix the amount of such fees (other than the incorporation fee) to be paid him or the registrar for services rendered by the Secretary or the registrar to any person in the administration of the provisions of this chapter. All fees and penalties paid under this chapter shall be covered into the Treasury of the United States as miscellaneous receipts.
 
-([Sept. 19, 1922, ch. 346, § 17][/us/act/1922-09-19/ch346/s17], [42 Stat. 854][/us/stat/42/854].)
+([Sept. 19, 1922, ch. 346][/us/act/1922-09-19/ch346], § 17, [42 Stat. 854][/us/stat/42/854].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1922-09-19/ch346/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346%2Fs17
+[/us/act/1922-09-19/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346
 [/us/stat/42/854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F854
 
 

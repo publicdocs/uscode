@@ -537,7 +537,7 @@ SUBCHAPTER IV—THE MADRID PROTOCOL  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1141" data-uslm-ref="/us/usc/t15/s1141">1141</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs1141l" data-uslm-ref="/us/usc/t15/s1141l">1141l</a>.  </td>
 
     <td> Assignment of an extension of protection.  </td>
 

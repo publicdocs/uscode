@@ -23,7 +23,7 @@
 
         The Commission shall initiate within one year after January 4, 1975, a rulemaking proceeding dealing with warranties and warranty practices in connection with the sale of used motor vehicles; and, to the extent necessary to supplement the protections offered the consumer by this chapter, shall prescribe rules dealing with such warranties and practices. In prescribing rules under this subsection, the Commission may exercise any authority it may have under this chapter, or other law, and in addition it may require disclosure that a used motor vehicle is sold without any warranty and specify the form and content of such disclosure.
 
-([Pub. L. 93–637, title I, § 109][/us/pl/93/637/s109], Jan. 4, 1975, [88 Stat. 2189][/us/stat/88/2189].)
+([Pub. L. 93–637, title I][/us/pl/93/637/tI], § 109, Jan. 4, 1975, [88 Stat. 2189][/us/stat/88/2189].)
 
 ----------
 
@@ -36,7 +36,7 @@
 [/us/usc/t15/s57a/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a%2Fe
 [/us/usc/t15/s57a/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a%2Fa%2F1%2FB
 [/us/usc/t15/s57a/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a%2Fe%2F3%2FB
-[/us/pl/93/637/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs109
+[/us/pl/93/637/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2FtI
 [/us/stat/88/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2189
 
 

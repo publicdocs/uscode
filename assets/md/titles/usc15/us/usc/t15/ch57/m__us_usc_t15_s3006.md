@@ -31,7 +31,7 @@
 
         Nothing in this chapter shall be construed to permit a State to be sued under this section other than in accordance with its applicable laws.
 
-([Pub. L. 95–515, § 7][/us/pl/95/515/s7], Oct. 25, 1978, [92 Stat. 1814][/us/stat/92/1814].)
+([Pub. L. 95–515][/us/pl/95/515], § 7, Oct. 25, 1978, [92 Stat. 1814][/us/stat/92/1814].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t15/s3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3005
-[/us/pl/95/515/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F515%2Fs7
+[/us/pl/95/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F515
 [/us/stat/92/1814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1814
 
 

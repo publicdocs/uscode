@@ -89,7 +89,7 @@
 
         (2) authorize the Commission to withhold information from the Congress or prevent the Commission from complying with an order of a court of the United States in an action commenced by the United States or the Commission.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 24, [48 Stat. 901][/us/stat/48/901]; [Aug. 23, 1935, ch. 614, § 203(a)][/us/act/1935-08-23/ch614/s203/a], [49 Stat. 704][/us/stat/49/704]; [Pub. L. 94–29, § 19][/us/pl/94/29/s19], June 4, 1975, [89 Stat. 158][/us/stat/89/158]; [Pub. L. 101–550, title II, § 202(a)][/us/pl/101/550/s202/a], Nov. 15, 1990, [104 Stat. 2715][/us/stat/104/2715]; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 929I(a), 929K, July 21, 2010, [124 Stat. 1857][/us/stat/124/1857], 1860; [Pub. L. 111–257, § 1(a)][/us/pl/111/257/s1/a], Oct. 5, 2010, [124 Stat. 2646][/us/stat/124/2646].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 24, [48 Stat. 901][/us/stat/48/901]; [Aug. 23, 1935, ch. 614][/us/act/1935-08-23/ch614], § 203(a), [49 Stat. 704][/us/stat/49/704]; [Pub. L. 94–29][/us/pl/94/29], § 19, June 4, 1975, [89 Stat. 158][/us/stat/89/158]; [Pub. L. 101–550, title II][/us/pl/101/550/tII], § 202(a), Nov. 15, 1990, [104 Stat. 2715][/us/stat/104/2715]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], §§ 929I(a), 929K, July 21, 2010, [124 Stat. 1857][/us/stat/124/1857], 1860; [Pub. L. 111–257][/us/pl/111/257], § 1(a), Oct. 5, 2010, [124 Stat. 2646][/us/stat/124/2646].)
 
  __References in Text__ 
 
@@ -99,9 +99,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (d). [Pub. L. 111–203, § 929K(1)][/us/pl/111/203/s929K/1], substituted “subsection (g)” for “subsection (f)”.
+    2010—Subsec. (d). [Pub. L. 111–203][/us/pl/111/203], § 929K(1), substituted “subsection (g)” for “subsection (f)”.
 
-    [Pub. L. 111–203, § 929I(a)(1)][/us/pl/111/203/s929I/a/1], substituted “subsection (f)” for “subsection (e)”.
+    [Pub. L. 111–203][/us/pl/111/203], § 929I(a)(1), substituted “subsection (f)” for “subsection (e)”.
 
     Subsec. (e). [Pub. L. 111–257][/us/pl/111/257] added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows:
 
@@ -109,19 +109,19 @@
 
     “(2) Treatment of information.—For purposes of [section 552 of title 5][/us/usc/t5/s552], this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. Collection of information pursuant to [section 78q of this title][/us/usc/t15/s78q] shall be an administrative action involving an agency against specific individuals or agencies pursuant to [section 3518(c)(1) of title 44][/us/usc/t44/s3518/c/1].”
 
-    [Pub. L. 111–203, § 929K(2)][/us/pl/111/203/s929K/2], substituted “subsection (g)” for “subsection (f)” in par. (1).
+    [Pub. L. 111–203][/us/pl/111/203], § 929K(2), substituted “subsection (g)” for “subsection (f)” in par. (1).
 
-    [Pub. L. 111–203, § 929I(a)(3)][/us/pl/111/203/s929I/a/3], added subsec. (e). Former subsec. (e) redesignated (f).
+    [Pub. L. 111–203][/us/pl/111/203], § 929I(a)(3), added subsec. (e). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 111–203, § 929K(4)][/us/pl/111/203/s929K/4], added subsec. (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 111–203][/us/pl/111/203], § 929K(4), added subsec. (f). Former subsec. (f) redesignated (g).
 
-    [Pub. L. 111–203, § 929I(a)(2)][/us/pl/111/203/s929I/a/2], redesignated subsec. (e) as (f).
+    [Pub. L. 111–203][/us/pl/111/203], § 929I(a)(2), redesignated subsec. (e) as (f).
 
-    Subsec. (g). [Pub. L. 111–203, § 929K(3)][/us/pl/111/203/s929K/3], redesignated subsec. (f) as (g).
+    Subsec. (g). [Pub. L. 111–203][/us/pl/111/203], § 929K(3), redesignated subsec. (f) as (g).
 
-    1990—Subsec. (b). [Pub. L. 101–550, § 202(a)(1)][/us/pl/101/550/s202/a/1], struck out at end “Nothing in this subsection shall authorize the Commission to withhold information from the Congress.”
+    1990—Subsec. (b). [Pub. L. 101–550][/us/pl/101/550], § 202(a)(1), struck out at end “Nothing in this subsection shall authorize the Commission to withhold information from the Congress.”
 
-    Subsecs. (c) to (e). [Pub. L. 101–550, § 202(a)(2)][/us/pl/101/550/s202/a/2], added subsecs. (c) to (e).
+    Subsecs. (c) to (e). [Pub. L. 101–550][/us/pl/101/550], § 202(a)(2), added subsecs. (c) to (e).
 
     1975—Subsec. (a). [Pub. L. 94–29][/us/pl/94/29] substituted “For purposes of [section 552 of title 5][/us/usc/t5/s552], the term ‘records’ includes all applications, statements, reports, contracts, correspondence, notices, and other documents filed with or otherwise obtained by the Commission pursuant to this chapter or otherwise” for “Nothing in this chapter shall be construed to require, or to authorize the Commission to require, the revealing of trade secrets or processes in any application, report, or document filed with the Commission under this chapter”.
 
@@ -159,34 +159,34 @@
 [/us/usc/t15/s78u/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78u%2Fh
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F901
-[/us/act/1935-08-23/ch614/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614%2Fs203%2Fa
+[/us/act/1935-08-23/ch614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-23%2Fch614
 [/us/stat/49/704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F704
-[/us/pl/94/29/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs19
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F158
-[/us/pl/101/550/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs202%2Fa
+[/us/pl/101/550/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtII
 [/us/stat/104/2715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2715
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1857
-[/us/pl/111/257/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F257%2Fs1%2Fa
+[/us/pl/111/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F257
 [/us/stat/124/2646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2646
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
 [/us/stat/92/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3697
 [/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
-[/us/pl/111/203/s929K/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929K%2F1
-[/us/pl/111/203/s929I/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929I%2Fa%2F1
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F257
 [/us/usc/t15/s78q/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78q%2Fb
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t15/s78q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78q
 [/us/usc/t44/s3518/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3518%2Fc%2F1
-[/us/pl/111/203/s929K/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929K%2F2
-[/us/pl/111/203/s929I/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929I%2Fa%2F3
-[/us/pl/111/203/s929K/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929K%2F4
-[/us/pl/111/203/s929I/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929I%2Fa%2F2
-[/us/pl/111/203/s929K/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929K%2F3
-[/us/pl/101/550/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs202%2Fa%2F1
-[/us/pl/101/550/s202/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs202%2Fa%2F2
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29

@@ -37,7 +37,7 @@
 
         (3) the ability of the Commission to take, on the initiative of the Commission, legal, administrative, or disciplinary action against any registered public accounting firm or any associated person thereof.
 
-([Pub. L. 107–204, § 3][/us/pl/107/204/s3], July 30, 2002, [116 Stat. 749][/us/stat/116/749].)
+([Pub. L. 107–204][/us/pl/107/204], § 3, July 30, 2002, [116 Stat. 749][/us/stat/116/749].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/107/204/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs3
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/stat/116/749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F749
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/stat/116/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F745

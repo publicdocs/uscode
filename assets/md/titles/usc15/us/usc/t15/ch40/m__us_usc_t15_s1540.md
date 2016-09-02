@@ -21,15 +21,15 @@
 
     (2) solicit private donations for the support of such activities.
 
-([Pub. L. 102–567, title IV, § 406][/us/pl/102/567/s406], Oct. 29, 1992, [106 Stat. 4293][/us/stat/106/4293].)
+([Pub. L. 102–567, title IV][/us/pl/102/567/tIV], § 406, Oct. 29, 1992, [106 Stat. 4293][/us/stat/106/4293].)
 
  __Cooperative Agreements for Research, Education, Training, and Outreach__ 
 
-[Pub. L. 108–199, div. B, title II][/us/pl/108/199], Jan. 23, 2004, [118 Stat. 71][/us/stat/118/71], provided in part: 
+[Pub. L. 108–199, div. B, title II][/us/pl/108/199/dB/tII], Jan. 23, 2004, [118 Stat. 71][/us/stat/118/71], provided in part: 
 
 > “That, hereafter, the Secretary of Commerce may enter into cooperative agreements with the Joint and Cooperative Institutes as designated by the Secretary to use the personnel, services, or facilities of such organizations for research, education, training, and outreach”.
 
-    Similar provisions were contained in [Pub. L. 108–7, div. B, title II][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 74][/us/stat/117/74].
+    Similar provisions were contained in [Pub. L. 108–7, div. B, title II][/us/pl/108/7/dB/tII], Feb. 20, 2003, [117 Stat. 74][/us/stat/117/74].
 
 ----------
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/102/567/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs406
+[/us/pl/102/567/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtIV
 [/us/stat/106/4293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4293
-[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdB%2FtII
 [/us/stat/118/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F71
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdB%2FtII
 [/us/stat/117/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F74
 
 

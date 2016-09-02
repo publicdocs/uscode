@@ -43,11 +43,11 @@
 
         If any person participates with the Commission in the development of a consumer product safety standard, the Commission may agree to contribute to the person’s cost with respect to such participation, in any case in which the Commission determines that such contribution is likely to result in a more satisfactory standard than would be developed without such contribution, and that the person is financially responsible. Regulations of the Commission shall set forth the items of cost in which it may participate, and shall exclude any contribution to the acquisition of land or buildings. Payments under agreements entered into under this subsection may be made without regard to section 3324(a) and (b) of title 31.
 
-([Pub. L. 92–573, § 7][/us/pl/92/573/s7], Oct. 27, 1972, [86 Stat. 1212][/us/stat/86/1212]; [Pub. L. 94–284][/us/pl/94/284], §§ 6, 7, 8(a), May 11, 1976, [90 Stat. 505][/us/stat/90/505], 506; [Pub. L. 95–631][/us/pl/95/631], §§ 3, 4(a)–(c), 5, Nov. 10, 1978, [92 Stat. 3742–3744][/us/stat/92/3742-3744]; [Pub. L. 97–35, title XII, § 1202][/us/pl/97/35/s1202], Aug. 13, 1981, [95 Stat. 703][/us/stat/95/703]; [Pub. L. 101–608, title I, § 107(a)][/us/pl/101/608/s107/a], Nov. 16, 1990, [104 Stat. 3111][/us/stat/104/3111].)
+([Pub. L. 92–573][/us/pl/92/573], § 7, Oct. 27, 1972, [86 Stat. 1212][/us/stat/86/1212]; [Pub. L. 94–284][/us/pl/94/284], §§ 6, 7, 8(a), May 11, 1976, [90 Stat. 505][/us/stat/90/505], 506; [Pub. L. 95–631][/us/pl/95/631], §§ 3, 4(a)–(c), 5, Nov. 10, 1978, [92 Stat. 3742–3744][/us/stat/92/3742-3744]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1202, Aug. 13, 1981, [95 Stat. 703][/us/stat/95/703]; [Pub. L. 101–608, title I][/us/pl/101/608/tI], § 107(a), Nov. 16, 1990, [104 Stat. 3111][/us/stat/104/3111].)
 
  __Codification__ 
 
-    In subsec. (c), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes of the United States ([31 U.S.C. 529][/us/usc/t31/s529])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (c), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes of the United States ([31 U.S.C. 529][/us/usc/t31/s529])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
@@ -65,29 +65,29 @@
 
     Subsec. (f). [Pub. L. 97–35][/us/pl/97/35] struck out subsec. (f) which provided for termination of rule-making proceedings and a statement relating to the reasons therefor.
 
-    1978—Subsec. (b). [Pub. L. 95–631, § 3][/us/pl/95/631/s3], designated existing provision as par. (1), and in par. (1) as so redesignated, redesignated pars. (1) to (4) as subpars. (A) and (D), in subpar. (D) as so redesignated, inserted provision including as a means of commencing a proceeding, a publication in the Federal Register of a statement that the Commission intends to develop the proposed consumer product safety standard, added subpar. (E), struck out provision that the period specified within which the offeror of an accepted offer develops the proposed standard be a period ending 150 days after the date the offer was accepted unless the Commission for good cause found, and included such finding in the notice that a different period was appropriate, and added par. (2).
+    1978—Subsec. (b). [Pub. L. 95–631][/us/pl/95/631], § 3, designated existing provision as par. (1), and in par. (1) as so redesignated, redesignated pars. (1) to (4) as subpars. (A) and (D), in subpar. (D) as so redesignated, inserted provision including as a means of commencing a proceeding, a publication in the Federal Register of a statement that the Commission intends to develop the proposed consumer product safety standard, added subpar. (E), struck out provision that the period specified within which the offeror of an accepted offer develops the proposed standard be a period ending 150 days after the date the offer was accepted unless the Commission for good cause found, and included such finding in the notice that a different period was appropriate, and added par. (2).
 
-    Subsec. (c). [Pub. L. 95–631, § 5][/us/pl/95/631/s5], amended subsec. (c) generally, inserting provisions relating to subsec. (b)(1)(D) and striking out provisions for publication of a proposed consumer product safety rule, in lieu of acceptance of an offer under subsec. (d), where a standard had been issued or adopted by any Federal agency or by any other qualified agency, organization, or institution and the standard if promulgated under the chapter would eliminate or reduce the unreasonable risk of injury associated with the product.
+    Subsec. (c). [Pub. L. 95–631][/us/pl/95/631], § 5, amended subsec. (c) generally, inserting provisions relating to subsec. (b)(1)(D) and striking out provisions for publication of a proposed consumer product safety rule, in lieu of acceptance of an offer under subsec. (d), where a standard had been issued or adopted by any Federal agency or by any other qualified agency, organization, or institution and the standard if promulgated under the chapter would eliminate or reduce the unreasonable risk of injury associated with the product.
 
-    Subsec. (d)(1). [Pub. L. 95–631, § 4(a)(1)][/us/pl/95/631/s4/a/1], inserted “subsection (b)(2) and by” after “as provided by” and substituted references to subsec. (b)(1)(D)(ii)(I) for (b)(4)(B) of this section and subsec. (b)(1)(E) for (b) of this section.
+    Subsec. (d)(1). [Pub. L. 95–631][/us/pl/95/631], § 4(a)(1), inserted “subsection (b)(2) and by” after “as provided by” and substituted references to subsec. (b)(1)(D)(ii)(I) for (b)(4)(B) of this section and subsec. (b)(1)(E) for (b) of this section.
 
-    Subsec. (d)(2). [Pub. L. 95–631, § 4(a)(2)(A)][/us/pl/95/631/s4/a/2/A]–(C), inserted in first sentence “or if any person participates with the Commission in the development of a consumer product safety standard under subsection (b)(2)(A) or subsection (e) of this section” after “under this subsection”, “or the person’s cost with respect to such participation” after “safety standards” and “or person” after “offeror”.
+    Subsec. (d)(2). [Pub. L. 95–631][/us/pl/95/631], § 4(a)(2)(A)–(C), inserted in first sentence “or if any person participates with the Commission in the development of a consumer product safety standard under subsection (b)(2)(A) or subsection (e) of this section” after “under this subsection”, “or the person’s cost with respect to such participation” after “safety standards” and “or person” after “offeror”.
 
-    Subsec. (d)(4). [Pub. L. 95–631, § 4(a)(3)][/us/pl/95/631/s4/a/3], added par. (4).
+    Subsec. (d)(4). [Pub. L. 95–631][/us/pl/95/631], § 4(a)(3), added par. (4).
 
     Subsec. (e). [Pub. L. 95–631][/us/pl/95/631], § (4)(b), amended provisions generally, and among other changes, substituted references to subsec. (b)(1)(D)(ii)(I) of this section for prior references to subsec. (b) of this section, and struck out par. (3) defining the development period, now covered in subsec. (b)(1)(E) of this section.
 
-    Subsec. (f). [Pub. L. 95–631, § 4(c)][/us/pl/95/631/s4/c], amended provisions generally, and among other changes, reduced the period within which to publish a proposed consumer product safety standard to forty-five days from 150 days and required the publication in the Federal Register of the reasons for not publishing the proposed standard, including a statement indicative of the taking of other approaches such as a voluntary consumer safety standard adopted by persons to be subject to the proposed standard.
+    Subsec. (f). [Pub. L. 95–631][/us/pl/95/631], § 4(c), amended provisions generally, and among other changes, reduced the period within which to publish a proposed consumer product safety standard to forty-five days from 150 days and required the publication in the Federal Register of the reasons for not publishing the proposed standard, including a statement indicative of the taking of other approaches such as a voluntary consumer safety standard adopted by persons to be subject to the proposed standard.
 
-    1976—Subsec. (a). [Pub. L. 94–284, § 6][/us/pl/94/284/s6], designated existing provision as par. (1), redesignated as subpars. (A) and (B) existing pars. (1) and (2), and added par. (2).
+    1976—Subsec. (a). [Pub. L. 94–284][/us/pl/94/284], § 6, designated existing provision as par. (1), redesignated as subpars. (A) and (B) existing pars. (1) and (2), and added par. (2).
 
-    Subsec. (b). [Pub. L. 94–284, § 7(a)][/us/pl/94/284/s7/a], substituted “date the offer is accepted” for “publication of notice” in provision following par. (4)(B).
+    Subsec. (b). [Pub. L. 94–284][/us/pl/94/284], § 7(a), substituted “date the offer is accepted” for “publication of notice” in provision following par. (4)(B).
 
-    Subsec. (d)(2). [Pub. L. 94–284, § 8(a)][/us/pl/94/284/s8/a], inserted provision which permits the Commission to advance public moneys without the need of authorized appropriations as required by [section 529 of title 31][/us/usc/t31/s529].
+    Subsec. (d)(2). [Pub. L. 94–284][/us/pl/94/284], § 8(a), inserted provision which permits the Commission to advance public moneys without the need of authorized appropriations as required by [section 529 of title 31][/us/usc/t31/s529].
 
-    Subsec. (e). [Pub. L. 94–284, § 7(b)][/us/pl/94/284/s7/b], permitted the Commission to develop and publish a proposed consumer safety product rule if the development period as specified in par. (3) ends.
+    Subsec. (e). [Pub. L. 94–284][/us/pl/94/284], § 7(b), permitted the Commission to develop and publish a proposed consumer safety product rule if the development period as specified in par. (3) ends.
 
-    Subsec. (f). [Pub. L. 94–284, § 7(c)][/us/pl/94/284/s7/c], provided that if within 60 days after publication of notice for a proceeding for the development of a consumer product safety standard (or longer if the Commission so prescribe), no offer is submitted or none is acceptable, the Commission terminate the proceeding or develop proposals of its own, which proposals be published as a rule within 150 days after the expiration of the 60 day period or the proceeding then terminated, and that if an offer is accepted within the 60 day period, then within 210 days after acceptance, the Commission must publish the proposal as a rule or terminate the proceeding.
+    Subsec. (f). [Pub. L. 94–284][/us/pl/94/284], § 7(c), provided that if within 60 days after publication of notice for a proceeding for the development of a consumer product safety standard (or longer if the Commission so prescribe), no offer is submitted or none is acceptable, the Commission terminate the proceeding or develop proposals of its own, which proposals be published as a rule within 150 days after the expiration of the 60 day period or the proceeding then terminated, and that if an offer is accepted within the 60 day period, then within 210 days after acceptance, the Commission must publish the proposal as a rule or terminate the proceeding.
 
  __Effective Date of 1981 Amendment__ 
 
@@ -135,7 +135,7 @@
 
  __Automatic Garage Door Openers__ 
 
-[Pub. L. 101–608, title II, § 203][/us/pl/101/608/s203], Nov. 16, 1990, [104 Stat. 3123][/us/stat/104/3123], provided that:
+[Pub. L. 101–608, title II][/us/pl/101/608/tII], § 203, Nov. 16, 1990, [104 Stat. 3123][/us/stat/104/3123], provided that:
 
 >     “(a)  __Consumer Product Safety Rule__  __.—__ 
 
@@ -183,18 +183,18 @@
 ----------
 
 [/us/usc/t15/s2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2058
-[/us/pl/92/573/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs7
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1212
 [/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/stat/90/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F505
 [/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
 [/us/stat/92/3742-3744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3742-3744
-[/us/pl/97/35/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1202
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F703
-[/us/pl/101/608/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs107%2Fa
+[/us/pl/101/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2FtI
 [/us/stat/104/3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3111
 [/us/usc/t31/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
@@ -203,19 +203,19 @@
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
-[/us/pl/95/631/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631%2Fs3
-[/us/pl/95/631/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631%2Fs5
-[/us/pl/95/631/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631%2Fs4%2Fa%2F1
-[/us/pl/95/631/s4/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631%2Fs4%2Fa%2F2%2FA
-[/us/pl/95/631/s4/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631%2Fs4%2Fa%2F3
 [/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
-[/us/pl/95/631/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631%2Fs4%2Fc
-[/us/pl/94/284/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs6
-[/us/pl/94/284/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs7%2Fa
-[/us/pl/94/284/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs8%2Fa
+[/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
+[/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
+[/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
+[/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
+[/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
+[/us/pl/95/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F631
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/usc/t31/s529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs529
-[/us/pl/94/284/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs7%2Fb
-[/us/pl/94/284/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284%2Fs7%2Fc
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
+[/us/pl/94/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F284
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1215
 [/us/usc/t15/s2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2052
@@ -224,7 +224,7 @@
 [/us/usc/t15/s2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2058
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t15/s2056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2056
-[/us/pl/101/608/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs203
+[/us/pl/101/608/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2FtII
 [/us/stat/104/3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3123
 [/us/usc/t15/s2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2058
 [/us/usc/t15/s2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2075

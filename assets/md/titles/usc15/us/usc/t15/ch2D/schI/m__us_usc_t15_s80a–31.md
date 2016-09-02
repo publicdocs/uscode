@@ -37,7 +37,7 @@
 
         The Commission is authorized, by rules and regulations or order in the public interest or for the protection of investors, to require accountants and auditors to keep reports, work sheets, and other documents and papers relating to registered investment companies for such period or periods as the Commission may prescribe, and to make the same available for inspection by the Commission or any member or representative thereof.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 32, [54 Stat. 838][/us/stat/54/838]; [Pub. L. 91–547, § 18][/us/pl/91/547/s18], Dec. 14, 1970, [84 Stat. 1427][/us/stat/84/1427]; [Pub. L. 94–29, § 28(4)][/us/pl/94/29/s28/4], June 4, 1975, [89 Stat. 165][/us/stat/89/165].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title I, § 32, [54 Stat. 838][/us/stat/54/838]; [Pub. L. 91–547][/us/pl/91/547], § 18, Dec. 14, 1970, [84 Stat. 1427][/us/stat/84/1427]; [Pub. L. 94–29][/us/pl/94/29], § 28(4), June 4, 1975, [89 Stat. 165][/us/stat/89/165].)
 
  __Amendments__ 
 
@@ -69,9 +69,9 @@
 [/us/usc/t15/s80a–2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%932%2Fa
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F838
-[/us/pl/91/547/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547%2Fs18
+[/us/pl/91/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F547
 [/us/stat/84/1427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1427
-[/us/pl/94/29/s28/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs28%2F4
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F165
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/usc/t15/s80a–16/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9316%2Fc

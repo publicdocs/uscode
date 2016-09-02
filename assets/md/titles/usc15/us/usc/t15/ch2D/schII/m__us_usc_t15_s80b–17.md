@@ -17,7 +17,7 @@
 
     Any person who willfully violates any provision of this subchapter, or any rule, regulation, or order promulgated by the Commission under authority thereof, shall, upon conviction, be fined not more than $10,000, imprisoned for not more than five years, or both.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 217, [54 Stat. 857][/us/stat/54/857]; [Pub. L. 86–750, § 15][/us/pl/86/750/s15], Sept. 13, 1960, [74 Stat. 888][/us/stat/74/888]; [Pub. L. 94–29, § 27(f)][/us/pl/94/29/s27/f], June 4, 1975, [89 Stat. 163][/us/stat/89/163].)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 217, [54 Stat. 857][/us/stat/54/857]; [Pub. L. 86–750][/us/pl/86/750], § 15, Sept. 13, 1960, [74 Stat. 888][/us/stat/74/888]; [Pub. L. 94–29][/us/pl/94/29], § 27(f), June 4, 1975, [89 Stat. 163][/us/stat/89/163].)
 
  __Amendments__ 
 
@@ -38,9 +38,9 @@
 
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F857
-[/us/pl/86/750/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750%2Fs15
+[/us/pl/86/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750
 [/us/stat/74/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F888
-[/us/pl/94/29/s27/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs27%2Ff
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F163
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/pl/86/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750

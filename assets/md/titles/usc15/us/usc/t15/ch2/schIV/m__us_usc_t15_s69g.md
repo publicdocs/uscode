@@ -31,7 +31,7 @@
 
         the Commission may bring suit in the district court of the United States or in the United States court of any Territory, for the district or Territory in which such person resides or transacts business, to enjoin such violation, and upon proper showing a temporary injunction or restraining order shall be granted without bond.
 
-([Aug. 8, 1951, ch. 298, § 9][/us/act/1951-08-08/ch298/s9], [65 Stat. 180][/us/stat/65/180].)
+([Aug. 8, 1951, ch. 298][/us/act/1951-08-08/ch298], § 9, [65 Stat. 180][/us/stat/65/180].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 ----------
 
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41
-[/us/act/1951-08-08/ch298/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298%2Fs9
+[/us/act/1951-08-08/ch298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298
 [/us/stat/65/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F180
 [/us/usc/t15/s69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs69
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264

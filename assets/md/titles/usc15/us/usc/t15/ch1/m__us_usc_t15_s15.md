@@ -49,7 +49,7 @@
 
         (2) the term “foreign state” shall have the meaning given it in [section 1603(a) of title 28][/us/usc/t28/s1603/a].
 
-([Oct. 15, 1914, ch. 323, § 4][/us/act/1914-10-15/ch323/s4], [38 Stat. 731][/us/stat/38/731]; [Pub. L. 96–349, § 4(a)(1)][/us/pl/96/349/s4/a/1], Sept. 12, 1980, [94 Stat. 1156][/us/stat/94/1156]; [Pub. L. 97–393][/us/pl/97/393], Dec. 29, 1982, [96 Stat. 1964][/us/stat/96/1964].)
+([Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], § 4, [38 Stat. 731][/us/stat/38/731]; [Pub. L. 96–349][/us/pl/96/349], § 4(a)(1), Sept. 12, 1980, [94 Stat. 1156][/us/stat/94/1156]; [Pub. L. 97–393][/us/pl/97/393], Dec. 29, 1982, [96 Stat. 1964][/us/stat/96/1964].)
 
  __References in Text__ 
 
@@ -57,7 +57,7 @@
 
  __Prior Provisions__ 
 
-    Section supersedes two former similar sections enacted by [act July 2, 1890, ch. 647, § 7][/us/act/1890-07-02/ch647/s7], [26 Stat. 210][/us/stat/26/210], and [act Aug. 27, 1894, ch. 349, § 77][/us/act/1894-08-27/ch349/s77], [28 Stat. 570][/us/stat/28/570], each of which were restricted in operation to the particular act cited. Section 7 of act July 2, 1890, was repealed by [act July 7, 1955, ch. 283, § 3][/us/act/1955-07-07/ch283/s3], [69 Stat. 283][/us/stat/69/283], effective six months after July 7, 1955. Section 77 of act Aug. 27, 1894, was repealed by [Pub. L. 107–273, div. C, title IV][/us/pl/107/273], §§ 14102(c)(1)(A), 14103, Nov. 2, 2002, [116 Stat. 1921][/us/stat/116/1921], 1922, effective Nov. 2, 2002, and applicable only with respect to cases commenced on or after Nov. 2, 2002.
+    Section supersedes two former similar sections enacted by [act July 2, 1890, ch. 647][/us/act/1890-07-02/ch647], § 7, [26 Stat. 210][/us/stat/26/210], and [act Aug. 27, 1894, ch. 349][/us/act/1894-08-27/ch349], § 77, [28 Stat. 570][/us/stat/28/570], each of which were restricted in operation to the particular act cited. Section 7 of act July 2, 1890, was repealed by [act July 7, 1955, ch. 283][/us/act/1955-07-07/ch283], § 3, [69 Stat. 283][/us/stat/69/283], effective six months after July 7, 1955. Section 77 of act Aug. 27, 1894, was repealed by [Pub. L. 107–273, div. C, title IV][/us/pl/107/273/dC/tIV], §§ 14102(c)(1)(A), 14103, Nov. 2, 2002, [116 Stat. 1921][/us/stat/116/1921], 1922, effective Nov. 2, 2002, and applicable only with respect to cases commenced on or after Nov. 2, 2002.
 
  __Amendments__ 
 
@@ -67,7 +67,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-[Pub. L. 96–349, § 4(b)][/us/pl/96/349/s4/b], Sept. 12, 1980, [94 Stat. 1157][/us/stat/94/1157], provided that: 
+[Pub. L. 96–349][/us/pl/96/349], § 4(b), Sept. 12, 1980, [94 Stat. 1157][/us/stat/94/1157], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 15a and 15c of this title\] shall apply only with respect to actions commenced after the date of the enactment of this Act \[Sept 12, 1980\].”
 
@@ -81,24 +81,24 @@
 [/us/usc/t28/s1605/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1605%2Fa%2F2
 [/us/usc/t28/s1603/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1603%2Fd
 [/us/usc/t28/s1603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1603%2Fa
-[/us/act/1914-10-15/ch323/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323%2Fs4
+[/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
 [/us/stat/38/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F731
-[/us/pl/96/349/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349%2Fs4%2Fa%2F1
+[/us/pl/96/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349
 [/us/stat/94/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1156
 [/us/pl/97/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F393
 [/us/stat/96/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1964
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
-[/us/act/1890-07-02/ch647/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-02%2Fch647%2Fs7
+[/us/act/1890-07-02/ch647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-07-02%2Fch647
 [/us/stat/26/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F210
-[/us/act/1894-08-27/ch349/s77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-27%2Fch349%2Fs77
+[/us/act/1894-08-27/ch349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-27%2Fch349
 [/us/stat/28/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F570
-[/us/act/1955-07-07/ch283/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-07%2Fch283%2Fs3
+[/us/act/1955-07-07/ch283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-07-07%2Fch283
 [/us/stat/69/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F283
-[/us/pl/107/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273
+[/us/pl/107/273/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIV
 [/us/stat/116/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1921
 [/us/pl/97/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F393
 [/us/pl/96/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349
-[/us/pl/96/349/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349%2Fs4%2Fb
+[/us/pl/96/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F349
 [/us/stat/94/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1157
 
 

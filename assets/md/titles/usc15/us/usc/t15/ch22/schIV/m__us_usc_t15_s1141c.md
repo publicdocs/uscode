@@ -21,7 +21,7 @@
 
     (2) more than 5 years after the international registration date if the restriction, abandonment, or cancellation of the basic application or basic registration resulted from an action that began before the end of that 5-year period.
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title XII, § 63, as added [Pub. L. 107–273, div. C, title III, § 13402][/us/pl/107/273/s13402], Nov. 2, 2002, [116 Stat. 1915][/us/stat/116/1915].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title XII, § 63, as added [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13402, Nov. 2, 2002, [116 Stat. 1915][/us/stat/116/1915].)
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t15/s1141b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1141b
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
-[/us/pl/107/273/s13402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13402
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1915
 
 

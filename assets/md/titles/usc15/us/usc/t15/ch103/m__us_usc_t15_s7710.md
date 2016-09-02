@@ -33,7 +33,7 @@
 
     (2) a report, within 18 months after December 16, 2003, that sets forth a plan for requiring commercial electronic mail to be identifiable from its subject line, by means of compliance with Internet Engineering Task Force Standards, the use of the characters “ADV” in the subject line, or other comparable identifier, or an explanation of any concerns the Commission has that cause the Commission to recommend against the plan.
 
-([Pub. L. 108–187, § 11][/us/pl/108/187/s11], Dec. 16, 2003, [117 Stat. 2717][/us/stat/117/2717].)
+([Pub. L. 108–187][/us/pl/108/187], § 11, Dec. 16, 2003, [117 Stat. 2717][/us/stat/117/2717].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/108/187/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187%2Fs11
+[/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2717
 [/us/pl/108/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F187
 [/us/stat/117/2699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2699

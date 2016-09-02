@@ -63,11 +63,11 @@
 
             Any State may, not later than 7 years after September 23, 1994, enact a statute that specifically refers to this section and requires registration or qualification of any small business related securities on terms that differ from those applicable to any obligation issued by the United States.
 
-([Pub. L. 98–440, title I, § 106][/us/pl/98/440/s106], Oct. 3, 1984, [98 Stat. 1691][/us/stat/98/1691]; [Pub. L. 103–325, title II, § 207][/us/pl/103/325/s207], Sept. 23, 1994, [108 Stat. 2199][/us/stat/108/2199].)
+([Pub. L. 98–440, title I][/us/pl/98/440/tI], § 106, Oct. 3, 1984, [98 Stat. 1691][/us/stat/98/1691]; [Pub. L. 103–325, title II][/us/pl/103/325/tII], § 207, Sept. 23, 1994, [108 Stat. 2199][/us/stat/108/2199].)
 
  __References in Text__ 
 
-    [Section 77d(5) of this title][/us/usc/t15/s77d/5], referred to in subsecs. (a)(1)(A), (2)(A) and (c), was redesignated [section 77d(a)(5) of this title][/us/usc/t15/s77d/a/5] by [Pub. L. 112–106, title II, § 201(b)(1)][/us/pl/112/106/s201/b/1], (c)(1), Apr. 5, 2012, [126 Stat. 314][/us/stat/126/314].
+    [Section 77d(5) of this title][/us/usc/t15/s77d/5], referred to in subsecs. (a)(1)(A), (2)(A) and (c), was redesignated [section 77d(a)(5) of this title][/us/usc/t15/s77d/a/5] by [Pub. L. 112–106, title II][/us/pl/112/106/tII], § 201(b)(1), (c)(1), Apr. 5, 2012, [126 Stat. 314][/us/stat/126/314].
 
  __Codification__ 
 
@@ -75,13 +75,13 @@
 
  __Amendments__ 
 
-    1994—Subsec. (a)(1)(B) to (D). [Pub. L. 103–325, § 207(a)][/us/pl/103/325/s207/a], struck out “or” at end of subpar. (B), added subpar. (C), and redesignated former subpar. (C) as (D).
+    1994—Subsec. (a)(1)(B) to (D). [Pub. L. 103–325][/us/pl/103/325], § 207(a), struck out “or” at end of subpar. (B), added subpar. (C), and redesignated former subpar. (C) as (D).
 
-    Subsec. (a)(2)(B) to (D). [Pub. L. 103–325, § 207(b)][/us/pl/103/325/s207/b], struck out “or” at end of subpar. (B), added subpar. (C), and redesignated former subpar. (C) as (D).
+    Subsec. (a)(2)(B) to (D). [Pub. L. 103–325][/us/pl/103/325], § 207(b), struck out “or” at end of subpar. (B), added subpar. (C), and redesignated former subpar. (C) as (D).
 
-    Subsec. (c). [Pub. L. 103–325, § 207(c)][/us/pl/103/325/s207/c], in first sentence substituted “, that” for “or that” before “are mortgage related securities” and inserted “, or that are small business related securities (as defined in [section 78c(a)(53) of this title][/us/usc/t15/s78c/a/53])” before “shall be exempt”.
+    Subsec. (c). [Pub. L. 103–325][/us/pl/103/325], § 207(c), in first sentence substituted “, that” for “or that” before “are mortgage related securities” and inserted “, or that are small business related securities (as defined in [section 78c(a)(53) of this title][/us/usc/t15/s78c/a/53])” before “shall be exempt”.
 
-    Subsec. (d). [Pub. L. 103–325, § 207(d)][/us/pl/103/325/s207/d], added subsec. (d).
+    Subsec. (d). [Pub. L. 103–325][/us/pl/103/325], § 207(d), added subsec. (d).
 
 ----------
 
@@ -96,18 +96,18 @@
 [/us/usc/t15/s78c/a/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F53
 [/us/usc/t15/s78c/a/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F41
 [/us/usc/t15/s78c/a/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F53
-[/us/pl/98/440/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440%2Fs106
+[/us/pl/98/440/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F440%2FtI
 [/us/stat/98/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1691
-[/us/pl/103/325/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs207
+[/us/pl/103/325/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtII
 [/us/stat/108/2199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2199
 [/us/usc/t15/s77d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77d%2F5
 [/us/usc/t15/s77d/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77d%2Fa%2F5
-[/us/pl/112/106/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs201%2Fb%2F1
+[/us/pl/112/106/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtII
 [/us/stat/126/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F314
-[/us/pl/103/325/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs207%2Fa
-[/us/pl/103/325/s207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs207%2Fb
-[/us/pl/103/325/s207/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs207%2Fc
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/usc/t15/s78c/a/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F53
-[/us/pl/103/325/s207/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs207%2Fd
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 
 

@@ -17,7 +17,7 @@
 
     This subchapter may be cited as the “Webb-Pomerene Act”.
 
-([Apr. 10, 1918, ch. 50, § 6][/us/act/1918-04-10/ch50/s6], as added [Pub. L. 94–435, title III, § 305(c)][/us/pl/94/435/s305/c], Sept. 30, 1976, [90 Stat. 1397][/us/stat/90/1397].)
+([Apr. 10, 1918, ch. 50][/us/act/1918-04-10/ch50], § 6, as added [Pub. L. 94–435, title III][/us/pl/94/435/tIII], § 305(c), Sept. 30, 1976, [90 Stat. 1397][/us/stat/90/1397].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1918-04-10/ch50/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-04-10%2Fch50%2Fs6
-[/us/pl/94/435/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs305%2Fc
+[/us/act/1918-04-10/ch50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-04-10%2Fch50
+[/us/pl/94/435/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2FtIII
 [/us/stat/90/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1397
 
 

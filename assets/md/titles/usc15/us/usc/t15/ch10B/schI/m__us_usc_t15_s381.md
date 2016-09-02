@@ -43,11 +43,11 @@
 
         (2) the term “representative” does not include an independent contractor.
 
-([Pub. L. 86–272, title I, § 101][/us/pl/86/272/s101], Sept. 14, 1959, [73 Stat. 555][/us/stat/73/555].)
+([Pub. L. 86–272, title I][/us/pl/86/272/tI], § 101, Sept. 14, 1959, [73 Stat. 555][/us/stat/73/555].)
 
  __Study and Report by Congressional Committees of State Taxation From Interstate Commerce__ 
 
-    Title II of [Pub. L. 86–272][/us/pl/86/272], as amended by [Pub. L. 87–17][/us/pl/87/17], Apr. 7, 1961, [75 Stat. 41][/us/stat/75/41]; [Pub. L. 87–435][/us/pl/87/435], Apr. 21, 1962, [76 Stat. 55][/us/stat/76/55]; [Pub. L. 88–42][/us/pl/88/42], June 21, 1963, [77 Stat. 67][/us/stat/77/67]; [Pub. L. 88–286][/us/pl/88/286], Mar. 18, 1964, [78 Stat. 166][/us/stat/78/166], and repealed by [Pub. L. 94–455, title XXI, § 2121(a)][/us/pl/94/455/s2121/a], Oct. 4, 1976, [90 Stat. 1914][/us/stat/90/1914], provided for a study by the Committee on the Judiciary of the House of Representatives and the Committee on Finance of the United States Senate, acting separately or jointly, or any duly authorized subcommittee thereof, of all matters pertaining to the taxation of interstate commerce by the States, territories, and possessions of the United States, the District of Columbia, and the Commonwealth of Puerto Rico, or any political or taxing subdivision of the foregoing, and for a report together with their proposals for legislation on or before June 30, 1965.
+    Title II of [Pub. L. 86–272][/us/pl/86/272], as amended by [Pub. L. 87–17][/us/pl/87/17], Apr. 7, 1961, [75 Stat. 41][/us/stat/75/41]; [Pub. L. 87–435][/us/pl/87/435], Apr. 21, 1962, [76 Stat. 55][/us/stat/76/55]; [Pub. L. 88–42][/us/pl/88/42], June 21, 1963, [77 Stat. 67][/us/stat/77/67]; [Pub. L. 88–286][/us/pl/88/286], Mar. 18, 1964, [78 Stat. 166][/us/stat/78/166], and repealed by [Pub. L. 94–455, title XXI][/us/pl/94/455/tXXI], § 2121(a), Oct. 4, 1976, [90 Stat. 1914][/us/stat/90/1914], provided for a study by the Committee on the Judiciary of the House of Representatives and the Committee on Finance of the United States Senate, acting separately or jointly, or any duly authorized subcommittee thereof, of all matters pertaining to the taxation of interstate commerce by the States, territories, and possessions of the United States, the District of Columbia, and the Commonwealth of Puerto Rico, or any political or taxing subdivision of the foregoing, and for a report together with their proposals for legislation on or before June 30, 1965.
 
 ----------
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/86/272/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F272%2Fs101
+[/us/pl/86/272/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F272%2FtI
 [/us/stat/73/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F555
 [/us/pl/86/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F272
 [/us/pl/87/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F17
@@ -67,7 +67,7 @@
 [/us/stat/77/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F67
 [/us/pl/88/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F286
 [/us/stat/78/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F166
-[/us/pl/94/455/s2121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs2121%2Fa
+[/us/pl/94/455/tXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXXI
 [/us/stat/90/1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1914
 
 

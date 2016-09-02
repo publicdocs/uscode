@@ -17,7 +17,7 @@
 
     A prescriber may not place on the prescription, or require the patient to sign, or deliver to the patient a form or notice waiving or disclaiming the liability or responsibility of the prescriber for the accuracy of the eye examination. The preceding sentence does not impose liability on a prescriber for the ophthalmic goods and services dispensed by another seller pursuant to the prescriber’s correctly verified prescription.
 
-([Pub. L. 108–164, § 7][/us/pl/108/164/s7], Dec. 6, 2003, [117 Stat. 2026][/us/stat/117/2026].)
+([Pub. L. 108–164][/us/pl/108/164], § 7, Dec. 6, 2003, [117 Stat. 2026][/us/stat/117/2026].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/164/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F164%2Fs7
+[/us/pl/108/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F164
 [/us/stat/117/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2026
 
 

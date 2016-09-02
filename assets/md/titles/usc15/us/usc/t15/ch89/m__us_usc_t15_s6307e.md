@@ -45,7 +45,7 @@
 
         A promoter shall make information required to be disclosed under this section available to the chief law enforcement officer of the State in which the match is to be held upon request of such officer.
 
-([Pub. L. 104–272, § 13][/us/pl/104/272/s13], as added [Pub. L. 106–210, § 4(2)][/us/pl/106/210/s4/2], May 26, 2000, [114 Stat. 324][/us/stat/114/324].)
+([Pub. L. 104–272][/us/pl/104/272], § 13, as added [Pub. L. 106–210][/us/pl/106/210], § 4(2), May 26, 2000, [114 Stat. 324][/us/stat/114/324].)
 
  __Prior Provisions__ 
 
@@ -58,8 +58,8 @@
 ----------
 ----------
 
-[/us/pl/104/272/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs13
-[/us/pl/106/210/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210%2Fs4%2F2
+[/us/pl/104/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272
+[/us/pl/106/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F210
 [/us/stat/114/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F324
 [/us/pl/104/272/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F272%2Fs13
 [/us/usc/t15/s6312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6312

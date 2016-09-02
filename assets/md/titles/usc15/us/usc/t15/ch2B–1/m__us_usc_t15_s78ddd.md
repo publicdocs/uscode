@@ -131,7 +131,7 @@
 
         Except as otherwise provided by SIPC bylaw, gross revenues from the securities business of a member of SIPC shall be computed on a consolidated basis for such member and all its subsidiaries (other than the foreign subsidiaries of such member), and the operations of a member of SIPC shall include those of any business to which such member has succeeded.
 
-([Pub. L. 91–598, § 4][/us/pl/91/598/s4], Dec. 30, 1970, [84 Stat. 1639][/us/stat/84/1639]; [Pub. L. 95–283, § 6][/us/pl/95/283/s6], May 21, 1978, [92 Stat. 253][/us/stat/92/253]; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 929C, 929V(a), July 21, 2010, [124 Stat. 1852][/us/stat/124/1852], 1868.)
+([Pub. L. 91–598][/us/pl/91/598], § 4, Dec. 30, 1970, [84 Stat. 1639][/us/stat/84/1639]; [Pub. L. 95–283][/us/pl/95/283], § 6, May 21, 1978, [92 Stat. 253][/us/stat/92/253]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], §§ 929C, 929V(a), July 21, 2010, [124 Stat. 1852][/us/stat/124/1852], 1868.)
 
  __References in Text__ 
 
@@ -139,27 +139,27 @@
 
  __Codification__ 
 
-    In subsec. (h), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act, as amended,”, respectively, on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (h), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act, as amended,”, respectively, on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
-    2010—Subsec. (d)(1)(C). [Pub. L. 111–203, § 929V(a)][/us/pl/111/203/s929V/a], substituted “0.02 percent of the gross revenues from the securities business of such member of SIPC” for “$150 per annum”.
+    2010—Subsec. (d)(1)(C). [Pub. L. 111–203][/us/pl/111/203], § 929V(a), substituted “0.02 percent of the gross revenues from the securities business of such member of SIPC” for “$150 per annum”.
 
-    Subsec. (h). [Pub. L. 111–203, § 929C][/us/pl/111/203/s929C], substituted “$2,500,000,000” for “$1,000,000,000” in first sentence.
+    Subsec. (h). [Pub. L. 111–203][/us/pl/111/203], § 929C, substituted “$2,500,000,000” for “$1,000,000,000” in first sentence.
 
-    1978—Subsec. (a). [Pub. L. 95–283, § 6(a)][/us/pl/95/283/s6/a], in par. (2) substituted “Except as otherwise provided in this section, the” for “The”, in par. (2)(C) inserted provisions for inapplicability to other lines of credit, and added par. (4).
+    1978—Subsec. (a). [Pub. L. 95–283][/us/pl/95/283], § 6(a), in par. (2) substituted “Except as otherwise provided in this section, the” for “The”, in par. (2)(C) inserted provisions for inapplicability to other lines of credit, and added par. (4).
 
-    Subsec. (c). [Pub. L. 95–283, § 6(b)][/us/pl/95/283/s6/b], in par. (2) struck out “or rule” after “bylaw”, and in par. (3) struck out reference to [section 78ccc(f) of this title][/us/usc/t15/s78ccc/f] in introductory text and “or rule” after “bylaw” in subpar. (B).
+    Subsec. (c). [Pub. L. 95–283][/us/pl/95/283], § 6(b), in par. (2) struck out “or rule” after “bylaw”, and in par. (3) struck out reference to [section 78ccc(f) of this title][/us/usc/t15/s78ccc/f] in introductory text and “or rule” after “bylaw” in subpar. (B).
 
-    Subsec. (d)(1)(C). [Pub. L. 95–283, § 6(c)][/us/pl/95/283/s6/c], added subpar. (C).
+    Subsec. (d)(1)(C). [Pub. L. 95–283][/us/pl/95/283], § 6(c), added subpar. (C).
 
-    Subsec. (e). [Pub. L. 95–283, § 6(d)][/us/pl/95/283/s6/d], in par. (2) substituted “be recoverable only against future payments by such member, except as otherwise provided by SIPC bylaw” for “not be recoverable except against future payments by such member in accordance with a bylaw or rule of SIPC”, and in par. (3) substituted provisions authorizing interest and penalty charges to be imposed by SIPC bylaw and amount of penalty charge, for provisions authorizing interest to be imposed by SIPC bylaw or rule.
+    Subsec. (e). [Pub. L. 95–283][/us/pl/95/283], § 6(d), in par. (2) substituted “be recoverable only against future payments by such member, except as otherwise provided by SIPC bylaw” for “not be recoverable except against future payments by such member in accordance with a bylaw or rule of SIPC”, and in par. (3) substituted provisions authorizing interest and penalty charges to be imposed by SIPC bylaw and amount of penalty charge, for provisions authorizing interest to be imposed by SIPC bylaw or rule.
 
-    Subsec. (f). [Pub. L. 95–283, § 6(e)][/us/pl/95/283/s6/e], struck out “examining authority as” before “collection agent for SIPC, shall immediately be subject”.
+    Subsec. (f). [Pub. L. 95–283][/us/pl/95/283], § 6(e), struck out “examining authority as” before “collection agent for SIPC, shall immediately be subject”.
 
-    Subsec. (g). [Pub. L. 95–283, § 6(f)][/us/pl/95/283/s6/f], redesignated cls. (A) to (C) as (1) to (3), respectively, and, as so redesignated, in cl. (2) struck out applicability to a member of a national securities exchange and in cl. (3) substituted provisions relating to exemptions by rule of transactions in the over-the-counter market or on any national securities exchange, for provisions relating to exemptions by rules and regulations of transactions in the over-the-counter market, and inserted provisions authorizing the collection of fees by such other persons as designated by the Commission by rule for such purpose, and provisions relating to limits on manner of payment of fees.
+    Subsec. (g). [Pub. L. 95–283][/us/pl/95/283], § 6(f), redesignated cls. (A) to (C) as (1) to (3), respectively, and, as so redesignated, in cl. (2) struck out applicability to a member of a national securities exchange and in cl. (3) substituted provisions relating to exemptions by rule of transactions in the over-the-counter market or on any national securities exchange, for provisions relating to exemptions by rules and regulations of transactions in the over-the-counter market, and inserted provisions authorizing the collection of fees by such other persons as designated by the Commission by rule for such purpose, and provisions relating to limits on manner of payment of fees.
 
-    Subsec. (i). [Pub. L. 95–283, § 6(g)][/us/pl/95/283/s6/g], substituted “Consolidated group” for “ ‘Gross revenues’ defined” in heading, redesignated par. (2) as entire section and, as so redesignated, substituted provisions relating to computations by a member, for provisions relating to computations by a broker or dealer. Pars. (1) and (3), which generally defined term “gross revenues” and authorized the SIPC to define all other terms used in this subsec., respectively, were struck out.
+    Subsec. (i). [Pub. L. 95–283][/us/pl/95/283], § 6(g), substituted “Consolidated group” for “ ‘Gross revenues’ defined” in heading, redesignated par. (2) as entire section and, as so redesignated, substituted provisions relating to computations by a member, for provisions relating to computations by a broker or dealer. Pars. (1) and (3), which generally defined term “gross revenues” and authorized the SIPC to define all other terms used in this subsec., respectively, were struck out.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -173,26 +173,26 @@
 ----------
 
 [/us/usc/t15/s78iii/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78iii%2Fa
-[/us/pl/91/598/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598%2Fs4
+[/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1639
-[/us/pl/95/283/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs6
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/stat/92/253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F253
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1852
 [/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1636
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/111/203/s929V/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929V%2Fa
-[/us/pl/111/203/s929C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929C
-[/us/pl/95/283/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs6%2Fa
-[/us/pl/95/283/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs6%2Fb
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/usc/t15/s78ccc/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78ccc%2Ff
-[/us/pl/95/283/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs6%2Fc
-[/us/pl/95/283/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs6%2Fd
-[/us/pl/95/283/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs6%2Fe
-[/us/pl/95/283/s6/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs6%2Ff
-[/us/pl/95/283/s6/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs6%2Fg
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

@@ -113,27 +113,27 @@
 
         For purposes of this subchapter, any wool product shall be misbranded if a stamp, tag, label, or other identification conforming to the requirements of this section is not on or affixed to the inside center of the neck midway between the shoulder seams or, if such product does not contain a neck, in the most conspicuous place on the inner side of such product, unless it is on or affixed on the outer side of such product or in the case of hosiery items, on the outer side of such product or package.
 
-([Oct. 14, 1940, ch. 871, § 4][/us/act/1940-10-14/ch871/s4], [54 Stat. 1129][/us/stat/54/1129]; [Pub. L. 96–242, § 2][/us/pl/96/242/s2], May 5, 1980, [94 Stat. 344][/us/stat/94/344]; [Pub. L. 98–417, title III][/us/pl/98/417], §§ 304, 305, Sept. 24, 1984, [98 Stat. 1604][/us/stat/98/1604]; [Pub. L. 109–428, § 2(a)][/us/pl/109/428/s2/a], Dec. 20, 2006, [120 Stat. 2913][/us/stat/120/2913].)
+([Oct. 14, 1940, ch. 871][/us/act/1940-10-14/ch871], § 4, [54 Stat. 1129][/us/stat/54/1129]; [Pub. L. 96–242][/us/pl/96/242], § 2, May 5, 1980, [94 Stat. 344][/us/stat/94/344]; [Pub. L. 98–417, title III][/us/pl/98/417/tIII], §§ 304, 305, Sept. 24, 1984, [98 Stat. 1604][/us/stat/98/1604]; [Pub. L. 109–428][/us/pl/109/428], § 2(a), Dec. 20, 2006, [120 Stat. 2913][/us/stat/120/2913].)
 
  __Amendments__ 
 
     2006—Subsec. (a)(5), (6). [Pub. L. 109–428][/us/pl/109/428] added pars. (5) and (6).
 
-    1984—Subsec. (a)(2)(D). [Pub. L. 98–417, § 304][/us/pl/98/417/s304], added subpar. (D).
+    1984—Subsec. (a)(2)(D). [Pub. L. 98–417][/us/pl/98/417], § 304, added subpar. (D).
 
-    Subsecs. (e), (f). [Pub. L. 98–417, § 305][/us/pl/98/417/s305], added subsecs. (e) and (f).
+    Subsecs. (e), (f). [Pub. L. 98–417][/us/pl/98/417], § 305, added subsecs. (e) and (f).
 
     1980—Subsec. (a)(2)(A). [Pub. L. 96–242][/us/pl/96/242] substituted “recycled wool” for “reprocessed wool” as cl. (2), struck out cl. (3) “reused wool”, and redesignated existing cls. (4) and (5) as (3) and (4), respectively.
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–428, § 2(b)][/us/pl/109/428/s2/b], Dec. 20, 2006, [120 Stat. 2915][/us/stat/120/2915], provided that: 
+[Pub. L. 109–428][/us/pl/109/428], § 2(b), Dec. 20, 2006, [120 Stat. 2915][/us/stat/120/2915], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to wool products manufactured on or after January 1, 2007.”
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–417, title III, § 307][/us/pl/98/417/s307], Sept. 24, 1984, [98 Stat. 1605][/us/stat/98/1605], provided that: 
+[Pub. L. 98–417, title III][/us/pl/98/417/tIII], § 307, Sept. 24, 1984, [98 Stat. 1605][/us/stat/98/1605], provided that: 
 
 > “The amendments made by this title \[amending this section and sections 68c and 70b of this title\] shall be effective ninety days after the date of enactment of this Act \[Sept. 24, 1984\].”
 
@@ -157,21 +157,21 @@
 [/us/usc/t15/s68c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs68c
 [/us/usc/t15/s68a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs68a
 [/us/usc/t15/s68c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs68c
-[/us/act/1940-10-14/ch871/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch871%2Fs4
+[/us/act/1940-10-14/ch871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch871
 [/us/stat/54/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1129
-[/us/pl/96/242/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F242%2Fs2
+[/us/pl/96/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F242
 [/us/stat/94/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F344
-[/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
+[/us/pl/98/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2FtIII
 [/us/stat/98/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1604
-[/us/pl/109/428/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F428%2Fs2%2Fa
+[/us/pl/109/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F428
 [/us/stat/120/2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2913
 [/us/pl/109/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F428
-[/us/pl/98/417/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2Fs304
-[/us/pl/98/417/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2Fs305
+[/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
+[/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
 [/us/pl/96/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F242
-[/us/pl/109/428/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F428%2Fs2%2Fb
+[/us/pl/109/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F428
 [/us/stat/120/2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2915
-[/us/pl/98/417/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2Fs307
+[/us/pl/98/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2FtIII
 [/us/stat/98/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1605
 [/us/pl/96/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F242
 [/us/pl/96/242/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F242%2Fs3

@@ -21,7 +21,7 @@
 
     (2) each person who controls any party to such venture (including such party itself) is a United States person, or a foreign person from a country whose law accords antitrust treatment no less favorable to United States persons than to such country’s domestic persons with respect to participation in joint ventures for production.
 
-([Pub. L. 98–462, § 7][/us/pl/98/462/s7], as added [Pub. L. 103–42, § 3(g)][/us/pl/103/42/s3/g], June 10, 1993, [107 Stat. 119][/us/stat/107/119].)
+([Pub. L. 98–462][/us/pl/98/462], § 7, as added [Pub. L. 103–42][/us/pl/103/42], § 3(g), June 10, 1993, [107 Stat. 119][/us/stat/107/119].)
 
 ----------
 
@@ -32,8 +32,8 @@
 
 [/us/usc/t15/s4303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4303
 [/us/usc/t15/s4301/a/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4301%2Fa%2F6%2FD
-[/us/pl/98/462/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F462%2Fs7
-[/us/pl/103/42/s3/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42%2Fs3%2Fg
+[/us/pl/98/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F462
+[/us/pl/103/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F42
 [/us/stat/107/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F119
 
 

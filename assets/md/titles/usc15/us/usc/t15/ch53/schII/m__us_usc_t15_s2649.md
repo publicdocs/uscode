@@ -35,7 +35,7 @@
 
         It is not the intent of Congress that this subchapter or rules, regulations, or orders issued pursuant to this subchapter be interpreted as influencing, in either the plaintiff’s or defendant’s favor, the disposition of any civil action for damages relating to asbestos. This subsection does not affect the authority of any court to make a determination in an adjudicatory proceeding under applicable State law with respect to the admission into evidence or any other use of this subchapter or rules, regulations, or orders issued pursuant to this subchapter.
 
-([Pub. L. 94–469, title II, § 209][/us/pl/94/469/s209], as added [Pub. L. 99–519, § 2][/us/pl/99/519/s2], Oct. 22, 1986, [100 Stat. 2986][/us/stat/100/2986].)
+([Pub. L. 94–469, title II][/us/pl/94/469/tII], § 209, as added [Pub. L. 99–519][/us/pl/99/519], § 2, Oct. 22, 1986, [100 Stat. 2986][/us/stat/100/2986].)
 
 ----------
 
@@ -44,8 +44,8 @@
 ----------
 ----------
 
-[/us/pl/94/469/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs209
-[/us/pl/99/519/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs2
+[/us/pl/94/469/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtII
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2986
 
 

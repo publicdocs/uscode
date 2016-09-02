@@ -23,7 +23,7 @@
 
         Each department, agency, and instrumentality of the executive branch of the Federal Government shall carefully consider any written request from the Secretary of Energy, or the head of any agency to which the Secretary of Energy has delegated responsibility for specified parts or aspects of the project, to furnish such assistance, on a reimbursable basis, as the Secretary of Energy or such head deems necessary to carry out the project and to achieve the purposes of this chapter. Such assistance may include transfer of personnel with their consent and without prejudice to their position and rating.
 
-([Pub. L. 94–413, § 5][/us/pl/94/413/s5], Sept. 17, 1976, [90 Stat. 1262][/us/stat/90/1262]; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577].)
+([Pub. L. 94–413][/us/pl/94/413], § 5, Sept. 17, 1976, [90 Stat. 1262][/us/stat/90/1262]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577].)
 
  __Codification__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t15/s2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2503
-[/us/pl/94/413/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F413%2Fs5
+[/us/pl/94/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F413
 [/us/stat/90/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1262
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
 [/us/usc/t15/s2502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2502
 [/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa

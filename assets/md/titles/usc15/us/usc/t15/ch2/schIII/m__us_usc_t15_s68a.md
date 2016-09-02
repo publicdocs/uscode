@@ -23,7 +23,7 @@
 
     (b) To any person manufacturing, delivering for shipment, shipping, selling, or offering for sale, for exportation from the United States to any foreign country a wool product branded in accordance with the specifications of the purchaser and in accordance with the laws of such country.
 
-([Oct. 14, 1940, ch. 871, § 3][/us/act/1940-10-14/ch871/s3], [54 Stat. 1129][/us/stat/54/1129].)
+([Oct. 14, 1940, ch. 871][/us/act/1940-10-14/ch871], § 3, [54 Stat. 1129][/us/stat/54/1129].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1940-10-14/ch871/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch871%2Fs3
+[/us/act/1940-10-14/ch871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch871
 [/us/stat/54/1129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1129
 
 

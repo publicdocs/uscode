@@ -23,7 +23,7 @@
 
         The Federal Trade Commission shall periodically check telephone numbers registered on the national “do-not-call” registry against national or other appropriate databases and shall remove from such registry those telephone numbers that have been disconnected and reassigned. Nothing in this section prohibits the Federal Trade Commission from removing invalid telephone numbers from the registry at any time.
 
-([Pub. L. 108–10, § 5][/us/pl/108/10/s5], as added [Pub. L. 110–187, § 2][/us/pl/110/187/s2], Feb. 15, 2008, [122 Stat. 633][/us/stat/122/633].)
+([Pub. L. 108–10][/us/pl/108/10], § 5, as added [Pub. L. 110–187][/us/pl/110/187], § 2, Feb. 15, 2008, [122 Stat. 633][/us/stat/122/633].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/108/10/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F10%2Fs5
-[/us/pl/110/187/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F187%2Fs2
+[/us/pl/108/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F10
+[/us/pl/110/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F187
 [/us/stat/122/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F633
 
 

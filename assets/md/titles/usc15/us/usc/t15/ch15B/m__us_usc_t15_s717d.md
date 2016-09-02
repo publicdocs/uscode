@@ -23,7 +23,7 @@
 
         The Commission upon its own motion, or upon the request of any State commission, whenever it can do so without prejudice to the efficient and proper conduct of its affairs, may investigate and determine the cost of the production or transportation of natural gas by a natural-gas company in cases where the Commission has no authority to establish a rate governing the transportation or sale of such natural gas.
 
-([June 21, 1938, ch. 556, § 5][/us/act/1938-06-21/ch556/s5], [52 Stat. 823][/us/stat/52/823].)
+([June 21, 1938, ch. 556][/us/act/1938-06-21/ch556], § 5, [52 Stat. 823][/us/stat/52/823].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-21/ch556/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556%2Fs5
+[/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F823
 
 

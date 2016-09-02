@@ -17,11 +17,11 @@
 
     The metric system of measurement shall be defined as the International System of Units as established in 1960, and subsequently maintained, by the General Conference of Weights and Measures, and as interpreted or modified for the United States by the Secretary of Commerce.
 
-(R.S. § 3570; [Pub. L. 110–69, title III, § 3013(c)(1)][/us/pl/110/69/s3013/c/1], Aug. 9, 2007, [121 Stat. 598][/us/stat/121/598].)
+(R.S. § 3570; [Pub. L. 110–69, title III][/us/pl/110/69/tIII], § 3013(c)(1), Aug. 9, 2007, [121 Stat. 598][/us/stat/121/598].)
 
  __Codification__ 
 
-    R.S. § 3570 derived from [act July 28, 1866, ch. 301, § 2][/us/act/1866-07-28/ch301/s2], [14 Stat. 339][/us/stat/14/339], 340.
+    R.S. § 3570 derived from [act July 28, 1866, ch. 301][/us/act/1866-07-28/ch301], § 2, [14 Stat. 339][/us/stat/14/339], 340.
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/110/69/s3013/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3013%2Fc%2F1
+[/us/pl/110/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIII
 [/us/stat/121/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F598
-[/us/act/1866-07-28/ch301/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-28%2Fch301%2Fs2
+[/us/act/1866-07-28/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-28%2Fch301
 [/us/stat/14/339]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F339
 [/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 

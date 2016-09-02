@@ -17,7 +17,7 @@
 
     In the event the accounts of the Commodity Credit Corporation reflect a net realized gain for any such fiscal year, the amount of such net realized gain shall be deposited in the Treasury by the Commodity Credit Corporation and shall be credited to miscellaneous receipts.
 
-([Pub. L. 87–155, § 3][/us/pl/87/155/s3], Aug. 17, 1961, [75 Stat. 391][/us/stat/75/391].)
+([Pub. L. 87–155][/us/pl/87/155], § 3, Aug. 17, 1961, [75 Stat. 391][/us/stat/75/391].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/155/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F155%2Fs3
+[/us/pl/87/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F155
 [/us/stat/75/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F391
 
 

@@ -43,7 +43,7 @@
 
         Nothing in this section shall be construed to require the Commission, in determining whether to bring an action against a consumer product or a person under this section, to prepare a comparison of the costs that would be incurred in complying with the relief that may be ordered in such action with the benefits to the public from such relief.
 
-([Pub. L. 92–573, § 12][/us/pl/92/573/s12], Oct. 27, 1972, [86 Stat. 1218][/us/stat/86/1218]; [Pub. L. 97–35, title XII, § 1205(a)(2)][/us/pl/97/35/s1205/a/2], Aug. 13, 1981, [95 Stat. 716][/us/stat/95/716]; [Pub. L. 101–608, title I, § 111(a)(1)][/us/pl/101/608/s111/a/1], Nov. 16, 1990, [104 Stat. 3114][/us/stat/104/3114].)
+([Pub. L. 92–573][/us/pl/92/573], § 12, Oct. 27, 1972, [86 Stat. 1218][/us/stat/86/1218]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1205(a)(2), Aug. 13, 1981, [95 Stat. 716][/us/stat/95/716]; [Pub. L. 101–608, title I][/us/pl/101/608/tI], § 111(a)(1), Nov. 16, 1990, [104 Stat. 3114][/us/stat/104/3114].)
 
  __Amendments__ 
 
@@ -62,11 +62,11 @@
 ----------
 ----------
 
-[/us/pl/92/573/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs12
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1218
-[/us/pl/97/35/s1205/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1205%2Fa%2F2
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F716
-[/us/pl/101/608/s111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs111%2Fa%2F1
+[/us/pl/101/608/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2FtI
 [/us/stat/104/3114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3114
 [/us/pl/101/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

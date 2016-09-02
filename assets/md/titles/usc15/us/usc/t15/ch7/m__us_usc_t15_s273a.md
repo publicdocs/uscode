@@ -35,7 +35,7 @@
 
         The individual serving as the Director of the Institute on January 4, 2011, shall also serve as the Under Secretary until such time as a successor is appointed under subsection (b).
 
-([Mar. 3, 1901, ch. 872, § 4][/us/act/1901-03-03/ch872/s4], as added [Pub. L. 111–358, title IV, § 403(a)][/us/pl/111/358/s403/a], Jan. 4, 2011, [124 Stat. 4000][/us/stat/124/4000].)
+([Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 4, as added [Pub. L. 111–358, title IV][/us/pl/111/358/tIV], § 403(a), Jan. 4, 2011, [124 Stat. 4000][/us/stat/124/4000].)
 
  __Prior Provisions__ 
 
@@ -49,8 +49,8 @@
 ----------
 
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
-[/us/act/1901-03-03/ch872/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs4
-[/us/pl/111/358/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs403%2Fa
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
+[/us/pl/111/358/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtIV
 [/us/stat/124/4000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4000
 [/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
 [/us/stat/31/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1449

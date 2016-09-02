@@ -27,7 +27,7 @@
 
         The Commission shall make available to the several State commissions such information and reports as may be of assistance in State regulation of natural-gas companies. Whenever the Commission can do so without prejudice to the efficient and proper conduct of its affairs, it may, upon request from a State commission, make available to such State commission as witnesses any of its trained rate, valuation, or other experts, subject to reimbursement of the compensation and traveling expenses of such witnesses. All sums collected hereunder shall be credited to the appropriation from which the amounts were expended in carrying out the provisions of this subsection.
 
-([June 21, 1938, ch. 556, § 17][/us/act/1938-06-21/ch556/s17], [52 Stat. 830][/us/stat/52/830].)
+([June 21, 1938, ch. 556][/us/act/1938-06-21/ch556], § 17, [52 Stat. 830][/us/stat/52/830].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-21/ch556/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556%2Fs17
+[/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F830
 
 

@@ -29,7 +29,7 @@
 
         All Federal agencies shall consult with the Commission before undertaking major Federal actions relating to Arctic research.
 
-([Pub. L. 98–373, title I, § 105][/us/pl/98/373/s105], July 31, 1984, [98 Stat. 1245][/us/stat/98/1245].)
+([Pub. L. 98–373, title I][/us/pl/98/373/tI], § 105, July 31, 1984, [98 Stat. 1245][/us/stat/98/1245].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/98/373/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs105
+[/us/pl/98/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtI
 [/us/stat/98/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1245
 
 

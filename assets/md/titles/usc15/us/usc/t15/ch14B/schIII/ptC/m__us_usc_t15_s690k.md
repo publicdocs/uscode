@@ -21,7 +21,7 @@
 
     (2) in each case in which the company makes, under this part, an investment in, or a loan or a grant to, a business that is not primarily engaged in the research, development, manufacture, or bringing to market or  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “of”. </sup></sup>  renewable energy sources, a report on the nature, origin, and revenues of the business in which investments are made.
 
-([Pub. L. 85–699, title III, § 392][/us/pl/85/699/s392], as added [Pub. L. 110–140, title XII, § 1207][/us/pl/110/140/s1207], Dec. 19, 2007, [121 Stat. 1782][/us/stat/121/1782].)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 392, as added [Pub. L. 110–140, title XII][/us/pl/110/140/tXII], § 1207, Dec. 19, 2007, [121 Stat. 1782][/us/stat/121/1782].)
 
 ----------
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/85/699/s392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs392
-[/us/pl/110/140/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1207
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/110/140/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXII
 [/us/stat/121/1782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1782
 
 

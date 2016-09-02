@@ -29,7 +29,7 @@
 
         (4) offer appropriate training in the use of flammability test methods and testing devices.
 
-([June 30, 1953, ch. 164, § 14][/us/act/1953-06-30/ch164/s14], as added [Pub. L. 90–189, § 10][/us/pl/90/189/s10], Dec. 14, 1967, [81 Stat. 573][/us/stat/81/573]; amended [Pub. L. 92–573, § 30(b)][/us/pl/92/573/s30/b], Oct. 27, 1972, [86 Stat. 1231][/us/stat/86/1231]; [Pub. L. 96–470, title I, § 114][/us/pl/96/470/s114], Oct. 19, 1980, [94 Stat. 2240][/us/stat/94/2240]; [Pub. L. 97–35, title XII, § 1211(e)][/us/pl/97/35/s1211/e], Aug. 13, 1981, [95 Stat. 721][/us/stat/95/721]; [Pub. L. 110–314, title II, § 204(c)(2)(B)][/us/pl/110/314/s204/c/2/B], Aug. 14, 2008, [122 Stat. 3042][/us/stat/122/3042].)
+([June 30, 1953, ch. 164][/us/act/1953-06-30/ch164], § 14, as added [Pub. L. 90–189][/us/pl/90/189], § 10, Dec. 14, 1967, [81 Stat. 573][/us/stat/81/573]; amended [Pub. L. 92–573][/us/pl/92/573], § 30(b), Oct. 27, 1972, [86 Stat. 1231][/us/stat/86/1231]; [Pub. L. 96–470, title I][/us/pl/96/470/tI], § 114, Oct. 19, 1980, [94 Stat. 2240][/us/stat/94/2240]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1211(e), Aug. 13, 1981, [95 Stat. 721][/us/stat/95/721]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 204(c)(2)(B), Aug. 14, 2008, [122 Stat. 3042][/us/stat/122/3042].)
 
  __Codification__ 
 
@@ -53,7 +53,7 @@
 
  __Toxicologic Risks of Flame-Retardant Chemicals in Residential Upholstered Furniture__ 
 
-[Pub. L. 105–276, title IV, § 423][/us/pl/105/276/s423], Oct. 21, 1998, [112 Stat. 2510][/us/stat/112/2510], provided that:
+[Pub. L. 105–276, title IV][/us/pl/105/276/tIV], § 423, Oct. 21, 1998, [112 Stat. 2510][/us/stat/112/2510], provided that:
 
 >     “(a) Within 90 days of the enactment of this Act \[Oct. 21, 1998\], the Consumer Product Safety Commission shall make all necessary arrangements for the Committee on Toxicology of the National Academy of Sciences (NAS) to conduct an independent 12-month study of the potential toxicologic risks of all flame-retardant chemicals identified by the NAS and the Commission as likely candidates for use in residential upholstered furniture for the purpose of meeting regulations proposed by the Commission for flame resistance of residential upholstered furniture.
 
@@ -68,16 +68,16 @@
 ----------
 ----------
 
-[/us/act/1953-06-30/ch164/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch164%2Fs14
-[/us/pl/90/189/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189%2Fs10
+[/us/act/1953-06-30/ch164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-06-30%2Fch164
+[/us/pl/90/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F189
 [/us/stat/81/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F573
-[/us/pl/92/573/s30/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs30%2Fb
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1231
-[/us/pl/96/470/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs114
+[/us/pl/96/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtI
 [/us/stat/94/2240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2240
-[/us/pl/97/35/s1211/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1211%2Fe
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F721
-[/us/pl/110/314/s204/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fc%2F2%2FB
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3042
 [/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
@@ -89,7 +89,7 @@
 [/us/usc/t15/s2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2052
 [/us/pl/92/573/s30/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs30%2Fb
 [/us/usc/t15/s2079/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2079%2Fb
-[/us/pl/105/276/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs423
+[/us/pl/105/276/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2FtIV
 [/us/stat/112/2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2510
 
 

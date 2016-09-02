@@ -17,7 +17,7 @@
 
     The Administrator shall make publicly available, including through the Internet, information on procedures for establishing cooperative agreements between State and local fire and emergency services and Federal facilities in their region relating to the provision of fire and emergency services.
 
-([Pub. L. 93–498, § 36][/us/pl/93/498/s36], formerly § 34, as added [Pub. L. 106–503, title I, § 106][/us/pl/106/503/s106], Nov. 13, 2000, [114 Stat. 2301][/us/stat/114/2301]; renumbered § 36, [Pub. L. 108–136, div. A, title X, § 1057][/us/pl/108/136/s1057], Nov. 24, 2003, [117 Stat. 1616][/us/stat/117/1616].)
+([Pub. L. 93–498][/us/pl/93/498], § 36, formerly § 34, as added [Pub. L. 106–503, title I][/us/pl/106/503/tI], § 106, Nov. 13, 2000, [114 Stat. 2301][/us/stat/114/2301]; renumbered § 36, [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1057, Nov. 24, 2003, [117 Stat. 1616][/us/stat/117/1616].)
 
 ----------
 
@@ -26,10 +26,10 @@
 ----------
 ----------
 
-[/us/pl/93/498/s36]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs36
-[/us/pl/106/503/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs106
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
+[/us/pl/106/503/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2FtI
 [/us/stat/114/2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2301
-[/us/pl/108/136/s1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1057
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1616
 
 

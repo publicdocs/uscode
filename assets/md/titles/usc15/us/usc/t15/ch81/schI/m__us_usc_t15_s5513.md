@@ -71,7 +71,7 @@
 
         Such funds may not be used for routine upgrades to existing federally funded communication networks.
 
-([Pub. L. 102–194, title I, § 103][/us/pl/102/194/s103], as added [Pub. L. 105–305, § 5][/us/pl/105/305/s5], Oct. 28, 1998, [112 Stat. 2921][/us/stat/112/2921]; amended [Pub. L. 106–65, div. A, title X, § 1067(20)][/us/pl/106/65/s1067/20], Oct. 5, 1999, [113 Stat. 775][/us/stat/113/775].)
+([Pub. L. 102–194, title I][/us/pl/102/194/tI], § 103, as added [Pub. L. 105–305][/us/pl/105/305], § 5, Oct. 28, 1998, [112 Stat. 2921][/us/stat/112/2921]; amended [Pub. L. 106–65, div. A, title X][/us/pl/106/65/dA/tX], § 1067(20), Oct. 5, 1999, [113 Stat. 775][/us/stat/113/775].)
 
  __References in Text__ 
 
@@ -98,10 +98,10 @@
 
 [/us/usc/t15/s5511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5511%2Fb
 [/us/usc/t15/s5511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5511%2Fb
-[/us/pl/102/194/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2Fs103
-[/us/pl/105/305/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305%2Fs5
+[/us/pl/102/194/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F194%2FtI
+[/us/pl/105/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305
 [/us/stat/112/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2921
-[/us/pl/106/65/s1067/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F20
+[/us/pl/106/65/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtX
 [/us/stat/113/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F775
 [/us/usc/t15/s5511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5511
 [/us/pl/105/305/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F305%2Fs7%2Fa%2F1

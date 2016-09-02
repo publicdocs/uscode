@@ -27,7 +27,7 @@
 
         No provision of this subchapter imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule, regulation, or order of the Commission, notwithstanding that such rule, regulation, or order may, after such act or omission, be amended or rescinded or be determined by judicial or other authority to be invalid for any reason.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 319, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1173][/us/stat/53/1173]; [Pub. L. 105–353, title III, § 301(e)(4)][/us/pl/105/353/s301/e/4], Nov. 3, 1998, [112 Stat. 3237][/us/stat/112/3237].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 319, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1173][/us/stat/53/1173]; [Pub. L. 105–353, title III][/us/pl/105/353/tIII], § 301(e)(4), Nov. 3, 1998, [112 Stat. 3237][/us/stat/112/3237].)
 
  __Amendments__ 
 
@@ -50,7 +50,7 @@
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/act/1939-08-03/ch411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-03%2Fch411
 [/us/stat/53/1173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1173
-[/us/pl/105/353/s301/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fe%2F4
+[/us/pl/105/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtIII
 [/us/stat/112/3237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3237
 [/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265

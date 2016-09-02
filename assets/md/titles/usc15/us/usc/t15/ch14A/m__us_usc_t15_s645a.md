@@ -43,7 +43,7 @@
 
             The number of suspensions or debarments referred to the Inspector General of the Small Business Administration or another agency, or to the Attorney General (for purposes of this paragraph, the Administrator may redact identifying information on names of companies or other information in order to protect the integrity of any ongoing criminal or civil investigation).
 
-([Pub. L. 112–239, div. A, title XVI, § 1683][/us/pl/112/239/s1683], Jan. 2, 2013, [126 Stat. 2086][/us/stat/126/2086].)
+([Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1683, Jan. 2, 2013, [126 Stat. 2086][/us/stat/126/2086].)
 
  __Codification__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/112/239/s1683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1683
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2086
 
 

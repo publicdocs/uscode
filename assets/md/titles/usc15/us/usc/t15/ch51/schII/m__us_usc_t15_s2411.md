@@ -17,7 +17,7 @@
 
     There is hereby established as an independent establishment of the executive branch of the Government the National Center for Productivity and Quality of Working Life.
 
-([Pub. L. 94–136, title II, § 201][/us/pl/94/136/s201], Nov. 28, 1975, [89 Stat. 735][/us/stat/89/735].)
+([Pub. L. 94–136, title II][/us/pl/94/136/tII], § 201, Nov. 28, 1975, [89 Stat. 735][/us/stat/89/735].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/136/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2Fs201
+[/us/pl/94/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2FtII
 [/us/stat/89/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F735
 
 

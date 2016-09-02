@@ -45,7 +45,7 @@
 
             The term “high-priority user” has the same meaning as given such term in [section 3391(f)(2) of this title][/us/usc/t15/s3391/f/2].
 
-([Pub. L. 95–621, title IV, § 402][/us/pl/95/621/s402], Nov. 9, 1978, [92 Stat. 3395][/us/stat/92/3395].)
+([Pub. L. 95–621, title IV][/us/pl/95/621/tIV], § 402, Nov. 9, 1978, [92 Stat. 3395][/us/stat/92/3395].)
 
 ----------
 
@@ -57,7 +57,7 @@
 [/us/usc/t15/s3391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3391
 [/us/usc/t15/s3391/f/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3391%2Ff%2F1%2FB
 [/us/usc/t15/s3391/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3391%2Ff%2F2
-[/us/pl/95/621/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs402
+[/us/pl/95/621/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2FtIV
 [/us/stat/92/3395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3395
 
 

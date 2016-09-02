@@ -33,7 +33,7 @@
 
         Unless the Commission is expressly authorized by any provision described in this subsection to grant exemptions, the Commission shall not grant exemptions, with respect to amendments made by subtitle B of the Wall Street Transparency and Accountability Act of 2010, with respect to paragraphs (65), (66), (68), (69), (70), (71), (72), (73), (74), (75), (76), and (79) of [section 78c(a) of this title][/us/usc/t15/s78c/a], and sections 78j–2(a), 78j–2(b), 78j–2(c), 78m–1, 78o–10, 78q–1(g), 78q–1(h), 78q–1(i), 78q–1(j), 78q–1(k), and 78q–1(l) of this title; provided that the Commission shall have exemptive authority under this chapter with respect to security-based swaps as to the same matters that the Commodity Futures Trading Commission has under the Wall Street Transparency and Accountability Act of 2010 with respect to swaps, including under [section 6(c) of title 7][/us/usc/t7/s6/c].
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 36, as added [Pub. L. 104–290, title I, § 105(b)][/us/pl/104/290/s105/b], Oct. 11, 1996, [110 Stat. 3424][/us/stat/110/3424]; amended [Pub. L. 111–203, title VII, § 772(a)][/us/pl/111/203/s772/a], July 21, 2010, [124 Stat. 1801][/us/stat/124/1801].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 36, as added [Pub. L. 104–290, title I][/us/pl/104/290/tI], § 105(b), Oct. 11, 1996, [110 Stat. 3424][/us/stat/110/3424]; amended [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 772(a), July 21, 2010, [124 Stat. 1801][/us/stat/124/1801].)
 
  __Amendment of Section__ 
 
@@ -64,9 +64,9 @@
 [/us/usc/t15/s78c/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa
 [/us/usc/t7/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs6%2Fc
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/104/290/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs105%2Fb
+[/us/pl/104/290/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtI
 [/us/stat/110/3424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3424
-[/us/pl/111/203/s772/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs772%2Fa
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1801
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a

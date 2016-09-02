@@ -95,7 +95,7 @@
 
         The issuance of any rule under this section is subject to judicial review as provided in [section 2060(g) of this title][/us/usc/t15/s2060/g], as added by section 236 of this Act.
 
-([Pub. L. 110–314, title I, § 106][/us/pl/110/314/s106], Aug. 14, 2008, [122 Stat. 3033][/us/stat/122/3033]; [Pub. L. 112–28, § 4][/us/pl/112/28/s4], Aug. 12, 2011, [125 Stat. 280][/us/stat/125/280].)
+([Pub. L. 110–314, title I][/us/pl/110/314/tI], § 106, Aug. 14, 2008, [122 Stat. 3033][/us/stat/122/3033]; [Pub. L. 112–28][/us/pl/112/28], § 4, Aug. 12, 2011, [125 Stat. 280][/us/stat/125/280].)
 
  __References in Text__ 
 
@@ -130,9 +130,9 @@
 [/us/usc/t15/s2075/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2075%2Fa
 [/us/usc/t15/s2075]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2075
 [/us/usc/t15/s2060/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2060%2Fg
-[/us/pl/110/314/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs106
+[/us/pl/110/314/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtI
 [/us/stat/122/3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3033
-[/us/pl/112/28/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28%2Fs4
+[/us/pl/112/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F28
 [/us/stat/125/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F280
 [/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
 [/us/stat/122/3016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3016

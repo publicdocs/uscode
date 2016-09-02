@@ -17,7 +17,7 @@
 
     The Secretary shall ensure that information systems created or developed pursuant to this chapter do not unnecessarily duplicate information systems available from other Federal agencies or from the private sector.
 
-([Pub. L. 100–418, title V, § 5410][/us/pl/100/418/s5410], Aug. 23, 1988, [102 Stat. 1467][/us/stat/102/1467].)
+([Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5410, Aug. 23, 1988, [102 Stat. 1467][/us/stat/102/1467].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/418/s5410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5410
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1467
 
 

@@ -153,7 +153,7 @@
 
             Board members may be reimbursed only by the Association for travel expenses, including per diem in lieu of subsistence, at rates consistent with rates authorized for employees of Federal agencies under subchapter I of chapter 57 of title 5, while away from home or regular places of business in performance of services for the Association.
 
-([Pub. L. 106–102, title III, § 324][/us/pl/106/102/s324], as added [Pub. L. 114–1, title II, § 202(a)][/us/pl/114/1/s202/a], Jan. 12, 2015, [129 Stat. 20][/us/stat/129/20].)
+([Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 324, as added [Pub. L. 114–1, title II][/us/pl/114/1/tII], § 202(a), Jan. 12, 2015, [129 Stat. 20][/us/stat/129/20].)
 
  __References in Text__ 
 
@@ -163,7 +163,7 @@
 
     Provisions similar to this section were contained in [section 6756 of this title][/us/usc/t15/s6756], prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1].
 
-    A prior section 6754, [Pub. L. 106–102, title III, § 324][/us/pl/106/102/s324], Nov. 12, 1999, [113 Stat. 1424][/us/stat/113/1424], related to relationship to the Federal Government, prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1].
+    A prior section 6754, [Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 324, Nov. 12, 1999, [113 Stat. 1424][/us/stat/113/1424], related to relationship to the Federal Government, prior to the general amendment of this subchapter by [Pub. L. 114–1][/us/pl/114/1].
 
 ----------
 
@@ -172,12 +172,12 @@
 ----------
 ----------
 
-[/us/pl/106/102/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs324
-[/us/pl/114/1/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2Fs202%2Fa
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
+[/us/pl/114/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1%2FtII
 [/us/stat/129/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F20
 [/us/usc/t15/s6756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6756
 [/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
-[/us/pl/106/102/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs324
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1424
 [/us/pl/114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F1
 

@@ -17,7 +17,7 @@
 
     The Institute shall not implement a policy of charging fees with respect to the use of Institute research facilities by research associates in the absence of express statutory authority to charge such fees.
 
-([Mar. 3, 1901, ch. 872, § 30][/us/act/1901-03-03/ch872/s30], as added [Pub. L. 100–418, title V, § 5161][/us/pl/100/418/s5161], Aug. 23, 1988, [102 Stat. 1450][/us/stat/102/1450].)
+([Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 30, as added [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5161, Aug. 23, 1988, [102 Stat. 1450][/us/stat/102/1450].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/act/1901-03-03/ch872/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs30
-[/us/pl/100/418/s5161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5161
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1450
 
 

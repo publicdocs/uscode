@@ -45,7 +45,7 @@
 
         (7) long-term relationships between energy supply and consumption in the United States and world communities.
 
-([Pub. L. 93–275, § 52][/us/pl/93/275/s52], as added [Pub. L. 94–385, title I, § 142][/us/pl/94/385/s142], Aug. 14, 1976, [90 Stat. 1135][/us/stat/90/1135]; amended [Pub. L. 95–91, title VII, § 709(a)(3)][/us/pl/95/91/s709/a/3], Aug. 4, 1977, [91 Stat. 608][/us/stat/91/608].)
+([Pub. L. 93–275][/us/pl/93/275], § 52, as added [Pub. L. 94–385, title I][/us/pl/94/385/tI], § 142, Aug. 14, 1976, [90 Stat. 1135][/us/stat/90/1135]; amended [Pub. L. 95–91, title VII][/us/pl/95/91/tVII], § 709(a)(3), Aug. 4, 1977, [91 Stat. 608][/us/stat/91/608].)
 
  __References in Text__ 
 
@@ -76,10 +76,10 @@
 
 [/us/usc/t15/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717
 [/us/usc/t16/s791a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs791a
-[/us/pl/93/275/s52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs52
-[/us/pl/94/385/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs142
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
+[/us/pl/94/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtI
 [/us/stat/90/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1135
-[/us/pl/95/91/s709/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs709%2Fa%2F3
+[/us/pl/95/91/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVII
 [/us/stat/91/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F608
 [/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F821

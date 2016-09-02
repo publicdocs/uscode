@@ -23,7 +23,7 @@
 
         It shall be unlawful for any natural-gas company willfully to hinder, delay, or obstruct the making, filing, or keeping of any information, document, report, memorandum, record, or account required to be made, filed, or kept under this chapter or any rule, regulation, or order thereunder.
 
-([June 21, 1938, ch. 556, § 10][/us/act/1938-06-21/ch556/s10], [52 Stat. 826][/us/stat/52/826].)
+([June 21, 1938, ch. 556][/us/act/1938-06-21/ch556], § 10, [52 Stat. 826][/us/stat/52/826].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-21/ch556/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556%2Fs10
+[/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F826
 
 

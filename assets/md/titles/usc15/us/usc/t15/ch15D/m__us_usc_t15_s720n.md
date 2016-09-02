@@ -77,7 +77,7 @@
 
             The term “qualified infrastructure project” means an Alaskan natural gas transportation project or system consisting of the design, engineering, finance, construction, and completion of pipelines and related transportation and production systems (including gas treatment plants  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  liquification plants and liquefied natural gas tankers for transportation of liquefied natural gas from southcentral Alaska to the West Coast), and appurtenances thereto, that are used to transport natural gas from the Alaska North Slope to the continental United States.
 
-([Pub. L. 108–324, div. C, § 116][/us/pl/108/324/s116], Oct. 13, 2004, [118 Stat. 1265][/us/stat/118/1265]; [Pub.L. 108–199, div. H, § 146][/us/pl/108/199/s146], Jan. 23, 2004, [118 Stat. 444][/us/stat/118/444]; [Pub. L. 108–447, div. J, title I, § 114][/us/pl/108/447/s114], Dec. 8, 2004, [118 Stat. 3346][/us/stat/118/3346].)
+([Pub. L. 108–324, div. C][/us/pl/108/324/dC], § 116, Oct. 13, 2004, [118 Stat. 1265][/us/stat/118/1265]; [Pub.L. 108–199, div. H][/us/pl/108/199/dH], § 146, Jan. 23, 2004, [118 Stat. 444][/us/stat/118/444]; [Pub. L. 108–447, div. J, title I][/us/pl/108/447/dJ/tI], § 114, Dec. 8, 2004, [118 Stat. 3346][/us/stat/118/3346].)
 
  __References in Text__ 
 
@@ -85,15 +85,15 @@
 
  __Amendments__ 
 
-    2004—Subsec. (a)(1). [Pub.L. 108–199, § 146(1)][/us/pl/108/199/s146/1], as amended by [Pub. L. 108–447, § 114(a)(1)][/us/pl/108/447/s114/a/1], (2), which directed the amendment of subsec. (a) by inserting “or with an entity the Secretary determines is qualified to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States,” before “to issue”, was executed to par. (1) of subsec. (a) to reflect the probable intent of Congress.
+    2004—Subsec. (a)(1). [Pub.L. 108–199][/us/pl/108/199], § 146(1), as amended by [Pub. L. 108–447][/us/pl/108/447], § 114(a)(1), (2), which directed the amendment of subsec. (a) by inserting “or with an entity the Secretary determines is qualified to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States,” before “to issue”, was executed to par. (1) of subsec. (a) to reflect the probable intent of Congress.
 
-    Subsec. (b)(1). [Pub.L. 108–199, § 146(2)][/us/pl/108/199/s146/2], as amended by [Pub. L. 108–447, § 114(1)][/us/pl/108/447/s114/1]–(3), inserted before period at end “, or after the Secretary certifies there exists a qualified entity to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States. In no case shall loan guarantees be issued for more than one qualified project”.
+    Subsec. (b)(1). [Pub.L. 108–199][/us/pl/108/199], § 146(2), as amended by [Pub. L. 108–447][/us/pl/108/447], § 114(1)–(3), inserted before period at end “, or after the Secretary certifies there exists a qualified entity to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States. In no case shall loan guarantees be issued for more than one qualified project”.
 
-    Subsec. (b)(4). [Pub. L. 108–447, § 114(b)][/us/pl/108/447/s114/b], added par. (4).
+    Subsec. (b)(4). [Pub. L. 108–447][/us/pl/108/447], § 114(b), added par. (4).
 
-    Subsec. (c)(2). [Pub. L. 108–199, § 146(3)][/us/pl/108/199/s146/3], as amended by [Pub. L. 108–447, § 114(1)][/us/pl/108/447/s114/1], (2), (4), which directed the amendment of subsec. (a)(2) by inserting “, except that the total amount of principal that may be guaranteed for a qualified liquefied natural gas project may not exceed a principal amount in which the cost of loan guarantees, as defined by [section 661a(5) of title 2][/us/usc/t2/s661a/5], exceeds $2,000,000,000” before period at end, was executed by making the amendment to subsec. (c)(2), to reflect the probable intent of Congress.
+    Subsec. (c)(2). [Pub. L. 108–199][/us/pl/108/199], § 146(3), as amended by [Pub. L. 108–447][/us/pl/108/447], § 114(1), (2), (4), which directed the amendment of subsec. (a)(2) by inserting “, except that the total amount of principal that may be guaranteed for a qualified liquefied natural gas project may not exceed a principal amount in which the cost of loan guarantees, as defined by [section 661a(5) of title 2][/us/usc/t2/s661a/5], exceeds $2,000,000,000” before period at end, was executed by making the amendment to subsec. (c)(2), to reflect the probable intent of Congress.
 
-    Subsec. (g)(4). [Pub.L. 108–199, § 146(4)][/us/pl/108/199/s146/4], as amended by [Pub. L. 108–447, § 114(1)][/us/pl/108/447/s114/1], (2), (5), inserted “or system” after “gas transportation project” and “liquification plants and liquefied natural gas tankers for transportation of liquefied natural gas from Southcentral Alaska to the West Coast” after “including gas treatment plants”.
+    Subsec. (g)(4). [Pub.L. 108–199][/us/pl/108/199], § 146(4), as amended by [Pub. L. 108–447][/us/pl/108/447], § 114(1), (2), (5), inserted “or system” after “gas transportation project” and “liquification plants and liquefied natural gas tankers for transportation of liquefied natural gas from Southcentral Alaska to the West Coast” after “including gas treatment plants”.
 
 ----------
 
@@ -111,24 +111,24 @@
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/usc/t26/s4974/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4974%2Fc
 [/us/usc/t26/s414/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs414%2Fd
-[/us/pl/108/324/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2Fs116
+[/us/pl/108/324/dC]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F324%2FdC
 [/us/stat/118/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1265
-[/us/pl/108/199/s146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs146
+[/us/pl/108/199/dH]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdH
 [/us/stat/118/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F444
-[/us/pl/108/447/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs114
+[/us/pl/108/447/dJ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtI
 [/us/stat/118/3346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3346
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
-[/us/pl/108/199/s146/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs146%2F1
-[/us/pl/108/447/s114/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs114%2Fa%2F1
-[/us/pl/108/199/s146/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs146%2F2
-[/us/pl/108/447/s114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs114%2F1
-[/us/pl/108/447/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs114%2Fb
-[/us/pl/108/199/s146/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs146%2F3
-[/us/pl/108/447/s114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs114%2F1
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/usc/t2/s661a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661a%2F5
-[/us/pl/108/199/s146/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2Fs146%2F4
-[/us/pl/108/447/s114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs114%2F1
+[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 
 

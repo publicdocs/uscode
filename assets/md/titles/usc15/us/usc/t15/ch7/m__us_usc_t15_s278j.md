@@ -23,7 +23,7 @@
 
     (3) identification and assessment of likely barriers to widespread use of advanced manufacturing technology by the United States workforce, including training and other initiatives which could lead to a higher percentage of manufacturing jobs of United States companies being located within the borders of our country.
 
-([Mar. 3, 1901, ch. 872, § 24][/us/act/1901-03-03/ch872/s24], as added [Pub. L. 100–418, title V, § 5114(2)][/us/pl/100/418/s5114/2], Aug. 23, 1988, [102 Stat. 1432][/us/stat/102/1432].)
+([Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 24, as added [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5114(2), Aug. 23, 1988, [102 Stat. 1432][/us/stat/102/1432].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/act/1901-03-03/ch872/s24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs24
-[/us/pl/100/418/s5114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5114%2F2
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1432
 
 

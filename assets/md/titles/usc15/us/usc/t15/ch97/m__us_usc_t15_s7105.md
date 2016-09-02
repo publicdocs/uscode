@@ -17,7 +17,7 @@
 
     There is established a council to be known as the National Women’s Business Council, which shall serve as an independent source of advice and policy recommendations to the Interagency Committee, to the Administrator through the Assistant Administrator of the Office of Women’s Business Ownership, to the Congress, and to the President.
 
-([Pub. L. 100–533, title IV, § 405][/us/pl/100/533/s405], as added [Pub. L. 103–403, title IV, § 413][/us/pl/103/403/s413], Oct. 22, 1994, [108 Stat. 4195][/us/stat/108/4195].)
+([Pub. L. 100–533, title IV][/us/pl/100/533/tIV], § 405, as added [Pub. L. 103–403, title IV][/us/pl/103/403/tIV], § 413, Oct. 22, 1994, [108 Stat. 4195][/us/stat/108/4195].)
 
  __Prior Provisions__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/100/533/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs405
-[/us/pl/103/403/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs413
+[/us/pl/100/533/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2FtIV
+[/us/pl/103/403/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtIV
 [/us/stat/108/4195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4195
 [/us/pl/100/533/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs405
 [/us/stat/102/2696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2696

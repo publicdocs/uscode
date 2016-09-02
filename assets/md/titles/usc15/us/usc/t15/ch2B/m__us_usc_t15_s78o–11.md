@@ -223,7 +223,7 @@
 
         (2) with respect to securitizers and originators of all other classes of asset-backed securities, 2 years after the date on which final rules under this section are published in the Federal Register.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 15G, as added [Pub. L. 111–203, title IX, § 941(b)][/us/pl/111/203/s941/b], July 21, 2010, [124 Stat. 1891][/us/stat/124/1891].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 15G, as added [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 941(b), July 21, 2010, [124 Stat. 1891][/us/stat/124/1891].)
 
  __References in Text__ 
 
@@ -247,7 +247,7 @@
 [/us/usc/t15/s77c/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77c%2Fa%2F2
 [/us/usc/t26/s150/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs150%2Fd%2F2
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/111/203/s941/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs941%2Fb
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1891
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74

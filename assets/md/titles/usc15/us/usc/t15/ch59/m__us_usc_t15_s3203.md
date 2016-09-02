@@ -85,7 +85,7 @@
 
         (2) implement such standard so as to assure that utility actions would not provide such utilities with unfair competitive advantages over such small businesses.
 
-([Pub. L. 95–617, title III, § 303][/us/pl/95/617/s303], Nov. 9, 1978, [92 Stat. 3150][/us/stat/92/3150]; [Pub. L. 102–486, title I, § 115(b)][/us/pl/102/486/s115/b]–(d), Oct. 24, 1992, [106 Stat. 2803][/us/stat/106/2803], 2804; [Pub. L. 110–140, title V, § 532(b)][/us/pl/110/140/s532/b], (c), Dec. 19, 2007, [121 Stat. 1666][/us/stat/121/1666], 1667.)
+([Pub. L. 95–617, title III][/us/pl/95/617/tIII], § 303, Nov. 9, 1978, [92 Stat. 3150][/us/stat/92/3150]; [Pub. L. 102–486, title I][/us/pl/102/486/tI], § 115(b)–(d), Oct. 24, 1992, [106 Stat. 2803][/us/stat/106/2803], 2804; [Pub. L. 110–140, title V][/us/pl/110/140/tV], § 532(b), (c), Dec. 19, 2007, [121 Stat. 1666][/us/stat/121/1666], 1667.)
 
  __References in Text__ 
 
@@ -97,15 +97,15 @@
 
  __Amendments__ 
 
-    2007—Subsec. (a)(2). [Pub. L. 110–140, § 532(c)][/us/pl/110/140/s532/c], which directed substitution of “(4), (5), and (6)” for “and (4)” in subsec. (a), was executed by making the substitution in subsec. (a)(2) to reflect the probable intent of Congress.
+    2007—Subsec. (a)(2). [Pub. L. 110–140][/us/pl/110/140], § 532(c), which directed substitution of “(4), (5), and (6)” for “and (4)” in subsec. (a), was executed by making the substitution in subsec. (a)(2) to reflect the probable intent of Congress.
 
-    Subsec. (b)(5), (6). [Pub. L. 110–140, § 532(b)][/us/pl/110/140/s532/b], added pars. (5) and (6).
+    Subsec. (b)(5), (6). [Pub. L. 110–140][/us/pl/110/140], § 532(b), added pars. (5) and (6).
 
-    1992—Subsec. (a). [Pub. L. 102–486, § 115(d)][/us/pl/102/486/s115/d], in introductory provisions inserted “(or after October 24, 1992, in the case of standards under paragraphs (3), and (4) of subsection (b))” and in par. (2) substituted “standards established by paragraphs (2), (3) and (4) of subsection (b)” for “standard established by subsection (b)(2)”.
+    1992—Subsec. (a). [Pub. L. 102–486][/us/pl/102/486], § 115(d), in introductory provisions inserted “(or after October 24, 1992, in the case of standards under paragraphs (3), and (4) of subsection (b))” and in par. (2) substituted “standards established by paragraphs (2), (3) and (4) of subsection (b)” for “standard established by subsection (b)(2)”.
 
-    Subsec. (b)(3), (4). [Pub. L. 102–486, § 115(b)][/us/pl/102/486/s115/b], added pars. (3) and (4).
+    Subsec. (b)(3), (4). [Pub. L. 102–486][/us/pl/102/486], § 115(b), added pars. (3) and (4).
 
-    Subsec. (d). [Pub. L. 102–486, § 115(c)][/us/pl/102/486/s115/c], added subsec. (d).
+    Subsec. (d). [Pub. L. 102–486][/us/pl/102/486], § 115(c), added subsec. (d).
 
  __Effective Date of 2007 Amendment__ 
 
@@ -113,7 +113,7 @@
 
  __Report to President and Congress on Encouragement of Integrated Resource Planning and Investments in Conservation and Energy Efficiency by Electric Utilities__ 
 
-[Pub. L. 102–486, title I, § 115(e)][/us/pl/102/486/s115/e], Oct. 24, 1992, [106 Stat. 2804][/us/stat/106/2804], provided that: 
+[Pub. L. 102–486, title I][/us/pl/102/486/tI], § 115(e), Oct. 24, 1992, [106 Stat. 2804][/us/stat/106/2804], provided that: 
 
 > “The report under section 111(e) of this Act \[[16 U.S.C. 2621][/us/usc/t16/s2621] note\] transmitted by the Secretary of Energy to the President and to the Congress shall contain a survey of all State laws, regulations, practices, and policies under which State regulatory authorities implement the provisions of paragraphs (3) and (4) of section 303(b) of the Public Utility Regulatory Policies Act of 1978 \[[15 U.S.C. 3203(b)(3)][/us/usc/t15/s3203/b/3] and (4)\]. The report shall include an analysis, prepared in conjunction with the Federal Trade Commission, of the competitive impact of implementation of energy conservation, energy efficiency, and other demand side management programs by gas utilities on small businesses engaged in the design, sale, supply, installation, or servicing of similar energy conservation, energy efficiency, or other demand-side management measures and whether any unfair, deceptive, or predatory acts or practices exist, or are likely to exist, from implementation of such programs.”
 
@@ -131,25 +131,25 @@
 [/us/usc/t15/s3207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3207
 [/us/usc/t15/s3204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3204%2Fa
 [/us/usc/t15/s3204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3204%2Fb
-[/us/pl/95/617/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs303
+[/us/pl/95/617/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtIII
 [/us/stat/92/3150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3150
-[/us/pl/102/486/s115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs115%2Fb
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2803
-[/us/pl/110/140/s532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs532%2Fb
+[/us/pl/110/140/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtV
 [/us/stat/121/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1666
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/stat/106/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2776
 [/us/usc/t42/s13201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13201
 [/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
-[/us/pl/110/140/s532/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs532%2Fc
-[/us/pl/110/140/s532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs532%2Fb
-[/us/pl/102/486/s115/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs115%2Fd
-[/us/pl/102/486/s115/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs115%2Fb
-[/us/pl/102/486/s115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs115%2Fc
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/pl/110/140/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1601
 [/us/usc/t2/s1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824
-[/us/pl/102/486/s115/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs115%2Fe
+[/us/pl/102/486/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2FtI
 [/us/stat/106/2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2804
 [/us/usc/t16/s2621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2621
 [/us/usc/t15/s3203/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3203%2Fb%2F3

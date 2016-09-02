@@ -17,7 +17,7 @@
 
     Any Federal Reserve bank which is requested to do so shall act as fiscal agent for the Board. Each such fiscal agent shall be reimbursed by the Board for all expenses and losses incurred by it in acting as agent on behalf of the Board.
 
-([Pub. L. 92–70, § 10][/us/pl/92/70/s10], Aug. 9, 1971, [85 Stat. 181][/us/stat/85/181].)
+([Pub. L. 92–70][/us/pl/92/70], § 10, Aug. 9, 1971, [85 Stat. 181][/us/stat/85/181].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/70/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70%2Fs10
+[/us/pl/92/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70
 [/us/stat/85/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F181
 
 

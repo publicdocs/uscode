@@ -111,7 +111,7 @@
 
         The Council shall use Federal funds made available to Sematech as needed for general and administrative support in accomplishing the Council’s purposes.
 
-([Pub. L. 100–180, div. A, title II, § 273][/us/pl/100/180/s273], Dec. 4, 1987, [101 Stat. 1070][/us/stat/101/1070]; [Pub. L. 102–245, title I, § 103(e)][/us/pl/102/245/s103/e], Feb. 14, 1992, [106 Stat. 9][/us/stat/106/9]; [Pub. L. 103–160, div. A, title II, § 263(b)][/us/pl/103/160/s263/b], (c)(3)–(e), Nov. 30, 1993, [107 Stat. 1608][/us/stat/107/1608], 1610; [Pub. L. 103–337, div. A, title II, § 251][/us/pl/103/337/s251], Oct. 5, 1994, [108 Stat. 2702][/us/stat/108/2702]; [Pub. L. 106–65, div. A, title IX, § 911(a)(1)][/us/pl/106/65/s911/a/1], Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717].)
+([Pub. L. 100–180, div. A, title II][/us/pl/100/180/dA/tII], § 273, Dec. 4, 1987, [101 Stat. 1070][/us/stat/101/1070]; [Pub. L. 102–245, title I][/us/pl/102/245/tI], § 103(e), Feb. 14, 1992, [106 Stat. 9][/us/stat/106/9]; [Pub. L. 103–160, div. A, title II][/us/pl/103/160/dA/tII], § 263(b), (c)(3)–(e), Nov. 30, 1993, [107 Stat. 1608][/us/stat/107/1608], 1610; [Pub. L. 103–337, div. A, title II][/us/pl/103/337/dA/tII], § 251, Oct. 5, 1994, [108 Stat. 2702][/us/stat/108/2702]; [Pub. L. 106–65, div. A, title IX][/us/pl/106/65/dA/tIX], § 911(a)(1), Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717].)
 
  __References in Text__ 
 
@@ -123,41 +123,41 @@
 
     1994—Subsec. (b)(2)(I). [Pub. L. 103–337][/us/pl/103/337] inserted “and submit to Congress by March 31 of each year” after “Publish”.
 
-    1993—[Pub. L. 103–160, § 263(b)][/us/pl/103/160/s263/b], substituted “Semiconductor Technology Council” for “Advisory Council” in section catchline.
+    1993—[Pub. L. 103–160][/us/pl/103/160], § 263(b), substituted “Semiconductor Technology Council” for “Advisory Council” in section catchline.
 
-    Subsec. (a). [Pub. L. 103–160, § 263(b)][/us/pl/103/160/s263/b], added subsec. (a) and struck out former subsec. (a) which read as follows: “There is established the Advisory Council on Federal Participation in Sematech.”
+    Subsec. (a). [Pub. L. 103–160][/us/pl/103/160], § 263(b), added subsec. (a) and struck out former subsec. (a) which read as follows: “There is established the Advisory Council on Federal Participation in Sematech.”
 
-    Subsec. (b). [Pub. L. 103–160, § 263(b)][/us/pl/103/160/s263/b], added subsec. (b) and struck out former subsec. (b) which related to the functions of the Advisory Council of Federal Participation in Sematech.
+    Subsec. (b). [Pub. L. 103–160][/us/pl/103/160], § 263(b), added subsec. (b) and struck out former subsec. (b) which related to the functions of the Advisory Council of Federal Participation in Sematech.
 
-    Subsec. (c). [Pub. L. 103–160, § 263(b)][/us/pl/103/160/s263/b], added subsec. (c) and struck out former subsec. (c) which related to the membership of the Advisory Council on Federal Participation in Sematech.
+    Subsec. (c). [Pub. L. 103–160][/us/pl/103/160], § 263(b), added subsec. (c) and struck out former subsec. (c) which related to the membership of the Advisory Council on Federal Participation in Sematech.
 
-    Subsec. (d). [Pub. L. 103–160, § 263(c)(3)(A)][/us/pl/103/160/s263/c/3/A], substituted “subsection (c)(7)” for “subsection (c)(6)” and “five shall be appointed for a term of two years” for “two shall be appointed for a term of two years”.
+    Subsec. (d). [Pub. L. 103–160][/us/pl/103/160], § 263(c)(3)(A), substituted “subsection (c)(7)” for “subsection (c)(6)” and “five shall be appointed for a term of two years” for “two shall be appointed for a term of two years”.
 
-    Subsec. (e). [Pub. L. 103–160, § 263(c)(3)(B)][/us/pl/103/160/s263/c/3/B], substituted “subsection (c)(7)” for “subsection (c)(6)”.
+    Subsec. (e). [Pub. L. 103–160][/us/pl/103/160], § 263(c)(3)(B), substituted “subsection (c)(7)” for “subsection (c)(6)”.
 
-    Subsec. (f). [Pub. L. 103–160, § 263(c)(3)(C)][/us/pl/103/160/s263/c/3/C], substituted “Eleven members” for “Seven members”.
+    Subsec. (f). [Pub. L. 103–160][/us/pl/103/160], § 263(c)(3)(C), substituted “Eleven members” for “Seven members”.
 
-    Subsec. (g). [Pub. L. 103–160, § 263(d)][/us/pl/103/160/s263/d], substituted “a Cochairman” for “the Chairman or a majority of its members”.
+    Subsec. (g). [Pub. L. 103–160][/us/pl/103/160], § 263(d), substituted “a Cochairman” for “the Chairman or a majority of its members”.
 
-    Subsec. (j). [Pub. L. 103–160, § 263(e)][/us/pl/103/160/s263/e], added subsec. (j).
+    Subsec. (j). [Pub. L. 103–160][/us/pl/103/160], § 263(e), added subsec. (j).
 
     1992—Subsec. (c)(4). [Pub. L. 102–245][/us/pl/102/245] substituted “Technology” for “Economic Affairs”.
 
  __Termination of Advisory Council on Federal Participation in Sematech__ 
 
-[Pub. L. 103–160, div. A, title II, § 263(a)][/us/pl/103/160/s263/a], Nov. 30, 1993, [107 Stat. 1608][/us/stat/107/1608], provided that: 
+[Pub. L. 103–160, div. A, title II][/us/pl/103/160/dA/tII], § 263(a), Nov. 30, 1993, [107 Stat. 1608][/us/stat/107/1608], provided that: 
 
 > “The advisory council known as the Advisory Council on Federal Participation in Sematech, established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 ([15 U.S.C. 4603][/us/usc/t15/s4603]), is hereby terminated.”
 
  __First Meeting of Semiconductor Technology Council__ 
 
-[Pub. L. 103–160, div. A, title II, § 263(f)][/us/pl/103/160/s263/f], Nov. 30, 1993, [107 Stat. 1610][/us/stat/107/1610], provided that: 
+[Pub. L. 103–160, div. A, title II][/us/pl/103/160/dA/tII], § 263(f), Nov. 30, 1993, [107 Stat. 1610][/us/stat/107/1610], provided that: 
 
 > “The first meeting of the Semiconductor Technology Council shall be held not later than 45 days after the date of the enactment of this Act \[Nov. 30, 1993\].”
 
  __References to Terminated Council__ 
 
-[Pub. L. 103–160, div. A, title II, § 263(g)][/us/pl/103/160/s263/g], Nov. 30, 1993, [107 Stat. 1610][/us/stat/107/1610], provided that: 
+[Pub. L. 103–160, div. A, title II][/us/pl/103/160/dA/tII], § 263(g), Nov. 30, 1993, [107 Stat. 1610][/us/stat/107/1610], provided that: 
 
 > “A reference in any provision of law to the Advisory Council on Federal Participation in Sematech shall be deemed to refer to the Semiconductor Technology Council established by section 273 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 \[[15 U.S.C. 4603][/us/usc/t15/s4603]\], as amended by subsection (b).”
 
@@ -168,35 +168,35 @@
 ----------
 ----------
 
-[/us/pl/100/180/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs273
+[/us/pl/100/180/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdA%2FtII
 [/us/stat/101/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1070
-[/us/pl/102/245/s103/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs103%2Fe
+[/us/pl/102/245/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtI
 [/us/stat/106/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F9
-[/us/pl/103/160/s263/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs263%2Fb
+[/us/pl/103/160/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtII
 [/us/stat/107/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1608
-[/us/pl/103/337/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs251
+[/us/pl/103/337/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtII
 [/us/stat/108/2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2702
-[/us/pl/106/65/s911/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs911%2Fa%2F1
+[/us/pl/106/65/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtIX
 [/us/stat/113/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F717
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
-[/us/pl/103/160/s263/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs263%2Fb
-[/us/pl/103/160/s263/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs263%2Fb
-[/us/pl/103/160/s263/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs263%2Fb
-[/us/pl/103/160/s263/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs263%2Fb
-[/us/pl/103/160/s263/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs263%2Fc%2F3%2FA
-[/us/pl/103/160/s263/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs263%2Fc%2F3%2FB
-[/us/pl/103/160/s263/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs263%2Fc%2F3%2FC
-[/us/pl/103/160/s263/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs263%2Fd
-[/us/pl/103/160/s263/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs263%2Fe
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/102/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245
-[/us/pl/103/160/s263/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs263%2Fa
+[/us/pl/103/160/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtII
 [/us/stat/107/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1608
 [/us/usc/t15/s4603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4603
-[/us/pl/103/160/s263/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs263%2Ff
+[/us/pl/103/160/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtII
 [/us/stat/107/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1610
-[/us/pl/103/160/s263/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs263%2Fg
+[/us/pl/103/160/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtII
 [/us/stat/107/1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1610
 [/us/usc/t15/s4603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4603
 

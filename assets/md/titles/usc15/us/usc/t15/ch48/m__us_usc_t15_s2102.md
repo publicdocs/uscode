@@ -23,7 +23,7 @@
 
         If the violation of section 2101(a) or (b) of this title or a rule under [section 2101(c) of this title][/us/usc/t15/s2101/c] also involves unauthorized use of registered trademarks belonging to a collectibles certification service, the owner of such trademarks shall have, in addition to the remedies provided in subsection (a), all rights provided under sections 34, 35, and 36 of the Trademark Act of 1946 ([15 U.S.C. 1116][/us/usc/t15/s1116], 1117, and 1118) for violations of such Act.
 
-([Pub. L. 93–167, § 3][/us/pl/93/167/s3], Nov. 29, 1973, [87 Stat. 686][/us/stat/87/686]; [Pub. L. 113–288, § 2(2)][/us/pl/113/288/s2/2], Dec. 19, 2014, [128 Stat. 3281][/us/stat/128/3281].)
+([Pub. L. 93–167][/us/pl/93/167], § 3, Nov. 29, 1973, [87 Stat. 686][/us/stat/87/686]; [Pub. L. 113–288][/us/pl/113/288], § 2(2), Dec. 19, 2014, [128 Stat. 3281][/us/stat/128/3281].)
 
  __References in Text__ 
 
@@ -44,9 +44,9 @@
 [/us/usc/t28/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1391
 [/us/usc/t15/s2101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2101%2Fc
 [/us/usc/t15/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1116
-[/us/pl/93/167/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F167%2Fs3
+[/us/pl/93/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F167
 [/us/stat/87/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F686
-[/us/pl/113/288/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F288%2Fs2%2F2
+[/us/pl/113/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F288
 [/us/stat/128/3281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3281
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F427

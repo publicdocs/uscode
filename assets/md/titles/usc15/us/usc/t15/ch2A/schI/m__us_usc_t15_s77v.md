@@ -31,7 +31,7 @@
 
         (2) conduct occurring outside the United States that has a foreseeable substantial effect within the United States.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 22, [48 Stat. 86][/us/stat/48/86]; [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]; [June 25, 1948, ch. 646, § 32(b)][/us/act/1948-06-25/ch646/s32/b], [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107]; [Aug. 10, 1954, ch. 667][/us/act/1954-08-10/ch667], title I, § 11, [68 Stat. 686][/us/stat/68/686]; [Pub. L. 91–452, title II, § 213][/us/pl/91/452/s213], Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929]; [Pub. L. 100–181, title II, § 209][/us/pl/100/181/s209], Dec. 4, 1987, [101 Stat. 1253][/us/stat/101/1253]; [Pub. L. 105–353, title I, § 101(a)(3)][/us/pl/105/353/s101/a/3], Nov. 3, 1998, [112 Stat. 3230][/us/stat/112/3230]; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 929E(a), 929P(b)(1), July 21, 2010, [124 Stat. 1853][/us/stat/124/1853], 1864.)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 22, [48 Stat. 86][/us/stat/48/86]; [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 32(b), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 127, [63 Stat. 107][/us/stat/63/107]; [Aug. 10, 1954, ch. 667][/us/act/1954-08-10/ch667], title I, § 11, [68 Stat. 686][/us/stat/68/686]; [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 213, Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929]; [Pub. L. 100–181, title II][/us/pl/100/181/tII], § 209, Dec. 4, 1987, [101 Stat. 1253][/us/stat/101/1253]; [Pub. L. 105–353, title I][/us/pl/105/353/tI], § 101(a)(3), Nov. 3, 1998, [112 Stat. 3230][/us/stat/112/3230]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], §§ 929E(a), 929P(b)(1), July 21, 2010, [124 Stat. 1853][/us/stat/124/1853], 1864.)
 
  __References in Text__ 
 
@@ -43,9 +43,9 @@
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 929E(a)][/us/pl/111/203/s929E/a], inserted after second sentence “In any action or proceeding instituted by the Commission under this subchapter in a United States district court for any judicial district, a subpoena issued to compel the attendance of a witness or the production of documents or tangible things (or both) at a hearing or trial may be served at any place within the United States. Rule 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure shall not apply to a subpoena issued under the preceding sentence.”
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 929E(a), inserted after second sentence “In any action or proceeding instituted by the Commission under this subchapter in a United States district court for any judicial district, a subpoena issued to compel the attendance of a witness or the production of documents or tangible things (or both) at a hearing or trial may be served at any place within the United States. Rule 45(c)(3)(A)(ii) of the Federal Rules of Civil Procedure shall not apply to a subpoena issued under the preceding sentence.”
 
-    Subsec. (c). [Pub. L. 111–203, § 929P(b)(1)][/us/pl/111/203/s929P/b/1], added subsec. (c).
+    Subsec. (c). [Pub. L. 111–203][/us/pl/111/203], § 929P(b)(1), added subsec. (c).
 
     1998—Subsec. (a). [Pub. L. 105–353][/us/pl/105/353] inserted “except as provided in [section 77p of this title][/us/usc/t15/s77p] with respect to covered class actions,” after “Territorial courts,” in first sentence and substituted “Except as provided in [section 77p(c) of this title][/us/usc/t15/s77p/c], no case” for “No case” in penultimate sentence.
 
@@ -93,25 +93,25 @@
 [/us/stat/48/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F86
 [/us/act/1936-06-25/ch804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-25%2Fch804
 [/us/stat/49/1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1921
-[/us/act/1948-06-25/ch646/s32/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs32%2Fb
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1949-05-24/ch139/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs127
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
 [/us/act/1954-08-10/ch667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-10%2Fch667
 [/us/stat/68/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F686
-[/us/pl/91/452/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs213
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F929
-[/us/pl/100/181/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs209
+[/us/pl/100/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtII
 [/us/stat/101/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1253
-[/us/pl/105/353/s101/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs101%2Fa%2F3
+[/us/pl/105/353/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtI
 [/us/stat/112/3230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3230
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1853
 [/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/usc/t28/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs132%2Fa
 [/us/usc/t28/s88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs88
-[/us/pl/111/203/s929E/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929E%2Fa
-[/us/pl/111/203/s929P/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929P%2Fb%2F1
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
 [/us/usc/t15/s77p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77p
 [/us/usc/t15/s77p/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77p%2Fc

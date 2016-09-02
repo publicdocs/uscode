@@ -17,7 +17,7 @@
 
     The Council may bring suit in Federal court to compel compliance with an assessment levied by the Council under this chapter. A successful action for compliance under this section may also require payment by the defendant of the costs incurred by the Council in bringing such action.
 
-([Pub. L. 104–284, § 7][/us/pl/104/284/s7], Oct. 11, 1996, [110 Stat. 3374][/us/stat/110/3374].)
+([Pub. L. 104–284][/us/pl/104/284], § 7, Oct. 11, 1996, [110 Stat. 3374][/us/stat/110/3374].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/104/284/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F284%2Fs7
+[/us/pl/104/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F284
 [/us/stat/110/3374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3374
 
 

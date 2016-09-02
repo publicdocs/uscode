@@ -17,7 +17,7 @@
 
     The standard time of the first zone shall be known and designated as Atlantic standard time; that of the second zone shall be known and designated as eastern standard time; that of the third zone shall be known and designated as central standard time; that of the fourth zone shall be known and designated as mountain standard time; that of the fifth zone shall be known and designated as Pacific standard time; that of the sixth zone shall be known and designated as Alaska standard time; that of the seventh zone shall be known and designated as Hawaii-Aleutian standard time; that of the eighth zone shall be known and designated as Samoa standard time; and that of the ninth zone shall be known as Chamorro standard time.
 
-([Mar. 19, 1918, ch. 24, § 4][/us/act/1918-03-19/ch24/s4], [40 Stat. 451][/us/stat/40/451]; [Pub. L. 89–387, § 4(c)][/us/pl/89/387/s4/c], Apr. 13, 1966, [80 Stat. 108][/us/stat/80/108]; [Pub. L. 98–181, title II, § 2003(a)][/us/pl/98/181/s2003/a], Nov. 30, 1983, [97 Stat. 1297][/us/stat/97/1297]; [Pub. L. 106–564, § 1(b)][/us/pl/106/564/s1/b], Dec. 23, 2000, [114 Stat. 2811][/us/stat/114/2811].)
+([Mar. 19, 1918, ch. 24][/us/act/1918-03-19/ch24], § 4, [40 Stat. 451][/us/stat/40/451]; [Pub. L. 89–387][/us/pl/89/387], § 4(c), Apr. 13, 1966, [80 Stat. 108][/us/stat/80/108]; [Pub. L. 98–181, title II][/us/pl/98/181/tII], § 2003(a), Nov. 30, 1983, [97 Stat. 1297][/us/stat/97/1297]; [Pub. L. 106–564][/us/pl/106/564], § 1(b), Dec. 23, 2000, [114 Stat. 2811][/us/stat/114/2811].)
 
  __Amendments__ 
 
@@ -29,7 +29,7 @@
 
  __Conforming Changes in Time Zone Designations__ 
 
-[Pub. L. 98–181, title II, § 2003(b)][/us/pl/98/181/s2003/b], Nov. 30, 1983, [97 Stat. 1297][/us/stat/97/1297], provided that:
+[Pub. L. 98–181, title II][/us/pl/98/181/tII], § 2003(b), Nov. 30, 1983, [97 Stat. 1297][/us/stat/97/1297], provided that:
 
 >     “(1) Any reference to Yukon standard time in any law, regulation, map, document, record, or other paper of the United States shall be held and considered to be a reference to Alaska standard time.
 
@@ -44,18 +44,18 @@
 ----------
 ----------
 
-[/us/act/1918-03-19/ch24/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-03-19%2Fch24%2Fs4
+[/us/act/1918-03-19/ch24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-03-19%2Fch24
 [/us/stat/40/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F451
-[/us/pl/89/387/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F387%2Fs4%2Fc
+[/us/pl/89/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F387
 [/us/stat/80/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F108
-[/us/pl/98/181/s2003/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs2003%2Fa
+[/us/pl/98/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtII
 [/us/stat/97/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1297
-[/us/pl/106/564/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F564%2Fs1%2Fb
+[/us/pl/106/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F564
 [/us/stat/114/2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2811
 [/us/pl/106/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F564
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/89/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F387
-[/us/pl/98/181/s2003/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2Fs2003%2Fb
+[/us/pl/98/181/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181%2FtII
 [/us/stat/97/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1297
 
 

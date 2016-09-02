@@ -39,7 +39,7 @@
 
         It shall be unlawful for any person engaged in commerce, in the course of such commerce, knowingly to induce or receive a discrimination in price which is prohibited by this section.
 
-([Oct. 15, 1914, ch. 323, § 2][/us/act/1914-10-15/ch323/s2], [38 Stat. 730][/us/stat/38/730]; [June 19, 1936, ch. 592, § 1][/us/act/1936-06-19/ch592/s1], [49 Stat. 1526][/us/stat/49/1526].)
+([Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], § 2, [38 Stat. 730][/us/stat/38/730]; [June 19, 1936, ch. 592][/us/act/1936-06-19/ch592], § 1, [49 Stat. 1526][/us/stat/49/1526].)
 
  __Amendments__ 
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/act/1914-10-15/ch323/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323%2Fs2
+[/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
 [/us/stat/38/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F730
-[/us/act/1936-06-19/ch592/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-19%2Fch592%2Fs1
+[/us/act/1936-06-19/ch592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-19%2Fch592
 [/us/stat/49/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1526
 
 

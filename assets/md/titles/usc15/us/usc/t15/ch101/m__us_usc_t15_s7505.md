@@ -75,7 +75,7 @@
 
         (4) $6,800,000 for fiscal year 2008.
 
-([Pub. L. 108–153, § 6][/us/pl/108/153/s6], Dec. 3, 2003, [117 Stat. 1929][/us/stat/117/1929].)
+([Pub. L. 108–153][/us/pl/108/153], § 6, Dec. 3, 2003, [117 Stat. 1929][/us/stat/117/1929].)
 
 ----------
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/108/153/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F153%2Fs6
+[/us/pl/108/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F153
 [/us/stat/117/1929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1929
 
 

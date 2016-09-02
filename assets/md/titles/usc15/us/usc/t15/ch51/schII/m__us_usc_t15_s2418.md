@@ -23,7 +23,7 @@
 
         Each report required to be submitted to the Congress by this chapter shall be referred to the standing committee or committees having jurisdiction over any part of the subject matter of the report.
 
-([Pub. L. 94–136, title II, § 208][/us/pl/94/136/s208], Nov. 28, 1975, [89 Stat. 740][/us/stat/89/740].)
+([Pub. L. 94–136, title II][/us/pl/94/136/tII], § 208, Nov. 28, 1975, [89 Stat. 740][/us/stat/89/740].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/94/136/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2Fs208
+[/us/pl/94/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2FtII
 [/us/stat/89/740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F740
 
 

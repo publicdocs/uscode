@@ -27,7 +27,7 @@
 
         A disclaimer, modification, or limitation made in violation of this section shall be ineffective for purposes of this chapter and State law.
 
-([Pub. L. 93–637, title I, § 108][/us/pl/93/637/s108], Jan. 4, 1975, [88 Stat. 2189][/us/stat/88/2189].)
+([Pub. L. 93–637, title I][/us/pl/93/637/tI], § 108, Jan. 4, 1975, [88 Stat. 2189][/us/stat/88/2189].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t15/s2304/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2304%2Fa%2F2
-[/us/pl/93/637/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2Fs108
+[/us/pl/93/637/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F637%2FtI
 [/us/stat/88/2189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2189
 
 

@@ -27,7 +27,7 @@
 
         (2) authorized by the Commission under [section 3371(a) of this title][/us/usc/t15/s3371/a].
 
-([Pub. L. 95–621, title VI, § 602][/us/pl/95/621/s602], Nov. 9, 1978, [92 Stat. 3411][/us/stat/92/3411]; [Pub. L. 101–60, § 3(b)(8)][/us/pl/101/60/s3/b/8], July 26, 1989, [103 Stat. 159][/us/stat/103/159].)
+([Pub. L. 95–621, title VI][/us/pl/95/621/tVI], § 602, Nov. 9, 1978, [92 Stat. 3411][/us/stat/92/3411]; [Pub. L. 101–60][/us/pl/101/60], § 3(b)(8), July 26, 1989, [103 Stat. 159][/us/stat/103/159].)
 
  __Amendments__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t15/s3371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3371%2Fa
-[/us/pl/95/621/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2Fs602
+[/us/pl/95/621/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F621%2FtVI
 [/us/stat/92/3411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3411
-[/us/pl/101/60/s3/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60%2Fs3%2Fb%2F8
+[/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
 [/us/stat/103/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F159
 [/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60
 [/us/pl/101/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F60

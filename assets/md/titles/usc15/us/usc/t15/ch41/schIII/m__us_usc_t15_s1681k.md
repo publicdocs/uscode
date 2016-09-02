@@ -27,7 +27,7 @@
 
         Subsection (a) does not apply in the case of an agency or department of the United States Government that seeks to obtain and use a consumer report for employment purposes, if the head of the agency or department makes a written finding as prescribed under [section 1681b(b)(4)(A) of this title][/us/usc/t15/s1681b/b/4/A].
 
-([Pub. L. 90–321, title VI, § 613][/us/pl/90/321/s613], as added [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1133][/us/stat/84/1133]; amended [Pub. L. 105–347, § 4(b)][/us/pl/105/347/s4/b], Nov. 2, 1998, [112 Stat. 3210][/us/stat/112/3210].)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 613, as added [Pub. L. 91–508, title VI][/us/pl/91/508/tVI], § 601, Oct. 26, 1970, [84 Stat. 1133][/us/stat/84/1133]; amended [Pub. L. 105–347][/us/pl/105/347], § 4(b), Nov. 2, 1998, [112 Stat. 3210][/us/stat/112/3210].)
 
  __Amendments__ 
 
@@ -45,10 +45,10 @@
 ----------
 
 [/us/usc/t15/s1681b/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681b%2Fb%2F4%2FA
-[/us/pl/90/321/s613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs613
-[/us/pl/91/508/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs601
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/91/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtVI
 [/us/stat/84/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1133
-[/us/pl/105/347/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347%2Fs4%2Fb
+[/us/pl/105/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347
 [/us/stat/112/3210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3210
 [/us/pl/105/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347
 [/us/pl/105/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F347

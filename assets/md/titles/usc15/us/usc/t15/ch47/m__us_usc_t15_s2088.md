@@ -33,7 +33,7 @@
 
             Not later than 180 days after August 14, 2008, the Comptroller General shall transmit to the appropriate Congressional committees a report on the conclusions of the study required under paragraph (1), including an assessment of whether such an escrow requirement could be implemented and any recommendations for such implementation.
 
-([Pub. L. 92–573, § 41][/us/pl/92/573/s41], as added [Pub. L. 110–314, title II, § 224(a)][/us/pl/110/314/s224/a], Aug. 14, 2008, [122 Stat. 3069][/us/stat/122/3069].)
+([Pub. L. 92–573][/us/pl/92/573], § 41, as added [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 224(a), Aug. 14, 2008, [122 Stat. 3069][/us/stat/122/3069].)
 
 ----------
 
@@ -42,8 +42,8 @@
 ----------
 ----------
 
-[/us/pl/92/573/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs41
-[/us/pl/110/314/s224/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs224%2Fa
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3069
 
 

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t15/ch82/schIV/m__us_usc_t15_ch82_schIV.md) | [Next](./../../../../..//us/usc/t15/ch82/schV/m__us_usc_t15_ch82_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5641)
 
-## § 5641. Repealed. [Pub. L. 111–314, § 6][/us/pl/111/314/s6], Dec. 18, 2010, [124 Stat. 3444][/us/stat/124/3444]
+## § 5641. Repealed. [Pub. L. 111–314][/us/pl/111/314], § 6, Dec. 18, 2010, [124 Stat. 3444][/us/stat/124/3444]
 
-    Section, [Pub. L. 102–555, title IV, § 401][/us/pl/102/555/s401], Oct. 28, 1992, [106 Stat. 4175][/us/stat/106/4175], related to assessing options for successor land remote sensing system. See [section 60134 of Title 51][/us/usc/t51/s60134], National and Commercial Space Programs.
+    Section, [Pub. L. 102–555, title IV][/us/pl/102/555/tIV], § 401, Oct. 28, 1992, [106 Stat. 4175][/us/stat/106/4175], related to assessing options for successor land remote sensing system. See [section 60134 of Title 51][/us/usc/t51/s60134], National and Commercial Space Programs.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/111/314/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs6
+[/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/stat/124/3444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3444
-[/us/pl/102/555/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F555%2Fs401
+[/us/pl/102/555/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F555%2FtIV
 [/us/stat/106/4175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4175
 [/us/usc/t51/s60134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs60134
 

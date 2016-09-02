@@ -33,7 +33,7 @@
 
         As used in this section, the term “issue date” means the date on which the patient receives a copy of the prescription.
 
-([Pub. L. 108–164, § 5][/us/pl/108/164/s5], Dec. 6, 2003, [117 Stat. 2025][/us/stat/117/2025].)
+([Pub. L. 108–164][/us/pl/108/164], § 5, Dec. 6, 2003, [117 Stat. 2025][/us/stat/117/2025].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/108/164/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F164%2Fs5
+[/us/pl/108/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F164
 [/us/stat/117/2025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2025
 
 

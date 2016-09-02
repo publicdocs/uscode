@@ -17,7 +17,7 @@
 
     For purposes of this subchapter, the term “State” means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
 
-([Pub. L. 106–102, title III, § 308][/us/pl/106/102/s308], Nov. 12, 1999, [113 Stat. 1417][/us/stat/113/1417].)
+([Pub. L. 106–102, title III][/us/pl/106/102/tIII], § 308, Nov. 12, 1999, [113 Stat. 1417][/us/stat/113/1417].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/106/102/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs308
+[/us/pl/106/102/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtIII
 [/us/stat/113/1417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1417
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
 [/us/usc/t12/s1831x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1831x

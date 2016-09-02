@@ -53,7 +53,7 @@
 
         Except as provided in section 1029(a) of the Consumer Financial Protection Act of 2010 \[[12 U.S.C. 5519(a)][/us/usc/t12/s5519/a]\], the Bureau may prescribe rules with respect to the collection of debts by debt collectors, as defined in this subchapter.
 
-([Pub. L. 90–321, title VIII, § 814][/us/pl/90/321/s814], as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 881][/us/stat/91/881]; amended [Pub. L. 98–443, § 9(n)][/us/pl/98/443/s9/n], Oct. 4, 1984, [98 Stat. 1708][/us/stat/98/1708]; [Pub. L. 101–73, title VII, § 744(n)][/us/pl/101/73/s744/n], Aug. 9, 1989, [103 Stat. 440][/us/stat/103/440]; [Pub. L. 102–242, title II, § 212(e)][/us/pl/102/242/s212/e], Dec. 19, 1991, [105 Stat. 2301][/us/stat/105/2301]; [Pub. L. 102–550, title XVI, § 1604(a)(8)][/us/pl/102/550/s1604/a/8], Oct. 28, 1992, [106 Stat. 4082][/us/stat/106/4082]; [Pub. L. 104–88, title III, § 316][/us/pl/104/88/s316], Dec. 29, 1995, [109 Stat. 949][/us/stat/109/949]; [Pub. L. 111–203, title X, § 1089(3)][/us/pl/111/203/s1089/3], (4), July 21, 2010, [124 Stat. 2092][/us/stat/124/2092], 2093.)
+([Pub. L. 90–321, title VIII][/us/pl/90/321/tVIII], § 814, as added [Pub. L. 95–109][/us/pl/95/109], Sept. 20, 1977, [91 Stat. 881][/us/stat/91/881]; amended [Pub. L. 98–443][/us/pl/98/443], § 9(n), Oct. 4, 1984, [98 Stat. 1708][/us/stat/98/1708]; [Pub. L. 101–73, title VII][/us/pl/101/73/tVII], § 744(n), Aug. 9, 1989, [103 Stat. 440][/us/stat/103/440]; [Pub. L. 102–242, title II][/us/pl/102/242/tII], § 212(e), Dec. 19, 1991, [105 Stat. 2301][/us/stat/105/2301]; [Pub. L. 102–550, title XVI][/us/pl/102/550/tXVI], § 1604(a)(8), Oct. 28, 1992, [106 Stat. 4082][/us/stat/106/4082]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 316, Dec. 29, 1995, [109 Stat. 949][/us/stat/109/949]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1089(3), (4), July 21, 2010, [124 Stat. 2092][/us/stat/124/2092], 2093.)
 
  __References in Text__ 
 
@@ -69,19 +69,19 @@
 
  __Codification__ 
 
-    In subsec. (b)(3), “subtitle IV of title 49” substituted for “the Acts to regulate commerce” on authority of [Pub. L. 95–473, § 3(b)][/us/pl/95/473/s3/b], Oct. 17, 1978, [92 Stat. 1466][/us/stat/92/1466], the first section of which enacted subtitle IV of Title 49, Transportation.
+    In subsec. (b)(3), “subtitle IV of title 49” substituted for “the Acts to regulate commerce” on authority of [Pub. L. 95–473][/us/pl/95/473], § 3(b), Oct. 17, 1978, [92 Stat. 1466][/us/stat/92/1466], the first section of which enacted subtitle IV of Title 49, Transportation.
 
-    In subsec. (b)(4), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301 et seq.\]” and “that part” substituted for “that Act” on authority of [Pub. L. 103–272, § 6(b)][/us/pl/103/272/s6/b], July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49.
+    In subsec. (b)(4), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301 et seq.\]” and “that part” substituted for “that Act” on authority of [Pub. L. 103–272][/us/pl/103/272], § 6(b), July 5, 1994, [108 Stat. 1378][/us/stat/108/1378], the first section of which enacted subtitles II, III, and V to X of Title 49.
 
     [Section 1089(4) of Pub. L. 111–203][/us/pl/111/203/s1089/4], which directed amendment “in subsection (d)” of the Fair Debt Collection Practices Act, was executed in subsec. (d) of this section, which is section 814 of the Act, to reflect the probable intent of Congress. See 2010 Amendment note below.
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 1089(3)(A)][/us/pl/111/203/s1089/3/A], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Compliance with this subchapter shall be enforced by the Commission, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to another agency under subsection (b) of this section. For purpose of the exercise by the Commission of its functions and powers under the Federal Trade Commission Act, a violation of this subchapter shall be deemed an unfair or deceptive act or practice in violation of that Act. All of the functions and powers of the Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act, including the power to enforce the provisions of this subchapter in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule.”
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 1089(3)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Compliance with this subchapter shall be enforced by the Commission, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to another agency under subsection (b) of this section. For purpose of the exercise by the Commission of its functions and powers under the Federal Trade Commission Act, a violation of this subchapter shall be deemed an unfair or deceptive act or practice in violation of that Act. All of the functions and powers of the Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act, including the power to enforce the provisions of this subchapter in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule.”
 
-    Subsec. (b). [Pub. L. 111–203, § 1089(3)(B)(i)][/us/pl/111/203/s1089/3/B/i], substituted “Subject to subtitle B of the Consumer Financial Protection Act of 2010, compliance” for “Compliance” in introductory provisions.
+    Subsec. (b). [Pub. L. 111–203][/us/pl/111/203], § 1089(3)(B)(i), substituted “Subject to subtitle B of the Consumer Financial Protection Act of 2010, compliance” for “Compliance” in introductory provisions.
 
-    Subsec. (b)(1). [Pub. L. 111–203, § 1089(3)(B)(ii)][/us/pl/111/203/s1089/3/B/ii], added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of—
+    Subsec. (b)(1). [Pub. L. 111–203][/us/pl/111/203], § 1089(3)(B)(ii), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of—
 
     “(A) national banks, and Federal branches and Federal agencies of foreign banks, by the Office of the Comptroller of the Currency;
 
@@ -89,17 +89,17 @@
 
     “(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;”.
 
-    Subsec. (b)(2) to (6). [Pub. L. 111–203, § 1089(3)(B)(ii)][/us/pl/111/203/s1089/3/B/ii]–(vi), added par. (6), redesignated former pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: “section 8 of the Federal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;”.
+    Subsec. (b)(2) to (6). [Pub. L. 111–203][/us/pl/111/203], § 1089(3)(B)(ii)–(vi), added par. (6), redesignated former pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: “section 8 of the Federal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;”.
 
-    Subsec. (d). [Pub. L. 111–203, § 1089(4)][/us/pl/111/203/s1089/4], substituted “Except as provided in section 1029(a) of the Consumer Financial Protection Act of 2010, the Bureau may prescribe rules with respect to the collection of debts by debt collectors, as defined in this subchapter” for “Neither the Commission nor any other agency referred to in subsection (b) of this section may promulgate trade regulation rules or other regulations with respect to the collection of debts by debt collectors as defined in this subchapter”. See Codification note above.
+    Subsec. (d). [Pub. L. 111–203][/us/pl/111/203], § 1089(4), substituted “Except as provided in section 1029(a) of the Consumer Financial Protection Act of 2010, the Bureau may prescribe rules with respect to the collection of debts by debt collectors, as defined in this subchapter” for “Neither the Commission nor any other agency referred to in subsection (b) of this section may promulgate trade regulation rules or other regulations with respect to the collection of debts by debt collectors as defined in this subchapter”. See Codification note above.
 
     1995—Subsec. (b)(4). [Pub. L. 104–88][/us/pl/104/88] substituted “Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board” for “Interstate Commerce Commission with respect to any common carrier subject to those Acts”.
 
     1992—Subsec. (b)(1)(C). [Pub. L. 102–550][/us/pl/102/550] substituted semicolon for period at end.
 
-    1991—Subsec. (b). [Pub. L. 102–242, § 212(e)(2)][/us/pl/102/242/s212/e/2], inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act ([12 U.S.C. 1813(s)][/us/usc/t12/s1813/s]) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 ([12 U.S.C. 3101][/us/usc/t12/s3101]).”
+    1991—Subsec. (b). [Pub. L. 102–242][/us/pl/102/242], § 212(e)(2), inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act ([12 U.S.C. 1813(s)][/us/usc/t12/s1813/s]) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 ([12 U.S.C. 3101][/us/usc/t12/s3101]).”
 
-    [Pub. L. 102–242, § 212(e)(1)][/us/pl/102/242/s212/e/1], added par. (1) and struck out former par. (1) which read as follows: “section 8 of Federal Deposit Insurance Act, in the case of—
+    [Pub. L. 102–242][/us/pl/102/242], § 212(e)(1), added par. (1) and struck out former par. (1) which read as follows: “section 8 of Federal Deposit Insurance Act, in the case of—
 
     “(A) national banks, by the Comptroller of the Currency;
 
@@ -150,20 +150,20 @@
 [/us/usc/t12/s1813/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fs
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
 [/us/usc/t12/s5519/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5519%2Fa
-[/us/pl/90/321/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs814
+[/us/pl/90/321/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVIII
 [/us/pl/95/109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F109
 [/us/stat/91/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F881
-[/us/pl/98/443/s9/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443%2Fs9%2Fn
+[/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/stat/98/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1708
-[/us/pl/101/73/s744/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2Fs744%2Fn
+[/us/pl/101/73/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73%2FtVII
 [/us/stat/103/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F440
-[/us/pl/102/242/s212/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs212%2Fe
+[/us/pl/102/242/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2FtII
 [/us/stat/105/2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F2301
-[/us/pl/102/550/s1604/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1604%2Fa%2F8
+[/us/pl/102/550/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtXVI
 [/us/stat/106/4082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4082
-[/us/pl/104/88/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs316
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F949
-[/us/pl/111/203/s1089/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1089%2F3
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2092
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
@@ -176,22 +176,22 @@
 [/us/act/1921-08-15/ch64]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1921-08-15%2Fch64
 [/us/stat/42/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F159
 [/us/usc/t7/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs181
-[/us/pl/95/473/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473%2Fs3%2Fb
+[/us/pl/95/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F473
 [/us/stat/92/1466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1466
-[/us/pl/103/272/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs6%2Fb
+[/us/pl/103/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272
 [/us/stat/108/1378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1378
 [/us/pl/111/203/s1089/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1089%2F4
-[/us/pl/111/203/s1089/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1089%2F3%2FA
-[/us/pl/111/203/s1089/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1089%2F3%2FB%2Fi
-[/us/pl/111/203/s1089/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1089%2F3%2FB%2Fii
-[/us/pl/111/203/s1089/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1089%2F3%2FB%2Fii
-[/us/pl/111/203/s1089/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1089%2F4
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
-[/us/pl/102/242/s212/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs212%2Fe%2F2
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/usc/t12/s1813/s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fs
 [/us/usc/t12/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101
-[/us/pl/102/242/s212/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242%2Fs212%2Fe%2F1
+[/us/pl/102/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F242
 [/us/pl/101/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F73
 [/us/pl/98/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F443
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

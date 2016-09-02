@@ -27,7 +27,7 @@
 
     (e) The term “good faith” shall mean the duty of each party to any franchise, and all officers, employees, or agents thereof to act in a fair and equitable manner toward each other so as to guarantee the one party freedom from coercion, intimidation, or threats of coercion or intimidation from the other party: Provided, That recommendation, endorsement, exposition, persuasion, urging or argument shall not be deemed to constitute a lack of good faith.
 
-([Aug. 8, 1956, ch. 1038, § 1][/us/act/1956-08-08/ch1038/s1], [70 Stat. 1125][/us/stat/70/1125].)
+([Aug. 8, 1956, ch. 1038][/us/act/1956-08-08/ch1038], § 1, [70 Stat. 1125][/us/stat/70/1125].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1956-08-08/ch1038/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1038%2Fs1
+[/us/act/1956-08-08/ch1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1038
 [/us/stat/70/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1125
 
 

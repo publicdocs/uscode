@@ -17,7 +17,7 @@
 
     The Department of Commerce, the Department of Labor, the Department of Health and Human Services, and the Department of Agriculture shall each collect, and publish regularly, statistics which indicate the social, health, and economic condition of Americans of Spanish origin or descent.
 
-([Pub. L. 94–311, § 2][/us/pl/94/311/s2], June 16, 1976, [90 Stat. 688][/us/stat/90/688]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 94–311][/us/pl/94/311], § 2, June 16, 1976, [90 Stat. 688][/us/stat/90/688]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Change of Name__ 
 
@@ -25,7 +25,7 @@
 
  __Development of Program for the Collection, Analysis and Publication of Data__ 
 
-[Pub. L. 94–311, § 3][/us/pl/94/311/s3], June 16, 1976, [90 Stat. 688][/us/stat/90/688], provided that: 
+[Pub. L. 94–311][/us/pl/94/311], § 3, June 16, 1976, [90 Stat. 688][/us/stat/90/688], provided that: 
 
 > “The Director of the Office of Management and Budget, in cooperation with the Secretary of Commerce and with the heads of other data-gathering Federal agencies, shall develop a Government-wide program for the collection, analysis, and publication of data with respect to Americans of Spanish origin or descent.”
 
@@ -36,13 +36,13 @@
 ----------
 ----------
 
-[/us/pl/94/311/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F311%2Fs2
+[/us/pl/94/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F311
 [/us/stat/90/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F688
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/pl/94/311/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F311%2Fs3
+[/us/pl/94/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F311
 [/us/stat/90/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F688
 
 

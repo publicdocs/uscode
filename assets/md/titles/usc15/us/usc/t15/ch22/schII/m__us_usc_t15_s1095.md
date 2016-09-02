@@ -17,11 +17,11 @@
 
     Registration of a mark on the supplemental register, or under the Act of March 19, 1920, shall not preclude registration by the registrant on the principal register established by this chapter. Registration of a mark on the supplemental register shall not constitute an admission that the mark has not acquired distinctiveness.
 
-([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title II, § 27, [60 Stat. 436][/us/stat/60/436]; [Pub. L. 100–667, title I, § 124][/us/pl/100/667/s124], Nov. 16, 1988, [102 Stat. 3943][/us/stat/102/3943].)
+([July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], title II, § 27, [60 Stat. 436][/us/stat/60/436]; [Pub. L. 100–667, title I][/us/pl/100/667/tI], § 124, Nov. 16, 1988, [102 Stat. 3943][/us/stat/102/3943].)
 
  __References in Text__ 
 
-    Act of March 19, 1920, referred to in text, is [act Mar. 19, 1920, ch. 104][/us/act/1920-03-19/ch104], §§ 1–9, [41 Stat. 533][/us/stat/41/533], which was generally classified to sections 121 to 128 of this title, and which was repealed insofar as inconsistent with this chapter by [act July 5, 1946, ch. 540, § 46(a)][/us/act/1946-07-05/ch540/s46/a], [60 Stat. 444][/us/stat/60/444].
+    Act of March 19, 1920, referred to in text, is [act Mar. 19, 1920, ch. 104][/us/act/1920-03-19/ch104], §§ 1–9, [41 Stat. 533][/us/stat/41/533], which was generally classified to sections 121 to 128 of this title, and which was repealed insofar as inconsistent with this chapter by [act July 5, 1946, ch. 540][/us/act/1946-07-05/ch540], § 46(a), [60 Stat. 444][/us/stat/60/444].
 
  __Amendments__ 
 
@@ -44,11 +44,11 @@
 
 [/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F436
-[/us/pl/100/667/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2Fs124
+[/us/pl/100/667/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667%2FtI
 [/us/stat/102/3943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3943
 [/us/act/1920-03-19/ch104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-19%2Fch104
 [/us/stat/41/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F533
-[/us/act/1946-07-05/ch540/s46/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540%2Fs46%2Fa
+[/us/act/1946-07-05/ch540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-05%2Fch540
 [/us/stat/60/444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F444
 [/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667
 [/us/pl/100/667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F667

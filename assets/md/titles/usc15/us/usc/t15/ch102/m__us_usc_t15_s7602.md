@@ -17,7 +17,7 @@
 
     A prescriber may require payment of fees for an eye examination, fitting, and evaluation before the release of a contact lens prescription, but only if the prescriber requires immediate payment in the case of an examination that reveals no requirement for ophthalmic goods. For purposes of the preceding sentence, presentation of proof of insurance coverage for that service shall be deemed to be a payment.
 
-([Pub. L. 108–164, § 3][/us/pl/108/164/s3], Dec. 6, 2003, [117 Stat. 2024][/us/stat/117/2024].)
+([Pub. L. 108–164][/us/pl/108/164], § 3, Dec. 6, 2003, [117 Stat. 2024][/us/stat/117/2024].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/108/164/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F164%2Fs3
+[/us/pl/108/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F164
 [/us/stat/117/2024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2024
 
 

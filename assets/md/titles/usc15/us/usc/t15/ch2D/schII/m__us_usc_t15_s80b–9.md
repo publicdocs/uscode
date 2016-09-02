@@ -81,13 +81,13 @@
 
         For purposes of any action brought by the Commission under subsection (e), any person that knowingly or recklessly has aided, abetted, counseled, commanded, induced, or procured a violation of any provision of this subchapter, or of any rule, regulation, or order hereunder, shall be deemed to be in violation of such provision, rule, regulation, or order to the same extent as the person that committed such violation.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 209, [54 Stat. 853][/us/stat/54/853]; [Pub. L. 86–750, § 12][/us/pl/86/750/s12], Sept. 13, 1960, [74 Stat. 887][/us/stat/74/887]; [Pub. L. 91–452, title II, § 216][/us/pl/91/452/s216], Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929]; [Pub. L. 100–181, title VII, § 704][/us/pl/100/181/s704], Dec. 4, 1987, [101 Stat. 1264][/us/stat/101/1264]; [Pub. L. 101–429, title IV, § 402][/us/pl/101/429/s402], Oct. 15, 1990, [104 Stat. 949][/us/stat/104/949]; [Pub. L. 107–204, title III, § 308(d)(5)][/us/pl/107/204/s308/d/5], July 30, 2002, [116 Stat. 785][/us/stat/116/785]; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 923(a)(3), 929N, July 21, 2010, [124 Stat. 1849][/us/stat/124/1849], 1862.)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 209, [54 Stat. 853][/us/stat/54/853]; [Pub. L. 86–750][/us/pl/86/750], § 12, Sept. 13, 1960, [74 Stat. 887][/us/stat/74/887]; [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 216, Oct. 15, 1970, [84 Stat. 929][/us/stat/84/929]; [Pub. L. 100–181, title VII][/us/pl/100/181/tVII], § 704, Dec. 4, 1987, [101 Stat. 1264][/us/stat/101/1264]; [Pub. L. 101–429, title IV][/us/pl/101/429/tIV], § 402, Oct. 15, 1990, [104 Stat. 949][/us/stat/104/949]; [Pub. L. 107–204, title III][/us/pl/107/204/tIII], § 308(d)(5), July 30, 2002, [116 Stat. 785][/us/stat/116/785]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], §§ 923(a)(3), 929N, July 21, 2010, [124 Stat. 1849][/us/stat/124/1849], 1862.)
 
  __Amendments__ 
 
-    2010—Subsec. (e)(3)(A). [Pub. L. 111–203, § 923(a)(3)][/us/pl/111/203/s923/a/3], inserted “and [section 78u–6 of this title][/us/usc/t15/s78u–6]” after “[section 7246 of this title][/us/usc/t15/s7246]”.
+    2010—Subsec. (e)(3)(A). [Pub. L. 111–203][/us/pl/111/203], § 923(a)(3), inserted “and [section 78u–6 of this title][/us/usc/t15/s78u–6]” after “[section 7246 of this title][/us/usc/t15/s7246]”.
 
-    Subsec. (f). [Pub. L. 111–203, § 929N][/us/pl/111/203/s929N], added subsec. (f).
+    Subsec. (f). [Pub. L. 111–203][/us/pl/111/203], § 929N, added subsec. (f).
 
     2002—Subsec. (e)(3)(A). [Pub. L. 107–204][/us/pl/107/204] inserted “, except as otherwise provided in [section 7246 of this title][/us/usc/t15/s7246]” before period at end.
 
@@ -133,22 +133,22 @@
 [/us/usc/t15/s80b–3/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%933%2Fk
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F853
-[/us/pl/86/750/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750%2Fs12
+[/us/pl/86/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750
 [/us/stat/74/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F887
-[/us/pl/91/452/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs216
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F929
-[/us/pl/100/181/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs704
+[/us/pl/100/181/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtVII
 [/us/stat/101/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1264
-[/us/pl/101/429/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2Fs402
+[/us/pl/101/429/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2FtIV
 [/us/stat/104/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F949
-[/us/pl/107/204/s308/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs308%2Fd%2F5
+[/us/pl/107/204/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtIII
 [/us/stat/116/785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F785
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1849
-[/us/pl/111/203/s923/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs923%2Fa%2F3
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78u–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78u%E2%80%936
 [/us/usc/t15/s7246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7246
-[/us/pl/111/203/s929N]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929N
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/usc/t15/s7246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7246
 [/us/pl/101/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429

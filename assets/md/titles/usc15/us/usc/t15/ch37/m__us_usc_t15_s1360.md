@@ -37,7 +37,7 @@
 
         (2) No funds appropriated pursuant to the provisions of this section shall be paid to any designated agency, participating institution, or person on account of any such agency or institution, to carry out any technical services activity or program in any State if such activity or program duplicates any activity or program readily available in such State from Federal or State agencies, including publicly supported institutions of higher learning in such State.
 
-([Pub. L. 89–182, § 10][/us/pl/89/182/s10], Sept. 14, 1965, [79 Stat. 682][/us/stat/79/682]; [Pub. L. 90–422][/us/pl/90/422], July 24, 1968, [82 Stat. 423][/us/stat/82/423].)
+([Pub. L. 89–182][/us/pl/89/182], § 10, Sept. 14, 1965, [79 Stat. 682][/us/stat/79/682]; [Pub. L. 90–422][/us/pl/90/422], July 24, 1968, [82 Stat. 423][/us/stat/82/423].)
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t15/s1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1357
-[/us/pl/89/182/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182%2Fs10
+[/us/pl/89/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182
 [/us/stat/79/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F682
 [/us/pl/90/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F422
 [/us/stat/82/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F423

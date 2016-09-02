@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch6/schVIII/m__us_usc_t15_ch6_schVIII.md) | [Next](./../../../../..//us/usc/t15/ch6/schIX/m__us_usc_t15_s260.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch6%2FschIX)
+[Previous](./../../../../..//us/usc/t15/ch6/schVIII/m__us_usc_t15_s257...257i.md) | [Next](./../../../../..//us/usc/t15/ch6/schIX/m__us_usc_t15_s260.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch6%2FschIX)
 
 ### SUBCHAPTER IX—STANDARD TIME
 
 ----------
 
-[Previous](./../../../../..//us/usc/t15/ch6/schVIII/m__us_usc_t15_ch6_schVIII.md) | [Next](./../../../../..//us/usc/t15/ch6/schIX/m__us_usc_t15_s260.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch6%2FschIX)
+[Previous](./../../../../..//us/usc/t15/ch6/schVIII/m__us_usc_t15_s257...257i.md) | [Next](./../../../../..//us/usc/t15/ch6/schIX/m__us_usc_t15_s260.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fch6%2FschIX)
 
 ----------
 ----------

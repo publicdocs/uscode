@@ -37,23 +37,23 @@
 
         The provisions of subsection (c) of [section 1632 of this title][/us/usc/t15/s1632] and subsections (c), (d), (e), and (f) of [section 1637 of this title][/us/usc/t15/s1637] shall supersede any provision of the law of any State relating to the disclosure of information in any credit or charge card application or solicitation which is subject to the requirements of [section 1637(c) of this title][/us/usc/t15/s1637/c] or any renewal notice which is subject to the requirements of [section 1637(d) of this title][/us/usc/t15/s1637/d], except that any State may employ or establish State laws for the purpose of enforcing the requirements of such sections.
 
-([Pub. L. 90–321, title I, § 111][/us/pl/90/321/s111], May 29, 1968, [82 Stat. 151][/us/stat/82/151]; [Pub. L. 93–495, title III, § 307(b)][/us/pl/93/495/s307/b], Oct. 28, 1974, [88 Stat. 1516][/us/stat/88/1516]; [Pub. L. 96–221, title VI, § 609][/us/pl/96/221/s609], Mar. 31, 1980, [94 Stat. 173][/us/stat/94/173]; [Pub. L. 100–583, § 4][/us/pl/100/583/s4], Nov. 3, 1988, [102 Stat. 2967][/us/stat/102/2967]; [Pub. L. 103–325, title I, § 152(e)(2)(B)][/us/pl/103/325/s152/e/2/B], (C), Sept. 23, 1994, [108 Stat. 2194][/us/stat/108/2194]; [Pub. L. 111–203, title X, § 1100A(2)][/us/pl/111/203/s1100A/2], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 111, May 29, 1968, [82 Stat. 151][/us/stat/82/151]; [Pub. L. 93–495, title III][/us/pl/93/495/tIII], § 307(b), Oct. 28, 1974, [88 Stat. 1516][/us/stat/88/1516]; [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 609, Mar. 31, 1980, [94 Stat. 173][/us/stat/94/173]; [Pub. L. 100–583][/us/pl/100/583], § 4, Nov. 3, 1988, [102 Stat. 2967][/us/stat/102/2967]; [Pub. L. 103–325, title I][/us/pl/103/325/tI], § 152(e)(2)(B), (C), Sept. 23, 1994, [108 Stat. 2194][/us/stat/108/2194]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(2), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].)
 
  __References in Text__ 
 
-    [Section 1602(aa) of this title][/us/usc/t15/s1602/aa], referred to in subsec. (b), was redesignated [section 1602(bb) of this title][/us/usc/t15/s1602/bb] by [Pub. L. 111–203, title X, § 1100A(1)(A)][/us/pl/111/203/s1100A/1/A], July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
+    [Section 1602(aa) of this title][/us/usc/t15/s1602/aa], referred to in subsec. (b), was redesignated [section 1602(bb) of this title][/us/usc/t15/s1602/bb] by [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100A(1)(A), July 21, 2010, [124 Stat. 2107][/us/stat/124/2107].
 
  __Amendments__ 
 
     2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203] substituted “Bureau” for “Board” wherever appearing.
 
-    1994—Subsec. (a)(2). [Pub. L. 103–325, § 152(e)(2)(B)][/us/pl/103/325/s152/e/2/B], which directed the amendment of par. (2) by inserting “, and such State-required disclosure may not be made in lieu of the disclosures applicable to certain mortgages under [section 1639 of this title][/us/usc/t15/s1639]” before period, was executed by making the insertion before period at end of par. (2), to reflect the probable intent of Congress.
+    1994—Subsec. (a)(2). [Pub. L. 103–325][/us/pl/103/325], § 152(e)(2)(B), which directed the amendment of par. (2) by inserting “, and such State-required disclosure may not be made in lieu of the disclosures applicable to certain mortgages under [section 1639 of this title][/us/usc/t15/s1639]” before period, was executed by making the insertion before period at end of par. (2), to reflect the probable intent of Congress.
 
-    Subsec. (b). [Pub. L. 103–325, § 152(e)(2)(C)][/us/pl/103/325/s152/e/2/C], substituted “Except as provided in [section 1639 of this title][/us/usc/t15/s1639], this subchapter” for “This subchapter” and inserted at end “The provisions of [section 1639 of this title][/us/usc/t15/s1639] do not annul, alter, or affect the applicability of the laws of any State or exempt any person subject to the provisions of [section 1639 of this title][/us/usc/t15/s1639] from complying with the laws of any State, with respect to the requirements for mortgages referred to in [section 1602(aa) of this title][/us/usc/t15/s1602/aa], except to the extent that those State laws are inconsistent with any provisions of [section 1639 of this title][/us/usc/t15/s1639], and then only to the extent of the inconsistency.”
+    Subsec. (b). [Pub. L. 103–325][/us/pl/103/325], § 152(e)(2)(C), substituted “Except as provided in [section 1639 of this title][/us/usc/t15/s1639], this subchapter” for “This subchapter” and inserted at end “The provisions of [section 1639 of this title][/us/usc/t15/s1639] do not annul, alter, or affect the applicability of the laws of any State or exempt any person subject to the provisions of [section 1639 of this title][/us/usc/t15/s1639] from complying with the laws of any State, with respect to the requirements for mortgages referred to in [section 1602(aa) of this title][/us/usc/t15/s1602/aa], except to the extent that those State laws are inconsistent with any provisions of [section 1639 of this title][/us/usc/t15/s1639], and then only to the extent of the inconsistency.”
 
-    1988—Subsec. (a)(1). [Pub. L. 100–583, § 4(1)][/us/pl/100/583/s4/1], substituted “Except as provided in subsection (e), this part” for “This part”.
+    1988—Subsec. (a)(1). [Pub. L. 100–583][/us/pl/100/583], § 4(1), substituted “Except as provided in subsection (e), this part” for “This part”.
 
-    Subsec. (e). [Pub. L. 100–583, § 4(2)][/us/pl/100/583/s4/2], added subsec. (e).
+    Subsec. (e). [Pub. L. 100–583][/us/pl/100/583], § 4(2), added subsec. (e).
 
     1980—Subsec. (a). [Pub. L. 96–221][/us/pl/96/221] designated existing provisions as par. (1), substituted provisions respecting the effect of this part and parts B and C of this subchapter, and procedures applicable for determination, for provisions respecting the effect of this subchapter, and added par. (2).
 
@@ -88,33 +88,33 @@
 [/us/usc/t15/s1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637
 [/us/usc/t15/s1637/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637%2Fc
 [/us/usc/t15/s1637/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1637%2Fd
-[/us/pl/90/321/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs111
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
 [/us/stat/82/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F151
-[/us/pl/93/495/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs307%2Fb
+[/us/pl/93/495/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtIII
 [/us/stat/88/1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1516
-[/us/pl/96/221/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs609
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F173
-[/us/pl/100/583/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F583%2Fs4
+[/us/pl/100/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F583
 [/us/stat/102/2967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2967
-[/us/pl/103/325/s152/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs152%2Fe%2F2%2FB
+[/us/pl/103/325/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2FtI
 [/us/stat/108/2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2194
-[/us/pl/111/203/s1100A/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F2
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/usc/t15/s1602/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Faa
 [/us/usc/t15/s1602/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Fbb
-[/us/pl/111/203/s1100A/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100A%2F1%2FA
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2107
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/103/325/s152/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs152%2Fe%2F2%2FB
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/usc/t15/s1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639
-[/us/pl/103/325/s152/e/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs152%2Fe%2F2%2FC
+[/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325
 [/us/usc/t15/s1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639
 [/us/usc/t15/s1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639
 [/us/usc/t15/s1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639
 [/us/usc/t15/s1602/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1602%2Faa
 [/us/usc/t15/s1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1639
-[/us/pl/100/583/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F583%2Fs4%2F1
-[/us/pl/100/583/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F583%2Fs4%2F2
+[/us/pl/100/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F583
+[/us/pl/100/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F583
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/93/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495
 [/us/usc/t15/s1666e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1666e

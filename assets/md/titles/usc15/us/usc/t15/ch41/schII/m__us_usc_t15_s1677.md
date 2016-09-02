@@ -21,7 +21,7 @@
 
     (2) prohibiting the discharge of any employee by reason of the fact that his earnings have been subjected to garnishment for more than one indebtedness.
 
-([Pub. L. 90–321, title III, § 307][/us/pl/90/321/s307], May 29, 1968, [82 Stat. 164][/us/stat/82/164].)
+([Pub. L. 90–321, title III][/us/pl/90/321/tIII], § 307, May 29, 1968, [82 Stat. 164][/us/stat/82/164].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/90/321/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs307
+[/us/pl/90/321/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIII
 [/us/stat/82/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F164
 
 

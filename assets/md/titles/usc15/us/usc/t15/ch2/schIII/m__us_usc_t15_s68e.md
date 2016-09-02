@@ -31,7 +31,7 @@
 
         the Commission may bring suit in the district court of the United States or in the United States court of any Territory, for the district or Territory in which such person resides or transacts business, to enjoin such violation, and upon proper showing a temporary injunction or restraining order shall be granted without bond.
 
-([Oct. 14, 1940, ch. 871, § 7][/us/act/1940-10-14/ch871/s7], [54 Stat. 1131][/us/stat/54/1131].)
+([Oct. 14, 1940, ch. 871][/us/act/1940-10-14/ch871], § 7, [54 Stat. 1131][/us/stat/54/1131].)
 
  __Transfer of Functions__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/act/1940-10-14/ch871/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch871%2Fs7
+[/us/act/1940-10-14/ch871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch871
 [/us/stat/54/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1131
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41

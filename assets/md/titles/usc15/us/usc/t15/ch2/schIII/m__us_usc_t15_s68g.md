@@ -25,7 +25,7 @@
 
         Any person who furnishes a false guaranty, except a person relying upon a guaranty to the same effect received in good faith signed by and containing the name and address of the person residing in the United States by whom the wool product guaranteed was manufactured and/or from whom it was received, with reason to believe the wool product falsely guaranteed may be introduced, sold, transported, or distributed in commerce, is guilty of an unfair method of competition, and an unfair and deceptive act or practice, in commerce within the meaning of the Federal Trade Commission Act.
 
-([Oct. 14, 1940, ch. 871, § 9][/us/act/1940-10-14/ch871/s9], [54 Stat. 1132][/us/stat/54/1132].)
+([Oct. 14, 1940, ch. 871][/us/act/1940-10-14/ch871], § 9, [54 Stat. 1132][/us/stat/54/1132].)
 
  __Transfer of Functions__ 
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t15/s68a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs68a
-[/us/act/1940-10-14/ch871/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch871%2Fs9
+[/us/act/1940-10-14/ch871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch871
 [/us/stat/54/1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1132
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41

@@ -23,11 +23,11 @@
 
         Assistance under this section shall be in addition to any other Federal disaster assistance, except that such other assistance may be adjusted or modified to the extent deemed appropriate by the Director under the authority of section 4418  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 42. Any loan made under this section shall be subject to the interest requirements of [section 636b of this title][/us/usc/t15/s636b], but the President, if he deems it necessary, may defer payments of principal and interest for a period not to exceed three years after the date of the loan. Any such deferred payments shall bear interest at the rate determined under [section 636b of this title][/us/usc/t15/s636b].
 
-([Pub. L. 91–606, title II, § 237][/us/pl/91/606/s237], Dec. 31, 1970, [84 Stat. 1754][/us/stat/84/1754].)
+([Pub. L. 91–606, title II][/us/pl/91/606/tII], § 237, Dec. 31, 1970, [84 Stat. 1754][/us/stat/84/1754].)
 
  __References in Text__ 
 
-    [Section 4418 of title 42][/us/usc/t42/s4418], referred to in subsec. (b), was repealed by [Pub. L. 93–288, title VI, § 603][/us/pl/93/288/s603], May 22, 1974, [88 Stat. 164][/us/stat/88/164]. Provisions similar to former [section 4418 of Title 42][/us/usc/t42/s4418], The Public Health and Welfare, are contained in [section 5155 of Title 42][/us/usc/t42/s5155].
+    [Section 4418 of title 42][/us/usc/t42/s4418], referred to in subsec. (b), was repealed by [Pub. L. 93–288, title VI][/us/pl/93/288/tVI], § 603, May 22, 1974, [88 Stat. 164][/us/stat/88/164]. Provisions similar to former [section 4418 of Title 42][/us/usc/t42/s4418], The Public Health and Welfare, are contained in [section 5155 of Title 42][/us/usc/t42/s5155].
 
  __Codification__ 
 
@@ -46,10 +46,10 @@
 
 [/us/usc/t15/s636b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636b
 [/us/usc/t15/s636b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636b
-[/us/pl/91/606/s237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2Fs237
+[/us/pl/91/606/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F606%2FtII
 [/us/stat/84/1754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1754
 [/us/usc/t42/s4418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4418
-[/us/pl/93/288/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2Fs603
+[/us/pl/93/288/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F288%2FtVI
 [/us/stat/88/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F164
 [/us/usc/t42/s4418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4418
 [/us/usc/t42/s5155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5155

@@ -25,7 +25,7 @@
 
     (4) The term “United States” includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or insular possession of the United States.
 
-([Pub. L. 92–205, § 1][/us/pl/92/205/s1], Dec. 18, 1971, [85 Stat. 735][/us/stat/85/735].)
+([Pub. L. 92–205][/us/pl/92/205], § 1, Dec. 18, 1971, [85 Stat. 735][/us/stat/85/735].)
 
  __Short Title__ 
 
@@ -140,7 +140,7 @@
 ----------
 ----------
 
-[/us/pl/92/205/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F205%2Fs1
+[/us/pl/92/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F205
 [/us/stat/85/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F735
 [/us/pl/92/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F205
 [/us/pl/94/490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F490

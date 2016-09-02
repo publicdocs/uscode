@@ -71,7 +71,7 @@
 
         (2) reforms any clause in the lease which contained an automatic rent increase clause, unless such agreement was entered into when the leaseholder or his affiliate held a majority of the votes in the owners’ association.
 
-([Pub. L. 96–399, title VI, § 609][/us/pl/96/399/s609], Oct. 8, 1980, [94 Stat. 1677][/us/stat/94/1677].)
+([Pub. L. 96–399, title VI][/us/pl/96/399/tVI], § 609, Oct. 8, 1980, [94 Stat. 1677][/us/stat/94/1677].)
 
  __Effective Date__ 
 
@@ -84,7 +84,7 @@
 ----------
 ----------
 
-[/us/pl/96/399/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs609
+[/us/pl/96/399/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2FtVI
 [/us/stat/94/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1677
 [/us/pl/96/399/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F399%2Fs618
 [/us/usc/t15/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3601

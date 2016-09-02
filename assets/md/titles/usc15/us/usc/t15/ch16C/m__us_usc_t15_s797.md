@@ -31,7 +31,7 @@
 
         (5) Any person suffering legal wrong because of any act or practice arising out of any violation of subsection (a) may bring a civil action for appropriate relief, including an action for a declaratory judgment or writ of injunction. United States district courts shall have jurisdiction of actions under this paragraph without regard to the amount in controversy. Nothing in this paragraph shall authorize any person to recover damages.
 
-([Pub. L. 93–319, § 12][/us/pl/93/319/s12], June 22, 1974, [88 Stat. 264][/us/stat/88/264].)
+([Pub. L. 93–319][/us/pl/93/319], § 12, June 22, 1974, [88 Stat. 264][/us/stat/88/264].)
 
  __Transfer of Functions__ 
 
@@ -50,7 +50,7 @@
 [/us/usc/t15/s792/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs792%2Fd
 [/us/usc/t15/s792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs792
 [/us/usc/t15/s796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs796
-[/us/pl/93/319/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319%2Fs12
+[/us/pl/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F319
 [/us/stat/88/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F264
 
 

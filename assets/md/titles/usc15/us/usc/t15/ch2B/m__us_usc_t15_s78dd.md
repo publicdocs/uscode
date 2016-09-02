@@ -27,7 +27,7 @@
 
         No provision of this chapter that was added by the Wall Street Transparency and Accountability Act of 2010, or any rule or regulation thereunder, shall apply to any person insofar as such person transacts a business in security-based swaps without the jurisdiction of the United States, unless such person transacts such business in contravention of such rules and regulations as the Commission may prescribe as necessary or appropriate to prevent the evasion of any provision of this chapter that was added by the Wall Street Transparency and Accountability Act of 2010. This subsection shall not be construed to limit the jurisdiction of the Commission under any provision of this chapter, as in effect prior to July 21, 2010.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 30, [48 Stat. 904][/us/stat/48/904]; [Pub. L. 111–203, title VII, § 772(b)][/us/pl/111/203/s772/b], July 21, 2010, [124 Stat. 1802][/us/stat/124/1802].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 30, [48 Stat. 904][/us/stat/48/904]; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], § 772(b), July 21, 2010, [124 Stat. 1802][/us/stat/124/1802].)
 
  __Amendment of Section__ 
 
@@ -60,7 +60,7 @@
 
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F904
-[/us/pl/111/203/s772/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs772%2Fb
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1802
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a

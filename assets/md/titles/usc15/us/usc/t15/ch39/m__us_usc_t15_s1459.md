@@ -49,7 +49,7 @@
 
     (f) The term “principal display panel” means that part of a label that is most likely to be displayed, presented, shown, or examined under normal and customary conditions of display for retail sale.
 
-([Pub. L. 89–755, § 10][/us/pl/89/755/s10], Nov. 3, 1966, [80 Stat. 1301][/us/stat/80/1301]; [Pub. L. 90–628, § 2][/us/pl/90/628/s2], Oct. 22, 1968, [82 Stat. 1320][/us/stat/82/1320].)
+([Pub. L. 89–755][/us/pl/89/755], § 10, Nov. 3, 1966, [80 Stat. 1301][/us/stat/80/1301]; [Pub. L. 90–628][/us/pl/90/628], § 2, Oct. 22, 1968, [82 Stat. 1320][/us/stat/82/1320].)
 
  __References in Text__ 
 
@@ -88,9 +88,9 @@
 [/us/usc/t15/s231–233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs231%E2%80%93233
 [/us/stat/38/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F1186
 [/us/usc/t15/s234–236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs234%E2%80%93236
-[/us/pl/89/755/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F755%2Fs10
+[/us/pl/89/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F755
 [/us/stat/80/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1301
-[/us/pl/90/628/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F628%2Fs2
+[/us/pl/90/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F628
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040

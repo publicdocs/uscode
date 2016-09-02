@@ -23,7 +23,7 @@
 
     (c) To effect, within the limits of his authority as now or hereafter defined by law, and with the consent of competent authority, the removal of restrictions on the dissemination of scientific and technical data in cases where consideration of national security permit the release of such data for the benefit of industry and business.
 
-([Sept. 9, 1950, ch. 936, § 2][/us/act/1950-09-09/ch936/s2], [64 Stat. 823][/us/stat/64/823].)
+([Sept. 9, 1950, ch. 936][/us/act/1950-09-09/ch936], § 2, [64 Stat. 823][/us/stat/64/823].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1950-09-09/ch936/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-09%2Fch936%2Fs2
+[/us/act/1950-09-09/ch936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-09%2Fch936
 [/us/stat/64/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F823
 
 

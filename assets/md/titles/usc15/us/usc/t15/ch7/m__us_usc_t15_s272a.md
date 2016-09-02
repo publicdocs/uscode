@@ -25,7 +25,7 @@
 
     (4) work with other Federal agencies to provide technical and related assistance to the States and businesses within the States.
 
-([Pub. L. 100–519, title I, § 109][/us/pl/100/519/s109], Oct. 24, 1988, [102 Stat. 2591][/us/stat/102/2591].)
+([Pub. L. 100–519, title I][/us/pl/100/519/tI], § 109, Oct. 24, 1988, [102 Stat. 2591][/us/stat/102/2591].)
 
  __Codification__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/100/519/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs109
+[/us/pl/100/519/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2FtI
 [/us/stat/102/2591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2591
 
 

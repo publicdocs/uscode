@@ -17,7 +17,7 @@
 
     The Institute is authorized to exercise its functions for the Government of the United States and for international organizations of which the United States is a member; for governments of friendly countries; for any State or municipal government within the United States; or for any scientific society, educational institution, firm, corporation, or individual within the United States or friendly countries engaged in manufacturing or other pursuits requiring the use of standards or standard measuring instruments: Provided, That the exercise of these functions for international organizations, governments of friendly countries and scientific societies, educational institutions, firms, corporations, or individuals therein shall be in coordination with other agencies of the United States Government, in particular the Department of State in respect to foreign entities. All requests for the services of the Institute shall be made in accordance with the rules and regulations herein established.
 
-([Mar. 3, 1901, ch. 872, § 3][/us/act/1901-03-03/ch872/s3], [31 Stat. 1449][/us/stat/31/1449]; [Pub. L. 92–317, § 3(c)][/us/pl/92/317/s3/c], June 22, 1972, [86 Stat. 235][/us/stat/86/235]; [Pub. L. 100–418, title V, § 5115(a)(1)][/us/pl/100/418/s5115/a/1], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433].)
+([Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 3, [31 Stat. 1449][/us/stat/31/1449]; [Pub. L. 92–317][/us/pl/92/317], § 3(c), June 22, 1972, [86 Stat. 235][/us/stat/86/235]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(a)(1), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433].)
 
  __References in Text__ 
 
@@ -36,11 +36,11 @@
 ----------
 ----------
 
-[/us/act/1901-03-03/ch872/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs3
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
 [/us/stat/31/1449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F31%2F1449
-[/us/pl/92/317/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F317%2Fs3%2Fc
+[/us/pl/92/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F317
 [/us/stat/86/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F235
-[/us/pl/100/418/s5115/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fa%2F1
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
 [/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418

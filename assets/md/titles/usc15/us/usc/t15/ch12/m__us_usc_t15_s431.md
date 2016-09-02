@@ -27,7 +27,7 @@
 
     (f) The act, omission, or failure of any official, agent, or other person acting for any individual, association, partnership, corporation, or trust, within the scope of his employment or office, shall be deemed the act, omission, or failure of such individual, association, partnership, corporation, or trust, as well as of such official, agent, or other person.
 
-([Mar. 4, 1927, ch. 508, § 1][/us/act/1927-03-04/ch508/s1], [44 Stat. 1423][/us/stat/44/1423]; [June 15, 1936, ch. 545, § 1][/us/act/1936-06-15/ch545/s1], [49 Stat. 1491][/us/stat/49/1491].)
+([Mar. 4, 1927, ch. 508][/us/act/1927-03-04/ch508], § 1, [44 Stat. 1423][/us/stat/44/1423]; [June 15, 1936, ch. 545][/us/act/1936-06-15/ch545], § 1, [49 Stat. 1491][/us/stat/49/1491].)
 
  __References in Text__ 
 
@@ -45,9 +45,9 @@
 ----------
 
 [/us/usc/t7/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1
-[/us/act/1927-03-04/ch508/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch508%2Fs1
+[/us/act/1927-03-04/ch508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-03-04%2Fch508
 [/us/stat/44/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1423
-[/us/act/1936-06-15/ch545/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545%2Fs1
+[/us/act/1936-06-15/ch545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-15%2Fch545
 [/us/stat/49/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1491
 [/us/act/1922-09-21/ch369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-21%2Fch369
 [/us/stat/42/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F998

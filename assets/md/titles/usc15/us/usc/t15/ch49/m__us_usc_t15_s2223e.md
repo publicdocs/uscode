@@ -17,7 +17,7 @@
 
     As used in sections 2223a to 2223e of this title, the term “emergency response personnel” means personnel responsible for mitigation activities in a medical emergency, fire emergency, hazardous material emergency, or natural disaster.
 
-([Pub. L. 101–446, § 6][/us/pl/101/446/s6], Oct. 22, 1990, [104 Stat. 1046][/us/stat/104/1046].)
+([Pub. L. 101–446][/us/pl/101/446], § 6, Oct. 22, 1990, [104 Stat. 1046][/us/stat/104/1046].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/446/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F446%2Fs6
+[/us/pl/101/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F446
 [/us/stat/104/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1046
 
 

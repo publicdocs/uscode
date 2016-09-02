@@ -23,7 +23,7 @@
 
     the Commission may, in accordance with [section 2058 of this title][/us/usc/t15/s2058], promulgate a rule declaring such product a banned hazardous product.
 
-([Pub. L. 92–573, § 8][/us/pl/92/573/s8], Oct. 27, 1972, [86 Stat. 1215][/us/stat/86/1215]; [Pub. L. 97–35, title XII, § 1203(c)][/us/pl/97/35/s1203/c], Aug. 13, 1981, [95 Stat. 713][/us/stat/95/713].)
+([Pub. L. 92–573][/us/pl/92/573], § 8, Oct. 27, 1972, [86 Stat. 1215][/us/stat/86/1215]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1203(c), Aug. 13, 1981, [95 Stat. 713][/us/stat/95/713].)
 
  __Amendments__ 
 
@@ -41,9 +41,9 @@
 ----------
 
 [/us/usc/t15/s2058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2058
-[/us/pl/92/573/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs8
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1215
-[/us/pl/97/35/s1203/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1203%2Fc
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F713
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35

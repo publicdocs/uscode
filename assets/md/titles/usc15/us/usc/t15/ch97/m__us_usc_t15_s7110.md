@@ -23,7 +23,7 @@
 
         No amount made available under this section for any fiscal year may be obligated or expended by the Council before the date on which the Council reviews and approves the operating budget of the Council to carry out the responsibilities of the Council for that fiscal year.
 
-([Pub. L. 100–533, title IV, § 410][/us/pl/100/533/s410], formerly § 409, as added [Pub. L. 103–403, title IV, § 413][/us/pl/103/403/s413], Oct. 22, 1994, [108 Stat. 4197][/us/stat/108/4197]; renumbered § 411 and amended [Pub. L. 105–135, title III, § 305][/us/pl/105/135/s305], Dec. 2, 1997, [111 Stat. 2610][/us/stat/111/2610]; renumbered § 410 and amended [Pub. L. 106–554, § 1(a)(9)][/us/pl/106/554/s1/a/9] \[title VII, § 705\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–702.)
+([Pub. L. 100–533, title IV][/us/pl/100/533/tIV], § 410, formerly § 409, as added [Pub. L. 103–403, title IV][/us/pl/103/403/tIV], § 413, Oct. 22, 1994, [108 Stat. 4197][/us/stat/108/4197]; renumbered § 411 and amended [Pub. L. 105–135, title III][/us/pl/105/135/tIII], § 305, Dec. 2, 1997, [111 Stat. 2610][/us/stat/111/2610]; renumbered § 410 and amended [Pub. L. 106–554][/us/pl/106/554], § 1(a)(9) \[title VII, § 705\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–702.)
 
  __Prior Provisions__ 
 
@@ -47,12 +47,12 @@
 ----------
 
 [/us/usc/t15/s7109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7109
-[/us/pl/100/533/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs410
-[/us/pl/103/403/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs413
+[/us/pl/100/533/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2FtIV
+[/us/pl/103/403/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtIV
 [/us/stat/108/4197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4197
-[/us/pl/105/135/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs305
+[/us/pl/105/135/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtIII
 [/us/stat/111/2610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2610
-[/us/pl/106/554/s1/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F9
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/100/533/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs410
 [/us/usc/t15/s7109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7109

@@ -73,7 +73,7 @@
 
         Any package that contains several different types of goods and includes socks classified under subheading 6115.92.90, 6115.93.90, 6115.99.18, 6111.20.60, 6111.30.50, or 6111.90.50 of the Harmonized Tariff Schedule of the United States, as in effect on September 1, 2003, shall not be subject to the requirements of paragraph (1).
 
-([Pub. L. 85–897, § 4][/us/pl/85/897/s4], Sept. 2, 1958, [72 Stat. 1719][/us/stat/72/1719]; [Pub. L. 89–35][/us/pl/89/35], §§ 1, 2, June 5, 1965, [79 Stat. 124][/us/stat/79/124]; [Pub. L. 98–417, title III][/us/pl/98/417], §§ 301–303, Sept. 24, 1984, [98 Stat. 1603][/us/stat/98/1603], 1604; [Pub. L. 108–429, title II, § 2004(h)(1)][/us/pl/108/429/s2004/h/1], Dec. 3, 2004, [118 Stat. 2594][/us/stat/118/2594].)
+([Pub. L. 85–897][/us/pl/85/897], § 4, Sept. 2, 1958, [72 Stat. 1719][/us/stat/72/1719]; [Pub. L. 89–35][/us/pl/89/35], §§ 1, 2, June 5, 1965, [79 Stat. 124][/us/stat/79/124]; [Pub. L. 98–417, title III][/us/pl/98/417/tIII], §§ 301–303, Sept. 24, 1984, [98 Stat. 1603][/us/stat/98/1603], 1604; [Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2004(h)(1), Dec. 3, 2004, [118 Stat. 2594][/us/stat/118/2594].)
 
  __References in Text__ 
 
@@ -85,19 +85,19 @@
 
     2004—Subsec. (k). [Pub. L. 108–429][/us/pl/108/429] added subsec. (k).
 
-    1984—Subsec. (b)(5). [Pub. L. 98–417, § 301][/us/pl/98/417/s301], added par. (5).
+    1984—Subsec. (b)(5). [Pub. L. 98–417][/us/pl/98/417], § 301, added par. (5).
 
-    Subsec. (e). [Pub. L. 98–417, § 302][/us/pl/98/417/s302], amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “This section shall not be construed as requiring the affixing of a stamp, tag, label, or other means of identification to each textile fiber product contained in a package if (1) such textile fiber products are intended for sale to the ultimate consumer in such package, (2) such package has affixed to it a stamp, tag, label, or other means of identification bearing, with respect to the textile fiber products contained therein, the information required by subsection (b) of this section, and (3) the information on the stamp, tag, label, or other means of identification affixed to such package is equally applicable with respect to each textile fiber product contained therein.”
+    Subsec. (e). [Pub. L. 98–417][/us/pl/98/417], § 302, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “This section shall not be construed as requiring the affixing of a stamp, tag, label, or other means of identification to each textile fiber product contained in a package if (1) such textile fiber products are intended for sale to the ultimate consumer in such package, (2) such package has affixed to it a stamp, tag, label, or other means of identification bearing, with respect to the textile fiber products contained therein, the information required by subsection (b) of this section, and (3) the information on the stamp, tag, label, or other means of identification affixed to such package is equally applicable with respect to each textile fiber product contained therein.”
 
-    Subsecs. (i), (j). [Pub. L. 98–417, § 303][/us/pl/98/417/s303], added subsecs. (i) and (j).
+    Subsecs. (i), (j). [Pub. L. 98–417][/us/pl/98/417], § 303, added subsecs. (i) and (j).
 
-    1965—Subsec. (b)(1). [Pub. L. 89–35, § 1][/us/pl/89/35/s1], inserted “, but nothing in this section shall be construed as prohibiting the disclosure of any fiber present in a textile fiber product which has a clearly established and definite functional significance where present in the amount contained in such product”.
+    1965—Subsec. (b)(1). [Pub. L. 89–35][/us/pl/89/35], § 1, inserted “, but nothing in this section shall be construed as prohibiting the disclosure of any fiber present in a textile fiber product which has a clearly established and definite functional significance where present in the amount contained in such product”.
 
-    Subsec. (b)(2). [Pub. L. 89–35, § 2][/us/pl/89/35/s2], inserted “, but nothing in this section shall be construed as prohibiting the disclosure of any fiber present in a textile fiber product which has a clearly established and definite functional significance where present in the amount stated”.
+    Subsec. (b)(2). [Pub. L. 89–35][/us/pl/89/35], § 2, inserted “, but nothing in this section shall be construed as prohibiting the disclosure of any fiber present in a textile fiber product which has a clearly established and definite functional significance where present in the amount stated”.
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–429, title II, § 2004(h)(2)][/us/pl/108/429/s2004/h/2], Dec. 3, 2004, [118 Stat. 2594][/us/stat/118/2594], provided that: 
+[Pub. L. 108–429, title II][/us/pl/108/429/tII], § 2004(h)(2), Dec. 3, 2004, [118 Stat. 2594][/us/stat/118/2594], provided that: 
 
 > “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date that is 15 months after the date of enactment of this Act \[Dec. 3, 2004\], and on and after the date that is 15 months after such date of enactment, any provision of part 303 of title 16, Code of Federal Regulations, that is inconsistent with such amendment shall not apply.”
 
@@ -115,25 +115,25 @@
 [/us/usc/t15/s70c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs70c
 [/us/usc/t15/s70a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs70a
 [/us/usc/t15/s69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs69
-[/us/pl/85/897/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F897%2Fs4
+[/us/pl/85/897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F897
 [/us/stat/72/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1719
 [/us/pl/89/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F35
 [/us/stat/79/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F124
-[/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
+[/us/pl/98/417/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2FtIII
 [/us/stat/98/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1603
-[/us/pl/108/429/s2004/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fh%2F1
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2594
 [/us/usc/t19/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1202
 [/us/act/1951-08-08/ch298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298
 [/us/stat/65/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F175
 [/us/usc/t15/s69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs69
 [/us/pl/108/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429
-[/us/pl/98/417/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2Fs301
-[/us/pl/98/417/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2Fs302
-[/us/pl/98/417/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2Fs303
-[/us/pl/89/35/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F35%2Fs1
-[/us/pl/89/35/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F35%2Fs2
-[/us/pl/108/429/s2004/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2Fs2004%2Fh%2F2
+[/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
+[/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
+[/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
+[/us/pl/89/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F35
+[/us/pl/89/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F35
+[/us/pl/108/429/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F429%2FtII
 [/us/stat/118/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2594
 [/us/pl/98/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417
 [/us/pl/98/417/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F417%2Fs307

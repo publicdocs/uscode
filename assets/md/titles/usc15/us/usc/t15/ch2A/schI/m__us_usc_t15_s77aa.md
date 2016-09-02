@@ -111,7 +111,7 @@ schedule b
 
     (14) an agreement of the issuer to furnish a copy of the opinion or opinions of counsel in respect to the legality of the issue, with a translation, where necessary, into the English language. Such opinion shall set out in full all laws, decrees, ordinances, or other acts of Government under which the issue of such security has been authorized.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, schedules A, B, [48 Stat. 88][/us/stat/48/88], 91; [Pub. L. 105–353, title III, § 301(a)(6)][/us/pl/105/353/s301/a/6], Nov. 3, 1998, [112 Stat. 3235][/us/stat/112/3235].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, schedules A, B, [48 Stat. 88][/us/stat/48/88], 91; [Pub. L. 105–353, title III][/us/pl/105/353/tIII], § 301(a)(6), Nov. 3, 1998, [112 Stat. 3235][/us/stat/112/3235].)
 
  __Amendments__ 
 
@@ -130,7 +130,7 @@ schedule b
 
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/stat/48/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F88
-[/us/pl/105/353/s301/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fa%2F6
+[/us/pl/105/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtIII
 [/us/stat/112/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3235
 [/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265

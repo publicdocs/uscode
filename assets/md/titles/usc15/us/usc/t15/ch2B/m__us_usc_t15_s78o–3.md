@@ -281,105 +281,105 @@
 
         A national securities association registered pursuant to subsection (a) shall, not later than 8 months after December 21, 2000, implement the procedures specified in [section 78f(h)(5)(A) of this title][/us/usc/t15/s78f/h/5/A] and adopt the rules specified in subparagraphs (B) and (C) of [section 78f(h)(5) of this title][/us/usc/t15/s78f/h/5].
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 15A, as added [June 25, 1938, ch. 677, § 1][/us/act/1938-06-25/ch677/s1], [52 Stat. 1070][/us/stat/52/1070]; amended [Pub. L. 88–467, § 7][/us/pl/88/467/s7], Aug. 20, 1964, [78 Stat. 574][/us/stat/78/574]; [Pub. L. 94–29, § 12][/us/pl/94/29/s12], June 4, 1975, [89 Stat. 127][/us/stat/89/127]; [Pub. L. 99–571, title I, § 102(g)][/us/pl/99/571/s102/g], Oct. 28, 1986, [100 Stat. 3218][/us/stat/100/3218]; [Pub. L. 101–429, title V, § 509][/us/pl/101/429/s509], Oct. 15, 1990, [104 Stat. 957][/us/stat/104/957]; [Pub. L. 103–202, title I, § 106(b)(1)][/us/pl/103/202/s106/b/1], title III, § 303(a), (c), Dec. 17, 1993, [107 Stat. 2350][/us/stat/107/2350], 2364, 2366; [Pub. L. 106–102, title II, § 203][/us/pl/106/102/s203], Nov. 12, 1999, [113 Stat. 1391][/us/stat/113/1391]; [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, §§ 203(c), 206(j), (k)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–422, 2763A–433; [Pub. L. 109–290][/us/pl/109/290], §§ 5, 6, Sept. 29, 2006, [120 Stat. 1319][/us/stat/120/1319], 1320; [Pub. L. 111–203, title IX, § 975(f)][/us/pl/111/203/s975/f], July 21, 2010, [124 Stat. 1923][/us/stat/124/1923].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 15A, as added [June 25, 1938, ch. 677][/us/act/1938-06-25/ch677], § 1, [52 Stat. 1070][/us/stat/52/1070]; amended [Pub. L. 88–467][/us/pl/88/467], § 7, Aug. 20, 1964, [78 Stat. 574][/us/stat/78/574]; [Pub. L. 94–29][/us/pl/94/29], § 12, June 4, 1975, [89 Stat. 127][/us/stat/89/127]; [Pub. L. 99–571, title I][/us/pl/99/571/tI], § 102(g), Oct. 28, 1986, [100 Stat. 3218][/us/stat/100/3218]; [Pub. L. 101–429, title V][/us/pl/101/429/tV], § 509, Oct. 15, 1990, [104 Stat. 957][/us/stat/104/957]; [Pub. L. 103–202, title I][/us/pl/103/202/tI], § 106(b)(1), title III, § 303(a), (c), Dec. 17, 1993, [107 Stat. 2350][/us/stat/107/2350], 2364, 2366; [Pub. L. 106–102, title II][/us/pl/106/102/tII], § 203, Nov. 12, 1999, [113 Stat. 1391][/us/stat/113/1391]; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, §§ 203(c), 206(j), (k)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–422, 2763A–433; [Pub. L. 109–290][/us/pl/109/290], §§ 5, 6, Sept. 29, 2006, [120 Stat. 1319][/us/stat/120/1319], 1320; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 975(f), July 21, 2010, [124 Stat. 1923][/us/stat/124/1923].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (b)(2), (6), (7), (9), (h)(1)(B), (k)(2)(B)(ii), (4), and (l), was in the original “this title”. See References in Text note set out under [section 78a of this title][/us/usc/t15/s78a].
 
-    Paragraph (12), of subsection (b) of this section, referred to in subsec. (d)(2), was omitted in the general amendment of subsec. (b) by [Pub. L. 94–29][/us/pl/94/29], see par. (11) of subsec. (b). A new par. (12) was added by [Pub. L. 103–302, § 303(a)][/us/pl/103/302/s303/a].
+    Paragraph (12), of subsection (b) of this section, referred to in subsec. (d)(2), was omitted in the general amendment of subsec. (b) by [Pub. L. 94–29][/us/pl/94/29], see par. (11) of subsec. (b). A new par. (12) was added by [Pub. L. 103–302][/us/pl/103/302], § 303(a).
 
-    Sections 77d(2) and 77d(6) of this title, referred to in subsec. (j), were redesignated sections 77d(a)(2) and 77d(a)(6), respectively, of this title by [Pub. L. 112–106, title II, § 201(b)(1)][/us/pl/112/106/s201/b/1], (c)(1), Apr. 5, 2012, [126 Stat. 314][/us/stat/126/314].
+    Sections 77d(2) and 77d(6) of this title, referred to in subsec. (j), were redesignated sections 77d(a)(2) and 77d(a)(6), respectively, of this title by [Pub. L. 112–106, title II][/us/pl/112/106/tII], § 201(b)(1), (c)(1), Apr. 5, 2012, [126 Stat. 314][/us/stat/126/314].
 
-    Subsection (k) of [section 78q of this title][/us/usc/t15/s78q], referred to in subsec. (k)(4)(C), was redesignated subsec. (j) by [Pub. L. 111–203, title VI, § 617(a)(2)][/us/pl/111/203/s617/a/2], July 21, 2010, [124 Stat. 1616][/us/stat/124/1616].
+    Subsection (k) of [section 78q of this title][/us/usc/t15/s78q], referred to in subsec. (k)(4)(C), was redesignated subsec. (j) by [Pub. L. 111–203, title VI][/us/pl/111/203/tVI], § 617(a)(2), July 21, 2010, [124 Stat. 1616][/us/stat/124/1616].
 
  __Amendments__ 
 
     2010—Subsec. (b)(15). [Pub. L. 111–203][/us/pl/111/203] added par. (15).
 
-    2006—Subsec. (b)(14). [Pub. L. 109–290, § 5][/us/pl/109/290/s5], added par. (14).
+    2006—Subsec. (b)(14). [Pub. L. 109–290][/us/pl/109/290], § 5, added par. (14).
 
-    Subsec. (i). [Pub. L. 109–290, § 6][/us/pl/109/290/s6], inserted heading and amended text of subsec. (i) generally. Prior to amendment, text read as follows: “A registered securities association shall, within one year from October 15, 1990, (1) establish and maintain a toll-free telephone listing to receive inquiries regarding disciplinary actions involving its members and their associated persons, and (2) promptly respond to such inquiries in writing. Such association may charge persons, other than individual investors, reasonable fees for written responses to such inquiries. Such an association shall not have any liability to any person for any actions taken or omitted in good faith under this paragraph.”
+    Subsec. (i). [Pub. L. 109–290][/us/pl/109/290], § 6, inserted heading and amended text of subsec. (i) generally. Prior to amendment, text read as follows: “A registered securities association shall, within one year from October 15, 1990, (1) establish and maintain a toll-free telephone listing to receive inquiries regarding disciplinary actions involving its members and their associated persons, and (2) promptly respond to such inquiries in writing. Such association may charge persons, other than individual investors, reasonable fees for written responses to such inquiries. Such an association shall not have any liability to any person for any actions taken or omitted in good faith under this paragraph.”
 
-    2000—Subsec. (k). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 203(c)\], added subsec. (k).
+    2000—Subsec. (k). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 203(c)\], added subsec. (k).
 
-    Subsec. (l). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(j)\], added subsec. (l).
+    Subsec. (l). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 206(j)\], added subsec. (l).
 
-    Subsec. (m). [Pub. L. 106–554, § 1(a)(5)][/us/pl/106/554/s1/a/5] \[title II, § 206(k)(1)\], added subsec. (m).
+    Subsec. (m). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(5) \[title II, § 206(k)(1)\], added subsec. (m).
 
     1999—Subsec. (j). [Pub. L. 106–102][/us/pl/106/102] added subsec. (j).
 
-    1993—Subsec. (b)(12). [Pub. L. 103–202, § 303(a)][/us/pl/103/202/s303/a], added par. (12).
+    1993—Subsec. (b)(12). [Pub. L. 103–202][/us/pl/103/202], § 303(a), added par. (12).
 
-    Subsec. (b)(13). [Pub. L. 103–202, § 303(c)][/us/pl/103/202/s303/c], added par. (13).
+    Subsec. (b)(13). [Pub. L. 103–202][/us/pl/103/202], § 303(c), added par. (13).
 
-    Subsec. (f). [Pub. L. 103–202, § 106(b)(1)(A)][/us/pl/103/202/s106/b/1/A], redesignated par. (3) as entire subsec. (f) and struck out pars. (1) and (2) which read as follows:
+    Subsec. (f). [Pub. L. 103–202][/us/pl/103/202], § 106(b)(1)(A), redesignated par. (3) as entire subsec. (f) and struck out pars. (1) and (2) which read as follows:
 
     “(1) Except as provided in paragraph (2) of this subsection, nothing in this section shall be construed to apply with respect to any transaction by a registered broker or dealer in any exempted security.
 
     “(2) A registered securities association may adopt and implement rules applicable to members of such association (A) to enforce compliance by registered brokers and dealers with applicable provisions of this chapter and the rules and regulations thereunder, (B) to provide that its members and persons associated with its members shall be appropriately disciplined, in accordance with subsections (b)(7), (b)(8), and (h) of this section, for violation of applicable provisions of this chapter and the rules and regulations thereunder, (C) to provide for reasonable inspection and examination of the books and records of registered brokers and dealers, (D) to provide for the matters described in paragraphs (b)(3), (b)(4), and (b)(5) of this section, (E) to implement the provisions of subsection (g) of this section, and (F) to prohibit fraudulent, misleading, deceptive, and false advertising.”
 
-    Subsec. (g)(3)(D). [Pub. L. 103–202, § 106(b)(1)(B)(i)][/us/pl/103/202/s106/b/1/B/i], substituted “transactions in municipal securities” for “transactions in exempted securities”.
+    Subsec. (g)(3)(D). [Pub. L. 103–202][/us/pl/103/202], § 106(b)(1)(B)(i), substituted “transactions in municipal securities” for “transactions in exempted securities”.
 
-    Subsec. (g)(4), (5). [Pub. L. 103–202, § 106(b)(1)(B)(ii)][/us/pl/103/202/s106/b/1/B/ii], (iii), redesignated par. (5) as (4) and struck out former par. (4) which allowed a registered securities association to deny membership to, condition the membership of, or to otherwise bar association with, the association, under circumstances where a government securities broker or dealer or other person violated financial responsibility rules adopted under section 78o–5(b)(1)(A) of this title, or where it appeared likely that such person or entity had or would engage in conduct which would subject such person or entity to sanctions under section 78o–5(c) of this title.
+    Subsec. (g)(4), (5). [Pub. L. 103–202][/us/pl/103/202], § 106(b)(1)(B)(ii), (iii), redesignated par. (5) as (4) and struck out former par. (4) which allowed a registered securities association to deny membership to, condition the membership of, or to otherwise bar association with, the association, under circumstances where a government securities broker or dealer or other person violated financial responsibility rules adopted under section 78o–5(b)(1)(A) of this title, or where it appeared likely that such person or entity had or would engage in conduct which would subject such person or entity to sanctions under section 78o–5(c) of this title.
 
     1990—Subsec. (i). [Pub. L. 101–429][/us/pl/101/429] added subsec. (i).
 
-    1986—Subsec. (f). [Pub. L. 99–571, § 102(g)(1)][/us/pl/99/571/s102/g/1], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Nothing in this section shall be construed to apply with respect to any transaction by a broker or dealer in any exempted security.”
+    1986—Subsec. (f). [Pub. L. 99–571][/us/pl/99/571], § 102(g)(1), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Nothing in this section shall be construed to apply with respect to any transaction by a broker or dealer in any exempted security.”
 
-    Subsec. (g)(3)(D). [Pub. L. 99–571, § 102(g)(2)(A)][/us/pl/99/571/s102/g/2/A], added subpar. (D).
+    Subsec. (g)(3)(D). [Pub. L. 99–571][/us/pl/99/571], § 102(g)(2)(A), added subpar. (D).
 
-    Subsec. (g)(4), (5). [Pub. L. 99–571, § 102(g)(2)(B)][/us/pl/99/571/s102/g/2/B], (C), added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (g)(4), (5). [Pub. L. 99–571][/us/pl/99/571], § 102(g)(2)(B), (C), added par. (4) and redesignated former par. (4) as (5).
 
-    1975—Subsec. (a). [Pub. L. 94–29, § 12(2)][/us/pl/94/29/s12/2], struck out “with the Commission” after “registered”, inserted reference to [section 78s(a) of this title][/us/usc/t15/s78s/a], substituted provisions covering an application for registration in the form prescribed by Commission rule containing the rules of the association and such other information and documents as the Commission prescribes as necessary or appropriate in the public interest or for the protection of investors for provisions covering a statement in the form prescribed by the Commission setting forth specified information and accompanied by specified documents, and struck out provision that registration not be construed as a waiver of constitutional rights or as a waiver of the right to contest the validity of Commission rules or regulations.
+    1975—Subsec. (a). [Pub. L. 94–29][/us/pl/94/29], § 12(2), struck out “with the Commission” after “registered”, inserted reference to [section 78s(a) of this title][/us/usc/t15/s78s/a], substituted provisions covering an application for registration in the form prescribed by Commission rule containing the rules of the association and such other information and documents as the Commission prescribes as necessary or appropriate in the public interest or for the protection of investors for provisions covering a statement in the form prescribed by the Commission setting forth specified information and accompanied by specified documents, and struck out provision that registration not be construed as a waiver of constitutional rights or as a waiver of the right to contest the validity of Commission rules or regulations.
 
-    Subsec. (b). [Pub. L. 94–29, § 12(2)][/us/pl/94/29/s12/2], amended subsec. (b) generally, to conform its provisions concerning the registration and regulation of national and affiliated securities associations to those covering the registration and regulation of national securities exchanges contained in [section 78f of this title][/us/usc/t15/s78f] and inserted provisions necessary to accommodate the creation of the Municipal Securities Rulemaking Board and to implement its purposes.
+    Subsec. (b). [Pub. L. 94–29][/us/pl/94/29], § 12(2), amended subsec. (b) generally, to conform its provisions concerning the registration and regulation of national and affiliated securities associations to those covering the registration and regulation of national securities exchanges contained in [section 78f of this title][/us/usc/t15/s78f] and inserted provisions necessary to accommodate the creation of the Municipal Securities Rulemaking Board and to implement its purposes.
 
-    Subsec. (e). [Pub. L. 94–29, § 12(3)][/us/pl/94/29/s12/3], redesignated subsec. (i) as (e) and in subsec. (e) as so redesignated substituted “nonmember professional” for “nonmember broker or dealer” in par. (1), substituted “term ‘nonmember professional’ shall include (A) with respect to transactions in securities other than municipal securities, any registered broker or dealer who is not a member of any registered securities association, except such a broker or dealer who deals exclusively in commercial paper, bankers’ acceptances, and commercial bills” for “term ‘nonmember broker or dealer’ shall include any broker or dealer who makes use of the mails or of any means or instrumentality of interstate commerce to effect any transaction in, or to induce the purchase or sale of, any security otherwise than on a national securities exchange, who is not a member of any registered securities association, except a broker or dealer who deals exclusively in commercial paper, bankers’ acceptances, or commercial bills” and added cl. (B) in par. (2), and, in par. (3), designated existing provisions as cl. (A) and added cl. (B). Former subsec. (e), covering the grant and denial of registration and the revocation of affiliated association registration, was struck out. See [section 78s of this title][/us/usc/t15/s78s].
+    Subsec. (e). [Pub. L. 94–29][/us/pl/94/29], § 12(3), redesignated subsec. (i) as (e) and in subsec. (e) as so redesignated substituted “nonmember professional” for “nonmember broker or dealer” in par. (1), substituted “term ‘nonmember professional’ shall include (A) with respect to transactions in securities other than municipal securities, any registered broker or dealer who is not a member of any registered securities association, except such a broker or dealer who deals exclusively in commercial paper, bankers’ acceptances, and commercial bills” for “term ‘nonmember broker or dealer’ shall include any broker or dealer who makes use of the mails or of any means or instrumentality of interstate commerce to effect any transaction in, or to induce the purchase or sale of, any security otherwise than on a national securities exchange, who is not a member of any registered securities association, except a broker or dealer who deals exclusively in commercial paper, bankers’ acceptances, or commercial bills” and added cl. (B) in par. (2), and, in par. (3), designated existing provisions as cl. (A) and added cl. (B). Former subsec. (e), covering the grant and denial of registration and the revocation of affiliated association registration, was struck out. See [section 78s of this title][/us/usc/t15/s78s].
 
-    Subsec. (f). [Pub. L. 94–29, § 12(3)][/us/pl/94/29/s12/3], redesignated subsec. (m) as (f). Former subsec. (f), covering withdrawal from registration, was struck out. See [section 78s of this title][/us/usc/t15/s78s].
+    Subsec. (f). [Pub. L. 94–29][/us/pl/94/29], § 12(3), redesignated subsec. (m) as (f). Former subsec. (f), covering withdrawal from registration, was struck out. See [section 78s of this title][/us/usc/t15/s78s].
 
-    Subsec. (g). [Pub. L. 94–29, § 12(3)][/us/pl/94/29/s12/3], (4), added subsec. (g). Former subsec. (g), covering review by the Commission of adverse actions against association members and stays of such actions, was struck out. See [section 78s of this title][/us/usc/t15/s78s].
+    Subsec. (g). [Pub. L. 94–29][/us/pl/94/29], § 12(3), (4), added subsec. (g). Former subsec. (g), covering review by the Commission of adverse actions against association members and stays of such actions, was struck out. See [section 78s of this title][/us/usc/t15/s78s].
 
-    Subsec. (h). [Pub. L. 94–29, § 12(3)][/us/pl/94/29/s12/3], (4), added subsec. (h). Former subsec. (h), covering the Commission’s action upon findings, was struck out. See [section 78s of this title][/us/usc/t15/s78s].
+    Subsec. (h). [Pub. L. 94–29][/us/pl/94/29], § 12(3), (4), added subsec. (h). Former subsec. (h), covering the Commission’s action upon findings, was struck out. See [section 78s of this title][/us/usc/t15/s78s].
 
-    Subsec. (i). [Pub. L. 94–29, § 12(3)][/us/pl/94/29/s12/3], redesignated subsec. (i) as (e) and amended subsec. (e) as so redesignated.
+    Subsec. (i). [Pub. L. 94–29][/us/pl/94/29], § 12(3), redesignated subsec. (i) as (e) and amended subsec. (e) as so redesignated.
 
-    Subsecs. (j) to (l). [Pub. L. 94–29, § 12(3)][/us/pl/94/29/s12/3], struck out subsecs. (j) to (l) which covered the filing of changes or additions to association rules and current information, the abrogation and alteration of association rules and supplements to association rules, the suspension of an association or its members, the revocation of registration, the expulsion of members, and the removal of officers or directors. See [section 78s of this title][/us/usc/t15/s78s].
+    Subsecs. (j) to (l). [Pub. L. 94–29][/us/pl/94/29], § 12(3), struck out subsecs. (j) to (l) which covered the filing of changes or additions to association rules and current information, the abrogation and alteration of association rules and supplements to association rules, the suspension of an association or its members, the revocation of registration, the expulsion of members, and the removal of officers or directors. See [section 78s of this title][/us/usc/t15/s78s].
 
-    Subsec. (m). [Pub. L. 94–29, § 12(3)][/us/pl/94/29/s12/3], redesignated subsec. (m) as (f).
+    Subsec. (m). [Pub. L. 94–29][/us/pl/94/29], § 12(3), redesignated subsec. (m) as (f).
 
-    Subsec. (n). [Pub. L. 94–29, § 12(3)][/us/pl/94/29/s12/3], struck out subsec. (n) which directed that provisions of this section prevail in the event of any conflict between this section and any other law of the United States in force on June 25, 1938.
+    Subsec. (n). [Pub. L. 94–29][/us/pl/94/29], § 12(3), struck out subsec. (n) which directed that provisions of this section prevail in the event of any conflict between this section and any other law of the United States in force on June 25, 1938.
 
-    1964—Subsec. (b)(1), (2). [Pub. L. 88–467, § 7(a)(1)][/us/pl/88/467/s7/a/1], substituted a period for the semicolon at end of pars. (1) and (2).
+    1964—Subsec. (b)(1), (2). [Pub. L. 88–467][/us/pl/88/467], § 7(a)(1), substituted a period for the semicolon at end of pars. (1) and (2).
 
-    Subsec. (b)(3). [Pub. L. 88–467, § 7(a)(1)][/us/pl/88/467/s7/a/1], (2), substituted a period for the semicolon at end of par. (3), struck out “of” before “any means”, substituted “paragraph (4) or (5) of this subsection, or a rule of the association permitted under this paragraph. The rules” for “paragraph (4) of this subsection: Provided, That the rules”, and inserted provision authorizing a registered securities association to adopt rules under which it might exclude from membership persons who had been suspended or expelled from a national securities exchange or who were barred or suspended from being associated with all brokers or dealers who are members of such an exchange for violation of exchange rules.
+    Subsec. (b)(3). [Pub. L. 88–467][/us/pl/88/467], § 7(a)(1), (2), substituted a period for the semicolon at end of par. (3), struck out “of” before “any means”, substituted “paragraph (4) or (5) of this subsection, or a rule of the association permitted under this paragraph. The rules” for “paragraph (4) of this subsection: Provided, That the rules”, and inserted provision authorizing a registered securities association to adopt rules under which it might exclude from membership persons who had been suspended or expelled from a national securities exchange or who were barred or suspended from being associated with all brokers or dealers who are members of such an exchange for violation of exchange rules.
 
-    Subsec. (b)(4). [Pub. L. 88–467, § 7(a)(1)][/us/pl/88/467/s7/a/1], (3), substituted a period for the semicolon at end of par. (4), deleted from text preceding cl. (A) the language “or (2) any partner, officer, director, or branch manager of such broker or dealer (or any person occupying a similar status or performing similar functions), or any person directly or indirectly controlling or controlled by such broker or dealer, whether prior or subsequent to becoming such”, inserted in cl. (A) “or has been and is barred or suspended from being associated with all brokers or dealers which are members of such exchange”, inserted in cl. (B) provision for suspension for period not exceeding twelve months or barring or suspending the broker or dealer from being associated with a broker or dealer, inserted at the beginning of cl. (C) “whether prior or subsequent to becoming a broker or dealer,” (derived from former cl. (1) of this paragraph) and added to cl. (C) provision conferring jurisdiction upon the Commission, an exchange, or a registered securities association to determine whether an individual is the cause of disciplinary action taken by them against a broker or a dealer, and added cl. (D).
+    Subsec. (b)(4). [Pub. L. 88–467][/us/pl/88/467], § 7(a)(1), (3), substituted a period for the semicolon at end of par. (4), deleted from text preceding cl. (A) the language “or (2) any partner, officer, director, or branch manager of such broker or dealer (or any person occupying a similar status or performing similar functions), or any person directly or indirectly controlling or controlled by such broker or dealer, whether prior or subsequent to becoming such”, inserted in cl. (A) “or has been and is barred or suspended from being associated with all brokers or dealers which are members of such exchange”, inserted in cl. (B) provision for suspension for period not exceeding twelve months or barring or suspending the broker or dealer from being associated with a broker or dealer, inserted at the beginning of cl. (C) “whether prior or subsequent to becoming a broker or dealer,” (derived from former cl. (1) of this paragraph) and added to cl. (C) provision conferring jurisdiction upon the Commission, an exchange, or a registered securities association to determine whether an individual is the cause of disciplinary action taken by them against a broker or a dealer, and added cl. (D).
 
-    Subsec. (b)(5). [Pub. L. 88–467, § 7(a)(4)][/us/pl/88/467/s7/a/4], added par. (5). Former par. (5) redesignated (6).
+    Subsec. (b)(5). [Pub. L. 88–467][/us/pl/88/467], § 7(a)(4), added par. (5). Former par. (5) redesignated (6).
 
-    Subsec. (b)(6) to (8). [Pub. L. 88–467, § 7(a)(1)][/us/pl/88/467/s7/a/1], (4), substituted periods for semicolons at end of paragraphs, and redesignated former pars. (5) to (7) as (6) to (8), respectively. Former pars. (6) to (8) redesignated (7) to (9), respectively.
+    Subsec. (b)(6) to (8). [Pub. L. 88–467][/us/pl/88/467], § 7(a)(1), (4), substituted periods for semicolons at end of paragraphs, and redesignated former pars. (5) to (7) as (6) to (8), respectively. Former pars. (6) to (8) redesignated (7) to (9), respectively.
 
-    Subsec. (b)(9). [Pub. L. 88–467, § 7(a)(1)][/us/pl/88/467/s7/a/1], (4), (5), substituted a period for the semicolon at the end, redesignated former par. (8) as (9), and inserted “and persons associated with its members” and “or being suspended or barred from being associated with all members,”, respectively. Former par. (9) redesignated (10).
+    Subsec. (b)(9). [Pub. L. 88–467][/us/pl/88/467], § 7(a)(1), (4), (5), substituted a period for the semicolon at the end, redesignated former par. (8) as (9), and inserted “and persons associated with its members” and “or being suspended or barred from being associated with all members,”, respectively. Former par. (9) redesignated (10).
 
-    Subsec. (b)(10). [Pub. L. 88–467, § 7(a)(4)][/us/pl/88/467/s7/a/4], (6), redesignated former par. (9) as (10), and inserted in paragraph preceding cl. (A) “and persons associated with members”, “or the barring of any person from being associated with a member”, “or other persons”, and “or person”, substituted a period for a comma at end of cls. (A) and (B) and a period for “, and” at end of cl. (C), inserted in cl. (A) “or other person” in two places and in concluding sentence “or whether any person shall be barred from being associated with a member”, “or person”, “or bar” in two places, and substituted a period for “; and”, respectively. Former par. (10) redesignated (11).
+    Subsec. (b)(10). [Pub. L. 88–467][/us/pl/88/467], § 7(a)(4), (6), redesignated former par. (9) as (10), and inserted in paragraph preceding cl. (A) “and persons associated with members”, “or the barring of any person from being associated with a member”, “or other persons”, and “or person”, substituted a period for a comma at end of cls. (A) and (B) and a period for “, and” at end of cl. (C), inserted in cl. (A) “or other person” in two places and in concluding sentence “or whether any person shall be barred from being associated with a member”, “or person”, “or bar” in two places, and substituted a period for “; and”, respectively. Former par. (10) redesignated (11).
 
-    Subsec. (b)(11). [Pub. L. 88–467, § 7(a)(4)][/us/pl/88/467/s7/a/4], redesignated former par. (10) as (11).
+    Subsec. (b)(11). [Pub. L. 88–467][/us/pl/88/467], § 7(a)(4), redesignated former par. (10) as (11).
 
-    Subsec. (b)(12). [Pub. L. 88–467, § 7(a)(7)][/us/pl/88/467/s7/a/7], added par. (12).
+    Subsec. (b)(12). [Pub. L. 88–467][/us/pl/88/467], § 7(a)(7), added par. (12).
 
-    [Pub. L. 88–467, § 7(a)(7)][/us/pl/88/467/s7/a/7], inserted effective date provisions for application of subsec. (b) prior to its amendment and since its amendment with July 1, 1964 as the guiding date.
+    [Pub. L. 88–467][/us/pl/88/467], § 7(a)(7), inserted effective date provisions for application of subsec. (b) prior to its amendment and since its amendment with July 1, 1964 as the guiding date.
 
-    Subsec. (d)(2). [Pub. L. 88–467, § 7(b)][/us/pl/88/467/s7/b], substituted “(10)” for “(9)” and inserted “and paragraph (12),” after “, inclusive,”.
+    Subsec. (d)(2). [Pub. L. 88–467][/us/pl/88/467], § 7(b), substituted “(10)” for “(9)” and inserted “and paragraph (12),” after “, inclusive,”.
 
-    Subsec. (g). [Pub. L. 88–467, § 7(c)][/us/pl/88/467/s7/c], provided that disciplinary action taken by a registered securities association against a person associated with a member will be reviewable by the Commission, shortened the period for review by an aggrieved person from sixty days or within such longer period as the Commission may determine to thirty days or within such longer period as the Commission may determine, authorized the Commission, after notice and opportunity for hearing on the question of stay to order no stay of action of a registered securities association pending the Commission’s decision on review, and authorized the Commission to limit the hearing on the question of stay to affidavits and oral arguments.
+    Subsec. (g). [Pub. L. 88–467][/us/pl/88/467], § 7(c), provided that disciplinary action taken by a registered securities association against a person associated with a member will be reviewable by the Commission, shortened the period for review by an aggrieved person from sixty days or within such longer period as the Commission may determine to thirty days or within such longer period as the Commission may determine, authorized the Commission, after notice and opportunity for hearing on the question of stay to order no stay of action of a registered securities association pending the Commission’s decision on review, and authorized the Commission to limit the hearing on the question of stay to affidavits and oral arguments.
 
-    Subsec. (h). [Pub. L. 88–467, § 7(d)][/us/pl/88/467/s7/d], made the procedures and the Commission’s authority in reviewing disciplinary action by a registered securities association against members and in reviewing association action in denying membership also applicable to Commission review of disciplinary action against persons associated with members and to the barring by an association of any person from being associated with a member.
+    Subsec. (h). [Pub. L. 88–467][/us/pl/88/467], § 7(d), made the procedures and the Commission’s authority in reviewing disciplinary action by a registered securities association against members and in reviewing association action in denying membership also applicable to Commission review of disciplinary action against persons associated with members and to the barring by an association of any person from being associated with a member.
 
-    Subsec. (k)(2). [Pub. L. 88–467, § 7(e)][/us/pl/88/467/s7/e], inserted “, or with such modifications of such alteration or supplement as it deems necessary” after “in the manner theretofore requested”, redesignated cls. (1) to (4) as (A) to (D), respectively, and inserted in cl. (A) “or the barring from being associated with a member” and “or persons associated with members, or the qualifications required for members or natural persons associated with members or any class thereof”.
+    Subsec. (k)(2). [Pub. L. 88–467][/us/pl/88/467], § 7(e), inserted “, or with such modifications of such alteration or supplement as it deems necessary” after “in the manner theretofore requested”, redesignated cls. (1) to (4) as (A) to (D), respectively, and inserted in cl. (A) “or the barring from being associated with a member” and “or persons associated with members, or the qualifications required for members or natural persons associated with members or any class thereof”.
 
-    Subsec. (l). [Pub. L. 88–467, § 7(f)][/us/pl/88/467/s7/f], substituted a period for a semicolon at end of par. (1) and inserted in par. (2) preceding cl. (A) “, or to suspend for a period not exceeding twelve months or to bar any person from being associated with a member thereof,”.
+    Subsec. (l). [Pub. L. 88–467][/us/pl/88/467], § 7(f), substituted a period for a semicolon at end of par. (1) and inserted in par. (2) preceding cl. (A) “, or to suspend for a period not exceeding twelve months or to bar any person from being associated with a member thereof,”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -444,82 +444,82 @@
 [/us/usc/t15/s78f/h/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78f%2Fh%2F5%2FA
 [/us/usc/t15/s78f/h/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78f%2Fh%2F5
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/act/1938-06-25/ch677/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch677%2Fs1
+[/us/act/1938-06-25/ch677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch677
 [/us/stat/52/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1070
-[/us/pl/88/467/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs7
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
 [/us/stat/78/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F574
-[/us/pl/94/29/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs12
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F127
-[/us/pl/99/571/s102/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2Fs102%2Fg
+[/us/pl/99/571/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2FtI
 [/us/stat/100/3218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3218
-[/us/pl/101/429/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2Fs509
+[/us/pl/101/429/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429%2FtV
 [/us/stat/104/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F957
-[/us/pl/103/202/s106/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2Fs106%2Fb%2F1
+[/us/pl/103/202/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2FtI
 [/us/stat/107/2350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2350
-[/us/pl/106/102/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs203
+[/us/pl/106/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtII
 [/us/stat/113/1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1391
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/109/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F290
 [/us/stat/120/1319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1319
-[/us/pl/111/203/s975/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Ff
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1923
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
-[/us/pl/103/302/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F302%2Fs303%2Fa
-[/us/pl/112/106/s201/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs201%2Fb%2F1
+[/us/pl/103/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F302
+[/us/pl/112/106/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtII
 [/us/stat/126/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F314
 [/us/usc/t15/s78q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78q
-[/us/pl/111/203/s617/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs617%2Fa%2F2
+[/us/pl/111/203/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVI
 [/us/stat/124/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1616
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
-[/us/pl/109/290/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F290%2Fs5
-[/us/pl/109/290/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F290%2Fs6
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
-[/us/pl/106/554/s1/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F5
+[/us/pl/109/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F290
+[/us/pl/109/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F290
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102
-[/us/pl/103/202/s303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2Fs303%2Fa
-[/us/pl/103/202/s303/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2Fs303%2Fc
-[/us/pl/103/202/s106/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2Fs106%2Fb%2F1%2FA
-[/us/pl/103/202/s106/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2Fs106%2Fb%2F1%2FB%2Fi
-[/us/pl/103/202/s106/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202%2Fs106%2Fb%2F1%2FB%2Fii
+[/us/pl/103/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202
+[/us/pl/103/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202
+[/us/pl/103/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202
+[/us/pl/103/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202
+[/us/pl/103/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F202
 [/us/pl/101/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F429
-[/us/pl/99/571/s102/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2Fs102%2Fg%2F1
-[/us/pl/99/571/s102/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2Fs102%2Fg%2F2%2FA
-[/us/pl/99/571/s102/g/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571%2Fs102%2Fg%2F2%2FB
-[/us/pl/94/29/s12/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs12%2F2
+[/us/pl/99/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571
+[/us/pl/99/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571
+[/us/pl/99/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F571
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/usc/t15/s78s/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78s%2Fa
-[/us/pl/94/29/s12/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs12%2F2
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/usc/t15/s78f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78f
-[/us/pl/94/29/s12/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs12%2F3
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/usc/t15/s78s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78s
-[/us/pl/94/29/s12/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs12%2F3
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/usc/t15/s78s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78s
-[/us/pl/94/29/s12/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs12%2F3
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/usc/t15/s78s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78s
-[/us/pl/94/29/s12/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs12%2F3
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/usc/t15/s78s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78s
-[/us/pl/94/29/s12/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs12%2F3
-[/us/pl/94/29/s12/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs12%2F3
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/usc/t15/s78s]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78s
-[/us/pl/94/29/s12/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs12%2F3
-[/us/pl/94/29/s12/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs12%2F3
-[/us/pl/88/467/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs7%2Fa%2F1
-[/us/pl/88/467/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs7%2Fa%2F1
-[/us/pl/88/467/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs7%2Fa%2F1
-[/us/pl/88/467/s7/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs7%2Fa%2F4
-[/us/pl/88/467/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs7%2Fa%2F1
-[/us/pl/88/467/s7/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs7%2Fa%2F1
-[/us/pl/88/467/s7/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs7%2Fa%2F4
-[/us/pl/88/467/s7/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs7%2Fa%2F4
-[/us/pl/88/467/s7/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs7%2Fa%2F7
-[/us/pl/88/467/s7/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs7%2Fa%2F7
-[/us/pl/88/467/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs7%2Fb
-[/us/pl/88/467/s7/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs7%2Fc
-[/us/pl/88/467/s7/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs7%2Fd
-[/us/pl/88/467/s7/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs7%2Fe
-[/us/pl/88/467/s7/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs7%2Ff
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s975/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs975%2Fi
 [/us/pl/106/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102

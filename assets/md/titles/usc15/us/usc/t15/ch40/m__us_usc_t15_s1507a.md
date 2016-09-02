@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t15/ch40/m__us_usc_t15_s1507.md) | [Next](./../../../..//us/usc/t15/ch40/m__us_usc_t15_s1507b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1507a)
 
-## § 1507a. Repealed. [Pub. L. 97–31, § 12(5)][/us/pl/97/31/s12/5], Aug. 6, 1981, [95 Stat. 154][/us/stat/95/154]
+## § 1507a. Repealed. [Pub. L. 97–31][/us/pl/97/31], § 12(5), Aug. 6, 1981, [95 Stat. 154][/us/stat/95/154]
 
-    Section, [Pub. L. 91–469, § 42(a)][/us/pl/91/469/s42/a], Oct. 21, 1970, [84 Stat. 1038][/us/stat/84/1038], related to appointment, compensation, and duties of the Assistant Secretary for Maritime Affairs.
+    Section, [Pub. L. 91–469][/us/pl/91/469], § 42(a), Oct. 21, 1970, [84 Stat. 1038][/us/stat/84/1038], related to appointment, compensation, and duties of the Assistant Secretary for Maritime Affairs.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/97/31/s12/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31%2Fs12%2F5
+[/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
 [/us/stat/95/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F154
-[/us/pl/91/469/s42/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F469%2Fs42%2Fa
+[/us/pl/91/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F469
 [/us/stat/84/1038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1038
 
 

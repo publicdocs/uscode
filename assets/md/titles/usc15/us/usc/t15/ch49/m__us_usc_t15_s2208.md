@@ -53,15 +53,15 @@
 
         The Administrator shall update the National Fire Incident Reporting System to ensure that the information in the system is available, and can be updated, through the Internet and in real time.
 
-([Pub. L. 93–498, § 9][/us/pl/93/498/s9], Oct. 29, 1974, [88 Stat. 1541][/us/stat/88/1541]; [Pub. L. 110–376, § 5][/us/pl/110/376/s5], Oct. 8, 2008, [122 Stat. 4059][/us/stat/122/4059]; [Pub. L. 112–239, div. A, title XVIII, § 1815][/us/pl/112/239/s1815], Jan. 2, 2013, [126 Stat. 2118][/us/stat/126/2118].)
+([Pub. L. 93–498][/us/pl/93/498], § 9, Oct. 29, 1974, [88 Stat. 1541][/us/stat/88/1541]; [Pub. L. 110–376][/us/pl/110/376], § 5, Oct. 8, 2008, [122 Stat. 4059][/us/stat/122/4059]; [Pub. L. 112–239, div. A, title XVIII][/us/pl/112/239/dA/tXVIII], § 1815, Jan. 2, 2013, [126 Stat. 2118][/us/stat/126/2118].)
 
  __Amendments__ 
 
     2013—Subsec. (d). [Pub. L. 112–239][/us/pl/112/239] struck out par. (1) designation and heading and par. (2). Prior to amendment, text of par. (2) read as follows: “Of the amounts made available pursuant to subparagraphs (E), (F), and (G) of [section 2216(g)(1) of this title][/us/usc/t15/s2216/g/1], the Administrator shall use not more than an aggregate amount of $5,000,000 during the 3-year period consisting of fiscal years 2009, 2010, and 2011 to carry out the activities required by paragraph (1).”
 
-    2008—Subsec. (b)(2). [Pub. L. 110–376, § 5(b)][/us/pl/110/376/s5/b], substituted “assist Federal, State,” for “assist State,”.
+    2008—Subsec. (b)(2). [Pub. L. 110–376][/us/pl/110/376], § 5(b), substituted “assist Federal, State,” for “assist State,”.
 
-    Subsec. (d). [Pub. L. 110–376, § 5(a)][/us/pl/110/376/s5/a], added subsec. (d).
+    Subsec. (d). [Pub. L. 110–376][/us/pl/110/376], § 5(a), added subsec. (d).
 
  __Transfer of Functions__ 
 
@@ -78,16 +78,16 @@
 ----------
 ----------
 
-[/us/pl/93/498/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs9
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1541
-[/us/pl/110/376/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs5
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
 [/us/stat/122/4059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4059
-[/us/pl/112/239/s1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1815
+[/us/pl/112/239/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVIII
 [/us/stat/126/2118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2118
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t15/s2216/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2216%2Fg%2F1
-[/us/pl/110/376/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs5%2Fb
-[/us/pl/110/376/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs5%2Fa
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/usc/t15/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2202

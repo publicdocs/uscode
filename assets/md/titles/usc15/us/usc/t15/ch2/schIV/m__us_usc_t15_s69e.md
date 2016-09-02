@@ -27,7 +27,7 @@
 
         If the name of an animal (as set forth in the Fur Products Name Guide) connotes a geographical origin or significance other than the true country or place of origin of such animal, the Commission may require whenever such name is used in setting forth the information required by this subchapter, such qualifying statements as it may deem necessary to prevent confusion or deception.
 
-([Aug. 8, 1951, ch. 298, § 7][/us/act/1951-08-08/ch298/s7], [65 Stat. 179][/us/stat/65/179].)
+([Aug. 8, 1951, ch. 298][/us/act/1951-08-08/ch298], § 7, [65 Stat. 179][/us/stat/65/179].)
 
  __Transfer of Functions__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/act/1951-08-08/ch298/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298%2Fs7
+[/us/act/1951-08-08/ch298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-08-08%2Fch298
 [/us/stat/65/179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F179
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41

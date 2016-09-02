@@ -31,7 +31,7 @@
 
         The Executive Director shall be compensated at a rate not to exceed that provided for Executive level IV under [section 5315 of title 5][/us/usc/t5/s5315] as determined by the President, and shall have no other employment, public or private, during the tenure of his appointment.
 
-([Pub. L. 94–136, title II, § 203][/us/pl/94/136/s203], Nov. 28, 1975, [89 Stat. 736][/us/stat/89/736].)
+([Pub. L. 94–136, title II][/us/pl/94/136/tII], § 203, Nov. 28, 1975, [89 Stat. 736][/us/stat/89/736].)
 
 ----------
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
-[/us/pl/94/136/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2Fs203
+[/us/pl/94/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2FtII
 [/us/stat/89/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F736
 
 

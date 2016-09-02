@@ -19,7 +19,7 @@
 
     The Commission shall have an official seal, which shall be judicially noticed.
 
-([Sept. 26, 1914, ch. 311, § 1][/us/act/1914-09-26/ch311/s1], [38 Stat. 717][/us/stat/38/717]; [Mar. 21, 1938, ch. 49, § 1][/us/act/1938-03-21/ch49/s1], [52 Stat. 111][/us/stat/52/111]; 1950 Reorg. Plan No. 8, § 3, eff. May 24, 1950, 15 F.R. 3175, [64 Stat. 1265][/us/stat/64/1265].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 1, [38 Stat. 717][/us/stat/38/717]; [Mar. 21, 1938, ch. 49][/us/act/1938-03-21/ch49], § 1, [52 Stat. 111][/us/stat/52/111]; 1950 Reorg. Plan No. 8, § 3, eff. May 24, 1950, 15 F.R. 3175, [64 Stat. 1265][/us/stat/64/1265].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Clarification of Status of Subsidiaries and Affiliates__ 
 
-[Pub. L. 106–102, title I, § 133(a)][/us/pl/106/102/s133/a], (b), Nov. 12, 1999, [113 Stat. 1383][/us/stat/113/1383], provided that:
+[Pub. L. 106–102, title I][/us/pl/106/102/tI], § 133(a), (b), Nov. 12, 1999, [113 Stat. 1383][/us/stat/113/1383], provided that:
 
 >     “(a)  __Clarification of Federal Trade Commission Jurisdiction__  __.—__ 
 
@@ -130,14 +130,14 @@
 ----------
 ----------
 
-[/us/act/1914-09-26/ch311/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs1
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717
-[/us/act/1938-03-21/ch49/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-03-21%2Fch49%2Fs1
+[/us/act/1938-03-21/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-03-21%2Fch49
 [/us/stat/52/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F111
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/usc/t15/s2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2079
-[/us/pl/106/102/s133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs133%2Fa
+[/us/pl/106/102/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtI
 [/us/stat/113/1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1383
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41

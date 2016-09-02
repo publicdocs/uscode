@@ -91,7 +91,7 @@
 
         From the unexpended balances of the appropriations to the Commission for fiscal year 2003, the Secretary of the Treasury is authorized to advance to the Board not to exceed the amount necessary to cover the expenses of the Board during its first fiscal year (which may be a short fiscal year).
 
-([Pub. L. 107–204, title I, § 109][/us/pl/107/204/s109], July 30, 2002, [116 Stat. 769][/us/stat/116/769]; [Pub. L. 111–203, title IX, § 982(h)][/us/pl/111/203/s982/h], July 21, 2010, [124 Stat. 1930][/us/stat/124/1930].)
+([Pub. L. 107–204, title I][/us/pl/107/204/tI], § 109, July 30, 2002, [116 Stat. 769][/us/stat/116/769]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 982(h), July 21, 2010, [124 Stat. 1930][/us/stat/124/1930].)
 
  __Codification__ 
 
@@ -99,13 +99,13 @@
 
  __Amendments__ 
 
-    2010—Subsec. (c)(2). [Pub. L. 111–203, § 982(h)(1)][/us/pl/111/203/s982/h/1], substituted “subsection (j)” for “subsection (i)”.
+    2010—Subsec. (c)(2). [Pub. L. 111–203][/us/pl/111/203], § 982(h)(1), substituted “subsection (j)” for “subsection (i)”.
 
-    Subsec. (d)(2). [Pub. L. 111–203, § 982(h)(2)(A)][/us/pl/111/203/s982/h/2/A], substituted “and among brokers and dealers, in accordance with subsection (h), and allowing for differentiation among classes of issuers, brokers and dealers, as appropriate” for “allowing for differentiation among classes of issuers, as appropriate”.
+    Subsec. (d)(2). [Pub. L. 111–203][/us/pl/111/203], § 982(h)(2)(A), substituted “and among brokers and dealers, in accordance with subsection (h), and allowing for differentiation among classes of issuers, brokers and dealers, as appropriate” for “allowing for differentiation among classes of issuers, as appropriate”.
 
-    Subsec. (d)(3). [Pub. L. 111–203, § 982(h)(2)(B)][/us/pl/111/203/s982/h/2/B], added par. (3).
+    Subsec. (d)(3). [Pub. L. 111–203][/us/pl/111/203], § 982(h)(2)(B), added par. (3).
 
-    Subsecs. (h) to (k). [Pub. L. 111–203, § 982(h)(3)][/us/pl/111/203/s982/h/3], (4), added subsec. (h) and redesignated former subsecs. (h) to (j) as (i) to (k), respectively.
+    Subsecs. (h) to (k). [Pub. L. 111–203][/us/pl/111/203], § 982(h)(3), (4), added subsec. (h) and redesignated former subsecs. (h) to (j) as (i) to (k), respectively.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -121,17 +121,17 @@
 [/us/usc/t15/s77s/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77s%2Fb
 [/us/usc/t15/s7211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7211%2Fd
 [/us/usc/t15/s7212/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7212%2Fe
-[/us/pl/107/204/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs109
+[/us/pl/107/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtI
 [/us/stat/116/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F769
-[/us/pl/111/203/s982/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fh
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1930
 [/us/pl/107/204/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs109
 [/us/pl/107/204/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs109
 [/us/usc/t15/s78m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m
-[/us/pl/111/203/s982/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fh%2F1
-[/us/pl/111/203/s982/h/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fh%2F2%2FA
-[/us/pl/111/203/s982/h/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fh%2F2%2FB
-[/us/pl/111/203/s982/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fh%2F3
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

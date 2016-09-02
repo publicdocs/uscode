@@ -39,7 +39,7 @@
 
         (2) a similar entity, such as a foundation established by the retail propane gas industry in that State, that meets requirements established by the Council for specific programs approved by the Council.
 
-([Pub. L. 104–284, § 6][/us/pl/104/284/s6], Oct. 11, 1996, [110 Stat. 3374][/us/stat/110/3374].)
+([Pub. L. 104–284][/us/pl/104/284], § 6, Oct. 11, 1996, [110 Stat. 3374][/us/stat/110/3374].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/104/284/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F284%2Fs6
+[/us/pl/104/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F284
 [/us/stat/110/3374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3374
 
 

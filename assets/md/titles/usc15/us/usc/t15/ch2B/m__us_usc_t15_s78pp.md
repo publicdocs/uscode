@@ -141,7 +141,7 @@
 
         There is authorized to be appropriated to the Commission such sums as are necessary to carry out this section.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 39, as added [Pub. L. 111–203, title IX, § 911][/us/pl/111/203/s911], July 21, 2010, [124 Stat. 1822][/us/stat/124/1822].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 39, as added [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 911, July 21, 2010, [124 Stat. 1822][/us/stat/124/1822].)
 
  __References in Text__ 
 
@@ -161,7 +161,7 @@
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
-[/us/pl/111/203/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs911
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1822
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770

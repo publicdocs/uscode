@@ -23,7 +23,7 @@
 
     (3) analyzes current trends in global change, both human-inducted  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “human-induced”. </sup></sup>  and natural, and projects major trends for the subsequent 25 to 100 years.
 
-([Pub. L. 101–606, title I, § 106][/us/pl/101/606/s106], Nov. 16, 1990, [104 Stat. 3101][/us/stat/104/3101].)
+([Pub. L. 101–606, title I][/us/pl/101/606/tI], § 106, Nov. 16, 1990, [104 Stat. 3101][/us/stat/104/3101].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/101/606/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2Fs106
+[/us/pl/101/606/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F606%2FtI
 [/us/stat/104/3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3101
 
 

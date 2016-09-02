@@ -17,7 +17,7 @@
 
     Nothing in this chapter or the amendments made by this subtitle  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  shall be construed to modify, impair, or supersede the application of the antitrust laws. Any implied or actual conflict between this chapter and any amendments to this chapter and the antitrust laws shall be resolved in favor of the operation of the antitrust laws.
 
-([Pub. L. 111–203, title V, § 541][/us/pl/111/203/s541], July 21, 2010, [124 Stat. 1596][/us/stat/124/1596].)
+([Pub. L. 111–203, title V][/us/pl/111/203/tV], § 541, July 21, 2010, [124 Stat. 1596][/us/stat/124/1596].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs541
+[/us/pl/111/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtV
 [/us/stat/124/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1596
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s8201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs8201

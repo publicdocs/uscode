@@ -29,11 +29,11 @@
 
         On the basis of the findings stated in subsection (a) of this section, the Congress determines that the provisions of this subchapter are necessary and proper for the purpose of carrying into execution the powers of the Congress to regulate commerce and to establish uniform bankruptcy laws.
 
-([Pub. L. 90–321, title III, § 301][/us/pl/90/321/s301], May 29, 1968, [82 Stat. 163][/us/stat/82/163].)
+([Pub. L. 90–321, title III][/us/pl/90/321/tIII], § 301, May 29, 1968, [82 Stat. 163][/us/stat/82/163].)
 
  __Effective Date__ 
 
-[Pub. L. 90–321, title V, § 504(c)][/us/pl/90/321/s504/c], May 29, 1968, [82 Stat. 167][/us/stat/82/167], provided that: 
+[Pub. L. 90–321, title V][/us/pl/90/321/tV], § 504(c), May 29, 1968, [82 Stat. 167][/us/stat/82/167], provided that: 
 
 > “Title III \[enacting this section and sections 1672 to 1677 of this title\] takes effect on July 1, 1970.”
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/pl/90/321/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs301
+[/us/pl/90/321/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtIII
 [/us/stat/82/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F163
-[/us/pl/90/321/s504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs504%2Fc
+[/us/pl/90/321/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtV
 [/us/stat/82/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F167
 
 

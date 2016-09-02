@@ -39,7 +39,7 @@
 
         Any civil action brought under subsection (a) in a district court of the United States may be brought in the district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under [section 1391 of title 28][/us/usc/t28/s1391]. Process in such an action may be served in any district in which the defendant is an inhabitant or in which the defendant may be found.
 
-([Pub. L. 103–297, § 5][/us/pl/103/297/s5], Aug. 16, 1994, [108 Stat. 1549][/us/stat/108/1549]; [Pub. L. 111–203, title X, § 1100C(c)][/us/pl/111/203/s1100C/c], July 21, 2010, [124 Stat. 2111][/us/stat/124/2111].)
+([Pub. L. 103–297][/us/pl/103/297], § 5, Aug. 16, 1994, [108 Stat. 1549][/us/stat/108/1549]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100C(c), July 21, 2010, [124 Stat. 2111][/us/stat/124/2111].)
 
  __Amendments__ 
 
@@ -60,9 +60,9 @@
 [/us/usc/t15/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6102
 [/us/usc/t15/s6102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6102
 [/us/usc/t28/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1391
-[/us/pl/103/297/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297%2Fs5
+[/us/pl/103/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297
 [/us/stat/108/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1549
-[/us/pl/111/203/s1100C/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100C%2Fc
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2111
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203

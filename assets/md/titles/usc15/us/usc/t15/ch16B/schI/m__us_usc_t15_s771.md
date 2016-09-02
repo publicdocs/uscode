@@ -45,11 +45,11 @@
 
         (3) to a court in any judicial proceeding under court order.
 
-([Pub. L. 93–275, § 12][/us/pl/93/275/s12], May 7, 1974, [88 Stat. 106][/us/stat/88/106].)
+([Pub. L. 93–275][/us/pl/93/275], § 12, May 7, 1974, [88 Stat. 106][/us/stat/88/106].)
 
  __References in Text__ 
 
-    Subsections (d) and (g) of [section 766 of this title][/us/usc/t15/s766], referred to in subsec. (c), were repealed by [Pub. L. 95–91, title VII, § 709(a)(2)(B)][/us/pl/95/91/s709/a/2/B], Aug. 4, 1977, [91 Stat. 608][/us/stat/91/608].
+    Subsections (d) and (g) of [section 766 of this title][/us/usc/t15/s766], referred to in subsec. (c), were repealed by [Pub. L. 95–91, title VII][/us/pl/95/91/tVII], § 709(a)(2)(B), Aug. 4, 1977, [91 Stat. 608][/us/stat/91/608].
 
  __Transfer of Functions__ 
 
@@ -65,10 +65,10 @@
 ----------
 
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
-[/us/pl/93/275/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs12
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
 [/us/stat/88/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F106
 [/us/usc/t15/s766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs766
-[/us/pl/95/91/s709/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs709%2Fa%2F2%2FB
+[/us/pl/95/91/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtVII
 [/us/stat/91/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F608
 [/us/usc/t42/s7137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7137
 

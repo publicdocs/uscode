@@ -41,23 +41,23 @@
 
         (3) a civil defense officer.
 
-([Pub. L. 93–498, § 15][/us/pl/93/498/s15], Oct. 29, 1974, [88 Stat. 1544][/us/stat/88/1544]; [Pub. L. 98–241, title II, § 202][/us/pl/98/241/s202], Mar. 22, 1984, [98 Stat. 96][/us/stat/98/96]; [Pub. L. 106–503, title I, § 110(a)(2)(B)(iv)][/us/pl/106/503/s110/a/2/B/iv], (v), (C), Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302]; [Pub. L. 107–12, § 8][/us/pl/107/12/s8], May 30, 2001, [115 Stat. 22][/us/stat/115/22]; [Pub. L. 112–239, div. A, title XVIII, § 1802(b)][/us/pl/112/239/s1802/b], Jan. 2, 2013, [126 Stat. 2100][/us/stat/126/2100].)
+([Pub. L. 93–498][/us/pl/93/498], § 15, Oct. 29, 1974, [88 Stat. 1544][/us/stat/88/1544]; [Pub. L. 98–241, title II][/us/pl/98/241/tII], § 202, Mar. 22, 1984, [98 Stat. 96][/us/stat/98/96]; [Pub. L. 106–503, title I][/us/pl/106/503/tI], § 110(a)(2)(B)(iv), (v), (C), Nov. 13, 2000, [114 Stat. 2302][/us/stat/114/2302]; [Pub. L. 107–12][/us/pl/107/12], § 8, May 30, 2001, [115 Stat. 22][/us/stat/115/22]; [Pub. L. 112–239, div. A, title XVIII][/us/pl/112/239/dA/tXVIII], § 1802(b), Jan. 2, 2013, [126 Stat. 2100][/us/stat/126/2100].)
 
  __Amendments__ 
 
-    2013—[Pub. L. 112–239, § 1802(b)(2)][/us/pl/112/239/s1802/b/2], substituted “Administrator’s Award” for “Director’s Award” wherever appearing.
+    2013—[Pub. L. 112–239][/us/pl/112/239], § 1802(b)(2), substituted “Administrator’s Award” for “Director’s Award” wherever appearing.
 
-    [Pub. L. 112–239, § 1802(b)(1)][/us/pl/112/239/s1802/b/1], substituted “Administrator of FEMA” for “Director” in two places.
+    [Pub. L. 112–239][/us/pl/112/239], § 1802(b)(1), substituted “Administrator of FEMA” for “Director” in two places.
 
-    2001—Subsec. (a). [Pub. L. 107–12, § 8(1)][/us/pl/107/12/s8/1], added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There are hereby established two classes of honorary awards for the recognition of outstanding and distinguished service by public safety officers—
+    2001—Subsec. (a). [Pub. L. 107–12][/us/pl/107/12], § 8(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There are hereby established two classes of honorary awards for the recognition of outstanding and distinguished service by public safety officers—
 
     “(1) the President’s Award For Outstanding Public Safety Service (‘President’s Award’); and
 
     “(2) the Director’s Award For Distinguished Public Safety Service (‘Director’s Award’).”
 
-    Subsec. (b). [Pub. L. 107–12, § 8(2)][/us/pl/107/12/s8/2], struck out pars. (1) and (2) designations and text of par. (1) which read as follows: “The President’s Award shall be presented by the President of the United States to public safety officers for extraordinary valor in the line of duty or for outstanding contribution to public safety.”
+    Subsec. (b). [Pub. L. 107–12][/us/pl/107/12], § 8(2), struck out pars. (1) and (2) designations and text of par. (1) which read as follows: “The President’s Award shall be presented by the President of the United States to public safety officers for extraordinary valor in the line of duty or for outstanding contribution to public safety.”
 
-    Subsec. (c). [Pub. L. 107–12, § 8(3)][/us/pl/107/12/s8/3], (4), redesignated subsec. (e) as (c) and struck out pars. (1) and (2) designations and text of par. (1), which read as follows: “Each President’s Award shall consist of—
+    Subsec. (c). [Pub. L. 107–12][/us/pl/107/12], § 8(3), (4), redesignated subsec. (e) as (c) and struck out pars. (1) and (2) designations and text of par. (1), which read as follows: “Each President’s Award shall consist of—
 
     “(A) a medal suitably inscribed, bearing such devices and emblems, and struck from such material as the Secretary of the Treasury, after consultation with the Director and the Attorney General deems appropriate. The Secretary of the Treasury shall cause the medal to be struck and furnished to the President; and
 
@@ -65,29 +65,29 @@
 
     Former subsec. (c) was struck out.
 
-    [Pub. L. 107–12, § 8(3)][/us/pl/107/12/s8/3], struck out heading and text of subsec. (c). Text read as follows: “The Director and the Attorney General shall advise and assist the President in the selection of individuals to whom the President’s Award shall be tendered and in the course of performing such duties they shall seek and review nominations for such awards which are submitted to them by Federal, State, county, and local government officials. They shall annually transmit to the President the names of those individuals determined by them to merit the award, together with the reasons therefor. Recipients of the President’s Award shall be selected by the President.”
+    [Pub. L. 107–12][/us/pl/107/12], § 8(3), struck out heading and text of subsec. (c). Text read as follows: “The Director and the Attorney General shall advise and assist the President in the selection of individuals to whom the President’s Award shall be tendered and in the course of performing such duties they shall seek and review nominations for such awards which are submitted to them by Federal, State, county, and local government officials. They shall annually transmit to the President the names of those individuals determined by them to merit the award, together with the reasons therefor. Recipients of the President’s Award shall be selected by the President.”
 
-    Subsec. (d). [Pub. L. 107–12, § 8(3)][/us/pl/107/12/s8/3], redesignated subsec. (f) as (d) and struck out heading and text of former subsec. (d). Text read as follows:
+    Subsec. (d). [Pub. L. 107–12][/us/pl/107/12], § 8(3), redesignated subsec. (f) as (d) and struck out heading and text of former subsec. (d). Text read as follows:
 
     “(1) There shall not be presented in any one calendar year in excess of twelve President’s Awards.
 
     “(2) There shall be no limitation on the number of Director’s Awards presented.”
 
-    Subsecs. (e) to (g). [Pub. L. 107–12, § 8(3)][/us/pl/107/12/s8/3], redesignated subsecs. (e) to (g) as (c) to (e), respectively.
+    Subsecs. (e) to (g). [Pub. L. 107–12][/us/pl/107/12], § 8(3), redesignated subsecs. (e) to (g) as (c) to (e), respectively.
 
-    2000—Subsec. (a)(2). [Pub. L. 106–503, § 110(a)(2)(C)][/us/pl/106/503/s110/a/2/C], substituted “Director’s” for “Secretary’s” in two places.
+    2000—Subsec. (a)(2). [Pub. L. 106–503][/us/pl/106/503], § 110(a)(2)(C), substituted “Director’s” for “Secretary’s” in two places.
 
-    Subsec. (b)(2). [Pub. L. 106–503, § 110(a)(2)(B)(iv)][/us/pl/106/503/s110/a/2/B/iv], (C), substituted “Director’s” for “Secretary’s” and “Director” for “Secretary”.
+    Subsec. (b)(2). [Pub. L. 106–503][/us/pl/106/503], § 110(a)(2)(B)(iv), (C), substituted “Director’s” for “Secretary’s” and “Director” for “Secretary”.
 
-    Subsec. (c). [Pub. L. 106–503, § 110(a)(2)(B)(iv)][/us/pl/106/503/s110/a/2/B/iv], substituted “Director” for “Secretary”.
+    Subsec. (c). [Pub. L. 106–503][/us/pl/106/503], § 110(a)(2)(B)(iv), substituted “Director” for “Secretary”.
 
-    Subsec. (d)(2). [Pub. L. 106–503, § 110(a)(2)(C)][/us/pl/106/503/s110/a/2/C], substituted “Director’s” for “Secretary’s”.
+    Subsec. (d)(2). [Pub. L. 106–503][/us/pl/106/503], § 110(a)(2)(C), substituted “Director’s” for “Secretary’s”.
 
-    Subsec. (e)(1)(A). [Pub. L. 106–503, § 110(a)(2)(B)(v)][/us/pl/106/503/s110/a/2/B/v], substituted “with the Director” for “with the Secretary”.
+    Subsec. (e)(1)(A). [Pub. L. 106–503][/us/pl/106/503], § 110(a)(2)(B)(v), substituted “with the Director” for “with the Secretary”.
 
-    Subsec. (e)(2). [Pub. L. 106–503, § 110(a)(2)(C)][/us/pl/106/503/s110/a/2/C], substituted “Director’s” for “Secretary’s”.
+    Subsec. (e)(2). [Pub. L. 106–503][/us/pl/106/503], § 110(a)(2)(C), substituted “Director’s” for “Secretary’s”.
 
-    Subsec. (f). [Pub. L. 106–503, § 110(a)(2)(B)(iv)][/us/pl/106/503/s110/a/2/B/iv], substituted “Director” for “Secretary”.
+    Subsec. (f). [Pub. L. 106–503][/us/pl/106/503], § 110(a)(2)(B)(iv), substituted “Director” for “Secretary”.
 
     1984—Subsecs. (b)(2), (c), (e)(1)(A), (f). [Pub. L. 98–241][/us/pl/98/241] struck out “, the Secretary of Defense,” after “Secretary” wherever appearing.
 
@@ -130,31 +130,31 @@
 ----------
 ----------
 
-[/us/pl/93/498/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs15
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
 [/us/stat/88/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1544
-[/us/pl/98/241/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F241%2Fs202
+[/us/pl/98/241/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F241%2FtII
 [/us/stat/98/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F96
-[/us/pl/106/503/s110/a/2/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs110%2Fa%2F2%2FB%2Fiv
+[/us/pl/106/503/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2FtI
 [/us/stat/114/2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2302
-[/us/pl/107/12/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12%2Fs8
+[/us/pl/107/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12
 [/us/stat/115/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F22
-[/us/pl/112/239/s1802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1802%2Fb
+[/us/pl/112/239/dA/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVIII
 [/us/stat/126/2100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2100
-[/us/pl/112/239/s1802/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1802%2Fb%2F2
-[/us/pl/112/239/s1802/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1802%2Fb%2F1
-[/us/pl/107/12/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12%2Fs8%2F1
-[/us/pl/107/12/s8/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12%2Fs8%2F2
-[/us/pl/107/12/s8/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12%2Fs8%2F3
-[/us/pl/107/12/s8/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12%2Fs8%2F3
-[/us/pl/107/12/s8/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12%2Fs8%2F3
-[/us/pl/107/12/s8/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12%2Fs8%2F3
-[/us/pl/106/503/s110/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs110%2Fa%2F2%2FC
-[/us/pl/106/503/s110/a/2/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs110%2Fa%2F2%2FB%2Fiv
-[/us/pl/106/503/s110/a/2/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs110%2Fa%2F2%2FB%2Fiv
-[/us/pl/106/503/s110/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs110%2Fa%2F2%2FC
-[/us/pl/106/503/s110/a/2/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs110%2Fa%2F2%2FB%2Fv
-[/us/pl/106/503/s110/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs110%2Fa%2F2%2FC
-[/us/pl/106/503/s110/a/2/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503%2Fs110%2Fa%2F2%2FB%2Fiv
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
+[/us/pl/107/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12
+[/us/pl/107/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12
+[/us/pl/107/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12
+[/us/pl/107/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12
+[/us/pl/107/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12
+[/us/pl/107/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F12
+[/us/pl/106/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503
+[/us/pl/106/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503
+[/us/pl/106/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503
+[/us/pl/106/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503
+[/us/pl/106/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503
+[/us/pl/106/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503
+[/us/pl/106/503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F503
 [/us/pl/98/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F241
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542

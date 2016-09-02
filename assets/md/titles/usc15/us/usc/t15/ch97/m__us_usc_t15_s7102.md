@@ -37,7 +37,7 @@
 
         In performing its duties under subsection (a), the Interagency Committee shall consult with the Council. The Interagency Committee may meet jointly with the Council at the discretion of the chairperson of the Interagency Committee and the chairperson of the Council, but not less frequently than twice annually. The chairperson of the Interagency Committee shall serve as chairperson of any joint meetings of the Interagency Committee and the Council.
 
-([Pub. L. 100–533, title IV, § 402][/us/pl/100/533/s402], as added [Pub. L. 103–403, title IV, § 413][/us/pl/103/403/s413], Oct. 22, 1994, [108 Stat. 4193][/us/stat/108/4193].)
+([Pub. L. 100–533, title IV][/us/pl/100/533/tIV], § 402, as added [Pub. L. 103–403, title IV][/us/pl/103/403/tIV], § 413, Oct. 22, 1994, [108 Stat. 4193][/us/stat/108/4193].)
 
  __Prior Provisions__ 
 
@@ -50,8 +50,8 @@
 ----------
 ----------
 
-[/us/pl/100/533/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs402
-[/us/pl/103/403/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs413
+[/us/pl/100/533/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2FtIV
+[/us/pl/103/403/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtIV
 [/us/stat/108/4193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4193
 [/us/pl/100/533/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F533%2Fs402
 [/us/stat/102/2694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2694

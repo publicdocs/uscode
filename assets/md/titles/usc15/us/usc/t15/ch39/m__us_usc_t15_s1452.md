@@ -23,7 +23,7 @@
 
         The prohibition contained in subsection (a) shall not apply to persons engaged in business as wholesale or retail distributors of consumer commodities except to the extent that such persons (1) are engaged in the packaging or labeling of such commodities, or (2) prescribe or specify by any means the manner in which such commodities are packaged or labeled.
 
-([Pub. L. 89–755, § 3][/us/pl/89/755/s3], Nov. 3, 1966, [80 Stat. 1296][/us/stat/80/1296].)
+([Pub. L. 89–755][/us/pl/89/755], § 3, Nov. 3, 1966, [80 Stat. 1296][/us/stat/80/1296].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/89/755/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F755%2Fs3
+[/us/pl/89/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F755
 [/us/stat/80/1296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1296
 
 

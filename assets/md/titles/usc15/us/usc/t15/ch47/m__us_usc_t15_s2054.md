@@ -45,15 +45,15 @@
 
         Whenever the Federal contribution for any information, research, or development activity authorized by this chapter is more than minimal, the Commission shall include in any contract, grant, or other arrangement for such activity, provisions effective to insure that the rights to all information, uses, processes, patents, and other developments resulting from that activity will be made available to the public without charge on a nonexclusive basis. Nothing in this subsection shall be construed to deprive any person of any right which he may have had, prior to entering into any arrangement referred to in this subsection, to any patent, patent application, or invention.
 
-([Pub. L. 92–573, § 5][/us/pl/92/573/s5], Oct. 27, 1972, [86 Stat. 1211][/us/stat/86/1211]; [Pub. L. 97–35, title XII, § 1209(a)][/us/pl/97/35/s1209/a], (b), Aug. 13, 1981, [95 Stat. 720][/us/stat/95/720]; [Pub. L. 110–314, title II, § 204(a)(2)][/us/pl/110/314/s204/a/2], Aug. 14, 2008, [122 Stat. 3041][/us/stat/122/3041].)
+([Pub. L. 92–573][/us/pl/92/573], § 5, Oct. 27, 1972, [86 Stat. 1211][/us/stat/86/1211]; [Pub. L. 97–35, title XII][/us/pl/97/35/tXII], § 1209(a), (b), Aug. 13, 1981, [95 Stat. 720][/us/stat/95/720]; [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 204(a)(2), Aug. 14, 2008, [122 Stat. 3041][/us/stat/122/3041].)
 
  __Amendments__ 
 
     2008—Subsec. (a)(3). [Pub. L. 110–314][/us/pl/110/314] struck out “an advance notice of proposed rulemaking or” after “following publication of”.
 
-    1981—Subsec. (a)(3), (4). [Pub. L. 97–35, § 1209(a)][/us/pl/97/35/s1209/a], added pars. (3) and (4).
+    1981—Subsec. (a)(3), (4). [Pub. L. 97–35][/us/pl/97/35], § 1209(a), added pars. (3) and (4).
 
-    Subsec. (b)(3). [Pub. L. 97–35, § 1209(b)][/us/pl/97/35/s1209/b], struck out provision that the Commission may assist public and private organizations, administratively and technically, in the development of safety standards and test methods.
+    Subsec. (b)(3). [Pub. L. 97–35][/us/pl/97/35], § 1209(b), struck out provision that the Commission may assist public and private organizations, administratively and technically, in the development of safety standards and test methods.
 
  __Effective Date of 1981 Amendment__ 
 
@@ -61,7 +61,7 @@
 
  __Study of Aversive Agents__ 
 
-[Pub. L. 101–608, title II, § 204][/us/pl/101/608/s204], Nov. 16, 1990, [104 Stat. 3124][/us/stat/104/3124], provided that: 
+[Pub. L. 101–608, title II][/us/pl/101/608/tII], § 204, Nov. 16, 1990, [104 Stat. 3124][/us/stat/104/3124], provided that: 
 
 > “The Consumer Product Safety Commission shall conduct a study of requiring manufacturers of consumer products to include aversive agents, as appropriate, in products which present a hazard if ingested to determine the potential effectiveness of the aversive agents in deterring ingestion. In conducting the study, the Commission shall consult with appropriate consumer, health, and business organizations and appropriate government agencies. The Commission shall report to Congress the status of the study within one year of the date of the enactment of this Act \[Nov. 16, 1990\] and shall complete the study not later than 2 years after such date of enactment.”
 
@@ -143,13 +143,13 @@
 
  __Additional Reporting Time__ 
 
-[Pub. L. 99–500, § 110][/us/pl/99/500/s110], Oct. 18, 1986, [100 Stat. 1783–348][/us/stat/100/1783-348], and [Pub. L. 99–591, § 110][/us/pl/99/591/s110], Oct. 30, 1986, [100 Stat. 3341–348][/us/stat/100/3341-348], provided that: 
+[Pub. L. 99–500][/us/pl/99/500], § 110, Oct. 18, 1986, [100 Stat. 1783–348][/us/stat/100/1783-348], and [Pub. L. 99–591][/us/pl/99/591], § 110, Oct. 30, 1986, [100 Stat. 3341–348][/us/stat/100/3341-348], provided that: 
 
 > “The Interagency Committee on Cigarette and Little Cigar Fire Safety, established pursuant to [Public Law 98–567][/us/pl/98/567] \[set out as a note below\], shall have an additional six months to complete its final technical report and submit policy recommendations to the Congress.”
 
  __Cigarette Safety Act of 1984__ 
 
-[Pub. L. 98–567][/us/pl/98/567], Oct. 30, 1984, [98 Stat. 2925][/us/stat/98/2925], as amended by [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433], provided: 
+[Pub. L. 98–567][/us/pl/98/567], Oct. 30, 1984, [98 Stat. 2925][/us/stat/98/2925], as amended by [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5115(c), Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433], provided: 
 
 > “That this Act may be cited as the ‘Cigarette Safety Act of 1984’.
 
@@ -208,32 +208,32 @@
 ----------
 ----------
 
-[/us/pl/92/573/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs5
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
 [/us/stat/86/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1211
-[/us/pl/97/35/s1209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1209%2Fa
+[/us/pl/97/35/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXII
 [/us/stat/95/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F720
-[/us/pl/110/314/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs204%2Fa%2F2
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3041
 [/us/pl/110/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314
-[/us/pl/97/35/s1209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1209%2Fa
-[/us/pl/97/35/s1209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1209%2Fb
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/97/35/s1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1215
 [/us/usc/t15/s2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2052
-[/us/pl/101/608/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2Fs204
+[/us/pl/101/608/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F608%2FtII
 [/us/stat/104/3124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3124
 [/us/pl/101/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F352
 [/us/stat/104/405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F405
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
-[/us/pl/99/500/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs110
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-348
-[/us/pl/99/591/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs110
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-348
 [/us/pl/98/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F567
 [/us/pl/98/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F567
 [/us/stat/98/2925]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2925
-[/us/pl/100/418/s5115/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5115%2Fc
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1433
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905

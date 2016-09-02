@@ -57,13 +57,13 @@
 
         the court shall exclude such issue from the operation of the restraining order or injunction.
 
-([Sept. 26, 1914, ch. 311, § 13][/us/act/1914-09-26/ch311/s13], as added [Mar. 21, 1938, ch. 49, § 4][/us/act/1938-03-21/ch49/s4], [52 Stat. 114][/us/stat/52/114]; amended [Pub. L. 93–153, title IV, § 408(f)][/us/pl/93/153/s408/f], Nov. 16, 1973, [87 Stat. 592][/us/stat/87/592]; [Pub. L. 103–312, § 10][/us/pl/103/312/s10], Aug. 26, 1994, [108 Stat. 1695][/us/stat/108/1695].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 13, as added [Mar. 21, 1938, ch. 49][/us/act/1938-03-21/ch49], § 4, [52 Stat. 114][/us/stat/52/114]; amended [Pub. L. 93–153, title IV][/us/pl/93/153/tIV], § 408(f), Nov. 16, 1973, [87 Stat. 592][/us/stat/87/592]; [Pub. L. 103–312][/us/pl/103/312], § 10, Aug. 26, 1994, [108 Stat. 1695][/us/stat/108/1695].)
 
  __Amendments__ 
 
-    1994—Subsecs. (a), (b). [Pub. L. 103–312, § 10(a)][/us/pl/103/312/s10/a], in concluding provisions, substituted “Any suit may be brought where such person, partnership, or corporation resides or transacts business, or wherever venue is proper under [section 1391 of title 28][/us/usc/t28/s1391]. In addition, the court may, if the court determines that the interests of justice require that any other person, partnership, or corporation should be a party in such suit, cause such other person, partnership, or corporation to be added as a party without regard to whether venue is otherwise proper in the district in which the suit is brought. In any suit under this section, process may be served on any person, partnership, or corporation wherever it may be found.” for “Any such suit shall be brought in the district in which such person, partnership, or corporation resides or transacts business.”
+    1994—Subsecs. (a), (b). [Pub. L. 103–312][/us/pl/103/312], § 10(a), in concluding provisions, substituted “Any suit may be brought where such person, partnership, or corporation resides or transacts business, or wherever venue is proper under [section 1391 of title 28][/us/usc/t28/s1391]. In addition, the court may, if the court determines that the interests of justice require that any other person, partnership, or corporation should be a party in such suit, cause such other person, partnership, or corporation to be added as a party without regard to whether venue is otherwise proper in the district in which the suit is brought. In any suit under this section, process may be served on any person, partnership, or corporation wherever it may be found.” for “Any such suit shall be brought in the district in which such person, partnership, or corporation resides or transacts business.”
 
-    Subsecs. (c), (d). [Pub. L. 103–312, § 10(b)][/us/pl/103/312/s10/b], added subsec. (c) and redesignated former subsec. (c) as (d).
+    Subsecs. (c), (d). [Pub. L. 103–312][/us/pl/103/312], § 10(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
     1973—Subsecs. (b), (c). [Pub. L. 93–153][/us/pl/93/153] added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -83,16 +83,16 @@
 [/us/usc/t15/s45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs45
 [/us/usc/t28/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1391
 [/us/usc/t28/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1391
-[/us/act/1914-09-26/ch311/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs13
-[/us/act/1938-03-21/ch49/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-03-21%2Fch49%2Fs4
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
+[/us/act/1938-03-21/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-03-21%2Fch49
 [/us/stat/52/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F114
-[/us/pl/93/153/s408/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F153%2Fs408%2Ff
+[/us/pl/93/153/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F153%2FtIV
 [/us/stat/87/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F592
-[/us/pl/103/312/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs10
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
 [/us/stat/108/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1695
-[/us/pl/103/312/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs10%2Fa
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
 [/us/usc/t28/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1391
-[/us/pl/103/312/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312%2Fs10%2Fb
+[/us/pl/103/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F312
 [/us/pl/93/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F153
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41

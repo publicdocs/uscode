@@ -55,7 +55,7 @@
 
  __References in Text__ 
 
-    [Section 79z–4 of this title][/us/usc/t15/s79z–4], referred to in text, was repealed by [Pub. L. 109–58, title XII, § 1263][/us/pl/109/58/s1263], Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974].
+    [Section 79z–4 of this title][/us/usc/t15/s79z–4], referred to in text, was repealed by [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1263, Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974].
 
  __Transfer of Functions__ 
 
@@ -71,7 +71,7 @@
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F789
 [/us/usc/t15/s79z–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs79z%E2%80%934
-[/us/pl/109/58/s1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1263
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F974
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t15/s78d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d

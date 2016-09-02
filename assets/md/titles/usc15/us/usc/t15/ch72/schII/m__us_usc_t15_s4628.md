@@ -23,7 +23,7 @@
 
         Each national laboratory shall maintain a record of all agreements entered into under this section.
 
-([Pub. L. 100–180, div. C, title I, § 3148][/us/pl/100/180/s3148], Dec. 4, 1987, [101 Stat. 1244][/us/stat/101/1244].)
+([Pub. L. 100–180, div. C, title I][/us/pl/100/180/dC/tI], § 3148, Dec. 4, 1987, [101 Stat. 1244][/us/stat/101/1244].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t15/s4627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4627
-[/us/pl/100/180/s3148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs3148
+[/us/pl/100/180/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2FdC%2FtI
 [/us/stat/101/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1244
 
 

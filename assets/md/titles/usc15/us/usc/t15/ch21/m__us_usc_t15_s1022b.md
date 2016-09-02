@@ -23,7 +23,7 @@
 
         In choosing means to achieve the goal for the reduction of unemployment and choosing means to achieve the goal of reasonable price stability, those means which are mutually reinforcing shall be used to the extent practicable.
 
-([Feb. 20, 1946, ch. 33, § 5][/us/act/1946-02-20/ch33/s5], as added [Pub. L. 95–523, title I, § 105][/us/pl/95/523/s105], Oct. 27, 1978, [92 Stat. 1895][/us/stat/92/1895].)
+([Feb. 20, 1946, ch. 33][/us/act/1946-02-20/ch33], § 5, as added [Pub. L. 95–523, title I][/us/pl/95/523/tI], § 105, Oct. 27, 1978, [92 Stat. 1895][/us/stat/92/1895].)
 
  __References in Text__ 
 
@@ -41,8 +41,8 @@
 ----------
 
 [/us/usc/t15/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3101
-[/us/act/1946-02-20/ch33/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-20%2Fch33%2Fs5
-[/us/pl/95/523/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2Fs105
+[/us/act/1946-02-20/ch33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-02-20%2Fch33
+[/us/pl/95/523/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523%2FtI
 [/us/stat/92/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1895
 [/us/pl/95/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F523
 [/us/stat/92/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1887

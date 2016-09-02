@@ -17,7 +17,7 @@
 
     The maximum obligation of the Board under all outstanding loans guaranteed by it shall not exceed at any time $250,000,000.
 
-([Pub. L. 92–70, § 8][/us/pl/92/70/s8], Aug. 9, 1971, [85 Stat. 181][/us/stat/85/181].)
+([Pub. L. 92–70][/us/pl/92/70], § 8, Aug. 9, 1971, [85 Stat. 181][/us/stat/85/181].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/92/70/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70%2Fs8
+[/us/pl/92/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F70
 [/us/stat/85/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F181
 
 

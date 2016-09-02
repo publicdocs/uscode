@@ -17,7 +17,7 @@
 
     No action shall be maintained to enforce any liability created under section 77k or 77l(a)(2) of this title unless brought within one year after the discovery of the untrue statement or the omission, or after such discovery should have been made by the exercise of reasonable diligence, or, if the action is to enforce a liability created under section 77l(a)(1) of this title, unless brought within one year after the violation upon which it is based. In no event shall any such action be brought to enforce a liability created under section 77k or 77l(a)(1) of this title more than three years after the security was bona fide offered to the public, or under section 77l(a)(2) of this title more than three years after the sale.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 13, [48 Stat. 84][/us/stat/48/84]; [June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title II, § 207, [48 Stat. 908][/us/stat/48/908]; [Pub. L. 105–353, title III, § 301(a)(3)][/us/pl/105/353/s301/a/3], Nov. 3, 1998, [112 Stat. 3235][/us/stat/112/3235].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 13, [48 Stat. 84][/us/stat/48/84]; [June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title II, § 207, [48 Stat. 908][/us/stat/48/908]; [Pub. L. 105–353, title III][/us/pl/105/353/tIII], § 301(a)(3), Nov. 3, 1998, [112 Stat. 3235][/us/stat/112/3235].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 [/us/stat/48/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F84
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F908
-[/us/pl/105/353/s301/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs301%2Fa%2F3
+[/us/pl/105/353/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtIII
 [/us/stat/112/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3235
 [/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
 

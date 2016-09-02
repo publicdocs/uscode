@@ -43,13 +43,13 @@
 
         In carrying out this chapter, the Administrator may by subpoena require the attendance and testimony of witnesses and the production of reports, papers, documents, answers to questions, and other information that the Administrator deems necessary. Witnesses shall be paid the same fees and mileage that are paid witnesses in the courts of the United States. In the event of contumacy, failure, or refusal of any person to obey any such subpoena, any district court of the United States in which venue is proper shall have jurisdiction to order any such person to comply with such subpoena. Any failure to obey such an order of the court is punishable by the court as a contempt thereof.
 
-([Pub. L. 94–469, title I, § 11][/us/pl/94/469/s11], Oct. 11, 1976, [90 Stat. 2032][/us/stat/90/2032]; renumbered title I, [Pub. L. 99–519, § 3(c)(1)][/us/pl/99/519/s3/c/1], Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 102–550, title X, § 1021(b)(2)][/us/pl/102/550/s1021/b/2], (3), Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923].)
+([Pub. L. 94–469, title I][/us/pl/94/469/tI], § 11, Oct. 11, 1976, [90 Stat. 2032][/us/stat/90/2032]; renumbered title I, [Pub. L. 99–519][/us/pl/99/519], § 3(c)(1), Oct. 22, 1986, [100 Stat. 2989][/us/stat/100/2989]; amended [Pub. L. 102–550, title X][/us/pl/102/550/tX], § 1021(b)(2), (3), Oct. 28, 1992, [106 Stat. 3923][/us/stat/106/3923].)
 
  __Amendments__ 
 
-    1992—Subsec. (a). [Pub. L. 102–550, § 1021(b)(2)][/us/pl/102/550/s1021/b/2], in first sentence, substituted “substances, mixtures, or products subject to subchapter IV” for “substances or mixtures” and inserted “such products,” before “or such articles”.
+    1992—Subsec. (a). [Pub. L. 102–550][/us/pl/102/550], § 1021(b)(2), in first sentence, substituted “substances, mixtures, or products subject to subchapter IV” for “substances or mixtures” and inserted “such products,” before “or such articles”.
 
-    Subsec. (b)(1). [Pub. L. 102–550, § 1021(b)(3)][/us/pl/102/550/s1021/b/3], substituted “chemical substances, mixtures, or products subject to subchapter IV” for “chemical substances or mixtures”.
+    Subsec. (b)(1). [Pub. L. 102–550][/us/pl/102/550], § 1021(b)(3), substituted “chemical substances, mixtures, or products subject to subchapter IV” for “chemical substances or mixtures”.
 
 ----------
 
@@ -58,13 +58,13 @@
 ----------
 ----------
 
-[/us/pl/94/469/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs11
+[/us/pl/94/469/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtI
 [/us/stat/90/2032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2032
-[/us/pl/99/519/s3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519%2Fs3%2Fc%2F1
+[/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519
 [/us/stat/100/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2989
-[/us/pl/102/550/s1021/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1021%2Fb%2F2
+[/us/pl/102/550/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2FtX
 [/us/stat/106/3923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3923
-[/us/pl/102/550/s1021/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1021%2Fb%2F2
-[/us/pl/102/550/s1021/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1021%2Fb%2F3
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
+[/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 
 

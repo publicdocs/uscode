@@ -17,7 +17,7 @@
 
     Proposals received by the Department of Energy before November 17, 1988, may be carried out without regard to changes in the management plan and research plan required by this chapter.
 
-([Pub. L. 100–680, § 10][/us/pl/100/680/s10], Nov. 17, 1988, [102 Stat. 4076][/us/stat/102/4076].)
+([Pub. L. 100–680][/us/pl/100/680], § 10, Nov. 17, 1988, [102 Stat. 4076][/us/stat/102/4076].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/680/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F680%2Fs10
+[/us/pl/100/680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F680
 [/us/stat/102/4076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4076
 
 

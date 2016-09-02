@@ -17,7 +17,7 @@
 
     As used in this chapter, “persons” means any individual, partnership, corporation, or unincorporated association or any combination or association thereof.
 
-([Pub. L. 87–331, § 5][/us/pl/87/331/s5], Sept. 30, 1961, [75 Stat. 732][/us/stat/75/732].)
+([Pub. L. 87–331][/us/pl/87/331], § 5, Sept. 30, 1961, [75 Stat. 732][/us/stat/75/732].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/87/331/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F331%2Fs5
+[/us/pl/87/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F331
 [/us/stat/75/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F732
 
 

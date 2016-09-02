@@ -41,19 +41,19 @@
 
         For the purposes of this section, any person who printed an expiration date on any receipt provided to a consumer cardholder at a point of sale or transaction between December 4, 2004, and June 3, 2008, but otherwise complied with the requirements of [section 1681c(g) of this title][/us/usc/t15/s1681c/g] for such receipt shall not be in willful noncompliance with [section 1681c(g) of this title][/us/usc/t15/s1681c/g] by reason of printing such expiration date on the receipt.
 
-([Pub. L. 90–321, title VI, § 616][/us/pl/90/321/s616], as added [Pub. L. 91–508, title VI, § 601][/us/pl/91/508/s601], Oct. 26, 1970, [84 Stat. 1134][/us/stat/84/1134]; amended [Pub. L. 104–208, div. A, title II, § 2412(a)][/us/pl/104/208/s2412/a]–(c), (e)(1), Sept. 30, 1996, [110 Stat. 3009–446][/us/stat/110/3009-446]; [Pub. L. 110–241, § 3(a)][/us/pl/110/241/s3/a], June 3, 2008, [122 Stat. 1566][/us/stat/122/1566].)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 616, as added [Pub. L. 91–508, title VI][/us/pl/91/508/tVI], § 601, Oct. 26, 1970, [84 Stat. 1134][/us/stat/84/1134]; amended [Pub. L. 104–208, div. A, title II][/us/pl/104/208/dA/tII], § 2412(a)–(c), (e)(1), Sept. 30, 1996, [110 Stat. 3009–446][/us/stat/110/3009-446]; [Pub. L. 110–241][/us/pl/110/241], § 3(a), June 3, 2008, [122 Stat. 1566][/us/stat/122/1566].)
 
  __Amendments__ 
 
     2008—Subsec. (d). [Pub. L. 110–241][/us/pl/110/241] added subsec. (d).
 
-    1996—Subsec. (a). [Pub. L. 104–208, § 2412(a)][/us/pl/104/208/s2412/a], designated existing provisions as subsec. (a), inserted heading, and in introductory provisions substituted “Any person who” for “Any consumer reporting agency or user of information which”.
+    1996—Subsec. (a). [Pub. L. 104–208][/us/pl/104/208], § 2412(a), designated existing provisions as subsec. (a), inserted heading, and in introductory provisions substituted “Any person who” for “Any consumer reporting agency or user of information which”.
 
-    Subsec. (a)(1). [Pub. L. 104–208, § 2412(b)][/us/pl/104/208/s2412/b], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “any actual damages sustained by the consumer as a result of the failure;”.
+    Subsec. (a)(1). [Pub. L. 104–208][/us/pl/104/208], § 2412(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “any actual damages sustained by the consumer as a result of the failure;”.
 
-    Subsec. (b). [Pub. L. 104–208, § 2412(c)][/us/pl/104/208/s2412/c], added subsec. (b).
+    Subsec. (b). [Pub. L. 104–208][/us/pl/104/208], § 2412(c), added subsec. (b).
 
-    Subsec. (c). [Pub. L. 104–208, § 2412(e)(1)][/us/pl/104/208/s2412/e/1], added subsec. (c).
+    Subsec. (c). [Pub. L. 104–208][/us/pl/104/208], § 2412(e)(1), added subsec. (c).
 
  __Effective Date of 1996 Amendment__ 
 
@@ -61,13 +61,13 @@
 
  __Construction__ 
 
-[Pub. L. 108–159, title III, § 312(f)][/us/pl/108/159/s312/f], Dec. 4, 2003, [117 Stat. 1993][/us/stat/117/1993], provided that: 
+[Pub. L. 108–159, title III][/us/pl/108/159/tIII], § 312(f), Dec. 4, 2003, [117 Stat. 1993][/us/stat/117/1993], provided that: 
 
 > “Nothing in this section, the amendments made by this section, or any other provision of this Act \[see Short Title of 2003 Amendment note set out under [section 1601 of this title][/us/usc/t15/s1601]\] shall be construed to affect any liability under section 616 or 617 of the Fair Credit Reporting Act ([15 U.S.C. 1681n][/us/usc/t15/s1681n], 1681o) that existed on the day before the date of enactment of this Act \[Dec. 4, 2003\].”
 
  __Statement of Findings and Purpose for 2008 Amendment__ 
 
-[Pub. L. 110–241, § 2][/us/pl/110/241/s2], June 3, 2008, [122 Stat. 1565][/us/stat/122/1565], provided that:
+[Pub. L. 110–241][/us/pl/110/241], § 2, June 3, 2008, [122 Stat. 1565][/us/stat/122/1565], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -93,7 +93,7 @@
 
  __Retroactive Effect of 2008 Amendment__ 
 
-[Pub. L. 110–241, § 3(b)][/us/pl/110/241/s3/b], June 3, 2008, [122 Stat. 1566][/us/stat/122/1566], provided that: 
+[Pub. L. 110–241][/us/pl/110/241], § 3(b), June 3, 2008, [122 Stat. 1566][/us/stat/122/1566], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to any action, other than an action which has become final, that is brought for a violation of \[section\] 605(g) of the Fair Credit Reporting Act \[[15 U.S.C. 1681c(g)][/us/usc/t15/s1681c/g]\] to which such amendment applies without regard to whether such action is brought before or after the date of the enactment of this Act \[June 3, 2008\].”
 
@@ -106,32 +106,32 @@
 
 [/us/usc/t15/s1681c/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681c%2Fg
 [/us/usc/t15/s1681c/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681c%2Fg
-[/us/pl/90/321/s616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs616
-[/us/pl/91/508/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2Fs601
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/91/508/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508%2FtVI
 [/us/stat/84/1134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1134
-[/us/pl/104/208/s2412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2412%2Fa
+[/us/pl/104/208/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtII
 [/us/stat/110/3009-446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-446
-[/us/pl/110/241/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F241%2Fs3%2Fa
+[/us/pl/110/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F241
 [/us/stat/122/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1566
 [/us/pl/110/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F241
-[/us/pl/104/208/s2412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2412%2Fa
-[/us/pl/104/208/s2412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2412%2Fb
-[/us/pl/104/208/s2412/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2412%2Fc
-[/us/pl/104/208/s2412/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2412%2Fe%2F1
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
+[/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/208/s2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs2420
 [/us/usc/t15/s1681a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681a
-[/us/pl/108/159/s312/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs312%2Ff
+[/us/pl/108/159/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtIII
 [/us/stat/117/1993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1993
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/usc/t15/s1681n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681n
-[/us/pl/110/241/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F241%2Fs2
+[/us/pl/110/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F241
 [/us/stat/122/1565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1565
 [/us/pl/108/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
 [/us/usc/t15/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601
-[/us/pl/110/241/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F241%2Fs3%2Fb
+[/us/pl/110/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F241
 [/us/stat/122/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1566
 [/us/usc/t15/s1681c/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681c%2Fg
 

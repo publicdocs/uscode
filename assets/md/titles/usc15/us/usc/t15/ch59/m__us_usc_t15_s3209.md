@@ -29,7 +29,7 @@
 
         (3) his actions under this chapter, and his recommendations for such further Federal actions, including any legislation, regarding retail gas utility rates (and other practices) as may be necessary to carry out the purposes of this chapter.
 
-([Pub. L. 95–617, title III, § 309][/us/pl/95/617/s309], Nov. 9, 1978, [92 Stat. 3153][/us/stat/92/3153].)
+([Pub. L. 95–617, title III][/us/pl/95/617/tIII], § 309, Nov. 9, 1978, [92 Stat. 3153][/us/stat/92/3153].)
 
  __Definitions__ 
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/pl/95/617/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs309
+[/us/pl/95/617/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2FtIII
 [/us/stat/92/3153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3153
 [/us/usc/t16/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2602
 

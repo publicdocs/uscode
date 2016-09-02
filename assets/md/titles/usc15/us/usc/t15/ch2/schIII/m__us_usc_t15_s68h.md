@@ -19,7 +19,7 @@
 
     Whenever the Commission has reason to believe any person is guilty of a misdemeanor under this section, it shall certify all pertinent facts to the Attorney General, whose duty it shall be to cause appropriate proceedings to be brought for the enforcement of the provisions of this section against such person.
 
-([Oct. 14, 1940, ch. 871, § 10][/us/act/1940-10-14/ch871/s10], [54 Stat. 1133][/us/stat/54/1133].)
+([Oct. 14, 1940, ch. 871][/us/act/1940-10-14/ch871], § 10, [54 Stat. 1133][/us/stat/54/1133].)
 
  __Transfer of Functions__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1940-10-14/ch871/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch871%2Fs10
+[/us/act/1940-10-14/ch871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch871
 [/us/stat/54/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1133
 [/us/stat/64/1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1264
 [/us/usc/t15/s41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs41

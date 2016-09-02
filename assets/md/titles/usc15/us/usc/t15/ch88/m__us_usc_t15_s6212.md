@@ -17,7 +17,7 @@
 
     The Attorney General and the Commission are authorized to receive from a foreign antitrust authority, or from the foreign state or regional economic integration organization represented by such foreign antitrust authority, reimbursement for the costs incurred by the Attorney General or the Commission, respectively, in conducting an investigation under [section 6202 of this title][/us/usc/t15/s6202] requested by such foreign antitrust authority, applying for an order under [section 6203 of this title][/us/usc/t15/s6203] to assist such foreign antitrust authority, or providing antitrust evidence to such foreign antitrust authority under an antitrust mutual assistance agreement in effect under this chapter with respect to such foreign antitrust authority.
 
-([Pub. L. 103–438, § 13][/us/pl/103/438/s13], Nov. 2, 1994, [108 Stat. 4605][/us/stat/108/4605].)
+([Pub. L. 103–438][/us/pl/103/438], § 13, Nov. 2, 1994, [108 Stat. 4605][/us/stat/108/4605].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t15/s6202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6202
 [/us/usc/t15/s6203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6203
-[/us/pl/103/438/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438%2Fs13
+[/us/pl/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438
 [/us/stat/108/4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4605
 
 

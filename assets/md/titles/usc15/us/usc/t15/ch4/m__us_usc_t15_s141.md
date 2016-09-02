@@ -17,7 +17,7 @@
 
     This chapter may be cited as the “China Trade Act, 1922.”
 
-([Sept. 19, 1922, ch. 346, § 1][/us/act/1922-09-19/ch346/s1], [42 Stat. 849][/us/stat/42/849].)
+([Sept. 19, 1922, ch. 346][/us/act/1922-09-19/ch346], § 1, [42 Stat. 849][/us/stat/42/849].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1922-09-19/ch346/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346%2Fs1
+[/us/act/1922-09-19/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346
 [/us/stat/42/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F849
 [/us/act/1922-09-19/ch346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1922-09-19%2Fch346
 [/us/stat/42/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F849

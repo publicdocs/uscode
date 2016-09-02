@@ -127,7 +127,7 @@
 
         In addition to any other remedy contained in this section, injunctive relief shall be available to require compliance with the procedures of this section. In the event of any successful action under this subsection, costs together with reasonable attorney fees, as determined by the court, may be recovered.
 
-([Pub. L. 90–321, title VI, § 626][/us/pl/90/321/s626], formerly § 624, as added [Pub. L. 104–93, title VI, § 601(a)][/us/pl/104/93/s601/a], Jan. 6, 1996, [109 Stat. 974][/us/stat/109/974]; renumbered § 625 and amended [Pub. L. 107–56, title III, § 358(g)(1)(A)][/us/pl/107/56/s358/g/1/A], title V, § 505(c), Oct. 26, 2001, [115 Stat. 327][/us/stat/115/327], 366; [Pub. L. 107–306, title VIII, § 811(b)(8)(B)][/us/pl/107/306/s811/b/8/B], Nov. 27, 2002, [116 Stat. 2426][/us/stat/116/2426]; renumbered § 626, [Pub. L. 108–159, title II, § 214(a)(1)][/us/pl/108/159/s214/a/1], Dec. 4, 2003, [117 Stat. 1980][/us/stat/117/1980]; [Pub. L. 109–177, title I, § 116(b)][/us/pl/109/177/s116/b], Mar. 9, 2006, [120 Stat. 214][/us/stat/120/214]; [Pub. L. 109–178, § 4(c)(1)][/us/pl/109/178/s4/c/1], Mar. 9, 2006, [120 Stat. 280][/us/stat/120/280]; [Pub. L. 114–23, title V][/us/pl/114/23], §§ 501(c), 502(c), 503(c), June 2, 2015, [129 Stat. 282][/us/stat/129/282], 285, 290.)
+([Pub. L. 90–321, title VI][/us/pl/90/321/tVI], § 626, formerly § 624, as added [Pub. L. 104–93, title VI][/us/pl/104/93/tVI], § 601(a), Jan. 6, 1996, [109 Stat. 974][/us/stat/109/974]; renumbered § 625 and amended [Pub. L. 107–56, title III][/us/pl/107/56/tIII], § 358(g)(1)(A), title V, § 505(c), Oct. 26, 2001, [115 Stat. 327][/us/stat/115/327], 366; [Pub. L. 107–306, title VIII][/us/pl/107/306/tVIII], § 811(b)(8)(B), Nov. 27, 2002, [116 Stat. 2426][/us/stat/116/2426]; renumbered § 626, [Pub. L. 108–159, title II][/us/pl/108/159/tII], § 214(a)(1), Dec. 4, 2003, [117 Stat. 1980][/us/stat/117/1980]; [Pub. L. 109–177, title I][/us/pl/109/177/tI], § 116(b), Mar. 9, 2006, [120 Stat. 214][/us/stat/120/214]; [Pub. L. 109–178][/us/pl/109/178], § 4(c)(1), Mar. 9, 2006, [120 Stat. 280][/us/stat/120/280]; [Pub. L. 114–23, title V][/us/pl/114/23/tV], §§ 501(c), 502(c), 503(c), June 2, 2015, [129 Stat. 282][/us/stat/129/282], 285, 290.)
 
  __References in Text__ 
 
@@ -139,15 +139,15 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–23, § 501(c)(1)][/us/pl/114/23/s501/c/1], substituted “that information that includes a term that specifically identifies a consumer or account to be used as the basis for the production of that information,” for “that information,”.
+    2015—Subsec. (a). [Pub. L. 114–23][/us/pl/114/23], § 501(c)(1), substituted “that information that includes a term that specifically identifies a consumer or account to be used as the basis for the production of that information,” for “that information,”.
 
-    Subsec. (b). [Pub. L. 114–23, § 501(c)(2)][/us/pl/114/23/s501/c/2], substituted “written request that includes a term that specifically identifies a consumer or account to be used as the basis for the production of that information,” for “written request,”.
+    Subsec. (b). [Pub. L. 114–23][/us/pl/114/23], § 501(c)(2), substituted “written request that includes a term that specifically identifies a consumer or account to be used as the basis for the production of that information,” for “written request,”.
 
-    Subsec. (c). [Pub. L. 114–23, § 501(c)(3)][/us/pl/114/23/s501/c/3], inserted “, which shall include a term that specifically identifies a consumer or account to be used as the basis for the production of the information,” after “issue an order ex parte”.
+    Subsec. (c). [Pub. L. 114–23][/us/pl/114/23], § 501(c)(3), inserted “, which shall include a term that specifically identifies a consumer or account to be used as the basis for the production of the information,” after “issue an order ex parte”.
 
-    Subsec. (d). [Pub. L. 114–23, § 502(c)][/us/pl/114/23/s502/c], added subsec. (d) and struck out former subsec. (d) which related to confidentiality.
+    Subsec. (d). [Pub. L. 114–23][/us/pl/114/23], § 502(c), added subsec. (d) and struck out former subsec. (d) which related to confidentiality.
 
-    Subsecs. (e) to (n). [Pub. L. 114–23, § 503(c)][/us/pl/114/23/s503/c], added subsec. (e) and redesignated former subsecs. (e) to (m) as (f) to (n), respectively.
+    Subsecs. (e) to (n). [Pub. L. 114–23][/us/pl/114/23], § 503(c), added subsec. (e) and redesignated former subsecs. (e) to (m) as (f) to (n), respectively.
 
     2006—Subsec. (d). [Pub. L. 109–177][/us/pl/109/177] reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “No consumer reporting agency or officer, employee, or agent of a consumer reporting agency shall disclose to any person, other than those officers, employees, or agents of a consumer reporting agency necessary to fulfill the requirement to disclose information to the Federal Bureau of Investigation under this section, that the Federal Bureau of Investigation has sought or obtained the identity of financial institutions or a consumer report respecting any consumer under subsection (a), (b), or (c) of this section, and no consumer reporting agency or officer, employee, or agent of a consumer reporting agency shall include in any consumer report any information that would indicate that the Federal Bureau of Investigation has sought or obtained such information or a consumer report.”
 
@@ -155,13 +155,13 @@
 
     2002—Subsec. (h). [Pub. L. 107–306][/us/pl/107/306] designated existing provisions as par. (1) and added par. (2).
 
-    2001—[Pub. L. 107–56, § 505(c)][/us/pl/107/56/s505/c], which directed amendment of section 624 of the Fair Credit Reporting Act, was executed by making the amendment to this section to reflect the probable intent of Congress and the renumbering of section 624 as 625 by [section 358(g)(1)(A) of Pub. L. 107–56][/us/pl/107/56/s358/g/1/A]. See below.
+    2001—[Pub. L. 107–56][/us/pl/107/56], § 505(c), which directed amendment of section 624 of the Fair Credit Reporting Act, was executed by making the amendment to this section to reflect the probable intent of Congress and the renumbering of section 624 as 625 by [section 358(g)(1)(A) of Pub. L. 107–56][/us/pl/107/56/s358/g/1/A]. See below.
 
-    Subsec. (a). [Pub. L. 107–56, § 505(c)(1)][/us/pl/107/56/s505/c/1], inserted “in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge of a Bureau field office designated by the Director” after “Investigation, or the Director’s designee” and substituted “in writing, that such information is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for pars. (1) and (2) requiring determination in writing that the information requested is necessary for the conduct of an authorized foreign counterintelligence investigation and that there are specific and articulable facts giving reason to believe that the consumer is a foreign power or a person who is not a United States person and is an official of a foreign power, or that the consumer is an agent of a foreign power and is engaging or has engaged in an act of international terrorism or clandestine intelligence activities that involve or may involve a violation of criminal statutes of the United States.
+    Subsec. (a). [Pub. L. 107–56][/us/pl/107/56], § 505(c)(1), inserted “in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge of a Bureau field office designated by the Director” after “Investigation, or the Director’s designee” and substituted “in writing, that such information is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for pars. (1) and (2) requiring determination in writing that the information requested is necessary for the conduct of an authorized foreign counterintelligence investigation and that there are specific and articulable facts giving reason to believe that the consumer is a foreign power or a person who is not a United States person and is an official of a foreign power, or that the consumer is an agent of a foreign power and is engaging or has engaged in an act of international terrorism or clandestine intelligence activities that involve or may involve a violation of criminal statutes of the United States.
 
-    Subsec. (b). [Pub. L. 107–56, § 505(c)(2)][/us/pl/107/56/s505/c/2], inserted “in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge of a Bureau field office designated by the Director” after “signed by the Director or the Director’s designee” and substituted “in writing that such information is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for pars. (1) and (2) requiring determination in writing that the information requested is necessary to the conduct of an authorized counterintelligence investigation and that there is information giving reason to believe that the consumer has been, or is about to be, in contact with a foreign power or an agent of a foreign power.
+    Subsec. (b). [Pub. L. 107–56][/us/pl/107/56], § 505(c)(2), inserted “in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge of a Bureau field office designated by the Director” after “signed by the Director or the Director’s designee” and substituted “in writing that such information is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for pars. (1) and (2) requiring determination in writing that the information requested is necessary to the conduct of an authorized counterintelligence investigation and that there is information giving reason to believe that the consumer has been, or is about to be, in contact with a foreign power or an agent of a foreign power.
 
-    Subsec. (c). [Pub. L. 107–56, § 505(c)(3)][/us/pl/107/56/s505/c/3], inserted “in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director” after “designee of the Director” and substituted “in camera that the consumer report is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for pars. (1) and (2) requiring a showing in camera that the consumer report is necessary for the conduct of an authorized foreign counterintelligence investigation and there are specific and articulable facts giving reason to believe that the consumer whose consumer report is sought is an agent of a foreign power and is engaging or has engaged in an act of international terrorism or in clandestine intelligence activities that involve or may involve a violation of criminal statutes of the United States.
+    Subsec. (c). [Pub. L. 107–56][/us/pl/107/56], § 505(c)(3), inserted “in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director” after “designee of the Director” and substituted “in camera that the consumer report is sought for the conduct of an authorized investigation to protect against international terrorism or clandestine intelligence activities, provided that such an investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution of the United States.” for pars. (1) and (2) requiring a showing in camera that the consumer report is necessary for the conduct of an authorized foreign counterintelligence investigation and there are specific and articulable facts giving reason to believe that the consumer whose consumer report is sought is an agent of a foreign power and is engaging or has engaged in an act of international terrorism or in clandestine intelligence activities that involve or may involve a violation of criminal statutes of the United States.
 
  __Change of Name__ 
 
@@ -184,37 +184,37 @@
 [/us/usc/t15/s1681b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681b
 [/us/usc/t18/s3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3511
 [/us/usc/t50/s3106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3106
-[/us/pl/90/321/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs626
-[/us/pl/104/93/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2Fs601%2Fa
+[/us/pl/90/321/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtVI
+[/us/pl/104/93/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F93%2FtVI
 [/us/stat/109/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F974
-[/us/pl/107/56/s358/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs358%2Fg%2F1%2FA
+[/us/pl/107/56/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtIII
 [/us/stat/115/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F327
-[/us/pl/107/306/s811/b/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2Fs811%2Fb%2F8%2FB
+[/us/pl/107/306/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306%2FtVIII
 [/us/stat/116/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2426
-[/us/pl/108/159/s214/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2Fs214%2Fa%2F1
+[/us/pl/108/159/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F159%2FtII
 [/us/stat/117/1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1980
-[/us/pl/109/177/s116/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs116%2Fb
+[/us/pl/109/177/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2FtI
 [/us/stat/120/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F214
-[/us/pl/109/178/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F178%2Fs4%2Fc%2F1
+[/us/pl/109/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F178
 [/us/stat/120/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F280
-[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtV
 [/us/stat/129/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F282
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
 [/us/pl/90/321/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs626
 [/us/usc/t15/s1681v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681v
-[/us/pl/114/23/s501/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs501%2Fc%2F1
-[/us/pl/114/23/s501/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs501%2Fc%2F2
-[/us/pl/114/23/s501/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs501%2Fc%2F3
-[/us/pl/114/23/s502/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs502%2Fc
-[/us/pl/114/23/s503/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs503%2Fc
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177
 [/us/pl/109/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F178
 [/us/pl/107/306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F306
-[/us/pl/107/56/s505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs505%2Fc
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/107/56/s358/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs358%2Fg%2F1%2FA
-[/us/pl/107/56/s505/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs505%2Fc%2F1
-[/us/pl/107/56/s505/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs505%2Fc%2F2
-[/us/pl/107/56/s505/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs505%2Fc%2F3
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/pl/107/56/s358/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs358%2Fg%2F1%2FA

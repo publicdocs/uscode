@@ -33,7 +33,7 @@
 
     (h) Generally, may do any and all lawful acts necessary or appropriate to carry out the purposes for which the corporation is created.
 
-([June 10, 1930, ch. 440, § 4][/us/act/1930-06-10/ch440/s4], [46 Stat. 540][/us/stat/46/540].)
+([June 10, 1930, ch. 440][/us/act/1930-06-10/ch440], § 4, [46 Stat. 540][/us/stat/46/540].)
 
 ----------
 
@@ -42,7 +42,7 @@
 ----------
 ----------
 
-[/us/act/1930-06-10/ch440/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch440%2Fs4
+[/us/act/1930-06-10/ch440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-10%2Fch440
 [/us/stat/46/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F540
 
 

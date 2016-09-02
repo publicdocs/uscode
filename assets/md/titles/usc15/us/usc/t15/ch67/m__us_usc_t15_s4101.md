@@ -65,17 +65,17 @@
 
         (4) to establish an Interagency Arctic Research Policy Committee to develop a national Arctic research policy and a five year plan to implement that policy.
 
-([Pub. L. 98–373, title I, § 102][/us/pl/98/373/s102], July 31, 1984, [98 Stat. 1242][/us/stat/98/1242]; [Pub. L. 103–199, title VI, § 601][/us/pl/103/199/s601], Dec. 17, 1993, [107 Stat. 2327][/us/stat/107/2327].)
+([Pub. L. 98–373, title I][/us/pl/98/373/tI], § 102, July 31, 1984, [98 Stat. 1242][/us/stat/98/1242]; [Pub. L. 103–199, title VI][/us/pl/103/199/tVI], § 601, Dec. 17, 1993, [107 Stat. 2327][/us/stat/107/2327].)
 
  __Amendments__ 
 
-    1993—Subsec. (a)(2). [Pub. L. 103–199, § 601(1)][/us/pl/103/199/s601/1], struck out “as the Nation’s only common border with the Soviet Union,” before “the Arctic”.
+    1993—Subsec. (a)(2). [Pub. L. 103–199][/us/pl/103/199], § 601(1), struck out “as the Nation’s only common border with the Soviet Union,” before “the Arctic”.
 
-    Subsec. (a)(10). [Pub. L. 103–199, § 601(2)][/us/pl/103/199/s601/2], struck out “, particularly the Soviet Union,” after “countries”.
+    Subsec. (a)(10). [Pub. L. 103–199][/us/pl/103/199], § 601(2), struck out “, particularly the Soviet Union,” after “countries”.
 
  __Short Title__ 
 
-[Pub. L. 98–373, title I, § 102][/us/pl/98/373/s102], July 31, 1984, [98 Stat. 1242][/us/stat/98/1242], provided that: 
+[Pub. L. 98–373, title I][/us/pl/98/373/tI], § 102, July 31, 1984, [98 Stat. 1242][/us/stat/98/1242], provided that: 
 
 > “This title \[enacting this chapter\] may be cited as the ‘Arctic Research and Policy Act of 1984’.”
 
@@ -284,13 +284,13 @@ By the authority vested in me as President by the Constitution and laws of the U
 ----------
 ----------
 
-[/us/pl/98/373/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs102
+[/us/pl/98/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtI
 [/us/stat/98/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1242
-[/us/pl/103/199/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs601
+[/us/pl/103/199/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2FtVI
 [/us/stat/107/2327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F2327
-[/us/pl/103/199/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs601%2F1
-[/us/pl/103/199/s601/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199%2Fs601%2F2
-[/us/pl/98/373/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2Fs102
+[/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
+[/us/pl/103/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F199
+[/us/pl/98/373/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373%2FtI
 [/us/stat/98/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1242
 [/us/pl/98/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F373
 [/us/usc/t15/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4101

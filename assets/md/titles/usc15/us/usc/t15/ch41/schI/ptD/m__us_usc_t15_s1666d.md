@@ -23,7 +23,7 @@
 
     (C) make a good faith effort to refund to the consumer by cash, check, or money order any part of the amount of the credit balance remaining in the account for more than six months, except that no further action is required in any case in which the consumer’s current location is not known by the creditor and cannot be traced through the consumer’s last known address or telephone number.
 
-([Pub. L. 90–321, title I, § 165][/us/pl/90/321/s165], as added [Pub. L. 93–495, title III, § 306][/us/pl/93/495/s306], Oct. 28, 1974, [88 Stat. 1514][/us/stat/88/1514]; amended [Pub. L. 96–221, title VI, § 621(a)][/us/pl/96/221/s621/a], Mar. 31, 1980, [94 Stat. 184][/us/stat/94/184].)
+([Pub. L. 90–321, title I][/us/pl/90/321/tI], § 165, as added [Pub. L. 93–495, title III][/us/pl/93/495/tIII], § 306, Oct. 28, 1974, [88 Stat. 1514][/us/stat/88/1514]; amended [Pub. L. 96–221, title VI][/us/pl/96/221/tVI], § 621(a), Mar. 31, 1980, [94 Stat. 184][/us/stat/94/184].)
 
  __Amendments__ 
 
@@ -40,10 +40,10 @@
 ----------
 ----------
 
-[/us/pl/90/321/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2Fs165
-[/us/pl/93/495/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2Fs306
+[/us/pl/90/321/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321%2FtI
+[/us/pl/93/495/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F495%2FtIII
 [/us/stat/88/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1514
-[/us/pl/96/221/s621/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2Fs621%2Fa
+[/us/pl/96/221/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221%2FtVI
 [/us/stat/94/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F184
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221
 [/us/pl/96/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F221

@@ -53,7 +53,7 @@
 
             For the purposes of paragraph (1), private capital shall include capital that is considered to be Federal funds, if such capital is contributed by an investor other than a department or agency of the Federal Government.
 
-([Pub. L. 85–699, title III, § 385][/us/pl/85/699/s385], as added [Pub. L. 110–140, title XII, § 1207][/us/pl/110/140/s1207], Dec. 19, 2007, [121 Stat. 1778][/us/stat/121/1778].)
+([Pub. L. 85–699, title III][/us/pl/85/699/tIII], § 385, as added [Pub. L. 110–140, title XII][/us/pl/110/140/tXII], § 1207, Dec. 19, 2007, [121 Stat. 1778][/us/stat/121/1778].)
 
 ----------
 
@@ -62,8 +62,8 @@
 ----------
 ----------
 
-[/us/pl/85/699/s385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs385
-[/us/pl/110/140/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs1207
+[/us/pl/85/699/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIII
+[/us/pl/110/140/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2FtXII
 [/us/stat/121/1778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1778
 
 

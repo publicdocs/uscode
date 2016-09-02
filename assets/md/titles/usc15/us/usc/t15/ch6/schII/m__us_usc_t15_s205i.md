@@ -31,7 +31,7 @@
 
         The Board may (1) employ experts and consultants or organizations thereof, as authorized by [section 3109 of title 5][/us/usc/t5/s3109]; (2) compensate individuals so employed at rates not in excess of the rate currently being paid grade 18 of the General Schedule under section 5332 of such title, including traveltime; and (3) may allow such individuals, while away from their homes or regular places of business, travel expenses (including per diem in lieu of subsistence) as authorized by section 5703 of such title 5 for persons in the Government service employed intermittently: Provided, however, That contracts for such temporary employment may be renewed annually.
 
-([Pub. L. 94–168, § 10][/us/pl/94/168/s10], Dec. 23, 1975, [89 Stat. 1012][/us/stat/89/1012].)
+([Pub. L. 94–168][/us/pl/94/168], § 10, Dec. 23, 1975, [89 Stat. 1012][/us/stat/89/1012].)
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
-[/us/pl/94/168/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F168%2Fs10
+[/us/pl/94/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F168
 [/us/stat/89/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F1012
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

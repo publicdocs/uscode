@@ -55,7 +55,7 @@
 
             (B) in proximity to vessels that serve the facility.
 
-([June 21, 1938, ch. 556, § 3A][/us/act/1938-06-21/ch556/s3A], as added [Pub. L. 109–58, title III, § 311(d)][/us/pl/109/58/s311/d], Aug. 8, 2005, [119 Stat. 687][/us/stat/119/687].)
+([June 21, 1938, ch. 556][/us/act/1938-06-21/ch556], § 3A, as added [Pub. L. 109–58, title III][/us/pl/109/58/tIII], § 311(d), Aug. 8, 2005, [119 Stat. 687][/us/stat/119/687].)
 
  __References in Text__ 
 
@@ -71,8 +71,8 @@
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 [/us/usc/t15/s717b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717b
 [/us/usc/t15/s717b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs717b
-[/us/act/1938-06-21/ch556/s3A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556%2Fs3A
-[/us/pl/109/58/s311/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs311%2Fd
+[/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
+[/us/pl/109/58/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtIII
 [/us/stat/119/687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F687
 [/us/pl/91/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F190
 [/us/stat/83/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F852

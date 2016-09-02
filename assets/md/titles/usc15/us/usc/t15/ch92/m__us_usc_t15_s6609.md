@@ -17,7 +17,7 @@
 
     In any Y2K action for breach or repudiation of contract, the applicability of the doctrines of impossibility and commercial impracticability shall be determined by the law in existence on January 1, 1999. Nothing in this chapter shall be construed as limiting or impairing a party’s right to assert defenses based upon such doctrines.
 
-([Pub. L. 106–37, § 10][/us/pl/106/37/s10], July 20, 1999, [113 Stat. 199][/us/stat/113/199].)
+([Pub. L. 106–37][/us/pl/106/37], § 10, July 20, 1999, [113 Stat. 199][/us/stat/113/199].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/37/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37%2Fs10
+[/us/pl/106/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F37
 [/us/stat/113/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F199
 
 

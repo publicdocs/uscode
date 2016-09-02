@@ -63,7 +63,7 @@
 
         (2) The Secretary of Energy shall reduce the number of vehicles for which he shall contract for the purchase or lease under subsection (c)(1) or (c)(2) by the number determined under subsection (e)(1)(A) as modified by subsection (e)(1)(B), except in no event shall he contract for the purchase or lease pursuant to subsection (c)(1) of less than 1,000 electric or hybrid vehicles, and in no event shall he contract for the purchase or lease pursuant to subsection (c)(2) of less than 2,500 advanced electric or hybrid vehicles unless he determines on the basis of responses to the solicitations for proposals for such contracts, under the provisions of subsections (c)(1) and (c)(2) that lesser numbers of such vehicles which satisfy the applicable performance standards will be available within the delivery periods. All other provisions of subsection (c) shall apply.
 
-([Pub. L. 94–413, § 7][/us/pl/94/413/s7], Sept. 17, 1976, [90 Stat. 1263][/us/stat/90/1263]; [Pub. L. 95–91, title III, § 301(a)][/us/pl/95/91/s301/a], Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577]; [Pub. L. 95–238, title VI, § 601][/us/pl/95/238/s601], Feb. 25, 1978, [92 Stat. 91][/us/stat/92/91]; [Pub. L. 96–470, title I, § 105][/us/pl/96/470/s105], Oct. 19, 1980, [94 Stat. 2238][/us/stat/94/2238]; [Pub. L. 97–375, title I, § 106(b)][/us/pl/97/375/s106/b], Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820]; [Pub. L. 103–437, § 5(d)(1)][/us/pl/103/437/s5/d/1], Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 94–413][/us/pl/94/413], § 7, Sept. 17, 1976, [90 Stat. 1263][/us/stat/90/1263]; [Pub. L. 95–91, title III][/us/pl/95/91/tIII], § 301(a), Aug. 4, 1977, [91 Stat. 577][/us/stat/91/577]; [Pub. L. 95–238, title VI][/us/pl/95/238/tVI], § 601, Feb. 25, 1978, [92 Stat. 91][/us/stat/92/91]; [Pub. L. 96–470, title I][/us/pl/96/470/tI], § 105, Oct. 19, 1980, [94 Stat. 2238][/us/stat/94/2238]; [Pub. L. 97–375, title I][/us/pl/97/375/tI], § 106(b), Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820]; [Pub. L. 103–437][/us/pl/103/437], § 5(d)(1), Nov. 2, 1994, [108 Stat. 4582][/us/stat/108/4582]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Amendments__ 
 
@@ -73,11 +73,11 @@
 
     1980—Subsec. (c)(4). [Pub. L. 96–470][/us/pl/96/470] struck out par. (4) which provided that if the Administrator determines on the basis of his annual review of the program that at least 200 vehicles cannot be added to the project during fiscal year 1978, at least 600 during fiscal year 1979, at least 1,700 during fiscal year 1980, and at least 7,500 in the aggregate during the fiscal years 1981 through 1984, he immediately forward a detailed explanation to Congress.
 
-    1978—Subsec. (b)(3). [Pub. L. 95–238, § 601(a)][/us/pl/95/238/s601/a], struck out requirement that rules promulgated under par. (1) be amended not later than 6 months prior to the date for contracts specified in subsec. (c)(2) of this section.
+    1978—Subsec. (b)(3). [Pub. L. 95–238][/us/pl/95/238], § 601(a), struck out requirement that rules promulgated under par. (1) be amended not later than 6 months prior to the date for contracts specified in subsec. (c)(2) of this section.
 
-    Subsec. (b)(4). [Pub. L. 95–238, § 601(b)][/us/pl/95/238/s601/b], substituted provisions relating to transmission of standards developed under par. (1) and all revised standards established in connection with the demonstrations specified in subsec. (c)(2) of this section, for provisions relating to transmission of standards developed under par. (1) as revised and currently in effect prior to contracts for the production of vehicles under subsec. (c)(2) of this section.
+    Subsec. (b)(4). [Pub. L. 95–238][/us/pl/95/238], § 601(b), substituted provisions relating to transmission of standards developed under par. (1) and all revised standards established in connection with the demonstrations specified in subsec. (c)(2) of this section, for provisions relating to transmission of standards developed under par. (1) as revised and currently in effect prior to contracts for the production of vehicles under subsec. (c)(2) of this section.
 
-    Subsec. (c). [Pub. L. 95–238, § 601(c)][/us/pl/95/238/s601/c], in par. (1) substituted provisions relating to the first contracts for purchase or lease of vehicles and delivery of such vehicles, for provisions relating to contracts for the purchase or lease of 2,500 vehicles and delivery of such vehicles within 39 months after Sept. 17, 1976, in par. (2) substituted provisions relating to contracts for the purchase or lease of additional vehicles which satisfy amended performance standards and are improvements in the state-of-the-art and criteria for demonstrations, for provisions relating to contracts for the purchase or lease of 5,000 advanced vehicles and delivery of such vehicles within 72 months after Sept. 17, 1976, with an extention of the delivery period for 6 additional months, and added pars. (3) and (4).
+    Subsec. (c). [Pub. L. 95–238][/us/pl/95/238], § 601(c), in par. (1) substituted provisions relating to the first contracts for purchase or lease of vehicles and delivery of such vehicles, for provisions relating to contracts for the purchase or lease of 2,500 vehicles and delivery of such vehicles within 39 months after Sept. 17, 1976, in par. (2) substituted provisions relating to contracts for the purchase or lease of additional vehicles which satisfy amended performance standards and are improvements in the state-of-the-art and criteria for demonstrations, for provisions relating to contracts for the purchase or lease of 5,000 advanced vehicles and delivery of such vehicles within 72 months after Sept. 17, 1976, with an extention of the delivery period for 6 additional months, and added pars. (3) and (4).
 
  __Change of Name__ 
 
@@ -95,26 +95,26 @@
 ----------
 
 [/us/usc/t15/s2505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2505
-[/us/pl/94/413/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F413%2Fs7
+[/us/pl/94/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F413
 [/us/stat/90/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1263
-[/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa
+[/us/pl/95/91/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2FtIII
 [/us/stat/91/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F577
-[/us/pl/95/238/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs601
+[/us/pl/95/238/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2FtVI
 [/us/stat/92/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F91
-[/us/pl/96/470/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2Fs105
+[/us/pl/96/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470%2FtI
 [/us/stat/94/2238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2238
-[/us/pl/97/375/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs106%2Fb
+[/us/pl/97/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtI
 [/us/stat/96/1820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1820
-[/us/pl/103/437/s5/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs5%2Fd%2F1
+[/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/stat/108/4582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4582
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/97/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375
 [/us/pl/96/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F470
-[/us/pl/95/238/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs601%2Fa
-[/us/pl/95/238/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs601%2Fb
-[/us/pl/95/238/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238%2Fs601%2Fc
+[/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
+[/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
+[/us/pl/95/238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F238
 [/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
 [/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/95/91/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F91%2Fs301%2Fa

@@ -127,7 +127,7 @@
 
         The Board shall submit an annual report (including its audited financial statements) to the Commission, and the Commission shall transmit a copy of that report to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives, not later than 30 days after the date of receipt of that report by the Commission.
 
-([Pub. L. 107–204, title I, § 101][/us/pl/107/204/s101], July 30, 2002, [116 Stat. 750][/us/stat/116/750]; [Pub. L. 111–203, title IX, § 982(b)][/us/pl/111/203/s982/b], July 21, 2010, [124 Stat. 1928][/us/stat/124/1928].)
+([Pub. L. 107–204, title I][/us/pl/107/204/tI], § 101, July 30, 2002, [116 Stat. 750][/us/stat/116/750]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 982(b), July 21, 2010, [124 Stat. 1928][/us/stat/124/1928].)
 
  __References in Text__ 
 
@@ -141,9 +141,9 @@ For information regarding constitutionality of certain provisions of [section 10
 
  __Amendments__ 
 
-    2010—Subsec. (a). [Pub. L. 111–203, § 982(b)(2)][/us/pl/111/203/s982/b/2], substituted “companies that” for “public companies that” and struck out “for companies the securities of which are sold to, and held by and for, public investors” after “independent audit reports”.
+    2010—Subsec. (a). [Pub. L. 111–203][/us/pl/111/203], § 982(b)(2), substituted “companies that” for “public companies that” and struck out “for companies the securities of which are sold to, and held by and for, public investors” after “independent audit reports”.
 
-    Subsecs. (c)(1), (2), (e)(1). [Pub. L. 111–203, § 982(b)(1)][/us/pl/111/203/s982/b/1], substituted “issuers, brokers, and dealers” for “issuers”.
+    Subsecs. (c)(1), (2), (e)(1). [Pub. L. 111–203][/us/pl/111/203], § 982(b)(1), substituted “issuers, brokers, and dealers” for “issuers”.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -164,17 +164,17 @@ For information regarding constitutionality of certain provisions of [section 10
 [/us/usc/t15/s7217/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7217%2Fd%2F3
 [/us/usc/t15/s7217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7217
 [/us/usc/t15/s7219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7219
-[/us/pl/107/204/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs101
+[/us/pl/107/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtI
 [/us/stat/116/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F750
-[/us/pl/111/203/s982/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fb
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1928
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/stat/116/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F745
 [/us/pl/87/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F569
 [/us/stat/76/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F265
 [/us/pl/107/204/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs101
-[/us/pl/111/203/s982/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fb%2F2
-[/us/pl/111/203/s982/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fb%2F1
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301

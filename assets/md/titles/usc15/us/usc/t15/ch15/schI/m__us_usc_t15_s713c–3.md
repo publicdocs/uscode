@@ -159,11 +159,11 @@
 
         (2) The Secretary shall, consistent with the number of meritorious applications received with respect to any fiscal year, obligate or expend all of the moneys in the fund described in paragraph (1). Any such moneys which are not expended in a given fiscal year shall remain available for expenditure in accordance with this section without fiscal year limitation, except that the Secretary shall not obligate such moneys at a rate less than that necessary to prevent the balance of moneys in the fund from exceeding $3,000,000 at the end of any fiscal year.
 
-([Aug. 11, 1939, ch. 696, § 2][/us/act/1939-08-11/ch696/s2], [53 Stat. 1412][/us/stat/53/1412]; [July 1, 1954, ch. 447][/us/act/1954-07-01/ch447], [68 Stat. 376][/us/stat/68/376]; [Aug. 8, 1956, ch. 1036, § 12(b)][/us/act/1956-08-08/ch1036/s12/b], [70 Stat. 1124][/us/stat/70/1124]; [Pub. L. 89–348, § 1(13)][/us/pl/89/348/s1/13], Nov. 8, 1965, [79 Stat. 1311][/us/stat/79/1311]; [Pub. L. 96–561, title II, § 210][/us/pl/96/561/s210], Dec. 22, 1980, [94 Stat. 3287][/us/stat/94/3287]; [Pub. L. 97–424, title IV, § 423(a)][/us/pl/97/424/s423/a], Jan. 6, 1983, [96 Stat. 2164][/us/stat/96/2164]; [Pub. L. 99–659, title II, § 209(e)][/us/pl/99/659/s209/e], Nov. 14, 1986, [100 Stat. 3721][/us/stat/100/3721]; [Pub. L. 101–627, title VII, § 703][/us/pl/101/627/s703], Nov. 28, 1990, [104 Stat. 4463][/us/stat/104/4463]; [Pub. L. 102–567, title IX, § 902(c)][/us/pl/102/567/s902/c], Oct. 29, 1992, [106 Stat. 4319][/us/stat/106/4319]; [Pub. L. 104–208, div. A, title I, § 101(a)][/us/pl/104/208/s101/a] \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41; [Pub. L. 104–297, title I, § 116(c)][/us/pl/104/297/s116/c], Oct. 11, 1996, [110 Stat. 3603][/us/stat/110/3603].)
+([Aug. 11, 1939, ch. 696][/us/act/1939-08-11/ch696], § 2, [53 Stat. 1412][/us/stat/53/1412]; [July 1, 1954, ch. 447][/us/act/1954-07-01/ch447], [68 Stat. 376][/us/stat/68/376]; [Aug. 8, 1956, ch. 1036][/us/act/1956-08-08/ch1036], § 12(b), [70 Stat. 1124][/us/stat/70/1124]; [Pub. L. 89–348][/us/pl/89/348], § 1(13), Nov. 8, 1965, [79 Stat. 1311][/us/stat/79/1311]; [Pub. L. 96–561, title II][/us/pl/96/561/tII], § 210, Dec. 22, 1980, [94 Stat. 3287][/us/stat/94/3287]; [Pub. L. 97–424, title IV][/us/pl/97/424/tIV], § 423(a), Jan. 6, 1983, [96 Stat. 2164][/us/stat/96/2164]; [Pub. L. 99–659, title II][/us/pl/99/659/tII], § 209(e), Nov. 14, 1986, [100 Stat. 3721][/us/stat/100/3721]; [Pub. L. 101–627, title VII][/us/pl/101/627/tVII], § 703, Nov. 28, 1990, [104 Stat. 4463][/us/stat/104/4463]; [Pub. L. 102–567, title IX][/us/pl/102/567/tIX], § 902(c), Oct. 29, 1992, [106 Stat. 4319][/us/stat/106/4319]; [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(a) \[title II, § 211(b)\], Sept. 30, 1996, [110 Stat. 3009][/us/stat/110/3009], 3009–41; [Pub. L. 104–297, title I][/us/pl/104/297/tI], § 116(c), Oct. 11, 1996, [110 Stat. 3603][/us/stat/110/3603].)
 
  __Codification__ 
 
-    “[Section 50501 of title 46][/us/usc/t46/s50501]” substituted for “section 2 of the Shipping Act, 1916 ([46 U.S.C. 802][/us/usc/t46/s802])” in subsec. (a)(1)(C) and (5)(B) and “such section 50501” substituted for “such section 2” in subsec. (a)(1)(C) on authority of [Pub. L. 109–304, § 18(c)][/us/pl/109/304/s18/c], Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], section 8(b) of which enacted parts A and B of subtitle V of Title 46, Shipping.
+    “[Section 50501 of title 46][/us/usc/t46/s50501]” substituted for “section 2 of the Shipping Act, 1916 ([46 U.S.C. 802][/us/usc/t46/s802])” in subsec. (a)(1)(C) and (5)(B) and “such section 50501” substituted for “such section 2” in subsec. (a)(1)(C) on authority of [Pub. L. 109–304][/us/pl/109/304], § 18(c), Oct. 6, 2006, [120 Stat. 1709][/us/stat/120/1709], section 8(b) of which enacted parts A and B of subtitle V of Title 46, Shipping.
 
  __Amendments__ 
 
@@ -191,15 +191,15 @@
 
     “(2) Moneys accruing to the fund established under subsection (b) of this section for any fiscal year and not expended with respect to that year shall remain available for expenditure under this section without fiscal year limitation.”
 
-    1980—Subsec. (a). [Pub. L. 96–561, § 210(2)][/us/pl/96/561/s210/2], (3), added subsec. (a) and redesignated former subsec. (a) as (b).
+    1980—Subsec. (a). [Pub. L. 96–561][/us/pl/96/561], § 210(2), (3), added subsec. (a) and redesignated former subsec. (a) as (b).
 
-    Subsec. (b). [Pub. L. 96–561, § 210(1)][/us/pl/96/561/s210/1], (2), (4), redesignated subsec. (a) as (b), substituted “transfer to the Secretary” for “transfer to the Secretary of Commerce”, “only for use by the Secretary” for “and used by the Secretary of Commerce”, and provision directing that the fund be used to provide financial assistance for carrying out fisheries research and development projects and to implement the national fisheries research and development program for provision directing that the fund be used to promote free flow of domestically produced fisheries products by conducting a fishery educational service and fishery technological, biological, and related research programs, to acquire, construct, or maintain vessels and other facilities necessary for conducting research, to develop and increase markets for fishery products of domestic origin, and to conduct any biological, technological, or other research pertaining to American fisheries, and struck out former subsec. (b) which authorized any agency or wholly owned government corporation of the United States to transfer to the Secretary of Commerce any vessels or equipment excess to its needs.
+    Subsec. (b). [Pub. L. 96–561][/us/pl/96/561], § 210(1), (2), (4), redesignated subsec. (a) as (b), substituted “transfer to the Secretary” for “transfer to the Secretary of Commerce”, “only for use by the Secretary” for “and used by the Secretary of Commerce”, and provision directing that the fund be used to provide financial assistance for carrying out fisheries research and development projects and to implement the national fisheries research and development program for provision directing that the fund be used to promote free flow of domestically produced fisheries products by conducting a fishery educational service and fishery technological, biological, and related research programs, to acquire, construct, or maintain vessels and other facilities necessary for conducting research, to develop and increase markets for fishery products of domestic origin, and to conduct any biological, technological, or other research pertaining to American fisheries, and struck out former subsec. (b) which authorized any agency or wholly owned government corporation of the United States to transfer to the Secretary of Commerce any vessels or equipment excess to its needs.
 
-    Subsec. (c). [Pub. L. 96–561, § 210(1)][/us/pl/96/561/s210/1], (5), added subsec. (c) and struck out former subsec. (c) which directed the Secretary of Commerce to cooperate with other Federal, State, and local agencies for promotion of free flow of domestically produced fishery products and provided for the appointment of an advisory committee of the American fisheries industry to advise the Secretary in formulation of policy, rules, and regulations.
+    Subsec. (c). [Pub. L. 96–561][/us/pl/96/561], § 210(1), (5), added subsec. (c) and struck out former subsec. (c) which directed the Secretary of Commerce to cooperate with other Federal, State, and local agencies for promotion of free flow of domestically produced fishery products and provided for the appointment of an advisory committee of the American fisheries industry to advise the Secretary in formulation of policy, rules, and regulations.
 
-    Subsec. (d). [Pub. L. 96–561, § 210(1)][/us/pl/96/561/s210/1], (5), added subsec. (d) and struck out former subsec. (d) which authorized the Secretary of Commerce to retransfer any funds available under this section, not to exceed $1,500,000, to the Secretary of Agriculture to be used for the purposes specified in [section 713c–2 of this title][/us/usc/t15/s713c–2].
+    Subsec. (d). [Pub. L. 96–561][/us/pl/96/561], § 210(1), (5), added subsec. (d) and struck out former subsec. (d) which authorized the Secretary of Commerce to retransfer any funds available under this section, not to exceed $1,500,000, to the Secretary of Agriculture to be used for the purposes specified in [section 713c–2 of this title][/us/usc/t15/s713c–2].
 
-    Subsec. (e). [Pub. L. 96–561, § 210(1)][/us/pl/96/561/s210/1], (5), added subsec. (e) and struck out former subsec. (e) which provided that the special fund created for use of the Secretary of Commerce under subsec. (a) of this section and the annual accruals thereto be available for each year until expended by the Secretary.
+    Subsec. (e). [Pub. L. 96–561][/us/pl/96/561], § 210(1), (5), added subsec. (e) and struck out former subsec. (e) which provided that the special fund created for use of the Secretary of Commerce under subsec. (a) of this section and the annual accruals thereto be available for each year until expended by the Secretary.
 
     1965—Subsec. (f). [Pub. L. 89–348][/us/pl/89/348] repealed subsec. (f) which required an annual report to the appropriate committees of Congress on the use of the separate fund.
 
@@ -213,7 +213,7 @@
 
  __Effective Date of 1983 Amendment__ 
 
-[Pub. L. 97–424, title IV, § 423(b)][/us/pl/97/424/s423/b], Jan. 6, 1983, [96 Stat. 2165][/us/stat/96/2165], provided that: 
+[Pub. L. 97–424, title IV][/us/pl/97/424/tIV], § 423(b), Jan. 6, 1983, [96 Stat. 2165][/us/stat/96/2165], provided that: 
 
 > “The amendment made by subsection (a) of this section \[amending this section\] shall take effect on October 1, 1983.”
 
@@ -235,7 +235,7 @@
 
  __Continuation of Authorization for Transfer of Funds__ 
 
-[Act Aug. 8, 1956, ch. 1036, § 12(a)][/us/act/1956-08-08/ch1036/s12/a], [70 Stat. 1124][/us/stat/70/1124], provided that: 
+[Act Aug. 8, 1956, ch. 1036][/us/act/1956-08-08/ch1036], § 12(a), [70 Stat. 1124][/us/stat/70/1124], provided that: 
 
 > “The authorization for the transfer of certain funds from the Secretary of Agriculture to the Secretary of the Interior and their maintenance in a separate fund as contained in [section 2(a) of the Act of August 11, 1939][/us/act/1939-08-11/s2/a], as amended July 1, 1954 ([68 Stat. 376][/us/stat/68/376]), \[now subsec. (b) of this section\], shall be continued for the year ending June 30, 1957, and each year thereafter.”
 
@@ -256,31 +256,31 @@
 [/us/usc/t16/s1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1863
 [/us/usc/t16/s1861a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1861a
 [/us/usc/t16/s4008/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs4008%2Fa
-[/us/act/1939-08-11/ch696/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch696%2Fs2
+[/us/act/1939-08-11/ch696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch696
 [/us/stat/53/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1412
 [/us/act/1954-07-01/ch447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-01%2Fch447
 [/us/stat/68/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F376
-[/us/act/1956-08-08/ch1036/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036%2Fs12%2Fb
+[/us/act/1956-08-08/ch1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036
 [/us/stat/70/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1124
-[/us/pl/89/348/s1/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F348%2Fs1%2F13
+[/us/pl/89/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F348
 [/us/stat/79/1311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1311
-[/us/pl/96/561/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs210
+[/us/pl/96/561/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2FtII
 [/us/stat/94/3287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3287
-[/us/pl/97/424/s423/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs423%2Fa
+[/us/pl/97/424/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtIV
 [/us/stat/96/2164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2164
-[/us/pl/99/659/s209/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs209%2Fe
+[/us/pl/99/659/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtII
 [/us/stat/100/3721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3721
-[/us/pl/101/627/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2Fs703
+[/us/pl/101/627/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627%2FtVII
 [/us/stat/104/4463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4463
-[/us/pl/102/567/s902/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2Fs902%2Fc
+[/us/pl/102/567/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F567%2FtIX
 [/us/stat/106/4319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4319
-[/us/pl/104/208/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fa
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009
-[/us/pl/104/297/s116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2Fs116%2Fc
+[/us/pl/104/297/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F297%2FtI
 [/us/stat/110/3603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3603
 [/us/usc/t46/s50501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs50501
 [/us/usc/t46/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs802
-[/us/pl/109/304/s18/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304%2Fs18%2Fc
+[/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1709
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/usc/t16/s1863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1863
@@ -291,22 +291,22 @@
 [/us/pl/101/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F627
 [/us/pl/99/659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659
 [/us/pl/97/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424
-[/us/pl/96/561/s210/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs210%2F2
-[/us/pl/96/561/s210/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs210%2F1
-[/us/pl/96/561/s210/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs210%2F1
-[/us/pl/96/561/s210/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs210%2F1
+[/us/pl/96/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561
+[/us/pl/96/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561
+[/us/pl/96/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561
+[/us/pl/96/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561
 [/us/usc/t15/s713c–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs713c%E2%80%932
-[/us/pl/96/561/s210/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561%2Fs210%2F1
+[/us/pl/96/561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F561
 [/us/pl/89/348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F348
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/97/424/s423/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs423%2Fb
+[/us/pl/97/424/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2FtIV
 [/us/stat/96/2165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2165
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/104/14/s1/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fb%2F3
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
 [/us/stat/67/633]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F633
-[/us/act/1956-08-08/ch1036/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036%2Fs12%2Fa
+[/us/act/1956-08-08/ch1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1036
 [/us/stat/70/1124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1124
 [/us/act/1939-08-11/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fs2%2Fa
 [/us/stat/68/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F376

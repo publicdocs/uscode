@@ -45,17 +45,17 @@
 
         To facilitate the payment of premium taxes among the States, an insured’s home State may require surplus lines brokers and insureds who have independently procured insurance to annually file tax allocation reports with the insured’s home State detailing the portion of the nonadmitted insurance policy premium or premiums attributable to properties, risks, or exposures located in each State. The filing of a nonadmitted insurance tax allocation report and the payment of tax may be made by a person authorized by the insured to act as its agent.
 
-([Pub. L. 111–203, title V, § 521][/us/pl/111/203/s521], July 21, 2010, [124 Stat. 1589][/us/stat/124/1589].)
+([Pub. L. 111–203, title V][/us/pl/111/203/tV], § 521, July 21, 2010, [124 Stat. 1589][/us/stat/124/1589].)
 
  __Effective Date__ 
 
-[Pub. L. 111–203, title V, § 512][/us/pl/111/203/s512], July 21, 2010, [124 Stat. 1589][/us/stat/124/1589], provided that: 
+[Pub. L. 111–203, title V][/us/pl/111/203/tV], § 512, July 21, 2010, [124 Stat. 1589][/us/stat/124/1589], provided that: 
 
 > “Except as otherwise specifically provided in this subtitle \[see Short Title note below\], this subtitle shall take effect upon the expiration of the 12-month period beginning on the date of the enactment of this subtitle \[July 21, 2010\].”
 
  __Short Title__ 
 
-[Pub. L. 111–203, title V, § 511][/us/pl/111/203/s511], July 21, 2010, [124 Stat. 1589][/us/stat/124/1589], provided that: 
+[Pub. L. 111–203, title V][/us/pl/111/203/tV], § 511, July 21, 2010, [124 Stat. 1589][/us/stat/124/1589], provided that: 
 
 > “This subtitle \[subtitle B (§§ 511–542) of title V of [Pub. L. 111–203][/us/pl/111/203], enacting this chapter and provisions set out as a note under this section\] may be cited as the ‘Nonadmitted and Reinsurance Reform Act of 2010’.”
 
@@ -66,11 +66,11 @@
 ----------
 ----------
 
-[/us/pl/111/203/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs521
+[/us/pl/111/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtV
 [/us/stat/124/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1589
-[/us/pl/111/203/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs512
+[/us/pl/111/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtV
 [/us/stat/124/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1589
-[/us/pl/111/203/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs511
+[/us/pl/111/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtV
 [/us/stat/124/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1589
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 

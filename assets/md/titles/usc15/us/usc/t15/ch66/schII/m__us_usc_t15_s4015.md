@@ -27,7 +27,7 @@
 
         If the Secretary denies, in whole or in part, an application for a certificate of review or for an amendment to a certificate, or revokes or amends a certificate, neither the negative determination nor the statement of reasons therefor shall be admissible in evidence, in any administrative or judicial proceeding, in support of any claim under the antitrust laws.
 
-([Pub. L. 97–290, title III, § 305][/us/pl/97/290/s305], Oct. 8, 1982, [96 Stat. 1243][/us/stat/96/1243].)
+([Pub. L. 97–290, title III][/us/pl/97/290/tIII], § 305, Oct. 8, 1982, [96 Stat. 1243][/us/stat/96/1243].)
 
  __Effective Date__ 
 
@@ -41,7 +41,7 @@
 ----------
 
 [/us/usc/t15/s4014/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4014%2Fb
-[/us/pl/97/290/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs305
+[/us/pl/97/290/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2FtIII
 [/us/stat/96/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1243
 [/us/pl/97/290/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs312
 [/us/usc/t15/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4011

@@ -165,15 +165,15 @@
 
             Any person that is subject to regulation and examination by a Federal financial institution regulatory agency (as such term is defined under [section 212(c)(2) of title 18][/us/usc/t18/s212/c/2]) may satisfy any examination request, information request, or document request described under paragraph (1), by providing the Commission with a detailed listing, in writing, of the securities, deposits, or credits of the client within the custody or use of such person.
 
-([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 204, [54 Stat. 852][/us/stat/54/852]; [Pub. L. 86–750, § 6][/us/pl/86/750/s6], Sept. 13, 1960, [74 Stat. 886][/us/stat/74/886]; [Pub. L. 94–29, § 29(5)][/us/pl/94/29/s29/5], June 4, 1975, [89 Stat. 169][/us/stat/89/169]; [Pub. L. 109–290, § 7(a)][/us/pl/109/290/s7/a], Sept. 29, 2006, [120 Stat. 1321][/us/stat/120/1321]; [Pub. L. 111–203, title IV, § 404][/us/pl/111/203/s404], title IX, § 929Q(b), July 21, 2010, [124 Stat. 1571][/us/stat/124/1571], 1866.)
+([Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], title II, § 204, [54 Stat. 852][/us/stat/54/852]; [Pub. L. 86–750][/us/pl/86/750], § 6, Sept. 13, 1960, [74 Stat. 886][/us/stat/74/886]; [Pub. L. 94–29][/us/pl/94/29], § 29(5), June 4, 1975, [89 Stat. 169][/us/stat/89/169]; [Pub. L. 109–290][/us/pl/109/290], § 7(a), Sept. 29, 2006, [120 Stat. 1321][/us/stat/120/1321]; [Pub. L. 111–203, title IV][/us/pl/111/203/tIV], § 404, title IX, § 929Q(b), July 21, 2010, [124 Stat. 1571][/us/stat/124/1571], 1866.)
 
  __Amendments__ 
 
-    2010—Subsecs. (b), (c). [Pub. L. 111–203, § 404][/us/pl/111/203/s404], added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d) relating to access to disciplinary and other information.
+    2010—Subsecs. (b), (c). [Pub. L. 111–203][/us/pl/111/203], § 404, added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d) relating to access to disciplinary and other information.
 
-    Subsec. (d). [Pub. L. 111–203, § 929Q(b)][/us/pl/111/203/s929Q/b], added subsec. (d) relating to records of persons with custody or use.
+    Subsec. (d). [Pub. L. 111–203][/us/pl/111/203], § 929Q(b), added subsec. (d) relating to records of persons with custody or use.
 
-    [Pub. L. 111–203, § 404(1)][/us/pl/111/203/s404/1], redesignated subsec. (c) as (d) relating to access to disciplinary and other information.
+    [Pub. L. 111–203][/us/pl/111/203], § 404(1), redesignated subsec. (c) as (d) relating to access to disciplinary and other information.
 
     2006—[Pub. L. 109–290][/us/pl/109/290] designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
@@ -212,17 +212,17 @@
 [/us/usc/t18/s212/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs212%2Fc%2F2
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F852
-[/us/pl/86/750/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750%2Fs6
+[/us/pl/86/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F750
 [/us/stat/74/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F886
-[/us/pl/94/29/s29/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs29%2F5
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F169
-[/us/pl/109/290/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F290%2Fs7%2Fa
+[/us/pl/109/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F290
 [/us/stat/120/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1321
-[/us/pl/111/203/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs404
+[/us/pl/111/203/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIV
 [/us/stat/124/1571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1571
-[/us/pl/111/203/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs404
-[/us/pl/111/203/s929Q/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929Q%2Fb
-[/us/pl/111/203/s404/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs404%2F1
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/109/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F290
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/usc/t15/s78c/a/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F37

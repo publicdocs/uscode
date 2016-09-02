@@ -43,7 +43,7 @@
 
         (2) to lease and allocate such real property as may be necessary for carrying out its functions under this subchapter.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 321, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1174][/us/stat/53/1174]; amended [Pub. L. 101–550, title I, § 104(b)][/us/pl/101/550/s104/b], Nov. 15, 1990, [104 Stat. 2714][/us/stat/104/2714].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 321, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1174][/us/stat/53/1174]; amended [Pub. L. 101–550, title I][/us/pl/101/550/tI], § 104(b), Nov. 15, 1990, [104 Stat. 2714][/us/stat/104/2714].)
 
  __Amendments__ 
 
@@ -73,7 +73,7 @@
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/act/1939-08-03/ch411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-03%2Fch411
 [/us/stat/53/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1174
-[/us/pl/101/550/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs104%2Fb
+[/us/pl/101/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtI
 [/us/stat/104/2714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2714
 [/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
 [/us/usc/t15/s78d/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d%2Fb

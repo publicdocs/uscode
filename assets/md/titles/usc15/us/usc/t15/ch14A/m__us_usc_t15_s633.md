@@ -209,83 +209,83 @@
 
                 (ii) apply to any person appointed as a commercial market representative after November 25, 2015.
 
-([Pub. L. 85–536, § 2][/us/pl/85/536/s2]\[4\], July 18, 1958, [72 Stat. 384][/us/stat/72/384]; [Pub. L. 85–699, title II, § 202][/us/pl/85/699/s202], formerly § 202(a), Aug. 21, 1958, [72 Stat. 690][/us/stat/72/690], renumbered [Pub. L. 87–341, § 11(h)(1)][/us/pl/87/341/s11/h/1], Oct. 3, 1961, [75 Stat. 757][/us/stat/75/757]; amended [Pub. L. 86–367, § 1][/us/pl/86/367/s1], Sept. 22, 1959, [73 Stat. 647][/us/stat/73/647]; [Pub. L. 87–70, title III, § 305(c)][/us/pl/87/70/s305/c], June 30, 1961, [75 Stat. 167][/us/stat/75/167]; [Pub. L. 87–198][/us/pl/87/198], Sept. 5, 1961, [75 Stat. 468][/us/stat/75/468]; [Pub. L. 87–305, § 3][/us/pl/87/305/s3], Sept. 26, 1961, [75 Stat. 666][/us/stat/75/666]; [Pub. L. 87–341][/us/pl/87/341], §§ 11(h)(3), (4), 12, Oct. 3, 1961, [75 Stat. 757][/us/stat/75/757]; [Pub. L. 87–550, § 1(a)][/us/pl/87/550/s1/a], July 25, 1962, [76 Stat. 220][/us/stat/76/220]; [Pub. L. 89–59][/us/pl/89/59], §§ 1(c), 2, June 30, 1965, [79 Stat. 207][/us/stat/79/207]; [Pub. L. 89–78][/us/pl/89/78], July 21, 1965, [79 Stat. 243][/us/stat/79/243]; [Pub. L. 89–117, title III, § 316(d)][/us/pl/89/117/s316/d], Aug. 10, 1965, [79 Stat. 484][/us/stat/79/484]; [Pub. L. 89–334][/us/pl/89/334], Nov. 8, 1965, [79 Stat. 1294][/us/stat/79/1294]; [Pub. L. 89–409][/us/pl/89/409], §§ 1, 2, May 2, 1966, [80 Stat. 132][/us/stat/80/132]; [Pub. L. 89–779, § 8(a)][/us/pl/89/779/s8/a], (b), Nov. 6, 1966, [80 Stat. 1364][/us/stat/80/1364]; [Pub. L. 90–104, title I, § 102][/us/pl/90/104/s102], Oct. 11, 1967, [81 Stat. 268][/us/stat/81/268]; [Pub. L. 90–448, title XVII, § 1721][/us/pl/90/448/s1721], Aug. 1, 1968, [82 Stat. 610][/us/stat/82/610]; [Pub. L. 91–173, title V, § 504(c)][/us/pl/91/173/s504/c], Dec. 30, 1969, [83 Stat. 802][/us/stat/83/802]; [Pub. L. 91–558, title I, § 101][/us/pl/91/558/s101], Dec. 17, 1970, [84 Stat. 1468][/us/stat/84/1468]; [Pub. L. 91–596, § 28(c)][/us/pl/91/596/s28/c], Dec. 29, 1970, [84 Stat. 1618][/us/stat/84/1618]; [Pub. L. 91–597, § 25(c)][/us/pl/91/597/s25/c], Dec. 29, 1970, [84 Stat. 1634][/us/stat/84/1634]; [Pub. L. 92–16][/us/pl/92/16], May 18, 1971, [85 Stat. 39][/us/stat/85/39]; [Pub. L. 92–320, § 1][/us/pl/92/320/s1], June 27, 1972, [86 Stat. 382][/us/stat/86/382]; [Pub. L. 92–385, § 2(b)][/us/pl/92/385/s2/b], Aug. 16, 1972, [86 Stat. 556][/us/stat/86/556]; [Pub. L. 92–500, § 8(b)][/us/pl/92/500/s8/b], Oct. 18, 1972, [86 Stat. 899][/us/stat/86/899]; [Pub. L. 92–595, § 3(a)][/us/pl/92/595/s3/a], Oct. 27, 1972, [86 Stat. 1316][/us/stat/86/1316]; [Pub. L. 93–237][/us/pl/93/237], §§ 1, 3(b), 8, Jan. 2, 1974, [87 Stat. 1023–1025][/us/stat/87/1023-1025]; [Pub. L. 93–386][/us/pl/93/386], §§ 2(a)(2), (3), 7, Aug. 23, 1974, [88 Stat. 742][/us/stat/88/742], 748; [Pub. L. 94–273, § 2(5)][/us/pl/94/273/s2/5], Apr. 21, 1976, [90 Stat. 375][/us/stat/90/375]; [Pub. L. 95–14][/us/pl/95/14], §§ 1–3, Mar. 24, 1977, [91 Stat. 25][/us/stat/91/25]; [Pub. L. 95–89, title I, § 101(a)][/us/pl/95/89/s101/a]–(c), title II, §§ 201, 202, title III, § 304, title IV, § 401, Aug. 4, 1977, [91 Stat. 553][/us/stat/91/553], 557, 559; [Pub. L. 95–315, § 4][/us/pl/95/315/s4], July 4, 1978, [92 Stat. 379][/us/stat/92/379]; [Pub. L. 95–507, title II, § 206][/us/pl/95/507/s206], Oct. 24, 1978, [92 Stat. 1766][/us/stat/92/1766]; [Pub. L. 96–302, title I, § 121][/us/pl/96/302/s121], title IV, § 401, July 2, 1980, [94 Stat. 842][/us/stat/94/842], 849; [Pub. L. 96–481, title I, § 103][/us/pl/96/481/s103], Oct. 21, 1980, [94 Stat. 2321][/us/stat/94/2321]; [Pub. L. 97–35, title XIX][/us/pl/97/35], §§ 1908, 1913(b), 1915, Aug. 13, 1981, [95 Stat. 778][/us/stat/95/778], 780; [Pub. L. 98–270, title III, § 306][/us/pl/98/270/s306], Apr. 18, 1984, [98 Stat. 161][/us/stat/98/161]; [Pub. L. 98–352, § 5][/us/pl/98/352/s5], July 10, 1984, [98 Stat. 331][/us/stat/98/331]; [Pub. L. 98–362][/us/pl/98/362], §§ 3, 4, July 16, 1984, [98 Stat. 431][/us/stat/98/431], 433; [Pub. L. 100–590, title I, § 111(a)][/us/pl/100/590/s111/a], Nov. 3, 1988, [102 Stat. 2995][/us/stat/102/2995]; [Pub. L. 100–656, title IV, § 401(a)][/us/pl/100/656/s401/a], Nov. 15, 1988, [102 Stat. 3873][/us/stat/102/3873]; [Pub. L. 101–37, § 11(a)][/us/pl/101/37/s11/a], June 15, 1989, [103 Stat. 73][/us/stat/103/73]; [Pub. L. 101–515, title V, § 1(a)][/us/pl/101/515/s1/a], Nov. 5, 1990, [104 Stat. 2140][/us/stat/104/2140]; [Pub. L. 101–574, title II, § 221(a)][/us/pl/101/574/s221/a], Nov. 15, 1990, [104 Stat. 2823][/us/stat/104/2823]; [Pub. L. 102–140, title VI, § 609(k)][/us/pl/102/140/s609/k], Oct. 28, 1991, [105 Stat. 831][/us/stat/105/831]; [Pub. L. 103–403, title VI][/us/pl/103/403], §§ 601, 611, 612, Oct. 22, 1994, [108 Stat. 4201][/us/stat/108/4201], 4204; [Pub. L. 104–208, div. D, title I, § 102][/us/pl/104/208/s102], Sept. 30, 1996, [110 Stat. 3009–725][/us/stat/110/3009-725]; [Pub. L. 106–50, title II, § 201(a)][/us/pl/106/50/s201/a], Aug. 17, 1999, [113 Stat. 235][/us/stat/113/235]; [Pub. L. 108–447, div. K, title I, § 132(a)][/us/pl/108/447/s132/a], (c), Dec. 8, 2004, [118 Stat. 3452][/us/stat/118/3452], 3453; [Pub. L. 110–234, title XII, § 12068(b)(1)][/us/pl/110/234/s12068/b/1], May 22, 2008, [122 Stat. 1410][/us/stat/122/1410]; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XII, § 12068(b)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2172; [Pub. L. 111–240, title I][/us/pl/111/240], §§ 1202(b)(2), 1203(b), Sept. 27, 2010, [124 Stat. 2521][/us/stat/124/2521]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92], §§ 865(a)(1), (b), 869(a)(2), Nov. 25, 2015, [129 Stat. 927][/us/stat/129/927], 928, 938.)
+([Pub. L. 85–536][/us/pl/85/536], § 2\[4\], July 18, 1958, [72 Stat. 384][/us/stat/72/384]; [Pub. L. 85–699, title II][/us/pl/85/699/tII], § 202, formerly § 202(a), Aug. 21, 1958, [72 Stat. 690][/us/stat/72/690], renumbered [Pub. L. 87–341][/us/pl/87/341], § 11(h)(1), Oct. 3, 1961, [75 Stat. 757][/us/stat/75/757]; amended [Pub. L. 86–367][/us/pl/86/367], § 1, Sept. 22, 1959, [73 Stat. 647][/us/stat/73/647]; [Pub. L. 87–70, title III][/us/pl/87/70/tIII], § 305(c), June 30, 1961, [75 Stat. 167][/us/stat/75/167]; [Pub. L. 87–198][/us/pl/87/198], Sept. 5, 1961, [75 Stat. 468][/us/stat/75/468]; [Pub. L. 87–305][/us/pl/87/305], § 3, Sept. 26, 1961, [75 Stat. 666][/us/stat/75/666]; [Pub. L. 87–341][/us/pl/87/341], §§ 11(h)(3), (4), 12, Oct. 3, 1961, [75 Stat. 757][/us/stat/75/757]; [Pub. L. 87–550][/us/pl/87/550], § 1(a), July 25, 1962, [76 Stat. 220][/us/stat/76/220]; [Pub. L. 89–59][/us/pl/89/59], §§ 1(c), 2, June 30, 1965, [79 Stat. 207][/us/stat/79/207]; [Pub. L. 89–78][/us/pl/89/78], July 21, 1965, [79 Stat. 243][/us/stat/79/243]; [Pub. L. 89–117, title III][/us/pl/89/117/tIII], § 316(d), Aug. 10, 1965, [79 Stat. 484][/us/stat/79/484]; [Pub. L. 89–334][/us/pl/89/334], Nov. 8, 1965, [79 Stat. 1294][/us/stat/79/1294]; [Pub. L. 89–409][/us/pl/89/409], §§ 1, 2, May 2, 1966, [80 Stat. 132][/us/stat/80/132]; [Pub. L. 89–779][/us/pl/89/779], § 8(a), (b), Nov. 6, 1966, [80 Stat. 1364][/us/stat/80/1364]; [Pub. L. 90–104, title I][/us/pl/90/104/tI], § 102, Oct. 11, 1967, [81 Stat. 268][/us/stat/81/268]; [Pub. L. 90–448, title XVII][/us/pl/90/448/tXVII], § 1721, Aug. 1, 1968, [82 Stat. 610][/us/stat/82/610]; [Pub. L. 91–173, title V][/us/pl/91/173/tV], § 504(c), Dec. 30, 1969, [83 Stat. 802][/us/stat/83/802]; [Pub. L. 91–558, title I][/us/pl/91/558/tI], § 101, Dec. 17, 1970, [84 Stat. 1468][/us/stat/84/1468]; [Pub. L. 91–596][/us/pl/91/596], § 28(c), Dec. 29, 1970, [84 Stat. 1618][/us/stat/84/1618]; [Pub. L. 91–597][/us/pl/91/597], § 25(c), Dec. 29, 1970, [84 Stat. 1634][/us/stat/84/1634]; [Pub. L. 92–16][/us/pl/92/16], May 18, 1971, [85 Stat. 39][/us/stat/85/39]; [Pub. L. 92–320][/us/pl/92/320], § 1, June 27, 1972, [86 Stat. 382][/us/stat/86/382]; [Pub. L. 92–385][/us/pl/92/385], § 2(b), Aug. 16, 1972, [86 Stat. 556][/us/stat/86/556]; [Pub. L. 92–500][/us/pl/92/500], § 8(b), Oct. 18, 1972, [86 Stat. 899][/us/stat/86/899]; [Pub. L. 92–595][/us/pl/92/595], § 3(a), Oct. 27, 1972, [86 Stat. 1316][/us/stat/86/1316]; [Pub. L. 93–237][/us/pl/93/237], §§ 1, 3(b), 8, Jan. 2, 1974, [87 Stat. 1023–1025][/us/stat/87/1023-1025]; [Pub. L. 93–386][/us/pl/93/386], §§ 2(a)(2), (3), 7, Aug. 23, 1974, [88 Stat. 742][/us/stat/88/742], 748; [Pub. L. 94–273][/us/pl/94/273], § 2(5), Apr. 21, 1976, [90 Stat. 375][/us/stat/90/375]; [Pub. L. 95–14][/us/pl/95/14], §§ 1–3, Mar. 24, 1977, [91 Stat. 25][/us/stat/91/25]; [Pub. L. 95–89, title I][/us/pl/95/89/tI], § 101(a)–(c), title II, §§ 201, 202, title III, § 304, title IV, § 401, Aug. 4, 1977, [91 Stat. 553][/us/stat/91/553], 557, 559; [Pub. L. 95–315][/us/pl/95/315], § 4, July 4, 1978, [92 Stat. 379][/us/stat/92/379]; [Pub. L. 95–507, title II][/us/pl/95/507/tII], § 206, Oct. 24, 1978, [92 Stat. 1766][/us/stat/92/1766]; [Pub. L. 96–302, title I][/us/pl/96/302/tI], § 121, title IV, § 401, July 2, 1980, [94 Stat. 842][/us/stat/94/842], 849; [Pub. L. 96–481, title I][/us/pl/96/481/tI], § 103, Oct. 21, 1980, [94 Stat. 2321][/us/stat/94/2321]; [Pub. L. 97–35, title XIX][/us/pl/97/35/tXIX], §§ 1908, 1913(b), 1915, Aug. 13, 1981, [95 Stat. 778][/us/stat/95/778], 780; [Pub. L. 98–270, title III][/us/pl/98/270/tIII], § 306, Apr. 18, 1984, [98 Stat. 161][/us/stat/98/161]; [Pub. L. 98–352][/us/pl/98/352], § 5, July 10, 1984, [98 Stat. 331][/us/stat/98/331]; [Pub. L. 98–362][/us/pl/98/362], §§ 3, 4, July 16, 1984, [98 Stat. 431][/us/stat/98/431], 433; [Pub. L. 100–590, title I][/us/pl/100/590/tI], § 111(a), Nov. 3, 1988, [102 Stat. 2995][/us/stat/102/2995]; [Pub. L. 100–656, title IV][/us/pl/100/656/tIV], § 401(a), Nov. 15, 1988, [102 Stat. 3873][/us/stat/102/3873]; [Pub. L. 101–37][/us/pl/101/37], § 11(a), June 15, 1989, [103 Stat. 73][/us/stat/103/73]; [Pub. L. 101–515, title V][/us/pl/101/515/tV], § 1(a), Nov. 5, 1990, [104 Stat. 2140][/us/stat/104/2140]; [Pub. L. 101–574, title II][/us/pl/101/574/tII], § 221(a), Nov. 15, 1990, [104 Stat. 2823][/us/stat/104/2823]; [Pub. L. 102–140, title VI][/us/pl/102/140/tVI], § 609(k), Oct. 28, 1991, [105 Stat. 831][/us/stat/105/831]; [Pub. L. 103–403, title VI][/us/pl/103/403/tVI], §§ 601, 611, 612, Oct. 22, 1994, [108 Stat. 4201][/us/stat/108/4201], 4204; [Pub. L. 104–208, div. D, title I][/us/pl/104/208/dD/tI], § 102, Sept. 30, 1996, [110 Stat. 3009–725][/us/stat/110/3009-725]; [Pub. L. 106–50, title II][/us/pl/106/50/tII], § 201(a), Aug. 17, 1999, [113 Stat. 235][/us/stat/113/235]; [Pub. L. 108–447, div. K, title I][/us/pl/108/447/dK/tI], § 132(a), (c), Dec. 8, 2004, [118 Stat. 3452][/us/stat/118/3452], 3453; [Pub. L. 110–234, title XII][/us/pl/110/234/tXII], § 12068(b)(1), May 22, 2008, [122 Stat. 1410][/us/stat/122/1410]; [Pub. L. 110–246][/us/pl/110/246], § 4(a), title XII, § 12068(b)(1), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2172; [Pub. L. 111–240, title I][/us/pl/111/240/tI], §§ 1202(b)(2), 1203(b), Sept. 27, 2010, [124 Stat. 2521][/us/stat/124/2521]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], §§ 865(a)(1), (b), 869(a)(2), Nov. 25, 2015, [129 Stat. 927][/us/stat/129/927], 928, 938.)
 
  __References in Text__ 
 
-    The effective date of this paragraph, referred to in subsec. (c)(3), is July 1, 1966, pursuant to [Pub. L. 89–409, § 2][/us/pl/89/409/s2].
+    The effective date of this paragraph, referred to in subsec. (c)(3), is July 1, 1966, pursuant to [Pub. L. 89–409][/us/pl/89/409], § 2.
 
     The Small Business Investment Act of 1958, referred to in subsecs. (b)(3)(A) and (c)(1), (2), (5)(C), is [Pub. L. 85–699][/us/pl/85/699], Aug. 21, 1958, [72 Stat. 689][/us/stat/72/689], as amended. Titles III, IV, and V of the Act are classified generally to subchapters III (§ 681 et seq.), IV (§ 692 et seq.), and V (§ 695 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title][/us/usc/t15/s661] and Tables.
 
-    Section 636(l) of this title, referred to in subsec. (c)(2)(B), was amended generally to read “\[RESERVED\].” by [Pub. L. 104–208, div. D, title I, § 107(d)][/us/pl/104/208/s107/d], Sept. 30, 1996, [110 Stat. 3009–732][/us/stat/110/3009-732]. Subsequently, [Pub. L. 111–240, title I, § 1131(a)][/us/pl/111/240/s1131/a], Sept. 27, 2010, [124 Stat. 2512][/us/stat/124/2512], struck out that subsec. (l) and added a new subsec. (l).
+    Section 636(l) of this title, referred to in subsec. (c)(2)(B), was amended generally to read “\[RESERVED\].” by [Pub. L. 104–208, div. D, title I][/us/pl/104/208/dD/tI], § 107(d), Sept. 30, 1996, [110 Stat. 3009–732][/us/stat/110/3009-732]. Subsequently, [Pub. L. 111–240, title I][/us/pl/111/240/tI], § 1131(a), Sept. 27, 2010, [124 Stat. 2512][/us/stat/124/2512], struck out that subsec. (l) and added a new subsec. (l).
 
-    [Section 662 of title 42][/us/usc/t42/s662], referred to in subsec. (f)(1), was repealed by [Pub. L. 104–193, title III, § 362(b)(1)][/us/pl/104/193/s362/b/1], Aug. 22, 1996, [110 Stat. 2246][/us/stat/110/2246].
+    [Section 662 of title 42][/us/usc/t42/s662], referred to in subsec. (f)(1), was repealed by [Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 362(b)(1), Aug. 22, 1996, [110 Stat. 2246][/us/stat/110/2246].
 
  __Codification__ 
 
-    In subsec. (c)(4), (5)(A), “(sections 9103 and 9104 of title 31)” substituted for “(sections 102, 103, and 104 of the Government Corporation Control Act ([31 U.S.C. 847–849][/us/usc/t31/s847–849]))”, and “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act, as amended” and “such Act, as amended,”, respectively, on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (c)(4), (5)(A), “(sections 9103 and 9104 of title 31)” substituted for “(sections 102, 103, and 104 of the Government Corporation Control Act ([31 U.S.C. 847–849][/us/usc/t31/s847–849]))”, and “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act, as amended” and “such Act, as amended,”, respectively, on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
     [Pub. L. 110–234][/us/pl/110/234] and [Pub. L. 110–246][/us/pl/110/246] made identical amendments to this section. The amendments by [Pub. L. 110–234][/us/pl/110/234] were repealed by [section 4(a) of Pub. L. 110–246][/us/pl/110/246/s4/a].
 
  __Prior Provisions__ 
 
-    Prior similar provisions were contained in section 204 of [act July 30, 1953, ch. 282][/us/act/1953-07-30/ch282], title II, [67 Stat. 233][/us/stat/67/233], as amended by acts [Aug. 9, 1955, ch. 628, § 3][/us/act/1955-08-09/ch628/s3], [69 Stat. 547][/us/stat/69/547]; [Feb. 2, 1956, ch. 29, § 1][/us/act/1956-02-02/ch29/s1], [70 Stat. 10][/us/stat/70/10]; [July 31, 1956, ch. 804][/us/act/1956-07-31/ch804], title I, §§ 106(a), 107(b), [70 Stat. 737][/us/stat/70/737]; [Pub. L. 85–4][/us/pl/85/4], Feb. 11, 1957, [71 Stat. 4][/us/stat/71/4]; [Pub. L. 85–120, § 1][/us/pl/85/120/s1], Aug. 3, 1957, [71 Stat. 341][/us/stat/71/341], which was previously classified to this section. See Codification note set out under [section 631 of this title][/us/usc/t15/s631].
+    Prior similar provisions were contained in section 204 of [act July 30, 1953, ch. 282, title II][/us/act/1953-07-30/ch282/tII], [67 Stat. 233][/us/stat/67/233], as amended by acts [Aug. 9, 1955, ch. 628][/us/act/1955-08-09/ch628], § 3, [69 Stat. 547][/us/stat/69/547]; [Feb. 2, 1956, ch. 29][/us/act/1956-02-02/ch29], § 1, [70 Stat. 10][/us/stat/70/10]; [July 31, 1956, ch. 804][/us/act/1956-07-31/ch804], title I, §§ 106(a), 107(b), [70 Stat. 737][/us/stat/70/737]; [Pub. L. 85–4][/us/pl/85/4], Feb. 11, 1957, [71 Stat. 4][/us/stat/71/4]; [Pub. L. 85–120][/us/pl/85/120], § 1, Aug. 3, 1957, [71 Stat. 341][/us/stat/71/341], which was previously classified to this section. See Codification note set out under [section 631 of this title][/us/usc/t15/s631].
 
  __Amendments__ 
 
-    2015—Subsec. (b)(1). [Pub. L. 114–92, § 869(a)(2)][/us/pl/114/92/s869/a/2], inserted at end “One such Associate Administrator shall be the Chief Hearing Officer, who shall administer the Office of Hearings and Appeals established under [section 634(i) of this title][/us/usc/t15/s634/i].”
+    2015—Subsec. (b)(1). [Pub. L. 114–92][/us/pl/114/92], § 869(a)(2), inserted at end “One such Associate Administrator shall be the Chief Hearing Officer, who shall administer the Office of Hearings and Appeals established under [section 634(i) of this title][/us/usc/t15/s634/i].”
 
-    Subsec. (g). [Pub. L. 114–92, § 865(a)(1)][/us/pl/114/92/s865/a/1], added subsec. (g).
+    Subsec. (g). [Pub. L. 114–92][/us/pl/114/92], § 865(a)(1), added subsec. (g).
 
-    Subsec. (h). [Pub. L. 114–92, § 865(b)][/us/pl/114/92/s865/b], added subsec. (h).
+    Subsec. (h). [Pub. L. 114–92][/us/pl/114/92], § 865(b), added subsec. (h).
 
-    2010—Subsec. (b)(1). [Pub. L. 111–240, § 1203(b)][/us/pl/111/240/s1203/b], substituted “Associate Administrators” for “five Associate Administrators” in fifth sentence and inserted at end “One such Associate Administrator shall be the Associate Administrator for International Trade, who shall be the head of the Office of International Trade established under [section 649 of this title][/us/usc/t15/s649].”
+    2010—Subsec. (b)(1). [Pub. L. 111–240][/us/pl/111/240], § 1203(b), substituted “Associate Administrators” for “five Associate Administrators” in fifth sentence and inserted at end “One such Associate Administrator shall be the Associate Administrator for International Trade, who shall be the head of the Office of International Trade established under [section 649 of this title][/us/usc/t15/s649].”
 
-    Subsec. (b)(3)(B)(x). [Pub. L. 111–240, § 1202(b)(2)][/us/pl/111/240/s1202/b/2], substituted “district and region of the Administration” for “Administration district and region”.
+    Subsec. (b)(3)(B)(x). [Pub. L. 111–240][/us/pl/111/240], § 1202(b)(2), substituted “district and region of the Administration” for “Administration district and region”.
 
-    2008—Subsec. (c)(1), (2). [Pub. L. 110–246, § 12068(b)(1)][/us/pl/110/246/s12068/b/1], in pars. (1) and (2) substituted “636(d)(2)” for “636(c)(2)” and in par. (2) struck out “636(e),” after “636(a),”.
+    2008—Subsec. (c)(1), (2). [Pub. L. 110–246][/us/pl/110/246], § 12068(b)(1), in pars. (1) and (2) substituted “636(d)(2)” for “636(c)(2)” and in par. (2) struck out “636(e),” after “636(a),”.
 
-    2004—Subsecs. (g), (h). [Pub. L. 108–447, § 132(a)][/us/pl/108/447/s132/a], (c), temporarily added subsecs. (g) and (h), which related to gifts and co-sponsorship of events, respectively. See Termination Date of 2004 Amendment note below.
+    2004—Subsecs. (g), (h). [Pub. L. 108–447][/us/pl/108/447], § 132(a), (c), temporarily added subsecs. (g) and (h), which related to gifts and co-sponsorship of events, respectively. See Termination Date of 2004 Amendment note below.
 
     1999—Subsec. (b)(1). [Pub. L. 106–50][/us/pl/106/50] substituted “five Associate Administrators” for “four Associate Administrators” in fifth sentence and inserted after fifth sentence “One such Associate Administrator shall be the Associate Administrator for Veterans Business Development, who shall administer the Office of Veterans Business Development established under [section 657b of this title][/us/usc/t15/s657b].”
 
     1996—Subsec. (b)(3). [Pub. L. 104–208][/us/pl/104/208] added par. (3).
 
-    1994—Subsec. (c)(5)(B)(ii). [Pub. L. 103–403, § 601][/us/pl/103/403/s601], amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “The Administration shall pay into miscellaneous receipts of the Treasury, following the close of each fiscal year, interest on the average of loan disbursements outstanding throughout the year providing such disbursements are made from amounts appropriated for the disaster loan fund after October 1, 1980 or are made from repayments of principal of loans made from funds appropriated to the disaster loan fund, or from amounts appropriated to the business loan and investment fund on or after October 1, 1981 or are made from repayments of principal of loans made from funds appropriated to the business loan and investment fund and received on or after October 1, 1981. This interest shall be calculated solely on the amount of loan disbursements net of losses at the rate provided under paragraph (5)(A).”
+    1994—Subsec. (c)(5)(B)(ii). [Pub. L. 103–403][/us/pl/103/403], § 601, amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “The Administration shall pay into miscellaneous receipts of the Treasury, following the close of each fiscal year, interest on the average of loan disbursements outstanding throughout the year providing such disbursements are made from amounts appropriated for the disaster loan fund after October 1, 1980 or are made from repayments of principal of loans made from funds appropriated to the disaster loan fund, or from amounts appropriated to the business loan and investment fund on or after October 1, 1981 or are made from repayments of principal of loans made from funds appropriated to the business loan and investment fund and received on or after October 1, 1981. This interest shall be calculated solely on the amount of loan disbursements net of losses at the rate provided under paragraph (5)(A).”
 
-    Subsec. (e). [Pub. L. 103–403, § 611][/us/pl/103/403/s611], added subsec. (e).
+    Subsec. (e). [Pub. L. 103–403][/us/pl/103/403], § 611, added subsec. (e).
 
-    Subsec. (f). [Pub. L. 103–403, § 612][/us/pl/103/403/s612], added subsec. (f).
+    Subsec. (f). [Pub. L. 103–403][/us/pl/103/403], § 612, added subsec. (f).
 
     1991—Subsec. (c)(1)(A), (2)(B). [Pub. L. 102–140][/us/pl/102/140] inserted reference to section 636(m).
 
     1990—Subsec. (b)(1). [Pub. L. 101–515][/us/pl/101/515] and [Pub. L. 101–574][/us/pl/101/574] amended par. (1) identically, substituting “The President also may appoint a Deputy Administrator, by and with the advice and consent of the Senate. The Administrator is authorized to appoint” for “The Administrator is authorized to appoint a Deputy Administrator and”.
 
-    1989—Subsec. (b)(1). [Pub. L. 101–37][/us/pl/101/37] made technical correction to directory language of [Pub. L. 100–656, § 401(a)][/us/pl/100/656/s401/a], see 1988 Amendment note below.
+    1989—Subsec. (b)(1). [Pub. L. 101–37][/us/pl/101/37] made technical correction to directory language of [Pub. L. 100–656][/us/pl/100/656], § 401(a), see 1988 Amendment note below.
 
-    1988—Subsec. (b)(1). [Pub. L. 100–656, § 401(a)][/us/pl/100/656/s401/a], as amended by [Pub. L. 101–37][/us/pl/101/37], inserted “who shall be an employee in the competitive service or in the Senior Executive Service and a career appointee” after “Capital Ownership Development”.
+    1988—Subsec. (b)(1). [Pub. L. 100–656][/us/pl/100/656], § 401(a), as amended by [Pub. L. 101–37][/us/pl/101/37], inserted “who shall be an employee in the competitive service or in the Senior Executive Service and a career appointee” after “Capital Ownership Development”.
 
-    Subsec. (c)(1)(B), (2)(B). [Pub. L. 100–590, § 111(a)][/us/pl/100/590/s111/a], substituted “III, IV” for “III”.
+    Subsec. (c)(1)(B), (2)(B). [Pub. L. 100–590][/us/pl/100/590], § 111(a), substituted “III, IV” for “III”.
 
     1984—Subsec. (b)(3). [Pub. L. 98–362][/us/pl/98/362], §§ 3, 7(b), added par. (3) and provided for future repeal of par. (3). See Effective and Termination Dates of 1984 Amendment note below.
 
-    Subsec. (b)(4). [Pub. L. 98–362, § 4][/us/pl/98/362/s4], added par. (4).
+    Subsec. (b)(4). [Pub. L. 98–362][/us/pl/98/362], § 4, added par. (4).
 
     Subsec. (c)(1)(A). [Pub. L. 98–270][/us/pl/98/270] inserted reference to section 636(b)(4).
 
     Subsec. (c)(1)(B), (2)(B). [Pub. L. 98–352][/us/pl/98/352] inserted reference to section 634(g).
 
-    1981—Subsec. (c)(1)(A). [Pub. L. 97–35, § 1913(b)][/us/pl/97/35/s1913/b], substituted “636(c)(2) of this title” for “636(b)(4), 636(b)(5), 636(b)(6), 636(b)(7), 636(b)(8), 636(c)(2), and 636(g) of this title”.
+    1981—Subsec. (c)(1)(A). [Pub. L. 97–35][/us/pl/97/35], § 1913(b), substituted “636(c)(2) of this title” for “636(b)(4), 636(b)(5), 636(b)(6), 636(b)(7), 636(b)(8), 636(c)(2), and 636(g) of this title”.
 
-    Subsec. (c)(1)(B). [Pub. L. 97–35, § 1908][/us/pl/97/35/s1908], struck out reference to sections 636(e), 636(h), 636(i), and 636(l).
+    Subsec. (c)(1)(B). [Pub. L. 97–35][/us/pl/97/35], § 1908, struck out reference to sections 636(e), 636(h), 636(i), and 636(l).
 
-    Subsec. (c)(5)(B)(ii). [Pub. L. 97–35, § 1915][/us/pl/97/35/s1915], substituted “for the disaster loan fund after October 1, 1980 or are made from repayments of principal of loans made from funds appropriated to the disaster loan fund, or from amounts appropriated to the business loan and investment fund on or after October 1, 1981 or are made from repayments of principal of loans made from funds appropriated to the business loan and investment fund and received on or after October 1, 1981” for “after October 1, 1980 or are made from repayments of principal of loans made from appropriated funds”.
+    Subsec. (c)(5)(B)(ii). [Pub. L. 97–35][/us/pl/97/35], § 1915, substituted “for the disaster loan fund after October 1, 1980 or are made from repayments of principal of loans made from funds appropriated to the disaster loan fund, or from amounts appropriated to the business loan and investment fund on or after October 1, 1981 or are made from repayments of principal of loans made from funds appropriated to the business loan and investment fund and received on or after October 1, 1981” for “after October 1, 1980 or are made from repayments of principal of loans made from appropriated funds”.
 
-    1980—Subsec. (b). [Pub. L. 96–302, § 401][/us/pl/96/302/s401], designated existing provisions as par. (1) and added par. (2).
+    1980—Subsec. (b). [Pub. L. 96–302][/us/pl/96/302], § 401, designated existing provisions as par. (1) and added par. (2).
 
     Subsec. (b)(1). [Pub. L. 96–481][/us/pl/96/481], which provided for “striking all after the phrase ‘Capital Ownership Development’ through the period” and inserting new text in lieu thereof was executed by striking all after “Capital Ownership Development” through period at end of sentence and not at end of paragraph which resulted in substituting provisions that the Associate Administrator for Minority Small Business and Capital Ownership Development shall be responsible to the Administrator for the formulation and execution of the policies and programs under sections 636(j) and 637(a) of this title for provisions, that such Administrator shall be responsible for the formulation of policy relating to the Administration’s programs which provide assistance to minority small business concerns and in the review of the Administration’s execution of such programs in light of such policy.
 
-    Subsec. (c)(5). [Pub. L. 96–302, § 121][/us/pl/96/302/s121], inserted provisions other than subpar. (B)(ii) and incorporated partly in subpar. (A) and in subpar. (B)(ii) prior par. (5) provisions requiring Administration payment of interest on outstanding cash disbursements at close of each fiscal year into the miscellaneous receipts of the Treasury from par. (1) funds at rates that consider current average yields on outstanding interest-bearing marketable Federal debt obligations of comparable maturities as calculated for the September preceding the fiscal year.
+    Subsec. (c)(5). [Pub. L. 96–302][/us/pl/96/302], § 121, inserted provisions other than subpar. (B)(ii) and incorporated partly in subpar. (A) and in subpar. (B)(ii) prior par. (5) provisions requiring Administration payment of interest on outstanding cash disbursements at close of each fiscal year into the miscellaneous receipts of the Treasury from par. (1) funds at rates that consider current average yields on outstanding interest-bearing marketable Federal debt obligations of comparable maturities as calculated for the September preceding the fiscal year.
 
     1978—Subsec. (b). [Pub. L. 95–507][/us/pl/95/507] substituted “Associate Administrator for Minority Small Business and Capital Ownership Development” for “Associate Administrator for Minority Small Business”.
 
@@ -295,29 +295,29 @@
 
     Subsec. (c)(2). [Pub. L. 95–89][/us/pl/95/89], §§ 201, 304, 401(2), inserted in cl. (A) reference to section 636(g); inserted in cl. (A) reference to section 634(e); and inserted in cl. (A) and struck out from cl. (B) reference to section 636(b)(3).
 
-    Subsec. (c)(3). [Pub. L. 95–89, § 101(b)][/us/pl/95/89/s101/b], struck out last sentence authorization of appropriations of capital for the funds in amounts necessary to carry out the functions of the Administration to remain available until expended.
+    Subsec. (c)(3). [Pub. L. 95–89][/us/pl/95/89], § 101(b), struck out last sentence authorization of appropriations of capital for the funds in amounts necessary to carry out the functions of the Administration to remain available until expended.
 
     Subsec. (c)(4). [Pub. L. 95–89][/us/pl/95/89], §§ 101(c), 202, repealed provisions of par. (4) which limited the total amount of loans, guarantees, and other obligations, to be outstanding at any one time: under sections 636(a), (b)(3), (e), (h), (i) and 637(a) of this title to $7,400,000,000; under title III of the Small Business Investment Act of 1958 to $887,500,000; under title V of the Small Business Investment Act of 1958 to $525,000,000; and under [section 636(i) of this title][/us/usc/t15/s636/i] to $525,000,000; redesignated par. (5) as (4) and substituted reference to submission of reports to the Senate Select Committee on Small Business and the Committee on Small Business of the House of Representatives for the prior reference the Committees on Banking and Currency of the Senate and House of Representatives; substituted reference to transmission of business-type budgets to the Committees on Appropriations, the Senate Select Committee on Small Business, and the Committee on Small Business of the House of Representatives for prior reference to such transmission to the Congress; and deleted the second sentence providing that if at the close of the preceding calendar quarter the aggregate amount outstanding or committed by the Administration in carrying out its functions under the sections or titles referred to in former par. (4) exceeded 75 per centum of the total amount authorized to be outstanding under such sections or titles, the Administration’s report shall include its recommendations for such additional authority as it deems appropriate.
 
     [Pub. L. 95–14][/us/pl/95/14] substituted “$7,400,000,000” for “$6,000,000,000”, “$525,000,000” for “$450,000,000”, and “$887,500,000” for “$725,000,000”.
 
-    Subsec. (c)(5), (6). [Pub. L. 95–89, § 202][/us/pl/95/89/s202], redesignated pars. (5) and (6) as (4) and (5), respectively.
+    Subsec. (c)(5), (6). [Pub. L. 95–89][/us/pl/95/89], § 202, redesignated pars. (5) and (6) as (4) and (5), respectively.
 
     1976—Subsec. (c)(6). [Pub. L. 94–273][/us/pl/94/273] substituted “September” for “June”.
 
-    1974—Subsec. (b). [Pub. L. 93–386, § 7][/us/pl/93/386/s7], in fourth sentence increased from three to four the number of Associate Administrators authorized to be appointed and inserted fifth sentence authorizing one of the Associate Administrators at the time of appointment to be designated as Associate Administrator for Minority Small Business. As enacted [section 7 of Pub. L. 93–386][/us/pl/93/386/s7] amended the third sentence and inserted a fourth sentence to subsec. (b), however the amendment was executed to fourth sentence and the new sentence was inserted as a fifth sentence editorially since this would appear to be the probable intent of Congress.
+    1974—Subsec. (b). [Pub. L. 93–386][/us/pl/93/386], § 7, in fourth sentence increased from three to four the number of Associate Administrators authorized to be appointed and inserted fifth sentence authorizing one of the Associate Administrators at the time of appointment to be designated as Associate Administrator for Minority Small Business. As enacted [section 7 of Pub. L. 93–386][/us/pl/93/386/s7] amended the third sentence and inserted a fourth sentence to subsec. (b), however the amendment was executed to fourth sentence and the new sentence was inserted as a fifth sentence editorially since this would appear to be the probable intent of Congress.
 
-    [Pub. L. 93–237, § 8][/us/pl/93/237/s8], inserted provisions that the Administrator shall not discriminate on the basis of sex or marital status against any person or small business concern applying for or receiving assistance from the Administration and that the Administration shall give special consideration to veterans of the Armed Forces of the United States and their survivors or dependents in carrying out the programs administered by the Administration.
+    [Pub. L. 93–237][/us/pl/93/237], § 8, inserted provisions that the Administrator shall not discriminate on the basis of sex or marital status against any person or small business concern applying for or receiving assistance from the Administration and that the Administration shall give special consideration to veterans of the Armed Forces of the United States and their survivors or dependents in carrying out the programs administered by the Administration.
 
-    Subsec. (c)(1). [Pub. L. 93–386, § 2(a)(2)][/us/pl/93/386/s2/a/2], inserted references to sections 636(b)(8) and 636(i) and struck out reference to title IV of the Economic Opportunity Act of 1964.
+    Subsec. (c)(1). [Pub. L. 93–386][/us/pl/93/386], § 2(a)(2), inserted references to sections 636(b)(8) and 636(i) and struck out reference to title IV of the Economic Opportunity Act of 1964.
 
-    [Pub. L. 93–237, § 3(b)][/us/pl/93/237/s3/b], substituted “636(h)” for “636(g)” in cl. (B).
+    [Pub. L. 93–237][/us/pl/93/237], § 3(b), substituted “636(h)” for “636(g)” in cl. (B).
 
-    Subsec. (c)(2). [Pub. L. 93–386, § 2(a)(2)][/us/pl/93/386/s2/a/2], inserted references to sections 636(b)(8) and 636(i) of this title and struck out reference to title IV of the Economic Opportunity Act of 1964.
+    Subsec. (c)(2). [Pub. L. 93–386][/us/pl/93/386], § 2(a)(2), inserted references to sections 636(b)(8) and 636(i) of this title and struck out reference to title IV of the Economic Opportunity Act of 1964.
 
-    [Pub. L. 93–237, § 3(b)][/us/pl/93/237/s3/b], substituted “636(h)” for “636(g)” in cl. (B).
+    [Pub. L. 93–237][/us/pl/93/237], § 3(b), substituted “636(h)” for “636(g)” in cl. (B).
 
-    Subsec. (c)(4). [Pub. L. 93–386, § 2(a)(3)][/us/pl/93/386/s2/a/3], in cl. (A) substituted “636(i), and 637(a) of this title, shall not exceed $6,000,000,000” for “and 637(a) of this title, and title IV of the Economic Opportunity Act of 1964, shall not exceed $4,875,000,000”, in cl. (B) substituted “$725,000,000” for “$556,250,000”, and in cl. (D) substituted “[section 636(i) of this title][/us/usc/t15/s636/i], shall not exceed $450,000,000” for “title IV of the Economic Opportunity Act of 1964 shall not exceed $381,250,000”.
+    Subsec. (c)(4). [Pub. L. 93–386][/us/pl/93/386], § 2(a)(3), in cl. (A) substituted “636(i), and 637(a) of this title, shall not exceed $6,000,000,000” for “and 637(a) of this title, and title IV of the Economic Opportunity Act of 1964, shall not exceed $4,875,000,000”, in cl. (B) substituted “$725,000,000” for “$556,250,000”, and in cl. (D) substituted “[section 636(i) of this title][/us/usc/t15/s636/i], shall not exceed $450,000,000” for “title IV of the Economic Opportunity Act of 1964 shall not exceed $381,250,000”.
 
     [Pub. L. 93–237][/us/pl/93/237], §§ 1, 3(b), substituted “$4,875,000,000” for “$4,300,000,000” and “636(h)” for “636(g)” in cl. (A), “$556,250,000” for “$500,000,000” in cl. (B), “$525,000,000” for “$500,000,000” in cl. (C) and “$381,250,000” for “$350,000,000” in cl. (D).
 
@@ -325,11 +325,11 @@
 
     [Pub. L. 92–500][/us/pl/92/500] made disaster loan fund available for financing functions performed under [section 636(g) of this title][/us/usc/t15/s636/g].
 
-    [Pub. L. 92–385, § 2(b)(1)][/us/pl/92/385/s2/b/1], inserted reference to section 636(b)(7).
+    [Pub. L. 92–385][/us/pl/92/385], § 2(b)(1), inserted reference to section 636(b)(7).
 
     Subsec. (c)(2). [Pub. L. 92–595][/us/pl/92/595] inserted reference to section 636(g).
 
-    [Pub. L. 92–385, § 2(b)(2)][/us/pl/92/385/s2/b/2], inserted reference to sections 636(b)(5), 636(b)(6), 636(b)(7).
+    [Pub. L. 92–385][/us/pl/92/385], § 2(b)(2), inserted reference to sections 636(b)(5), 636(b)(6), 636(b)(7).
 
     Subsec. (c)(4). [Pub. L. 92–595][/us/pl/92/595] inserted reference to section 636(g).
 
@@ -347,13 +347,13 @@
 
     1968—Subsec. (a). [Pub. L. 90–448][/us/pl/90/448] inserted “the Trust Territory of the Pacific Islands,”.
 
-    1967—Subsec. (c)(4). [Pub. L. 90–104, § 102(1)][/us/pl/90/104/s102/1]–(4), substituted $1,900,000,000 for $1,400,000,000 in cl. (A), $450,000,000 for $400,000,000 in cl. (B), $300,000,000 for $200,000,000 in cl. (C), and $200,000,000 for $100,000,000 in cl. (D).
+    1967—Subsec. (c)(4). [Pub. L. 90–104][/us/pl/90/104], § 102(1)–(4), substituted $1,900,000,000 for $1,400,000,000 in cl. (A), $450,000,000 for $400,000,000 in cl. (B), $300,000,000 for $200,000,000 in cl. (C), and $200,000,000 for $100,000,000 in cl. (D).
 
     1966—Subsec. (b). [Pub. L. 89–779][/us/pl/89/779] substituted “a Deputy Administrator and three Associate Administrators (including the Associate Administrator specified in [section 671 of this title][/us/usc/t15/s671])” for “three Deputy Administrators” as the officers to be appointed by the Administrator to assist in the execution of the functions vested in the Administration, and inserted provision that the Deputy Administrator shall be acting Administrator of the Administration during the absence or disability of the Administrator or in the event of a vacancy in the office of the Administrator.
 
-    Subsec. (c). [Pub. L. 89–409, § 1][/us/pl/89/409/s1], increased by $125 million the appropriation authorization for the single SBA fund from $1,841 million to $1,966 million and the authorization for outstanding loans and commitments for regular business loans, disaster loans, and prime contract authority from $1,375 million to $1,500 million.
+    Subsec. (c). [Pub. L. 89–409][/us/pl/89/409], § 1, increased by $125 million the appropriation authorization for the single SBA fund from $1,841 million to $1,966 million and the authorization for outstanding loans and commitments for regular business loans, disaster loans, and prime contract authority from $1,375 million to $1,500 million.
 
-    [Pub. L. 89–409, § 2][/us/pl/89/409/s2], provided for a disaster loan fund and business loan and investment fund in place of one prior SBA fund, incorporated existing provisions in par. (2), provided for allocation of unexpended balances of appropriations for prior single fund and for an appropriation authorization in par. (3), removed disaster loans from any limitation, provided limitations in par. (4) of $1,400 million for regular business loans, displaced business disaster loans, trade adjustment loans, prime contract authority, and loans under title IV of the Economic Opportunity Act of 1964, $400 million for small business investment companies, $200 million for loans to State and local development companies, $100 million for loans under title IV of the Economic Opportunity Act of 1964, incorporated existing reporting provisions in par. (4), including additional requirement of inclusion of recommendations whenever 75 percent of any ceiling in outstanding obligations is exceeded, required establishment of business-type loans, and incorporated existing provisions in par. (6).
+    [Pub. L. 89–409][/us/pl/89/409], § 2, provided for a disaster loan fund and business loan and investment fund in place of one prior SBA fund, incorporated existing provisions in par. (2), provided for allocation of unexpended balances of appropriations for prior single fund and for an appropriation authorization in par. (3), removed disaster loans from any limitation, provided limitations in par. (4) of $1,400 million for regular business loans, displaced business disaster loans, trade adjustment loans, prime contract authority, and loans under title IV of the Economic Opportunity Act of 1964, $400 million for small business investment companies, $200 million for loans to State and local development companies, $100 million for loans under title IV of the Economic Opportunity Act of 1964, incorporated existing reporting provisions in par. (4), including additional requirement of inclusion of recommendations whenever 75 percent of any ceiling in outstanding obligations is exceeded, required establishment of business-type loans, and incorporated existing provisions in par. (6).
 
     1965—Subsec. (c). [Pub. L. 89–334][/us/pl/89/334] substituted “$1,841,000,000” for “$1,721,000,000”.
 
@@ -387,23 +387,23 @@
 
  __Termination Date of 2004 Amendment__ 
 
-[Pub. L. 108–447, div. K, title I, § 132(c)][/us/pl/108/447/s132/c], Dec. 8, 2004, [118 Stat. 3453][/us/stat/118/3453], provided that: 
+[Pub. L. 108–447, div. K, title I][/us/pl/108/447/dK/tI], § 132(c), Dec. 8, 2004, [118 Stat. 3453][/us/stat/118/3453], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 637 of this title][/us/usc/t15/s637]\] are repealed on October 1, 2006.”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–208, div. D, § 3][/us/pl/104/208/s3], Sept. 30, 1996, [110 Stat. 3009–725][/us/stat/110/3009-725], provided that: 
+[Pub. L. 104–208, div. D][/us/pl/104/208/dD], § 3, Sept. 30, 1996, [110 Stat. 3009–725][/us/stat/110/3009-725], provided that: 
 
 > “Except as otherwise expressly provided, this Act \[probably should be “division”, see Short Title of 1996 Amendment note set out under [section 631 of this title][/us/usc/t15/s631]\] and the amendments made by this Act shall take effect on October 1, 1996.”
 
  __Effective Date of 1990 Amendments__ 
 
-[Pub. L. 101–574, title II, § 221(b)][/us/pl/101/574/s221/b], Nov. 15, 1990, [104 Stat. 2823][/us/stat/104/2823], provided that: 
+[Pub. L. 101–574, title II][/us/pl/101/574/tII], § 221(b), Nov. 15, 1990, [104 Stat. 2823][/us/stat/104/2823], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply to any vacancy in the position of Deputy Administrator of the Small Business Administration after the date of the enactment of this Act \[Nov. 15, 1990\].”
 
-[Pub. L. 101–515, § 1(b)][/us/pl/101/515/s1/b], Nov. 5, 1990, [104 Stat. 2140][/us/stat/104/2140], provided that: 
+[Pub. L. 101–515][/us/pl/101/515], § 1(b), Nov. 5, 1990, [104 Stat. 2140][/us/stat/104/2140], provided that: 
 
 > “The provisions of subsection (a) of this section \[amending this section\] shall apply to any vacancy in the position of Deputy Administrator of the Small Business Administration after the effective date of this Act \[Nov. 5, 1990\].”
 
@@ -417,7 +417,7 @@
 
  __Effective and Termination Dates of 1984 Amendments__ 
 
-[Pub. L. 98–362, § 7][/us/pl/98/362/s7], July 16, 1984, [98 Stat. 434][/us/stat/98/434], as amended by [Pub. L. 100–590, title I, § 131(a)][/us/pl/100/590/s131/a], Nov. 3, 1988, [102 Stat. 3004][/us/stat/102/3004]; [Pub. L. 101–515, title V, § 11][/us/pl/101/515/s11], Nov. 5, 1990, [104 Stat. 2145][/us/stat/104/2145]; [Pub. L. 101–574, title II, § 212][/us/pl/101/574/s212], Nov. 15, 1990, [104 Stat. 2821][/us/stat/104/2821]; [Pub. L. 102–140, title VI, § 609(g)][/us/pl/102/140/s609/g], Oct. 28, 1991, [105 Stat. 826][/us/stat/105/826]; [Pub. L. 102–366, title II, § 225][/us/pl/102/366/s225], Sept. 4, 1992, [106 Stat. 1001][/us/stat/106/1001]; [Pub. L. 103–403, title IV, § 401(b)][/us/pl/103/403/s401/b], Oct. 22, 1994, [108 Stat. 4190][/us/stat/108/4190], provided that:
+[Pub. L. 98–362][/us/pl/98/362], § 7, July 16, 1984, [98 Stat. 434][/us/stat/98/434], as amended by [Pub. L. 100–590, title I][/us/pl/100/590/tI], § 131(a), Nov. 3, 1988, [102 Stat. 3004][/us/stat/102/3004]; [Pub. L. 101–515, title V][/us/pl/101/515/tV], § 11, Nov. 5, 1990, [104 Stat. 2145][/us/stat/104/2145]; [Pub. L. 101–574, title II][/us/pl/101/574/tII], § 212, Nov. 15, 1990, [104 Stat. 2821][/us/stat/104/2821]; [Pub. L. 102–140, title VI][/us/pl/102/140/tVI], § 609(g), Oct. 28, 1991, [105 Stat. 826][/us/stat/105/826]; [Pub. L. 102–366, title II][/us/pl/102/366/tII], § 225, Sept. 4, 1992, [106 Stat. 1001][/us/stat/106/1001]; [Pub. L. 103–403, title IV][/us/pl/103/403/tIV], § 401(b), Oct. 22, 1994, [108 Stat. 4190][/us/stat/108/4190], provided that:
 
 >     “(a) This Act \[amending this section and sections 632 and 637 of this title and enacting provisions set out as notes under this section and sections 631 and 637 of this title\] shall take effect on October 1, 1984.
 
@@ -437,7 +437,7 @@
 
  __Effective Date of 1977 Amendment__ 
 
-[Pub. L. 95–89, title I, § 106][/us/pl/95/89/s106], Aug. 4, 1977, [91 Stat. 557][/us/stat/91/557], provided that: 
+[Pub. L. 95–89, title I][/us/pl/95/89/tI], § 106, Aug. 4, 1977, [91 Stat. 557][/us/stat/91/557], provided that: 
 
 > “This title \[amending this section, sections 636, 694, 694–2, and 694c of this title, and provisions set out as a note under [section 631 of this title][/us/usc/t15/s631]\] shall become effective on October 1, 1977.”
 
@@ -449,7 +449,7 @@
 
  __Effective Date of 1966 Amendment__ 
 
-    [Pub. L. 89–409, § 2][/us/pl/89/409/s2], May 2, 1966, [80 Stat. 132][/us/stat/80/132], provided that the amendment made by that section is effective July 1, 1966.
+    [Pub. L. 89–409][/us/pl/89/409], § 2, May 2, 1966, [80 Stat. 132][/us/stat/80/132], provided that the amendment made by that section is effective July 1, 1966.
 
  __Termination of Trust Territory of the Pacific Islands__ 
 
@@ -457,19 +457,19 @@
 
  __Transfer of Functions__ 
 
-    Functions, powers, and duties of Office of Audits and Investigations in Small Business Administration transferred to Office of Inspector General in Small Business Administration, as established by [Pub. L. 95–452, § 2][/us/pl/95/452/s2], Oct. 12, 1978, [92 Stat. 1101][/us/stat/92/1101], set out in the Appendix to Title 5, Government Organization and Employees. See [section 9(a)(1)(T) of Pub. L. 95–452][/us/pl/95/452/s9/a/1/T] set out in the Appendix to Title 5.
+    Functions, powers, and duties of Office of Audits and Investigations in Small Business Administration transferred to Office of Inspector General in Small Business Administration, as established by [Pub. L. 95–452][/us/pl/95/452], § 2, Oct. 12, 1978, [92 Stat. 1101][/us/stat/92/1101], set out in the Appendix to Title 5, Government Organization and Employees. See [section 9(a)(1)(T) of Pub. L. 95–452][/us/pl/95/452/s9/a/1/T] set out in the Appendix to Title 5.
 
     Loan Policy Board, provided for in subsec. (d) of this section, abolished and functions, including functions of chairman and other officers, transferred to Administrator of Small Business Administration by sections 11(b) and 13(a) of Reorg. Plan No. 4 of 1965, eff. July 27, 1965, 30 F.R. 9353, [79 Stat. 1321][/us/stat/79/1321], set out in the Appendix to Title 5.
 
  __Administrator’s Order__ 
 
-[Pub. L. 106–50, title VII, § 701][/us/pl/106/50/s701], Aug. 17, 1999, [113 Stat. 249][/us/stat/113/249], provided that: 
+[Pub. L. 106–50, title VII][/us/pl/106/50/tVII], § 701, Aug. 17, 1999, [113 Stat. 249][/us/stat/113/249], provided that: 
 
 > “The Administrator of the Small Business Administration shall strengthen and reissue the Administrator’s order regarding the third sentence of section 4(b)(1) of the Small Business Act ([15 U.S.C. 633(b)(1)][/us/usc/t15/s633/b/1]), relating to nondiscrimination and special considerations for veterans, and take all necessary steps to ensure that its provisions are fully and vigorously implemented.”
 
  __Completion of Planning for Loan Monitoring System__ 
 
-[Pub. L. 105–135, title II, § 233][/us/pl/105/135/s233], Dec. 2, 1997, [111 Stat. 2607][/us/stat/111/2607], provided that:
+[Pub. L. 105–135, title II][/us/pl/105/135/tII], § 233, Dec. 2, 1997, [111 Stat. 2607][/us/stat/111/2607], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -515,19 +515,19 @@
 
  __Associate Administrator for Minority Small Business and Capital Ownership Development__ 
 
-[Pub. L. 100–656, title IV, § 401(b)][/us/pl/100/656/s401/b], Nov. 15, 1988, [102 Stat. 3873][/us/stat/102/3873], as amended by [Pub. L. 101–37, § 11(b)][/us/pl/101/37/s11/b], June 15, 1989, [103 Stat. 73][/us/stat/103/73], provided that: 
+[Pub. L. 100–656, title IV][/us/pl/100/656/tIV], § 401(b), Nov. 15, 1988, [102 Stat. 3873][/us/stat/102/3873], as amended by [Pub. L. 101–37][/us/pl/101/37], § 11(b), June 15, 1989, [103 Stat. 73][/us/stat/103/73], provided that: 
 
 > “The position of Associate Administrator for Minority Small Business and Capital Ownership Development referred to in paragraph (1) of section 4(b) of the Small Business Act \[[15 U.S.C. 633(b)(1)][/us/usc/t15/s633/b/1]\] shall be a career reserved position.”
 
  __Availability of Funds__ 
 
-[Pub. L. 100–71, title I][/us/pl/100/71], July 11, 1987, [101 Stat. 396][/us/stat/101/396], provided in part that: 
+[Pub. L. 100–71, title I][/us/pl/100/71/tI], July 11, 1987, [101 Stat. 396][/us/stat/101/396], provided in part that: 
 
 > “hereafter, notwithstanding any law, rule or regulation, moneys in any fund established by the Small Business Act \[[15 U.S.C. 631][/us/usc/t15/s631] et seq.\] which are not needed for current operations shall remain in such funds and shall be available solely to carry out the provisions and purposes of programs operated from such funds pursuant to law as provided in appropriations Acts.”
 
  __Finding and Purpose of 1984 Amendment__ 
 
-[Pub. L. 98–362, § 2][/us/pl/98/362/s2], July 16, 1984, [98 Stat. 431][/us/stat/98/431], provided that:
+[Pub. L. 98–362][/us/pl/98/362], § 2, July 16, 1984, [98 Stat. 431][/us/stat/98/431], provided that:
 
 >     “(a)
 
@@ -555,11 +555,11 @@
 
  __Audit by General Accounting Office of Small Business Administration; Report to Congress__ 
 
-    [Pub. L. 93–386, § 13][/us/pl/93/386/s13], Aug. 23, 1974, [88 Stat. 750][/us/stat/88/750], directed General Accounting Office to conduct a full-scale audit of Small Business Administration, including all field offices and to submit audit to House and Senate not later than six months from Aug. 23, 1974.
+    [Pub. L. 93–386][/us/pl/93/386], § 13, Aug. 23, 1974, [88 Stat. 750][/us/stat/88/750], directed General Accounting Office to conduct a full-scale audit of Small Business Administration, including all field offices and to submit audit to House and Senate not later than six months from Aug. 23, 1974.
 
  __Nonavailability of Unobligated Funds After June 30, 1974__ 
 
-    [Pub. L. 93–237, § 1][/us/pl/93/237/s1], Jan. 2, 1974, [87 Stat. 1023][/us/stat/87/1023], provided in part that any additional amounts authorized by [Pub. L. 93–237][/us/pl/93/237] \[amending this section, sections 636 and 639 of this title, [section 1961 of Title 7][/us/usc/t7/s1961], Agriculture, and [section 3142–1 of Title 42][/us/usc/t42/s3142–1], The Public Health and Welfare, and enacting provisions set out as notes under this section, [section 636 of this title][/us/usc/t15/s636], and sections 1961 and 1969 of Title 7\] which were not obligated by June 30, 1974, were no longer to be available after that date.
+    [Pub. L. 93–237][/us/pl/93/237], § 1, Jan. 2, 1974, [87 Stat. 1023][/us/stat/87/1023], provided in part that any additional amounts authorized by [Pub. L. 93–237][/us/pl/93/237] \[amending this section, sections 636 and 639 of this title, [section 1961 of Title 7][/us/usc/t7/s1961], Agriculture, and [section 3142–1 of Title 42][/us/usc/t42/s3142–1], The Public Health and Welfare, and enacting provisions set out as notes under this section, [section 636 of this title][/us/usc/t15/s636], and sections 1961 and 1969 of Title 7\] which were not obligated by June 30, 1974, were no longer to be available after that date.
 
  __Additional Capital for Revolving Fund__ 
 
@@ -569,25 +569,25 @@ The following acts appropriated additional capital:
 
     $84,000,000—[Pub. L. 89–309][/us/pl/89/309], ch. IX, Oct. 31, 1965, [79 Stat. 1151][/us/stat/79/1151] \[effective only upon enactment into law of authorizing legislation\].
 
-    $150,000,000—[Pub. L. 89–164, title V][/us/pl/89/164], Sept. 2, 1965, [79 Stat. 641][/us/stat/79/641].
+    $150,000,000—[Pub. L. 89–164, title V][/us/pl/89/164/tV], Sept. 2, 1965, [79 Stat. 641][/us/stat/79/641].
 
-    $100,000,000—[Pub. L. 89–16, title I][/us/pl/89/16], ch. IX, Apr. 30, 1965, [79 Stat. 92][/us/stat/79/92].
+    $100,000,000—[Pub. L. 89–16, title I][/us/pl/89/16/tI], ch. IX, Apr. 30, 1965, [79 Stat. 92][/us/stat/79/92].
 
     1964—$45,000,000—[Pub. L. 88–635][/us/pl/88/635], ch. IX, Oct. 7, 1964, [78 Stat. 1032][/us/stat/78/1032].
 
-    1963—$90,000,000—[Pub. L. 88–245, title V][/us/pl/88/245], Dec. 30, 1963, [77 Stat. 798][/us/stat/77/798].
+    1963—$90,000,000—[Pub. L. 88–245, title V][/us/pl/88/245/tV], Dec. 30, 1963, [77 Stat. 798][/us/stat/77/798].
 
-    1962—$300,000,000—[Pub. L. 87–843, title V][/us/pl/87/843], Oct. 18, 1962, [76 Stat. 1102][/us/stat/76/1102].
+    1962—$300,000,000—[Pub. L. 87–843, title V][/us/pl/87/843/tV], Oct. 18, 1962, [76 Stat. 1102][/us/stat/76/1102].
 
-    $40,000,000—[Pub. L. 87–545, title I][/us/pl/87/545], July 25, 1962, [76 Stat. 213][/us/stat/76/213].
+    $40,000,000—[Pub. L. 87–545, title I][/us/pl/87/545/tI], July 25, 1962, [76 Stat. 213][/us/stat/76/213].
 
     1961—$160,000,000—[Pub. L. 87–332][/us/pl/87/332], Sept. 30, 1961, [75 Stat. 742][/us/stat/75/742].
 
-    $20,000,000—[Pub. L. 87–125, title IV][/us/pl/87/125], Aug. 3, 1961, [75 Stat. 281][/us/stat/75/281].
+    $20,000,000—[Pub. L. 87–125, title IV][/us/pl/87/125/tIV], Aug. 3, 1961, [75 Stat. 281][/us/stat/75/281].
 
-    1960—$50,000,000—[Pub. L. 86–451, title III][/us/pl/86/451], May 13, 1960, [74 Stat. 102][/us/stat/74/102].
+    1960—$50,000,000—[Pub. L. 86–451, title III][/us/pl/86/451/tIII], May 13, 1960, [74 Stat. 102][/us/stat/74/102].
 
-    1959—$150,000,000—[Pub. L. 86–88, title III][/us/pl/86/88], July 13, 1959, [73 Stat. 209][/us/stat/73/209].
+    1959—$150,000,000—[Pub. L. 86–88, title III][/us/pl/86/88/tIII], July 13, 1959, [73 Stat. 209][/us/stat/73/209].
 
     1958—$200,000,000—[Pub. L. 85–766][/us/pl/85/766], ch. II, Aug. 27, 1958, [72 Stat. 867][/us/stat/72/867].
 
@@ -597,17 +597,17 @@ The following acts appropriated additional capital:
 
     $45,000,000—[Pub. L. 85–19][/us/pl/85/19], ch. I, Apr. 20, 1957, [71 Stat. 16][/us/stat/71/16].
 
-    1956—$50,000,000—[Act June 20, 1956, ch. 415][/us/act/1956-06-20/ch415], title III, [70 Stat. 325][/us/stat/70/325].
+    1956—$50,000,000—[Act June 20, 1956, ch. 415, title III][/us/act/1956-06-20/ch415/tIII], [70 Stat. 325][/us/stat/70/325].
 
  __Business Loan and Investment Fund; Increase in Financing Functions; Monthly Reports to Congress__ 
 
-[Pub. L. 91–151, title III][/us/pl/91/151], Dec. 23, 1969, [83 Stat. 378][/us/stat/83/378], provided that: 
+[Pub. L. 91–151, title III][/us/pl/91/151/tIII], Dec. 23, 1969, [83 Stat. 378][/us/stat/83/378], provided that: 
 
 > “The Small Business Administration shall promptly increase the level of its financing functions utilizing the business loan and investment fund established under section 4(c)(1)(B) of the Small Business Act ([15 U.S.C. 633(c)(1)(B)][/us/usc/t15/s633/c/1/B]) \[subsec. (c)(1)(B) of this section\] by $70,000,000 above the level prevailing at the time of enactment of this Act \[Dec. 23, 1969\]. The Small Business Administration shall submit to Congress a monthly report of its implementation of this section.”
 
  __Transfer of Funds for Trade Adjustment Loans__ 
 
-    [Pub. L. 89–409, § 3(b)][/us/pl/89/409/s3/b], May 2, 1966, [80 Stat. 133][/us/stat/80/133], provided in part that any unexpended balances of appropriations heretofore appropriated for the purposes of such section \[former [section 637a of this title][/us/usc/t15/s637a]\] were transferred to the business loan and investment fund established by section 4(c)(1) of the Small Business Act \[subsec. (c)(1) of this section\].
+    [Pub. L. 89–409][/us/pl/89/409], § 3(b), May 2, 1966, [80 Stat. 133][/us/stat/80/133], provided in part that any unexpended balances of appropriations heretofore appropriated for the purposes of such section \[former [section 637a of this title][/us/usc/t15/s637a]\] were transferred to the business loan and investment fund established by section 4(c)(1) of the Small Business Act \[subsec. (c)(1) of this section\].
 
     Such transfer of funds as effective July 1, 1966, see [section 3(c) of Pub. L. 89–409][/us/pl/89/409/s3/c], set out as Effective Date of 1966 Amendment note under [section 636 of this title][/us/usc/t15/s636].
 
@@ -629,202 +629,202 @@ The following acts appropriated additional capital:
 [/us/usc/t15/s681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs681
 [/us/usc/t15/s636/j/10/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fj%2F10%2FD
 [/us/usc/t15/s644/q/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs644%2Fq%2F3
-[/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
+[/us/pl/85/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536
 [/us/stat/72/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F384
-[/us/pl/85/699/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs202
+[/us/pl/85/699/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtII
 [/us/stat/72/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F690
-[/us/pl/87/341/s11/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341%2Fs11%2Fh%2F1
+[/us/pl/87/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341
 [/us/stat/75/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F757
-[/us/pl/86/367/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F367%2Fs1
+[/us/pl/86/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F367
 [/us/stat/73/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F647
-[/us/pl/87/70/s305/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2Fs305%2Fc
+[/us/pl/87/70/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F70%2FtIII
 [/us/stat/75/167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F167
 [/us/pl/87/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F198
 [/us/stat/75/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F468
-[/us/pl/87/305/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F305%2Fs3
+[/us/pl/87/305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F305
 [/us/stat/75/666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F666
 [/us/pl/87/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F341
 [/us/stat/75/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F757
-[/us/pl/87/550/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F550%2Fs1%2Fa
+[/us/pl/87/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F550
 [/us/stat/76/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F220
 [/us/pl/89/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F59
 [/us/stat/79/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F207
 [/us/pl/89/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F78
 [/us/stat/79/243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F243
-[/us/pl/89/117/s316/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2Fs316%2Fd
+[/us/pl/89/117/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117%2FtIII
 [/us/stat/79/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F484
 [/us/pl/89/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F334
 [/us/stat/79/1294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1294
 [/us/pl/89/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F409
 [/us/stat/80/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F132
-[/us/pl/89/779/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779%2Fs8%2Fa
+[/us/pl/89/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779
 [/us/stat/80/1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1364
-[/us/pl/90/104/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104%2Fs102
+[/us/pl/90/104/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104%2FtI
 [/us/stat/81/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F268
-[/us/pl/90/448/s1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1721
+[/us/pl/90/448/tXVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2FtXVII
 [/us/stat/82/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F610
-[/us/pl/91/173/s504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2Fs504%2Fc
+[/us/pl/91/173/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173%2FtV
 [/us/stat/83/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F802
-[/us/pl/91/558/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F558%2Fs101
+[/us/pl/91/558/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F558%2FtI
 [/us/stat/84/1468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1468
-[/us/pl/91/596/s28/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs28%2Fc
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1618
-[/us/pl/91/597/s25/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597%2Fs25%2Fc
+[/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
 [/us/stat/84/1634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1634
 [/us/pl/92/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F16
 [/us/stat/85/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F39
-[/us/pl/92/320/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F320%2Fs1
+[/us/pl/92/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F320
 [/us/stat/86/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F382
-[/us/pl/92/385/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F385%2Fs2%2Fb
+[/us/pl/92/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F385
 [/us/stat/86/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F556
-[/us/pl/92/500/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500%2Fs8%2Fb
+[/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/stat/86/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F899
-[/us/pl/92/595/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595%2Fs3%2Fa
+[/us/pl/92/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595
 [/us/stat/86/1316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1316
 [/us/pl/93/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F237
 [/us/stat/87/1023-1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1023-1025
 [/us/pl/93/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386
 [/us/stat/88/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F742
-[/us/pl/94/273/s2/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs2%2F5
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F375
 [/us/pl/95/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F14
 [/us/stat/91/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F25
-[/us/pl/95/89/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F89%2Fs101%2Fa
+[/us/pl/95/89/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F89%2FtI
 [/us/stat/91/553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F553
-[/us/pl/95/315/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F315%2Fs4
+[/us/pl/95/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F315
 [/us/stat/92/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F379
-[/us/pl/95/507/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507%2Fs206
+[/us/pl/95/507/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507%2FtII
 [/us/stat/92/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1766
-[/us/pl/96/302/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs121
+[/us/pl/96/302/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2FtI
 [/us/stat/94/842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F842
-[/us/pl/96/481/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2Fs103
+[/us/pl/96/481/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481%2FtI
 [/us/stat/94/2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2321
-[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtXIX
 [/us/stat/95/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F778
-[/us/pl/98/270/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F270%2Fs306
+[/us/pl/98/270/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F270%2FtIII
 [/us/stat/98/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F161
-[/us/pl/98/352/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F352%2Fs5
+[/us/pl/98/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F352
 [/us/stat/98/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F331
 [/us/pl/98/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F362
 [/us/stat/98/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F431
-[/us/pl/100/590/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2Fs111%2Fa
+[/us/pl/100/590/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2FtI
 [/us/stat/102/2995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2995
-[/us/pl/100/656/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656%2Fs401%2Fa
+[/us/pl/100/656/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656%2FtIV
 [/us/stat/102/3873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3873
-[/us/pl/101/37/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F37%2Fs11%2Fa
+[/us/pl/101/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F37
 [/us/stat/103/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F73
-[/us/pl/101/515/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2Fs1%2Fa
+[/us/pl/101/515/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2FtV
 [/us/stat/104/2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2140
-[/us/pl/101/574/s221/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs221%2Fa
+[/us/pl/101/574/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2FtII
 [/us/stat/104/2823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2823
-[/us/pl/102/140/s609/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2Fs609%2Fk
+[/us/pl/102/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2FtVI
 [/us/stat/105/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F831
-[/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
+[/us/pl/103/403/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtVI
 [/us/stat/108/4201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4201
-[/us/pl/104/208/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs102
+[/us/pl/104/208/dD/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD%2FtI
 [/us/stat/110/3009-725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-725
-[/us/pl/106/50/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2Fs201%2Fa
+[/us/pl/106/50/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2FtII
 [/us/stat/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F235
-[/us/pl/108/447/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs132%2Fa
+[/us/pl/108/447/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdK%2FtI
 [/us/stat/118/3452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3452
-[/us/pl/110/234/s12068/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2Fs12068%2Fb%2F1
+[/us/pl/110/234/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234%2FtXII
 [/us/stat/122/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1410
-[/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
-[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2521
-[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtVIII
 [/us/stat/129/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F927
-[/us/pl/89/409/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F409%2Fs2
+[/us/pl/89/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F409
 [/us/pl/85/699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699
 [/us/stat/72/689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F689
 [/us/usc/t15/s661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs661
-[/us/pl/104/208/s107/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs107%2Fd
+[/us/pl/104/208/dD/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD%2FtI
 [/us/stat/110/3009-732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-732
-[/us/pl/111/240/s1131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1131%2Fa
+[/us/pl/111/240/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2FtI
 [/us/stat/124/2512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2512
 [/us/usc/t42/s662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs662
-[/us/pl/104/193/s362/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs362%2Fb%2F1
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2246
 [/us/usc/t31/s847–849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs847%E2%80%93849
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/act/1953-07-30/ch282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-30%2Fch282
+[/us/act/1953-07-30/ch282/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-30%2Fch282%2FtII
 [/us/stat/67/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F233
-[/us/act/1955-08-09/ch628/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch628%2Fs3
+[/us/act/1955-08-09/ch628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch628
 [/us/stat/69/547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F547
-[/us/act/1956-02-02/ch29/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-02-02%2Fch29%2Fs1
+[/us/act/1956-02-02/ch29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-02-02%2Fch29
 [/us/stat/70/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F10
 [/us/act/1956-07-31/ch804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-31%2Fch804
 [/us/stat/70/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F737
 [/us/pl/85/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F4
 [/us/stat/71/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F4
-[/us/pl/85/120/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F120%2Fs1
+[/us/pl/85/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F120
 [/us/stat/71/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F341
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/114/92/s869/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs869%2Fa%2F2
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/usc/t15/s634/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs634%2Fi
-[/us/pl/114/92/s865/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs865%2Fa%2F1
-[/us/pl/114/92/s865/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs865%2Fb
-[/us/pl/111/240/s1203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1203%2Fb
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
 [/us/usc/t15/s649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs649
-[/us/pl/111/240/s1202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240%2Fs1202%2Fb%2F2
-[/us/pl/110/246/s12068/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs12068%2Fb%2F1
-[/us/pl/108/447/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs132%2Fa
+[/us/pl/111/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F240
+[/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
+[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
 [/us/pl/106/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50
 [/us/usc/t15/s657b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs657b
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
-[/us/pl/103/403/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs601
-[/us/pl/103/403/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs611
-[/us/pl/103/403/s612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs612
+[/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
+[/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
+[/us/pl/103/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403
 [/us/pl/102/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140
 [/us/pl/101/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515
 [/us/pl/101/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574
 [/us/pl/101/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F37
-[/us/pl/100/656/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656%2Fs401%2Fa
-[/us/pl/100/656/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656%2Fs401%2Fa
+[/us/pl/100/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656
+[/us/pl/100/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656
 [/us/pl/101/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F37
-[/us/pl/100/590/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2Fs111%2Fa
+[/us/pl/100/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590
 [/us/pl/98/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F362
-[/us/pl/98/362/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F362%2Fs4
+[/us/pl/98/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F362
 [/us/pl/98/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F270
 [/us/pl/98/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F352
-[/us/pl/97/35/s1913/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1913%2Fb
-[/us/pl/97/35/s1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1908
-[/us/pl/97/35/s1915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1915
-[/us/pl/96/302/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs401
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
+[/us/pl/96/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302
 [/us/pl/96/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F481
-[/us/pl/96/302/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs121
+[/us/pl/96/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302
 [/us/pl/95/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507
 [/us/pl/95/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F315
 [/us/pl/95/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F89
 [/us/pl/95/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F89
-[/us/pl/95/89/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F89%2Fs101%2Fb
+[/us/pl/95/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F89
 [/us/pl/95/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F89
 [/us/usc/t15/s636/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fi
 [/us/pl/95/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F14
-[/us/pl/95/89/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F89%2Fs202
+[/us/pl/95/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F89
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
+[/us/pl/93/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386
 [/us/pl/93/386/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386%2Fs7
-[/us/pl/93/386/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386%2Fs7
-[/us/pl/93/237/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F237%2Fs8
-[/us/pl/93/386/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386%2Fs2%2Fa%2F2
-[/us/pl/93/237/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F237%2Fs3%2Fb
-[/us/pl/93/386/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386%2Fs2%2Fa%2F2
-[/us/pl/93/237/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F237%2Fs3%2Fb
-[/us/pl/93/386/s2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386%2Fs2%2Fa%2F3
+[/us/pl/93/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F237
+[/us/pl/93/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386
+[/us/pl/93/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F237
+[/us/pl/93/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386
+[/us/pl/93/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F237
+[/us/pl/93/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386
 [/us/usc/t15/s636/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fi
 [/us/pl/93/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F237
 [/us/pl/92/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595
 [/us/pl/92/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F500
 [/us/usc/t15/s636/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fg
-[/us/pl/92/385/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F385%2Fs2%2Fb%2F1
+[/us/pl/92/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F385
 [/us/pl/92/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595
-[/us/pl/92/385/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F385%2Fs2%2Fb%2F2
+[/us/pl/92/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F385
 [/us/pl/92/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F595
 [/us/pl/92/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F320
 [/us/pl/92/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F16
@@ -836,11 +836,11 @@ The following acts appropriated additional capital:
 [/us/pl/91/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F173
 [/us/usc/t15/s636/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs636%2Fb%2F5
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
-[/us/pl/90/104/s102/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104%2Fs102%2F1
+[/us/pl/90/104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F104
 [/us/pl/89/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F779
 [/us/usc/t15/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs671
-[/us/pl/89/409/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F409%2Fs1
-[/us/pl/89/409/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F409%2Fs2
+[/us/pl/89/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F409
+[/us/pl/89/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F409
 [/us/pl/89/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F334
 [/us/pl/89/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F117
 [/us/pl/89/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F78
@@ -858,15 +858,15 @@ The following acts appropriated additional capital:
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4
 [/us/usc/t7/s8701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs8701
-[/us/pl/108/447/s132/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs132%2Fc
+[/us/pl/108/447/dK/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdK%2FtI
 [/us/stat/118/3453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3453
 [/us/usc/t15/s637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637
-[/us/pl/104/208/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs3
+[/us/pl/104/208/dD]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdD
 [/us/stat/110/3009-725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-725
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/101/574/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs221%2Fb
+[/us/pl/101/574/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2FtII
 [/us/stat/104/2823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2823
-[/us/pl/101/515/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2Fs1%2Fb
+[/us/pl/101/515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515
 [/us/stat/104/2140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2140
 [/us/pl/101/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F37
 [/us/pl/100/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656
@@ -875,19 +875,19 @@ The following acts appropriated additional capital:
 [/us/pl/100/656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656
 [/us/pl/100/656/s803/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656%2Fs803%2Fb%2F1%2FC
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/98/362/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F362%2Fs7
+[/us/pl/98/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F362
 [/us/stat/98/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F434
-[/us/pl/100/590/s131/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2Fs131%2Fa
+[/us/pl/100/590/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F590%2FtI
 [/us/stat/102/3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3004
-[/us/pl/101/515/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2Fs11
+[/us/pl/101/515/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F515%2FtV
 [/us/stat/104/2145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2145
-[/us/pl/101/574/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2Fs212
+[/us/pl/101/574/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F574%2FtII
 [/us/stat/104/2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2821
-[/us/pl/102/140/s609/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2Fs609%2Fg
+[/us/pl/102/140/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2FtVI
 [/us/stat/105/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F826
-[/us/pl/102/366/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2Fs225
+[/us/pl/102/366/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F366%2FtII
 [/us/stat/106/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1001
-[/us/pl/103/403/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2Fs401%2Fb
+[/us/pl/103/403/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F403%2FtIV
 [/us/stat/108/4190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4190
 [/us/usc/t15/s633/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs633%2Fb%2F3
 [/us/usc/t15/s637/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637%2Fb%2F1%2FA
@@ -903,7 +903,7 @@ The following acts appropriated additional capital:
 [/us/pl/96/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302
 [/us/pl/96/302/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F302%2Fs507
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/95/89/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F89%2Fs106
+[/us/pl/95/89/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F89%2FtI
 [/us/stat/91/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F557
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
 [/us/pl/91/597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F597
@@ -912,31 +912,31 @@ The following acts appropriated additional capital:
 [/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/pl/91/596/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs34
 [/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
-[/us/pl/89/409/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F409%2Fs2
+[/us/pl/89/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F409
 [/us/stat/80/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F132
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681
-[/us/pl/95/452/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs2
+[/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
 [/us/pl/95/452/s9/a/1/T]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452%2Fs9%2Fa%2F1%2FT
 [/us/stat/79/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1321
-[/us/pl/106/50/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2Fs701
+[/us/pl/106/50/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F50%2FtVII
 [/us/stat/113/249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F249
 [/us/usc/t15/s633/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs633%2Fb%2F1
-[/us/pl/105/135/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2Fs233
+[/us/pl/105/135/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F135%2FtII
 [/us/stat/111/2607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2607
-[/us/pl/100/656/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656%2Fs401%2Fb
+[/us/pl/100/656/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F656%2FtIV
 [/us/stat/102/3873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3873
-[/us/pl/101/37/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F37%2Fs11%2Fb
+[/us/pl/101/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F37
 [/us/stat/103/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F73
 [/us/usc/t15/s633/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs633%2Fb%2F1
-[/us/pl/100/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71
+[/us/pl/100/71/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F71%2FtI
 [/us/stat/101/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F396
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/98/362/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F362%2Fs2
+[/us/pl/98/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F362
 [/us/stat/98/431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F431
-[/us/pl/93/386/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386%2Fs13
+[/us/pl/93/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F386
 [/us/stat/88/750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F750
-[/us/pl/93/237/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F237%2Fs1
+[/us/pl/93/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F237
 [/us/stat/87/1023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F1023
 [/us/pl/93/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F237
 [/us/usc/t7/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1961
@@ -946,25 +946,25 @@ The following acts appropriated additional capital:
 [/us/stat/79/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1151
 [/us/pl/89/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F309
 [/us/stat/79/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1151
-[/us/pl/89/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F164
+[/us/pl/89/164/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F164%2FtV
 [/us/stat/79/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F641
-[/us/pl/89/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F16
+[/us/pl/89/16/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F16%2FtI
 [/us/stat/79/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F92
 [/us/pl/88/635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F635
 [/us/stat/78/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F1032
-[/us/pl/88/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F245
+[/us/pl/88/245/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F245%2FtV
 [/us/stat/77/798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F798
-[/us/pl/87/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F843
+[/us/pl/87/843/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F843%2FtV
 [/us/stat/76/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1102
-[/us/pl/87/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F545
+[/us/pl/87/545/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F545%2FtI
 [/us/stat/76/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F213
 [/us/pl/87/332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F332
 [/us/stat/75/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F742
-[/us/pl/87/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F125
+[/us/pl/87/125/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F125%2FtIV
 [/us/stat/75/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F281
-[/us/pl/86/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F451
+[/us/pl/86/451/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F451%2FtIII
 [/us/stat/74/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F102
-[/us/pl/86/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F88
+[/us/pl/86/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F88%2FtIII
 [/us/stat/73/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F209
 [/us/pl/85/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F766
 [/us/stat/72/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F867
@@ -974,12 +974,12 @@ The following acts appropriated additional capital:
 [/us/stat/71/428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F428
 [/us/pl/85/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F19
 [/us/stat/71/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F16
-[/us/act/1956-06-20/ch415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-20%2Fch415
+[/us/act/1956-06-20/ch415/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-20%2Fch415%2FtIII
 [/us/stat/70/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F325
-[/us/pl/91/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F151
+[/us/pl/91/151/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F151%2FtIII
 [/us/stat/83/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F378
 [/us/usc/t15/s633/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs633%2Fc%2F1%2FB
-[/us/pl/89/409/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F409%2Fs3%2Fb
+[/us/pl/89/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F409
 [/us/stat/80/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F133
 [/us/usc/t15/s637a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs637a
 [/us/pl/89/409/s3/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F409%2Fs3%2Fc

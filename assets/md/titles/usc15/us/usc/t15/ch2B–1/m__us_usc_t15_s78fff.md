@@ -49,7 +49,7 @@
 
         All costs and expenses of administration of the estate of the debtor and of the liquidation proceeding shall be borne by the general estate of the debtor to the extent it is sufficient therefor, and the priorities of distribution from the general estate shall be as provided in [section 726 of title 11][/us/usc/t11/s726]. Costs and expenses of administration shall include payments pursuant to [section 78fff–2(e) of this title][/us/usc/t15/s78fff–2/e] and [section 78fff–3(c)(1) of this title][/us/usc/t15/s78fff–3/c/1] (to the extent such payments recovered securities which were apportioned to the general estate pursuant to subsection (d)) and costs and expenses of SIPC employees utilized by the trustee pursuant to [section 78fff–1(a)(2) of this title][/us/usc/t15/s78fff–1/a/2]. All funds advanced by SIPC to a trustee for such costs and expenses of administration shall be recouped from the general estate under [section 507(a)(2) of title 11][/us/usc/t11/s507/a/2].
 
-([Pub. L. 91–598, § 6][/us/pl/91/598/s6], Dec. 30, 1970, [84 Stat. 1646][/us/stat/84/1646]; [Pub. L. 95–283, § 8][/us/pl/95/283/s8], May 21, 1978, [92 Stat. 259][/us/stat/92/259]; [Pub. L. 95–598, title III, § 308(g)][/us/pl/95/598/s308/g], (h), Nov. 6, 1978, [92 Stat. 2675][/us/stat/92/2675]; [Pub. L. 109–8, title XV, § 1502(b)][/us/pl/109/8/s1502/b], Apr. 20, 2005, [119 Stat. 217][/us/stat/119/217].)
+([Pub. L. 91–598][/us/pl/91/598], § 6, Dec. 30, 1970, [84 Stat. 1646][/us/stat/84/1646]; [Pub. L. 95–283][/us/pl/95/283], § 8, May 21, 1978, [92 Stat. 259][/us/stat/92/259]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 308(g), (h), Nov. 6, 1978, [92 Stat. 2675][/us/stat/92/2675]; [Pub. L. 109–8, title XV][/us/pl/109/8/tXV], § 1502(b), Apr. 20, 2005, [119 Stat. 217][/us/stat/119/217].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 
     Subsec. (a). [Pub. L. 95–283][/us/pl/95/283] in heading substituted “Purposes” for “General purposes of liquidation proceeding”, in introductory text substituted provisions relating to purposes of liquidation proceedings under this chapter, for provisions relating to purposes of any proceeding in which a trustee has been appointed under [section 78eee(b)(3) of this title][/us/usc/t15/s78eee/b/3], in par. (1) substituted provisions requiring execution of authorities to deliver customer name securities and distribute customer property in accordance with this chapter, for provisions requiring execution of authorities to return specifically identifiable property and distribute the single and separate fund in accordance with this section, and in par. (2) substituted provisions authorizing sale, etc., of productive units of the debtor, for provisions authorizing operation of the business of the debtor.
 
-    Subsec. (b). [Pub. L. 95–598, § 308(g)][/us/pl/95/598/s308/g], in heading substituted “title 11” for “Bankruptcy Act” and in text “under chapters 1, 3, and 5 and subchapters I and II of chapter 7 of title 11. For the purposes of applying such title in carrying out this section, a reference in such title to the date of the filing of the petition shall be deemed to be a reference to the filing date under this chapter.” for “under, the Bankruptcy Act. For purposes of applying the Bankruptcy Act to this chapter, any reference in the Bankruptcy Act to the date of commencement of proceedings under the Bankruptcy Act shall be deemed to be a reference to the filing date under this chapter.”
+    Subsec. (b). [Pub. L. 95–598][/us/pl/95/598], § 308(g), in heading substituted “title 11” for “Bankruptcy Act” and in text “under chapters 1, 3, and 5 and subchapters I and II of chapter 7 of title 11. For the purposes of applying such title in carrying out this section, a reference in such title to the date of the filing of the petition shall be deemed to be a reference to the filing date under this chapter.” for “under, the Bankruptcy Act. For purposes of applying the Bankruptcy Act to this chapter, any reference in the Bankruptcy Act to the date of commencement of proceedings under the Bankruptcy Act shall be deemed to be a reference to the filing date under this chapter.”
 
     [Pub. L. 95–283][/us/pl/95/283] in heading substituted “Application of Bankruptcy Act” for “Powers and Duties of Trustee”, and in text substituted provisions relating to applicability of Bankruptcy Act to liquidation proceedings, for provisions relating to the powers and duties of trustees. See [section 78fff–1 of this title][/us/usc/t15/s78fff–1].
 
@@ -71,7 +71,7 @@
 
     Subsec. (d). [Pub. L. 95–283][/us/pl/95/283] in heading substituted “Apportionment” for “Completion of open contractual commitments”, and in text substituted provisions relating to apportionment of cash or securities remaining after the liquidation of a lien or pledge made by a debtor, for provisions relating to completion by the trustee of open contractual commitments, which were made in the ordinary course of the debtor’s business and which were outstanding on the filing date. See [section 78fff–2(e) of this title][/us/usc/t15/s78fff–2/e].
 
-    Subsec. (e). [Pub. L. 95–598, § 308(h)][/us/pl/95/598/s308/h], substituted in first sentence “[section 726 of title 11][/us/usc/t11/s726]” for “the Bankruptcy Act” and in last sentence “under [section 507(a)(1) of title 11][/us/usc/t11/s507/a/1]” for “as a first priority under the Bankruptcy Act”.
+    Subsec. (e). [Pub. L. 95–598][/us/pl/95/598], § 308(h), substituted in first sentence “[section 726 of title 11][/us/usc/t11/s726]” for “the Bankruptcy Act” and in last sentence “under [section 507(a)(1) of title 11][/us/usc/t11/s507/a/1]” for “as a first priority under the Bankruptcy Act”.
 
     [Pub. L. 95–283][/us/pl/95/283] in heading substituted “Costs and expense of administration” for “Notice”, and in text substituted provisions relating to costs and expenses of administration of the estate of the debtor and of the liquidation proceeding, for provisions relating to notice requirements for the trustee subsequent to appointment as trustee. See [section 78fff–2(a)(l) of this title][/us/usc/t15/s78fff–2/a/l].
 
@@ -106,13 +106,13 @@
 [/us/usc/t15/s78fff–3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78fff%E2%80%933%2Fc%2F1
 [/us/usc/t15/s78fff–1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78fff%E2%80%931%2Fa%2F2
 [/us/usc/t11/s507/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs507%2Fa%2F2
-[/us/pl/91/598/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598%2Fs6
+[/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1646
-[/us/pl/95/283/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs8
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/stat/92/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F259
-[/us/pl/95/598/s308/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308%2Fg
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2675
-[/us/pl/109/8/s1502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2Fs1502%2Fb
+[/us/pl/109/8/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F8%2FtXV
 [/us/stat/119/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F217
 [/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1636]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1636
@@ -120,14 +120,14 @@
 [/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/usc/t15/s78eee/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78eee%2Fb%2F3
-[/us/pl/95/598/s308/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308%2Fg
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/usc/t15/s78fff–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78fff%E2%80%931
 [/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/usc/t15/s78fff–2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78fff%E2%80%932%2Fc
 [/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/usc/t15/s78fff–2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78fff%E2%80%932%2Fe
-[/us/pl/95/598/s308/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308%2Fh
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/usc/t11/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs726
 [/us/usc/t11/s507/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs507%2Fa%2F1
 [/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283

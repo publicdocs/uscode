@@ -53,11 +53,11 @@
 
         The term “student athlete” means an individual who engages in, is eligible to engage in, or may be eligible in the future to engage in, any intercollegiate sport. An individual who is permanently ineligible to participate in a particular intercollegiate sport is not a student athlete for purposes of that sport.
 
-([Pub. L. 108–304, § 2][/us/pl/108/304/s2], Sept. 24, 2004, [118 Stat. 1125][/us/stat/118/1125].)
+([Pub. L. 108–304][/us/pl/108/304], § 2, Sept. 24, 2004, [118 Stat. 1125][/us/stat/118/1125].)
 
  __Short Title__ 
 
-[Pub. L. 108–304, § 1][/us/pl/108/304/s1], Sept. 24, 2004, [118 Stat. 1125][/us/stat/118/1125], provided that: 
+[Pub. L. 108–304][/us/pl/108/304], § 1, Sept. 24, 2004, [118 Stat. 1125][/us/stat/118/1125], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Sports Agent Responsibility and Trust Act’.”
 
@@ -68,9 +68,9 @@
 ----------
 ----------
 
-[/us/pl/108/304/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F304%2Fs2
+[/us/pl/108/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F304
 [/us/stat/118/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1125
-[/us/pl/108/304/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F304%2Fs1
+[/us/pl/108/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F304
 [/us/stat/118/1125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1125
 
 

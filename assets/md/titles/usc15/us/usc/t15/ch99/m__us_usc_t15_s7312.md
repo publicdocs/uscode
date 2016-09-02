@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to confer any authority on the National Institute of Standards and Technology to require the adoption of building standards, codes, or practices.
 
-([Pub. L. 107–231, § 14][/us/pl/107/231/s14], Oct. 1, 2002, [116 Stat. 1477][/us/stat/116/1477].)
+([Pub. L. 107–231][/us/pl/107/231], § 14, Oct. 1, 2002, [116 Stat. 1477][/us/stat/116/1477].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/231/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231%2Fs14
+[/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
 [/us/stat/116/1477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1477
 [/us/pl/107/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F231
 [/us/stat/116/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1471

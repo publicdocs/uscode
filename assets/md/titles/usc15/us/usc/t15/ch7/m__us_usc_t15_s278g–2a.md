@@ -47,7 +47,7 @@
 
         The program shall provide for teachers’ participation in activities at the laboratory facilities of the Institute, or shall utilize other means of accomplishing the goals of the program as determined by the Director, which may include the Internet, video conferencing and recording, and workshops and conferences.
 
-([Mar. 3, 1901, ch. 872, § 19A][/us/act/1901-03-03/ch872/s19A], as added [Pub. L. 105–309, § 7][/us/pl/105/309/s7], Oct. 30, 1998, [112 Stat. 2937][/us/stat/112/2937]; amended [Pub. L. 111–358, title IV, § 406(c)][/us/pl/111/358/s406/c], Jan. 4, 2011, [124 Stat. 4004][/us/stat/124/4004].)
+([Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 19A, as added [Pub. L. 105–309][/us/pl/105/309], § 7, Oct. 30, 1998, [112 Stat. 2937][/us/stat/112/2937]; amended [Pub. L. 111–358, title IV][/us/pl/111/358/tIV], § 406(c), Jan. 4, 2011, [124 Stat. 4004][/us/stat/124/4004].)
 
  __Amendments__ 
 
@@ -61,10 +61,10 @@
 ----------
 
 [/us/usc/t20/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1021
-[/us/act/1901-03-03/ch872/s19A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs19A
-[/us/pl/105/309/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F309%2Fs7
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
+[/us/pl/105/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F309
 [/us/stat/112/2937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2937
-[/us/pl/111/358/s406/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2Fs406%2Fc
+[/us/pl/111/358/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358%2FtIV
 [/us/stat/124/4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4004
 [/us/pl/111/358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F358
 [/us/usc/t20/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1021

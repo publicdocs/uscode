@@ -771,7 +771,7 @@
 
             The provisions of this subsection shall terminate on the date that is 30 days after the date on which the President makes the certification described in [section 8551(a) of title 22][/us/usc/t22/s8551/a].
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 13, [48 Stat. 894][/us/stat/48/894]; [Pub. L. 88–467, § 4][/us/pl/88/467/s4], Aug. 20, 1964, [78 Stat. 569][/us/stat/78/569]; [Pub. L. 90–439, § 2][/us/pl/90/439/s2], July 29, 1968, [82 Stat. 454][/us/stat/82/454]; [Pub. L. 91–567][/us/pl/91/567], §§ 1, 2, Dec. 22, 1970, [84 Stat. 1497][/us/stat/84/1497]; [Pub. L. 94–29, § 10][/us/pl/94/29/s10], June 4, 1975, [89 Stat. 119][/us/stat/89/119]; [Pub. L. 94–210, title III, § 308(b)][/us/pl/94/210/s308/b], Feb. 5, 1976, [90 Stat. 57][/us/stat/90/57]; [Pub. L. 95–213, title I, § 102][/us/pl/95/213/s102], title II, §§ 202, 203, Dec. 19, 1977, [91 Stat. 1494][/us/stat/91/1494], 1498, 1499; [Pub. L. 98–38, § 2(a)][/us/pl/98/38/s2/a], June 6, 1983, [97 Stat. 205][/us/stat/97/205]; [Pub. L. 100–181, title III][/us/pl/100/181], §§ 315, 316, Dec. 4, 1987, [101 Stat. 1256][/us/stat/101/1256]; [Pub. L. 100–241, § 12(d)][/us/pl/100/241/s12/d], Feb. 3, 1988, [101 Stat. 1810][/us/stat/101/1810]; [Pub. L. 100–418, title V, § 5002][/us/pl/100/418/s5002], Aug. 23, 1988, [102 Stat. 1415][/us/stat/102/1415]; [Pub. L. 101–432, § 3][/us/pl/101/432/s3], Oct. 16, 1990, [104 Stat. 964][/us/stat/104/964]; [Pub. L. 107–123, § 5][/us/pl/107/123/s5], Jan. 16, 2002, [115 Stat. 2395][/us/stat/115/2395]; [Pub. L. 107–204, title I, § 109(i)][/us/pl/107/204/s109/i], formerly § 109(h), title IV, §§ 401(a), 402(a), 409, July 30, 2002, [116 Stat. 771][/us/stat/116/771], 785, 787, 791, renumbered § 109(i), [Pub. L. 111–203, title IX, § 982(h)(3)][/us/pl/111/203/s982/h/3], July 21, 2010, [124 Stat. 1930][/us/stat/124/1930]; [Pub. L. 111–203, title VII][/us/pl/111/203], §§ 763(i), 766(b), (c), (e), title IX, §§ 929R(a), 929X(a), 985(b)(4), 991(b)(2), title XV, §§ 1502(b), 1504, July 21, 2010, [124 Stat. 1779][/us/stat/124/1779], 1799, 1866, 1870, 1933, 1952, 2213, 2220; [Pub. L. 112–106, title I, § 102(b)(2)][/us/pl/112/106/s102/b/2], Apr. 5, 2012, [126 Stat. 309][/us/stat/126/309]; [Pub. L. 112–158, title II, § 219(a)][/us/pl/112/158/s219/a], Aug. 10, 2012, [126 Stat. 1235][/us/stat/126/1235]; [Pub. L. 114–94, div. G, title LXXXVI, § 86001(c)][/us/pl/114/94/s86001/c], Dec. 4, 2015, [129 Stat. 1798][/us/stat/129/1798].)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 13, [48 Stat. 894][/us/stat/48/894]; [Pub. L. 88–467][/us/pl/88/467], § 4, Aug. 20, 1964, [78 Stat. 569][/us/stat/78/569]; [Pub. L. 90–439][/us/pl/90/439], § 2, July 29, 1968, [82 Stat. 454][/us/stat/82/454]; [Pub. L. 91–567][/us/pl/91/567], §§ 1, 2, Dec. 22, 1970, [84 Stat. 1497][/us/stat/84/1497]; [Pub. L. 94–29][/us/pl/94/29], § 10, June 4, 1975, [89 Stat. 119][/us/stat/89/119]; [Pub. L. 94–210, title III][/us/pl/94/210/tIII], § 308(b), Feb. 5, 1976, [90 Stat. 57][/us/stat/90/57]; [Pub. L. 95–213, title I][/us/pl/95/213/tI], § 102, title II, §§ 202, 203, Dec. 19, 1977, [91 Stat. 1494][/us/stat/91/1494], 1498, 1499; [Pub. L. 98–38][/us/pl/98/38], § 2(a), June 6, 1983, [97 Stat. 205][/us/stat/97/205]; [Pub. L. 100–181, title III][/us/pl/100/181/tIII], §§ 315, 316, Dec. 4, 1987, [101 Stat. 1256][/us/stat/101/1256]; [Pub. L. 100–241][/us/pl/100/241], § 12(d), Feb. 3, 1988, [101 Stat. 1810][/us/stat/101/1810]; [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5002, Aug. 23, 1988, [102 Stat. 1415][/us/stat/102/1415]; [Pub. L. 101–432][/us/pl/101/432], § 3, Oct. 16, 1990, [104 Stat. 964][/us/stat/104/964]; [Pub. L. 107–123][/us/pl/107/123], § 5, Jan. 16, 2002, [115 Stat. 2395][/us/stat/115/2395]; [Pub. L. 107–204, title I][/us/pl/107/204/tI], § 109(i), formerly § 109(h), title IV, §§ 401(a), 402(a), 409, July 30, 2002, [116 Stat. 771][/us/stat/116/771], 785, 787, 791, renumbered § 109(i), [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 982(h)(3), July 21, 2010, [124 Stat. 1930][/us/stat/124/1930]; [Pub. L. 111–203, title VII][/us/pl/111/203/tVII], §§ 763(i), 766(b), (c), (e), title IX, §§ 929R(a), 929X(a), 985(b)(4), 991(b)(2), title XV, §§ 1502(b), 1504, July 21, 2010, [124 Stat. 1779][/us/stat/124/1779], 1799, 1866, 1870, 1933, 1952, 2213, 2220; [Pub. L. 112–106, title I][/us/pl/112/106/tI], § 102(b)(2), Apr. 5, 2012, [126 Stat. 309][/us/stat/126/309]; [Pub. L. 112–158, title II][/us/pl/112/158/tII], § 219(a), Aug. 10, 2012, [126 Stat. 1235][/us/stat/126/1235]; [Pub. L. 114–94, div. G, title LXXXVI][/us/pl/114/94/dG/tLXXXVI], § 86001(c), Dec. 4, 2015, [129 Stat. 1798][/us/stat/129/1798].)
 
  __Amendment of Section__ 
 
@@ -781,11 +781,11 @@
 
     This chapter, referred to in subsec. (a), was in the original “this Act”, and this chapter, referred to in subsecs. (b)(1), (h)(1), (2), (4), (6), (i), and (n)(6)(B)(v), (C)(i)(I), (7)(A), was in the original “this title”. See References in Text note set out under [section 78a of this title][/us/usc/t15/s78a].
 
-    The Securities Act of 1933, referred to in subsecs. (a) and (d)(6)(A), is [act May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
+    The Securities Act of 1933, referred to in subsecs. (a) and (d)(6)(A), is [act May 27, 1933, ch. 38, title I][/us/act/1933-05-27/ch38/tI], [48 Stat. 74][/us/stat/48/74], which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title][/us/usc/t15/s77a] and Tables.
 
     The Investment Company Act of 1940, referred to in subsecs. (d)(1) and (e)(1), is title I of [act Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], [54 Stat. 789][/us/stat/54/789], which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title][/us/usc/t15/s80a–51] and Tables.
 
-    The Federal Deposit Insurance Act, referred to in subsec. (f)(5), is [act Sept. 21, 1950, ch. 967, § 2][/us/act/1950-09-21/ch967/s2], [64 Stat. 873][/us/stat/64/873], which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of Title 12][/us/usc/t12/s1811] and Tables.
+    The Federal Deposit Insurance Act, referred to in subsec. (f)(5), is [act Sept. 21, 1950, ch. 967][/us/act/1950-09-21/ch967], § 2, [64 Stat. 873][/us/stat/64/873], which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of Title 12][/us/usc/t12/s1811] and Tables.
 
     [Section 7201 of this title][/us/usc/t15/s7201], referred to in subsec. (k)(1), was in the original “section 2 of the Sarbanes-Oxley Act of 2002”, [Pub. L. 107–204][/us/pl/107/204], which enacted [section 7201 of this title][/us/usc/t15/s7201] and amended [section 78c of this title][/us/usc/t15/s78c].
 
@@ -799,61 +799,61 @@
 
  __Amendments__ 
 
-    2015—Subsec. (n)(5)(G). [Pub. L. 114–94, § 86001(c)(1)(A)][/us/pl/114/94/s86001/c/1/A], substituted “make available security-based swap” for “make available all” in introductory provisions.
+    2015—Subsec. (n)(5)(G). [Pub. L. 114–94][/us/pl/114/94], § 86001(c)(1)(A), substituted “make available security-based swap” for “make available all” in introductory provisions.
 
-    Subsec. (n)(5)(G)(v)(IV). [Pub. L. 114–94, § 86001(c)(1)(B)][/us/pl/114/94/s86001/c/1/B], added subcl. (IV)
+    Subsec. (n)(5)(G)(v)(IV). [Pub. L. 114–94][/us/pl/114/94], § 86001(c)(1)(B), added subcl. (IV)
 
-    Subsec. (n)(5)(H). [Pub. L. 114–94, § 86001(c)(2)][/us/pl/114/94/s86001/c/2], added subpar. (H) and struck out former subpar. (H) which related to confidentiality and indemnification agreement.
+    Subsec. (n)(5)(H). [Pub. L. 114–94][/us/pl/114/94], § 86001(c)(2), added subpar. (H) and struck out former subpar. (H) which related to confidentiality and indemnification agreement.
 
     2012—Subsec. (a). [Pub. L. 112–106][/us/pl/112/106] inserted at end of concluding provisions “In any registration statement, periodic report, or other reports to be filed with the Commission, an emerging growth company need not present selected financial data in accordance with section 229.301 of title 17, Code of Federal Regulations, for any period prior to the earliest audited period presented in connection with its first registration statement that became effective under this chapter or the Securities Act of 1933 and, with respect to any such statement or reports, an emerging growth company may not be required to comply with any new or revised financial accounting standard until such date that a company that is not an issuer (as defined under [section 7201 of this title][/us/usc/t15/s7201]) is required to comply with such new or revised accounting standard, if such standard applies to companies that are not issuers.”
 
     Subsec. (r). [Pub. L. 112–158][/us/pl/112/158] added subsec. (r).
 
-    2010—Subsec. (b)(1). [Pub. L. 111–203, § 985(b)(4)][/us/pl/111/203/s985/b/4], substituted “earnings statement” for “earning statement”.
+    2010—Subsec. (b)(1). [Pub. L. 111–203][/us/pl/111/203], § 985(b)(4), substituted “earnings statement” for “earning statement”.
 
-    Subsec. (b)(2)(C). [Pub. L. 111–203, § 982(h)(3)][/us/pl/111/203/s982/h/3], amended [Pub. L. 107–204, § 109][/us/pl/107/204/s109]. See 2002 Amendment note below.
+    Subsec. (b)(2)(C). [Pub. L. 111–203][/us/pl/111/203], § 982(h)(3), amended [Pub. L. 107–204][/us/pl/107/204], § 109. See 2002 Amendment note below.
 
-    Subsec. (d)(1). [Pub. L. 111–203, § 929R(a)(1)][/us/pl/111/203/s929R/a/1], in introductory provisions, inserted “or within such shorter time as the Commission may establish by rule” after “within ten days after such acquisition” and struck out “send to the issuer of the security at its principal executive office, by registered or certified mail, send to each exchange where the security is traded, and” before “file with the Commission”.
+    Subsec. (d)(1). [Pub. L. 111–203][/us/pl/111/203], § 929R(a)(1), in introductory provisions, inserted “or within such shorter time as the Commission may establish by rule” after “within ten days after such acquisition” and struck out “send to the issuer of the security at its principal executive office, by registered or certified mail, send to each exchange where the security is traded, and” before “file with the Commission”.
 
-    [Pub. L. 111–203, § 766(b)(1)][/us/pl/111/203/s766/b/1], in introductory provisions, inserted “or otherwise becomes or is deemed to become a beneficial owner of any of the foregoing upon the purchase or sale of a security-based swap that the Commission may define by rule, and” after “[section 1629c(d)(6) of title 43][/us/usc/t43/s1629c/d/6],”.
+    [Pub. L. 111–203][/us/pl/111/203], § 766(b)(1), in introductory provisions, inserted “or otherwise becomes or is deemed to become a beneficial owner of any of the foregoing upon the purchase or sale of a security-based swap that the Commission may define by rule, and” after “[section 1629c(d)(6) of title 43][/us/usc/t43/s1629c/d/6],”.
 
-    Subsec. (d)(2). [Pub. L. 111–203, § 929R(a)(2)][/us/pl/111/203/s929R/a/2], struck out “in the statements to the issuer and the exchange, and” after “facts set forth” and “shall be transmitted to the issuer and the exchange and” after “an amendment”.
+    Subsec. (d)(2). [Pub. L. 111–203][/us/pl/111/203], § 929R(a)(2), struck out “in the statements to the issuer and the exchange, and” after “facts set forth” and “shall be transmitted to the issuer and the exchange and” after “an amendment”.
 
-    Subsec. (e)(3). [Pub. L. 111–203, § 991(b)(2)(A)][/us/pl/111/203/s991/b/2/A], substituted “paragraph (4)” for “paragraphs (5) and (6)”.
+    Subsec. (e)(3). [Pub. L. 111–203][/us/pl/111/203], § 991(b)(2)(A), substituted “paragraph (4)” for “paragraphs (5) and (6)”.
 
-    Subsec. (e)(4) to (6). [Pub. L. 111–203, § 991(b)(2)(B)][/us/pl/111/203/s991/b/2/B], (C), added pars. (4) to (6) and struck out former pars. (4) to (6) which related to offsetting collections, annual adjustment of rate, and final rate adjustment, respectively.
+    Subsec. (e)(4) to (6). [Pub. L. 111–203][/us/pl/111/203], § 991(b)(2)(B), (C), added pars. (4) to (6) and struck out former pars. (4) to (6) which related to offsetting collections, annual adjustment of rate, and final rate adjustment, respectively.
 
-    Subsec. (e)(8) to (10). [Pub. L. 111–203, § 991(b)(2)(D)][/us/pl/111/203/s991/b/2/D], struck out pars. (8) to (10) which related to review and effective date of adjusted rate, collection of fees upon lapse of appropriation, and publication of rate, respectively.
+    Subsec. (e)(8) to (10). [Pub. L. 111–203][/us/pl/111/203], § 991(b)(2)(D), struck out pars. (8) to (10) which related to review and effective date of adjusted rate, collection of fees upon lapse of appropriation, and publication of rate, respectively.
 
-    Subsec. (f)(1). [Pub. L. 111–203, § 766(c)][/us/pl/111/203/s766/c], which directed insertion of “or otherwise becomes or is deemed to become a beneficial owner of any security of a class described in subsection (d)(1) upon the purchase or sale of a security-based swap that the Commission may define by rule,” after “subsection (d)(1) of this section”, was executed by making the insertion after “[section 13(d)(1) of this title][/us/usc/t15/s13/d/1]”, which was translated to “subsection (d)(1) of this section”, to reflect the probable intent of Congress.
+    Subsec. (f)(1). [Pub. L. 111–203][/us/pl/111/203], § 766(c), which directed insertion of “or otherwise becomes or is deemed to become a beneficial owner of any security of a class described in subsection (d)(1) upon the purchase or sale of a security-based swap that the Commission may define by rule,” after “subsection (d)(1) of this section”, was executed by making the insertion after “[section 13(d)(1) of this title][/us/usc/t15/s13/d/1]”, which was translated to “subsection (d)(1) of this section”, to reflect the probable intent of Congress.
 
-    Subsec. (f)(2) to (6). [Pub. L. 111–203, § 929X(a)][/us/pl/111/203/s929X/a], added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively.
+    Subsec. (f)(2) to (6). [Pub. L. 111–203][/us/pl/111/203], § 929X(a), added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively.
 
-    Subsec. (g)(1). [Pub. L. 111–203, § 929R(a)(3)][/us/pl/111/203/s929R/a/3], struck out “shall send to the issuer of the security and” before “shall file” in introductory provisions.
+    Subsec. (g)(1). [Pub. L. 111–203][/us/pl/111/203], § 929R(a)(3), struck out “shall send to the issuer of the security and” before “shall file” in introductory provisions.
 
-    [Pub. L. 111–203, § 766(b)(2)][/us/pl/111/203/s766/b/2], in introductory provisions, inserted “or otherwise becomes or is deemed to become a beneficial owner of any security of a class described in subsection (d)(1) upon the purchase or sale of a security-based swap that the Commission may define by rule” after “subsection (d)(1) of this section”.
+    [Pub. L. 111–203][/us/pl/111/203], § 766(b)(2), in introductory provisions, inserted “or otherwise becomes or is deemed to become a beneficial owner of any security of a class described in subsection (d)(1) upon the purchase or sale of a security-based swap that the Commission may define by rule” after “subsection (d)(1) of this section”.
 
-    Subsec. (g)(2). [Pub. L. 111–203, § 929R(a)(4)][/us/pl/111/203/s929R/a/4], struck out “sent to the issuer and” after “the statement” and “shall be transmitted to the issuer and” after “an amendment”.
+    Subsec. (g)(2). [Pub. L. 111–203][/us/pl/111/203], § 929R(a)(4), struck out “sent to the issuer and” after “the statement” and “shall be transmitted to the issuer and” after “an amendment”.
 
-    Subsecs. (m), (n). [Pub. L. 111–203, § 763(i)][/us/pl/111/203/s763/i], added subsecs. (m) and (n).
+    Subsecs. (m), (n). [Pub. L. 111–203][/us/pl/111/203], § 763(i), added subsecs. (m) and (n).
 
-    Subsec. (o). [Pub. L. 111–203, § 766(e)][/us/pl/111/203/s766/e], added subsec. (o).
+    Subsec. (o). [Pub. L. 111–203][/us/pl/111/203], § 766(e), added subsec. (o).
 
-    Subsec. (p). [Pub. L. 111–203, § 1502(b)][/us/pl/111/203/s1502/b], added subsec. (p).
+    Subsec. (p). [Pub. L. 111–203][/us/pl/111/203], § 1502(b), added subsec. (p).
 
-    Subsec. (q). [Pub. L. 111–203, § 1504][/us/pl/111/203/s1504], added subsec. (q).
+    Subsec. (q). [Pub. L. 111–203][/us/pl/111/203], § 1504, added subsec. (q).
 
-    2002—Subsec. (b)(2)(C). [Pub. L. 107–204, § 109(i)][/us/pl/107/204/s109/i], formerly § 109(h), renumbered § 109(i) by [Pub. L. 111–203, § 982(h)(3)][/us/pl/111/203/s982/h/3], added subpar. (C).
+    2002—Subsec. (b)(2)(C). [Pub. L. 107–204][/us/pl/107/204], § 109(i), formerly § 109(h), renumbered § 109(i) by [Pub. L. 111–203][/us/pl/111/203], § 982(h)(3), added subpar. (C).
 
-    Subsec. (e)(3). [Pub. L. 107–123, § 5(1)][/us/pl/107/123/s5/1], substituted “a fee at a rate that, subject to paragraphs (5) and (6), is equal to $92 per $1,000,000 of the value of securities proposed to be purchased” for “a fee of 1⁄50 of 1 per centum of the value of securities proposed to be purchased”.
+    Subsec. (e)(3). [Pub. L. 107–123][/us/pl/107/123], § 5(1), substituted “a fee at a rate that, subject to paragraphs (5) and (6), is equal to $92 per $1,000,000 of the value of securities proposed to be purchased” for “a fee of 1⁄50 of 1 per centum of the value of securities proposed to be purchased”.
 
-    Subsec. (e)(4) to (10). [Pub. L. 107–123, § 5(2)][/us/pl/107/123/s5/2], added pars. (4) to (10).
+    Subsec. (e)(4) to (10). [Pub. L. 107–123][/us/pl/107/123], § 5(2), added pars. (4) to (10).
 
-    Subsecs. (i), (j). [Pub. L. 107–204, § 401(a)][/us/pl/107/204/s401/a], added subsecs. (i) and (j).
+    Subsecs. (i), (j). [Pub. L. 107–204][/us/pl/107/204], § 401(a), added subsecs. (i) and (j).
 
-    Subsec. (k). [Pub. L. 107–204, § 402(a)][/us/pl/107/204/s402/a], added subsec. (k).
+    Subsec. (k). [Pub. L. 107–204][/us/pl/107/204], § 402(a), added subsec. (k).
 
-    Subsec. (l). [Pub. L. 107–204, § 409][/us/pl/107/204/s409], added subsec. (l).
+    Subsec. (l). [Pub. L. 107–204][/us/pl/107/204], § 409, added subsec. (l).
 
     1990—Subsec. (h). [Pub. L. 101–432][/us/pl/101/432] added subsec. (h).
 
@@ -861,27 +861,27 @@
 
     Subsec. (d)(1). [Pub. L. 100–241][/us/pl/100/241] inserted “or any equity security issued by a Native Corporation pursuant to [section 1629c(d)(6) of title 43][/us/usc/t43/s1629c/d/6]”.
 
-    1987—Subsec. (c). [Pub. L. 100–181, § 315][/us/pl/100/181/s315], struck out “of” after “thereof”.
+    1987—Subsec. (c). [Pub. L. 100–181][/us/pl/100/181], § 315, struck out “of” after “thereof”.
 
-    Subsec. (h). [Pub. L. 100–181, § 316][/us/pl/100/181/s316], struck out subsec. (h) which required Commission to report to Congress within thirty months of Dec. 19, 1977, with respect to effectiveness of ownership reporting requirements contained in this chapter and desirability and feasibility of reducing or otherwise modifying the 5 per centum threshold used in subsecs. (d)(1) and (g)(1) of this section.
+    Subsec. (h). [Pub. L. 100–181][/us/pl/100/181], § 316, struck out subsec. (h) which required Commission to report to Congress within thirty months of Dec. 19, 1977, with respect to effectiveness of ownership reporting requirements contained in this chapter and desirability and feasibility of reducing or otherwise modifying the 5 per centum threshold used in subsecs. (d)(1) and (g)(1) of this section.
 
     1983—Subsec. (e)(3). [Pub. L. 98–38][/us/pl/98/38] added par. (3).
 
-    1977—Subsec. (b). [Pub. L. 95–213, § 102][/us/pl/95/213/s102], designated existing provisions as par. (1) and added pars. (2) and (3).
+    1977—Subsec. (b). [Pub. L. 95–213][/us/pl/95/213], § 102, designated existing provisions as par. (1) and added pars. (2) and (3).
 
-    Subsec. (d)(1). [Pub. L. 95–213, § 202][/us/pl/95/213/s202], inserted references to residence and citizenship of persons and to nature of beneficial ownership of persons in subpar. (A), and inserted references to background, identity, residence, and citizenship of associates of persons in subpar. (D).
+    Subsec. (d)(1). [Pub. L. 95–213][/us/pl/95/213], § 202, inserted references to residence and citizenship of persons and to nature of beneficial ownership of persons in subpar. (A), and inserted references to background, identity, residence, and citizenship of associates of persons in subpar. (D).
 
-    Subsecs. (g), (h). [Pub. L. 95–213, § 203][/us/pl/95/213/s203], added subsecs. (g) and (h).
+    Subsecs. (g), (h). [Pub. L. 95–213][/us/pl/95/213], § 203, added subsecs. (g) and (h).
 
     1976—Subsec. (b). [Pub. L. 94–210][/us/pl/94/210] substituted provisions relating to exceptions for inconsistent rules and regulations, for provisions relating to reporting requirements for carriers subject to the provisions of [section 20 of title 49][/us/usc/t49/s20], or other carriers required to make reports of the same general character as those required under [section 20 of title 49][/us/usc/t49/s20].
 
     1975—Subsec. (f). [Pub. L. 94–29][/us/pl/94/29] added subsec. (f).
 
-    1970—Subsec. (d)(1). [Pub. L. 91–567, § 1(a)][/us/pl/91/567/s1/a], included equity securities of insurance companies which would have been required to be registered except for the exemption contained in section 78l(g)(2)(G) of this title, and substituted “5 per centum” for “10 per centum”.
+    1970—Subsec. (d)(1). [Pub. L. 91–567][/us/pl/91/567], § 1(a), included equity securities of insurance companies which would have been required to be registered except for the exemption contained in section 78l(g)(2)(G) of this title, and substituted “5 per centum” for “10 per centum”.
 
-    Subsec. (d)(5), (6). [Pub. L. 91–567, § 1(b)][/us/pl/91/567/s1/b], added par. (5) and redesignated former par. (5) as (6).
+    Subsec. (d)(5), (6). [Pub. L. 91–567][/us/pl/91/567], § 1(b), added par. (5) and redesignated former par. (5) as (6).
 
-    Subsec. (e)(2). [Pub. L. 91–567, § 2][/us/pl/91/567/s2], inserted provisions empowering the Commission to make rules and regulations implementing the paragraph in the public interest and for the protection of investors.
+    Subsec. (e)(2). [Pub. L. 91–567][/us/pl/91/567], § 2, inserted provisions empowering the Commission to make rules and regulations implementing the paragraph in the public interest and for the protection of investors.
 
     1968—Subsecs. (d), (e). [Pub. L. 90–439][/us/pl/90/439] added subsecs. (d) and (e).
 
@@ -893,7 +893,7 @@
 
  __Effective Date of 2012 Amendment__ 
 
-[Pub. L. 112–158, title II, § 219(b)][/us/pl/112/158/s219/b], Aug. 10, 2012, [126 Stat. 1236][/us/stat/126/1236], provided that: 
+[Pub. L. 112–158, title II][/us/pl/112/158/tII], § 219(b), Aug. 10, 2012, [126 Stat. 1236][/us/stat/126/1236], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect with respect to reports required to be filed with the Securities and Exchange Commission after the date that is 180 days after the date of the enactment of this Act \[Aug. 10, 2012\].”
 
@@ -927,19 +927,19 @@
 
  __Summary Page for Form 10–K__ 
 
-[Pub. L. 114–94, div. G, title LXXII, § 72001][/us/pl/114/94/s72001], Dec. 4, 2015, [129 Stat. 1784][/us/stat/129/1784], provided that: 
+[Pub. L. 114–94, div. G, title LXXII][/us/pl/114/94/dG/tLXXII], § 72001, Dec. 4, 2015, [129 Stat. 1784][/us/stat/129/1784], provided that: 
 
 > “Not later than the end of the 180-day period beginning on the date of the enactment of this Act \[Dec. 4, 2015\], the Securities and Exchange Commission shall issue regulations to permit issuers to submit a summary page on form 10–K (17 CFR 249.310), but only if each item on such summary page includes a cross-reference (by electronic link or otherwise) to the material contained in form 10–K to which such item relates.”
 
  __Elimination of Exemption From Fair Disclosure Rule__ 
 
-[Pub. L. 111–203, title IX, § 939B][/us/pl/111/203/s939B], July 21, 2010, [124 Stat. 1887][/us/stat/124/1887], provided that: 
+[Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 939B, July 21, 2010, [124 Stat. 1887][/us/stat/124/1887], provided that: 
 
 > “Not later than 90 days after the date of enactment of this subtitle \[July 21, 2010\], the Securities \[and\] Exchange Commission shall revise Regulation FD (17 C.F.R. 243.100) to remove from such regulation the exemption for entities whose primary business is the issuance of credit ratings (17 C.F.R. 243.100(b)(2)(iii)).”
 
  __Conflict Minerals__ 
 
-[Pub. L. 111–203, title XV, § 1502][/us/pl/111/203/s1502], July 21, 2010, [124 Stat. 2213][/us/stat/124/2213], provided that:
+[Pub. L. 111–203, title XV][/us/pl/111/203/tXV], § 1502, July 21, 2010, [124 Stat. 2213][/us/stat/124/2213], provided that:
 
 >     “(a)  __Sense of Congress on Exploitation and Trade of Conflict Minerals Originating in the Democratic Republic of the Congo__  __.—__ 
 
@@ -1091,7 +1091,7 @@
 
  __Consultation__ 
 
-[Pub. L. 106–102, title II, § 241][/us/pl/106/102/s241], Nov. 12, 1999, [113 Stat. 1407][/us/stat/113/1407], provided that:
+[Pub. L. 106–102, title II][/us/pl/106/102/tII], § 241, Nov. 12, 1999, [113 Stat. 1407][/us/stat/113/1407], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -1163,51 +1163,51 @@
 [/us/usc/t22/s8551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8551%2Fa
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F894
-[/us/pl/88/467/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467%2Fs4
+[/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
 [/us/stat/78/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F569
-[/us/pl/90/439/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F439%2Fs2
+[/us/pl/90/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F439
 [/us/stat/82/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F454
 [/us/pl/91/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F567
 [/us/stat/84/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1497
-[/us/pl/94/29/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs10
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F119
-[/us/pl/94/210/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F210%2Fs308%2Fb
+[/us/pl/94/210/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F210%2FtIII
 [/us/stat/90/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F57
-[/us/pl/95/213/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213%2Fs102
+[/us/pl/95/213/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213%2FtI
 [/us/stat/91/1494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1494
-[/us/pl/98/38/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F38%2Fs2%2Fa
+[/us/pl/98/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F38
 [/us/stat/97/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F205
-[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtIII
 [/us/stat/101/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1256
-[/us/pl/100/241/s12/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F241%2Fs12%2Fd
+[/us/pl/100/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F241
 [/us/stat/101/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1810
-[/us/pl/100/418/s5002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5002
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1415
-[/us/pl/101/432/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432%2Fs3
+[/us/pl/101/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432
 [/us/stat/104/964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F964
-[/us/pl/107/123/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs5
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
 [/us/stat/115/2395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2395
-[/us/pl/107/204/s109/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs109%2Fi
+[/us/pl/107/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtI
 [/us/stat/116/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F771
-[/us/pl/111/203/s982/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fh%2F3
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1930
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtVII
 [/us/stat/124/1779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1779
-[/us/pl/112/106/s102/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs102%2Fb%2F2
+[/us/pl/112/106/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtI
 [/us/stat/126/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F309
-[/us/pl/112/158/s219/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs219%2Fa
+[/us/pl/112/158/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtII
 [/us/stat/126/1235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1235
-[/us/pl/114/94/s86001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs86001%2Fc
+[/us/pl/114/94/dG/tLXXXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXXVI
 [/us/stat/129/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1798
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
+[/us/act/1933-05-27/ch38/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38%2FtI
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74
 [/us/usc/t15/s77a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77a
 [/us/act/1940-08-22/ch686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-08-22%2Fch686
 [/us/stat/54/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F789
 [/us/usc/t15/s80a–51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9351
-[/us/act/1950-09-21/ch967/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967%2Fs2
+[/us/act/1950-09-21/ch967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-21%2Fch967
 [/us/stat/64/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F873
 [/us/usc/t12/s1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1811
 [/us/usc/t15/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7201
@@ -1220,63 +1220,63 @@
 [/us/pl/111/203/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1502
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
-[/us/pl/114/94/s86001/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs86001%2Fc%2F1%2FA
-[/us/pl/114/94/s86001/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs86001%2Fc%2F1%2FB
-[/us/pl/114/94/s86001/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs86001%2Fc%2F2
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106
 [/us/usc/t15/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7201
 [/us/pl/112/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158
-[/us/pl/111/203/s985/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs985%2Fb%2F4
-[/us/pl/111/203/s982/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fh%2F3
-[/us/pl/107/204/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs109
-[/us/pl/111/203/s929R/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929R%2Fa%2F1
-[/us/pl/111/203/s766/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs766%2Fb%2F1
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t43/s1629c/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1629c%2Fd%2F6
-[/us/pl/111/203/s929R/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929R%2Fa%2F2
-[/us/pl/111/203/s991/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fb%2F2%2FA
-[/us/pl/111/203/s991/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fb%2F2%2FB
-[/us/pl/111/203/s991/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fb%2F2%2FD
-[/us/pl/111/203/s766/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs766%2Fc
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t15/s13/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs13%2Fd%2F1
-[/us/pl/111/203/s929X/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929X%2Fa
-[/us/pl/111/203/s929R/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929R%2Fa%2F3
-[/us/pl/111/203/s766/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs766%2Fb%2F2
-[/us/pl/111/203/s929R/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929R%2Fa%2F4
-[/us/pl/111/203/s763/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs763%2Fi
-[/us/pl/111/203/s766/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs766%2Fe
-[/us/pl/111/203/s1502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1502%2Fb
-[/us/pl/111/203/s1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1504
-[/us/pl/107/204/s109/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs109%2Fi
-[/us/pl/111/203/s982/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs982%2Fh%2F3
-[/us/pl/107/123/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs5%2F1
-[/us/pl/107/123/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs5%2F2
-[/us/pl/107/204/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs401%2Fa
-[/us/pl/107/204/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs402%2Fa
-[/us/pl/107/204/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs409
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
 [/us/pl/101/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F432
 [/us/pl/100/418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418
 [/us/pl/100/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F241
 [/us/usc/t43/s1629c/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1629c%2Fd%2F6
-[/us/pl/100/181/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs315
-[/us/pl/100/181/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs316
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
+[/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/98/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F38
-[/us/pl/95/213/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213%2Fs102
-[/us/pl/95/213/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213%2Fs202
-[/us/pl/95/213/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213%2Fs203
+[/us/pl/95/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213
+[/us/pl/95/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213
+[/us/pl/95/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F213
 [/us/pl/94/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F210
 [/us/usc/t49/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20
 [/us/usc/t49/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs20
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
-[/us/pl/91/567/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F567%2Fs1%2Fa
-[/us/pl/91/567/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F567%2Fs1%2Fb
-[/us/pl/91/567/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F567%2Fs2
+[/us/pl/91/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F567
+[/us/pl/91/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F567
+[/us/pl/91/567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F567
 [/us/pl/90/439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F439
 [/us/pl/88/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F467
 [/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/114/94/s86001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs86001%2Fd
 [/us/usc/t7/s7a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7a%E2%80%931
-[/us/pl/112/158/s219/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs219%2Fb
+[/us/pl/112/158/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2FtII
 [/us/stat/126/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1236
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
@@ -1302,11 +1302,11 @@
 [/us/usc/t15/s78c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
 [/us/usc/t15/s78d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78d
-[/us/pl/114/94/s72001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs72001
+[/us/pl/114/94/dG/tLXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdG%2FtLXXII
 [/us/stat/129/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1784
-[/us/pl/111/203/s939B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs939B
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1887
-[/us/pl/111/203/s1502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1502
+[/us/pl/111/203/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtXV
 [/us/stat/124/2213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2213
 [/us/usc/t15/s78m/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m%2Fp
 [/us/usc/t15/s78m/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m%2Fp
@@ -1315,7 +1315,7 @@
 [/us/usc/t15/s78m/p/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m%2Fp%2F1%2FA
 [/us/usc/t15/s78m/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78m%2Fp
 [/us/usc/t22/s2151n/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151n%2Fd
-[/us/pl/106/102/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2Fs241
+[/us/pl/106/102/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F102%2FtII
 [/us/stat/113/1407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1407
 [/us/usc/t12/s1813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301

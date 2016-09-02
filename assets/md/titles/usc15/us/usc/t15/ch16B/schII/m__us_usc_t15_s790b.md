@@ -33,7 +33,7 @@
 
         (2) Any request for appropriations for the Federal Energy Administration submitted to the Congress shall identify the portion of such request intended for the support of the Office, and a statement of the differences, if any, between the amounts requested and the Director’s assessment of the budgetary needs of the Office.
 
-([Pub. L. 93–275, § 53][/us/pl/93/275/s53], as added [Pub. L. 94–385, title I, § 142][/us/pl/94/385/s142], Aug. 14, 1976, [90 Stat. 1136][/us/stat/90/1136].)
+([Pub. L. 93–275][/us/pl/93/275], § 53, as added [Pub. L. 94–385, title I][/us/pl/94/385/tI], § 142, Aug. 14, 1976, [90 Stat. 1136][/us/stat/90/1136].)
 
  __Effective Date__ 
 
@@ -58,8 +58,8 @@
 
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t15/s766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs766
-[/us/pl/93/275/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275%2Fs53
-[/us/pl/94/385/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs142
+[/us/pl/93/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F275
+[/us/pl/94/385/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2FtI
 [/us/stat/90/1136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1136
 [/us/pl/94/385/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F385%2Fs143
 [/us/usc/t15/s790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs790

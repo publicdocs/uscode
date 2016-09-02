@@ -41,7 +41,7 @@
 
         Subsection (a) does not permit a State to circumvent this subchapter or subchapter II through the imposition of nonelectronic delivery methods under section 8(b)(2) of the Uniform Electronic Transactions Act.
 
-([Pub. L. 106–229, title I, § 102][/us/pl/106/229/s102], June 30, 2000, [114 Stat. 467][/us/stat/114/467].)
+([Pub. L. 106–229, title I][/us/pl/106/229/tI], § 102, June 30, 2000, [114 Stat. 467][/us/stat/114/467].)
 
 ----------
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t15/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7001
-[/us/pl/106/229/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2Fs102
+[/us/pl/106/229/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2FtI
 [/us/stat/114/467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F467
 
 

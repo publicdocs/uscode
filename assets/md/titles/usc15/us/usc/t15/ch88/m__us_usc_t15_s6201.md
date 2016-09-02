@@ -21,7 +21,7 @@
 
     (2) in enforcing any of such foreign antitrust laws.
 
-([Pub. L. 103–438, § 2][/us/pl/103/438/s2], Nov. 2, 1994, [108 Stat. 4597][/us/stat/108/4597].)
+([Pub. L. 103–438][/us/pl/103/438], § 2, Nov. 2, 1994, [108 Stat. 4597][/us/stat/108/4597].)
 
  __References in Text__ 
 
@@ -29,7 +29,7 @@
 
  __Short Title__ 
 
-[Pub. L. 103–438, § 1][/us/pl/103/438/s1], Nov. 2, 1994, [108 Stat. 4597][/us/stat/108/4597], provided that: 
+[Pub. L. 103–438][/us/pl/103/438], § 1, Nov. 2, 1994, [108 Stat. 4597][/us/stat/108/4597], provided that: 
 
 > “This Act \[enacting this chapter and amending sections 46, 57b–1, 1311, and 1312 of this title\] may be cited as the ‘International Antitrust Enforcement Assistance Act of 1994’.”
 
@@ -42,11 +42,11 @@
 
 [/us/usc/t15/s6207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6207
 [/us/usc/t15/s6204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6204
-[/us/pl/103/438/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438%2Fs2
+[/us/pl/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438
 [/us/stat/108/4597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4597
 [/us/pl/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438
 [/us/stat/108/4597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4597
-[/us/pl/103/438/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438%2Fs1
+[/us/pl/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438
 [/us/stat/108/4597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4597
 
 

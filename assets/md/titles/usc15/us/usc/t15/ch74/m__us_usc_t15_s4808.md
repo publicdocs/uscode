@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated for each of the fiscal years 1991 and 1992 such sums as may be necessary not to exceed $5,000,000 to carry out the provisions of this chapter.
 
-([Pub. L. 100–418, title V, § 5209][/us/pl/100/418/s5209], Aug. 23, 1988, [102 Stat. 1461][/us/stat/102/1461]; [Pub. L. 101–382, title I, § 133(e)][/us/pl/101/382/s133/e], Aug. 20, 1990, [104 Stat. 649][/us/stat/104/649].)
+([Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5209, Aug. 23, 1988, [102 Stat. 1461][/us/stat/102/1461]; [Pub. L. 101–382, title I][/us/pl/101/382/tI], § 133(e), Aug. 20, 1990, [104 Stat. 649][/us/stat/104/649].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/100/418/s5209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5209
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1461
-[/us/pl/101/382/s133/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2Fs133%2Fe
+[/us/pl/101/382/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382%2FtI
 [/us/stat/104/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F649
 [/us/pl/101/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F382
 

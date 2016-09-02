@@ -31,11 +31,11 @@
 
         This section shall supersede any State law or requirement with respect to low-speed electric bicycles to the extent that such State law or requirement is more stringent than the Federal law or requirements referred to in subsection (a).
 
-([Pub. L. 92–573, § 38][/us/pl/92/573/s38], as added [Pub. L. 107–319, § 1][/us/pl/107/319/s1], Dec. 4, 2002, [116 Stat. 2776][/us/stat/116/2776].)
+([Pub. L. 92–573][/us/pl/92/573], § 38, as added [Pub. L. 107–319][/us/pl/107/319], § 1, Dec. 4, 2002, [116 Stat. 2776][/us/stat/116/2776].)
 
  __References in Text__ 
 
-    [Section 2052(a)(1) of this title][/us/usc/t15/s2052/a/1], referred to in subsec. (a), was redesignated [section 2052(a)(5) of this title][/us/usc/t15/s2052/a/5] by [Pub. L. 110–314, title II, § 235(b)(4)][/us/pl/110/314/s235/b/4], Aug. 14, 2008, [122 Stat. 3074][/us/stat/122/3074].
+    [Section 2052(a)(1) of this title][/us/usc/t15/s2052/a/1], referred to in subsec. (a), was redesignated [section 2052(a)(5) of this title][/us/usc/t15/s2052/a/5] by [Pub. L. 110–314, title II][/us/pl/110/314/tII], § 235(b)(4), Aug. 14, 2008, [122 Stat. 3074][/us/stat/122/3074].
 
 ----------
 
@@ -44,12 +44,12 @@
 ----------
 ----------
 
-[/us/pl/92/573/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573%2Fs38
-[/us/pl/107/319/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F319%2Fs1
+[/us/pl/92/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F573
+[/us/pl/107/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F319
 [/us/stat/116/2776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2776
 [/us/usc/t15/s2052/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2052%2Fa%2F1
 [/us/usc/t15/s2052/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2052%2Fa%2F5
-[/us/pl/110/314/s235/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2Fs235%2Fb%2F4
+[/us/pl/110/314/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F314%2FtII
 [/us/stat/122/3074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3074
 
 

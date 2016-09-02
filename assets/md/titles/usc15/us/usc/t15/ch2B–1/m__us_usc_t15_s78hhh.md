@@ -17,7 +17,7 @@
 
     Each member of SIPC shall file with such member’s examining authority, or collection agent if a collection agent has been designated pursuant to [section 78iii(a) of this title][/us/usc/t15/s78iii/a], such information (including reports of, and information with respect to, the gross revenues from the securities business of such member, including the composition thereof, transactions in securities effected by such member, and other information with respect to such member’s activities, whether in the securities business or otherwise, including customer accounts maintained, net capital employed, and activities conducted) as SIPC may determine to be necessary or appropriate for the purpose of making assessments under [section 78ddd of this title][/us/usc/t15/s78ddd]. The examining authority or collection agent shall file with SIPC all or such part of such information (and such compilations and analyses thereof) as SIPC, by bylaw or rule, shall prescribe. No application, report, or document filed pursuant to this section shall be deemed to be filed pursuant to [section 78r of this title][/us/usc/t15/s78r].
 
-([Pub. L. 91–598, § 12][/us/pl/91/598/s12], formerly § 8, Dec. 30, 1970, [84 Stat. 1653][/us/stat/84/1653]; renumbered § 12 and amended [Pub. L. 95–283][/us/pl/95/283], §§ 9, 11, May 21, 1978, [92 Stat. 260][/us/stat/92/260], 268.)
+([Pub. L. 91–598][/us/pl/91/598], § 12, formerly § 8, Dec. 30, 1970, [84 Stat. 1653][/us/stat/84/1653]; renumbered § 12 and amended [Pub. L. 95–283][/us/pl/95/283], §§ 9, 11, May 21, 1978, [92 Stat. 260][/us/stat/92/260], 268.)
 
  __Prior Provisions__ 
 
@@ -37,7 +37,7 @@
 [/us/usc/t15/s78iii/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78iii%2Fa
 [/us/usc/t15/s78ddd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78ddd
 [/us/usc/t15/s78r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78r
-[/us/pl/91/598/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598%2Fs12
+[/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
 [/us/stat/84/1653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1653
 [/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/stat/92/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F260

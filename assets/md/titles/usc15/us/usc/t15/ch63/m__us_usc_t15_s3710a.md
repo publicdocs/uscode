@@ -169,71 +169,71 @@
 
         (2) Classified information and unclassified sensitive information protected by law, regulation, or Executive order shall be appropriately safeguarded.
 
-([Pub. L. 96–480, § 12][/us/pl/96/480/s12], as added and renumbered § 11, [Pub. L. 99–502][/us/pl/99/502], §§ 2, 9(e)(1), Oct. 20, 1986, [100 Stat. 1785][/us/stat/100/1785], 1797; renumbered § 12, [Pub. L. 100–418, title V, § 5122(a)(1)][/us/pl/100/418/s5122/a/1], Aug. 23, 1988, [102 Stat. 1438][/us/stat/102/1438]; amended [Pub. L. 100–519, title III, § 301][/us/pl/100/519/s301], Oct. 24, 1988, [102 Stat. 2597][/us/stat/102/2597]; [Pub. L. 101–189, div. C, title XXXI, § 3133(a)][/us/pl/101/189/s3133/a], (b), Nov. 29, 1989, [103 Stat. 1675][/us/stat/103/1675], 1677; [Pub. L. 102–25, title VII, § 705(g)][/us/pl/102/25/s705/g], Apr. 6, 1991, [105 Stat. 121][/us/stat/105/121]; [Pub. L. 102–245, title III, § 302(a)][/us/pl/102/245/s302/a], Feb. 14, 1992, [106 Stat. 20][/us/stat/106/20]; [Pub. L. 102–484, div. C, title XXXI, § 3135(a)][/us/pl/102/484/s3135/a], Oct. 23, 1992, [106 Stat. 2640][/us/stat/106/2640]; [Pub. L. 103–160, div. C, title XXXI, § 3160][/us/pl/103/160/s3160], Nov. 30, 1993, [107 Stat. 1957][/us/stat/107/1957]; [Pub. L. 104–113, § 4][/us/pl/104/113/s4], Mar. 7, 1996, [110 Stat. 775][/us/stat/110/775]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3196\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–481; [Pub. L. 106–404, § 3][/us/pl/106/404/s3], Nov. 1, 2000, [114 Stat. 1742][/us/stat/114/1742].)
+([Pub. L. 96–480][/us/pl/96/480], § 12, as added and renumbered § 11, [Pub. L. 99–502][/us/pl/99/502], §§ 2, 9(e)(1), Oct. 20, 1986, [100 Stat. 1785][/us/stat/100/1785], 1797; renumbered § 12, [Pub. L. 100–418, title V][/us/pl/100/418/tV], § 5122(a)(1), Aug. 23, 1988, [102 Stat. 1438][/us/stat/102/1438]; amended [Pub. L. 100–519, title III][/us/pl/100/519/tIII], § 301, Oct. 24, 1988, [102 Stat. 2597][/us/stat/102/2597]; [Pub. L. 101–189, div. C, title XXXI][/us/pl/101/189/dC/tXXXI], § 3133(a), (b), Nov. 29, 1989, [103 Stat. 1675][/us/stat/103/1675], 1677; [Pub. L. 102–25, title VII][/us/pl/102/25/tVII], § 705(g), Apr. 6, 1991, [105 Stat. 121][/us/stat/105/121]; [Pub. L. 102–245, title III][/us/pl/102/245/tIII], § 302(a), Feb. 14, 1992, [106 Stat. 20][/us/stat/106/20]; [Pub. L. 102–484, div. C, title XXXI][/us/pl/102/484/dC/tXXXI], § 3135(a), Oct. 23, 1992, [106 Stat. 2640][/us/stat/106/2640]; [Pub. L. 103–160, div. C, title XXXI][/us/pl/103/160/dC/tXXXI], § 3160, Nov. 30, 1993, [107 Stat. 1957][/us/stat/107/1957]; [Pub. L. 104–113][/us/pl/104/113], § 4, Mar. 7, 1996, [110 Stat. 775][/us/stat/110/775]; [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3196\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–481; [Pub. L. 106–404][/us/pl/106/404], § 3, Nov. 1, 2000, [114 Stat. 1742][/us/stat/114/1742].)
 
  __References in Text__ 
 
-    [Section 203(2) of title 35][/us/usc/t35/s203/2], referred to in subsec. (b)(1)(C), was redesignated [section 203(b) of title 35][/us/usc/t35/s203/b] by [Pub. L. 107–273, div. C, title III, § 13206(a)(14)(A)(i)][/us/pl/107/273/s13206/a/14/A/i], Nov. 2, 2002, [116 Stat. 1905][/us/stat/116/1905].
+    [Section 203(2) of title 35][/us/usc/t35/s203/2], referred to in subsec. (b)(1)(C), was redesignated [section 203(b) of title 35][/us/usc/t35/s203/b] by [Pub. L. 107–273, div. C, title III][/us/pl/107/273/dC/tIII], § 13206(a)(14)(A)(i), Nov. 2, 2002, [116 Stat. 1905][/us/stat/116/1905].
 
     Executive Order No. 12344, referred to in subsec. (d)(2), is set out as a note under [section 2511 of Title 50][/us/usc/t50/s2511], War and National Defense.
 
  __Amendments__ 
 
-    2000—Subsec. (a). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3196(a)\], substituted “joint work statement or, if permitted by the agency, in an agency-approved annual strategic plan,” for “joint work statement,” in introductory provisions.
+    2000—Subsec. (a). [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3196(a)\], substituted “joint work statement or, if permitted by the agency, in an agency-approved annual strategic plan,” for “joint work statement,” in introductory provisions.
 
     Subsec. (b)(1). [Pub. L. 106–404][/us/pl/106/404], in first sentence, inserted “or, subject to [section 209 of title 35][/us/usc/t35/s209], may grant a license to an invention which is federally owned, for which a patent application was filed before the signing of the agreement, and directly within the scope of the work under the agreement,” after “under the agreement,”.
 
-    Subsec. (b)(6). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3196(b)\], added par. (6).
+    Subsec. (b)(6). [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3196(b)\], added par. (6).
 
-    Subsec. (c)(5)(C), (D). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3196(c)\], redesignated subpar. (D) as (C), struck out “with a small business firm” after “enter into” and inserted “if” after “statement” in cl. (i), added cls. (iv) and (v), and struck out former subpar. (C) which related to the duties of an agency which has contracted with a non-Federal entity to operate a laboratory with respect to review and approval of joint work statements and agreements under this section and with respect to providing the entity with model cooperative research and development agreements.
+    Subsec. (c)(5)(C), (D). [Pub. L. 106–398][/us/pl/106/398], § 1 \[div. C, title XXXI, § 3196(c)\], redesignated subpar. (D) as (C), struck out “with a small business firm” after “enter into” and inserted “if” after “statement” in cl. (i), added cls. (iv) and (v), and struck out former subpar. (C) which related to the duties of an agency which has contracted with a non-Federal entity to operate a laboratory with respect to review and approval of joint work statements and agreements under this section and with respect to providing the entity with model cooperative research and development agreements.
 
     1996—Subsec. (b). [Pub. L. 104–113][/us/pl/104/113] amended subsec. (b) generally, to require that laboratory ensure that collaborating party be provided option of choosing exclusive license for pre-negotiated field of use for any invention under agreement or that collaborating party be offered option of holding licensing rights that collectively encompass rights that would be held under such exclusive license by one party, to set forth explicit conditions that grants under par. (1) were to be subject to, and to require laboratory to ensure that collaborating party might retain title to any invention made solely by its employee in exchange for normally granting Government nonexclusive, nontransferable, irrevocable, paid-up license to practice invention by or on behalf of Government for research or for other Government purposes.
 
-    1993—Subsec. (d)(2)(B). [Pub. L. 103–160, § 3160(1)][/us/pl/103/160/s3160/1], inserted “(including a weapon production facility of the Department of Energy)” after “facilities” and “, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components,” after “research and development”.
+    1993—Subsec. (d)(2)(B). [Pub. L. 103–160][/us/pl/103/160], § 3160(1), inserted “(including a weapon production facility of the Department of Energy)” after “facilities” and “, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components,” after “research and development”.
 
-    Subsec. (d)(2)(C). [Pub. L. 103–160, § 3160(2)][/us/pl/103/160/s3160/2], inserted “(including a weapon production facility of the Department of Energy)” after “facility” and “, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components,” after “research and development”.
+    Subsec. (d)(2)(C). [Pub. L. 103–160][/us/pl/103/160], § 3160(2), inserted “(including a weapon production facility of the Department of Energy)” after “facility” and “, or the production, maintenance, testing, or dismantlement of a nuclear weapon or its components,” after “research and development”.
 
-    Subsec. (d)(4). [Pub. L. 103–160, § 3160(3)][/us/pl/103/160/s3160/3]–(5), added par. (4).
+    Subsec. (d)(4). [Pub. L. 103–160][/us/pl/103/160], § 3160(3)–(5), added par. (4).
 
-    1992—Subsec. (c)(5)(C)(i). [Pub. L. 102–484, § 3135(a)(1)][/us/pl/102/484/s3135/a/1], substituted “Except as provided in subparagraph (D), any agency” for “Any agency”.
+    1992—Subsec. (c)(5)(C)(i). [Pub. L. 102–484][/us/pl/102/484], § 3135(a)(1), substituted “Except as provided in subparagraph (D), any agency” for “Any agency”.
 
-    Subsec. (c)(5)(D). [Pub. L. 102–484, § 3135(a)(2)][/us/pl/102/484/s3135/a/2], added subpar. (D).
+    Subsec. (c)(5)(D). [Pub. L. 102–484][/us/pl/102/484], § 3135(a)(2), added subpar. (D).
 
     Subsec. (d)(1). [Pub. L. 102–245][/us/pl/102/245] inserted “intellectual property,” after “equipment,” in two places.
 
     1991—Subsec. (d)(2). [Pub. L. 102–25][/us/pl/102/25] substituted “naval” for “Naval” in concluding provisions.
 
-    1989—Subsec. (a). [Pub. L. 101–189, § 3133(a)(1)(A)][/us/pl/101/189/s3133/a/1/A], inserted “, and, to the extent provided in an agency-approved joint work statement, the director of any of its Government-owned, contractor-operated laboratories” after “Government-operated Federal laboratories” in introductory provisions.
+    1989—Subsec. (a). [Pub. L. 101–189][/us/pl/101/189], § 3133(a)(1)(A), inserted “, and, to the extent provided in an agency-approved joint work statement, the director of any of its Government-owned, contractor-operated laboratories” after “Government-operated Federal laboratories” in introductory provisions.
 
-    Subsec. (a)(2). [Pub. L. 101–189, § 3133(a)(1)(B)][/us/pl/101/189/s3133/a/1/B], (C), substituted “(in the case of a Government-owned, contractor-operated laboratory, subject to subsection (c) of this section) for” for “for Government-owned” and struck out “of Federal employees” before “that may be voluntarily”.
+    Subsec. (a)(2). [Pub. L. 101–189][/us/pl/101/189], § 3133(a)(1)(B), (C), substituted “(in the case of a Government-owned, contractor-operated laboratory, subject to subsection (c) of this section) for” for “for Government-owned” and struck out “of Federal employees” before “that may be voluntarily”.
 
-    Subsec. (b). [Pub. L. 101–189, § 3133(a)(2)(A)][/us/pl/101/189/s3133/a/2/A], (C), inserted “, and, to the extent provided in an agency-approved joint work statement, a Government-owned, contractor-operated laboratory,” after “Government-operated Federal laboratory” in introductory provisions and inserted concluding provisions “A Government-owned, contractor-operated laboratory that enters into a cooperative research and development agreement under subsection (a)(1) of this section may use or obligate royalties or other income accruing to such laboratory under such agreement with respect to any invention only (i) for payments to inventors; (ii) for the purposes described in section 3710c(a)(1)(B)(i), (ii), and (iv) of this title; and (iii) for scientific research and development consistent with the research and development mission and objectives of the laboratory.”
+    Subsec. (b). [Pub. L. 101–189][/us/pl/101/189], § 3133(a)(2)(A), (C), inserted “, and, to the extent provided in an agency-approved joint work statement, a Government-owned, contractor-operated laboratory,” after “Government-operated Federal laboratory” in introductory provisions and inserted concluding provisions “A Government-owned, contractor-operated laboratory that enters into a cooperative research and development agreement under subsection (a)(1) of this section may use or obligate royalties or other income accruing to such laboratory under such agreement with respect to any invention only (i) for payments to inventors; (ii) for the purposes described in section 3710c(a)(1)(B)(i), (ii), and (iv) of this title; and (iii) for scientific research and development consistent with the research and development mission and objectives of the laboratory.”
 
-    Subsec. (b)(2). [Pub. L. 101–189, § 3133(a)(2)(B)][/us/pl/101/189/s3133/a/2/B], substituted “a laboratory employee” for “a Federal employee”.
+    Subsec. (b)(2). [Pub. L. 101–189][/us/pl/101/189], § 3133(a)(2)(B), substituted “a laboratory employee” for “a Federal employee”.
 
-    Subsec. (c)(3)(A). [Pub. L. 101–189, § 3133(a)(3)][/us/pl/101/189/s3133/a/3], substituted “standards of conduct for its employees” for “employee standards of conduct”.
+    Subsec. (c)(3)(A). [Pub. L. 101–189][/us/pl/101/189], § 3133(a)(3), substituted “standards of conduct for its employees” for “employee standards of conduct”.
 
-    Subsec. (c)(5)(A). [Pub. L. 101–189, § 3133(a)(4)][/us/pl/101/189/s3133/a/4], inserted “presented by the director of a Government-operated laboratory” after “any such agreement”.
+    Subsec. (c)(5)(A). [Pub. L. 101–189][/us/pl/101/189], § 3133(a)(4), inserted “presented by the director of a Government-operated laboratory” after “any such agreement”.
 
-    Subsec. (c)(5)(B). [Pub. L. 101–189, § 3133(a)(5)][/us/pl/101/189/s3133/a/5], inserted “by the director of a Government-operated laboratory” after “an agreement presented”.
+    Subsec. (c)(5)(B). [Pub. L. 101–189][/us/pl/101/189], § 3133(a)(5), inserted “by the director of a Government-operated laboratory” after “an agreement presented”.
 
-    Subsec. (c)(5)(C). [Pub. L. 101–189, § 3133(a)(6)][/us/pl/101/189/s3133/a/6], added subpar. (C).
+    Subsec. (c)(5)(C). [Pub. L. 101–189][/us/pl/101/189], § 3133(a)(6), added subpar. (C).
 
-    Subsec. (c)(7). [Pub. L. 101–189, § 3133(a)(7)][/us/pl/101/189/s3133/a/7], added par. (7).
+    Subsec. (c)(7). [Pub. L. 101–189][/us/pl/101/189], § 3133(a)(7), added par. (7).
 
-    Subsec. (d)(2). [Pub. L. 101–189, § 3133(a)(8)(B)][/us/pl/101/189/s3133/a/8/B], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘laboratory’ means a facility or group of facilities owned, leased, or otherwise used by a Federal agency, a substantial purpose of which is the performance of research, development, or engineering by employees of the Federal Government.”
+    Subsec. (d)(2). [Pub. L. 101–189][/us/pl/101/189], § 3133(a)(8)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the term ‘laboratory’ means a facility or group of facilities owned, leased, or otherwise used by a Federal agency, a substantial purpose of which is the performance of research, development, or engineering by employees of the Federal Government.”
 
-    Subsec. (d)(3). [Pub. L. 101–189, § 3133(a)(8)(A)][/us/pl/101/189/s3133/a/8/A], (C), added par. (3).
+    Subsec. (d)(3). [Pub. L. 101–189][/us/pl/101/189], § 3133(a)(8)(A), (C), added par. (3).
 
-    Subsec. (g). [Pub. L. 101–189, § 3133(b)][/us/pl/101/189/s3133/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 101–189][/us/pl/101/189], § 3133(b), added subsec. (g).
 
-    1988—Subsec. (a)(2). [Pub. L. 100–519, § 301(1)][/us/pl/100/519/s301/1], substituted “or other intellectual property developed at the laboratory and other inventions or other intellectual property” for “at the laboratory and other inventions”.
+    1988—Subsec. (a)(2). [Pub. L. 100–519][/us/pl/100/519], § 301(1), substituted “or other intellectual property developed at the laboratory and other inventions or other intellectual property” for “at the laboratory and other inventions”.
 
-    Subsec. (b)(4), (5). [Pub. L. 100–519, § 301(2)][/us/pl/100/519/s301/2], added par. (4) and redesignated former par. (4) as (5).
+    Subsec. (b)(4), (5). [Pub. L. 100–519][/us/pl/100/519], § 301(2), added par. (4) and redesignated former par. (4) as (5).
 
  __Review of Cooperative Research and Development Agreement Procedures__ 
 
-[Pub. L. 106–404, § 8][/us/pl/106/404/s8], Nov. 1, 2000, [114 Stat. 1746][/us/stat/114/1746], provided that:
+[Pub. L. 106–404][/us/pl/106/404], § 8, Nov. 1, 2000, [114 Stat. 1746][/us/stat/114/1746], provided that:
 
 >     “(a)  __Review__  __.—__ 
 
@@ -271,7 +271,7 @@
 
  __Contract Provisions__ 
 
-[Section 3133(d) of Pub. L. 101–189][/us/pl/101/189/s3133/d], as amended by [Pub. L. 101–510, div. A, title VIII, § 828(a)][/us/pl/101/510/s828/a], Nov. 5, 1990, [104 Stat. 1607][/us/stat/104/1607], provided that:
+[Section 3133(d) of Pub. L. 101–189][/us/pl/101/189/s3133/d], as amended by [Pub. L. 101–510, div. A, title VIII][/us/pl/101/510/dA/tVIII], § 828(a), Nov. 5, 1990, [104 Stat. 1607][/us/stat/104/1607], provided that:
 
 >     “(1)
 
@@ -317,7 +317,7 @@
 
 >     “(6) Contract provisions referred to in paragraph (1) shall include only such provisions as are necessary to carry out paragraphs (1) and (2) of this subsection.”
 
-\[[Pub. L. 101–510, div. A, title VIII, § 828(b)][/us/pl/101/510/s828/b], Nov. 5, 1990, [104 Stat. 1607][/us/stat/104/1607], provided that: 
+\[[Pub. L. 101–510, div. A, title VIII][/us/pl/101/510/dA/tVIII], § 828(b), Nov. 5, 1990, [104 Stat. 1607][/us/stat/104/1607], provided that: 
 
 > “Paragraph (6) of 3133(d) of such Act \[[Pub. L. 101–189][/us/pl/101/189], set out above\], as added by subsection (a), shall apply only to contracts entered into after the date of enactment of this Act \[Nov. 5, 1990\].”
 
@@ -335,62 +335,62 @@
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
 [/us/usc/t15/s3710c/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710c%2Fa%2F1%2FB
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
-[/us/pl/96/480/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480%2Fs12
+[/us/pl/96/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F480
 [/us/pl/99/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F502
 [/us/stat/100/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1785
-[/us/pl/100/418/s5122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs5122%2Fa%2F1
+[/us/pl/100/418/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtV
 [/us/stat/102/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1438
-[/us/pl/100/519/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs301
+[/us/pl/100/519/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2FtIII
 [/us/stat/102/2597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2597
-[/us/pl/101/189/s3133/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3133%2Fa
+[/us/pl/101/189/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2FdC%2FtXXXI
 [/us/stat/103/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1675
-[/us/pl/102/25/s705/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2Fs705%2Fg
+[/us/pl/102/25/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25%2FtVII
 [/us/stat/105/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F121
-[/us/pl/102/245/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2Fs302%2Fa
+[/us/pl/102/245/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245%2FtIII
 [/us/stat/106/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F20
-[/us/pl/102/484/s3135/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3135%2Fa
+[/us/pl/102/484/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdC%2FtXXXI
 [/us/stat/106/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2640
-[/us/pl/103/160/s3160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs3160
+[/us/pl/103/160/dC/tXXXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdC%2FtXXXI
 [/us/stat/107/1957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1957
-[/us/pl/104/113/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113%2Fs4
+[/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
 [/us/stat/110/775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F775
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
-[/us/pl/106/404/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs3
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
 [/us/stat/114/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1742
 [/us/usc/t35/s203/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs203%2F2
 [/us/usc/t35/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs203%2Fb
-[/us/pl/107/273/s13206/a/14/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2Fs13206%2Fa%2F14%2FA%2Fi
+[/us/pl/107/273/dC/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdC%2FtIII
 [/us/stat/116/1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1905
 [/us/usc/t50/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2511
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
 [/us/usc/t35/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs209
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
+[/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/104/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F113
-[/us/pl/103/160/s3160/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs3160%2F1
-[/us/pl/103/160/s3160/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs3160%2F2
-[/us/pl/103/160/s3160/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs3160%2F3
-[/us/pl/102/484/s3135/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3135%2Fa%2F1
-[/us/pl/102/484/s3135/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs3135%2Fa%2F2
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/102/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F245
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25
-[/us/pl/101/189/s3133/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3133%2Fa%2F1%2FA
-[/us/pl/101/189/s3133/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3133%2Fa%2F1%2FB
-[/us/pl/101/189/s3133/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3133%2Fa%2F2%2FA
-[/us/pl/101/189/s3133/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3133%2Fa%2F2%2FB
-[/us/pl/101/189/s3133/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3133%2Fa%2F3
-[/us/pl/101/189/s3133/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3133%2Fa%2F4
-[/us/pl/101/189/s3133/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3133%2Fa%2F5
-[/us/pl/101/189/s3133/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3133%2Fa%2F6
-[/us/pl/101/189/s3133/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3133%2Fa%2F7
-[/us/pl/101/189/s3133/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3133%2Fa%2F8%2FB
-[/us/pl/101/189/s3133/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3133%2Fa%2F8%2FA
-[/us/pl/101/189/s3133/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3133%2Fb
-[/us/pl/100/519/s301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs301%2F1
-[/us/pl/100/519/s301/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519%2Fs301%2F2
-[/us/pl/106/404/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404%2Fs8
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/100/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519
+[/us/pl/100/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F519
+[/us/pl/106/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F404
 [/us/stat/114/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1746
 [/us/usc/t15/s3710a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a
 [/us/usc/t15/s3710a/c/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a%2Fc%2F5%2FC
@@ -400,7 +400,7 @@
 [/us/pl/101/640/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs417
 [/us/usc/t33/s2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2313
 [/us/pl/101/189/s3133/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs3133%2Fd
-[/us/pl/101/510/s828/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs828%2Fa
+[/us/pl/101/510/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVIII
 [/us/stat/104/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1607
 [/us/usc/t15/s3710/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710%2Fa%2F1
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
@@ -408,7 +408,7 @@
 [/us/usc/t15/s3710a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a
 [/us/usc/t15/s3710a/c/5/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a%2Fc%2F5%2FC%2Fi
 [/us/usc/t15/s3710a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a
-[/us/pl/101/510/s828/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs828%2Fb
+[/us/pl/101/510/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtVIII
 [/us/stat/104/1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1607
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
 

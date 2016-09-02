@@ -17,7 +17,7 @@
 
     The requirements of this chapter shall be applicable only to fasteners fabricated 180 days or more after June 8, 1999, except that if a manufacturer or distributor of fasteners fabricated before June 8, 1999, prepares a record of conformance for such fasteners, representations about such fasteners shall be subject to the requirements of this chapter.
 
-([Pub. L. 101–592, § 11][/us/pl/101/592/s11], as added [Pub. L. 106–34, § 11][/us/pl/106/34/s11], June 8, 1999, [113 Stat. 124][/us/stat/113/124].)
+([Pub. L. 101–592][/us/pl/101/592], § 11, as added [Pub. L. 106–34][/us/pl/106/34], § 11, June 8, 1999, [113 Stat. 124][/us/stat/113/124].)
 
  __Prior Provisions__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/101/592/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F592%2Fs11
-[/us/pl/106/34/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34%2Fs11
+[/us/pl/101/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F592
+[/us/pl/106/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F34
 [/us/stat/113/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F124
 [/us/pl/101/592/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F592%2Fs11
 [/us/usc/t15/s5410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5410

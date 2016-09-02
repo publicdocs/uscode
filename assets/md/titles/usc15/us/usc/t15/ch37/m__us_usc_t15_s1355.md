@@ -31,7 +31,7 @@
 
     (g) provided for making public all reports prepared in the course of furnishing technical services supported under this chapter or for making them available at cost to any person on request.
 
-([Pub. L. 89–182, § 5][/us/pl/89/182/s5], Sept. 14, 1965, [79 Stat. 681][/us/stat/79/681].)
+([Pub. L. 89–182][/us/pl/89/182], § 5, Sept. 14, 1965, [79 Stat. 681][/us/stat/79/681].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/89/182/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182%2Fs5
+[/us/pl/89/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F182
 [/us/stat/79/681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F681
 
 

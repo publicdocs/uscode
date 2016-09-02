@@ -49,7 +49,7 @@
 
         An antitrust mutual assistance agreement, or an agreement that makes an amendment to an antitrust mutual assistance agreement, with respect to which publication does not occur in accordance with subsections (a), (b), and (c) shall not be considered to be in effect under this chapter.
 
-([Pub. L. 103–438, § 7][/us/pl/103/438/s7], Nov. 2, 1994, [108 Stat. 4600][/us/stat/108/4600].)
+([Pub. L. 103–438][/us/pl/103/438], § 7, Nov. 2, 1994, [108 Stat. 4600][/us/stat/108/4600].)
 
 ----------
 
@@ -58,7 +58,7 @@
 ----------
 ----------
 
-[/us/pl/103/438/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438%2Fs7
+[/us/pl/103/438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F438
 [/us/stat/108/4600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4600
 
 

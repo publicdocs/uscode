@@ -55,7 +55,7 @@
 
         A certificate shall be void ab initio with respect to any export trade, export trade activities, or methods of operation for which a certificate was procured by fraud.
 
-([Pub. L. 97–290, title III, § 303][/us/pl/97/290/s303], Oct. 8, 1982, [96 Stat. 1241][/us/stat/96/1241].)
+([Pub. L. 97–290, title III][/us/pl/97/290/tIII], § 303, Oct. 8, 1982, [96 Stat. 1241][/us/stat/96/1241].)
 
  __Effective Date__ 
 
@@ -69,7 +69,7 @@
 ----------
 
 [/us/usc/t15/s4012/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4012%2Fb%2F1
-[/us/pl/97/290/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs303
+[/us/pl/97/290/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2FtIII
 [/us/stat/96/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1241
 [/us/usc/t15/s4020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs4020
 [/us/pl/97/290/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F290%2Fs312%2Fb

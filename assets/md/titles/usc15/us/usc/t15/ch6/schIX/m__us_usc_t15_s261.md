@@ -23,7 +23,7 @@
 
         In this section, the term “Coordinated Universal Time” means the time scale maintained through the General Conference of Weights and Measures and interpreted or modified for the United States by the Secretary of Commerce in coordination with the Secretary of the Navy.
 
-([Mar. 19, 1918, ch. 24, § 1][/us/act/1918-03-19/ch24/s1], [40 Stat. 450][/us/stat/40/450]; [Pub. L. 89–387, § 4(a)][/us/pl/89/387/s4/a], Apr. 13, 1966, [80 Stat. 108][/us/stat/80/108]; [Pub. L. 97–449, § 2(c)][/us/pl/97/449/s2/c], Jan. 12, 1983, [96 Stat. 2439][/us/stat/96/2439]; [Pub. L. 106–564, § 1(a)][/us/pl/106/564/s1/a], Dec. 23, 2000, [114 Stat. 2811][/us/stat/114/2811]; [Pub. L. 110–69, title III, § 3013(c)(3)][/us/pl/110/69/s3013/c/3], Aug. 9, 2007, [121 Stat. 598][/us/stat/121/598].)
+([Mar. 19, 1918, ch. 24][/us/act/1918-03-19/ch24], § 1, [40 Stat. 450][/us/stat/40/450]; [Pub. L. 89–387][/us/pl/89/387], § 4(a), Apr. 13, 1966, [80 Stat. 108][/us/stat/80/108]; [Pub. L. 97–449][/us/pl/97/449], § 2(c), Jan. 12, 1983, [96 Stat. 2439][/us/stat/96/2439]; [Pub. L. 106–564][/us/pl/106/564], § 1(a), Dec. 23, 2000, [114 Stat. 2811][/us/stat/114/2811]; [Pub. L. 110–69, title III][/us/pl/110/69/tIII], § 3013(c)(3), Aug. 9, 2007, [121 Stat. 598][/us/stat/121/598].)
 
  __Amendments__ 
 
@@ -59,15 +59,15 @@
 ----------
 
 [/us/usc/t15/s260a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs260a%2Fa
-[/us/act/1918-03-19/ch24/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-03-19%2Fch24%2Fs1
+[/us/act/1918-03-19/ch24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1918-03-19%2Fch24
 [/us/stat/40/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F450
-[/us/pl/89/387/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F387%2Fs4%2Fa
+[/us/pl/89/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F387
 [/us/stat/80/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F108
-[/us/pl/97/449/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs2%2Fc
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2439
-[/us/pl/106/564/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F564%2Fs1%2Fa
+[/us/pl/106/564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F564
 [/us/stat/114/2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2811
-[/us/pl/110/69/s3013/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3013%2Fc%2F3
+[/us/pl/110/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIII
 [/us/stat/121/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F598
 [/us/pl/110/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69
 [/us/usc/t15/s260a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs260a%2Fa

@@ -17,7 +17,7 @@
 
     All criminal proceedings and all libel or injunction proceedings for the enforcement, or to restrain violations, of this chapter shall be by and in the name of the United States. Subpenas for witnesses who are required to attend a court of the United States in any district may run into any other district in any such proceeding.
 
-([Pub. L. 86–613, § 9][/us/pl/86/613/s9], July 12, 1960, [74 Stat. 378][/us/stat/74/378].)
+([Pub. L. 86–613][/us/pl/86/613], § 9, July 12, 1960, [74 Stat. 378][/us/stat/74/378].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/86/613/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613%2Fs9
+[/us/pl/86/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F613
 [/us/stat/74/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F378
 [/us/usc/t15/s2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2079
 

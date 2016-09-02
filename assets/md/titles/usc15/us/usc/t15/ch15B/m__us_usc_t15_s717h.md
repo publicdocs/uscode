@@ -23,7 +23,7 @@
 
         The Commission, before prescribing any rules or requirements as to accounts, records, or memoranda, or as to depreciation or amortization rates, shall notify each State commission having jurisdiction with respect to any natural-gas company involved and shall give reasonable opportunity to each such commission to pre­sent its views and shall receive and consider such views and recommendations.
 
-([June 21, 1938, ch. 556, § 9][/us/act/1938-06-21/ch556/s9], [52 Stat. 826][/us/stat/52/826].)
+([June 21, 1938, ch. 556][/us/act/1938-06-21/ch556], § 9, [52 Stat. 826][/us/stat/52/826].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-21/ch556/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556%2Fs9
+[/us/act/1938-06-21/ch556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-21%2Fch556
 [/us/stat/52/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F826
 
 

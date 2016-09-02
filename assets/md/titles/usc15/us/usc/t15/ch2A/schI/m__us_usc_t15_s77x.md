@@ -17,7 +17,7 @@
 
     Any person who willfully violates any of the provisions of this subchapter, or the rules and regulations promulgated by the Commission under authority thereof, or any person who willfully, in a registration statement filed under this subchapter, makes any untrue statement of a material fact or omits to state any material fact required to be stated therein or necessary to make the statements therein not misleading, shall upon conviction be fined not more than $10,000 or imprisoned not more than five years, or both.
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 24, [48 Stat. 87][/us/stat/48/87]; [Pub. L. 94–29, § 27(a)][/us/pl/94/29/s27/a], June 4, 1975, [89 Stat. 163][/us/stat/89/163].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title I, § 24, [48 Stat. 87][/us/stat/48/87]; [Pub. L. 94–29][/us/pl/94/29], § 27(a), June 4, 1975, [89 Stat. 163][/us/stat/89/163].)
 
  __Amendments__ 
 
@@ -40,7 +40,7 @@
 
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/stat/48/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F87
-[/us/pl/94/29/s27/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29%2Fs27%2Fa
+[/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/stat/89/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F163
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29
 [/us/pl/94/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F29

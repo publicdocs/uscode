@@ -17,7 +17,7 @@
 
     The Secretary shall charge for services performed under the authority of [section 273 of this title][/us/usc/t15/s273], except in cases where he determines that the interest of the Government would be best served by waiving the charge. Such charges may be based upon fixed prices or costs. The appropriation or fund bearing the cost of the services may be reimbursed, or the Secretary may require advance payment subject to such adjustment on completion of the work as may be agreed upon.
 
-([Mar. 3, 1901, ch. 872, § 7][/us/act/1901-03-03/ch872/s7], as added [Aug. 3, 1956, ch. 906, § 1][/us/act/1956-08-03/ch906/s1], [70 Stat. 959][/us/stat/70/959].)
+([Mar. 3, 1901, ch. 872][/us/act/1901-03-03/ch872], § 7, as added [Aug. 3, 1956, ch. 906][/us/act/1956-08-03/ch906], § 1, [70 Stat. 959][/us/stat/70/959].)
 
  __Codification__ 
 
@@ -31,8 +31,8 @@
 ----------
 
 [/us/usc/t15/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs273
-[/us/act/1901-03-03/ch872/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872%2Fs7
-[/us/act/1956-08-03/ch906/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch906%2Fs1
+[/us/act/1901-03-03/ch872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1901-03-03%2Fch872
+[/us/act/1956-08-03/ch906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-03%2Fch906
 [/us/stat/70/959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F959
 [/us/usc/t15/s276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs276
 

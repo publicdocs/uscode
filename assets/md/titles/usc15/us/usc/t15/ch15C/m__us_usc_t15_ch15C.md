@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs719" data-uslm-ref="/us/usc/t15/s719">719</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs719l" data-uslm-ref="/us/usc/t15/s719l">719l.</a>  </td>
 
     <td> Antitrust laws.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs719" data-uslm-ref="/us/usc/t15/s719">719</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft15%2Fs719o" data-uslm-ref="/us/usc/t15/s719o">719o.</a>  </td>
 
     <td> Civil rights; affirmative action of Federal officers and agencies; rules: promulgation and enforcement.  </td>
 

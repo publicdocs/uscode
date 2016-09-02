@@ -55,7 +55,7 @@
 
             If a Federal regulatory agency, with respect to matter within its jurisdiction, determines after notice and an opportunity for public comment, and publishes a finding, that one or more such exceptions are no longer necessary for the protection of consumers and eliminating such exceptions will not increase the material risk of harm to consumers, such agency may extend the application of [section 7001 of this title][/us/usc/t15/s7001] to the exceptions identified in such finding.
 
-([Pub. L. 106–229, title I, § 103][/us/pl/106/229/s103], June 30, 2000, [114 Stat. 468][/us/stat/114/468].)
+([Pub. L. 106–229, title I][/us/pl/106/229/tI], § 103, June 30, 2000, [114 Stat. 468][/us/stat/114/468].)
 
 ----------
 
@@ -67,7 +67,7 @@
 [/us/usc/t15/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7001
 [/us/usc/t15/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7001
 [/us/usc/t15/s7001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7001
-[/us/pl/106/229/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2Fs103
+[/us/pl/106/229/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F229%2FtI
 [/us/stat/114/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F468
 
 

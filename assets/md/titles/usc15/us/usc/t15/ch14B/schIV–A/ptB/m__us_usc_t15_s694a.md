@@ -35,19 +35,19 @@
 
     (9) Notwithstanding any other provision of law or any rule, regulation, or order of the Administration, for purpose of sections 694a, 694b, and 694c of this title the term “small business concern” means a business concern that meets the size standard for the primary industry in which such business concern, and the affiliates of such business concern, is engaged, as determined by the Administrator in accordance with the North American Industry Classification System.
 
-([Pub. L. 85–699, title IV, § 410][/us/pl/85/699/s410], as added [Pub. L. 91–609, title IX, § 911(a)(4)][/us/pl/91/609/s911/a/4], Dec. 31, 1970, [84 Stat. 1812][/us/stat/84/1812]; amended [Pub. L. 95–507, title I, § 110][/us/pl/95/507/s110], Oct. 24, 1978, [92 Stat. 1758][/us/stat/92/1758]; [Pub. L. 111–5, div. A, title V, § 508(c)][/us/pl/111/5/s508/c], Feb. 17, 2009, [123 Stat. 158][/us/stat/123/158]; [Pub. L. 112–239, div. A, title XVI, § 1695(c)][/us/pl/112/239/s1695/c], Jan. 2, 2013, [126 Stat. 2090][/us/stat/126/2090].)
+([Pub. L. 85–699, title IV][/us/pl/85/699/tIV], § 410, as added [Pub. L. 91–609, title IX][/us/pl/91/609/tIX], § 911(a)(4), Dec. 31, 1970, [84 Stat. 1812][/us/stat/84/1812]; amended [Pub. L. 95–507, title I][/us/pl/95/507/tI], § 110, Oct. 24, 1978, [92 Stat. 1758][/us/stat/92/1758]; [Pub. L. 111–5, div. A, title V][/us/pl/111/5/dA/tV], § 508(c), Feb. 17, 2009, [123 Stat. 158][/us/stat/123/158]; [Pub. L. 112–239, div. A, title XVI][/us/pl/112/239/dA/tXVI], § 1695(c), Jan. 2, 2013, [126 Stat. 2090][/us/stat/126/2090].)
 
  __Amendments__ 
 
     2013—Par. (9). [Pub. L. 112–239][/us/pl/112/239] added par. (9).
 
-    2009—Par. (9). [Pub. L. 111–5, § 508(c)][/us/pl/111/5/s508/c], (f), temporarily added par. (9) which read as follows: “Notwithstanding any other provision of law or any rule, regulation, or order of the Administration, for purposes of sections 694a, 694b, and 694c of this title the term “small business concern” means a business concern that meets the size standard for the primary industry in which such business concern, and the affiliates of such business concern, is engaged, as determined by the Administrator in accordance with the North American Industry Classification System.” See Termination Date of 2009 Amendment note below.
+    2009—Par. (9). [Pub. L. 111–5][/us/pl/111/5], § 508(c), (f), temporarily added par. (9) which read as follows: “Notwithstanding any other provision of law or any rule, regulation, or order of the Administration, for purposes of sections 694a, 694b, and 694c of this title the term “small business concern” means a business concern that meets the size standard for the primary industry in which such business concern, and the affiliates of such business concern, is engaged, as determined by the Administrator in accordance with the North American Industry Classification System.” See Termination Date of 2009 Amendment note below.
 
     1978—Par. (4)(D). [Pub. L. 95–507][/us/pl/95/507] added cl. (D).
 
  __Termination Date of 2009 Amendment__ 
 
-[Pub. L. 111–5, div. A, title V, § 508(f)][/us/pl/111/5/s508/f], Feb. 17, 2009, [123 Stat. 159][/us/stat/123/159], provided that: 
+[Pub. L. 111–5, div. A, title V][/us/pl/111/5/dA/tV], § 508(f), Feb. 17, 2009, [123 Stat. 159][/us/stat/123/159], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 694b of this title][/us/usc/t15/s694b]\] shall remain in effect until September 30, 2010.”
 
@@ -62,19 +62,19 @@
 ----------
 ----------
 
-[/us/pl/85/699/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2Fs410
-[/us/pl/91/609/s911/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs911%2Fa%2F4
+[/us/pl/85/699/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F699%2FtIV
+[/us/pl/91/609/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2FtIX
 [/us/stat/84/1812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1812
-[/us/pl/95/507/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507%2Fs110
+[/us/pl/95/507/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507%2FtI
 [/us/stat/92/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1758
-[/us/pl/111/5/s508/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs508%2Fc
+[/us/pl/111/5/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtV
 [/us/stat/123/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F158
-[/us/pl/112/239/s1695/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1695%2Fc
+[/us/pl/112/239/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtXVI
 [/us/stat/126/2090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2090
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/111/5/s508/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs508%2Fc
+[/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/95/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F507
-[/us/pl/111/5/s508/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs508%2Ff
+[/us/pl/111/5/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtV
 [/us/stat/123/159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F159
 [/us/usc/t15/s694b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs694b
 [/us/pl/91/609/s911/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F609%2Fs911%2Fb

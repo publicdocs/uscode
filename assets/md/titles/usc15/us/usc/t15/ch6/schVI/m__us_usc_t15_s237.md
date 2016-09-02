@@ -17,7 +17,7 @@
 
     There is established a large and a small barrel of lime, the large barrel to consist of two hundred and eighty pounds and the small barrel to consist of one hundred and eighty pounds, net weight.
 
-([Aug. 23, 1916, ch. 396, § 1][/us/act/1916-08-23/ch396/s1], [39 Stat. 530][/us/stat/39/530].)
+([Aug. 23, 1916, ch. 396][/us/act/1916-08-23/ch396], § 1, [39 Stat. 530][/us/stat/39/530].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1916-08-23/ch396/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-23%2Fch396%2Fs1
+[/us/act/1916-08-23/ch396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-08-23%2Fch396
 [/us/stat/39/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F530
 
 

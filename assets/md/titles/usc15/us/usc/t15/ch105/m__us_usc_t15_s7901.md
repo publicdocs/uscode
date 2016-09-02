@@ -53,7 +53,7 @@
 
         (7) To exercise congressional power under article IV, section 1 (the Full Faith and Credit Clause) of the United States Constitution.
 
-([Pub. L. 109–92, § 2][/us/pl/109/92/s2], Oct. 26, 2005, [119 Stat. 2095][/us/stat/119/2095].)
+([Pub. L. 109–92][/us/pl/109/92], § 2, Oct. 26, 2005, [119 Stat. 2095][/us/stat/119/2095].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 
  __Short Title__ 
 
-[Pub. L. 109–92, § 1][/us/pl/109/92/s1], Oct. 26, 2005, [119 Stat. 2095][/us/stat/119/2095], provided that: 
+[Pub. L. 109–92][/us/pl/109/92], § 1, Oct. 26, 2005, [119 Stat. 2095][/us/stat/119/2095], provided that: 
 
 > “This Act \[enacting this chapter, amending sections 922 and 924 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 921 and 922 of Title 18\] may be cited as the ‘Protection of Lawful Commerce in Arms Act’.”
 
@@ -80,7 +80,7 @@
 
 [/us/usc/t26/s5801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5801
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
-[/us/pl/109/92/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92%2Fs2
+[/us/pl/109/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92
 [/us/stat/119/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2095
 [/us/pl/90/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F618
 [/us/stat/82/1213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1213
@@ -91,7 +91,7 @@
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/109/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92
 [/us/stat/119/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2095
-[/us/pl/109/92/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92%2Fs1
+[/us/pl/109/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F92
 [/us/stat/119/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2095
 
 

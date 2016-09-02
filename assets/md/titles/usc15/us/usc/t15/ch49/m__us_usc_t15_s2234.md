@@ -23,7 +23,7 @@
 
     (3) making recommendations on other ways in which the Federal Government can promote the adoption of such standards by fire services.
 
-([Pub. L. 93–498, § 37][/us/pl/93/498/s37], as added [Pub. L. 110–376, § 7][/us/pl/110/376/s7], Oct. 8, 2008, [122 Stat. 4060][/us/stat/122/4060].)
+([Pub. L. 93–498][/us/pl/93/498], § 37, as added [Pub. L. 110–376][/us/pl/110/376], § 7, Oct. 8, 2008, [122 Stat. 4060][/us/stat/122/4060].)
 
 ----------
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/93/498/s37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498%2Fs37
-[/us/pl/110/376/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376%2Fs7
+[/us/pl/93/498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F498
+[/us/pl/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F376
 [/us/stat/122/4060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4060
 
 

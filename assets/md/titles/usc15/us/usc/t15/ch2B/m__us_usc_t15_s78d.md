@@ -233,7 +233,7 @@
 
             Amounts collected and deposited in the Reserve Fund shall not be construed to be Government funds or appropriated monies and shall not be subject to apportionment for the purpose of chapter 15 of title 31 or under any other authority.
 
-([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 4, [48 Stat. 885][/us/stat/48/885]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Pub. L. 86–619, § 3][/us/pl/86/619/s3], July 12, 1960, [74 Stat. 408][/us/stat/74/408]; [Pub. L. 86–771][/us/pl/86/771], Sept. 13, 1960, [74 Stat. 913][/us/stat/74/913]; [Pub. L. 88–426, title III, § 305(20)][/us/pl/88/426/s305/20], Aug. 14, 1964, [78 Stat. 425][/us/stat/78/425]; [Pub. L. 98–38, § 1][/us/pl/98/38/s1], June 6, 1983, [97 Stat. 205][/us/stat/97/205]; [Pub. L. 100–181, title III, § 307][/us/pl/100/181/s307], Dec. 4, 1987, [101 Stat. 1254][/us/stat/101/1254]; [Pub. L. 101–550, title I, § 103][/us/pl/101/550/s103], title II, § 207, Nov. 15, 1990, [104 Stat. 2713][/us/stat/104/2713], 2721; [Pub. L. 104–290, title IV, § 406][/us/pl/104/290/s406], Oct. 11, 1996, [110 Stat. 3444][/us/stat/110/3444]; [Pub. L. 105–353, title II, § 203][/us/pl/105/353/s203], Nov. 3, 1998, [112 Stat. 3234][/us/stat/112/3234]; [Pub. L. 107–123, § 8(d)(2)][/us/pl/107/123/s8/d/2], Jan. 16, 2002, [115 Stat. 2399][/us/stat/115/2399]; [Pub. L. 111–203, title IX][/us/pl/111/203], §§ 915, 919D, 965, 991(e)(1), July 21, 2010, [124 Stat. 1830][/us/stat/124/1830], 1840, 1911, 1954.)
+([June 6, 1934, ch. 404][/us/act/1934-06-06/ch404], title I, § 4, [48 Stat. 885][/us/stat/48/885]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Pub. L. 86–619][/us/pl/86/619], § 3, July 12, 1960, [74 Stat. 408][/us/stat/74/408]; [Pub. L. 86–771][/us/pl/86/771], Sept. 13, 1960, [74 Stat. 913][/us/stat/74/913]; [Pub. L. 88–426, title III][/us/pl/88/426/tIII], § 305(20), Aug. 14, 1964, [78 Stat. 425][/us/stat/78/425]; [Pub. L. 98–38][/us/pl/98/38], § 1, June 6, 1983, [97 Stat. 205][/us/stat/97/205]; [Pub. L. 100–181, title III][/us/pl/100/181/tIII], § 307, Dec. 4, 1987, [101 Stat. 1254][/us/stat/101/1254]; [Pub. L. 101–550, title I][/us/pl/101/550/tI], § 103, title II, § 207, Nov. 15, 1990, [104 Stat. 2713][/us/stat/104/2713], 2721; [Pub. L. 104–290, title IV][/us/pl/104/290/tIV], § 406, Oct. 11, 1996, [110 Stat. 3444][/us/stat/110/3444]; [Pub. L. 105–353, title II][/us/pl/105/353/tII], § 203, Nov. 3, 1998, [112 Stat. 3234][/us/stat/112/3234]; [Pub. L. 107–123][/us/pl/107/123], § 8(d)(2), Jan. 16, 2002, [115 Stat. 2399][/us/stat/115/2399]; [Pub. L. 111–203, title IX][/us/pl/111/203/tIX], §§ 915, 919D, 965, 991(e)(1), July 21, 2010, [124 Stat. 1830][/us/stat/124/1830], 1840, 1911, 1954.)
 
  __References in Text__ 
 
@@ -241,13 +241,13 @@
 
  __Amendments__ 
 
-    2010—Subsec. (g). [Pub. L. 111–203, § 915][/us/pl/111/203/s915], added subsec. (g).
+    2010—Subsec. (g). [Pub. L. 111–203][/us/pl/111/203], § 915, added subsec. (g).
 
-    Subsec. (g)(8). [Pub. L. 111–203, § 919D][/us/pl/111/203/s919D], added par. (8).
+    Subsec. (g)(8). [Pub. L. 111–203][/us/pl/111/203], § 919D, added par. (8).
 
-    Subsec. (h). [Pub. L. 111–203, § 965][/us/pl/111/203/s965], added subsec. (h).
+    Subsec. (h). [Pub. L. 111–203][/us/pl/111/203], § 965, added subsec. (h).
 
-    Subsec. (i). [Pub. L. 111–203, § 991(e)(1)][/us/pl/111/203/s991/e/1], added subsec. (i).
+    Subsec. (i). [Pub. L. 111–203][/us/pl/111/203], § 991(e)(1), added subsec. (i).
 
     2002—Subsec. (b)(1), (2). [Pub. L. 107–123][/us/pl/107/123] added pars. (1) and (2) and struck out former pars. (1) and (2), which authorized the Commission to appoint and compensate officers, attorneys, examiners, and other experts as needed, and to select, appoint, and compensate professional economists.
 
@@ -255,9 +255,9 @@
 
     1996—Subsec. (e). [Pub. L. 104–290][/us/pl/104/290] inserted before period at end “and the Commission may also specify the time that such fee shall be determined and paid relative to the filing of any statement or document with the Commission”.
 
-    1990—Subsec. (b). [Pub. L. 101–550, § 103][/us/pl/101/550/s103], inserted heading, designated existing provision as par. (1) and inserted heading, and added par. (2).
+    1990—Subsec. (b). [Pub. L. 101–550][/us/pl/101/550], § 103, inserted heading, designated existing provision as par. (1) and inserted heading, and added par. (2).
 
-    Subsec. (f). [Pub. L. 101–550, § 207][/us/pl/101/550/s207], added subsec. (f).
+    Subsec. (f). [Pub. L. 101–550][/us/pl/101/550], § 207, added subsec. (f).
 
     1987—Subsec. (e). [Pub. L. 100–181][/us/pl/100/181] added subsec. (e).
 
@@ -275,7 +275,7 @@
 
     Amendment by sections 915, 919D, and 965 of [Pub. L. 111–203][/us/pl/111/203] effective 1 day after July 21, 2010, except as otherwise provided, see [section 4 of Pub. L. 111–203][/us/pl/111/203/s4], set out as an Effective Date note under [section 5301 of Title 12][/us/usc/t12/s5301], Banks and Banking.
 
-[Pub. L. 111–203, title IX, § 991(e)(2)][/us/pl/111/203/s991/e/2], July 21, 2010, [124 Stat. 1955][/us/stat/124/1955], provided that: 
+[Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 991(e)(2), July 21, 2010, [124 Stat. 1955][/us/stat/124/1955], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall take effect on October 1, 2011.”
 
@@ -297,13 +297,13 @@
 
  __Outreach by the Commission__ 
 
-[Pub. L. 112–106, title VII, § 701][/us/pl/112/106/s701], Apr. 5, 2012, [126 Stat. 327][/us/stat/126/327], provided that: 
+[Pub. L. 112–106, title VII][/us/pl/112/106/tVII], § 701, Apr. 5, 2012, [126 Stat. 327][/us/stat/126/327], provided that: 
 
 > “The Securities and Exchange Commission shall provide online information and conduct outreach to inform small and medium sized businesses, women owned businesses, veteran owned businesses, and minority owned businesses of the changes made by this Act \[see Short Title of 2012 Amendment note set out under [section 78a of this title][/us/usc/t15/s78a]\].”
 
  __Pay Authority for Employment of Experts and Consultants__ 
 
-[Pub. L. 111–203, title IX, § 929G(c)][/us/pl/111/203/s929G/c], July 21, 2010, [124 Stat. 1856][/us/stat/124/1856], provided that: 
+[Pub. L. 111–203, title IX][/us/pl/111/203/tIX], § 929G(c), July 21, 2010, [124 Stat. 1856][/us/stat/124/1856], provided that: 
 
 > “The \[Securities and Exchange\] Commission may set the rate of pay for experts and consultants appointed under the authority of [section 3109 of title 5][/us/usc/t5/s3109], United States Code, in the same manner in which it sets the rate of pay for employees of the Commission.”
 
@@ -363,36 +363,36 @@
 [/us/stat/48/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F885
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
-[/us/pl/86/619/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F619%2Fs3
+[/us/pl/86/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F619
 [/us/stat/74/408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F408
 [/us/pl/86/771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F771
 [/us/stat/74/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F913
-[/us/pl/88/426/s305/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs305%2F20
+[/us/pl/88/426/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2FtIII
 [/us/stat/78/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F425
-[/us/pl/98/38/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F38%2Fs1
+[/us/pl/98/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F38
 [/us/stat/97/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F205
-[/us/pl/100/181/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2Fs307
+[/us/pl/100/181/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181%2FtIII
 [/us/stat/101/1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1254
-[/us/pl/101/550/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs103
+[/us/pl/101/550/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtI
 [/us/stat/104/2713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2713
-[/us/pl/104/290/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2Fs406
+[/us/pl/104/290/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290%2FtIV
 [/us/stat/110/3444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3444
-[/us/pl/105/353/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2Fs203
+[/us/pl/105/353/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353%2FtII
 [/us/stat/112/3234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3234
-[/us/pl/107/123/s8/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs8%2Fd%2F2
+[/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
 [/us/stat/115/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2399
-[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1830
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/111/203/s915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs915
-[/us/pl/111/203/s919D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs919D
-[/us/pl/111/203/s965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs965
-[/us/pl/111/203/s991/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fe%2F1
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
+[/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
 [/us/pl/105/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F353
 [/us/pl/104/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F290
-[/us/pl/101/550/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs103
-[/us/pl/101/550/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs207
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
+[/us/pl/101/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550
 [/us/pl/100/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F181
 [/us/pl/98/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F38
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
@@ -401,7 +401,7 @@
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs4
 [/us/usc/t12/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs5301
-[/us/pl/111/203/s991/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs991%2Fe%2F2
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
 [/us/pl/107/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123
 [/us/pl/107/123/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F123%2Fs11
@@ -412,10 +412,10 @@
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F632
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265
-[/us/pl/112/106/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2Fs701
+[/us/pl/112/106/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F106%2FtVII
 [/us/stat/126/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F327
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
-[/us/pl/111/203/s929G/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs929G%2Fc
+[/us/pl/111/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtIX
 [/us/stat/124/1856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1856
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/stat/64/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1265

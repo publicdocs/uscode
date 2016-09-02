@@ -69,7 +69,7 @@
 
         (2) The Executive Committee of the Board shall meet at the call of the Chairman, but in no case less frequently than once every ninety days.
 
-([Pub. L. 94–136, title II, § 202][/us/pl/94/136/s202], Nov. 28, 1975, [89 Stat. 735][/us/stat/89/735].)
+([Pub. L. 94–136, title II][/us/pl/94/136/tII], § 202, Nov. 28, 1975, [89 Stat. 735][/us/stat/89/735].)
 
  __References in Other Laws to GS–16, 17, or 18 Pay Rates__ 
 
@@ -83,7 +83,7 @@
 ----------
 
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/94/136/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2Fs202
+[/us/pl/94/136/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F136%2FtII
 [/us/stat/89/735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F735
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509
 [/us/usc/t5/s5376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5376

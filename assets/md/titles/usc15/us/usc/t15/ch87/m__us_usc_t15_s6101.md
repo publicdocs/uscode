@@ -27,29 +27,29 @@
 
     (5) Consequently, Congress should enact legislation that will offer consumers necessary protection from telemarketing deception and abuse.
 
-([Pub. L. 103–297, § 2][/us/pl/103/297/s2], Aug. 16, 1994, [108 Stat. 1545][/us/stat/108/1545].)
+([Pub. L. 103–297][/us/pl/103/297], § 2, Aug. 16, 1994, [108 Stat. 1545][/us/stat/108/1545].)
 
  __Short Title of 2001 Amendment__ 
 
-[Pub. L. 107–56, title X, § 1011(a)][/us/pl/107/56/s1011/a], Oct. 26, 2001, [115 Stat. 396][/us/stat/115/396], provided that: 
+[Pub. L. 107–56, title X][/us/pl/107/56/tX], § 1011(a), Oct. 26, 2001, [115 Stat. 396][/us/stat/115/396], provided that: 
 
 > “This section \[amending sections 6102 and 6106 of this title and sections 917 and 2325 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Crimes Against Charitable Americans Act of 2001’.”
 
  __Short Title of 2000 Amendment__ 
 
-[Pub. L. 106–534, § 1][/us/pl/106/534/s1], Nov. 22, 2000, [114 Stat. 2555][/us/stat/114/2555], provided that: 
+[Pub. L. 106–534][/us/pl/106/534], § 1, Nov. 22, 2000, [114 Stat. 2555][/us/stat/114/2555], provided that: 
 
 > “This Act \[enacting provisions set out as notes under this section and [section 3732 of Title 42][/us/usc/t42/s3732], The Public Health and Welfare\] may be cited as the ‘Protecting Seniors From Fraud Act’.”
 
  __Short Title__ 
 
-[Pub. L. 103–297, § 1][/us/pl/103/297/s1], Aug. 16, 1994, [108 Stat. 1545][/us/stat/108/1545], provided that: 
+[Pub. L. 103–297][/us/pl/103/297], § 1, Aug. 16, 1994, [108 Stat. 1545][/us/stat/108/1545], provided that: 
 
 > “This Act \[enacting this chapter and [section 9b of Title 7][/us/usc/t7/s9b], Agriculture, and amending [section 52 of this title][/us/usc/t15/s52]\] may be cited as the ‘Telemarketing and Consumer Fraud and Abuse Prevention Act’.”
 
  __Congressional Findings__ 
 
-[Pub. L. 106–534, § 2][/us/pl/106/534/s2], Nov. 22, 2000, [114 Stat. 2555][/us/stat/114/2555], provided that: 
+[Pub. L. 106–534][/us/pl/106/534], § 2, Nov. 22, 2000, [114 Stat. 2555][/us/stat/114/2555], provided that: 
 
 > “Congress makes the following findings:
 
@@ -83,7 +83,7 @@
 
  __Senior Fraud Prevention Program__ 
 
-[Pub. L. 106–534, § 3][/us/pl/106/534/s3], Nov. 22, 2000, [114 Stat. 2556][/us/stat/114/2556], provided that:
+[Pub. L. 106–534][/us/pl/106/534], § 3, Nov. 22, 2000, [114 Stat. 2556][/us/stat/114/2556], provided that:
 
 >     “(a)  __Authorization of Appropriations__  __.—__ 
 
@@ -95,7 +95,7 @@
 
  __Dissemination of Information__ 
 
-[Pub. L. 106–534, § 4][/us/pl/106/534/s4], Nov. 22, 2000, [114 Stat. 2556][/us/stat/114/2556], provided that:
+[Pub. L. 106–534][/us/pl/106/534], § 4, Nov. 22, 2000, [114 Stat. 2556][/us/stat/114/2556], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -144,22 +144,22 @@
 ----------
 ----------
 
-[/us/pl/103/297/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297%2Fs2
+[/us/pl/103/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297
 [/us/stat/108/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1545
-[/us/pl/107/56/s1011/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs1011%2Fa
+[/us/pl/107/56/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtX
 [/us/stat/115/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F396
-[/us/pl/106/534/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F534%2Fs1
+[/us/pl/106/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F534
 [/us/stat/114/2555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2555
 [/us/usc/t42/s3732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3732
-[/us/pl/103/297/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297%2Fs1
+[/us/pl/103/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297
 [/us/stat/108/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1545
 [/us/usc/t7/s9b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9b
 [/us/usc/t15/s52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs52
-[/us/pl/106/534/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F534%2Fs2
+[/us/pl/106/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F534
 [/us/stat/114/2555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2555
-[/us/pl/106/534/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F534%2Fs3
+[/us/pl/106/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F534
 [/us/stat/114/2556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2556
-[/us/pl/106/534/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F534%2Fs4
+[/us/pl/106/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F534
 [/us/stat/114/2556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2556
 
 

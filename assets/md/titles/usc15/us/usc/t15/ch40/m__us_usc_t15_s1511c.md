@@ -45,7 +45,7 @@
 
         There are authorized to be appropriated to the Administration not to exceed $500,000 for fiscal year 1987, $530,000 for fiscal year 1988, $560,000 for fiscal year 1989, and $600,000 for fiscal year 1990 to carry out the provisions of this section.
 
-([Pub. L. 99–659, title IV, § 406][/us/pl/99/659/s406], Nov. 14, 1986, [100 Stat. 3738][/us/stat/100/3738].)
+([Pub. L. 99–659, title IV][/us/pl/99/659/tIV], § 406, Nov. 14, 1986, [100 Stat. 3738][/us/stat/100/3738].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/99/659/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2Fs406
+[/us/pl/99/659/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F659%2FtIV
 [/us/stat/100/3738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3738
 
 

@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s180.md) | [Next](./../../../..//us/usc/t15/ch5/m__us_usc_t15_s182.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs181)
 
-## § 181. Repealed. [Pub. L. 87–826, § 3][/us/pl/87/826/s3], Oct. 15, 1962, [76 Stat. 953][/us/stat/76/953]
+## § 181. Repealed. [Pub. L. 87–826][/us/pl/87/826], § 3, Oct. 15, 1962, [76 Stat. 953][/us/stat/76/953]
 
-    Section, R.S. § 341; acts [Aug. 23, 1912, ch. 350, § 1][/us/act/1912-08-23/ch350/s1], [37 Stat. 407][/us/stat/37/407]; [Mar. 1, 1919, ch. 86][/us/act/1919-03-01/ch86], [40 Stat. 1256][/us/stat/40/1256], required preparation of an annual statement of merchandise. See section 301 et seq. of Title 13, Census.
+    Section, R.S. § 341; acts [Aug. 23, 1912, ch. 350][/us/act/1912-08-23/ch350], § 1, [37 Stat. 407][/us/stat/37/407]; [Mar. 1, 1919, ch. 86][/us/act/1919-03-01/ch86], [40 Stat. 1256][/us/stat/40/1256], required preparation of an annual statement of merchandise. See section 301 et seq. of Title 13, Census.
 
  __Effective Date of Repeal__ 
 
@@ -32,9 +32,9 @@
 ----------
 ----------
 
-[/us/pl/87/826/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F826%2Fs3
+[/us/pl/87/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F826
 [/us/stat/76/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F953
-[/us/act/1912-08-23/ch350/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-23%2Fch350%2Fs1
+[/us/act/1912-08-23/ch350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-23%2Fch350
 [/us/stat/37/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F407
 [/us/act/1919-03-01/ch86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1919-03-01%2Fch86
 [/us/stat/40/1256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1256

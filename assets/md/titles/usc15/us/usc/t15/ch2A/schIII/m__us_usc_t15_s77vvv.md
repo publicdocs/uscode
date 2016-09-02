@@ -23,7 +23,7 @@
 
         Jurisdiction of offenses and violations under, and jurisdiction and venue of suits and actions brought to enforce any liability or duty created by, this subchapter, or any rules or regulations or orders prescribed under the authority thereof, shall be as provided in section 22(a) of the Securities Act of 1933 \[[15 U.S.C. 77v(a)][/us/usc/t15/s77v/a]\].
 
-([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 322, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1175][/us/stat/53/1175]; amended [Pub. L. 101–550, title IV, § 418][/us/pl/101/550/s418], Nov. 15, 1990, [104 Stat. 2732][/us/stat/104/2732].)
+([May 27, 1933, ch. 38][/us/act/1933-05-27/ch38], title III, § 322, as added [Aug. 3, 1939, ch. 411][/us/act/1939-08-03/ch411], [53 Stat. 1175][/us/stat/53/1175]; amended [Pub. L. 101–550, title IV][/us/pl/101/550/tIV], § 418, Nov. 15, 1990, [104 Stat. 2732][/us/stat/104/2732].)
 
  __References in Text__ 
 
@@ -49,7 +49,7 @@
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/act/1939-08-03/ch411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-03%2Fch411
 [/us/stat/53/1175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1175
-[/us/pl/101/550/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2Fs418
+[/us/pl/101/550/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F550%2FtIV
 [/us/stat/104/2732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2732
 [/us/act/1933-05-27/ch38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-05-27%2Fch38
 [/us/stat/48/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F74

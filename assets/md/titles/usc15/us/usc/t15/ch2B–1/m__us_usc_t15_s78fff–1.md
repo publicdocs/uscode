@@ -49,7 +49,7 @@
 
         (4) as soon as practicable, prepare and submit, to SIPC and such other persons as the court designates and in such form and manner as the court directs, a statement of his investigation of matters referred to in paragraph (1).
 
-([Pub. L. 91–598, § 7][/us/pl/91/598/s7], as added [Pub. L. 95–283, § 9][/us/pl/95/283/s9], May 21, 1978, [92 Stat. 260][/us/stat/92/260]; amended [Pub. L. 95–598, title III, § 308(i)][/us/pl/95/598/s308/i]–(k), Nov. 6, 1978, [92 Stat. 2675][/us/stat/92/2675].)
+([Pub. L. 91–598][/us/pl/91/598], § 7, as added [Pub. L. 95–283][/us/pl/95/283], § 9, May 21, 1978, [92 Stat. 260][/us/stat/92/260]; amended [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 308(i)–(k), Nov. 6, 1978, [92 Stat. 2675][/us/stat/92/2675].)
 
  __Prior Provisions__ 
 
@@ -57,11 +57,11 @@
 
  __Amendments__ 
 
-    1978—Subsec. (a). [Pub. L. 95–598, § 308(i)][/us/pl/95/598/s308/i], substituted “trustee in a case under title 11” for “trustee in bankruptcy under the Bankruptcy Act has with respect to a bankrupt and the property of a bankrupt”.
+    1978—Subsec. (a). [Pub. L. 95–598][/us/pl/95/598], § 308(i), substituted “trustee in a case under title 11” for “trustee in bankruptcy under the Bankruptcy Act has with respect to a bankrupt and the property of a bankrupt”.
 
-    Subsec. (b). [Pub. L. 95–598, § 308(j)][/us/pl/95/598/s308/j], substituted “trustee in a case under chapter 7 of title 11, including, if the debtor is a commodity broker, as defined under section 101 of such title, the duties specified in subchapter IV of such chapter 7,” for “trustee in bankruptcy”.
+    Subsec. (b). [Pub. L. 95–598][/us/pl/95/598], § 308(j), substituted “trustee in a case under chapter 7 of title 11, including, if the debtor is a commodity broker, as defined under section 101 of such title, the duties specified in subchapter IV of such chapter 7,” for “trustee in bankruptcy”.
 
-    Subsec. (c). [Pub. L. 95–598, § 308(k)][/us/pl/95/598/s308/k], substituted “required of a trustee in a case under chapter 7 of title 11” for “required by the Bankruptcy Act”.
+    Subsec. (c). [Pub. L. 95–598][/us/pl/95/598], § 308(k), substituted “required of a trustee in a case under chapter 7 of title 11” for “required by the Bankruptcy Act”.
 
  __Effective Date of 1978 Amendment__ 
 
@@ -76,16 +76,16 @@
 
 [/us/usc/t15/s78fff–2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78fff%E2%80%932%2Ff
 [/us/usc/t15/s78q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78q
-[/us/pl/91/598/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598%2Fs7
-[/us/pl/95/283/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283%2Fs9
+[/us/pl/91/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598
+[/us/pl/95/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F283
 [/us/stat/92/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F260
-[/us/pl/95/598/s308/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308%2Fi
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2675
 [/us/pl/91/598/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F598%2Fs7
 [/us/usc/t15/s78ggg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78ggg
-[/us/pl/95/598/s308/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308%2Fi
-[/us/pl/95/598/s308/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308%2Fj
-[/us/pl/95/598/s308/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs308%2Fk
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
+[/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/95/598/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402%2Fa
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

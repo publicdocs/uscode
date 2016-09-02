@@ -29,7 +29,7 @@
 
             No provision of this section shall be construed as preventing or prohibiting a State that is not the State of domicile of a reinsurer from receiving a copy of any financial statement filed with its domiciliary State.
 
-([Pub. L. 111–203, title V, § 532][/us/pl/111/203/s532], July 21, 2010, [124 Stat. 1595][/us/stat/124/1595].)
+([Pub. L. 111–203, title V][/us/pl/111/203/tV], § 532, July 21, 2010, [124 Stat. 1595][/us/stat/124/1595].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/111/203/s532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs532
+[/us/pl/111/203/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtV
 [/us/stat/124/1595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1595
 
 

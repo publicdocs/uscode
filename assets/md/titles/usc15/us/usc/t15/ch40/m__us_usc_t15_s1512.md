@@ -17,7 +17,7 @@
 
     It shall be the province and duty of said Department to foster, promote, and develop the foreign and domestic commerce, the mining, manufacturing, and fishery industries of the United States; and to this end it shall be vested with jurisdiction and control of the departments, bureaus, offices, and branches of the public service hereinafter specified, and with such other powers and duties as may be prescribed by law.
 
-([Feb. 14, 1903, ch. 552, § 3][/us/act/1903-02-14/ch552/s3], [32 Stat. 826][/us/stat/32/826]; [Pub. L. 97–31, § 12(7)][/us/pl/97/31/s12/7], Aug. 6, 1981, [95 Stat. 154][/us/stat/95/154].)
+([Feb. 14, 1903, ch. 552][/us/act/1903-02-14/ch552], § 3, [32 Stat. 826][/us/stat/32/826]; [Pub. L. 97–31][/us/pl/97/31], § 12(7), Aug. 6, 1981, [95 Stat. 154][/us/stat/95/154].)
 
  __Codification__ 
 
@@ -94,9 +94,9 @@
 ----------
 ----------
 
-[/us/act/1903-02-14/ch552/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552%2Fs3
+[/us/act/1903-02-14/ch552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552
 [/us/stat/32/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F826
-[/us/pl/97/31/s12/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31%2Fs12%2F7
+[/us/pl/97/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F31
 [/us/stat/95/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F154
 [/us/usc/t5/s596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs596
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554

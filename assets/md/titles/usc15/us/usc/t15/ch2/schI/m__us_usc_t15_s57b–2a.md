@@ -87,7 +87,7 @@
 
             (C) the dissipation, fraudulent transfer, or concealment of assets subject to recovery by the Commission.
 
-([Sept. 26, 1914, ch. 311, § 21A][/us/act/1914-09-26/ch311/s21A], as added [Pub. L. 109–455, § 7(a)][/us/pl/109/455/s7/a], Dec. 22, 2006, [120 Stat. 3377][/us/stat/120/3377].)
+([Sept. 26, 1914, ch. 311][/us/act/1914-09-26/ch311], § 21A, as added [Pub. L. 109–455][/us/pl/109/455], § 7(a), Dec. 22, 2006, [120 Stat. 3377][/us/stat/120/3377].)
 
  __Repeal of Section__ 
 
@@ -95,7 +95,7 @@
 
  __References in Text__ 
 
-    The Right to Financial Privacy Act, referred to in subsecs. (a) to (e), probably means the Right to Financial Privacy Act of 1978, [Pub. L. 95–630, title XI][/us/pl/95/630], Nov. 10, 1978, [92 Stat. 3697][/us/stat/92/3697], as amended, which is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of Title 12][/us/usc/t12/s3401] and Tables.
+    The Right to Financial Privacy Act, referred to in subsecs. (a) to (e), probably means the Right to Financial Privacy Act of 1978, [Pub. L. 95–630, title XI][/us/pl/95/630/tXI], Nov. 10, 1978, [92 Stat. 3697][/us/stat/92/3697], as amended, which is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of Title 12][/us/usc/t12/s3401] and Tables.
 
  __Effective Date of Repeal__ 
 
@@ -117,11 +117,11 @@
 [/us/usc/t12/s3404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3404
 [/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
 [/us/usc/t15/s6211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs6211
-[/us/act/1914-09-26/ch311/s21A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311%2Fs21A
-[/us/pl/109/455/s7/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs7%2Fa
+[/us/act/1914-09-26/ch311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-09-26%2Fch311
+[/us/pl/109/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455
 [/us/stat/120/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3377
 [/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13
-[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
+[/us/pl/95/630/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2FtXI
 [/us/stat/92/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3697
 [/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
 [/us/pl/109/455/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F455%2Fs13

@@ -59,7 +59,7 @@
 
         Not later than October 1, 1990, the Administrator shall submit a report to the Congress describing the results of the studies conducted pursuant to subsection (a).
 
-([Pub. L. 94–469, title III, § 309][/us/pl/94/469/s309], as added [Pub. L. 100–551, § 1(a)][/us/pl/100/551/s1/a], Oct. 28, 1988, [102 Stat. 2763][/us/stat/102/2763].)
+([Pub. L. 94–469, title III][/us/pl/94/469/tIII], § 309, as added [Pub. L. 100–551][/us/pl/100/551], § 1(a), Oct. 28, 1988, [102 Stat. 2763][/us/stat/102/2763].)
 
 ----------
 
@@ -68,8 +68,8 @@
 ----------
 ----------
 
-[/us/pl/94/469/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2Fs309
-[/us/pl/100/551/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F551%2Fs1%2Fa
+[/us/pl/94/469/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469%2FtIII
+[/us/pl/100/551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F551
 [/us/stat/102/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2763
 
 

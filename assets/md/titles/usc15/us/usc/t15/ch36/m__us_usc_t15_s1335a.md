@@ -45,7 +45,7 @@
 
                 Such procedures shall require that any person permitted access to the information shall be instructed in writing not to disclose the information to anyone who is not entitled to have access to the information.
 
-([Pub. L. 89–92, § 7][/us/pl/89/92/s7], as added [Pub. L. 98–474, § 5(a)][/us/pl/98/474/s5/a], Oct. 12, 1984, [98 Stat. 2203][/us/stat/98/2203].)
+([Pub. L. 89–92][/us/pl/89/92], § 7, as added [Pub. L. 98–474][/us/pl/98/474], § 5(a), Oct. 12, 1984, [98 Stat. 2203][/us/stat/98/2203].)
 
  __Prior Provisions__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date of 1984 Amendment__ 
 
-[Pub. L. 98–474, § 5(b)][/us/pl/98/474/s5/b], Oct. 12, 1984, [98 Stat. 2204][/us/stat/98/2204], provided that: 
+[Pub. L. 98–474][/us/pl/98/474], § 5(b), Oct. 12, 1984, [98 Stat. 2204][/us/stat/98/2204], provided that: 
 
 > “Section 7 of the Federal Cigarette Labeling and Advertising Act \[this section\] added by subsection (a) shall take effect upon the expiration of the one-year period beginning on the date of the enactment of this Act \[Oct. 12, 1984\].”
 
@@ -66,12 +66,12 @@
 
 [/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
-[/us/pl/89/92/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F92%2Fs7
-[/us/pl/98/474/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F474%2Fs5%2Fa
+[/us/pl/89/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F92
+[/us/pl/98/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F474
 [/us/stat/98/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2203
 [/us/pl/89/92/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F92%2Fs7
 [/us/usc/t15/s1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1336
-[/us/pl/98/474/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F474%2Fs5%2Fb
+[/us/pl/98/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F474
 [/us/stat/98/2204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2204
 
 

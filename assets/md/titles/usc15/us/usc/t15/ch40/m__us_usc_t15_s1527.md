@@ -17,7 +17,7 @@
 
     Except as to those laws expressly repealed herein, nothing in this Act shall alter, amend, modify, or repeal any existing law prescribing fees or charges or authorizing the prescribing of fees or charges for services performed or for any publication furnished by the Department of Commerce, or any of its several bureaus or offices.
 
-([Pub. L. 91–412, § 4][/us/pl/91/412/s4], Sept. 25, 1970, [84 Stat. 865][/us/stat/84/865].)
+([Pub. L. 91–412][/us/pl/91/412], § 4, Sept. 25, 1970, [84 Stat. 865][/us/stat/84/865].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/91/412/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F412%2Fs4
+[/us/pl/91/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F412
 [/us/stat/84/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F865
 [/us/pl/91/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F412
 

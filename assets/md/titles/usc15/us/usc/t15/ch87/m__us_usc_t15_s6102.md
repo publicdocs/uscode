@@ -89,7 +89,7 @@
 
         (2) __Omitted__ 
 
-([Pub. L. 103–297, § 3][/us/pl/103/297/s3], Aug. 16, 1994, [108 Stat. 1545][/us/stat/108/1545]; [Pub. L. 107–56, title X, § 1011(b)(1)][/us/pl/107/56/s1011/b/1], (2), Oct. 26, 2001, [115 Stat. 396][/us/stat/115/396]; [Pub. L. 111–203, title X, § 1100C(a)][/us/pl/111/203/s1100C/a], July 21, 2010, [124 Stat. 2110][/us/stat/124/2110].)
+([Pub. L. 103–297][/us/pl/103/297], § 3, Aug. 16, 1994, [108 Stat. 1545][/us/stat/108/1545]; [Pub. L. 107–56, title X][/us/pl/107/56/tX], § 1011(b)(1), (2), Oct. 26, 2001, [115 Stat. 396][/us/stat/115/396]; [Pub. L. 111–203, title X][/us/pl/111/203/tX], § 1100C(a), July 21, 2010, [124 Stat. 2110][/us/stat/124/2110].)
 
  __References in Text__ 
 
@@ -107,9 +107,9 @@
 
     “(c) Enforcement.—Any violation of any rule prescribed under subsection (a) of this section shall be treated as a violation of a rule under [section 57a of this title][/us/usc/t15/s57a] regarding unfair or deceptive acts or practices.”
 
-    2001—Subsec. (a)(2). [Pub. L. 107–56, § 1011(b)(1)][/us/pl/107/56/s1011/b/1], inserted “which shall include fraudulent charitable solicitations, and” before “which may include”.
+    2001—Subsec. (a)(2). [Pub. L. 107–56][/us/pl/107/56], § 1011(b)(1), inserted “which shall include fraudulent charitable solicitations, and” before “which may include”.
 
-    Subsec. (a)(3)(D). [Pub. L. 107–56, § 1011(b)(2)][/us/pl/107/56/s1011/b/2], added subpar. (D).
+    Subsec. (a)(3)(D). [Pub. L. 107–56][/us/pl/107/56], § 1011(b)(2), added subpar. (D).
 
  __Effective Date of 2010 Amendment__ 
 
@@ -129,11 +129,11 @@
 [/us/usc/t15/s80b–2/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%932%2Fa%2F11
 [/us/usc/t15/s80a–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%933%2Fa
 [/us/usc/t7/s9b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9b%2F1
-[/us/pl/103/297/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297%2Fs3
+[/us/pl/103/297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F297
 [/us/stat/108/1545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1545
-[/us/pl/107/56/s1011/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs1011%2Fb%2F1
+[/us/pl/107/56/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2FtX
 [/us/stat/115/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F396
-[/us/pl/111/203/s1100C/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100C%2Fa
+[/us/pl/111/203/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2FtX
 [/us/stat/124/2110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2110
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/stat/124/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1955
@@ -144,8 +144,8 @@
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t15/s57a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs57a
-[/us/pl/107/56/s1011/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs1011%2Fb%2F1
-[/us/pl/107/56/s1011/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs1011%2Fb%2F2
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
+[/us/pl/107/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1100H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1100H
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a

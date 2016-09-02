@@ -17,7 +17,7 @@
 
     There shall also be such clerical assistants as may from time to time be authorized by the Congress.
 
-([Feb. 14, 1903, ch. 552, § 2][/us/act/1903-02-14/ch552/s2], [32 Stat. 826][/us/stat/32/826]; [July 16, 1952, ch. 878, § 2][/us/act/1952-07-16/ch878/s2], [66 Stat. 710][/us/stat/66/710].)
+([Feb. 14, 1903, ch. 552][/us/act/1903-02-14/ch552], § 2, [32 Stat. 826][/us/stat/32/826]; [July 16, 1952, ch. 878][/us/act/1952-07-16/ch878], § 2, [66 Stat. 710][/us/stat/66/710].)
 
  __Codification__ 
 
@@ -29,7 +29,7 @@
 
  __Disbursement Clerk__ 
 
-    Section, [act Feb. 14, 1903, ch. 552, § 2][/us/act/1903-02-14/ch552/s2], [32 Stat. 826][/us/stat/32/826], provided for a disbursing clerk in the Department of Commerce.
+    Section, [act Feb. 14, 1903, ch. 552][/us/act/1903-02-14/ch552], § 2, [32 Stat. 826][/us/stat/32/826], provided for a disbursing clerk in the Department of Commerce.
 
  __Transfer of Disbursement Agencies__ 
 
@@ -42,14 +42,14 @@
 ----------
 ----------
 
-[/us/act/1903-02-14/ch552/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552%2Fs2
+[/us/act/1903-02-14/ch552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552
 [/us/stat/32/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F826
-[/us/act/1952-07-16/ch878/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch878%2Fs2
+[/us/act/1952-07-16/ch878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-16%2Fch878
 [/us/stat/66/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F710
 [/us/usc/t5/s594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs594
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
-[/us/act/1903-02-14/ch552/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552%2Fs2
+[/us/act/1903-02-14/ch552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552
 [/us/stat/32/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F826
 [/us/stat/54/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1231
 [/us/usc/t31/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs306

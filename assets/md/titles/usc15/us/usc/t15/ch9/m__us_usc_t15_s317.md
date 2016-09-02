@@ -17,7 +17,7 @@
 
     The appropriations for the support of the National Weather Service shall be made with those of the other bureaus of the Department of Commerce, and it shall be the duty of the Secretary of Commerce to prepare future estimates for the National Weather Service which shall be specially developed and extended in the interests of agriculture.
 
-([Oct. 1, 1890, ch. 1266, § 9][/us/act/1890-10-01/ch1266/s9], [26 Stat. 653][/us/stat/26/653]; 1940 Reorg. Plan No. IV, § 8, eff. June 30, 1940, 5 F.R. 2421, [54 Stat. 1236][/us/stat/54/1236]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
+([Oct. 1, 1890, ch. 1266][/us/act/1890-10-01/ch1266], § 9, [26 Stat. 653][/us/stat/26/653]; 1940 Reorg. Plan No. IV, § 8, eff. June 30, 1940, 5 F.R. 2421, [54 Stat. 1236][/us/stat/54/1236]; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, [79 Stat. 1318][/us/stat/79/1318]; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090][/us/stat/84/2090].)
 
  __Codification__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/act/1890-10-01/ch1266/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-10-01%2Fch1266%2Fs9
+[/us/act/1890-10-01/ch1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1890-10-01%2Fch1266
 [/us/stat/26/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F653
 [/us/stat/54/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1236
 [/us/stat/79/1318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1318

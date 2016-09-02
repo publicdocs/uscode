@@ -61,7 +61,7 @@
 
         (4) such recommendations as the Secretary may consider appropriate.
 
-([Pub. L. 98–474, § 3][/us/pl/98/474/s3], Oct. 12, 1984, [98 Stat. 2200][/us/stat/98/2200]; [Pub. L. 99–92, § 13][/us/pl/99/92/s13], Aug. 16, 1985, [99 Stat. 404][/us/stat/99/404]; [Pub. L. 102–531, title III, § 312(a)][/us/pl/102/531/s312/a], Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504]; [Pub. L. 110–154, § 1(c)(1)][/us/pl/110/154/s1/c/1], Dec. 21, 2007, [121 Stat. 1827][/us/stat/121/1827].)
+([Pub. L. 98–474][/us/pl/98/474], § 3, Oct. 12, 1984, [98 Stat. 2200][/us/stat/98/2200]; [Pub. L. 99–92][/us/pl/99/92], § 13, Aug. 16, 1985, [99 Stat. 404][/us/stat/99/404]; [Pub. L. 102–531, title III][/us/pl/102/531/tIII], § 312(a), Oct. 27, 1992, [106 Stat. 3504][/us/stat/106/3504]; [Pub. L. 110–154][/us/pl/110/154], § 1(c)(1), Dec. 21, 2007, [121 Stat. 1827][/us/stat/121/1827].)
 
  __Codification__ 
 
@@ -82,13 +82,13 @@
 ----------
 ----------
 
-[/us/pl/98/474/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F474%2Fs3
+[/us/pl/98/474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F474
 [/us/stat/98/2200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2200
-[/us/pl/99/92/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92%2Fs13
+[/us/pl/99/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F92
 [/us/stat/99/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F404
-[/us/pl/102/531/s312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2Fs312%2Fa
+[/us/pl/102/531/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531%2FtIII
 [/us/stat/106/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3504
-[/us/pl/110/154/s1/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154%2Fs1%2Fc%2F1
+[/us/pl/110/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154
 [/us/stat/121/1827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1827
 [/us/pl/110/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F154
 [/us/pl/102/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F531
