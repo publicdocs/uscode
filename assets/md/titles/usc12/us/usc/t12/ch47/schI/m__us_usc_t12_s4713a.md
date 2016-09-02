@@ -293,6 +293,12 @@
 
     The Community Reinvestment Act of 1977, referred to in subsec. (i), is title VIII of [Pub. L. 95–128][/us/pl/95/128], Oct. 12, 1977, [91 Stat. 1147][/us/stat/91/1147], which is classified generally to chapter 30 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2901 of this title][/us/usc/t12/s2901] and Tables.
 
+ __Termination Date__ 
+
+[Pub. L. 113–235, div. E, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2336][/us/stat/128/2336], provided in part: 
+
+> “That such section 114A \[this section\] shall remain in effect until September 30, 2015.”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t12/ch47/schI/m__us_usc_t12_s4713.md) | [Next](./../../../../..//us/usc/t12/ch47/schI/m__us_usc_t12_s4714.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs4713a)
@@ -308,5 +314,7 @@
 [/us/pl/95/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F128
 [/us/stat/91/1147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1147
 [/us/usc/t12/s2901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2901
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2336
 
 

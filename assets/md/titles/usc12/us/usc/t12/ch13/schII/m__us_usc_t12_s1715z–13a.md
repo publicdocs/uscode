@@ -133,7 +133,7 @@
 
             (B) __Requirements__ 
 
-                Before any payment under a guarantee is made under subparagraph (A), the holder of the guarantee shall exhaust all reasonable possibilities of collection. Upon payment, in whole or in part, to the holder, the note or judgment evidencing the debt shall be assigned to the United States and the holder shall have no further claim against the borrower or the United States. The Secretary shall then take such action to collect as the Secretary determines appropriate.
+                Before any payment under a guarantee is made under subparagraph (A), the holder of the guarantee shall exhaust all reasonable possibilities of collection. Exhausting all reasonable possibilities of collection by the holder of the guarantee shall include a good faith consideration of loan modification as well as meeting standards for servicing loans in default, as determined by the Secretary. Upon payment, in whole or in part, to the holder, the note or judgment evidencing the debt shall be assigned to the United States and the holder shall have no further claim against the borrower or the United States. The Secretary shall then take such action to collect as the Secretary determines appropriate.
 
         (2) __Limitations on liquidation__ 
 
@@ -299,7 +299,7 @@
 
         (9) The term “trust land” means land title to which is held by the United States for the benefit of an Indian or Indian tribe or title to which is held by an Indian tribe subject to a restriction against alienation imposed by the United States.
 
-([Pub. L. 102–550, title I, § 184][/us/pl/102/550/s184], Oct. 28, 1992, [106 Stat. 3739][/us/stat/106/3739]; [Pub. L. 104–330, title VII, § 701(a)][/us/pl/104/330/s701/a]–(j), Oct. 26, 1996, [110 Stat. 4048–4050][/us/stat/110/4048-4050]; [Pub. L. 105–276, title V, § 595(e)(11)][/us/pl/105/276/s595/e/11]–(13), Oct. 21, 1998, [112 Stat. 2658][/us/stat/112/2658]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 227\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–30; [Pub. L. 106–568, title X, § 1002][/us/pl/106/568/s1002], Dec. 27, 2000, [114 Stat. 2925][/us/stat/114/2925]; [Pub. L. 106–569, title V, § 502][/us/pl/106/569/s502], Dec. 27, 2000, [114 Stat. 2961][/us/stat/114/2961]; [Pub. L. 107–292, § 2(d)][/us/pl/107/292/s2/d], Nov. 13, 2002, [116 Stat. 2053][/us/stat/116/2053]; [Pub. L. 110–37, § 2][/us/pl/110/37/s2], June 18, 2007, [121 Stat. 229][/us/stat/121/229]; [Pub. L. 113–6, div. F, title VIII, § 1806][/us/pl/113/6/s1806], Mar. 26, 2013, [127 Stat. 433][/us/stat/127/433].)
+([Pub. L. 102–550, title I, § 184][/us/pl/102/550/s184], Oct. 28, 1992, [106 Stat. 3739][/us/stat/106/3739]; [Pub. L. 104–330, title VII, § 701(a)][/us/pl/104/330/s701/a]–(j), Oct. 26, 1996, [110 Stat. 4048–4050][/us/stat/110/4048-4050]; [Pub. L. 105–276, title V, § 595(e)(11)][/us/pl/105/276/s595/e/11]–(13), Oct. 21, 1998, [112 Stat. 2658][/us/stat/112/2658]; [Pub. L. 106–377, § 1(a)(1)][/us/pl/106/377/s1/a/1] \[title II, § 227\], Oct. 27, 2000, [114 Stat. 1441][/us/stat/114/1441], 1441A–30; [Pub. L. 106–568, title X, § 1002][/us/pl/106/568/s1002], Dec. 27, 2000, [114 Stat. 2925][/us/stat/114/2925]; [Pub. L. 106–569, title V, § 502][/us/pl/106/569/s502], Dec. 27, 2000, [114 Stat. 2961][/us/stat/114/2961]; [Pub. L. 107–292, § 2(d)][/us/pl/107/292/s2/d], Nov. 13, 2002, [116 Stat. 2053][/us/stat/116/2053]; [Pub. L. 110–37, § 2][/us/pl/110/37/s2], June 18, 2007, [121 Stat. 229][/us/stat/121/229]; [Pub. L. 113–6, div. F, title VIII, § 1806][/us/pl/113/6/s1806], Mar. 26, 2013, [127 Stat. 433][/us/stat/127/433]; [Pub. L. 113–235, div. K, title II, § 241][/us/pl/113/235/s241], Dec. 16, 2014, [128 Stat. 2759][/us/stat/128/2759].)
 
  __References in Text__ 
 
@@ -320,6 +320,8 @@
     Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of the National Housing Act which comprises this chapter.
 
  __Amendments__ 
+
+    2014—Subsec. (h)(1)(B). [Pub. L. 113–235][/us/pl/113/235] inserted after first sentence “Exhausting all reasonable possibilities of collection by the holder of the guarantee shall include a good faith consideration of loan modification as well as meeting standards for servicing loans in default, as determined by the Secretary.”
 
     2013—Subsec. (d). [Pub. L. 113–6][/us/pl/113/6] amended subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary shall fix and collect a guarantee fee for the guarantee of loans under this section, which may not exceed the amount equal to 1 percent of the principal obligation of the loan. The fee shall be paid by the lender at time of issuance of the guarantee and shall be adequate, in the determination of the Secretary, to cover expenses and probable losses. The Secretary shall deposit any fees collected under this subsection in the Indian Housing Loan Guarantee Fund established under subsection (i) of this section.”
 
@@ -412,6 +414,8 @@
 [/us/stat/121/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F229
 [/us/pl/113/6/s1806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs1806
 [/us/stat/127/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F433
+[/us/pl/113/235/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs241
+[/us/stat/128/2759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2759
 [/us/act/1934-06-27/ch847]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-27%2Fch847
 [/us/stat/48/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F1246
 [/us/usc/t12/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1701
@@ -430,6 +434,7 @@
 [/us/pl/93/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F638
 [/us/stat/88/2203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2203
 [/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/113/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6
 [/us/pl/110/37]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F37
 [/us/pl/107/292]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F292
