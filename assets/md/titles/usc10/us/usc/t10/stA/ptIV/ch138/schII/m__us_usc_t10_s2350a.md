@@ -51,21 +51,21 @@
 
         (2) A country or organization referred to in subsection (a)(2) may not use any military or economic assistance grant, loan, or other funds provided by the United States for the purpose of making the contribution of that country or organization to a cooperative research and development program entered into with the United States under this section.
 
-    (e)  __Cooperative Opportunities Document__  __.—__ 
+    (e)  __Cooperative Opportunities__  __.—__ 
 
-        (1) In order to ensure that opportunities to conduct cooperative research and development projects are considered at an early point during the formal development review process of the Department of Defense in connection with any planned project of the Department, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall prepare a cooperative opportunities document before the first milestone or decision point with respect to that project for review by the Defense Acquisition Board at formal meetings of the Board.
+        (1) In order to ensure that opportunities to conduct cooperative research and development projects are considered at an early point during the formal development review process of the Department of Defense in connection with any planned project of the Department, opportunities for such cooperative research and development shall be addressed in the acquisition strategy for the project.
 
         (2)
 
-         A cooperative opportunities document referred to in paragraph (1) shall include the following:
+         A cooperative opportunities discussion referred to in paragraph (1) shall consider the following:
 
-            (A) A statement indicating whether or not a project similar to the one under consideration by the Department of Defense is in development or production by any country or organization referred to in subsection (a)(2) or NATO organizations.
+            (A) Whether or not a project similar to the one under consideration by the Department of Defense is in development or production by any country or organization referred to in subsection (a)(2) or NATO organizations.
 
-            (B) If a project similar to the one under consideration by the Department of Defense is in development or production by one or more countries and organizations referred to in subsection (a)(2), an assessment by the Under Secretary of Defense for Acquisition, Technology, and Logistics as to whether that project could satisfy, or could be modified in scope so as to satisfy, the military requirements of the project of the United States under consideration by the Department of Defense.
+            (B) If a project similar to the one under consideration by the Department of Defense is in development or production by one or more countries and organizations referred to in subsection (a)(2), an assessment as to whether that project could satisfy, or could be modified in scope so as to satisfy, the military requirements of the project.
 
             (C) An assessment of the advantages and disadvantages with regard to program timing, developmental and life cycle costs, technology sharing, and Rationalization, Standardization, and Interoperability (RSI) of seeking to structure a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
 
-            (D) The recommendation of the Under Secretary as to whether the Department of Defense should explore the feasibility and desirability of a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
+            (D) A recommendation to the milestone decision authority as to whether the Department of Defense should explore the feasibility and desirability of a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
 
     \[(f) Repealed. [Pub. L. 108–136, div. A, title X, § 1031(a)(17)][/us/pl/108/136/s1031/a/17], Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597].\]
 
@@ -101,7 +101,7 @@
 
         (3) The term “NATO organization” means any North Atlantic Treaty Organization subsidiary body referred to in [section 2350(2) of this title][/us/usc/t10/s2350/2] and any other organization of the North Atlantic Treaty Organization.
 
-(Added [Pub. L. 101–189, div. A, title IX, § 931(a)(2)][/us/pl/101/189/s931/a/2], Nov. 29, 1989, [103 Stat. 1531][/us/stat/103/1531]; amended [Pub. L. 101–510, div. A, title XIII, § 1331(4)][/us/pl/101/510/s1331/4], Nov. 5, 1990, [104 Stat. 1673][/us/stat/104/1673]; [Pub. L. 102–190, div. A, title X, § 1053][/us/pl/102/190/s1053], Dec. 5, 1991, [105 Stat. 1471][/us/stat/105/1471]; [Pub. L. 102–484, div. A, title VIII, § 843(b)(1)][/us/pl/102/484/s843/b/1], Oct. 23, 1992, [106 Stat. 2469][/us/stat/106/2469]; [Pub. L. 103–160, div. A, title IX, § 904(d)(1)][/us/pl/103/160/s904/d/1], Nov. 30, 1993, [107 Stat. 1728][/us/stat/107/1728]; [Pub. L. 103–337, div. A, title XIII, § 1301][/us/pl/103/337/s1301], Oct. 5, 1994, [108 Stat. 2888][/us/stat/108/2888]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(17)][/us/pl/104/106/s1502/a/17], Feb. 10, 1996, [110 Stat. 504][/us/stat/110/504]; [Pub. L. 106–65, div. A, title IX, § 911(a)(1)][/us/pl/106/65/s911/a/1], title X, § 1067(1), Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717], 774; [Pub. L. 107–107, div. A, title X, § 1048(b)(2)][/us/pl/107/107/s1048/b/2], title XII, § 1212(a)–(e)(1), Dec. 28, 2001, [115 Stat. 1225][/us/stat/115/1225], 1248–1250; [Pub. L. 107–314, div. A, title X][/us/pl/107/314], §§ 1041(a)(9), 1062(f)(2), Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645], 2651; [Pub. L. 108–136, div. A, title X, § 1031(a)(17)][/us/pl/108/136/s1031/a/17], Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597]; [Pub. L. 110–181, div. A, title II, § 237][/us/pl/110/181/s237], title XII, § 1251, Jan. 28, 2008, [122 Stat. 48][/us/stat/122/48], 401; [Pub. L. 111–383, div. A, title IX, § 901(j)(4)][/us/pl/111/383/s901/j/4], Jan. 7, 2011, [124 Stat. 4324][/us/stat/124/4324]; [Pub. L. 112–81, div. A, title VIII, § 865][/us/pl/112/81/s865], title X, § 1061(14), Dec. 31, 2011, [125 Stat. 1526][/us/stat/125/1526], 1583.)
+(Added [Pub. L. 101–189, div. A, title IX, § 931(a)(2)][/us/pl/101/189/s931/a/2], Nov. 29, 1989, [103 Stat. 1531][/us/stat/103/1531]; amended [Pub. L. 101–510, div. A, title XIII, § 1331(4)][/us/pl/101/510/s1331/4], Nov. 5, 1990, [104 Stat. 1673][/us/stat/104/1673]; [Pub. L. 102–190, div. A, title X, § 1053][/us/pl/102/190/s1053], Dec. 5, 1991, [105 Stat. 1471][/us/stat/105/1471]; [Pub. L. 102–484, div. A, title VIII, § 843(b)(1)][/us/pl/102/484/s843/b/1], Oct. 23, 1992, [106 Stat. 2469][/us/stat/106/2469]; [Pub. L. 103–160, div. A, title IX, § 904(d)(1)][/us/pl/103/160/s904/d/1], Nov. 30, 1993, [107 Stat. 1728][/us/stat/107/1728]; [Pub. L. 103–337, div. A, title XIII, § 1301][/us/pl/103/337/s1301], Oct. 5, 1994, [108 Stat. 2888][/us/stat/108/2888]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(17)][/us/pl/104/106/s1502/a/17], Feb. 10, 1996, [110 Stat. 504][/us/stat/110/504]; [Pub. L. 106–65, div. A, title IX, § 911(a)(1)][/us/pl/106/65/s911/a/1], title X, § 1067(1), Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717], 774; [Pub. L. 107–107, div. A, title X, § 1048(b)(2)][/us/pl/107/107/s1048/b/2], title XII, § 1212(a)–(e)(1), Dec. 28, 2001, [115 Stat. 1225][/us/stat/115/1225], 1248–1250; [Pub. L. 107–314, div. A, title X][/us/pl/107/314], §§ 1041(a)(9), 1062(f)(2), Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645], 2651; [Pub. L. 108–136, div. A, title X, § 1031(a)(17)][/us/pl/108/136/s1031/a/17], Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597]; [Pub. L. 110–181, div. A, title II, § 237][/us/pl/110/181/s237], title XII, § 1251, Jan. 28, 2008, [122 Stat. 48][/us/stat/122/48], 401; [Pub. L. 111–383, div. A, title IX, § 901(j)(4)][/us/pl/111/383/s901/j/4], Jan. 7, 2011, [124 Stat. 4324][/us/stat/124/4324]; [Pub. L. 112–81, div. A, title VIII, § 865][/us/pl/112/81/s865], title X, § 1061(14), Dec. 31, 2011, [125 Stat. 1526][/us/stat/125/1526], 1583; [Pub. L. 114–92, div. A, title VIII, § 821(b)(1)][/us/pl/114/92/s821/b/1], Nov. 25, 2015, [129 Stat. 900][/us/stat/129/900].)
 
  __Prior Provisions__ 
 
@@ -110,6 +110,18 @@
     Provisions relating to major non-NATO allies were contained in [section 2767a of Title 22][/us/usc/t22/s2767a], Foreign Relations and Intercourse, prior to repeal by [Pub. L. 101–189, § 931(d)(2)][/us/pl/101/189/s931/d/2].
 
  __Amendments__ 
+
+    2015—Subsec. (e). [Pub. L. 114–92, § 821(b)(1)(A)][/us/pl/114/92/s821/b/1/A], struck out “Document” after “Cooperative Opportunities” in heading.
+
+    Subsec. (e)(1). [Pub. L. 114–92, § 821(b)(1)(B)][/us/pl/114/92/s821/b/1/B], substituted “opportunities for such cooperative research and development shall be addressed in the acquisition strategy for the project” for “the Under Secretary of Defense for Acquisition, Technology, and Logistics shall prepare a cooperative opportunities document before the first milestone or decision point with respect to that project for review by the Defense Acquisition Board at formal meetings of the Board”.
+
+    Subsec. (e)(2). [Pub. L. 114–92, § 821(b)(1)(C)(i)][/us/pl/114/92/s821/b/1/C/i], substituted “discussion” for “document” and “consider” for “include” in introductory provisions.
+
+    Subsec. (e)(2)(A). [Pub. L. 114–92, § 821(b)(1)(C)(ii)][/us/pl/114/92/s821/b/1/C/ii], substituted “Whether” for “A statement indicating whether”.
+
+    Subsec. (e)(2)(B). [Pub. L. 114–92, § 821(b)(1)(C)(iii)][/us/pl/114/92/s821/b/1/C/iii], struck out “by the Under Secretary of Defense for Acquisition, Technology, and Logistics” after “an assessment” and “of the United States under consideration by the Department of Defense” after “of the project”.
+
+    Subsec. (e)(2)(D). [Pub. L. 114–92, § 821(b)(1)(C)(iv)][/us/pl/114/92/s821/b/1/C/iv], substituted “A recommendation to the milestone decision authority” for “The recommendation of the Under Secretary”.
 
     2011—Subsec. (b)(2). [Pub. L. 112–81, § 865][/us/pl/112/81/s865], substituted “, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Assistant Secretary of Defense for Research and Engineering” for “and to one other official of the Department of Defense”.
 
@@ -327,12 +339,20 @@
 [/us/stat/124/4324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4324
 [/us/pl/112/81/s865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs865
 [/us/stat/125/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1526
+[/us/pl/114/92/s821/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs821%2Fb%2F1
+[/us/stat/129/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F900
 [/us/pl/99/145/s1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145%2Fs1103
 [/us/stat/99/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F712
 [/us/usc/t10/s2407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2407
 [/us/pl/101/189/s931/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs931%2Fd%2F1
 [/us/usc/t22/s2767a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2767a
 [/us/pl/101/189/s931/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189%2Fs931%2Fd%2F2
+[/us/pl/114/92/s821/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs821%2Fb%2F1%2FA
+[/us/pl/114/92/s821/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs821%2Fb%2F1%2FB
+[/us/pl/114/92/s821/b/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs821%2Fb%2F1%2FC%2Fi
+[/us/pl/114/92/s821/b/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs821%2Fb%2F1%2FC%2Fii
+[/us/pl/114/92/s821/b/1/C/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs821%2Fb%2F1%2FC%2Fiii
+[/us/pl/114/92/s821/b/1/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs821%2Fb%2F1%2FC%2Fiv
 [/us/pl/112/81/s865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs865
 [/us/pl/112/81/s1061/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F14
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

@@ -167,9 +167,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1415" data-uslm-ref="/us/usc/t10/s1415">1415.</a>  </td>
+
+    <td> Lump sum payment of certain retired pay.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92, div. A, title VI, § 633(a)(2)][/us/pl/114/92/s633/a/2], Nov. 25, 2015, [129 Stat. 850][/us/stat/129/850], added item 1415.
 
     2011—[Pub. L. 111–383, div. A, title VI, § 632(b)(2)][/us/pl/111/383/s632/b/2], Jan. 7, 2011, [124 Stat. 4240][/us/stat/124/4240], added item 1412 and struck out former item 1412 “Rounding to next lower dollar”.
 
@@ -208,6 +218,8 @@
 ----------
 ----------
 
+[/us/pl/114/92/s633/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs633%2Fa%2F2
+[/us/stat/129/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F850
 [/us/pl/111/383/s632/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs632%2Fb%2F2
 [/us/stat/124/4240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4240
 [/us/pl/109/364/s641/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs641%2Fb

@@ -45,7 +45,7 @@
 
         (4) exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Army as the Secretary determines;
 
-        (5) perform the duties prescribed for him by [section 171 of this title][/us/usc/t10/s171] and other provisions of law; and
+        (5) perform the duties prescribed for him by sections 171 and 2547 of this title and other provisions of law; and
 
         (6) perform such other military duties, not otherwise assigned by law, as are assigned to him by the President, the Secretary of Defense, or the Secretary of the Army.
 
@@ -57,7 +57,7 @@
 
         (3) Subject to the authority, direction, and control of the Secretary of Defense, the Chief of Staff shall keep the Secretary of the Army fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 162][/us/stat/70A/162], § 3034; [Pub. L. 85–599, § 4(a)][/us/pl/85/599/s4/a], Aug. 6, 1958, [72 Stat. 516][/us/stat/72/516]; [Pub. L. 87–651, title I, § 114][/us/pl/87/651/s114], Sept. 7, 1962, [76 Stat. 513][/us/stat/76/513]; [Pub. L. 90–22, title IV, § 401][/us/pl/90/22/s401], June 5, 1967, [81 Stat. 53][/us/stat/81/53]; [Pub. L. 96–513, title V, § 502(2)][/us/pl/96/513/s502/2], Dec. 12, 1980, [94 Stat. 2909][/us/stat/94/2909]; [Pub. L. 97–22, § 10(b)(4)][/us/pl/97/22/s10/b/4], July 10, 1981, [95 Stat. 137][/us/stat/95/137]; renumbered § 3033 and amended [Pub. L. 99–433, title V, § 502(c)][/us/pl/99/433/s502/c], Oct. 1, 1986, [100 Stat. 1040][/us/stat/100/1040]; [Pub. L. 100–456, div. A, title V, § 519(a)(3)][/us/pl/100/456/s519/a/3], Sept. 29, 1988, [102 Stat. 1972][/us/stat/102/1972].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 162][/us/stat/70A/162], § 3034; [Pub. L. 85–599, § 4(a)][/us/pl/85/599/s4/a], Aug. 6, 1958, [72 Stat. 516][/us/stat/72/516]; [Pub. L. 87–651, title I, § 114][/us/pl/87/651/s114], Sept. 7, 1962, [76 Stat. 513][/us/stat/76/513]; [Pub. L. 90–22, title IV, § 401][/us/pl/90/22/s401], June 5, 1967, [81 Stat. 53][/us/stat/81/53]; [Pub. L. 96–513, title V, § 502(2)][/us/pl/96/513/s502/2], Dec. 12, 1980, [94 Stat. 2909][/us/stat/94/2909]; [Pub. L. 97–22, § 10(b)(4)][/us/pl/97/22/s10/b/4], July 10, 1981, [95 Stat. 137][/us/stat/95/137]; renumbered § 3033 and amended [Pub. L. 99–433, title V, § 502(c)][/us/pl/99/433/s502/c], Oct. 1, 1986, [100 Stat. 1040][/us/stat/100/1040]; [Pub. L. 100–456, div. A, title V, § 519(a)(3)][/us/pl/100/456/s519/a/3], Sept. 29, 1988, [102 Stat. 1972][/us/stat/102/1972]; [Pub. L. 114–92, div. A, title VIII, § 802(d)(4)(A)][/us/pl/114/92/s802/d/4/A], Nov. 25, 2015, [129 Stat. 880][/us/stat/129/880].)
 
 <table>
 
@@ -161,6 +161,8 @@ June 3, 1916, ch. 134, § 5 (last par.), added June 15, 1933, ch. 87, § 2 (
 
  __Amendments__ 
 
+    2015—Subsec. (d)(5). [Pub. L. 114–92][/us/pl/114/92] substituted “sections 171 and 2547” for “section 171”.
+
     1988—Subsec. (a)(2)(B). [Pub. L. 100–456][/us/pl/100/456] substituted “full tour of duty in a joint duty assignment (as defined in [section 664(f) of this title][/us/usc/t10/s664/f])” for “joint duty assignment”.
 
     1986—[Pub. L. 99–433][/us/pl/99/433] renumbered [section 3034 of this title][/us/usc/t10/s3034] as this section, substituted “Chief of Staff” for “Chief of Staff: appointment; duties” in section catchline, and amended text generally. Prior to amendment, text read as follows:
@@ -222,7 +224,6 @@ June 3, 1916, ch. 134, § 5 (last par.), added June 15, 1933, ch. 87, § 2 (
 
 [/us/usc/t10/s664/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs664%2Ff
 [/us/usc/t10/s3013/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs3013%2Ff
-[/us/usc/t10/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs171
 [/us/usc/t10/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs151
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F162
@@ -240,11 +241,14 @@ June 3, 1916, ch. 134, § 5 (last par.), added June 15, 1933, ch. 87, § 2 (
 [/us/stat/100/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1040
 [/us/pl/100/456/s519/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs519%2Fa%2F3
 [/us/stat/102/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1972
+[/us/pl/114/92/s802/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs802%2Fd%2F4%2FA
+[/us/stat/129/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F880
 [/us/usc/t10/s743]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs743
 [/us/stat/63/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F802
 [/us/usc/t37/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs231
 [/us/usc/t10/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs124
 [/us/usc/t10/s10302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10302
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/usc/t10/s664/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs664%2Ff
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433

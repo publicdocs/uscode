@@ -121,6 +121,240 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
     The directory language of, but not the amendment made by, [Pub. L. 89–718, § 8(a)][/us/pl/89/718/s8/a], Nov. 2, 1966, [80 Stat. 1117][/us/stat/80/1117], cited as a credit to this section, was repealed by [Pub. L. 97–295, § 6(b)][/us/pl/97/295/s6/b], Oct. 12, 1982, [96 Stat. 1314][/us/stat/96/1314].
 
+ __Access to Health Care Under the TRICARE Program for Beneficiaries of TRICARE Prime__ 
+
+[Pub. L. 114–92, div. A, title VII, § 704][/us/pl/114/92/s704], Nov. 25, 2015, [129 Stat. 863][/us/stat/129/863], provided that:
+
+>     “(a)  __Access to Health Care__  __.—__ 
+
+>     The Secretary of Defense shall ensure that beneficiaries under TRICARE Prime who are seeking an appointment for health care under TRICARE Prime shall obtain such an appointment within the health care access standards established under subsection (b), including through the use of health care providers in the preferred provider network of TRICARE Prime.
+
+>     “(b) __Standards for Access to Care.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary shall establish health care access standards for the receipt of health care under TRICARE Prime, whether received at military medical treatment facilities or from health care providers in the preferred provider network of TRICARE Prime.
+
+>         “(2)  __Categories of care__  __.—__ 
+
+>         The health care access standards established under paragraph (1) shall include standards with respect to the following categories of health care:
+
+>             “(A) Primary care, including pediatric care, maternity care, gynecological care, and other subcategories of primary care.
+
+>             “(B) Specialty care, including behavioral health care and other subcategories of specialty care.
+
+>         “(3)  __Modifications__  __.—__ 
+
+>         The Secretary may modify the health care access standards established under paragraph (1) whenever the Secretary considers the modification of such standards appropriate.
+
+>         “(4)  __Publication__  __.—__ 
+
+>         The Secretary shall publish the health care access standards established under paragraph (1), and any modifications to such standards, in the Federal Register and on a publicly accessible Internet website of the Department of Defense.
+
+>     “(c)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)  __TRICARE prime__  __.—__ 
+
+>         The term ‘TRICARE Prime’ means the managed care option of the TRICARE program.
+
+>         “(2)  __TRICARE program__  __.—__ 
+
+>         The term ‘TRICARE program’ has the meaning given that term in [section 1072(7) of title 10][/us/usc/t10/s1072/7], United States Code.”
+
+ __Portability of Health Plans Under the TRICARE Program__ 
+
+[Pub. L. 114–92, div. A, title VII, § 714][/us/pl/114/92/s714], Nov. 25, 2015, [129 Stat. 865][/us/stat/129/865], provided that:
+
+>     “(a) __Health Plan Portability.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary of Defense shall ensure that covered beneficiaries under the TRICARE program who are covered under a health plan under such program are able to seamlessly access health care under such health plan in each TRICARE program region.
+
+>         “(2)  __Regulations__  __.—__ 
+
+>         Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary shall prescribe regulations to carry out paragraph (1).
+
+>     “(b)  __Mechanisms To Ensure Portability__  __.—__ 
+
+>     In carrying out subsection (a), the Secretary shall—
+
+>         “(1) establish a process for electronic notification of contractors responsible for administering the TRICARE program in each TRICARE region when any covered beneficiary intends to relocate between such regions;
+
+>         “(2) provide for the automatic electronic transfer between such contractors of information relating to covered beneficiaries who are relocating between such regions, including demographic, enrollment, and claims information; and
+
+>         “(3)
+
+>          ensure each such covered beneficiary is able to obtain a new primary health care provider within ten days of—
+
+>             “(A) arriving at the location to which the covered beneficiary has relocated; and
+
+>             “(B) initiating a request for a new primary health care provider.
+
+>     “(c)  __Publication__  __.—__ 
+
+>     The Secretary shall—
+
+>         “(1) publish information on any modifications made pursuant to subsection (a) with respect to the ability of covered beneficiaries under the TRICARE program who are covered under a health plan under such program to access health care in each TRICARE region on the primary Internet website of the Department that is available to the public; and
+
+>         “(2) ensure that such information is made available on the primary Internet website that is available to the public of each current contractor responsible for administering the TRICARE program.
+
+>     “(d)  __Definitions__  __.—__ 
+
+>     In this section, the terms ‘covered beneficiary’ and ‘TRICARE program’ have the meaning given such terms in [section 1072 of title 10][/us/usc/t10/s1072], United States Code.”
+
+ __Licensure of Mental Health Professionals in TRICARE Program__ 
+
+[Pub. L. 114–92, div. A, title VII, § 716][/us/pl/114/92/s716], Nov. 25, 2015, [129 Stat. 867][/us/stat/129/867], provided that:
+
+>     “(a)  __Qualifications for TRICARE Certified Mental Health Counselors During Transition Period__  __.—__ 
+
+>     During the period preceding January 1, 2021, for purposes of determining whether a mental health care professional is eligible for reimbursement under the TRICARE program as a TRICARE certified mental health counselor, an individual who holds a masters degree or doctoral degree in counseling from a program that is accredited by a covered institution shall be treated as holding such degree from a mental health counseling program or clinical mental health counseling program that is accredited by the Council for Accreditation of Counseling and Related Educational Programs.
+
+>     “(b)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)
+
+>          The term ‘covered institution’ means any of the following:
+
+>             “(A) The Accrediting Commission for Community and Junior Colleges Western Association of Schools and Colleges (ACCJC-WASC).
+
+>             “(B) The Higher Learning Commission (HLC).
+
+>             “(C) The Middle States Commission on Higher Education (MSCHE).
+
+>             “(D) The New England Association of Schools and Colleges Commission on Institutions of Higher Education (NEASC-CIHE).
+
+>             “(E) The Southern Association of Colleges and Schools (SACS) Commission on Colleges.
+
+>             “(F) The WASC Senior College and University Commission (WASC-SCUC).
+
+>             “(G) The Accrediting Bureau of Health Education Schools (ABHES).
+
+>             “(H) The Accrediting Commission of Career Schools and Colleges (ACCSC).
+
+>             “(I) The Accrediting Council for Independent Colleges and Schools (ACICS).
+
+>             “(J) The Distance Education Accreditation Commission (DEAC).
+
+>         “(2) The term ‘TRICARE program’ has the meaning given that term in [section 1072 of title 10][/us/usc/t10/s1072], United States Code.”
+
+ __Designation of Certain Non-Department Mental Health Care Providers With Knowledge Relating to Treatment of Members of the Armed Forces__ 
+
+[Pub. L. 114–92, div. A, title VII, § 717][/us/pl/114/92/s717], Nov. 25, 2015, [129 Stat. 868][/us/stat/129/868], provided that:
+
+>     “(a) __Mental Health Provider Readiness Designation.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than one year after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall develop a system by which any non-Department mental health care provider that meets eligibility criteria established by the Secretary relating to the knowledge described in paragraph (2) receives a mental health provider readiness designation from the Department of Defense.
+
+>         “(2)  __Knowledge described__  __.—__ 
+
+>         The knowledge described in this paragraph is the following:
+
+>             “(A) Knowledge and understanding with respect to the culture of members of the Armed Forces and family members and caregivers of members of the Armed Forces.
+
+>             “(B) Knowledge with respect to evidence-based treatments that have been approved by the Department for the treatment of mental health issues among members of the Armed Forces.
+
+>     “(b) __Availability of Information on Designation.—__ 
+
+>         “(1)  __Registry__  __.—__ 
+
+>         The Secretary of Defense shall establish and update as necessary a publically available registry of all non-Department mental health care providers that are currently designated under subsection (a)(1).
+
+>         “(2)  __Provider list__  __.—__ 
+
+>         The Secretary shall update all lists maintained by the Secretary of non-Department mental health care providers that provide mental health care under the laws administered by the Secretary by indicating the providers that are currently designated under subsection (a)(1).
+
+>     “(c)  __Non-Department Mental Health Care Provider Defined__  __.—__ 
+
+>     In this section, the term ‘non-Department mental health care provider’—
+
+>         “(1)
+
+>          means a health care provider who—
+
+>             “(A) specializes in mental health;
+
+>             “(B) is not a health care provider of the Department of Defense at a facility of the Department; and
+
+>             “(C) provides health care to members of the Armed Forces; and
+
+>         “(2) includes psychiatrists, psychologists, psychiatric nurses, social workers, mental health counselors, marriage and family therapists, and other mental health care providers designated by the Secretary of Defense.”
+
+ __Pilot Program on Urgent Care Under TRICARE Program__ 
+
+[Pub. L. 114–92, div. A, title VII, § 725][/us/pl/114/92/s725], Nov. 25, 2015, [129 Stat. 870][/us/stat/129/870], provided that:
+
+>     “(a) __Pilot Program.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Commencing not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall carry out a pilot program to allow a covered beneficiary under the TRICARE program access to urgent care visits without the need for preauthorization for such visits.
+
+>         “(2)  __Duration__  __.—__ 
+
+>         The Secretary shall carry out the pilot program for a period of three years.
+
+>         “(3)  __Incorporation of nurse advice line__  __.—__ 
+
+>         The Secretary shall incorporate the nurse advise \[sic\] line of the Department into the pilot program to direct covered beneficiaries seeking access to care to the source of the most appropriate level of health care required to treat the medical conditions of the beneficiaries, including urgent care under the pilot program.
+
+>     “(b)  __Publication__  __.—__ 
+
+>     The Secretary shall—
+
+>         “(1)
+
+>          publish information on the pilot program under subsection (a) for the receipt of urgent care under the TRICARE program—
+
+>             “(A) on the primary publically available Internet website of the Department; and
+
+>             “(B) on the primary publically available Internet website of each military medical treatment facility; and
+
+>         “(2) ensure that such information is made available on the primary publically available Internet website of each current managed care contractor that has established a health care provider network under the TRICARE program.
+
+>     “(c) __Reports.—__ 
+
+>         “(1) __First report.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             Not later than one year after the date on which the pilot program under subsection (a) commences, the Secretary shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the pilot program.
+
+>             “(B)  __Elements__  __.—__ 
+
+>             The report under subparagraph (1) shall include the following:
+
+>                 “(i) An analysis of urgent care use by covered beneficiaries in military medical treatment facilities and the TRICARE purchased care provider network.
+
+>                 “(ii) A comparison of urgent care use by covered beneficiaries to the use by covered beneficiaries of emergency departments in military medical treatment facilities and the TRICARE purchased care provider network, including an analysis of whether the pilot program decreases the inappropriate use of medical care in emergency departments.
+
+>                 “(iii) A determination of the extent to which the nurse advice line of the Department affected both urgent care and emergency department use by covered beneficiaries in military medical treatment facilities and the TRICARE purchased care provider network.
+
+>                 “(iv) An analysis of any cost savings to the Department realized through the pilot program.
+
+>                 “(v) A determination of the optimum number of urgent care visits available to covered beneficiaries without preauthorization.
+
+>                 “(vi) An analysis of the satisfaction of covered beneficiaries with the pilot program.
+
+>         “(2)  __Second report__  __.—__ 
+
+>         Not later than two years after the date on which the pilot program commences, the Secretary shall submit to the committees specified in paragraph (1)(A) an update to the report required by such paragraph, including any recommendations of the Secretary with respect to extending or making permanent the pilot program and a description of any related legislative actions that the Secretary considers appropriate.
+
+>         “(3)  __Final report__  __.—__ 
+
+>         Not later than 180 days after the date on which the pilot program is completed, the Secretary shall submit to the committees specified in paragraph (1)(A) a final report on the pilot program that updates the report required by paragraph (2).
+
+>     “(d)  __Definitions__  __.—__ 
+
+>     In this section, the terms ‘covered beneficiary’ and ‘TRICARE program’ have the meaning given such terms in [section 1072 of title 10][/us/usc/t10/s1072], United States Code.”
+
  __Cooperative Health Care Agreements Between Military Installations and Non-Military Health Care Systems__ 
 
 [Pub. L. 111–84, div. A, title VII, § 713][/us/pl/111/84/s713], Oct. 28, 2009, [123 Stat. 2380][/us/stat/123/2380], provided that:
@@ -299,7 +533,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
  __Inspection of Military Medical Treatment Facilities, Military Quarters Housing Medical Hold Personnel, and Military Quarters Housing Medical Holdover Personnel__ 
 
-[Pub. L. 110–28, title III, § 3307][/us/pl/110/28/s3307], May 25, 2007, [121 Stat. 137][/us/stat/121/137], provided that:
+[Pub. L. 110–28, title III, § 3307][/us/pl/110/28/s3307], May 25, 2007, [121 Stat. 137][/us/stat/121/137], as amended by [Pub. L. 114–92, div. A, title X, § 1072(g)][/us/pl/114/92/s1072/g], Nov. 25, 2015, [129 Stat. 995][/us/stat/129/995], provided that:
 
 >     “(a) __Inspection of Military Medical Treatment Facilities, Military Quarters Housing Medical Hold Personnel, and Military Quarters Housing Medical Holdover Personnel.—__ 
 
@@ -339,11 +573,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         An inspection of a facility or quarters under this subsection is in addition to any inspection of such facility or quarters under subsection (a).
 
->     “(d)  __Reports on Inspections__  __.—__ 
-
->     A complete copy of the report on each inspection conducted under subsections (a) and (c) shall be submitted in unclassified form to the applicable military medical command and to the congressional defense committees.
-
->     “(e)  __Report on Standards__  __.—__ 
+>     “(d)  __Report on Standards__  __.—__ 
 
 >     In the event no standards for the maintenance and operation of military medical treatment facilities, military quarters housing medical hold personnel, or military quarters housing medical holdover personnel exist as of the date of the enactment of this Act, or such standards as do exist do not meet acceptable standards for the maintenance and operation of such facilities or quarters, as the case may be, the Secretary shall, not later than 30 days after that date, submit to the congressional defense committees a report setting forth the plan of the Secretary to ensure—
 
@@ -353,7 +583,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >             “(A) acceptable standards for the maintenance and operation of such facilities or quarters, as the case may be; and
 
->             “(B) where appropriate, standards under the Americans with Disabilities Act of 1990; and
+>             “(B) where appropriate, standards under the Americans with Disabilities Act of 1990 \[[42 U.S.C. 12101][/us/usc/t42/s12101] et seq.\]; and
 
 >         “(2) the comprehensive implementation of the standards adopted under paragraph (1) at the earliest date practicable.”
 
@@ -1123,15 +1353,35 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
  __Evaluation and Report on TRICARE Program Effectiveness__ 
 
-[Pub. L. 104–106, div. A, title VII, § 717][/us/pl/104/106/s717], Feb. 10, 1996, [110 Stat. 376][/us/stat/110/376], as amended by [Pub. L. 112–239, div. A, title VII, § 714][/us/pl/112/239/s714], Jan. 2, 2013, [126 Stat. 1803][/us/stat/126/1803], provided that:
+[Pub. L. 104–106, div. A, title VII, § 717][/us/pl/104/106/s717], Feb. 10, 1996, [110 Stat. 376][/us/stat/110/376], as amended by [Pub. L. 112–239, div. A, title VII, § 714][/us/pl/112/239/s714], Jan. 2, 2013, [126 Stat. 1803][/us/stat/126/1803]; [Pub. L. 114–92, div. A, title VII, § 713][/us/pl/114/92/s713], Nov. 25, 2015, [129 Stat. 865][/us/stat/129/865], provided that:
 
 >     “(a)  __Evaluation Required__  __.—__ 
 
->     The Secretary of Defense shall arrange for an on-going evaluation of the effectiveness of the TRICARE program in meeting the goals of increasing the access of covered beneficiaries under chapter 55 of title 10, United States Code, to health care and improving the quality of health care provided to covered beneficiaries, without increasing the costs incurred by the Government or covered beneficiaries. The evaluation shall specifically address—
+>     The Secretary of Defense shall arrange for an on-going evaluation of the effectiveness of the TRICARE program in meeting the goals of increasing the access of covered beneficiaries under chapter 55 of title 10, United States Code, to health care and improving the quality of health care provided to covered beneficiaries, without increasing the costs incurred by the Government or covered beneficiaries. The evaluation shall specifically—
 
->         “(1) the impact of the TRICARE program on members of the Armed Forces (whether in the regular or reserve components) and their dependents, military retirees and their dependents, and dependents of members on active duty with severe disabilities and chronic health care needs with regard to access, costs, and quality of health care services; and
+>         “(1) address the impact of the TRICARE program on members of the Armed Forces (whether in the regular or reserve components) and their dependents, military retirees and their dependents, and dependents of members on active duty with severe disabilities and chronic health care needs with regard to access, costs, and quality of health care services;
 
->         “(2) identify noncatchment areas in which the health maintenance organization option of the TRICARE program is available or is proposed to become available.
+>         “(2) identify noncatchment areas in which the health maintenance organization option of the TRICARE program is available or is proposed to become available; and
+
+>         “(3)
+
+>          address patient safety, quality of care, and access to care at military medical treatment facilities, including—
+
+>             “(A) an identification of the number of practitioners providing health care in military medical treatment facilities that were reported to the National Practitioner Data Bank during the year preceding the evaluation; and
+
+>             “(B)
+
+>              with respect to each military medical treatment facility, an assessment of—
+
+>                 “(i) the current accreditation status of such facility, including any recommendations for corrective action made by the relevant accrediting body;
+
+>                 “(ii) any policies or procedures implemented during such year by the Secretary of the military department concerned that were designed to improve patient safety, quality of care, and access to care at such facility;
+
+>                 “(iii) data on surgical and maternity care outcomes during such year;
+
+>                 “(iv) data on appointment wait times during such year; and
+
+>                 “(v) data on patient safety, quality of care, and access to care as compared to standards established by the Department of Defense with respect to patient safety, quality of care, and access to care.
 
 >     “(b)  __Entity To Conduct Evaluation__  __.—__ 
 
@@ -1500,6 +1750,20 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 [/us/stat/80/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1117
 [/us/pl/97/295/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs6%2Fb
 [/us/stat/96/1314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1314
+[/us/pl/114/92/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs704
+[/us/stat/129/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F863
+[/us/usc/t10/s1072/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F7
+[/us/pl/114/92/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs714
+[/us/stat/129/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F865
+[/us/usc/t10/s1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072
+[/us/pl/114/92/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs716
+[/us/stat/129/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F867
+[/us/usc/t10/s1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072
+[/us/pl/114/92/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs717
+[/us/stat/129/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F868
+[/us/pl/114/92/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs725
+[/us/stat/129/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F870
+[/us/usc/t10/s1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072
 [/us/pl/111/84/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs713
 [/us/stat/123/2380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2380
 [/us/pl/110/329/s8095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs8095
@@ -1524,6 +1788,9 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 [/us/stat/122/196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F196
 [/us/pl/110/28/s3307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs3307
 [/us/stat/121/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F137
+[/us/pl/114/92/s1072/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1072%2Fg
+[/us/stat/129/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F995
+[/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/pl/109/364/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs732
 [/us/stat/120/2296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2296
@@ -1662,6 +1929,8 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 [/us/stat/110/376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F376
 [/us/pl/112/239/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs714
 [/us/stat/126/1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1803
+[/us/pl/114/92/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs713
+[/us/stat/129/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F865
 [/us/pl/103/160/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs731
 [/us/stat/107/1696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1696
 [/us/pl/103/337/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs715

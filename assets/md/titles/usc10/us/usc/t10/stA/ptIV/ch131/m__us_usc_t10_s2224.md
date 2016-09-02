@@ -83,6 +83,122 @@
 
     Amendment by [Pub. L. 106–398][/us/pl/106/398] effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, § 1065\] of [Pub. L. 106–398][/us/pl/106/398], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], formerly set out as an Effective Date note under former [section 3531 of Title 44][/us/usc/t44/s3531], Public Printing and Documents.
 
+ __Acquisition Authority of the Commander of United States Cyber Command__ 
+
+[Pub. L. 114–92, div. A, title VIII, § 807][/us/pl/114/92/s807], Nov. 25, 2015, [129 Stat. 886][/us/stat/129/886], provided that:
+
+>     “(a) __Authority.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Commander of the United States Cyber Command shall be responsible for, and shall have the authority to conduct, the following acquisition activities:
+
+>             “(A) Development and acquisition of cyber operations-peculiar equipment and capabilities.
+
+>             “(B) Acquisition and sustainment of cyber capability-peculiar equipment, capabilities, and services.
+
+>         “(2)  __Acquisition functions__  __.—__ 
+
+>         Subject to the authority, direction, and control of the Secretary of Defense, the Commander shall have authority to exercise the functions of the head of an agency under chapter 137 of title 10, United States Code.
+
+>     “(b) __Command Acquisition Executive.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The staff of the Commander shall include a command acquisition executive, who shall be responsible for the overall supervision of acquisition matters for the United States Cyber Command. The command acquisition executive shall have the authority—
+
+>             “(A) to negotiate memoranda of agreement with the military departments and Department of Defense components to carry out the acquisition of equipment, capabilities, and services described in subsection (a)(1) on behalf of the Command;
+
+>             “(B) to supervise the acquisition of equipment, capabilities, and services described in subsection (a)(1);
+
+>             “(C) to represent the Command in discussions with the military departments regarding acquisition programs for which the Command is a customer; and
+
+>             “(D) to work with the military departments to ensure that the Command is appropriately represented in any joint working group or integrated product team regarding acquisition programs for which the Command is a customer.
+
+>         “(2)  __Delivery of acquisition solutions__  __.—__ 
+
+>         The command acquisition executive of the United States Cyber Command shall be—
+
+>             “(A) responsible to the Commander for rapidly delivering acquisition solutions to meet validated cyber operations-peculiar requirements;
+
+>             “(B) subordinate to the defense acquisition executive in matters of acquisition;
+
+>             “(C) subject to the same oversight as the service acquisition executives; and
+
+>             “(D) included on the distribution list for acquisition directives and instructions of the Department of Defense.
+
+>     “(c) __Acquisition Personnel.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary of Defense shall provide the United States Cyber Command with the personnel or funding equivalent to ten full-time equivalent personnel to support the Commander in fulfilling the acquisition responsibilities provided for under this section with experience in—
+
+>             “(A) program acquisition;
+
+>             “(B) the Joint Capabilities Integration and Development System Process;
+
+>             “(C) program management;
+
+>             “(D) system engineering; and
+
+>             “(E) costing.
+
+>         “(2)  __Existing personnel__  __.—__ 
+
+>         The personnel provided under this subsection shall be provided from among the existing personnel of the Department of Defense.
+
+>     “(d)  __Budget__  __.—__ 
+
+>     In addition to the activities of a combatant command for which funding may be requested under [section 166 of title 10][/us/usc/t10/s166], United States Code, the budget proposal of the United States Cyber Command shall include requests for funding for—
+
+>         “(1) development and acquisition of cyber operations-peculiar equipment; and
+
+>         “(2) acquisition and sustainment of other capabilities or services that are peculiar to cyber operations activities.
+
+>     “(e)  __Cyber Operations Procurement Fund__  __.—__ 
+
+>     In exercising the authority granted in subsection (a), the Commander may not obligate or expend more than $75,000,000 out of the funds made available in each fiscal year from 2016 through 2021 to support acquisition activities provided for under this section.
+
+>     “(f)  __Rule of Construction Regarding Intelligence and Special Activities__  __.—__ 
+
+>     Nothing in this section shall be construed to constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 ([50 U.S.C. 3091][/us/usc/t50/s3091] et seq.).
+
+>     “(g)  __Implementation Plan Required__  __.—__ 
+
+>     The authority granted in subsection (a) shall become effective 30 days after the date on which the Secretary of Defense provides to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for implementation of those authorities under subsection (a). The plan shall include the following:
+
+>         “(1)
+
+>          A Department of Defense definition of—
+
+>             “(A) cyber operations-peculiar equipment and capabilities; and
+
+>             “(B) cyber capability-peculiar equipment, capabilities, and services.
+
+>         “(2) Summaries of the components to be negotiated in the memorandum of agreements with the military departments and other Department of Defense components to carry out the development, acquisition, and sustainment of equipment, capabilities, and services described in subparagraphs (A) and (B) of subsection (a)(1).
+
+>         “(3) Memorandum of agreement negotiation and approval timelines.
+
+>         “(4) Plan for oversight of the command acquisition executive established in subsection (b).
+
+>         “(5) Assessment of the acquisition workforce needs of the United States Cyber Command to support the authority in subsection (a) until 2021.
+
+>         “(6) Other matters as appropriate.
+
+>     “(h)  __Annual End-of-year Assessment__  __.—__ 
+
+>     Each year, the Cyber Investment Management Board shall review and assess the acquisition activities of the United States Cyber Command, including contracting and acquisition documentation, for the previous fiscal year, and provide any recommendations or feedback to the acquisition executive of Cyber Command.
+
+>     “(i) __Sunset.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The authority under this section shall terminate on September 30, 2021.
+
+>         “(2)  __Limitation on duration of acquisitions__  __.—__ 
+
+>         The authority under this section does not include major defense acquisition programs, major automated information system programs, or acquisitions of foundational infrastructure or software architectures the duration of which is expected to last more than five years.”
+
  __Notification of Foreign Threats to Information Technology Systems Impacting National Security__ 
 
 [Pub. L. 113–291, div. A, title X, § 1078][/us/pl/113/291/s1078], Dec. 19, 2014, [128 Stat. 3520][/us/stat/128/3520], provided that:
@@ -159,7 +275,7 @@
 
  __Joint Federated Centers for Trusted Defense Systems for the Department of Defense__ 
 
-[Pub. L. 113–66, div. A, title IX, § 937][/us/pl/113/66/s937], Dec. 26, 2013, [127 Stat. 834][/us/stat/127/834], provided that:
+[Pub. L. 113–66, div. A, title IX, § 937][/us/pl/113/66/s937], Dec. 26, 2013, [127 Stat. 834][/us/stat/127/834], as amended by [Pub. L. 114–92, div. A, title II, § 231][/us/pl/114/92/s231], Nov. 25, 2015, [129 Stat. 778][/us/stat/129/778], provided that:
 
 >     “(a) __Federation Required.—__ 
 
@@ -189,11 +305,11 @@
 
 >             “(B) the software and hardware assurance expertise and capabilities of the federation, including policies, standards, requirements, best practices, contracting, training, and testing;
 
->             “(C) the requirements for the discharge by the federation, in coordination with the Center for Assured Software of the National Security Agency, of a program of research and development to improve automated software code vulnerability analysis and testing tools;
+>             “(C) the requirements for the discharge by the federation of a program of research and development to improve automated software code vulnerability analysis and testing tools;
 
 >             “(D) the requirements for the federation to procure, manage, and distribute enterprise licenses for automated software vulnerability analysis tools; and
 
->             “(E) the requirements for the discharge by the federation, in coordination with the Defense Microelectronics Activity, of a program of research and development to improve hardware vulnerability, testing, and protection tools.
+>             “(E) the requirements for the discharge by the federation of a program of research and development to improve hardware vulnerability, testing, and protection tools.
 
 >     “(d)  __Report__  __.—__ 
 
@@ -259,87 +375,11 @@
 
  __Reports to Department of Defense on Penetrations of Networks and Information Systems of Certain Contractors__ 
 
-[Pub. L. 112–239, div. A, title IX, § 941][/us/pl/112/239/s941], Jan. 2, 2013, [126 Stat. 1889][/us/stat/126/1889], provided that:
-
->     “(a)  __Procedures for Reporting Penetrations__  __.—__ 
-
->     The Secretary of Defense shall establish procedures that require each cleared defense contractor to report to a component of the Department of Defense designated by the Secretary for purposes of such procedures when a network or information system of such contractor that meets the criteria established pursuant to subsection (b) is successfully penetrated.
-
->     “(b)  __Networks and Information Systems Subject to Reporting__  __.—__ 
-
->         “(1)  __Criteria__  __.—__ 
-
->         The Secretary of Defense shall designate a senior official to, in consultation with the officials specified in paragraph (2), establish criteria for covered networks to be subject to the procedures for reporting system penetrations under subsection (a).
-
->         “(2)  __Officials__  __.—__ 
-
->         The officials specified in this subsection are the following:
-
->             “(A) The Under Secretary of Defense for Policy.
-
->             “(B) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
-
->             “(C) The Under Secretary of Defense for Intelligence.
-
->             “(D) The Chief Information Officer of the Department of Defense.
-
->             “(E) The Commander of the United States Cyber Command.
-
->     “(c)  __Procedure Requirements__  __.—__ 
-
->         “(1)  __Rapid reporting__  __.—__ 
-
->         The procedures established pursuant to subsection (a) shall require each cleared defense contractor to rapidly report to a component of the Department of Defense designated pursuant to subsection (a) of each successful penetration of the network or information systems of such contractor that meet the criteria established pursuant to subsection (b). Each such report shall include the following:
-
->             “(A) A description of the technique or method used in such penetration.
-
->             “(B) A sample of the malicious software, if discovered and isolated by the contractor, involved in such penetration.
-
->             “(C) A summary of information created by or for the Department in connection with any Department program that has been potentially compromised due to such penetration.
-
->         “(2)  __Access to equipment and information by department of defense personnel__  __.—__ 
-
->         The procedures established pursuant to subsection (a) shall—
-
->             “(A) include mechanisms for Department of Defense personnel to, upon request, obtain access to equipment or information of a cleared defense contractor necessary to conduct forensic analysis in addition to any analysis conducted by such contractor;
-
->             “(B) provide that a cleared defense contractor is only required to provide access to equipment or information as described in subparagraph (A) to determine whether information created by or for the Department in connection with any Department program was successfully exfiltrated from a network or information system of such contractor and, if so, what information was exfiltrated; and
-
->             “(C) provide for the reasonable protection of trade secrets, commercial or financial information, and information that can be used to identify a specific person.
-
->         “(3)  __Limitation on dissemination of certain information__  __.—__ 
-
->         The procedures established pursuant to subsection (a) shall prohibit the dissemination outside the Department of Defense of information obtained or derived through such procedures that is not created by or for the Department except with the approval of the contractor providing such information.
-
->     “(d)  __Issuance of Procedures and Establishment of Criteria__  __.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         Not later than 90 days after the date of the enactment of this Act \[Jan. 2, 2013\]—
-
->             “(A) the Secretary of Defense shall establish the procedures required under subsection (a); and
-
->             “(B) the senior official designated under subsection (b)(1) shall establish the criteria required under such subsection.
-
->         “(2)  __Applicability date__  __.—__ 
-
->         The requirements of this section shall apply on the date on which the Secretary of Defense establishes the procedures required under this section.
-
->     “(e)  __Definitions__  __.—__ 
-
->     In this section:
-
->         “(1)  __Cleared defense contractor__  __.—__ 
-
->         The term ‘cleared defense contractor’ means a private entity granted clearance by the Department of Defense to access, receive, or store classified information for the purpose of bidding for a contract or conducting activities in support of any program of the Department of Defense.
-
->         “(2)  __Covered network__  __.—__ 
-
->         The term ‘covered network’ means a network or information system of a cleared defense contractor that contains or processes information created by or for the Department of Defense with respect to which such contractor is required to apply enhanced protection.”
+    [Pub. L. 112–239, div. A, title IX, § 941][/us/pl/112/239/s941], Jan. 2, 2013, [126 Stat. 1889][/us/stat/126/1889], which authorized the Secretary of Defense to establish criteria and reporting procedures applicable to penetration of cleared defense contractors’ networks or information systems, was transferred to chapter 19 of this title and redesignated as section 393 and amended by [Pub. L. 114–92, div. A, title XVI, § 1641(a)][/us/pl/114/92/s1641/a], Nov. 25, 2015, [129 Stat. 1114][/us/stat/129/1114].
 
  __Insider Threat Detection__ 
 
-[Pub. L. 112–81, div. A, title IX, § 922][/us/pl/112/81/s922], Dec. 31, 2011, [125 Stat. 1537][/us/stat/125/1537], provided that:
+[Pub. L. 112–81, div. A, title IX, § 922][/us/pl/112/81/s922], Dec. 31, 2011, [125 Stat. 1537][/us/stat/125/1537], as amended by [Pub. L. 114–92, div. A, title X, § 1073(e)][/us/pl/114/92/s1073/e], Nov. 25, 2015, [129 Stat. 996][/us/stat/129/996], provided that:
 
 >     “(a)  __Program Required__  __.—__ 
 
@@ -423,11 +463,7 @@
 
 >         “(2) Not later than 120 days after the date of the enactment of this Act, a briefing detailing the inventory and status of technology solutions deployment referred to in subsection (b)(1), including an identification of the total number of host platforms planned for such deployment, the current number of host platforms that provide appropriate security, and the funding and timeline for remaining deployment.
 
->         “(3) Not later than 180 days after the date of the enactment of this Act, a briefing detailing the policies and procedures referred to in subsection (b)(2), including an assessment of the effectiveness of such policies and procedures and an assessment of the potential impact of such policies and procedures on information sharing within the Department of Defense and with interagency and international partners.
-
->     “(f)  __Budget Submission__  __.—__ 
-
->     On the date on which the President submits to Congress the budget under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, for each of fiscal years 2014 through 2019, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an identification of the resources requested in such budget to carry out the program established under subsection (a).”
+>         “(3) Not later than 180 days after the date of the enactment of this Act, a briefing detailing the policies and procedures referred to in subsection (b)(2), including an assessment of the effectiveness of such policies and procedures and an assessment of the potential impact of such policies and procedures on information sharing within the Department of Defense and with interagency and international partners.”
 
  __Strategy To Acquire Capabilities To Detect Previously Unknown Cyber Attacks__ 
 
@@ -637,6 +673,10 @@
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/usc/t44/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3531
+[/us/pl/114/92/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs807
+[/us/stat/129/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F886
+[/us/usc/t10/s166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs166
+[/us/usc/t50/s3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3091
 [/us/pl/113/291/s1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1078
 [/us/stat/128/3520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3520
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
@@ -647,6 +687,8 @@
 [/us/stat/127/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F829
 [/us/pl/113/66/s937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs937
 [/us/stat/127/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F834
+[/us/pl/114/92/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs231
+[/us/stat/129/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F778
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/112/239/s933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs933
 [/us/stat/126/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1884
@@ -655,9 +697,12 @@
 [/us/usc/t44/s3552/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552%2Fb%2F6
 [/us/pl/112/239/s941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs941
 [/us/stat/126/1889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1889
+[/us/pl/114/92/s1641/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1641%2Fa
+[/us/stat/129/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1114
 [/us/pl/112/81/s922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs922
 [/us/stat/125/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1537
-[/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
+[/us/pl/114/92/s1073/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1073%2Fe
+[/us/stat/129/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F996
 [/us/pl/112/81/s953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs953
 [/us/stat/125/1550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1550
 [/us/pl/111/383/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs932

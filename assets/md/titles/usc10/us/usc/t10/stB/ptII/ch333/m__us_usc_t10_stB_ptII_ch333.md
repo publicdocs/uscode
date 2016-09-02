@@ -33,15 +33,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3252" data-uslm-ref="/us/usc/t10/s3252">3252.</a>  </td>
-
-    <td> Bonus to encourage Army personnel to refer persons for enlistment in the Army.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3253" data-uslm-ref="/us/usc/t10/s3253">3253</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3256" data-uslm-ref="/us/usc/t10/s3256">3256.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3252" data-uslm-ref="/us/usc/t10/s3252">3252</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs3256" data-uslm-ref="/us/usc/t10/s3256">3256.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -83,6 +75,8 @@
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–92, div. A, title VI, § 618(b)][/us/pl/114/92/s618/b], Nov. 25, 2015, [129 Stat. 841][/us/stat/129/841], struck out item 3252 “Bonus to encourage Army personnel to refer persons for enlistment in the Army”.
+
     2008—[Pub. L. 110–181, div. A, title VI, § 671(a)(2)][/us/pl/110/181/s671/a/2], Jan. 28, 2008, [122 Stat. 182][/us/stat/122/182], added item 3252.
 
     2006—[Pub. L. 109–163, div. A, title V, § 542(b)(2)][/us/pl/109/163/s542/b/2], Jan. 6, 2006, [119 Stat. 3253][/us/stat/119/3253], struck out item 3253 “Army: persons not qualified”.
@@ -106,6 +100,8 @@
 ----------
 ----------
 
+[/us/pl/114/92/s618/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs618%2Fb
+[/us/stat/129/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F841
 [/us/pl/110/181/s671/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs671%2Fa%2F2
 [/us/stat/122/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F182
 [/us/pl/109/163/s542/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs542%2Fb%2F2

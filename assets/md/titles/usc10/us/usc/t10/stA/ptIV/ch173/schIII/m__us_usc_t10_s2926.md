@@ -17,7 +17,7 @@
 
     (a)  __Alternative Fuel Activities__  __.—__ 
 
-    The Assistant Secretary of Defense for Installations, Energy, and Environment, in consultation with the heads of the military departments and the Assistant Secretary of Defense for Research and Engineering, shall—
+    The Assistant Secretary of Defense for Energy, Installations, and Environment, in consultation with the heads of the military departments and the Assistant Secretary of Defense for Research and Engineering, shall—
 
         (1) lead the alternative fuel activities of the Department of Defense and oversee the investments of the Department in such activities;
 
@@ -31,7 +31,7 @@
 
     (b)  __Operational Energy Strategy__  __.—__ 
 
-        (1) The Assistant Secretary of Defense for Installations, Energy, and Environment shall be responsible for the establishment and maintenance of a department-wide transformational strategy for operational energy. The strategy shall establish near-term, mid-term, and long-term goals, performance metrics to measure progress in meeting the goals, and a plan for implementation of the strategy within the military departments, the Office of the Secretary of Defense, and Defense Agencies.
+        (1) The Assistant Secretary of Defense for Energy, Installations, and Environment shall be responsible for the establishment and maintenance of a department-wide transformational strategy for operational energy. The strategy shall establish near-term, mid-term, and long-term goals, performance metrics to measure progress in meeting the goals, and a plan for implementation of the strategy within the military departments, the Office of the Secretary of Defense, and Defense Agencies.
 
         (2) The Secretary of each military department shall designate a senior official within each armed force under the jurisdiction of the Secretary who shall be responsible for operational energy plans and programs for that armed force. The officials so designated shall be responsible for coordinating with the Assistant Secretary and implementing initiatives pursuant to the strategy with regard to that official’s armed force.
 
@@ -43,7 +43,7 @@
 
     (c)  __Budgetary and Financial Matters__  __.—__ 
 
-        (1) The Assistant Secretary of Defense for Installations, Energy, and Environment shall review and make recommendations to the Secretary of Defense regarding all budgetary and financial matters relating to the operational energy strategy.
+        (1) The Assistant Secretary of Defense for Energy, Installations, and Environment shall review and make recommendations to the Secretary of Defense regarding all budgetary and financial matters relating to the operational energy strategy.
 
         (2) The Secretary of Defense shall require that the Secretary of each military department and the head of each Defense Agency with responsibility for executing activities associated with the strategy transmit their proposed budget for those activities for a fiscal year to the Assistant Secretary for review before submission of the proposed budget to the Under Secretary of Defense (Comptroller).
 
@@ -77,17 +77,21 @@
 
     (d)  __Access to Initiative Results and Records__  __.—__ 
 
-        (1) The Secretary of a military department shall submit to the Assistant Secretary of Defense for Installations, Energy, and Environment the results of all studies and initiatives conducted by the military department in connection with the operational energy strategy.
+        (1) The Secretary of a military department shall submit to the Assistant Secretary of Defense for Energy, Installations, and Environment the results of all studies and initiatives conducted by the military department in connection with the operational energy strategy.
 
         (2) The Assistant Secretary shall have access to all records and data in the Department of Defense (including the records and data of each military department) necessary in order to permit the Assistant Secretary to carry out the duties of the Assistant Secretary.
 
-(Added and amended [Pub. L. 113–291, div. A, title IX, § 901(g)(1)][/us/pl/113/291/s901/g/1], Dec. 19, 2014, [128 Stat. 3464][/us/stat/128/3464].)
+(Added and amended [Pub. L. 113–291, div. A, title IX, § 901(g)(1)][/us/pl/113/291/s901/g/1], Dec. 19, 2014, [128 Stat. 3464][/us/stat/128/3464]; [Pub. L. 114–92, div. A, title X, § 1081(a)(12)][/us/pl/114/92/s1081/a/12], (b)(2), Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001].)
 
  __Codification__ 
 
     Subsec. (c)(3) of [section 138c of this title][/us/usc/t10/s138c], which was transferred to subsec. (a) of this section by [Pub. L. 113–291, § 901(g)(1)(B)][/us/pl/113/291/s901/g/1/B], was based on [Pub. L. 112–81, div. A, title III, § 314(a)][/us/pl/112/81/s314/a], Dec. 31, 2011, [125 Stat. 1357][/us/stat/125/1357]. Subsecs. (d) to (f) of [section 138c of this title][/us/usc/t10/s138c], which were transferred to subsecs. (b) to (d), respectively, of this section by [Pub. L. 113–291, § 901(g)(1)(D)][/us/pl/113/291/s901/g/1/D], were based on [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 902(a), Oct. 14, 2008, [122 Stat. 4564][/us/stat/122/4564]; amended [Pub. L. 111–383, div. A, title IX, § 901(b)(7)(B)][/us/pl/111/383/s901/b/7/B]–(D), Jan. 7, 2011, [124 Stat. 4320][/us/stat/124/4320]; [Pub. L. 112–81, div. A, title III, § 311][/us/pl/112/81/s311], Dec. 31, 2011, [125 Stat. 1351][/us/stat/125/1351]; [Pub. L. 113–66, div. A, title III, § 311][/us/pl/113/66/s311], Dec. 26, 2013, [127 Stat. 728][/us/stat/127/728].
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92, § 1081(a)(12)][/us/pl/114/92/s1081/a/12], substituted “for Energy, Installations, and Environment” for “for Installations, Energy, and Environment” in subsecs. (a) to (d).
+
+    Subsec. (b)(4). [Pub. L. 114–92, § 1081(b)(2)][/us/pl/114/92/s1081/b/2], amended directory language of [Pub. L. 113–291, § 901(g)(1)(F)][/us/pl/113/291/s901/g/1/F]. See 2014 Amendment note below.
 
     2014—Subsec. (a). [Pub. L. 113–291, § 901(g)(1)(E)][/us/pl/113/291/s901/g/1/E], inserted “of Defense for Installations, Energy, and Environment” after “The Assistant Secretary” in introductory provisions.
 
@@ -99,7 +103,7 @@
 
     Subsec. (b)(1). [Pub. L. 113–291, § 901(g)(1)(E)][/us/pl/113/291/s901/g/1/E], inserted “of Defense for Installations, Energy, and Environment” after “The Assistant Secretary”.
 
-    Subsec. (b)(4). [Pub. L. 113–291, § 901(g)(1)(F)][/us/pl/113/291/s901/g/1/F], substituted “make recommendations to the Secretary of Defense and Deputy Secretary of Defense and provide guidance to the Secretaries of the military departments” for “provide guidance to, and consult with, the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments,”.
+    Subsec. (b)(4). [Pub. L. 113–291, § 901(g)(1)(F)][/us/pl/113/291/s901/g/1/F], as amended by [Pub. L. 114–92, § 1081(b)(2)][/us/pl/114/92/s1081/b/2], substituted “make recommendations to the Secretary of Defense and Deputy Secretary of Defense and provide guidance to the Secretaries of the military departments” for “provide guidance to, and consult with, the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments,”.
 
     Subsec. (c). [Pub. L. 113–291, § 901(g)(1)(D)][/us/pl/113/291/s901/g/1/D], transferred subsec. (e) of [section 138c of this title][/us/usc/t10/s138c] to subsec. (c) of this section. See Codification note above.
 
@@ -111,6 +115,10 @@
 
     Subsec. (d)(1). [Pub. L. 113–291, § 901(g)(1)(E)][/us/pl/113/291/s901/g/1/E], inserted “of Defense for Installations, Energy, and Environment” after “the Assistant Secretary”.
 
+ __Effective Date of 2015 Amendment__ 
+
+    [Pub. L. 114–92, div. A, title X, § 1081(b)][/us/pl/114/92/s1081/b], Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001], provided in part that the amendment by section 1081(b) is effective as of Dec. 19, 2014, and as if included in [Pub. L. 113–291][/us/pl/113/291] as enacted.
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schIII/m__us_usc_t10_s2925.md) | [Next](./../../../../../../..//us/usc/t10/stB/m__us_usc_t10_stB.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2926)
@@ -121,6 +129,8 @@
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/113/291/s901/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fg%2F1
 [/us/stat/128/3464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3464
+[/us/pl/114/92/s1081/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F12
+[/us/stat/129/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1001
 [/us/usc/t10/s138c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138c
 [/us/pl/113/291/s901/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fg%2F1%2FB
 [/us/pl/112/81/s314/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs314%2Fa
@@ -135,6 +145,9 @@
 [/us/stat/125/1351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1351
 [/us/pl/113/66/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs311
 [/us/stat/127/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F728
+[/us/pl/114/92/s1081/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F12
+[/us/pl/114/92/s1081/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fb%2F2
+[/us/pl/113/291/s901/g/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fg%2F1%2FF
 [/us/pl/113/291/s901/g/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fg%2F1%2FE
 [/us/pl/113/291/s901/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fg%2F1%2FB
 [/us/usc/t10/s138c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138c
@@ -143,6 +156,7 @@
 [/us/usc/t10/s138c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138c
 [/us/pl/113/291/s901/g/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fg%2F1%2FE
 [/us/pl/113/291/s901/g/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fg%2F1%2FF
+[/us/pl/114/92/s1081/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fb%2F2
 [/us/pl/113/291/s901/g/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fg%2F1%2FD
 [/us/usc/t10/s138c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138c
 [/us/pl/113/291/s901/g/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fg%2F1%2FE
@@ -150,5 +164,8 @@
 [/us/pl/113/291/s901/g/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fg%2F1%2FD
 [/us/usc/t10/s138c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs138c
 [/us/pl/113/291/s901/g/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fg%2F1%2FE
+[/us/pl/114/92/s1081/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fb
+[/us/stat/129/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1001
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 
 

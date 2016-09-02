@@ -55,7 +55,11 @@
 
         (2) With regard to all matters other than matters for which he has responsibility by law or by direction of the Secretary of Defense, the Under Secretary takes precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, and the Secretaries of the military departments.
 
-(Added [Pub. L. 99–348, title V, § 501(a)][/us/pl/99/348/s501/a], July 1, 1986, [100 Stat. 707][/us/stat/100/707], § 134a; renumbered § 133 and amended [Pub. L. 99–433, title I][/us/pl/99/433], §§ 101(a)(7), 110(c)(1), (d)(8), Oct. 1, 1986, [100 Stat. 995][/us/stat/100/995], 1002, 1003; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 901\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–130, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 901\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–130; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 901, Nov. 14, 1986, [100 Stat. 3910][/us/stat/100/3910], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–456, div. A, title VIII, § 809(d)][/us/pl/100/456/s809/d], Sept. 29, 1988, [102 Stat. 2013][/us/stat/102/2013]; [Pub. L. 103–160, div. A, title IX, § 904(b)][/us/pl/103/160/s904/b], Nov. 30, 1993, [107 Stat. 1728][/us/stat/107/1728]; [Pub. L. 106–65, div. A, title IX, § 911(a)(2)][/us/pl/106/65/s911/a/2], (d)(2), Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717], 719; [Pub. L. 107–107, div. A, title VIII, § 801(a)][/us/pl/107/107/s801/a], Dec. 28, 2001, [115 Stat. 1174][/us/stat/115/1174]; [Pub. L. 109–364, div. A, title X, § 1071(a)(2)][/us/pl/109/364/s1071/a/2], Oct. 17, 2006, [120 Stat. 2398][/us/stat/120/2398]; [Pub. L. 110–181, div. A, title IX, § 907][/us/pl/110/181/s907], Jan. 28, 2008, [122 Stat. 277][/us/stat/122/277]; [Pub. L. 111–350, § 5(b)(1)][/us/pl/111/350/s5/b/1], Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842]; [Pub. L. 113–291, div. A, title IX, § 901(j)(2)(A)][/us/pl/113/291/s901/j/2/A], Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467].)
+(Added [Pub. L. 99–348, title V, § 501(a)][/us/pl/99/348/s501/a], July 1, 1986, [100 Stat. 707][/us/stat/100/707], § 134a; renumbered § 133 and amended [Pub. L. 99–433, title I][/us/pl/99/433], §§ 101(a)(7), 110(c)(1), (d)(8), Oct. 1, 1986, [100 Stat. 995][/us/stat/100/995], 1002, 1003; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 901\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–130, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 901\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–130; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 901, Nov. 14, 1986, [100 Stat. 3910][/us/stat/100/3910], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–456, div. A, title VIII, § 809(d)][/us/pl/100/456/s809/d], Sept. 29, 1988, [102 Stat. 2013][/us/stat/102/2013]; [Pub. L. 103–160, div. A, title IX, § 904(b)][/us/pl/103/160/s904/b], Nov. 30, 1993, [107 Stat. 1728][/us/stat/107/1728]; [Pub. L. 106–65, div. A, title IX, § 911(a)(2)][/us/pl/106/65/s911/a/2], (d)(2), Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717], 719; [Pub. L. 107–107, div. A, title VIII, § 801(a)][/us/pl/107/107/s801/a], Dec. 28, 2001, [115 Stat. 1174][/us/stat/115/1174]; [Pub. L. 109–364, div. A, title X, § 1071(a)(2)][/us/pl/109/364/s1071/a/2], Oct. 17, 2006, [120 Stat. 2398][/us/stat/120/2398]; [Pub. L. 110–181, div. A, title IX, § 907][/us/pl/110/181/s907], Jan. 28, 2008, [122 Stat. 277][/us/stat/122/277]; [Pub. L. 111–350, § 5(b)(1)][/us/pl/111/350/s5/b/1], Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842]; [Pub. L. 113–291, div. A, title IX, § 901(j)(2)(A)][/us/pl/113/291/s901/j/2/A], Dec. 19, 2014, [128 Stat. 3467][/us/stat/128/3467]; [Pub. L. 114–92, div. A, title VIII, § 825(b)][/us/pl/114/92/s825/b], Nov. 25, 2015, [129 Stat. 908][/us/stat/129/908].)
+
+ __Amendment of Subsection (b)(5)__ 
+
+    [Pub. L. 114–92, div. A, title VIII, § 825(b)][/us/pl/114/92/s825/b], (c)(3), Nov. 25, 2015, [129 Stat. 908][/us/stat/129/908], provided that, effective Oct. 1, 2016, subsection (b)(5) of this section is amended by inserting before the period at the end “, except that the Under Secretary shall exercise advisory authority, subject to the authority, direction, and control of the Secretary of Defense, over service acquisition programs for which the service acquisition executive is the milestone decision authority”. See 2015 Amendment note below.
 
  __Amendment of Subsection (e)(1)__ 
 
@@ -74,6 +78,8 @@
     A prior section 133 was renumbered [section 113 of this title][/us/usc/t10/s113].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(5). [Pub. L. 114–92][/us/pl/114/92] inserted before period at end “, except that the Under Secretary shall exercise advisory authority, subject to the authority, direction, and control of the Secretary of Defense, over service acquisition programs for which the service acquisition executive is the milestone decision authority”.
 
     2014—Subsec. (e)(1). [Pub. L. 113–291][/us/pl/113/291] substituted “, the Deputy Secretary of Defense, and the Under Secretary of Defense for Business Management and Information” for “and the Deputy Secretary of Defense”.
 
@@ -116,6 +122,12 @@
 > “The position of Under Secretary of Defense for Acquisition and Technology in the Department of Defense is hereby redesignated as the Under Secretary of Defense for Acquisition, Technology, and Logistics. Any reference in any law, regulation, document, or other record of the United States to the Under Secretary of Defense for Acquisition and Technology shall be treated as referring to the Under Secretary of Defense for Acquisition, Technology, and Logistics.”
 
     [Pub. L. 103–160, div. A, title IX, § 904(a)][/us/pl/103/160/s904/a], (f), Nov. 30, 1993, [107 Stat. 1728][/us/stat/107/1728], 1729, provided that the office of Under Secretary of Defense for Acquisition in the Department of Defense was redesignated as Under Secretary of Defense for Acquisition and Technology, the office of Deputy Under Secretary of Defense for Acquisition in the Department of Defense was redesignated as Deputy Under Secretary of Defense for Acquisition and Technology, and any reference to the Under Secretary of Defense for Acquisition or the Deputy Under Secretary of Defense for Acquisition in any provision of law other than this title, or in any rule, regulation, or other paper of the United States was to be treated as referring to the Under Secretary of Defense for Acquisition and Technology or the Deputy Under Secretary of Defense for Acquisition and Technology, respectively.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–92, div. A, title VIII, § 825(c)(3)][/us/pl/114/92/s825/c/3], Nov. 25, 2015, [129 Stat. 908][/us/stat/129/908], provided that: 
+
+> “The amendments made by subsections (a) and (b) \[amending this section and [section 2430 of this title][/us/usc/t10/s2430]\] shall take effect on October 1, 2016.”
 
  __Effective Date of 2014 Amendment__ 
 
@@ -237,6 +249,10 @@
 [/us/stat/124/3842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3842
 [/us/pl/113/291/s901/j/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fj%2F2%2FA
 [/us/stat/128/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3467
+[/us/pl/114/92/s825/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs825%2Fb
+[/us/stat/129/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F908
+[/us/pl/114/92/s825/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs825%2Fb
+[/us/stat/129/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F908
 [/us/pl/113/291/s901/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fj%2F2
 [/us/stat/128/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3467
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
@@ -244,6 +260,7 @@
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/usc/t41/s1702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1702%2Fc
@@ -270,6 +287,9 @@
 [/us/stat/113/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F717
 [/us/pl/103/160/s904/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs904%2Fa
 [/us/stat/107/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1728
+[/us/pl/114/92/s825/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs825%2Fc%2F3
+[/us/stat/129/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F908
+[/us/usc/t10/s2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2430
 [/us/pl/113/291/s901/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fj%2F2
 [/us/stat/128/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3467
 [/us/pl/113/291/s901/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fa%2F1

@@ -255,9 +255,27 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1599e" data-uslm-ref="/us/usc/t10/s1599e">1599e.</a>  </td>
+
+    <td> Probationary period for employees.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1599f" data-uslm-ref="/us/usc/t10/s1599f">1599f.</a>  </td>
+
+    <td> United States Cyber Command recruitment and retention.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92, div. A, title XI][/us/pl/114/92], §§ 1105(a)(2), 1107(c), Nov. 25, 2015, [129 Stat. 1024][/us/stat/129/1024], 1027, added items 1599e and 1599f.
 
     2011—[Pub. L. 112–81, div. A, title X, § 1051(b)][/us/pl/112/81/s1051/b], Dec. 31, 2011, [125 Stat. 1582][/us/stat/125/1582], added item 1599d and struck out former item 1599d “Professional accounting positions: authority to prescribe certification and credential standards”.
 
@@ -542,6 +560,8 @@
 ----------
 ----------
 
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1024
 [/us/pl/112/81/s1051/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1051%2Fb
 [/us/stat/125/1582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1582
 [/us/pl/110/181/s1636/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1636%2Fb

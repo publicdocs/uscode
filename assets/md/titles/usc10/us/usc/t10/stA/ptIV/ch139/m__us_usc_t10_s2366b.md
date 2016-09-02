@@ -15,75 +15,75 @@
 
 ## § 2366b. Major defense acquisition programs: certification required before Milestone B approval
 
-    (a)  __Certification__  __.—__ 
+    (a)  __Certifications and Determination Required__  __.—__ 
 
     A major defense acquisition program may not receive Milestone B approval until the milestone decision authority—
 
-        (1)
+        (1) has received a preliminary design review and conducted a formal post-preliminary design review assessment, and certifies on the basis of such assessment that the program demonstrates a high likelihood of accomplishing its intended mission;
 
-         has received a business case analysis and certifies on the basis of the analysis that—
-
-            (A) the program is affordable when considering the ability of the Department of Defense to accomplish the program’s mission using alternative systems;
-
-            (B) appropriate trade-offs among cost, schedule, and performance objectives have been made to ensure that the program is affordable when considering the per unit cost and the total acquisition cost in the context of the total resources available during the period covered by the future-years defense program submitted during the fiscal year in which the certification is made;
-
-            (C) reasonable cost and schedule estimates have been developed to execute, with the concurrence of the Director of Cost Assessment and Program Evaluation, the product development and production plan under the program; and
-
-            (D) funding is available to execute the product development and production plan under the program, through the period covered by the future-years defense program submitted during the fiscal year in which the certification is made, consistent with the estimates described in subparagraph (C) for the program;
-
-        (2) has received a preliminary design review and conducted a formal post-preliminary design review assessment, and certifies on the basis of such assessment that the program demonstrates a high likelihood of accomplishing its intended mission;
+        (2) further certifies that the technology in the program has been demonstrated in a relevant environment, as determined by the milestone decision authority on the basis of an independent review and assessment by the Assistant Secretary of Defense for Research and Engineering, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation;
 
         (3)
 
-         further certifies that—
+         determines in writing that—
 
-            (A) appropriate market research has been conducted prior to technology development to reduce duplication of existing technology and products;
+            (A) the program is affordable when considering the ability of the Department of Defense to accomplish the program’s mission using alternative systems;
 
-            (B) the Department of Defense has completed an analysis of alternatives with respect to the program;
+            (B) appropriate trade-offs among cost, schedule, technical feasibility, and performance objectives have been made to ensure that the program is affordable when considering the per unit cost and the total acquisition cost in the context of the total resources available during the period covered by the future-years defense program submitted during the fiscal year in which the certification is made;
 
-            (C) the Joint Requirements Oversight Council has accomplished its duties with respect to the program pursuant to [section 181(b) of this title][/us/usc/t10/s181/b], including an analysis of the operational requirements for the program;
+            (C) reasonable cost and schedule estimates have been developed to execute, with the concurrence of the Director of Cost Assessment and Program Evaluation, the product development and production plan under the program; and  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The word “and” probably should not appear. </sup></sup> 
 
-            (D) the technology in the program has been demonstrated in a relevant environment, as determined by the Milestone Decision Authority on the basis of an independent review and assessment by the Assistant Secretary of Defense for Research and Engineering, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation;
+            (D) funding is available to execute the product development and production plan under the program, through the period covered by the future-years defense program submitted during the fiscal year in which the certification is made, consistent with the estimates described in subparagraph (C) for the program;
 
-            (E) life-cycle sustainment planning, including corrosion prevention and mitigation planning, has identified and evaluated relevant sustainment costs throughout development, production, operation, sustainment, and disposal of the program, and any alternatives, and that such costs are reasonable and have been accurately estimated;
+            (E) appropriate market research has been conducted prior to technology development to reduce duplication of existing technology and products;
 
-            (F) an estimate has been made of the requirements for core logistics capabilities and the associated sustaining workloads required to support such requirements;
+            (F) the Department of Defense has completed an analysis of alternatives with respect to the program;
 
-            (G) there is a plan to mitigate and account for any costs in connection with any anticipated de-certification of cryptographic systems and components during the production and procurement of the major defense acquisition program to be acquired; and
+            (G) the Joint Requirements Oversight Council has accomplished its duties with respect to the program pursuant to [section 181(b) of this title][/us/usc/t10/s181/b], including an analysis of the operational requirements for the program;
 
-            (H) the program complies with all relevant policies, regulations, and directives of the Department of Defense; and
+            (H) life-cycle sustainment planning, including corrosion prevention and mitigation planning, has identified and evaluated relevant sustainment costs throughout development, production, operation, sustainment, and disposal of the program, and any alternatives, and that such costs are reasonable and have been accurately estimated;
+
+            (I) an estimate has been made of the requirements for core logistics capabilities and the associated sustaining workloads required to support such requirements;
+
+            (J) there is a plan to mitigate and account for any costs in connection with any anticipated de-certification of cryptographic systems and components during the production and procurement of the major defense acquisition program to be acquired;
+
+            (K) the program complies with all relevant policies, regulations, and directives of the Department of Defense; and
+
+            (L) the Secretary of the military department concerned and the Chief of the armed force concerned concur in the trade-offs made in accordance with subparagraph (B); and
 
         (4) in the case of a space system, performs a cost benefit analysis for any new or follow-on satellite system using a dedicated ground control system instead of a shared ground control system, except that no cost benefit analysis is required to be performed under this paragraph for any Milestone B approval of a space system after December 31, 2019.
 
-    (b)  __Changes to Certification__  __.—__ 
+    (b)  __Changes to Certifications or Determination__  __.—__ 
 
         (1)
 
-         The program manager for a major defense acquisition program that has received certification under subsection (a) shall immediately notify the milestone decision authority of any changes to the program or a designated major subprogram of such program that—
+         The program manager for a major defense acquisition program that has received certifications or a determination under subsection (a) shall immediately notify the milestone decision authority of any changes to the program or a designated major subprogram of such program that—
 
-            (A) alter the substantive basis for the certification of the milestone decision authority relating to any component of such certification specified in paragraph (1) or (2) of subsection (a); or
+            (A) alter the substantive basis for the certifications or determination of the milestone decision authority relating to any component of such certifications or determination specified in paragraph (1), (2), or (3) of subsection (a); or
 
-            (B) otherwise cause the program or subprogram to deviate significantly from the material provided to the milestone decision authority in support of such certification.
+            (B) otherwise cause the program or subprogram to deviate significantly from the material provided to the milestone decision authority in support of such certifications or determination.
 
-        (2) Upon receipt of information under paragraph (1), the milestone decision authority may withdraw the certification concerned or rescind Milestone B approval if the milestone decision authority determines that such certification or approval is no longer valid.
+        (2) Upon receipt of information under paragraph (1), the milestone decision authority may withdraw the certifications or determination concerned or rescind Milestone B approval if the milestone decision authority determines that such certifications, determination, or approval are no longer valid.
 
     (c)  __Submission to Congress__  __.—__ 
 
-        (1) The certification required under subsection (a) with respect to a major defense acquisition program shall be submitted to the congressional defense committees with the first Selected Acquisition Report submitted under [section 2432 of this title][/us/usc/t10/s2432] after completion of the certification.
+        (1) The certifications and determination under subsection (a) with respect to a major defense acquisition program shall be submitted to the congressional defense committees with the first Selected Acquisition Report submitted under [section 2432 of this title][/us/usc/t10/s2432] after completion of the certification.
 
-        (2) A summary of any information provided to the milestone decision authority pursuant to subsection (b) and a description of the actions taken as a result of such information shall be submitted with the first Selected Acquisition Report submitted under [section 2432 of this title][/us/usc/t10/s2432] after receipt of such information by the milestone decision authority.
+        (2) The milestone decision authority shall retain records of the basis for the certifications and determination under paragraphs (1), (2), and (3) of subsection (a).
+
+        (3) At the request of any of the congressional defense committees, the Secretary of Defense shall submit to the committee an explanation of the basis for the certifications and determination under paragraphs (1), (2), and (3) of subsection (a) with respect to a major defense acquisition program. The explanation shall be submitted in unclassified form, but may include a classified annex.
 
     (d)  __Waiver for National Security__  __.—__ 
 
-        (1) The milestone decision authority may, at the time of Milestone B approval or at the time that such milestone decision authority withdraws a certification or rescinds Milestone B approval pursuant to subsection (b)(2), waive the applicability to a major defense acquisition program of one or more components (as specified in paragraph (1), (2), or (3) of subsection (a)) of the certification requirement if the milestone decision authority determines that, but for such a waiver, the Department would be unable to meet critical national security objectives.
+        (1) The milestone decision authority may, at the time of Milestone B approval or at the time that such milestone decision authority withdraws a certification or rescinds Milestone B approval pursuant to subsection (b)(2), waive the applicability to a major defense acquisition program of one or more components (as specified in paragraph (1), (2), or (3) of subsection (a)) of the certification and determination requirements if the milestone decision authority determines that, but for such a waiver, the Department would be unable to meet critical national security objectives.
 
         (2)
 
          Whenever the milestone decision authority makes such a determination and authorizes such a waiver—
 
-            (A) the waiver, the determination, and the reasons for the determination shall be submitted in writing to the congressional defense committees within 30 days after the waiver is authorized; and
+            (A) the waiver, the waiver determination, and the reasons for the waiver determination shall be submitted in writing to the congressional defense committees within 30 days after the waiver is authorized; and
 
-            (B) the milestone decision authority shall review the program not less often than annually to determine the extent to which such program currently satisfies the certification components specified in paragraphs (1), (2), and (3) of subsection (a) until such time as the milestone decision authority determines that the program satisfies all such certification components.
+            (B) the milestone decision authority shall review the program not less often than annually to determine the extent to which such program currently satisfies the certification and determination components specified in paragraphs (1), (2), and (3) of subsection (a) until such time as the milestone decision authority determines that the program satisfies all such certification and determination components.
 
         (3)
 
@@ -101,7 +101,7 @@
 
     (e)  __Designation of Certification Status in Budget Documentation__  __.—__ 
 
-    Any budget request, budget justification material, budget display, reprogramming request, Selected Acquisition Report, or other budget documentation or performance report submitted by the Secretary of Defense to the President regarding a major defense acquisition program receiving a waiver pursuant to subsection (d) shall prominently and clearly indicate that such program has not fully satisfied the certification requirements of this section until such time as the milestone decision authority makes the determination that such program has satisfied all such certification components.
+    Any budget request, budget justification material, budget display, reprogramming request, Selected Acquisition Report, or other budget documentation or performance report submitted by the Secretary of Defense to the President regarding a major defense acquisition program receiving a waiver pursuant to subsection (d) shall prominently and clearly indicate that such program has not fully satisfied the certification requirements of this section until such time as the milestone decision authority makes the determination that such program has satisfied all such certification requirements.
 
     (f)  __Nondelegation__  __.—__ 
 
@@ -115,19 +115,21 @@
 
         (2) The term “designated major subprogram” means a major subprogram of a major defense acquisition program designated under [section 2430a(a)(1) of this title][/us/usc/t10/s2430a/a/1].
 
-        (3) The term “milestone decision authority”, with respect to a major defense acquisition program, means the individual within the Department of Defense designated with overall responsibility for the program.
+        (3) The term “milestone decision authority”, with respect to a major defense acquisition program, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program, including authority to approve entry of the program into the next phase of the acquisition process.
 
         (4) The term “Milestone B approval” has the meaning provided that term in [section 2366(e)(7) of this title][/us/usc/t10/s2366/e/7].
 
         (5) The term “core logistics capabilities” means the core logistics capabilities identified under [section 2464(a) of this title][/us/usc/t10/s2464/a].
 
-(Added [Pub. L. 109–163, div. A, title VIII, § 801(a)][/us/pl/109/163/s801/a], Jan. 6, 2006, [119 Stat. 3366][/us/stat/119/3366], § 2366a; amended [Pub. L. 109–364, div. A, title VIII, § 805][/us/pl/109/364/s805], Oct. 17, 2006, [120 Stat. 2314][/us/stat/120/2314]; [Pub. L. 110–181, div. A, title VIII, § 812][/us/pl/110/181/s812], Jan. 28, 2008, [122 Stat. 219][/us/stat/122/219]; renumbered § 2366b, [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 813(a), (b), Oct. 14, 2008, [122 Stat. 4527][/us/stat/122/4527]; [Pub. L. 111–23, title I, § 101(d)(4)][/us/pl/111/23/s101/d/4], title II, §§ 201(f), 205(a), May 22, 2009, [123 Stat. 1710][/us/stat/123/1710], 1720, 1724; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383], §§ 813(d)(1), 814(c), title IX, § 901(j)(4), title X, § 1075(k)(1), Jan. 7, 2011, [124 Stat. 4265][/us/stat/124/4265], 4266, 4324, 4378; [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81], §§ 801(b), (e)(2), 819(b), Dec. 31, 2011, [125 Stat. 1483][/us/stat/125/1483], 1484, 1501; [Pub. L. 112–239, div. A, title III, § 322(e)(2)][/us/pl/112/239/s322/e/2], title IX, § 904(e)(2), Jan. 2, 2013, [126 Stat. 1695][/us/stat/126/1695], 1867; [Pub. L. 113–66, div. A, title VIII][/us/pl/113/66], §§ 821(a), 822(a), title X, § 1091(b)(1), Dec. 26, 2013, [127 Stat. 809][/us/stat/127/809], 876.)
+(Added [Pub. L. 109–163, div. A, title VIII, § 801(a)][/us/pl/109/163/s801/a], Jan. 6, 2006, [119 Stat. 3366][/us/stat/119/3366], § 2366a; amended [Pub. L. 109–364, div. A, title VIII, § 805][/us/pl/109/364/s805], Oct. 17, 2006, [120 Stat. 2314][/us/stat/120/2314]; [Pub. L. 110–181, div. A, title VIII, § 812][/us/pl/110/181/s812], Jan. 28, 2008, [122 Stat. 219][/us/stat/122/219]; renumbered § 2366b, [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 813(a), (b), Oct. 14, 2008, [122 Stat. 4527][/us/stat/122/4527]; [Pub. L. 111–23, title I, § 101(d)(4)][/us/pl/111/23/s101/d/4], title II, §§ 201(f), 205(a), May 22, 2009, [123 Stat. 1710][/us/stat/123/1710], 1720, 1724; [Pub. L. 111–383, div. A, title VIII][/us/pl/111/383], §§ 813(d)(1), 814(c), title IX, § 901(j)(4), title X, § 1075(k)(1), Jan. 7, 2011, [124 Stat. 4265][/us/stat/124/4265], 4266, 4324, 4378; [Pub. L. 112–81, div. A, title VIII][/us/pl/112/81], §§ 801(b), (e)(2), 819(b), Dec. 31, 2011, [125 Stat. 1483][/us/stat/125/1483], 1484, 1501; [Pub. L. 112–239, div. A, title III, § 322(e)(2)][/us/pl/112/239/s322/e/2], title IX, § 904(e)(2), Jan. 2, 2013, [126 Stat. 1695][/us/stat/126/1695], 1867; [Pub. L. 113–66, div. A, title VIII][/us/pl/113/66], §§ 821(a), 822(a), title X, § 1091(b)(1), Dec. 26, 2013, [127 Stat. 809][/us/stat/127/809], 876; [Pub. L. 114–92, div. A, title VIII, § 824(a)][/us/pl/114/92/s824/a], Nov. 25, 2015, [129 Stat. 903][/us/stat/129/903].)
 
  __Prior Provisions__ 
 
     A prior section 2366b was renumbered [section 2366a of this title][/us/usc/t10/s2366a].
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92][/us/pl/114/92] amended section generally. Prior to amendment, section related to certification required before Milestone B approval of major defense acquisition programs.
 
     2013—Subsec. (a)(3)(D). [Pub. L. 112–239, § 904(e)(2)][/us/pl/112/239/s904/e/2], substituted “the Assistant Secretary of Defense for Research and Engineering, in consultation with the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation” for “the Assistant Secretary of Defense for Research and Engineering”.
 
@@ -229,6 +231,12 @@
 
     [Pub. L. 111–383, div. A, title X, § 1075(k)][/us/pl/111/383/s1075/k], Jan. 7, 2011, [124 Stat. 4378][/us/stat/124/4378], provided that the amendment made by section 1075(k)(1) is effective as of May 22, 2009, and as if included in [Pub. L. 111–23][/us/pl/111/23] as enacted.
 
+ __Milestone B Decisions__ 
+
+[Pub. L. 114–92, div. A, title VIII, § 802(d)(3)][/us/pl/114/92/s802/d/3], Nov. 25, 2015, [129 Stat. 880][/us/stat/129/880], provided that: 
+
+> “The Chief of the Armed Force concerned shall advise the milestone decision authority for a major defense acquisition program of the Chief’s views on cost, schedule, technical feasibility, and performance trade-offs that have been made with regard to the program, as provided in [section 2366b(b)(3) of title 10][/us/usc/t10/s2366b/b/3], United States Code, as amended by section 824 of this Act, prior to a Milestone B decision on the program.”
+
  __Certification and Review of Programs Entering Development Prior to Enactment of__  __[__  __Section 2366b of Title 10__  __][/us/usc/t10/s2366b]__ 
 
     [Pub. L. 111–23, title II, § 205(b)][/us/pl/111/23/s205/b], May 22, 2009, [123 Stat. 1725][/us/stat/123/1725], as amended by [Pub. L. 111–383, div. A, title VIII, § 813(d)(2)][/us/pl/111/383/s813/d/2], Jan. 7, 2011, [124 Stat. 4266][/us/stat/124/4266], which related to certification and review of programs entering development prior to enactment of [section 2366b of this title][/us/usc/t10/s2366b], was repealed by [Pub. L. 112–239, div. A, title VIII, § 814][/us/pl/112/239/s814], Jan. 2, 2013, [126 Stat. 1830][/us/stat/126/1830].
@@ -258,7 +266,6 @@
 
 [/us/usc/t10/s181/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs181%2Fb
 [/us/usc/t10/s2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432
-[/us/usc/t10/s2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432
 [/us/usc/t10/s2433a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2433a%2Fc
 [/us/usc/t10/s2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2430
 [/us/usc/t10/s2430a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2430a%2Fa%2F1
@@ -282,7 +289,10 @@
 [/us/stat/126/1695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1695
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/stat/127/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F809
+[/us/pl/114/92/s824/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs824%2Fa
+[/us/stat/129/903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F903
 [/us/usc/t10/s2366a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2366a
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/239/s904/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs904%2Fe%2F2
 [/us/pl/112/239/s322/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs322%2Fe%2F2
 [/us/pl/113/66/s1091/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb%2F1
@@ -345,6 +355,9 @@
 [/us/pl/111/383/s1075/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fk
 [/us/stat/124/4378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4378
 [/us/pl/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23
+[/us/pl/114/92/s802/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs802%2Fd%2F3
+[/us/stat/129/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F880
+[/us/usc/t10/s2366b/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2366b%2Fb%2F3
 [/us/usc/t10/s2366b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2366b
 [/us/pl/111/23/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs205%2Fb
 [/us/stat/123/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1725

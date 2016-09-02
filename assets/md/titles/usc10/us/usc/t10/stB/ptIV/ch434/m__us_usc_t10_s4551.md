@@ -47,7 +47,7 @@
 
  __Arsenal Support Program Initiative__ 
 
-[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 343\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–65, as amended by [Pub. L. 107–314, div. A, title III, § 362][/us/pl/107/314/s362], Dec. 2, 2002, [116 Stat. 2519][/us/stat/116/2519]; [Pub. L. 108–375, div. A, title III, § 342][/us/pl/108/375/s342], Oct. 28, 2004, [118 Stat. 1857][/us/stat/118/1857]; [Pub. L. 110–181, div. A, title III, § 341][/us/pl/110/181/s341], Jan. 28, 2008, [122 Stat. 69][/us/stat/122/69]; [Pub. L. 111–84, div. A, title III, § 354][/us/pl/111/84/s354], Oct. 28, 2009, [123 Stat. 2264][/us/stat/123/2264]; [Pub. L. 111–383, div. A, title III, § 342][/us/pl/111/383/s342], Jan. 7, 2011, [124 Stat. 4190][/us/stat/124/4190], provided that:
+[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 343\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–65, as amended by [Pub. L. 107–314, div. A, title III, § 362][/us/pl/107/314/s362], Dec. 2, 2002, [116 Stat. 2519][/us/stat/116/2519]; [Pub. L. 108–375, div. A, title III, § 342][/us/pl/108/375/s342], Oct. 28, 2004, [118 Stat. 1857][/us/stat/118/1857]; [Pub. L. 110–181, div. A, title III, § 341][/us/pl/110/181/s341], Jan. 28, 2008, [122 Stat. 69][/us/stat/122/69]; [Pub. L. 111–84, div. A, title III, § 354][/us/pl/111/84/s354], Oct. 28, 2009, [123 Stat. 2264][/us/stat/123/2264]; [Pub. L. 111–383, div. A, title III, § 342][/us/pl/111/383/s342], Jan. 7, 2011, [124 Stat. 4190][/us/stat/124/4190]; [Pub. L. 114–92, div. A, title X, § 1073(j)][/us/pl/114/92/s1073/j], Nov. 25, 2015, [129 Stat. 996][/us/stat/129/996], provided that:
 
 >     “(a)  __Demonstration Program Required__  __.—__ 
 
@@ -137,13 +137,7 @@
 
 >     “(f)  __Transfer of Funds__  __.—__ 
 
->     The Secretary of the Army may transfer to an Administrator providing services under subsection (d), and the Administrator may accept, such funds as may be necessary to administer loan guarantees under such subsection.
-
->     “(g)  __Reporting Requirements__  __.—__ 
-
->         (1) Not later than July 1 of each year in which a guarantee issued under subsection (d) is in effect, the Secretary of the Army shall submit to Congress a report specifying the amounts of loans guaranteed under such subsection during the preceding calendar year. No report is required after fiscal year 2012.
-
->         “(2) Not later than July 1, 2007, the Secretary of the Army shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the demonstration program since its implementation, including the Secretary’s views regarding the benefits of the program for Army manufacturing arsenals and the Department of the Army and the success of the program in achieving the purposes specified in subsection (b). The report shall contain a comprehensive review of contracting at the Army manufacturing arsenals covered by the program and such recommendations as the Secretary considers appropriate regarding changes to the program.”
+>     The Secretary of the Army may transfer to an Administrator providing services under subsection (d), and the Administrator may accept, such funds as may be necessary to administer loan guarantees under such subsection.”
 
 ----------
 
@@ -171,6 +165,8 @@
 [/us/stat/123/2264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2264
 [/us/pl/111/383/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs342
 [/us/stat/124/4190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4190
+[/us/pl/114/92/s1073/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1073%2Fj
+[/us/stat/129/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F996
 [/us/usc/t10/s4543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4543
 [/us/usc/t10/s4543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4543
 [/us/usc/t2/s661c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs661c

@@ -145,7 +145,7 @@
 
  __Authority To Conduct Activities To Enhance the Capability of Foreign Countries To Respond to Incidents Involving Weapons of Mass Destruction__ 
 
-[Pub. L. 113–66, div. A, title XII, § 1204][/us/pl/113/66/s1204], Dec. 26, 2013, [127 Stat. 896][/us/stat/127/896], as amended by [Pub. L. 113–291, div. A, title XII, § 1202][/us/pl/113/291/s1202], Dec. 19, 2014, [128 Stat. 3530][/us/stat/128/3530], provided that:
+[Pub. L. 113–66, div. A, title XII, § 1204][/us/pl/113/66/s1204], Dec. 26, 2013, [127 Stat. 896][/us/stat/127/896], as amended by [Pub. L. 113–291, div. A, title XII, § 1202][/us/pl/113/291/s1202], Dec. 19, 2014, [128 Stat. 3530][/us/stat/128/3530]; [Pub. L. 114–92, div. A, title XII, § 1273][/us/pl/114/92/s1273], Nov. 25, 2015, [129 Stat. 1076][/us/stat/129/1076], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -207,7 +207,7 @@
 
 >     “(h)  __Expiration__  __.—__ 
 
->     The authority to provide assistance under this section may not be exercised after September 30, 2017.”
+>     The authority to provide assistance under this section may not be exercised after September 30, 2019.”
 
  __Requirement To Ensure the Effectiveness and Efficiency of Health Engagements__ 
 
@@ -391,6 +391,8 @@
 [/us/stat/127/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F896
 [/us/pl/113/291/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1202
 [/us/stat/128/3530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3530
+[/us/pl/114/92/s1273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1273
+[/us/stat/129/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1076
 [/us/pl/112/239/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs715
 [/us/stat/126/1803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1803
 [/us/pl/103/337/s1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1413

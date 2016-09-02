@@ -85,7 +85,7 @@
 
  __Future Availability of TRICARE Prime Throughout the United States__ 
 
-[Pub. L. 112–239, div. A, title VII, § 732][/us/pl/112/239/s732], Jan. 2, 2013, [126 Stat. 1816][/us/stat/126/1816], as amended by [Pub. L. 113–66, div. A, title VII, § 701][/us/pl/113/66/s701], Dec. 26, 2013, [127 Stat. 789][/us/stat/127/789]; [Pub. L. 113–291, div. A, title VII, § 723][/us/pl/113/291/s723], Dec. 19, 2014, [128 Stat. 3417][/us/stat/128/3417], provided that:
+[Pub. L. 112–239, div. A, title VII, § 732][/us/pl/112/239/s732], Jan. 2, 2013, [126 Stat. 1816][/us/stat/126/1816], as amended by [Pub. L. 113–66, div. A, title VII, § 701][/us/pl/113/66/s701], Dec. 26, 2013, [127 Stat. 789][/us/stat/127/789]; [Pub. L. 113–291, div. A, title VII, § 723][/us/pl/113/291/s723], Dec. 19, 2014, [128 Stat. 3417][/us/stat/128/3417]; [Pub. L. 114–92, div. A, title VII, § 701][/us/pl/114/92/s701], Nov. 25, 2015, [129 Stat. 860][/us/stat/129/860], provided that:
 
 >     “(a) __Report Required.—__ 
 
@@ -149,13 +149,23 @@
 
 >         If an affected eligible beneficiary makes the one-time election under paragraph (1), the beneficiary may thereafter elect to enroll in TRICARE Standard at any time in accordance with a contract described in subsection (a)(2)(A).
 
->         “(3)  __Residence at time of election__  __.—__ 
+>         “(3) __Residence at time of election.—__ 
 
->         An affected eligible beneficiary may not make the one-time election under paragraph (1) if, at the time of such election, the beneficiary does not reside—
+>             “(A)
 
->             “(A) in a ZIP code that is in a region described in subsection (d)(1)(B); and
+>              Except as provided by subparagraph (B), an affected eligible beneficiary may not make the one-time election under paragraph (1) if, at the time of such election, the beneficiary does not reside—
 
->             “(B) within 100 miles of a military medical treatment facility.
+>                 “(i) in a ZIP code that is in a region described in subsection (d)(1)(B); and
+
+>                 “(ii) within 100 miles of a military medical treatment facility.
+
+>             “(B)
+
+>              Subparagraph (A)(ii) shall not apply with respect to an affected eligible beneficiary who—
+
+>                 “(i) as of December 25, 2013, resides farther than 100 miles from a military medical treatment facility; and
+
+>                 “(ii) is such an eligible beneficiary by reason of service in the Army, Navy, Air Force, or Marine Corps.
 
 >         “(4)  __Network__  __.—__ 
 
@@ -214,6 +224,8 @@
 [/us/stat/127/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F789
 [/us/pl/113/291/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs723
 [/us/stat/128/3417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3417
+[/us/pl/114/92/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs701
+[/us/stat/129/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F860
 [/us/usc/t10/s1072/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F7
 [/us/pl/113/291/s723/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs723%2Fb
 [/us/stat/128/3418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3418

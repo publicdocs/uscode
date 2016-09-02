@@ -217,6 +217,26 @@
 
 > “The Secretary of the Army shall implement subsection (f) of [section 10216 of title 10][/us/usc/t10/s10216], United States Code, as added by subsection (a), not later than 90 days after the date of the enactment of this Act \[Jan. 6, 2006\].”
 
+ __Conversion of Certain Military Technician (Dual Status) Positions to Civilian Positions__ 
+
+[Pub. L. 114–92, div. A, title X, § 1053(a)][/us/pl/114/92/s1053/a], Nov. 25, 2015, [129 Stat. 981][/us/stat/129/981], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     The Secretary of Defense shall convert not fewer than 20 percent of the positions described in paragraph (2) as of January 1, 2017, from military technician (dual status) positions to positions filled by individuals who are employed under [section 3101 of title 5][/us/usc/t5/s3101], United States Code, and are not military technicians.
+
+>     “(2)  __Covered positions__  __.—__ 
+
+>     The positions described in this paragraph are military technician (dual status) positions as follows:
+
+>         “(A) Military technician (dual status) positions identified as general administration, clerical, finance, and office service occupations in the report of the Secretary of Defense under section 519 of the National Defense Authorization Act for Fiscal Year 2011 ([Public Law 112–81][/us/pl/112/81]; [125 Stat. 1397][/us/stat/125/1397]).
+
+>         “(B) Such other military technician (dual status) positions as the Secretary shall specify for purposes of this subsection.
+
+>     “(3)  __Treatment of incumbents__  __.—__ 
+
+>     In the case of a position converted under paragraph (1) for which there is an incumbent employee, the Secretary may fill that position, as converted, with the incumbent employee without regard to any requirement concerning competition or competitive hiring procedures.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stE/ptI/ch1007/m__us_usc_t10_s10215.md) | [Next](./../../../../../..//us/usc/t10/stE/ptI/ch1007/m__us_usc_t10_s10217.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10216)
@@ -291,5 +311,10 @@
 [/us/pl/109/163/s513/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs513%2Fb
 [/us/stat/119/3232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3232
 [/us/usc/t10/s10216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10216
+[/us/pl/114/92/s1053/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1053%2Fa
+[/us/stat/129/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F981
+[/us/usc/t5/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3101
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/stat/125/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1397
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch149/m__us_usc_t10_s2546.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch149/m__us_usc_t10_s2548.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2547)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch149/m__us_usc_t10_s2546a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch149/m__us_usc_t10_s2548.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2547)
 
 ## § 2547. Acquisition-related functions of chiefs of the armed forces
 
@@ -21,15 +21,17 @@
 
         (1) The development of requirements for equipping the armed force concerned (subject, where appropriate, to validation by the Joint Requirements Oversight Council pursuant to [section 181 of this title][/us/usc/t10/s181]).
 
-        (2) The coordination of measures to control requirements creep in the defense acquisition system.
+        (2) Decisions regarding the balancing of resources and priorities, and associated trade-offs among cost, schedule, technical feasibility, and performance on major defense acquisition programs.
 
-        (3) The recommendation of trade-offs among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, to ensure acquisition programs deliver best value in meeting the approved military requirements.
+        (3) The coordination of measures to control requirements creep in the defense acquisition system.
 
-        (4) Termination of development or procurement programs for which life-cycle cost, schedule, and performance expectations are no longer consistent with approved military requirements and levels of priority, or which no longer have approved military requirements.
+        (4) The recommendation of trade-offs among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, to ensure acquisition programs deliver best value in meeting the approved military requirements.
 
-        (5) The development of career paths in acquisition for military personnel (as required by [section 1722a of this title][/us/usc/t10/s1722a]).
+        (5) Termination of development or procurement programs for which life-cycle cost, schedule, and performance expectations are no longer consistent with approved military requirements and levels of priority, or which no longer have approved military requirements.
 
-        (6) The assignment and training of contracting officer representatives when such representatives are required to be members of the armed forces because of the nature of the contract concerned.
+        (6) The development and management of career paths in acquisition for military personnel (as required by [section 1722a of this title][/us/usc/t10/s1722a]).
+
+        (7) The assignment and training of contracting officer representatives when such representatives are required to be members of the armed forces because of the nature of the contract concerned.
 
     (b)  __Rule of Construction__  __.—__ 
 
@@ -51,7 +53,7 @@
 
             (C) identifies production attributes required for a single increment of a program.
 
-(Added [Pub. L. 111–383, div. A, title VIII, § 861(a)][/us/pl/111/383/s861/a], Jan. 7, 2011, [124 Stat. 4289][/us/stat/124/4289]; amended [Pub. L. 112–239, div. A, title IX, § 951(c)][/us/pl/112/239/s951/c], Jan. 2, 2013, [126 Stat. 1891][/us/stat/126/1891].)
+(Added [Pub. L. 111–383, div. A, title VIII, § 861(a)][/us/pl/111/383/s861/a], Jan. 7, 2011, [124 Stat. 4289][/us/stat/124/4289]; amended [Pub. L. 112–239, div. A, title IX, § 951(c)][/us/pl/112/239/s951/c], Jan. 2, 2013, [126 Stat. 1891][/us/stat/126/1891]; [Pub. L. 114–92, div. A, title VIII, § 802(b)][/us/pl/114/92/s802/b], Nov. 25, 2015, [129 Stat. 879][/us/stat/129/879].)
 
  __Prior Provisions__ 
 
@@ -59,13 +61,19 @@
 
  __Amendments__ 
 
+    2015—Subsec. (a)(2) to (5). [Pub. L. 114–92, § 802(b)(1)][/us/pl/114/92/s802/b/1], (2), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively. Former par. (5) redesignated (6).
+
+    Subsec. (a)(6). [Pub. L. 114–92, § 802(b)(1)][/us/pl/114/92/s802/b/1], (3), redesignated par. (5) as (6) and substituted “The development and management” for “The development”. Former par. (6) redesignated (7).
+
+    Subsec. (a)(7). [Pub. L. 114–92, § 802(b)(1)][/us/pl/114/92/s802/b/1], redesignated par. (6) as (7).
+
     2013—Subsec. (a)(1). [Pub. L. 112–239, § 951(c)(1)][/us/pl/112/239/s951/c/1], substituted “of requirements for equipping the armed force concerned” for “of requirements relating to the defense acquisition system”.
 
     Subsec. (a)(3) to (6). [Pub. L. 112–239, § 951(c)(2)][/us/pl/112/239/s951/c/2], (3), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch149/m__us_usc_t10_s2546.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch149/m__us_usc_t10_s2548.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2547)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch149/m__us_usc_t10_s2546a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch149/m__us_usc_t10_s2548.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2547)
 
 ----------
 ----------
@@ -77,7 +85,12 @@
 [/us/stat/124/4289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4289
 [/us/pl/112/239/s951/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs951%2Fc
 [/us/stat/126/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1891
+[/us/pl/114/92/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs802%2Fb
+[/us/stat/129/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F879
 [/us/usc/t10/s2557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2557
+[/us/pl/114/92/s802/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs802%2Fb%2F1
+[/us/pl/114/92/s802/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs802%2Fb%2F1
+[/us/pl/114/92/s802/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs802%2Fb%2F1
 [/us/pl/112/239/s951/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs951%2Fc%2F1
 [/us/pl/112/239/s951/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs951%2Fc%2F2
 

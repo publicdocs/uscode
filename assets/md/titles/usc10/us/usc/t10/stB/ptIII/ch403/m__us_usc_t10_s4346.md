@@ -127,7 +127,7 @@ R.S. 1320.  </td>
 
  __Temporary Authority To Waive Maximum Age Limitation on Admission to the Military Service Academies__ 
 
-[Pub. L. 112–81, div. A, title V, § 553][/us/pl/112/81/s553], Dec. 31, 2011, [125 Stat. 1413][/us/stat/125/1413], provided that:
+[Pub. L. 112–81, div. A, title V, § 553][/us/pl/112/81/s553], Dec. 31, 2011, [125 Stat. 1413][/us/stat/125/1413], as amended by [Pub. L. 114–92, div. A, title X, § 1072(b)][/us/pl/114/92/s1072/b], Nov. 25, 2015, [129 Stat. 995][/us/stat/129/995], provided that:
 
 >     “(a)  __Waiver for Certain Enlisted Members__  __.—__ 
 
@@ -149,19 +149,7 @@ R.S. 1320.  </td>
 
 >     The Secretary of each military department shall maintain records on the number of graduates of the military service academy under the jurisdiction of the Secretary who are admitted pursuant to a waiver granted under this section and who remain in the Armed Forces beyond the active duty service obligation assumed upon graduation. The Secretary shall compare their retention rate to the retention rate of graduates of that academy generally.
 
->     “(e)  __Reports__  __.—__ 
-
->     Not later than April 1, 2016, the Secretary of each military department shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report specifying—
-
->         “(1) the number of applications for waivers received by the Secretary under this section;
-
->         “(2) the number of waivers granted by the Secretary under this section;
-
->         “(3) the number of candidates actually admitted to the military service academy under the jurisdiction of the Secretary pursuant to a waiver granted by the Secretary under this section; and
-
->         “(4) beginning with the class of 2009, the number of graduates of the military service academy under the jurisdiction of the Secretary who, before admission to that academy, were enlisted members of the Armed Forces and who remain in the Armed Forces beyond the active duty service obligation assumed upon graduation.
-
->     “(f)  __Duration of Waiver Authority__  __.—__ 
+>     “(e)  __Duration of Waiver Authority__  __.—__ 
 
 >     The authority to grant a waiver under this section expires on September 30, 2016.”
 
@@ -203,6 +191,8 @@ R.S. 1320.  </td>
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/112/81/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs553
 [/us/stat/125/1413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1413
+[/us/pl/114/92/s1072/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1072%2Fb
+[/us/stat/129/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F995
 [/us/pl/102/190/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs514
 [/us/stat/105/1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1361
 [/us/pl/102/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F25

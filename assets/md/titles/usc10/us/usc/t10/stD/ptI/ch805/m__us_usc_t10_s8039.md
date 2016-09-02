@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptI/ch805/m__us_usc_t10_s8038.md) | [Next](./../../../../../..//us/usc/t10/stD/ptI/ch807/m__us_usc_t10_stD_ptI_ch807.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8039)
+[Previous](./../../../../../..//us/usc/t10/stD/ptI/ch805/m__us_usc_t10_s8038.md) | [Next](./../../../../../..//us/usc/t10/stD/ptI/ch805/m__us_usc_t10_s8040.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8039)
 
 ## § 8039. Chief of Chaplains: appointment; duties
 
@@ -43,7 +43,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptI/ch805/m__us_usc_t10_s8038.md) | [Next](./../../../../../..//us/usc/t10/stD/ptI/ch807/m__us_usc_t10_stD_ptI_ch807.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8039)
+[Previous](./../../../../../..//us/usc/t10/stD/ptI/ch805/m__us_usc_t10_s8038.md) | [Next](./../../../../../..//us/usc/t10/stD/ptI/ch805/m__us_usc_t10_s8040.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8039)
 
 ----------
 ----------

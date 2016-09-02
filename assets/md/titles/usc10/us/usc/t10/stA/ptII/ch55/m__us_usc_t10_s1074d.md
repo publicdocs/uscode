@@ -57,6 +57,44 @@
 
     Subsec. (b)(8). [Pub. L. 104–201, § 701(a)(1)(B)][/us/pl/104/201/s701/a/1/B], added par. (8).
 
+ __Comprehensive Standards and Access to Contraception Counseling for Members of the Armed Forces__ 
+
+[Pub. L. 114–92, div. A, title VII, § 718][/us/pl/114/92/s718], Nov. 25, 2015, [129 Stat. 868][/us/stat/129/868], provided that:
+
+>     “(a) __Clinical Practice Guidelines.—__ 
+
+>         “(1)  __Establishment__  __.—__ 
+
+>         Not later than one year after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall establish clinical practice guidelines for health care providers employed by the Department of Defense on standards of care with respect to methods of contraception and counseling on methods of contraception for members of the Armed Forces.
+
+>         “(2)  __Updates__  __.—__ 
+
+>         The Secretary shall from time to time update the clinical practice guidelines established under paragraph (1) to incorporate into such guidelines new or updated standards of care with respect to methods of contraception and counseling on methods of contraception.
+
+>     “(b) __Dissemination.—__ 
+
+>         “(1)  __Initial dissemination__  __.—__ 
+
+>         As soon as practicable, but commencing not later than one year after the date of the enactment of this Act, the Secretary shall provide for rapid dissemination of the clinical practice guidelines to health care providers described in subsection (a)(1).
+
+>         “(2)  __Dissemination of updates__  __.—__ 
+
+>         As soon as practicable after each update to the clinical practice guidelines made by the Secretary pursuant to paragraph (2) of subsection (a), the Secretary shall provide for the rapid dissemination of such updated clinical practice guidelines to health care providers described in paragraph (1) of such subsection.
+
+>         “(3)  __Protocols__  __.—__ 
+
+>         The Secretary shall disseminate the clinical practice guidelines under paragraph (1) and any updates to such guidelines under paragraph (2) in accordance with administrative protocols developed by the Secretary for such purpose.
+
+>     “(c)  __Access to Contraception Counseling__  __.—__ 
+
+>     As soon as practicable after the date of the enactment of this Act, the Secretary shall ensure that women members of the Armed Forces have access to comprehensive counseling on the full range of methods of contraception provided by health care providers described in subsection (a)(1) during health care visits, including visits as follows:
+
+>         “(1) During predeployment health care visits, including counseling that provides specific information women need regarding the interaction between anticipated deployment conditions and various methods of contraception.
+
+>         “(2) During health care visits during deployment.
+
+>         “(3) During annual physical examinations.”
+
  __Defense Women’s Health Research Program__ 
 
 [Pub. L. 103–337, div. A, title II, § 241][/us/pl/103/337/s241], Oct. 5, 1994, [108 Stat. 2701][/us/stat/108/2701], provided that:
@@ -168,6 +206,8 @@
 [/us/pl/104/201/s701/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs701%2Fa%2F2%2FA
 [/us/pl/104/201/s701/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs701%2Fa%2F1%2FA
 [/us/pl/104/201/s701/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs701%2Fa%2F1%2FB
+[/us/pl/114/92/s718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs718
+[/us/stat/129/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F868
 [/us/pl/103/337/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs241
 [/us/stat/108/2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2701
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160

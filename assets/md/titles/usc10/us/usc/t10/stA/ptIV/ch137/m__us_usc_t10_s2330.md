@@ -115,6 +115,16 @@
 
     2002—Subsec. (c). [Pub. L. 107–314][/us/pl/107/314] inserted comma after “a task order”.
 
+ __Examination and Guidance Relating to Oversight and Approval of Services Contracts__ 
+
+[Pub. L. 114–92, div. A, title VIII, § 882][/us/pl/114/92/s882], Nov. 25, 2015, [129 Stat. 942][/us/stat/129/942], provided that: 
+
+> “Not later than March 1, 2016, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall—
+
+>     “(1) complete an examination of the decision authority related to acquisition of services; and
+
+>     “(2) develop and issue guidance to improve capabilities and processes related to requirements development and source selection for, and oversight and management of, services contracts.”
+
  __Implementation of Recommendations of Defense Science Board Task Force on Improvements to Service Contracting__ 
 
 [Pub. L. 112–81, div. A, title VIII, § 807][/us/pl/112/81/s807], Dec. 31, 2011, [125 Stat. 1488][/us/stat/125/1488], provided that:
@@ -497,6 +507,8 @@
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
+[/us/pl/114/92/s882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs882
+[/us/stat/129/942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F942
 [/us/pl/112/81/s807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs807
 [/us/stat/125/1488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1488
 [/us/usc/t10/s2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2330

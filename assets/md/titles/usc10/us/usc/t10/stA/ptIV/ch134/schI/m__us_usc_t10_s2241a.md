@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2241.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2242.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2241a)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2241.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2241b.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2241a)
 
 ## § 2241a. Prohibition on use of funds for publicity or propaganda purposes within the United States
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2241.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2242.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2241a)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2241.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2241b.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2241a)
 
 ----------
 ----------

@@ -173,7 +173,7 @@
 
 > “The Secretary of Defense shall consult with the Secretary of Labor, the Secretary of Education, the Secretary of Veterans Affairs, and the Economic Adjustment Committee to improve the coordination of, and eliminate duplication between, the following job training and placement programs available to members of the Armed Forces who are discharged or released from active duty:
 
->     “(1) Title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\].
+>     “(1) Title I of the Workforce Investment Act of 1998 \[former [29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\].
 
 >     “(2) Sections 1143 and 1144 of title 10, United States Code.
 

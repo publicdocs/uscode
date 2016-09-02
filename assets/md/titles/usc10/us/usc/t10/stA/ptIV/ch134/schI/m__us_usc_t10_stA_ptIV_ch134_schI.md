@@ -41,6 +41,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2241b" data-uslm-ref="/us/usc/t10/s2241b">2241b.</a>  </td>
+
+    <td> Prohibition on contracts providing payments for activities at sporting events to honor members of the armed forces.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2242" data-uslm-ref="/us/usc/t10/s2242">2242.</a>  </td>
 
     <td> Authority to use appropriated funds for certain investigations and security services.  </td>
@@ -51,7 +59,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2243" data-uslm-ref="/us/usc/t10/s2243">2243.</a>  </td>
 
-    <td> Authority to use appropriated funds to support student meal programs in overseas dependents’ schools.  </td>
+    <td> Authority to use appropriated funds to support student meal programs in overseas defense dependents’ schools.  </td>
 
   </tr>
 
@@ -147,6 +155,8 @@
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–92, div. A, title III, § 341(b)][/us/pl/114/92/s341/b], title V, § 573(b)(2), Nov. 25, 2015, [129 Stat. 793][/us/stat/129/793], 831, added item 2241b and substituted “Authority to use appropriated funds to support student meal programs in overseas defense dependents’ schools” for “Authority to use appropriated funds to support student meal programs in overseas dependents’ schools” in item 2243.
+
     2014—[Pub. L. 113–291, div. A, title XII, § 1204(a)(2)][/us/pl/113/291/s1204/a/2], Dec. 19, 2014, [128 Stat. 3533][/us/stat/128/3533], added item 2249e.
 
     2013—[Pub. L. 112–239, div. A, title V, § 588(b)(2)][/us/pl/112/239/s588/b/2], Jan. 2, 2013, [126 Stat. 1769][/us/stat/126/1769], substituted “Display of State, District of Columbia, commonwealth, and territorial flags by the armed forces.” for “Display of State flags: prohibition on use of funds to arbitrarily exclude flag; position and manner of display.” in item 2249b.
@@ -190,6 +200,8 @@
 ----------
 ----------
 
+[/us/pl/114/92/s341/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs341%2Fb
+[/us/stat/129/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F793
 [/us/pl/113/291/s1204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1204%2Fa%2F2
 [/us/stat/128/3533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3533
 [/us/pl/112/239/s588/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs588%2Fb%2F2

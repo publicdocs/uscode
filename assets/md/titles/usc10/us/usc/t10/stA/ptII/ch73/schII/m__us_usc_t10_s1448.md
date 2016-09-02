@@ -285,6 +285,44 @@
 
         A person who has established a supplemental or special needs trust under subparagraph (A) or (C) of section 1917(d)(4) of the Social Security Act ([42 U.S.C. 1396p(d)(4)][/us/usc/t42/s1396p/d/4]) for the sole benefit of a dependent child considered disabled under section 1614(a)(3) of that Act ([42 U.S.C. 1382c(a)(3)][/us/usc/t42/s1382c/a/3]) who is incapable of self-support because of mental or physical incapacity may elect to provide an annuity to that supplemental or special needs trust.
 
+        (7) __Effect of death of former spouse beneficiary.—__ 
+
+            (A)  __Termination of participation in plan__  __.—__ 
+
+            A person who elects to provide an annuity to a former spouse under paragraph (2) or (3) and whose former spouse subsequently dies is no longer a participant in the Plan, effective on the date of death of the former spouse.
+
+            (B)  __Authority for election of new spouse beneficiary__  __.—__ 
+
+            If a person’s participation in the Plan is discontinued by reason of the death of a former spouse beneficiary, the person may elect to resume participation in the Plan and to elect a new spouse beneficiary as follows:
+
+                (i)  __Married on the date of death of former spouse__  __.—__ 
+
+                A person who is married at the time of the death of the former spouse beneficiary may elect to provide coverage to that person’s spouse. Such an election must be received by the Secretary concerned within one year after the date of death of the former spouse beneficiary.
+
+                (ii)  __Marriage after death of former spouse beneficiary__  __.—__ 
+
+                A person who is not married at the time of the death of the former spouse beneficiary and who later marries may elect to provide spouse coverage. Such an election must be received by the Secretary concerned within one year after the date on which that person marries.
+
+            (C)  __Effective date of election__  __.—__ 
+
+            The effective date of election under this paragraph shall be as follows:
+
+                (i) An election under subparagraph (B)(i) is effective as of the first day of the first calendar month following the death of the former spouse beneficiary.
+
+                (ii) An election under subparagraph (B)(ii) is effective as of the first day of the first calendar month following the month in which the election is received by the Secretary concerned.
+
+            (D)  __Level of coverage__  __.—__ 
+
+            A person making an election under subparagraph (B) may not reduce the base amount previously elected.
+
+            (E)  __Procedures__  __.—__ 
+
+            An election under this paragraph shall be in writing, signed by the participant, and made in such form and manner as the Secretary concerned may prescribe.
+
+            (F)  __Irrevocability__  __.—__ 
+
+            An election under this paragraph is irrevocable.
+
     (c)  __Persons on Temporary Disability Retired List__  __.—__ 
 
     The application of the Plan to a person whose name is on the temporary disability retired list terminates when his name is removed from that list and he is no longer entitled to disability retired pay.
@@ -415,9 +453,11 @@
 
         A payment received under this subsection by the Secretary of Defense shall be deposited into the Department of Defense Military Retirement Fund. Any other payment received under this subsection shall be deposited in the Treasury as miscellaneous receipts.
 
-(Added [Pub. L. 92–425, § 1(3)][/us/pl/92/425/s1/3], Sept. 21, 1972, [86 Stat. 707][/us/stat/86/707]; amended [Pub. L. 94–496, § 1(2)][/us/pl/94/496/s1/2], Oct. 14, 1976, [90 Stat. 2375][/us/stat/90/2375]; [Pub. L. 95–397, title II, § 202][/us/pl/95/397/s202], Sept. 30, 1978, [92 Stat. 844][/us/stat/92/844]; [Pub. L. 97–252, title X, § 1003(b)][/us/pl/97/252/s1003/b], Sept. 8, 1982, [96 Stat. 735][/us/stat/96/735]; [Pub. L. 97–295, § 1(18)][/us/pl/97/295/s1/18], Oct. 12, 1982, [96 Stat. 1290][/us/stat/96/1290]; [Pub. L. 98–94, title IX, § 941(a)(1)][/us/pl/98/94/s941/a/1], (2), (c)(2), Sept. 24, 1983, [97 Stat. 652][/us/stat/97/652], 653; [Pub. L. 99–145, title V, § 513(b)][/us/pl/99/145/s513/b], title VII, §§ 712(a), 713(a), 715, 716(a), 719(3), (8)(A), 721(a), Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628], 670, 671, 673–676; [Pub. L. 99–661, div. A, title VI][/us/pl/99/661], §§ 641(b)(1), 642(a), title XIII, § 1343(a)(8)(B), Nov. 14, 1986, [100 Stat. 3885][/us/stat/100/3885], 3886, 3992; [Pub. L. 101–189, div. A, title XIV, § 1407(a)(2)][/us/pl/101/189/s1407/a/2], (3), Nov. 29, 1989, [103 Stat. 1588][/us/stat/103/1588]; [Pub. L. 103–337, div. A, title VI, § 638][/us/pl/103/337/s638], title XVI, § 1671(d)(2), Oct. 5, 1994, [108 Stat. 2791][/us/stat/108/2791], 3015; [Pub. L. 104–201, div. A, title VI, § 634][/us/pl/104/201/s634], Sept. 23, 1996, [110 Stat. 2553][/us/stat/110/2553]; [Pub. L. 105–85, div. A, title X, § 1073(a)(27)][/us/pl/105/85/s1073/a/27], Nov. 18, 1997, [111 Stat. 1901][/us/stat/111/1901]; [Pub. L. 105–261, div. A, title VI, § 643(a)][/us/pl/105/261/s643/a], Oct. 17, 1998, [112 Stat. 2047][/us/stat/112/2047]; [Pub. L. 106–65, div. A, title X, § 1066(a)(12)][/us/pl/106/65/s1066/a/12], Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 655(a)–(c)(3), title X, § 1087(a)(10)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–165, 1654A–166, 1654A–290; [Pub. L. 107–107, div. A, title VI, § 642(a)][/us/pl/107/107/s642/a], (c)(1), Dec. 28, 2001, [115 Stat. 1151][/us/stat/115/1151], 1152; [Pub. L. 108–136, div. A, title VI][/us/pl/108/136], §§ 644(a), (b), 645(a), (b)(1), (c), Nov. 24, 2003, [117 Stat. 1517–1519][/us/stat/117/1517-1519]; [Pub. L. 108–375, div. A, title X, § 1084(d)(10)][/us/pl/108/375/s1084/d/10], Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061]; [Pub. L. 109–364, div. A, title VI][/us/pl/109/364], §§ 643(a), 644(a), title X, § 1071(a)(8), Oct. 17, 2006, [120 Stat. 2260][/us/stat/120/2260], 2261, 2398; [Pub. L. 113–291, div. A, title VI, § 624(a)(2)(B)][/us/pl/113/291/s624/a/2/B], Dec. 19, 2014, [128 Stat. 3403][/us/stat/128/3403].)
+(Added [Pub. L. 92–425, § 1(3)][/us/pl/92/425/s1/3], Sept. 21, 1972, [86 Stat. 707][/us/stat/86/707]; amended [Pub. L. 94–496, § 1(2)][/us/pl/94/496/s1/2], Oct. 14, 1976, [90 Stat. 2375][/us/stat/90/2375]; [Pub. L. 95–397, title II, § 202][/us/pl/95/397/s202], Sept. 30, 1978, [92 Stat. 844][/us/stat/92/844]; [Pub. L. 97–252, title X, § 1003(b)][/us/pl/97/252/s1003/b], Sept. 8, 1982, [96 Stat. 735][/us/stat/96/735]; [Pub. L. 97–295, § 1(18)][/us/pl/97/295/s1/18], Oct. 12, 1982, [96 Stat. 1290][/us/stat/96/1290]; [Pub. L. 98–94, title IX, § 941(a)(1)][/us/pl/98/94/s941/a/1], (2), (c)(2), Sept. 24, 1983, [97 Stat. 652][/us/stat/97/652], 653; [Pub. L. 99–145, title V, § 513(b)][/us/pl/99/145/s513/b], title VII, §§ 712(a), 713(a), 715, 716(a), 719(3), (8)(A), 721(a), Nov. 8, 1985, [99 Stat. 628][/us/stat/99/628], 670, 671, 673–676; [Pub. L. 99–661, div. A, title VI][/us/pl/99/661], §§ 641(b)(1), 642(a), title XIII, § 1343(a)(8)(B), Nov. 14, 1986, [100 Stat. 3885][/us/stat/100/3885], 3886, 3992; [Pub. L. 101–189, div. A, title XIV, § 1407(a)(2)][/us/pl/101/189/s1407/a/2], (3), Nov. 29, 1989, [103 Stat. 1588][/us/stat/103/1588]; [Pub. L. 103–337, div. A, title VI, § 638][/us/pl/103/337/s638], title XVI, § 1671(d)(2), Oct. 5, 1994, [108 Stat. 2791][/us/stat/108/2791], 3015; [Pub. L. 104–201, div. A, title VI, § 634][/us/pl/104/201/s634], Sept. 23, 1996, [110 Stat. 2553][/us/stat/110/2553]; [Pub. L. 105–85, div. A, title X, § 1073(a)(27)][/us/pl/105/85/s1073/a/27], Nov. 18, 1997, [111 Stat. 1901][/us/stat/111/1901]; [Pub. L. 105–261, div. A, title VI, § 643(a)][/us/pl/105/261/s643/a], Oct. 17, 1998, [112 Stat. 2047][/us/stat/112/2047]; [Pub. L. 106–65, div. A, title X, § 1066(a)(12)][/us/pl/106/65/s1066/a/12], Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VI, § 655(a)–(c)(3), title X, § 1087(a)(10)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–165, 1654A–166, 1654A–290; [Pub. L. 107–107, div. A, title VI, § 642(a)][/us/pl/107/107/s642/a], (c)(1), Dec. 28, 2001, [115 Stat. 1151][/us/stat/115/1151], 1152; [Pub. L. 108–136, div. A, title VI][/us/pl/108/136], §§ 644(a), (b), 645(a), (b)(1), (c), Nov. 24, 2003, [117 Stat. 1517–1519][/us/stat/117/1517-1519]; [Pub. L. 108–375, div. A, title X, § 1084(d)(10)][/us/pl/108/375/s1084/d/10], Oct. 28, 2004, [118 Stat. 2061][/us/stat/118/2061]; [Pub. L. 109–364, div. A, title VI][/us/pl/109/364], §§ 643(a), 644(a), title X, § 1071(a)(8), Oct. 17, 2006, [120 Stat. 2260][/us/stat/120/2260], 2261, 2398; [Pub. L. 113–291, div. A, title VI, § 624(a)(2)(B)][/us/pl/113/291/s624/a/2/B], Dec. 19, 2014, [128 Stat. 3403][/us/stat/128/3403]; [Pub. L. 114–92, div. A, title VI, § 641(a)][/us/pl/114/92/s641/a], Nov. 25, 2015, [129 Stat. 852][/us/stat/129/852].)
 
  __Amendments__ 
+
+    2015—Subsec. (b)(7). [Pub. L. 114–92][/us/pl/114/92] added par. (7).
 
     2014—Subsec. (b)(6). [Pub. L. 113–291, § 624(a)(2)(B)(i)][/us/pl/113/291/s624/a/2/B/i], added par. (6).
 
@@ -567,6 +607,12 @@
 
     1976—Subsec. (a). [Pub. L. 94–496][/us/pl/94/496] inserted “or elects to provide an annuity for a dependent child but not for his spouse” after “maximum level”.
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–92, div. A, title VI, § 641(b)][/us/pl/114/92/s641/b], Nov. 25, 2015, [129 Stat. 853][/us/stat/129/853], provided that: 
+
+> “Paragraph (7) of [section 1448(b) of title 10][/us/usc/t10/s1448/b], United States Code, as added by subsection (a), shall apply with respect to any person whose former spouse beneficiary dies on or after the date of the enactment of this Act \[Nov. 25, 2015\].”
+
  __Effective Date of 2006 Amendment__ 
 
 [Pub. L. 109–364, div. A, title VI, § 644(b)][/us/pl/109/364/s644/b], Oct. 17, 2006, [120 Stat. 2261][/us/stat/120/2261], provided that: 
@@ -630,6 +676,32 @@
 [Pub. L. 105–85, div. A, title VI, § 645(c)][/us/pl/105/85/s645/c], Nov. 18, 1997, [111 Stat. 1801][/us/stat/111/1801], provided that: 
 
 > “The amendments made by this section \[amending [section 4(e)(1) of Pub. L. 92–425][/us/pl/92/425/s4/e/1] and [section 653(d) of Pub. L. 100–456][/us/pl/100/456/s653/d], set out below\] take effect on the first day of the first month beginning after the date of the enactment of this Act \[Nov. 18, 1997\] and shall apply with respect to payments of benefits for months beginning on or after that date, except that the Secretary of Veterans Affairs may provide, if necessary for administrative implementation, that such amendments shall apply beginning with a later month, not later than the first month beginning more than 180 days after the date of the enactment of this Act.”
+
+ __Applicability to Former Spouse Deaths Before Enactment of__  __[__  __Pub. L. 114–92__  __][/us/pl/114/92]__ 
+
+[Pub. L. 114–92, div. A, title VI, § 641(c)][/us/pl/114/92/s641/c], Nov. 25, 2015, [129 Stat. 853][/us/stat/129/853], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     A person—
+
+>         “(A) who before the date of the enactment of this Act \[Nov. 25, 2015\] had a former spouse beneficiary under the Survivor Benefit Plan who died before that date; and
+
+>         “(B) who on the date of the enactment of this Act is married,
+
+>         may elect to provide spouse coverage for such spouse under the Plan, regardless of whether the person married such spouse before or after the death of the former spouse beneficiary. Any such election may only be made during the one-year period beginning on the date of the enactment of this Act.
+
+>     “(2)  __Effective date of election if married at least a year at death former spouse__  __.—__ 
+
+>     If the person providing the annuity was married to the spouse beneficiary for at least one year at the time of the death of the former spouse beneficiary, the effective date of such election shall be the first day of the first month after the death of the former spouse beneficiary.
+
+>     “(3)  __Other effective date__  __.—__ 
+
+>     If the person providing the annuity married the spouse beneficiary after (or during the one-year period preceding) the death of the former spouse beneficiary, the effective date of the election shall be the first day of the first month following the first anniversary of the person’s marriage to the spouse beneficiary.
+
+>     “(4)  __Responsibility for premiums__  __.—__ 
+
+>     A person electing to participate in the Plan under this subsection shall be responsible for payment of all premiums due from the effective date of the election.”
 
  __Transition__ 
 
@@ -1135,6 +1207,9 @@
 [/us/stat/120/2260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2260
 [/us/pl/113/291/s624/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fa%2F2%2FB
 [/us/stat/128/3403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3403
+[/us/pl/114/92/s641/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs641%2Fa
+[/us/stat/129/852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F852
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291/s624/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fa%2F2%2FB%2Fi
 [/us/pl/113/291/s624/a/2/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fa%2F2%2FB%2Fii%2FI
 [/us/pl/113/291/s624/a/2/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs624%2Fa%2F2%2FB%2Fii%2FII
@@ -1204,6 +1279,9 @@
 [/us/pl/95/397/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397%2Fs202%2Fb
 [/us/pl/95/397/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F397%2Fs202%2Fc
 [/us/pl/94/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F496
+[/us/pl/114/92/s641/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs641%2Fb
+[/us/stat/129/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F853
+[/us/usc/t10/s1448/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fb
 [/us/pl/109/364/s644/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs644%2Fb
 [/us/stat/120/2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2261
 [/us/pl/108/136/s644/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs644%2Fc
@@ -1246,6 +1324,9 @@
 [/us/stat/111/1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1801
 [/us/pl/92/425/s4/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425%2Fs4%2Fe%2F1
 [/us/pl/100/456/s653/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456%2Fs653%2Fd
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/s641/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs641%2Fc
+[/us/stat/129/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F853
 [/us/pl/109/364/s643/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs643%2Fc
 [/us/stat/120/2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2261
 [/us/usc/t10/s1448/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448%2Fb%2F1

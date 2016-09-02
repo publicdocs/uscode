@@ -61,13 +61,27 @@
 
         (3) No person may be hired under the authority of this subsection after January 6, 2013.
 
-(Added [Pub. L. 105–85, div. A, title V, § 523(a)(1)][/us/pl/105/85/s523/a/1], Nov. 18, 1997, [111 Stat. 1736][/us/stat/111/1736]; amended [Pub. L. 106–65, div. A, title V, § 523][/us/pl/106/65/s523], Oct. 5, 1999, [113 Stat. 598][/us/stat/113/598]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IV, § 414(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–94; [Pub. L. 107–314, div. A, title IV, § 414(d)][/us/pl/107/314/s414/d], Dec. 2, 2002, [116 Stat. 2527][/us/stat/116/2527]; [Pub. L. 108–136, div. A, title IV, § 415][/us/pl/108/136/s415], Nov. 24, 2003, [117 Stat. 1453][/us/stat/117/1453]; [Pub. L. 111–383, div. A, title V, § 513][/us/pl/111/383/s513], title X, § 1075(b)(53), Jan. 7, 2011, [124 Stat. 4210][/us/stat/124/4210], 4372; [Pub. L. 112–239, div. A, title X, § 1076(e)(7)][/us/pl/112/239/s1076/e/7], (f)(45), Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951], 1955.)
+    (e)  __Phased-in Termination of Positions__  __.—__ 
+
+        (1) No individual may be newly hired or employed, or rehired or reemployed, as a non-dual status technician for the purposes of this section after December 31, 2016.
+
+        (2) Commencing January 1, 2017, the maximum number of non-dual status technicians employable by the Army Reserve and by the Air Force Reserve shall be reduced from the number otherwise provided by subsection (c)(1) by one for each individual who retires, is separated from, or otherwise ceases service as a non-dual status technician of the Army Reserve or the Air Force Reserve, as the case may be, after such date until the maximum number of non-dual status technicians employable by the Army Reserve or the Air Force Reserve, as the case may be, is zero.
+
+        (3) Commencing January 1, 2017, the maximum number of non-dual status technicians employable by the National Guard shall be reduced from the number otherwise provided by subsection (c)(2) by one for each individual who retires, is separated from, or otherwise ceases service as a non-dual status technician of the National Guard after such date until the maximum number of non-dual status technicians employable by the National Guard is zero.
+
+        (4) Any individual newly hired or employed, or rehired or employed, to a position required to be filled by reason of the amendment made by paragraph (1) shall be an individual employed in such position under [section 3101 of title 5][/us/usc/t5/s3101], and may not be a military technician.
+
+        (5) Nothing in this subsection shall be construed to terminate the status as a non-dual status technician under this section after December 31, 2016, of any individual who is a non-dual status technician for the purposes of this section on that date.
+
+(Added [Pub. L. 105–85, div. A, title V, § 523(a)(1)][/us/pl/105/85/s523/a/1], Nov. 18, 1997, [111 Stat. 1736][/us/stat/111/1736]; amended [Pub. L. 106–65, div. A, title V, § 523][/us/pl/106/65/s523], Oct. 5, 1999, [113 Stat. 598][/us/stat/113/598]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IV, § 414(c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–94; [Pub. L. 107–314, div. A, title IV, § 414(d)][/us/pl/107/314/s414/d], Dec. 2, 2002, [116 Stat. 2527][/us/stat/116/2527]; [Pub. L. 108–136, div. A, title IV, § 415][/us/pl/108/136/s415], Nov. 24, 2003, [117 Stat. 1453][/us/stat/117/1453]; [Pub. L. 111–383, div. A, title V, § 513][/us/pl/111/383/s513], title X, § 1075(b)(53), Jan. 7, 2011, [124 Stat. 4210][/us/stat/124/4210], 4372; [Pub. L. 112–239, div. A, title X, § 1076(e)(7)][/us/pl/112/239/s1076/e/7], (f)(45), Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951], 1955; [Pub. L. 114–92, div. A, title X, § 1053(b)(1)][/us/pl/114/92/s1053/b/1], Nov. 25, 2015, [129 Stat. 981][/us/stat/129/981].)
 
  __References in Text__ 
 
     Section 8016 of the Department of Defense Appropriations Act, 1996 ([Public Law 104–61][/us/pl/104/61]; [109 Stat. 654][/us/stat/109/654]), referred to in subsec. (b)(4), was set out as a note under [section 10101 of this title][/us/usc/t10/s10101] prior to repeal by [Pub. L. 105–85, div. A, title V, § 522(e)][/us/pl/105/85/s522/e], Nov. 18, 1997, [111 Stat. 1735][/us/stat/111/1735].
 
  __Amendments__ 
+
+    2015—Subsec. (e). [Pub. L. 114–92][/us/pl/114/92] added subsec. (e).
 
     2013—Subsec. (c)(3). [Pub. L. 112–239, § 1076(f)(45)][/us/pl/112/239/s1076/f/45], substituted “considered” for “consider”.
 
@@ -152,6 +166,7 @@
 [/us/stat/109/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F654
 [/us/usc/t10/s10218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10218
 [/us/usc/t10/s10216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10216
+[/us/usc/t5/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3101
 [/us/pl/105/85/s523/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs523%2Fa%2F1
 [/us/stat/111/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1736
 [/us/pl/106/65/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs523
@@ -166,11 +181,14 @@
 [/us/stat/124/4210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4210
 [/us/pl/112/239/s1076/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fe%2F7
 [/us/stat/126/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1951
+[/us/pl/114/92/s1053/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1053%2Fb%2F1
+[/us/stat/129/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F981
 [/us/pl/104/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F61
 [/us/stat/109/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F654
 [/us/usc/t10/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10101
 [/us/pl/105/85/s522/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs522%2Fe
 [/us/stat/111/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1735
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/239/s1076/f/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F45
 [/us/pl/112/239/s1076/e/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fe%2F7
 [/us/pl/111/383/s513/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs513%2Fa%2F1

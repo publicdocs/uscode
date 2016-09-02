@@ -375,55 +375,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Annual Submission of Information Regarding Information Technology Capital Assets__ 
 
-[Pub. L. 107–314, div. A, title III, § 351][/us/pl/107/314/s351], Dec. 2, 2002, [116 Stat. 2516][/us/stat/116/2516], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1051, Oct. 14, 2008, [122 Stat. 4604][/us/stat/122/4604]; [Pub. L. 113–66, div. A, title III, § 333][/us/pl/113/66/s333], Dec. 26, 2013, [127 Stat. 739][/us/stat/127/739], provided that:
-
->     “(a)  __Requirement To Submit Information__  __.—__ 
-
->     Not later than 30 days after the date on which the President submits the budget for a fiscal year to Congress pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code, the Secretary of Defense shall submit to Congress information on the following information technology capital assets, including information technology capital assets that are a national security system, of the Department of Defense:
-
->         “(1) Information technology capital assets that have an estimated total cost for the fiscal year for which the budget is submitted (as computed in fiscal year 2000 constant dollars) in excess of $32,000,000 or an estimated total cost for the future-years defense program for which the budget is submitted (as computed in fiscal year 2000 constant dollars) in excess of $378,000,000, for all expenditures, for all increments, regardless of the appropriation and fund source, directly related to the assets definition, design, development, deployment, sustainment, and disposal.
-
->         “(2) Information technology capital assets not covered by paragraph (1) that have been determined by the Chief Information Officer of the Department of Defense to be significant investments.
-
->     “(b)  __Required Information For High-Threshold Assets__  __.—__ 
-
->     With respect to each information technology capital asset described in subsection (a)(1), the Secretary of Defense shall include the following information:
-
->         “(1) The name and identifying acronym of the information technology capital asset.
-
->         “(2) The date of initiation of the asset.
-
->         “(3) A summary of performance measurements and metrics.
-
->         “(4) The total amount of funds, by appropriation account, appropriated and obligated for prior fiscal years, with a specific breakout of such information for the two preceding fiscal years.
-
->         “(5) The funds, by appropriation account, requested for the next fiscal year.
-
->         “(6) The name of each prime contractor and the work to be performed.
-
->         “(7) Program management and management oversight information.
-
->         “(8) The original baseline cost and most current baseline information.
-
->         “(9) Information regarding compliance with the provisions of law enacted or amended by the Government Performance Results Act of 1993 ([Public Law 103–62][/us/pl/103/62]; [107 Stat. 285][/us/stat/107/285]) \[see Short Title of 1993 Amendment note under [31 U.S.C. 1101][/us/usc/t31/s1101]\] and the Clinger–Cohen Act of 1996 (divisions D and E of [Public Law 104–106][/us/pl/104/106]; [110 Stat. 642][/us/stat/110/642]) \[§§ 5001–5703 and §§ 4001–4402, see Tables for classification\].
-
->     “(c)  __Required Information for Significant Investments__  __.—__ 
-
->     With respect to each information technology capital asset not covered by paragraph (1) of subsection (a), but covered by paragraph (2) of that subsection, the Secretary of Defense shall include such information in a format that is appropriate to the current status of such asset.
-
->     “(d)  __Total Cost Determinations__  __.—__ 
-
->     In estimating the total cost for a fiscal year or total cost of an information technology capital asset, the Secretary of Defense shall consider research and development costs, procurement costs, and operation and maintenance costs related to the information technology capital asset.
-
->     “(e)  __Definitions__  __.—__ 
-
->     In this section:
-
->         “(1) The term ‘information technology’ has the meaning given that term in [section 11101 of title 40][/us/usc/t40/s11101], United States Code.
-
->         “(2) The term ‘capital asset’ has the meaning given that term in Office of Management and Budget Circular A–11.
-
->         “(3) The term ‘national security system’ has the meaning given that term in [section 11103 of title 40][/us/usc/t40/s11103], United States Code.”
+    [Pub. L. 107–314, div. A, title III, § 351][/us/pl/107/314/s351], Dec. 2, 2002, [116 Stat. 2516][/us/stat/116/2516], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1051, Oct. 14, 2008, [122 Stat. 4604][/us/stat/122/4604]; [Pub. L. 113–66, div. A, title III, § 333][/us/pl/113/66/s333], Dec. 26, 2013, [127 Stat. 739][/us/stat/127/739], which related to annual submission of information regarding information technology capital assets, was repealed by [Pub. L. 114–92, div. A, title X, § 1079(h)][/us/pl/114/92/s1079/h], Nov. 25, 2015, [129 Stat. 1000][/us/stat/129/1000].
 
  __Department of Defense Requests for Funds for Environmental Restoration at BRAC Sites in Future Fiscal Years__ 
 
@@ -681,14 +633,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/122/4604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4604
 [/us/pl/113/66/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs333
 [/us/stat/127/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F739
-[/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
-[/us/stat/107/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F285
-[/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
-[/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/stat/110/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F642
-[/us/usc/t40/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101
-[/us/usc/t40/s11103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11103
+[/us/pl/114/92/s1079/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1079%2Fh
+[/us/stat/129/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1000
 [/us/pl/107/249/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F249%2Fs131
 [/us/stat/116/1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1586
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptI/ch21/schI/m__us_usc_t10_s429.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptI/ch21/schII/m__us_usc_t10_stA_ptI_ch21_schII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs430)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptI/ch21/schI/m__us_usc_t10_s429.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptI/ch21/schI/m__us_usc_t10_s430a.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs430)
 
 ## § 430. Tactical Exploitation of National Capabilities Executive Agent
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptI/ch21/schI/m__us_usc_t10_s429.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptI/ch21/schII/m__us_usc_t10_stA_ptI_ch21_schII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs430)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptI/ch21/schI/m__us_usc_t10_s429.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptI/ch21/schI/m__us_usc_t10_s430a.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs430)
 
 ----------
 ----------

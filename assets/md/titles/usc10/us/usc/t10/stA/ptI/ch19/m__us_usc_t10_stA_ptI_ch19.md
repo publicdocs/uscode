@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch18/m__us_usc_t10_s382.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch19/m__us_usc_t10_s391.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch19)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch18/m__us_usc_t10_s383.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch19/m__us_usc_t10_s391.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch19)
 
 #### CHAPTER 19—CYBER MATTERS
 
@@ -27,7 +27,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs391" data-uslm-ref="/us/usc/t10/s391">391.</a>  </td>
 
-    <td> Reporting on cyber incidents with respect to networks and information systems of operationally critical contractors. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
+    <td> Reporting on cyber incidents with respect to networks and information systems of operationally critical contractors and certain other contractors.  </td>
 
   </tr>
 
@@ -39,19 +39,31 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs393" data-uslm-ref="/us/usc/t10/s393">393.</a>  </td>
+
+    <td> Reporting on penetrations of networks and information systems of certain contractors.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92, div. A, title X, § 1081(a)(4)][/us/pl/114/92/s1081/a/4], title XVI, § 1641(c)(2), Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001], 1116, added item 393 and substituted “Reporting on cyber incidents with respect to networks and information systems of operationally critical contractors and certain other contractors” for “Reporting on cyber incidents with respect to networks and information systems of operationally critical contractors” in item 391.
 
     2014—[Pub. L. 113–291, div. A, title XVI, § 1633(d)][/us/pl/113/291/s1633/d], Dec. 19, 2014, [128 Stat. 3643][/us/stat/128/3643], added item 392.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch18/m__us_usc_t10_s382.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch19/m__us_usc_t10_s391.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch19)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch18/m__us_usc_t10_s383.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch19/m__us_usc_t10_s391.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch19)
 
 ----------
 ----------
 
+[/us/pl/114/92/s1081/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F4
+[/us/stat/129/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1001
 [/us/pl/113/291/s1633/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1633%2Fd
 [/us/stat/128/3643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3643
 

@@ -521,6 +521,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1095g" data-uslm-ref="/us/usc/t10/s1095g">1095g.</a>  </td>
+
+    <td> TRICARE program: waiver of recoupment of erroneous payments caused by administrative error.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1096" data-uslm-ref="/us/usc/t10/s1096">1096.</a>  </td>
 
     <td> Military-civilian health services partnership program.  </td>
@@ -699,6 +707,8 @@
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–92, div. A, title VII, § 711(b)][/us/pl/114/92/s711/b], Nov. 25, 2015, [129 Stat. 864][/us/stat/129/864], added item 1095g.
+
     2014—[Pub. L. 113–291, div. A, title VII][/us/pl/113/291], §§ 701(a)(2), 704(b), 711(b), Dec. 19, 2014, [128 Stat. 3408][/us/stat/128/3408], 3413, 3414, added items 1074n, 1079c, and 1097d.
 
     2011—[Pub. L. 112–81, div. A, title VII][/us/pl/112/81], §§ 702(a)(2), 704(b), 711(a)(2), Dec. 31, 2011, [125 Stat. 1471][/us/stat/125/1471], 1473, 1476, added items 1074m, 1078b, and 1090a.
@@ -782,6 +792,8 @@
 ----------
 ----------
 
+[/us/pl/114/92/s711/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs711%2Fb
+[/us/stat/129/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F864
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/stat/128/3408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3408
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81

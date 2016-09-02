@@ -277,6 +277,12 @@
 
 >     If the Secretary of Defense prescribes an effective date for [section 987 of title 10][/us/usc/t10/s987], United States Code, as added by subsection (a), earlier than October 1, 2007, the Secretary shall publish that date in the Federal Register. Such publication shall be made not less than 90 days before that earlier effective date.”
 
+ __Meetings With Private Sector Users of Systems__ 
+
+[Pub. L. 114–92, div. A, title V, § 594(b)(3)][/us/pl/114/92/s594/b/3], Nov. 25, 2015, [129 Stat. 834][/us/stat/129/834], provided that: 
+
+> “The Director of the Defense Manpower Data Center shall meet regularly with private sector users of Defense Manpower Data Center systems used to identify covered borrowers and covered policyholders under military consumer protection laws to learn about issues facing such users and to develop ways of addressing such issues. The first meeting pursuant to this requirement shall take place with three months after the date of the enactment of this Act \[Nov. 25, 2015\].”
+
  __Interim Regulations__ 
 
 [Pub. L. 109–364, div. A, title VI, § 670(d)][/us/pl/109/364/s670/d], Oct. 17, 2006, [120 Stat. 2269][/us/stat/120/2269], provided that: 
@@ -321,6 +327,8 @@
 [/us/stat/120/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2269
 [/us/usc/t10/s987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs987
 [/us/usc/t10/s987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs987
+[/us/pl/114/92/s594/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs594%2Fb%2F3
+[/us/stat/129/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F834
 [/us/pl/109/364/s670/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs670%2Fd
 [/us/stat/120/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2269
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553

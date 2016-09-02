@@ -55,15 +55,17 @@
 
     (d)  __Annual Certification__  __.—__ 
 
-        (1) Not later than the date of the submission of the President’s budget request for a fiscal year under [section 1105 of title 31][/us/usc/t31/s1105], the Secretary of Defense shall submit to the congressional defense committees certification  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “a certification”. </sup></sup>  in writing that the prepositioned stocks of each of the military departments meet all operations plans, in both fill and readiness, that are in effect as of the date of the submission of the certification.
+        (1) Not later than the date of the submission of the President’s budget request for a fiscal year under [section 1105 of title 31][/us/usc/t31/s1105], the Secretary of Defense shall submit to the congressional defense committees a certification in writing that the prepositioned stocks of each of the military departments meet all operations plans, in both fill and readiness, that are in effect as of the date of the submission of the certification.
 
         (2) If, for any year, the Secretary cannot certify that any of the prepositioned stocks meet such operations plans, the Secretary shall include with the certification for that year a list of the operations plans affected, a description of any measures that have been taken to mitigate any risk associated with prepositioned stock shortfalls, and an anticipated timeframe for the replenishment of the stocks.
 
         (3) A certification under this subsection shall be in an unclassified form but may have a classified annex.
 
-(Added [Pub. L. 109–364, div. A, title III, § 351(a)][/us/pl/109/364/s351/a], Oct. 17, 2006, [120 Stat. 2160][/us/stat/120/2160]; amended [Pub. L. 112–81, div. A, title III, § 341(a)][/us/pl/112/81/s341/a], Dec. 31, 2011, [125 Stat. 1369][/us/stat/125/1369]; [Pub. L. 113–66, div. A, title III, § 321(a)][/us/pl/113/66/s321/a], Dec. 26, 2013, [127 Stat. 730][/us/stat/127/730]; [Pub. L. 113–291, div. A, title III, § 322][/us/pl/113/291/s322], Dec. 19, 2014, [128 Stat. 3343][/us/stat/128/3343].)
+(Added [Pub. L. 109–364, div. A, title III, § 351(a)][/us/pl/109/364/s351/a], Oct. 17, 2006, [120 Stat. 2160][/us/stat/120/2160]; amended [Pub. L. 112–81, div. A, title III, § 341(a)][/us/pl/112/81/s341/a], Dec. 31, 2011, [125 Stat. 1369][/us/stat/125/1369]; [Pub. L. 113–66, div. A, title III, § 321(a)][/us/pl/113/66/s321/a], Dec. 26, 2013, [127 Stat. 730][/us/stat/127/730]; [Pub. L. 113–291, div. A, title III, § 322][/us/pl/113/291/s322], Dec. 19, 2014, [128 Stat. 3343][/us/stat/128/3343]; [Pub. L. 114–92, div. A, title X, § 1081(a)(8)][/us/pl/114/92/s1081/a/8], Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001].)
 
  __Amendments__ 
+
+    2015—Subsec. (d)(1). [Pub. L. 114–92][/us/pl/114/92] substituted “a certification in writing” for “certification in writing”.
 
     2014—Subsec. (a)(1). [Pub. L. 113–291][/us/pl/113/291] inserted “support for crisis response elements,” after “service requirements,”.
 
@@ -161,6 +163,9 @@
 [/us/stat/127/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F730
 [/us/pl/113/291/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs322
 [/us/stat/128/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3343
+[/us/pl/114/92/s1081/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F8
+[/us/stat/129/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1001
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81

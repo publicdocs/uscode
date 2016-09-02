@@ -13,13 +13,13 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptII/ch50/m__us_usc_t10_s991.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch50/m__us_usc_t10_s6.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs992)
 
-## § 992. Consumer education: financial services
+## § 992. Financial literacy training: financial services
 
-    (a)  __Requirement for Consumer Education Program for Members__  __.—__ 
+    (a)  __Requirement for Financial Literacy Training Program for Members__  __.—__ 
 
         (1)
 
-         The Secretary concerned shall carry out a program to provide comprehensive education to members of the armed forces under the jurisdiction of the Secretary on—
+         The Secretary concerned shall carry out a program to provide comprehensive financial literacy training to members of the armed forces under the jurisdiction of the Secretary on—
 
             (A) financial services that are available under law to members;
 
@@ -33,13 +33,51 @@
 
         (2)
 
-         Training under this subsection shall be provided to members as—
+         Training under this subsection shall be provided to a member of the armed forces—
 
-            (A) a component of members initial entry orientation training; and
+            (A) as a component of the initial entry training of the member;
 
-            (B) a component of periodically recurring required training that is provided for the members at military installations.
+            (B) upon arrival at the first duty station of the member;
 
-        (3) The training provided at a military installation under paragraph (2)(B) shall include information on any financial services marketing practices that are particularly prevalent at that military installation and in the vicinity.
+            (C) upon arrival at each subsequent duty station, in the case of a member in pay grade E–4 or below or in pay grade O–3 or below;
+
+            (D) on the date of promotion of the member, in the case of a member in pay grade E–5 or below or in pay grade O–4 or below;
+
+            (E) when the member vests in the Thrift Savings Plan (TSP) under [section 8432(g)(2)(C) of title 5][/us/usc/t5/s8432/g/2/C];
+
+            (F) when the member becomes entitled to receive continuation pay under [section 356 of title 37][/us/usc/t37/s356], at which time the training shall include, at a minimum, information on options available to the member regarding the use of continuation pay;
+
+            (G)
+
+             at each major life event during the service of the member, such as—
+
+                (i) marriage;
+
+                (ii) divorce;
+
+                (iii) birth of first child; or
+
+                (iv) disabling sickness or condition;
+
+            (H) during leadership training;
+
+            (I) during pre-deployment training and during post-deployment training;
+
+            (J)
+
+             at transition points in the service of the member, such as—
+
+                (i) transition from a regular component to a reserve component;
+
+                (ii) separation from service; or
+
+                (iii) retirement; and
+
+            (K) as a component of periodically recurring required training that is provided to the member at a military installation.
+
+        (3) The training provided at a military installation under paragraph (2)(J) shall include information on any financial services marketing practices that are particularly prevalent at that military installation and in the vicinity.
+
+        (4) The Secretary concerned shall prescribe regulations setting forth any other events and circumstances (in addition to the events and circumstances described in paragraph (2)) upon which the training required by this subsection shall be provided.
 
     (b)  __Counseling for Members and Spouses__  __.—__ 
 
@@ -73,7 +111,19 @@
 
     In counseling a member of the armed forces, or spouse of a member of the armed forces, under this section regarding life insurance offered by a private sector source, a financial services counselor under subsection (b)(2)(A)(i), or another individual providing counseling on financial services under subsection (b)(2), shall furnish the member or spouse, as the case may be, with information on the availability of Servicemembers’ Group Life Insurance under subchapter III of chapter 19 of title 38, including information on the amounts of coverage available and the procedures for electing coverage and the amount of coverage.
 
-    (d)  __Financial Services Defined__  __.—__ 
+    (d)  __Financial Literacy and Preparedness Survey__  __.—__ 
+
+        (1) The Director of the Defense Manpower Data Center shall annually include in the status of forces survey a survey of the status of the financial literacy and preparedness of members of the armed forces.
+
+        (2)
+
+         The results of the annual financial literacy and preparedness survey—
+
+            (A) shall be used by each of the Secretaries concerned as a benchmark to evaluate and update training provided under this section; and
+
+            (B) shall be submitted to the Committees on Armed Services of the Senate and the House of Representatives.
+
+    (e)  __Financial Services Defined__  __.—__ 
 
     In this section, the term “financial services” includes the following:
 
@@ -83,9 +133,33 @@
 
         (3) Banking, credit, loans, deferred payment plans, and mortgages.
 
-(Added [Pub. L. 109–163, div. A, title V, § 578(a)(1)][/us/pl/109/163/s578/a/1], Jan. 6, 2006, [119 Stat. 3274][/us/stat/119/3274]; amended [Pub. L. 111–84, div. A, title X, § 1073(a)(8)][/us/pl/111/84/s1073/a/8], Oct. 28, 2009, [123 Stat. 2472][/us/stat/123/2472].)
+        (4) Health insurance, budget management, Thrift Savings Plan (TSP), retirement lump sum payments (including rollover options and tax consequences), and Survivor Benefit Plan (SBP).
+
+(Added [Pub. L. 109–163, div. A, title V, § 578(a)(1)][/us/pl/109/163/s578/a/1], Jan. 6, 2006, [119 Stat. 3274][/us/stat/119/3274]; amended [Pub. L. 111–84, div. A, title X, § 1073(a)(8)][/us/pl/111/84/s1073/a/8], Oct. 28, 2009, [123 Stat. 2472][/us/stat/123/2472]; [Pub. L. 114–92, div. A, title VI, § 661(b)][/us/pl/114/92/s661/b]–(e)(1), Nov. 25, 2015, [129 Stat. 857][/us/stat/129/857], 858.)
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92, § 661(e)(1)][/us/pl/114/92/s661/e/1], substituted “Financial literacy training: financial services” for “Consumer education: financial services” in section catchline.
+
+    Subsec. (a). [Pub. L. 114–92, § 661(b)(1)][/us/pl/114/92/s661/b/1], substituted “Financial Literacy Training” for “Consumer Education” in heading.
+
+    Subsec. (a)(1). [Pub. L. 114–92, § 661(b)(2)][/us/pl/114/92/s661/b/2], substituted “financial literacy training” for “education” in introductory provisions.
+
+    Subsec. (a)(2). [Pub. L. 114–92, § 661(b)(3)][/us/pl/114/92/s661/b/3], added par. (2) and struck out former par. (2) which read as follows: “Training under this subsection shall be provided to members as—
+
+    “(A) a component of members initial entry orientation training; and
+
+    “(B) a component of periodically recurring required training that is provided for the members at military installations.”
+
+    Subsec. (a)(3). [Pub. L. 114–92, § 661(b)(4)][/us/pl/114/92/s661/b/4], substituted “paragraph (2)(J)” for “paragraph (2)(B)”.
+
+    Subsec. (a)(4). [Pub. L. 114–92, § 661(b)(5)][/us/pl/114/92/s661/b/5], added par. (4).
+
+    Subsec. (d). [Pub. L. 114–92, § 661(c)(2)][/us/pl/114/92/s661/c/2], added subsec. (d). Former subsec. (d) redesignated (e).
+
+    Subsec. (e). [Pub. L. 114–92, § 661(c)(1)][/us/pl/114/92/s661/c/1], redesignated subsec. (d) as (e).
+
+    Subsec. (e)(4). [Pub. L. 114–92, § 661(d)][/us/pl/114/92/s661/d], added par. (4).
 
     2009—Subsec. (b)(4). [Pub. L. 111–84][/us/pl/111/84] struck out period after “under this section”.
 
@@ -94,6 +168,12 @@
 [Pub. L. 109–163, div. A, title V, § 578(b)][/us/pl/109/163/s578/b], Jan. 6, 2006, [119 Stat. 3276][/us/stat/119/3276], provided that: 
 
 > “The amendments made by this section \[enacting this section\] shall take effect on the first day of the first month that begins more than 120 days after the date of the enactment of this Act \[Jan. 6, 2006\].”
+
+ __Implementations__ 
+
+[Pub. L. 114–92, div. A, title VI, § 661(f)][/us/pl/114/92/s661/f], Nov. 25, 2015, [129 Stat. 859][/us/stat/129/859], provided that: 
+
+> “Not later than six months after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of the military department concerned and the Secretary of the Department in which the Coast Guard is operating shall commence providing financial literacy training under [section 992 of title 10][/us/usc/t10/s992], United States Code, as amended by subsections (b), (c), and (d) of this section, to members of the Armed Forces.”
 
  __Counseling on Mortgage Foreclosures for Members of the Armed Forces Returning From Service Abroad__ 
 
@@ -218,13 +298,29 @@
 ----------
 ----------
 
+[/us/usc/t5/s8432/g/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432%2Fg%2F2%2FC
+[/us/usc/t37/s356]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs356
 [/us/pl/109/163/s578/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs578%2Fa%2F1
 [/us/stat/119/3274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3274
 [/us/pl/111/84/s1073/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fa%2F8
 [/us/stat/123/2472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2472
+[/us/pl/114/92/s661/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Fb
+[/us/stat/129/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F857
+[/us/pl/114/92/s661/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Fe%2F1
+[/us/pl/114/92/s661/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Fb%2F1
+[/us/pl/114/92/s661/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Fb%2F2
+[/us/pl/114/92/s661/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Fb%2F3
+[/us/pl/114/92/s661/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Fb%2F4
+[/us/pl/114/92/s661/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Fb%2F5
+[/us/pl/114/92/s661/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Fc%2F2
+[/us/pl/114/92/s661/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Fc%2F1
+[/us/pl/114/92/s661/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Fd
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/109/163/s578/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs578%2Fb
 [/us/stat/119/3276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3276
+[/us/pl/114/92/s661/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Ff
+[/us/stat/129/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F859
+[/us/usc/t10/s992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs992
 [/us/pl/110/289/s2202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2Fs2202
 [/us/stat/122/2849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2849
 [/us/pl/109/290]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F290

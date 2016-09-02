@@ -105,6 +105,44 @@
 
     Amendment by [Pub. L. 108–178][/us/pl/108/178] effective Aug. 21, 2002, see [section 5 of Pub. L. 108–178][/us/pl/108/178/s5], set out as a note under [section 5334 of Title 5][/us/usc/t5/s5334], Government Organization and Employees.
 
+ __Designation of Military Department Entity Responsible for Acquisition of Critical Cyber Capabilities__ 
+
+[Pub. L. 114–92, div. A, title XVI, § 1645][/us/pl/114/92/s1645], Nov. 25, 2015, [129 Stat. 1117][/us/stat/129/1117], provided that:
+
+>     “(a) __Designation.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 90 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall designate an entity within a military department to be responsible for the acquisition of each critical cyber capability described in paragraph (2).
+
+>         “(2)  __Critical cyber capabilities described__  __.—__ 
+
+>         The critical cyber capabilities described in this paragraph are the cyber capabilities that the Secretary considers critical to the mission of the Department of Defense, including the following:
+
+>             “(A) The Unified Platform described in the Department of Defense document titled ‘The Department of Defense Cyber Strategy’ dated April 15, 2015.
+
+>             “(B) A persistent cyber training environment.
+
+>             “(C) A cyber situational awareness and battle management system.
+
+>     “(b) __Report.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 90 days after the date of the enactment of this Act, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report containing the information described in paragraph (2).
+
+>         “(2)  __Contents__  __.—__ 
+
+>         The report under paragraph (1) shall include the following with respect to the critical cyber capabilities described in subsection (a)(2):
+
+>             “(A) Identification of each critical cyber capability and the entity of a military department responsible for the acquisition of the capability.
+
+>             “(B) Estimates of the funding requirements and acquisition timelines for each critical cyber capability.
+
+>             “(C) An explanation of whether critical cyber capabilities could be acquired more quickly with changes to acquisition authorities.
+
+>             “(D) Such recommendations as the Secretary may have for legislation or administrative action to improve the acquisition of, or to acquire more quickly, the critical cyber capabilities for which designations are made under subsection (a).”
+
  __Competition in Connection With Department of Defense Tactical Data Link Systems__ 
 
 [Pub. L. 112–239, div. A, title IX, § 934][/us/pl/112/239/s934], Jan. 2, 2013, [126 Stat. 1885][/us/stat/126/1885], as amended by [Pub. L. 113–66, div. A, title IX, § 931][/us/pl/113/66/s931], Dec. 26, 2013, [127 Stat. 829][/us/stat/127/829], provided that:
@@ -337,6 +375,8 @@
 [/us/pl/108/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178
 [/us/pl/108/178/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F178%2Fs5
 [/us/usc/t5/s5334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5334
+[/us/pl/114/92/s1645]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1645
+[/us/stat/129/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1117
 [/us/pl/112/239/s934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs934
 [/us/stat/126/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1885
 [/us/pl/113/66/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs931

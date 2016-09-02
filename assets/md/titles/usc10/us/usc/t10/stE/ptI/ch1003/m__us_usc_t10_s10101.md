@@ -147,49 +147,17 @@
 
  __Yellow Ribbon Reintegration Program__ 
 
-[Pub. L. 111–84, div. A, title V, § 597(b)][/us/pl/111/84/s597/b], Oct. 28, 2009, [123 Stat. 2344][/us/stat/123/2344], provided that: 
+    [Pub. L. 111–84, div. A, title V, § 597(b)][/us/pl/111/84/s597/b], Oct. 28, 2009, [123 Stat. 2344][/us/stat/123/2344], which related to annual reports on the Yellow Ribbon Reintegration Program, was repealed by [Pub. L. 114–92, div. A, title X, § 1072(d)(2)][/us/pl/114/92/s1072/d/2], Nov. 25, 2015, [129 Stat. 995][/us/stat/129/995].
 
-> “The annual reports on the Yellow Ribbon Reintegration Program under section 582 of the National Defense Authorization Act for Fiscal Year 2008 ([Public Law 110–181][/us/pl/110/181]; [122 Stat. 122][/us/stat/122/122]; [10 U.S.C. 10101][/us/usc/t10/s10101] note) that are submitted under subsection (e)(4) of such section after the date of the enactment of this Act \[Oct. 28, 2009\] shall include the following:
-
->     “(1)
-
->      In the first such annual report submitted after the date of the enactment of this Act—
-
->         “(A)
-
->          a description and assessment of the implementation of the Yellow Ribbon Reintegration Program in fiscal year 2009, including—
-
->             “(i) an assessment of best practices from pilot programs offered by various States to provide services to supplement the services available through the Yellow Ribbon Reintegration Program; and
-
->             “(ii) an assessment of the feasibility of incorporating such practices into the Yellow Ribbon Reintegration Program; and
-
->         “(B) current plans for the further implementation of the Yellow Ribbon Reintegration Program during fiscal year 2010.
-
->     “(2) A list of the accounts (including accounts of the military departments and accounts for the Office of the Secretary of Defense) from which funds for the Yellow Ribbon Reintegration Program were derived during the most recent fiscal year, and an explanation why such accounts were the source of funding for programs and activities under the Yellow Ribbon Reintegration Program.
-
->     “(3) An assessment of the extent to which funding for the Yellow Ribbon Reintegration Program during the most recent fiscal year supported robust joint programs that provided reintegration and support services to members of the National Guard and Reserves and their families regardless of Armed Force with which served.
-
->     “(4) An assessment of the extent to which programs and activities under the Yellow Ribbon Reintegration Program during the preceding year were coordinating closely with appropriate programs and activities of the Department of Veterans Affairs.
-
->     “(5) A description of current strategies to mitigate difficulties in sustaining attendance at events under the Yellow Ribbon Reintegration Program, and an explanation why funds, if any, that are available for the Yellow Ribbon Reintegration Program but remain unexpended have not been used for the Yellow Ribbon Reintegration Program.”
-
-[Pub. L. 110–181, div. A, title V, § 582][/us/pl/110/181/s582], Jan. 28, 2008, [122 Stat. 122][/us/stat/122/122], as amended by [Pub. L. 111–84, div. A, title V, § 595][/us/pl/111/84/s595], Oct. 28, 2009, [123 Stat. 2338][/us/stat/123/2338]; [Pub. L. 111–383, div. A, title V, § 583][/us/pl/111/383/s583], Jan. 7, 2011, [124 Stat. 4228][/us/stat/124/4228]; [Pub. L. 112–81, div. A, title V, § 590][/us/pl/112/81/s590], Dec. 31, 2011, [125 Stat. 1438][/us/stat/125/1438]; [Pub. L. 112–239, div. A, title V, § 581(b)][/us/pl/112/239/s581/b], Jan. 2, 2013, [126 Stat. 1766][/us/stat/126/1766], provided that:
+[Pub. L. 110–181, div. A, title V, § 582][/us/pl/110/181/s582], Jan. 28, 2008, [122 Stat. 122][/us/stat/122/122], as amended by [Pub. L. 111–84, div. A, title V, § 595][/us/pl/111/84/s595], Oct. 28, 2009, [123 Stat. 2338][/us/stat/123/2338]; [Pub. L. 111–383, div. A, title V, § 583][/us/pl/111/383/s583], Jan. 7, 2011, [124 Stat. 4228][/us/stat/124/4228]; [Pub. L. 112–81, div. A, title V, § 590][/us/pl/112/81/s590], Dec. 31, 2011, [125 Stat. 1438][/us/stat/125/1438]; [Pub. L. 112–239, div. A, title V, § 581(b)][/us/pl/112/239/s581/b], Jan. 2, 2013, [126 Stat. 1766][/us/stat/126/1766]; [Pub. L. 114–92, div. A, title V, § 551][/us/pl/114/92/s551], title X, § 1072(d)(1), Nov. 25, 2015, [129 Stat. 820][/us/stat/129/820], 995, provided that:
 
 >     “(a)  __Establishment of Program__  __.—__ 
 
->     The Secretary of Defense shall establish a national combat veteran reintegration program to provide National Guard and Reserve members and their families with sufficient information, services, referral, and proactive outreach opportunities throughout the entire deployment cycle. This program shall be known as the Yellow Ribbon Reintegration Program.
+>     The Secretary of Defense shall establish a national reintegration program to provide eligible individuals with sufficient information, services, referral, and proactive outreach opportunities. This program shall be known as the Yellow Ribbon Reintegration Program.
 
->     “(b)  __Purpose of Program; Deployment Cycle__  __.—__ 
+>     “(b)  __Purpose of Program__  __.—__ 
 
->     The Yellow Ribbon Reintegration Program shall consist of informational events and activities (including programs of outreach) for members of the reserve components of the Armed Forces, their families, and community members to facilitate access to services supporting their health and well-being through the 4 phases of the deployment cycle:
-
->         “(1) Pre-Deployment.
-
->         “(2) Deployment.
-
->         “(3) Demobilization.
-
->         “(4) Post-Deployment-Reconstitution.
+>     The Yellow Ribbon Reintegration Program shall consist of informational events and activities (including programs of outreach) for eligible individuals and community members to facilitate access to services supporting their health and well-being.
 
 >     “(c)  __Executive Agent__  __.—__ 
 
@@ -205,7 +173,7 @@
 
 >             “(B)  __Partnerships and access__  __.—__ 
 
->             The office may enter into partnerships with other public entities, including the Department of Health and Human Services, Substance Abuse and the Mental Health Services Administration and the Department of Veterans Affairs, for access to necessary substance abuse and mental health treatment services from local State-licensed service providers. Service and State-based programs may provide access to curriculum, training, and support for services to members and families from all components.
+>             The office may enter into partnerships with other public entities, including the Department of Health and Human Services, Substance Abuse and Mental Health Services Administration and the Department of Veterans Affairs, for access to necessary substance abuse, mental health treatment, and other quality of life services from local State-licensed service providers. Service and State-based programs may provide access to curriculum, training, and support for services to members and families from all components.
 
 >         “(2)  __Center for excellence in reintegration__  __.—__ 
 
@@ -215,9 +183,13 @@
 
 >             “(B) To assist in developing training aids and briefing materials and training representatives from State National Guard and Reserve organizations.
 
->             “(C) To develop and implement a process for evaluating the effectiveness of the Yellow Ribbon Reintegration Program in supporting the health and well-being of members of the Armed Forces and their families throughout the deployment cycle described in subsection (g).
+>             “(C) To develop and implement a process for evaluating the effectiveness of the Yellow Ribbon Reintegration Program in supporting the health and well-being of eligible individuals.
 
 >             “(D) To develop and implement a process for identifying best practices in the delivery of information and services in programs of outreach as described in subsection (j).
+
+>         “(3)  __Grants__  __.—__ 
+
+>         The Office for Reintegration Programs may make grants to conduct data collection, trend analysis, and curriculum development and to prepare reports in support of activities under this section.
 
 >     “(e) __Advisory Board.—__ 
 
@@ -239,11 +211,7 @@
 
 >             “(C) recommendations regarding closer coordination between the Office of Reintegration Programs and State National Guard and Reserve organizations.
 
->         “(4)  __Annual reports__  __.—__ 
-
->         The advisory board shall submit annual reports to the Committees on Armed Services of the Senate and the House of Representatives following the initial report by the first week in March of subsequent years following the initial report.
-
->     “(f)  __State Deployment Cycle Support Teams__  __.—__ 
+>     “(f)  __Support Teams__  __.—__ 
 
 >     The Office for Reintegration Programs may employ personnel to administer the Yellow Ribbon Reintegration Program at the State level. The primary function of team members shall be—
 
@@ -253,47 +221,59 @@
 
 >         “(3) to educate service providers and community-based organizations regarding the unique military nature of the reintegration program.
 
->     “(g) __Operation of Program Through Deployment Cycle.—__ 
+>     “(g) __Operation of Program.—__ 
 
 >         “(1)  __In general__  __.—__ 
 
->         The Office for Reintegration Programs shall analyze the demographics, placement of State Family Assistance Centers and their resources before a mobilization alert is issued to affected State National Guard and Reserve organizations. The Office of Reintegration Programs shall consult with affected State National Guard and Reserve organizations following the issuance of a mobilization alert and implement the reintegration events in accordance with the Reintegration Program phase model.
+>         The Office for Reintegration Programs shall assist State National Guard and Reserve organizations with the development and provision of information, events, and activities to support the health and well-being of eligible individuals before, during, and after periods of activation, mobilization, or deployment.
 
->         “(2)  __Pre-deployment phase__  __.—__ 
+>         “(2) __Focus of information, events, and activities.—__ 
 
->         The Pre-Deployment Phase shall constitute the time from first notification of mobilization until deployment of the mobilized National Guard or Reserve unit. Events and activities shall focus on providing education and ensuring the readiness of members of the unit, their families, and affected communities for the rigors of a combat deployment.
+>             “(A)  __Before activation, mobilization, or deployment__  __.—__ 
 
->         “(3)  __Deployment phase__  __.—__ 
+>             Before a period of activation, mobilization, or deployment, the information, events, and activities described in paragraph (1) should focus on preparing eligible individuals and affected communities for the rigors of activation, mobilization, and deployment.
 
->         The Deployment Phase shall constitute the period from deployment of the mobilized National Guard or Reserve unit until the unit arrives at a demobilization station inside the continental United States. Events and services provided shall focus on the challenges and stress associated with separation and having a member in a combat zone and to decrease the isolation of families during deployment. Information sessions shall utilize State National Guard and Reserve resources in coordination with the Employer Support of Guard and Reserve Office, Transition Assistance Advisors, and the State Family Programs Director.
+>             “(B)  __During activation, mobilization, or deployment__  __.—__ 
 
->         “(4) __Demobilization phase.—__ 
+>             During such a period, the information, events, and activities described in paragraph (1) should focus on—
 
->             “(A)  __In general__  __.—__ 
+>                 “(i) helping eligible individuals cope with the challenges and stress associated with such period;
 
->             The Demobilization Phase shall constitute the period from arrival of the National Guard or Reserve unit at the demobilization station until its departure for home station.
+>                 “(ii) decreasing the isolation of eligible individuals during such period; and
 
->             “(B)  __Initial reintegration activity__  __.—__ 
+>                 “(iii) preparing eligible individuals for the challenges associated with reintegration.
 
->             The purpose of this reintegration program is to educate members about the resources that are available to them and to connect members to service providers who can assist them in overcoming the challenges of reintegration.
+>             “(C)  __After activation, mobilization, or deployment__  __.—__ 
 
->         “(5) __Post-deployment-reconstitution phase.—__ 
+>             After such a period, but no earlier than 30 days after demobilization, the information, events, and activities described in paragraph (1) should focus on—
 
->             “(A)  __In general__  __.—__ 
+>                 “(i) reconnecting the member with their families, friends, and communities;
 
->             The Post-Deployment-Reconstitution Phase shall constitute the period from arrival at home station until 180 days following demobilization. Activities and services provided shall focus on reconnecting members with their families and communities, providing information on employment opportunities, and providing resources and information necessary for successful reintegration. Reintegration events shall begin with elements of the Initial Reintegration Activity program that were not completed during the Demobilization Phase.
+>                 “(ii) providing information on employment opportunities;
 
->             “(B)  __30-day, 60-day, and 90-day reintegration activities__  __.—__ 
+>                 “(iii) helping eligible individuals deal with the challenges of reintegration;
 
->             The State National Guard and Reserve organizations shall hold reintegration activities at the 30-day, 60-day, and 90-day interval following demobilization. These activities shall focus on reconnecting members and their families with the service providers from the Initial Reintegration Activity to ensure that members and their families understand what benefits they are entitled to and what resources are available to help them overcome the challenges of reintegration. The Reintegration Activities shall also provide a forum for members and their families to address negative behaviors related to combat stress and transition.
+>                 “(iv) ensuring that eligible individuals understand what benefits they are entitled to and what resources are available to help them overcome the challenges of reintegration; and
 
->             “(C)  __Member pay__  __.—__ 
+>                 “(v) providing a forum for addressing negative behaviors related to operational stress and reintegration.
 
->             Members shall receive appropriate pay for days spent attending the Reintegration Activities at the 30-day, 60-day, and 90-day intervals.
+>         “(3)  __Member pay__  __.—__ 
+
+>         Members shall receive appropriate pay for days spent attending such events and activities.
+
+>         “(4)  __Minimum number of events and activities__  __.—__ 
+
+>         The State National Guard and Reserve Organizations shall provide to eligible individuals—
+
+>             “(A) one event or activity before a period of activation, mobilization, or deployment;
+
+>             “(B) one event or activity during a period of activation, mobilization, or deployment; and
+
+>             “(C) two events or activities after a period of activation, mobilization, or deployment.
 
 >     “(h)  __Outreach Services__  __.—__ 
 
->     As part of the Yellow Ribbon Reintegration Program, the Office for Reintegration Programs may develop programs of outreach to members of the Armed Forces and their family members to educate such members and their family members about the assistance and services available to them under the Yellow Ribbon Reintegration Program. Such assistance and services may include the following:
+>     As part of the Yellow Ribbon Reintegration Program, the Office for Reintegration Programs may develop programs of outreach to eligible individuals to educate such eligible individuals about the assistance and services available to them under the Yellow Ribbon Reintegration Program. Such assistance and services may include the following:
 
 >         “(1) Marriage counseling.
 
@@ -325,15 +305,23 @@
 
 >         “(15) Resiliency training to promote comprehensive programs for members of the Armed Forces to build mental and emotional resiliency for successfully meeting the demands of the deployment cycle.
 
->     “\[(i) Repealed. [Pub. L. 112–239, div. A, title V, § 581(b)][/us/pl/112/239/s581/b], Jan. 2, 2013, [126 Stat. 1766][/us/stat/126/1766].\]
+>         “(16) Stress management and positive coping skills.
+
+>     “(i)  __Support of Suicide Prevention Efforts__  __.—__ 
+
+>     The Office for Reintegration Programs shall assist the Defense Suicide Prevention Office and the Defense Centers of Excellence for Psychological Health and Traumatic Brain Injury to collect and analyze information, suggestions, and best practices from State National Guard and Reserve organizations with suicide prevention and community response programs.
 
 >     “(j)  __State-led Programs of Outreach__  __.—__ 
 
->     The Office for Reintegration Programs may work with the States, whether acting through or in coordination with their National Guard and Reserve organizations, to assist the States and such organizations in developing and carrying out programs of outreach for members of the Armed Forces and their families to inform and educate them on the assistance and services available to them under the Yellow Ribbon Reintegration Program, including the assistance and services described in subsection (h).
+>     The Office for Reintegration Programs may work with the States, whether acting through or in coordination with their National Guard and Reserve organizations, to assist the States and such organizations in developing and carrying out programs of outreach for eligible individuals to inform and educate them on the assistance and services available to them under the Yellow Ribbon Reintegration Program, including the assistance and services described in subsection (h).
 
 >     “(k)  __Scope of Activities Under Programs of Outreach__  __.—__ 
 
->     For purposes of this section, the activities and services provided under programs of outreach may include personalized and substantive care coordination services targeted specifically to individual members of the Armed Forces and their families.”
+>     For purposes of this section, the activities and services provided under programs of outreach may include personalized and substantive care coordination services targeted specifically to eligible individuals.
+
+>     “(l)  __Eligible Individuals Defined__  __.—__ 
+
+>     For the purposes of this section, the term ‘eligible individual’ means a member of a reserve component, a member of their family, or a designated representative who the Secretary of Defense determines to be eligible for the Yellow Ribbon Reintegration Program.”
 
  __Pilot Program on Enhanced Quality of Life for Members of the Army Reserve and Their Families__ 
 
@@ -369,7 +357,7 @@
 
  __Annual Review__ 
 
-[Pub. L. 108–375, div. A, title V, § 513(h)][/us/pl/108/375/s513/h], Oct. 28, 2004, [118 Stat. 1882][/us/stat/118/1882], provided that:
+[Pub. L. 108–375, div. A, title V, § 513(h)][/us/pl/108/375/s513/h], Oct. 28, 2004, [118 Stat. 1882][/us/stat/118/1882], as amended by [Pub. L. 114–92, div. A, title X, § 1079(g)][/us/pl/114/92/s1079/g], Nov. 25, 2015, [129 Stat. 999][/us/stat/129/999], provided that:
 
 >     “(1)
 
@@ -379,9 +367,7 @@
 
 >         “(B) the compensation and other benefits, including health care benefits, that are provided for members of the reserve components under the laws of the United States.
 
->     “(2) The Secretary shall submit a report of the annual review, together with any comments and recommendations that the Secretary considers appropriate, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
-
->     “(3) The first review under paragraph (1) shall take place during fiscal year 2006.”
+>     “(2) The first review under paragraph (1) shall take place during fiscal year 2006.”
 
  __Pay of Administration, Training, and Supply Maintenance Technicians for Army Reserve Contingent Upon Reserve Status__ 
 
@@ -481,9 +467,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/123/2282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2282
 [/us/pl/111/84/s597/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs597%2Fb
 [/us/stat/123/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2344
-[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/stat/122/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F122
-[/us/usc/t10/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10101
+[/us/pl/114/92/s1072/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1072%2Fd%2F2
+[/us/stat/129/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F995
 [/us/pl/110/181/s582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs582
 [/us/stat/122/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F122
 [/us/pl/111/84/s595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs595
@@ -494,12 +479,14 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/125/1438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1438
 [/us/pl/112/239/s581/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs581%2Fb
 [/us/stat/126/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1766
-[/us/pl/112/239/s581/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs581%2Fb
-[/us/stat/126/1766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1766
+[/us/pl/114/92/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs551
+[/us/stat/129/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F820
 [/us/pl/109/163/s520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs520
 [/us/stat/119/3238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3238
 [/us/pl/108/375/s513/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs513%2Fh
 [/us/stat/118/1882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1882
+[/us/pl/114/92/s1079/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1079%2Fg
+[/us/stat/129/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F999
 [/us/pl/104/61/s8016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F61%2Fs8016
 [/us/stat/109/654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F654
 [/us/pl/105/85/s522/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs522%2Fe

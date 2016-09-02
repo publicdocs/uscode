@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch149/m__us_usc_t10_s2545.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch149/m__us_usc_t10_s2547.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2546)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch149/m__us_usc_t10_s2545.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch149/m__us_usc_t10_s2546a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2546)
 
 ## § 2546. Civilian management of the defense acquisition system
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch149/m__us_usc_t10_s2545.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch149/m__us_usc_t10_s2547.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2546)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch149/m__us_usc_t10_s2545.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch149/m__us_usc_t10_s2546a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2546)
 
 ----------
 ----------

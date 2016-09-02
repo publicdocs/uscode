@@ -17,7 +17,7 @@
 
     (a)  __Rule for Ground Combat Personnel Policy__  __.—__ 
 
-        (1) If the Secretary of Defense proposes to make any change described in paragraph (2)(A) or (2)(B) to the ground combat exclusion policy or proposes to make a change described in paragraph (2)(C), the Secretary shall, before any such change is implemented, submit to Congress a report providing notice of the proposed change. Such a change may then be implemented only after the end of a period of 30 days of continuous session of Congress (excluding any day on which either House of Congress is not in session) following the date on which the report is received.
+        (1) If the Secretary of Defense proposes to make any change described in paragraph (2)(A) or (2)(B) to the ground combat exclusion policy or proposes to make a change described in paragraph (2)(C), the Secretary shall, not less than 30 calendar days before such change is implemented, submit to Congress a report providing notice of the proposed change.
 
         (2)
 
@@ -39,7 +39,7 @@
 
         (4) In this subsection, the term “ground combat exclusion policy” means the military personnel policies of the Department of Defense and the military departments, as in effect on October 1, 1994, by which female members of the armed forces are restricted from assignment to units and positions below brigade level whose primary mission is to engage in direct combat on the ground.
 
-        (5) For purposes of this subsection, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die.
+        \[(5) Repealed. [Pub. L. 114–92, div. A, title V, § 524(a)(2)][/us/pl/114/92/s524/a/2], Nov. 25, 2015, [129 Stat. 813][/us/stat/129/813].\]
 
         (6)
 
@@ -51,7 +51,7 @@
 
     (b)  __Other Personnel Policy Changes__  __.—__ 
 
-        (1) Except in a case covered by [section 6035 of this title][/us/usc/t10/s6035] or by subsection (a), whenever the Secretary of Defense proposes to make a change to military personnel policies described in paragraph (2), the Secretary shall, not less than 30 days before such change is implemented, submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives notice, in writing, of the proposed change.
+        (1) Except in a case covered by [section 6035 of this title][/us/usc/t10/s6035] or by subsection (a), whenever the Secretary of Defense proposes to make a change to military personnel policies described in paragraph (2), the Secretary shall, not less than 30 calendar days before such change is implemented, submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives notice, in writing, of the proposed change.
 
         (2)
 
@@ -63,7 +63,7 @@
 
             (C) Any type of combat platform.
 
-(Added [Pub. L. 109–163, div. A, title V, § 541(a)(1)][/us/pl/109/163/s541/a/1], Jan. 6, 2006, [119 Stat. 3251][/us/stat/119/3251].)
+(Added [Pub. L. 109–163, div. A, title V, § 541(a)(1)][/us/pl/109/163/s541/a/1], Jan. 6, 2006, [119 Stat. 3251][/us/stat/119/3251]; amended [Pub. L. 114–92, div. A, title V, § 524][/us/pl/114/92/s524], Nov. 25, 2015, [129 Stat. 813][/us/stat/129/813].)
 
  __References in Text__ 
 
@@ -75,6 +75,14 @@
 
     Provisions similar to those in this section were contained in [Pub. L. 103–160, div. A, title V, § 542][/us/pl/103/160/s542], Nov. 30, 1993, [107 Stat. 1659][/us/stat/107/1659], which was set out as a note under [section 113 of this title][/us/usc/t10/s113], prior to repeal by [Pub. L. 109–163, § 541(c)][/us/pl/109/163/s541/c].
 
+ __Amendments__ 
+
+    2015—Subsec. (a)(1). [Pub. L. 114–92, § 524(a)(1)][/us/pl/114/92/s524/a/1], substituted “not less than 30 calendar days before such change is implemented” for “before any such change is implemented” and struck out “Such a change may then be implemented only after the end of a period of 30 days of continuous session of Congress (excluding any day on which either House of Congress is not in session) following the date on which the report is received.”
+
+    Subsec. (a)(5). [Pub. L. 114–92, § 524(a)(2)][/us/pl/114/92/s524/a/2], struck out par. (5) which read as follows: “For purposes of this subsection, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die.”
+
+    Subsec. (b)(1). [Pub. L. 114–92, § 524(b)][/us/pl/114/92/s524/b], inserted “calendar” before “days”.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptII/ch37/m__us_usc_t10_s651.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch37/m__us_usc_t10_s653.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs652)
@@ -82,9 +90,13 @@
 ----------
 ----------
 
+[/us/pl/114/92/s524/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs524%2Fa%2F2
+[/us/stat/129/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F813
 [/us/usc/t10/s6035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs6035
 [/us/pl/109/163/s541/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs541%2Fa%2F1
 [/us/stat/119/3251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3251
+[/us/pl/114/92/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs524
+[/us/stat/129/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F813
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604
 [/us/pl/95/485/s405/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs405%2Fd%2F1
@@ -96,5 +108,8 @@
 [/us/stat/107/1659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1659
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
 [/us/pl/109/163/s541/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs541%2Fc
+[/us/pl/114/92/s524/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs524%2Fa%2F1
+[/us/pl/114/92/s524/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs524%2Fa%2F2
+[/us/pl/114/92/s524/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs524%2Fb
 
 

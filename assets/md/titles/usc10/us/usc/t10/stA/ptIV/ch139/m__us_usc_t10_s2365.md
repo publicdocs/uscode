@@ -23,9 +23,9 @@
 
     The goals of the program are as follows:
 
-        (1) To monitor and analyze the basic and applied research activities and capabilities of foreign nations in areas of military interest, including allies and competitors.
+        (1) To monitor and analyze the basic and applied research activities and capabilities of foreign nations and private sector persons in areas of military interest, including allies and competitors.
 
-        (2) To provide standards for comparison and comparative analysis of research capabilities of foreign nations in relation to the research capabilities of the United States.
+        (2) To provide standards for comparison and comparative analysis of research capabilities of foreign nations and private sector persons in relation to the research capabilities of the United States.
 
         (3) To assist Congress and Department of Defense officials in making investment decisions for research in technical areas where the United States may not be the global leader.
 
@@ -57,15 +57,19 @@
 
     (f)  __Termination__  __.—__ 
 
-    The requirement to carry out the program under this section shall terminate on September 30, 2015.
+    The requirement to carry out the program under this section shall terminate on September 30, 2025.
 
-(Added [Pub. L. 108–136, div. A, title II, § 231(a)][/us/pl/108/136/s231/a], Nov. 24, 2003, [117 Stat. 1421][/us/stat/117/1421]; amended [Pub. L. 109–364, div. A, title II, § 232][/us/pl/109/364/s232], Oct. 17, 2006, [120 Stat. 2134][/us/stat/120/2134]; [Pub. L. 111–84, div. A, title II, § 211][/us/pl/111/84/s211], Oct. 28, 2009, [123 Stat. 2225][/us/stat/123/2225]; [Pub. L. 111–383, div. A, title IX, § 901(j)(3)][/us/pl/111/383/s901/j/3], Jan. 7, 2011, [124 Stat. 4324][/us/stat/124/4324]; [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(B)][/us/pl/112/239/s1076/c/2/B], Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950].)
+(Added [Pub. L. 108–136, div. A, title II, § 231(a)][/us/pl/108/136/s231/a], Nov. 24, 2003, [117 Stat. 1421][/us/stat/117/1421]; amended [Pub. L. 109–364, div. A, title II, § 232][/us/pl/109/364/s232], Oct. 17, 2006, [120 Stat. 2134][/us/stat/120/2134]; [Pub. L. 111–84, div. A, title II, § 211][/us/pl/111/84/s211], Oct. 28, 2009, [123 Stat. 2225][/us/stat/123/2225]; [Pub. L. 111–383, div. A, title IX, § 901(j)(3)][/us/pl/111/383/s901/j/3], Jan. 7, 2011, [124 Stat. 4324][/us/stat/124/4324]; [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(B)][/us/pl/112/239/s1076/c/2/B], Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950]; [Pub. L. 114–92, div. A, title II, § 215][/us/pl/114/92/s215], Nov. 25, 2015, [129 Stat. 769][/us/stat/129/769].)
 
  __Prior Provisions__ 
 
     A prior section 2365, added [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 909(a)(1), formerly § 909(a)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–142, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 909(a)(1), formerly § 909(a)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–142, redesignated § 909(a)(1), [Pub. L. 100–26, § 4(b)][/us/pl/100/26/s4/b], Apr. 21, 1987, [101 Stat. 274][/us/stat/101/274]; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 909(a)(1), Nov. 14, 1986, [100 Stat. 3921][/us/stat/100/3921], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–26, § 5(3)(A)][/us/pl/100/26/s5/3/A], Apr. 21, 1987, [101 Stat. 274][/us/stat/101/274]; [Pub. L. 100–456, div. A, title VIII, § 802][/us/pl/100/456/s802], Sept. 29, 1988, [102 Stat. 2008][/us/stat/102/2008], required use of competitive prototype program strategy in development of major weapons systems, prior to repeal by [Pub. L. 102–484, div. A, title VIII, § 821(c)(1)][/us/pl/102/484/s821/c/1], Oct. 23, 1992, [106 Stat. 2460][/us/stat/106/2460].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(1), (2). [Pub. L. 114–92, § 215(1)][/us/pl/114/92/s215/1], inserted “and private sector persons” after “foreign nations”.
+
+    Subsec. (f). [Pub. L. 114–92, § 215(2)][/us/pl/114/92/s215/2], substituted “September 30, 2025” for “September 30, 2015”.
 
     2013—Subsec. (a). [Pub. L. 112–239, § 1076(c)(2)(B)(i)][/us/pl/112/239/s1076/c/2/B/i], inserted “of Defense for Research and Engineering” after “The Assistant Secretary”.
 
@@ -106,6 +110,8 @@
 [/us/stat/124/4324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4324
 [/us/pl/112/239/s1076/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fc%2F2%2FB
 [/us/stat/126/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1950
+[/us/pl/114/92/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs215
+[/us/stat/129/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F769
 [/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
 [/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
 [/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
@@ -122,6 +128,8 @@
 [/us/stat/102/2008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2008
 [/us/pl/102/484/s821/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs821%2Fc%2F1
 [/us/stat/106/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2460
+[/us/pl/114/92/s215/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs215%2F1
+[/us/pl/114/92/s215/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs215%2F2
 [/us/pl/112/239/s1076/c/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fc%2F2%2FB%2Fi
 [/us/pl/112/239/s1076/c/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fc%2F2%2FB%2Fii
 [/us/pl/111/383/s901/j/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fj%2F3%2FA

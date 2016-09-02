@@ -35,21 +35,7 @@
 
         (2) All plans or substantial amendments submitted to the Congress pursuant to this section shall contain a report by the Attorney General of the United States with respect to the anticipated effects of such plans or amendments on competition. Such plans or amendments shall not be implemented until sixty days after such plans or amendments have been submitted to such committees.
 
-    (c)
-
-     During the period of production authorized by [section 7422(c) of this title][/us/usc/t10/s7422/c], the Secretary shall submit annual reports as of the first day of the fiscal year to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, and such committees shall cause such reports to be printed as a Senate or House document, as appropriate. The Secretary shall include in such reports, with respect to each naval petroleum reserve, an explanation in detail of the following:
-
-        (1) The status of the exploration, development, and production programs.
-
-        (2) The production that has been achieved, including the disposition of such production and the proceeds realized therefrom.
-
-        (3) The status of pipeline construction and procurement and problems related to the availability of transportation facilities.
-
-        (4) A summary of future plans for exploration, development, production, disposal, and transportation of the production from the naval petroleum reserves.
-
-        (5) Such other information regarding the reserve as the Secretary deems appropriate.
-
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 460][/us/stat/70A/460]; [Pub. L. 87–796, § 1(7)][/us/pl/87/796/s1/7], Oct. 11, 1962, [76 Stat. 905][/us/stat/76/905]; [Pub. L. 94–258, title II, § 201(12)][/us/pl/94/258/s201/12], Apr. 5, 1976, [90 Stat. 311][/us/stat/90/311]; [Pub. L. 98–525, title XIV, § 1405(52)][/us/pl/98/525/s1405/52], Oct. 19, 1984, [98 Stat. 2625][/us/stat/98/2625]; [Pub. L. 99–145, title XIII, § 1303(a)(25)][/us/pl/99/145/s1303/a/25], Nov. 8, 1985, [99 Stat. 740][/us/stat/99/740]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(2)][/us/pl/104/106/s1502/a/2], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 460][/us/stat/70A/460]; [Pub. L. 87–796, § 1(7)][/us/pl/87/796/s1/7], Oct. 11, 1962, [76 Stat. 905][/us/stat/76/905]; [Pub. L. 94–258, title II, § 201(12)][/us/pl/94/258/s201/12], Apr. 5, 1976, [90 Stat. 311][/us/stat/90/311]; [Pub. L. 98–525, title XIV, § 1405(52)][/us/pl/98/525/s1405/52], Oct. 19, 1984, [98 Stat. 2625][/us/stat/98/2625]; [Pub. L. 99–145, title XIII, § 1303(a)(25)][/us/pl/99/145/s1303/a/25], Nov. 8, 1985, [99 Stat. 740][/us/stat/99/740]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(2)][/us/pl/104/106/s1502/a/2], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 114–92, div. A, title X, § 1073(b)][/us/pl/114/92/s1073/b], Nov. 25, 2015, [129 Stat. 995][/us/stat/129/995].)
 
 <table>
 
@@ -97,6 +83,8 @@ June 4, 1920, ch. 228 (4th par., 1st proviso, of amended 3d and 4th provisos), 4
 
  __Amendments__ 
 
+    2015—Subsec. (c). [Pub. L. 114–92][/us/pl/114/92] struck out subsec. (c) which required annual reports relating to naval petroleum reserves.
+
     1999—Subsecs. (a), (b)(1), (c). [Pub. L. 106–65][/us/pl/106/65] substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
     1996—Subsecs. (a), (b)(1), (c). [Pub. L. 104–106][/us/pl/104/106] substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
@@ -121,7 +109,6 @@ June 4, 1920, ch. 228 (4th par., 1st proviso, of amended 3d and 4th provisos), 4
 ----------
 
 [/us/usc/t10/s7422/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7422%2Fc
-[/us/usc/t10/s7422/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7422%2Fc
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F460
 [/us/pl/87/796/s1/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F796%2Fs1%2F7
@@ -136,6 +123,9 @@ June 4, 1920, ch. 228 (4th par., 1st proviso, of amended 3d and 4th provisos), 4
 [/us/stat/110/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F502
 [/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
+[/us/pl/114/92/s1073/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1073%2Fb
+[/us/stat/129/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F995
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/99/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F145

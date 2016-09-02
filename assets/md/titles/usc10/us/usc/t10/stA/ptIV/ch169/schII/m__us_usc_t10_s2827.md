@@ -29,6 +29,36 @@
 
     For effective date and applicability of section, see [section 12(a) of Pub. L. 97–214][/us/pl/97/214/s12/a], set out as a note under [section 2801 of this title][/us/usc/t10/s2801].
 
+ __Conveyance to Indian Tribes of Relocatable Military Housing Units at Military Installations in the United States__ 
+
+[Pub. L. 114–92, div. B, title XXVIII, § 2805][/us/pl/114/92/s2805], Nov. 25, 2015, [129 Stat. 1171][/us/stat/129/1171], provided that:
+
+>     “(a)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)  __Executive director__  __.—__ 
+
+>         The term ‘Executive Director’ means the Executive Director of Walking Shield, Inc.
+
+>         “(2)  __Indian tribe__  __.—__ 
+
+>         The term ‘Indian tribe’ means any Indian tribe included on the list published by the Secretary of the Interior under section 104 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 479a–1][/us/usc/t25/s479a–1]).
+
+>     “(b) __Requests for Conveyance.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Executive Director may submit to the Secretary of the military department concerned, on behalf of any Indian tribe, a request for conveyance of any relocatable military housing unit located at a military installation in the United States.
+
+>         “(2)  __Conflicts__  __.—__ 
+
+>         The Executive Director shall resolve any conflict among requests of Indian tribes for housing units described in paragraph (1) before submitting a request to the Secretary of the military department concerned under this subsection.
+
+>     “(c)  __Conveyance by a Secretary__  __.—__ 
+
+>     Notwithstanding any other provision of law, on receipt of a request under subsection (b)(1), the Secretary of the military department concerned may convey to the Indian tribe that is the subject of the request, at no cost to such military department and without consideration, any relocatable military housing unit described in subsection (b)(1) that, as determined by such Secretary, is in excess of the needs of the military.”
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch169/schII/m__us_usc_t10_s2826.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch169/schII/m__us_usc_t10_s2828.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2827)
@@ -45,5 +75,8 @@
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
 [/us/pl/97/214/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs12%2Fa
 [/us/usc/t10/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2801
+[/us/pl/114/92/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs2805
+[/us/stat/129/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1171
+[/us/usc/t25/s479a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs479a%E2%80%931
 
 

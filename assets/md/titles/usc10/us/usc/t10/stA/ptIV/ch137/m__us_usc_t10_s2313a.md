@@ -31,13 +31,15 @@
 
             (C) the length of time taken for each type of audit;
 
-            (D) the total dollar value of questioned costs (including a separate category for the dollar value of unsupported costs); and
+            (D) the total costs of sustained or recovered costs both as a total number and as a percentage of questioned costs; and
 
             (E) an assessment of the number and types of audits pending for a period longer than allowed pursuant to guidance of the Defense Contract Audit Agency;
 
-        (3) a summary of any recommendations of actions or resources needed to improve the audit process; and
+        (3) a summary of any recommendations of actions or resources needed to improve the audit process;
 
-        (4) any other matters the Director considers appropriate.
+        (4) a description of outreach actions toward industry to promote more effective use of audit resources; and
+
+        (5) any other matters the Director considers appropriate.
 
     (b)  __Submission of Annual Report__  __.—__ 
 
@@ -47,7 +49,13 @@
 
     Not later than 60 days after the submission of an annual report to the congressional defense committees under subsection (b), the Director shall make the report available on the publicly available website of the Agency or such other publicly available website as the Director considers appropriate.
 
-(Added [Pub. L. 112–81, div. A, title VIII, § 805(a)][/us/pl/112/81/s805/a], Dec. 31, 2011, [125 Stat. 1486][/us/stat/125/1486].)
+(Added [Pub. L. 112–81, div. A, title VIII, § 805(a)][/us/pl/112/81/s805/a], Dec. 31, 2011, [125 Stat. 1486][/us/stat/125/1486]; amended [Pub. L. 114–92, div. A, title VIII, § 893(b)][/us/pl/114/92/s893/b], Nov. 25, 2015, [129 Stat. 952][/us/stat/129/952].)
+
+ __Amendments__ 
+
+    2015—Subsec. (a)(2)(D). [Pub. L. 114–92, § 893(b)(1)][/us/pl/114/92/s893/b/1], amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the total dollar value of questioned costs (including a separate category for the dollar value of unsupported costs); and”.
+
+    Subsec. (a)(4), (5). [Pub. L. 114–92, § 893(b)(2)][/us/pl/114/92/s893/b/2]–(4), added par. (4) and redesignated former par. (4) as (5).
 
 ----------
 
@@ -58,5 +66,9 @@
 
 [/us/pl/112/81/s805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs805%2Fa
 [/us/stat/125/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1486
+[/us/pl/114/92/s893/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs893%2Fb
+[/us/stat/129/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F952
+[/us/pl/114/92/s893/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs893%2Fb%2F1
+[/us/pl/114/92/s893/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs893%2Fb%2F2
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2241a.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2243.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2242)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2241b.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2243.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2242)
 
 ## § 2242. Authority to use appropriated funds for certain investigations and security services
 
@@ -35,7 +35,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2241a.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2243.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2242)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2241b.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch134/schI/m__us_usc_t10_s2243.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2242)
 
 ----------
 ----------

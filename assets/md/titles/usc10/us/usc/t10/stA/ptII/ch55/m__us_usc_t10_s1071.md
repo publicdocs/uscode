@@ -103,6 +103,26 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 > “That this Act \[enacting sections 1086 and 1087 of this title, amending this section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Military Medical Benefits Amendments of 1966’.”
 
+ __Coordination With Non-Government Suicide Prevention Organizations and Agencies To Assist in Reducing Suicides by Members of the Armed Forces__ 
+
+[Pub. L. 114–92, div. A, title V, § 591][/us/pl/114/92/s591], Nov. 25, 2015, [129 Stat. 832][/us/stat/129/832], provided that:
+
+>     “(a)  __Development of Policy__  __.—__ 
+
+>     The Secretary of Defense, in consultation with the Secretaries of the military departments, may develop a policy to coordinate the efforts of the Department of Defense and non-government suicide prevention organizations regarding—
+
+>         “(1) the use of such non-government organizations to reduce the number of suicides among members of the Armed Forces by comprehensively addressing the needs of members of the Armed Forces who have been identified as being at risk of suicide;
+
+>         “(2) the delineation of the responsibilities within the Department of Defense regarding interaction with such organizations;
+
+>         “(3) the collection of data regarding the efficacy and cost of coordinating with such organizations; and
+
+>         “(4) the preparation and preservation of any reporting material the Secretary determines necessary to carry out the policy.
+
+>     “(b)  __Suicide Prevention Efforts__  __.—__ 
+
+>     The Secretary of Defense is authorized to take any necessary measures to prevent suicides by members of the Armed Forces, including by facilitating the access of members of the Armed Forces to successful non-governmental treatment regimen.”
+
  __Provision of Information to Members of the Armed Forces on Privacy Rights Relating to Receipt of Mental Health Services__ 
 
 [Pub. L. 113–291, div. A, title V, § 523][/us/pl/113/291/s523], Dec. 19, 2014, [128 Stat. 3361][/us/stat/128/3361], provided that:
@@ -1159,7 +1179,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
  __Wounded Warrior Health Care Improvements__ 
 
-[Pub. L. 110–181, div. A, title XVI][/us/pl/110/181], §§ 1602, 1603, 1611–1614, 1616, 1618, 1621–1623, 1631, 1635, 1644, 1648, 1651, 1662, 1671, 1672, 1676, Jan. 28, 2008, [122 Stat. 431–443][/us/stat/122/431-443], 447, 450–455, 458, 460, 467, 473, 476, 479, 481, 484, as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 252, title VII, §§ 722, 724, title X, § 1061(b)(13), Oct. 14, 2008, [122 Stat. 4400][/us/stat/122/4400], 4508, 4509, 4613; [Pub. L. 111–84, div. A, title VI, § 632(h)][/us/pl/111/84/s632/h], Oct. 28, 2009, [123 Stat. 2362][/us/stat/123/2362]; [Pub. L. 112–56, title II, § 231][/us/pl/112/56/s231], Nov. 21, 2011, [125 Stat. 719][/us/stat/125/719]; [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B)][/us/pl/112/81/s631/f/4/B], title VII, § 707, Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465], 1474; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948]; [Pub. L. 113–175, title I, § 105][/us/pl/113/175/s105], Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903]; [Pub. L. 113–291, div. A, title V, § 591][/us/pl/113/291/s591], title VII, § 724, Dec. 19, 2014, [128 Stat. 3394][/us/stat/128/3394], 3418; [Pub. L. 114–58, title II, § 204][/us/pl/114/58/s204], title IV, § 411, Sept. 30, 2015, [129 Stat. 533][/us/stat/129/533], 536, provided that:
+[Pub. L. 110–181, div. A, title XVI][/us/pl/110/181], §§ 1602, 1603, 1611–1614, 1616, 1618, 1621–1623, 1631, 1635, 1644, 1648, 1651, 1662, 1671, 1672, 1676, Jan. 28, 2008, [122 Stat. 431–443][/us/stat/122/431-443], 447, 450–455, 458, 460, 467, 473, 476, 479, 481, 484, as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 252, title VII, §§ 722, 724, title X, § 1061(b)(13), Oct. 14, 2008, [122 Stat. 4400][/us/stat/122/4400], 4508, 4509, 4613; [Pub. L. 111–84, div. A, title VI, § 632(h)][/us/pl/111/84/s632/h], Oct. 28, 2009, [123 Stat. 2362][/us/stat/123/2362]; [Pub. L. 112–56, title II, § 231][/us/pl/112/56/s231], Nov. 21, 2011, [125 Stat. 719][/us/stat/125/719]; [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B)][/us/pl/112/81/s631/f/4/B], title VII, § 707, Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465], 1474; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948]; [Pub. L. 113–175, title I, § 105][/us/pl/113/175/s105], Sept. 26, 2014, [128 Stat. 1903][/us/stat/128/1903]; [Pub. L. 113–291, div. A, title V, § 591][/us/pl/113/291/s591], title VII, § 724, Dec. 19, 2014, [128 Stat. 3394][/us/stat/128/3394], 3418; [Pub. L. 114–58, title II, § 204][/us/pl/114/58/s204], title IV, § 411, Sept. 30, 2015, [129 Stat. 533][/us/stat/129/533], 536; [Pub. L. 114–92, div. A, title X, § 1072(e)][/us/pl/114/92/s1072/e], (f), Nov. 25, 2015, [129 Stat. 995][/us/stat/129/995], provided that:
 
 > “SEC. 1602. __GENERAL DEFINITIONS.__ 
 
@@ -2377,14 +2397,6 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(C) A description of the investment to be allocated to address each deficiency or noncompliance identified under subparagraph (B)(ii).
 
->     “(f)  __Annual Report__  __.—__ 
-
->     Not later than the date on which the President submits the budget for a fiscal year to Congress pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the adequacy, suitability, and quality of each facility referred to in subsection (b). The Secretary shall include in each report information regarding—
-
->         “(1) any deficiencies in the adequacy, quality, or state of repair of medical-related support facilities raised as a result of information received during the period covered by the report through the toll-free hot line required by section 1616; and
-
->         “(2) the investigations conducted and plans of action prepared under such section to respond to such deficiencies.
-
 > “SEC. 1651. __HANDBOOK FOR MEMBERS OF THE ARMED FORCES ON COMPENSATION AND BENEFITS AVAILABLE FOR SERIOUS INJURIES AND ILLNESSES.__ 
 
 >     “(a)  __Information on Available Compensation and Benefits__  __.—__ 
@@ -2409,17 +2421,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 > “SEC. 1662. __ACCESS OF RECOVERING SERVICE MEMBERS TO ADEQUATE OUTPATIENT RESIDENTIAL FACILITIES.__ 
 
->     “(a)  __Required Inspections of Facilities__  __.—__ 
-
->     All quarters of the United States and housing facilities under the jurisdiction of the Armed Forces that are occupied by recovering service members shall be inspected at least once every two years by the inspectors general of the regional medical commands.
-
->     “(b)  __Inspector General Reports__  __.—__ 
-
->     The inspector general for each regional medical command shall—
-
->         “(1) submit a report on each inspection of a facility conducted under subsection (a) to the post commander at such facility, the commanding officer of the hospital affiliated with such facility, the surgeon general of the military department that operates such hospital, the Secretary of the military department concerned, the Assistant Secretary of Defense for Health Affairs, and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
-
->         “(2) post each such report on the Internet website of such regional medical command.
+>     “All quarters of the United States and housing facilities under the jurisdiction of the Armed Forces that are occupied by recovering service members shall be inspected at least once every two years by the inspectors general of the regional medical commands.
 
 > “SEC. 1671. __PROHIBITION ON TRANSFER OF RESOURCES FROM MEDICAL CARE.__ 
 
@@ -3149,6 +3151,8 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 [/us/usc/t50/s3809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3809
 [/us/pl/89/614/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F614%2Fs1
 [/us/stat/80/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F862
+[/us/pl/114/92/s591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs591
+[/us/stat/129/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F832
 [/us/pl/113/291/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs523
 [/us/stat/128/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3361
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
@@ -3228,6 +3232,8 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 [/us/stat/128/3394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3394
 [/us/pl/114/58/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F58%2Fs204
 [/us/stat/129/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F533
+[/us/pl/114/92/s1072/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1072%2Fe
+[/us/stat/129/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F995
 [/us/usc/t37/s481h/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs481h%2Fb%2F3%2FB
 [/us/usc/t10/s1072/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F7
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
@@ -3259,7 +3265,6 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 [/us/usc/t10/s1201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1201%2Fb
 [/us/usc/t10/s1216a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1216a
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
-[/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t10/s1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1095
 [/us/usc/t38/s1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs1784
 [/us/usc/t10/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2461

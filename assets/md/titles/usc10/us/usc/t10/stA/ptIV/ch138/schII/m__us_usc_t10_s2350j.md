@@ -117,6 +117,46 @@
 
     Subsec. (f). [Pub. L. 103–337, § 1070(a)(10)(B)][/us/pl/103/337/s1070/a/10/B], struck out “the” before “Congress” in introductory provisions.
 
+ __Temporary Authority for Acceptance and Use of Contributions for Certain Construction, Maintenance, and Repair Projects Mutually Beneficial to the Department of Defense and Kuwait Military Forces__ 
+
+[Pub. L. 114–92, div. B, title XXVIII, § 2804][/us/pl/114/92/s2804], Nov. 25, 2015, [129 Stat. 1170][/us/stat/129/1170], provided that:
+
+>     “(a)  __Authority To Accept Contributions__  __.—__ 
+
+>     The Secretary of Defense, after consultation with the Secretary of State, may accept cash contributions from the government of Kuwait for the purpose of paying for the costs of construction (including military construction not otherwise authorized by law), maintenance, and repair projects mutually beneficial to the Department of Defense and Kuwait military forces.
+
+>     “(b)  __Accounting__  __.—__ 
+
+>     Contributions accepted under subsection (a) shall be placed in an account established by the Secretary of Defense and shall remain available until expended as provided in such subsection.
+
+>     “(c)  __Prohibition on Use of Contributions To Offset Burden Sharing Contributions__  __.—__ 
+
+>     Contributions accepted under subsection (a) may not be used to offset any burden sharing contributions made by the government of Kuwait.
+
+>     “(d)  __Notice__  __.—__ 
+
+>     When a decision is made to carry out a project using contributions accepted under subsection (a) and the estimated cost of the project will exceed the thresholds prescribed by [section 2805 of title 10][/us/usc/t10/s2805], United States Code, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives written notice of decision, the justification for the project, and the estimated cost of the project.
+
+>     “(e)  __Mutually Beneficial Defined__  __.—__ 
+
+>     A project described in subsection (a) shall be considered to be ‘mutually beneficial’ if—
+
+>         “(1) the project is in support of a bilateral defense cooperation agreement between the United States and the government of Kuwait; or
+
+>         “(2)
+
+>          the Secretary of Defense determines that the United States may derive a benefit from the project, including—
+
+>             “(A) access to and use of facilities of the Kuwait military forces;
+
+>             “(B) ability or capacity for future force posture; and
+
+>             “(C) increased interoperability between the Department of Defense and Kuwait military forces.
+
+>     “(f)  __Expiration of Project Authority__  __.—__ 
+
+>     The authority to carry out projects under this section expires on September 30, 2020. The expiration of the authority does not prevent the continuation of any project commenced before that date.”
+
 ----------
 
 [Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch138/schII/m__us_usc_t10_s2350i.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch138/schII/m__us_usc_t10_s2350k.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2350j)
@@ -159,5 +199,8 @@
 [/us/pl/104/106/s1331/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1331%2Fc%2F2
 [/us/pl/103/337/s1070/a/10/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fa%2F10%2FA
 [/us/pl/103/337/s1070/a/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fa%2F10%2FB
+[/us/pl/114/92/s2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs2804
+[/us/stat/129/1170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1170
+[/us/usc/t10/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805
 
 

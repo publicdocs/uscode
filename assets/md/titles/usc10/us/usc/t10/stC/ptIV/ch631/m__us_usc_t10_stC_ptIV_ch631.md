@@ -247,9 +247,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs7235" data-uslm-ref="/us/usc/t10/s7235">7235.</a>  </td>
+
+    <td> Establishment of the Southern Sea Otter Military Readiness Areas.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92, div. A, title III, § 312(b)][/us/pl/114/92/s312/b], Nov. 25, 2015, [129 Stat. 789][/us/stat/129/789], added item 7235.
 
     2006—[Pub. L. 109–163, div. A, title V, § 515(b)(4)(D)][/us/pl/109/163/s515/b/4/D], Jan. 6, 2006, [119 Stat. 3235][/us/stat/119/3235], substituted “Navy Reserve” for ‘Naval Reserve” in items 7225 and 7226.
 
@@ -292,6 +302,8 @@
 ----------
 ----------
 
+[/us/pl/114/92/s312/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs312%2Fb
+[/us/stat/129/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F789
 [/us/pl/109/163/s515/b/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs515%2Fb%2F4%2FD
 [/us/stat/119/3235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3235
 [/us/pl/108/375/s1223/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1223%2Fb

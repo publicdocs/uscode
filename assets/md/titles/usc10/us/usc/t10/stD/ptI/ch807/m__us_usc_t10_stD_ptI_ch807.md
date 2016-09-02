@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptI/ch805/m__us_usc_t10_s8039.md) | [Next](./../../../../../..//us/usc/t10/stD/ptI/ch807/m__us_usc_t10_s8061.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptI%2Fch807)
+[Previous](./../../../../../..//us/usc/t10/stD/ptI/ch805/m__us_usc_t10_s8040.md) | [Next](./../../../../../..//us/usc/t10/stD/ptI/ch807/m__us_usc_t10_s8061.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptI%2Fch807)
 
 #### CHAPTER 807—THE AIR FORCE
 
@@ -145,7 +145,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stD/ptI/ch805/m__us_usc_t10_s8039.md) | [Next](./../../../../../..//us/usc/t10/stD/ptI/ch807/m__us_usc_t10_s8061.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptI%2Fch807)
+[Previous](./../../../../../..//us/usc/t10/stD/ptI/ch805/m__us_usc_t10_s8040.md) | [Next](./../../../../../..//us/usc/t10/stD/ptI/ch807/m__us_usc_t10_s8061.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstD%2FptI%2Fch807)
 
 ----------
 ----------

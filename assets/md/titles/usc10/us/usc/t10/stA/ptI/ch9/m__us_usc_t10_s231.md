@@ -35,7 +35,7 @@
 
             (B) A description of the necessary naval vessel force structure and capabilities to meet the requirements of the national security strategy of the United States or the most recent quadrennial defense review, whichever is applicable under paragraph (1).
 
-            (C) The estimated levels of annual funding necessary to carry out the program, together with a discussion of the procurement strategies on which such estimated levels of annual funding are based.
+            (C) The estimated levels of annual funding by ship class in both graphical and tabular form necessary to carry out the program, together with a discussion of the procurement strategies on which such estimated levels of annual funding are based.
 
             (D) The estimated total cost of construction for each vessel used to determine estimated levels of annual funding under subparagraph (C).
 
@@ -65,9 +65,11 @@
 
         (4) The term “combatant and support vessel” means any commissioned ship built or armed for naval combat or any naval ship designed to provide support to combatant ships and other naval operations. Such term does not include patrol coastal ships, non-commissioned combatant craft specifically designed for combat roles, or ships that are designated for potential mobilization.
 
-(Added [Pub. L. 107–314, div. A, title X, § 1022(a)(1)][/us/pl/107/314/s1022/a/1], Dec. 2, 2002, [116 Stat. 2639][/us/stat/116/2639]; amended [Pub. L. 111–383, div. A, title X, § 1023(a)][/us/pl/111/383/s1023/a], Jan. 7, 2011, [124 Stat. 4349][/us/stat/124/4349]; [Pub. L. 112–81, div. A, title X, § 1011(a)][/us/pl/112/81/s1011/a], Dec. 31, 2011, [125 Stat. 1558][/us/stat/125/1558]; [Pub. L. 112–239, div. A, title X, § 1014(a)][/us/pl/112/239/s1014/a], Jan. 2, 2013, [126 Stat. 1908][/us/stat/126/1908]; [Pub. L. 113–66, div. A, title X, § 1021][/us/pl/113/66/s1021], Dec. 26, 2013, [127 Stat. 844][/us/stat/127/844]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291], §§ 1021, 1071(c)(2), Dec. 19, 2014, [128 Stat. 3486][/us/stat/128/3486], 3508.)
+(Added [Pub. L. 107–314, div. A, title X, § 1022(a)(1)][/us/pl/107/314/s1022/a/1], Dec. 2, 2002, [116 Stat. 2639][/us/stat/116/2639]; amended [Pub. L. 111–383, div. A, title X, § 1023(a)][/us/pl/111/383/s1023/a], Jan. 7, 2011, [124 Stat. 4349][/us/stat/124/4349]; [Pub. L. 112–81, div. A, title X, § 1011(a)][/us/pl/112/81/s1011/a], Dec. 31, 2011, [125 Stat. 1558][/us/stat/125/1558]; [Pub. L. 112–239, div. A, title X, § 1014(a)][/us/pl/112/239/s1014/a], Jan. 2, 2013, [126 Stat. 1908][/us/stat/126/1908]; [Pub. L. 113–66, div. A, title X, § 1021][/us/pl/113/66/s1021], Dec. 26, 2013, [127 Stat. 844][/us/stat/127/844]; [Pub. L. 113–291, div. A, title X][/us/pl/113/291], §§ 1021, 1071(c)(2), Dec. 19, 2014, [128 Stat. 3486][/us/stat/128/3486], 3508; [Pub. L. 114–92, div. A, title X, § 1021][/us/pl/114/92/s1021], Nov. 25, 2015, [129 Stat. 965][/us/stat/129/965].)
 
  __Amendments__ 
+
+    2015—Subsec. (b)(2)(C). [Pub. L. 114–92][/us/pl/114/92] inserted “by ship class in both graphical and tabular form” after “The estimated levels of annual funding”.
 
     2014—Subsec. (b)(1). [Pub. L. 113–291, § 1071(c)(2)][/us/pl/113/291/s1071/c/2], substituted “([50 U.S.C. 3043][/us/usc/t50/s3043])” for “([50 U.S.C. 404a][/us/usc/t50/s404a])”.
 
@@ -112,6 +114,9 @@
 [/us/stat/127/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F844
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/stat/128/3486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3486
+[/us/pl/114/92/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1021
+[/us/stat/129/965]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F965
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291/s1071/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F2
 [/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
 [/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a

@@ -27,9 +27,13 @@
 
         (2) analyze present and projected financial performance of industries supporting the sectors or capabilities in the assessment;
 
-        (3) identify technological and industrial capabilities and processes for which there is potential for the national industrial and technology base not to be able to support the achievement of national security objectives; and
+        (3) determine the extent to which the requirements associated with defense acquisition programs can be satisfied by the present and projected performance capacities of industries supporting the sectors or capabilities in the assessment, evaluate the reasons for any variance from applicable preceding determinations, and identify the extent to which those industries are comprised of only one potential source in the national technology and industrial base or have multiple potential sources;
 
-        (4) consider the effects of the termination of major defense acquisition programs (as the term is defined in [section 2430 of this title][/us/usc/t10/s2430]) or major automated information system programs (as defined in [section 2445a of this title][/us/usc/t10/s2445a]) in the previous fiscal year on the sectors and capabilities in the assessment.
+        (4) determine the extent to which the requirements associated with defense acquisition programs can be satisfied by the present and projected performance capacities of industries that do not actively support Department of Defense acquisition programs and identify the barriers to the participation of those industries;
+
+        (5) identify technological and industrial capabilities and processes for which there is potential for the national industrial and technology base not to be able to support the achievement of national security objectives; and
+
+        (6) consider the effects of the termination of major defense acquisition programs (as the term is defined in [section 2430 of this title][/us/usc/t10/s2430]) or major automated information system programs (as defined in [section 2445a of this title][/us/usc/t10/s2445a]) in the previous fiscal year on the sectors and capabilities in the assessment.
 
     (c)  __Assessment of Extent of Dependency on Foreign Source Items__  __.—__ 
 
@@ -53,13 +57,15 @@
 
     The Secretary of Defense shall ensure that consideration of the technology and industrial base assessments is integrated into the overall budget, acquisition, and logistics support decision processes of the Department of Defense.
 
-(Added [Pub. L. 102–484, div. D, title XLII, § 4215][/us/pl/102/484/s4215], Oct. 23, 1992, [106 Stat. 2667][/us/stat/106/2667]; amended [Pub. L. 103–35, title II, § 201(g)(7)][/us/pl/103/35/s201/g/7], May 31, 1993, [107 Stat. 100][/us/stat/107/100]; [Pub. L. 104–201, div. A, title VIII, § 829(c)(1)][/us/pl/104/201/s829/c/1], Sept. 23, 1996, [110 Stat. 2612][/us/stat/110/2612]; [Pub. L. 111–23, title III, § 303(b)][/us/pl/111/23/s303/b], May 22, 2009, [123 Stat. 1731][/us/stat/123/1731]; [Pub. L. 111–383, div. A, title VIII, § 895(c)][/us/pl/111/383/s895/c], Jan. 7, 2011, [124 Stat. 4314][/us/stat/124/4314]; [Pub. L. 112–239, div. A, title XVI, § 1602][/us/pl/112/239/s1602], Jan. 2, 2013, [126 Stat. 2062][/us/stat/126/2062].)
+(Added [Pub. L. 102–484, div. D, title XLII, § 4215][/us/pl/102/484/s4215], Oct. 23, 1992, [106 Stat. 2667][/us/stat/106/2667]; amended [Pub. L. 103–35, title II, § 201(g)(7)][/us/pl/103/35/s201/g/7], May 31, 1993, [107 Stat. 100][/us/stat/107/100]; [Pub. L. 104–201, div. A, title VIII, § 829(c)(1)][/us/pl/104/201/s829/c/1], Sept. 23, 1996, [110 Stat. 2612][/us/stat/110/2612]; [Pub. L. 111–23, title III, § 303(b)][/us/pl/111/23/s303/b], May 22, 2009, [123 Stat. 1731][/us/stat/123/1731]; [Pub. L. 111–383, div. A, title VIII, § 895(c)][/us/pl/111/383/s895/c], Jan. 7, 2011, [124 Stat. 4314][/us/stat/124/4314]; [Pub. L. 112–239, div. A, title XVI, § 1602][/us/pl/112/239/s1602], Jan. 2, 2013, [126 Stat. 2062][/us/stat/126/2062]; [Pub. L. 114–92, div. A, title VIII, § 876][/us/pl/114/92/s876], Nov. 25, 2015, [129 Stat. 941][/us/stat/129/941].)
 
  __Prior Provisions__ 
 
     A prior section 2505 was renumbered [section 2532 of this title][/us/usc/t10/s2532].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(3) to (6). [Pub. L. 114–92][/us/pl/114/92] added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
 
     2013—Subsecs. (d), (e). [Pub. L. 112–239][/us/pl/112/239] added subsec. (d) and redesignated former subsec. (d) as (e).
 
@@ -101,7 +107,10 @@
 [/us/stat/124/4314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4314
 [/us/pl/112/239/s1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1602
 [/us/stat/126/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2062
+[/us/pl/114/92/s876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs876
+[/us/stat/129/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F941
 [/us/usc/t10/s2532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2532
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/usc/t10/s2445a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2445a

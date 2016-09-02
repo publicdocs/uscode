@@ -129,7 +129,7 @@
 
  __Pilot Programs on Career Flexibility To Enhance Retention of Members of the Armed Forces__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 533, Oct. 14, 2008, [122 Stat. 4449][/us/stat/122/4449], as amended by [Pub. L. 112–81, div. A, title V, § 531][/us/pl/112/81/s531], title VI, § 631(f)(4)(B), Dec. 31, 2011, [125 Stat. 1403][/us/stat/125/1403], 1465; [Pub. L. 112–239, div. A, title V, § 522][/us/pl/112/239/s522], title X, § 1076(a)(9), Jan. 2, 2013, [126 Stat. 1722][/us/stat/126/1722], 1948; [Pub. L. 113–291, div. A, title V, § 522][/us/pl/113/291/s522], Dec. 19, 2014, [128 Stat. 3360][/us/stat/128/3360], provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 533, Oct. 14, 2008, [122 Stat. 4449][/us/stat/122/4449], as amended by [Pub. L. 112–81, div. A, title V, § 531][/us/pl/112/81/s531], title VI, § 631(f)(4)(B), Dec. 31, 2011, [125 Stat. 1403][/us/stat/125/1403], 1465; [Pub. L. 112–239, div. A, title V, § 522][/us/pl/112/239/s522], title X, § 1076(a)(9), Jan. 2, 2013, [126 Stat. 1722][/us/stat/126/1722], 1948; [Pub. L. 113–291, div. A, title V, § 522][/us/pl/113/291/s522], Dec. 19, 2014, [128 Stat. 3360][/us/stat/128/3360]; [Pub. L. 114–92, div. A, title V, § 523][/us/pl/114/92/s523], Nov. 25, 2015, [129 Stat. 812][/us/stat/129/812], provided that:
 
 >     “(a) __Pilot Programs Authorized.—__ 
 
@@ -141,23 +141,11 @@
 
 >         The purpose of the pilot programs under this section shall be to evaluate whether permitting inactivation from active duty and greater flexibility in career paths for members of the Armed Forces will provide an effective means to enhance retention of members of the Armed Forces and the capacity of the Department of Defense to respond to the personal and professional needs of individual members of the Armed Forces.
 
->     “(b)  __Limitation on Eligible Members__  __.—__ 
-
->     A member of the Armed Forces is not eligible to participate in a pilot program under this section during any period of service required of the member—
-
->         “(1) under an agreement upon entry of the member on active duty; or
-
->         “(2) due to receipt by the member of a retention bonus as a member qualified in a critical military skill or assigned to a high priority unit under [section 355 of title 37][/us/usc/t37/s355], United States Code.
-
->     “(c)  __Limitation on Number of Participants__  __.—__ 
-
->     Not more than 20 officers and 20 enlisted members of each Armed Force may be selected during a calendar year to participate in the pilot programs under this section.
-
->     “(d) __Period of Inactivation From Active Duty; Effect of Inactivation.—__ 
+>     “(b) __Period of Inactivation From Active Duty; Effect of Inactivation.—__ 
 
 >         “(1)  __Limitation__  __.—__ 
 
->         The period of inactivation from active duty under a pilot program under this section of a member participating in the pilot program shall be such period as the Secretary of the military department concerned shall specify in the agreement of the member under subsection (e), except that such period may not exceed three years.
+>         The period of inactivation from active duty under a pilot program under this section of a member participating in the pilot program shall be such period as the Secretary of the military department concerned shall specify in the agreement of the member under subsection (c), except that such period may not exceed three years.
 
 >         “(2)  __Exclusion from computation of reserve officer’s total years of service__  __.—__ 
 
@@ -171,7 +159,7 @@
 
 >             “(B) computation of retired or retainer pay under chapter 71 or 1223 of title 10, United States Code.
 
->     “(e)  __Agreement__  __.—__ 
+>     “(c)  __Agreement__  __.—__ 
 
 >     Each member of the Armed Forces who participates in a pilot program under this section shall enter into a written agreement with the Secretary of the military department concerned under which agreement that member shall agree as follows:
 
@@ -181,15 +169,15 @@
 
 >         “(3) Following completion of the period of the inactivation of the member from active duty under the pilot program, to serve two months as a member of the Armed Forces on active duty for each month of the period of the inactivation of the member from active duty under the pilot program.
 
->     “(f)  __Conditions of Release__  __.—__ 
+>     “(d)  __Conditions of Release__  __.—__ 
 
->     The Secretary of Defense shall issue regulations specifying the guidelines regarding the conditions of release that must be considered and addressed in the agreement required by subsection (e). At a minimum, the Secretary shall prescribe the procedures and standards to be used to instruct a member on the obligations to be assumed by the member under paragraph (2) of such subsection while the member is released from active duty.
+>     The Secretary of Defense shall issue regulations specifying the guidelines regarding the conditions of release that must be considered and addressed in the agreement required by subsection (c). At a minimum, the Secretary shall prescribe the procedures and standards to be used to instruct a member on the obligations to be assumed by the member under paragraph (2) of such subsection while the member is released from active duty.
 
->     “(g)  __Order to Active Duty__  __.—__ 
+>     “(e)  __Order to Active Duty__  __.—__ 
 
 >     Under regulations prescribed by the Secretary of the military department concerned, a member of the Armed Forces participating in a pilot program under this section may, in the discretion of such Secretary, be required to terminate participation in the pilot program and be ordered to active duty.
 
->     “(h) __Pay and Allowances.—__ 
+>     “(f) __Pay and Allowances.—__ 
 
 >         “(1)  __Basic pay__  __.—__ 
 
@@ -235,7 +223,7 @@
 
 >             “(D)  __Construction of required service__  __.—__ 
 
->             Any service required of a member under an agreement covered by this paragraph after the member returns to active duty as described in subparagraph (A) shall be in addition to any service required of the member under an agreement under subsection (e).
+>             Any service required of a member under an agreement covered by this paragraph after the member returns to active duty as described in subparagraph (A) shall be in addition to any service required of the member under an agreement under subsection (c).
 
 >         “(4) __Certain travel and transportation allowances.—__ 
 
@@ -255,7 +243,7 @@
 
 >         A member who participates in a pilot program is entitled to carry forward the leave balance existing as of the day on which the member begins participation and accumulated in accordance with [section 701 of title 10][/us/usc/t10/s701], United States Code, but not to exceed 60 days.
 
->     “(i) __Promotion.—__ 
+>     “(g) __Promotion.—__ 
 
 >         “(1) __Officers.—__ 
 
@@ -279,7 +267,7 @@
 
 >             “(B) ends at such time after the return of the member to active duty under the pilot program that the member is treatable as eligible for promotion by reason of time in grade and such other requirements as the Secretary of the military department concerned shall prescribe in regulations for purposes of the pilot program.
 
->     “(j)  __Continued Entitlements__  __.—__ 
+>     “(h)  __Continued Entitlements__  __.—__ 
 
 >     A member participating in a pilot program under this section shall, while participating in the pilot program, be treated as a member of the Armed Forces on active duty for a period of more than 30 days for purposes of—
 
@@ -287,7 +275,7 @@
 
 >         “(2) retirement or separation for physical disability under the provisions of chapters 55 and 61 of title 10, United States Code.
 
->     “(k) __Reports.—__ 
+>     “(i) __Reports.—__ 
 
 >         “(1)  __Interim reports__  __.—__ 
 
@@ -327,11 +315,11 @@
 
 >             “(D) A statement whether members were required to perform inactive duty training as part of their participation in the pilot programs, and if so, a description of the members who were required to perform such inactive duty training, a statement of the reasons why the members were required to perform such inactive duty training, and a description of how often the members were required to perform such inactive duty training.
 
->     “(l)  __Definition__  __.—__ 
+>     “(j)  __Definition__  __.—__ 
 
 >     In this section, the term ‘active Guard and Reserve duty’ has the meaning given that term in [section 101(d)(6) of title 10][/us/usc/t10/s101/d/6], United States Code.
 
->     “(m)  __Duration of Program Authority__  __.—__ 
+>     “(k)  __Duration of Program Authority__  __.—__ 
 
 >         “(1) No member of the Armed Forces may be released from active duty under a pilot program conducted under this section after December 31, 2019.
 
@@ -364,7 +352,8 @@
 [/us/stat/126/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1722
 [/us/pl/113/291/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs522
 [/us/stat/128/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3360
-[/us/usc/t37/s355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs355
+[/us/pl/114/92/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs523
+[/us/stat/129/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F812
 [/us/usc/t10/s14706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs14706%2Fa
 [/us/usc/t37/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs204
 [/us/usc/t37/s474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs474

@@ -29,9 +29,17 @@
 
         (4)
 
-            (A) Subject to subparagraph (B), the Secretary concerned shall not provide preseparation counseling to a member who is being discharged or released before the completion of that member’s first 180 days of active duty.
+            (A) Subject to subparagraph (B), the Secretary concerned shall not provide preseparation counseling to a member who is being discharged or released before the completion of the first 180 continuous days of active duty of the member.
 
             (B) Subparagraph (A) shall not apply in the case of a member who is being retired or separated for disability.
+
+            (C)
+
+             For purposes of calculating the days of active duty of a member under subparagraph (A), the Secretary concerned shall exclude any day on which—
+
+                (i) the member performed full-time training duty or annual training duty; and
+
+                (ii) the member attended, while in the active military service, a school designated as a service school by law or by the Secretary concerned.
 
     (b)  __Matters To Be Covered By Counseling__  __.—__ 
 
@@ -83,9 +91,13 @@
 
     In the case of a member being medically separated or being retired under chapter 61 of this title, the Secretary concerned shall ensure (subject to the consent of the member) that a copy of the member’s service medical record (including any results of a Physical Evaluation Board) is transmitted to the Secretary of Veterans Affairs within 60 days of the separation or retirement.
 
-(Added [Pub. L. 101–510, div. A, title V, § 502(a)(1)][/us/pl/101/510/s502/a/1], Nov. 5, 1990, [104 Stat. 1552][/us/stat/104/1552]; amended [Pub. L. 102–190, div. A, title X, § 1061(a)(5)][/us/pl/102/190/s1061/a/5], Dec. 5, 1991, [105 Stat. 1472][/us/stat/105/1472]; [Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484], §§ 4401, 4441(b), 4462(b), Oct. 23, 1992, [106 Stat. 2701][/us/stat/106/2701], 2730, 2740; [Pub. L. 103–35, title II, § 201(i)(1)][/us/pl/103/35/s201/i/1], May 31, 1993, [107 Stat. 100][/us/stat/107/100]; [Pub. L. 103–160, div. A, title XIII, § 1332(c)][/us/pl/103/160/s1332/c], Nov. 30, 1993, [107 Stat. 1797][/us/stat/107/1797]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(9)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–290; [Pub. L. 107–103, title III, § 302(a)][/us/pl/107/103/s302/a], Dec. 27, 2001, [115 Stat. 991][/us/stat/115/991]; [Pub. L. 109–163, div. A, title V, § 594][/us/pl/109/163/s594], Jan. 6, 2006, [119 Stat. 3281][/us/stat/119/3281]; [Pub. L. 111–84, div. A, title X, § 1073(a)(13)][/us/pl/111/84/s1073/a/13], Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473]; [Pub. L. 112–56, title II, § 221(b)][/us/pl/112/56/s221/b], Nov. 21, 2011, [125 Stat. 716][/us/stat/125/716]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81], §§ 513, 529, 533(c), Dec. 31, 2011, [125 Stat. 1393][/us/stat/125/1393], 1402, 1404; [Pub. L. 112–239, div. A, title V, § 541(c)][/us/pl/112/239/s541/c], title X, § 1076(f)(12), title XVI, § 1699(c)(1), Jan. 2, 2013, [126 Stat. 1735][/us/stat/126/1735], 1952, 2092.)
+(Added [Pub. L. 101–510, div. A, title V, § 502(a)(1)][/us/pl/101/510/s502/a/1], Nov. 5, 1990, [104 Stat. 1552][/us/stat/104/1552]; amended [Pub. L. 102–190, div. A, title X, § 1061(a)(5)][/us/pl/102/190/s1061/a/5], Dec. 5, 1991, [105 Stat. 1472][/us/stat/105/1472]; [Pub. L. 102–484, div. D, title XLIV][/us/pl/102/484], §§ 4401, 4441(b), 4462(b), Oct. 23, 1992, [106 Stat. 2701][/us/stat/106/2701], 2730, 2740; [Pub. L. 103–35, title II, § 201(i)(1)][/us/pl/103/35/s201/i/1], May 31, 1993, [107 Stat. 100][/us/stat/107/100]; [Pub. L. 103–160, div. A, title XIII, § 1332(c)][/us/pl/103/160/s1332/c], Nov. 30, 1993, [107 Stat. 1797][/us/stat/107/1797]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(9)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–290; [Pub. L. 107–103, title III, § 302(a)][/us/pl/107/103/s302/a], Dec. 27, 2001, [115 Stat. 991][/us/stat/115/991]; [Pub. L. 109–163, div. A, title V, § 594][/us/pl/109/163/s594], Jan. 6, 2006, [119 Stat. 3281][/us/stat/119/3281]; [Pub. L. 111–84, div. A, title X, § 1073(a)(13)][/us/pl/111/84/s1073/a/13], Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473]; [Pub. L. 112–56, title II, § 221(b)][/us/pl/112/56/s221/b], Nov. 21, 2011, [125 Stat. 716][/us/stat/125/716]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81], §§ 513, 529, 533(c), Dec. 31, 2011, [125 Stat. 1393][/us/stat/125/1393], 1402, 1404; [Pub. L. 112–239, div. A, title V, § 541(c)][/us/pl/112/239/s541/c], title X, § 1076(f)(12), title XVI, § 1699(c)(1), Jan. 2, 2013, [126 Stat. 1735][/us/stat/126/1735], 1952, 2092; [Pub. L. 114–92, div. A, title V, § 552][/us/pl/114/92/s552], Nov. 25, 2015, [129 Stat. 823][/us/stat/129/823].)
 
  __Amendments__ 
+
+    2015—Subsec. (a)(4)(A). [Pub. L. 114–92, § 552(1)][/us/pl/114/92/s552/1], substituted “the first 180 continuous days of active duty of the member” for “that member’s first 180 days of active duty”.
+
+    Subsec. (a)(4)(C). [Pub. L. 114–92, § 552(2)][/us/pl/114/92/s552/2], added subpar. (C).
 
     2013—Subsec. (b)(4)(C). [Pub. L. 112–239, § 541(c)][/us/pl/112/239/s541/c], struck out “under section 2302 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6672][/us/usc/t20/s6672])” before period at end.
 
@@ -198,6 +210,10 @@
 [/us/stat/125/1393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1393
 [/us/pl/112/239/s541/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs541%2Fc
 [/us/stat/126/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1735
+[/us/pl/114/92/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs552
+[/us/stat/129/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F823
+[/us/pl/114/92/s552/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs552%2F1
+[/us/pl/114/92/s552/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs552%2F2
 [/us/pl/112/239/s541/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs541%2Fc
 [/us/usc/t20/s6672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6672
 [/us/pl/112/239/s1076/f/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F12

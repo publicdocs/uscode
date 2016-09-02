@@ -135,7 +135,7 @@
 
  __Defense Research and Development Rapid Innovation Program__ 
 
-[Pub. L. 111–383, div. A, title X, § 1073][/us/pl/111/383/s1073], Jan. 7, 2011, [124 Stat. 4366][/us/stat/124/4366], provided that:
+[Pub. L. 111–383, div. A, title X, § 1073][/us/pl/111/383/s1073], Jan. 7, 2011, [124 Stat. 4366][/us/stat/124/4366], as amended by [Pub. L. 114–92, div. A, title II, § 216][/us/pl/114/92/s216], Nov. 25, 2015, [129 Stat. 769][/us/stat/129/769], provided that:
 
 >     “(a)  __Program Established__  __.—__ 
 
@@ -145,13 +145,17 @@
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary shall issue guidelines for the operation of the program. At a minimum such guidance shall provide for the following:
 
->         “(1) The issuance of an annual broad agency announcement or the use of any other competitive or merit-based processes by the Department of Defense and by each military department for candidate proposals in direct support of primarily major defense acquisition programs, but also other defense acquisition programs as described in subsection (a).
+>         “(1) The issuance of an annual broad agency announcement or the use of any other competitive or merit-based processes by the Department of Defense for candidate proposals in support of defense acquisition programs as described in subsection (a).
 
 >         “(2) The review of candidate proposals by the Department of Defense and by each military department and the merit-based selection of the most promising cost-effective proposals for funding through contracts, cooperative agreements, and other transactions for the purposes of carrying out the program.
 
->         “(3) The total amount of funding provided to any project under the program shall not exceed $3,000,000, unless the Secretary, or the Secretary’s designee, approves a larger amount of funding for the project. Any such approval shall be made on a case-by-case basis and notice of any such approval shall be submitted to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] by not later than 30 days after such approval is made.
+>         “(3) The total amount of funding provided to any project under the program shall not exceed $3,000,000, unless the Secretary, or the Secretary’s designee, approves a larger amount of funding for the project.
 
->         “(4) No project shall be funded under the program for more than two years, unless the Secretary, or the Secretary’s designee, approves funding for any additional year. Any such approval shall be made on a case-by-case basis and notice of any such approval shall be submitted to the congressional defense committees by not later than 30 days after such approval is made.
+>         “(4) No project shall receive more than a total of two years of funding under the program, unless the Secretary, or the Secretary’s designee, approves funding for any additional year.
+
+>         “(5) Mechanisms to facilitate transition of follow-on or current projects carried out under the program into defense acquisition programs, through the use of the authorities of section 819 of the National Defense Authorization Act for Fiscal Year 2010 ([Public Law 111–84][/us/pl/111/84]; [10 U.S.C. 2302][/us/usc/t10/s2302] note) or such other authorities as may be appropriate to conduct further testing, low rate production, or full rate production of technologies developed under the program.
+
+>         “(6) Projects are selected using merit-based selection procedures and the selection of projects is not subject to undue influence by Congress or other Federal agencies.
 
 >     “(c)  __Treatment Pursuant to Certain Congressional Rules__  __.—__ 
 
@@ -159,19 +163,15 @@
 
 >     “(d)  __Funding__  __.—__ 
 
->     Subject to the availability of appropriations for such purpose, the amounts authorized to be appropriated for research, development, test, and evaluation for each of fiscal years 2011 through 2015 may be used for any such fiscal year for the program established under subsection (a).
+>     Subject to the availability of appropriations for such purpose, the amounts authorized to be appropriated for research, development, test, and evaluation for each of fiscal years 2011 through 2023 may be used for any such fiscal year for the program established under subsection (a).
 
 >     “(e)  __Transfer Authority__  __.—__ 
 
 >     The Secretary may transfer funds available for the program to the research, development, test, and evaluation accounts of a military department, defense agency, or the unified combatant command for special operations forces pursuant to a proposal, or any part of a proposal, that the Secretary determines would directly support the purposes of the program. The transfer authority provided in this subsection is in addition to any other transfer authority available to the Department of Defense.
 
->     “(f)  __Report__  __.—__ 
+>     “(f)  __Termination__  __.—__ 
 
->     Not later than 60 days after the last day of a fiscal year during which the Secretary carries out a program under this section, the Secretary shall submit to the congressional defense committees a report that includes a list and description of each project funded under this section, including, for each such project, the amount of funding provided for the project, the defense acquisition program that the project supports, including the extent to which the project meets needs identified in its acquisition plan, the anticipated timeline for transition for the project, and the degree to which a competitive, merit-based process was used to evaluate and select the performers of the projects selected under this program.
-
->     “(g)  __Termination__  __.—__ 
-
->     The authority to carry out a program under this section shall terminate on September 30, 2015. Any amounts made available for the program that remain available for obligation on the date the program terminates may be transferred under subsection (e) during the 180-day period beginning on the date of the termination of the program.”
+>     The authority to carry out a program under this section shall terminate on September 30, 2023. Any amounts made available for the program that remain available for obligation on the date the program terminates may be transferred under subsection (e) during the 180-day period beginning on the date of the termination of the program.”
 
 ----------
 
@@ -194,5 +194,9 @@
 [/us/usc/t15/s3703/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3703%2F4
 [/us/pl/111/383/s1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1073
 [/us/stat/124/4366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4366
+[/us/pl/114/92/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs216
+[/us/stat/129/769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F769
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
 
 

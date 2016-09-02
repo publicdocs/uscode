@@ -67,6 +67,82 @@
 
 > “[Section 1092 of title 10][/us/usc/t10/s1092], United States Code, as added by subsection (a), shall take effect on October 1, 1983.”
 
+ __Pilot Program on Incentive Programs To Improve Health Care Provided Under the TRICARE Program__ 
+
+[Pub. L. 114–92, div. A, title VII, § 726][/us/pl/114/92/s726], Nov. 25, 2015, [129 Stat. 871][/us/stat/129/871], provided that:
+
+>     “(a)  __Pilot Program__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall commence the conduct of a pilot program under [section 1092 of title 10][/us/usc/t10/s1092], United States Code, to assess whether a reduction in the rate of increase in health care spending by the Department of Defense and an enhancement of the operation of the military health system may be achieved by developing and implementing value-based incentive programs to encourage health care providers under the TRICARE program (including physicians, hospitals, and others involved in providing health care to patients) to improve the following:
+
+>         “(1) The quality of health care provided to covered beneficiaries under the TRICARE program.
+
+>         “(2) The experience of covered beneficiaries in receiving health care under the TRICARE program.
+
+>         “(3) The health of covered beneficiaries.
+
+>     “(b) __Incentive Programs.—__ 
+
+>         “(1)  __Development__  __.—__ 
+
+>         In developing an incentive program under this section, the Secretary shall—
+
+>             “(A) consider the characteristics of the population of covered beneficiaries affected by the incentive program;
+
+>             “(B) consider how the incentive program would impact the receipt of health care under the TRICARE program by such covered beneficiaries;
+
+>             “(C) establish or maintain an assurance that such covered beneficiaries will have timely access to health care during operation of the incentive program;
+
+>             “(D) ensure that there are no additional financial costs to such covered beneficiaries of implementing the incentive program; and
+
+>             “(E) consider such other factors as the Secretary considers appropriate.
+
+>         “(2)  __Elements__  __.—__ 
+
+>         With respect to an incentive program developed and implemented under this section, the Secretary shall ensure that—
+
+>             “(A) the size, scope, and duration of the incentive program is reasonable in relation to the purpose of the incentive program; and
+
+>             “(B) appropriate criteria and data collection are used to ensure adequate evaluation of the feasibility and advisability of implementing the incentive program throughout the TRICARE program.
+
+>         “(3)  __Use of existing models__  __.—__ 
+
+>         In developing an incentive program under this section, the Secretary may adapt a value-based incentive program conducted by the Centers for Medicare & Medicaid Services or any other governmental or commercial health care program.
+
+>     “(c)  __Termination__  __.—__ 
+
+>     The authority of the Secretary to carry out the pilot program under this section shall terminate on December 31, 2019.
+
+>     “(d) __Reports.—__ 
+
+>         “(1)  __Interim report__  __.—__ 
+
+>         Not later than one year after the date of the enactment of this Act, and not less frequently than once each year thereafter until the termination of the pilot program, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot program.
+
+>         “(2)  __Final report__  __.—__ 
+
+>         Not later than September 30, 2019, the Secretary shall submit to the congressional defense committees a final report on the pilot program.
+
+>         “(3)  __Elements__  __.—__ 
+
+>         Each report submitted under paragraph (1) or paragraph (2) shall include the following:
+
+>             “(A)
+
+>              An assessment of each incentive program developed and implemented under this section, including whether such incentive program—
+
+>                 “(i) improves the quality of health care provided to covered beneficiaries, the experience of covered beneficiaries in receiving health care under the TRICARE program, or the health of covered beneficiaries;
+
+>                 “(ii) reduces the rate of increase in health care spending by the Department of Defense; or
+
+>                 “(iii) enhances the operation of the military health system.
+
+>             “(B) Such recommendations for administrative or legislative action as the Secretary considers appropriate in light of the pilot program, including to implement any such incentive program or programs throughout the TRICARE program.
+
+>     “(e)  __Definitions__  __.—__ 
+
+>     In this section, the terms ‘covered beneficiary’ and ‘TRICARE program’ have the meanings given those terms in [section 1072 of title 10][/us/usc/t10/s1072], United States Code.”
+
  __Pilot Program on Certain Treatments of Autism Under the TRICARE Program__ 
 
 [Pub. L. 112–239, div. A, title VII, § 705][/us/pl/112/239/s705], Jan. 2, 2013, [126 Stat. 1800][/us/stat/126/1800], provided that:
@@ -422,6 +498,10 @@
 [/us/pl/98/94/s933/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs933%2Fb
 [/us/stat/97/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F651
 [/us/usc/t10/s1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1092
+[/us/pl/114/92/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs726
+[/us/stat/129/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F871
+[/us/usc/t10/s1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1092
+[/us/usc/t10/s1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072
 [/us/pl/112/239/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs705
 [/us/stat/126/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1800
 [/us/usc/t10/s1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1079

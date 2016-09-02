@@ -37,7 +37,7 @@
 
  __Family Support Programs for Immediate Family Members of Members of the Armed Forces Assigned to Special Operations Forces__ 
 
-[Pub. L. 113–66, div. A, title V, § 554][/us/pl/113/66/s554], Dec. 26, 2013, [127 Stat. 765][/us/stat/127/765], provided that:
+[Pub. L. 113–66, div. A, title V, § 554][/us/pl/113/66/s554], Dec. 26, 2013, [127 Stat. 765][/us/stat/127/765], as amended by [Pub. L. 114–92, div. A, title V, § 574][/us/pl/114/92/s574], Nov. 25, 2015, [129 Stat. 831][/us/stat/129/831], provided that:
 
 >     “(a)  __Pilot Programs Authorized__  __.—__ 
 
@@ -71,17 +71,17 @@
 
 >     “(f)  __Duration of Pilot Program Authority__  __.—__ 
 
->     The authority provided by subsection (a) is available to the Commander during fiscal years 2014 through 2016.
+>     The authority provided by subsection (a) is available to the Commander during fiscal years 2014 through 2018.
 
 >     “(g) __Report Required.—__ 
 
 >         “(1)  __In general__  __.—__ 
 
->         Not later than 180 days after completing a pilot program under subsection (a), the Commander shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report describing the results of the pilot program. The Commander shall prepare the report in coordination with the Under Secretary of Defense for Personnel and Readiness.
+>         Not later than March 1, 2016, and each March 1 thereafter though the conclusion of the pilot programs conducted under subsection (a), the Commander, in coordination with the Under Secretary of Defense for Personnel and Readiness, shall submit to the congressional defense committees a report describing the progress made in achieving the goals of the pilot programs.
 
 >         “(2)  __Elements of report__  __.—__ 
 
->         The report shall include the following:
+>         Each report under this subsection shall include the following for each pilot program:
 
 >             “(A) A description of the pilot program to address family support requirements not being provided by the Secretary of a military department to immediate family members of members of the Armed Forces assigned to special operations forces.
 
@@ -170,6 +170,8 @@
 [/us/usc/t10/s1788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1788
 [/us/pl/113/66/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs554
 [/us/stat/127/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F765
+[/us/pl/114/92/s574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs574
+[/us/stat/129/831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F831
 [/us/usc/t10/s1789/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1789%2Fc
 [/us/pl/109/364/s575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs575
 [/us/stat/120/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2227

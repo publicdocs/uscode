@@ -33,29 +33,11 @@
 
     Any transfer of a vessel under this section, the maintenance and preservation of that vessel as a museum or memorial, and the ultimate disposal of that vessel, including demilitarization of Munitions List items at the end of the useful life of the vessel as a museum or memorial, shall be made at no cost to the Department of Defense.
 
-    (d)  __Congressional Notice-and-Wait Period__  __.—__ 
-
-        (1)
-
-         A transfer under this section may not take effect until—
-
-            (A) the Secretary submits to Congress notice of the proposed transfer; and
-
-            (B) 30 days of a session of Congress have expired following the date on which the notice is sent to Congress.
-
-        (2)
-
-         For purposes of paragraph (1)(B)—
-
-            (A) the period of a session of Congress is broken only by an adjournment of Congress sine die at the end of the final session of a Congress; and
-
-            (B) any day on which either House of Congress is not in session because of an adjournment of more than 3 days to a day certain, or because of an adjournment sine die at the end of the first session of a Congress, shall be excluded in the computation of such 30-day period.
-
-    (e)  __Application of Environmental Laws__  __.—__ 
+    (d)  __Application of Environmental Laws__  __.—__ 
 
     Nothing in this section shall affect the applicability of Federal, State, interstate, and local environmental laws and regulations, including the Toxic Substances Control Act ([15 U.S.C. 2601][/us/usc/t15/s2601] et seq.) and the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601][/us/usc/t42/s9601] et seq.), to the Department of Defense or to a donee.
 
-    (f)  __Definitions__  __.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -65,21 +47,23 @@
 
         (3) The term “donee” means any entity receiving a vessel pursuant to subsection (a).
 
-(Added [Pub. L. 103–160, div. A, title VIII, § 824(b)][/us/pl/103/160/s824/b], Nov. 30, 1993, [107 Stat. 1709][/us/stat/107/1709]; amended [Pub. L. 106–65, div. A, title X, § 1011][/us/pl/106/65/s1011], Oct. 5, 1999, [113 Stat. 739][/us/stat/113/739]; [Pub. L. 107–217, § 3(b)(29)][/us/pl/107/217/s3/b/29], Aug. 21, 2002, [116 Stat. 1297][/us/stat/116/1297]; [Pub. L. 113–66, div. A, title X, § 1022(a)][/us/pl/113/66/s1022/a]–(e)(1), Dec. 26, 2013, [127 Stat. 845][/us/stat/127/845], 846.)
+(Added [Pub. L. 103–160, div. A, title VIII, § 824(b)][/us/pl/103/160/s824/b], Nov. 30, 1993, [107 Stat. 1709][/us/stat/107/1709]; amended [Pub. L. 106–65, div. A, title X, § 1011][/us/pl/106/65/s1011], Oct. 5, 1999, [113 Stat. 739][/us/stat/113/739]; [Pub. L. 107–217, § 3(b)(29)][/us/pl/107/217/s3/b/29], Aug. 21, 2002, [116 Stat. 1297][/us/stat/116/1297]; [Pub. L. 113–66, div. A, title X, § 1022(a)][/us/pl/113/66/s1022/a]–(e)(1), Dec. 26, 2013, [127 Stat. 845][/us/stat/127/845], 846; [Pub. L. 114–92, div. A, title X, § 1074(b)][/us/pl/114/92/s1074/b], Nov. 25, 2015, [129 Stat. 996][/us/stat/129/996].)
 
  __References in Text__ 
 
-    The Toxic Substances Control Act, referred to in subsec. (e), is [Pub. L. 94–469][/us/pl/94/469], Oct. 11, 1976, [90 Stat. 2003][/us/stat/90/2003], which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15][/us/usc/t15/s2601] and Tables.
+    The Toxic Substances Control Act, referred to in subsec. (d), is [Pub. L. 94–469][/us/pl/94/469], Oct. 11, 1976, [90 Stat. 2003][/us/stat/90/2003], which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15][/us/usc/t15/s2601] and Tables.
 
-    The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (e), is [Pub. L. 96–510][/us/pl/96/510], Dec. 11, 1980, [94 Stat. 2767][/us/stat/94/2767], which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42][/us/usc/t42/s9601] and Tables.
+    The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (d), is [Pub. L. 96–510][/us/pl/96/510], Dec. 11, 1980, [94 Stat. 2767][/us/stat/94/2767], which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42][/us/usc/t42/s9601] and Tables.
 
-    Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (f)(1), is classified to [section 501(c)(3) of Title 26][/us/usc/t26/s501/c/3], Internal Revenue Code.
+    Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (e)(1), is classified to [section 501(c)(3) of Title 26][/us/usc/t26/s501/c/3], Internal Revenue Code.
 
  __Prior Provisions__ 
 
     A prior section 7306, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 452][/us/stat/70A/452]; Nov. 8, 1965, [Pub. L. 89–348, § 1(10)][/us/pl/89/348/s1/10], [79 Stat. 1311][/us/stat/79/1311]; Nov. 2, 1966, [Pub. L. 89–718, § 42][/us/pl/89/718/s42], [80 Stat. 1120][/us/stat/80/1120]; Nov. 29, 1989, [Pub. L. 101–189, div. A, title XVI, § 1616][/us/pl/101/189/s1616], [103 Stat. 1602][/us/stat/103/1602], related to use of vessels stricken from the Naval Vessel Register for experimental purposes, prior to repeal by [Pub. L. 103–160, § 824(b)][/us/pl/103/160/s824/b]. See [section 7306a of this title][/us/usc/t10/s7306a].
 
  __Amendments__ 
+
+    2015—Subsecs. (d) to (f). [Pub. L. 114–92][/us/pl/114/92] redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which related to congressional notice-and-wait period.
 
     2013—[Pub. L. 113–66, § 1022(e)(1)][/us/pl/113/66/s1022/e/1], substituted “Vessels stricken from Naval Vessel Register; captured vessels: conveyance by donation” for “Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise” in section catchline.
 
@@ -127,6 +111,8 @@
 [/us/stat/116/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1297
 [/us/pl/113/66/s1022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1022%2Fa
 [/us/stat/127/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F845
+[/us/pl/114/92/s1074/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1074%2Fb
+[/us/stat/129/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F996
 [/us/pl/94/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F469
 [/us/stat/90/2003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2003
 [/us/usc/t15/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2601
@@ -144,6 +130,7 @@
 [/us/stat/103/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1602
 [/us/pl/103/160/s824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs824%2Fb
 [/us/usc/t10/s7306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7306a
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/66/s1022/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1022%2Fe%2F1
 [/us/pl/113/66/s1022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1022%2Fa
 [/us/usc/t40/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs113

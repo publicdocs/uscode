@@ -231,11 +231,11 @@ July 9, 1952, ch. 608, § 601, 66 Stat. 501.  </td>
 
  __Requirements for Transferring Aircraft Within the Air Force Inventory__ 
 
-[Pub. L. 111–383, div. A, title III, § 345][/us/pl/111/383/s345], Jan. 7, 2011, [124 Stat. 4191][/us/stat/124/4191], provided that:
+[Pub. L. 111–383, div. A, title III, § 345][/us/pl/111/383/s345], Jan. 7, 2011, [124 Stat. 4191][/us/stat/124/4191], as amended by [Pub. L. 114–92, div. A, title X, § 1088][/us/pl/114/92/s1088], Nov. 25, 2015, [129 Stat. 1014][/us/stat/129/1014], provided that:
 
 >     “(a)  __Requirements__  __.—__ 
 
->     In proposing the transfer of ownership of any aircraft from ownership by a reserve component of the Air Force to ownership by a regular component of the Air Force, including such a transfer to be made on a temporary basis, the Secretary of the Air Force shall ensure that a written agreement regarding such transfer of ownership has been entered into between the Director of the Air National Guard, the Commander of the Air Force Reserve Command, and the Chief of Staff of the Air Force. Any such agreement shall specify each of the following:
+>     Before making an aircraft transfer described in subsection (c), the Secretary of the Air Force shall ensure that a written agreement regarding such transfer has been entered into between the Chief of Staff of the Air Force and the Director of the Air National Guard or the Chief of Air Force Reserve. Any such agreement shall specify each of the following:
 
 >         “(1) The number of and type of aircraft to be transferred.
 
@@ -243,13 +243,13 @@ July 9, 1952, ch. 608, § 601, 66 Stat. 501.  </td>
 
 >          In the case of any aircraft transferred on a temporary basis—
 
->             “(A) the schedule under which the aircraft will be returned to the ownership of the reserve component;
+>             “(A) the schedule under which the aircraft will be returned to the reserve component;
 
 >             “(B) a description of the condition, including the estimated remaining service life, in which any such aircraft will be returned to the reserve component; and
 
->             “(C) a description of the allocation of resources, including the designation of responsibility for funding aircraft operation and maintenance and a detailed description of budgetary responsibilities, for the period for which the ownership of the aircraft is transferred to the regular component.
+>             “(C) a description of the allocation of resources, including the designation of responsibility for funding aircraft operation and maintenance and a detailed description of budgetary responsibilities, for the period for which the aircraft is transferred to the regular component.
 
->         “(3) The designation of responsibility for funding depot maintenance requirements or modifications to the aircraft generated as a result of the transfer, including any such requirements and modifications required during the period for which the ownership of the aircraft is transferred to the regular component.
+>         “(3) The designation of responsibility for funding maintenance requirements or modifications to the aircraft generated as a result of the transfer, including any such requirements and modifications required during the period for which the aircraft is transferred to the regular component.
 
 >         “(4) Any location from which the aircraft will be transferred.
 
@@ -257,11 +257,39 @@ July 9, 1952, ch. 608, § 601, 66 Stat. 501.  </td>
 
 >         “(6) The effects on the skills and proficiencies of the reserve component personnel affected by the transfer.
 
->         “(7) Any other items the Director of the Air National Guard or the Commander of the Air Force Reserve Command determines are necessary in order to execute such a transfer.
+>         “(7) Any other items the Director of the Air National Guard or the Chief of Air Force Reserve determines are necessary in order to execute such a transfer.
 
->     “(b)  __Submittal of Agreements to Congress__  __.—__ 
+>     “(b)  __Submittal of Agreements to the Department of Defense and Congress__  __.—__ 
 
->     The Secretary of the Air Force may not take any action to transfer the ownership of an aircraft as described in subsection (a) until the Secretary submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an agreement entered into pursuant to such subsection regarding the transfer of ownership of the aircraft.”
+>     The Secretary of the Air Force may not take any action to transfer an aircraft until the Secretary—
+
+>         “(1) ensures that the Air Force has complied with Department of Defense regulations applicable to the transfer; and
+
+>         “(2) for a transfer described in subsection (c)(1), submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an agreement entered into pursuant to subsection (a) regarding the transfer of the aircraft.
+
+>     “(c) __Covered Aircraft Transfers.—__ 
+
+>         “(1)  __Covered transfers__  __.—__ 
+
+>         An aircraft transfer described in this subsection is the transfer (other than as specified in paragraph (2)) from a reserve component of the Air Force to the regular component of the Air Force of—
+
+>             “(A) the permanent assignment of an aircraft that terminates a reserve component’s equitable interest in the aircraft; or
+
+>             “(B) possession of an aircraft for a period in excess of 90 days.
+
+>         “(2)  __Exceptions__  __.—__ 
+
+>         Paragraph (1) does not apply to the following:
+
+>             “(A) A routine temporary transfer of possession of an aircraft from a reserve component that is made solely for the benefit of the reserve component for the purpose of maintenance, upgrade, conversion, modification, or testing and evaluation.
+
+>             “(B) A routine permanent transfer of assignment of an aircraft that terminates a reserve component’s equitable interest in the aircraft if notice of the transfer has previously been provided to the congressional defense committees and the transfer has been approved by the Secretary of Defense pursuant to Department of Defense regulations.
+
+>             “(C) A transfer described in paragraph (1)(A) when there is a reciprocal permanent assignment of an aircraft from the regular component of the Air Force to the reserve component that does not degrade the capability of, or reduce the total number of, aircraft assigned to the reserve component.
+
+>     “(d)  __Return of Aircraft After Routine Temporary Transfer__  __.—__ 
+
+>     In the case of an aircraft transferred from a reserve component of the Air Force to the regular component of the Air Force for which an agreement under subsection (a) is not required by reason of subsection (c)(2)(A), possession of the aircraft shall be transferred back to the reserve component upon completion of the work described in subsection (c)(2)(A).”
 
  __Consolidation of Air Force and Air National Guard Aircraft Maintenance__ 
 
@@ -337,6 +365,8 @@ July 9, 1952, ch. 608, § 601, 66 Stat. 501.  </td>
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
 [/us/pl/111/383/s345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs345
 [/us/stat/124/4191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4191
+[/us/pl/114/92/s1088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1088
+[/us/stat/129/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1014
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4416
 [/us/pl/111/383/s1075/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fe%2F4

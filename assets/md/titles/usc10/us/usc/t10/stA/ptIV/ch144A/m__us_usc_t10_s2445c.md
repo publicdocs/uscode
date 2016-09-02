@@ -39,11 +39,9 @@
 
             (A) there has been a schedule change that will cause a delay of more than six months but less than a year in any program schedule milestone or significant event from the schedule originally submitted to Congress under paragraph (1) or (2) of [section 2445b(b) of this title][/us/usc/t10/s2445b/b];
 
-            (B) the estimated total acquisition cost or full life-cycle cost for the program has increased by at least 15 percent, but less than 25 percent, over the original estimate submitted to Congress under paragraph (3) of [section 2445b(b) of this title][/us/usc/t10/s2445b/b];
+            (B) the estimated total acquisition cost or full life-cycle cost for the program has increased by at least 15 percent, but less than 25 percent, over the original estimate submitted to Congress under paragraph (3) of [section 2445b(b) of this title][/us/usc/t10/s2445b/b]; or
 
-            (C) there has been a significant, adverse change in the expected performance of the major automated information system to be acquired under the program from the parameters originally submitted to Congress under paragraph (4) of [section 2445b(b) of this title][/us/usc/t10/s2445b/b]; or
-
-            (D) the automated information system or information technology investment failed to achieve a full deployment decision within five years after the Milestone A decision for the program or, if there was no Milestone A decision, the date when the preferred alternative is selected for the program (excluding any time during which program activity is delayed as a result of a bid protest).
+            (C) there has been a significant, adverse change in the expected performance of the major automated information system to be acquired under the program from the parameters originally submitted to Congress under paragraph (4) of [section 2445b(b) of this title][/us/usc/t10/s2445b/b].
 
     (d) __Report on Critical Changes in Program.—__ 
 
@@ -97,9 +95,11 @@
 
         (2) The prohibition on the obligation of funds for a program under paragraph (1) shall cease to apply on the date on which Congress has received a report under subsection (d)(1)(B).
 
-(Added [Pub. L. 109–364, div. A, title VIII, § 816(a)(1)][/us/pl/109/364/s816/a/1], Oct. 17, 2006, [120 Stat. 2324][/us/stat/120/2324]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 812(c), Oct. 14, 2008, [122 Stat. 4526][/us/stat/122/4526]; [Pub. L. 111–23, title I, § 101(d)(6)][/us/pl/111/23/s101/d/6], May 22, 2009, [123 Stat. 1710][/us/stat/123/1710]; [Pub. L. 111–84, div. A, title VIII, § 841(b)][/us/pl/111/84/s841/b], Oct. 28, 2009, [123 Stat. 2418][/us/stat/123/2418]; [Pub. L. 112–81, div. A, title VIII, § 811][/us/pl/112/81/s811], Dec. 31, 2011, [125 Stat. 1491][/us/stat/125/1491]; [Pub. L. 113–66, div. A, title X, § 1092(b)][/us/pl/113/66/s1092/b], (c), (d)(2), (e), Dec. 26, 2013, [127 Stat. 877][/us/stat/127/877], 878; [Pub. L. 113–291, div. A, title VIII, § 802][/us/pl/113/291/s802], Dec. 19, 2014, [128 Stat. 3427][/us/stat/128/3427].)
+(Added [Pub. L. 109–364, div. A, title VIII, § 816(a)(1)][/us/pl/109/364/s816/a/1], Oct. 17, 2006, [120 Stat. 2324][/us/stat/120/2324]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 812(c), Oct. 14, 2008, [122 Stat. 4526][/us/stat/122/4526]; [Pub. L. 111–23, title I, § 101(d)(6)][/us/pl/111/23/s101/d/6], May 22, 2009, [123 Stat. 1710][/us/stat/123/1710]; [Pub. L. 111–84, div. A, title VIII, § 841(b)][/us/pl/111/84/s841/b], Oct. 28, 2009, [123 Stat. 2418][/us/stat/123/2418]; [Pub. L. 112–81, div. A, title VIII, § 811][/us/pl/112/81/s811], Dec. 31, 2011, [125 Stat. 1491][/us/stat/125/1491]; [Pub. L. 113–66, div. A, title X, § 1092(b)][/us/pl/113/66/s1092/b], (c), (d)(2), (e), Dec. 26, 2013, [127 Stat. 877][/us/stat/127/877], 878; [Pub. L. 113–291, div. A, title VIII, § 802][/us/pl/113/291/s802], Dec. 19, 2014, [128 Stat. 3427][/us/stat/128/3427]; [Pub. L. 114–92, div. A, title VIII, § 891(b)][/us/pl/114/92/s891/b], Nov. 25, 2015, [129 Stat. 952][/us/stat/129/952].)
 
  __Amendments__ 
+
+    2015—Subsec. (c)(2)(B) to (D). [Pub. L. 114–92][/us/pl/114/92] substituted “; or” for semicolon at end of subpar. (B) and period for “; or” at end of subpar. (C) and struck out subpar. (D) which read as follows: “the automated information system or information technology investment failed to achieve a full deployment decision within five years after the Milestone A decision for the program or, if there was no Milestone A decision, the date when the preferred alternative is selected for the program (excluding any time during which program activity is delayed as a result of a bid protest).”
 
     2014—Subsec. (c)(2)(D). [Pub. L. 113–291, § 802(a)][/us/pl/113/291/s802/a], added subpar. (D).
 
@@ -178,6 +178,9 @@
 [/us/stat/127/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F877
 [/us/pl/113/291/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs802
 [/us/stat/128/3427]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3427
+[/us/pl/114/92/s891/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs891%2Fb
+[/us/stat/129/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F952
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs802%2Fa
 [/us/pl/113/291/s802/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs802%2Fc
 [/us/pl/113/291/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs802%2Fb

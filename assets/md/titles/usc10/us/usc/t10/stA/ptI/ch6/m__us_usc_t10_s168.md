@@ -129,11 +129,11 @@
 
 > “The Under Secretary of Defense for Policy shall issue an update of the policy of the Department of Defense for assignment of civilian employees of the Department as advisors to foreign ministries of defense under the authority in section 1081 of the National Defense Authorization Act for Fiscal Year 2012 \[[section 1081 of Pub. L. 112–81][/us/pl/112/81/s1081], set out below\], as amended by this section.”
 
- __Authority for Assignment of Civilian Employees of the Department of Defense as Advisors to Foreign Ministries of Defense and Regional Organizations__ 
+ __Defense Institution Capacity Building Program__ 
 
-[Pub. L. 112–81, div. A, title X, § 1081][/us/pl/112/81/s1081], Dec. 31, 2011, [125 Stat. 1599][/us/stat/125/1599], as amended by [Pub. L. 113–66, div. A, title X, § 1094(a)(1)][/us/pl/113/66/s1094/a/1], (3)–(5), Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878]; [Pub. L. 113–291, div. A, title X, § 1047(a)][/us/pl/113/291/s1047/a], (c), Dec. 19, 2014, [128 Stat. 3494][/us/stat/128/3494], 3495, provided that:
+[Pub. L. 112–81, div. A, title X, § 1081][/us/pl/112/81/s1081], Dec. 31, 2011, [125 Stat. 1599][/us/stat/125/1599], as amended by [Pub. L. 113–66, div. A, title X, § 1094(a)(1)][/us/pl/113/66/s1094/a/1], (3)–(5), Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878]; [Pub. L. 113–291, div. A, title X, § 1047(a)][/us/pl/113/291/s1047/a], (c), Dec. 19, 2014, [128 Stat. 3494][/us/stat/128/3494], 3495; [Pub. L. 114–92, div. A, title X, § 1055(a)][/us/pl/114/92/s1055/a]–(d)(1), Nov. 25, 2015, [129 Stat. 982][/us/stat/129/982], 983, provided that:
 
->     “(a)  __Authority__  __.—__ 
+>     “(a)  __Ministry of Defense Advisor Authority__  __.—__ 
 
 >     The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to assign civilian employees of the Department of Defense as advisors to the ministries of defense (or security agencies serving a similar defense function) of foreign countries or regional organizations with security missions in order to—
 
@@ -141,19 +141,49 @@
 
 >         “(2) assist such ministry or regional organization in building core institutional capacity, competencies, and capabilities to manage defense-related processes.
 
->     “(b) __Termination of Authority.—__ 
+>     “(b) __Training of Personnel of Foreign Ministries With Security Missions.—__ 
 
 >         “(1)  __In general__  __.—__ 
 
->         The authority of the Secretary of Defense to assign civilian employees under the program under subsection (a) terminates at the close of September 30, 2017.
+>         The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to provide training and associated training support services to personnel of foreign ministries of defense (or ministries with security force oversight) or regional organizations with security missions—
+
+>             “(A)
+
+>              for the purpose of—
+
+>                 “(i) enhancing civilian oversight of foreign security forces;
+
+>                 “(ii) establishing responsible defense governance and internal controls in order to help build effective, transparent, and accountable defense institutions;
+
+>                 “(iii) assessing organizational weaknesses and establishing a roadmap for addressing shortfalls; and
+
+>                 “(iv) enhancing ministerial, general or joint staff, or service level core management competencies; and
+
+>             “(B) for such other purposes as the Secretary considers appropriate, consistent with the authority in subsection (a).
+
+>         “(2)  __Notice to congress__  __.—__ 
+
+>         Each fiscal year quarter, the Secretary of Defense shall submit to the appropriate committees of Congress a report on activities under the program under paragraph (1) during the preceding fiscal year quarter. Each report shall include, for the fiscal year quarter covered by such report, the following:
+
+>             “(A) A list of activities under the program.
+
+>             “(B) A list of any organization described in paragraph (1) to which the Secretary assigned employees under the program, including the number of such employees so assigned, the duration of each assignment, a brief description of each assigned employee’s activities, and a statement of the cost of each assignment.
+
+>             “(C) A comprehensive justification of any activities conducted pursuant to paragraph (1)(B).
+
+>     “(c) __Termination of Authority.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The authority in this section terminates at the close of December 31, 2017.
 
 >         “(2)  __Continuation of assignments__  __.—__ 
 
 >         Any assignment of a civilian employee under subsection (a) before the date specified in paragraph (1) may continue after that date, but only using funds available for a fiscal year ending on or before that date.
 
->     “(c)  __Congressional Notice__  __.—__ 
+>     “(d)  __Congressional Notice__  __.—__ 
 
->     Not later than 15 days before assigning a civilian employee of the Department of Defense as an advisor to a regional organization with a security mission under subsection (a), the Secretary shall submit to the Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs of the House of Representatives a notification of such assignment. Such a notification shall include each of the following:
+>     Not later than 15 days before assigning a civilian employee of the Department of Defense as an advisor to a regional organization with a security mission under subsection (a), the Secretary shall submit to the appropriate committees of Congress a notification of such assignment. Such a notification shall include each of the following:
 
 >         “(1) A statement of the intent of the Secretary to assign the employee as an advisor to the regional organization.
 
@@ -163,9 +193,9 @@
 
 >         “(4) Any other information relating to the assignment that the Secretary of Defense considers appropriate.
 
->     “(d)  __Annual Report__  __.—__ 
+>     “(e)  __Annual Report__  __.—__ 
 
->     Not later than December 30 each year through 2017, the Secretary of Defense shall submit to the Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs of the House of Representatives a report on activities under the program under subsection (a) during the preceding fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
+>     Not later than December 30 each year through 2017, the Secretary of Defense shall submit to the appropriate committees of Congress a report on activities under the program under subsection (a) during the preceding fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
 
 >         “(1) A list of the defense ministries and regional organizations with security missions to which civilian employees were assigned under the program.
 
@@ -181,15 +211,23 @@
 
 >         “(7) Recommendations, if any, about changes to the authority, including an assessment of whether expanding the program authority to include assignments to bilateral, regional, or multilateral international security organizations would advance the national security interests of the United States.
 
->     “(e)  __Comptroller General Report__  __.—__ 
+>     “(f)  __Comptroller General Report__  __.—__ 
 
->     Not later than December 31, 2014, the Comptroller General of the United States shall submit to the committees of Congress specified in subsection (d) a report setting forth an assessment of the effectiveness of the advisory services provided by civilian employees assigned under the program under subsection (a) as of the date of the report in meeting the purposes of the program.”
+>     Not later than December 31, 2014, the Comptroller General of the United States shall submit to the committees of Congress specified in subsection (d) a report setting forth an assessment of the effectiveness of the advisory services provided by civilian employees assigned under the program under subsection (a) as of the date of the report in meeting the purposes of the program.
+
+>     “(g)  __Appropriate Committees of Congress Defined__  __.—__ 
+
+>     In this section, the term ‘appropriate committees of Congress’ means—
+
+>         “(1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+>         “(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.”
 
     \[[Pub. L. 113–66, div. A, title X, § 1094(a)(3)][/us/pl/113/66/s1094/a/3]–(5), Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878], which directed amendment of “such section” by striking “2014” and inserting “2017” in subsec. (c), by striking “carried out such by such” and inserting “carried out by such” in subsec. (c)(4), and by striking “December 30, 2013” and inserting “December 31, 2014” in subsec. (d), was executed to [section 1081 of Pub. L. 112–81][/us/pl/112/81/s1081], set out above, to reflect the probable intent of Congress.\]
 
  __Authority for Non-Reciprocal Exchanges of Defense Personnel Between the United States and Foreign Countries__ 
 
-[Pub. L. 111–84, div. A, title XII, § 1207][/us/pl/111/84/s1207], Oct. 28, 2009, [123 Stat. 2514][/us/stat/123/2514], as amended by [Pub. L. 112–239, div. A, title XII, § 1202][/us/pl/112/239/s1202], Jan. 2, 2013, [126 Stat. 1980][/us/stat/126/1980], provided that:
+[Pub. L. 111–84, div. A, title XII, § 1207][/us/pl/111/84/s1207], Oct. 28, 2009, [123 Stat. 2514][/us/stat/123/2514], as amended by [Pub. L. 112–239, div. A, title XII, § 1202][/us/pl/112/239/s1202], Jan. 2, 2013, [126 Stat. 1980][/us/stat/126/1980]; [Pub. L. 114–92, div. A, title XII, § 1204][/us/pl/114/92/s1204], Nov. 25, 2015, [129 Stat. 1039][/us/stat/129/1039], provided that:
 
 >     “(a) __Authority To Enter Into Non-reciprocal International Exchange Agreements.—__ 
 
@@ -251,7 +289,7 @@
 
 >     “(f)  __Duration of Authority__  __.—__ 
 
->     The authority under this section shall expire on September 30, 2016.”
+>     The authority under this section shall expire on December 31, 2021.”
 
  __Limitation on Military-to-Military Exchanges and Contacts With Chinese People’s Liberation Army__ 
 
@@ -391,6 +429,8 @@
 [/us/stat/127/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F878
 [/us/pl/113/291/s1047/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1047%2Fa
 [/us/stat/128/3494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3494
+[/us/pl/114/92/s1055/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1055%2Fa
+[/us/stat/129/982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F982
 [/us/pl/113/66/s1094/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1094%2Fa%2F3
 [/us/stat/127/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F878
 [/us/pl/112/81/s1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1081
@@ -398,6 +438,8 @@
 [/us/stat/123/2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2514
 [/us/pl/112/239/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1202
 [/us/stat/126/1980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1980
+[/us/pl/114/92/s1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1204
+[/us/stat/129/1039]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1039
 [/us/pl/106/65/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1201
 [/us/stat/113/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F779
 [/us/pl/111/84/s1246/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1246%2Fd

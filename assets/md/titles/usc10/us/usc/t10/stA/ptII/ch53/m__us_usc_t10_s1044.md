@@ -41,7 +41,7 @@
 
         (1) Notwithstanding any law regarding the licensure of attorneys, a judge advocate or civilian attorney who is authorized to provide military legal assistance is authorized to provide that assistance in any jurisdiction, subject to such regulations as may be prescribed by the Secretary concerned.
 
-        (2) Military legal assistance may be provided only by a judge advocate or a civilian attorney who is a member of the bar of a Federal court or of the highest court of a State and, for purposes of service as a Special Victims’ Counsel under [section 1044e of this title][/us/usc/t10/s1044e], meets the additional qualifications specified in subsection (d)(2) of such section.
+        (2) Military legal assistance may be provided only by a judge advocate or a civilian attorney who is a member of the bar of a Federal court or of the highest court of a State and, for purposes of service as a Special Victims’ Counsel under [section 1044e of this title][/us/usc/t10/s1044e], satisfies the additional qualifications and training requirements specified in subsection (d) of such section.
 
         (3)
 
@@ -53,9 +53,11 @@
 
     (e) The Secretary concerned shall define “dependent” for the purposes of this section.
 
-(Added [Pub. L. 98–525, title VI, § 651(a)][/us/pl/98/525/s651/a], Oct. 19, 1984, [98 Stat. 2549][/us/stat/98/2549]; amended [Pub. L. 104–201, div. A, title V, § 583][/us/pl/104/201/s583], Sept. 23, 1996, [110 Stat. 2538][/us/stat/110/2538]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 524(a), (b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–108; [Pub. L. 109–163, div. A, title V, § 555][/us/pl/109/163/s555], Jan. 6, 2006, [119 Stat. 3265][/us/stat/119/3265]; [Pub. L. 110–181, div. A, title V, § 541][/us/pl/110/181/s541], Jan. 28, 2008, [122 Stat. 114][/us/stat/122/114]; [Pub. L. 111–84, div. A, title V, § 513][/us/pl/111/84/s513], Oct. 28, 2009, [123 Stat. 2282][/us/stat/123/2282]; [Pub. L. 112–239, div. A, title V, § 531(d)(2)][/us/pl/112/239/s531/d/2], Jan. 2, 2013, [126 Stat. 1726][/us/stat/126/1726]; [Pub. L. 113–66, div. A, title XVII, § 1716(a)(3)(A)][/us/pl/113/66/s1716/a/3/A], (B), Dec. 26, 2013, [127 Stat. 969][/us/stat/127/969]; [Pub. L. 113–291, div. A, title X, § 1071(f)(12)][/us/pl/113/291/s1071/f/12], Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510].)
+(Added [Pub. L. 98–525, title VI, § 651(a)][/us/pl/98/525/s651/a], Oct. 19, 1984, [98 Stat. 2549][/us/stat/98/2549]; amended [Pub. L. 104–201, div. A, title V, § 583][/us/pl/104/201/s583], Sept. 23, 1996, [110 Stat. 2538][/us/stat/110/2538]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 524(a), (b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–108; [Pub. L. 109–163, div. A, title V, § 555][/us/pl/109/163/s555], Jan. 6, 2006, [119 Stat. 3265][/us/stat/119/3265]; [Pub. L. 110–181, div. A, title V, § 541][/us/pl/110/181/s541], Jan. 28, 2008, [122 Stat. 114][/us/stat/122/114]; [Pub. L. 111–84, div. A, title V, § 513][/us/pl/111/84/s513], Oct. 28, 2009, [123 Stat. 2282][/us/stat/123/2282]; [Pub. L. 112–239, div. A, title V, § 531(d)(2)][/us/pl/112/239/s531/d/2], Jan. 2, 2013, [126 Stat. 1726][/us/stat/126/1726]; [Pub. L. 113–66, div. A, title XVII, § 1716(a)(3)(A)][/us/pl/113/66/s1716/a/3/A], (B), Dec. 26, 2013, [127 Stat. 969][/us/stat/127/969]; [Pub. L. 113–291, div. A, title X, § 1071(f)(12)][/us/pl/113/291/s1071/f/12], Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510]; [Pub. L. 114–92, div. A, title V, § 535(c)][/us/pl/114/92/s535/c], Nov. 25, 2015, [129 Stat. 816][/us/stat/129/816].)
 
  __Amendments__ 
+
+    2015—Subsec. (d)(2). [Pub. L. 114–92][/us/pl/114/92] substituted “satisfies the additional qualifications and training requirements specified in subsection (d)” for “meets the additional qualifications specified in subsection (d)(2)”.
 
     2014—Subsec. (d)(2). [Pub. L. 113–291][/us/pl/113/291] substituted “such section.” for “such section..”.
 
@@ -120,6 +122,9 @@
 [/us/stat/127/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F969
 [/us/pl/113/291/s1071/f/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F12
 [/us/stat/128/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3510
+[/us/pl/114/92/s535/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs535%2Fc
+[/us/stat/129/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F816
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/113/66/s1716/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1716%2Fa%2F3%2FA

@@ -103,9 +103,27 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2279a" data-uslm-ref="/us/usc/t10/s2279a">2279a.</a>  </td>
+
+    <td> Principal Advisor on Space Control.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2279b" data-uslm-ref="/us/usc/t10/s2279b">2279b.</a>  </td>
+
+    <td> Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92, div. A, title XVI][/us/pl/114/92], §§ 1602(b), 1603(b), Nov. 25, 2015, [129 Stat. 1096][/us/stat/129/1096], 1098, added items 2279a and 2279b.
 
     2013—[Pub. L. 113–66, div. A, title IX, § 911(b)][/us/pl/113/66/s911/b], title XVI, § 1602(a)(2), Dec. 26, 2013, [127 Stat. 823][/us/stat/127/823], 942, added items 2278 and 2279.
 
@@ -126,6 +144,8 @@
 ----------
 ----------
 
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1096
 [/us/pl/113/66/s911/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs911%2Fb
 [/us/stat/127/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F823
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239

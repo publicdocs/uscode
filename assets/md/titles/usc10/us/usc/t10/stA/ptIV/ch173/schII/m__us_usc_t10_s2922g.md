@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schII/m__us_usc_t10_s2922f.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schIII/m__us_usc_t10_stA_ptIV_ch173_schIII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2922g)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schII/m__us_usc_t10_s2922f.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schII/m__us_usc_t10_s2922h.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2922g)
 
 ## § 2922g. Preference for motor vehicles using electric or hybrid propulsion systems
 
@@ -45,7 +45,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schII/m__us_usc_t10_s2922f.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schIII/m__us_usc_t10_stA_ptIV_ch173_schIII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2922g)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schII/m__us_usc_t10_s2922f.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schII/m__us_usc_t10_s2922h.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2922g)
 
 ----------
 ----------

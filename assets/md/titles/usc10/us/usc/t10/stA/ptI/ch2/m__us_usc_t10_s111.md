@@ -121,6 +121,122 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
     Missions and functions of elements of Department of Defense as specified in classified annex to [Pub. L. 104–201][/us/pl/104/201], and related personnel, assets, and balances of appropriations and authorizations of appropriations, transferred to National Imagery and Mapping Agency, see sections 1111 and 1113 of [Pub. L. 104–201][/us/pl/104/201], set out as notes under [section 441 of this title][/us/usc/t10/s441].
 
+ __Reduction in Amounts Available for Department of Defense Headquarters, Administrative, and Support Activities__ 
+
+[Pub. L. 114–92, div. A, title III, § 346(a)][/us/pl/114/92/s346/a], (b), Nov. 25, 2015, [129 Stat. 796][/us/stat/129/796], provided that:
+
+>     “(a) __Plan for Achievement of Cost Savings.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Commencing not later than 120 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall implement a plan to ensure that the Department of Defense achieves not less than $10,000,000,000 in cost savings from the headquarters, administrative, and support activities of the Department during the period beginning with fiscal year 2015 and ending with fiscal year 2019. The Secretary shall ensure that at least one half of the required cost savings are programmed for fiscal years before fiscal year 2018.
+
+>         “(2)  __Treatment of savings pursuant to headquarters reduction__  __.—__ 
+
+>         Documented savings achieved pursuant to the headquarters reduction requirement in subsection (b), other than savings achieved in fiscal year 2020, shall count toward the cost savings required by paragraph (1).
+
+>         “(3)  __Treatment of savings pursuant to management activities__  __.—__ 
+
+>         Documented savings in the human resources management, health care management, financial flow management, information technology infrastructure and management, supply chain and logistics, acquisition and procurement, and real property management activities of the Department during the period referred to in paragraph (1) may be counted toward the cost savings required by paragraph (1).
+
+>         “(4)  __Treatment of savings pursuant to force structure revisions__  __.—__ 
+
+>         Savings or reductions to military force structure or military operating units of the Armed Forces may not count toward the cost savings required by paragraph (1).
+
+>         “(5)  __Reports__  __.—__ 
+
+>         The Secretary shall include with the budget for the Department of Defense for each of fiscal years 2017, 2018, and 2019, as submitted to Congress pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code, a report describing and assessing the progress of the Department in implementing the plan required by paragraph (1) and in achieving the cost savings required by that paragraph.
+
+>         “(6)  __Comptroller general assessments__  __.—__ 
+
+>         Not later than 90 days after the submittal of each report required by paragraph (5), the Comptroller General of the United States shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth the assessment of the Comptroller General of the report and of the extent to which the Department of Defense is in compliance with the requirements of this section.
+
+>     “(b) __Headquarters Reductions.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 90 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall modify the headquarters reduction plan required by section 904 of the National Defense Authorization Act for Fiscal Year 2014 ([Public Law 113–66][/us/pl/113/66]; [127 Stat. 816][/us/stat/127/816]; [10 U.S.C. 111][/us/usc/t10/s111] note) to ensure that it achieves savings in the total funding available for major Department of Defense headquarters activities by fiscal year 2020 that are not less than 25 percent of the baseline amount. The modified plan shall establish a specific savings objective for each major headquarters activity in each fiscal year through fiscal year 2020. The budget for the Department of Defense for each fiscal year after fiscal year 2016 shall reflect the savings required by the modified plan.
+
+>         “(2)  __Baseline amount__  __.—__ 
+
+>         For the purposes of this subsection, the baseline amount is the amount authorized to be appropriated by this Act \[see Tables for classification\] for fiscal year 2016 for major Department of Defense headquarters activities, adjusted by a credit for reductions in such headquarters activities that are documented, as of the date that is 90 days after the date of the enactment of this Act, as having been accomplished in earlier fiscal years in accordance with the December 2013 directive of the Secretary of Defense on headquarters reductions. The modified plan issued pursuant to paragraph (1) shall include an overall baseline amount for all of the major Department of Defense headquarters activities that credits reductions accomplished in earlier fiscal years in accordance with the December 2013 directive, and a specific baseline amount for each such headquarters activity that credits such reductions.
+
+>         “(3)  __Major department of defense headquarters activities defined__  __.—__ 
+
+>         In this subsection, the term ‘major Department of Defense headquarters activities’ means the following:
+
+>             “(A)
+
+>              Each of the following organizations:
+
+>                 “(i) The Office of the Secretary of Defense and the Joint Staff.
+
+>                 “(ii) The Office of the Secretary of the Army and the Army Staff.
+
+>                 “(iii) The Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, and Headquarters, Marine Corps.
+
+>                 “(iv) The Office of the Secretary of the Air Force and the Air Staff.
+
+>                 “(v) The Office of the Chief, National Guard Bureau, and the National Guard Joint Staff.
+
+>             “(B)
+
+>                 (i)
+
+>                  Except as provided in clause (ii), headquarters elements of each of the following:
+
+>                     “(I) The combatant commands, the sub-unified commands, and subordinate commands that directly report to such commands.
+
+>                     “(II) The major commands of the military departments and the subordinate commands that directly report to such commands.
+
+>                     “(III) The component commands of the military departments.
+
+>                     “(IV) The Defense Agencies, the Department of Defense field activities, and the Office of the Inspector General of the Department of Defense.
+
+>                     “(V) Department of Defense components that report directly to the organizations specified in subparagraph (A).
+
+>                 “(ii) Subordinate commands and direct-reporting components otherwise described in clause (i) that do not have significant functions other than operational, operational intelligence, or tactical functions, or training for operational, operational intelligence, or tactical functions, are not headquarters elements for purposes of this subsection.
+
+>         “(4)  __Implementation__  __.—__ 
+
+>         Not later than 120 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary shall revise applicable guidance on the Department of Defense major headquarters activities as needed to—
+
+>             “(A) incorporate into such guidance the definition of the term ‘major Department of Defense headquarters activities’ as provided in paragraph (3);
+
+>             “(B)
+
+>              ensure that the term ‘headquarters element’, as used in paragraph (3)(B), is consistently applied within such guidance to include—
+
+>                 “(i) senior leadership and staff functions of applicable commands and components; and
+
+>                 “(ii) direct support to senior leadership and staff functions of applicable commands and components and to higher headquarters;
+
+>             “(C) ensure that the budget and accounting systems of the Department of Defense are modified to track funding for the major Department of Defense headquarters activities as separate funding lines; and
+
+>             “(D) identify and address any deviation from the specific savings objective established for a headquarters activity in the modified plan issued by the Secretary pursuant to the requirement in paragraph (1).”
+
+ __Termination of Requirement for Submittal to Congress of Reports Required of Department of Defense by Statute__ 
+
+[Pub. L. 114–92, div. A, title X, § 1080][/us/pl/114/92/s1080], Nov. 25, 2015, [129 Stat. 1000][/us/stat/129/1000], provided that:
+
+>     “(a)  __Termination__  __.—__ 
+
+>     Effective on the date that is two years after the date of the enactment of this Act \[Nov. 25, 2015\], each report described in subsection (b) that is still required to be submitted to Congress as of such effective date shall no longer be required to be submitted to Congress.
+
+>     “(b)  __Covered Reports__  __.—__ 
+
+>     A report described in this subsection is a report that is required to be submitted to Congress by the Department of Defense, or by any officer, official, component, or element of the Department, by any annual national defense authorization Act as of April 1, 2015.
+
+>     “(c)  __Report to Congress__  __.—__ 
+
+>     Not later than February 1, 2016, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes each of the following:
+
+>         “(1) A list of all reports described in subsection (b).
+
+>         “(2) For each such report, a citation to the provision of law under which the report is required to be submitted.
+
+>         “(3) Draft legislation that would repeal each such report.”
+
  __Streamlining of Department of Defense Management Headquarters__ 
 
 [Pub. L. 113–66, div. A, title IX, § 904][/us/pl/113/66/s904], Dec. 26, 2013, [127 Stat. 816][/us/stat/127/816], as amended by [Pub. L. 113–291, div. A, title IX, § 905(e)][/us/pl/113/291/s905/e], Dec. 19, 2014, [128 Stat. 3472][/us/stat/128/3472], provided that:
@@ -494,6 +610,14 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t10/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs441
+[/us/pl/114/92/s346/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs346%2Fa
+[/us/stat/129/796]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F796
+[/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/stat/127/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F816
+[/us/usc/t10/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs111
+[/us/pl/114/92/s1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1080
+[/us/stat/129/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1000
 [/us/pl/113/66/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs904
 [/us/stat/127/816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F816
 [/us/pl/113/291/s905/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs905%2Fe

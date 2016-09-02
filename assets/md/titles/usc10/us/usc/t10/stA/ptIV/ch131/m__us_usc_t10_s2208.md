@@ -167,7 +167,35 @@
 
         (2) The amount of a transfer covered by a notification under paragraph (1) that is made in a fiscal year does not count toward any limitation on the total amount of transfers that may be made for that fiscal year under authority provided to the Secretary of Defense in a law authorizing appropriations for a fiscal year for military activities of the Department of Defense or a law making appropriations for the Department of Defense.
 
-(Added [Pub. L. 87–651, title II, § 207(a)][/us/pl/87/651/s207/a], Sept. 7, 1962, [76 Stat. 521][/us/stat/76/521]; amended [Pub. L. 97–295, § 1(22)][/us/pl/97/295/s1/22], Oct. 12, 1982, [96 Stat. 1290][/us/stat/96/1290]; [Pub. L. 98–94, title XII, § 1204(a)][/us/pl/98/94/s1204/a], Sept. 24, 1983, [97 Stat. 683][/us/stat/97/683]; [Pub. L. 98–525, title III, § 305][/us/pl/98/525/s305], Oct. 19, 1984, [98 Stat. 2513][/us/stat/98/2513]; [Pub. L. 100–26, § 7(d)(2)][/us/pl/100/26/s7/d/2], Apr. 21, 1987, [101 Stat. 280][/us/stat/101/280]; [Pub. L. 101–510, div. A, title VIII, § 801][/us/pl/101/510/s801], title XIII, § 1301(6), Nov. 5, 1990, [104 Stat. 1588][/us/stat/104/1588], 1668; [Pub. L. 102–172, title VIII, § 8137][/us/pl/102/172/s8137], Nov. 26, 1991, [105 Stat. 1212][/us/stat/105/1212]; [Pub. L. 102–484, div. A, title III, § 374][/us/pl/102/484/s374], Oct. 23, 1992, [106 Stat. 2385][/us/stat/106/2385]; [Pub. L. 103–160, div. A, title I, § 158(b)][/us/pl/103/160/s158/b], Nov. 30, 1993, [107 Stat. 1582][/us/stat/107/1582]; [Pub. L. 105–85, div. A, title X, § 1011(a)][/us/pl/105/85/s1011/a], (b), Nov. 18, 1997, [111 Stat. 1873][/us/stat/111/1873]; [Pub. L. 105–261, div. A, title X][/us/pl/105/261], §§ 1007(e)(1), 1008(a), Oct. 17, 1998, [112 Stat. 2115][/us/stat/112/2115]; [Pub. L. 105–262, title VIII, § 8146(d)(1)][/us/pl/105/262/s8146/d/1], Oct. 17, 1998, [112 Stat. 2340][/us/stat/112/2340]; [Pub. L. 106–65, div. A, title III][/us/pl/106/65], §§ 331(a)(1), 332, title X, § 1066(a)(16), Oct. 5, 1999, [113 Stat. 566][/us/stat/113/566], 567, 771; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 341(f)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–64; [Pub. L. 108–375, div. A, title X, § 1009][/us/pl/108/375/s1009], Oct. 28, 2004, [118 Stat. 2037][/us/stat/118/2037]; [Pub. L. 111–383, div. A, title XIV, § 1403][/us/pl/111/383/s1403], Jan. 7, 2011, [124 Stat. 4410][/us/stat/124/4410]; [Pub. L. 112–81, div. B, title XXVIII, § 2802(c)(1)][/us/pl/112/81/s2802/c/1], Dec. 31, 2011, [125 Stat. 1684][/us/stat/125/1684].)
+    (s)  __Limitation on Cessation or Suspension of Distribution of Funds for Certain Workload__  __.—__ 
+
+        (1)
+
+         Except as provided in paragraph (2), the Secretary of Defense or the Secretary of a military department is not authorized—
+
+            (A) to suspend the employment of indirectly funded Government employees of the Department of Defense who are paid for out of working-capital funds by ceasing or suspending the distribution of such funds; or
+
+            (B) to cease or suspend the distribution of funds from a working-capital fund for a current project undertaken to carry out the functions or activities of the Department.
+
+        (2)
+
+         Paragraph (1) shall not apply with respect to a working-capital fund if—
+
+            (A) the working-capital fund is insolvent; or
+
+            (B) there are insufficient funds in the working-capital fund to pay labor costs for the current project concerned.
+
+        (3) The Secretary of Defense or the Secretary of a military department may waive the limitation in paragraph (1) if such Secretary determines that the waiver is in the national security interests of the United States.
+
+        (4) This subsection shall not be construed to provide for the exclusion of any particular category of employees of the Department of Defense from furlough due to absence of or inadequate funding.
+
+    (t)  __Market Fluctuation Account__  __.—__ 
+
+        (1) From amounts available for Working Capital Fund, Defense, the Secretary shall reserve up to $1,000,000,000, to remain available without fiscal year limitation, for petroleum market price fluctuations. Such amounts may only be disbursed if the Secretary determines such a disbursement is necessary to absorb volatile market changes in fuel prices without affecting the standard price charged for fuel.
+
+        (2) A budget request for the anticipated costs of fuel may not take into account the availability of funds reserved under paragraph (1).
+
+(Added [Pub. L. 87–651, title II, § 207(a)][/us/pl/87/651/s207/a], Sept. 7, 1962, [76 Stat. 521][/us/stat/76/521]; amended [Pub. L. 97–295, § 1(22)][/us/pl/97/295/s1/22], Oct. 12, 1982, [96 Stat. 1290][/us/stat/96/1290]; [Pub. L. 98–94, title XII, § 1204(a)][/us/pl/98/94/s1204/a], Sept. 24, 1983, [97 Stat. 683][/us/stat/97/683]; [Pub. L. 98–525, title III, § 305][/us/pl/98/525/s305], Oct. 19, 1984, [98 Stat. 2513][/us/stat/98/2513]; [Pub. L. 100–26, § 7(d)(2)][/us/pl/100/26/s7/d/2], Apr. 21, 1987, [101 Stat. 280][/us/stat/101/280]; [Pub. L. 101–510, div. A, title VIII, § 801][/us/pl/101/510/s801], title XIII, § 1301(6), Nov. 5, 1990, [104 Stat. 1588][/us/stat/104/1588], 1668; [Pub. L. 102–172, title VIII, § 8137][/us/pl/102/172/s8137], Nov. 26, 1991, [105 Stat. 1212][/us/stat/105/1212]; [Pub. L. 102–484, div. A, title III, § 374][/us/pl/102/484/s374], Oct. 23, 1992, [106 Stat. 2385][/us/stat/106/2385]; [Pub. L. 103–160, div. A, title I, § 158(b)][/us/pl/103/160/s158/b], Nov. 30, 1993, [107 Stat. 1582][/us/stat/107/1582]; [Pub. L. 105–85, div. A, title X, § 1011(a)][/us/pl/105/85/s1011/a], (b), Nov. 18, 1997, [111 Stat. 1873][/us/stat/111/1873]; [Pub. L. 105–261, div. A, title X][/us/pl/105/261], §§ 1007(e)(1), 1008(a), Oct. 17, 1998, [112 Stat. 2115][/us/stat/112/2115]; [Pub. L. 105–262, title VIII, § 8146(d)(1)][/us/pl/105/262/s8146/d/1], Oct. 17, 1998, [112 Stat. 2340][/us/stat/112/2340]; [Pub. L. 106–65, div. A, title III][/us/pl/106/65], §§ 331(a)(1), 332, title X, § 1066(a)(16), Oct. 5, 1999, [113 Stat. 566][/us/stat/113/566], 567, 771; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 341(f)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–64; [Pub. L. 108–375, div. A, title X, § 1009][/us/pl/108/375/s1009], Oct. 28, 2004, [118 Stat. 2037][/us/stat/118/2037]; [Pub. L. 111–383, div. A, title XIV, § 1403][/us/pl/111/383/s1403], Jan. 7, 2011, [124 Stat. 4410][/us/stat/124/4410]; [Pub. L. 112–81, div. B, title XXVIII, § 2802(c)(1)][/us/pl/112/81/s2802/c/1], Dec. 31, 2011, [125 Stat. 1684][/us/stat/125/1684]; [Pub. L. 114–92, div. A, title XIV][/us/pl/114/92], §§ 1421, 1422, Nov. 25, 2015, [129 Stat. 1083][/us/stat/129/1083], 1084.)
 
 <table>
 
@@ -363,6 +391,10 @@ Dec. 21, 1979, Pub. L. 96–154, § 767, 93 Stat. 1163.  </td>
 
  __Amendments__ 
 
+    2015—Subsec. (s). [Pub. L. 114–92, § 1421][/us/pl/114/92/s1421], added subsec. (s).
+
+    Subsec. (t). [Pub. L. 114–92, § 1422][/us/pl/114/92/s1422], added subsec. (t).
+
     2011—Subsec. (c)(1). [Pub. L. 111–383, § 1403(1)][/us/pl/111/383/s1403/1], inserted before semicolon “, including the cost of the procurement and qualification of technology-enhanced maintenance capabilities that improve either reliability, maintainability, sustainability, or supportability and have, at a minimum, been demonstrated to be functional in an actual system application or operational environment”.
 
     Subsec. (k)(2). [Pub. L. 111–383, § 1403(2)][/us/pl/111/383/s1403/2], substituted “$250,000” for “$100,000” in introductory provisions.
@@ -431,13 +463,13 @@ Dec. 21, 1979, Pub. L. 96–154, § 767, 93 Stat. 1163.  </td>
 
  __Pilot Program for Acquisition of Commercial Satellite Communication Services__ 
 
-[Pub. L. 113–291, div. A, title XVI, § 1605][/us/pl/113/291/s1605], Dec. 19, 2014, [128 Stat. 3623][/us/stat/128/3623], provided that:
+[Pub. L. 113–291, div. A, title XVI, § 1605][/us/pl/113/291/s1605], Dec. 19, 2014, [128 Stat. 3623][/us/stat/128/3623], as amended by [Pub. L. 114–92, div. A, title XVI, § 1612][/us/pl/114/92/s1612], Nov. 25, 2015, [129 Stat. 1103][/us/stat/129/1103], provided that:
 
 >     “(a) __Pilot Program.—__ 
 
 >         “(1)  __In general__  __.—__ 
 
->         The Secretary of Defense may develop and carry out a pilot program to determine the feasibility and advisability of expanding the use of working capital funds by the Secretary to effectively and efficiently acquire commercial satellite communications services to meet the requirements of the military departments, Defense Agencies, and combatant commanders.
+>         The Secretary of Defense shall develop and carry out a pilot program to effectively and efficiently acquire commercial satellite communications services to meet the requirements of the military departments, Defense Agencies, and combatant commanders.
 
 >         “(2)  __Funding__  __.—__ 
 
@@ -447,6 +479,10 @@ Dec. 21, 1979, Pub. L. 96–154, § 767, 93 Stat. 1163.  </td>
 
 >         In carrying out the pilot program under paragraph (1), the Secretary may not use the authorities provided in sections 2208(k) and 2210(b) of title 10, United States Code.
 
+>         “(4)  __Methods__  __.—__ 
+
+>         In carrying out the pilot program under paragraph (1), the Secretary may use a variety of methods authorized by law to effectively and efficiently acquire commercial satellite communications services, including by carrying out multiple pathfinder activities under the pilot program.
+
 >     “(b)  __Goals__  __.—__ 
 
 >     In developing and carrying out the pilot program under subsection (a)(1), the Secretary shall ensure that the pilot program—
@@ -455,29 +491,35 @@ Dec. 21, 1979, Pub. L. 96–154, § 767, 93 Stat. 1163.  </td>
 
 >         “(2) incentivizes private-sector participation and investment in technologies to meet future requirements of the Department of Defense with respect to commercial satellite communications services;
 
->         “(3) takes into account the potential for a surge or other change in the demand of the Department for commercial satellite communications services in response to global or regional events; and
+>         “(3) takes into account the potential for a surge or other change in the demand of the Department for commercial satellite communications services in response to global or regional events;
 
->         “(4) ensures the ability of the Secretary to control and account for the cost of programs and work performed under the pilot program.
+>         “(4) ensures the ability of the Secretary to control and account for the cost of programs and work performed under the pilot program; and
+
+>         “(5) demonstrates the potential to achieve order-of-magnitude improvements in satellite communications capability.
 
 >     “(c)  __Duration__  __.—__ 
 
 >     The pilot program under subsection (a)(1) shall terminate on October 1, 2020.
 
->     “(d) __Reports.—__ 
+>     “(d) __Reports and Briefings.—__ 
 
 >         “(1)  __Initial report__  __.—__ 
 
->         Not later than 90 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes—
+>         Not later than 270 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes—
 
->             “(A) a plan and schedule to carry out the pilot program under subsection (a)(1); or
+>             “(A) a plan and schedule to carry out the pilot program under subsection (a)(1); and
 
->             “(B) if the Secretary finds that carrying out the pilot program authorized under subsection (a)(1) is not an appropriate method to effectively and efficiently acquire commercial satellite communications services, a description of how the Secretary will achieve the goals described in subsection (b) without carrying out such pilot program.
+>             “(B) a description of the appropriate metrics established by the Secretary to meet the goals of the pilot program.
 
->         “(2)  __Final report__  __.—__ 
+>         “(2)  __Briefing__  __.—__ 
+
+>         At the same time as the President submits to Congress the budget pursuant to [section 1105 of title 31][/us/usc/t31/s1105], for each of fiscal years 2017 through 2020, the Secretary shall provide to the congressional defense committees briefing on the pilot program.
+
+>         “(3)  __Final report__  __.—__ 
 
 >         Not later than December 1, 2020, the Secretary shall submit to the congressional defense committees a report on the pilot program under subsection (a)(1). The report shall include—
 
->             “(A) an assessment of expanding the use of working capital funds to effectively and efficiently acquire commercial satellite communications services to meet the requirements of the military departments, Defense Agencies, and combatant commanders; and
+>             “(A) an assessment of the pilot program and whether the pilot program effectively and efficiently acquires commercial satellite communications services to meet the requirements of the military departments, Defense Agencies, and combatant commanders; and
 
 >             “(B)
 
@@ -485,7 +527,7 @@ Dec. 21, 1979, Pub. L. 96–154, § 767, 93 Stat. 1163.  </td>
 
 >                 “(i) any contract entered into under the pilot program, the funding used under such contract, and the efficiencies realized under such contract;
 
->                 “(ii) the advantages and challenges of using working capital funds as described in subparagraph (A);
+>                 “(ii) the advantages and challenges of using the pilot program;
 
 >                 “(iii) any additional authorities the Secretary determines necessary to acquire commercial satellite communications services as described in subsection (a)(1); and
 
@@ -574,10 +616,14 @@ Dec. 21, 1979, Pub. L. 96–154, § 767, 93 Stat. 1163.  </td>
 [/us/stat/124/4410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4410
 [/us/pl/112/81/s2802/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2802%2Fc%2F1
 [/us/stat/125/1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1684
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1083
 [/us/usc/t10/s101/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2F26
 [/us/usc/t5/s172d/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs172d%2Fd
 [/us/usc/t10/s2216a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2216a
 [/us/pl/105/261/s1008/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1008%2Fb
+[/us/pl/114/92/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1421
+[/us/pl/114/92/s1422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1422
 [/us/pl/111/383/s1403/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1403%2F1
 [/us/pl/111/383/s1403/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1403%2F2
 [/us/pl/112/81/s2802/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2802%2Fc%2F1%2FA
@@ -609,6 +655,9 @@ Dec. 21, 1979, Pub. L. 96–154, § 767, 93 Stat. 1163.  </td>
 [/us/stat/97/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F683
 [/us/pl/113/291/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1605
 [/us/stat/128/3623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3623
+[/us/pl/114/92/s1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1612
+[/us/stat/129/1103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1103
+[/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/109/234/s1206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F234%2Fs1206
 [/us/stat/120/430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F430
 [/us/usc/t10/s2208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2208

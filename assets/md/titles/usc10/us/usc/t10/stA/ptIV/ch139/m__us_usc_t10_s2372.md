@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2371a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2373.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2372)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2371b.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2373.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2372)
 
 ## § 2372. Independent research and development and bid and proposal costs: payments to contractors
 
@@ -137,7 +137,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2371a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2373.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2372)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2371b.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2373.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2372)
 
 ----------
 ----------

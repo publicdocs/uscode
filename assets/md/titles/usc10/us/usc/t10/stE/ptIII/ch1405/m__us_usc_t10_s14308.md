@@ -43,6 +43,8 @@
 
                 (ii) would be eligible for consideration for promotion to the next higher grade by a selection board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] upon the convening of such a board.
 
+            (E) If the Secretary of the military department concerned determines that one or more officers or former officers were not placed on an all-fully-qualified-list under this paragraph because of administrative error, the Secretary may prepare a supplemental all-fully-qualified-officers list containing the names of any such officers for approval in accordance with this paragraph.
+
     (c)  __Date of Rank__  __.—__ 
 
         (1) The date of rank of an officer appointed to a higher grade under this section is determined under [section 741(d)(2) of this title][/us/usc/t10/s741/d/2].
@@ -71,13 +73,15 @@
 
     A reserve officer of the Army or the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Army Reserve or the Air Force Reserve, as the case may be, in that grade.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2937][/us/stat/108/2937]; amended [Pub. L. 105–85, div. A, title V, § 514(c)][/us/pl/105/85/s514/c], Nov. 18, 1997, [111 Stat. 1732][/us/stat/111/1732]; [Pub. L. 107–107, div. A, title V][/us/pl/107/107], §§ 505(b)(1), 506(b), Dec. 28, 2001, [115 Stat. 1086][/us/stat/115/1086], 1089; [Pub. L. 109–364, div. A, title V, § 511(d)(2)][/us/pl/109/364/s511/d/2], Oct. 17, 2006, [120 Stat. 2183][/us/stat/120/2183].)
+(Added [Pub. L. 103–337, div. A, title XVI, § 1611][/us/pl/103/337/s1611], Oct. 5, 1994, [108 Stat. 2937][/us/stat/108/2937]; amended [Pub. L. 105–85, div. A, title V, § 514(c)][/us/pl/105/85/s514/c], Nov. 18, 1997, [111 Stat. 1732][/us/stat/111/1732]; [Pub. L. 107–107, div. A, title V][/us/pl/107/107], §§ 505(b)(1), 506(b), Dec. 28, 2001, [115 Stat. 1086][/us/stat/115/1086], 1089; [Pub. L. 109–364, div. A, title V, § 511(d)(2)][/us/pl/109/364/s511/d/2], Oct. 17, 2006, [120 Stat. 2183][/us/stat/120/2183]; [Pub. L. 114–92, div. A, title V, § 502(b)][/us/pl/114/92/s502/b], Nov. 25, 2015, [129 Stat. 806][/us/stat/129/806].)
 
  __Prior Provisions__ 
 
     Provisions similar to those in subsecs. (a), (d), and (f) of this section were contained in sections 3385, 5902(a) to (c), and 8374 of this title, prior to repeal by [Pub. L. 103–337, § 1629(a)(1)][/us/pl/103/337/s1629/a/1], (b)(2), (c)(1).
 
  __Amendments__ 
+
+    2015—Subsec. (b)(4)(E). [Pub. L. 114–92][/us/pl/114/92] added subpar. (E).
 
     2006—Subsec. (a). [Pub. L. 109–364][/us/pl/109/364] inserted at end “A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.”
 
@@ -124,7 +128,10 @@
 [/us/stat/115/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1086
 [/us/pl/109/364/s511/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fd%2F2
 [/us/stat/120/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2183
+[/us/pl/114/92/s502/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs502%2Fb
+[/us/stat/129/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F806
 [/us/pl/103/337/s1629/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1629%2Fa%2F1
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/107/107/s505/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs505%2Fb%2F1
 [/us/pl/107/107/s506/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs506%2Fb%2F1%2FB

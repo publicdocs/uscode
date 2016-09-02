@@ -41,6 +41,12 @@
 
     [Pub. L. 98–94, § 1003(a)(1)][/us/pl/98/94/s1003/a/1], inserted parenthetical provision relating to a fifth academic year or a combination of a fifth academic year and summer sessions.
 
+ __Sexual Assault Prevention and Response Training for Administrators and Instructors of Senior Reserve Officers’ Training Corps__ 
+
+[Pub. L. 114–92, div. A, title V, § 540][/us/pl/114/92/s540], Nov. 25, 2015, [129 Stat. 818][/us/stat/129/818], provided that: 
+
+> “The Secretary of a military department shall ensure that the commander of each unit of the Senior Reserve Officers’ Training Corps and all Professors of Military Science, senior military instructors, and civilian employees detailed, assigned, or employed as administrators and instructors of the Senior Reserve Officers’ Training Corps receive regular sexual assault prevention and response training and education.”
+
  __Promotion of Foreign Language Skills Among Members of the Reserve Officers’ Training Corps__ 
 
 [Pub. L. 109–163, div. A, title V, § 535][/us/pl/109/163/s535], Jan. 6, 2006, [119 Stat. 3249][/us/stat/119/3249], as amended by [Pub. L. 111–383, div. A, title X, § 1075(h)(2)][/us/pl/111/383/s1075/h/2], Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], provided that:
@@ -79,6 +85,8 @@
 [/us/pl/98/94/s1268/11/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1268%2F11%2FD
 [/us/pl/98/94/s1268/11/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1268%2F11%2FF
 [/us/pl/98/94/s1003/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F94%2Fs1003%2Fa%2F1
+[/us/pl/114/92/s540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs540
+[/us/stat/129/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F818
 [/us/pl/109/163/s535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs535
 [/us/stat/119/3249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3249
 [/us/pl/111/383/s1075/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fh%2F2

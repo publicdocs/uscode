@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch71/m__us_usc_t10_s1414.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch73/schI/m__us_usc_t10_stA_ptII_ch73_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch73)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch71/m__us_usc_t10_s1415.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch73/schI/m__us_usc_t10_stA_ptII_ch73_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch73)
 
 #### CHAPTER 73—ANNUITIES BASED ON RETIRED OR RETAINER PAY
 
@@ -73,7 +73,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch71/m__us_usc_t10_s1414.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch73/schI/m__us_usc_t10_stA_ptII_ch73_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch73)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch71/m__us_usc_t10_s1415.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch73/schI/m__us_usc_t10_stA_ptII_ch73_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch73)
 
 ----------
 ----------

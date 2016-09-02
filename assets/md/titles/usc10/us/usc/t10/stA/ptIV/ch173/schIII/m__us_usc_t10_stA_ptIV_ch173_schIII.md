@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schII/m__us_usc_t10_s2922g.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schIII/m__us_usc_t10_s2924.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch173%2FschIII)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schII/m__us_usc_t10_s2922h.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schIII/m__us_usc_t10_s2924.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch173%2FschIII)
 
 ##### SUBCHAPTER III—GENERAL PROVISIONS
 
@@ -59,7 +59,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schII/m__us_usc_t10_s2922g.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schIII/m__us_usc_t10_s2924.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch173%2FschIII)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schII/m__us_usc_t10_s2922h.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptIV/ch173/schIII/m__us_usc_t10_s2924.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch173%2FschIII)
 
 ----------
 ----------

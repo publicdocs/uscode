@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch144/m__us_usc_t10_s2431.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch144/m__us_usc_t10_s2433.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch144/m__us_usc_t10_s2431b.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch144/m__us_usc_t10_s2433.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432)
 
 ## § 2432. Selected Acquisition Reports
 
@@ -385,7 +385,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch144/m__us_usc_t10_s2431.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch144/m__us_usc_t10_s2433.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch144/m__us_usc_t10_s2431b.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch144/m__us_usc_t10_s2433.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432)
 
 ----------
 ----------

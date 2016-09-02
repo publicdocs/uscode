@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2371.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2372.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371a)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2371.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2371b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371a)
 
 ## § 2371a. Cooperative research and development agreements under Stevenson-Wydler Technology Innovation Act of 1980
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2371.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2372.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371a)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2371.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2371b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371a)
 
 ----------
 ----------

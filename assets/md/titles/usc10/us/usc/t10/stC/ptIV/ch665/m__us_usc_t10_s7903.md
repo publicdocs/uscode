@@ -41,13 +41,11 @@
 
         (4) Any additional responsibilities that the Council considers appropriate.
 
-    (c)  __Funding__  __.—__ 
-
-    The Secretary of the Navy annually shall make funds available to support the activities of the Advisory Panel.
-
-(Added [Pub. L. 104–201, div. A, title II, § 282(a)(1)][/us/pl/104/201/s282/a/1], Sept. 23, 1996, [110 Stat. 2473][/us/stat/110/2473]; amended [Pub. L. 105–85, div. A, title II, § 241(b)(1)][/us/pl/105/85/s241/b/1], Nov. 18, 1997, [111 Stat. 1666][/us/stat/111/1666].)
+(Added [Pub. L. 104–201, div. A, title II, § 282(a)(1)][/us/pl/104/201/s282/a/1], Sept. 23, 1996, [110 Stat. 2473][/us/stat/110/2473]; amended [Pub. L. 105–85, div. A, title II, § 241(b)(1)][/us/pl/105/85/s241/b/1], Nov. 18, 1997, [111 Stat. 1666][/us/stat/111/1666]; [Pub. L. 114–92, div. A, title X, § 1084][/us/pl/114/92/s1084], Nov. 25, 2015, [129 Stat. 1004][/us/stat/129/1004].)
 
  __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–92][/us/pl/114/92] struck out subsec. (c). Text read as follows: “The Secretary of the Navy annually shall make funds available to support the activities of the Advisory Panel.”
 
     1997—[Pub. L. 105–85][/us/pl/105/85] amended text generally. Prior to amendment, text read as follows:
 
@@ -80,6 +78,9 @@
 [/us/stat/110/2473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2473
 [/us/pl/105/85/s241/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs241%2Fb%2F1
 [/us/stat/111/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1666
+[/us/pl/114/92/s1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1084
+[/us/stat/129/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1004
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/201/s282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs282

@@ -35,7 +35,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs992" data-uslm-ref="/us/usc/t10/s992">992.</a>  </td>
 
-    <td> Consumer education: financial services.  </td>
+    <td> Financial literacy training: financial services.  </td>
 
   </tr>
 
@@ -59,6 +59,8 @@
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–92, div. A, title VI, § 661(e)(2)][/us/pl/114/92/s661/e/2], Nov. 25, 2015, [129 Stat. 858][/us/stat/129/858], substituted “Financial literacy training: financial services” for “Consumer education: financial services” in item 992.
+
     2013—[Pub. L. 112–239, div. A, title III, § 371(b)(2)][/us/pl/112/239/s371/b/2], Jan. 2, 2013, [126 Stat. 1706][/us/stat/126/1706], added item 994.
 
     2011—[Pub. L. 112–81, div. A, title V, § 522(d)(2)][/us/pl/112/81/s522/d/2], div. B, title XXVIII, § 2864(b), Dec. 31, 2011, [125 Stat. 1401][/us/stat/125/1401], 1702, substituted “Management of deployments of members and measurement and data collection of unit operating and personnel tempo” for “Management of deployments of members” in item 991 and added item 993.
@@ -72,6 +74,8 @@
 ----------
 ----------
 
+[/us/pl/114/92/s661/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs661%2Fe%2F2
+[/us/stat/129/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F858
 [/us/pl/112/239/s371/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs371%2Fb%2F2
 [/us/stat/126/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1706
 [/us/pl/112/81/s522/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs522%2Fd%2F2

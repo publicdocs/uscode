@@ -37,9 +37,39 @@
 
         (4) The cost estimate within a baseline description as required by [section 2435 of this title][/us/usc/t10/s2435].
 
-(Added [Pub. L. 100–26, § 7(b)(2)(A)][/us/pl/100/26/s7/b/2/A], Apr. 21, 1987, [101 Stat. 279][/us/stat/101/279]; amended [Pub. L. 102–484, div. A, title VIII, § 817(b)][/us/pl/102/484/s817/b], Oct. 23, 1992, [106 Stat. 2455][/us/stat/106/2455]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)][/us/pl/104/106/s1502/a/1], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 111–23, title II, § 206(b)][/us/pl/111/23/s206/b], May 22, 2009, [123 Stat. 1728][/us/stat/123/1728]; [Pub. L. 113–291, div. A, title X, § 1071(f)(18)][/us/pl/113/291/s1071/f/18], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511].)
+(Added [Pub. L. 100–26, § 7(b)(2)(A)][/us/pl/100/26/s7/b/2/A], Apr. 21, 1987, [101 Stat. 279][/us/stat/101/279]; amended [Pub. L. 102–484, div. A, title VIII, § 817(b)][/us/pl/102/484/s817/b], Oct. 23, 1992, [106 Stat. 2455][/us/stat/106/2455]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)][/us/pl/104/106/s1502/a/1], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 111–23, title II, § 206(b)][/us/pl/111/23/s206/b], May 22, 2009, [123 Stat. 1728][/us/stat/123/1728]; [Pub. L. 113–291, div. A, title X, § 1071(f)(18)][/us/pl/113/291/s1071/f/18], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511]; [Pub. L. 114–92, div. A, title VIII, § 825(a)][/us/pl/114/92/s825/a], Nov. 25, 2015, [129 Stat. 907][/us/stat/129/907].)
+
+ __Amendment of Section__ 
+
+    [Pub. L. 114–92, div. A, title VIII, § 825(a)][/us/pl/114/92/s825/a], (c)(3), Nov. 25, 2015, [129 Stat. 907][/us/stat/129/907], 908, provided that, effective Oct. 1, 2016, this section is amended by adding at the end the following new subsection:
+
+    (d)(1) The milestone decision authority for a major defense acquisition program reaching Milestone A after October 1, 2016, shall be the service acquisition executive of the military department that is managing the program, unless the Secretary of Defense designates, under paragraph (2), another official to serve as the milestone decision authority.
+
+    (2) The Secretary of Defense may designate an alternate milestone decision authority for a program with respect to which—
+
+    (A) the Secretary determines that the program is addressing a joint requirement;
+
+    (B) the Secretary determines that the program is best managed by a Defense Agency;
+
+    (C) the program has incurred a unit cost increase greater than the significant cost threshold or critical cost threshold under [section 2433 of this title][/us/usc/t10/s2433];
+
+    (D) the program is critical to a major interagency requirement or technology development effort, or has significant international partner involvement; or
+
+    (E) the Secretary determines that an alternate official serving as the milestone decision authority will best provide for the program to achieve desired cost, schedule, and performance outcomes.
+
+    (3)(A) After designating an alternate milestone decision authority under paragraph (2) for a program, the Secretary of Defense may revert the position of milestone decision authority for the program back to the service acquisition executive upon request of the Secretary of the military department concerned. A decision on the request shall be made within 180 days after receipt of the request from the Secretary of the military department concerned.
+
+    (B) If the Secretary of Defense denies the request for reversion of the milestone decision authority back to the service acquisition executive, the Secretary shall report to the congressional defense committees on the basis of the Secretary’s decision that an alternate official serving as milestone decision authority will best provide for the program to achieve desired cost, schedule, and performance outcomes. No such reversion is authorized after a program has incurred a unit cost increase greater than the significant cost threshold or critical cost threshold under [section 2433 of this title][/us/usc/t10/s2433], except in exceptional circumstances.
+
+    (4)(A) For each major defense acquisition program, the Secretary of the military department concerned and the Chief of the armed force concerned shall, in each Selected Acquisition Report required under [section 2432 of this title][/us/usc/t10/s2432], certify that program requirements are stable and funding is adequate to meet cost, schedule, and performance objectives for the program and identify and report to the congressional defense committees on any increased risk to the program since the last report.
+
+    (B) The Secretary of Defense shall review the acquisition oversight process for major defense acquisition programs and shall limit outside requirements for documentation to an absolute minimum on those programs where the service acquisition executive of the military department that is managing the program is the milestone decision authority and ensure that any policies, procedures, and activities related to oversight efforts conducted outside of the military departments with regard to major defense acquisition programs shall be implemented in a manner that does not unnecessarily increase program costs or impede program schedules.
+
+    See 2015 Amendment note below.
 
  __Amendments__ 
+
+    2015—Subsec. (d). [Pub. L. 114–92][/us/pl/114/92] added subsec. (d).
 
     2014—Subsec. (c)(2). [Pub. L. 113–291][/us/pl/113/291] substituted “section 2366a(a)(6)” for “section 2366a(a)(4)”.
 
@@ -52,6 +82,150 @@
     1996—Subsec. (b). [Pub. L. 104–106][/us/pl/104/106] substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
     1992—[Pub. L. 102–484][/us/pl/102/484] designated existing provisions as subsec. (a), in par. (2) substituted “$300,000,000” for “$200,000,000”, “1990” for “1980” in two places, and “$1,800,000,000” for “$1,000,000,000”, and added subsec. (b).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–92][/us/pl/114/92] effective Oct. 1, 2016, see [section 825(c)(3) of Pub. L. 114–92][/us/pl/114/92/s825/c/3], set out as a note under [section 133 of this title][/us/usc/t10/s133].
+
+ __Implementation of Procedures for Designation of Milestone Decision Authorities__ 
+
+[Pub. L. 114–92, div. A, title VIII, § 825(c)(1)][/us/pl/114/92/s825/c/1], (2), Nov. 25, 2015, [129 Stat. 908][/us/stat/129/908], provided that:
+
+>     “(1)  __Implementation plan__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for implementing subsection (d) of [section 2430 of title 10][/us/usc/t10/s2430], United States Code, as added by subsection (a) of this section.
+
+>     “(2)  __Guidance__  __.—__ 
+
+>     The Deputy Chief Management Officer of the Department of Defense, in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics and the service acquisition executives, shall issue guidance to ensure that by not later than October 1, 2016, the acquisition policy, guidance, and practices of the Department of Defense conform to the requirements of subsection (d) of [section 2430 of title 10][/us/usc/t10/s2430], United States Code, as added by subsection (a) of this section. The guidance shall be designed to ensure a streamlined decisionmaking and approval process and to minimize any information requests, consistent with the requirement of paragraph (4)(A) of such subsection (d).”
+
+ __Tenure and Accountability of Program Managers for Program Definition Periods__ 
+
+[Pub. L. 114–92, div. A, title VIII, § 826][/us/pl/114/92/s826], Nov. 25, 2015, [129 Stat. 908][/us/stat/129/908], provided that:
+
+>     “(a)  __Revised Guidance Required__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall revise Department of Defense guidance for major defense acquisition programs to address the tenure and accountability of program managers for the program definition period of major defense acquisition programs.
+
+>     “(b)  __Program Definition Period__  __.—__ 
+
+>     For the purposes of this section, the term ‘program definition period’, with respect to a major defense acquisition program, means the period beginning with initiation of the program and ending with Milestone B approval (or Key Decision Point B approval in the case of a space program).
+
+>     “(c)  __Responsibilities__  __.—__ 
+
+>     The revised guidance required by subsection (a) shall provide that the program manager for the program definition period of a major defense acquisition program is responsible for—
+
+>         “(1) bringing technologies to maturity and identifying the manufacturing processes that will be needed to carry out the program;
+
+>         “(2) ensuring continuing focus during program development on meeting stated mission requirements and other requirements of the Department of Defense;
+
+>         “(3) recommending trade-offs between program cost, schedule, and performance for the life-cycle of the program;
+
+>         “(4) developing a business case for the program; and
+
+>         “(5) ensuring that appropriate information is available to the milestone decision authority to make a decision on Milestone B approval (or Key Decision Point B approval in the case of a space program), including information necessary to make the certification required by [section 2366a of title 10][/us/usc/t10/s2366a], United States Code.
+
+>     “(d)  __Qualifications, Resources, and Tenure__  __.—__ 
+
+>     The Secretary of Defense shall ensure that each program manager for the program definition period of a major defense acquisition program—
+
+>         “(1) has the appropriate management, engineering, technical, and financial expertise needed to meet the responsibilities assigned pursuant to subsection (c);
+
+>         “(2) is provided the resources and support (including systems engineering expertise, cost-estimating expertise, and software development expertise) needed to meet such responsibilities; and
+
+>         “(3) is assigned to the program manager position for such program until such time as such program receives Milestone B approval (or Key Decision Point B approval in the case of a space program), unless removed for cause or due to exceptional circumstances.
+
+>     “(e)  __Waiver Authority__  __.—__ 
+
+>     The Secretary may waive the requirement in paragraph (3) of subsection (d) upon a determination that the program definition period will take so long that it would not be appropriate for a single individual to serve as program manager for the entire period covered by such paragraph.”
+
+ __Tenure and Accountability of Program Managers for Program Execution Periods__ 
+
+[Pub. L. 114–92, div. A, title VIII, § 827][/us/pl/114/92/s827], Nov. 25, 2015, [129 Stat. 909][/us/stat/129/909], provided that:
+
+>     “(a)  __Revised Guidance Required__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall revise Department of Defense guidance for major defense acquisition programs to address the tenure and accountability of program managers for the program execution period of major defense acquisition programs.
+
+>     “(b)  __Program Execution Period__  __.—__ 
+
+>     For purposes of this section, the term ‘program execution period’, with respect to a major defense acquisition program, means the period beginning with Milestone B approval (or Key Decision Point B approval in the case of a space program) and ending with declaration of initial operational capability.
+
+>     “(c)  __Responsibilities__  __.—__ 
+
+>     The revised guidance required by subsection (a) shall—
+
+>         “(1)
+
+>          require the program manager for the program execution period of a major defense acquisition program to enter into a performance agreement with the manager’s immediate supervisor for such program within six months of assignment, that—
+
+>             “(A) establishes expected parameters for the cost, schedule, and performance of the program consistent with the business case for the program;
+
+>             “(B) provides the commitment of the supervisor to provide the level of funding and resources required to meet such parameters; and
+
+>             “(C) provides the assurance of the program manager that such parameters are achievable and that the program manager will be accountable for meeting such parameters; and
+
+>         “(2)
+
+>          provide the program manager with the authority to—
+
+>             “(A) consult on the addition of new program requirements that would be inconsistent with the parameters established in the performance agreement entered into pursuant to paragraph (1);
+
+>             “(B) recommend trade-offs between cost, schedule, and performance, provided that such trade-offs are consistent with the parameters established in the performance agreement entered into pursuant to paragraph (1); and
+
+>             “(C) develop such interim goals and milestones as may be required to achieve the parameters established in the performance agreement entered into pursuant to paragraph (1).
+
+>     “(d)  __Qualifications, Resources, and Tenure__  __.—__ 
+
+>     The Secretary shall ensure that each program manager for the program execution period of a defense acquisition program—
+
+>         “(1) has the appropriate management, engineering, technical, and financial expertise needed to meet the responsibilities assigned pursuant to subsection (c);
+
+>         “(2) is provided the resources and support (including systems engineering expertise, cost estimating expertise, and software development expertise) needed to meet such responsibilities; and
+
+>         “(3) is assigned to the program manager position for such program during the program execution period, unless removed for cause or due to exceptional circumstances.
+
+>     “(e)  __Waiver Authority__  __.—__ 
+
+>     The immediate supervisor of a program manager for a major defense acquisition program may waive the requirement in paragraph (3) of subsection (d) upon a determination that the program execution period will take so long that it would not be appropriate for a single individual to serve as program manager for the entire program execution period.”
+
+ __Penalty for Cost Overruns__ 
+
+[Pub. L. 114–92, div. A, title VIII, § 828][/us/pl/114/92/s828], Nov. 25, 2015, [129 Stat. 910][/us/stat/129/910], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     For each fiscal year beginning with fiscal year 2015, the Secretary of each military department shall pay a penalty for cost overruns on the covered major defense acquisition programs of the military department.
+
+>     “(b)  __Calculation of Penalty__  __.—__ 
+
+>     For the purposes of this section:
+
+>         “(1) The amount of the cost overrun or underrun on any major defense acquisition program or subprogram in a fiscal year is the difference between the current program acquisition unit cost for the program or subprogram and the program acquisition unit cost for the program as shown in the original Baseline Estimate for the program or subprogram, multiplied by the quantity of items to be purchased under the program or subprogram, as reported in the final Selected Acquisition Report for the fiscal year in accordance with [section 2432 of title 10][/us/usc/t10/s2432], United States Code.
+
+>         “(2) Cost overruns or underruns for covered major defense acquisition programs that are joint programs of more than one military department shall be allocated among the military departments in percentages determined by the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+>         “(3) The cumulative amount of cost overruns for a military department in a fiscal year is the sum of the cost overruns and cost underruns for all covered major defense acquisition programs of the department in the fiscal year (including cost overruns or underruns allocated to the military department in accordance with paragraph (2)).
+
+>         “(4) The cost overrun penalty for a military department in a fiscal year is three percent of the cumulative amount of cost overruns of the military department in the fiscal year, as determined pursuant to paragraph (3), except that the cost overrun penalty may not be a negative amount.
+
+>     “(c) __Transfer of Funds.—__ 
+
+>         “(1)  __Reduction of research, development, test, and evaluation accounts__  __.—__ 
+
+>         Not later than 60 days after the end of each fiscal year beginning with fiscal year 2015, the Secretary of each military department shall reduce each research, development, test, and evaluation account of the military department by the percentage determined under paragraph (2), and remit such amount to the Secretary of Defense.
+
+>         “(2)  __Determination of amount__  __.—__ 
+
+>         The percentage reduction to research, development, test, and evaluation accounts of a military department referred to in paragraph (1) is the percentage reduction to such accounts necessary to equal the cost overrun penalty for the fiscal year for such department determined pursuant to subsection (b)(4).
+
+>         “(3)  __Crediting of funds__  __.—__ 
+
+>         Any amount remitted under paragraph (1) shall be credited to the Rapid Prototyping Fund established pursuant to section 804 of this Act \[set out as a note under [section 2302 of this title][/us/usc/t10/s2302]\].
+
+>     “(d)  __Covered Programs__  __.—__ 
+
+>     A major defense acquisition program is covered under this section if the original Baseline Estimate was established for such program under paragraph (1) or (2) of [section 2435(d) of title 10][/us/usc/t10/s2435/d], United States Code, on or after May 22, 2009 (which is the date of the enactment of the Weapon Systems Acquisition Reform Act of 2009 ([Public Law 111–23][/us/pl/111/23])).”
 
  __Improving Analytic Support to Systems Acquisition and Allocation of Acquisition, Intelligence, Surveillance and Reconnaissance Assets__ 
 
@@ -359,51 +533,7 @@
 
  __Prototyping Requirements for Major Defense Acquisition Programs__ 
 
-[Pub. L. 111–23, title II, § 203][/us/pl/111/23/s203], May 22, 2009, [123 Stat. 1722][/us/stat/123/1722], as amended by [Pub. L. 111–383, div. A, title VIII, § 813(b)][/us/pl/111/383/s813/b], Jan. 7, 2011, [124 Stat. 4265][/us/stat/124/4265], provided that:
-
->     “(a)  __Competitive Prototyping__  __.—__ 
-
->     Not later than 90 days after the date of the enactment of this Act \[May 22, 2009\], the Secretary of Defense shall modify the guidance of the Department of Defense relating to the operation of the acquisition system with respect to competitive prototyping for major defense acquisition programs to ensure the following:
-
->         “(1) That the acquisition strategy for each major defense acquisition program provides for competitive prototypes before Milestone B approval (or Key Decision Point B approval in the case of a space program) unless the Milestone Decision Authority for such program waives the requirement pursuant to paragraph (2).
-
->         “(2)
-
->          That the Milestone Decision Authority may waive the requirement in paragraph (1) only—
-
->             “(A) on the basis that the cost of producing competitive prototypes exceeds the expected life-cycle benefits (in constant dollars) of producing such prototypes, including the benefits of improved performance and increased technological and design maturity that may be achieved through competitive prototyping; or
-
->             “(B) on the basis that, but for such waiver, the Department would be unable to meet critical national security objectives.
-
->         “(3)
-
->          That whenever a Milestone Decision Authority authorizes a waiver pursuant to paragraph (2), the Milestone Decision Authority—
-
->             “(A) shall require that the program produce a prototype before Milestone B approval (or Key Decision Point B approval in the case of a space program) if the expected life-cycle benefits (in constant dollars) of producing such prototype exceed its cost and its production is consistent with achieving critical national security objectives; and
-
->             “(B) shall notify the congressional defense committees in writing not later than 30 days after the waiver is authorized and include in such notification the rationale for the waiver and the plan, if any, for producing a prototype.
-
->         “(4)
-
->          That prototypes—
-
->             “(A) may be required under paragraph (1) or (3) for the system to be acquired or, if prototyping of the system is not feasible, for critical subsystems of the system; and
-
->             “(B) may be acquired from commercial, government, or academic sources.
-
->     “(b) __Comptroller General Review of Certain Waivers.—__ 
-
->         “(1)  __Notice to comptroller general__  __.—__ 
-
->         Whenever a Milestone Decision Authority authorizes a waiver of the requirement for prototypes pursuant to paragraph (2) of subsection (a) on the basis of excessive cost, the Milestone Decision Authority shall submit the notification of the waiver, together with the rationale, to the Comptroller General of the United States at the same time it is submitted to the congressional defense committees.
-
->         “(2)  __Comptroller general review__  __.—__ 
-
->         Not later than 60 days after receipt of a notification of a waiver under paragraph (1), the Comptroller General shall—
-
->             “(A) review the rationale for the waiver; and
-
->             “(B) submit to the congressional defense committees a written assessment of the rationale for the waiver.”
+    [Pub. L. 111–23, title II, § 203][/us/pl/111/23/s203], May 22, 2009, [123 Stat. 1722][/us/stat/123/1722], as amended by [Pub. L. 111–383, div. A, title VIII, § 813(b)][/us/pl/111/383/s813/b], Jan. 7, 2011, [124 Stat. 4265][/us/stat/124/4265], which directed the Secretary of Defense to make certain modifications to Department of Defense guidelines related to competitive prototyping for major defense acquisition programs and waivers, was repealed by [Pub. L. 114–92, div. A, title VIII, § 822(b)][/us/pl/114/92/s822/b], Nov. 25, 2015, [129 Stat. 902][/us/stat/129/902].
 
  __Organizational Conflicts of Interest in Major Defense Acquisition Programs__ 
 
@@ -451,7 +581,7 @@
 
  __Configuration Steering Boards for Cost Control Under Major Defense Acquisition Programs__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 814, Oct. 14, 2008, [122 Stat. 4528][/us/stat/122/4528], provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 814, Oct. 14, 2008, [122 Stat. 4528][/us/stat/122/4528], as amended by [Pub. L. 114–92, div. A, title VIII, § 830][/us/pl/114/92/s830], Nov. 25, 2015, [129 Stat. 912][/us/stat/129/912], provided that:
 
 >     “(a)  __Configuration Steering Boards__  __.—__ 
 
@@ -489,11 +619,13 @@
 
 >         The Configuration Steering Board for a major defense acquisition program under this section shall be responsible for the following:
 
->             “(A) Preventing unnecessary changes to program requirements and system configuration that could have an adverse impact on program cost or schedule.
+>             “(A) Monitoring changes in program requirements and ensuring the Chief of Staff of the Armed Force concerned, in consultation with the Secretary of the military department concerned, approves of any proposed changes that could have an adverse effect on program cost or schedule.
 
->             “(B) Mitigating the adverse cost and schedule impact of any changes to program requirements or system configuration that may be required.
+>             “(B) Preventing unnecessary changes to program requirements and system configuration that could have an adverse impact on program cost or schedule.
 
->             “(C) Ensuring that the program delivers as much planned capability as possible, at or below the relevant program baseline.
+>             “(C) Mitigating the adverse cost and schedule impact of any changes to program requirements or system configuration that may be required.
+
+>             “(D) Ensuring that the program delivers as much planned capability as possible, at or below the relevant program baseline.
 
 >         “(2)  __Discharge of responsibilities__  __.—__ 
 
@@ -581,11 +713,23 @@
 
 >         The term ‘Milestone C approval’ has the meaning provided in section 2366(e)(8) of such title.”
 
- __Duty of Principal Military Deputies To Inform Service Chiefs on Major Defense Acquisition Programs__ 
+ __Duties of Principal Military Deputies__ 
 
-[Pub. L. 110–181, div. A, title IX, § 908(d)][/us/pl/110/181/s908/d], Jan. 28, 2008, [122 Stat. 278][/us/stat/122/278], provided that: 
+[Pub. L. 110–181, div. A, title IX, § 908(d)][/us/pl/110/181/s908/d], Jan. 28, 2008, [122 Stat. 278][/us/stat/122/278], as amended by [Pub. L. 114–92, div. A, title VIII, § 802(c)][/us/pl/114/92/s802/c], Nov. 25, 2015, [129 Stat. 879][/us/stat/129/879], provided that: 
 
-> “Each Principal Military Deputy to a service acquisition executive shall be responsible for keeping the Chief of Staff of the Armed Forces concerned informed of the progress of major defense acquisition programs.”
+> “Each Principal Military Deputy to a service acquisition executive shall be responsible for—
+
+>     “(1) keeping the Chief of Staff of the Armed Force concerned informed of the progress of major defense acquisition programs;
+
+>     “(2)
+
+>      informing the Chief of Staff on a continuing basis of any developments on major defense acquisition programs, which may require new or revisited trade-offs among cost, schedule, technical feasibility, and performance, including—
+
+>         “(A) significant cost growth or schedule slippage; and
+
+>         “(B) requirements creep (as defined in [section 2547(c)(1) of title 10][/us/usc/t10/s2547/c/1], United States Code); and
+
+>     “(3) ensuring that the views of the Chief of Staff on cost, schedule, technical feasibility, and performance trade-offs are strongly considered by program managers and program executive officers in all phases of the acquisition process.”
 
  __Requirements Management Certification Training Program__ 
 
@@ -747,59 +891,7 @@
 
  __Spiral Development Under Major Defense Acquisition Programs__ 
 
-[Pub. L. 107–314, div. A, title VIII, § 803][/us/pl/107/314/s803], Dec. 2, 2002, [116 Stat. 2603][/us/stat/116/2603], provided that:
-
->     “(a)  __Authority__  __.—__ 
-
->     The Secretary of Defense is authorized to conduct major defense acquisition programs as spiral development programs.
-
->     “(b)  __Limitation on Spiral Development Programs__  __.—__ 
-
->     A research and development program for a major defense acquisition program of a military department or Defense Agency may not be conducted as a spiral development program unless the Secretary of Defense approves the spiral development plan for that research and development program in accordance with subsection (c). The Secretary of Defense may delegate authority to approve the plan to the Under Secretary of Defense for Acquisition, Technology, and Logistics, or to the senior acquisition executive of the military department or Defense Agency concerned, but such authority may not be further delegated.
-
->     “(c)  __Spiral Development Plans__  __.—__ 
-
->     A spiral development plan for a research and development program for a major defense acquisition program shall, at a minimum, include the following matters:
-
->         “(1) A rationale for dividing the research and development program into separate spirals, together with a preliminary identification of the spirals to be included.
-
->         “(2) A program strategy, including overall cost, schedule, and performance goals for the total research and development program.
-
->         “(3) Specific cost, schedule, and performance parameters, including measurable exit criteria, for the first spiral to be conducted.
-
->         “(4) A testing plan to ensure that performance goals, parameters, and exit criteria are met.
-
->         “(5) An appropriate limitation on the number of prototype units that may be produced under the research and development program.
-
->         “(6) Specific performance parameters, including measurable exit criteria, that must be met before the major defense acquisition program proceeds into production of units in excess of the limitation on the number of prototype units.
-
->     “(d)  __Guidance__  __.—__ 
-
->     Not later than 120 days after the date of the enactment of this Act \[Dec. 2, 2002\], the Secretary of Defense shall issue guidance for the implementation of spiral development programs authorized by this section. The guidance shall include appropriate processes for ensuring the independent validation of exit criteria being met, the operational assessment of fieldable prototypes, and the management of spiral development programs.
-
->     “(e)  __Reporting Requirement__  __.—__ 
-
->     The Secretary shall submit to Congress by September 30 of each of 2003 through 2008 a status report on each research and development program that is a spiral development program. The report shall contain information on unit costs that is similar to the information on unit costs under major defense acquisition programs that is required to be provided to Congress under chapter 144 of title 10, United States Code, except that the information on unit costs shall address projected prototype costs instead of production costs.
-
->     “(f)  __Applicability of Existing Law__  __.—__ 
-
->     Nothing in this section shall be construed to exempt any program of the Department of Defense from the application of any provision of chapter 144 of title 10, United States Code, section 139, 181, 2366, 2399, or 2400 of such title, or any requirement under Department of Defense Directive 5000.1, Department of Defense Instruction 5000.2, or Chairman of the Joint Chiefs of Staff Instruction 3170.01B in accordance with the terms of such provision or requirement.
-
->     “(g)  __ Definitions__  __.—__ 
-
->     In this section:
-
->         “(1)
-
->          The term ‘spiral development program’, with respect to a research and development program, means a program that—
-
->             “(A) is conducted in discrete phases or blocks, each of which will result in the development of fieldable prototypes; and
-
->             “(B) will not proceed into acquisition until specific performance parameters, including measurable exit criteria, have been met.
-
->         “(2) The term ‘spiral’ means one of the discrete phases or blocks of a spiral development program.
-
->         “(3) The term ‘major defense acquisition program’ has the meaning given such term in [section 139(a)(2)(B) of title 10][/us/usc/t10/s139/a/2/B], United States Code.”
+    [Pub. L. 107–314, div. A, title VIII, § 803][/us/pl/107/314/s803], Dec. 2, 2002, [116 Stat. 2603][/us/stat/116/2603], which authorized the Secretary of Defense to conduct major defense acquisition programs as spiral development programs and set out limitations on and requirements for such programs, was repealed by [Pub. L. 114–92, div. A, title VIII, § 821(b)(2)][/us/pl/114/92/s821/b/2], Nov. 25, 2015, [129 Stat. 900][/us/stat/129/900].
 
  __Environmental Consequence Analysis of Major Defense Acquisition Programs__ 
 
@@ -1088,12 +1180,38 @@
 [/us/stat/123/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1728
 [/us/pl/113/291/s1071/f/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F18
 [/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
+[/us/pl/114/92/s825/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs825%2Fa
+[/us/stat/129/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F907
+[/us/pl/114/92/s825/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs825%2Fa
+[/us/stat/129/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F907
+[/us/usc/t10/s2433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2433
+[/us/usc/t10/s2433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2433
+[/us/usc/t10/s2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/111/23/s206/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs206%2Fb%2F1
 [/us/pl/111/23/s206/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs206%2Fb%2F2
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/s825/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs825%2Fc%2F3
+[/us/usc/t10/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs133
+[/us/pl/114/92/s825/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs825%2Fc%2F1
+[/us/stat/129/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F908
+[/us/usc/t10/s2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2430
+[/us/usc/t10/s2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2430
+[/us/pl/114/92/s826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs826
+[/us/stat/129/908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F908
+[/us/usc/t10/s2366a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2366a
+[/us/pl/114/92/s827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs827
+[/us/stat/129/909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F909
+[/us/pl/114/92/s828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs828
+[/us/stat/129/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F910
+[/us/usc/t10/s2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432
+[/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
+[/us/usc/t10/s2435/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2435%2Fd
+[/us/pl/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23
 [/us/pl/113/291/s1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1058
 [/us/stat/128/3501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3501
 [/us/pl/112/239/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs811
@@ -1135,6 +1253,8 @@
 [/us/stat/123/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1722
 [/us/pl/111/383/s813/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs813%2Fb
 [/us/stat/124/4265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4265
+[/us/pl/114/92/s822/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs822%2Fb
+[/us/stat/129/902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F902
 [/us/pl/111/23/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs207%2Fa
 [/us/stat/123/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1728
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
@@ -1145,6 +1265,8 @@
 [/us/usc/t41/s2303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs2303
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4528
+[/us/pl/114/92/s830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs830
+[/us/stat/129/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F912
 [/us/pl/109/364/s853/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs853%2Fd%2F2
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s2430/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2430%2Fa
@@ -1153,6 +1275,9 @@
 [/us/usc/t10/s2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2430
 [/us/pl/110/181/s908/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs908%2Fd
 [/us/stat/122/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F278
+[/us/pl/114/92/s802/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs802%2Fc
+[/us/stat/129/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F879
+[/us/usc/t10/s2547/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2547%2Fc%2F1
 [/us/pl/109/364/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs801
 [/us/stat/120/2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2312
 [/us/usc/t10/s2430/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2430%2Fa
@@ -1167,7 +1292,8 @@
 [/us/usc/t10/s2302/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F5
 [/us/pl/107/314/s803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs803
 [/us/stat/116/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2603
-[/us/usc/t10/s139/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs139%2Fa%2F2%2FB
+[/us/pl/114/92/s821/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs821%2Fb%2F2
+[/us/stat/129/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F900
 [/us/pl/103/337/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs815
 [/us/stat/108/2819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2819
 [/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321

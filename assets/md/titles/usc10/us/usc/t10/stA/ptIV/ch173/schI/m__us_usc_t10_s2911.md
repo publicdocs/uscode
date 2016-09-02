@@ -411,7 +411,7 @@
 
  __Mitigation of Power Outage Risks for Department of Defense Facilities and Activities__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 335, Oct. 14, 2008, [122 Stat. 4422][/us/stat/122/4422], provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 335, Oct. 14, 2008, [122 Stat. 4422][/us/stat/122/4422], as amended by [Pub. L. 114–92, div. A, title X, § 1079(d)(1)][/us/pl/114/92/s1079/d/1], Nov. 25, 2015, [129 Stat. 999][/us/stat/129/999], provided that:
 
 >     “(a)  __Risk Assessment__  __.—__ 
 
@@ -429,17 +429,7 @@
 
 >             “(A) prioritize the mission critical installations, facilities, and activities that are subject to the greatest and most urgent risks; and
 
->             “(B) consider the cost effectiveness of risk mitigation options.
-
->     “(c) __Annual Report.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         The Secretary of Defense shall submit a report on the efforts of the Department of Defense to mitigate the risks described in subsection (a) as part of the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2010 and each fiscal year thereafter (as submitted with the budget of the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code).
-
->         “(2)  __Content__  __.—__ 
-
->         Each report submitted under paragraph (1) shall describe the integrated prioritized plans developed under subsection (b) and the progress made toward achieving the goals established under such subsection.”
+>             “(B) consider the cost effectiveness of risk mitigation options.”
 
  __Use of Energy Efficient Lighting Fixtures and Bulbs in Department of Defense Facilities__ 
 
@@ -631,7 +621,8 @@
 [/us/stat/124/4374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4374
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4422
-[/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
+[/us/pl/114/92/s1079/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1079%2Fd%2F1
+[/us/stat/129/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F999
 [/us/pl/110/181/s2863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2863
 [/us/stat/122/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F560
 [/us/usc/t42/s6294a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6294a

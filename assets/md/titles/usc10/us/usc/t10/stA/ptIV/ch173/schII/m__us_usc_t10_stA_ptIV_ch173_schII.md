@@ -87,9 +87,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2922h" data-uslm-ref="/us/usc/t10/s2922h">2922h.</a>  </td>
+
+    <td> Limitation on procurement of drop-in fuels.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92, div. A, title III, § 311(b)][/us/pl/114/92/s311/b], Nov. 25, 2015, [129 Stat. 787][/us/stat/129/787], added item 2922h.
 
     2009—[Pub. L. 111–84, div. B, title XXVIII, § 2844(b)][/us/pl/111/84/s2844/b], Oct. 28, 2009, [123 Stat. 2682][/us/stat/123/2682], added item 2922g.
 
@@ -100,6 +110,8 @@
 ----------
 ----------
 
+[/us/pl/114/92/s311/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs311%2Fb
+[/us/stat/129/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F787
 [/us/pl/111/84/s2844/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2844%2Fb
 [/us/stat/123/2682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2682
 

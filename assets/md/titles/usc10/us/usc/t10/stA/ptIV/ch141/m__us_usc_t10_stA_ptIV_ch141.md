@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch140/m__us_usc_t10_s2379.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch141/m__us_usc_t10_s2381.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch141)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch140/m__us_usc_t10_s2380A.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch141/m__us_usc_t10_s2381.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch141)
 
 #### CHAPTER 141—MISCELLANEOUS PROCUREMENT PROVISIONS
 
@@ -465,9 +465,21 @@
 
     1958—[Pub. L. 85–861, § 1(47)][/us/pl/85/861/s1/47], Sept. 2, 1958, [72 Stat. 1458][/us/stat/72/1458], added items 2387 and 2388.
 
+ __Prohibition on Reliance on China and Russia for Space-based Weather Data__ 
+
+[Pub. L. 114–92, div. A, title XVI, § 1614][/us/pl/114/92/s1614], Nov. 25, 2015, [129 Stat. 1105][/us/stat/129/1105], provided that:
+
+>     “(a)  __Prohibition__  __.—__ 
+
+>     The Secretary of Defense shall ensure that the Department of Defense does not rely on, or in the future plan to rely on, space-based weather data provided by the Government of the People’s Republic of China, the Government of the Russian Federation, or an entity owned or controlled by either such government for national security purposes.
+
+>     “(b)  __Certification__  __.—__ 
+
+>     Not later than 90 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a certification that the Secretary is in compliance with the prohibition under subsection (a).”
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch140/m__us_usc_t10_s2379.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch141/m__us_usc_t10_s2381.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch141)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch140/m__us_usc_t10_s2380A.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch141/m__us_usc_t10_s2381.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch141)
 
 ----------
 ----------
@@ -559,5 +571,7 @@
 [/us/stat/80/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F1057
 [/us/pl/85/861/s1/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F47
 [/us/stat/72/1458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1458
+[/us/pl/114/92/s1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1614
+[/us/stat/129/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1105
 
 

@@ -61,6 +61,12 @@
 
     2006—Subsec. (b)(2)(D). [Pub. L. 109–163][/us/pl/109/163] added subpar. (D).
 
+ __Temporary Authority To Extend Contracts and Leases Under the Arms Initiative__ 
+
+[Pub. L. 114–92, div. A, title III, § 343][/us/pl/114/92/s343], Nov. 25, 2015, [129 Stat. 794][/us/stat/129/794], provided that: 
+
+> “Contracts or subcontracts entered into pursuant to [section 4554(a)(3)(A) of title 10][/us/usc/t10/s4554/a/3/A], United States Code, on or before the date that is five years after the date of the enactment of this Act \[Nov. 25, 2015\] may include an option to extend the term of the contract or subcontract for an additional 25 years.”
+
  __Implementation Report__ 
 
     [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 344(b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–71, provided that, not later than July 1, 2001, the Secretary of Defense was to submit to the congressional defense committees a report on the procedures and controls implemented to carry out this section.
@@ -79,6 +85,9 @@
 [/us/pl/109/163/s323/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs323%2Fb
 [/us/stat/119/3194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3194
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/114/92/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs343
+[/us/stat/129/794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F794
+[/us/usc/t10/s4554/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4554%2Fa%2F3%2FA
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 

@@ -109,13 +109,15 @@
 
         (1) the annual report prepared by the Secretary of Defense pursuant to [section 1116 of title 31][/us/usc/t31/s1116] shall address the Department’s success in achieving performance goals established pursuant to such section for elements of the defense acquisition system; and
 
-        (2) the annual report prepared by the Director of the Office of Performance Assessment and Root Cause Analysis pursuant to [section 2438(f) of this title][/us/usc/t10/s2438/f] shall include information on the activities undertaken by the Department pursuant to such section, including a summary of significant findings or recommendations arising out of performance assessments.
+        (2) the annual report prepared by the Director of the Office of Performance Assessment and Root Cause Analysis pursuant to section 2438(f)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title shall include information on the activities undertaken by the Department pursuant to such section, including a summary of significant findings or recommendations arising out of performance assessments.
 
 (Added [Pub. L. 111–383, div. A, title VIII, § 861(a)][/us/pl/111/383/s861/a], Jan. 7, 2011, [124 Stat. 4289][/us/stat/124/4289]; amended [Pub. L. 112–239, div. A, title X, § 1076(d)(5)][/us/pl/112/239/s1076/d/5], (f)(30), Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951], 1953.)
 
  __References in Text__ 
 
     The Government Performance and Results Act of 1993, referred to in subsec. (d), is [Pub. L. 103–62][/us/pl/103/62], Aug. 3, 1993, [107 Stat. 285][/us/stat/107/285], which enacted [section 306 of Title 5][/us/usc/t5/s306], Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended [section 1105 of Title 31][/us/usc/t31/s1105], and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 1101 of Title 31][/us/usc/t31/s1101] and Tables.
+
+    [Section 2438(f) of this title][/us/usc/t10/s2438/f], referred to in subsec. (e)(2), was repealed by [Pub. L. 114–92, div. A, title X, § 1077(b)][/us/pl/114/92/s1077/b], Nov. 25, 2015, [129 Stat. 998][/us/stat/129/998].
 
  __Prior Provisions__ 
 
@@ -144,7 +146,6 @@
 [/us/usc/t10/s2306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a
 [/us/usc/t31/s1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1115
 [/us/usc/t31/s1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1116
-[/us/usc/t10/s2438/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2438%2Ff
 [/us/pl/111/383/s861/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs861%2Fa
 [/us/stat/124/4289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4289
 [/us/pl/112/239/s1076/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fd%2F5
@@ -154,6 +155,9 @@
 [/us/usc/t5/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs306
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
+[/us/usc/t10/s2438/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2438%2Ff
+[/us/pl/114/92/s1077/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1077%2Fb
+[/us/stat/129/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F998
 [/us/usc/t10/s2558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2558
 [/us/pl/112/239/s1076/f/30/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F30%2FA%2Fi
 [/us/pl/112/239/s1076/f/30/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F30%2FA%2Fii

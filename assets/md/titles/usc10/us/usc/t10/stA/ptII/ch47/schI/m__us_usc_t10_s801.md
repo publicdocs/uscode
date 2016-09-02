@@ -239,67 +239,91 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
     For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
- __Transfers to Foreign Countries of Individuals Detained at United States Naval Station, Guantanamo Bay, Cuba__ 
+ __Improved Implementation of Changes to Uniform Code of Military Justice__ 
 
-[Pub. L. 113–66, div. A, title X, § 1035(a)][/us/pl/113/66/s1035/a]–(e), Dec. 26, 2013, [127 Stat. 851–853][/us/stat/127/851-853], provided that:
+[Pub. L. 114–92, div. A, title V, § 543][/us/pl/114/92/s543], Nov. 25, 2015, [129 Stat. 820][/us/stat/129/820], provided that: 
 
->     “(a)  __Authority to Transfer Under Certain Circumstances__  __.—__ 
+> “The Secretary of Defense shall examine the Department of Defense process for implementing statutory changes to the Uniform Code of Military Justice for the purpose of developing options for streamlining such process. The Secretary shall adopt procedures to ensure that legal guidance is published as soon as practicable whenever statutory changes to the Uniform Code of Military Justice are implemented.”
 
->     The Secretary of Defense is authorized to transfer or release any individual detained at Guantanamo to the individual’s country of origin, or any other foreign country, if—
+ __Reenactment and Modification of Certain Prior Requirements for Certifications Relating to Transfer of Detainees at United States Naval Station, Guantanamo Bay, Cuba, to Foreign Countries and Other Foreign Entities__ 
 
->         “(1) the Secretary determines, following a review conducted in accordance with the requirements of section 1023 of the National Defense Authorization Act for Fiscal Year 2012 \[[Pub. L. 112–81][/us/pl/112/81]\] ([10 U.S.C. 801][/us/usc/t10/s801] note) and Executive Order No. 13567 \[set out below\], that the individual is no longer a threat to the national security of the United States; or
+[Pub. L. 114–92, div. A, title X, § 1034(a)][/us/pl/114/92/s1034/a]–(f), Nov. 25, 2015, [129 Stat. 969][/us/stat/129/969], 970, provided that:
 
->         “(2) such transfer or release outside the United States is to effectuate an order affecting disposition of the individual by a court or competent tribunal of the United States having jurisdiction.
+>     “(a) __Certification Required Prior to Transfer.—__ 
 
->     “(b)  __Determination Required Prior to Transfer__  __.—__ 
+>         “(1)  __In general__  __.—__ 
 
->     Except as provided in subsection (a), the Secretary of Defense may transfer an individual detained at Guantanamo to the custody or control of the individual’s country origin, or any other foreign country, only if the Secretary determines that—
+>         Except as provided in paragraph (2), the Secretary of Defense may not use any amounts authorized to be appropriated or otherwise available to the Department of Defense to transfer any individual detained at Guantanamo to the custody or control of the individual’s country of origin, any other foreign country, or any other foreign entity unless the Secretary submits to the appropriate committees of Congress the certification described in subsection (b) not later than 30 days before the transfer of the individual.
 
->         “(1) actions that have been or are planned to be taken will substantially mitigate the risk of such individual engaging or reengaging in any terrorist or other hostile activity that threatens the United States or United States persons or interests; and
+>         “(2)  __Exception__  __.—__ 
 
->         “(2) the transfer is in the national security interest of the United States.
+>         Paragraph (1) shall not apply to any action taken by the Secretary to transfer any individual detained at Guantanamo to effectuate an order affecting the disposition of the individual that is issued by a court or competent tribunal of the United States having lawful jurisdiction (which the Secretary shall notify the appropriate committees of Congress of promptly after issuance).
 
->     “(c)  __Factors to Be Considered in Making Determination__  __.—__ 
+>     “(b)  __Certification__  __.—__ 
 
->     In making the determination specified in subsection (b), the Secretary of Defense shall specifically evaluate and take into consideration the following factors:
+>     A certification described in this subsection is a written certification made by the Secretary that—
 
->         “(1) The recommendations of the Guantanamo Detainee Review Task Force established pursuant to Executive Order No. 13492 \[set out below\] and the recommendations of the Periodic Review Boards established pursuant to No. Executive Order \[sic\] 13567, as applicable.
+>         “(1) the transfer concerned is in the national security interests of the United States;
 
->         “(2) The security situation in the foreign country to which the individual is to be transferred, including whether or not the country is a state sponsor of terrorism, the presence of foreign terrorist groups, and the threat posed by such groups to the United States.
+>         “(2)
 
->         “(3) Any confirmed case in which an individual transferred to the foreign country to which the individual is to be transferred subsequently engaged in terrorist or other hostile activity that threatened the United States or United States persons or interests.
+>          the government of the foreign country or the recognized leadership of the foreign entity to which the individual detained at Guantanamo concerned is to be transferred—
 
->         “(4) Any actions taken by the United States or the foreign country to which the individual is to be transferred, or change in circumstances in such country, that reduce the risk of reengagement of the type described in paragraph (3).
+>             “(A) is not a designated state sponsor of terrorism or a designated foreign terrorist organization;
 
->         “(5)
+>             “(B) maintains control over each detention facility in which the individual is to be detained if the individual is to be housed in a detention facility;
 
->          Any assurances provided by the government of the foreign country to which the individual is to be transferred, including that—
+>             “(C) has taken or agreed to take appropriate steps to substantially mitigate any risk the individual could attempt to reengage in terrorist activity or otherwise threaten the United States or its allies or interests; and
 
->             “(A) such government maintains control over any facility at which the individual is to be detained if the individual is to be housed in a government-controlled facility; and
+>             “(D) has agreed to share with the United States any information that is related to the individual;
 
->             “(B) such government has taken or agreed to take actions to substantially mitigate the risk of the individual engaging or reengaging in any terrorist or other hostile activity that threatens the United States or United States persons or interests.
+>         “(3)
 
->         “(6) An assessment of the capacity, willingness, and past practices (if applicable) of the foreign country described in paragraph (5) in meeting any assurances it has provided, including assurances under paragraph (5) regarding its capacity and willingness to mitigate the risk of reengagement.
+>          if the country to which the individual is to be transferred is a country to which the United States transferred an individual who was detained at United States Naval Station, Guantanamo Bay, Cuba, at any time after September 11, 2001, and such transferred individual subsequently engaged in any terrorist activity, the Secretary has—
 
->         “(7) Any record of cooperation by the individual to be transferred with United States intelligence and law enforcement authorities, pursuant to a pre-trial agreement, while in the custody of or under the effective control of the Department of Defense, and any agreements and effective mechanisms that may be in place, to the extent relevant and necessary, to provide continued cooperation with United States intelligence and law enforcement authorities.
+>             “(A) considered such circumstances; and
 
->         “(8) In the case of an individual who has been tried in a court or competent tribunal of the United States having jurisdiction on charges based on the same conduct that serves as a basis for the determination that the individual is an enemy combatant, whether or not the individual has been acquitted of such charges or has been convicted and has completed serving the sentence pursuant to the conviction.
+>             “(B) determined that the actions to be taken as described in paragraph (2)(C) will substantially mitigate the risk of recidivism with regard to the individual to be transferred; and
 
->     “(d)  __Notification__  __.—__ 
+>         “(4) includes an intelligence assessment, in classified or unclassified form, of the capacity, willingness, and past practices (if applicable) of the foreign country or foreign entity concerned in relation to the certification of the Secretary under this subsection.
 
->     The Secretary of Defense shall notify the appropriate committees of Congress of a determination of the Secretary under subsection (a) or (b) not later than 30 days before the transfer or release of the individual under such subsection. Each notification shall include, at a minimum, the following:
+>     “(c)  __Coordination With Prohibition on Transfer to Certain Countries__  __.—__ 
 
->         “(1) A detailed statement of the basis for the transfer or release.
+>     While the prohibition in section 1033 \[of [Pub. L. 114–92][/us/pl/114/92], [129 Stat. 968][/us/stat/129/968]\] is in effect, no certification may be made under subsection (b) in connection with the transfer of an individual detained at Guantanamo to a country specified in such section.
 
->         “(2) An explanation of why the transfer or release is in the national security interests of the United States.
+>     “(d)  __Record of Cooperation__  __.—__ 
 
->         “(3) A description of any actions taken to mitigate the risks of reengagement by the individual to be transferred or released, including any actions taken to address factors relevant to a prior case of reengagement described in subsection (c)(3).
+>     In assessing the risk that an individual detained at Guantanamo will engage in terrorist activity or other actions that could affect the national security of the United States if released for the purpose of making a certification under subsection (b), the Secretary may give favorable consideration to any such individual—
+
+>         “(1) who has substantially cooperated with United States intelligence and law enforcement authorities, pursuant to a pre-trial agreement, while in the custody of or under the effective control of the Department of Defense; and
+
+>         “(2) for whom agreements and effective mechanisms are in place, to the extent relevant and necessary, to provide for continued cooperation with United States intelligence and law enforcement authorities.
+
+>     “(e)  __Report__  __.—__ 
+
+>     Whenever the Secretary makes a certification under subsection (b) with respect to an individual detained at Guantanamo, the Secretary shall submit to the appropriate committees of Congress, together with such certification, a report that shall include, at a minimum, the following:
+
+>         “(1) A detailed statement of the basis for the transfer of the individual.
+
+>         “(2) An explanation why the transfer of the individual is in the national security interests of the United States.
+
+>         “(3) A description of actions taken to mitigate the risks of reengagement by the individual as described in subsection (b)(2)(C), including any actions taken to address factors relevant to an applicable prior case of reengagement described in subsection (b)(3).
 
 >         “(4) A copy of any Periodic Review Board findings relating to the individual.
 
->         “(5) A description of the evaluation conducted pursuant to subsection (c), including a summary of the assessment required by paragraph (6) of such subsection.
+>         “(5) A copy of the final recommendation by the Guantanamo Detainee Review Task Force established pursuant to Executive Order 13492 \[set out below\] relating to the individual and, if applicable, updated information related to any change to such recommendation.
 
->     “(e)  __Definitions__  __.—__ 
+>         “(6) An assessment whether, as of the date of the certification, the country to which the individual is to be transferred is facing a threat that could substantially affect its ability to exercise control over the individual.
+
+>         “(7)
+
+>          A classified summary of—
+
+>             “(A) the individual’s record of cooperation, if any, while in the custody of or under the effective control of the Department of Defense; and
+
+>             “(B) any agreements and mechanisms in place to provide for continuing cooperation.
+
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -309,7 +333,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >             “(A) the Committee on Armed Services, the Committee on Foreign Relations, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate; and
 
->             “(B) the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.
+>             “(B) the Committee on Armed Services, the Committee on Foreign Affairs, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
 >         “(2)
 
@@ -323,7 +347,15 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >                 “(i) in the custody or under the control of the Department of Defense; or
 
->                 “(ii) otherwise under detention at United States Naval Station, Guantanamo Bay, Cuba.”
+>                 “(ii) otherwise under detention at United States Naval Station, Guantanamo Bay, Cuba.
+
+>         “(3) The term ‘foreign terrorist organization’ means any organization so designated by the Secretary of State under section 219 of the Immigration and Nationality Act ([8 U.S.C. 1189][/us/usc/t8/s1189]).
+
+>         “(4) The term ‘state sponsor of terrorism’ has the meaning given that term in section 301(13) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 ([22 U.S.C. 8541(13)][/us/usc/t22/s8541/13]).”
+
+ __Transfers to Foreign Countries of Individuals Detained at United States Naval Station, Guantanamo Bay, Cuba__ 
+
+    [Pub. L. 113–66, div. A, title X, § 1035(a)][/us/pl/113/66/s1035/a]–(e), Dec. 26, 2013, [127 Stat. 851–853][/us/stat/127/851-853], which related to authority, determinations, and notification regarding transfers to foreign countries of individuals detained at United States Naval Station, Guantanamo Bay, Cuba, was repealed by [Pub. L. 114–92, div. A, title X, § 1034(g)][/us/pl/114/92/s1034/g], Nov. 25, 2015, [129 Stat. 971][/us/stat/129/971].
 
  __Notice to Congress on Use of Naval Vessels for Detention of Individuals__ 
 
@@ -781,7 +813,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
  __Reports on Guantanamo Bay Prisoner Population__ 
 
-[Pub. L. 111–32, title III, § 319][/us/pl/111/32/s319], June 24, 2009, [123 Stat. 1874][/us/stat/123/1874], provided that:
+[Pub. L. 111–32, title III, § 319][/us/pl/111/32/s319], June 24, 2009, [123 Stat. 1874][/us/stat/123/1874], as amended by [Pub. L. 114–92, div. A, title X][/us/pl/114/92], §§ 1038(a), 1039, Nov. 25, 2015, [129 Stat. 974][/us/stat/129/974], provided that:
 
 >     “(a)  __Reports Required__  __.—__ 
 
@@ -823,6 +855,12 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >         “(5) An assessment of any efforts by al Qaeda to recruit detainees released from detention at Naval Station Guantanamo Bay.
 
+>         “(6) A summary of all known contact between any individual formerly detained at Naval Station Guantanamo Bay and any individual known or suspected to be associated with a foreign terrorist group, which contact included information or discussion about planning for or conduct of hostilities against the United States or its allies or the organizational, logistical, or resource needs or activities of any terrorist group or activity.
+
+>         “(7) For each individual described in paragraph (4), the date on which such individual was released or transferred from Naval Station Guantanamo Bay and the date on which it is confirmed that such individual is suspected or confirmed of reengaging in terrorist activities.
+
+>         “(8) The average period of time described in paragraph (7) for all the individuals described in paragraph (4).
+
 >     “(d)  __Additional Matters To Be Included in Initial Report__  __.—__ 
 
 >     The first report submitted under subsection (a) shall also include the following:
@@ -832,6 +870,12 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 >         “(2) An assessment of the adequacy of that screening process for reducing the risk that detainees previously released or transferred from Naval Station Guantanamo Bay would return to terrorist activities after release or transfer from Naval Station Guantanamo Bay.
 
 >         “(3) An assessment of lessons learned from previous releases and transfers of individuals who returned to terrorist activities for reducing the risk that detainees released or transferred from Naval Station Guantanamo Bay will return to terrorist activities after their release or transfer.”
+
+\[[Pub. L. 114–92, div. A, title X, § 1038(b)][/us/pl/114/92/s1038/b], Nov. 25, 2015, [129 Stat. 974][/us/stat/129/974], provided that: 
+
+> “Nothing in the amendment made by subsection (a) \[amending [section 319(c) of Pub. L. 111–32][/us/pl/111/32/s319/c], set out above, by adding par. (6)\] shall be construed to terminate, alter, modify, override, or otherwise affect any reporting of information required under section 319(c) of the Supplemental Appropriations Act, 2009 \[[Pub. L. 111–32][/us/pl/111/32], set out above\] before the date of the enactment of this section \[Nov. 25, 2015\].”
+
+\]
 
     \[Memorandum of President of the United States, July 17, 2009, 74 F.R. 35765, provided that the reporting function conferred upon the President by section 319(a), (c)(1) to (3) of [Pub. L. 111–32][/us/pl/111/32], set out above, is assigned to the Attorney General, and the reporting function specified in section 319(a), (c)(4), (5), (d) of [Pub. L. 111–32][/us/pl/111/32] is assigned to the Director of National Intelligence, in consultation with the Secretary of Defense.\]
 
@@ -1592,10 +1636,18 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 [/us/act/1956-08-10/ch1041/s49/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs49%2Fe
 [/us/stat/70A/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F640
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/114/92/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs543
+[/us/stat/129/820]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F820
+[/us/pl/114/92/s1034/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1034%2Fa
+[/us/stat/129/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F969
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F968
+[/us/usc/t8/s1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1189
+[/us/usc/t22/s8541/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs8541%2F13
 [/us/pl/113/66/s1035/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1035%2Fa
 [/us/stat/127/851-853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F851-853
-[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801
+[/us/pl/114/92/s1034/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1034%2Fg
+[/us/stat/129/971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F971
 [/us/pl/112/239/s1024/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1024%2Fa
 [/us/pl/107/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F40
 [/us/usc/t50/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1541
@@ -1649,6 +1701,12 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 [/us/usc/t10/s801/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801%2F1
 [/us/pl/111/32/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs319
 [/us/stat/123/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1874
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F974
+[/us/pl/114/92/s1038/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1038%2Fb
+[/us/stat/129/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F974
+[/us/pl/111/32/s319/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32%2Fs319%2Fc
+[/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
 [/us/pl/111/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F32
 [/us/pl/109/163/s750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs750

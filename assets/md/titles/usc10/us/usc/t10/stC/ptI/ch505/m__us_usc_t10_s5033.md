@@ -45,7 +45,7 @@
 
         (4) exercise supervision, consistent with the authority assigned to commanders of unified or specified combatant commands under chapter 6 of this title, over such of the members and organizations of the Navy and the Marine Corps as the Secretary determines;
 
-        (5) perform the duties prescribed for him by [section 171 of this title][/us/usc/t10/s171] and other provisions of law; and
+        (5) perform the duties prescribed for him by sections 171 and 2547 of this title and other provisions of law; and
 
         (6) perform such other military duties, not otherwise assigned by law, as are assigned to him by the President, the Secretary of Defense, or the Secretary of the Navy.
 
@@ -57,7 +57,7 @@
 
         (3) Subject to the authority, direction, and control of the Secretary of Defense, the Chief of Naval Operations shall keep the Secretary of the Navy fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
-(Added [Pub. L. 99–433, title V, § 512(b)][/us/pl/99/433/s512/b], Oct. 1, 1986, [100 Stat. 1049][/us/stat/100/1049]; amended [Pub. L. 100–456, div. A, title V, § 519(a)(3)][/us/pl/100/456/s519/a/3], Sept. 29, 1988, [102 Stat. 1972][/us/stat/102/1972]; [Pub. L. 108–136, div. A, title V, § 501(a)][/us/pl/108/136/s501/a], Nov. 24, 2003, [117 Stat. 1456][/us/stat/117/1456].)
+(Added [Pub. L. 99–433, title V, § 512(b)][/us/pl/99/433/s512/b], Oct. 1, 1986, [100 Stat. 1049][/us/stat/100/1049]; amended [Pub. L. 100–456, div. A, title V, § 519(a)(3)][/us/pl/100/456/s519/a/3], Sept. 29, 1988, [102 Stat. 1972][/us/stat/102/1972]; [Pub. L. 108–136, div. A, title V, § 501(a)][/us/pl/108/136/s501/a], Nov. 24, 2003, [117 Stat. 1456][/us/stat/117/1456]; [Pub. L. 114–92, div. A, title VIII, § 802(d)(4)(B)][/us/pl/114/92/s802/d/4/B], Nov. 25, 2015, [129 Stat. 880][/us/stat/129/880].)
 
  __Prior Provisions__ 
 
@@ -66,6 +66,8 @@
     A prior section 5033, acts [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 279][/us/stat/70A/279]; Sept. 2, 1958, [Pub. L. 85–861, § 1(108)][/us/pl/85/861/s1/108], [72 Stat. 1490][/us/stat/72/1490]; Aug. 14, 1964, [Pub. L. 88–426, title III][/us/pl/88/426], §§ 305(5), 306(j)(5), [78 Stat. 422][/us/stat/78/422], 432, related to appointment and duties of Under Secretary of the Navy, prior to repeal by [Pub. L. 99–433, § 511(e)][/us/pl/99/433/s511/e]. See [section 5015 of this title][/us/usc/t10/s5015].
 
  __Amendments__ 
+
+    2015—Subsec. (d)(5). [Pub. L. 114–92][/us/pl/114/92] substituted “sections 171 and 2547” for “section 171”.
 
     2003—Subsec. (a)(1). [Pub. L. 108–136][/us/pl/108/136] substituted “from the flag officers of the Navy” for “from officers on the active-duty list in the line of the Navy who are eligible to command at sea and who hold the grade of rear admiral or above”.
 
@@ -90,7 +92,6 @@
 
 [/us/usc/t10/s664/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs664%2Ff
 [/us/usc/t10/s5013/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5013%2Ff
-[/us/usc/t10/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs171
 [/us/usc/t10/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs151
 [/us/pl/99/433/s512/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs512%2Fb
 [/us/stat/100/1049]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1049
@@ -98,6 +99,8 @@
 [/us/stat/102/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1972
 [/us/pl/108/136/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs501%2Fa
 [/us/stat/117/1456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1456
+[/us/pl/114/92/s802/d/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs802%2Fd%2F4%2FB
+[/us/stat/129/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F880
 [/us/pl/99/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F279
@@ -107,6 +110,7 @@
 [/us/stat/78/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F422
 [/us/pl/99/433/s511/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F433%2Fs511%2Fe
 [/us/usc/t10/s5015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs5015
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/usc/t10/s664/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs664%2Ff

@@ -35,11 +35,27 @@
 
     The Secretary of Defense shall issue each year a report on the compliance by the military departments with applicable law and policies on the recording of health assessment data in military health records, including compliance with [section 1074f(c) of this title][/us/usc/t10/s1074f/c]. The report shall cover the calendar year preceding the year in which the report is submitted and include a discussion of the extent to which immunization status and predeployment and postdeployment health care data are being recorded in such records.
 
-(Added [Pub. L. 108–375, div. A, title VII, § 739(a)(1)][/us/pl/108/375/s739/a/1], Oct. 28, 2004, [118 Stat. 2001][/us/stat/118/2001].)
+    (c)  __Publication of Data on Patient Safety, Quality of Care, Satisfaction, and Health Outcome Measures__  __.—__ 
+
+        (1) Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016, the Secretary of Defense shall publish on a publically available Internet website of the Department of Defense data on all measures that the Secretary considers appropriate that are used by the Department to assess patient safety, quality of care, patient satisfaction, and health outcomes for health care provided under the TRICARE program at each military medical treatment facility.
+
+        (2) The Secretary shall publish an update to the data published under paragraph (1) not less frequently than once each quarter during each fiscal year.
+
+        (3) The Secretary may not include data relating to risk management activities of the Department in any publication under paragraph (1) or update under paragraph (2).
+
+        (4) The Secretary shall ensure that the data published under paragraph (1) and updated under paragraph (2) is accessible to the public through the primary Internet website of the Department and the primary Internet website of the military medical treatment facility with respect to which such data applies.
+
+(Added [Pub. L. 108–375, div. A, title VII, § 739(a)(1)][/us/pl/108/375/s739/a/1], Oct. 28, 2004, [118 Stat. 2001][/us/stat/118/2001]; amended [Pub. L. 114–92, div. A, title VII, § 712][/us/pl/114/92/s712], Nov. 25, 2015, [129 Stat. 864][/us/stat/129/864].)
 
  __References in Text__ 
 
     Section 733(b) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, referred to in subsec. (a)(1)(A), is [section 733(b) of Pub. L. 108–375][/us/pl/108/375/s733/b], which is set out as a note under [section 1074f of this title][/us/usc/t10/s1074f].
+
+    The date of the enactment of the National Defense Authorization Act for Fiscal Year 2016, referred to in subsec. (c)(1), is the date of enactment of [Pub. L. 114–92][/us/pl/114/92], which was approved Nov. 25, 2015.
+
+ __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–92][/us/pl/114/92] added subsec. (c).
 
  __Inclusion of Dental Care__ 
 
@@ -60,8 +76,12 @@
 [/us/usc/t10/s1074f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074f%2Fc
 [/us/pl/108/375/s739/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs739%2Fa%2F1
 [/us/stat/118/2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2001
+[/us/pl/114/92/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs712
+[/us/stat/129/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F864
 [/us/pl/108/375/s733/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs733%2Fb
 [/us/usc/t10/s1074f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074f
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/108/375/s740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs740
 [/us/usc/t10/s1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074

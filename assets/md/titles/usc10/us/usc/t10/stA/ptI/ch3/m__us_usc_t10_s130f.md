@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch3/m__us_usc_t10_s130e.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_stA_ptI_ch4.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs130f)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch3/m__us_usc_t10_s130e.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch3/m__us_usc_t10_s130g.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs130f)
 
 ## § 130f. Congressional notification of sensitive military operations
 
@@ -45,13 +45,15 @@
 
     (e)  __Exception__  __.—__ 
 
-    The notification requirement under subsection (a) shall not apply with respect to a sensitive military operation executed within the territory of Afghanistan pursuant to the Authorization for Use of Military Force ([Public Law 107–40][/us/pl/107/40]; [50 U.S.C. 1541][/us/usc/t50/s1541] note).
+        (1)The notification requirement under subsection (a) shall not apply with respect to a sensitive military operation executed within the territory of Afghanistan pursuant to the Authorization for Use of Military Force ([Public Law 107–40][/us/pl/107/40]; [50 U.S.C. 1541][/us/usc/t50/s1541] note).
+
+        (2) The exception in paragraph (1) shall cease to be in effect at the close of December 31, 2017.
 
     (f)  __Rule of Construction__  __.—__ 
 
     Nothing in this section shall be construed to provide any new authority or to alter or otherwise affect the War Powers Resolution ([50 U.S.C. 1541][/us/usc/t50/s1541] et seq.), the Authorization for Use of Military Force ([Public Law 107–40][/us/pl/107/40]; [50 U.S.C. 1541][/us/usc/t50/s1541] note), or any requirement under the National Security Act of 1947 ([50 U.S.C. 3001][/us/usc/t50/s3001] et seq.).
 
-(Added [Pub. L. 113–66, div. A, title X, § 1041(a)(1)][/us/pl/113/66/s1041/a/1], Dec. 26, 2013, [127 Stat. 856][/us/stat/127/856].)
+(Added [Pub. L. 113–66, div. A, title X, § 1041(a)(1)][/us/pl/113/66/s1041/a/1], Dec. 26, 2013, [127 Stat. 856][/us/stat/127/856]; amended [Pub. L. 114–92, div. A, title X, § 1043][/us/pl/114/92/s1043], Nov. 25, 2015, [129 Stat. 977][/us/stat/129/977].)
 
  __References in Text__ 
 
@@ -60,6 +62,10 @@
     The National Defense Authorization Act for Fiscal Year 2014, referred to in subsec. (a), is [Pub. L. 113–66][/us/pl/113/66], Dec. 26, 2013, [127 Stat. 672][/us/stat/127/672]. For complete classification of this Act to the Code, see Tables.
 
     The War Powers Resolution, referred to in subsec. (f), is [Pub. L. 93–148][/us/pl/93/148], Nov. 7, 1973, [87 Stat. 555][/us/stat/87/555], which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under [section 1541 of Title 50][/us/usc/t50/s1541] and Tables.
+
+ __Amendments__ 
+
+    2015—Subsec. (e). [Pub. L. 114–92][/us/pl/114/92] designated existing provisions as par. (1) and added par. (2).
 
  __Effective Date__ 
 
@@ -75,7 +81,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch3/m__us_usc_t10_s130e.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch4/m__us_usc_t10_stA_ptI_ch4.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs130f)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch3/m__us_usc_t10_s130e.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch3/m__us_usc_t10_s130g.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs130f)
 
 ----------
 ----------
@@ -91,6 +97,8 @@
 [/us/usc/t50/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3001
 [/us/pl/113/66/s1041/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1041%2Fa%2F1
 [/us/stat/127/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F856
+[/us/pl/114/92/s1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1043
+[/us/stat/129/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F977
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
@@ -98,6 +106,7 @@
 [/us/pl/93/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F148
 [/us/stat/87/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F555
 [/us/usc/t50/s1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1541
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/66/s1041/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1041%2Fb
 [/us/stat/127/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F857
 [/us/usc/t10/s130f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs130f

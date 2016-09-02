@@ -21,7 +21,7 @@
 
         (2)
 
-            (A) The pharmacy benefits program shall include a uniform formulary of pharmaceutical agents, which shall assure the availability of pharmaceutical agents in the complete range of therapeutic classes. The selection for inclusion on the uniform formulary of particular pharmaceutical agents in each therapeutic class shall be based on the relative clinical and cost effectiveness of the agents in such class.
+            (A) The pharmacy benefits program shall include a uniform formulary of pharmaceutical agents, which shall assure the availability of pharmaceutical agents in the complete range of therapeutic classes. The selection for inclusion on the uniform formulary of particular pharmaceutical agents in each therapeutic class shall be based on the relative clinical and cost effectiveness of the agents in such class. With respect to members of the uniformed services, such uniform formulary shall include pharmaceutical agents on the joint uniform formulary established under section 715 of the National Defense Authorization Act for Fiscal Year 2016.
 
             (B) In considering the relative clinical effectiveness of agents under subparagraph (A), the Secretary shall presume inclusion in a therapeutic class of a pharmaceutical agent, unless the Pharmacy and Therapeutics Committee established under subsection (b) finds that a pharmaceutical agent does not have a significant, clinically meaningful therapeutic advantage in terms of safety, effectiveness, or clinical outcome over the other drugs included on the uniform formulary.
 
@@ -67,9 +67,9 @@
 
                  With respect to each supply of a prescription covering not more than 30 days that is obtained by a covered beneficiary under the TRICARE retail pharmacy program—
 
-                    (I) in the case of generic agents, $8;  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “and”. </sup></sup> 
+                    (I) in the case of generic agents, $10;  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “and”. </sup></sup> 
 
-                    (II) in the case of formulary agents, $20.
+                    (II) in the case of formulary agents, $24.
 
                 (ii)
 
@@ -77,17 +77,23 @@
 
                     (I) in the case of generic agents, $0;
 
-                    (II) in the case of formulary agents, $16; and
+                    (II) in the case of formulary agents, $20; and
 
-                    (III) in the case of nonformulary agents, $46.
+                    (III) in the case of nonformulary agents, $49.
 
             (B) For a medicare-eligible beneficiary, the cost-sharing requirements may not be in excess of the cost-sharing requirements applicable to all other beneficiaries covered by [section 1086 of this title][/us/usc/t10/s1086]. For purposes of the preceding sentence, a medicare-eligible beneficiary is a beneficiary eligible for health benefits under [section 1086 of this title][/us/usc/t10/s1086] pursuant to subsection (d)(2) of such section.
 
             (C)
 
-                (i) Beginning October 1, 2013, the amount of any increase in a cost-sharing amount specified in subparagraph (A) in a year may not exceed the amount equal to the percentage of such cost-sharing amount at the time of such increase equal to the percentage by which retired pay is increased under [section 1401a of this title][/us/usc/t10/s1401a] in that year.
+                (i) Beginning October 1, 2016, the amount of any increase in a cost-sharing amount specified in subparagraph (A) in a year may not exceed the amount equal to the percentage of such cost-sharing amount at the time of such increase equal to the percentage by which retired pay is increased under [section 1401a of this title][/us/usc/t10/s1401a] in that year.
 
-                (ii) If the amount of the increase otherwise provided for a year by clause (i) is less than $1, the increase shall not be made for such year, but shall be carried over to, and accumulated with, the amount of the increase for the subsequent year or years and made when the aggregate amount of increases carried over under this clause for a year is $1 or more.
+                (ii)
+
+                 The amount of the increase otherwise provided for a year by clause (i) shall be computed as follows:
+
+                    (I) If the amount of the increase is equal to or greater than 50 cents, the amount of the increase shall be rounded to the nearest multiple of $1.
+
+                    (II) If the amount of the increase is less than 50 cents, the increase shall not be made for such year, but shall be carried over to, and accumulated with, the amount of the increase for the subsequent year or years and made when the aggregate amount of increases under this clause for a year is equal to or greater than 50 cents.
 
                 (iii) The provisions of this subparagraph shall not apply to any increase in cost-sharing amounts described in clause (i) that is made by the Secretary of Defense on or after October 1, 2022. The Secretary may increase copayments, as considered appropriate by the Secretary, beginning on October 1, 2022.
 
@@ -167,9 +173,27 @@
 
     The Secretary of Defense shall, after consultation with the other administering Secretaries, prescribe regulations to carry out this section.
 
-(Added [Pub. L. 106–65, div. A, title VII, § 701(a)(1)][/us/pl/106/65/s701/a/1], Oct. 5, 1999, [113 Stat. 677][/us/stat/113/677]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(5)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–290; [Pub. L. 107–107, div. A, title X, § 1048(c)(4)][/us/pl/107/107/s1048/c/4], Dec. 28, 2001, [115 Stat. 1226][/us/stat/115/1226]; [Pub. L. 108–136, div. A, title VII, § 725][/us/pl/108/136/s725], Nov. 24, 2003, [117 Stat. 1535][/us/stat/117/1535]; [Pub. L. 108–375, div. A, title VII, § 714][/us/pl/108/375/s714], Oct. 28, 2004, [118 Stat. 1985][/us/stat/118/1985]; [Pub. L. 110–181, div. A, title VII, § 703(a)][/us/pl/110/181/s703/a], Jan. 28, 2008, [122 Stat. 188][/us/stat/122/188]; [Pub. L. 111–84, div. A, title X, § 1073(a)(10)][/us/pl/111/84/s1073/a/10], Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473]; [Pub. L. 112–239, div. A, title VII][/us/pl/112/239], §§ 702, 712(a), Jan. 2, 2013, [126 Stat. 1798][/us/stat/126/1798], 1802; [Pub. L. 113–291, div. A, title VII, § 702(a)][/us/pl/113/291/s702/a]–(c)(1), Dec. 19, 2014, [128 Stat. 3410][/us/stat/128/3410].)
+(Added [Pub. L. 106–65, div. A, title VII, § 701(a)(1)][/us/pl/106/65/s701/a/1], Oct. 5, 1999, [113 Stat. 677][/us/stat/113/677]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(5)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–290; [Pub. L. 107–107, div. A, title X, § 1048(c)(4)][/us/pl/107/107/s1048/c/4], Dec. 28, 2001, [115 Stat. 1226][/us/stat/115/1226]; [Pub. L. 108–136, div. A, title VII, § 725][/us/pl/108/136/s725], Nov. 24, 2003, [117 Stat. 1535][/us/stat/117/1535]; [Pub. L. 108–375, div. A, title VII, § 714][/us/pl/108/375/s714], Oct. 28, 2004, [118 Stat. 1985][/us/stat/118/1985]; [Pub. L. 110–181, div. A, title VII, § 703(a)][/us/pl/110/181/s703/a], Jan. 28, 2008, [122 Stat. 188][/us/stat/122/188]; [Pub. L. 111–84, div. A, title X, § 1073(a)(10)][/us/pl/111/84/s1073/a/10], Oct. 28, 2009, [123 Stat. 2473][/us/stat/123/2473]; [Pub. L. 112–239, div. A, title VII][/us/pl/112/239], §§ 702, 712(a), Jan. 2, 2013, [126 Stat. 1798][/us/stat/126/1798], 1802; [Pub. L. 113–291, div. A, title VII, § 702(a)][/us/pl/113/291/s702/a]–(c)(1), Dec. 19, 2014, [128 Stat. 3410][/us/stat/128/3410]; [Pub. L. 114–92, div. A, title VII][/us/pl/114/92], §§ 702, 715(f), Nov. 25, 2015, [129 Stat. 860][/us/stat/129/860], 867.)
+
+ __References in Text__ 
+
+    Section 715 of the National Defense Authorization Act for Fiscal Year 2016, referred to in subsec. (a)(2)(A), is [section 715 of Pub. L. 114–92][/us/pl/114/92/s715], which is set out as a note under this section.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(2)(A). [Pub. L. 114–92, § 715(f)][/us/pl/114/92/s715/f], inserted at end “With respect to members of the uniformed services, such uniform formulary shall include pharmaceutical agents on the joint uniform formulary established under section 715 of the National Defense Authorization Act for Fiscal Year 2016.”
+
+    Subsec. (a)(6)(A)(i)(I). [Pub. L. 114–92, § 702(a)(1)(A)][/us/pl/114/92/s702/a/1/A], substituted “$10” for “$8”.
+
+    Subsec. (a)(6)(A)(i)(II). [Pub. L. 114–92, § 702(a)(1)(B)][/us/pl/114/92/s702/a/1/B], substituted “$24” for “$20”.
+
+    Subsec. (a)(6)(A)(ii)(II). [Pub. L. 114–92, § 702(a)(2)(A)][/us/pl/114/92/s702/a/2/A], substituted “$20” for “$16”.
+
+    Subsec. (a)(6)(A)(ii)(III). [Pub. L. 114–92, § 702(a)(2)(B)][/us/pl/114/92/s702/a/2/B], substituted “$49” for “$46”.
+
+    Subsec. (a)(6)(C)(i). [Pub. L. 114–92, § 702(b)(1)][/us/pl/114/92/s702/b/1], substituted “Beginning October 1, 2016,” for “Beginning October 1, 2013,”.
+
+    Subsec. (a)(6)(C)(ii). [Pub. L. 114–92, § 702(b)(2)][/us/pl/114/92/s702/b/2], added cl. (ii) and struck out former cl. (ii) which read as follows: “If the amount of the increase otherwise provided for a year by clause (i) is less than $1, the increase shall not be made for such year, but shall be carried over to, and accumulated with, the amount of the increase for the subsequent year or years and made when the aggregate amount of increases carried over under this clause for a year is $1 or more.”
 
     2014—Subsec. (a)(5). [Pub. L. 113–291, § 702(a)][/us/pl/113/291/s702/a], substituted “the national mail-order pharmacy program” for “at least one of the means described in paragraph (2)(E)” and “shall include cost-sharing by the eligible covered beneficiary as specified in paragraph (6).” for “may include cost sharing by the eligible covered beneficiary in addition to any such cost sharing applicable to agents on the uniform formulary.”
 
@@ -252,6 +276,48 @@
  __Termination of Advisory Panels__ 
 
     Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of [Pub. L. 92–463][/us/pl/92/463], Oct. 6, 1972, [86 Stat. 770][/us/stat/86/770], 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+ __Joint Uniform Formulary for Transition of Care__ 
+
+[Pub. L. 114–92, div. A, title VII, § 715][/us/pl/114/92/s715], Nov. 25, 2015, [129 Stat. 866][/us/stat/129/866], provided that:
+
+>     “(a)  __Joint Formulary__  __.—__ 
+
+>     Not later than June 1, 2016, the Secretary of Defense and the Secretary of Veterans Affairs shall jointly establish a joint uniform formulary for the Department of Veterans Affairs and the Department of Defense with respect to pharmaceutical agents that are critical for the transition of an individual from receiving treatment furnished by the Secretary of Defense to treatment furnished by the Secretary of Veterans Affairs.
+
+>     “(b)  __Selection__  __.—__ 
+
+>     The Secretaries shall select for inclusion on the joint uniform formulary established under subsection (a) pharmaceutical agents relating to—
+
+>         “(1) the control of pain, sleep disorders, and psychiatric conditions, including post-traumatic stress disorder; and
+
+>         “(2) any other conditions determined appropriate by the Secretaries.
+
+>     “(c)  __Report__  __.—__ 
+
+>     Not later than July 1, 2016, the Secretaries shall jointly submit to the appropriate congressional committees a report on the joint uniform formulary established under subsection (a), including a list of the pharmaceutical agents selected for inclusion on the formulary.
+
+>     “(d)  __Construction__  __.—__ 
+
+>     Nothing in this section shall be construed to prohibit the Secretary of Defense and the Secretary of Veterans Affairs from each maintaining the respective uniform formularies of the Department of the Secretary.
+
+>     “(e)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)
+
+>          The term ‘appropriate congressional committees’ means—
+
+>             “(A) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+
+>             “(B) the Committees on Veterans’ Affairs of the House of Representatives and the Senate.
+
+>         “(2) The term ‘pharmaceutical agent’ has the meaning given that term in [section 1074g(g) of title 10][/us/usc/t10/s1074g/g], United States Code.
+
+>     “(f)  __Conforming Amendment__  __.—__ 
+
+>     \[Amended this section.\]”
 
  __Pilot Program on Medication Therapy Management Under TRICARE Program__ 
 
@@ -596,6 +662,16 @@
 [/us/stat/126/1798]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1798
 [/us/pl/113/291/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs702%2Fa
 [/us/stat/128/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3410
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F860
+[/us/pl/114/92/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs715
+[/us/pl/114/92/s715/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs715%2Ff
+[/us/pl/114/92/s702/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs702%2Fa%2F1%2FA
+[/us/pl/114/92/s702/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs702%2Fa%2F1%2FB
+[/us/pl/114/92/s702/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs702%2Fa%2F2%2FA
+[/us/pl/114/92/s702/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs702%2Fa%2F2%2FB
+[/us/pl/114/92/s702/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs702%2Fb%2F1
+[/us/pl/114/92/s702/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs702%2Fb%2F2
 [/us/pl/113/291/s702/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs702%2Fa
 [/us/pl/113/291/s702/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs702%2Fb%2F1%2FA
 [/us/pl/113/291/s702/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs702%2Fb%2F1%2FB
@@ -644,6 +720,9 @@
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
+[/us/pl/114/92/s715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs715
+[/us/stat/129/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F866
+[/us/usc/t10/s1074g/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1074g%2Fg
 [/us/pl/113/291/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs726
 [/us/stat/128/3419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3419
 [/us/usc/t10/s1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1092

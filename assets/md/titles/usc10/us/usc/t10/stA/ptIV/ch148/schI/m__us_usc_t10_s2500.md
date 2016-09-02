@@ -149,6 +149,12 @@
 
 > “This division \[div. D (§§ 4001–4501) of [Pub. L. 102–484][/us/pl/102/484], see Tables for classification\] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Act of 1992’.”
 
+ __Treatment of Interagency and State and Local Purchases When the Department of Defense Acts as Contract Intermediary for the General Services Administration__ 
+
+[Pub. L. 114–92, div. A, title VIII, § 897][/us/pl/114/92/s897], Nov. 25, 2015, [129 Stat. 954][/us/stat/129/954], provided that: 
+
+> “Contracts executed by the Department of Defense as a result of the transfer of contracts from the General Services Administration or for which the Department serves as an item manager for products on behalf of the General Services Administration shall not be subject to requirements under chapter 148 of title 10, United States Code, to the extent such contracts are for purchases of products by other Federal agencies or State or local governments.”
+
  __Application of 1993 Amendments to Existing Technology Reinvestment Projects__ 
 
     Amendment by [section 1315(f) of Pub. L. 103–160][/us/pl/103/160/s1315/f] not to alter financial commitment requirements in effect on the day before Nov. 30, 1993, for non-Federal Government participants in a project funded under section 2511, 2512, 2513, 2523, or 2524 of this title, using funds appropriated for a fiscal year beginning before Oct. 1, 1993, see [section 1315(g) of Pub. L. 103–160][/us/pl/103/160/s1315/g], set out as a note under [section 2511 of this title][/us/usc/t10/s2511].
@@ -245,6 +251,8 @@
 [/us/pl/102/484/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4001
 [/us/stat/106/2658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2658
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/pl/114/92/s897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs897
+[/us/stat/129/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F954
 [/us/pl/103/160/s1315/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1315%2Ff
 [/us/pl/103/160/s1315/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1315%2Fg
 [/us/usc/t10/s2511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2511

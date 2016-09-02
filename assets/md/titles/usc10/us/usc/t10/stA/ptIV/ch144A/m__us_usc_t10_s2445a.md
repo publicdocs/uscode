@@ -85,6 +85,120 @@
 
 >     Subsection (b) \[[120 Stat. 2326][/us/stat/120/2326]\] shall take effect on the date of the enactment of this Act \[Oct. 17, 2006\].”
 
+ __Science and Technology Activities To Support Business Systems Information Technology Acquisition Programs__ 
+
+[Pub. L. 114–92, div. A, title II, § 217][/us/pl/114/92/s217], Nov. 25, 2015, [129 Stat. 770][/us/stat/129/770], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Deputy Chief Management Officer, and the Chief Information Officer, shall establish a set of science, technology, and innovation activities to improve the acquisition outcomes of major automated information systems through improved performance and reduced developmental and life cycle costs.
+
+>     “(b)  __Execution of Activities__  __.—__ 
+
+>     The activities established under subsection (a) shall be carried out by such military departments and Defense Agencies as the Under Secretary and the Deputy Chief Management Officer consider appropriate.
+
+>     “(c) __Activities.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The set of activities established under subsection (a) may include the following:
+
+>             “(A) Development of capabilities in Department of Defense laboratories, test centers, and federally funded research and development centers to provide technical support for acquisition program management and business process re-engineering activities.
+
+>             “(B) Funding of intramural and extramural research and development activities as described in subsection (e).
+
+>         “(2)  __Current activities__  __.—__ 
+
+>         The Secretary shall identify the current activities described in subparagraphs (A) and (B) of paragraph (1) that are being carried out as of the date of the enactment of this Act \[Nov. 25, 2015\]. The Secretary shall consider such current activities in determining the set of activities to establish pursuant to subsection (a).
+
+>     “(d)  __Gap Analysis__  __.—__ 
+
+>     In establishing the set of activities under subsection (a), not later than 270 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary, in coordination with the Secretaries of the military departments and the heads of the Defense Agencies, shall conduct a gap analysis to identify activities that are not, as of such date, being pursued in the current science and technology program of the Department. The Secretary shall use such analysis in determining—
+
+>         “(1) the set of activities to establish pursuant to subsection (a) that carry out the purposes specified in subsection (c)(1); and
+
+>         “(2) the proposed funding requirements and timelines.
+
+>     “(e) __Funding of Intramural and Extramural Research and Development.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         In carrying out the set of activities required by subsection (a), the Secretary may award grants or contracts to eligible entities to carry out intramural or extramural research and development in areas of interest described in paragraph (3).
+
+>         “(2)  __Eligible entities__  __.—__ 
+
+>         For purposes of this subsection, an eligible entity includes the following:
+
+>             “(A) Entities in the defense industry.
+
+>             “(B) Institutions of higher education.
+
+>             “(C) Small businesses.
+
+>             “(D) Nontraditional defense contractors (as defined in [section 2302 of title 10][/us/usc/t10/s2302], United States Code).
+
+>             “(E) Federally funded research and development centers, primarily for the purpose of improving technical expertise to support acquisition efforts.
+
+>             “(F) Nonprofit research institutions.
+
+>             “(G) Government laboratories and test centers, primarily for the purpose of improving technical expertise to support acquisition efforts.
+
+>         “(3)  __Areas of interest__  __.—__ 
+
+>         The areas of interest described in this paragraph are the following:
+
+>             “(A) Management innovation, including personnel and financial management policy innovation.
+
+>             “(B) Business process re-engineering.
+
+>             “(C) Systems engineering of information technology business systems.
+
+>             “(D) Cloud computing to support business systems and business processes.
+
+>             “(E) Software development, including systems and techniques to limit unique interfaces and simplify processes to customize commercial software to meet the needs of the Department of Defense.
+
+>             “(F) Hardware development, including systems and techniques to limit unique interfaces and simplify processes to customize commercial hardware to meet the needs of the Department of Defense.
+
+>             “(G) Development of methodologies and tools to support development and operational test of large and complex business systems.
+
+>             “(H) Analysis tools to allow decision-makers to make tradeoffs between requirements, costs, technical risks, and schedule in major automated information system acquisition programs.
+
+>             “(I) Information security in major automated information system systems.
+
+>             “(J) Innovative acquisition policies and practices to streamline acquisition of information technology systems.
+
+>             “(K) Such other areas as the Secretary considers appropriate.
+
+>     “(f) __Priorities.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         In carrying out the set of activities required by subsection (a), the Secretary shall give priority to—
+
+>             “(A)
+
+>              projects that—
+
+>                 “(i) address the innovation and technology needs of the Department of Defense; and
+
+>                 “(ii) support activities of initiatives, programs, and offices identified by the Under Secretary and Deputy Chief Management Officer; and
+
+>             “(B) the projects and programs identified in paragraph (2).
+
+>         “(2)  __Projects and programs identified__  __.—__ 
+
+>         The projects and programs identified in this paragraph are the following:
+
+>             “(A) Major automated information system programs.
+
+>             “(B) Projects and programs under the oversight of the Deputy Chief Management Officer.
+
+>             “(C) Projects and programs relating to defense procurement acquisition policy.
+
+>             “(D) Projects and programs of the agencies and field activities of the Office of the Secretary of Defense that support business missions such as finance, human resources, security, management, logistics, and contract management.
+
+>             “(E) Military and civilian personnel policy development for information technology workforce.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch144A/m__us_usc_t10_stA_ptIV_ch144A.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch144A/m__us_usc_t10_s2445b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2445a)
@@ -109,5 +223,8 @@
 [/us/stat/120/2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2326
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/stat/120/2326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2326
+[/us/pl/114/92/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs217
+[/us/stat/129/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F770
+[/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
 
 

@@ -193,6 +193,64 @@ Feb. 19, 1948, ch. 65, § 4(c); added Oct. 31, 1951, ch. 652 (as applicable to
 
     Amendment by [Pub. L. 98–369][/us/pl/98/369] applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see [section 2751 of Pub. L. 98–369][/us/pl/98/369/s2751], set out as a note under [section 2302 of this title][/us/usc/t10/s2302].
 
+ __Exception From Records Examination Requirement__ 
+
+    Requirements under subsec. (b) of this section not applicable to certain contracts valued at less than $7,500,000 awarded to small business or nontraditional defense contractors, with certain exceptions, see [section 873(b) of Pub. L. 114–92][/us/pl/114/92/s873/b], set out as a Pilot Program for Streamlining Awards for Innovative Technology Projects note under [section 2306a of this title][/us/usc/t10/s2306a].
+
+ __Improved Auditing of Contracts__ 
+
+[Pub. L. 114–92, div. A, title VIII, § 893][/us/pl/114/92/s893], Nov. 25, 2015, [129 Stat. 952][/us/stat/129/952], provided that:
+
+>     “(a) __Prohibition on Performance of Non-defense Audits by DCAA.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Effective on the date of the enactment of this Act \[Nov. 25, 2015\], the Defense Contract Audit Agency may not provide audit support for non-Defense Agencies unless the Secretary of Defense certifies that the backlog for incurred cost audits is less than 18 months of incurred cost inventory.
+
+>         “(2)  __Adjustment in funding for reimbursements from non-defense agencies__  __.—__ 
+
+>         The amount appropriated and otherwise available to the Defense Contract Audit Agency for a fiscal year beginning after September 30, 2016, shall be reduced by an amount equivalent to any reimbursements received by the Agency from non-Defense Agencies for audit support provided.
+
+>     “(b)  __Amendments to Defense Contract Audit Agency Annual Report__  __.—__ 
+
+>     \[Amended [section 2313a of this title][/us/usc/t10/s2313a].\]
+
+>     “(c) __Review of Acquisition Oversight and Audits.—__ 
+
+>         “(1)  __Review required__  __.—__ 
+
+>         The Secretary of Defense shall review the oversight and audit structure of the Department of Defense with the goals of—
+
+>             “(A) enhancing the productivity of oversight and program and contract auditing to avoid duplicative audits; and
+
+>             “(B) streamlining of oversight reviews.
+
+>         “(2)  __Recommendations__  __.—__ 
+
+>         The Secretary shall ensure streamlined oversight reviews and avoidance of duplicative audits and make recommendations in the report required under paragraph (3) for any necessary changes in law.
+
+>         “(3) __Report.—__ 
+
+>             “(A) Not later than one year after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on actions taken to avoid duplicative audits and streamline oversight reviews.
+
+>             “(B)
+
+>              The report required under this paragraph shall include the following elements:
+
+>                 “(i) A description of actions taken to avoid duplicative audits and streamline oversight reviews based on the review conducted under paragraph (1).
+
+>                 “(ii) A comparison of commercial industry accounting practices, including requirements under the Sarbanes-Oxley Act of 2002 ([Public Law 107–204][/us/pl/107/204]; [15 U.S.C. 7201][/us/usc/t15/s7201] et seq.), with the cost accounting standards prescribed under chapter 15 of title 41, United States Code, to determine if some portions of cost accounting standards compliance can be met through such practices or requirements.
+
+>                 “(iii) A description of standards of materiality used by the Defense Contract Audit Agency and the Inspector General of the Department of Defense for defense contract audits.
+
+>                 “(iv) An estimate of average delay and range of delays in contract awards due to the time necessary for the Defense Contract Audit Agency to complete pre-award audits.
+
+>                 “(v) The total costs of sustained or recovered costs both as a total number and as a percentage of questioned costs.
+
+>     “(d)  __Incurred Cost Inventory Defined__  __.—__ 
+
+>     In this section, the term ‘incurred cost inventory’ means the level of contractor incurred cost proposals in inventory from prior fiscal years that are currently being audited by the Defense Contract Audit Agency.”
+
  __Department of Defense Access to, Use of, and Safeguards and Protections for Contractor Internal Audit Reports__ 
 
 [Pub. L. 112–239, div. A, title VIII, § 832][/us/pl/112/239/s832], Jan. 2, 2013, [126 Stat. 1844][/us/stat/126/1844], provided that:
@@ -332,6 +390,13 @@ Feb. 19, 1948, ch. 65, § 4(c); added Oct. 31, 1951, ch. 652 (as applicable to
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2751
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
+[/us/pl/114/92/s873/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs873%2Fb
+[/us/usc/t10/s2306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a
+[/us/pl/114/92/s893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs893
+[/us/stat/129/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F952
+[/us/usc/t10/s2313a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2313a
+[/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204
+[/us/usc/t15/s7201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs7201
 [/us/pl/112/239/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs832
 [/us/stat/126/1844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1844
 [/us/pl/112/81/s842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs842

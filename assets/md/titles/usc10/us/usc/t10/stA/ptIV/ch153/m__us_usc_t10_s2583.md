@@ -17,7 +17,7 @@
 
     (a)  __Availability for Adoption__  __.—__ 
 
-    The Secretary of the military department concerned may make a military animal of such military department available for adoption by a person or entity referred to in subsection (c), unless the animal has been determined to be unsuitable for adoption under subsection (b), under circumstances as follows:
+    The Secretary of the military department concerned shall make a military animal of such military department available for adoption by a person or entity referred to in subsection (c), unless the animal has been determined to be unsuitable for adoption under subsection (b), under circumstances as follows:
 
         (1) At the end of the animal’s useful life.
 
@@ -31,7 +31,17 @@
 
     (c)  __Authorized Recipients__  __.—__ 
 
-    Military animals may be adopted under this section by law enforcement agencies, former handlers of these animals, and other persons capable of humanely caring for these animals. If the Secretary of the military department concerned determines that an adoption is justified under subsection (a)(2) under circumstances under which the handler of a military working dog is wounded in action, the dog may be made available for adoption only by the handler. If the Secretary of the military department concerned determines that such an adoption is justified under circumstances under which the handler of a military working dog is killed in action or dies of wounds received in action, the military working dog shall be made available for adoption only by a parent, child, spouse, or sibling of the deceased handler.
+        (1)
+
+         A military animal shall be made available for adoption under this section, in order of recommended priority—
+
+            (A) by former handlers of the animal;
+
+            (B) by other persons capable of humanely caring for the animal; and
+
+            (C) by law enforcement agencies.
+
+        (2) If the Secretary of the military department concerned determines that an adoption is justified under subsection (a)(2) under circumstances under which the handler of a military working dog is wounded in action, the dog shall be made available for adoption only by the handler. If the Secretary of the military department concerned determines that such an adoption is justified under circumstances under which the handler of a military working dog is killed in action or dies of wounds received in action, the military working dog shall be made available for adoption only by a parent, child, spouse, or sibling of the deceased handler.
 
     (d)  __Consideration__  __.—__ 
 
@@ -45,13 +55,31 @@
 
     (f)  __Transfer of Retired Military Working Dogs__  __.—__ 
 
-    If the Secretary of the military department concerned determines that a military working dog should be retired, and no suitable adoption is available at the military facility where the dog is located, the Secretary may transfer the dog—
+        (1)
 
-        (1) to the 341st Training Squadron; or
+         If the Secretary of the military department concerned determines that a military working dog should be retired the Secretary shall transfer the dog—
 
-        (2) to another location for adoption under this section.
+            (A) to the 341st Training Squadron; or
 
-    (g)  __Military Animal Defined__  __.—__ 
+            (B) to another location within the United States for adoption under this section.
+
+        (2)
+
+         Paragraph (1) shall not apply if at the time of retirement—
+
+            (A) the dog is located outside the United States and a United States citizen or service member living abroad adopts the dog; or
+
+            (B) the dog is located within the United States and suitable adoption is available where the dog is located.
+
+    (g)  __Preference in Adoption of Retired Military Working Dogs for Former Handlers__  __.—__ 
+
+        (1) In providing for the adoption under this section of a retired military working dog described in paragraph (1) or (3) of subsection (a), the Secretary of the military department concerned shall accord a preference to the former handler of the dog unless the Secretary determines that adoption of the dog by the former handler would not be in the best interests of the dog.
+
+        (2) In the case of a dog covered by paragraph (1) with more than one former handler seeking adoption of the dog at the time of adoption, the Secretary shall provide for the adoption of the dog by such former handler whose adoption of the dog will best serve the interests of the dog and such former handlers. The Secretary shall make any determination required by this paragraph with respect to a dog following consultation with the kennel master of the unit at which the dog was last located before adoption under this section.
+
+        (3) Nothing in this subsection shall be construed as altering, revising, or overriding any policy of a military department for the adoption of military working dogs by law enforcement agencies before the end of the dogs’ useful lives.
+
+    (h)  __Military Animal Defined__  __.—__ 
 
     In this section, the term “military animal” means the following:
 
@@ -59,9 +87,23 @@
 
         (2) A horse owned by the Department of Defense.
 
-(Added [Pub. L. 106–446, § 1(a)][/us/pl/106/446/s1/a], Nov. 6, 2000, [114 Stat. 1932][/us/stat/114/1932], § 2582; renumbered § 2583, [Pub. L. 107–107, div. A, title X, § 1048(a)(25)][/us/pl/107/107/s1048/a/25], Dec. 28, 2001, [115 Stat. 1224][/us/stat/115/1224]; amended [Pub. L. 109–163, div. A, title V, § 599][/us/pl/109/163/s599], Jan. 6, 2006, [119 Stat. 3284][/us/stat/119/3284]; [Pub. L. 109–364, div. A, title III, § 352(a)][/us/pl/109/364/s352/a], Oct. 17, 2006, [120 Stat. 2160][/us/stat/120/2160]; [Pub. L. 110–181, div. A, title X, § 1063(a)(13)][/us/pl/110/181/s1063/a/13], Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322]; [Pub. L. 112–81, div. A, title III, § 351][/us/pl/112/81/s351], title X, § 1061(20), Dec. 31, 2011, [125 Stat. 1375][/us/stat/125/1375], 1584; [Pub. L. 112–239, div. A, title III, § 371(a)][/us/pl/112/239/s371/a], Jan. 2, 2013, [126 Stat. 1706][/us/stat/126/1706]; [Pub. L. 113–66, div. A, title X, § 1091(b)(2)][/us/pl/113/66/s1091/b/2], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876].)
+(Added [Pub. L. 106–446, § 1(a)][/us/pl/106/446/s1/a], Nov. 6, 2000, [114 Stat. 1932][/us/stat/114/1932], § 2582; renumbered § 2583, [Pub. L. 107–107, div. A, title X, § 1048(a)(25)][/us/pl/107/107/s1048/a/25], Dec. 28, 2001, [115 Stat. 1224][/us/stat/115/1224]; amended [Pub. L. 109–163, div. A, title V, § 599][/us/pl/109/163/s599], Jan. 6, 2006, [119 Stat. 3284][/us/stat/119/3284]; [Pub. L. 109–364, div. A, title III, § 352(a)][/us/pl/109/364/s352/a], Oct. 17, 2006, [120 Stat. 2160][/us/stat/120/2160]; [Pub. L. 110–181, div. A, title X, § 1063(a)(13)][/us/pl/110/181/s1063/a/13], Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322]; [Pub. L. 112–81, div. A, title III, § 351][/us/pl/112/81/s351], title X, § 1061(20), Dec. 31, 2011, [125 Stat. 1375][/us/stat/125/1375], 1584; [Pub. L. 112–239, div. A, title III, § 371(a)][/us/pl/112/239/s371/a], Jan. 2, 2013, [126 Stat. 1706][/us/stat/126/1706]; [Pub. L. 113–66, div. A, title X, § 1091(b)(2)][/us/pl/113/66/s1091/b/2], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876]; [Pub. L. 114–92, div. A, title III, § 342][/us/pl/114/92/s342], Nov. 25, 2015, [129 Stat. 793][/us/stat/129/793].)
 
  __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–92, § 342(a)][/us/pl/114/92/s342/a], substituted “shall make” for “may make” in introductory provisions.
+
+    Subsec. (c). [Pub. L. 114–92, § 342(b)][/us/pl/114/92/s342/b], amended subsec. (c) generally. Prior to amendment, text read as follows: “Military animals may be adopted under this section by law enforcement agencies, former handlers of these animals, and other persons capable of humanely caring for these animals. If the Secretary of the military department concerned determines that an adoption is justified under subsection (a)(2) under circumstances under which the handler of a military working dog is wounded in action, the dog may be made available for adoption only by the handler. If the Secretary of the military department concerned determines that such an adoption is justified under circumstances under which the handler of a military working dog is killed in action or dies of wounds received in action, the military working dog shall be made available for adoption only by a parent, child, spouse, or sibling of the deceased handler.”
+
+    Subsec. (f). [Pub. L. 114–92, § 342(d)(1)][/us/pl/114/92/s342/d/1], (2), (4), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+
+    [Pub. L. 114–92, § 342(c)][/us/pl/114/92/s342/c], substituted “shall transfer” for “may transfer” in introductory provisions.
+
+    Subsec. (f)(1). [Pub. L. 114–92, § 342(d)(3)(A)][/us/pl/114/92/s342/d/3/A], struck out “, and no suitable adoption is available at the military facility where the dog is located,” after “should be retired” in introductory provisions.
+
+    Subsec. (f)(1)(B). [Pub. L. 114–92, § 342(d)(3)(B)][/us/pl/114/92/s342/d/3/B], inserted “within the United States” after “to another location”.
+
+    Subsecs. (g), (h). [Pub. L. 114–92, § 342(e)][/us/pl/114/92/s342/e], added subsec. (g) and redesignated former subsec. (g) as (h).
 
     2013—Subsecs. (f), (g). [Pub. L. 112–239, § 371(a)][/us/pl/112/239/s371/a], as amended by [Pub. L. 113–66, § 1091(b)(2)][/us/pl/113/66/s1091/b/2], added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -126,6 +168,15 @@
 [/us/stat/126/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1706
 [/us/pl/113/66/s1091/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb%2F2
 [/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
+[/us/pl/114/92/s342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs342
+[/us/stat/129/793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F793
+[/us/pl/114/92/s342/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs342%2Fa
+[/us/pl/114/92/s342/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs342%2Fb
+[/us/pl/114/92/s342/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs342%2Fd%2F1
+[/us/pl/114/92/s342/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs342%2Fc
+[/us/pl/114/92/s342/d/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs342%2Fd%2F3%2FA
+[/us/pl/114/92/s342/d/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs342%2Fd%2F3%2FB
+[/us/pl/114/92/s342/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs342%2Fe
 [/us/pl/112/239/s371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs371%2Fa
 [/us/pl/113/66/s1091/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fb%2F2
 [/us/pl/112/81/s351/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs351%2F1

@@ -25,23 +25,21 @@
 
         (3) A table listing all energy projects financed through third party financing mechanisms (including energy savings performance contracts, enhanced use leases, utility energy service contracts, utility privatization agreements, and other contractual mechanisms), the duration of each such mechanism, an estimate of the financial obligation incurred through the duration of each such mechanism, whether the project incorporates energy security into its design, and the estimated payback period for each such mechanism.
 
-        (4) In addition to the information contained in the table listing energy projects financed through third party financing mechanisms, as required by paragraph (3), the table also shall list any renewable energy certificates associated with each project, including information regarding whether the renewable energy certificates were bundled or unbundled, the purchasing authority for the renewable energy certificates, and the price of the associated renewable energy certificates.
+        (4) A description of the actions taken to implement the energy performance master plan in effect under [section 2911 of this title][/us/usc/t10/s2911] and carry out this chapter during the preceding fiscal year.
 
-        (5) A description of the actions taken to implement the energy performance master plan in effect under [section 2911 of this title][/us/usc/t10/s2911] and carry out this chapter during the preceding fiscal year.
+        (5) A description of the energy savings realized from such actions.
 
-        (6) A description of the energy savings realized from such actions.
+        (6) A description of the types and amount of financial incentives received under [section 2913 of this title][/us/usc/t10/s2913] during the preceding fiscal year and the appropriation account or accounts to which the incentives were credited.
 
-        (7) An estimate of the types and quantities of energy consumed by the Department of Defense and members of the armed forces and civilian personnel residing or working on military installations during the preceding fiscal year, including a breakdown of energy consumption by user groups and types of energy, energy costs, and the quantities of renewable energy produced or procured by the Department.
+        (7) A description and estimate of the progress made by the military departments in meeting current high performance and sustainable building standards under the Unified Facilities Criteria.
 
-        (8) A description of the types and amount of financial incentives received under [section 2913 of this title][/us/usc/t10/s2913] during the preceding fiscal year and the appropriation account or accounts to which the incentives were credited.
+        (8) A description of steps taken to determine best practices for measuring energy consumption in Department of Defense facilities and installations, in order to use the data for better energy management.
 
-        (9) A description and estimate of the progress made by the military departments to meet the certification requirements for sustainable green-building standards in construction and major renovations as required by section 433 of the Energy Independence and Security Act of 2007 ([Public Law 110–140][/us/pl/110/140]; [121 Stat. 1612][/us/stat/121/1612]).
+        (9) Details of all commercial utility outages caused by threats and those caused by hazards at military installations that last eight hours or longer, whether or not the outage was mitigated by backup power, including non-commercial utility outages and Department of Defense-owned infrastructure, including the total number and location of outages, the financial impact of the outages, and measure taken to mitigate outages in the future at the affected locations and across the Department of Defense.
 
-        (10) A description of steps taken to determine best practices for measuring energy consumption in Department of Defense facilities and installations, in order to use the data for better energy management.
+        (10) A description of any other issues and strategies the Secretary determines relevant to a comprehensive and renewable energy policy.
 
-        (11) Details of utility outages at military installations including the total number and locations of outages, the financial impact of the outage, and measures taken to mitigate outages in the future at the affected location and across the Department of Defense.
-
-        (12) A description of any other issues and strategies the Secretary determines relevant to a comprehensive and renewable energy policy.
+        (11) At the discretion of the Secretary of Defense, a classified annex, as appropriate.
 
     (b)  __Annual Report Related to Operational Energy__  __.—__ 
 
@@ -73,17 +71,37 @@
 
         (3) If a report under this subsection is submitted in a classified form, the Secretary shall concurrently submit to the congressional defense committees an unclassified version of the information required by this subsection.
 
-(Added [Pub. L. 109–364, div. B, title XXVIII, § 2851(a)(1)][/us/pl/109/364/s2851/a/1], Oct. 17, 2006, [120 Stat. 2493][/us/stat/120/2493]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 331(a), (b)(1), div. B, title XXVIII, § 2832, Oct. 14, 2008, [122 Stat. 4419][/us/stat/122/4419], 4420, 4732; [Pub. L. 111–84, div. A, title III, § 332(a)][/us/pl/111/84/s332/a], Oct. 28, 2009, [123 Stat. 2257][/us/stat/123/2257]; [Pub. L. 111–383, div. B, title XXVIII, § 2832(c)(1)][/us/pl/111/383/s2832/c/1], Jan. 7, 2011, [124 Stat. 4469][/us/stat/124/4469]; [Pub. L. 112–81, div. A, title III][/us/pl/112/81], §§ 314(b), 342, div. B, title XXVIII, §§ 2821(b)(4), 2822(d), 2824(b), 2826, Dec. 31, 2011, [125 Stat. 1357][/us/stat/125/1357], 1370, 1691–1694; [Pub. L. 112–239, div. A, title X, § 1076(c)(3)][/us/pl/112/239/s1076/c/3], (d)(6), Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], 1951; [Pub. L. 113–291, div. A, title IX, § 901(k)(4)][/us/pl/113/291/s901/k/4], Dec. 19, 2014, [128 Stat. 3468][/us/stat/128/3468].)
+(Added [Pub. L. 109–364, div. B, title XXVIII, § 2851(a)(1)][/us/pl/109/364/s2851/a/1], Oct. 17, 2006, [120 Stat. 2493][/us/stat/120/2493]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 331(a), (b)(1), div. B, title XXVIII, § 2832, Oct. 14, 2008, [122 Stat. 4419][/us/stat/122/4419], 4420, 4732; [Pub. L. 111–84, div. A, title III, § 332(a)][/us/pl/111/84/s332/a], Oct. 28, 2009, [123 Stat. 2257][/us/stat/123/2257]; [Pub. L. 111–383, div. B, title XXVIII, § 2832(c)(1)][/us/pl/111/383/s2832/c/1], Jan. 7, 2011, [124 Stat. 4469][/us/stat/124/4469]; [Pub. L. 112–81, div. A, title III][/us/pl/112/81], §§ 314(b), 342, div. B, title XXVIII, §§ 2821(b)(4), 2822(d), 2824(b), 2826, Dec. 31, 2011, [125 Stat. 1357][/us/stat/125/1357], 1370, 1691–1694; [Pub. L. 112–239, div. A, title X, § 1076(c)(3)][/us/pl/112/239/s1076/c/3], (d)(6), Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], 1951; [Pub. L. 113–291, div. A, title IX, § 901(k)(4)][/us/pl/113/291/s901/k/4], Dec. 19, 2014, [128 Stat. 3468][/us/stat/128/3468]; [Pub. L. 114–92, div. A, title III, § 313][/us/pl/114/92/s313], Nov. 25, 2015, [129 Stat. 789][/us/stat/129/789].)
 
  __References in Text__ 
 
     The Energy Policy Act of 2005, referred to in subsec. (a)(1), is [Pub. L. 109–58][/us/pl/109/58], Aug. 8, 2005, [119 Stat. 594][/us/stat/119/594], which enacted chapter 149 of Title 42, The Public Health and Welfare, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of Title 42][/us/usc/t42/s15801] and Tables.
 
-    The Energy Independence and Security Act of 2007, referred to in subsec. (a)(1), (9), is [Pub. L. 110–140][/us/pl/110/140], Dec. 19, 2007, [121 Stat. 1492][/us/stat/121/1492], which enacted chapter 152 of Title 42, The Public Health and Welfare, and enacted and amended numerous other sections and notes in the Code. Section 433 of the Act amended sections 6832 and 6834 of Title 42 and enacted provisions set out as a note under [section 6834 of Title 42][/us/usc/t42/s6834]. For complete classification of this Act to the Code, see Short Title note set out under [section 17001 of Title 42][/us/usc/t42/s17001] and Tables.
+    The Energy Independence and Security Act of 2007, referred to in subsec. (a)(1), is [Pub. L. 110–140][/us/pl/110/140], Dec. 19, 2007, [121 Stat. 1492][/us/stat/121/1492], which enacted chapter 152 of Title 42, The Public Health and Welfare, and enacted and amended numerous other sections and notes in the Code. Section 433 of the Act amended sections 6832 and 6834 of Title 42 and enacted provisions set out as a note under [section 6834 of Title 42][/us/usc/t42/s6834]. For complete classification of this Act to the Code, see Short Title note set out under [section 17001 of Title 42][/us/usc/t42/s17001] and Tables.
 
     [Section 138c of this title][/us/usc/t10/s138c], referred to in subsec. (b)(1), was repealed by [Pub. L. 113–291, div. A, title IX, § 901(g)(2)][/us/pl/113/291/s901/g/2], Dec. 19, 2014, [128 Stat. 3466][/us/stat/128/3466]. See now [section 2926 of this title][/us/usc/t10/s2926], enacted by [Pub. L. 113–291][/us/pl/113/291], which relates to operational energy activities and is largely comprised of provisions transferred from former section 138c.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(4). [Pub. L. 114–92, § 313(1)][/us/pl/114/92/s313/1], (2), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “In addition to the information contained in the table listing energy projects financed through third party financing mechanisms, as required by paragraph (3), the table also shall list any renewable energy certificates associated with each project, including information regarding whether the renewable energy certificates were bundled or unbundled, the purchasing authority for the renewable energy certificates, and the price of the associated renewable energy certificates.”
+
+    Subsec. (a)(5), (6). [Pub. L. 114–92, § 313(2)][/us/pl/114/92/s313/2], redesignated pars. (6) and (8) as (5) and (6), respectively. Former par. (5) redesignated (4).
+
+    Subsec. (a)(7). [Pub. L. 114–92, § 313(3)][/us/pl/114/92/s313/3], amended par. (7) generally. Prior to amendment, par. (7) read as follows: “A description and estimate of the progress made by the military departments to meet the certification requirements for sustainable green-building standards in construction and major renovations as required by section 433 of the Energy Independence and Security Act of 2007 ([Public Law 110–140][/us/pl/110/140]; [121 Stat. 1612][/us/stat/121/1612]).”
+
+    [Pub. L. 114–92, § 313(1)][/us/pl/114/92/s313/1], (2), redesignated par. (9) as (7) and struck out former par. (7) which read as follows: “An estimate of the types and quantities of energy consumed by the Department of Defense and members of the armed forces and civilian personnel residing or working on military installations during the preceding fiscal year, including a breakdown of energy consumption by user groups and types of energy, energy costs, and the quantities of renewable energy produced or procured by the Department.”
+
+    Subsec. (a)(8). [Pub. L. 114–92, § 313(2)][/us/pl/114/92/s313/2], redesignated par. (10) as (8). Former par. (8) redesignated (6).
+
+    Subsec. (a)(9). [Pub. L. 114–92, § 313(4)][/us/pl/114/92/s313/4], amended par. (9) generally. Prior to amendment, par. (9) read as follows: “Details of utility outages at military installations including the total number and locations of outages, the financial impact of the outage, and measures taken to mitigate outages in the future at the affected location and across the Department of Defense.”
+
+    [Pub. L. 114–92, § 313(2)][/us/pl/114/92/s313/2] redesignated par. (11) as (9). Former par. (9) redesignated (7).
+
+    Subsec. (a)(10). [Pub. L. 114–92, § 313(2)][/us/pl/114/92/s313/2], redesignated par. (12) as (10). Former par. (10) redesignated (8).
+
+    Subsec. (a)(11). [Pub. L. 114–92, § 313(5)][/us/pl/114/92/s313/5] added par. (11). Former par. (11) redesignated (9).
+
+    Subsec. (a)(12). [Pub. L. 114–92, § 313(2)][/us/pl/114/92/s313/2], redesignated par. (12) as (10).
 
     2014—Subsec. (b)(1). [Pub. L. 113–291][/us/pl/113/291] substituted “Energy, Installations, and Environment” for “Operational Energy Plans and Programs”.
 
@@ -145,8 +163,6 @@
 [/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
 [/us/usc/t10/s2911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2911
 [/us/usc/t10/s2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2913
-[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
-[/us/stat/121/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1612
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/109/364/s2851/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2851%2Fa%2F1
 [/us/stat/120/2493]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2493
@@ -162,6 +178,8 @@
 [/us/stat/126/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1950
 [/us/pl/113/291/s901/k/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fk%2F4
 [/us/stat/128/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3468
+[/us/pl/114/92/s313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs313
+[/us/stat/129/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F789
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/stat/119/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F594
 [/us/usc/t42/s15801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15801
@@ -174,6 +192,18 @@
 [/us/stat/128/3466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3466
 [/us/usc/t10/s2926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2926
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/114/92/s313/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs313%2F1
+[/us/pl/114/92/s313/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs313%2F2
+[/us/pl/114/92/s313/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs313%2F3
+[/us/pl/110/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140
+[/us/stat/121/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1612
+[/us/pl/114/92/s313/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs313%2F1
+[/us/pl/114/92/s313/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs313%2F2
+[/us/pl/114/92/s313/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs313%2F4
+[/us/pl/114/92/s313/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs313%2F2
+[/us/pl/114/92/s313/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs313%2F2
+[/us/pl/114/92/s313/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs313%2F5
+[/us/pl/114/92/s313/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs313%2F2
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239/s1076/d/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fd%2F6%2FA
 [/us/pl/112/239/s1076/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fc%2F3%2FA

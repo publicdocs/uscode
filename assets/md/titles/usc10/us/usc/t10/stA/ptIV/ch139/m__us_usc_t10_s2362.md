@@ -79,6 +79,54 @@
 
     Subsec. (e)(1). [Pub. L. 111–383, § 1075(b)(32)][/us/pl/111/383/s1075/b/32], substituted “title III or V” for “title III or IV”.
 
+ __Strategies for Engagement With Historically Black Colleges and Universities and Minority-Serving Institutions of Higher Education__ 
+
+[Pub. L. 114–92, div. A, title II, § 233][/us/pl/114/92/s233], Nov. 25, 2015, [129 Stat. 779][/us/stat/129/779], provided that:
+
+>     “(a) __Basic Research Entities.—__ 
+
+>         “(1)  __Strategy__  __.—__ 
+
+>         The heads of each basic research entity shall each develop a strategy for how to engage with and support the development of scientific, technical, engineering, and mathematics capabilities of covered educational institutions in carrying out [section 2362 of title 10][/us/usc/t10/s2362], United States Code.
+
+>         “(2)  __Elements__  __.—__ 
+
+>         Each strategy under paragraph (1) shall include the following:
+
+>             “(A) Goals and vision for maintaining a credible and sustainable program relating to the engagement and support under the strategy.
+
+>             “(B) Metrics to enhance scientific, technical, engineering, and mathematics capabilities at covered educational institutions, including with respect to measuring progress toward increasing the success of such institutions to compete for broader research funding sources other than set-aside funds.
+
+>             “(C) Promotion of mentoring opportunities between covered educational institutions and other research institutions.
+
+>             “(D) Regular assessment of activities that are used to develop, maintain, and grow scientific, technical, engineering, and mathematics capabilities.
+
+>             “(E) Inclusion of faculty of covered educational institutions into program reviews, peer reviews, and other similar activities.
+
+>             “(F) Targeting of undergraduate, graduate, and postgraduate students at covered educational institutions for inclusion into research or internship opportunities within the military department.
+
+>     “(b)  __Office of the Secretary__  __.—__ 
+
+>     The Secretary of Defense shall develop and implement a strategy for how to engage with and support the development of scientific, technical, engineering, and mathematics capabilities of covered educational institutions pursuant to the strategies developed under subsection (a).
+
+>     “(c) __Submission.—__ 
+
+>         “(1)  __Basic research entities__  __.—__ 
+
+>         Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the heads of each basic research entity shall each submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the strategy developed by the head under subsection (a)(1).
+
+>         “(2)  __Office of the secretary__  __.—__ 
+
+>         Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees the strategy developed under subsection (b).
+
+>     “(d)  __Covered Institution Defined__  __.—__ 
+
+>     In this section:
+
+>         “(1) The term ‘basic research entity’ means an entity of the Department of Defense that executes research, development, test, and evaluation budget activity 1 funding, as described in the Department of Defense Financial Management Regulation.
+
+>         “(2) The term ‘covered educational institution’ has the meaning given that term in [section 2362(e) of title 10][/us/usc/t10/s2362/e], United States Code.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2361.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2363.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2362)
@@ -110,5 +158,9 @@
 [/us/pl/112/81/s219/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs219%2Fb%2F1
 [/us/pl/112/81/s219/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs219%2Fb%2F2
 [/us/pl/111/383/s1075/b/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F32
+[/us/pl/114/92/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs233
+[/us/stat/129/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F779
+[/us/usc/t10/s2362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2362
+[/us/usc/t10/s2362/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2362%2Fe
 
 

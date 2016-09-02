@@ -175,6 +175,54 @@
 
 > “The amendment made by paragraph (1)(D) \[amending this section\] shall take effect on October 1, 2012.”
 
+ __Report on Implementation of the New START Treaty__ 
+
+[Pub. L. 114–92, div. A, title XII, § 1247][/us/pl/114/92/s1247], Nov. 25, 2015, [129 Stat. 1066][/us/stat/129/1066], provided that:
+
+>     “(a) __Report.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         During each year described in paragraph (2), the President shall transmit to the appropriate congressional committees a report explaining the reasons that the continued implementation of the New START Treaty is in the national security interests of the United States.
+
+>         “(2)  __Year described__  __.—__ 
+
+>         A year described in this paragraph is a year in which the President implements the New START Treaty and determines that any of the following circumstances apply:
+
+>             “(A) The Russian Federation illegally occupies Ukrainian territory.
+
+>             “(B) The Russian Federation is not respecting the sovereignty of all Ukrainian territory.
+
+>             “(C) The Russian Federation is not in full compliance with the INF treaty.
+
+>             “(D) The Russian Federation is not in compliance with the CFE Treaty and has not lifted its suspension of Russian observance of its treaty obligations.
+
+>             “(E) The Russian Federation is not reducing its deployed strategic delivery vehicles.
+
+>     “(b)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)  __Appropriate congressional committees__  __.—__ 
+
+>         The term ‘appropriate congressional committees’ means—
+
+>             “(A) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+>             “(B) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
+
+>         “(2)  __CFE treaty__  __.—__ 
+
+>         The term ‘CFE Treaty’ means the Treaty on Conventional Armed Forces in Europe, signed at Paris November 19, 1990, and entered into force July 17, 1992.
+
+>         “(3)  __INF treaty__  __.—__ 
+
+>         The term ‘INF Treaty’ means the Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Elimination of Their Intermediate-Range and Shorter-Range Missiles, commonly referred to as the Intermediate-Range Nuclear Forces (INF) Treaty, signed at Washington December 8, 1987, and entered into force June 1, 1988.
+
+>         “(4)  __New start treaty__  __.—__ 
+
+>         The term ‘New START Treaty’ means the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011.”
+
  __Retention of Missile Silos__ 
 
 [Pub. L. 113–291, div. A, title XVI, § 1644][/us/pl/113/291/s1644], Dec. 19, 2014, [128 Stat. 3651][/us/stat/128/3651], provided that:
@@ -266,6 +314,8 @@
 [/us/pl/112/239/s1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1034
 [/us/pl/112/239/s1033/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1033%2Fb%2F4
 [/us/stat/126/1922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1922
+[/us/pl/114/92/s1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1247
+[/us/stat/129/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1066
 [/us/pl/113/291/s1644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1644
 [/us/stat/128/3651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3651
 [/us/usc/t10/s494/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs494%2Fa%2F2%2FD

@@ -49,6 +49,22 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2431a" data-uslm-ref="/us/usc/t10/s2431a">2431a.</a>  </td>
+
+    <td> Acquisition strategy.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2431b" data-uslm-ref="/us/usc/t10/s2431b">2431b.</a>  </td>
+
+    <td> Risk reduction in major defense acquisition programs and major systems. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2432" data-uslm-ref="/us/usc/t10/s2432">2432.</a>  </td>
 
     <td> Selected Acquisition Reports.  </td>
@@ -75,7 +91,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2434" data-uslm-ref="/us/usc/t10/s2434">2434.</a>  </td>
 
-    <td> Independent cost estimates; operational manpower requirements.  </td>
+    <td> Independent cost estimates.  </td>
 
   </tr>
 
@@ -131,6 +147,8 @@
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92], §§ 821(a)(2), 822(a)(2), 831(c)(2), Nov. 25, 2015, [129 Stat. 900][/us/stat/129/900], 901, 912, added items 2431a and 2431b and substituted “Independent cost estimates” for “Independent cost estimates; operational manpower requirements” in item 2434.
+
     2011—[Pub. L. 111–383, div. A, title IX, § 901(k)(2)(B)][/us/pl/111/383/s901/k/2/B], Jan. 7, 2011, [124 Stat. 4326][/us/stat/124/4326], added item 2438.
 
     2009—[Pub. L. 111–23, title II, § 206(a)(2)][/us/pl/111/23/s206/a/2], May 22, 2009, [123 Stat. 1728][/us/stat/123/1728], added item 2433a.
@@ -162,6 +180,8 @@
 ----------
 ----------
 
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F900
 [/us/pl/111/383/s901/k/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fk%2F2%2FB
 [/us/stat/124/4326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4326
 [/us/pl/111/23/s206/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs206%2Fa%2F2

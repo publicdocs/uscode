@@ -21,7 +21,7 @@
 
     (b)  __Risk Mitigation Over Cost__  __.—__ 
 
-    In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces (as identified pursuant to [section 118b of this title][/us/usc/t10/s118b]) takes precedence over cost.
+    In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces (as identified pursuant to section 118b  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title) takes precedence over cost.
 
     (c)  __Delegation of Responsibilities__  __.—__ 
 
@@ -76,6 +76,10 @@
         (5) the imposition of a civilian hiring freeze that may inhibit the implementation of the policies and procedures established under subsection (a).
 
 (Added [Pub. L. 101–510, div. A, title XIV, § 1483(b)(2)][/us/pl/101/510/s1483/b/2], Nov. 5, 1990, [104 Stat. 1715][/us/stat/104/1715]; amended [Pub. L. 112–81, div. A, title IX, § 931(a)][/us/pl/112/81/s931/a], Dec. 31, 2011, [125 Stat. 1541][/us/stat/125/1541].)
+
+ __References in Text__ 
+
+    [Section 118b of this title][/us/usc/t10/s118b], referred to in subsec. (b), was repealed by [Pub. L. 113–291, div. A, title X, § 1072(b)(1)][/us/pl/113/291/s1072/b/1], Dec. 19, 2014, [128 Stat. 3516][/us/stat/128/3516].
 
  __Prior Provisions__ 
 
@@ -246,7 +250,6 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
-[/us/usc/t10/s118b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs118b
 [/us/usc/t10/s2545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2545
 [/us/usc/t10/s115b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs115b
 [/us/usc/t10/s1597/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1597%2Fc
@@ -260,6 +263,9 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/104/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1715
 [/us/pl/112/81/s931/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs931%2Fa
 [/us/stat/125/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1541
+[/us/usc/t10/s118b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs118b
+[/us/pl/113/291/s1072/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1072%2Fb%2F1
+[/us/stat/128/3516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3516
 [/us/usc/t10/s115/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs115%2Fb%2F5
 [/us/pl/101/510/s1483/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1483%2Fa
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81

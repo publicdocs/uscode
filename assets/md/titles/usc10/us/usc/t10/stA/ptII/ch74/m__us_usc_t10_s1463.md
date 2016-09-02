@@ -31,7 +31,11 @@
 
     (b) The assets of the Fund are hereby made available for payments under subsection (a).
 
-(Added [Pub. L. 98–94, title IX, § 925(a)(1)][/us/pl/98/94/s925/a/1], Sept. 24, 1983, [97 Stat. 645][/us/stat/97/645]; amended [Pub. L. 101–189, div. A, title VI, § 651(c)][/us/pl/101/189/s651/c], Nov. 29, 1989, [103 Stat. 1460][/us/stat/103/1460]; [Pub. L. 102–484, div. A, title VI, § 653(b)(2)][/us/pl/102/484/s653/b/2], Oct. 23, 1992, [106 Stat. 2428][/us/stat/106/2428]; [Pub. L. 103–35, title II, § 202(a)(4)][/us/pl/103/35/s202/a/4], May 31, 1993, [107 Stat. 101][/us/stat/107/101]; [Pub. L. 104–106, div. A, title XV, § 1501(c)(18)][/us/pl/104/106/s1501/c/18], Feb. 10, 1996, [110 Stat. 499][/us/stat/110/499]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–136, div. A, title VI, § 641(c)(2)][/us/pl/108/136/s641/c/2], Nov. 24, 2003, [117 Stat. 1515][/us/stat/117/1515]; [Pub. L. 108–375, div. A, title X, § 1084(d)(11)][/us/pl/108/375/s1084/d/11], Oct. 28, 2004, [118 Stat. 2062][/us/stat/118/2062].)
+(Added [Pub. L. 98–94, title IX, § 925(a)(1)][/us/pl/98/94/s925/a/1], Sept. 24, 1983, [97 Stat. 645][/us/stat/97/645]; amended [Pub. L. 101–189, div. A, title VI, § 651(c)][/us/pl/101/189/s651/c], Nov. 29, 1989, [103 Stat. 1460][/us/stat/103/1460]; [Pub. L. 102–484, div. A, title VI, § 653(b)(2)][/us/pl/102/484/s653/b/2], Oct. 23, 1992, [106 Stat. 2428][/us/stat/106/2428]; [Pub. L. 103–35, title II, § 202(a)(4)][/us/pl/103/35/s202/a/4], May 31, 1993, [107 Stat. 101][/us/stat/107/101]; [Pub. L. 104–106, div. A, title XV, § 1501(c)(18)][/us/pl/104/106/s1501/c/18], Feb. 10, 1996, [110 Stat. 499][/us/stat/110/499]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 108–136, div. A, title VI, § 641(c)(2)][/us/pl/108/136/s641/c/2], Nov. 24, 2003, [117 Stat. 1515][/us/stat/117/1515]; [Pub. L. 108–375, div. A, title X, § 1084(d)(11)][/us/pl/108/375/s1084/d/11], Oct. 28, 2004, [118 Stat. 2062][/us/stat/118/2062]; [Pub. L. 114–92, div. A, title VI, § 633(a)(3)][/us/pl/114/92/s633/a/3], Nov. 25, 2015, [129 Stat. 850][/us/stat/129/850].)
+
+ __Amendment of Subsection (a)(1)__ 
+
+    [Pub. L. 114–92, div. A, title VI][/us/pl/114/92], §§ 633(a)(3), 635, Nov. 25, 2015, [129 Stat. 850][/us/stat/129/850], 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, subsection (a)(1) of this section is amended by striking “or 1414” and inserting “, 1414, or 1415”. See 2015 Amendment note below.
 
  __References in Text__ 
 
@@ -40,6 +44,8 @@
     [Section 5 of Public Law 96–402][/us/pl/96/402/s5], referred to in subsec. (a)(4), is set out as a note under [section 1448 of this title][/us/usc/t10/s1448].
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1). [Pub. L. 114–92][/us/pl/114/92] substituted “, 1414, or 1415” for “or 1414”.
 
     2004—Subsec. (a)(1). [Pub. L. 108–375][/us/pl/108/375] substituted “1413a” for “1413, 1413a,”.
 
@@ -54,6 +60,10 @@
     1992—Subsec. (a). [Pub. L. 102–484][/us/pl/102/484], as amended by [Pub. L. 103–35][/us/pl/103/35], added par. (5).
 
     1989—Subsec. (a). [Pub. L. 101–189][/us/pl/101/189] substituted “members” for “persons” in par. (1), added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+ __Effective Date of 2015 Amendment; Implementation__ 
+
+    Amendment by [Pub. L. 114–92][/us/pl/114/92] effective Jan. 1, 2018, with certain implementation requirements, see [section 635 of Pub. L. 114–92][/us/pl/114/92/s635], set out as a note under [section 8432 of Title 5][/us/usc/t5/s8432], Government Organization and Employees.
 
  __Effective Date of 2003 Amendment__ 
 
@@ -103,10 +113,15 @@
 [/us/stat/117/1515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1515
 [/us/pl/108/375/s1084/d/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F11
 [/us/stat/118/2062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2062
+[/us/pl/114/92/s633/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs633%2Fa%2F3
+[/us/stat/129/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F850
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F850
 [/us/pl/92/425/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F425%2Fs4
 [/us/usc/t10/s1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448
 [/us/pl/96/402/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F402%2Fs5
 [/us/usc/t10/s1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1448
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
@@ -116,6 +131,9 @@
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
 [/us/pl/101/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F189
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs635
+[/us/usc/t5/s8432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/108/136/s641/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs641%2Fc%2F6
 [/us/usc/t10/s1413a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1413a

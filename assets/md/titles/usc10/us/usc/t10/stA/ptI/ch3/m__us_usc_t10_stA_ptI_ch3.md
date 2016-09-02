@@ -115,7 +115,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs127b" data-uslm-ref="/us/usc/t10/s127b">127b.</a>  </td>
 
-    <td> Assistance in combating terrorism: rewards.  </td>
+    <td> Department of Defense rewards program.  </td>
 
   </tr>
 
@@ -227,7 +227,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs130e" data-uslm-ref="/us/usc/t10/s130e">130e.</a>  </td>
 
-    <td> Treatment under Freedom of Information Act of certain critical infrastructure security information. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
+    <td> Treatment under Freedom of Information Act of certain critical infrastructure security information.  </td>
 
   </tr>
 
@@ -239,9 +239,27 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs130g" data-uslm-ref="/us/usc/t10/s130g">130g.</a>  </td>
+
+    <td> Authorities concerning military cyber operations.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs130h" data-uslm-ref="/us/usc/t10/s130h">130h.</a>  </td>
+
+    <td> Prohibitions on providing certain missile defense information to Russian Federation.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92, div. A, title X, § 1042(d)(2)][/us/pl/114/92/s1042/d/2], title XVI, §§ 1642(b), 1671(a)(2), Nov. 25, 2015, [129 Stat. 977][/us/stat/129/977], 1116, 1130, added items 130g and 130h and substituted “Department of Defense rewards program” for “Assistance in combating terrorism: rewards” in item 127b.
 
     2014—[Pub. L. 113–291, div. A, title X, § 1071(f)(2)][/us/pl/113/291/s1071/f/2], Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510], substituted “Treatment under Freedom of Information Act of certain critical infrastructure security information” for “Treatment under Freedom of Information Act of critical infrastructure security information” in item 130e and “Congressional notification of sensitive military operations” for “Congressional notification regarding sensitive military operations” in item 130f.
 
@@ -302,6 +320,8 @@
 ----------
 ----------
 
+[/us/pl/114/92/s1042/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1042%2Fd%2F2
+[/us/stat/129/977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F977
 [/us/pl/113/291/s1071/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F2
 [/us/stat/128/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3510
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66

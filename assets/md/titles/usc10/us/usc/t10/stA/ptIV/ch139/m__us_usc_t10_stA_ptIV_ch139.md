@@ -33,9 +33,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2352" data-uslm-ref="/us/usc/t10/s2352">2352.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2352" data-uslm-ref="/us/usc/t10/s2352">2352.</a>  </td>
 
-    <td> Defense Advanced Research Projects Agency: biennial strategic plan.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -131,7 +131,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2364" data-uslm-ref="/us/usc/t10/s2364">2364.</a>  </td>
 
-    <td> Coordination and communication of defense research activities.  </td>
+    <td> Coordination and communication of defense research activities and technology domain awareness.  </td>
 
   </tr>
 
@@ -155,7 +155,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2366a" data-uslm-ref="/us/usc/t10/s2366a">2366a.</a>  </td>
 
-    <td> Major defense acquisition programs: certification required before Milestone A approval.  </td>
+    <td> Major defense acquisition programs: determination required before Milestone A approval.  </td>
 
   </tr>
 
@@ -177,7 +177,15 @@
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2368" data-uslm-ref="/us/usc/t10/s2368">2368</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2370a" data-uslm-ref="/us/usc/t10/s2370a">2370a.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2368" data-uslm-ref="/us/usc/t10/s2368">2368.</a>  </td>
+
+    <td> Centers for Science, Technology, and Engineering Partnership.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2369" data-uslm-ref="/us/usc/t10/s2369">2369</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2370a" data-uslm-ref="/us/usc/t10/s2370a">2370a.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -196,6 +204,14 @@
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2371a" data-uslm-ref="/us/usc/t10/s2371a">2371a.</a>  </td>
 
     <td> Cooperative research and development agreements under Stevenson-Wydler Technology Innovation Act of 1980.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2371b" data-uslm-ref="/us/usc/t10/s2371b">2371b.</a>  </td>
+
+    <td> Authority of the Department of Defense to carry out certain prototype projects.  </td>
 
   </tr>
 
@@ -242,6 +258,8 @@
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92, div. A, title II][/us/pl/114/92], §§ 211(b), 214(b), title VIII, §§ 815(a)(2), 823(b), title X, § 1078(c)(2), Nov. 25, 2015, [129 Stat. 767][/us/stat/129/767], 769, 896, 903, 999, added items 2368 and 2371b, substituted “Coordination and communication of defense research activities and technology domain awareness” for “Coordination and communication of defense research activities” in item 2364 and “Major defense acquisition programs: determination required before Milestone A approval” for “Major defense acquisition programs: certification required before Milestone A approval” in item 2366a, and struck out item 2352 “Defense Advanced Research Projects Agency: biennial strategic plan”.
 
     2013—[Pub. L. 112–239, div. A, title X, § 1076(g)(4)][/us/pl/112/239/s1076/g/4], Jan. 2, 2013, [126 Stat. 1955][/us/stat/126/1955], struck out item 2374b “Prizes for achievements in promoting science, mathematics, engineering, or technology education”.
 
@@ -318,6 +336,8 @@
 ----------
 ----------
 
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F767
 [/us/pl/112/239/s1076/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fg%2F4
 [/us/stat/126/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1955
 [/us/pl/112/81/s801/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs801%2Fe%2F3

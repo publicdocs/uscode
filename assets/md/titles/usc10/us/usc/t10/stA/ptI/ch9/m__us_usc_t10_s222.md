@@ -21,13 +21,17 @@
 
     (b)  __Consistency With Future-Years Defense Program__  __.—__ 
 
-    The future-years mission budget shall be consistent with the future-years defense program required under [section 221 of this title][/us/usc/t10/s221]. In the future-years mission budget, the military programs of the Department of Defense shall be organized on the basis of both major force programs and the core mission areas identified under the most recent quadrennial roles and missions review pursuant to [section 118b of this title][/us/usc/t10/s118b].
+    The future-years mission budget shall be consistent with the future-years defense program required under [section 221 of this title][/us/usc/t10/s221]. In the future-years mission budget, the military programs of the Department of Defense shall be organized on the basis of both major force programs and the core mission areas identified under the most recent quadrennial roles and missions review pursuant to section 118b  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
     (c)  __Relationship to Other Defense Budget Formats__  __.—__ 
 
     The requirement in subsection (a) is in addition to the requirements in any other provision of law regarding the format for the presentation regarding military programs of the Department of Defense in the budget submitted pursuant to [section 1105 of title 31][/us/usc/t31/s1105] for any fiscal year.
 
 (Added [Pub. L. 102–484, div. A, title X, § 1002(a)(2)][/us/pl/102/484/s1002/a/2], Oct. 23, 1992, [106 Stat. 2480][/us/stat/106/2480]; amended [Pub. L. 103–337, div. A, title X, § 1004][/us/pl/103/337/s1004], Oct. 5, 1994, [108 Stat. 2834][/us/stat/108/2834]; [Pub. L. 110–181, div. A, title IX, § 944(a)][/us/pl/110/181/s944/a], (b), Jan. 28, 2008, [122 Stat. 289][/us/stat/122/289], 290.)
+
+ __References in Text__ 
+
+    [Section 118b of this title][/us/usc/t10/s118b], referred in subsec. (b), was repealed by [Pub. L. 113–291, div. A, title X, § 1072(b)(1)][/us/pl/113/291/s1072/b/1], Dec. 19, 2014, [128 Stat. 3516][/us/stat/128/3516].
 
  __Prior Provisions__ 
 
@@ -56,7 +60,6 @@
 
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
-[/us/usc/t10/s118b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs118b
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/102/484/s1002/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1002%2Fa%2F2
 [/us/stat/106/2480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2480
@@ -64,6 +67,9 @@
 [/us/stat/108/2834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2834
 [/us/pl/110/181/s944/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs944%2Fa
 [/us/stat/122/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F289
+[/us/usc/t10/s118b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs118b
+[/us/pl/113/291/s1072/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1072%2Fb%2F1
+[/us/stat/128/3516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3516
 [/us/pl/101/510/s1404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1404
 [/us/stat/104/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1675
 [/us/pl/102/484/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1002%2Fb

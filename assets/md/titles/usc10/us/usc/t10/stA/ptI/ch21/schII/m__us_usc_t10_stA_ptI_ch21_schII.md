@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptI/ch21/schI/m__us_usc_t10_s430.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptI/ch21/schII/m__us_usc_t10_s431.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch21%2FschII)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptI/ch21/schI/m__us_usc_t10_s430b.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptI/ch21/schII/m__us_usc_t10_s431.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch21%2FschII)
 
 ##### SUBCHAPTER II—INTELLIGENCE COMMERCIAL ACTIVITIES
 
@@ -89,7 +89,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptI/ch21/schI/m__us_usc_t10_s430.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptI/ch21/schII/m__us_usc_t10_s431.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch21%2FschII)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptI/ch21/schI/m__us_usc_t10_s430b.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptI/ch21/schII/m__us_usc_t10_s431.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch21%2FschII)
 
 ----------
 ----------

@@ -211,7 +211,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2222" data-uslm-ref="/us/usc/t10/s2222">2222.</a>  </td>
 
-    <td> Defense business systems: architecture, accountability, and modernization.  </td>
+    <td> Defense business systems: business process reengineering; enterprise architecture; management.  </td>
 
   </tr>
 
@@ -299,6 +299,8 @@
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–92, div. A, title VIII, § 883(a)(2)][/us/pl/114/92/s883/a/2], Nov. 25, 2015, [129 Stat. 947][/us/stat/129/947], which directed amendment of the analysis for “such chapter” by striking item 2222 and adding a new item 2222, was executed by striking item 2222 “Defense business systems: architecture, accountability, and modernization” and adding item 2222 in the analysis for this chapter, to reflect the probable intent of Congress.
+
     2014—[Pub. L. 113–291, div. A, title X, § 1022(a)(2)][/us/pl/113/291/s1022/a/2], Dec. 19, 2014, [128 Stat. 3487][/us/stat/128/3487], added item 2218a.
 
     2011—[Pub. L. 112–81, div. A, title VIII, § 846(a)(2)][/us/pl/112/81/s846/a/2], Dec. 31, 2011, [125 Stat. 1517][/us/stat/125/1517], added item 2216a.
@@ -355,7 +357,7 @@
 
  __Strategic Management Plan__ 
 
-[Pub. L. 110–181, div. A, title IX, § 904(d)][/us/pl/110/181/s904/d], (e), Jan. 28, 2008, [122 Stat. 275][/us/stat/122/275], provided that:
+[Pub. L. 110–181, div. A, title IX, § 904(d)][/us/pl/110/181/s904/d], (e), Jan. 28, 2008, [122 Stat. 275][/us/stat/122/275], as amended by [Pub. L. 114–92, div. A, title X, § 1079(e)][/us/pl/114/92/s1079/e], Nov. 25, 2015, [129 Stat. 999][/us/stat/129/999], provided that:
 
 >     “(d) __Strategic Management Plan Required.—__ 
 
@@ -377,10 +379,6 @@
 
 >             “(E) procedures to oversee the development of, and review and approve, all budget requests for defense business systems.
 
->         “(3)  __Updates__  __.—__ 
-
->         The Secretary of Defense, acting through the Chief Management Officer, shall update the strategic management plan no later than July 1, 2009, and every two years thereafter and provide a copy to the Committees on Armed Services of the Senate and the House of Representatives.
-
 >     “(e)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of this section and a copy of the strategic management plan required by subsection (d).”
@@ -392,6 +390,8 @@
 ----------
 ----------
 
+[/us/pl/114/92/s883/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs883%2Fa%2F2
+[/us/stat/129/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F947
 [/us/pl/113/291/s1022/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1022%2Fa%2F2
 [/us/stat/128/3487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3487
 [/us/pl/112/81/s846/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs846%2Fa%2F2
@@ -448,5 +448,7 @@
 [/us/stat/72/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F516
 [/us/pl/110/181/s904/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs904%2Fd
 [/us/stat/122/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F275
+[/us/pl/114/92/s1079/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1079%2Fe
+[/us/stat/129/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F999
 
 

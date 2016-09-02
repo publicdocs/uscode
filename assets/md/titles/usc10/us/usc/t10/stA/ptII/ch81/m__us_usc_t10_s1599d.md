@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch81/m__us_usc_t10_s1599c.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch83/m__us_usc_t10_stA_ptII_ch83.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1599d)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch81/m__us_usc_t10_s1599c.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch81/m__us_usc_t10_s1599e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1599d)
 
 ## § 1599d. Financial management positions: authority to prescribe professional certification and credential standards
 
@@ -63,7 +63,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch81/m__us_usc_t10_s1599c.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch83/m__us_usc_t10_stA_ptII_ch83.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1599d)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch81/m__us_usc_t10_s1599c.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch81/m__us_usc_t10_s1599e.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1599d)
 
 ----------
 ----------

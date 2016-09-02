@@ -91,6 +91,16 @@
 
     1958—[Pub. L. 85–861, § 1(91)][/us/pl/85/861/s1/91], Sept. 2, 1958, [72 Stat. 1482][/us/stat/72/1482], struck out items 3681 “Army Register: regular officers; service to be listed” and 3688 “Death Gratuity”.
 
+ __Establishment of Breastfeeding Policy for the Department of the Army__ 
+
+[Pub. L. 114–92, div. A, title V, § 527][/us/pl/114/92/s527], Nov. 25, 2015, [129 Stat. 813][/us/stat/129/813], provided that: 
+
+> “The Secretary of the Army shall develop a comprehensive policy regarding breastfeeding by female members of the Army who are breastfeeding. At a minimum, the policy shall address the following:
+
+>     “(1) The provision of a designated room or area that will provide the member with adequate privacy and cleanliness and that includes an electrical outlet to facilitate the use of a breast pump. Restrooms should not be considered an appropriate location.
+
+>     “(2) An allowance for appropriate breaks, when practicable, to permit the member to breastfeed or utilize a breast pump.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stB/ptII/ch351/m__us_usc_t10_stB_ptII_ch351.md) | [Next](./../../../../../..//us/usc/t10/stB/ptII/ch353/m__us_usc_t10_s3681.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstB%2FptII%2Fch353)
@@ -114,5 +124,7 @@
 [/us/stat/81/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F762
 [/us/pl/85/861/s1/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861%2Fs1%2F91
 [/us/stat/72/1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1482
+[/us/pl/114/92/s527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs527
+[/us/stat/129/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F813
 
 

@@ -341,7 +341,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
  __Smoking Cessation Program Under TRICARE__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 713, Oct. 14, 2008, [122 Stat. 4503][/us/stat/122/4503], provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 713, Oct. 14, 2008, [122 Stat. 4503][/us/stat/122/4503], as amended by [Pub. L. 114–92, div. A, title VII, § 705][/us/pl/114/92/s705], Nov. 25, 2015, [129 Stat. 863][/us/stat/129/863], provided that:
 
 >     “(a) __TRICARE__  __Smoking Cessation Program__  __.—__ 
 
@@ -377,13 +377,13 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         Under regulations prescribed by the Secretary of Defense, the Secretary may pay a refund to a medicare-eligible beneficiary otherwise excluded by this section, subject to the availability of appropriations specifically for such refunds, consisting of an amount up to the difference between—
 
->             “(A) the amount the beneficiary pays for copayments for smoking cessation services described in subsection (c) during fiscal year 2009; and
+>             “(A) the amount the beneficiary pays for copayments for smoking cessation services described in subsection (c); and
 
->             “(B) the amount the beneficiary would have paid during such fiscal year if the beneficiary had not been excluded under subsection (b) from the smoking cessation program under subsection (a).
+>             “(B) the amount the beneficiary would have paid if the beneficiary had not been excluded under subsection (b) from the smoking cessation program under subsection (a).
 
 >         “(2)  __Copayments covered__  __.—__ 
 
->         The refunds under paragraph (1) are available only for copayments paid by medicare-eligible beneficiaries during fiscal year 2009.
+>         The refunds under paragraph (1) are available only for copayments paid by medicare-eligible beneficiaries after September 30, 2008.
 
 >     “(g)  __Report__  __.—__ 
 
@@ -1629,6 +1629,8 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 [/us/stat/126/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1692
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4503
+[/us/pl/114/92/s705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs705
+[/us/stat/129/863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F863
 [/us/usc/t10/s1072/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F7
 [/us/usc/t10/s1111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1111%2Fb
 [/us/pl/109/364/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs721

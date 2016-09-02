@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptI/ch3/m__us_usc_t10_s127a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch3/m__us_usc_t10_s127c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs127b)
 
-## § 127b. Assistance in combating terrorism: rewards
+## § 127b. Department of Defense rewards program
 
     (a)  __Authority__  __.—__ 
 
@@ -41,21 +41,9 @@
 
         (3)
 
-            (A) Subject to subparagraphs (B) and (C), an official who has authority delegated under paragraph (1) or (2) may use that authority, acting through government personnel of allied forces, to offer and make rewards.
+            (A) Subject to subparagraph (B), an official who has authority delegated under paragraph (1) or (2) may use that authority, acting through government personnel of allied forces, to offer and make rewards.
 
             (B) The Secretary of Defense shall prescribe policies and procedures for making rewards in the manner described in subparagraph (A), which shall include guidance for the accountability of funds used for making rewards in that manner. The policies and procedures shall not take effect until 30 days after the date on which the Secretary submits the policies and procedures to the congressional defense committees. Rewards may not be made in the manner described in subparagraph (A) except under policies and procedures that have taken effect.
-
-            (C) Rewards may not be made in the manner described in subparagraph (A) after September 30, 2015.
-
-            (D)
-
-             Not later than April 1, 2008, the Secretary of Defense shall submit to the congressional defense committees a report on the implementation of this paragraph. The report shall identify each reward made in the manner described in subparagraph (A) and, for each such reward—
-
-                (i) identify the type, amount, and recipient of the reward;
-
-                (ii) explain the reason for making the reward; and
-
-                (iii) assess the success of the reward in advancing the effort to combat terrorism.
 
     (d)  __Coordination__  __.—__ 
 
@@ -95,13 +83,11 @@
 
                 (iii) a description of the information or assistance for which the reward was paid, together with an assessment of the significance and benefit of the information or assistance.
 
-            (D) Information on the implementation of paragraph (3) of subsection (c).
+            (D) A description of the status of program implementation in each geographic combatant command, including in which countries the program is being operated.
 
-            (E) A description of the status of program implementation in each geographic combatant command.
+            (E) A description of efforts to coordinate and de-conflict the authority under subsection (a) with similar rewards programs administered by the United States Government.
 
-            (F) A description of efforts to coordinate and de-conflict the authority under subsection (a) with similar rewards programs administered by the United States Government.
-
-            (G) An assessment of the effectiveness of the program in meeting its objectives.
+            (F) An assessment of the effectiveness of the program in meeting its objectives.
 
         (3) The Secretary may submit the report in classified form if the Secretary determines that it is necessary to do so.
 
@@ -109,9 +95,39 @@
 
     A determination by the Secretary under this section is final and conclusive and is not subject to judicial review.
 
-(Added [Pub. L. 107–314, div. A, title X, § 1065(a)][/us/pl/107/314/s1065/a], Dec. 2, 2002, [116 Stat. 2655][/us/stat/116/2655]; amended [Pub. L. 109–163, div. A, title X, § 1056(c)(2)][/us/pl/109/163/s1056/c/2], Jan. 6, 2006, [119 Stat. 3439][/us/stat/119/3439]; [Pub. L. 109–364, div. A, title XIV, § 1401][/us/pl/109/364/s1401], Oct. 17, 2006, [120 Stat. 2433][/us/stat/120/2433]; [Pub. L. 110–181, div. A, title X, § 1033][/us/pl/110/181/s1033], Jan. 28, 2008, [122 Stat. 307][/us/stat/122/307]; [Pub. L. 111–84, div. A, title X, § 1071][/us/pl/111/84/s1071], Oct. 28, 2009, [123 Stat. 2470][/us/stat/123/2470]; [Pub. L. 111–383, div. A, title X, § 1031][/us/pl/111/383/s1031], Jan. 7, 2011, [124 Stat. 4351][/us/stat/124/4351]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81], §§ 1033, 1064(3), Dec. 31, 2011, [125 Stat. 1572][/us/stat/125/1572], 1587; [Pub. L. 112–239, div. A, title X, § 1021(a)][/us/pl/112/239/s1021/a], Jan. 2, 2013, [126 Stat. 1911][/us/stat/126/1911]; [Pub. L. 113–291, div. A, title X, § 1031][/us/pl/113/291/s1031], Dec. 19, 2014, [128 Stat. 3491][/us/stat/128/3491].)
+    (h)  __Report on Designation of Countries for Which Rewards May Be Paid__  __.—__ 
+
+    Not later than 15 days after the date on which the Secretary designates a country as a country in which an operation or activity of the armed forces is occurring in connection with which rewards may be paid under this section, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the designation. Each report shall include the following:
+
+        (1) The country so designated.
+
+        (2) The reason for the designation of the country.
+
+        (3) A justification for the designation of the country for purposes of this section.
+
+(Added [Pub. L. 107–314, div. A, title X, § 1065(a)][/us/pl/107/314/s1065/a], Dec. 2, 2002, [116 Stat. 2655][/us/stat/116/2655]; amended [Pub. L. 109–163, div. A, title X, § 1056(c)(2)][/us/pl/109/163/s1056/c/2], Jan. 6, 2006, [119 Stat. 3439][/us/stat/119/3439]; [Pub. L. 109–364, div. A, title XIV, § 1401][/us/pl/109/364/s1401], Oct. 17, 2006, [120 Stat. 2433][/us/stat/120/2433]; [Pub. L. 110–181, div. A, title X, § 1033][/us/pl/110/181/s1033], Jan. 28, 2008, [122 Stat. 307][/us/stat/122/307]; [Pub. L. 111–84, div. A, title X, § 1071][/us/pl/111/84/s1071], Oct. 28, 2009, [123 Stat. 2470][/us/stat/123/2470]; [Pub. L. 111–383, div. A, title X, § 1031][/us/pl/111/383/s1031], Jan. 7, 2011, [124 Stat. 4351][/us/stat/124/4351]; [Pub. L. 112–81, div. A, title X][/us/pl/112/81], §§ 1033, 1064(3), Dec. 31, 2011, [125 Stat. 1572][/us/stat/125/1572], 1587; [Pub. L. 112–239, div. A, title X, § 1021(a)][/us/pl/112/239/s1021/a], Jan. 2, 2013, [126 Stat. 1911][/us/stat/126/1911]; [Pub. L. 113–291, div. A, title X, § 1031][/us/pl/113/291/s1031], Dec. 19, 2014, [128 Stat. 3491][/us/stat/128/3491]; [Pub. L. 114–92, div. A, title X, § 1042(a)][/us/pl/114/92/s1042/a]–(d)(1), Nov. 25, 2015, [129 Stat. 976][/us/stat/129/976].)
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92, § 1042(d)(1)][/us/pl/114/92/s1042/d/1], substituted “Department of Defense rewards program” for “Assistance in combating terrorism: rewards” in section catchline.
+
+    Subsec. (c)(3)(A). [Pub. L. 114–92, § 1042(a)(1)][/us/pl/114/92/s1042/a/1], substituted “subparagraph (B)” for “subparagraphs (B) and (C)”.
+
+    Subsec. (c)(3)(C), (D). [Pub. L. 114–92, § 1042(a)(2)][/us/pl/114/92/s1042/a/2], struck out subpars. (C) and (D) which read as follows:
+
+    “(C) Rewards may not be made in the manner described in subparagraph (A) after September 30, 2015.
+
+    “(D) Not later than April 1, 2008, the Secretary of Defense shall submit to the congressional defense committees a report on the implementation of this paragraph. The report shall identify each reward made in the manner described in subparagraph (A) and, for each such reward—
+
+    “(i) identify the type, amount, and recipient of the reward;
+
+    “(ii) explain the reason for making the reward; and
+
+    “(iii) assess the success of the reward in advancing the effort to combat terrorism.”
+
+    Subsec. (f)(2)(D) to (G). [Pub. L. 114–92, § 1042(b)][/us/pl/114/92/s1042/b], redesignated subpars. (E) to (G) as (D) to (F), respectively, inserted “, including in which countries the program is being operated” before period at end of subpar. (D), and struck out former subpar. (D) which read as follows: “Information on the implementation of paragraph (3) of subsection (c).”
+
+    Subsec. (h). [Pub. L. 114–92, § 1042(c)][/us/pl/114/92/s1042/c], added subsec. (h).
 
     2014—Subsec. (c)(3)(C). [Pub. L. 113–291][/us/pl/113/291] substituted “September 30, 2015” for “September 30, 2014”.
 
@@ -176,6 +192,13 @@
 [/us/stat/126/1911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1911
 [/us/pl/113/291/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1031
 [/us/stat/128/3491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3491
+[/us/pl/114/92/s1042/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1042%2Fa
+[/us/stat/129/976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F976
+[/us/pl/114/92/s1042/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1042%2Fd%2F1
+[/us/pl/114/92/s1042/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1042%2Fa%2F1
+[/us/pl/114/92/s1042/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1042%2Fa%2F2
+[/us/pl/114/92/s1042/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1042%2Fb
+[/us/pl/114/92/s1042/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1042%2Fc
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81/s1033/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1033%2F1

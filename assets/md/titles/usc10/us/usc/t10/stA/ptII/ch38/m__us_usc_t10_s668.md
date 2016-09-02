@@ -27,9 +27,11 @@
 
             (C) command and control of operations under unified command;
 
-            (D) national security planning with other departments and agencies of the United States; or
+            (D) national security planning with other departments and agencies of the United States;
 
-            (E) combined operations with military forces of allied nations.
+            (E) combined operations with military forces of allied nations; or
+
+            (F) acquisition matters addressed by military personnel and covered under chapter 87 of this title.
 
         (2)
 
@@ -75,9 +77,11 @@
 
         (2) At a minimum, the Secretary of Defense shall designate as a critical occupational specialty under paragraph (1) any military occupational specialty within a combat arms (or the equivalent) that is experiencing a severe shortage of trained officers in that specialty, as determined by the Secretary.
 
-(Added [Pub. L. 99–433, title IV, § 401(a)][/us/pl/99/433/s401/a], Oct. 1, 1986, [100 Stat. 1029][/us/stat/100/1029]; amended [Pub. L. 100–180, div. A, title XIII][/us/pl/100/180], §§ 1302(c)(1), 1303(b), Dec. 4, 1987, [101 Stat. 1170][/us/stat/101/1170], 1172; [Pub. L. 100–456, div. A, title V, § 519(b)][/us/pl/100/456/s519/b], Sept. 29, 1988, [102 Stat. 1972][/us/stat/102/1972]; [Pub. L. 108–375, div. A, title V, § 534(a)][/us/pl/108/375/s534/a], (b), Oct. 28, 2004, [118 Stat. 1901][/us/stat/118/1901]; [Pub. L. 109–364, div. A, title V, § 519(a)][/us/pl/109/364/s519/a]–(c), Oct. 17, 2006, [120 Stat. 2190][/us/stat/120/2190], 2191; [Pub. L. 111–383, div. A, title V, § 521][/us/pl/111/383/s521], Jan. 7, 2011, [124 Stat. 4214][/us/stat/124/4214]; [Pub. L. 112–239, div. A, title V, § 503][/us/pl/112/239/s503], Jan. 2, 2013, [126 Stat. 1715][/us/stat/126/1715].)
+(Added [Pub. L. 99–433, title IV, § 401(a)][/us/pl/99/433/s401/a], Oct. 1, 1986, [100 Stat. 1029][/us/stat/100/1029]; amended [Pub. L. 100–180, div. A, title XIII][/us/pl/100/180], §§ 1302(c)(1), 1303(b), Dec. 4, 1987, [101 Stat. 1170][/us/stat/101/1170], 1172; [Pub. L. 100–456, div. A, title V, § 519(b)][/us/pl/100/456/s519/b], Sept. 29, 1988, [102 Stat. 1972][/us/stat/102/1972]; [Pub. L. 108–375, div. A, title V, § 534(a)][/us/pl/108/375/s534/a], (b), Oct. 28, 2004, [118 Stat. 1901][/us/stat/118/1901]; [Pub. L. 109–364, div. A, title V, § 519(a)][/us/pl/109/364/s519/a]–(c), Oct. 17, 2006, [120 Stat. 2190][/us/stat/120/2190], 2191; [Pub. L. 111–383, div. A, title V, § 521][/us/pl/111/383/s521], Jan. 7, 2011, [124 Stat. 4214][/us/stat/124/4214]; [Pub. L. 112–239, div. A, title V, § 503][/us/pl/112/239/s503], Jan. 2, 2013, [126 Stat. 1715][/us/stat/126/1715]; [Pub. L. 114–92, div. A, title VIII, § 843][/us/pl/114/92/s843], Nov. 25, 2015, [129 Stat. 915][/us/stat/129/915].)
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1)(F). [Pub. L. 114–92][/us/pl/114/92] added subpar. (F).
 
     2013—Subsec. (b)(1)(B). [Pub. L. 112–239][/us/pl/112/239] substituted “student assignments for joint training and education” for “assignments for joint training and education, except an assignment as an instructor responsible for preparing and presenting courses in areas of the curricula designated in [section 2155(c) of this title][/us/usc/t10/s2155/c] as part of a program designated by the Secretary of Defense as joint professional military education Phase II”.
 
@@ -154,6 +158,9 @@
 [/us/stat/124/4214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4214
 [/us/pl/112/239/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs503
 [/us/stat/126/1715]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1715
+[/us/pl/114/92/s843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs843
+[/us/stat/129/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F915
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t10/s2155/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2155%2Fc
 [/us/pl/111/383/s521/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs521%2F1%2FA

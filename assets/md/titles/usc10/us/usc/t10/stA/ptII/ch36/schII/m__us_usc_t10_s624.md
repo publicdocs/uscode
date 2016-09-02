@@ -37,6 +37,8 @@
 
                 (ii) would be eligible for consideration for promotion to the next higher grade by a selection board convened under [section 611(a) of this title][/us/usc/t10/s611/a] upon the convening of such a board.
 
+            (E) If the Secretary of the military department concerned determines that one or more officers or former officers were not placed on an all-fully-qualified-list under this paragraph because of administrative error, the Secretary may prepare a supplemental all-fully-qualified-officers list containing the names of any such officers for approval in accordance with this paragraph.
+
     (b)
 
         (1) A regular officer who is promoted under this section is appointed in the regular grade to which promoted and a reserve officer who is promoted under this section is appointed in the reserve grade to which promoted.
@@ -69,9 +71,11 @@
 
         (4) An appointment of an officer may not be delayed under this subsection for more than six months after the date on which the officer would otherwise have been appointed unless the Secretary concerned specifies a further period of delay. An officer’s appointment may not be delayed more than 90 days after final action has been taken in any criminal case against such officer in a Federal or State court, more than 90 days after final action has been taken in any court-martial case against such officer, or more than 18 months after the date on which such officer would otherwise have been appointed, whichever is later.
 
-(Added [Pub. L. 96–513, title I, § 105][/us/pl/96/513/s105], Dec. 12, 1980, [94 Stat. 2857][/us/stat/94/2857]; amended [Pub. L. 97–22, § 4(d)][/us/pl/97/22/s4/d], July 10, 1981, [95 Stat. 126][/us/stat/95/126]; [Pub. L. 97–295, § 1(8)][/us/pl/97/295/s1/8], Oct. 12, 1982, [96 Stat. 1289][/us/stat/96/1289]; [Pub. L. 98–525, title V, § 526][/us/pl/98/525/s526], Oct. 19, 1984, [98 Stat. 2525][/us/stat/98/2525]; [Pub. L. 107–107, div. A, title V, § 505(a)(1)][/us/pl/107/107/s505/a/1], (c)(2)(A), (d)(1), Dec. 28, 2001, [115 Stat. 1085][/us/stat/115/1085], 1087, 1088; [Pub. L. 107–314, div. A, title X, § 1062(a)(2)][/us/pl/107/314/s1062/a/2], Dec. 2, 2002, [116 Stat. 2649][/us/stat/116/2649]; [Pub. L. 109–364, div. A, title V, § 511(a)][/us/pl/109/364/s511/a], (d)(1), Oct. 17, 2006, [120 Stat. 2181][/us/stat/120/2181], 2183; [Pub. L. 110–181, div. A, title X, § 1063(c)(3)][/us/pl/110/181/s1063/c/3], Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322].)
+(Added [Pub. L. 96–513, title I, § 105][/us/pl/96/513/s105], Dec. 12, 1980, [94 Stat. 2857][/us/stat/94/2857]; amended [Pub. L. 97–22, § 4(d)][/us/pl/97/22/s4/d], July 10, 1981, [95 Stat. 126][/us/stat/95/126]; [Pub. L. 97–295, § 1(8)][/us/pl/97/295/s1/8], Oct. 12, 1982, [96 Stat. 1289][/us/stat/96/1289]; [Pub. L. 98–525, title V, § 526][/us/pl/98/525/s526], Oct. 19, 1984, [98 Stat. 2525][/us/stat/98/2525]; [Pub. L. 107–107, div. A, title V, § 505(a)(1)][/us/pl/107/107/s505/a/1], (c)(2)(A), (d)(1), Dec. 28, 2001, [115 Stat. 1085][/us/stat/115/1085], 1087, 1088; [Pub. L. 107–314, div. A, title X, § 1062(a)(2)][/us/pl/107/314/s1062/a/2], Dec. 2, 2002, [116 Stat. 2649][/us/stat/116/2649]; [Pub. L. 109–364, div. A, title V, § 511(a)][/us/pl/109/364/s511/a], (d)(1), Oct. 17, 2006, [120 Stat. 2181][/us/stat/120/2181], 2183; [Pub. L. 110–181, div. A, title X, § 1063(c)(3)][/us/pl/110/181/s1063/c/3], Jan. 28, 2008, [122 Stat. 322][/us/stat/122/322]; [Pub. L. 114–92, div. A, title V, § 502(a)][/us/pl/114/92/s502/a], Nov. 25, 2015, [129 Stat. 806][/us/stat/129/806].)
 
  __Amendments__ 
+
+    2015—Subsec. (a)(3)(E). [Pub. L. 114–92][/us/pl/114/92] added subpar. (E).
 
     2008—Subsec. (d)(1). [Pub. L. 110–181][/us/pl/110/181] amended directory language of [Pub. L. 109–364, § 511(a)(2)(D)(i)][/us/pl/109/364/s511/a/2/D/i]. See 2006 Amendment note below.
 
@@ -167,6 +171,9 @@
 [/us/stat/120/2181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2181
 [/us/pl/110/181/s1063/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1063%2Fc%2F3
 [/us/stat/122/322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F322
+[/us/pl/114/92/s502/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs502%2Fa
+[/us/stat/129/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F806
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/364/s511/a/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fa%2F2%2FD%2Fi
 [/us/pl/109/364/s511/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs511%2Fd%2F1

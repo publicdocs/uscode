@@ -81,9 +81,15 @@
 
     The Secretary of Defense may not implement any involuntary reduction or furlough of civilian positions in a military department, Defense Agency, or other component of the Department of Defense until the expiration of the 45-day period beginning on the date on which the Secretary submits to Congress a report setting forth the reasons why such reductions or furloughs are required and a description of any change in workload or positions requirements that will result from such reductions or furloughs.
 
-(Added [Pub. L. 101–510, div. A, title III, § 322(a)(1)][/us/pl/101/510/s322/a/1], Nov. 5, 1990, [104 Stat. 1528][/us/stat/104/1528]; amended [Pub. L. 102–484, div. A, title III, § 371(a)][/us/pl/102/484/s371/a], Oct. 23, 1992, [106 Stat. 2382][/us/stat/106/2382]; [Pub. L. 103–35, title II, § 201(d)(1)][/us/pl/103/35/s201/d/1], May 31, 1993, [107 Stat. 98][/us/stat/107/98]; [Pub. L. 103–160, div. A, title III, § 363][/us/pl/103/160/s363], Nov. 30, 1993, [107 Stat. 1628][/us/stat/107/1628]; [Pub. L. 112–81, div. A, title IX, § 933(b)][/us/pl/112/81/s933/b], Dec. 31, 2011, [125 Stat. 1544][/us/stat/125/1544].)
+    (f)  __Reductions Based Primarily on Performance__  __.—__ 
+
+    The Secretary of Defense shall establish procedures to provide that, in implementing any reduction in force for civilian positions in the Department of Defense in the competitive service or the excepted service, the determination of which employees shall be separated from employment in the Department shall be made primarily on the basis of performance, as determined under any applicable performance management system.
+
+(Added [Pub. L. 101–510, div. A, title III, § 322(a)(1)][/us/pl/101/510/s322/a/1], Nov. 5, 1990, [104 Stat. 1528][/us/stat/104/1528]; amended [Pub. L. 102–484, div. A, title III, § 371(a)][/us/pl/102/484/s371/a], Oct. 23, 1992, [106 Stat. 2382][/us/stat/106/2382]; [Pub. L. 103–35, title II, § 201(d)(1)][/us/pl/103/35/s201/d/1], May 31, 1993, [107 Stat. 98][/us/stat/107/98]; [Pub. L. 103–160, div. A, title III, § 363][/us/pl/103/160/s363], Nov. 30, 1993, [107 Stat. 1628][/us/stat/107/1628]; [Pub. L. 112–81, div. A, title IX, § 933(b)][/us/pl/112/81/s933/b], Dec. 31, 2011, [125 Stat. 1544][/us/stat/125/1544]; [Pub. L. 114–92, div. A, title XI, § 1101(a)][/us/pl/114/92/s1101/a], Nov. 25, 2015, [129 Stat. 1022][/us/stat/129/1022].)
 
  __Amendments__ 
+
+    2015—Subsec. (f). [Pub. L. 114–92][/us/pl/114/92] added subsec. (f).
 
     2011—Subsec. (b). [Pub. L. 112–81][/us/pl/112/81] inserted after first sentence “In establishing the guidelines, the Secretary shall ensure that nothing in the guidelines conflicts with the requirements of [section 129 of this title][/us/usc/t10/s129] or the policies and procedures established under [section 129a of this title][/us/usc/t10/s129a].”
 
@@ -140,6 +146,9 @@
 [/us/stat/107/1628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1628
 [/us/pl/112/81/s933/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs933%2Fb
 [/us/stat/125/1544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1544
+[/us/pl/114/92/s1101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1101%2Fa
+[/us/stat/129/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1022
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/usc/t10/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs129
 [/us/usc/t10/s129a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs129a

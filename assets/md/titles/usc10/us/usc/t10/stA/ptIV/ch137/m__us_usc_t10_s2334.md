@@ -37,7 +37,7 @@
 
              in advance of—
 
-                (i) any certification under section 2366a or 2366b of this title;
+                (i) any decision to grant milestone approval pursuant to section 2366a or 2366b of this title;
 
                 (ii) any decision to enter into low-rate initial production or full-rate production;
 
@@ -113,39 +113,17 @@
 
             (B) may be reprogrammed, in accordance with established procedures, only if determined to be excess to program needs on the basis of a cost estimate developed with the concurrence of the Director of Cost Assessment and Program Evaluation.
 
-    (f)  __Annual Report on Cost Assessment Activities__  __.—__ 
-
-        (1)
-
-         The Director of Cost Assessment and Program Evaluation shall prepare an annual report summarizing the cost estimation and cost analysis activities of the Department of Defense during the previous year and assessing the progress of the Department in improving the accuracy of its cost estimates and analyses. Each report shall include, for the year covered by such report—
-
-            (A) an assessment of the extent to which each of the military departments and Defense Agencies have complied with policies, procedures, and guidance issued by the Director with regard to the preparation of cost estimates for major defense acquisition programs and major automated information systems;
-
-            (B) an assessment of the overall quality of cost estimates prepared by each of the military departments and Defense Agencies for major defense acquisition programs and major automated information system programs;
-
-            (C) an assessment of any consistent differences in methodology or approach among the cost estimates prepared by the military departments, the Defense Agencies, and the Director; and
-
-            (D) a summary of the cost and associated information reviewed under subsection (a)(8), an identification of any trends in that information, an aggregation of the cumulative risk of the portfolio of systems reviewed under that subsection, and recommendations for improving cost estimates on the basis of the review under that subsection.
-
-        (2) Each report under this subsection shall be submitted concurrently to the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Under Secretary of Defense (Comptroller), and the congressional defense committees not later than 10 days after the transmittal to Congress of the budget of the President for the next fiscal year (as submitted pursuant to [section 1105 of title 31][/us/usc/t31/s1105]).
-
-        (3)
-
-            (A) Each report submitted to the congressional defense committees under this subsection shall be submitted in unclassified form, but may include a classified annex.
-
-            (B) The Director shall ensure that a report submitted under this subsection does not include any information, such as proprietary or source selection sensitive information, that could undermine the integrity of the acquisition process.
-
-            (C) The unclassified version of each report submitted to the congressional defense committees under this subsection shall be posted on an Internet website of the Department of Defense that is available to the public.
-
-        (4) The Secretary of Defense may comment on any report of the Director to the congressional defense committees under this subsection.
-
-    (g)  __Staff__  __.—__ 
+    (f)  __Staff__  __.—__ 
 
     The Secretary of Defense shall ensure that the Director of Cost Assessment and Program Evaluation has sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director under this section.
 
-(Added [Pub. L. 111–23, title I, § 101(b)(1)][/us/pl/111/23/s101/b/1], May 22, 2009, [123 Stat. 1706][/us/stat/123/1706]; amended [Pub. L. 111–383, div. A, title VIII, § 811][/us/pl/111/383/s811], Jan. 7, 2011, [124 Stat. 4263][/us/stat/124/4263]; [Pub. L. 112–81, div. A, title VIII, § 833][/us/pl/112/81/s833], Dec. 31, 2011, [125 Stat. 1506][/us/stat/125/1506]; [Pub. L. 113–66, div. A, title VIII, § 812(c)][/us/pl/113/66/s812/c], Dec. 26, 2013, [127 Stat. 808][/us/stat/127/808].)
+(Added [Pub. L. 111–23, title I, § 101(b)(1)][/us/pl/111/23/s101/b/1], May 22, 2009, [123 Stat. 1706][/us/stat/123/1706]; amended [Pub. L. 111–383, div. A, title VIII, § 811][/us/pl/111/383/s811], Jan. 7, 2011, [124 Stat. 4263][/us/stat/124/4263]; [Pub. L. 112–81, div. A, title VIII, § 833][/us/pl/112/81/s833], Dec. 31, 2011, [125 Stat. 1506][/us/stat/125/1506]; [Pub. L. 113–66, div. A, title VIII, § 812(c)][/us/pl/113/66/s812/c], Dec. 26, 2013, [127 Stat. 808][/us/stat/127/808]; [Pub. L. 114–92, div. A, title VIII, § 824(b)][/us/pl/114/92/s824/b], title X, § 1077(a), Nov. 25, 2015, [129 Stat. 907][/us/stat/129/907], 998.)
 
  __Amendments__ 
+
+    2015—Subsec. (a)(6)(A)(i). [Pub. L. 114–92, § 824(b)][/us/pl/114/92/s824/b], substituted “any decision to grant milestone approval pursuant to” for “any certification under”.
+
+    Subsecs. (f), (g). [Pub. L. 114–92, § 1077(a)][/us/pl/114/92/s1077/a], redesignated subsec. (g) as (f) and struck out former subsec. (f) which related to annual report on cost assessment activities.
 
     2013—Subsec. (a)(8). [Pub. L. 113–66, § 812(c)(1)][/us/pl/113/66/s812/c/1], added par. (8).
 
@@ -192,7 +170,6 @@
 [/us/usc/t10/s2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432
 [/us/usc/t10/s2445c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2445c
 [/us/usc/t10/s2308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2308
-[/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/111/23/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs101%2Fb%2F1
 [/us/stat/123/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1706
 [/us/pl/111/383/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs811
@@ -201,6 +178,10 @@
 [/us/stat/125/1506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1506
 [/us/pl/113/66/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fc
 [/us/stat/127/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F808
+[/us/pl/114/92/s824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs824%2Fb
+[/us/stat/129/907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F907
+[/us/pl/114/92/s824/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs824%2Fb
+[/us/pl/114/92/s1077/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1077%2Fa
 [/us/pl/113/66/s812/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fc%2F1
 [/us/pl/113/66/s812/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fc%2F2%2FA
 [/us/pl/113/66/s812/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fc%2F2%2FB

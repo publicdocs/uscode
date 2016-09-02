@@ -49,11 +49,13 @@
 
         (2) The term “information technology” has the meaning given that term by [section 11101 of title 40][/us/usc/t40/s11101].
 
-        (3) The term “national security system” has the meaning given that term by section 3552(b)(5)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “3552(b)(6)”. </sup></sup>  of title 44.
+        (3) The term “national security system” has the meaning given that term by section [section 3552(b)(6) of title 44][/us/usc/t44/s3552/b/6].
 
-(Added [Pub. L. 105–261, div. A, title III, § 331(a)(1)][/us/pl/105/261/s331/a/1], Oct. 17, 1998, [112 Stat. 1967][/us/stat/112/1967]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 811(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–210; [Pub. L. 107–217, § 3(b)(1)][/us/pl/107/217/s3/b/1], Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 109–364, div. A, title IX, § 906(b)][/us/pl/109/364/s906/b], Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354]; [Pub. L. 113–283, § 2(e)(5)(B)][/us/pl/113/283/s2/e/5/B], Dec. 18, 2014, [128 Stat. 3087][/us/stat/128/3087].)
+(Added [Pub. L. 105–261, div. A, title III, § 331(a)(1)][/us/pl/105/261/s331/a/1], Oct. 17, 1998, [112 Stat. 1967][/us/stat/112/1967]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, § 811(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–210; [Pub. L. 107–217, § 3(b)(1)][/us/pl/107/217/s3/b/1], Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 109–364, div. A, title IX, § 906(b)][/us/pl/109/364/s906/b], Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354]; [Pub. L. 113–283, § 2(e)(5)(B)][/us/pl/113/283/s2/e/5/B], Dec. 18, 2014, [128 Stat. 3087][/us/stat/128/3087]; [Pub. L. 114–92, div. A, title X, § 1081(a)(7)][/us/pl/114/92/s1081/a/7], Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001].)
 
  __Amendments__ 
+
+    2015—Subsec. (c)(3). [Pub. L. 114–92][/us/pl/114/92] substituted “section 3552(b)(6)” for “section 3552(b)(5)”.
 
     2014—Subsec. (c)(3). [Pub. L. 113–283][/us/pl/113/283] substituted “section 3552(b)(5)” for “section 3542(b)(2)”.
 
@@ -252,6 +254,7 @@
 [/us/usc/t40/s11315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11315
 [/us/usc/t44/s3506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3506
 [/us/usc/t40/s11101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101
+[/us/usc/t44/s3552/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552%2Fb%2F6
 [/us/pl/105/261/s331/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs331%2Fa%2F1
 [/us/stat/112/1967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1967
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
@@ -262,6 +265,9 @@
 [/us/stat/120/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2354
 [/us/pl/113/283/s2/e/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fe%2F5%2FB
 [/us/stat/128/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3087
+[/us/pl/114/92/s1081/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F7
+[/us/stat/129/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1001
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t44/s3542/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3542%2Fb%2F2

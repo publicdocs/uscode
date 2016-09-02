@@ -89,23 +89,15 @@
 
         (2) The term “retired pay” includes retainer pay, emergency officers’ retirement pay, and naval pension.
 
-(Added [Pub. L. 107–314, div. A, title VI, § 636(a)(1)][/us/pl/107/314/s636/a/1], Dec. 2, 2002, [116 Stat. 2574][/us/stat/116/2574]; amended [Pub. L. 108–136, div. A, title VI][/us/pl/108/136], §§ 641(c)(1), 642(a)–(e)(1), Nov. 24, 2003, [117 Stat. 1514][/us/stat/117/1514], 1516, 1517; [Pub. L. 110–181, div. A, title VI, § 641(a)][/us/pl/110/181/s641/a], (b), Jan. 28, 2008, [122 Stat. 156][/us/stat/122/156]; [Pub. L. 112–239, div. A, title VI, § 643(a)][/us/pl/112/239/s643/a], Jan. 2, 2013, [126 Stat. 1783][/us/stat/126/1783]; [Pub. L. 113–76, div. C, title X, § 10001(b)(1)][/us/pl/113/76/s10001/b/1], Jan. 17, 2014, [128 Stat. 151][/us/stat/128/151].)
-
- __Amendment of Subsection (b)(3)__ 
-
-    [Pub. L. 113–76, div. C, title X, § 10001(b)(1)][/us/pl/113/76/s10001/b/1], (c), Jan. 17, 2014, [128 Stat. 151][/us/stat/128/151], provided that, effective Dec. 1, 2015, immediately after the coming into effect of [section 403 of Pub. L. 113–67][/us/pl/113/67/s403] and the amendments made by that section, subsection (b)(3) of this section is amended—
-
-    (1) in subparagraph (A), by inserting “, with adjustment under paragraph (2) of [section 1401a(b) of this title][/us/usc/t10/s1401a/b] to which the member would have been entitled (but without the application of paragraph (4) of such section),” after “under any other provision of law”; and
-
-    (2) in subparagraph (B), by striking “whichever is applicable to the member.” and inserting “with adjustment under paragraph (2) of [section 1401a(b) of this title][/us/usc/t10/s1401a/b] to which the member would have been entitled (but without the application of paragraph (4) of such section), whichever is applicable to the member.”.
-
-    See 2014 Amendment notes below.
+(Added [Pub. L. 107–314, div. A, title VI, § 636(a)(1)][/us/pl/107/314/s636/a/1], Dec. 2, 2002, [116 Stat. 2574][/us/stat/116/2574]; amended [Pub. L. 108–136, div. A, title VI][/us/pl/108/136], §§ 641(c)(1), 642(a)–(e)(1), Nov. 24, 2003, [117 Stat. 1514][/us/stat/117/1514], 1516, 1517; [Pub. L. 110–181, div. A, title VI, § 641(a)][/us/pl/110/181/s641/a], (b), Jan. 28, 2008, [122 Stat. 156][/us/stat/122/156]; [Pub. L. 112–239, div. A, title VI, § 643(a)][/us/pl/112/239/s643/a], Jan. 2, 2013, [126 Stat. 1783][/us/stat/126/1783]; [Pub. L. 113–76, div. C, title X, § 10001(b)(1)][/us/pl/113/76/s10001/b/1], Jan. 17, 2014, [128 Stat. 151][/us/stat/128/151]; [Pub. L. 114–92, div. A, title VI, § 631(d)(2)][/us/pl/114/92/s631/d/2], Nov. 25, 2015, [129 Stat. 845][/us/stat/129/845].)
 
  __Amendments__ 
 
-    2014—Subsec. (b)(3)(A). [Pub. L. 113–76, § 10001(b)(1)(A)][/us/pl/113/76/s10001/b/1/A], inserted “, with adjustment under paragraph (2) of [section 1401a(b) of this title][/us/usc/t10/s1401a/b] to which the member would have been entitled (but without the application of paragraph (4) of such section),” after “under any other provision of law”.
+    2015—Subsec. (b)(3). [Pub. L. 114–92, § 631(d)(2)][/us/pl/114/92/s631/d/2], which was approved Nov. 25, 2015, provided that the amendments made by [Pub. L. 113–76, § 10001(b)(1)][/us/pl/113/76/s10001/b/1], which were effective Dec. 1, 2015, would not take effect. See 2014 Amendment notes below.
 
-    Subsec. (b)(3)(B). [Pub. L. 113–76, § 10001(b)(1)(B)][/us/pl/113/76/s10001/b/1/B], substituted “with adjustment under paragraph (2) of [section 1401a(b) of this title][/us/usc/t10/s1401a/b] to which the member would have been entitled (but without the application of paragraph (4) of such section), whichever is applicable to the member.” for “whichever is applicable to the member.”
+    2014—Subsec. (b)(3)(A). [Pub. L. 113–76, § 10001(b)(1)(A)][/us/pl/113/76/s10001/b/1/A], which directed insertion of “, with adjustment under paragraph (2) of [section 1401a(b) of this title][/us/usc/t10/s1401a/b] to which the member would have been entitled (but without the application of paragraph (4) of such section),” after “under any other provision of law”, did not take effect pursuant to [Pub. L. 114–92, § 631(d)(2)][/us/pl/114/92/s631/d/2]. See 2015 Amendment note above.
+
+    Subsec. (b)(3)(B). [Pub. L. 113–76, § 10001(b)(1)(B)][/us/pl/113/76/s10001/b/1/B], which directed substitution of “with adjustment under paragraph (2) of [section 1401a(b) of this title][/us/usc/t10/s1401a/b] to which the member would have been entitled (but without the application of paragraph (4) of such section), whichever is applicable to the member.” for “whichever is applicable to the member.”, did not take effect pursuant to [Pub. L. 114–92, § 631(d)(2)][/us/pl/114/92/s631/d/2]. See 2015 Amendment note above.
 
     2013—Subsec. (b)(3). [Pub. L. 112–239][/us/pl/112/239] substituted “may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed” for “shall be reduced by the amount (if any) by which the amount of the member’s retired pay under chapter 61 of this title exceeds” in subpars. (A) and (B).
 
@@ -139,7 +131,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–76][/us/pl/113/76] effective Dec. 1, 2015, immediately after the coming into effect of [section 403 of Pub. L. 113–67][/us/pl/113/67/s403] and the amendments made by that section, see [section 10001(c) of Pub. L. 113–76][/us/pl/113/76/s10001/c], set out as a note under [section 1401a of this title][/us/usc/t10/s1401a].
+    Amendment by [Pub. L. 113–76][/us/pl/113/76] effective Dec. 1, 2015, immediately after the coming into effect of [section 403 of Pub. L. 113–67][/us/pl/113/67/s403] and the amendments made by that section, see [section 10001(c) of Pub. L. 113–76][/us/pl/113/76/s10001/c], set out as a note under [section 1401a of this title][/us/usc/t10/s1401a]. Amendment did not take effect pursuant to [section 631(d)(2) of Pub. L. 114–92][/us/pl/114/92/s631/d/2], set out as a Repeal of Reduced Cost-of-living Adjustments for Members Under the Age of 62 note under [section 1401a of this title][/us/usc/t10/s1401a].
 
  __Effective Date of 2013 Amendment__ 
 
@@ -189,15 +181,16 @@
 [/us/stat/126/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1783
 [/us/pl/113/76/s10001/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs10001%2Fb%2F1
 [/us/stat/128/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F151
+[/us/pl/114/92/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs631%2Fd%2F2
+[/us/stat/129/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F845
+[/us/pl/114/92/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs631%2Fd%2F2
 [/us/pl/113/76/s10001/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs10001%2Fb%2F1
-[/us/stat/128/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F151
-[/us/pl/113/67/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403
-[/us/usc/t10/s1401a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a%2Fb
-[/us/usc/t10/s1401a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a%2Fb
 [/us/pl/113/76/s10001/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs10001%2Fb%2F1%2FA
 [/us/usc/t10/s1401a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a%2Fb
+[/us/pl/114/92/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs631%2Fd%2F2
 [/us/pl/113/76/s10001/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs10001%2Fb%2F1%2FB
 [/us/usc/t10/s1401a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a%2Fb
+[/us/pl/114/92/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs631%2Fd%2F2
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/110/181/s641/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs641%2Fb
 [/us/pl/110/181/s641/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs641%2Fa
@@ -217,6 +210,8 @@
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/113/67/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403
 [/us/pl/113/76/s10001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs10001%2Fc
+[/us/usc/t10/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a
+[/us/pl/114/92/s631/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs631%2Fd%2F2
 [/us/usc/t10/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a
 [/us/pl/112/239/s643/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs643%2Fb
 [/us/stat/126/1783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1783

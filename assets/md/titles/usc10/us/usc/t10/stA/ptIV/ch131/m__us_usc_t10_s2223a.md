@@ -45,6 +45,28 @@
 
 (Added [Pub. L. 111–383, div. A, title VIII, § 805(a)(1)][/us/pl/111/383/s805/a/1], Jan. 7, 2011, [124 Stat. 4259][/us/stat/124/4259].)
 
+ __Guidance on Acquisition of Business Systems__ 
+
+[Pub. L. 114–92, div. A, title VIII, § 883(e)][/us/pl/114/92/s883/e], Nov. 25, 2015, [129 Stat. 947][/us/stat/129/947], provided that: 
+
+> “The Secretary of Defense shall issue guidance for major automated information systems acquisition programs to promote the use of best acquisition, contracting, requirement development, systems engineering, program management, and sustainment practices, including—
+
+>     “(1) ensuring that an acquisition program baseline has been established within two years after program initiation;
+
+>     “(2) ensuring that program requirements have not changed in a manner that increases acquisition costs or delays the schedule, without sufficient cause and only after maximum efforts to reengineer business processes prior to changing requirements;
+
+>     “(3) policies to evaluate commercial off-the-shelf business systems for security, resilience, reliability, interoperability, and integration with existing interrelated systems where such system integration and interoperability are essential to Department of Defense operations;
+
+>     “(4) policies to work with commercial off-the-shelf business system developers and owners in adapting systems for Department of Defense use;
+
+>     “(5) policies to perform Department of Defense legacy system audits to determine which systems are related to or rely upon the system to be replaced or integrated with commercial off-the-shelf business systems;
+
+>     “(6) policies to perform full backup of systems that will be changed or replaced by the installation of commercial off-the-shelf business systems prior to installation and deployment to ensure reconstitution of the system to a functioning state should it become necessary;
+
+>     “(7) policies to engage the research and development activities and laboratories of the Department of Defense to improve acquisition outcomes; and
+
+>     “(8) policies to refine and improve developmental and operational testing of business processes that are supported by the major automated information systems.”
+
  __Modular Open Systems Approaches in Acquisition Programs__ 
 
 [Pub. L. 113–291, div. A, title VIII, § 801][/us/pl/113/291/s801], Dec. 19, 2014, [128 Stat. 3425][/us/stat/128/3425], provided that:
@@ -304,6 +326,8 @@
 
 [/us/pl/111/383/s805/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs805%2Fa%2F1
 [/us/stat/124/4259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4259
+[/us/pl/114/92/s883/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs883%2Fe
+[/us/stat/129/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F947
 [/us/pl/113/291/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs801
 [/us/stat/128/3425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3425
 [/us/usc/t40/s11101/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101%2F6

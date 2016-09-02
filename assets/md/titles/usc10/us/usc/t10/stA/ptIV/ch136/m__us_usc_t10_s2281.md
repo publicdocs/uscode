@@ -85,6 +85,40 @@
 
     1999—Subsec. (d)(1). [Pub. L. 106–65][/us/pl/106/65] substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
+ __Quarterly Reports on Global Positioning System III Space Segment, Global Positioning System Operational Control Segment, and Military Global Positioning System User Equipment Acquisition Programs__ 
+
+[Pub. L. 114–92, div. A, title XVI, § 1621][/us/pl/114/92/s1621], Nov. 25, 2015, [129 Stat. 1109][/us/stat/129/1109], provided that:
+
+>     “(a)  __Reports Required__  __.—__ 
+
+>     Not later than 90 days after the date of the enactment of this Act \[Nov. 25, 2015\], and every 90 days thereafter, the Secretary of the Air Force shall submit to the Comptroller General of the United States a report and supporting documentation on the Global Positioning System III space segment, the Global Positioning System operational control segment, and the Military Global Positioning System user equipment acquisition programs.
+
+>     “(b)  __Elements__  __.—__ 
+
+>     Each report required by subsection (a) shall include, with respect to an acquisition program specified in that subsection, the following:
+
+>         “(1) A statement of the status of the program with respect to cost, schedule, and performance.
+
+>         “(2) A description of any changes to the requirements of the program.
+
+>         “(3) A description of any technical risks impacting the cost, schedule, and performance of the program.
+
+>         “(4) An assessment of how such risks are to be addressed and the costs associated with such risks.
+
+>         “(5) An assessment of the extent to which the segments of the program are synchronized.
+
+>     “(c)  __Briefings by Comptroller General__  __.—__ 
+
+>     The Comptroller General shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on a report submitted under subsection (a)—
+
+>         “(1) in the case of the first such report, not later than 30 days after receiving that report; and
+
+>         “(2) as the Comptroller General considers appropriate thereafter.
+
+>     “(d)  __Termination__  __.—__ 
+
+>     The requirement under subsection (a) shall terminate with respect to an acquisition program specified in that subsection on the date on which that program reaches initial operational capability.”
+
  __Limitation on Construction on United States Territory of Satellite Positioning Ground Monitoring Stations of Foreign Governments__ 
 
 [Pub. L. 113–66, div. A, title XVI, § 1602(b)][/us/pl/113/66/s1602/b], Dec. 26, 2013, [127 Stat. 943][/us/stat/127/943], provided that:
@@ -157,7 +191,7 @@
 
  __Limitation on Use of Funds for Purchasing Global Positioning System User Equipment__ 
 
-[Pub. L. 111–383, div. A, title IX, § 913][/us/pl/111/383/s913], Jan. 7, 2011, [124 Stat. 4328][/us/stat/124/4328], provided that:
+[Pub. L. 111–383, div. A, title IX, § 913][/us/pl/111/383/s913], Jan. 7, 2011, [124 Stat. 4328][/us/stat/124/4328], as amended by [Pub. L. 114–92, div. A, title XVI, § 1605][/us/pl/114/92/s1605], Nov. 25, 2015, [129 Stat. 1099][/us/stat/129/1099], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -173,7 +207,11 @@
 
 >         “(1) suitable user equipment capable of receiving the military code from the Global Positioning System is not available; or
 
->         “(2) with respect to a purchase of user equipment, the Department of Defense does not require that user equipment to be capable of receiving the military code from the Global Positioning System.”
+>         “(2) with respect to a purchase of user equipment, the Department of Defense does not require that user equipment to be capable of receiving the military code from the Global Positioning System.
+
+>     “(d)  __Limitation on Delegation of Waiver Authority__  __.—__ 
+
+>     The Secretary of Defense may not delegate the authority to make a waiver under subsection (c) to an official below the level of the Secretaries of the military departments or the Under Secretary of Defense for Acquisition, Technology, and Logistics.”
 
  __Authorization of Interagency Support for Global Positioning System__ 
 
@@ -331,12 +369,16 @@
 [/us/pl/108/136/s914/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs914%2Fa%2F4
 [/us/pl/108/136/s914/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs914%2Fb
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
+[/us/pl/114/92/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1621
+[/us/stat/129/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1109
 [/us/pl/113/66/s1602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1602%2Fb
 [/us/stat/127/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F943
 [/us/pl/112/10/s8068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs8068
 [/us/stat/125/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F73
 [/us/pl/111/383/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs913
 [/us/stat/124/4328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4328
+[/us/pl/114/92/s1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1605
+[/us/stat/129/1099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1099
 [/us/pl/106/405/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F405%2Fs8
 [/us/stat/114/1753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1753
 [/us/pl/109/364/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs911

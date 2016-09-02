@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptIV/ch631/m__us_usc_t10_s7233.1.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIV/ch633/m__us_usc_t10_stC_ptIV_ch633.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7234)
+[Previous](./../../../../../..//us/usc/t10/stC/ptIV/ch631/m__us_usc_t10_s7233.1.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIV/ch631/m__us_usc_t10_s7235.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7234)
 
 ## § 7234. Submarine safety programs: participation of NATO naval personnel
 
@@ -63,7 +63,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stC/ptIV/ch631/m__us_usc_t10_s7233.1.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIV/ch633/m__us_usc_t10_stC_ptIV_ch633.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7234)
+[Previous](./../../../../../..//us/usc/t10/stC/ptIV/ch631/m__us_usc_t10_s7233.1.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIV/ch631/m__us_usc_t10_s7235.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7234)
 
 ----------
 ----------

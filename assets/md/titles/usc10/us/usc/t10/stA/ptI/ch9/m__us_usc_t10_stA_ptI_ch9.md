@@ -73,17 +73,9 @@
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs226" data-uslm-ref="/us/usc/t10/s226">226</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs227" data-uslm-ref="/us/usc/t10/s227">227.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs226" data-uslm-ref="/us/usc/t10/s226">226</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs228" data-uslm-ref="/us/usc/t10/s228">228.</a>  </td>
 
     <td> Repealed.]  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs228" data-uslm-ref="/us/usc/t10/s228">228.</a>  </td>
-
-    <td> Biannual reports on allocation of funds within operation and maintenance budget subactivities.  </td>
 
   </tr>
 
@@ -175,9 +167,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs239" data-uslm-ref="/us/usc/t10/s239">239.</a>  </td>
+
+    <td> National security space programs: major force program and budget assessment.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    [Pub. L. 114–92, div. A, title X, § 1073(a)(2)][/us/pl/114/92/s1073/a/2], title XVI, § 1601(a)(2), Nov. 25, 2015, [129 Stat. 995][/us/stat/129/995], 1096, struck out item 228 “Biannual reports on allocation of funds within operation and maintenance budget subactivities” and added item 239.
 
     2014—[Pub. L. 113–291, div. A, title XVI, § 1631(a)(2)][/us/pl/113/291/s1631/a/2], Dec. 19, 2014, [128 Stat. 3638][/us/stat/128/3638], added item 238.
 
@@ -226,6 +228,8 @@
 ----------
 ----------
 
+[/us/pl/114/92/s1073/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1073%2Fa%2F2
+[/us/stat/129/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F995
 [/us/pl/113/291/s1631/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1631%2Fa%2F2
 [/us/stat/128/3638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3638
 [/us/pl/113/66/s141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs141%2Fb

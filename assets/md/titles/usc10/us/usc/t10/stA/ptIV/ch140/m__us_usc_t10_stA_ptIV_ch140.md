@@ -63,9 +63,27 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2380" data-uslm-ref="/us/usc/t10/s2380">2380.</a>  </td>
+
+    <td> Commercial item determinations by Department of Defense.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2380A" data-uslm-ref="/us/usc/t10/s2380A">2380A.</a>  </td>
+
+    <td> Treatment of goods and services provided by nontraditional defense contractors as commercial items.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92], §§ 851(a)(2), 857(b), Nov. 25, 2015, [129 Stat. 916][/us/stat/129/916], 921, added items 2380 and 2380A.
 
     2006—[Pub. L. 109–163, div. A, title VIII, § 803(a)(2)][/us/pl/109/163/s803/a/2], Jan. 6, 2006, [119 Stat. 3371][/us/stat/119/3371], added item 2379.
 
@@ -78,6 +96,8 @@
 ----------
 ----------
 
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F916
 [/us/pl/109/163/s803/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs803%2Fa%2F2
 [/us/stat/119/3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3371
 [/us/pl/105/85/s350/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs350%2Fb

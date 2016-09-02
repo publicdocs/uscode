@@ -979,6 +979,10 @@ Sept. 3, 1954, ch. 1257, § 102(6), 68 Stat. 1150.  </td>
 
  __Coordination of Certain Sections of an Act With Other Provisions of That Act__ 
 
+[Pub. L. 114–92, div. A, title X, § 1081(e)][/us/pl/114/92/s1081/e], Nov. 25, 2015, [129 Stat. 1002][/us/stat/129/1002], provided that: 
+
+> “For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.”
+
 [Pub. L. 113–291, div. A, title X, § 1071(k)][/us/pl/113/291/s1071/k], Dec. 19, 2014, [128 Stat. 3512][/us/stat/128/3512], provided that: 
 
 > “For purposes of applying amendments made by provisions of this Act other than this section \[see Tables for classification\], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.
@@ -1012,6 +1016,8 @@ Sept. 3, 1954, ch. 1257, § 102(6), 68 Stat. 1150.  </td>
  __Congressional Defense Committees Defined__ 
 
 The following provisions provided that the term “congressional defense committees” for purposes of the Acts in which they were contained has the meaning given that term in subsec. (a)(16) of this section:
+
+    [Pub. L. 114–92, § 3][/us/pl/114/92/s3], Nov. 25, 2015, [129 Stat. 745][/us/stat/129/745].
 
     [Pub. L. 113–291, § 3][/us/pl/113/291/s3], Dec. 19, 2014, [128 Stat. 3312][/us/stat/128/3312].
 
@@ -1382,6 +1388,8 @@ The following provisions provided that the term “congressional defense committ
 [/us/stat/94/2955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2955
 [/us/usc/t33/s3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3071
 [/us/usc/t42/s213a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs213a
+[/us/pl/114/92/s1081/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fe
+[/us/stat/129/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1002
 [/us/pl/113/291/s1071/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fk
 [/us/stat/128/3512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3512
 [/us/pl/113/66/s1091/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Ff
@@ -1411,6 +1419,8 @@ The following provisions provided that the term “congressional defense committ
 [/us/stat/107/1774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1774
 [/us/pl/102/484/s1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs1055
 [/us/stat/106/2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2503
+[/us/pl/114/92/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs3
+[/us/stat/129/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F745
 [/us/pl/113/291/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs3
 [/us/stat/128/3312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3312
 [/us/pl/113/66/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3

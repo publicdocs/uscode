@@ -179,9 +179,9 @@ PART I—ORGANIZATION AND GENERAL MILITARY POWERS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch19" data-uslm-ref="/us/usc/t10/stA/ptI/ch19">19.</a>  </td>
 
-    <td> Cyber matters  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be “Matters”. </sup></sup>   </td>
+    <td> Cyber Matters  </td>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs391" data-uslm-ref="/us/usc/t10/s391">391</a>  </td>
+    <td>   </td>
 
   </tr>
 
@@ -1201,6 +1201,8 @@ PART IV—SERVICE, SUPPLY, AND PROCUREMENT  </td>
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–92, div. A, title X, § 1081(a)(1)][/us/pl/114/92/s1081/a/1], Nov. 25, 2015, [129 Stat. 1000][/us/stat/129/1000], substituted “Cyber Matters” for “Cyber matters” in item for chapter 19.
+
     2014—[Pub. L. 113–291, div. A, title XVI, § 1632(d)][/us/pl/113/291/s1632/d], Dec. 19, 2014, [128 Stat. 3640][/us/stat/128/3640], added item for chapter 19.
 
     2013—[Pub. L. 113–66, div. A, title X, § 1091(a)(1)][/us/pl/113/66/s1091/a/1], Dec. 26, 2013, [127 Stat. 875][/us/stat/127/875], substituted “Nuclear Posture” for “Nuclear posture” in item for chapter 24.
@@ -1322,6 +1324,8 @@ PART IV—SERVICE, SUPPLY, AND PROCUREMENT  </td>
 ----------
 ----------
 
+[/us/pl/114/92/s1081/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F1
+[/us/stat/129/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1000
 [/us/pl/113/291/s1632/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1632%2Fd
 [/us/stat/128/3640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3640
 [/us/pl/113/66/s1091/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fa%2F1

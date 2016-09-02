@@ -155,7 +155,7 @@
 
  __Increase in Number of Units of Junior Reserve Officers’ Training Corps__ 
 
-[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 548, Oct. 14, 2008, [122 Stat. 4466][/us/stat/122/4466], as amended by [Pub. L. 112–239, div. A, title V, § 553][/us/pl/112/239/s553], Jan. 2, 2013, [126 Stat. 1742][/us/stat/126/1742], provided that:
+[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 548, Oct. 14, 2008, [122 Stat. 4466][/us/stat/122/4466], as amended by [Pub. L. 112–239, div. A, title V, § 553][/us/pl/112/239/s553], Jan. 2, 2013, [126 Stat. 1742][/us/stat/126/1742]; [Pub. L. 114–92, div. A, title X, § 1072(c)][/us/pl/114/92/s1072/c], Nov. 25, 2015, [129 Stat. 995][/us/stat/129/995], provided that:
 
 >     “(a)  __Plan for Increase__  __.—__ 
 
@@ -189,11 +189,7 @@
 
 >         “(5) Efforts to increase distribution of units in educationally and economically deprived areas.
 
->         “(6) Efforts to enhance employment opportunities for qualified former military members retired for disability, especially those wounded while deployed in a contingency operation.
-
->     “(e)  __Time for Submission__  __.—__ 
-
->     Not later than March 31, 2013, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a revised plan under subsection (a) to reflect amendments made to subsections (a) and (b) during fiscal year 2013 and a new report under subsection (d) to address the revised plan. The Secretary shall submit an updated report not later than March 31 of each of 2015, 2018, and 2020.”
+>         “(6) Efforts to enhance employment opportunities for qualified former military members retired for disability, especially those wounded while deployed in a contingency operation.”
 
  __Expansion of Junior Reserve Officers’ Training Corps Program__ 
 
@@ -284,6 +280,8 @@
 [/us/stat/122/4466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4466
 [/us/pl/112/239/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs553
 [/us/stat/126/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1742
+[/us/pl/114/92/s1072/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1072%2Fc
+[/us/stat/129/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F995
 [/us/pl/109/364/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs541
 [/us/stat/120/2212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2212
 [/us/pl/96/342/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F342%2Fs602

@@ -45,27 +45,13 @@
 
             (B) Subject to paragraph (4), not later than 30 days after the end of the first quarter of each fiscal year, the head of each military department and Defense Agency shall remit to the Secretary of Defense, from amounts available to such military department or Defense Agency, as the case may be, for contract services for operation and maintenance, an amount equal to the applicable percentage for such fiscal year of the amount expended by such military department or Defense Agency, as the case may be, during such fiscal year for services covered by subparagraph (A). Any amount so remitted shall be credited to the Fund under subparagraph (A).
 
-            (C)
+            (C) For purposes of this paragraph, the applicable percentage for a fiscal year is the percentage that results in the credit to the Fund of $500,000,000 in each fiscal year.
 
-             For purposes of this paragraph, the applicable percentage for a fiscal year is the percentage that results in the credit to the Fund in such fiscal year of an amount as follows:
-
-                (i) For fiscal year 2013, $500,000,000.
-
-                (ii) For fiscal year 2014, $800,000,000.
-
-                (iii) For fiscal year 2015, $700,000,000.
-
-                (iv) For fiscal year 2016, $600,000,000.
-
-                (v) For fiscal year 2017, $500,000,000.
-
-                (vi) For fiscal year 2018, $400,000,000.
-
-            (D) The Secretary of Defense may reduce an amount specified in subparagraph (C) for a fiscal year if the Secretary determines that the amount is greater than is reasonably needed for purposes of the Fund for such fiscal year. The Secretary may not reduce the amount for a fiscal year to an amount that is less than 80 percent of the amount otherwise specified in subparagraph (C) for such fiscal year.
+            (D) The Secretary of Defense may reduce the amount specified in subparagraph (C) for a fiscal year if the Secretary determines that the amount is greater than is reasonably needed for purposes of the Fund for such fiscal year. The Secretary may not reduce the amount for a fiscal year to an amount that is less than $400,000,000.
 
         (3)  __Transfer of certain unobligated balances__  __.—__ 
 
-        To the extent provided in appropriations Acts, the Secretary of Defense may, during the 24-month period following the expiration of availability for obligation of any appropriations made to the Department of Defense for procurement, research, development, test, and evaluation, or operation and maintenance, transfer to the Fund any unobligated balance of such appropriations. Any amount so transferred shall be credited to the Fund.
+        To the extent provided in appropriations Acts, the Secretary of Defense may, during the 36-month period following the expiration of availability for obligation of any appropriations made to the Department of Defense for procurement, research, development, test, and evaluation, or operation and maintenance, transfer to the Fund any unobligated balance of such appropriations. Any amount so transferred shall be credited to the Fund.
 
         (4)  __Additional requirements and limitations on remittances__  __.—__ 
 
@@ -117,7 +103,7 @@
 
     (f)  __Annual Report__  __.—__ 
 
-    Not later than 60 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees a report on the operation of the Fund during such fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
+    Not later than 120 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees a report on the operation of the Fund during such fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
 
         (1) A statement of the amounts remitted to the Secretary for crediting to the Fund for such fiscal year by each military department and Defense Agency, and a statement of the amounts credited to the Fund for such fiscal year.
 
@@ -129,17 +115,13 @@
 
         (5) A statement of the balance remaining in the Fund at the end of such fiscal year.
 
-    (g) __Expedited Hiring Authority.—__ 
+    (g)  __Expedited Hiring Authority__  __.—__ 
 
-        (1)
+    For purposes of sections 3304, 5333, and 5753 of title 5, the Secretary of Defense may—
 
-         For purposes of sections 3304, 5333, and 5753 of title 5, the Secretary of Defense may—
+        (1) designate any category of of  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  positions in the acquisition workforce, as defined in subsection (h), as positions for which there exists a shortage of candidates or there is a critical hiring need; and
 
-            (A) designate any category of acquisition workforce positions as positions for which there exists a shortage of candidates or there is a critical hiring need; and
-
-            (B) utilize the authorities in such sections to recruit and appoint qualified persons directly to positions so designated.
-
-        (2) The Secretary may not appoint a person to a position of employment under this subsection after September 30, 2017.
+        (2) utilize the authorities in such sections to recruit and appoint qualified persons directly to positions so designated.
 
     (h)  __Acquisition Workforce Defined__  __.—__ 
 
@@ -155,13 +137,23 @@
 
             (B) are designated as temporary members of the acquisition workforce by the Under Secretary of Defense for Acquisition, Technology, and Logistics, or by the senior acquisition executive of a military department, for the limited purpose of receiving training for the performance of acquisition-related functions and duties.
 
-(Added [Pub. L. 110–181, div. A, title VIII, § 852(a)(1)][/us/pl/110/181/s852/a/1], Jan. 28, 2008, [122 Stat. 248][/us/stat/122/248]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 833, Oct. 14, 2008, [122 Stat. 4535][/us/stat/122/4535]; [Pub. L. 111–84, div. A, title VIII][/us/pl/111/84], §§ 831, 832(a)–(g), Oct. 28, 2009, [123 Stat. 2414][/us/stat/123/2414], 2415; [Pub. L. 112–81, div. A, title VIII, § 804(a)][/us/pl/112/81/s804/a], Dec. 31, 2011, [125 Stat. 1486][/us/stat/125/1486]; [Pub. L. 112–239, div. A, title VIII, § 803(a)][/us/pl/112/239/s803/a], (b), Jan. 2, 2013, [126 Stat. 1825][/us/stat/126/1825].)
+(Added [Pub. L. 110–181, div. A, title VIII, § 852(a)(1)][/us/pl/110/181/s852/a/1], Jan. 28, 2008, [122 Stat. 248][/us/stat/122/248]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 833, Oct. 14, 2008, [122 Stat. 4535][/us/stat/122/4535]; [Pub. L. 111–84, div. A, title VIII][/us/pl/111/84], §§ 831, 832(a)–(g), Oct. 28, 2009, [123 Stat. 2414][/us/stat/123/2414], 2415; [Pub. L. 112–81, div. A, title VIII, § 804(a)][/us/pl/112/81/s804/a], Dec. 31, 2011, [125 Stat. 1486][/us/stat/125/1486]; [Pub. L. 112–239, div. A, title VIII, § 803(a)][/us/pl/112/239/s803/a], (b), Jan. 2, 2013, [126 Stat. 1825][/us/stat/126/1825]; [Pub. L. 114–92, div. A, title VIII, § 841(a)][/us/pl/114/92/s841/a], Nov. 25, 2015, [129 Stat. 913][/us/stat/129/913].)
 
  __Prior Provisions__ 
 
     A prior section 1705, added [Pub. L. 101–510, div. A, title XII, § 1202(a)][/us/pl/101/510/s1202/a], Nov. 5, 1990, [104 Stat. 1639][/us/stat/104/1639], related to Directors of Acquisition Career Management in the military departments, prior to repeal by [Pub. L. 108–136, div. A, title VIII, § 831(a)][/us/pl/108/136/s831/a], Nov. 24, 2003, [117 Stat. 1549][/us/stat/117/1549].
 
  __Amendments__ 
+
+    2015—Subsec. (d)(2)(C). [Pub. L. 114–92, § 841(a)(1)(A)][/us/pl/114/92/s841/a/1/A], amended subpar. (C) generally. Prior to amendment, subpar. (C) defined the applicable percentage for fiscal years 2013 to 2018.
+
+    Subsec. (d)(2)(D). [Pub. L. 114–92, § 841(a)(1)(B)][/us/pl/114/92/s841/a/1/B], substituted “the amount specified in subparagraph (C)” for “an amount specified in subparagraph (C)” and “an amount that is less than $400,000,000.” for “an amount that is less than 80 percent of the amount otherwise specified in subparagraph (C) for such fiscal year.”
+
+    Subsec. (d)(3). [Pub. L. 114–92, § 841(a)(1)(C)][/us/pl/114/92/s841/a/1/C], substituted “36-month period” for “24-month period”.
+
+    Subsec. (f). [Pub. L. 114–92, § 841(a)(2)][/us/pl/114/92/s841/a/2], substituted “120 days” for “60 days” in introductory provisions.
+
+    Subsec. (g). [Pub. L. 114–92, § 841(a)(3)][/us/pl/114/92/s841/a/3], struck out par. (1) designation before “For purposes of”; redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and realigned margins; substituted “of positions in the acquisition workforce, as defined in subsection (h),” for “acquisition workforce positions” in par. (1); and struck out former par. (2) which read as follows: “The Secretary may not appoint a person to a position of employment under this subsection after September 30, 2017.”
 
     2013—Subsec. (d)(2)(C). [Pub. L. 112–239, § 803(a)(1)][/us/pl/112/239/s803/a/1], added cls. (i) to (vi) and struck out former cls. (i) to (vi) which established applicable amounts for fiscal years 2010 to 2015.
 
@@ -255,10 +247,17 @@
 [/us/stat/125/1486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1486
 [/us/pl/112/239/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs803%2Fa
 [/us/stat/126/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1825
+[/us/pl/114/92/s841/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs841%2Fa
+[/us/stat/129/913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F913
 [/us/pl/101/510/s1202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1202%2Fa
 [/us/stat/104/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1639
 [/us/pl/108/136/s831/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs831%2Fa
 [/us/stat/117/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1549
+[/us/pl/114/92/s841/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs841%2Fa%2F1%2FA
+[/us/pl/114/92/s841/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs841%2Fa%2F1%2FB
+[/us/pl/114/92/s841/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs841%2Fa%2F1%2FC
+[/us/pl/114/92/s841/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs841%2Fa%2F2
+[/us/pl/114/92/s841/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs841%2Fa%2F3
 [/us/pl/112/239/s803/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs803%2Fa%2F1
 [/us/pl/112/239/s803/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs803%2Fa%2F2%2FA
 [/us/pl/112/239/s803/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs803%2Fa%2F2%2FB

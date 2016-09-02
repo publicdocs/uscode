@@ -65,6 +65,8 @@
 
         (2) The Secretary of Defense, with the approval of the President and after consultation with the Chairman of the Joint Chiefs of Staff, shall provide to the Chairman written policy guidance for the preparation and review of contingency plans, including plans for providing support to civil authorities in an incident of national significance or a catastrophic incident, for homeland defense, and for military support to civil authorities. Such guidance shall be provided every two years or more frequently as needed and shall include guidance on the specific force levels and specific supporting resource levels projected to be available for the period of time for which such plans are to be effective.
 
+        (3) At the time of the budget submission by the President for a fiscal year, the Secretary of Defense shall include in the budget materials submitted to Congress for that year summaries of the guidance developed under paragraphs (1) and (2), as well as summaries of any plans developed in accordance with the guidance developed under paragraph (2). Such summaries shall be sufficient to allow the congressional defense committees to evaluate fully the requirements for military forces, acquisition programs, and operation and maintenance funding in the President’s annual budget request for the Department of Defense.
+
     (h) The Secretary of Defense shall keep the Secretaries of the military departments informed with respect to military operations and activities of the Department of Defense that directly affect their respective responsibilities.
 
     (i)
@@ -139,7 +141,7 @@
 
         (2) What the President has identified on the basis of those objectives as the date, or the set of conditions, that defines the endpoint of the operation.
 
-(Added [Pub. L. 87–651, title II, § 202][/us/pl/87/651/s202], Sept. 7, 1962, [76 Stat. 517][/us/stat/76/517], § 133; amended [Pub. L. 96–513, title V, § 511(3)][/us/pl/96/513/s511/3], Dec. 12, 1980, [94 Stat. 2920][/us/stat/94/2920]; [Pub. L. 97–252, title XI, § 1105][/us/pl/97/252/s1105], Sept. 8, 1982, [96 Stat. 739][/us/stat/96/739]; [Pub. L. 97–295, § 1(1)][/us/pl/97/295/s1/1], Oct. 12, 1982, [96 Stat. 1287][/us/stat/96/1287]; renumbered § 113 and amended [Pub. L. 99–433, title I][/us/pl/99/433], §§ 101(a)(2), 102, 110(b)(2), (d)(2), title III, § 301(b)(2), title VI, § 603(b), Oct. 1, 1986, [100 Stat. 994][/us/stat/100/994], 996, 1002, 1022, 1075; [Pub. L. 100–26, § 7(d)(1)][/us/pl/100/26/s7/d/1], Apr. 21, 1987, [101 Stat. 280][/us/stat/101/280]; [Pub. L. 100–180, div. A, title XII, § 1214][/us/pl/100/180/s1214], Dec. 4, 1987, [101 Stat. 1157][/us/stat/101/1157]; [Pub. L. 100–370, § 1][/us/pl/100/370/s1](o)(1), July 19, 1988, [102 Stat. 850][/us/stat/102/850]; [Pub. L. 100–456, div. A, title VII, § 731][/us/pl/100/456/s731], title XI, § 1101, Sept. 29, 1988, [102 Stat. 2003][/us/stat/102/2003], 2042; [Pub. L. 101–189, div. A, title XVI, § 1622(c)(1)][/us/pl/101/189/s1622/c/1], Nov. 29, 1989, [103 Stat. 1604][/us/stat/103/1604]; [Pub. L. 101–510, div. A, title XIII, § 1322(a)(1)][/us/pl/101/510/s1322/a/1], Nov. 5, 1990, [104 Stat. 1671][/us/stat/104/1671]; [Pub. L. 102–190, div. A, title III, § 341][/us/pl/102/190/s341], Dec. 5, 1991, [105 Stat. 1343][/us/stat/105/1343]; [Pub. L. 103–337, div. A, title X, § 1070(a)(1)][/us/pl/103/337/s1070/a/1], title XVI, § 1671(c)(2), Oct. 5, 1994, [108 Stat. 2855][/us/stat/108/2855], 3014; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106], §§ 1501(a)(8)(B), 1502(a)(3), 1503(a)(1), Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495], 502, 510; [Pub. L. 104–201, div. A, title XII, § 1255(c)][/us/pl/104/201/s1255/c], Sept. 23, 1996, [110 Stat. 2698][/us/stat/110/2698]; [Pub. L. 105–85, div. A, title IX, § 903][/us/pl/105/85/s903], Nov. 18, 1997, [111 Stat. 1854][/us/stat/111/1854]; [Pub. L. 105–261, div. A, title IX, § 915(a)][/us/pl/105/261/s915/a], title XII, § 1212(b), Oct. 17, 1998, [112 Stat. 2101][/us/stat/112/2101], 2152; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 110–181, div. A, title IX, § 903(a)][/us/pl/110/181/s903/a], title XVIII, § 1815(e), Jan. 28, 2008, [122 Stat. 273][/us/stat/122/273], 500; [Pub. L. 111–383, div. A, title V, § 514(b)][/us/pl/111/383/s514/b], Jan. 7, 2011, [124 Stat. 4213][/us/stat/124/4213]; [Pub. L. 112–81, div. A, title IX, § 933(a)][/us/pl/112/81/s933/a], title X, § 1064(1), Dec. 31, 2011, [125 Stat. 1543][/us/stat/125/1543], 1586; [Pub. L. 112–239, div. A, title X, § 1076(f)(1)][/us/pl/112/239/s1076/f/1], Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951]; [Pub. L. 113–291, div. A, title X, § 1071(c)(1)][/us/pl/113/291/s1071/c/1], (2), Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508].)
+(Added [Pub. L. 87–651, title II, § 202][/us/pl/87/651/s202], Sept. 7, 1962, [76 Stat. 517][/us/stat/76/517], § 133; amended [Pub. L. 96–513, title V, § 511(3)][/us/pl/96/513/s511/3], Dec. 12, 1980, [94 Stat. 2920][/us/stat/94/2920]; [Pub. L. 97–252, title XI, § 1105][/us/pl/97/252/s1105], Sept. 8, 1982, [96 Stat. 739][/us/stat/96/739]; [Pub. L. 97–295, § 1(1)][/us/pl/97/295/s1/1], Oct. 12, 1982, [96 Stat. 1287][/us/stat/96/1287]; renumbered § 113 and amended [Pub. L. 99–433, title I][/us/pl/99/433], §§ 101(a)(2), 102, 110(b)(2), (d)(2), title III, § 301(b)(2), title VI, § 603(b), Oct. 1, 1986, [100 Stat. 994][/us/stat/100/994], 996, 1002, 1022, 1075; [Pub. L. 100–26, § 7(d)(1)][/us/pl/100/26/s7/d/1], Apr. 21, 1987, [101 Stat. 280][/us/stat/101/280]; [Pub. L. 100–180, div. A, title XII, § 1214][/us/pl/100/180/s1214], Dec. 4, 1987, [101 Stat. 1157][/us/stat/101/1157]; [Pub. L. 100–370, § 1][/us/pl/100/370/s1](o)(1), July 19, 1988, [102 Stat. 850][/us/stat/102/850]; [Pub. L. 100–456, div. A, title VII, § 731][/us/pl/100/456/s731], title XI, § 1101, Sept. 29, 1988, [102 Stat. 2003][/us/stat/102/2003], 2042; [Pub. L. 101–189, div. A, title XVI, § 1622(c)(1)][/us/pl/101/189/s1622/c/1], Nov. 29, 1989, [103 Stat. 1604][/us/stat/103/1604]; [Pub. L. 101–510, div. A, title XIII, § 1322(a)(1)][/us/pl/101/510/s1322/a/1], Nov. 5, 1990, [104 Stat. 1671][/us/stat/104/1671]; [Pub. L. 102–190, div. A, title III, § 341][/us/pl/102/190/s341], Dec. 5, 1991, [105 Stat. 1343][/us/stat/105/1343]; [Pub. L. 103–337, div. A, title X, § 1070(a)(1)][/us/pl/103/337/s1070/a/1], title XVI, § 1671(c)(2), Oct. 5, 1994, [108 Stat. 2855][/us/stat/108/2855], 3014; [Pub. L. 104–106, div. A, title XV][/us/pl/104/106], §§ 1501(a)(8)(B), 1502(a)(3), 1503(a)(1), Feb. 10, 1996, [110 Stat. 495][/us/stat/110/495], 502, 510; [Pub. L. 104–201, div. A, title XII, § 1255(c)][/us/pl/104/201/s1255/c], Sept. 23, 1996, [110 Stat. 2698][/us/stat/110/2698]; [Pub. L. 105–85, div. A, title IX, § 903][/us/pl/105/85/s903], Nov. 18, 1997, [111 Stat. 1854][/us/stat/111/1854]; [Pub. L. 105–261, div. A, title IX, § 915(a)][/us/pl/105/261/s915/a], title XII, § 1212(b), Oct. 17, 1998, [112 Stat. 2101][/us/stat/112/2101], 2152; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 110–181, div. A, title IX, § 903(a)][/us/pl/110/181/s903/a], title XVIII, § 1815(e), Jan. 28, 2008, [122 Stat. 273][/us/stat/122/273], 500; [Pub. L. 111–383, div. A, title V, § 514(b)][/us/pl/111/383/s514/b], Jan. 7, 2011, [124 Stat. 4213][/us/stat/124/4213]; [Pub. L. 112–81, div. A, title IX, § 933(a)][/us/pl/112/81/s933/a], title X, § 1064(1), Dec. 31, 2011, [125 Stat. 1543][/us/stat/125/1543], 1586; [Pub. L. 112–239, div. A, title X, § 1076(f)(1)][/us/pl/112/239/s1076/f/1], Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951]; [Pub. L. 113–291, div. A, title X, § 1071(c)(1)][/us/pl/113/291/s1071/c/1], (2), Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508]; [Pub. L. 114–92, div. A, title X, § 1060(a)][/us/pl/114/92/s1060/a], Nov. 25, 2015, [129 Stat. 987][/us/stat/129/987].)
 
 <table>
 
@@ -359,6 +361,8 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
  __Amendments__ 
 
+    2015—Subsec. (g)(3). [Pub. L. 114–92][/us/pl/114/92] added par. (3).
+
     2014—Subsec. (b). [Pub. L. 113–291, § 1071(c)(1)][/us/pl/113/291/s1071/c/1], substituted “([50 U.S.C. 3002][/us/usc/t50/s3002])” for “([50 U.S.C. 401][/us/usc/t50/s401])”.
 
     Subsec. (e)(2). [Pub. L. 113–291, § 1071(c)(2)][/us/pl/113/291/s1071/c/2], substituted “([50 U.S.C. 3043][/us/usc/t50/s3043])” for “([50 U.S.C. 404a][/us/usc/t50/s404a])”.
@@ -469,15 +473,85 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
     For order of succession during any period when the Secretary has died, resigned, or is otherwise unable to perform the functions and duties of the office of Secretary, see Ex. Ord. No. 13533, Mar. 1, 2010, 75 F.R. 10163, listed in a table under [section 3345 of Title 5][/us/usc/t5/s3345], Government Organization and Employees.
 
+ __Strategic Framework for Department of Defense Security Cooperation__ 
+
+[Pub. L. 114–92, div. A, title XII, § 1202][/us/pl/114/92/s1202], Nov. 25, 2015, [129 Stat. 1036][/us/stat/129/1036], provided that:
+
+>     “(a) __Strategic Framework.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary of Defense, in consultation with the Secretary of State, shall develop and issue to the Department of Defense a strategic framework for Department of Defense security cooperation to guide prioritization of resources and activities.
+
+>         “(2)  __Elements__  __.—__ 
+
+>         The strategic framework required by paragraph (1) shall include the following:
+
+>             “(A)
+
+>              Discussion of the strategic goals of Department of Defense security cooperation programs, overall and by combatant command, and the extent to which these programs—
+
+>                 “(i) support broader strategic priorities of the Department of Defense; and
+
+>                 “(ii) complement and are coordinated with Department of State security assistance programs to achieve United States Government goals globally, regionally, and, if appropriate, within specific programs.
+
+>             “(B) Identification of the primary objectives, priorities, and desired end-states of Department of Defense security cooperation programs.
+
+>             “(C)
+
+>              Identification of challenges to achieving the primary objectives, priorities, and desired end-states identified under subparagraph (B), including—
+
+>                 “(i) constraints on Department of Defense resources, authorities, and personnel;
+
+>                 “(ii) partner nation variables and conditions, such as political will, absorptive capacity, corruption, and instability risk, that impact the likelihood of a security cooperation program achieving its primary objectives, priorities, and desired end-states;
+
+>                 “(iii) constraints or limitations due to bureaucratic impediments, interagency processes, or congressional requirements;
+
+>                 “(iv) validation of requirements; and
+
+>                 “(v) assessment, monitoring, and evaluation.
+
+>             “(D) A methodology for assessing the effectiveness of Department of Defense security cooperation programs in making progress toward achieving the primary objectives, priorities, and desired end-states identified under subparagraph (B), including an identification of key benchmarks for such progress.
+
+>             “(E) Any other matters the Secretary of Defense determines appropriate.
+
+>         “(3)  __Frequency__  __.—__ 
+
+>         The Secretary of Defense shall, at a minimum, update the strategic framework required by paragraph (1) on a biennial basis and shall update or supplement the strategic framework as appropriate to address emerging priorities.
+
+>     “(b) __Report.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], and on a biennial basis thereafter, the Secretary of Defense, in consultation with the Secretary of State, shall submit to the appropriate congressional committees a report on the strategic framework required by subsection (a).
+
+>         “(2)  __Form__  __.—__ 
+
+>         The report required by paragraph (1) shall be submitted in an unclassified form, but may include a classified annex.
+
+>         “(3)  __Definition__  __.—__ 
+
+>         In this subsection, the term ‘appropriate congressional committees’ means—
+
+>             “(A) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+
+>             “(B) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+>     “(c)  __Sunset__  __.—__ 
+
+>     This section shall cease to be effective on the date that is 6 years after the date of the enactment of this Act.”
+
  __Role of Secretary of Defense in Development of Gender-Neutral Occupational Standards__ 
 
-[Pub. L. 113–291, div. A, title V, § 524(a)][/us/pl/113/291/s524/a], Dec. 19, 2014, [128 Stat. 3361][/us/stat/128/3361], provided that: 
+[Pub. L. 113–291, div. A, title V, § 524(a)][/us/pl/113/291/s524/a], Dec. 19, 2014, [128 Stat. 3361][/us/stat/128/3361], as amended by [Pub. L. 114–92, div. A, title V, § 525][/us/pl/114/92/s525], Nov. 25, 2015, [129 Stat. 813][/us/stat/129/813], provided that: 
 
 > “The Secretary of Defense shall ensure that the gender-neutral occupational standards being developed by the Secretaries of the military departments pursuant to section 543 of the National Defense Authorization Act for Fiscal Year 1994 ([Public Law 103–160][/us/pl/103/160]; [10 U.S.C. 113][/us/usc/t10/s113] note), as amended by section 523 of the National Defense Authorization Act for Fiscal Year 2014 ([Public Law 113–66][/us/pl/113/66]; [127 Stat. 756][/us/stat/127/756])—
 
->     “(1) accurately predict performance of actual, regular, and recurring duties of a military occupation; and
+>     “(1) accurately predict performance of actual, regular, and recurring duties of a military occupation;
 
->     “(2) are applied equitably to measure individual capabilities.”
+>     “(2) are applied equitably to measure individual capabilities; and
+
+>     “(3) measure the combat readiness of combat units, including special operations forces.”
 
  __Female Personal Protection Gear__ 
 
@@ -737,7 +811,7 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
  __Authority to Support Operations and Activities of the Office of Security Cooperation in Iraq__ 
 
-[Pub. L. 112–81, div. A, title XII, § 1215][/us/pl/112/81/s1215], Dec. 31, 2011, [125 Stat. 1631][/us/stat/125/1631], as amended by [Pub. L. 112–239, div. A, title XII, § 1211(a)][/us/pl/112/239/s1211/a]–(c), Jan. 2, 2013, [126 Stat. 1982][/us/stat/126/1982]; [Pub. L. 113–66, div. A, title XII, § 1214(a)][/us/pl/113/66/s1214/a]–(c), Dec. 26, 2013, [127 Stat. 906][/us/stat/127/906]; [Pub. L. 113–291, div. A, title XII, § 1237][/us/pl/113/291/s1237], Dec. 19, 2014, [128 Stat. 3562][/us/stat/128/3562], provided that:
+[Pub. L. 112–81, div. A, title XII, § 1215][/us/pl/112/81/s1215], Dec. 31, 2011, [125 Stat. 1631][/us/stat/125/1631], as amended by [Pub. L. 112–239, div. A, title XII, § 1211(a)][/us/pl/112/239/s1211/a]–(c), Jan. 2, 2013, [126 Stat. 1982][/us/stat/126/1982]; [Pub. L. 113–66, div. A, title XII, § 1214(a)][/us/pl/113/66/s1214/a]–(c), Dec. 26, 2013, [127 Stat. 906][/us/stat/127/906]; [Pub. L. 113–291, div. A, title XII, § 1237][/us/pl/113/291/s1237], Dec. 19, 2014, [128 Stat. 3562][/us/stat/128/3562]; [Pub. L. 114–92, div. A, title XII, § 1221][/us/pl/114/92/s1221], Nov. 25, 2015, [129 Stat. 1047][/us/stat/129/1047], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -753,11 +827,11 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
 >     “(c)  __Limitation on Amount__  __.—__ 
 
->     The total amount of funds provided under the authority in subsection (a) in fiscal year 2015 may not exceed $140,000,000.
+>     The total amount of funds provided under the authority in subsection (a) in fiscal year 2016 may not exceed $80,000,000.
 
 >     “(d)  __Source of Funds__  __.—__ 
 
->     Funds for purposes of subsection (a) for fiscal year 2015 shall be derived from amounts available for that fiscal year for operation and maintenance for the Air Force.
+>     Funds for purposes of subsection (a) for fiscal year 2016 shall be derived from amounts available for that fiscal year for operation and maintenance for the Air Force.
 
 >     “(e)  __Coverage of Costs of OSCI in Connection With Sales of Defense Articles or Defense Services to Iraq__  __.—__ 
 
@@ -767,7 +841,7 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
 >         “(1)  __In general__  __.—__ 
 
->         During fiscal year 2015, the Secretary of Defense, with the concurrence of the Secretary of State, may authorize the Office of Security Cooperation in Iraq to conduct training activities in support of Iraqi Ministry of Defense and Counter Terrorism Service personnel at a base or facility of the Government of Iraq to address capability gaps, integrate processes relating to intelligence, air sovereignty, combined arms, logistics and maintenance, and to manage and integrate defense-related institutions.
+>         During fiscal year 2016, the Secretary of Defense, with the concurrence of the Secretary of State, may authorize the Office of Security Cooperation in Iraq to conduct training activities in support of Iraqi Ministry of Defense and Counter Terrorism Service personnel at a base or facility of the Government of Iraq to address capability gaps, integrate processes relating to intelligence, air sovereignty, combined arms, logistics and maintenance, and to manage and integrate defense-related institutions.
 
 >         “(2)  __Required elements of training__  __.—__ 
 
@@ -779,13 +853,35 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
 >             “(C) Respect for legitimate civilian authority within Iraq.
 
->     “(g)  __Report__  __.—__ 
+>     “(g) __Reports.—__ 
 
->     Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall, in consultation with the Secretary of State, submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a report on the activities of the Office of Security Cooperation in Iraq. The report shall include the following:
+>         “(1)  __In general__  __.—__ 
 
->         “(1) A description, in unclassified form (but with a classified annex if appropriate), of any capability gaps in the security forces of Iraq, including capability gaps relating to intelligence matters, protection of Iraq airspace, and logistics and maintenance.
+>         Not later than September 30, 2015, and every 180 days thereafter until the authority in this section expires, the Secretary of Defense shall, in consultation with the Secretary of State, submit to the appropriate committees of Congress a report on the activities of the Office of Security Cooperation in Iraq.
 
->         “(2) A description of the manner in which the programs of the Office of Security Cooperation in Iraq, in conjunction with other United States programs such as the Foreign Military Financing program, the Foreign Military Sales program, and joint training exercises, will address the capability gaps described in paragraph (1) if the Government of Iraq requests assistance in addressing such capability gaps.”
+>         “(2)  __Elements__  __.—__ 
+
+>         Each report under this subsection shall include the following:
+
+>             “(A) A current description of capability gaps in the security forces of Iraq, including capability gaps relating to intelligence matters, protection of Iraq airspace, and logistics and maintenance, and a current description of the extent, if any, to which the Government of Iraq has requested assistance in addressing such capability gaps.
+
+>             “(B) A current description of the activities of the Office of Security Cooperation in Iraq and the extent, if any, to which the programs conducted by the Office in conjunction with other United States programs (such as the Foreign Military Financing program, the Foreign Military Sales program, and the assistance provided pursuant to section 1236 of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 ([Public Law 113–291][/us/pl/113/291] \[[128 Stat. 3558][/us/stat/128/3558]\])) will address the capability gaps described pursuant to subparagraph (A).
+
+>             “(C) A current description of how the activities of the Office of Security Cooperation in Iraq are coordinated with, and complement and enhance, the assistance provided pursuant to section 1236 of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015.
+
+>             “(D) A current description of end use monitoring programs, and any other programs or procedures, used to improve accountability for equipment provided to the Government of Iraq.
+
+>             “(E) A current description of the measures of effectiveness used to evaluate the activities of the Office of the Security Cooperation in Iraq, and an analysis of any determinations to expand, alter, or terminate specific activities of the Office based on such evaluations.
+
+>             “(F) A current evaluation of the effectiveness of the training described in subsection (f)(2) in promoting respect for human rights, military professionalism, and respect for legitimate civilian authority in Iraq.
+
+>         “(3)  __Appropriate committees of congress defined__  __.—__ 
+
+>         In this subsection, the term ‘appropriate committees of Congress’ means—
+
+>             “(A) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
+
+>             “(B) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.”
 
  __Counter-Improvised Explosive Device Initiatives Database__ 
 
@@ -1102,6 +1198,140 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 >     Not later than March 1, 2010, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on actions taken pursuant to this section.”
 
     \[[Pub. L. 113–291, div. A, title IX, § 901(n)(1)][/us/pl/113/291/s901/n/1], Dec. 19, 2014, [128 Stat. 3469][/us/stat/128/3469], provided that, effective after Feb. 1, 2017, any reference to the Deputy Chief Management Officer of the Department of Defense shall be deemed to refer to the Under Secretary of Defense for Business Management and Information. See [section 901(n)(1) of Pub. L. 113–291][/us/pl/113/291/s901/n/1], set out as a References note under [section 131 of this title][/us/usc/t10/s131].\]
+
+ __Annual Report on Military Power of Iran__ 
+
+[Pub. L. 111–84, div. A, title XII, § 1245][/us/pl/111/84/s1245], Oct. 28, 2009, [123 Stat. 2542][/us/stat/123/2542], as amended by [Pub. L. 113–66, div. A, title XII, § 1232(a)][/us/pl/113/66/s1232/a], Dec. 26, 2013, [127 Stat. 920][/us/stat/127/920]; [Pub. L. 113–291, div. A, title XII, § 1277][/us/pl/113/291/s1277], Dec. 19, 2014, [128 Stat. 3592][/us/stat/128/3592]; [Pub. L. 114–92, div. A, title XII, § 1231(a)][/us/pl/114/92/s1231/a]–(d), Nov. 25, 2015, [129 Stat. 1057][/us/stat/129/1057], 1058, provided that:
+
+>     “(a)  __Annual Report__  __.—__ 
+
+>     Not later than January 30 of each year, the Secretary of Defense shall submit to Congress a report, in both classified and unclassified form, on the current and future military strategy of Iran.
+
+>     “(b)  __Matters to be Included__  __.—__ 
+
+>     The report required under subsection (a) shall include a description of the security posture of Iran, including at least the following:
+
+>         “(1)
+
+>          A description and assessment of Iranian grand strategy, security strategy, and military strategy, including—
+
+>             “(A) the goals of Iran’s grand strategy, security strategy, and military strategy.
+
+>             “(B) trends in Iran’s strategy that would be designed to establish Iran as the leading power in the Middle East and to enhance the influence of Iran in other regions of the world;
+
+>             “(C) Iranian strategy regarding other countries in the region, including other specified countries; and
+
+>             “(D) Iranian strategy regarding offensive cyber capabilities and defensive cyber capabilities.
+
+>         “(2)
+
+>          An assessment of the capabilities of Iran’s conventional forces, including—
+
+>             “(A) the size and capabilities of Iran’s conventional forces;
+
+>             “(B) an analysis of the effectiveness of Iran’s conventional forces when facing United States forces in the region and other specified countries;
+
+>             “(C) a description of Iranian military doctrine; and
+
+>             “(D) an estimate of the funding provided for each branch of Iran’s conventional forces.
+
+>         “(3)
+
+>          An assessment of Iran’s unconventional forces and related activities, including—
+
+>             “(A) the size and capability of Iranian special operations units, including the Iranian Revolutionary Guard Corps–Quds Force;
+
+>             “(B) the types and amount of support, including funding, lethal and non-lethal supplies, and training, provided to groups designated by the United States as foreign terrorist organizations and regional militant groups, including Hezbollah, Hamas, and the Special Groups in Iraq, in particular those forces as having been assessed as to be willing to carry out terrorist operations on behalf of Iran or in response to a military attack by another country on Iran;
+
+>             “(C) an analysis of the effectiveness of Iran’s unconventional forces when facing United States forces in the region and other specified countries in the region;
+
+>             “(D) an estimate of the amount of funds spent by Iran to develop and support special operations forces and terrorist groups;
+
+>             “(E) a description of the structure of Iran’s global network of terrorist and criminal groups and an analysis of the capability of such network of groups and how such network of groups operates to support and reinforce Iran’s grand strategy;
+
+>             “(F) offensive cyber capabilities and defensive cyber capabilities; and
+
+>             “(G) Iranian ability to manipulate the information environment both domestically and against the interests of the United States and its allies.
+
+>         “(4)
+
+>          An assessment of Iranian capabilities related to nuclear and missile forces, including—
+
+>             “(A) a summary of nuclear weapons capabilities and developments in the preceding year;
+
+>             “(B) a summary of the capabilities of Iran’s ballistic missile forces, including developments in the preceding year, the size of Iran’s ballistic missile forces and Iran’s cruise missile forces, and the locations of missile launch sites;
+
+>             “(C) a detailed analysis of the effectiveness of Iran’s ballistic missile forces and Iran’s cruise missile forces when facing United States forces in the region and other specified countries; and
+
+>             “(D) an estimate of the amount of funding expended by Iran since 2004 on programs to develop a capability to build nuclear weapons or to enhance Iran’s ballistic missile forces.
+
+>         “(5) An assessment of transfers to Iran of military equipment, technology, and training from non-Iranian sources.
+
+>     “(c)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)  __Iran’s conventional forces__  __.—__ 
+
+>         The term ‘Iran’s conventional forces’—
+
+>             “(A) means military forces of the Islamic Republic of Iran designed to conduct operations on sea, air, or land, other than Iran’s unconventional forces and Iran’s ballistic missile forces and Iran’s cruise missile forces; and
+
+>             “(B) includes Iran’s Army, Iran’s Air Force, Iran’s Navy, and elements of the Iranian Revolutionary Guard Corps, other than the Iranian Revolutionary Guard Corps–Quds Force.
+
+>         “(2)  __Iran’s unconventional forces__  __.—__ 
+
+>         The term ‘Iran’s unconventional forces’—
+
+>             “(A) means forces of the Islamic Republic of Iran that carry out missions typically associated with special operations forces; and
+
+>             “(B)
+
+>              includes—
+
+>                 “(i) the Iranian Revolutionary Guard Corps–Quds Force; and
+
+>                 “(ii)
+
+>                  any organization that—
+
+>                          “(I) has been designated a terrorist organization by the United States;
+
+>                          “(II) receives assistance from Iran; and
+
+>                          “(III)
+
+>                         (aa) is assessed as being willing in some or all cases of carrying out attacks on behalf of Iran; or
+
+>                              “(bb) is assessed as likely to carry out attacks in response to a military attack by another country on Iran.
+
+>         “(3)  __Iran’s ballistic missile forces__  __.—__ 
+
+>         The term ‘Iran’s ballistic missile forces’ means those elements of the military forces of Iran that employ ballistic missiles.
+
+>         “(4)  __Iran’s cruise missile forces__  __.—__ 
+
+>         The term ‘Iran’s cruise missile forces’ means those elements of the military forces of Iran that employ cruise missiles capable of flights less than 500 kilometers.
+
+>         “(5)  __Specified countries__  __.—__ 
+
+>         The term ‘specified countries’ means the countries in the same geographic region as Iran, including Israel, Lebanon, Syria, Jordan, Iraq, Afghanistan, Saudi Arabia, Turkey, Bahrain, Kuwait, the United Arab Emirates, Armenia, and Azerbaijan.
+
+>     “(d)  __Termination__  __.—__ 
+
+>     The requirement to submit the report required under subsection (a) shall terminate on December 31, 2025.”
+
+\[[Pub. L. 114–92, div. A, title XII, § 1231(e)][/us/pl/114/92/s1231/e], Nov. 25, 2015, [129 Stat. 1058][/us/stat/129/1058], provided that: 
+
+> “The amendments made by this section \[amending [section 1245 of Pub. L. 111–84][/us/pl/111/84/s1245], set out above\] shall take effect on the date of the enactment of this Act \[Nov. 25, 2015\], and shall apply with respect to reports required to be submitted under section 1245 of the National Defense Authorization Act for Fiscal Year 2010 \[[Pub. L. 111–84][/us/pl/111/84], [123 Stat. 2542][/us/stat/123/2542]\], as so amended, after that date.”
+
+\]
+
+\[[Pub. L. 113–66, div. A, title XII, § 1232(b)][/us/pl/113/66/s1232/b], Dec. 26, 2013, [127 Stat. 920][/us/stat/127/920], provided that: 
+
+> “The amendments made by this section \[amending [section 1245 of Pub. L. 111–84][/us/pl/111/84/s1245], set out above\] shall take effect on the date of the enactment of this Act \[Dec. 26, 2013\] and shall apply with respect to reports required to be submitted under section 1245 of the National Defense Authorization Act for Fiscal Year 2010 \[[Pub. L. 111–84][/us/pl/111/84]\], as so amended, on or after that date.”
+
+\]
 
  __Requirement for Common Ground Stations and Payloads for Manned and Unmanned Aerial Vehicle Systems__ 
 
@@ -4604,6 +4834,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/126/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1951
 [/us/pl/113/291/s1071/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F1
 [/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
+[/us/pl/114/92/s1060/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1060%2Fa
+[/us/stat/129/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F987
 [/us/usc/t5/s171a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs171a%2Fa
 [/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
 [/us/usc/t5/s171a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs171a%2Fb
@@ -4615,6 +4847,7 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/101/1329-69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-69
 [/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/usc/t10/s113/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113%2Fk
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291/s1071/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F1
 [/us/usc/t50/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3002
 [/us/usc/t50/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs401
@@ -4677,8 +4910,12 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
 [/us/usc/t5/s3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3345
+[/us/pl/114/92/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1202
+[/us/stat/129/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1036
 [/us/pl/113/291/s524/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs524%2Fa
 [/us/stat/128/3361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3361
+[/us/pl/114/92/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs525
+[/us/stat/129/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F813
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
@@ -4720,7 +4957,11 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/127/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F906
 [/us/pl/113/291/s1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1237
 [/us/stat/128/3562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3562
+[/us/pl/114/92/s1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1221
+[/us/stat/129/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1047
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/stat/128/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3558
 [/us/pl/111/383/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs124
 [/us/stat/124/4159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4159
 [/us/pl/111/383/s574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs574
@@ -4753,6 +4994,23 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/128/3469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3469
 [/us/pl/113/291/s901/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs901%2Fn%2F1
 [/us/usc/t10/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs131
+[/us/pl/111/84/s1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1245
+[/us/stat/123/2542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2542
+[/us/pl/113/66/s1232/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1232%2Fa
+[/us/stat/127/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F920
+[/us/pl/113/291/s1277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1277
+[/us/stat/128/3592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3592
+[/us/pl/114/92/s1231/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1231%2Fa
+[/us/stat/129/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1057
+[/us/pl/114/92/s1231/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1231%2Fe
+[/us/stat/129/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1058
+[/us/pl/111/84/s1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1245
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/stat/123/2542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2542
+[/us/pl/113/66/s1232/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1232%2Fb
+[/us/stat/127/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F920
+[/us/pl/111/84/s1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1245
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4382
 [/us/usc/t10/s2320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2320

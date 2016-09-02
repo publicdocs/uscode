@@ -295,9 +295,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4362" data-uslm-ref="/us/usc/t10/s4362">4362.</a>  </td>
+
+    <td> Support of athletic programs.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92, div. A, title V, § 557(b)][/us/pl/114/92/s557/b], Nov. 25, 2015, [129 Stat. 827][/us/stat/129/827], added item 4362.
 
     2008—[Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 541(a)(2), Oct. 14, 2008, [122 Stat. 4455][/us/stat/122/4455], added item 4345a.
 
@@ -340,6 +350,8 @@
 ----------
 ----------
 
+[/us/pl/114/92/s557/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs557%2Fb
+[/us/stat/129/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F827
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4455
 [/us/pl/109/364/s1071/g/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fg%2F2

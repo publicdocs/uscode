@@ -41,6 +41,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2546a" data-uslm-ref="/us/usc/t10/s2546a">2546a.</a>  </td>
+
+    <td> Customer-oriented acquisition system.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2547" data-uslm-ref="/us/usc/t10/s2547">2547.</a>  </td>
 
     <td> Acquisition-related functions of chiefs of the armed forces.  </td>
@@ -67,6 +75,10 @@
 
     Another prior chapter 150, comprised of section 2521, was renumbered chapter 152 of this title, comprised of section 2540 et seq.
 
+ __Amendments__ 
+
+    2015—[Pub. L. 114–92, div. A, title VIII, § 802(a)(2)][/us/pl/114/92/s802/a/2], Nov. 25, 2015, [129 Stat. 879][/us/stat/129/879], added item 2546a.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch148/schVII/m__us_usc_t10_s2541d.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch149/m__us_usc_t10_s2545.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptIV%2Fch149)
@@ -82,5 +94,7 @@
 [/us/stat/106/2659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2659
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/stat/106/2681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2681
+[/us/pl/114/92/s802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs802%2Fa%2F2
+[/us/stat/129/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F879
 
 

@@ -15,7 +15,7 @@
 
 ## § 2194. Education partnerships
 
-    (a) The Secretary of Defense shall authorize the director of each defense laboratory to enter into one or more education partnership agreements with educational institutions in the United States for the purpose of encouraging and enhancing study in scientific disciplines at all levels of education. The educational institutions referred to in the preceding sentence are local educational agency, colleges, universities, and any other nonprofit institutions that are dedicated to improving science, mathematics, and engineering education.
+    (a) The Secretary of Defense shall authorize the director of each defense laboratory to enter into one or more education partnership agreements with educational institutions in the United States for the purpose of encouraging and enhancing study in scientific disciplines at all levels of education. The educational institutions referred to in the preceding sentence are local educational agency, colleges, universities, and any other nonprofit institutions that are dedicated to improving science, mathematics, business, law, technology transfer or transition and engineering education.
 
     (b)
 
@@ -35,11 +35,13 @@
 
         (3) making laboratory personnel available to teach science courses or to assist in the development of science courses and materials for the institution;
 
-        (4) involving faculty and students of the institution in defense laboratory research projects;
+        (4) providing in the defense laboratory sabbatical opportunities for faculty and internship opportunities for students;
 
-        (5) cooperating with the institution in developing a program under which students may be given academic credit for work on defense laboratory research projects; and
+        (5) involving faculty and students of the institution in defense laboratory projects, including research and technology transfer or transition projects;
 
-        (6) providing academic and career advice and assistance to students of the institution.
+        (6) cooperating with the institution in developing a program under which students may be given academic credit for work on defense laboratory projects, including research and technology transfer or transition projects; and
+
+        (7) providing academic and career advice and assistance to students of the institution.
 
     (c) The Secretary of Defense shall ensure that the director of each defense laboratory shall give a priority under this section to entering into an education partnership agreement with one or more historically Black colleges and universities and other minority institutions referred to in paragraphs (3), (4), and (5) of section 312(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Higher Education Act of 1965 ([20 U.S.C. 1058(b)][/us/usc/t20/s1058/b]).
 
@@ -57,13 +59,17 @@
 
         (3) The term “United States” includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
 
-(Added [Pub. L. 101–510, div. A, title II, § 247(a)(1)][/us/pl/101/510/s247/a/1], Nov. 5, 1990, [104 Stat. 1522][/us/stat/104/1522]; amended [Pub. L. 103–382, title III, § 391(b)(4)][/us/pl/103/382/s391/b/4], Oct. 20, 1994, [108 Stat. 4021][/us/stat/108/4021]; [Pub. L. 104–106, div. A, title XV, § 1503(a)(19)][/us/pl/104/106/s1503/a/19], Feb. 10, 1996, [110 Stat. 512][/us/stat/110/512]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title II, § 253\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–49; [Pub. L. 107–110, title X, § 1076(e)][/us/pl/107/110/s1076/e], Jan. 8, 2002, [115 Stat. 2091][/us/stat/115/2091]; [Pub. L. 108–178, § 4(b)(1)][/us/pl/108/178/s4/b/1], Dec. 15, 2003, [117 Stat. 2640][/us/stat/117/2640]; [Pub. L. 111–350, § 5(b)(3)][/us/pl/111/350/s5/b/3], Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842]; [Pub. L. 111–383, div. A, title II, § 211(b)][/us/pl/111/383/s211/b], Jan. 7, 2011, [124 Stat. 4163][/us/stat/124/4163]; [Pub. L. 112–239, div. A, title II, § 251][/us/pl/112/239/s251], Jan. 2, 2013, [126 Stat. 1688][/us/stat/126/1688].)
+(Added [Pub. L. 101–510, div. A, title II, § 247(a)(1)][/us/pl/101/510/s247/a/1], Nov. 5, 1990, [104 Stat. 1522][/us/stat/104/1522]; amended [Pub. L. 103–382, title III, § 391(b)(4)][/us/pl/103/382/s391/b/4], Oct. 20, 1994, [108 Stat. 4021][/us/stat/108/4021]; [Pub. L. 104–106, div. A, title XV, § 1503(a)(19)][/us/pl/104/106/s1503/a/19], Feb. 10, 1996, [110 Stat. 512][/us/stat/110/512]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title II, § 253\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–49; [Pub. L. 107–110, title X, § 1076(e)][/us/pl/107/110/s1076/e], Jan. 8, 2002, [115 Stat. 2091][/us/stat/115/2091]; [Pub. L. 108–178, § 4(b)(1)][/us/pl/108/178/s4/b/1], Dec. 15, 2003, [117 Stat. 2640][/us/stat/117/2640]; [Pub. L. 111–350, § 5(b)(3)][/us/pl/111/350/s5/b/3], Jan. 4, 2011, [124 Stat. 3842][/us/stat/124/3842]; [Pub. L. 111–383, div. A, title II, § 211(b)][/us/pl/111/383/s211/b], Jan. 7, 2011, [124 Stat. 4163][/us/stat/124/4163]; [Pub. L. 112–239, div. A, title II, § 251][/us/pl/112/239/s251], Jan. 2, 2013, [126 Stat. 1688][/us/stat/126/1688]; [Pub. L. 114–92, div. A, title II, § 213][/us/pl/114/92/s213], Nov. 25, 2015, [129 Stat. 767][/us/stat/129/767].)
 
  __References in Text__ 
 
     Paragraphs (3), (4), and (5) of section 312(b) of the Higher Education Act of 1965 ([20 U.S.C. 1058(b)][/us/usc/t20/s1058/b]), referred to in subsec. (c), were repealed by [Pub. L. 102–325, title III, § 302(a)(3)][/us/pl/102/325/s302/a/3], July 23, 1992, [106 Stat. 472][/us/stat/106/472].
 
  __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–92, § 213(1)][/us/pl/114/92/s213/1], inserted “business, law, technology transfer or transition” after “mathematics,”.
+
+    Subsec. (b)(4) to (7). [Pub. L. 114–92, § 213(2)][/us/pl/114/92/s213/2], added par. (4), redesignated former pars. (4) to (6) as (5) to (7), respectively, and, in pars. (5) and (6), substituted “projects, including research and technology transfer or transition projects” for “research projects”.
 
     2013—Subsec. (f)(2). [Pub. L. 112–239, § 251(b)][/us/pl/112/239/s251/b], inserted “([20 U.S.C. 7801][/us/usc/t20/s7801])” before period at end.
 
@@ -128,9 +134,13 @@
 [/us/stat/124/4163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4163
 [/us/pl/112/239/s251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs251
 [/us/stat/126/1688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1688
+[/us/pl/114/92/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs213
+[/us/stat/129/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F767
 [/us/usc/t20/s1058/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1058%2Fb
 [/us/pl/102/325/s302/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F325%2Fs302%2Fa%2F3
 [/us/stat/106/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F472
+[/us/pl/114/92/s213/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs213%2F1
+[/us/pl/114/92/s213/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs213%2F2
 [/us/pl/112/239/s251/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs251%2Fb
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/112/239/s251/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs251%2Fa

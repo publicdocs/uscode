@@ -75,23 +75,39 @@
 
         (3) The Secretary concerned may disburse funds deposited in a gift fund referred to in subsection (c) for the purposes specified in subsections (a) and (b), subject to the terms of the gift, devise, or bequest.
 
-    (e)  __Payment of Expenses__  __.—__ 
+    (e)  __Acceptance of Real Property Gifts; Naming Rights__  __.—__ 
+
+        (1) The Secretary concerned may accept a gift under subsection (a) or (b) consisting of the provision, acquisition, enhancement, or construction of real property offered to the United States Military Academy, the Naval Academy, the Air Force Academy, or the Coast Guard Academy even though the gift will be subject to the condition that the real property, or a portion thereof, bear a specified name.
+
+        (2) The authority conferred by this subsection may be delegated by the Secretary concerned only to a civilian official appointed by the President, by and with the advice and consent of the Senate.
+
+        (3)
+
+         A gift may not be accepted under paragraph (1) if—
+
+            (A) the acceptance of the gift or the imposition of the naming-rights condition would reflect unfavorably upon the United States, as provided in subsection (d)(2); or
+
+            (B) the real property to be subject to the condition, or portion thereof, has been named by an act of Congress.
+
+        (4) The Secretaries concerned shall issue uniform regulations governing the circumstances under which gifts conditioned on naming rights may be accepted, appropriate naming conventions, and suitable display standards.
+
+    (f)  __Payment of Expenses__  __.—__ 
 
     The Secretary concerned may pay all necessary expenses in connection with the conveyance or transfer of a gift, devise, or bequest accepted under this section.
 
-    (f)  __Treatment of Gifts__  __.—__ 
+    (g)  __Treatment of Gifts__  __.—__ 
 
     For the purposes of Federal income, estate, and gift taxes, any property, money, or services accepted under subsection (a) or (b) shall be considered as a gift, devise, or bequest to or for the use of the United States.
 
-    (g)  __Management of Funds__  __.—__ 
+    (h)  __Management of Funds__  __.—__ 
 
     In the case of each gift fund referred to in subsection (c), the Secretary of the Treasury, upon the request of the Secretary concerned, may retain money, securities, and the proceeds of the sale of securities in the gift fund and may invest money and reinvest the proceeds of the sale of securities in the gift fund in securities of the United States or in securities guaranteed as to principal and interest by the United States. The interest and profits accruing from those securities shall be deposited to the credit of the gift fund and may be disbursed as provided in subsection (d).
 
-    (h)  __Comptroller General Review__  __.—__ 
+    (i)  __Comptroller General Review__  __.—__ 
 
     The Comptroller General shall make periodic audits of gifts, devises, and bequests accepted under subsection (a) or (b) at such intervals as the Comptroller General determines to be warranted. The Comptroller General shall submit to Congress a report on the results of each such audit.
 
-    (i)  __Definitions__  __.—__ 
+    (j)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -99,7 +115,7 @@
 
         (2) The term “services” includes activities that benefit the education, morale, welfare, or recreation of members of the armed forces and their dependents or are related or incidental to the conveyance of a gift, devise, or bequest of real property or personal property under subsection (a) or (b).
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 144][/us/stat/70A/144]; [Pub. L. 96–513, title V, § 511(86)][/us/pl/96/513/s511/86], Dec. 12, 1980, [94 Stat. 2927][/us/stat/94/2927]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 109–163, div. A, title III, § 374][/us/pl/109/163/s374], Jan. 6, 2006, [119 Stat. 3211][/us/stat/119/3211]; [Pub. L. 110–181, div. A, title V, § 593(a)][/us/pl/110/181/s593/a], Jan. 28, 2008, [122 Stat. 138][/us/stat/122/138]; [Pub. L. 112–239, div. A, title V, § 587(a)][/us/pl/112/239/s587/a], div. B, title XXVIII, § 2852(a), Jan. 2, 2013, [126 Stat. 1768][/us/stat/126/1768], 2160.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 144][/us/stat/70A/144]; [Pub. L. 96–513, title V, § 511(86)][/us/pl/96/513/s511/86], Dec. 12, 1980, [94 Stat. 2927][/us/stat/94/2927]; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 109–163, div. A, title III, § 374][/us/pl/109/163/s374], Jan. 6, 2006, [119 Stat. 3211][/us/stat/119/3211]; [Pub. L. 110–181, div. A, title V, § 593(a)][/us/pl/110/181/s593/a], Jan. 28, 2008, [122 Stat. 138][/us/stat/122/138]; [Pub. L. 112–239, div. A, title V, § 587(a)][/us/pl/112/239/s587/a], div. B, title XXVIII, § 2852(a), Jan. 2, 2013, [126 Stat. 1768][/us/stat/126/1768], 2160; [Pub. L. 114–92, div. B, title XXVIII, § 2812][/us/pl/114/92/s2812], Nov. 25, 2015, [129 Stat. 1174][/us/stat/129/1174].)
 
 <table>
 
@@ -187,6 +203,8 @@ Mar. 11, 1948, ch. 107, 62 Stat. 71.  </td>
 
  __Amendments__ 
 
+    2015—Subsecs. (e) to (j). [Pub. L. 114–92][/us/pl/114/92] added subsec. (e) and redesignated former subsecs. (e) to (i) as (f) to (j), respectively.
+
     2013—Subsec. (a). [Pub. L. 112–239, § 2852(a)(1)][/us/pl/112/239/s2852/a/1], designated existing provisions as par. (1), substituted “The” for “Subject to subsection (d)(2), the”, and added par. (2).
 
     Subsec. (b)(1). [Pub. L. 112–239, § 2852(a)(2)(A)][/us/pl/112/239/s2852/a/2/A], substituted “The” for “Subject to subsection (d)(2), the” in introductory provisions.
@@ -242,7 +260,10 @@ Mar. 11, 1948, ch. 107, 62 Stat. 71.  </td>
 [/us/stat/122/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F138
 [/us/pl/112/239/s587/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs587%2Fa
 [/us/stat/126/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1768
+[/us/pl/114/92/s2812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs2812
+[/us/stat/129/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1174
 [/us/usc/t10/s150r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs150r
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/239/s2852/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2852%2Fa%2F1
 [/us/pl/112/239/s2852/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2852%2Fa%2F2%2FA
 [/us/pl/112/239/s2852/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2852%2Fa%2F2%2FB%2Fi

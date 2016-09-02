@@ -21,25 +21,29 @@
 
      Unless otherwise provided by law, the number of members of the armed forces (other than the Coast Guard) on active duty at the end of any fiscal year shall be not less than the following:
 
-        (1) For the Army, 490,000.
+        (1) For the Army, 475,000.
 
-        (2) For the Navy, 323,600.
+        (2) For the Navy, 329,200.
 
-        (3) For the Marine Corps, 184,100.
+        (3) For the Marine Corps, 184,000.
 
-        (4) For the Air Force, 310,900.
+        (4) For the Air Force, 317,000.
 
     (c) The budget for the Department of Defense for any fiscal year as submitted to Congress shall include amounts for funding for each of the armed forces (other than the Coast Guard) at least in the amounts necessary to maintain the active duty end strengths prescribed in subsection (b), as in effect at the time that such budget is submitted.
 
     (d) No funds appropriated to the Department of Defense may be used to implement a reduction of the active duty end strength for any of the armed forces (other than the Coast Guard) for any fiscal year below the level specified in subsection (b) unless the reduction in end strength for that armed force for that fiscal year is specifically authorized by law.
 
-    (e) The Secretary of Defense may reduce a number specified in subsection (b) by not more than 0.5 percent.
+    (e) The Secretary of Defense may reduce a number specified in subsection (b) by not more than 2 percent.
 
     (f) The number of members of the armed forces on active duty shall be counted for purposes of this section in the same manner as applies under [section 115(a)(1) of this title][/us/usc/t10/s115/a/1].
 
-(Added [Pub. L. 104–106, div. A, title IV, § 401(b)(1)][/us/pl/104/106/s401/b/1], Feb. 10, 1996, [110 Stat. 285][/us/stat/110/285]; amended [Pub. L. 104–201, div. A, title IV, § 402][/us/pl/104/201/s402], Sept. 23, 1996, [110 Stat. 2503][/us/stat/110/2503]; [Pub. L. 105–85, div. A, title IV, § 402][/us/pl/105/85/s402], Nov. 18, 1997, [111 Stat. 1719][/us/stat/111/1719]; [Pub. L. 105–261, div. A, title IV, § 402(a)][/us/pl/105/261/s402/a], (b), Oct. 17, 1998, [112 Stat. 1995][/us/stat/112/1995], 1996; [Pub. L. 106–65, div. A, title IV, § 402(a)][/us/pl/106/65/s402/a], title X, § 1066(b)(1), Oct. 5, 1999, [113 Stat. 585][/us/stat/113/585], 772; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IV, §§ 402(a), 403\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–92; [Pub. L. 107–107, div. A, title IV, § 402][/us/pl/107/107/s402], Dec. 28, 2001, [115 Stat. 1069][/us/stat/115/1069]; [Pub. L. 107–314, div. A, title IV, § 402][/us/pl/107/314/s402], Dec. 2, 2002, [116 Stat. 2524][/us/stat/116/2524]; [Pub. L. 108–136, div. A, title IV, § 402][/us/pl/108/136/s402], Nov. 24, 2003, [117 Stat. 1450][/us/stat/117/1450]; [Pub. L. 108–375, div. A, title IV, § 402][/us/pl/108/375/s402], Oct. 28, 2004, [118 Stat. 1862][/us/stat/118/1862]; [Pub. L. 109–163, div. A, title IV, § 402][/us/pl/109/163/s402], Jan. 6, 2006, [119 Stat. 3219][/us/stat/119/3219]; [Pub. L. 109–364, div. A, title IV, § 402][/us/pl/109/364/s402], Oct. 17, 2006, [120 Stat. 2169][/us/stat/120/2169]; [Pub. L. 110–181, div. A, title IV, § 402][/us/pl/110/181/s402], Jan. 28, 2008, [122 Stat. 86][/us/stat/122/86]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IV, § 402, Oct. 14, 2008, [122 Stat. 4428][/us/stat/122/4428]; [Pub. L. 111–84, div. A, title IV, § 402][/us/pl/111/84/s402], Oct. 28, 2009, [123 Stat. 2265][/us/stat/123/2265]; [Pub. L. 111–383, div. A, title IV, § 402][/us/pl/111/383/s402], Jan. 7, 2011, [124 Stat. 4202][/us/stat/124/4202]; [Pub. L. 112–81, div. A, title IV, § 402][/us/pl/112/81/s402], Dec. 31, 2011, [125 Stat. 1382][/us/stat/125/1382]; [Pub. L. 112–239, div. A, title IV, § 402][/us/pl/112/239/s402], Jan. 2, 2013, [126 Stat. 1708][/us/stat/126/1708]; [Pub. L. 113–66, div. A, title IV, § 402(a)][/us/pl/113/66/s402/a], Dec. 26, 2013, [127 Stat. 744][/us/stat/127/744]; [Pub. L. 113–291, div. A, title IV, § 402][/us/pl/113/291/s402], Dec. 19, 2014, [128 Stat. 3349][/us/stat/128/3349].)
+(Added [Pub. L. 104–106, div. A, title IV, § 401(b)(1)][/us/pl/104/106/s401/b/1], Feb. 10, 1996, [110 Stat. 285][/us/stat/110/285]; amended [Pub. L. 104–201, div. A, title IV, § 402][/us/pl/104/201/s402], Sept. 23, 1996, [110 Stat. 2503][/us/stat/110/2503]; [Pub. L. 105–85, div. A, title IV, § 402][/us/pl/105/85/s402], Nov. 18, 1997, [111 Stat. 1719][/us/stat/111/1719]; [Pub. L. 105–261, div. A, title IV, § 402(a)][/us/pl/105/261/s402/a], (b), Oct. 17, 1998, [112 Stat. 1995][/us/stat/112/1995], 1996; [Pub. L. 106–65, div. A, title IV, § 402(a)][/us/pl/106/65/s402/a], title X, § 1066(b)(1), Oct. 5, 1999, [113 Stat. 585][/us/stat/113/585], 772; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IV, §§ 402(a), 403\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–92; [Pub. L. 107–107, div. A, title IV, § 402][/us/pl/107/107/s402], Dec. 28, 2001, [115 Stat. 1069][/us/stat/115/1069]; [Pub. L. 107–314, div. A, title IV, § 402][/us/pl/107/314/s402], Dec. 2, 2002, [116 Stat. 2524][/us/stat/116/2524]; [Pub. L. 108–136, div. A, title IV, § 402][/us/pl/108/136/s402], Nov. 24, 2003, [117 Stat. 1450][/us/stat/117/1450]; [Pub. L. 108–375, div. A, title IV, § 402][/us/pl/108/375/s402], Oct. 28, 2004, [118 Stat. 1862][/us/stat/118/1862]; [Pub. L. 109–163, div. A, title IV, § 402][/us/pl/109/163/s402], Jan. 6, 2006, [119 Stat. 3219][/us/stat/119/3219]; [Pub. L. 109–364, div. A, title IV, § 402][/us/pl/109/364/s402], Oct. 17, 2006, [120 Stat. 2169][/us/stat/120/2169]; [Pub. L. 110–181, div. A, title IV, § 402][/us/pl/110/181/s402], Jan. 28, 2008, [122 Stat. 86][/us/stat/122/86]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IV, § 402, Oct. 14, 2008, [122 Stat. 4428][/us/stat/122/4428]; [Pub. L. 111–84, div. A, title IV, § 402][/us/pl/111/84/s402], Oct. 28, 2009, [123 Stat. 2265][/us/stat/123/2265]; [Pub. L. 111–383, div. A, title IV, § 402][/us/pl/111/383/s402], Jan. 7, 2011, [124 Stat. 4202][/us/stat/124/4202]; [Pub. L. 112–81, div. A, title IV, § 402][/us/pl/112/81/s402], Dec. 31, 2011, [125 Stat. 1382][/us/stat/125/1382]; [Pub. L. 112–239, div. A, title IV, § 402][/us/pl/112/239/s402], Jan. 2, 2013, [126 Stat. 1708][/us/stat/126/1708]; [Pub. L. 113–66, div. A, title IV, § 402(a)][/us/pl/113/66/s402/a], Dec. 26, 2013, [127 Stat. 744][/us/stat/127/744]; [Pub. L. 113–291, div. A, title IV, § 402][/us/pl/113/291/s402], Dec. 19, 2014, [128 Stat. 3349][/us/stat/128/3349]; [Pub. L. 114–92, div. A, title IV, § 402][/us/pl/114/92/s402], Nov. 25, 2015, [129 Stat. 801][/us/stat/129/801].)
 
  __Amendments__ 
+
+    2015—Subsec. (b). [Pub. L. 114–92, § 402(1)][/us/pl/114/92/s402/1], substituted “475,000” for “490,000” in par. (1), “329,200” for “323,600” in par. (2), “184,000” for “184,100” in par. (3), and “317,000” for “310,900” in par. (4).
+
+    Subsec. (e). [Pub. L. 114–92, § 402(2)][/us/pl/114/92/s402/2], substituted “2 percent” for “0.5 percent”.
 
     2014—Subsec. (b). [Pub. L. 113–291][/us/pl/113/291] substituted “490,000” for “510,000” in par. (1), “184,100” for “188,000” in par. (3), and “310,900” for “327,600” in par. (4).
 
@@ -177,6 +181,10 @@
 [/us/stat/127/744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F744
 [/us/pl/113/291/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs402
 [/us/stat/128/3349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3349
+[/us/pl/114/92/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs402
+[/us/stat/129/801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F801
+[/us/pl/114/92/s402/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs402%2F1
+[/us/pl/114/92/s402/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs402%2F2
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs402%2Fa

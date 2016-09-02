@@ -137,7 +137,15 @@
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2672" data-uslm-ref="/us/usc/t10/s2672">2672</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2673" data-uslm-ref="/us/usc/t10/s2673">2673.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2672" data-uslm-ref="/us/usc/t10/s2672">2672.</a>  </td>
+
+    <td> Protection of buildings, grounds, property, and persons.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2672a" data-uslm-ref="/us/usc/t10/s2672a">2672a</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2673" data-uslm-ref="/us/usc/t10/s2673">2673.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -369,6 +377,8 @@
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–92, div. B, title XXVIII, § 2811(b)][/us/pl/114/92/s2811/b], Nov. 25, 2015, [129 Stat. 1174][/us/stat/129/1174], added item 2672.
+
     2014—[Pub. L. 113–291, div. A, title III, § 351(c)(2)][/us/pl/113/291/s351/c/2], Dec. 19, 2014, [128 Stat. 3347][/us/stat/128/3347], added item 2679.
 
     2011—[Pub. L. 111–383, div. A, title III, § 341(b)][/us/pl/111/383/s341/b], div. B, title XXVIII, § 2814(c), Jan. 7, 2011, [124 Stat. 4190][/us/stat/124/4190], 4464, struck out item 2680 “Leases: land for special operations activities” and added item 2697.
@@ -468,6 +478,8 @@
 ----------
 ----------
 
+[/us/pl/114/92/s2811/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs2811%2Fb
+[/us/stat/129/1174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1174
 [/us/pl/113/291/s351/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs351%2Fc%2F2
 [/us/stat/128/3347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3347
 [/us/pl/111/383/s341/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs341%2Fb

@@ -77,6 +77,34 @@
 
 > “This Act \[enacting [section 1561a of this title][/us/usc/t10/s1561a]\] may be cited as the ‘Armed Forces Domestic Security Act’.”
 
+ __Retention of Case Notes in Investigations of sex-Related Offenses Involving Members of the Army, Navy, Air Force, or Marine Corps__ 
+
+[Pub. L. 114–92, div. A, title V, § 541][/us/pl/114/92/s541], Nov. 25, 2015, [129 Stat. 819][/us/stat/129/819], provided that:
+
+>     “(a)  __Retention of All Investigative Records Required__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall update Department of Defense records retention policies to ensure that, for all investigations relating to an alleged sex-related offense (as defined in [section 1044e(g) of title 10][/us/usc/t10/s1044e/g], United States Code) involving a member of the Army, Navy, Air Force, or Marine Corps, all elements of the case file shall be retained as part of the investigative records retained in accordance with section 586 of the National Defense Authorization Act for Fiscal Year 2012 ([Public Law 112–81][/us/pl/112/81]; [10 U.S.C. 1561][/us/usc/t10/s1561] note).
+
+>     “(b)  __Elements__  __.—__ 
+
+>     In updating records retention policies as required by subsection (a), the Secretary of Defense shall address, at a minimum, the following matters:
+
+>         “(1) The elements of the case file to be retained must include, at a minimum, the case activity record, case review record, investigative plans, and all case notes made by an investigating agent or agents.
+
+>         “(2) All investigative records must be retained for no less than 50 years.
+
+>         “(3) No element of the case file may be destroyed until the expiration of the time that investigative records must be kept.
+
+>         “(4) Records may be stored digitally or in hard copy, in accordance with existing law or regulations or additionally prescribed policy considered necessary by the Secretary of the military department concerned.
+
+>     “(c)  __Consistent Education and Policy__  __.—__ 
+
+>     The Secretary of Defense shall ensure that existing policy, education, and training are updated to reflect policy changes in accordance with subsection (a).
+
+>     “(d)  __Uniform Application to Military Departments__  __.—__ 
+
+>     The Secretary of Defense shall ensure that, to the maximum extent practicable, the policy developed under subsections (a) is implemented uniformly by the military departments.”
+
  __Required Consideration of Certain Elements of Command Climate in Performance Appraisals of Commanding Officers__ 
 
 [Pub. L. 113–291, div. A, title V, § 508][/us/pl/113/291/s508], Dec. 19, 2014, [128 Stat. 3357][/us/stat/128/3357], provided that: 
@@ -135,7 +163,7 @@
 
  __Defense Advisory Committee on Investigation, Prosecution, and Defense of Sexual Assault in the Armed Forces__ 
 
-[Pub. L. 113–291, div. A, title V, § 546(a)][/us/pl/113/291/s546/a]–(e), Dec. 19, 2014, [128 Stat. 3374][/us/stat/128/3374], 3375, provided that:
+[Pub. L. 113–291, div. A, title V, § 546(a)][/us/pl/113/291/s546/a]–(e), Dec. 19, 2014, [128 Stat. 3374][/us/stat/128/3374], 3375, as amended by [Pub. L. 114–92, div. A, title V, § 537][/us/pl/114/92/s537], Nov. 25, 2015, [129 Stat. 817][/us/stat/129/817], provided that:
 
 >     “(a) __Establishment Required.—__ 
 
@@ -145,7 +173,7 @@
 
 >         “(2)  __Deadline for establishment__  __.—__ 
 
->         The Secretary shall establish the Advisory Committee not later than 30 days before the termination date of the independent panel established by the Secretary under section 576(a)(2) of the National Defense Authorization Act for Fiscal Year 2013 ([Public Law 112–239][/us/pl/112/239]; [126 Stat. 1758][/us/stat/126/1758]), known as the ‘judicial proceedings panel’.
+>         The Secretary shall establish the Advisory Committee not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016 \[Nov. 25, 2015\].
 
 >     “(b)  __Membership__  __.—__ 
 
@@ -1287,14 +1315,19 @@
 [/us/pl/107/311/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F311%2Fs1
 [/us/stat/116/2455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2455
 [/us/usc/t10/s1561a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1561a
+[/us/pl/114/92/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs541
+[/us/stat/129/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F819
+[/us/usc/t10/s1044e/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1044e%2Fg
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/usc/t10/s1561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1561
 [/us/pl/113/291/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs508
 [/us/stat/128/3357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3357
 [/us/pl/113/291/s539/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs539%2Fa
 [/us/stat/128/3370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3370
 [/us/pl/113/291/s546/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs546%2Fa
 [/us/stat/128/3374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3374
-[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/stat/126/1758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1758
+[/us/pl/114/92/s537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs537
+[/us/stat/129/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F817
 [/us/pl/113/66/s587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs587
 [/us/stat/127/778]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F778
 [/us/pl/113/66/s1725/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1725%2Fb

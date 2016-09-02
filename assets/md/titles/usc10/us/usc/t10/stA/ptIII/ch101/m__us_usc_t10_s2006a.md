@@ -17,7 +17,7 @@
 
     (a)  __In General__  __.—__ 
 
-    Effective as of August, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  1, 2014, an individual eligible for assistance under a Department of Defense educational assistance program or authority covered by this section may, except as provided in subsection (b), only use such assistance for educational expenses incurred for a program as follows:
+    Effective as of August 1, 2014, an individual eligible for assistance under a Department of Defense educational assistance program or authority covered by this section may, except as provided in subsection (b), only use such assistance for educational expenses incurred for a program as follows:
 
         (1) An eligible program (as defined in section 481 of the Higher Education Act of 1965 ([20 U.S.C. 1088][/us/usc/t20/s1088])) that is offered by an institution of higher education that has entered into, and is complying with, a program participation agreement under section 487 of such Act ([20 U.S.C. 1094][/us/usc/t20/s1094]).
 
@@ -57,7 +57,11 @@
 
         (2) The term “institution of higher education” has the meaning given that term in section 102 of the Higher Education Act for 1965 ([20 U.S.C. 1002][/us/usc/t20/s1002]).
 
-(Added [Pub. L. 113–66, div. A, title V, § 541(a)][/us/pl/113/66/s541/a], Dec. 26, 2013, [127 Stat. 760][/us/stat/127/760].)
+(Added [Pub. L. 113–66, div. A, title V, § 541(a)][/us/pl/113/66/s541/a], Dec. 26, 2013, [127 Stat. 760][/us/stat/127/760]; amended [Pub. L. 114–92, div. A, title X, § 1081(a)(6)][/us/pl/114/92/s1081/a/6], Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001].)
+
+ __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–92][/us/pl/114/92] substituted “August 1” for “August, 1” in introductory provisions.
 
  __Effective Date__ 
 
@@ -79,6 +83,9 @@
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
 [/us/pl/113/66/s541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs541%2Fa
 [/us/stat/127/760]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F760
+[/us/pl/114/92/s1081/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F6
+[/us/stat/129/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1001
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/66/s541/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs541%2Fc
 [/us/stat/127/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F762
 

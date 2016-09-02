@@ -119,9 +119,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs383" data-uslm-ref="/us/usc/t10/s383">383.</a>  </td>
+
+    <td> Situations involving bombings of places of public use, Government facilities, public transportation systems, and infrastructure facilities.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92, div. A, title X, § 1082(b)][/us/pl/114/92/s1082/b], Nov. 25, 2015, [129 Stat. 1003][/us/stat/129/1003], added item 383.
 
     2011—[Pub. L. 111–383, div. A, title X, § 1075(b)(10)(C)][/us/pl/111/383/s1075/b/10/C], Jan. 7, 2011, [124 Stat. 4369][/us/stat/124/4369], added item 382 and struck out former item 382 “Emergency situations involving chemical or biological weapons of mass destruction”.
 
@@ -139,6 +149,48 @@
 
     1986—[Pub. L. 99–570, title III, § 3053(b)(2)][/us/pl/99/570/s3053/b/2], Oct. 27, 1986, [100 Stat. 3207–76][/us/stat/100/3207-76], added item 379.
 
+ __Department of Defense Authority To Provide Assistance To Secure the Southern Land Border of the United States__ 
+
+[Pub. L. 114–92, div. A, title X, § 1059][/us/pl/114/92/s1059], Nov. 25, 2015, [129 Stat. 986][/us/stat/129/986], provided that:
+
+>     “(a)  __Authority to Provide Assistance__  __.—__ 
+
+>     The Secretary of Defense may provide assistance to United States Customs and Border Protection for purposes of increasing ongoing efforts to secure the southern land border of the United States.
+
+>     “(b)  __Concurrence in Assistance__  __.—__ 
+
+>     Assistance under subsection (a) shall be provided with the concurrence of the Secretary of Homeland Security.
+
+>     “(c)  __Types of Assistance Authorized__  __.—__ 
+
+>     The assistance provided under subsection (a) may include the following:
+
+>         “(1) Deployment of members and units of the regular and reserve components of the Armed Forces to the southern land border of the United States.
+
+>         “(2) Deployment of manned aircraft, unmanned aerial surveillance systems, and ground-based surveillance systems to support continuous surveillance of the southern land border of the United States.
+
+>         “(3) Intelligence analysis support.
+
+>     “(d)  __Materiel and Logistical Support__  __.—__ 
+
+>     The Secretary of Defense is authorized to deploy such materiel and equipment and logistics support as is necessary to ensure the effectiveness of assistance provided under subsection (a).
+
+>     “(e)  __Funding__  __.—__ 
+
+>     Of the amounts authorized to be appropriated for the Department of Defense by this Act \[see Tables for classification\], the Secretary of Defense may use up to $75,000,000 to provide assistance under subsection (a).
+
+>     “(f)  __Reports__  __.—__ 
+
+>     At the end of each three-month period during which assistance is provided under subsection (a), the Secretary of Defense, in coordination with the Secretary of Homeland Security, shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Government Affairs of the Senate a report on the provision of such assistance during that period. Each report shall include, for the period covered by the report, the following:
+
+>         “(1) A description of the assistance provided.
+
+>         “(2) A description of the sources and amounts of funds used to provide such assistance.
+
+>         “(3) A description of the amounts obligated to provide such assistance.
+
+>         “(4) An assessment of the efficacy and cost-effectiveness of such assistance in support of the Department of Homeland Security’s objectives and strategy to address the challenges on the southern land border of the United States and recommendations, if any, to enhance the effectiveness of such assistance.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptI/ch17/m__us_usc_t10_s351.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch18/m__us_usc_t10_s371.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch18)
@@ -146,6 +198,8 @@
 ----------
 ----------
 
+[/us/pl/114/92/s1082/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1082%2Fb
+[/us/stat/129/1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1003
 [/us/pl/111/383/s1075/b/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F10%2FC
 [/us/stat/124/4369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4369
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
@@ -162,5 +216,7 @@
 [/us/stat/101/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1164
 [/us/pl/99/570/s3053/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F570%2Fs3053%2Fb%2F2
 [/us/stat/100/3207-76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3207-76
+[/us/pl/114/92/s1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1059
+[/us/stat/129/986]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F986
 
 

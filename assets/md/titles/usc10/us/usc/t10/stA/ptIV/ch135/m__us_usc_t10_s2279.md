@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch135/m__us_usc_t10_s2278.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch136/m__us_usc_t10_stA_ptIV_ch136.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2279)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch135/m__us_usc_t10_s2278.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch135/m__us_usc_t10_s2279a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2279)
 
 ## § 2279. Foreign commercial satellite services
 
@@ -65,7 +65,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch135/m__us_usc_t10_s2278.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch136/m__us_usc_t10_stA_ptIV_ch136.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2279)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch135/m__us_usc_t10_s2278.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch135/m__us_usc_t10_s2279a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2279)
 
 ----------
 ----------

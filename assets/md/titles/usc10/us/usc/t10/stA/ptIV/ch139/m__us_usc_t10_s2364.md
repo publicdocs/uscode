@@ -13,15 +13,23 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2363.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2365.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2364)
 
-## § 2364. Coordination and communication of defense research activities
+## § 2364. Coordination and communication of defense research activities and technology domain awareness
 
-    (a)  __Coordination of Department of Defense Technological Data__  __.—__ 
+    (a)  __Coordination of Department of Defense Research, Development, and Technological Data__  __.—__ 
 
-    The Secretary of Defense shall promote, monitor, and evaluate programs for the communication and exchange of technological data—
+    The Secretary of Defense shall promote, monitor, and evaluate programs for the communication and exchange of research, development, and technological data—
 
-        (1) among the Defense research facilities, combatant commands, and other organizations that are involved in developing for the Department of Defense the technological requirements for new items for use by combat forces; and
+        (1) among the Defense research facilities, combatant commands, and other organizations that are involved in developing for the Department of Defense the technological requirements for new items for use by combat forces;
 
-        (2) among Defense research facilities and other offices, agencies, and bureaus in the Department that are engaged in related technological matters.
+        (2) among Defense research facilities and other offices, agencies, and bureaus in the Department that are engaged in related technological matters;
+
+        (3) among other research facilities and other departments or agencies of the Federal Government that are engaged in research, development, and technological matters;
+
+        (4) among private commercial, research institution, and university entities engaged in research, development, and technological matters potentially relevant to defense on a voluntary basis;
+
+        (5) to the extent practicable, to achieve full awareness of scientific and technological advancement and innovation wherever it may occur, whether funded by the Department of Defense, another element of the Federal Government, or other entities; and
+
+        (6) through development and distribution of clear technical communications to the public, military operators, acquisition organizations, and civilian and military decision-makers that conveys  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “convey”. </sup></sup>  successes of research and engineering activities supported by the Department and the contributions of such activities to support national needs.
 
     (b)  __Functions of Defense Research Facilities__  __.—__ 
 
@@ -31,11 +39,13 @@
 
         (2) that appropriate personnel of such facilities are assigned to serve as consultants on component and support system standardization;
 
-        (3) that the managers of such facilities have broad latitude to choose research and development projects;
+        (3) that the managers of such facilities have broad latitude to choose research and development projects based on awareness of activities throughout the technology domain, including within the Federal Government, the Department of Defense, public and private research institutions and universities, and the global commercial marketplace;
 
-        (4) that technology position and issue papers prepared by Defense research facilities are readily available to all components of the Department of Defense and to contractors who submit bids or proposals for Department of Defense contracts; and
+        (4) that technology position and issue papers prepared by Defense research facilities are readily available to all components of the Department of Defense and to contractors who submit bids or proposals for Department of Defense contracts;
 
-        (5) that, in order to promote increased consideration of technological issues early in the development process, any technological assessment made by a Defense research facility shall be provided to the Defense Technical Information Center repository to support acquisition decisions.
+        (5) that, in order to promote increased consideration of technological issues early in the development process, any technological assessment made by a Defense research facility shall be provided to the Defense Technical Information Center repository to support acquisition decisions; and
+
+        (6) that, in light of Defense research facilities being funded by the public, Defense research facilities are broadly authorized and encouraged to support national technological development goals and support technological missions of other departments and agencies of the Federal Government, when such support is determined by the Secretary of Defense to be in the best interests of the Federal Government.
 
     (c)  __Definitions__  __.—__ 
 
@@ -45,9 +55,21 @@
 
         (2) applied research known as exploratory development.
 
-(Added [Pub. L. 99–661, div. A, title II, § 234(c)(1)][/us/pl/99/661/s234/c/1], Nov. 14, 1986, [100 Stat. 3848][/us/stat/100/3848]; amended [Pub. L. 100–26][/us/pl/100/26], §§ 3(1)(A), 7(a)(9), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], 278; [Pub. L. 100–180, div. A, title XII, § 1231(10)(A)][/us/pl/100/180/s1231/10/A], (B), Dec. 4, 1987, [101 Stat. 1160][/us/stat/101/1160]; [Pub. L. 104–106, div. A, title VIII, § 805][/us/pl/104/106/s805], Feb. 10, 1996, [110 Stat. 390][/us/stat/110/390]; [Pub. L. 113–291, div. A, title II, § 213][/us/pl/113/291/s213], Dec. 19, 2014, [128 Stat. 3325][/us/stat/128/3325].)
+(Added [Pub. L. 99–661, div. A, title II, § 234(c)(1)][/us/pl/99/661/s234/c/1], Nov. 14, 1986, [100 Stat. 3848][/us/stat/100/3848]; amended [Pub. L. 100–26][/us/pl/100/26], §§ 3(1)(A), 7(a)(9), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], 278; [Pub. L. 100–180, div. A, title XII, § 1231(10)(A)][/us/pl/100/180/s1231/10/A], (B), Dec. 4, 1987, [101 Stat. 1160][/us/stat/101/1160]; [Pub. L. 104–106, div. A, title VIII, § 805][/us/pl/104/106/s805], Feb. 10, 1996, [110 Stat. 390][/us/stat/110/390]; [Pub. L. 113–291, div. A, title II, § 213][/us/pl/113/291/s213], Dec. 19, 2014, [128 Stat. 3325][/us/stat/128/3325]; [Pub. L. 114–92, div. A, title II, § 214(a)][/us/pl/114/92/s214/a], Nov. 25, 2015, [129 Stat. 767][/us/stat/129/767].)
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92, § 214(a)(3)][/us/pl/114/92/s214/a/3] inserted “and technology domain awareness” after “activities” in section catchline.
+
+    Subsec. (a). [Pub. L. 114–92, § 214(a)(1)][/us/pl/114/92/s214/a/1], added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of Defense shall promote, monitor, and evaluate programs for the communication and exchange of technological data—
+
+    “(1) among the Defense research facilities, combatant commands, and other organizations that are involved in developing for the Department of Defense the technological requirements for new items for use by combat forces; and
+
+    “(2) among Defense research facilities and other offices, agencies, and bureaus in the Department that are engaged in related technological matters.”
+
+    Subsec. (b)(3). [Pub. L. 114–92, § 214(a)(2)(A)][/us/pl/114/92/s214/a/2/A], added par. (3) and struck out former par. (3) which read as follows: “that the managers of such facilities have broad latitude to choose research and development projects;”.
+
+    Subsec. (b)(6). [Pub. L. 114–92, § 214(a)(2)(B)][/us/pl/114/92/s214/a/2/B]–(D), added par. (6).
 
     2014—Subsec. (b)(4). [Pub. L. 113–291, § 213(1)(A)][/us/pl/113/291/s213/1/A], inserted “and issue” after “technology position” and substituted “components of the Department of Defense” for “combatant commands”.
 
@@ -136,6 +158,12 @@
 [/us/stat/110/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F390
 [/us/pl/113/291/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs213
 [/us/stat/128/3325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3325
+[/us/pl/114/92/s214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs214%2Fa
+[/us/stat/129/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F767
+[/us/pl/114/92/s214/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs214%2Fa%2F3
+[/us/pl/114/92/s214/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs214%2Fa%2F1
+[/us/pl/114/92/s214/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs214%2Fa%2F2%2FA
+[/us/pl/114/92/s214/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs214%2Fa%2F2%2FB
 [/us/pl/113/291/s213/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs213%2F1%2FA
 [/us/pl/113/291/s213/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs213%2F1%2FB
 [/us/pl/113/291/s213/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs213%2F2

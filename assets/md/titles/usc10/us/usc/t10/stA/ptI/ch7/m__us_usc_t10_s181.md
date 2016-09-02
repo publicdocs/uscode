@@ -81,6 +81,8 @@
 
         (2) The Council shall seek and consider input from the commanders of the combatant commands in carrying out its mission under paragraphs (1) and (2) of subsection (b) and in conducting periodic reviews in accordance with the requirements of subsection (e).
 
+        (3) The Council shall seek, and strongly consider, the views of the Chiefs of Staff of the armed forces, in their roles as customers of the acquisition system, on matters pertaining to trade-offs among cost, schedule, technical feasibility, and performance under subsection (b)(1)(C) and the balancing of resources with priorities pursuant to subsection (b)(3).
+
     (e)  __Organization__  __.—__ 
 
     The Joint Requirements Oversight Council shall conduct periodic reviews of joint military requirements within a core mission area of the Department of Defense. In any such review of a core mission area, the officer or official assigned to lead the review shall have a deputy from a different military department.
@@ -97,11 +99,17 @@
 
         (1) The term “joint military requirement” means a capability necessary to fulfill a gap in a core mission area of the Department of Defense.
 
-        (2) The term “core mission area” means a core mission area of the Department of Defense identified under the most recent quadrennial roles and missions review pursuant to [section 118b of this title][/us/usc/t10/s118b].
+        (2) The term “core mission area” means a core mission area of the Department of Defense identified under the most recent quadrennial roles and missions review pursuant to section 118b  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title.
 
-(Added [Pub. L. 104–106, div. A, title IX, § 905(a)(1)][/us/pl/104/106/s905/a/1], Feb. 10, 1996, [110 Stat. 403][/us/stat/110/403]; amended [Pub. L. 104–201, div. A, title IX, § 908][/us/pl/104/201/s908], Sept. 23, 1996, [110 Stat. 2621][/us/stat/110/2621]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X, § 1043(b)(3)][/us/pl/108/136/s1043/b/3], Nov. 24, 2003, [117 Stat. 1610][/us/stat/117/1610]; [Pub. L. 110–181, div. A, title IX, § 942(a)][/us/pl/110/181/s942/a]–(d), Jan. 28, 2008, [122 Stat. 287][/us/stat/122/287], 288; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 813(d)(1), Oct. 14, 2008, [122 Stat. 4527][/us/stat/122/4527]; [Pub. L. 111–23, title I][/us/pl/111/23], §§ 101(d)(1), 105(a), title II, § 201(b), May 22, 2009, [123 Stat. 1709][/us/stat/123/1709], 1717, 1719; [Pub. L. 111–383, div. A, title VIII, § 841][/us/pl/111/383/s841], title X, § 1075(b)(8), Jan. 7, 2011, [124 Stat. 4281][/us/stat/124/4281], 4369; [Pub. L. 112–239, div. A, title IX, § 951(b)][/us/pl/112/239/s951/b], Jan. 2, 2013, [126 Stat. 1891][/us/stat/126/1891].)
+(Added [Pub. L. 104–106, div. A, title IX, § 905(a)(1)][/us/pl/104/106/s905/a/1], Feb. 10, 1996, [110 Stat. 403][/us/stat/110/403]; amended [Pub. L. 104–201, div. A, title IX, § 908][/us/pl/104/201/s908], Sept. 23, 1996, [110 Stat. 2621][/us/stat/110/2621]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X, § 1043(b)(3)][/us/pl/108/136/s1043/b/3], Nov. 24, 2003, [117 Stat. 1610][/us/stat/117/1610]; [Pub. L. 110–181, div. A, title IX, § 942(a)][/us/pl/110/181/s942/a]–(d), Jan. 28, 2008, [122 Stat. 287][/us/stat/122/287], 288; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 813(d)(1), Oct. 14, 2008, [122 Stat. 4527][/us/stat/122/4527]; [Pub. L. 111–23, title I][/us/pl/111/23], §§ 101(d)(1), 105(a), title II, § 201(b), May 22, 2009, [123 Stat. 1709][/us/stat/123/1709], 1717, 1719; [Pub. L. 111–383, div. A, title VIII, § 841][/us/pl/111/383/s841], title X, § 1075(b)(8), Jan. 7, 2011, [124 Stat. 4281][/us/stat/124/4281], 4369; [Pub. L. 112–239, div. A, title IX, § 951(b)][/us/pl/112/239/s951/b], Jan. 2, 2013, [126 Stat. 1891][/us/stat/126/1891]; [Pub. L. 114–92, div. A, title VIII, § 802(d)(1)][/us/pl/114/92/s802/d/1], Nov. 25, 2015, [129 Stat. 879][/us/stat/129/879].)
+
+ __References in Text__ 
+
+    [Section 118b of this title][/us/usc/t10/s118b], referred to in subsec. (g)(2), was repealed by [Pub. L. 113–291, div. A, title X, § 1072(b)(1)][/us/pl/113/291/s1072/b/1], Dec. 19, 2014, [128 Stat. 3516][/us/stat/128/3516].
 
  __Amendments__ 
+
+    2015—Subsec. (d)(3). [Pub. L. 114–92][/us/pl/114/92] added par. (3).
 
     2013—Subsec. (b)(1)(C). [Pub. L. 112–239, § 951(b)(1)][/us/pl/112/239/s951/b/1], substituted “in ensuring that appropriate trade-offs are made among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, in the establishment and approval of military requirements” for “in ensuring the consideration of trade-offs among cost, schedule, and performance objectives for joint military requirements”.
 
@@ -201,7 +209,7 @@
 
 [Pub. L. 110–181, div. A, title IX, § 942(f)][/us/pl/110/181/s942/f], Jan. 28, 2008, [122 Stat. 288][/us/stat/122/288], provided that: 
 
-> “Effective June 1, 2009, all joint military requirements documents of the Joint Requirements Oversight Council produced to carry out its mission under [section 181(b)(1) of title 10][/us/usc/t10/s181/b/1], United States Code, shall reference the core mission areas organized and defined under section 118b of such title. Not later than October 1, 2009, all such documents produced before June 1, 2009, shall reference such structure.”
+> “Effective June 1, 2009, all joint military requirements documents of the Joint Requirements Oversight Council produced to carry out its mission under [section 181(b)(1) of title 10][/us/usc/t10/s181/b/1], United States Code, shall reference the core mission areas organized and defined under \[former\] section 118b of such title. Not later than October 1, 2009, all such documents produced before June 1, 2009, shall reference such structure.”
 
  __Reports on Joint Requirements Oversight Council Reform Initiative__ 
 
@@ -215,7 +223,6 @@
 ----------
 
 [/us/usc/t10/s2433/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2433%2Fe%2F2
-[/us/usc/t10/s118b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs118b
 [/us/pl/104/106/s905/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs905%2Fa%2F1
 [/us/stat/110/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F403
 [/us/pl/104/201/s908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs908
@@ -234,6 +241,12 @@
 [/us/stat/124/4281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4281
 [/us/pl/112/239/s951/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs951%2Fb
 [/us/stat/126/1891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1891
+[/us/pl/114/92/s802/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs802%2Fd%2F1
+[/us/stat/129/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F879
+[/us/usc/t10/s118b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs118b
+[/us/pl/113/291/s1072/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1072%2Fb%2F1
+[/us/stat/128/3516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3516
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/239/s951/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs951%2Fb%2F1
 [/us/pl/112/239/s951/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs951%2Fb%2F2
 [/us/pl/111/383/s841/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs841%2Fd

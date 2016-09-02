@@ -83,11 +83,7 @@
 
     The Secretary of Defense shall ensure that the senior official designated under subsection (a) has the support of other Department of Defense officials with relevant capabilities and expertise needed to carry out the requirements of this section.
 
-    (f)  __Annual Report__  __.—__ 
-
-    Not later than March 1 each year, the official responsible for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs shall submit to the congressional defense committees a report on the activities undertaken under this section during the preceding year.
-
-(Added and amended [Pub. L. 111–383, div. A, title IX, § 901(d)][/us/pl/111/383/s901/d], (k)(1)(F), Jan. 7, 2011, [124 Stat. 4321][/us/stat/124/4321], 4325; [Pub. L. 112–239, div. A, title X, § 1076(f)(27)][/us/pl/112/239/s1076/f/27], Jan. 2, 2013, [126 Stat. 1953][/us/stat/126/1953].)
+(Added and amended [Pub. L. 111–383, div. A, title IX, § 901(d)][/us/pl/111/383/s901/d], (k)(1)(F), Jan. 7, 2011, [124 Stat. 4321][/us/stat/124/4321], 4325; [Pub. L. 112–239, div. A, title X, § 1076(f)(27)][/us/pl/112/239/s1076/f/27], Jan. 2, 2013, [126 Stat. 1953][/us/stat/126/1953]; [Pub. L. 114–92, div. A, title X, § 1077(b)][/us/pl/114/92/s1077/b], Nov. 25, 2015, [129 Stat. 998][/us/stat/129/998].)
 
  __Codification__ 
 
@@ -100,6 +96,8 @@
     Another prior section 2438 was renumbered [section 2439 of this title][/us/usc/t10/s2439].
 
  __Amendments__ 
+
+    2015—Subsec. (f). [Pub. L. 114–92][/us/pl/114/92] struck out subsec. (f) which related to annual report.
 
     2013—Subsec. (a)(3). [Pub. L. 112–239][/us/pl/112/239] inserted “the senior” before “official’s”.
 
@@ -135,6 +133,8 @@
 [/us/stat/124/4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4321
 [/us/pl/112/239/s1076/f/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F27
 [/us/stat/126/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1953
+[/us/pl/114/92/s1077/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1077%2Fb
+[/us/stat/129/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F998
 [/us/pl/111/23/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23%2Fs103
 [/us/usc/t10/s2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2430
 [/us/pl/111/383/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fd
@@ -147,6 +147,7 @@
 [/us/pl/103/355/s3006/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs3006%2Fa
 [/us/stat/108/3331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3331
 [/us/usc/t10/s2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2439
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383/s901/k/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fk%2F1%2FF
 [/us/pl/111/383/s901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fd

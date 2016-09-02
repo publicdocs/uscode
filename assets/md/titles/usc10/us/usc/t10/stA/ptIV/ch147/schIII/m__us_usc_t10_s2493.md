@@ -67,7 +67,7 @@
 
                 (i) The primary next of kin of a member of the armed forces who dies while located or serving overseas.
 
-                (ii) Other family members of the deceased member who are eligible for transportation under [section 481f(e) of title 37][/us/usc/t37/s481f/e].
+                (ii) Other family members of the deceased member who are eligible for transportation under [section 481f(d) of title 37][/us/usc/t37/s481f/d].
 
                 (iii) An escort of a family member described in clause (i) or (ii).
 
@@ -99,9 +99,11 @@
 
     The Secretary of a military department may provide base operating support for Fisher Houses associated with facilities of that military department.
 
-(Added [Pub. L. 105–261, div. A, title IX, § 906(a)(1)][/us/pl/105/261/s906/a/1], Oct. 17, 1998, [112 Stat. 2093][/us/stat/112/2093]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 914(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–230; [Pub. L. 107–314, div. A, title III, § 321][/us/pl/107/314/s321], Dec. 2, 2002, [116 Stat. 2510][/us/stat/116/2510]; [Pub. L. 112–81, div. A, title X, § 1061(17)][/us/pl/112/81/s1061/17], Dec. 31, 2011, [125 Stat. 1584][/us/stat/125/1584]; [Pub. L. 112–239, div. A, title VI, § 652(a)][/us/pl/112/239/s652/a], (b), Jan. 2, 2013, [126 Stat. 1784][/us/stat/126/1784].)
+(Added [Pub. L. 105–261, div. A, title IX, § 906(a)(1)][/us/pl/105/261/s906/a/1], Oct. 17, 1998, [112 Stat. 2093][/us/stat/112/2093]; amended [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 914(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–230; [Pub. L. 107–314, div. A, title III, § 321][/us/pl/107/314/s321], Dec. 2, 2002, [116 Stat. 2510][/us/stat/116/2510]; [Pub. L. 112–81, div. A, title X, § 1061(17)][/us/pl/112/81/s1061/17], Dec. 31, 2011, [125 Stat. 1584][/us/stat/125/1584]; [Pub. L. 112–239, div. A, title VI, § 652(a)][/us/pl/112/239/s652/a], (b), Jan. 2, 2013, [126 Stat. 1784][/us/stat/126/1784]; [Pub. L. 114–92, div. A, title VI, § 622(b)][/us/pl/114/92/s622/b], Nov. 25, 2015, [129 Stat. 841][/us/stat/129/841].)
 
  __Amendments__ 
+
+    2015—Subsec. (a)(4)(B)(ii). [Pub. L. 114–92][/us/pl/114/92] substituted “section 481f(d)” for “section 481f(e)”.
 
     2013—Subsec. (a)(1)(B). [Pub. L. 112–239][/us/pl/112/239]. § 652(a)(1), substituted “by authorized Fisher House residents;” for “by patients of that health care facility, members of the families of such patients, and others providing the equivalent of familial support for such patients;”.
 
@@ -180,7 +182,7 @@
 ----------
 ----------
 
-[/us/usc/t37/s481f/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs481f%2Fe
+[/us/usc/t37/s481f/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs481f%2Fd
 [/us/pl/105/261/s906/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs906%2Fa%2F1
 [/us/stat/112/2093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2093
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
@@ -191,6 +193,9 @@
 [/us/stat/125/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1584
 [/us/pl/112/239/s652/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs652%2Fa
 [/us/stat/126/1784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1784
+[/us/pl/114/92/s622/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs622%2Fb
+[/us/stat/129/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F841
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/239/s652/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs652%2Fa%2F2
 [/us/pl/112/239/s652/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs652%2Fb

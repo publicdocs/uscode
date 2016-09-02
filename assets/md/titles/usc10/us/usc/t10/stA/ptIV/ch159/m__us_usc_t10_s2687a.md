@@ -59,7 +59,7 @@
 
         (1) The Secretary of Defense may not enter into an agreement of settlement with a host country regarding the release to the host country of improvements made by the United States to facilities at an installation located in the host country until 30 days after the date on which the Secretary submits the proposed settlement to the Director of the Office of Management and Budget. The prohibition set forth in the preceding sentence shall apply only to agreements of settlement for improvements having a value in excess of $10,000,000. The Director shall evaluate the overall equity of the proposed settlement. In evaluating the proposed settlement, the Director shall consider such factors as the extent of the United States capital investment in the improvements being released to the host country, the depreciation of the improvements, the condition of the improvements, and any applicable requirements for environmental remediation or restoration at the installation.
 
-        (2) Each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on each proposed agreement of settlement that was not submitted by the Secretary to the Director of the Office of Management and Budget in the previous year under paragraph (1) because the value of the improvements to be released pursuant to the proposed agreement did not exceed $10,000,000.
+        (2) Each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on each proposed agreement of settlement that was not submitted by the Secretary to the Director of the Office of Management and Budget in the previous year under paragraph (1) because the fair market value of the improvements to be released pursuant to the proposed agreement did not exceed $10,000,000.
 
     (e)  __Congressional Oversight of Use of Payments-In-Kind for Construction or Operations__  __.—__ 
 
@@ -87,7 +87,7 @@
 
         (1) A military construction project, as defined in chapter 159 of this title, may be accepted as a payment-in-kind contribution pursuant to a bilateral agreement with a host country only if that military construction project is authorized by law.
 
-        (2) Operations of United States forces may be funded through a payment-in-kind contribution under this section only if the costs covered by such payment are included in the budget justification documents for the Department of Defense submitted to Congress in connection with the budget submitted under 1105 of title 31.
+        (2) Operations of United States forces may be funded through a payment-in-kind contribution under this section only if the costs covered by such payment are included in the budget justification documents for the Department of Defense submitted to Congress in connection with the budget submitted under 1105  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “section”. </sup></sup>  of title 31.
 
         (3) If funds previously appropriated for a military construction project, facility improvement, or operating costs are subsequently addressed in an agreement for a payment-in-kind contribution, the Secretary of Defense shall return to the Treasury funds in the amount equal to the value of the appropriated funds.
 
@@ -121,15 +121,15 @@
 
         (4) The term “nonappropriated fund instrumentality” means an instrumentality of the United States under the jurisdiction of the armed forces (including the Army and Air Force Exchange Service, the Navy Resale and Services Support Office, and the Marine Corps exchanges) which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the armed forces.
 
-(Added [Pub. L. 111–84, div. B, title XXVIII, § 2822(a)(1)][/us/pl/111/84/s2822/a/1], Oct. 28, 2009, [123 Stat. 2665][/us/stat/123/2665]; amended [Pub. L. 111–383, div. A, title X, § 1075(b)(44)][/us/pl/111/383/s1075/b/44], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371]; [Pub. L. 112–239, div. A, title X, § 1076(f)(34)][/us/pl/112/239/s1076/f/34], Jan. 2, 2013, [126 Stat. 1954][/us/stat/126/1954]; [Pub. L. 113–66, div. B, title XXVIII, § 2807(a)][/us/pl/113/66/s2807/a], Dec. 26, 2013, [127 Stat. 1008][/us/stat/127/1008]; [Pub. L. 113–291, div. B, title XXVIII, § 2803(a)][/us/pl/113/291/s2803/a], Dec. 19, 2014, [128 Stat. 3696][/us/stat/128/3696].)
+(Added [Pub. L. 111–84, div. B, title XXVIII, § 2822(a)(1)][/us/pl/111/84/s2822/a/1], Oct. 28, 2009, [123 Stat. 2665][/us/stat/123/2665]; amended [Pub. L. 111–383, div. A, title X, § 1075(b)(44)][/us/pl/111/383/s1075/b/44], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371]; [Pub. L. 112–239, div. A, title X, § 1076(f)(34)][/us/pl/112/239/s1076/f/34], Jan. 2, 2013, [126 Stat. 1954][/us/stat/126/1954]; [Pub. L. 113–66, div. B, title XXVIII, § 2807(a)][/us/pl/113/66/s2807/a], Dec. 26, 2013, [127 Stat. 1008][/us/stat/127/1008]; [Pub. L. 113–291, div. B, title XXVIII, § 2803(a)][/us/pl/113/291/s2803/a], Dec. 19, 2014, [128 Stat. 3696][/us/stat/128/3696]; [Pub. L. 114–92, div. A, title X, § 1081(a)(11)][/us/pl/114/92/s1081/a/11], (b)(7), Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001], 1002.)
 
  __Amendment of Subsection (f)__ 
 
-[Pub. L. 113–291, div. B, title XXVIII, § 2803(a)][/us/pl/113/291/s2803/a], (d), Dec. 19, 2014, [128 Stat. 3696][/us/stat/128/3696], 3697, provided that, effective on the later of Sept. 30, 2016, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2017, subsection (f) is amended to read as follows:
+[Pub. L. 113–291, div. B, title XXVIII, § 2803(a)][/us/pl/113/291/s2803/a], (d), Dec. 19, 2014, [128 Stat. 3696][/us/stat/128/3696], 3697, as amended by [Pub. L. 114–92, div. A, title X, § 1081(b)(7)][/us/pl/114/92/s1081/b/7], Nov. 25, 2015, [129 Stat. 1002][/us/stat/129/1002], provided that, effective on the later of Sept. 30, 2016, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2017, subsection (f) of this section is amended to read as follows:
 
     (f) Authorized Use of Payments-In-Kind and In-Kind Contributions.—(1) A military construction project, as defined in chapter 159 of this title, may be accepted as payment-in-kind or as an in-kind contribution required by a bilateral agreement with a host country only if that military construction project is authorized by law.
 
-    (2) Operations of United States forces may be funded through payment-in-kind or an in-kind contribution required by a bilateral agreement with a host country under this section only if the costs covered by such payment or contribution are included in the budget justification documents for the Department of Defense submitted to Congress in connection with the budget submitted under 1105 of title 31.
+    (2) Operations of United States forces may be funded through payment-in-kind or an in-kind contribution required by a bilateral agreement with a host country under this section only if the costs covered by such payment or contribution are included in the budget justification documents for the Department of Defense submitted to Congress in connection with the budget submitted under [section 1105 of title 31][/us/usc/t31/s1105].
 
     (3) If funds previously appropriated for a military construction project or operating costs are subsequently addressed in an agreement for payment-in-kind or by an in-kind contribution required by a bilateral agreement with a host country, the Secretary of Defense shall return to the Treasury funds in the amount equal to the value of the appropriated funds.
 
@@ -161,7 +161,11 @@
 
  __Amendments__ 
 
-    2014—Subsec. (f). [Pub. L. 113–291][/us/pl/113/291] amended subsec. (f) generally. Prior to amendment, subsec. (f) related to authorized use of payments-in-kind.
+    2015—Subsec. (d)(2). [Pub. L. 114–92, § 1081(a)(11)][/us/pl/114/92/s1081/a/11], inserted “fair market” before “value”.
+
+    Subsec. (f)(2). [Pub. L. 114–92, § 1081(b)(7)][/us/pl/114/92/s1081/b/7], amended [Pub. L. 113–291, § 2803(a)][/us/pl/113/291/s2803/a]. See 2014 Amendment note below.
+
+    2014—Subsec. (f). [Pub. L. 113–291, § 2803(a)][/us/pl/113/291/s2803/a], as amended by [Pub. L. 114–92, § 1081(b)(7)][/us/pl/114/92/s1081/b/7], amended subsec. (f) generally. Prior to amendment, subsec. (f) related to authorized use of payments-in-kind.
 
     2013—[Pub. L. 113–66, § 2807(a)][/us/pl/113/66/s2807/a], amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) which related to an annual status report of overseas base closures, realignments, and basing master plans and required elements of the report, respectively.
 
@@ -170,6 +174,10 @@
     Subsec. (b)(1). [Pub. L. 112–239, § 1076(f)(34)(B)][/us/pl/112/239/s1076/f/34/B], struck out comma after “including” and substituted “the Treaty” for “The Treaty”.
 
     2011—Subsec. (a). [Pub. L. 111–383][/us/pl/111/383] substituted “31 for” for “31for” in introductory provisions.
+
+ __Effective Date of 2015 Amendment__ 
+
+    [Pub. L. 114–92, div. A, title X, § 1081(b)][/us/pl/114/92/s1081/b], Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001], provided in part that the amendment made by section 1081(b)(7) is effective as of Dec. 19, 2014, and as if included in [Pub. L. 113–291][/us/pl/113/291] as enacted.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -207,8 +215,13 @@
 [/us/stat/127/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1008
 [/us/pl/113/291/s2803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2803%2Fa
 [/us/stat/128/3696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3696
+[/us/pl/114/92/s1081/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F11
+[/us/stat/129/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1001
 [/us/pl/113/291/s2803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2803%2Fa
 [/us/stat/128/3696]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3696
+[/us/pl/114/92/s1081/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fb%2F7
+[/us/stat/129/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1002
+[/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/usc/t10/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805
@@ -216,11 +229,18 @@
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/usc/t10/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
+[/us/pl/114/92/s1081/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F11
+[/us/pl/114/92/s1081/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fb%2F7
+[/us/pl/113/291/s2803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2803%2Fa
+[/us/pl/113/291/s2803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2803%2Fa
+[/us/pl/114/92/s1081/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fb%2F7
 [/us/pl/113/66/s2807/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2807%2Fa
 [/us/pl/112/239/s1076/f/34/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F34%2FA
 [/us/pl/112/239/s1076/f/34/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F34%2FB
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
+[/us/pl/114/92/s1081/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fb
+[/us/stat/129/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1001
+[/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/291/s2803/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2803%2Fd
 [/us/stat/128/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3697
 [/us/usc/t10/s2802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2802

@@ -37,6 +37,76 @@
 
     A prior section 2271, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 123][/us/stat/70A/123], related to competitions for designs of aircraft, aircraft parts, and aeronautical accessories, prior to repeal by [Pub. L. 103–160, div. A, title VIII, § 821(a)(1)][/us/pl/103/160/s821/a/1], Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704].
 
+ __Consolidation of Acquisition of Wideband Satellite Communications__ 
+
+[Pub. L. 114–92, div. A, title XVI, § 1610][/us/pl/114/92/s1610], Nov. 25, 2015, [129 Stat. 1102][/us/stat/129/1102], provided that:
+
+>     “(a) __Plan.—__ 
+
+>         “(1)  __Consolidation__  __.—__ 
+
+>         Not later than one year after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for the consolidation, during the one-year period beginning on the date on which the plan is submitted, of the acquisition of wideband satellite communications necessary to meet the requirements of the Department of Defense for such communications, including with respect to military and commercial satellite communications.
+
+>         “(2)  __Elements__  __.—__ 
+
+>         The plan under paragraph (1) shall include—
+
+>             “(A) an assessment of the management and overhead costs relating to the acquisition of commercial satellite communications services across the Department of Defense;
+
+>             “(B)
+
+>              an estimate of—
+
+>                 “(i) the costs of implementing the consolidation of the acquisition of such services described in paragraph (1); and
+
+>                 “(ii) the projected savings of the consolidation;
+
+>             “(C) the identification and designation of a single acquisition agent pursuant to paragraph (3)(A); and
+
+>             “(D) the roles and responsibilities of officials of the Department, including pursuant to paragraph (3).
+
+>         “(3) __Single acquisition agent.—__ 
+
+>             “(A) Except as provided by subparagraph (B), under the plan under paragraph (1), the Secretary of Defense shall identify and designate a single senior official of the Department of Defense to procure wideband satellite communications necessary to meet the requirements of the Department of Defense for such communications, including with respect to military and commercial satellite communications.
+
+>             “(B) Notwithstanding subparagraph (A), under the plan under paragraph (1), an official described in subparagraph (C) may carry out the procurement of commercial wideband satellite communications if the official determines that such procurement is required to meet an urgent need.
+
+>             “(C)
+
+>              An official described in this subparagraph is any of the following:
+
+>                 “(i) A Secretary of a military department.
+
+>                 “(ii) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+>                 “(iii) The Chief Information Office of the Department of Defense.
+
+>                 “(iv) A commander of a combatant command.
+
+>         “(4)  __Validation__  __.—__ 
+
+>         The Director of Cost Assessment and Program Evaluation shall validate the assessment required by subparagraph (A) of paragraph (2) and the estimates required by subparagraph (B) of such paragraph.
+
+>     “(b) __Implementation.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Except as provided by paragraph (2), the Secretary of Defense shall complete the implementation of the plan under subsection (a) by not later than one year after the date on which the Secretary submits the plan under such paragraph.
+
+>         “(2)  __Waiver__  __.—__ 
+
+>         The Secretary may waive the implementation of the plan under subsection (a) if the Secretary—
+
+>             “(A)
+
+>              determines that—
+
+>                 “(i) such implementation will require significant additional funding; or
+
+>                 “(ii) such waiver is in the interests of national security; and
+
+>             “(B) submits to the congressional defense committees notice of such waiver and the justifications for such waiver.”
+
  __Satellite Communications Responsibilities of Executive Agent for Space__ 
 
 [Pub. L. 113–291, div. A, title XVI, § 1603][/us/pl/113/291/s1603], Dec. 19, 2014, [128 Stat. 3622][/us/stat/128/3622], provided that: 
@@ -53,7 +123,7 @@
 
  __Prohibition on Contracting With Russian Suppliers of Rocket Engines for the Evolved Expendable Launch Vehicle Program__ 
 
-[Pub. L. 113–291, div. A, title XVI, § 1608][/us/pl/113/291/s1608], Dec. 19, 2014, [128 Stat. 3626][/us/stat/128/3626], provided that:
+[Pub. L. 113–291, div. A, title XVI, § 1608][/us/pl/113/291/s1608], Dec. 19, 2014, [128 Stat. 3626][/us/stat/128/3626], as amended by [Pub. L. 114–92, div. A, title XVI, § 1607][/us/pl/114/92/s1607], Nov. 25, 2015, [129 Stat. 1100][/us/stat/129/1100], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -71,11 +141,13 @@
 
 >         “(1)  __In general__  __.—__ 
 
->         The prohibition in subsection (a) shall not apply to either—
+>         The prohibition in subsection (a) shall not apply to any of the following:
 
->             “(A) the placement of orders or the exercise of options under the contract numbered FA8811–13–C–0003 and awarded on December 18, 2013; or
+>             “(A) The placement of orders or the exercise of options under the contract numbered FA8811–13–C–0003 and awarded on December 18, 2013.
 
->             “(B) subject to paragraph (2), a contract awarded for the procurement of property or services for space launch activities that includes the use of rocket engines designed or manufactured in the Russian Federation that prior to February 1, 2014, were either fully paid for by the contractor or covered by a legally binding commitment of the contractor to fully pay for such rocket engines.
+>             “(B) Subject to paragraph (2), contracts awarded for the procurement of property or services for space launch activities that include the use of not more than a total of five rocket engines designed or manufactured in the Russian Federation that prior to February 1, 2014, were either fully paid for by the contractor or covered by a legally binding commitment of the contractor to fully pay for such rocket engines.
+
+>             “(C) Contracts not covered under subparagraph (A) or (B) that are awarded for the procurement of property or services for space launch activities that include the use of not more than a total of four additional rocket engines designed or manufactured in the Russian Federation.
 
 >         “(2)  __Certification__  __.—__ 
 
@@ -240,10 +312,14 @@
 [/us/stat/70A/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F123
 [/us/pl/103/160/s821/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs821%2Fa%2F1
 [/us/stat/107/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1704
+[/us/pl/114/92/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1610
+[/us/stat/129/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1102
 [/us/pl/113/291/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1603
 [/us/stat/128/3622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3622
 [/us/pl/113/291/s1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1608
 [/us/stat/128/3626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3626
+[/us/pl/114/92/s1607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1607
+[/us/stat/129/1100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1100
 [/us/pl/111/383/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs911
 [/us/stat/124/4328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4328
 [/us/pl/113/291/s1071/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fd%2F1%2FA

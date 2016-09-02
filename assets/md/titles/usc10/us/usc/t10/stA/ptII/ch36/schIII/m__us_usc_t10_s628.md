@@ -17,7 +17,7 @@
 
     (a)  __Persons Not Considered by Promotion Boards Due to Administrative Error__  __.—__ 
 
-        (1) If the Secretary of the military department concerned determines that because of administrative error a person who should have been considered for selection for promotion from in or above the promotion zone by a promotion board was not so considered, or the name of a person that should have been placed on an all-fully-qualified-officers list under [section 624(a)(3) of this title][/us/usc/t10/s624/a/3] was not so placed, the Secretary shall convene a special selection board under this subsection to determine whether that person (whether or not then on active duty) should be recommended for promotion.
+        (1) If the Secretary of the military department concerned determines that because of administrative error a person who should have been considered for selection for promotion from in or above the promotion zone by a promotion board was not so considered, the Secretary shall convene a special selection board under this subsection to determine whether that person (whether or not then on active duty) should be recommended for promotion.
 
         (2) A special selection board convened under paragraph (1) shall consider the record of the person whose name was referred to it for consideration as that record would have appeared to the board that should have considered him. That record shall be compared with a sampling of the records of those officers of the same competitive category who were recommended for promotion, and those officers who were not recommended for promotion, by the board that should have considered him.
 
@@ -135,9 +135,11 @@
 
     In this section, the term “promotion board” means a selection board convened by the Secretary of a military department under section 573(a) or 611(a) of this title.
 
-(Added [Pub. L. 96–513, title I, § 105][/us/pl/96/513/s105], Dec. 12, 1980, [94 Stat. 2859][/us/stat/94/2859]; amended [Pub. L. 98–525, title V, § 527(a)][/us/pl/98/525/s527/a], Oct. 19, 1984, [98 Stat. 2525][/us/stat/98/2525]; [Pub. L. 102–190, div. A, title XI, § 1131(4)][/us/pl/102/190/s1131/4], Dec. 5, 1991, [105 Stat. 1506][/us/stat/105/1506]; [Pub. L. 102–484, div. A, title X, § 1052(10)][/us/pl/102/484/s1052/10], Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499]; [Pub. L. 105–261, div. A, title V, § 501(a)][/us/pl/105/261/s501/a]–(e), Oct. 17, 1998, [112 Stat. 2000–2002][/us/stat/112/2000-2002]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–290; [Pub. L. 107–107, div. A, title V][/us/pl/107/107], §§ 503(b), 505(c)(3)(A), Dec. 28, 2001, [115 Stat. 1083][/us/stat/115/1083], 1088; [Pub. L. 109–364, div. A, title V, § 514(a)][/us/pl/109/364/s514/a], Oct. 17, 2006, [120 Stat. 2185][/us/stat/120/2185]; [Pub. L. 111–383, div. A, title V, § 503(b)][/us/pl/111/383/s503/b], Jan. 7, 2011, [124 Stat. 4208][/us/stat/124/4208].)
+(Added [Pub. L. 96–513, title I, § 105][/us/pl/96/513/s105], Dec. 12, 1980, [94 Stat. 2859][/us/stat/94/2859]; amended [Pub. L. 98–525, title V, § 527(a)][/us/pl/98/525/s527/a], Oct. 19, 1984, [98 Stat. 2525][/us/stat/98/2525]; [Pub. L. 102–190, div. A, title XI, § 1131(4)][/us/pl/102/190/s1131/4], Dec. 5, 1991, [105 Stat. 1506][/us/stat/105/1506]; [Pub. L. 102–484, div. A, title X, § 1052(10)][/us/pl/102/484/s1052/10], Oct. 23, 1992, [106 Stat. 2499][/us/stat/106/2499]; [Pub. L. 105–261, div. A, title V, § 501(a)][/us/pl/105/261/s501/a]–(e), Oct. 17, 1998, [112 Stat. 2000–2002][/us/stat/112/2000-2002]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–290; [Pub. L. 107–107, div. A, title V][/us/pl/107/107], §§ 503(b), 505(c)(3)(A), Dec. 28, 2001, [115 Stat. 1083][/us/stat/115/1083], 1088; [Pub. L. 109–364, div. A, title V, § 514(a)][/us/pl/109/364/s514/a], Oct. 17, 2006, [120 Stat. 2185][/us/stat/120/2185]; [Pub. L. 111–383, div. A, title V, § 503(b)][/us/pl/111/383/s503/b], Jan. 7, 2011, [124 Stat. 4208][/us/stat/124/4208]; [Pub. L. 114–92, div. A, title V, § 502(c)(1)][/us/pl/114/92/s502/c/1], Nov. 25, 2015, [129 Stat. 807][/us/stat/129/807].)
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1). [Pub. L. 114–92][/us/pl/114/92] struck out “or the name of a person that should have been placed on an all-fully-qualified-officers list under [section 624(a)(3) of this title][/us/usc/t10/s624/a/3] was not so placed,” after “not so considered,”.
 
     2011—Subsec. (c)(2). [Pub. L. 111–383][/us/pl/111/383] substituted “sections 576(d), 576(f), and 613a” for “sections 576(d) and 576(f)”.
 
@@ -222,7 +224,6 @@
 ----------
 ----------
 
-[/us/usc/t10/s624/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs624%2Fa%2F3
 [/us/usc/t10/s611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs611%2Fa
 [/us/usc/t10/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs573
 [/us/usc/t10/s624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs624
@@ -250,6 +251,10 @@
 [/us/stat/120/2185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2185
 [/us/pl/111/383/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs503%2Fb
 [/us/stat/124/4208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4208
+[/us/pl/114/92/s502/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs502%2Fc%2F1
+[/us/stat/129/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F807
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/usc/t10/s624/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs624%2Fa%2F3
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/109/364/s514/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs514%2Fa%2F1
 [/us/pl/109/364/s514/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs514%2Fa%2F2

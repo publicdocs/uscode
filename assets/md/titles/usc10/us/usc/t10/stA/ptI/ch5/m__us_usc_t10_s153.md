@@ -61,7 +61,7 @@
 
             (G) Recommending to the Secretary appropriate trade-offs among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, to ensure that such trade-offs are made in the acquisition of materiel and equipment to support the strategic and contingency plans required by this subsection in the most effective and efficient manner.
 
-        (5)  __Joint force development activities__  __.—__ 
+        (5)  __Joint Force Development Activities__  __.—__ 
 
             (A) Developing doctrine for the joint employment of the armed forces.
 
@@ -72,6 +72,8 @@
             (D) Formulating policies for concept development and experimentation for the joint employment of the armed forces.
 
             (E) Formulating policies for gathering, developing, and disseminating joint lessons learned for the armed forces.
+
+            (F) Advising the Secretary on development of joint command, control, communications, and cyber capability, including integration and interoperability of such capability, through requirements, integrated architectures, data standards, and assessments.
 
         (6)  __Other Matters__  __.—__ 
 
@@ -199,9 +201,13 @@
 
             (D) A description of the funding proposed in the President’s budget for the next fiscal year, and for the subsequent fiscal years covered by the most recent future-years defense program, to address each deficiency in readiness identified during the joint readiness review conducted under [section 117 of this title][/us/usc/t10/s117] for the first quarter of the current fiscal year.
 
-(Added [Pub. L. 99–433, title II, § 201][/us/pl/99/433/s201], Oct. 1, 1986, [100 Stat. 1007][/us/stat/100/1007]; amended [Pub. L. 106–65, div. A, title X, § 1033][/us/pl/106/65/s1033], Oct. 5, 1999, [113 Stat. 751][/us/stat/113/751]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 905\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–226; [Pub. L. 107–107, div. A, title IX, § 921(b)][/us/pl/107/107/s921/b], Dec. 28, 2001, [115 Stat. 1198][/us/stat/115/1198]; [Pub. L. 107–314, div. A, title X, § 1062(a)(1)][/us/pl/107/314/s1062/a/1], Dec. 2, 2002, [116 Stat. 2649][/us/stat/116/2649]; [Pub. L. 108–136, div. A, title IX, § 903][/us/pl/108/136/s903], title X, § 1043(b)(2), Nov. 24, 2003, [117 Stat. 1558][/us/stat/117/1558], 1610; [Pub. L. 112–81, div. A, title VIII, § 820(b)][/us/pl/112/81/s820/b], title IX, § 941, Dec. 31, 2011, [125 Stat. 1501][/us/stat/125/1501], 1548; [Pub. L. 112–239, div. A, title VIII, § 845(b)][/us/pl/112/239/s845/b], title IX, §§ 951(a), 952, Jan. 2, 2013, [126 Stat. 1848][/us/stat/126/1848], 1891, 1892; [Pub. L. 113–66, div. A, title IX, § 905][/us/pl/113/66/s905], Dec. 26, 2013, [127 Stat. 817][/us/stat/127/817]; [Pub. L. 113–291, div. A, title X, § 1071(c)(2)][/us/pl/113/291/s1071/c/2], (g)(3), Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508], 3511.)
+(Added [Pub. L. 99–433, title II, § 201][/us/pl/99/433/s201], Oct. 1, 1986, [100 Stat. 1007][/us/stat/100/1007]; amended [Pub. L. 106–65, div. A, title X, § 1033][/us/pl/106/65/s1033], Oct. 5, 1999, [113 Stat. 751][/us/stat/113/751]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 905\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–226; [Pub. L. 107–107, div. A, title IX, § 921(b)][/us/pl/107/107/s921/b], Dec. 28, 2001, [115 Stat. 1198][/us/stat/115/1198]; [Pub. L. 107–314, div. A, title X, § 1062(a)(1)][/us/pl/107/314/s1062/a/1], Dec. 2, 2002, [116 Stat. 2649][/us/stat/116/2649]; [Pub. L. 108–136, div. A, title IX, § 903][/us/pl/108/136/s903], title X, § 1043(b)(2), Nov. 24, 2003, [117 Stat. 1558][/us/stat/117/1558], 1610; [Pub. L. 112–81, div. A, title VIII, § 820(b)][/us/pl/112/81/s820/b], title IX, § 941, Dec. 31, 2011, [125 Stat. 1501][/us/stat/125/1501], 1548; [Pub. L. 112–239, div. A, title VIII, § 845(b)][/us/pl/112/239/s845/b], title IX, §§ 951(a), 952, Jan. 2, 2013, [126 Stat. 1848][/us/stat/126/1848], 1891, 1892; [Pub. L. 113–66, div. A, title IX, § 905][/us/pl/113/66/s905], Dec. 26, 2013, [127 Stat. 817][/us/stat/127/817]; [Pub. L. 113–291, div. A, title X, § 1071(c)(2)][/us/pl/113/291/s1071/c/2], (g)(3), Dec. 19, 2014, [128 Stat. 3508][/us/stat/128/3508], 3511; [Pub. L. 114–92, div. A, title IX, § 901][/us/pl/114/92/s901], title X, § 1081(a)(3), Nov. 25, 2015, [129 Stat. 956][/us/stat/129/956], 1000.)
 
  __Amendments__ 
+
+    2015—Subsec. (a)(5). [Pub. L. 114–92, § 1081(a)(3)][/us/pl/114/92/s1081/a/3], substituted “Joint Force Development Activities” for “Joint force development activities” in heading.
+
+    Subsec. (a)(5)(F). [Pub. L. 114–92, § 901][/us/pl/114/92/s901], added subpar. (F).
 
     2014—Subsec. (a)(5). [Pub. L. 113–291, § 1071(g)(3)][/us/pl/113/291/s1071/g/3], amended [Pub. L. 113–66, § 905(b)][/us/pl/113/66/s905/b]. See 2013 Amendment note below.
 
@@ -267,6 +273,16 @@
 
     [Pub. L. 113–291, div. A, title X, § 1071(g)][/us/pl/113/291/s1071/g], Dec. 19, 2014, [128 Stat. 3511][/us/stat/128/3511], provided that the amendment made by section 1071(g)(3) is effective as of Dec. 26, 2013, and as if included in [Pub. L. 113–66][/us/pl/113/66] as enacted.
 
+ __Inclusion of Assessment of Joint Military Training and Force Allocations in Quadrennial Defense Review and National Military Strategy__ 
+
+[Pub. L. 112–81, div. A, title III, § 348][/us/pl/112/81/s348], Dec. 31, 2011, [125 Stat. 1375][/us/stat/125/1375], provided that: 
+
+> “The assessments of the National Military Strategy conducted by the Chairman of the Joint Chiefs of Staff under [section 153(b) of this title][/us/usc/t10/s153/b] \[sic; probably means Title 10, Armed Forces\], and the quadrennial roles and missions review pursuant to \[former\] [section 118b of this title][/us/usc/t10/s118b] \[sic\], shall include an assessment of joint military training and force allocations to determine—
+
+>     “(1) the compliance of the military departments with the joint training, doctrine, and resource allocation recommendations promulgated by the Joint Chiefs of Staff; and
+
+>     “(2) the effectiveness of the Joint Staff in carrying out the missions of planning and experimentation formerly accomplished by Joint Forces Command.”
+
  __Common Measurement of Operations Tempo and Personnel Tempo__ 
 
 [Pub. L. 105–85, div. A, title III, § 326][/us/pl/105/85/s326], Nov. 18, 1997, [111 Stat. 1679][/us/stat/111/1679], provided that:
@@ -328,6 +344,10 @@
 [/us/stat/127/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F817
 [/us/pl/113/291/s1071/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F2
 [/us/stat/128/3508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3508
+[/us/pl/114/92/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs901
+[/us/stat/129/956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F956
+[/us/pl/114/92/s1081/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F3
+[/us/pl/114/92/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs901
 [/us/pl/113/291/s1071/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fg%2F3
 [/us/pl/113/66/s905/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs905%2Fb
 [/us/pl/113/291/s1071/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fc%2F2
@@ -361,6 +381,10 @@
 [/us/pl/113/291/s1071/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fg
 [/us/stat/128/3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3511
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/pl/112/81/s348]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs348
+[/us/stat/125/1375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1375
+[/us/usc/t10/s153/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs153%2Fb
+[/us/usc/t10/s118b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs118b
 [/us/pl/105/85/s326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs326
 [/us/stat/111/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1679
 [/us/pl/103/160/s376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs376

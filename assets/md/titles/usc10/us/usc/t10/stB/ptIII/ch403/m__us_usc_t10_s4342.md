@@ -29,15 +29,15 @@
 
         (5) Five cadets from the District of Columbia, nominated by the Delegate to the House of Representatives from the District of Columbia.
 
-        (6) Three cadets from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands.
+        (6) Four cadets from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands.
 
         (7) Six cadets from Puerto Rico, five of whom are nominated by the Resident Commissioner from Puerto Rico and one who is a native of Puerto Rico nominated by the Governor of Puerto Rico.
 
-        (8) Three cadets from Guam, nominated by the Delegate in Congress from Guam.
+        (8) Four cadets from Guam, nominated by the Delegate in Congress from Guam.
 
-        (9) Two cadets from American Samoa, nominated by the Delegate in Congress from American Samoa.
+        (9) Three cadets from American Samoa, nominated by the Delegate in Congress from American Samoa.
 
-        (10) Two cadets from the Commonwealth of the Northern Mariana Islands, nominated by the Delegate in Congress from the commonwealth.
+        (10) Three cadets from the Commonwealth of the Northern Mariana Islands, nominated by the Delegate in Congress from the commonwealth.
 
         Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 10 persons for each vacancy that is available to him under this section. Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter.
 
@@ -119,7 +119,7 @@
 
         (4) In this subsection, the term “cadet strength limit” means the authorized maximum strength of the Corps of Cadets of the Academy.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 240][/us/stat/70A/240]; [Pub. L. 85–861, § 33(a)(26)][/us/pl/85/861/s33/a/26], Sept. 2, 1958, [72 Stat. 1565][/us/stat/72/1565]; [Pub. L. 87–663, § 1(1)][/us/pl/87/663/s1/1], (2), Sept. 14, 1962, [76 Stat. 547][/us/stat/76/547]; [Pub. L. 88–276, § 1(1)][/us/pl/88/276/s1/1], Mar. 3, 1964, [78 Stat. 148][/us/stat/78/148]; [Pub. L. 89–650, § 1(1)][/us/pl/89/650/s1/1]–(4), Oct. 13, 1966, [80 Stat. 896][/us/stat/80/896]; [Pub. L. 90–374][/us/pl/90/374], July 5, 1968, [82 Stat. 283][/us/stat/82/283]; [Pub. L. 90–623, § 2(8)][/us/pl/90/623/s2/8], Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 91–405, title II, § 204(c)][/us/pl/91/405/s204/c], Sept. 22, 1970, [84 Stat. 852][/us/stat/84/852]; [Pub. L. 92–365, § 1(1)][/us/pl/92/365/s1/1], Aug. 7, 1972, [86 Stat. 505][/us/stat/86/505]; [Pub. L. 93–171, § 1(1)][/us/pl/93/171/s1/1]–(4), Nov. 29, 1973, [87 Stat. 690][/us/stat/87/690]; [Pub. L. 94–106, title VIII, § 803(b)(1)][/us/pl/94/106/s803/b/1], Oct. 7, 1975, [89 Stat. 538][/us/stat/89/538]; [Pub. L. 96–513, title V, § 512(13)][/us/pl/96/513/s512/13], Dec. 12, 1980, [94 Stat. 2930][/us/stat/94/2930]; [Pub. L. 96–600, § 2(a)][/us/pl/96/600/s2/a], Dec. 24, 1980, [94 Stat. 3493][/us/stat/94/3493]; [Pub. L. 97–60, title II, § 203(a)(1)][/us/pl/97/60/s203/a/1], Oct. 14, 1981, [95 Stat. 1006][/us/stat/95/1006]; [Pub. L. 98–94, title X, § 1005(a)(1)][/us/pl/98/94/s1005/a/1], (b)(1), Sept. 24, 1983, [97 Stat. 660][/us/stat/97/660]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 101–510, div. A, title V, § 532(a)(1)][/us/pl/101/510/s532/a/1], Nov. 5, 1990, [104 Stat. 1563][/us/stat/104/1563]; [Pub. L. 103–160, div. A, title V, § 531][/us/pl/103/160/s531], Nov. 30, 1993, [107 Stat. 1657][/us/stat/107/1657]; [Pub. L. 103–337, div. A, title XVI, § 1672(c)(3)][/us/pl/103/337/s1672/c/3], Oct. 5, 1994, [108 Stat. 3015][/us/stat/108/3015]; [Pub. L. 104–106, div. A, title V, § 532(a)][/us/pl/104/106/s532/a], title XV, § 1502(a)(1), Feb. 10, 1996, [110 Stat. 314][/us/stat/110/314], 502; [Pub. L. 105–85, div. A, title X, § 1073(a)(62)][/us/pl/105/85/s1073/a/62], Nov. 18, 1997, [111 Stat. 1903][/us/stat/111/1903]; [Pub. L. 106–65, div. A, title V, § 531(b)(1)][/us/pl/106/65/s531/b/1], title X, § 1067(1), Oct. 5, 1999, [113 Stat. 602][/us/stat/113/602], 774; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 531(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–109; [Pub. L. 107–314, div. A, title V, § 532(a)][/us/pl/107/314/s532/a], (f), Dec. 2, 2002, [116 Stat. 2545][/us/stat/116/2545], 2547; [Pub. L. 108–136, div. A, title V, § 524(a)][/us/pl/108/136/s524/a], title X, § 1031(a)(53), Nov. 24, 2003, [117 Stat. 1464][/us/stat/117/1464], 1603; [Pub. L. 109–364, div. A, title X, § 1071(a)(28)][/us/pl/109/364/s1071/a/28], Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399]; [Pub. L. 110–181, div. A, title V, § 525][/us/pl/110/181/s525], Jan. 28, 2008, [122 Stat. 104][/us/stat/122/104]; [Pub. L. 110–229, title VII, § 718(a)][/us/pl/110/229/s718/a], May 8, 2008, [122 Stat. 869][/us/stat/122/869]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 540(a), Oct. 14, 2008, [122 Stat. 4454][/us/stat/122/4454]; [Pub. L. 111–84, div. A, title V, § 527(a)][/us/pl/111/84/s527/a], Oct. 28, 2009, [123 Stat. 2288][/us/stat/123/2288]; [Pub. L. 112–239, div. A, title X, § 1076(f)(38)][/us/pl/112/239/s1076/f/38], Jan. 2, 2013, [126 Stat. 1954][/us/stat/126/1954].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 240][/us/stat/70A/240]; [Pub. L. 85–861, § 33(a)(26)][/us/pl/85/861/s33/a/26], Sept. 2, 1958, [72 Stat. 1565][/us/stat/72/1565]; [Pub. L. 87–663, § 1(1)][/us/pl/87/663/s1/1], (2), Sept. 14, 1962, [76 Stat. 547][/us/stat/76/547]; [Pub. L. 88–276, § 1(1)][/us/pl/88/276/s1/1], Mar. 3, 1964, [78 Stat. 148][/us/stat/78/148]; [Pub. L. 89–650, § 1(1)][/us/pl/89/650/s1/1]–(4), Oct. 13, 1966, [80 Stat. 896][/us/stat/80/896]; [Pub. L. 90–374][/us/pl/90/374], July 5, 1968, [82 Stat. 283][/us/stat/82/283]; [Pub. L. 90–623, § 2(8)][/us/pl/90/623/s2/8], Oct. 22, 1968, [82 Stat. 1314][/us/stat/82/1314]; [Pub. L. 91–405, title II, § 204(c)][/us/pl/91/405/s204/c], Sept. 22, 1970, [84 Stat. 852][/us/stat/84/852]; [Pub. L. 92–365, § 1(1)][/us/pl/92/365/s1/1], Aug. 7, 1972, [86 Stat. 505][/us/stat/86/505]; [Pub. L. 93–171, § 1(1)][/us/pl/93/171/s1/1]–(4), Nov. 29, 1973, [87 Stat. 690][/us/stat/87/690]; [Pub. L. 94–106, title VIII, § 803(b)(1)][/us/pl/94/106/s803/b/1], Oct. 7, 1975, [89 Stat. 538][/us/stat/89/538]; [Pub. L. 96–513, title V, § 512(13)][/us/pl/96/513/s512/13], Dec. 12, 1980, [94 Stat. 2930][/us/stat/94/2930]; [Pub. L. 96–600, § 2(a)][/us/pl/96/600/s2/a], Dec. 24, 1980, [94 Stat. 3493][/us/stat/94/3493]; [Pub. L. 97–60, title II, § 203(a)(1)][/us/pl/97/60/s203/a/1], Oct. 14, 1981, [95 Stat. 1006][/us/stat/95/1006]; [Pub. L. 98–94, title X, § 1005(a)(1)][/us/pl/98/94/s1005/a/1], (b)(1), Sept. 24, 1983, [97 Stat. 660][/us/stat/97/660]; [Pub. L. 101–189, div. A, title XVI, § 1621(a)(1)][/us/pl/101/189/s1621/a/1], Nov. 29, 1989, [103 Stat. 1602][/us/stat/103/1602]; [Pub. L. 101–510, div. A, title V, § 532(a)(1)][/us/pl/101/510/s532/a/1], Nov. 5, 1990, [104 Stat. 1563][/us/stat/104/1563]; [Pub. L. 103–160, div. A, title V, § 531][/us/pl/103/160/s531], Nov. 30, 1993, [107 Stat. 1657][/us/stat/107/1657]; [Pub. L. 103–337, div. A, title XVI, § 1672(c)(3)][/us/pl/103/337/s1672/c/3], Oct. 5, 1994, [108 Stat. 3015][/us/stat/108/3015]; [Pub. L. 104–106, div. A, title V, § 532(a)][/us/pl/104/106/s532/a], title XV, § 1502(a)(1), Feb. 10, 1996, [110 Stat. 314][/us/stat/110/314], 502; [Pub. L. 105–85, div. A, title X, § 1073(a)(62)][/us/pl/105/85/s1073/a/62], Nov. 18, 1997, [111 Stat. 1903][/us/stat/111/1903]; [Pub. L. 106–65, div. A, title V, § 531(b)(1)][/us/pl/106/65/s531/b/1], title X, § 1067(1), Oct. 5, 1999, [113 Stat. 602][/us/stat/113/602], 774; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 531(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–109; [Pub. L. 107–314, div. A, title V, § 532(a)][/us/pl/107/314/s532/a], (f), Dec. 2, 2002, [116 Stat. 2545][/us/stat/116/2545], 2547; [Pub. L. 108–136, div. A, title V, § 524(a)][/us/pl/108/136/s524/a], title X, § 1031(a)(53), Nov. 24, 2003, [117 Stat. 1464][/us/stat/117/1464], 1603; [Pub. L. 109–364, div. A, title X, § 1071(a)(28)][/us/pl/109/364/s1071/a/28], Oct. 17, 2006, [120 Stat. 2399][/us/stat/120/2399]; [Pub. L. 110–181, div. A, title V, § 525][/us/pl/110/181/s525], Jan. 28, 2008, [122 Stat. 104][/us/stat/122/104]; [Pub. L. 110–229, title VII, § 718(a)][/us/pl/110/229/s718/a], May 8, 2008, [122 Stat. 869][/us/stat/122/869]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 540(a), Oct. 14, 2008, [122 Stat. 4454][/us/stat/122/4454]; [Pub. L. 111–84, div. A, title V, § 527(a)][/us/pl/111/84/s527/a], Oct. 28, 2009, [123 Stat. 2288][/us/stat/123/2288]; [Pub. L. 112–239, div. A, title X, § 1076(f)(38)][/us/pl/112/239/s1076/f/38], Jan. 2, 2013, [126 Stat. 1954][/us/stat/126/1954]; [Pub. L. 114–92, div. A, title V, § 556(a)][/us/pl/114/92/s556/a], Nov. 25, 2015, [129 Stat. 824][/us/stat/129/824].)
 
 <table>
 
@@ -343,6 +343,14 @@ June 30, 1950, ch. 421, §§ 1, 2 (last proviso), 64 Stat. 303, 304; June 3, 1
 
  __Amendments__ 
 
+    2015—Subsec. (a)(6). [Pub. L. 114–92, § 556(a)(1)][/us/pl/114/92/s556/a/1], substituted “Four” for “Three”.
+
+    Subsec. (a)(8). [Pub. L. 114–92, § 556(a)(2)][/us/pl/114/92/s556/a/2], substituted “Four” for “Three”.
+
+    Subsec. (a)(9). [Pub. L. 114–92, § 556(a)(3)][/us/pl/114/92/s556/a/3], substituted “Three” for “Two”.
+
+    Subsec. (a)(10). [Pub. L. 114–92, § 556(a)(4)][/us/pl/114/92/s556/a/4], substituted “Three” for “Two”.
+
     2013—Subsec. (b)(1). [Pub. L. 112–239, § 1076(f)(38)(A)(i)][/us/pl/112/239/s1076/f/38/A/i], substituted “paragraph” for “clause” in two places in concluding provisions.
 
     Subsecs. (b)(5), (d), (f). [Pub. L. 112–239, § 1076(f)(38)(A)(ii)][/us/pl/112/239/s1076/f/38/A/ii]–(C), substituted “paragraphs” for “clauses”.
@@ -440,6 +448,12 @@ June 30, 1950, ch. 421, §§ 1, 2 (last proviso), 64 Stat. 303, 304; June 3, 1
     Subsec. (c). [Pub. L. 87–633, § 1(2)][/us/pl/87/633/s1/2], inserted references to American Samoa, Guam, and the Virgin Islands, and substituted “clauses (1)–(5) and (10)” for “clauses (1)–(5).”
 
     1958—Subsec. (c). [Pub. L. 85–861][/us/pl/85/861] inserted a comma after “district”.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–92, div. A, title V, § 556(d)][/us/pl/114/92/s556/d], Nov. 25, 2015, [129 Stat. 825][/us/stat/129/825], provided that: 
+
+> “The amendments made by this section \[amending this section and sections 6954 and 9342 of this title\] shall apply with respect to the nomination of candidates for appointment to the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy for classes entering these military service academies after the date of the enactment of this Act \[Nov. 25, 2015\].”
 
  __Effective Date of 2009 Amendment__ 
 
@@ -589,7 +603,13 @@ June 30, 1950, ch. 421, §§ 1, 2 (last proviso), 64 Stat. 303, 304; June 3, 1
 [/us/stat/123/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2288
 [/us/pl/112/239/s1076/f/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F38
 [/us/stat/126/1954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1954
+[/us/pl/114/92/s556/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs556%2Fa
+[/us/stat/129/824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F824
 [/us/usc/t38/s745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs745
+[/us/pl/114/92/s556/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs556%2Fa%2F1
+[/us/pl/114/92/s556/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs556%2Fa%2F2
+[/us/pl/114/92/s556/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs556%2Fa%2F3
+[/us/pl/114/92/s556/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs556%2Fa%2F4
 [/us/pl/112/239/s1076/f/38/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F38%2FA%2Fi
 [/us/pl/112/239/s1076/f/38/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F38%2FA%2Fii
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
@@ -645,6 +665,8 @@ June 30, 1950, ch. 421, §§ 1, 2 (last proviso), 64 Stat. 303, 304; June 3, 1
 [/us/pl/87/663/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F663%2Fs1%2F1
 [/us/pl/87/633/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F633%2Fs1%2F2
 [/us/pl/85/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F861
+[/us/pl/114/92/s556/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs556%2Fd
+[/us/stat/129/825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F825
 [/us/pl/111/84/s527/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs527%2Fd
 [/us/stat/123/2288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2288
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417

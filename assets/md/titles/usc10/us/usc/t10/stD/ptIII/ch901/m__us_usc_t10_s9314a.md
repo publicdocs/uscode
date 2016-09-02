@@ -25,7 +25,7 @@
 
     (b)  __Eligible Defense Industry Employees__  __.—__ 
 
-    For purposes of this section, an eligible defense industry employee is an individual employed by a private firm that is engaged in providing to the Department of Defense significant and substantial defense-related systems, products, or services. A defense industry employee admitted for instruction at the United States Air Force Institute of Technology remains eligible for such instruction only so long at that person remains employed by the same firm.
+    For purposes of this section, an eligible defense industry employee is an individual employed by a private firm that is engaged in providing to the Department of Defense significant and substantial defense-related systems, products, or services. A defense industry employee admitted for instruction at the United States Air Force Institute of Technology remains eligible for such instruction only so long as that person remains employed by the same firm.
 
     (c)  __Annual Determination by the Secretary of the Air Force__  __.—__ 
 
@@ -33,7 +33,7 @@
 
         (1) will further the military mission of the United States Air Force Institute of Technology; and
 
-        (2) will be done on a space-available basis and not require an increase in the size of the faculty of the school, an increase in the course offerings of the school, or an increase in the laboratory facilities or other infrastructure of the school.
+        (2) will not require an increase in the permanently authorized size of the faculty of the school, an increase in the course offerings of the school, or an increase in the laboratory facilities or other infrastructure of the school.
 
     (d)  __Program Requirements__  __.—__ 
 
@@ -53,9 +53,13 @@
 
     While receiving instruction at the United States Air Force Institute of Technology, defense industry employees enrolled under this section, to the extent practicable, are subject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the school.
 
-(Added [Pub. L. 111–383, div. A, title V, § 593(a)][/us/pl/111/383/s593/a], Jan. 7, 2011, [124 Stat. 4232][/us/stat/124/4232]; amended [Pub. L. 112–239, div. A, title V, § 589(b)][/us/pl/112/239/s589/b], Jan. 2, 2013, [126 Stat. 1769][/us/stat/126/1769].)
+(Added [Pub. L. 111–383, div. A, title V, § 593(a)][/us/pl/111/383/s593/a], Jan. 7, 2011, [124 Stat. 4232][/us/stat/124/4232]; amended [Pub. L. 112–239, div. A, title V, § 589(b)][/us/pl/112/239/s589/b], Jan. 2, 2013, [126 Stat. 1769][/us/stat/126/1769]; [Pub. L. 114–92, div. A, title V, § 558][/us/pl/114/92/s558], title X, § 1081(a)(13), Nov. 25, 2015, [129 Stat. 827][/us/stat/129/827], 1001.)
 
  __Amendments__ 
+
+    2015—Subsec. (b). [Pub. L. 114–92, § 1081(a)(13)][/us/pl/114/92/s1081/a/13], substituted “only so long as” for “only so long at”.
+
+    Subsec. (c)(2). [Pub. L. 114–92, § 558][/us/pl/114/92/s558], substituted “will not require an increase in the permanently authorized size of the faculty” for “will be done on a space-available basis and not require an increase in the size of the faculty”.
 
     2013—Subsec. (a)(1). [Pub. L. 112–239, § 589(b)(1)][/us/pl/112/239/s589/b/1], inserted “or professional continuing education certificate” after “graduate degree”.
 
@@ -73,6 +77,10 @@
 [/us/stat/124/4232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4232
 [/us/pl/112/239/s589/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs589%2Fb
 [/us/stat/126/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1769
+[/us/pl/114/92/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs558
+[/us/stat/129/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F827
+[/us/pl/114/92/s1081/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F13
+[/us/pl/114/92/s558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs558
 [/us/pl/112/239/s589/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs589%2Fb%2F1
 [/us/pl/112/239/s589/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs589%2Fb%2F2
 

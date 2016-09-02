@@ -99,13 +99,31 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs430" data-uslm-ref="/us/usc/t10/s430">430.</a>  </td>
 
-    <td> Tactical Exploitation of National Capabilities Executive Agent. <sup>[1]</sup>  <sup><sup> 1 Editorially supplied. Section 430 added by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F113%2F291" data-uslm-ref="/us/pl/113/291">Pub. L. 113–291</a> without corresponding amendment of subchapter analysis. </sup></sup>   </td>
+    <td> Tactical Exploitation of National Capabilities Executive Agent.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs430a" data-uslm-ref="/us/usc/t10/s430a">430a.</a>  </td>
+
+    <td> Executive agent for management and oversight of alternative compensatory control measures.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs430b" data-uslm-ref="/us/usc/t10/s430b">430b.</a>  </td>
+
+    <td> Executive agent for open-source intelligence tools.  </td>
 
   </tr>
 
 </table>
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92, div. A, title X][/us/pl/114/92], §§ 1081(a)(5), 1083(a)(2), title XVI, § 1631(b), Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001], 1004, 1111, added items 430 to 430b.
 
     2013—[Pub. L. 113–66, div. A, title X, § 1071(b)][/us/pl/113/66/s1071/b], Dec. 26, 2013, [127 Stat. 868][/us/stat/127/868], added item 427.
 
@@ -146,6 +164,8 @@
 ----------
 ----------
 
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1001
 [/us/pl/113/66/s1071/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1071%2Fb
 [/us/stat/127/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F868
 [/us/pl/112/87/s433/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs433%2Fb

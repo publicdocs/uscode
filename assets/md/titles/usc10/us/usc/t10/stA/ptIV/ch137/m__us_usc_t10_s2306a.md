@@ -89,9 +89,17 @@
 
                 (ii) prices set by law or regulation;
 
-            (B) for the acquisition of a commercial item; or
+            (B) for the acquisition of a commercial item;
 
-            (C) in an exceptional case when the head of the procuring activity, without delegation, determines that the requirements of this section may be waived and justifies in writing the reasons for such determination.
+            (C) in an exceptional case when the head of the procuring activity, without delegation, determines that the requirements of this section may be waived and justifies in writing the reasons for such determination; or
+
+            (D)
+
+             to the extent such data—
+
+                (i) relates to an offset agreement in connection with a contract for the sale of a weapon system or defense-related item to a foreign country or foreign firm; and
+
+                (ii) does not relate to a contract or subcontract under the offset agreement for work performed in such foreign country or by such foreign firm that is directly related to the weapon system or defense-related item being purchased under the contract.
 
         (2)  __Modifications of contracts and subcontracts for commercial items__  __.—__ 
 
@@ -115,6 +123,22 @@
 
                 (ii) to require the submission of cost or pricing data on any aspect of an acquisition of a commercial item other than the cost and pricing of noncommercial modifications of such item.
 
+        (4)  __Commercial item determination__  __.—__ 
+
+            (A) For purposes of applying the commercial item exception under paragraph (1)(B) to the required submission of certified cost or pricing data, the contracting officer may presume that a prior commercial item determination made by a military department, a Defense Agency, or another component of the Department of Defense shall serve as a determination for subsequent procurements of such item.
+
+            (B) If the contracting officer does not make the presumption described in subparagraph (A) and instead chooses to proceed with a procurement of an item previously determined to be a commercial item using procedures other than the procedures authorized for the procurement of a commercial item, the contracting officer shall request a review of the commercial item determination by the head of the contracting activity.
+
+            (C)
+
+             Not later than 30 days after receiving a request for review of a commercial item determination under subparagraph (B), the head of a contracting activity shall—
+
+                (i) confirm that the prior determination was appropriate and still applicable; or
+
+                (ii) issue a revised determination with a written explanation of the basis for the revision.
+
+        (5) A contracting officer shall consider evidence provided by an offeror of recent purchase prices paid by the Government for the same or similar commercial items in establishing price reasonableness on a subsequent purchase if the contracting officer is satisfied that the prices previously paid remain a valid reference for comparison after considering the totality of other relevant factors such as the time elapsed since the prior purchase and any differences in the quantities purchased or applicable terms and conditions.
+
     (c) __Cost or Pricing Data on Below-Threshold Contracts.—__ 
 
         (1)  __Authority to require submission__  __.—__ 
@@ -133,7 +157,7 @@
 
         (1)  __Authority to require submission__  __.—__ 
 
-        When certified cost or pricing data are not required to be submitted under this section for a contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in subsection (b)(1)(A), the contracting officer shall require that the data submitted include, at a minimum, appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement.
+        When certified cost or pricing data are not required to be submitted under this section for a contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in subsection (b)(1)(A), the contracting officer shall require that the data submitted include, at a minimum, appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement. If the contracting officer determines that the offeror does not have access to and cannot provide sufficient information on prices for the same or similar items to determine the reasonableness of price, the contracting officer shall require the submission of information on prices for similar levels of work or effort on related products or services, prices for alternative solutions or approaches, and other information that is relevant to the determination of a fair and reasonable price.
 
         (2)  __Limitations on authority__  __.—__ 
 
@@ -229,7 +253,7 @@
 
         The term “commercial item” has the meaning provided such term in [section 103 of title 41][/us/usc/t41/s103].
 
-(Added [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 952(a)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–166, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 952(a)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–166; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 952(a), Nov. 14, 1986, [100 Stat. 3945][/us/stat/100/3945], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; amended [Pub. L. 100–180, div. A, title VIII, § 804(a)][/us/pl/100/180/s804/a], (b), Dec. 4, 1987, [101 Stat. 1125][/us/stat/101/1125]; [Pub. L. 101–510, div. A, title VIII, § 803(a)(1)][/us/pl/101/510/s803/a/1], (d), Nov. 5, 1990, [104 Stat. 1589][/us/stat/104/1589], 1590; [Pub. L. 102–25, title VII, § 701(b)][/us/pl/102/25/s701/b], (f)(8), Apr. 6, 1991, [105 Stat. 113][/us/stat/105/113], 115; [Pub. L. 102–190, div. A, title VIII, § 804(a)][/us/pl/102/190/s804/a]–(c)(1), title X, § 1061(a)(9), Dec. 5, 1991, [105 Stat. 1415][/us/stat/105/1415], 1416, 1472; [Pub. L. 103–355, title I][/us/pl/103/355], §§ 1201–1209, Oct. 13, 1994, [108 Stat. 3273–3277][/us/stat/108/3273-3277]; [Pub. L. 104–106, div. D, title XLII, § 4201(a)][/us/pl/104/106/s4201/a], title XLIII, § 4321(a)(2), (b)(7), Feb. 10, 1996, [110 Stat. 649][/us/stat/110/649], 671, 672; [Pub. L. 104–201, div. A, title X, § 1074(a)(12)][/us/pl/104/201/s1074/a/12], Sept. 23, 1996, [110 Stat. 2659][/us/stat/110/2659]; [Pub. L. 105–85, div. A, title X, § 1073(a)(46)][/us/pl/105/85/s1073/a/46], Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902]; [Pub. L. 105–261, div. A, title VIII][/us/pl/105/261], §§ 805(a), 808(a), Oct. 17, 1998, [112 Stat. 2083][/us/stat/112/2083], 2085; [Pub. L. 108–375, div. A, title VIII, § 818(a)][/us/pl/108/375/s818/a], Oct. 28, 2004, [118 Stat. 2015][/us/stat/118/2015]; [Pub. L. 110–181, div. A, title VIII, § 814][/us/pl/110/181/s814], Jan. 28, 2008, [122 Stat. 222][/us/stat/122/222]; [Pub. L. 111–350, § 5(b)(15)][/us/pl/111/350/s5/b/15], Jan. 4, 2011, [124 Stat. 3843][/us/stat/124/3843]; [Pub. L. 113–291, div. A, title X, § 1071(a)(3)][/us/pl/113/291/s1071/a/3], Dec. 19, 2014, [128 Stat. 3504][/us/stat/128/3504].)
+(Added [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 952(a)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–166, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 952(a)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–166; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 952(a), Nov. 14, 1986, [100 Stat. 3945][/us/stat/100/3945], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; amended [Pub. L. 100–180, div. A, title VIII, § 804(a)][/us/pl/100/180/s804/a], (b), Dec. 4, 1987, [101 Stat. 1125][/us/stat/101/1125]; [Pub. L. 101–510, div. A, title VIII, § 803(a)(1)][/us/pl/101/510/s803/a/1], (d), Nov. 5, 1990, [104 Stat. 1589][/us/stat/104/1589], 1590; [Pub. L. 102–25, title VII, § 701(b)][/us/pl/102/25/s701/b], (f)(8), Apr. 6, 1991, [105 Stat. 113][/us/stat/105/113], 115; [Pub. L. 102–190, div. A, title VIII, § 804(a)][/us/pl/102/190/s804/a]–(c)(1), title X, § 1061(a)(9), Dec. 5, 1991, [105 Stat. 1415][/us/stat/105/1415], 1416, 1472; [Pub. L. 103–355, title I][/us/pl/103/355], §§ 1201–1209, Oct. 13, 1994, [108 Stat. 3273–3277][/us/stat/108/3273-3277]; [Pub. L. 104–106, div. D, title XLII, § 4201(a)][/us/pl/104/106/s4201/a], title XLIII, § 4321(a)(2), (b)(7), Feb. 10, 1996, [110 Stat. 649][/us/stat/110/649], 671, 672; [Pub. L. 104–201, div. A, title X, § 1074(a)(12)][/us/pl/104/201/s1074/a/12], Sept. 23, 1996, [110 Stat. 2659][/us/stat/110/2659]; [Pub. L. 105–85, div. A, title X, § 1073(a)(46)][/us/pl/105/85/s1073/a/46], Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902]; [Pub. L. 105–261, div. A, title VIII][/us/pl/105/261], §§ 805(a), 808(a), Oct. 17, 1998, [112 Stat. 2083][/us/stat/112/2083], 2085; [Pub. L. 108–375, div. A, title VIII, § 818(a)][/us/pl/108/375/s818/a], Oct. 28, 2004, [118 Stat. 2015][/us/stat/118/2015]; [Pub. L. 110–181, div. A, title VIII, § 814][/us/pl/110/181/s814], Jan. 28, 2008, [122 Stat. 222][/us/stat/122/222]; [Pub. L. 111–350, § 5(b)(15)][/us/pl/111/350/s5/b/15], Jan. 4, 2011, [124 Stat. 3843][/us/stat/124/3843]; [Pub. L. 113–291, div. A, title X, § 1071(a)(3)][/us/pl/113/291/s1071/a/3], Dec. 19, 2014, [128 Stat. 3504][/us/stat/128/3504]; [Pub. L. 114–92, div. A, title VIII][/us/pl/114/92], §§ 812, 851(b), 852(e), 853, Nov. 25, 2015, [129 Stat. 891][/us/stat/129/891], 916, 918, 919.)
 
  __References in Text__ 
 
@@ -242,6 +266,14 @@
     [Pub. L. 99–500][/us/pl/99/500], [Pub. L. 99–591][/us/pl/99/591], and [Pub. L. 99–661][/us/pl/99/661] added identical sections.
 
  __Amendments__ 
+
+    2015—Subsec. (b)(1)(D). [Pub. L. 114–92, § 812][/us/pl/114/92/s812], added subpar. (D).
+
+    Subsec. (b)(4). [Pub. L. 114–92, § 851(b)][/us/pl/114/92/s851/b], added par. (4).
+
+    Subsec. (b)(5). [Pub. L. 114–92, § 853][/us/pl/114/92/s853], added par. (5).
+
+    Subsec. (d)(1). [Pub. L. 114–92, § 852(e)][/us/pl/114/92/s852/e], inserted at end “If the contracting officer determines that the offeror does not have access to and cannot provide sufficient information on prices for the same or similar items to determine the reasonableness of price, the contracting officer shall require the submission of information on prices for similar levels of work or effort on related products or services, prices for alternative solutions or approaches, and other information that is relevant to the determination of a fair and reasonable price.”
 
     2014—Subsec. (b)(3)(B). [Pub. L. 113–291][/us/pl/113/291] substituted “[section 103(3)(A) of title 41][/us/usc/t41/s103/3/A]” for “section 4(12)(C)(i) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(12)(C)(i)][/us/usc/t41/s403/12/C/i])”.
 
@@ -415,7 +447,119 @@
 
  __Regulations__ 
 
+[Pub. L. 114–92, div. A, title VIII, § 851(d)][/us/pl/114/92/s851/d], Nov. 25, 2015, [129 Stat. 917][/us/stat/129/917], provided that: 
+
+> “Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Defense Federal Acquisition Regulation Supplement shall be updated to reflect the requirements of this section \[enacting [section 2380 of this title][/us/usc/t10/s2380], amending this section, and enacting provisions set out as notes under this section\] and the amendments made by this section.”
+
     [Pub. L. 101–510, div. A, title VIII, § 803(c)][/us/pl/101/510/s803/c], Nov. 5, 1990, [104 Stat. 1590][/us/stat/104/1590], directed Secretary of Defense to prescribe regulations identifying type of procurements for which contracting officers should consider requiring submission of certified cost or pricing data under subsec. (c) of this section, and also directed Secretary to prescribe regulations concerning types of information that offerors had to submit for contracting officer to consider in determining whether price of procurement to Government was fair and reasonable when certified cost or pricing data were not required to be submitted under this section because price of procurement to the United States was not expected to exceed $500,000, such information, at minimum, to include appropriate information on prices at which such offeror had previously sold same or similar products, with such regulations to be prescribed not later than six months after Nov. 5, 1990, prior to repeal by [Pub. L. 103–355, title I, § 1210][/us/pl/103/355/s1210], Oct. 13, 1994, [108 Stat. 3277][/us/stat/108/3277].
+
+ __Construction__ 
+
+[Pub. L. 114–92, div. A, title VIII, § 851(e)][/us/pl/114/92/s851/e], Nov. 25, 2015, [129 Stat. 917][/us/stat/129/917], provided that: 
+
+> “Nothing in this section \[enacting [section 2380 of this title][/us/usc/t10/s2380], amending this section, and enacting provisions set out as notes under this section\] or the amendments made by this section shall be construed to preclude the contracting officer for the procurement of a commercial item from requiring the contractor to supply information that is sufficient to determine the reasonableness of price, regardless of whether or not the contractor was required to provide such information in connection with any earlier procurement.”
+
+ __Pilot Program for Streamlining Awards for Innovative Technology Projects__ 
+
+[Pub. L. 114–92, div. A, title VIII, § 873(a)][/us/pl/114/92/s873/a]–(d), Nov. 25, 2015, [129 Stat. 939][/us/stat/129/939], 940, provided that:
+
+>     “(a)  __Exception From Certified Cost and Pricing Data Requirements__  __.—__ 
+
+>     The requirements under [section 2306a(a) of title 10][/us/usc/t10/s2306a/a], United States Code, shall not apply to a contract, subcontract, or modification of a contract or subcontract valued at less than $7,500,000 awarded to a small business or nontraditional defense contractor pursuant to—
+
+>         “(1) a technical, merit-based selection procedure, such as a broad agency announcement, or
+
+>         “(2) the Small Business Innovation Research Program,
+
+>         unless the head of the agency determines that submission of cost and pricing data should be required based on past performance of the specific small business or nontraditional defense contractor, or based on analysis of other information specific to the award.
+
+>     “(b)  __Exception From Records Examination Requirement__  __.—__ 
+
+>     The requirements under subsection (b) of [section 2313 of title 10][/us/usc/t10/s2313], United States Code, shall not apply to a contract valued at less than $7,500,000 awarded to a small business or nontraditional defense contractor pursuant to—
+
+>         “(1) a technical, merit-based selection procedure, such as a broad agency announcement, or
+
+>         “(2) the Small Business Innovation Research Program,
+
+>         unless the head of the agency determines that auditing of records should be required based on past performance of the specific small business or nontraditional defense contractor, or based on analysis of other information specific to the award.
+
+>     “(c)  __Sunset__  __.—__ 
+
+>     The exceptions under subsections (a) and (b) shall terminate on October 1, 2020.
+
+>     “(d)  __Definitions__  __.—__ 
+
+>     In this section \[enacting this note and amending [section 638 of Title 15][/us/usc/t15/s638], Commerce and Trade\]:
+
+>         “(1)  __Small business__  __.—__ 
+
+>         The term ‘small business’ has the meaning given the term ‘small business concern’ under section 3 of the Small Business Act ([15 U.S.C. 632][/us/usc/t15/s632]).
+
+>         “(2)  __Nontraditional defense contractor__  __.—__ 
+
+>         The term ‘nontraditional defense contractor’ has the meaning given that term in [section 2302(9) of title 10][/us/usc/t10/s2302/9], United States Code.”
+
+ __Pilot Program Regarding Risk-Based Contracting for Smaller Contract Actions Under the Truth in Negotiations Act__ 
+
+[Pub. L. 114–92, div. A, title VIII, § 899][/us/pl/114/92/s899], Nov. 25, 2015, [129 Stat. 955][/us/stat/129/955], provided that:
+
+>     “(a)  __Pilot Program Authorized__  __.—__ 
+
+>     The Secretary of Defense may conduct a pilot program to demonstrate the efficacy of using risk-based techniques in requiring submission of data on a sampling basis for purposes of [section 2306a of title 10][/us/usc/t10/s2306a], United States Code (popularly known as the ‘Truth in Negotiations Act’).
+
+>     “(b)  __Increase in Thresholds__  __.—__ 
+
+>     For purposes of a pilot program under subsection (a), $5,000,000 shall be the threshold applicable to requirements under paragraph (1) of section 2306a(a) of such title, as follows:
+
+>         “(1) The requirement under subparagraph (A) of such paragraph to submit cost or pricing data for a prime contract entered into during the pilot program period.
+
+>         “(2) The requirement under subparagraph (B) of such paragraph to submit cost or pricing data for the change or modification to a prime contract made during the pilot program period.
+
+>         “(3) The requirement under subparagraph (C) of such paragraph to submit cost or pricing data for a subcontract entered into during the pilot program period.
+
+>         “(4) The requirement under subparagraph (D) of such paragraph to submit cost or pricing data for the change or modification to a subcontract made during the pilot program period.
+
+>     “(c) __Risk-based Contracting.—__ 
+
+>         “(1)  __Authority to require submission of cost or pricing data on below-threshold contracts__  __.—__ 
+
+>         Subject to paragraph (4), when certified cost or pricing data are not required to be submitted pursuant to subsection (b) for a contract or subcontract entered into or modified during the pilot program period, such data may nevertheless be required to be submitted by the head of the procuring activity, if the head of the procuring activity—
+
+>             “(A) determines that such data are necessary for the evaluation by the agency of the reasonableness of the price of the contract, subcontract, or modification of a contract or subcontract; or
+
+>             “(B) requires the submission of such data in accordance with a risk-based contracting approach established pursuant to paragraph (3).
+
+>         “(2)  __Written determination required__  __.—__ 
+
+>         In any case in which the head of the procuring activity requires certified cost or pricing data to be submitted under paragraph (1)(A), the head of the procuring activity shall justify in writing the reason for such requirement.
+
+>         “(3)  __Risk-based contracting__  __.—__ 
+
+>         The head of an agency shall establish a risk-based sampling approach under which the submission of certified cost or pricing data may be required for a risk-based sample of contracts, the price of which is expected to exceed $750,000 but not $5,000,000. The authority to require certified cost or pricing data under this paragraph shall not apply to any contract of an offeror that has not been awarded, for at least the one-year period preceding the issuance of a solicitation for the contract, any other contract in excess of $5,000,000 under which the offeror was required to submit certified cost or pricing data under [section 2306a of title 10][/us/usc/t10/s2306a], United States Code.
+
+>         “(4)  __Exception__  __.—__ 
+
+>         The head of the procuring activity may not require certified cost or pricing data to be submitted under this subsection for any contract or subcontract, or modification of a contract or subcontract, covered by the exceptions in subparagraph (A) or (B) of [section 2306a(b)(1) of title 10][/us/usc/t10/s2306a/b/1], United States Code.
+
+>         “(5)  __Delegation of authority prohibited__  __.—__ 
+
+>         The head of a procuring activity may not delegate functions under this subsection.
+
+>     “(d)  __Reports__  __.—__ 
+
+>     Not later than January 1, 2017, and January 1, 2019, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on activities undertaken under this section.
+
+>     “(e)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)  __Head of an agency__  __.—__ 
+
+>         The term ‘head of an agency’ has the meaning given the term in [section 2302 of title 10][/us/usc/t10/s2302], United States Code.
+
+>         “(2)  __Pilot program period__  __.—__ 
+
+>         The term ‘pilot program period’ means the period beginning on October 1, 2016, and ending on September 30, 2019.”
 
  __Guidance and Training Related to Evaluating Reasonableness of Price__ 
 
@@ -471,45 +615,7 @@
 
  __Price Trend Analysis for Supplies and Equipment Purchased by the Department of Defense__ 
 
-[Pub. L. 111–383, div. A, title VIII, § 892][/us/pl/111/383/s892], Jan. 7, 2011, [124 Stat. 4310][/us/stat/124/4310], provided that:
-
->     “(a) __Price Trend Analysis Procedures.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         The Secretary of Defense shall develop and implement procedures that, to the maximum extent practicable, provide for the collection and analysis of information on price trends for covered supplies and equipment purchased by the Department of Defense. The procedures shall include an automated process for identifying categories of covered supplies and equipment described in paragraph (2) that have experienced significant escalation in prices.
-
->         “(2)  __Category of covered supplies and equipment__  __.—__ 
-
->         A category of covered supplies and equipment referred to in paragraph (1) consists of covered supplies and equipment that have the same National Stock Number, are in a single Federal Supply Group or Federal Supply Class, are provided by a single contractor, or are otherwise logically grouped for the purpose of analyzing information on price trends.
-
->         “(3)  __Requirement to examine causes of escalation__  __.—__ 
-
->         An analysis conducted pursuant to paragraph (1) shall include, for any category in which significant escalation in prices is identified, a more detailed examination of the causes of escalation for such prices within the category and whether such price escalation is consistent across the Department of Defense.
-
->         “(4)  __Requirement to address unjustified escalation__  __.—__ 
-
->         The head of a Defense Agency or the Secretary of a military department shall take appropriate action to address any unjustified escalation in prices being paid for items procured by that agency or military department as identified in an analysis conducted pursuant to paragraph (1).
-
->     “(b)  __Annual Report__  __.—__ 
-
->     Not later than April 1 of each year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the analyses of price trends that were conducted for categories of covered supplies and equipment during the preceding fiscal year under the procedures implemented pursuant to paragraph (1). The report shall include a description of the actions taken to identify and address any unjustified price escalation for the categories of items.
-
->     “(c)  __Definitions__  __.—__ 
-
->     In this section:
-
->         “(1)  __Supplies and equipment__  __.—__ 
-
->         The term ‘supplies and equipment’ means items classified as supplies and equipment under the Federal Supply Classification System.
-
->         “(2)  __Covered supplies and equipment__  __.—__ 
-
->         The term ‘covered supplies and equipment’ means all supplies and equipment purchased by the Department of Defense. The term does not include major weapon systems but does include individual parts and components purchased as spare or replenishment parts for such weapon systems.
-
->     “(d)  __Sunset Date__  __.—__ 
-
->     This section shall not be in effect on and after April 1, 2015.”
+    [Pub. L. 111–383, div. A, title VIII, § 892][/us/pl/111/383/s892], Jan. 7, 2011, [124 Stat. 4310][/us/stat/124/4310], which provided for the analysis of information on price trends for certain supplies and equipment purchased by the Department of Defense, was repealed by [Pub. L. 114–92, div. A, title X, § 1073(f)][/us/pl/114/92/s1073/f], Nov. 25, 2015, [129 Stat. 996][/us/stat/129/996].
 
  __Grants of Exceptions to Cost or Pricing Data Certification Requirements and Waivers of Cost Accounting Standards__ 
 
@@ -617,6 +723,12 @@
 
     [Pub. L. 101–510, div. A, title VIII, § 803(b)][/us/pl/101/510/s803/b], Nov. 5, 1990, [104 Stat. 1590][/us/stat/104/1590], provided that (1) after increase in threshold for submission of cost or pricing data under subsec. (a) of this section, as amended by [section 803(a) of Pub. L. 101–510][/us/pl/101/510/s803/a], had been in effect for three years, Inspector General of Department of Defense was to conduct review of effects of increase in threshold, (2) that such review was to address whether increasing threshold improved acquisition process in terms of reduced paperwork, financial or other savings to government, an increase in number of contractors participating in defense contracting process, and adequacy of information available to contracting officers in cases in which certified cost or pricing data were not required under this section, (3) that Inspector General was to submit to Secretary of Defense a report on review conducted under paragraph (1), with Secretary of Defense required to submit such report to Congress, along with appropriate comments, upon completion of report (and comments) but not later than date on which President submitted budget to Congress pursuant to [section 1105 of Title 31][/us/usc/t31/s1105], Money and Finance, for fiscal year 1996, prior to repeal by [Pub. L. 103–355, title I, § 1210][/us/pl/103/355/s1210], Oct. 13, 1994, [108 Stat. 3277][/us/stat/108/3277].
 
+ __Definition of Commercial Item__ 
+
+[Pub. L. 114–92, div. A, title VIII, § 851(c)][/us/pl/114/92/s851/c], Nov. 25, 2015, [129 Stat. 917][/us/stat/129/917], provided that: 
+
+> “Nothing in this section \[enacting [section 2380 of this title][/us/usc/t10/s2380], amending this section, and enacting provisions set out as notes under this section\] or the amendments made by this section shall affect the meaning of the term ‘commercial item’ under subsection (a)(5) of [section 2464 of title 10][/us/usc/t10/s2464], United States Code, or any requirement under subsection (a)(3) or subsection (c) of such section.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch137/m__us_usc_t10_s2306.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch137/m__us_usc_t10_s2306b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a)
@@ -662,12 +774,18 @@
 [/us/stat/124/3843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3843
 [/us/pl/113/291/s1071/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Fa%2F3
 [/us/stat/128/3504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3504
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F891
 [/us/usc/t26/s6621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6621
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/pl/114/92/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs812
+[/us/pl/114/92/s851/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs851%2Fb
+[/us/pl/114/92/s853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs853
+[/us/pl/114/92/s852/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs852%2Fe
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t41/s103/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs103%2F3%2FA
 [/us/usc/t41/s403/12/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs403%2F12%2FC%2Fi
@@ -765,14 +883,35 @@
 [/us/usc/t10/s2306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a
 [/us/usc/t10/s2306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306
 [/us/usc/t10/s2304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2304
+[/us/pl/114/92/s851/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs851%2Fd
+[/us/stat/129/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F917
+[/us/usc/t10/s2380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2380
 [/us/pl/101/510/s803/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs803%2Fc
 [/us/stat/104/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1590
 [/us/pl/103/355/s1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1210
 [/us/stat/108/3277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3277
+[/us/pl/114/92/s851/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs851%2Fe
+[/us/stat/129/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F917
+[/us/usc/t10/s2380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2380
+[/us/pl/114/92/s873/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs873%2Fa
+[/us/stat/129/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F939
+[/us/usc/t10/s2306a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a%2Fa
+[/us/usc/t10/s2313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2313
+[/us/usc/t15/s638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs638
+[/us/usc/t15/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632
+[/us/usc/t10/s2302/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F9
+[/us/pl/114/92/s899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs899
+[/us/stat/129/955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F955
+[/us/usc/t10/s2306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a
+[/us/usc/t10/s2306a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a
+[/us/usc/t10/s2306a/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306a%2Fb%2F1
+[/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
 [/us/pl/112/239/s831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs831
 [/us/stat/126/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1842
 [/us/pl/111/383/s892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs892
 [/us/stat/124/4310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4310
+[/us/pl/114/92/s1073/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1073%2Ff
+[/us/stat/129/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F996
 [/us/pl/107/314/s817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs817
 [/us/stat/116/2610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2610
 [/us/pl/112/81/s809/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs809%2Fa
@@ -805,5 +944,9 @@
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/103/355/s1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1210
 [/us/stat/108/3277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3277
+[/us/pl/114/92/s851/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs851%2Fc
+[/us/stat/129/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F917
+[/us/usc/t10/s2380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2380
+[/us/usc/t10/s2464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2464
 
 

@@ -19,7 +19,7 @@
 
     To the extent that funds are otherwise available for obligation, the head of an agency may enter into multiyear contracts for the purchase of property whenever the head of that agency finds each of the following:
 
-        (1) That the use of such a contract will result in substantial savings of the total anticipated costs of carrying out the program through annual contracts.
+        (1) That the use of such a contract will result in significant savings of the total anticipated costs of carrying out the program through annual contracts.
 
         (2) That the minimum need for the property to be purchased is expected to remain substantially unchanged during the contemplated contract period in terms of production rate, procurement rate, and total quantities.
 
@@ -127,7 +127,7 @@
 
             (G) The proposed multiyear contract provides for production at not less than minimum economic rates given the existing tooling and facilities.
 
-        (4) If for any fiscal year a multiyear contract to be entered into under this section is authorized by law for a particular procurement program and that authorization is subject to certain conditions established by law (including a condition as to cost savings to be achieved under the multiyear contract in comparison to specified other contracts) and if it appears (after negotiations with contractors) that such savings cannot be achieved, but that substantial savings could nevertheless be achieved through the use of a multiyear contract rather than specified other contracts, the President may submit to Congress a request for relief from the specified cost savings that must be achieved through multiyear contracting for that program. Any such request by the President shall include details about the request for a multiyear contract, including details about the negotiated contract terms and conditions.
+        (4) If for any fiscal year a multiyear contract to be entered into under this section is authorized by law for a particular procurement program and that authorization is subject to certain conditions established by law (including a condition as to cost savings to be achieved under the multiyear contract in comparison to specified other contracts) and if it appears (after negotiations with contractors) that such savings cannot be achieved, but that significant savings could nevertheless be achieved through the use of a multiyear contract rather than specified other contracts, the President may submit to Congress a request for relief from the specified cost savings that must be achieved through multiyear contracting for that program. Any such request by the President shall include details about the request for a multiyear contract, including details about the negotiated contract terms and conditions.
 
         (5)
 
@@ -221,9 +221,11 @@
 
     Any request for increased funding for the procurement of a major system under a multiyear contract authorized under this section shall be accompanied by an explanation of how the request for increased funding affects the determinations made by the Secretary under subsection (i).
 
-(Added [Pub. L. 103–355, title I, § 1022(a)(1)][/us/pl/103/355/s1022/a/1], Oct. 13, 1994, [108 Stat. 3257][/us/stat/108/3257]; amended [Pub. L. 104–106, div. A, title XV, § 1502(a)(10)][/us/pl/104/106/s1502/a/10], div. E, title LVI, § 5601(b), Feb. 10, 1996, [110 Stat. 503][/us/stat/110/503], 699; [Pub. L. 105–85, div. A, title VIII, § 806(a)(1)][/us/pl/105/85/s806/a/1], (b)(1), (c), title X, § 1073(a)(47), (48)(A), Nov. 18, 1997, [111 Stat. 1834][/us/stat/111/1834], 1835, 1903; [Pub. L. 106–65, div. A, title VIII, § 809][/us/pl/106/65/s809], title X, § 1067(1), Oct. 5, 1999, [113 Stat. 705][/us/stat/113/705], 774; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, §§ 802(c), 806\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–205, 1654A–207; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title VIII, § 820(a)][/us/pl/107/314/s820/a], Dec. 2, 2002, [116 Stat. 2613][/us/stat/116/2613]; [Pub. L. 108–136, div. A, title X, § 1043(b)(10)][/us/pl/108/136/s1043/b/10], Nov. 24, 2003, [117 Stat. 1611][/us/stat/117/1611]; [Pub. L. 108–375, div. A, title VIII, § 814(a)][/us/pl/108/375/s814/a], title X, § 1084(b)(2), Oct. 28, 2004, [118 Stat. 2014][/us/stat/118/2014], 2060; [Pub. L. 110–181, div. A, title VIII, § 811(a)][/us/pl/110/181/s811/a], Jan. 28, 2008, [122 Stat. 217][/us/stat/122/217]; [Pub. L. 111–23, title I, § 101(d)(2)][/us/pl/111/23/s101/d/2], May 22, 2009, [123 Stat. 1709][/us/stat/123/1709]; [Pub. L. 113–291, div. A, title VIII, § 816(a)][/us/pl/113/291/s816/a], (b), Dec. 19, 2014, [128 Stat. 3430][/us/stat/128/3430], 3432.)
+(Added [Pub. L. 103–355, title I, § 1022(a)(1)][/us/pl/103/355/s1022/a/1], Oct. 13, 1994, [108 Stat. 3257][/us/stat/108/3257]; amended [Pub. L. 104–106, div. A, title XV, § 1502(a)(10)][/us/pl/104/106/s1502/a/10], div. E, title LVI, § 5601(b), Feb. 10, 1996, [110 Stat. 503][/us/stat/110/503], 699; [Pub. L. 105–85, div. A, title VIII, § 806(a)(1)][/us/pl/105/85/s806/a/1], (b)(1), (c), title X, § 1073(a)(47), (48)(A), Nov. 18, 1997, [111 Stat. 1834][/us/stat/111/1834], 1835, 1903; [Pub. L. 106–65, div. A, title VIII, § 809][/us/pl/106/65/s809], title X, § 1067(1), Oct. 5, 1999, [113 Stat. 705][/us/stat/113/705], 774; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VIII, §§ 802(c), 806\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–205, 1654A–207; [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 107–314, div. A, title VIII, § 820(a)][/us/pl/107/314/s820/a], Dec. 2, 2002, [116 Stat. 2613][/us/stat/116/2613]; [Pub. L. 108–136, div. A, title X, § 1043(b)(10)][/us/pl/108/136/s1043/b/10], Nov. 24, 2003, [117 Stat. 1611][/us/stat/117/1611]; [Pub. L. 108–375, div. A, title VIII, § 814(a)][/us/pl/108/375/s814/a], title X, § 1084(b)(2), Oct. 28, 2004, [118 Stat. 2014][/us/stat/118/2014], 2060; [Pub. L. 110–181, div. A, title VIII, § 811(a)][/us/pl/110/181/s811/a], Jan. 28, 2008, [122 Stat. 217][/us/stat/122/217]; [Pub. L. 111–23, title I, § 101(d)(2)][/us/pl/111/23/s101/d/2], May 22, 2009, [123 Stat. 1709][/us/stat/123/1709]; [Pub. L. 113–291, div. A, title VIII, § 816(a)][/us/pl/113/291/s816/a], (b), Dec. 19, 2014, [128 Stat. 3430][/us/stat/128/3430], 3432; [Pub. L. 114–92, div. A, title VIII, § 811][/us/pl/114/92/s811], Nov. 25, 2015, [129 Stat. 891][/us/stat/129/891].)
 
  __Amendments__ 
+
+    2015—Subsecs. (a)(1), (i)(4). [Pub. L. 114–92][/us/pl/114/92] substituted “significant” for “substantial”.
 
     2014—Subsec. (a)(7). [Pub. L. 113–291, § 816(b)][/us/pl/113/291/s816/b], substituted “subparagraphs (C) through (F) of subsection (i)(3)” for “subparagraphs (C) through (F) of paragraph (1) of subsection (i)”.
 
@@ -440,6 +442,9 @@ Similar provisions were contained in the following appropriation acts:
 [/us/stat/123/1709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1709
 [/us/pl/113/291/s816/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs816%2Fa
 [/us/stat/128/3430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3430
+[/us/pl/114/92/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs811
+[/us/stat/129/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F891
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291/s816/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs816%2Fb
 [/us/pl/113/291/s816/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs816%2Fa
 [/us/pl/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23

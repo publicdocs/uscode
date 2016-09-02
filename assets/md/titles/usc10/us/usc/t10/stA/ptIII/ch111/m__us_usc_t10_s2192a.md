@@ -25,7 +25,7 @@
 
          Under the program under this section, the Secretary of Defense may award a scholarship or fellowship in accordance with this section to a person who—
 
-            (A) is a citizen of the United States;
+            (A) is a citizen of the United States or, subject to subsection (g), a country the government of which is a party to The Technical Cooperation Program (TTCP) memorandum of understanding of October 24, 1995;
 
             (B) is pursuing an associates degree, undergraduate degree, or advanced degree in a critical skill or discipline described in subsection (a) at an accredited institution of higher education; and
 
@@ -101,17 +101,35 @@
 
     The Secretary of Defense shall coordinate the provision of financial assistance under the authority of this section with the provision of financial assistance under the other authorities provided in this chapter in order to maximize the benefits derived by the Department of Defense from the exercise of all such authorities.
 
-    (g)  __Institution of Higher Education Defined__  __.—__ 
+    (g)  __Limitation on Participation__  __.—__ 
+
+        (1) The Secretary may not award scholarships or fellowships under this section to more than five individuals described in paragraph (2) per year.
+
+        (2)
+
+         An individual described in this paragraph is an individual who—
+
+            (A) has not previously been awarded a scholarship or fellowship under the program under this section;
+
+            (B) is not a citizen of the United States; and
+
+            (C) is a citizen of a country the government of which is a party to The Technical Cooperation Program (TTCP) memorandum of understanding of October 24, 1995.
+
+    (h)  __Institution of Higher Education Defined__  __.—__ 
 
     In this section, the term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001][/us/usc/t20/s1001]).
 
-(Added [Pub. L. 109–163, div. A, title XI, § 1104(d)(1)][/us/pl/109/163/s1104/d/1], Jan. 6, 2006, [119 Stat. 3449][/us/stat/119/3449]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(a)(5), Oct. 14, 2008, [122 Stat. 4612][/us/stat/122/4612]; [Pub. L. 111–84, div. A, title XI, § 1102(a)][/us/pl/111/84/s1102/a]–(d)(1), Oct. 28, 2009, [123 Stat. 2484][/us/stat/123/2484], 2485; [Pub. L. 113–66, div. A, title XI, § 1105(a)(1)][/us/pl/113/66/s1105/a/1], Dec. 26, 2013, [127 Stat. 886][/us/stat/127/886]; [Pub. L. 113–291, div. A, title II, § 215][/us/pl/113/291/s215], Dec. 19, 2014, [128 Stat. 3327][/us/stat/128/3327].)
+(Added [Pub. L. 109–163, div. A, title XI, § 1104(d)(1)][/us/pl/109/163/s1104/d/1], Jan. 6, 2006, [119 Stat. 3449][/us/stat/119/3449]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(a)(5), Oct. 14, 2008, [122 Stat. 4612][/us/stat/122/4612]; [Pub. L. 111–84, div. A, title XI, § 1102(a)][/us/pl/111/84/s1102/a]–(d)(1), Oct. 28, 2009, [123 Stat. 2484][/us/stat/123/2484], 2485; [Pub. L. 113–66, div. A, title XI, § 1105(a)(1)][/us/pl/113/66/s1105/a/1], Dec. 26, 2013, [127 Stat. 886][/us/stat/127/886]; [Pub. L. 113–291, div. A, title II, § 215][/us/pl/113/291/s215], Dec. 19, 2014, [128 Stat. 3327][/us/stat/128/3327]; [Pub. L. 114–92, div. A, title II, § 212][/us/pl/114/92/s212], Nov. 25, 2015, [129 Stat. 767][/us/stat/129/767].)
 
  __Codification__ 
 
     Section, as added by [Pub. L. 109–163][/us/pl/109/163], consists of text of [Pub. L. 108–375, div. A, title XI, § 1105][/us/pl/108/375/s1105], Oct. 28, 2004, [118 Stat. 2074][/us/stat/118/2074]; [Pub. L. 109–163, div. A, title X, § 1056(d)][/us/pl/109/163/s1056/d], title XI, § 1104(a)–(c), Jan. 6, 2006, [119 Stat. 3440][/us/stat/119/3440], 3448, 3449; [Pub. L. 111–383, div. A, title X, § 1075(h)(5)][/us/pl/111/383/s1075/h/5], Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], which was formerly set out as a note under [section 2192 of this title][/us/usc/t10/s2192], and was repealed by [Pub. L. 109–163, div. A, title XI, § 1104(e)(1)][/us/pl/109/163/s1104/e/1], Jan. 6, 2006, [119 Stat. 3450][/us/stat/119/3450].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(1)(A). [Pub. L. 114–92, § 212(1)][/us/pl/114/92/s212/1], inserted “or, subject to subsection (g), a country the government of which is a party to The Technical Cooperation Program (TTCP) memorandum of understanding of October 24, 1995” after “United States”.
+
+    Subsecs. (g), (h). [Pub. L. 114–92, § 212(2)][/us/pl/114/92/s212/2], (3), added subsec. (g) and redesignated former subsec. (g) as (h).
 
     2014—Subsec. (c)(1)(B). [Pub. L. 113–291][/us/pl/113/291] amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of a person not an employee of the Department of Defense, the person shall enter into a written agreement to accept and continue employment in the Department of Defense for the period of obligated service determined under paragraph (2).”
 
@@ -153,6 +171,8 @@
 [/us/stat/127/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F886
 [/us/pl/113/291/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs215
 [/us/stat/128/3327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3327
+[/us/pl/114/92/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs212
+[/us/stat/129/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F767
 [/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
 [/us/pl/108/375/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1105
 [/us/stat/118/2074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2074
@@ -163,6 +183,8 @@
 [/us/usc/t10/s2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2192
 [/us/pl/109/163/s1104/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs1104%2Fe%2F1
 [/us/stat/119/3450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3450
+[/us/pl/114/92/s212/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs212%2F1
+[/us/pl/114/92/s212/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs212%2F2
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/84/s1102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1102%2Fb

@@ -203,6 +203,24 @@
 
  __Support for Realignment of Military Installations and Relocation of Military Personnel on Guam__ 
 
+[Pub. L. 114–92, div. B, title XXVIII, § 2822(a)][/us/pl/114/92/s2822/a], (b), Nov. 25, 2015, [129 Stat. 1177][/us/stat/129/1177], 1178, provided that:
+
+>     “(a)  __Report Required__  __.—__ 
+
+>     Not later than the date of the submission of the budget of the President for each of fiscal years 2017 through 2026 under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that specifies each of the following:
+
+>         “(1) The total amount contributed by the Government of Japan during the most recently concluded Japanese fiscal year under [section 2350k of title 10][/us/usc/t10/s2350k], United States Code, for deposit in the Support for United States Relocation to Guam Account.
+
+>         “(2) The anticipated contributions to be made by the Government of Japan under such section during the current and next Japanese fiscal years.
+
+>         “(3) The projects carried out on Guam or the Commonwealth of the Northern Mariana Islands during the previous fiscal year using amounts in the Support for United States Relocation to Guam Account.
+
+>         “(4) The anticipated projects that will be carried out on Guam or the Commonwealth of the Northern Mariana Islands during the fiscal year covered by the budget submission using amounts in such Account.
+
+>     “(b)  __Form of Report__  __.—__ 
+
+>     Each report required by subsection (a) shall be submitted in unclassified form, but may contain a classified annex as necessary.”
+
 [Pub. L. 113–291, div. B, title XXVIII, § 2821][/us/pl/113/291/s2821], Dec. 19, 2014, [128 Stat. 3701][/us/stat/128/3701], provided that:
 
 >     “(a) __Limitation Based on Cost Estimates.—__ 
@@ -471,7 +489,7 @@
 
 >             “(B) a final forensic audit on programs and operations funded with amounts appropriated or otherwise made available for military construction on Guam.”
 
-[Pub. L. 110–417, div. B, title XXVIII, § 2824][/us/pl/110/417/s2824], Oct. 14, 2008, [122 Stat. 4730][/us/stat/122/4730], as amended by [Pub. L. 111–84, div. B, title XXVIII][/us/pl/111/84], §§ 2832(c)(1), 2833, 2834(a), Oct. 28, 2009, [123 Stat. 2670–2672][/us/stat/123/2670-2672], provided that:
+[Pub. L. 110–417, div. B, title XXVIII, § 2824][/us/pl/110/417/s2824], Oct. 14, 2008, [122 Stat. 4730][/us/stat/122/4730], as amended by [Pub. L. 111–84, div. B, title XXVIII][/us/pl/111/84], §§ 2832(c)(1), 2833, 2834(a), Oct. 28, 2009, [123 Stat. 2670–2672][/us/stat/123/2670-2672]; [Pub. L. 114–92, div. B, title XXVIII, § 2822(c)][/us/pl/114/92/s2822/c], Nov. 25, 2015, [129 Stat. 1178][/us/stat/129/1178], provided that:
 
 >     “(a)  __Establishment of Account__  __.—__ 
 
@@ -599,15 +617,7 @@
 
 >         Amounts transferred under paragraph (1) to a fund referred to in that paragraph shall be available in accordance with the provisions of [section 2883 of title 10][/us/usc/t10/s2883], United States Code for activities on Guam authorized under subchapter IV of chapter 169 of such title.
 
->     “(e)  __Report Regarding Guam Military Construction__  __.—__ 
-
->         (1)  __Military construction information__  __.—__ 
-
->         Not later than February 15 of each year, the Secretary of Defense shall submit to Congress a report containing information on each military construction project included in the budget submission for the next fiscal year related to the realignment of military installations and the relocation of military personnel on Guam. The Secretary shall present the information in manner consistent with the presentation of projects in the military construction accounts for each of the military departments in the budget submission. The report shall also include projects associated with the realignment of military installations and relocation of military personnel on Guam that are included in the future-years defense program pursuant to [section 221 of title 10][/us/usc/t10/s221], United States Code.
-
->         “(2)  __Construction workforce information__  __.—__ 
-
->         The annual report shall also include an assessment of the living standards of the construction workforce employed to carry out military construction projects covered by the report, including, at a minimum, the adequacy of contract standards and infrastructure that support temporary housing the construction workforce and their medical needs.
+>     “\[(e) Repealed. [Pub. L. 114–92, div. B, title XXVIII, § 2822(c)][/us/pl/114/92/s2822/c], Nov. 25, 2015, [129 Stat. 1178][/us/stat/129/1178].\]
 
 >     “(f)  __Sense of Congress__  __.—__ 
 
@@ -3435,6 +3445,10 @@ Similar provisions for specified fiscal years were contained in the following ap
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
+[/us/pl/114/92/s2822/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs2822%2Fa
+[/us/stat/129/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1177
+[/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
+[/us/usc/t10/s2350k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2350k
 [/us/pl/113/291/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs2821
 [/us/stat/128/3701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3701
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
@@ -3458,6 +3472,8 @@ Similar provisions for specified fiscal years were contained in the following ap
 [/us/stat/122/4730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4730
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/stat/123/2670-2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2670-2672
+[/us/pl/114/92/s2822/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs2822%2Fc
+[/us/stat/129/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1178
 [/us/usc/t10/s2350k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2350k
 [/us/usc/t42/s4332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4332
 [/us/usc/t10/s2853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2853
@@ -3471,7 +3487,8 @@ Similar provisions for specified fiscal years were contained in the following ap
 [/us/usc/t8/s1101/a/15/H/ii/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F15%2FH%2Fii%2Fb
 [/us/usc/t10/s2883/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2883%2Fa%2F1
 [/us/usc/t10/s2883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2883
-[/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
+[/us/pl/114/92/s2822/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs2822%2Fc
+[/us/stat/129/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1178
 [/us/pl/109/163/s2835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs2835
 [/us/stat/119/3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3521
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510

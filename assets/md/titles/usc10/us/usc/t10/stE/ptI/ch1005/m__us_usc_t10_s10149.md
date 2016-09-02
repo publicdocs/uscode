@@ -31,6 +31,20 @@
 
     (b)
 
+        (1) In applying Ready Reserve continuous screening under this section, an individual who is both a member of the Ready Reserve and a Member of Congress may not be transferred to the Standby Reserve or discharged on account of the individual’s position as a Member of Congress.
+
+        (2)
+
+         The transfer or discharge of an individual who is both a member of the Ready Reserve and a Member of Congress may be ordered—
+
+            (A) only by the Secretary of Defense or, in the case of a Member of Congress who also is a member of the Coast Guard Reserve, the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Navy; and
+
+            (B) only on the basis of the needs of the service, taking into consideration the position and duties of the individual in the Ready Reserve.
+
+        (3) In this subsection, the term “Member of Congress” includes a Delegate or Resident Commissioner to Congress and a Member-elect.
+
+    (c)
+
      Under regulations to be prescribed by the Secretary of Defense, and by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, a member of the Ready Reserve who is designated as a member not to be retained in the Ready Reserve as a result of screening under subsection (a) shall, as appropriate, be—
 
         (1) transferred to the Standby Reserve;
@@ -39,13 +53,15 @@
 
         (3) if the member is eligible and applies therefor, transferred to the Retired Reserve.
 
-(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)][/us/pl/103/337/s1661/a/1], Oct. 5, 1994, [108 Stat. 2974][/us/stat/108/2974]; amended [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314].)
+(Added [Pub. L. 103–337, div. A, title XVI, § 1661(a)(1)][/us/pl/103/337/s1661/a/1], Oct. 5, 1994, [108 Stat. 2974][/us/stat/108/2974]; amended [Pub. L. 107–296, title XVII, § 1704(b)(1)][/us/pl/107/296/s1704/b/1], Nov. 25, 2002, [116 Stat. 2314][/us/stat/116/2314]; [Pub. L. 114–92, div. A, title V, § 511][/us/pl/114/92/s511], Nov. 25, 2015, [129 Stat. 808][/us/stat/129/808].)
 
  __Prior Provisions__ 
 
     Provisions similar to those in this section were contained in [section 271 of this title][/us/usc/t10/s271], prior to repeal by [Pub. L. 103–337, § 1661(a)(2)(A)][/us/pl/103/337/s1661/a/2/A].
 
  __Amendments__ 
+
+    2015—Subsecs. (b), (c). [Pub. L. 114–92][/us/pl/114/92] added subsec. (b) and redesignated former subsec. (b) as (c).
 
     2002—Subsec. (b). [Pub. L. 107–296][/us/pl/107/296] substituted “of Homeland Security” for “of Transportation”.
 
@@ -74,8 +90,11 @@
 [/us/stat/108/2974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2974
 [/us/pl/107/296/s1704/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fb%2F1
 [/us/stat/116/2314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2314
+[/us/pl/114/92/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs511
+[/us/stat/129/808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F808
 [/us/usc/t10/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs271
 [/us/pl/103/337/s1661/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1661%2Fa%2F2%2FA
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/296/s1704/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1704%2Fg

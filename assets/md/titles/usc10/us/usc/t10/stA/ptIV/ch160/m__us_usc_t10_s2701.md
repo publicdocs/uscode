@@ -555,7 +555,7 @@
 
 >             “(A) Appropriate State and local agencies.
 
->             “(B) local \[sic\] workforce investment boards established under section 117 of the Workforce Investment Act of 1998 \[[29 U.S.C. 2832][/us/usc/t29/s2832]\].
+>             “(B) local \[sic\] workforce investment boards established under \[former\] section 117 of the Workforce Investment Act of 1998 \[former [29 U.S.C. 2832][/us/usc/t29/s2832]\].
 
 >             “(C) Community-based organizations (as defined in section 4(5) of such Act ([29 U.S.C. 1503(5)][/us/usc/t29/s1503/5]).
 

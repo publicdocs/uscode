@@ -33,7 +33,7 @@
 
         (7) A list of any non-standard items slated for inclusion in the prepositioned stocks and a plan for funding the inclusion and sustainment of such items.
 
-        (8) A list of any equipment used in support of Operation Iraqi Freedom, Operation New Dawn, or Operation Enduring Freedom slated for retrograde and subsequent inclusion in the prepositioned stocks.
+        (8) A list of any equipment used in support of contingency operations slated for retrograde and subsequent inclusion in the prepositioned stocks.
 
         (9) An efficiency strategy for limited shelf-life medical stock replacement.
 
@@ -51,9 +51,11 @@
 
         (3) The requirement to conduct a review under this subsection shall terminate on September 30, 2015.
 
-(Added [Pub. L. 110–181, div. A, title III, § 352(a)][/us/pl/110/181/s352/a], Jan. 28, 2008, [122 Stat. 71][/us/stat/122/71]; amended [Pub. L. 112–81, div. A, title III, § 341(b)][/us/pl/112/81/s341/b], Dec. 31, 2011, [125 Stat. 1369][/us/stat/125/1369]; [Pub. L. 112–239, div. A, title III, § 343][/us/pl/112/239/s343], Jan. 2, 2013, [126 Stat. 1700][/us/stat/126/1700].)
+(Added [Pub. L. 110–181, div. A, title III, § 352(a)][/us/pl/110/181/s352/a], Jan. 28, 2008, [122 Stat. 71][/us/stat/122/71]; amended [Pub. L. 112–81, div. A, title III, § 341(b)][/us/pl/112/81/s341/b], Dec. 31, 2011, [125 Stat. 1369][/us/stat/125/1369]; [Pub. L. 112–239, div. A, title III, § 343][/us/pl/112/239/s343], Jan. 2, 2013, [126 Stat. 1700][/us/stat/126/1700]; [Pub. L. 114–92, div. A, title III, § 331][/us/pl/114/92/s331], Nov. 25, 2015, [129 Stat. 791][/us/stat/129/791].)
 
  __Amendments__ 
+
+    2015—Subsec. (a)(8). [Pub. L. 114–92][/us/pl/114/92] amended par. (8) generally. Prior to amendment, par. (8) read as follows: “A list of any equipment used in support of Operation Iraqi Freedom, Operation New Dawn, or Operation Enduring Freedom slated for retrograde and subsequent inclusion in the prepositioned stocks.”
 
     2013—Subsec. (b)(1). [Pub. L. 112–239][/us/pl/112/239] substituted “The” for “By not later than 120 days after the date on which a report is submitted under subsection (a), the” and “each report submitted under subsection (a)” for “the report”.
 
@@ -73,6 +75,9 @@
 [/us/stat/125/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1369
 [/us/pl/112/239/s343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs343
 [/us/stat/126/1700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1700
+[/us/pl/114/92/s331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs331
+[/us/stat/129/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F791
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 

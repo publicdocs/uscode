@@ -85,6 +85,210 @@
 
 > “The amendments made by subsection (a) \[amending this section\] shall apply with respect to a background investigation conducted after the date of the enactment of this Act \[Jan. 7, 2011\].”
 
+ __Reform and Improvement of Personnel Security, Insider Threat Detection and Prevention, and Physical Security__ 
+
+[Pub. L. 114–92, div. A, title X, § 1086][/us/pl/114/92/s1086], Nov. 25, 2015, [129 Stat. 1006][/us/stat/129/1006], provided that:
+
+>     “(a) __Personnel Security and Insider Threat Protection in Department of Defense.—__ 
+
+>         “(1)  __Plans and schedules__  __.—__ 
+
+>         Consistent with the Memorandum of the Secretary of Defense dated March 18, 2014, regarding the recommendations of the reviews of the Washington Navy Yard shooting, the Secretary of Defense shall develop plans and schedules—
+
+>             “(A) to implement a continuous evaluation capability for the national security population for which clearance adjudications are conducted by the Department of Defense Central Adjudication Facility, in coordination with the heads of other relevant agencies;
+
+>             “(B)
+
+>              to produce a Department-wide insider threat strategy and implementation plan, which includes—
+
+>                 “(i) resourcing for the Defense Insider Threat Management and Analysis Center and component insider threat programs, and
+
+>                 “(ii) alignment of insider threat protection programs with continuous evaluation capabilities and processes for personnel security;
+
+>             “(C) to centralize the authority, accountability, and programmatic integration responsibilities, including fiscal control, for personnel security and insider threat protection under the Under Secretary of Defense for Intelligence;
+
+>             “(D) to develop a defense security enterprise reform investment strategy to ensure a consistent, long-term focus on funding to strengthen all of the Department’s security and insider threat programs, policies, functions, and information technology capabilities, including detecting threat behaviors conveyed in the cyber domain, in a manner that keeps pace with evolving threats and risks;
+
+>             “(E) to resource and expedite deployment of the Identity Management Enterprise Services Architecture; and
+
+>             “(F) to implement the recommendations contained in the study conducted by the Director of Cost Analysis and Program Evaluation required by section 907 of the National Defense Authorization Act for Fiscal Year 2014 ([Public Law 113–66][/us/pl/113/66]; [10 U.S.C. 1564][/us/usc/t10/s1564] note), including, specifically, the recommendations to centrally manage and regulate Department of Defense requests for personnel security background investigations.
+
+>         “(2)  __Reporting requirement__  __.—__ 
+
+>         Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall submit to the appropriate committees of Congress a report describing the plans and schedules required under paragraph (1).
+
+>     “(b)  __Physical and Logical Access__  __.—__ 
+
+>     Not later than 270 days after the date of the enactment of this Act—
+
+>         “(1)
+
+>          the Secretary of Defense shall define physical and logical access standards, capabilities, and processes applicable to all personnel with access to Department of Defense installations and information technology systems, including—
+
+>             “(A) periodic or regularized background or records checks appropriate to the type of physical or logical access involved, the security level, the category of individuals authorized, and the level of access to be granted;
+
+>             “(B) standards and methods for verifying the identity of individuals seeking access; and
+
+>             “(C) electronic attribute-based access controls that are appropriate for the type of access and facility or information technology system involved;
+
+>         “(2) the Director of the Office of Management and Budget and the Chair of the Performance Accountability Council, in coordination with the Secretary of Defense, the Administrator of General Services, and, when appropriate, the Director of National Intelligence, and in consultation with representatives from stakeholder organizations, shall design a capability to share and apply electronic identity information across the Government to enable real-time, risk-managed physical and logical access decisions; and
+
+>         “(3) the Director of the Office of Management and Budget, in conjunction with the Director of the Office of Personnel Management and in consultation with representatives from stakeholder organizations, shall establish investigative and adjudicative standards for the periodic or regularized reevaluation of the eligibility of an individual to retain credentials issued pursuant to Homeland Security Presidential Directive 12 (dated August 27, 2004), as appropriate, but not less frequently than the authorization period of the issued credentials.
+
+>     “(c)  __Security Enterprise Management__  __.—__ 
+
+>     Not later than 180 days after the date of enactment of this Act \[Nov. 25, 2015\], the Director of the Office of Management and Budget shall—
+
+>         “(1) formalize the Security, Suitability, and Credentialing Line of Business; and
+
+>         “(2)
+
+>          submit to the appropriate congressional committee a report that describes plans—
+
+>             “(A) for oversight by the Office of Management and Budget of activities of the executive branch of the Government for personnel security, suitability, and credentialing;
+
+>             “(B) to designate enterprise shared services to optimize investments;
+
+>             “(C) to define and implement data standards to support common electronic access to critical Government records; and
+
+>             “(D) to reduce the burden placed on Government data providers by centralizing requests for records access and ensuring proper sharing of the data with appropriate investigative and adjudicative elements.
+
+>     “(d)  __Reciprocity Management__  __.—__ 
+
+>     Not later than two years after the date of the enactment of this Act, the Chair of the Performance Accountability Council shall ensure that—
+
+>         “(1) a centralized system is available to serve as the reciprocity management system for the Federal Government; and
+
+>         “(2) the centralized system described in paragraph (1) is aligned with, and incorporates results from, continuous evaluation and other enterprise reform initiatives.
+
+>     “(e)  __Reporting Requirements Implementation__  __.—__ 
+
+>     Not later than 180 days after the date of enactment of this Act, the Chair of the Performance Accountability Council, in coordination with the Security Executive Agent, the Suitability Executive Agent, and the Secretary of Defense, shall jointly develop a plan to—
+
+>         “(1) implement the Security Executive Agent Directive on common, standardized employee and contractor security reporting requirements;
+
+>         “(2) establish and implement uniform reporting requirements for employees and Federal contractors, according to risk, relative to the safety of the workforce and protection of the most sensitive information of the Government; and
+
+>         “(3) ensure that reported information is shared appropriately.
+
+>     “(f) __Access to Criminal History Records for National Security and Other Purposes.—__ 
+
+>         “(1)  __Definition__  __.—__ 
+
+>         \[Amended [section 9101 of Title 5][/us/usc/t5/s9101], Government Organization and Employees.\]
+
+>         “(2)  __Covered agencies__  __.—__ 
+
+>         \[Amended [section 9101 of Title 5][/us/usc/t5/s9101].\]
+
+>         “(3)  __Applicable purposes of investigations__  __.—__ 
+
+>         \[Amended [section 9101 of Title 5][/us/usc/t5/s9101].\]
+
+>         “(4)  __Biometric and biographic searches__  __.—__ 
+
+>         \[Amended [section 9101 of Title 5][/us/usc/t5/s9101].\]
+
+>         “(5)  __Use of most cost-effective system__  __.—__ 
+
+>         \[Amended [section 9101 of Title 5][/us/usc/t5/s9101].\]
+
+>         “(6) __Sealed or expunged records; juvenile records.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             \[Amended [section 9101 of Title 5][/us/usc/t5/s9101].\]
+
+>             “(B) __Regulations.—__ 
+
+>                 “(i)  __Definition__  __.—__ 
+
+>                 In this subparagraph, the terms ‘Security Executive Agent’ and ‘Suitability Executive Agent’ mean the Security Executive Agent and the Suitability Executive Agent, respectively, established under Executive Order 13467 (73 Fed. Reg. 38103) \[[50 U.S.C. 3161][/us/usc/t50/s3161] note\], or any successor thereto.
+
+>                 “(ii)  __Development; promulgation__  __.—__ 
+
+>                 The Security Executive Agent shall—
+
+>                          “(I) not later than 45 days after the date of enactment of this Act \[Nov. 25, 2015\], and in conjunction with the Suitability Executive Agent and the Attorney General, begin developing regulations to implement the amendments made by subparagraph (A); and
+
+>                          “(II) not later than 120 days after the date of enactment of this Act, promulgate regulations to implement the amendments made by subparagraph (A).
+
+>             “(C)  __Sense of congress__  __.—__ 
+
+>             It is the sense of Congress that the Federal Government should not uniformly reject applicants for employment with the Federal Government or Federal contractors based on—
+
+>                 “(i) sealed or expunged criminal records; or
+
+>                 “(ii) juvenile records.
+
+>         “(7)  __Interaction with law enforcement and intelligence agencies abroad__  __.—__ 
+
+>         \[Amended [section 9101 of Title 5][/us/usc/t5/s9101].\]
+
+>         “(8)  __Clarification of security requirements for contractors conducting background investigations__  __.—__ 
+
+>         \[Amended [section 9101 of Title 5][/us/usc/t5/s9101].\]
+
+>         “(9)  __Clarification regarding adverse actions__  __.—__ 
+
+>         \[Amended [section 7512 of Title 5][/us/usc/t5/s7512].\]
+
+>         “(10)  __Annual report by suitability and security clearance performance accountability council__  __.—__ 
+
+>         \[Amended [section 9101 of Title 5][/us/usc/t5/s9101].\]
+
+>         “(11) __GAO report on enhancing interoperability and reducing redundancy in federal critical infrastructure protection access control, background check, and credentialing standards.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             Not later than\\ \[sic\] one year after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the background check, access control, and credentialing requirements of Federal programs for the protection of critical infrastructure and key resources.
+
+>             “(B)  __Contents__  __.—__ 
+
+>             The Comptroller General shall include in the report required under subparagraph (A)—
+
+>                 “(i) a summary of the major characteristics of each such Federal program, including the types of infrastructure and resources covered;
+
+>                 “(ii)
+
+>                  a comparison of the requirements, whether mandatory or voluntary in nature, for regulated entities under each such program to—
+
+>                          “(I) conduct background checks on employees, contractors, and other individuals;
+
+>                          “(II) adjudicate the results of a background check, including the utilization of a standardized set of disqualifying offenses or the consideration of minor, non-violent, or juvenile offenses; and
+
+>                          “(III) establish access control systems to deter unauthorized access, or provide a security credential for any level of access to a covered facility or resource;
+
+>                 “(iii) a review of any efforts that the Screening Coordination Office of the Department of Homeland Security has undertaken or plans to undertake to harmonize or standardize background check, access control, or credentialing requirements for critical infrastructure and key resource protection programs overseen by the Department; and
+
+>                 “(iv)
+
+>                  recommendations, developed in consultation with appropriate stakeholders, regarding—
+
+>                          “(I) enhancing the interoperability of security credentials across critical infrastructure and key resource protection programs;
+
+>                          “(II) eliminating the need for redundant background checks or credentials across existing critical infrastructure and key resource protection programs;
+
+>                          “(III) harmonizing, where appropriate, the standards for identifying potentially disqualifying criminal offenses and the weight assigned to minor, nonviolent, or juvenile offenses in adjudicating the results of a completed background check; and
+
+>                          “(IV) the development of common, risk-based standards with respect to the background check, access control, and security credentialing requirements for critical infrastructure and key resource protection programs.
+
+>     “(g)  __Definitions__  __.—__ 
+
+>     In this section—
+
+>         “(1)
+
+>          the term ‘appropriate committees of Congress’ means—
+
+>             “(A) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\];
+
+>             “(B) the Select Committee on Intelligence and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+>             “(C) the Permanent Select Committee on Intelligence, the Committee on Oversight and Government Reform, and the Committee on Homeland Security of the House of Representatives; and
+
+>         “(2) the term ‘Performance Accountability Council’ means the Suitability and Security Clearance Performance Accountability Council established under Executive Order 13467 (73 Fed. Reg. 38103) \[[50 U.S.C. 3161][/us/usc/t50/s3161] note\], or any successor thereto.”
+
  __Personnel Security__ 
 
 [Pub. L. 113–66, div. A, title IX, § 907][/us/pl/113/66/s907], Dec. 26, 2013, [127 Stat. 818][/us/stat/127/818], provided that:
@@ -295,6 +499,22 @@
 [/us/pl/111/383/s351/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs351%2Fa%2F2
 [/us/pl/111/383/s351/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs351%2Fb
 [/us/stat/124/4193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4193
+[/us/pl/114/92/s1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1086
+[/us/stat/129/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1006
+[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
+[/us/usc/t10/s1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1564
+[/us/usc/t5/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9101
+[/us/usc/t5/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9101
+[/us/usc/t5/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9101
+[/us/usc/t5/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9101
+[/us/usc/t5/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9101
+[/us/usc/t5/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9101
+[/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
+[/us/usc/t5/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9101
+[/us/usc/t5/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9101
+[/us/usc/t5/s7512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7512
+[/us/usc/t5/s9101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs9101
+[/us/usc/t50/s3161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3161
 [/us/pl/113/66/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs907
 [/us/stat/127/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F818
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105

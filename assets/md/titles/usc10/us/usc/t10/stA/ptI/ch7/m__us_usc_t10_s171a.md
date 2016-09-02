@@ -71,7 +71,13 @@
 
         (4) A breakdown of each program element in such budget that relates to the system, including how such program element relates to the operation and sustainment, research and development, procurement, or other activity of the system.
 
-    (f)  __Budget and Funding Matters__  __.—__ 
+        (5) An assessment of the threats and vulnerabilities described in the reports and assessments collected under subsection (f) during the previous year, including any plans to address such threats and vulnerabilities.
+
+    (f)  __Collection of Assessments on Certain Threats__  __.—__ 
+
+    The Council shall collect and assess (consistent with the provision of classified information and intelligence sources and methods) all reports and assessments otherwise conducted by the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]) regarding foreign threats, including cyber threats, to the command, control, and communications system for the national leadership of the United States and the vulnerabilities of such system to such threats.
+
+    (g)  __Budget and Funding Matters__  __.—__ 
 
         (1)
 
@@ -91,13 +97,13 @@
 
         (3) If a House of Congress adopts a bill authorizing or appropriating funds for the activities of the command, control, and communications system for the national leadership of the United States that, as determined by the Council, provides insufficient funds for such activities for the period covered by such bill, the Council shall notify the congressional defense committees of the determination.
 
-    (g)  __Notification of Anomalies__  __.—__ 
+    (h)  __Notification of Anomalies__  __.—__ 
 
         (1) The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system for the national leadership of the United States that is reported to the Secretary or the Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
 
         (2) In this subsection, the term “anomaly” means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.
 
-    (h)  __National Leadership of the United States Defined__  __.—__ 
+    (i)  __National Leadership of the United States Defined__  __.—__ 
 
     In this section, the term “national leadership of the United States” means the following:
 
@@ -107,7 +113,13 @@
 
         (3) Such other civilian officials of the United States Government as the President shall designate for purposes of this section.
 
-(Added [Pub. L. 113–66, div. A, title X, § 1052(a)(1)][/us/pl/113/66/s1052/a/1], Dec. 26, 2013, [127 Stat. 859][/us/stat/127/859].)
+(Added [Pub. L. 113–66, div. A, title X, § 1052(a)(1)][/us/pl/113/66/s1052/a/1], Dec. 26, 2013, [127 Stat. 859][/us/stat/127/859]; amended [Pub. L. 114–92, div. A, title XVI, § 1651][/us/pl/114/92/s1651], Nov. 25, 2015, [129 Stat. 1121][/us/stat/129/1121].)
+
+ __Amendments__ 
+
+    Subsec. (e)(5). [Pub. L. 114–92, § 1651(3)][/us/pl/114/92/s1651/3], added par. (5).
+
+    Subsecs. (f) to (i). [Pub. L. 114–92, § 1651(1)][/us/pl/114/92/s1651/1], (2), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
 
 ----------
 
@@ -118,8 +130,13 @@
 
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
+[/us/usc/t50/s3003/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003%2F4
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/pl/113/66/s1052/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1052%2Fa%2F1
 [/us/stat/127/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F859
+[/us/pl/114/92/s1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1651
+[/us/stat/129/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1121
+[/us/pl/114/92/s1651/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1651%2F3
+[/us/pl/114/92/s1651/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1651%2F1
 
 

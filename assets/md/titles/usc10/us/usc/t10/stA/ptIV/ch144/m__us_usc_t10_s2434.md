@@ -13,37 +13,35 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch144/m__us_usc_t10_s2433a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch144/m__us_usc_t10_s2435.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2434)
 
-## § 2434. Independent cost estimates; operational manpower requirements
+## § 2434. Independent cost estimates
 
     (a)  __Requirement for Approval__  __.—__ 
 
-        (1) The Secretary of Defense may not approve the system development and demonstration, or the production and deployment, of a major defense acquisition program unless an independent estimate of the full life-cycle cost of the program and a manpower estimate for the program have been considered by the Secretary.
+        (1) The Secretary of Defense may not approve the system development and demonstration, or the production and deployment, of a major defense acquisition program unless an independent estimate of the full life-cycle cost of the program has been considered by the Secretary.
 
         (2) The provisions of this section shall apply to any major subprogram of a major defense acquisition program (as designated under [section 2430a(a)(1) of this title][/us/usc/t10/s2430a/a/1]) in the same manner as those provisions apply to a major defense acquisition program, and any reference in this section to a program shall be treated as including such a subprogram.
 
     (b)  __Regulations__  __.—__ 
 
-    The Secretary of Defense shall prescribe regulations governing the content and submission of the estimates required by subsection (a). The regulations shall require—
+    The Secretary of Defense shall prescribe regulations governing the content and submission of the estimates required by subsection (a). The regulations shall require that the independent estimate of the full life-cycle cost of a program—
 
-        (1)
+        (1) be prepared or approved by the Director of Cost Assessment and Program Evaluation; and
 
-         that the independent estimate of the full life-cycle cost of a program—
+        (2) include all costs of development, procurement, military construction, operations and support, and trained manpower to operate, maintain, and support the program upon full operational deployment, without regard to funding source or management control.
 
-            (A) be prepared or approved by the Director of Cost Assessment and Program Evaluation; and
-
-            (B) include all costs of development, procurement, military construction, and operations and support, without regard to funding source or management control; and
-
-        (2)
-
-         that the manpower estimate include an estimate of the total number of personnel required—
-
-            (A) to operate, maintain, and support the program upon full operational deployment; and
-
-            (B) to train personnel to carry out the activities referred to in subparagraph (A).
-
-(Added [Pub. L. 98–94, title XII, § 1203(a)(1)][/us/pl/98/94/s1203/a/1], Sept. 24, 1983, [97 Stat. 682][/us/stat/97/682], § 139c; renumbered § 2434 and amended [Pub. L. 99–433, title I][/us/pl/99/433], §§ 101(a)(5), 110(d)(15), (g)(9), Oct. 1, 1986, [100 Stat. 995][/us/stat/100/995], 1003, 1004; [Pub. L. 99–661, div. A, title XII, § 1208(a)][/us/pl/99/661/s1208/a]–(c)(1), Nov. 14, 1986, [100 Stat. 3975][/us/stat/100/3975]; [Pub. L. 100–26, § 7(b)(5)][/us/pl/100/26/s7/b/5], Apr. 21, 1987, [101 Stat. 279][/us/stat/101/279]; [Pub. L. 100–180, div. A, title XIII, § 1314(a)(1)][/us/pl/100/180/s1314/a/1], Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175]; [Pub. L. 100–456, div. A, title V, § 525][/us/pl/100/456/s525], Sept. 29, 1988, [102 Stat. 1975][/us/stat/102/1975]; [Pub. L. 102–190, div. A, title VIII, § 801(a)][/us/pl/102/190/s801/a], (b)(1), Dec. 5, 1991, [105 Stat. 1412][/us/stat/105/1412]; [Pub. L. 103–355, title III, § 3004][/us/pl/103/355/s3004], Oct. 13, 1994, [108 Stat. 3330][/us/stat/108/3330]; [Pub. L. 104–106, div. A, title VIII, § 814][/us/pl/104/106/s814], Feb. 10, 1996, [110 Stat. 395][/us/stat/110/395]; [Pub. L. 107–107, div. A, title VIII, § 821(a)][/us/pl/107/107/s821/a], Dec. 28, 2001, [115 Stat. 1181][/us/stat/115/1181]; [Pub. L. 111–23, title I, § 101(d)(5)][/us/pl/111/23/s101/d/5], May 22, 2009, [123 Stat. 1710][/us/stat/123/1710]; [Pub. L. 111–383, div. A, title VIII, § 814(e)][/us/pl/111/383/s814/e], Jan. 7, 2011, [124 Stat. 4267][/us/stat/124/4267].)
+(Added [Pub. L. 98–94, title XII, § 1203(a)(1)][/us/pl/98/94/s1203/a/1], Sept. 24, 1983, [97 Stat. 682][/us/stat/97/682], § 139c; renumbered § 2434 and amended [Pub. L. 99–433, title I][/us/pl/99/433], §§ 101(a)(5), 110(d)(15), (g)(9), Oct. 1, 1986, [100 Stat. 995][/us/stat/100/995], 1003, 1004; [Pub. L. 99–661, div. A, title XII, § 1208(a)][/us/pl/99/661/s1208/a]–(c)(1), Nov. 14, 1986, [100 Stat. 3975][/us/stat/100/3975]; [Pub. L. 100–26, § 7(b)(5)][/us/pl/100/26/s7/b/5], Apr. 21, 1987, [101 Stat. 279][/us/stat/101/279]; [Pub. L. 100–180, div. A, title XIII, § 1314(a)(1)][/us/pl/100/180/s1314/a/1], Dec. 4, 1987, [101 Stat. 1175][/us/stat/101/1175]; [Pub. L. 100–456, div. A, title V, § 525][/us/pl/100/456/s525], Sept. 29, 1988, [102 Stat. 1975][/us/stat/102/1975]; [Pub. L. 102–190, div. A, title VIII, § 801(a)][/us/pl/102/190/s801/a], (b)(1), Dec. 5, 1991, [105 Stat. 1412][/us/stat/105/1412]; [Pub. L. 103–355, title III, § 3004][/us/pl/103/355/s3004], Oct. 13, 1994, [108 Stat. 3330][/us/stat/108/3330]; [Pub. L. 104–106, div. A, title VIII, § 814][/us/pl/104/106/s814], Feb. 10, 1996, [110 Stat. 395][/us/stat/110/395]; [Pub. L. 107–107, div. A, title VIII, § 821(a)][/us/pl/107/107/s821/a], Dec. 28, 2001, [115 Stat. 1181][/us/stat/115/1181]; [Pub. L. 111–23, title I, § 101(d)(5)][/us/pl/111/23/s101/d/5], May 22, 2009, [123 Stat. 1710][/us/stat/123/1710]; [Pub. L. 111–383, div. A, title VIII, § 814(e)][/us/pl/111/383/s814/e], Jan. 7, 2011, [124 Stat. 4267][/us/stat/124/4267]; [Pub. L. 114–92, div. A, title VIII, § 831(a)][/us/pl/114/92/s831/a]–(c)(1), Nov. 25, 2015, [129 Stat. 912][/us/stat/129/912].)
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92, § 831(c)(1)][/us/pl/114/92/s831/c/1], substituted “Independent cost estimates” for “Independent cost estimates; operational manpower requirements” in section catchline.
+
+    Subsec. (a)(1). [Pub. L. 114–92, § 831(a)][/us/pl/114/92/s831/a], substituted “has” for “and a manpower estimate for the program have”.
+
+    Subsec. (b). [Pub. L. 114–92, § 831(b)][/us/pl/114/92/s831/b], substituted “shall require” for “shall require—”; struck out par. (1) designation before “that the independent”; redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and realigned margins; in par. (2), substituted “operations and support, and trained manpower to operate, maintain, and support the program upon full operational deployment,” for “and operations and support,” and period at end for “; and”; and struck out former par. (2) which read as follows: “that the manpower estimate include an estimate of the total number of personnel required—
+
+    “(A) to operate, maintain, and support the program upon full operational deployment; and
+
+    “(B) to train personnel to carry out the activities referred to in subparagraph (A).”
 
     2011—Subsec. (a). [Pub. L. 111–383][/us/pl/111/383] designated existing provisions as par. (1) and added par. (2).
 
@@ -163,6 +161,11 @@
 [/us/stat/123/1710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1710
 [/us/pl/111/383/s814/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs814%2Fe
 [/us/stat/124/4267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4267
+[/us/pl/114/92/s831/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs831%2Fa
+[/us/stat/129/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F912
+[/us/pl/114/92/s831/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs831%2Fc%2F1
+[/us/pl/114/92/s831/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs831%2Fa
+[/us/pl/114/92/s831/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs831%2Fb
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F23
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107

@@ -151,33 +151,11 @@
 
             (C) The term “proposed transfer of estimated nuclear budget request authority” means, in preparing a budget, a request for the Secretary of Defense to transfer an estimated amount of the proposed budget authority of the Secretary to the Secretary of Energy for purposes relating to nuclear weapons.
 
-    (g)  __Annual Report__  __.—__ 
-
-    Each fiscal year, at the same time the President submits the budget pursuant to [section 1105 of title 31][/us/usc/t31/s1105], the Chairman of the Council, through the Secretary of Energy, shall submit to the congressional defense committees a report, in classified form, that includes the following:
-
-        (1) The effectiveness and efficiency of the Council, and of the deliberative and decisionmaking processes used by the Council, in carrying out the responsibilities described in subsection (d).
-
-        (2)
-
-         A description of all activities conducted by the Department of Energy during that fiscal year, or planned to be conducted by the Department of Energy during the next fiscal year, for the study, development, production, and retirement of nuclear warheads and that have been approved by the Council, including a description of—
-
-            (A) the concept definition activities and feasibility studies conducted or planned to be conducted by the Department of Energy;
-
-            (B) the schedule for completion of each such activity or study; and
-
-            (C) the degree to which each such activity or study is consistent with United States policy for new nuclear warhead development or warhead modification and with established or projected military requirements.
-
-        (3) A description of the activities of the Council during the 12-month period ending on the date of the report together with any assessments or studies conducted by the Council during that period.
-
-        (4) A description of the highest priority requirements of the Department of Defense with respect to the Department of Energy stockpile stewardship and management program as of that date.
-
-        (5) An assessment of the extent to which the requirements referred to in paragraph (4) are being addressed by the Department of Energy as of that date.
-
-        (6) A description and assessment of the joint efforts of the Secretary of Defense and the Secretary of Energy to develop common security practices that improve the security of the nuclear weapons and facilities of the Department of Defense and the Department of Energy.
-
-(Added [Pub. L. 99–661, div. C, title I, § 3137(a)(1)][/us/pl/99/661/s3137/a/1], Nov. 14, 1986, [100 Stat. 4065][/us/stat/100/4065]; amended [Pub. L. 100–180, div. A, title XII, § 1231(2)][/us/pl/100/180/s1231/2], Dec. 4, 1987, [101 Stat. 1160][/us/stat/101/1160]; [Pub. L. 100–456, div. A, title XII, § 1233(h)][/us/pl/100/456/s1233/h], Sept. 29, 1988, [102 Stat. 2058][/us/stat/102/2058]; [Pub. L. 102–484, div. C, title XXXI, § 3133][/us/pl/102/484/s3133], Oct. 23, 1992, [106 Stat. 2639][/us/stat/106/2639]; [Pub. L. 103–160, div. A, title IX, § 904(d)(1)][/us/pl/103/160/s904/d/1], Nov. 30, 1993, [107 Stat. 1728][/us/stat/107/1728]; [Pub. L. 103–337, div. C, title XXXI, § 3152][/us/pl/103/337/s3152], Oct. 5, 1994, [108 Stat. 3090][/us/stat/108/3090]; [Pub. L. 104–106, div. A, title IX, § 904(b)(1)][/us/pl/104/106/s904/b/1], title XV, § 1502(a)(7), Feb. 10, 1996, [110 Stat. 403][/us/stat/110/403], 502; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], div. C, title XXXI, § 3163(a), (c), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], 944; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3152(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–464; [Pub. L. 107–107, div. A, title X, § 1048(b)(2)][/us/pl/107/107/s1048/b/2], Dec. 28, 2001, [115 Stat. 1225][/us/stat/115/1225]; [Pub. L. 107–314, div. D, title XLII, § 4213(c)][/us/pl/107/314/s4213/c], formerly [Pub. L. 104–201, div. C, title XXXI, § 3159(c)][/us/pl/104/201/s3159/c], Sept. 23, 1996, [110 Stat. 2842][/us/stat/110/2842], renumbered [§ 4213(c) of Pub. L. 107–314][/us/pl/107/314/s4213/c] by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(14)][/us/pl/108/136/s3141/e/14], Nov. 24, 2003, [117 Stat. 1760][/us/stat/117/1760]; [Pub. L. 108–375, div. A, title IX, § 902(a)][/us/pl/108/375/s902/a]–(d), Oct. 28, 2004, [118 Stat. 2025][/us/stat/118/2025]; [Pub. L. 109–364, div. A, title IX, § 903][/us/pl/109/364/s903], Oct. 17, 2006, [120 Stat. 2351][/us/stat/120/2351]; [Pub. L. 111–383, div. A, title IX, § 901(j)(1)][/us/pl/111/383/s901/j/1], Jan. 7, 2011, [124 Stat. 4324][/us/stat/124/4324]; [Pub. L. 112–239, div. A, title X, § 1039][/us/pl/112/239/s1039], Jan. 2, 2013, [126 Stat. 1927][/us/stat/126/1927]; [Pub. L. 113–66, div. A, title X][/us/pl/113/66], §§ 1053, 1091(a)(3), Dec. 26, 2013, [127 Stat. 861][/us/stat/127/861], 875; [Pub. L. 113–291, div. A, title XVI, § 1641][/us/pl/113/291/s1641], Dec. 19, 2014, [128 Stat. 3648][/us/stat/128/3648].)
+(Added [Pub. L. 99–661, div. C, title I, § 3137(a)(1)][/us/pl/99/661/s3137/a/1], Nov. 14, 1986, [100 Stat. 4065][/us/stat/100/4065]; amended [Pub. L. 100–180, div. A, title XII, § 1231(2)][/us/pl/100/180/s1231/2], Dec. 4, 1987, [101 Stat. 1160][/us/stat/101/1160]; [Pub. L. 100–456, div. A, title XII, § 1233(h)][/us/pl/100/456/s1233/h], Sept. 29, 1988, [102 Stat. 2058][/us/stat/102/2058]; [Pub. L. 102–484, div. C, title XXXI, § 3133][/us/pl/102/484/s3133], Oct. 23, 1992, [106 Stat. 2639][/us/stat/106/2639]; [Pub. L. 103–160, div. A, title IX, § 904(d)(1)][/us/pl/103/160/s904/d/1], Nov. 30, 1993, [107 Stat. 1728][/us/stat/107/1728]; [Pub. L. 103–337, div. C, title XXXI, § 3152][/us/pl/103/337/s3152], Oct. 5, 1994, [108 Stat. 3090][/us/stat/108/3090]; [Pub. L. 104–106, div. A, title IX, § 904(b)(1)][/us/pl/104/106/s904/b/1], title XV, § 1502(a)(7), Feb. 10, 1996, [110 Stat. 403][/us/stat/110/403], 502; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], div. C, title XXXI, § 3163(a), (c), Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], 944; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3152(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–464; [Pub. L. 107–107, div. A, title X, § 1048(b)(2)][/us/pl/107/107/s1048/b/2], Dec. 28, 2001, [115 Stat. 1225][/us/stat/115/1225]; [Pub. L. 107–314, div. D, title XLII, § 4213(c)][/us/pl/107/314/s4213/c], formerly [Pub. L. 104–201, div. C, title XXXI, § 3159(c)][/us/pl/104/201/s3159/c], Sept. 23, 1996, [110 Stat. 2842][/us/stat/110/2842], renumbered [§ 4213(c) of Pub. L. 107–314][/us/pl/107/314/s4213/c] by [Pub. L. 108–136, div. C, title XXXI, § 3141(e)(14)][/us/pl/108/136/s3141/e/14], Nov. 24, 2003, [117 Stat. 1760][/us/stat/117/1760]; [Pub. L. 108–375, div. A, title IX, § 902(a)][/us/pl/108/375/s902/a]–(d), Oct. 28, 2004, [118 Stat. 2025][/us/stat/118/2025]; [Pub. L. 109–364, div. A, title IX, § 903][/us/pl/109/364/s903], Oct. 17, 2006, [120 Stat. 2351][/us/stat/120/2351]; [Pub. L. 111–383, div. A, title IX, § 901(j)(1)][/us/pl/111/383/s901/j/1], Jan. 7, 2011, [124 Stat. 4324][/us/stat/124/4324]; [Pub. L. 112–239, div. A, title X, § 1039][/us/pl/112/239/s1039], Jan. 2, 2013, [126 Stat. 1927][/us/stat/126/1927]; [Pub. L. 113–66, div. A, title X][/us/pl/113/66], §§ 1053, 1091(a)(3), Dec. 26, 2013, [127 Stat. 861][/us/stat/127/861], 875; [Pub. L. 113–291, div. A, title XVI, § 1641][/us/pl/113/291/s1641], Dec. 19, 2014, [128 Stat. 3648][/us/stat/128/3648]; [Pub. L. 114–92, div. A, title X, § 1076(a)][/us/pl/114/92/s1076/a], Nov. 25, 2015, [129 Stat. 997][/us/stat/129/997].)
 
  __Amendments__ 
+
+    2015—Subsec. (g). [Pub. L. 114–92][/us/pl/114/92] struck out subsec. (g) which related to annual report.
 
     2014—Subsec. (f)(3) to (6). [Pub. L. 113–291][/us/pl/113/291] added pars. (3) to (6).
 
@@ -289,7 +267,6 @@
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t10/s231/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs231%2Ff
 [/us/usc/t10/s231/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs231%2Ff
-[/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/99/661/s3137/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs3137%2Fa%2F1
 [/us/stat/100/4065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4065
 [/us/pl/100/180/s1231/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs1231%2F2
@@ -328,6 +305,9 @@
 [/us/stat/127/861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F861
 [/us/pl/113/291/s1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1641
 [/us/stat/128/3648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3648
+[/us/pl/114/92/s1076/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1076%2Fa
+[/us/stat/129/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F997
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66/s1091/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fa%2F3
 [/us/pl/112/239/s1039/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1039%2Fc

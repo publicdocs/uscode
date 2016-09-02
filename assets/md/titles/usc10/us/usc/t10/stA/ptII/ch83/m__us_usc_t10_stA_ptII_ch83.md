@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch81/m__us_usc_t10_s1599d.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch83/schI/m__us_usc_t10_stA_ptII_ch83_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch83)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch81/m__us_usc_t10_s1599f.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch83/schI/m__us_usc_t10_stA_ptII_ch83_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch83)
 
 #### CHAPTER 83—CIVILIAN DEFENSE INTELLIGENCE EMPLOYEES
 
@@ -59,7 +59,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch81/m__us_usc_t10_s1599d.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch83/schI/m__us_usc_t10_stA_ptII_ch83_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch83)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch81/m__us_usc_t10_s1599f.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch83/schI/m__us_usc_t10_stA_ptII_ch83_schI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch83)
 
 ----------
 ----------

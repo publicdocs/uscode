@@ -193,7 +193,19 @@
 
     If a person would otherwise be entitled to retired pay computed under more than one formula of the table in subsection (a) or of any other provision of law, the person is entitled to be paid under the applicable formula that is most favorable to him.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 106][/us/stat/70A/106]; [Pub. L. 85–422][/us/pl/85/422], §§ 6(7), 11(a)(2), May 20, 1958, [72 Stat. 129][/us/stat/72/129], 131; [Pub. L. 88–132, § 5(h)(1)][/us/pl/88/132/s5/h/1], Oct. 2, 1963, [77 Stat. 214][/us/stat/77/214]; [Pub. L. 89–132, § 6][/us/pl/89/132/s6], Aug. 21, 1965, [79 Stat. 547][/us/stat/79/547]; [Pub. L. 90–207, § 3(1)][/us/pl/90/207/s3/1], Dec. 16, 1967, [81 Stat. 653][/us/stat/81/653]; [Pub. L. 92–455, § 1][/us/pl/92/455/s1], Oct. 2, 1972, [86 Stat. 761][/us/stat/86/761]; [Pub. L. 96–342, title VIII, § 813(b)(1)][/us/pl/96/342/s813/b/1], Sept. 8, 1980, [94 Stat. 1102][/us/stat/94/1102]; [Pub. L. 96–513, title I, § 113(a)][/us/pl/96/513/s113/a], title V, § 511(49), Dec. 12, 1980, [94 Stat. 2876][/us/stat/94/2876], 2924; [Pub. L. 98–94, title IX][/us/pl/98/94], §§ 922(a)(1), 923(a)(1), (2)(A), Sept. 24, 1983, [97 Stat. 641][/us/stat/97/641], 642; [Pub. L. 98–557, § 35(b)][/us/pl/98/557/s35/b], Oct. 30, 1984, [98 Stat. 2877][/us/stat/98/2877]; [Pub. L. 99–348, title II, § 201(a)][/us/pl/99/348/s201/a], July 1, 1986, [100 Stat. 691][/us/stat/100/691]; [Pub. L. 102–484, div. A, title X, § 1052(18)][/us/pl/102/484/s1052/18], Oct. 23, 1992, [106 Stat. 2500][/us/stat/106/2500]; [Pub. L. 103–337, div. A, title XVI, § 1662(j)(2)][/us/pl/103/337/s1662/j/2], Oct. 5, 1994, [108 Stat. 3004][/us/stat/108/3004]; [Pub. L. 109–163, div. A, title V, § 509(d)(1)(A)][/us/pl/109/163/s509/d/1/A], Jan. 6, 2006, [119 Stat. 3231][/us/stat/119/3231]; [Pub. L. 109–364, div. A, title V, § 502(d)(1)][/us/pl/109/364/s502/d/1], Oct. 17, 2006, [120 Stat. 2177][/us/stat/120/2177]; [Pub. L. 111–383, div. A, title VI, § 631(a)][/us/pl/111/383/s631/a], Jan. 7, 2011, [124 Stat. 4239][/us/stat/124/4239]; [Pub. L. 112–239, div. A, title X, § 1076(f)(19)][/us/pl/112/239/s1076/f/19], Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 106][/us/stat/70A/106]; [Pub. L. 85–422][/us/pl/85/422], §§ 6(7), 11(a)(2), May 20, 1958, [72 Stat. 129][/us/stat/72/129], 131; [Pub. L. 88–132, § 5(h)(1)][/us/pl/88/132/s5/h/1], Oct. 2, 1963, [77 Stat. 214][/us/stat/77/214]; [Pub. L. 89–132, § 6][/us/pl/89/132/s6], Aug. 21, 1965, [79 Stat. 547][/us/stat/79/547]; [Pub. L. 90–207, § 3(1)][/us/pl/90/207/s3/1], Dec. 16, 1967, [81 Stat. 653][/us/stat/81/653]; [Pub. L. 92–455, § 1][/us/pl/92/455/s1], Oct. 2, 1972, [86 Stat. 761][/us/stat/86/761]; [Pub. L. 96–342, title VIII, § 813(b)(1)][/us/pl/96/342/s813/b/1], Sept. 8, 1980, [94 Stat. 1102][/us/stat/94/1102]; [Pub. L. 96–513, title I, § 113(a)][/us/pl/96/513/s113/a], title V, § 511(49), Dec. 12, 1980, [94 Stat. 2876][/us/stat/94/2876], 2924; [Pub. L. 98–94, title IX][/us/pl/98/94], §§ 922(a)(1), 923(a)(1), (2)(A), Sept. 24, 1983, [97 Stat. 641][/us/stat/97/641], 642; [Pub. L. 98–557, § 35(b)][/us/pl/98/557/s35/b], Oct. 30, 1984, [98 Stat. 2877][/us/stat/98/2877]; [Pub. L. 99–348, title II, § 201(a)][/us/pl/99/348/s201/a], July 1, 1986, [100 Stat. 691][/us/stat/100/691]; [Pub. L. 102–484, div. A, title X, § 1052(18)][/us/pl/102/484/s1052/18], Oct. 23, 1992, [106 Stat. 2500][/us/stat/106/2500]; [Pub. L. 103–337, div. A, title XVI, § 1662(j)(2)][/us/pl/103/337/s1662/j/2], Oct. 5, 1994, [108 Stat. 3004][/us/stat/108/3004]; [Pub. L. 109–163, div. A, title V, § 509(d)(1)(A)][/us/pl/109/163/s509/d/1/A], Jan. 6, 2006, [119 Stat. 3231][/us/stat/119/3231]; [Pub. L. 109–364, div. A, title V, § 502(d)(1)][/us/pl/109/364/s502/d/1], Oct. 17, 2006, [120 Stat. 2177][/us/stat/120/2177]; [Pub. L. 111–383, div. A, title VI, § 631(a)][/us/pl/111/383/s631/a], Jan. 7, 2011, [124 Stat. 4239][/us/stat/124/4239]; [Pub. L. 112–239, div. A, title X, § 1076(f)(19)][/us/pl/112/239/s1076/f/19], Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952]; [Pub. L. 114–92, div. A, title VI, § 631(c)(1)(A)][/us/pl/114/92/s631/c/1/A], Nov. 25, 2015, [129 Stat. 843][/us/stat/129/843].)
+
+ __Amendment of Subsection (a)__ 
+
+    [Pub. L. 114–92, div. A, title VI][/us/pl/114/92], §§ 631(c)(1)(A), 635, Nov. 25, 2015, [129 Stat. 843][/us/stat/129/843], 851, provided that, effective Jan. 1, 2018, with certain implementation requirements, the table in subsection (a) of this section is amended as follows:
+
+    (1) in paragraph (1) in column 2 of formula number 1, by striking “2½% of years of service credited to him under section 1208” and inserting “the retired pay multiplier determined for the member under [section 1409 of this title][/us/usc/t10/s1409]”;
+
+    (2) in paragraph (1) in column 2 of formula number 2, by striking “2½% of years of service credited to him under section 1208” and inserting “the retired pay multiplier determined for the member under [section 1409 of this title][/us/usc/t10/s1409]”; and
+
+    (3) in column 2 of each of formula number 4 and formula number 5, by striking “section 1409(a)” and inserting “section 1409”.
+
+    See 2015 Amendment note below.
 
 <table>
 
@@ -395,6 +407,8 @@ May 29, 1954, ch. 249, § 14(d) (less 1st sentence), (f) (1st sentence, less a
 
  __Amendments__ 
 
+    2015—Subsec. (a). [Pub. L. 114–92][/us/pl/114/92], in column 2 of table, substituted “the retired pay multiplier determined for the member under [section 1409 of this title][/us/usc/t10/s1409]” for “2½% of years of service credited to him under section 1208” in formula numbers 1 and 2 and “section 1409” for “section 1409(a)” in formula numbers 4 and 5.
+
     2013—Subsec. (a). [Pub. L. 112–239][/us/pl/112/239] substituted “columns 1, 2, and 3,” for “columns 1, 2, 3, and 4,” in introductory provisions.
 
     2011—Subsec. (a). [Pub. L. 111–383][/us/pl/111/383] in column 2 of table inserted “, not to exceed 75%,” after “percentage of disability” in two places and struck out column 4 of table which directed subtraction of excess over 75 percent of retired pay base upon which computation is based in formulas 1 and 2.
@@ -446,6 +460,10 @@ May 29, 1954, ch. 249, § 14(d) (less 1st sentence), (f) (1st sentence, less a
     [Pub. L. 85–422, § 11(a)(2)][/us/pl/85/422/s11/a/2], substituted “under [section 1405 of this title][/us/usc/t10/s1405]” for “in computing basic pay” in column 2 of formula 4.
 
     [Pub. L. 85–422, § 6(7)(B)][/us/pl/85/422/s6/7/B], added footnote 4.
+
+ __Effective Date of 2015 Amendment; Implementation__ 
+
+    Amendment by [Pub. L. 114–92][/us/pl/114/92] effective Jan. 1, 2018, with certain implementation requirements, see [section 635 of Pub. L. 114–92][/us/pl/114/92/s635], set out as a note under [section 8432 of Title 5][/us/usc/t5/s8432], Government Organization and Employees.
 
  __Effective Date of 2011 Amendment__ 
 
@@ -668,7 +686,15 @@ May 29, 1954, ch. 249, § 14(d) (less 1st sentence), (f) (1st sentence, less a
 [/us/stat/124/4239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4239
 [/us/pl/112/239/s1076/f/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F19
 [/us/stat/126/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1952
+[/us/pl/114/92/s631/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs631%2Fc%2F1%2FA
+[/us/stat/129/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F843
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/stat/129/843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F843
+[/us/usc/t10/s1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1409
+[/us/usc/t10/s1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1409
 [/us/usc/t37/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs231
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/usc/t10/s1409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1409
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
@@ -699,6 +725,9 @@ May 29, 1954, ch. 249, § 14(d) (less 1st sentence), (f) (1st sentence, less a
 [/us/pl/85/422/s11/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F422%2Fs11%2Fa%2F2
 [/us/usc/t10/s1405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1405
 [/us/pl/85/422/s6/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F422%2Fs6%2F7%2FB
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/s635]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs635
+[/us/usc/t5/s8432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8432
 [/us/pl/111/383/s631/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs631%2Fd
 [/us/stat/124/4240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4240
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337

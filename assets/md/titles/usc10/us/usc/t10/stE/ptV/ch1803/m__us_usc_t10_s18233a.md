@@ -17,7 +17,7 @@
 
     (a)  __Congressional Notification__  __.—__ 
 
-    Except as provided in subsection (b), an expenditure or contribution in an amount in excess of $750,000 may not be made under [section 18233 of this title][/us/usc/t10/s18233] for any facility until—
+    Except as provided in subsection (b), an expenditure or contribution in excess of the amount specified in [section 2805(b)(1) of this title][/us/usc/t10/s2805/b/1] may not be made under [section 18233 of this title][/us/usc/t10/s18233] for any facility until—
 
         (1) the Secretary of Defense has notified the congressional defense committees of the location, nature, and estimated cost of the facility; and
 
@@ -43,11 +43,15 @@
 
                 (ii) 200 percent of the amount specified by [section 2805(a) of this title][/us/usc/t10/s2805/a] as the maximum amount for a minor military construction project.
 
-        (3) A repair project (as that term is defined in [section 2811(e) of this title][/us/usc/t10/s2811/e]) that costs less than $7,500,000.
+        (3) A repair project (as that term is defined in subsection (e) of [section 2811 of this title][/us/usc/t10/s2811]) that costs less than the amount specified in subsection (d) of such section.
 
-(Added [Pub. L. 85–685, title VI, § 601(3)][/us/pl/85/685/s601/3], Aug. 20, 1958, [72 Stat. 665][/us/stat/72/665], § 2233a; amended [Pub. L. 87–554, title VII, § 701][/us/pl/87/554/s701], July 27, 1962, [76 Stat. 243][/us/stat/76/243]; [Pub. L. 93–552, title VII, § 703][/us/pl/93/552/s703], Dec. 27, 1974, [88 Stat. 1770][/us/stat/88/1770]; [Pub. L. 94–107, title VII, § 703][/us/pl/94/107/s703], Oct. 7, 1975, [89 Stat. 569][/us/stat/89/569]; [Pub. L. 96–125, title VII, § 704][/us/pl/96/125/s704], Nov. 26, 1979, [93 Stat. 947][/us/stat/93/947]; [Pub. L. 97–214, § 3(c)(1)][/us/pl/97/214/s3/c/1], July 12, 1982, [96 Stat. 169][/us/stat/96/169]; [Pub. L. 98–115, title VII, § 702][/us/pl/98/115/s702], Oct. 11, 1983, [97 Stat. 782][/us/stat/97/782]; [Pub. L. 98–407, title VII, § 702][/us/pl/98/407/s702], Aug. 28, 1984, [98 Stat. 1517][/us/stat/98/1517]; [Pub. L. 100–26, § 7(f)(1)][/us/pl/100/26/s7/f/1], Apr. 21, 1987, [101 Stat. 281][/us/stat/101/281]; [Pub. L. 100–180, div. B][/us/pl/100/180], subdiv. 3, title I, § 2304(a), Dec. 4, 1987, [101 Stat. 1215][/us/stat/101/1215]; [Pub. L. 102–190, div. B, title XXVIII, § 2804][/us/pl/102/190/s2804], Dec. 5, 1991, [105 Stat. 1537][/us/stat/105/1537]; renumbered § 18233a and amended [Pub. L. 103–337, div. A, title XVI, § 1664(b)(2)][/us/pl/103/337/s1664/b/2], (5), Oct. 5, 1994, [108 Stat. 3010][/us/stat/108/3010]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(10)][/us/pl/104/106/s1502/a/10], Feb. 10, 1996, [110 Stat. 503][/us/stat/110/503]; [Pub. L. 104–201, div. B, title XXVIII, § 2801(b)][/us/pl/104/201/s2801/b], (c), Sept. 23, 1996, [110 Stat. 2787][/us/stat/110/2787]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], div. B, title XXVIII, § 2806, Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], 850; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(22)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–291; [Pub. L. 108–375, div. B, title XXVIII, § 2808(a)][/us/pl/108/375/s2808/a], Oct. 28, 2004, [118 Stat. 2124][/us/stat/118/2124]; [Pub. L. 112–81, div. B, title XXVIII, § 2802(c)(3)][/us/pl/112/81/s2802/c/3], Dec. 31, 2011, [125 Stat. 1685][/us/stat/125/1685].)
+(Added [Pub. L. 85–685, title VI, § 601(3)][/us/pl/85/685/s601/3], Aug. 20, 1958, [72 Stat. 665][/us/stat/72/665], § 2233a; amended [Pub. L. 87–554, title VII, § 701][/us/pl/87/554/s701], July 27, 1962, [76 Stat. 243][/us/stat/76/243]; [Pub. L. 93–552, title VII, § 703][/us/pl/93/552/s703], Dec. 27, 1974, [88 Stat. 1770][/us/stat/88/1770]; [Pub. L. 94–107, title VII, § 703][/us/pl/94/107/s703], Oct. 7, 1975, [89 Stat. 569][/us/stat/89/569]; [Pub. L. 96–125, title VII, § 704][/us/pl/96/125/s704], Nov. 26, 1979, [93 Stat. 947][/us/stat/93/947]; [Pub. L. 97–214, § 3(c)(1)][/us/pl/97/214/s3/c/1], July 12, 1982, [96 Stat. 169][/us/stat/96/169]; [Pub. L. 98–115, title VII, § 702][/us/pl/98/115/s702], Oct. 11, 1983, [97 Stat. 782][/us/stat/97/782]; [Pub. L. 98–407, title VII, § 702][/us/pl/98/407/s702], Aug. 28, 1984, [98 Stat. 1517][/us/stat/98/1517]; [Pub. L. 100–26, § 7(f)(1)][/us/pl/100/26/s7/f/1], Apr. 21, 1987, [101 Stat. 281][/us/stat/101/281]; [Pub. L. 100–180, div. B][/us/pl/100/180], subdiv. 3, title I, § 2304(a), Dec. 4, 1987, [101 Stat. 1215][/us/stat/101/1215]; [Pub. L. 102–190, div. B, title XXVIII, § 2804][/us/pl/102/190/s2804], Dec. 5, 1991, [105 Stat. 1537][/us/stat/105/1537]; renumbered § 18233a and amended [Pub. L. 103–337, div. A, title XVI, § 1664(b)(2)][/us/pl/103/337/s1664/b/2], (5), Oct. 5, 1994, [108 Stat. 3010][/us/stat/108/3010]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(10)][/us/pl/104/106/s1502/a/10], Feb. 10, 1996, [110 Stat. 503][/us/stat/110/503]; [Pub. L. 104–201, div. B, title XXVIII, § 2801(b)][/us/pl/104/201/s2801/b], (c), Sept. 23, 1996, [110 Stat. 2787][/us/stat/110/2787]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], div. B, title XXVIII, § 2806, Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], 850; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(22)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–291; [Pub. L. 108–375, div. B, title XXVIII, § 2808(a)][/us/pl/108/375/s2808/a], Oct. 28, 2004, [118 Stat. 2124][/us/stat/118/2124]; [Pub. L. 112–81, div. B, title XXVIII, § 2802(c)(3)][/us/pl/112/81/s2802/c/3], Dec. 31, 2011, [125 Stat. 1685][/us/stat/125/1685]; [Pub. L. 114–92, div. B, title XXVIII, § 2801][/us/pl/114/92/s2801], Nov. 25, 2015, [129 Stat. 1168][/us/stat/129/1168].)
 
  __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–92, § 2801(1)][/us/pl/114/92/s2801/1], substituted “in excess of the amount specified in [section 2805(b)(1) of this title][/us/usc/t10/s2805/b/1]” for “in an amount in excess of $750,000” in introductory provisions.
+
+    Subsec. (b)(3). [Pub. L. 114–92, § 2801(2)][/us/pl/114/92/s2801/2], substituted “subsection (e) of [section 2811 of this title][/us/usc/t10/s2811]) that costs less than the amount specified in subsection (d) of such section” for “[section 2811(e) of this title][/us/usc/t10/s2811/e]) that costs less than $7,500,000”.
 
     2011—Subsec. (b)(2)(B)(ii). [Pub. L. 112–81][/us/pl/112/81] substituted “section 2805(a)” for “section 2805(a)(2)”.
 
@@ -124,10 +128,11 @@
 ----------
 ----------
 
+[/us/usc/t10/s2805/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805%2Fb%2F1
 [/us/usc/t10/s18233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs18233
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
 [/us/usc/t10/s2805/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805%2Fa
-[/us/usc/t10/s2811/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2811%2Fe
+[/us/usc/t10/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2811
 [/us/pl/85/685/s601/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F685%2Fs601%2F3
 [/us/stat/72/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F665
 [/us/pl/87/554/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F554%2Fs701
@@ -164,6 +169,13 @@
 [/us/stat/118/2124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2124
 [/us/pl/112/81/s2802/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2802%2Fc%2F3
 [/us/stat/125/1685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1685
+[/us/pl/114/92/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs2801
+[/us/stat/129/1168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1168
+[/us/pl/114/92/s2801/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs2801%2F1
+[/us/usc/t10/s2805/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805%2Fb%2F1
+[/us/pl/114/92/s2801/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs2801%2F2
+[/us/usc/t10/s2811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2811
+[/us/usc/t10/s2811/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2811%2Fe
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1

@@ -77,6 +77,38 @@
 
  __Statement of Policy on the Nuclear Triad__ 
 
+[Pub. L. 114–92, div. A, title XVI, § 1664][/us/pl/114/92/s1664], Nov. 25, 2015, [129 Stat. 1128][/us/stat/129/1128], provided that:
+
+>     “(a)  __Sense of Congress__  __.—__ 
+
+>     It is the sense of Congress that—
+
+>         “(1) the triad of strategic nuclear delivery systems plays a critical role in ensuring the national security of the United States; and
+
+>         “(2) retaining all three legs of the nuclear triad is among the highest priorities of the Department of Defense and will best maintain strategic stability at a reasonable cost, while hedging against potential technical problems and vulnerabilities.
+
+>     “(b)  __Statement of Policy__  __.—__ 
+
+>     It is the policy of the United States—
+
+>         “(1)
+
+>          to operate, sustain, and modernize or replace the triad of strategic nuclear delivery systems consisting of—
+
+>             “(A) heavy bombers equipped with nuclear gravity bombs and air-launched nuclear cruise missiles;
+
+>             “(B) land-based intercontinental ballistic missiles equipped with nuclear warheads that are capable of carrying multiple independently targetable reentry vehicles; and
+
+>             “(C) ballistic missile submarines equipped with submarine launched ballistic missiles and multiple nuclear warheads;
+
+>         “(2) to operate, sustain, and modernize or replace a capability to forward-deploy nuclear weapons and dual-capable fighter-bomber aircraft;
+
+>         “(3) to deter potential adversaries and assure allies and partners of the United States through strong and long-term commitment to the nuclear deterrent of the United States and the personnel, systems, and infrastructure that comprise such deterrent;
+
+>         “(4) to ensure that the members of the Armed Forces who operate the nuclear deterrent of the United States have the training, resources, and national support required to execute the critical national security mission of the members; and
+
+>         “(5) to achieve a modern and responsive nuclear infrastructure to support the full spectrum of deterrence requirements.”
+
 [Pub. L. 113–291, div. A, title XVI, § 1652][/us/pl/113/291/s1652], Dec. 19, 2014, [128 Stat. 3654][/us/stat/128/3654], provided that: 
 
 > “It is the policy of the United States—
@@ -142,6 +174,8 @@
 [/us/pl/112/239/s1031/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fa%2F2%2FF
 [/us/pl/113/66/s1052/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1052%2Fb%2F2
 [/us/pl/112/239/s1032/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1032%2Fb
+[/us/pl/114/92/s1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1664
+[/us/stat/129/1128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1128
 [/us/pl/113/291/s1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1652
 [/us/stat/128/3654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3654
 [/us/usc/t10/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs491

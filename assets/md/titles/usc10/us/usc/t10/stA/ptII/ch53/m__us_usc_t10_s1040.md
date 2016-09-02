@@ -37,13 +37,11 @@
 
                 (ii) such facility, in carrying out the required number of necessary obstetric cases, would not maintain competency of its obstetrical staff unless the facility provides such services to such dependent.
 
-            (F) The authority under this paragraph shall expire on September 30, 2016.
-
     (b) This section does not authorize transportation and travel expenses for a dependent for elective surgery which is determined to be not medically indicated by a medical authority designated under joint regulations to be prescribed under this section.
 
     (c) In this section, the term “dependent” has the meaning given that term in [section 1072 of this title][/us/usc/t10/s1072].
 
-(Added [Pub. L. 89–140, § 1(1)][/us/pl/89/140/s1/1], Aug. 28, 1965, [79 Stat. 579][/us/stat/79/579]; amended [Pub. L. 96–513, title V, § 511(32)][/us/pl/96/513/s511/32], Dec. 12, 1980, [94 Stat. 2922][/us/stat/94/2922]; [Pub. L. 98–94, title IX, § 913(b)][/us/pl/98/94/s913/b], Sept. 24, 1983, [97 Stat. 640][/us/stat/97/640]; [Pub. L. 98–525, title VI, § 611][/us/pl/98/525/s611], title XIV, § 1405(21), Oct. 19, 1984, [98 Stat. 2538][/us/stat/98/2538], 2623; [Pub. L. 99–348, title III, § 304(a)(2)][/us/pl/99/348/s304/a/2], July 1, 1986, [100 Stat. 703][/us/stat/100/703]; [Pub. L. 99–661, div. A, title VI, § 616(a)][/us/pl/99/661/s616/a], Nov. 14, 1986, [100 Stat. 3880][/us/stat/100/3880]; [Pub. L. 112–81, div. A, title VII, § 705][/us/pl/112/81/s705], Dec. 31, 2011, [125 Stat. 1473][/us/stat/125/1473]; [Pub. L. 113–66, div. A, title VI, § 621(b)][/us/pl/113/66/s621/b], Dec. 26, 2013, [127 Stat. 783][/us/stat/127/783]; [Pub. L. 113–291, div. A, title X, § 1071(f)(11)][/us/pl/113/291/s1071/f/11], Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510].)
+(Added [Pub. L. 89–140, § 1(1)][/us/pl/89/140/s1/1], Aug. 28, 1965, [79 Stat. 579][/us/stat/79/579]; amended [Pub. L. 96–513, title V, § 511(32)][/us/pl/96/513/s511/32], Dec. 12, 1980, [94 Stat. 2922][/us/stat/94/2922]; [Pub. L. 98–94, title IX, § 913(b)][/us/pl/98/94/s913/b], Sept. 24, 1983, [97 Stat. 640][/us/stat/97/640]; [Pub. L. 98–525, title VI, § 611][/us/pl/98/525/s611], title XIV, § 1405(21), Oct. 19, 1984, [98 Stat. 2538][/us/stat/98/2538], 2623; [Pub. L. 99–348, title III, § 304(a)(2)][/us/pl/99/348/s304/a/2], July 1, 1986, [100 Stat. 703][/us/stat/100/703]; [Pub. L. 99–661, div. A, title VI, § 616(a)][/us/pl/99/661/s616/a], Nov. 14, 1986, [100 Stat. 3880][/us/stat/100/3880]; [Pub. L. 112–81, div. A, title VII, § 705][/us/pl/112/81/s705], Dec. 31, 2011, [125 Stat. 1473][/us/stat/125/1473]; [Pub. L. 113–66, div. A, title VI, § 621(b)][/us/pl/113/66/s621/b], Dec. 26, 2013, [127 Stat. 783][/us/stat/127/783]; [Pub. L. 113–291, div. A, title X, § 1071(f)(11)][/us/pl/113/291/s1071/f/11], Dec. 19, 2014, [128 Stat. 3510][/us/stat/128/3510]; [Pub. L. 114–92, div. A, title VII, § 721][/us/pl/114/92/s721], Nov. 25, 2015, [129 Stat. 869][/us/stat/129/869].)
 
  __Codification__ 
 
@@ -52,6 +50,8 @@
     Another section 1040, related to free postage from combat zones, was added by [Pub. L. 89–132, § 9(a)][/us/pl/89/132/s9/a], Aug. 21, 1965, [79 Stat. 548][/us/stat/79/548], prior to repeal by [Pub. L. 89–315, § 3(a)][/us/pl/89/315/s3/a], Nov. 1, 1965, [79 Stat. 1164][/us/stat/79/1164]. See section 3401 et seq. of Title 39, Postal Service.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(2)(F). [Pub. L. 114–92][/us/pl/114/92] struck out subpar. (F) which read as follows: “The authority under this paragraph shall expire on September 30, 2016.”
 
     2014—Subsec. (a)(1). [Pub. L. 113–291][/us/pl/113/291] substituted “37.” for “37..”.
 
@@ -120,11 +120,14 @@
 [/us/stat/127/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F783
 [/us/pl/113/291/s1071/f/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1071%2Ff%2F11
 [/us/stat/128/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3510
+[/us/pl/114/92/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs721
+[/us/stat/129/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F869
 [/us/usc/t10/s1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1041
 [/us/pl/89/132/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F132%2Fs9%2Fa
 [/us/stat/79/548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F548
 [/us/pl/89/315/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F315%2Fs3%2Fa
 [/us/stat/79/1164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1164
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66/s621/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs621%2Fb%2F1
 [/us/usc/t37/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs464

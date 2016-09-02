@@ -21,11 +21,7 @@
 
     (2) in the case of a member whose retired pay was subject to [section 1409(b)(2) of this title][/us/usc/t10/s1409/b/2], no reduction in the member’s retired pay had been made under that section.
 
-(Added [Pub. L. 99–348, title I, § 103][/us/pl/99/348/s103], July 1, 1986, [100 Stat. 685][/us/stat/100/685]; amended [Pub. L. 100–224, § 2][/us/pl/100/224/s2], Dec. 30, 1987, [101 Stat. 1536][/us/stat/101/1536]; [Pub. L. 101–189, div. A, title VI, § 651(b)(4)][/us/pl/101/189/s651/b/4], Nov. 29, 1989, [103 Stat. 1460][/us/stat/103/1460]; [Pub. L. 106–65, div. A, title VI][/us/pl/106/65], §§ 641(c), 643(b)(3)(A), Oct. 5, 1999, [113 Stat. 662][/us/stat/113/662], 664; [Pub. L. 110–181, div. A, title VI, § 661(b)(3)][/us/pl/110/181/s661/b/3], Jan. 28, 2008, [122 Stat. 178][/us/stat/122/178]; [Pub. L. 113–67, div. A, title IV, § 403(b)][/us/pl/113/67/s403/b], Dec. 26, 2013, [127 Stat. 1186][/us/stat/127/1186].)
-
- __Amendment of Paragraph (1)__ 
-
-    [Pub. L. 113–67, div. A, title IV, § 403(b)][/us/pl/113/67/s403/b], (c), Dec. 26, 2013, [127 Stat. 1186][/us/stat/127/1186], provided that, effective Dec. 1, 2015, paragraph (1) of this section is amended by striking “paragraph (3)” and inserting “paragraph (3) or (4)”. See 2013 Amendment note below.
+(Added [Pub. L. 99–348, title I, § 103][/us/pl/99/348/s103], July 1, 1986, [100 Stat. 685][/us/stat/100/685]; amended [Pub. L. 100–224, § 2][/us/pl/100/224/s2], Dec. 30, 1987, [101 Stat. 1536][/us/stat/101/1536]; [Pub. L. 101–189, div. A, title VI, § 651(b)(4)][/us/pl/101/189/s651/b/4], Nov. 29, 1989, [103 Stat. 1460][/us/stat/103/1460]; [Pub. L. 106–65, div. A, title VI][/us/pl/106/65], §§ 641(c), 643(b)(3)(A), Oct. 5, 1999, [113 Stat. 662][/us/stat/113/662], 664; [Pub. L. 110–181, div. A, title VI, § 661(b)(3)][/us/pl/110/181/s661/b/3], Jan. 28, 2008, [122 Stat. 178][/us/stat/122/178]; [Pub. L. 113–67, div. A, title IV, § 403(b)][/us/pl/113/67/s403/b], Dec. 26, 2013, [127 Stat. 1186][/us/stat/127/1186]; [Pub. L. 114–92, div. A, title VI, § 631(d)(1)][/us/pl/114/92/s631/d/1], Nov. 25, 2015, [129 Stat. 845][/us/stat/129/845].)
 
  __References in Text__ 
 
@@ -33,7 +29,9 @@
 
  __Amendments__ 
 
-    2013—Par. (1). [Pub. L. 113–67][/us/pl/113/67] substituted “paragraph (3) or (4)” for “paragraph (3)”.
+    2015—Par. (1). [Pub. L. 114–92, § 631(d)(1)][/us/pl/114/92/s631/d/1], which was approved Nov. 25, 2015, provided that the amendment made by [Pub. L. 113–67, § 403(b)][/us/pl/113/67/s403/b], which was effective Dec. 1, 2015, would not take effect. See 2013 Amendment note below.
+
+    2013—Par. (1). [Pub. L. 113–67, § 403(b)][/us/pl/113/67/s403/b], which directed substitution of “paragraph (3) or (4)” for “paragraph (3)”, did not take effect pursuant to [Pub. L. 114–92, § 631(d)(1)][/us/pl/114/92/s631/d/1]. See 2015 Amendment note above.
 
     2008—[Pub. L. 110–181][/us/pl/110/181], in introductory provisions, substituted “section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354” for “section 322”.
 
@@ -45,7 +43,7 @@
 
  __Effective Date of 2013 Amendment__ 
 
-    Amendment by [Pub. L. 113–67][/us/pl/113/67] effective Dec. 1, 2015, see [section 403(c) of Pub. L. 113–67][/us/pl/113/67/s403/c], set out as a note under [section 1401a of this title][/us/usc/t10/s1401a].
+    Amendment by [Pub. L. 113–67][/us/pl/113/67] effective Dec. 1, 2015, see [section 403(c) of Pub. L. 113–67][/us/pl/113/67/s403/c], set out as a note under [section 1401a of this title][/us/usc/t10/s1401a]. Amendment did not take effect pursuant to [section 631(d)(1) of Pub. L. 114–92][/us/pl/114/92/s631/d/1], set out as a Repeal of Reduced Cost-of-living Adjustments for Members Under the Age of 62 note under [section 1401a of this title][/us/usc/t10/s1401a].
 
  __Effective Date of 1999 Amendment__ 
 
@@ -73,8 +71,8 @@
 [/us/stat/122/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F178
 [/us/pl/113/67/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fb
 [/us/stat/127/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1186
-[/us/pl/113/67/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fb
-[/us/stat/127/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1186
+[/us/pl/114/92/s631/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs631%2Fd%2F1
+[/us/stat/129/845]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F845
 [/us/usc/t37/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs322
 [/us/usc/t37/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs322
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
@@ -82,7 +80,10 @@
 [/us/usc/t37/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs354
 [/us/pl/110/181/s661/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs661%2Fb%2F1
 [/us/stat/122/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F178
-[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
+[/us/pl/114/92/s631/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs631%2Fd%2F1
+[/us/pl/113/67/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fb
+[/us/pl/113/67/s403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fb
+[/us/pl/114/92/s631/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs631%2Fd%2F1
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/usc/t37/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs322
@@ -94,6 +95,8 @@
 [/us/usc/t10/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/113/67/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fc
+[/us/usc/t10/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a
+[/us/pl/114/92/s631/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs631%2Fd%2F1
 [/us/usc/t10/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/106/65/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs644

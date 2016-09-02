@@ -15,11 +15,13 @@
 
 ## § 2315. Law inapplicable to the procurement of automatic data processing equipment and services for certain defense purposes
 
-    For purposes of subtitle III of title 40, the term “national security system”, with respect to a telecommunications and information system operated by the Department of Defense, has the meaning given that term by section 3552(b)(5)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “3552(b)(6)”. </sup></sup>  of title 44.
+    For purposes of subtitle III of title 40, the term “national security system”, with respect to a telecommunications and information system operated by the Department of Defense, has the meaning given that term by [section 3552(b)(6) of title 44][/us/usc/t44/s3552/b/6].
 
-(Added [Pub. L. 97–86, title IX, § 908(a)(1)][/us/pl/97/86/s908/a/1], Dec. 1, 1981, [95 Stat. 1117][/us/stat/95/1117]; amended [Pub. L. 97–295, § 1(25)][/us/pl/97/295/s1/25], Oct. 12, 1982, [96 Stat. 1291][/us/stat/96/1291]; [Pub. L. 104–106, div. E, title LVI, § 5601(c)][/us/pl/104/106/s5601/c], Feb. 10, 1996, [110 Stat. 699][/us/stat/110/699]; [Pub. L. 104–201, div. A, title X, § 1074(b)(4)(B)][/us/pl/104/201/s1074/b/4/B], Sept. 23, 1996, [110 Stat. 2660][/us/stat/110/2660]; [Pub. L. 105–85, div. A, title X, § 1073(a)(49)][/us/pl/105/85/s1073/a/49], Nov. 18, 1997, [111 Stat. 1903][/us/stat/111/1903]; [Pub. L. 107–217, § 3(b)(5)][/us/pl/107/217/s3/b/5], Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 109–364, div. A, title IX, § 906(c)][/us/pl/109/364/s906/c], Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354]; [Pub. L. 113–283, § 2(e)(5)(C)][/us/pl/113/283/s2/e/5/C], Dec. 18, 2014, [128 Stat. 3087][/us/stat/128/3087].)
+(Added [Pub. L. 97–86, title IX, § 908(a)(1)][/us/pl/97/86/s908/a/1], Dec. 1, 1981, [95 Stat. 1117][/us/stat/95/1117]; amended [Pub. L. 97–295, § 1(25)][/us/pl/97/295/s1/25], Oct. 12, 1982, [96 Stat. 1291][/us/stat/96/1291]; [Pub. L. 104–106, div. E, title LVI, § 5601(c)][/us/pl/104/106/s5601/c], Feb. 10, 1996, [110 Stat. 699][/us/stat/110/699]; [Pub. L. 104–201, div. A, title X, § 1074(b)(4)(B)][/us/pl/104/201/s1074/b/4/B], Sept. 23, 1996, [110 Stat. 2660][/us/stat/110/2660]; [Pub. L. 105–85, div. A, title X, § 1073(a)(49)][/us/pl/105/85/s1073/a/49], Nov. 18, 1997, [111 Stat. 1903][/us/stat/111/1903]; [Pub. L. 107–217, § 3(b)(5)][/us/pl/107/217/s3/b/5], Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 109–364, div. A, title IX, § 906(c)][/us/pl/109/364/s906/c], Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354]; [Pub. L. 113–283, § 2(e)(5)(C)][/us/pl/113/283/s2/e/5/C], Dec. 18, 2014, [128 Stat. 3087][/us/stat/128/3087]; [Pub. L. 114–92, div. A, title X, § 1081(a)(7)][/us/pl/114/92/s1081/a/7], Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001].)
 
  __Amendments__ 
+
+    2015—[Pub. L. 114–92][/us/pl/114/92] substituted “section 3552(b)(6)” for “section 3552(b)(5)”.
 
     2014—[Pub. L. 113–283][/us/pl/113/283] substituted “section 3552(b)(5)” for “section 3542(b)(2)”.
 
@@ -86,6 +88,7 @@
 ----------
 ----------
 
+[/us/usc/t44/s3552/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3552%2Fb%2F6
 [/us/pl/97/86/s908/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F86%2Fs908%2Fa%2F1
 [/us/stat/95/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F1117
 [/us/pl/97/295/s1/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F25
@@ -102,6 +105,9 @@
 [/us/stat/120/2354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2354
 [/us/pl/113/283/s2/e/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fe%2F5%2FC
 [/us/stat/128/3087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3087
+[/us/pl/114/92/s1081/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1081%2Fa%2F7
+[/us/stat/129/1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1001
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217

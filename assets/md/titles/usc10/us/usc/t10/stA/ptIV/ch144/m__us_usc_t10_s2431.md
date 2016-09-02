@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch144/m__us_usc_t10_s2430a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch144/m__us_usc_t10_s2432.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2431)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch144/m__us_usc_t10_s2430a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch144/m__us_usc_t10_s2431a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2431)
 
 ## § 2431. Weapons development and procurement schedules
 
@@ -104,6 +104,268 @@
  __Effective Date of 1980 Amendment__ 
 
     Amendment by [Pub. L. 96–513][/us/pl/96/513] effective Dec. 12, 1980, see [section 701(b)(3) of Pub. L. 96–513][/us/pl/96/513/s701/b/3], set out as a note under [section 101 of this title][/us/usc/t10/s101].
+
+ __Plan on Full Integration and Exploitation of Overhead Persistent Infrared Capability__ 
+
+[Pub. L. 114–92, div. A, title XVI, § 1618][/us/pl/114/92/s1618], Nov. 25, 2015, [129 Stat. 1108][/us/stat/129/1108], provided that:
+
+>     “(a)  __Plan__  __.—__ 
+
+>     Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Commander of the United States Strategic Command and the Director of Cost Assessment and Program Evaluation, in coordination with the Director of National Intelligence, shall jointly submit to the appropriate congressional committees a plan for the integration of overhead persistent infrared capabilities to support the missions specified in subsection (b)(1).
+
+>     “(b)  __Elements__  __.—__ 
+
+>     The plan under subsection (a) shall—
+
+>         “(1)
+
+>          ensure that all overhead persistent infrared capabilities of the United States, including such capabilities that are planned to be developed, are integrated to allow for such capabilities to be exploited to support the requirements of the missions of the Department of Defense relating to—
+
+>             “(A) strategic and theater missile warning;
+
+>             “(B) ballistic and cruise missile defense, including with respect to missile tracking, fire control, and kill assessment;
+
+>             “(C) technical intelligence supporting missile warning;
+
+>             “(D) battlespace awareness;
+
+>             “(E) other technical intelligence;
+
+>             “(F) civil and environmental missions, including with respect to the collection of weather data; and
+
+>             “(G) battle damage assessments; and
+
+>         “(2) establish clear benchmarks by which to establish acquisition plans, manning, and budget requirements.
+
+>     “(c)  __Annual Determination__  __.—__ 
+
+>     The Secretary of Defense shall include, together with, or not later than 30 days after, the budget justification materials submitted to Congress in support of the budget of the Department of Defense for a fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code), a written determination of how the plan under subsection (a) is being implemented.
+
+>     “(d)  __Appropriate Congressional Committees Defined__  __.—__ 
+
+>     In this section, the term ‘appropriate congressional committees’ means—
+
+>         “(1) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+
+>         “(2) the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.”
+
+ __Integration and Interoperability of Air and Missile Defense Capabilities of the United States__ 
+
+[Pub. L. 114–92, div. A, title XVI, § 1675][/us/pl/114/92/s1675], Nov. 25, 2015, [129 Stat. 1131][/us/stat/129/1131], provided that:
+
+>     “(a)  __Interoperability of Missile Defense Systems__  __.—__ 
+
+>     The Under Secretary of Defense for Acquisition, Technology, and Logistics and the Vice Chairman of the Joint Chiefs of Staff, acting through the Missile Defense Executive Board, shall ensure the interoperability and integration of the covered air and missile defense capabilities of the United States, including by carrying out operational testing.
+
+>     “(b) __Annual Demonstration.—__ 
+
+>         “(1)  __Requirement__  __.—__ 
+
+>         Except as provided by paragraph (2), the Director of the Missile Defense Agency and the Secretary of the Army shall jointly ensure that not less than one intercept or flight test is carried out each year that demonstrates interoperability and integration among the covered air and missile defense capabilities of the United States.
+
+>         “(2)  __Waiver__  __.—__ 
+
+>         The Director and the Secretary may waive the requirement in paragraph (1) with respect to an intercept or flight test carried out during the year covered by the waiver if the Under Secretary of Defense for Acquisition, Technology, and Logistics—
+
+>             “(A) determines that such waiver is necessary for such year; and
+
+>             “(B) submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] notification of such waiver, including an explanation for how such waiver will not negatively affect demonstrating the interoperability and integration among the covered air and missile defense capabilities of the United States.
+
+>     “(c)  __Definitions__  __.—__ 
+
+>     In this section, the term ‘covered air and missile defense capabilities’ means Patriot air and missile defense batteries and associated interceptors and systems, Aegis ships and associated ballistic missile interceptors (including Aegis Ashore capability), AN/TPY–2 radars, or terminal high altitude area defense batteries and interceptors.”
+
+ __Boost Phase Defense System__ 
+
+[Pub. L. 114–92, div. A, title XVI, § 1680][/us/pl/114/92/s1680], Nov. 25, 2015, [129 Stat. 1137][/us/stat/129/1137], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Secretary of Defense shall—
+
+>         “(1) prioritize technology investments in the Department of Defense to support feasible and cost-effective efforts by the Missile Defense Agency to develop and field an airborne boost phase defense system by not later than fiscal year 2025;
+
+>         “(2) ensure that development and fielding of a boost phase missile defense layer to the ballistic missile defense system supports multiple warfighter missile defense requirements, including, specifically, protection of the United States homeland and allies of the United States against ballistic missiles, particularly in the boost phase;
+
+>         “(3) continue development and fielding of high-energy lasers, electromagnetic and other railgun technology, high-power microwave systems, and other advanced technologies as part of a layered architecture to defend ships and theater bases against air and cruise missile strikes;
+
+>         “(4) encourage collaboration among the military departments and the Defense Advanced Research Projects Agency with respect to high energy laser efforts carried out in support of the Missile Defense Agency; and
+
+>         “(5) ensure cooperation and coordination between the Missile Defense Agency with respect to the plans of the Missile Defense Agency to develop an airborne laser and the requirements of the Air Force for unmanned aerial vehicles.
+
+>     “(b) __Report to Congress.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 120 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the efforts of the Department of Defense to develop and deploy an airborne or other boost phase defense system for missile defense by fiscal year 2025.
+
+>         “(2)  __Elements__  __.—__ 
+
+>         The report under paragraph (1) shall include the following:
+
+>             “(A) Such schedules, costs, warfighter requirements, operational concept, constraints, potential alternative boost phase approaches, and other information regarding the efforts described in paragraph (1) as the Secretary considers appropriate.
+
+>             “(B)
+
+>              Analyses of the efforts described in paragraph (1) with respect to the following cases:
+
+>                 “(i) A case in which the Department is under no funding constraints with respect to such efforts and progress is based on the state of the technology.
+
+>                 “(ii) A case in which the Department is under funding constraints and the efforts are carried out in accordance with a moderately aggressive schedule and are subject to moderate technical risk.
+
+>                 “(iii) A case in which the Department is under funding constraints and the efforts are carried out in accordance with a less aggressive schedule and are subject to less technical risk.
+
+>             “(C) An update on related efforts of the Department to develop high energy lasers, electromagnetic and other railguns, high power microwave systems, and other advanced technologies to defend ships and theater bases against air and cruise missile strikes and to protect the homeland of the United States and protect allies of the United States.
+
+>             “(D) An evaluation of recommendations, including a listing of the recommendations, from industry on emerging technologies that could be applied for boost phase missile defense.
+
+>             “(E) Such recommendations as the Secretary may have for legislative or administrative action to enable more rapid fielding of a directed-energy based missile defense system.
+
+>         “(3)  __Form__  __.—__ 
+
+>         The report required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex.”
+
+ __Development and Deployment of Multiple-Object Kill Vehicle for Missile Defense of the United States Homeland__ 
+
+[Pub. L. 114–92, div. A, title XVI, § 1681][/us/pl/114/92/s1681], Nov. 25, 2015, [129 Stat. 1138][/us/stat/129/1138], provided that:
+
+>     “(a)  __Sense of Congress__  __.—__ 
+
+>     It is the sense of Congress that—
+
+>         “(1) the defense of the United States homeland against the threat of limited ballistic missile attack (whether accidental, unauthorized, or deliberate) is the highest priority of the Missile Defense Agency;
+
+>         “(2) the Missile Defense Agency is appropriately prioritizing the design, development, and deployment of the redesigned kill vehicle; and
+
+>         “(3) the multiple-object kill vehicle could contribute critical capabilities to the future of the ballistic missile defense of the United States homeland.
+
+>     “(b) __Multiple-object Kill Vehicle.—__ 
+
+>         “(1)  __Development__  __.—__ 
+
+>         The Director of the Missile Defense Agency shall develop a highly reliable multiple-object kill vehicle for the ground-based midcourse defense system using sound acquisition practices.
+
+>         “(2)  __Deployment__  __.—__ 
+
+>         The Director shall—
+
+>             “(A) conduct rigorous flight testing of the multiple-object kill vehicle developed under paragraph (1) by not later than 2020; and
+
+>             “(B) recognizing the primacy of developing the redesigned kill vehicle, produce and deploy the multiple-object kill vehicle as early as practicable after the date on which the Director carries out subparagraph (A).
+
+>     “(c)  __Capabilities and Criteria__  __.—__ 
+
+>     The Director shall ensure that the multiple-object kill vehicle developed under subsection (b)(1) meets, at a minimum, the following capabilities and criteria:
+
+>         “(1) Vehicle-to-vehicle communications.
+
+>         “(2) Vehicle-to-ground communications.
+
+>         “(3) Kill assessment capability.
+
+>         “(4) The ability to counter advanced counter measures, decoys, and penetration aids.
+
+>         “(5) Producibility and manufacturability.
+
+>         “(6) Use of technology involving high technology readiness levels.
+
+>         “(7) Options to be integrated onto other missile defense interceptor vehicles other than the ground-based interceptors of the ground-based midcourse defense system.
+
+>         “(8) Sound acquisition processes.
+
+>     “(d)  __Program Management__  __.—__ 
+
+>     The management of the multiple-object kill vehicle program under subsection (b) shall report directly to the Deputy Director of the Missile Defense Agency.
+
+>     “(e)  __Report on Funding Profile__  __.—__ 
+
+>     The Director shall include with the budget justification materials submitted to Congress in support of the budget of the Department of Defense for fiscal year 2017 (as submitted with the budget of the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code) a report on the funding profile necessary for the multiple-object kill vehicle program to meet the objectives under subsection (b).”
+
+ __Requirement to Replace Capability Enhancement I Exoatmospheric Kill Vehicles__ 
+
+[Pub. L. 114–92, div. A, title XVI, § 1682][/us/pl/114/92/s1682], Nov. 25, 2015, [129 Stat. 1139][/us/stat/129/1139], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Subject to subsection (b), the Director of the Missile Defense Agency shall ensure, to the maximum extent practicable, that all remaining ground-based interceptors of the ground-based midcourse defense system that are armed with the capability enhancement I exoatmospheric kill vehicle are replaced with the redesigned exoatmospheric kill vehicle before September 30, 2022.
+
+>     “(b)  __Condition__  __.—__ 
+
+>     Subsection (a) shall not apply if the Director determines that flight and intercept testing of the redesigned exoatmospheric kill vehicle is not successful.”
+
+ __Additional Missile Defense Sensor Coverage for Protection of United States Homeland__ 
+
+[Pub. L. 114–92, div. A, title XVI, § 1684][/us/pl/114/92/s1684], Nov. 25, 2015, [129 Stat. 1140][/us/stat/129/1140], provided that:
+
+>     “(a)  __Sense of Congress__  __.—__ 
+
+>     It is the sense of Congress that additional missile defense sensor discrimination capabilities are needed to enhance the protection of the United States homeland against potential long-range ballistic missiles from Iran that, according to the Department of Defense, could soon be obtained by Iran as a result of its active space launch program.
+
+>     “(b)  __Studies and Evaluations on Homeport of Sea-based X-band Radar__  __.—__ 
+
+>     Not later than 60 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Director of the Missile Defense Agency shall commence any siting studies, environmental impact assessments or statements required pursuant to the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) that have not otherwise been prepared, homeport agreements for sea-based X-band radar support, evaluations of any needed pier modifications, and evaluations of any communications capabilities or other requirements to carry out the reassignment of the homeport of the sea-based X-band radar to a homeport on the East Coast of the United States.
+
+>     “(c) __Potential Future Missile Defense Sensor Sites.—__ 
+
+>         “(1)  __Evaluation__  __.—__ 
+
+>         Not later than March 31, 2016, the Director shall commence a study to evaluate at least three possible additional locations (in or outside the United States), selected by the Director, that would be best suited for future deployment of an advanced missile defense sensor site optimized against threats from Iran.
+
+>         “(2)  __Environmental impact statements__  __.—__ 
+
+>         Except as provided by paragraph (3), the evaluation under paragraph (1) shall include an environmental impact statement or other analysis in accordance with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) for each location included in the evaluation.
+
+>         “(3)  __Exception__  __.—__ 
+
+>         If an environmental impact statement or other analysis described in paragraph (2) has already been prepared, or is not required by law, for a location included in the evaluation under paragraph (1), the Director shall not be required to carry out paragraph (2) with respect to such location.
+
+>     “(d) __Deployment of Additional Coverage.—__ 
+
+>         “(1)  __Deployment__  __.—__ 
+
+>         Not later than December 31, 2020, the Director, in cooperation with the relevant combatant command, shall deploy a long-range discrimination radar or other appropriate sensor capability in a location optimized to support the defense of the homeland of the United States from emerging long-range ballistic missile threats from Iran.
+
+>         “(2)  __Sea-based x-band radar__  __.—__ 
+
+>         If the Director carries out paragraph (1) by reassigning the homeport of the sea-based X-band radar, the Director and the Secretary of the Navy may not carry out such reassignment until the date on which the Director certifies to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that Hawaii will have adequate missile defense coverage prior to such reassignment.
+
+>     “(e) __Submission of Information.—__ 
+
+>         “(1)  __Report__  __.—__ 
+
+>         Not later than December 31, 2018, the Director shall submit to the congressional defense committees a report containing the following:
+
+>             “(A) The findings of the study conducted under paragraph (1) of subsection (c), including any environmental impact statements or analyses required by paragraph (2) of such subsection.
+
+>             “(B) Notification of the manner in which Hawaii is being provided ballistic missile defense coverage.
+
+>         “(2)  __Plan__  __.—__ 
+
+>         In the budget justification materials submitted to Congress in support of the budget for each of fiscal years 2017 through 2020 submitted by the President to Congress under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, the Director shall include—
+
+>             “(A) the plan of the Director to carry out subsection (d); and
+
+>             “(B) an update on the progress of the Director in implementing subsections (b) and (c).”
+
+ __Development of Requirements to Support Integrated air and Missile Defense Capabilities__ 
+
+[Pub. L. 114–92, div. A, title XVI, § 1687][/us/pl/114/92/s1687], Nov. 25, 2015, [129 Stat. 1143][/us/stat/129/1143], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Consistent with the memorandum of the Chairman of the Joint Chiefs of Staff of January 27, 2014, regarding joint integrated air and missile defense, the Vice Chairman of the Joint Chiefs of Staff shall oversee the development of warfighter requirements for persistent and survivable capabilities to detect, identify, determine the status, track, and support engagement of strategically important mobile or relocatable assets in all phases of conflict in order to achieve the objective of preventing the effective employment of such assets, including through offensive actions against such assets prior to their use.
+
+>     “(b)  __Purpose of Requirements__  __.—__ 
+
+>     The requirements developed pursuant to subsection (a) shall be used and updated, as appropriate, for the purpose of informing applicable acquisition programs and systems-of-systems architecture planning that are funded through the Military Intelligence Program, the National Intelligence Program, and non-intelligence programs.
+
+>     “(c)  __Supporting Activities__  __.—__ 
+
+>     The Vice Chairman shall also oversee the development of the enabling framework for intelligence support for integrated air and missile defense, including concepts for the integrated operation of multiple systems, and, as appropriate, the development of requirements for capabilities to be acquired to achieve such integrated operations.
+
+>     “(d)  __Sense of Congress__  __.—__ 
+
+>     It is the sense of Congress that new acquisition programs for applicable major systems or capabilities, or for upgrades to existing systems, should not be undertaken until the applicable requirements described in subsections (a) and (c) have been developed and incorporated into programmatic decision-making.”
 
  __Testing and Assessment of Missile Defense Systems Prior to Production and Deployment__ 
 
@@ -1079,7 +1341,7 @@
 
  __Stretchout of Major Defense Acquisition Programs__ 
 
-    [Pub. L. 100–456, div. A, title I, § 117][/us/pl/100/456/s117], [102 Stat. 1933][/us/stat/102/1933], as amended by [Pub. L. 104–106, div. D, title XLIII, § 4321(i)(3)][/us/pl/104/106/s4321/i/3], Feb. 10, 1996, [110 Stat. 676][/us/stat/110/676], required Secretary of Defense to submit a stretchout impact statement for certain major defense acquisition programs at same time the budget for any fiscal year is submitted to Congress and to submit to Committees on Armed Services of Senate and House of Representatives, no later than Mar. 15, 1989, a report on feasibility and effect of establishing maximum production rates by December 1990 for certain major defense acquisition programs, prior to repeal by [Pub. L. 105–85, div. A, title X, § 1041(c)][/us/pl/105/85/s1041/c], Nov. 18, 1997, [111 Stat. 1885][/us/stat/111/1885].
+    [Pub. L. 100–456, div. A, title I, § 117][/us/pl/100/456/s117], Sept. 29, 1988, [102 Stat. 1933][/us/stat/102/1933], as amended by [Pub. L. 104–106, div. D, title XLIII, § 4321(i)(3)][/us/pl/104/106/s4321/i/3], Feb. 10, 1996, [110 Stat. 676][/us/stat/110/676], required Secretary of Defense to submit a stretchout impact statement for certain major defense acquisition programs at same time the budget for any fiscal year is submitted to Congress and to submit to Committees on Armed Services of Senate and House of Representatives, no later than Mar. 15, 1989, a report on feasibility and effect of establishing maximum production rates by December 1990 for certain major defense acquisition programs, prior to repeal by [Pub. L. 105–85, div. A, title X, § 1041(c)][/us/pl/105/85/s1041/c], Nov. 18, 1997, [111 Stat. 1885][/us/stat/111/1885].
 
  __Prohibition of Certain Contracts With Foreign Entities__ 
 
@@ -1265,7 +1527,7 @@ Similar provisions were contained in the following prior acts:
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch144/m__us_usc_t10_s2430a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch144/m__us_usc_t10_s2432.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2431)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch144/m__us_usc_t10_s2430a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch144/m__us_usc_t10_s2431a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2431)
 
 ----------
 ----------
@@ -1334,6 +1596,25 @@ Similar provisions were contained in the following prior acts:
 [/us/pl/96/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513
 [/us/pl/96/513/s701/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F513%2Fs701%2Fb%2F3
 [/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
+[/us/pl/114/92/s1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1618
+[/us/stat/129/1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1108
+[/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
+[/us/pl/114/92/s1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1675
+[/us/stat/129/1131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1131
+[/us/pl/114/92/s1680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1680
+[/us/stat/129/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1137
+[/us/pl/114/92/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1681
+[/us/stat/129/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1138
+[/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
+[/us/pl/114/92/s1682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1682
+[/us/stat/129/1139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1139
+[/us/pl/114/92/s1684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1684
+[/us/stat/129/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1140
+[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
+[/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
+[/us/pl/114/92/s1687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1687
+[/us/stat/129/1143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1143
 [/us/pl/113/291/s1662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1662
 [/us/stat/128/3657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3657
 [/us/pl/113/291/s1663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1663

@@ -101,6 +101,72 @@
 
     Subsec. (b)(2). [Pub. L. 103–160, § 1182(a)(10)][/us/pl/103/160/s1182/a/10], substituted “that, by reducing the public sector demand for capital, increases the amount of capital available” for “and thereby free up capital”.
 
+ __Department of Defense Technology Offset Program To Build and Maintain the Military Technological Superiority of the United States__ 
+
+[Pub. L. 114–92, div. A, title II, § 218][/us/pl/114/92/s218], Nov. 25, 2015, [129 Stat. 772][/us/stat/129/772], provided that:
+
+>     “(a) __Program Established.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary of Defense shall establish a technology offset program to build and maintain the military technological superiority of the United States by—
+
+>             “(A) accelerating the fielding of offset technologies that would help counter technological advantages of potential adversaries of the United States, including directed energy, low-cost, high-speed munitions, autonomous systems, undersea warfare, cyber technology, and intelligence data analytics, developed using research funding of the Department of Defense and accelerating the commercialization of such technologies; and
+
+>             “(B) developing and implementing new policies and acquisition and business practices.
+
+>         “(2)  __Guidelines__  __.—__ 
+
+>         Not later than one year after the date of the enactment of this Act \[Nov. 25, 2015\], the Secretary shall issue guidelines for the operation of the program established under paragraph (1), including—
+
+>             “(A) criteria for an application for funding by a military department, Defense Agency, or a combatant command;
+
+>             “(B) the purposes for which such a department, agency, or command may apply for funds and appropriate requirements for technology development or commercialization to be supported using program funds;
+
+>             “(C) the priorities, if any, to be provided to field or commercialize offset technologies developed by certain types of research funding of the Department; and
+
+>             “(D) criteria for evaluation of an application for funding or changes to policies or acquisition and business practices by such a department, agency, or command for purposes of the program.
+
+>     “(b) __Applications for Funding.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Under the program established under subsection (a)(1), not less frequently than annually, the Secretary shall solicit from the heads of the military departments, the Defense Agencies, and the combatant commands applications for funding to be used to enter into contracts, cooperative agreements, or other transaction agreements entered into pursuant to [section 2371b of title 10][/us/usc/t10/s2371b], United States Code, as added by section 815, with appropriate entities for the fielding or commercialization of technologies.
+
+>         “(2)  __Treatment pursuant to certain congressional rules__  __.—__ 
+
+>         Nothing in this section shall be interpreted to require any official of the Department of Defense to provide funding under this section to any Congressional earmark as defined pursuant to clause 9 of rule XXI of the Rules of the House of Representatives or any congressionally directed spending item as defined pursuant to paragraph 5 of rule XLIV of the Standing Rules of the Senate.
+
+>     “(c) __Funding.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Subject to the availability of appropriations for such purpose, of the funds authorized to be appropriated by this Act \[see Tables for classification\] or otherwise made available for fiscal year 2016 for research, development, test, and evaluation, Defense-wide, not more than $300,000,000 may be used for each such fiscal year for the program established under subsection (a)(1).
+
+>         “(2)  __Amount for directed energy__  __.—__ 
+
+>         Of the funds specified in paragraph (1) for any of fiscal years 2016 through 2020, not more than $150,000,000 may be used for each such fiscal year for activities in the field of directed energy.
+
+>     “(d) __Transfer Authority.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The Secretary may transfer funds available for the program established under subsection (a)(1) to the research, development, test, and evaluation accounts of a military department, Defense Agency, or a combatant command pursuant to an application, or any part of an application, that the Secretary determines would support the purposes of the program.
+
+>         “(2)  __Supplement not supplant__  __.—__ 
+
+>         The transfer authority provided in paragraph (1) is in addition to any other transfer authority available to the Secretary of Defense.
+
+>     “(e) __Termination.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         The authority to carry out the program under subsection (a)(1) shall terminate on September 30, 2020.
+
+>         “(2)  __Transfer after termination__  __.—__ 
+
+>         Any amounts made available for the program that remain available for obligation on the date on which the program terminates may be transferred under subsection (d) during the 180-day period beginning on the date of the termination of the program.”
+
  __Expansion of the Industrial Base__ 
 
 [Pub. L. 111–383, div. A, title VIII, § 891][/us/pl/111/383/s891], Jan. 7, 2011, [124 Stat. 4310][/us/stat/124/4310], provided that:
@@ -681,7 +747,7 @@
 
 >             “(B) if there is no such representative at that time, each such employee; and
 
->         “(2) the State or entity designated by the State to carry out rapid response activities under section 134(a)(2)(A) of the Workforce Investment Act of 1998 \[[29 U.S.C. 2864(a)(2)(A)][/us/usc/t29/s2864/a/2/A]\], and the chief elected official of the unit of general local government within which the adverse effect may occur.
+>         “(2) the State or entity designated by the State to carry out rapid response activities under \[former\] section 134(a)(2)(A) of the Workforce Investment Act of 1998 \[former [29 U.S.C. 2864(a)(2)(A)][/us/usc/t29/s2864/a/2/A]\], and the chief elected official of the unit of general local government within which the adverse effect may occur.
 
 >     “(d)  __Constructive Notice__  __.—__ 
 
@@ -750,6 +816,9 @@
 [/us/pl/103/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35
 [/us/pl/103/160/s1313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1313
 [/us/pl/103/160/s1182/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1182%2Fa%2F10
+[/us/pl/114/92/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs218
+[/us/stat/129/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F772
+[/us/usc/t10/s2371b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371b
 [/us/pl/111/383/s891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs891
 [/us/stat/124/4310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4310
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417

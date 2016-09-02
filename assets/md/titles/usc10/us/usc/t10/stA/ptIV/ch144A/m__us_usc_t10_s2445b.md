@@ -57,13 +57,19 @@
 
         (3) In the event of an adjustment or revision to the original estimate or information originally submitted on a program under paragraph (2), the Secretary of Defense shall include in the next budget justification documents submitted under subsection (a) after such adjustment or revision a notification to the congressional defense committees of such adjustment or revision, together with the reasons for such adjustment or revision.
 
-    (d)  __Elements Regarding Other Major Information Technology Investment Programs__  __.—__ 
+    (d)  __Time-certain Development__  __.—__ 
+
+    If an adjustment or revision under subsection (c) for a major automated information system that is not a national security system provides for a period in excess of five years from the time of program initiation to the time of a full deployment decision, the documents submitted under subsection (a) shall include a written determination by the senior Department of Defense official responsible for the program justifying the need for the longer period.
+
+    (e)  __Elements Regarding Other Major Information Technology Investment Programs__  __.—__ 
 
     With respect to each other major information technology investment program, the information required by subsection (a) may be provided in the format that is most appropriate to the current status of the program.
 
-(Added [Pub. L. 109–364, div. A, title VIII, § 816(a)(1)][/us/pl/109/364/s816/a/1], Oct. 17, 2006, [120 Stat. 2323][/us/stat/120/2323]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 812(b), Oct. 14, 2008, [122 Stat. 4525][/us/stat/122/4525]; [Pub. L. 111–84, div. A, title VIII, § 841(a)][/us/pl/111/84/s841/a], Oct. 28, 2009, [123 Stat. 2418][/us/stat/123/2418]; [Pub. L. 111–383, div. A, title VIII, § 805(b)][/us/pl/111/383/s805/b], Jan. 7, 2011, [124 Stat. 4259][/us/stat/124/4259]; [Pub. L. 113–66, div. A, title X, § 1092(d)(1)][/us/pl/113/66/s1092/d/1], Dec. 26, 2013, [127 Stat. 877][/us/stat/127/877].)
+(Added [Pub. L. 109–364, div. A, title VIII, § 816(a)(1)][/us/pl/109/364/s816/a/1], Oct. 17, 2006, [120 Stat. 2323][/us/stat/120/2323]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 812(b), Oct. 14, 2008, [122 Stat. 4525][/us/stat/122/4525]; [Pub. L. 111–84, div. A, title VIII, § 841(a)][/us/pl/111/84/s841/a], Oct. 28, 2009, [123 Stat. 2418][/us/stat/123/2418]; [Pub. L. 111–383, div. A, title VIII, § 805(b)][/us/pl/111/383/s805/b], Jan. 7, 2011, [124 Stat. 4259][/us/stat/124/4259]; [Pub. L. 113–66, div. A, title X, § 1092(d)(1)][/us/pl/113/66/s1092/d/1], Dec. 26, 2013, [127 Stat. 877][/us/stat/127/877]; [Pub. L. 114–92, div. A, title VIII, § 891(a)][/us/pl/114/92/s891/a], Nov. 25, 2015, [129 Stat. 951][/us/stat/129/951].)
 
  __Amendments__ 
+
+    2015—Subsecs. (d), (e). [Pub. L. 114–92, § 891(a)][/us/pl/114/92/s891/a], added subsec. (d) and redesignated former subsec. (d) as (e).
 
     2013—Subsec. (b)(3). [Pub. L. 113–66][/us/pl/113/66] substituted “total acquisition costs” for “development costs”.
 
@@ -98,6 +104,9 @@
 [/us/stat/124/4259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4259
 [/us/pl/113/66/s1092/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1092%2Fd%2F1
 [/us/stat/127/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F877
+[/us/pl/114/92/s891/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs891%2Fa
+[/us/stat/129/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F951
+[/us/pl/114/92/s891/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs891%2Fa
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84

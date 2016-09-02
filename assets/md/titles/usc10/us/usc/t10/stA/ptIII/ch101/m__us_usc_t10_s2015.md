@@ -29,7 +29,29 @@
 
         (2) The authority under paragraph (1) may not be used to pay the expenses of a member to obtain professional credentials that are a prerequisite for appointment in the armed forces.
 
-    (c)  __Regulations__  __.—__ 
+    (c)  __Quality Assurance of Certification Programs and Standards__  __.—__ 
+
+        (1) Commencing not later than three years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016, each Secretary concerned shall ensure that any credentialing program used in connection with the program under subsection (a) is accredited by an accreditation body that meets the requirements specified in paragraph (2).
+
+        (2)
+
+         The requirements for accreditation bodies specified in this paragraph are requirements that an accreditation body—
+
+            (A) be an independent body that has in place mechanisms to ensure objectivity and impartiality in its accreditation activities;
+
+            (B) meet a recognized national or international standard that directs its policy and procedures regarding accreditation;
+
+            (C) apply a recognized national or international certification standard in making its accreditation decisions regarding certification bodies and programs;
+
+            (D) conduct on-site visits, as applicable, to verify the documents and records submitted by credentialing bodies for accreditation;
+
+            (E) have in place policies and procedures to ensure due process when addressing complaints and appeals regarding its accreditation activities;
+
+            (F) conduct regular training to ensure consistent and reliable decisions among reviewers conducting accreditations; and
+
+            (G) meet such other criteria as the Secretary concerned considers appropriate in order to ensure quality in its accreditation activities.
+
+    (d)  __Regulations__  __.—__ 
 
         (1) The Secretary of Defense and the Secretary of Homeland Security shall prescribe regulations to carry out this section.
 
@@ -47,13 +69,19 @@
 
             (D) Such other matters in connection with the payment of expenses and the provision of other benefits under the program as the Secretaries consider appropriate.
 
-    (d)  __Expenses Defined__  __.—__ 
+    (e)  __Expenses Defined__  __.—__ 
 
     In this section, the term “expenses” means expenses for class room instruction, hands-on training (and associated materials), manuals, study guides and materials, text books, processing fees, and test fees and related fees.
 
-(Added [Pub. L. 109–163, div. A, title V, § 538(a)][/us/pl/109/163/s538/a], Jan. 6, 2006, [119 Stat. 3250][/us/stat/119/3250]; amended [Pub. L. 113–291, div. A, title V, § 551(a)][/us/pl/113/291/s551/a], Dec. 19, 2014, [128 Stat. 3376][/us/stat/128/3376].)
+(Added [Pub. L. 109–163, div. A, title V, § 538(a)][/us/pl/109/163/s538/a], Jan. 6, 2006, [119 Stat. 3250][/us/stat/119/3250]; amended [Pub. L. 113–291, div. A, title V, § 551(a)][/us/pl/113/291/s551/a], Dec. 19, 2014, [128 Stat. 3376][/us/stat/128/3376]; [Pub. L. 114–92, div. A, title V, § 559][/us/pl/114/92/s559], Nov. 25, 2015, [129 Stat. 827][/us/stat/129/827].)
+
+ __References in Text__ 
+
+    The date of the enactment of the National Defense Authorization Act for Fiscal Year 2016, referred to in subsec. (c)(1), is the date of enactment of [Pub. L. 114–92][/us/pl/114/92], which was approved Nov. 25, 2015.
 
  __Amendments__ 
+
+    2015—Subsecs. (c) to (e). [Pub. L. 114–92][/us/pl/114/92] added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
     2014—[Pub. L. 113–291][/us/pl/113/291] amended section generally. Prior to amendment, section related to payment of certain expenses to obtain professional credentials.
 
@@ -152,6 +180,10 @@
 [/us/stat/119/3250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3250
 [/us/pl/113/291/s551/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs551%2Fa
 [/us/stat/128/3376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3376
+[/us/pl/114/92/s559]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs559
+[/us/stat/129/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F827
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs542
 [/us/stat/127/762]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F762
