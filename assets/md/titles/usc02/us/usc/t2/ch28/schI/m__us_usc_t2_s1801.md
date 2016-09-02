@@ -71,6 +71,12 @@
 
     The name of Architect of the Capitol was changed to Superintendent of the Capitol Building and Grounds, by [act Feb. 14, 1902, ch. 17][/us/act/1902-02-14/ch17], [32 Stat. 20][/us/stat/32/20], popularly known as the “Urgent Deficiency Appropriation Act for 1902”.
 
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–156][/us/pl/114/156], § 1, May 16, 2016, [130 Stat. 391][/us/stat/130/391], provided that: 
+
+> “This Act \[enacting subchapter V of this chapter\] may be cited as the ‘Fallen Heroes Flag Act of 2016’.”
+
  __Comprehensive Management Study and Response__ 
 
 [Pub. L. 107–68, title I][/us/pl/107/68/tI], § 129(d), Nov. 12, 2001, [115 Stat. 580][/us/stat/115/580], provided that:
@@ -120,6 +126,8 @@
 [/us/stat/41/1291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F1291
 [/us/act/1902-02-14/ch17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1902-02-14%2Fch17
 [/us/stat/32/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F20
+[/us/pl/114/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F156
+[/us/stat/130/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F391
 [/us/pl/107/68/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F68%2FtI
 [/us/stat/115/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F580
 [/us/usc/t2/s1849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1849

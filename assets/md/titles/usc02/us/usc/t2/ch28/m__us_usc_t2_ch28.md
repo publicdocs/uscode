@@ -543,6 +543,58 @@ SUBCHAPTER IV—APPROPRIATIONS AND EXPENDITURES  </td>
 
   </tr>
 
+  <tr>
+
+    <td> 
+
+SUBCHAPTER V—CAPITOL-FLOWN FLAGS FOR FALLEN HEROES  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1881" data-uslm-ref="/us/usc/t2/s1881">1881.</a>  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2FsDefinitions" data-uslm-ref="/us/usc/t2/sDefinitions">Definitions.</a>  </td>
+
+    <td> 1881a.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> Providing Capitol-flown flags for families of fallen heroes.  </td>
+
+    <td> 1881b.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> Regulations and procedures.  </td>
+
+    <td> 1881c.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> Authorization of appropriations.  </td>
+
+    <td> 1881d.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> Effective date.  </td>
+
+  </tr>
+
 </table>
 
 ----------

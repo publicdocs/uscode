@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch28/schIV/m__us_usc_t2_s1871.md) | [Next](./../../../..//us/usc/t2/ch29/schI/m__us_usc_t2_ch29_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch29)
+[Previous](./../../../..//us/usc/t2/ch28/schV/m__us_usc_t2_s1881d.md) | [Next](./../../../..//us/usc/t2/ch29/schI/m__us_usc_t2_ch29_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch29)
 
 ## CHAPTER 29—CAPITOL POLICE
 
@@ -523,7 +523,7 @@ SUBCHAPTER II—POWERS AND DUTIES  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch28/schIV/m__us_usc_t2_s1871.md) | [Next](./../../../..//us/usc/t2/ch29/schI/m__us_usc_t2_ch29_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch29)
+[Previous](./../../../..//us/usc/t2/ch28/schV/m__us_usc_t2_s1881d.md) | [Next](./../../../..//us/usc/t2/ch29/schI/m__us_usc_t2_ch29_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch29)
 
 ----------
 ----------

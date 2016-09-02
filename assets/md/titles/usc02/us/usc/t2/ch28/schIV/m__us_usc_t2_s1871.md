@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch28/schIV/m__us_usc_t2_s1870.md) | [Next](./../../../../..//us/usc/t2/ch29/m__us_usc_t2_ch29.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1871)
+[Previous](./../../../../..//us/usc/t2/ch28/schIV/m__us_usc_t2_s1870.md) | [Next](./../../../../..//us/usc/t2/ch28/schV/m__us_usc_t2_ch28_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1871)
 
 ## § 1871. Expired appropriations available for deposit into Employees’ Compensation Fund
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch28/schIV/m__us_usc_t2_s1870.md) | [Next](./../../../../..//us/usc/t2/ch29/m__us_usc_t2_ch29.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1871)
+[Previous](./../../../../..//us/usc/t2/ch28/schIV/m__us_usc_t2_s1870.md) | [Next](./../../../../..//us/usc/t2/ch28/schV/m__us_usc_t2_ch28_schV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1871)
 
 ----------
 ----------
