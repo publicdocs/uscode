@@ -103,7 +103,7 @@
 
     1993—Subsec. (a)(1). [Pub. L. 103–121, § 111(a)(1)][/us/pl/103/121/s111/a/1], substituted “$130” for “$120”.
 
-    Subsec. (a)(3). [Pub. L. 103–81, § 111(b)(1)][/us/pl/103/81/s111/b/1], substituted “800” for “$600”.
+    Subsec. (a)(3). [Pub. L. 103–121, § 111(b)(1)][/us/pl/103/121/s111/b/1], substituted “800” for “$600”.
 
     1991—Subsec. (a)(3). [Pub. L. 102–140, § 111(a)(1)][/us/pl/102/140/s111/a/1], substituted “$600” for “$500”.
 
@@ -314,7 +314,7 @@
 [/us/pl/104/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F91
 [/us/pl/104/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99
 [/us/pl/103/121/s111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F121%2Fs111%2Fa%2F1
-[/us/pl/103/81/s111/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F81%2Fs111%2Fb%2F1
+[/us/pl/103/121/s111/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F121%2Fs111%2Fb%2F1
 [/us/pl/102/140/s111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2Fs111%2Fa%2F1
 [/us/pl/102/140/s111/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F140%2Fs111%2Fa%2F2
 [/us/pl/101/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F162

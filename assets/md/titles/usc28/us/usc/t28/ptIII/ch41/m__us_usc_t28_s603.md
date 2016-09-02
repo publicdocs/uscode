@@ -61,7 +61,7 @@
 
 [Pub. L. 90–206, title II, § 220(a)(3)][/us/pl/90/206/s220/a/3], Dec. 16, 1967, [81 Stat. 639][/us/stat/81/639], provided, except as otherwise expressly provided, that: 
 
-> “Sections 213(d) and (e) \[amending this section and [section 792 of this title][/us/usc/t28/s792]\], 214(j), (k), (l), (n), and (o) \[amending sections 60j and 61–1 of Title 2, The Congress, and [section 5533 of Title 5][/us/usc/t5/s5533], Government Organization and Employees\], 215 \[amending sections 5314 to 5316 of Title 5\], 217 \[amending [section 5545 of Title 5][/us/usc/t5/s5545]\], 219 \[amending sections 136a and 136a–1 of Title 2, sections 42a and 51a of former Title 31, Money and Finance, sections 162a, 166b, and 166b–1 of former Title 40, Public Buildings, Property, and Works, and section 39a of former Title 44, Public Printing and Documents\], and 224(c) \[amending material set out as a note under [section 102 of Title 2][/us/usc/t2/s102]\] shall become effective at the beginning of the first pay period which begins on or after the date of enactment of this title \[Dec. 16, 1967\].”
+> “Sections 213(d) and (e) \[amending this section and [section 792 of this title][/us/usc/t28/s792]\], 214(j), (k), (l), (n), and (o) \[amending sections 4507 and 4575 of Title 2, The Congress, and [section 5533 of Title 5][/us/usc/t5/s5533], Government Organization and Employees\], 215 \[amending sections 5314 to 5316 of Title 5\], 217 \[amending [section 5545 of Title 5][/us/usc/t5/s5545]\], 219 \[amending sections 136a and 136a–1 of Title 2, sections 42a and 51a of former Title 31, Money and Finance, sections 162a, 166b, and 166b–1 of former Title 40, Public Buildings, Property, and Works, and section 39a of former Title 44, Public Printing and Documents\], and 224(c) \[amending material set out as a note under [section 102 of Title 3][/us/usc/t3/s102], The President\] shall become effective at the beginning of the first pay period which begins on or after the date of enactment of this title \[Dec. 16, 1967\].”
 
  __Effective Date of 1964 Amendment__ 
 
@@ -189,7 +189,7 @@
 [/us/usc/t28/s792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs792
 [/us/usc/t5/s5533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5533
 [/us/usc/t5/s5545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5545
-[/us/usc/t2/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs102
+[/us/usc/t3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs102
 [/us/pl/88/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426
 [/us/pl/88/426/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs501%2Fc
 [/us/pl/88/426/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F426%2Fs501%2Fa
