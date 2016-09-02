@@ -1517,7 +1517,11 @@
 
 >                 “(i) shall not be considered to be an augmentation of the appropriations made available to the General Services Administration; and
 
->                 “(ii) shall be—         “(I) administered, subject to paragraph (1)(B), in accordance with the procedures of the General Services Administration; but
+>                 “(ii)
+
+>                  shall be—
+
+>                          “(I) administered, subject to paragraph (1)(B), in accordance with the procedures of the General Services Administration; but
 
 >                          “(II) available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code.
 
@@ -2237,7 +2241,7 @@ Similar provisions were contained in the following prior acts:
 
 [Pub. L. 93–239][/us/pl/93/239], §§ 1–3, Jan. 2, 1974, [87 Stat. 1046][/us/stat/87/1046], 1047, as amended by [Pub. L. 93–643][/us/pl/93/643], §§ 114(c), 120(a), Jan. 4, 1975, [83 Stat. 2286][/us/stat/83/2286], 2289; [Pub. L. 94–280, title I, § 143][/us/pl/94/280/s143], May 5, 1976, [90 Stat. 445][/us/stat/90/445]; [Pub. L. 95–599, title I, § 126(b)][/us/pl/95/599/s126/b], Nov. 6, 1978, [92 Stat. 2706][/us/stat/92/2706], provided:
 
->     “\[Section 1. Short title\]. That this Act be cited as the ‘Emergency Highway Energy Conservation Act’.
+> “\[Section 1. Short title\]. That this Act be cited as the ‘Emergency Highway Energy Conservation Act’.
 
 > “Sec. 2. __\[Repealed.__  __[__  __Pub. L. 93–643, § 114(c)__  __][/us/pl/93/643/s114/c]__  __,__  __Jan. 4, 1975__  __,__  __[__  __88 Stat. 2086__  __][/us/stat/88/2086]__  __.\]__ 
 

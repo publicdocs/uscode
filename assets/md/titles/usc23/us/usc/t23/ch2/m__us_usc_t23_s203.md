@@ -85,7 +85,9 @@
 
     (b) __Agency Program Distributions.—__ 
 
-        (1) __In general.—On__  __October 1, 2011__  __, and on October 1 of each fiscal year thereafter, the Secretary shall allocate the sums authorized to be appropriated for the fiscal year for the Federal lands transportation program on the basis of applications of need, as determined by the Secretary—__ 
+        (1) __In general.—__ 
+
+        On October 1, 2011, and on October 1 of each fiscal year thereafter, the Secretary shall allocate the sums authorized to be appropriated for the fiscal year for the Federal lands transportation program on the basis of applications of need, as determined by the Secretary—
 
             (A) in consultation with the Secretaries of the applicable Federal land management agencies; and
 

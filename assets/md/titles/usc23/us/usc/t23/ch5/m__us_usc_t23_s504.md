@@ -215,7 +215,9 @@
 
             Amounts provided to institutions of higher education to carry out this paragraph shall be used to provide direct support of student expenses.
 
-    (d) __Garrett A. Morgan Technology and Transportation Education Program.—__ 
+    (d) __Garrett A.__ 
+
+     Morgan Technology and Transportation Education Program.—
 
         (1) __In general.—__ 
 

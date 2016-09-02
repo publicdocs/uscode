@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t23/ch5/m__us_usc_t23_s504.md) | [Next](./../../../..//us/usc/t23/ch5/m__us_usc_t23_s506, 507.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs505)
+[Previous](./../../../..//us/usc/t23/ch5/m__us_usc_t23_s504.md) | [Next](./../../../..//us/usc/t23/ch5/m__us_usc_t23_s508.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs505)
 
 ## § 505. State planning and research
 
@@ -111,9 +111,23 @@
 
 >     “(e) There is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, to be available until expended, the sum of $800,000 for the purpose of making the studies, surveys, and report authorized by subsections (a) and (b) hereof.”
 
+\[§§ 506, 507. __Repealed.__  __[__  __Pub. L. 112–141, div. E, title II__  __][/us/pl/112/141]__  __, §§ 52006(a), 52007(a),__  __July 6, 2012__  __,__  __[__  __126 Stat. 882__  __][/us/stat/126/882]__  __\]__ 
+
+    Section 506, added [Pub. L. 105–178, title V, § 5106][/us/pl/105/178/s5106], June 9, 1998, [112 Stat. 433][/us/stat/112/433]; amended [Pub. L. 109–59, title V, § 5206(a)][/us/pl/109/59/s5206/a], Aug. 10, 2005, [119 Stat. 1795][/us/stat/119/1795], related to international highway transportation outreach program.
+
+    A prior section 506, added [Pub. L. 90–495, § 30][/us/pl/90/495/s30], Aug. 23, 1968, [82 Stat. 832][/us/stat/82/832]; amended [Pub. L. 91–605, title I, § 137][/us/pl/91/605/s137], Dec. 31, 1970, [84 Stat. 1735][/us/stat/84/1735], related to replacement housing, prior to repeal by [Pub. L. 91–646, title II, § 220(a)(10)][/us/pl/91/646/s220/a/10], Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903].
+
+    Section 507, added [Pub. L. 105–178, title V, § 5107][/us/pl/105/178/s5107], June 9, 1998, [112 Stat. 434][/us/stat/112/434]; amended [Pub. L. 109–59, title V, § 5207(a)][/us/pl/109/59/s5207/a], Aug. 10, 2005, [119 Stat. 1797][/us/stat/119/1797], related to surface transportation-environmental cooperative research program.
+
+    A prior section 507, added [Pub. L. 90–495, § 30][/us/pl/90/495/s30], Aug. 23, 1968, [82 Stat. 832][/us/stat/82/832], related to expenses incidental to transfer of property, prior to repeal by [Pub. L. 91–646, title II, § 220(a)(10)][/us/pl/91/646/s220/a/10], Jan. 2, 1971, [84 Stat. 1903][/us/stat/84/1903].
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
+
 ----------
 
-[Previous](./../../../..//us/usc/t23/ch5/m__us_usc_t23_s504.md) | [Next](./../../../..//us/usc/t23/ch5/m__us_usc_t23_s506, 507.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs505)
+[Previous](./../../../..//us/usc/t23/ch5/m__us_usc_t23_s504.md) | [Next](./../../../..//us/usc/t23/ch5/m__us_usc_t23_s508.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs505)
 
 ----------
 ----------
@@ -143,5 +157,27 @@
 [/us/stat/76/1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1149
 [/us/pl/97/449/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs2%2Fa
 [/us/stat/96/2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2439
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/stat/126/882]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F882
+[/us/pl/105/178/s5106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs5106
+[/us/stat/112/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F433
+[/us/pl/109/59/s5206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5206%2Fa
+[/us/stat/119/1795]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1795
+[/us/pl/90/495/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs30
+[/us/stat/82/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F832
+[/us/pl/91/605/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F605%2Fs137
+[/us/stat/84/1735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1735
+[/us/pl/91/646/s220/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs220%2Fa%2F10
+[/us/stat/84/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1903
+[/us/pl/105/178/s5107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs5107
+[/us/stat/112/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F434
+[/us/pl/109/59/s5207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs5207%2Fa
+[/us/stat/119/1797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1797
+[/us/pl/90/495/s30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F495%2Fs30
+[/us/stat/82/832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F832
+[/us/pl/91/646/s220/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F646%2Fs220%2Fa%2F10
+[/us/stat/84/1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1903
+[/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
+[/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
 
 

@@ -15,7 +15,7 @@
 
 ## § 606. State and local permits
 
-The provision of credit assistance under this chapter with respect to a project shall not—
+    The provision of credit assistance under this chapter with respect to a project shall not—
 
     (1) relieve any recipient of the assistance of any obligation to obtain any required State or local permit or approval with respect to the project;
 

@@ -33,11 +33,11 @@
 
         (1) __Period of availability of withheld funds.—__ 
 
-            (A) __Funds withheld on or before september 30, 2000.—__ 
+            (A) __Funds withheld on or before__  __september 30, 2000__  __.—__ 
 
             Any funds withheld under subsection (a) from apportionment to any State on or before September 30, 2000, shall remain available until the end of the third fiscal year following the fiscal year for which the funds are authorized to be appropriated.
 
-            (B) __Funds withheld after september 30, 2000.—__ 
+            (B) __Funds withheld after__  __september 30, 2000__  __.—__ 
 
             No funds withheld under this section from apportionment to any State after September 30, 2000, shall be available for apportionment to the State.
 

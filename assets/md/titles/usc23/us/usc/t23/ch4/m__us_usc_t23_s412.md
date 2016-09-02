@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t23/ch4/m__us_usc_t23_s410, 411.md) | [Next](./../../../..//us/usc/t23/ch5/m__us_usc_t23_ch5.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs412)
+[Previous](./../../../..//us/usc/t23/ch4/m__us_usc_t23_s409.md) | [Next](./../../../..//us/usc/t23/ch5/m__us_usc_t23_ch5.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs412)
 
 ## § 412. Agency accountability
 
@@ -99,7 +99,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t23/ch4/m__us_usc_t23_s410, 411.md) | [Next](./../../../..//us/usc/t23/ch5/m__us_usc_t23_ch5.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs412)
+[Previous](./../../../..//us/usc/t23/ch4/m__us_usc_t23_s409.md) | [Next](./../../../..//us/usc/t23/ch5/m__us_usc_t23_ch5.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs412)
 
 ----------
 ----------

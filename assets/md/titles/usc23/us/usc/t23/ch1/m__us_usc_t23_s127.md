@@ -21,11 +21,11 @@
 
         (2) However, the maximum gross weight to be allowed by any State for vehicles using The Dwight D. Eisenhower System of Interstate and Defense Highways shall be twenty thousand pounds carried on one axle, including enforcement tolerances, and a tandem axle weight of thirty-four thousand pounds, including enforcement tolerances and with an overall maximum gross weight, including enforcement tolerances, on a group of two or more consecutive axles produced by application of the following formula:
 
-        LN
+    LN
 
-        W=500 AXXXXX+12N+36B
+    W=500 AXXXXX+12N+36B
 
-        N−1
+    N−1
 
         where W equals overall gross weight on any group of two or more consecutive axles to the nearest five hundred pounds, L equals distance in feet between the extreme of any group of two or more consecutive axles, and N equals number of axles in group under consideration, except that two consecutive sets of tandem axles may carry a gross load of thirty-four thousand pounds each providing the overall distance between the first and last axles of such consecutive sets of tandem axles (1) is thirty-six feet or more, or (2) in the case of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container before September 1, 1989, is 30 feet or more: Provided, That such overall gross weight may not exceed eighty thousand pounds, including all enforcement tolerances, except for vehicles using Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or vehicles using Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska, and except for those vehicles and loads which cannot be easily dismantled or divided and which have been issued special permits in accordance with applicable State laws, or the corresponding maximum weights permitted for vehicles using the public highways of such State under laws or regulations established by appropriate State authority in effect on July 1, 1956, except in the case of the overall gross weight of any group of two or more consecutive axles on any vehicle (other than a vehicle comprised of a motor vehicle hauling any tank trailer, dump trailer, or ocean transport container on or after September 1, 1989), on the date of enactment of the Federal-Aid Highway Amendments of 1974, whichever is the greater.
 

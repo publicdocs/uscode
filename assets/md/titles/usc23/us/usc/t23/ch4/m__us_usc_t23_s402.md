@@ -257,7 +257,7 @@
 
             A State shall make the State’s highway safety plan, and decisions of the Secretary concerning approval or disapproval of a revised plan, available to the public.
 
-        \[(l) redesignated (j).\]
+    \[(l) redesignated (j).\]
 
     (m) __Teen Traffic Safety.—__ 
 

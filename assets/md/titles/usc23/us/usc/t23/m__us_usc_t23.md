@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t23/ch1/m__us_usc_t23_ch1.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23)
 
-# 
-
-Title 23—HIGHWAYS
+# Title 23—HIGHWAYS
 
 This title was enacted by [Pub. L. 85–767, § 1][/us/pl/85/767/s1], Aug. 27, 1958, [72 Stat. 885][/us/stat/72/885]
+
+Current through 113–44
 
 <table>
 

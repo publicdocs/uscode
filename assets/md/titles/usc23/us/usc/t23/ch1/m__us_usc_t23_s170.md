@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t23/ch1/m__us_usc_t23_s169.md) | [Next](./../../../..//us/usc/t23/ch1/m__us_usc_t23_s181 to 190.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs170)
+[Previous](./../../../..//us/usc/t23/ch1/m__us_usc_t23_s169.md) | [Next](./../../../..//us/usc/t23/ch2/m__us_usc_t23_ch2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs170)
 
 ## § 170. Funding flexibility for transportation emergencies
 
@@ -49,9 +49,15 @@
 
     Section effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title][/us/usc/t23/s101].
 
+\[§§ 181 to 190. __Renumbered §§ 601 to 610\]__ 
+
+ __Codification__ 
+
+    Subchapter II heading “INFRASTRUCTURE FINANCE” was struck out and sections 181 to 190, which comprised subchapter II of this chapter, were renumbered sections 601 to 610, respectively, and transferred to follow the analysis of chapter 6 of this title, by [Pub. L. 109–59, title I, § 1602(b)(6)(B)][/us/pl/109/59/s1602/b/6/B], (d), Aug. 10, 2005, [119 Stat. 1247][/us/stat/119/1247], as amended by [Pub. L. 110–244, title I, § 101(f)][/us/pl/110/244/s101/f], June 6, 2008, [122 Stat. 1574][/us/stat/122/1574].
+
 ----------
 
-[Previous](./../../../..//us/usc/t23/ch1/m__us_usc_t23_s169.md) | [Next](./../../../..//us/usc/t23/ch1/m__us_usc_t23_s181 to 190.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs170)
+[Previous](./../../../..//us/usc/t23/ch1/m__us_usc_t23_s169.md) | [Next](./../../../..//us/usc/t23/ch2/m__us_usc_t23_ch2.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs170)
 
 ----------
 ----------
@@ -64,5 +70,9 @@
 [/us/usc/t42/s5121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5121
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/109/59/s1602/b/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs1602%2Fb%2F6%2FB
+[/us/stat/119/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1247
+[/us/pl/110/244/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs101%2Ff
+[/us/stat/122/1574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1574
 
 

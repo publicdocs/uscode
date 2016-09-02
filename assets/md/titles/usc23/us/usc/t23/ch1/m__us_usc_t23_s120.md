@@ -433,7 +433,9 @@
 
 >     “(a) __\[Repealed.__  __[__  __Pub. L. 97–424, title V, § 531(b)__  __][/us/pl/97/424/s531/b]__  __,__  __Jan. 6, 1983__  __,__  __[__  __96 Stat. 2191__  __][/us/stat/96/2191]__  __. Subsec. (a) provided for the creation of a Highway Trust Fund.\]__ 
 
->     “(b) __Declaration of Policy.—It is hereby declared to be the policy of the Congress that if it hereafter appears—__ 
+>     “(b) __Declaration of Policy.—__ 
+
+>     It is hereby declared to be the policy of the Congress that if it hereafter appears—
 
 >         “(1) that the total receipts of the Trust Fund (exclusive of advances under subsection (d) will be less than the total expenditures from such Fund (exclusive of repayments of such advances); or
 

@@ -691,7 +691,9 @@
 
 >                 “(iii) __Metropolitan area.—__ 
 
->                 The term ‘metropolitan area’, including a major transportation corridor serving a metropolitan area, means any area that—         “(I) has a population exceeding 300,000; and
+>                 The term ‘metropolitan area’, including a major transportation corridor serving a metropolitan area, means any area that—
+
+>                          “(I) has a population exceeding 300,000; and
 
 >                          “(II) meets criteria established by the Secretary in conjunction with the intelligent vehicle highway systems corridors program.
 
@@ -705,7 +707,9 @@
 
 >                 “(vi) __State transportation department.—__ 
 
->                 The term ‘State transportation department’ means—         “(I) a State transportation department (as defined in [section 101 of title 23][/us/usc/t23/s101], United States Code); and
+>                 The term ‘State transportation department’ means—
+
+>                          “(I) a State transportation department (as defined in [section 101 of title 23][/us/usc/t23/s101], United States Code); and
 
 >                          “(II) a designee of a State transportation department (as so defined) for the purpose of entering into contracts.
 
@@ -717,13 +721,17 @@
 
 >                 “(i) __In general.—__ 
 
->                 The Secretary shall carry out a 2-part intelligent transportation infrastructure program in accordance with this paragraph to advance the deployment of an operational intelligent transportation infrastructure system, through measurement of various transportation system activities, to simultaneously—         “(I) aid in transportation planning and analysis; and
+>                 The Secretary shall carry out a 2-part intelligent transportation infrastructure program in accordance with this paragraph to advance the deployment of an operational intelligent transportation infrastructure system, through measurement of various transportation system activities, to simultaneously—
+
+>                          “(I) aid in transportation planning and analysis; and
 
 >                          “(II) make a significant contribution to the ITS program under this title \[see Tables for classification\].
 
 >                 “(ii) __Objectives.—__ 
 
->                 The objectives of the program are—         “(I) to build or integrate an infrastructure of the measurement of various transportation system metrics to aid in planning, analysis, and maintenance of the Department of Transportation, including the buildout, maintenance, and operation of greater than 40 metropolitan area systems with a total cost not to exceed $2,000,000 for each metropolitan area;
+>                 The objectives of the program are—
+
+>                          “(I) to build or integrate an infrastructure of the measurement of various transportation system metrics to aid in planning, analysis, and maintenance of the Department of Transportation, including the buildout, maintenance, and operation of greater than 40 metropolitan area systems with a total cost not to exceed $2,000,000 for each metropolitan area;
 
 >                          “(II) to provide private technology commercialization initiatives to generate revenues that will be reinvested in the intelligent transportation infrastructure system;
 
@@ -735,7 +743,9 @@
 
 >                 “(i) __In general.—__ 
 
->                 In carrying out part I of the program, the Secretary shall permit the entity to which the original contract was awarded to use uncommitted funds to deploy intelligent transportation infrastructure systems that have been accepted by the Secretary—         “(I) in accordance with the terms of the original contract; and
+>                 In carrying out part I of the program, the Secretary shall permit the entity to which the original contract was awarded to use uncommitted funds to deploy intelligent transportation infrastructure systems that have been accepted by the Secretary—
+
+>                          “(I) in accordance with the terms of the original contract; and
 
 >                          “(II) in any deployment area, with the consent of the State transportation department for the deployment area.
 
@@ -755,7 +765,9 @@
 
 >                 “(ii) __Requirements.—__ 
 
->                 The Secretary shall award contracts under clause (i)—         “(I) for individual congested areas among entities that seek to deploy intelligent transportation infrastructure systems in the congested areas; and
+>                 The Secretary shall award contracts under clause (i)—
+
+>                          “(I) for individual congested areas among entities that seek to deploy intelligent transportation infrastructure systems in the congested areas; and
 
 >                          “(II) on the condition that the terms of each contract awarded requires the entity deploying such system to ensure that the deployed system is compatible (as determined by the Secretary) with systems deployed in other congested areas under this paragraph.
 
@@ -781,9 +793,13 @@
 
 >                 “(ii) __Limit on costs of system for each metropolitan area.—__ 
 
->                          “(I) In general.—Not more than $2,000,000 may be provided under this paragraph for deployment of an intelligent transportation infrastructure system for a metropolitan area.
+>                          “(I) __In general.—__ 
 
->                          “(II) Funding under each part.—A metropolitan area in which an intelligent transportation infrastructure system is deployed under part I or part II under subparagraphs (C) and (D), respectively, including through a distribution of funds under subparagraph (E), may not receive any additional deployment under the other part of the program.
+>                     Not more than $2,000,000 may be provided under this paragraph for deployment of an intelligent transportation infrastructure system for a metropolitan area.
+
+>                          “(II) __Funding under each part.—__ 
+
+>                     A metropolitan area in which an intelligent transportation infrastructure system is deployed under part I or part II under subparagraphs (C) and (D), respectively, including through a distribution of funds under subparagraph (E), may not receive any additional deployment under the other part of the program.
 
 >             “(G) __Use of rights-of-way.—__ 
 
@@ -793,7 +809,9 @@
 
 >                 “(ii) __Effect of subparagraph.—__ 
 
->                 Nothing in this subparagraph affects the authority of a State or political subdivision of a State—         “(I) to regulate highway safety; or
+>                 Nothing in this subparagraph affects the authority of a State or political subdivision of a State—
+
+>                          “(I) to regulate highway safety; or
 
 >                          “(II) under sections 253 and 332(c)(7) of the Communications Act of 1934 ([47 U.S.C. 253][/us/usc/t47/s253], 332(c)(7)).
 
@@ -857,7 +875,9 @@
 
 >                 “(i) __In general.—__ 
 
->                 The Center shall—         “(I) systematically test, evaluate, develop appropriate guidelines for, and demonstrate environmentally acceptable and occupationally safe technologies and techniques for the increased use of traditional and nontraditional recycled and secondary materials in transportation infrastructure construction and maintenance;
+>                 The Center shall—
+
+>                          “(I) systematically test, evaluate, develop appropriate guidelines for, and demonstrate environmentally acceptable and occupationally safe technologies and techniques for the increased use of traditional and nontraditional recycled and secondary materials in transportation infrastructure construction and maintenance;
 
 >                          “(II) make information available to State transportation departments, the Federal Highway Administration, the construction industry, and other interested parties to assist in evaluating proposals to use traditional and nontraditional recycled and secondary materials in transportation infrastructure construction;
 
@@ -867,7 +887,9 @@
 
 >                 “(ii) __Sites and projects under actual field conditions.—__ 
 
->                 In carrying out clause (i)(III), the Secretary may authorize the Center to—         “(I) use test sites and demonstration projects under actual field conditions to develop appropriate performance data; and
+>                 In carrying out clause (i)(III), the Secretary may authorize the Center to—
+
+>                          “(I) use test sites and demonstration projects under actual field conditions to develop appropriate performance data; and
 
 >                          “(II) develop appropriate tests and guidelines to ensure correct use of recycled and secondary materials in transportation infrastructure construction.
 

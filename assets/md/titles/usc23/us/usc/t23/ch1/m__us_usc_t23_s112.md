@@ -45,9 +45,7 @@
 
             A recipient of funds requesting or using the cost and rate data described in subparagraph (D) shall notify any affected firm before such request or use. Such data shall be confidential and shall not be accessible or provided, in whole or in part, to another firm or to any government agency which is not part of the group of agencies sharing cost data under this paragraph, except by written permission of the audited firm. If prohibited by law, such cost and rate data shall not be disclosed under any circumstances.
 
-            (F)
-
-        (F)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  Subparagraphs (B), (C), (D) and (E) herein shall not apply to the States of West Virginia or Minnesota.
+            (F)    (F)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  Subparagraphs (B), (C), (D) and (E) herein shall not apply to the States of West Virginia or Minnesota.
 
         (3) __Design-build contracting.—__ 
 
