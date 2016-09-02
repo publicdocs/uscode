@@ -91,13 +91,19 @@
 
         there shall be allowed as a credit against the tax imposed by this subchapter an amount equal to the tax (if any) imposed by section 4071 on such tires.
 
-(Added [Pub. L. 97–424, title V, § 512(b)(1)][/us/pl/97/424/s512/b/1], Jan. 6, 1983, [96 Stat. 2174][/us/stat/96/2174]; amended [Pub. L. 98–369, div. A, title VII, § 734(g)][/us/pl/98/369/s734/g], title IX, § 921, July 18, 1984, [98 Stat. 980][/us/stat/98/980], 1009; [Pub. L. 99–514, title XVIII][/us/pl/99/514], §§ 1877(c), 1899A(47), Oct. 22, 1986, [100 Stat. 2902][/us/stat/100/2902], 2961; [Pub. L. 100–17, title V, § 502(a)(2)][/us/pl/100/17/s502/a/2], Apr. 2, 1987, [101 Stat. 256][/us/stat/101/256]; [Pub. L. 101–508, title XI, § 11211(c)(1)][/us/pl/101/508/s11211/c/1], Nov. 5, 1990, [104 Stat. 1388–426][/us/stat/104/1388-426]; [Pub. L. 102–240, title VIII, § 8002(a)(1)][/us/pl/102/240/s8002/a/1], Dec. 18, 1991, [105 Stat. 2203][/us/stat/105/2203]; [Pub. L. 105–34, title XIV][/us/pl/105/34], §§ 1401(a), 1402(a), 1432(a), Aug. 5, 1997, [111 Stat. 1045][/us/stat/111/1045], 1046, 1050; [Pub. L. 105–178, title IX, § 9002(a)(1)(D)][/us/pl/105/178/s9002/a/1/D], June 9, 1998, [112 Stat. 499][/us/stat/112/499]; [Pub. L. 109–59, title XI][/us/pl/109/59], §§ 11101(a)(1)(D), 11112(a), Aug. 10, 2005, [119 Stat. 1943][/us/stat/119/1943], 1946; [Pub. L. 112–30, title I, § 142(a)(2)(B)][/us/pl/112/30/s142/a/2/B], Sept. 16, 2011, [125 Stat. 356][/us/stat/125/356]; [Pub. L. 112–102, title IV, § 402(a)(2)(B)][/us/pl/112/102/s402/a/2/B], Mar. 30, 2012, [126 Stat. 282][/us/stat/126/282]; [Pub. L. 112–140, title IV, § 402(a)(2)(B)][/us/pl/112/140/s402/a/2/B], June 29, 2012, [126 Stat. 402][/us/stat/126/402]; [Pub. L. 112–141, div. D, title I, § 40102(a)(2)(B)][/us/pl/112/141/s40102/a/2/B], July 6, 2012, [126 Stat. 844][/us/stat/126/844].)
+(Added [Pub. L. 97–424, title V, § 512(b)(1)][/us/pl/97/424/s512/b/1], Jan. 6, 1983, [96 Stat. 2174][/us/stat/96/2174]; amended [Pub. L. 98–369, div. A, title VII, § 734(g)][/us/pl/98/369/s734/g], title IX, § 921, July 18, 1984, [98 Stat. 980][/us/stat/98/980], 1009; [Pub. L. 99–514, title XVIII][/us/pl/99/514], §§ 1877(c), 1899A(47), Oct. 22, 1986, [100 Stat. 2902][/us/stat/100/2902], 2961; [Pub. L. 100–17, title V, § 502(a)(2)][/us/pl/100/17/s502/a/2], Apr. 2, 1987, [101 Stat. 256][/us/stat/101/256]; [Pub. L. 101–508, title XI, § 11211(c)(1)][/us/pl/101/508/s11211/c/1], Nov. 5, 1990, [104 Stat. 1388–426][/us/stat/104/1388-426]; [Pub. L. 102–240, title VIII, § 8002(a)(1)][/us/pl/102/240/s8002/a/1], Dec. 18, 1991, [105 Stat. 2203][/us/stat/105/2203]; [Pub. L. 105–34, title XIV][/us/pl/105/34], §§ 1401(a), 1402(a), 1432(a), Aug. 5, 1997, [111 Stat. 1045][/us/stat/111/1045], 1046, 1050; [Pub. L. 105–178, title IX, § 9002(a)(1)(D)][/us/pl/105/178/s9002/a/1/D], June 9, 1998, [112 Stat. 499][/us/stat/112/499]; [Pub. L. 109–59, title XI][/us/pl/109/59], §§ 11101(a)(1)(D), 11112(a), Aug. 10, 2005, [119 Stat. 1943][/us/stat/119/1943], 1946; [Pub. L. 112–30, title I, § 142(a)(2)(B)][/us/pl/112/30/s142/a/2/B], Sept. 16, 2011, [125 Stat. 356][/us/stat/125/356]; [Pub. L. 112–102, title IV, § 402(a)(2)(B)][/us/pl/112/102/s402/a/2/B], Mar. 30, 2012, [126 Stat. 282][/us/stat/126/282]; [Pub. L. 112–140, title IV, § 402(a)(2)(B)][/us/pl/112/140/s402/a/2/B], June 29, 2012, [126 Stat. 402][/us/stat/126/402]; [Pub. L. 112–141, div. D, title I, § 40102(a)(2)(B)][/us/pl/112/141/s40102/a/2/B], July 6, 2012, [126 Stat. 844][/us/stat/126/844]; [Pub. L. 114–94, div. C, title XXXI, § 31102(a)(2)(B)][/us/pl/114/94/s31102/a/2/B], Dec. 4, 2015, [129 Stat. 1727][/us/stat/129/1727].)
+
+ __Amendment of Subsection (c)__ 
+
+    [Pub. L. 114–94, div. C, title XXXI, § 31102(a)(2)(B)][/us/pl/114/94/s31102/a/2/B], (f), Dec. 4, 2015, [129 Stat. 1727][/us/stat/129/1727], 1728, provided that, effective Oct. 1, 2016, subsection (c) of this section is amended by striking “October 1, 2016” and inserting “October 1, 2022”. See 2015 Amendment note below.
 
  __Prior Provisions__ 
 
     A prior section 4051, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 479][/us/stat/68A/479], defined the price for which articles were sold for purposes of determining retailers excise taxes, prior to repeal by [Pub. L. 94–455, title XIX, § 1904(a)(1)(D)][/us/pl/94/455/s1904/a/1/D], Oct. 4, 1976, [90 Stat. 1811][/us/stat/90/1811].
 
  __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–94][/us/pl/114/94] substituted “October 1, 2022” for “October 1, 2016”.
 
     2012—Subsec. (c). [Pub. L. 112–141][/us/pl/112/141] substituted “October 1, 2016” for “July 1, 2012”.
 
@@ -134,6 +140,10 @@
     1984—Subsec. (b)(3). [Pub. L. 98–369, § 734(g)][/us/pl/98/369/s734/g], substituted “The owners of the trade or business installing the parts or accessories shall be secondarily liable for the tax imposed by paragraph (1)” for “In addition to the owner, lessee, or operator of the vehicle, the owner of the trade or business installing the part or accessory shall be liable for the tax imposed by paragraph (1)”.
 
     Subsecs. (d), (e). [Pub. L. 98–369, § 921][/us/pl/98/369/s921], added subsec. (d) and redesignated former subsec. (d) as (e).
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2016, see [section 31102(f) of Pub. L. 114–94][/us/pl/114/94/s31102/f], set out as a note under [section 4041 of this title][/us/usc/t26/s4041].
 
  __Effective and Termination Dates of 2012 Amendment__ 
 
@@ -218,10 +228,15 @@
 [/us/stat/126/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F402
 [/us/pl/112/141/s40102/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40102%2Fa%2F2%2FB
 [/us/stat/126/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F844
+[/us/pl/114/94/s31102/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31102%2Fa%2F2%2FB
+[/us/stat/129/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1727
+[/us/pl/114/94/s31102/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31102%2Fa%2F2%2FB
+[/us/stat/129/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1727
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F479
 [/us/pl/94/455/s1904/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1904%2Fa%2F1%2FD
 [/us/stat/90/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1811
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F140
 [/us/pl/112/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102
@@ -240,6 +255,9 @@
 [/us/pl/99/514/s1877/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1877%2Fc
 [/us/pl/98/369/s734/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs734%2Fg
 [/us/pl/98/369/s921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs921
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s31102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31102%2Ff
+[/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s40102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40102%2Ff
 [/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041

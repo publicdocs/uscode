@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stF/ch64/schA/m__us_usc_t26_s6306.md) | [Next](./../../../../../..//us/usc/t26/stF/ch64/schB/m__us_usc_t26_s6311.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch64%2FschB)
+[Previous](./../../../../../..//us/usc/t26/stF/ch64/schA/m__us_usc_t26_s6307.md) | [Next](./../../../../../..//us/usc/t26/stF/ch64/schB/m__us_usc_t26_s6311.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch64%2FschB)
 
 #### Subchapter B—Receipt of Payment
 
@@ -95,7 +95,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stF/ch64/schA/m__us_usc_t26_s6306.md) | [Next](./../../../../../..//us/usc/t26/stF/ch64/schB/m__us_usc_t26_s6311.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch64%2FschB)
+[Previous](./../../../../../..//us/usc/t26/stF/ch64/schA/m__us_usc_t26_s6307.md) | [Next](./../../../../../..//us/usc/t26/stF/ch64/schB/m__us_usc_t26_s6311.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch64%2FschB)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stF/ch75/schD/m__us_usc_t26_s7344.md) | [Next](./../../../../..//us/usc/t26/stF/ch76/schA/m__us_usc_t26_stF_ch76_schA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch76)
+[Previous](./../../../../..//us/usc/t26/stF/ch75/schD/m__us_usc_t26_s7345.md) | [Next](./../../../../..//us/usc/t26/stF/ch76/schA/m__us_usc_t26_stF_ch76_schA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch76)
 
 ### CHAPTER 76—JUDICIAL PROCEEDINGS
 
@@ -89,7 +89,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stF/ch75/schD/m__us_usc_t26_s7344.md) | [Next](./../../../../..//us/usc/t26/stF/ch76/schA/m__us_usc_t26_stF_ch76_schA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch76)
+[Previous](./../../../../..//us/usc/t26/stF/ch75/schD/m__us_usc_t26_s7345.md) | [Next](./../../../../..//us/usc/t26/stF/ch76/schA/m__us_usc_t26_stF_ch76_schA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch76)
 
 ----------
 ----------

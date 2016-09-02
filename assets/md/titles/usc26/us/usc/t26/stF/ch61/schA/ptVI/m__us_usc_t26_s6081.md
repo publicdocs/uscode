@@ -57,7 +57,7 @@
 
  __Modification of Due Dates by Regulation__ 
 
-[Pub. L. 114–41, title II, § 2006(b)][/us/pl/114/41/s2006/b], July 31, 2015, [129 Stat. 458][/us/stat/129/458], provided that: 
+[Pub. L. 114–41, title II, § 2006(b)][/us/pl/114/41/s2006/b], July 31, 2015, [129 Stat. 458][/us/stat/129/458], as amended by [Pub. L. 114–94, div. C, title XXXII, § 32104(a)][/us/pl/114/94/s32104/a], Dec. 4, 2015, [129 Stat. 1738][/us/stat/129/1738], provided that: 
 
 > “In the case of returns for taxable years beginning after December 31, 2015, the Secretary of the Treasury, or the Secretary’s designee, shall modify appropriate regulations to provide as follows:
 
@@ -65,7 +65,7 @@
 
 >     “(2) The maximum extension for the returns of trusts filing Form 1041 shall be a 5½-month period ending on September 30 for calendar year taxpayers.
 
->     “(3) The maximum extension for the returns of employee benefit plans filing Form 5500 shall be an automatic 3½-month period ending on November 15 for calendar year plans.
+>     “\[(3) Repealed. [Pub. L. 114–94, div. C, title XXXII, § 32104(a)][/us/pl/114/94/s32104/a], Dec. 4, 2015, [129 Stat. 1738][/us/stat/129/1738]\]
 
 >     “(4) The maximum extension for the returns of organizations exempt from income tax filing Form 990 (series) shall be an automatic 6-month period ending on November 15 for calendar year filers.
 
@@ -82,6 +82,12 @@
 >     “(10) The due date of Form 3520, Annual Return to Report Transactions with Foreign Trusts and Receipt of Certain Foreign Gifts, for calendar year filers shall be April 15 with a maximum extension for a 6-month period ending on October 15.
 
 >     “(11) The due date of FinCEN Report 114 (relating to Report of Foreign Bank and Financial Accounts) shall be April 15 with a maximum extension for a 6-month period ending on October 15 and with provision for an extension under rules similar to the rules in Treas. Reg. section 1.6081–5. For any taxpayer required to file such Form for the first time, any penalty for failure to timely request for, or file, an extension, may be waived by the Secretary.”
+
+\[[Pub. L. 114–94, div. C, title XXXII, § 32104(b)][/us/pl/114/94/s32104/b], Dec. 4, 2015, [129 Stat. 1738][/us/stat/129/1738], provided that: 
+
+> “The amendment made by this section \[amending [section 2006(b) of Pub. L. 114–41][/us/pl/114/41/s2006/b], set out above\] shall apply to returns for taxable years beginning after December 31, 2015.”
+
+\]
 
 ----------
 
@@ -115,5 +121,12 @@
 [/us/usc/t26/s6655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6655
 [/us/pl/114/41/s2006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2006%2Fb
 [/us/stat/129/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F458
+[/us/pl/114/94/s32104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32104%2Fa
+[/us/stat/129/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1738
+[/us/pl/114/94/s32104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32104%2Fa
+[/us/stat/129/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1738
+[/us/pl/114/94/s32104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32104%2Fb
+[/us/stat/129/1738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1738
+[/us/pl/114/41/s2006/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2006%2Fb
 
 

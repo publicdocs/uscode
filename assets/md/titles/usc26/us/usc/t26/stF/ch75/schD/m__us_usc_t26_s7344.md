@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stF/ch75/schD/m__us_usc_t26_s7343.md) | [Next](./../../../../../..//us/usc/t26/stF/ch76/m__us_usc_t26_stF_ch76.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7344)
+[Previous](./../../../../../..//us/usc/t26/stF/ch75/schD/m__us_usc_t26_s7343.md) | [Next](./../../../../../..//us/usc/t26/stF/ch75/schD/m__us_usc_t26_s7345.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7344)
 
 ## § 7344. Extended application of penalties relating to officers of the Treasury Department
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stF/ch75/schD/m__us_usc_t26_s7343.md) | [Next](./../../../../../..//us/usc/t26/stF/ch76/m__us_usc_t26_stF_ch76.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7344)
+[Previous](./../../../../../..//us/usc/t26/stF/ch75/schD/m__us_usc_t26_s7343.md) | [Next](./../../../../../..//us/usc/t26/stF/ch75/schD/m__us_usc_t26_s7345.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7344)
 
 ----------
 ----------

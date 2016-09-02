@@ -37,7 +37,7 @@
 
         (1) __In general__ 
 
-            Except as provided in paragraphs (2) and (3), amounts in the Leaking Underground Storage Tank Trust Fund shall be available, as provided in appropriation Acts, only for purposes of making expenditures to carry out sections 9003(h), 9003(i), 9003(j), 9004(f), 9005(c), 9010, 9011, 9012, and 9013 of the Solid Waste Disposal Act as in effect on the date of the enactment of the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  [Public Law 109–168][/us/pl/109/168].
+            Except as provided in paragraphs (2), (3), and (4), amounts in the Leaking Underground Storage Tank Trust Fund shall be available, as provided in appropriation Acts, only for purposes of making expenditures to carry out sections 9003(h), 9003(i), 9003(j), 9004(f), 9005(c), 9010, 9011, 9012, and 9013 of the Solid Waste Disposal Act as in effect on the date of the enactment of the  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  [Public Law 109–168][/us/pl/109/168].
 
         (2) __Transfer to Highway Trust Fund__ 
 
@@ -46,6 +46,18 @@
         (3) __Additional transfer to Highway Trust Fund__ 
 
             Out of amounts in the Leaking Underground Storage Tank Trust Fund there is hereby appropriated $1,000,000,000 to be transferred under section 9503(f)(6) to the Highway Account (as defined in section 9503(e)(5)(B)) in the Highway Trust Fund.
+
+        (4) __Additional transfer to Highway Trust Fund__ 
+
+        Out of amounts in the Leaking Underground Storage Tank Trust Fund there is hereby appropriated—
+
+            (A) on the date of the enactment of the FAST Act, $100,000,000,
+
+            (B) on October 1, 2016, $100,000,000, and
+
+            (C) on October 1, 2017, $100,000,000,
+
+            to be transferred under section 9503(f)(9) to the Highway Account (as defined in section 9503(e)(5)(B)) in the Highway Trust Fund.
 
     (d) __Liability of the United States limited to amount in Trust Fund__ 
 
@@ -73,15 +85,17 @@
 
         (2) __Exception for prior obligations__ 
 
-            Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before December 5, 2015, in accordance with the provisions of this section.
+            Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2020, in accordance with the provisions of this section.
 
-(Added [Pub. L. 99–499, title V, § 522(a)][/us/pl/99/499/s522/a], Oct. 17, 1986, [100 Stat. 1780][/us/stat/100/1780]; amended [Pub. L. 100–203, title X, § 10502(d)(16)][/us/pl/100/203/s10502/d/16], (17), Dec. 22, 1987, [101 Stat. 1330–445][/us/stat/101/1330-445]; [Pub. L. 101–239, title VII, § 7822(b)(7)][/us/pl/101/239/s7822/b/7], Dec. 19, 1989, [103 Stat. 2425][/us/stat/103/2425]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13163(c), 13242(d)(42), Aug. 10, 1993, [107 Stat. 454][/us/stat/107/454], 528; [Pub. L. 105–34, title X, § 1032(e)(13)][/us/pl/105/34/s1032/e/13], Aug. 5, 1997, [111 Stat. 935][/us/stat/111/935]; [Pub. L. 108–357, title VIII, § 853(d)(2)(P)][/us/pl/108/357/s853/d/2/P], (Q), Oct. 22, 2004, [118 Stat. 1614][/us/stat/118/1614]; [Pub. L. 109–58, title XIII, § 1362(c)][/us/pl/109/58/s1362/c], Aug. 8, 2005, [119 Stat. 1059][/us/stat/119/1059]; [Pub. L. 109–59, title XI, § 11147(a)][/us/pl/109/59/s11147/a], Aug. 10, 2005, [119 Stat. 1967][/us/stat/119/1967]; [Pub. L. 109–432, div. A, title II, § 210(a)][/us/pl/109/432/s210/a], Dec. 20, 2006, [120 Stat. 2947][/us/stat/120/2947]; [Pub. L. 109–433, § 1(a)][/us/pl/109/433/s1/a], Dec. 20, 2006, [120 Stat. 3196][/us/stat/120/3196]; [Pub. L. 112–30, title I, § 141(c)][/us/pl/112/30/s141/c], Sept. 16, 2011, [125 Stat. 355][/us/stat/125/355]; [Pub. L. 112–102, title IV, § 401(c)][/us/pl/112/102/s401/c], Mar. 30, 2012, [126 Stat. 281][/us/stat/126/281]; [Pub. L. 112–140, title IV, § 401(c)][/us/pl/112/140/s401/c], June 29, 2012, [126 Stat. 402][/us/stat/126/402]; [Pub. L. 112–141, div. D, title I, § 40101(c)][/us/pl/112/141/s40101/c], title II, § 40201(a), July 6, 2012, [126 Stat. 844][/us/stat/126/844], 846; [Pub. L. 113–159, title II][/us/pl/113/159], §§ 2001(c), 2002(b), Aug. 8, 2014, [128 Stat. 1848][/us/stat/128/1848]; [Pub. L. 114–21, title II, § 2001(c)][/us/pl/114/21/s2001/c], May 29, 2015, [129 Stat. 226][/us/stat/129/226]; [Pub. L. 114–41, title II, § 2001(c)][/us/pl/114/41/s2001/c], July 31, 2015, [129 Stat. 454][/us/stat/129/454]; [Pub. L. 114–73, title II, § 2001(c)][/us/pl/114/73/s2001/c], Oct. 29, 2015, [129 Stat. 583][/us/stat/129/583]; [Pub. L. 114–87, title II, § 2001(c)][/us/pl/114/87/s2001/c], Nov. 20, 2015, [129 Stat. 685][/us/stat/129/685].)
+(Added [Pub. L. 99–499, title V, § 522(a)][/us/pl/99/499/s522/a], Oct. 17, 1986, [100 Stat. 1780][/us/stat/100/1780]; amended [Pub. L. 100–203, title X, § 10502(d)(16)][/us/pl/100/203/s10502/d/16], (17), Dec. 22, 1987, [101 Stat. 1330–445][/us/stat/101/1330-445]; [Pub. L. 101–239, title VII, § 7822(b)(7)][/us/pl/101/239/s7822/b/7], Dec. 19, 1989, [103 Stat. 2425][/us/stat/103/2425]; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13163(c), 13242(d)(42), Aug. 10, 1993, [107 Stat. 454][/us/stat/107/454], 528; [Pub. L. 105–34, title X, § 1032(e)(13)][/us/pl/105/34/s1032/e/13], Aug. 5, 1997, [111 Stat. 935][/us/stat/111/935]; [Pub. L. 108–357, title VIII, § 853(d)(2)(P)][/us/pl/108/357/s853/d/2/P], (Q), Oct. 22, 2004, [118 Stat. 1614][/us/stat/118/1614]; [Pub. L. 109–58, title XIII, § 1362(c)][/us/pl/109/58/s1362/c], Aug. 8, 2005, [119 Stat. 1059][/us/stat/119/1059]; [Pub. L. 109–59, title XI, § 11147(a)][/us/pl/109/59/s11147/a], Aug. 10, 2005, [119 Stat. 1967][/us/stat/119/1967]; [Pub. L. 109–432, div. A, title II, § 210(a)][/us/pl/109/432/s210/a], Dec. 20, 2006, [120 Stat. 2947][/us/stat/120/2947]; [Pub. L. 109–433, § 1(a)][/us/pl/109/433/s1/a], Dec. 20, 2006, [120 Stat. 3196][/us/stat/120/3196]; [Pub. L. 112–30, title I, § 141(c)][/us/pl/112/30/s141/c], Sept. 16, 2011, [125 Stat. 355][/us/stat/125/355]; [Pub. L. 112–102, title IV, § 401(c)][/us/pl/112/102/s401/c], Mar. 30, 2012, [126 Stat. 281][/us/stat/126/281]; [Pub. L. 112–140, title IV, § 401(c)][/us/pl/112/140/s401/c], June 29, 2012, [126 Stat. 402][/us/stat/126/402]; [Pub. L. 112–141, div. D, title I, § 40101(c)][/us/pl/112/141/s40101/c], title II, § 40201(a), July 6, 2012, [126 Stat. 844][/us/stat/126/844], 846; [Pub. L. 113–159, title II][/us/pl/113/159], §§ 2001(c), 2002(b), Aug. 8, 2014, [128 Stat. 1848][/us/stat/128/1848]; [Pub. L. 114–21, title II, § 2001(c)][/us/pl/114/21/s2001/c], May 29, 2015, [129 Stat. 226][/us/stat/129/226]; [Pub. L. 114–41, title II, § 2001(c)][/us/pl/114/41/s2001/c], July 31, 2015, [129 Stat. 454][/us/stat/129/454]; [Pub. L. 114–73, title II, § 2001(c)][/us/pl/114/73/s2001/c], Oct. 29, 2015, [129 Stat. 583][/us/stat/129/583]; [Pub. L. 114–87, title II, § 2001(c)][/us/pl/114/87/s2001/c], Nov. 20, 2015, [129 Stat. 685][/us/stat/129/685]; [Pub. L. 114–94, div. C, title XXXI][/us/pl/114/94], §§ 31101(c), 31203, Dec. 4, 2015, [129 Stat. 1727][/us/stat/129/1727], 1729.)
 
  __References in Text__ 
 
-    Sections 9003 to 9005 and 9010 to 9013 of the Solid Waste Disposal Act, referred to in subsecs. (b)(4) and (c), are classified to sections 6991b to 6991d and 6991i to 6991l, respectively, of Title 42, The Public Health and Welfare.
+    Sections 9003 to 9005 and 9010 to 9013 of the Solid Waste Disposal Act, referred to in subsecs. (b)(4) and (c)(1), are classified to sections 6991b to 6991d and 6991i to 6991l, respectively, of Title 42, The Public Health and Welfare.
 
-    The date of the enactment of [Public Law 109–168][/us/pl/109/168], referred to in subsec. (c), is Jan. 10, 2006.
+    The date of the enactment of [Public Law 109–168][/us/pl/109/168], referred to in subsec. (c)(1), is Jan. 10, 2006.
+
+    The date of the enactment of the FAST Act, referred to in subsec. (c)(4)(A), is the date of enactment of [Pub. L. 114–94][/us/pl/114/94], which was approved Dec. 4, 2015.
 
     The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (d)(2), is [Pub. L. 96–510][/us/pl/96/510], Dec. 11, 1980, [94 Stat. 2767][/us/stat/94/2767], as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42][/us/usc/t42/s9601] and Tables.
 
@@ -89,7 +103,13 @@
 
  __Amendments__ 
 
-    2015—Subsec. (e)(2). [Pub. L. 114–87][/us/pl/114/87] substituted “December 5, 2015” for “November 21, 2015”.
+    2015—Subsec. (c)(1). [Pub. L. 114–94, § 31203(b)][/us/pl/114/94/s31203/b], substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
+
+    Subsec. (c)(4). [Pub. L. 114–94, § 31203(a)][/us/pl/114/94/s31203/a], added par. (4).
+
+    Subsec. (e)(2). [Pub. L. 114–94, § 31101(c)][/us/pl/114/94/s31101/c], substituted “October 1, 2020” for “December 5, 2015”.
+
+    [Pub. L. 114–87][/us/pl/114/87] substituted “December 5, 2015” for “November 21, 2015”.
 
     [Pub. L. 114–73][/us/pl/114/73] substituted “November 21, 2015” for “October 30, 2015”.
 
@@ -253,13 +273,19 @@
 [/us/stat/129/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F583
 [/us/pl/114/87/s2001/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs2001%2Fc
 [/us/stat/129/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F685
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1727
 [/us/pl/109/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F168
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/96/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F510
 [/us/stat/94/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2767
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/stat/100/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1613
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
+[/us/pl/114/94/s31203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31203%2Fb
+[/us/pl/114/94/s31203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31203%2Fa
+[/us/pl/114/94/s31101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31101%2Fc
 [/us/pl/114/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87
 [/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
 [/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41

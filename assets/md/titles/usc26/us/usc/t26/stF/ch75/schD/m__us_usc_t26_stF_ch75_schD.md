@@ -55,7 +55,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2Fs7345" data-uslm-ref="/us/usc/t26/s7345">7345.</a>  </td>
+
+    <td> Revocation or denial of passport in case of certain tax delinquencies.  </td>
+
+  </tr>
+
 </table>
+
+ __Amendments__ 
+
+    2015—[Pub. L. 114–94, div. C, title XXXII, § 32101(h)][/us/pl/114/94/s32101/h], Dec. 4, 2015, [129 Stat. 1733][/us/stat/129/1733], added item 7345.
 
 ----------
 
@@ -64,5 +76,7 @@
 ----------
 ----------
 
+[/us/pl/114/94/s32101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32101%2Fh
+[/us/stat/129/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1733
 
 

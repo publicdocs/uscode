@@ -65,7 +65,19 @@
 
         (5) __Certain penalties__ 
 
-            There are hereby appropriated to the Highway Trust Fund amounts equivalent to the penalties paid under sections 6715, 6715A, 6717, 6718, 6719, 6720A, 6725, 7232, and 7272 (but only with regard to penalties under such section related to failure to register under section 4101).
+            (A) __In general__ 
+
+                There are hereby appropriated to the Highway Trust Fund amounts equivalent to the penalties paid under sections 6715, 6715A, 6717, 6718, 6719, 6720A, 6725, 7232, and 7272 (but only with regard to penalties under such section related to failure to register under section 4101).
+
+            (B) __Penalties related to motor vehicle safety__ 
+
+                (i) __In general__ 
+
+                    There are hereby appropriated to the Highway Trust Fund amounts equivalent to covered motor vehicle safety penalty collections.
+
+                (ii) __Covered motor vehicle safety penalty collections__ 
+
+                    For purposes of this subparagraph, the term “covered motor vehicle safety penalty collections” means any amount collected in connection with a civil penalty under [section 30165 of title 49][/us/usc/t49/s30165], United States Code, reduced by any award authorized by the Secretary of Transportation to be paid to any person in connection with information provided by such person related to a violation of chapter 301 of such title which is a predicate to such civil penalty.
 
         (6) __Limitation on transfers to Highway Trust Fund__ 
 
@@ -79,13 +91,13 @@
 
             (B) __Exception for prior obligations__ 
 
-                Subparagraph (A) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before December 5, 2015, in accordance with the provisions of this section.
+                Subparagraph (A) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2020, in accordance with the provisions of this section.
 
     (c) __Expenditures from Highway Trust Fund__ 
 
         (1) __Federal-aid highway program__ 
 
-            Except as provided in subsection (e), amounts in the Highway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before December 5, 2015, to meet those obligations of the United States heretofore or hereafter incurred which are authorized to be paid out of the Highway Trust Fund under the Surface Transportation Extension Act of 2015, Part II or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
+            Except as provided in subsection (e), amounts in the Highway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before October 1, 2020, to meet those obligations of the United States heretofore or hereafter incurred which are authorized to be paid out of the Highway Trust Fund under the FAST Act or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
 
         (2) __Floor stocks refunds__ 
 
@@ -233,7 +245,7 @@
 
         (3) __Expenditures from Account__ 
 
-            Amounts in the Mass Transit Account shall be available, as provided by appropriation Acts, for making capital or capital related expenditures (including capital expenditures for new projects) before December 5, 2015, in accordance with the Surface Transportation Extension Act of 2015, Part II or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
+            Amounts in the Mass Transit Account shall be available, as provided by appropriation Acts, for making capital or capital related expenditures (including capital expenditures for new projects) before October 1, 2020, in accordance with the FAST Act or any other provision of law which was referred to in this paragraph before the date of the enactment of such Act (as such Act and provisions of law are in effect on the date of the enactment of such Act).
 
         (4) __Limitation__ 
 
@@ -301,19 +313,53 @@
 
             (B) $2,000,000,000 to the Mass Transit Account in the Highway Trust Fund.
 
-        (8) __Treatment of amounts__ 
+        (8) __Further transfers to trust fund__ 
+
+        Out of money in the Treasury not otherwise appropriated, there is hereby appropriated—
+
+            (A) $51,900,000,000 to the Highway Account (as defined in subsection (e)(5)(B)) in the Highway Trust Fund; and
+
+            (B) $18,100,000,000 to the Mass Transit Account in the Highway Trust Fund.
+
+        (9) __Additional increase in fund balance__ 
+
+            There is hereby transferred to the Highway Account (as defined in subsection (e)(5)(B)) in the Highway Trust Fund amounts appropriated from the Leaking Underground Storage Tank Trust Fund under section 9508(c)(4).
+
+        (10) __Treatment of amounts__ 
 
             Any amount appropriated or transferred under this subsection to the Highway Trust Fund shall remain available without fiscal year limitation.
 
-(Added [Pub. L. 97–424, title V, § 531(a)][/us/pl/97/424/s531/a], Jan. 6, 1983, [96 Stat. 2187][/us/stat/96/2187]; amended [Pub. L. 98–369, div. A, title IV, § 474(r)(43)][/us/pl/98/369/s474/r/43], title IX, § 911(d)(1), title X, § 1016(b), July 18, 1984, [98 Stat. 847][/us/stat/98/847], 1006, 1020; [Pub. L. 99–499, title V, § 521(b)(1)][/us/pl/99/499/s521/b/1], Oct. 17, 1986, [100 Stat. 1777][/us/stat/100/1777]; [Pub. L. 99–640, § 7(a)][/us/pl/99/640/s7/a], Nov. 10, 1986, [100 Stat. 3547][/us/stat/100/3547]; [Pub. L. 100–17, title V][/us/pl/100/17], §§ 503(a), (b), 504, Apr. 2, 1987, [101 Stat. 257][/us/stat/101/257], 258; [Pub. L. 100–203, title X, § 10502(d)(13)][/us/pl/100/203/s10502/d/13]–(15), Dec. 22, 1987, [101 Stat. 1330–444][/us/stat/101/1330-444], 1330–445; [Pub. L. 100–448, § 6(a)(1)][/us/pl/100/448/s6/a/1], (3), Sept. 28, 1988, [102 Stat. 1839][/us/stat/102/1839]; [Pub. L. 101–239, title VII, § 7822(b)(6)][/us/pl/101/239/s7822/b/6], Dec. 19, 1989, [103 Stat. 2425][/us/stat/103/2425]; [Pub. L. 101–508, title XI, § 11211(a)(5)(D)][/us/pl/101/508/s11211/a/5/D]–(F), (b)(6)(H), (g)(1), (h)(1), (i)(1), Nov. 5, 1990, [104 Stat. 1388–424][/us/stat/104/1388-424], 1388–426, 1388–427; [Pub. L. 102–240, title VIII][/us/pl/102/240], §§ 8002(d)(1), (2)(A), (e), (f), 8003(b), Dec. 18, 1991, [105 Stat. 2204][/us/stat/105/2204], 2205; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13242(d)(34)–(41), 13244(a), Aug. 10, 1993, [107 Stat. 527][/us/stat/107/527], 529; [Pub. L. 103–429, § 4][/us/pl/103/429/s4], Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 105–34, title IX, § 901(a)][/us/pl/105/34/s901/a]–(d), title X, § 1032(e)(13), (14), title XVI, § 1601(f)(2), Aug. 5, 1997, [111 Stat. 871][/us/stat/111/871], 872, 935, 1090; [Pub. L. 105–102, § 1][/us/pl/105/102/s1], Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204]; [Pub. L. 105–130, § 9(a)][/us/pl/105/130/s9/a], Dec. 1, 1997, [111 Stat. 2560][/us/stat/111/2560]; [Pub. L. 105–178, title IX][/us/pl/105/178], §§ 9002(c)(1), (2)(A), (3)–(e)(1), (f), 9004(a)(1), (b)(1), (c), (d), 9005(a), 9011(b)(1), (2), June 9, 1998, [112 Stat. 500][/us/stat/112/500], 501, 503, 504, 508; [Pub. L. 105–206, title IX, § 9015(a)][/us/pl/105/206/s9015/a], July 22, 1998, [112 Stat. 867][/us/stat/112/867]; [Pub. L. 105–225, § 7(a)][/us/pl/105/225/s7/a], Aug. 12, 1998, [112 Stat. 1511][/us/stat/112/1511]; [Pub. L. 105–277, div. A, title IV, § 4006(b)(1)][/us/pl/105/277/s4006/b/1], Oct. 21, 1998, [112 Stat. 2681–912][/us/stat/112/2681-912]; [Pub. L. 105–354, § 2(c)(2)][/us/pl/105/354/s2/c/2], Nov. 3, 1998, [112 Stat. 3244][/us/stat/112/3244]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 318(e)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–645; [Pub. L. 108–88, § 12(a)][/us/pl/108/88/s12/a], Sept. 30, 2003, [117 Stat. 1128][/us/stat/117/1128]; [Pub. L. 108–202, § 12(a)][/us/pl/108/202/s12/a], Feb. 29, 2004, [118 Stat. 491][/us/stat/118/491]; [Pub. L. 108–224, § 10(a)][/us/pl/108/224/s10/a], Apr. 30, 2004, [118 Stat. 638][/us/stat/118/638]; [Pub. L. 108–263, § 10(a)][/us/pl/108/263/s10/a], June 30, 2004, [118 Stat. 710][/us/stat/118/710]; [Pub. L. 108–280, § 10(a)(1)][/us/pl/108/280/s10/a/1]–(3), July 30, 2004, [118 Stat. 887][/us/stat/118/887]; [Pub. L. 108–310, § 13(a)(1)][/us/pl/108/310/s13/a/1]–(3), (c), Sept. 30, 2004, [118 Stat. 1163][/us/stat/118/1163], 1164; [Pub. L. 108–357, title III, § 301(c)(11)][/us/pl/108/357/s301/c/11]–(13), title VIII, § 868(a), (b), Oct. 22, 2004, [118 Stat. 1462][/us/stat/118/1462], 1463, 1622; [Pub. L. 109–14, § 9(a)][/us/pl/109/14/s9/a], May 31, 2005, [119 Stat. 335][/us/stat/119/335]; [Pub. L. 109–20, § 9(a)][/us/pl/109/20/s9/a], July 1, 2005, [119 Stat. 357][/us/stat/119/357]; [Pub. L. 109–35, § 9(a)][/us/pl/109/35/s9/a], July 20, 2005, [119 Stat. 390][/us/stat/119/390]; [Pub. L. 109–37, § 9(a)][/us/pl/109/37/s9/a], July 22, 2005, [119 Stat. 405][/us/stat/119/405]; [Pub. L. 109–40, § 9(a)][/us/pl/109/40/s9/a], July 28, 2005, [119 Stat. 421][/us/stat/119/421]; [Pub. L. 109–42, § 7(a)][/us/pl/109/42/s7/a], (d)(1), July 30, 2005, [119 Stat. 436][/us/stat/119/436], 438; [Pub. L. 109–59, title XI][/us/pl/109/59], §§ 11101(c)(1), (2)(A), (d)(1), 11102(a), (b), 11115(a), 11161(c)(1), (2)(C), 11167(b), Aug. 10, 2005, [119 Stat. 1944][/us/stat/119/1944], 1945, 1949, 1972, 1977; [Pub. L. 109–432, div. A, title IV, § 420(b)(6)][/us/pl/109/432/s420/b/6], Dec. 20, 2006, [120 Stat. 2969][/us/stat/120/2969]; [Pub. L. 110–172, § 11(a)(44)][/us/pl/110/172/s11/a/44], Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488]; [Pub. L. 110–244, title I, § 121(c)][/us/pl/110/244/s121/c], June 6, 2008, [122 Stat. 1608][/us/stat/122/1608]; [Pub. L. 110–318, § 1(a)][/us/pl/110/318/s1/a], (b), Sept. 15, 2008, [122 Stat. 3532][/us/stat/122/3532]; [Pub. L. 111–46, § 1][/us/pl/111/46/s1], Aug. 7, 2009, [123 Stat. 1970][/us/stat/123/1970]; [Pub. L. 111–68, div. B, § 159(a)(2)][/us/pl/111/68/s159/a/2], (b)(2), Oct. 1, 2009, [123 Stat. 2052][/us/stat/123/2052]; [Pub. L. 111–88, div. B, § 103][/us/pl/111/88/s103], Oct. 30, 2009, [123 Stat. 2972][/us/stat/123/2972]; [Pub. L. 111–147, title IV][/us/pl/111/147], §§ 441(a), (b), 442(a), (b), 443(a), 444(a), (b)(2)–(4), 445(a), Mar. 18, 2010, [124 Stat. 93][/us/stat/124/93], 94; [Pub. L. 111–322, title II, § 2401(a)][/us/pl/111/322/s2401/a], Dec. 22, 2010, [124 Stat. 3531][/us/stat/124/3531]; [Pub. L. 112–5, title IV, § 401(a)][/us/pl/112/5/s401/a], Mar. 4, 2011, [125 Stat. 22][/us/stat/125/22]; [Pub. L. 112–30, title I][/us/pl/112/30], §§ 141(a), 142(e)(1), (2)(A), Sept. 16, 2011, [125 Stat. 355][/us/stat/125/355], 356; [Pub. L. 112–102, title IV][/us/pl/112/102], §§ 401(a), 402(e)(1), (2)(A), Mar. 30, 2012, [126 Stat. 281][/us/stat/126/281], 282; [Pub. L. 112–140, title IV][/us/pl/112/140], §§ 401(a), 402(d)(1), (2)(A), June 29, 2012, [126 Stat. 402][/us/stat/126/402], 403; [Pub. L. 112–141, div. D, title I][/us/pl/112/141], §§ 40101(a), 40102(e)(1), (2)(A), title II, §§ 40201(b), 40251, July 6, 2012, [126 Stat. 844–846][/us/stat/126/844-846], 864; [Pub. L. 113–159, title II][/us/pl/113/159], §§ 2001(a), 2002(a), Aug. 8, 2014, [128 Stat. 1848][/us/stat/128/1848]; [Pub. L. 113–287, § 5(h)][/us/pl/113/287/s5/h], Dec. 19, 2014, [128 Stat. 3269][/us/stat/128/3269]; [Pub. L. 113–295, div. A, title II, § 217(a)][/us/pl/113/295/s217/a], Dec. 19, 2014, [128 Stat. 4035][/us/stat/128/4035]; [Pub. L. 114–21, title II, § 2001(a)][/us/pl/114/21/s2001/a], May 29, 2015, [129 Stat. 226][/us/stat/129/226]; [Pub. L. 114–41, title II][/us/pl/114/41], §§ 2001(a), 2002, July 31, 2015, [129 Stat. 453][/us/stat/129/453], 454; [Pub. L. 114–73, title II, § 2001(a)][/us/pl/114/73/s2001/a], Oct. 29, 2015, [129 Stat. 582][/us/stat/129/582]; [Pub. L. 114–87, title II, § 2001(a)][/us/pl/114/87/s2001/a], Nov. 20, 2015, [129 Stat. 685][/us/stat/129/685].)
+(Added [Pub. L. 97–424, title V, § 531(a)][/us/pl/97/424/s531/a], Jan. 6, 1983, [96 Stat. 2187][/us/stat/96/2187]; amended [Pub. L. 98–369, div. A, title IV, § 474(r)(43)][/us/pl/98/369/s474/r/43], title IX, § 911(d)(1), title X, § 1016(b), July 18, 1984, [98 Stat. 847][/us/stat/98/847], 1006, 1020; [Pub. L. 99–499, title V, § 521(b)(1)][/us/pl/99/499/s521/b/1], Oct. 17, 1986, [100 Stat. 1777][/us/stat/100/1777]; [Pub. L. 99–640, § 7(a)][/us/pl/99/640/s7/a], Nov. 10, 1986, [100 Stat. 3547][/us/stat/100/3547]; [Pub. L. 100–17, title V][/us/pl/100/17], §§ 503(a), (b), 504, Apr. 2, 1987, [101 Stat. 257][/us/stat/101/257], 258; [Pub. L. 100–203, title X, § 10502(d)(13)][/us/pl/100/203/s10502/d/13]–(15), Dec. 22, 1987, [101 Stat. 1330–444][/us/stat/101/1330-444], 1330–445; [Pub. L. 100–448, § 6(a)(1)][/us/pl/100/448/s6/a/1], (3), Sept. 28, 1988, [102 Stat. 1839][/us/stat/102/1839]; [Pub. L. 101–239, title VII, § 7822(b)(6)][/us/pl/101/239/s7822/b/6], Dec. 19, 1989, [103 Stat. 2425][/us/stat/103/2425]; [Pub. L. 101–508, title XI, § 11211(a)(5)(D)][/us/pl/101/508/s11211/a/5/D]–(F), (b)(6)(H), (g)(1), (h)(1), (i)(1), Nov. 5, 1990, [104 Stat. 1388–424][/us/stat/104/1388-424], 1388–426, 1388–427; [Pub. L. 102–240, title VIII][/us/pl/102/240], §§ 8002(d)(1), (2)(A), (e), (f), 8003(b), Dec. 18, 1991, [105 Stat. 2204][/us/stat/105/2204], 2205; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13242(d)(34)–(41), 13244(a), Aug. 10, 1993, [107 Stat. 527][/us/stat/107/527], 529; [Pub. L. 103–429, § 4][/us/pl/103/429/s4], Oct. 31, 1994, [108 Stat. 4378][/us/stat/108/4378]; [Pub. L. 105–34, title IX, § 901(a)][/us/pl/105/34/s901/a]–(d), title X, § 1032(e)(13), (14), title XVI, § 1601(f)(2), Aug. 5, 1997, [111 Stat. 871][/us/stat/111/871], 872, 935, 1090; [Pub. L. 105–102, § 1][/us/pl/105/102/s1], Nov. 20, 1997, [111 Stat. 2204][/us/stat/111/2204]; [Pub. L. 105–130, § 9(a)][/us/pl/105/130/s9/a], Dec. 1, 1997, [111 Stat. 2560][/us/stat/111/2560]; [Pub. L. 105–178, title IX][/us/pl/105/178], §§ 9002(c)(1), (2)(A), (3)–(e)(1), (f), 9004(a)(1), (b)(1), (c), (d), 9005(a), 9011(b)(1), (2), June 9, 1998, [112 Stat. 500][/us/stat/112/500], 501, 503, 504, 508; [Pub. L. 105–206, title IX, § 9015(a)][/us/pl/105/206/s9015/a], July 22, 1998, [112 Stat. 867][/us/stat/112/867]; [Pub. L. 105–225, § 7(a)][/us/pl/105/225/s7/a], Aug. 12, 1998, [112 Stat. 1511][/us/stat/112/1511]; [Pub. L. 105–277, div. A, title IV, § 4006(b)(1)][/us/pl/105/277/s4006/b/1], Oct. 21, 1998, [112 Stat. 2681–912][/us/stat/112/2681-912]; [Pub. L. 105–354, § 2(c)(2)][/us/pl/105/354/s2/c/2], Nov. 3, 1998, [112 Stat. 3244][/us/stat/112/3244]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 318(e)(1)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–645; [Pub. L. 108–88, § 12(a)][/us/pl/108/88/s12/a], Sept. 30, 2003, [117 Stat. 1128][/us/stat/117/1128]; [Pub. L. 108–202, § 12(a)][/us/pl/108/202/s12/a], Feb. 29, 2004, [118 Stat. 491][/us/stat/118/491]; [Pub. L. 108–224, § 10(a)][/us/pl/108/224/s10/a], Apr. 30, 2004, [118 Stat. 638][/us/stat/118/638]; [Pub. L. 108–263, § 10(a)][/us/pl/108/263/s10/a], June 30, 2004, [118 Stat. 710][/us/stat/118/710]; [Pub. L. 108–280, § 10(a)(1)][/us/pl/108/280/s10/a/1]–(3), July 30, 2004, [118 Stat. 887][/us/stat/118/887]; [Pub. L. 108–310, § 13(a)(1)][/us/pl/108/310/s13/a/1]–(3), (c), Sept. 30, 2004, [118 Stat. 1163][/us/stat/118/1163], 1164; [Pub. L. 108–357, title III, § 301(c)(11)][/us/pl/108/357/s301/c/11]–(13), title VIII, § 868(a), (b), Oct. 22, 2004, [118 Stat. 1462][/us/stat/118/1462], 1463, 1622; [Pub. L. 109–14, § 9(a)][/us/pl/109/14/s9/a], May 31, 2005, [119 Stat. 335][/us/stat/119/335]; [Pub. L. 109–20, § 9(a)][/us/pl/109/20/s9/a], July 1, 2005, [119 Stat. 357][/us/stat/119/357]; [Pub. L. 109–35, § 9(a)][/us/pl/109/35/s9/a], July 20, 2005, [119 Stat. 390][/us/stat/119/390]; [Pub. L. 109–37, § 9(a)][/us/pl/109/37/s9/a], July 22, 2005, [119 Stat. 405][/us/stat/119/405]; [Pub. L. 109–40, § 9(a)][/us/pl/109/40/s9/a], July 28, 2005, [119 Stat. 421][/us/stat/119/421]; [Pub. L. 109–42, § 7(a)][/us/pl/109/42/s7/a], (d)(1), July 30, 2005, [119 Stat. 436][/us/stat/119/436], 438; [Pub. L. 109–59, title XI][/us/pl/109/59], §§ 11101(c)(1), (2)(A), (d)(1), 11102(a), (b), 11115(a), 11161(c)(1), (2)(C), 11167(b), Aug. 10, 2005, [119 Stat. 1944][/us/stat/119/1944], 1945, 1949, 1972, 1977; [Pub. L. 109–432, div. A, title IV, § 420(b)(6)][/us/pl/109/432/s420/b/6], Dec. 20, 2006, [120 Stat. 2969][/us/stat/120/2969]; [Pub. L. 110–172, § 11(a)(44)][/us/pl/110/172/s11/a/44], Dec. 29, 2007, [121 Stat. 2488][/us/stat/121/2488]; [Pub. L. 110–244, title I, § 121(c)][/us/pl/110/244/s121/c], June 6, 2008, [122 Stat. 1608][/us/stat/122/1608]; [Pub. L. 110–318, § 1(a)][/us/pl/110/318/s1/a], (b), Sept. 15, 2008, [122 Stat. 3532][/us/stat/122/3532]; [Pub. L. 111–46, § 1][/us/pl/111/46/s1], Aug. 7, 2009, [123 Stat. 1970][/us/stat/123/1970]; [Pub. L. 111–68, div. B, § 159(a)(2)][/us/pl/111/68/s159/a/2], (b)(2), Oct. 1, 2009, [123 Stat. 2052][/us/stat/123/2052]; [Pub. L. 111–88, div. B, § 103][/us/pl/111/88/s103], Oct. 30, 2009, [123 Stat. 2972][/us/stat/123/2972]; [Pub. L. 111–147, title IV][/us/pl/111/147], §§ 441(a), (b), 442(a), (b), 443(a), 444(a), (b)(2)–(4), 445(a), Mar. 18, 2010, [124 Stat. 93][/us/stat/124/93], 94; [Pub. L. 111–322, title II, § 2401(a)][/us/pl/111/322/s2401/a], Dec. 22, 2010, [124 Stat. 3531][/us/stat/124/3531]; [Pub. L. 112–5, title IV, § 401(a)][/us/pl/112/5/s401/a], Mar. 4, 2011, [125 Stat. 22][/us/stat/125/22]; [Pub. L. 112–30, title I][/us/pl/112/30], §§ 141(a), 142(e)(1), (2)(A), Sept. 16, 2011, [125 Stat. 355][/us/stat/125/355], 356; [Pub. L. 112–102, title IV][/us/pl/112/102], §§ 401(a), 402(e)(1), (2)(A), Mar. 30, 2012, [126 Stat. 281][/us/stat/126/281], 282; [Pub. L. 112–140, title IV][/us/pl/112/140], §§ 401(a), 402(d)(1), (2)(A), June 29, 2012, [126 Stat. 402][/us/stat/126/402], 403; [Pub. L. 112–141, div. D, title I][/us/pl/112/141], §§ 40101(a), 40102(e)(1), (2)(A), title II, §§ 40201(b), 40251, July 6, 2012, [126 Stat. 844–846][/us/stat/126/844-846], 864; [Pub. L. 113–159, title II][/us/pl/113/159], §§ 2001(a), 2002(a), Aug. 8, 2014, [128 Stat. 1848][/us/stat/128/1848]; [Pub. L. 113–287, § 5(h)][/us/pl/113/287/s5/h], Dec. 19, 2014, [128 Stat. 3269][/us/stat/128/3269]; [Pub. L. 113–295, div. A, title II, § 217(a)][/us/pl/113/295/s217/a], Dec. 19, 2014, [128 Stat. 4035][/us/stat/128/4035]; [Pub. L. 114–21, title II, § 2001(a)][/us/pl/114/21/s2001/a], May 29, 2015, [129 Stat. 226][/us/stat/129/226]; [Pub. L. 114–41, title II][/us/pl/114/41], §§ 2001(a), 2002, July 31, 2015, [129 Stat. 453][/us/stat/129/453], 454; [Pub. L. 114–73, title II, § 2001(a)][/us/pl/114/73/s2001/a], Oct. 29, 2015, [129 Stat. 582][/us/stat/129/582]; [Pub. L. 114–87, title II, § 2001(a)][/us/pl/114/87/s2001/a], Nov. 20, 2015, [129 Stat. 685][/us/stat/129/685]; [Pub. L. 114–94, div. C, title XXXI][/us/pl/114/94], §§ 31101(a), 31102(e)(1), (2)(A), 31201, 31202(a), Dec. 4, 2015, [129 Stat. 1726–1728][/us/stat/129/1726-1728].)
+
+ __Amendment of Subsections (b) and (c)__ 
+
+[Pub. L. 114–94, div. C, title XXXI, § 31102(e)(1)][/us/pl/114/94/s31102/e/1], (2)(A), (f), Dec. 4, 2015, [129 Stat. 1727][/us/stat/129/1727], 1728, provided that, effective Oct. 1, 2016, this section is amended:
+
+    (1) in subsection (b)—
+
+    (A) by striking “October 1, 2016” each place it appears in paragraphs (1) and (2) and inserting “October 1, 2022”;
+
+    (B) by striking “October 1, 2016” in the heading of paragraph (2) and inserting “October 1, 2022”;
+
+    (C) by striking “September 30, 2016” in paragraph (2) and inserting “September 30, 2022”; and
+
+    (D) by striking “July 1, 2017” in paragraph (2) and inserting “July 1, 2023”; and
+
+    (2) in subsection (c)—
+
+    (A) by striking “July 1, 2017” and inserting “July 1, 2023” in paragraph (2); and
+
+    (B) by striking “October 1, 2016” and inserting “October 1, 2022” in paragraphs (3)(A)(i) and (4)(A).
+
+    See 2015 Amendment notes below.
 
  __References in Text__ 
 
-    The Surface Transportation Extension Act of 2015, Part II, referred to in subsecs. (c)(1) and (e)(3), is [Pub. L. 114–87][/us/pl/114/87], Nov. 20, 2015, [129 Stat. 677][/us/stat/129/677]. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 101 of Title 23][/us/usc/t23/s101], Highways, and Tables.
+    The FAST Act, referred to in subsecs. (c)(1) and (e)(3), is [Pub. L. 114–94][/us/pl/114/94], Dec. 4, 2015, [129 Stat. 1312][/us/stat/129/1312], also known as the Fixing America’s Surface Transportation Act. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 101 of Title 23][/us/usc/t23/s101], Highways, and Tables.
 
-The provisions of law referred to in this paragraph before the date of the enactment of such Act, referred to in subsec. (c)(1), means the provisions of law referred to in subsec. (c)(1) before the date of enactment of the Surface Transportation Extension Act of 2015, Part II ([Pub. L. 114–87][/us/pl/114/87]), which was approved Nov. 20, 2015. Those provisions are section 209 of the Highway Revenue Act of 1956, titles I and II of the Surface Transportation Assistance Act of 1982, the Surface Transportation and Uniform Relocation Assistance Act of 1987, the Intermodal Surface Transportation Efficiency Act of 1991, the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2003, the Surface Transportation Extension Act of 2004, the Surface Transportation Extension Act of 2004, Part II, the Surface Transportation Extension Act of 2004, Part III, the Surface Transportation Extension Act of 2004, Part IV, the Surface Transportation Extension Act of 2004, Part V, the Surface Transportation Extension Act of 2005, the Surface Transportation Extension Act of 2005, Part II, the Surface Transportation Extension Act of 2005, Part III, the Surface Transportation Extension Act of 2005, Part IV, the Surface Transportation Extension Act of 2005, Part V, the Surface Transportation Extension Act of 2005, Part VI, the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, the SAFETEA–LU Technical Corrections Act of 2008, the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, the Surface Transportation Extension Act of 2010, the Surface Transportation Extension Act of 2010, Part II, the Surface Transportation Extension Act of 2011, the Surface Transportation Extension Act of 2011, Part II, the Surface Transportation Extension Act of 2012, the Temporary Surface Transportation Extension Act of 2012, the MAP–21, the Highway and Transportation Funding Act of 2014, the Highway and Transportation Funding Act of 2015, the Surface Transportation and Veterans Health Care Choice Improvement Act of 2015, and the Surface Transportation Extension Act of 2015. See notes below.
+The provisions of law referred to in this paragraph before the date of the enactment of such Act, referred to in subsec. (c)(1), means the provisions of law referred to in subsec. (c)(1) before the date of enactment of the FAST Act ([Pub. L. 114–94][/us/pl/114/94]), which was approved Dec. 4, 2015. Those provisions are section 209 of the Highway Revenue Act of 1956, titles I and II of the Surface Transportation Assistance Act of 1982, the Surface Transportation and Uniform Relocation Assistance Act of 1987, the Intermodal Surface Transportation Efficiency Act of 1991, the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2003, the Surface Transportation Extension Act of 2004, the Surface Transportation Extension Act of 2004, Part II, the Surface Transportation Extension Act of 2004, Part III, the Surface Transportation Extension Act of 2004, Part IV, the Surface Transportation Extension Act of 2004, Part V, the Surface Transportation Extension Act of 2005, the Surface Transportation Extension Act of 2005, Part II, the Surface Transportation Extension Act of 2005, Part III, the Surface Transportation Extension Act of 2005, Part IV, the Surface Transportation Extension Act of 2005, Part V, the Surface Transportation Extension Act of 2005, Part VI, the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, the SAFETEA–LU Technical Corrections Act of 2008, the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, the Surface Transportation Extension Act of 2010, the Surface Transportation Extension Act of 2010, Part II, the Surface Transportation Extension Act of 2011, the Surface Transportation Extension Act of 2011, Part II, the Surface Transportation Extension Act of 2012, the Temporary Surface Transportation Extension Act of 2012, the MAP–21, the Highway and Transportation Funding Act of 2014, the Highway and Transportation Funding Act of 2015, the Surface Transportation and Veterans Health Care Choice Improvement Act of 2015, the Surface Transportation Extension Act of 2015, and the Surface Transportation Extension Act of 2015, Part II. See notes below.
 
-    The provisions of law referred to in this paragraph before the date of the enactment of such Act, referred to in subsec. (e)(3), means the provisions of law referred to in subsec. (e)(3) before the date of enactment of the Surface Transportation Extension Act of 2015, Part II ([Pub. L. 114–87][/us/pl/114/87]), which was approved Nov. 20, 2015. Those provisions are section 5338(a)(1) and (b)(1) of title 49, the Intermodal Surface Transportation Efficiency Act of 1991, the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2003, the Surface Transportation Extension Act of 2004, the Surface Transportation Extension Act of 2004, Part II, the Surface Transportation Extension Act of 2004, Part III, the Surface Transportation Extension Act of 2004, Part IV, the Surface Transportation Extension Act of 2004, Part V, the Surface Transportation Extension Act of 2005, the Surface Transportation Extension Act of 2005, Part II, the Surface Transportation Extension Act of 2005, Part III, the Surface Transportation Extension Act of 2005, Part IV, the Surface Transportation Extension Act of 2005, Part V, the Surface Transportation Extension Act of 2005, Part VI, the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, the SAFETEA–LU Technical Corrections Act of 2008, the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, the Surface Transportation Extension Act of 2010, the Surface Transportation Extension Act of 2010, Part II, the Surface Transportation Extension Act of 2011, the Surface Transportation Extension Act of 2011, Part II, the Surface Transportation Extension Act of 2012, the Temporary Surface Transportation Extension Act of 2012, the MAP–21, the Highway and Transportation Funding Act of 2014, the Highway and Transportation Funding Act of 2015, the Surface Transportation and Veterans Health Care Choice Improvement Act of 2015, and the Surface Transportation Extension Act of 2015. See notes below.
+    The provisions of law referred to in this paragraph before the date of the enactment of such Act, referred to in subsec. (e)(3), means the provisions of law referred to in subsec. (e)(3) before the date of enactment of the FAST Act ([Pub. L. 114–94][/us/pl/114/94]), which was approved Dec. 4, 2015. Those provisions are section 5338(a)(1) and (b)(1) of title 49, the Intermodal Surface Transportation Efficiency Act of 1991, the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2003, the Surface Transportation Extension Act of 2004, the Surface Transportation Extension Act of 2004, Part II, the Surface Transportation Extension Act of 2004, Part III, the Surface Transportation Extension Act of 2004, Part IV, the Surface Transportation Extension Act of 2004, Part V, the Surface Transportation Extension Act of 2005, the Surface Transportation Extension Act of 2005, Part II, the Surface Transportation Extension Act of 2005, Part III, the Surface Transportation Extension Act of 2005, Part IV, the Surface Transportation Extension Act of 2005, Part V, the Surface Transportation Extension Act of 2005, Part VI, the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users, the SAFETEA–LU Technical Corrections Act of 2008, the first Continuing Appropriations Resolution for Fiscal Year 2010 enacted into law, the Surface Transportation Extension Act of 2010, the Surface Transportation Extension Act of 2010, Part II, the Surface Transportation Extension Act of 2011, the Surface Transportation Extension Act of 2011, Part II, the Surface Transportation Extension Act of 2012, the Temporary Surface Transportation Extension Act of 2012, the MAP–21, the Highway and Transportation Funding Act of 2014, the Highway and Transportation Funding Act of 2015, the Surface Transportation and Veterans Health Care Choice Improvement Act of 2015, the Surface Transportation Extension Act of 2015, and the Surface Transportation Extension Act of 2015, Part II. See notes below.
 
     Section 209 of the Highway Revenue Act of 1956, referred to in former subsec. (c)(1), is section 209 of [act June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, [70 Stat. 397][/us/stat/70/397], which was set out as a note under [section 120 of Title 23][/us/usc/t23/s120], Highways. Section 209 was repealed, except for subsection (b) thereof, by [Pub. L. 97–424, title V, § 531(b)][/us/pl/97/424/s531/b], Jan. 6, 1983, [96 Stat. 2191][/us/stat/96/2191].
 
@@ -377,9 +423,19 @@ The provisions of law referred to in this paragraph before the date of the enact
 
     The Surface Transportation Extension Act of 2015, referred to in former subsecs. (c)(1) and (e)(3), is [Pub. L. 114–73][/us/pl/114/73], Oct. 29, 2015, [129 Stat. 568][/us/stat/129/568]. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 101 of Title 23][/us/usc/t23/s101], Highways, and Tables.
 
+    The Surface Transportation Extension Act of 2015, Part II, referred to in former subsecs. (c)(1) and (e)(3), is [Pub. L. 114–87][/us/pl/114/87], Nov. 20, 2015, [129 Stat. 677][/us/stat/129/677]. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 101 of Title 23][/us/usc/t23/s101], Highways, and Tables.
+
  __Amendments__ 
 
-    2015—Subsec. (b)(6)(B). [Pub. L. 114–87, § 2001(a)(1)][/us/pl/114/87/s2001/a/1], substituted “December 5, 2015” for “November 21, 2015”.
+    2015—Subsec. (b)(1). [Pub. L. 114–94, § 31102(e)(1)(A)(i)][/us/pl/114/94/s31102/e/1/A/i], substituted “October 1, 2022” for “October 1, 2016” in introductory provisions.
+
+    Subsec. (b)(2). [Pub. L. 114–94, § 31102(e)(1)(A)][/us/pl/114/94/s31102/e/1/A], substituted “October 1, 2022” for “October 1, 2016” in heading and “September 30, 2022” for “September 30, 2016”, “July 1, 2023” for “July 1, 2017”, and “October 1, 2022” for “October 1, 2016” in text.
+
+    Subsec. (b)(5). [Pub. L. 114–94, § 31202(a)][/us/pl/114/94/s31202/a], designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+    Subsec. (b)(6)(B). [Pub. L. 114–94, § 31101(a)(1)][/us/pl/114/94/s31101/a/1], substituted “October 1, 2020” for “December 5, 2015”.
+
+    [Pub. L. 114–87, § 2001(a)(1)][/us/pl/114/87/s2001/a/1], substituted “December 5, 2015” for “November 21, 2015”.
 
     [Pub. L. 114–73, § 2001(a)(1)][/us/pl/114/73/s2001/a/1], substituted “November 21, 2015” for “October 30, 2015”.
 
@@ -387,15 +443,39 @@ The provisions of law referred to in this paragraph before the date of the enact
 
     [Pub. L. 114–21, § 2001(a)(1)][/us/pl/114/21/s2001/a/1], substituted “August 1, 2015” for “June 1, 2015”.
 
-    Subsecs. (c)(1), (e)(3). [Pub. L. 114–87][/us/pl/114/87] substituted “December 5, 2015” for “November 21, 2015” and “Surface Transportation Extension Act of 2015, Part II” for “Surface Transportation Extension Act of 2015”.
+    Subsec. (c)(1). [Pub. L. 114–94, § 31101(a)][/us/pl/114/94/s31101/a], substituted “October 1, 2020” for “December 5, 2015” and “FAST Act” for “Surface Transportation Extension Act of 2015, Part II”.
 
-    [Pub. L. 114–73][/us/pl/114/73] substituted “November 21, 2015” for “October 30, 2015” and “Surface Transportation Extension Act of 2015” for “Surface Transportation and Veterans Health Care Choice Improvement Act of 2015”.
+    [Pub. L. 114–87][/us/pl/114/87] substituted “December 5, 2015” for “November 21, 2015” and “Surface Transportation Extension Act of 2015, Part II” for “Surface Transportation Extension Act of 2015”.
+
+    . [Pub. L. 114–73, § 2001(a)][/us/pl/114/73/s2001/a], substituted “November 21, 2015” for “October 30, 2015” and “Surface Transportation Extension Act of 2015” for “Surface Transportation and Veterans Health Care Choice Improvement Act of 2015”.
 
     [Pub. L. 114–41, § 2001(a)][/us/pl/114/41/s2001/a], substituted “October 30, 2015” for “August 1, 2015” and “Surface Transportation and Veterans Health Care Choice Improvement Act of 2015” for “Highway and Transportation Funding Act of 2015”.
 
-    [Pub. L. 114–21][/us/pl/114/21] substituted “August 1, 2015” for “June 1, 2015” and “Highway and Transportation Funding Act of 2015” for “Highway and Transportation Funding Act of 2014”.
+    [Pub. L. 114–21, § 2001(a)][/us/pl/114/21/s2001/a], substituted “August 1, 2015” for “June 1, 2015” and “Highway and Transportation Funding Act of 2015” for “Highway and Transportation Funding Act of 2014”.
 
-    Subsec. (f)(7), (8). [Pub. L. 114–41, § 2002][/us/pl/114/41/s2002], added par. (7) and redesignated former par. (7) as (8).
+    Subsec. (c)(2). [Pub. L. 114–94, § 31102(e)(1)(B)][/us/pl/114/94/s31102/e/1/B], substituted “July 1, 2023” for “July 1, 2017”.
+
+    Subsec. (c)(3)(A)(i), (4)(A). [Pub. L. 114–94, § 31102(e)(2)(A)][/us/pl/114/94/s31102/e/2/A], substituted “October 1, 2022” for “October 1, 2016”.
+
+    Subsec. (e)(3). [Pub. L. 114–94, § 31101(a)][/us/pl/114/94/s31101/a], substituted “October 1, 2020” for “December 5, 2015” and “FAST Act” for “Surface Transportation Extension Act of 2015, Part II”.
+
+    [Pub. L. 114–87][/us/pl/114/87] substituted “December 5, 2015” for “November 21, 2015” and “Surface Transportation Extension Act of 2015, Part II” for “Surface Transportation Extension Act of 2015”.
+
+    . [Pub. L. 114–73, § 2001(a)][/us/pl/114/73/s2001/a], substituted “November 21, 2015” for “October 30, 2015” and “Surface Transportation Extension Act of 2015” for “Surface Transportation and Veterans Health Care Choice Improvement Act of 2015”.
+
+    [Pub. L. 114–41, § 2001(a)][/us/pl/114/41/s2001/a], substituted “October 30, 2015” for “August 1, 2015” and “Surface Transportation and Veterans Health Care Choice Improvement Act of 2015” for “Highway and Transportation Funding Act of 2015”.
+
+    [Pub. L. 114–21, § 2001(a)][/us/pl/114/21/s2001/a], substituted “August 1, 2015” for “June 1, 2015” and “Highway and Transportation Funding Act of 2015” for “Highway and Transportation Funding Act of 2014”.
+
+    Subsec. (f)(7). [Pub. L. 114–41, § 2002][/us/pl/114/41/s2002], added par. (7). Former par. (7) redesignated (8).
+
+    Subsec. (f)(8). [Pub. L. 114–94, § 31201][/us/pl/114/94/s31201], added par. (8). Former par. (8) redesignated (10).
+
+    [Pub. L. 114–41, § 2002][/us/pl/114/41/s2002], redesignated par. (7) as (8).
+
+    Subsec. (f)(9). [Pub. L. 114–94, § 31201][/us/pl/114/94/s31201], added par. (9).
+
+    Subsec. (f)(10). [Pub. L. 114–94, § 31201][/us/pl/114/94/s31201], redesignated par. (8) as (10).
 
     2014—Subsec. (b)(1). [Pub. L. 113–295][/us/pl/113/295] inserted “and taxes received under section 4081 shall be determined without regard to tax receipts attributable to the rate specified in section 4081(a)(2)(C)” before period at end of concluding provisions.
 
@@ -933,6 +1013,14 @@ The provisions of law referred to in this paragraph before the date of the enact
 
     Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by [section 1(a) of Pub. L. 104–14][/us/pl/104/14/s1/a], set out as a note preceding [section 21 of Title 2][/us/usc/t2/s21], The Congress.
 
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by section 31102(e)(1), (2)(A) of [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2016, see [section 31102(f) of Pub. L. 114–94][/us/pl/114/94/s31102/f], set out as a note under [section 4041 of this title][/us/usc/t26/s4041].
+
+[Pub. L. 114–94, div. C, title XXXI, § 31202(b)][/us/pl/114/94/s31202/b], Dec. 4, 2015, [129 Stat. 1729][/us/stat/129/1729], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to amounts collected after the date of the enactment of this Act \[Dec. 4, 2015\].”
+
  __Effective Date of 2014 Amendment__ 
 
 [Pub. L. 113–295, div. A, title II, § 217(b)][/us/pl/113/295/s217/b], Dec. 19, 2014, [128 Stat. 4035][/us/stat/128/4035], provided that: 
@@ -1216,6 +1304,7 @@ The provisions of law referred to in this paragraph before the date of the enact
 
 [/us/pl/109/59/s11161/c/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs11161%2Fc%2F2%2FC
 [/us/stat/119/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1972
+[/us/usc/t49/s30165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs30165
 [/us/pl/97/424/s531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs531%2Fa
 [/us/stat/96/2187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2187
 [/us/pl/98/369/s474/r/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs474%2Fr%2F43
@@ -1328,11 +1417,15 @@ The provisions of law referred to in this paragraph before the date of the enact
 [/us/stat/129/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F582
 [/us/pl/114/87/s2001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs2001%2Fa
 [/us/stat/129/685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F685
-[/us/pl/114/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87
-[/us/stat/129/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F677
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1726-1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1726-1728
+[/us/pl/114/94/s31102/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31102%2Fe%2F1
+[/us/stat/129/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1727
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/stat/129/1312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1312
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
-[/us/pl/114/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87
-[/us/pl/114/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/act/1956-06-29/ch462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-06-29%2Fch462
 [/us/stat/70/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F397
 [/us/usc/t23/s120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs120
@@ -1427,15 +1520,34 @@ The provisions of law referred to in this paragraph before the date of the enact
 [/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
 [/us/stat/129/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F568
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87
+[/us/stat/129/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F677
+[/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/114/94/s31102/e/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31102%2Fe%2F1%2FA%2Fi
+[/us/pl/114/94/s31102/e/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31102%2Fe%2F1%2FA
+[/us/pl/114/94/s31202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31202%2Fa
+[/us/pl/114/94/s31101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31101%2Fa%2F1
 [/us/pl/114/87/s2001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87%2Fs2001%2Fa%2F1
 [/us/pl/114/73/s2001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs2001%2Fa%2F1
 [/us/pl/114/41/s2001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2001%2Fa%2F1
 [/us/pl/114/21/s2001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs2001%2Fa%2F1
+[/us/pl/114/94/s31101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31101%2Fa
 [/us/pl/114/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87
-[/us/pl/114/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73
+[/us/pl/114/73/s2001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs2001%2Fa
 [/us/pl/114/41/s2001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2001%2Fa
-[/us/pl/114/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21
+[/us/pl/114/21/s2001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs2001%2Fa
+[/us/pl/114/94/s31102/e/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31102%2Fe%2F1%2FB
+[/us/pl/114/94/s31102/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31102%2Fe%2F2%2FA
+[/us/pl/114/94/s31101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31101%2Fa
+[/us/pl/114/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F87
+[/us/pl/114/73/s2001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F73%2Fs2001%2Fa
+[/us/pl/114/41/s2001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2001%2Fa
+[/us/pl/114/21/s2001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs2001%2Fa
 [/us/pl/114/41/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2002
+[/us/pl/114/94/s31201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31201
+[/us/pl/114/41/s2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2002
+[/us/pl/114/94/s31201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31201
+[/us/pl/114/94/s31201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31201
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/113/159/s2001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2001%2Fa%2F1
 [/us/pl/113/159/s2001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F159%2Fs2001%2Fa
@@ -1693,6 +1805,11 @@ The provisions of law referred to in this paragraph before the date of the enact
 [/us/pl/98/369/s911/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs911%2Fd%2F1%2FA
 [/us/pl/104/14/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fa
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s31102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31102%2Ff
+[/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041
+[/us/pl/114/94/s31202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31202%2Fb
+[/us/stat/129/1729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1729
 [/us/pl/113/295/s217/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs217%2Fb
 [/us/stat/128/4035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4035
 [/us/pl/109/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59

@@ -97,13 +97,19 @@
 
         The tax imposed by this section shall apply only to use before October 1, 2017.
 
-(Added [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 206(a), [70 Stat. 390][/us/stat/70/390]; amended [Pub. L. 87–61, title II, § 203(a)][/us/pl/87/61/s203/a], (b)(1), (2)(A), (B), June 29, 1961, [75 Stat. 124][/us/stat/75/124]; [Pub. L. 91–605, title III, § 303(a)(7)][/us/pl/91/605/s303/a/7], (8), Dec. 31, 1970, [84 Stat. 1744][/us/stat/84/1744]; [Pub. L. 94–280, title III, § 303(a)(7)][/us/pl/94/280/s303/a/7], (8), May 5, 1976, [90 Stat. 456][/us/stat/90/456]; [Pub. L. 95–599, title V, § 502(a)(6)][/us/pl/95/599/s502/a/6], (7), Nov. 6, 1978, [92 Stat. 2756][/us/stat/92/2756]; [Pub. L. 97–424, title V][/us/pl/97/424], §§ 513(a), (d), 516(a)(4), Jan. 6, 1983, [96 Stat. 2177][/us/stat/96/2177], 2179, 2182; [Pub. L. 98–369, div. A, title VII, § 734(f)][/us/pl/98/369/s734/f], title IX, § 901(a), July 18, 1984, [98 Stat. 980][/us/stat/98/980], 1003; [Pub. L. 100–17, title V][/us/pl/100/17], §§ 502(a)(5), 507(a), Apr. 2, 1987, [101 Stat. 256][/us/stat/101/256], 260; [Pub. L. 101–508, title XI, § 11211(c)(5)][/us/pl/101/508/s11211/c/5], Nov. 5, 1990, [104 Stat. 1388–426][/us/stat/104/1388-426]; [Pub. L. 102–240, title VIII, § 8002(a)(5)][/us/pl/102/240/s8002/a/5], Dec. 18, 1991, [105 Stat. 2203][/us/stat/105/2203]; [Pub. L. 104–188, title I, § 1704(t)(57)][/us/pl/104/188/s1704/t/57], Aug. 20, 1996, [110 Stat. 1890][/us/stat/110/1890]; [Pub. L. 105–178, title IX, § 9002(a)(1)(G)][/us/pl/105/178/s9002/a/1/G], June 9, 1998, [112 Stat. 499][/us/stat/112/499]; [Pub. L. 108–357, title VIII, § 867(a)][/us/pl/108/357/s867/a], (c), Oct. 22, 2004, [118 Stat. 1622][/us/stat/118/1622]; [Pub. L. 109–14, § 9(c)(1)][/us/pl/109/14/s9/c/1], May 31, 2005, [119 Stat. 336][/us/stat/119/336]; [Pub. L. 109–59, title XI, § 11101(a)(2)(A)][/us/pl/109/59/s11101/a/2/A], Aug. 10, 2005, [119 Stat. 1944][/us/stat/119/1944]; [Pub. L. 112–30, title I, § 142(b)(1)][/us/pl/112/30/s142/b/1], Sept. 16, 2011, [125 Stat. 356][/us/stat/125/356]; [Pub. L. 112–102, title IV, § 402(b)(1)][/us/pl/112/102/s402/b/1], Mar. 30, 2012, [126 Stat. 282][/us/stat/126/282]; [Pub. L. 112–141, div. D, title I, § 40102(b)(1)(A)][/us/pl/112/141/s40102/b/1/A], July 6, 2012, [126 Stat. 844][/us/stat/126/844].)
+(Added [June 29, 1956, ch. 462][/us/act/1956-06-29/ch462], title II, § 206(a), [70 Stat. 390][/us/stat/70/390]; amended [Pub. L. 87–61, title II, § 203(a)][/us/pl/87/61/s203/a], (b)(1), (2)(A), (B), June 29, 1961, [75 Stat. 124][/us/stat/75/124]; [Pub. L. 91–605, title III, § 303(a)(7)][/us/pl/91/605/s303/a/7], (8), Dec. 31, 1970, [84 Stat. 1744][/us/stat/84/1744]; [Pub. L. 94–280, title III, § 303(a)(7)][/us/pl/94/280/s303/a/7], (8), May 5, 1976, [90 Stat. 456][/us/stat/90/456]; [Pub. L. 95–599, title V, § 502(a)(6)][/us/pl/95/599/s502/a/6], (7), Nov. 6, 1978, [92 Stat. 2756][/us/stat/92/2756]; [Pub. L. 97–424, title V][/us/pl/97/424], §§ 513(a), (d), 516(a)(4), Jan. 6, 1983, [96 Stat. 2177][/us/stat/96/2177], 2179, 2182; [Pub. L. 98–369, div. A, title VII, § 734(f)][/us/pl/98/369/s734/f], title IX, § 901(a), July 18, 1984, [98 Stat. 980][/us/stat/98/980], 1003; [Pub. L. 100–17, title V][/us/pl/100/17], §§ 502(a)(5), 507(a), Apr. 2, 1987, [101 Stat. 256][/us/stat/101/256], 260; [Pub. L. 101–508, title XI, § 11211(c)(5)][/us/pl/101/508/s11211/c/5], Nov. 5, 1990, [104 Stat. 1388–426][/us/stat/104/1388-426]; [Pub. L. 102–240, title VIII, § 8002(a)(5)][/us/pl/102/240/s8002/a/5], Dec. 18, 1991, [105 Stat. 2203][/us/stat/105/2203]; [Pub. L. 104–188, title I, § 1704(t)(57)][/us/pl/104/188/s1704/t/57], Aug. 20, 1996, [110 Stat. 1890][/us/stat/110/1890]; [Pub. L. 105–178, title IX, § 9002(a)(1)(G)][/us/pl/105/178/s9002/a/1/G], June 9, 1998, [112 Stat. 499][/us/stat/112/499]; [Pub. L. 108–357, title VIII, § 867(a)][/us/pl/108/357/s867/a], (c), Oct. 22, 2004, [118 Stat. 1622][/us/stat/118/1622]; [Pub. L. 109–14, § 9(c)(1)][/us/pl/109/14/s9/c/1], May 31, 2005, [119 Stat. 336][/us/stat/119/336]; [Pub. L. 109–59, title XI, § 11101(a)(2)(A)][/us/pl/109/59/s11101/a/2/A], Aug. 10, 2005, [119 Stat. 1944][/us/stat/119/1944]; [Pub. L. 112–30, title I, § 142(b)(1)][/us/pl/112/30/s142/b/1], Sept. 16, 2011, [125 Stat. 356][/us/stat/125/356]; [Pub. L. 112–102, title IV, § 402(b)(1)][/us/pl/112/102/s402/b/1], Mar. 30, 2012, [126 Stat. 282][/us/stat/126/282]; [Pub. L. 112–141, div. D, title I, § 40102(b)(1)(A)][/us/pl/112/141/s40102/b/1/A], July 6, 2012, [126 Stat. 844][/us/stat/126/844]; [Pub. L. 114–94, div. C, title XXXI, § 31102(b)(1)][/us/pl/114/94/s31102/b/1], Dec. 4, 2015, [129 Stat. 1727][/us/stat/129/1727].)
+
+ __Amendment of Subsection (f)__ 
+
+    [Pub. L. 114–94, div. C, title XXXI, § 31102(b)(1)][/us/pl/114/94/s31102/b/1], (f), Dec. 4, 2015, [129 Stat. 1727][/us/stat/129/1727], 1728, provided that, effective Oct. 1, 2016, subsection (f) of this section is amended by striking “2017” and inserting “2023”. See 2015 Amendment note below.
 
  __References in Text__ 
 
     Section 6156, referred to in subsec. (d)(2), was repealed by [Pub. L. 108–357, title VIII, § 867(b)(1)][/us/pl/108/357/s867/b/1], Oct. 22, 2004, [118 Stat. 1622][/us/stat/118/1622].
 
  __Amendments__ 
+
+    2015—Subsec. (f). [Pub. L. 114–94][/us/pl/114/94] substituted “2023” for “2017”.
 
     2012—Subsec. (f). [Pub. L. 112–141][/us/pl/112/141] substituted “2017” for “2013”.
 
@@ -240,6 +246,10 @@ The maximum tax a year.  </td>
     Subsec. (d). [Pub. L. 87–61, § 203(b)(2)(B)][/us/pl/87/61/s203/b/2/B], made conforming changes to refer to payment of tax for a taxable period instead of payment for a year, and inserted cross reference to section 6156.
 
     Subsec. (e). [Pub. L. 87–61, § 203(b)(1)][/us/pl/87/61/s203/b/1], substituted “before October 1, 1972” for “after June 30, 1956, and before July 1, 1972”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–94][/us/pl/114/94] effective Oct. 1, 2016, see [section 31102(f) of Pub. L. 114–94][/us/pl/114/94/s31102/f], set out as a note under [section 4041 of this title][/us/usc/t26/s4041].
 
  __Effective Date of 2012 Amendment__ 
 
@@ -426,8 +436,13 @@ The maximum tax a year.  </td>
 [/us/stat/126/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F282
 [/us/pl/112/141/s40102/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40102%2Fb%2F1%2FA
 [/us/stat/126/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F844
+[/us/pl/114/94/s31102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31102%2Fb%2F1
+[/us/stat/129/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1727
+[/us/pl/114/94/s31102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31102%2Fb%2F1
+[/us/stat/129/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1727
 [/us/pl/108/357/s867/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs867%2Fb%2F1
 [/us/stat/118/1622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1622
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F102
 [/us/pl/112/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F30
@@ -459,6 +474,9 @@ The maximum tax a year.  </td>
 [/us/pl/87/61/s203/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2Fs203%2Fb%2F2%2FB
 [/us/pl/87/61/s203/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2Fs203%2Fb%2F2%2FB
 [/us/pl/87/61/s203/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F61%2Fs203%2Fb%2F1
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/s31102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs31102%2Ff
+[/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s40102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40102%2Ff
 [/us/usc/t26/s4041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4041

@@ -61,9 +61,11 @@
 
             (D) the alternatives available to taxpayers which could prevent levy on the property (including installment agreements under section 6159),
 
-            (E) the provisions of this title relating to redemption of property and release of liens on property, and
+            (E) the provisions of this title relating to redemption of property and release of liens on property,
 
-            (F) the procedures applicable to the redemption of property and the release of a lien on property under this title.
+            (F) the procedures applicable to the redemption of property and the release of a lien on property under this title, and
+
+            (G) the provisions of section 7345 relating to the certification of seriously delinquent tax debts and the denial, revocation, or limitation of passports of individuals with such debts pursuant to section 32101 of the FAST Act.
 
     (e) __Continuing levy on salary and wages__ 
 
@@ -221,9 +223,11 @@
 
         (3) For release and notice of release of levy, see section 6343.
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 783][/us/stat/68A/783]; [Pub. L. 89–719, title I, § 104(a)][/us/pl/89/719/s104/a], Nov. 2, 1966, [80 Stat. 1135][/us/stat/80/1135]; [Pub. L. 92–178, title II, § 211(a)][/us/pl/92/178/s211/a], Dec. 10, 1971, [85 Stat. 520][/us/stat/85/520]; [Pub. L. 94–455, title XII, § 1209(d)(1)][/us/pl/94/455/s1209/d/1], (2), (4), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1710][/us/stat/90/1710], 1711, 1834; [Pub. L. 97–248, title III, § 349(a)][/us/pl/97/248/s349/a], Sept. 3, 1982, [96 Stat. 639][/us/stat/96/639]; [Pub. L. 98–369, div. A, title VII, § 714][/us/pl/98/369/s714](o), July 18, 1984, [98 Stat. 964][/us/stat/98/964]; [Pub. L. 100–647, title VI, § 6236(a)][/us/pl/100/647/s6236/a], (b), (d), Nov. 10, 1988, [102 Stat. 3737][/us/stat/102/3737], 3739; [Pub. L. 105–34, title X, § 1024(a)][/us/pl/105/34/s1024/a], Aug. 5, 1997, [111 Stat. 923][/us/stat/111/923]; [Pub. L. 105–206, title III][/us/pl/105/206], §§ 3433(a), 3444(a), 3462(b), title VI, § 6010(f), July 22, 1998, [112 Stat. 759][/us/stat/112/759], 762, 765, 814; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(b)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–642; [Pub. L. 107–147, title IV, § 416(e)(1)][/us/pl/107/147/s416/e/1], Mar. 9, 2002, [116 Stat. 55][/us/stat/116/55]; [Pub. L. 108–357, title VIII, § 887(a)][/us/pl/108/357/s887/a], Oct. 22, 2004, [118 Stat. 1641][/us/stat/118/1641]; [Pub. L. 112–56, title III, § 301(a)][/us/pl/112/56/s301/a], Nov. 21, 2011, [125 Stat. 733][/us/stat/125/733]; [Pub. L. 113–295, div. B, title II, § 209(a)][/us/pl/113/295/s209/a], Dec. 19, 2014, [128 Stat. 4074][/us/stat/128/4074]; [Pub. L. 114–10, title IV, § 413(a)][/us/pl/114/10/s413/a], Apr. 16, 2015, [129 Stat. 162][/us/stat/129/162].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 783][/us/stat/68A/783]; [Pub. L. 89–719, title I, § 104(a)][/us/pl/89/719/s104/a], Nov. 2, 1966, [80 Stat. 1135][/us/stat/80/1135]; [Pub. L. 92–178, title II, § 211(a)][/us/pl/92/178/s211/a], Dec. 10, 1971, [85 Stat. 520][/us/stat/85/520]; [Pub. L. 94–455, title XII, § 1209(d)(1)][/us/pl/94/455/s1209/d/1], (2), (4), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1710][/us/stat/90/1710], 1711, 1834; [Pub. L. 97–248, title III, § 349(a)][/us/pl/97/248/s349/a], Sept. 3, 1982, [96 Stat. 639][/us/stat/96/639]; [Pub. L. 98–369, div. A, title VII, § 714][/us/pl/98/369/s714](o), July 18, 1984, [98 Stat. 964][/us/stat/98/964]; [Pub. L. 100–647, title VI, § 6236(a)][/us/pl/100/647/s6236/a], (b), (d), Nov. 10, 1988, [102 Stat. 3737][/us/stat/102/3737], 3739; [Pub. L. 105–34, title X, § 1024(a)][/us/pl/105/34/s1024/a], Aug. 5, 1997, [111 Stat. 923][/us/stat/111/923]; [Pub. L. 105–206, title III][/us/pl/105/206], §§ 3433(a), 3444(a), 3462(b), title VI, § 6010(f), July 22, 1998, [112 Stat. 759][/us/stat/112/759], 762, 765, 814; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title III, § 313(b)(3)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–642; [Pub. L. 107–147, title IV, § 416(e)(1)][/us/pl/107/147/s416/e/1], Mar. 9, 2002, [116 Stat. 55][/us/stat/116/55]; [Pub. L. 108–357, title VIII, § 887(a)][/us/pl/108/357/s887/a], Oct. 22, 2004, [118 Stat. 1641][/us/stat/118/1641]; [Pub. L. 112–56, title III, § 301(a)][/us/pl/112/56/s301/a], Nov. 21, 2011, [125 Stat. 733][/us/stat/125/733]; [Pub. L. 113–295, div. B, title II, § 209(a)][/us/pl/113/295/s209/a], Dec. 19, 2014, [128 Stat. 4074][/us/stat/128/4074]; [Pub. L. 114–10, title IV, § 413(a)][/us/pl/114/10/s413/a], Apr. 16, 2015, [129 Stat. 162][/us/stat/129/162]; [Pub. L. 114–94, div. C, title XXXII, § 32101(b)(2)][/us/pl/114/94/s32101/b/2], Dec. 4, 2015, [129 Stat. 1731][/us/stat/129/1731].)
 
  __References in Text__ 
+
+    Section 32101 of the FAST Act, referred to in subsec. (d)(4)(G), is [section 32101 of Pub. L. 114–94][/us/pl/114/94/s32101], which enacted [section 7345 of this title][/us/usc/t26/s7345] and [section 2714a of Title 22][/us/usc/t22/s2714a], Foreign Relations and Intercourse, and amended this section and sections 6103, 6320, and 7508 of this title.
 
     The Railroad Retirement Act, referred to in subsec. (h)(2)(C), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended generally by [Pub. L. 93–445, title I, § 101][/us/pl/93/445/s101], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], known as the Railroad Retirement Act of 1974, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
 
@@ -233,7 +237,9 @@
 
  __Amendments__ 
 
-    2015—Subsec. (h)(3). [Pub. L. 114–10][/us/pl/114/10] substituted “and by substituting ‘100 percent’ ” for “and by substituting ‘30 percent’ ”.
+    2015—Subsec. (d)(4)(G). [Pub. L. 114–94][/us/pl/114/94] added subpar. (G).
+
+    Subsec. (h)(3). [Pub. L. 114–10][/us/pl/114/10] substituted “and by substituting ‘100 percent’ ” for “and by substituting ‘30 percent’ ”.
 
     2014—Subsec. (h)(3). [Pub. L. 113–295][/us/pl/113/295] inserted “and by substituting ‘30 percent’ for ‘15 percent’ in the case of any specified payment due to a Medicare provider or supplier under title XVIII of the Social Security Act” before period at end.
 
@@ -426,6 +432,11 @@
 [/us/stat/128/4074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4074
 [/us/pl/114/10/s413/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs413%2Fa
 [/us/stat/129/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F162
+[/us/pl/114/94/s32101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32101%2Fb%2F2
+[/us/stat/129/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1731
+[/us/pl/114/94/s32101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32101
+[/us/usc/t26/s7345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7345
+[/us/usc/t22/s2714a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2714a
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
 [/us/pl/93/445/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs101
 [/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
@@ -437,6 +448,7 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/114/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/112/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F56

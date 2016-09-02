@@ -45,7 +45,9 @@
 
             (K) Any other act required or permitted under the internal revenue laws specified by the Secretary;
 
-        (2) The amount of any credit or refund.
+        (2) The amount of any credit or refund; and
+
+        (3) Any certification of a seriously delinquent tax debt under section 7345.
 
     (b) __Special rule for overpayments__ 
 
@@ -99,9 +101,11 @@
 
         Paragraph (2) shall not apply for purposes of applying this section with respect to the spouse of an individual entitled to the benefits of subsection (a).
 
-([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 898][/us/stat/68A/898]; [Pub. L. 93–597, § 5(a)][/us/pl/93/597/s5/a], Jan. 2, 1975, [88 Stat. 1952][/us/stat/88/1952]; [Pub. L. 94–455, title XIX, § 1906(a)(51)][/us/pl/94/455/s1906/a/51], (b)(13)(A), Oct. 4, 1976, [90 Stat. 1831][/us/stat/90/1831], 1834; [Pub. L. 94–569, § 3(e)][/us/pl/94/569/s3/e], Oct. 20, 1976, [90 Stat. 2700][/us/stat/90/2700]; [Pub. L. 96–589, § 6(i)(14)][/us/pl/96/589/s6/i/14], Dec. 24, 1980, [94 Stat. 3411][/us/stat/94/3411]; [Pub. L. 97–448, title III, § 307(d)][/us/pl/97/448/s307/d], Jan. 12, 1983, [96 Stat. 2407][/us/stat/96/2407]; [Pub. L. 99–514, title XVII, § 1708(a)(4)][/us/pl/99/514/s1708/a/4], Oct. 22, 1986, [100 Stat. 2782][/us/stat/100/2782]; [Pub. L. 102–2, § 1(a)][/us/pl/102/2/s1/a]–(c), Jan. 30, 1991, [105 Stat. 5][/us/stat/105/5]; [Pub. L. 107–134, title I, § 112(b)][/us/pl/107/134/s112/b], Jan. 23, 2002, [115 Stat. 2434][/us/stat/115/2434]; [Pub. L. 108–121, title I, § 104(a)][/us/pl/108/121/s104/a]–(b)(2), Nov. 11, 2003, [117 Stat. 1338][/us/stat/117/1338]; [Pub. L. 109–73, title IV, § 403(a)][/us/pl/109/73/s403/a], Sept. 23, 2005, [119 Stat. 2027][/us/stat/119/2027].)
+([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 898][/us/stat/68A/898]; [Pub. L. 93–597, § 5(a)][/us/pl/93/597/s5/a], Jan. 2, 1975, [88 Stat. 1952][/us/stat/88/1952]; [Pub. L. 94–455, title XIX, § 1906(a)(51)][/us/pl/94/455/s1906/a/51], (b)(13)(A), Oct. 4, 1976, [90 Stat. 1831][/us/stat/90/1831], 1834; [Pub. L. 94–569, § 3(e)][/us/pl/94/569/s3/e], Oct. 20, 1976, [90 Stat. 2700][/us/stat/90/2700]; [Pub. L. 96–589, § 6(i)(14)][/us/pl/96/589/s6/i/14], Dec. 24, 1980, [94 Stat. 3411][/us/stat/94/3411]; [Pub. L. 97–448, title III, § 307(d)][/us/pl/97/448/s307/d], Jan. 12, 1983, [96 Stat. 2407][/us/stat/96/2407]; [Pub. L. 99–514, title XVII, § 1708(a)(4)][/us/pl/99/514/s1708/a/4], Oct. 22, 1986, [100 Stat. 2782][/us/stat/100/2782]; [Pub. L. 102–2, § 1(a)][/us/pl/102/2/s1/a]–(c), Jan. 30, 1991, [105 Stat. 5][/us/stat/105/5]; [Pub. L. 107–134, title I, § 112(b)][/us/pl/107/134/s112/b], Jan. 23, 2002, [115 Stat. 2434][/us/stat/115/2434]; [Pub. L. 108–121, title I, § 104(a)][/us/pl/108/121/s104/a]–(b)(2), Nov. 11, 2003, [117 Stat. 1338][/us/stat/117/1338]; [Pub. L. 109–73, title IV, § 403(a)][/us/pl/109/73/s403/a], Sept. 23, 2005, [119 Stat. 2027][/us/stat/119/2027]; [Pub. L. 114–94, div. C, title XXXII, § 32101(d)][/us/pl/114/94/s32101/d], Dec. 4, 2015, [129 Stat. 1732][/us/stat/129/1732].)
 
  __Amendments__ 
+
+    2015—Subsec. (a)(3). [Pub. L. 114–94][/us/pl/114/94] added par. (3).
 
     2005—Subsec. (a)(1)(A), (B). [Pub. L. 109–73][/us/pl/109/73] amended subpars. (A) and (B) generally. Prior to amendment, text read as follows:
 
@@ -239,6 +243,9 @@
 [/us/stat/117/1338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1338
 [/us/pl/109/73/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F73%2Fs403%2Fa
 [/us/stat/119/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2027
+[/us/pl/114/94/s32101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32101%2Fd
+[/us/stat/129/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1732
+[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
 [/us/pl/109/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F73
 [/us/pl/108/121/s104/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs104%2Fb%2F2
 [/us/pl/108/121/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F121%2Fs104%2Fa

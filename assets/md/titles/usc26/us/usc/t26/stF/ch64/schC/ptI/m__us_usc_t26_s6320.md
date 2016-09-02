@@ -41,9 +41,11 @@
 
             (B) the right of the person to request a hearing during the 30-day period beginning on the day after the 5-day period described in paragraph (2);
 
-            (C) the administrative appeals available to the taxpayer with respect to such lien and the procedures relating to such appeals; and
+            (C) the administrative appeals available to the taxpayer with respect to such lien and the procedures relating to such appeals;
 
-            (D) the provisions of this title and procedures relating to the release of liens on property.
+            (D) the provisions of this title and procedures relating to the release of liens on property; and
+
+            (E) the provisions of section 7345 relating to the certification of seriously delinquent tax debts and the denial, revocation, or limitation of passports of individuals with such debts pursuant to section 32101 of the FAST Act.
 
     (b) __Right to fair hearing__ 
 
@@ -67,9 +69,15 @@
 
         For purposes of this section, subsections (c), (d) (other than paragraph (2)(B) thereof), (e), and (g) of section 6330 shall apply.
 
-(Added [Pub. L. 105–206, title III, § 3401(a)][/us/pl/105/206/s3401/a], July 22, 1998, [112 Stat. 746][/us/stat/112/746]; amended [Pub. L. 109–432, div. A, title IV, § 407(c)][/us/pl/109/432/s407/c], Dec. 20, 2006, [120 Stat. 2962][/us/stat/120/2962].)
+(Added [Pub. L. 105–206, title III, § 3401(a)][/us/pl/105/206/s3401/a], July 22, 1998, [112 Stat. 746][/us/stat/112/746]; amended [Pub. L. 109–432, div. A, title IV, § 407(c)][/us/pl/109/432/s407/c], Dec. 20, 2006, [120 Stat. 2962][/us/stat/120/2962]; [Pub. L. 114–94, div. C, title XXXII, § 32101(b)(1)][/us/pl/114/94/s32101/b/1], Dec. 4, 2015, [129 Stat. 1731][/us/stat/129/1731].)
+
+ __References in Text__ 
+
+    Section 32101 of the FAST Act, referred to in subsec. (a)(3)(E), is [section 32101 of Pub. L. 114–94][/us/pl/114/94/s32101], which enacted [section 7345 of this title][/us/usc/t26/s7345] and [section 2714a of Title 22][/us/usc/t22/s2714a], Foreign Relations and Intercourse, and amended this section and sections 6103, 6331, and 7508 of this title.
 
  __Amendments__ 
+
+    2015—Subsec. (a)(3)(E). [Pub. L. 114–94, § 32101(b)(1)][/us/pl/114/94/s32101/b/1], added subpar. (E).
 
     2006—Subsec. (b)(1). [Pub. L. 109–432, § 407(c)(1)][/us/pl/109/432/s407/c/1], substituted “in writing under subsection (a)(3)(B) and states the grounds for the requested hearing” for “under subsection (a)(3)(B)”.
 
@@ -98,6 +106,12 @@
 [/us/stat/112/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F746
 [/us/pl/109/432/s407/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs407%2Fc
 [/us/stat/120/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2962
+[/us/pl/114/94/s32101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32101%2Fb%2F1
+[/us/stat/129/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1731
+[/us/pl/114/94/s32101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32101
+[/us/usc/t26/s7345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7345
+[/us/usc/t22/s2714a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2714a
+[/us/pl/114/94/s32101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2Fs32101%2Fb%2F1
 [/us/pl/109/432/s407/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs407%2Fc%2F1
 [/us/pl/109/432/s407/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs407%2Fc%2F2
 [/us/pl/109/432/s407/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs407%2Ff
