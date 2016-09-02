@@ -75,7 +75,7 @@
 
     (c)  __Limitation on Fee__  __.—__ 
 
-    Fees imposed under subsection (a)(1) may not exceed $2.50 per enplanement in air transportation or intrastate air transportation that originates at an airport in the United States, except that the total amount of such fees may not exceed $5.00 per one-way trip.
+    Fees imposed under subsection (a)(1) shall be $5.60 per one-way trip in air transportation or intrastate air transportation that originates at an airport in the United States.
 
     (d) __Imposition of Fee.—__ 
 
@@ -139,25 +139,55 @@
 
     The Under Secretary may exempt from the passenger fee imposed under subsection (a)(1) any passenger enplaning at an airport in the United States that does not receive screening services under section 44901 for that segment of the trip for which the passenger does not receive screening.
 
-    (i) __Checkpoint Screening Security Fund.—__ 
+    (i) __Deposit of Receipts in General Fund.—__ 
 
-        (1)  __Establishment__  __.—__ 
+        (1)  __In general__  __.—__ 
 
-        There is established in the Department of Homeland Security a fund to be known as the “Checkpoint Screening Security Fund”.
+        Beginning in fiscal year 2014, out of fees received in a fiscal year under subsection (a)(1), after amounts are made available in the fiscal year under section 44923(h), the next funds derived from such fees in the fiscal year, in the amount specified for the fiscal year in paragraph (4), shall be credited as offsetting receipts and deposited in the general fund of the Treasury.
 
-        (2)  __Deposits__  __.—__ 
+        (2)  __Fee levels__  __.—__ 
 
-        In fiscal year 2008, after amounts are made available under section 44923(h), the next $250,000,000 derived from fees received under subsection (a)(1) shall be available to be deposited in the Fund.
+        The Secretary of Homeland Security shall impose the fee authorized by subsection (a)(1) so as to collect in a fiscal year at least the amount specified in paragraph (4) for the fiscal year for making deposits under paragraph (1).
 
-        (3)  __Fees__  __.—__ 
+        (3)  __Relationship to other provisions__  __.—__ 
 
-        The Secretary of Homeland Security shall impose the fee authorized by subsection (a)(1) so as to collect at least $250,000,000 in fiscal year 2008 for deposit into the Fund.
+        Subsections (b) and (f) shall not apply to amounts to be used for making deposits under this subsection.
 
-        (4)  __Availability of amounts__  __.—__ 
+        (4)  __Fiscal year amounts__  __.—__ 
 
-        Amounts in the Fund shall be available until expended by the Administrator of the Transportation Security Administration for the purchase, deployment, installation, research, and development of equipment to improve the ability of security screening personnel at screening checkpoints to detect explosives.
+        For purposes of paragraphs (1) and (2), the fiscal year amounts are as follows:
 
-(Added [Pub. L. 107–71, title I, § 118(a)][/us/pl/107/71/s118/a], Nov. 19, 2001, [115 Stat. 625][/us/stat/115/625]; amended [Pub. L. 108–7, div. I, title III, § 351(b)][/us/pl/108/7/s351/b], Feb. 20, 2003, [117 Stat. 420][/us/stat/117/420]; [Pub. L. 108–176, title VI, § 605(b)(1)][/us/pl/108/176/s605/b/1], (2), Dec. 12, 2003, [117 Stat. 2568][/us/stat/117/2568]; [Pub. L. 110–53, title XVI, § 1601][/us/pl/110/53/s1601], Aug. 3, 2007, [121 Stat. 477][/us/stat/121/477]; [Pub. L. 110–161, div. E, title V, § 540][/us/pl/110/161/s540], Dec. 26, 2007, [121 Stat. 2079][/us/stat/121/2079].)
+            (A) $390,000,000 for fiscal year 2014.
+
+            (B) $1,190,000,000 for fiscal year 2015.
+
+            (C) $1,250,000,000 for fiscal year 2016.
+
+            (D) $1,280,000,000 for fiscal year 2017.
+
+            (E) $1,320,000,000 for fiscal year 2018.
+
+            (F) $1,360,000,000 for fiscal year 2019.
+
+            (G) $1,400,000,000 for fiscal year 2020.
+
+            (H) $1,440,000,000 for fiscal year 2021.
+
+            (I) $1,480,000,000 for fiscal year 2022.
+
+            (J) $1,520,000,000 for fiscal year 2023.
+
+(Added [Pub. L. 107–71, title I, § 118(a)][/us/pl/107/71/s118/a], Nov. 19, 2001, [115 Stat. 625][/us/stat/115/625]; amended [Pub. L. 108–7, div. I, title III, § 351(b)][/us/pl/108/7/s351/b], Feb. 20, 2003, [117 Stat. 420][/us/stat/117/420]; [Pub. L. 108–176, title VI, § 605(b)(1)][/us/pl/108/176/s605/b/1], (2), Dec. 12, 2003, [117 Stat. 2568][/us/stat/117/2568]; [Pub. L. 110–53, title XVI, § 1601][/us/pl/110/53/s1601], Aug. 3, 2007, [121 Stat. 477][/us/stat/121/477]; [Pub. L. 110–161, div. E, title V, § 540][/us/pl/110/161/s540], Dec. 26, 2007, [121 Stat. 2079][/us/stat/121/2079]; [Pub. L. 113–67, div. A, title VI, § 601(a)(1)][/us/pl/113/67/s601/a/1], (2), (b), (c), Dec. 26, 2013, [127 Stat. 1187][/us/stat/127/1187].)
+
+ __Amendment of Subsections (a)(2) and (d)(1)__ 
+
+[Pub. L. 113–67, div. A, title VI, § 601(a)][/us/pl/113/67/s601/a], Dec. 26, 2013, [127 Stat. 1187][/us/stat/127/1187], provided that, effective Oct. 1, 2014, this section is amended:
+
+    (1) by repealing subsection (a)(2), and
+
+    (2) in subsection (d)(1), by striking “, and may impose a fee under subsection (a)(2),”.
+
+    See 2013 Amendment notes below.
 
  __References in Text__ 
 
@@ -168,6 +198,14 @@
     [Pub. L. 107–71, title I, § 118(a)][/us/pl/107/71/s118/a], Nov. 19, 2001, [115 Stat. 625][/us/stat/115/625], which directed the addition of section 44940 at end of subchapter II of chapter 449 without specifying the Code title to be amended, was executed by adding this section at the end of this subchapter, to reflect the probable intent of Congress.
 
  __Amendments__ 
+
+    2013—Subsec. (a)(2). [Pub. L. 113–67, § 601(a)(1)][/us/pl/113/67/s601/a/1], struck out par. (2) which related to fees on air carriers and foreign air carriers engaged in air transportation and intrastate air transportation.
+
+    Subsec. (c). [Pub. L. 113–67, § 601(b)][/us/pl/113/67/s601/b], amended subsec. (c) generally. Prior to amendment, text read as follows: “Fees imposed under subsection (a)(1) may not exceed $2.50 per enplanement in air transportation or intrastate air transportation that originates at an airport in the United States, except that the total amount of such fees may not exceed $5.00 per one-way trip.”
+
+    Subsec. (d)(1). [Pub. L. 113–67, § 601(a)(2)][/us/pl/113/67/s601/a/2], struck out “, and may impose a fee under subsection (a)(2),” after “under subsection (a)(1)”.
+
+    Subsec. (i). [Pub. L. 113–67, § 601(c)][/us/pl/113/67/s601/c], amended subsec. (i) generally. Prior to amendment, subsec. (i) related to the Checkpoint Screening Security Fund.
 
     2007—Subsec. (a)(2)(A), (B)(iv). [Pub. L. 110–161][/us/pl/110/161], which directed amendment of subsec. (a)(2) “by striking the period in the last sentence of subparagraph (A) and the clause (iv) of subparagraph B and adding the following, ‘except for estimates and additional collections made pursuant to the appropriation for Aviation Security in [Public Law 108–334][/us/pl/108/334]: Provided, That such judicial review shall be pursuant to [section 46110 of title 49][/us/usc/t49/s46110], United States Code: Provided further, That such judicial review shall be limited only to additional amounts collected by the Secretary before October 1, 2007.’ ”, was executed by substituting the quoted language directed to be added for the period at the end of last sentence of subpar. (A) and for the period at the end of cl. (iv) of subpar. (B), to reflect the probable intent of Congress.
 
@@ -181,6 +219,12 @@
 
     Subsec. (d)(4). [Pub. L. 108–176, § 605(b)(2)][/us/pl/108/176/s605/b/2], substituted “appropriations Act or in section 44923” for “appropriations Act”.
 
+ __Effective Date of 2013 Amendment__ 
+
+[Pub. L. 113–67, div. A, title VI, § 601(a)(3)][/us/pl/113/67/s601/a/3], Dec. 26, 2013, [127 Stat. 1187][/us/stat/127/1187], provided that: 
+
+> “The repeal made by paragraph (1) \[amending this section\] and the amendment made by paragraph (2) \[amending this section\] shall each take effect on October 1, 2014.”
+
  __Effective Date of 2003 Amendment__ 
 
     Amendment by [Pub. L. 108–176][/us/pl/108/176] applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see [section 3 of Pub. L. 108–176][/us/pl/108/176/s3], set out as a note under [section 106 of this title][/us/usc/t49/s106].
@@ -192,6 +236,22 @@
  __Deemed References to Chapters 509 and 511 of Title 51__ 
 
     General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see [section 4(d)(8) of Pub. L. 111–314][/us/pl/111/314/s4/d/8], set out as a note under [section 101 of this title][/us/usc/t49/s101].
+
+ __Imposition of Fee Increase__ 
+
+[Pub. L. 113–67, div. A, title VI, § 601(d)][/us/pl/113/67/s601/d], Dec. 26, 2013, [127 Stat. 1188][/us/stat/127/1188], provided that: 
+
+> “The Secretary of Homeland Security shall implement the fee increase authorized by the amendment made by subsection (b) \[amending this section\]—
+
+>     “(1) beginning on July 1, 2014; and
+
+>     “(2) through the publication of notice of such fee in the Federal Register, notwithstanding [section 9701 of title 31][/us/usc/t31/s9701], United States Code, and the procedural requirements of [section 553 of title 5][/us/usc/t5/s553], United States Code.”
+
+ __Continued Availability of Existing Balances__ 
+
+[Pub. L. 113–67, div. A, title VI, § 601(e)][/us/pl/113/67/s601/e], Dec. 26, 2013, [127 Stat. 1188][/us/stat/127/1188], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall not affect the availability of funds made available under [section 44940(i) of title 49][/us/usc/t49/s44940/i], United States Code, before the date of enactment of this Act \[Dec. 26, 2013\].”
 
 ----------
 
@@ -218,9 +278,17 @@
 [/us/stat/121/477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F477
 [/us/pl/110/161/s540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs540
 [/us/stat/121/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2079
+[/us/pl/113/67/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fa%2F1
+[/us/stat/127/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1187
+[/us/pl/113/67/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fa
+[/us/stat/127/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1187
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/107/71/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs118%2Fa
 [/us/stat/115/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F625
+[/us/pl/113/67/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fa%2F1
+[/us/pl/113/67/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fb
+[/us/pl/113/67/s601/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fa%2F2
+[/us/pl/113/67/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fc
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/pl/108/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F334
 [/us/usc/t49/s46110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs46110
@@ -229,11 +297,20 @@
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/108/176/s605/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs605%2Fb%2F1
 [/us/pl/108/176/s605/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs605%2Fb%2F2
+[/us/pl/113/67/s601/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fa%2F3
+[/us/stat/127/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1187
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176
 [/us/pl/108/176/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/111/314/s4/d/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314%2Fs4%2Fd%2F8
 [/us/usc/t49/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs101
+[/us/pl/113/67/s601/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fd
+[/us/stat/127/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1188
+[/us/usc/t31/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9701
+[/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
+[/us/pl/113/67/s601/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fe
+[/us/stat/127/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1188
+[/us/usc/t49/s44940/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44940%2Fi
 
 

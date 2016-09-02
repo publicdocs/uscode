@@ -431,7 +431,17 @@
 
         The Assistant Secretary shall submit to the appropriate committees of Congress a report on the implementation of the plan.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1205][/us/stat/108/1205]; [Pub. L. 106–181, title VII, § 717][/us/pl/106/181/s717], Apr. 5, 2000, [114 Stat. 163][/us/stat/114/163]; [Pub. L. 106–528][/us/pl/106/528], §§ 4, 6, Nov. 22, 2000, [114 Stat. 2520][/us/stat/114/2520], 2521; [Pub. L. 107–71, title I][/us/pl/107/71], §§ 101(f)(7)–(9), 106(a), (c), (d), 120, 126(b), 136, 144, Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603], 608–610, 629, 632, 636, 644; [Pub. L. 107–296, title XIV][/us/pl/107/296], §§ 1405, 1406, Nov. 25, 2002, [116 Stat. 2307][/us/stat/116/2307]; [Pub. L. 108–176, title VI, § 606(a)][/us/pl/108/176/s606/a], Dec. 12, 2003, [117 Stat. 2568][/us/stat/117/2568]; [Pub. L. 108–458, title IV][/us/pl/108/458], §§ 4011(a), 4012(a)(1), Dec. 17, 2004, [118 Stat. 3712][/us/stat/118/3712], 3714; [Pub. L. 110–53, title XVI, § 1615(a)][/us/pl/110/53/s1615/a], Aug. 3, 2007, [121 Stat. 486][/us/stat/121/486]; [Pub. L. 111–83, title V, § 553][/us/pl/111/83/s553], Oct. 28, 2009, [123 Stat. 2179][/us/stat/123/2179]; [Pub. L. 112–86, § 2(a)][/us/pl/112/86/s2/a], Jan. 3, 2012, [125 Stat. 1874][/us/stat/125/1874].)
+    (n) __Passenger Exit Points From Sterile Area.—__ 
+
+        (1)  __In general__  __.—__ 
+
+        The Secretary of Homeland Security shall ensure that the Transportation Security Administration is responsible for monitoring passenger exit points from the sterile area of airports at which the Transportation Security Administration provided such monitoring as of December 1, 2013.
+
+        (2)  __Sterile area defined__  __.—__ 
+
+        In this section, the term “sterile area” has the meaning given that term in section 1540.5 of title 49, Code of Federal Regulations (or any corresponding similar regulation or ruling).
+
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1205][/us/stat/108/1205]; [Pub. L. 106–181, title VII, § 717][/us/pl/106/181/s717], Apr. 5, 2000, [114 Stat. 163][/us/stat/114/163]; [Pub. L. 106–528][/us/pl/106/528], §§ 4, 6, Nov. 22, 2000, [114 Stat. 2520][/us/stat/114/2520], 2521; [Pub. L. 107–71, title I][/us/pl/107/71], §§ 101(f)(7)–(9), 106(a), (c), (d), 120, 126(b), 136, 144, Nov. 19, 2001, [115 Stat. 603][/us/stat/115/603], 608–610, 629, 632, 636, 644; [Pub. L. 107–296, title XIV][/us/pl/107/296], §§ 1405, 1406, Nov. 25, 2002, [116 Stat. 2307][/us/stat/116/2307]; [Pub. L. 108–176, title VI, § 606(a)][/us/pl/108/176/s606/a], Dec. 12, 2003, [117 Stat. 2568][/us/stat/117/2568]; [Pub. L. 108–458, title IV][/us/pl/108/458], §§ 4011(a), 4012(a)(1), Dec. 17, 2004, [118 Stat. 3712][/us/stat/118/3712], 3714; [Pub. L. 110–53, title XVI, § 1615(a)][/us/pl/110/53/s1615/a], Aug. 3, 2007, [121 Stat. 486][/us/stat/121/486]; [Pub. L. 111–83, title V, § 553][/us/pl/111/83/s553], Oct. 28, 2009, [123 Stat. 2179][/us/stat/123/2179]; [Pub. L. 112–86, § 2(a)][/us/pl/112/86/s2/a], Jan. 3, 2012, [125 Stat. 1874][/us/stat/125/1874]; [Pub. L. 113–67, div. A, title VI, § 603][/us/pl/113/67/s603], Dec. 26, 2013, [127 Stat. 1188][/us/stat/127/1188].)
 
 <table>
 
@@ -582,6 +592,8 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
     Section 607 of the Vision 100—Century of Aviation Reauthorization Act, referred to in subsec. (j)(2)(F), is [section 607 of Pub. L. 108–176][/us/pl/108/176/s607], which is set out as a note below.
 
  __Amendments__ 
+
+    2013—Subsec. (n). [Pub. L. 113–67][/us/pl/113/67] added subsec. (n).
 
     2012—Subsec. (m). [Pub. L. 112–86][/us/pl/112/86] added subsec. (m).
 
@@ -1077,6 +1089,8 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
 [/us/stat/123/2179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2179
 [/us/pl/112/86/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F86%2Fs2%2Fa
 [/us/stat/125/1874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1874
+[/us/pl/113/67/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs603
+[/us/stat/127/1188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1188
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
@@ -1085,6 +1099,7 @@ Aug. 8, 1985, Pub. L. 99–83, § 553(b), 99 Stat. 226.  </td>
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/108/176/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs607
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/112/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F86
 [/us/pl/111/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83
 [/us/pl/110/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53
