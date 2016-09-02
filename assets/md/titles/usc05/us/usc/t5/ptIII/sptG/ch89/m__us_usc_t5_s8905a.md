@@ -157,7 +157,7 @@
 
             (A)
 
-             If the basis for continued coverage under this section is an involuntary separation from a position in or under the Department of Veterans Affairs due to a reduction in force or a title 38 staffing readjustment, or a voluntary or involuntary separation from a Department of Energy position at a Department of Energy facility at which the Secretary is carrying out a closure project selected under section 4421 <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Atomic Energy Defense Act—
+             If the basis for continued coverage under this section is an involuntary separation from a position in or under the Department of Veterans Affairs due to a reduction in force or a title 38 staffing readjustment, or a voluntary or involuntary separation from a Department of Energy position at a Department of Energy facility at which the Secretary is carrying out a closure project selected under section 4421 of the Atomic Energy Defense Act—
 
                 (i) the individual shall be liable for not more than the employee contributions referred to in paragraph (1)(A)(i); and
 
@@ -253,7 +253,7 @@
 
     The date of enactment of this paragraph, referred to in subsec. (d)(4)(B), is the date of enactment of [Pub. L. 102–484][/us/pl/102/484], which was approved Oct. 23, 1992.
 
-    Section 4421 of the Atomic Energy Defense Act, referred to in subsec. (d)(5)(A), was classified to [section 2601 of Title 50][/us/usc/t50/s2601], War and National Defense, prior to repeal by [Pub. L. 113–66, div. C, title XXXI, § 3146(e)(10)][/us/pl/113/66/s3146/e/10], Dec. 26, 2013, [127 Stat. 1077][/us/stat/127/1077].
+    Section 4421 of the Atomic Energy Defense Act, referred to in subsec. (d)(5)(A), is classified to [section 2601 of Title 50][/us/usc/t50/s2601], War and National Defense.
 
     The date of the enactment of this paragraph, referred to in subsec. (d)(5)(B), is the date of enactment of [Pub. L. 106–117][/us/pl/106/117], which was approved Nov. 30, 1999.
 
@@ -384,8 +384,6 @@
 [/us/stat/127/1194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1194
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t50/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2601
-[/us/pl/113/66/s3146/e/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs3146%2Fe%2F10
-[/us/stat/127/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1077
 [/us/pl/106/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F117
 [/us/pl/110/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F422
 [/us/pl/113/67/s706/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs706%2Fb%2F1

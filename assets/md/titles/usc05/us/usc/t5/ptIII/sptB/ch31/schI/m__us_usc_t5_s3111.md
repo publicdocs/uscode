@@ -47,27 +47,11 @@
 
     (d) Notwithstanding [section 1342 of title 31][/us/usc/t31/s1342], the head of an agency may accept voluntary service for the United States under chapter 37 of this title and regulations of the Office of Personnel Management.
 
-    (e)
+    (e) For purposes of this section the term “agency” shall include the Architect of the Capitol. With respect to the Architect of the Capitol, the authority granted to the Office of Personnel Management under this section shall be exercised by the Architect of the Capitol.
 
-        (1) For purposes of this section the term “agency” shall include the Architect of the Capitol. With respect to the Architect of the Capitol, the authority granted to the Office of Personnel Management under this section shall be exercised by the Architect of the Capitol.
-
-        (2)
-
-         In this section, the term “agency” includes the Congressional Budget Office, except that in the case of the Congressional Budget Office—
-
-            (A) any student who provides voluntary service in accordance with this section shall be considered an employee of the Congressional Budget Office for purposes of section 203 of the Congressional Budget Act of 1974 (relating to the level of confidentiality of budget data); and
-
-            (B) the authority granted to the Office of Personnel Management under this section shall be exercised by the Director of the Congressional Budget Office.
-
-(Added [Pub. L. 95–454, title III, § 301(a)][/us/pl/95/454/s301/a], Oct. 13, 1978, [92 Stat. 1144][/us/stat/92/1144]; amended [Pub. L. 97–258, § 3(a)(5)][/us/pl/97/258/s3/a/5], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 97–437][/us/pl/97/437], Jan. 8, 1983, [96 Stat. 2285][/us/stat/96/2285]; [Pub. L. 107–296, title XIII, § 1314(b)][/us/pl/107/296/s1314/b], Nov. 25, 2002, [116 Stat. 2296][/us/stat/116/2296]; [Pub. L. 107–347, title II, § 209(g)(1)(A)][/us/pl/107/347/s209/g/1/A], Dec. 17, 2002, [116 Stat. 2931][/us/stat/116/2931]; [Pub. L. 111–68, div. A, title I, § 1303(a)][/us/pl/111/68/s1303/a], Oct. 1, 2009, [123 Stat. 2034][/us/stat/123/2034]; [Pub. L. 113–76, div. I, title I, § 1201(a)][/us/pl/113/76/s1201/a], Jan. 17, 2014, [128 Stat. 426][/us/stat/128/426].)
-
- __References in Text__ 
-
-    Section 203 of the Congressional Budget Act of 1974, referred to in subsec. (e)(2)(A), is classified to [section 603 of Title 2][/us/usc/t2/s603], The Congress.
+(Added [Pub. L. 95–454, title III, § 301(a)][/us/pl/95/454/s301/a], Oct. 13, 1978, [92 Stat. 1144][/us/stat/92/1144]; amended [Pub. L. 97–258, § 3(a)(5)][/us/pl/97/258/s3/a/5], Sept. 13, 1982, [96 Stat. 1063][/us/stat/96/1063]; [Pub. L. 97–437][/us/pl/97/437], Jan. 8, 1983, [96 Stat. 2285][/us/stat/96/2285]; [Pub. L. 107–296, title XIII, § 1314(b)][/us/pl/107/296/s1314/b], Nov. 25, 2002, [116 Stat. 2296][/us/stat/116/2296]; [Pub. L. 107–347, title II, § 209(g)(1)(A)][/us/pl/107/347/s209/g/1/A], Dec. 17, 2002, [116 Stat. 2931][/us/stat/116/2931]; [Pub. L. 111–68, div. A, title I, § 1303(a)][/us/pl/111/68/s1303/a], Oct. 1, 2009, [123 Stat. 2034][/us/stat/123/2034].)
 
  __Amendments__ 
-
-    2014—Subsec. (e). [Pub. L. 113–76][/us/pl/113/76] designated existing provisions as par. (1) and added par. (2).
 
     2009—Subsec. (e). [Pub. L. 111–68][/us/pl/111/68] added subsec. (e).
 
@@ -80,12 +64,6 @@
     Subsec. (c)(2). [Pub. L. 97–437, § 1(2)][/us/pl/97/437/s1/2], added par. (2).
 
     1982—Subsec. (b). [Pub. L. 97–258][/us/pl/97/258] substituted “[section 1342 of title 31][/us/usc/t31/s1342]” for “section 3679(b) of the Revised Statutes ([31 U.S.C. 665(b)][/us/usc/t31/s665/b])”.
-
- __Effective Date of 2014 Amendment__ 
-
-[Pub. L. 113–76, div. I, title I, § 1201(b)][/us/pl/113/76/s1201/b], Jan. 17, 2014, [128 Stat. 426][/us/stat/128/426], provided that: 
-
-> “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2014 and each succeeding fiscal year.”
 
  __Effective Date of 2002 Amendments__ 
 
@@ -122,10 +100,6 @@
 [/us/stat/116/2931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2931
 [/us/pl/111/68/s1303/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1303%2Fa
 [/us/stat/123/2034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2034
-[/us/pl/113/76/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1201%2Fa
-[/us/stat/128/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F426
-[/us/usc/t2/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs603
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/111/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
@@ -134,8 +108,6 @@
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/usc/t31/s665/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs665%2Fb
-[/us/pl/113/76/s1201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1201%2Fb
-[/us/stat/128/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F426
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/pl/107/347/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347%2Fs402%2Fa
 [/us/usc/t44/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3601

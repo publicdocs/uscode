@@ -63,7 +63,7 @@
 
  __Effective Date of 2011 Amendment__ 
 
-    Amendment by [Pub. L. 112–74][/us/pl/112/74] applicable to voluntary separation incentive payments made during fiscal year 2012 or any succeeding fiscal year, see [section 1401(c) of Pub. L. 112–74][/us/pl/112/74/s1401/c], set out as a note under [section 4505 of Title 2][/us/usc/t2/s4505], The Congress.
+    Amendment by [Pub. L. 112–74][/us/pl/112/74] applicable to voluntary separation incentive payments made during fiscal year 2012 or any succeeding fiscal year, see [section 1401(c) of Pub. L. 112–74][/us/pl/112/74/s1401/c], set out as a note under [section 60q of Title 2][/us/usc/t2/s60q], The Congress.
 
  __Effective Date__ 
 
@@ -110,7 +110,7 @@
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/pl/112/74/s1401/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs1401%2Fc
-[/us/usc/t2/s4505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4505
+[/us/usc/t2/s60q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60q
 [/us/pl/107/296/s1313/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs1313%2Fa%2F4
 [/us/stat/116/2294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2294
 [/us/pl/108/72/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F72%2Fs5

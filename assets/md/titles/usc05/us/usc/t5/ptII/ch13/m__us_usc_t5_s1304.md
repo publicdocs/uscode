@@ -33,7 +33,7 @@
 
     (e)
 
-        (1) A revolving fund is available, to the Office without fiscal year limitation, for financing investigations, training, and such other functions as the Office is authorized or required to perform on a reimbursable basis, including personnel management services performed at the request of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities, and for the cost of audits, investigations, and oversight activities, conducted by the Inspector General of the Office, of the fund and the activities financed by the fund. However, the functions which may be financed in any fiscal year by the fund are restricted to those functions which are covered by the budget estimates submitted to the Congress for that fiscal year. To the maximum extent feasible, each individual activity shall be conducted generally on an actual cost basis over a reasonable period of time.
+        (1) A revolving fund is available, to the Office without fiscal year limitation, for financing investigations, training, and such other functions as the Office is authorized or required to perform on a reimbursable basis, including personnel management services performed at the request of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities. However, the functions which may be financed in any fiscal year by the fund are restricted to those functions which are covered by the budget estimates submitted to the Congress for that fiscal year. To the maximum extent feasible, each individual activity shall be conducted generally on an actual cost basis over a reasonable period of time.
 
         (2)
 
@@ -53,13 +53,7 @@
 
         (4) Any unobligated and unexpended balances in the fund which the Office determines to be in excess of amounts needed for activities financed by the fund shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
-        (5)
-
-            (A) The Office shall prepare a business-type budget providing full disclosure of the results of operations for each of the functions performed by the Office and financed by the fund, and such budget shall be transmitted to the Congress and considered, in the manner prescribed by law for wholly owned Government corporations.
-
-            (B) Such budget shall include an estimate from the Inspector General of the Office of the amount required to pay the expenses to audit, investigate, and provide other oversight activities with respect to the fund and the activities financed by the fund.
-
-            (C) The amount requested by the Inspector General under subparagraph (B) shall not exceed .33 percent of the total budgetary authority requested by the Office under subparagraph (A).
+        (5) The Office shall prepare a business-type budget providing full disclosure of the results of operations for each of the functions performed by the Office and financed by the fund, and such budget shall be transmitted to the Congress and considered, in the manner prescribed by law for wholly owned Government corporations.
 
         (6) The Comptroller General of the United States shall, as a result of his periodic reviews of the activities financed by the fund, report and make such recommendations as he deems appropriate to the Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives.
 
@@ -67,7 +61,7 @@
 
     (g) This section does not affect the responsibility of the Federal Bureau of Investigation to investigate espionage, sabotage, or subversive acts.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 401][/us/stat/80/401]; [Pub. L. 91–189, § 1][/us/pl/91/189/s1], Dec. 30, 1969, [83 Stat. 851][/us/stat/83/851]; [Pub. L. 91–648, title V, § 510][/us/pl/91/648/s510], Jan. 5, 1971, [84 Stat. 1928][/us/stat/84/1928]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–60, title II, § 203(a)(2)][/us/pl/96/60/s203/a/2], Aug. 15, 1979, [93 Stat. 398][/us/stat/93/398]; [Pub. L. 97–412, § 1(a)][/us/pl/97/412/s1/a], Jan. 3, 1983, [96 Stat. 2047][/us/stat/96/2047]; [Pub. L. 98–224, § 5(b)(1)][/us/pl/98/224/s5/b/1], Mar. 2, 1984, [98 Stat. 48][/us/stat/98/48]; [Pub. L. 103–437, § 3(a)][/us/pl/103/437/s3/a], Nov. 2, 1994, [108 Stat. 4581][/us/stat/108/4581]; [Pub. L. 104–66, title II, § 2182][/us/pl/104/66/s2182], Dec. 21, 1995, [109 Stat. 732][/us/stat/109/732]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title IV, § 421\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–343; [Pub. L. 113–80, § 2][/us/pl/113/80/s2], Feb. 12, 2014, [128 Stat. 1006][/us/stat/128/1006].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 401][/us/stat/80/401]; [Pub. L. 91–189, § 1][/us/pl/91/189/s1], Dec. 30, 1969, [83 Stat. 851][/us/stat/83/851]; [Pub. L. 91–648, title V, § 510][/us/pl/91/648/s510], Jan. 5, 1971, [84 Stat. 1928][/us/stat/84/1928]; [Pub. L. 95–454, title IX, § 906(a)(2)][/us/pl/95/454/s906/a/2], (3), Oct. 13, 1978, [92 Stat. 1224][/us/stat/92/1224]; [Pub. L. 96–60, title II, § 203(a)(2)][/us/pl/96/60/s203/a/2], Aug. 15, 1979, [93 Stat. 398][/us/stat/93/398]; [Pub. L. 97–412, § 1(a)][/us/pl/97/412/s1/a], Jan. 3, 1983, [96 Stat. 2047][/us/stat/96/2047]; [Pub. L. 98–224, § 5(b)(1)][/us/pl/98/224/s5/b/1], Mar. 2, 1984, [98 Stat. 48][/us/stat/98/48]; [Pub. L. 103–437, § 3(a)][/us/pl/103/437/s3/a], Nov. 2, 1994, [108 Stat. 4581][/us/stat/108/4581]; [Pub. L. 104–66, title II, § 2182][/us/pl/104/66/s2182], Dec. 21, 1995, [109 Stat. 732][/us/stat/109/732]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title IV, § 421\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–343.)
 
 <table>
 
@@ -181,10 +175,6 @@ Apr. 5, 1952, ch. 159, § 3, 66 Stat. 44.  </td>
 
  __Amendments__ 
 
-    2014—Subsec. (e)(1). [Pub. L. 113–80, § 2(1)][/us/pl/113/80/s2/1], inserted “, and for the cost of audits, investigations, and oversight activities, conducted by the Inspector General of the Office, of the fund and the activities financed by the fund” before period at end of first sentence.
-
-    Subsec. (e)(5). [Pub. L. 113–80, § 2(2)][/us/pl/113/80/s2/2], designated existing provisions as subpar. (A) and added subpars. (B) and (C).
-
     1996—Subsec. (e)(1). [Pub. L. 104–208][/us/pl/104/208] inserted “, including personnel management services performed at the request of individual agencies (which would otherwise be the responsibility of such agencies), or at the request of nonappropriated fund instrumentalities” before period at end of first sentence.
 
     1995—Subsec. (e)(6). [Pub. L. 104–66][/us/pl/104/66] struck out before period at end “at least once every three years”.
@@ -256,8 +246,6 @@ Apr. 5, 1952, ch. 159, § 3, 66 Stat. 44.  </td>
 [/us/stat/109/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F732
 [/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
 [/us/stat/110/3009-314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-314
-[/us/pl/113/80/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F80%2Fs2
-[/us/stat/128/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1006
 [/us/act/1952-04-05/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-04-05%2Fs1
 [/us/stat/60/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F766
 [/us/act/1953-07-31/ch283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-07-31%2Fch283
@@ -279,8 +267,6 @@ Apr. 5, 1952, ch. 159, § 3, 66 Stat. 44.  </td>
 [/us/usc/t42/s1874/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1874%2Fc
 [/us/pl/96/516/s21/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F516%2Fs21%2Fb%2F1
 [/us/stat/94/3010]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3010
-[/us/pl/113/80/s2/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F80%2Fs2%2F1
-[/us/pl/113/80/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F80%2Fs2%2F2
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437

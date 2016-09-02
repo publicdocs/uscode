@@ -1071,7 +1071,7 @@ July 18, 1966, Pub. L. 89–504, § 503, 80 Stat. 300.  </td>
 
  __Effective Date of 1970 Amendment__ 
 
-    Amendment by [Pub. L. 91–510][/us/pl/91/510] effective immediately prior to noon on Jan. 3, 1971, see [section 601(1) of Pub. L. 91–510][/us/pl/91/510/s601/1], set out as a note under [section 4301 of Title 2][/us/usc/t2/s4301], The Congress.
+    Amendment by [Pub. L. 91–510][/us/pl/91/510] effective immediately prior to noon on Jan. 3, 1971, see [section 601(1) of Pub. L. 91–510][/us/pl/91/510/s601/1], set out as a note under [section 72a of Title 2][/us/usc/t2/s72a], The Congress.
 
  __Effective Date of 1969 Amendment__ 
 
@@ -1739,7 +1739,7 @@ Section 6(a), (b) of [Pub. L. 86–415][/us/pl/86/415], Apr. 8, 1960, [74 Stat. 
 [/us/pl/91/658/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F658%2Fs5%2Fa
 [/us/pl/91/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510
 [/us/pl/91/510/s601/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F510%2Fs601%2F1
-[/us/usc/t2/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4301
+[/us/usc/t2/s72a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs72a
 [/us/pl/91/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F177
 [/us/pl/91/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F177
 [/us/pl/91/177/s112/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F177%2Fs112%2Fc

@@ -47,7 +47,7 @@
 
 [Pub. L. 101–194, title VII, § 704(b)][/us/pl/101/194/s704/b], Nov. 30, 1989, [103 Stat. 1769][/us/stat/103/1769], provided that: 
 
-> “This section and the amendments made by this section \[amending this section, [section 4501 of Title 2][/us/usc/t2/s4501], The Congress, [section 104 of Title 3][/us/usc/t3/s104], The President, and [section 461 of Title 28][/us/usc/t28/s461], Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section\] shall take effect on January 1, 1991.”
+> “This section and the amendments made by this section \[amending this section, [section 31 of Title 2][/us/usc/t2/s31], The Congress, [section 104 of Title 3][/us/usc/t3/s104], The President, and [section 461 of Title 28][/us/usc/t28/s461], Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section\] shall take effect on January 1, 1991.”
 
  __Salary Levels of Senior Government Officials__ 
 
@@ -129,7 +129,7 @@
 
 >         “(B)  __Amendment to the legislative reorganization act of 1946__  __.—__ 
 
->         Section 601(a)(2) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 31(2)][/us/usc/t2/s31/2]) \[now [2 U.S.C. 4501(2)][/us/usc/t2/s4501/2]\] is amended by striking ‘corresponds to’ and all that follows thereafter through the period and inserting the following:
+>         Section 601(a)(2) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 31(2)][/us/usc/t2/s31/2]) is amended by striking ‘corresponds to’ and all that follows thereafter through the period and inserting the following:
 
 >         ‘corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.’.”
 
@@ -171,7 +171,7 @@
 
  __1977__  __ Comparability Adjustment Not Effective for Certain Positions__ 
 
-[Pub. L. 95–66][/us/pl/95/66], July 11, 1977, [91 Stat. 270][/us/stat/91/270], nullified the first adjustment in pay which would have been made after July 11, 1977, under the following provisions of law: the second sentence of [section 104 of Title 3][/us/usc/t3/s104], The President; par. (2) of [section 4501 of Title 2][/us/usc/t2/s4501], The Congress; [section 461 of Title 28][/us/usc/t28/s461], Judiciary and Judicial Procedure; and [section 5318 of this title][/us/usc/t5/s5318].
+[Pub. L. 95–66][/us/pl/95/66], July 11, 1977, [91 Stat. 270][/us/stat/91/270], nullified the first adjustment in pay which would have been made after July 11, 1977, under the following provisions of law: the second sentence of [section 104 of Title 3][/us/usc/t3/s104], The President; par. (2) of [section 31 of Title 2][/us/usc/t2/s31], The Congress; [section 461 of Title 28][/us/usc/t28/s461], Judiciary and Judicial Procedure; and [section 5318 of this title][/us/usc/t5/s5318].
 
  __Fiscal Year 1977 Limitation on Use of Funds for Pay Adjustments for Certain Positions__ 
 
@@ -205,7 +205,7 @@
 [/us/usc/t5/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5301
 [/us/pl/101/194/s704/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194%2Fs704%2Fb
 [/us/stat/103/1769]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1769
-[/us/usc/t2/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501
+[/us/usc/t2/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
 [/us/usc/t28/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs461
 [/us/pl/102/90/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs6%2Fa
@@ -222,7 +222,6 @@
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
 [/us/usc/t28/s461/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs461%2Fa
 [/us/usc/t2/s31/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31%2F2
-[/us/usc/t2/s4501/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501%2F2
 [/us/pl/98/51/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F51%2Fs304
 [/us/stat/97/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F279
 [/us/pl/97/377/s129/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F377%2Fs129%2Fb
@@ -267,7 +266,7 @@
 [/us/pl/95/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F66
 [/us/stat/91/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F270
 [/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
-[/us/usc/t2/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4501
+[/us/usc/t2/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31
 [/us/usc/t28/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs461
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
 [/us/pl/94/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F440

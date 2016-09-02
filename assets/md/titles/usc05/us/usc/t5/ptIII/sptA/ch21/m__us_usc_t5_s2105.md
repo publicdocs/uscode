@@ -43,7 +43,7 @@
 
     (c)
 
-     An employee paid from nonappropriated funds of the Army and Air Force Exchange Service, Navy Ships Stores Program, Navy exchanges, Marine Corps exchanges, Coast Guard exchanges, and other instrumentalities of the United States under the jurisdiction of the armed forces conducted for the comfort, pleasure, contentment, and mental and physical improvement of personnel of the armed forces is deemed not an employee for the purpose of—
+     An employee paid from nonappropriated funds of the Army and Air Force Exchange Service, Army and Air Force Motion Picture Service, Navy Ship’s Stores Ashore, Navy exchanges, Marine Corps exchanges, Coast Guard exchanges, and other instrumentalities of the United States under the jurisdiction of the armed forces conducted for the comfort, pleasure, contentment, and mental and physical improvement of personnel of the armed forces is deemed not an employee for the purpose of—
 
         (1)
 
@@ -69,7 +69,7 @@
 
     (f) For purposes of sections 1212, 1213, 1214, 1215, 1216, 1221, 1222, 2302, and 7701, employees appointed under chapter 73 or 74 of title 38 shall be employees.
 
-([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 409][/us/stat/80/409]; [Pub. L. 90–486, § 4][/us/pl/90/486/s4], Aug. 13, 1968, [82 Stat. 757][/us/stat/82/757]; [Pub. L. 91–375, § 6(c)(4)][/us/pl/91/375/s6/c/4], Aug. 12, 1970, [84 Stat. 775][/us/stat/84/775]; [Pub. L. 92–392, § 2][/us/pl/92/392/s2], Aug. 19, 1972, [86 Stat. 573][/us/stat/86/573]; [Pub. L. 95–454, title VII, § 703(c)(2)][/us/pl/95/454/s703/c/2], title IX, § 906(a)(2), Oct. 13, 1978, [92 Stat. 1217][/us/stat/92/1217], 1224; [Pub. L. 96–54, § 2(a)(5)][/us/pl/96/54/s2/a/5], (6), Aug. 14, 1979, [93 Stat. 381][/us/stat/93/381]; [Pub. L. 99–335, title II, § 207(a)][/us/pl/99/335/s207/a], June 6, 1986, [100 Stat. 594][/us/stat/100/594]; [Pub. L. 99–638, § 2(b)(1)][/us/pl/99/638/s2/b/1], Nov. 10, 1986, [100 Stat. 3536][/us/stat/100/3536]; [Pub. L. 101–508, title VII, § 7202(b)][/us/pl/101/508/s7202/b], Nov. 5, 1990, [104 Stat. 1388–335][/us/stat/104/1388-335]; [Pub. L. 103–3, title II, § 201(b)][/us/pl/103/3/s201/b], Feb. 5, 1993, [107 Stat. 23][/us/stat/107/23]; [Pub. L. 103–424, § 7][/us/pl/103/424/s7], Oct. 29, 1994, [108 Stat. 4364][/us/stat/108/4364]; [Pub. L. 104–201, div. A, title III, § 370(b)][/us/pl/104/201/s370/b], Sept. 23, 1996, [110 Stat. 2499][/us/stat/110/2499]; [Pub. L. 105–85, div. B, title XXVIII, § 2871(c)(2)][/us/pl/105/85/s2871/c/2], Nov. 18, 1997, [111 Stat. 2015][/us/stat/111/2015]; [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242]; [Pub. L. 113–66, div. A, title VI, § 642][/us/pl/113/66/s642], Dec. 26, 2013, [127 Stat. 787][/us/stat/127/787].)
+([Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, [80 Stat. 409][/us/stat/80/409]; [Pub. L. 90–486, § 4][/us/pl/90/486/s4], Aug. 13, 1968, [82 Stat. 757][/us/stat/82/757]; [Pub. L. 91–375, § 6(c)(4)][/us/pl/91/375/s6/c/4], Aug. 12, 1970, [84 Stat. 775][/us/stat/84/775]; [Pub. L. 92–392, § 2][/us/pl/92/392/s2], Aug. 19, 1972, [86 Stat. 573][/us/stat/86/573]; [Pub. L. 95–454, title VII, § 703(c)(2)][/us/pl/95/454/s703/c/2], title IX, § 906(a)(2), Oct. 13, 1978, [92 Stat. 1217][/us/stat/92/1217], 1224; [Pub. L. 96–54, § 2(a)(5)][/us/pl/96/54/s2/a/5], (6), Aug. 14, 1979, [93 Stat. 381][/us/stat/93/381]; [Pub. L. 99–335, title II, § 207(a)][/us/pl/99/335/s207/a], June 6, 1986, [100 Stat. 594][/us/stat/100/594]; [Pub. L. 99–638, § 2(b)(1)][/us/pl/99/638/s2/b/1], Nov. 10, 1986, [100 Stat. 3536][/us/stat/100/3536]; [Pub. L. 101–508, title VII, § 7202(b)][/us/pl/101/508/s7202/b], Nov. 5, 1990, [104 Stat. 1388–335][/us/stat/104/1388-335]; [Pub. L. 103–3, title II, § 201(b)][/us/pl/103/3/s201/b], Feb. 5, 1993, [107 Stat. 23][/us/stat/107/23]; [Pub. L. 103–424, § 7][/us/pl/103/424/s7], Oct. 29, 1994, [108 Stat. 4364][/us/stat/108/4364]; [Pub. L. 104–201, div. A, title III, § 370(b)][/us/pl/104/201/s370/b], Sept. 23, 1996, [110 Stat. 2499][/us/stat/110/2499]; [Pub. L. 105–85, div. B, title XXVIII, § 2871(c)(2)][/us/pl/105/85/s2871/c/2], Nov. 18, 1997, [111 Stat. 2015][/us/stat/111/2015]; [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242].)
 
 <table>
 
@@ -227,8 +227,6 @@ Aug. 10, 1956, ch. 1041, § 29(d), 70A Stat. 632.  </td>
 
  __Amendments__ 
 
-    2013—Subsec. (c). [Pub. L. 113–66][/us/pl/113/66] substituted “Navy Ships Stores Program” for “Army and Air Force Motion Picture Service, Navy Ship’s Stores Ashore”.
-
     2006—Subsec. (e). [Pub. L. 109–435][/us/pl/109/435] substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
 
     1997—Subsec. (b). [Pub. L. 105–85][/us/pl/105/85] inserted “(if any)” after “Academy dairy”.
@@ -374,12 +372,9 @@ Aug. 10, 1956, ch. 1041, § 29(d), 70A Stat. 632.  </td>
 [/us/stat/111/2015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2015
 [/us/pl/109/435/s604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Ff
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
-[/us/pl/113/66/s642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs642
-[/us/stat/127/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F787
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/105/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201

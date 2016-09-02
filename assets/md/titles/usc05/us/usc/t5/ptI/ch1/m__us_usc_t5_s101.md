@@ -213,12 +213,6 @@ R.S. § 159.  </td>
 
     Amendment by [Pub. L. 89–670][/us/pl/89/670] effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly § 15(a), of [Pub. L. 89–670][/us/pl/89/670] and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
- __Short Title of 2014 Amendment__ 
-
-[Pub. L. 113–80, § 1][/us/pl/113/80/s1], Feb. 12, 2014, [128 Stat. 1006][/us/stat/128/1006], provided that: 
-
-> “This Act \[amending [section 1304 of this title][/us/usc/t5/s1304]\] may be cited as the ‘OPM IG Act’.”
-
  __Short Title of 2012 Amendment__ 
 
 [Pub. L. 112–230, § 1][/us/pl/112/230/s1], Dec. 28, 2012, [126 Stat. 1616][/us/stat/126/1616], provided that: 
@@ -383,9 +377,6 @@ R.S. § 159.  </td>
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
-[/us/pl/113/80/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F80%2Fs1
-[/us/stat/128/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1006
-[/us/usc/t5/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1304
 [/us/pl/112/230/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F230%2Fs1
 [/us/stat/126/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1616
 [/us/usc/t5/s7326]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7326
