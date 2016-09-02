@@ -47,7 +47,7 @@
 
         (14) The runaway and homeless youth program and the transitional living program for homeless youth under title III of the Juvenile Justice and Delinquency Prevention Act ([Public Law 102–586][/us/pl/102/586]).
 
-        (15) After-school activities for school aged children under the Child Care and Development Block Grant Act ([42 U.S.C. 9858][/us/usc/t42/s9858] et seq.).
+        (15) After-school activities for school aged children under the Child Care and Development Block Grant Act ([42 U.S.C. 9858][/us/usc/t42/s9858] 1 et seq.).
 
         (16) The community-based family resource programs under section 401 1 of the Human Services Reauthorization Act of 1994 ([Public Law 103–252][/us/pl/103/252]).
 
@@ -151,7 +151,7 @@
 
     The Juvenile Justice and Delinquency Prevention Act, referred to in subsec. (a)(14), probably means the Juvenile Justice and Delinquency Prevention Act of 1974, [Pub. L. 93–415][/us/pl/93/415], Sept. 7, 1974, [88 Stat. 1109][/us/stat/88/1109], as amended. Title III of the Act is classified generally to subchapter III (§ 5701 et seq.) of chapter 72 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5601 of Title 42][/us/usc/t42/s5601] and Tables.
 
-    The Child Care and Development Block Grant Act, referred to in subsec. (a)(15), probably means the Child Care and Development Block Grant Act of 1990, subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], as added by [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236], as amended, which is classified generally to subchapter II–B (§ 9858 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42][/us/usc/t42/s9801] and Tables.
+    The Child Care and Development Block Grant Act, referred to in subsec. (a)(15), probably means the Child Care and Development Block Grant Act of 1990, subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], as added by [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236], which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 9857(a) of Title 42][/us/usc/t42/s9857/a] and Tables.
 
     The Child Abuse Prevention and Treatment Act Amendments of 1984, referred to in subsec. (a)(17), probably means the Child Abuse Amendments of 1984, [Pub. L. 98–457][/us/pl/98/457], Oct. 9, 1984, [98 Stat. 1749][/us/stat/98/1749], as amended. Title III of the Act, relating to family violence programs, is classified generally to chapter 110 (§ 10401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under [section 5101 of Title 42][/us/usc/t42/s5101] and Tables.
 
@@ -279,7 +279,7 @@
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
 [/us/stat/104/1388-236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-236
-[/us/usc/t42/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9801
+[/us/usc/t42/s9857/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9857%2Fa
 [/us/pl/98/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F457
 [/us/stat/98/1749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1749
 [/us/usc/t42/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5101
