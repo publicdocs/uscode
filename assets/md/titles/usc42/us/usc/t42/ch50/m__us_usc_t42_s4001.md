@@ -61,6 +61,12 @@
 
 > “This title \[enacting this chapter, amending [section 2414 of this title][/us/usc/t42/s2414], repealing sections 2401 to 2413 and 2415 to 2421 of this title, and enacting provisions set out as notes under this section\] shall take effect one hundred and twenty days following the date of its enactment \[Aug. 1, 1968\], except that the Secretary, on the basis of a finding that conditions exist necessitating the prescribing of an additional period, may prescribe a later effective date which in no event shall be more than one hundred and eighty days following such date of enactment.”
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–89, § 1(a)][/us/pl/113/89/s1/a], Mar. 21, 2014, [128 Stat. 1020][/us/stat/128/1020], provided that: 
+
+> “This Act \[enacting sections 4005, 4015a, 4033, 4101d, and 4101e of this title, amending sections 4012a, 4013, 4014, 4015, 4017, 4017a, 4081, 4101b, 4102, and 4104 of this title and [section 2604 of Title 12][/us/usc/t12/s2604], Banks and Banking, enacting provisions set out as notes under sections 4012a, 4014, 4015, and 4102 of this title, and repealing provisions set out as a note under [section 4012a of this title][/us/usc/t42/s4012a]\] may be cited as the ‘Homeowner Flood Insurance Affordability Act of 2014’.”
+
  __Short Title of 2012 Amendment__ 
 
 [Pub. L. 112–141, div. F, title II, § 100201][/us/pl/112/141/s100201], July 6, 2012, [126 Stat. 916][/us/stat/126/916], provided that: 
@@ -179,6 +185,10 @@
 [/us/pl/90/448/s1377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1377
 [/us/stat/82/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F589
 [/us/usc/t42/s2414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2414
+[/us/pl/113/89/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs1%2Fa
+[/us/stat/128/1020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1020
+[/us/usc/t12/s2604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2604
+[/us/usc/t42/s4012a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4012a
 [/us/pl/112/141/s100201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100201
 [/us/stat/126/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F916
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141

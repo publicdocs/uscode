@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch50/schI/m__us_usc_t42_s4014.md) | [Next](./../../../../..//us/usc/t42/ch50/schI/m__us_usc_t42_s4016.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4015)
+[Previous](./../../../../..//us/usc/t42/ch50/schI/m__us_usc_t42_s4014.md) | [Next](./../../../../..//us/usc/t42/ch50/schI/m__us_usc_t42_s4015a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4015)
 
 ## § 4015. Chargeable premium rates
 
@@ -55,11 +55,37 @@
 
     (e) __Annual limitation on premium increases__ 
 
-    Except with respect to properties described under paragraph (2) of subsection (c) of this section, and notwithstanding any other provision of this chapter, the chargeable risk premium rates for flood insurance under this chapter for any properties—
+    Except with respect to properties described under paragraph (2) of subsection (c) of this section, and notwithstanding any other provision of this chapter—
 
-        (1) within any single risk classification may not be increased by an amount that would result in the average of such rate increases for properties within the risk classification during any 12-month period exceeding 20 percent of the average of the risk premium rates for properties within the risk classification upon the commencement of such 12-month period; and
+        (1)
 
-        (2) described in subparagraphs (A) through (E) of [section 4014(a)(2) of this title][/us/usc/t42/s4014/a/2] shall be increased by 25 percent each year, until the average risk premium rate for such properties is equal to the average of the risk premium rates for properties described under paragraph (1).
+         the chargeable risk premium rate for flood insurance under this chapter for any property may not be increased by more than 18 percent each year, except—
+
+            (A) as provided in paragraph (4);
+
+            (B) in the case of property identified under [section 4014(g) of this title][/us/usc/t42/s4014/g]; or
+
+            (C)
+
+             in the case of a property that—
+
+                (i) is located in a community that has experienced a rating downgrade under the community rating system program carried out under [section 4022(b) of this title][/us/usc/t42/s4022/b];
+
+                (ii)
+
+                 is covered by a policy with respect to which the policyholder has—
+
+                    (I) decreased the amount of the deductible; or
+
+                    (II) increased the amount of coverage; or
+
+                (iii) was misrated;
+
+        (2) the chargeable risk premium rates for flood insurance under this chapter for any properties initially rated under [section 4014(a)(2) of this title][/us/usc/t42/s4014/a/2] within any single risk classification, excluding properties for which the chargeable risk premium rate is not less than the applicable estimated risk premium rate under [section 4014(a)(1) of this title][/us/usc/t42/s4014/a/1], shall be increased by an amount that results in an average of such rate increases for properties within the risk classification during any 12-month period of not less than 5 percent of the average of the risk premium rates for such properties within the risk classification upon the commencement of such 12-month period;
+
+        (3) the chargeable risk premium rates for flood insurance under this chapter for any properties within any single risk classification may not be increased by an amount that would result in the average of such rate increases for properties within the risk classification during any 12-month period exceeding 15 percent of the average of the risk premium rates for properties within the risk classification upon the commencement of such 12-month period; and
+
+        (4) the chargeable risk premium rates for flood insurance under this chapter for any properties described in subparagraphs (A) through (E) of [section 4014(a)(2) of this title][/us/usc/t42/s4014/a/2] shall be increased by 25 percent each year, until the average risk premium rate for such properties is equal to the average of the risk premium rates for properties described under paragraph (3).
 
     (f) __Adjustment of premium__ 
 
@@ -67,13 +93,9 @@
 
     (g) __Frequency of premium collection__ 
 
-        With respect to any chargeable premium rate prescribed under this section, the Administrator shall provide policyholders that are not required to escrow their premiums and fees for flood insurance as set forth under [section 4012a of this title][/us/usc/t42/s4012a] with the option of paying their premiums either annually or in more frequent installments.
+        With respect to any chargeable premium rate prescribed under this section, the Administrator shall provide policyholders that are not required to escrow their premiums and fees for flood insurance as set forth under [section 4012a of this title][/us/usc/t42/s4012a] with the option of paying their premiums annually or monthly.
 
-    (h) __Premium adjustment to reflect current risk of flood__ 
-
-        Notwithstanding subsection (f), upon the effective date of any revised or updated flood insurance rate map under this chapter, the Flood Disaster Protection Act of 1973, or the Biggert-Waters Flood Insurance Reform Act of 2012, any property located in an area that is participating in the national flood insurance program shall have the risk premium rate charged for flood insurance on such property adjusted to accurately reflect the current risk of flood to such property, subject to any other provision of this chapter. Any increase in the risk premium rate charged for flood insurance on any property that is covered by a flood insurance policy on the effective date of such an update that is a result of such updating shall be phased in over a 5-year period, at the rate of 20 percent for each year following such effective date. In the case of any area that was not previously designated as an area having special flood hazards and that, pursuant to any issuance, revision, updating, or other change in a flood insurance map, becomes designated as such an area, the chargeable risk premium rate for flood insurance under this chapter that is purchased on or after July 6, 2012, with respect to any property that is located within such area shall be phased in over a 5-year period, at the rate of 20 percent for each year following the effective date of such issuance, revision, updating, or change.
-
-    (i) __Rule of construction__ 
+    (h) __Rule of construction__ 
 
     For purposes of this section, the calculation of an “average historical loss year”—
 
@@ -81,19 +103,85 @@
 
         (2) shall be computed in accordance with generally accepted actuarial principles.
 
-([Pub. L. 90–448, title XIII, § 1308][/us/pl/90/448/s1308], Aug. 1, 1968, [82 Stat. 576][/us/stat/82/576]; [Pub. L. 93–234, title I, § 103][/us/pl/93/234/s103], Dec. 31, 1973, [87 Stat. 978][/us/stat/87/978]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 101–508, title II, § 2302(e)(2)][/us/pl/101/508/s2302/e/2], Nov. 5, 1990, [104 Stat. 1388–24][/us/stat/104/1388-24]; [Pub. L. 103–325, title V, § 572(a)][/us/pl/103/325/s572/a], Sept. 23, 1994, [108 Stat. 2277][/us/stat/108/2277]; [Pub. L. 108–264, title I, § 106][/us/pl/108/264/s106], title II, § 209, June 30, 2004, [118 Stat. 724][/us/stat/118/724], 727; [Pub. L. 112–123, § 2(b)][/us/pl/112/123/s2/b], May 31, 2012, [126 Stat. 365][/us/stat/126/365]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100205(c), (d), 100207, 100211, 100238(b)(1), July 6, 2012, [126 Stat. 918][/us/stat/126/918], 919, 921, 958.)
+    (i) __Rates for properties newly mapped into areas with special flood hazards__ 
+
+    Notwithstanding subsection (f), the premium rate for flood insurance under this chapter that is purchased on or after March 21, 2014—
+
+        (1) on a property located in an area not previously designated as having special flood hazards and that, pursuant to any issuance, revision, updating, or other change in a flood insurance map, becomes designated as such an area; and
+
+        (2) where such flood insurance premium rate is calculated under subsection (a)(1) of [section 4014 of this title][/us/usc/t42/s4014],
+
+        shall for the first policy year be the preferred risk premium for the property and upon renewal shall be calculated in accordance with subsection (e) of this section until the rate reaches the rate calculated under subsection (a)(1) of [section 4014 of this title][/us/usc/t42/s4014].
+
+    (j) __Premiums and reports__ 
+
+        In setting premium risk rates, in addition to striving to achieve the objectives of this chapter the Administrator shall also strive to minimize the number of policies with annual premiums that exceed one percent of the total coverage provided by the policy. For any policies premiums that exceed this one percent threshold, the Administrator shall report such exceptions to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+    (k) __Consideration of mitigation methods__ 
+
+        In calculating the risk premium rate charged for flood insurance for a property under this section, the Administrator shall take into account the implementation of any mitigation method identified by the Administrator in the guidance issued under [section 4102(d) of this title][/us/usc/t42/s4102/d].
+
+    (l) __Clear communications__ 
+
+        The Administrator shall clearly communicate full flood risk determinations to individual property owners regardless of whether their premium rates are full actuarial rates.
+
+    (m) __Protection of small businesses, non-profits, houses of worship, and residences__ 
+
+        (1) __Report__ 
+
+        Not later than 18 months after March 21, 2014, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and semiannually thereafter, the Administrator shall monitor and report to Committee on Financial Services of the House Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, the Administrator’s assessment of the impact, if any, of the rate increases required under subparagraphs (A) and (D) of [section 4014(a)(2) of this title][/us/usc/t42/s4014/a/2] and the surcharges required under [section 4015a of this title][/us/usc/t42/s4015a] on the affordability of flood insurance for—
+
+            (A) small businesses with less than 100 employees;
+
+            (B) non-profit entities;
+
+            (C) houses of worship; and
+
+            (D) residences with a value equal to or less than 25 percent of the median home value of properties in the State in which the property is located.
+
+        (2) __Recommendations__ 
+
+            If the Administrator determines that the rate increases or surcharges described in paragraph (1) are having a detrimental effect on affordability, including resulting in lapsed policies, late payments, or other criteria related to affordability as identified by the Administrator, for any of the properties identified in subparagraphs (A) through (D) of such paragraph, the Administrator shall, not later than 3 months after making such a determination, make such recommendations as the Administrator considers appropriate to improve affordability to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+([Pub. L. 90–448, title XIII, § 1308][/us/pl/90/448/s1308], Aug. 1, 1968, [82 Stat. 576][/us/stat/82/576]; [Pub. L. 93–234, title I, § 103][/us/pl/93/234/s103], Dec. 31, 1973, [87 Stat. 978][/us/stat/87/978]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 101–508, title II, § 2302(e)(2)][/us/pl/101/508/s2302/e/2], Nov. 5, 1990, [104 Stat. 1388–24][/us/stat/104/1388-24]; [Pub. L. 103–325, title V, § 572(a)][/us/pl/103/325/s572/a], Sept. 23, 1994, [108 Stat. 2277][/us/stat/108/2277]; [Pub. L. 108–264, title I, § 106][/us/pl/108/264/s106], title II, § 209, June 30, 2004, [118 Stat. 724][/us/stat/118/724], 727; [Pub. L. 112–123, § 2(b)][/us/pl/112/123/s2/b], May 31, 2012, [126 Stat. 365][/us/stat/126/365]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100205(c), (d), 100207, 100211, 100238(b)(1), July 6, 2012, [126 Stat. 918][/us/stat/126/918], 919, 921, 958; [Pub. L. 113–89][/us/pl/113/89], §§ 4(a), 5–7, 11(a), 26(b), 28, 29, Mar. 21, 2014, [128 Stat. 1022][/us/stat/128/1022], 1023, 1025, 1033.)
 
  __References in Text__ 
 
-    This chapter, referred to in subsecs. (b)(2) and (e) and the third time appearing in subsec. (h), was in the original a reference to “this title” meaning title XIII of [Pub. L. 90–448][/us/pl/90/448], Aug. 1, 1968, [82 Stat. 572][/us/stat/82/572], known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title][/us/usc/t42/s4001] and Tables.
+    This chapter, referred to in subsecs. (b)(2), (e), (i), and (j), was in the original a reference to “this title” meaning title XIII of [Pub. L. 90–448][/us/pl/90/448], Aug. 1, 1968, [82 Stat. 572][/us/stat/82/572], known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title][/us/usc/t42/s4001] and Tables.
 
-    This chapter, referred to in subsec. (f) and the first two times appearing in subsec. (h), was in the original “this Act”, and was translated as reading “this title”, meaning title XIII of [Pub. L. 90–448][/us/pl/90/448], Aug. 1, 1968, [82 Stat. 572][/us/stat/82/572], as amended, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title][/us/usc/t42/s4001] and Tables.
+    This chapter, referred to in subsec. (f), was in the original “this Act”, and was translated as reading “this title”, meaning title XIII of [Pub. L. 90–448][/us/pl/90/448], Aug. 1, 1968, [82 Stat. 572][/us/stat/82/572], known as the National Flood Insurance Act of 1968, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title][/us/usc/t42/s4001] and Tables.
 
     The Flood Disaster Protection Act of 1973, referred to in subsec. (h), is [Pub. L. 93–234][/us/pl/93/234], Dec. 31, 1973, [87 Stat. 975][/us/stat/87/975]. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under [section 4001 of this title][/us/usc/t42/s4001] and Tables.
 
     The Biggert-Waters Flood Insurance Reform Act of 2012, referred to in subsec. (h), is subtitle A (§§ 100201–100249) of title II of div. F of [Pub. L. 112–141][/us/pl/112/141], July 6, 2012, [126 Stat. 916][/us/stat/126/916]. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under [section 4001 of this title][/us/usc/t42/s4001] and Tables.
 
+    March 21, 2014, referred to in subsec. (m)(1), was in the original “the date of the enactment of this section”, and was translated as reading “the date of the enactment of this subsection”, meaning the date of enactment of [Pub. L. 113–89][/us/pl/113/89], which enacted subsec. (m), to reflect the probable intent of Congress.
+
  __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–89, § 5(1)][/us/pl/113/89/s5/1], struck out “, the chargeable risk premium rates for flood insurance under this chapter for any properties” before dash at end of introductory provisions.
+
+    Subsec. (e)(1), (2). [Pub. L. 113–89, § 5(5)][/us/pl/113/89/s5/5], added pars. (1) and (2). Former pars. (1) and (2) redesignated (3) and (4), respectively.
+
+    [Pub. L. 113–89, § 5(2)][/us/pl/113/89/s5/2], (3), inserted “the chargeable risk premium rates for flood insurance under this chapter for any properties” at beginning.
+
+    Subsec. (e)(3). [Pub. L. 113–89, § 5(4)][/us/pl/113/89/s5/4], (6), redesignated par. (1) as (3) and substituted “15 percent” for “20 percent”.
+
+    Subsec. (e)(4). [Pub. L. 113–89, § 5(4)][/us/pl/113/89/s5/4], (7), redesignated par. (2) as (4) and substituted “paragraph (3)” for “paragraph (1)”.
+
+    Subsec. (g). [Pub. L. 113–89, § 11(a)][/us/pl/113/89/s11/a], substituted “annually or monthly” for “either annually or in more frequent installments”.
+
+    Subsec. (h). [Pub. L. 113–89, § 4(a)][/us/pl/113/89/s4/a], redesignated subsec. (i) as (h) and struck out former subsec. (h) which related to premium adjustment to reflect current risk of flood.
+
+    Subsec. (i). [Pub. L. 113–89, § 6][/us/pl/113/89/s6], added subsec. (i). Former subsec. (i) redesignated (h).
+
+    Subsec. (j). [Pub. L. 113–89, § 7][/us/pl/113/89/s7], added subsec. (j).
+
+    Subsec. (k). [Pub. L. 113–89, § 26(b)][/us/pl/113/89/s26/b], added subsec. (k).
+
+    Subsec. (l). [Pub. L. 113–89, § 28][/us/pl/113/89/s28], added subsec. (l).
+
+    Subsec. (m). [Pub. L. 113–89, § 29][/us/pl/113/89/s29], added subsec. (m).
 
     2012—Subsec. (a). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director” in introductory provisions.
 
@@ -143,11 +231,17 @@
 
     1973—Subsec. (c). [Pub. L. 93–234][/us/pl/93/234] substituted “started after December 31, 1974, or the effective date of the initial rate map published by the Secretary under paragraph (2) of [section 4101 of this title][/us/usc/t42/s4101] for the area in which such property is located, whichever is later” for “started after the identification of the area in which such property is located has been published under paragraph (1) of [section 4101 of this title][/us/usc/t42/s4101]”.
 
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–89, § 4(b)][/us/pl/113/89/s4/b], Mar. 21, 2014, [128 Stat. 1022][/us/stat/128/1022], provided that: 
+
+> “The amendments made by subsection (a) \[amending this section\] shall take effect as if enacted as part of the Biggert-Waters Flood Insurance Reform Act of 2012 (\[subtitle A of title II of div. F of\] [Public Law 112–141][/us/pl/112/141]; [126 Stat. 957][/us/stat/126/957] \[sic\]).”
+
  __Effective Date of 2012 Amendment__ 
 
 [Pub. L. 112–123, § 2(c)][/us/pl/112/123/s2/c], May 31, 2012, [126 Stat. 365][/us/stat/126/365], provided that: 
 
-> “The first increase in chargeable risk premium rates for residential properties which are not the primary residence of an individual under section 1308(e)(2) of the National Flood Insurance Act of 1968 \[[42 U.S.C. 4015(e)(2)][/us/usc/t42/s4015/e/2]\], as added by this Act, shall take effect on July 1, 2012, and the chargeable risk premium rates for such properties shall be increased by 25 percent each year thereafter, as provided in such section 1308(e)(2).”
+> “The first increase in chargeable risk premium rates for residential properties which are not the primary residence of an individual under section 1308(e)(2) of the National Flood Insurance Act of 1968 \[former [42 U.S.C. 4015(e)(2)][/us/usc/t42/s4015/e/2]\], as added by this Act, shall take effect on July 1, 2012, and the chargeable risk premium rates for such properties shall be increased by 25 percent each year thereafter, as provided in such section 1308(e)(2).”
 
  __Construction of Amendment by__  __[__  __Pub. L. 112–141__  __][/us/pl/112/141]__ 
 
@@ -161,6 +255,12 @@
 
     For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
+ __Implementation__ 
+
+[Pub. L. 113–89, § 11(b)][/us/pl/113/89/s11/b], Mar. 21, 2014, [128 Stat. 1025][/us/stat/128/1025], provided that: 
+
+> “The Administrator \[of the Federal Emergency Management Agency\] shall implement the requirement under section 1308(g) of the National Flood Insurance Act of 1968 \[[42 U.S.C. 4015(g)][/us/usc/t42/s4015/g]\], as amended by subsection (a), not later than the expiration of the 18-month period beginning on the date of the enactment of this Act \[Mar. 21, 2014\].”
+
  __Limitation on Premiums__ 
 
     [Pub. L. 101–508, title II, § 2302(e)(5)][/us/pl/101/508/s2302/e/5], Nov. 5, 1990, [104 Stat. 1388–25][/us/stat/104/1388-25], provided that, notwithstanding [section 541(d) of Pub. L. 100–242][/us/pl/100/242/s541/d], formerly set out below, premium rates charged for flood insurance under any program established pursuant to this chapter could be increased by more than 10 percent during fiscal year 1991, with certain exceptions.
@@ -169,13 +269,9 @@
 
     [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(g)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229], provided that premium rates charged for flood insurance under any program established pursuant to this chapter could not be increased during the period beginning Nov. 30, 1983, and ending Sept. 30, 1984.
 
- __Termination of Advisory Committees__ 
-
-    Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 14 of Pub. L. 92–463][/us/pl/92/463/s14], Oct. 6, 1972, [86 Stat. 776][/us/stat/86/776], set out in the Appendix to Title 5, Government Organization and Employees.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch50/schI/m__us_usc_t42_s4014.md) | [Next](./../../../../..//us/usc/t42/ch50/schI/m__us_usc_t42_s4016.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4015)
+[Previous](./../../../../..//us/usc/t42/ch50/schI/m__us_usc_t42_s4014.md) | [Next](./../../../../..//us/usc/t42/ch50/schI/m__us_usc_t42_s4015a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4015)
 
 ----------
 ----------
@@ -191,8 +287,17 @@
 [/us/usc/t42/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4101
 [/us/usc/t42/s4014/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4014%2Fa
 [/us/usc/t42/s4017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4017
+[/us/usc/t42/s4014/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4014%2Fg
+[/us/usc/t42/s4022/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4022%2Fb
+[/us/usc/t42/s4014/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4014%2Fa%2F2
+[/us/usc/t42/s4014/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4014%2Fa%2F1
 [/us/usc/t42/s4014/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4014%2Fa%2F2
 [/us/usc/t42/s4012a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4012a
+[/us/usc/t42/s4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4014
+[/us/usc/t42/s4014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4014
+[/us/usc/t42/s4102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4102%2Fd
+[/us/usc/t42/s4014/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4014%2Fa%2F2
+[/us/usc/t42/s4015a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4015a
 [/us/pl/90/448/s1308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448%2Fs1308
 [/us/stat/82/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F576
 [/us/pl/93/234/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234%2Fs103
@@ -209,6 +314,8 @@
 [/us/stat/126/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F365
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F918
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/stat/128/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1022
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
@@ -221,6 +328,19 @@
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F916
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89/s5/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs5%2F1
+[/us/pl/113/89/s5/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs5%2F5
+[/us/pl/113/89/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs5%2F2
+[/us/pl/113/89/s5/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs5%2F4
+[/us/pl/113/89/s5/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs5%2F4
+[/us/pl/113/89/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs11%2Fa
+[/us/pl/113/89/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs4%2Fa
+[/us/pl/113/89/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs6
+[/us/pl/113/89/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs7
+[/us/pl/113/89/s26/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs26%2Fb
+[/us/pl/113/89/s28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs28
+[/us/pl/113/89/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs29
 [/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
 [/us/pl/112/141/s100211/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100211%2F1
 [/us/usc/t42/s4025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4025
@@ -252,6 +372,10 @@
 [/us/pl/93/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F234
 [/us/usc/t42/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4101
 [/us/usc/t42/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4101
+[/us/pl/113/89/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs4%2Fb
+[/us/stat/128/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1022
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/stat/126/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F957
 [/us/pl/112/123/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F123%2Fs2%2Fc
 [/us/stat/126/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F365
 [/us/usc/t42/s4015/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4015%2Fe%2F2
@@ -263,6 +387,9 @@
 [/us/pl/112/123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F123
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/113/89/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs11%2Fb
+[/us/stat/128/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1025
+[/us/usc/t42/s4015/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4015%2Fg
 [/us/pl/101/508/s2302/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs2302%2Fe%2F5
 [/us/stat/104/1388-25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-25
 [/us/pl/100/242/s541/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F242%2Fs541%2Fd
@@ -276,7 +403,5 @@
 [/us/stat/108/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2278
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
-[/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
-[/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
 
 

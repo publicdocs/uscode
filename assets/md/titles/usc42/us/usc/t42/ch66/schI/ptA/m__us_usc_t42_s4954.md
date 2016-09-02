@@ -85,7 +85,9 @@
 
 >         “(C) not more than 1 percent of the total number of such volunteers serving for the fiscal year involved may receive such extensions.
 
->     “(2)     \[(3)\] Duration of authority.—The authority established in paragraph (1) shall be effective only for fiscal years 1990 through 1993.”
+>     “(2) __\[probably should be (3)\]__  __Duration of authority__  __.—__ 
+
+>     The authority established in paragraph (1) shall be effective only for fiscal years 1990 through 1993.”
 
 ----------
 

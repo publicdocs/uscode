@@ -97,7 +97,7 @@
 
  __Medicare Enrollment Assistance__ 
 
-[Pub. L. 110–275, title I, § 119][/us/pl/110/275/s119], July 15, 2008, [122 Stat. 2508][/us/stat/122/2508], as amended by [Pub. L. 111–148, title III, § 3306][/us/pl/111/148/s3306], Mar. 23, 2010, [124 Stat. 470][/us/stat/124/470]; [Pub. L. 112–240, title VI, § 610][/us/pl/112/240/s610], Jan. 2, 2013, [126 Stat. 2351][/us/stat/126/2351]; [Pub. L. 113–67, div. B, title I, § 1110][/us/pl/113/67/s1110], Dec. 26, 2013, [127 Stat. 1198][/us/stat/127/1198], provided that:
+[Pub. L. 110–275, title I, § 119][/us/pl/110/275/s119], July 15, 2008, [122 Stat. 2508][/us/stat/122/2508], as amended by [Pub. L. 111–148, title III, § 3306][/us/pl/111/148/s3306], Mar. 23, 2010, [124 Stat. 470][/us/stat/124/470]; [Pub. L. 112–240, title VI, § 610][/us/pl/112/240/s610], Jan. 2, 2013, [126 Stat. 2351][/us/stat/126/2351]; [Pub. L. 113–67, div. B, title I, § 1110][/us/pl/113/67/s1110], Dec. 26, 2013, [127 Stat. 1198][/us/stat/127/1198]; [Pub. L. 113–93, title I, § 110][/us/pl/113/93/s110], Apr. 1, 2014, [128 Stat. 1043][/us/stat/128/1043], provided that:
 
 >     “(a) __Additional Funding for State Health Insurance Assistance Programs.—__ 
 
@@ -115,9 +115,11 @@
 
 >                 “(ii) for the period of fiscal years 2010 through 2012, of $15,000,000;
 
->                 “(iii) for fiscal year 2013, of $7,500,000; and
+>                 “(iii) for fiscal year 2013, of $7,500,000;
 
->                 “(iv) for the portion of fiscal year 2014 before April 1, 2014, of $3,750,000.
+>                 “(iv) for fiscal year 2014, of $7,500,000; and
+
+>                 “(v) for the portion of fiscal year 2015 before April 1, 2015, of $3,750,000.
 
 >                   Amounts appropriated under this subparagraph shall remain available until expended.
 
@@ -155,9 +157,11 @@
 
 >                 “(ii) for the period of fiscal years 2010 through 2012, of $15,000,000;
 
->                 “(iii) for fiscal year 2013, of $7,500,000; and
+>                 “(iii) for fiscal year 2013, of $7,500,000;
 
->                 “(iv) for the portion of fiscal year 2014 before April 1, 2014, of $3,750,000.
+>                 “(iv) for fiscal year 2014, of $7,500,000; and
+
+>                 “(v) for the portion of fiscal year 2015 before April 1, 2015, of $3,750,000.
 
 >                   Amounts appropriated under this subparagraph shall remain available until expended.
 
@@ -191,9 +195,11 @@
 
 >                 “(ii) for the period of fiscal years 2010 through 2012, of $10,000,000;
 
->                 “(iii) for fiscal year 2013, of $5,000,000; and
+>                 “(iii) for fiscal year 2013, of $5,000,000;
 
->                 “(iv) for the portion of fiscal year 2014 before April 1, 2014, of $2,500,000.
+>                 “(iv) for fiscal year 2014, of $5,000,000; and
+
+>                 “(v) for the portion of fiscal year 2015 before April 1, 2015, of $2,500,000.
 
 >                   Amounts appropriated under this subparagraph shall remain available until expended.
 
@@ -223,9 +229,11 @@
 
 >             “(ii) for the period of fiscal years 2010 through 2012, of $5,000,000;
 
->             “(iii) for fiscal year 2013, of $5,000,000; and
+>             “(iii) for fiscal year 2013, of $5,000,000;
 
->             “(iv) for the portion of fiscal year 2014 before April 1, 2014, of $2,500,000.
+>             “(iv) for fiscal year 2014, of $5,000,000; and
+
+>             “(v) for the portion of fiscal year 2015 before April 1, 2015, of $2,500,000.
 
 >             Amounts appropriated under this subparagraph shall remain available until expended.
 
@@ -304,6 +312,8 @@
 [/us/stat/126/2351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2351
 [/us/pl/113/67/s1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs1110
 [/us/stat/127/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1198
+[/us/pl/113/93/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs110
+[/us/stat/128/1043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1043
 [/us/usc/t42/s1395b–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%934
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t

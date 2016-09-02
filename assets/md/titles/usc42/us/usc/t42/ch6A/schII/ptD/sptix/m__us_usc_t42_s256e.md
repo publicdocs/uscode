@@ -17,7 +17,7 @@
 
     (a) __Payments__ 
 
-        The Secretary shall make two payments under this section to each children’s hospital for each of fiscal years 2000 through 2005 and each of fiscal years 2007 through 2011, one for the direct expenses and the other for indirect expenses associated with operating approved graduate medical residency training programs. The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.
+        The Secretary shall make two payments under this section to each children’s hospital for each of fiscal years 2000 through 2005, each of fiscal years 2007 through 2011, and each of fiscal years 2014 through 2018, one for the direct expenses and the other for indirect expenses associated with operating approved graduate medical residency training programs. The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.
 
     (b) __Amount of payments__ 
 
@@ -89,7 +89,7 @@
 
             (D) __Report to Congress__ 
 
-            Not later than the end of fiscal year 2011, the Secretary, acting through the Administrator of the Health Resources and Services Administration, shall submit a report to the Congress—
+            Not later than the end of fiscal year 2018, the Secretary, acting through the Administrator of the Health Resources and Services Administration, shall submit a report to the Congress—
 
                 (i) summarizing the information submitted in reports to the Secretary under subparagraph (B);
 
@@ -187,9 +187,11 @@
 
                 (ii) for fiscal year 2001, $95,000,000;
 
-                (iii) for each of the fiscal years 2002 through 2005, such sums as may be necessary; and
+                (iii) for each of the fiscal years 2002 through 2005, such sums as may be necessary;
 
-                (iv) for each of fiscal years 2007 through 2011, $110,000,000.
+                (iv) for each of fiscal years 2007 through 2011, $110,000,000; and
+
+                (v) for each of fiscal years 2014 through 2018, $100,000,000.
 
             (B) __Carryover of excess__ 
 
@@ -203,9 +205,11 @@
 
             (B) for fiscal year 2001, $190,000,000;
 
-            (C) for each of the fiscal years 2002 through 2005, such sums as may be necessary; and
+            (C) for each of the fiscal years 2002 through 2005, such sums as may be necessary;
 
-            (D) for each of fiscal years 2007 through 2011, $220,000,000.
+            (D) for each of fiscal years 2007 through 2011, $220,000,000; and
+
+            (E) for each of fiscal years 2014 through 2018, $200,000,000.
 
     (g) __Definitions__ 
 
@@ -223,13 +227,69 @@
 
             The term “direct graduate medical education costs” has the meaning given such term in [section 1395ww(h)(5)(C) of this title][/us/usc/t42/s1395ww/h/5/C].
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340E, as added [Pub. L. 106–129, § 4][/us/pl/106/129/s4], Dec. 6, 1999, [113 Stat. 1671][/us/stat/113/1671]; amended [Pub. L. 106–310, div. A, title XX, § 2001][/us/pl/106/310/s2001], Oct. 17, 2000, [114 Stat. 1155][/us/stat/114/1155]; [Pub. L. 108–490, § 1(a)][/us/pl/108/490/s1/a], Dec. 23, 2004, [118 Stat. 3972][/us/stat/118/3972]; [Pub. L. 109–307, § 2][/us/pl/109/307/s2], Oct. 6, 2006, [120 Stat. 1721][/us/stat/120/1721].)
+    (h) __Additional provisions__ 
+
+        (1) __In general__ 
+
+            The Secretary is authorized to make available up to 25 percent of the total amounts in excess of $245,000,000 appropriated under paragraphs (1) and (2) of subsection (f), but not to exceed $7,000,000, for payments to hospitals qualified as described in paragraph (2), for the direct and indirect expenses associated with operating approved graduate medical residency training programs, as described in subsection (a).
+
+        (2) __Qualified hospitals__ 
+
+            (A) __In general__ 
+
+            To qualify to receive payments under paragraph (1), a hospital shall be a free-standing hospital—
+
+                (i) with a Medicare payment agreement and that is excluded from the Medicare inpatient hospital prospective payment system pursuant to [section 1395ww(d)(1)(B) of this title][/us/usc/t42/s1395ww/d/1/B] and its accompanying regulations;
+
+                (ii) whose inpatients are predominantly individuals under 18 years of age;
+
+                (iii) that has an approved medical residency training program as defined in [section 1395ww(h)(5)(A) of this title][/us/usc/t42/s1395ww/h/5/A]; and
+
+                (iv) that is not otherwise qualified to receive payments under this section or [section 1395ww(h) of this title][/us/usc/t42/s1395ww/h].
+
+            (B) __Establishment of residency cap__ 
+
+                In the case of a freestanding children’s hospital that, on April 7, 2014, meets the requirements of subparagraph (A) but for which the Secretary has not determined an average number of full-time equivalent residents under [section 1395ww(h)(4) of this title][/us/usc/t42/s1395ww/h/4], the Secretary may establish such number of full-time equivalent residents for the purposes of calculating payments under this subsection.
+
+        (3) __Payments__ 
+
+            Payments to hospitals made under this subsection shall be made in the same manner as payments are made to children’s hospitals, as described in subsections (b) through (e).
+
+        (4) __Payment amounts__ 
+
+            The direct and indirect payment amounts under this subsection shall be determined using per resident amounts that are no greater than the per resident amounts used for determining direct and indirect payment amounts under subsection (a).
+
+        (5) __Reporting__ 
+
+            A hospital receiving payments under this subsection shall be subject to the reporting requirements under subsection (b)(3).
+
+        (6) __Remaining funds__ 
+
+            (A) __In general__ 
+
+                If the payments to qualified hospitals under paragraph (1) for a fiscal year are less than the total amount made available under such paragraph for that fiscal year, any remaining amounts for such fiscal year may be made available to all hospitals participating in the program under this subsection or subsection (a).
+
+            (B) __Quality bonus system__ 
+
+                For purposes of distributing the remaining amounts described in subparagraph (A), the Secretary may establish a quality bonus system, whereby the Secretary distributes bonus payments to hospitals participating in the program under this subsection or subsection (a) that meet standards specified by the Secretary, which may include a focus on quality measurement and improvement, interpersonal and communications skills, delivering patient-centered care, and practicing in integrated health systems, including training in community-based settings. In developing such standards, the Secretary shall collaborate with relevant stakeholders, including program accrediting bodies, certifying boards, training programs, health care organizations, health care purchasers, and patient and consumer groups.
+
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 340E, as added [Pub. L. 106–129, § 4][/us/pl/106/129/s4], Dec. 6, 1999, [113 Stat. 1671][/us/stat/113/1671]; amended [Pub. L. 106–310, div. A, title XX, § 2001][/us/pl/106/310/s2001], Oct. 17, 2000, [114 Stat. 1155][/us/stat/114/1155]; [Pub. L. 108–490, § 1(a)][/us/pl/108/490/s1/a], Dec. 23, 2004, [118 Stat. 3972][/us/stat/118/3972]; [Pub. L. 109–307, § 2][/us/pl/109/307/s2], Oct. 6, 2006, [120 Stat. 1721][/us/stat/120/1721]; [Pub. L. 113–98][/us/pl/113/98], §§ 2, 3, Apr. 7, 2014, [128 Stat. 1140][/us/stat/128/1140].)
 
  __References in Text__ 
 
     [Section 1395ww(d) of this title][/us/usc/t42/s1395ww/d], referred to in subsec. (e)(3), was in the original “section 1186(d) of such Act” and was translated as reading “section 1886(d) of such Act”, meaning section 1886(d) of the Social Security Act, to reflect the probable intent of Congress, because the Social Security Act does not contain a section 1186 and [section 1395ww(d) of this title][/us/usc/t42/s1395ww/d] relates to review of inpatient hospital service payments.
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–98, § 2(a)(1)][/us/pl/113/98/s2/a/1], substituted “through 2005, each of fiscal years 2007 through 2011, and each of fiscal years 2014 through 2018” for “through 2005 and each of fiscal years 2007 through 2011”.
+
+    Subsec. (b)(3)(D). [Pub. L. 113–98, § 2(b)][/us/pl/113/98/s2/b], substituted “Not later than the end of fiscal year 2018” for “Not later than the end of fiscal year 2011” in introductory provisions.
+
+    Subsec. (f)(1)(A)(v). [Pub. L. 113–98, § 2(a)(2)(A)][/us/pl/113/98/s2/a/2/A], added cl. (v).
+
+    Subsec. (f)(2)(E). [Pub. L. 113–98, § 2(a)(2)(B)][/us/pl/113/98/s2/a/2/B], added subpar. (E).
+
+    Subsec. (h). [Pub. L. 113–98, § 3][/us/pl/113/98/s3], added subsec. (h).
 
     2006—Subsec. (a). [Pub. L. 109–307, § 2(a)(1)][/us/pl/109/307/s2/a/1], inserted “and each of fiscal years 2007 through 2011” after “for each of fiscal years 2000 through 2005”.
 
@@ -291,6 +351,10 @@
 [/us/usc/t42/s1395ww/h/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh%2F5%2FA
 [/us/usc/t42/s1395ww/d/1/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB%2Fiii
 [/us/usc/t42/s1395ww/h/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh%2F5%2FC
+[/us/usc/t42/s1395ww/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd%2F1%2FB
+[/us/usc/t42/s1395ww/h/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh%2F5%2FA
+[/us/usc/t42/s1395ww/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh
+[/us/usc/t42/s1395ww/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fh%2F4
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/106/129/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F129%2Fs4
 [/us/stat/113/1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1671
@@ -300,8 +364,15 @@
 [/us/stat/118/3972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3972
 [/us/pl/109/307/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307%2Fs2
 [/us/stat/120/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1721
+[/us/pl/113/98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F98
+[/us/stat/128/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1140
 [/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
 [/us/usc/t42/s1395ww/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ww%2Fd
+[/us/pl/113/98/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F98%2Fs2%2Fa%2F1
+[/us/pl/113/98/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F98%2Fs2%2Fb
+[/us/pl/113/98/s2/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F98%2Fs2%2Fa%2F2%2FA
+[/us/pl/113/98/s2/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F98%2Fs2%2Fa%2F2%2FB
+[/us/pl/113/98/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F98%2Fs3
 [/us/pl/109/307/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307%2Fs2%2Fa%2F1
 [/us/pl/109/307/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307%2Fs2%2Fb%2F1
 [/us/pl/109/307/s2/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F307%2Fs2%2Fb%2F2

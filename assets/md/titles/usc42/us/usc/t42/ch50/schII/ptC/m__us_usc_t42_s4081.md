@@ -31,7 +31,11 @@
 
         Notwithstanding any other provision of this chapter, the Administrator may, at the discretion of the Administrator, refuse to accept the transfer of the administration of policies for coverage under the flood insurance program under this chapter that are written and administered by any insurance company or other insurer, or any insurance agent or broker.
 
-([Pub. L. 90–448, title XIII, § 1345][/us/pl/90/448/s1345], Aug. 1, 1968, [82 Stat. 585][/us/stat/82/585]; [Pub. L. 97–35, title III, § 341(e)][/us/pl/97/35/s341/e], Aug. 13, 1981, [95 Stat. 419][/us/stat/95/419]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 103–325, title V, § 574][/us/pl/103/325/s574], Sept. 23, 1994, [108 Stat. 2278][/us/stat/108/2278]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100238(b)(1), 100245, July 6, 2012, [126 Stat. 958][/us/stat/126/958], 966.)
+    (e) __Risk transfer__ 
+
+        The Administrator may secure reinsurance of coverage provided by the flood insurance program from the private reinsurance and capital markets at rates and on terms determined by the Administrator to be reasonable and appropriate, in an amount sufficient to maintain the ability of the program to pay claims.
+
+([Pub. L. 90–448, title XIII, § 1345][/us/pl/90/448/s1345], Aug. 1, 1968, [82 Stat. 585][/us/stat/82/585]; [Pub. L. 97–35, title III, § 341(e)][/us/pl/97/35/s341/e], Aug. 13, 1981, [95 Stat. 419][/us/stat/95/419]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 103–325, title V, § 574][/us/pl/103/325/s574], Sept. 23, 1994, [108 Stat. 2278][/us/stat/108/2278]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100238(b)(1), 100245, July 6, 2012, [126 Stat. 958][/us/stat/126/958], 966; [Pub. L. 113–89, § 10][/us/pl/113/89/s10], Mar. 21, 2014, [128 Stat. 1025][/us/stat/128/1025].)
 
  __References in Text__ 
 
@@ -44,6 +48,8 @@
     In subsec. (b), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–89][/us/pl/113/89] added subsec. (e).
 
     2012—Subsecs. (a), (c). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director” wherever appearing.
 
@@ -162,6 +168,8 @@
 [/us/stat/108/2278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2278
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F958
+[/us/pl/113/89/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs10
+[/us/stat/128/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1025
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
@@ -171,6 +179,7 @@
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
 [/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
 [/us/pl/112/141/s100245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100245
 [/us/pl/103/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325

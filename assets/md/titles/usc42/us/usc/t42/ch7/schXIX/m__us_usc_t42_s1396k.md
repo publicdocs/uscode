@@ -37,7 +37,7 @@
 
  __Amendment of Subsection (a)(1)(A)__ 
 
-    [Pub. L. 113–67, div. A, title II, § 202(b)(2)][/us/pl/113/67/s202/b/2], (c), Dec. 26, 2013, [127 Stat. 1177][/us/stat/127/1177], provided that, effective Oct. 1, 2014, subsection (a)(1)(A) of this section is amended by striking “payment for medical care from any third party” and inserting “any payment from a third party that has a legal liability to pay for care and services available under the plan”. See 2013 Amendment note below.
+    [Pub. L. 113–67, div. A, title II, § 202(b)(2)][/us/pl/113/67/s202/b/2], (c), Dec. 26, 2013, [127 Stat. 1177][/us/stat/127/1177], as amended by [Pub. L. 113–93, title II, § 211][/us/pl/113/93/s211], Apr. 1, 2014, [128 Stat. 1047][/us/stat/128/1047], provided that, effective Oct. 1, 2016, subsection (a)(1)(A) of this section is amended by striking “payment for medical care from any third party” and inserting “any payment from a third party that has a legal liability to pay for care and services available under the plan”. See 2013 Amendment note below.
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Effective Date of 2013 Amendment__ 
 
-    Amendment by [Pub. L. 113–67][/us/pl/113/67] effective Oct. 1, 2014, see [section 202(c) of Pub. L. 113–67][/us/pl/113/67/s202/c], set out as a note under [section 1396a of this title][/us/usc/t42/s1396a].
+    Amendment by [Pub. L. 113–67][/us/pl/113/67] effective Oct. 1, 2016, see [section 202(c) of Pub. L. 113–67][/us/pl/113/67/s202/c], set out as a note under [section 1396a of this title][/us/usc/t42/s1396a].
 
  __Effective Date of 1990 Amendment__ 
 
@@ -88,6 +88,8 @@
 [/us/stat/127/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1177
 [/us/pl/113/67/s202/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs202%2Fb%2F2
 [/us/stat/127/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1177
+[/us/pl/113/93/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs211
+[/us/stat/128/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1047
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272

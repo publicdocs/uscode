@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395m.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395o.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395n)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395m–1.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395o.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395n)
 
 ## § 1395n. Procedure for payment of claims of providers of services
 
@@ -301,7 +301,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395m.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395o.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395n)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395m–1.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395o.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395n)
 
 ----------
 ----------

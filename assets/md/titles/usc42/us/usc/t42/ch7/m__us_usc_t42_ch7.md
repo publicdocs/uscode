@@ -3393,6 +3393,14 @@ Part B—Supplementary Medical Insurance Benefits for Aged and Disabled  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1395m%E2%80%931" data-uslm-ref="/us/usc/t42/s1395m–1">1395m–1.</a>  </td>
+
+    <td> Improving policies for clinical diagnostic laboratory tests.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1395n" data-uslm-ref="/us/usc/t42/s1395n">1395n.</a>  </td>
 
     <td> Procedure for payment of claims of providers of services.  </td>

@@ -137,13 +137,17 @@
 
             (S) for the period that begins on January 1, 2013, and ends on September 30, 2013, the total allocation amount is $485,000,000;
 
-            (T) for the period that begins on October 1, 2013, and ends on December 31, 2013, the total allocation amount is $300,000,000; and
+            (T) for the period that begins on October 1, 2013, and ends on December 31, 2013, the total allocation amount is $300,000,000;
 
-            (U) for the period that begins on January 1, 2014, and ends on March 31, 2014, the total allocation amount is $200,000,000.
+            (U) for the period that begins on January 1, 2014, and ends on September 30, 2014, the total allocation amount is $485,000,000;
+
+            (V) for the period that begins on October 1, 2014, and ends on December 31, 2014, the total allocation amount is $300,000,000; and
+
+            (W) for the period that begins on January 1, 2015, and ends on March 31, 2015, the total allocation amount is $250,000,000.
 
         (3) __Rules for periods that begin after January 1__ 
 
-        For any specific period described in subparagraph (B), (D), (F), (H), (J), (L), (N), (P), (R), or (T) of paragraph (2), the following applies:
+        For any specific period described in subparagraph (B), (D), (F), (H), (J), (L), (N), (P), (R), (T), or (V) of paragraph (2), the following applies:
 
             (A) The specific period shall be treated as a continuation of the immediately preceding period in that calendar year for purposes of applying subsection (b)(2) of this section and qualifying individuals who received assistance in the last month of such immediately preceding period shall be deemed to be selected for the specific period (without the need to complete an application for assistance for such period).
 
@@ -151,13 +155,21 @@
 
             (C) The ratio to be applied under subsection (c)(2) of this section for the specific period shall be the same as the ratio applied under such subsection for the immediately preceding period.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1933, as added [Pub. L. 105–33, title IV, § 4732(c)][/us/pl/105/33/s4732/c], Aug. 5, 1997, [111 Stat. 520][/us/stat/111/520]; amended [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 608(x)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–398; [Pub. L. 108–89, title IV, § 401(b)][/us/pl/108/89/s401/b], (c), Oct. 1, 2003, [117 Stat. 1134][/us/stat/117/1134]; [Pub. L. 108–173, title I, § 103(f)(2)][/us/pl/108/173/s103/f/2], Dec. 8, 2003, [117 Stat. 2160][/us/stat/117/2160]; [Pub. L. 108–448, § 1(b)][/us/pl/108/448/s1/b], Dec. 8, 2004, [118 Stat. 3467][/us/stat/118/3467]; [Pub. L. 109–91, title I, § 101(b)][/us/pl/109/91/s101/b], Oct. 20, 2005, [119 Stat. 2091][/us/stat/119/2091]; [Pub. L. 110–90, § 3(b)][/us/pl/110/90/s3/b], Sept. 29, 2007, [121 Stat. 984][/us/stat/121/984]; [Pub. L. 110–173, title II, § 203(b)][/us/pl/110/173/s203/b], Dec. 29, 2007, [121 Stat. 2513][/us/stat/121/2513]; [Pub. L. 110–275, title I, § 111(b)][/us/pl/110/275/s111/b], July 15, 2008, [122 Stat. 2503][/us/stat/122/2503]; [Pub. L. 110–379, § 2][/us/pl/110/379/s2], Oct. 8, 2008, [122 Stat. 4075][/us/stat/122/4075]; [Pub. L. 111–5, div. B, title V, § 5005(b)][/us/pl/111/5/s5005/b], Feb. 17, 2009, [123 Stat. 505][/us/stat/123/505]; [Pub. L. 111–127, § 3][/us/pl/111/127/s3], Jan. 27, 2010, [124 Stat. 4][/us/stat/124/4]; [Pub. L. 111–309, title I, § 110(b)][/us/pl/111/309/s110/b], Dec. 15, 2010, [124 Stat. 3288][/us/stat/124/3288]; [Pub. L. 112–78, title III, § 310(b)][/us/pl/112/78/s310/b], Dec. 23, 2011, [125 Stat. 1286][/us/stat/125/1286]; [Pub. L. 112–96, title III, § 3101(b)][/us/pl/112/96/s3101/b], Feb. 22, 2012, [126 Stat. 191][/us/stat/126/191]; [Pub. L. 112–240, title VI, § 621(b)][/us/pl/112/240/s621/b], Jan. 2, 2013, [126 Stat. 2352][/us/stat/126/2352]; [Pub. L. 113–67, div. B, title II, § 1201(b)][/us/pl/113/67/s1201/b], Dec. 26, 2013, [127 Stat. 1198][/us/stat/127/1198].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1933, as added [Pub. L. 105–33, title IV, § 4732(c)][/us/pl/105/33/s4732/c], Aug. 5, 1997, [111 Stat. 520][/us/stat/111/520]; amended [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 608(x)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–398; [Pub. L. 108–89, title IV, § 401(b)][/us/pl/108/89/s401/b], (c), Oct. 1, 2003, [117 Stat. 1134][/us/stat/117/1134]; [Pub. L. 108–173, title I, § 103(f)(2)][/us/pl/108/173/s103/f/2], Dec. 8, 2003, [117 Stat. 2160][/us/stat/117/2160]; [Pub. L. 108–448, § 1(b)][/us/pl/108/448/s1/b], Dec. 8, 2004, [118 Stat. 3467][/us/stat/118/3467]; [Pub. L. 109–91, title I, § 101(b)][/us/pl/109/91/s101/b], Oct. 20, 2005, [119 Stat. 2091][/us/stat/119/2091]; [Pub. L. 110–90, § 3(b)][/us/pl/110/90/s3/b], Sept. 29, 2007, [121 Stat. 984][/us/stat/121/984]; [Pub. L. 110–173, title II, § 203(b)][/us/pl/110/173/s203/b], Dec. 29, 2007, [121 Stat. 2513][/us/stat/121/2513]; [Pub. L. 110–275, title I, § 111(b)][/us/pl/110/275/s111/b], July 15, 2008, [122 Stat. 2503][/us/stat/122/2503]; [Pub. L. 110–379, § 2][/us/pl/110/379/s2], Oct. 8, 2008, [122 Stat. 4075][/us/stat/122/4075]; [Pub. L. 111–5, div. B, title V, § 5005(b)][/us/pl/111/5/s5005/b], Feb. 17, 2009, [123 Stat. 505][/us/stat/123/505]; [Pub. L. 111–127, § 3][/us/pl/111/127/s3], Jan. 27, 2010, [124 Stat. 4][/us/stat/124/4]; [Pub. L. 111–309, title I, § 110(b)][/us/pl/111/309/s110/b], Dec. 15, 2010, [124 Stat. 3288][/us/stat/124/3288]; [Pub. L. 112–78, title III, § 310(b)][/us/pl/112/78/s310/b], Dec. 23, 2011, [125 Stat. 1286][/us/stat/125/1286]; [Pub. L. 112–96, title III, § 3101(b)][/us/pl/112/96/s3101/b], Feb. 22, 2012, [126 Stat. 191][/us/stat/126/191]; [Pub. L. 112–240, title VI, § 621(b)][/us/pl/112/240/s621/b], Jan. 2, 2013, [126 Stat. 2352][/us/stat/126/2352]; [Pub. L. 113–67, div. B, title II, § 1201(b)][/us/pl/113/67/s1201/b], Dec. 26, 2013, [127 Stat. 1198][/us/stat/127/1198]; [Pub. L. 113–93, title II, § 201(b)][/us/pl/113/93/s201/b], Apr. 1, 2014, [128 Stat. 1045][/us/stat/128/1045].)
 
  __Prior Provisions__ 
 
     A prior section 1933 of act Aug. 14, 1935, was renumbered section 1939 and is classified to [section 1396v of this title][/us/usc/t42/s1396v].
 
  __Amendments__ 
+
+    2014—Subsec. (g)(2)(T). [Pub. L. 113–93, § 201(b)(1)(A)][/us/pl/113/93/s201/b/1/A], struck out “and” at end.
+
+    Subsec. (g)(2)(U). [Pub. L. 113–93, § 201(b)(1)(B)][/us/pl/113/93/s201/b/1/B], substituted “September 30, 2014” for “March 31, 2014” and “$485,000,000;” for “$200,000,000.”
+
+    Subsec. (g)(2)(V), (W). [Pub. L. 113–93, § 201(b)(1)(C)][/us/pl/113/93/s201/b/1/C], added subpars. (V) and (W).
+
+    Subsec. (g)(3). [Pub. L. 113–93, § 201(b)(2)][/us/pl/113/93/s201/b/2], substituted “(T), or (V)” for “or (T)” in introductory provisions.
 
     2013—Subsec. (g)(2)(S), (T). [Pub. L. 112–240, § 621(b)(1)][/us/pl/112/240/s621/b/1], added subpars. (S) and (T).
 
@@ -289,7 +301,13 @@
 [/us/stat/126/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2352
 [/us/pl/113/67/s1201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs1201%2Fb
 [/us/stat/127/1198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1198
+[/us/pl/113/93/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs201%2Fb
+[/us/stat/128/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1045
 [/us/usc/t42/s1396v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396v
+[/us/pl/113/93/s201/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs201%2Fb%2F1%2FA
+[/us/pl/113/93/s201/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs201%2Fb%2F1%2FB
+[/us/pl/113/93/s201/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs201%2Fb%2F1%2FC
+[/us/pl/113/93/s201/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs201%2Fb%2F2
 [/us/pl/112/240/s621/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs621%2Fb%2F1
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/112/240/s621/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs621%2Fb%2F2

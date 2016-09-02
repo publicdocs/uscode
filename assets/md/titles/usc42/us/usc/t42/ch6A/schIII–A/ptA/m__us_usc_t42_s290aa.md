@@ -451,6 +451,80 @@
 
 >     “With respect to fiscal years 1994 and 1995, the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health shall notwithstanding section 405(a) \[[42 U.S.C. 284(a)][/us/usc/t42/s284/a]\], prepare and submit, directly to the President for review and transmittal to Congress, an annual budget estimate (including an estimate of the number and type of personnel needs for the Institute) for their respective Institutes, after reasonable opportunity for comment (but without change) by the Secretary of Health and Human Services, the Director of the National Institutes of Health, and the Institute’s advisory council.”
 
+ __Assisted Outpatient Treatment Grant Program for Individuals With Serious Mental Illness__ 
+
+[Pub. L. 113–93, title II, § 224][/us/pl/113/93/s224], Apr. 1, 2014, [128 Stat. 1083][/us/stat/128/1083], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     The Secretary shall establish a 4-year pilot program to award not more than 50 grants each year to eligible entities for assisted outpatient treatment programs for individuals with serious mental illness.
+
+>     “(b)  __Consultation__  __.—__ 
+
+>     The Secretary shall carry out this section in consultation with the Director of the National Institute of Mental Health, the Attorney General of the United States, the Administrator of the Administration for Community Living, and the Administrator of the Substance Abuse and Mental Health Services Administration.
+
+>     “(c)  __Selecting Among Applicants__  __.—__ 
+
+>     The Secretary—
+
+>         “(1) may only award grants under this section to applicants that have not previously implemented an assisted outpatient treatment program; and
+
+>         “(2) shall evaluate applicants based on their potential to reduce hospitalization, homelessness, incarceration, and interaction with the criminal justice system while improving the health and social outcomes of the patient.
+
+>     “(d)  __Use of Grant__  __.—__ 
+
+>     An assisted outpatient treatment program funded with a grant awarded under this section shall include—
+
+>         “(1) evaluating the medical and social needs of the patients who are participating in the program;
+
+>         “(2)
+
+>          preparing and executing treatment plans for such patients that—
+
+>             “(A) include criteria for completion of court-ordered treatment; and
+
+>             “(B) provide for monitoring of the patient’s compliance with the treatment plan, including compliance with medication and other treatment regimens;
+
+>         “(3) providing for such patients case management services that support the treatment plan;
+
+>         “(4) ensuring appropriate referrals to medical and social service providers;
+
+>         “(5) evaluating the process for implementing the program to ensure consistency with the patient’s needs and State law; and
+
+>         “(6) measuring treatment outcomes, including health and social outcomes such as rates of incarceration, health care utilization, and homelessness.
+
+>     “(e)  __Report__  __.—__ 
+
+>     Not later than the end of each of fiscal years 2016, 2017, and 2018, the Secretary shall submit a report to the appropriate congressional committees on the grant program under this section. Each such report shall include an evaluation of the following:
+
+>         “(1) Cost savings and public health outcomes such as mortality, suicide, substance abuse, hospitalization, and use of services.
+
+>         “(2) Rates of incarceration by patients.
+
+>         “(3) Rates of homelessness among patients.
+
+>         “(4) Patient and family satisfaction with program participation.
+
+>     “(f)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1) The term ‘assisted outpatient treatment’ means medically prescribed mental health treatment that a patient receives while living in a community under the terms of a law authorizing a State or local court to order such treatment.
+
+>         “(2) The term ‘eligible entity’ means a county, city, mental health system, mental health court, or any other entity with authority under the law of the State in which the grantee is located to implement, monitor, and oversee assisted outpatient treatment programs.
+
+>         “(3) The term ‘Secretary’ means the Secretary of Health and Human Services.
+
+>     “(g) __Funding.—__ 
+
+>         “(1)  __Amount of grants__  __.—__ 
+
+>         A grant under this section shall be in an amount that is not more than $1,000,000 for each of fiscal years 2015 through 2018. Subject to the preceding sentence, the Secretary shall determine the amount of each grant based on the population of the area, including estimated patients, to be served under the grant.
+
+>         “(2)  __Authorization of appropriations__  __.—__ 
+
+>         There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2015 through 2018.”
+
  __Report by Substance Abuse and Mental Health Services Administration__ 
 
     [Pub. L. 102–321, title VII, § 708][/us/pl/102/321/s708], July 10, 1992, [106 Stat. 440][/us/stat/106/440], directed Administrator of Substance Abuse and Mental Health Services Administration to submit to Congress an interim report, not later than 6 months after July 10, 1992, and a final report, not later than Oct. 1, 1993, concerning current policies and barriers to provision of substance abuse and mental health services, with emphasis on barriers to health insurance and Medicaid coverage of such services, and further directed Secretary of Health and Human Services to initiate, not later than Jan. 1, 1994, research and demonstration projects which, consistent with information from reports submitted by the Administrator, explore alternative mechanisms of providing health insurance and treatment services for substance abuse and mental illness.
@@ -599,6 +673,8 @@
 [/us/usc/t42/s300x/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%2Fb
 [/us/usc/t42/s285n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285n
 [/us/usc/t42/s284/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284%2Fa
+[/us/pl/113/93/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs224
+[/us/stat/128/1083]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1083
 [/us/pl/102/321/s708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F321%2Fs708
 [/us/stat/106/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F440
 [/us/pl/100/690/s2071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2071

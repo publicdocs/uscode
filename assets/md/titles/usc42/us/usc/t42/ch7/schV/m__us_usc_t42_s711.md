@@ -391,13 +391,15 @@
 
             (C) $350,000,000 for fiscal year 2012;
 
-            (D) $400,000,000 for fiscal year 2013; and
+            (D) $400,000,000 for fiscal year 2013;
 
-            (E) $400,000,000 for fiscal year 2014.
+            (E) $400,000,000 for fiscal year 2014; and
+
+            (F) for the period beginning on October 1, 2014, and ending on March 31, 2015, an amount equal to the amount provided in subparagraph (E).
 
         (2) __Reservations__ 
 
-        Of the amount appropriated under this subsection for a fiscal year, the Secretary shall reserve—
+        Of the amount appropriated under this subsection for a fiscal year (or portion of a fiscal year), the Secretary shall reserve—
 
             (A) 3 percent of such amount for purposes of making grants to eligible entities that are Indian Tribes (or a consortium of Indian Tribes), Tribal Organizations, or Urban Indian Organizations; and
 
@@ -405,7 +407,7 @@
 
         (3) __Availability__ 
 
-            Funds made available to an eligible entity under this section for a fiscal year shall remain available for expenditure by the eligible entity through the end of the second succeeding fiscal year after award. Any funds that are not expended by the eligible entity during the period in which the funds are available under the preceding sentence may be used for grants to nonprofit organizations under subsection (h)(2)(B).
+            Funds made available to an eligible entity under this section for a fiscal year (or portion of a fiscal year) shall remain available for expenditure by the eligible entity through the end of the second succeeding fiscal year after award. Any funds that are not expended by the eligible entity during the period in which the funds are available under the preceding sentence may be used for grants to nonprofit organizations under subsection (h)(2)(B).
 
     (k) __Definitions__ 
 
@@ -433,7 +435,7 @@
 
             The terms “Indian Tribe” and “Tribal Organization”, and “Urban Indian Organization” have the meanings given such terms in [section 1603 of title 25][/us/usc/t25/s1603].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 511, as added [Pub. L. 111–148, title II, § 2951][/us/pl/111/148/s2951], Mar. 23, 2010, [124 Stat. 334][/us/stat/124/334].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 511, as added [Pub. L. 111–148, title II, § 2951][/us/pl/111/148/s2951], Mar. 23, 2010, [124 Stat. 334][/us/stat/124/334]; amended [Pub. L. 113–93, title II, § 209][/us/pl/113/93/s209], Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046].)
 
  __References in Text__ 
 
@@ -446,6 +448,12 @@
     Another prior section 711, acts [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 511, [49 Stat. 631][/us/stat/49/631]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title V, § 504, [53 Stat. 1380][/us/stat/53/1380]; 1946 Reorg. Plan No. 2, § 1, eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; [Aug. 10, 1946, ch. 951][/us/act/1946-08-10/ch951], title IV, § 401(b)(4), [60 Stat. 986][/us/stat/60/986]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title III, pt. 3, § 331(c), pt. 6, § 361(e), [64 Stat. 551][/us/stat/64/551], 558; Aug. 28, 1958, [Pub. L. 85–840, title VI, § 603(a)][/us/pl/85/840/s603/a], [72 Stat. 1055][/us/stat/72/1055]; Sept. 13, 1960, [Pub. L. 86–778, title VII, § 707(a)(2)(A)][/us/pl/86/778/s707/a/2/A], [74 Stat. 995][/us/stat/74/995]; Oct. 24, 1963, [Pub. L. 88–156, § 3(a)][/us/pl/88/156/s3/a], [77 Stat. 273][/us/stat/77/273]; July 30, 1965, [Pub. L. 89–97, title II, § 202(a)][/us/pl/89/97/s202/a], [79 Stat. 353][/us/stat/79/353], authorized appropriations, for services for crippled children, of $25,000,000, $30,000,000, $35,000,000, $45,000,000, $50,000,000, $55,000,000, and $60,000,000 for fiscal years ending June 30, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970 and thereafter respectively, prior to the general amendment of title V of the Social Security Act by [Pub. L. 90–248, § 301][/us/pl/90/248/s301], and was covered by former [section 701 of this title][/us/usc/t42/s701].
 
     Provisions similar to those comprising former section 711 were contained in section 516 of [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, as added July 30, 1965, [Pub. L. 89–97, title II, § 203(a)][/us/pl/89/97/s203/a], [79 Stat. 353][/us/stat/79/353] (formerly classified to [section 716 of this title][/us/usc/t42/s716]), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by [Pub. L. 90–248, § 301][/us/pl/90/248/s301].
+
+ __Amendments__ 
+
+    2014—Subsec. (j)(1)(F). [Pub. L. 113–93, § 209(1)][/us/pl/113/93/s209/1], added subpar. (F).
+
+    Subsec. (j)(2), (3). [Pub. L. 113–93, § 209(2)][/us/pl/113/93/s209/2], inserted “(or portion of a fiscal year)” after “for a fiscal year”.
 
 ----------
 
@@ -474,6 +482,8 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/111/148/s2951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2951
 [/us/stat/124/334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F334
+[/us/pl/113/93/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs209
+[/us/stat/128/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1046
 [/us/pl/93/247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F247
 [/us/stat/88/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F4
 [/us/usc/t42/s5101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5101
@@ -506,5 +516,7 @@
 [/us/stat/79/353]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F353
 [/us/usc/t42/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs716
 [/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
+[/us/pl/113/93/s209/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs209%2F1
+[/us/pl/113/93/s209/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs209%2F2
 
 

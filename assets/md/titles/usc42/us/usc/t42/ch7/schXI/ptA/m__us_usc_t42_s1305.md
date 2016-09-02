@@ -19,6 +19,12 @@
 
 ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1105, [49 Stat. 648][/us/stat/49/648].)
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–93, § 1(a)][/us/pl/113/93/s1/a], Apr. 1, 2014, [128 Stat. 1040][/us/stat/128/1040], provided that: 
+
+> “This Act \[see Tables for classification\] may be cited as the ‘Protecting Access to Medicare Act of 2014’.”
+
  __Short Title of 2013 Amendment__ 
 
 [Pub. L. 113–67, div. B, § 1001(a)][/us/pl/113/67/s1001/a], Dec. 26, 2013, [127 Stat. 1195][/us/stat/127/1195], provided that: 
@@ -520,6 +526,8 @@
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F648
+[/us/pl/113/93/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs1%2Fa
+[/us/stat/128/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1040
 [/us/pl/113/67/s1001/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs1001%2Fa
 [/us/stat/127/1195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1195
 [/us/usc/t2/s901a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901a

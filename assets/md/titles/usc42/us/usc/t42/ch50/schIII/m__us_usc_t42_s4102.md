@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch50/schIII/m__us_usc_t42_s4101c.md) | [Next](./../../../../..//us/usc/t42/ch50/schIII/m__us_usc_t42_s4102a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4102)
+[Previous](./../../../../..//us/usc/t42/ch50/schIII/m__us_usc_t42_s4101e.md) | [Next](./../../../../..//us/usc/t42/ch50/schIII/m__us_usc_t42_s4102a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4102)
 
 ## § 4102. Criteria for land management and use
 
@@ -37,9 +37,25 @@
 
         and he shall work closely with and provide any necessary technical assistance to State, interstate, and local governmental agencies, to encourage the application of such criteria and the adoption and enforcement of such measures.
 
-([Pub. L. 90–448, title XIII, § 1361][/us/pl/90/448/s1361], Aug. 1, 1968, [82 Stat. 587][/us/stat/82/587]; [Pub. L. 91–152, title IV, § 410(c)][/us/pl/91/152/s410/c], Dec. 24, 1969, [83 Stat. 397][/us/stat/83/397]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 112–141, div. F, title II, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], July 6, 2012, [126 Stat. 958][/us/stat/126/958].)
+    (d) __Flood mitigation methods for buildings__ 
+
+    The Administrator shall establish guidelines for property owners that—
+
+        (1)
+
+         provide alternative methods of mitigation, other than building elevation, to reduce flood risk to residential buildings that cannot be elevated due to their structural characteristics, including—
+
+            (A) types of building materials; and
+
+            (B) types of floodproofing; and
+
+        (2) inform property owners about how the implementation of mitigation methods described in paragraph (1) may affect risk premium rates for flood insurance coverage under the National Flood Insurance Program.
+
+([Pub. L. 90–448, title XIII, § 1361][/us/pl/90/448/s1361], Aug. 1, 1968, [82 Stat. 587][/us/stat/82/587]; [Pub. L. 91–152, title IV, § 410(c)][/us/pl/91/152/s410/c], Dec. 24, 1969, [83 Stat. 397][/us/stat/83/397]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 112–141, div. F, title II, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], July 6, 2012, [126 Stat. 958][/us/stat/126/958]; [Pub. L. 113–89, § 26(a)(1)][/us/pl/113/89/s26/a/1], Mar. 21, 2014, [128 Stat. 1032][/us/stat/128/1032].)
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–89][/us/pl/113/89] added subsec. (d).
 
     2012—Subsecs. (a), (c). [Pub. L. 112–141][/us/pl/112/141] substituted “Administrator” for “Director”.
 
@@ -53,13 +69,19 @@
 
     For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
+ __Guidelines__ 
+
+[Pub. L. 113–89, § 26(a)(2)][/us/pl/113/89/s26/a/2], Mar. 21, 2014, [128 Stat. 1032][/us/stat/128/1032], provided that: 
+
+> “The Administrator \[of the Federal Emergency Management Agency\] shall issue the guidelines required under section 1361(d) of the National Flood Insurance Act of 1968 ([42 U.S.C. 4102(d)][/us/usc/t42/s4102/d]), as added by the amendment made by paragraph (1) of this subsection, not later than the expiration of the 1-year period beginning on the date of the enactment of this Act \[Mar. 21, 2014\].”
+
  __Task Force on Natural and Beneficial Functions of the Floodplain__ 
 
     [Pub. L. 103–325, title V, § 562][/us/pl/103/325/s562], Sept. 23, 1994, [108 Stat. 2276][/us/stat/108/2276], established the Task Force on Natural and Beneficial Functions of the Floodplain to conduct a study on the functions of the floodplain that reduce flood-related losses and provided for its termination 24 months after its last member was designated.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch50/schIII/m__us_usc_t42_s4101c.md) | [Next](./../../../../..//us/usc/t42/ch50/schIII/m__us_usc_t42_s4102a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4102)
+[Previous](./../../../../..//us/usc/t42/ch50/schIII/m__us_usc_t42_s4101e.md) | [Next](./../../../../..//us/usc/t42/ch50/schIII/m__us_usc_t42_s4102a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4102)
 
 ----------
 ----------
@@ -72,11 +94,17 @@
 [/us/stat/97/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1229
 [/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
 [/us/stat/126/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F958
+[/us/pl/113/89/s26/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs26%2Fa%2F1
+[/us/stat/128/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1032
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/98/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F181
 [/us/pl/91/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F152
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/113/89/s26/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs26%2Fa%2F2
+[/us/stat/128/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1032
+[/us/usc/t42/s4102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4102%2Fd
 [/us/pl/103/325/s562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F325%2Fs562
 [/us/stat/108/2276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2276
 

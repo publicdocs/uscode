@@ -359,7 +359,191 @@
 
             The Secretary shall establish procedures to make information on expenditures submitted under this subsection readily available to interested parties upon request, subject to such requirements as the Secretary may specify under the procedures established under this paragraph.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1888, as added [Pub. L. 98–369, div. B, title III, § 2319(b)][/us/pl/98/369/s2319/b], July 18, 1984, [98 Stat. 1082][/us/stat/98/1082]; amended [Pub. L. 99–272, title IX][/us/pl/99/272], §§ 9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, [100 Stat. 168][/us/stat/100/168], 170, 182; [Pub. L. 99–514, title XVIII, § 1895(b)(7)(A)][/us/pl/99/514/s1895/b/7/A], (B), Oct. 22, 1986, [100 Stat. 2933][/us/stat/100/2933]; [Pub. L. 100–203, title IV, § 4201(b)(2)][/us/pl/100/203/s4201/b/2], Dec. 22, 1987, [101 Stat. 1330–174][/us/stat/101/1330-174]; [Pub. L. 101–508, title IV, § 4008(e)(2)][/us/pl/101/508/s4008/e/2], (h)(2)(A)(ii), Nov. 5, 1990, [104 Stat. 1388–45][/us/stat/104/1388-45], 1388–48; [Pub. L. 103–66, title XIII, § 13503(a)(2)][/us/pl/103/66/s13503/a/2], (3)(A), Aug. 10, 1993, [107 Stat. 578][/us/stat/107/578]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, [111 Stat. 414][/us/stat/111/414], 421, 422, 442; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title I, §§ 102(a), 103(a), (b), 104(a), 105(a), title III, § 321(g)(1), (k)(18)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–325 to 1501A–327, 1501A–366, 1501A–368; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title II, § 203(a), title III, § 311(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–481, 2763A–497; [Pub. L. 108–173, title IV, § 410(a)][/us/pl/108/173/s410/a], title V, § 511(a), Dec. 8, 2003, [117 Stat. 2271][/us/stat/117/2271], 2298; [Pub. L. 110–275, title I, § 149(b)][/us/pl/110/275/s149/b], July 15, 2008, [122 Stat. 2549][/us/stat/122/2549]; [Pub. L. 111–148, title III, § 3401(b)][/us/pl/111/148/s3401/b], title VI, § 6104, Mar. 23, 2010, [124 Stat. 481][/us/stat/124/481], 711.)
+    (g) __Skilled nursing facility readmission measure__ 
+
+        (1) __Readmission measure__ 
+
+            Not later than October 1, 2015, the Secretary shall specify a skilled nursing facility all-cause all-condition hospital readmission measure (or any successor to such a measure).
+
+        (2) __Resource use measure__ 
+
+            Not later than October 1, 2016, the Secretary shall specify a measure to reflect an all-condition risk-adjusted potentially preventable hospital readmission rate for skilled nursing facilities.
+
+        (3) __Measure adjustments__ 
+
+            When specifying the measures under paragraphs (1) and (2), the Secretary shall devise a methodology to achieve a high level of reliability and validity, especially for skilled nursing facilities with a low volume of readmissions.
+
+        (4) __Pre-rulemaking process (measure application partnership process)__ 
+
+            The application of the provisions of [section 1395aaa–1 of this title][/us/usc/t42/s1395aaa–1] shall be optional in the case of a measure specified under paragraph (1) and a measure specified under paragraph (2).
+
+        (5) __Feedback reports to skilled nursing facilities__ 
+
+            Beginning October 1, 2016, and every quarter thereafter, the Secretary shall provide confidential feedback reports to skilled nursing facilities on the performance of such facilities with respect to a measure specified under paragraph (1) or (2).
+
+        (6) __Public reporting of skilled nursing facilities__ 
+
+            (A) __In general__ 
+
+                Subject to subparagraphs (B) and (C), the Secretary shall establish procedures for making available to the public by posting on the Nursing Home Compare Medicare website (or a successor website) described in [section 1395i–3(i) of this title][/us/usc/t42/s1395i–3/i] information on the performance of skilled nursing facilities with respect to a measure specified under paragraph (1) and a measure specified under paragraph (2).
+
+            (B) __Opportunity to review__ 
+
+                The procedures under subparagraph (A) shall ensure that a skilled nursing facility has the opportunity to review and submit corrections to the information that is to be made public with respect to the facility prior to such information being made public.
+
+            (C) __Timing__ 
+
+                Such procedures shall provide that the information described in subparagraph (A) is made publicly available beginning not later than October 1, 2017.
+
+        (7) __Non-application of Paperwork Reduction Act__ 
+
+            Chapter 35 of title 44 (commonly referred to as the “Paperwork Reduction Act of 1995”) shall not apply to this subsection.
+
+    (h) __Skilled nursing facility value-based purchasing program__ 
+
+        (1) __Establishment__ 
+
+            (A) __In general__ 
+
+                Subject to the succeeding provisions of this subsection, the Secretary shall establish a skilled nursing facility value-based purchasing program (in this subsection referred to as the “SNF VBP Program”) under which value-based incentive payments are made in a fiscal year to skilled nursing facilities.
+
+            (B) __Program to begin in fiscal year 2019__ 
+
+                The SNF VBP Program shall apply to payments for services furnished on or after October 1, 2018.
+
+        (2) __Application of measures__ 
+
+            (A) __In general__ 
+
+                The Secretary shall apply the measure specified under subsection (g)(1) for purposes of the SNF VBP Program.
+
+            (B) __Replacement__ 
+
+                For purposes of the SNF VBP Program, the Secretary shall apply the measure specified under (g)(2)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “subsection”. </sup></sup>  instead of the measure specified under (g)(1)  <sup>\[1\]</sup>  as soon as practicable.
+
+        (3) __Performance standards__ 
+
+            (A) __Establishment__ 
+
+                The Secretary shall establish performance standards with respect to the measure applied under paragraph (2) for a performance period for a fiscal year.
+
+            (B) __Higher of achievement and improvement__ 
+
+                The performance standards established under subparagraph (A) shall include levels of achievement and improvement. In calculating the SNF performance score under paragraph (4), the Secretary shall use the higher of either improvement or achievement.
+
+            (C) __Timing__ 
+
+                The Secretary shall establish and announce the performance standards established under subparagraph (A) not later than 60 days prior to the beginning of the performance period for the fiscal year involved.
+
+        (4) __SNF performance score__ 
+
+            (A) __In general__ 
+
+                The Secretary shall develop a methodology for assessing the total performance of each skilled nursing facility based on performance standards established under paragraph (3) with respect to the measure applied under paragraph (2). Using such methodology, the Secretary shall provide for an assessment (in this subsection referred to as the “SNF performance score”) for each skilled nursing facility for each such performance period.
+
+            (B) __Ranking of SNF performance scores__ 
+
+                The Secretary shall, for the performance period for each fiscal year, rank the SNF performance scores determined under subparagraph (A) from low to high.
+
+        (5) __Calculation of value-based incentive payments__ 
+
+            (A) __In general__ 
+
+                With respect to a skilled nursing facility, based on the ranking under paragraph (4)(B) for a performance period for a fiscal year, the Secretary shall increase the adjusted Federal per diem rate determined under subsection (e)(4)(G) otherwise applicable to such skilled nursing facility (and after application of paragraph (6)) for services furnished by such facility during such fiscal year by the value-based incentive payment amount under subparagraph (B).
+
+            (B) __Value-based incentive payment amount__ 
+
+            The value-based incentive payment amount for services furnished by a skilled nursing facility in a fiscal year shall be equal to the product of—
+
+                (i) the adjusted Federal per diem rate determined under subsection (e)(4)(G) otherwise applicable to such skilled nursing facility for such services furnished by the skilled nursing facility during such fiscal year; and
+
+                (ii) the value-based incentive payment percentage specified under subparagraph (C) for the skilled nursing facility for such fiscal year.
+
+            (C) __Value-based incentive payment percentage__ 
+
+                (i) __In general__ 
+
+                    The Secretary shall specify a value-based incentive payment percentage for a skilled nursing facility for a fiscal year which may include a zero percentage.
+
+                (ii) __Requirements__ 
+
+                In specifying the value-based incentive payment percentage for each skilled nursing facility for a fiscal year under clause (i), the Secretary shall ensure that—
+
+                    (I) such percentage is based on the SNF performance score of the skilled nursing facility provided under paragraph (4) for the performance period for such fiscal year;
+
+                    (II)
+
+                     the application of all such percentages in such fiscal year results in an appropriate distribution of value-based incentive payments under subparagraph (B) such that—
+
+                        (aa) skilled nursing facilities with the highest rankings under paragraph (4)(B) receive the highest value-based incentive payment amounts under subparagraph (B);
+
+                        (bb) skilled nursing facilities with the lowest rankings under paragraph (4)(B) receive the lowest value-based incentive payment amounts under subparagraph (B); and
+
+                        (cc) in the case of skilled nursing facilities in the lowest 40 percent of the ranking under paragraph (4)(B), the payment rate under subparagraph (A) for services furnished by such facility during such fiscal year shall be less than the payment rate for such services for such fiscal year that would otherwise apply under subsection (e)(4)(G) without application of this subsection; and
+
+                    (III) the total amount of value-based incentive payments under this paragraph for all skilled nursing facilities in such fiscal year shall be greater than or equal to 50 percent, but not greater than 70 percent, of the total amount of the reductions to payments for such fiscal year under paragraph (6), as estimated by the Secretary.
+
+        (6) __Funding for value-based incentive payments__ 
+
+            (A) __In general__ 
+
+                The Secretary shall reduce the adjusted Federal per diem rate determined under subsection (e)(4)(G) otherwise applicable to a skilled nursing facility for services furnished by such facility during a fiscal year (beginning with fiscal year 2019) by the applicable percent (as defined in subparagraph (B)). The Secretary shall make such reductions for all skilled nursing facilities in the fiscal year involved, regardless of whether or not the skilled nursing facility has been determined by the Secretary to have earned a value-based incentive payment under paragraph (5) for such fiscal year.
+
+            (B) __Applicable percent__ 
+
+                For purposes of subparagraph (A), the term “applicable percent” means, with respect to fiscal year 2019 and succeeding fiscal years, 2 percent.
+
+        (7) __Announcement of net result of adjustments__ 
+
+            Under the SNF VBP Program, the Secretary shall, not later than 60 days prior to the fiscal year involved, inform each skilled nursing facility of the adjustments to payments to the skilled nursing facility for services furnished by such facility during the fiscal year under paragraphs (5) and (6).
+
+        (8) __No effect in subsequent fiscal years__ 
+
+            The value-based incentive payment under paragraph (5) and the payment reduction under paragraph (6) shall each apply only with respect to the fiscal year involved, and the Secretary shall not take into account such value-based incentive payment or payment reduction in making payments to a skilled nursing facility under this section in a subsequent fiscal year.
+
+        (9) __Public reporting__ 
+
+            (A) __SNF specific information__ 
+
+            The Secretary shall make available to the public, by posting on the Nursing Home Compare Medicare website (or a successor website) described in [section 1395i–3(i) of this title][/us/usc/t42/s1395i–3/i] in an easily understandable format, information regarding the performance of individual skilled nursing facilities under the SNF VBP Program, with respect to a fiscal year, including—
+
+                (i) the SNF performance score of the skilled nursing facility for such fiscal year; and
+
+                (ii) the ranking of the skilled nursing facility under paragraph (4)(B) for the performance period for such fiscal year.
+
+            (B) __Aggregate information__ 
+
+            The Secretary shall periodically post on the Nursing Home Compare Medicare website (or a successor website) described in [section 1395i–3(i) of this title][/us/usc/t42/s1395i–3/i] aggregate information on the SNF VBP Program, including—
+
+                (i) the range of SNF performance scores provided under paragraph (4)(A); and
+
+                (ii) the number of skilled nursing facilities receiving value-based incentive payments under paragraph (5) and the range and total amount of such value-based incentive payments.
+
+        (10) __Limitation on review__ 
+
+        There shall be no administrative or judicial review under [section 1395ff of this title][/us/usc/t42/s1395ff], section 1395oo of this title, or otherwise of the following:
+
+            (A) The methodology used to determine the value-based incentive payment percentage and the amount of the value-based incentive payment under paragraph (5).
+
+            (B) The determination of the amount of funding available for such value-based incentive payments under paragraph (5)(C)(ii)(III) and the payment reduction under paragraph (6).
+
+            (C) The establishment of the performance standards under paragraph (3) and the performance period.
+
+            (D) The methodology developed under paragraph (4) that is used to calculate SNF performance scores and the calculation of such scores.
+
+            (E) The ranking determinations under paragraph (4)(B).
+
+        (11) __Funding for program management__ 
+
+        The Secretary shall provide for the one time transfer from the Federal Hospital Insurance Trust Fund established under [section 1395i of this title][/us/usc/t42/s1395i] to the Centers for Medicare & Medicaid Services Program Management Account of—
+
+            (A) for purposes of subsection (g)(2), $2,000,000; and
+
+            (B) for purposes of implementing this subsection, $10,000,000.
+
+            Such funds shall remain available until expended.
+
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1888, as added [Pub. L. 98–369, div. B, title III, § 2319(b)][/us/pl/98/369/s2319/b], July 18, 1984, [98 Stat. 1082][/us/stat/98/1082]; amended [Pub. L. 99–272, title IX][/us/pl/99/272], §§ 9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, [100 Stat. 168][/us/stat/100/168], 170, 182; [Pub. L. 99–514, title XVIII, § 1895(b)(7)(A)][/us/pl/99/514/s1895/b/7/A], (B), Oct. 22, 1986, [100 Stat. 2933][/us/stat/100/2933]; [Pub. L. 100–203, title IV, § 4201(b)(2)][/us/pl/100/203/s4201/b/2], Dec. 22, 1987, [101 Stat. 1330–174][/us/stat/101/1330-174]; [Pub. L. 101–508, title IV, § 4008(e)(2)][/us/pl/101/508/s4008/e/2], (h)(2)(A)(ii), Nov. 5, 1990, [104 Stat. 1388–45][/us/stat/104/1388-45], 1388–48; [Pub. L. 103–66, title XIII, § 13503(a)(2)][/us/pl/103/66/s13503/a/2], (3)(A), Aug. 10, 1993, [107 Stat. 578][/us/stat/107/578]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, [111 Stat. 414][/us/stat/111/414], 421, 422, 442; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title I, §§ 102(a), 103(a), (b), 104(a), 105(a), title III, § 321(g)(1), (k)(18)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–325 to 1501A–327, 1501A–366, 1501A–368; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title II, § 203(a), title III, § 311(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–481, 2763A–497; [Pub. L. 108–173, title IV, § 410(a)][/us/pl/108/173/s410/a], title V, § 511(a), Dec. 8, 2003, [117 Stat. 2271][/us/stat/117/2271], 2298; [Pub. L. 110–275, title I, § 149(b)][/us/pl/110/275/s149/b], July 15, 2008, [122 Stat. 2549][/us/stat/122/2549]; [Pub. L. 111–148, title III, § 3401(b)][/us/pl/111/148/s3401/b], title VI, § 6104, Mar. 23, 2010, [124 Stat. 481][/us/stat/124/481], 711; [Pub. L. 113–93, title II, § 215(a)][/us/pl/113/93/s215/a], (b), Apr. 1, 2014, [128 Stat. 1048][/us/stat/128/1048], 1049.)
 
  __References in Text__ 
 
@@ -368,6 +552,10 @@
     Section 314(a) of Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, referred to in subsec. (e)(12)(A), is section 1(a)(6) \[title III, § 314(a)\] of [Pub. L. 106–554][/us/pl/106/554], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–499, which is not classified to the Code.
 
  __Amendments__ 
+
+    2014—Subsec. (g). [Pub. L. 113–93, § 215(a)][/us/pl/113/93/s215/a], added subsec. (g).
+
+    Subsec. (h). [Pub. L. 113–93, § 215(b)][/us/pl/113/93/s215/b], added subsec. (h).
 
     2010—Subsec. (e)(5)(B). [Pub. L. 111–148, § 3401(b)][/us/pl/111/148/s3401/b], designated existing provisions as cl. (i), inserted heading, substituted “Subject to clause (ii), the term” for “The term”, and added cl. (ii).
 
@@ -693,6 +881,12 @@
 [/us/usc/t42/s1395ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
 [/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
+[/us/usc/t42/s1395aaa–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395aaa%E2%80%931
+[/us/usc/t42/s1395i–3/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Fi
+[/us/usc/t42/s1395i–3/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Fi
+[/us/usc/t42/s1395i–3/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i%E2%80%933%2Fi
+[/us/usc/t42/s1395ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ff
+[/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/98/369/s2319/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2319%2Fb
 [/us/stat/98/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1082
@@ -718,10 +912,14 @@
 [/us/stat/122/2549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2549
 [/us/pl/111/148/s3401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3401%2Fb
 [/us/stat/124/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F481
+[/us/pl/113/93/s215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs215%2Fa
+[/us/stat/128/1048]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1048
 [/us/pl/106/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113
 [/us/stat/113/1536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1536
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
+[/us/pl/113/93/s215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs215%2Fa
+[/us/pl/113/93/s215/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs215%2Fb
 [/us/pl/111/148/s3401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3401%2Fb
 [/us/pl/111/148/s6104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6104
 [/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275

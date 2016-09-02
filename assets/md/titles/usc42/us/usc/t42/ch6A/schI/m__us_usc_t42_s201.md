@@ -153,6 +153,10 @@
 
  __Short Title of 2014 Amendment__ 
 
+[Pub. L. 113–98, § 1][/us/pl/113/98/s1], Apr. 7, 2014, [128 Stat. 1140][/us/stat/128/1140], provided that: 
+
+> “This Act \[amending [section 256e of this title][/us/usc/t42/s256e]\] may be cited as the ‘Children’s Hospital GME Support Reauthorization Act of 2013’.”
+
 [Pub. L. 113–77, § 1][/us/pl/113/77/s1], Jan. 24, 2014, [128 Stat. 644][/us/stat/128/644], provided that: 
 
 > “This Act \[amending sections 300d–71 to 300d–73 of this title and enacting provisions set out as a note under [section 300d–73 of this title][/us/usc/t42/s300d–73]\] may be cited as the ‘Poison Center Network Act’.”
@@ -1519,6 +1523,9 @@ Act June 16, 1948, § 1, [62 Stat. 464][/us/stat/62/464], provided that:
 [/us/usc/t33/s466j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs466j
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/pl/86/70/s47/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs47%2Fd
+[/us/pl/113/98/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F98%2Fs1
+[/us/stat/128/1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1140
+[/us/usc/t42/s256e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs256e
 [/us/pl/113/77/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F77%2Fs1
 [/us/stat/128/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F644
 [/us/usc/t42/s300d–73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300d%E2%80%9373

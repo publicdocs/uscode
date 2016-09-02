@@ -397,6 +397,18 @@
 
 >     Not later than 1 year after the date of the enactment of this Act, the Secretary shall first establish a standard methodology for selection of sample claims for abnormal billing patterns under section 1893(f)(8) of the Social Security Act \[[42 U.S.C. 1395ddd(f)(8)][/us/usc/t42/s1395ddd/f/8]\], as added by subsection (a).”
 
+ __Extension of Two-Midnight Rule__ 
+
+[Pub. L. 113–93, title I, § 111][/us/pl/113/93/s111], Apr. 1, 2014, [128 Stat. 1044][/us/stat/128/1044], provided that:
+
+>     “(a)  __Continuation of Certain Medical Review Activities__  __.—__ 
+
+>     The Secretary of Health and Human Services may continue medical review activities described in the notice entitled ‘Selecting Hospital Claims for Patient Status Reviews: Admissions On or After October 1, 2013’, posted on the Internet website of the Centers for Medicare & Medicaid Services, through the first 6 months of fiscal year 2015 for such additional hospital claims as the Secretary determines appropriate.
+
+>     “(b)  __Limitation__  __.—__ 
+
+>     The Secretary of Health and Human Services shall not conduct patient status reviews (as described in such notice) on a post-payment review basis through recovery audit contractors under section 1893(h) of the Social Security Act ([42 U.S.C. 1395ddd(h)][/us/usc/t42/s1395ddd/h]) for inpatient claims with dates of admission October 1, 2013, through March 31, 2015, unless there is evidence of systematic gaming, fraud, abuse, or delays in the provision of care by a provider of services (as defined in section 1861(u) of such Act ([42 U.S.C. 1395x(u)][/us/usc/t42/s1395x/u])).”
+
  __Access to Coordination of Benefits Contractor Database__ 
 
 [Pub. L. 109–432, div. B, title III, § 302(b)][/us/pl/109/432/s302/b], Dec. 20, 2006, [120 Stat. 2992][/us/stat/120/2992], provided that: 
@@ -463,6 +475,10 @@
 [/us/usc/t42/s1395ddd/f/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Ff%2F6
 [/us/usc/t42/s1395ddd/f/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Ff%2F7
 [/us/usc/t42/s1395ddd/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Ff%2F8
+[/us/pl/113/93/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs111
+[/us/stat/128/1044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1044
+[/us/usc/t42/s1395ddd/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Fh
+[/us/usc/t42/s1395x/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fu
 [/us/pl/109/432/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F432%2Fs302%2Fb
 [/us/stat/120/2992]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2992
 [/us/usc/t42/s1395ddd/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd%2Fh

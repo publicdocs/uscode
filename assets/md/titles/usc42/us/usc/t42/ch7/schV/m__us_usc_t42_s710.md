@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    For the purpose described in subsection (b) of this section, the Secretary shall, for each of fiscal years 2010 through 2014, allot to each State which has transmitted an application for the fiscal year under [section 705(a) of this title][/us/usc/t42/s705/a] an amount equal to the product of—
+    For the purpose described in subsection (b) of this section, the Secretary shall, for each of fiscal years 2010 through 2015, allot to each State which has transmitted an application for the fiscal year under [section 705(a) of this title][/us/usc/t42/s705/a] an amount equal to the product of—
 
         (1) the amount appropriated in subsection (d) of this section for the fiscal year; and
 
@@ -55,15 +55,17 @@
 
     (d) __Appropriations__ 
 
-        For the purpose of allotments under subsection (a) of this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, an additional $50,000,000 for each of the fiscal years 2010 through 2014. The appropriation under the preceding sentence for a fiscal year is made on October 1 of the fiscal year (except that such appropriation shall be made on March 23, 2010, in the case of fiscal year 2010).
+        For the purpose of allotments under subsection (a) of this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, an additional $50,000,000 for each of the fiscal years 2010 through 2015. The appropriation under the preceding sentence for a fiscal year is made on October 1 of the fiscal year (except that such appropriation shall be made on March 23, 2010, in the case of fiscal year 2010).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 510, as added [Pub. L. 104–193, title IX, § 912][/us/pl/104/193/s912], Aug. 22, 1996, [110 Stat. 2353][/us/stat/110/2353]; amended [Pub. L. 108–40, § 6][/us/pl/108/40/s6], June 30, 2003, [117 Stat. 837][/us/stat/117/837]; [Pub. L. 111–148, title II, § 2954][/us/pl/111/148/s2954], Mar. 23, 2010, [124 Stat. 352][/us/stat/124/352].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 510, as added [Pub. L. 104–193, title IX, § 912][/us/pl/104/193/s912], Aug. 22, 1996, [110 Stat. 2353][/us/stat/110/2353]; amended [Pub. L. 108–40, § 6][/us/pl/108/40/s6], June 30, 2003, [117 Stat. 837][/us/stat/117/837]; [Pub. L. 111–148, title II, § 2954][/us/pl/111/148/s2954], Mar. 23, 2010, [124 Stat. 352][/us/stat/124/352]; [Pub. L. 113–93, title II, § 205][/us/pl/113/93/s205], Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046].)
 
  __Prior Provisions__ 
 
     A prior section 710, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title V, § 510, as added Jan. 2, 1968, [Pub. L. 90–248, title III, § 301][/us/pl/90/248/s301], [81 Stat. 927][/us/stat/81/927]; amended July 10, 1972, [Pub. L. 92–345, § 2(f)][/us/pl/92/345/s2/f], [86 Stat. 457][/us/stat/86/457]; July 1, 1973, [Pub. L. 93–53, § 4(a)(8)][/us/pl/93/53/s4/a/8], [87 Stat. 136][/us/stat/87/136], provided for special project grants for dental health of children, prior to the general revision of this subchapter by [Pub. L. 97–35, title XXI, § 2192(a)][/us/pl/97/35/s2192/a], Aug. 13, 1981, [95 Stat. 818][/us/stat/95/818]. For effective date, savings, and transitional provisions, see [section 2194 of Pub. L. 97–35][/us/pl/97/35/s2194], set out as a note under [section 701 of this title][/us/usc/t42/s701].
 
  __Amendments__ 
+
+    2014—Subsecs. (a), (d). [Pub. L. 113–93][/us/pl/113/93] substituted “2015” for “2014”.
 
     2010—Subsec. (a). [Pub. L. 111–148, § 2954(1)][/us/pl/111/148/s2954/1], substituted “each of fiscal years 2010 through 2014” for “fiscal year 1998 and each subsequent fiscal year”.
 
@@ -108,6 +110,8 @@
 [/us/stat/117/837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F837
 [/us/pl/111/148/s2954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2954
 [/us/stat/124/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F352
+[/us/pl/113/93/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs205
+[/us/stat/128/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1046
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/90/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs301
 [/us/stat/81/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F927
@@ -119,6 +123,7 @@
 [/us/stat/95/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F818
 [/us/pl/97/35/s2194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs2194
 [/us/usc/t42/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs701
+[/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
 [/us/pl/111/148/s2954/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2954%2F1
 [/us/pl/111/148/s2954/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2954%2F2
 [/us/pl/108/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F40

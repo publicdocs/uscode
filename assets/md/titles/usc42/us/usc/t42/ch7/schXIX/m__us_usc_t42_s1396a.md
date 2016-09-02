@@ -199,7 +199,7 @@
 
                 (iii) for making medical assistance available for medicare cost sharing described in [section 1396d(p)(3)(A)(ii) of this title][/us/usc/t42/s1396d/p/3/A/ii] subject to [section 1396d(p)(4) of this title][/us/usc/t42/s1396d/p/4], for individuals who would be qualified medicare beneficiaries described in [section 1396d(p)(1) of this title][/us/usc/t42/s1396d/p/1] but for the fact that their income exceeds the income level established by the State under [section 1396d(p)(2) of this title][/us/usc/t42/s1396d/p/2] but is less than 110 percent in 1993 and 1994, and 120 percent in 1995 and years thereafter of the official poverty line (referred to in such section) for a family of the size involved; and
 
-                (iv) subject to sections 1396u–3 and 1396d(p)(4) of this title, for making medical assistance available (but only for premiums payable with respect to months during the period beginning with January 1998, and ending with March 2014) for medicare cost-sharing described in [section 1396d(p)(3)(A)(ii) of this title][/us/usc/t42/s1396d/p/3/A/ii] for individuals who would be qualified medicare beneficiaries described in [section 1396d(p)(1) of this title][/us/usc/t42/s1396d/p/1] but for the fact that their income exceeds the income level established by the State under [section 1396d(p)(2) of this title][/us/usc/t42/s1396d/p/2] and is at least 120 percent, but less than 135 percent, of the official poverty line (referred to in such section) for a family of the size involved and who are not otherwise eligible for medical assistance under the State plan;
+                (iv) subject to sections 1396u–3 and 1396d(p)(4) of this title, for making medical assistance available (but only for premiums payable with respect to months during the period beginning with January 1998, and ending with March 2015) for medicare cost-sharing described in [section 1396d(p)(3)(A)(ii) of this title][/us/usc/t42/s1396d/p/3/A/ii] for individuals who would be qualified medicare beneficiaries described in [section 1396d(p)(1) of this title][/us/usc/t42/s1396d/p/1] but for the fact that their income exceeds the income level established by the State under [section 1396d(p)(2) of this title][/us/usc/t42/s1396d/p/2] and is at least 120 percent, but less than 135 percent, of the official poverty line (referred to in such section) for a family of the size involved and who are not otherwise eligible for medical assistance under the State plan;
 
             (F) at the option of a State, for making medical assistance available for COBRA premiums (as defined in subsection (u)(2) of this section) for qualified COBRA continuation beneficiaries described in subsection (u)(1) of this section; and
 
@@ -641,7 +641,7 @@
 
             (A) Notwithstanding any other provision of this subchapter, effective January 1, 1974, subject to subparagraph (B) each State plan approved under this subchapter must provide that each family which was receiving aid pursuant to a plan of the State approved under part A of subchapter IV of this chapter in at least 3 of the 6 months immediately preceding the month in which such family became ineligible for such aid because of increased hours of, or increased income from, employment, shall, while a member of such family is employed, remain eligible for assistance under the plan approved under this subchapter (as though the family was receiving aid under the plan approved under part A of subchapter IV of this chapter) for 4 calendar months beginning with the month in which such family became ineligible for aid under the plan approved under part A of subchapter IV of this chapter because of income and resources or hours of work limitations contained in such plan.
 
-            (B) Subparagraph (A) shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter during the period beginning on April 1, 1990, and ending on March 31, 2014. During such period, for provisions relating to extension of eligibility for medical assistance for certain families who have received aid pursuant to a State plan approved under part A of subchapter IV of this chapter and have earned income, see [section 1396r–6 of this title][/us/usc/t42/s1396r–6].
+            (B) Subparagraph (A) shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter during the period beginning on April 1, 1990, and ending on March 31, 2015. During such period, for provisions relating to extension of eligibility for medical assistance for certain families who have received aid pursuant to a State plan approved under part A of subchapter IV of this chapter and have earned income, see [section 1396r–6 of this title][/us/usc/t42/s1396r–6].
 
         (2)
 
@@ -957,7 +957,7 @@
 
             (I)  __Application__  __.—__ 
 
-            This paragraph shall not apply with respect to eligibility determinations made after September 30, 2014.
+            This paragraph shall not apply with respect to eligibility determinations made after September 30, 2015.
 
         (14)  __ <sup>\[__  __15__  __\]</sup> __  __ <sup><sup> __  __15__  __ So in original. Two pars. (14) have been enacted.__  __ </sup></sup> __   __Exclusion of compensation for participation in a clinical trial for testing of treatments for a rare disease or condition__  __.—__ 
 
@@ -1733,13 +1733,13 @@
 
             Nothing in this subsection shall be interpreted to preclude or limit the ability of a State to engage in provider and supplier screening or enhanced provider and supplier oversight activities beyond those required by the Secretary.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1902, as added [Pub. L. 89–97, title I, § 121(a)][/us/pl/89/97/s121/a], July 30, 1965, [79 Stat. 344][/us/stat/79/344]; amended [Pub. L. 90–248, title II][/us/pl/90/248], §§ 210(a)(6), 223(a), 224(a), (c)(1), 227(a), 228(a), 229(a), 231, 234(a), 235(a), 236(a), 237, 238, 241(f)(1)–(4), title III, § 302(b), Jan. 2, 1968, [81 Stat. 896][/us/stat/81/896], 901–906, 908, 911, 917, 929; [Pub. L. 91–56, § 2(c)][/us/pl/91/56/s2/c], (d), Aug. 9, 1969, [83 Stat. 99][/us/stat/83/99]; [Pub. L. 92–223, § 4(b)][/us/pl/92/223/s4/b], Dec. 28, 1971, [85 Stat. 809][/us/stat/85/809]; [Pub. L. 92–603, title II][/us/pl/92/603], §§ 208(a), 209(a), (b)(1), 221(c)(5), 231, 232(a), 236(b), 237(a)(2), 239(a), (b), 240, 246(a), 249(a), 255(a), 268(a), 274(a), 278(a)(18)–(20), (b)(14), 298, 299A, 299D(b), Oct. 30, 1972, [86 Stat. 1381][/us/stat/86/1381], 1389, 1410, 1415–1418, 1424, 1426, 1446, 1450, 1452–1454, 1460, 1462; [Pub. L. 93–233][/us/pl/93/233], §§ 13(a)(2)–(10), 18(o)–(q), (x)(1)–(4), Dec. 31, 1973, [87 Stat. 960–962][/us/stat/87/960-962], 971, 972; [Pub. L. 93–368, § 9(a)][/us/pl/93/368/s9/a], Aug. 7, 1974, [88 Stat. 422][/us/stat/88/422]; [Pub. L. 94–48][/us/pl/94/48], §§ 1, 2, July 1, 1975, [89 Stat. 247][/us/stat/89/247]; [Pub. L. 94–182, title I, § 111(a)][/us/pl/94/182/s111/a], Dec. 31, 1975, [89 Stat. 1054][/us/stat/89/1054]; [Pub. L. 94–552, § 1][/us/pl/94/552/s1], Oct. 18, 1976, [90 Stat. 2540][/us/stat/90/2540]; [Pub. L. 95–142][/us/pl/95/142], §§ 2(a)(3), (b)(1), 3(c)(1), 7(b), (c), 9, 19(b)(2), 20(b), Oct. 25, 1977, [91 Stat. 1176][/us/stat/91/1176], 1178, 1193, 1195, 1204, 1207; [Pub. L. 95–210, § 2(c)][/us/pl/95/210/s2/c], Dec. 13, 1977, [91 Stat. 1488][/us/stat/91/1488]; [Pub. L. 95–559, § 14(a)(1)][/us/pl/95/559/s14/a/1], Nov. 1, 1978, [92 Stat. 2140][/us/stat/92/2140]; [Pub. L. 96–272, title III, § 308(c)][/us/pl/96/272/s308/c], June 17, 1980, [94 Stat. 531][/us/stat/94/531]; [Pub. L. 96–499, title IX][/us/pl/96/499], §§ 902(b), 903(b), 905(a), 912(b), 913(c), (d), 914(b)(1), 916(b)(1), 918(b)(1), 962(a), 965(b), Dec. 5, 1980, [94 Stat. 2613][/us/stat/94/2613], 2615, 2618–2621, 2624, 2626, 2650, 2652; [Pub. L. 96–611, § 5(b)][/us/pl/96/611/s5/b], Dec. 28, 1980, [94 Stat. 3568][/us/stat/94/3568]; [Pub. L. 97–35, title XXI][/us/pl/97/35], §§ 2105(c), 2113(m), 2171(a), (b), 2172(a), 2173(a), (b)(1), 2174(a), 2175(a), (d)(1), 2178(b), 2181(a)(2), 2182, 2193(c)(9), Aug. 13, 1981, [95 Stat. 792][/us/stat/95/792], 795, 807–809, 811, 814–816, 828; [Pub. L. 97–248, title I][/us/pl/97/248], §§ 131(a), (c), formerly (b), 132(a), (c), 134(a), 136(d), 137(a)(3), (b)(7)–(10), (e), 146(a), Sept. 3, 1982, [96 Stat. 367][/us/stat/96/367], 369, 370, 373, 375–378, 381, 394; [Pub. L. 97–448, title III, § 309(a)(8)][/us/pl/97/448/s309/a/8], Jan. 12, 1983, [96 Stat. 2408][/us/stat/96/2408]; [Pub. L. 98–369, div. B, title III][/us/pl/98/369], §§ 2303(g)(1), 2314(b), 2335(e), 2361(a), 2362(a), 2363(a)(1), 2367(a), 2368(a), (b), 2373(b)(1)–(10), title VI, § 2651(c), July 18, 1984, [98 Stat. 1066][/us/stat/98/1066], 1079, 1091, 1104, 1105, 1108, 1109, 1111, 1149; [Pub. L. 98–378, § 20(c)][/us/pl/98/378/s20/c], Aug. 16, 1984, [98 Stat. 1322][/us/stat/98/1322]; [Pub. L. 98–617, § 3(a)(7)][/us/pl/98/617/s3/a/7], (b)(10), Nov. 8, 1984, [98 Stat. 3295][/us/stat/98/3295], 3296; [Pub. L. 99–272, title IX][/us/pl/99/272], §§ 9501(b), (c), 9503(a), 9505(b), (c)(1), (d), 9506(a), 9509(a), 9510(a), 9517(b), 9529(a)(1), (b)(1), title XII, § 12305(b)(3), Apr. 7, 1986, [100 Stat. 201][/us/stat/100/201], 202, 205, 208–212, 216, 220, 293; [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9320(h)(3), 9401(a)–(e)(1), 9402(a), (b), 9403(a), (c), (e)–(g)(1), (4)(A), 9404(a), 9405, 9406(b), 9407(a), 9408(a), (b), (c)(2), (3), 9431(a), (b)(1), 9433(a), 9435(b)(1), Oct. 21, 1986, [100 Stat. 2016][/us/stat/100/2016], 2050–2058, 2060, 2061, 2066, 2068, 2069; [Pub. L. 99–514, title XVIII, § 1895(c)(1)][/us/pl/99/514/s1895/c/1], (3)(B), (C), (7), Oct. 22, 1986, [100 Stat. 2935][/us/stat/100/2935], 2936; [Pub. L. 99–570, title XI, § 11005(b)][/us/pl/99/570/s11005/b], Oct. 27, 1986, [100 Stat. 3207–169][/us/stat/100/3207-169]; [Pub. L. 99–643][/us/pl/99/643], §§ 3(b), 7(b), Nov. 10, 1986, [100 Stat. 3575][/us/stat/100/3575], 3579; [Pub. L. 100–93][/us/pl/100/93], §§ 5(a), 7, 8(f), Aug. 18, 1987, [101 Stat. 689][/us/stat/101/689], 691, 694; [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4072(d), 4101(a)(1), (2), (b)(1)–(2)(B), (c)(2), (e)(1)–(5), 4102(b)(1), 4104, 4113(a)(2), (b)(1), (2), (c)(1), (2), (d)(2), 4116, 4118(c)(1), (h)(1), (2), (m)(1)(B), (p)(1)–(4), (6)–(8), 4211(b)(1), (h)(1)–(5), 4212(d)(2), (3), (e)(1), 4213(b)(1), 4218(a), title IX, §§ 9115(b), 9119(d)(1), Dec. 22, 1987, [101 Stat. 1330–117][/us/stat/101/1330-117], 1330–140 to 1330–143, 1330–146, 1330–147, 1330–151, 1330–152, 1330–154 to 1330–157, 1330–159, 1330–203, 1330–205, 1330–213, 1330–219, 1330–220, 1330–305, as amended [Pub. L. 100–360, title IV, § 411(k)(5)(A)][/us/pl/100/360/s411/k/5/A], (7)(B)–(D), (10)(G)(ii), (iv), (l)(3)(H), (J), (8)(C), (n)(2), (4), formerly (3), July 1, 1988, [102 Stat. 791][/us/stat/102/791], 794, 796, 803, 805, 807, as amended [Pub. L. 100–485, title VI, § 608(d)(14)(I)][/us/pl/100/485/s608/d/14/I], (15)(A), (27)(F)–(H), (28), Oct. 13, 1988, [102 Stat. 2416][/us/stat/102/2416], 2423; [Pub. L. 100–360, title II, § 204(d)(3)][/us/pl/100/360/s204/d/3], title III, §§ 301(a)(1), (e)(2), 302(a), (b)(1), (c)(1), (2), (d)–(e)(3), 303(d), (e), title IV, § 411(k)(5)(B), (17)(B), (l)(3)(E), (6)(C), (D), July 1, 1988, [102 Stat. 729][/us/stat/102/729], 748–753, 762, 763, 792, 800, 803, 804; [Pub. L. 100–485, title II, § 202(c)(4)][/us/pl/100/485/s202/c/4], title III, § 303(a)(2), (b)(1), (d), title IV, § 401(d)(1), title VI, § 608(d)(15)(B), (16)(C), Oct. 13, 1988, [102 Stat. 2378][/us/stat/102/2378], 2391, 2392, 2396, 2416, 2418; [Pub. L. 100–647, title VIII, § 8434(b)(1)][/us/pl/100/647/s8434/b/1], (2), Nov. 10, 1988, [102 Stat. 3805][/us/stat/102/3805]; [Pub. L. 101–234, title II, § 201(a)][/us/pl/101/234/s201/a], Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981]; [Pub. L. 101–239, title VI][/us/pl/101/239], §§ 6115(c), 6401(a), 6402(a), (c)(2), 6403(b), (d)(1), 6404(c), 6405(b), 6406(a), 6408(c)(1), (d)(1), (4)(C), 6411(a)(1), (d)(3)(B), (e)(2), Dec. 19, 1989, [103 Stat. 2219][/us/stat/103/2219], 2258, 2260, 2261, 2263–2265, 2268–2271; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4401(a)(2), 4402(a)(1), (c), (d)(1), 4501(b), (e)(2), 4601(a)(1), 4602(a), 4603(a), 4604(a), (b), 4701(b)(1), 4704(a), (e)(1), 4708(a), 4711(c)(1), (d), 4713(a), 4715(a), 4723(b), 4724(a), 4732(b)(1), 4751(a), 4752(a)(1)(A), (c)(1), 4754(a), 4755(a)(2), (c)(1), 4801(e)(1)(A), (11)(A), Nov. 5, 1990, [104 Stat. 1388–143][/us/stat/104/1388-143], 1388–161, 1388–163 to 1388–173, 1388–186, 1388–187, 1388–190, 1388–192, 1388–194, 1388–195, 1388–204, 1388–206, 1388–208 to 1388–210, 1388–215, 1388–217; [Pub. L. 102–234][/us/pl/102/234], §§ 2(b)(1), 3(a), Dec. 12, 1991, [105 Stat. 1799][/us/stat/105/1799]; [Pub. L. 103–66, title XIII, § 13581(b)(2)][/us/pl/103/66/s13581/b/2], 13601(b), 13602(c), 13603(a)–(c), 13611(d)(1), 13622(a)(1), (b), (c), 13623(a), 13625(a), 13631(a), (e)(1), (f)(1), Aug. 10, 1993, [107 Stat. 611][/us/stat/107/611], 613, 619, 620, 626, 632, 633, 636, 643, 644; [Pub. L. 103–296, title I, § 108(d)(1)][/us/pl/103/296/s108/d/1], Aug. 15, 1994, [108 Stat. 1486][/us/stat/108/1486]; [Pub. L. 103–448, title II, § 204(w)(2)(E)][/us/pl/103/448/s204/w/2/E], Nov. 2, 1994, [108 Stat. 4746][/us/stat/108/4746]; [Pub. L. 104–193, title I][/us/pl/104/193], §§ 108(k), 114(b)–(d)(1), title IX, § 913, Aug. 22, 1996, [110 Stat. 2169][/us/stat/110/2169], 2180, 2354; [Pub. L. 104–226, § 1(b)(2)][/us/pl/104/226/s1/b/2], Oct. 2, 1996, [110 Stat. 3033][/us/stat/110/3033]; [Pub. L. 104–248, § 1(a)(1)][/us/pl/104/248/s1/a/1], Oct. 9, 1996, [110 Stat. 3148][/us/stat/110/3148]; [Pub. L. 105–12, § 9(b)(2)][/us/pl/105/12/s9/b/2], Apr. 30, 1997, [111 Stat. 26][/us/stat/111/26]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4106(c), 4454(b)(1), 4701(b)(2)(A)(i)–(iv), (d)(1), 4702(b)(2), 4709, 4711(a), 4712(a), (b)(1), (c)(1), 4714(a)(1), 4715(a), 4724(c)(1), (d), (f), (g)(1), 4731(a), (b), 4732(a), 4733, 4741(a), 4751(a), (b), 4752(a), 4753(b), 4911(b), 4912(b)(1), 4913(a), Aug. 5, 1997, [111 Stat. 368][/us/stat/111/368], 431, 493, 495, 506–510, 516, 517, 519, 520, 522–525, 571, 573; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, §§ 603(a)(1), 604(a)(1), (2)(A), (b)(1), 608(a)–(d), (y)(2), (aa)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–394 to 1501A–398; [Pub. L. 106–169, title I, § 121(a)(1)][/us/pl/106/169/s121/a/1], (c)(4), title II, §§ 205(c), 206(b), Dec. 14, 1999, [113 Stat. 1829][/us/stat/113/1829], 1830, 1834, 1837; [Pub. L. 106–170, title II, § 201(a)(1)][/us/pl/106/170/s201/a/1], (2)(A), Dec. 17, 1999, [113 Stat. 1891][/us/stat/113/1891], 1892; [Pub. L. 106–354, § 2(a)(1)][/us/pl/106/354/s2/a/1]–(3), (b)(2)(A), Oct. 24, 2000, [114 Stat. 1381–1383][/us/stat/114/1381-1383]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VII, §§ 702(a)–(c)(1), 707(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–572 to 2763A–574, 2763A–577; [Pub. L. 107–121, § 2(a)][/us/pl/107/121/s2/a], (b)(1), (2), Jan. 15, 2002, [115 Stat. 2384][/us/stat/115/2384]; [Pub. L. 108–40, § 7(b)][/us/pl/108/40/s7/b], June 30, 2003, [117 Stat. 837][/us/stat/117/837]; [Pub. L. 108–89, title IV, § 401(a)][/us/pl/108/89/s401/a], Oct. 1, 2003, [117 Stat. 1134][/us/stat/117/1134]; [Pub. L. 108–173, title I, § 103(a)(1)][/us/pl/108/173/s103/a/1], (f)(1), title II, § 236(b)(1), Dec. 8, 2003, [117 Stat. 2154][/us/stat/117/2154], 2160, 2211; [Pub. L. 108–265, title I, § 105(b)][/us/pl/108/265/s105/b], June 30, 2004, [118 Stat. 744][/us/stat/118/744]; [Pub. L. 108–448, § 1(a)][/us/pl/108/448/s1/a], Dec. 8, 2004, [118 Stat. 3467][/us/stat/118/3467]; [Pub. L. 109–91, title I, § 101(a)][/us/pl/109/91/s101/a], Oct. 20, 2005, [119 Stat. 2091][/us/stat/119/2091]; [Pub. L. 109–171, title VI][/us/pl/109/171], §§ 6032(a), 6034(b), 6035(a), (b), 6062(a), 6065(a), 6083(a), Feb. 8, 2006, [120 Stat. 73][/us/stat/120/73], 76, 78, 79, 96, 101, 120; [Pub. L. 109–432, div. B, title IV, § 405(c)(2)(A)(iv)][/us/pl/109/432/s405/c/2/A/iv], Dec. 20, 2006, [120 Stat. 3000][/us/stat/120/3000]; [Pub. L. 110–90, § 3(a)][/us/pl/110/90/s3/a], Sept. 29, 2007, [121 Stat. 984][/us/stat/121/984]; [Pub. L. 110–173, title II, § 203(a)][/us/pl/110/173/s203/a], Dec. 29, 2007, [121 Stat. 2513][/us/stat/121/2513]; [Pub. L. 110–252, title VII, § 7001(d)(2)][/us/pl/110/252/s7001/d/2], June 30, 2008, [122 Stat. 2394][/us/stat/122/2394]; [Pub. L. 110–275, title I, § 111(a)][/us/pl/110/275/s111/a], July 15, 2008, [122 Stat. 2503][/us/stat/122/2503]; [Pub. L. 111–3, title I, § 113(b)(1)][/us/pl/111/3/s113/b/1], title II, §§ 203(a)(1), (c), (d)(3), 211(a)(1)(A), (b)(3)(B), title V, § 501(d)(1), (e)(1), Feb. 4, 2009, [123 Stat. 34][/us/stat/123/34], 40, 47, 49, 54, 87; [Pub. L. 111–5, div. B, title V][/us/pl/111/5], §§ 5004(a)(1), 5005(a), 5006(b)(1), (e)(2)(A), Feb. 17, 2009, [123 Stat. 503][/us/stat/123/503], 505, 506, 510; [Pub. L. 111–148, title II][/us/pl/111/148], §§ 2001(a)(1), (2)(A), (4)(A), (5)(A), (B), (b), (d)(1), (e)(1), 2002(a), (b), 2004(a), 2202(a), 2301(b), 2303(a)(1)–(3), (b)(2)(A), 2402(d)(1), 2901(c), title III, § 3021(b), title IV, § 4302(b)(1)(A), title VI, §§ 6103(d)(2), 6401(b)(1), (3), 6411(a)(1), 6501–6503, 6505, title VIII, § 8002(a)(2), (b), title X, § 10201(a)(1), (2), (b), Mar. 23, 2010, [124 Stat. 271][/us/stat/124/271], 274, 275, 277–279, 282, 283, 291–294, 296, 303, 333, 394, 581, 710, 751, 753, 773, 776, 777, 846, 917, 918; [Pub. L. 111–152, title I][/us/pl/111/152], §§ 1004(b)(1), (e), 1202(a)(1), Mar. 30, 2010, [124 Stat. 1034][/us/stat/124/1034], 1036, 1052; [Pub. L. 111–255, § 3(c)][/us/pl/111/255/s3/c], Oct. 5, 2010, [124 Stat. 2641][/us/stat/124/2641]; [Pub. L. 111–296, title I, § 103(c)(1)][/us/pl/111/296/s103/c/1], Dec. 13, 2010, [124 Stat. 3191][/us/stat/124/3191]; [Pub. L. 111–309, title I][/us/pl/111/309], §§ 110(a), 111, title II, §§ 205(a), (b), (f)(1), Dec. 15, 2010, [124 Stat. 3288–3290][/us/stat/124/3288-3290]; [Pub. L. 112–78, title III][/us/pl/112/78], §§ 310(a), 311, Dec. 23, 2011, [125 Stat. 1286][/us/stat/125/1286]; [Pub. L. 112–96, title III][/us/pl/112/96], §§ 3101(a), 3102, Feb. 22, 2012, [126 Stat. 191][/us/stat/126/191]; [Pub. L. 112–240, title VI][/us/pl/112/240], §§ 621(a), 622, 623, 642(b)(2), Jan. 2, 2013, [126 Stat. 2352][/us/stat/126/2352], 2358; [Pub. L. 113–67, div. A, title II, § 202(a)][/us/pl/113/67/s202/a], (b)(1), div. B, title II, §§ 1201(a), 1202, Dec. 26, 2013, [127 Stat. 1177][/us/stat/127/1177], 1198, 1199.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1902, as added [Pub. L. 89–97, title I, § 121(a)][/us/pl/89/97/s121/a], July 30, 1965, [79 Stat. 344][/us/stat/79/344]; amended [Pub. L. 90–248, title II][/us/pl/90/248], §§ 210(a)(6), 223(a), 224(a), (c)(1), 227(a), 228(a), 229(a), 231, 234(a), 235(a), 236(a), 237, 238, 241(f)(1)–(4), title III, § 302(b), Jan. 2, 1968, [81 Stat. 896][/us/stat/81/896], 901–906, 908, 911, 917, 929; [Pub. L. 91–56, § 2(c)][/us/pl/91/56/s2/c], (d), Aug. 9, 1969, [83 Stat. 99][/us/stat/83/99]; [Pub. L. 92–223, § 4(b)][/us/pl/92/223/s4/b], Dec. 28, 1971, [85 Stat. 809][/us/stat/85/809]; [Pub. L. 92–603, title II][/us/pl/92/603], §§ 208(a), 209(a), (b)(1), 221(c)(5), 231, 232(a), 236(b), 237(a)(2), 239(a), (b), 240, 246(a), 249(a), 255(a), 268(a), 274(a), 278(a)(18)–(20), (b)(14), 298, 299A, 299D(b), Oct. 30, 1972, [86 Stat. 1381][/us/stat/86/1381], 1389, 1410, 1415–1418, 1424, 1426, 1446, 1450, 1452–1454, 1460, 1462; [Pub. L. 93–233][/us/pl/93/233], §§ 13(a)(2)–(10), 18(o)–(q), (x)(1)–(4), Dec. 31, 1973, [87 Stat. 960–962][/us/stat/87/960-962], 971, 972; [Pub. L. 93–368, § 9(a)][/us/pl/93/368/s9/a], Aug. 7, 1974, [88 Stat. 422][/us/stat/88/422]; [Pub. L. 94–48][/us/pl/94/48], §§ 1, 2, July 1, 1975, [89 Stat. 247][/us/stat/89/247]; [Pub. L. 94–182, title I, § 111(a)][/us/pl/94/182/s111/a], Dec. 31, 1975, [89 Stat. 1054][/us/stat/89/1054]; [Pub. L. 94–552, § 1][/us/pl/94/552/s1], Oct. 18, 1976, [90 Stat. 2540][/us/stat/90/2540]; [Pub. L. 95–142][/us/pl/95/142], §§ 2(a)(3), (b)(1), 3(c)(1), 7(b), (c), 9, 19(b)(2), 20(b), Oct. 25, 1977, [91 Stat. 1176][/us/stat/91/1176], 1178, 1193, 1195, 1204, 1207; [Pub. L. 95–210, § 2(c)][/us/pl/95/210/s2/c], Dec. 13, 1977, [91 Stat. 1488][/us/stat/91/1488]; [Pub. L. 95–559, § 14(a)(1)][/us/pl/95/559/s14/a/1], Nov. 1, 1978, [92 Stat. 2140][/us/stat/92/2140]; [Pub. L. 96–272, title III, § 308(c)][/us/pl/96/272/s308/c], June 17, 1980, [94 Stat. 531][/us/stat/94/531]; [Pub. L. 96–499, title IX][/us/pl/96/499], §§ 902(b), 903(b), 905(a), 912(b), 913(c), (d), 914(b)(1), 916(b)(1), 918(b)(1), 962(a), 965(b), Dec. 5, 1980, [94 Stat. 2613][/us/stat/94/2613], 2615, 2618–2621, 2624, 2626, 2650, 2652; [Pub. L. 96–611, § 5(b)][/us/pl/96/611/s5/b], Dec. 28, 1980, [94 Stat. 3568][/us/stat/94/3568]; [Pub. L. 97–35, title XXI][/us/pl/97/35], §§ 2105(c), 2113(m), 2171(a), (b), 2172(a), 2173(a), (b)(1), 2174(a), 2175(a), (d)(1), 2178(b), 2181(a)(2), 2182, 2193(c)(9), Aug. 13, 1981, [95 Stat. 792][/us/stat/95/792], 795, 807–809, 811, 814–816, 828; [Pub. L. 97–248, title I][/us/pl/97/248], §§ 131(a), (c), formerly (b), 132(a), (c), 134(a), 136(d), 137(a)(3), (b)(7)–(10), (e), 146(a), Sept. 3, 1982, [96 Stat. 367][/us/stat/96/367], 369, 370, 373, 375–378, 381, 394; [Pub. L. 97–448, title III, § 309(a)(8)][/us/pl/97/448/s309/a/8], Jan. 12, 1983, [96 Stat. 2408][/us/stat/96/2408]; [Pub. L. 98–369, div. B, title III][/us/pl/98/369], §§ 2303(g)(1), 2314(b), 2335(e), 2361(a), 2362(a), 2363(a)(1), 2367(a), 2368(a), (b), 2373(b)(1)–(10), title VI, § 2651(c), July 18, 1984, [98 Stat. 1066][/us/stat/98/1066], 1079, 1091, 1104, 1105, 1108, 1109, 1111, 1149; [Pub. L. 98–378, § 20(c)][/us/pl/98/378/s20/c], Aug. 16, 1984, [98 Stat. 1322][/us/stat/98/1322]; [Pub. L. 98–617, § 3(a)(7)][/us/pl/98/617/s3/a/7], (b)(10), Nov. 8, 1984, [98 Stat. 3295][/us/stat/98/3295], 3296; [Pub. L. 99–272, title IX][/us/pl/99/272], §§ 9501(b), (c), 9503(a), 9505(b), (c)(1), (d), 9506(a), 9509(a), 9510(a), 9517(b), 9529(a)(1), (b)(1), title XII, § 12305(b)(3), Apr. 7, 1986, [100 Stat. 201][/us/stat/100/201], 202, 205, 208–212, 216, 220, 293; [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9320(h)(3), 9401(a)–(e)(1), 9402(a), (b), 9403(a), (c), (e)–(g)(1), (4)(A), 9404(a), 9405, 9406(b), 9407(a), 9408(a), (b), (c)(2), (3), 9431(a), (b)(1), 9433(a), 9435(b)(1), Oct. 21, 1986, [100 Stat. 2016][/us/stat/100/2016], 2050–2058, 2060, 2061, 2066, 2068, 2069; [Pub. L. 99–514, title XVIII, § 1895(c)(1)][/us/pl/99/514/s1895/c/1], (3)(B), (C), (7), Oct. 22, 1986, [100 Stat. 2935][/us/stat/100/2935], 2936; [Pub. L. 99–570, title XI, § 11005(b)][/us/pl/99/570/s11005/b], Oct. 27, 1986, [100 Stat. 3207–169][/us/stat/100/3207-169]; [Pub. L. 99–643][/us/pl/99/643], §§ 3(b), 7(b), Nov. 10, 1986, [100 Stat. 3575][/us/stat/100/3575], 3579; [Pub. L. 100–93][/us/pl/100/93], §§ 5(a), 7, 8(f), Aug. 18, 1987, [101 Stat. 689][/us/stat/101/689], 691, 694; [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4072(d), 4101(a)(1), (2), (b)(1)–(2)(B), (c)(2), (e)(1)–(5), 4102(b)(1), 4104, 4113(a)(2), (b)(1), (2), (c)(1), (2), (d)(2), 4116, 4118(c)(1), (h)(1), (2), (m)(1)(B), (p)(1)–(4), (6)–(8), 4211(b)(1), (h)(1)–(5), 4212(d)(2), (3), (e)(1), 4213(b)(1), 4218(a), title IX, §§ 9115(b), 9119(d)(1), Dec. 22, 1987, [101 Stat. 1330–117][/us/stat/101/1330-117], 1330–140 to 1330–143, 1330–146, 1330–147, 1330–151, 1330–152, 1330–154 to 1330–157, 1330–159, 1330–203, 1330–205, 1330–213, 1330–219, 1330–220, 1330–305, as amended [Pub. L. 100–360, title IV, § 411(k)(5)(A)][/us/pl/100/360/s411/k/5/A], (7)(B)–(D), (10)(G)(ii), (iv), (l)(3)(H), (J), (8)(C), (n)(2), (4), formerly (3), July 1, 1988, [102 Stat. 791][/us/stat/102/791], 794, 796, 803, 805, 807, as amended [Pub. L. 100–485, title VI, § 608(d)(14)(I)][/us/pl/100/485/s608/d/14/I], (15)(A), (27)(F)–(H), (28), Oct. 13, 1988, [102 Stat. 2416][/us/stat/102/2416], 2423; [Pub. L. 100–360, title II, § 204(d)(3)][/us/pl/100/360/s204/d/3], title III, §§ 301(a)(1), (e)(2), 302(a), (b)(1), (c)(1), (2), (d)–(e)(3), 303(d), (e), title IV, § 411(k)(5)(B), (17)(B), (l)(3)(E), (6)(C), (D), July 1, 1988, [102 Stat. 729][/us/stat/102/729], 748–753, 762, 763, 792, 800, 803, 804; [Pub. L. 100–485, title II, § 202(c)(4)][/us/pl/100/485/s202/c/4], title III, § 303(a)(2), (b)(1), (d), title IV, § 401(d)(1), title VI, § 608(d)(15)(B), (16)(C), Oct. 13, 1988, [102 Stat. 2378][/us/stat/102/2378], 2391, 2392, 2396, 2416, 2418; [Pub. L. 100–647, title VIII, § 8434(b)(1)][/us/pl/100/647/s8434/b/1], (2), Nov. 10, 1988, [102 Stat. 3805][/us/stat/102/3805]; [Pub. L. 101–234, title II, § 201(a)][/us/pl/101/234/s201/a], Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981]; [Pub. L. 101–239, title VI][/us/pl/101/239], §§ 6115(c), 6401(a), 6402(a), (c)(2), 6403(b), (d)(1), 6404(c), 6405(b), 6406(a), 6408(c)(1), (d)(1), (4)(C), 6411(a)(1), (d)(3)(B), (e)(2), Dec. 19, 1989, [103 Stat. 2219][/us/stat/103/2219], 2258, 2260, 2261, 2263–2265, 2268–2271; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4401(a)(2), 4402(a)(1), (c), (d)(1), 4501(b), (e)(2), 4601(a)(1), 4602(a), 4603(a), 4604(a), (b), 4701(b)(1), 4704(a), (e)(1), 4708(a), 4711(c)(1), (d), 4713(a), 4715(a), 4723(b), 4724(a), 4732(b)(1), 4751(a), 4752(a)(1)(A), (c)(1), 4754(a), 4755(a)(2), (c)(1), 4801(e)(1)(A), (11)(A), Nov. 5, 1990, [104 Stat. 1388–143][/us/stat/104/1388-143], 1388–161, 1388–163 to 1388–173, 1388–186, 1388–187, 1388–190, 1388–192, 1388–194, 1388–195, 1388–204, 1388–206, 1388–208 to 1388–210, 1388–215, 1388–217; [Pub. L. 102–234][/us/pl/102/234], §§ 2(b)(1), 3(a), Dec. 12, 1991, [105 Stat. 1799][/us/stat/105/1799]; [Pub. L. 103–66, title XIII, § 13581(b)(2)][/us/pl/103/66/s13581/b/2], 13601(b), 13602(c), 13603(a)–(c), 13611(d)(1), 13622(a)(1), (b), (c), 13623(a), 13625(a), 13631(a), (e)(1), (f)(1), Aug. 10, 1993, [107 Stat. 611][/us/stat/107/611], 613, 619, 620, 626, 632, 633, 636, 643, 644; [Pub. L. 103–296, title I, § 108(d)(1)][/us/pl/103/296/s108/d/1], Aug. 15, 1994, [108 Stat. 1486][/us/stat/108/1486]; [Pub. L. 103–448, title II, § 204(w)(2)(E)][/us/pl/103/448/s204/w/2/E], Nov. 2, 1994, [108 Stat. 4746][/us/stat/108/4746]; [Pub. L. 104–193, title I][/us/pl/104/193], §§ 108(k), 114(b)–(d)(1), title IX, § 913, Aug. 22, 1996, [110 Stat. 2169][/us/stat/110/2169], 2180, 2354; [Pub. L. 104–226, § 1(b)(2)][/us/pl/104/226/s1/b/2], Oct. 2, 1996, [110 Stat. 3033][/us/stat/110/3033]; [Pub. L. 104–248, § 1(a)(1)][/us/pl/104/248/s1/a/1], Oct. 9, 1996, [110 Stat. 3148][/us/stat/110/3148]; [Pub. L. 105–12, § 9(b)(2)][/us/pl/105/12/s9/b/2], Apr. 30, 1997, [111 Stat. 26][/us/stat/111/26]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4106(c), 4454(b)(1), 4701(b)(2)(A)(i)–(iv), (d)(1), 4702(b)(2), 4709, 4711(a), 4712(a), (b)(1), (c)(1), 4714(a)(1), 4715(a), 4724(c)(1), (d), (f), (g)(1), 4731(a), (b), 4732(a), 4733, 4741(a), 4751(a), (b), 4752(a), 4753(b), 4911(b), 4912(b)(1), 4913(a), Aug. 5, 1997, [111 Stat. 368][/us/stat/111/368], 431, 493, 495, 506–510, 516, 517, 519, 520, 522–525, 571, 573; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, §§ 603(a)(1), 604(a)(1), (2)(A), (b)(1), 608(a)–(d), (y)(2), (aa)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–394 to 1501A–398; [Pub. L. 106–169, title I, § 121(a)(1)][/us/pl/106/169/s121/a/1], (c)(4), title II, §§ 205(c), 206(b), Dec. 14, 1999, [113 Stat. 1829][/us/stat/113/1829], 1830, 1834, 1837; [Pub. L. 106–170, title II, § 201(a)(1)][/us/pl/106/170/s201/a/1], (2)(A), Dec. 17, 1999, [113 Stat. 1891][/us/stat/113/1891], 1892; [Pub. L. 106–354, § 2(a)(1)][/us/pl/106/354/s2/a/1]–(3), (b)(2)(A), Oct. 24, 2000, [114 Stat. 1381–1383][/us/stat/114/1381-1383]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VII, §§ 702(a)–(c)(1), 707(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–572 to 2763A–574, 2763A–577; [Pub. L. 107–121, § 2(a)][/us/pl/107/121/s2/a], (b)(1), (2), Jan. 15, 2002, [115 Stat. 2384][/us/stat/115/2384]; [Pub. L. 108–40, § 7(b)][/us/pl/108/40/s7/b], June 30, 2003, [117 Stat. 837][/us/stat/117/837]; [Pub. L. 108–89, title IV, § 401(a)][/us/pl/108/89/s401/a], Oct. 1, 2003, [117 Stat. 1134][/us/stat/117/1134]; [Pub. L. 108–173, title I, § 103(a)(1)][/us/pl/108/173/s103/a/1], (f)(1), title II, § 236(b)(1), Dec. 8, 2003, [117 Stat. 2154][/us/stat/117/2154], 2160, 2211; [Pub. L. 108–265, title I, § 105(b)][/us/pl/108/265/s105/b], June 30, 2004, [118 Stat. 744][/us/stat/118/744]; [Pub. L. 108–448, § 1(a)][/us/pl/108/448/s1/a], Dec. 8, 2004, [118 Stat. 3467][/us/stat/118/3467]; [Pub. L. 109–91, title I, § 101(a)][/us/pl/109/91/s101/a], Oct. 20, 2005, [119 Stat. 2091][/us/stat/119/2091]; [Pub. L. 109–171, title VI][/us/pl/109/171], §§ 6032(a), 6034(b), 6035(a), (b), 6062(a), 6065(a), 6083(a), Feb. 8, 2006, [120 Stat. 73][/us/stat/120/73], 76, 78, 79, 96, 101, 120; [Pub. L. 109–432, div. B, title IV, § 405(c)(2)(A)(iv)][/us/pl/109/432/s405/c/2/A/iv], Dec. 20, 2006, [120 Stat. 3000][/us/stat/120/3000]; [Pub. L. 110–90, § 3(a)][/us/pl/110/90/s3/a], Sept. 29, 2007, [121 Stat. 984][/us/stat/121/984]; [Pub. L. 110–173, title II, § 203(a)][/us/pl/110/173/s203/a], Dec. 29, 2007, [121 Stat. 2513][/us/stat/121/2513]; [Pub. L. 110–252, title VII, § 7001(d)(2)][/us/pl/110/252/s7001/d/2], June 30, 2008, [122 Stat. 2394][/us/stat/122/2394]; [Pub. L. 110–275, title I, § 111(a)][/us/pl/110/275/s111/a], July 15, 2008, [122 Stat. 2503][/us/stat/122/2503]; [Pub. L. 111–3, title I, § 113(b)(1)][/us/pl/111/3/s113/b/1], title II, §§ 203(a)(1), (c), (d)(3), 211(a)(1)(A), (b)(3)(B), title V, § 501(d)(1), (e)(1), Feb. 4, 2009, [123 Stat. 34][/us/stat/123/34], 40, 47, 49, 54, 87; [Pub. L. 111–5, div. B, title V][/us/pl/111/5], §§ 5004(a)(1), 5005(a), 5006(b)(1), (e)(2)(A), Feb. 17, 2009, [123 Stat. 503][/us/stat/123/503], 505, 506, 510; [Pub. L. 111–148, title II][/us/pl/111/148], §§ 2001(a)(1), (2)(A), (4)(A), (5)(A), (B), (b), (d)(1), (e)(1), 2002(a), (b), 2004(a), 2202(a), 2301(b), 2303(a)(1)–(3), (b)(2)(A), 2402(d)(1), 2901(c), title III, § 3021(b), title IV, § 4302(b)(1)(A), title VI, §§ 6103(d)(2), 6401(b)(1), (3), 6411(a)(1), 6501–6503, 6505, title VIII, § 8002(a)(2), (b), title X, § 10201(a)(1), (2), (b), Mar. 23, 2010, [124 Stat. 271][/us/stat/124/271], 274, 275, 277–279, 282, 283, 291–294, 296, 303, 333, 394, 581, 710, 751, 753, 773, 776, 777, 846, 917, 918; [Pub. L. 111–152, title I][/us/pl/111/152], §§ 1004(b)(1), (e), 1202(a)(1), Mar. 30, 2010, [124 Stat. 1034][/us/stat/124/1034], 1036, 1052; [Pub. L. 111–255, § 3(c)][/us/pl/111/255/s3/c], Oct. 5, 2010, [124 Stat. 2641][/us/stat/124/2641]; [Pub. L. 111–296, title I, § 103(c)(1)][/us/pl/111/296/s103/c/1], Dec. 13, 2010, [124 Stat. 3191][/us/stat/124/3191]; [Pub. L. 111–309, title I][/us/pl/111/309], §§ 110(a), 111, title II, §§ 205(a), (b), (f)(1), Dec. 15, 2010, [124 Stat. 3288–3290][/us/stat/124/3288-3290]; [Pub. L. 112–78, title III][/us/pl/112/78], §§ 310(a), 311, Dec. 23, 2011, [125 Stat. 1286][/us/stat/125/1286]; [Pub. L. 112–96, title III][/us/pl/112/96], §§ 3101(a), 3102, Feb. 22, 2012, [126 Stat. 191][/us/stat/126/191]; [Pub. L. 112–240, title VI][/us/pl/112/240], §§ 621(a), 622, 623, 642(b)(2), Jan. 2, 2013, [126 Stat. 2352][/us/stat/126/2352], 2358; [Pub. L. 113–67, div. A, title II, § 202(a)][/us/pl/113/67/s202/a], (b)(1), div. B, title II, §§ 1201(a), 1202, Dec. 26, 2013, [127 Stat. 1177][/us/stat/127/1177], 1198, 1199; [Pub. L. 113–93, title II][/us/pl/113/93], §§ 201(a), 202, 203, Apr. 1, 2014, [128 Stat. 1045][/us/stat/128/1045], 1046.)
 
  __Amendment of Subsection (a)__ 
 
     For repeal of amendment by [section 3(e) of Pub. L. 111–255][/us/pl/111/255/s3/e], see Effective and Termination Dates of 2010 Amendment note below.
 
-[Pub. L. 113–67, div. A, title II, § 202(a)][/us/pl/113/67/s202/a], (b)(1), (c), Dec. 26, 2013, [127 Stat. 1177][/us/stat/127/1177], provided that, effective Oct. 1, 2014, subsection (a)(25) of this section is amended:
+[Pub. L. 113–67, div. A, title II, § 202(a)][/us/pl/113/67/s202/a], (b)(1), (c), Dec. 26, 2013, [127 Stat. 1177][/us/stat/127/1177], as amended by [Pub. L. 113–93, title II, § 211][/us/pl/113/93/s211], Apr. 1, 2014, [128 Stat. 1047][/us/stat/128/1047], provided that, effective Oct. 1, 2016, subsection (a)(25) of this section is amended:
 
     (1) in subparagraph (B), by striking “to the extent of such legal liability”;
 
@@ -1810,6 +1810,12 @@
     In subsec. (a)(4)(D), “chapter 21 of title 41” substituted for “section 27 of the Office of Federal Procurement Policy Act ([41 U.S.C. 423][/us/usc/t41/s423])” and “[section 2102(a)(3) of title 41][/us/usc/t41/s2102/a/3]” substituted for “subsection (a)(2) of such section of that Act” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(10)(E)(iv). [Pub. L. 113–93, § 201(a)][/us/pl/113/93/s201/a], substituted “March 2015” for “March 2014”.
+
+    Subsec. (e)(1)(B). [Pub. L. 113–93, § 202][/us/pl/113/93/s202], substituted “March 31, 2015” for “March 31, 2014”.
+
+    Subsec. (e)(13)(I). [Pub. L. 113–93, § 203][/us/pl/113/93/s203], substituted “September 30, 2015” for “September 30, 2014”.
 
     2013—Subsec. (a)(10)(E)(iv). [Pub. L. 113–67, § 1201(a)][/us/pl/113/67/s1201/a], substituted “March 2014” for “December 2013”.
 
@@ -3121,9 +3127,11 @@
 
  __Effective Date of 2013 Amendment__ 
 
-[Pub. L. 113–67, div. A, title II, § 202(c)][/us/pl/113/67/s202/c], Dec. 26, 2013, [127 Stat. 1177][/us/stat/127/1177], provided that: 
+[Pub. L. 113–67, div. A, title II, § 202(c)][/us/pl/113/67/s202/c], Dec. 26, 2013, [127 Stat. 1177][/us/stat/127/1177], as amended by [Pub. L. 113–93, title II, § 211][/us/pl/113/93/s211], Apr. 1, 2014, [128 Stat. 1047][/us/stat/128/1047], provided that: 
 
-> “The amendments made by this section \[amending this section and sections 1396k and 1396p of this title\] shall take effect on October 1, 2014.”
+> “The amendments made by this section \[amending this section and sections 1396k and 1396p of this title\] shall take effect on October 1, 2016.”
+
+    \[[Pub. L. 113–93, title II, § 211][/us/pl/113/93/s211], Apr. 1, 2014, [128 Stat. 1047][/us/stat/128/1047], provided in part that the amendment made by that section to [section 202(c) of Pub. L. 113–67][/us/pl/113/67/s202/c], set out above, is effective as if included in the enactment of [Pub. L. 113–67][/us/pl/113/67].\]
 
  __Effective and Termination Dates of 2010 Amendment__ 
 
@@ -4192,6 +4200,236 @@
  __Transfer of Functions__ 
 
     Functions, powers, and duties of Secretary of Health and Human Services under subsec. (a)(4)(A) of this section, insofar as relates to the prescription of personnel standards on a merit basis, transferred to Office of Personnel Management, see [section 4728(a)(3)(D) of this title][/us/usc/t42/s4728/a/3/D].
+
+ __Demonstration Programs To Improve Community Mental Health Services__ 
+
+[Pub. L. 113–93, title II, § 223][/us/pl/113/93/s223], Apr. 1, 2014, [128 Stat. 1077][/us/stat/128/1077], provided that:
+
+>     “(a) __Criteria for Certified Community Behavioral Health Clinics To Participate in Demonstration Programs.—__ 
+
+>         “(1)  __Publication__  __.—__ 
+
+>         Not later than September 1, 2015, the Secretary shall publish criteria for a clinic to be certified by a State as a certified community behavioral health clinic for purposes of participating in a demonstration program conducted under subsection (d).
+
+>         “(2)  __Requirements__  __.—__ 
+
+>         The criteria published under this subsection shall include criteria with respect to the following:
+
+>             “(A)  __Staffing__  __.—__ 
+
+>             Staffing requirements, including criteria that staff have diverse disciplinary backgrounds, have necessary State-required license and accreditation, and are culturally and linguistically trained to serve the needs of the clinic’s patient population.
+
+>             “(B)  __Availability and accessibility of services__  __.—__ 
+
+>             Availability and accessibility of services, including crisis management services that are available and accessible 24 hours a day, the use of a sliding scale for payment, and no rejection for services or limiting of services on the basis of a patient’s ability to pay or a place of residence.
+
+>             “(C)  __Care coordination__  __.—__ 
+
+>             Care coordination, including requirements to coordinate care across settings and providers to ensure seamless transitions for patients across the full spectrum of health services including acute, chronic, and behavioral health needs. Care coordination requirements shall include partnerships or formal contracts with the following:
+
+>                 “(i) Federally-qualified health centers (and as applicable, rural health clinics) to provide Federally-qualified health center services (and as applicable, rural health clinic services) to the extent such services are not provided directly through the certified community behavioral health clinic.
+
+>                 “(ii) Inpatient psychiatric facilities and substance use detoxification, post-detoxification step-down services, and residential programs.
+
+>                 “(iii) Other community or regional services, supports, and providers, including schools, child welfare agencies, juvenile and criminal justice agencies and facilities, Indian Health Service youth regional treatment centers, State licensed and nationally accredited child placing agencies for therapeutic foster care service, and other social and human services.
+
+>                 “(iv) Department of Veterans Affairs medical centers, independent outpatient clinics, drop-in centers, and other facilities of the Department as defined in section 1801 \[probably should be 1701\] of title 38, United States Code.
+
+>                 “(v) Inpatient acute care hospitals and hospital outpatient clinics.
+
+>             “(D)  __Scope of services__  __.—__ 
+
+>             Provision (in a manner reflecting person-centered care) of the following services which, if not available directly through the certified community behavioral health clinic, are provided or referred through formal relationships with other providers:
+
+>                 “(i) Crisis mental health services, including 24-hour mobile crisis teams, emergency crisis intervention services, and crisis stabilization.
+
+>                 “(ii) Screening, assessment, and diagnosis, including risk assessment.
+
+>                 “(iii) Patient-centered treatment planning or similar processes, including risk assessment and crisis planning.
+
+>                 “(iv) Outpatient mental health and substance use services.
+
+>                 “(v) Outpatient clinic primary care screening and monitoring of key health indicators and health risk.
+
+>                 “(vi) Targeted case management.
+
+>                 “(vii) Psychiatric rehabilitation services.
+
+>                 “(viii) Peer support and counselor services and family supports.
+
+>                 “(ix) Intensive, community-based mental health care for members of the armed forces and veterans, particularly those members and veterans located in rural areas, provided the care is consistent with minimum clinical mental health guidelines promulgated by the Veterans Health Administration including clinical guidelines contained in the Uniform Mental Health Services Handbook of such Administration.
+
+>             “(E)  __Quality and other reporting__  __.—__ 
+
+>             Reporting of encounter data, clinical outcomes data, quality data, and such other data as the Secretary requires.
+
+>             “(F)  __Organizational authority__  __.—__ 
+
+>             Criteria that a clinic be a non-profit or part of a local government behavioral health authority or operated under the authority of the Indian Health Service, an Indian tribe or tribal organization pursuant to a contract, grant, cooperative agreement, or compact with the Indian Health Service pursuant to the Indian Self-Determination Act ([25 U.S.C. 450][/us/usc/t25/s450] \[450f\] et seq.), or an urban Indian organization pursuant to a grant or contract with the Indian Health Service under title V of the Indian Health Care Improvement Act ([25 U.S.C. 1601][/us/usc/t25/s1601] \[1651\] et seq.).
+
+>     “(b) __Guidance on Development of Prospective Payment System for Testing Under Demonstration Programs.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than September 1, 2015, the Secretary, through the Administrator of the Centers for Medicare & Medicaid Services, shall issue guidance for the establishment of a prospective payment system that shall only apply to medical assistance for mental health services furnished by a certified community behavioral health clinic participating in a demonstration program under subsection (d).
+
+>         “(2)  __Requirements__  __.—__ 
+
+>         The guidance issued by the Secretary under paragraph (1) shall provide that—
+
+>             “(A) no payment shall be made for inpatient care, residential treatment, room and board expenses, or any other non-ambulatory services, as determined by the Secretary; and
+
+>             “(B) no payment shall be made to satellite facilities of certified community behavioral health clinics if such facilities are established after the date of enactment of this Act \[Apr. 1, 2014\].
+
+>     “(c) __Planning Grants.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than January 1, 2016, the Secretary shall award planning grants to States for the purpose of developing proposals to participate in time-limited demonstration programs described in subsection (d).
+
+>         “(2)  __Use of funds__  __.—__ 
+
+>         A State awarded a planning grant under this subsection shall—
+
+>             “(A) solicit input with respect to the development of such a demonstration program from patients, providers, and other stakeholders;
+
+>             “(B) certify clinics as certified community behavioral health clinics for purposes of participating in a demonstration program conducted under subsection (d); and
+
+>             “(C) establish a prospective payment system for mental health services furnished by a certified community behavioral health clinic participating in a demonstration program under subsection (d) in accordance with the guidance issued under subsection (b).
+
+>     “(d) __Demonstration Programs.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than September 1, 2017, the Secretary shall select States to participate in demonstration programs that are developed through planning grants awarded under subsection (c), meet the requirements of this subsection, and represent a diverse selection of geographic areas, including rural and underserved areas.
+
+>         “(2) __Application requirements.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             The Secretary shall solicit applications to participate in demonstration programs under this subsection solely from States awarded planning grants under subsection (c).
+
+>             “(B)  __Required information__  __.—__ 
+
+>             An application for a demonstration program under this subsection shall include the following:
+
+>                 “(i) The target Medicaid population to be served under the demonstration program.
+
+>                 “(ii) A list of participating certified community behavioral health clinics.
+
+>                 “(iii) Verification that the State has certified a participating clinic as a certified community behavioral health clinic in accordance with the requirements of subsection (b).
+
+>                 “(iv) A description of the scope of the mental health services available under the State Medicaid program that will be paid for under the prospective payment system tested in the demonstration program.
+
+>                 “(v) Verification that the State has agreed to pay for such services at the rate established under the prospective payment system.
+
+>                 “(vi) Such other information as the Secretary may require relating to the demonstration program including with respect to determining the soundness of the proposed prospective payment system.
+
+>         “(3)  __Number and length of demonstration programs__  __.—__ 
+
+>         Not more than 8 States shall be selected for 2-year demonstration programs under this subsection.
+
+>         “(4) __Requirements for selecting demonstration programs.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             The Secretary shall give preference to selecting demonstration programs where participating certified community behavioral health clinics—
+
+>                 “(i) provide the most complete scope of services described in subsection (a)(2)(D) to individuals eligible for medical assistance under the State Medicaid program;
+
+>                 “(ii) will improve availability of, access to, and participation in, services described in subsection (a)(2)(D) to individuals eligible for medical assistance under the State Medicaid program;
+
+>                 “(iii) will improve availability of, access to, and participation in assisted outpatient mental health treatment in the State; or
+
+>                 “(iv) demonstrate the potential to expand available mental health services in a demonstration area and increase the quality of such services without increasing net Federal spending.
+
+>         “(5) __Payment for medical assistance for mental health services provided by certified community behavioral health clinics.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             The Secretary shall pay a State participating in a demonstration program under this subsection the Federal matching percentage specified in subparagraph (B) for amounts expended by the State to provide medical assistance for mental health services described in the demonstration program application in accordance with paragraph (2)(B)(iv) that are provided by certified community behavioral health clinics to individuals who are enrolled in the State Medicaid program. Payments to States made under this paragraph shall be considered to have been under, and are subject to the requirements of, section 1903 of the Social Security Act ([42 U.S.C. 1396b][/us/usc/t42/s1396b]).
+
+>             “(B)  __Federal matching percentage__  __.—__ 
+
+>             The Federal matching percentage specified in this subparagraph is with respect to medical assistance described in subparagraph (A) that is furnished—
+
+>                 “(i) to a newly eligible individual described in paragraph (2) of section 1905(y) of the Social Security Act ([42 U.S.C. 1396d(y)][/us/usc/t42/s1396d/y]), the matching rate applicable under paragraph (1) of that section; and
+
+>                 “(ii) to an individual who is not a newly eligible individual (as so described) but who is eligible for medical assistance under the State Medicaid program, the enhanced FMAP applicable to the State.
+
+>             “(C) __Limitations.—__ 
+
+>                 “(i)  __In general__  __.—__ 
+
+>                 Payments shall be made under this paragraph to a State only for mental health services—
+
+>                          “(I) that are described in the demonstration program application in accordance with paragraph (2)(iv);
+
+>                          “(II) for which payment is available under the State Medicaid program; and
+
+>                          “(III) that are provided to an individual who is eligible for medical assistance under the State Medicaid program.
+
+>                 “(ii)  __Prohibited payments__  __.—__ 
+
+>                 No payment shall be made under this paragraph—
+
+>                          “(I) for inpatient care, residential treatment, room and board expenses, or any other non-ambulatory services, as determined by the Secretary; or
+
+>                          “(II) with respect to payments made to satellite facilities of certified community behavioral health clinics if such facilities are established after the date of enactment of this Act \[Apr. 1, 2014\].
+
+>         “(6)  __Waiver of statewideness requirement__  __.—__ 
+
+>         The Secretary shall waive section 1902(a)(1) of the Social Security Act ([42 U.S.C. 1396a(a)(1)][/us/usc/t42/s1396a/a/1]) (relating to statewideness) as may be necessary to conduct demonstration programs in accordance with the requirements of this subsection.
+
+>         “(7) __Annual reports.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             Not later than 1 year after the date on which the first State is selected for a demonstration program under this subsection, and annually thereafter, the Secretary shall submit to Congress an annual report on the use of funds provided under all demonstration programs conducted under this subsection. Each such report shall include—
+
+>                 “(i) an assessment of access to community-based mental health services under the Medicaid program in the area or areas of a State targeted by a demonstration program compared to other areas of the State;
+
+>                 “(ii) an assessment of the quality and scope of services provided by certified community behavioral health clinics compared to community-based mental health services provided in States not participating in a demonstration program under this subsection and in areas of a demonstration State that are not participating in the demonstration program; and
+
+>                 “(iii) an assessment of the impact of the demonstration programs on the Federal and State costs of a full range of mental health services (including inpatient, emergency and ambulatory services).
+
+>             “(B)  __Recommendations__  __.—__ 
+
+>             Not later than December 31, 2021, the Secretary shall submit to Congress recommendations concerning whether the demonstration programs under this section should be continued, expanded, modified, or terminated.
+
+>     “(e)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1)  __Federally-qualified health center services; federally-qualified health center; rural health clinic services; rural health clinic__  __.—__ 
+
+>         The terms ‘Federally-qualified health center services’, ‘Federally-qualified health center’, ‘rural health clinic services’, and ‘rural health clinic’ have the meanings given those terms in section 1905(l) of the Social Security Act ([42 U.S.C. 1396d][/us/usc/t42/s1396d](l)).
+
+>         “(2)  __Enhanced fmap__  __.—__ 
+
+>         The term ‘enhanced FMAP’ has the meaning given that term in section 2105(b) of the Social Security Act ([42 U.S.C. 1397dd(b)][/us/usc/t42/s1397dd/b] \[1397ee(b)\]) but without regard to the second and third sentences of that section.
+
+>         “(3)  __Secretary__  __.—__ 
+
+>         The term ‘Secretary’ means the Secretary of Health and Human Services.
+
+>         “(4)  __State__  __.—__ 
+
+>         The term ‘State’ has the meaning given such term for purposes of title XIX of the Social Security Act ([42 U.S.C. 1396][/us/usc/t42/s1396] et seq.).
+
+>     “(f) __Funding.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Out of any funds in the Treasury not otherwise appropriated, there is appropriated to the Secretary—
+
+>             “(A) for purposes of carrying out subsections (a), (b), and (d)(7), $2,000,000 for fiscal year 2014; and
+
+>             “(B) for purposes of awarding planning grants under subsection (c), $25,000,000 for fiscal year 2016.
+
+>         “(2)  __Availability__  __.—__ 
+
+>         Funds appropriated under paragraph (1) shall remain available until expended.”
 
  __Reports to Congress__ 
 
@@ -6266,9 +6504,13 @@
 [/us/stat/126/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2352
 [/us/pl/113/67/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs202%2Fa
 [/us/stat/127/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1177
+[/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
+[/us/stat/128/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1045
 [/us/pl/111/255/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255%2Fs3%2Fe
 [/us/pl/113/67/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs202%2Fa
 [/us/stat/127/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1177
+[/us/pl/113/93/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs211
+[/us/stat/128/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1047
 [/us/pl/101/508/s4801/e/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4801%2Fe%2F11
 [/us/stat/104/1388-217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-217
 [/us/usc/t42/s1396r/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%2Ff%2F4
@@ -6353,6 +6595,9 @@
 [/us/usc/t41/s2102/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs2102%2Fa%2F3
 [/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
+[/us/pl/113/93/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs201%2Fa
+[/us/pl/113/93/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs202
+[/us/pl/113/93/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs203
 [/us/pl/113/67/s1201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs1201%2Fa
 [/us/pl/112/240/s621/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs621%2Fa
 [/us/pl/113/67/s202/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs202%2Fb%2F1%2FA
@@ -7168,6 +7413,12 @@
 [/us/pl/90/248/s241/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs241%2Ff%2F4
 [/us/pl/113/67/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs202%2Fc
 [/us/stat/127/1177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1177
+[/us/pl/113/93/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs211
+[/us/stat/128/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1047
+[/us/pl/113/93/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs211
+[/us/stat/128/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1047
+[/us/pl/113/67/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs202%2Fc
+[/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/111/296/s103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F296%2Fs103%2Fc%2F2
 [/us/stat/124/3192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3192
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
@@ -7958,6 +8209,16 @@
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
 [/us/usc/t42/s4728/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4728%2Fa%2F3%2FD
+[/us/pl/113/93/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs223
+[/us/stat/128/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1077
+[/us/usc/t25/s450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs450
+[/us/usc/t25/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs1601
+[/us/usc/t42/s1396b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396b
+[/us/usc/t42/s1396d/y]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d%2Fy
+[/us/usc/t42/s1396a/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396a%2Fa%2F1
+[/us/usc/t42/s1396d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396d
+[/us/usc/t42/s1397dd/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397dd%2Fb
+[/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/pl/111/148/s2001/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2001%2Fd%2F2
 [/us/stat/124/278]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F278
 [/us/pl/111/148/s2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2704

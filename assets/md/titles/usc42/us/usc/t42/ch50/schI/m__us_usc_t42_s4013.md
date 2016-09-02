@@ -89,13 +89,35 @@
 
                 (ii) the flood insurance coverage was purchased not later than 60 days after the fire containment date, as determined by the appropriate Federal employee, relating to the wildfire that caused the post-wildfire conditions described in clause (i).
 
-([Pub. L. 90–448, title XIII, § 1306][/us/pl/90/448/s1306], Aug. 1, 1968, [82 Stat. 575][/us/stat/82/575]; [Pub. L. 92–213, § 2(c)(2)][/us/pl/92/213/s2/c/2], Dec. 22, 1971, [85 Stat. 775][/us/stat/85/775]; [Pub. L. 93–234, title I, § 101][/us/pl/93/234/s101], Dec. 31, 1973, [87 Stat. 977][/us/stat/87/977]; [Pub. L. 95–128, title VII, § 704(a)][/us/pl/95/128/s704/a], Oct. 12, 1977, [91 Stat. 1145][/us/stat/91/1145]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 100–242, title V, § 544(a)][/us/pl/100/242/s544/a], Feb. 5, 1988, [101 Stat. 1940][/us/stat/101/1940]; [Pub. L. 100–628, title X, § 1086(a)][/us/pl/100/628/s1086/a], Nov. 7, 1988, [102 Stat. 3278][/us/stat/102/3278]; [Pub. L. 100–707, title I, § 109][/us/pl/100/707/s109](o), Nov. 23, 1988, [102 Stat. 4709][/us/stat/102/4709]; [Pub. L. 101–137, § 1(c)][/us/pl/101/137/s1/c], Nov. 3, 1989, [103 Stat. 824][/us/stat/103/824]; [Pub. L. 101–508, title II, § 2302(d)][/us/pl/101/508/s2302/d], Nov. 5, 1990, [104 Stat. 1388–23][/us/stat/104/1388-23]; [Pub. L. 103–325, title V][/us/pl/103/325], §§ 552(a), 573, 579(a), Sept. 23, 1994, [108 Stat. 2269][/us/stat/108/2269], 2278, 2284; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100228, 100238(b)(1), 100241, July 6, 2012, [126 Stat. 944][/us/stat/126/944], 958, 962.)
+    (d) __Optional high-deductible policies for residential properties__ 
+
+        (1) __Availability__ 
+
+            In the case of residential properties, the Administrator shall make flood insurance coverage available, at the option of the insured, that provides for a loss-deductible for damage to the covered property in various amounts, up to and including $10,000.
+
+        (2) __Disclosure__ 
+
+            (A) __Form__ 
+
+                The Administrator shall provide the information described in subparagraph (B) clearly and conspicuously on the application form for flood insurance coverage or on a separate form, segregated from all unrelated information and other required disclosures.
+
+            (B) __Information__ 
+
+            The information described in this subparagraph is—
+
+                (i) information sufficient to inform the applicant of the availability of the coverage option required by paragraph (1) to applicants for flood insurance coverage; and
+
+                (ii) a statement explaining the effect of a loss-deductible and that, in the event of an insured loss, the insured is responsible out-of-pocket for losses to the extent of the deductible selected.
+
+([Pub. L. 90–448, title XIII, § 1306][/us/pl/90/448/s1306], Aug. 1, 1968, [82 Stat. 575][/us/stat/82/575]; [Pub. L. 92–213, § 2(c)(2)][/us/pl/92/213/s2/c/2], Dec. 22, 1971, [85 Stat. 775][/us/stat/85/775]; [Pub. L. 93–234, title I, § 101][/us/pl/93/234/s101], Dec. 31, 1973, [87 Stat. 977][/us/stat/87/977]; [Pub. L. 95–128, title VII, § 704(a)][/us/pl/95/128/s704/a], Oct. 12, 1977, [91 Stat. 1145][/us/stat/91/1145]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 100–242, title V, § 544(a)][/us/pl/100/242/s544/a], Feb. 5, 1988, [101 Stat. 1940][/us/stat/101/1940]; [Pub. L. 100–628, title X, § 1086(a)][/us/pl/100/628/s1086/a], Nov. 7, 1988, [102 Stat. 3278][/us/stat/102/3278]; [Pub. L. 100–707, title I, § 109][/us/pl/100/707/s109](o), Nov. 23, 1988, [102 Stat. 4709][/us/stat/102/4709]; [Pub. L. 101–137, § 1(c)][/us/pl/101/137/s1/c], Nov. 3, 1989, [103 Stat. 824][/us/stat/103/824]; [Pub. L. 101–508, title II, § 2302(d)][/us/pl/101/508/s2302/d], Nov. 5, 1990, [104 Stat. 1388–23][/us/stat/104/1388-23]; [Pub. L. 103–325, title V][/us/pl/103/325], §§ 552(a), 573, 579(a), Sept. 23, 1994, [108 Stat. 2269][/us/stat/108/2269], 2278, 2284; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100228, 100238(b)(1), 100241, July 6, 2012, [126 Stat. 944][/us/stat/126/944], 958, 962; [Pub. L. 113–89, § 12][/us/pl/113/89/s12], Mar. 21, 2014, [128 Stat. 1025][/us/stat/128/1025].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a)(6) and (c)(1), (2)(A), was in the original a reference to “this title” meaning title XIII of [Pub. L. 90–448][/us/pl/90/448], Aug. 1, 1968, [82 Stat. 572][/us/stat/82/572], known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title][/us/usc/t42/s4001] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (d). [Pub. L. 113–89][/us/pl/113/89] added subsec. (d).
 
     2012—Subsec. (a). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director” in introductory provisions.
 
@@ -213,9 +235,12 @@
 [/us/stat/108/2269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2269
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F944
+[/us/pl/113/89/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs12
+[/us/stat/128/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1025
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
 [/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
 [/us/pl/112/141/s100228/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100228%2F1

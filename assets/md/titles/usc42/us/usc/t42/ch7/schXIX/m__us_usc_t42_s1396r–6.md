@@ -255,7 +255,7 @@
 
     (f) __Sunset__ 
 
-        This section shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter after March 31, 2014.
+        This section shall not apply with respect to families that cease to be eligible for aid under part A of subchapter IV of this chapter after March 31, 2015.
 
     (g) __Collection and reporting of participation information__ 
 
@@ -267,7 +267,7 @@
 
             Using the information submitted under paragraph (1), the Secretary shall submit to Congress annual reports concerning enrollment and participation rates described in such paragraph.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1925, as added [Pub. L. 100–485, title III, § 303(a)(1)][/us/pl/100/485/s303/a/1], Oct. 13, 1988, [102 Stat. 2385][/us/stat/102/2385]; amended [Pub. L. 100–647, title VIII, § 8436(a)][/us/pl/100/647/s8436/a], Nov. 10, 1988, [102 Stat. 3805][/us/stat/102/3805]; [Pub. L. 101–239, title VI, § 6411(i)(1)][/us/pl/101/239/s6411/i/1], (3), Dec. 19, 1989, [103 Stat. 2273][/us/stat/103/2273]; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4601(a)(3)(B), 4716(a), Nov. 5, 1990, [104 Stat. 1388–167][/us/stat/104/1388-167], 1388–192; [Pub. L. 104–193, title I, § 114(c)][/us/pl/104/193/s114/c], Aug. 22, 1996, [110 Stat. 2180][/us/stat/110/2180]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4701(b)(2)(A)(ix), (D), 4703(b)(2), Aug. 5, 1997, [111 Stat. 493][/us/stat/111/493], 495; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 608(t)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–398; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VII, § 707(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–577; [Pub. L. 108–40, § 7(a)][/us/pl/108/40/s7/a], June 30, 2003, [117 Stat. 837][/us/stat/117/837]; [Pub. L. 111–5, div. B, title V, § 5004(a)(1)][/us/pl/111/5/s5004/a/1], (b)–(d), Feb. 17, 2009, [123 Stat. 503][/us/stat/123/503], 504; [Pub. L. 111–309, title I, § 111][/us/pl/111/309/s111], Dec. 15, 2010, [124 Stat. 3289][/us/stat/124/3289]; [Pub. L. 112–78, title III, § 311][/us/pl/112/78/s311], Dec. 23, 2011, [125 Stat. 1286][/us/stat/125/1286]; [Pub. L. 112–96, title III, § 3102][/us/pl/112/96/s3102], Feb. 22, 2012, [126 Stat. 191][/us/stat/126/191]; [Pub. L. 112–240, title VI, § 622][/us/pl/112/240/s622], Jan. 2, 2013, [126 Stat. 2352][/us/stat/126/2352]; [Pub. L. 113–67, div. B, title II, § 1202][/us/pl/113/67/s1202], Dec. 26, 2013, [127 Stat. 1199][/us/stat/127/1199].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1925, as added [Pub. L. 100–485, title III, § 303(a)(1)][/us/pl/100/485/s303/a/1], Oct. 13, 1988, [102 Stat. 2385][/us/stat/102/2385]; amended [Pub. L. 100–647, title VIII, § 8436(a)][/us/pl/100/647/s8436/a], Nov. 10, 1988, [102 Stat. 3805][/us/stat/102/3805]; [Pub. L. 101–239, title VI, § 6411(i)(1)][/us/pl/101/239/s6411/i/1], (3), Dec. 19, 1989, [103 Stat. 2273][/us/stat/103/2273]; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4601(a)(3)(B), 4716(a), Nov. 5, 1990, [104 Stat. 1388–167][/us/stat/104/1388-167], 1388–192; [Pub. L. 104–193, title I, § 114(c)][/us/pl/104/193/s114/c], Aug. 22, 1996, [110 Stat. 2180][/us/stat/110/2180]; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4701(b)(2)(A)(ix), (D), 4703(b)(2), Aug. 5, 1997, [111 Stat. 493][/us/stat/111/493], 495; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title VI, § 608(t)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–398; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VII, § 707(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–577; [Pub. L. 108–40, § 7(a)][/us/pl/108/40/s7/a], June 30, 2003, [117 Stat. 837][/us/stat/117/837]; [Pub. L. 111–5, div. B, title V, § 5004(a)(1)][/us/pl/111/5/s5004/a/1], (b)–(d), Feb. 17, 2009, [123 Stat. 503][/us/stat/123/503], 504; [Pub. L. 111–309, title I, § 111][/us/pl/111/309/s111], Dec. 15, 2010, [124 Stat. 3289][/us/stat/124/3289]; [Pub. L. 112–78, title III, § 311][/us/pl/112/78/s311], Dec. 23, 2011, [125 Stat. 1286][/us/stat/125/1286]; [Pub. L. 112–96, title III, § 3102][/us/pl/112/96/s3102], Feb. 22, 2012, [126 Stat. 191][/us/stat/126/191]; [Pub. L. 112–240, title VI, § 622][/us/pl/112/240/s622], Jan. 2, 2013, [126 Stat. 2352][/us/stat/126/2352]; [Pub. L. 113–67, div. B, title II, § 1202][/us/pl/113/67/s1202], Dec. 26, 2013, [127 Stat. 1199][/us/stat/127/1199]; [Pub. L. 113–93, title II, § 202][/us/pl/113/93/s202], Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046].)
 
  __References in Text__ 
 
@@ -280,6 +280,8 @@
     A prior section 1925 of act Aug. 14, 1935, was renumbered section 1939 and is classified to [section 1396v of this title][/us/usc/t42/s1396v].
 
  __Amendments__ 
+
+    2014—Subsec. (f). [Pub. L. 113–93][/us/pl/113/93] substituted “March 31, 2015” for “March 31, 2014”.
 
     2013—Subsec. (f). [Pub. L. 113–67][/us/pl/113/67] substituted “March 31, 2014” for “December 31, 2013”.
 
@@ -446,6 +448,8 @@
 [/us/stat/126/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2352
 [/us/pl/113/67/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs1202
 [/us/stat/127/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1199
+[/us/pl/113/93/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs202
+[/us/stat/128/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1046
 [/us/usc/t42/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs602
 [/us/pl/104/193/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs103%2Fa%2F1
 [/us/stat/110/2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2112
@@ -453,6 +457,7 @@
 [/us/pl/101/239/s6405/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6405%2Fa%2F2
 [/us/stat/103/2265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2265
 [/us/usc/t42/s1396v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396v
+[/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96

@@ -41,7 +41,7 @@
 
             (A) __In general__ 
 
-                Not later than 12 months after the release of the recommended core set of adult health quality measures under paragraph (1))  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The second closing parenthesis probably should not appear. </sup></sup> , the Secretary shall establish a Medicaid Quality Measurement Program in the same manner as the Secretary establishes the pediatric quality measures program under [section 1320b–9a(b) of this title][/us/usc/t42/s1320b–9a/b]. The aggregate amount awarded by the Secretary for grants and contracts for the development, testing, and validation of emerging and innovative evidence-based measures under such program shall equal the aggregate amount awarded by the Secretary for grants under [section 1320b–9a(b)(4)(A) of this title][/us/usc/t42/s1320b–9a/b/4/A]  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a period. </sup></sup> 
+                Not later than 12 months after the release of the recommended core set of adult health quality measures under paragraph (1))  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The second closing parenthesis probably should not appear. </sup></sup> , the Secretary shall establish a Medicaid Quality Measurement Program in the same manner as the Secretary establishes the pediatric quality measures program under [section 1320b–9a(b) of this title][/us/usc/t42/s1320b–9a/b].
 
             (B) __Revising, strengthening, and improving initial core measures__ 
 
@@ -57,7 +57,7 @@
 
         Each State with a State plan or waiver approved under subchapter XIX shall annually report (separately or as part of the annual report required under [section 1320b–9a(c) of this title][/us/usc/t42/s1320b–9a/c]), to the Secretary on the—
 
-            (A) State-specific adult health quality measures applied by the State under the such  <sup>\[3\]</sup>  <sup><sup> 3 So in original. </sup></sup>  plan, including measures described in subsection (a)(5); and
+            (A) State-specific adult health quality measures applied by the State under the such  <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  plan, including measures described in subsection (a)(5); and
 
             (B) State-specific information on the quality of health care furnished to Medicaid eligible adults under such plan, including information collected through external quality reviews of managed care organizations under [section 1396u–2 of this title][/us/usc/t42/s1396u–2] and benchmark plans under [section 1396u–7 of this title][/us/usc/t42/s1396u–7].
 
@@ -67,9 +67,15 @@
 
     (e) __Appropriation__ 
 
-        Out of any funds in the Treasury not otherwise appropriated, there is appropriated for each of fiscal years 2010 through 2014, $60,000,000 for the purpose of carrying out this section. Funds appropriated under this subsection shall remain available until expended.
+        Out of any funds in the Treasury not otherwise appropriated, there is appropriated for each of fiscal years 2010 through 2014, $60,000,000 for the purpose of carrying out this section. Funds appropriated under this subsection shall remain available until expended. Of the funds appropriated under this subsection, not less than $15,000,000 shall be used to carry out [section 1320b–9a(b) of this title][/us/usc/t42/s1320b–9a/b].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1139B, as added [Pub. L. 111–148, title II, § 2701][/us/pl/111/148/s2701], Mar. 23, 2010, [124 Stat. 317][/us/stat/124/317].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1139B, as added [Pub. L. 111–148, title II, § 2701][/us/pl/111/148/s2701], Mar. 23, 2010, [124 Stat. 317][/us/stat/124/317]; amended [Pub. L. 113–93, title II, § 210][/us/pl/113/93/s210], Apr. 1, 2014, [128 Stat. 1047][/us/stat/128/1047].)
+
+ __Amendments__ 
+
+    2014—Subsec. (b)(5)(A). [Pub. L. 113–93, § 210(b)][/us/pl/113/93/s210/b], struck out at end “The aggregate amount awarded by the Secretary for grants and contracts for the development, testing, and validation of emerging and innovative evidence-based measures under such program shall equal the aggregate amount awarded by the Secretary for grants under [section 1320b–9a(b)(4)(A) of this title][/us/usc/t42/s1320b–9a/b/4/A]”.
+
+    Subsec. (e). [Pub. L. 113–93, § 210(a)][/us/pl/113/93/s210/a], inserted at end “Of the funds appropriated under this subsection, not less than $15,000,000 shall be used to carry out [section 1320b–9a(b) of this title][/us/usc/t42/s1320b–9a/b].”
 
 ----------
 
@@ -81,12 +87,18 @@
 [/us/usc/t42/s1320b–9a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%939a
 [/us/usc/t42/s1320b–9a/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%939a%2Fa%2F6
 [/us/usc/t42/s1320b–9a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%939a%2Fb
-[/us/usc/t42/s1320b–9a/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%939a%2Fb%2F4%2FA
 [/us/usc/t42/s1320b–9a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%939a%2Fc
 [/us/usc/t42/s1396u–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%932
 [/us/usc/t42/s1396u–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396u%E2%80%937
+[/us/usc/t42/s1320b–9a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%939a%2Fb
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/111/148/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2701
 [/us/stat/124/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F317
+[/us/pl/113/93/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs210
+[/us/stat/128/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1047
+[/us/pl/113/93/s210/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs210%2Fb
+[/us/usc/t42/s1320b–9a/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%939a%2Fb%2F4%2FA
+[/us/pl/113/93/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs210%2Fa
+[/us/usc/t42/s1320b–9a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%939a%2Fb
 
 

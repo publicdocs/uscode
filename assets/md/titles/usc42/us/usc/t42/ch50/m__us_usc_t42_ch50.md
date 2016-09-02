@@ -43,7 +43,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4003" data-uslm-ref="/us/usc/t42/s4003">4003.</a>  </td>
 
-    <td> Additional definitions.  </td>
+    <td> Definitions applicable to Flood Disaster Protection Act of 1973.  </td>
 
   </tr>
 
@@ -51,7 +51,15 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4004" data-uslm-ref="/us/usc/t42/s4004">4004.</a>  </td>
 
-    <td> Definitions.  </td>
+    <td> Definitions applicable to Biggert-Waters Flood Insurance Reform Act of 2012.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4005" data-uslm-ref="/us/usc/t42/s4005">4005.</a>  </td>
+
+    <td> Definitions applicable to Homeowner Flood Insurance Affordability Act of 2014.  </td>
 
   </tr>
 
@@ -116,6 +124,14 @@ SUBCHAPTER I—THE NATIONAL FLOOD INSURANCE PROGRAM  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4015" data-uslm-ref="/us/usc/t42/s4015">4015.</a>  </td>
 
     <td> Chargeable premium rates.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4015a" data-uslm-ref="/us/usc/t42/s4015a">4015a.</a>  </td>
+
+    <td> Premium surcharge.  </td>
 
   </tr>
 
@@ -276,6 +292,14 @@ SUBCHAPTER I—THE NATIONAL FLOOD INSURANCE PROGRAM  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4032" data-uslm-ref="/us/usc/t42/s4032">4032.</a>  </td>
 
     <td> Treatment of swimming pool enclosures outside of hurricane season.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4033" data-uslm-ref="/us/usc/t42/s4033">4033.</a>  </td>
+
+    <td> Designation of Flood Insurance Advocate.  </td>
 
   </tr>
 
@@ -460,6 +484,22 @@ SUBCHAPTER III—COORDINATION OF FLOOD INSURANCE WITH LAND-MANAGEMENT PROGRAMS I
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4101c" data-uslm-ref="/us/usc/t42/s4101c">4101c.</a>  </td>
 
     <td> Coordination.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4101d" data-uslm-ref="/us/usc/t42/s4101d">4101d.</a>  </td>
+
+    <td> Flood insurance rate map certification.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs4101e" data-uslm-ref="/us/usc/t42/s4101e">4101e.</a>  </td>
+
+    <td> Exemption from fees for certain map change requests.  </td>
 
   </tr>
 

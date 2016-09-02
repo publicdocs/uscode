@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch50/m__us_usc_t42_s4003.md) | [Next](./../../../..//us/usc/t42/ch50/schI/m__us_usc_t42_ch50_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4004)
+[Previous](./../../../..//us/usc/t42/ch50/m__us_usc_t42_s4003.md) | [Next](./../../../..//us/usc/t42/ch50/m__us_usc_t42_s4005.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4004)
 
-## § 4004. Definitions
+## § 4004. Definitions applicable to Biggert-Waters Flood Insurance Reform Act of 2012
 
     (a) __In general__ 
 
@@ -57,7 +57,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch50/m__us_usc_t42_s4003.md) | [Next](./../../../..//us/usc/t42/ch50/schI/m__us_usc_t42_ch50_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4004)
+[Previous](./../../../..//us/usc/t42/ch50/m__us_usc_t42_s4003.md) | [Next](./../../../..//us/usc/t42/ch50/m__us_usc_t42_s4005.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4004)
 
 ----------
 ----------

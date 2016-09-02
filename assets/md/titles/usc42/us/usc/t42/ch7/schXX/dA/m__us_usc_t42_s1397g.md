@@ -253,7 +253,7 @@
 
         (1) __In general__ 
 
-            Subject to paragraph (2), out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary to carry out subsections (a) and (b), $85,000,000 for each of fiscal years 2010 through 2014.
+            Subject to paragraph (2), out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary to carry out subsections (a) and (b), $85,000,000 for each of fiscal years 2010 through 2015.
 
         (2) __Training and certification programs for personal and home care aides__ 
 
@@ -269,7 +269,7 @@
 
             [Section 1397d(a) of this title][/us/usc/t42/s1397d/a] (other than paragraph (6)) shall apply to a grant awarded under this section to the same extent and in the same manner as such section applies to payments to States under this division.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2008, as added and amended [Pub. L. 111–148, title V, § 5507(a)][/us/pl/111/148/s5507/a], title VI, § 6703(d)(1)(B), Mar. 23, 2010, [124 Stat. 663][/us/stat/124/663], 803.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XX, § 2008, as added and amended [Pub. L. 111–148, title V, § 5507(a)][/us/pl/111/148/s5507/a], title VI, § 6703(d)(1)(B), Mar. 23, 2010, [124 Stat. 663][/us/stat/124/663], 803; [Pub. L. 113–93, title II, § 208][/us/pl/113/93/s208], Apr. 1, 2014, [128 Stat. 1046][/us/stat/128/1046].)
 
  __References in Text__ 
 
@@ -278,6 +278,8 @@
     Part A of subchapter IV, referred to in subsec. (a)(4)(F), is classified to § 601 et seq. of this title.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(1). [Pub. L. 113–93][/us/pl/113/93] substituted “2015” for “2014”.
 
     2010—Subsec. (d). [Pub. L. 111–148, § 6703(d)(1)(B)][/us/pl/111/148/s6703/d/1/B], which directed substitution of “this division” for “this subchapter” wherever appearing in subtitle 1 of title XX of act Aug. 14, 1935, was executed by making the substitution in two places in subsec. (d) of this section, which is in subtitle A of title XX act Aug. 14, 1935, to reflect the probable intent of Congress.
 
@@ -298,9 +300,12 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/111/148/s5507/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs5507%2Fa
 [/us/stat/124/663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F663
+[/us/pl/113/93/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs208
+[/us/stat/128/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1046
 [/us/act/1937-08-16/ch663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-16%2Fch663
 [/us/stat/50/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F664
 [/us/usc/t29/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs50
+[/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
 [/us/pl/111/148/s6703/d/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6703%2Fd%2F1%2FB
 
 

@@ -493,6 +493,10 @@
 
                 For purposes of this section, the term “local coverage determination” means a determination by a fiscal intermediary or a carrier under part A of this subchapter or part B of this subchapter, as applicable, respecting whether or not a particular item or service is covered on an intermediary- or carrier-wide basis under such parts, in accordance with [section 1395y(a)(1)(A) of this title][/us/usc/t42/s1395y/a/1/A].
 
+            (C) __Local coverage determinations for clinical diagnostic laboratory tests__ 
+
+                For provisions relating to local coverage determinations for clinical diagnostic laboratory tests, see [section 1395m–1(g) of this title][/us/usc/t42/s1395m–1/g].
+
         (3) __No material issues of fact in dispute__ 
 
         In the case of a determination that may otherwise be subject to review under paragraph (1)(A)(iii) or paragraph (2)(A)(i), where the moving party alleges that—
@@ -713,9 +717,11 @@
 
             Under the process established in paragraph (1), such a mediator shall mediate in disputes between groups representing providers of services, suppliers (as defined in [section 1395x(d) of this title][/us/usc/t42/s1395x/d]), and the medical director for a medicare administrative contractor whenever the regional administrator (as defined by the Secretary) involved determines that there was a systematic pattern and a large volume of complaints from such groups regarding decisions of such director or there is a complaint from the co-chair of the advisory committee for that contractor to such regional administrator regarding such dispute.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1869, as added [Pub. L. 89–97, title I, § 102(a)][/us/pl/89/97/s102/a], July 30, 1965, [79 Stat. 330][/us/stat/79/330]; amended [Pub. L. 92–603, title II, § 299O(a)][/us/pl/92/603/s299O/a], Oct. 30, 1972, [86 Stat. 1464][/us/stat/86/1464]; [Pub. L. 98–369, div. B, title III, § 2354(b)(35)][/us/pl/98/369/s2354/b/35], July 18, 1984, [98 Stat. 1102][/us/stat/98/1102]; [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9313(a)(1), (b)(1), 9341(a)(1), Oct. 21, 1986, [100 Stat. 2002][/us/stat/100/2002], 2037; [Pub. L. 100–93, § 8(e)][/us/pl/100/93/s8/e], Aug. 18, 1987, [101 Stat. 694][/us/stat/101/694]; [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4082(a), (b), 4085(i)(18), (19), Dec. 22, 1987, [101 Stat. 1330–128][/us/stat/101/1330-128], 1330–133; [Pub. L. 103–296, title I, § 108(c)(5)][/us/pl/103/296/s108/c/5], Aug. 15, 1994, [108 Stat. 1485][/us/stat/108/1485]; [Pub. L. 105–33, title IV, § 4611(c)][/us/pl/105/33/s4611/c], Aug. 5, 1997, [111 Stat. 473][/us/stat/111/473]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, §§ 521(a), 522(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–534, 2763A–543; [Pub. L. 108–173, title IX][/us/pl/108/173], §§ 931(d), 932(a), 933(a)(1), (b)–(d)(3), 938(a), 940(a), (b)(1), 940A(a), 948(b)(1), (c), Dec. 8, 2003, [117 Stat. 2399][/us/stat/117/2399], 2402–2406, 2413, 2416, 2417, 2426; [Pub. L. 112–40, title II, § 261(a)(3)(A)][/us/pl/112/40/s261/a/3/A], (F), Oct. 21, 2011, [125 Stat. 423][/us/stat/125/423].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1869, as added [Pub. L. 89–97, title I, § 102(a)][/us/pl/89/97/s102/a], July 30, 1965, [79 Stat. 330][/us/stat/79/330]; amended [Pub. L. 92–603, title II, § 299O(a)][/us/pl/92/603/s299O/a], Oct. 30, 1972, [86 Stat. 1464][/us/stat/86/1464]; [Pub. L. 98–369, div. B, title III, § 2354(b)(35)][/us/pl/98/369/s2354/b/35], July 18, 1984, [98 Stat. 1102][/us/stat/98/1102]; [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9313(a)(1), (b)(1), 9341(a)(1), Oct. 21, 1986, [100 Stat. 2002][/us/stat/100/2002], 2037; [Pub. L. 100–93, § 8(e)][/us/pl/100/93/s8/e], Aug. 18, 1987, [101 Stat. 694][/us/stat/101/694]; [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4082(a), (b), 4085(i)(18), (19), Dec. 22, 1987, [101 Stat. 1330–128][/us/stat/101/1330-128], 1330–133; [Pub. L. 103–296, title I, § 108(c)(5)][/us/pl/103/296/s108/c/5], Aug. 15, 1994, [108 Stat. 1485][/us/stat/108/1485]; [Pub. L. 105–33, title IV, § 4611(c)][/us/pl/105/33/s4611/c], Aug. 5, 1997, [111 Stat. 473][/us/stat/111/473]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title V, §§ 521(a), 522(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–534, 2763A–543; [Pub. L. 108–173, title IX][/us/pl/108/173], §§ 931(d), 932(a), 933(a)(1), (b)–(d)(3), 938(a), 940(a), (b)(1), 940A(a), 948(b)(1), (c), Dec. 8, 2003, [117 Stat. 2399][/us/stat/117/2399], 2402–2406, 2413, 2416, 2417, 2426; [Pub. L. 112–40, title II, § 261(a)(3)(A)][/us/pl/112/40/s261/a/3/A], (F), Oct. 21, 2011, [125 Stat. 423][/us/stat/125/423]; [Pub. L. 113–93, title II, § 216(b)(2)][/us/pl/113/93/s216/b/2], Apr. 1, 2014, [128 Stat. 1060][/us/stat/128/1060].)
 
  __Amendments__ 
+
+    2014—Subsec. (f)(2)(C). [Pub. L. 113–93][/us/pl/113/93] added subpar. (C).
 
     2011—Subsec. (a)(1)(C). [Pub. L. 112–40, § 261(a)(3)(A)][/us/pl/112/40/s261/a/3/A], substituted “quality improvement” for “utilization and quality control peer review”.
 
@@ -1077,6 +1083,7 @@
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
 [/us/usc/t42/s1395hh/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395hh%2Fb
 [/us/usc/t42/s1395y/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fa%2F1%2FA
+[/us/usc/t42/s1395m–1/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%E2%80%931%2Fg
 [/us/usc/t42/s1395kk–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395kk%E2%80%931
 [/us/usc/t42/s1395w–4/j/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fj%2F3
 [/us/usc/t42/s1395pp/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395pp%2Fa
@@ -1105,6 +1112,9 @@
 [/us/stat/117/2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2399
 [/us/pl/112/40/s261/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fa%2F3%2FA
 [/us/stat/125/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F423
+[/us/pl/113/93/s216/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs216%2Fb%2F2
+[/us/stat/128/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1060
+[/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
 [/us/pl/112/40/s261/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fa%2F3%2FA
 [/us/pl/112/40/s261/a/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs261%2Fa%2F3%2FF
 [/us/pl/108/173/s940/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs940%2Fa%2F1

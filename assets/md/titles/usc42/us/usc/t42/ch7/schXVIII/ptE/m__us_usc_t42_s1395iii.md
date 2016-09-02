@@ -23,7 +23,7 @@
 
         (1) __In general__ 
 
-            There shall be available to the Fund, for expenditures from the Fund for services furnished during or after 2017, $2,300,000,000.
+            There shall be available to the Fund, for expenditures from the Fund for services furnished during or after 2017, $0.
 
         (2) __Payment from Trust Funds__ 
 
@@ -37,7 +37,7 @@
 
             In the case that expenditures from the Fund are applied to, or otherwise affect, a payment rate for an item or service under this subchapter for a year, the payment rate for such item or service shall be computed for a subsequent year as if such application or effect had never occurred.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1898, as added [Pub. L. 110–252, title VII, § 7002(a)][/us/pl/110/252/s7002/a], June 30, 2008, [122 Stat. 2394][/us/stat/122/2394]; amended [Pub. L. 110–275, title I, § 188(a)(2)(B)][/us/pl/110/275/s188/a/2/B], July 15, 2008, [122 Stat. 2589][/us/stat/122/2589]; [Pub. L. 110–379, § 6][/us/pl/110/379/s6], Oct. 8, 2008, [122 Stat. 4079][/us/stat/122/4079]; [Pub. L. 111–5, div. B, title IV, § 4103(b)][/us/pl/111/5/s4103/b], Feb. 17, 2009, [123 Stat. 487][/us/stat/123/487]; [Pub. L. 111–118, div. B, § 1011(b)][/us/pl/111/118/s1011/b], Dec. 19, 2009, [123 Stat. 3474][/us/stat/123/3474]; [Pub. L. 111–148, title III, § 3112][/us/pl/111/148/s3112], Mar. 23, 2010, [124 Stat. 421][/us/stat/124/421]; [Pub. L. 111–309, title II, § 207][/us/pl/111/309/s207], Dec. 15, 2010, [124 Stat. 3291][/us/stat/124/3291]; [Pub. L. 112–240, title VI, § 640][/us/pl/112/240/s640], Jan. 2, 2013, [126 Stat. 2357][/us/stat/126/2357]; [Pub. L. 113–82, § 3][/us/pl/113/82/s3], Feb. 15, 2014, [128 Stat. 1009][/us/stat/128/1009].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1898, as added [Pub. L. 110–252, title VII, § 7002(a)][/us/pl/110/252/s7002/a], June 30, 2008, [122 Stat. 2394][/us/stat/122/2394]; amended [Pub. L. 110–275, title I, § 188(a)(2)(B)][/us/pl/110/275/s188/a/2/B], July 15, 2008, [122 Stat. 2589][/us/stat/122/2589]; [Pub. L. 110–379, § 6][/us/pl/110/379/s6], Oct. 8, 2008, [122 Stat. 4079][/us/stat/122/4079]; [Pub. L. 111–5, div. B, title IV, § 4103(b)][/us/pl/111/5/s4103/b], Feb. 17, 2009, [123 Stat. 487][/us/stat/123/487]; [Pub. L. 111–118, div. B, § 1011(b)][/us/pl/111/118/s1011/b], Dec. 19, 2009, [123 Stat. 3474][/us/stat/123/3474]; [Pub. L. 111–148, title III, § 3112][/us/pl/111/148/s3112], Mar. 23, 2010, [124 Stat. 421][/us/stat/124/421]; [Pub. L. 111–309, title II, § 207][/us/pl/111/309/s207], Dec. 15, 2010, [124 Stat. 3291][/us/stat/124/3291]; [Pub. L. 112–240, title VI, § 640][/us/pl/112/240/s640], Jan. 2, 2013, [126 Stat. 2357][/us/stat/126/2357]; [Pub. L. 113–82, § 3][/us/pl/113/82/s3], Feb. 15, 2014, [128 Stat. 1009][/us/stat/128/1009]; [Pub. L. 113–93, title II, § 219][/us/pl/113/93/s219], Apr. 1, 2014, [128 Stat. 1070][/us/stat/128/1070].)
 
  __Amendments__ 
 
@@ -45,7 +45,9 @@
 
     Subsec. (a). [Pub. L. 113–82, § 3(2)][/us/pl/113/82/s3/2], amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary shall establish under this subchapter a Medicare Improvement Fund (in this section referred to as the ‘Fund’) which shall be available to the Secretary to make improvements under the original medicare fee-for-service program under parts A and B for individuals entitled to, or enrolled for, benefits under part A or enrolled under part B including, but not limited to, an increase in the conversion factor under [section 1395w–4(d) of this title][/us/usc/t42/s1395w–4/d] to address, in whole or in part, any projected shortfall in the conversion factor for 2014 relative to the conversion factor for 2008 and adjustments to payments for items and services furnished by providers of services and suppliers under such original medicare fee-for-service program.”
 
-    Subsec. (b)(1). [Pub. L. 113–82, § 3(3)][/us/pl/113/82/s3/3], substituted “during or after 2017, $2,300,000,000.” for “during—
+    Subsec. (b)(1). [Pub. L. 113–93][/us/pl/113/93] substituted “$0” for “$2,300,000,000”.
+
+    [Pub. L. 113–82, § 3(3)][/us/pl/113/82/s3/3], substituted “during or after 2017, $2,300,000,000.” for “during—
 
     “(A) fiscal year 2014, $0; and
 
@@ -106,9 +108,12 @@
 [/us/stat/126/2357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2357
 [/us/pl/113/82/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F82%2Fs3
 [/us/stat/128/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1009
+[/us/pl/113/93/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs219
+[/us/stat/128/1070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1070
 [/us/pl/113/82/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F82%2Fs3%2F1
 [/us/pl/113/82/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F82%2Fs3%2F2
 [/us/usc/t42/s1395w–4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fd
+[/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
 [/us/pl/113/82/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F82%2Fs3%2F3
 [/us/pl/113/82/s3/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F82%2Fs3%2F4
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240

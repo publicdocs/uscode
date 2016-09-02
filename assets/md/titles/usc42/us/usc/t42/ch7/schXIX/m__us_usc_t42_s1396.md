@@ -99,7 +99,35 @@
 
         (6) __Agenda and additional reviews__ 
 
-            MACPAC shall consult periodically with the chairmen and ranking minority members of the appropriate committees of Congress regarding MACPAC’s agenda and progress towards achieving the agenda. MACPAC may conduct additional reviews, and submit additional reports to the appropriate committees of Congress, from time to time on such topics relating to the program under this subchapter or subchapter XXI as may be requested by such chairmen and members and as MACPAC deems appropriate.
+            (A) __In general__ 
+
+                MACPAC shall consult periodically with the chairmen and ranking minority members of the appropriate committees of Congress regarding MACPAC’s agenda and progress towards achieving the agenda. MACPAC may conduct additional reviews, and submit additional reports to the appropriate committees of Congress, from time to time on such topics relating to the program under this subchapter or subchapter XXI as may be requested by such chairmen and members and as MACPAC deems appropriate.
+
+            (B) __Review and reports regarding medicaid DSH__ 
+
+                (i) __In general__ 
+
+                    MACPAC shall review and submit an annual report to Congress on disproportionate share hospital payments under [section 1396r–4 of this title][/us/usc/t42/s1396r–4]. Each report shall include the information specified in clause (ii).
+
+                (ii) __Required report information__ 
+
+                Each report required under this subparagraph shall include the following:
+
+                    (I) Data relating to changes in the number of uninsured individuals.
+
+                    (II) Data relating to the amount and sources of hospitals’ uncompensated care costs, including the amount of such costs that are the result of providing unreimbursed or under-reimbursed services, charity care, or bad debt.
+
+                    (III) Data identifying hospitals with high levels of uncompensated care that also provide access to essential community services for low-income, uninsured, and vulnerable populations, such as graduate medical education, and the continuum of primary through quarternary care, including the provision of trauma care and public health services.
+
+                    (IV) State-specific analyses regarding the relationship between the most recent State DSH allotment and the projected State DSH allotment for the succeeding year and the data reported under subclauses (I), (II), and (III) for the State.
+
+                (iii) __Data__ 
+
+                    Notwithstanding any other provision of law, the Secretary regularly shall provide MACPAC with the most recent State reports and most recent independent certified audits submitted under [section 1396r–4(j) of this title][/us/usc/t42/s1396r–4/j], cost reports submitted under subchapter XVIII of this chapter, and such other data as MACPAC may request for purposes of conducting the reviews and preparing and submitting the annual reports required under this subparagraph.
+
+                (iv) __Submission deadlines__ 
+
+                    The first report required under this subparagraph shall be submitted to Congress not later than February 1, 2016. Subsequent reports shall be submitted as part of, or with, each annual report required under paragraph (1)(C) during the period of fiscal years 2017 through 2024.
 
         (7) __Availability of reports__ 
 
@@ -249,7 +277,7 @@
 
             Amounts made available under paragraphs (2) and (3) to MACPAC to carry out the provisions of this section shall remain available until expended.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1900, as added [Pub. L. 111–3, title V, § 506(a)][/us/pl/111/3/s506/a], Feb. 4, 2009, [123 Stat. 91][/us/stat/123/91]; amended [Pub. L. 111–148, title II, § 2801(a)][/us/pl/111/148/s2801/a], Mar. 23, 2010, [124 Stat. 328][/us/stat/124/328].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1900, as added [Pub. L. 111–3, title V, § 506(a)][/us/pl/111/3/s506/a], Feb. 4, 2009, [123 Stat. 91][/us/stat/123/91]; amended [Pub. L. 111–148, title II, § 2801(a)][/us/pl/111/148/s2801/a], Mar. 23, 2010, [124 Stat. 328][/us/stat/124/328]; [Pub. L. 113–93, title II, § 221(b)][/us/pl/113/93/s221/b], Apr. 1, 2014, [128 Stat. 1076][/us/stat/128/1076].)
 
  __References in Text__ 
 
@@ -266,6 +294,8 @@
     A prior section 1396, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XIX, § 1901, as added [Pub. L. 89–97, title I, § 121(a)][/us/pl/89/97/s121/a], July 30, 1965, [79 Stat. 343][/us/stat/79/343]; amended [Pub. L. 93–233, § 13(a)(1)][/us/pl/93/233/s13/a/1], Dec. 31, 1973, [87 Stat. 960][/us/stat/87/960]; [Pub. L. 98–369, div. B, title VI, § 2663(j)(3)(C)][/us/pl/98/369/s2663/j/3/C], July 18, 1984, [98 Stat. 1171][/us/stat/98/1171], which related to appropriations, was transferred to [section 1396–1 of this title][/us/usc/t42/s1396–1].
 
  __Amendments__ 
+
+    2014—Subsec. (b)(6). [Pub. L. 113–93][/us/pl/113/93] designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
     2010—Subsec. (b)(1). [Pub. L. 111–148, § 2801(a)(1)(A)(i)][/us/pl/111/148/s2801/a/1/A/i], inserted “for all States” before “and annual” in heading.
 
@@ -400,6 +430,8 @@
 ----------
 ----------
 
+[/us/usc/t42/s1396r–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%934
+[/us/usc/t42/s1396r–4/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396r%E2%80%934%2Fj
 [/us/usc/t42/s1395b–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%936
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
@@ -411,6 +443,8 @@
 [/us/stat/123/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F91
 [/us/pl/111/148/s2801/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa
 [/us/stat/124/328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F328
+[/us/pl/113/93/s221/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs221%2Fb
+[/us/stat/128/1076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1076
 [/us/pl/111/148/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2602
 [/us/stat/124/315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F315
 [/us/usc/t42/s1315b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1315b
@@ -431,6 +465,7 @@
 [/us/pl/98/369/s2663/j/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2663%2Fj%2F3%2FC
 [/us/stat/98/1171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1171
 [/us/usc/t42/s1396–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396%E2%80%931
+[/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
 [/us/pl/111/148/s2801/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa%2F1%2FA%2Fi
 [/us/pl/111/148/s2801/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa%2F1%2FA%2Fii
 [/us/pl/111/148/s2801/a/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs2801%2Fa%2F1%2FA%2Fiii

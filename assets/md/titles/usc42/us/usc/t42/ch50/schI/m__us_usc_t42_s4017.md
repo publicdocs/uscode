@@ -29,9 +29,11 @@
 
         (5) for the purposes specified in subsection (d) of this section under the conditions provided therein;
 
-        (6) for carrying out the program under [section 4022(b) of this title][/us/usc/t42/s4022/b]; and
+        (6) for carrying out the program under [section 4022(b) of this title][/us/usc/t42/s4022/b];
 
-        (7) for transfers to the National Flood Mitigation Fund, but only to the extent provided in [section 4104d(b)(1) of this title][/us/usc/t42/s4104d/b/1].
+        (7) for transfers to the National Flood Mitigation Fund, but only to the extent provided in [section 4104d(b)(1) of this title][/us/usc/t42/s4104d/b/1]; and
+
+        (8) for carrying out [section 4104(f) of this title][/us/usc/t42/s4104/f].
 
     (b) __Credits to Fund__ 
 
@@ -77,13 +79,15 @@
 
         The fund shall be available, with respect to any fiscal year beginning on or after October 1, 1981, only to the extent approved in appropriation Acts; except that the fund shall be available for the purpose described in subsection (d)(1) of this section without such approval.
 
-([Pub. L. 90–448, title XIII, § 1310][/us/pl/90/448/s1310], Aug. 1, 1968, [82 Stat. 577][/us/stat/82/577]; [Pub. L. 97–35, title III, § 341(c)][/us/pl/97/35/s341/c], Aug. 13, 1981, [95 Stat. 419][/us/stat/95/419]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 98–479, title II, § 203(j)(1)][/us/pl/98/479/s203/j/1], Oct. 17, 1984, [98 Stat. 2231][/us/stat/98/2231]; [Pub. L. 100–242, title V, § 545(d)][/us/pl/100/242/s545/d], Feb. 5, 1988, [101 Stat. 1942][/us/stat/101/1942]; [Pub. L. 101–508, title II, § 2302(e)(3)][/us/pl/101/508/s2302/e/3], Nov. 5, 1990, [104 Stat. 1388–24][/us/stat/104/1388-24]; [Pub. L. 103–325, title V][/us/pl/103/325], §§ 542, 554(b), 577(h), Sept. 23, 1994, [108 Stat. 2269][/us/stat/108/2269], 2274, 2283; [Pub. L. 108–264, title I][/us/pl/108/264], §§ 102(b), 104(b), June 30, 2004, [118 Stat. 721][/us/stat/118/721], 723; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100225(d), 100238(b)(1), July 6, 2012, [126 Stat. 941][/us/stat/126/941], 958.)
+([Pub. L. 90–448, title XIII, § 1310][/us/pl/90/448/s1310], Aug. 1, 1968, [82 Stat. 577][/us/stat/82/577]; [Pub. L. 97–35, title III, § 341(c)][/us/pl/97/35/s341/c], Aug. 13, 1981, [95 Stat. 419][/us/stat/95/419]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 98–479, title II, § 203(j)(1)][/us/pl/98/479/s203/j/1], Oct. 17, 1984, [98 Stat. 2231][/us/stat/98/2231]; [Pub. L. 100–242, title V, § 545(d)][/us/pl/100/242/s545/d], Feb. 5, 1988, [101 Stat. 1942][/us/stat/101/1942]; [Pub. L. 101–508, title II, § 2302(e)(3)][/us/pl/101/508/s2302/e/3], Nov. 5, 1990, [104 Stat. 1388–24][/us/stat/104/1388-24]; [Pub. L. 103–325, title V][/us/pl/103/325], §§ 542, 554(b), 577(h), Sept. 23, 1994, [108 Stat. 2269][/us/stat/108/2269], 2274, 2283; [Pub. L. 108–264, title I][/us/pl/108/264], §§ 102(b), 104(b), June 30, 2004, [118 Stat. 721][/us/stat/118/721], 723; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100225(d), 100238(b)(1), July 6, 2012, [126 Stat. 941][/us/stat/126/941], 958; [Pub. L. 113–89, § 18(b)][/us/pl/113/89/s18/b], Mar. 21, 2014, [128 Stat. 1027][/us/stat/128/1027].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a) and (b)(6), was in the original a reference to “this title” meaning title XIII of [Pub. L. 90–448][/us/pl/90/448], Aug. 1, 1968, [82 Stat. 572][/us/stat/82/572], known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title][/us/usc/t42/s4001] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(8). [Pub. L. 113–89][/us/pl/113/89] added par. (8).
 
     2012—Subsec. (a). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director” in two places.
 
@@ -138,6 +142,7 @@
 [/us/usc/t42/s4101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4101
 [/us/usc/t42/s4022/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4022%2Fb
 [/us/usc/t42/s4104d/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4104d%2Fb%2F1
+[/us/usc/t42/s4104/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4104%2Ff
 [/us/usc/t42/s4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4016
 [/us/usc/t42/s4055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4055
 [/us/usc/t42/s4015/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4015%2Fd
@@ -163,9 +168,12 @@
 [/us/stat/118/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F721
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F941
+[/us/pl/113/89/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs18%2Fb
+[/us/stat/128/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1027
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
 [/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
 [/us/pl/112/141/s100225/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100225%2Fd
 [/us/usc/t42/s4102a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4102a

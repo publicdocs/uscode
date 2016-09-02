@@ -417,6 +417,12 @@
 
     Subsecs. (g) to (j). [Pub. L. 111–148, § 1104(b)(2)(C)][/us/pl/111/148/s1104/b/2/C], added subsecs. (g) to (j).
 
+ __Delay in Transition From ICD–9 to ICD–10 Code Sets__ 
+
+[Pub. L. 113–93, title II, § 212][/us/pl/113/93/s212], Apr. 1, 2014, [128 Stat. 1047][/us/stat/128/1047], provided that: 
+
+> “The Secretary of Health and Human Services may not, prior to October 1, 2015, adopt ICD–10 code sets as the standard for code sets under section 1173(c) of the Social Security Act ([42 U.S.C. 1320d–2(c)][/us/usc/t42/s1320d–2/c]) and section 162.1002 of title 45, Code of Federal Regulations.”
+
  __Promulgation of Rules__ 
 
 [Pub. L. 111–148, title I, § 1104(c)][/us/pl/111/148/s1104/c], Mar. 23, 2010, [124 Stat. 153][/us/stat/124/153], provided that:
@@ -586,6 +592,9 @@
 [/us/pl/111/148/s1104/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1104%2Fb%2F2%2FB
 [/us/pl/111/148/s10109/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10109%2Fa%2F1%2FB
 [/us/pl/111/148/s1104/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1104%2Fb%2F2%2FC
+[/us/pl/113/93/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs212
+[/us/stat/128/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1047
+[/us/usc/t42/s1320d–2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932%2Fc
 [/us/pl/111/148/s1104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1104%2Fc
 [/us/stat/124/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F153
 [/us/usc/t42/s1320d–2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932%2Fb

@@ -23,7 +23,13 @@
 
          the risk premium rates for flood insurance which—
 
-            (A) based on consideration of the risk involved and accepted actuarial principles, and
+            (A)
+
+             based on consideration of—
+
+                (i) the risk involved and accepted actuarial principles; and
+
+                (ii) the flood mitigation activities that an owner or lessee has undertaken on a property, including differences in the risk involved due to land use measures, floodproofing, flood forecasting, and similar measures, and
 
             (B)
 
@@ -65,7 +71,7 @@
 
                 (i) substantial damage exceeding 50 percent of the fair market value of such property; or
 
-                (ii) substantial improvement exceeding 30 percent of the fair market value of such property; and
+                (ii) substantial improvement exceeding 50 percent of the fair market value of such property; and
 
         (3) the extent, if any, to which federally assisted or other flood protection measures initiated after August 1, 1968, affect such rates.
 
@@ -83,11 +89,11 @@
 
     (e) __Eligibility of community making adequate progress on construction of flood protection system for rates not exceeding those applicable to completed flood protection system; determination of adequate progress__ 
 
-        Notwithstanding any other provision of law, any community that has made adequate progress, acceptable to the Administrator, on the construction of a flood protection system which will afford flood protection for the one-hundred year frequency flood as determined by the Administrator, shall be eligible for flood insurance under this chapter (if and to the extent it is eligible for such insurance under the other provisions of this chapter) at premium rates not exceeding those which would be applicable under this section if such flood protection system had been completed. The Administrator shall find that adequate progress on the construction of a flood protection system as required herein has been only if (1) 100 percent of the project cost of the system has been authorized, (2) at least 60 percent of the project cost of the system has been appropriated, (3) at least 50 percent of the project cost of the system has been expended, and (4) the system is at least 50 percent completed.
+        Notwithstanding any other provision of law, any community that has made adequate progress, acceptable to the Administrator, on the construction or reconstruction of a flood protection system which will afford flood protection for the one-hundred year frequency flood as determined by the Administrator, shall be eligible for flood insurance under this chapter (if and to the extent it is eligible for such insurance under the other provisions of this chapter) at premium rates not exceeding those which would be applicable under this section if such flood protection system had been completed. The Administrator shall find that adequate progress on the construction or reconstruction of a flood protection system, based on the present value of the completed flood protection system, has been made only if: (1) 100 percent of the cost of the system has been authorized; (2) at least 60 percent of the cost of the system has been appropriated; (3) at least 50 percent of the cost of the system has been expended; and (4) the system is at least 50 percent completed. Notwithstanding any other provision of law, in determining whether a community has made adequate progress on the construction, reconstruction, or improvement of a flood protection system, the Administrator shall consider all sources of funding, including Federal, State, and local funds.
 
     (f) __Availability of flood insurance in communities restoring disaccredited flood protection systems; criteria; rates__ 
 
-    Notwithstanding any other provision of law, this subsection shall only apply in a community which has been determined by the Administrator of the Federal Emergency Management Agency to be in the process of restoring flood protection afforded by a flood protection system that had been previously accredited on a Flood Insurance Rate Map as providing 100-year frequency flood protection but no longer does so. Except as provided in this subsection, in such a community, flood insurance shall be made available to those properties impacted by the disaccreditation of the flood protection system at premium rates that do not exceed those which would be applicable to any property located in an area of special flood hazard, the construction of which was started prior to the effective date of the initial Flood Insurance Rate Map published by the Administrator for the community in which such property is located. A revised Flood Insurance Rate Map shall be prepared for the community to delineate as Zone AR the areas of special flood hazard that result from the disaccreditation of the flood protection system. A community will be considered to be in the process of restoration if—
+    Notwithstanding any other provision of law, this subsection shall apply to riverine and coastal levees that are located in a community which has been determined by the Administrator of the Federal Emergency Management Agency to be in the process of restoring flood protection afforded by a flood protection system that had been previously accredited on a Flood Insurance Rate Map as providing 100-year frequency flood protection but no longer does so, and shall apply without regard to the level of Federal funding of or participation in the construction, reconstruction, or improvement of the flood protection system. Except as provided in this subsection, in such a community, flood insurance shall be made available to those properties impacted by the disaccreditation of the flood protection system at premium rates that do not exceed those which would be applicable to any property located in an area of special flood hazard, the construction of which was started prior to the effective date of the initial Flood Insurance Rate Map published by the Administrator for the community in which such property is located. A revised Flood Insurance Rate Map shall be prepared for the community to delineate as Zone AR the areas of special flood hazard that result from the disaccreditation of the flood protection system. A community will be considered to be in the process of restoration if—
 
         (1) the flood protection system has been deemed restorable by a Federal agency in consultation with the local project sponsor;
 
@@ -103,13 +109,9 @@
 
     The Administrator shall not provide flood insurance to prospective insureds at rates less than those estimated under subsection (a)(1), as required by paragraph (2) of that subsection, for—
 
-        (1) any property not insured by the flood insurance program as of July 6, 2012;
+        (1) any policy under the flood insurance program that has lapsed in coverage,, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  unless the decision of the policy holder to permit a lapse in flood insurance coverage was as a result of the property covered by the policy no longer being required to retain such coverage; or
 
-        (2) any property purchased after July 6, 2012;
-
-        (3) any policy under the flood insurance program that has lapsed in coverage, as a result of the deliberate choice of the holder of such policy; or
-
-        (4)
+        (2)
 
          any prospective insured who refuses to accept any offer for mitigation assistance by the Administrator (including an offer to relocate), including an offer of mitigation assistance—
 
@@ -143,15 +145,31 @@
 
         (2) __Multifamily properties__ 
 
-            In the case of a property consisting of 5 or more residences, such term shall have such meaning as the Director  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably means “Administrator”. </sup></sup>  shall by regulation provide.
+            In the case of a property consisting of 5 or more residences, such term shall have such meaning as the Director  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably means “Administrator”. </sup></sup>  shall by regulation provide.
 
-([Pub. L. 90–448, title XIII, § 1307][/us/pl/90/448/s1307], Aug. 1, 1968, [82 Stat. 576][/us/stat/82/576]; [Pub. L. 93–234, title I, § 109][/us/pl/93/234/s109], Dec. 31, 1973, [87 Stat. 980][/us/stat/87/980]; [Pub. L. 93–383, title VIII, § 816(b)][/us/pl/93/383/s816/b], Aug. 22, 1974, [88 Stat. 739][/us/stat/88/739]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 101–508, title II, § 2302(e)(1)][/us/pl/101/508/s2302/e/1], Nov. 5, 1990, [104 Stat. 1388–24][/us/stat/104/1388-24]; [Pub. L. 102–550, title IX, § 928][/us/pl/102/550/s928], Oct. 28, 1992, [106 Stat. 3886][/us/stat/106/3886]; [Pub. L. 112–123, § 2(a)][/us/pl/112/123/s2/a], May 31, 2012, [126 Stat. 365][/us/stat/126/365]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100205(a)(1), (b), 100238(b)(1), July 6, 2012, [126 Stat. 917][/us/stat/126/917], 918, 958.)
+([Pub. L. 90–448, title XIII, § 1307][/us/pl/90/448/s1307], Aug. 1, 1968, [82 Stat. 576][/us/stat/82/576]; [Pub. L. 93–234, title I, § 109][/us/pl/93/234/s109], Dec. 31, 1973, [87 Stat. 980][/us/stat/87/980]; [Pub. L. 93–383, title VIII, § 816(b)][/us/pl/93/383/s816/b], Aug. 22, 1974, [88 Stat. 739][/us/stat/88/739]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title IV, § 451(d)(1)\], Nov. 30, 1983, [97 Stat. 1229][/us/stat/97/1229]; [Pub. L. 101–508, title II, § 2302(e)(1)][/us/pl/101/508/s2302/e/1], Nov. 5, 1990, [104 Stat. 1388–24][/us/stat/104/1388-24]; [Pub. L. 102–550, title IX, § 928][/us/pl/102/550/s928], Oct. 28, 1992, [106 Stat. 3886][/us/stat/106/3886]; [Pub. L. 112–123, § 2(a)][/us/pl/112/123/s2/a], May 31, 2012, [126 Stat. 365][/us/stat/126/365]; [Pub. L. 112–141, div. F, title II][/us/pl/112/141], §§ 100205(a)(1), (b), 100238(b)(1), July 6, 2012, [126 Stat. 917][/us/stat/126/917], 918, 958; [Pub. L. 113–89][/us/pl/113/89], §§ 3(a)(1), 14, 15, 19, Mar. 21, 2014, [128 Stat. 1021][/us/stat/128/1021], 1026, 1027.)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a)(2), (d), (e), and (h)(1)(A), was in the original a reference to “this title” meaning title XIII of [Pub. L. 90–448][/us/pl/90/448], Aug. 1, 1968, [82 Stat. 572][/us/stat/82/572], known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title][/us/usc/t42/s4001] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(1)(A). [Pub. L. 113–89, § 14][/us/pl/113/89/s14], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “based on consideration of the risk involved and accepted actuarial principles, and”.
+
+    Subsec. (a)(2)(E)(ii). [Pub. L. 113–89, § 15][/us/pl/113/89/s15], substituted “50 percent” for “30 percent”.
+
+    Subsec. (e). [Pub. L. 113–89, § 19(a)(3)][/us/pl/113/89/s19/a/3], inserted before period at end “Notwithstanding any other provision of law, in determining whether a community has made adequate progress on the construction, reconstruction, or improvement of a flood protection system, the Administrator shall consider all sources of funding, including Federal, State, and local funds.”
+
+    [Pub. L. 113–89, § 19(a)(1)][/us/pl/113/89/s19/a/1], (2), inserted “or reconstruction” after “construction” in first sentence and amended second sentence generally. Prior to amendment, second sentence read as follows: “The Administrator shall find that adequate progress on the construction of a flood protection system as required herein has been only if (1) 100 percent of the project cost of the system has been authorized, (2) at least 60 percent of the project cost of the system has been appropriated, (3) at least 50 percent of the project cost of the system has been expended, and (4) the system is at least 50 percent completed.”
+
+    Subsec. (f). [Pub. L. 113–89, § 19(b)][/us/pl/113/89/s19/b], amended first sentence generally. Prior to amendment, first sentence read as follows: “Notwithstanding any other provision of law, this subsection shall only apply in a community which has been determined by the Administrator of the Federal Emergency Management Agency to be in the process of restoring flood protection afforded by a flood protection system that had been previously accredited on a Flood Insurance Rate Map as providing 100-year frequency flood protection but no longer does so.”
+
+    Subsec. (g). [Pub. L. 113–89, § 3(a)(1)][/us/pl/113/89/s3/a/1], redesignated pars. (3) and (4) as (1) and (2), respectively, substituted “, unless the decision of the policy holder to permit a lapse in flood insurance coverage was as a result of the property covered by the policy no longer being required to retain such coverage” for “as a result of the deliberate choice of the holder of such policy” in par. (1) as redesignated, and struck out former pars. (1) and (2), which read as follows:
+
+    “(1) any property not insured by the flood insurance program as of July 6, 2012;
+
+    “(2) any property purchased after July 6, 2012;”.
 
     2012—Subsec. (a). [Pub. L. 112–141, § 100238(b)(1)][/us/pl/112/141/s100238/b/1], substituted “Administrator” for “Director” in introductory provisions.
 
@@ -188,6 +206,44 @@
     For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6][/us/usc/t6/s315/a/1], Domestic Security.
 
     For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
+
+ __Repeal of Certain Rate Increases__ 
+
+[Pub. L. 113–89, § 3][/us/pl/113/89/s3], Mar. 21, 2014, [128 Stat. 1021][/us/stat/128/1021], provided that:
+
+>     “(a) __Repeal.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         \[Amended this section.\]
+
+>         “(2)  __Effective date__  __.—__ 
+
+>         The Administrator \[of the Federal Emergency Management Agency\] shall make available such rate tables, as necessary to implement the amendments made by paragraph (1) as if it were enacted as part of the Biggert-Waters Flood Insurance Reform Act of 2012 (\[subtitle A of title II of div. F of\] [Public Law 112–141][/us/pl/112/141]; [126 Stat. 957][/us/stat/126/957] \[sic\]).
+
+>         “(3) __Implementation, coordination, and guidance.—__ 
+
+>             “(A)  __Facilitation of timely refunds__  __.—__ 
+
+>             To ensure the participation of Write Your Own companies (as such term is defined in section 100202(a) of the Biggert-Waters Flood Insurance Reform Act of 2012 ([42 U.S.C. 4004(a)][/us/usc/t42/s4004/a]), the Administrator and the Federal Emergency Management Agency shall consult with Write Your Own companies throughout the development of guidance and rate tables necessary to implement the provisions of and the amendments made by this Act \[see Short Title of 2014 Amendment note set out under [section 4001 of this title][/us/usc/t42/s4001]\].
+
+>             “(B)  __Implementation and guidance__  __.—__ 
+
+>             The Administrator shall issue final guidance and rate tables necessary to implement the provisions of and the amendments made by this Act not later than eight months following the date of the enactment of this Act \[Mar. 21, 2014\]. Write Your Own companies, in coordination with the Federal Emergency Management Agency, shall have not less than six months but not more than eight months following the issuance of such final guidance and rate tables to implement the changes required by such final guidance and rate tables.
+
+>         “(4)  __Refund of excess premium charges collected__  __.—__ 
+
+>         The Administrator shall refund directly to insureds any premiums for flood insurance coverage under the National Flood Insurance Program \[defined as the program established under the National Flood Insurance Act of 1968 ([42 U.S.C. 4001][/us/usc/t42/s4001] et seq.)\] collected in excess of the rates required under the provisions of and amendments made by this section \[amending this section\]. To allow for necessary and appropriate implementation of such provisions and amendments, any premium changes necessary to implement such provisions and amendments, including any such premium refund due to policy holders, which shall be paid directly by the National Flood Insurance Program, shall not be charged or paid to policyholders by the National Flood Insurance Program until after the Administrator issues guidance and makes available such rate tables to implement the provisions of and amendments made by this Act.
+
+>     “(b)  __Assumption of Policies at Existing Premium Rates__  __.—__ 
+
+>     The Administrator shall provide that the purchaser of a property that, as of the date of such purchase, is covered under an existing flood insurance policy under this title \[probably means the National Flood Insurance Act of 1968, [42 U.S.C. 4001][/us/usc/t42/s4001] et seq.\] may assume such existing policy and coverage for the remainder of the term of the policy at the chargeable premium rates under such existing policy. Such rates shall continue with respect to such property until the implementation of subsection (a).”
+
+ __Changes in Rates Resulting From__  __[__  __Pub. L. 113–89__  __][/us/pl/113/89]__ 
+
+[Pub. L. 113–89, § 31(a)][/us/pl/113/89/s31/a], Mar. 21, 2014, [128 Stat. 1035][/us/stat/128/1035], provided that: 
+
+> “Not later than the date that is 6 months before the date on which any change in risk premium rates for flood insurance coverage under the National Flood Insurance Program \[defined as the program established under the National Flood Insurance Act of 1968 ([42 U.S.C. 4001][/us/usc/t42/s4001] et seq.)\] resulting from this Act \[see Short Title of 2014 Amendment note set out under [section 4001 of this title][/us/usc/t42/s4001]\] or any amendment made by this Act is implemented, the Administrator \[of the Federal Emergency Management Agency\] shall make publicly available the rate tables and underwriting guidelines that provide the basis for the change.”
 
  __Eligibility for Flood Insurance for Persons Residing in Communities That Have Made Adequate Progress on the Reconstruction or Improvement of a Flood Protection System__ 
 
@@ -348,9 +404,17 @@
 [/us/stat/126/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F365
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/stat/126/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F917
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/stat/128/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1021
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
+[/us/pl/113/89/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs14
+[/us/pl/113/89/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs15
+[/us/pl/113/89/s19/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs19%2Fa%2F3
+[/us/pl/113/89/s19/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs19%2Fa%2F1
+[/us/pl/113/89/s19/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs19%2Fb
+[/us/pl/113/89/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs3%2Fa%2F1
 [/us/pl/112/141/s100238/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100238%2Fb%2F1
 [/us/pl/112/141/s100205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100205%2Fb
 [/us/pl/112/141/s100205/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100205%2Fa%2F1%2FA
@@ -368,6 +432,19 @@
 [/us/stat/126/918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F918
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/113/89/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs3
+[/us/stat/128/1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1021
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/stat/126/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F957
+[/us/usc/t42/s4004/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4004%2Fa
+[/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
+[/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
+[/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/pl/113/89/s31/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs31%2Fa
+[/us/stat/128/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1035
+[/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
+[/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
 [/us/pl/112/141/s100230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100230
 [/us/stat/126/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F946
 [/us/usc/t42/s4014/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4014%2Fe

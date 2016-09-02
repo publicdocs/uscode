@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395l.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395n.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395l.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395m–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m)
 
 ## § 1395m. Special payment rules for particular items and services
 
@@ -1505,7 +1505,7 @@
 
             (A) __In general__ 
 
-                In the case of ground ambulance services furnished on or after July 1, 2004, and before April 1, 2014, for which the transportation originates in a qualified rural area (identified under subparagraph (B)(iii)), the Secretary shall provide for a percent increase in the base rate of the fee schedule for a trip established under this subsection. In establishing such percent increase, the Secretary shall estimate the average cost per trip for such services (not taking into account mileage) in the lowest quartile as compared to the average cost per trip for such services (not taking into account mileage) in the highest quartile of all rural county populations.
+                In the case of ground ambulance services furnished on or after July 1, 2004, and before April 1, 2015, for which the transportation originates in a qualified rural area (identified under subparagraph (B)(iii)), the Secretary shall provide for a percent increase in the base rate of the fee schedule for a trip established under this subsection. In establishing such percent increase, the Secretary shall estimate the average cost per trip for such services (not taking into account mileage) in the lowest quartile as compared to the average cost per trip for such services (not taking into account mileage) in the highest quartile of all rural county populations.
 
             (B) __Identification of qualified rural areas__ 
 
@@ -1533,11 +1533,11 @@
 
             (A) __In general__ 
 
-            After computing the rates with respect to ground ambulance services under the other applicable provisions of this subsection, in the case of such services furnished on or after July 1, 2004, and before January 1, 2007, and for such services furnished on or after July 1, 2008, and before April 1, 2014,,4 for which the transportation originates in—
+            After computing the rates with respect to ground ambulance services under the other applicable provisions of this subsection, in the case of such services furnished on or after July 1, 2004, and before January 1, 2007, and for such services furnished on or after July 1, 2008, and before April 1, 2015,,4 for which the transportation originates in—
 
-                (i) a rural area described in paragraph (9) or in a rural census tract described in such paragraph, the fee schedule established under this section shall provide that the rate for the service otherwise established, after the application of any increase under paragraphs (11) and (12), shall be increased by 2 percent (or 3 percent if such service is furnished on or after July 1, 2008, and before April 1, 2014); and
+                (i) a rural area described in paragraph (9) or in a rural census tract described in such paragraph, the fee schedule established under this section shall provide that the rate for the service otherwise established, after the application of any increase under paragraphs (11) and (12), shall be increased by 2 percent (or 3 percent if such service is furnished on or after July 1, 2008, and before April 1, 2015); and
 
-                (ii) an area not described in clause (i), the fee schedule established under this subsection shall provide that the rate for the service otherwise established, after the application of any increase under paragraph (11), shall be increased by 1 percent (or 2 percent if such service is furnished on or after July 1, 2008, and before April 1, 2014).
+                (ii) an area not described in clause (i), the fee schedule established under this subsection shall provide that the rate for the service otherwise established, after the application of any increase under paragraph (11), shall be increased by 1 percent (or 2 percent if such service is furnished on or after July 1, 2008, and before April 1, 2015).
 
             (B) __Application of increased payments after applicable period__ 
 
@@ -1725,7 +1725,259 @@
 
                 Notwithstanding any other provision of law, the Secretary may establish and implement by program instruction or otherwise the payment codes to be used under the prospective payment system under this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1834, as added and amended [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4049(a)(2), 4062(b), Dec. 22, 1987, [101 Stat. 1330–91][/us/stat/101/1330-91], 1330–100; [Pub. L. 100–360, title II][/us/pl/100/360], §§ 202(b)(4), 203(c)(1)(F), 204(b), title IV, § 411(a)(3)(A), (B)(ii), (C)(ii), (f)(8)(A), (B)(ii), (D), (g)(1)(A), (B), July 1, 1988, [102 Stat. 704][/us/stat/102/704], 722, 726, 768, 779, 781; [Pub. L. 100–485, title VI, § 608(d)(21)(C)][/us/pl/100/485/s608/d/21/C], (22)(A), Oct. 13, 1988, [102 Stat. 2420][/us/stat/102/2420]; [Pub. L. 101–234, title II, § 201(a)][/us/pl/101/234/s201/a], title III, § 301(b)(1), (c)(1), Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981], 1985; [Pub. L. 101–239, title VI][/us/pl/101/239], §§ 6102(f)(1), 6105(a), 6112(a), (c), (d)(1), (e)(2), 6116(b)(2), 6140, Dec. 19, 1989, [103 Stat. 2188][/us/stat/103/2188], 2210, 2214–2216, 2220, 2224; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4102(a), (d), (f), 4104(a), 4152(a)(1), (b), (c)(1)–(4)(B)(i), (e), (f)(1), (g)(1), 4153(a)(1), (2)(D), 4163(b), Nov. 5, 1990, [104 Stat. 1388–55][/us/stat/104/1388-55], 1388–57, 1388–59, 1388–74, 1388–77 to 1388–81, 1388–83, 1388–97; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13542(a), 13543(a), (b), 13544(a)(1), (2), (b)(1), 13545(a), 13546, Aug. 10, 1993, [107 Stat. 587][/us/stat/107/587], 589, 590; [Pub. L. 103–432, title I][/us/pl/103/432], §§ 102(e), 126(b)(1), (2), (4), (5), (g)(1), (10)(B), 131(a), 132(a), (b), 133(a)(1), 134(a)(1), 135(a)(1), (b)(1), (3), (d)(1), (e)(2)–(5), 145(a), 156(a)(2)(C), Oct. 31, 1994, [108 Stat. 4403][/us/stat/108/4403], 4414–4416, 4419, 4421, 4424, 4427, 4440; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4101(a), (c), 4104(b)(1), 4105(b)(2), 4201(c)(5), 4312(a), (c), 4316(b), 4531(b)(2), 4541(a)(2), 4551(a), (c)(1), 4552(a), (b), Aug. 5, 1997, [111 Stat. 360][/us/stat/111/360], 363, 367, 374, 386, 387, 392, 451, 455, 457–459; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 201(e)(2), title III, § 321(k)(3), title IV, § 403(d)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–340, 1501A–366, 1501A–371; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, §§ 103(b), 104(b), title II, §§ 201(a), 202(a), 204(a), 205(a), 221(a), 223(b), title IV, §§ 423(a)(1), (b)(1), 425(a), 426(a), 427(a), 428(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–468, 2763A–469, 2763A–481, 2763A–482, 2763A–486, 2763A–487, 2763A–518 to 2763A–520, 2763A–522; [Pub. L. 108–173, title III, § 302(a)][/us/pl/108/173/s302/a], (c)(1)(A), (2), (3), (d)(1), (2), title IV, §§ 405(a)(1), (b)(1), (d)(1), 414(a)–(c)(1), (d), 415(a), title VI, § 627(b)(1), title VII, § 736(b)(4), (5), Dec. 8, 2003, [117 Stat. 2223][/us/stat/117/2223], 2230–2232, 2266, 2267, 2278–2281, 2321, 2356; [Pub. L. 109–171, title V][/us/pl/109/171], §§ 5101(a)(1), (b)(1), 5113(b), Feb. 8, 2006, [120 Stat. 37][/us/stat/120/37], 38, 44; [Pub. L. 110–275, title I][/us/pl/110/275], §§ 125(b)(5), 135(a)(1), 144(b)(1), 146(a), (b)(2)(A), 148(a), 149(a), 154(a)(2)(A), (3), (4), (b)(1)(A), (d)(2), July 15, 2008, [122 Stat. 2519][/us/stat/122/2519], 2532, 2547–2549, 2563, 2564, 2567; [Pub. L. 111–72, § 1(a)][/us/pl/111/72/s1/a], Oct. 13, 2009, [123 Stat. 2059][/us/stat/123/2059]; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3105(a), (c), 3109(a), 3128(a), 3136(a), (b), 3401(j), (m), (n), title IV, § 4105(a), title V, §§ 5501(a)(2), (b)(2), 5502(b), title VI, §§ 6402(g)(1), 6405(a), 6407(b), 6410(b), title X, §§ 10311(a), (c), 10501(i)(1), (3)(A), Mar. 23, 2010, [124 Stat. 417][/us/stat/124/417], 418, 426, 437, 438, 486, 487, 558, 653, 654, 759, 768, 770, 773, 942, 943, 997; [Pub. L. 111–309, title I, § 106(a)][/us/pl/111/309/s106/a], (c), Dec. 15, 2010, [124 Stat. 3287][/us/stat/124/3287]; [Pub. L. 112–78, title III, § 306(a)][/us/pl/112/78/s306/a], (c), Dec. 23, 2011, [125 Stat. 1285][/us/stat/125/1285]; [Pub. L. 112–96, title III, § 3007(a)][/us/pl/112/96/s3007/a], (c), Feb. 22, 2012, [126 Stat. 190][/us/stat/126/190]; [Pub. L. 112–240, title VI][/us/pl/112/240], §§ 604(a), (c), 633(b), 636, 637, Jan. 2, 2013, [126 Stat. 2347][/us/stat/126/2347], 2348, 2355–2357; [Pub. L. 113–67, div. B, title I, § 1104][/us/pl/113/67/s1104], Dec. 26, 2013, [127 Stat. 1196][/us/stat/127/1196].)
+    (p) __Quality incentives to promote patient safety and public health in computed tomography__ 
+
+        (1) __Quality incentives__ 
+
+            In the case of an applicable computed tomography service (as defined in paragraph (2)) for which payment is made under an applicable payment system (as defined in paragraph (3)) and that is furnished on or after January 1, 2016, using equipment that is not consistent with the CT equipment standard (described in paragraph (4)), the payment amount for such service shall be reduced by the applicable percentage (as defined in paragraph (5)).
+
+        (2) __Applicable computed tomography services defined__ 
+
+            In this subsection, the term “applicable computed tomography service” means a service billed using diagnostic radiological imaging codes for computed tomography (identified as of January 1, 2014, by HCPCS codes 70450–70498, 71250–71275, 72125–72133, 72191–72194, 73200–73206, 73700–73706, 74150–74178, 74261–74263, and 75571–75574 (and any succeeding codes). <sup>\[6\]</sup>  <sup><sup> 6 So in original. The period probably should be preceded by another closing parenthesis. </sup></sup> 
+
+        (3) __Applicable payment system defined__ 
+
+        In this subsection, the term “applicable payment system” means the following:
+
+            (A) The technical component and the technical component of the global fee under the fee schedule established under [section 1395w–4(b) of this title][/us/usc/t42/s1395w–4/b].
+
+            (B) The prospective payment system for hospital outpatient department services under section 1395l(t) of this title.
+
+        (4) __Consistency with CT equipment standard__ 
+
+            In this subsection, the term “not consistent with the CT equipment standard” means, with respect to an applicable computed tomography service, that the service was furnished using equipment that does not meet each of the attributes of the National Electrical Manufacturers Association (NEMA) Standard XR–29–2013, entitled “Standard Attributes on CT Equipment Related to Dose Optimization and Management”. Through rulemaking, the Secretary may apply successor standards.
+
+        (5) __Applicable percentage defined__ 
+
+        In this subsection, the term “applicable percentage” means—
+
+            (A) for 2016, 5 percent; and
+
+            (B) for 2017 and subsequent years, 15 percent.
+
+        (6) __Implementation__ 
+
+            (A) __Information__ 
+
+                The Secretary shall require that information be provided and attested to by a supplier and a hospital outpatient department that indicates whether an applicable computed tomography service was furnished that was not consistent with the CT equipment standard (described in paragraph (4)). Such information may be included on a claim and may be a modifier. Such information shall be verified, as appropriate, as part of the periodic accreditation of suppliers under [section 1395m(e) of this title][/us/usc/t42/s1395m/e] and hospitals under [section 1395bb(a) of this title][/us/usc/t42/s1395bb/a].
+
+            (B) __Administration__ 
+
+                Chapter 35 of title 44 shall not apply to information described in subparagraph (A).
+
+    (q) __Recognizing appropriate use criteria for certain imaging services__ 
+
+        (1) __Program established__ 
+
+            (A) __In general__ 
+
+                The Secretary shall establish a program to promote the use of appropriate use criteria (as defined in subparagraph (B)) for applicable imaging services (as defined in subparagraph (C)) furnished in an applicable setting (as defined in subparagraph (D)) by ordering professionals and furnishing professionals (as defined in subparagraphs (E) and (F), respectively).
+
+            (B) __Appropriate use criteria defined__ 
+
+                In this subsection, the term “appropriate use criteria” means criteria, only developed or endorsed by national professional medical specialty societies or other provider-led entities, to assist ordering professionals and furnishing professionals in making the most appropriate treatment decision for a specific clinical condition for an individual. To the extent feasible, such criteria shall be evidence-based.
+
+            (C) __Applicable imaging service defined__ 
+
+            In this subsection, the term “applicable imaging service” means an advanced diagnostic imaging service (as defined in subsection (e)(1)(B)) for which the Secretary determines—
+
+                (i) one or more applicable appropriate use criteria specified under paragraph (2) apply;
+
+                (ii) there are one or more qualified clinical decision support mechanisms listed under paragraph (3)(C); and
+
+                (iii) one or more of such mechanisms is available free of charge.
+
+            (D) __Applicable setting defined__ 
+
+                In this subsection, the term “applicable setting” means a physician’s office, a hospital outpatient department (including an emergency department), an ambulatory surgical center, and any other provider-led outpatient setting determined appropriate by the Secretary.
+
+            (E) __Ordering professional defined__ 
+
+                In this subsection, the term “ordering professional” means a physician (as defined in [section 1395x(r) of this title][/us/usc/t42/s1395x/r]) or a practitioner described in [section 1395u(b)(18)(C) of this title][/us/usc/t42/s1395u/b/18/C] who orders an applicable imaging service.
+
+            (F) __Furnishing professional defined__ 
+
+                In this subsection, the term “furnishing professional” means a physician (as defined in [section 1395x(r) of this title][/us/usc/t42/s1395x/r]) or a practitioner described in [section 1395u(b)(18)(C) of this title][/us/usc/t42/s1395u/b/18/C] who furnishes an applicable imaging service.
+
+        (2) __Establishment of applicable appropriate use criteria__ 
+
+            (A) __In general__ 
+
+                Not later than November 15, 2015, the Secretary shall through rulemaking, and in consultation with physicians, practitioners, and other stakeholders, specify applicable appropriate use criteria for applicable imaging services only from among appropriate use criteria developed or endorsed by national professional medical specialty societies or other provider-led entities.
+
+            (B) __Considerations__ 
+
+            In specifying applicable appropriate use criteria under subparagraph (A), the Secretary shall take into account whether the criteria—
+
+                (i) have stakeholder consensus;
+
+                (ii) are scientifically valid and evidence based; and
+
+                (iii) are based on studies that are published and reviewable by stakeholders.
+
+            (C) __Revisions__ 
+
+                The Secretary shall review, on an annual basis, the specified applicable appropriate use criteria to determine if there is a need to update or revise (as appropriate) such specification of applicable appropriate use criteria and make such updates or revisions through rulemaking.
+
+            (D) __Treatment of multiple applicable appropriate use criteria__ 
+
+                In the case where the Secretary determines that more than one appropriate use criterion applies with respect to an applicable imaging service, the Secretary shall apply one or more applicable appropriate use criteria under this paragraph for the service.
+
+        (3) __Mechanisms for consultation with applicable appropriate use criteria__ 
+
+            (A) __Identification of mechanisms to consult with applicable appropriate use criteria__ 
+
+                (i) __In general__ 
+
+                    The Secretary shall specify qualified clinical decision support mechanisms that could be used by ordering professionals to consult with applicable appropriate use criteria for applicable imaging services.
+
+                (ii) __Consultation__ 
+
+                    The Secretary shall consult with physicians, practitioners, health care technology experts, and other stakeholders in specifying mechanisms under this paragraph.
+
+                (iii) __Inclusion of certain mechanisms__ 
+
+                Mechanisms specified under this paragraph may include any or all of the following that meet the requirements described in subparagraph (B)(ii):
+
+                    (I) Use of clinical decision support modules in certified EHR technology (as defined in section 1395w–4(o)(4) of this title).
+
+                    (II) Use of private sector clinical decision support mechanisms that are independent from certified EHR technology, which may include use of clinical decision support mechanisms available from medical specialty organizations.
+
+                    (III) Use of a clinical decision support mechanism established by the Secretary.
+
+            (B) __Qualified clinical decision support mechanisms__ 
+
+                (i) __In general__ 
+
+                    For purposes of this subsection, a qualified clinical decision support mechanism is a mechanism that the Secretary determines meets the requirements described in clause (ii).
+
+                (ii) __Requirements__ 
+
+                The requirements described in this clause are the following:
+
+                    (I) The mechanism makes available to the ordering professional applicable appropriate use criteria specified under paragraph (2) and the supporting documentation for the applicable imaging service ordered.
+
+                    (II) In the case where there is more than one applicable appropriate use criterion specified under such paragraph for an applicable imaging service, the mechanism indicates the criteria that it uses for the service.
+
+                    (III) The mechanism determines the extent to which an applicable imaging service ordered is consistent with the applicable appropriate use criteria so specified.
+
+                    (IV) The mechanism generates and provides to the ordering professional a certification or documentation that documents that the qualified clinical decision support mechanism was consulted by the ordering professional.
+
+                    (V) The mechanism is updated on a timely basis to reflect revisions to the specification of applicable appropriate use criteria under such paragraph.
+
+                    (VI) The mechanism meets privacy and security standards under applicable provisions of law.
+
+                    (VII) The mechanism performs such other functions as specified by the Secretary, which may include a requirement to provide aggregate feedback to the ordering professional.
+
+            (C) __List of mechanisms for consultation with applicable appropriate use criteria__ 
+
+                (i) __Initial list__ 
+
+                    Not later than April 1, 2016, the Secretary shall publish a list of mechanisms specified under this paragraph.
+
+                (ii) __Periodic updating of list__ 
+
+                    The Secretary shall identify on an annual basis the list of qualified clinical decision support mechanisms specified under this paragraph.
+
+        (4) __Consultation with applicable appropriate use criteria__ 
+
+            (A) __Consultation by ordering professional__ 
+
+            Beginning with January 1, 2017, subject to subparagraph (C), with respect to an applicable imaging service ordered by an ordering professional that would be furnished in an applicable setting and paid for under an applicable payment system (as defined in subparagraph (D)), an ordering professional shall—
+
+                (i) consult with a qualified decision support mechanism listed under paragraph (3)(C); and
+
+                (ii) provide to the furnishing professional the information described in clauses (i) through (iii) of subparagraph (B).
+
+            (B) __Reporting by furnishing professional__ 
+
+            Beginning with January 1, 2017, subject to subparagraph (C), with respect to an applicable imaging service furnished in an applicable setting and paid for under an applicable payment system (as defined in subparagraph (D)), payment for such service may only be made if the claim for the service includes the following:
+
+                (i) Information about which qualified clinical decision support mechanism was consulted by the ordering professional for the service.
+
+                (ii)
+
+                 Information regarding—
+
+                    (I) whether the service ordered would adhere to the applicable appropriate use criteria specified under paragraph (2);
+
+                    (II) whether the service ordered would not adhere to such criteria; or
+
+                    (III) whether such criteria was not applicable to the service ordered.
+
+                (iii) The national provider identifier of the ordering professional (if different from the furnishing professional).
+
+            (C) __Exceptions__ 
+
+            The provisions of subparagraphs (A) and (B) and paragraph (6)(A) shall not apply to the following:
+
+                (i) __Emergency services__ 
+
+                    An applicable imaging service ordered for an individual with an emergency medical condition (as defined in [section 1395dd(e)(1) of this title][/us/usc/t42/s1395dd/e/1]).
+
+                (ii) __Inpatient services__ 
+
+                    An applicable imaging service ordered for an inpatient and for which payment is made under part A.
+
+                (iii) __Significant hardship__ 
+
+                    An applicable imaging service ordered by an ordering professional who the Secretary may, on a case-by-case basis, exempt from the application of such provisions if the Secretary determines, subject to annual renewal, that consultation with applicable appropriate use criteria would result in a significant hardship, such as in the case of a professional who practices in a rural area without sufficient Internet access.
+
+            (D) __Applicable payment system defined__ 
+
+            In this subsection, the term “applicable payment system” means the following:
+
+                (i) The physician fee schedule established under [section 1395w–4(b) of this title][/us/usc/t42/s1395w–4/b].
+
+                (ii) The prospective payment system for hospital outpatient department services under section 1395l(t) of this title.
+
+                (iii) The ambulatory surgical center payment systems under section 1395l(i) of this title.
+
+        (5) __Identification of outlier ordering professionals__ 
+
+            (A) __In general__ 
+
+                With respect to applicable imaging services furnished beginning with 2017, the Secretary shall determine, on an annual basis, no more than five percent of the total number of ordering professionals who are outlier ordering professionals.
+
+            (B) __Outlier ordering professionals__ 
+
+            The determination of an outlier ordering professional shall—
+
+                (i) be based on low adherence to applicable appropriate use criteria specified under paragraph (2), which may be based on comparison to other ordering professionals; and
+
+                (ii) include data for ordering professionals for whom prior authorization under paragraph (6)(A) applies.
+
+            (C) __Use of two years of data__ 
+
+                The Secretary shall use two years of data to identify outlier ordering professionals under this paragraph.
+
+            (D) __Process__ 
+
+                The Secretary shall establish a process for determining when an outlier ordering professional is no longer an outlier ordering professional.
+
+            (E) __Consultation with stakeholders__ 
+
+                The Secretary shall consult with physicians, practitioners and other stakeholders in developing methods to identify outlier ordering professionals under this paragraph.
+
+        (6) __Prior authorization for ordering professionals who are outliers__ 
+
+            (A) __In general__ 
+
+                Beginning January 1, 2020, subject to paragraph (4)(C), with respect to services furnished during a year, the Secretary shall, for a period determined appropriate by the Secretary, apply prior authorization for applicable imaging services that are ordered by an outlier ordering professional identified under paragraph (5).
+
+            (B) __Appropriate use criteria in prior authorization__ 
+
+                In applying prior authorization under subparagraph (A), the Secretary shall utilize only the applicable appropriate use criteria specified under this subsection.
+
+            (C) __Funding__ 
+
+                For purposes of carrying out this paragraph, the Secretary shall provide for the transfer, from the Federal Supplementary Medical Insurance Trust Fund under [section 1395t of this title][/us/usc/t42/s1395t], of $5,000,000 to the Centers for Medicare & Medicaid Services Program Management Account for each of fiscal years 2019 through 2021. Amounts transferred under the preceding sentence shall remain available until expended.
+
+        (7) __Construction__ 
+
+            Nothing in this subsection shall be construed as granting the Secretary the authority to develop or initiate the development of clinical practice guidelines or appropriate use criteria.
+
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1834, as added and amended [Pub. L. 100–203, title IV][/us/pl/100/203], §§ 4049(a)(2), 4062(b), Dec. 22, 1987, [101 Stat. 1330–91][/us/stat/101/1330-91], 1330–100; [Pub. L. 100–360, title II][/us/pl/100/360], §§ 202(b)(4), 203(c)(1)(F), 204(b), title IV, § 411(a)(3)(A), (B)(ii), (C)(ii), (f)(8)(A), (B)(ii), (D), (g)(1)(A), (B), July 1, 1988, [102 Stat. 704][/us/stat/102/704], 722, 726, 768, 779, 781; [Pub. L. 100–485, title VI, § 608(d)(21)(C)][/us/pl/100/485/s608/d/21/C], (22)(A), Oct. 13, 1988, [102 Stat. 2420][/us/stat/102/2420]; [Pub. L. 101–234, title II, § 201(a)][/us/pl/101/234/s201/a], title III, § 301(b)(1), (c)(1), Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981], 1985; [Pub. L. 101–239, title VI][/us/pl/101/239], §§ 6102(f)(1), 6105(a), 6112(a), (c), (d)(1), (e)(2), 6116(b)(2), 6140, Dec. 19, 1989, [103 Stat. 2188][/us/stat/103/2188], 2210, 2214–2216, 2220, 2224; [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4102(a), (d), (f), 4104(a), 4152(a)(1), (b), (c)(1)–(4)(B)(i), (e), (f)(1), (g)(1), 4153(a)(1), (2)(D), 4163(b), Nov. 5, 1990, [104 Stat. 1388–55][/us/stat/104/1388-55], 1388–57, 1388–59, 1388–74, 1388–77 to 1388–81, 1388–83, 1388–97; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13542(a), 13543(a), (b), 13544(a)(1), (2), (b)(1), 13545(a), 13546, Aug. 10, 1993, [107 Stat. 587][/us/stat/107/587], 589, 590; [Pub. L. 103–432, title I][/us/pl/103/432], §§ 102(e), 126(b)(1), (2), (4), (5), (g)(1), (10)(B), 131(a), 132(a), (b), 133(a)(1), 134(a)(1), 135(a)(1), (b)(1), (3), (d)(1), (e)(2)–(5), 145(a), 156(a)(2)(C), Oct. 31, 1994, [108 Stat. 4403][/us/stat/108/4403], 4414–4416, 4419, 4421, 4424, 4427, 4440; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4101(a), (c), 4104(b)(1), 4105(b)(2), 4201(c)(5), 4312(a), (c), 4316(b), 4531(b)(2), 4541(a)(2), 4551(a), (c)(1), 4552(a), (b), Aug. 5, 1997, [111 Stat. 360][/us/stat/111/360], 363, 367, 374, 386, 387, 392, 451, 455, 457–459; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 201(e)(2), title III, § 321(k)(3), title IV, § 403(d)(1)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–340, 1501A–366, 1501A–371; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, §§ 103(b), 104(b), title II, §§ 201(a), 202(a), 204(a), 205(a), 221(a), 223(b), title IV, §§ 423(a)(1), (b)(1), 425(a), 426(a), 427(a), 428(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–468, 2763A–469, 2763A–481, 2763A–482, 2763A–486, 2763A–487, 2763A–518 to 2763A–520, 2763A–522; [Pub. L. 108–173, title III, § 302(a)][/us/pl/108/173/s302/a], (c)(1)(A), (2), (3), (d)(1), (2), title IV, §§ 405(a)(1), (b)(1), (d)(1), 414(a)–(c)(1), (d), 415(a), title VI, § 627(b)(1), title VII, § 736(b)(4), (5), Dec. 8, 2003, [117 Stat. 2223][/us/stat/117/2223], 2230–2232, 2266, 2267, 2278–2281, 2321, 2356; [Pub. L. 109–171, title V][/us/pl/109/171], §§ 5101(a)(1), (b)(1), 5113(b), Feb. 8, 2006, [120 Stat. 37][/us/stat/120/37], 38, 44; [Pub. L. 110–275, title I][/us/pl/110/275], §§ 125(b)(5), 135(a)(1), 144(b)(1), 146(a), (b)(2)(A), 148(a), 149(a), 154(a)(2)(A), (3), (4), (b)(1)(A), (d)(2), July 15, 2008, [122 Stat. 2519][/us/stat/122/2519], 2532, 2547–2549, 2563, 2564, 2567; [Pub. L. 111–72, § 1(a)][/us/pl/111/72/s1/a], Oct. 13, 2009, [123 Stat. 2059][/us/stat/123/2059]; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3105(a), (c), 3109(a), 3128(a), 3136(a), (b), 3401(j), (m), (n), title IV, § 4105(a), title V, §§ 5501(a)(2), (b)(2), 5502(b), title VI, §§ 6402(g)(1), 6405(a), 6407(b), 6410(b), title X, §§ 10311(a), (c), 10501(i)(1), (3)(A), Mar. 23, 2010, [124 Stat. 417][/us/stat/124/417], 418, 426, 437, 438, 486, 487, 558, 653, 654, 759, 768, 770, 773, 942, 943, 997; [Pub. L. 111–309, title I, § 106(a)][/us/pl/111/309/s106/a], (c), Dec. 15, 2010, [124 Stat. 3287][/us/stat/124/3287]; [Pub. L. 112–78, title III, § 306(a)][/us/pl/112/78/s306/a], (c), Dec. 23, 2011, [125 Stat. 1285][/us/stat/125/1285]; [Pub. L. 112–96, title III, § 3007(a)][/us/pl/112/96/s3007/a], (c), Feb. 22, 2012, [126 Stat. 190][/us/stat/126/190]; [Pub. L. 112–240, title VI][/us/pl/112/240], §§ 604(a), (c), 633(b), 636, 637, Jan. 2, 2013, [126 Stat. 2347][/us/stat/126/2347], 2348, 2355–2357; [Pub. L. 113–67, div. B, title I, § 1104][/us/pl/113/67/s1104], Dec. 26, 2013, [127 Stat. 1196][/us/stat/127/1196]; [Pub. L. 113–93, title I, § 104][/us/pl/113/93/s104], title II, § 218(a)(1), (b)(1), Apr. 1, 2014, [128 Stat. 1042][/us/stat/128/1042], 1063, 1065.)
 
  __References in Text__ 
 
@@ -1742,6 +1994,14 @@
     A prior section 1395m, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1834, as added July 30, 1965, [Pub. L. 89–97, title I, § 102(a)][/us/pl/89/97/s102/a], [79 Stat. 303][/us/stat/79/303], prescribed limitations on payments for home health services, prior to repeal by [Pub. L. 96–499, title IX, § 930(i)][/us/pl/96/499/s930/i], Dec. 5, 1980, [94 Stat. 2631][/us/stat/94/2631], effective with respect to services furnished on or after July 1, 1981.
 
  __Amendments__ 
+
+    2014—Subsec. (l)(12)(A). [Pub. L. 113–93, § 104(b)][/us/pl/113/93/s104/b], substituted “April 1, 2015” for “April 1, 2014”.
+
+    Subsec. (l)(13)(A). [Pub. L. 113–93, § 104(a)][/us/pl/113/93/s104/a], substituted “April 1, 2015” for “April 1, 2014” wherever appearing.
+
+    Subsec. (p). [Pub. L. 113–93, § 218(a)(1)][/us/pl/113/93/s218/a/1], added subsec. (p).
+
+    Subsec. (q). [Pub. L. 113–93, § 218(b)(1)][/us/pl/113/93/s218/b/1], added subsec. (q).
 
     2013—Subsec. (a)(1)(F). [Pub. L. 112–240, § 636(a)(1)][/us/pl/112/240/s636/a/1], substituted “subparagraphs (G) and (H)” for “subparagraph (G)” in introductory provisions.
 
@@ -3393,7 +3653,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395l.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395n.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395l.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXVIII/ptB/m__us_usc_t42_s1395m–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m)
 
 ----------
 ----------
@@ -3508,6 +3768,16 @@
 [/us/usc/t42/s1395cc/a/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%2Fa%2F2%2FA%2Fii
 [/us/usc/t42/s1395u/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fi%2F3
 [/us/usc/t42/s1395u/i/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fi%2F3
+[/us/usc/t42/s1395w–4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fb
+[/us/usc/t42/s1395m/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395m%2Fe
+[/us/usc/t42/s1395bb/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395bb%2Fa
+[/us/usc/t42/s1395x/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fr
+[/us/usc/t42/s1395u/b/18/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fb%2F18%2FC
+[/us/usc/t42/s1395x/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x%2Fr
+[/us/usc/t42/s1395u/b/18/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u%2Fb%2F18%2FC
+[/us/usc/t42/s1395dd/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395dd%2Fe%2F1
+[/us/usc/t42/s1395w–4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%934%2Fb
+[/us/usc/t42/s1395t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395t
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/stat/101/1330-91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-91
@@ -3551,6 +3821,8 @@
 [/us/stat/126/2347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2347
 [/us/pl/113/67/s1104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs1104
 [/us/stat/127/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1196
+[/us/pl/113/93/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs104
+[/us/stat/128/1042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1042
 [/us/pl/108/173/s302/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs302%2Fc%2F1%2FB
 [/us/pl/105/33/s4531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4531%2Fa
 [/us/pl/101/508/s4152/c/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs4152%2Fc%2F4%2FB%2Fi
@@ -3560,6 +3832,10 @@
 [/us/stat/79/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F303
 [/us/pl/96/499/s930/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F499%2Fs930%2Fi
 [/us/stat/94/2631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2631
+[/us/pl/113/93/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs104%2Fb
+[/us/pl/113/93/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs104%2Fa
+[/us/pl/113/93/s218/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs218%2Fa%2F1
+[/us/pl/113/93/s218/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs218%2Fb%2F1
 [/us/pl/112/240/s636/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs636%2Fa%2F1
 [/us/pl/112/240/s636/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs636%2Fa%2F2
 [/us/pl/112/240/s636/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs636%2Fb

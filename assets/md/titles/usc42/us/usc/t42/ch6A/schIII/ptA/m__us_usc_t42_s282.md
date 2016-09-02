@@ -55,7 +55,11 @@
 
                     (III) ensure appropriate consideration of proposals for which the principal investigator is an individual who has not previously served as the principal investigator of research conducted or supported by the National Institutes of Health;
 
-            (B) may, with respect to funds reserved under [section 282a(c)(1) of this title][/us/usc/t42/s282a/c/1] for the Common Fund, allocate such funds to the national research institutes and national centers for conducting and supporting research that is identified under subparagraph (A); and
+            (B)
+
+                (i) may, with respect to funds reserved under [section 282a(c)(1) of this title][/us/usc/t42/s282a/c/1] for the Common Fund, allocate such funds to the national research institutes and national centers for conducting and supporting research that is identified under subparagraph (A); and
+
+                (ii) shall, with respect to funds appropriated to the Common Fund pursuant to [section 282a(a)(2) of this title][/us/usc/t42/s282a/a/2], allocate such funds to the national research institutes and national centers for making grants for pediatric research that is identified under subparagraph (A); and
 
             (C) may assign additional functions to the Division in support of responsibilities identified in subparagraph (A), as determined appropriate by the Director;
 
@@ -859,7 +863,7 @@
 
                 Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member’s term until a successor has taken office.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 402, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 823][/us/stat/99/823]; amended [Pub. L. 100–607, title I, § 111][/us/pl/100/607/s111], Nov. 4, 1988, [102 Stat. 3052][/us/stat/102/3052]; [Pub. L. 102–321, title I, § 163(b)(3)][/us/pl/102/321/s163/b/3], July 10, 1992, [106 Stat. 376][/us/stat/106/376]; [Pub. L. 103–43, title I, § 141(b)][/us/pl/103/43/s141/b], title II, §§ 201, 202, 206, 208, 210(b), (c), title III, § 303(b), June 10, 1993, [107 Stat. 139][/us/stat/107/139], 144, 148–150, 153; [Pub. L. 105–115, title I, § 113(a)][/us/pl/105/115/s113/a], Nov. 21, 1997, [111 Stat. 2310][/us/stat/111/2310]; [Pub. L. 105–362, title VI, § 601(a)(1)(A)][/us/pl/105/362/s601/a/1/A], Nov. 10, 1998, [112 Stat. 3285][/us/stat/112/3285]; [Pub. L. 105–392, title IV, § 409][/us/pl/105/392/s409], Nov. 13, 1998, [112 Stat. 3589][/us/stat/112/3589]; [Pub. L. 107–109, § 15(c)(2)][/us/pl/107/109/s15/c/2], Jan. 4, 2002, [115 Stat. 1420][/us/stat/115/1420]; [Pub. L. 109–482, title I][/us/pl/109/482], §§ 102(a)–(d), (f)(1)(A), 103(b)(1), Jan. 15, 2007, [120 Stat. 3681][/us/stat/120/3681], 3683, 3684, 3687; [Pub. L. 110–85, title III, § 304(a)][/us/pl/110/85/s304/a], title VIII, § 801(a), title XI, § 1104(2), Sept. 27, 2007, [121 Stat. 863][/us/stat/121/863], 904, 975; [Pub. L. 110–316, title III, § 302][/us/pl/110/316/s302], Aug. 14, 2008, [122 Stat. 3524][/us/stat/122/3524]; [Pub. L. 111–148, title X, § 10409(b)][/us/pl/111/148/s10409/b], Mar. 23, 2010, [124 Stat. 978][/us/stat/124/978]; [Pub. L. 112–74, div. F, title II, § 221(b)(5)(B)][/us/pl/112/74/s221/b/5/B], (d)(1), Dec. 23, 2011, [125 Stat. 1089][/us/stat/125/1089], 1090.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 402, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 823][/us/stat/99/823]; amended [Pub. L. 100–607, title I, § 111][/us/pl/100/607/s111], Nov. 4, 1988, [102 Stat. 3052][/us/stat/102/3052]; [Pub. L. 102–321, title I, § 163(b)(3)][/us/pl/102/321/s163/b/3], July 10, 1992, [106 Stat. 376][/us/stat/106/376]; [Pub. L. 103–43, title I, § 141(b)][/us/pl/103/43/s141/b], title II, §§ 201, 202, 206, 208, 210(b), (c), title III, § 303(b), June 10, 1993, [107 Stat. 139][/us/stat/107/139], 144, 148–150, 153; [Pub. L. 105–115, title I, § 113(a)][/us/pl/105/115/s113/a], Nov. 21, 1997, [111 Stat. 2310][/us/stat/111/2310]; [Pub. L. 105–362, title VI, § 601(a)(1)(A)][/us/pl/105/362/s601/a/1/A], Nov. 10, 1998, [112 Stat. 3285][/us/stat/112/3285]; [Pub. L. 105–392, title IV, § 409][/us/pl/105/392/s409], Nov. 13, 1998, [112 Stat. 3589][/us/stat/112/3589]; [Pub. L. 107–109, § 15(c)(2)][/us/pl/107/109/s15/c/2], Jan. 4, 2002, [115 Stat. 1420][/us/stat/115/1420]; [Pub. L. 109–482, title I][/us/pl/109/482], §§ 102(a)–(d), (f)(1)(A), 103(b)(1), Jan. 15, 2007, [120 Stat. 3681][/us/stat/120/3681], 3683, 3684, 3687; [Pub. L. 110–85, title III, § 304(a)][/us/pl/110/85/s304/a], title VIII, § 801(a), title XI, § 1104(2), Sept. 27, 2007, [121 Stat. 863][/us/stat/121/863], 904, 975; [Pub. L. 110–316, title III, § 302][/us/pl/110/316/s302], Aug. 14, 2008, [122 Stat. 3524][/us/stat/122/3524]; [Pub. L. 111–148, title X, § 10409(b)][/us/pl/111/148/s10409/b], Mar. 23, 2010, [124 Stat. 978][/us/stat/124/978]; [Pub. L. 112–74, div. F, title II, § 221(b)(5)(B)][/us/pl/112/74/s221/b/5/B], (d)(1), Dec. 23, 2011, [125 Stat. 1089][/us/stat/125/1089], 1090; [Pub. L. 113–94, § 3(a)][/us/pl/113/94/s3/a], Apr. 3, 2014, [128 Stat. 1086][/us/stat/128/1086].)
 
  __References in Text__ 
 
@@ -874,6 +878,8 @@
     In subsec. (b)(14)(B), “[section 8141 of title 40][/us/usc/t40/s8141]” substituted for “the Act of March 3, 1877 ([40 U.S.C. 34][/us/usc/t40/s34])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(7). [Pub. L. 113–94][/us/pl/113/94] amended par. (7) generally, enacting similar provisions and adding provisions relating to allocating funds appropriated pursuant to [section 282a(a)(2) of this title][/us/usc/t42/s282a/a/2] for making grants for pediatric research.
 
     2011—Subsec. (b)(24). [Pub. L. 112–74, § 221(d)(1)][/us/pl/112/74/s221/d/1], substituted “287a” for “282d”.
 
@@ -1093,6 +1099,7 @@
 [/us/usc/t42/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs241
 [/us/usc/t42/s283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs283
 [/us/usc/t42/s282a/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282a%2Fc%2F1
+[/us/usc/t42/s282a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282a%2Fa%2F2
 [/us/usc/t42/s289a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289a
 [/us/usc/t42/s289a–1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289a%E2%80%931%2Fa%2F2
 [/us/usc/t42/s284a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284a
@@ -1172,6 +1179,8 @@
 [/us/stat/124/978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F978
 [/us/pl/112/74/s221/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F5%2FB
 [/us/stat/125/1089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1089
+[/us/pl/113/94/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94%2Fs3%2Fa
+[/us/stat/128/1086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1086
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
@@ -1183,6 +1192,8 @@
 [/us/usc/t40/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs34
 [/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
+[/us/pl/113/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F94
+[/us/usc/t42/s282a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs282a%2Fa%2F2
 [/us/pl/112/74/s221/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fd%2F1
 [/us/pl/112/74/s221/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fb%2F5%2FB
 [/us/usc/t42/s285k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs285k

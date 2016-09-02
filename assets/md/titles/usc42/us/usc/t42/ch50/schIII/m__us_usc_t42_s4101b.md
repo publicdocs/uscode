@@ -35,9 +35,11 @@
 
                 (iii) areas of residual risk, including areas that are protected by levees, dams, and other flood control structures;
 
-                (iv) areas that could be inundated as a result of the failure of a levee, dam, or other flood control structure; and
+                (iv) areas that could be inundated as a result of the failure of a levee, dam, or other flood control structure;
 
-                (v) the level of protection provided by flood control structures;
+                (v) areas that are protected by non-structural flood mitigation features; and
+
+                (vi) the level of protection provided by flood control structures and by non-structural flood mitigation features;
 
             (B) establish or update flood-risk zone data in all such areas, and make estimates with respect to the rates of probable flood caused loss for the various flood risk zones for each such area; and
 
@@ -111,7 +113,15 @@
 
         The Administrator shall—
 
-            (A)
+            (A) before commencement of any mapping or map updating process, notify each community affected of the model or models that the Administrator plans to use in such process and provide an explanation of why such model or models are appropriate;
+
+            (B) provide each community affected a 30-day period beginning upon notification under subparagraph (A) to consult with the Administrator regarding the appropriateness, with respect to such community, of the mapping model or models to be used; provided that consultation by a community pursuant to this subparagraph shall not waive or otherwise affect any right of the community to appeal any flood hazard determinations;
+
+            (C) upon completion of the first Independent Data Submission, transmit a copy of such Submission to the affected community, provide the affected community a 30-day period during which the community may provide data to Administrator  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “the”. </sup></sup>  that can be used to supplement or modify the existing data, and incorporate any data that is consistent with prevailing engineering principles;
+
+            (D) work with States, local communities, and property owners to identify areas and features described in subsection (b)(1)(A)(v);
+
+            (E)
 
              work to enhance communication and outreach to States, local communities, and property owners about the effects—
 
@@ -119,9 +129,25 @@
 
                 (ii) that any such changes may have on flood insurance purchase requirements;
 
-            (B) engage with local communities to enhance communication and outreach to the residents of such communities, including tenants (with regard to contents insurance), on the matters described under subparagraph (A); and
+            (F) engage with local communities to enhance communication and outreach to the residents of such communities, including tenants (with regard to contents insurance), on the matters described under subparagraph (E);
 
-            (C) upon the issuance of any proposed map and any notice of an opportunity to make an appeal relating to the proposed map, notify the Senators for each State affected and each Member of the House of Representatives for each congressional district affected by the proposed map of any action taken by the Administrator with respect to the proposed map or an appeal relating to the proposed map.
+            (G)
+
+             not less than 30 days before issuance of any preliminary map, notify the Senators for each State affected and each Member of the House of Representatives for each congressional district affected by the preliminary map in writing of—
+
+                (i)
+
+                 the estimated schedule for—
+
+                    (I) community meetings regarding the preliminary map;
+
+                    (II) publication of notices regarding the preliminary map in local newspapers; and
+
+                    (III) the commencement of the appeals process regarding the map; and
+
+                (ii) the estimated number of homes and businesses that will be affected by changes contained in the preliminary map, including how many structures will be  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The words “will be” probably should not appear. </sup></sup>  that were not previously located in an area having special flood hazards will be located within such an area under the preliminary map; and
+
+            (H) upon the issuance of any proposed map and any notice of an opportunity to make an appeal relating to the proposed map, notify the Senators for each State affected and each Member of the House of Representatives for each congressional district affected by the proposed map of any action taken by the Administrator with respect to the proposed map or an appeal relating to the proposed map.
 
         (2) __Required activities__ 
 
@@ -145,7 +171,7 @@
 
         There is authorized to be appropriated to the Administrator to carry out this section $400,000,000 for each of fiscal years 2013 through 2017.
 
-([Pub. L. 112–141, div. F, title II, § 100216][/us/pl/112/141/s100216], July 6, 2012, [126 Stat. 927][/us/stat/126/927].)
+([Pub. L. 112–141, div. F, title II, § 100216][/us/pl/112/141/s100216], July 6, 2012, [126 Stat. 927][/us/stat/126/927]; [Pub. L. 113–89][/us/pl/113/89], §§ 27, 30, Mar. 21, 2014, [128 Stat. 1033][/us/stat/128/1033], 1034.)
 
  __References in Text__ 
 
@@ -154,6 +180,34 @@
  __Codification__ 
 
     Section was enacted as part of the Biggert-Waters Flood Insurance Reform Act of 2012, and also as part of the Moving Ahead for Progress in the 21st Century Act, also known as the MAP–21, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
+
+ __Amendments__ 
+
+    2014—Subsec. (b)(1)(A)(v), (vi). [Pub. L. 113–89, § 27(1)][/us/pl/113/89/s27/1], added cl. (v), redesignated former cl. (v) as (vi), and, in cl. (vi), inserted “and by non-structural flood mitigation features” before semicolon at end.
+
+    Subsec. (d)(1)(A). [Pub. L. 113–89, § 30(3)][/us/pl/113/89/s30/3], added subpar. (A). Former subpar. (A) redesignated (D).
+
+    [Pub. L. 113–89, § 27(2)(C)][/us/pl/113/89/s27/2/C], added subpar. (A). Former subpar. (A) redesignated (B).
+
+    Subsec. (d)(1)(B). [Pub. L. 113–89, § 30(3)][/us/pl/113/89/s30/3], added subpar. (B). Former subpar. (B) redesignated (E).
+
+    [Pub. L. 113–89, § 27(2)(A)][/us/pl/113/89/s27/2/A], redesignated subpar. (A) as (B). Former subpar. (B) redesignated (C).
+
+    Subsec. (d)(1)(C). [Pub. L. 113–89, § 30(3)][/us/pl/113/89/s30/3], added subpar. (C). Former subpar. (C) redesignated (F).
+
+    [Pub. L. 113–89, § 30(1)][/us/pl/113/89/s30/1], substituted “subparagraph (E)” for “subparagraph (B)” and struck out “and” at end.
+
+    [Pub. L. 113–89, § 27(2)(A)][/us/pl/113/89/s27/2/A], (B), redesignated subpar. (B) as (C) and substituted “subparagraph (B)” for “subparagraph (A)”. Former subpar. (C) redesignated (D).
+
+    Subsec. (d)(1)(D). [Pub. L. 113–89, § 30(2)][/us/pl/113/89/s30/2], redesignated subpar. (A) as (D). Former subpar. (D) redesignated (H).
+
+    [Pub. L. 113–89, § 27(2)(A)][/us/pl/113/89/s27/2/A], redesignated subpar. (C) as (D).
+
+    Subsec. (d)(1)(E), (F). [Pub. L. 113–89, § 30(2)][/us/pl/113/89/s30/2], redesignated subpars. (B) and (C) as (E) and (F), respectively.
+
+    Subsec. (d)(1)(G). [Pub. L. 113–89, § 30(4)][/us/pl/113/89/s30/4], added subpar. (G).
+
+    Subsec. (d)(1)(H). [Pub. L. 113–89, § 30(2)][/us/pl/113/89/s30/2], redesignated subpar. (D) as (H).
 
  __Definitions__ 
 
@@ -172,9 +226,24 @@
 [/us/usc/t42/s4011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4011
 [/us/pl/112/141/s100216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs100216
 [/us/stat/126/927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F927
+[/us/pl/113/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89
+[/us/stat/128/1033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1033
 [/us/pl/90/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F448
 [/us/stat/82/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F572
 [/us/usc/t42/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4001
+[/us/pl/113/89/s27/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs27%2F1
+[/us/pl/113/89/s30/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs30%2F3
+[/us/pl/113/89/s27/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs27%2F2%2FC
+[/us/pl/113/89/s30/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs30%2F3
+[/us/pl/113/89/s27/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs27%2F2%2FA
+[/us/pl/113/89/s30/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs30%2F3
+[/us/pl/113/89/s30/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs30%2F1
+[/us/pl/113/89/s27/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs27%2F2%2FA
+[/us/pl/113/89/s30/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs30%2F2
+[/us/pl/113/89/s27/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs27%2F2%2FA
+[/us/pl/113/89/s30/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs30%2F2
+[/us/pl/113/89/s30/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs30%2F4
+[/us/pl/113/89/s30/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F89%2Fs30%2F2
 [/us/usc/t42/s4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4004
 
 

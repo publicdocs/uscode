@@ -13,7 +13,7 @@
 
 [Previous](./../../../..//us/usc/t42/ch50/m__us_usc_t42_s4002.md) | [Next](./../../../..//us/usc/t42/ch50/m__us_usc_t42_s4004.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4003)
 
-## § 4003. Additional definitions
+## § 4003. Definitions applicable to Flood Disaster Protection Act of 1973
 
     (a)
 
