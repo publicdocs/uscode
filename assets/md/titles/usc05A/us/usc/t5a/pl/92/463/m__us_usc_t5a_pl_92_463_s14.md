@@ -69,11 +69,39 @@ By the authority vested in me as President by the Constitution and the laws of t
 
  __Continuance of Certain Federal Advisory Committees__ 
 
-    Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, provided:
+    Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, provided:
 
-By the authority vested in me as President, by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
 
-    Section 1. Each advisory committee listed below is continued until September 30, 2015.
+    Section 1. Each advisory committee listed below is continued until September 30, 2013.
+
+    (a) Presidential Commission for the Study of Bioethical Issues; Executive Order 13521 (Department of Health and Human Services).
+
+    (b) National Council on Federal Labor-Management Relations; Executive Order 13522 (Office of Personnel Management).
+
+    (c) President’s Board of Advisors on Historically Black Colleges and Universities; Executive Order 13532 (Department of Education).
+
+    (d) President’s Management Advisory Board; Executive Order 13538 (General Services Administration).
+
+    (e) President’s Council of Advisors on Science and Technology; Executive Order 13539 (Office of Science and Technology Policy).
+
+    (f) Interagency Task Force on Veterans Small Business Development; Executive Order 13540 (Small Business Administration).
+
+    (g) State, Local, Tribal, and Private Sector (SLTPS) Policy Advisory Committee; Executive Order 13549, as amended (National Archives and Records Administration).
+
+    Sec. 2. The following advisory committee is continued until September 30, 2012: Advisory Group on Prevention, Health Promotion, and Integrative and Public Health; Executive Order 13544 (Department of Health and Human Services).
+
+    Sec. 3. \[Amended Ex. Ord. No. 13530, set out as a note under [section 9701 of Title 20][/us/usc/t20/s9701], Education.\]
+
+    Sec. 4. Notwithstanding the provisions of any other Executive Order, the functions of the President under the Federal Advisory Committee Act that are applicable to the committees listed in sections 1 and 2 of this order shall be performed by the head of the department or agency designated after each committee, in accordance with the guidelines and procedures established by the Administrator of General Services.
+
+                              Barack Obama.
+
+    Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, as amended by Ex. Ord. No. 13592, § 5(c), Dec. 2, 2011, 76 F.R. 76607, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
+
+    Section 1. Each advisory committee listed below is continued until September 30, 2013.
 
     (a) Committee for the Preservation of the White House; Executive Order 11145, as amended (Department of the Interior).
 
@@ -101,55 +129,21 @@ By the authority vested in me as President, by the Constitution and the laws of 
 
     (m) President’s Council on Fitness, Sports, and Nutrition; Executive Order 13265, as amended (Department of Health and Human Services).
 
-    (n) President’s Advisory Council on Faith-Based and Neighborhood Partnerships; Executive Order 13498, re-established by Executive Order 13569, and continued by Executive Order 13640 (Department of Health and Human Services).
+    (n) \[Revoked by Ex. Ord. No. 13592, § 5(c), Dec. 2, 2011, 76 F.R. 76607.\]
 
-    (o) President’s Advisory Commission on Asian Americans and Pacific Islanders; Executive Order 13515, as amended (Department of Education).
+    (o) President’s Advisory Commission on Asian Americans and Pacific Islanders; Executive Order 13515 (Department of Education).
 
-    (p) Presidential Commission for the Study of Bioethical Issues; Executive Order 13521 (Department of Health and Human Services).
+    Sec. 2. Notwithstanding the provisions of any other Executive Order, the functions of the President under the Federal Advisory Committee Act that are applicable to the committees listed in section 1 of this order shall be performed by the head of the department or agency designated after each committee, in accordance with the guidelines and procedures established by the Administrator of General Services.
 
-    (q) National Council on Federal Labor-Management Relations; Executive Order 13522 (Office of Personnel Management).
+    Sec. 3. Sections 1 and 2 of Executive Order 13511 are superseded by sections 1 and 2 of this order.
 
-    (r) President’s Board of Advisors on Historically Black Colleges and Universities; Executive Order 13532, as amended (Department of Education).
+    Sec. 4. \[Amended Ex. Ord. No. 13515, set out as a note under [section 1501 of Title 15][/us/usc/t15/s1501], Commerce and Trade.\]
 
-    (s) President’s Management Advisory Board; Executive Order 13538 (General Services Administration).
-
-    (t) President’s Council of Advisors on Science and Technology; Executive Order 13539, as amended (Department of Energy).
-
-    (u) Interagency Task Force on Veterans Small Business Development; Executive Order 13540 (Small Business Administration).
-
-    (v) Advisory Group on Prevention, Health Promotion, and Integrative and Public Health; Executive Order 13544, re-established by Executive Order 13631 (Department of Health and Human Services).
-
-    (w) State, Local, Tribal, and Private Sector (SLTPS) Policy Advisory Committee; Executive Order 13549, as amended (National Archives and Records Administration).
-
-    (x) President’s Advisory Commission on Educational Excellence for Hispanics; Executive Order 13555, re-established by Executive Order 13634 (Department of Education).
-
-    (y) President’s Global Development Council; Executive Order 13600 (United States Agency for International Development).
-
-    (z) President’s Advisory Commission on Educational Excellence for African Americans; Executive Order 13621 (Department of Education).
-
-    Sec. 2. Notwithstanding the provisions of any other Executive Order, the functions of the President under the Federal Advisory Committee Act that are applicable to the committees listed in section 1 of this order shall be performed by the head of the department or agency designated after each committee, in accordance with the regulations, guidelines, and procedures established by the Administrator of General Services.
-
-    Sec. 3. Sections 1 and 2 of Executive Order 13585 of September 30, 2011, and sections 1, 2, and 4 of Executive Order 13591 of November 23, 2011, are superseded by sections 1 and 2 of this order.
-
-    Sec. 4. \[Amended Ex. Ord. No. 13538, set out as a note under [section 301 of Title 40][/us/usc/t40/s301], Public Buildings, Property, and Works.\]
-
-    Sec. 5. \[Amended Ex. Ord. No. 13043, set out as a note under [section 402 of Title 23][/us/usc/t23/s402], Highways.\]
-
-    Sec. 6. \[Amended Ex. Ord. No. 13231, set out as a note under [section 121 of Title 6][/us/usc/t6/s121], Domestic Security.\]
-
-    Sec. 7. \[Amended Ex. Ord. No. 13600, set out as a note under [section 2151 of Title 22][/us/usc/t22/s2151], Foreign Relations and Intercourse.\]
-
-    Sec. 8. \[Amended Ex. Ord. No. 13515, set out as a note under [section 1501 of Title 15][/us/usc/t15/s1501], Commerce and Trade.\]
-
-    Sec. 9. This order shall be effective September 30, 2013.
+    Sec. 5. This order shall be effective September 30, 2011.
 
                               Barack Obama.
 
     Provisions providing for the continuance of certain Federal advisory committees were contained in the following:
-
-    Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, partially superseded by Ex. Ord. No. 13652, § 3, Sept. 30, 2013, 78 F.R. 61818.
-
-    Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, as amended by Ex. Ord. No. 13592, § 5(c), Dec. 2, 2011, 76 F.R. 76607, partially superseded by Ex. Ord. No. 13652, § 3, Sept. 30, 2013, 78 F.R. 61818.
 
     Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, partially superseded by Ex. Ord. No. 13585, § 3, Sept. 30, 2011, 76 F.R. 62281.
 
@@ -212,10 +206,7 @@ By the authority vested in me as President, by the Constitution and the laws of 
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/pl/92/463/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs15
-[/us/usc/t40/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs301
-[/us/usc/t23/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs402
-[/us/usc/t6/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs121
-[/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
+[/us/usc/t20/s9701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9701
 [/us/usc/t15/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1501
 
 

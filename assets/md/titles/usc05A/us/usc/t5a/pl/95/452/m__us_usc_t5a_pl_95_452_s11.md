@@ -17,11 +17,11 @@
 
     (a) __Establishment and Mission.—__ 
 
-        (1)  __Establishment__  __.—__ 
+        (1) __Establishment.—__ 
 
         There is established as an independent entity within the executive branch the Council of the Inspectors General on Integrity and Efficiency (in this section referred to as the “Council”).
 
-        (2)  __Mission__  __.—__ 
+        (2) __Mission.—__ 
 
         The mission of the Council shall be to—
 
@@ -31,7 +31,7 @@
 
     (b) __Membership.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         The Council shall consist of the following members:
 
@@ -61,17 +61,17 @@
 
         (2) __Chairperson and executive chairperson.—__ 
 
-            (A)  __Executive chairperson__  __.—__ 
+            (A) __Executive chairperson.—__ 
 
             The Deputy Director for Management of the Office of Management and Budget shall be the Executive Chairperson of the Council.
 
-            (B)  __Chairperson__  __.—__ 
+            (B) __Chairperson.—__ 
 
             The Council shall elect 1 of the Inspectors General referred to in paragraph (1)(A) or (B) to act as Chairperson of the Council. The term of office of the Chairperson shall be 2 years.
 
         (3) __Functions of chairperson and executive chairperson.—__ 
 
-            (A)  __Executive chairperson__  __.—__ 
+            (A) __Executive chairperson.—__ 
 
             The Executive Chairperson shall—
 
@@ -81,7 +81,7 @@
 
                 (iii) provide to the Council such information relating to the agencies and entities represented on the Council as assists the Council in performing its functions.
 
-            (B)  __Chairperson__  __.—__ 
+            (B) __Chairperson.—__ 
 
             The Chairperson shall—
 
@@ -111,7 +111,7 @@
 
     (c) __Functions and Duties of Council.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         The Council shall—
 
@@ -131,7 +131,7 @@
 
             (H) perform other duties within the authority and jurisdiction of the Council, as appropriate.
 
-        (2)  __Adherence and participation by members__  __.—__ 
+        (2) __Adherence and participation by members.—__ 
 
         To the extent permitted under law, and to the extent not inconsistent with standards established by the Comptroller General of the United States for audits of Federal establishments, organizations, programs, activities, and functions, each member of the Council, as appropriate, shall—
 
@@ -141,7 +141,7 @@
 
         (3) __Additional administrative authorities.—__ 
 
-            (A)  __Interagency funding__  __.—__ 
+            (A) __Interagency funding.—__ 
 
             Notwithstanding [section 1532 of title 31][/us/usc/t31/s1532], United States Code, or any other provision of law prohibiting the interagency funding of activities described under subclause (I), (II), or (III) of clause (i), in the performance of the responsibilities, authorities, and duties of the Council—
 
@@ -159,7 +159,7 @@
 
             (B) __Revolving fund.—__ 
 
-                (i)  __In general__  __.—__ 
+                (i) __In general.—__ 
 
                 The Council may—
 
@@ -169,33 +169,33 @@
 
                 (ii) __Amounts in revolving fund.—__ 
 
-                    (I)  __In general__  __.—__ 
+                    (I) __In general.—__ 
 
                     Amounts transferred to the Council under this subsection shall be deposited in the revolving fund described under clause (i)(I) or (II).
 
-                    (II)  __Training__  __.—__ 
+                    (II) __Training.—__ 
 
                     Any remaining unexpended balances appropriated for or otherwise available to the Inspectors General Criminal Investigator Academy and the Inspectors General Auditor Training Institute shall be transferred to the revolving fund described under clause (i)(I) or (II).
 
                 (iii) __Use of revolving fund.—__ 
 
-                    (I)  __In general__  __.—__ 
+                    (I) __In general.—__ 
 
                     Except as provided under subclause (II), amounts in the revolving fund described under clause (i)(I) or (II) may be used to carry out the functions and duties of the Council under this subsection.
 
-                    (II)  __Training__  __.—__ 
+                    (II) __Training.—__ 
 
                     Amounts transferred into the revolving fund described under clause (i)(I) or (II) may be used for the purpose of maintaining any training academy as determined by the Council.
 
-                (iv)  __Availability of funds__  __.—__ 
+                (iv) __Availability of funds.—__ 
 
                 Amounts in the revolving fund described under clause (i)(I) or (II) shall remain available to the Council without fiscal year limitation.
 
-            (C)  __Superseding provisions__  __.—__ 
+            (C) __Superseding provisions.—__ 
 
             No provision of law enacted after the date of enactment of this subsection shall be construed to limit or supersede any authority under subparagraph (A) or (B), unless such provision makes specific reference to the authority in that paragraph. <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subparagraph.” </sup></sup> 
 
-        (4)  __Existing authorities and responsibilities__  __.—__ 
+        (4) __Existing authorities and responsibilities.—__ 
 
         The establishment and operation of the Council shall not affect—
 
@@ -207,11 +207,11 @@
 
     (d) __Integrity Committee.—__ 
 
-        (1)  __Establishment__  __.—__ 
+        (1) __Establishment.—__ 
 
         The Council shall have an Integrity Committee, which shall receive, review, and refer for investigation allegations of wrongdoing that are made against Inspectors General and staff members of the various Offices of Inspector General described under paragraph (4)(C).
 
-        (2)  __Membership__  __.—__ 
+        (2) __Membership.—__ 
 
         The Integrity Committee shall consist of the following members:
 
@@ -223,13 +223,13 @@
 
             (D) The Director of the Office of Government Ethics.
 
-        (3)  __Legal advisor__  __.—__ 
+        (3) __Legal advisor.—__ 
 
         The Chief of the Public Integrity Section of the Criminal Division of the Department of Justice, or his designee, shall serve as a legal advisor to the Integrity Committee.
 
         (4) __Referral of allegations.—__ 
 
-            (A)  __Requirement__  __.—__ 
+            (A) __Requirement.—__ 
 
             An Inspector General shall refer to the Integrity Committee any allegation of wrongdoing against a staff member of the office of that Inspector General, if—
 
@@ -243,7 +243,7 @@
 
                     (II) an internal investigation of the allegation may appear not to be objective.
 
-            (B)  __Definition__  __.—__ 
+            (B) __Definition.—__ 
 
             In this paragraph the term “staff member” means any employee of an Office of Inspector General who—
 
@@ -251,11 +251,11 @@
 
                 (ii) is designated by an Inspector General under subparagraph (C).
 
-            (C)  __Designation of staff members__  __.—__ 
+            (C) __Designation of staff members.—__ 
 
             Each Inspector General shall annually submit to the Chairperson of the Integrity Committee a designation of positions whose holders are staff members for purposes of subparagraph (B).
 
-        (5)  __Review of allegations__  __.—__ 
+        (5) __Review of allegations.—__ 
 
         The Integrity Committee shall—
 
@@ -267,11 +267,11 @@
 
         (6) __Authority to investigate allegations.—__ 
 
-            (A)  __Requirement__  __.—__ 
+            (A) __Requirement.—__ 
 
             The Chairperson of the Integrity Committee shall cause a thorough and timely investigation of each allegation referred under paragraph (5)(C) to be conducted in accordance with this paragraph.
 
-            (B)  __Resources__  __.—__ 
+            (B) __Resources.—__ 
 
             At the request of the Chairperson of the Integrity Committee, the head of each agency or entity represented on the Council—
 
@@ -281,13 +281,13 @@
 
         (7) __Procedures for investigations.—__ 
 
-            (A)  __Standards applicable__  __.—__ 
+            (A) __Standards applicable.—__ 
 
             Investigations initiated under this subsection shall be conducted in accordance with the most current Quality Standards for Investigations issued by the Council or by its predecessors (the President’s Council on Integrity and Efficiency and the Executive Council on Integrity and Efficiency).
 
             (B) __Additional policies and procedures.—__ 
 
-                (i)  __Establishment__  __.—__ 
+                (i) __Establishment.—__ 
 
                 The Integrity Committee, in conjunction with the Chairperson of the Council, shall establish additional policies and procedures necessary to ensure fairness and consistency in—
 
@@ -299,23 +299,23 @@
 
                     (IV) providing the person who is the subject of an investigation with an opportunity to respond to any Integrity Committee report.
 
-                (ii)  __Submission to congress__  __.—__ 
+                (ii) __Submission to congress.—__ 
 
                 The Council shall submit a copy of the policies and procedures established under clause (i) to the congressional committees of jurisdiction.
 
             (C) __Reports.—__ 
 
-                (i)  __Potentially meritorious allegations__  __.—__ 
+                (i) __Potentially meritorious allegations.—__ 
 
                 For allegations described under paragraph (5)(C), the Chairperson of the Integrity Committee shall make a report containing the results of the investigation of the Chairperson and shall provide such report to members of the Integrity Committee.
 
-                (ii)  __Allegations of wrongdoing__  __.—__ 
+                (ii) __Allegations of wrongdoing.—__ 
 
                 For allegations referred to an agency under paragraph (5)(B), the head of that agency shall make a report containing the results of the investigation and shall provide such report to members of the Integrity Committee.
 
         (8) __Assessment and final disposition.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             With respect to any report received under paragraph (7)(C), the Integrity Committee shall—
 
@@ -325,11 +325,11 @@
 
                 (iii) submit to the Committee on Government Oversight and Reform  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “Oversight and Government Reform”. </sup></sup>  of the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, and other congressional committees of jurisdiction an executive summary of such report and recommendations within 30 days after the submission of such report to the Executive Chairperson under clause (ii).
 
-            (B)  __Disposition__  __.—__ 
+            (B) __Disposition.—__ 
 
             The Executive Chairperson of the Council shall report to the Integrity Committee the final disposition of the matter, including what action was taken by the President or agency head.
 
-        (9)  __Annual report__  __.—__ 
+        (9) __Annual report.—__ 
 
         The Council shall submit to Congress and the President by December 31 of each year a report on the activities of the Integrity Committee during the preceding fiscal year, which shall include the following:
 
@@ -347,7 +347,7 @@
 
             (G) Other matters that the Council considers appropriate.
 
-        (10)  __Requests for more information__  __.—__ 
+        (10) __Requests for more information.—__ 
 
         With respect to paragraphs (8) and (9), the Council shall provide more detailed information about specific allegations upon request from any of the following:
 
@@ -357,7 +357,7 @@
 
             (C) The chairperson or ranking member of the congressional committees of jurisdiction.
 
-        (11)  __No right or benefit__  __.—__ 
+        (11) __No right or benefit.—__ 
 
         This subsection is not intended to create any right or benefit, substantive or procedural, enforceable at law by a person against the United States, its agencies, its officers, or any person.
 
@@ -375,11 +375,11 @@
 
 [Pub. L. 110–409, § 7(c)][/us/pl/110/409/s7/c], Oct. 14, 2008, [122 Stat. 4313][/us/stat/122/4313], provided that:
 
->     “(1)  __Council__  __.—__ 
+>     “(1) __Council.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Council of the Inspectors General on Integrity and Efficiency established under this section \[enacting this section, renumbering former sections 11 and 12 of [Pub. L. 95–452][/us/pl/95/452], set out in this Appendix, as 12 and 13, respectively, amending sections 2, 4, and 8G of [Pub. L. 95–452][/us/pl/95/452], set out in this Appendix, and [section 1105 of Title 31][/us/usc/t31/s1105], Money and Finance, and enacting provisions set out as a note under [section 1211 of Title 5][/us/usc/t5/s1211], Government Organization and Employees\] shall become effective and operational.
 
->     “(2)  __Executive orders__  __.—__ 
+>     “(2) __Executive orders.—__ 
 
 >     Executive Order No. 12805, dated May 11, 1992 \[formerly set out under [section 501 of Title 31][/us/usc/t31/s501]\], and Executive Order No. 12933 \[probably means Executive Order No. 12993, formerly set out under [section 3 of Pub. L. 95–452][/us/pl/95/452/s3], set out in this Appendix\], dated March 21, 1996 (as in effect before the date of the enactment of this Act \[Oct. 14, 2008\]) shall have no force or effect on and after the earlier of—
 
@@ -393,7 +393,7 @@
 
 >     “(a) __Council of Inspectors General on Financial Oversight.—__ 
 
->         “(1)  __Establishment and membership__  __.—__ 
+>         “(1) __Establishment and membership.—__ 
 
 >         There is established a Council of Inspectors General on Financial Oversight (in this section referred to as the ‘Council of Inspectors General’) chaired by the Inspector General of the Department of the Treasury and composed of the inspectors general of the following:
 
@@ -417,11 +417,11 @@
 
 >         “(2) __Duties.—__ 
 
->             “(A)  __Meetings__  __.—__ 
+>             “(A) __Meetings.—__ 
 
 >             The Council of Inspectors General shall meet not less than once each quarter, or more frequently if the chair considers it appropriate, to facilitate the sharing of information among inspectors general and to discuss the ongoing work of each inspector general who is a member of the Council of Inspectors General, with a focus on concerns that may apply to the broader financial sector and ways to improve financial oversight.
 
->             “(B)  __Annual report__  __.—__ 
+>             “(B) __Annual report.—__ 
 
 >             Each year the Council of Inspectors General shall submit to the Council and to Congress a report including—
 
@@ -431,19 +431,19 @@
 
 >         “(3) __Working groups to evaluate council.—__ 
 
->             “(A)  __Convening a working group__  __.—__ 
+>             “(A) __Convening a working group.—__ 
 
 >             The Council of Inspectors General may, by majority vote, convene a Council of Inspectors General Working Group to evaluate the effectiveness and internal operations of the Council.
 
->             “(B)  __Personnel and resources__  __.—__ 
+>             “(B) __Personnel and resources.—__ 
 
 >             The inspectors general who are members of the Council of Inspectors General may detail staff and resources to a Council of Inspectors General Working Group established under this paragraph to enable it to carry out its duties.
 
->             “(C)  __Reports__  __.—__ 
+>             “(C) __Reports.—__ 
 
 >             A Council of Inspectors General Working Group established under this paragraph shall submit regular reports to the Council and to Congress on its evaluations pursuant to this paragraph.
 
->     “(b)  __Response to Report by Council__  __.—__ 
+>     “(b) __Response to Report by Council.—__ 
 
 >     The Council shall respond to the concerns raised in the report of the Council of Inspectors General under subsection (a)(2)(B) for such year.”
 

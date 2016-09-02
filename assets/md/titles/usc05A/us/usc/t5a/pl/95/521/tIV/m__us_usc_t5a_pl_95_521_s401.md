@@ -45,11 +45,11 @@
 
 [Pub. L. 100–598, § 10][/us/pl/100/598/s10], Nov. 3, 1988, [102 Stat. 3035][/us/stat/102/3035], provided that:
 
->     “(a)  __In General__  __.—__ 
+>     “(a) __In General.—__ 
 
 >     Except as provided in subsection (b), the amendments made by this Act \[enacting [section 408 of Pub. L. 95–521][/us/pl/95/521/s408], set out in this Appendix, and amending sections 401 to 403, 405, and 407 of [Pub. L. 95–521][/us/pl/95/521], set out in this Appendix, and sections 5314 and 5316 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 3, 1988\].
 
->     “(b)  __Exception__  __.—__ 
+>     “(b) __Exception.—__ 
 
 >     The amendments made by section 3 \[amending [section 401 of Pub. L. 95–521][/us/pl/95/521/s401], set out in this Appendix\] shall take effect on October 1, 1989.”
 

@@ -17,17 +17,17 @@
 
     (a) __Direct Links to Inspectors General Offices.—__ 
 
-        (1)  __In general__  __.—__ 
+        (1) __In general.—__ 
 
         Each agency shall establish and maintain on the homepage of the website of that agency, a direct link to the website of the Office of the Inspector General of that agency.
 
-        (2)  __Accessibility__  __.—__ 
+        (2) __Accessibility.—__ 
 
         The direct link under paragraph (1) shall be obvious and facilitate accessibility to the website of the Office of the Inspector General.
 
     (b) __Requirements for Inspectors General Websites.—__ 
 
-        (1)  __Posting of reports and audits__  __.—__ 
+        (1) __Posting of reports and audits.—__ 
 
         The Inspector General of each agency shall—
 
@@ -51,11 +51,11 @@
 
         (2) __Reporting of fraud, waste, and abuse.—__ 
 
-            (A)  __In general__  __.—__ 
+            (A) __In general.—__ 
 
             The Inspector General of each agency shall establish and maintain a direct link on the homepage of the website of the Office of the Inspector General for individuals to report fraud, waste, and abuse. Individuals reporting fraud, waste, or abuse using the direct link established under this paragraph shall not be required to provide personally identifying information relating to that individual.
 
-            (B)  __Anonymity__  __.—__ 
+            (B) __Anonymity.—__ 
 
             The Inspector General of each agency shall not disclose the identity of any individual making a report under this paragraph without the consent of the individual unless the Inspector General determines that such a disclosure is unavoidable during the course of the investigation.
 

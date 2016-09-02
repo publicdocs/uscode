@@ -15,7 +15,7 @@
 
 ##### § 15. Requirements relating to the National Academy of Sciences and the National Academy of Public Administration
 
-    (a)  __In General__  __.—__ 
+    (a) __In General.—__ 
 
     An agency may not use any advice or recommendation provided by the National Academy of Sciences or National Academy of Public Administration that was developed by use of a committee created by that academy under an agreement with an agency, unless—
 
@@ -31,7 +31,7 @@
 
             (B) subsection (b)(2) and (5), in the case of any advice or recommendation provided by the National Academy of Public Administration.
 
-    (b)  __Requirements__  __.—__ 
+    (b) __Requirements.—__ 
 
     The requirements referred to in subsection (a) are as follows:
 
@@ -47,7 +47,7 @@
 
         (6) After publication of the final report, the Academy shall make publicly available the names of the principal reviewers who reviewed the report in draft form and who are not officials, agents, or employees of the Academy.
 
-    (c)  __Regulations__  __.—__ 
+    (c) __Regulations.—__ 
 
     The Administrator of General Services may issue regulations implementing this section.
 

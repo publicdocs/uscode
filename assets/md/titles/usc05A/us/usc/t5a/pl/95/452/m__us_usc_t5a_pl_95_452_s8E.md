@@ -85,11 +85,11 @@
 
 [Pub. L. 107–273, div. A, title III, § 309(a)][/us/pl/107/273/s309/a], Nov. 2, 2002, [116 Stat. 1784][/us/stat/116/1784], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     The Inspector General of the Department of Justice shall direct that 1 official from the office of the Inspector General be responsible for supervising and coordinating independent oversight of programs and operations of the Federal Bureau of Investigation until September 30, 2004.
 
->     “(2)  __Continuation of oversight__  __.—__ 
+>     “(2) __Continuation of oversight.—__ 
 
 >     The Inspector General may continue individual oversight in accordance with paragraph (1) after September 30, 2004, at the discretion of the Inspector General.”
 

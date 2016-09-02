@@ -45,11 +45,11 @@
 
 [Pub. L. 105–153, § 2(c)][/us/pl/105/153/s2/c], Dec. 17, 1997, [111 Stat. 2691][/us/stat/111/2691], provided that:
 
->     “(1)  __In general__  __.—__ 
+>     “(1) __In general.—__ 
 
 >     Except as provided in paragraph (2), this section \[enacting [section 15 of Pub. L. 92–463][/us/pl/92/463/s15], set out in this Appendix, amending this section, and redesignating former [section 15 of Pub. L. 92–463][/us/pl/92/463/s15], set out in this Appendix, as section 16\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Dec. 17, 1997\].
 
->     “(2)  __Retroactive effect__  __.—__ 
+>     “(2) __Retroactive effect.—__ 
 
 >     Subsection (a) \[amending this section\] and the amendments made by subsection (a) shall be effective as of October 6, 1972, except that they shall not apply with respect to or otherwise affect any particular advice or recommendations that are subject to any judicial action filed before the date of the enactment of this Act.”
 

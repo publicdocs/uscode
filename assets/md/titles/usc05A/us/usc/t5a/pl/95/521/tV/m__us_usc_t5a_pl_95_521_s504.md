@@ -15,11 +15,11 @@
 
 ##### § 504. Civil Penalties
 
-    (a)  __Civil Action__  __.—__ 
+    (a) __Civil Action.—__ 
 
     The Attorney General may bring a civil action in any appropriate United States district court against any individual who violates any provision of section 501 or 502. The court in which such action is brought may assess against such individual a civil penalty of not more than $10,000 or the amount of compensation, if any, which the individual received for the prohibited conduct, whichever is greater.
 
-    (b)  __Advisory Opinions__  __.—__ 
+    (b) __Advisory Opinions.—__ 
 
     Any entity described in section 503 may render advisory opinions interpreting this title, in writing, to individuals covered by this title. Any individual to whom such an advisory opinion is rendered and any other individual covered by this title who is involved in a fact situation which is indistinguishable in all material aspects, and who, after the issuance of such advisory opinion, acts in good faith in accordance with its provisions and findings shall not, as a result of such actions, be subject to any sanction under subsection (a).
 

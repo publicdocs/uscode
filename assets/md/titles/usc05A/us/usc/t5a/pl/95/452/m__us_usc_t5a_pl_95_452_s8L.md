@@ -15,11 +15,11 @@
 
 ##### § 8L. Special Provisions Concerning Overseas Contingency Operations
 
-    (a)  __Additional Responsibilities of Chair of Council of Inspectors General on Integrity and Efficiency__  __.—__ 
+    (a) __Additional Responsibilities of Chair of Council of Inspectors General on Integrity and Efficiency.—__ 
 
     Upon the commencement or designation of a military operation as an overseas contingency operation that exceeds 60 days, the Chair of the Council of Inspectors General on Integrity and Efficiency (CIGIE) shall, in consultation with the members of the Council, have the additional responsibilities specified in subsection (b) with respect to the Inspectors General specified in subsection (c).
 
-    (b)  __Specific Responsibilities__  __.—__ 
+    (b) __Specific Responsibilities.—__ 
 
     The responsibilities specified in this subsection are the following:
 
@@ -29,7 +29,7 @@
 
         (3) To assist in identifying for the lead inspector general for such contingency operation, Inspectors General and inspector general office personnel available to assist the lead Inspector General and the other Inspectors General specified in subsection (c) on matters relating to such contingency operation.
 
-    (c)  __Inspectors General__  __.—__ 
+    (c) __Inspectors General.—__ 
 
     The Inspectors General specified in this subsection are the Inspectors General as follows:
 
@@ -39,7 +39,7 @@
 
         (3) The Inspector General of the United States Agency for International Development.
 
-    (d)  __Lead Inspector General for Overseas Contingency Operation__  __.—__ 
+    (d) __Lead Inspector General for Overseas Contingency Operation.—__ 
 
         (1) A lead Inspector General for an overseas contingency operation shall be designated by the Chair of the Council of Inspectors General on Integrity and Efficiency under subsection (b)(1) not later than 30 days after the commencement or designation of the military operation concerned as an overseas contingency operation that exceeds 60 days. The lead Inspector General for a contingency operation shall be designated from among the Inspectors General specified in subsection (c).
 
@@ -83,11 +83,11 @@
 
         (4) The lead Inspector General for an overseas contingency operation shall discharge the responsibilities for the contingency operation under this subsection in a manner consistent with the authorities and requirements of this Act generally and the authorities and requirements applicable to the Inspectors General specified in subsection (c) under this Act.
 
-    (e)  __Sunset for Particular Contingency Operations__  __.—__ 
+    (e) __Sunset for Particular Contingency Operations.—__ 
 
     The requirements and authorities of this section with respect to an overseas contingency operation shall cease at the end of the first fiscal year after the commencement or designation of the contingency operation in which the total amount appropriated for the contingency operation is less than $100,000,000.
 
-    (f)  __Construction of Authority__  __.—__ 
+    (f) __Construction of Authority.—__ 
 
     Nothing in this section shall be construed to limit the ability of the Inspectors General specified in subsection (c) to enter into agreements to conduct joint audits, inspections, or investigations in the exercise of their oversight responsibilities in accordance with this Act with respect to overseas contingency operations.
 

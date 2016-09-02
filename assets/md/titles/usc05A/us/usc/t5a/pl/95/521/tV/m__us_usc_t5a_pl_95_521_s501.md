@@ -21,11 +21,11 @@
 
         (2) In the case of any individual who during a calendar year becomes a Member or an officer or employee who is a noncareer officer or employee and who occupies a position classified above GS–15 of the General Schedule or, in the case of positions not under the General Schedule, for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule, such individual may not have outside earned income attributable to the portion of that calendar year which occurs after such individual becomes a Member or such an officer or employee which exceeds 15 percent of the annual rate of basic pay for level II of the Executive Schedule under [section 5313 of title 5][/us/usc/t5/s5313], United States Code, as of January 1 of such calendar year multiplied by a fraction the numerator of which is the number of days such individual is a Member or such officer or employee during such calendar year and the denominator of which is 365.
 
-    (b)  __Honoraria Prohibition__  __.—__ 
+    (b) __Honoraria Prohibition.—__ 
 
     An individual may not receive any honorarium while that individual is a Member, officer or employee.
 
-    (c)  __Treatment of Charitable Contributions__  __.—__ 
+    (c) __Treatment of Charitable Contributions.—__ 
 
     Any honorarium which, except for subsection (b), might be paid to a Member, officer or employee, but which is paid instead on behalf of such Member, officer or employee to a charitable organization, shall be deemed not to be received by such Member, officer or employee. No such payment shall exceed $2,000 or be made to a charitable organization from which such individual or a parent, sibling, spouse, child, or dependent relative of such individual derives any financial benefit.
 

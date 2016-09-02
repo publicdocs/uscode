@@ -223,11 +223,11 @@
 
 [Pub. L. 112–105, § 17][/us/pl/112/105/s17], Apr. 4, 2012, [126 Stat. 303][/us/stat/126/303], provided that:
 
->     “(a)  __Restriction Extended to Executive and Judicial Branches__  __.—__ 
+>     “(a) __Restriction Extended to Executive and Judicial Branches.—__ 
 
 >     Notwithstanding any other provision of law, an individual required to file a financial disclosure report under section 101 of the Ethics in Government Act of 1978 (5 U.S.C. App. 101) may not directly negotiate or have any agreement of future employment or compensation unless such individual, within 3 business days after the commencement of such negotiation or agreement of future employment or compensation, files with the individual’s supervising ethics office a statement, signed by such individual, regarding such negotiations or agreement, including the name of the private entity or entities involved in such negotiations or agreement, and the date such negotiations or agreement commenced.
 
->     “(b)  __Recusal__  __.—__ 
+>     “(b) __Recusal.—__ 
 
 >     An individual filing a statement under subsection (a) shall recuse himself or herself whenever there is a conflict of interest, or appearance of a conflict of interest, for such individual with respect to the subject matter of the statement, and shall notify the individual’s supervising ethics office of such recusal. An individual making such recusal shall, upon such recusal, submit to the supervising ethics office the statement under subsection (a) with respect to which the recusal was made.”
 
@@ -261,11 +261,11 @@
 
 > “In this Act \[see Short Title of 2012 Amendment note set out above\]:
 
->     “(1)  __Member of congress__  __.—__ 
+>     “(1) __Member of congress.—__ 
 
 >     The term ‘Member of Congress’ means a member of the Senate or House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico.
 
->     “(2)  __Employee of congress__  __.—__ 
+>     “(2) __Employee of congress.—__ 
 
 >     The term ‘employee of Congress’ means—
 
@@ -273,7 +273,7 @@
 
 >         “(B) any other officer or employee of the legislative branch (as defined in section 109(11) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(11))).
 
->     “(3)  __Executive branch employee__  __.—__ 
+>     “(3) __Executive branch employee.—__ 
 
 >     The term ‘executive branch employee’—
 
@@ -289,15 +289,15 @@
 
 >             “(iii) an employee of the United States Postal Service or the Postal Regulatory Commission.
 
->     “(4)  __Judicial officer__  __.—__ 
+>     “(4) __Judicial officer.—__ 
 
 >     The term ‘judicial officer’ has the meaning given that term under section 109(10) of the Ethics in Government Act of 1978 (U.S.C. App. 109(10)).
 
->     “(5)  __Judicial employee__  __.—__ 
+>     “(5) __Judicial employee.—__ 
 
 >     The term ‘judicial employee’ has the meaning given that term in section 109(8) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(8)).
 
->     “(6)  __Supervising ethics office__  __.—__ 
+>     “(6) __Supervising ethics office.—__ 
 
 >     The term ‘supervising ethics office’ has the meaning given that term in section 109(18) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(18)).”
 

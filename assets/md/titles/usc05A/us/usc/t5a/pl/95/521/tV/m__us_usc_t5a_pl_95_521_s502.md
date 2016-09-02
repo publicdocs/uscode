@@ -15,7 +15,7 @@
 
 ##### § 502. Limitations on outside employment
 
-    (a)  __Limitations__  __.—__ 
+    (a) __Limitations.—__ 
 
     A Member or an officer or employee who is a noncareer officer or employee and who occupies a position classified above GS–15 of the General Schedule or, in the case of positions not under the General Schedule, for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule shall not—
 
@@ -29,7 +29,7 @@
 
         (5) receive compensation for teaching, without the prior notification and approval of the appropriate entity referred to in section 503.
 
-    (b)  __Teaching Compensation of Justices and Judges Retired From Regular Active Service__  __.—__ 
+    (b) __Teaching Compensation of Justices and Judges Retired From Regular Active Service.—__ 
 
     For purposes of the limitation under section 501(a), any compensation for teaching approved under subsection (a)(5) of this section shall not be treated as outside earned income—
 
