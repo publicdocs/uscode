@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1411" data-uslm-ref="/us/usc/t48/s1411">1411.</a>  </td>
 
     <td> Guano districts; claim by United States.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1412" data-uslm-ref="/us/usc/t48/s1412">1412.</a>  </td>
 
     <td> Notice of discovery of guano and proofs.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1413.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1413" data-uslm-ref="/us/usc/t48/s1413">1413.</a>  </td>
 
     <td> Completion of proof on death of discoverer.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1414.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1414" data-uslm-ref="/us/usc/t48/s1414">1414.</a>  </td>
 
     <td> Exclusive privileges of discoverer.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1415.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1415" data-uslm-ref="/us/usc/t48/s1415">1415.</a>  </td>
 
     <td> Restrictions upon exportation.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1416.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1416" data-uslm-ref="/us/usc/t48/s1416">1416.</a>  </td>
 
     <td> Regulation of trade.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1417.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1417" data-uslm-ref="/us/usc/t48/s1417">1417.</a>  </td>
 
     <td> Criminal jurisdiction.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1418.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1418" data-uslm-ref="/us/usc/t48/s1418">1418.</a>  </td>
 
     <td> Employment of land and naval forces in protection of rights.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1419.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1419" data-uslm-ref="/us/usc/t48/s1419">1419.</a>  </td>
 
     <td> Right to abandon islands.  </td>
 

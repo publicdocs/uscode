@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1701 to 1703.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1701" data-uslm-ref="/us/usc/t48/s1701">1701</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1703" data-uslm-ref="/us/usc/t48/s1703">1703.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1704" data-uslm-ref="/us/usc/t48/s1704">1704.</a>  </td>
 
     <td> Concurrent jurisdiction; exceptions for national defense purposes.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1705" data-uslm-ref="/us/usc/t48/s1705">1705.</a>  </td>
 
     <td> Tidelands, submerged lands, or filled lands.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1706" data-uslm-ref="/us/usc/t48/s1706">1706.</a>  </td>
 
     <td> Reserved rights.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1707" data-uslm-ref="/us/usc/t48/s1707">1707.</a>  </td>
 
     <td> Payment of rents, royalties, and fees to local government.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1708" data-uslm-ref="/us/usc/t48/s1708">1708.</a>  </td>
 
     <td> Discrimination prohibited in rights of access to, and benefits from, conveyed lands.  </td>
 

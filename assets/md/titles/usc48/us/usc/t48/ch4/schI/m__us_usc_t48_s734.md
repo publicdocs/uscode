@@ -55,7 +55,7 @@
 
     By virtue of the authority vested in me by section 49b(2) of the Organic Act of Puerto Rico, as amended by [section 6 of the Act of August 5, 1947][/us/act/1947-08-05/s6], Public Law 362, 80th Congress \[[section 793b of this title][/us/usc/t48/s793b]\], it is hereby ordered that the District Court of the United States for Puerto Rico and the Department of Justice shall be exempt from making the reports to the Coordinator of Federal Agencies in Puerto Rico which are provided for in such section.
 
-                              Harry S Truman.
+                              Harry S. Truman.
 
  __Ex. Ord. No. 10005. Establishment of President’s Advisory Commission on Relation of Federal Laws to Puerto Rico__ 
 
@@ -75,7 +75,7 @@ WHEREAS section 49b(3) of the said Act, which was added by [section 6 of the act
 
     4. The Commission shall continue to exist until the President terminates its existence by Executive order.
 
-                              Harry S Truman.
+                              Harry S. Truman.
 
  __Administrative Treatment of Puerto Rico as a State__ 
 

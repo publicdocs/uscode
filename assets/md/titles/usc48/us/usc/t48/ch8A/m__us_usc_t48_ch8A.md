@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1421.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421" data-uslm-ref="/us/usc/t48/s1421">1421.</a>  </td>
 
     <td> Territory included under name Guam.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1421a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421a" data-uslm-ref="/us/usc/t48/s1421a">1421a.</a>  </td>
 
     <td> Unincorporated territory; capital; powers of government; suits against government; type of government; supervision.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1421b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421b" data-uslm-ref="/us/usc/t48/s1421b">1421b.</a>  </td>
 
     <td> Bill of rights.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1421c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421c" data-uslm-ref="/us/usc/t48/s1421c">1421c.</a>  </td>
 
     <td> Certain laws continued in force; modification or repeal of laws.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1421d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421d" data-uslm-ref="/us/usc/t48/s1421d">1421d.</a>  </td>
 
     <td> Salaries and allowances of officers and employees.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1421e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421e" data-uslm-ref="/us/usc/t48/s1421e">1421e.</a>  </td>
 
     <td> Duty on articles.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1421f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421f" data-uslm-ref="/us/usc/t48/s1421f">1421f.</a>  </td>
 
     <td> Title to property transferred.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1421f–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421f%E2%80%931" data-uslm-ref="/us/usc/t48/s1421f–1">1421f–1.</a>  </td>
 
     <td> Acknowledgement of deeds.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1421g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421g" data-uslm-ref="/us/usc/t48/s1421g">1421g.</a>  </td>
 
     <td> Establishment and maintenance of public bodies and offices.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1421h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421h" data-uslm-ref="/us/usc/t48/s1421h">1421h.</a>  </td>
 
     <td> Duties, taxes, and fees; proceeds collected to constitute fund for benefit of Guam; prerequisites, amount, etc., remitted prior to commencement of next fiscal year.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1421i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421i" data-uslm-ref="/us/usc/t48/s1421i">1421i.</a>  </td>
 
     <td> Income tax.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1421j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421j" data-uslm-ref="/us/usc/t48/s1421j">1421j.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1421k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421k" data-uslm-ref="/us/usc/t48/s1421k">1421k.</a>  </td>
 
     <td> Designation of naval or military reservations; closed port.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1421k–1 to 1421m.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421k%E2%80%931" data-uslm-ref="/us/usc/t48/s1421k–1">1421k–1</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421m" data-uslm-ref="/us/usc/t48/s1421m">1421m.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1421n.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421n" data-uslm-ref="/us/usc/t48/s1421n">1421n.</a>  </td>
 
     <td> Applicability of Federal copyright laws.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1421o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421" data-uslm-ref="/us/usc/t48/s1421">1421</a>o.  </td>
 
     <td> Federal assistance for fire control, watershed protection, and reforestation.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1421p.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421p" data-uslm-ref="/us/usc/t48/s1421p">1421p.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1421q.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421q" data-uslm-ref="/us/usc/t48/s1421q">1421q.</a>  </td>
 
     <td> Applicability of Federal laws.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1421q–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421q%E2%80%931" data-uslm-ref="/us/usc/t48/s1421q–1">1421q–1.</a>  </td>
 
     <td> Applicability of laws referred to in section 502(a)(1) of Covenant to Establish a Commonwealth of the Northern Mariana Islands.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1421r.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1421r" data-uslm-ref="/us/usc/t48/s1421r">1421r.</a>  </td>
 
     <td> Port of Guam Improvement Enterprise Program.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—THE EXECUTIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1422.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1422" data-uslm-ref="/us/usc/t48/s1422">1422.</a>  </td>
 
     <td> Governor and Lieutenant Governor; term of office; qualifications; powers and duties; annual report to Congress.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—THE EXECUTIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1422a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1422a" data-uslm-ref="/us/usc/t48/s1422a">1422a.</a>  </td>
 
     <td> Removal of Governor, Lieutenant Governor, or member of legislature; referendum election.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—THE EXECUTIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1422b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1422b" data-uslm-ref="/us/usc/t48/s1422b">1422b.</a>  </td>
 
     <td> Vacancy in office of Governor or Lieutenant Governor.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—THE EXECUTIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1422c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1422c" data-uslm-ref="/us/usc/t48/s1422c">1422c.</a>  </td>
 
     <td> Executive agencies and instrumentalities.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—THE EXECUTIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1422d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1422d" data-uslm-ref="/us/usc/t48/s1422d">1422d.</a>  </td>
 
     <td> Transfer of functions from government comptroller for Guam to Inspector General, Department of the Interior.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER III—THE LEGISLATURE  </td>
 
   <tr>
 
-    <td> 1423.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1423" data-uslm-ref="/us/usc/t48/s1423">1423.</a>  </td>
 
     <td> Legislature of Guam.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER III—THE LEGISLATURE  </td>
 
   <tr>
 
-    <td> 1423a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1423a" data-uslm-ref="/us/usc/t48/s1423a">1423a.</a>  </td>
 
     <td> Power of legislature; limitation on indebtedness of Guam; bond issues; guarantees for purchase by Federal Financing Bank of Guam Power Authority bonds or other obligations; interest rates; default.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER III—THE LEGISLATURE  </td>
 
   <tr>
 
-    <td> 1423b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1423b" data-uslm-ref="/us/usc/t48/s1423b">1423b.</a>  </td>
 
     <td> Selection and qualification of members; officers; rules and regulations; quorum.  </td>
 
@@ -273,7 +273,7 @@ SUBCHAPTER III—THE LEGISLATURE  </td>
 
   <tr>
 
-    <td> 1423c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1423c" data-uslm-ref="/us/usc/t48/s1423c">1423c.</a>  </td>
 
     <td> Privileges of members.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER III—THE LEGISLATURE  </td>
 
   <tr>
 
-    <td> 1423d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1423d" data-uslm-ref="/us/usc/t48/s1423d">1423d.</a>  </td>
 
     <td> Oath of office.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER III—THE LEGISLATURE  </td>
 
   <tr>
 
-    <td> 1423e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1423e" data-uslm-ref="/us/usc/t48/s1423e">1423e.</a>  </td>
 
     <td> Prohibition against acceptance of salary increases or newly created offices.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER III—THE LEGISLATURE  </td>
 
   <tr>
 
-    <td> 1423f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1423f" data-uslm-ref="/us/usc/t48/s1423f">1423f.</a>  </td>
 
     <td> Qualifications of members.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER III—THE LEGISLATURE  </td>
 
   <tr>
 
-    <td> 1423g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1423g" data-uslm-ref="/us/usc/t48/s1423g">1423g.</a>  </td>
 
     <td> Vacancies.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER III—THE LEGISLATURE  </td>
 
   <tr>
 
-    <td> 1423h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1423h" data-uslm-ref="/us/usc/t48/s1423h">1423h.</a>  </td>
 
     <td> Regular and special sessions.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER III—THE LEGISLATURE  </td>
 
   <tr>
 
-    <td> 1423i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1423i" data-uslm-ref="/us/usc/t48/s1423i">1423i.</a>  </td>
 
     <td> Approval of bills.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER III—THE LEGISLATURE  </td>
 
   <tr>
 
-    <td> 1423j.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1423j" data-uslm-ref="/us/usc/t48/s1423j">1423j.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER III—THE LEGISLATURE  </td>
 
   <tr>
 
-    <td> 1423k.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1423k" data-uslm-ref="/us/usc/t48/s1423k">1423k.</a>  </td>
 
     <td> Right of petition.  </td>
 
@@ -345,7 +345,7 @@ SUBCHAPTER III—THE LEGISLATURE  </td>
 
   <tr>
 
-    <td> 1423l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1423" data-uslm-ref="/us/usc/t48/s1423">1423</a>l.  </td>
 
     <td> Omitted.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER IV—THE JUDICIARY  </td>
 
   <tr>
 
-    <td> 1424.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1424" data-uslm-ref="/us/usc/t48/s1424">1424.</a>  </td>
 
     <td> District Court of Guam; local courts; jurisdiction.  </td>
 
@@ -369,7 +369,7 @@ SUBCHAPTER IV—THE JUDICIARY  </td>
 
   <tr>
 
-    <td> 1424–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1424%E2%80%931" data-uslm-ref="/us/usc/t48/s1424–1">1424–1.</a>  </td>
 
     <td> Jurisdiction and powers of local courts.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER IV—THE JUDICIARY  </td>
 
   <tr>
 
-    <td> 1424–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1424%E2%80%932" data-uslm-ref="/us/usc/t48/s1424–2">1424–2.</a>  </td>
 
     <td> Relations between courts of United States and courts of Guam.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER IV—THE JUDICIARY  </td>
 
   <tr>
 
-    <td> 1424–3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1424%E2%80%933" data-uslm-ref="/us/usc/t48/s1424–3">1424–3.</a>  </td>
 
     <td> Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Ninth Circuit; rules; appeals to appellate court.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER IV—THE JUDICIARY  </td>
 
   <tr>
 
-    <td> 1424–4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1424%E2%80%934" data-uslm-ref="/us/usc/t48/s1424–4">1424–4.</a>  </td>
 
     <td> Criminal offenses; procedure; definitions.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER IV—THE JUDICIARY  </td>
 
   <tr>
 
-    <td> 1424a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1424a" data-uslm-ref="/us/usc/t48/s1424a">1424a.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER IV—THE JUDICIARY  </td>
 
   <tr>
 
-    <td> 1424b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1424b" data-uslm-ref="/us/usc/t48/s1424b">1424b.</a>  </td>
 
     <td> Judge of District Court; appointment, tenure, removal, and compensation; appointment of United States attorney and marshal.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER IV—THE JUDICIARY  </td>
 
   <tr>
 
-    <td> 1424c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1424c" data-uslm-ref="/us/usc/t48/s1424c">1424c.</a>  </td>
 
     <td> Review of claims respecting land on Guam.  </td>
 
@@ -433,7 +433,7 @@ SUBCHAPTER V—PUBLIC HOUSING AND URBAN RENEWAL  </td>
 
   <tr>
 
-    <td> 1425.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1425" data-uslm-ref="/us/usc/t48/s1425">1425.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -441,7 +441,7 @@ SUBCHAPTER V—PUBLIC HOUSING AND URBAN RENEWAL  </td>
 
   <tr>
 
-    <td> 1425a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1425a" data-uslm-ref="/us/usc/t48/s1425a">1425a.</a>  </td>
 
     <td> Legislative authority to create authorities; appointment of members; powers of authorities.  </td>
 
@@ -449,7 +449,7 @@ SUBCHAPTER V—PUBLIC HOUSING AND URBAN RENEWAL  </td>
 
   <tr>
 
-    <td> 1425b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1425b" data-uslm-ref="/us/usc/t48/s1425b">1425b.</a>  </td>
 
     <td> Issuance of notes, bonds, and obligations.  </td>
 
@@ -457,7 +457,7 @@ SUBCHAPTER V—PUBLIC HOUSING AND URBAN RENEWAL  </td>
 
   <tr>
 
-    <td> 1425c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1425c" data-uslm-ref="/us/usc/t48/s1425c">1425c.</a>  </td>
 
     <td> Authorization of loans, conveyances, etc.  </td>
 
@@ -465,7 +465,7 @@ SUBCHAPTER V—PUBLIC HOUSING AND URBAN RENEWAL  </td>
 
   <tr>
 
-    <td> 1425d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1425d" data-uslm-ref="/us/usc/t48/s1425d">1425d.</a>  </td>
 
     <td> Ratification of prior act.  </td>
 
@@ -473,7 +473,7 @@ SUBCHAPTER V—PUBLIC HOUSING AND URBAN RENEWAL  </td>
 
   <tr>
 
-    <td> 1425e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1425e" data-uslm-ref="/us/usc/t48/s1425e">1425e.</a>  </td>
 
     <td> Additional powers.  </td>
 
@@ -481,7 +481,7 @@ SUBCHAPTER V—PUBLIC HOUSING AND URBAN RENEWAL  </td>
 
   <tr>
 
-    <td> 1426.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1426" data-uslm-ref="/us/usc/t48/s1426">1426.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -497,7 +497,7 @@ SUBCHAPTER VI—GUAM DEVELOPMENT FUND  </td>
 
   <tr>
 
-    <td> 1428.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1428" data-uslm-ref="/us/usc/t48/s1428">1428.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -505,7 +505,7 @@ SUBCHAPTER VI—GUAM DEVELOPMENT FUND  </td>
 
   <tr>
 
-    <td> 1428a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1428a" data-uslm-ref="/us/usc/t48/s1428a">1428a.</a>  </td>
 
     <td> Submission of plan for use of funds; contents of plan; term, interest rate, and premium charge of loan.  </td>
 
@@ -513,7 +513,7 @@ SUBCHAPTER VI—GUAM DEVELOPMENT FUND  </td>
 
   <tr>
 
-    <td> 1428b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1428b" data-uslm-ref="/us/usc/t48/s1428b">1428b.</a>  </td>
 
     <td> Prerequisite for loan or loan guarantee; maximum participation in available funds; reserves for loan guarantees.  </td>
 
@@ -521,7 +521,7 @@ SUBCHAPTER VI—GUAM DEVELOPMENT FUND  </td>
 
   <tr>
 
-    <td> 1428c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1428c" data-uslm-ref="/us/usc/t48/s1428c">1428c.</a>  </td>
 
     <td> Accounting procedures.  </td>
 
@@ -529,7 +529,7 @@ SUBCHAPTER VI—GUAM DEVELOPMENT FUND  </td>
 
   <tr>
 
-    <td> 1428d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1428d" data-uslm-ref="/us/usc/t48/s1428d">1428d.</a>  </td>
 
     <td> Report for inclusion in annual report by Governor.  </td>
 
@@ -537,7 +537,7 @@ SUBCHAPTER VI—GUAM DEVELOPMENT FUND  </td>
 
   <tr>
 
-    <td> 1428e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1428e" data-uslm-ref="/us/usc/t48/s1428e">1428e.</a>  </td>
 
     <td> Audit of books and records of agency, or agencies, administering loan funds.  </td>
 

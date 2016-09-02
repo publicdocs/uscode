@@ -51,7 +51,7 @@
 
     5. The said Executive order of February 19, 1900 \[Ex. Ord. 125–A\], is revoked, effective July 1, 1951.
 
-                              Harry S Truman.
+                              Harry S. Truman.
 
 ----------
 

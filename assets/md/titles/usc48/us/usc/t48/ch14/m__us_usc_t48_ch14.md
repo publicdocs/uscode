@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1681.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1681" data-uslm-ref="/us/usc/t48/s1681">1681.</a>  </td>
 
     <td> Continuance of civil government for Trust Territory of the Pacific Islands; assistance programs; maximum fiscal year costs; reimbursement.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1681a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1681a" data-uslm-ref="/us/usc/t48/s1681a">1681a.</a>  </td>
 
     <td> Appointment of High Commissioner.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1681b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1681b" data-uslm-ref="/us/usc/t48/s1681b">1681b.</a>  </td>
 
     <td> Transfer of functions from government comptroller for Guam to Inspector General, Department of the Interior.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1681c, 1682.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1681c" data-uslm-ref="/us/usc/t48/s1681c">1681c</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1682" data-uslm-ref="/us/usc/t48/s1682">1682.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1683.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1683" data-uslm-ref="/us/usc/t48/s1683">1683.</a>  </td>
 
     <td> Auditing of transactions of Trust Territory of the Pacific Islands.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1684.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1684" data-uslm-ref="/us/usc/t48/s1684">1684.</a>  </td>
 
     <td> Expenditure of funds for administration of Trust Territory of the Pacific Islands.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1685.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1685" data-uslm-ref="/us/usc/t48/s1685">1685.</a>  </td>
 
     <td> Transfer of property or money for administration of Trust Territory of the Pacific Islands.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1686, 1687.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1686" data-uslm-ref="/us/usc/t48/s1686">1686</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1687" data-uslm-ref="/us/usc/t48/s1687">1687.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1688.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1688" data-uslm-ref="/us/usc/t48/s1688">1688.</a>  </td>
 
     <td> Trust Territory of the Pacific Islands Economic Development Loan Fund.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1689.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1689" data-uslm-ref="/us/usc/t48/s1689">1689.</a>  </td>
 
     <td> Plan for use of grant to Trust Territory of the Pacific Islands Economic Development Loan Fund; loans; terms.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1690.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1690" data-uslm-ref="/us/usc/t48/s1690">1690.</a>  </td>
 
     <td> Loans from Trust Territory of the Pacific Islands Economic Loan Fund; restrictions; guarantees.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1691.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1691" data-uslm-ref="/us/usc/t48/s1691">1691.</a>  </td>
 
     <td> Fiscal control and accounting procedures for plan for use of grant.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1692.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1692" data-uslm-ref="/us/usc/t48/s1692">1692.</a>  </td>
 
     <td> Comprehensive annual financial report by chief executives of governments of the Marshall Islands, Federated States of Micronesia, Palau, and Northern Mariana Islands; contents; other reports.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1693.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1693" data-uslm-ref="/us/usc/t48/s1693">1693.</a>  </td>
 
     <td> Audit of government; access to books, records, etc.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1694 to 1694e.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1694" data-uslm-ref="/us/usc/t48/s1694">1694</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1694e" data-uslm-ref="/us/usc/t48/s1694e">1694e.</a>  </td>
 
     <td> Transferred.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1695.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1695" data-uslm-ref="/us/usc/t48/s1695">1695.</a>  </td>
 
     <td> Federal education and health care programs; nonapplicability or nonparticipation.  </td>
 

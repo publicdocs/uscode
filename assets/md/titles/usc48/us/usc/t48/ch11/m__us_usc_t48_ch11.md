@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1501" data-uslm-ref="/us/usc/t48/s1501">1501.</a>  </td>
 
     <td> Lands in Territories.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1502" data-uslm-ref="/us/usc/t48/s1502">1502.</a>  </td>
 
     <td> Previously acquired lands; bona fide resident aliens; mining or incorporated village lands.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1503" data-uslm-ref="/us/usc/t48/s1503">1503.</a>  </td>
 
     <td> Acquisition by inheritance, in collection of debts, etc.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1504" data-uslm-ref="/us/usc/t48/s1504">1504.</a>  </td>
 
     <td> Conveyance of lands in Territories by aliens before escheat proceedings.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1505" data-uslm-ref="/us/usc/t48/s1505">1505.</a>  </td>
 
     <td> Proceedings for escheat of improperly held lands.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1506" data-uslm-ref="/us/usc/t48/s1506">1506.</a>  </td>
 
     <td> Condemnation and sale of lands in escheat proceedings.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1507" data-uslm-ref="/us/usc/t48/s1507">1507.</a>  </td>
 
     <td> Public lands.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1508" data-uslm-ref="/us/usc/t48/s1508">1508.</a>  </td>
 
     <td> Application to District of Columbia.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1509 to 1512.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1509" data-uslm-ref="/us/usc/t48/s1509">1509</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1512" data-uslm-ref="/us/usc/t48/s1512">1512.</a>  </td>
 
     <td> Omitted.  </td>
 

@@ -33,7 +33,7 @@ SUBCHAPTER I—APPROVAL OF COVENANT AND SUPPLEMENTAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1801" data-uslm-ref="/us/usc/t48/s1801">1801.</a>  </td>
 
     <td> Approval of Covenant to Establish a Commonwealth of the Northern Mariana Islands.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—APPROVAL OF COVENANT AND SUPPLEMENTAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1802" data-uslm-ref="/us/usc/t48/s1802">1802.</a>  </td>
 
     <td> Consideration of issues affecting relations with United States.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—APPROVAL OF COVENANT AND SUPPLEMENTAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1803" data-uslm-ref="/us/usc/t48/s1803">1803.</a>  </td>
 
     <td> Financial assistance to Government of Northern Mariana Islands.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—APPROVAL OF COVENANT AND SUPPLEMENTAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1804" data-uslm-ref="/us/usc/t48/s1804">1804.</a>  </td>
 
     <td> Direct grant assistance.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—APPROVAL OF COVENANT AND SUPPLEMENTAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1805" data-uslm-ref="/us/usc/t48/s1805">1805.</a>  </td>
 
     <td> Failure to meet performance standards; resolution of issues; withholding of funds.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—APPROVAL OF COVENANT AND SUPPLEMENTAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1806" data-uslm-ref="/us/usc/t48/s1806">1806.</a>  </td>
 
     <td> Immigration and transition.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—APPROVAL OF COVENANT AND SUPPLEMENTAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1807" data-uslm-ref="/us/usc/t48/s1807">1807.</a>  </td>
 
     <td> Technical assistance program.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—APPROVAL OF COVENANT AND SUPPLEMENTAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1808.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1808" data-uslm-ref="/us/usc/t48/s1808">1808.</a>  </td>
 
     <td> Operations.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—JUDICIAL MATTERS  </td>
 
   <tr>
 
-    <td> 1821.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1821" data-uslm-ref="/us/usc/t48/s1821">1821.</a>  </td>
 
     <td> District Court for the Northern Mariana Islands.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—JUDICIAL MATTERS  </td>
 
   <tr>
 
-    <td> 1822.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1822" data-uslm-ref="/us/usc/t48/s1822">1822.</a>  </td>
 
     <td> Jurisdiction of District Court; original jurisdiction; procedural requirements.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—JUDICIAL MATTERS  </td>
 
   <tr>
 
-    <td> 1823.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1823" data-uslm-ref="/us/usc/t48/s1823">1823.</a>  </td>
 
     <td> Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Ninth Circuit; rules.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—JUDICIAL MATTERS  </td>
 
   <tr>
 
-    <td> 1824.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1824" data-uslm-ref="/us/usc/t48/s1824">1824.</a>  </td>
 
     <td> Relations between courts of United States and courts of Northern Mariana Islands; applicability of statutory provisions.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—JUDICIAL MATTERS  </td>
 
   <tr>
 
-    <td> 1825.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1825" data-uslm-ref="/us/usc/t48/s1825">1825.</a>  </td>
 
     <td> Effective date.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—JUDICIAL MATTERS  </td>
 
   <tr>
 
-    <td> 1826.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1826" data-uslm-ref="/us/usc/t48/s1826">1826.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1841.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1841" data-uslm-ref="/us/usc/t48/s1841">1841.</a>  </td>
 
     <td> Funds and services.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1842.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1842" data-uslm-ref="/us/usc/t48/s1842">1842.</a>  </td>
 
     <td> Covering into Commonwealth treasury of tax proceeds collected pursuant to Covenant.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1843.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1843" data-uslm-ref="/us/usc/t48/s1843">1843.</a>  </td>
 
     <td> Exemption from taxation for income derived from sources within Commonwealth.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1844.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1844" data-uslm-ref="/us/usc/t48/s1844">1844.</a>  </td>
 
     <td> Political union between Territory of Guam and Commonwealth of Northern Mariana Islands.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1845.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1845" data-uslm-ref="/us/usc/t48/s1845">1845.</a>  </td>
 
     <td> Plans for development, utilization, and conservation of water and related land resources.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—MISCELLANEOUS  </td>
 
   <tr>
 
-    <td> 1846.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1846" data-uslm-ref="/us/usc/t48/s1846">1846.</a>  </td>
 
     <td> Exemption from assessment and taxation of real property owned by Commonwealth in United States capital.  </td>
 

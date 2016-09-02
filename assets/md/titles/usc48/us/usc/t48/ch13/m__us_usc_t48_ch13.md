@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1661.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1661" data-uslm-ref="/us/usc/t48/s1661">1661.</a>  </td>
 
     <td> Islands of eastern Samoa.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1662.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1662" data-uslm-ref="/us/usc/t48/s1662">1662.</a>  </td>
 
     <td> Sovereignty of United States extended over Swains Island.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1662a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1662a" data-uslm-ref="/us/usc/t48/s1662a">1662a.</a>  </td>
 
     <td> Amendment of constitution of American Samoa.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1663.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1663" data-uslm-ref="/us/usc/t48/s1663">1663.</a>  </td>
 
     <td> Acknowledgment of deeds.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1664.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1664" data-uslm-ref="/us/usc/t48/s1664">1664.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1665.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1665" data-uslm-ref="/us/usc/t48/s1665">1665.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1666.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1666" data-uslm-ref="/us/usc/t48/s1666">1666.</a>  </td>
 
     <td> Extension of scientific, technical, and other assistance; grant-in-aid program restriction; limitations on expenditures.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1667.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1667" data-uslm-ref="/us/usc/t48/s1667">1667.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1668.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1668" data-uslm-ref="/us/usc/t48/s1668">1668.</a>  </td>
 
     <td> Reporting duties of Governor and transfer of functions from government comptroller for American Samoa to Inspector General, Department of the Interior.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1669.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1669" data-uslm-ref="/us/usc/t48/s1669">1669.</a>  </td>
 
     <td> Administration and enforcement of collection of customs duties; employment and training of residents.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1670.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1670" data-uslm-ref="/us/usc/t48/s1670">1670.</a>  </td>
 
     <td> Industrial development bonds.  </td>
 

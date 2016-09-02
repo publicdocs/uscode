@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1451" data-uslm-ref="/us/usc/t48/s1451">1451.</a>  </td>
 
     <td> Rights of Indians not impaired; boundaries.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1452" data-uslm-ref="/us/usc/t48/s1452">1452.</a>  </td>
 
     <td> Regulation of Indians.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1453 to 1469–1.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1453" data-uslm-ref="/us/usc/t48/s1453">1453</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1469%E2%80%931" data-uslm-ref="/us/usc/t48/s1469–1">1469–1.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1469a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1469a" data-uslm-ref="/us/usc/t48/s1469a">1469a.</a>  </td>
 
     <td> Congressional declaration of policy respecting “Insular Areas”.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1469a–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1469a%E2%80%931" data-uslm-ref="/us/usc/t48/s1469a–1">1469a–1.</a>  </td>
 
     <td> Full amounts to be covered into treasuries of Guam, Northern Mariana Islands, Puerto Rico, and Virgin Islands; reductions prohibited.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1469b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1469b" data-uslm-ref="/us/usc/t48/s1469b">1469b.</a>  </td>
 
     <td> Auditing of transactions of Territorial and local governments.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1469c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1469c" data-uslm-ref="/us/usc/t48/s1469c">1469c.</a>  </td>
 
     <td> Availability of services, facilities, and equipment of agencies and instrumentalities of United States; reimbursement requirements.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1469d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1469d" data-uslm-ref="/us/usc/t48/s1469d">1469d.</a>  </td>
 
     <td> General technical assistance.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1469e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1469e" data-uslm-ref="/us/usc/t48/s1469e">1469e.</a>  </td>
 
     <td> Insular government purchases.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1470 to 1488.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1470" data-uslm-ref="/us/usc/t48/s1470">1470</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1488" data-uslm-ref="/us/usc/t48/s1488">1488.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1489.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1489" data-uslm-ref="/us/usc/t48/s1489">1489.</a>  </td>
 
     <td> Loss of title of United States to lands in territories through adverse possession or prescription forbidden.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1490.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1490" data-uslm-ref="/us/usc/t48/s1490">1490.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1491.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1491" data-uslm-ref="/us/usc/t48/s1491">1491.</a>  </td>
 
     <td> License, permit, etc., for transportation for storage or storage of spent nuclear fuel or high-level radioactive waste; prerequisites; applicability; “territory or possession” defined.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1492.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1492" data-uslm-ref="/us/usc/t48/s1492">1492.</a>  </td>
 
     <td> Energy resources of Caribbean and Pacific insular areas.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1493.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1493" data-uslm-ref="/us/usc/t48/s1493">1493.</a>  </td>
 
     <td> Prosecution; authorization to seek review; local or Federal appellate courts; decisions, judgments or orders.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1494.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1494" data-uslm-ref="/us/usc/t48/s1494">1494.</a>  </td>
 
     <td> Purposes.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1494a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1494a" data-uslm-ref="/us/usc/t48/s1494a">1494a.</a>  </td>
 
     <td> Annual reports to Congress.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1494b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1494b" data-uslm-ref="/us/usc/t48/s1494b">1494b.</a>  </td>
 
     <td> Enforcement and administration in insular areas.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 1494c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1494c" data-uslm-ref="/us/usc/t48/s1494c">1494c.</a>  </td>
 
     <td> Drug Enforcement Agency personnel assignments.  </td>
 

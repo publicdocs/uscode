@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs2001" data-uslm-ref="/us/usc/t48/s2001">2001.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs2002" data-uslm-ref="/us/usc/t48/s2002">2002.</a>  </td>
 
     <td> Reports.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs2003" data-uslm-ref="/us/usc/t48/s2003">2003.</a>  </td>
 
     <td> Conference.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs2004" data-uslm-ref="/us/usc/t48/s2004">2004.</a>  </td>
 
     <td> Administrative matters.  </td>
 

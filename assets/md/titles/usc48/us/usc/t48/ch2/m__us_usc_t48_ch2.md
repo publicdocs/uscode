@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 21 to 50d–1.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs21" data-uslm-ref="/us/usc/t48/s21">21</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs50d%E2%80%931" data-uslm-ref="/us/usc/t48/s50d–1">50d–1.</a>  </td>
 
     <td> Omitted or Repealed.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 50e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs50e" data-uslm-ref="/us/usc/t48/s50e">50e.</a>  </td>
 
     <td> Appropriations for benefit of natives; purchase of supplies for resale to natives, cooperatives, and Department employees.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 50f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs50f" data-uslm-ref="/us/usc/t48/s50f">50f.</a>  </td>
 
     <td> Disposal of miscellaneous revenues from schools, hospitals, and other Indian Service facilities.  </td>
 
@@ -49,9 +49,9 @@
 
   <tr>
 
-    <td> 50g to 488f. Omitted, Repealed, or   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs50g" data-uslm-ref="/us/usc/t48/s50g">50g</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs488f" data-uslm-ref="/us/usc/t48/s488f">488f.</a>  </td>
 
-    <td> Transferred.  </td>
+    <td> Omitted, Repealed, or Transferred.  </td>
 
   </tr>
 

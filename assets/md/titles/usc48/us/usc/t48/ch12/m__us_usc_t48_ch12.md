@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1541" data-uslm-ref="/us/usc/t48/s1541">1541.</a>  </td>
 
     <td> Organization and status.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1542" data-uslm-ref="/us/usc/t48/s1542">1542.</a>  </td>
 
     <td> Voting franchise; discrimination prohibited.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1543.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1543" data-uslm-ref="/us/usc/t48/s1543">1543.</a>  </td>
 
     <td> United States citizenship requirement for government officials.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1544.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1544" data-uslm-ref="/us/usc/t48/s1544">1544.</a>  </td>
 
     <td> Reports by Governor; jurisdiction of Secretary of the Interior; exceptions.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1545.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1545" data-uslm-ref="/us/usc/t48/s1545">1545.</a>  </td>
 
     <td> Lease and sale of public property; conveyance of title in certain lands to the government of Virgin Islands.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1546.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1546" data-uslm-ref="/us/usc/t48/s1546">1546.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—BILL OF RIGHTS  </td>
 
   <tr>
 
-    <td> 1561.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1561" data-uslm-ref="/us/usc/t48/s1561">1561.</a>  </td>
 
     <td> Rights and prohibitions.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER III—LEGISLATIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1571.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1571" data-uslm-ref="/us/usc/t48/s1571">1571.</a>  </td>
 
     <td> Legislature.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER III—LEGISLATIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1572.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1572" data-uslm-ref="/us/usc/t48/s1572">1572.</a>  </td>
 
     <td> Legislators.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—LEGISLATIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1573.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1573" data-uslm-ref="/us/usc/t48/s1573">1573.</a>  </td>
 
     <td> Time, frequency, and duration of regular sessions; special sessions; place of holding.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER III—LEGISLATIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1574.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1574" data-uslm-ref="/us/usc/t48/s1574">1574.</a>  </td>
 
     <td> Legislative powers and activities.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER III—LEGISLATIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1574–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1574%E2%80%931" data-uslm-ref="/us/usc/t48/s1574–1">1574–1.</a>  </td>
 
     <td> Applicability of laws referred to in section 502(a)(1) of Covenant to Establish a Commonwealth of the Northern Mariana Islands.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER III—LEGISLATIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1574a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1574a" data-uslm-ref="/us/usc/t48/s1574a">1574a.</a>  </td>
 
     <td> Revenue bonds or other obligations.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER III—LEGISLATIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1574b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1574b" data-uslm-ref="/us/usc/t48/s1574b">1574b.</a>  </td>
 
     <td> Federal guarantee for issuance of revenue bonds or other obligations.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER III—LEGISLATIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1574c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1574c" data-uslm-ref="/us/usc/t48/s1574c">1574c.</a>  </td>
 
     <td> Priority for payment of principal and interest of revenue bonds or other obligations.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—LEGISLATIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1574d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1574d" data-uslm-ref="/us/usc/t48/s1574d">1574d.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—LEGISLATIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1575.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1575" data-uslm-ref="/us/usc/t48/s1575">1575.</a>  </td>
 
     <td> Legislative procedure.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—LEGISLATIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1576.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1576" data-uslm-ref="/us/usc/t48/s1576">1576.</a>  </td>
 
     <td> General elections; time; transfer of Council functions, property, etc.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER IV—EXECUTIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1591.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1591" data-uslm-ref="/us/usc/t48/s1591">1591.</a>  </td>
 
     <td> Governor and Lieutenant Governor; election; eligibility; official residence; powers and duties; report.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER IV—EXECUTIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1592.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1592" data-uslm-ref="/us/usc/t48/s1592">1592.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER IV—EXECUTIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1593.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1593" data-uslm-ref="/us/usc/t48/s1593">1593.</a>  </td>
 
     <td> Initiative and recall.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER IV—EXECUTIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1594.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1594" data-uslm-ref="/us/usc/t48/s1594">1594.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER IV—EXECUTIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1595.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1595" data-uslm-ref="/us/usc/t48/s1595">1595.</a>  </td>
 
     <td> Vacancy in office of Governor or Lieutenant Governor.  </td>
 
@@ -241,7 +241,7 @@ SUBCHAPTER IV—EXECUTIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1596.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1596" data-uslm-ref="/us/usc/t48/s1596">1596.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -249,7 +249,7 @@ SUBCHAPTER IV—EXECUTIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1597.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1597" data-uslm-ref="/us/usc/t48/s1597">1597.</a>  </td>
 
     <td> Reorganization of government.  </td>
 
@@ -257,7 +257,7 @@ SUBCHAPTER IV—EXECUTIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1598.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1598" data-uslm-ref="/us/usc/t48/s1598">1598.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -265,7 +265,7 @@ SUBCHAPTER IV—EXECUTIVE BRANCH  </td>
 
   <tr>
 
-    <td> 1599.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1599" data-uslm-ref="/us/usc/t48/s1599">1599.</a>  </td>
 
     <td> Transfer of functions from government comptroller for Virgin Islands to Inspector General, Department of the Interior.  </td>
 
@@ -281,7 +281,7 @@ SUBCHAPTER V—JUDICIAL BRANCH  </td>
 
   <tr>
 
-    <td> 1611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1611" data-uslm-ref="/us/usc/t48/s1611">1611.</a>  </td>
 
     <td> District Court of Virgin Islands; local courts; jurisdiction; practice and procedure.  </td>
 
@@ -289,7 +289,7 @@ SUBCHAPTER V—JUDICIAL BRANCH  </td>
 
   <tr>
 
-    <td> 1612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1612" data-uslm-ref="/us/usc/t48/s1612">1612.</a>  </td>
 
     <td> Jurisdiction of District Court.  </td>
 
@@ -297,7 +297,7 @@ SUBCHAPTER V—JUDICIAL BRANCH  </td>
 
   <tr>
 
-    <td> 1613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1613" data-uslm-ref="/us/usc/t48/s1613">1613.</a>  </td>
 
     <td> Relations between courts of United States and courts of Virgin Islands; review by United States Court of Appeals for Third Circuit; reports to Congress; rules.  </td>
 
@@ -305,7 +305,7 @@ SUBCHAPTER V—JUDICIAL BRANCH  </td>
 
   <tr>
 
-    <td> 1613a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1613a" data-uslm-ref="/us/usc/t48/s1613a">1613a.</a>  </td>
 
     <td> Appellate jurisdiction of District Court; procedure; review by United States Court of Appeals for Third Circuit; rules; appeals to appellate court.  </td>
 
@@ -313,7 +313,7 @@ SUBCHAPTER V—JUDICIAL BRANCH  </td>
 
   <tr>
 
-    <td> 1614.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1614" data-uslm-ref="/us/usc/t48/s1614">1614.</a>  </td>
 
     <td> Judges of District Court.  </td>
 
@@ -321,7 +321,7 @@ SUBCHAPTER V—JUDICIAL BRANCH  </td>
 
   <tr>
 
-    <td> 1615.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1615" data-uslm-ref="/us/usc/t48/s1615">1615.</a>  </td>
 
     <td> Judicial divisions.  </td>
 
@@ -329,7 +329,7 @@ SUBCHAPTER V—JUDICIAL BRANCH  </td>
 
   <tr>
 
-    <td> 1616.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1616" data-uslm-ref="/us/usc/t48/s1616">1616.</a>  </td>
 
     <td> Trial by jury.  </td>
 
@@ -337,7 +337,7 @@ SUBCHAPTER V—JUDICIAL BRANCH  </td>
 
   <tr>
 
-    <td> 1617.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1617" data-uslm-ref="/us/usc/t48/s1617">1617.</a>  </td>
 
     <td> United States attorney; appointment; duties.  </td>
 
@@ -353,7 +353,7 @@ SUBCHAPTER VI—SYSTEM OF ACCOUNTS  </td>
 
   <tr>
 
-    <td> 1631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1631" data-uslm-ref="/us/usc/t48/s1631">1631.</a>  </td>
 
     <td> Establishment and maintenance; scope.  </td>
 
@@ -361,7 +361,7 @@ SUBCHAPTER VI—SYSTEM OF ACCOUNTS  </td>
 
   <tr>
 
-    <td> 1632.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1632" data-uslm-ref="/us/usc/t48/s1632">1632.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -377,7 +377,7 @@ SUBCHAPTER VII—FISCAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1641.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1641" data-uslm-ref="/us/usc/t48/s1641">1641.</a>  </td>
 
     <td> Method of payment of official salaries.  </td>
 
@@ -385,7 +385,7 @@ SUBCHAPTER VII—FISCAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1642.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1642" data-uslm-ref="/us/usc/t48/s1642">1642.</a>  </td>
 
     <td> Use of certain proceeds for expenditure; income tax obligations of inhabitants.  </td>
 
@@ -393,7 +393,7 @@ SUBCHAPTER VII—FISCAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1642a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1642a" data-uslm-ref="/us/usc/t48/s1642a">1642a.</a>  </td>
 
     <td> Availability of collected customs duties for expenditures as Legislature may provide.  </td>
 
@@ -401,7 +401,7 @@ SUBCHAPTER VII—FISCAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1643.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1643" data-uslm-ref="/us/usc/t48/s1643">1643.</a>  </td>
 
     <td> Import provisions with respect to trade-marks.  </td>
 
@@ -409,7 +409,7 @@ SUBCHAPTER VII—FISCAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1644.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1644" data-uslm-ref="/us/usc/t48/s1644">1644.</a>  </td>
 
     <td> Import duties on articles entering United States or possessions from Virgin Islands.  </td>
 
@@ -417,7 +417,7 @@ SUBCHAPTER VII—FISCAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1645.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1645" data-uslm-ref="/us/usc/t48/s1645">1645.</a>  </td>
 
     <td> Remittance of duties, taxes, and fees to be collected in next fiscal year; authorization, prerequisites, amount, etc.  </td>
 

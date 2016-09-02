@@ -33,7 +33,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1391.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1391" data-uslm-ref="/us/usc/t48/s1391">1391.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1392.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1392" data-uslm-ref="/us/usc/t48/s1392">1392.</a>  </td>
 
     <td> Local laws continued; courts.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1392a to 1393.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1392a" data-uslm-ref="/us/usc/t48/s1392a">1392a</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1393" data-uslm-ref="/us/usc/t48/s1393">1393.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1394.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1394" data-uslm-ref="/us/usc/t48/s1394">1394.</a>  </td>
 
     <td> Customs duties and internal-revenue taxes.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1395.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1395" data-uslm-ref="/us/usc/t48/s1395">1395.</a>  </td>
 
     <td> Tax laws continued; tax on sugar.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1396.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1396" data-uslm-ref="/us/usc/t48/s1396">1396.</a>  </td>
 
     <td> Duties and taxes covered into Virgin Islands treasury.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1397.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1397" data-uslm-ref="/us/usc/t48/s1397">1397.</a>  </td>
 
     <td> Income tax laws of United States in force; payment of proceeds; levy of surtax on all taxpayers.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1398 to 1401f.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1398" data-uslm-ref="/us/usc/t48/s1398">1398</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1401f" data-uslm-ref="/us/usc/t48/s1401f">1401f.</a>  </td>
 
     <td> Omitted or Repealed.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1402" data-uslm-ref="/us/usc/t48/s1402">1402.</a>  </td>
 
     <td> Extension of industrial alcohol and internal revenue laws to Virgin Islands.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1403" data-uslm-ref="/us/usc/t48/s1403">1403.</a>  </td>
 
     <td> Issuance of bonds or other obligations by government or municipalities; use of proceeds; limit on public indebtedness; terms, execution, interest rate, and sale price; taxes.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1403a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1403a" data-uslm-ref="/us/usc/t48/s1403a">1403a.</a>  </td>
 
     <td> Expenditure of bond proceeds for public improvements.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1403b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1403b" data-uslm-ref="/us/usc/t48/s1403b">1403b.</a>  </td>
 
     <td> Bond liability of United States.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—CIVIL GOVERNMENT  </td>
 
   <tr>
 
-    <td> 1405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1405" data-uslm-ref="/us/usc/t48/s1405">1405.</a>  </td>
 
     <td> Geographical application of subchapter; land and waters included in term “Virgin Islands”.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—CIVIL GOVERNMENT  </td>
 
   <tr>
 
-    <td> 1405a, 1405b.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1405a" data-uslm-ref="/us/usc/t48/s1405a">1405a</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1405b" data-uslm-ref="/us/usc/t48/s1405b">1405b.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—CIVIL GOVERNMENT  </td>
 
   <tr>
 
-    <td> 1405c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1405c" data-uslm-ref="/us/usc/t48/s1405c">1405c.</a>  </td>
 
     <td> Transfer of property to government.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—CIVIL GOVERNMENT  </td>
 
   <tr>
 
-    <td> 1405d to 1405p.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1405d" data-uslm-ref="/us/usc/t48/s1405d">1405d</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1405p" data-uslm-ref="/us/usc/t48/s1405p">1405p.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—CIVIL GOVERNMENT  </td>
 
   <tr>
 
-    <td> 1405q.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1405q" data-uslm-ref="/us/usc/t48/s1405q">1405q.</a>  </td>
 
     <td> Laws continued in force until modified; patent, trade mark, and copyright laws extended to Virgin Islands; jurisdiction of district court.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—CIVIL GOVERNMENT  </td>
 
   <tr>
 
-    <td> 1405r to 1406e.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1405r" data-uslm-ref="/us/usc/t48/s1405r">1405r</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1406e" data-uslm-ref="/us/usc/t48/s1406e">1406e.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—CIVIL GOVERNMENT  </td>
 
   <tr>
 
-    <td> 1406f.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1406f" data-uslm-ref="/us/usc/t48/s1406f">1406f.</a>  </td>
 
     <td> Judicial process; title of criminal prosecutions.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—CIVIL GOVERNMENT  </td>
 
   <tr>
 
-    <td> 1406g.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1406g" data-uslm-ref="/us/usc/t48/s1406g">1406g.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER II—CIVIL GOVERNMENT  </td>
 
   <tr>
 
-    <td> 1406h.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1406h" data-uslm-ref="/us/usc/t48/s1406h">1406h.</a>  </td>
 
     <td> Taxes, duties and fees as funds for benefit of municipalities; appropriations.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER II—CIVIL GOVERNMENT  </td>
 
   <tr>
 
-    <td> 1406i.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1406i" data-uslm-ref="/us/usc/t48/s1406i">1406i.</a>  </td>
 
     <td> Taxes and fees; power to assess and collect; ports of entry; export duties.  </td>
 
@@ -217,7 +217,7 @@ SUBCHAPTER II—CIVIL GOVERNMENT  </td>
 
   <tr>
 
-    <td> 1406j, 1406k.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1406j" data-uslm-ref="/us/usc/t48/s1406j">1406j</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1406k" data-uslm-ref="/us/usc/t48/s1406k">1406k.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -225,7 +225,7 @@ SUBCHAPTER II—CIVIL GOVERNMENT  </td>
 
   <tr>
 
-    <td> 1406l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1406" data-uslm-ref="/us/usc/t48/s1406">1406</a>l.  </td>
 
     <td> Effective date.  </td>
 
@@ -233,7 +233,7 @@ SUBCHAPTER II—CIVIL GOVERNMENT  </td>
 
   <tr>
 
-    <td> 1406m.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1406m" data-uslm-ref="/us/usc/t48/s1406m">1406m.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -249,7 +249,9 @@ SUBCHAPTER III—VIRGIN ISLANDS CORPORATION  </td>
 
   <tr>
 
-    <td> 1407 to 1407i. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1407" data-uslm-ref="/us/usc/t48/s1407">1407</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1407i" data-uslm-ref="/us/usc/t48/s1407i">1407i.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -263,7 +265,7 @@ SUBCHAPTER IV—PUBLIC HOUSING  </td>
 
   <tr>
 
-    <td> 1408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1408" data-uslm-ref="/us/usc/t48/s1408">1408.</a>  </td>
 
     <td> Legislative authority to create authorities; appointment of members; powers of authorities.  </td>
 
@@ -271,7 +273,7 @@ SUBCHAPTER IV—PUBLIC HOUSING  </td>
 
   <tr>
 
-    <td> 1408a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1408a" data-uslm-ref="/us/usc/t48/s1408a">1408a.</a>  </td>
 
     <td> Issuance of notes, bonds, and obligations.  </td>
 
@@ -279,7 +281,7 @@ SUBCHAPTER IV—PUBLIC HOUSING  </td>
 
   <tr>
 
-    <td> 1408b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1408b" data-uslm-ref="/us/usc/t48/s1408b">1408b.</a>  </td>
 
     <td> Authorization of loans, conveyances, etc., by government and municipalities.  </td>
 
@@ -287,7 +289,7 @@ SUBCHAPTER IV—PUBLIC HOUSING  </td>
 
   <tr>
 
-    <td> 1408c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1408c" data-uslm-ref="/us/usc/t48/s1408c">1408c.</a>  </td>
 
     <td> Grants-in-aid by Federal Government.  </td>
 
@@ -295,7 +297,7 @@ SUBCHAPTER IV—PUBLIC HOUSING  </td>
 
   <tr>
 
-    <td> 1408d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1408d" data-uslm-ref="/us/usc/t48/s1408d">1408d.</a>  </td>
 
     <td> Ratification of prior acts.  </td>
 
@@ -303,7 +305,7 @@ SUBCHAPTER IV—PUBLIC HOUSING  </td>
 
   <tr>
 
-    <td> 1408e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1408e" data-uslm-ref="/us/usc/t48/s1408e">1408e.</a>  </td>
 
     <td> Additional powers.  </td>
 
@@ -319,7 +321,9 @@ SUBCHAPTER V—INTERNAL DEVELOPMENT  </td>
 
   <tr>
 
-    <td> 1409 to 1409j. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1409" data-uslm-ref="/us/usc/t48/s1409">1409</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1409j" data-uslm-ref="/us/usc/t48/s1409j">1409j.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -333,9 +337,7 @@ SUBCHAPTER VI—AGRICULTURAL PROGRAM  </td>
 
   <tr>
 
-    <td> 1409m to 1409o.   </td>
-
-    <td> Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1409m" data-uslm-ref="/us/usc/t48/s1409m">1409m</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs1409" data-uslm-ref="/us/usc/t48/s1409">1409</a>o. Repealed.  </td>
 
   </tr>
 

@@ -25,7 +25,9 @@
 
   <tr>
 
-    <td> 491 to 636. Repealed or Omitted.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs491" data-uslm-ref="/us/usc/t48/s491">491</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs636" data-uslm-ref="/us/usc/t48/s636">636.</a>  </td>
+
+    <td> Repealed or Omitted.  </td>
 
   </tr>
 
@@ -39,7 +41,7 @@ DISTRICT COURT  </td>
 
   <tr>
 
-    <td> 641 to 644.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs641" data-uslm-ref="/us/usc/t48/s641">641</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs644" data-uslm-ref="/us/usc/t48/s644">644.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -47,7 +49,7 @@ DISTRICT COURT  </td>
 
   <tr>
 
-    <td> 644a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs644a" data-uslm-ref="/us/usc/t48/s644a">644a.</a>  </td>
 
     <td> Jurisdiction of district court of cases arising on or within Midway, Wake, Johnston, Sand, etc., Islands; laws applicable to jury trials.  </td>
 
@@ -55,7 +57,7 @@ DISTRICT COURT  </td>
 
   <tr>
 
-    <td> 645 to 724.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs645" data-uslm-ref="/us/usc/t48/s645">645</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft48%2Fs724" data-uslm-ref="/us/usc/t48/s724">724.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 

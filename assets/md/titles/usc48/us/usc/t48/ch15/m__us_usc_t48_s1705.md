@@ -15,9 +15,9 @@
 
 ## § 1705. Tidelands, submerged lands, or filled lands
 
-    (a) __Conveyance to Guam, Virgin Islands, and American Samoa__ 
+    (a) __Conveyance to Guam, the Commonwealth of the Northern Mariana Islands, Virgin Islands, and American Samoa__ 
 
-        Subject to valid existing rights, all right, title, and interest of the United States in lands permanently or periodically covered by tidal waters up to but not above the line of mean high tide and seaward to a line three geographical miles distant from the coastlines of the territories of Guam, the Virgin Islands, and American Samoa, as heretofore or hereafter modified by accretion, erosion, and reliction, and in artificially made, filled in, or reclaimed lands which were formerly permanently or periodically covered by tidal waters, are hereby conveyed to the governments of Guam, the Virgin Islands, and American Samoa, as the case may be, to be administered in trust for the benefit of the people thereof.
+        Subject to valid existing rights, all right, title, and interest of the United States in lands permanently or periodically covered by tidal waters up to but not above the line of mean high tide and seaward to a line three geographical miles distant from the coastlines of the territories of Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, and American Samoa, as heretofore or hereafter modified by accretion, erosion, and reliction, and in artificially made, filled in, or reclaimed lands which were formerly permanently or periodically covered by tidal waters, are hereby conveyed to the governments of Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, and American Samoa, as the case may be, to be administered in trust for the benefit of the people thereof.
 
     (b) __Retention of certain lands and mineral rights by United States__ 
 
@@ -27,15 +27,15 @@
 
         (ii) all submerged lands adjacent to property owned by the United States above the line of mean high tide;
 
-        (iii) all submerged lands adjacent to property above the line of mean high tide acquired by the United States by eminent domain proceedings, purchase, exchange, or gift, after October 5, 1974, as required for completion of the Department of the Navy Land Acquisition Project relative to the construction of the Ammunition Pier authorized by the Military Construction Authorization Act, 1971 ([84 Stat. 1204][/us/stat/84/1204]), as amended by section 201 of the Military Construction Act, 1973 ([86 Stat. 1135][/us/stat/86/1135]);
+        (iii) all submerged lands adjacent to property above the line of mean high tide acquired by the United States by eminent domain proceedings, purchase, exchange, or gift, after the date of enactment of this Act, as required for completion of the Department of the Navy Land Acquisition Project relative to the construction of the Ammunition Pier authorized by the Military Construction Authorization Act, 1971 ([84 Stat. 1204][/us/stat/84/1204]), as amended by section 201 of the Military Construction Act, 1973 ([86 Stat. 1135][/us/stat/86/1135]);
 
-        (iv) all submerged lands filled in, built up, or otherwise reclaimed by the United States, before October 5, 1974, for its own use;
+        (iv) all submerged lands filled in, built up, or otherwise reclaimed by the United States, before the date of enactment of this Act, for its own use;
 
         (v) all tracts or parcels of submerged land containing on any part thereof any structures or improvements constructed by the United States;
 
         (vi) all submerged lands that have heretofore been determined by the President or the Congress to be of such scientific, scenic, or historic character as to warrant preservation and administration under the provisions of sections 1, 2, 3, and 4 of title 16;
 
-        (vii) all submerged lands designated by the President within one hundred and twenty days after October 5, 1974;
+        (vii) all submerged lands designated by the President within one hundred and twenty days after the date of enactment of this Act;
 
         (viii) all submerged lands that are within the administrative responsibility of any agency or department of the United States other than the Department of the Interior;
 
@@ -45,33 +45,45 @@
 
         (xi) all submerged lands within the Buck Island Reef National Monument as described in Presidential Proclamation 3448 dated December 28, 1961.
 
-        Upon request of the Governor of Guam, the Virgin Islands, or American Samoa, the Secretary of the Interior may, with or without reimbursement, and subject to the procedure specified in subsection (c) of this section convey all right, title, and interest of the United States in any of the lands described in clauses (ii), (iii), (iv), (v), (vi), (vii), or (viii) of this subsection to the government of Guam, the Virgin Islands, or American Samoa, as the case may be, with the concurrence of the agency having custody thereof.
+        Upon request of the Governor of Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, or American Samoa, the Secretary of the Interior may, with or without reimbursement, and subject to the procedure specified in subsection (c) of this section convey all right, title, and interest of the United States in any of the lands described in clauses (ii), (iii), (iv), (v), (vi), (vii), or (viii) of this subsection to the government of Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, or American Samoa, as the case may be, with the concurrence of the agency having custody thereof.
 
     (c) __Submittal to Congressional committees of proposals for conveyance of retained lands or rights__ 
 
         No conveyance shall be made by the Secretary pursuant to subsection (a) or (b) of this section until the expiration of sixty calendar days (excluding days on which the House of Representatives or the Senate is not in session because of an adjournment of more than three days to a day certain) from the date on which the Secretary of the Interior submits to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an explanatory statement indicating the tract proposed to be conveyed and the need therefor, unless prior to the expiration of such sixty calendar days both committees inform the Secretary that they wish to take no action with respect to the proposed conveyance.
 
-    (d) __Oil, gas, and other mineral deposits in submerged lands conveyed to Guam, Virgin Islands, and American Samoa; conveyance by United States; existing leases, permits, etc.__ 
+    (d) __Oil, gas, and other mineral deposits in submerged lands conveyed to Guam, the Commonwealth of the Northern Mariana Islands, Virgin Islands, and American Samoa; conveyance by United States; existing leases, permits, etc.__ 
 
-        (1) The Secretary of the Interior shall, not later than sixty days after March 12, 1980, convey to the governments of Guam, the Virgin Islands, and American Samoa, as the case may be, all right, title, and interest of the United States in deposits of oil, gas, and other minerals in the submerged lands conveyed to the government of such territory by subsection (a) of this section.
+        (1) The Secretary of the Interior shall, not later than sixty days after the date of enactment of this subsection, convey to the governments of Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, and American Samoa, as the case may be, all right, title, and interest of the United States in deposits of oil, gas, and other minerals in the submerged lands conveyed to the government of such territory by subsection (a) of this section.
 
         (2) The conveyance of mineral deposits under paragraph (1) of this subsection shall be subject to any existing lease, permit, or other interest granted by the United States prior to the date of such conveyance. All rentals, royalties, or fees which accrue after such date of conveyance in connection with any such lease, permit, or other interest shall be payable to the government of the territory to which such mineral deposits are conveyed.
 
-([Pub. L. 93–435, § 1][/us/pl/93/435/s1], Oct. 5, 1974, [88 Stat. 1210][/us/stat/88/1210]; [Pub. L. 96–205, title VI, § 607][/us/pl/96/205/s607], Mar. 12, 1980, [94 Stat. 91][/us/stat/94/91]; [Pub. L. 103–437, § 17(b)][/us/pl/103/437/s17/b], Nov. 2, 1994, [108 Stat. 4595][/us/stat/108/4595].)
+([Pub. L. 93–435, § 1][/us/pl/93/435/s1], Oct. 5, 1974, [88 Stat. 1210][/us/stat/88/1210]; [Pub. L. 96–205, title VI, § 607][/us/pl/96/205/s607], Mar. 12, 1980, [94 Stat. 91][/us/stat/94/91]; [Pub. L. 103–437, § 17(b)][/us/pl/103/437/s17/b], Nov. 2, 1994, [108 Stat. 4595][/us/stat/108/4595]; [Pub. L. 113–34, § 1(a)][/us/pl/113/34/s1/a], Sept. 18, 2013, [127 Stat. 518][/us/stat/127/518].)
 
  __References in Text__ 
 
     The authorization for the construction by the Navy of the Ammunition Pier under the Military Construction Authorization Act, 1971, ([84 Stat. 1204][/us/stat/84/1204]), as amended by section 201 of the Military Construction Act, 1973 ([86 Stat. 1135][/us/stat/86/1135]), referred to in subsec. (b)(iii), is contained in [section 201 of Pub. L. 91–511][/us/pl/91/511/s201], Oct. 26, 1970, [84 Stat. 1204][/us/stat/84/1204], as amended by [section 201 of Pub. L. 92–545][/us/pl/92/545/s201], Oct. 25, 1972, [86 Stat. 1138][/us/stat/86/1138], which is not classified to the Code.
 
+    The date of enactment of this Act, referred to in subsec. (b)(iii), (iv), and (vii), is the date of enactment of [Pub. L. 93–435][/us/pl/93/435], which was approved Oct. 5, 1974.
+
     [Section 398b of title 16][/us/usc/t16/s398b], referred to in subsec. (b)(x), was repealed by [Pub. L. 85–404][/us/pl/85/404], May 16, 1958, [72 Stat. 112][/us/stat/72/112].
 
+    The date of enactment of this subsection, referred to in subsec. (d)(1), is the date of enactment of [Pub. L. 96–205][/us/pl/96/205], which was approved Mar. 12, 1980.
+
  __Amendments__ 
+
+    2013—[Pub. L. 113–34][/us/pl/113/34] inserted “the Commonwealth of the Northern Mariana Islands,” after “Guam,” wherever appearing.
 
     1994—Subsec. (c). [Pub. L. 103–437][/us/pl/103/437] substituted “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate” for “Committees on Interior and Insular Affairs of the House of Representatives and the Senate”.
 
     1980—Subsec. (c). [Pub. L. 96–205, § 607(b)][/us/pl/96/205/s607/b], inserted “subsection (a) or (b) of” before “this section”.
 
     Subsec. (d). [Pub. L. 96–205, § 607(a)][/us/pl/96/205/s607/a], added subsec. (d).
+
+ __References to “Date of Enactment”__ 
+
+[Pub. L. 113–34, § 1(b)][/us/pl/113/34/s1/b], Sept. 18, 2013, [127 Stat. 518][/us/stat/127/518], provided that: 
+
+> “For the purposes of the amendment made by subsection (a) \[amending this section and [section 1706 of this title][/us/usc/t48/s1706]\], each reference in [Public Law 93–435][/us/pl/93/435] \[see Tables for classification\] to the ‘date of enactment’ shall be considered to be a reference to the date of the enactment of this section \[Sept. 18, 2013\].”
 
  __Proc. No. 4346. Reserving Certain Lands Adjacent to and Enlarging Boundaries of Buck Island Reef National Monument in Virgin Islands__ 
 
@@ -124,18 +136,27 @@
 [/us/stat/94/91]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F91
 [/us/pl/103/437/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437%2Fs17%2Fb
 [/us/stat/108/4595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4595
+[/us/pl/113/34/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F34%2Fs1%2Fa
+[/us/stat/127/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F518
 [/us/stat/84/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1204
 [/us/stat/86/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1135
 [/us/pl/91/511/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F511%2Fs201
 [/us/stat/84/1204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1204
 [/us/pl/92/545/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F545%2Fs201
 [/us/stat/86/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1138
+[/us/pl/93/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435
 [/us/usc/t16/s398b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs398b
 [/us/pl/85/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F404
 [/us/stat/72/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F112
+[/us/pl/96/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205
+[/us/pl/113/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F34
 [/us/pl/103/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F437
 [/us/pl/96/205/s607/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2Fs607%2Fb
 [/us/pl/96/205/s607/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F205%2Fs607%2Fa
+[/us/pl/113/34/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F34%2Fs1%2Fb
+[/us/stat/127/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F518
+[/us/usc/t48/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1706
+[/us/pl/93/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435
 [/us/stat/76/1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F1441
 [/us/pl/93/435/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F435%2Fs1%2Fa
 [/us/stat/88/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1210

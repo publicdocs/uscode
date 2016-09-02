@@ -33,7 +33,7 @@
 
     [Public Law 99–177][/us/pl/99/177], referred to in text, is [Pub. L. 99–177][/us/pl/99/177], Dec. 12, 1985, [99 Stat. 1037][/us/stat/99/1037], as amended, title II of which is known as the “Balanced Budget and Emergency Deficit Control Act of 1985”, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and [section 911 of Title 42][/us/usc/t42/s911], The Public Health and Welfare, repealed [section 661 of Title 2][/us/usc/t2/s661], enacted provisions set out as notes under [section 900 of Title 2][/us/usc/t2/s900] and [section 911 of Title 42][/us/usc/t42/s911], and amended provisions set out as a note under [section 621 of Title 2][/us/usc/t2/s621]. For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2][/us/usc/t2/s900] and Tables.
 
-    [Public Law 99–366][/us/pl/99/366], referred to in text, is [Pub. L. 99–366][/us/pl/99/366], July 31, 1986, [100 Stat. 773][/us/stat/100/773], which is set out as a note under [section 902 of Title 2][/us/usc/t2/s902].
+    [Public Law 99–366][/us/pl/99/366], referred to in text, is [Pub. L. 99–366][/us/pl/99/366], July 31, 1986, [100 Stat. 773][/us/stat/100/773], which is classified as a note under [section 904 of Title 2][/us/usc/t2/s904].
 
 ----------
 
@@ -80,6 +80,6 @@
 [/us/pl/99/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F366
 [/us/pl/99/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F366
 [/us/stat/100/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F773
-[/us/usc/t2/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs902
+[/us/usc/t2/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs904
 
 
