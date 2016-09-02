@@ -1,0 +1,35 @@
+---
+---
+
+# 7 U.S.C., USLM ref /us/usc/t7/s509
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../..//us/usc/t7/ch21/m__us_usc_t7_s508.md) | [Next](./../../../..//us/usc/t7/ch21A/m__us_usc_t7_ch21A.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs509)
+
+## § 509. Repealed. [Pub. L. 104–127, title II, § 262][/us/pl/104/127/s262], Apr. 4, 1996, [110 Stat. 973][/us/stat/110/973]
+
+    Section, [Pub. L. 98–180, title II, § 214][/us/pl/98/180/s214], as added [Pub. L. 101–624, title XV, § 1557][/us/pl/101/624/s1557], Nov. 28, 1990, [104 Stat. 3699][/us/stat/104/3699]; amended [Pub. L. 102–237, title III, § 337][/us/pl/102/237/s337], Dec. 13, 1991, [105 Stat. 1859][/us/stat/105/1859], provided for reporting requirements relating to tobacco.
+
+----------
+
+[Previous](./../../../..//us/usc/t7/ch21/m__us_usc_t7_s508.md) | [Next](./../../../..//us/usc/t7/ch21A/m__us_usc_t7_ch21A.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs509)
+
+----------
+----------
+
+[/us/pl/104/127/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F127%2Fs262
+[/us/stat/110/973]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F973
+[/us/pl/98/180/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F180%2Fs214
+[/us/pl/101/624/s1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F624%2Fs1557
+[/us/stat/104/3699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3699
+[/us/pl/102/237/s337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237%2Fs337
+[/us/stat/105/1859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1859
+
+

@@ -1,0 +1,174 @@
+---
+---
+
+# 7 U.S.C., USLM ref /us/usc/t7/s2541
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../../..//us/usc/t7/ch57/schIII/ptK/m__us_usc_t7_ch57_schIII_ptK.md) | [Next](./../../../../../..//us/usc/t7/ch57/schIII/ptK/m__us_usc_t7_s2542.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2541)
+
+## § 2541. Infringement of plant variety protection
+
+    (a) __Acts constituting infringement__ 
+
+    Except as otherwise provided in this subchapter, it shall be an infringement of the rights of the owner of a protected variety to perform without authority, any of the following acts in the United States, or in commerce which can be regulated by Congress or affecting such commerce, prior to expiration of the right to plant variety protection but after either the issue of the certificate or the distribution of a protected plant variety with the notice under [section 2567 of this title][/us/usc/t7/s2567]:
+
+        (1) sell or market the protected variety, or offer it or expose it for sale, deliver it, ship it, consign it, exchange it, or solicit an offer to buy it, or any other transfer of title or possession of it;
+
+        (2) import the variety into, or export it from, the United States;
+
+        (3) sexually multiply, or propagate by a tuber or a part of a tuber, the variety as a step in marketing (for growing purposes) the variety;
+
+        (4) use the variety in producing (as distinguished from developing) a hybrid or different variety therefrom;
+
+        (5) use seed which had been marked “Unauthorized Propagation Prohibited” or “Unauthorized Seed Multiplication Prohibited” or progeny thereof to propagate the variety;
+
+        (6) dispense the variety to another, in a form which can be propagated, without notice as to being a protected variety under which it was received;
+
+        (7) condition the variety for the purpose of propagation, except to the extent that the conditioning is related to the activities permitted under [section 2543 of this title][/us/usc/t7/s2543];
+
+        (8) stock the variety for any of the purposes referred to in paragraphs (1) through (7);
+
+        (9) perform any of the foregoing acts even in instances in which the variety is multiplied other than sexually, except in pursuance of a valid United States plant patent; or
+
+        (10) instigate or actively induce performance of any of the foregoing acts.
+
+    (b) __Uses authorized by owner__ 
+
+        (1) Subject to paragraph (2), the owner of a protected variety may authorize the use of the variety under this section subject to conditions and limitations specified by the owner.
+
+        (2)
+
+         In the case of a contract between a seed producer and the owner of a protected variety of lawn, turf, or forage grass seed, or alfalfa or clover seed for the production of seed of the protected variety, the producer shall be deemed to be authorized by the owner to sell such seed and to use the variety if—
+
+            (A) the producer has fulfilled the terms of the contract;
+
+            (B) the owner refuses to take delivery of the seed or refuses to pay any amounts due under the contract within 30 days of the payment date specified in the contract; and
+
+            (C) after the expiration of the period specified in subparagraph (B), the producer notifies the owner of the producer’s intent to sell the seed and unless the owner fails to pay the amounts due under the contract and take delivery of the seed within 30 days of such notification. For the purposes of this paragraph, the term “owner” shall include any licensee of the owner.
+
+        (3) Paragraph (2) shall apply to contracts entered into with respect to plant varieties protected under this chapter as in effect on the day before the effective date of this provision as well as plant varieties protected under this chapter as amended by the Plant Variety Protection Act Amendments of 1994.
+
+        (4) Nothing in this subsection shall affect any other rights or remedies of producers or owners that may exist under other Federal or State laws.
+
+    (c) __Applicability to certain plant varieties__ 
+
+    This section shall apply equally to—
+
+        (1) any variety that is essentially derived from a protected variety, unless the protected variety is an essentially derived variety;
+
+        (2) any variety that is not clearly distinguishable from a protected variety;
+
+        (3) any variety whose production requires the repeated use of a protected variety; and
+
+        (4) harvested material (including entire plants and parts of plants) obtained through the unauthorized use of propagating material of a protected variety, unless the owner of the variety has had a reasonable opportunity to exercise the rights provided under this chapter with respect to the propagating material.
+
+    (d) __Acts not considered infringing__ 
+
+        It shall not be an infringement of the rights of the owner of a variety to perform any act concerning propagating material of any kind, or harvested material, including entire plants and parts of plants, of a protected variety that is sold or otherwise marketed with the consent of the owner in the United States, unless the act involves further propagation of the variety or involves an export of material of the variety, that enables the propagation of the variety, into a country that does not protect varieties of the plant genus or species to which the variety belongs, unless the exported material is for final consumption purposes.
+
+    (e) __Private noncommercial uses__ 
+
+        It shall not be an infringement of the rights of the owner of a variety to perform any act done privately and for noncommercial purposes.
+
+    (f) __“Perform without authority” defined__ 
+
+        As used in this section, the term “perform without authority” includes performance without authority by any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in the official capacity of the officer or employee. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity.
+
+([Pub. L. 91–577, title III, § 111][/us/pl/91/577/s111], Dec. 24, 1970, [84 Stat. 1554][/us/stat/84/1554]; [Pub. L. 96–574, § 19(a)][/us/pl/96/574/s19/a], Dec. 22, 1980, [94 Stat. 3351][/us/stat/94/3351]; [Pub. L. 102–560, § 3(a)][/us/pl/102/560/s3/a], Oct. 28, 1992, [106 Stat. 4231][/us/stat/106/4231]; [Pub. L. 103–349][/us/pl/103/349], §§ 9, 13(q), Oct. 6, 1994, [108 Stat. 3141][/us/stat/108/3141], 3144.)
+
+ __References in Text__ 
+
+    The effective date of this provision, referred to in subsec. (b)(3), probably means the effective date of subsec. (b)(3), which was added by [Pub. L. 103–349][/us/pl/103/349], effective 180 days after Oct. 6, 1994. See Effective Date of 1994 Amendment note set out under [section 2401 of this title][/us/usc/t7/s2401].
+
+    The Plant Variety Protection Act Amendments of 1994, referred to in subsec. (b)(3), is [Pub. L. 103–349][/us/pl/103/349], Oct. 6, 1994, [108 Stat. 3136][/us/stat/108/3136]. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under [section 2321 of this title][/us/usc/t7/s2321] and Tables.
+
+ __Amendments__ 
+
+    1994—Subsec. (a). [Pub. L. 103–349, § 9(1)(A)][/us/pl/103/349/s9/1/A], substituted “protected” for “novel” in two places in introductory provisions.
+
+    Subsec. (a)(1). [Pub. L. 103–349, § 9(1)(B)][/us/pl/103/349/s9/1/B], substituted “or market the protected” for “the novel”.
+
+    Subsec. (a)(2). [Pub. L. 103–349, § 9(1)(C)][/us/pl/103/349/s9/1/C], struck out “novel” before “variety”.
+
+    Subsec. (a)(3). [Pub. L. 103–349, § 9(1)(C)][/us/pl/103/349/s9/1/C]–(E), inserted “, or propagate by a tuber or a part of a tuber,” after “multiply”, struck out “novel” before “variety”, and struck out “or” at end.
+
+    Subsec. (a)(4) to (6). [Pub. L. 103–349, § 9(1)(C)][/us/pl/103/349/s9/1/C], (E), struck out “novel” before “variety” and struck out “or” at end.
+
+    Subsec. (a)(7). [Pub. L. 103–349, § 9(1)(G)][/us/pl/103/349/s9/1/G], added par. (7). Former par. (7) redesignated (9).
+
+    [Pub. L. 103–349, § 9(1)(C)][/us/pl/103/349/s9/1/C], struck out “novel” before “variety”.
+
+    Subsec. (a)(8). [Pub. L. 103–349, § 9(1)(G)][/us/pl/103/349/s9/1/G], added par. (8). Former par. (8) redesignated (10).
+
+    Subsec. (a)(9), (10). [Pub. L. 103–349, § 9(1)(F)][/us/pl/103/349/s9/1/F], redesignated pars. (7) and (8) as (9) and (10), respectively.
+
+    Subsecs. (b) to (e). [Pub. L. 103–349, § 9(3)][/us/pl/103/349/s9/3], added subsecs. (b) to (e). Former subsec. (b) redesignated (f).
+
+    Subsec. (f). [Pub. L. 103–349][/us/pl/103/349], §§ 9(2), 13(q), redesignated subsec. (b) as (f) and in first sentence substituted “the official capacity of the officer or employee” for “his official capacity”.
+
+    1992—[Pub. L. 102–560][/us/pl/102/560] designated existing provisions as subsec. (a) and added subsec. (b).
+
+    1980—Par. (5). [Pub. L. 96–574][/us/pl/96/574] substituted “ ‘Unauthorized Propagation Prohibited’ or ‘Unauthorized Seed Multiplication Prohibited’ ” for “ ‘propagation prohibited’ ”.
+
+ __Effective Date of 1994 Amendment__ 
+
+    Amendment by [Pub. L. 103–349][/us/pl/103/349] effective 180 days after Oct. 6, 1994, see [section 15 of Pub. L. 103–349][/us/pl/103/349/s15], set out as a note under [section 2401 of this title][/us/usc/t7/s2401].
+
+ __Effective Date of 1992 Amendment__ 
+
+[Pub. L. 102–560, § 4][/us/pl/102/560/s4], Oct. 28, 1992, [106 Stat. 4232][/us/stat/106/4232], provided that: 
+
+> “The amendments made by this Act \[enacting [section 2570 of this title][/us/usc/t7/s2570] and [section 296 of Title 35][/us/usc/t35/s296], Patents, and amending this section and [section 271 of Title 35][/us/usc/t35/s271]\] shall take effect with respect to violations that occur on or after the date of the enactment of this Act \[Oct. 28, 1992\].”
+
+----------
+
+[Previous](./../../../../../..//us/usc/t7/ch57/schIII/ptK/m__us_usc_t7_ch57_schIII_ptK.md) | [Next](./../../../../../..//us/usc/t7/ch57/schIII/ptK/m__us_usc_t7_s2542.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2541)
+
+----------
+----------
+
+[/us/usc/t7/s2567]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2567
+[/us/usc/t7/s2543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2543
+[/us/pl/91/577/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F577%2Fs111
+[/us/stat/84/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1554
+[/us/pl/96/574/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574%2Fs19%2Fa
+[/us/stat/94/3351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F3351
+[/us/pl/102/560/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F560%2Fs3%2Fa
+[/us/stat/106/4231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4231
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/stat/108/3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3141
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/usc/t7/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2401
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/stat/108/3136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3136
+[/us/usc/t7/s2321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2321
+[/us/pl/103/349/s9/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs9%2F1%2FA
+[/us/pl/103/349/s9/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs9%2F1%2FB
+[/us/pl/103/349/s9/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs9%2F1%2FC
+[/us/pl/103/349/s9/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs9%2F1%2FC
+[/us/pl/103/349/s9/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs9%2F1%2FC
+[/us/pl/103/349/s9/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs9%2F1%2FG
+[/us/pl/103/349/s9/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs9%2F1%2FC
+[/us/pl/103/349/s9/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs9%2F1%2FG
+[/us/pl/103/349/s9/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs9%2F1%2FF
+[/us/pl/103/349/s9/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs9%2F3
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/pl/102/560]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F560
+[/us/pl/96/574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F574
+[/us/pl/103/349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349
+[/us/pl/103/349/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F349%2Fs15
+[/us/usc/t7/s2401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2401
+[/us/pl/102/560/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F560%2Fs4
+[/us/stat/106/4232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4232
+[/us/usc/t7/s2570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2570
+[/us/usc/t35/s296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs296
+[/us/usc/t35/s271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs271
+
+
