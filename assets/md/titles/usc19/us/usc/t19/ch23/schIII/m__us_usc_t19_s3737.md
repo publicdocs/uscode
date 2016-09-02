@@ -59,6 +59,10 @@
 
     Section is comprised of [section 127 of Pub. L. 106–200][/us/pl/106/200/s127]. Subsec. (c) of [section 127 of Pub. L. 106–200][/us/pl/106/200/s127] amended [section 2293 of Title 22][/us/usc/t22/s2293], Foreign Relations and Intercourse.
 
+ __Change of Name__ 
+
+    African Development Foundation changed to United States African Development Foundation by [Pub. L. 113–76, div. K, title III][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 482][/us/stat/128/482]. See [section 290h–1 of Title 22][/us/usc/t22/s290h–1], Foreign Relations and Intercourse.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t19/ch23/schIII/m__us_usc_t19_s3736.md) | [Next](./../../../../..//us/usc/t19/ch23/schIII/m__us_usc_t19_s3738.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs3737)
@@ -75,5 +79,8 @@
 [/us/pl/106/200/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs127
 [/us/pl/106/200/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs127
 [/us/usc/t22/s2293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2293
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F482
+[/us/usc/t22/s290h–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs290h%E2%80%931
 
 
