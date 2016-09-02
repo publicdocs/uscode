@@ -31,7 +31,7 @@
 
         (3) __Relation to other uses__ 
 
-            An emergency use authorized under paragraph (1) for a product is in addition to any other use that is authorized for the product under a section of this chapter or the Public Health Service Act referred to in paragraph (2)(A).
+            An emergency use authorized under paragraph (1) for a product is in addition to any other use that is authorized for the product under a section of this chapter or the Public Health Service Act \[[42 U.S.C. 201][/us/usc/t42/s201] et seq.\] referred to in paragraph (2)(A).
 
         (4) __Definitions__ 
 
@@ -356,6 +356,7 @@
 
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
+[/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262
 [/us/usc/t42/s247d–6b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%936b
 [/us/usc/t42/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs262

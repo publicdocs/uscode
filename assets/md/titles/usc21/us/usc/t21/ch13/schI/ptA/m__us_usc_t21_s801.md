@@ -55,6 +55,12 @@
 
 >     “(c) Sections 305 (relating to labels and labeling) \[[section 825 of this title][/us/usc/t21/s825]\], and 306 (relating to manufacturing quotas) \[[section 826 of this title][/us/usc/t21/s826]\] shall become effective on the date specified in subsection (a) of this section, except that the Attorney General may by order published in the Federal Register postpone the effective date of either or both of these sections for such period as he may determine to be necessary for the efficient administration of this title \[see Short Title note below\].”
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–143, § 1][/us/pl/113/143/s1], Aug. 1, 2014, [128 Stat. 1750][/us/stat/128/1750], provided that: 
+
+> “This Act \[amending [section 822 of this title][/us/usc/t21/s822]\] may be cited as the ‘Veterinary Medicine Mobility Act of 2014’.”
+
  __Short Title of 2012 Amendment__ 
 
 [Pub. L. 112–144, title XI, § 1151][/us/pl/112/144/s1151], July 9, 2012, [126 Stat. 1130][/us/stat/126/1130], provided that: 
@@ -753,6 +759,9 @@
 [/us/usc/t21/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs321
 [/us/usc/t21/s825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs825
 [/us/usc/t21/s826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs826
+[/us/pl/113/143/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F143%2Fs1
+[/us/stat/128/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1750
+[/us/usc/t21/s822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs822
 [/us/pl/112/144/s1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs1151
 [/us/stat/126/1130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1130
 [/us/pl/112/144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144

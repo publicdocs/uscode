@@ -223,7 +223,7 @@
 
             (A) __In general__ 
 
-            Before the effective date of the regulations finalized to implement subsection (a)(6), the Secretary may designate drugs, categories of drugs, or conditions as described such subsection by—
+            Before the effective date of the regulations finalized to implement subsection (a)(6), the Secretary may designate drugs, categories of drugs, or conditions as described such  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  subsection by—
 
                 (i) publishing a notice of such substances, drugs, categories of drugs, or conditions proposed for designation, including the rationale for such designation, in the Federal Register;
 
@@ -243,7 +243,7 @@
 
             The Secretary shall review, and update as necessary, the regulations containing the lists of drugs, categories of drugs, or conditions described in subsection (a)(6) regularly, but not less than once every 4 years. Nothing in the previous sentence prohibits submissions to the Secretary, before or during any 4-year period described in such sentence, requesting updates to such lists.
 
-    (d)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Two subsecs. (d) have been enacted.__  __ </sup></sup> __  __Definitions__ 
+    (d)  __ <sup>\[__  __2__  __\]</sup> __  __ <sup><sup> __  __2__  __ So in original. Two subsecs. (d) have been enacted.__  __ </sup></sup> __  __Definitions__ 
 
     In this section:
 
@@ -277,7 +277,7 @@
 
         (5) The term “sterile drug” means a drug that is intended for parenteral administration, an ophthalmic or oral inhalation drug in aqueous format, or a drug that is required to be sterile under Federal or State law.
 
-    (d)  __1__  __Obligation to pay fees__ 
+    (d)  __2__  __Obligation to pay fees__ 
 
         Payment of the fee under [section 379j–62 of this title][/us/usc/t21/s379j–62], as described in subsection (a)(9), shall not relieve an outsourcing facility that is licensed as a pharmacy in any State that requires pharmacy licensing fees of its obligation to pay such State fees.
 

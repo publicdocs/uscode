@@ -49,7 +49,7 @@
 
  __Codification__ 
 
-    Section was enacted as part of the Drug Quality and Security Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
+    Section was enacted as part of the Compounding Quality Act and also as part of the Drug Quality and Security Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 
 ----------
 

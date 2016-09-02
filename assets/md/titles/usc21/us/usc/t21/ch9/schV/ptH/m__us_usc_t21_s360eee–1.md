@@ -109,7 +109,7 @@
 
             Beginning not later than January 1, 2015, a manufacturer shall—
 
-                (i) prior to, or at the time of, each transaction in which such manufacturer transfers ownership of a product, provide the subsequent owner with transaction history, transaction information, and a transaction statement, in a single document in an paper or electronic format; and
+                (i) prior to, or at the time of, each transaction in which such manufacturer transfers ownership of a product, provide the subsequent owner with transaction history, transaction information, and a transaction statement, in a single document in an  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “a”. </sup></sup>  paper or electronic format; and
 
                 (ii) capture the transaction information (including lot level information), transaction history, and transaction statement for each transaction and maintain such information, history, and statement for not less than 6 years after the date of the transaction.
 

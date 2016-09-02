@@ -259,7 +259,7 @@
 
     (26) __Transaction information__ 
 
-    The term“transaction information” means—
+    The term “transaction information” means—
 
         (A) the proprietary or established name or names of the product;
 
