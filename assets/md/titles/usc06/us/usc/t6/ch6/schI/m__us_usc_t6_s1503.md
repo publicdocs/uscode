@@ -89,7 +89,7 @@
 
             (B) implement and utilize a technical capability configured to remove any information not directly related to a cybersecurity threat that the non-Federal entity knows at the time of sharing to be personal information of a specific individual or information that identifies a specific individual.
 
-        (3) __Use of cyber threat indicators and defensive measures by non-federal entities__ 
+        (3) __Use of cyber threat indicators and defensive measures by non-Federal entities__ 
 
             (A) __In general__ 
 

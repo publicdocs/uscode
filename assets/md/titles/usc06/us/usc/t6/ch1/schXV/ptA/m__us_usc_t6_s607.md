@@ -33,15 +33,17 @@
 
             (D) terrorist interdiction;
 
-            (E) overtime expenses consistent with a State homeland security plan, including for the provision of enhanced law enforcement operations in support of Federal agencies, including for increased border security and border crossing enforcement;
+            (E) training exercises to enhance preparedness for and response to mass casualty and active shooter incidents and security events at public locations, including airports and mass transit systems;
 
-            (F) establishing, enhancing, and staffing with appropriately qualified personnel State, local, and regional fusion centers that comply with the guidelines established under [section 124h(i) of this title][/us/usc/t6/s124h/i];
+            (F) overtime expenses consistent with a State homeland security plan, including for the provision of enhanced law enforcement operations in support of Federal agencies, including for increased border security and border crossing enforcement;
 
-            (G) paying salaries and benefits for personnel, including individuals employed by the grant recipient on the date of the relevant grant application, to serve as qualified intelligence analysts;
+            (G) establishing, enhancing, and staffing with appropriately qualified personnel State, local, and regional fusion centers that comply with the guidelines established under [section 124h(i) of this title][/us/usc/t6/s124h/i];
 
-            (H) any other activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the Law Enforcement Terrorism Prevention Program; and
+            (H) paying salaries and benefits for personnel, including individuals employed by the grant recipient on the date of the relevant grant application, to serve as qualified intelligence analysts;
 
-            (I) any other terrorism prevention activity authorized by the Administrator.
+            (I) any other activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the Law Enforcement Terrorism Prevention Program; and
+
+            (J) any other terrorism prevention activity authorized by the Administrator.
 
         (3) __Participation of underrepresented communities in fusion centers__ 
 
@@ -81,7 +83,11 @@
 
             Nothing in this subsection shall be construed to diminish, supercede, or replace the responsibilities, authorities, or role of the Administrator.
 
-([Pub. L. 107–296, title XX][/us/pl/107/296/tXX], § 2006, as added [Pub. L. 110–53, title I][/us/pl/110/53/tI], § 101, Aug. 3, 2007, [121 Stat. 280][/us/stat/121/280].)
+([Pub. L. 107–296, title XX][/us/pl/107/296/tXX], § 2006, as added [Pub. L. 110–53, title I][/us/pl/110/53/tI], § 101, Aug. 3, 2007, [121 Stat. 280][/us/stat/121/280]; amended [Pub. L. 114–190, title III][/us/pl/114/190/tIII], § 3602, July 15, 2016, [130 Stat. 665][/us/stat/130/665].)
+
+ __Amendments__ 
+
+    2016—Subsec. (a)(2)(E) to (J). [Pub. L. 114–190][/us/pl/114/190] added subpar. (E) and redesignated former subpars. (E) to (I) as (F) to (J), respectively.
 
 ----------
 
@@ -94,5 +100,8 @@
 [/us/pl/107/296/tXX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2FtXX
 [/us/pl/110/53/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F53%2FtI
 [/us/stat/121/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F280
+[/us/pl/114/190/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtIII
+[/us/stat/130/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F665
+[/us/pl/114/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190
 
 

@@ -57,7 +57,7 @@
 
  __References in Text__ 
 
-    This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B of title II of div. N of [Pub. L. 114–113][/us/pl/114/113], which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
+    This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 221–229) of title II of div. N of [Pub. L. 114–113][/us/pl/114/113], which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
 
 ----------
 

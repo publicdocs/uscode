@@ -61,7 +61,7 @@
 
                 (i) The number of cyber threat indicators or defensive measures shared through the capability and process developed under [section 1504(c) of this title][/us/usc/t6/s1504/c].
 
-                (ii) An assessment of any information not directly related to a cybersecurity threat that is personal information of a specific individual or information identifying a specific individual and was shared by a non-Federal government entity with the Federal government in contravention of this subchapter, or was shared within the Federal Government in contravention of the guidelines required by this subchapter, including a description of any significant violation of this subchapter.
+                (ii) An assessment of any information not directly related to a cybersecurity threat that is personal information of a specific individual or information identifying a specific individual and was shared by a non-Federal government  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  entity with the Federal government  <sup>\[1\]</sup>  in contravention of this subchapter, or was shared within the Federal Government in contravention of the guidelines required by this subchapter, including a description of any significant violation of this subchapter.
 
                 (iii) The number of times, according to the Attorney General, that information shared under this subchapter was used by a Federal entity to prosecute an offense listed in [section 1504(d)(5)(A) of this title][/us/usc/t6/s1504/d/5/A].
 

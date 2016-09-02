@@ -89,7 +89,7 @@
 
                 (iv) the capability of agencies to protect sensitive cyber threat indicators and defensive measures if they were shared through unclassified mechanisms for use in commercial technologies and tools.
 
-        (2) __OMB report on development and implementation of intrusion assessment plan, advanced internal defenses, and federal cybersecurity requirements__ 
+        (2) __OMB report on development and implementation of intrusion assessment plan, advanced internal defenses, and Federal cybersecurity requirements__ 
 
         The Director shall—
 

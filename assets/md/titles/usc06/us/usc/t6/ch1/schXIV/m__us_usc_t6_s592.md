@@ -129,7 +129,7 @@
 
         (3) __Hawaiian native-serving institution__ 
 
-            The term “Hawaiian native-serving institution” has the meaning given the term in [section 1059d of title 20][/us/usc/t20/s1059d].
+            The term “Hawaiian native-serving institution”  <sup>\[1\]</sup>  <sup><sup> 1 So in original. [Section 1059d of title 20][/us/usc/t20/s1059d] defines “Native Hawaiian-serving institution”. </sup></sup>  has the meaning given the term in [section 1059d of title 20][/us/usc/t20/s1059d].
 
         (4) __Hispanic-serving institution__ 
 
@@ -188,6 +188,7 @@
 
 [/us/usc/t20/s1059d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059d
 [/us/usc/t20/s1059g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059g
+[/us/usc/t20/s1059d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059d
 [/us/usc/t20/s1059d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1059d
 [/us/usc/t20/s1101a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1101a
 [/us/usc/t20/s1061/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1061%2F2

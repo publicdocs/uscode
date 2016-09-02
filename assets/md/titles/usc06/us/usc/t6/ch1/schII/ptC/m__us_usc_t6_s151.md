@@ -87,7 +87,7 @@
 
             Nothing in paragraph (2) shall be construed to authorize an Internet service provider to break a user agreement with a customer without the consent of the customer.
 
-    (f) __Privacy officer review__ 
+    (f) __Privacy Officer review__ 
 
         Not later than 1 year after December 18, 2015, the Privacy Officer appointed under [section 142 of this title][/us/usc/t6/s142], in consultation with the Attorney General, shall review the policies and guidelines for the program carried out under this section to ensure that the policies and guidelines are consistent with applicable privacy laws, including those governing the acquisition, interception, retention, use, and disclosure of communications.
 

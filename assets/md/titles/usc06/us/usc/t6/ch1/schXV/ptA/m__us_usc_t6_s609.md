@@ -35,15 +35,17 @@
 
         (8) enhancing school preparedness;
 
-        (9) supporting public safety answering points;
+        (9) enhancing the security and preparedness of secure and nonsecure areas of eligible airports and surface transportation systems;
 
-        (10) paying salaries and benefits for personnel, including individuals employed by the grant recipient on the date of the relevant grant application, to serve as qualified intelligence analysts, regardless of whether such analysts are current or new full-time employees or contract employees;
+        (10) supporting public safety answering points;
 
-        (11) paying expenses directly related to administration of the grant, except that such expenses may not exceed 3 percent of the amount of the grant;
+        (11) paying salaries and benefits for personnel, including individuals employed by the grant recipient on the date of the relevant grant application, to serve as qualified intelligence analysts, regardless of whether such analysts are current or new full-time employees or contract employees;
 
-        (12) any activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the State Homeland Security Grant Program, the Urban Area Security Initiative (including activities permitted under the full-time counterterrorism staffing pilot), or the Law Enforcement Terrorism Prevention Program; and
+        (12) paying expenses directly related to administration of the grant, except that such expenses may not exceed 3 percent of the amount of the grant;
 
-        (13) any other appropriate activity, as determined by the Administrator.
+        (13) any activity permitted under the Fiscal Year 2007 Program Guidance of the Department for the State Homeland Security Grant Program, the Urban Area Security Initiative (including activities permitted under the full-time counterterrorism staffing pilot), or the Law Enforcement Terrorism Prevention Program; and
+
+        (14) any other appropriate activity, as determined by the Administrator.
 
     (b) __Limitations on use of funds__ 
 
@@ -127,13 +129,15 @@
 
         If an applicant for a grant under section 604 or 605 of this title proposes to upgrade or purchase, with assistance provided under that grant, new equipment or systems that do not meet or exceed any applicable national voluntary consensus standards developed under [section 747 of this title][/us/usc/t6/s747], the applicant shall include in its application an explanation of why such equipment or systems will serve the needs of the applicant better than equipment or systems that meet or exceed such standards.
 
-([Pub. L. 107–296, title XX][/us/pl/107/296/tXX], § 2008, as added [Pub. L. 110–53, title I][/us/pl/110/53/tI], § 101, Aug. 3, 2007, [121 Stat. 283][/us/stat/121/283]; amended [Pub. L. 110–412][/us/pl/110/412], § 2, Oct. 14, 2008, [122 Stat. 4336][/us/stat/122/4336]; [Pub. L. 114–113, div. M, title VII][/us/pl/114/113/dM/tVII], § 711, Dec. 18, 2015, [129 Stat. 2934][/us/stat/129/2934].)
+([Pub. L. 107–296, title XX][/us/pl/107/296/tXX], § 2008, as added [Pub. L. 110–53, title I][/us/pl/110/53/tI], § 101, Aug. 3, 2007, [121 Stat. 283][/us/stat/121/283]; amended [Pub. L. 110–412][/us/pl/110/412], § 2, Oct. 14, 2008, [122 Stat. 4336][/us/stat/122/4336]; [Pub. L. 114–113, div. M, title VII][/us/pl/114/113/dM/tVII], § 711, Dec. 18, 2015, [129 Stat. 2934][/us/stat/129/2934]; [Pub. L. 114–190, title III][/us/pl/114/190/tIII], § 3603, July 15, 2016, [130 Stat. 665][/us/stat/130/665].)
 
  __References in Text__ 
 
     The Fair Labor Standards Act of 1938, referred to in subsec. (d)(1), is [act June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], [52 Stat. 1060][/us/stat/52/1060], which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29][/us/usc/t29/s201] and Tables.
 
  __Amendments__ 
+
+    2016—Subsec. (a)(9) to (14). [Pub. L. 114–190][/us/pl/114/190] added par. (9) and redesignated former pars. (9) to (13) as (10) to (14), respectively.
 
     2015—Subsec. (a). [Pub. L. 114–113][/us/pl/114/113] inserted “including by working in conjunction with a National Laboratory (as defined in [section 15801(3) of title 42][/us/usc/t42/s15801/3]),” after “plans,” in introductory provisions.
 
@@ -164,9 +168,12 @@
 [/us/stat/122/4336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4336
 [/us/pl/114/113/dM/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdM%2FtVII
 [/us/stat/129/2934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2934
+[/us/pl/114/190/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtIII
+[/us/stat/130/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F665
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
+[/us/pl/114/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/usc/t42/s15801/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15801%2F3
 [/us/pl/110/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F412
