@@ -15,7 +15,7 @@
 
 # Title 30—MINERAL LANDS AND MINING
 
-Current through 114-150
+Current through 114-152
 
 <table>
 
