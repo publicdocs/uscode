@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stK/ch100/schB/m__us_usc_t26_s9815.md) | [Next](./../../../../../..//us/usc/t26/stK/ch100/schC/m__us_usc_t26_s9831.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstK%2Fch100%2FschC)
+[Previous](./../../../../../..//us/usc/t26/stK/ch100/schB/m__us_usc_t26_s9815.1.md) | [Next](./../../../../../..//us/usc/t26/stK/ch100/schC/m__us_usc_t26_s9831.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstK%2Fch100%2FschC)
 
 #### Subchapter C—General Provisions
 
@@ -65,7 +65,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stK/ch100/schB/m__us_usc_t26_s9815.md) | [Next](./../../../../../..//us/usc/t26/stK/ch100/schC/m__us_usc_t26_s9831.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstK%2Fch100%2FschC)
+[Previous](./../../../../../..//us/usc/t26/stK/ch100/schB/m__us_usc_t26_s9815.1.md) | [Next](./../../../../../..//us/usc/t26/stK/ch100/schC/m__us_usc_t26_s9831.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstK%2Fch100%2FschC)
 
 ----------
 ----------

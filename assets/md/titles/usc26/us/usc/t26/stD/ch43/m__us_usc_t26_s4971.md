@@ -207,7 +207,7 @@
 
  __Amendment of Section__ 
 
-For termination of amendment by [section 221(c) of Pub. L. 109–280][/us/pl/109/280/s221/c], see Effective and Termination Dates of 2006 Amendment note below.
+    For termination of amendment by [section 221(c) of Pub. L. 109–280][/us/pl/109/280/s221/c], see Effective and Termination Dates of 2006 Amendment note below.
 
  __References in Text__ 
 

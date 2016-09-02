@@ -305,7 +305,7 @@
 
                     The term “securities of the employer corporation” includes securities of a parent or subsidiary corporation (as defined in subsections (e) and (f) of section 424) of the employer corporation.
 
-            \[(5) Repealed. [Pub. L. 104–188, title I, § 1401(b)(13)][/us/pl/104/188/s1401/b/13], Aug. 20, 1996, [110 Stat. 1789][/us/stat/110/1789]\]
+        \[(5) __Repealed.__  __[__  __Pub. L. 104–188, title I, § 1401(b)(13)__  __][/us/pl/104/188/s1401/b/13]__  __,__  __Aug. 20, 1996__  __,__  __[__  __110 Stat. 1789__  __][/us/stat/110/1789]__  __\]__ 
 
         (6) __Direct trustee-to-trustee transfers__ 
 
@@ -633,7 +633,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title][/us/usc/t26/s401].
+    For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title][/us/usc/t26/s401].
 
  __References in Text__ 
 
@@ -1285,7 +1285,7 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 
 >             If a plan adopts the amendment prescribed under clause (i) and makes a distribution in accordance with such amendment, such distribution shall be treated as made in accordance with the provisions of the plan.
 
->     “(4) __Special rule for taxable years of partnerships which include january 1, 1987.—__ 
+>     “(4) __Special rule for taxable years of partnerships which include__  __january 1, 1987__  __.—__ 
 
 >     In the case of the taxable year of any partnership which begins before January 1, 1987, and ends after January 1, 1987, elective deferrals (within the meaning of section 402(g)(3) of the Internal Revenue Code of 1986) made on behalf of a partner for such taxable year shall, for purposes of section 402(g)(3) of such Code, be treated as having been made ratably during such taxable year.
 
@@ -1329,7 +1329,7 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 
 >         In the case of any plan not described in section 72(e)(8)(D) of the Internal Revenue Code of 1986 (as added by subsection (c)(3)), the amendments made by subsection (c)(3) \[amending [section 72 of this title][/us/usc/t26/s72]\] shall apply to amounts received after July 1, 1986.
 
->     “(3) __Special rule for individuals who attained age 50 before january 1, 1986.—__ 
+>     “(3) __Special rule for individuals who attained age 50 before__  __january 1, 1986__  __.—__ 
 
 >         “(A) __In general.—__ 
 
@@ -1531,9 +1531,13 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 
 [Pub. L. 96–608, § 2(b)][/us/pl/96/608/s2/b], Dec. 28, 1980, [94 Stat. 3551][/us/stat/94/3551], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—The amendment made by subsection (a) \[amending this section\] shall apply to payments made in taxable years beginning after__  __December 31, 1978__  __.__ 
+>     “(1) __In general.—__ 
 
->     “(2) __Transitional rule.—In the case of any payment made before__  __January 1, 1982__  __, in a taxable year beginning after__  __December 31, 1978__  __, which is treated as a qualifying rollover distribution (as defined in section 402(a)(5)(D)(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) by reason of the amendment made by subsection (a), the applicable period specified in section 402(a)(5)(C) of such Code shall not expire before the close of__  __December 31, 1981__  __.”__ 
+>     The amendment made by subsection (a) \[amending this section\] shall apply to payments made in taxable years beginning after December 31, 1978.
+
+>     “(2) __Transitional rule.—__ 
+
+>     In the case of any payment made before January 1, 1982, in a taxable year beginning after December 31, 1978, which is treated as a qualifying rollover distribution (as defined in section 402(a)(5)(D)(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) by reason of the amendment made by subsection (a), the applicable period specified in section 402(a)(5)(C) of such Code shall not expire before the close of December 31, 1981.”
 
     Amendment by [Pub. L. 96–222][/us/pl/96/222] effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, [Pub. L. 95–600][/us/pl/95/600], to which such amendment relates, see [section 201 of Pub. L. 96–222][/us/pl/96/222/s201], set out as a note under [section 32 of this title][/us/usc/t26/s32].
 
@@ -1559,9 +1563,13 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 
 [Pub. L. 95–458, § 4(d)][/us/pl/95/458/s4/d], Oct. 14, 1978, [92 Stat. 1260][/us/stat/92/1260], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—The amendments made by subsections (a), (b), and (c) \[amending this section and__  __[__  __section 403 of this title__  __][/us/usc/t26/s403]__  __\] shall apply with respect to taxable years beginning after__  __December 31, 1974__  __.__ 
+>     “(1) __In general.—__ 
 
->     “(2) __Validation of certain attempted rollovers.—If the taxpayer—__ 
+>     The amendments made by subsections (a), (b), and (c) \[amending this section and [section 403 of this title][/us/usc/t26/s403]\] shall apply with respect to taxable years beginning after December 31, 1974.
+
+>     “(2) __Validation of certain attempted rollovers.—__ 
+
+>     If the taxpayer—
 
 >         “(A) attempted to comply with the requirements of section 402(a)(5) or 403(a)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for a taxable year beginning before the date of the enactment of this Act, \[Oct. 14, 1978\], and
 

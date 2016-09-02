@@ -403,7 +403,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
 
  __References in Text__ 
 
@@ -689,7 +689,7 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 >     “(2) such individual chooses to take to any extent the benefits of section 901 of such Code,
 
->         then such individual shall be treated for such taxable year as an individual for whom an unused zero bracket amount computation is provided by section 63(e) of such Code.”
+>     then such individual shall be treated for such taxable year as an individual for whom an unused zero bracket amount computation is provided by section 63(e) of such Code.”
 
  __Reports to Congressional Committees; Information From Federal Agencies__ 
 

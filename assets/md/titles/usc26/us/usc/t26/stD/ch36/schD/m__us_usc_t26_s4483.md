@@ -115,7 +115,7 @@
 
         (2) such vehicle is registered (under the laws of the State in which such vehicle is required to be registered) as a highway motor vehicle used in the transportation of harvested forest products.
 
-        \[(f) Repealed. [Pub. L. 108–357, title VIII, § 867(d)][/us/pl/108/357/s867/d], Oct. 22, 2004, [118 Stat. 1622][/us/stat/118/1622]\]
+    \[(f) __Repealed.__  __[__  __Pub. L. 108–357, title VIII, § 867(d)__  __][/us/pl/108/357/s867/d]__  __,__  __Oct. 22, 2004__  __,__  __[__  __118 Stat. 1622__  __][/us/stat/118/1622]__  __\]__ 
 
     (g) __Exemption for mobile machinery__ 
 

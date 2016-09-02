@@ -133,7 +133,7 @@
 
 >     “(2) long-term residents of the United States with respect to whom an event described in \[former\] subparagraph (A) or (B) of section 877(e)(1) of such Code occurs on or after such date.
 
->         In no event shall any statement required by such amendments be due before the 90th day after the date of the enactment of this Act \[Aug. 21, 1996\].”
+>     In no event shall any statement required by such amendments be due before the 90th day after the date of the enactment of this Act \[Aug. 21, 1996\].”
 
 ----------
 

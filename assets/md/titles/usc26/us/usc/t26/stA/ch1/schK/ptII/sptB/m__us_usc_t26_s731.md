@@ -209,7 +209,7 @@
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and [section 737 of this title][/us/usc/t26/s737]\] shall apply to distributions after the date of the enactment of this Act \[Dec. 8, 1994\].
 
->     “(2) __Certain distributions before january 1, 1995.—__ 
+>     “(2) __Certain distributions before__  __january 1, 1995__  __.—__ 
 
 >     The amendments made by this section shall not apply to any marketable security distributed before January 1, 1995, by the partnership which held such security on July 27, 1994.
 

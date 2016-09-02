@@ -543,9 +543,9 @@
 
 >                 “(ii) The provisions of subsection (b)(5) (other than the second sentence thereof) of such section 413 shall not apply to plan years beginning before the applicable effective date of section 412 of such Code.
 
->     “(i) __Contributions to H.R. 10 Plans.—__ 
+>     “(i) __Contributions to H.__ 
 
->     Notwithstanding subsections (b) and (c)(2), in the case of a plan in existence on January 1, 1974, the amendment made by section 1013(c)(2) of this Act \[amending [section 404(a)(6) of this title][/us/usc/t26/s404/a/6]\] shall apply, with respect to a plan which provides contributions or benefits for employees some or all of whom are employees within the meaning of section 401(c)(1) of the Internal Revenue Code of 1986, for plan years beginning after December 31, 1974, but only if the employer (within the meaning of section 401(c)(4) of such Code) elects in such manner and at such time as the Secretary of the Treasury or his delegate shall by regulations prescribe, to have such amendment so apply. Any election made under this subsection, once made, shall be irrevocable.”
+>     R. 10 Plans.—Notwithstanding subsections (b) and (c)(2), in the case of a plan in existence on January 1, 1974, the amendment made by section 1013(c)(2) of this Act \[amending [section 404(a)(6) of this title][/us/usc/t26/s404/a/6]\] shall apply, with respect to a plan which provides contributions or benefits for employees some or all of whom are employees within the meaning of section 401(c)(1) of the Internal Revenue Code of 1986, for plan years beginning after December 31, 1974, but only if the employer (within the meaning of section 401(c)(4) of such Code) elects in such manner and at such time as the Secretary of the Treasury or his delegate shall by regulations prescribe, to have such amendment so apply. Any election made under this subsection, once made, shall be irrevocable.”
 
  __Regulations__ 
 

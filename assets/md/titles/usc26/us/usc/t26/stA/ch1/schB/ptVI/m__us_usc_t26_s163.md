@@ -1425,7 +1425,7 @@
 
 >     Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1975.
 
->     “(2) __Indebtedness incurred before september 11, 1975.—__ 
+>     “(2) __Indebtedness incurred before__  __september 11, 1975__  __.—__ 
 
 >     In the case of indebtedness attributable to a specific item of property which—
 

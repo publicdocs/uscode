@@ -189,7 +189,7 @@
 
             For purposes of this section, the tax imposed under this subsection shall be determined without regard to subsections (b)(1)(A), (f), (g), (h), and (l). The preceding sentence shall not apply with respect to subsection (g)(3) and so much of subsection (g)(1) as relates to vessels (within the meaning of section 4221(d)(3)) employed in foreign trade or trade between the United States and any of its possessions.
 
-        \[(e) Repealed. [Pub. L. 108–357, title VIII, § 853(d)(2)(C)][/us/pl/108/357/s853/d/2/C], Oct. 22, 2004, [118 Stat. 1613][/us/stat/118/1613]\]
+    \[(e) __Repealed.__  __[__  __Pub. L. 108–357, title VIII, § 853(d)(2)(C)__  __][/us/pl/108/357/s853/d/2/C]__  __,__  __Oct. 22, 2004__  __,__  __[__  __118 Stat. 1613__  __][/us/stat/118/1613]__  __\]__ 
 
     (f) __Exemption for farm use__ 
 
@@ -233,7 +233,7 @@
 
             (C) operated exclusively for the procurement, care, and exhibition of aircraft of the type used for combat or transport in World War II.
 
-        \[(i) Repealed. [Pub. L. 108–357, title VIII, § 853(d)(2)(D)][/us/pl/108/357/s853/d/2/D], Oct. 22, 2004, [118 Stat. 1613][/us/stat/118/1613]\]
+    \[(i) __Repealed.__  __[__  __Pub. L. 108–357, title VIII, § 853(d)(2)(D)__  __][/us/pl/108/357/s853/d/2/D]__  __,__  __Oct. 22, 2004__  __,__  __[__  __118 Stat. 1613__  __][/us/stat/118/1613]__  __\]__ 
 
     (j) __Sales by United States, etc.__ 
 

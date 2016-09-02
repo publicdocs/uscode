@@ -111,7 +111,7 @@
 
 >     The amendment made by subsection (b) \[amending [section 301 of this title][/us/usc/t26/s301]\] shall apply to distributions after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date.
 
->     “(3) __Exception for distributions before january 1, 1985, to 80-percent corporate shareholders.—__ 
+>     “(3) __Exception for distributions before__  __january 1, 1985__  __, to 80-percent corporate shareholders.—__ 
 
 >         “(A) __In general.—__ 
 
@@ -129,7 +129,7 @@
 
 >         For purposes of this paragraph and paragraph (4), all members of the same affiliated group (as defined in section 1504 of the Internal Revenue Code of 1986) which file a consolidated return for the taxable year which includes the date of the distribution shall be treated as 1 corporation.
 
->         “(D) __Special rule for certain distributions before january 1, 1988.—__ 
+>         “(D) __Special rule for certain distributions before__  __january 1, 1988__  __.—__ 
 
 >             “(i) __In general.—__ 
 
@@ -143,7 +143,7 @@
 
 >                 “(II) which is a Tennessee corporation which was incorporated on March 2, 1978,, \[sic\] and which is a successor to an Indiana corporation which was incorporated on June 28, 1946, and acquired by the transferee on December 9 \[10\], 1968.
 
->     “(4) __Exception for certain distributions where tender offer commenced on may 23, 1984.—__ 
+>     “(4) __Exception for certain distributions where tender offer commenced on__  __may 23, 1984__  __.—__ 
 
 >         “(A) __In general.—__ 
 
@@ -219,7 +219,7 @@
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section\] shall apply to distributions after August 31, 1982.
 
->     “(2) __Distributions pursuant to ruling requests before july 23, 1982.—__ 
+>     “(2) __Distributions pursuant to ruling requests before__  __july 23, 1982__  __.—__ 
 
 >     In the case of a ruling request under section 311(d)(2)(A) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect before the amendments made by this section) made before July 23, 1982, the amendments made by this section \[amending this section\] shall not apply to distributions made—
 

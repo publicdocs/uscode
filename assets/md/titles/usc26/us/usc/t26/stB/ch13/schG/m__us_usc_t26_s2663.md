@@ -15,7 +15,7 @@
 
 ## § 2663. Regulations
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this chapter, including—
+    The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this chapter, including—
 
     (1) such regulations as may be necessary to coordinate the provisions of this chapter with the recapture tax imposed under section 2032A(c),
 

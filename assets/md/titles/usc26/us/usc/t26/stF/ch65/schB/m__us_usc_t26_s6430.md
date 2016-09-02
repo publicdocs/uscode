@@ -15,7 +15,7 @@
 
 ## § 6430. Treatment of tax imposed at Leaking Underground Storage Tank Trust Fund financing rate
 
-No refunds, credits, or payments shall be made under this subchapter for any tax imposed at the Leaking Underground Storage Tank Trust Fund financing rate, except in the case of fuels—
+    No refunds, credits, or payments shall be made under this subchapter for any tax imposed at the Leaking Underground Storage Tank Trust Fund financing rate, except in the case of fuels—
 
     (1) which are exempt from tax under section 4081(a) by reason of section 4082(f)(2),
 

@@ -209,15 +209,21 @@
 
 [Pub. L. 94–455, title XXI, § 2134(e)][/us/pl/94/455/s2134/e], Oct. 4, 1976, [90 Stat. 1928][/us/stat/90/1928], as amended by [Pub. L. 95–600, title VII, § 703(b)(1)][/us/pl/95/600/s703/b/1], Nov. 6, 1978, [92 Stat. 2939][/us/stat/92/2939]; [Pub. L. 97–34, title VIII, § 802(b)][/us/pl/97/34/s802/b], Aug. 13, 1981, [95 Stat. 349][/us/stat/95/349]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and__  __[__  __section 501 of this title__  __][/us/usc/t26/s501]__  __\] shall apply to taxable years beginning after__  __December 31, 1976__  __.__ 
+>     “(1) __In general.—__ 
 
->     “(2) __Notice requirement.—For purposes of section 120(d)(7) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] the time prescribed by the Secretary of the Treasury by regulations for giving the notice required by section 120(c)(4) of such Code shall not expire before the 90th day after the day on which regulations prescribed under such section 120(c)(4) first become final.__ 
+>     Except as provided in paragraph (2), the amendments made by this section \[enacting this section and [section 501 of this title][/us/usc/t26/s501]\] shall apply to taxable years beginning after December 31, 1976.
+
+>     “(2) __Notice requirement.—__ 
+
+>     For purposes of section 120(d)(7) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] the time prescribed by the Secretary of the Treasury by regulations for giving the notice required by section 120(c)(4) of such Code shall not expire before the 90th day after the day on which regulations prescribed under such section 120(c)(4) first become final.
 
 >     “(3) __Existing plans.—__ 
 
 >         “(A) For purposes of section 120 of the Internal Revenue Code of 1986, a written group legal services plan which was in existence on June 4, 1976, shall be considered as satisfying the requirements of subsections (b) and (c) of such section 120 for the period ending with the compliance date (determined under subparagraph (B)).
 
->         “(B) __Compliance date.—For purposes of this paragraph, the term ‘compliance date’ means—__ 
+>         “(B) __Compliance date.—__ 
+
+>         For purposes of this paragraph, the term ‘compliance date’ means—
 
 >             “(i) the date occurring 180 days after the date of the enactment of this Act \[Oct. 4, 1976\], or
 

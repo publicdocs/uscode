@@ -107,9 +107,11 @@
 
 >         “(A) any failure to exercise a right of conversion,
 
->         “(B) any failure to pay dividends, and
+>         “(B)
 
->     “(c) \[sic\] failures to exercise other rights specified in regulations,
+>          any failure to pay dividends, and
+
+>             “(c) \[sic\] failures to exercise other rights specified in regulations,
 
 >         shall not be treated as a subsequent transfer.”
 

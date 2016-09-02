@@ -101,7 +101,7 @@
 
 >         (A) such corporation may not qualify as an export trade corporation for any taxable year beginning after December 31, 1984, by reason of section 971(a)(3) of the Internal Revenue Code of 1954 \[now 1986\], or (B) such corporation makes an election, before the date 6 months after the date of the enactment of this Act \[Oct. 22, 1986\], not to be treated as an export trade corporation with respect to taxable years beginning after December 31, 1984,
 
->         rules similar to the rules of paragraphs (2) and (4) of section 805(b) of the Tax Reform Act of 1984 \[set out as a note under [section 991 of this title][/us/usc/t26/s991]\] shall apply to such corporation. For purposes of the preceding sentence, the term ‘export trade corporation’ has the meaning given such term by section 971 of such Code.”
+>     rules similar to the rules of paragraphs (2) and (4) of section 805(b) of the Tax Reform Act of 1984 \[set out as a note under [section 991 of this title][/us/usc/t26/s991]\] shall apply to such corporation. For purposes of the preceding sentence, the term ‘export trade corporation’ has the meaning given such term by section 971 of such Code.”
 
 ----------
 

@@ -57,9 +57,15 @@
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     1998—[Pub. L. 105–206, title III, § 3306(b)][/us/pl/105/206/s3306/b], July 22, 1998, [112 Stat. 744][/us/stat/112/744], added item for subchapter C.
 

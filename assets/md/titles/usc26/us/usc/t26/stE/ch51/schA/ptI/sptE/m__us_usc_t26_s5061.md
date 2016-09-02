@@ -209,7 +209,7 @@
 
 >     Subparagraphs (B) and (C) of section 5703(b)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section), paragraphs (2) and (3) of section 5061(d) of such Code (as amended by this section), and the amendments made by subsections (a)(2) and (b)(2) \[amending sections 5054 and 5704 of this title\] shall apply to articles imported, entered for warehousing, or brought into the United States or a foreign trade zone after December 15, 1986.
 
->     “(3) __Special rule for distilled spirits and tobacco for semimonthly period ending december 15, 1986.—__ 
+>     “(3) __Special rule for distilled spirits and tobacco for semimonthly period ending__  __december 15, 1986__  __.—__ 
 
 >     With respect to remittances of—
 

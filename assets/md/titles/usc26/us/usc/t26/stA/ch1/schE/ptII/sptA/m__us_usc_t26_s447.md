@@ -457,7 +457,7 @@
 
 >     “(B) such syndicate elects an accrual method of accounting (including the capitalization of preproductive period expenses described in section 447(b) of such Code) for a taxable year beginning before January 1, 1979,
 
->         then such election shall be treated as having been made with the consent of the Secretary of the Treasury or his delegate and, under regulations prescribed by the Secretary of the Treasury or his delegate, the net amount of the adjustments required by section 481(a) of such Code to be taken into account by the taxpayer in computing taxable income shall be taken into account in each of the 10 taxable years (or the remaining taxable years where there is a stated future life of less than 10 taxable years) beginning with the year of change.”
+>     then such election shall be treated as having been made with the consent of the Secretary of the Treasury or his delegate and, under regulations prescribed by the Secretary of the Treasury or his delegate, the net amount of the adjustments required by section 481(a) of such Code to be taken into account by the taxpayer in computing taxable income shall be taken into account in each of the 10 taxable years (or the remaining taxable years where there is a stated future life of less than 10 taxable years) beginning with the year of change.”
 
  __Election To Change From Static Value Method to Accrual Method of Accounting__ 
 

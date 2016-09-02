@@ -647,7 +647,11 @@
 
 >             For purposes of this paragraph, the term ‘qualified oil corporation’ means any corporation if—
 
->                 “(i) as of September 28, 1982, such corporation—      “(I) was an electing small business corporation, or
+>                 “(i)
+
+>                  as of September 28, 1982, such corporation—
+
+>                       “(I) was an electing small business corporation, or
 
 >                       “(II) was a small business corporation which made an election under section 1372(a) after December 31, 1981, and before September 28, 1982,
 
@@ -717,7 +721,7 @@
 
 >     “(2) not described in section 1311(a)(2) of such Act,
 
->         the amount of such corporation’s accumulated earnings and profits (for the first taxable year beginning after the date of the enactment of this Act \[May 25, 2007\]) shall be reduced by an amount equal to the portion (if any) of such accumulated earnings and profits which were accumulated in any taxable year beginning before January 1, 1983, for which such corporation was an electing small business corporation under subchapter S of the Internal Revenue Code of 1986.”
+>     the amount of such corporation’s accumulated earnings and profits (for the first taxable year beginning after the date of the enactment of this Act \[May 25, 2007\]) shall be reduced by an amount equal to the portion (if any) of such accumulated earnings and profits which were accumulated in any taxable year beginning before January 1, 1983, for which such corporation was an electing small business corporation under subchapter S of the Internal Revenue Code of 1986.”
 
  __Elimination of Certain Earnings and Profits__ 
 
@@ -729,7 +733,7 @@
 
 >     “(2) such corporation is an S corporation under subchapter S of chapter 1 of such Code for its first taxable year beginning after December 31, 1996,
 
->         the amount of such corporation’s accumulated earnings and profits (as of the beginning of such first taxable year) shall be reduced by an amount equal to the portion (if any) of such accumulated earnings and profits which were accumulated in any taxable year beginning before January 1, 1983, for which such corporation was an electing small business corporation under such subchapter S.”
+>     the amount of such corporation’s accumulated earnings and profits (as of the beginning of such first taxable year) shall be reduced by an amount equal to the portion (if any) of such accumulated earnings and profits which were accumulated in any taxable year beginning before January 1, 1983, for which such corporation was an electing small business corporation under such subchapter S.”
 
  __Plan Amendments Not Required Until January 1, 1989__ 
 
@@ -745,7 +749,7 @@
 
 >     “(ii) such corporation is liquidated under section 333 of such Code before March 1, 1983,
 
->         then such stock or securities shall not be taken into account under section 333(e)(2) of such Code.”
+>     then such stock or securities shall not be taken into account under section 333(e)(2) of such Code.”
 
 ----------
 

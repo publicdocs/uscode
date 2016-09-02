@@ -15,7 +15,7 @@
 
 ## § 2602. Amount of tax
 
-The amount of the tax imposed by section 2601 is—
+    The amount of the tax imposed by section 2601 is—
 
     (1) the taxable amount (determined under subchapter C), multiplied by
 

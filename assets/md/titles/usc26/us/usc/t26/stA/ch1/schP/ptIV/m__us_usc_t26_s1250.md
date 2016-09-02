@@ -535,9 +535,13 @@
 
 [Pub. L. 94–81, § 2(c)][/us/pl/94/81/s2/c], Aug. 9, 1975, [89 Stat. 418][/us/stat/89/418], provided that:
 
->     “(1) __In general.—Except as provided in paragraph (2) the amendments made by this section \[amending this section and__  __[__  __section 1245 of this title__  __][/us/usc/t26/s1245]__  __\] shall apply to dispositions after__  __December 31, 1969__  __, in taxable years ending after such date.__ 
+>     “(1) __In general.—__ 
 
->     “(2) __Election for past transactions.—In the case of any disposition occurring before the date of the enactment of this Act \[__  __Aug. 9, 1975__  __\], the amendments made by this section shall apply only if the organization acquiring the property elects (in the manner provided by regulations prescribed by the Secretary of the Treasury or his delegate) within 1 year after the date of the enactment of this Act to have such amendments apply with respect to such property.”__ 
+>     Except as provided in paragraph (2) the amendments made by this section \[amending this section and [section 1245 of this title][/us/usc/t26/s1245]\] shall apply to dispositions after December 31, 1969, in taxable years ending after such date.
+
+>     “(2) __Election for past transactions.—__ 
+
+>     In the case of any disposition occurring before the date of the enactment of this Act \[Aug. 9, 1975\], the amendments made by this section shall apply only if the organization acquiring the property elects (in the manner provided by regulations prescribed by the Secretary of the Treasury or his delegate) within 1 year after the date of the enactment of this Act to have such amendments apply with respect to such property.”
 
     Amendment by [Pub. L. 93–625][/us/pl/93/625] applicable with respect to property placed in service after Dec. 31, 1973, see [section 5(d) of Pub. L. 93–625][/us/pl/93/625/s5/d], set out as a note under [section 167 of this title][/us/usc/t26/s167].
 

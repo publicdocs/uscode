@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stD/ch33/schD/m__us_usc_t26_s4286, 4287.md) | [Next](./../../../../../..//us/usc/t26/stD/ch33/schE/m__us_usc_t26_s4291.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch33%2FschE)
+[Previous](./../../../../../..//us/usc/t26/stD/ch33/schD/m__us_usc_t26_stD_ch33_schD.md) | [Next](./../../../../../..//us/usc/t26/stD/ch33/schE/m__us_usc_t26_s4291.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch33%2FschE)
 
 #### Subchapter E—Special Provisions Applicable to Services and Facilities Taxes
 
@@ -65,7 +65,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stD/ch33/schD/m__us_usc_t26_s4286, 4287.md) | [Next](./../../../../../..//us/usc/t26/stD/ch33/schE/m__us_usc_t26_s4291.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch33%2FschE)
+[Previous](./../../../../../..//us/usc/t26/stD/ch33/schD/m__us_usc_t26_stD_ch33_schD.md) | [Next](./../../../../../..//us/usc/t26/stD/ch33/schE/m__us_usc_t26_s4291.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch33%2FschE)
 
 ----------
 ----------

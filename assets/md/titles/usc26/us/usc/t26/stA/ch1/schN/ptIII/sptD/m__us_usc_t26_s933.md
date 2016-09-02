@@ -15,7 +15,7 @@
 
 ## § 933. Income from sources within Puerto Rico
 
-The following items shall not be included in gross income and shall be exempt from taxation under this subtitle:
+    The following items shall not be included in gross income and shall be exempt from taxation under this subtitle:
 
     (1) __Resident of Puerto Rico for entire taxable year__ 
 

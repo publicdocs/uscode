@@ -995,9 +995,11 @@
 
                 (v) the fact that a payment was made (and the amount of the payment) to the spouse of the taxpayer on the basis of a joint return.
 
-            (B) __(i)__  __ <sup>\[__  __3__  __\]</sup> __  __ <sup><sup> __  __3__  __ So in original. Cl. (i) designation probably should precede “Any”.__  __ </sup></sup> __  __Restriction on use of disclosed information__ 
+            (B)
 
-            Any officers and employees of an agency receiving return information under subparagraph (A) shall use such information only for the purposes of, and to the extent necessary in, establishing appropriate agency records, locating any person with respect to whom a reduction under subsection (c), (d), (e), or (f) of section 6402 is sought for purposes of collecting the debt with respect to which the reduction is sought, or in the defense of any litigation or administrative procedure ensuing from a reduction made under subsection (c), (d), (e), or (f) of section 6402.
+                (i)  __ <sup>\[__  __3__  __\]</sup> __  __ <sup><sup> __  __3__  __ So in original. Cl. (i) designation probably should precede “Any”.__  __ </sup></sup> __  __Restriction on use of disclosed information__ 
+
+                    Any officers and employees of an agency receiving return information under subparagraph (A) shall use such information only for the purposes of, and to the extent necessary in, establishing appropriate agency records, locating any person with respect to whom a reduction under subsection (c), (d), (e), or (f) of section 6402 is sought for purposes of collecting the debt with respect to which the reduction is sought, or in the defense of any litigation or administrative procedure ensuing from a reduction made under subsection (c), (d), (e), or (f) of section 6402.
 
                 (ii) Notwithstanding clause (i), return information disclosed to officers and employees of the Department of Labor may be accessed by agents who maintain and provide technological support to the Department of Labor’s Interstate Connection Network (ICON) solely for the purpose of providing such maintenance and support.
 
@@ -2811,7 +2813,7 @@
 
 >     “(2) such other information agreed upon by the Director of the Office of Personnel Management and the Secretary of Health and Human Services, which is required in the administration of chapters 83 and 84 of title 5, United States Code.
 
->         Section 1106(b) and (c) of the Social Security Act \[[42 U.S.C. 1306(b)][/us/usc/t42/s1306/b], (c)\] shall apply to any reimbursement under this subsection.”
+>     Section 1106(b) and (c) of the Social Security Act \[[42 U.S.C. 1306(b)][/us/usc/t42/s1306/b], (c)\] shall apply to any reimbursement under this subsection.”
 
  __Taxpayer Identifying Number; Persons Applying For Loans Under Federal Loan Programs Required To Furnish__ 
 

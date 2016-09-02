@@ -923,7 +923,7 @@
 
 >     “(2) as if the employee claimed 2 withholding allowances, if the employee checked the ‘married’ box on the employee’s previous withholding allowance certificate.
 
->         The preceding sentence shall not apply if its application would result in an increase in the number of withholding allowances for the employee.”
+>     The preceding sentence shall not apply if its application would result in an increase in the number of withholding allowances for the employee.”
 
  __Failure To Deduct and Withhold Under a Duty Created or Increased by Tax Reform Act of 1976__ 
 

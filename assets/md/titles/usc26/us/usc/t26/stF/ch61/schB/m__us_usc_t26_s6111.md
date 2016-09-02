@@ -123,7 +123,7 @@
 
 >     For purposes of determining whether any investment is a tax shelter by reason of section 6111(c)(1)(B)(iii) of such Code (as added by this section), only offers for sale after August 31, 1984, shall be taken into account.
 
->     “(3) __Furnishing of shelter identification number for interests sold before september 1, 1984.—__ 
+>     “(3) __Furnishing of shelter identification number for interests sold before__  __september 1, 1984__  __.—__ 
 
 >     With respect to interests sold before September 1, 1984, any liability to act under paragraph (1) of section 6111(b) of such Code (as added by this section) which would (but for this sentence) arise before such date shall be deemed to arise on December 31, 1984.”
 

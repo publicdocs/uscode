@@ -183,11 +183,17 @@
 
 >     “(1) __Options to which section applies.—__ 
 
->         “(A) __In general.—Except as provided in subparagraph (B), the amendments made by this section \[enacting this section and amending sections 421, 425 \[now 424\], and 6039 of this title\] shall apply with respect to options granted on or after__  __January 1, 1976__  __, and exercised on or after__  __January 1, 1981__  __, or outstanding on such date.__ 
+>         “(A) __In general.—__ 
 
->         “(B) __Election and designation of options.—In the case of an option granted before__  __January 1, 1981__  __, the amendments made by this section shall apply only if the corporation granting such option elects (in the manner and at the time prescribed by the Secretary of the Treasury or his delegate) to have the amendments made by this section apply to such option. The aggregate fair market value (determined at the time the option is granted) of the stock for which any employee was granted options (under all plans of his employer corporation and its parent and subsidiary corporations) to which the amendments made by this section apply by reason of this subparagraph shall not exceed $50,000 per calendar year ans shall not exceed $200,000 in the aggregate.__ 
+>         Except as provided in subparagraph (B), the amendments made by this section \[enacting this section and amending sections 421, 425 \[now 424\], and 6039 of this title\] shall apply with respect to options granted on or after January 1, 1976, and exercised on or after January 1, 1981, or outstanding on such date.
 
->     “(2) __Changes in terms of options.—In the case of an option granted on or after__  __January 1, 1976__  __, and outstanding on the date of the enactment of this Act \[__  __Aug. 13, 1981__  __\], paragraph (1) of section 425(h) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall not apply to any change in the terms of such option (or the terms of the plan under which granted, including shareholder approval) made within 1 year after such date of enactment to permit such option to qualify as a incentive stock option.”__ 
+>         “(B) __Election and designation of options.—__ 
+
+>         In the case of an option granted before January 1, 1981, the amendments made by this section shall apply only if the corporation granting such option elects (in the manner and at the time prescribed by the Secretary of the Treasury or his delegate) to have the amendments made by this section apply to such option. The aggregate fair market value (determined at the time the option is granted) of the stock for which any employee was granted options (under all plans of his employer corporation and its parent and subsidiary corporations) to which the amendments made by this section apply by reason of this subparagraph shall not exceed $50,000 per calendar year ans shall not exceed $200,000 in the aggregate.
+
+>     “(2) __Changes in terms of options.—__ 
+
+>     In the case of an option granted on or after January 1, 1976, and outstanding on the date of the enactment of this Act \[Aug. 13, 1981\], paragraph (1) of section 425(h) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall not apply to any change in the terms of such option (or the terms of the plan under which granted, including shareholder approval) made within 1 year after such date of enactment to permit such option to qualify as a incentive stock option.”
 
  __Savings Provision__ 
 

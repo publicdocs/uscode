@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../../..//us/usc/t26/stE/ch51/schA/ptI/sptB/m__us_usc_t26_s5021 to 5026.md) | [Next](./../../../../../../../..//us/usc/t26/stE/ch51/schA/ptI/sptC/m__us_usc_t26_s5041.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschA%2FptI%2FsptC)
+[Previous](./../../../../../../../..//us/usc/t26/stE/ch51/schA/ptI/sptB/m__us_usc_t26_stE_ch51_schA_ptI_sptB.md) | [Next](./../../../../../../../..//us/usc/t26/stE/ch51/schA/ptI/sptC/m__us_usc_t26_s5041.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschA%2FptI%2FsptC)
 
 ###### Subpart C—Wines
 
@@ -75,7 +75,7 @@
 
 ----------
 
-[Previous](./../../../../../../../..//us/usc/t26/stE/ch51/schA/ptI/sptB/m__us_usc_t26_s5021 to 5026.md) | [Next](./../../../../../../../..//us/usc/t26/stE/ch51/schA/ptI/sptC/m__us_usc_t26_s5041.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschA%2FptI%2FsptC)
+[Previous](./../../../../../../../..//us/usc/t26/stE/ch51/schA/ptI/sptB/m__us_usc_t26_stE_ch51_schA_ptI_sptB.md) | [Next](./../../../../../../../..//us/usc/t26/stE/ch51/schA/ptI/sptC/m__us_usc_t26_s5041.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschA%2FptI%2FsptC)
 
 ----------
 ----------

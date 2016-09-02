@@ -41,23 +41,23 @@
 
                 A month may be elected under clause (ii) only if the election is made not later than the 5th day after the close of such month. Such an election, once made, shall be irrevocable.
 
-        (B)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No subpar. (A) has been enacted.__  __ </sup></sup> __  __Method of prescribing percentages__ 
+            (B)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. No subpar. (A) has been enacted.__  __ </sup></sup> __  __Method of prescribing percentages__ 
 
-        The percentages prescribed by the Secretary for any month shall be percentages which will yield over a 10-year period amounts of credit under subsection (a) which have a present value equal to—
+            The percentages prescribed by the Secretary for any month shall be percentages which will yield over a 10-year period amounts of credit under subsection (a) which have a present value equal to—
 
-            (i) 70 percent of the qualified basis of a new building which is not federally subsidized for the taxable year, and
+                (i) 70 percent of the qualified basis of a new building which is not federally subsidized for the taxable year, and
 
-            (ii) 30 percent of the qualified basis of a building not described in clause (i).
+                (ii) 30 percent of the qualified basis of a building not described in clause (i).
 
-        (C) __Method of discounting__ 
+            (C) __Method of discounting__ 
 
-        The present value under subparagraph (B) shall be determined—
+            The present value under subparagraph (B) shall be determined—
 
-            (i) as of the last day of the 1st year of the 10-year period referred to in subparagraph (B),
+                (i) as of the last day of the 1st year of the 10-year period referred to in subparagraph (B),
 
-            (ii) by using a discount rate equal to 72 percent of the average of the annual Federal mid-term rate and the annual Federal long-term rate applicable under section 1274(d)(1) to the month applicable under clause (i) or (ii) of subparagraph (A) 1 and compounded annually, and
+                (ii) by using a discount rate equal to 72 percent of the average of the annual Federal mid-term rate and the annual Federal long-term rate applicable under section 1274(d)(1) to the month applicable under clause (i) or (ii) of subparagraph (A) 1 and compounded annually, and
 
-            (iii) by assuming that the credit allowable under this section for any year is received on the last day of such year.
+                (iii) by assuming that the credit allowable under this section for any year is received on the last day of such year.
 
         (2) __Temporary minimum credit rate for non-federally subsidized new buildings__ 
 
@@ -1509,7 +1509,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
 
  __References in Text__ 
 

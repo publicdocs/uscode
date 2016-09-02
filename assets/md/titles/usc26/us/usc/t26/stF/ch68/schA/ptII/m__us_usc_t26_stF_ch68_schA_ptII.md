@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stF/ch68/schA/ptI/m__us_usc_t26_s6659 to 6661.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch68/schA/ptII/m__us_usc_t26_s6662.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch68%2FschA%2FptII)
+[Previous](./../../../../../../..//us/usc/t26/stF/ch68/schA/ptI/m__us_usc_t26_s6658.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch68/schA/ptII/m__us_usc_t26_s6662.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch68%2FschA%2FptII)
 
 ##### PART II—ACCURACY-RELATED AND FRAUD PENALTIES
 
@@ -65,7 +65,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stF/ch68/schA/ptI/m__us_usc_t26_s6659 to 6661.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch68/schA/ptII/m__us_usc_t26_s6662.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch68%2FschA%2FptII)
+[Previous](./../../../../../../..//us/usc/t26/stF/ch68/schA/ptI/m__us_usc_t26_s6658.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch68/schA/ptII/m__us_usc_t26_s6662.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch68%2FschA%2FptII)
 
 ----------
 ----------

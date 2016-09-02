@@ -51,7 +51,7 @@
 
  __Amendment of Analysis__ 
 
-For termination of amendment by [section 221(c) of Pub. L. 109–280][/us/pl/109/280/s221/c], see Effective and Termination Dates of 2006 Amendment note set out under [section 412 of this title][/us/usc/t26/s412].
+    For termination of amendment by [section 221(c) of Pub. L. 109–280][/us/pl/109/280/s221/c], see Effective and Termination Dates of 2006 Amendment note set out under [section 412 of this title][/us/usc/t26/s412].
 
  __Amendments__ 
 

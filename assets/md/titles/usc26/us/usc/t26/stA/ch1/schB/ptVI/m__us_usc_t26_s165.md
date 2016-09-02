@@ -659,17 +659,25 @@
 
 [Pub. L. 97–34, title II, § 266][/us/pl/97/34/s266], Aug. 13, 1981, [95 Stat. 265][/us/stat/95/265], as amended by [Pub. L. 97–424, title V, § 517(a)][/us/pl/97/424/s517/a], Jan. 6, 1983, [96 Stat. 2183][/us/stat/96/2183]; [Pub. L. 97–448, title I, § 102(n)][/us/pl/97/448/s102/n], Jan. 12, 1983, [96 Stat. 2374][/us/stat/96/2374]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __General Rule.—For purposes of chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[this chapter\], in computing the taxable income of a taxpayer who, on__  __July 1, 1980__  __, held one or more motor carrier operating authorities, an amount equal to the aggregate adjusted basis of all motor carrier operating authorities held by the taxpayer on__  __July 1, 1980__  __, or acquired subsequent thereto pursuant to a binding contract in effect on__  __July 1, 1980__  __, shall be allowed as a deduction ratably over a period of 60 months. Such 60-month period shall begin with the month of July 1980 (or if later, the month in which acquired), or at the election of the taxpayer, the first month of the taxpayer’s first taxable year beginning after__  __July 1, 1980__  __.__ 
+>     “(a) __General Rule.—__ 
 
->     “(b) __Definition of Motor Carrier Operating Authority.—For purposes of this section, the term ‘motor carrier operating authority’ means a certificate or permit held by a motor common or contract carrier of property and issued pursuant to subchapter II of chapter 109 of title 49 of the United States Code.__ 
+>     For purposes of chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[this chapter\], in computing the taxable income of a taxpayer who, on July 1, 1980, held one or more motor carrier operating authorities, an amount equal to the aggregate adjusted basis of all motor carrier operating authorities held by the taxpayer on July 1, 1980, or acquired subsequent thereto pursuant to a binding contract in effect on July 1, 1980, shall be allowed as a deduction ratably over a period of 60 months. Such 60-month period shall begin with the month of July 1980 (or if later, the month in which acquired), or at the election of the taxpayer, the first month of the taxpayer’s first taxable year beginning after July 1, 1980.
+
+>     “(b) __Definition of Motor Carrier Operating Authority.—__ 
+
+>     For purposes of this section, the term ‘motor carrier operating authority’ means a certificate or permit held by a motor common or contract carrier of property and issued pursuant to subchapter II of chapter 109 of title 49 of the United States Code.
 
 >     “(c) __Special Rules.—__ 
 
->         “(1) __Adjusted basis.—For purposes of the Internal Revenue Code of 1986, proper adjustments shall be made in the adjusted basis of any motor carrier operating authority held by the taxpayer on__  __July 1, 1980__  __, for the amounts allowable as a deduction under this section.__ 
+>         “(1) __Adjusted basis.—__ 
+
+>         For purposes of the Internal Revenue Code of 1986, proper adjustments shall be made in the adjusted basis of any motor carrier operating authority held by the taxpayer on July 1, 1980, for the amounts allowable as a deduction under this section.
 
 >         “(2) __Certain stock acquisitions.—__ 
 
->             “(A) __In general.—Under regulations prescribed by the Secretary of the Treasury or his delegate, and at the election of the holder of the authority, in any case in which a corporation—__ 
+>             “(A) __In general.—__ 
+
+>             Under regulations prescribed by the Secretary of the Treasury or his delegate, and at the election of the holder of the authority, in any case in which a corporation—
 
 >                 “(i) on or before July 1, 1980 (or after such date pursuant to a binding contract in effect on such date), acquired stock in a corporation which held, directly or indirectly, any motor carrier operating authority at the time of such acquisition, and
 
@@ -687,11 +695,17 @@
 
 >                   then, for purposes of subparagraphs (A) and (C), the noncorporate taxpayer or group of noncorporate taxpayers referred to in clause (i) shall be treated as a corporation. The preceding sentence shall apply only if such noncorporate taxpayer (or group of noncorporate taxpayers) on July 1, 1980, held stock constituting control (within the meaning of section 368(c) of the Internal Revenue Code of 1986) of the corporation holding (directly or indirectly) the motor carrier operating authority.
 
->             “(C) __Adjustment to basis.—Under regulations prescribed by the Secretary of the Treasury or his delegate, proper adjustment shall be made to the basis of the stock or other assets in the manner provided by such regulations to take into account any allocation under subparagraph (A).__ 
+>             “(C) __Adjustment to basis.—__ 
 
->         “(3) __Section 381 of the internal revenue code of 1986 to apply.—For purposes of section 381 of the Internal Revenue Code of 1986, any item described in this section shall be treated as an item described in subsection (c) of such section 381.__ 
+>             Under regulations prescribed by the Secretary of the Treasury or his delegate, proper adjustment shall be made to the basis of the stock or other assets in the manner provided by such regulations to take into account any allocation under subparagraph (A).
 
->     “(d) __Effective Date.—The provisions of this section shall apply to taxable years ending after__  __June 30, 1980__  __.”__ 
+>         “(3) __Section 381 of the internal revenue code of 1986 to apply.—__ 
+
+>         For purposes of section 381 of the Internal Revenue Code of 1986, any item described in this section shall be treated as an item described in subsection (c) of such section 381.
+
+>     “(d) __Effective Date.—__ 
+
+>     The provisions of this section shall apply to taxable years ending after June 30, 1980.”
 
 \[[Pub. L. 97–424, title V, § 517(b)][/us/pl/97/424/s517/b], Jan. 6, 1983, [96 Stat. 2184][/us/stat/96/2184], provided that: 
 

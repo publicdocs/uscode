@@ -229,7 +229,7 @@
 
 >     “(2) the election is consented to by the person transferring such property.
 
->         The election shall contain that information required by the Secretary of the Treasury or his delegate for elections permitted by such section 83(b). The period for assessing any tax attributable to a transfer of property which is the subject of an election made pursuant to this section shall not expire before the date which is 3 years after the date such election was made.”
+>     The election shall contain that information required by the Secretary of the Treasury or his delegate for elections permitted by such section 83(b). The period for assessing any tax attributable to a transfer of property which is the subject of an election made pursuant to this section shall not expire before the date which is 3 years after the date such election was made.”
 
  __Property Subject to Transfer Restrictions To Comply With “Pooling-of-Interests Accounting” Rules__ 
 

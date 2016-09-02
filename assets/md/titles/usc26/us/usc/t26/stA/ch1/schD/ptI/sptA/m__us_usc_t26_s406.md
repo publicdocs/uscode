@@ -43,7 +43,7 @@
 
             (B) such individual shall be treated as having paid the amount paid by such American employer which is equivalent to the tax imposed by section 3101.
 
-        \[(c) Repealed. [Pub. L. 104–188, title I, § 1401(b)(7)][/us/pl/104/188/s1401/b/7], Aug. 20, 1996, [110 Stat. 1789][/us/stat/110/1789]\]
+    \[(c) __Repealed.__  __[__  __Pub. L. 104–188, title I, § 1401(b)(7)__  __][/us/pl/104/188/s1401/b/7]__  __,__  __Aug. 20, 1996__  __,__  __[__  __110 Stat. 1789__  __][/us/stat/110/1789]__  __\]__ 
 
     (d) __Deductibility of contributions__ 
 

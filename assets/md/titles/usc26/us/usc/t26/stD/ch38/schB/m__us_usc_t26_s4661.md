@@ -407,7 +407,7 @@
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and [section 4662 of this title][/us/usc/t26/s4662]\] shall take effect on January 1, 1987.
 
->     “(2) __Repeal of tax on xylene for periods before october 1, 1985.—__ 
+>     “(2) __Repeal of tax on xylene for periods before__  __october 1, 1985__  __.—__ 
 
 >         “(A) __Refund of tax previously imposed.—__ 
 

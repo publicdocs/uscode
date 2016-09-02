@@ -239,13 +239,15 @@
 
 >             “(ii) such distributions are pursuant to a plan of partial liquidation adopted before October 1, 1982 (or, if later, 90 days after the date on which the Internal Revenue Service granted a ruling pursuant to the request described in clause (i)(I)).
 
->         “(B) __Plans adopted before july 23, 1982.—__ 
+>         “(B) __Plans adopted before__  __july 23, 1982__  __.—__ 
 
 >         The amendments made by this section shall not apply to distributions made pursuant to a plan of partial liquidation adopted before July 23, 1982.
 
->         “(C) __Control acquired after 1981 and before july 23, 1982.—The amendments made by this section shall not apply to distributions made pursuant to a plan of partial liquidation adopted before__  __October 1, 1982__  __, where control of the corporation making the distributions was acquired after__  __December 31, 1981__  __, and before__  __July 23, 1982__  __.__ 
+>         “(C) __Control acquired after 1981 and before__  __july 23, 1982__  __.—__ 
 
->         “(D) __Tender offer or binding contract outstanding on july 22, 1982.—__ 
+>         The amendments made by this section shall not apply to distributions made pursuant to a plan of partial liquidation adopted before October 1, 1982, where control of the corporation making the distributions was acquired after December 31, 1981, and before July 23, 1982.
+
+>         “(D) __Tender offer or binding contract outstanding on__  __july 22, 1982__  __.—__ 
 
 >             “(i) __In general.—__ 
 

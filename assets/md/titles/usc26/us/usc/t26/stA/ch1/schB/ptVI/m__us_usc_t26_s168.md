@@ -3585,9 +3585,9 @@
 
 >     The amendments made by this section \[amending this section\] shall apply to any property placed in service after the date of the enactment of this Act \[Oct. 22, 2004\].
 
->     “(2) __Special rule for asset class 80.0.—__ 
+>     “(2) __Special rule for asset class 80.__ 
 
->     In the case of race track facilities placed in service after the date of the enactment of this Act, such facilities shall not be treated as theme and amusement facilities classified under asset class 80.0.
+>     0.—In the case of race track facilities placed in service after the date of the enactment of this Act, such facilities shall not be treated as theme and amusement facilities classified under asset class 80.0.
 
 >     “(3) __No inference.—__ 
 
@@ -3751,7 +3751,7 @@
 
 >             The amendments made by section 202 \[amending [section 179 of this title][/us/usc/t26/s179]\] shall apply to property placed in service after December 31, 1986, in taxable years ending after such date.
 
->             “(B) __Special rule for fiscal years including january 1, 1987.—__ 
+>             “(B) __Special rule for fiscal years including__  __january 1, 1987__  __.—__ 
 
 >             In the case of any taxable year (other than a calendar year) which includes January 1, 1987, for purposes of applying the amendments made by section 202 to property placed in service during such taxable year and after December 31, 1986—
 
@@ -3985,7 +3985,7 @@
 
 >                 “(iv) described in subparagraph (F) or (H).
 
->             “(C) __Project where agreement on december 19, 1984.—__ 
+>             “(C) __Project where agreement on__  __december 19, 1984__  __.—__ 
 
 >             A project is described in this subparagraph if—
 
@@ -4015,7 +4015,7 @@
 
 >                 “(viii) A project is described in this clause if the Board of Directors of the primary developer approved such project in December 1983, following selection of the developer by a city council on September 26, 1983, and the estimated cost of such project is approximately $107,000,000.
 
->             “(E) __Project where plan confirmed on october 4, 1984.—__ 
+>             “(E) __Project where plan confirmed on__  __october 4, 1984__  __.—__ 
 
 >             A project is described in this subparagraph if—
 
@@ -4039,9 +4039,9 @@
 
 >                   A project is also described in this subparagraph if it is a mixed-use development which is—
 
->                  “(I) to be constructed above a public railroad station utilized by the national railroad passenger corporation and commuter railroads serving two States; and
+>                      “(I) to be constructed above a public railroad station utilized by the national railroad passenger corporation and commuter railroads serving two States; and
 
->                  “(II) will include the reconstruction of such station so as to make it a more efficient transportation center and to better integrate the station with the development above, such reconstruction plans to be prepared in cooperation with a State transportation authority.
+>                      “(II) will include the reconstruction of such station so as to make it a more efficient transportation center and to better integrate the station with the development above, such reconstruction plans to be prepared in cooperation with a State transportation authority.
 
 >                   For purposes of this subparagraph, section 203(b)(2) shall be applied by substituting ‘January 1, 1998’ for the applicable date that would otherwise apply.
 
@@ -4111,7 +4111,11 @@
 
 >                 “(ii) the lesser of $150,000,000 or 5 percent of the total project cost has been expended, incurred, or committed before March 2, 1986, by one or more taxpayers each of which is a member of the same affiliated group (as defined in section 1504(a) \[of the Internal Revenue Code of 1986\]), and
 
->                 “(iii) such project consists of a comprehensive plan for meeting network capacity requirements as encompassed within either:         “(I) a November 5, 1985, presentation made to and accepted by the Chairman of the Board and the president of the taxpayer, or
+>                 “(iii)
+
+>                  such project consists of a comprehensive plan for meeting network capacity requirements as encompassed within either:
+
+>                          “(I) a November 5, 1985, presentation made to and accepted by the Chairman of the Board and the president of the taxpayer, or
 
 >                          “(II) the approvals by the Board of Directors of the parent company of the taxpayer on May 3, 1985, and September 22, 1985, and of the executive committee of said board on December 23, 1985.
 
@@ -4165,7 +4169,11 @@
 
 >                 “(i) the project involves an automobile manufacturing facility (including equipment and incidental appurtenances) to be located in the United States, and
 
->                 “(ii) either—         “(I) the project was the subject of a memorandum of understanding between 2 automobile manufacturers that was signed before September 25, 1985, the automobile manufacturing facility (including equipment and incidental appurtenances) will involve a total estimated cost of approximately $750,000,000, and will have an annual production capacity of approximately 240,000 vehicles or
+>                 “(ii)
+
+>                  either—
+
+>                          “(I) the project was the subject of a memorandum of understanding between 2 automobile manufacturers that was signed before September 25, 1985, the automobile manufacturing facility (including equipment and incidental appurtenances) will involve a total estimated cost of approximately $750,000,000, and will have an annual production capacity of approximately 240,000 vehicles or
 
 >                          “(II) the Board of Directors of an automobile manufacturer approved a written plan for the conversion of existing facilities to produce new models of a vehicle not currently produced in the United States, such facilities will be placed in service by July 1, 1987, and such Board action occurred in July 1985 with respect to a $602,000,000 expenditure, a $438,000,000 expenditure, and a $321,000,000 expenditure.
 
@@ -4225,7 +4233,11 @@
 
 >                 “(ii) the project involves intercity communication links (including microwave and fiber optics communications systems and related property),
 
->                 “(iii) the project consists of communications links between—         “(I) Omaha, Nebraska, and Council Bluffs, Iowa,
+>                 “(iii)
+
+>                  the project consists of communications links between—
+
+>                          “(I) Omaha, Nebraska, and Council Bluffs, Iowa,
 
 >                          “(II) Waterloo, Iowa and Sioux City, Iowa,
 
@@ -4845,7 +4857,7 @@
 
 >         “(B) to property placed in service by the taxpayer on or before May 23, 1983, if the lease to the tax-exempt entity is entered into after May 23, 1983.
 
->     “(2) __Leases entered into on or before may 23, 1983.—__ 
+>     “(2) __Leases entered into on or before__  __may 23, 1983__  __.—__ 
 
 >     The amendments made by this section shall not apply with respect to any property leased to a tax-exempt entity if the property is leased pursuant to—
 
@@ -4885,7 +4897,7 @@
 
 >             “(ii) if such lease is pursuant to a written binding contract entered into before January 1, 1985, which requires the tax-exempt entity to be the lessee of such property.
 
->     “(4) __Official governmental action on or before november 1, 1983.—__ 
+>     “(4) __Official governmental action on or before__  __november 1, 1983__  __.—__ 
 
 >         “(A) __In general.—__ 
 
@@ -4939,7 +4951,7 @@
 
 >     The amendments made by this section shall not apply to any property described in section 208(d)(3)(E) of the Tax Equity and Fiscal Responsibility Act of 1982 \[[section 208(d)(3)(E) of Pub. L. 97–248][/us/pl/97/248/s208/d/3/E], set out as an Effective Date of 1982 Amendments note below\].
 
->     “(7) __Certain facilities for which ruling requests filed on or before may 23, 1983.—__ 
+>     “(7) __Certain facilities for which ruling requests filed on or before__  __may 23, 1983__  __.—__ 
 
 >     The amendments made by this section shall not apply with respect to any facilities described in clause (ii) of section 168(f)(12)(C) of the Internal Revenue Code of 1986 (relating to certain sewage or solid waste disposal facilities), as in effect on the day before the date of the enactment of this Act \[July 18, 1984\], if a ruling request with respect to the lease of such facility to the tax-exempt entity was filed with the Internal Revenue Service on or before May 23, 1983.
 
@@ -4971,11 +4983,11 @@
 
 >     “(11) __Special rule for certain partnerships.—__ 
 
->         “(A) __Partnerships for which qualifying action existed before october 21, 1983.—__ 
+>         “(A) __Partnerships for which qualifying action existed before__  __october 21, 1983__  __.—__ 
 
 >         Paragraph (9) of section 168(j) of the Internal Revenue Code of 1986 (as added by this section) shall not apply to any property acquired, directly or indirectly, before January 1, 1985, by any partnership described in subparagraph (B).
 
->         “(B) __Application filed before october 21, 1983.—__ 
+>         “(B) __Application filed before__  __october 21, 1983__  __.—__ 
 
 >         A partnership is described in this subparagraph if—
 
@@ -4985,11 +4997,11 @@
 
 >             “(iii) the marketing of partnership units in such partnership is completed not later than two years after the later of the date of the enactment of this Act \[July 18, 1984\] or the date of publication in the Federal Register of such exemption by the Department of Labor and the aggregate number of units in such partnership sold does not exceed the amount described in clause (i).
 
->         “(C) __Partnerships for which qualifying action existed before march 6, 1984.—__ 
+>         “(C) __Partnerships for which qualifying action existed before__  __march 6, 1984__  __.—__ 
 
 >         Paragraph (9) of section 168(j) of the Internal Revenue Code of 1986 (as added by this section) shall not apply to any property acquired directly or indirectly, before January 1, 1986, by any partnership described in subparagraph (D). For purposes of this subparagraph, property shall be deemed to have been acquired prior to January 1, 1986, if the partnership had entered into a written binding contract to acquire such property prior to January 1, 1986 and the closing of such contract takes place within 6 months of the date of such contract (24 months in the case of new construction).
 
->         “(D) __Partnership organized before march 6, 1984.—__ 
+>         “(D) __Partnership organized before__  __march 6, 1984__  __.—__ 
 
 >         A partnership is described in this subparagraph if—
 
@@ -5393,23 +5405,35 @@
 
 [Pub. L. 97–248, title II, § 208(d)][/us/pl/97/248/s208/d], Sept. 3, 1982, [96 Stat. 439][/us/stat/96/439], as amended by [Pub. L. 97–448, title III, § 306(a)(4)][/us/pl/97/448/s306/a/4], Jan. 12, 1983, [96 Stat. 2400][/us/stat/96/2400]; [Pub. L. 98–369, div. A, title X, § 1067(a)][/us/pl/98/369/s1067/a], July 18, 1984, [98 Stat. 1048][/us/stat/98/1048]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—Except as otherwise provided in this subsection, the amendments made by subsections (a) and (b) of this section \[amending this section and__  __[__  __section 47 of this title__  __][/us/usc/t26/s47]__  __\] shall apply to agreements entered into after__  __July 1, 1982__  __, or to property placed in service after__  __July 1, 1982__  __.__ 
+>     “(1) __In general.—__ 
+
+>     Except as otherwise provided in this subsection, the amendments made by subsections (a) and (b) of this section \[amending this section and [section 47 of this title][/us/usc/t26/s47]\] shall apply to agreements entered into after July 1, 1982, or to property placed in service after July 1, 1982.
 
 >     “(2) __Transitional rule for certain safe harbor lease property.—__ 
 
->         “(A) __In general.—The amendments made by subsections (a) and (b) \[amending this section and__  __[__  __section 47 of this title__  __][/us/usc/t26/s47]__  __\] shall not apply to transitional safe harbor lease property.__ 
+>         “(A) __In general.—__ 
 
->         “(B) __Special rule for certain provisions.—Subparagraph (A) shall not apply with respect to the provisions of paragraph (6) of section 168(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)(1)), to the provisions of section 168(f)(8)(J) of such Code (as added by subsection (b)(4)), or to the amendment made by subsection (b)(1).__ 
+>         The amendments made by subsections (a) and (b) \[amending this section and [section 47 of this title][/us/usc/t26/s47]\] shall not apply to transitional safe harbor lease property.
 
->     “(3) __Transitional safe harbor lease property.—For purposes of this subsection, the term ‘transitional safe harbor lease property’ means property described in any of the following subparagraphs:__ 
+>         “(B) __Special rule for certain provisions.—__ 
 
->         “(A) __In general.—Property is described in this subparagraph if such property is placed in service before__  __January 1, 1983__  __, if—__ 
+>         Subparagraph (A) shall not apply with respect to the provisions of paragraph (6) of section 168(i) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)(1)), to the provisions of section 168(f)(8)(J) of such Code (as added by subsection (b)(4)), or to the amendment made by subsection (b)(1).
+
+>     “(3) __Transitional safe harbor lease property.—__ 
+
+>     For purposes of this subsection, the term ‘transitional safe harbor lease property’ means property described in any of the following subparagraphs:
+
+>         “(A) __In general.—__ 
+
+>         Property is described in this subparagraph if such property is placed in service before January 1, 1983, if—
 
 >             “(i) with respect to such property a binding contract to acquire or to construct such property was entered into by the lessee after December 31, 1980, and before July 2, 1982, or
 
 >             “(ii) such property was acquired by the lessee, or construction of such property was commenced by or for the lessee, after December 31, 1980, and before July 2, 1982.
 
->         “(B) __Certain qualified lessees.—Property is described in this subparagraph if such property is placed in service before__  __July 1, 1982__  __, and with respect to which—__ 
+>         “(B) __Certain qualified lessees.—__ 
+
+>         Property is described in this subparagraph if such property is placed in service before July 1, 1982, and with respect to which—
 
 >             “(i) an agreement to which section 168(f)(8)(A) of the Internal Revenue Code of 1986 applies was entered into before August 15, 1982, and
 
@@ -5417,7 +5441,9 @@
 
 >         “(C) __Automotive manufacturing property.—__ 
 
->             “(i) __In general.—Property is described in this subparagraph if—__ 
+>             “(i) __In general.—__ 
+
+>             Property is described in this subparagraph if—
 
 >                 “(I) such property is used principally by the taxpayer directly in connection with the trade or business of the taxpayer of the manufacture of automobiles or light-duty trucks,
 
@@ -5425,13 +5451,21 @@
 
 >                 “(III) such property would be described in subparagraph (A) if ‘October 1’ were substituted for ‘January 1’.
 
->             “(ii) __Light-duty truck.—For purposes of this subparagraph, the term ‘light-duty truck’ means any truck with a gross vehicle weight of 13,000 pounds or less. Such term shall not include any truck tractor.__ 
+>             “(ii) __Light-duty truck.—__ 
 
->             “(iii) __Automotive manufacturing property.—For purposes of this subparagraph, the term ‘automotive manufacturing property’ means machinery, equipment, and special tools of the type included in the former asset depreciation range guideline classes 37.11 and 37.12.__ 
+>             For purposes of this subparagraph, the term ‘light-duty truck’ means any truck with a gross vehicle weight of 13,000 pounds or less. Such term shall not include any truck tractor.
 
->             “(iv) __Special tools used by certain vendors.—For purposes of this subparagraph, any special tools owned by a taxpayer described in subclause (I) of clause (i) which are used by a vendor solely for the production of component parts for sale to the taxpayer shall be treated as automotive manufacturing property used directly by such taxpayer.__ 
+>             “(iii) __Automotive manufacturing property.—__ 
 
->         “(D) __Certain aircraft.—Property is described in this subparagraph if such property—__ 
+>             For purposes of this subparagraph, the term ‘automotive manufacturing property’ means machinery, equipment, and special tools of the type included in the former asset depreciation range guideline classes 37.11 and 37.12.
+
+>             “(iv) __Special tools used by certain vendors.—__ 
+
+>             For purposes of this subparagraph, any special tools owned by a taxpayer described in subclause (I) of clause (i) which are used by a vendor solely for the production of component parts for sale to the taxpayer shall be treated as automotive manufacturing property used directly by such taxpayer.
+
+>         “(D) __Certain aircraft.—__ 
+
+>         Property is described in this subparagraph if such property—
 
 >             “(i) is a commercial passenger aircraft (other than a helicopter), and
 
@@ -5439,7 +5473,9 @@
 
 >             For purposes of determining whether property described in this subparagraph is described in subparagraph (A), subparagraph (A)(ii) shall be applied by substituting ‘June 25, 1981’ for ‘December 31, 1980’ and by substituting ‘February 20, 1982’ for ‘July 2, 1982’ and construction of the aircraft shall be treated as having been begun during the period referred to in subparagraph (A)(ii) if during such period construction or reconstruction of a subassembly was commenced, or the stub wing join occurred.
 
->         “(E) __Turbines and boilers.—Property is described in this subparagraph if such property—__ 
+>         “(E) __Turbines and boilers.—__ 
+
+>         Property is described in this subparagraph if such property—
 
 >             “(i) is a turbine or boiler of a cooperative organization engaged in the furnishing of electric energy to persons in rural areas, and
 
@@ -5447,7 +5483,9 @@
 
 >             For purposes of determining whether property described in this subparagraph is described in subparagraph (A), such property shall be treated as having been acquired during the period referred to in subparagraph (A)(ii) if at least 20 percent of the cost of such property is paid during such period.
 
->         “(F) __Property used in the production of steel.—Property is described in this subparagraph if such property—__ 
+>         “(F) __Property used in the production of steel.—__ 
+
+>         Property is described in this subparagraph if such property—
 
 >             “(i) is used by the taxpayer directly in connection with the trade or business of the taxpayer of the manufacture or production of steel, and
 
@@ -5483,9 +5521,13 @@
 
 >                 “(II) the term of the lease with respect to such property shall be treated as being 5 years.
 
->     “(4) __Special rule for antiavoidance provisions.—The provisions of paragraph (6) of section 168(i) of such Code (as added by subsection (a)(1)), and the amendment made by subsection (b)(1) \[amending this section\] shall apply to leases entered into after__  __February 19, 1982__  __, in taxable years ending after such date.__ 
+>     “(4) __Special rule for antiavoidance provisions.—__ 
 
->     “(5) __Special rule for mass commuting vehicles.—The amendments made by this section (other than section 168(i)(1) and (7) of such Code, as added by subsection (a)(1) or section 168(f)(8)(J) of such Code, as added by subsection (b)(4)) and section 209 \[amending this section and__  __[__  __section 48 of this title__  __][/us/usc/t26/s48]__  __\] shall not apply to qualified leased property described in section 168(f)(8)(D)(V) of such Code (as in effect after the amendments made by this section) which—__ 
+>     The provisions of paragraph (6) of section 168(i) of such Code (as added by subsection (a)(1)), and the amendment made by subsection (b)(1) \[amending this section\] shall apply to leases entered into after February 19, 1982, in taxable years ending after such date.
+
+>     “(5) __Special rule for mass commuting vehicles.—__ 
+
+>     The amendments made by this section (other than section 168(i)(1) and (7) of such Code, as added by subsection (a)(1) or section 168(f)(8)(J) of such Code, as added by subsection (b)(4)) and section 209 \[amending this section and [section 48 of this title][/us/usc/t26/s48]\] shall not apply to qualified leased property described in section 168(f)(8)(D)(V) of such Code (as in effect after the amendments made by this section) which—
 
 >         “(A) is placed in service before January 1, 1988, or
 
@@ -5499,7 +5541,9 @@
 
 >     “(6) __Qualified lessee defined.—__ 
 
->         “(A) __In general.—The term ‘qualified lessee’ means a taxpayer which is a lessee of an agreement to which section 168(f)(8)(A) of such Code applies and which—__ 
+>         “(A) __In general.—__ 
+
+>         The term ‘qualified lessee’ means a taxpayer which is a lessee of an agreement to which section 168(f)(8)(A) of such Code applies and which—
 
 >             “(i) had net operating losses in each of the three most recent taxable years ending before July 1, 1982, and had an aggregate net operating loss for the five most recent taxable years ending before July 1, 1982, and
 
@@ -5511,7 +5555,9 @@
 
 >                 “(II) four or fewer United States persons (including as one person an affiliated group as defined in section 1504(a)) other than the taxpayer manufactured 85 percent or more of the total number of all units (or value) within such class of products manufactured and produced in the United States during such period.
 
->         “(B) __Class of products.—For purposes of subparagraph (A)—__ 
+>         “(B) __Class of products.—__ 
+
+>         For purposes of subparagraph (A)—
 
 >             “(i) the term ‘class of products’ means any of the categories designated and numbered as a ‘class of products’ in the 1977 Census of Manufacturers compiled and published by the Secretary of Commerce under title 13 of the United States Code, and
 
@@ -5525,9 +5571,13 @@
 
 >                   shall constitute prima facie evidence of the total number of all units of such class of products manufactured and produced in the United States in such period.
 
->     “(6) __Underpayments of tax for 1982.—No addition to the tax shall be made under section 6655 of the Internal Revenue Code of 1954 (relating to failure by corporation to pay estimated income tax) for any period before__  __October 15, 1982__  __, with respect to any underpayment of estimated tax by a taxpayer with respect to any tax imposed by chapter 1 of such Code to the extent that such underpayment was created or increased by any provision of this section.__ 
+>     “(6) __Underpayments of tax for 1982.—__ 
 
->     “(7) __Coordination with at risk rules.—Subparagraph (J) of section 168(f)(8) of the Internal Revenue Code of 1986 (as added by subsection (b)(4)) shall take effect as provided in such subparagraph (J).”__ 
+>     No addition to the tax shall be made under section 6655 of the Internal Revenue Code of 1954 (relating to failure by corporation to pay estimated income tax) for any period before October 15, 1982, with respect to any underpayment of estimated tax by a taxpayer with respect to any tax imposed by chapter 1 of such Code to the extent that such underpayment was created or increased by any provision of this section.
+
+>     “(7) __Coordination with at risk rules.—__ 
+
+>     Subparagraph (J) of section 168(f)(8) of the Internal Revenue Code of 1986 (as added by subsection (b)(4)) shall take effect as provided in such subparagraph (J).”
 
 \[[Pub. L. 98–369, div. A, title X, § 1067(c)][/us/pl/98/369/s1067/c], July 18, 1984, [98 Stat. 1049][/us/stat/98/1049], provided that: 
 
@@ -5537,13 +5587,19 @@
 
 >     “(1) __Subsection (a).—__ 
 
->         “(A) __In general.—Except as provided in subparagraph (B) and paragraph (2), the amendments made by this section \[amending this section and__  __[__  __section 48 of this title__  __][/us/usc/t26/s48]__  __\] shall apply to agreements entered into after__  __December 31, 1987__  __.__ 
+>         “(A) __In general.—__ 
+
+>         Except as provided in subparagraph (B) and paragraph (2), the amendments made by this section \[amending this section and [section 48 of this title][/us/usc/t26/s48]\] shall apply to agreements entered into after December 31, 1987.
 
 >         “(B) __Special rule for farm property aggregating $150,000 or less.—__ 
 
->             “(i) __In general.—The amendments made by subsection (a) \[amending this section\] shall also apply to any agreement entered into after__  __July 1, 1982__  __, and before__  __January 1, 1988__  __, if the property subject to such agreement is section 38 property which is used for farming purposes (within the meaning of section 2032A(e)(5)).__ 
+>             “(i) __In general.—__ 
 
->             “(ii) __$150,000 limitation.—The provisions of clause (i) shall not apply to any agreement if the sum of—__ 
+>             The amendments made by subsection (a) \[amending this section\] shall also apply to any agreement entered into after July 1, 1982, and before January 1, 1988, if the property subject to such agreement is section 38 property which is used for farming purposes (within the meaning of section 2032A(e)(5)).
+
+>             “(ii) __$150,000 limitation.—__ 
+
+>             The provisions of clause (i) shall not apply to any agreement if the sum of—
 
 >                 “(I) the cost basis of the property subject to the agreement, plus
 
@@ -5551,15 +5607,21 @@
 
 >                   exceeds $150,000. For purposes of subclause (II), in the case of an individual, there shall not be taken into account any agreement of any individual who is a related person involving property which is used in a trade or business of farming of such related person which is separate from the trade or business of farming of the lessee described in subclause (II).
 
->     “(2) __Special rule for definition of new section 38 property.—The amendment made by subsection (c) \[amending__  __[__  __section 48 of this title__  __][/us/usc/t26/s48]__  __\] shall apply to property placed in service after__  __December 31, 1983__  __.”__ 
+>     “(2) __Special rule for definition of new section 38 property.—__ 
+
+>     The amendment made by subsection (c) \[amending [section 48 of this title][/us/usc/t26/s48]\] shall apply to property placed in service after December 31, 1983.”
 
 [Pub. L. 97–248, title II, § 216(b)][/us/pl/97/248/s216/b], Sept. 3, 1982, [96 Stat. 471][/us/stat/96/471], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section\] shall apply with respect to property placed in service after__  __December 31, 1982__  __, to the extent such property is financed by the proceeds of an obligation (including a refunding obligation) issued after__  __June 30, 1982__  __.__ 
+>     “(1) __In general.—__ 
+
+>     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section\] shall apply with respect to property placed in service after December 31, 1982, to the extent such property is financed by the proceeds of an obligation (including a refunding obligation) issued after June 30, 1982.
 
 >     “(2) __Exceptions.—__ 
 
->         “(A) __Construction or binding agreement.—The amendments made by this section \[amending this section\] shall not apply with respect to facilities the original use of which commences with the taxpayer and—__ 
+>         “(A) __Construction or binding agreement.—__ 
+
+>         The amendments made by this section \[amending this section\] shall not apply with respect to facilities the original use of which commences with the taxpayer and—
 
 >             “(i) the construction, reconstruction, or rehabilitation of which began before July 1, 1982, or
 
@@ -5567,13 +5629,19 @@
 
 >         “(B) __Refunding.—__ 
 
->             “(i) __In general.—Except as provided in clause (ii), in the case of property placed in service after__  __December 31, 1982__  __which is financed by the proceeds of an obligation which is issued solely to refund another obligation which was issued before__  __July 1, 1982__  __, the amendments made by this section \[amending this section\] shall apply only with respect to the basis in such property which has not been recovered before the date such refunding obligation is issued.__ 
+>             “(i) __In general.—__ 
 
->             “(ii) __Significant expenditures.—In the case of facilities the original use of which commences with the taxpayer and with respect to which significant expenditures are made before__  __January 1, 1983__  __, the amendments made by this section shall not apply with respect to such facilities to the extent such facilities are financed by the proceeds of an obligation issued solely to refund another obligation which was issued before__  __July 1, 1982__  __.__ 
+>             Except as provided in clause (ii), in the case of property placed in service after December 31, 1982 which is financed by the proceeds of an obligation which is issued solely to refund another obligation which was issued before July 1, 1982, the amendments made by this section \[amending this section\] shall apply only with respect to the basis in such property which has not been recovered before the date such refunding obligation is issued.
+
+>             “(ii) __Significant expenditures.—__ 
+
+>             In the case of facilities the original use of which commences with the taxpayer and with respect to which significant expenditures are made before January 1, 1983, the amendments made by this section shall not apply with respect to such facilities to the extent such facilities are financed by the proceeds of an obligation issued solely to refund another obligation which was issued before July 1, 1982.
 
 >         In the case of an inducement resolution adopted by an issuing authority before July 1, 1982, for purposes of applying subparagraphs (A)(i) and (B)(ii) with respect to obligations described in such resolution, the term ‘facilities’ means the facilities described in such resolution.
 
->     “(3) __Certain projects for residential real property.—For purposes of clause (i) of section 168(f)(12)(C) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section), any obligation issued to finance a project described in the table contained in paragraph (1) of section 1104(n) of the Mortgage Subsidy Bond Tax Act of 1980 \[__  __[__  __section 1104(n) of Pub. L. 96–499__  __][/us/pl/96/499/s1104/n]__  __, set out as a note under__  __[__  __section 103A of this title__  __][/us/usc/t26/s103A]__  __\] shall be treated as an obligation described in section 103(b)(4)(A) of the Internal Revenue Code of 1986.”__ 
+>     “(3) __Certain projects for residential real property.—__ 
+
+>     For purposes of clause (i) of section 168(f)(12)(C) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section), any obligation issued to finance a project described in the table contained in paragraph (1) of section 1104(n) of the Mortgage Subsidy Bond Tax Act of 1980 \[[section 1104(n) of Pub. L. 96–499][/us/pl/96/499/s1104/n], set out as a note under [section 103A of this title][/us/usc/t26/s103A]\] shall be treated as an obligation described in section 103(b)(4)(A) of the Internal Revenue Code of 1986.”
 
     Amendment by section 224(c)(1), (2) of [Pub. L. 97–248][/us/pl/97/248] to apply to any target corporation, within the meaning of [section 338 of this title][/us/usc/t26/s338], with respect to which the acquisition date, within the meaning of such section, occurs after Aug. 31, 1982, and also to apply to certain acquisitions before September 1, 1982, but not to apply in the case of certain acquisitions of financial institutions, see [section 224(d) of Pub. L. 97–248][/us/pl/97/248/s224/d], set out as an Effective Date note under [section 338 of this title][/us/usc/t26/s338].
 
@@ -5581,9 +5649,13 @@
 
 [Pub. L. 97–34, title II, § 209(a)][/us/pl/97/34/s209/a]–(c), Aug. 13, 1981, [95 Stat. 226][/us/stat/95/226], as amended by [Pub. L. 97–448, title I, § 102(d)(1)][/us/pl/97/448/s102/d/1], (g), Jan. 12, 1983, [96 Stat. 2370][/us/stat/96/2370]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __General Rule.—Except as otherwise provided in this section, the amendments made by this subtitle \[subtitle A (§§ 201–209) of title II of__  __[__  __Pub. L. 97–34__  __][/us/pl/97/34]__  __, enacting this section, amending sections 44E, 46, 50A, 53, 57, 167, 172, 179, 263, 312, 381, 453, 812, 825, 964, 1033, 1245, and 1250 of this title, and enacting provisions set out as notes under this section and sections 46 and 167 of this title\] shall apply to property placed in service after__  __December 31, 1980__  __, in taxable years ending after such date.__ 
+>     “(a) __General Rule.—__ 
 
->     “(b) __Special Rule for RRB Property.—The amendment made by subsection (c) of section 203 \[amending__  __[__  __section 167 of this title__  __][/us/usc/t26/s167]__  __and enacting provisions set out as notes under__  __[__  __section 167 of this title__  __][/us/usc/t26/s167]__  __\] shall take effect on__  __January 1, 1981__  __, and shall apply with respect to taxable years ending after such date.__ 
+>     Except as otherwise provided in this section, the amendments made by this subtitle \[subtitle A (§§ 201–209) of title II of [Pub. L. 97–34][/us/pl/97/34], enacting this section, amending sections 44E, 46, 50A, 53, 57, 167, 172, 179, 263, 312, 381, 453, 812, 825, 964, 1033, 1245, and 1250 of this title, and enacting provisions set out as notes under this section and sections 46 and 167 of this title\] shall apply to property placed in service after December 31, 1980, in taxable years ending after such date.
+
+>     “(b) __Special Rule for RRB Property.—__ 
+
+>     The amendment made by subsection (c) of section 203 \[amending [section 167 of this title][/us/usc/t26/s167] and enacting provisions set out as notes under [section 167 of this title][/us/usc/t26/s167]\] shall take effect on January 1, 1981, and shall apply with respect to taxable years ending after such date.
 
 >     “(c) __Special Rule for Carryovers.—__ 
 
@@ -5603,7 +5675,9 @@
 
 >             “(C) The amendments made by subsection (c)(3) of section 207 \[amending [section 44E of this title][/us/usc/t26/s44E]\] shall apply to unused credit years ending after September 30, 1980.
 
->         “(3) __Carryover must have been alive in 1981.—The amendments made by subsections (a), (b), and (c) of section 207 \[amending sections 44E, 46, 50A, 53, 172, 812, and 825 of this title\] shall not apply to any amount which, under the law in effect on the day before the date of the enactment of this Act \[__  __Aug. 13, 1981__  __\], could not be carried to a taxable year ending in 1981.”__ 
+>         “(3) __Carryover must have been alive in 1981.—__ 
+
+>         The amendments made by subsections (a), (b), and (c) of section 207 \[amending sections 44E, 46, 50A, 53, 172, 812, and 825 of this title\] shall not apply to any amount which, under the law in effect on the day before the date of the enactment of this Act \[Aug. 13, 1981\], could not be carried to a taxable year ending in 1981.”
 
  __Savings Provision__ 
 
@@ -5741,11 +5815,17 @@
 
 [Pub. L. 97–248, title II, § 210][/us/pl/97/248/s210], Sept. 3, 1982, [96 Stat. 447][/us/stat/96/447], as amended by [Pub. L. 98–369, div. A, title I, § 32(b)][/us/pl/98/369/s32/b], title VII, § 712(d), July 18, 1984, [98 Stat. 531][/us/stat/98/531], 947; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __In general.—In the case of any qualified motor vehicle agreement entered into on or before the 90th day after the date of the enactment of the Tax Reform Act of 1984 \[__  __July 18, 1984__  __\], the fact that such agreement contains a terminal rental adjustment clause shall not be taken into account in determining whether such agreement is a lease.__ 
+>     “(a) __In general.—__ 
 
->     “(b) __Definitions.—For purposes of this section—__ 
+>     In the case of any qualified motor vehicle agreement entered into on or before the 90th day after the date of the enactment of the Tax Reform Act of 1984 \[July 18, 1984\], the fact that such agreement contains a terminal rental adjustment clause shall not be taken into account in determining whether such agreement is a lease.
 
->         “(1) __Qualified motor vehicle agreement.—The term ‘qualified motor vehicle agreement’ means any agreement with respect to a motor vehicle (including a trailer)—__ 
+>     “(b) __Definitions.—__ 
+
+>     For purposes of this section—
+
+>         “(1) __Qualified motor vehicle agreement.—__ 
+
+>         The term ‘qualified motor vehicle agreement’ means any agreement with respect to a motor vehicle (including a trailer)—
 
 >             “(A)
 
@@ -5769,7 +5849,9 @@
 
 >             “(C) with respect to which the lessee under the agreement uses the property subject to the agreement in a trade or business or for the production of income.
 
->         “(2) __Terminal rental adjustment clause.—The term ‘terminal rental adjustment clause’ means a provision of an agreement which permits or requires the rental price to be adjusted upward or downward by reference to the amount realized by the lessor under the agreement upon sale or other disposition of such property. Such term also includes a provision of an agreement which requires a lessee who is a dealer in motor vehicles to purchase the motor vehicle for a predetermined price and then resell such vehicle where such provision achieves substantially the same results as a provision described in the preceding sentence.__ 
+>         “(2) __Terminal rental adjustment clause.—__ 
+
+>         The term ‘terminal rental adjustment clause’ means a provision of an agreement which permits or requires the rental price to be adjusted upward or downward by reference to the amount realized by the lessor under the agreement upon sale or other disposition of such property. Such term also includes a provision of an agreement which requires a lessee who is a dealer in motor vehicles to purchase the motor vehicle for a predetermined price and then resell such vehicle where such provision achieves substantially the same results as a provision described in the preceding sentence.
 
 >     “(c) __Exception Where Lessee Took Position on Return.—__ 
 
@@ -5781,15 +5863,23 @@
 
 >     “(a) __Requirement of Return.—__ 
 
->         “(1) __In general.—Except as provided in paragraph (2), paragraph (8) of section 168(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to special rule for leases) shall not apply with respect to an agreement unless a return, signed by the lessor and lessee and containing the information required to be included in the return pursuant to subsection (b), has been filed with the Internal Revenue Service not later than the 30th day after the date on which the agreement is executed.__ 
+>         “(1) __In general.—__ 
 
->         “(2) __Special rules for agreements executed before january 1, 1982.—__ 
+>         Except as provided in paragraph (2), paragraph (8) of section 168(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to special rule for leases) shall not apply with respect to an agreement unless a return, signed by the lessor and lessee and containing the information required to be included in the return pursuant to subsection (b), has been filed with the Internal Revenue Service not later than the 30th day after the date on which the agreement is executed.
 
->             “(A) __In general.—In the case of an agreement executed before__  __January 1, 1982__  __, such agreement shall cease on__  __February 1, 1982__  __, to be treated as a lease under section 168(f)(8) unless a return, signed by the lessor and containing the information required to be included in subsection (b), has been filed with the Internal Revenue Service not later than__  __January 31, 1982__  __.__ 
+>         “(2) __Special rules for agreements executed before__  __january 1, 1982__  __.—__ 
 
->             “(B) __Filing by lessee.—If the lessor does not file a return under subparagraph (A), the return requirement under subparagraph (A) shall be satisfied if such return is filed by the lessee before__  __January 31, 1982__  __.__ 
+>             “(A) __In general.—__ 
 
->         “(3) __Certain failure to file.—If—__ 
+>             In the case of an agreement executed before January 1, 1982, such agreement shall cease on February 1, 1982, to be treated as a lease under section 168(f)(8) unless a return, signed by the lessor and containing the information required to be included in subsection (b), has been filed with the Internal Revenue Service not later than January 31, 1982.
+
+>             “(B) __Filing by lessee.—__ 
+
+>             If the lessor does not file a return under subparagraph (A), the return requirement under subparagraph (A) shall be satisfied if such return is filed by the lessee before January 31, 1982.
+
+>         “(3) __Certain failure to file.—__ 
+
+>         If—
 
 >             “(A) a lessor or lessee fails to file any return within the time prescribed by this subsection, and
 
@@ -5797,7 +5887,9 @@
 
 >             the lessor or lessee shall be treated as having filed a timely return if a return is filed within a reasonable time after the failure is ascertained.
 
->     “(b) __Information Required.—The information required to be included in the return pursuant to this subsection is as follows:__ 
+>     “(b) __Information Required.—__ 
+
+>     The information required to be included in the return pursuant to this subsection is as follows:
 
 >         “(1) The name, address, and taxpayer identifying number of the lessor and the lessee (and parent company if a consolidated return is filed);
 
@@ -5823,7 +5915,9 @@
 
 >         Paragraph (8) shall not apply with respect to any person for any calendar year if it is reasonable to estimate that the aggregate adjusted basis of the property of such person which will be subject to subsection (a) for such year is $1,000,000 or less.
 
->     “(c) __Coordination With Other Information Requirements.—In the case of agreements executed after__  __December 31, 1982__  __, to the extent provided in regulations prescribed by the Secretary of the Treasury or his delegate, the provisions of this section shall be modified to coordinate such provisions with the other information requirements of the Internal Revenue Code of 1986.”__ 
+>     “(c) __Coordination With Other Information Requirements.—__ 
+
+>     In the case of agreements executed after December 31, 1982, to the extent provided in regulations prescribed by the Secretary of the Treasury or his delegate, the provisions of this section shall be modified to coordinate such provisions with the other information requirements of the Internal Revenue Code of 1986.”
 
  __Regulated Public Utilities; Special Transitional Rule for Normalization Requirements__ 
 

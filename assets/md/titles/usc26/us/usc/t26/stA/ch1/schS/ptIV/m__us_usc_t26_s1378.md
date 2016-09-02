@@ -71,7 +71,9 @@
 
 >         Subparagraph (C) shall apply to a shareholder of an S corporation only if such corporation was an S corporation for a taxable year beginning in 1986.
 
->     “(3) __Basis, etc. rules—__ 
+>     “(3) __Basis, etc.__ 
+
+>      rules—
 
 >         “(A) __Basis rule.—__ 
 

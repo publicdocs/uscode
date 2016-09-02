@@ -177,7 +177,7 @@
 
 >         The amendment made by paragraph (1) \[amending this section\] shall apply with respect to divorce or separation instruments (as defined in section 71(b)(2)) of the Internal Revenue Code of 1986 executed after December 31, 1986.
 
->         “(B) __Modifications of instruments executed before january 1, 1987.—__ 
+>         “(B) __Modifications of instruments executed before__  __january 1, 1987__  __.—__ 
 
 >         The amendments made by paragraph (1) \[amending this section\] shall also apply to any divorce or separation instrument (as so defined) executed before January 1, 1987, but modified on or after such date if the modification expressly provides that the amendments made by paragraph (1) shall apply to such modification.
 
@@ -193,7 +193,7 @@
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 215, 219, 682, 6676, and 7701 of this title\] shall apply with respect to divorce or separation instruments (as defined in section 71(b)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this section) executed after December 31, 1984.
 
->     “(2) __Modifications of instruments executed before january 1, 1985.—__ 
+>     “(2) __Modifications of instruments executed before__  __january 1, 1985__  __.—__ 
 
 >     The amendments made by this section shall also apply to any divorce or separation instrument (as so defined) executed before January 1, 1985, but modified on or after such date if the modification expressly provides that the amendments made by this section shall apply to such modification.
 

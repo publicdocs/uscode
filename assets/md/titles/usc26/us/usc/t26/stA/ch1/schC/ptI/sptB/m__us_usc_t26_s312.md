@@ -61,7 +61,7 @@
 
             For purposes of this subsection, the term “stock or securities” includes rights to acquire stock or securities.
 
-        \[(e) Repealed. [Pub. L. 98–369, div. A, title I, § 61(a)(2)(B)][/us/pl/98/369/s61/a/2/B], July 18, 1984, [98 Stat. 581][/us/stat/98/581]\]
+    \[(e) __Repealed.__  __[__  __Pub. L. 98–369, div. A, title I, § 61(a)(2)(B)__  __][/us/pl/98/369/s61/a/2/B]__  __,__  __July 18, 1984__  __,__  __[__  __98 Stat. 581__  __][/us/stat/98/581]__  __\]__ 
 
     (f) __Effect on earnings and profits of gain or loss and of receipt of tax-free distributions__ 
 
@@ -109,7 +109,7 @@
 
         then the earnings and profits of the corporation shall be increased by the amount of such excess, and (immediately after the distribution) shall be decreased by the amount of such excess. For purposes of paragraph (2), the adjusted basis of the property at the time of distribution shall be determined without regard to any adjustment under section 1016(a)(2) (relating to adjustment for depreciation, etc.). For purposes of this subsection, a commitment to make, guarantee, or insure a loan shall be treated as the making, guaranteeing, or insuring of a loan.
 
-        \[(j) Repealed. [Pub. L. 108–357, title IV, § 413(c)(4)][/us/pl/108/357/s413/c/4], Oct. 22, 2004, [118 Stat. 1507][/us/stat/118/1507]\]
+    \[(j) __Repealed.__  __[__  __Pub. L. 108–357, title IV, § 413(c)(4)__  __][/us/pl/108/357/s413/c/4]__  __,__  __Oct. 22, 2004__  __,__  __[__  __118 Stat. 1507__  __][/us/stat/118/1507]__  __\]__ 
 
     (k) __Effect of depreciation on earnings and profits__ 
 

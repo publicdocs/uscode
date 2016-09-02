@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stD/ch32/schF/m__us_usc_t26_s4220 to 4225.md) | [Next](./../../../../../..//us/usc/t26/stD/ch32/schG/m__us_usc_t26_s4221.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch32%2FschG)
+[Previous](./../../../../../..//us/usc/t26/stD/ch32/schF/m__us_usc_t26_s4219.md) | [Next](./../../../../../..//us/usc/t26/stD/ch32/schG/m__us_usc_t26_s4221.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch32%2FschG)
 
 #### Subchapter G—Exemptions, Registration, Etc.
 
@@ -95,7 +95,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stD/ch32/schF/m__us_usc_t26_s4220 to 4225.md) | [Next](./../../../../../..//us/usc/t26/stD/ch32/schG/m__us_usc_t26_s4221.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch32%2FschG)
+[Previous](./../../../../../..//us/usc/t26/stD/ch32/schF/m__us_usc_t26_s4219.md) | [Next](./../../../../../..//us/usc/t26/stD/ch32/schG/m__us_usc_t26_s4221.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch32%2FschG)
 
 ----------
 ----------

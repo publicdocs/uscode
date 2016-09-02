@@ -15,13 +15,13 @@
 
 ## § 1463. Tax paid by recipient of income
 
-If—
+    If—
 
     (1) any person, in violation of the provisions of this chapter, fails to deduct and withhold any tax under this chapter, and
 
     (2) thereafter the tax against which such tax may be credited is paid,
 
-        the tax so required to be deducted and withheld shall not be collected from such person; but this section shall in no case relieve such person from liability for interest or any penalties or additions to the tax otherwise applicable in respect of such failure to deduct and withhold.
+    the tax so required to be deducted and withheld shall not be collected from such person; but this section shall in no case relieve such person from liability for interest or any penalties or additions to the tax otherwise applicable in respect of such failure to deduct and withhold.
 
 ([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 360][/us/stat/68A/360]; [Pub. L. 101–239, title VII, § 7743(a)][/us/pl/101/239/s7743/a], Dec. 19, 1989, [103 Stat. 2406][/us/stat/103/2406]; [Pub. L. 104–188, title I, § 1704(t)(9)][/us/pl/104/188/s1704/t/9], Aug. 20, 1996, [110 Stat. 1887][/us/stat/110/1887].)
 

@@ -15,7 +15,7 @@
 
 ## § 5712. Application for permit
 
-Every person, before commencing business as a manufacturer or importer of tobacco products or processed tobacco or as an export warehouse proprietor, and at such other time as the Secretary shall by regulation prescribe, shall make application for the permit provided for in section 5713. The application shall be in such form as the Secretary shall prescribe and shall set forth, truthfully and accurately, the information called for on the form. Such application may be rejected and the permit denied if the Secretary, after notice and opportunity for hearing, find that—
+    Every person, before commencing business as a manufacturer or importer of tobacco products or processed tobacco or as an export warehouse proprietor, and at such other time as the Secretary shall by regulation prescribe, shall make application for the permit provided for in section 5713. The application shall be in such form as the Secretary shall prescribe and shall set forth, truthfully and accurately, the information called for on the form. Such application may be rejected and the permit denied if the Secretary, after notice and opportunity for hearing, find that—
 
     (1) the premises on which it is proposed to conduct the business are not adequate to protect the revenue;
 

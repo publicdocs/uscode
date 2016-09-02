@@ -635,7 +635,7 @@
 
 >     If the taxpayer has made an election under this section, then in determining the adjusted basis on his 1956 adjustment date of all retirement-straight line property held by the taxpayer, in lieu of the adjustments for depreciation provided in section 1016(a)(2) and (3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the following adjustments shall be made (effective as of his 1956 adjustment date) in respect of all periods before the 1956 adjustment date:
 
->         “(1) __Depreciation sustained before march 1, 1913.—__ 
+>         “(1) __Depreciation sustained before__  __march 1, 1913__  __.—__ 
 
 >         For depreciation sustained before March 1, 1913, on retirement-straight line property held by the taxpayer or a predecessor on such date for which cost was or is claimed as basis and which either—
 

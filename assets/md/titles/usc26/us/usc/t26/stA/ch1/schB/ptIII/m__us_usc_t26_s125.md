@@ -311,19 +311,19 @@
 
 [Pub. L. 111–148, title I, § 1515][/us/pl/111/148/s1515], Mar. 23, 2010, [124 Stat. 258][/us/stat/124/258], provided that, applicable to taxable years beginning after Dec. 31, 2013, subsection (f) of this section is amended as follows:
 
-(1) by striking “For purposes of this section, the term” and inserting “For purposes of this section—
+    (1) by striking “For purposes of this section, the term” and inserting “For purposes of this section—
 
     “(1) In general
 
     “The term”;
 
-(2) by striking “Such term shall not include” and inserting the following:
+    (2) by striking “Such term shall not include” and inserting the following:
 
     “(2) Long-term care insurance not qualified
 
     “The term ‘qualified benefit’ shall not include”; and
 
-(3) by adding at the end the following new paragraph:
+    (3) by adding at the end the following new paragraph:
 
     (3) Certain exchange-participating qualified health plans not qualified
 

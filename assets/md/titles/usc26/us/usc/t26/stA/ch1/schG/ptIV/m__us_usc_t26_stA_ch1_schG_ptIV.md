@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schG/ptIII/m__us_usc_t26_s551 to 558.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schG/ptIV/m__us_usc_t26_s561.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschG%2FptIV)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schG/ptIII/m__us_usc_t26_stA_ch1_schG_ptIII.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schG/ptIV/m__us_usc_t26_s561.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschG%2FptIV)
 
 ##### PART IV—DEDUCTION FOR DIVIDENDS PAID
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schG/ptIII/m__us_usc_t26_s551 to 558.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schG/ptIV/m__us_usc_t26_s561.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschG%2FptIV)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schG/ptIII/m__us_usc_t26_stA_ch1_schG_ptIII.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schG/ptIV/m__us_usc_t26_s561.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschG%2FptIV)
 
 ----------
 ----------

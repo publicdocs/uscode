@@ -411,7 +411,7 @@
 
 >     “(iii) such property does not meet the requirements of section 1042(c)(4) of such Code (as amended by subparagraph (A)),
 
->         then, with respect to so much of any gain which the taxpayer treated as not recognized under section 1042(a) by reason of the acquisition of such property, the replacement period for purposes of such section shall not expire before January 1, 1987.”
+>     then, with respect to so much of any gain which the taxpayer treated as not recognized under section 1042(a) by reason of the acquisition of such property, the replacement period for purposes of such section shall not expire before January 1, 1987.”
 
 ----------
 

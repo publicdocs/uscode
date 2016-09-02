@@ -33,7 +33,7 @@
 
 >     “(b) __Special Rules.—__ 
 
->         “(1) __Treatment of certain inter vivos transfers made after september 25, 1985.—__ 
+>         “(1) __Treatment of certain inter vivos transfers made after__  __september 25, 1985__  __.—__ 
 
 >         For purposes of subsection (a) (and chapter 13 of the Internal Revenue Code of 1986 as amended by this part), any inter vivos transfer after September 25, 1985, and on or before the date of the enactment of this Act \[Oct. 22, 1986\] shall be treated as if it were made on the 1st day after the date of enactment of this Act.
 

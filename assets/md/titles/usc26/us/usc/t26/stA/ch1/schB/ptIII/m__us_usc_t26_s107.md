@@ -15,7 +15,7 @@
 
 ## § 107. Rental value of parsonages
 
-In the case of a minister of the gospel, gross income does not include—
+    In the case of a minister of the gospel, gross income does not include—
 
     (1) the rental value of a home furnished to him as part of his compensation; or
 

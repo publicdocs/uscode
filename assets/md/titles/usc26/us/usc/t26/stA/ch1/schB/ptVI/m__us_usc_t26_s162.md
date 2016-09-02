@@ -189,7 +189,7 @@
 
             For taxable years beginning after December 31, 1980, this subsection shall not apply to any legislator whose place of residence within the legislative district which he represents is 50 or fewer miles from the capitol building of the State.
 
-        \[(i) Repealed. [Pub. L. 101–239, title VI, § 6202(b)(3)(A)][/us/pl/101/239/s6202/b/3/A], Dec. 19, 1989, [103 Stat. 2233][/us/stat/103/2233]\]
+    \[(i) __Repealed.__  __[__  __Pub. L. 101–239, title VI, § 6202(b)(3)(A)__  __][/us/pl/101/239/s6202/b/3/A]__  __,__  __Dec. 19, 1989__  __,__  __[__  __103 Stat. 2233__  __][/us/stat/103/2233]__  __\]__ 
 
     (j) __Certain foreign advertising expenses__ 
 

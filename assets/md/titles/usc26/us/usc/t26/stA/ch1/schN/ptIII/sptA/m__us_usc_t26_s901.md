@@ -105,7 +105,7 @@
 
             For purposes of paragraph (1), a corporation shall be treated as a possessions corporation for any period during which an election under section 936 applied to such corporation, during which section 931 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1976) applied to such corporation, or during which section 957(c) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) applied to such corporation.
 
-        \[(h) Repealed. [Pub. L. 110–172, § 11(g)(9)][/us/pl/110/172/s11/g/9], Dec. 29, 2007, [121 Stat. 2490][/us/stat/121/2490]\]
+    \[(h) __Repealed.__  __[__  __Pub. L. 110–172, § 11(g)(9)__  __][/us/pl/110/172/s11/g/9]__  __,__  __Dec. 29, 2007__  __,__  __[__  __121 Stat. 2490__  __][/us/stat/121/2490]__  __\]__ 
 
     (i) __Taxes used to provide subsidies__ 
 

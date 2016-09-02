@@ -431,9 +431,13 @@
 
 [Pub. L. 97–34, title III, § 301(d)][/us/pl/97/34/s301/d], Aug. 13, 1981, [95 Stat. 270][/us/stat/95/270], provided that:
 
->     “(1) __In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting__  __[__  __section 128 of this title__  __][/us/usc/t26/s128]__  __and amending this section and sections 584, 643, and 702 of this title\] shall apply to taxable years ending after__  __September 30, 1981__  __.__ 
+>     “(1) __In general.—__ 
 
->     “(2) __Conforming amendments.—The amendments made by subsection (b)(6) \[amending sections 584, 643, and 702 of this title\] shall apply to taxable years beginning after__  __December 31, 1981__  __.”__ 
+>     Except as provided in paragraph (2), the amendments made by this section \[enacting [section 128 of this title][/us/usc/t26/s128] and amending this section and sections 584, 643, and 702 of this title\] shall apply to taxable years ending after September 30, 1981.
+
+>     “(2) __Conforming amendments.—__ 
+
+>     The amendments made by subsection (b)(6) \[amending sections 584, 643, and 702 of this title\] shall apply to taxable years beginning after December 31, 1981.”
 
  __Effective and Termination Dates of 1980 Amendment__ 
 

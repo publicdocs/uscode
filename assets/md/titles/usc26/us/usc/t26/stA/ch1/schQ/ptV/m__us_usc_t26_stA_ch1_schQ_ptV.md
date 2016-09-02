@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schQ/ptIV/m__us_usc_t26_s1331 to 1337.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schQ/ptV/m__us_usc_t26_s1341.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschQ%2FptV)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schQ/ptIV/m__us_usc_t26_stA_ch1_schQ_ptIV.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schQ/ptV/m__us_usc_t26_s1341.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschQ%2FptV)
 
 ##### PART V—CLAIM OF RIGHT
 
@@ -47,7 +47,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schQ/ptIV/m__us_usc_t26_s1331 to 1337.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schQ/ptV/m__us_usc_t26_s1341.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschQ%2FptV)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schQ/ptIV/m__us_usc_t26_stA_ch1_schQ_ptIV.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schQ/ptV/m__us_usc_t26_s1341.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschQ%2FptV)
 
 ----------
 ----------

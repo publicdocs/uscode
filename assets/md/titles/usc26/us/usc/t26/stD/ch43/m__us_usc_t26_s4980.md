@@ -361,7 +361,7 @@
 
 >     The amendments made by this section \[enacting this section\] shall apply to reversions occurring after December 31, 1985.
 
->     “(2) __Exception where termination date occurred before january 1, 1986.—__ 
+>     “(2) __Exception where termination date occurred before__  __january 1, 1986__  __.—__ 
 
 >         “(A) __In general.—__ 
 

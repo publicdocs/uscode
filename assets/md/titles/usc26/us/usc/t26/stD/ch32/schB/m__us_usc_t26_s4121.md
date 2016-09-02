@@ -191,7 +191,9 @@
 
 >                 “(iii) __Judgment described.—__ 
 
->                 A judgment is described in this subparagraph if such judgment—         “(I) is made by a court of competent jurisdiction within the United States,
+>                 A judgment is described in this subparagraph if such judgment—
+
+>                          “(I) is made by a court of competent jurisdiction within the United States,
 
 >                          “(II) relates to the constitutionality of any tax paid on exported coal under section 4121 of the Internal Revenue Code of 1986, and
 

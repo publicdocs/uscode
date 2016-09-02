@@ -15,13 +15,13 @@
 
 ## § 3301. Rate of tax
 
-There is hereby imposed on every employer (as defined in section 3306(a)) for each calendar year an excise tax, with respect to having individuals in his employ, equal to—
+    There is hereby imposed on every employer (as defined in section 3306(a)) for each calendar year an excise tax, with respect to having individuals in his employ, equal to—
 
     (1) 6.2 percent in the case of calendar years 1988 through 2010 and the first 6 months of calendar year 2011; or
 
     (2) 6.0 percent in the case of the remainder of calendar year 2011 and each calendar year thereafter;
 
-        of the total wages (as defined in section 3306(b)) paid by him during the calendar year (or portion of the calendar year) with respect to employment (as defined in section 3306(c)).
+    of the total wages (as defined in section 3306(b)) paid by him during the calendar year (or portion of the calendar year) with respect to employment (as defined in section 3306(c)).
 
 ([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 439][/us/stat/68A/439]; [Pub. L. 86–778, title V, § 523(a)][/us/pl/86/778/s523/a], Sept. 13, 1960, [74 Stat. 980][/us/stat/74/980]; [Pub. L. 87–6, § 14(a)][/us/pl/87/6/s14/a], Mar. 24, 1961, [75 Stat. 16][/us/stat/75/16]; [Pub. L. 88–31, § 2(a)][/us/pl/88/31/s2/a], May 29, 1963, [77 Stat. 51][/us/stat/77/51]; [Pub. L. 91–373, title III, § 301(a)][/us/pl/91/373/s301/a], Aug. 10, 1970, [84 Stat. 713][/us/stat/84/713]; [Pub. L. 92–329, § 2(a)][/us/pl/92/329/s2/a], June 30, 1972, [86 Stat. 398][/us/stat/86/398]; [Pub. L. 94–455, title XIX, § 1903(a)(11)][/us/pl/94/455/s1903/a/11], Oct. 4, 1976, [90 Stat. 1808][/us/stat/90/1808]; [Pub. L. 94–566, title II, § 211(b)][/us/pl/94/566/s211/b], Oct. 20, 1976, [90 Stat. 2676][/us/stat/90/2676]; [Pub. L. 97–248, title II, § 271(b)(1)][/us/pl/97/248/s271/b/1], (c)(1), Sept. 3, 1982, [96 Stat. 554][/us/stat/96/554], 555; [Pub. L. 99–514, title XVIII, § 1899A(42)][/us/pl/99/514/s1899A/42], Oct. 22, 1986, [100 Stat. 2960][/us/stat/100/2960]; [Pub. L. 100–203, title IX, § 9153(a)][/us/pl/100/203/s9153/a], Dec. 22, 1987, [101 Stat. 1330–326][/us/stat/101/1330-326]; [Pub. L. 101–508, title XI, § 11333(a)][/us/pl/101/508/s11333/a], Nov. 5, 1990, [104 Stat. 1388–470][/us/stat/104/1388-470]; [Pub. L. 102–164, title IV, § 402][/us/pl/102/164/s402], Nov. 15, 1991, [105 Stat. 1061][/us/stat/105/1061]; [Pub. L. 103–66, title XIII, § 13751][/us/pl/103/66/s13751], Aug. 10, 1993, [107 Stat. 664][/us/stat/107/664]; [Pub. L. 105–34, title X, § 1035][/us/pl/105/34/s1035], Aug. 5, 1997, [111 Stat. 937][/us/stat/111/937]; [Pub. L. 110–140, title XV, § 1501(a)][/us/pl/110/140/s1501/a], Dec. 19, 2007, [121 Stat. 1800][/us/stat/121/1800]; [Pub. L. 110–343, div. B, title IV, § 404(a)][/us/pl/110/343/s404/a], Oct. 3, 2008, [122 Stat. 3860][/us/stat/122/3860]; [Pub. L. 111–92, § 10(a)][/us/pl/111/92/s10/a], Nov. 6, 2009, [123 Stat. 2988][/us/stat/123/2988].)
 

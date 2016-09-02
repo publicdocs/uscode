@@ -131,7 +131,7 @@
 
 >     The amendments made by this section \[enacting this subchapter\] shall take effect on January 1, 1990.
 
->     “(2) __No deposits required before april 1, 1990.—__ 
+>     “(2) __No deposits required before__  __april 1, 1990__  __.—__ 
 
 >     No deposit of any tax imposed by subchapter D of chapter 38 of the Internal Revenue Code of 1986, as added by this section, shall be required to be made before April 1, 1990.
 

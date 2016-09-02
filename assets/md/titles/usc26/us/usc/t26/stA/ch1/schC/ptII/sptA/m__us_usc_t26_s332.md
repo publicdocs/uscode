@@ -113,7 +113,7 @@
 
 >     Except as provided in clause (iii), the amendment made by subparagraph (A) \[amending this section\] shall apply with respect to plans of complete liquidation adopted after March 28, 1985.
 
->     “(ii) __Certain distributions made after december 31, 1984.—__ 
+>     “(ii) __Certain distributions made after__  __december 31, 1984__  __.—__ 
 
 >     Except as provided in clause (iii), the amendment made by subparagraph (A) shall also apply with respect to plans of complete liquidations adopted on or before March 28, 1985, pursuant to which any distribution is made in a taxable year beginning after December 31, 1984 (December 31, 1983, in the case of an affiliated group to which an election under section 60(b)(7) of the Tax Reform Act of 1984 \[[Pub. L. 98–369][/us/pl/98/369], set out as a note under [section 1504 of this title][/us/usc/t26/s1504]\] applies), but only if the liquidating corporation and any corporation which receives a distribution in complete liquidation of such corporation are members of an affiliated group of corporations filing a consolidated return for the taxable year which includes the date of the distribution.
 

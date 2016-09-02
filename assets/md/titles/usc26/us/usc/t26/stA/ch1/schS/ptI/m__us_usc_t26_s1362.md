@@ -415,7 +415,7 @@
 
 >     “(B) makes the election under section 1362(a) of such Code before the close of such 75th day,
 
->         then such dealer shall be treated as having received approval for and adopted a taxable year beginning on the first day during 1984 on which it was a small business corporation (as so defined) or such other day as may be permitted under regulations and ending on the date determined under section 1378 of such Code and such election shall be effective for such taxable year.”
+>     then such dealer shall be treated as having received approval for and adopted a taxable year beginning on the first day during 1984 on which it was a small business corporation (as so defined) or such other day as may be permitted under regulations and ending on the date determined under section 1378 of such Code and such election shall be effective for such taxable year.”
 
 ----------
 

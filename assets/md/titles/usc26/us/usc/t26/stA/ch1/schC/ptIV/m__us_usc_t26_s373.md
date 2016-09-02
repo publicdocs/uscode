@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schC/ptIV/m__us_usc_t26_s370 to 372.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schC/ptIV/m__us_usc_t26_s374.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs373)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schC/ptIV/m__us_usc_t26_stA_ch1_schC_ptIV.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schC/ptIV/m__us_usc_t26_s374.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs373)
 
 ## \[§ 373. Repealed. [Pub. L. 94–455, title XIX, § 1901(a)(52)][/us/pl/94/455/s1901/a/52], Oct. 4, 1976, [90 Stat. 1773][/us/stat/90/1773]\]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schC/ptIV/m__us_usc_t26_s370 to 372.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schC/ptIV/m__us_usc_t26_s374.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs373)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schC/ptIV/m__us_usc_t26_stA_ch1_schC_ptIV.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schC/ptIV/m__us_usc_t26_s374.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs373)
 
 ----------
 ----------

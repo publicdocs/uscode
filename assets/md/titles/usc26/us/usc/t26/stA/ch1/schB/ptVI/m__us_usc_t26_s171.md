@@ -213,7 +213,7 @@
 
 >     “(ii) which was acquired by the taxpayer after January 22, 1954, and before January 1, 1958,
 
->         the bond premium for a taxable year beginning after December 31, 1975, shall not be determined under section 171(b)(1)(B)(i) but shall be determined with reference to the amount payable on maturity, and if the bond is called before its maturity, the bond premium for the year in which the bond is called shall be determined in accordance with the provisions of section 171(b)(2).”
+>     the bond premium for a taxable year beginning after December 31, 1975, shall not be determined under section 171(b)(1)(B)(i) but shall be determined with reference to the amount payable on maturity, and if the bond is called before its maturity, the bond premium for the year in which the bond is called shall be determined in accordance with the provisions of section 171(b)(2).”
 
  __Plan Amendments Not Required Until January 1, 1989__ 
 

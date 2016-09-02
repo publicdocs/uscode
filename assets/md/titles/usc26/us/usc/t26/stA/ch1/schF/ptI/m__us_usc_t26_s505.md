@@ -173,7 +173,7 @@
 
 >     The amendments made by this section \[enacting this section\] shall apply to years beginning after December 31, 1984.
 
->     “(2) __Treatment of certain benefits in pay status as of january 1, 1985.—__ 
+>     “(2) __Treatment of certain benefits in pay status as of__  __january 1, 1985__  __.—__ 
 
 >     For purposes of determining whether a plan meets the requirements of section 505(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)), there may (at the election of the employer) be excluded from consideration all disability or severance payments payable to individuals who are in pay status as of January 1, 1985. The preceding sentence shall not apply to any payment to the extent such payment is increased by any plan amendment adopted after June 22, 1984.”
 

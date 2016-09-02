@@ -461,7 +461,11 @@
 
 >                 “(i) the tax for such taxable year determined by taking into account subsection (g)(2), over
 
->                 “(ii) the tax for such taxable year determined by taking into account subsection (g)(2) and by treating—         “(I) all section 1256 contracts which are stock options, and
+>                 “(ii)
+
+>                  the tax for such taxable year determined by taking into account subsection (g)(2) and by treating—
+
+>                          “(I) all section 1256 contracts which are stock options, and
 
 >                          “(II) any stock which was a part of a straddle including any such stock options,
 
@@ -553,7 +557,7 @@
 
 >         For purposes of this clause, the terms ‘regulated futures contract’ and ‘foreign currency contract’ have the same respective meanings as when used in section 1256 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this Act).
 
->     “(iii) __Election by taxpayer with respect to positions held during taxable years ending after may 11, 1982.—__ 
+>     “(iii) __Election by taxpayer with respect to positions held during taxable years ending after__  __may 11, 1982__  __.—__ 
 
 >     In lieu of the election under clause (ii), a taxpayer may elect to have the amendments made by subparagraphs (B) and (C) \[amending subsec. (b) of this section to include foreign currency contracts and enacting subsec. (g) of this section, respectively\] applied to all positions held in taxable years ending after May 11, 1982, except that the provisions of section 509(a)(3) and (4) of the Economic Recovery Tax Act of 1981 \[set out below\] shall not apply.”
 

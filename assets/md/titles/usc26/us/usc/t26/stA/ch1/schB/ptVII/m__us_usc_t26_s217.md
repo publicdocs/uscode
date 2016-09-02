@@ -79,7 +79,7 @@
 
             then an amount equal to the expenses which were so deducted shall be included in gross income for the first such subsequent taxable year.
 
-        \[(e) Repealed. [Pub. L. 103–66, title XIII, § 13213(a)(2)(A)][/us/pl/103/66/s13213/a/2/A], Aug. 10, 1993, [107 Stat. 473][/us/stat/107/473]\]
+    \[(e) __Repealed.__  __[__  __Pub. L. 103–66, title XIII, § 13213(a)(2)(A)__  __][/us/pl/103/66/s13213/a/2/A]__  __,__  __Aug. 10, 1993__  __,__  __[__  __107 Stat. 473__  __][/us/stat/107/473]__  __\]__ 
 
     (f) __Self-employed individual__ 
 

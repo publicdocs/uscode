@@ -61,7 +61,7 @@
 
             (C) death;
 
-            \[(3) Repealed. [Pub. L. 98–21, title III, § 324(b)(3)(B)][/us/pl/98/21/s324/b/3/B], Apr. 20, 1983, [97 Stat. 124][/us/stat/97/124]\]
+        \[(3) Repealed. [Pub. L. 98–21, title III, § 324(b)(3)(B)][/us/pl/98/21/s324/b/3/B], Apr. 20, 1983, [97 Stat. 124][/us/stat/97/124]\]
 
         (4) any payment on account of sickness or accident disability, or medical or hospitalization expenses in connection with sickness or accident disability, made by an employer to, or on behalf of, an employee after the expiration of 6 calendar months following the last calendar month in which the employee worked for such employer;
 
@@ -313,7 +313,7 @@
 
         “(B) in the employ of a group of operators of farms (or a cooperative organization of which such operators are members) in the performance of service described in subparagraph (A), but only if such operators produced more than one-half of the commodity with respect to which such service is performed;”.
 
-        \[(l) Repealed. [Sept. 1, 1954, ch. 1212, § 4(c)][/us/act/1954-09-01/ch1212/s4/c], [68 Stat. 1135][/us/stat/68/1135]\]
+    \[(l) __Repealed.__  __[__  __Sept. 1, 1954, ch. 1212, § 4(c)__  __][/us/act/1954-09-01/ch1212/s4/c]__  __,__  __[__  __68 Stat. 1135__  __][/us/stat/68/1135]__  __\]__ 
 
     (m) __American vessel and aircraft__ 
 

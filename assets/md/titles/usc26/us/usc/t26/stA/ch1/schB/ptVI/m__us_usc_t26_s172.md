@@ -1061,7 +1061,7 @@
 
 >         Paragraph (2) shall not apply to any right to receive income with respect to any mortgage pool participation certificate or other similar interest in any mortgage (not including any mortgage).
 
->         “(B) __Treatment of certain sales after march 15, 1984, and before january 1, 1985.—__ 
+>         “(B) __Treatment of certain sales after__  __march 15, 1984__  __, and before__  __january 1, 1985__  __.—__ 
 
 >         If any gain is realized on the sale or exchange of any right described in subparagraph (A) after March 15, 1984, and before January 1, 1985, the gain shall not be recognized when realized but shall be recognized on January 1, 1985.
 
@@ -1265,7 +1265,9 @@
 
 >                 “(ii) __Special rules.—__ 
 
->                 For purposes of clause (i)—         “(I) no amount shall be treated as remaining unused as of January 1, 2010, if it is obligated as of such date for a qualified expense, and
+>                 For purposes of clause (i)—
+
+>                          “(I) no amount shall be treated as remaining unused as of January 1, 2010, if it is obligated as of such date for a qualified expense, and
 
 >                          “(II) the Corporation shall not be treated as failing to meet the requirements of clause (i) by reason of investing any amount for a temporary period.
 

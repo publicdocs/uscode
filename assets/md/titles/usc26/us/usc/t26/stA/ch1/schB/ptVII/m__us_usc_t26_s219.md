@@ -641,7 +641,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1] and Internal Revenue Notices listed in a table under [section 401 of this title][/us/usc/t26/s401].
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1] and Internal Revenue Notices listed in a table under [section 401 of this title][/us/usc/t26/s401].
 
  __Prior Provisions__ 
 
@@ -1015,13 +1015,21 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 [Pub. L. 97–34, title III, § 311(i)][/us/pl/97/34/s311/i], Aug. 13, 1981, [95 Stat. 282][/us/stat/95/282], as amended by [Pub. L. 97–448, title I, § 103(c)(11)][/us/pl/97/448/s103/c/11], Jan. 12, 1983, [96 Stat. 2377][/us/stat/96/2377]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—Except as provided in this subsection, the amendments made by this section \[amending this section and sections 62, 72, 402, 403, 408, 409, 415, 2039, 2503, 2517, 3401, 4973, 6047, and 6652 of this title and repealing__  __[__  __section 220 of this title__  __][/us/usc/t26/s220]__  __\] shall apply to taxable years beginning after__  __December 31, 1981__  __.__ 
+>     “(1) __In general.—__ 
 
->     “(2) __Transitional rule.—For purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], any amount allowed as a deduction under section 220 of such Code (as in effect before its repeal by this Act) shall be treated as if it were allowed by section 219 of such Code.__ 
+>     Except as provided in this subsection, the amendments made by this section \[amending this section and sections 62, 72, 402, 403, 408, 409, 415, 2039, 2503, 2517, 3401, 4973, 6047, and 6652 of this title and repealing [section 220 of this title][/us/usc/t26/s220]\] shall apply to taxable years beginning after December 31, 1981.
 
->     “(3) __Certain bond rollover provisions.—The amendment made by subsection (g)(3) \[amending__  __[__  __section 409 of this title__  __][/us/usc/t26/s409]__  __\] shall apply to taxable years beginning after__  __December 31, 1974__  __.__ 
+>     “(2) __Transitional rule.—__ 
 
->     “(4) __Section 415 amendments.—The amendments made by subsections (g)(4) and (h)(3) \[amending__  __[__  __section 415 of this title__  __][/us/usc/t26/s415]__  __\] shall apply to years after__  __December 31, 1981__  __.__ 
+>     For purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], any amount allowed as a deduction under section 220 of such Code (as in effect before its repeal by this Act) shall be treated as if it were allowed by section 219 of such Code.
+
+>     “(3) __Certain bond rollover provisions.—__ 
+
+>     The amendment made by subsection (g)(3) \[amending [section 409 of this title][/us/usc/t26/s409]\] shall apply to taxable years beginning after December 31, 1974.
+
+>     “(4) __Section 415 amendments.—__ 
+
+>     The amendments made by subsections (g)(4) and (h)(3) \[amending [section 415 of this title][/us/usc/t26/s415]\] shall apply to years after December 31, 1981.
 
 >     “(5) __Estate and gift tax provisions.—__ 
 

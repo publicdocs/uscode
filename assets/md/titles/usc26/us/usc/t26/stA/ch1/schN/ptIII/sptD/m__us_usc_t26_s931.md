@@ -107,7 +107,11 @@
 
 >                 “(i) the amendment made by section 1275(b) shall not apply to income from sources in the Virgin Islands or income effectively connected with the conduct of a trade or business in the Virgin Islands, and
 
->                 “(ii) the taxpayer shall be allowed a credit—         “(I) against any additional tax imposed by subtitle A of the Internal Revenue Code of 1954 \[now 1986\] (by reason of the amendment made by section 1275(b)) on income not described in clause (i),
+>                 “(ii)
+
+>                  the taxpayer shall be allowed a credit—
+
+>                          “(I) against any additional tax imposed by subtitle A of the Internal Revenue Code of 1954 \[now 1986\] (by reason of the amendment made by section 1275(b)) on income not described in clause (i),
 
 >                          “(II) for any tax paid to the Virgin Islands before the date of the enactment of this Act \[Oct. 22, 1986\] and attributable to such income.
 
@@ -133,7 +137,9 @@
 
 >                 “(ii) __Description of transactions.—__ 
 
->                 The transactions described in this clause are—         “(I) the redemptions of limited partnership interests for cash and property described in an agreement (as amended) dated March 12, 1981,
+>                 The transactions described in this clause are—
+
+>                          “(I) the redemptions of limited partnership interests for cash and property described in an agreement (as amended) dated March 12, 1981,
 
 >                          “(II) the subsequent disposition of the properties distributed in such redemptions, and
 

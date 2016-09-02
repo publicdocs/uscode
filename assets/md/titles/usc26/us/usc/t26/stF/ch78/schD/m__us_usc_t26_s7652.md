@@ -285,7 +285,7 @@
 
 >     Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall apply with respect to articles brought into the United States on or after March 1, 1984.
 
->     “(2) __Exception for puerto rico for periods before january 1, 1985.—__ 
+>     “(2) __Exception for puerto rico for periods before__  __january 1, 1985__  __.—__ 
 
 >         “(A) __In general.—__ 
 

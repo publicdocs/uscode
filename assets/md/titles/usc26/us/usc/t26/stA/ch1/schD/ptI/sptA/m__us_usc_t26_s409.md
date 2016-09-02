@@ -487,7 +487,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title][/us/usc/t26/s401].
+    For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title][/us/usc/t26/s401].
 
  __References in Text__ 
 
@@ -753,13 +753,21 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 
 [Pub. L. 95–600, title I, § 141(g)][/us/pl/95/600/s141/g], Nov. 6, 1978, [92 Stat. 2795][/us/stat/92/2795], as added by [Pub. L. 96–222, title I, § 101(a)(7)(B)][/us/pl/96/222/s101/a/7/B], Apr. 1, 1980, [94 Stat. 197][/us/stat/94/197]; amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—Except as otherwise provided in this subsection and subsection (h) \[set out as an Effective Date of 1978 Amendment note under__  __[__  __section 4975 of this title__  __][/us/usc/t26/s4975]__  __\], the amendments made by this section \[enacting sections 409A \[now 409\] and 6699 of this title and amending sections 46, 48, 56, 401, 404, 415, 805, 1504, and 4975 of this title\] shall apply with respect to qualified investment for taxable years beginning after__  __December 31, 1978__  __.__ 
+>     “(1) __In general.—__ 
 
->     “(2) __Election to have amendments apply during 1978.—At the election of the taxpayer, paragraph (1) shall be applied by substituting ‘__  __December 31, 1977__  __’ for ‘__  __December 31, 1978__  __’; except that in the case of a plan in existence before__  __December 31, 1978__  __, any such election shall not affect the required allocation of employer securities attributable to qualified investment for taxable years beginning before__  __January 1, 1979__  __. An election under the preceding sentence shall be made at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe. Such an election, once made, shall be irrevocable.__ 
+>     Except as otherwise provided in this subsection and subsection (h) \[set out as an Effective Date of 1978 Amendment note under [section 4975 of this title][/us/usc/t26/s4975]\], the amendments made by this section \[enacting sections 409A \[now 409\] and 6699 of this title and amending sections 46, 48, 56, 401, 404, 415, 805, 1504, and 4975 of this title\] shall apply with respect to qualified investment for taxable years beginning after December 31, 1978.
 
->     “(3) __Voting right provisions.—Section 409A(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) \[now section 409\] shall apply to plans to which section 409A of such Code applies, beginning with the first day of such application.__ 
+>     “(2) __Election to have amendments apply during 1978.—__ 
 
->     “(4) __Right to demand employer securities, etc.—Paragraphs (1)(A) and (2) of section 409A(h) of the Internal Revenue Code of 1986 (as added by subsection (a)) \[now section 409\] shall apply to distributions after__  __December 31, 1978__  __, made by a plan to which section 409A of such Code applies.__ 
+>     At the election of the taxpayer, paragraph (1) shall be applied by substituting ‘December 31, 1977’ for ‘December 31, 1978’; except that in the case of a plan in existence before December 31, 1978, any such election shall not affect the required allocation of employer securities attributable to qualified investment for taxable years beginning before January 1, 1979. An election under the preceding sentence shall be made at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe. Such an election, once made, shall be irrevocable.
+
+>     “(3) __Voting right provisions.—__ 
+
+>     Section 409A(e) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) \[now section 409\] shall apply to plans to which section 409A of such Code applies, beginning with the first day of such application.
+
+>     “(4) __Right to demand employer securities, etc.—__ 
+
+>     Paragraphs (1)(A) and (2) of section 409A(h) of the Internal Revenue Code of 1986 (as added by subsection (a)) \[now section 409\] shall apply to distributions after December 31, 1978, made by a plan to which section 409A of such Code applies.
 
 >     “(5) __Subsection (f)(7).—__ 
 

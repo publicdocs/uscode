@@ -317,7 +317,7 @@
 
 >     Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply with respect to transactions occurring after August 31, 1982.
 
->     “(2) __Plans adopted on or before august 31, 1982.—__ 
+>     “(2) __Plans adopted on or before__  __august 31, 1982__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply with respect to plans of reorganization adopted on or before August 31, 1982, but only if the transaction occurs before January 1, 1983.”
 

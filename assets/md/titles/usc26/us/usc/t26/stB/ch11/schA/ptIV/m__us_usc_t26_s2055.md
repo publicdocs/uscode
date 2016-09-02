@@ -107,7 +107,7 @@
 
                     (II) if no estate tax return is required to be filed, the last date (including extensions) for filing the income tax return for the 1st taxable year for which such a return is required to be filed by the trust.
 
-                (iv) __Special rule for will executed before january 1, 1979, etc.—__ 
+                (iv) __Special rule for will executed before__  __january 1, 1979__  __, etc.—__ 
 
                 In the case of any interest passing under a will executed before January 1, 1979, or under a trust created before such date, clause (ii) shall not apply.
 

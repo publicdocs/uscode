@@ -49,7 +49,7 @@
 
         (2) Any amount expended in restoring property or in making good the exhaustion thereof for which an allowance is or has been made.
 
-        \[(b) Repealed. [Pub. L. 101–508, title XI, § 11801(a)(16)][/us/pl/101/508/s11801/a/16], Nov. 5, 1990, [104 Stat. 1388–520][/us/stat/104/1388-520]\]
+    \[(b) __Repealed.__  __[__  __Pub. L. 101–508, title XI, § 11801(a)(16)__  __][/us/pl/101/508/s11801/a/16]__  __,__  __Nov. 5, 1990__  __,__  __[__  __104 Stat. 1388–520__  __][/us/stat/104/1388-520]__  __\]__ 
 
     (c) __Intangible drilling and development costs in the case of oil and gas wells and geothermal wells__ 
 
@@ -327,9 +327,13 @@
 
 [Pub. L. 95–618, title IV, § 402(e)][/us/pl/95/618/s402/e], Nov. 9, 1978, [92 Stat. 3203][/us/stat/92/3203], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—The amendments made by this section \[amending this section and sections 57, 465, 751, and 1254 of this title\] shall apply with respect to wells commenced on or after__  __October 1, 1978__  __, in taxable years ending on or after such date.__ 
+>     “(1) __In general.—__ 
 
->     “(2) __Election.—The taxpayer may elect to capitalize or deduct any costs to which section 263(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies by reason of the amendments made by this section \[amending this section and sections 57, 465, 751, and 1254 of this title\]. Any such election shall be made before the expiration of the time for filing claim for credit or refund of any overpayment of tax imposed by chapter 1 of such Code \[section 1 et seq. of this title\] with respect to the taxpayer’s first taxable year to which the amendments made by this section apply and for which he pays or incurs costs to which such section 263(c) applies by reason of the amendments made by this section. Any election under this paragraph may be changed or revoked at any time before the expiration of the time referred to in the preceding sentence, but after the expiration of such time such election may not be changed or revoked.”__ 
+>     The amendments made by this section \[amending this section and sections 57, 465, 751, and 1254 of this title\] shall apply with respect to wells commenced on or after October 1, 1978, in taxable years ending on or after such date.
+
+>     “(2) __Election.—__ 
+
+>     The taxpayer may elect to capitalize or deduct any costs to which section 263(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies by reason of the amendments made by this section \[amending this section and sections 57, 465, 751, and 1254 of this title\]. Any such election shall be made before the expiration of the time for filing claim for credit or refund of any overpayment of tax imposed by chapter 1 of such Code \[section 1 et seq. of this title\] with respect to the taxpayer’s first taxable year to which the amendments made by this section apply and for which he pays or incurs costs to which such section 263(c) applies by reason of the amendments made by this section. Any election under this paragraph may be changed or revoked at any time before the expiration of the time referred to in the preceding sentence, but after the expiration of such time such election may not be changed or revoked.”
 
  __Effective Date of 1976 Amendment__ 
 

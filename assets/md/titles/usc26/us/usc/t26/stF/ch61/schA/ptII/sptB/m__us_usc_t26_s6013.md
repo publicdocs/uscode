@@ -101,7 +101,7 @@
 
         (3) if a joint return is made, the tax shall be computed on the aggregate income and the liability with respect to the tax shall be joint and several.
 
-        \[(e) Repealed. [Pub. L. 105–206, title III, § 3201(e)(1)][/us/pl/105/206/s3201/e/1], July 22, 1998, [112 Stat. 740][/us/stat/112/740]\]
+    \[(e) __Repealed.__  __[__  __Pub. L. 105–206, title III, § 3201(e)(1)__  __][/us/pl/105/206/s3201/e/1]__  __,__  __July 22, 1998__  __,__  __[__  __112 Stat. 740__  __][/us/stat/112/740]__  __\]__ 
 
     (f) __Joint return where individual is in missing status__ 
 

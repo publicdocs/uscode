@@ -1337,7 +1337,7 @@
 
 >     “(B) the period during which new section 30 \[now 41\] is in effect,
 
->         new section 30 \[now 41\] shall be treated as a continuation of old section 44F (and shall apply only to the extent old section 44F would have applied).”
+>     new section 30 \[now 41\] shall be treated as a continuation of old section 44F (and shall apply only to the extent old section 44F would have applied).”
 
 ----------
 

@@ -15,7 +15,7 @@
 
 ## § 7423. Repayments to officers or employees
 
-The Secretary, subject to regulations prescribed by the Secretary, is authorized to repay—
+    The Secretary, subject to regulations prescribed by the Secretary, is authorized to repay—
 
     (1) __Collections recovered__ 
 

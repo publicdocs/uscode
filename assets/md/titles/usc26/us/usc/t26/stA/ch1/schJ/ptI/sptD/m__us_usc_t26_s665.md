@@ -161,7 +161,9 @@
 
 [Pub. L. 91–172, title III, § 331(d)][/us/pl/91/172/s331/d], Dec. 30, 1969, [83 Stat. 598][/us/stat/83/598], as amended by [Pub. L. 92–178, title III, § 306(b)][/us/pl/92/178/s306/b], Dec. 10, 1971, [85 Stat. 524][/us/stat/85/524]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __General rule.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 663, 666 to 669, and 6401 of this title\] shall apply to taxable years beginning after__  __December 31, 1968__  __.__ 
+>     “(1) __General rule.—__ 
+
+>     Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 663, 666 to 669, and 6401 of this title\] shall apply to taxable years beginning after December 31, 1968.
 
 >     “(2) __Exceptions.—__ 
 

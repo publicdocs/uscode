@@ -15,7 +15,7 @@
 
 ## § 675. Administrative powers
 
-The grantor shall be treated as the owner of any portion of a trust in respect of which—
+    The grantor shall be treated as the owner of any portion of a trust in respect of which—
 
     (1) __Power to deal for less than adequate and full consideration__ 
 

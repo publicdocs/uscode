@@ -15,7 +15,7 @@
 
 ## § 4402. Exemptions
 
-No tax shall be imposed by this subchapter—
+    No tax shall be imposed by this subchapter—
 
     (1) __Parimutuels__ 
 

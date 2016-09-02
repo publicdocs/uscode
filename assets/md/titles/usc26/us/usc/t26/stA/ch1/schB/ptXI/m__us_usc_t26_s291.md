@@ -297,17 +297,29 @@
 
 [Pub. L. 97–248, title II, § 204(d)][/us/pl/97/248/s204/d], Sept. 3, 1982, [96 Stat. 427][/us/stat/96/427], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—Except as provided in this subsection, the amendments made by this section \[enacting this section and amending sections 57 and 263 of this title\] shall apply to taxable years beginning after__  __December 31, 1982__  __.__ 
+>     “(1) __In general.—__ 
 
->     “(2) __1250 Gain.—Section 291(a)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall apply to sales or other disposition after__  __December 31, 1982__  __, in taxable years ending after such date.__ 
+>     Except as provided in this subsection, the amendments made by this section \[enacting this section and amending sections 57 and 263 of this title\] shall apply to taxable years beginning after December 31, 1982.
 
->     “(3) __Pollution control facilities.—Section 291(a)(5) \[now 291(a)(4)\] of such Code shall apply to property placed in service after__  __December 31, 1982__  __, in taxable years ending after such date.__ 
+>     “(2) __1250 Gain.—__ 
 
->     “(4) __Drilling and mining costs.—Section 291(b) of such Code shall apply to expenditures after__  __December 31, 1982__  __, in taxable years ending after such date.__ 
+>     Section 291(a)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall apply to sales or other disposition after December 31, 1982, in taxable years ending after such date.
 
->     “(5) __Reduction in percentage depletion for coal and iron ore.—Section 291(a)(2) of such Code shall apply to taxable years beginning after__  __December 31, 1983__  __.__ 
+>     “(3) __Pollution control facilities.—__ 
 
->     “(6) __Minimum tax.—The amendment made by subsection (b) \[amending__  __[__  __section 57 of this title__  __][/us/usc/t26/s57]__  __\] shall apply to taxable years ending after__  __December 31, 1982__  __, with respect to items of tax preference described in section 57(b) of such Code to which section 291 of such Code applies; except that in the case of an item described in section 291(a)(2) of such Code, such amendment shall apply to taxable years beginning after__  __December 31, 1983__  __.”__ 
+>     Section 291(a)(5) \[now 291(a)(4)\] of such Code shall apply to property placed in service after December 31, 1982, in taxable years ending after such date.
+
+>     “(4) __Drilling and mining costs.—__ 
+
+>     Section 291(b) of such Code shall apply to expenditures after December 31, 1982, in taxable years ending after such date.
+
+>     “(5) __Reduction in percentage depletion for coal and iron ore.—__ 
+
+>     Section 291(a)(2) of such Code shall apply to taxable years beginning after December 31, 1983.
+
+>     “(6) __Minimum tax.—__ 
+
+>     The amendment made by subsection (b) \[amending [section 57 of this title][/us/usc/t26/s57]\] shall apply to taxable years ending after December 31, 1982, with respect to items of tax preference described in section 57(b) of such Code to which section 291 of such Code applies; except that in the case of an item described in section 291(a)(2) of such Code, such amendment shall apply to taxable years beginning after December 31, 1983.”
 
  __Savings Provision__ 
 

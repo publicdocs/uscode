@@ -121,7 +121,7 @@
 
  __Amendment of Section__ 
 
-[Pub. L. 112–40, title II, § 252][/us/pl/112/40/s252], Oct. 21, 2011, [125 Stat. 421][/us/stat/125/421], provided that, applicable to erroneous payments established after the end of the 2-year period beginning on Oct. 21, 2011, with certain exceptions, this section is amended by striking subsections (f) and (g) and adding the following new subsection:
+    [Pub. L. 112–40, title II, § 252][/us/pl/112/40/s252], Oct. 21, 2011, [125 Stat. 421][/us/stat/125/421], provided that, applicable to erroneous payments established after the end of the 2-year period beginning on Oct. 21, 2011, with certain exceptions, this section is amended by striking subsections (f) and (g) and adding the following new subsection:
 
     (f) Prohibition on noncharging due to employer fault
 
@@ -137,7 +137,7 @@
 
     Nothing in paragraph (1) shall limit the authority of a State to provide that an employer’s account not be relieved of charges relating to a payment from the State unemployment fund for reasons other than the reasons described in subparagraphs (A) and (B) of such paragraph, such as after the first instance of a failure to respond timely or adequately to requests described in paragraph (1)(A).
 
-See 2011 Amendment notes below.
+    See 2011 Amendment notes below.
 
  __References in Text__ 
 
@@ -215,7 +215,7 @@ See 2011 Amendment notes below.
 
 >         “(B) January 1, 1984,
 
->         then section 3303(f) of such Code shall be applied with respect to such organization as if it did not contain the requirement that the election be made before April 1, 1972, and by substituting ‘January 1, 1982’ for ‘January 1, 1969’.”
+>     then section 3303(f) of such Code shall be applied with respect to such organization as if it did not contain the requirement that the election be made before April 1, 1972, and by substituting ‘January 1, 1982’ for ‘January 1, 1969’.”
 
 ----------
 

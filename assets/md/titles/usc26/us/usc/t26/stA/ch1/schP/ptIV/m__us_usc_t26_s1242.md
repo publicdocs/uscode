@@ -15,13 +15,13 @@
 
 ## § 1242. Losses on small business investment company stock
 
-If—
+    If—
 
     (1) a loss is on stock in a small business investment company operating under the Small Business Investment Act of 1958, and
 
     (2) such loss would (but for this section) be a loss from the sale or exchange of a capital asset,
 
-        then such loss shall be treated as an ordinary loss. For purposes of section 172 (relating to the net operating loss deduction) any amount of loss treated by reason of this section as an ordinary loss shall be treated as attributable to a trade or business of the taxpayer.
+    then such loss shall be treated as an ordinary loss. For purposes of section 172 (relating to the net operating loss deduction) any amount of loss treated by reason of this section as an ordinary loss shall be treated as attributable to a trade or business of the taxpayer.
 
 (Added [Pub. L. 85–866, title I, § 57(a)][/us/pl/85/866/s57/a], Sept. 2, 1958, [72 Stat. 1645][/us/stat/72/1645]; amended [Pub. L. 94–455, title XIX, § 1901(b)(3)(F)][/us/pl/94/455/s1901/b/3/F], Oct. 4, 1976, [90 Stat. 1793][/us/stat/90/1793].)
 

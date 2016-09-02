@@ -31,7 +31,7 @@
 
         (2) are computed with reference to the nature of the injury without regard to the period the employee is absent from work.
 
-        \[(d) Repealed. [Pub. L. 98–21, title I, § 122(b)][/us/pl/98/21/s122/b], Apr. 20, 1983, [97 Stat. 87][/us/stat/97/87]\]
+    \[(d) __Repealed.__  __[__  __Pub. L. 98–21, title I, § 122(b)__  __][/us/pl/98/21/s122/b]__  __,__  __Apr. 20, 1983__  __,__  __[__  __97 Stat. 87__  __][/us/stat/97/87]__  __\]__ 
 
     (e) __Accident and health plans__ 
 
@@ -321,7 +321,7 @@
 
 >     “(3) on January 1, 1976, or January 1, 1977, was permanently and totally disabled (within the meaning of section 105(d)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]),
 
->         such individual shall be deemed to have met the requirements of section 105(d)(1)(B) of such Code (as amended by subsection (a) of this section).”
+>     such individual shall be deemed to have met the requirements of section 105(d)(1)(B) of such Code (as amended by subsection (a) of this section).”
 
  __Special Rule for Coordination With Section 72 of This Title__ 
 
@@ -333,7 +333,7 @@
 
 >     “(2) on December 31, 1975, or December 31, 1976, was entitled to exclude any amount with respect to such retirement disability from gross income under section 105(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\],
 
->         for purposes of section 72 the annuity starting date shall not be deemed to occur before the beginning of the taxable year in which the taxpayer attains age 65, or before the beginning of an earlier taxable year for which the taxpayer makes an irrevocable election not to seek the benefits of such section 105(d) for such year and all subsequent years.”
+>     for purposes of section 72 the annuity starting date shall not be deemed to occur before the beginning of the taxable year in which the taxpayer attains age 65, or before the beginning of an earlier taxable year for which the taxpayer makes an irrevocable election not to seek the benefits of such section 105(d) for such year and all subsequent years.”
 
 ----------
 

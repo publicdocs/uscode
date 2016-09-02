@@ -235,7 +235,7 @@
 
 >             “(iii) with respect to such partnership, an application was filed with a State regulatory commission on or before such date seeking permission to restructure a portion of a corporation as a publicly traded partnership.
 
->         “(B) __Special rule where substantial new line of business added after december 17, 1987.—__ 
+>         “(B) __Special rule where substantial new line of business added after__  __december 17, 1987__  __.—__ 
 
 >         A partnership which, but for this subparagraph, would be treated as an existing partnership shall cease to be treated as an existing partnership as of the 1st day after December 17, 1987, on which there has been an addition of a substantial new line of business with respect to such partnership.
 

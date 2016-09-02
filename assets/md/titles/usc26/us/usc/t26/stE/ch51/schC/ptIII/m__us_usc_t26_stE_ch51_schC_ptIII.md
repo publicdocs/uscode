@@ -11,16 +11,53 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stE/ch51/schC/ptII/sptD/m__us_usc_t26_s5244.md) | [Next](./../../../../../../..//us/usc/t26/stE/ch51/schC/ptIII/m__us_usc_t26_s5251, 5252.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschC%2FptIII)
+[Previous](./../../../../../../..//us/usc/t26/stE/ch51/schC/ptII/sptD/m__us_usc_t26_s5244.md) | [Next](./../../../../../../..//us/usc/t26/stE/ch51/schD/m__us_usc_t26_stE_ch51_schD.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschC%2FptIII)
 
 ##### \[PART III—REPEALED\]
 
+\[§§ 5251, 5252. __Repealed.__  __[__  __Pub. L. 96–39, title VIII, § 807(a)(38)__  __][/us/pl/96/39/s807/a/38]__  __,__  __July 26, 1979__  __,__  __[__  __93 Stat. 286__  __][/us/stat/93/286]__  __\]__ 
+
+    Section 5251, added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1370][/us/stat/72/1370]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834], required proprietors of distilled spirits plants to give notice of their intention to rectify or compound any distilled spirits or wines.
+
+    A prior section 5251, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 649][/us/stat/68A/649], made a cross reference provision to “blending of beverage brandies in internal revenue bonded warehouses”, prior to the general revision of this chapter by [Pub. L. 85–859][/us/pl/85/859].
+
+    Provisions similar to those comprising [section 5251 of this title][/us/usc/t26/s5251] were contained in prior section 5282(a), [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 651][/us/stat/68A/651], prior to the general revision of this chapter by [Pub. L. 85–859][/us/pl/85/859].
+
+    Section 5252, added [Pub. L. 85–859, title II, § 201][/us/pl/85/859/s201], Sept. 2, 1958, [72 Stat. 1370][/us/stat/72/1370], set out cross references to other sections with regard to the regulation of operations.
+
+    A prior section 5252, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 649][/us/stat/68A/649], related to “discontinuance of warehouse and transfer of merchandise”, prior to the general revision of this chapter by [Pub. L. 85–859][/us/pl/85/859]. See [section 5236 of this title][/us/usc/t26/s5236].
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective Jan. 1, 1980, see [section 810 of Pub. L. 96–39][/us/pl/96/39/s810], set out as an Effective Date of 1979 Amendment note under [section 5001 of this title][/us/usc/t26/s5001].
+
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stE/ch51/schC/ptII/sptD/m__us_usc_t26_s5244.md) | [Next](./../../../../../../..//us/usc/t26/stE/ch51/schC/ptIII/m__us_usc_t26_s5251, 5252.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschC%2FptIII)
+[Previous](./../../../../../../..//us/usc/t26/stE/ch51/schC/ptII/sptD/m__us_usc_t26_s5244.md) | [Next](./../../../../../../..//us/usc/t26/stE/ch51/schD/m__us_usc_t26_stE_ch51_schD.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschC%2FptIII)
 
 ----------
 ----------
 
+[/us/pl/96/39/s807/a/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs807%2Fa%2F38
+[/us/stat/93/286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F286
+[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/stat/72/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1370
+[/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
+[/us/stat/90/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1834
+[/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
+[/us/stat/68A/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F649
+[/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
+[/us/usc/t26/s5251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5251
+[/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
+[/us/stat/68A/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F651
+[/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
+[/us/pl/85/859/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs201
+[/us/stat/72/1370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1370
+[/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
+[/us/stat/68A/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F649
+[/us/pl/85/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859
+[/us/usc/t26/s5236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5236
+[/us/pl/96/39/s810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs810
+[/us/usc/t26/s5001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs5001
 
 

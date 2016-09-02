@@ -231,19 +231,17 @@
 
 [Pub. L. 100–647, title I, § 1006(t)(16)(D)(ii)][/us/pl/100/647/s1006/t/16/D/ii]–(iv), Nov. 10, 1988, [102 Stat. 3425][/us/stat/102/3425], provided that:
 
->     “(ii)
+>     “(ii) The amendments made by subparagraphs (B) and (C) \[amending this section and [section 26 of this title][/us/usc/t26/s26]\] (except to the extent they relate to paragraph (6) of section 860E(e) of the 1986 Code as added by such amendments) shall apply to transfers after March 31, 1988; except that such amendments shall not apply to any transfer pursuant to a binding written contract in effect on such date.
 
->      The amendments made by subparagraphs (B) and (C) \[amending this section and [section 26 of this title][/us/usc/t26/s26]\] (except to the extent they relate to paragraph (6) of section 860E(e) of the 1986 Code as added by such amendments) shall apply to transfers after March 31, 1988; except that such amendments shall not apply to any transfer pursuant to a binding written contract in effect on such date.
+>     “(iii)
 
->         “(iii)
+>      Except as provided in clause (iv), the amendments made by subparagraphs (B) and (C) (to the extent they relate to paragraph (6) of section 860E(e) of the 1986 Code as so added) shall apply to excess inclusions for periods after March 31, 1988 but only to the extent such inclusions are—
 
->          Except as provided in clause (iv), the amendments made by subparagraphs (B) and (C) (to the extent they relate to paragraph (6) of section 860E(e) of the 1986 Code as so added) shall apply to excess inclusions for periods after March 31, 1988 but only to the extent such inclusions are—
+>         “(I) allocable to an interest in a pass-thru entity acquired after March 31, 1988, or
 
->             “(I) allocable to an interest in a pass-thru entity acquired after March 31, 1988, or
+>         “(II) allocable to an interest in a pass-thru entity acquired on or before March 31, 1988, but attributable to a residual interest acquired by the pass-thru entity after March 31, 1988.
 
->             “(II) allocable to an interest in a pass-thru entity acquired on or before March 31, 1988, but attributable to a residual interest acquired by the pass-thru entity after March 31, 1988.
-
->             For purposes of the preceding sentence, any interest in a pass-thru entity (or residual interest) acquired after March 31, 1988, pursuant to a binding written contract in effect on such date shall be treated as acquired before such date.
+>         For purposes of the preceding sentence, any interest in a pass-thru entity (or residual interest) acquired after March 31, 1988, pursuant to a binding written contract in effect on such date shall be treated as acquired before such date.
 
 >         “(iv) In the case of any real estate investment trust, regulated investment company, common trust fund, or publicly traded partnership, no tax shall be imposed under section 860E(e)(6) of the 1986 Code (as added by the amendment made by subparagraph (B)) for any taxable year beginning before January 1, 1989.”
 

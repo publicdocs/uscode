@@ -339,7 +339,7 @@
 
             Any common trust fund or common investment fund of individual retirement account assets which is exempt from taxation under this subtitle does not cease to be exempt on account of the participation or inclusion of assets of a trust exempt from taxation under section 501(a) which is described in section 401(a).
 
-        \[(f) Repealed. [Pub. L. 99–514, title XI, § 1123(d)(2)][/us/pl/99/514/s1123/d/2], Oct. 22, 1986, [100 Stat. 2475][/us/stat/100/2475]\]
+    \[(f) __Repealed.__  __[__  __Pub. L. 99–514, title XI, § 1123(d)(2)__  __][/us/pl/99/514/s1123/d/2]__  __,__  __Oct. 22, 1986__  __,__  __[__  __100 Stat. 2475__  __][/us/stat/100/2475]__  __\]__ 
 
     (g) __Community property laws__ 
 
@@ -971,7 +971,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title][/us/usc/t26/s401].
+    For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title][/us/usc/t26/s401].
 
  __References in Text__ 
 

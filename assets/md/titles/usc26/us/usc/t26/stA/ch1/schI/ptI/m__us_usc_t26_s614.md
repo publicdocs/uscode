@@ -207,7 +207,9 @@
 
 >     For purposes of this subsection—
 
->         “(A) __Section 614(b) aggregation.—The term ‘section 614(b) aggregation’ means any aggregation to which section 614(b)(1)(A) of the Internal Revenue Code of 1986 (as in effect before the amendments made by subsection (a) of this section) applied for the day preceding the first day of the first taxable year beginning after__  __December 31, 1963__  __.__ 
+>         “(A) __Section 614(b) aggregation.—__ 
+
+>         The term ‘section 614(b) aggregation’ means any aggregation to which section 614(b)(1)(A) of the Internal Revenue Code of 1986 (as in effect before the amendments made by subsection (a) of this section) applied for the day preceding the first day of the first taxable year beginning after December 31, 1963.
 
 >         “(B) __Property.—__ 
 

@@ -15,7 +15,7 @@
 
 ## § 1223. Holding period of property
 
-For purposes of this subtitle—
+    For purposes of this subtitle—
 
     (1)
 

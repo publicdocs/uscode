@@ -941,7 +941,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table below.
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table below.
 
  __Amendments__ 
 
@@ -2643,7 +2643,11 @@ The corresponding percentages shall be substituted for
 
 >             “(i) the qualified 5-year gain (as defined in section 1(h)(9) of the Internal Revenue Code of 1986, as in effect on the day before the date of the enactment of this Act \[May 28, 2003\]) properly taken into account for the portion of the taxable year before May 6, 2003, or
 
->             “(ii) the excess (if any) of—         “(I) the amount on which a tax is determined under such subparagraph (without regard to this subsection), over
+>             “(ii)
+
+>              the excess (if any) of—
+
+>                      “(I) the amount on which a tax is determined under such subparagraph (without regard to this subsection), over
 
 >                      “(II) the amount on which a tax is determined under subparagraph (A), plus
 
@@ -2947,7 +2951,7 @@ The corresponding percentages shall be substituted for
 
 >     “(3) authorizes amounts to be expended from any trust fund,
 
->         shall have no force or effect.”
+>     shall have no force or effect.”
 
  __Elimination of 50-Cent Rounding Errors__ 
 
@@ -2959,7 +2963,7 @@ The corresponding percentages shall be substituted for
 
 >     “(B) which applies to married individuals filing separately or to estates and trusts,
 
->         differs by not more than 50 cents from the correct amount under the formula used in constructing such table, such figure is hereby corrected to the correct amount.” \[See 1982 Amendment note above.\]
+>     differs by not more than 50 cents from the correct amount under the formula used in constructing such table, such figure is hereby corrected to the correct amount.” \[See 1982 Amendment note above.\]
 
  __Policy With Respect to Additional Tax Reductions__ 
 
@@ -2977,7 +2981,7 @@ The corresponding percentages shall be substituted for
 
 >     “(2) which has an effective date earlier than the effective date of the provision of this title defining or modifying such term,
 
->         that definition or modification shall be considered to take effect as of such earlier effective date.”
+>     that definition or modification shall be considered to take effect as of such earlier effective date.”
 
  __Congressional Declaration Relating to 1975 Amendment__ 
 

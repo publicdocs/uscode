@@ -273,9 +273,13 @@
 
 [Pub. L. 94–12, title VI, § 603(b)][/us/pl/94/12/s603/b], Mar. 29, 1975, [89 Stat. 65][/us/stat/89/65], as amended by [Pub. L. 94–455, title XI, § 1101(f)][/us/pl/94/455/s1101/f], Oct. 4, 1976, [90 Stat. 1659][/us/stat/90/1659]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall apply to sales, exchanges, and other dispositions made after__  __March 18, 1975__  __, in taxable years ending after such date.__ 
+>     “(1) __In general.—__ 
 
->     “(2) __Binding contract.—The amendments made by subsection (a) \[amending this section\] shall not apply to sales, exchanges, and other dispositions made after__  __March 18, 1975__  __, but before__  __March 19, 1980__  __, if such sales, exchanges, and other dispositions are made pursuant to a fixed contract. The term ‘fixed contract’ means a contract which was, on__  __March 18, 1975__  __, and is at all times thereafter binding on the DISC or a taxpayer which was a member of the same controlled group (within the meaning of section 993(a)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) as the DISC, which was entered into after the date on which the DISC qualified as a DISC and the DISC and the taxpayer became members of the same controlled group, and under which the price and quantity of the products sold, exchanged, or otherwise disposed of cannot be increased.”__ 
+>     Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall apply to sales, exchanges, and other dispositions made after March 18, 1975, in taxable years ending after such date.
+
+>     “(2) __Binding contract.—__ 
+
+>     The amendments made by subsection (a) \[amending this section\] shall not apply to sales, exchanges, and other dispositions made after March 18, 1975, but before March 19, 1980, if such sales, exchanges, and other dispositions are made pursuant to a fixed contract. The term ‘fixed contract’ means a contract which was, on March 18, 1975, and is at all times thereafter binding on the DISC or a taxpayer which was a member of the same controlled group (within the meaning of section 993(a)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) as the DISC, which was entered into after the date on which the DISC qualified as a DISC and the DISC and the taxpayer became members of the same controlled group, and under which the price and quantity of the products sold, exchanged, or otherwise disposed of cannot be increased.”
 
  __Effective Date of 1974 Amendment__ 
 

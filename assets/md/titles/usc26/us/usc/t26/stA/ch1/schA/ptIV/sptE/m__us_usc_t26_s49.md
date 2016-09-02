@@ -289,7 +289,7 @@
 
 >     “(2) if the amount of the taxpayer’s unamortized credits (or the credits not previously restored to rate base) with respect to such property (whether or not for open years) exceeds the amount referred to in paragraph (1), the taxpayer’s tax for the taxable year shall be increased by the amount of such excess.
 
->         If any portion of the excess described in paragraph (2) is attributable to a credit which is allowable as a carryover to a taxable year beginning after December 31, 1985, in lieu of applying paragraph (2) with respect to such portion, the amount of such carryover shall be reduced by the amount of such portion. Rules similar to the rules of this subsection shall apply in the case of any property with respect to which the requirements of section 46(f)(9) of such Code are met.”
+>     If any portion of the excess described in paragraph (2) is attributable to a credit which is allowable as a carryover to a taxable year beginning after December 31, 1985, in lieu of applying paragraph (2) with respect to such portion, the amount of such carryover shall be reduced by the amount of such portion. Rules similar to the rules of this subsection shall apply in the case of any property with respect to which the requirements of section 46(f)(9) of such Code are met.”
 
  __Exception for Certain Aircraft Used in Alaska__ 
 

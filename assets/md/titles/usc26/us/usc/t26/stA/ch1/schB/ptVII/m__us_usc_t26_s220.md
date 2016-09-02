@@ -537,7 +537,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
 
  __References in Text__ 
 
@@ -753,7 +753,7 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 >     “(6) other relevant items.
 
->         A report on the results of the study conducted under this subsection shall be submitted to the Congress no later than January 1, 1999.”
+>     A report on the results of the study conducted under this subsection shall be submitted to the Congress no later than January 1, 1999.”
 
 ----------
 

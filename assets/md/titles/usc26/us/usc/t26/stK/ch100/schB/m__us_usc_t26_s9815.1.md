@@ -1,7 +1,7 @@
 ---
 ---
 
-# 26 U.S.C., USLM ref /us/usc/t26/s9815
+# 26 U.S.C., USLM ref /us/usc/t26/s9815.1
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stK/ch100/schB/m__us_usc_t26_s9813.md) | [Next](./../../../../../..//us/usc/t26/stK/ch100/schC/m__us_usc_t26_stK_ch100_schC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9815)
+[Previous](./../../../../../..//us/usc/t26/stK/ch100/schB/m__us_usc_t26_s9813.md) | [Next](./../../../../../..//us/usc/t26/stK/ch100/schC/m__us_usc_t26_stK_ch100_schC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9815.1)
 
 ## § 9815. <sup>\[1\]</sup>  <sup><sup> 1 So in original. No section 9814 has been enacted. </sup></sup>  Additional market reforms
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stK/ch100/schB/m__us_usc_t26_s9813.md) | [Next](./../../../../../..//us/usc/t26/stK/ch100/schC/m__us_usc_t26_stK_ch100_schC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9815)
+[Previous](./../../../../../..//us/usc/t26/stK/ch100/schB/m__us_usc_t26_s9813.md) | [Next](./../../../../../..//us/usc/t26/stK/ch100/schC/m__us_usc_t26_stK_ch100_schC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9815.1)
 
 ----------
 ----------

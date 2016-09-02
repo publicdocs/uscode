@@ -15,7 +15,7 @@
 
 ## § 8022. Duties
 
-It shall be the duty of the Joint Committee—
+    It shall be the duty of the Joint Committee—
 
     (1) __Investigation__ 
 

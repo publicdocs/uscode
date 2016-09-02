@@ -15,13 +15,13 @@
 
 ## § 1234A. Gains or losses from certain terminations
 
-Gain or loss attributable to the cancellation, lapse, expiration, or other termination of—
+    Gain or loss attributable to the cancellation, lapse, expiration, or other termination of—
 
     (1) a right or obligation (other than a securities futures contract, as defined in section 1234B) with respect to property which is (or on acquisition would be) a capital asset in the hands of the taxpayer, or
 
     (2) a section 1256 contract (as defined in section 1256) not described in paragraph (1) which is a capital asset in the hands of the taxpayer,
 
-        shall be treated as gain or loss from the sale of a capital asset. The preceding sentence shall not apply to the retirement of any debt instrument (whether or not through a trust or other participation arrangement).
+    shall be treated as gain or loss from the sale of a capital asset. The preceding sentence shall not apply to the retirement of any debt instrument (whether or not through a trust or other participation arrangement).
 
 (Added [Pub. L. 97–34, title V, § 507(a)][/us/pl/97/34/s507/a], Aug. 13, 1981, [95 Stat. 333][/us/stat/95/333]; amended [Pub. L. 97–448, title I, § 105(e)][/us/pl/97/448/s105/e], Jan. 12, 1983, [96 Stat. 2387][/us/stat/96/2387]; [Pub. L. 98–369, div. A, title I, § 102(e)(4)][/us/pl/98/369/s102/e/4], (9), July 18, 1984, [98 Stat. 624][/us/stat/98/624], 625; [Pub. L. 105–34, title X, § 1003(a)(1)][/us/pl/105/34/s1003/a/1], Aug. 5, 1997, [111 Stat. 909][/us/stat/111/909]; [Pub. L. 106–554, § 1(a)(7)][/us/pl/106/554/s1/a/7] \[title IV, § 401(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–648; [Pub. L. 107–147, title IV, § 412(d)(1)(A)][/us/pl/107/147/s412/d/1/A], Mar. 9, 2002, [116 Stat. 53][/us/stat/116/53].)
 

@@ -139,7 +139,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
 
  __References in Text__ 
 
@@ -253,7 +253,7 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 >     “(B) was transferred pursuant to a trust instrument stating that the grantor’s intention was that the property of the trust would constitute qualified terminable interest property as to which a Federal gift tax marital deduction would be allowed upon the grantor’s election,
 
->         shall be made on the return of tax imposed by section 2501 of such Code for the calendar year 1984 which is filed on or before the due date of such return or, if a timely return is not filed, on the first such return filed after the due date of such return and before December 31, 1986.”
+>     shall be made on the return of tax imposed by section 2501 of such Code for the calendar year 1984 which is filed on or before the due date of such return or, if a timely return is not filed, on the first such return filed after the due date of such return and before December 31, 1986.”
 
 ----------
 

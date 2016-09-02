@@ -15,7 +15,7 @@
 
 ## § 7325. Personal property valued at $100,000 or less
 
-In all cases of seizure of any goods, wares, or merchandise as being subject to forfeiture under any provision of this title which, in the opinion of the Secretary, are of the appraised value of $100,000 or less, the Secretary shall, except in cases otherwise provided, proceed as follows:
+    In all cases of seizure of any goods, wares, or merchandise as being subject to forfeiture under any provision of this title which, in the opinion of the Secretary, are of the appraised value of $100,000 or less, the Secretary shall, except in cases otherwise provided, proceed as follows:
 
     (1) __List and appraisement__ 
 

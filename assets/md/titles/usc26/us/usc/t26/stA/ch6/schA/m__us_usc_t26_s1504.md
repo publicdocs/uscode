@@ -229,11 +229,11 @@
 
 >     Except as otherwise provided in this subsection, the amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1984.
 
->     “(2) __Special rule for corporations affiliated on june 22, 1984.—__ 
+>     “(2) __Special rule for corporations affiliated on__  __june 22, 1984__  __.—__ 
 
 >     In the case of a corporation which on June 22, 1984, is a member of an affiliated group which files a consolidated return for such corporation’s taxable year which includes June 22, 1984, for purposes of determining whether such corporation continues to be a member of such group for taxable years beginning before January 1, 1988, the amendment made by subsection (a) \[amending this section\] shall not apply. The preceding sentence shall cease to apply as of the first day after June 22, 1984, on which such corporation does not qualify as a member of such group under section 1504(a) of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of this Act \[July 18, 1984\]).
 
->     “(3) __Special rule not to apply to certain sell-downs after june 22, 1984.—__ 
+>     “(3) __Special rule not to apply to certain sell-downs after__  __june 22, 1984__  __.—__ 
 
 >     If—
 

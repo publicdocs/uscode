@@ -163,7 +163,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
 
  __References in Text__ 
 
@@ -469,7 +469,7 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 >     “(2) making any legislative and administrative recommendations the Committee or the Secretary deems appropriate to simplify penalty or interest administration and reduce taxpayer burden.
 
->         Such studies shall be submitted to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than 1 year after the date of the enactment of this Act \[July 22, 1998\].”
+>     Such studies shall be submitted to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate not later than 1 year after the date of the enactment of this Act \[July 22, 1998\].”
 
  __Interest Not Payable on Underpayments Created or Increased by Tax Reform Act of 1976__ 
 

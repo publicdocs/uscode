@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stA/ch5/m__us_usc_t26_s1491, 1492.md) | [Next](./../../../../..//us/usc/t26/stA/ch5/m__us_usc_t26_s1494.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1493)
+[Previous](./../../../../..//us/usc/t26/stA/ch5/m__us_usc_t26_stA_ch5.md) | [Next](./../../../../..//us/usc/t26/stA/ch5/m__us_usc_t26_s1494.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1493)
 
 ## \[§ 1493. Repealed. [Pub. L. 89–809, title I, § 103(l)(2)][/us/pl/89/809/s103/l/2], Nov. 13, 1966, [80 Stat. 1554][/us/stat/80/1554]\]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stA/ch5/m__us_usc_t26_s1491, 1492.md) | [Next](./../../../../..//us/usc/t26/stA/ch5/m__us_usc_t26_s1494.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1493)
+[Previous](./../../../../..//us/usc/t26/stA/ch5/m__us_usc_t26_stA_ch5.md) | [Next](./../../../../..//us/usc/t26/stA/ch5/m__us_usc_t26_s1494.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1493)
 
 ----------
 ----------

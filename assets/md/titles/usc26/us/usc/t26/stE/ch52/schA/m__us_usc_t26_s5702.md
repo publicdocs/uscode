@@ -15,7 +15,7 @@
 
 ## § 5702. Definitions
 
-When used in this chapter—
+    When used in this chapter—
 
     (a) __Cigar__ 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stE/ch51/schH/ptIII/m__us_usc_t26_s5521 to 5523.md) | [Next](./../../../../../..//us/usc/t26/stE/ch51/schI/m__us_usc_t26_s5551.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschI)
+[Previous](./../../../../../..//us/usc/t26/stE/ch51/schH/ptIII/m__us_usc_t26_stE_ch51_schH_ptIII.md) | [Next](./../../../../../..//us/usc/t26/stE/ch51/schI/m__us_usc_t26_s5551.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschI)
 
 #### Subchapter I—Miscellaneous General Provisions
 
@@ -127,7 +127,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stE/ch51/schH/ptIII/m__us_usc_t26_s5521 to 5523.md) | [Next](./../../../../../..//us/usc/t26/stE/ch51/schI/m__us_usc_t26_s5551.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschI)
+[Previous](./../../../../../..//us/usc/t26/stE/ch51/schH/ptIII/m__us_usc_t26_stE_ch51_schH_ptIII.md) | [Next](./../../../../../..//us/usc/t26/stE/ch51/schI/m__us_usc_t26_s5551.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschI)
 
 ----------
 ----------

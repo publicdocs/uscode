@@ -401,7 +401,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
 
  __References in Text__ 
 
@@ -697,7 +697,7 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 >     “(3) the primary business of the affiliated group was air transportation of passengers,
 
->         then, for purposes of applying paragraphs (1) and (2) of section 132(a) of the Internal Revenue Code of 1986, with respect to no-additional-cost services and qualified employee discounts provided after December 31, 1984, for such individual by the second corporation, the first corporation shall be treated as engaged in the same air transportation line of business as the second corporation. For purposes of the preceding sentence, an employee of the second corporation who is performing services for the first corporation shall also be treated as an employee of the first corporation.”
+>     then, for purposes of applying paragraphs (1) and (2) of section 132(a) of the Internal Revenue Code of 1986, with respect to no-additional-cost services and qualified employee discounts provided after December 31, 1984, for such individual by the second corporation, the first corporation shall be treated as engaged in the same air transportation line of business as the second corporation. For purposes of the preceding sentence, an employee of the second corporation who is performing services for the first corporation shall also be treated as an employee of the first corporation.”
 
  __Special Rule for Services Related To Providing Air Transportation__ 
 
@@ -739,7 +739,7 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 >     “(2) the primary business of the affiliated group is the operation of retail department stores,
 
->         then, for purpose of applying section 132(a)(2) of the Internal Revenue Code of 1986, with respect to discounts provided for such employees at the retail department stores operated by such other member, the employer shall be treated as engaged in the same line of business as such other member.”
+>     then, for purpose of applying section 132(a)(2) of the Internal Revenue Code of 1986, with respect to discounts provided for such employees at the retail department stores operated by such other member, the employer shall be treated as engaged in the same line of business as such other member.”
 
 ----------
 

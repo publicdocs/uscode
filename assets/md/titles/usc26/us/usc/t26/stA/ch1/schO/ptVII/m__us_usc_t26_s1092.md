@@ -577,9 +577,13 @@
 
 >     “(b) __Identification Requirements.—__ 
 
->         “(1) __Under section 1236 of code.—The amendments made by section 506 \[amending__  __[__  __section 1236 of this title__  __][/us/usc/t26/s1236]__  __\] shall apply to property acquired by the taxpayer after the date of the enactment of this Act \[__  __Aug. 13, 1981__  __\] in taxable years ending after such date.__ 
+>         “(1) __Under section 1236 of code.—__ 
 
->         “(2) __Under section 1256(e)(2)(c) of code.—Section 1256(e)(2)(C) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this title) shall apply to property acquired and positions established by the taxpayer after__  __December 31, 1981__  __, in taxable years ending after such date.__ 
+>         The amendments made by section 506 \[amending [section 1236 of this title][/us/usc/t26/s1236]\] shall apply to property acquired by the taxpayer after the date of the enactment of this Act \[Aug. 13, 1981\] in taxable years ending after such date.
+
+>         “(2) __Under section 1256(e)(2)(c) of code.—__ 
+
+>         Section 1256(e)(2)(C) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this title) shall apply to property acquired and positions established by the taxpayer after December 31, 1981, in taxable years ending after such date.
 
 >     “(c) __Election With Respect to Property Held on__  __June 23, 1981__  __.—__ 
 

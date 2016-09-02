@@ -437,7 +437,7 @@
 
 >     “(2) other methods using discretionary rights to distort the value of property for such purposes.
 
->         The Secretary shall, not later than December 31, 1992, report the results of such study, together with such legislative recommendations as the Secretary considers necessary, to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.”
+>     The Secretary shall, not later than December 31, 1992, report the results of such study, together with such legislative recommendations as the Secretary considers necessary, to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives.”
 
 ----------
 

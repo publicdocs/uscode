@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_s1232 to 1232B.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_s1234.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1233)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_s1231.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_s1234.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1233)
 
 ## § 1233. Gains and losses from short sales
 
@@ -193,7 +193,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_s1232 to 1232B.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_s1234.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1233)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_s1231.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schP/ptIV/m__us_usc_t26_s1234.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1233)
 
 ----------
 ----------

@@ -55,9 +55,15 @@
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     1997—[Pub. L. 105–34, title XII, § 1221(b)][/us/pl/105/34/s1221/b], Aug. 5, 1997, [111 Stat. 1008][/us/stat/111/1008], added item for part IV.
 

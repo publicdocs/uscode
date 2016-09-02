@@ -407,7 +407,9 @@
 
 [Act June 15, 1955, ch. 143, § 4][/us/act/1955-06-15/ch143/s4], [69 Stat. 135][/us/stat/69/135], as amended by act Oct. 22, 1986, [Pub. L. 99–514, § 2][/us/pl/99/514/s2], [100 Stat. 2095][/us/stat/100/2095], provided:
 
->     “(a) __Filing of Statement.—If—__ 
+>     “(a) __Filing of Statement.—__ 
+
+>     If—
 
 >         “(1) the amount of any tax required to be paid for any taxable year ending on or before the date of the enactment of this Act \[June 15, 1955\] is increased by reason of the enactment of this Act \[amending this section and repealing sections 452 and 462\], and
 
@@ -415,19 +417,31 @@
 
 >     “(b) __Form and Effect of Statement.—__ 
 
->         “(1) __Form of statement, etc.—The statement required by subsection (a) shall be filed at the place fixed for filing the return. Such statement shall be in such form, and shall include such information necessary or appropriate to show the increase in the amount of the tax required to be paid for the taxable year by reason of the enactment of this Act, as the Secretary of the Treasury or his delegate shall by regulations prescribe.__ 
+>         “(1) __Form of statement, etc.—__ 
 
->         “(2) __Treatment as amount shown on return.—The amount shown on a statement filed under subsection (a) as the increase in the amount of the tax required to be paid for the taxable year by reason of the enactment of this Act shall, for all purposes of the internal revenue laws, be treated as tax shown on the return. Notwithstanding the preceding sentence, that portion of the amount of increase in tax for any taxable year which is attributable to a decrease (by reason of the enactment of this Act) in the net operating loss for a succeeding taxable year shall not be treated as tax shown on the return.__ 
+>         The statement required by subsection (a) shall be filed at the place fixed for filing the return. Such statement shall be in such form, and shall include such information necessary or appropriate to show the increase in the amount of the tax required to be paid for the taxable year by reason of the enactment of this Act, as the Secretary of the Treasury or his delegate shall by regulations prescribe.
 
->         “(3) __Waiver of interest in case of payment on or before december 15, 1955.—If the taxpayer, on or before__  __December 15, 1955__  __, files the statement referred to in subsection (a) and pays in full that portion of the amount shown thereon for which the last date prescribed for payment is before__  __December 15, 1955__  __, then for purposes of computing interest (other than interest on overpayments) such portion shall be treated as having been paid on the last date prescribed for payment. This paragraph shall not apply if the amount shown on the statement as the increase in the amount of the tax required to be paid for the taxable year by reason of the enactment of this Act is greater than the actual increase unless the taxpayer establishes, to the satisfaction of the Secretary of the Treasury or his delegate, that his computation of the greater amount was based upon a reasonable interpretation and application of sections 452 and 462 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[sections 452 and 462 of this title\], as those sections existed before the enactment of this Act.__ 
+>         “(2) __Treatment as amount shown on return.—__ 
+
+>         The amount shown on a statement filed under subsection (a) as the increase in the amount of the tax required to be paid for the taxable year by reason of the enactment of this Act shall, for all purposes of the internal revenue laws, be treated as tax shown on the return. Notwithstanding the preceding sentence, that portion of the amount of increase in tax for any taxable year which is attributable to a decrease (by reason of the enactment of this Act) in the net operating loss for a succeeding taxable year shall not be treated as tax shown on the return.
+
+>         “(3) __Waiver of interest in case of payment on or before__  __december 15, 1955__  __.—__ 
+
+>         If the taxpayer, on or before December 15, 1955, files the statement referred to in subsection (a) and pays in full that portion of the amount shown thereon for which the last date prescribed for payment is before December 15, 1955, then for purposes of computing interest (other than interest on overpayments) such portion shall be treated as having been paid on the last date prescribed for payment. This paragraph shall not apply if the amount shown on the statement as the increase in the amount of the tax required to be paid for the taxable year by reason of the enactment of this Act is greater than the actual increase unless the taxpayer establishes, to the satisfaction of the Secretary of the Treasury or his delegate, that his computation of the greater amount was based upon a reasonable interpretation and application of sections 452 and 462 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] \[sections 452 and 462 of this title\], as those sections existed before the enactment of this Act.
 
 >     “(c) __Special Rules.—__ 
 
->         “(1) __Interest for period before enactment.—Interest shall not be imposed on the amount of any increase in tax resulting from the enactment of this Act for any period before the day after the date of the enactment of this Act \[__  __June 15, 1955__  __\].__ 
+>         “(1) __Interest for period before enactment.—__ 
 
->         “(2) __Estimated tax.—Any addition to the tax under section 294(d) of the Internal Revenue Code of 1939 \[section 294(d) of former Title 26, Internal Revenue Code\], shall be computed as if this Act had not been enacted. In the case of any installment for which the last date prescribed for payment is before__  __December 15, 1955__  __, any addition to the tax under section 6654 of the Internal Revenue Code of 1986 \[__  __[__  __section 6654 of this title__  __][/us/usc/t26/s6654]__  __\], shall be computed as if this Act had not been enacted.__ 
+>         Interest shall not be imposed on the amount of any increase in tax resulting from the enactment of this Act for any period before the day after the date of the enactment of this Act \[June 15, 1955\].
 
->         “(3) __Treatment of certain payments which taxpayer is required to make.—If—__ 
+>         “(2) __Estimated tax.—__ 
+
+>         Any addition to the tax under section 294(d) of the Internal Revenue Code of 1939 \[section 294(d) of former Title 26, Internal Revenue Code\], shall be computed as if this Act had not been enacted. In the case of any installment for which the last date prescribed for payment is before December 15, 1955, any addition to the tax under section 6654 of the Internal Revenue Code of 1986 \[[section 6654 of this title][/us/usc/t26/s6654]\], shall be computed as if this Act had not been enacted.
+
+>         “(3) __Treatment of certain payments which taxpayer is required to make.—__ 
+
+>         If—
 
 >             “(A) the taxpayer is required to make a payment (or an additional payment) to another person by reason of the enactment of this Act, and
 
@@ -435,11 +449,17 @@
 
 >             then, subject to such regulations as the Secretary of the Treasury or his delegate may prescribe, if such payment (or additional payment) is made on or before December 15, 1955, it shall be treated as having been made within the period prescribed by such Code.
 
->         “(4) __Treatment of certain dividends.—Subject to such regulations as the Secretary of the Treasury or his delegate may prescribe, for purposes of section 561(a)(1) of the Internal Revenue Code of 1986 \[__  __[__  __section 561(a)(1) of this title__  __][/us/usc/t26/s561/a/1]__  __\], dividends paid after the 15th day of the third month following the close of the taxable year and on or before__  __December 15, 1955__  __, may be treated as having been paid on the last day of the taxable year, but only to the extent (A) that such dividends are attributable to an increase in taxable income for the taxable year resulting from the enactment of this Act, and (B) elected by the taxpayer.__ 
+>         “(4) __Treatment of certain dividends.—__ 
 
->         “(5) __Determination of date prescribed.—For purposes of this section, the determination of the last date prescribed for payment or for filing a return shall be made without regard to any extension of time therefor and without regard to any provision of this section.__ 
+>         Subject to such regulations as the Secretary of the Treasury or his delegate may prescribe, for purposes of section 561(a)(1) of the Internal Revenue Code of 1986 \[[section 561(a)(1) of this title][/us/usc/t26/s561/a/1]\], dividends paid after the 15th day of the third month following the close of the taxable year and on or before December 15, 1955, may be treated as having been paid on the last day of the taxable year, but only to the extent (A) that such dividends are attributable to an increase in taxable income for the taxable year resulting from the enactment of this Act, and (B) elected by the taxpayer.
 
->         “(6) __Regulations.—For requirement that the Secretary of the Treasury or his delegate shall prescribe all rules and regulations as may be necessary by reason of the enactment of this Act, see section 7805(a) of the Internal Revenue Code of 1986 \[__  __[__  __section 7805(a) of this title__  __][/us/usc/t26/s7805/a]__  __\].”__ 
+>         “(5) __Determination of date prescribed.—__ 
+
+>         For purposes of this section, the determination of the last date prescribed for payment or for filing a return shall be made without regard to any extension of time therefor and without regard to any provision of this section.
+
+>         “(6) __Regulations.—__ 
+
+>         For requirement that the Secretary of the Treasury or his delegate shall prescribe all rules and regulations as may be necessary by reason of the enactment of this Act, see section 7805(a) of the Internal Revenue Code of 1986 \[[section 7805(a) of this title][/us/usc/t26/s7805/a]\].”
 
  __Applicability of Certain Amendments by__  __[__  __Pub. L. 99–514__  __][/us/pl/99/514]__  __in Relation to Treaty Obligations of United States__ 
 

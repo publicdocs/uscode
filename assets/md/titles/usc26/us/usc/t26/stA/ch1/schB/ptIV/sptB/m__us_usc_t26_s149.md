@@ -527,7 +527,7 @@
 
 >     Except as otherwise provided in this subsection, the amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after September 14, 1989.
 
->     “(2) __Bonds sold before september 15, 1989.—__ 
+>     “(2) __Bonds sold before__  __september 15, 1989__  __.—__ 
 
 >     The amendment made by subsection (a) shall not apply to any bond sold before September 15, 1989, and issued before October 15, 1989.
 

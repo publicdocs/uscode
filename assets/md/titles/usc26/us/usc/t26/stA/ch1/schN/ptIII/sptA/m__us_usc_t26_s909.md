@@ -93,7 +93,7 @@
 
 >     “(2) foreign income taxes (as so defined) paid or accrued by a section 902 corporation (as so defined) in taxable years beginning on or before such date (and not deemed paid under section 902(a) or 960 of such Code on or before such date), but only for purposes of applying sections 902 and 960 with respect to periods after such date.
 
->         Section 909(b)(2) of the Internal Revenue Code of 1986, as added by this section, shall not apply to foreign income taxes described in paragraph (2).”
+>     Section 909(b)(2) of the Internal Revenue Code of 1986, as added by this section, shall not apply to foreign income taxes described in paragraph (2).”
 
 ----------
 

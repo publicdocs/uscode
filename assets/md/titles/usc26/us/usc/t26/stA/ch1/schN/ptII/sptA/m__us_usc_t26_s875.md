@@ -15,7 +15,7 @@
 
 ## § 875. Partnerships; beneficiaries of estates and trusts
 
-For purposes of this subtitle—
+    For purposes of this subtitle—
 
     (1) a nonresident alien individual or foreign corporation shall be considered as being engaged in a trade or business within the United States if the partnership of which such individual or corporation is a member is so engaged, and
 

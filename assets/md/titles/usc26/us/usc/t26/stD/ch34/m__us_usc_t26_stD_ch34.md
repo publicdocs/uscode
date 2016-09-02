@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stD/ch33/schE/m__us_usc_t26_s4294, 4295.md) | [Next](./../../../../..//us/usc/t26/stD/ch34/schA/m__us_usc_t26_stD_ch34_schA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch34)
+[Previous](./../../../../..//us/usc/t26/stD/ch33/schE/m__us_usc_t26_s4293.md) | [Next](./../../../../..//us/usc/t26/stD/ch34/schA/m__us_usc_t26_stD_ch34_schA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch34)
 
 ### CHAPTER 34—TAXES ON CERTAIN INSURANCE POLICIES
 
@@ -161,7 +161,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stD/ch33/schE/m__us_usc_t26_s4294, 4295.md) | [Next](./../../../../..//us/usc/t26/stD/ch34/schA/m__us_usc_t26_stD_ch34_schA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch34)
+[Previous](./../../../../..//us/usc/t26/stD/ch33/schE/m__us_usc_t26_s4293.md) | [Next](./../../../../..//us/usc/t26/stD/ch34/schA/m__us_usc_t26_stD_ch34_schA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch34)
 
 ----------
 ----------

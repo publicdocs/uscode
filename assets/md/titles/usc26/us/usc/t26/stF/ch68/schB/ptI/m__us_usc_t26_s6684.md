@@ -15,13 +15,13 @@
 
 ## § 6684. Assessable penalties with respect to liability for tax under chapter 42
 
-If any person becomes liable for tax under any section of chapter 42 (relating to private foundations and certain other tax-exempt organizations) by reason of any act or failure to act which is not due to reasonable cause and either—
+    If any person becomes liable for tax under any section of chapter 42 (relating to private foundations and certain other tax-exempt organizations) by reason of any act or failure to act which is not due to reasonable cause and either—
 
     (1) such person has theretofore been liable for tax under such chapter, or
 
     (2) such act or failure to act is both willful and flagrant,
 
-        then such person shall be liable for a penalty equal to the amount of such tax.
+    then such person shall be liable for a penalty equal to the amount of such tax.
 
 (Added [Pub. L. 91–172, title I, § 101(c)][/us/pl/91/172/s101/c], Dec. 30, 1969, [83 Stat. 519][/us/stat/83/519]; amended [Pub. L. 100–203, title X, § 10712(c)(4)][/us/pl/100/203/s10712/c/4], Dec. 22, 1987, [101 Stat. 1330–467][/us/stat/101/1330-467].)
 

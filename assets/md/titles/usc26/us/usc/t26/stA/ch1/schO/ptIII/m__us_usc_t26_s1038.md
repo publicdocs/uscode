@@ -77,7 +77,7 @@
 
         then, under regulations prescribed by the Secretary, subsections (b), (c), and (d) of this section shall not apply to the reacquisition of such property and, for purposes of applying section 121, the resale of such property shall be treated as a part of the transaction constituting the original sale of such property.
 
-        \[(f) Repealed. [Pub. L. 104–188, title I, § 1616(b)(12)][/us/pl/104/188/s1616/b/12], Aug. 20, 1996, [110 Stat. 1857][/us/stat/110/1857]\]
+    \[(f) __Repealed.__  __[__  __Pub. L. 104–188, title I, § 1616(b)(12)__  __][/us/pl/104/188/s1616/b/12]__  __,__  __Aug. 20, 1996__  __,__  __[__  __110 Stat. 1857__  __][/us/stat/110/1857]__  __\]__ 
 
     (g) __Acquisition by estate, etc., of seller__ 
 

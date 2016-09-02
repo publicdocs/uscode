@@ -35,7 +35,7 @@
 
             Notwithstanding paragraph (1) or (2) in the case of a return of tax which is filed after the last date prescribed for filing such return (determined with regard to extensions), no interest shall be allowed or paid for any day before the date on which the return is filed.
 
-        \[(c) Repealed. [Pub. L. 85–866, title I, § 83(c)][/us/pl/85/866/s83/c], Sept. 2, 1958, [72 Stat. 1664][/us/stat/72/1664]\]
+    \[(c) __Repealed.__  __[__  __Pub. L. 85–866, title I, § 83(c)__  __][/us/pl/85/866/s83/c]__  __,__  __Sept. 2, 1958__  __,__  __[__  __72 Stat. 1664__  __][/us/stat/72/1664]__  __\]__ 
 
     (d) __Advance payment of tax, payment of estimated tax, and credit for income tax withholding__ 
 

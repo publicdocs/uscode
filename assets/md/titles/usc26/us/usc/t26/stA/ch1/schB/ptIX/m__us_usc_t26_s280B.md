@@ -15,7 +15,7 @@
 
 ## § 280B. Demolition of structures
 
-In the case of the demolition of any structure—
+    In the case of the demolition of any structure—
 
     (1)
 

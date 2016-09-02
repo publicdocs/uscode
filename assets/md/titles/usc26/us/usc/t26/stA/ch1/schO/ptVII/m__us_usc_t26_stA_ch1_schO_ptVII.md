@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptVI/m__us_usc_t26_s1081 to 1083.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptVII/m__us_usc_t26_s1091.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschO%2FptVII)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptVI/m__us_usc_t26_stA_ch1_schO_ptVI.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptVII/m__us_usc_t26_s1091.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschO%2FptVII)
 
 ##### PART VII—WASH SALES; STRADDLES
 
@@ -47,7 +47,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptVI/m__us_usc_t26_s1081 to 1083.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptVII/m__us_usc_t26_s1091.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschO%2FptVII)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptVI/m__us_usc_t26_stA_ch1_schO_ptVI.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schO/ptVII/m__us_usc_t26_s1091.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschO%2FptVII)
 
 ----------
 ----------

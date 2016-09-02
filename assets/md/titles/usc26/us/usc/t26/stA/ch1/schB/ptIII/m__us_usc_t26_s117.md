@@ -239,9 +239,13 @@
 
 [Pub. L. 93–483, § 4][/us/pl/93/483/s4], Oct. 26, 1974, [88 Stat. 1458][/us/stat/88/1458], as amended [Pub. L. 94–455, title XXI, § 2130][/us/pl/94/455/s2130], Oct. 4, 1976, [90 Stat. 1922][/us/stat/90/1922]; [Pub. L. 95–171, § 5][/us/pl/95/171/s5], Nov. 12, 1977, [91 Stat. 1355][/us/stat/91/1355]; [Pub. L. 95–600, title I, § 161(a)][/us/pl/95/600/s161/a], Nov. 6, 1978, [92 Stat. 2810][/us/stat/92/2810]; [Pub. L. 95–615, title I, § 6][/us/pl/95/615/s6], Nov. 8, 1978, [92 Stat. 3098][/us/stat/92/3098]; [Pub. L. 96–167, § 9(a)][/us/pl/96/167/s9/a], Dec. 29, 1979, [93 Stat. 1278][/us/stat/93/1278]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __In General.—Any amount received from appropriated funds as a scholarship, including the value of contributed services and accommodations, by a member of a uniformed service who is receiving training under the Armed Forces Health Professions Scholarship Program (or any other program determined by the Secretary of the Treasury or his delegate to have substantially similar objectives) from an educational institution (as defined in section 151(e)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) \[see__  __[__  __section 170(b)(1)(A)(ii) of this title__  __][/us/usc/t26/s170/b/1/A/ii]__  __\] shall be treated as a scholarship under section 117 of such Code \[this section\], whether that member is receiving training while on active duty or in an off-duty or inactive status, and without regard to whether a period of active duty is required of the member as a condition of receiving those payments.__ 
+>     “(a) __In General.—__ 
 
->     “(b) __Definition of Uniformed Services.—For purposes of this section, the term ‘uniformed service’ has the meaning given it by__  __[__  __section 101(3) of title 37__  __][/us/usc/t37/s101/3]__  __, United States Code.__ 
+>     Any amount received from appropriated funds as a scholarship, including the value of contributed services and accommodations, by a member of a uniformed service who is receiving training under the Armed Forces Health Professions Scholarship Program (or any other program determined by the Secretary of the Treasury or his delegate to have substantially similar objectives) from an educational institution (as defined in section 151(e)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) \[see [section 170(b)(1)(A)(ii) of this title][/us/usc/t26/s170/b/1/A/ii]\] shall be treated as a scholarship under section 117 of such Code \[this section\], whether that member is receiving training while on active duty or in an off-duty or inactive status, and without regard to whether a period of active duty is required of the member as a condition of receiving those payments.
+
+>     “(b) __Definition of Uniformed Services.—__ 
+
+>     For purposes of this section, the term ‘uniformed service’ has the meaning given it by [section 101(3) of title 37][/us/usc/t37/s101/3], United States Code.
 
 >     “(c) __Effective Date.—__ 
 

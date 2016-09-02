@@ -327,9 +327,9 @@
 
 >         The amendments made by paragraph (2) of section 1301(f) \[amending [section 25 of this title][/us/usc/t26/s25]\] shall apply to certificates issued with respect to non-issued bond amounts elected after August 15, 1986.
 
->     “(c) __Changes in Use, Etc., of Facilities Financed With Private Activity Bonds.—__ 
+>     “(c) __Changes in Use, Etc.__ 
 
->     Subsection (b) of section 150 of the 1986 Code shall apply to changes in use (and ownership) after August 15, 1986, but only with respect to financing (including refinancings) provided after such date.
+>     , of Facilities Financed With Private Activity Bonds.—Subsection (b) of section 150 of the 1986 Code shall apply to changes in use (and ownership) after August 15, 1986, but only with respect to financing (including refinancings) provided after such date.
 
 >     “(d) __Public Approval and Information Reporting.—__ 
 
@@ -343,7 +343,7 @@
 
 >     The amendments made by section 1303 \[amending sections 172, 1016, and 3402 of this title and repealing sections 1391 to 1397 and 6039B of this title\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].
 
-> “SEC. 1312. __TRANSITIONAL RULES FOR CONSTRUCTION OR BINDING AGREEMENTS AND CERTAIN GOVERNMENT BONDS ISSUED AFTER AUGUST 15, 1986.__ 
+> “SEC. 1312. __TRANSITIONAL RULES FOR CONSTRUCTION OR BINDING AGREEMENTS AND CERTAIN GOVERNMENT BONDS ISSUED AFTER__  __AUGUST 15, 1986__  __.__ 
 
 >     “(a) __Exception for Construction or Binding Agreements.—__ 
 
@@ -391,7 +391,7 @@
 
 >             “(J) The provisions of section 150(b) of the 1986 Code (relating to changes in use).
 
->         “(2) __Certain requirements apply only to bonds issued after december 31, 1986.—__ 
+>         “(2) __Certain requirements apply only to bonds issued after__  __december 31, 1986__  __.—__ 
 
 >         In the case of subparagraphs (F) and (I) of paragraphs (1), paragraph (1) shall be applied by substituting ‘December 31, 1986’ for ‘August 15, 1986’.
 
@@ -477,7 +477,7 @@
 
 >             Subparagraphs (A) and (D) shall apply only if the refunding bond is issued after December 31, 1986. In the case of a refunding bond described in paragraph (1) with respect to a qualified bond described in paragraph (2)(B), the requirements of section 1312(b)(1) which applied to such qualified bond shall be treated as specified in this paragraph with respect to such refunding bond.
 
->         “(4) __Special rules for certain government bonds issued after august 15, 1986.—__ 
+>         “(4) __Special rules for certain government bonds issued after__  __august 15, 1986__  __.—__ 
 
 >         In the case of any bond described in section 1312(c)(2)—
 
@@ -521,7 +521,7 @@
 
 >             Subparagraphs (A) and (E) shall apply only if the refunding bond is issued after December 31, 1986.
 
->         “(4) __Special rule for certain government bonds issued after august 15, 1986.—__ 
+>         “(4) __Special rule for certain government bonds issued after__  __august 15, 1986__  __.—__ 
 
 >         In the case of any bond described in section 1312(c)(2)—
 
@@ -629,13 +629,17 @@
 
 >                 “(i) __Exception from subparagraphs (c) and (d) where similar pools issued by issuer.—__ 
 
->                 An issue shall not be treated as described in subparagraph (C) or (D) with respect to any issue to make or finance loans to governmental units if—         “(I) the issuer, before 1986, issued 1 or more similar issues to make or finance loans to governmental units, and
+>                 An issue shall not be treated as described in subparagraph (C) or (D) with respect to any issue to make or finance loans to governmental units if—
+
+>                          “(I) the issuer, before 1986, issued 1 or more similar issues to make or finance loans to governmental units, and
 
 >                          “(II) the aggregate face amount of such issues issued during 1986 does not exceed 250 percent of the average of the annual aggregate face amounts of such similar issues issued during 1983, 1984, or 1985.
 
 >                 “(ii) __Determination of issuance.—__ 
 
->                 For purposes of subparagraph (A), an issue shall not be treated as issued until—         “(I) the bonds issued as part of such issue are offered to the public (pursuant to final offering materials), and
+>                 For purposes of subparagraph (A), an issue shall not be treated as issued until—
+
+>                          “(I) the bonds issued as part of such issue are offered to the public (pursuant to final offering materials), and
 
 >                          “(II) at least 25 percent of such bonds is sold to the public.
 
@@ -717,7 +721,7 @@
 
 >             For purposes of determining whether a bond issued as part of an issue for a facility described in the preceding sentence is an exempt facility bond for purposes of part IV of subchapter B of chapter 1 of the 1986 Code, ‘90 percent’ shall be substituted for ‘95 percent’ in section 142(a) of the 1986 Code.
 
->         “The aggregate face amount of bonds to which this paragraph applies shall not exceed $75,000,000.
+>             “The aggregate face amount of bonds to which this paragraph applies shall not exceed $75,000,000.
 
 >         “(6)
 
@@ -2109,21 +2113,21 @@
 
 >         “(Y) A project or projects are described in this subparagraph if they are financed with bonds issued by the Tulare, California, County Housing Authority. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $8,000,000.
 
->         “(Z)
+>         “(Z) A residential rental project is described in this subparagraph if such project is a multifamily mixed-use housing project located in a city described in paragraph (3)(C), the zoning for which was changed to residential-business planned development on November 26, 1985, and with respect to which both the city on December 4, 1985, and the state housing finance agency on December 20, 1985, adopted inducement resolutions. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $90,000,000.
 
->          A residential rental project is described in this subparagraph if such project is a multifamily mixed-use housing project located in a city described in paragraph (3)(C), the zoning for which was changed to residential-business planned development on November 26, 1985, and with respect to which both the city on December 4, 1985, and the state housing finance agency on December 20, 1985, adopted inducement resolutions. The aggregate face amount of obligations to which this subparagraph applies shall not exceed $90,000,000.
+>         “(AA) A residential rental property project is described in this subparagraph if it is the Carriage Trace residential rental project in Clinton, Tennessee. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $10,000,000.
 
->             “(AA) A residential rental property project is described in this subparagraph if it is the Carriage Trace residential rental project in Clinton, Tennessee. The aggregate face amount of bonds to which this subparagraph applies shall not exceed $10,000,000.
+>         “(BB)
 
->             “(BB) A residential rental property project is described in this subparagraph if—
+>          A residential rental property project is described in this subparagraph if—
 
->         “(i) a contract to purchase such property was dated as of August 9, 1985,
+>             “(i) a contract to purchase such property was dated as of August 9, 1985,
 
->         “(ii) there was an inducement resolution adopted on September 27, 1985, for the issuance of obligations to finance such property,
+>             “(ii) there was an inducement resolution adopted on September 27, 1985, for the issuance of obligations to finance such property,
 
->         “(iii) there was a State court final validation of such financing on November 15, 1985, and
+>             “(iii) there was a State court final validation of such financing on November 15, 1985, and
 
->         “(iv) the certificate of nonappeal from such validation was available on December 15, 1985.
+>             “(iv) the certificate of nonappeal from such validation was available on December 15, 1985.
 
 >             The aggregate face amount of bonds to which this subparagraph applies shall not exceed $27,750,000.
 

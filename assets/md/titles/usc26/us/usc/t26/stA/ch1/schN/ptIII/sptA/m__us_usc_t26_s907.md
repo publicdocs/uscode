@@ -323,9 +323,13 @@
 
 >     “(2) __Retention of old sections 907(b) and 904(f)(4) where taxpayer had separate basket foreign loss.—__ 
 
->         “(A) __In general.—If, after applying old sections 907(b) and 904(f)(4) to a taxable year beginning before__  __January 1, 1983__  __, the taxpayer had a separate basket foreign loss, such loss shall not be recaptured from income of a kind not taken into account in computing the amount of such separate basket foreign loss more rapidly than ratably over the 8-year period (or such shorter period as the taxpayer may select) beginning with the first taxable year beginning after__  __December 31, 1982__  __.__ 
+>         “(A) __In general.—__ 
 
->         “(B) __Definitions.—For purposes of this paragraph—__ 
+>         If, after applying old sections 907(b) and 904(f)(4) to a taxable year beginning before January 1, 1983, the taxpayer had a separate basket foreign loss, such loss shall not be recaptured from income of a kind not taken into account in computing the amount of such separate basket foreign loss more rapidly than ratably over the 8-year period (or such shorter period as the taxpayer may select) beginning with the first taxable year beginning after December 31, 1982.
+
+>         “(B) __Definitions.—__ 
+
+>         For purposes of this paragraph—
 
 >             “(i) The term ‘separate basket foreign loss’ means any foreign loss attributable to activities taken into account (or not taken into account) in determining foreign oil related income (as defined in old section 907(c)(2)).
 

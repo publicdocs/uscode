@@ -15,7 +15,7 @@
 
 ## § 6504. Cross references
 
-For limitation period in case of—
+    For limitation period in case of—
 
     (1) Adjustments to accrued foreign taxes, see section 905(c).
 

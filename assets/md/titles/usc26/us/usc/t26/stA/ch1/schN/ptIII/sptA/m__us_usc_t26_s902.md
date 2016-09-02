@@ -233,7 +233,7 @@
 
 >     “(2) in respect of any distribution received by a domestic corporation before January 1, 1978, in a taxable year of such corporation beginning after December 31, 1975, but only to the extent that such distribution is made out of the accumulated profits of a foreign corporation for a taxable year (of such foreign corporation) beginning after December 31, 1975.
 
->         For purposes of paragraph (2), a distribution made by a foreign corporation out of its profits which are attributable to a distribution received from a foreign corporation to which section 902(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies shall be treated as made out of the accumulated profits of a foreign corporation for a taxable year beginning before January 1, 1976, to the extent that such distribution was paid out of the accumulated profits of such foreign corporation for a taxable year beginning before January 1, 1976.”
+>     For purposes of paragraph (2), a distribution made by a foreign corporation out of its profits which are attributable to a distribution received from a foreign corporation to which section 902(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applies shall be treated as made out of the accumulated profits of a foreign corporation for a taxable year beginning before January 1, 1976, to the extent that such distribution was paid out of the accumulated profits of such foreign corporation for a taxable year beginning before January 1, 1976.”
 
  __Effective Date of 1975 Amendment__ 
 
@@ -255,7 +255,7 @@
 
 >     “(2) in respect of any distribution received by a domestic corporation before January 1, 1965, in a taxable year of such corporation beginning after December 31, 1962, but only to the extent that such distribution is made out of the accumulated profits of a foreign corporation for a taxable year (of such foreign corporation) beginning after December 31, 1962.
 
->         For purposes of paragraph (2), a distribution made by a foreign corporation out of its profits which are attributable to a distribution received from a foreign subsidiary to which section 902(b) applies shall be treated as made out of the accumulated profits of a foreign corporation for a taxable year beginning before January 1, 1963, to the extent that such distribution was paid out of the accumulated profits of such foreign subsidiary for a taxable year beginning before January 1, 1963.”
+>     For purposes of paragraph (2), a distribution made by a foreign corporation out of its profits which are attributable to a distribution received from a foreign subsidiary to which section 902(b) applies shall be treated as made out of the accumulated profits of a foreign corporation for a taxable year beginning before January 1, 1963, to the extent that such distribution was paid out of the accumulated profits of such foreign subsidiary for a taxable year beginning before January 1, 1963.”
 
  __Effective Date of 1960 Amendment__ 
 

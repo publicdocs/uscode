@@ -383,7 +383,7 @@
 
             The Secretary shall adjust annually the $200,000 amount in subparagraph (A) for increases in the cost-of-living at the same time and in the same manner as adjustments under section 415(d); except that the base period shall be the calendar quarter beginning July 1, 2001, and any increase which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000.
 
-            \[(18) Repealed. [Pub. L. 97–248, title II, § 237(b)][/us/pl/97/248/s237/b], Sept. 3, 1982, [96 Stat. 511][/us/stat/96/511].\]
+        \[(18) Repealed. [Pub. L. 97–248, title II, § 237(b)][/us/pl/97/248/s237/b], Sept. 3, 1982, [96 Stat. 511][/us/stat/96/511].\]
 
         (19) A trust shall not constitute a qualified trust under this section if under the plan of which such trust is a part any part of a participant’s accrued benefit derived from employer contributions (whether or not otherwise nonforfeitable), is forfeitable solely because of withdrawal by such participant of any amount attributable to the benefit derived from contributions made by such participant. The preceding sentence shall not apply to the accrued benefit of any participant unless, at the time of such withdrawal, such participant has a nonforfeitable right to at least 50 percent of such accrued benefit (as determined under section 411). The first sentence of this paragraph shall not apply to the extent that an accrued benefit is permitted to be forfeited in accordance with section 411(a)(3)(D)(iii) (relating to proportional forfeitures of benefits accrued before September 2, 1974, in the event of withdrawal of certain mandatory contributions).
 
@@ -859,7 +859,7 @@
 
                 For purposes of this subparagraph, section 1402, as in effect for a taxable year ending on December 31, 1962, shall be treated as having been in effect for all taxable years ending before such date. For purposes of this part only (other than sections 419 and 419A), this subparagraph shall be applied as if the term “trade or business” for purposes of section 1402 included service described in section 1402(c)(6).
 
-                \[(B) Repealed\]
+            \[(B) __Repealed\]__ 
 
             (C) __Income from disposition of certain property__ 
 
@@ -941,7 +941,7 @@
 
         then such trust shall be considered as having constituted a qualified trust under subsection (a) and as having been exempt from taxation under section 501(a) for the period beginning on the date on which contributions were first made to or for such trust and ending on the date such trust first constituted (without regard to this subsection) a qualified trust under subsection (a).
 
-        \[(j) Repealed. [Pub. L. 97–248, title II, § 238(b)][/us/pl/97/248/s238/b], Sept. 3, 1982, [96 Stat. 512][/us/stat/96/512]\]
+    \[(j) __Repealed.__  __[__  __Pub. L. 97–248, title II, § 238(b)__  __][/us/pl/97/248/s238/b]__  __,__  __Sept. 3, 1982__  __,__  __[__  __96 Stat. 512__  __][/us/stat/96/512]__  __\]__ 
 
     (k) __Cash or deferred arrangements__ 
 
@@ -1733,7 +1733,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.
+    For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.
 
  __References in Text__ 
 
@@ -3737,7 +3737,7 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 
 >     “(2) such amendment applies retroactively to such period.
 
->         In the case of a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986), this section shall be applied by substituting ‘2000’ for ‘1998’.”
+>     In the case of a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986), this section shall be applied by substituting ‘2000’ for ‘1998’.”
 
  __Plan Amendments Not Required Until January 1, 1994__ 
 
@@ -3861,17 +3861,19 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 
 >     “(D) the excludability of the interest of the employee in the trust under sections 2039 and 2517 of such Code,
 
->         shall be determined for plan years beginning before January 1, 1980 in a manner consistent with Revenue Ruling 56–497 (1956–2 C.B. 284), Revenue Ruling 63–180 (1963–2 C.B. 189), and Revenue Ruling 68–89 (1968–1 C.B. 402).”
+>     shall be determined for plan years beginning before January 1, 1980 in a manner consistent with Revenue Ruling 56–497 (1956–2 C.B. 284), Revenue Ruling 63–180 (1963–2 C.B. 189), and Revenue Ruling 68–89 (1968–1 C.B. 402).”
 
  __Salary Reduction Regulations__ 
 
 [Pub. L. 93–406, title II, § 2006][/us/pl/93/406/s2006], Sept. 2, 1974, [88 Stat. 992][/us/stat/88/992], as amended by [Pub. L. 94–455, title XV, § 1506][/us/pl/94/455/s1506], Oct. 4, 1976, [90 Stat. 1739][/us/stat/90/1739]; [Pub. L. 95–615, § 5][/us/pl/95/615/s5], Nov. 8, 1978, [92 Stat. 3097][/us/stat/92/3097]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(a) __Inclusion of Certain Contributions in Income.—Except in the case of plans or arrangements in existence on__  __June 27, 1974__  __, a contribution made before__  __January 1, 1980__  __, to an employees’ trust described in section 401(a), 403(a) or 405(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which is exempt from tax under section 501(a) of such Code, or under an arrangement which, but for the fact that it was not in existence on__  __June 27, 1974__  __, would be an arrangement described in subsection (b)(2) of this section, shall be treated as a contribution made by an employee if the contribution is made under an arrangement under which the contribution will be made only if the employee elects to receive a reduction in his compensation or to forego an increase in his compensation.__ 
+>     “(a) __Inclusion of Certain Contributions in Income.—__ 
 
->     “(b) __Administration in the Case of Certain Qualified Pension or Profit-Sharing Plans, Etc., in Existence on__  __June 27, 1974__  __.—__ 
+>     Except in the case of plans or arrangements in existence on June 27, 1974, a contribution made before January 1, 1980, to an employees’ trust described in section 401(a), 403(a) or 405(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] which is exempt from tax under section 501(a) of such Code, or under an arrangement which, but for the fact that it was not in existence on June 27, 1974, would be an arrangement described in subsection (b)(2) of this section, shall be treated as a contribution made by an employee if the contribution is made under an arrangement under which the contribution will be made only if the employee elects to receive a reduction in his compensation or to forego an increase in his compensation.
 
->     No salary reduction regulations may be issued by the Secretary of the Treasury in final form before January 1, 1980, with respect to an arrangement which was in existence on June 27, 1974, and which, on that date—
+>     “(b) __Administration in the Case of Certain Qualified Pension or Profit-Sharing Plans, Etc.__ 
+
+>     , in Existence on June 27, 1974.—No salary reduction regulations may be issued by the Secretary of the Treasury in final form before January 1, 1980, with respect to an arrangement which was in existence on June 27, 1974, and which, on that date—
 
 >         “(1) provided for contributions to an employee’s trust described in section 401(a), 403(a), or 405(a) of the Internal Revenue Code of 1986 \[subsec. (a) of this section, [section 403(a) of this title][/us/usc/t26/s403/a], or [section 405(a) of this title][/us/usc/t26/s405/a]\] which is exempt from tax under section 501(a) of such Code \[[section 501(a) of this title][/us/usc/t26/s501/a]\], or
 
@@ -3887,7 +3889,9 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 
 >             “(B) in the manner in which such law was administered before January 1, 1972.
 
->         “(2) __Administration in the case of qualified profit-sharing plans.—In the case of plans or arrangements described in subsection (b), in applying this section to the tax treatment of contributions to qualified profit-sharing plans where the contributed amounts are distributable only after a period of deferral, the law shall be administered in a manner consistent with—__ 
+>         “(2) __Administration in the case of qualified profit-sharing plans.—__ 
+
+>         In the case of plans or arrangements described in subsection (b), in applying this section to the tax treatment of contributions to qualified profit-sharing plans where the contributed amounts are distributable only after a period of deferral, the law shall be administered in a manner consistent with—
 
 >             “(A) Revenue Ruling 56–497 (1956—2 C.B. 284),
 
@@ -3895,13 +3899,17 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 
 >             “(C) Revenue Ruling 68–89 (1968—1 C.B. 402).
 
->     “(d) __Limitation on Retroactivity of Final Regulations.—In the case of any salary reduction regulations which become final after__  __December 31, 1979__  __—__ 
+>     “(d) __Limitation on Retroactivity of Final Regulations.—__ 
+
+>     In the case of any salary reduction regulations which become final after December 31, 1979—
 
 >         “(1) for purposes of chapter 1 of the Internal Revenue Code of 1986 (relating to normal taxes and surtaxes), such regulations shall not apply before January 1, 1980; and
 
 >         “(2) for purposes of chapter 21 of such Code (relating to Federal Insurance Contributions Act) and for purposes of chapter 24 of such Code (relating to collection of income tax at source on wages), such regulations shall not apply before the day on which such regulations are issued in final form.
 
->     “(e) __Salary Reduction Regulations Defined.—For purpose of this section, the term ‘salary reduction regulations’ means regulations dealing with the includibility in gross income (at the time of contribution) of amounts contributed to a plan which includes a trust that qualifies under section 401(a) \[subsec. (a) of this section\], or a plan described in section 403(a) or 405(a), including plans or arrangements described in subsection (b)(2), if the contribution is made under an arrangement under which the contribution will be made only if the employee elects to receive a reduction in his compensation or to forego an increase in his compensation, or under an arrangement under which the employee is permitted to elect to receive part of his compensation in one or more alternative forms (if one of such forms results in the inclusion of amounts in income under the Internal Revenue Code of 1986).”__ 
+>     “(e) __Salary Reduction Regulations Defined.—__ 
+
+>     For purpose of this section, the term ‘salary reduction regulations’ means regulations dealing with the includibility in gross income (at the time of contribution) of amounts contributed to a plan which includes a trust that qualifies under section 401(a) \[subsec. (a) of this section\], or a plan described in section 403(a) or 405(a), including plans or arrangements described in subsection (b)(2), if the contribution is made under an arrangement under which the contribution will be made only if the employee elects to receive a reduction in his compensation or to forego an increase in his compensation, or under an arrangement under which the employee is permitted to elect to receive part of his compensation in one or more alternative forms (if one of such forms results in the inclusion of amounts in income under the Internal Revenue Code of 1986).”
 
 [Pub. L. 95–615, § 210(b)][/us/pl/95/615/s210/b], Nov. 8, 1978, [92 Stat. 3109][/us/stat/92/3109], provided that: 
 

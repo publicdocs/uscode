@@ -45,11 +45,17 @@
 
 [Pub. L. 91–172, title V, § 503(c)][/us/pl/91/172/s503/c], Dec. 30, 1969, [83 Stat. 631][/us/stat/83/631], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __General rule.—The amendments made by this section \[enacting this section\] shall apply with respect to mineral production payments created on or after__  __August 7, 1969__  __, other than mineral production payments created before__  __January 1, 1971__  __, pursuant to a binding contract entered into before__  __August 7, 1969__  __.__ 
+>     “(1) __General rule.—__ 
 
->     “(2) __Election.—At the election of the taxpayer (made at such time and in such manner as the Secretary of the Treasury or his delegate prescribes by regulations), the amendments made by this section shall apply with respect to all mineral production payments which the taxpayer carved out of mineral properties after the beginning of his last taxable year ending before__  __August 7, 1969__  __. No interest shall be allowed on any refund or credit of any overpayment resulting from such election for any taxable year ending before__  __August 7, 1969__  __.__ 
+>     The amendments made by this section \[enacting this section\] shall apply with respect to mineral production payments created on or after August 7, 1969, other than mineral production payments created before January 1, 1971, pursuant to a binding contract entered into before August 7, 1969.
 
->     “(3) __Special rule.—With respect to a taxpayer who does not elect the treatment provided in paragraph (2) and who carves out one or more mineral production payments on or after__  __August 7, 1969__  __, during the taxable year which includes such date, the amendments made by this section shall apply to such production payments only to the extent the aggregate amount of such production payments exceeds the lesser of—__ 
+>     “(2) __Election.—__ 
+
+>     At the election of the taxpayer (made at such time and in such manner as the Secretary of the Treasury or his delegate prescribes by regulations), the amendments made by this section shall apply with respect to all mineral production payments which the taxpayer carved out of mineral properties after the beginning of his last taxable year ending before August 7, 1969. No interest shall be allowed on any refund or credit of any overpayment resulting from such election for any taxable year ending before August 7, 1969.
+
+>     “(3) __Special rule.—__ 
+
+>     With respect to a taxpayer who does not elect the treatment provided in paragraph (2) and who carves out one or more mineral production payments on or after August 7, 1969, during the taxable year which includes such date, the amendments made by this section shall apply to such production payments only to the extent the aggregate amount of such production payments exceeds the lesser of—
 
 >         “(A)
 

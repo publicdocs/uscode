@@ -417,7 +417,7 @@
 
             (C) providing that rules similar to the rules of paragraph (3)(C) shall apply to interest, rents, and royalties received or accrued from entities which would be controlled foreign corporations if they were foreign corporations.
 
-        \[(e) Repealed. [Pub. L. 101–508, title XI, § 11801(a)(31)][/us/pl/101/508/s11801/a/31], Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521]\]
+    \[(e) __Repealed.__  __[__  __Pub. L. 101–508, title XI, § 11801(a)(31)__  __][/us/pl/101/508/s11801/a/31]__  __,__  __Nov. 5, 1990__  __,__  __[__  __104 Stat. 1388–521__  __][/us/stat/104/1388-521]__  __\]__ 
 
     (f) __Recapture of overall foreign loss__ 
 
@@ -1495,7 +1495,7 @@
 
 >         Interest income received or accrued by a designated payor corporation shall be taken into account for purposes of the amendment made by subsection (a) only in taxable years beginning after the date of the enactment of this Act.
 
->         “(B) __Exception for investment after june 22, 1984.—__ 
+>         “(B) __Exception for investment after__  __june 22, 1984__  __.—__ 
 
 >         Notwithstanding subparagraph (A), the amendment made by subsection (a) shall apply to interest income received or accrued by a designated payor corporation after the date of enactment of this Act if it is attributable to investment in the designated payor corporation after June 22, 1984.
 
@@ -1589,17 +1589,27 @@
 
 >     Except as provided in paragraphs (2), (3), and (5), the amendment made by subsection (a) \[amending this section\] shall apply to losses sustained in taxable years beginning after December 31, 1975. The amendment made by subsection (b)(1) \[amending [section 907 of this title][/us/usc/t26/s907]\] shall apply to taxable years beginning after December 31, 1975. The amendment made by subsection (b)(2) \[amending [section 907 of this title][/us/usc/t26/s907]\] shall apply to losses sustained in taxable years ending after December 31, 1975.
 
->     “(2) __Obligations of foreign governments.—The amendments made by subsection (a) \[amending this section\] shall not apply to losses on the sale, exchange, or other disposition of bonds, notes, or other evidences of indebtedness issued before__  __May 14, 1976__  __, by a foreign government or instrumentality thereof for the acquisition of property located in that country or stock of a corporation (created or organized in or under the laws of that foreign country) or indebtedness of such corporation.__ 
+>     “(2) __Obligations of foreign governments.—__ 
 
->     “(3) __Substantial worthlessness before enactment.—The amendments made by subsection (a) \[amending this section\] shall not apply to losses incurred on the loss from stock or indebtedness of a corporation in which the taxpayer owned at least 10 percent of the voting stock and which has sustained losses in 3 out of the last 5 taxable years beginning before__  __January 1, 1976__  __, which has sustained an overall loss for those 5 years, and with respect to which the taxpayer has terminated or will terminate all operations by reason of sale, liquidation, or other disposition before__  __January 1, 1977__  __, of such corporation or its assets.__ 
+>     The amendments made by subsection (a) \[amending this section\] shall not apply to losses on the sale, exchange, or other disposition of bonds, notes, or other evidences of indebtedness issued before May 14, 1976, by a foreign government or instrumentality thereof for the acquisition of property located in that country or stock of a corporation (created or organized in or under the laws of that foreign country) or indebtedness of such corporation.
 
->     “(4) __Limitation based on deficit in earnings and profits.—If paragraph (3) would apply to a taxpayer but for the fact that the loss is sustained after__  __December 31, 1976__  __, and if the loss is sustained in a taxable year beginning before__  __January 1, 1979__  __, the amendments made by subsection (a) \[amending this section\] shall not apply to such loss to the extent that there was on__  __December 31, 1975__  __, a deficit in earnings and profits in the corporation from which the loss arose. For purposes of the preceding sentence, there shall be taken into account only earnings and profits of the corporation which (A) were accumulated in taxable years of the corporation beginning after__  __December 31, 1962__  __, and during the period in which the stock of such corporation from which the loss arose was held by the taxpayer and (B) are attributable to such stock.__ 
+>     “(3) __Substantial worthlessness before enactment.—__ 
 
->     “(5) __Foreign oil related losses.—The amendment made by subsection (a) \[amending this section\] shall apply to foreign oil related losses sustained in taxable years ending after__  __December 31, 1975__  __.__ 
+>     The amendments made by subsection (a) \[amending this section\] shall not apply to losses incurred on the loss from stock or indebtedness of a corporation in which the taxpayer owned at least 10 percent of the voting stock and which has sustained losses in 3 out of the last 5 taxable years beginning before January 1, 1976, which has sustained an overall loss for those 5 years, and with respect to which the taxpayer has terminated or will terminate all operations by reason of sale, liquidation, or other disposition before January 1, 1977, of such corporation or its assets.
+
+>     “(4) __Limitation based on deficit in earnings and profits.—__ 
+
+>     If paragraph (3) would apply to a taxpayer but for the fact that the loss is sustained after December 31, 1976, and if the loss is sustained in a taxable year beginning before January 1, 1979, the amendments made by subsection (a) \[amending this section\] shall not apply to such loss to the extent that there was on December 31, 1975, a deficit in earnings and profits in the corporation from which the loss arose. For purposes of the preceding sentence, there shall be taken into account only earnings and profits of the corporation which (A) were accumulated in taxable years of the corporation beginning after December 31, 1962, and during the period in which the stock of such corporation from which the loss arose was held by the taxpayer and (B) are attributable to such stock.
+
+>     “(5) __Foreign oil related losses.—__ 
+
+>     The amendment made by subsection (a) \[amending this section\] shall apply to foreign oil related losses sustained in taxable years ending after December 31, 1975.
 
 >     “(6) __Recapture of possession losses during transitional period where taxpayer is on a per-country basis.—__ 
 
->         “(A) __Application of paragraph.—This paragraph shall apply if—__ 
+>         “(A) __Application of paragraph.—__ 
+
+>         This paragraph shall apply if—
 
 >             “(i) the taxpayer sustained a loss in a possession of the United States in a taxable year beginning after December 31, 1975, and before January 1, 1979,
 
@@ -1607,7 +1617,9 @@
 
 >             “(iii) the taxpayer chooses to have the benefits of subpart A of part III of subchapter N apply for such taxable year and section 904(a)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as in effect before the enactment of this Act \[Oct. 4, 1976\]) applies with respect to such taxable year.
 
->         “(B) __No recapture during transition period.—In any case to which this paragraph applies, for purposes of determining the liability for tax of the taxpayer for taxable years beginning before__  __January 1, 1979__  __, section 904(f) of the Internal Revenue Code of 1986 shall not apply with respect to the loss described in subparagraph (A)(i).__ 
+>         “(B) __No recapture during transition period.—__ 
+
+>         In any case to which this paragraph applies, for purposes of determining the liability for tax of the taxpayer for taxable years beginning before January 1, 1979, section 904(f) of the Internal Revenue Code of 1986 shall not apply with respect to the loss described in subparagraph (A)(i).
 
 >         “(C) __Recapture of loss after the transition period.—__ 
 
@@ -1617,9 +1629,13 @@
 
 >             “(ii) in the case of any taxpayer and any possession, the aggregate amount to which such section 904(f) applies by reason of clause (i) shall not exceed the sum of the net incomes of all affiliated corporations from such possession for taxable years of such affiliated corporations beginning after December 31, 1975, and before January 1, 1979.
 
->         “(D) __Taxpayers not engaged in trade or business on january 1, 1976.—In any case to which this paragraph applies but for the fact that the taxpayer was not engaged in a trade or business in such possession on__  __January 1, 1976__  __, for purposes of determining the liability for tax of the taxpayer for taxable years beginning before__  __January 1, 1979__  __; if section 904(a)(1) of such Code (as in effect before the enactment of this Act \[__  __Oct. 4, 1976__  __\]) applies with respect to such taxable year, the provisions of section 904(f) of such Code shall be applied with respect to the loss described in subparagraph (A)(i) under the principles of such section 904(a)(1).__ 
+>         “(D) __Taxpayers not engaged in trade or business on__  __january 1, 1976__  __.—__ 
 
->         “(E) __Affiliated corporation defined.—For purposes of subparagraph (C)(ii), the term ‘affiliated corporation’ means a corporation which, for the taxable year for which the net income is being determined, was not a member of the same affiliated group (within the meaning of section 1504 of the Internal Revenue Code of 1986) as the taxpayer but would have been a member of such group but for the application of subsection (b) of such section 1504.”__ 
+>         In any case to which this paragraph applies but for the fact that the taxpayer was not engaged in a trade or business in such possession on January 1, 1976, for purposes of determining the liability for tax of the taxpayer for taxable years beginning before January 1, 1979; if section 904(a)(1) of such Code (as in effect before the enactment of this Act \[Oct. 4, 1976\]) applies with respect to such taxable year, the provisions of section 904(f) of such Code shall be applied with respect to the loss described in subparagraph (A)(i) under the principles of such section 904(a)(1).
+
+>         “(E) __Affiliated corporation defined.—__ 
+
+>         For purposes of subparagraph (C)(ii), the term ‘affiliated corporation’ means a corporation which, for the taxable year for which the net income is being determined, was not a member of the same affiliated group (within the meaning of section 1504 of the Internal Revenue Code of 1986) as the taxpayer but would have been a member of such group but for the application of subsection (b) of such section 1504.”
 
 [Pub. L. 94–455, title X, § 1034(b)][/us/pl/94/455/s1034/b], Oct. 4, 1976, [90 Stat. 1630][/us/stat/90/1630], provided that: 
 

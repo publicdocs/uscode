@@ -153,7 +153,7 @@
 
                 Subparagraph (A) shall not apply with respect to any taxable year which began more than 5 years before the date of such determination.
 
-        \[(e) Repealed. [Pub. L. 101–508, title XI, § 11801(c)(22)(C)][/us/pl/101/508/s11801/c/22/C], Nov. 5, 1990, [104 Stat. 1388–528][/us/stat/104/1388-528]\]
+    \[(e) __Repealed.__  __[__  __Pub. L. 101–508, title XI, § 11801(c)(22)(C)__  __][/us/pl/101/508/s11801/c/22/C]__  __,__  __Nov. 5, 1990__  __,__  __[__  __104 Stat. 1388–528__  __][/us/stat/104/1388-528]__  __\]__ 
 
     (f) __Special rule for chapter 42 and similar taxes__ 
 

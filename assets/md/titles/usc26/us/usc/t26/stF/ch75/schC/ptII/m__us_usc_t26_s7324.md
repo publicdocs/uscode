@@ -15,7 +15,7 @@
 
 ## § 7324. Special disposition of perishable goods
 
-When any property which is seized under the provisions of section 7301 or section 7302 is liable to perish or become greatly reduced in price or value by keeping, or when it cannot be kept without great expense—
+    When any property which is seized under the provisions of section 7301 or section 7302 is liable to perish or become greatly reduced in price or value by keeping, or when it cannot be kept without great expense—
 
     (1) __Application for examination__ 
 

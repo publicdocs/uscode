@@ -509,9 +509,9 @@
 
             (B) for adjusted gross income between the dollar amount at which the phaseout begins under subsection (b) and the amount of adjusted gross income at which the credit is phased out under subsection (b).
 
-        \[(g) Repealed. [Pub. L. 111–226, title II, § 219(a)(2)][/us/pl/111/226/s219/a/2], Aug. 10, 2010, [124 Stat. 2403][/us/stat/124/2403]\]
+    \[(g) __Repealed.__  __[__  __Pub. L. 111–226, title II, § 219(a)(2)__  __][/us/pl/111/226/s219/a/2]__  __,__  __Aug. 10, 2010__  __,__  __[__  __124 Stat. 2403__  __][/us/stat/124/2403]__  __\]__ 
 
-        \[(h) Repealed. [Pub. L. 107–16, title III, § 303(c)][/us/pl/107/16/s303/c], June 7, 2001, [115 Stat. 55][/us/stat/115/55]\]
+    \[(h) __Repealed.__  __[__  __Pub. L. 107–16, title III, § 303(c)__  __][/us/pl/107/16/s303/c]__  __,__  __June 7, 2001__  __,__  __[__  __115 Stat. 55__  __][/us/stat/115/55]__  __\]__ 
 
     (i) __Denial of credit for individuals having excessive investment income__ 
 
@@ -623,7 +623,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
 
  __References in Text__ 
 

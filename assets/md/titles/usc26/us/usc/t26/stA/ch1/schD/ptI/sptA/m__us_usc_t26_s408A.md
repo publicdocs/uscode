@@ -305,7 +305,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1] and Internal Revenue Notices listed in a table under [section 401 of this title][/us/usc/t26/s401].
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1] and Internal Revenue Notices listed in a table under [section 401 of this title][/us/usc/t26/s401].
 
  __Amendments__ 
 
@@ -449,7 +449,7 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 >     Except as provided by paragraphs (2) and (3), the amendments made by this section \[amending this section and [section 530 of this title][/us/usc/t26/s530]\] shall apply with respect to deaths from injuries occurring on or after the date of the enactment of this Act \[June 17, 2008\].
 
->     “(2) __Application of amendments to deaths from injuries occurring on or after october 7, 2001, and before enactment.—__ 
+>     “(2) __Application of amendments to deaths from injuries occurring on or after__  __october 7, 2001__  __, and before enactment.—__ 
 
 >     The amendments made by this section shall apply to any contribution made pursuant to section 408A(e)(2) or 530(d)(5) of the Internal Revenue Code of 1986, as amended by this Act, with respect to amounts received under [section 1477 of title 10][/us/usc/t10/s1477], United States Code, or under [section 1967 of title 38][/us/usc/t38/s1967] of such Code, for deaths from injuries occurring on or after October 7, 2001, and before the date of the enactment of this Act if such contribution is made not later than 1 year after the date of the enactment of this Act.
 

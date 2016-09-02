@@ -243,7 +243,7 @@
 
             The Secretary shall prescribe such rules as may be necessary or appropriate to prevent avoidance of the purposes of this paragraph through the use of related persons.
 
-            \[(14) Repealed. [Pub. L. 101–508, title XI, § 11801(a)(23)][/us/pl/101/508/s11801/a/23], Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521].\]
+        \[(14) Repealed. [Pub. L. 101–508, title XI, § 11801(a)(23)][/us/pl/101/508/s11801/a/23], Nov. 5, 1990, [104 Stat. 1388–521][/us/stat/104/1388-521].\]
 
         (15)
 
@@ -567,7 +567,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
 
  __References in Text__ 
 

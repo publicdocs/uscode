@@ -15,7 +15,7 @@
 
 ## § 847. Special estimated tax payments
 
-In the case of taxable years beginning after December 31, 1987, of an insurance company required to discount unpaid losses (as defined in section 846)—
+    In the case of taxable years beginning after December 31, 1987, of an insurance company required to discount unpaid losses (as defined in section 846)—
 
     (1) __Additional deduction__ 
 

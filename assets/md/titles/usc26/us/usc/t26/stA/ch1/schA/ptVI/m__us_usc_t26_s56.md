@@ -289,7 +289,7 @@
 
                 (ii) a qualified dwelling used by the taxpayer (or any member of his family (within the meaning of section 267(c)(4))).
 
-        \[(f) Repealed. [Pub. L. 101–508, title XI, § 11801(a)(3)][/us/pl/101/508/s11801/a/3], Nov. 5, 1990, [104 Stat. 1388–520][/us/stat/104/1388-520]\]
+    \[(f) __Repealed.__  __[__  __Pub. L. 101–508, title XI, § 11801(a)(3)__  __][/us/pl/101/508/s11801/a/3]__  __,__  __Nov. 5, 1990__  __,__  __[__  __104 Stat. 1388–520__  __][/us/stat/104/1388-520]__  __\]__ 
 
     (g) __Adjustments based on adjusted current earnings__ 
 
@@ -1009,7 +1009,11 @@
 
 >                 “(ii) as of such date, such corporation is wholly owned (directly or indirectly) by a domestic corporation (determined without regard to any election under section 943(e));
 
->                 “(iii) for each of the 3 taxable years preceding the first taxable year to which the election under section 943(e) by such controlled foreign corporation applies—         “(I) all of the gross income of such corporation is subpart F income (as defined in section 952), including by reason of section 954(b)(3)(B); and
+>                 “(iii)
+
+>                  for each of the 3 taxable years preceding the first taxable year to which the election under section 943(e) by such controlled foreign corporation applies—
+
+>                          “(I) all of the gross income of such corporation is subpart F income (as defined in section 952), including by reason of section 954(b)(3)(B); and
 
 >                          “(II) in the ordinary course of such corporation’s trade or business, such corporation regularly sold (or paid commissions) to a FSC which on September 30, 2000, was a related person to such corporation;
 
@@ -1103,7 +1107,7 @@
 
 >     The amendment made by subsection (b) \[amending this section\] shall apply to taxable years beginning on or after September 30, 1990, except that, in the case of a small insurance company, such amendment shall apply to taxable years beginning after December 31, 1989. For purposes of this paragraph, the term ‘small insurance company’ means any insurance company which meets the requirements of section 806(a)(3) of the Internal Revenue Code of 1986; except that paragraph (2) of section 806(c) of such Code shall not apply.
 
->     “(B) __Special rules for year which includes september 30, 1990.—__ 
+>     “(B) __Special rules for year which includes__  __september 30, 1990__  __.—__ 
 
 >     In the case of any taxable year which includes September 30, 1990, the amount of acquisition expenses which is required to be capitalized under section 56(g)(4)(F) of the Internal Revenue Code of 1986 (as in effect before the amendment made by subsection (b)) by a company which is not a small insurance company shall be the amount which bears the same ratio to the amount which (but for this subparagraph) would be so required to be capitalized as the number of days in such taxable year before September 30, 1990, bears to the total number of days in such taxable year. A similar reduction shall be made in the amount amortized for such taxable year under such section 56(g)(4)(F).”
 

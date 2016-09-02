@@ -15,7 +15,7 @@
 
 ## § 4373. Exemptions
 
-The tax imposed by section 4371 shall not apply to—
+    The tax imposed by section 4371 shall not apply to—
 
     (1) __Effectively connected items__ 
 

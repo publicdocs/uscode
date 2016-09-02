@@ -971,21 +971,31 @@
 
 >     “(a) __For Section 2 (Relating to Tax Treatment of Discharge of Indebtedness).—__ 
 
->         “(1) __In general.—Except as provided in paragraph (2), the amendments made by section 2 \[amending this section and sections 111, 118, 382, 703 and 1017 of this title\] shall apply to any transaction which occurs after__  __December 31, 1980__  __, other than a transaction which occurs in a proceeding in a bankruptcy case or similar judicial proceeding (or in a proceeding under the Bankruptcy Act) \[Title 11, Bankruptcy\] commencing on or before__  __December 31, 1980__  __.__ 
+>         “(1) __In general.—__ 
 
->         “(2) __Transitional rule.—In the case of any discharge of indebtedness to which subparagraph (A) or (B) of section 108(a)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to exclusion from gross income), as amended by section 2, applies and which occurs before__  __January 1, 1982__  __, or which occurs in a proceeding in a bankruptcy case or similar judicial proceedings commencing before__  __January 1, 1982__  __, then—__ 
+>         Except as provided in paragraph (2), the amendments made by section 2 \[amending this section and sections 111, 118, 382, 703 and 1017 of this title\] shall apply to any transaction which occurs after December 31, 1980, other than a transaction which occurs in a proceeding in a bankruptcy case or similar judicial proceeding (or in a proceeding under the Bankruptcy Act) \[Title 11, Bankruptcy\] commencing on or before December 31, 1980.
+
+>         “(2) __Transitional rule.—__ 
+
+>         In the case of any discharge of indebtedness to which subparagraph (A) or (B) of section 108(a)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to exclusion from gross income), as amended by section 2, applies and which occurs before January 1, 1982, or which occurs in a proceeding in a bankruptcy case or similar judicial proceedings commencing before January 1, 1982, then—
 
 >             “(A) section 108(b)(2) of the such Code (relating to reduction of tax attributes), as so amended, shall be applied without regard to subparagraphs (A), (B), (C), and (E) thereof, and
 
 >             “(B) the basis of any property shall not be reduced under section 1017 of such Code (relating to reduction in basis in connection with discharges of indebtedness), as so amended, below the fair market value of such property on the date the debt is discharged.
 
->     “(b) __For Section 3 (Relating to Rules Relating to Title 11 Cases for Individuals).—The amendments made by section 3 \[enacting sections 1398 and 1399 of this title and amending sections 443, 6012 and 6103 of this title\] shall apply to any bankruptcy case commencing more than 90 days after the date of the enactment of this Act \[__  __Dec. 24, 1980__  __\].__ 
+>     “(b) __For Section 3 (Relating to Rules Relating to Title 11 Cases for Individuals).—__ 
+
+>     The amendments made by section 3 \[enacting sections 1398 and 1399 of this title and amending sections 443, 6012 and 6103 of this title\] shall apply to any bankruptcy case commencing more than 90 days after the date of the enactment of this Act \[Dec. 24, 1980\].
 
 >     “(c) __For Section 4 (Relating to Corporate Reorganization Provisions).—__ 
 
->         “(1) __In general.—The amendments made by section 4 \[enacting__  __[__  __section 370 of this title__  __][/us/usc/t26/s370]__  __and amending sections 354, 355, 357, 368 and 381 of this title\] shall apply to any bankruptcy case or similar judicial proceeding commencing after__  __December 31, 1980__  __.__ 
+>         “(1) __In general.—__ 
 
->         “(2) __Exchanges of property for accrued interest.—The amendments made by subsection (e) of section 4 \[amending sections 354 and 355 of this title\] (relating to treatment of property attributable to accrued interest) shall also apply to any exchange—__ 
+>         The amendments made by section 4 \[enacting [section 370 of this title][/us/usc/t26/s370] and amending sections 354, 355, 357, 368 and 381 of this title\] shall apply to any bankruptcy case or similar judicial proceeding commencing after December 31, 1980.
+
+>         “(2) __Exchanges of property for accrued interest.—__ 
+
+>         The amendments made by subsection (e) of section 4 \[amending sections 354 and 355 of this title\] (relating to treatment of property attributable to accrued interest) shall also apply to any exchange—
 
 >             “(A) which occurs after December 31, 1980, and
 
@@ -993,35 +1003,63 @@
 
 >     “(d) __For Section 5 (Relating to Miscellaneous Corporate Amendments).—__ 
 
->         “(1) __For subsection (a) (relating to exemption from personal holding company tax).—The amendments made by subsection (a) of section 5 \[amending__  __[__  __section 542 of this title__  __][/us/usc/t26/s542]__  __\] shall apply to any bankruptcy case or similar judicial proceeding commenced after__  __December 31, 1980__  __.__ 
+>         “(1) __For subsection (a) (relating to exemption from personal holding company tax).—__ 
 
->         “(2) __For subsection (b) (relating to repeal of special treatment for certain railroad redemptions).—The amendments made by subsection (b) of section 5 \[amending__  __[__  __section 302 of this title__  __][/us/usc/t26/s302]__  __\] shall apply to stock which is issued after__  __December 31, 1980__  __(other than stock issued pursuant to a plan of reorganization approved on or before that date).__ 
+>         The amendments made by subsection (a) of section 5 \[amending [section 542 of this title][/us/usc/t26/s542]\] shall apply to any bankruptcy case or similar judicial proceeding commenced after December 31, 1980.
 
->         “(3) __For subsection (c) (relating to application of 12-month liquidation rule).—The amendment made by subsection (c) of section 5 \[amending__  __[__  __section 337 of this title__  __][/us/usc/t26/s337]__  __\] shall apply to any bankruptcy case or similar judicial proceeding commenced after__  __December 31, 1980__  __.__ 
+>         “(2) __For subsection (b) (relating to repeal of special treatment for certain railroad redemptions).—__ 
 
->         “(4) __For subsection (d) (relating to permitting bankruptcy estate to be subchapter s shareholder).—The amendment made by subsection (d) of section 5 \[amending__  __[__  __section 1371 of this title__  __][/us/usc/t26/s1371]__  __\] shall apply to any bankruptcy case commenced on or after__  __October 1, 1979__  __.__ 
+>         The amendments made by subsection (b) of section 5 \[amending [section 302 of this title][/us/usc/t26/s302]\] shall apply to stock which is issued after December 31, 1980 (other than stock issued pursuant to a plan of reorganization approved on or before that date).
 
->         “(5) __For subsection (e) (relating to certain transfers to controlled corporations).—The amendments made by subsection (e) of section 5 \[amending__  __[__  __section 351 of this title__  __][/us/usc/t26/s351]__  __\] shall apply as provided in subsection (a) of this section.__ 
+>         “(3) __For subsection (c) (relating to application of 12-month liquidation rule).—__ 
 
->         “(6) __For subsection (f) (relating to effect of debt discharge on earnings and profits).—The amendment made by subsection (f) of section 5 \[amending__  __[__  __section 312 of this title__  __][/us/usc/t26/s312]__  __\] shall apply as provided in subsection (a) of this section.__ 
+>         The amendment made by subsection (c) of section 5 \[amending [section 337 of this title][/us/usc/t26/s337]\] shall apply to any bankruptcy case or similar judicial proceeding commenced after December 31, 1980.
 
->     “(e) __For Section 6 (Relating to Changes in Tax Procedures).—The amendments made by section 6 \[enacting sections 6658 and 7464 of this title, amending sections 128, 354, 422, 1023, 3302, 6012, 6036, 6155, 6161, 6212, 6213, 6216, 6326 \[now 6327\], 6404, 6503, 6512, 6532, 6871, 6872, 6873, 7430, and 7508 of this title, repealing__  __[__  __section 1018 of this title__  __][/us/usc/t26/s1018]__  __, and redesignating former__  __[__  __section 7464 of this title__  __][/us/usc/t26/s7464]__  __as 7465\] shall take effect on__  __October 1, 1979__  __, but shall not apply to any proceeding under the Bankruptcy Act \[Title 11\] commenced before__  __October 1, 1979__  __.__ 
+>         “(4) __For subsection (d) (relating to permitting bankruptcy estate to be subchapter s shareholder).—__ 
+
+>         The amendment made by subsection (d) of section 5 \[amending [section 1371 of this title][/us/usc/t26/s1371]\] shall apply to any bankruptcy case commenced on or after October 1, 1979.
+
+>         “(5) __For subsection (e) (relating to certain transfers to controlled corporations).—__ 
+
+>         The amendments made by subsection (e) of section 5 \[amending [section 351 of this title][/us/usc/t26/s351]\] shall apply as provided in subsection (a) of this section.
+
+>         “(6) __For subsection (f) (relating to effect of debt discharge on earnings and profits).—__ 
+
+>         The amendment made by subsection (f) of section 5 \[amending [section 312 of this title][/us/usc/t26/s312]\] shall apply as provided in subsection (a) of this section.
+
+>     “(e) __For Section 6 (Relating to Changes in Tax Procedures).—__ 
+
+>     The amendments made by section 6 \[enacting sections 6658 and 7464 of this title, amending sections 128, 354, 422, 1023, 3302, 6012, 6036, 6155, 6161, 6212, 6213, 6216, 6326 \[now 6327\], 6404, 6503, 6512, 6532, 6871, 6872, 6873, 7430, and 7508 of this title, repealing [section 1018 of this title][/us/usc/t26/s1018], and redesignating former [section 7464 of this title][/us/usc/t26/s7464] as 7465\] shall take effect on October 1, 1979, but shall not apply to any proceeding under the Bankruptcy Act \[Title 11\] commenced before October 1, 1979.
 
 >     “(f) __Election To Substitute__  __September 30, 1979__  __, for__  __December 31, 1980__  __.—__ 
 
->         “(1) __In general.—The debtor (or debtors) in a bankruptcy case or similar judicial proceeding may (with the approval of the court) elect to apply subsections (a), (c), and (d) by substituting ‘__  __September 30, 1979__  __’ for ‘__  __December 31, 1980__  __’ each place it appears in such subsections.__ 
+>         “(1) __In general.—__ 
 
->         “(2) __Effect of election.—Any election made under paragraph (1) with respect to any proceeding shall apply to all parties to the proceeding.__ 
+>         The debtor (or debtors) in a bankruptcy case or similar judicial proceeding may (with the approval of the court) elect to apply subsections (a), (c), and (d) by substituting ‘September 30, 1979’ for ‘December 31, 1980’ each place it appears in such subsections.
 
->         “(3) __Revocation only with consent.—Any election under this subsection may be revoked only with the consent of the Secretary of the Treasury or his delegate.__ 
+>         “(2) __Effect of election.—__ 
 
->         “(4) __Time and manner of election.—Any election under this subsection shall be made at such time, and in such manner, as the Secretary of the Treasury or his delegate may by regulations prescribe.__ 
+>         Any election made under paragraph (1) with respect to any proceeding shall apply to all parties to the proceeding.
 
->     “(g) __Definitions.—For purposes of this section—__ 
+>         “(3) __Revocation only with consent.—__ 
 
->         “(1) __Bankruptcy case.—The term ‘bankruptcy case’ means any case under title 11 of the United States Code (as recodified by__  __[__  __Public Law 95–598__  __][/us/pl/95/598]__  __).__ 
+>         Any election under this subsection may be revoked only with the consent of the Secretary of the Treasury or his delegate.
 
->         “(2) __Similar judicial proceeding.—The term ‘similar judicial proceeding’ means a receivership, foreclosure, or similar proceeding in a Federal or State court (as modified by section 368(a)(3)(D) of the Internal Revenue Code of 1986).”__ 
+>         “(4) __Time and manner of election.—__ 
+
+>         Any election under this subsection shall be made at such time, and in such manner, as the Secretary of the Treasury or his delegate may by regulations prescribe.
+
+>     “(g) __Definitions.—__ 
+
+>     For purposes of this section—
+
+>         “(1) __Bankruptcy case.—__ 
+
+>         The term ‘bankruptcy case’ means any case under title 11 of the United States Code (as recodified by [Public Law 95–598][/us/pl/95/598]).
+
+>         “(2) __Similar judicial proceeding.—__ 
+
+>         The term ‘similar judicial proceeding’ means a receivership, foreclosure, or similar proceeding in a Federal or State court (as modified by section 368(a)(3)(D) of the Internal Revenue Code of 1986).”
 
  __Effective Date of 1976 Amendment__ 
 

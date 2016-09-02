@@ -15,7 +15,7 @@
 
 ## § 6336. Sale of perishable goods
 
-If the Secretary determines that any property seized is liable to perish or become greatly reduced in price or value by keeping, or that such property cannot be kept without great expense, he shall appraise the value of such property and—
+    If the Secretary determines that any property seized is liable to perish or become greatly reduced in price or value by keeping, or that such property cannot be kept without great expense, he shall appraise the value of such property and—
 
     (1) __Return to owner__ 
 

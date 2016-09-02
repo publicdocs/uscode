@@ -83,7 +83,7 @@
 
             An election under paragraph (1), and any revocation of such an election, may be made only in such manner and at such time as the Secretary may by regulations prescribe.
 
-        \[(e) Repealed. [Pub. L. 99–514, title XII, § 1211(b)(5)][/us/pl/99/514/s1211/b/5], Oct. 22, 1986, [100 Stat. 2536][/us/stat/100/2536]\]
+    \[(e) __Repealed.__  __[__  __Pub. L. 99–514, title XII, § 1211(b)(5)__  __][/us/pl/99/514/s1211/b/5]__  __,__  __Oct. 22, 1986__  __,__  __[__  __100 Stat. 2536__  __][/us/stat/100/2536]__  __\]__ 
 
     (f) __Certain annuities received under qualified plans__ 
 

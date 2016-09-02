@@ -219,7 +219,9 @@
 
 [Pub. L. 98–369, div. A, title VIII, § 805(a)][/us/pl/98/369/s805/a], July 18, 1984, [98 Stat. 1000][/us/stat/98/1000], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], title XVIII, § 1876(i), (o), (p)(4), Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], 2900–2902, provided that:
 
->     “(1) __In general.—Except as provided in this subsection, the amendments made by this title \[enacting sections 921 to 927 of this title, amending this section and sections 246, 274, 275, 441, 901, 904, 906, 934, 936, 951, 956, 992, 993, 995, 996, 999, 1248, 6011, 6072, 6501, 6686, and 7651 of this title, and enacting provisions set out as notes under sections 921 and 991 of this title\] shall apply to transactions after__  __December 31, 1984__  __, in taxable years ending after such date.__ 
+>     “(1) __In general.—__ 
+
+>     Except as provided in this subsection, the amendments made by this title \[enacting sections 921 to 927 of this title, amending this section and sections 246, 274, 275, 441, 901, 904, 906, 934, 936, 951, 956, 992, 993, 995, 996, 999, 1248, 6011, 6072, 6501, 6686, and 7651 of this title, and enacting provisions set out as notes under sections 921 and 991 of this title\] shall apply to transactions after December 31, 1984, in taxable years ending after such date.
 
 >     “(2) __Special rule for certain contracts.—__ 
 

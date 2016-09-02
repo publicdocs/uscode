@@ -99,7 +99,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Revenue Rulings listed in a table below.
+    For inflation adjustment of certain items in this section, see Revenue Rulings listed in a table below.
 
  __References in Text__ 
 

@@ -59,7 +59,7 @@
 
             For purposes of applying paragraph (5) of section 401(a) with respect to an individual who is treated as an employee of a domestic parent corporation under subsection (a), the total compensation of such individual shall be the remuneration paid to such individual by the domestic subsidiary which would constitute his total compensation if his services had been performed for such domestic parent corporation, and the basic or regular rate of compensation of such individual shall be determined under regulations prescribed by the Secretary.
 
-        \[(c) Repealed. [Pub. L. 104–188, title I, § 1401(b)(8)][/us/pl/104/188/s1401/b/8], Aug. 20, 1996, [110 Stat. 1789][/us/stat/110/1789]\]
+    \[(c) __Repealed.__  __[__  __Pub. L. 104–188, title I, § 1401(b)(8)__  __][/us/pl/104/188/s1401/b/8]__  __,__  __Aug. 20, 1996__  __,__  __[__  __110 Stat. 1789__  __][/us/stat/110/1789]__  __\]__ 
 
     (d) __Deductibility of contributions__ 
 

@@ -11,16 +11,88 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stD/ch36/schF/m__us_usc_t26_s4495 to 4498.md) | [Next](./../../../../..//us/usc/t26/stD/ch37/m__us_usc_t26_s4501 to 4503.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch37)
+[Previous](./../../../../..//us/usc/t26/stD/ch36/schF/m__us_usc_t26_stD_ch36_schF.md) | [Next](./../../../../..//us/usc/t26/stD/ch38/m__us_usc_t26_stD_ch38.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch37)
 
 ### \[CHAPTER 37—REPEALED\]
 
+\[§§ 4501 to 4503. __Repealed.__  __[__  __Pub. L. 101–508, title XI, § 11801(a)(48)__  __][/us/pl/101/508/s11801/a/48]__  __,__  __Nov. 5, 1990__  __,__  __[__  __104 Stat. 1388–522__  __][/us/stat/104/1388-522]__  __\]__ 
+
+    Section 4501, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 533][/us/stat/68A/533]; [May 29, 1956, ch. 342, § 19][/us/act/1956-05-29/ch342/s19], [70 Stat. 221][/us/stat/70/221]; Sept. 2, 1958, [Pub. L. 85–859, title I, § 162(b)][/us/pl/85/859/s162/b], [72 Stat. 1306][/us/stat/72/1306]; July 6, 1960, [Pub. L. 86–592, § 2][/us/pl/86/592/s2], [74 Stat. 330][/us/stat/74/330]; Mar. 31, 1961, [Pub. L. 87–15, § 2(a)][/us/pl/87/15/s2/a], [75 Stat. 40][/us/stat/75/40]; May 24, 1962, [Pub. L. 87–456, title III, § 302(a)][/us/pl/87/456/s302/a], (b), [76 Stat. 77][/us/stat/76/77]; July 13, 1962, [Pub. L. 87–535, § 18(a)][/us/pl/87/535/s18/a], [76 Stat. 166][/us/stat/76/166]; Nov. 8, 1965, [Pub. L. 89–331, § 13][/us/pl/89/331/s13], [79 Stat. 1280][/us/stat/79/1280]; Oct. 14, 1971, [Pub. L. 92–138, § 18(b)][/us/pl/92/138/s18/b], [85 Stat. 390][/us/stat/85/390], related to imposition of tax upon sugar manufactured in United States.
+
+    Section 4502, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 534][/us/stat/68A/534]; [May 29, 1956, ch. 342, § 20][/us/act/1956-05-29/ch342/s20], [70 Stat. 221][/us/stat/70/221]; June 25, 1959, [Pub. L. 86–70, § 22(c)][/us/pl/86/70/s22/c], [73 Stat. 146][/us/stat/73/146]; July 12, 1960, [Pub. L. 86–624, § 18(f)][/us/pl/86/624/s18/f], [74 Stat. 416][/us/stat/74/416], provided for applicable definitions.
+
+    Section 4503, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 534][/us/stat/68A/534], related to exemption for sugar manufactured for home consumption.
+
+    Prior sections 4504 and 4511 to 4514 were repealed by [Pub. L. 87–456, title III, § 302(d)][/us/pl/87/456/s302/d], May 24, 1962, [76 Stat. 77][/us/stat/76/77], effective with respect to articles entered or withdrawn from warehouse, for consumption on or after Aug. 31, 1963, as provided by [section 501(a) of Pub. L. 87–456][/us/pl/87/456/s501/a].
+
+    Section 4504, acts [Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 535][/us/stat/68A/535]; [May 29, 1956, ch. 342, § 21(a)][/us/act/1956-05-29/ch342/s21/a], [70 Stat. 221][/us/stat/70/221], required the tax imposed by section 4501(b) to be levied, assessed, collected and paid in the same manner as a duty imposed by the Tariff Act of 1930.
+
+    Section 4511, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 536][/us/stat/68A/536], imposed a tax upon the processing of coconut oil, etc.
+
+    Section 4512, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 536][/us/stat/68A/536], defined “first domestic processing”.
+
+    Section 4513, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 536][/us/stat/68A/536], related to exemptions from the tax imposed.
+
+    Section 4514, [act Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 536][/us/stat/68A/536], set forth a cross-reference to subtitle F for administrative provisions.
+
+ __Savings Provision__ 
+
+    For provisions that nothing in repeal by [Pub. L. 101–508][/us/pl/101/508] be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see [section 11821(b) of Pub. L. 101–508][/us/pl/101/508/s11821/b], set out as a note under [section 45K of this title][/us/usc/t26/s45K].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stD/ch36/schF/m__us_usc_t26_s4495 to 4498.md) | [Next](./../../../../..//us/usc/t26/stD/ch37/m__us_usc_t26_s4501 to 4503.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch37)
+[Previous](./../../../../..//us/usc/t26/stD/ch36/schF/m__us_usc_t26_stD_ch36_schF.md) | [Next](./../../../../..//us/usc/t26/stD/ch38/m__us_usc_t26_stD_ch38.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch37)
 
 ----------
 ----------
 
+[/us/pl/101/508/s11801/a/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11801%2Fa%2F48
+[/us/stat/104/1388-522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-522
+[/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
+[/us/stat/68A/533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F533
+[/us/act/1956-05-29/ch342/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-29%2Fch342%2Fs19
+[/us/stat/70/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F221
+[/us/pl/85/859/s162/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F859%2Fs162%2Fb
+[/us/stat/72/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1306
+[/us/pl/86/592/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F592%2Fs2
+[/us/stat/74/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F330
+[/us/pl/87/15/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F15%2Fs2%2Fa
+[/us/stat/75/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F40
+[/us/pl/87/456/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs302%2Fa
+[/us/stat/76/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F77
+[/us/pl/87/535/s18/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F535%2Fs18%2Fa
+[/us/stat/76/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F166
+[/us/pl/89/331/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F331%2Fs13
+[/us/stat/79/1280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1280
+[/us/pl/92/138/s18/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F138%2Fs18%2Fb
+[/us/stat/85/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F390
+[/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
+[/us/stat/68A/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F534
+[/us/act/1956-05-29/ch342/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-29%2Fch342%2Fs20
+[/us/stat/70/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F221
+[/us/pl/86/70/s22/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs22%2Fc
+[/us/stat/73/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F146
+[/us/pl/86/624/s18/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F624%2Fs18%2Ff
+[/us/stat/74/416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F416
+[/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
+[/us/stat/68A/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F534
+[/us/pl/87/456/s302/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs302%2Fd
+[/us/stat/76/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F77
+[/us/pl/87/456/s501/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F456%2Fs501%2Fa
+[/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
+[/us/stat/68A/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F535
+[/us/act/1956-05-29/ch342/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-05-29%2Fch342%2Fs21%2Fa
+[/us/stat/70/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F221
+[/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
+[/us/stat/68A/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F536
+[/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
+[/us/stat/68A/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F536
+[/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
+[/us/stat/68A/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F536
+[/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
+[/us/stat/68A/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F536
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508/s11821/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs11821%2Fb
+[/us/usc/t26/s45K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs45K
 
 

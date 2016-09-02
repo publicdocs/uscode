@@ -15,7 +15,7 @@
 
 ## § 804. Life insurance deductions
 
-For purposes of this part, the term “life insurance deductions” means—
+    For purposes of this part, the term “life insurance deductions” means—
 
     (1) the general deductions provided in section 805, and
 

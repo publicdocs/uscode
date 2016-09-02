@@ -31,7 +31,7 @@
 
             (C) death, except that this paragraph does not apply to a payment for group-term life insurance to the extent that such payment is includible in the gross income of the employee;
 
-            \[(3) Repealed. [Pub. L. 98–21, title III, § 324(a)(3)(B)][/us/pl/98/21/s324/a/3/B], Apr. 20, 1983, [97 Stat. 123][/us/stat/97/123]\]
+        \[(3) Repealed. [Pub. L. 98–21, title III, § 324(a)(3)(B)][/us/pl/98/21/s324/a/3/B], Apr. 20, 1983, [97 Stat. 123][/us/stat/97/123]\]
 
         (4) any payment on account of sickness or accident disability, or medical or hospitalization expenses in connection with sickness or accident disability, made by an employer to, or on behalf of, an employee after the expiration of 6 calendar months following the last calendar month in which the employee worked for such employer;
 
@@ -89,7 +89,7 @@
 
                 except that clause (ii) shall not apply in determining whether remuneration paid to an employee constitutes “wages” under this section if such employee (I) is employed as a hand harvest laborer and is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (II) commutes daily from his permanent residence to the farm on which he is so employed, and (III) has been employed in agriculture less than 13 weeks during the preceding calendar year;
 
-                \[(9) Repealed. [Pub. L. 98–21, title III, § 324(a)(3)(B)][/us/pl/98/21/s324/a/3/B], Apr. 20, 1983, [97 Stat. 123][/us/stat/97/123]\]
+        \[(9) Repealed. [Pub. L. 98–21, title III, § 324(a)(3)(B)][/us/pl/98/21/s324/a/3/B], Apr. 20, 1983, [97 Stat. 123][/us/stat/97/123]\]
 
         (10) remuneration paid by an employer in any calendar year to an employee for service described in subsection (d)(3)(C) (relating to home workers), if the cash remuneration paid in such year by the employer to the employee for such service is less than $100;
 
@@ -517,7 +517,7 @@
 
                 (iii) a State and one or more of its political subdivisions.
 
-        \[(k) Repealed. [Pub. L. 98–21, title I, § 102(b)(2)][/us/pl/98/21/s102/b/2], Apr. 20, 1983, [97 Stat. 71][/us/stat/97/71]\]
+    \[(k) __Repealed.__  __[__  __Pub. L. 98–21, title I, § 102(b)(2)__  __][/us/pl/98/21/s102/b/2]__  __,__  __Apr. 20, 1983__  __,__  __[__  __97 Stat. 71__  __][/us/stat/97/71]__  __\]__ 
 
     (l) __Agreements entered into by American employers with respect to foreign affiliates__ 
 
@@ -673,7 +673,7 @@
 
                 (ii) the statutory period for the assessment of such tax shall not expire before the expiration of 3 years from such due date.
 
-                \[(4) Repealed. [Pub. L. 98–21, title I, § 102(b)(3)(B)][/us/pl/98/21/s102/b/3/B], Apr. 20, 1983, [97 Stat. 71][/us/stat/97/71]\]
+        \[(4) __Repealed.__  __[__  __Pub. L. 98–21, title I, § 102(b)(3)(B)__  __][/us/pl/98/21/s102/b/3/B]__  __,__  __Apr. 20, 1983__  __,__  __[__  __97 Stat. 71__  __][/us/stat/97/71]__  __\]__ 
 
     (s) __Concurrent employment by two or more employers__ 
 
@@ -2237,7 +2237,7 @@ For information regarding constitutionality of certain provisions of section 312
 
 >     “(2) the service so performed does not constitute employment (as defined in section 210(a) of the Social Security Act \[[42 U.S.C. 410(a)][/us/usc/t42/s410/a]\] and section 3121(b) of such Code) because the waiver certificate which the organization is deemed to have filed is made inapplicable to such service by section 3121(k)(4)(C) of such Code, but would constitute employment (as so defined) in the absence of such section 3121(k)(4)(C),
 
->         the remuneration paid for such service shall, upon the request of such individual (filed on or before April 15, 1980, in such manner and form, and with such official, as may be prescribed by regulations made under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\]) accompanied by full payment of all of the taxes which would have been paid under section 3101 of such Code with respect to such remuneration but for such section 3121(k)(4)(C) (or by satisfactory evidence that appropriate arrangements have been made for the payment of such taxes in installments as provided in section 3121(k)(8) of such Code), be deemed to constitute remuneration for employment as so defined. In any case where remuneration paid by an organization to an individual is deemed under the preceding sentence to constitute remuneration for employment, such organization shall be liable (notwithstanding any other provision of such Code) for payment of the taxes which it would have been required to pay under section 3111 of such Code with respect to such remuneration in the absence of such section 3121(k)(4)(C).”
+>     the remuneration paid for such service shall, upon the request of such individual (filed on or before April 15, 1980, in such manner and form, and with such official, as may be prescribed by regulations made under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\]) accompanied by full payment of all of the taxes which would have been paid under section 3101 of such Code with respect to such remuneration but for such section 3121(k)(4)(C) (or by satisfactory evidence that appropriate arrangements have been made for the payment of such taxes in installments as provided in section 3121(k)(8) of such Code), be deemed to constitute remuneration for employment as so defined. In any case where remuneration paid by an organization to an individual is deemed under the preceding sentence to constitute remuneration for employment, such organization shall be liable (notwithstanding any other provision of such Code) for payment of the taxes which it would have been required to pay under section 3111 of such Code with respect to such remuneration in the absence of such section 3121(k)(4)(C).”
 
  __Remuneration for Services Deemed To Constitute Employment; Services for Organizations Deemed To Have Filed Certificates Under Subsection (k)(5) of This Section__ 
 
@@ -2251,7 +2251,7 @@ For information regarding constitutionality of certain provisions of section 312
 
 >     “(3) any portion of such service (with respect to which taxes were paid and refunded or credited as described in paragraph (2)) would constitute employment (as so defined) if the organization had actually filed under section 3121(k)(1) of such Code a valid waiver certificate effective as provided in section 3121(k)(5)(B) thereof (with such individual’s signature appearing on the accompanying list),
 
->         the remuneration paid for the portion of such service described in paragraph (3) shall, upon the request of such individual (filed on or before April 15, 1980, in such manner and form, and with such official, as may be prescribed by regulations made under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\]) accompanied by full repayment of the taxes which were paid under section 3101 of such Code with respect to such remuneration and so refunded or credited (or by satisfactory evidence that appropriate arrangements have been made for the repayment of such taxes in installments as provided in section 3121(k)(8) of such Code), be deemed to constitute remuneration for employment as so defined. In any case where remuneration paid by an organization to an individual is deemed under the preceding sentence to constitute remuneration for employment, such organization shall be liable (notwithstanding any other provision of such Code) for repayment of any taxes which it paid under section 3111 of such Code with respect to such remuneration and which were refunded or credited to it.”
+>     the remuneration paid for the portion of such service described in paragraph (3) shall, upon the request of such individual (filed on or before April 15, 1980, in such manner and form, and with such official, as may be prescribed by regulations made under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\]) accompanied by full repayment of the taxes which were paid under section 3101 of such Code with respect to such remuneration and so refunded or credited (or by satisfactory evidence that appropriate arrangements have been made for the repayment of such taxes in installments as provided in section 3121(k)(8) of such Code), be deemed to constitute remuneration for employment as so defined. In any case where remuneration paid by an organization to an individual is deemed under the preceding sentence to constitute remuneration for employment, such organization shall be liable (notwithstanding any other provision of such Code) for repayment of any taxes which it paid under section 3111 of such Code with respect to such remuneration and which were refunded or credited to it.”
 
  __Service for Certain Tax-Exempt Organizations Prior to Filing of Waiver Certificate__ 
 

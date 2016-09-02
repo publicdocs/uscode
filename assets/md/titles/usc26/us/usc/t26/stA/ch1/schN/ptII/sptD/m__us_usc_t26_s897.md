@@ -193,7 +193,7 @@
 
             For purposes of this subsection, the term “nonrecognition provision” means any provision of this title for not recognizing gain or loss.
 
-        \[(f) Repealed. [Pub. L. 104–188, title I, § 1702(g)(2)][/us/pl/104/188/s1702/g/2], Aug. 20, 1996, [110 Stat. 1873][/us/stat/110/1873]\]
+    \[(f) __Repealed.__  __[__  __Pub. L. 104–188, title I, § 1702(g)(2)__  __][/us/pl/104/188/s1702/g/2]__  __,__  __Aug. 20, 1996__  __,__  __[__  __110 Stat. 1873__  __][/us/stat/110/1873]__  __\]__ 
 
     (g) __Special rule for sales of interest in partnerships, trusts, and estates__ 
 
@@ -511,9 +511,13 @@
 
 [Pub. L. 96–499, title XI, § 1125(a)][/us/pl/96/499/s1125/a], (b), Dec. 5, 1980, [94 Stat. 2690][/us/stat/94/2690], provided that:
 
->     “(a) __In general.—Except as provided in subsection (b), the amendments made by this subtitle \[subtitle C (§§ 1121–1125) of title XI of__  __[__  __Pub. L. 96–499__  __][/us/pl/96/499]__  __, enacting this section and provisions set out as notes under this section, and amending sections 861, 871, 882 of this title\] shall apply to dispositions after__  __June 18, 1980__  __.__ 
+>     “(a) __In general.—__ 
 
->     “(b) __Reporting.—The amendments made by section 1123 \[enacting__  __[__  __section 6039C of this title__  __][/us/usc/t26/s6039C]__  __and amending__  __[__  __section 6652 of this title__  __][/us/usc/t26/s6652]__  __\] shall apply to 1980 and subsequent calendar years. In applying such amendments to 1980, such calendar year shall be treated as beginning on__  __June 19, 1980__  __, and ending on__  __December 31, 1980__  __.”__ 
+>     Except as provided in subsection (b), the amendments made by this subtitle \[subtitle C (§§ 1121–1125) of title XI of [Pub. L. 96–499][/us/pl/96/499], enacting this section and provisions set out as notes under this section, and amending sections 861, 871, 882 of this title\] shall apply to dispositions after June 18, 1980.
+
+>     “(b) __Reporting.—__ 
+
+>     The amendments made by section 1123 \[enacting [section 6039C of this title][/us/usc/t26/s6039C] and amending [section 6652 of this title][/us/usc/t26/s6652]\] shall apply to 1980 and subsequent calendar years. In applying such amendments to 1980, such calendar year shall be treated as beginning on June 19, 1980, and ending on December 31, 1980.”
 
  __Savings Provision__ 
 
@@ -563,9 +567,13 @@
 
 [Pub. L. 96–499, title XI, § 1125(c)][/us/pl/96/499/s1125/c], Dec. 5, 1980, [94 Stat. 2690][/us/stat/94/2690], as amended by [Pub. L. 97–34, title VIII, § 831(h)][/us/pl/97/34/s831/h], Aug. 13, 1981, [95 Stat. 355][/us/stat/95/355]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—Except as provided in paragraph (2), after__  __December 31, 1984__  __, nothing in section 894(a) or 7852(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] or in any other provision of law shall be treated as requiring, by reason of any treaty obligation of the United States, an exemption from (or reduction of) any tax imposed by section 871 or 882 of such Code on a gain described in section 897 of such Code.__ 
+>     “(1) __In general.—__ 
 
->     “(2) __Special rule for treaties renegotiated before 1985.—If—__ 
+>     Except as provided in paragraph (2), after December 31, 1984, nothing in section 894(a) or 7852(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] or in any other provision of law shall be treated as requiring, by reason of any treaty obligation of the United States, an exemption from (or reduction of) any tax imposed by section 871 or 882 of such Code on a gain described in section 897 of such Code.
+
+>     “(2) __Special rule for treaties renegotiated before 1985.—__ 
+
+>     If—
 
 >         “(A) any treaty (hereinafter in this paragraph referred to as the ‘old treaty’) is renegotiated to resolve conflicts between such treaty and the provisions of section 897 of the Internal Revenue Code of 1986, and
 
@@ -577,9 +585,13 @@
 
 [Pub. L. 96–499, title XI, § 1125(d)][/us/pl/96/499/s1125/d], Dec. 5, 1980, [94 Stat. 2691][/us/stat/94/2691], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—In the case of any disposition after__  __December 31, 1979__  __, of a United States real property interest (as defined in section 897(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) to a related person (within the meaning of section 453(f)(1) of such Code), the basis of the interest in the hands of the person acquiring it shall be reduced by the amount of any nontaxed gain.__ 
+>     “(1) __In general.—__ 
 
->     “(2) __Nontaxed gain.—For purposes of paragraph (1), the term ‘nontaxed gain’ means any gain which is not subject to tax under section 871(b)(1) or 882(a)(1) of such Code—__ 
+>     In the case of any disposition after December 31, 1979, of a United States real property interest (as defined in section 897(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) to a related person (within the meaning of section 453(f)(1) of such Code), the basis of the interest in the hands of the person acquiring it shall be reduced by the amount of any nontaxed gain.
+
+>     “(2) __Nontaxed gain.—__ 
+
+>     For purposes of paragraph (1), the term ‘nontaxed gain’ means any gain which is not subject to tax under section 871(b)(1) or 882(a)(1) of such Code—
 
 >         “(A) because the disposition occurred before June 19, 1980, or
 

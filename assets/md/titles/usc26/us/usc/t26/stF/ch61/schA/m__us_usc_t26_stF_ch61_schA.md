@@ -87,9 +87,15 @@
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     1966—[Pub. L. 89–809, title III, § 302(b)][/us/pl/89/809/s302/b], Nov. 13, 1966, [80 Stat. 1588][/us/stat/80/1588], added item VIII.
 

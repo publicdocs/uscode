@@ -15,7 +15,7 @@
 
 ## § 6808. Special provisions relating to stamps
 
-For special provisions on stamps relating to—
+    For special provisions on stamps relating to—
 
     (1) Distilled spirits and fermented liquors, see chapter 51.
 

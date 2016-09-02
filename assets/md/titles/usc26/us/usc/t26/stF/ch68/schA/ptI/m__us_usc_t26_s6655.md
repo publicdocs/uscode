@@ -985,7 +985,7 @@
 
 >     “(2) the corporation does not elect to have the provisions of such subparagraph apply for such taxable year because this Act does not contain the amendments made by section 804(a)(2) (relating to flowthrough of investment credit), or the provisions of subsection (f) of such section (relating to grace period for certain plan transfers), of the bill H.R. 10612 (94th Congress, 2d Session), as amended by the Senate,
 
->         then the provisions of section 6655 of such Code (relating to failure by corporation to pay estimated income tax) shall not apply to so much of any such underpayment as the corporation can establish, to the satisfaction of the Secretary of the Treasury, is properly attributable to the inapplicability of such subparagraph (B) for such taxable year.”
+>     then the provisions of section 6655 of such Code (relating to failure by corporation to pay estimated income tax) shall not apply to so much of any such underpayment as the corporation can establish, to the satisfaction of the Secretary of the Treasury, is properly attributable to the inapplicability of such subparagraph (B) for such taxable year.”
 
  __Declaration of Estimated Tax__ 
 

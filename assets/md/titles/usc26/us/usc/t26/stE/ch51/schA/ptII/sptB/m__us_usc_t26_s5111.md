@@ -55,7 +55,7 @@
 
 >     The amendments made by this section \[enacting sections 5081, 5276, and 5731 of this title and amending this section and sections 5091, 5121, 5131, 5691, and 5801 of this title\] shall take effect on January 1, 1988.
 
->     “(2) __All taxpayers treated as commencing in business on january 1, 1988.—__ 
+>     “(2) __All taxpayers treated as commencing in business on__  __january 1, 1988__  __.—__ 
 
 >         “(A) __In general.—__ 
 

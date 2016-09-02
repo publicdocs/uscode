@@ -655,7 +655,7 @@
 
 >             “(B) ending on or before June 2, 2010.
 
->         “(2) __Transition rule for individuals remaining entitled to regular compensation as of june 2, 2010.—__ 
+>         “(2) __Transition rule for individuals remaining entitled to regular compensation as of__  __june 2, 2010__  __.—__ 
 
 >         In the case of any individual who, as of the date specified in paragraph (1)(B), has not yet exhausted all rights to regular compensation under the State law of a State with respect to a benefit year that began before such date, additional compensation (as described in subsection (b)(1)) shall continue to be payable to such individual for any week beginning on or after such date for which the individual is otherwise eligible for regular compensation with respect to such benefit year.
 
@@ -807,429 +807,591 @@
 
 [Pub. L. 110–252, title IV][/us/pl/110/252], June 30, 2008, [122 Stat. 2353][/us/stat/122/2353], as amended by [Pub. L. 110–449][/us/pl/110/449], §§ 2–4, Nov. 21, 2008, [122 Stat. 5014][/us/stat/122/5014], 5015; [Pub. L. 111–5, div. B, title II, § 2001][/us/pl/111/5/s2001], Feb. 17, 2009, [123 Stat. 436][/us/stat/123/436]; [Pub. L. 111–92][/us/pl/111/92], §§ 2(a), 3(a), (b), 4(a), (b), 5, 6, Nov. 6, 2009, [123 Stat. 2984–2987][/us/stat/123/2984-2987]; [Pub. L. 111–118, div. B, § 1009(a)(1)][/us/pl/111/118/s1009/a/1], (b), Dec. 19, 2009, [123 Stat. 3471][/us/stat/123/3471]; [Pub. L. 111–144, § 2(a)(1)][/us/pl/111/144/s2/a/1], (b), Mar. 2, 2010, [124 Stat. 42][/us/stat/124/42]; [Pub. L. 111–157, § 2(a)(1)][/us/pl/111/157/s2/a/1], (b), Apr. 15, 2010, [124 Stat. 1116][/us/stat/124/1116]; [Pub. L. 111–205][/us/pl/111/205], §§ 2(a)(1), (b), (c), 3(a), 4, July 22, 2010, [124 Stat. 2236–2238][/us/stat/124/2236-2238]; [Pub. L. 111–312, title V, § 501(a)(1)][/us/pl/111/312/s501/a/1], (b), Dec. 17, 2010, [124 Stat. 3307][/us/stat/124/3307]; [Pub. L. 112–78, title II, § 201(a)(1)][/us/pl/112/78/s201/a/1], (b), Dec. 23, 2011, [125 Stat. 1282][/us/stat/125/1282], 1283; [Pub. L. 112–96, title II][/us/pl/112/96], §§ 2122(a)–(e), 2141, 2142(a), (c), 2143, 2181(b), Feb. 22, 2012, [126 Stat. 163–166][/us/stat/126/163-166], 168–170, 180; [Pub. L. 112–240, title V][/us/pl/112/240], §§ 501(a), (b), 503(a), Jan. 2, 2013, [126 Stat. 2343][/us/stat/126/2343], 2344, provided that:
 
- __“__  __federal-state agreements__ 
+>  __“__  __federal-state agreements__ 
 
-    “Sec. 4001. (a) In General.—Any State which desires to do so may enter into and participate in an agreement under this title with the Secretary of Labor (in this title referred to as the ‘Secretary’). Any State which is a party to an agreement under this title may, upon providing 30 days’ written notice to the Secretary, terminate such agreement.
+> “Sec. 4001.
 
-    “(b) Provisions of Agreement.—Any agreement under subsection (a) shall provide that the State agency of the State will make payments of emergency unemployment compensation to individuals who—
+>      (a) __In General.—__ 
 
-    “(1) have exhausted all rights to regular compensation under the State law or under Federal law with respect to a benefit year (excluding any benefit year that ended before May 1, 2007);
+>     Any State which desires to do so may enter into and participate in an agreement under this title with the Secretary of Labor (in this title referred to as the ‘Secretary’). Any State which is a party to an agreement under this title may, upon providing 30 days’ written notice to the Secretary, terminate such agreement.
 
-    “(2) have no rights to regular compensation with respect to a week under such law or any other State unemployment compensation law or to compensation under any other Federal law;
+>     “(b) __Provisions of Agreement.—__ 
 
-    “(3) are not receiving compensation with respect to such week under the unemployment compensation law of Canada; and
+>     Any agreement under subsection (a) shall provide that the State agency of the State will make payments of emergency unemployment compensation to individuals who—
 
-    “(4) are able to work, available to work, and actively seeking work.
+>         “(1) have exhausted all rights to regular compensation under the State law or under Federal law with respect to a benefit year (excluding any benefit year that ended before May 1, 2007);
 
-    “(c) Exhaustion of Benefits.—For purposes of subsection (b)(1), an individual shall be deemed to have exhausted such individual’s rights to regular compensation under a State law when—
+>         “(2) have no rights to regular compensation with respect to a week under such law or any other State unemployment compensation law or to compensation under any other Federal law;
 
-    “(1) no payments of regular compensation can be made under such law because such individual has received all regular compensation available to such individual based on employment or wages during such individual’s base period; or
+>         “(3) are not receiving compensation with respect to such week under the unemployment compensation law of Canada; and
 
-    “(2) such individual’s rights to such compensation have been terminated by reason of the expiration of the benefit year with respect to which such rights existed.
+>         “(4) are able to work, available to work, and actively seeking work.
 
-    “(d) Weekly Benefit Amount, Etc.—For purposes of any agreement under this title—
+>     “(c) __Exhaustion of Benefits.—__ 
 
-    “(1) the amount of emergency unemployment compensation which shall be payable to any individual for any week of total unemployment shall be equal to the amount of the regular compensation (including dependents’ allowances) payable to such individual during such individual’s benefit year under the State law for a week of total unemployment;
+>     For purposes of subsection (b)(1), an individual shall be deemed to have exhausted such individual’s rights to regular compensation under a State law when—
 
-    “(2) the terms and conditions of the State law which apply to claims for regular compensation and to the payment thereof (including terms and conditions relating to availability for work, active search for work, and refusal to accept work) shall apply to claims for emergency unemployment compensation and the payment thereof, except—
+>         “(1) no payments of regular compensation can be made under such law because such individual has received all regular compensation available to such individual based on employment or wages during such individual’s base period; or
 
-    “(A) that an individual shall not be eligible for emergency unemployment compensation under this title unless, in the base period with respect to which the individual exhausted all rights to regular compensation under the State law, the individual had 20 weeks of full-time insured employment or the equivalent in insured wages, as determined under the provisions of the State law implementing section 202(a)(5) of the Federal-State Extended Unemployment Compensation Act of 1970 \[[Pub. L. 91–373][/us/pl/91/373]\] ([26 U.S.C. 3304][/us/usc/t26/s3304] note); and
+>         “(2) such individual’s rights to such compensation have been terminated by reason of the expiration of the benefit year with respect to which such rights existed.
 
-    “(B) where otherwise inconsistent with the provisions of this title or with the regulations or operating instructions of the Secretary promulgated to carry out this title; and
+>     “(d) __Weekly Benefit Amount, Etc.—__ 
 
-    “(3) the maximum amount of emergency unemployment compensation payable to any individual for whom an emergency unemployment compensation account is established under section 4002 shall not exceed the amount established in such account for such individual.
+>     For purposes of any agreement under this title—
 
-    “(e) Coordination Rule.—An agreement under this section shall apply with respect to a State only upon a determination by the Secretary that, under the State law or other applicable rules of such State, the payment of extended compensation for which an individual is otherwise eligible must be deferred until after the payment of any emergency unemployment compensation under section 4002, as amended by the Unemployment Benefits Extension Act of 2012 \[subtitle B of title II of [Pub. L. 112–96][/us/pl/112/96]\], for which the individual is concurrently eligible.
+>         “(1) the amount of emergency unemployment compensation which shall be payable to any individual for any week of total unemployment shall be equal to the amount of the regular compensation (including dependents’ allowances) payable to such individual during such individual’s benefit year under the State law for a week of total unemployment;
 
-    “(f) Unauthorized Aliens Ineligible.—A State shall require as a condition of eligibility for emergency unemployment compensation under this Act \[probably means “this title”\] that each alien who receives such compensation must be legally authorized to work in the United States, as defined for purposes of the Federal Unemployment Tax Act ([26 U.S.C. 3301][/us/usc/t26/s3301] et seq.). In determining whether an alien meets the requirements of this subsection, a State must follow the procedures provided in section 1137(d) of the Social Security Act ([42 U.S.C. 1320b–7(d)][/us/usc/t42/s1320b–7/d]).
+>         “(2)
 
-    “(g) Nonreduction Rule.—An agreement under this section shall not apply (or shall cease to apply) with respect to a State upon a determination by the Secretary that the method governing the computation of regular compensation under the State law of that State has been modified in a manner such that—
+>          the terms and conditions of the State law which apply to claims for regular compensation and to the payment thereof (including terms and conditions relating to availability for work, active search for work, and refusal to accept work) shall apply to claims for emergency unemployment compensation and the payment thereof, except—
 
-    “(1) the average weekly benefit amount of regular compensation which will be payable during the period of the agreement occurring on or after June 2, 2010 (determined disregarding any additional amounts attributable to the modification described in section 2002(b)(1) of the Assistance for Unemployed Workers and Struggling Families Act, as contained in [Public Law 111–5][/us/pl/111/5] ([26 U.S.C. 3304][/us/usc/t26/s3304] note; [123 Stat. 438][/us/stat/123/438])), will be less than
+>             “(A) that an individual shall not be eligible for emergency unemployment compensation under this title unless, in the base period with respect to which the individual exhausted all rights to regular compensation under the State law, the individual had 20 weeks of full-time insured employment or the equivalent in insured wages, as determined under the provisions of the State law implementing section 202(a)(5) of the Federal-State Extended Unemployment Compensation Act of 1970 \[[Pub. L. 91–373][/us/pl/91/373]\] ([26 U.S.C. 3304][/us/usc/t26/s3304] note); and
 
-    “(2) the average weekly benefit amount of regular compensation which would otherwise have been payable during such period under the State law, as in effect on June 2, 2010.
+>             “(B) where otherwise inconsistent with the provisions of this title or with the regulations or operating instructions of the Secretary promulgated to carry out this title; and
 
-    “(h) Actively Seeking Work.—
+>         “(3) the maximum amount of emergency unemployment compensation payable to any individual for whom an emergency unemployment compensation account is established under section 4002 shall not exceed the amount established in such account for such individual.
 
-    “(1) In general.—For purposes of subsection (b)(4), the term ‘actively seeking work’ means, with respect to any individual, that such individual—
+>     “(e) __Coordination Rule.—__ 
 
-    “(A) is registered for employment services in such a manner and to such extent as prescribed by the State agency;
+>     An agreement under this section shall apply with respect to a State only upon a determination by the Secretary that, under the State law or other applicable rules of such State, the payment of extended compensation for which an individual is otherwise eligible must be deferred until after the payment of any emergency unemployment compensation under section 4002, as amended by the Unemployment Benefits Extension Act of 2012 \[subtitle B of title II of [Pub. L. 112–96][/us/pl/112/96]\], for which the individual is concurrently eligible.
 
-    “(B) has engaged in an active search for employment that is appropriate in light of the employment available in the labor market, the individual’s skills and capabilities, and includes a number of employer contacts that is consistent with the standards communicated to the individual by the State;
+>     “(f) __Unauthorized Aliens Ineligible.—__ 
 
-    “(C) has maintained a record of such work search, including employers contacted, method of contact, and date contacted; and
+>     A State shall require as a condition of eligibility for emergency unemployment compensation under this Act \[probably means “this title”\] that each alien who receives such compensation must be legally authorized to work in the United States, as defined for purposes of the Federal Unemployment Tax Act ([26 U.S.C. 3301][/us/usc/t26/s3301] et seq.). In determining whether an alien meets the requirements of this subsection, a State must follow the procedures provided in section 1137(d) of the Social Security Act ([42 U.S.C. 1320b–7(d)][/us/usc/t42/s1320b–7/d]).
 
-    “(D) when requested, has provided such work search record to the State agency.
+>     “(g) __Nonreduction Rule.—__ 
 
-    “(2) Random auditing.—The Secretary shall establish for each State a minimum number of claims for which work search records must be audited on a random basis in any given week.
+>     An agreement under this section shall not apply (or shall cease to apply) with respect to a State upon a determination by the Secretary that the method governing the computation of regular compensation under the State law of that State has been modified in a manner such that—
 
-    “(i) Provision of Services and Activities.—
+>         “(1) the average weekly benefit amount of regular compensation which will be payable during the period of the agreement occurring on or after June 2, 2010 (determined disregarding any additional amounts attributable to the modification described in section 2002(b)(1) of the Assistance for Unemployed Workers and Struggling Families Act, as contained in [Public Law 111–5][/us/pl/111/5] ([26 U.S.C. 3304][/us/usc/t26/s3304] note; [123 Stat. 438][/us/stat/123/438])), will be less than
 
-    “(1) In general.—An agreement under this section shall require the following:
+>         “(2) the average weekly benefit amount of regular compensation which would otherwise have been payable during such period under the State law, as in effect on June 2, 2010.
 
-    “(A) The State which is party to such agreement shall provide reemployment services and reemployment and eligibility assessment activities to each individual—
+>     “(h) __Actively Seeking Work.—__ 
 
-    “(i) who, on or after the 30th day after the date of enactment of the Extended Benefits, Reemployment, and Program Integrity Improvement Act \[Feb. 22, 2012\], begins receiving amounts described in subsections (b) and (c); and
+>         “(1) __In general.—__ 
 
-    “(ii) while such individual continues to receive emergency unemployment compensation under this title.
+>         For purposes of subsection (b)(4), the term ‘actively seeking work’ means, with respect to any individual, that such individual—
 
-    “(B) As a condition of eligibility for emergency unemployment compensation for any week—
+>             “(A) is registered for employment services in such a manner and to such extent as prescribed by the State agency;
 
-    “(i) a claimant who has been duly referred to reemployment services shall participate in such services; and
+>             “(B) has engaged in an active search for employment that is appropriate in light of the employment available in the labor market, the individual’s skills and capabilities, and includes a number of employer contacts that is consistent with the standards communicated to the individual by the State;
 
-    “(ii) a claimant shall be actively seeking work (determined applying subsection (i) \[probably means subsection (h)\]).
+>             “(C) has maintained a record of such work search, including employers contacted, method of contact, and date contacted; and
 
-    “(2) Description of services and activities.—The reemployment services and in-person reemployment and eligibility assessment activities provided to individuals receiving emergency unemployment compensation described in paragraph (1)—
+>             “(D) when requested, has provided such work search record to the State agency.
 
-    “(A) shall include—
+>         “(2) __Random auditing.—__ 
 
-    “(i) the provision of labor market and career information;
+>         The Secretary shall establish for each State a minimum number of claims for which work search records must be audited on a random basis in any given week.
 
-    “(ii) an assessment of the skills of the individual;
+>     “(i) __Provision of Services and Activities.—__ 
 
-    “(iii) orientation to the services available through the one-stop centers established under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\]; and
+>         “(1) __In general.—__ 
 
-    “(iv) review of the eligibility of the individual for emergency unemployment compensation relating to the job search activities of the individual; and
+>         An agreement under this section shall require the following:
 
-    “(B) may include the provision of—
+>             “(A)
 
-    “(i) comprehensive and specialized assessments;
+>              The State which is party to such agreement shall provide reemployment services and reemployment and eligibility assessment activities to each individual—
 
-    “(ii) individual and group career counseling;
+>                 “(i) who, on or after the 30th day after the date of enactment of the Extended Benefits, Reemployment, and Program Integrity Improvement Act \[Feb. 22, 2012\], begins receiving amounts described in subsections (b) and (c); and
 
-    “(iii) training services;
+>                 “(ii) while such individual continues to receive emergency unemployment compensation under this title.
 
-    “(iv) additional reemployment services; and
+>             “(B)
 
-    “(v) job search counseling and the development or review of an individual reemployment plan that includes participation in job search activities and appropriate workshops.
+>              As a condition of eligibility for emergency unemployment compensation for any week—
 
-    “(3) Participation requirement.—As a condition of continuing eligibility for emergency unemployment compensation for any week, an individual who has been referred to reemployment services or reemployment and eligibility assessment activities under this subsection shall participate in such services or activities, unless the State agency responsible for the administration of State unemployment compensation law determines that—
+>                 “(i) a claimant who has been duly referred to reemployment services shall participate in such services; and
 
-    “(A) such individual has completed participating in such services or activities; or
+>                 “(ii) a claimant shall be actively seeking work (determined applying subsection (i) \[probably means subsection (h)\]).
 
-    “(B) there is justifiable cause for failure to participate or to complete participating in such services or activities, as determined in accordance with guidance to be issued by the Secretary.
+>         “(2) __Description of services and activities.—__ 
 
-    “(j) Authority to Conduct Self-employment Assistance Program.—
+>         The reemployment services and in-person reemployment and eligibility assessment activities provided to individuals receiving emergency unemployment compensation described in paragraph (1)—
 
-    “(1) In general.—
+>             “(A)
 
-    “(A) Establishment.—Any agreement under subsection (a) may provide that the State agency of the State shall establish a self-employment assistance program, as described in paragraph (2), to provide for the payment of emergency unemployment compensation as self-employment assistance allowances to individuals who would otherwise satisfy the eligibility criteria specified in subsection (b).
+>              shall include—
 
-    “(B) Payment of allowances.—Subject to subparagraph (C), the self-employment assistance allowance described in subparagraph (A) shall be paid to an eligible individual from such individual’s emergency unemployment compensation account, as described in section 4002, and the amount in such account shall be reduced accordingly.
+>                 “(i) the provision of labor market and career information;
 
-    “(C) Limitation on self-employment assistance for individuals receiving extended compensation and emergency unemployment compensation.—
+>                 “(ii) an assessment of the skills of the individual;
 
-    “(i) Combined eligibility limit.—Subject to clause (ii), for purposes of self-employment assistance programs established under this subsection and section 208 of the Federal-State Extended Unemployment Compensation Act of 1970 \[[Pub. L. 91–373][/us/pl/91/373], set out below\], an individual shall be provided with self-employment assistance allowances under such programs for a total of not greater than 26 weeks (referred to in this subsection as the ‘combined eligibility limit’).
+>                 “(iii) orientation to the services available through the one-stop centers established under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\]; and
 
-    “(ii) Carryover rule.—For purposes of an individual who is participating in a self-employment assistance program established under this subsection and has not reached the combined eligibility limit as of the date on which such individual exhausts all rights to extended compensation under this title, the individual shall be eligible to receive self-employment assistance allowances under a self-employment assistance program established under section 208 of the Federal-State Extended Unemployment Compensation Act of 1970 until such individual has reached the combined eligibility limit, provided that the individual otherwise satisfies the eligibility criteria described under title II of such Act \[probably means title II of [Pub. L. 91–373][/us/pl/91/373], set out below\].
+>                 “(iv) review of the eligibility of the individual for emergency unemployment compensation relating to the job search activities of the individual; and
 
-    “(2) Definition of ‘self-employment assistance program’.—For the purposes of this section, the term ‘self-employment assistance program’ means a program as defined under section 3306(t) of the Internal Revenue Code of 1986, except as follows:
+>             “(B)
 
-    “(A) all references to ‘regular unemployment compensation under the State law’ shall be deemed to refer instead to ‘emergency unemployment compensation under title IV of the Supplemental Appropriations Act, 2008’ \[this note\];
+>              may include the provision of—
 
-    “(B) paragraph (3)(B) shall not apply;
+>                 “(i) comprehensive and specialized assessments;
 
-    “(C) clause (i) of paragraph (3)(C) shall be deemed to state as follows:
+>                 “(ii) individual and group career counseling;
 
-    “ ‘(i) include any entrepreneurial training that the State or non-profit organizations may provide in coordination with programs of training offered by the Small Business Administration, which may include business counseling, mentorship for participants, access to small business development resources, and technical assistance; and’;
+>                 “(iii) training services;
 
-    “(D) the reference to ‘5 percent’ in paragraph (4) shall be deemed to refer instead to ‘1 percent’; and
+>                 “(iv) additional reemployment services; and
 
-    “(E) paragraph (5) shall not apply.
+>                 “(v) job search counseling and the development or review of an individual reemployment plan that includes participation in job search activities and appropriate workshops.
 
-    “(3) Availability of self-employment assistance allowances.—In the case of an individual who is eligible to receive emergency unemployment compensation payment under this title, such individual shall not receive self-employment assistance allowances under this subsection unless the State agency has a reasonable expectation that such individual will be entitled to at least 13 times the individual’s average weekly benefit amount of extended compensation and emergency unemployment compensation.
+>         “(3) __Participation requirement.—__ 
 
-    “(4) Participant option to terminate participation in self-employment assistance program.—
+>         As a condition of continuing eligibility for emergency unemployment compensation for any week, an individual who has been referred to reemployment services or reemployment and eligibility assessment activities under this subsection shall participate in such services or activities, unless the State agency responsible for the administration of State unemployment compensation law determines that—
 
-    “(A) Termination.—An individual who is participating in a self-employment assistance program established under this subsection may elect to discontinue participation in such program at any time.
+>             “(A) such individual has completed participating in such services or activities; or
 
-    “(B) Continued eligibility for emergency unemployment compensation.—For purposes of an individual whose participation in the self-employment assistance program established under this subsection is terminated pursuant to paragraph (1)(C) or who has discontinued participation in such program, if the individual continues to satisfy the eligibility requirements for emergency unemployment compensation under this title, the individual shall receive emergency unemployment compensation payments with respect to subsequent weeks of unemployment, to the extent that amounts remain in the account established for such individual under section 4002(b) or to the extent that such individual commences receiving the amounts described in subsections (c), (d), or (e) of such section, respectively.
+>             “(B) there is justifiable cause for failure to participate or to complete participating in such services or activities, as determined in accordance with guidance to be issued by the Secretary.
 
- __“__  __emergency unemployment compensation account__ 
+>     “(j) __Authority to Conduct Self-employment Assistance Program.—__ 
 
-    “Sec. 4002. (a) In General.—Any agreement under this title shall provide that the State will establish, for each eligible individual who files an application for emergency unemployment compensation, an emergency unemployment compensation account with respect to such individual’s benefit year.
+>         “(1) __In general.—__ 
 
-    “(b) Amount in Account.—
+>             “(A) __Establishment.—__ 
 
-    “(1) In general.—The amount established in an account under subsection (a) shall be equal to the lesser of—
+>             Any agreement under subsection (a) may provide that the State agency of the State shall establish a self-employment assistance program, as described in paragraph (2), to provide for the payment of emergency unemployment compensation as self-employment assistance allowances to individuals who would otherwise satisfy the eligibility criteria specified in subsection (b).
 
-    “(A) 80 percent of the total amount of regular compensation (including dependents’ allowances) payable to the individual during the individual’s benefit year under such law, or
+>             “(B) __Payment of allowances.—__ 
 
-    “(B) 20 times the individual’s average weekly benefit amount for the benefit year.
+>             Subject to subparagraph (C), the self-employment assistance allowance described in subparagraph (A) shall be paid to an eligible individual from such individual’s emergency unemployment compensation account, as described in section 4002, and the amount in such account shall be reduced accordingly.
 
-    “(2) Special rule relating to amounts established in an account as of a week ending after september 2, 2012.—Notwithstanding any provision of paragraph (1), in the case of any account established as of a week ending after September 2, 2012—
+>             “(C) __Limitation on self-employment assistance for individuals receiving extended compensation and emergency unemployment compensation.—__ 
 
-    “(A) paragraph (1)(A) shall be applied by substituting ‘54 percent’ for ‘80 percent’; and
+>                 “(i) __Combined eligibility limit.—__ 
 
-    “(B) paragraph (1)(B) shall be applied by substituting ‘14 weeks’ for ‘20 weeks’ \[probably should be “ ‘14 times’ for ‘20 times’ ”\].
+>                 Subject to clause (ii), for purposes of self-employment assistance programs established under this subsection and section 208 of the Federal-State Extended Unemployment Compensation Act of 1970 \[[Pub. L. 91–373][/us/pl/91/373], set out below\], an individual shall be provided with self-employment assistance allowances under such programs for a total of not greater than 26 weeks (referred to in this subsection as the ‘combined eligibility limit’).
 
-    “(3) Weekly benefit amount.—For purposes of this subsection, an individual’s weekly benefit amount for any week is the amount of regular compensation (including dependents’ allowances) under the State law payable to such individual for such week for total unemployment.
+>                 “(ii) __Carryover rule.—__ 
 
-    “(c) Second-tier Emergency Unemployment Compensation.—
+>                 For purposes of an individual who is participating in a self-employment assistance program established under this subsection and has not reached the combined eligibility limit as of the date on which such individual exhausts all rights to extended compensation under this title, the individual shall be eligible to receive self-employment assistance allowances under a self-employment assistance program established under section 208 of the Federal-State Extended Unemployment Compensation Act of 1970 until such individual has reached the combined eligibility limit, provided that the individual otherwise satisfies the eligibility criteria described under title II of such Act \[probably means title II of [Pub. L. 91–373][/us/pl/91/373], set out below\].
 
-    “(1) In general.—If, at the time that the amount established in an individual’s account under subsection (b) is exhausted or at any time thereafter, such individual’s State is in an extended benefit period (as determined under paragraph (2)), such account shall be augmented by an amount (hereinafter ‘second-tier emergency unemployment compensation’) equal to the lesser of—
+>         “(2) __Definition of ‘self-employment assistance program’.—__ 
 
-    “(A) 54 percent of the total amount of regular compensation (including dependents’ allowances) payable to the individual during the individual’s benefit year under the State law, or
+>         For the purposes of this section, the term ‘self-employment assistance program’ means a program as defined under section 3306(t) of the Internal Revenue Code of 1986, except as follows:
 
-    “(B) 14 times the individual’s average weekly benefit amount (as determined under subsection (b)(2)) for the benefit year.
+>             “(A) all references to ‘regular unemployment compensation under the State law’ shall be deemed to refer instead to ‘emergency unemployment compensation under title IV of the Supplemental Appropriations Act, 2008’ \[this note\];
 
-    “(2) Extended benefit period.—For purposes of paragraph (1), a State shall be considered to be in an extended benefit period, as of any given time, if such a period would then be in effect for such State under such Act \[probably means title II of [Pub. L. 91–373][/us/pl/91/373]\] if—
+>             “(B) paragraph (3)(B) shall not apply;
 
-    “(A) section 203(f) of the Federal-State Extended Unemployment Compensation Act of 1970 \[[Pub. L. 91–373][/us/pl/91/373], set out below\] were applied to such State (regardless of whether the State by law had provided for such application); and
+>             “(C) clause (i) of paragraph (3)(C) shall be deemed to state as follows:    “ ‘(i) include any entrepreneurial training that the State or non-profit organizations may provide in coordination with programs of training offered by the Small Business Administration, which may include business counseling, mentorship for participants, access to small business development resources, and technical assistance; and’;
 
-    “(B) such section 203(f)—
+>             “(D) the reference to ‘5 percent’ in paragraph (4) shall be deemed to refer instead to ‘1 percent’; and
 
-    “(i) were applied by substituting the applicable percentage under paragraph (3) for ‘6.5 percent’ in paragraph (1)(A)(i) thereof; and
+>             “(E) paragraph (5) shall not apply.
 
-    “(ii) did not include the requirement under paragraph (1)(A)(ii) thereof.
+>         “(3) __Availability of self-employment assistance allowances.—__ 
 
-    “(3) Applicable percentage.—The applicable percentage under this paragraph is, for purposes of determining if a State is in an extended benefit period as of a date occurring in a week ending—
+>         In the case of an individual who is eligible to receive emergency unemployment compensation payment under this title, such individual shall not receive self-employment assistance allowances under this subsection unless the State agency has a reasonable expectation that such individual will be entitled to at least 13 times the individual’s average weekly benefit amount of extended compensation and emergency unemployment compensation.
 
-    “(A) before June 1, 2012, 0 percent; and
+>         “(4) __Participant option to terminate participation in self-employment assistance program.—__ 
 
-    “(B) after the last week under subparagraph (A), 6 percent.
+>             “(A) __Termination.—__ 
 
-    “(4) Limitation.—The account of an individual may be augmented not more than once under this subsection.
+>             An individual who is participating in a self-employment assistance program established under this subsection may elect to discontinue participation in such program at any time.
 
-    “(d) Third-tier Emergency Unemployment Compensation.—
+>             “(B) __Continued eligibility for emergency unemployment compensation.—__ 
 
-    “(1) In general.—If, at the time that the amount added to an individual’s account under subsection (c)(1) (hereinafter ‘second-tier emergency unemployment compensation’) is exhausted or at any time thereafter, such individual’s State is in an extended benefit period (as determined under paragraph (2)), such account shall be further augmented by an amount (hereinafter ‘third-tier emergency unemployment compensation’) equal to the lesser of—
+>             For purposes of an individual whose participation in the self-employment assistance program established under this subsection is terminated pursuant to paragraph (1)(C) or who has discontinued participation in such program, if the individual continues to satisfy the eligibility requirements for emergency unemployment compensation under this title, the individual shall receive emergency unemployment compensation payments with respect to subsequent weeks of unemployment, to the extent that amounts remain in the account established for such individual under section 4002(b) or to the extent that such individual commences receiving the amounts described in subsections (c), (d), or (e) of such section, respectively.
 
-    “(A) 50 percent of the total amount of regular compensation (including dependents’ allowances) payable to the individual during the individual’s benefit year under the State law; or
+>  __“__  __emergency unemployment compensation account__ 
 
-    “(B) 13 times the individual’s average weekly benefit amount (as determined under subsection (b)(2) \[probably should be “(b)(3)”\]) for the benefit year.
+> “Sec. 4002.
 
-    “(2) Extended benefit period.—For purposes of paragraph (1), a State shall be considered to be in an extended benefit period, as of any given time, if—
+>      (a) __In General.—__ 
 
-    “(A) such a period would then be in effect for such State under the Federal-State Extended Unemployment Compensation Act of 1970 \[title II of [Pub. L. 91–373][/us/pl/91/373], set out below\] if section 203(d) of such Act—
+>     Any agreement under this title shall provide that the State will establish, for each eligible individual who files an application for emergency unemployment compensation, an emergency unemployment compensation account with respect to such individual’s benefit year.
 
-    “(i) were applied by substituting ‘4’ for ‘5’ each place it appears; and
+>     “(b) __Amount in Account.—__ 
 
-    “(ii) did not include the requirement under paragraph (1)(A) thereof; or
+>         “(1) __In general.—__ 
 
-    “(B) such a period would then be in effect for such State under such Act if—
+>         The amount established in an account under subsection (a) shall be equal to the lesser of—
 
-    “(i) section 203(f) of such Act were applied to such State (regardless of whether the State by law had provided for such application); and
+>             “(A) 80 percent of the total amount of regular compensation (including dependents’ allowances) payable to the individual during the individual’s benefit year under such law, or
 
-    “(ii) such section 203(f)—
+>             “(B) 20 times the individual’s average weekly benefit amount for the benefit year.
 
-         “(I) were applied by substituting the applicable percentage under paragraph (3) for ‘6.5 percent’ in paragraph (1)(A)(i) thereof; and
+>         “(2) __Special rule relating to amounts established in an account as of a week ending after__  __september 2, 2012__  __.—__ 
 
-         “(II) did not include the requirement under paragraph (1)(A)(ii) thereof.
+>         Notwithstanding any provision of paragraph (1), in the case of any account established as of a week ending after September 2, 2012—
 
-    “(3) Applicable percentage.—The applicable percentage under this paragraph is, for purposes of determining if a State is in an extended benefit period as of a date occurring in a week ending—
+>             “(A) paragraph (1)(A) shall be applied by substituting ‘54 percent’ for ‘80 percent’; and
 
-    “(A) before June 1, 2012, 6 percent; and
+>             “(B) paragraph (1)(B) shall be applied by substituting ‘14 weeks’ for ‘20 weeks’ \[probably should be “ ‘14 times’ for ‘20 times’ ”\].
 
-    “(B) after the last week under subparagraph (A), 7 percent.
+>         “(3) __Weekly benefit amount.—__ 
 
-    “(4) Limitation.—The account of an individual may be augmented not more than once under this subsection.
+>         For purposes of this subsection, an individual’s weekly benefit amount for any week is the amount of regular compensation (including dependents’ allowances) under the State law payable to such individual for such week for total unemployment.
 
-    “(5) Special rule relating to amounts added to an account as of a week ending after september 2, 2012.—Notwithstanding any provision of paragraph (1), if augmentation under this subsection occurs as of a week ending after September 2, 2012—
+>     “(c) __Second-tier Emergency Unemployment Compensation.—__ 
 
-    “(A) paragraph (1)(A) shall be applied by substituting ‘35 percent’ for ‘50 percent’; and
+>         “(1) __In general.—__ 
 
-    “(B) paragraph (1)(B) shall be applied by substituting ‘9 times’ for ‘13 times’.
+>         If, at the time that the amount established in an individual’s account under subsection (b) is exhausted or at any time thereafter, such individual’s State is in an extended benefit period (as determined under paragraph (2)), such account shall be augmented by an amount (hereinafter ‘second-tier emergency unemployment compensation’) equal to the lesser of—
 
-    “(e) Fourth-tier Emergency Unemployment Compensation.—
+>             “(A) 54 percent of the total amount of regular compensation (including dependents’ allowances) payable to the individual during the individual’s benefit year under the State law, or
 
-    “(1) In general.—If, at the time that the amount added to an individual’s account under subsection (d)(1) (third-tier emergency unemployment compensation) is exhausted or at any time thereafter, such individual’s State is in an extended benefit period (as determined under paragraph (2)), such account shall be further augmented by an amount (hereinafter ‘fourth-tier emergency unemployment compensation’) equal to the lesser of—
+>             “(B) 14 times the individual’s average weekly benefit amount (as determined under subsection (b)(2)) for the benefit year.
 
-    “(A) 24 percent of the total amount of regular compensation (including dependents’ allowances) payable to the individual during the individual’s benefit year under the State law; or
+>         “(2) __Extended benefit period.—__ 
 
-    “(B) 6 times the individual’s average weekly benefit amount (as determined under subsection (b)(2) \[probably should be “(b)(3)”\]) for the benefit year.
+>         For purposes of paragraph (1), a State shall be considered to be in an extended benefit period, as of any given time, if such a period would then be in effect for such State under such Act \[probably means title II of [Pub. L. 91–373][/us/pl/91/373]\] if—
 
-    “(2) Extended benefit period.—For purposes of paragraph (1), a State shall be considered to be in an extended benefit period, as of any given time, if—
+>             “(A) section 203(f) of the Federal-State Extended Unemployment Compensation Act of 1970 \[[Pub. L. 91–373][/us/pl/91/373], set out below\] were applied to such State (regardless of whether the State by law had provided for such application); and
 
-    “(A) such a period would then be in effect for such State under the Federal-State Extended Unemployment Compensation Act of 1970 \[title II of [Pub. L. 91–373][/us/pl/91/373], set out below\] if section 203(d) of such Act—
+>             “(B)
 
-    “(i) were applied by substituting ‘6’ for ‘5’ each place it appears; and
+>              such section 203(f)—
 
-    “(ii) did not include the requirement under paragraph (1)(A) thereof; or
+>                 “(i) were applied by substituting the applicable percentage under paragraph (3) for ‘6.5 percent’ in paragraph (1)(A)(i) thereof; and
 
-    “(B) such a period would then be in effect for such State under such Act if—
+>                 “(ii) did not include the requirement under paragraph (1)(A)(ii) thereof.
 
-    “(i) section 203(f) of such Act were applied to such State (regardless of whether the State by law had provided for such application); and
+>         “(3) __Applicable percentage.—__ 
 
-    “(ii) such section 203(f)—
+>         The applicable percentage under this paragraph is, for purposes of determining if a State is in an extended benefit period as of a date occurring in a week ending—
 
-         “(I) were applied by substituting the applicable percentage under paragraph (3) for ‘6.5 percent’ in paragraph (1)(A)(i) thereof; and
+>             “(A) before June 1, 2012, 0 percent; and
 
-         “(II) did not include the requirement under paragraph (1)(A)(ii) thereof.
+>             “(B) after the last week under subparagraph (A), 6 percent.
 
-    “(3) Applicable percentage.—The applicable percentage under this paragraph is, for purposes of determining if a State is in an extended benefit period as of a date occurring in a week ending—
+>         “(4) __Limitation.—__ 
 
-    “(A) before June 1, 2012, 8.5 percent; and
+>         The account of an individual may be augmented not more than once under this subsection.
 
-    “(B) after the last week under subparagraph (A), 9 percent.
+>     “(d) __Third-tier Emergency Unemployment Compensation.—__ 
 
-    “(4) Limitation.—The account of an individual may be augmented not more than once under this subsection.
+>         “(1) __In general.—__ 
 
-    “(5) Special rules relating to amounts added to an account.—
+>         If, at the time that the amount added to an individual’s account under subsection (c)(1) (hereinafter ‘second-tier emergency unemployment compensation’) is exhausted or at any time thereafter, such individual’s State is in an extended benefit period (as determined under paragraph (2)), such account shall be further augmented by an amount (hereinafter ‘third-tier emergency unemployment compensation’) equal to the lesser of—
 
-    “(A) March to may of 2012.—
+>             “(A) 50 percent of the total amount of regular compensation (including dependents’ allowances) payable to the individual during the individual’s benefit year under the State law; or
 
-    “(i) Special rule.—Notwithstanding any provision of paragraph (1) but subject to the following 2 sentences, if augmentation under this subsection occurs as of a week ending after the date of enactment of this paragraph \[Feb. 22, 2012\] and before June 1, 2012 (or if, as of such date of enactment, any fourth-tier amounts remain in the individual’s account)—
+>             “(B) 13 times the individual’s average weekly benefit amount (as determined under subsection (b)(2) \[probably should be “(b)(3)”\]) for the benefit year.
 
-         “(I) paragraph (1)(A) shall be applied by substituting ‘62 percent’ for ‘24 percent’; and
+>         “(2) __Extended benefit period.—__ 
 
-         “(II) paragraph (1)(B) shall be applied by substituting ‘16 times’ for ‘6 times’.
+>         For purposes of paragraph (1), a State shall be considered to be in an extended benefit period, as of any given time, if—
 
-     The preceding sentence shall apply only if, at the time that the account would be augmented under this subparagraph, such individual’s State is not in an extended benefit period as determined under the Federal-State Extended Unemployment Compensation Act of 1970 \[title II of [Pub. L. 91–373][/us/pl/91/373], set out below\]. In no event shall the total amount added to the account of an individual under this subparagraph cause, in the case of an individual described in the parenthetical matter in the first sentence of this clause, the sum of the total amount previously added to such individual’s account under this subsection (as in effect before the date of enactment of this paragraph) and any further amounts added as a result of the enactment of this clause, to exceed the total amount allowable under subclause (I) or (II), as the case may be.
+>             “(A)
 
-    “(ii) Limitation.—Notwithstanding any other provision of this title, the amounts added to the account of an individual under this subparagraph may not cause the sum of the amounts previously established in or added to such account, plus any weeks of extended benefits provided to such individual under the Federal-State Extended Unemployment Compensation Act of 1970 \[title II of [Pub. L. 91–373][/us/pl/91/373], set out below\] (based on the same exhaustion of regular compensation under section 4001(b)(1)), to in the aggregate exceed the lesser of—
+>              such a period would then be in effect for such State under the Federal-State Extended Unemployment Compensation Act of 1970 \[title II of [Pub. L. 91–373][/us/pl/91/373], set out below\] if section 203(d) of such Act—
 
-         “(I) 282 percent of the total amount of regular compensation (including dependents’ allowances) payable to the individual during the individual’s benefit year under the State law; or
+>                 “(i) were applied by substituting ‘4’ for ‘5’ each place it appears; and
 
-         “(II) 73 times the individual’s average weekly benefit amount (as determined under subsection (b)(3)) for the benefit year.
+>                 “(ii) did not include the requirement under paragraph (1)(A) thereof; or
 
-    “(B) After august of 2012.—Notwithstanding any provision of paragraph (1), if augmentation under this subsection occurs as of a week ending after September 2, 2012—
+>             “(B)
 
-    “(i) paragraph (1)(A) shall be applied by substituting ‘39 percent’ for ‘24 percent’; and
+>              such a period would then be in effect for such State under such Act if—
 
-    “(ii) paragraph (1)(B) shall be applied by substituting ‘10 times’ for ‘6 times’.
+>                 “(i) section 203(f) of such Act were applied to such State (regardless of whether the State by law had provided for such application); and
 
-    “(f) Coordination Rules.—
+>                 “(ii)
 
-    “(1) Coordination with extended compensation.—Notwithstanding an election under section 4001(e) by a State to provide for the payment of emergency unemployment compensation prior to extended compensation, such State may pay extended compensation to an otherwise eligible individual prior to any emergency unemployment compensation under subsection (c), (d), or (e) (by reason of the amendments made by sections 2, 3, and 4 of the Worker, Homeownership, and Business Assistance Act of 2009 \[[Pub. L. 111–92][/us/pl/111/92]\]), if such individual claimed extended compensation for at least 1 week of unemployment after the exhaustion of emergency unemployment compensation under subsection (b) (as such subsection was in effect on the day before the date of the enactment of this subsection \[Nov. 6, 2009\]).
+>                  such section 203(f)—
 
-    “(2) Coordination with tiers ii, iii, and iv.—If a State determines that implementation of the increased entitlement to second-tier emergency unemployment compensation by reason of the amendments made by section 2 of the Worker, Homeownership, and Business Assistance Act of 2009 \[[Pub. L. 111–92][/us/pl/111/92]\] would unduly delay the prompt payment of emergency unemployment compensation under this title by reason of the amendments made by such Act, such State may elect to pay third-tier emergency unemployment compensation prior to the payment of such increased second-tier emergency unemployment compensation until such time as such State determines that such increased second-tier emergency unemployment compensation may be paid without such undue delay. If a State makes the election under the preceding sentence, then, for purposes of determining whether an account may be augmented for fourth-tier emergency unemployment compensation under subsection (e), such State shall treat the date of exhaustion of such increased second-tier emergency unemployment compensation as the date of exhaustion of third-tier emergency unemployment compensation, if such date is later than the date of exhaustion of the third-tier emergency unemployment compensation.
+>                          “(I) were applied by substituting the applicable percentage under paragraph (3) for ‘6.5 percent’ in paragraph (1)(A)(i) thereof; and
 
-    “(g) Coordination of Emergency Unemployment Compensation With Regular Compensation.—
+>                          “(II) did not include the requirement under paragraph (1)(A)(ii) thereof.
 
-    “(1) If—
+>         “(3) __Applicable percentage.—__ 
 
-    “(A) an individual has been determined to be entitled to emergency unemployment compensation with respect to a benefit year,
+>         The applicable percentage under this paragraph is, for purposes of determining if a State is in an extended benefit period as of a date occurring in a week ending—
 
-    “(B) that benefit year has expired,
+>             “(A) before June 1, 2012, 6 percent; and
 
-    “(C) that individual has remaining entitlement to emergency unemployment compensation with respect to that benefit year, and
+>             “(B) after the last week under subparagraph (A), 7 percent.
 
-    “(D) that individual would qualify for a new benefit year in which the weekly benefit amount of regular compensation is at least either $100 or 25 percent less than the individual’s weekly benefit amount in the benefit year referred to in subparagraph (A),
+>         “(4) __Limitation.—__ 
 
-    then the State shall determine eligibility for compensation as provided in paragraph (2).
+>         The account of an individual may be augmented not more than once under this subsection.
 
-    “(2) For individuals described in paragraph (1), the State shall determine whether the individual is to be paid emergency unemployment compensation or regular compensation for a week of unemployment using one of the following methods:
+>         “(5) __Special rule relating to amounts added to an account as of a week ending after__  __september 2, 2012__  __.—__ 
 
-    “(A) The State shall, if permitted by State law, establish a new benefit year, but defer the payment of regular compensation with respect to that new benefit year until exhaustion of all emergency unemployment compensation payable with respect to the benefit year referred to in paragraph (1)(A);
+>         Notwithstanding any provision of paragraph (1), if augmentation under this subsection occurs as of a week ending after September 2, 2012—
 
-    “(B) The State shall, if permitted by State law, defer the establishment of a new benefit year (which uses all the wages and employment which would have been used to establish a benefit year but for the application of this paragraph), until exhaustion of all emergency unemployment compensation payable with respect to the benefit year referred to in paragraph(1)(A);
+>             “(A) paragraph (1)(A) shall be applied by substituting ‘35 percent’ for ‘50 percent’; and
 
-    “(C) The State shall pay, if permitted by State law—
+>             “(B) paragraph (1)(B) shall be applied by substituting ‘9 times’ for ‘13 times’.
 
-    “(i) regular compensation equal to the weekly benefit amount established under the new benefit year, and
+>     “(e) __Fourth-tier Emergency Unemployment Compensation.—__ 
 
-    “(ii) emergency unemployment compensation equal to the difference between that weekly benefit amount and the weekly benefit amount for the expired benefit year; or
+>         “(1) __In general.—__ 
 
-    “(D) The State shall determine rights to emergency unemployment compensation without regard to any rights to regular compensation if the individual elects to not file a claim for regular compensation under the new benefit year.
+>         If, at the time that the amount added to an individual’s account under subsection (d)(1) (third-tier emergency unemployment compensation) is exhausted or at any time thereafter, such individual’s State is in an extended benefit period (as determined under paragraph (2)), such account shall be further augmented by an amount (hereinafter ‘fourth-tier emergency unemployment compensation’) equal to the lesser of—
 
- __“__  __payments to states having agreements for the payment of emergency unemployment compensation__ 
+>             “(A) 24 percent of the total amount of regular compensation (including dependents’ allowances) payable to the individual during the individual’s benefit year under the State law; or
 
-    “Sec. 4003. (a) General Rule.—There shall be paid to each State that has entered into an agreement under this title an amount equal to 100 percent of the emergency unemployment compensation paid to individuals by the State pursuant to such agreement.
+>             “(B) 6 times the individual’s average weekly benefit amount (as determined under subsection (b)(2) \[probably should be “(b)(3)”\]) for the benefit year.
 
-    “(b) Treatment of Reimbursable Compensation.—No payment shall be made to any State under this section in respect of any compensation to the extent the State is entitled to reimbursement in respect of such compensation under the provisions of any Federal law other than this title or chapter 85 of title 5, United States Code. A State shall not be entitled to any reimbursement under such chapter 85 in respect of any compensation to the extent the State is entitled to reimbursement under this title in respect of such compensation.
+>         “(2) __Extended benefit period.—__ 
 
-    “(c) Determination of Amount.—Sums payable to any State by reason of such State having an agreement under this title shall be payable, either in advance or by way of reimbursement (as may be determined by the Secretary), in such amounts as the Secretary estimates the State will be entitled to receive under this title for each calendar month, reduced or increased, as the case may be, by any amount by which the Secretary finds that the Secretary’s estimates for any prior calendar month were greater or less than the amounts which should have been paid to the State. Such estimates may be made on the basis of such statistical, sampling, or other method as may be agreed upon by the Secretary and the State agency of the State involved.
+>         For purposes of paragraph (1), a State shall be considered to be in an extended benefit period, as of any given time, if—
 
- __“__  __financing provisions__ 
+>             “(A)
 
-    “Sec. 4004. (a) In General.—Funds in the extended unemployment compensation account (as established by section 905(a) of the Social Security Act ([42 U.S.C. 1105(a)][/us/usc/t42/s1105/a])\[)\] of the Unemployment Trust Fund (as established by section 904(a) of such Act ([42 U.S.C. 1104(a)][/us/usc/t42/s1104/a])\[)\] shall be used for the making of payments to States having agreements entered into under this title.
+>              such a period would then be in effect for such State under the Federal-State Extended Unemployment Compensation Act of 1970 \[title II of [Pub. L. 91–373][/us/pl/91/373], set out below\] if section 203(d) of such Act—
 
-    “(b) Certification.—The Secretary shall from time to time certify to the Secretary of the Treasury for payment to each State the sums payable to such State under this title. The Secretary of the Treasury, prior to audit or settlement by the Government Accountability Office, shall make payments to the State in accordance with such certification, by transfers from the extended unemployment compensation account (as so established) to the account of such State in the Unemployment Trust Fund (as so established).
+>                 “(i) were applied by substituting ‘6’ for ‘5’ each place it appears; and
 
-    “(c) Assistance to States.—
+>                 “(ii) did not include the requirement under paragraph (1)(A) thereof; or
 
-    “(1) Administration.—There are appropriated out of the employment security administration account (as established by section 901(a) of the Social Security Act ([42 U.S.C. 1101(a)][/us/usc/t42/s1101/a])\[)\] of the Unemployment Trust Fund, without fiscal year limitation, such funds as may be necessary for purposes of assisting States (as provided in title III of the Social Security Act ([42 U.S.C. 501][/us/usc/t42/s501] et seq.)) in meeting the costs of administration of agreements under this title.
+>             “(B)
 
-    “(2) Reemployment services and reemployment and eligibility assessment activities.—
+>              such a period would then be in effect for such State under such Act if—
 
-    “(A) Appropriation.—There are appropriated from the general fund of the Treasury, for the period of fiscal year 2012 through fiscal year 2014, out of the employment security administration account (as established by section 901(a) of the Social Security Act \[[42 U.S.C. 1101(a)][/us/usc/t42/s1101/a]\]), such sums as determined by the Secretary of Labor in accordance with subparagraph (B) to assist States in providing reemployment services and reemployment and eligibility assessment activities described in section 4001(h)(2).
+>                 “(i) section 203(f) of such Act were applied to such State (regardless of whether the State by law had provided for such application); and
 
-    “(B) Determination of total amount.—The amount referred to in subparagraph (A) is the amount the Secretary of Labor estimates is equal to—
+>                 “(ii)
 
-    “(i) the number of individuals who will receive reemployment services and reemployment eligibility and assessment activities described in section 4001(h)(2) in all States through the date specified in \[former\] section 4007(b)(3); multiplied by
+>                  such section 203(f)—
 
-    “(ii) $85.
+>                          “(I) were applied by substituting the applicable percentage under paragraph (3) for ‘6.5 percent’ in paragraph (1)(A)(i) thereof; and
 
-    “(C) Distribution among states.—Of the amounts appropriated under subparagraph (A), the Secretary of Labor shall distribute amounts to each State, in accordance with section 4003(c), that the Secretary estimates is equal to—
+>                          “(II) did not include the requirement under paragraph (1)(A)(ii) thereof.
 
-    “(i) the number of individuals who will receive reemployment services and reemployment and eligibility assessment activities described in section 4001(h)(2) in such State through the date specified in section \[former\] 4007(b)(3); multiplied by
+>         “(3) __Applicable percentage.—__ 
 
-    “(ii) $85.
+>         The applicable percentage under this paragraph is, for purposes of determining if a State is in an extended benefit period as of a date occurring in a week ending—
 
-    “(d) Appropriations for Certain Payments.—There are appropriated from the general fund of the Treasury, without fiscal year limitation, to the extended unemployment compensation account (as so established) of the Unemployment Trust Fund (as so established) such sums as the Secretary estimates to be necessary to make the payments under this section in respect of—
+>             “(A) before June 1, 2012, 8.5 percent; and
 
-    “(1) compensation payable under chapter 85 of title 5, United States Code; and
+>             “(B) after the last week under subparagraph (A), 9 percent.
 
-    “(2) compensation payable on the basis of services to which section 3309(a)(1) of the Internal Revenue Code of 1986 applies.
+>         “(4) __Limitation.—__ 
 
-    Amounts appropriated pursuant to the preceding sentence shall not be required to be repaid.
+>         The account of an individual may be augmented not more than once under this subsection.
 
-    “(e) Transfer of Funds.—Notwithstanding any other provision of law, the Secretary of the Treasury shall transfer from the general fund of the Treasury (from funds not otherwise appropriated)—
+>         “(5) __Special rules relating to amounts added to an account.—__ 
 
-    “(1) to the extended unemployment compensation account (as established by section 905 of the Social Security Act \[[42 U.S.C. 1105][/us/usc/t42/s1105]\]) such sums as the Secretary of Labor estimates to be necessary to make payments to States under this title by reason of—
+>             “(A) __March to may of 2012.—__ 
 
-    “(A) the amendments made by section 2001(a) of the Assistance for Unemployed Workers and Struggling Families Act \[title II of div. B of [Pub. L. 111–5][/us/pl/111/5]\];
+>                 “(i) __Special rule.—__ 
 
-    “(B) the amendments made by sections 2 through 4 of the Worker, Homeownership, and Business Assistance Act of 2009 \[[Pub. L. 111–92][/us/pl/111/92]\];
+>                 Notwithstanding any provision of paragraph (1) but subject to the following 2 sentences, if augmentation under this subsection occurs as of a week ending after the date of enactment of this paragraph \[Feb. 22, 2012\] and before June 1, 2012 (or if, as of such date of enactment, any fourth-tier amounts remain in the individual’s account)—
 
-    “(C) the amendments made by section 1009(a)(1) of the Department of Defense Appropriations Act, 2010 \[[Pub. L. 111–118][/us/pl/111/118]\];
+>                          “(I) paragraph (1)(A) shall be applied by substituting ‘62 percent’ for ‘24 percent’; and
 
-    “(D) the amendments made by section 2(a)(1) of the Temporary Extension Act of 2010 \[[Pub. L. 111–144][/us/pl/111/144]\];
+>                          “(II) paragraph (1)(B) shall be applied by substituting ‘16 times’ for ‘6 times’.
 
-    “(E) the amendments made by section 2(a)(1) of the Continuing Extension Act of 2010 \[[Pub. L. 111–157][/us/pl/111/157]\];
+>                  The preceding sentence shall apply only if, at the time that the account would be augmented under this subparagraph, such individual’s State is not in an extended benefit period as determined under the Federal-State Extended Unemployment Compensation Act of 1970 \[title II of [Pub. L. 91–373][/us/pl/91/373], set out below\]. In no event shall the total amount added to the account of an individual under this subparagraph cause, in the case of an individual described in the parenthetical matter in the first sentence of this clause, the sum of the total amount previously added to such individual’s account under this subsection (as in effect before the date of enactment of this paragraph) and any further amounts added as a result of the enactment of this clause, to exceed the total amount allowable under subclause (I) or (II), as the case may be.
 
-    “(F) the amendments made by section 2(a)(1) of the Unemployment Compensation Extension Act of 2010 \[[Pub. L. 111–205][/us/pl/111/205]\];
+>                 “(ii) __Limitation.—__ 
 
-    “(G) the amendments made by section 501(a)(1) of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 \[[Pub. L. 111–312][/us/pl/111/312]\];
+>                 Notwithstanding any other provision of this title, the amounts added to the account of an individual under this subparagraph may not cause the sum of the amounts previously established in or added to such account, plus any weeks of extended benefits provided to such individual under the Federal-State Extended Unemployment Compensation Act of 1970 \[title II of [Pub. L. 91–373][/us/pl/91/373], set out below\] (based on the same exhaustion of regular compensation under section 4001(b)(1)), to in the aggregate exceed the lesser of—
 
-    “(H) the amendments made by section 201(a)(1) of the Temporary Payroll Tax Cut Continuation Act of 2011 \[[Pub. L. 112–78][/us/pl/112/78]\];
+>                          “(I) 282 percent of the total amount of regular compensation (including dependents’ allowances) payable to the individual during the individual’s benefit year under the State law; or
 
-    “(I) the amendments made by section 2122 of the Unemployment Benefits Extension Act of 2012 \[[Pub. L. 112–96][/us/pl/112/96]\]; and
+>                          “(II) 73 times the individual’s average weekly benefit amount (as determined under subsection (b)(3)) for the benefit year.
 
-    “(J) the amendments made by section 501(a) of the American Taxpayer Relief Act of 2012 \[[Pub. L. 112–240][/us/pl/112/240]\];
+>             “(B) __After august of 2012.—__ 
 
-    “(2) to the employment security administration account (as established by section 901 of the Social Security Act \[[42 U.S.C. 1101][/us/usc/t42/s1101]\]) such sums as the Secretary of Labor estimates to be necessary for purposes of assisting States in meeting administrative costs by reason of the amendments referred to in paragraph (1); and
+>             Notwithstanding any provision of paragraph (1), if augmentation under this subsection occurs as of a week ending after September 2, 2012—
 
-    “(3) to the Employment Security Administration account (as established by section 901(a) of the Social Security Act \[[42 U.S.C. 1101(a)][/us/usc/t42/s1101/a]\]) such sums as the Secretary of Labor determines to be necessary in accordance with subsection (c)(2) to assist States in providing reemployment services and reemployment eligibility and assessment activities described in section 4001(h)(2).
+>                 “(i) paragraph (1)(A) shall be applied by substituting ‘39 percent’ for ‘24 percent’; and
 
-    There are appropriated from the general fund of the Treasury, without fiscal year limitation, the sums referred to in the preceding sentence and such sums shall not be required to be repaid.
+>                 “(ii) paragraph (1)(B) shall be applied by substituting ‘10 times’ for ‘6 times’.
 
- __“__  __fraud and overpayments__ 
+>     “(f) __Coordination Rules.—__ 
 
-    “Sec. 4005. (a) In General.—If an individual knowingly has made, or caused to be made by another, a false statement or representation of a material fact, or knowingly has failed, or caused another to fail, to disclose a material fact, and as a result of such false statement or representation or of such nondisclosure such individual has received an amount of emergency unemployment compensation under this title to which such individual was not entitled, such individual—
+>         “(1) __Coordination with extended compensation.—__ 
 
-    “(1) shall be ineligible for further emergency unemployment compensation under this title in accordance with the provisions of the applicable State unemployment compensation law relating to fraud in connection with a claim for unemployment compensation; and
+>         Notwithstanding an election under section 4001(e) by a State to provide for the payment of emergency unemployment compensation prior to extended compensation, such State may pay extended compensation to an otherwise eligible individual prior to any emergency unemployment compensation under subsection (c), (d), or (e) (by reason of the amendments made by sections 2, 3, and 4 of the Worker, Homeownership, and Business Assistance Act of 2009 \[[Pub. L. 111–92][/us/pl/111/92]\]), if such individual claimed extended compensation for at least 1 week of unemployment after the exhaustion of emergency unemployment compensation under subsection (b) (as such subsection was in effect on the day before the date of the enactment of this subsection \[Nov. 6, 2009\]).
 
-    “(2) shall be subject to prosecution under [section 1001 of title 18][/us/usc/t18/s1001], United States Code.
+>         “(2) __Coordination with tiers ii, iii, and iv.—__ 
 
-    “(b) Repayment.—In the case of individuals who have received amounts of emergency unemployment compensation under this title to which they were not entitled, the State shall require such individuals to repay the amounts of such emergency unemployment compensation to the State agency, except that the State agency may waive such repayment if it determines that—
+>         If a State determines that implementation of the increased entitlement to second-tier emergency unemployment compensation by reason of the amendments made by section 2 of the Worker, Homeownership, and Business Assistance Act of 2009 \[[Pub. L. 111–92][/us/pl/111/92]\] would unduly delay the prompt payment of emergency unemployment compensation under this title by reason of the amendments made by such Act, such State may elect to pay third-tier emergency unemployment compensation prior to the payment of such increased second-tier emergency unemployment compensation until such time as such State determines that such increased second-tier emergency unemployment compensation may be paid without such undue delay. If a State makes the election under the preceding sentence, then, for purposes of determining whether an account may be augmented for fourth-tier emergency unemployment compensation under subsection (e), such State shall treat the date of exhaustion of such increased second-tier emergency unemployment compensation as the date of exhaustion of third-tier emergency unemployment compensation, if such date is later than the date of exhaustion of the third-tier emergency unemployment compensation.
 
-    “(1) the payment of such emergency unemployment compensation was without fault on the part of any such individual; and
+>     “(g) __Coordination of Emergency Unemployment Compensation With Regular Compensation.—__ 
 
-    “(2) such repayment would be contrary to equity and good conscience.
+>         “(1)
 
-    “(c) Recovery by State Agency.—
+>          If—
 
-    “(1) In general.—The State agency shall recover the amount to be repaid, or any part thereof, by deductions from any emergency unemployment compensation payable to such individual under this title or from any unemployment compensation payable to such individual under any State or Federal unemployment compensation law administered by the State agency or under any other State or Federal law administered by the State agency which provides for the payment of any assistance or allowance with respect to any week of unemployment, during the 3-year period after the date such individuals received the payment of the emergency unemployment compensation to which they were not entitled, in accordance with the same procedures as apply to the recovery of overpayments of regular unemployment benefits paid by the State.
+>             “(A) an individual has been determined to be entitled to emergency unemployment compensation with respect to a benefit year,
 
-    “(2) Opportunity for hearing.—No repayment shall be required, and no deduction shall be made, until a determination has been made, notice thereof and an opportunity for a fair hearing has been given to the individual, and the determination has become final.
+>             “(B) that benefit year has expired,
 
-    “(d) Review.—Any determination by a State agency under this section shall be subject to review in the same manner and to the same extent as determinations under the State unemployment compensation law, and only in that manner and to that extent.
+>             “(C) that individual has remaining entitlement to emergency unemployment compensation with respect to that benefit year, and
 
- __“__  __definitions__ 
+>             “(D) that individual would qualify for a new benefit year in which the weekly benefit amount of regular compensation is at least either $100 or 25 percent less than the individual’s weekly benefit amount in the benefit year referred to in subparagraph (A),
 
-    “Sec. 4006. In this title, the terms ‘compensation’, ‘regular compensation’, ‘extended compensation’, ‘benefit year’, ‘base period’, ‘State’, ‘State agency’, ‘State law’, and ‘week’ have the respective meanings given such terms under section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 \[[Pub. L. 91–373][/us/pl/91/373]\] ([26 U.S.C. 3304][/us/usc/t26/s3304] note).
+>             then the State shall determine eligibility for compensation as provided in paragraph (2).
 
- __“__  __applicability__ 
+>         “(2)
 
-    “Sec. 4007. (a) In General.—An agreement entered into under this title shall apply to weeks of unemployment—
+>          For individuals described in paragraph (1), the State shall determine whether the individual is to be paid emergency unemployment compensation or regular compensation for a week of unemployment using one of the following methods:
 
-    “(1) beginning after the date on which such agreement is entered into; and
+>             “(A) The State shall, if permitted by State law, establish a new benefit year, but defer the payment of regular compensation with respect to that new benefit year until exhaustion of all emergency unemployment compensation payable with respect to the benefit year referred to in paragraph (1)(A);
 
-    “(2) ending on or before January 1, 2014.
+>             “(B) The State shall, if permitted by State law, defer the establishment of a new benefit year (which uses all the wages and employment which would have been used to establish a benefit year but for the application of this paragraph), until exhaustion of all emergency unemployment compensation payable with respect to the benefit year referred to in paragraph(1)(A);
 
-    “(b) Termination.—No compensation under this title shall be payable for any week subsequent to the last week described in subsection (a).”
+>             “(C)
+
+>              The State shall pay, if permitted by State law—
+
+>                 “(i) regular compensation equal to the weekly benefit amount established under the new benefit year, and
+
+>                 “(ii) emergency unemployment compensation equal to the difference between that weekly benefit amount and the weekly benefit amount for the expired benefit year; or
+
+>             “(D) The State shall determine rights to emergency unemployment compensation without regard to any rights to regular compensation if the individual elects to not file a claim for regular compensation under the new benefit year.
+
+>  __“__  __payments to states having agreements for the payment of emergency unemployment compensation__ 
+
+> “Sec. 4003.
+
+>      (a) __General Rule.—__ 
+
+>     There shall be paid to each State that has entered into an agreement under this title an amount equal to 100 percent of the emergency unemployment compensation paid to individuals by the State pursuant to such agreement.
+
+>     “(b) __Treatment of Reimbursable Compensation.—__ 
+
+>     No payment shall be made to any State under this section in respect of any compensation to the extent the State is entitled to reimbursement in respect of such compensation under the provisions of any Federal law other than this title or chapter 85 of title 5, United States Code. A State shall not be entitled to any reimbursement under such chapter 85 in respect of any compensation to the extent the State is entitled to reimbursement under this title in respect of such compensation.
+
+>     “(c) __Determination of Amount.—__ 
+
+>     Sums payable to any State by reason of such State having an agreement under this title shall be payable, either in advance or by way of reimbursement (as may be determined by the Secretary), in such amounts as the Secretary estimates the State will be entitled to receive under this title for each calendar month, reduced or increased, as the case may be, by any amount by which the Secretary finds that the Secretary’s estimates for any prior calendar month were greater or less than the amounts which should have been paid to the State. Such estimates may be made on the basis of such statistical, sampling, or other method as may be agreed upon by the Secretary and the State agency of the State involved.
+
+>  __“__  __financing provisions__ 
+
+> “Sec. 4004.
+
+>      (a) __In General.—__ 
+
+>     Funds in the extended unemployment compensation account (as established by section 905(a) of the Social Security Act ([42 U.S.C. 1105(a)][/us/usc/t42/s1105/a])\[)\] of the Unemployment Trust Fund (as established by section 904(a) of such Act ([42 U.S.C. 1104(a)][/us/usc/t42/s1104/a])\[)\] shall be used for the making of payments to States having agreements entered into under this title.
+
+>     “(b) __Certification.—__ 
+
+>     The Secretary shall from time to time certify to the Secretary of the Treasury for payment to each State the sums payable to such State under this title. The Secretary of the Treasury, prior to audit or settlement by the Government Accountability Office, shall make payments to the State in accordance with such certification, by transfers from the extended unemployment compensation account (as so established) to the account of such State in the Unemployment Trust Fund (as so established).
+
+>     “(c) __Assistance to States.—__ 
+
+>         “(1) __Administration.—__ 
+
+>         There are appropriated out of the employment security administration account (as established by section 901(a) of the Social Security Act ([42 U.S.C. 1101(a)][/us/usc/t42/s1101/a])\[)\] of the Unemployment Trust Fund, without fiscal year limitation, such funds as may be necessary for purposes of assisting States (as provided in title III of the Social Security Act ([42 U.S.C. 501][/us/usc/t42/s501] et seq.)) in meeting the costs of administration of agreements under this title.
+
+>         “(2) __Reemployment services and reemployment and eligibility assessment activities.—__ 
+
+>             “(A) __Appropriation.—__ 
+
+>             There are appropriated from the general fund of the Treasury, for the period of fiscal year 2012 through fiscal year 2014, out of the employment security administration account (as established by section 901(a) of the Social Security Act \[[42 U.S.C. 1101(a)][/us/usc/t42/s1101/a]\]), such sums as determined by the Secretary of Labor in accordance with subparagraph (B) to assist States in providing reemployment services and reemployment and eligibility assessment activities described in section 4001(h)(2).
+
+>             “(B) __Determination of total amount.—__ 
+
+>             The amount referred to in subparagraph (A) is the amount the Secretary of Labor estimates is equal to—
+
+>                 “(i) the number of individuals who will receive reemployment services and reemployment eligibility and assessment activities described in section 4001(h)(2) in all States through the date specified in \[former\] section 4007(b)(3); multiplied by
+
+>                 “(ii) $85.
+
+>             “(C) __Distribution among states.—__ 
+
+>             Of the amounts appropriated under subparagraph (A), the Secretary of Labor shall distribute amounts to each State, in accordance with section 4003(c), that the Secretary estimates is equal to—
+
+>                 “(i) the number of individuals who will receive reemployment services and reemployment and eligibility assessment activities described in section 4001(h)(2) in such State through the date specified in section \[former\] 4007(b)(3); multiplied by
+
+>                 “(ii) $85.
+
+>     “(d) __Appropriations for Certain Payments.—__ 
+
+>     There are appropriated from the general fund of the Treasury, without fiscal year limitation, to the extended unemployment compensation account (as so established) of the Unemployment Trust Fund (as so established) such sums as the Secretary estimates to be necessary to make the payments under this section in respect of—
+
+>         “(1) compensation payable under chapter 85 of title 5, United States Code; and
+
+>         “(2) compensation payable on the basis of services to which section 3309(a)(1) of the Internal Revenue Code of 1986 applies.
+
+>         Amounts appropriated pursuant to the preceding sentence shall not be required to be repaid.
+
+>     “(e) __Transfer of Funds.—__ 
+
+>     Notwithstanding any other provision of law, the Secretary of the Treasury shall transfer from the general fund of the Treasury (from funds not otherwise appropriated)—
+
+>         “(1)
+
+>          to the extended unemployment compensation account (as established by section 905 of the Social Security Act \[[42 U.S.C. 1105][/us/usc/t42/s1105]\]) such sums as the Secretary of Labor estimates to be necessary to make payments to States under this title by reason of—
+
+>             “(A) the amendments made by section 2001(a) of the Assistance for Unemployed Workers and Struggling Families Act \[title II of div. B of [Pub. L. 111–5][/us/pl/111/5]\];
+
+>             “(B) the amendments made by sections 2 through 4 of the Worker, Homeownership, and Business Assistance Act of 2009 \[[Pub. L. 111–92][/us/pl/111/92]\];
+
+>             “(C) the amendments made by section 1009(a)(1) of the Department of Defense Appropriations Act, 2010 \[[Pub. L. 111–118][/us/pl/111/118]\];
+
+>             “(D) the amendments made by section 2(a)(1) of the Temporary Extension Act of 2010 \[[Pub. L. 111–144][/us/pl/111/144]\];
+
+>             “(E) the amendments made by section 2(a)(1) of the Continuing Extension Act of 2010 \[[Pub. L. 111–157][/us/pl/111/157]\];
+
+>             “(F) the amendments made by section 2(a)(1) of the Unemployment Compensation Extension Act of 2010 \[[Pub. L. 111–205][/us/pl/111/205]\];
+
+>             “(G) the amendments made by section 501(a)(1) of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 \[[Pub. L. 111–312][/us/pl/111/312]\];
+
+>             “(H) the amendments made by section 201(a)(1) of the Temporary Payroll Tax Cut Continuation Act of 2011 \[[Pub. L. 112–78][/us/pl/112/78]\];
+
+>             “(I) the amendments made by section 2122 of the Unemployment Benefits Extension Act of 2012 \[[Pub. L. 112–96][/us/pl/112/96]\]; and
+
+>             “(J) the amendments made by section 501(a) of the American Taxpayer Relief Act of 2012 \[[Pub. L. 112–240][/us/pl/112/240]\];
+
+>         “(2) to the employment security administration account (as established by section 901 of the Social Security Act \[[42 U.S.C. 1101][/us/usc/t42/s1101]\]) such sums as the Secretary of Labor estimates to be necessary for purposes of assisting States in meeting administrative costs by reason of the amendments referred to in paragraph (1); and
+
+>         “(3) to the Employment Security Administration account (as established by section 901(a) of the Social Security Act \[[42 U.S.C. 1101(a)][/us/usc/t42/s1101/a]\]) such sums as the Secretary of Labor determines to be necessary in accordance with subsection (c)(2) to assist States in providing reemployment services and reemployment eligibility and assessment activities described in section 4001(h)(2).
+
+>         There are appropriated from the general fund of the Treasury, without fiscal year limitation, the sums referred to in the preceding sentence and such sums shall not be required to be repaid.
+
+>  __“__  __fraud and overpayments__ 
+
+> “Sec. 4005.
+
+>      (a) __In General.—__ 
+
+>     If an individual knowingly has made, or caused to be made by another, a false statement or representation of a material fact, or knowingly has failed, or caused another to fail, to disclose a material fact, and as a result of such false statement or representation or of such nondisclosure such individual has received an amount of emergency unemployment compensation under this title to which such individual was not entitled, such individual—
+
+>         “(1) shall be ineligible for further emergency unemployment compensation under this title in accordance with the provisions of the applicable State unemployment compensation law relating to fraud in connection with a claim for unemployment compensation; and
+
+>         “(2) shall be subject to prosecution under [section 1001 of title 18][/us/usc/t18/s1001], United States Code.
+
+>     “(b) __Repayment.—__ 
+
+>     In the case of individuals who have received amounts of emergency unemployment compensation under this title to which they were not entitled, the State shall require such individuals to repay the amounts of such emergency unemployment compensation to the State agency, except that the State agency may waive such repayment if it determines that—
+
+>         “(1) the payment of such emergency unemployment compensation was without fault on the part of any such individual; and
+
+>         “(2) such repayment would be contrary to equity and good conscience.
+
+>     “(c) __Recovery by State Agency.—__ 
+
+>         “(1) __In general.—__ 
+
+>         The State agency shall recover the amount to be repaid, or any part thereof, by deductions from any emergency unemployment compensation payable to such individual under this title or from any unemployment compensation payable to such individual under any State or Federal unemployment compensation law administered by the State agency or under any other State or Federal law administered by the State agency which provides for the payment of any assistance or allowance with respect to any week of unemployment, during the 3-year period after the date such individuals received the payment of the emergency unemployment compensation to which they were not entitled, in accordance with the same procedures as apply to the recovery of overpayments of regular unemployment benefits paid by the State.
+
+>         “(2) __Opportunity for hearing.—__ 
+
+>         No repayment shall be required, and no deduction shall be made, until a determination has been made, notice thereof and an opportunity for a fair hearing has been given to the individual, and the determination has become final.
+
+>     “(d) __Review.—__ 
+
+>     Any determination by a State agency under this section shall be subject to review in the same manner and to the same extent as determinations under the State unemployment compensation law, and only in that manner and to that extent.
+
+>  __“__  __definitions__ 
+
+> “Sec. 4006. In this title, the terms ‘compensation’, ‘regular compensation’, ‘extended compensation’, ‘benefit year’, ‘base period’, ‘State’, ‘State agency’, ‘State law’, and ‘week’ have the respective meanings given such terms under section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 \[[Pub. L. 91–373][/us/pl/91/373]\] ([26 U.S.C. 3304][/us/usc/t26/s3304] note).
+
+>  __“__  __applicability__ 
+
+> “Sec. 4007.
+
+>      (a) __In General.—__ 
+
+>     An agreement entered into under this title shall apply to weeks of unemployment—
+
+>         “(1) beginning after the date on which such agreement is entered into; and
+
+>         “(2) ending on or before January 1, 2014.
+
+>     “(b) __Termination.—__ 
+
+>     No compensation under this title shall be payable for any week subsequent to the last week described in subsection (a).”
 
 \[[Pub. L. 112–240, title V, § 501(c)][/us/pl/112/240/s501/c], Jan. 2, 2013, [126 Stat. 2344][/us/stat/126/2344], provided that: 
 
@@ -1395,7 +1557,11 @@
 
 >                 “(i) Any amounts deposited in the individual’s temporary extended unemployment compensation account by reason of section 203(c) of such Act (commonly known as ‘TEUC–X amounts’) before the date of enactment of this Act \[Apr. 16, 2003\] shall be treated as amounts deposited by reason of section 203(b) of such Act (commonly known as ‘TEUC amounts’), as deemed to have been amended by paragraph (3)(A).
 
->                 “(ii) For purposes of determining whether the individual is eligible for any TEUC–X amounts under such Act, as deemed to be amended by this subsection—         “(I) any determination made under section 203(c) of such Act before the application of the amendment described in paragraph (3)(B) shall be disregarded; and
+>                 “(ii)
+
+>                  For purposes of determining whether the individual is eligible for any TEUC–X amounts under such Act, as deemed to be amended by this subsection—
+
+>                          “(I) any determination made under section 203(c) of such Act before the application of the amendment described in paragraph (3)(B) shall be disregarded; and
 
 >                          “(II) any such determination shall instead be made by applying section 203(c) of such Act, as deemed to be amended by paragraph (3)(B), as of the time that all amounts established in such account in accordance with section 203(b) of such Act (as deemed to be amended under this subsection, and including any amounts described in clause (i)) are in fact exhausted.”
 
@@ -1577,7 +1743,7 @@
 
 >         Subject to paragraphs (2) and (3), in the case of an individual who has amounts remaining in an account established under section 203 as of December 31, 2003, temporary extended unemployment compensation shall continue to be payable to such individual from such amounts for any week beginning after such date for which the individual meets the eligibility requirements of this title.
 
->         “(2) __No augmentation after december 31, 2003.—__ 
+>         “(2) __No augmentation after__  __december 31, 2003__  __.—__ 
 
 >         If the account of an individual is exhausted after December 31, 2003, then section 203(c) shall not apply and such account shall not be augmented under such section, regardless of whether such individual’s State is in an extended benefit period (as determined under paragraph (2) of such section).
 
@@ -1655,7 +1821,7 @@
 
 >     “(4) such individual was entitled to regular compensation on the basis of his services on such active duty, but the weekly benefit amount was less than the benefit amount he received for the week referred to in paragraph (2),
 
->         such individual’s weekly benefit amount under the Emergency Unemployment Compensation Act of 1991 \[see [section 101(d) of Pub. L. 102–164][/us/pl/102/164/s101/d], formerly set out below\] for any week beginning after the date of the enactment of this Act \[July 3, 1992\] shall be not less than the benefit amount he received for the week referred to in paragraph (2).”
+>     such individual’s weekly benefit amount under the Emergency Unemployment Compensation Act of 1991 \[see [section 101(d) of Pub. L. 102–164][/us/pl/102/164/s101/d], formerly set out below\] for any week beginning after the date of the enactment of this Act \[July 3, 1992\] shall be not less than the benefit amount he received for the week referred to in paragraph (2).”
 
  __Study and Report by Federal Advisory Council on Suspension of Eligibility Requirements for Unemployment Benefits__ 
 
@@ -2505,9 +2671,9 @@
 
 >         “(B) an extended benefit period is not in effect for such week in such State.
 
->     “(2) Paragraph (1) shall not apply with respect to the first 2 weeks for which extended compensation is payable (determined without regard to this subsection) pursuant to an interstate claim filed under the interstate benefit payment plan to the individual from the extended compensation account established for the benefit year.
+>         “(2) Paragraph (1) shall not apply with respect to the first 2 weeks for which extended compensation is payable (determined without regard to this subsection) pursuant to an interstate claim filed under the interstate benefit payment plan to the individual from the extended compensation account established for the benefit year.
 
->     “(3) Section 3304(a)(9)(A) of the Internal Revenue Code of 1986 shall not apply to any denial of compensation required under this subsection.
+>         “(3) Section 3304(a)(9)(A) of the Internal Revenue Code of 1986 shall not apply to any denial of compensation required under this subsection.
 
 > “Sec. 203.
 
@@ -2529,7 +2695,7 @@
 
 >         “(B) no extended benefit period may begin before the fourteenth week after the close of a prior extended benefit period with respect to such State.
 
->     “(2) When a determination has been made that an extended benefit period is beginning or ending with respect to a State, the Secretary shall cause notice of such determination to be published in the Federal Register.
+>         “(2) When a determination has been made that an extended benefit period is beginning or ending with respect to a State, the Secretary shall cause notice of such determination to be published in the Federal Register.
 
 >     “(c) \[Eligibility Period\] For purposes of this title, an individual’s eligibility period under the State law shall consist of the weeks in his benefit year which begin in an extended benefit period and, if his benefit year ends within such extended benefit period, any weeks thereafter which begin in such extended benefit period.
 
@@ -2557,7 +2723,7 @@
 
 >         “(B) the average monthly covered employment for the specified period.
 
->     “(2) Determinations under subsection (d) shall be made by the State agency in accordance with regulations prescribed by the Secretary.
+>         “(2) Determinations under subsection (d) shall be made by the State agency in accordance with regulations prescribed by the Secretary.
 
 >     “(f)
 

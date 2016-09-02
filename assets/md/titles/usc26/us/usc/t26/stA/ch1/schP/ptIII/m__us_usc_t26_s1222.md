@@ -15,7 +15,7 @@
 
 ## § 1222. Other terms relating to capital gains and losses
 
-For purposes of this subtitle—
+    For purposes of this subtitle—
 
     (1) __Short-term capital gain__ 
 
@@ -61,7 +61,7 @@ For purposes of this subtitle—
 
         The term “net capital gain” means the excess of the net long-term capital gain for the taxable year over the net short-term capital loss for such year.
 
-        For purposes of this subtitle, in the case of futures transactions in any commodity subject to the rules of a board of trade or commodity exchange, the length of the holding period taken into account under this section or under any other section amended by section 1402 of the Tax Reform Act of 1976 shall be determined without regard to the amendments made by subsections (a) and (b) of such section 1402.
+    For purposes of this subtitle, in the case of futures transactions in any commodity subject to the rules of a board of trade or commodity exchange, the length of the holding period taken into account under this section or under any other section amended by section 1402 of the Tax Reform Act of 1976 shall be determined without regard to the amendments made by subsections (a) and (b) of such section 1402.
 
 ([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 322][/us/stat/68A/322]; [Pub. L. 88–272, title II, § 230(b)][/us/pl/88/272/s230/b], Feb. 26, 1964, [78 Stat. 100][/us/stat/78/100]; [Pub. L. 91–172, title V][/us/pl/91/172], §§ 511(a), 513(c), Dec. 30, 1969, [83 Stat. 635][/us/stat/83/635], 643; [Pub. L. 94–455, title XIV, § 1402(a)(1)][/us/pl/94/455/s1402/a/1], (2), (d), title XIX, § 1901(a)(136), Oct. 4, 1976, [90 Stat. 1731][/us/stat/90/1731], 1733, 1787; [Pub. L. 98–369, div. A, title X, § 1001(a)][/us/pl/98/369/s1001/a], (e), July 18, 1984, [98 Stat. 1011][/us/stat/98/1011], 1012; [Pub. L. 111–325, title I, § 101(b)(2)][/us/pl/111/325/s101/b/2], Dec. 22, 2010, [124 Stat. 3538][/us/stat/124/3538].)
 

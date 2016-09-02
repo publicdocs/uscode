@@ -213,7 +213,7 @@
 
 >     “(4) any summons issued after such date of enactment,
 
->         without regard to when the taxable year (to which the information, records, authorization, or summons relates) began.”
+>     without regard to when the taxable year (to which the information, records, authorization, or summons relates) began.”
 
  __Effective Date of 1989 Amendment__ 
 

@@ -147,7 +147,7 @@
 
 >             “(D) any transaction described in section 338 of the Internal Revenue Code of 1986 with respect to any target corporation if a qualified stock purchase of such target corporation is made on or after August 1, 1986, pursuant to a written binding contract in effect before such date and the acquisition date (within the meaning of such section 338) is before January 1, 1988.
 
->         “(2) __Special rule for certain actions taken before november 20, 1985.—__ 
+>         “(2) __Special rule for certain actions taken before__  __november 20, 1985__  __.—__ 
 
 >         For purposes of paragraph (1), transactions shall be treated as pursuant to a plan of liquidation adopted before August 1, 1986, if—
 
@@ -231,7 +231,9 @@
 
 >                 “(ii) __5-year ownership requirement not to apply in certain cases.—__ 
 
->                 In the case of—         “(I) any complete liquidation pursuant to a plan of liquidation adopted before March 31, 1988,
+>                 In the case of—
+
+>                          “(I) any complete liquidation pursuant to a plan of liquidation adopted before March 31, 1988,
 
 >                          “(II) any distribution not in liquidation made before March 31, 1988,
 

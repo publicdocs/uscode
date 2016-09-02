@@ -357,7 +357,7 @@
 
 >         Except as provided in subparagraph (B), the amendments made by subsection (b) (other than paragraph (1) thereof) \[amending this section and sections 170, 368, 514, and 1235 of this title\] shall apply to transactions after December 31, 1983, in taxable years ending after such date.
 
->         “(B) __Exception for transfers to foreign corporations on or before march 1, 1984.—__ 
+>         “(B) __Exception for transfers to foreign corporations on or before__  __march 1, 1984__  __.—__ 
 
 >         The amendments made by subsection (b)(2) \[amending this section\] shall not apply to property transferred to a foreign corporation on or before March 1, 1984.
 

@@ -271,7 +271,7 @@
 
  __Inflation Adjusted Items for Certain Calendar Years__ 
 
-For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table below.
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table below.
 
  __Amendments__ 
 

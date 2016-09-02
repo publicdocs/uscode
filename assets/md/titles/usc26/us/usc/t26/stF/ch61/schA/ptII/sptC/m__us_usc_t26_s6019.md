@@ -15,7 +15,7 @@
 
 ## § 6019. Gift tax returns
 
-Any individual who in any calendar year makes any transfer by gift other than—
+    Any individual who in any calendar year makes any transfer by gift other than—
 
     (1) a transfer which under subsection (b) or (e) of section 2503 is not to be included in the total amount of gifts for such year,
 
@@ -33,7 +33,7 @@ Any individual who in any calendar year makes any transfer by gift other than—
 
         (B) such transfer is described in section 2522(d),
 
-        shall make a return for such year with respect to the gift tax imposed by subtitle B.
+    shall make a return for such year with respect to the gift tax imposed by subtitle B.
 
 ([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 739][/us/stat/68A/739]; [Pub. L. 91–614, title I, § 102(d)(3)][/us/pl/91/614/s102/d/3], Dec. 31, 1970, [84 Stat. 1841][/us/stat/84/1841]; [Pub. L. 97–34, title IV][/us/pl/97/34], §§ 403(b)(3)(A), (c)(3)(B), 442(d)(2), Aug. 13, 1981, [95 Stat. 301][/us/stat/95/301], 302, 322; [Pub. L. 105–34, title XIII, § 1301(a)][/us/pl/105/34/s1301/a], Aug. 5, 1997, [111 Stat. 1039][/us/stat/111/1039]; [Pub. L. 107–16, title V, § 542(b)(2)][/us/pl/107/16/s542/b/2], June 7, 2001, [115 Stat. 82][/us/stat/115/82]; [Pub. L. 111–312, title III, § 301(a)][/us/pl/111/312/s301/a], Dec. 17, 2010, [124 Stat. 3300][/us/stat/124/3300].)
 

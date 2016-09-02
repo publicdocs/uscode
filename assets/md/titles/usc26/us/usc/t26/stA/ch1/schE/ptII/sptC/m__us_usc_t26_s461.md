@@ -615,7 +615,7 @@
 
 >     “(2) refund or credit of any overpayment which would result from the application of such amendments to such transfer is prevented by the operation of any law or rule of law.
 
->         In the case of any transfer to which this subsection applies, the deduction shall be allowed for the taxable year in which the contest with respect to such transfer is settled.”
+>     In the case of any transfer to which this subsection applies, the deduction shall be allowed for the taxable year in which the contest with respect to such transfer is settled.”
 
 ----------
 

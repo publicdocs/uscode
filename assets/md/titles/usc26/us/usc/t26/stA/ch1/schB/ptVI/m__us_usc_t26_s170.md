@@ -2541,7 +2541,7 @@
 
 >     “(2) to provide information, make recommendations, and seek public support or opposition as to such proposals,
 
->         shall be treated as a charitable contribution if no part of the net earnings of such organization inures to the benefit of any private shareholder or individual. The provisions of the preceding sentence shall not apply to any organization which participates in, or intervenes in, any political campaign on behalf of any candidate for public office.”
+>     shall be treated as a charitable contribution if no part of the net earnings of such organization inures to the benefit of any private shareholder or individual. The provisions of the preceding sentence shall not apply to any organization which participates in, or intervenes in, any political campaign on behalf of any candidate for public office.”
 
 ----------
 

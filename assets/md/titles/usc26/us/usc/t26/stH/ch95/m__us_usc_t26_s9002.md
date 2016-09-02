@@ -15,7 +15,7 @@
 
 ## § 9002. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) The term “authorized committee” means, with respect to the candidates of a political party for President and Vice President of the United States, any political committee which is authorized in writing by such candidates to incur expenses to further the election of such candidates. Such authorization shall be addressed to the chairman of such political committee, and a copy of such authorization shall be filed by such candidates with the Commission. Any withdrawal of any authorization shall also be in writing and shall be addressed and filed in the same manner as the authorization.
 

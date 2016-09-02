@@ -225,7 +225,7 @@
 
 >         For purposes of section 833(b)(3)(B), the surplus of any organization as of the beginning of its 1st taxable year beginning after December 31, 1986, shall be increased by the amount of any distribution (other than to policyholders) made by such organization after August 16, 1986, and before the beginning of such taxable year.
 
->         “(C) __Reserve weakening after august 16, 1986.—__ 
+>         “(C) __Reserve weakening after__  __august 16, 1986__  __.—__ 
 
 >         Any reserve weakening after August 16, 1986, by an existing Blue Cross or Blue Shield organization shall be treated as occurring in such organization’s 1st taxable year beginning after December 31, 1986.
 

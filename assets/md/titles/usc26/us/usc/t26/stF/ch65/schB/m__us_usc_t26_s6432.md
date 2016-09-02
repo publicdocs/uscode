@@ -165,19 +165,21 @@
 
 >                 An assistance eligible individual may elect to enroll in different coverage as described in clause (i) only if—
 
->                      “(I) the employer involved has made a determination that such employer will permit assistance eligible individuals to enroll in different coverage as provided for this subparagraph;
+>                          “(I) the employer involved has made a determination that such employer will permit assistance eligible individuals to enroll in different coverage as provided for this subparagraph;
 
->                      “(II) the premium for such different coverage does not exceed the premium for coverage in which the individual was enrolled at the time the qualifying event occurred;
+>                          “(II) the premium for such different coverage does not exceed the premium for coverage in which the individual was enrolled at the time the qualifying event occurred;
 
->                      “(III) the different coverage in which the individual elects to enroll is coverage that is also offered to the active employees of the employer at the time at which such election is made; and
+>                          “(III) the different coverage in which the individual elects to enroll is coverage that is also offered to the active employees of the employer at the time at which such election is made; and
 
->                      “(IV) the different coverage is not—
+>                          “(IV)
 
->                     “(aa) coverage that provides only dental, vision, counseling, or referral services (or a combination of such services);
+>                      the different coverage is not—
 
->                     “(bb) a flexible spending arrangement (as defined in section 106(c)(2) of the Internal Revenue Code of 1986); or
+>                         “(aa) coverage that provides only dental, vision, counseling, or referral services (or a combination of such services);
 
->                     “(cc) coverage that provides coverage for services or treatments furnished in an on-site medical facility maintained by the employer and that consists primarily of first-aid services, prevention and wellness care, or similar care (or a combination of such care).
+>                         “(bb) a flexible spending arrangement (as defined in section 106(c)(2) of the Internal Revenue Code of 1986); or
+
+>                         “(cc) coverage that provides coverage for services or treatments furnished in an on-site medical facility maintained by the employer and that consists primarily of first-aid services, prevention and wellness care, or similar care (or a combination of such care).
 
 >             “(C) __Premium reimbursement.—__ 
 
@@ -191,7 +193,11 @@
 
 >                 “(i) the first date that such individual is eligible for coverage under any other group health plan (other than coverage consisting of only dental, vision, counseling, or referral services (or a combination thereof), coverage under a flexible spending arrangement (as defined in section 106(c)(2) of the Internal Revenue Code of 1986), or coverage of treatment that is furnished in an on-site medical facility maintained by the employer and that consists primarily of first-aid services, prevention and wellness care, or similar care (or a combination thereof)) or is eligible for benefits under title XVIII of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq.\], or
 
->                 “(ii) the earliest of—         “(I) the date which is 15 months after the first day that paragraph (1)(A) applies with respect to such individual,
+>                 “(ii)
+
+>                  the earliest of—
+
+>                          “(I) the date which is 15 months after the first day that paragraph (1)(A) applies with respect to such individual,
 
 >                          “(II) the date following the expiration of the maximum period of continuation coverage required under the applicable COBRA continuation coverage provision, or
 
@@ -253,7 +259,9 @@
 
 >                 “(i) __In general.—__ 
 
->                 In the case of notices provided under section 606(a)(4) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1166][/us/usc/t29/s1166]\[(a)\](4)), section 4980B(f)(6)(D) of the Internal Revenue Code of 1986, section 2206(4) of the Public Health Service Act ([42 U.S.C. 300bb–6(4)][/us/usc/t42/s300bb–6/4]), or [section 8905a(f)(2)(A) of title 5][/us/usc/t5/s8905a/f/2/A], United States Code, with respect to individuals who, during the period described in paragraph (3)(A), have a qualifying event relating to COBRA continuation coverage, the requirements of such sections shall not be treated as met unless such notices include an additional notification to the recipient of—         “(I) the availability of premium reduction with respect to such coverage under this subsection, and
+>                 In the case of notices provided under section 606(a)(4) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1166][/us/usc/t29/s1166]\[(a)\](4)), section 4980B(f)(6)(D) of the Internal Revenue Code of 1986, section 2206(4) of the Public Health Service Act ([42 U.S.C. 300bb–6(4)][/us/usc/t42/s300bb–6/4]), or [section 8905a(f)(2)(A) of title 5][/us/usc/t5/s8905a/f/2/A], United States Code, with respect to individuals who, during the period described in paragraph (3)(A), have a qualifying event relating to COBRA continuation coverage, the requirements of such sections shall not be treated as met unless such notices include an additional notification to the recipient of—
+
+>                          “(I) the availability of premium reduction with respect to such coverage under this subsection, and
 
 >                          “(II) the option to enroll in different coverage if the employer permits assistance eligible individuals to elect enrollment in different coverage (as described in paragraph (1)(B)).
 
@@ -379,7 +387,9 @@
 
 >                 “(i) __In general.—__ 
 
->                 In the case of an assistance eligible individual who pays, with respect to the first period of COBRA continuation coverage to which subsection (a)(1)(A) applies or the immediately subsequent period, the full premium amount for such coverage, the person to whom such payment is payable shall—         “(I) make a reimbursement payment to such individual for the amount of such premium paid in excess of the amount required to be paid under subsection (a)(1)(A); or
+>                 In the case of an assistance eligible individual who pays, with respect to the first period of COBRA continuation coverage to which subsection (a)(1)(A) applies or the immediately subsequent period, the full premium amount for such coverage, the person to whom such payment is payable shall—
+
+>                          “(I) make a reimbursement payment to such individual for the amount of such premium paid in excess of the amount required to be paid under subsection (a)(1)(A); or
 
 >                          “(II) provide credit to the individual for such amount in a manner that reduces one or more subsequent premium payments that the individual is required to pay under such subsection for the coverage involved.
 
@@ -437,7 +447,11 @@
 
 >                 “(i) such individual was covered under the COBRA continuation coverage to which such premium relates for the period of coverage immediately preceding such transition period, and
 
->                 “(ii) such individual pays, the amount of such premium, after the application of paragraph (1)(A), by the latest of—         “(I) 60 days after the date of the enactment of this paragraph \[Dec. 19, 2009\],
+>                 “(ii)
+
+>                  such individual pays, the amount of such premium, after the application of paragraph (1)(A), by the latest of—
+
+>                          “(I) 60 days after the date of the enactment of this paragraph \[Dec. 19, 2009\],
 
 >                          “(II) 30 days after the date of provision of the notification required under subparagraph (D)(ii), or
 
@@ -451,7 +465,9 @@
 
 >                 “(i) __In general.—__ 
 
->                 For purposes of this paragraph, the term ‘transition period’ means, with respect to any assistance eligible individual, any period of coverage if—         “(I) such assistance eligible individual experienced an involuntary termination that was a qualifying event prior to the date of enactment of the Department of Defense Appropriations Act, 2010 \[Dec. 19, 2009\]; and
+>                 For purposes of this paragraph, the term ‘transition period’ means, with respect to any assistance eligible individual, any period of coverage if—
+
+>                          “(I) such assistance eligible individual experienced an involuntary termination that was a qualifying event prior to the date of enactment of the Department of Defense Appropriations Act, 2010 \[Dec. 19, 2009\]; and
 
 >                          “(II) paragraph (1)(A) applies to such period by reason of the amendment made by section 1010(b) of the Department of Defense Appropriations Act, 2010 \[[Pub. L. 111–118][/us/pl/111/118]\].
 

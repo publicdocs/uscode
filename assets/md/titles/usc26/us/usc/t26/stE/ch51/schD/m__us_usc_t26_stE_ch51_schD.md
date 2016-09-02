@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stE/ch51/schC/ptIII/m__us_usc_t26_s5251, 5252.md) | [Next](./../../../../../..//us/usc/t26/stE/ch51/schD/m__us_usc_t26_s5271.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschD)
+[Previous](./../../../../../..//us/usc/t26/stE/ch51/schC/ptIII/m__us_usc_t26_stE_ch51_schC_ptIII.md) | [Next](./../../../../../..//us/usc/t26/stE/ch51/schD/m__us_usc_t26_s5271.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschD)
 
 #### Subchapter D—Industrial Use of Distilled Spirits
 
@@ -83,7 +83,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stE/ch51/schC/ptIII/m__us_usc_t26_s5251, 5252.md) | [Next](./../../../../../..//us/usc/t26/stE/ch51/schD/m__us_usc_t26_s5271.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschD)
+[Previous](./../../../../../..//us/usc/t26/stE/ch51/schC/ptIII/m__us_usc_t26_stE_ch51_schC_ptIII.md) | [Next](./../../../../../..//us/usc/t26/stE/ch51/schD/m__us_usc_t26_s5271.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstE%2Fch51%2FschD)
 
 ----------
 ----------

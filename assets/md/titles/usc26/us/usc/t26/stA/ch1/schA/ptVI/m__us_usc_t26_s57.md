@@ -65,9 +65,9 @@
 
                     The reduction in alternative minimum taxable income by reason of clause (i) for any taxable year shall not exceed 40 percent (30 percent in case of taxable years beginning in 1993) of the alternative minimum taxable income for such year determined without regard to clause (i) and the alternative tax net operating loss deduction under section 56(a)(4).
 
-            \[(3) Repealed. [Pub. L. 100–647, title I, § 1007(b)(14)(B)][/us/pl/100/647/s1007/b/14/B], Nov. 10, 1988, [102 Stat. 3430][/us/stat/102/3430]\]
+        \[(3) __Repealed.__  __[__  __Pub. L. 100–647, title I, § 1007(b)(14)(B)__  __][/us/pl/100/647/s1007/b/14/B]__  __,__  __Nov. 10, 1988__  __,__  __[__  __102 Stat. 3430__  __][/us/stat/102/3430]__  __\]__ 
 
-            \[(4) Repealed. [Pub. L. 104–188, title I, § 1616(b)(3)][/us/pl/104/188/s1616/b/3], Aug. 20, 1996, [110 Stat. 1856][/us/stat/110/1856]\]
+        \[(4) __Repealed.__  __[__  __Pub. L. 104–188, title I, § 1616(b)(3)__  __][/us/pl/104/188/s1616/b/3]__  __,__  __Aug. 20, 1996__  __,__  __[__  __110 Stat. 1856__  __][/us/stat/110/1856]__  __\]__ 
 
         (5) __Tax-exempt interest__ 
 

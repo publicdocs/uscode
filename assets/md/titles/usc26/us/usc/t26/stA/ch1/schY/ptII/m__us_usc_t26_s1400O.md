@@ -15,7 +15,7 @@
 
 ## § 1400O. Education tax benefits
 
-In the case of an individual who attends an eligible educational institution (as defined in section 25A(f)(2)) located in the Gulf Opportunity Zone for any taxable year beginning during 2005 or 2006—
+    In the case of an individual who attends an eligible educational institution (as defined in section 25A(f)(2)) located in the Gulf Opportunity Zone for any taxable year beginning during 2005 or 2006—
 
     (1) in applying section 25A, the term “qualified tuition and related expenses” shall include any costs which are qualified higher education expenses (as defined in section 529(e)(3)),
 

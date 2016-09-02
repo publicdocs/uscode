@@ -111,7 +111,7 @@
 
  __Inflation Adjusted Items for Certain Tax Years__ 
 
-For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.
+    For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.
 
  __Amendments__ 
 

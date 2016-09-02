@@ -279,7 +279,7 @@
 
 >     Except as otherwise provided in this subsection and subsection (l) \[set out as a note below\] the amendments made by this section \[enacting this section and sections 507 to 509, 4941 to 4848, 6056, 6684, and 6685 of this title, amending sections 101, 170, 501, 503, 542, 663, 681, 878, 884, 1443, 2039, 2517, 4057, 4221, 4253, 4294, 5214, 6033, 6034, 6043, 6104, 6161, 6201, 6211 to 6214, 6344, 6501, 6503, 6511, 6512, 6601, 6652, 6653, 6659, 6676, 6677, 6679, 6682, 7207, 7422, and 7454 of this title, repealing [section 504 of this title][/us/usc/t26/s504], and enacting provisions set out as notes under this section and [section 1 of this title][/us/usc/t26/s1]\] shall take effect on January 1, 1970.
 
->     “(2) __Provisions effective for taxable years beginning after december 31, 1969.—__ 
+>     “(2) __Provisions effective for taxable years beginning after__  __december 31, 1969__  __.—__ 
 
 >     The following provisions shall apply to taxable years beginning after December 31, 1969:
 

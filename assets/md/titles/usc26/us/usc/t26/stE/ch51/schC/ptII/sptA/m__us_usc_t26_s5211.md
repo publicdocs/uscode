@@ -15,7 +15,7 @@
 
 ## § 5211. Production and entry of distilled spirits
 
-Distilled spirits in the process of production in a distilled spirits plant may be held prior to the production gauge only for so long as is reasonably necessary to complete the process of production. Under such regulations as the Secretary shall prescribe, all distilled spirits produced in a distilled spirits plant shall be gauged and a record made of such gauge within a reasonable time after the production thereof has been completed. The proprietor shall, pursuant to such production gauge and in accordance with such regulations as the Secretary shall prescribe, make appropriate entry for—
+    Distilled spirits in the process of production in a distilled spirits plant may be held prior to the production gauge only for so long as is reasonably necessary to complete the process of production. Under such regulations as the Secretary shall prescribe, all distilled spirits produced in a distilled spirits plant shall be gauged and a record made of such gauge within a reasonable time after the production thereof has been completed. The proprietor shall, pursuant to such production gauge and in accordance with such regulations as the Secretary shall prescribe, make appropriate entry for—
 
     (1) deposit of such spirits on bonded premises for storage or processing;
 

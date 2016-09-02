@@ -333,7 +333,7 @@ The maximum tax a year.  </td>
 
 [Pub. L. 98–369, div. A, title IX, § 901(b)][/us/pl/98/369/s901/b], July 18, 1984, [98 Stat. 1003][/us/stat/98/1003], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __Special rule for taxable period beginning on july 1, 1984.—__ 
+>     “(1) __Special rule for taxable period beginning on__  __july 1, 1984__  __.—__ 
 
 >     In the case of a small owner-operator, the amount of the tax imposed by section 4481 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the use of any highway motor vehicle subject to tax under section 4481(a) of such Code (as amended by subsection (a)) for the taxable period which begins on July 1, 1984, shall be the lesser of—
 
@@ -341,7 +341,7 @@ The maximum tax a year.  </td>
 
 >         “(B) the amount of the tax which would be imposed under such section 4481(a) without regard to this paragraph.
 
->     “(2) __Exemption for vehicles used for less than 5,000 miles (and certain other amendments) to take effect on july 1, 1984.—__ 
+>     “(2) __Exemption for vehicles used for less than 5,000 miles (and certain other amendments) to take effect on__  __july 1, 1984__  __.—__ 
 
 >     In the case of a small owner-operator, notwithstanding subsection (f)(2) of section 513 of the Highway Revenue Act of 1982 \[[section 513(f)(2) of Pub. L. 97–424][/us/pl/97/424/s513/f/2], set out as an Effective Date of 1983 Amendment note above\], the amendments made by subsections (b), (c), and (d) of such section \[amending sections 4481 to 4483 of this title\] shall take effect on July 1, 1984.
 

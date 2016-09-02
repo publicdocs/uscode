@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptC/m__us_usc_t26_s921 to 927.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptD/m__us_usc_t26_s931.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptD)
+[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptC/m__us_usc_t26_stA_ch1_schN_ptIII_sptC.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptD/m__us_usc_t26_s931.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptD)
 
 ###### Subpart D—Possessions of the United States
 
@@ -95,7 +95,7 @@
 
 ----------
 
-[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptC/m__us_usc_t26_s921 to 927.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptD/m__us_usc_t26_s931.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptD)
+[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptC/m__us_usc_t26_stA_ch1_schN_ptIII_sptC.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptD/m__us_usc_t26_s931.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptD)
 
 ----------
 ----------

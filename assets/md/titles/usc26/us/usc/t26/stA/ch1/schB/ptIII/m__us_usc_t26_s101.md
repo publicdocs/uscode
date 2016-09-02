@@ -31,7 +31,7 @@
 
             The term “other amounts” in the first sentence of this paragraph includes interest paid or accrued by the transferee on indebtedness with respect to such contract or any interest therein if such interest paid or accrued is not allowable as a deduction by reason of section 264(a)(4).
 
-        \[(b) Repealed. [Pub. L. 104–188, title I, § 1402(a)][/us/pl/104/188/s1402/a], Aug. 20, 1996, [110 Stat. 1789][/us/stat/110/1789]\]
+    \[(b) __Repealed.__  __[__  __Pub. L. 104–188, title I, § 1402(a)__  __][/us/pl/104/188/s1402/a]__  __,__  __Aug. 20, 1996__  __,__  __[__  __110 Stat. 1789__  __][/us/stat/110/1789]__  __\]__ 
 
     (c) __Interest__ 
 
@@ -61,7 +61,7 @@
 
             This subsection shall not apply to any amount to which subsection (c) is applicable.
 
-        \[(e) Repealed. [Pub. L. 98–369, div. A, title IV, § 421(b)(2)][/us/pl/98/369/s421/b/2], July 18, 1984, [98 Stat. 794][/us/stat/98/794]\]
+    \[(e) __Repealed.__  __[__  __Pub. L. 98–369, div. A, title IV, § 421(b)(2)__  __][/us/pl/98/369/s421/b/2]__  __,__  __July 18, 1984__  __,__  __[__  __98 Stat. 794__  __][/us/stat/98/794]__  __\]__ 
 
     (f) __Proceeds of flexible premium contracts issued before__  __January 1, 1985__  __payable by reason of death__ 
 
@@ -613,7 +613,9 @@
 
 [Pub. L. 97–248, title II, § 266(c)(2)][/us/pl/97/248/s266/c/2], (3), Sept. 3, 1982, [96 Stat. 550][/us/stat/96/550], as amended by [Pub. L. 97–448, title III, § 306(a)(13)][/us/pl/97/448/s306/a/13], Jan. 12, 1983, [96 Stat. 2405][/us/stat/96/2405]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(2) __Special rule for contracts entered into before january 1, 1983.—Any contract entered into before__  __January 1, 1983__  __, which meets the requirements of section 101(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the date which is 1 year after the date of the enactment of this Act \[__  __Sept. 3, 1982__  __\] shall be treated as meeting the requirements of such section for any period before the date on which such contract meets such requirements. Any death benefits paid under a flexible premium life insurance contract (within the meaning of section 101(f)(3)(A) of such Code) before the date which is 1 year after such date of enactment \[__  __Sept. 3, 1982__  __\] shall be excluded from gross income.__ 
+>     “(2) __Special rule for contracts entered into before__  __january 1, 1983__  __.—__ 
+
+>     Any contract entered into before January 1, 1983, which meets the requirements of section 101(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the date which is 1 year after the date of the enactment of this Act \[Sept. 3, 1982\] shall be treated as meeting the requirements of such section for any period before the date on which such contract meets such requirements. Any death benefits paid under a flexible premium life insurance contract (within the meaning of section 101(f)(3)(A) of such Code) before the date which is 1 year after such date of enactment \[Sept. 3, 1982\] shall be excluded from gross income.
 
 >     “(3) __Special rule for certain contracts.—__ 
 

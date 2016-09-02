@@ -255,23 +255,37 @@
 
 [Pub. L. 96–603, § 2(e)][/us/pl/96/603/s2/e], Dec. 28, 1980, [94 Stat. 3510][/us/stat/94/3510], as amended by [Pub. L. 97–448, title III, § 305(a)][/us/pl/97/448/s305/a], Jan. 12, 1983, [96 Stat. 2399][/us/stat/96/2399]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—The amendments made by this section \[enacting this section and__  __[__  __section 6689 of this title__  __][/us/usc/t26/s6689]__  __and amending sections 679 and 905 of this title\] shall apply with respect to employer contributions or accruals for taxable years beginning after__  __December 31, 1979__  __.__ 
+>     “(1) __In general.—__ 
+
+>     The amendments made by this section \[enacting this section and [section 6689 of this title][/us/usc/t26/s6689] and amending sections 679 and 905 of this title\] shall apply with respect to employer contributions or accruals for taxable years beginning after December 31, 1979.
 
 >     “(2) __Election to apply amendments retroactively with respect to foreign subsidiaries.—__ 
 
->         “(A) __In general.—The taxpayer may elect to have the amendments made by this section \[enacting this section and__  __[__  __section 6689 of this title__  __][/us/usc/t26/s6689]__  __and amending sections 679 and 905 of this title\] apply retroactively with respect to its foreign subsidiaries.__ 
+>         “(A) __In general.—__ 
 
->         “(B) __Scope of retroactive application.—Any election made under this paragraph shall apply with respect to all foreign subsidiaries of the taxpayer for the taxpayer’s open period.__ 
+>         The taxpayer may elect to have the amendments made by this section \[enacting this section and [section 6689 of this title][/us/usc/t26/s6689] and amending sections 679 and 905 of this title\] apply retroactively with respect to its foreign subsidiaries.
 
->         “(C) __Distributions by foreign subsidiary must be out of post-1971 earnings and profits.—The election under this paragraph shall apply to distributions made by a foreign subsidiary only if made out of accumulated profits (or earnings and profits) earned after__  __December 31, 1970__  __.__ 
+>         “(B) __Scope of retroactive application.—__ 
 
->         “(D) __Revocation only with consent.—An election under this paragraph may be revoked only with the consent of the Secretary of the Treasury or his delegate.__ 
+>         Any election made under this paragraph shall apply with respect to all foreign subsidiaries of the taxpayer for the taxpayer’s open period.
 
->         “(E) __Open period.—For purposes of this subsection, the term ‘open period’ means, with respect to any taxpayer, all taxable years which begin before__  __January 1, 1980__  __, and which begin after__  __December 31, 1971__  __, and for which, on__  __December 31, 1980__  __, the making of a refund, or the assessment of a deficiency, was not barred by any law or rule of law.__ 
+>         “(C) __Distributions by foreign subsidiary must be out of post-1971 earnings and profits.—__ 
+
+>         The election under this paragraph shall apply to distributions made by a foreign subsidiary only if made out of accumulated profits (or earnings and profits) earned after December 31, 1970.
+
+>         “(D) __Revocation only with consent.—__ 
+
+>         An election under this paragraph may be revoked only with the consent of the Secretary of the Treasury or his delegate.
+
+>         “(E) __Open period.—__ 
+
+>         For purposes of this subsection, the term ‘open period’ means, with respect to any taxpayer, all taxable years which begin before January 1, 1980, and which begin after December 31, 1971, and for which, on December 31, 1980, the making of a refund, or the assessment of a deficiency, was not barred by any law or rule of law.
 
 >     “(3) __Allowance of prior deductions in case of certain funded branch plans.—__ 
 
->         “(A) __In general.—If—__ 
+>         “(A) __In general.—__ 
+
+>         If—
 
 >             “(i) the taxpayer elects to have this paragraph apply, and
 
@@ -279,7 +293,9 @@
 
 >             then an amount equal to 1⁄15th of the aggregate of the prior deductions which would have been allowable if the amendments made by this section \[enacting this section and [section 6689 of this title][/us/usc/t26/s6689] and amending sections 679 and 905 of this title\] applied to taxable years beginning before January 1, 1980, shall be allowed as a deduction for the taxpayer’s first taxable year beginning in 1980, and an equal amount shall be allowed for each of the succeeding 14 taxable years.
 
->         “(B) __Prior deduction.—For purposes of subparagraph (A), the term ‘prior deduction’ means a deduction with respect to a qualified funded plan (within the meaning of section 404A(f)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) of the taxpayer—__ 
+>         “(B) __Prior deduction.—__ 
+
+>         For purposes of subparagraph (A), the term ‘prior deduction’ means a deduction with respect to a qualified funded plan (within the meaning of section 404A(f)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) of the taxpayer—
 
 >             “(i) which the taxpayer claimed for a taxable year (or could have claimed if the amendments made by this section \[enacting this section and [section 6689 of this title][/us/usc/t26/s6689] and amending sections 679 and 905 of this title\] applied to taxable years beginning before January 1, 1980) beginning before January 1, 1980,
 
@@ -289,9 +305,13 @@
 
 >     “(4) __Time and manner for making elections.—__ 
 
->         “(A) __Time.—An election under paragraph (2) or (3) may be made only on or before the due date (including extensions) for filing the taxpayer’s return of tax under chapter 1 of the Internal Revenue Code of 1986 \[section 1 et seq. of this title\] for its first taxable year ending on or after__  __December 31, 1980__  __.__ 
+>         “(A) __Time.—__ 
 
->         “(B) __Manner.—An election under paragraph (2) may be made only by a statement attached to the taxpayer’s return for its first taxable year ending on or after__  __December 31, 1980__  __. An election under paragraph (3) may be made only if the taxpayer, on or before the last day for making the election, files with the Secretary of the Treasury or his delegate such amended return and such other information as the Secretary of the Treasury or his delegate may require, and agrees to the assessment of a deficiency for any closed year falling within the open period, to the extent such deficiency is attributable to the operation of such election.”__ 
+>         An election under paragraph (2) or (3) may be made only on or before the due date (including extensions) for filing the taxpayer’s return of tax under chapter 1 of the Internal Revenue Code of 1986 \[section 1 et seq. of this title\] for its first taxable year ending on or after December 31, 1980.
+
+>         “(B) __Manner.—__ 
+
+>         An election under paragraph (2) may be made only by a statement attached to the taxpayer’s return for its first taxable year ending on or after December 31, 1980. An election under paragraph (3) may be made only if the taxpayer, on or before the last day for making the election, files with the Secretary of the Treasury or his delegate such amended return and such other information as the Secretary of the Treasury or his delegate may require, and agrees to the assessment of a deficiency for any closed year falling within the open period, to the extent such deficiency is attributable to the operation of such election.”
 
 \[[Pub. L. 97–448, title III, § 311(c)(1)][/us/pl/97/448/s311/c/1], Jan. 12, 1983, [96 Stat. 2411][/us/stat/96/2411], provided that: 
 

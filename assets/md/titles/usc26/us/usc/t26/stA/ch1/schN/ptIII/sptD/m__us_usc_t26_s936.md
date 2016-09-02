@@ -453,17 +453,25 @@
 
                     (I) __Payment of cost sharing__ 
 
-                    If an election of this method is in effect, the electing corporation must make a payment for its share of the cost (if any) of product area research which is paid or accrued by the affiliated group during that taxable year. Such share shall not be less than the same proportion of 110 percent of the cost of such product area research which the amount of “possession sales” bears to the amount of “total sales” of the affiliated group. The cost of product area research paid or accrued solely by the electing corporation in a taxable year (excluding amounts paid directly or indirectly to or on behalf of related persons and excluding amounts paid under any cost sharing agreements with related persons) will reduce (but not below zero) the amount of the electing corporation’s cost sharing payment under this method for that year. In the case of intangible property described in subsection (h)(3)(B)(i) which the electing corporation is treated as owning under subclause (II), in no event shall the payment required under this subclause be less than the inclusion or payment which would be required under section 367(d)(2)(A)(ii) or section 482 if the electing corporation were a foreign corporation.
+                    If an election of this method is in effect, the electing corporation must make a payment for its share of the cost (if any) of product area research which is paid or accrued by the affiliated group during that taxable year. Such share shall not be less than the same proportion of 110 percent of the cost of such product area research which the amount of “possession sales” bears to the amount of “total sales” of the affiliated group. The cost of product area research paid or accrued solely by the electing corporation in a taxable year (excluding amounts paid directly or indirectly to or on behalf of related persons and excluding amounts paid under any cost sharing agreements with related persons) will reduce (but not below zero) the amount of the electing corporation’s cost sharing payment under this method for that year. In the case of intangible property described in subsection (h)(3)(B)(i) which the electing corporation is treated as owning under subclause (II), in no event shall the payment required under this subclause be less than the inclusion or payment which would be required under section 367(d)(2)(A)(ii) or section 482 if the electing corporation were a foreign corporation.    (a) __Product area research__ 
 
-                        (a) Product area research    For purposes of this section, the term “product area research” includes (notwithstanding any provision to the contrary) the research, development and experimental costs, losses, expenses and other related deductions—including amounts paid or accrued for the performance of research or similar activities by another person; qualified research expenses within the meaning of section 41(b); amounts paid or accrued for the use of, or the right to use, research or any of the items specified in subsection (h)(3)(B)(i); and a proper allowance for amounts incurred for the acquisition of any of the items specified in subsection (h)(3)(B)(i)—which are properly apportioned or allocated to the same product area as that in which the electing corporation conducts its activities, and a ratable part of any such costs, losses, expenses and other deductions which cannot definitely be allocated to a particular product area.
+                            For purposes of this section, the term “product area research” includes (notwithstanding any provision to the contrary) the research, development and experimental costs, losses, expenses and other related deductions—including amounts paid or accrued for the performance of research or similar activities by another person; qualified research expenses within the meaning of section 41(b); amounts paid or accrued for the use of, or the right to use, research or any of the items specified in subsection (h)(3)(B)(i); and a proper allowance for amounts incurred for the acquisition of any of the items specified in subsection (h)(3)(B)(i)—which are properly apportioned or allocated to the same product area as that in which the electing corporation conducts its activities, and a ratable part of any such costs, losses, expenses and other deductions which cannot definitely be allocated to a particular product area.
 
-                        (b) Affiliated group    For purposes of this subsection, the term “affiliated group” shall mean the electing corporation and all other organizations, trades or businesses (whether or not incorporated, whether or not organized in the United States, and whether or not affiliated) owned or controlled directly or indirectly by the same interests, within the meaning of section 482.
+                        (b) __Affiliated group__ 
 
-                        (c) Possession sales    For purposes of this section, the term “possession sales” means the aggregate sales or other dispositions for the taxable year to persons who are not members of the affiliated group by members of the affiliated group of products produced, in whole or in part, by the electing corporation in the possession which are in the same product area as is used for determining the amount of product area research, and of services rendered, in whole or in part, in the possession in such product area to persons who are not members of the affiliated group.
+                            For purposes of this subsection, the term “affiliated group” shall mean the electing corporation and all other organizations, trades or businesses (whether or not incorporated, whether or not organized in the United States, and whether or not affiliated) owned or controlled directly or indirectly by the same interests, within the meaning of section 482.
 
-                        (d) Total sales    For purposes of this section, the term “total sales” means the aggregate sales or other dispositions for the taxable year to persons who are not members of the affiliated group by members of the affiliated group of all products in the same product area as is used for determining the amount of product area research, and of services rendered in such product area to persons who are not members of the affiliated group.
+                        (c) __Possession sales__ 
 
-                        (e) Product area    For purposes of this section, the term “product area” shall be defined by reference to the three-digit classification of the Standard Industrial Classification code. The Secretary may provide for the aggregation of two or more three-digit classifications where appropriate, and for a classification system other than the Standard Industrial Classification code in appropriate cases.
+                            For purposes of this section, the term “possession sales” means the aggregate sales or other dispositions for the taxable year to persons who are not members of the affiliated group by members of the affiliated group of products produced, in whole or in part, by the electing corporation in the possession which are in the same product area as is used for determining the amount of product area research, and of services rendered, in whole or in part, in the possession in such product area to persons who are not members of the affiliated group.
+
+                        (d) __Total sales__ 
+
+                            For purposes of this section, the term “total sales” means the aggregate sales or other dispositions for the taxable year to persons who are not members of the affiliated group by members of the affiliated group of all products in the same product area as is used for determining the amount of product area research, and of services rendered in such product area to persons who are not members of the affiliated group.
+
+                        (e) __Product area__ 
+
+                            For purposes of this section, the term “product area” shall be defined by reference to the three-digit classification of the Standard Industrial Classification code. The Secretary may provide for the aggregation of two or more three-digit classifications where appropriate, and for a classification system other than the Standard Industrial Classification code in appropriate cases.
 
                     (II) __Effect of election__ 
 
@@ -471,231 +479,227 @@
 
                     (III) __Payment provisions__ 
 
-    (a) The cost sharing payment determined under subparagraph (C)(i)(I) for any taxable year shall be made to the person or persons specified in subparagraph (C)(i)(IV)(a) not later than the time prescribed by law for filing the electing corporation’s return for such taxable year (including any extensions thereof). If all or part of such payment is not timely made, the amount of the cost sharing payment required to be paid shall be increased by the amount of interest that would have been due under section 6601(a) had the portion of the cost sharing payment that is not timely made been an amount of tax imposed by this title and had the last date prescribed for payment been the due date of the electing corporations  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “corporation’s”. </sup></sup>  return (determined without regard to any extension thereof). The amount by which a cost sharing payment determined under subparagraph (C)(i)(I) is increased by reason of the preceding sentence shall not be treated as a cost sharing payment or as interest. If failure to make timely payment is due in whole or in part to fraud or willful neglect, the electing corporation shall be deemed to have revoked the election made under subparagraph (A) on the first day of the taxable year for which the cost sharing payment was required.
+                        (a) The cost sharing payment determined under subparagraph (C)(i)(I) for any taxable year shall be made to the person or persons specified in subparagraph (C)(i)(IV)(a) not later than the time prescribed by law for filing the electing corporation’s return for such taxable year (including any extensions thereof). If all or part of such payment is not timely made, the amount of the cost sharing payment required to be paid shall be increased by the amount of interest that would have been due under section 6601(a) had the portion of the cost sharing payment that is not timely made been an amount of tax imposed by this title and had the last date prescribed for payment been the due date of the electing corporations  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “corporation’s”. </sup></sup>  return (determined without regard to any extension thereof). The amount by which a cost sharing payment determined under subparagraph (C)(i)(I) is increased by reason of the preceding sentence shall not be treated as a cost sharing payment or as interest. If failure to make timely payment is due in whole or in part to fraud or willful neglect, the electing corporation shall be deemed to have revoked the election made under subparagraph (A) on the first day of the taxable year for which the cost sharing payment was required.
 
-    (b)
+                        (b) For purposes of this title, any tax of a foreign country or possession of the United States which is paid or accrued with respect to the payment or receipt of a cost sharing payment determined under subparagraph (C)(i)(I) or of an amount of increase referred to in subparagraph (C)(i)(III)(a) shall not be treated as income, war profits, or excess profits taxes paid or accrued to a foreign country or possession of the United States, and no deduction shall be allowed under this title with respect to any amounts of such tax so paid or accrued.
 
-     For purposes of this title, any tax of a foreign country or possession of the United States which is paid or accrued with respect to the payment or receipt of a cost sharing payment determined under subparagraph (C)(i)(I) or of an amount of increase referred to in subparagraph (C)(i)(III)(a) shall not be treated as income, war profits, or excess profits taxes paid or accrued to a foreign country or possession of the United States, and no deduction shall be allowed under this title with respect to any amounts of such tax so paid or accrued.
+                    (IV) __Special rules__ 
 
-        (IV) __Special rules__ 
+                        (a) The amount of the cost sharing payment determined under subparagraph (C)(i)(I), and any increase in the amount thereof in accordance with subparagraph (C)(i)(III)(a), shall not be treated as income of the recipient, but shall reduce the amount of the deductions (and the amount of reductions in earnings and profits) otherwise allowable to the appropriate domestic member or members (other than an electing corporation) of the affiliated group, or, if there is no such domestic member, to the foreign member or members of such affiliated group as the Secretary may provide under regulations.
 
-    (a) The amount of the cost sharing payment determined under subparagraph (C)(i)(I), and any increase in the amount thereof in accordance with subparagraph (C)(i)(III)(a), shall not be treated as income of the recipient, but shall reduce the amount of the deductions (and the amount of reductions in earnings and profits) otherwise allowable to the appropriate domestic member or members (other than an electing corporation) of the affiliated group, or, if there is no such domestic member, to the foreign member or members of such affiliated group as the Secretary may provide under regulations.
+                        (b) If an election of this method is in effect, the electing corporation shall determine its intercompany pricing under the appropriate section 482 method, provided, however, that an electing corporation shall not be denied use of the resale price method for purposes of such intercompany pricing merely because the reseller adds more than an insubstantial amount to the value of the product by the use of intangible property.
 
-    (b) If an election of this method is in effect, the electing corporation shall determine its intercompany pricing under the appropriate section 482 method, provided, however, that an electing corporation shall not be denied use of the resale price method for purposes of such intercompany pricing merely because the reseller adds more than an insubstantial amount to the value of the product by the use of intangible property.
+                        (c) The amount of qualified research expenses, within the meaning of section 41, of any member of the controlled group of corporations (as defined in section 41(f)) of which the electing corporation is a member shall not be affected by the cost sharing payment required under this method.
 
-    (c)
+                (ii) __Profit split__ 
 
-     The amount of qualified research expenses, within the meaning of section 41, of any member of the controlled group of corporations (as defined in section 41(f)) of which the electing corporation is a member shall not be affected by the cost sharing payment required under this method.
+                    (I) __General rule__ 
 
-        (ii) __Profit split__ 
+                        If an election of this method is in effect, the electing corporation’s taxable income derived from the active conduct of a trade or business in a possession with respect to units of a product produced or type of service rendered, in whole or in part, by the electing corporation shall be equal to 50 percent of the combined taxable income of the affiliated group (other than foreign affiliates) derived from covered sales of units of the product produced or type of service rendered, in whole or in part, by the electing corporation in a possession.
 
-            (I) __General rule__ 
+                    (II) __Computation of combined taxable income__ 
 
-                If an election of this method is in effect, the electing corporation’s taxable income derived from the active conduct of a trade or business in a possession with respect to units of a product produced or type of service rendered, in whole or in part, by the electing corporation shall be equal to 50 percent of the combined taxable income of the affiliated group (other than foreign affiliates) derived from covered sales of units of the product produced or type of service rendered, in whole or in part, by the electing corporation in a possession.
+                        Combined taxable income shall be computed separately for each product produced or type of service rendered, in whole or in part, by the electing corporation in a possession. Combined taxable income shall be computed (notwithstanding any provision to the contrary) for each such product or type of service rendered by deducting from the gross income of the affiliated group (other than foreign affiliates) derived from covered sales of such product or type of service all expenses, losses, and other deductions properly apportioned or allocated to gross income from such sales or services, and a ratable part of all expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income, which are incurred by the affiliated group (other than foreign affiliates). Notwithstanding any other provision to the contrary, in computing the combined taxable income for each such product or type of service rendered, the research, development, and experimental costs, expenses and related deductions for the taxable year which would otherwise be apportioned or allocated to the gross income of the affiliated group (other than foreign affiliates) derived from covered sales of such product produced or type of service rendered, in whole or in part, by the electing corporation in a possession, shall not be less than the same proportion of the amount of the share of product area research determined under subparagraph (C)(i)(I) (without regard to the third and fourth sentences thereof, but substituting “120 percent” for “110 percent” in the second sentence thereof) in the product area which includes such product or type of service, that such gross income from the product or type of service bears to such gross income from all products and types of services, within such product area, produced or rendered, in whole or part, by the electing corporation in a possession.
 
-            (II) __Computation of combined taxable income__ 
+                    (III) __Division of combined taxable income__ 
 
-                Combined taxable income shall be computed separately for each product produced or type of service rendered, in whole or in part, by the electing corporation in a possession. Combined taxable income shall be computed (notwithstanding any provision to the contrary) for each such product or type of service rendered by deducting from the gross income of the affiliated group (other than foreign affiliates) derived from covered sales of such product or type of service all expenses, losses, and other deductions properly apportioned or allocated to gross income from such sales or services, and a ratable part of all expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income, which are incurred by the affiliated group (other than foreign affiliates). Notwithstanding any other provision to the contrary, in computing the combined taxable income for each such product or type of service rendered, the research, development, and experimental costs, expenses and related deductions for the taxable year which would otherwise be apportioned or allocated to the gross income of the affiliated group (other than foreign affiliates) derived from covered sales of such product produced or type of service rendered, in whole or in part, by the electing corporation in a possession, shall not be less than the same proportion of the amount of the share of product area research determined under subparagraph (C)(i)(I) (without regard to the third and fourth sentences thereof, but substituting “120 percent” for “110 percent” in the second sentence thereof) in the product area which includes such product or type of service, that such gross income from the product or type of service bears to such gross income from all products and types of services, within such product area, produced or rendered, in whole or part, by the electing corporation in a possession.
+                        50 percent of the combined taxable income computed as provided in subparagraph (C)(ii)(II) shall be allocated to the electing corporation. Combined taxable income, computed without regard to the last sentence of subparagraph (C)(ii)(II), less the amount allocated to the electing corporation under the preceding sentence, shall be allocated to the appropriate domestic member or members (other than any electing corporation) of the affiliated group and shall be treated as income from sources within the United States, or, if there is no such domestic member, to a foreign member or members of such affiliated group as the Secretary may provide under regulations.
 
-            (III) __Division of combined taxable income__ 
+                    (IV) __Covered sales__ 
 
-                50 percent of the combined taxable income computed as provided in subparagraph (C)(ii)(II) shall be allocated to the electing corporation. Combined taxable income, computed without regard to the last sentence of subparagraph (C)(ii)(II), less the amount allocated to the electing corporation under the preceding sentence, shall be allocated to the appropriate domestic member or members (other than any electing corporation) of the affiliated group and shall be treated as income from sources within the United States, or, if there is no such domestic member, to a foreign member or members of such affiliated group as the Secretary may provide under regulations.
+                        For purposes of this paragraph, the term “covered sales” means sales by members of the affiliated group (other than foreign affiliates) to persons who are not members of the affiliated group or to foreign affiliates.
 
-            (IV) __Covered sales__ 
+            (D) __Unrelated person__ 
 
-                For purposes of this paragraph, the term “covered sales” means sales by members of the affiliated group (other than foreign affiliates) to persons who are not members of the affiliated group or to foreign affiliates.
+                For purposes of this paragraph, the term “unrelated person” means any person other than a person related within the meaning of paragraph (3)(D) to the electing corporation.
 
-    (D) __Unrelated person__ 
+            (E) __Electing corporation__ 
 
-        For purposes of this paragraph, the term “unrelated person” means any person other than a person related within the meaning of paragraph (3)(D) to the electing corporation.
+                For purposes of this subsection, the term “electing corporation” means a domestic corporation for which an election under this section is in effect.
 
-    (E) __Electing corporation__ 
+            (F) __Time and manner of election; revocation__ 
 
-        For purposes of this subsection, the term “electing corporation” means a domestic corporation for which an election under this section is in effect.
+                (i) __In general__ 
 
-    (F) __Time and manner of election; revocation__ 
+                    An election under subparagraph (A) to use one of the methods under subparagraph (C) shall be made only on or before the due date prescribed by law (including extensions) for filing the tax return of the electing corporation for its first taxable year beginning after December 31, 1982. If an election of one of such methods is made, such election shall be binding on the electing corporation and such method must be used for each taxable year thereafter until such election is revoked by the electing corporation under subparagraph (F)(iii). If any such election is revoked by the electing corporation under subparagraph (F)(iii), such electing corporation may make a subsequent election under subparagraph (A) only with the consent of the Secretary.
 
-        (i) __In general__ 
+                (ii) __Manner of making election__ 
 
-            An election under subparagraph (A) to use one of the methods under subparagraph (C) shall be made only on or before the due date prescribed by law (including extensions) for filing the tax return of the electing corporation for its first taxable year beginning after December 31, 1982. If an election of one of such methods is made, such election shall be binding on the electing corporation and such method must be used for each taxable year thereafter until such election is revoked by the electing corporation under subparagraph (F)(iii). If any such election is revoked by the electing corporation under subparagraph (F)(iii), such electing corporation may make a subsequent election under subparagraph (A) only with the consent of the Secretary.
+                    An election under subparagraph (A) to use one of the methods under subparagraph (C) shall be made by filing a statement to such effect with the return referred to in subparagraph (F)(i) or in such other manner as the Secretary may prescribe by regulations.
 
-        (ii) __Manner of making election__ 
+                (iii) __Revocation__ 
 
-            An election under subparagraph (A) to use one of the methods under subparagraph (C) shall be made by filing a statement to such effect with the return referred to in subparagraph (F)(i) or in such other manner as the Secretary may prescribe by regulations.
+                    (I) Except as provided in subparagraph (F)(iii)(II), an election may be revoked for any taxable year only with the consent of the Secretary.
 
-        (iii) __Revocation__ 
+                    (II) An election shall be deemed revoked for the year in which the electing corporation is deemed to have revoked such election under subparagraph (B)(i) or (C)(i)(III)(a).
 
-            (I) Except as provided in subparagraph (F)(iii)(II), an election may be revoked for any taxable year only with the consent of the Secretary.
+                (iv) __Aggregation__ 
 
-            (II) An election shall be deemed revoked for the year in which the electing corporation is deemed to have revoked such election under subparagraph (B)(i) or (C)(i)(III)(a).
+                    (I) Where more than one electing corporation in the affiliated group produces any product or renders any services in the same product area, all such electing corporations must elect to compute their taxable income under the same method under subparagraph (C).
 
-        (iv) __Aggregation__ 
+                    (II) All electing corporations in the same affiliated group that produce any products or render any services in the same product area may elect, subject to such terms and conditions as the Secretary may prescribe by regulations, to compute their taxable income from export sales under a different method from that used for all other sales and services. For this purpose, export sales means all sales by the electing corporation of products to foreign persons for use or consumption outside the United States and its possessions, provided such products are manufactured or produced in the possession within the meaning of subsection (d)(1)(A) of section 954, and further provided (except to the extent otherwise provided by regulations) the income derived by such foreign person on resale of such products (in the same state or in an altered state) is not included in foreign base company income for purposes of section 954(a).
 
-            (I) Where more than one electing corporation in the affiliated group produces any product or renders any services in the same product area, all such electing corporations must elect to compute their taxable income under the same method under subparagraph (C).
+                    (III) All members of an affiliated group must consent to an election under this subsection at such time and in such manner as shall be prescribed by the Secretary by regulations.
 
-            (II) All electing corporations in the same affiliated group that produce any products or render any services in the same product area may elect, subject to such terms and conditions as the Secretary may prescribe by regulations, to compute their taxable income from export sales under a different method from that used for all other sales and services. For this purpose, export sales means all sales by the electing corporation of products to foreign persons for use or consumption outside the United States and its possessions, provided such products are manufactured or produced in the possession within the meaning of subsection (d)(1)(A) of section 954, and further provided (except to the extent otherwise provided by regulations) the income derived by such foreign person on resale of such products (in the same state or in an altered state) is not included in foreign base company income for purposes of section 954(a).
+        (6) __Treatment of certain sales made after__  __July 1, 1982__ 
 
-            (III) All members of an affiliated group must consent to an election under this subsection at such time and in such manner as shall be prescribed by the Secretary by regulations.
+            (A) __In general__ 
 
-    (6) __Treatment of certain sales made after__  __July 1, 1982__ 
+                For purposes of this section, in the case of a disposition of intangible property made by a corporation after July 1, 1982, any gain or loss from such disposition shall be treated as gain or loss from sources within the United States to which paragraph (5) does not apply.
 
-        (A) __In general__ 
+            (B) __Exception__ 
 
-            For purposes of this section, in the case of a disposition of intangible property made by a corporation after July 1, 1982, any gain or loss from such disposition shall be treated as gain or loss from sources within the United States to which paragraph (5) does not apply.
+                Subparagraph (A) shall not apply to any disposition by a corporation of intangible property if such disposition is to a person who is not a related person to such corporation.
 
-        (B) __Exception__ 
+            (C) __Paragraph does not affect eligibility__ 
 
-            Subparagraph (A) shall not apply to any disposition by a corporation of intangible property if such disposition is to a person who is not a related person to such corporation.
+                This paragraph shall not apply for purposes of determining whether the corporation meets the requirements of subsection (a)(2).
 
-        (C) __Paragraph does not affect eligibility__ 
+        (7) __Section 864(e)(1) not to apply__ 
 
-            This paragraph shall not apply for purposes of determining whether the corporation meets the requirements of subsection (a)(2).
+            This subsection shall be applied as if section 864(e)(1) (relating to treatment of affiliated groups) had not been enacted.
 
-    (7) __Section 864(e)(1) not to apply__ 
+        (8) __Regulations__ 
 
-        This subsection shall be applied as if section 864(e)(1) (relating to treatment of affiliated groups) had not been enacted.
+            The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection, including rules for the application of this subsection to income from leasing of products to unrelated persons.
 
-    (8) __Regulations__ 
+    (i) __Definitions and special rules relating to limitations of subsection (a)(4)__ 
 
-    The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection, including rules for the application of this subsection to income from leasing of products to unrelated persons.
+        (1) __Qualified possession wages__ 
 
-        (i) __Definitions and special rules relating to limitations of subsection (a)(4)__ 
+        For purposes of this section—
 
-    (1) __Qualified possession wages__ 
+            (A) __In general__ 
 
-    For purposes of this section—
+                The term “qualified possession wages” means wages paid or incurred by the possession corporation during the taxable year in connection with the active conduct of a trade or business within a possession of the United States to any employee for services performed in such possession, but only if such services are performed while the principal place of employment of such employee is within such possession.
 
-        (A) __In general__ 
+            (B) __Limitation on amount of wages taken into account__ 
 
-            The term “qualified possession wages” means wages paid or incurred by the possession corporation during the taxable year in connection with the active conduct of a trade or business within a possession of the United States to any employee for services performed in such possession, but only if such services are performed while the principal place of employment of such employee is within such possession.
+                (i) __In general__ 
 
-        (B) __Limitation on amount of wages taken into account__ 
+                    The amount of wages which may be taken into account under subparagraph (A) with respect to any employee for any taxable year shall not exceed 85 percent of the contribution and benefit base determined under section 230 of the Social Security Act for the calendar year in which such taxable year begins.
 
-            (i) __In general__ 
+                (ii) __Treatment of part-time employees, etc.__ 
 
-                The amount of wages which may be taken into account under subparagraph (A) with respect to any employee for any taxable year shall not exceed 85 percent of the contribution and benefit base determined under section 230 of the Social Security Act for the calendar year in which such taxable year begins.
+                If—
 
-            (ii) __Treatment of part-time employees, etc.__ 
+                    (I) any employee is not employed by the possession corporation on a substantially full-time basis at all times during the taxable year, or
 
-            If—
+                    (II) the principal place of employment of any employee with the possession corporation is not within a possession at all times during the taxable year,
 
-                (I) any employee is not employed by the possession corporation on a substantially full-time basis at all times during the taxable year, or
+                 the limitation applicable under clause (i) with respect to such employee shall be the appropriate portion (as determined by the Secretary) of the limitation which would otherwise be in effect under clause (i).
 
-                (II) the principal place of employment of any employee with the possession corporation is not within a possession at all times during the taxable year,
+            (C) __Treatment of certain employees__ 
 
-             the limitation applicable under clause (i) with respect to such employee shall be the appropriate portion (as determined by the Secretary) of the limitation which would otherwise be in effect under clause (i).
+                The term “qualified possession wages” shall not include any wages paid to employees who are assigned by the employer to perform services for another person, unless the principal trade or business of the employer is to make employees available for temporary periods to other persons in return for compensation. All possession corporations treated as 1 corporation under paragraph (5) shall be treated as 1 employer for purposes of the preceding sentence.
 
-        (C) __Treatment of certain employees__ 
+            (D) __Wages__ 
 
-            The term “qualified possession wages” shall not include any wages paid to employees who are assigned by the employer to perform services for another person, unless the principal trade or business of the employer is to make employees available for temporary periods to other persons in return for compensation. All possession corporations treated as 1 corporation under paragraph (5) shall be treated as 1 employer for purposes of the preceding sentence.
+                (i) __In general__ 
 
-        (D) __Wages__ 
+                    Except as provided in clause (ii), the term “wages” has the meaning given to such term by subsection (b) of section 3306 (determined without regard to any dollar limitation contained in such section). For purposes of the preceding sentence, such subsection (b) shall be applied as if the term “United States” included all possessions of the United States.
 
-            (i) __In general__ 
+                (ii) __Special rule for agricultural labor and railway labor__ 
 
-                Except as provided in clause (ii), the term “wages” has the meaning given to such term by subsection (b) of section 3306 (determined without regard to any dollar limitation contained in such section). For purposes of the preceding sentence, such subsection (b) shall be applied as if the term “United States” included all possessions of the United States.
+                    In any case to which subparagraph (A) or (B) of paragraph (1) of section 51(h) applies, the term “wages” has the meaning given to such term by section 51(h)(2).
 
-            (ii) __Special rule for agricultural labor and railway labor__ 
+        (2) __Allocable employee fringe benefit expenses__ 
 
-                In any case to which subparagraph (A) or (B) of paragraph (1) of section 51(h) applies, the term “wages” has the meaning given to such term by section 51(h)(2).
+            (A) __In general__ 
 
-    (2) __Allocable employee fringe benefit expenses__ 
+            The allocable employee fringe benefit expenses of any possession corporation for any taxable year is an amount which bears the same ratio to the amount determined under subparagraph (B) for such taxable year as—
 
-        (A) __In general__ 
+                (i) the aggregate amount of the possession corporation’s qualified possession wages for such taxable year, bears to
 
-        The allocable employee fringe benefit expenses of any possession corporation for any taxable year is an amount which bears the same ratio to the amount determined under subparagraph (B) for such taxable year as—
+                (ii) the aggregate amount of the wages paid or incurred by such possession corporation during such taxable year.
 
-            (i) the aggregate amount of the possession corporation’s qualified possession wages for such taxable year, bears to
+                In no event shall the amount determined under the preceding sentence exceed 15 percent of the amount referred to in clause (i).
 
-            (ii) the aggregate amount of the wages paid or incurred by such possession corporation during such taxable year.
+            (B) __Expenses taken into account__ 
 
-            In no event shall the amount determined under the preceding sentence exceed 15 percent of the amount referred to in clause (i).
+            For purposes of subparagraph (A), the amount determined under this subparagraph for any taxable year is the aggregate amount allowable as a deduction under this chapter to the possession corporation for such taxable year with respect to—
 
-        (B) __Expenses taken into account__ 
+                (i) employer contributions under a stock bonus, pension, profit-sharing, or annuity plan,
 
-        For purposes of subparagraph (A), the amount determined under this subparagraph for any taxable year is the aggregate amount allowable as a deduction under this chapter to the possession corporation for such taxable year with respect to—
+                (ii) employer-provided coverage under any accident or health plan for employees, and
 
-            (i) employer contributions under a stock bonus, pension, profit-sharing, or annuity plan,
+                (iii) the cost of life or disability insurance provided to employees.
 
-            (ii) employer-provided coverage under any accident or health plan for employees, and
+                Any amount treated as wages under paragraph (1)(D) shall not be taken into account under this subparagraph.
 
-            (iii) the cost of life or disability insurance provided to employees.
+        (3) __Treatment of possession taxes__ 
 
-            Any amount treated as wages under paragraph (1)(D) shall not be taken into account under this subparagraph.
+            (A) __Amount of credit for possession corporations not using profit split__ 
 
-    (3) __Treatment of possession taxes__ 
+                (i) __In general__ 
 
-        (A) __Amount of credit for possession corporations not using profit split__ 
+                For purposes of subsection (a)(4)(A)(iii), the amount of the qualified possession income taxes for any taxable year allocable to nonsheltered income shall be an amount which bears the same ratio to the possession income taxes for such taxable year as—
 
-            (i) __In general__ 
+                    (I) the increase in the tax liability of the possession corporation under this chapter for the taxable year by reason of subsection (a)(4)(A) (without regard to clause (iii) thereof), bears to
 
-            For purposes of subsection (a)(4)(A)(iii), the amount of the qualified possession income taxes for any taxable year allocable to nonsheltered income shall be an amount which bears the same ratio to the possession income taxes for such taxable year as—
+                    (II) the tax liability of the possession corporation under this chapter for the taxable year determined without regard to the credit allowable under this section.
 
-                (I) the increase in the tax liability of the possession corporation under this chapter for the taxable year by reason of subsection (a)(4)(A) (without regard to clause (iii) thereof), bears to
+                (ii) __Limitation on amount of taxes taken into account__ 
 
-                (II) the tax liability of the possession corporation under this chapter for the taxable year determined without regard to the credit allowable under this section.
+                    Possession income taxes shall not be taken into account under clause (i) for any taxable year to the extent that the amount of such taxes exceeds 9 percent of the amount of the taxable income for such taxable year.
 
-            (ii) __Limitation on amount of taxes taken into account__ 
+            (B) __Deduction for possession corporations using profit split__ 
 
-                Possession income taxes shall not be taken into account under clause (i) for any taxable year to the extent that the amount of such taxes exceeds 9 percent of the amount of the taxable income for such taxable year.
+            Notwithstanding subsection (c), if a possession corporation is not described in subsection (a)(4)(A)(iii) for the taxable year, such possession corporation shall be allowed a deduction for such taxable year in an amount which bears the same ratio to the possession income taxes for such taxable year as—
 
-        (B) __Deduction for possession corporations using profit split__ 
+                (i) the increase in the tax liability of the possession corporation under this chapter for the taxable year by reason of subsection (a)(4)(A), bears to
 
-        Notwithstanding subsection (c), if a possession corporation is not described in subsection (a)(4)(A)(iii) for the taxable year, such possession corporation shall be allowed a deduction for such taxable year in an amount which bears the same ratio to the possession income taxes for such taxable year as—
+                (ii) the tax liability of the possession corporation under this chapter for the taxable year determined without regard to the credit allowable under this section.
 
-            (i) the increase in the tax liability of the possession corporation under this chapter for the taxable year by reason of subsection (a)(4)(A), bears to
+                In determining the credit under subsection (a) and in applying the preceding sentence, taxable income shall be determined without regard to the preceding sentence.
 
-            (ii) the tax liability of the possession corporation under this chapter for the taxable year determined without regard to the credit allowable under this section.
+            (C) __Possession income taxes__ 
 
-            In determining the credit under subsection (a) and in applying the preceding sentence, taxable income shall be determined without regard to the preceding sentence.
+                For purposes of this paragraph, the term “possession income taxes” means any taxes of a possession of the United States which are treated as not being income, war profits, or excess profits taxes paid or accrued to a possession of the United States by reason of subsection (c).
 
-        (C) __Possession income taxes__ 
+        (4) __Depreciation rules__ 
 
-            For purposes of this paragraph, the term “possession income taxes” means any taxes of a possession of the United States which are treated as not being income, war profits, or excess profits taxes paid or accrued to a possession of the United States by reason of subsection (c).
+        For purposes of this section—
 
-    (4) __Depreciation rules__ 
+            (A) __Depreciation allowances__ 
 
-    For purposes of this section—
+                The term “depreciation allowances” means the depreciation deductions allowable under section 167 to the possession corporation.
 
-        (A) __Depreciation allowances__ 
+            (B) __Categories of property__ 
 
-            The term “depreciation allowances” means the depreciation deductions allowable under section 167 to the possession corporation.
+                (i) __Qualified tangible property__ 
 
-        (B) __Categories of property__ 
+                    The term “qualified tangible property” means any tangible property used by the possession corporation in a possession of the United States in the active conduct of a trade or business within such possession.
 
-            (i) __Qualified tangible property__ 
+                (ii) __Short-life qualified tangible property__ 
 
-                The term “qualified tangible property” means any tangible property used by the possession corporation in a possession of the United States in the active conduct of a trade or business within such possession.
+                    The term “short-life qualified tangible property” means any qualified tangible property to which section 168 applies and which is 3-year property or 5-year property for purposes of such section.
 
-            (ii) __Short-life qualified tangible property__ 
+                (iii) __Medium-life qualified tangible property__ 
 
-                The term “short-life qualified tangible property” means any qualified tangible property to which section 168 applies and which is 3-year property or 5-year property for purposes of such section.
+                    The term “medium-life qualified tangible property” means any qualified tangible property to which section 168 applies and which is 7-year property or 10-year property for purposes of such section.
 
-            (iii) __Medium-life qualified tangible property__ 
+                (iv) __Long-life qualified tangible property__ 
 
-                The term “medium-life qualified tangible property” means any qualified tangible property to which section 168 applies and which is 7-year property or 10-year property for purposes of such section.
+                    The term “long-life qualified tangible property” means any qualified tangible property to which section 168 applies and which is not described in clause (ii) or (iii).
 
-            (iv) __Long-life qualified tangible property__ 
+                (v) __Transitional rule__ 
 
-                The term “long-life qualified tangible property” means any qualified tangible property to which section 168 applies and which is not described in clause (ii) or (iii).
+                    In the case of any qualified tangible property to which section 168 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) applies, any reference in this paragraph to section 168 shall be treated as a reference to such section as so in effect.
 
-            (v) __Transitional rule__ 
+        (5) __Election to compute credit on consolidated basis__ 
 
-                In the case of any qualified tangible property to which section 168 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) applies, any reference in this paragraph to section 168 shall be treated as a reference to such section as so in effect.
+            (A) __In general__ 
 
-    (5) __Election to compute credit on consolidated basis__ 
+                Any affiliated group may elect to treat all possession corporations which would be members of such group but for section 1504(b)(3) or (4) as 1 corporation for purposes of this section. The credit determined under this section with respect to such 1 corporation shall be allocated among such possession corporations in such manner as the Secretary may prescribe.
 
-        (A) __In general__ 
+            (B) __Election__ 
 
-            Any affiliated group may elect to treat all possession corporations which would be members of such group but for section 1504(b)(3) or (4) as 1 corporation for purposes of this section. The credit determined under this section with respect to such 1 corporation shall be allocated among such possession corporations in such manner as the Secretary may prescribe.
+                An election under subparagraph (A) shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary.
 
-        (B) __Election__ 
+        (6) __Possession corporation__ 
 
-            An election under subparagraph (A) shall apply to the taxable year for which made and all succeeding taxable years unless revoked with the consent of the Secretary.
-
-    (6) __Possession corporation__ 
-
-        The term “possession corporation” means a domestic corporation for which the election provided in subsection (a) is in effect.
+            The term “possession corporation” means a domestic corporation for which the election provided in subsection (a) is in effect.
 
     (j) __Termination__ 
 
@@ -1145,11 +1149,11 @@
 
 >     Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section and sections 246, 367, and 934 of this title\] shall apply to taxable years beginning after December 31, 1982.
 
->     “(2) __Certain sales made after july 1, 1982.—__ 
+>     “(2) __Certain sales made after__  __july 1, 1982__  __.—__ 
 
 >     Paragraph (6) of section 936(h) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and so much of section 934 to which such paragraph applies by reason of section 934(e)(4) of such Code, shall apply to taxable years ending after July 1, 1982.
 
->     “(3) __Certain transfers of intangibles made after august 14, 1982.—__ 
+>     “(3) __Certain transfers of intangibles made after__  __august 14, 1982__  __.—__ 
 
 >     Subsection (d) \[amending [section 367 of this title][/us/usc/t26/s367]\] shall apply to taxable years ending after August 14, 1982.”
 

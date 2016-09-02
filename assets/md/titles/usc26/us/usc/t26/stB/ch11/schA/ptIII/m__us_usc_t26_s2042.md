@@ -15,7 +15,7 @@
 
 ## § 2042. Proceeds of life insurance
 
-The value of the gross estate shall include the value of all property—
+    The value of the gross estate shall include the value of all property—
 
     (1) __Receivable by the executor__ 
 

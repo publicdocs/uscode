@@ -15,7 +15,7 @@
 
 ## § 4053. Exemptions
 
-No tax shall be imposed by section 4051 on any of the following articles:
+    No tax shall be imposed by section 4051 on any of the following articles:
 
     (1) __Camper coaches bodies for self-propelled mobile homes__ 
 

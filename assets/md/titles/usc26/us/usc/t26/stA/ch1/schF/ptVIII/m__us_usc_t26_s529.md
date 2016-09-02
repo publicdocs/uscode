@@ -447,7 +447,7 @@
 
 >         Paragraph (4) of such section 529(c) shall apply to estates of decedents dying after June 8, 1997.
 
->     “(6) __Transition rule for pre-august 20, 1996 contracts.—__ 
+>     “(6) __Transition rule for pre-__  __august 20, 1996__  __contracts.—__ 
 
 >     In the case of any contract issued prior to August 20, 1996, section 529(c)(3)(C) of the Internal Revenue Code of 1986 shall be applied for taxable years ending after August 20, 1996, without regard to the requirement that a distribution be transferred to a member of the family or the requirement that a change in beneficiaries may be made only to a member of the family.”
 

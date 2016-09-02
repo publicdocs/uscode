@@ -191,13 +191,17 @@
 
 >                 “(i) __In general.—__ 
 
->                 Any adjustment under section 810(d) of the Internal Revenue Code of 1986 (as so in effect) attributable to an increase in reserves as a result of a change in a taxable year beginning before 1984 shall be taken into account in taxable years beginning after 1983 to the extent that—         “(I) the amount of the adjustments which would be taken into account under such section in taxable years beginning after 1983 without regard to this subparagraph, exceeds
+>                 Any adjustment under section 810(d) of the Internal Revenue Code of 1986 (as so in effect) attributable to an increase in reserves as a result of a change in a taxable year beginning before 1984 shall be taken into account in taxable years beginning after 1983 to the extent that—
+
+>                          “(I) the amount of the adjustments which would be taken into account under such section in taxable years beginning after 1983 without regard to this subparagraph, exceeds
 
 >                          “(II) the amount of any fresh start adjustment attributable to contracts for which there was such an increase in reserves as a result of such change.
 
 >                 “(ii) __Fresh start adjustment.—__ 
 
->                 For purposes of clause (i), the fresh start adjustment with respect to any contract is the excess (if any) of—         “(I) the reserve attributable to such contract as of the close of the taxpayer’s last taxable year beginning before January 1, 1984, over
+>                 For purposes of clause (i), the fresh start adjustment with respect to any contract is the excess (if any) of—
+
+>                          “(I) the reserve attributable to such contract as of the close of the taxpayer’s last taxable year beginning before January 1, 1984, over
 
 >                          “(II) the reserve for such contract as of the beginning of the taxpayer’s first taxable year beginning after 1983 as recomputed under subsection (a) of this section.
 
@@ -205,13 +209,17 @@
 
 >             No premium shall be included in income to the extent such premium is directly related to an increase in a reserve for which a deduction is disallowed by subparagraph (B).
 
->         “(3) __Reinsurance transactions, and reserve strengthening, after september 27, 1983.—__ 
+>         “(3) __Reinsurance transactions, and reserve strengthening, after__  __september 27, 1983__  __.—__ 
 
 >             “(A) __In general.—__ 
 
 >             Paragraph (1) shall not apply (and section 807(f) of the Internal Revenue Code of 1986 as amended by this subtitle shall apply)—
 
->                 “(i) to any reserve transferred pursuant to—         “(I) a reinsurance agreement entered into after September 27, 1983, and before January 1, 1984, or
+>                 “(i)
+
+>                  to any reserve transferred pursuant to—
+
+>                          “(I) a reinsurance agreement entered into after September 27, 1983, and before January 1, 1984, or
 
 >                          “(II) a modification of a reinsurance agreement made after September 27, 1983, and before January 1, 1984, and
 
@@ -235,13 +243,13 @@
 
 >             No deduction shall be allowed under paragraph (5) or (6) of \[former\] section 809(d) of such Code (as in effect before the amendments made by this subtitle) with respect to any amount described in either such paragraph which is transferred in connection with the transfer of reserves described in subparagraph (A).
 
->         “(4) __Elections under section 818(c) after september 27, 1983, not to take effect.—__ 
+>         “(4) __Elections under section 818(c) after__  __september 27, 1983__  __, not to take effect.—__ 
 
 >             “(A) __In general.—__ 
 
 >             Except as provided in subparagraph (B), any election after September 27, 1983, under section 818(c) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act) shall not take effect.
 
->             “(B) __Exception for certain contracts issued under plan of insurance first filed after march 1, 1982, and before september 28, 1983.—__ 
+>             “(B) __Exception for certain contracts issued under plan of insurance first filed after__  __march 1, 1982__  __, and before__  __september 28, 1983__  __.—__ 
 
 >             Paragraph (3) and subparagraph (A) of this paragraph shall not apply to any election under such section 818(c) if more than 95 percent of the reserves computed in accordance with such election are attributable to risks under life insurance contracts issued by the taxpayer under a plan of insurance first filed after March 1, 1982, and before September 28, 1983.
 
@@ -249,7 +257,9 @@
 
 >                 “(i) __In general.—__ 
 
->                 If the case of any corporation—         “(I) which made an election under such section 818(c) before September 28, 1983, and
+>                 If the case of any corporation—
+
+>                          “(I) which made an election under such section 818(c) before September 28, 1983, and
 
 >                          “(II) which was acquired in a qualified stock purchase (as defined in section 338(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) before December 31, 1983,
 
@@ -263,7 +273,7 @@
 
 >                 In the case of any such election under section 818(c) or 338 of such Code which would not have been timely made but for clause (ii), the period for assessing any deficiency attributable to such election (or for filing claim for credit or refund of any overpayment attributable to such election) shall not expire before the date 2 years after the date of the enactment of this Act \[July 18, 1984\].
 
->         “(5) __Recapture of reinsurance after december 31, 1983.—__ 
+>         “(5) __Recapture of reinsurance after__  __december 31, 1983__  __.—__ 
 
 >         If (A) insurance or annuity contracts in force on December 31, 1983, are subject to a conventional coinsurance agreement entered into after December 31, 1981, and before January 1, 1984, and (B) such contracts are recaptured by the reinsured in any taxable year beginning after December 31, 1983, then—
 

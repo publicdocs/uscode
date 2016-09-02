@@ -249,7 +249,7 @@
 
  __Inflation Adjusted Items for Certain Tax Years__ 
 
-For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.
+    For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.
 
  __References in Text__ 
 
@@ -497,7 +497,7 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 
 >     “(2) the treatment of such transaction, property, or item under such provision would (without regard to the amendments made by this part) affect liability for tax for periods ending after such date of enactment,
 
->         nothing in the amendments made by this part shall be construed to affect the treatment of such transaction, property, or item for purposes of determining liability for tax for periods ending after such date of enactment.”
+>     nothing in the amendments made by this part shall be construed to affect the treatment of such transaction, property, or item for purposes of determining liability for tax for periods ending after such date of enactment.”
 
  __Applicability of Certain Amendments by__  __[__  __Pub. L. 99–514__  __][/us/pl/99/514]__  __in Relation to Treaty Obligations of United States__ 
 

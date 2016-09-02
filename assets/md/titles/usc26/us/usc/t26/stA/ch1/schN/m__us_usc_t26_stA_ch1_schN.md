@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stA/ch1/schM/ptV/m__us_usc_t26_s860H to 860L.md) | [Next](./../../../../../..//us/usc/t26/stA/ch1/schN/ptI/m__us_usc_t26_stA_ch1_schN_ptI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN)
+[Previous](./../../../../../..//us/usc/t26/stA/ch1/schM/ptV/m__us_usc_t26_stA_ch1_schM_ptV.md) | [Next](./../../../../../..//us/usc/t26/stA/ch1/schN/ptI/m__us_usc_t26_stA_ch1_schN_ptI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN)
 
 #### Subchapter N—Tax Based on Income From Sources Within or Without the United States
 
@@ -73,7 +73,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stA/ch1/schM/ptV/m__us_usc_t26_s860H to 860L.md) | [Next](./../../../../../..//us/usc/t26/stA/ch1/schN/ptI/m__us_usc_t26_stA_ch1_schN_ptI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN)
+[Previous](./../../../../../..//us/usc/t26/stA/ch1/schM/ptV/m__us_usc_t26_stA_ch1_schM_ptV.md) | [Next](./../../../../../..//us/usc/t26/stA/ch1/schN/ptI/m__us_usc_t26_stA_ch1_schN_ptI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN)
 
 ----------
 ----------

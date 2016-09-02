@@ -49,9 +49,9 @@
 
                 (ii) if there is no plan described in clause (i), any soil conservation plan of a comparable State agency.
 
-            (B) __Certain wetland, etc., activities not qualified.—__ 
+            (B) __Certain wetland, etc.__ 
 
-            Subsection (a) shall not apply to any expenditures in connection with the draining or filling of wetlands or land preparation for center pivot irrigation systems.
+            , activities not qualified.—Subsection (a) shall not apply to any expenditures in connection with the draining or filling of wetlands or land preparation for center pivot irrigation systems.
 
     (d) __When method may be adopted__ 
 

@@ -671,7 +671,7 @@
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and amending [section 101 of this title][/us/usc/t26/s101] and provisions set out as a note under [section 101 of this title][/us/usc/t26/s101]\] shall apply to contracts issued after December 31, 1984, in taxable years ending after such date.
 
->     “(2) __Special rule for certain contracts issued after june 30, 1984.—__ 
+>     “(2) __Special rule for certain contracts issued after__  __june 30, 1984__  __.—__ 
 
 >         “(A) __General rule.—__ 
 
@@ -699,7 +699,7 @@
 
 >                 “(II) at the option of the insured, in lieu of an adjustment under subclause (I) there will be a comparable adjustment in the amount of the death benefit.
 
->         “(C) __Certain contracts issued before october 1, 1984.—__ 
+>         “(C) __Certain contracts issued before__  __october 1, 1984__  __.—__ 
 
 >             “(i) __In general.—__ 
 

@@ -505,7 +505,7 @@
 
 >     “(2) partnership interests acquired after October 13, 1987,
 
->         except that such amendments shall not apply in the case of any property (or partnership interest) acquired pursuant to a written binding contract in effect on October 13, 1987, and at all times thereafter before such property (or interest) is acquired.”
+>     except that such amendments shall not apply in the case of any property (or partnership interest) acquired pursuant to a written binding contract in effect on October 13, 1987, and at all times thereafter before such property (or interest) is acquired.”
 
  __Effective Date of 1986 Amendment__ 
 
@@ -527,7 +527,7 @@
 
 >     The amendments made by this section \[amending this section\] shall apply to indebtedness incurred after the date of the enactment of this Act \[July 18, 1984\].
 
->     “(2) __Exception for indebtedness on certain property acquired before january 1, 1985.—__ 
+>     “(2) __Exception for indebtedness on certain property acquired before__  __january 1, 1985__  __.—__ 
 
 >         “(A) The amendment made by subsection (a) \[amending this section\] shall not apply to any indebtedness incurred before January 1, 1985, by a partnership described in subparagraph (B) if such indebtedness is incurred with respect to property acquired (directly or indirectly) by such partnership before such date.
 
@@ -541,7 +541,7 @@
 
 >             “(iii) the marketing of partnership interests in such partnership is completed not later than 2 years after the later of the date of enactment of this Act \[July 18, 1984\] or the date of publication in the Federal Register of such exemption by the Department of Labor and the aggregate number of units in such partnership sold does not exceed the amount described in clause (i).
 
->     “(3) __Exception for indebtedness on certain property acquired before january 1, 1986.—__ 
+>     “(3) __Exception for indebtedness on certain property acquired before__  __january 1, 1986__  __.—__ 
 
 >         “(A) The amendment made by subsection (a) \[amending this section\] shall not apply to any indebtedness incurred before January 1, 1986, by a partnership described in subparagraph (B) if such indebtedness is incurred with respect to property acquired (directly or indirectly) by such partnership before such date.
 

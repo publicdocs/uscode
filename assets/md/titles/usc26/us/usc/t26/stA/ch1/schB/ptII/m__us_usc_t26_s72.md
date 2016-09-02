@@ -447,7 +447,7 @@
 
             (B) the aggregate amount received under the contract before such date, to the extent that such amount was excludable from gross income under this subtitle or prior income tax laws.
 
-            \[(7) Repealed. [Pub. L. 100–647, title I, § 1011A(b)(9)(A)][/us/pl/100/647/s1011A/b/9/A], Nov. 10, 1988, [102 Stat. 3474][/us/stat/102/3474]\]
+        \[(7) __Repealed.__  __[__  __Pub. L. 100–647, title I, § 1011A(b)(9)(A)__  __][/us/pl/100/647/s1011A/b/9/A]__  __,__  __Nov. 10, 1988__  __,__  __[__  __102 Stat. 3474__  __][/us/stat/102/3474]__  __\]__ 
 
         (8) __Extension of paragraph (2)(b)__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should be paragraph “(2)(B)”.__  __ </sup></sup> __  __to qualified plans__ 
 
@@ -543,7 +543,7 @@
 
         then, for purposes of this subtitle, no part of such lump sum shall be considered as includible in gross income at the time such lump sum first became payable.
 
-        \[(i) Repealed. [Pub. L. 94–455, title XIX, § 1951(b)(1)(A)][/us/pl/94/455/s1951/b/1/A], Oct. 4, 1976, [90 Stat. 1836][/us/stat/90/1836]\]
+    \[(i) __Repealed.__  __[__  __Pub. L. 94–455, title XIX, § 1951(b)(1)(A)__  __][/us/pl/94/455/s1951/b/1/A]__  __,__  __Oct. 4, 1976__  __,__  __[__  __90 Stat. 1836__  __][/us/stat/90/1836]__  __\]__ 
 
     (j) __Interest__ 
 
@@ -583,7 +583,7 @@
 
             (C) In the case of the death of an individual insured under a contract described in subparagraph (A), an amount equal to the cash surrender value of the contract immediately before the death of the insured shall be treated as a payment under such plan or a distribution by such trust, and the excess of the amount payable by reason of the death of the insured over such cash surrender value shall not be includible in gross income under this section and shall be treated as provided in section 101.
 
-            \[(4) Repealed. [Pub. L. 97–248, title II, § 236(b)(1)][/us/pl/97/248/s236/b/1], Sept. 3, 1982, [96 Stat. 510][/us/stat/96/510]\]
+        \[(4) __Repealed.__  __[__  __Pub. L. 97–248, title II, § 236(b)(1)__  __][/us/pl/97/248/s236/b/1]__  __,__  __Sept. 3, 1982__  __,__  __[__  __96 Stat. 510__  __][/us/stat/96/510]__  __\]__ 
 
         (5) __Penalties applicable to certain amounts received by 5-percent owners__ 
 
@@ -1889,7 +1889,7 @@
 
 >     Except as provided in paragraph (2), the amendments made by section 224 \[enacting [section 6050G of this title][/us/usc/t26/s6050G], amending this section and [section 86 of this title][/us/usc/t26/s86], and enacting provisions set out as a note under [section 231n of Title 45][/us/usc/t45/s231n], Railroads\] shall apply to benefits received after December 31, 1983, in taxable years ending after such date.
 
->     “(2) __Treatment of certain lump-sum payments received after december 31, 1983.—__ 
+>     “(2) __Treatment of certain lump-sum payments received after__  __december 31, 1983__  __.—__ 
 
 >     The amendments made by section 224 shall not apply to any portion of a lump-sum payment received after December 31, 1983, if the generally applicable payment date for such portion was before January 1, 1984.
 
@@ -1957,9 +1957,13 @@
 
 [Pub. L. 97–34, title III, § 312(f)][/us/pl/97/34/s312/f], Aug. 13, 1981, [95 Stat. 285][/us/stat/95/285], as amended by [Pub. L. 97–448, title I, § 103(d)(3)][/us/pl/97/448/s103/d/3], [96 Stat. 2378][/us/stat/96/2378], provided that:
 
->     “(1) __In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 219, 401, 404, 408, 1379, and 4972 of this title\] shall apply to taxable years beginning after__  __December 31, 1981__  __.__ 
+>     “(1) __In general.—__ 
 
->     “(2) __Transitional rule.—The amendments made by subsection (d) \[amending this section\] shall not apply to any loan from a plan to a self-employed individual who is an employee within the meaning of section 401(c)(1) which is outstanding on__  __December 31, 1981__  __. For purposes of the preceding sentence, any loan which is renegotiated, extended, renewed, or revised after such date shall be treated as a new loan.”__ 
+>     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 219, 401, 404, 408, 1379, and 4972 of this title\] shall apply to taxable years beginning after December 31, 1981.
+
+>     “(2) __Transitional rule.—__ 
+
+>     The amendments made by subsection (d) \[amending this section\] shall not apply to any loan from a plan to a self-employed individual who is an employee within the meaning of section 401(c)(1) which is outstanding on December 31, 1981. For purposes of the preceding sentence, any loan which is renegotiated, extended, renewed, or revised after such date shall be treated as a new loan.”
 
  __Effective Date of 1976 Amendment__ 
 

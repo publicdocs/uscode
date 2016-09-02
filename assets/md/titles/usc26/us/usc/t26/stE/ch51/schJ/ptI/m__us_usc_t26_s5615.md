@@ -15,7 +15,7 @@
 
 ## § 5615. Property subject to forfeiture
 
-The following property shall be forfeited to the United States:
+    The following property shall be forfeited to the United States:
 
     (1) __Unregistered still or distilling apparatus__ 
 

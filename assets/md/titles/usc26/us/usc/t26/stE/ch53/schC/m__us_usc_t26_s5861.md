@@ -15,7 +15,7 @@
 
 ## § 5861. Prohibited acts
 
-It shall be unlawful for any person—
+    It shall be unlawful for any person—
 
     (a) to engage in business as a manufacturer or importer of, or dealer in, firearms without having paid the special (occupational) tax required by section 5801 for his business or having registered as required by section 5802; or
 

@@ -1855,7 +1855,11 @@
 
 >                 “(i) a nonprofit corporation which was incorporated before 1913 which is described in sections 501(c)(3) and 509(a) of such Code, and which is exempt from taxation under section 501(a) of such Code, and
 
->                 “(ii) the principal purposes of which are to support research by and to provide technology transfer services to organizations described in section 170(b)(1)(A) of such Code—         “(I) which are exempt from taxation under section 501(a) of such Code, or
+>                 “(ii)
+
+>                  the principal purposes of which are to support research by and to provide technology transfer services to organizations described in section 170(b)(1)(A) of such Code—
+
+>                          “(I) which are exempt from taxation under section 501(a) of such Code, or
 
 >                          “(II) the income of which is excluded from taxation under section 115 of such Code.
 

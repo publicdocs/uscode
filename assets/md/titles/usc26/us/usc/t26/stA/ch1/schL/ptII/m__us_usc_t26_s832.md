@@ -615,7 +615,7 @@
 
 >     “(B) at all times after the date on which such stock or obligation was acquired by the transferor company and before the date of the acquisition by the acquiring company, the transferor company and the acquiring company were members of the same affiliated group filing a consolidated return.
 
->         For purposes of the preceding sentence, the date on which the stock or obligation was acquired by the transferor company shall be determined with regard to any prior application of the preceding sentence. For purposes of this paragraph, if the acquiring corporation or transferor corporation was a party to a reorganization described in section 368(a)(1)(F) of the 1986 Code, any reference to such corporation shall include a reference to any predecessor thereof involved in such reorganization.”
+>     For purposes of the preceding sentence, the date on which the stock or obligation was acquired by the transferor company shall be determined with regard to any prior application of the preceding sentence. For purposes of this paragraph, if the acquiring corporation or transferor corporation was a party to a reorganization described in section 368(a)(1)(F) of the 1986 Code, any reference to such corporation shall include a reference to any predecessor thereof involved in such reorganization.”
 
  __Study of Treatment of Property and Casualty Insurance Companies__ 
 

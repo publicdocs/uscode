@@ -181,7 +181,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
 
  __Amendments__ 
 
@@ -323,7 +323,7 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 >     The amendment made by paragraph (1) \[amending this section\] shall apply to taxable years beginning after March 31, 1990.
 
->     “(B) __Special rule for year which includes march 31, 1990.—__ 
+>     “(B) __Special rule for year which includes__  __march 31, 1990__  __.—__ 
 
 >     In the case of any taxable year (of a corporation described in subparagraph (C) of section 59(a)(2) of the Internal Revenue Code of 1986 (as added by paragraph (1))) which begins after December 31, 1989, and includes March 31, 1990, the amount determined under clause (ii) of section 59(a)(2)(A) of such Code shall be an amount which bears the same ratio to the amount which would have been determined under such clause without regard to this subparagraph as the number of days in such taxable year on or before March 31, 1990, bears to the total number of days in such taxable year.”
 

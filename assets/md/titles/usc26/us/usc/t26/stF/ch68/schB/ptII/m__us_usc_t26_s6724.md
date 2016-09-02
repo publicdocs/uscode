@@ -171,21 +171,19 @@
 
             (Y) section 6048(b)(1)(B) (relating to foreign trust reporting requirements),
 
-            (Z)
+            (Z) section 408(i) (relating to reports with respect to individual retirement plans) to any person other than the Secretary with respect to the amount of payments made to such person,
 
-             section 408(i) (relating to reports with respect to individual retirement plans) to any person other than the Secretary with respect to the amount of payments made to such person,
+            (AA) section 6047(d) (relating to reports by plan administrators) to any person other than the Secretary with respect to the amount of payments made to such person,
 
-                (AA) section 6047(d) (relating to reports by plan administrators) to any person other than the Secretary with respect to the amount of payments made to such person,
+            (BB) section 6050S(d) (relating to returns relating to qualified tuition and related expenses),
 
-                (BB) section 6050S(d) (relating to returns relating to qualified tuition and related expenses),
+            (CC) section 264(f)(5)(A)(iv) (relating to reporting with respect to certain life insurance and annuity contracts),
 
-                (CC) section 264(f)(5)(A)(iv) (relating to reporting with respect to certain life insurance and annuity contracts),
+            (DD) section 6050T (relating to returns relating to credit for health insurance costs of eligible individuals)  <sup>\[6\]</sup>  <sup><sup> 6 So in original. A comma probably should appear. </sup></sup> 
 
-                (DD) section 6050T (relating to returns relating to credit for health insurance costs of eligible individuals)  <sup>\[6\]</sup>  <sup><sup> 6 So in original. A comma probably should appear. </sup></sup> 
+            (EE) section 6050U (relating to charges or payments for qualified long-term care insurance contracts under combined arrangements), or
 
-                (EE) section 6050U (relating to charges or payments for qualified long-term care insurance contracts under combined arrangements), or
-
-                (FF) section 6050W(c) (relating to returns relating to payments made in settlement of payment card transactions).
+            (FF) section 6050W(c) (relating to returns relating to payments made in settlement of payment card transactions).
 
             Such term also includes any form, statement, or schedule required to be furnished to the recipient of any amount from which tax was required to be deducted and withheld under chapter 3 or 4 (or from which tax would be required to be so deducted and withheld but for an exemption under this title or any treaty obligation of the United States).
 
@@ -235,21 +233,21 @@
 
 [Pub. L. 111–148, title I, § 1502(b)][/us/pl/111/148/s1502/b], (e), Mar. 23, 2010, [124 Stat. 251][/us/stat/124/251], 252, provided that, applicable to calendar years beginning after 2013, subsection (d) of this section is amended:
 
-(1) in subparagraph (B) of paragraph (1), by striking “or” at the end of clause (xxii), by striking “and” at the end of clause (xxiii) and inserting “or”, and by inserting after clause (xxiii) the following new clause:
+    (1) in subparagraph (B) of paragraph (1), by striking “or” at the end of clause (xxii), by striking “and” at the end of clause (xxiii) and inserting “or”, and by inserting after clause (xxiii) the following new clause:
 
     “(xxiv) section 6055 (relating to returns relating to information regarding health insurance coverage), and”; and
 
-(2) in paragraph (2), by striking “or” at the end of subparagraph (EE), by striking the period at the end of subparagraph (FF) and inserting “, or”, and by inserting after subparagraph (FF) the following new subparagraph:
+    (2) in paragraph (2), by striking “or” at the end of subparagraph (EE), by striking the period at the end of subparagraph (FF) and inserting “, or”, and by inserting after subparagraph (FF) the following new subparagraph:
 
     “(GG) section 6055(c) (relating to statements relating to information regarding health insurance coverage).”
 
-[Pub. L. 111–148, title I, § 1514(b)][/us/pl/111/148/s1514/b], (d), title X, § 10108(j)(3)(E), (F), Mar. 23, 2010, [124 Stat. 258][/us/stat/124/258], 915, provided that, applicable to periods beginning after Dec. 31, 2013, subsection (d) of this section is amended:
+    [Pub. L. 111–148, title I, § 1514(b)][/us/pl/111/148/s1514/b], (d), title X, § 10108(j)(3)(E), (F), Mar. 23, 2010, [124 Stat. 258][/us/stat/124/258], 915, provided that, applicable to periods beginning after Dec. 31, 2013, subsection (d) of this section is amended:
 
-(1) in subparagraph (B) of paragraph (1), by striking “or” at the end of clause (xxiii), by striking “and” at the end of clause (xxiv) and inserting “or”, and by inserting after clause (xxiv) the following new clause:
+    (1) in subparagraph (B) of paragraph (1), by striking “or” at the end of clause (xxiii), by striking “and” at the end of clause (xxiv) and inserting “or”, and by inserting after clause (xxiv) the following new clause:
 
     “(xxv) section 6056 (relating to returns relating to certain employers required to report on health insurance coverage), and”; and
 
-(2) in paragraph (2), by striking “or” at the end of subparagraph (FF), by striking the period at the end of subparagraph (GG) and inserting “, or”, and by inserting after subparagraph (GG) the following new subparagraph:
+    (2) in paragraph (2), by striking “or” at the end of subparagraph (FF), by striking the period at the end of subparagraph (GG) and inserting “, or”, and by inserting after subparagraph (GG) the following new subparagraph:
 
     “(HH) section 6056(c) (relating to statements relating to certain employers required to report on health insurance coverage).”
 

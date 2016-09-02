@@ -15,7 +15,7 @@
 
 ## § 733. Basis of distributee partner’s interest
 
-In the case of a distribution by a partnership to a partner other than in liquidation of a partner’s interest, the adjusted basis to such partner of his interest in the partnership shall be reduced (but not below zero) by—
+    In the case of a distribution by a partnership to a partner other than in liquidation of a partner’s interest, the adjusted basis to such partner of his interest in the partnership shall be reduced (but not below zero) by—
 
     (1) the amount of any money distributed to such partner, and
 

@@ -39,9 +39,15 @@
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     1998—[Pub. L. 105–206, title III, § 3401(b)][/us/pl/105/206/s3401/b], July 22, 1998, [112 Stat. 747][/us/stat/112/747], added part analysis.
 

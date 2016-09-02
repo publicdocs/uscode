@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stD/ch38/m__us_usc_t26_s4601 to 4603.md) | [Next](./../../../../..//us/usc/t26/stD/ch38/schA/m__us_usc_t26_stD_ch38_schA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch38)
+[Previous](./../../../../..//us/usc/t26/stD/ch38/m__us_usc_t26_s4521.md) | [Next](./../../../../..//us/usc/t26/stD/ch38/schA/m__us_usc_t26_stD_ch38_schA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch38)
 
 ### CHAPTER 38—ENVIRONMENTAL TAXES
 
@@ -87,7 +87,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stD/ch38/m__us_usc_t26_s4601 to 4603.md) | [Next](./../../../../..//us/usc/t26/stD/ch38/schA/m__us_usc_t26_stD_ch38_schA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch38)
+[Previous](./../../../../..//us/usc/t26/stD/ch38/m__us_usc_t26_s4521.md) | [Next](./../../../../..//us/usc/t26/stD/ch38/schA/m__us_usc_t26_stD_ch38_schA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch38)
 
 ----------
 ----------

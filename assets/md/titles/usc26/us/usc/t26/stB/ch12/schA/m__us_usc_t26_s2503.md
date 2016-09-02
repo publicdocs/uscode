@@ -49,7 +49,7 @@
 
             (B) in the event the donee dies before attaining the age of 21 years, be payable to the estate of the donee or as he may appoint under a general power of appointment as defined in section 2514(c).
 
-        \[(d) Repealed. [Pub. L. 97–34, title III, § 311(h)(5)][/us/pl/97/34/s311/h/5], Aug. 13, 1981, [95 Stat. 282][/us/stat/95/282]\]
+    \[(d) __Repealed.__  __[__  __Pub. L. 97–34, title III, § 311(h)(5)__  __][/us/pl/97/34/s311/h/5]__  __,__  __Aug. 13, 1981__  __,__  __[__  __95 Stat. 282__  __][/us/stat/95/282]__  __\]__ 
 
     (e) __Exclusion for certain transfers for educational expenses or medical expenses__ 
 
@@ -95,7 +95,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
 
  __Amendments__ 
 

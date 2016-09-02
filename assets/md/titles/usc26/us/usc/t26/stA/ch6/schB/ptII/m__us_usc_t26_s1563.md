@@ -241,17 +241,17 @@
 
                 Except as specifically provided in an applicable provision, subsection (a)(2) shall be applied to an applicable provision as if it read as follows:
 
-            “(2) Brother-sister controlled group
+        “(2) __Brother-sister controlled group__ 
 
-            “Two or more corporations if 5 or fewer persons who are individuals, estates, or trusts own (within the meaning of subsection (d)(2) stock possessing—
+        “Two or more corporations if 5 or fewer persons who are individuals, estates, or trusts own (within the meaning of subsection (d)(2) stock possessing—
 
-        “(A) at least 80 percent of the total combined voting power of all classes of stock entitled to vote, or at least 80 percent of the total value of shares of all classes of stock, of each corporation, and
+            “(A) at least 80 percent of the total combined voting power of all classes of stock entitled to vote, or at least 80 percent of the total value of shares of all classes of stock, of each corporation, and
 
-        “(B) more than 50 percent of the total combined voting power of all classes of stock entitled to vote or more than 50 percent of the total value of shares of all classes of stock of each corporation, taking into account the stock ownership of each such person only to the extent such stock ownership is identical with respect to each such corporation.”
+            “(B) more than 50 percent of the total combined voting power of all classes of stock entitled to vote or more than 50 percent of the total value of shares of all classes of stock of each corporation, taking into account the stock ownership of each such person only to the extent such stock ownership is identical with respect to each such corporation.”
 
-        (B) __Applicable provision__ 
+            (B) __Applicable provision__ 
 
-            For purposes of this paragraph, an applicable provision is any provision of law (other than this part) which incorporates the definition of controlled group of corporations under subsection (a).
+                For purposes of this paragraph, an applicable provision is any provision of law (other than this part) which incorporates the definition of controlled group of corporations under subsection (a).
 
 (Added [Pub. L. 88–272, title II, § 235(a)][/us/pl/88/272/s235/a], Feb. 26, 1964, [78 Stat. 120][/us/stat/78/120]; amended [Pub. L. 91–172, title IV, § 401(c)][/us/pl/91/172/s401/c], (d), Dec. 30, 1969, [83 Stat. 602][/us/stat/83/602]; [Pub. L. 91–373, title I, § 102(b)][/us/pl/91/373/s102/b], Aug. 10, 1970, [84 Stat. 696][/us/stat/84/696]; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 98–369, div. A, title II, § 211(b)(22)][/us/pl/98/369/s211/b/22], July 18, 1984, [98 Stat. 757][/us/stat/98/757]; [Pub. L. 99–514, title X, § 1024(c)(17)][/us/pl/99/514/s1024/c/17], Oct. 22, 1986, [100 Stat. 2408][/us/stat/100/2408]; [Pub. L. 100–647, title I, § 1018(s)(3)(A)][/us/pl/100/647/s1018/s/3/A], Nov. 10, 1988, [102 Stat. 3587][/us/stat/102/3587]; [Pub. L. 108–357, title VIII, § 900(a)][/us/pl/108/357/s900/a], (b), Oct. 22, 2004, [118 Stat. 1650][/us/stat/118/1650].)
 

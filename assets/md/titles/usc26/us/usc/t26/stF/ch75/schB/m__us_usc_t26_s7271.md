@@ -15,7 +15,7 @@
 
 ## § 7271. Penalties for offenses relating to stamps
 
-Any person who with respect to any tax payable by stamps—
+    Any person who with respect to any tax payable by stamps—
 
     (1) __Failure to attach or cancel stamps, etc.__ 
 

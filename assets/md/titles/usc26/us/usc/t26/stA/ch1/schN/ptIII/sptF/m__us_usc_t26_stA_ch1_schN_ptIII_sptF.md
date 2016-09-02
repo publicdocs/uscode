@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptE/m__us_usc_t26_s941 to 943.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptF/m__us_usc_t26_s951.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptF)
+[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptE/m__us_usc_t26_stA_ch1_schN_ptIII_sptE.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptF/m__us_usc_t26_s951.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptF)
 
 ###### Subpart F—Controlled Foreign Corporations
 
@@ -167,7 +167,7 @@
 
 ----------
 
-[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptE/m__us_usc_t26_s941 to 943.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptF/m__us_usc_t26_s951.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptF)
+[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptE/m__us_usc_t26_stA_ch1_schN_ptIII_sptE.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schN/ptIII/sptF/m__us_usc_t26_s951.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschN%2FptIII%2FsptF)
 
 ----------
 ----------

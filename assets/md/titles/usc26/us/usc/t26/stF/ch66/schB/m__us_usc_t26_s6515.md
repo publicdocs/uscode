@@ -15,7 +15,7 @@
 
 ## § 6515. Cross references
 
-For limitations in case of—
+    For limitations in case of—
 
     (1) Deficiency dividends of a personal holding company, see section 547.
 

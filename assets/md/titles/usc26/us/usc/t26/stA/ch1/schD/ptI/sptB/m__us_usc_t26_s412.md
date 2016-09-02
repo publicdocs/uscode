@@ -255,7 +255,7 @@
 
  __Amendment of Section__ 
 
-For termination of subsection (b)(3) of this section by [section 221(c) of Pub. L. 109–280][/us/pl/109/280/s221/c], see Effective and Termination Dates of 2006 Amendment note below.
+    For termination of subsection (b)(3) of this section by [section 221(c) of Pub. L. 109–280][/us/pl/109/280/s221/c], see Effective and Termination Dates of 2006 Amendment note below.
 
  __References in Text__ 
 
@@ -813,7 +813,7 @@ For termination of subsection (b)(3) of this section by [section 221(c) of Pub. 
 
 >     “(2) provides for special withdrawal liability rules under section 4203(f) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1383][/us/usc/t29/s1383]\[(f)\]),
 
->         the amendments made by sections 201, 202, 211, and 212 of this Act \[enacting sections 431 and 432 of this title and sections 1084 and 1085 of Title 29, Labor, and amending this section, [section 4971 of this title][/us/usc/t26/s4971], and sections 1081, 1082, and 1132 of Title 29\] shall not apply to the benefit increases under any plan amendment adopted prior to June 30, 2005, that are funded pursuant to such agreement if the plan is funded in compliance with such agreement (and any amendments thereto).”
+>     the amendments made by sections 201, 202, 211, and 212 of this Act \[enacting sections 431 and 432 of this title and sections 1084 and 1085 of Title 29, Labor, and amending this section, [section 4971 of this title][/us/usc/t26/s4971], and sections 1081, 1082, and 1132 of Title 29\] shall not apply to the benefit increases under any plan amendment adopted prior to June 30, 2005, that are funded pursuant to such agreement if the plan is funded in compliance with such agreement (and any amendments thereto).”
 
  __Applicability of Section to Certain Plans Maintained by Commercial Airlines__ 
 

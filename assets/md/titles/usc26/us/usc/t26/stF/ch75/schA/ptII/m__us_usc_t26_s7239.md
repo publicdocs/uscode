@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stF/ch75/schA/ptII/m__us_usc_t26_s7237, 7238.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch75/schA/ptII/m__us_usc_t26_s7240.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7239)
+[Previous](./../../../../../../..//us/usc/t26/stF/ch75/schA/ptII/m__us_usc_t26_s7236.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch75/schA/ptII/m__us_usc_t26_s7240.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7239)
 
 ## \[§ 7239. Repealed. [Pub. L. 94–455, title XIX, § 1904(b)(8)(D)(i)][/us/pl/94/455/s1904/b/8/D/i], Oct. 4, 1976, [90 Stat. 1816][/us/stat/90/1816]\]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stF/ch75/schA/ptII/m__us_usc_t26_s7237, 7238.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch75/schA/ptII/m__us_usc_t26_s7240.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7239)
+[Previous](./../../../../../../..//us/usc/t26/stF/ch75/schA/ptII/m__us_usc_t26_s7236.md) | [Next](./../../../../../../..//us/usc/t26/stF/ch75/schA/ptII/m__us_usc_t26_s7240.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7239)
 
 ----------
 ----------

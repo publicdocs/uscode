@@ -209,7 +209,9 @@
 
 >                 “(i) __Title ii benefit.—__ 
 
->                 A benefit payment described in this clause is a monthly insurance benefit payable (without regard to sections 202(j)(1) and 223(b) of the Social Security Act ([42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1], 423(b))\[)\] under—         “(I) section 202(a) of such Act ([42 U.S.C. 402(a)][/us/usc/t42/s402/a]);
+>                 A benefit payment described in this clause is a monthly insurance benefit payable (without regard to sections 202(j)(1) and 223(b) of the Social Security Act ([42 U.S.C. 402(j)(1)][/us/usc/t42/s402/j/1], 423(b))\[)\] under—
+
+>                          “(I) section 202(a) of such Act ([42 U.S.C. 402(a)][/us/usc/t42/s402/a]);
 
 >                          “(II) section 202(b) of such Act ([42 U.S.C. 402(b)][/us/usc/t42/s402/b]);
 
@@ -233,7 +235,9 @@
 
 >                 “(ii) __Railroad retirement benefit.—__ 
 
->                 A benefit payment described in this clause is a monthly annuity or pension payment payable (without regard to section 5(a)(ii) of the Railroad Retirement Act of 1974 ([45 U.S.C. 231d(a)(ii)][/us/usc/t45/s231d/a/ii])) under—         “(I) section 2(a)(1) of such Act ([45 U.S.C. 231a(a)(1)][/us/usc/t45/s231a/a/1]);
+>                 A benefit payment described in this clause is a monthly annuity or pension payment payable (without regard to section 5(a)(ii) of the Railroad Retirement Act of 1974 ([45 U.S.C. 231d(a)(ii)][/us/usc/t45/s231d/a/ii])) under—
+
+>                          “(I) section 2(a)(1) of such Act ([45 U.S.C. 231a(a)(1)][/us/usc/t45/s231a/a/1]);
 
 >                          “(II) section 2(c) of such Act ([45 U.S.C. 231a(c)][/us/usc/t45/s231a/c]);
 
@@ -251,7 +255,9 @@
 
 >                 “(iii) __Veterans benefit.—__ 
 
->                 A benefit payment described in this clause is a compensation or pension payment payable under—         “(I) section 1110, 1117, 1121, 1131, 1141, or 1151 of title 38, United States Code;
+>                 A benefit payment described in this clause is a compensation or pension payment payable under—
+
+>                          “(I) section 1110, 1117, 1121, 1131, 1141, or 1151 of title 38, United States Code;
 
 >                          “(II) section 1310, 1312, 1313, 1315, 1316, or 1318 of title 38, United States Code;
 

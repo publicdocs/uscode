@@ -199,7 +199,9 @@
 
 >     For purposes of this Act—
 
->         “(1) __1983 payment-in-kind program.—The term ‘1983 payment-in-kind program’ means any program for the 1983 crop year—__ 
+>         “(1) __1983 payment-in-kind program.—__ 
+
+>         The term ‘1983 payment-in-kind program’ means any program for the 1983 crop year—
 
 >             “(A)
 

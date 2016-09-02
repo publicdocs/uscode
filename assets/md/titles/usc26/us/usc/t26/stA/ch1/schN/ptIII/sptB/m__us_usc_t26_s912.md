@@ -15,7 +15,7 @@
 
 ## § 912. Exemption for certain allowances
 
-The following items shall not be included in gross income, and shall be exempt from taxation under this subtitle:
+    The following items shall not be included in gross income, and shall be exempt from taxation under this subtitle:
 
     (1) __Foreign areas allowances__ 
 

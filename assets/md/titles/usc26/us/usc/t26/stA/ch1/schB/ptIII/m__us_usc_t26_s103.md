@@ -625,7 +625,7 @@
 
 >         Except as otherwise provided in this subsection, the amendment made by section 621 \[amending this section\] shall apply to obligations issued after December 31, 1983.
 
->         “(2) __Inducement resolution before june 19, 1984.—__ 
+>         “(2) __Inducement resolution before__  __june 19, 1984__  __.—__ 
 
 >         The amendment made by section 621 shall not apply to any issue of obligations if—
 
@@ -633,7 +633,7 @@
 
 >             “(B) the issue is issued before January 1, 1985.
 
->         “(3) __Certain projects preliminarily approved before october 19, 1983, given approval.—__ 
+>         “(3) __Certain projects preliminarily approved before__  __october 19, 1983__  __, given approval.—__ 
 
 >         If—
 
@@ -645,9 +645,9 @@
 
 >             such issuing authority shall allocate its share of the limitation under section 103(n) of such Code for the calendar year during which the obligations were to be issued pursuant to such resolution (or other approval) first to such project. If the amount of obligations required by all projects which meet the requirements of the preceding sentence exceeds the issuing authority’s share of the limitation under section 103(n) of such Code, priority under the preceding sentence shall be provided first to those projects for which substantial expenditures were incurred before October 19, 1983. If any issuing authority fails to meet the requirements of this paragraph, the limitation under section 103(n) of such Code for the issuing authority for the calendar year following such failure shall be reduced by the amount of obligations with respect to which such failure occurred.
 
->         “(3) __\[(4)\] Exception for certain bonds for a convention center and resource recovery project.—__ 
+>         “(3)
 
->         In the case of any city, if—
+>          \[(4)\] Exception for certain bonds for a convention center and resource recovery project.—In the case of any city, if—
 
 >             “(A) the city council of such city authorized a feasibility study for a convention center on June 10, 1982, and
 
@@ -1091,7 +1091,7 @@
 
 >     “(3) the proceeds of the refunding obligation are used to redeem the refunded obligation not later than 90 days after the date of the issuance of the refunding obligation.
 
->         For purposes of the preceding sentence, the term ‘tax-exempt IDB’ means any industrial development bond (as defined in section 103(b) of the Internal Revenue Code of 1954 \[now 1986\]) the interest on which is exempt from tax under section 103(a) of such Code. For purposes of paragraph (1), average maturity shall be determined in accordance with subsection (b)(14)(B)(i) of such Code.”
+>     For purposes of the preceding sentence, the term ‘tax-exempt IDB’ means any industrial development bond (as defined in section 103(b) of the Internal Revenue Code of 1954 \[now 1986\]) the interest on which is exempt from tax under section 103(a) of such Code. For purposes of paragraph (1), average maturity shall be determined in accordance with subsection (b)(14)(B)(i) of such Code.”
 
 \[[Pub. L. 100–647, title I, § 1018(m)(5)][/us/pl/100/647/s1018/m/5], Nov. 10, 1988, [102 Stat. 3584][/us/stat/102/3584], provided that: 
 
@@ -1243,7 +1243,7 @@
 
 >     “(2) the governmental unit issuing such obligations is the owner or operator of such airport,
 
->         such governmental unit shall be deemed to be the only governmental unit having jurisdiction over such airport for purposes of subsection (k) of section 103 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to public approval for industrial development bonds).”
+>     such governmental unit shall be deemed to be the only governmental unit having jurisdiction over such airport for purposes of subsection (k) of section 103 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to public approval for industrial development bonds).”
 
  __Small Issue Limit in Case of Certain Urban Development Action Grants__ 
 
@@ -1295,7 +1295,9 @@
 
 >                 “(i) __In general.—__ 
 
->                 For purposes of this paragraph, the term ‘qualified date’ means the earlier of—         “(I) the date on which the Higher Education Act of 1965 \[[20 U.S.C. 1001][/us/usc/t20/s1001] et seq., [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\] expires, or
+>                 For purposes of this paragraph, the term ‘qualified date’ means the earlier of—
+
+>                          “(I) the date on which the Higher Education Act of 1965 \[[20 U.S.C. 1001][/us/usc/t20/s1001] et seq., [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\] expires, or
 
 >                          “(II) the date, after the date of enactment of this Act \[July 18, 1984\], on which the Higher Education Act of 1965 is reauthorized.
 

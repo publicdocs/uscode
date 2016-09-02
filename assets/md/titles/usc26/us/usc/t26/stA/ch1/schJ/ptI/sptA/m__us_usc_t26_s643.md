@@ -401,7 +401,7 @@
 
 >     “(3) such trusts did not accumulate any income during such taxable year and did not make any accumulation distributions during such taxable year,
 
->         then, notwithstanding the amendment made by section 1806(b) of the Reform Act, such trusts shall be treated as one trust for purposes of such taxable year.”
+>     then, notwithstanding the amendment made by section 1806(b) of the Reform Act, such trusts shall be treated as one trust for purposes of such taxable year.”
 
  __Plan Amendments Not Required Until January 1, 1989__ 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stC/ch24/m__us_usc_t26_s3405.md) | [Next](./../../../../..//us/usc/t26/stC/ch24/m__us_usc_t26_s3451 to 3456.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3406)
+[Previous](./../../../../..//us/usc/t26/stC/ch24/m__us_usc_t26_s3405.md) | [Next](./../../../../..//us/usc/t26/stC/ch25/m__us_usc_t26_stC_ch25.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3406)
 
 ## § 3406. Backup withholding
 
@@ -511,9 +511,57 @@
 
     For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§ 1101–1147 and 1171–1177\] or title XVIII \[§§ 1800–1899A\] of [Pub. L. 99–514][/us/pl/99/514] require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see [section 1140 of Pub. L. 99–514][/us/pl/99/514/s1140], as amended, set out as a note under [section 401 of this title][/us/usc/t26/s401].
 
+\[§§ 3451 to 3456. __Repealed.__  __[__  __Pub. L. 98–67, title I, § 102(a)__  __][/us/pl/98/67/s102/a]__  __,__  __Aug. 5, 1983__  __,__  __[__  __97 Stat. 369__  __][/us/stat/97/369]__  __\]__ 
+
+    Section 3451, [Pub. L. 97–248, title III, § 301][/us/pl/97/248/s301], Sept. 3, 1982, [96 Stat. 576][/us/stat/96/576], set forth withholding requirements respecting income tax collected at source on interest, dividends, and patronage dividends.
+
+    Section 3452, [Pub. L. 97–248, title III, § 301][/us/pl/97/248/s301], Sept. 3, 1982, [96 Stat. 577][/us/stat/96/577], related to exemptions from withholding requirements.
+
+    Section 3453, [Pub. L. 97–248, title III, § 301][/us/pl/97/248/s301], Sept. 3, 1982, [96 Stat. 579][/us/stat/96/579]; [Pub. L. 97–354, § 3(i)(1)][/us/pl/97/354/s3/i/1], Oct. 19, 1982, [96 Stat. 1690][/us/stat/96/1690], defined “payor”.
+
+    Section 3454, [Pub. L. 97–248, title III, § 301][/us/pl/97/248/s301], Sept. 3, 1982, [96 Stat. 580][/us/stat/96/580]; [Pub. L. 97–354, § 3(i)(2)][/us/pl/97/354/s3/i/2], (3), Oct. 19, 1982, [96 Stat. 1690][/us/stat/96/1690]; [Pub. L. 97–424, title V, § 547(b)(3)][/us/pl/97/424/s547/b/3], Jan. 6, 1983, [96 Stat. 2200][/us/stat/96/2200], defined the terms “interest”, “dividend”, and “patronage dividend”.
+
+    Section 3455, [Pub. L. 97–248, title III, § 301][/us/pl/97/248/s301], Sept. 3, 1982, [96 Stat. 583][/us/stat/96/583], set forth definitions and other special rules.
+
+    Section 3456, [Pub. L. 97–248, title III, § 301][/us/pl/97/248/s301], Sept. 3, 1982, [96 Stat. 585][/us/stat/96/585], set forth administrative provisions.
+
+ __Effective Dates; Special Rules__ 
+
+    [Pub. L. 97–248, title III, § 308][/us/pl/97/248/s308], Sept. 3, 1982, [96 Stat. 591][/us/stat/96/591], which provided that the amendments made by sections 301 to 308 \[enacting subchapter B (§§ 3451–3456) of chapter 24 of this title and amending sections 31, 274, 275, 643, 661, 3403, 3502, 3507, 6013, 6015, 6042, 6044, 6049, 6051, 6365, 6401, 6413, 6654, 6682, 7205, 7215, 7654, and 7701 of this title\] would apply to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, provided for the delay in applications for payors unable to comply with the requirements of such provisions without undue hardship, provided a temporary rule for certain withholding exemptions, and provided for delays in making deposits, was repealed by [Pub. L. 98–67, title I, § 102(a)][/us/pl/98/67/s102/a], Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369].
+
+ __Repeal of Withholding on Interest and Dividends__ 
+
+[Pub. L. 98–67, title I, § 102(a)][/us/pl/98/67/s102/a]–(d), Aug. 5, 1983, [97 Stat. 369][/us/stat/97/369], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
+
+>     “(a) __In General.—__ 
+
+>     Subtitle A of title III of the Tax Equity and Fiscal Responsibility Act of 1982 (relating to withholding of tax from interest and dividends) \[subtitle A (§§ 301–308) of title III of [Pub. L. 97–248][/us/pl/97/248], which enacted this section and sections 3452 to 3456 of this title, amended sections 31, 274, 275, 643, 661, 3403, 3502, 3507, 6013, 6015, 6042, 6044, 6051, 6365, 6401, 6413, 6654, 6682, 7205, 7215, 7654, and 7701 of this title and enacted provisions set out as a note above\] is hereby repealed as of the close of June 30, 1983.
+
+>     “(b) __Conforming Amendment.—__ 
+
+>     Except as provided in this section, the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall be applied and administered as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+
+>     “(c) __Repeal Not To Apply to Amounts Deducted and Withheld Before__  __September 2, 1983__  __.—__ 
+
+>         “(1) __In general.—__ 
+
+>         If, notwithstanding the repeal made by subsection (a) (and the provisions of subsection (b)), an amount is deducted and withheld before September 2, 1983, under subchapter B of chapter 24 of the Internal Revenue Code of 1986 (as in effect before its repeal by subsection (a)), the repeal made by subsection (a) (and the provisions of subsection (b)) shall not apply to the amount so deducted and withheld.
+
+>         “(2) __Election to have paragraph (1) not apply.—__ 
+
+>         Paragraph (1) shall not apply with respect to any payor who elects (at the time and in the manner prescribed by the Secretary of the Treasury or his delegate) to have paragraph (1) not apply.
+
+>     “(d) __Estimated Tax Payments.—__ 
+
+>     For purposes of determining the amount of any addition to tax under section 6654 of the Internal Revenue Code of 1986 with respect to any installment required to be paid before July 1, 1983, the amount of the credit allowed by section 31 of such Code for any taxable year which includes any portion of the period beginning July 1, 1983, and ending December 31, 1983, shall be increased by an amount equal to 10 percent of the aggregate amount of payments—
+
+>         “(1) which are received during the portion of such taxable year after June 30, 1983, and before January 1, 1984, and
+
+>         “(2) which (but for the repeal made by subsection (a)) would have been subject to withholding under subchapter B of chapter 24 of such Code (determined without regard to any exemption described in section 3452 of such subchapter B).”
+
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stC/ch24/m__us_usc_t26_s3405.md) | [Next](./../../../../..//us/usc/t26/stC/ch24/m__us_usc_t26_s3451 to 3456.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3406)
+[Previous](./../../../../..//us/usc/t26/stC/ch24/m__us_usc_t26_s3405.md) | [Next](./../../../../..//us/usc/t26/stC/ch25/m__us_usc_t26_stC_ch25.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3406)
 
 ----------
 ----------
@@ -574,5 +622,34 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/514/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1140
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
+[/us/pl/98/67/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs102%2Fa
+[/us/stat/97/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F369
+[/us/pl/97/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs301
+[/us/stat/96/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F576
+[/us/pl/97/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs301
+[/us/stat/96/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F577
+[/us/pl/97/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs301
+[/us/stat/96/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F579
+[/us/pl/97/354/s3/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs3%2Fi%2F1
+[/us/stat/96/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1690
+[/us/pl/97/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs301
+[/us/stat/96/580]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F580
+[/us/pl/97/354/s3/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs3%2Fi%2F2
+[/us/stat/96/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1690
+[/us/pl/97/424/s547/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F424%2Fs547%2Fb%2F3
+[/us/stat/96/2200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2200
+[/us/pl/97/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs301
+[/us/stat/96/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F583
+[/us/pl/97/248/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs301
+[/us/stat/96/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F585
+[/us/pl/97/248/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs308
+[/us/stat/96/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F591
+[/us/pl/98/67/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs102%2Fa
+[/us/stat/97/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F369
+[/us/pl/98/67/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F67%2Fs102%2Fa
+[/us/stat/97/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F369
+[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
+[/us/pl/97/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248
 
 

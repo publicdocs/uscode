@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stD/ch32/schD/ptII/m__us_usc_t26_s4171 to 4173.md) | [Next](./../../../../../../..//us/usc/t26/stD/ch32/schD/ptIII/m__us_usc_t26_s4181.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch32%2FschD%2FptIII)
+[Previous](./../../../../../../..//us/usc/t26/stD/ch32/schD/ptII/m__us_usc_t26_stD_ch32_schD_ptII.md) | [Next](./../../../../../../..//us/usc/t26/stD/ch32/schD/ptIII/m__us_usc_t26_s4181.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch32%2FschD%2FptIII)
 
 ##### PART III—FIREARMS
 
@@ -43,7 +43,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stD/ch32/schD/ptII/m__us_usc_t26_s4171 to 4173.md) | [Next](./../../../../../../..//us/usc/t26/stD/ch32/schD/ptIII/m__us_usc_t26_s4181.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch32%2FschD%2FptIII)
+[Previous](./../../../../../../..//us/usc/t26/stD/ch32/schD/ptII/m__us_usc_t26_stD_ch32_schD_ptII.md) | [Next](./../../../../../../..//us/usc/t26/stD/ch32/schD/ptIII/m__us_usc_t26_s4181.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstD%2Fch32%2FschD%2FptIII)
 
 ----------
 ----------

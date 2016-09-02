@@ -519,7 +519,7 @@
 
 >         In the case of dealer dispositions (within the meaning of section 453(l)(1) of the Internal Revenue Code of 1986 as added by this section), the amendments made by subsections (a) and (b) \[amending this section and repealing [section 453C of this title][/us/usc/t26/s453C]\] shall apply to installment obligations arising from dispositions after December 31, 1987.
 
->         “(B) __Special rules for obligations arising from dealer dispositions after february 28, 1986, and before january 1, 1988.—__ 
+>         “(B) __Special rules for obligations arising from dealer dispositions after__  __february 28, 1986__  __, and before__  __january 1, 1988__  __.—__ 
 
 >             “(i) __In general.—__ 
 
@@ -703,7 +703,7 @@
 
 >         For purposes of this paragraph, the term ‘revolving installment obligations’ means installment obligations arising under a revolving credit plan.
 
->         “(E) __Treatment of certain obligations disposed of on or before october 26, 1987.—__ 
+>         “(E) __Treatment of certain obligations disposed of on or before__  __october 26, 1987__  __.—__ 
 
 >         For purposes of subparagraphs (B)(i) and (C)(i), in determining the aggregate face amount of revolving installment obligations outstanding as of the close of the taxpayer’s last taxable year beginning before January 1, 1987, there shall not be taken into account any obligation—
 
@@ -739,7 +739,7 @@
 
 >     The amendments made by this section shall not apply with respect to any disposition conducted pursuant to a contract which was binding on March 22, 1984, and at all times thereafter.
 
->     “(3) __Special rule for certain dispositions before october 1, 1984.—__ 
+>     “(3) __Special rule for certain dispositions before__  __october 1, 1984__  __.—__ 
 
 >     The amendments made by this section shall not apply to any disposition before October 1, 1984, of all or substantially all of the personal property of a cable television business pursuant to a written offer delivered by the seller on June 20, 1984, but only if the last payment under the installment contract is due no later than October 1, 1989.”
 

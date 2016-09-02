@@ -15,7 +15,7 @@
 
 ## § 7206. Fraud and false statements
 
-Any person who—
+    Any person who—
 
     (1) __Declaration under penalties of perjury__ 
 
@@ -45,7 +45,7 @@ Any person who—
 
             Receives, withholds, destroys, mutilates, or falsifies any book, document, or record, or makes any false statement, relating to the estate or financial condition of the taxpayer or other person liable in respect of the tax;
 
-        shall be guilty of a felony and, upon conviction thereof, shall be fined not more than $100,000 ($500,000 in the case of a corporation), or imprisoned not more than 3 years, or both, together with the costs of prosecution.
+    shall be guilty of a felony and, upon conviction thereof, shall be fined not more than $100,000 ($500,000 in the case of a corporation), or imprisoned not more than 3 years, or both, together with the costs of prosecution.
 
 ([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 852][/us/stat/68A/852]; [Pub. L. 97–248, title III, § 329(c)][/us/pl/97/248/s329/c], Sept. 3, 1982, [96 Stat. 618][/us/stat/96/618].)
 

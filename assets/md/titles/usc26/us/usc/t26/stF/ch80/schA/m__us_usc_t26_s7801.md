@@ -35,7 +35,7 @@
 
                 Nothing in this Act  <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  alters or repeals the rulings and interpretations of the Bureau of Alcohol, Tobacco, and Firearms in effect on the effective date of the Homeland Security Act of 2002, which concern the provisions of this title referred to in subparagraph (A). The Attorney General shall consult with the Secretary to achieve uniformity and consistency in administering provisions under chapter 53 of title 26, United States Code.
 
-        \[(b) Repealed. [Pub. L. 97–258, § 5(b)][/us/pl/97/258/s5/b], Sept. 13, 1982, [96 Stat. 1068][/us/stat/96/1068], 1078\]
+    \[(b) __Repealed.__  __[__  __Pub. L. 97–258, § 5(b)__  __][/us/pl/97/258/s5/b]__  __,__  __Sept. 13, 1982__  __,__  __[__  __96 Stat. 1068__  __][/us/stat/96/1068]__  __, 1078\]__ 
 
     (c) __Functions of Department of Justice unaffected__ 
 

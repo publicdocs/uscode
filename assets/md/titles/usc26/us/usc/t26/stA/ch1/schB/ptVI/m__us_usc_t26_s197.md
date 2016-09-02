@@ -345,7 +345,7 @@
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and amending sections 167, 642, 848, 1016, 1060, 1245, and 1253 of this title\] shall apply with respect to property acquired after the date of the enactment of this Act \[Aug. 10, 1993\].
 
->     “(2) __Election to have amendments apply to property acquired after july 25, 1991.—__ 
+>     “(2) __Election to have amendments apply to property acquired after__  __july 25, 1991__  __.—__ 
 
 >         “(A) __In general.—__ 
 

@@ -477,7 +477,7 @@
 
 >         “(B) demand loans outstanding after June 6, 1984.
 
->     “(2) __Exception for demand loans outstanding on june 6, 1984, and repaid within 60 days after date of enactment.—__ 
+>     “(2) __Exception for demand loans outstanding on__  __june 6, 1984__  __, and repaid within 60 days after date of enactment.—__ 
 
 >     The amendments made by this section shall not apply to any demand loan which—
 
@@ -489,7 +489,7 @@
 
 >     Nothing in this subsection shall be construed to apply the amendments made by this section to any loan made before June 6, 1984, to a continuing care facility by a resident of such facility which is contingent on continued residence at such facility.
 
->     “(4) __Applicable federal rate for periods before january 1, 1985.—__ 
+>     “(4) __Applicable federal rate for periods before__  __january 1, 1985__  __.—__ 
 
 >     For periods before January 1, 1985, the applicable Federal rate under paragraph (2) of section 7872(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by this section, shall be 10 percent, compounded semiannually.
 

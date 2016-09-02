@@ -157,7 +157,7 @@
 
 >     Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending sections 6652 and 6678 of this title\] shall apply to amounts received after December 31, 1984.
 
->     “(2) __Special rule for obligations in existence on december 31, 1984.—__ 
+>     “(2) __Special rule for obligations in existence on__  __december 31, 1984__  __.—__ 
 
 >     In the case of any obligation in existence on December 31, 1984, no penalty shall be imposed under section 6676 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] by reason of the amendments made by this section on any failure to supply a taxpayer identification number with respect to amounts received before January 1, 1986.”
 

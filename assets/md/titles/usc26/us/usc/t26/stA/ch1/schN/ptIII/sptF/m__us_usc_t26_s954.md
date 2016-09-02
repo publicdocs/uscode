@@ -279,7 +279,7 @@
 
             Paragraph (1) shall also not apply to income which is exempt insurance income (as defined in section 953(e)) or which is not treated as foreign personal holding income by reason of subsection (c)(2)(C)(ii), (h), or (i).
 
-        \[(f) Repealed. [Pub. L. 108–357, title IV, § 415(a)(2)][/us/pl/108/357/s415/a/2], Oct. 22, 2004, [118 Stat. 1511][/us/stat/118/1511]\]
+    \[(f) __Repealed.__  __[__  __Pub. L. 108–357, title IV, § 415(a)(2)__  __][/us/pl/108/357/s415/a/2]__  __,__  __Oct. 22, 2004__  __,__  __[__  __118 Stat. 1511__  __][/us/stat/118/1511]__  __\]__ 
 
     (g) __Foreign base company oil related income__ 
 

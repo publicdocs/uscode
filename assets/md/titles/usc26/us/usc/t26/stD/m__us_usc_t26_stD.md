@@ -979,7 +979,11 @@
 
 >                 “(i) $10,000, plus
 
->                 “(ii) the lesser of—         “(I) an amount equal to $1,000, multiplied by the number of days during which such failure continues, or
+>                 “(ii)
+
+>                  the lesser of—
+
+>                          “(I) an amount equal to $1,000, multiplied by the number of days during which such failure continues, or
 
 >                          “(II) the amount of the fee imposed by this section for which such report was required.
 

@@ -75,7 +75,7 @@
 
                 The term “nonrecently purchased stock” means any stock in the target corporation which is held by the purchasing corporation on the acquisition date and which is not recently purchased stock.
 
-        \[(c) Repealed. [Pub. L. 99–514, title VI, § 631(b)(2)][/us/pl/99/514/s631/b/2], Oct. 22, 1986, [100 Stat. 2272][/us/stat/100/2272]\]
+    \[(c) __Repealed.__  __[__  __Pub. L. 99–514, title VI, § 631(b)(2)__  __][/us/pl/99/514/s631/b/2]__  __,__  __Oct. 22, 1986__  __,__  __[__  __100 Stat. 2272__  __][/us/stat/100/2272]__  __\]__ 
 
     (d) __Purchasing corporation; target corporation; qualified stock purchase__ 
 
@@ -217,7 +217,7 @@
 
                 (ii) stock held by a target affiliate in a foreign corporation or a domestic corporation which is a DISC or described in section 1248(e) shall be excluded from the operation of this section.
 
-            \[(7) Repealed. [Pub. L. 100–647, title I, § 1006(e)(20)][/us/pl/100/647/s1006/e/20], Nov. 10, 1988, [102 Stat. 3403][/us/stat/102/3403]\]
+        \[(7) __Repealed.__  __[__  __Pub. L. 100–647, title I, § 1006(e)(20)__  __][/us/pl/100/647/s1006/e/20]__  __,__  __Nov. 10, 1988__  __,__  __[__  __102 Stat. 3403__  __][/us/stat/102/3403]__  __\]__ 
 
         (8) __Acquisitions by affiliated group treated as made by 1 corporation__ 
 
@@ -445,7 +445,7 @@
 
 >     The amendments made by this section \[enacting this section and amending sections 168, 318, 334, 336, 337, 381, and 617 of this title\] shall apply to any target corporation (within the meaning of section 338 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as added by this section) with respect to which the acquisition date (within the meaning of such section) occurs after August 31, 1982.
 
->     “(2) __Certain acquisitions before september 1, 1982.—__ 
+>     “(2) __Certain acquisitions before__  __september 1, 1982__  __.—__ 
 
 >     If—
 
@@ -511,7 +511,7 @@
 
 >     “(C) merged into the acquired corporation,
 
->         such purchase of stock shall be considered as made by the acquiring corporation, such election shall be valid, and the acquiring corporation shall be considered a purchasing corporation for purposes of section 338 of such Code without regard to the duration of the existence of the acquiring corporation.”
+>     such purchase of stock shall be considered as made by the acquiring corporation, such election shall be valid, and the acquiring corporation shall be considered a purchasing corporation for purposes of section 338 of such Code without regard to the duration of the existence of the acquiring corporation.”
 
  __Special Rules for Deemed Purchases under Prior Law__ 
 
@@ -529,7 +529,7 @@
 
 >     “(II) the purchasing corporation establishes by clear and convincing evidence that such contract was negotiated on the contemplation that, with respect to the deemed sale under section 338 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the target corporation would be treated as a member of the affiliated group which includes the selling corporation,
 
->         then the amendment made by clause (i) \[amending subsec. (h)\] shall not apply to such qualified stock purchase.”
+>     then the amendment made by clause (i) \[amending subsec. (h)\] shall not apply to such qualified stock purchase.”
 
 ----------
 

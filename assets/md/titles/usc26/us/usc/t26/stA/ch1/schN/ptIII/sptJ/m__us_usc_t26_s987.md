@@ -15,7 +15,7 @@
 
 ## § 987. Branch transactions
 
-In the case of any taxpayer having 1 or more qualified business units with a functional currency other than the dollar, taxable income of such taxpayer shall be determined—
+    In the case of any taxpayer having 1 or more qualified business units with a functional currency other than the dollar, taxable income of such taxpayer shall be determined—
 
     (1) by computing the taxable income or loss separately for each such unit in its functional currency,
 

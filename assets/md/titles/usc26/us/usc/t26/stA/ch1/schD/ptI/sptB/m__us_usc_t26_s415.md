@@ -277,9 +277,9 @@
 
                 In the case of an annuity contract described in section 403(b), the term “participant’s compensation” means the participant’s includible compensation determined under section 403(b)(3).
 
-            \[(4) Repealed. [Pub. L. 107–16, title VI, § 632(a)(3)(E)][/us/pl/107/16/s632/a/3/E], June 7, 2001, [115 Stat. 114][/us/stat/115/114]\]
+        \[(4) __Repealed.__  __[__  __Pub. L. 107–16, title VI, § 632(a)(3)(E)__  __][/us/pl/107/16/s632/a/3/E]__  __,__  __June 7, 2001__  __,__  __[__  __115 Stat. 114__  __][/us/stat/115/114]__  __\]__ 
 
-            \[(5) Repealed. [Pub. L. 97–248, title II, § 238(d)(5)][/us/pl/97/248/s238/d/5], Sept. 3, 1982, [96 Stat. 513][/us/stat/96/513]\]
+        \[(5) __Repealed.__  __[__  __Pub. L. 97–248, title II, § 238(d)(5)__  __][/us/pl/97/248/s238/d/5]__  __,__  __Sept. 3, 1982__  __,__  __[__  __96 Stat. 513__  __][/us/stat/96/513]__  __\]__ 
 
         (6) __Special rule for employee stock ownership plans__ 
 
@@ -383,7 +383,7 @@
 
                 Any increase under subparagraph (C) of paragraph (1) which is not a multiple of $1,000 shall be rounded to the next lowest multiple of $1,000.
 
-        \[(e) Repealed. [Pub. L. 104–188, title I, § 1452(a)][/us/pl/104/188/s1452/a], Aug. 20, 1996, [110 Stat. 1816][/us/stat/110/1816]\]
+    \[(e) __Repealed.__  __[__  __Pub. L. 104–188, title I, § 1452(a)__  __][/us/pl/104/188/s1452/a]__  __,__  __Aug. 20, 1996__  __,__  __[__  __110 Stat. 1816__  __][/us/stat/110/1816]__  __\]__ 
 
     (f) __Combining of plans__ 
 
@@ -597,7 +597,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title][/us/usc/t26/s401].
+    For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title][/us/usc/t26/s401].
 
  __References in Text__ 
 
@@ -1121,7 +1121,7 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 
 >     The amendments made by subsections (a), (b), and (c) \[amending this section and [section 457 of this title][/us/usc/t26/s457]\] shall apply to years beginning after December 31, 1994. The amendments made by subsection (d) \[amending this section\] shall apply with respect to revocations adopted after the date of the enactment of this Act \[Aug. 20, 1997\].
 
->     “(2) __Treatment for years beginning before january 1, 1995.—__ 
+>     “(2) __Treatment for years beginning before__  __january 1, 1995__  __.—__ 
 
 >     Nothing in the amendments made by this section shall be construed to imply that a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986) fails to satisfy the requirements of section 415 of such Code for any taxable year beginning before January 1, 1995.”
 
@@ -1211,9 +1211,9 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 
 >                   shall be taken into account. For purposes of subclause (I), any change in the terms and conditions of the plan pursuant to a collective bargaining agreement ratified before May 6, 1986, shall be treated as a change made before May 6, 1986.
 
->     “(4) __Transition rule where the sum of defined contribution and defined benefit plan fractions exceeds 1.0.—__ 
+>     “(4) __Transition rule where the sum of defined contribution and defined benefit plan fractions exceeds 1.__ 
 
->     In the case of a plan which satisfied the requirements of section 415 of the Internal Revenue Code of 1986 for its last year beginning before January 1, 1987, the Secretary of the Treasury or his delegate shall prescribe regulations under which an amount is subtracted from the numerator of the defined contribution plan fraction (not exceeding such numerator) so that the sum of the defined benefit plan fraction and the defined contribution plan fraction computed under section 415(e)(1) of such Code does not exceed 1.0 for such year (determined as if the amendments made by this section were in effect for such year).
+>     0.—In the case of a plan which satisfied the requirements of section 415 of the Internal Revenue Code of 1986 for its last year beginning before January 1, 1987, the Secretary of the Treasury or his delegate shall prescribe regulations under which an amount is subtracted from the numerator of the defined contribution plan fraction (not exceeding such numerator) so that the sum of the defined benefit plan fraction and the defined contribution plan fraction computed under section 415(e)(1) of such Code does not exceed 1.0 for such year (determined as if the amendments made by this section were in effect for such year).
 
 >     “(5) __Effective date for subsection (d).—__ 
 
@@ -1301,9 +1301,9 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 
 >         The amendments made by subsections (b)(1) and (b)(2)(B) \[amending this section\] shall apply to adjustments for years beginning after December 31, 1985.
 
->     “(3) __Transition rule where the sum of defined contribution and defined benefit plan fractions exceeds 1.0.—__ 
+>     “(3) __Transition rule where the sum of defined contribution and defined benefit plan fractions exceeds 1.__ 
 
->     In the case of a plan which satisfied the requirements of section 415 of the Internal Revenue Code of 1986 for the last year beginning before January 1, 1983, the Secretary of the Treasury or his delegate shall prescribe regulations under which an amount is subtracted from the numerator of the defined contribution plan fraction (not exceeding such numerator) so that the sum of the defined benefit plan fraction and the defined contribution plan fraction computed under section 415(e)(1) of the Internal Revenue Code of 1986 (as amended by the Tax Equity and Fiscal Responsibility Act of 1982) does not exceed 1.0 for such year. A similar rule shall apply with respect to the last plan year beginning before January 1, 1984, for purposes of applying section 416(h) of the Internal Revenue Code of 1986.
+>     0.—In the case of a plan which satisfied the requirements of section 415 of the Internal Revenue Code of 1986 for the last year beginning before January 1, 1983, the Secretary of the Treasury or his delegate shall prescribe regulations under which an amount is subtracted from the numerator of the defined contribution plan fraction (not exceeding such numerator) so that the sum of the defined benefit plan fraction and the defined contribution plan fraction computed under section 415(e)(1) of the Internal Revenue Code of 1986 (as amended by the Tax Equity and Fiscal Responsibility Act of 1982) does not exceed 1.0 for such year. A similar rule shall apply with respect to the last plan year beginning before January 1, 1984, for purposes of applying section 416(h) of the Internal Revenue Code of 1986.
 
 >     “(4) __Right to higher accrued defined benefit preserved.—__ 
 
@@ -1445,7 +1445,7 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 
 >     “(B) no contributions are made under the defined contribution plan after such date.
 
->         A trust which is part of a pension, profit-sharing, or stock bonus plan described in the preceding sentence shall not be treated as not constituting a qualified trust under section 401(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on account of the provisions of section 415(e) of such Code, as long as it is described in the preceding sentence of this subsection.”
+>     A trust which is part of a pension, profit-sharing, or stock bonus plan described in the preceding sentence shall not be treated as not constituting a qualified trust under section 401(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on account of the provisions of section 415(e) of such Code, as long as it is described in the preceding sentence of this subsection.”
 
 ----------
 

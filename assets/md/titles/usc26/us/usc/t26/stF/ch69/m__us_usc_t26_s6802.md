@@ -15,7 +15,7 @@
 
 ## § 6802. Supply and distribution
 
-The Secretary shall furnish, without prepayment, to—
+    The Secretary shall furnish, without prepayment, to—
 
     (1) __Postmaster General__ 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stK/ch100/schB/m__us_usc_t26_s9812.md) | [Next](./../../../../../..//us/usc/t26/stK/ch100/schB/m__us_usc_t26_s9815.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9813)
+[Previous](./../../../../../..//us/usc/t26/stK/ch100/schB/m__us_usc_t26_s9812.md) | [Next](./../../../../../..//us/usc/t26/stK/ch100/schB/m__us_usc_t26_s9815.1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9813)
 
 ## § 9813. Coverage of dependent students on medically necessary leave of absence
 
@@ -81,7 +81,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t26/stK/ch100/schB/m__us_usc_t26_s9812.md) | [Next](./../../../../../..//us/usc/t26/stK/ch100/schB/m__us_usc_t26_s9815.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9813)
+[Previous](./../../../../../..//us/usc/t26/stK/ch100/schB/m__us_usc_t26_s9812.md) | [Next](./../../../../../..//us/usc/t26/stK/ch100/schB/m__us_usc_t26_s9815.1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9813)
 
 ----------
 ----------

@@ -47,9 +47,15 @@
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     1965—[Pub. L. 89–44, title II, § 205(b)][/us/pl/89/44/s205/b], June 21, 1965, [79 Stat. 140][/us/stat/79/140], struck out item relating to part II.
 

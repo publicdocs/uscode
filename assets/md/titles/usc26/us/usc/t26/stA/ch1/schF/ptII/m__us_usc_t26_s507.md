@@ -155,7 +155,7 @@
 
 >     “(2) were coincident with or by reason of the reduction in the required payments under such lease,
 
->         shall not be taken into account. For purposes of applying section 507(d)(2)(B)(iv) of such Code, the preceding sentence shall be treated as having taken effect on January 1, 1970.”
+>     shall not be taken into account. For purposes of applying section 507(d)(2)(B)(iv) of such Code, the preceding sentence shall be treated as having taken effect on January 1, 1970.”
 
 ----------
 

@@ -293,11 +293,11 @@
 
 >     “(2) __Special rules for certain eligible employees.—__ 
 
->         “(A) __Eligible employees hired before september 27, 1978.—__ 
+>         “(A) __Eligible employees hired before__  __september 27, 1978__  __.—__ 
 
 >         In the case of any eligible employee (as defined in section 50B(h)) hired before September 27, 1978, no credit shall be allowed under section 40 with respect to second-year work incentive program expenses (as defined in section 50B(a)) attributable to service performed by such employee.
 
->         “(B) __Eligible employees hired after september 26, 1978.—__ 
+>         “(B) __Eligible employees hired after__  __september 26, 1978__  __.—__ 
 
 >         In the case of any eligible employee (as defined in section 50B(h)) hired after September 26, 1978, for purposes of applying the amendments made by this section, such individual shall be treated for purposes of the credit allowed by section 40 as having first begun work for the taxpayer not earlier than January 1, 1979, and any wages paid or incurred after December 31, 1978, with respect to such individual shall be considered to be attributable to services rendered after that date.”
 

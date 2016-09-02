@@ -15,7 +15,7 @@
 
 ## § 7208. Offenses relating to stamps
 
-Any person who—
+    Any person who—
 
     (1) __Counterfeiting__ 
 
@@ -53,7 +53,7 @@ Any person who—
 
         Commits the offense described in section 7271 (relating to disposal and receipt of stamped packages) with intent to defraud the revenue, or to defraud any person;
 
-        shall be guilty of a felony and, upon conviction thereof, shall be fined not more than $10,000, or imprisoned not more than 5 years, or both.
+    shall be guilty of a felony and, upon conviction thereof, shall be fined not more than $10,000, or imprisoned not more than 5 years, or both.
 
 ([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 853][/us/stat/68A/853].)
 

@@ -15,7 +15,7 @@
 
 ## § 7651. Administration and collection of taxes in possessions
 
-Except as otherwise provided in this subchapter, and except as otherwise provided in section 28(a) of the Revised Organic Act of the Virgin Islands and section 30 of the Organic Act of Guam (relating to the covering of the proceeds of certain taxes into the treasuries of the Virgin Islands and Guam, respectively)—
+    Except as otherwise provided in this subchapter, and except as otherwise provided in section 28(a) of the Revised Organic Act of the Virgin Islands and section 30 of the Organic Act of Guam (relating to the covering of the proceeds of certain taxes into the treasuries of the Virgin Islands and Guam, respectively)—
 
     (1) __Applicability of administrative provisions__ 
 

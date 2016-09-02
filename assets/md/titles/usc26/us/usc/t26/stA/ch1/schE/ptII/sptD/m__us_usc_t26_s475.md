@@ -301,9 +301,9 @@
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting [section 1259 of this title][/us/usc/t26/s1259] and amending this section\] shall apply to any constructive sale after June 8, 1997.
 
->     “(2) __Exception for sales of positions, etc. held before june 9, 1997.—__ 
+>     “(2) __Exception for sales of positions, etc.__ 
 
->     If—
+>      held before june 9, 1997.—If—
 
 >         “(A) before June 9, 1997, the taxpayer entered into any transaction which is a constructive sale of any appreciated financial position, and
 

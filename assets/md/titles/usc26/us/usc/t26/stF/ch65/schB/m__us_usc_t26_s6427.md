@@ -127,9 +127,9 @@
 
             (E) any alternative fuel mixture (as defined in section 6426(e)(2)) sold or used after December 31, 2011.
 
-        \[(f) Repealed. [Pub. L. 109–59, title XI, § 11151(a)(1)][/us/pl/109/59/s11151/a/1], Aug. 10, 2005, [119 Stat. 1968][/us/stat/119/1968]\]
+    \[(f) __Repealed.__  __[__  __Pub. L. 109–59, title XI, § 11151(a)(1)__  __][/us/pl/109/59/s11151/a/1]__  __,__  __Aug. 10, 2005__  __,__  __[__  __119 Stat. 1968__  __][/us/stat/119/1968]__  __\]__ 
 
-        \[(g) Repealed. [Pub. L. 104–188, title I, § 1606(a)][/us/pl/104/188/s1606/a], Aug. 20, 1996, [110 Stat. 1839][/us/stat/110/1839]\]
+    \[(g) __Repealed.__  __[__  __Pub. L. 104–188, title I, § 1606(a)__  __][/us/pl/104/188/s1606/a]__  __,__  __Aug. 20, 1996__  __,__  __[__  __110 Stat. 1839__  __][/us/stat/110/1839]__  __\]__ 
 
     (h) __Blend stocks not used for producing taxable fuel__ 
 
@@ -1217,7 +1217,7 @@
 
 [Pub. L. 109–432, div. A, title IV, § 420(d)][/us/pl/109/432/s420/d], Dec. 20, 2006, [120 Stat. 2970][/us/stat/120/2970], provided that:
 
->     “(1) __Refunds for purchases after december 31, 2004, and before october 1, 2005.—__ 
+>     “(1) __Refunds for purchases after__  __december 31, 2004__  __, and before__  __october 1, 2005__  __.—__ 
 
 >     The Secretary of the Treasury shall pay to the ultimate purchaser of any kerosene which is used in aviation on a farm for farming purposes and which was purchased after December 31, 2004, and before October 1, 2005, an amount equal to the aggregate amount of tax imposed on such fuel under section 4041 or 4081 of the Internal Revenue Code of 1986, as the case may be, reduced by any payment to the ultimate vendor under section 6427(l)(5)(C) of such Code (as in effect on the day before the date of the enactment of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: a Legacy for Users \[Aug. 10, 2005\]).
 

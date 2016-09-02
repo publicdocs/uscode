@@ -109,7 +109,7 @@
 
             For allowance of credit against the tax imposed by subtitle A, see section 34.
 
-        \[(h) Repealed. [Pub. L. 103–66, title XIII, § 13241(f)(5)][/us/pl/103/66/s13241/f/5], Aug. 10, 1993, [107 Stat. 512][/us/stat/107/512]\]
+    \[(h) __Repealed.__  __[__  __Pub. L. 103–66, title XIII, § 13241(f)(5)__  __][/us/pl/103/66/s13241/f/5]__  __,__  __Aug. 10, 1993__  __,__  __[__  __107 Stat. 512__  __][/us/stat/107/512]__  __\]__ 
 
     (i) __Cross references__ 
 

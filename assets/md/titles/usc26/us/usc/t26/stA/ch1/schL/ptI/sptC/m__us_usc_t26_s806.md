@@ -139,7 +139,7 @@
 
 >     “(2) the bases of such assets in the hands of the corporation were determined under section 334(b)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] or such corporation made an election under section 338 of such Code with respect to such assets,
 
->         then the tentative LICTI of the corporation holding such assets for taxable years beginning after December 31, 1983, shall, for purposes of determining the amount of the special deductions under section 806 of such Code, be increased by the deduction allowable under chapter 1 of such Code for the amortization of the cost of insurance contracts acquired in such asset acquisition (and any portion of any operations loss deduction attributable to such amortization).”
+>     then the tentative LICTI of the corporation holding such assets for taxable years beginning after December 31, 1983, shall, for purposes of determining the amount of the special deductions under section 806 of such Code, be increased by the deduction allowable under chapter 1 of such Code for the amortization of the cost of insurance contracts acquired in such asset acquisition (and any portion of any operations loss deduction attributable to such amortization).”
 
  __Determination of Assets of Controlled Group for Purposes of Small Life Insurance Company Deduction for 1984__ 
 
@@ -179,7 +179,7 @@
 
 >     “(3) such stock was acquired by debt financing,
 
->         then, for purposes of determining the small life insurance company deduction under section 806a of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this subtitle \[subtitle A (§§ 211–219) of title II of div. A of [Pub. L. 98–369][/us/pl/98/369], see Tables for classifications\]), the amount of tentative LICTI of such life insurance company shall be computed without taking into account any income, gain, loss, or deduction attributable to the ownership of such stock. For purposes of determining taxable income, the amount of any income, gain, loss, or deduction attributable to the ownership of such stock shall be an amount equal to 46 times the amount of such income, gain, loss, or deduction, divided by 36.8.”
+>     then, for purposes of determining the small life insurance company deduction under section 806a of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this subtitle \[subtitle A (§§ 211–219) of title II of div. A of [Pub. L. 98–369][/us/pl/98/369], see Tables for classifications\]), the amount of tentative LICTI of such life insurance company shall be computed without taking into account any income, gain, loss, or deduction attributable to the ownership of such stock. For purposes of determining taxable income, the amount of any income, gain, loss, or deduction attributable to the ownership of such stock shall be an amount equal to 46 times the amount of such income, gain, loss, or deduction, divided by 36.8.”
 
  __Treatment of Losses From Certain Guaranteed Interest Contracts__ 
 

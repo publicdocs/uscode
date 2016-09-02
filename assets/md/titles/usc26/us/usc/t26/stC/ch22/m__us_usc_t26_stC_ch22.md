@@ -77,9 +77,15 @@
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     2001—[Pub. L. 107–90, title II, § 204(e)(5)][/us/pl/107/90/s204/e/5], Dec. 21, 2001, [115 Stat. 893][/us/stat/115/893], added item for subchapter E.
 

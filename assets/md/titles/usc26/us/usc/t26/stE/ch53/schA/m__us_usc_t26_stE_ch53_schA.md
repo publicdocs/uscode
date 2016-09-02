@@ -47,9 +47,15 @@
 
   </tr>
 
-</table>
+  <tr>
 
- __Prior Provisions__ 
+    <td> 
+
+Prior Provisions  </td>
+
+  </tr>
+
+</table>
 
     A prior subchapter A consisted of parts I to IV, prior to the general revision of this chapter by [Pub. L. 90–618, title II, § 201][/us/pl/90/618/s201], Oct. 22, 1968, [82 Stat. 1227][/us/stat/82/1227].
 

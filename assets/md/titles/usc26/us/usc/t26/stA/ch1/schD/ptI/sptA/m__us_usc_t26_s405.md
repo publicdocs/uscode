@@ -45,7 +45,7 @@
 
 >     “(B) the terms of any bond described in subsection (b) of such section 405,
 
->         such a bond may be redeemed at any time after the date of the enactment of this Act \[July 18, 1984\] in the same manner as if the individual redeeming the bond had attained age 59½.”
+>     such a bond may be redeemed at any time after the date of the enactment of this Act \[July 18, 1984\] in the same manner as if the individual redeeming the bond had attained age 59½.”
 
 ----------
 

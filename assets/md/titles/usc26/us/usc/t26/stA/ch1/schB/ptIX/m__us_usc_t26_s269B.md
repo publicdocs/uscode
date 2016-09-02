@@ -85,7 +85,7 @@
 
 >     Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section\] shall take effect on the date of the enactment of this Act \[July 18, 1984\].
 
->     “(2) __Interests stapled as of june 30, 1983.—__ 
+>     “(2) __Interests stapled as of__  __june 30, 1983__  __.—__ 
 
 >     Except as otherwise provided in this subsection, in the case of any interests which on June 30, 1983, were stapled interests (as defined in section 269B(c)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section)), the amendments made by this section shall take effect on January 1, 1985 (January 1, 1987, in the case of stapled interests in a foreign corporation).
 
@@ -109,7 +109,7 @@
 
 >             “(ii) does not, at any time during the taxable year, own (within the meaning of section 958 of such Code but before applying paragraph (2) of section 269B(a) of such Code) any stock of any corporation which is not described in such section 957(c).
 
->     “(5) __Treaty rule not to apply to stapled entities entitled to treaty benefits as of june 30, 1983.—__ 
+>     “(5) __Treaty rule not to apply to stapled entities entitled to treaty benefits as of__  __june 30, 1983__  __.—__ 
 
 >     In the case of any entity which was a stapled entity as of June 30, 1983, subsection (d) of section 269B of such Code shall not apply to any treaty benefit to which such entity was entitled as of June 30, 1983.
 
@@ -163,9 +163,9 @@
 
 >         The term ‘nonqualified real property interest’ means, with respect to any exempt REIT, any interest in real property acquired after March 26, 1998, by the exempt REIT or any stapled entity.
 
->         “(2) __Exception for binding contracts, etc.—__ 
+>         “(2) __Exception for binding contracts, etc.__ 
 
->         Such term shall not include any interest in real property acquired after March 26, 1998, by the exempt REIT or any stapled entity if—
+>         —Such term shall not include any interest in real property acquired after March 26, 1998, by the exempt REIT or any stapled entity if—
 
 >             “(A) the acquisition is pursuant to a written agreement (including a put option, buy-sell agreement, and an agreement relating to a third party default) which was binding on such date and at all times thereafter on such REIT or stapled entity; or
 
@@ -197,7 +197,9 @@
 
 >                 “(i) __In general.—__ 
 
->                 Subparagraph (A) shall not apply to any improvement placed in service after December 31, 1999, which is part of a change in the use of the property to which such improvement relates unless the cost of such improvement does not exceed 200 percent of—         “(I) the cost of such property; or
+>                 Subparagraph (A) shall not apply to any improvement placed in service after December 31, 1999, which is part of a change in the use of the property to which such improvement relates unless the cost of such improvement does not exceed 200 percent of—
+
+>                          “(I) the cost of such property; or
 
 >                          “(II) if such property is substituted basis property (as defined in section 7701(a)(42) of the Internal Revenue Code of 1986), the fair market value of the property at the time of acquisition.
 
@@ -205,13 +207,13 @@
 
 >                 For purposes of clause (i), an improvement shall be treated as placed in service before January 1, 2000, if such improvement is placed in service before January 1, 2004, pursuant to a binding contract in effect on December 31, 1999, and at all times thereafter.
 
->         “(4) __Exception for permitted transfers, etc.—__ 
+>         “(4) __Exception for permitted transfers, etc.__ 
 
->         The term ‘nonqualified real property interest’ shall not include any interest in real property acquired solely as a result of a direct or indirect contribution, distribution, or other transfer of such interest from the exempt REIT or any member of the stapled REIT group to such REIT or any such member, but only to the extent the aggregate of the interests of the exempt REIT and all stapled entities in such interest in real property (determined in accordance with subsection (c)(1)) is not increased by reason of the transfer.
+>         —The term ‘nonqualified real property interest’ shall not include any interest in real property acquired solely as a result of a direct or indirect contribution, distribution, or other transfer of such interest from the exempt REIT or any member of the stapled REIT group to such REIT or any such member, but only to the extent the aggregate of the interests of the exempt REIT and all stapled entities in such interest in real property (determined in accordance with subsection (c)(1)) is not increased by reason of the transfer.
 
->         “(5) __Treatment of entities which are not stapled, etc. on march 26, 1998.—__ 
+>         “(5) __Treatment of entities which are not stapled, etc.__ 
 
->         Notwithstanding any other provision of this section, all interests in real property held by an exempt REIT or any stapled entity with respect to such REIT (or treated under subsection (c) as held by such REIT or stapled entity) shall be treated as nonqualified real property interests unless—
+>          on march 26, 1998.—Notwithstanding any other provision of this section, all interests in real property held by an exempt REIT or any stapled entity with respect to such REIT (or treated under subsection (c) as held by such REIT or stapled entity) shall be treated as nonqualified real property interests unless—
 
 >             “(A) such stapled entity was a stapled entity with respect to such REIT as of March 26, 1998, and at all times thereafter; and
 
@@ -235,9 +237,9 @@
 
 >             Except as provided in subparagraph (B), any interest in real property held by a 10-percent subsidiary entity of an exempt REIT or stapled entity shall be treated as a nonqualified real property interest.
 
->             “(B) __Exception for interests in real property held on march 26, 1998, etc.—__ 
+>             “(B) __Exception for interests in real property held on__  __march 26, 1998__  __, etc.__ 
 
->             In the case of an entity which was a 10-percent subsidiary entity of an exempt REIT or stapled entity on March 26, 1998, and at all times thereafter, an interest in real property held by such subsidiary entity shall be treated as a qualified real property interest if such interest would be so treated if held or acquired directly by the exempt REIT or the stapled entity.
+>             —In the case of an entity which was a 10-percent subsidiary entity of an exempt REIT or stapled entity on March 26, 1998, and at all times thereafter, an interest in real property held by such subsidiary entity shall be treated as a qualified real property interest if such interest would be so treated if held or acquired directly by the exempt REIT or the stapled entity.
 
 >         “(3) __Reduction in qualified real property interests if increase in ownership of subsidiary.—__ 
 
@@ -307,9 +309,9 @@
 
 >             but only so long as such obligation is secured by such interest, and the interest payable on such obligation is not changed to a rate which exceeds an arm’s length rate unless such change is pursuant to the terms of the obligation in effect on March 26, 1998. The preceding sentence shall not cease to apply by reason of the refinancing of the obligation if (immediately after the refinancing) the principal amount of the obligation resulting from the refinancing does not exceed the principal amount of the refinanced obligation (immediately before the refinancing) and the interest payable on such refinanced obligation does not exceed an arm’s length rate.
 
->         “(5) __Treatment of entities which are not stapled, etc. on march 26, 1998.—__ 
+>         “(5) __Treatment of entities which are not stapled, etc.__ 
 
->         A rule similar to the rule of subsection (b)(5) shall apply for purposes of this subsection.
+>          on march 26, 1998.—A rule similar to the rule of subsection (b)(5) shall apply for purposes of this subsection.
 
 >         “(6) __Increase in amount of nonqualified obligations if increase in ownership of subsidiary.—__ 
 

@@ -269,7 +269,7 @@
 
 >         Subject to such terms and conditions as the Secretary of the Treasury or his delegate may prescribe, the Secretary may waive the application of subparagraph (A) with respect to any transfer.
 
->     “(3) __Ruling request before march 1, 1984.—__ 
+>     “(3) __Ruling request before__  __march 1, 1984__  __.—__ 
 
 >     The amendments made by this section (and the provisions of paragraph (2) of this subsection) shall not apply to any transfer or exchange of property described in a request filed before March 1, 1984, under section 367(a), 1492(2), or 1494(b) of the Internal Revenue Code of 1986 (as in effect before such amendments).”
 

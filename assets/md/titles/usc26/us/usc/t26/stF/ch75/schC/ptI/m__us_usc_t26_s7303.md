@@ -15,7 +15,7 @@
 
 ## § 7303. Other property subject to forfeiture
 
-There may be seized and forfeited to the United States the following:
+    There may be seized and forfeited to the United States the following:
 
     (1) __Counterfeit stamps__ 
 

@@ -935,7 +935,11 @@
 
 >              amounts in such separate account—
 
->                 “(i) shall only be used by the corporation—         “(I) to purchase an insurance policy which provides that, in the event the corporation becomes involved in a title 11 or similar case (as defined in section 368(a)(3)(A) of the Internal Revenue Code of 1954 \[now 1986\]), the insurer will provide life and health insurance coverage during the 1-year period beginning on the date when the corporation receives the refund to any individual with respect to whom the corporation would (but for such involvement) have been obligated to provide such coverage the coverage provided by the insurer will be identical to the coverage which the corporation would (but for such involvement) have been obligated to provide, and provides that the payment of insurance premiums will not be required during such 1-year period to keep such policy in force, or
+>                 “(i)
+
+>                  shall only be used by the corporation—
+
+>                          “(I) to purchase an insurance policy which provides that, in the event the corporation becomes involved in a title 11 or similar case (as defined in section 368(a)(3)(A) of the Internal Revenue Code of 1954 \[now 1986\]), the insurer will provide life and health insurance coverage during the 1-year period beginning on the date when the corporation receives the refund to any individual with respect to whom the corporation would (but for such involvement) have been obligated to provide such coverage the coverage provided by the insurer will be identical to the coverage which the corporation would (but for such involvement) have been obligated to provide, and provides that the payment of insurance premiums will not be required during such 1-year period to keep such policy in force, or
 
 >                          “(II) directly in connection with the trade or business of the corporation in the manufacturer or production of steel; and
 
@@ -1061,13 +1065,17 @@
 
 [Pub. L. 92–178, title I, § 101(c)][/us/pl/92/178/s101/c], Dec. 10, 1971, [85 Stat. 499][/us/stat/85/499], as amended by [Pub. L. 98–369, div. A, title IV, § 450(a)][/us/pl/98/369/s450/a], July 18, 1984, [98 Stat. 818][/us/stat/98/818]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—It was the intent of Congress in enacting, in the Revenue Act of 1962 \[see Short Title of 1962 Amendment note set out under__  __[__  __section 1 of this title__  __][/us/usc/t26/s1]__  __\], the investment credit allowed by section 38 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and it is the intent of the Congress in restoring that credit in this Act \[__  __[__  __section 50 of this title__  __][/us/usc/t26/s50]__  __\], to provide an incentive for modernization and growth of private industry. Accordingly, notwithstanding any other provision of law, on and after the date of the enactment of this Act \[__  __Dec. 10, 1971__  __\]—__ 
+>     “(1) __In general.—__ 
+
+>     It was the intent of Congress in enacting, in the Revenue Act of 1962 \[see Short Title of 1962 Amendment note set out under [section 1 of this title][/us/usc/t26/s1]\], the investment credit allowed by section 38 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and it is the intent of the Congress in restoring that credit in this Act \[[section 50 of this title][/us/usc/t26/s50]\], to provide an incentive for modernization and growth of private industry. Accordingly, notwithstanding any other provision of law, on and after the date of the enactment of this Act \[Dec. 10, 1971\]—
 
 >         “(A) no taxpayer shall be required to use, for purposes of financial reports subject to the jurisdiction of any Federal agency or reports made to any Federal agency, any particular method of accounting for the credit allowed by such section 38 \[this section\], and
 
 >         “(B) a taxpayer shall disclose, in any such report, the method of accounting for such credit used by him for purposes of such report.
 
->     “(2) __Exceptions.—Paragraph (1) shall not apply to taxpayers who are subject to the provisions of section 46(e) of the Internal Revenue Code of 1986 (as added by section 105(c) of this Act) or to section 203(e) of the Revenue Act of 1964 (as modified by section 105(e) of this Act) \[set out as note below\].”__ 
+>     “(2) __Exceptions.—__ 
+
+>     Paragraph (1) shall not apply to taxpayers who are subject to the provisions of section 46(e) of the Internal Revenue Code of 1986 (as added by section 105(c) of this Act) or to section 203(e) of the Revenue Act of 1964 (as modified by section 105(e) of this Act) \[set out as note below\].”
 
 \[[Pub. L. 98–369, div. A, title IV, § 450(b)][/us/pl/98/369/s450/b], July 18, 1984, [98 Stat. 818][/us/stat/98/818], provided that: 
 
@@ -1085,7 +1093,7 @@
 
 >     “(2) in the case of any other property, any credit against tax allowed by section 38 of such Code,
 
->         to reduce such taxpayer’s Federal income taxes for the purpose of establishing the cost of service of the taxpayer or to accomplish a similar result by any other method.”
+>     to reduce such taxpayer’s Federal income taxes for the purpose of establishing the cost of service of the taxpayer or to accomplish a similar result by any other method.”
 
     [Section 203(e) of Pub. L. 88–272][/us/pl/88/272/s203/e], not applicable to public utility property to which [section 46(e) of this title][/us/usc/t26/s46/e] applies, see [section 105(e) of Pub. L. 92–178][/us/pl/92/178/s105/e], set out as a note under [section 46 of this title][/us/usc/t26/s46].
 

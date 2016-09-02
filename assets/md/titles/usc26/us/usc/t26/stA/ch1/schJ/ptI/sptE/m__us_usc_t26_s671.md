@@ -57,11 +57,19 @@
 
 >             Property is described in this paragraph if it is—
 
->                 “(i) surface rights to property the acquisition of which—         “(I) is necessary to mine mineral rights held on October 22, 1986, and
+>                 “(i)
+
+>                  surface rights to property the acquisition of which—
+
+>                          “(I) is necessary to mine mineral rights held on October 22, 1986, and
 
 >                          “(II) is required by a written binding agreement between the entity and an unrelated person entered into on or before October 22, 1986,
 
->                 “(ii) surface rights to property which are not described in clause (i) and which—         “(I) are acquired in an exchange to which section 1031 \[probably means [section 1031 of this title][/us/usc/t26/s1031]\] applies, and
+>                 “(ii)
+
+>                  surface rights to property which are not described in clause (i) and which—
+
+>                          “(I) are acquired in an exchange to which section 1031 \[probably means [section 1031 of this title][/us/usc/t26/s1031]\] applies, and
 
 >                          “(II) are necessary to mine mineral rights held on October 22, 1986,
 

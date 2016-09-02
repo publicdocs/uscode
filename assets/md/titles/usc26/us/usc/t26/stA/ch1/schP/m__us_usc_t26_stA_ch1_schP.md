@@ -71,9 +71,15 @@
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     1986—[Pub. L. 99–514, title XII, § 1235(g)][/us/pl/99/514/s1235/g], Oct. 22, 1986, [100 Stat. 2576][/us/stat/100/2576], added item for part VI.
 

@@ -667,7 +667,7 @@
 
  __Termination of Section__ 
 
-For termination of section by [section 221(c) of Pub. L. 109–280][/us/pl/109/280/s221/c], see Effective and Termination Dates note below.
+    For termination of section by [section 221(c) of Pub. L. 109–280][/us/pl/109/280/s221/c], see Effective and Termination Dates note below.
 
  __References in Text__ 
 
@@ -779,7 +779,11 @@ For termination of section by [section 221(c) of Pub. L. 109–280][/us/pl/109/2
 
 >                 “(i) the plan sponsor of a multiemployer plan shall not be required to provide notice under such sections, and
 
->                 “(ii) the plan sponsor shall provide to the participants and beneficiaries, the bargaining parties, the Pension Benefit Guaranty Corporation, and the Secretary of Labor a notice of the election and such other information as the Secretary of the Treasury (in consultation with the Secretary of Labor) may require—         “(I) if the election is made before the date the annual certification is submitted to the Secretary or the Secretary’s delegate under section 305(b)(3) of such Act and section 432(b)(3) of such Code, not later than 30 days after the date of the certification, and
+>                 “(ii)
+
+>                  the plan sponsor shall provide to the participants and beneficiaries, the bargaining parties, the Pension Benefit Guaranty Corporation, and the Secretary of Labor a notice of the election and such other information as the Secretary of the Treasury (in consultation with the Secretary of Labor) may require—
+
+>                          “(I) if the election is made before the date the annual certification is submitted to the Secretary or the Secretary’s delegate under section 305(b)(3) of such Act and section 432(b)(3) of such Code, not later than 30 days after the date of the certification, and
 
 >                          “(II) if the election is made after such date, not later than 30 days after the date of the election.
 

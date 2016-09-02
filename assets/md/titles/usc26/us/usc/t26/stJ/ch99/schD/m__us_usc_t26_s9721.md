@@ -15,7 +15,7 @@
 
 ## § 9721. Civil enforcement
 
-The provisions of section 4301 of the Employee Retirement Income Security Act of 1974 shall apply, in the same manner as any claim arising out of an obligation to pay withdrawal liability under subtitle E of title IV of such Act, to any claim—
+    The provisions of section 4301 of the Employee Retirement Income Security Act of 1974 shall apply, in the same manner as any claim arising out of an obligation to pay withdrawal liability under subtitle E of title IV of such Act, to any claim—
 
     (1) arising out of an obligation to pay any amount required to be paid by this chapter; or
 

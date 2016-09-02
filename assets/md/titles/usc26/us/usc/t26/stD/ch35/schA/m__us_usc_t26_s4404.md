@@ -15,7 +15,7 @@
 
 ## § 4404. Territorial extent
 
-The tax imposed by this subchapter shall apply only to wagers
+    The tax imposed by this subchapter shall apply only to wagers
 
     (1) accepted in the United States, or
 

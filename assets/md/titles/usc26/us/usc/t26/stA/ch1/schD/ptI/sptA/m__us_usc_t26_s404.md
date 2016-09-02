@@ -317,7 +317,7 @@
 
             For purposes of subsection (a)(7), a simplified employee pension shall be treated as if it were a separate stock bonus or profit-sharing trust.
 
-        \[(i) Repealed. [Pub. L. 99–514, title XI, § 1171(b)(6)][/us/pl/99/514/s1171/b/6], Oct. 22, 1986, [100 Stat. 2513][/us/stat/100/2513]\]
+    \[(i) __Repealed.__  __[__  __Pub. L. 99–514, title XI, § 1171(b)(6)__  __][/us/pl/99/514/s1171/b/6]__  __,__  __Oct. 22, 1986__  __,__  __[__  __100 Stat. 2513__  __][/us/stat/100/2513]__  __\]__ 
 
     (j) __Special rules relating to application with section 415__ 
 
@@ -531,7 +531,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title][/us/usc/t26/s401].
+    For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title][/us/usc/t26/s401].
 
  __References in Text__ 
 
@@ -1123,19 +1123,27 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 
 [Pub. L. 95–600, title I, § 133(c)][/us/pl/95/600/s133/c], Nov. 6, 1978, [92 Stat. 2783][/us/stat/92/2783], as amended by [Pub. L. 96–222, title I, § 101(a)(5)][/us/pl/96/222/s101/a/5], Apr. 1, 1980, [94 Stat. 196][/us/stat/94/196]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to deductions for taxable years beginning after__  __December 31, 1978__  __.__ 
+>     “(1) __In general.—__ 
+
+>     Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to deductions for taxable years beginning after December 31, 1978.
 
 >     “(2) __Special rule for certain title insurance companies.—__ 
 
->         “(A) __In general.—In the case of a qualified title insurance company plan, the amendment made by subsection (a) \[amending this section\] shall apply to deductions for taxable years beginning after__  __December 31, 1979__  __.__ 
+>         “(A) __In general.—__ 
 
->         “(B) __Qualified title insurance company plan.—For purposes of subparagraph (A), the term ‘qualified title insurance company plan’ means a plan of a qualified title insurance company—__ 
+>         In the case of a qualified title insurance company plan, the amendment made by subsection (a) \[amending this section\] shall apply to deductions for taxable years beginning after December 31, 1979.
+
+>         “(B) __Qualified title insurance company plan.—__ 
+
+>         For purposes of subparagraph (A), the term ‘qualified title insurance company plan’ means a plan of a qualified title insurance company—
 
 >             “(i) which defers the payment of amounts credited by such company to separate accounts for members of such company in consideration of their issuance of policies of title insurance, and
 
 >             “(ii) under which no part of such amounts is payable to or withdrawable by the members until after the period for the adverse possession of real property under applicable State law.
 
->         “(C) __Qualified title insurance company.—For purposes of subparagraph (B), the term ‘qualified title insurance company’ means an unincorporated title insurance company organized as a business trust—__ 
+>         “(C) __Qualified title insurance company.—__ 
+
+>         For purposes of subparagraph (B), the term ‘qualified title insurance company’ means an unincorporated title insurance company organized as a business trust—
 
 >             “(i) which is engaged in the business of providing title insurance coverage on interests in and liens upon real property obtained by clients of the members of such company, and
 
@@ -1257,7 +1265,7 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 
 >     “(3) such employer establishes a trust (whether organized within or outside the United States) for the purpose of funding the payments required by such law,
 
->         then, in determining for purposes of paragraph (5) of section 404(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] the taxable year in which any contribution to or under the plan is includible in the gross income of the nonresident alien employees of such employer, such paragraph (5) shall be treated as not requiring that separate accounts be maintained for such nonresident alien employees.”
+>     then, in determining for purposes of paragraph (5) of section 404(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] the taxable year in which any contribution to or under the plan is includible in the gross income of the nonresident alien employees of such employer, such paragraph (5) shall be treated as not requiring that separate accounts be maintained for such nonresident alien employees.”
 
 ----------
 

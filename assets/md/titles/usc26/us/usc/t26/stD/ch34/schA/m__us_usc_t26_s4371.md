@@ -15,7 +15,7 @@
 
 ## § 4371. Imposition of tax
 
-There is hereby imposed, on each policy of insurance, indemnity bond, annuity contract, or policy of reinsurance issued by any foreign insurer or reinsurer, a tax at the following rates:
+    There is hereby imposed, on each policy of insurance, indemnity bond, annuity contract, or policy of reinsurance issued by any foreign insurer or reinsurer, a tax at the following rates:
 
     (1) __Casualty insurance and indemnity bonds__ 
 

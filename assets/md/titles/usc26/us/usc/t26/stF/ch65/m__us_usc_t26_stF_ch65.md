@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stF/ch64/schE/m__us_usc_t26_s6361 to 6365.md) | [Next](./../../../../..//us/usc/t26/stF/ch65/schA/m__us_usc_t26_stF_ch65_schA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch65)
+[Previous](./../../../../..//us/usc/t26/stF/ch64/schE/m__us_usc_t26_stF_ch64_schE.md) | [Next](./../../../../..//us/usc/t26/stF/ch65/schA/m__us_usc_t26_stF_ch65_schA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch65)
 
 ### CHAPTER 65—ABATEMENTS, CREDITS, AND REFUNDS
 
@@ -51,7 +51,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t26/stF/ch64/schE/m__us_usc_t26_s6361 to 6365.md) | [Next](./../../../../..//us/usc/t26/stF/ch65/schA/m__us_usc_t26_stF_ch65_schA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch65)
+[Previous](./../../../../..//us/usc/t26/stF/ch64/schE/m__us_usc_t26_stF_ch64_schE.md) | [Next](./../../../../..//us/usc/t26/stF/ch65/schA/m__us_usc_t26_stF_ch65_schA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstF%2Fch65)
 
 ----------
 ----------

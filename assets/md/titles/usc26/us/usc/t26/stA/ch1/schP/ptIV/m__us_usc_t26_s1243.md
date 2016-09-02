@@ -15,13 +15,13 @@
 
 ## § 1243. Loss of small business investment company
 
-In the case of a small business investment company operating under the Small Business Investment Act of 1958, if—
+    In the case of a small business investment company operating under the Small Business Investment Act of 1958, if—
 
     (1) a loss is on stock received pursuant to the conversion privilege of convertible debentures acquired pursuant to section 304 of the Small Business Investment Act of 1958, and
 
     (2) such loss would (but for this section) be a loss from the sale or exchange of a capital asset,
 
-        then such loss shall be treated as an ordinary loss.
+    then such loss shall be treated as an ordinary loss.
 
 (Added [Pub. L. 85–866, title I, § 57(a)][/us/pl/85/866/s57/a], Sept. 2, 1958, [72 Stat. 1645][/us/stat/72/1645]; amended [Pub. L. 91–172, title IV, § 433(b)][/us/pl/91/172/s433/b], Dec. 30, 1969, [83 Stat. 624][/us/stat/83/624]; [Pub. L. 94–455, title XIX, § 1901(b)(3)(F)][/us/pl/94/455/s1901/b/3/F], Oct. 4, 1976, [90 Stat. 1793][/us/stat/90/1793].)
 

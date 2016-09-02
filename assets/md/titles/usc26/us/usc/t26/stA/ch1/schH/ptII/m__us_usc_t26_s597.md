@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schH/ptII/m__us_usc_t26_s595, 596.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schH/ptII/m__us_usc_t26_s601.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs597)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schH/ptII/m__us_usc_t26_s594.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schH/ptII/m__us_usc_t26_s601.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs597)
 
 ## § 597. Treatment of transactions in which Federal financial assistance provided
 
@@ -127,7 +127,7 @@
 
 >     “(B) after December 31, 1989, if such transfer is pursuant to an acquisition occurring after December 31, 1988, and before January 1, 1990.
 
->         In the case of any bank or any institution treated as a domestic building and loan association for purposes of section 597 of the 1986 Code by reason of the amendment made by subsection (b)(2)(B), the amendments made by this subsection shall also apply to any transfer before January 1, 1989, to which the amendments made by subsection (b)(2) \[amending this section\] apply.”
+>     In the case of any bank or any institution treated as a domestic building and loan association for purposes of section 597 of the 1986 Code by reason of the amendment made by subsection (b)(2)(B), the amendments made by this subsection shall also apply to any transfer before January 1, 1989, to which the amendments made by subsection (b)(2) \[amending this section\] apply.”
 
  __Effective Date of Repeal__ 
 
@@ -161,7 +161,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schH/ptII/m__us_usc_t26_s595, 596.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schH/ptII/m__us_usc_t26_s601.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs597)
+[Previous](./../../../../../../..//us/usc/t26/stA/ch1/schH/ptII/m__us_usc_t26_s594.md) | [Next](./../../../../../../..//us/usc/t26/stA/ch1/schH/ptII/m__us_usc_t26_s601.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs597)
 
 ----------
 ----------

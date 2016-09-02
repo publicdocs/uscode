@@ -261,7 +261,7 @@
 
             The term “regulated public utility” does not (except as provided in subparagraphs (G) and (H)) include a corporation described in subparagraphs (A) through (F), inclusive, unless 80 percent or more of its gross income (computed without regard to dividends and capital gains and losses) for the taxable year is derived from sources described in subparagraphs (A) through (F), inclusive. If the taxpayer establishes to the satisfaction of the Secretary that (i) its revenue from regulated rates described in subparagraph (A) or (D) and its revenue derived from unregulated rates are derived from the operation of a single interconnected and coordinated system or from the operation of more than one such system, and (ii) the unregulated rates have been and are substantially as favorable to users and consumers as are the regulated rates, then such revenue from such unregulated rates shall be considered, for purposes of the preceding sentence, as income derived from sources described in subparagraph (A) or (D).
 
-            \[(34) Repealed. [Pub. L. 98–369, div. A, title IV, § 4112(b)(11)][/us/pl/98/369/s4112/b/11], July 18, 1984, [98 Stat. 792][/us/stat/98/792]\]
+        \[(34) __Repealed.__  __[__  __Pub. L. 98–369, div. A, title IV, § 4112(b)(11)__  __][/us/pl/98/369/s4112/b/11]__  __,__  __July 18, 1984__  __,__  __[__  __98 Stat. 792__  __][/us/stat/98/792]__  __\]__ 
 
         (35) __Enrolled actuary__ 
 
@@ -1005,25 +1005,25 @@
 
         (1) __Other definitions__ 
 
-        For other definitions, see the following sections of Title 1 of the United States Code:
+            For other definitions, see the following sections of Title 1 of the United States Code:
 
-            (1) Singular as including plural, section 1.
+        (1) Singular as including plural, section 1.
 
-            (2) Plural as including singular, section 1.
+        (2) Plural as including singular, section 1.
 
-            (3) Masculine as including feminine, section 1.
+        (3) Masculine as including feminine, section 1.
 
-            (4) Officer, section 1.
+        (4) Officer, section 1.
 
-            (5) Oath as including affirmation, section 1.
+        (5) Oath as including affirmation, section 1.
 
-            (6) County as including parish, section 2.
+        (6) County as including parish, section 2.
 
-            (7) Vessel as including all means of water transportation, section 3.
+        (7) Vessel as including all means of water transportation, section 3.
 
-            (8) Vehicle as including all means of land transportation, section 4.
+        (8) Vehicle as including all means of land transportation, section 4.
 
-            (9) Company or association as including successors and assigns, section 5.
+        (9) Company or association as including successors and assigns, section 5.
 
         (2) __Effect of cross references__ 
 
@@ -1405,7 +1405,7 @@
 
 >     “(B) at the election of the trustee of a trust, to taxable years ending after the date of the enactment of this Act \[Aug. 20, 1996\].
 
->         Such an election, once made, shall be irrevocable. To the extent prescribed in regulations by the Secretary of the Treasury or his delegate, a trust which was in existence on August 20, 1996 (other than a trust treated as owned by the grantor under subpart E of part I of subchapter J of chapter 1 of the Internal Revenue Code of 1986), and which was treated as a United States person on the day before the date of the enactment of this Act may elect to continue to be treated as a United States person notwithstanding section 7701(a)(30)(E) of such Code.”
+>     Such an election, once made, shall be irrevocable. To the extent prescribed in regulations by the Secretary of the Treasury or his delegate, a trust which was in existence on August 20, 1996 (other than a trust treated as owned by the grantor under subpart E of part I of subchapter J of chapter 1 of the Internal Revenue Code of 1986), and which was treated as a United States person on the day before the date of the enactment of this Act may elect to continue to be treated as a United States person notwithstanding section 7701(a)(30)(E) of such Code.”
 
 \[[Pub. L. 105–34, title XI, § 1161(b)][/us/pl/105/34/s1161/b], Aug. 5, 1997, [111 Stat. 987][/us/stat/111/987], provided that: 
 

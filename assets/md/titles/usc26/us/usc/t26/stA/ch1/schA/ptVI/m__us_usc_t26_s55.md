@@ -257,7 +257,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
+    For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
 
  __Codification__ 
 
@@ -603,7 +603,7 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 >     Section 56(a)(6) of the Internal Revenue Code of 1986 (as amended by this section) shall not apply to any disposition to which the amendments made by section 811 of this Act \[enacting [section 453C of this title][/us/usc/t26/s453C]\] (relating to allocation of dealer’s indebtedness to installment obligations) do not apply by reason of section 811(c)(2) of this Act \[enacting provisions set out as a note under [section 453C of this title][/us/usc/t26/s453C]\].
 
->     “(4) __Exception for charitable contributions before august 16, 1986.—__ 
+>     “(4) __Exception for charitable contributions before__  __august 16, 1986__  __.—__ 
 
 >     Section 57(a)(6) of the Internal Revenue Code of 1986 (as amended by this section) shall not apply to any deduction attributable to contributions made before August 16, 1986.
 

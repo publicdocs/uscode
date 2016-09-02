@@ -441,7 +441,7 @@
 
                 A plan shall not fail to meet the requirements of this paragraph if, under the terms of the plan, the present value of the nonforfeitable accrued benefit is determined without regard to that portion of such benefit which is attributable to rollover contributions (and earnings allocable thereto). For purposes of this subparagraph, the term “rollover contributions” means any rollover contribution under sections 402(c), 403(a)(4), 403(b)(8), 408(d)(3)(A)(ii), and 457(e)(16).
 
-            \[(12) Repealed. [Pub. L. 109–280, title IX, § 904(a)(2)][/us/pl/109/280/s904/a/2], Aug. 17, 2006, [120 Stat. 1049][/us/stat/120/1049]\]
+        \[(12) __Repealed.__  __[__  __Pub. L. 109–280, title IX, § 904(a)(2)__  __][/us/pl/109/280/s904/a/2]__  __,__  __Aug. 17, 2006__  __,__  __[__  __120 Stat. 1049__  __][/us/stat/120/1049]__  __\]__ 
 
         (13) __Special rules for plans computing accrued benefits by reference to hypothetical account balance or equivalent amounts__ 
 
@@ -783,7 +783,7 @@
 
             the rights of all affected employees to benefits accrued to the date of such termination, partial termination, or discontinuance, to the extent funded as of such date, or the amounts credited to the employees’ accounts, are nonforfeitable. This paragraph shall not apply to benefits or contributions which, under provisions of the plan adopted pursuant to regulations prescribed by the Secretary to preclude the discrimination prohibited by section 401(a)(4), may not be used for designated employees in the event of early termination of the plan. For purposes of this paragraph, in the case of the complete discontinuance of contributions under a profit-sharing or stock bonus plan, such plan shall be treated as having terminated on the day on which the plan administrator notifies the Secretary (in accordance with regulations) of the discontinuance.
 
-            \[(4) Repealed. [Pub. L. 99–514, title XI, § 1113(b)][/us/pl/99/514/s1113/b], Oct. 22, 1986, [100 Stat. 2447][/us/stat/100/2447]\]
+        \[(4) __Repealed.__  __[__  __Pub. L. 99–514, title XI, § 1113(b)__  __][/us/pl/99/514/s1113/b]__  __,__  __Oct. 22, 1986__  __,__  __[__  __100 Stat. 2447__  __][/us/stat/100/2447]__  __\]__ 
 
         (5) __Treatment of voluntary employee contributions__ 
 
@@ -1191,7 +1191,7 @@
 
 >     “(2) January 1, 1999.
 
->         Such amendments shall not apply to any individual who does not have more than 1 hour of service under the plan on or after the 1st day of the 1st plan year to which such amendments apply.”
+>     Such amendments shall not apply to any individual who does not have more than 1 hour of service under the plan on or after the 1st day of the 1st plan year to which such amendments apply.”
 
  __Effective Date of 1994 Amendment__ 
 
@@ -1381,7 +1381,7 @@
 
 >     “(2) the determination of whether an applicable defined benefit plan fails to meet the requirements of sections 203(a)(2), 204(c), or 205(g) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1053(a)(2)][/us/usc/t29/s1053/a/2], 1054(c), 1055(g)\] or sections 411(a)(2), 411(c), or 417(e) of such Code, as in effect before such amendments, solely because the present value of the accrued benefit (or any portion thereof) of any participant is, under the terms of the plan, equal to the amount expressed as the balance in a hypothetical account or as an accumulated percentage of the participant’s final average compensation.
 
->         For purposes of this subsection, the term ‘applicable defined benefit plan’ has the meaning given such term by section 203(f)(3) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1053(f)(3)][/us/usc/t29/s1053/f/3]\] and section 411(a)(13)(C) of such Code, as in effect after such amendments.”
+>     For purposes of this subsection, the term ‘applicable defined benefit plan’ has the meaning given such term by section 203(f)(3) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1053(f)(3)][/us/usc/t29/s1053/f/3]\] and section 411(a)(13)(C) of such Code, as in effect after such amendments.”
 
  __Applicability of Amendments by Subtitles A and B of Title I of__  __[__  __Pub. L. 109–280__  __][/us/pl/109/280]__ 
 
@@ -1501,7 +1501,7 @@
 
 >     “(2) within 1 year after the date of the enactment of this Act \[Aug. 20, 1996\], a plan amendment is adopted which repeals the amendment referred to in paragraph (1),
 
->         the amendment referred to in paragraph (1) shall not be taken into account in applying section 767(d)(3)(A) of the Uruguay Round Agreements Act, as amended by subsection (a).”
+>     the amendment referred to in paragraph (1) shall not be taken into account in applying section 767(d)(3)(A) of the Uruguay Round Agreements Act, as amended by subsection (a).”
 
  __Plan Amendments Reflecting Amendments by__  __[__  __Section 7881(m) of Pub. L. 101–239__  __][/us/pl/101/239/s7881/m]__  __Not Treated as Reducing Accrued Benefits__ 
 
@@ -1533,7 +1533,7 @@
 
 >     “(3) a waiver or extension of time granted under \[former\] section 412(d) or (e) would be inadequate.
 
->         In the case of any plan with respect to which an alternate method has been prescribed under the preceding provisions of this subsection for a period of not more than 4 years, if, not later than 1 year before the expiration of such period, the plan administrator petitions the Secretary of Labor for an extension of such alternate method, and the Secretary makes the findings required by the preceding sentence, such alternate method may be extended for not more than 3 years.”
+>     In the case of any plan with respect to which an alternate method has been prescribed under the preceding provisions of this subsection for a period of not more than 4 years, if, not later than 1 year before the expiration of such period, the plan administrator petitions the Secretary of Labor for an extension of such alternate method, and the Secretary makes the findings required by the preceding sentence, such alternate method may be extended for not more than 3 years.”
 
 ----------
 

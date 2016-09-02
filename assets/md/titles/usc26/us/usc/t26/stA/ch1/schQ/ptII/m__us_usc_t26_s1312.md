@@ -15,7 +15,7 @@
 
 ## § 1312. Circumstances of adjustment
 
-The circumstances under which the adjustment provided in section 1311 is authorized are as follows:
+    The circumstances under which the adjustment provided in section 1311 is authorized are as follows:
 
     (1) __Double inclusion of an item of gross income__ 
 

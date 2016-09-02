@@ -357,7 +357,7 @@
 
 >         “(ii) such BHC did not elect (at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe) not to have the provisions of this subparagraph apply.
 
->     “(D) __Amendments to apply to certain liabilities incurred before october 20, 1983.—__ 
+>     “(D) __Amendments to apply to certain liabilities incurred before__  __october 20, 1983__  __.—__ 
 
 >     The amendment made by paragraph (3)(A) shall apply to the acquisition of any stock to the extent the liability assumed, or to which such stock is subject, was incurred by the transferor after October 20, 1983.”
 

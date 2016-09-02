@@ -15,7 +15,7 @@
 
 ## § 997. Special subchapter C rules
 
-For purposes of applying the provisions of subchapter C of chapter 1, any distribution in property to a corporation by a DISC or former DISC which is made out of previously taxed income or accumulated DISC income shall—
+    For purposes of applying the provisions of subchapter C of chapter 1, any distribution in property to a corporation by a DISC or former DISC which is made out of previously taxed income or accumulated DISC income shall—
 
     (1) be treated as a distribution in the same amount as if such distribution of property were made to an individual, and
 

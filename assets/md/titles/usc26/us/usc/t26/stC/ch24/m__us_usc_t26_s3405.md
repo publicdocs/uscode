@@ -333,7 +333,7 @@
 
 >     The amendments made by subsection (c) \[enacting [section 6704 of this title][/us/usc/t26/s6704]\] shall take effect on January 1, 1985.
 
->     “(4) __Periodic payments beginning before january 1, 1983.—__ 
+>     “(4) __Periodic payments beginning before__  __january 1, 1983__  __.—__ 
 
 >     For purposes of section 3405(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the case of periodic payments beginning before January 1, 1983, the first periodic payment after December 31, 1982, shall be treated as the first such periodic payment.
 

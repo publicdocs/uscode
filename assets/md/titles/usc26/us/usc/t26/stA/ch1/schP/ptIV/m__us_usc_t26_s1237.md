@@ -107,31 +107,35 @@
 
 [Pub. L. 91–686, § 1][/us/pl/91/686/s1], Jan. 12, 1971, [84 Stat. 2070][/us/stat/84/2070], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided: 
 
-> “That (a) for purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] any lot or parcel of real property sold or exchanged by a corporation which would, but for this Act, be treated as property held primarily for sale to customers in the ordinary course of trade or business shall not, except to the extent provided in (b), be so treated if—
+>     “That 
 
->     “(1) no shareholder of the corporation directly or indirectly holds real property primarily for sale to customers in the ordinary course of trade or business; and
+>     (a)
 
->     “(2)
+>      for purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] any lot or parcel of real property sold or exchanged by a corporation which would, but for this Act, be treated as property held primarily for sale to customers in the ordinary course of trade or business shall not, except to the extent provided in (b), be so treated if—
 
->         (A) such lot or parcel is a part of real property (i) held for more than twenty-five years at the time of sale or exchange, and (ii) acquired before January 1, 1934, by the corporation as a result of the foreclosure of a lien (or liens) thereon which secured the payment of indebtedness held by one or more creditors who transferred one or more foreclosure bids to the corporation in exchange for all its stock (with or without other consideration), or
+>         “(1) no shareholder of the corporation directly or indirectly holds real property primarily for sale to customers in the ordinary course of trade or business; and
 
->         “(B)
+>         “(2)
 
->             (i) such lot or parcel is a part of additional real property acquired before January 1, 1957, by the corporation in the near vicinity of any real property to which subparagraph (A) applies, or
+>             (A) such lot or parcel is a part of real property (i) held for more than twenty-five years at the time of sale or exchange, and (ii) acquired before January 1, 1934, by the corporation as a result of the foreclosure of a lien (or liens) thereon which secured the payment of indebtedness held by one or more creditors who transferred one or more foreclosure bids to the corporation in exchange for all its stock (with or without other consideration), or
 
->             “(ii) such lot or parcel is wholly or to some extent a part of any minor acquisition made after December 31, 1956, by the corporation to adjust boundaries, to fill gaps in previously acquired property, to facilitate the installation of streets, utilities, and other public facilities, or to facilitate the sale of adjacent property, or
+>             “(B)
 
->             “(iii) such lot or parcel is wholly or to some extent a part of a reacquisition by the corporation after December 31, 1956, of property previously owned by the corporation;    but only if at least 80 percent (as measured by area) of the real property sold or exchanged by the corporation within the taxable year is property described in subparagraph (A); and
+>                 (i) such lot or parcel is a part of additional real property acquired before January 1, 1957, by the corporation in the near vicinity of any real property to which subparagraph (A) applies, or
 
->     “(3)
+>                 “(ii) such lot or parcel is wholly or to some extent a part of any minor acquisition made after December 31, 1956, by the corporation to adjust boundaries, to fill gaps in previously acquired property, to facilitate the installation of streets, utilities, and other public facilities, or to facilitate the sale of adjacent property, or
 
->      there were no acquisitions of real property by the corporation after December 31, 1956, other than—
+>                 “(iii) such lot or parcel is wholly or to some extent a part of a reacquisition by the corporation after December 31, 1956, of property previously owned by the corporation;    but only if at least 80 percent (as measured by area) of the real property sold or exchanged by the corporation within the taxable year is property described in subparagraph (A); and
 
->         “(A) acquisitions described in paragraph (2)(B)(ii) and reacquisitions described in paragraph (2)(B)(iii), or
+>         “(3)
 
->         “(B) acquisitions of real property used in a trade or business of the corporation or held for investment by the corporation; and
+>          there were no acquisitions of real property by the corporation after December 31, 1956, other than—
 
->     “(4) the corporation did not after December 31, 1957, sell or exchange (except in condemnation or under threat of condemnation) any residential lot or parcel on which, at the time of the sale or exchange, there existed any substantial improvements (other than improvements in existence at the time the land was acquired by the corporation) except subdivision, clearing, grubbing, and grading, building or installation of water, sewer, and drainage facilities, construction of roads, streets, and sidewalks, and installation of utilities.”
+>             “(A) acquisitions described in paragraph (2)(B)(ii) and reacquisitions described in paragraph (2)(B)(iii), or
+
+>             “(B) acquisitions of real property used in a trade or business of the corporation or held for investment by the corporation; and
+
+>         “(4) the corporation did not after December 31, 1957, sell or exchange (except in condemnation or under threat of condemnation) any residential lot or parcel on which, at the time of the sale or exchange, there existed any substantial improvements (other than improvements in existence at the time the land was acquired by the corporation) except subdivision, clearing, grubbing, and grading, building or installation of water, sewer, and drainage facilities, construction of roads, streets, and sidewalks, and installation of utilities.”
 
     In any case in which a corporation referred to in paragraphs (1), (2), (3), and (4) is a member of an affiliated group as defined in section 1504(a) of the Internal Revenue Code of 1986, such affiliated group shall, for purposes of such paragraphs, be treated as a single corporation.
 

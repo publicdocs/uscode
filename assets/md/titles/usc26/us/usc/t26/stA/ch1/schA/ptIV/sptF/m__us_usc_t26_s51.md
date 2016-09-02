@@ -1083,7 +1083,7 @@
 
 >     “(B) the remainder shall be distributed under performance standards prescribed by the Secretary of Labor.
 
->         The Secretary of Labor shall each calendar year beginning with calendar year 1983 report to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate with respect to the results of the testing conducted under subparagraph (A) during the preceding calendar year.”
+>     The Secretary of Labor shall each calendar year beginning with calendar year 1983 report to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate with respect to the results of the testing conducted under subparagraph (A) during the preceding calendar year.”
 
     \[For termination, effective May 15, 2000, of reporting provisions in [section 261(f)(2) of Pub. L. 97–34][/us/pl/97/34/s261/f/2], set out above, see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance, and page 124 of House Document No. 103–7.\]
 
@@ -1097,7 +1097,9 @@
 
 [Pub. L. 95–600, title III, § 321(d)(2)][/us/pl/95/600/s321/d/2], Nov. 6, 1978, [92 Stat. 2835][/us/stat/92/2835], as amended by [Pub. L. 96–222, title I, § 103(a)(6)(C)][/us/pl/96/222/s103/a/6/C], (G)(xi), Apr. 1, 1980, [94 Stat. 209][/us/stat/94/209], 211; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(A) __Individual must be hired after september 26, 1978.—In the case of a member of a newly targeted group, for purposes of applying the amendments made by this section—__ 
+>     “(A) __Individual must be hired after__  __september 26, 1978__  __.—__ 
+
+>     In the case of a member of a newly targeted group, for purposes of applying the amendments made by this section—
 
 >         “(i) such individual shall be taken into account for purposes of the credit allowable by section 44B of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] only if such individual is first hired by the employer after September 26, 1978, and
 

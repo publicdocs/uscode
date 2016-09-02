@@ -63,9 +63,15 @@
 
   </tr>
 
-</table>
+  <tr>
 
- __Amendments__ 
+    <td> 
+
+Amendments  </td>
+
+  </tr>
+
+</table>
 
     1984—[Pub. L. 98–369, div. A, title V, § 511(d)][/us/pl/98/369/s511/d], July 18, 1984, [98 Stat. 862][/us/stat/98/862], added heading for subpart D.
 

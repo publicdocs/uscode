@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schA/ptIV/sptE/m__us_usc_t26_s50A, 50B.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schA/ptIV/sptF/m__us_usc_t26_s51.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptIV%2FsptF)
+[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schA/ptIV/sptE/m__us_usc_t26_s50.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schA/ptIV/sptF/m__us_usc_t26_s51.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptIV%2FsptF)
 
 ###### Subpart F—Rules for Computing Work Opportunity Credit
 
@@ -61,7 +61,7 @@
 
 ----------
 
-[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schA/ptIV/sptE/m__us_usc_t26_s50A, 50B.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schA/ptIV/sptF/m__us_usc_t26_s51.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptIV%2FsptF)
+[Previous](./../../../../../../../..//us/usc/t26/stA/ch1/schA/ptIV/sptE/m__us_usc_t26_s50.md) | [Next](./../../../../../../../..//us/usc/t26/stA/ch1/schA/ptIV/sptF/m__us_usc_t26_s51.md) | [Root of Title](./../../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschA%2FptIV%2FsptF)
 
 ----------
 ----------

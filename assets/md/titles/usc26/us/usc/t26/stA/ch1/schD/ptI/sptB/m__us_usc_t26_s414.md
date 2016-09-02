@@ -1499,7 +1499,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title][/us/usc/t26/s401].
+    For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title][/us/usc/t26/s401].
 
  __References in Text__ 
 
@@ -2085,9 +2085,13 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 
 [Pub. L. 96–605, title II, § 201(c)][/us/pl/96/605/s201/c], Dec. 28, 1980, [94 Stat. 3527][/us/stat/94/3527], and [Pub. L. 96–613, § 5(c)][/us/pl/96/613/s5/c], Dec. 28, 1980, [94 Stat. 3582][/us/stat/94/3582], provided that:
 
->     “(1) __In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 105 and 125 of this title\] shall apply to plan years ending after__  __November 30, 1980__  __.__ 
+>     “(1) __In general.—__ 
 
->     “(2) __Plans in existence on november 30, 1980.—In the case of a plan in existence on__  __November 30, 1980__  __, the amendments made by this section \[amending this section and sections 105 and 125 of this title\] shall apply to plan years beginning after__  __November 30, 1980__  __.”__ 
+>     Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 105 and 125 of this title\] shall apply to plan years ending after November 30, 1980.
+
+>     “(2) __Plans in existence on__  __november 30, 1980__  __.—__ 
+
+>     In the case of a plan in existence on November 30, 1980, the amendments made by this section \[amending this section and sections 105 and 125 of this title\] shall apply to plan years beginning after November 30, 1980.”
 
 [Pub. L. 96–364, title IV, § 407(c)][/us/pl/96/364/s407/c], Sept. 26, 1980, [94 Stat. 1307][/us/stat/94/1307], provided that: 
 

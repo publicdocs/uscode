@@ -15,7 +15,7 @@
 
 ## § 5511. Establishment and operation
 
-This chapter (other than sections 5178(a)(2)(C), 5179, 5203(b), (c), and (d), and 5552) shall not be applicable with respect to the manufacture, by any process which includes evaporations from the mash or juice of any fruit, of any volatile fruit-flavor concentrate if—
+    This chapter (other than sections 5178(a)(2)(C), 5179, 5203(b), (c), and (d), and 5552) shall not be applicable with respect to the manufacture, by any process which includes evaporations from the mash or juice of any fruit, of any volatile fruit-flavor concentrate if—
 
     (1) such concentrate, and the mash or juice from which it is produced, contains no more alcohol than is reasonably unavoidable in the manufacture of such concentrate; and
 

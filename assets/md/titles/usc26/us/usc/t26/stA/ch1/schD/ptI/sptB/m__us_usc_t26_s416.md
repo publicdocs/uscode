@@ -179,7 +179,7 @@
 
                     (II) This subparagraph shall not apply to any plan required to be included in an aggregation group if such plan enables a defined benefit plan required to be included in such group to meet the requirements of section 401(a)(4) or 410.
 
-        \[(d) Repealed. [Pub. L. 99–514, title XI, § 1106(d)(3)(B)(i)][/us/pl/99/514/s1106/d/3/B/i], Oct. 22, 1986, [100 Stat. 2424][/us/stat/100/2424]\]
+    \[(d) __Repealed.__  __[__  __Pub. L. 99–514, title XI, § 1106(d)(3)(B)(i)__  __][/us/pl/99/514/s1106/d/3/B/i]__  __,__  __Oct. 22, 1986__  __,__  __[__  __100 Stat. 2424__  __][/us/stat/100/2424]__  __\]__ 
 
     (e) __Plan must meet requirements without taking into account social security and similar contributions and benefits__ 
 
@@ -305,7 +305,7 @@
 
                 If, but for this subparagraph, a plan would be treated as a top-heavy plan because it is a member of an aggregation group which is a top-heavy group, contributions under the plan may be taken into account in determining whether any other plan in the group meets the requirements of subsection (c)(2).
 
-        \[(h) Repealed. [Pub. L. 104–188, title I, § 1452(c)(7)][/us/pl/104/188/s1452/c/7], Aug. 20, 1996, [110 Stat. 1816][/us/stat/110/1816]\]
+    \[(h) __Repealed.__  __[__  __Pub. L. 104–188, title I, § 1452(c)(7)__  __][/us/pl/104/188/s1452/c/7]__  __,__  __Aug. 20, 1996__  __,__  __[__  __110 Stat. 1816__  __][/us/stat/110/1816]__  __\]__ 
 
     (i) __Definitions__ 
 
@@ -389,7 +389,7 @@
 
  __Inflation Adjusted Items for Certain Years__ 
 
-For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title][/us/usc/t26/s401].
+    For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title][/us/usc/t26/s401].
 
  __References in Text__ 
 

@@ -319,7 +319,11 @@
 
 >              the sum of—
 
->                 “(i) the amount which would be determined under such section 55(a)(1) if the alternative minimum taxable income was the excess of—      “(I) the alternative minimum taxable income (within the meaning of section 55(b)(1) of such Code) of the taxpayer, over
+>                 “(i)
+
+>                  the amount which would be determined under such section 55(a)(1) if the alternative minimum taxable income was the excess of—
+
+>                       “(I) the alternative minimum taxable income (within the meaning of section 55(b)(1) of such Code) of the taxpayer, over
 
 >                       “(II) the qualified net capital gain of the taxpayer, and
 

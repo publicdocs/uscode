@@ -1275,11 +1275,11 @@
 
 >             “(ii) The provisions of this subparagraph shall apply in lieu of the provisions of subparagraphs (A) and (B).
 
->             “(iii) __Indebtedness outstanding on may 29, 1985.—__ 
+>             “(iii) __Indebtedness outstanding on__  __may 29, 1985__  __.—__ 
 
 >             Indebtedness is described in this clause if it is indebtedness (which was outstanding on May 29, 1985) of a corporation incorporated on June 13, 1917, which has its principal place of business in Bartlesville, Oklahoma.
 
->             “(iv) __Indebtedness outstanding on may 29, 1985.—__ 
+>             “(iv) __Indebtedness outstanding on__  __may 29, 1985__  __.—__ 
 
 >             Indebtedness is described in this clause if it is indebtedness (which was outstanding on May 29, 1985) of a member of an affiliated group (as defined in section 1504(a) \[of the Internal Revenue Code of 1986\]), the common parent of which was incorporated on August 26, 1926, and has its principal place of business in Harrison, New York.
 

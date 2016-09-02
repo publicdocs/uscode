@@ -795,7 +795,7 @@
 
 >     Except as otherwise provided in this paragraph, the amendments made by this subsection \[amending this section and [section 851 of this title][/us/usc/t26/s851]\] shall apply to taxable years beginning after December 31, 1982.
 
->     “(B) __Investment companies which were regulated investment companies for years ending before november 8, 1983.—__ 
+>     “(B) __Investment companies which were regulated investment companies for years ending before__  __november 8, 1983__  __.—__ 
 
 >     In the case of any investment company to which the provisions of part I of subchapter M of chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] applied for any taxable year ending before November 8, 1983, for purposes of section 852(a)(3)(B) of the Internal Revenue Code of 1986 (as amended by this subsection), no earnings and profits accumulated in any taxable year ending before January 1, 1984, shall be taken into account.
 
@@ -803,7 +803,7 @@
 
 >     In the case of an investment company which began business in 1983 (and was not a successor corporation), earnings and profits accumulated during its first taxable year shall not be taken into account for purposes of section 852(a)(3)(B) of such Code (as so amended).
 
->     “(D) __Investment companies registering before november 8, 1983.—__ 
+>     “(D) __Investment companies registering before__  __november 8, 1983__  __.—__ 
 
 >     In the case of any investment company—
 

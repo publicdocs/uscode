@@ -15,7 +15,7 @@
 
 ## § 46. Amount of credit
 
-For purposes of section 38, the amount of the investment credit determined under this section for any taxable year shall be the sum of—
+    For purposes of section 38, the amount of the investment credit determined under this section for any taxable year shall be the sum of—
 
     (1) the rehabilitation credit,
 
@@ -539,39 +539,37 @@ For purposes of section 38, the amount of the investment credit determined under
 
 >         “(Y) the waterpark condominium residential project, to the extent of $2 million of expenditures,
 
->         “(Z)
+>         “(Z) the Bigelow-Hartford Carpet Mill in Enfield, Connecticut,
 
->          the Bigelow-Hartford Carpet Mill in Enfield, Connecticut,
+>         “(AA) properties abutting 125th street in New York County from 7th Avenue west to Morningside and the pier area on the Hudson River at the end of such 125th Street,
 
->             “(AA) properties abutting 125th street in New York County from 7th Avenue west to Morningside and the pier area on the Hudson River at the end of such 125th Street,
+>         “(BB) the City of Los Angeles Central Library project pursuant to an agreement dated December 28, 1983,
 
->             “(BB) the City of Los Angeles Central Library project pursuant to an agreement dated December 28, 1983,
+>         “(CC) the Warehouse Row project in Chattanooga, Tennessee,
 
->             “(CC) the Warehouse Row project in Chattanooga, Tennessee,
+>         “(DD) any project described in section 204(a)(1)(F) of this Act \[[26 U.S.C. 168][/us/usc/t26/s168] note\],
 
->             “(DD) any project described in section 204(a)(1)(F) of this Act \[[26 U.S.C. 168][/us/usc/t26/s168] note\],
+>         “(EE) the Wood Street Commons project in Pittsburgh, Pennsylvania,
 
->             “(EE) the Wood Street Commons project in Pittsburgh, Pennsylvania,
+>         “(FF) any project described in section 803(d)(6) of this Act \[[26 U.S.C. 263A][/us/usc/t26/s263A] note\],
 
->             “(FF) any project described in section 803(d)(6) of this Act \[[26 U.S.C. 263A][/us/usc/t26/s263A] note\],
+>         “(GG) Union Station, Indianapolis, Indiana,
 
->             “(GG) Union Station, Indianapolis, Indiana,
+>         “(HH) the Mattress Factory project in Pittsburgh, Pennsylvania,
 
->             “(HH) the Mattress Factory project in Pittsburgh, Pennsylvania,
+>         “(II) Union Station in Providence, Rhode Island,
 
->             “(II) Union Station in Providence, Rhode Island,
+>         “(JJ) South Pack Plaza, Asheville, North Carolina,
 
->             “(JJ) South Pack Plaza, Asheville, North Carolina,
+>         “(KK) Old Louisville Trust Project, Louisville, Kentucky,
 
->             “(KK) Old Louisville Trust Project, Louisville, Kentucky,
+>         “(LL) Stewarts Rehabilitation Project, Louisville, Kentucky,
 
->             “(LL) Stewarts Rehabilitation Project, Louisville, Kentucky,
+>         “(MM) Bernheim Officenter, Louisville, Kentucky,
 
->             “(MM) Bernheim Officenter, Louisville, Kentucky,
+>         “(NN) Springville Mill Project, Rockville, Connecticut, and
 
->             “(NN) Springville Mill Project, Rockville, Connecticut, and
-
->             “(OO) the D.J. Stewart Company Building, State and Main Streets, Rockford, Illinois.
+>         “(OO) the D.J. Stewart Company Building, State and Main Streets, Rockford, Illinois.
 
 >     “(5) __Reduction in credit for property under transitional rules.—__ 
 
@@ -647,11 +645,15 @@ For purposes of section 38, the amount of the investment credit determined under
 
 [Pub. L. 97–424, title V, § 541(c)][/us/pl/97/424/s541/c], Jan. 6, 1983, [96 Stat. 2193][/us/stat/96/2193], as amended by [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095], provided that:
 
->     “(1) __General rule.—The amendments made by subsections (a) and (b) \[amending this section and sections 167 and 168 of this title\] shall apply to taxable years beginning after__  __December 31, 1979__  __.__ 
+>     “(1) __General rule.—__ 
 
->     “(2) __Special rule for periods beginning before march 1, 1980.—__ 
+>     The amendments made by subsections (a) and (b) \[amending this section and sections 167 and 168 of this title\] shall apply to taxable years beginning after December 31, 1979.
 
->         “(A) __In general.—Subject to the provisions of paragraphs (3) and (4), notwithstanding the provisions of sections 167(__  __l__  __) and 46(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] and of any regulations prescribed by the Secretary of the Treasury (or his delegate) under such sections, the use for ratemaking purposes or for reflecting operating results in the taxpayer’s regulated books of account, for any period before__  __March 1, 1980__  __, of—__ 
+>     “(2) __Special rule for periods beginning before__  __march 1, 1980__  __.—__ 
+
+>         “(A) __In general.—__ 
+
+>         Subject to the provisions of paragraphs (3) and (4), notwithstanding the provisions of sections 167(l) and 46(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] and of any regulations prescribed by the Secretary of the Treasury (or his delegate) under such sections, the use for ratemaking purposes or for reflecting operating results in the taxpayer’s regulated books of account, for any period before March 1, 1980, of—
 
 >             “(i) any estimates or projections relating to the amounts of the taxpayer’s tax expense, depreciation expense, deferred tax reserve, credit allowable under section 38 of such code, or rate base, or
 
@@ -659,7 +661,9 @@ For purposes of section 38, the amount of the investment credit determined under
 
 >             shall not be treated as inconsistent with the requirements of subparagraph (G) of such section 167(l)(3) nor inconsistent with the requirements of paragraph (1) or (2) of such section 46(f), where such estimates or projections, or such rate of return adjustments, were included in a qualified order.
 
->         “(B) __Qualified order defined.—For purposes of this subsection, the term “qualified order” means an order—__ 
+>         “(B) __Qualified order defined.—__ 
+
+>         For purposes of this subsection, the term “qualified order” means an order—
 
 >             “(i) by a public utility commission which was entered before March 13, 1980,
 
@@ -669,7 +673,9 @@ For purposes of section 38, the amount of the investment credit determined under
 
 >     “(3) __Limitations on application of paragraph (2).—__ 
 
->         “(A) __Paragraph (2) not to apply to amounts actually flowed through.—Paragraph (2) shall not apply to the amount of any—__ 
+>         “(A) __Paragraph (2) not to apply to amounts actually flowed through.—__ 
+
+>         Paragraph (2) shall not apply to the amount of any—
 
 >             “(i) rate reduction, or
 
@@ -677,7 +683,9 @@ For purposes of section 38, the amount of the investment credit determined under
 
 >             which was actually made pursuant to a qualified order.
 
->         “(B) __Taxpayer must enter into closing agreement before paragraph (2) applies.—Paragraph (2) shall not apply to any taxpayer unless, before the later of—__ 
+>         “(B) __Taxpayer must enter into closing agreement before paragraph (2) applies.—__ 
+
+>         Paragraph (2) shall not apply to any taxpayer unless, before the later of—
 
 >             “(i) July 1, 1983, or
 
@@ -687,15 +695,23 @@ For purposes of section 38, the amount of the investment credit determined under
 
 >     “(4) __Special rules relating to payment of refunds or interest by the united states or the taxpayer.—__ 
 
->         “(A) __Refund defined.—For purposes of this subsection, the term “refund” shall include any credit allowed by the taxpayer under a qualified order but shall not include interest payable with respect to any refund (or credit) under such order.__ 
+>         “(A) __Refund defined.—__ 
 
->         “(B) __No interest payable by united states.—No interest shall be payable under section 6611 of the Internal Revenue Code of 1986 on any overpayment of tax which is attributable to the application of paragraph (2).__ 
+>         For purposes of this subsection, the term “refund” shall include any credit allowed by the taxpayer under a qualified order but shall not include interest payable with respect to any refund (or credit) under such order.
+
+>         “(B) __No interest payable by united states.—__ 
+
+>         No interest shall be payable under section 6611 of the Internal Revenue Code of 1986 on any overpayment of tax which is attributable to the application of paragraph (2).
 
 >         “(C) __Payments may be made in two equal installments.—__ 
 
->             “(i) __In general.—The taxpayer may make any payment required by reason of paragraph (3) in 2 equal installments, the first installment being due on the last date on which a taxpayer may enter into a closing agreement under paragraph (3)(B), and the second payment being due 1 year after the last date for the first payment.__ 
+>             “(i) __In general.—__ 
 
->             “(ii) __Interest payments.—For purposes of section 6601 of such Code, the last date prescribed for payment with respect to any payment required by reason of paragraph (3) shall be the last date on which such payment is due under clause (i).__ 
+>             The taxpayer may make any payment required by reason of paragraph (3) in 2 equal installments, the first installment being due on the last date on which a taxpayer may enter into a closing agreement under paragraph (3)(B), and the second payment being due 1 year after the last date for the first payment.
+
+>             “(ii) __Interest payments.—__ 
+
+>             For purposes of section 6601 of such Code, the last date prescribed for payment with respect to any payment required by reason of paragraph (3) shall be the last date on which such payment is due under clause (i).
 
 >     “(5) __No inference.—__ 
 

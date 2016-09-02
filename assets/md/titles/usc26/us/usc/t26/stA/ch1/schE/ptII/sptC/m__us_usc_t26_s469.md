@@ -843,7 +843,7 @@
 
 >     “\[(3) Repealed. [Pub. L. 100–647, title IV, § 4003(b)(2)][/us/pl/100/647/s4003/b/2], Nov. 10, 1988, [102 Stat. 3644][/us/stat/102/3644].\]
 
->     “(4) __Income from sales of passive activities in taxable years beginning before january 1, 1987.—__ 
+>     “(4) __Income from sales of passive activities in taxable years beginning before__  __january 1, 1987__  __.—__ 
 
 >     If—
 
@@ -869,7 +869,7 @@
 
 >     “(C) the taxpayer makes an election under this paragraph at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe,
 
->         to the extent such amount is attributable to an activity subject to the limitations of section 469 of the 1986 Code, such amount shall not be treated as investment interest but shall be treated as a deduction allocable to such activity for such first taxable year. Subsection (m) of section 469 of the 1986 Code and section 501(c)(2) of the Reform Act \[[Pub. L. 99–514][/us/pl/99/514], set out as an Effective Date note above\] shall not apply to any amount so treated.”
+>     to the extent such amount is attributable to an activity subject to the limitations of section 469 of the 1986 Code, such amount shall not be treated as investment interest but shall be treated as a deduction allocable to such activity for such first taxable year. Subsection (m) of section 469 of the 1986 Code and section 501(c)(2) of the Reform Act \[[Pub. L. 99–514][/us/pl/99/514], set out as an Effective Date note above\] shall not apply to any amount so treated.”
 
  __Transitional Rule for Low-Income Housing__ 
 

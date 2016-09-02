@@ -75,13 +75,15 @@
 
         (6) __Sale or exchange of inventory property__ 
 
-        Gains, profits, and income derived from the purchase of inventory property (within the meaning of section 865(i)(1)) without the United States (other than within a possession of the United States) and its sale or exchange within the United States.
+            Gains, profits, and income derived from the purchase of inventory property (within the meaning of section 865(i)(1)) without the United States (other than within a possession of the United States) and its sale or exchange within the United States.
 
-            (7) Amounts received as underwriting income (as defined in section 832(b)(3)) derived from the issuing (or reinsuring) of any insurance or annuity contract—
+        (7)
 
-        (A) in connection with property in, liability arising out of an activity in, or in connection with the lives or health of residents of, the United States, or
+         Amounts received as underwriting income (as defined in section 832(b)(3)) derived from the issuing (or reinsuring) of any insurance or annuity contract—
 
-        (B) in connection with risks not described in subparagraph (A) as a result of any arrangement whereby another corporation receives a substantially equal amount of premiums or other consideration in respect to issuing (or reinsuring) any insurance or annuity contract in connection with property in, liability arising out of activity in, or in connection with the lives or health of residents of, the United States.
+            (A) in connection with property in, liability arising out of an activity in, or in connection with the lives or health of residents of, the United States, or
+
+            (B) in connection with risks not described in subparagraph (A) as a result of any arrangement whereby another corporation receives a substantially equal amount of premiums or other consideration in respect to issuing (or reinsuring) any insurance or annuity contract in connection with property in, liability arising out of activity in, or in connection with the lives or health of residents of, the United States.
 
         (8) __Social security benefits__ 
 

@@ -15,7 +15,7 @@
 
 ## § 212. Expenses for production of income
 
-In the case of an individual, there shall be allowed as a deduction all the ordinary and necessary expenses paid or incurred during the taxable year—
+    In the case of an individual, there shall be allowed as a deduction all the ordinary and necessary expenses paid or incurred during the taxable year—
 
     (1) for the production or collection of income;
 

@@ -13,9 +13,9 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t26/stA/m__us_usc_t26_stA.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26)
 
-# 
+# Title 26—INTERNAL REVENUE CODE
 
-Title 26—INTERNAL REVENUE CODE
+Current through 113–44
 
  __[__  __Act Aug. 16, 1954, ch. 736__  __][/us/act/1954-08-16/ch736]__  __,__  __[__  __68A Stat. 3__  __][/us/stat/68A/3]__ 
 
@@ -46757,7 +46757,7 @@ INTERNAL REVENUE TITLE  </td>
 
  __Table of Contents__ 
 
-This Table of Contents is inserted for convenience of users and was not enacted as part of the Internal Revenue Code of 1986.
+    This Table of Contents is inserted for convenience of users and was not enacted as part of the Internal Revenue Code of 1986.
 
 <table>
 

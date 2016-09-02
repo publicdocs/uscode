@@ -241,9 +241,9 @@
 
         (3) __Increase in penalty for undisclosed foreign financial asset understatements__ 
 
-        In the case of any portion of an underpayment which is attributable to any undisclosed foreign financial asset understatement, subsection (a) shall be applied with respect to such portion by substituting “40 percent” for “20 percent”.
+            In the case of any portion of an underpayment which is attributable to any undisclosed foreign financial asset understatement, subsection (a) shall be applied with respect to such portion by substituting “40 percent” for “20 percent”.
 
-            (i)  __ <sup>\[__  __3__  __\]</sup> __  __ <sup><sup> __  __3__  __ So in original. Subsec. (j) is set out before subsec. (i).__  __ </sup></sup> __  __Increase in penalty in case of nondisclosed noneconomic substance transactions__ 
+    (i)  __ <sup>\[__  __3__  __\]</sup> __  __ <sup><sup> __  __3__  __ So in original. Subsec. (j) is set out before subsec. (i).__  __ </sup></sup> __  __Increase in penalty in case of nondisclosed noneconomic substance transactions__ 
 
         (1) __In general__ 
 

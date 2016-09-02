@@ -15,7 +15,7 @@
 
 ## § 87. Alcohol and biodiesel fuels credits
 
-Gross income includes—
+    Gross income includes—
 
     (1) the amount of the alcohol fuel credit determined with respect to the taxpayer for the taxable year under section 40(a), and
 
