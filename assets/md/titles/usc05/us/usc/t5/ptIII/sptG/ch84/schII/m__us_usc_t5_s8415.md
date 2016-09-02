@@ -31,7 +31,17 @@
 
         (2) 1 percent of that individual’s average pay multiplied by so much of such individual’s total service as exceeds 20 years.
 
-    (f) The annuity of an air traffic controller or former air traffic controller retiring under section 8412(a) is computed under subsection (a), except that if the individual has had at least 5 years of service as an air traffic controller as defined by section 2109(1)(A)(i), so much of the annuity as is computed with respect to such type of service shall be computed by multiplying 17⁄10 percent of the individual’s average pay by the years of such service.
+    (f)
+
+     The annuity of an air traffic controller or former air traffic controller retiring under section 8412(a) is computed under subsection (a), except that if the individual has at least 5 years of service in any combination as—
+
+        (1) an air traffic controller as defined by section 2109(1)(A)(i);
+
+        (2) a first level supervisor of an air traffic controller as defined by section 2109(1)(A)(i); or
+
+        (3) a second level supervisor of an air traffic controller as defined by section 2109(1)(A)(i);
+
+        so much of the annuity as is computed with respect to such type of service shall be computed by multiplying 1 7/10 percent of the individual’s average pay by the years of such service.
 
     (g)
 
@@ -197,7 +207,7 @@
 
     (n) In the case of any annuity computation under this section that includes, in the aggregate, at least 2 months of credit under section 8411(d) for any period while receiving benefits under subchapter I of chapter 81, the percentage otherwise applicable under this section for that period so credited shall be increased by 1 percentage point.
 
-(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 527][/us/stat/100/527]; amended [Pub. L. 99–556, title I][/us/pl/99/556/tI], § 105(b)(2), Oct. 27, 1986, [100 Stat. 3132][/us/stat/100/3132]; [Pub. L. 103–283, title III][/us/pl/103/283/tIII], § 307(b)(2), July 22, 1994, [108 Stat. 1442][/us/stat/108/1442]; [Pub. L. 105–61, title V][/us/pl/105/61/tV], § 516(a)(7), Oct. 10, 1997, [111 Stat. 1306][/us/stat/111/1306]; [Pub. L. 105–261, div. C, title XXXI][/us/pl/105/261/dC/tXXXI], § 3154(h), Oct. 17, 1998, [112 Stat. 2255][/us/stat/112/2255]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 522(c)(1), Oct. 5, 1999, [113 Stat. 597][/us/stat/113/597]; [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title III, § 308(c)(2)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–87; [Pub. L. 106–571][/us/pl/106/571], § 3(c)(1), Dec. 28, 2000, [114 Stat. 3055][/us/stat/114/3055]; [Pub. L. 107–107, div. A, title XI][/us/pl/107/107/dA/tXI], § 1132(b)(3), Dec. 28, 2001, [115 Stat. 1244][/us/stat/115/1244]; [Pub. L. 107–135, title I][/us/pl/107/135/tI], § 122(a), Jan. 23, 2002, [115 Stat. 2451][/us/stat/115/2451]; [Pub. L. 108–92][/us/pl/108/92], § 1(a), Oct. 3, 2003, [117 Stat. 1160][/us/stat/117/1160]; [Pub. L. 108–176, title II][/us/pl/108/176/tII], § 226(b)(1), Dec. 12, 2003, [117 Stat. 2530][/us/stat/117/2530]; [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 535(b)(3), Dec. 26, 2007, [121 Stat. 2076][/us/stat/121/2076]; [Pub. L. 111–84, div. A, title XIX][/us/pl/111/84/dA/tXIX], § 1901(a), Oct. 28, 2009, [123 Stat. 2615][/us/stat/123/2615]; [Pub. L. 112–96, title V][/us/pl/112/96/tV], § 5001(c)(1), Feb. 22, 2012, [126 Stat. 199][/us/stat/126/199]; [Pub. L. 113–67, div. A, title IV][/us/pl/113/67/dA/tIV], § 401(d), Dec. 26, 2013, [127 Stat. 1185][/us/stat/127/1185].)
+(Added [Pub. L. 99–335, title I][/us/pl/99/335/tI], § 101(a), June 6, 1986, [100 Stat. 527][/us/stat/100/527]; amended [Pub. L. 99–556, title I][/us/pl/99/556/tI], § 105(b)(2), Oct. 27, 1986, [100 Stat. 3132][/us/stat/100/3132]; [Pub. L. 103–283, title III][/us/pl/103/283/tIII], § 307(b)(2), July 22, 1994, [108 Stat. 1442][/us/stat/108/1442]; [Pub. L. 105–61, title V][/us/pl/105/61/tV], § 516(a)(7), Oct. 10, 1997, [111 Stat. 1306][/us/stat/111/1306]; [Pub. L. 105–261, div. C, title XXXI][/us/pl/105/261/dC/tXXXI], § 3154(h), Oct. 17, 1998, [112 Stat. 2255][/us/stat/112/2255]; [Pub. L. 106–65, div. A, title V][/us/pl/106/65/dA/tV], § 522(c)(1), Oct. 5, 1999, [113 Stat. 597][/us/stat/113/597]; [Pub. L. 106–553][/us/pl/106/553], § 1(a)(2) \[title III, § 308(c)(2)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–87; [Pub. L. 106–571][/us/pl/106/571], § 3(c)(1), Dec. 28, 2000, [114 Stat. 3055][/us/stat/114/3055]; [Pub. L. 107–107, div. A, title XI][/us/pl/107/107/dA/tXI], § 1132(b)(3), Dec. 28, 2001, [115 Stat. 1244][/us/stat/115/1244]; [Pub. L. 107–135, title I][/us/pl/107/135/tI], § 122(a), Jan. 23, 2002, [115 Stat. 2451][/us/stat/115/2451]; [Pub. L. 108–92][/us/pl/108/92], § 1(a), Oct. 3, 2003, [117 Stat. 1160][/us/stat/117/1160]; [Pub. L. 108–176, title II][/us/pl/108/176/tII], § 226(b)(1), Dec. 12, 2003, [117 Stat. 2530][/us/stat/117/2530]; [Pub. L. 110–161, div. E, title V][/us/pl/110/161/dE/tV], § 535(b)(3), Dec. 26, 2007, [121 Stat. 2076][/us/stat/121/2076]; [Pub. L. 111–84, div. A, title XIX][/us/pl/111/84/dA/tXIX], § 1901(a), Oct. 28, 2009, [123 Stat. 2615][/us/stat/123/2615]; [Pub. L. 112–96, title V][/us/pl/112/96/tV], § 5001(c)(1), Feb. 22, 2012, [126 Stat. 199][/us/stat/126/199]; [Pub. L. 113–67, div. A, title IV][/us/pl/113/67/dA/tIV], § 401(d), Dec. 26, 2013, [127 Stat. 1185][/us/stat/127/1185]; [Pub. L. 114–190, title II][/us/pl/114/190/tII], § 2304(a), July 15, 2016, [130 Stat. 640][/us/stat/130/640].)
 
  __References in Text__ 
 
@@ -206,6 +216,8 @@
     The date of enactment of this paragraph, referred to in subsec. (m)(2)(B)(i), is the date of enactment of [Pub. L. 111–84][/us/pl/111/84], which was approved Oct. 28, 2009.
 
  __Amendments__ 
+
+    2016—Subsec. (f). [Pub. L. 114–190][/us/pl/114/190] amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The annuity of an air traffic controller or former air traffic controller retiring under section 8412(a) is computed under subsection (a), except that if the individual has had at least 5 years of service as an air traffic controller as defined by section 2109(1)(A)(i), so much of the annuity as is computed with respect to such type of service shall be computed by multiplying 17⁄10 percent of the individual’s average pay by the years of such service.”
 
     2013—Subsec. (d). [Pub. L. 113–67][/us/pl/113/67] inserted “or a further revised annuity employee” after “a revised annuity employee”.
 
@@ -249,6 +261,12 @@
 
     1986—Subsec. (f)(2). [Pub. L. 99–556][/us/pl/99/556] inserted “8412(g) or” in subpars. (A) and (B).
 
+ __Effective Date of 2016 Amendment__ 
+
+[Pub. L. 114–190, title II][/us/pl/114/190/tII], § 2304(b), July 15, 2016, [130 Stat. 640][/us/stat/130/640], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall be deemed to be effective on December 12, 2003.”
+
  __Effective Date of 2009 Amendment__ 
 
 [Pub. L. 111–84, div. A, title XIX][/us/pl/111/84/dA/tXIX], § 1901(c), Oct. 28, 2009, [123 Stat. 2615][/us/stat/123/2615], provided that: 
@@ -288,6 +306,20 @@
  __Effective Date of 1997 Amendment__ 
 
     Amendment by [Pub. L. 105–61][/us/pl/105/61] applicable to any annuity commencing before, on, or after Oct. 10, 1997, and effective with regard to any payment made after the first month following Oct. 10, 1997, see [section 516(b) of Pub. L. 105–61][/us/pl/105/61/s516/b], set out as a note under [section 8334 of this title][/us/usc/t5/s8334].
+
+ __Procedures Required__ 
+
+[Pub. L. 114–190, title II][/us/pl/114/190/tII], § 2304(c), July 15, 2016, [130 Stat. 640][/us/stat/130/640], provided that: 
+
+> “The Director of the Office of Personnel Management shall establish such procedures as are necessary to provide for—
+
+>     “(1) notification to each annuitant affected by the amendments made by this section \[amending this section\];
+
+>     “(2) recalculation of the benefits of affected annuitants;
+
+>     “(3) an adjustment to applicable monthly benefit amounts pursuant to such recalculation, to begin as soon as is practicable; and
+
+>     “(4) a lump-sum payment to each affected annuitant equal to the additional total benefit amount that such annuitant would have received had the amendment made by subsection (a) been in effect on December 12, 2003.”
 
  __Clarification Relating to Consideration of Pre-1987 Service as an Air Traffic Controller for Retirement Purposes__ 
 
@@ -332,8 +364,11 @@
 [/us/stat/126/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F199
 [/us/pl/113/67/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2FdA%2FtIV
 [/us/stat/127/1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1185
+[/us/pl/114/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtII
+[/us/stat/130/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F640
 [/us/pl/106/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F571
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/114/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
@@ -356,6 +391,8 @@
 [/us/pl/105/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61
 [/us/pl/103/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F283
 [/us/pl/99/556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556
+[/us/pl/114/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtII
+[/us/stat/130/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F640
 [/us/pl/111/84/dA/tXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtXIX
 [/us/stat/123/2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2615
 [/us/usc/t5/s8422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8422
@@ -383,6 +420,8 @@
 [/us/pl/105/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61
 [/us/pl/105/61/s516/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F61%2Fs516%2Fb
 [/us/usc/t5/s8334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8334
+[/us/pl/114/190/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F190%2FtII
+[/us/stat/130/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F640
 [/us/pl/100/92/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F92%2Fs2
 [/us/usc/t5/s8332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8332
 
