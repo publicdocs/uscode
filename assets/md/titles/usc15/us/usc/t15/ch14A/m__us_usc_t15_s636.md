@@ -1869,7 +1869,7 @@
 
                      may be used by a grantee—
 
-                        (aa) to pay or reimburse a portion of child care and transportation costs of recipients of assistance described in clause (i), to the extent such costs are not otherwise paid by State block grants under the Child Care Development Block Grant Act of 1990 ([42 U.S.C. 9858][/us/usc/t42/s9858] et seq.) or under part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.); and
+                        (aa) to pay or reimburse a portion of child care and transportation costs of recipients of assistance described in clause (i), to the extent such costs are not otherwise paid by State block grants under the Child Care Development Block Grant Act of 1990 \[[42 U.S.C. 9857][/us/usc/t42/s9857] et seq.\] or under part A of title IV of the Social Security Act ([42 U.S.C. 601][/us/usc/t42/s601] et seq.); and
 
                         (bb) for marketing, management, and technical assistance to recipients of assistance described in clause (i).
 
@@ -2139,7 +2139,7 @@
 
     Section 202(b) of the Small Business Reauthorization Act of 1997, referred to in subsec. (m)(4)(F)(i), is [section 202(b) of Pub. L. 105–135][/us/pl/105/135/s202/b], which is set out as a note below.
 
-    The Child Care and Development Block Grant Act of 1990, referred to in subsec. (m)(4)(F)(iii)(II)(aa), is subchapter C (§§ 658A–658R) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], as added by [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236], which is classified generally to subchapter II–B (§ 9858 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42][/us/usc/t42/s9801] and Tables.
+    The Child Care and Development Block Grant Act of 1990, referred to in subsec. (m)(4)(F)(iii)(II)(aa), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of [Pub. L. 97–35][/us/pl/97/35], as added by [Pub. L. 101–508, title V, § 5082(2)][/us/pl/101/508/s5082/2], Nov. 5, 1990, [104 Stat. 1388–236][/us/stat/104/1388-236], which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 9857(a) of Title 42][/us/usc/t42/s9857/a] and Tables.
 
  __Codification__ 
 
@@ -3843,7 +3843,7 @@
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t15/s632/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fq
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
-[/us/usc/t42/s9858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9858
+[/us/usc/t42/s9857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9857
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
 [/us/usc/t10/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa
 [/us/usc/t15/s697a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs697a
@@ -4031,7 +4031,7 @@
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
 [/us/pl/101/508/s5082/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs5082%2F2
 [/us/stat/104/1388-236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-236
-[/us/usc/t42/s9801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9801
+[/us/usc/t42/s9857/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9857%2Fa
 [/us/pl/104/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208
 [/us/pl/97/35/s1914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs1914
 [/us/pl/97/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35
