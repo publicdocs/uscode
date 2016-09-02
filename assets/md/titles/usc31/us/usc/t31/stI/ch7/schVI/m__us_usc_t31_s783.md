@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t31/stI/ch7/schVI/m__us_usc_t31_s782.md) | [Next](./../../../../../..//us/usc/t31/stI/ch9/m__us_usc_t31_stI_ch9.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs783)
+[Previous](./../../../../../..//us/usc/t31/stI/ch7/schVI/m__us_usc_t31_s782.md) | [Next](./../../../../../..//us/usc/t31/stI/ch7/schVII/m__us_usc_t31_stI_ch7_schVII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs783)
 
 ## § 783. Rules and regulations
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t31/stI/ch7/schVI/m__us_usc_t31_s782.md) | [Next](./../../../../../..//us/usc/t31/stI/ch9/m__us_usc_t31_stI_ch9.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs783)
+[Previous](./../../../../../..//us/usc/t31/stI/ch7/schVI/m__us_usc_t31_s782.md) | [Next](./../../../../../..//us/usc/t31/stI/ch7/schVII/m__us_usc_t31_stI_ch7_schVII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs783)
 
 ----------
 ----------

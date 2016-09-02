@@ -103,11 +103,13 @@ July 1, 1973, Pub. L. 93–52, § 111, 87 Stat. 134.  </td>
 
  __Quarterly Reports__ 
 
-[Pub. L. 113–76, div. H, title V, § 524][/us/pl/113/76/s524], Jan. 17, 2014, [128 Stat. 413][/us/stat/128/413], provided that: 
+[Pub. L. 113–235, div. G, title V, § 523][/us/pl/113/235/s523], Dec. 16, 2014, [128 Stat. 2518][/us/stat/128/2518], provided that: 
 
 > “Not later than 30 days after the end of each calendar quarter, beginning with the first quarter of fiscal year 2013, the Departments of Labor, Health and Human Services and Education and the Social Security Administration shall provide the Committees on Appropriations of the House of Representatives and Senate a quarterly report on the status of balances of appropriations: Provided, That for balances that are unobligated and uncommitted, committed, and obligated but unexpended, the quarterly reports shall separately identify the amounts attributable to each source year of appropriation (beginning with fiscal year 2012, or, to the extent feasible, earlier fiscal years) from which balances were derived.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–76, div. H, title V, § 524][/us/pl/113/76/s524], Jan. 17, 2014, [128 Stat. 413][/us/stat/128/413].
 
     [Pub. L. 112–74, div. F, title V, § 526][/us/pl/112/74/s526], Dec. 23, 2011, [125 Stat. 1115][/us/stat/125/1115].
 
@@ -127,6 +129,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t31/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1501
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F928
+[/us/pl/113/235/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs523
+[/us/stat/128/2518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2518
 [/us/pl/113/76/s524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs524
 [/us/stat/128/413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F413
 [/us/pl/112/74/s526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs526

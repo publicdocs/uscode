@@ -383,9 +383,43 @@ SUBCHAPTER VI—PROPERTY MANAGEMENT  </td>
 
   </tr>
 
+  <tr>
+
+    <td> 
+
+SUBCHAPTER VII—CENTER FOR AUDIT EXCELLENCE  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs791" data-uslm-ref="/us/usc/t31/s791">791.</a>  </td>
+
+    <td> Center for Audit Excellence.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs792" data-uslm-ref="/us/usc/t31/s792">792.</a>  </td>
+
+    <td> Account.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft31%2Fs793" data-uslm-ref="/us/usc/t31/s793">793.</a>  </td>
+
+    <td> Authorization of appropriations.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–235, div. H, title I, § 1401(a)(2)][/us/pl/113/235/s1401/a/2], Dec. 16, 2014, [128 Stat. 2541][/us/stat/128/2541], added subchapter VII heading and items 791 to 793.
 
     2008—[Pub. L. 110–323, § 5(c)][/us/pl/110/323/s5/c], Sept. 22, 2008, [122 Stat. 3547][/us/stat/122/3547], added item 705.
 
@@ -404,6 +438,8 @@ SUBCHAPTER VI—PROPERTY MANAGEMENT  </td>
 ----------
 ----------
 
+[/us/pl/113/235/s1401/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1401%2Fa%2F2
+[/us/stat/128/2541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2541
 [/us/pl/110/323/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F323%2Fs5%2Fc
 [/us/stat/122/3547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3547
 [/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb

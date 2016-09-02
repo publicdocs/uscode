@@ -255,7 +255,7 @@ Subsection (b) is substituted for 31:41(1st sentence last 14 words) and 42(a)(1s
 
 >             “(C) the Government Accountability Office;
 
->             “(D) the Government Printing Office;
+>             “(D) the Government Publishing Office;
 
 >             “(E) the Library of Congress;
 

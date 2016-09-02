@@ -235,11 +235,13 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Maximum Purchase Price of Motor Vehicles; Exceptions__ 
 
-[Pub. L. 113–76, div. E, title VII, § 702][/us/pl/113/76/s702], Jan. 17, 2014, [128 Stat. 230][/us/stat/128/230], provided that: 
+[Pub. L. 113–235, div. E, title VII, § 702][/us/pl/113/235/s702], Dec. 16, 2014, [128 Stat. 2379][/us/stat/128/2379], provided that: 
 
-> “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with subsection \[sic\] 1343(c) of title 31, United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement, and undercover surveillance vehicles), is hereby fixed at $13,197 except station wagons for which the maximum shall be $13,631: Provided, That these limits may be exceeded by not to exceed $3,700 for police-type vehicles, and by not to exceed $4,000 for special heavy-duty vehicles: Provided further, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 \[[15 U.S.C. 2501][/us/usc/t15/s2501] et seq.\]: Provided further, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to [Public Law 101–549][/us/pl/101/549] \[see Tables for classification\] over the cost of comparable conventionally fueled vehicles: Provided further, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on emerging motor vehicle technology, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles.”
+> “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with subsection \[sic\] 1343(c) of title 31, United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement vehicles, protective vehicles, and undercover surveillance vehicles), is hereby fixed at $13,197 except station wagons for which the maximum shall be $13,631: Provided, That these limits may be exceeded by not to exceed $3,700 for police-type vehicles, and by not to exceed $4,000 for special heavy-duty vehicles: Provided further, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 \[[15 U.S.C. 2501][/us/usc/t15/s2501] et seq.\]: Provided further, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to [Public Law 101–549][/us/pl/101/549] \[see Tables for classification\] over the cost of comparable conventionally fueled vehicles: Provided further, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on emerging motor vehicle technology, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–76, div. E, title VII, § 702][/us/pl/113/76/s702], Jan. 17, 2014, [128 Stat. 230][/us/stat/128/230].
 
     [Pub. L. 112–74, div. C, title VII, § 702][/us/pl/112/74/s702], Dec. 23, 2011, [125 Stat. 928][/us/stat/125/928].
 
@@ -396,10 +398,12 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/102/2270-32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2270-32
 [/us/pl/100/202/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fb
 [/us/stat/101/1329-43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-43
-[/us/pl/113/76/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs702
-[/us/stat/128/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F230
+[/us/pl/113/235/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs702
+[/us/stat/128/2379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2379
 [/us/usc/t15/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2501
 [/us/pl/101/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549
+[/us/pl/113/76/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs702
+[/us/stat/128/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F230
 [/us/pl/112/74/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs702
 [/us/stat/125/928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F928
 [/us/pl/111/117/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs702

@@ -343,7 +343,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >     “(1)  __Coast guard operations and expenditures__  __.—__ 
 
->     [Section 651 of title 14][/us/usc/t14/s651], United States Code.
+>     \[Former\] [Section 651 of title 14][/us/usc/t14/s651], United States Code.
 
 >     “(2)  __Summary of marine casualties reported during prior fiscal year__  __.—__ 
 

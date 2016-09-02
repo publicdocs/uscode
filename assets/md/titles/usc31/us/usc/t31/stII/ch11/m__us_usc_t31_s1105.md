@@ -161,17 +161,23 @@
 
         (37)
 
-  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Another par. (37) is set out after par. (38). </sup></sup>  information on estimates of appropriations for the fiscal year following the fiscal year for which the budget is submitted for the following medical care accounts of the Veterans Health Administration, Department of Veterans Affairs account:
+         information on estimates of appropriations for the fiscal year following the fiscal year for which the budget is submitted for the following accounts of the Department of Veterans Affairs:
 
-            (A) Medical Services.
+            (A) Veterans Benefits Administration, Compensation and Pensions.
 
-            (B) Medical Support and Compliance.
+            (B) Veterans Benefits Administration, Readjustment Benefits.
 
-            (C) Medical Facilities.
+            (C) Veterans Benefits Administration, Veterans Insurance and Indemnities.
+
+            (D) Veterans Health Administration, Medical Services.
+
+            (E) Veterans Health Administration, Medical Support and Compliance.
+
+            (F) Veterans Health Administration, Medical Facilities.
 
         (38) a separate statement for the Crow Settlement Fund established under section 411 of the Crow Tribe Water Rights Settlement Act of 2010, which shall include the estimated amount of deposits into the Fund, obligations, and outlays from the Fund.
 
-        (37)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Another par. (37) is set out preceding par. (38). </sup></sup>  the list of plans and reports, as provided for under section 1125, that agencies identified for elimination or consolidation because the plans and reports are determined outdated or duplicative of other required plans and reports.
+        (39) the list of plans and reports, as provided for under section 1125, that agencies identified for elimination or consolidation because the plans and reports are determined outdated or duplicative of other required plans and reports.
 
     (b) Estimated expenditures and proposed appropriations for the legislative branch and the judicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
 
@@ -281,7 +287,7 @@
 
         (2) Paragraph (1) does not apply if, during the year in which the warning is made, legislation is enacted which eliminates excess general revenue medicare funding (as defined in section 801(c) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003) for the 7-fiscal-year reporting period, as certified by the Board of Trustees of each medicare trust fund (as defined in section 801(c)(5) of such Act) not later than 30 days after the date of the enactment of such legislation.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 908][/us/stat/96/908]; [Pub. L. 97–452, § 1(2)][/us/pl/97/452/s1/2], Jan. 12, 1983, [96 Stat. 2467][/us/stat/96/2467]; [Pub. L. 98–501, title II, § 203][/us/pl/98/501/s203], Oct. 19, 1984, [98 Stat. 2324][/us/stat/98/2324]; [Pub. L. 99–177, title II, § 241][/us/pl/99/177/s241], Dec. 12, 1985, [99 Stat. 1063][/us/stat/99/1063]; [Pub. L. 100–119, title I, § 106(f)][/us/pl/100/119/s106/f], Sept. 29, 1987, [101 Stat. 781][/us/stat/101/781]; [Pub. L. 100–418, title V, § 5301][/us/pl/100/418/s5301], Aug. 23, 1988, [102 Stat. 1462][/us/stat/102/1462]; [Pub. L. 100–504, title I, § 108][/us/pl/100/504/s108], Oct. 18, 1988, [102 Stat. 2529][/us/stat/102/2529]; [Pub. L. 100–690, title I, § 1006][/us/pl/100/690/s1006], Nov. 18, 1988, [102 Stat. 4187][/us/stat/102/4187]; [Pub. L. 101–508, title XIII, § 13112(c)][/us/pl/101/508/s13112/c], Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608]; [Pub. L. 101–576, title II, § 203(b)][/us/pl/101/576/s203/b], Nov. 15, 1990, [104 Stat. 2841][/us/stat/104/2841]; [Pub. L. 103–62, § 4(a)][/us/pl/103/62/s4/a], Aug. 3, 1993, [107 Stat. 286][/us/stat/107/286]; [Pub. L. 103–272, § 4(f)(1)(E)][/us/pl/103/272/s4/f/1/E], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 103–322, title XXXI, § 310001(e)][/us/pl/103/322/s310001/e], Sept. 13, 1994, [108 Stat. 2103][/us/stat/108/2103]; [Pub. L. 103–355, title II, § 2454(a)][/us/pl/103/355/s2454/a], Oct. 13, 1994, [108 Stat. 3326][/us/stat/108/3326]; [Pub. L. 104–287, § 4(1)][/us/pl/104/287/s4/1], Oct. 11, 1996, [110 Stat. 3388][/us/stat/110/3388]; [Pub. L. 105–33, title X, § 10209(b)][/us/pl/105/33/s10209/b], Aug. 5, 1997, [111 Stat. 711][/us/stat/111/711]; [Pub. L. 105–277, div. C, title VII, § 713(c)][/us/pl/105/277/s713/c], Oct. 21, 1998, [112 Stat. 2681–693][/us/stat/112/2681-693]; [Pub. L. 106–58, title VI, § 638(f)][/us/pl/106/58/s638/f], Sept. 29, 1999, [113 Stat. 475][/us/stat/113/475]; [Pub. L. 106–422, § 2(c)][/us/pl/106/422/s2/c], Nov. 1, 2000, [114 Stat. 1874][/us/stat/114/1874]; [Pub. L. 107–189, § 4(a)][/us/pl/107/189/s4/a], June 14, 2002, [116 Stat. 699][/us/stat/116/699]; [Pub. L. 107–217, § 3(h)(3)][/us/pl/107/217/s3/h/3], Aug. 21, 2002, [116 Stat. 1299][/us/stat/116/1299]; [Pub. L. 107–296, title VIII, § 889(a)][/us/pl/107/296/s889/a], Nov. 25, 2002, [116 Stat. 2250][/us/stat/116/2250]; [Pub. L. 108–173, title VIII, § 802(a)][/us/pl/108/173/s802/a], Dec. 8, 2003, [117 Stat. 2360][/us/stat/117/2360]; [Pub. L. 108–178, § 4(f)(1)][/us/pl/108/178/s4/f/1], Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641]; [Pub. L. 110–343, div. A, title II, § 203(a)][/us/pl/110/343/s203/a], Oct. 3, 2008, [122 Stat. 3801][/us/stat/122/3801]; [Pub. L. 110–409, § 7(d)(2)][/us/pl/110/409/s7/d/2], Oct. 14, 2008, [122 Stat. 4313][/us/stat/122/4313]; [Pub. L. 111–81, § 2][/us/pl/111/81/s2], Oct. 22, 2009, [123 Stat. 2137][/us/stat/123/2137]; [Pub. L. 111–291, title IV][/us/pl/111/291], §§ 411(h), 415, Dec. 8, 2010, [124 Stat. 3116][/us/stat/124/3116], 3121; [Pub. L. 111–352, § 11(a)][/us/pl/111/352/s11/a], Jan. 4, 2011, [124 Stat. 3881][/us/stat/124/3881].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 908][/us/stat/96/908]; [Pub. L. 97–452, § 1(2)][/us/pl/97/452/s1/2], Jan. 12, 1983, [96 Stat. 2467][/us/stat/96/2467]; [Pub. L. 98–501, title II, § 203][/us/pl/98/501/s203], Oct. 19, 1984, [98 Stat. 2324][/us/stat/98/2324]; [Pub. L. 99–177, title II, § 241][/us/pl/99/177/s241], Dec. 12, 1985, [99 Stat. 1063][/us/stat/99/1063]; [Pub. L. 100–119, title I, § 106(f)][/us/pl/100/119/s106/f], Sept. 29, 1987, [101 Stat. 781][/us/stat/101/781]; [Pub. L. 100–418, title V, § 5301][/us/pl/100/418/s5301], Aug. 23, 1988, [102 Stat. 1462][/us/stat/102/1462]; [Pub. L. 100–504, title I, § 108][/us/pl/100/504/s108], Oct. 18, 1988, [102 Stat. 2529][/us/stat/102/2529]; [Pub. L. 100–690, title I, § 1006][/us/pl/100/690/s1006], Nov. 18, 1988, [102 Stat. 4187][/us/stat/102/4187]; [Pub. L. 101–508, title XIII, § 13112(c)][/us/pl/101/508/s13112/c], Nov. 5, 1990, [104 Stat. 1388–608][/us/stat/104/1388-608]; [Pub. L. 101–576, title II, § 203(b)][/us/pl/101/576/s203/b], Nov. 15, 1990, [104 Stat. 2841][/us/stat/104/2841]; [Pub. L. 103–62, § 4(a)][/us/pl/103/62/s4/a], Aug. 3, 1993, [107 Stat. 286][/us/stat/107/286]; [Pub. L. 103–272, § 4(f)(1)(E)][/us/pl/103/272/s4/f/1/E], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362]; [Pub. L. 103–322, title XXXI, § 310001(e)][/us/pl/103/322/s310001/e], Sept. 13, 1994, [108 Stat. 2103][/us/stat/108/2103]; [Pub. L. 103–355, title II, § 2454(a)][/us/pl/103/355/s2454/a], Oct. 13, 1994, [108 Stat. 3326][/us/stat/108/3326]; [Pub. L. 104–287, § 4(1)][/us/pl/104/287/s4/1], Oct. 11, 1996, [110 Stat. 3388][/us/stat/110/3388]; [Pub. L. 105–33, title X, § 10209(b)][/us/pl/105/33/s10209/b], Aug. 5, 1997, [111 Stat. 711][/us/stat/111/711]; [Pub. L. 105–277, div. C, title VII, § 713(c)][/us/pl/105/277/s713/c], Oct. 21, 1998, [112 Stat. 2681–693][/us/stat/112/2681-693]; [Pub. L. 106–58, title VI, § 638(f)][/us/pl/106/58/s638/f], Sept. 29, 1999, [113 Stat. 475][/us/stat/113/475]; [Pub. L. 106–422, § 2(c)][/us/pl/106/422/s2/c], Nov. 1, 2000, [114 Stat. 1874][/us/stat/114/1874]; [Pub. L. 107–189, § 4(a)][/us/pl/107/189/s4/a], June 14, 2002, [116 Stat. 699][/us/stat/116/699]; [Pub. L. 107–217, § 3(h)(3)][/us/pl/107/217/s3/h/3], Aug. 21, 2002, [116 Stat. 1299][/us/stat/116/1299]; [Pub. L. 107–296, title VIII, § 889(a)][/us/pl/107/296/s889/a], Nov. 25, 2002, [116 Stat. 2250][/us/stat/116/2250]; [Pub. L. 108–173, title VIII, § 802(a)][/us/pl/108/173/s802/a], Dec. 8, 2003, [117 Stat. 2360][/us/stat/117/2360]; [Pub. L. 108–178, § 4(f)(1)][/us/pl/108/178/s4/f/1], Dec. 15, 2003, [117 Stat. 2641][/us/stat/117/2641]; [Pub. L. 110–343, div. A, title II, § 203(a)][/us/pl/110/343/s203/a], Oct. 3, 2008, [122 Stat. 3801][/us/stat/122/3801]; [Pub. L. 110–409, § 7(d)(2)][/us/pl/110/409/s7/d/2], Oct. 14, 2008, [122 Stat. 4313][/us/stat/122/4313]; [Pub. L. 111–81, § 2][/us/pl/111/81/s2], Oct. 22, 2009, [123 Stat. 2137][/us/stat/123/2137]; [Pub. L. 111–291, title IV][/us/pl/111/291], §§ 411(h), 415, Dec. 8, 2010, [124 Stat. 3116][/us/stat/124/3116], 3121; [Pub. L. 111–352, § 11(a)][/us/pl/111/352/s11/a], Jan. 4, 2011, [124 Stat. 3881][/us/stat/124/3881]; [Pub. L. 113–235, div. I, title II, § 244(d)][/us/pl/113/235/s244/d], Dec. 16, 2014, [128 Stat. 2569][/us/stat/128/2569].)
 
  __Amendment of Subsection (a)__ 
 
@@ -651,6 +657,10 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
 
  __Amendments__ 
 
+    2014—Subsec. (a)(37). [Pub. L. 113–235, § 244(d)(1)][/us/pl/113/235/s244/d/1], added par. (37) and struck out former par. (37) relating to information on estimates of appropriations for certain medical care accounts of the Veterans Health Administration.
+
+    Subsec. (a)(39). [Pub. L. 113–235, § 244(d)(2)][/us/pl/113/235/s244/d/2], redesignated par. (37) relating to list of outdated or duplicative plans and reports identified for elimination or consolidation as par. (39).
+
     2011—Subsec. (a)(33), (35). [Pub. L. 111–352, § 11(a)(1)][/us/pl/111/352/s11/a/1], made amendment identical to that made by [Pub. L. 111–291, § 411(h)(2)][/us/pl/111/291/s411/h/2]. See 2010 Amendment note below.
 
     Subsec. (a)(37). [Pub. L. 111–352, § 11(a)(2)][/us/pl/111/352/s11/a/2], added par. (37) relating to list of outdated or duplicative plans and reports identified for elimination or consolidation.
@@ -806,6 +816,12 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(1); added Sept. 8, 1982, Pub. L.
  __Construction of 1993 Amendment__ 
 
     Amendment made by [Pub. L. 103–62][/us/pl/103/62] not to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any amendment made by [Pub. L. 103–62][/us/pl/103/62], or to be construed as superseding any statutory requirement, see [section 10 of Pub. L. 103–62][/us/pl/103/62/s10], set out as a note under [section 1101 of this title][/us/usc/t31/s1101].
+
+ __Annual Agency Reports Required__ 
+
+[Pub. L. 113–235, div. D, title IV, § 404][/us/pl/113/235/s404], Dec. 16, 2014, [128 Stat. 2331][/us/stat/128/2331], provided that: 
+
+> “For this fiscal year, and each fiscal year hereafter, each independent agency receiving funding under this title \[see Tables for classification\] shall submit to the Committees on Appropriations of the House of Representatives and the Senate a Congressional Budget Justification and a detailed annual report.”
 
  __Administrative Expenses of Executive Branch Entities; Separate Categories__ 
 
@@ -1225,6 +1241,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/124/3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3116
 [/us/pl/111/352/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs11%2Fa
 [/us/stat/124/3881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3881
+[/us/pl/113/235/s244/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fd
+[/us/stat/128/2569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2569
 [/us/pl/111/291/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs415
 [/us/stat/84/2085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F2085
 [/us/usc/t31/s9101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs9101%2F2
@@ -1255,6 +1273,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/124/3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3113
 [/us/pl/108/173/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs801
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i
+[/us/pl/113/235/s244/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fd%2F1
+[/us/pl/113/235/s244/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs244%2Fd%2F2
 [/us/pl/111/352/s11/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs11%2Fa%2F1
 [/us/pl/111/291/s411/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F291%2Fs411%2Fh%2F2
 [/us/pl/111/352/s11/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F352%2Fs11%2Fa%2F2
@@ -1332,6 +1352,8 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/103/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62
 [/us/pl/103/62/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F62%2Fs10
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
+[/us/pl/113/235/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs404
+[/us/stat/128/2331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2331
 [/us/pl/111/85/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2Fs504
 [/us/stat/123/2879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2879
 [/us/usc/t31/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1101
