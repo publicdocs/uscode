@@ -115,7 +115,7 @@
 
     The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by [section 9168 of Pub. L. 102–396][/us/pl/102/396/s9168]. Section 9168, which referred to S. 2681, as passed by the Senate on “September 12, 1992”, has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
 
-    [Pub. L. 100–579][/us/pl/100/579] and [Pub. L. 100–690][/us/pl/100/690] enacted identical sections. The text of this section is based on [section 1 of Pub. L. 100–579][/us/pl/100/579/s1], as subsequently amended.
+    [Pub. L. 100–579][/us/pl/100/579] and [Pub. L. 100–690][/us/pl/100/690] enacted identical sections. The text of this section is based on [section 2 of Pub. L. 100–579][/us/pl/100/579/s2], as subsequently amended.
 
  __Amendments__ 
 
@@ -213,7 +213,7 @@
 [/us/pl/102/396/s9168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396%2Fs9168
 [/us/pl/100/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/100/579/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579%2Fs1
+[/us/pl/100/579/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579%2Fs2
 [/us/pl/102/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396
 [/us/pl/100/579/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579%2Fs1
 [/us/stat/102/2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2916

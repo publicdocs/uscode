@@ -67,69 +67,97 @@
 
                   <tr>
 
+                    <td> 
+
+   </td>
+
+                    <td> 
+
+                Maximum
+
+                allowable
+
+                increase (in micrograms per cubic meter)  </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Particulate matter:  </td>
+
                     <td>   </td>
 
-                    <td> Maximum allowable increase (in  </td>
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Annual geometric mean  </td>
+
+                    <td> 
+
+                19    </td>
 
   </tr>
 
                   <tr>
+
+                    <td> 
+
+                Twenty-four-hour maximum  </td>
+
+                    <td> 
+
+                37    </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Sulfur dioxide:  </td>
 
                     <td>   </td>
 
-                    <td> micrograms per cubic meter)  </td>
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                Annual arithmetic mean  </td>
+
+                    <td> 
+
+                20    </td>
 
   </tr>
 
                   <tr>
 
-                    <td> Particulate matter:  </td>
+                    <td> 
+
+                Twenty-four-hour maximum  </td>
+
+                    <td> 
+
+                91    </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   Annual geometric mean  </td>
+                    <td> 
 
-                    <td>    19  </td>
+                Three-hour maximum  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   Twenty-four-hour maximum  </td>
-
-                    <td>    37  </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td> Sulfur dioxide:  </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td>   Annual arithmetic mean  </td>
-
-                    <td>    20  </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td>   Twenty-four-hour maximum  </td>
-
-                    <td>    91  </td>
-
-  </tr>
-
-                  <tr>
-
-                    <td>   Three-hour maximum  </td>
-
-                    <td>   325  </td>
+                325    </td>
 
   </tr>
 

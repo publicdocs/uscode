@@ -235,7 +235,7 @@
 
     The Single Audit Act, referred to in subsec. (k), probably means the Single Audit Act of 1984, [Pub. L. 98–502][/us/pl/98/502], Oct. 19, 1984, [98 Stat. 2327][/us/stat/98/2327], which enacted chapter 75 (§ 7501 et seq.) of Title 31, Money and Finance, and provisions set out as notes under [section 7501 of Title 31][/us/usc/t31/s7501]. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under [section 7501 of Title 31][/us/usc/t31/s7501] and Tables.
 
-    The Outer Continental Shelf Lands Act as amended, referred to in subsec. (l)(3), is [act Aug. 7, 1953, ch. 345][/us/act/1953-08-07/ch345], [67 Stat. 462][/us/stat/67/462], which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1331 of Title 43][/us/usc/t43/s1331] and Tables.
+    The Outer Continental Shelf Lands Act as amended, referred to in subsec. (l)(3), is [act Aug. 7, 1953, ch. 345][/us/act/1953-08-07/ch345], [67 Stat. 462][/us/stat/67/462], which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43][/us/usc/t43/s1301] and Tables.
 
     The Deepwater Port Act of 1974, as amended, referred to in subsec. (l)(3), is [Pub. L. 93–627][/us/pl/93/627], Jan. 3, 1975, [88 Stat. 2126][/us/stat/88/2126], which is classified generally to chapter 29 (§ 1501 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of Title 33][/us/usc/t33/s1501] and Tables.
 
@@ -386,7 +386,7 @@
 [/us/usc/t31/s7501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs7501
 [/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345
 [/us/stat/67/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F462
-[/us/usc/t43/s1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1331
+[/us/usc/t43/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1301
 [/us/pl/93/627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F627
 [/us/stat/88/2126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F2126
 [/us/usc/t33/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1501

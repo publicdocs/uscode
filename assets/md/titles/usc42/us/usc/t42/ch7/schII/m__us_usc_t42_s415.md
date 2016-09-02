@@ -199,95 +199,121 @@
 
               <tr>
 
-                <td> If the number of such individual’s  </td>
+                <td> 
+
+            If the number of such individual’s years of coverage (as so defined) is:  </td>
+
+                <td> 
+
+            The applicable percent is:  </td>
 
   </tr>
 
               <tr>
 
-                <td>  years of coverage (as so  </td>
+                <td> 
 
-                <td> The applicable  </td>
+            29  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>  defined) is:  </td>
-
-                <td> percent is:  </td>
+            85 percent    </td>
 
   </tr>
 
               <tr>
 
-                <td> 29  </td>
+                <td> 
 
-                <td>  85 percent    </td>
+            28  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td> 28  </td>
-
-                <td>  80 percent    </td>
+            80 percent    </td>
 
   </tr>
 
               <tr>
 
-                <td> 27  </td>
+                <td> 
 
-                <td>  75 percent    </td>
+            27  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td> 26  </td>
-
-                <td>  70 percent    </td>
+            75 percent    </td>
 
   </tr>
 
               <tr>
 
-                <td> 25  </td>
+                <td> 
 
-                <td>  65 percent    </td>
+            26  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td> 24  </td>
-
-                <td>  60 percent    </td>
+            70 percent    </td>
 
   </tr>
 
               <tr>
 
-                <td> 23  </td>
+                <td> 
 
-                <td>  55 percent    </td>
+            25  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td> 22  </td>
-
-                <td>  50 percent    </td>
+            65 percent    </td>
 
   </tr>
 
               <tr>
 
-                <td> 21  </td>
+                <td> 
 
-                <td>  45 percent.  </td>
+            24  </td>
+
+                <td> 
+
+            60 percent    </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            23  </td>
+
+                <td> 
+
+            55 percent    </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            22  </td>
+
+                <td> 
+
+            50 percent    </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            21  </td>
+
+                <td> 
+
+            45 percent.  </td>
 
   </tr>
 

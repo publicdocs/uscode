@@ -99,7 +99,7 @@ ARTICLE I—DEFINITIONS
 
     The term “FBI” means the Federal Bureau of Investigation.
 
-    (13) Interstate Identification System
+    (13) Interstate Identification System  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “Interstate Identification Index System”. </sup></sup> 
 
     The term “Interstate Identification Index System” or “III System”—
 

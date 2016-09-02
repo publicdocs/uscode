@@ -2145,33 +2145,55 @@
 
               <tr>
 
-                <td> Gravity tank-type toilets  </td>
-
-                <td> 1.6 gpf.  </td>
+                <td>   </td>
 
   </tr>
 
               <tr>
 
-                <td> Flushometer tank toilets  </td>
+                <td> 
 
-                <td> 1.6 gpf.  </td>
+            Gravity tank-type toilets  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td> Electromechanical hydraulic toilets  </td>
-
-                <td> 1.6 gpf.  </td>
+            1.6 gpf.  </td>
 
   </tr>
 
               <tr>
 
-                <td> Blowout toilets  </td>
+                <td> 
 
-                <td> 3.5 gpf.  </td>
+            Flushometer tank toilets  </td>
+
+                <td> 
+
+            1.6 gpf.  </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Electromechanical hydraulic toilets  </td>
+
+                <td> 
+
+            1.6 gpf.  </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            Blowout toilets  </td>
+
+                <td> 
+
+            3.5 gpf.  </td>
 
   </tr>
 
@@ -3053,73 +3075,73 @@
 
           <tr>
 
-            <td> Product Capacity (pints/day):  </td>
+            <td> 
 
-            <td> Minimum  </td>
+           Product Capacity (pints/day):  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>    </td>
-
-            <td> Energy  </td>
+        Minimum Energy Factor (Liters/kWh)  </td>
 
   </tr>
 
           <tr>
 
-            <td>    </td>
+            <td> 
 
-            <td> Factor  </td>
+        25.00 or less  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>    </td>
-
-            <td> (Liters/kWh)  </td>
+        1.00    </td>
 
   </tr>
 
           <tr>
 
-            <td>   25.00 or less  </td>
+            <td> 
 
-            <td> 1.00    </td>
+        25.01 – 35.00  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>   25.01 – 35.00  </td>
-
-            <td> 1.20    </td>
+        1.20    </td>
 
   </tr>
 
           <tr>
 
-            <td>   35.01 – 54.00  </td>
+            <td> 
 
-            <td> 1.30    </td>
+        35.01 – 54.00  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>   54.01 – 74.99  </td>
-
-            <td> 1.50    </td>
+        1.30    </td>
 
   </tr>
 
           <tr>
 
-            <td>   75.00 or more  </td>
+            <td> 
 
-            <td> 2.25.  </td>
+        54.01 – 74.99  </td>
+
+            <td> 
+
+        1.50    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        75.00 or more  </td>
+
+            <td> 
+
+        2.25.  </td>
 
   </tr>
 
@@ -3151,7 +3173,7 @@
 
             <td> 
 
-        1.35    </td>
+        1.35     </td>
 
   </tr>
 
@@ -3163,7 +3185,7 @@
 
             <td> 
 
-        1.50    </td>
+        1.50     </td>
 
   </tr>
 
@@ -3175,7 +3197,7 @@
 
             <td> 
 
-        1.60    </td>
+        1.60     </td>
 
   </tr>
 
@@ -3187,7 +3209,7 @@
 
             <td> 
 
-        1.70    </td>
+        1.70     </td>
 
   </tr>
 
@@ -3199,7 +3221,7 @@
 
             <td> 
 
-        2.5.     </td>
+        2.5.  </td>
 
   </tr>
 

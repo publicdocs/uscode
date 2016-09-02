@@ -549,117 +549,171 @@
 
                       <tr>
 
-                        <td>  BASELINE GASOLINE FUEL  </td>
+                        <td> 
+
+                      BASELINE GASOLINE FUEL
+
+                      PROPERTIES  </td>
+
+                        <td> 
+
+   </td>
 
   </tr>
 
                       <tr>
 
-                        <td>   PROPERTIES  </td>
+                        <td> 
+
+                    API Gravity  </td>
+
+                        <td> 
+
+                    57.4   </td>
 
   </tr>
 
                       <tr>
 
-                        <td>   API Gravity  </td>
+                        <td> 
 
-                        <td> 57.4   </td>
+                    Sulfur, ppm  </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
-
-                        <td>   Sulfur, ppm  </td>
-
-                        <td> 339     </td>
+                    339     </td>
 
   </tr>
 
                       <tr>
 
-                        <td>   Benzene, %  </td>
+                        <td> 
 
-                        <td> 1.53  </td>
+                    Benzene, %  </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
-
-                        <td>   RVP, psi  </td>
-
-                        <td> 8.7   </td>
+                    1.53  </td>
 
   </tr>
 
                       <tr>
 
-                        <td>   Octane, R+M/2  </td>
+                        <td> 
 
-                        <td> 87.3   </td>
+                    RVP, psi  </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
-
-                        <td>   IBP, F  </td>
-
-                        <td> 91     </td>
+                    8.7   </td>
 
   </tr>
 
                       <tr>
 
-                        <td>   10%, F  </td>
+                        <td> 
 
-                        <td> 128     </td>
+                    Octane, R+M/2  </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
-
-                        <td>   50%, F  </td>
-
-                        <td> 218     </td>
+                    87.3   </td>
 
   </tr>
 
                       <tr>
 
-                        <td>   90%, F  </td>
+                        <td> 
 
-                        <td> 330     </td>
+                    IBP, F  </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
-
-                        <td>   End Point, F  </td>
-
-                        <td> 415     </td>
+                    91     </td>
 
   </tr>
 
                       <tr>
 
-                        <td>   Aromatics, %  </td>
+                        <td> 
 
-                        <td> 32.0   </td>
+                    10%, F  </td>
 
-  </tr>
+                        <td> 
 
-                      <tr>
-
-                        <td>   Olefins, %  </td>
-
-                        <td> 9.2   </td>
+                    128     </td>
 
   </tr>
 
                       <tr>
 
-                        <td>   Saturates, %  </td>
+                        <td> 
 
-                        <td> 58.8   </td>
+                    50%, F  </td>
+
+                        <td> 
+
+                    218     </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> 
+
+                    90%, F  </td>
+
+                        <td> 
+
+                    330     </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> 
+
+                    End Point, F  </td>
+
+                        <td> 
+
+                    415     </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> 
+
+                    Aromatics, %  </td>
+
+                        <td> 
+
+                    32.0   </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> 
+
+                    Olefins, %  </td>
+
+                        <td> 
+
+                    9.2   </td>
+
+  </tr>
+
+                      <tr>
+
+                        <td> 
+
+                    Saturates, %  </td>
+
+                        <td> 
+
+                    58.8   </td>
 
   </tr>
 
@@ -897,185 +951,221 @@
 
                           <tr>
 
-                            <td>    </td>
+                            <td> 
 
-                            <td> Applicable  </td>
+                            Calendar year:
 
-  </tr>
+   </td>
 
-                          <tr>
+                            <td> 
 
-                            <td>    </td>
+                        Applicable volume of renewable fuel
 
-                            <td> volume of  </td>
-
-  </tr>
-
-                          <tr>
-
-                            <td>    </td>
-
-                            <td> renewable  </td>
+                        (in billions of gallons):  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>    </td>
+                            <td> 
 
-                            <td> fuel  </td>
+                         2006  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td> Calendar year:  </td>
-
-                            <td> (in billions of  </td>
+                        4.0  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>    </td>
+                            <td> 
 
-                            <td> gallons):  </td>
+                         2007  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2006  </td>
-
-                            <td> 4.0  </td>
+                        4.7  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2007  </td>
+                            <td> 
 
-                            <td> 4.7  </td>
+                         2008  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2008  </td>
-
-                            <td> 9.0  </td>
+                        9.0  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2009  </td>
+                            <td> 
 
-                            <td> 11.1  </td>
+                         2009  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2010  </td>
-
-                            <td> 12.95  </td>
+                        11.1  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2011  </td>
+                            <td> 
 
-                            <td> 13.95  </td>
+                         2010  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2012  </td>
-
-                            <td> 15.2  </td>
+                        12.95  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2013  </td>
+                            <td> 
 
-                            <td> 16.55  </td>
+                         2011  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2014  </td>
-
-                            <td> 18.15  </td>
+                        13.95  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2015  </td>
+                            <td> 
 
-                            <td> 20.5  </td>
+                         2012  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2016  </td>
-
-                            <td> 22.25  </td>
+                        15.2  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2017  </td>
+                            <td> 
 
-                            <td> 24.0  </td>
+                         2013  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2018  </td>
-
-                            <td> 26.0  </td>
+                        16.55  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2019  </td>
+                            <td> 
 
-                            <td> 28.0  </td>
+                         2014  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2020  </td>
-
-                            <td> 30.0  </td>
+                        18.15  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2021  </td>
+                            <td> 
 
-                            <td> 33.0  </td>
+                         2015  </td>
+
+                            <td> 
+
+                        20.5  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2022  </td>
+                            <td> 
 
-                            <td> 36.0  </td>
+                         2016  </td>
+
+                            <td> 
+
+                        22.25  </td>
+
+  </tr>
+
+                          <tr>
+
+                            <td> 
+
+                         2017  </td>
+
+                            <td> 
+
+                        24.0  </td>
+
+  </tr>
+
+                          <tr>
+
+                            <td> 
+
+                         2018  </td>
+
+                            <td> 
+
+                        26.0  </td>
+
+  </tr>
+
+                          <tr>
+
+                            <td> 
+
+                         2019  </td>
+
+                            <td> 
+
+                        28.0  </td>
+
+  </tr>
+
+                          <tr>
+
+                            <td> 
+
+                         2020  </td>
+
+                            <td> 
+
+                        30.0  </td>
+
+  </tr>
+
+                          <tr>
+
+                            <td> 
+
+                         2021  </td>
+
+                            <td> 
+
+                        33.0  </td>
+
+  </tr>
+
+                          <tr>
+
+                            <td> 
+
+                         2022  </td>
+
+                            <td> 
+
+                        36.0  </td>
 
   </tr>
 
@@ -1089,161 +1179,185 @@
 
                           <tr>
 
-                            <td>    </td>
+                            <td> 
 
-                            <td> Applicable  </td>
+                            Calendar year:
 
-  </tr>
+   </td>
 
-                          <tr>
+                            <td> 
 
-                            <td>    </td>
+                        Applicable volume of advanced biofuel
 
-                            <td> volume of  </td>
-
-  </tr>
-
-                          <tr>
-
-                            <td>    </td>
-
-                            <td> advanced  </td>
+                        (in billions of gallons):  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>    </td>
+                            <td> 
 
-                            <td> biofuel  </td>
+                         2009  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td> Calendar year:  </td>
-
-                            <td> (in billions of  </td>
+                        0.6  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>    </td>
+                            <td> 
 
-                            <td> gallons):  </td>
+                         2010  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2009  </td>
-
-                            <td> 0.6  </td>
+                        0.95  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2010  </td>
+                            <td> 
 
-                            <td> 0.95  </td>
+                         2011  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2011  </td>
-
-                            <td> 1.35  </td>
+                        1.35  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2012  </td>
+                            <td> 
 
-                            <td> 2.0  </td>
+                         2012  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2013  </td>
-
-                            <td> 2.75  </td>
+                        2.0  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2014  </td>
+                            <td> 
 
-                            <td> 3.75  </td>
+                         2013  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2015  </td>
-
-                            <td> 5.5  </td>
+                        2.75  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2016  </td>
+                            <td> 
 
-                            <td> 7.25  </td>
+                         2014  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2017  </td>
-
-                            <td> 9.0  </td>
+                        3.75  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2018  </td>
+                            <td> 
 
-                            <td> 11.0  </td>
+                         2015  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2019  </td>
-
-                            <td> 13.0  </td>
+                        5.5  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2020  </td>
+                            <td> 
 
-                            <td> 15.0  </td>
+                         2016  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2021  </td>
-
-                            <td> 18.0  </td>
+                        7.25  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2022  </td>
+                            <td> 
 
-                            <td> 21.0  </td>
+                         2017  </td>
+
+                            <td> 
+
+                        9.0  </td>
+
+  </tr>
+
+                          <tr>
+
+                            <td> 
+
+                         2018  </td>
+
+                            <td> 
+
+                        11.0  </td>
+
+  </tr>
+
+                          <tr>
+
+                            <td> 
+
+                         2019  </td>
+
+                            <td> 
+
+                        13.0  </td>
+
+  </tr>
+
+                          <tr>
+
+                            <td> 
+
+                         2020  </td>
+
+                            <td> 
+
+                        15.0  </td>
+
+  </tr>
+
+                          <tr>
+
+                            <td> 
+
+                         2021  </td>
+
+                            <td> 
+
+                        18.0  </td>
+
+  </tr>
+
+                          <tr>
+
+                            <td> 
+
+                         2022  </td>
+
+                            <td> 
+
+                        21.0  </td>
 
   </tr>
 
@@ -1257,153 +1371,173 @@
 
                           <tr>
 
-                            <td>    </td>
+                            <td> 
 
-                            <td> Applicable  </td>
+                            Calendar year:
 
-  </tr>
+   </td>
 
-                          <tr>
+                            <td> 
 
-                            <td>    </td>
+                        Applicable volume of cellulosic biofuel
 
-                            <td> volume of  </td>
-
-  </tr>
-
-                          <tr>
-
-                            <td>    </td>
-
-                            <td> cellulosic  </td>
+                        (in billions of gallons):  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>    </td>
+                            <td> 
 
-                            <td> biofuel  </td>
+                         2010  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td> Calendar year:  </td>
-
-                            <td> (in billions of  </td>
+                        0.1  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>    </td>
+                            <td> 
 
-                            <td> gallons):  </td>
+                         2011  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2010  </td>
-
-                            <td> 0.1  </td>
+                        0.25  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2011  </td>
+                            <td> 
 
-                            <td> 0.25  </td>
+                         2012  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2012  </td>
-
-                            <td> 0.5  </td>
+                        0.5  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2013  </td>
+                            <td> 
 
-                            <td> 1.0  </td>
+                         2013  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2014  </td>
-
-                            <td> 1.75  </td>
+                        1.0  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2015  </td>
+                            <td> 
 
-                            <td> 3.0  </td>
+                         2014  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2016  </td>
-
-                            <td> 4.25  </td>
+                        1.75  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2017  </td>
+                            <td> 
 
-                            <td> 5.5  </td>
+                         2015  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2018  </td>
-
-                            <td> 7.0  </td>
+                        3.0  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2019  </td>
+                            <td> 
 
-                            <td> 8.5  </td>
+                         2016  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2020  </td>
-
-                            <td> 10.5  </td>
+                        4.25  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2021  </td>
+                            <td> 
 
-                            <td> 13.5  </td>
+                         2017  </td>
+
+                            <td> 
+
+                        5.5  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2022  </td>
+                            <td> 
 
-                            <td> 16.0  </td>
+                         2018  </td>
+
+                            <td> 
+
+                        7.0  </td>
+
+  </tr>
+
+                          <tr>
+
+                            <td> 
+
+                         2019  </td>
+
+                            <td> 
+
+                        8.5  </td>
+
+  </tr>
+
+                          <tr>
+
+                            <td> 
+
+                         2020  </td>
+
+                            <td> 
+
+                        10.5  </td>
+
+  </tr>
+
+                          <tr>
+
+                            <td> 
+
+                         2021  </td>
+
+                            <td> 
+
+                        13.5  </td>
+
+  </tr>
+
+                          <tr>
+
+                            <td> 
+
+                         2022  </td>
+
+                            <td> 
+
+                        16.0  </td>
 
   </tr>
 
@@ -1417,81 +1551,65 @@
 
                           <tr>
 
-                            <td>    </td>
+                            <td> 
 
-                            <td> Applicable  </td>
+                            Calendar year:
 
-  </tr>
+   </td>
 
-                          <tr>
+                            <td> 
 
-                            <td>    </td>
+                        Applicable volume of biomass-based diesel (in billions
 
-                            <td> volume of  </td>
-
-  </tr>
-
-                          <tr>
-
-                            <td>    </td>
-
-                            <td> biomass-  </td>
+                        of gallons):  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>    </td>
+                            <td> 
 
-                            <td> based diesel  </td>
+                         2009  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td> Calendar year:  </td>
-
-                            <td> (in billions of  </td>
+                        0.5  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>    </td>
+                            <td> 
 
-                            <td>  gallons):  </td>
+                         2010  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2009  </td>
-
-                            <td> 0.5  </td>
+                        0.65  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2010  </td>
+                            <td> 
 
-                            <td> 0.65  </td>
+                         2011  </td>
 
-  </tr>
+                            <td> 
 
-                          <tr>
-
-                            <td>  2011  </td>
-
-                            <td> 0.80  </td>
+                        0.80  </td>
 
   </tr>
 
                           <tr>
 
-                            <td>  2012  </td>
+                            <td> 
 
-                            <td> 1.0  </td>
+                         2012  </td>
+
+                            <td> 
+
+                        1.0  </td>
 
   </tr>
 

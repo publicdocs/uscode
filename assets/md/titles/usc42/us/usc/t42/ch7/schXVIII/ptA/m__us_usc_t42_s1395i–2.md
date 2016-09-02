@@ -87,65 +87,75 @@
 
               <tr>
 
-                <td>    </td>
+                <td> 
 
-                <td> The applicable  </td>
+            For a month in:  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
+            The applicable
 
-                <td>    </td>
-
-                <td> reduction  </td>
+            reduction percent is:  </td>
 
   </tr>
 
               <tr>
 
-                <td> For a month in:  </td>
+                <td> 
 
-                <td> percent is:  </td>
+            1994  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>  1994  </td>
-
-                <td> 25 percent    </td>
+            25 percent    </td>
 
   </tr>
 
               <tr>
 
-                <td>  1995  </td>
+                <td> 
 
-                <td> 30 percent    </td>
+            1995  </td>
 
-  </tr>
+                <td> 
 
-              <tr>
-
-                <td>  1996  </td>
-
-                <td> 35 percent    </td>
+            30 percent    </td>
 
   </tr>
 
               <tr>
 
-                <td>  1997  </td>
+                <td> 
 
-                <td> 40 percent    </td>
+            1996  </td>
+
+                <td> 
+
+            35 percent    </td>
 
   </tr>
 
               <tr>
 
-                <td>  1998 or subsequent year  </td>
+                <td> 
 
-                <td> 45 percent.  </td>
+            1997  </td>
+
+                <td> 
+
+            40 percent    </td>
+
+  </tr>
+
+              <tr>
+
+                <td> 
+
+            1998 or subsequent year  </td>
+
+                <td> 
+
+            45 percent.  </td>
 
   </tr>
 

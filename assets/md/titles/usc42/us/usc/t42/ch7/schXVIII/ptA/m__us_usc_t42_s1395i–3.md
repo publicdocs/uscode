@@ -467,11 +467,11 @@
 
                 the skilled nursing facility must provide notice to the State agency responsible for the licensing of the facility, at the time of the change, of the change and of the identity of each new person, company, or individual described in the respective clause.
 
-            (C)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Two subpars. (C) have been enacted. See Amendment of Subsection (d)(1) note below.__  __ </sup></sup> __  __Skilled nursing facility administrator__ 
+            (C)  __ <sup>\[__  __4__  __\]</sup> __  __ <sup><sup> __  __4__  __ So in original. Two subpars. (C) have been enacted. See Amendment of Subsection (d)(1) note below.__  __ </sup></sup> __  __Skilled nursing facility administrator__ 
 
                 The administrator of a skilled nursing facility must meet standards established by the Secretary under subsection (f)(4) of this section.
 
-            (C)  __1__  __Availability of survey, certification, and complaint investigation reports__ 
+            (C)  __4__  __Availability of survey, certification, and complaint investigation reports__ 
 
             A skilled nursing facility must—
 
@@ -569,7 +569,7 @@
 
             For purposes of subsections (b)(5) and (e)(1)(A) of this section, the Secretary shall establish, by not later than September 1, 1988—
 
-                (i) requirements for the approval of nurse aide training and competency evaluation programs, including requirements relating to (I) the areas to be covered in such a program (including at least basic nursing skills, personal care skills, recognition of mental health and social service needs, care of cognitively impaired residents, basic restorative services, and residents’ rights) and content of the curriculum (including, in the case of initial training and, if the Secretary determines appropriate, in the case of ongoing training, dementia management training, and patient abuse prevention training, <sup>\[4\]</sup>  <sup><sup> 4 So in original. A closing parenthesis probably should appear before the comma. </sup></sup>  (II) minimum hours of initial and ongoing training and retraining (including not less than 75 hours in the case of initial training), (III) qualifications of instructors, and (IV) procedures for determination of competency;
+                (i) requirements for the approval of nurse aide training and competency evaluation programs, including requirements relating to (I) the areas to be covered in such a program (including at least basic nursing skills, personal care skills, recognition of mental health and social service needs, care of cognitively impaired residents, basic restorative services, and residents’ rights) and content of the curriculum (including, in the case of initial training and, if the Secretary determines appropriate, in the case of ongoing training, dementia management training, and patient abuse prevention training, <sup>\[5\]</sup>  <sup><sup> 5 So in original. A closing parenthesis probably should appear before the comma. </sup></sup>  (II) minimum hours of initial and ongoing training and retraining (including not less than 75 hours in the case of initial training), (III) qualifications of instructors, and (IV) procedures for determination of competency;
 
                 (ii) requirements for the approval of nurse aide competency evaluation programs, including requirement relating to the areas to be covered in such a program, including at least basic nursing skills, personal care skills, recognition of mental health and social service needs, care of cognitively impaired residents, basic restorative services, residents’ rights, and procedures for determination of competency;
 
@@ -583,7 +583,7 @@
 
                     (II) prohibit the imposition on a nurse aide who is employed by (or who has received an offer of employment from) a facility on the date on which the aide begins either such program of any charges (including any charges for textbooks and other required course materials and any charges for the competency evaluation) for either such program, and
 
-                    (III) in the case of a nurse aide not described in subclause (II) who is employed by (or who has received an offer of employment from) a facility not later than 12 months after completing either such program, the State shall provide for the reimbursement of costs incurred in completing such program on a prorata  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “pro rata”. </sup></sup>  basis during the period in which the nurse aide is so employed.
+                    (III) in the case of a nurse aide not described in subclause (II) who is employed by (or who has received an offer of employment from) a facility not later than 12 months after completing either such program, the State shall provide for the reimbursement of costs incurred in completing such program on a prorata  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be “pro rata”. </sup></sup>  basis during the period in which the nurse aide is so employed.
 
             (B) __Approval of certain programs__ 
 
@@ -671,7 +671,7 @@
 
             (A) __In general__ 
 
-                The Secretary shall conduct a special focus facility program for enforcement of requirements for skilled nursing facilities that the Secretary has identified as having substantially failed to meet applicable requirement  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be “requirements”. </sup></sup>  of this chapter.
+                The Secretary shall conduct a special focus facility program for enforcement of requirements for skilled nursing facilities that the Secretary has identified as having substantially failed to meet applicable requirement  <sup>\[7\]</sup>  <sup><sup> 7 So in original. Probably should be “requirements”. </sup></sup>  of this chapter.
 
             (B) __Periodic surveys__ 
 
@@ -1011,7 +1011,7 @@
 
                     (II) with respect to such instances of violations or crimes committed inside of the facility that were the violations or crimes of abuse, neglect, and exploitation, criminal sexual abuse, or other violations or crimes that resulted in serious bodily injury; and
 
-                    (III)  <sup>\[7\]</sup>  <sup><sup> 7 So in original. Probably should be cl. (vi). </sup></sup>  the number of civil monetary penalties levied against the facility, employees, contractors, and other agents.
+                    (III)  <sup>\[8\]</sup>  <sup><sup> 8 So in original. Probably should be cl. (vi). </sup></sup>  the number of civil monetary penalties levied against the facility, employees, contractors, and other agents.
 
             (B) __Deadline for provision of information__ 
 

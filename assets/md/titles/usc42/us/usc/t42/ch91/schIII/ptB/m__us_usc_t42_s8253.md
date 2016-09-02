@@ -23,97 +23,133 @@
 
           <tr>
 
-            <td> Fiscal Year  </td>
+            <td> 
 
-            <td> Percentage  </td>
+        Fiscal Year  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>    </td>
-
-            <td> Reduction  </td>
+        Percentage Reduction  </td>
 
   </tr>
 
           <tr>
 
-            <td>  2006  </td>
+            <td> 
 
-            <td> 2    </td>
+         2006  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>  2007  </td>
-
-            <td> 4    </td>
+        2    </td>
 
   </tr>
 
           <tr>
 
-            <td>  2008  </td>
+            <td> 
 
-            <td> 9    </td>
+         2007  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>  2009  </td>
-
-            <td> 12    </td>
+        4    </td>
 
   </tr>
 
           <tr>
 
-            <td>  2010  </td>
+            <td> 
 
-            <td> 15    </td>
+         2008  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>  2011  </td>
-
-            <td> 18    </td>
+        9    </td>
 
   </tr>
 
           <tr>
 
-            <td>  2012  </td>
+            <td> 
 
-            <td> 21    </td>
+         2009  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>  2013  </td>
-
-            <td> 24    </td>
+        12    </td>
 
   </tr>
 
           <tr>
 
-            <td>  2014  </td>
+            <td> 
 
-            <td> 27    </td>
+         2010  </td>
+
+            <td> 
+
+        15    </td>
 
   </tr>
 
           <tr>
 
-            <td>  2015  </td>
+            <td> 
 
-            <td> 30.  </td>
+         2011  </td>
+
+            <td> 
+
+        18    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+         2012  </td>
+
+            <td> 
+
+        21    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+         2013  </td>
+
+            <td> 
+
+        24    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+         2014  </td>
+
+            <td> 
+
+        27    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+         2015  </td>
+
+            <td> 
+
+        30.  </td>
 
   </tr>
 

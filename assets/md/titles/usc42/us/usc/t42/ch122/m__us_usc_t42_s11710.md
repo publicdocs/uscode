@@ -25,7 +25,7 @@
 
     Section was formerly classified to [section 11709 of this title][/us/usc/t42/s11709] prior to the general amendment of this chapter by [Pub. L. 102–396][/us/pl/102/396].
 
-    [Pub. L. 100–579][/us/pl/100/579] and [Pub. L. 100–690][/us/pl/100/690] enacted substantially identical sections. The text of this section is based on [section 1 of Pub. L. 100–579][/us/pl/100/579/s1], as subsequently amended.
+    [Pub. L. 100–579][/us/pl/100/579] and [Pub. L. 100–690][/us/pl/100/690] enacted substantially identical sections. The text of this section is based on [section 11 of Pub. L. 100–579][/us/pl/100/579/s11], as subsequently amended.
 
  __Prior Provisions__ 
 
@@ -54,7 +54,7 @@
 [/us/pl/102/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F396
 [/us/pl/100/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579
 [/us/pl/100/690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690
-[/us/pl/100/579/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579%2Fs1
+[/us/pl/100/579/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579%2Fs11
 [/us/pl/100/579/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F579%2Fs12
 [/us/stat/102/2923]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2923
 [/us/pl/100/690/s2312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2312

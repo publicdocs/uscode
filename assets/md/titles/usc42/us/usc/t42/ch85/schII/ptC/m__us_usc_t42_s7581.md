@@ -37,145 +37,217 @@
 
           <tr>
 
-            <td>   Specifications of Base Gasoline Used  </td>
+            <td>   </td>
 
   </tr>
 
           <tr>
 
-            <td>     as Basis for Reactivity Readjustment:  </td>
+            <td> 
+
+        Specifications of Base Gasoline Used as Basis for Reactivity Readjustment:  </td>
+
+            <td>   </td>
 
   </tr>
 
           <tr>
 
-            <td>  API gravity  </td>
+            <td> 
 
-            <td> 57.8   </td>
+        API gravity  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>  Sulfur, ppm  </td>
-
-            <td> 317    </td>
+        57.8   </td>
 
   </tr>
 
           <tr>
 
-            <td>  Color  </td>
+            <td> 
 
-            <td> Purple  </td>
+        Sulfur, ppm  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>  Benzene, vol. %  </td>
-
-            <td> 1.35  </td>
+        317     </td>
 
   </tr>
 
           <tr>
 
-            <td>  Reid vapor pressure  </td>
+            <td> 
 
-            <td> 8.7   </td>
+        Color  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>  Drivability  </td>
-
-            <td> 1195    </td>
+        Purple  </td>
 
   </tr>
 
           <tr>
 
-            <td>  Antiknock index  </td>
+            <td> 
 
-            <td> 87.3   </td>
+        Benzene, vol. %  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>   Distillation, D–86 °F  </td>
+        1.35  </td>
 
   </tr>
 
           <tr>
 
-            <td>  IBP  </td>
+            <td> 
 
-            <td> 92    </td>
+        Reid vapor pressure  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>  10%  </td>
-
-            <td> 126    </td>
+        8.7   </td>
 
   </tr>
 
           <tr>
 
-            <td>  50%  </td>
+            <td> 
 
-            <td> 219    </td>
+        Drivability  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>  90%  </td>
-
-            <td> 327    </td>
+        1195     </td>
 
   </tr>
 
           <tr>
 
-            <td>  EP  </td>
+            <td> 
 
-            <td> 414    </td>
+        Antiknock index  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>   Hydrocarbon Type, Vol. % FIA:  </td>
+        87.3   </td>
 
   </tr>
 
           <tr>
 
-            <td>  Aromatics  </td>
+            <td> 
 
-            <td> 30.9   </td>
+        Distillation, D–86 °F  </td>
 
-  </tr>
-
-          <tr>
-
-            <td>  Olefins  </td>
-
-            <td> 8.2   </td>
+            <td>   </td>
 
   </tr>
 
           <tr>
 
-            <td>  Saturates  </td>
+            <td> 
 
-            <td> 60.9   </td>
+        IBP  </td>
+
+            <td> 
+
+        92     </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        10%  </td>
+
+            <td> 
+
+        126     </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        50%  </td>
+
+            <td> 
+
+        219     </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        90%  </td>
+
+            <td> 
+
+        327     </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        EP  </td>
+
+            <td> 
+
+        414     </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Hydrocarbon Type, Vol. % FIA:  </td>
+
+            <td>   </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Aromatics  </td>
+
+            <td> 
+
+        30.9   </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Olefins  </td>
+
+            <td> 
+
+        8.2   </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Saturates  </td>
+
+            <td> 
+
+        60.9   </td>
 
   </tr>
 

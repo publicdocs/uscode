@@ -153,19 +153,15 @@
 
 >       <tr>
 
->         <td>  “In the case of an individual  </td>
+>         <td> 
 
->         <td> The number of quarters  </td>
+>      “In the case of an individual who on
 
->     
+  January 1, 1984, is—  </td>
 
-  </tr>
+>         <td> 
 
->       <tr>
-
->         <td>   who on January 1, 1984,  </td>
-
->         <td> of coverage so required  </td>
+>     The number of quarters of coverage so required shall be—  </td>
 
 >     
 
@@ -173,19 +169,13 @@
 
 >       <tr>
 
->         <td>   is—  </td>
+>         <td> 
 
->         <td> shall be—  </td>
+>     age 60 or over  </td>
 
->     
+>         <td> 
 
-  </tr>
-
->       <tr>
-
->         <td> age 60 or over  </td>
-
->         <td> 6    </td>
+>     6   </td>
 
 >     
 
@@ -193,19 +183,13 @@
 
 >       <tr>
 
->         <td> age 59 or over but less than age 60  </td>
+>         <td> 
 
->         <td> 8    </td>
+>     age 59 or over but less than age 60  </td>
 
->     
+>         <td> 
 
-  </tr>
-
->       <tr>
-
->         <td> age 58 or over but less than age 59  </td>
-
->         <td> 12    </td>
+>     8   </td>
 
 >     
 
@@ -213,9 +197,13 @@
 
 >       <tr>
 
->         <td> age 57 or over but less than age 58  </td>
+>         <td> 
 
->         <td> 16    </td>
+>     age 58 or over but less than age 59  </td>
+
+>         <td> 
+
+>     12   </td>
 
 >     
 
@@ -223,9 +211,27 @@
 
 >       <tr>
 
->         <td> age 55 or over but less than age 57  </td>
+>         <td> 
 
->         <td> 20.”  </td>
+>     age 57 or over but less than age 58  </td>
+
+>         <td> 
+
+>     16   </td>
+
+>     
+
+  </tr>
+
+>       <tr>
+
+>         <td> 
+
+>     age 55 or over but less than age 57  </td>
+
+>         <td> 
+
+>     20.”  </td>
 
 >     
 

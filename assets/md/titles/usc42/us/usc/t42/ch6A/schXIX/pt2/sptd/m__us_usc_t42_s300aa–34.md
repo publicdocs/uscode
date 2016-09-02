@@ -41,129 +41,173 @@
 
           <tr>
 
-            <td>    </td>
+            <td> 
 
-            <td> Total number of awards  </td>
+         Period reviewed:
 
-  </tr>
+   </td>
 
-          <tr>
+            <td> 
 
-            <td>    </td>
+        Total
 
-            <td> by the end of the period  </td>
-
-  </tr>
-
-          <tr>
-
-            <td> Period reviewed:  </td>
-
-            <td> reviewed  </td>
+        number of awards by the end of the period reviewed  </td>
 
   </tr>
 
           <tr>
 
-            <td> 12 months after December 22, 1987  </td>
+            <td> 
 
-            <td> 150    </td>
+        12 months after December 22, 1987  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> 13th through the 15th month after December 22, 1987  </td>
-
-            <td> 188    </td>
+        150    </td>
 
   </tr>
 
           <tr>
 
-            <td> 16th through the 18th month after December 22, 1987  </td>
+            <td> 
 
-            <td> 225    </td>
+        13th through the 15th month after December 22, 1987  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> 19th through the 21st month after December 22, 1987  </td>
-
-            <td> 263    </td>
+        188    </td>
 
   </tr>
 
           <tr>
 
-            <td> 22nd through the 24th month after December 22, 1987  </td>
+            <td> 
 
-            <td> 300    </td>
+        16th through the 18th month after December 22, 1987  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> 25th through the 27th month after December 22, 1987  </td>
-
-            <td> 338    </td>
+        225    </td>
 
   </tr>
 
           <tr>
 
-            <td> 28th through the 30th month after December 22, 1987  </td>
+            <td> 
 
-            <td> 375    </td>
+        19th through the 21st month after December 22, 1987  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> 31st through the 33rd month after December 22, 1987  </td>
-
-            <td> 413    </td>
+        263    </td>
 
   </tr>
 
           <tr>
 
-            <td> 34th through the 36th month after December 22, 1987  </td>
+            <td> 
 
-            <td> 450    </td>
+        22nd through the 24th month after December 22, 1987  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> 37th through the 39th month after December 22, 1987  </td>
-
-            <td> 488    </td>
+        300    </td>
 
   </tr>
 
           <tr>
 
-            <td> 40th through the 42nd month after December 22, 1987  </td>
+            <td> 
 
-            <td> 525    </td>
+        25th through the 27th month after December 22, 1987  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> 43rd through the 45th month after December 22, 1987  </td>
-
-            <td> 563    </td>
+        338    </td>
 
   </tr>
 
           <tr>
 
-            <td> 46th through the 48th month after December 22, 1987  </td>
+            <td> 
 
-            <td> 600.     </td>
+        28th through the 30th month after December 22, 1987  </td>
+
+            <td> 
+
+        375    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        31st through the 33rd month after December 22, 1987  </td>
+
+            <td> 
+
+        413    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        34th through the 36th month after December 22, 1987  </td>
+
+            <td> 
+
+        450    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        37th through the 39th month after December 22, 1987  </td>
+
+            <td> 
+
+        488    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        40th through the 42nd month after December 22, 1987  </td>
+
+            <td> 
+
+        525    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        43rd through the 45th month after December 22, 1987  </td>
+
+            <td> 
+
+        563    </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        46th through the 48th month after December 22, 1987  </td>
+
+            <td> 
+
+        600.  </td>
 
   </tr>
 

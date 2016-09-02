@@ -237,57 +237,61 @@
 
                   <tr>
 
-                    <td>    </td>
+                    <td> 
 
-                    <td> The minimum  </td>
+                  If the month is in fiscal year:  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>  If the month is  </td>
-
-                    <td> average number of  </td>
+                The minimum average number of hours per week is:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   in fiscal year:  </td>
+                    <td> 
 
-                    <td> hours per week is:  </td>
+                 1997  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> 1997  </td>
-
-                    <td> 20     </td>
+                20    </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 1998  </td>
+                    <td> 
 
-                    <td> 20     </td>
+                 1998  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td> 1999  </td>
-
-                    <td> 25     </td>
+                20    </td>
 
   </tr>
 
                   <tr>
 
-                    <td> 2000 or thereafter  </td>
+                    <td> 
 
-                    <td> 30.   </td>
+                 1999  </td>
+
+                    <td> 
+
+                25    </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                 2000 or thereafter  </td>
+
+                    <td> 
+
+                30.  </td>
 
   </tr>
 

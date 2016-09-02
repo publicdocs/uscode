@@ -125,57 +125,63 @@
 
                   <tr>
 
-                    <td> If the modified adjusted gross income is:  </td>
+                    <td> 
 
-                    <td> The appli-  </td>
+                  If the modified adjusted gross
 
-  </tr>
+                   income is:  </td>
 
-                  <tr>
+                    <td> 
 
-                    <td>    </td>
-
-                    <td> cable per-  </td>
+                The applicable percentage is:  </td>
 
   </tr>
 
                   <tr>
 
-                    <td>    </td>
+                    <td> 
 
-                    <td> centage is:  </td>
+                More than $80,000 but not more than $100,000  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   More than $80,000 but not more than $100,000  </td>
-
-                    <td> 35 percent  </td>
+                35 percent    </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   More than $100,000 but not more than $150,000  </td>
+                    <td> 
 
-                    <td> 50 percent  </td>
+                More than $100,000 but not more than $150,000  </td>
 
-  </tr>
+                    <td> 
 
-                  <tr>
-
-                    <td>   More than $150,000 but not more than $200,000  </td>
-
-                    <td> 65 percent  </td>
+                50 percent    </td>
 
   </tr>
 
                   <tr>
 
-                    <td>   More than $200,000  </td>
+                    <td> 
 
-                    <td> 80 percent.  </td>
+                More than $150,000 but not more than $200,000  </td>
+
+                    <td> 
+
+                65 percent    </td>
+
+  </tr>
+
+                  <tr>
+
+                    <td> 
+
+                More than $200,000  </td>
+
+                    <td> 
+
+                80 percent.  </td>
 
   </tr>
 

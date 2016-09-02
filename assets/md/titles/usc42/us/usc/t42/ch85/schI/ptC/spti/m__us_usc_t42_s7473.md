@@ -27,67 +27,99 @@
 
           <tr>
 
-            <td>     Pollutant        Maximum allowable increase (in  </td>
+            <td> 
+
+          Pollutant
+
+   </td>
+
+            <td> 
+
+        Maximum
+
+        allowable
+
+        increase (in micrograms per cubic meter)  </td>
 
   </tr>
 
           <tr>
+
+            <td> 
+
+        Particulate matter:  </td>
 
             <td>   </td>
 
-            <td> micrograms per cubic meter)  </td>
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Annual geometric mean  </td>
+
+            <td> 
+
+        5    </td>
 
   </tr>
 
           <tr>
 
-            <td> Particulate matter:  </td>
+            <td> 
+
+        Twenty-four-hour maximum  </td>
+
+            <td> 
+
+        10    </td>
 
   </tr>
 
           <tr>
 
-            <td>   Annual geometric mean  </td>
+            <td> 
 
-            <td>    5  </td>
+        Sulfur dioxide:  </td>
 
-  </tr>
-
-          <tr>
-
-            <td>   Twenty-four-hour maximum  </td>
-
-            <td>   10  </td>
+            <td>   </td>
 
   </tr>
 
           <tr>
 
-            <td> Sulfur dioxide:  </td>
+            <td> 
+
+        Annual arithmetic mean  </td>
+
+            <td> 
+
+        2    </td>
 
   </tr>
 
           <tr>
 
-            <td>   Annual arithmetic mean  </td>
+            <td> 
 
-            <td>    2  </td>
+        Twenty-four-hour maximum  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>   Twenty-four-hour maximum  </td>
-
-            <td>    5  </td>
+        5    </td>
 
   </tr>
 
           <tr>
 
-            <td>   Three-hour maximum  </td>
+            <td> 
 
-            <td>   25  </td>
+        Three-hour maximum  </td>
+
+            <td> 
+
+        25    </td>
 
   </tr>
 
@@ -99,67 +131,99 @@
 
           <tr>
 
-            <td>     Pollutant        Maximum allowable increase (in  </td>
+            <td> 
+
+          Pollutant
+
+   </td>
+
+            <td> 
+
+        Maximum
+
+        allowable
+
+        increase (in micrograms per cubic meter)  </td>
 
   </tr>
 
           <tr>
+
+            <td> 
+
+        Particulate matter:  </td>
 
             <td>   </td>
 
-            <td> micrograms per cubic meter)  </td>
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Annual geometric mean  </td>
+
+            <td> 
+
+        19    </td>
 
   </tr>
 
           <tr>
 
-            <td> Particulate matter:  </td>
+            <td> 
+
+        Twenty-four-hour maximum  </td>
+
+            <td> 
+
+        37    </td>
 
   </tr>
 
           <tr>
 
-            <td>   Annual geometric mean  </td>
+            <td> 
 
-            <td>    19  </td>
+        Sulfur dioxide:  </td>
 
-  </tr>
-
-          <tr>
-
-            <td>   Twenty-four-hour maximum  </td>
-
-            <td>    37  </td>
+            <td>   </td>
 
   </tr>
 
           <tr>
 
-            <td> Sulfur dioxide:  </td>
+            <td> 
+
+        Annual arithmetic mean  </td>
+
+            <td> 
+
+        20    </td>
 
   </tr>
 
           <tr>
 
-            <td>   Annual arithmetic mean  </td>
+            <td> 
 
-            <td>    20  </td>
+        Twenty-four-hour maximum  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>   Twenty-four-hour maximum  </td>
-
-            <td>    91  </td>
+        91    </td>
 
   </tr>
 
           <tr>
 
-            <td>   Three-hour maximum  </td>
+            <td> 
 
-            <td>   512  </td>
+        Three-hour maximum  </td>
+
+            <td> 
+
+        512    </td>
 
   </tr>
 
@@ -171,67 +235,99 @@
 
           <tr>
 
-            <td>     Pollutant        Maximum allowable increase (in  </td>
+            <td> 
+
+          Pollutant
+
+   </td>
+
+            <td> 
+
+        Maximum
+
+        allowable
+
+        increase (in micrograms per cubic meter)  </td>
 
   </tr>
 
           <tr>
+
+            <td> 
+
+        Particulate matter:  </td>
 
             <td>   </td>
 
-            <td> micrograms per cubic meter)  </td>
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        Annual geometric mean  </td>
+
+            <td> 
+
+        37    </td>
 
   </tr>
 
           <tr>
 
-            <td> Particulate matter:  </td>
+            <td> 
+
+        Twenty-four-hour maximum  </td>
+
+            <td> 
+
+        75    </td>
 
   </tr>
 
           <tr>
 
-            <td>   Annual geometric mean  </td>
+            <td> 
 
-            <td>    37  </td>
+        Sulfur dioxide:  </td>
 
-  </tr>
-
-          <tr>
-
-            <td>   Twenty-four-hour maximum  </td>
-
-            <td>    75  </td>
+            <td>   </td>
 
   </tr>
 
           <tr>
 
-            <td> Sulfur dioxide:  </td>
+            <td> 
+
+        Annual arithmetic mean  </td>
+
+            <td> 
+
+        40    </td>
 
   </tr>
 
           <tr>
 
-            <td>   Annual arithmetic mean  </td>
+            <td> 
 
-            <td>    40  </td>
+        Twenty-four-hour maximum  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>   Twenty-four-hour maximum  </td>
-
-            <td>   182  </td>
+        182    </td>
 
   </tr>
 
           <tr>
 
-            <td>   Three-hour maximum  </td>
+            <td> 
 
-            <td>   700  </td>
+        Three-hour maximum  </td>
+
+            <td> 
+
+        700    </td>
 
   </tr>
 
