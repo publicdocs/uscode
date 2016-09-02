@@ -555,7 +555,7 @@ Minidoka National Historic Site, Idaho.—Pub. L. 110–229, title III, § 313
 
     <td> 
 
-Minuteman Missile National Historic Site, South Dakota.—Pub. L. 106–115, Nov. 29, 1999, 113 Stat. 1540.  </td>
+Minuteman Missile National Historic Site, South Dakota.—Pub. L. 106–115, Nov. 29, 1999, 113 Stat. 1540; Pub. L. 113–36, Sept. 18, 2013, 127 Stat. 521.  </td>
 
   </tr>
 

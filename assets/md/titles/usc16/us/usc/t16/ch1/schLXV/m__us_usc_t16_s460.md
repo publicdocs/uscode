@@ -33,6 +33,10 @@
 
     Transfer of functions by act June 30, 1949, as effective July 1, 1949, see section 605, formerly § 505, of [act June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], [63 Stat. 403][/us/stat/63/403]; renumbered by [act Sept. 5, 1950, ch. 849, § 6(a)][/us/act/1950-09-05/ch849/s6/a], (b), [64 Stat. 583][/us/stat/64/583].
 
+ __Natchez Trace Parkway Land Conveyance__ 
+
+    [Pub. L. 113–35][/us/pl/113/35], Sept. 18, 2013, [127 Stat. 519][/us/stat/127/519], known as the Natchez Trace Parkway Land Conveyance Act of 2013, required the Secretary of the Interior to convey to the State of Mississippi, by quitclaim deed and without consideration, all right, title, and interest of the United States in and to the 2 parcels of land totaling approximately 67 acres generally depicted as “Proposed Conveyance” on the map entitled “Natchez Trace Parkway, Proposed Boundary Change” on file and available for public inspection in the appropriate offices of the National Park Service. The deed of conveyance shall reserve an easement to the United States restricting the use of the parcel commonly known as the “bean field property” to only those uses which are compatible with the Natchez Trace Parkway. On completion of the conveyance the boundary of the Natchez Trace Parkway shall be adjusted to exclude the conveyed land and effective on Sept. 18, 2013, said boundary is adjusted to include the approximately 10 acres of land that is generally depicted as “Proposed Addition” on the above referenced map and such 10 acres shall be administered by the Secretary as part of the Natchez Trace Parkway.
+
  __Adjustment of Boundary of Parkway__ 
 
 [Pub. L. 106–527][/us/pl/106/527], Nov. 22, 2000, [114 Stat. 2515][/us/stat/114/2515], provided that:
@@ -119,6 +123,8 @@
 [/us/stat/63/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F403
 [/us/act/1950-09-05/ch849/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-05%2Fch849%2Fs6%2Fa
 [/us/stat/64/583]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F583
+[/us/pl/113/35]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F35
+[/us/stat/127/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F519
 [/us/pl/106/527]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F527
 [/us/stat/114/2515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2515
 [/us/pl/85/746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F746
