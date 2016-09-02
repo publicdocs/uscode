@@ -33,7 +33,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2421, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 812][/us/stat/62/812]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 47, [63 Stat. 96][/us/stat/63/96]; [Pub. L. 99–628][/us/pl/99/628], § 5(b)(1), Nov. 7, 1986, [100 Stat. 3511][/us/stat/100/3511]; [Pub. L. 105–314, title I][/us/pl/105/314/tI], § 106, Oct. 30, 1998, [112 Stat. 2977][/us/stat/112/2977], related to transportation of individuals generally, prior to repeal by [Pub. L. 114–22, title III][/us/pl/114/22/tIII], § 303, May 29, 2015, [129 Stat. 255][/us/stat/129/255].)
+    A prior section 2421, [act June 25, 1948, ch. 645][/us/act/1948-06-25/ch645], [62 Stat. 812][/us/stat/62/812]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 47, [63 Stat. 96][/us/stat/63/96]; [Pub. L. 99–628][/us/pl/99/628], § 5(b)(1), Nov. 7, 1986, [100 Stat. 3511][/us/stat/100/3511]; [Pub. L. 105–314, title I][/us/pl/105/314/tI], § 106, Oct. 30, 1998, [112 Stat. 2977][/us/stat/112/2977], related to transportation of individuals generally, prior to repeal by [Pub. L. 114–22, title III][/us/pl/114/22/tIII], § 303, May 29, 2015, [129 Stat. 255][/us/stat/129/255].
 
 ----------
 

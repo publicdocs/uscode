@@ -43,7 +43,7 @@
 
     Section 620A of the Foreign Assistance Act of 1961, referred to in subsec. (d)(3), is classified to [section 2371 of Title 22][/us/usc/t22/s2371], Foreign Relations and Intercourse.
 
-    Section 831(f)(1), referred to in subsec. (d)(4), was redesignated as section 831(g)(1) by [Pub. L. 114–23, title VIII][/us/pl/114/23/tVIII], § 812(d), June 2, 2015, [129 Stat. 312][/us/stat/129/312].
+    Section 831(f)(1), referred to in subsec. (d)(4), was redesignated section 831(g)(1) by [Pub. L. 114–23, title VIII][/us/pl/114/23/tVIII], § 812(d), June 2, 2015, [129 Stat. 312][/us/stat/129/312].
 
  __Prior Provisions__ 
 

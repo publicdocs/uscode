@@ -67,7 +67,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1836" data-uslm-ref="/us/usc/t18/s1836">1836.</a>  </td>
 
-    <td> Civil proceedings to enjoin violations.  </td>
+    <td> Civil proceedings.  </td>
 
   </tr>
 
@@ -99,6 +99,8 @@
 
  __Amendments__ 
 
+    2015—[Pub. L. 114–153][/us/pl/114/153], § 2(d)(2), May 11, 2016, [130 Stat. 381][/us/stat/130/381], substituted “Civil proceedings” for “Civil proceedings to enjoin violations” in item 1836.
+
     2002—[Pub. L. 107–273, div. B, title IV][/us/pl/107/273/dB/tIV], § 4002(f)(1), Nov. 2, 2002, [116 Stat. 1811][/us/stat/116/1811], substituted “Applicability to conduct” for “Conduct” in item 1837.
 
 ----------
@@ -108,6 +110,8 @@
 ----------
 ----------
 
+[/us/pl/114/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F153
+[/us/stat/130/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F381
 [/us/pl/107/273/dB/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F273%2FdB%2FtIV
 [/us/stat/116/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1811
 

@@ -95,7 +95,7 @@
 
             (B) any radioactive material dispersal or radiation-emitting device that may, owing to its radiological properties, cause death, serious bodily injury or substantial damage to property or the environment;
 
-        (3) “international organization” has the meaning given that term in [section 831(f)(3) of this title][/us/usc/t18/s831/f/3];  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
+        (3) “international organization” has the meaning given that term in section 831(f)(3)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title;
 
         (4) “military forces of a state” means the armed forces of a country that are organized, trained and equipped under its internal law for the primary purpose of national defense or security and persons acting in support of those armed forces who are under their formal command, control and responsibility;
 
@@ -111,11 +111,11 @@
 
             (C) a facility (including associated buildings and equipment) in which nuclear material is produced, processed, used, handled, stored or disposed of, if damage to or interference with such facility could lead to the release of significant amounts of radiation or radioactive material;
 
-        (7) “nuclear material” has the meaning given that term in [section 831(f)(1) of this title][/us/usc/t18/s831/f/1]; 1
+        (7) “nuclear material” has the meaning given that term in section 831(f)(1) 1 of this title;
 
         (8) “radioactive material” means nuclear material and other radioactive substances that contain nuclides that undergo spontaneous disintegration (a process accompanied by emission of one or more types of ionizing radiation, such as alpha-, beta-, neutron particles and gamma rays) and that may, owing to their radiological or fissile properties, cause death, serious bodily injury or substantial damage to property or to the environment;
 
-        (9) “serious bodily injury” has the meaning given that term in [section 831(f)(4) of this title][/us/usc/t18/s831/f/4]; 1
+        (9) “serious bodily injury” has the meaning given that term in section 831(f)(4) 1 of this title;
 
         (10) “state” has the same meaning as that term has under international law, and includes all political subdivisions thereof;
 
@@ -144,10 +144,7 @@
 
 [/us/usc/t46/s70502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502
 [/us/usc/t18/s2332f/e/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332f%2Fe%2F11
-[/us/usc/t18/s831/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs831%2Ff%2F3
 [/us/usc/t8/s1101/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F22
-[/us/usc/t18/s831/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs831%2Ff%2F1
-[/us/usc/t18/s831/f/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs831%2Ff%2F4
 [/us/usc/t18/s2332f/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332f%2Fe%2F3
 [/us/usc/t33/s1502/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs1502%2F19
 [/us/usc/t46/s70502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502

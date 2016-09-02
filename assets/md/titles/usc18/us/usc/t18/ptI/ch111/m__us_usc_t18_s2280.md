@@ -137,7 +137,7 @@
 
         (7) “infrastructure facility” has the meaning given the term in [section 2332f(e)(5) of this title][/us/usc/t18/s2332f/e/5];
 
-        (8) “international organization” has the meaning given the term in [section 831(f)(3) of this title][/us/usc/t18/s831/f/3];
+        (8) “international organization” has the meaning given the term in section 831(f)(3)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title;
 
         (9) “military forces of a state” means the armed forces of a state which are organized, trained, and equipped under its internal law for the primary purpose of national defense or security, and persons acting in support of those armed forces who are under their formal command, control, and responsibility;
 
@@ -203,6 +203,10 @@
 
 (Added [Pub. L. 103–322, title VI][/us/pl/103/322/tVI], § 60019(a), Sept. 13, 1994, [108 Stat. 1975][/us/stat/108/1975]; amended [Pub. L. 104–132, title VII][/us/pl/104/132/tVII], §§ 722, 723(a)(1), Apr. 24, 1996, [110 Stat. 1299][/us/stat/110/1299], 1300; [Pub. L. 114–23, title VIII][/us/pl/114/23/tVIII], § 801, June 2, 2015, [129 Stat. 300][/us/stat/129/300].)
 
+ __References in Text__ 
+
+    [Section 831(f)(3) of this title][/us/usc/t18/s831/f/3], referred to in subsec. (d)(8), was redesignated section 831(g)(3) by [Pub. L. 114–23, title VIII][/us/pl/114/23/tVIII], § 812(d), June 2, 2015, [129 Stat. 312][/us/stat/129/312].
+
  __Amendments__ 
 
     2015—Subsec. (b)(1)(A)(i). [Pub. L. 114–23][/us/pl/114/23], § 801(1)(A), substituted “a vessel of the United States or a vessel subject to the jurisdiction of the United States (as defined in [section 70502 of title 46][/us/usc/t46/s70502])” for “a ship flying the flag of the United States”.
@@ -252,7 +256,6 @@
 [/us/usc/t29/s113/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs113%2Fc
 [/us/usc/t18/s844/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs844%2Fj
 [/us/usc/t18/s2332f/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332f%2Fe%2F5
-[/us/usc/t18/s831/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs831%2Ff%2F3
 [/us/usc/t8/s1101/a/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F22
 [/us/usc/t18/s2332f/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2332f%2Fe%2F6
 [/us/usc/t18/s229F/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs229F%2F6%2FA
@@ -264,6 +267,9 @@
 [/us/stat/110/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1299
 [/us/pl/114/23/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVIII
 [/us/stat/129/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F300
+[/us/usc/t18/s831/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs831%2Ff%2F3
+[/us/pl/114/23/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2FtVIII
+[/us/stat/129/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F312
 [/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
 [/us/usc/t46/s70502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft46%2Fs70502
 [/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23

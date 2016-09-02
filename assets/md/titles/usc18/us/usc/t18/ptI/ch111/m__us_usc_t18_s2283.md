@@ -71,7 +71,7 @@
 
  __References in Text__ 
 
-    Section 831(f)(1), referred to in subsec. (c)(5), was redesignated as section 831(g)(1) by [Pub. L. 114–23, title VIII][/us/pl/114/23/tVIII], § 812(d), June 2, 2015, [129 Stat. 312][/us/stat/129/312].
+    Section 831(f)(1), referred to in subsec. (c)(5), was redesignated section 831(g)(1) by [Pub. L. 114–23, title VIII][/us/pl/114/23/tVIII], § 812(d), June 2, 2015, [129 Stat. 312][/us/stat/129/312].
 
 ----------
 
