@@ -49,7 +49,7 @@
 
  __Bureau of Indian Education Operated Schools__ 
 
-[Pub. L. 112–74, div. E, title I, § 115][/us/pl/112/74/s115], Dec. 23, 2011, [125 Stat. 1009][/us/stat/125/1009], as amended by [Pub. L. 113–235, div. F, title I, § 116][/us/pl/113/235/s116], Dec. 16, 2014, [128 Stat. 2421][/us/stat/128/2421], provided that:
+[Pub. L. 112–74, div. E, title I, § 115][/us/pl/112/74/s115], Dec. 23, 2011, [125 Stat. 1009][/us/stat/125/1009], as amended by [Pub. L. 113–235, div. F, title I, § 116][/us/pl/113/235/s116], Dec. 16, 2014, [128 Stat. 2421][/us/stat/128/2421]; [Pub. L. 114–113, div. G, title I, § 113][/us/pl/114/113/s113], Dec. 18, 2015, [129 Stat. 2550][/us/stat/129/2550], provided that:
 
 >     “(a)
 
@@ -73,7 +73,7 @@
 
 >         “(4) provisions for monitoring the amount and terms of consideration received, the manner in which the consideration is used, and any results achieved by such use.
 
->     “(d) Provisions of this section shall apply to fiscal years 2012 through 2017.”
+>     “(d) Provisions of this section shall apply to fiscal years 2012 through 2027.”
 
  __Therapeutic Model Demonstration Schools__ 
 
@@ -179,6 +179,8 @@
 [/us/stat/125/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1009
 [/us/pl/113/235/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs116
 [/us/stat/128/2421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2421
+[/us/pl/114/113/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs113
+[/us/stat/129/2550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2550
 [/us/usc/t40/s586/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs586%2Fc
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
 [/us/usc/t5/s7324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7324
