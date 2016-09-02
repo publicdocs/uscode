@@ -27,7 +27,7 @@
 
         (1) __In general__ 
 
-        For purposes of subsection (b) of this section, an insured depository institution’s “exposure” to another depository institution means—
+        For purposes of subsection (b), an insured depository institution’s “exposure” to another depository institution means—
 
             (A)
 

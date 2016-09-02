@@ -43,9 +43,9 @@
 
     Members of the Board of Directors—
 
-        (1) appointed under paragraphs (1) and (2) of subsection (a) of this section shall receive reasonable allowances for necessary expenses of travel, lodging, and subsistence incurred in attending meetings and other activities of the Assistance Board, as set forth in the bylaws issued by the Board of Directors, except that such level shall not exceed the maximum fixed by subchapter I of chapter 57 of title 5 for officers and employees of the United States; and
+        (1) appointed under paragraphs (1) and (2) of subsection (a) shall receive reasonable allowances for necessary expenses of travel, lodging, and subsistence incurred in attending meetings and other activities of the Assistance Board, as set forth in the bylaws issued by the Board of Directors, except that such level shall not exceed the maximum fixed by subchapter I of chapter 57 of title 5 for officers and employees of the United States; and
 
-        (2) appointed under paragraph (3) of subsection (a) of this section shall receive compensation for the time devoted to meetings and other activities at a daily rate not to exceed the daily rate of compensation prescribed for Level III of the Executive Schedule under [section 5314 of title 5][/us/usc/t5/s5314] and reasonable allowances for necessary expenses of travel, lodging, and subsistence incurred in attending meetings and other activities of the Assistance Board, as set forth in the bylaws issued by the Board of Directors, except that such level shall not exceed the maximum fixed by subchapter I of chapter 57 of title 5 for officers and employees of the United States.
+        (2) appointed under paragraph (3) of subsection (a) shall receive compensation for the time devoted to meetings and other activities at a daily rate not to exceed the daily rate of compensation prescribed for Level III of the Executive Schedule under [section 5314 of title 5][/us/usc/t5/s5314] and reasonable allowances for necessary expenses of travel, lodging, and subsistence incurred in attending meetings and other activities of the Assistance Board, as set forth in the bylaws issued by the Board of Directors, except that such level shall not exceed the maximum fixed by subchapter I of chapter 57 of title 5 for officers and employees of the United States.
 
     (e) __Rules and records__ 
 

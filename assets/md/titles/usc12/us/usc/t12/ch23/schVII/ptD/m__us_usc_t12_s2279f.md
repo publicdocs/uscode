@@ -35,7 +35,7 @@
 
         (1) __In general__ 
 
-            After a merger under subsection (a) of this section, a board of directors shall be created for the resulting bank.
+            After a merger under subsection (a), a board of directors shall be created for the resulting bank.
 
         (2) __Composition__ 
 

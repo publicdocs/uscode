@@ -27,7 +27,7 @@
 
             (C) a Government authority authorized to conduct investigations of, or intelligence or counterintelligence analyses related to, international terrorism for the purpose of conducting such investigations or analyses.
 
-        (2) In the instances specified in paragraph (1), the Government authority shall submit to the financial institution the certificate required in [section 3403(b) of this title][/us/usc/t12/s3403/b] signed by a supervisory official of a rank designated by the head of the Government authority.
+        (2) In the instances specified in paragraph (1), the Government authority shall submit to the financial institution the certificate required in [section 3403(b) of this title][/us/usc/t12/s3403/b] signed by a supervisory official of a rank designated by the head of the Government authority and a term that specifically identifies a customer, entity, or account to be used as the basis for the production and disclosure of financial records.
 
         (3)
 
@@ -49,16 +49,6 @@
 
             (C) On the dates provided in [section 3106 of title 50][/us/usc/t50/s3106], the Attorney General shall fully inform the congressional intelligence committees (as defined in [section 3003 of title 50][/us/usc/t50/s3003]) concerning all requests made pursuant to this paragraph.
 
-            (D) __Prohibition of certain disclosure.—__ 
-
-                (i) If the Director of the Federal Bureau of Investigation, or his designee in a position not lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge in a Bureau field office designated by the Director, certifies that otherwise there may result a danger to the national security of the United States, interference with a criminal, counterterrorism, or counterintelligence investigation, interference with diplomatic relations, or danger to the life or physical safety of any person, no financial institution, or officer, employee, or agent of such institution, shall disclose to any person (other than those to whom such disclosure is necessary to comply with the request or an attorney to obtain legal advice or legal assistance with respect to the request) that the Federal Bureau of Investigation has sought or obtained access to a customer’s or entity’s financial records under subparagraph (A).
-
-                (ii) The request shall notify the person or entity to whom the request is directed of the nondisclosure requirement under clause (i).
-
-                (iii) Any recipient disclosing to those persons necessary to comply with the request or to an attorney to obtain legal advice or legal assistance with respect to the request shall inform such persons of any applicable nondisclosure requirement. Any person who receives a disclosure under this subsection shall be subject to the same prohibitions on disclosure under clause (i).
-
-                (iv) At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under this section shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request, except that nothing in this section shall require a person to inform the Director or such designee of the identity of an attorney to whom disclosure was made or will be made to obtain legal advice or legal assistance with respect to the request for financial records under subparagraph (A).
-
     (b) __Emergency access to financial records__ 
 
         (1)
@@ -77,11 +67,65 @@
 
         (4) The Government authority specified in paragraph (1) shall compile an annual tabulation of the occasions in which this section was used.
 
-    (d)  __ <sup>\[__  __3__  __\]</sup> __  __ <sup><sup> __  __3__  __ So in original. No subsec. (c) has been enacted.__  __ </sup></sup> __  __Definition of “financial institution”__ 
+    (c) __Prohibition of certain disclosure__ 
+
+        (1) __Prohibition__ 
+
+            (A) __In general__ 
+
+                If a certification is issued under subparagraph (B) and notice of the right to judicial review under subsection (d) is provided, no financial institution that receives a request under subsection (a), or officer, employee, or agent thereof, shall disclose to any person that the Federal Bureau of Investigation has sought or obtained access to information or records under subsection (a).
+
+            (B) __Certification__ 
+
+            The requirements of subparagraph (A) shall apply if the Director of the Federal Bureau of Investigation, or a designee of the Director whose rank shall be no lower than Deputy Assistant Director at Bureau headquarters or a Special Agent in Charge of a Bureau field office, certifies that the absence of a prohibition of disclosure under this subsection may result in—
+
+                (i) a danger to the national security of the United States;
+
+                (ii) interference with a criminal, counterterrorism, or counterintelligence investigation;
+
+                (iii) interference with diplomatic relations; or
+
+                (iv) danger to the life or physical safety of any person.
+
+        (2) __Exception__ 
+
+            (A) __In general__ 
+
+            A financial institution that receives a request under subsection (a), or officer, employee, or agent thereof, may disclose information otherwise subject to any applicable nondisclosure requirement to—
+
+                (i) those persons to whom disclosure is necessary in order to comply with the request;
+
+                (ii) an attorney in order to obtain legal advice or assistance regarding the request; or
+
+                (iii) other persons as permitted by the Director of the Federal Bureau of Investigation or the designee of the Director.
+
+            (B) __Application__ 
+
+                A person to whom disclosure is made under subparagraph (A) shall be subject to the nondisclosure requirements applicable to a person to whom a request is issued under subsection (a) in the same manner as the person to whom the request is issued.
+
+            (C) __Notice__ 
+
+                Any recipient that discloses to a person described in subparagraph (A) information otherwise subject to a nondisclosure requirement shall inform the person of the applicable nondisclosure requirement.
+
+            (D) __Identification of disclosure recipients__ 
+
+                At the request of the Director of the Federal Bureau of Investigation or the designee of the Director, any person making or intending to make a disclosure under clause (i) or (iii) of subparagraph (A) shall identify to the Director or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request.
+
+    (d) __Judicial review__ 
+
+        (1) __In general__ 
+
+            A request under subsection (a) or a nondisclosure requirement imposed in connection with such request under subsection (c) shall be subject to judicial review under [section 3511 of title 18][/us/usc/t18/s3511].
+
+        (2) __Notice__ 
+
+            A request under subsection (a) shall include notice of the availability of judicial review described in paragraph (1).
+
+    (e) __Definition of “financial institution”__ 
 
         For purposes of this section, and sections 3415 and 3417 of this title insofar as they relate to the operation of this section, the term “financial institution” has the same meaning as in subsections (a)(2) and (c)(1) of [section 5312 of title 31][/us/usc/t31/s5312], except that, for purposes of this section, such term shall include only such a financial institution any part of which is located inside any State or territory of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or the United States Virgin Islands.
 
-([Pub. L. 95–630, title XI, § 1114][/us/pl/95/630/s1114], Nov. 10, 1978, [92 Stat. 3707][/us/stat/92/3707]; [Pub. L. 97–320, title IV, § 432(b)][/us/pl/97/320/s432/b], Oct. 15, 1982, [96 Stat. 1527][/us/stat/96/1527]; [Pub. L. 99–569, title IV, § 404][/us/pl/99/569/s404], Oct. 27, 1986, [100 Stat. 3197][/us/stat/100/3197]; [Pub. L. 107–56, title III, § 358(f)(2)][/us/pl/107/56/s358/f/2], title V, § 505(b), Oct. 26, 2001, [115 Stat. 327][/us/stat/115/327], 365; [Pub. L. 107–306, title VIII, § 811(b)(9)][/us/pl/107/306/s811/b/9], Nov. 27, 2002, [116 Stat. 2426][/us/stat/116/2426]; [Pub. L. 108–177, title III, § 374(a)][/us/pl/108/177/s374/a], Dec. 13, 2003, [117 Stat. 2628][/us/stat/117/2628]; [Pub. L. 109–177, title I, § 116(d)][/us/pl/109/177/s116/d], (e), title VI, § 605(e)(1), Mar. 9, 2006, [120 Stat. 215][/us/stat/120/215], 216, 255; [Pub. L. 109–178, § 4(d)][/us/pl/109/178/s4/d], Mar. 9, 2006, [120 Stat. 280][/us/stat/120/280].)
+([Pub. L. 95–630, title XI, § 1114][/us/pl/95/630/s1114], Nov. 10, 1978, [92 Stat. 3707][/us/stat/92/3707]; [Pub. L. 97–320, title IV, § 432(b)][/us/pl/97/320/s432/b], Oct. 15, 1982, [96 Stat. 1527][/us/stat/96/1527]; [Pub. L. 99–569, title IV, § 404][/us/pl/99/569/s404], Oct. 27, 1986, [100 Stat. 3197][/us/stat/100/3197]; [Pub. L. 107–56, title III, § 358(f)(2)][/us/pl/107/56/s358/f/2], title V, § 505(b), Oct. 26, 2001, [115 Stat. 327][/us/stat/115/327], 365; [Pub. L. 107–306, title VIII, § 811(b)(9)][/us/pl/107/306/s811/b/9], Nov. 27, 2002, [116 Stat. 2426][/us/stat/116/2426]; [Pub. L. 108–177, title III, § 374(a)][/us/pl/108/177/s374/a], Dec. 13, 2003, [117 Stat. 2628][/us/stat/117/2628]; [Pub. L. 109–177, title I, § 116(d)][/us/pl/109/177/s116/d], (e), title VI, § 605(e)(1), Mar. 9, 2006, [120 Stat. 215][/us/stat/120/215], 216, 255; [Pub. L. 109–178, § 4(d)][/us/pl/109/178/s4/d], Mar. 9, 2006, [120 Stat. 280][/us/stat/120/280]; [Pub. L. 114–23, title V][/us/pl/114/23], §§ 501(b), 502(b), 503(b), June 2, 2015, [129 Stat. 282][/us/stat/129/282], 284, 290.)
 
  __References in Text__ 
 
@@ -90,6 +134,14 @@
     [Public Law 90–331][/us/pl/90/331], as amended, referred to in subsec. (a)(1)(B), is [Pub. L. 90–331][/us/pl/90/331], June 6, 1968, [82 Stat. 170][/us/stat/82/170], as amended, which was set out as a note under [section 3056 of Title 18][/us/usc/t18/s3056], Crimes and Criminal Procedure, prior to repeal by [Pub. L. 98–587, § 2][/us/pl/98/587/s2], Oct. 30, 1984, [98 Stat. 3111][/us/stat/98/3111]. See [18 U.S.C. 3056(a)(7)][/us/usc/t18/s3056/a/7].
 
  __Amendments__ 
+
+    2015—Subsec. (a)(2). [Pub. L. 114–23, § 501(b)][/us/pl/114/23/s501/b], inserted before period at end “and a term that specifically identifies a customer, entity, or account to be used as the basis for the production and disclosure of financial records”.
+
+    Subsec. (a)(5)(D). [Pub. L. 114–23, § 502(b)(1)][/us/pl/114/23/s502/b/1], struck out subpar. (D) which related to prohibition of certain disclosure.
+
+    Subsec. (c). [Pub. L. 114–23, § 502(b)(2)][/us/pl/114/23/s502/b/2], added subsec. (c).
+
+    Subsecs. (d), (e). [Pub. L. 114–23, § 503(b)][/us/pl/114/23/s503/b], added subsec. (d) and redesignated former subsec. (d) as (e).
 
     2006—Subsec. (a)(1)(B). [Pub. L. 109–177, § 605(e)(1)][/us/pl/109/177/s605/e/1], which directed the amendment of [section 3414 of title 12][/us/usc/t12/s3414], United States Code, by substituting “[18 U.S.C. 3056A][/us/usc/t18/s3056A]” for “[3 U.S.C. 202][/us/usc/t3/s202]” in subsec. (a)(1)(B), was executed to this section, which is section 1114 of the Right to Financial Privacy Act of 1978, to reflect the probable intent of Congress.
 
@@ -127,6 +179,24 @@
 
     For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6][/us/usc/t6/s542].
 
+ __Termination Procedures__ 
+
+[Pub. L. 114–23, title V, § 502(f)][/us/pl/114/23/s502/f], June 2, 2015, [129 Stat. 288][/us/stat/129/288], provided that:
+
+>     “(1)  __In general__  __.—__ 
+
+>     Not later than 180 days after the date of enactment of this Act \[June 2, 2015\], the Attorney General shall adopt procedures with respect to nondisclosure requirements issued pursuant to [section 2709 of title 18][/us/usc/t18/s2709], United States Code, section 626 or 627 of the Fair Credit Reporting Act ([15 U.S.C. 1681u][/us/usc/t15/s1681u] and 1681v), section 1114 of the Right to Financial Privacy Act \[of 1978\] ([12 U.S.C. 3414][/us/usc/t12/s3414]), or section 802 of the National Security Act of 1947 ([50 U.S.C. 3162][/us/usc/t50/s3162]), as amended by this Act, to require—
+
+>         “(A) the review at appropriate intervals of such a nondisclosure requirement to assess whether the facts supporting nondisclosure continue to exist;
+
+>         “(B) the termination of such a nondisclosure requirement if the facts no longer support nondisclosure; and
+
+>         “(C) appropriate notice to the recipient of the national security letter, or officer, employee, or agent thereof, subject to the nondisclosure requirement, and the applicable court as appropriate, that the nondisclosure requirement has been terminated.
+
+>     “(2)  __Reporting__  __.—__ 
+
+>     Upon adopting the procedures required under paragraph (1), the Attorney General shall submit the procedures to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.”
+
 ----------
 
 [Previous](./../../../..//us/usc/t12/ch35/m__us_usc_t12_s3413.md) | [Next](./../../../..//us/usc/t12/ch35/m__us_usc_t12_s3415.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3414)
@@ -142,6 +212,7 @@
 [/us/usc/t50/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3003
 [/us/usc/t12/s3403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3403%2Fb
 [/us/usc/t12/s3409/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3409%2Fc
+[/us/usc/t18/s3511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3511
 [/us/usc/t31/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5312
 [/us/pl/95/630/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630%2Fs1114
 [/us/stat/92/3707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3707
@@ -159,6 +230,8 @@
 [/us/stat/120/215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F215
 [/us/pl/109/178/s4/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F178%2Fs4%2Fd
 [/us/stat/120/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F280
+[/us/pl/114/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23
+[/us/stat/129/282]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F282
 [/us/usc/t12/s3421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3421
 [/us/pl/104/66/s3001/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3001%2Fd
 [/us/stat/109/734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F734
@@ -169,6 +242,10 @@
 [/us/pl/98/587/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F587%2Fs2
 [/us/stat/98/3111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3111
 [/us/usc/t18/s3056/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056%2Fa%2F7
+[/us/pl/114/23/s501/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs501%2Fb
+[/us/pl/114/23/s502/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs502%2Fb%2F1
+[/us/pl/114/23/s502/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs502%2Fb%2F2
+[/us/pl/114/23/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs503%2Fb
 [/us/pl/109/177/s605/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177%2Fs605%2Fe%2F1
 [/us/usc/t12/s3414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3414
 [/us/usc/t18/s3056A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3056A
@@ -194,5 +271,11 @@
 [/us/pl/107/56/s358/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F56%2Fs358%2Fh
 [/us/usc/t12/s1829b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1829b
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
+[/us/pl/114/23/s502/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F23%2Fs502%2Ff
+[/us/stat/129/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F288
+[/us/usc/t18/s2709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2709
+[/us/usc/t15/s1681u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1681u
+[/us/usc/t12/s3414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3414
+[/us/usc/t50/s3162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3162
 
 

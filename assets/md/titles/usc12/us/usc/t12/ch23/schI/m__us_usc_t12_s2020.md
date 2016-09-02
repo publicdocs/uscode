@@ -23,7 +23,7 @@
 
         (1) __In general__ 
 
-            Each Farm Credit Bank may assess each production credit association, other association making direct loans under the authority provided under [section 2279b of this title][/us/usc/t12/s2279b], and other financing institution described in [section 2015(b)(1)(B) of this title][/us/usc/t12/s2015/b/1/B] in the district in which the bank is located to cover the costs of making premium payments under part E of subchapter V of this chapter.
+            Each Farm Credit Bank may assess each production credit association, other association making direct loans under the authority provided under [section 2279b of this title][/us/usc/t12/s2279b], and other financing institution described in [section 2015(b)(1)(B) of this title][/us/usc/t12/s2015/b/1/B] in the district in which the bank is located to cover the costs of making premium payments under part E of subchapter V.
 
         (2) __Computation__ 
 

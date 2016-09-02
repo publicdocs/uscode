@@ -25,7 +25,7 @@
 
             (B) the amount of assessments that will be required to pay such administrative expenses, taking into consideration the funds contained in the Administrative Expense Account, and maintain a necessary reserve; and
 
-            (C) the amount of assessments that will be required to pay the costs of supervising and examining the Mortgage Corporation established under subchapter VIII of this chapter.
+            (C) the amount of assessments that will be required to pay the costs of supervising and examining the Mortgage Corporation established under subchapter VIII.
 
         (2) __Apportionments__ 
 
@@ -41,7 +41,7 @@
 
         (1) __Treasury fund__ 
 
-            The amounts collected under subsection (a) of this section shall be deposited in the Farm Credit Administration Administrative Expense Account. The Expense Account shall be maintained in the Treasury of the United States and shall be available, without regard, for purposes of sequestration, to the Balanced Budget and Emergency Deficit Control Act of 1985 \[[2 U.S.C. 900][/us/usc/t2/s900] et seq.\], to pay the expenses of the Farm Credit Administration.
+            The amounts collected under subsection (a) shall be deposited in the Farm Credit Administration Administrative Expense Account. The Expense Account shall be maintained in the Treasury of the United States and shall be available, without regard, for purposes of sequestration, to the Balanced Budget and Emergency Deficit Control Act of 1985 \[[2 U.S.C. 900][/us/usc/t2/s900] et seq.\], to pay the expenses of the Farm Credit Administration.
 
         (2) __Nongovernment funds__ 
 

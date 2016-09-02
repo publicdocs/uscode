@@ -47,7 +47,7 @@
 
         (1) __In general__ 
 
-            Loans authorized in subsection (a) of this section shall bear such rate or rates of interest as are determined under standards prescribed by the board of the bank subject to the provisions of [section 2205 of this title][/us/usc/t12/s2205], and shall be made upon such terms, conditions, and upon such security, if any, as shall be authorized in such standards.
+            Loans authorized in subsection (a) shall bear such rate or rates of interest as are determined under standards prescribed by the board of the bank subject to the provisions of [section 2205 of this title][/us/usc/t12/s2205], and shall be made upon such terms, conditions, and upon such security, if any, as shall be authorized in such standards.
 
         (2) __Setting of rates__ 
 

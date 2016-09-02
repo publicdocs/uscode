@@ -21,7 +21,7 @@
 
     (b) __Other conservators__ 
 
-        In any case where the conservator is not a conservator described in subsection (a) of this section, the conservator shall not be liable for damages in tort or otherwise for acts or omissions performed pursuant to and in the course of the duties and responsibilities of the conservatorship, unless such acts or omissions constitute gross negligence, including any similar conduct or any form of intentional tortious conduct, as determined by a court.
+        In any case where the conservator is not a conservator described in subsection (a), the conservator shall not be liable for damages in tort or otherwise for acts or omissions performed pursuant to and in the course of the duties and responsibilities of the conservatorship, unless such acts or omissions constitute gross negligence, including any similar conduct or any form of intentional tortious conduct, as determined by a court.
 
     (c) __Indemnification__ 
 

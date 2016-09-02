@@ -29,7 +29,7 @@
 
         (3) A member bank and its subsidiaries may not purchase a low-quality asset from an affiliate unless the bank or such subsidiary, pursuant to an independent credit evaluation, committed itself to purchase such asset prior to the time such asset was acquired by the affiliate.
 
-        (4) Any covered transactions and any transactions exempt under subsection (d) of this section between a member bank and an affiliate shall be on terms and conditions that are consistent with safe and sound banking practices.
+        (4) Any covered transactions and any transactions exempt under subsection (d) between a member bank and an affiliate shall be on terms and conditions that are consistent with safe and sound banking practices.
 
     (b) __Definitions__ 
 
@@ -159,11 +159,11 @@
 
     (d) __Exemptions__ 
 
-    The provisions of this section, except subsection (a)(4) of this section, shall not be applicable to—
+    The provisions of this section, except paragraph (a)(4), <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should read “subsection (a)(4),”. </sup></sup>  shall not be applicable to—
 
         (1)
 
-         any transaction, subject to the prohibition contained in subsection (a)(3) of this section, with a bank—
+         any transaction, subject to the prohibition contained in subsection (a)(3), with a bank—
 
             (A) which controls 80 per centum or more of the voting shares of the member bank;
 
@@ -187,7 +187,7 @@
 
         (5) purchasing securities issued by any company of the kinds described in [section 1843(c)(1) of this title][/us/usc/t12/s1843/c/1];
 
-        (6) purchasing assets having a readily identifiable and publicly available market quotation and purchased at that market quotation or, subject to the prohibition contained in subsection (a)(3) of this section, purchasing loans on a nonrecourse basis from affiliated banks; and
+        (6) purchasing assets having a readily identifiable and publicly available market quotation and purchased at that market quotation or, subject to the prohibition contained in subsection (a)(3), purchasing loans on a nonrecourse basis from affiliated banks; and
 
         (7) purchasing from an affiliate a loan or extension of credit that was originated by the member bank and sold to the affiliate subject to a repurchase agreement or with recourse.
 
@@ -323,9 +323,9 @@
 
     Subsec. (f). [Pub. L. 106–102, § 121(b)(1)(A)][/us/pl/106/102/s121/b/1/A], (3), redesignated subsec. (e) as (f) and added par. (3).
 
-    1983—Subsec. (d)(1). [Pub. L. 97–457, § 22(1)][/us/pl/97/457/s22/1], substituted “subject to the prohibition contained in subsection (a)(3) of this section” for “except for the purchase of a low-quality asset which is prohibited”.
+    1983—Subsec. (d)(1). [Pub. L. 97–457, § 22(1)][/us/pl/97/457/s22/1], substituted “subject to the prohibition contained in subsection (a)(3)” for “except for the purchase of a low-quality asset which is prohibited”.
 
-    Subsec. (d)(6). [Pub. L. 97–457, § 22(2)][/us/pl/97/457/s22/2], inserted “, subject to the prohibition contained in subsection (a)(3) of this section,” after “market quotation or”.
+    Subsec. (d)(6). [Pub. L. 97–457, § 22(2)][/us/pl/97/457/s22/2], inserted “, subject to the prohibition contained in subsection (a)(3),” after “market quotation or”.
 
     1982—[Pub. L. 97–320][/us/pl/97/320] amended section generally by substituting provisions in lettered subsections relating to restrictions on transactions with affiliates, collateral for such transactions, exemptions for certain transactions and rulemaking and additional exemptions, for prior undesignated paragraphs which read as follows:
 

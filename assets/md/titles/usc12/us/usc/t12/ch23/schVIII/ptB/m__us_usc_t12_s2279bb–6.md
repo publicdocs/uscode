@@ -49,7 +49,7 @@
 
     (b) __Discretionary supervisory actions__ 
 
-    In addition to any other actions taken by the Director (including actions under subsection (a) of this section), the Director may, at any time, take any of the following actions if the Corporation is classified as within level III:
+    In addition to any other actions taken by the Director (including actions under subsection (a)), the Director may, at any time, take any of the following actions if the Corporation is classified as within level III:
 
         (1) __Limitation on increase in obligations__ 
 

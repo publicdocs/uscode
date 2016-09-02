@@ -27,7 +27,7 @@
 
     (b) __Board authority__ 
 
-        The Board shall have the same authority with respect to any conservator or receiver appointed under subsection (a) of this section, and the uninsured State member bank for which the conservator or receiver has been appointed, as the Comptroller of the Currency has with respect to a conservator or receiver for a national bank and the national bank for which the conservator or receiver has been appointed.
+        The Board shall have the same authority with respect to any conservator or receiver appointed under subsection (a), and the uninsured State member bank for which the conservator or receiver has been appointed, as the Comptroller of the Currency has with respect to a conservator or receiver for a national bank and the national bank for which the conservator or receiver has been appointed.
 
     (c) __Bankruptcy proceedings__ 
 

@@ -25,7 +25,7 @@
 
     (c) __Retention of stock__ 
 
-        Notwithstanding subsections (a) and (b) of this section, the borrower shall be entitled to retain at least one share of stock to maintain the borrower’s membership and voting interest in the association.
+        Notwithstanding subsections (a) and (b), the borrower shall be entitled to retain at least one share of stock to maintain the borrower’s membership and voting interest in the association.
 
 ([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].14B, as added [Pub. L. 100–233, title I, § 102(a)][/us/pl/100/233/s102/a], Jan. 6, 1988, [101 Stat. 1577][/us/stat/101/1577]; amended [Pub. L. 100–399, title I, § 102(g)][/us/pl/100/399/s102/g], Aug. 17, 1988, [102 Stat. 990][/us/stat/102/990].)
 

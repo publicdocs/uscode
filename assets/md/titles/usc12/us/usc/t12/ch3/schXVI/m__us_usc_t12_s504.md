@@ -21,11 +21,11 @@
 
     (b) __Second tier__ 
 
-    Notwithstanding subsection (a) of this section, any member bank which, and any institution-affiliated party (within the meaning of [section 1813(u) of this title][/us/usc/t12/s1813/u]) with respect to such member bank who  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a dash. </sup></sup> 
+    Notwithstanding subsection (a), any member bank which, and any institution-affiliated party (within the meaning of [section 1813(u) of this title][/us/usc/t12/s1813/u]) with respect to such member bank who  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a dash. </sup></sup> 
 
         (1)
 
-            (A) commits any violation described in subsection (a) of this section;
+            (A) commits any violation described in subsection (a);
 
             (B) recklessly engages in an unsafe or unsound practice in conducting the affairs of such member bank; or
 
@@ -45,13 +45,13 @@
 
     (c) __Third tier__ 
 
-    Notwithstanding subsections (a) and (b) of this section, any member bank which, and any institution-affiliated party (within the meaning of [section 1813(u) of this title][/us/usc/t12/s1813/u]) with respect to such member bank who—
+    Notwithstanding subsections (a) and (b), any member bank which, and any institution-affiliated party (within the meaning of [section 1813(u) of this title][/us/usc/t12/s1813/u]) with respect to such member bank who—
 
         (1)
 
          knowingly—
 
-            (A) commits any violation described in subsection (a) of this section;
+            (A) commits any violation described in subsection (a);
 
             (B) engages in any unsafe or unsound practice in conducting the affairs of such credit union;  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “such member bank”. </sup></sup>  or
 
@@ -59,11 +59,11 @@
 
         (2) knowingly or recklessly causes a substantial loss to such credit union 2 or a substantial pecuniary gain or other benefit to such party by reason of such violation, practice, or breach,
 
-        shall forfeit and pay a civil penalty in an amount not to exceed the applicable maximum amount determined under subsection (d) of this section for each day during which such violation, practice, or breach continues.
+        shall forfeit and pay a civil penalty in an amount not to exceed the applicable maximum amount determined under subsection (d) for each day during which such violation, practice, or breach continues.
 
     (d) __Maximum amounts of penalties for any violation described in subsection (c)__ 
 
-    The maximum daily amount of any civil penalty which may be assessed pursuant to subsection (c) of this section for any violation, practice, or breach described in such subsection is—
+    The maximum daily amount of any civil penalty which may be assessed pursuant to subsection (c) for any violation, practice, or breach described in such subsection is—
 
         (1) in the case of any person other than a member bank, an amount to not exceed $1,000,000; and
 
@@ -77,7 +77,7 @@
 
     (e) __Assessment; etc.__ 
 
-    Any penalty imposed under subsection (a), (b), or (c) of this section shall be assessed and collected  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by a dash rather than “by”. </sup></sup>  by
+    Any penalty imposed under subsection (a), (b), or (c) shall be assessed and collected  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be followed by a dash rather than “by”. </sup></sup>  by
 
         (1) in the case of a national bank, by the Comptroller of the Currency; and
 

@@ -27,7 +27,7 @@
 
              for the general supervision of the safe and sound performance of the powers, functions, and duties vested in the Corporation and its affiliates by this subchapter, including through the use of the authorities granted to the Farm Credit Administration under—
 
-                (i) part C of subchapter V of this chapter; and
+                (i) part C of subchapter V; and
 
                 (ii) beginning 6 months after December 13, 1991, [section 2252(a)(9) of this title][/us/usc/t12/s2252/a/9].
 

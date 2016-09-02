@@ -37,7 +37,7 @@
 
         (1) __Establishment of test__ 
 
-        In establishing the risk-based capital test under subsection (a) of this section—
+        In establishing the risk-based capital test under subsection (a)—
 
             (A) the Director shall take into account appropriate distinctions based on various types of agricultural mortgage products, varying terms of Treasury obligations, and any other factors the Director considers appropriate;
 
@@ -51,7 +51,7 @@
 
         (2) __Revising test__ 
 
-            Upon the expiration of the 8-year period beginning on December 13, 1991, the Director shall examine the risk-based capital test under subsection (a) of this section and may revise the test. In making examinations and revisions under this paragraph, the Director shall take into account that, before December 13, 1991, the Corporation has not issued guarantees for pools of qualified loans. To the extent that the revision of the risk-based capital test causes a change in the classification of the Corporation within the enforcement levels established under [section 2279bb–4 of this title][/us/usc/t12/s2279bb–4], the Director shall waive the applicability of any additional enforcement actions available because of such change for a reasonable period of time, to permit the Corporation to increase the amount of regulatory capital of the Corporation accordingly.
+            Upon the expiration of the 8-year period beginning on December 13, 1991, the Director shall examine the risk-based capital test under subsection (a) and may revise the test. In making examinations and revisions under this paragraph, the Director shall take into account that, before December 13, 1991, the Corporation has not issued guarantees for pools of qualified loans. To the extent that the revision of the risk-based capital test causes a change in the classification of the Corporation within the enforcement levels established under [section 2279bb–4 of this title][/us/usc/t12/s2279bb–4], the Director shall waive the applicability of any additional enforcement actions available because of such change for a reasonable period of time, to permit the Corporation to increase the amount of regulatory capital of the Corporation accordingly.
 
     (c) __Risk-based capital level__ 
 
@@ -59,11 +59,11 @@
 
         (1) __Credit and interest rate risk__ 
 
-            The amount of regulatory capital determined by applying the risk-based capital test under subsection (a) of this section to the Corporation, adjusted to account for foreign exchange risk.
+            The amount of regulatory capital determined by applying the risk-based capital test under subsection (a) to the Corporation, adjusted to account for foreign exchange risk.
 
         (2) __Management and operations risk__ 
 
-            To provide for management and operations risk, 30 percent of the amount of regulatory capital determined by applying the risk-based capital test under subsection (a) of this section to the Corporation.
+            To provide for management and operations risk, 30 percent of the amount of regulatory capital determined by applying the risk-based capital test under subsection (a) to the Corporation.
 
     (d) __Specified contents__ 
 
@@ -71,7 +71,7 @@
 
         The regulations establishing the risk-based capital test under this section shall—
 
-            (A) be issued by the Director for public comment in the form of a notice of proposed rulemaking, to be first published after the expiration of the period referred to in subsection (a) of this section; and
+            (A) be issued by the Director for public comment in the form of a notice of proposed rulemaking, to be first published after the expiration of the period referred to in subsection (a); and
 
             (B) contain specific requirements, definitions, methods, variables, and parameters used under the risk-based capital test and in implementing the test (such as loan loss severity, float income, loan-to-value ratios, taxes, yield curve slopes, default experience, prepayment rates, and performance of pools of qualified loans).
 

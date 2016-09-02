@@ -75,11 +75,11 @@
 
     (c) __Quarterly determination__ 
 
-        The Director shall determine the classification of the Corporation for purposes of this part on not less than a quarterly basis (and as appropriate under subsection (b) of this section). The first such determination shall be made for the quarter ending March 31, 1992.
+        The Director shall determine the classification of the Corporation for purposes of this part on not less than a quarterly basis (and as appropriate under subsection (b)). The first such determination shall be made for the quarter ending March 31, 1992.
 
     (d) __Notice__ 
 
-    Upon determining under subsection (b) or (c) of this section that the Corporation is within level II or III, the Director shall provide written notice to the Congress and to the Corporation—
+    Upon determining under subsection (b) or (c) that the Corporation is within level II or III, the Director shall provide written notice to the Congress and to the Corporation—
 
         (1) that the Corporation is within such level;
 
@@ -89,7 +89,7 @@
 
     (e) __Implementation__ 
 
-        Notwithstanding paragraphs (1) and (2) of subsection (a) of this section, during the period beginning on December 13, 1991, and ending on the effective date of the risk based capital regulation issued by the Director under [section 2279bb–1 of this title][/us/usc/t12/s2279bb–1], the Corporation shall be classified as within level I if the Corporation equals or exceeds the minimum capital level established under [section 2279bb–2 of this title][/us/usc/t12/s2279bb–2].
+        Notwithstanding paragraphs (1) and (2) of subsection (a), during the period beginning on December 13, 1991, and ending on the effective date of the risk based capital regulation issued by the Director under [section 2279bb–1 of this title][/us/usc/t12/s2279bb–1], the Corporation shall be classified as within level I if the Corporation equals or exceeds the minimum capital level established under [section 2279bb–2 of this title][/us/usc/t12/s2279bb–2].
 
 ([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].35, as added [Pub. L. 102–237, title V, § 503(b)(2)][/us/pl/102/237/s503/b/2], Dec. 13, 1991, [105 Stat. 1874][/us/stat/105/1874]; amended [Pub. L. 104–105, title I, § 116][/us/pl/104/105/s116], Feb. 10, 1996, [110 Stat. 168][/us/stat/110/168].)
 

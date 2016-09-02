@@ -33,7 +33,7 @@
 
     (d) __Enforcement__ 
 
-        If the Corporation fails to carry out subsection (a) of this section by the date required under paragraph (1) or (2) of subsection (a) of this section, the Corporation may not purchase a new qualified loan or issue or guarantee a new loan-backed security until the core capital of the Corporation is increased to an amount equal to or greater than $25,000,000.
+        If the Corporation fails to carry out subsection (a) by the date required under paragraph (1) or (2) of subsection (a), the Corporation may not purchase a new qualified loan or issue or guarantee a new loan-backed security until the core capital of the Corporation is increased to an amount equal to or greater than $25,000,000.
 
 ([Pub. L. 92–181, title VIII, § 8][/us/pl/92/181/s8].38, as added [Pub. L. 104–105, title I, § 117][/us/pl/104/105/s117], Feb. 10, 1996, [110 Stat. 168][/us/stat/110/168].)
 

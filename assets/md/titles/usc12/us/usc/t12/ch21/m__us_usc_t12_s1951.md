@@ -33,7 +33,7 @@
 
 [Pub. L. 113–156, § 1][/us/pl/113/156/s1], Aug. 8, 2014, [128 Stat. 1829][/us/stat/128/1829], provided that: 
 
-> “This Act \[amending [section 1958 of this title][/us/usc/t12/s1958] and [section 5318 of title 31][/us/usc/t31/s5318], Money and Finance\] may be cited as the ‘Money Remittances Improvement Act of 2014’.”
+> “This Act \[amending [section 1958 of this title][/us/usc/t12/s1958] and [section 5318 of Title 31][/us/usc/t31/s5318], Money and Finance, and enacting provisions set out as a note under [section 1958 of this title][/us/usc/t12/s1958]\] may be cited as the ‘Money Remittances Improvement Act of 2014’.”
 
  __Short Title__ 
 
@@ -58,6 +58,7 @@
 [/us/stat/128/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1829
 [/us/usc/t12/s1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1958
 [/us/usc/t31/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5318
+[/us/usc/t12/s1958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1958
 [/us/pl/91/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508
 [/us/pl/91/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508
 [/us/pl/91/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F508

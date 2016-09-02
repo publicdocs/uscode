@@ -373,7 +373,7 @@
 
                 (i) any insured depository institution;
 
-                (ii) any institution treated as an insured bank under subsection (b)(3) or (b)(4), or as a savings association under subsection (b)(9);1
+                (ii) any institution treated as an insured bank under subsection (b)(3) or (b)(4), or as a savings association under subsection (b)(9); 1
 
                 (iii) any insured credit union under the Federal Credit Union Act \[[12 U.S.C. 1751][/us/usc/t12/s1751] et seq.\];
 

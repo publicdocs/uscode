@@ -23,7 +23,7 @@
 
             (A) the efforts, activities, objectives and plans of the Board and the Federal Open Market Committee with respect to the conduct of monetary policy; and
 
-            (B) economic developments and prospects for the future described in the report required in subsection (b) of this section.
+            (B) economic developments and prospects for the future described in the report required in subsection (b).
 
         (2) __Schedule__ 
 

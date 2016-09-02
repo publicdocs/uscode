@@ -21,7 +21,7 @@
 
     (b) __Covered services__ 
 
-    The services which shall be covered by the schedule of fees under subsection (a) of this section are—
+    The services which shall be covered by the schedule of fees under subsection (a) are—
 
         (1) currency and coin services;
 

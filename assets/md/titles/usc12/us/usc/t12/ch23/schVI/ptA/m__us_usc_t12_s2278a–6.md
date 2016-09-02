@@ -67,7 +67,7 @@
 
         (1) __Notification__ 
 
-            The Assistance Board shall promptly notify the Farm Credit Administration of any action taken by the Assistance Board under subsection (a)(9) of this section.
+            The Assistance Board shall promptly notify the Farm Credit Administration of any action taken by the Assistance Board under subsection (a)(9).
 
         (2) __Enforcement__ 
 

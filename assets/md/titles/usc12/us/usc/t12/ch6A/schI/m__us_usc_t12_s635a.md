@@ -399,7 +399,9 @@
 
 [Pub. L. 102–429, title I, § 117][/us/pl/102/429/s117], Oct. 21, 1996, [106 Stat. 2196][/us/stat/106/2196], provided that:
 
->     “\[(a) Repealed. [Pub. L. 102–429, title I][/us/pl/102/429], §117(b), Oct. 21, 1996, [106 Stat. 2196][/us/stat/106/2196].\]
+>     “(a)  __In General__  __.—__ 
+
+>     The Board of Directors of the Export-Import Bank of the United States may compensate not more than 35 employees of the Bank without regard to the provisions of chapter 51 or subchapter III or VIII of chapter 53 of title 5, United States Code.
 
 >     “(b)  __Sunset__  __.—__ 
 
@@ -619,8 +621,6 @@
 [/us/stat/113/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1485
 [/us/usc/t12/s635a/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs635a%2Fc%2F6
 [/us/pl/102/429/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429%2Fs117
-[/us/stat/106/2196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2196
-[/us/pl/102/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F429
 [/us/stat/106/2196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2196
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/stat/128/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2598

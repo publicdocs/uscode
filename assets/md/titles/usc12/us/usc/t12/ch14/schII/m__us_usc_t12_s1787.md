@@ -1103,13 +1103,13 @@
 
                 No provision of this paragraph shall be construed as authorizing an insured credit union to accept the deposits of an employee benefit plan in an amount greater than such credit union is authorized to accept under any other provision of Federal or State law.
 
-        (5) __Coverage for interest on lawyers trust accounts (__  __iolta__  __) and other similar escrow accounts__ 
+        (5) __Coverage for interest on lawyers trust accounts (IOLTA) and other similar escrow accounts__ 
 
             (A) __Pass-through insurance__ 
 
                 The Administration shall provide pass-through share insurance for the deposits or shares of any interest on lawyers trust account (IOLTA) or other similar escrow accounts.
 
-            (B) __Treatment of__  __iolta__  __s__ 
+            (B) __Treatment of IOLTAs__ 
 
                 (i) __Treatment as escrow accounts__ 
 

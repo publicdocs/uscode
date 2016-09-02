@@ -21,7 +21,7 @@
 
     (b) __Reorganization plan__ 
 
-    A reorganization authorized under subsection (a) of this section shall be carried out in accordance with a reorganization plan that—
+    A reorganization authorized under subsection (a) shall be carried out in accordance with a reorganization plan that—
 
         (1) specifies the manner in which the reorganization shall be carried out;
 
@@ -41,7 +41,7 @@
 
     (c) __Rights of dissenting shareholders__ 
 
-        If, pursuant to this section, a reorganization plan has been approved by the shareholders and the Comptroller, any shareholder of the bank who has voted against the reorganization at the meeting referred to in subsection (b)(4) of this section, or has given notice in writing at or prior to that meeting to the presiding officer that the shareholder dissents from the reorganization plan, shall be entitled to receive the value of his or her shares, as provided by [section 215a of this title][/us/usc/t12/s215a] for the merger of a national bank.
+        If, pursuant to this section, a reorganization plan has been approved by the shareholders and the Comptroller, any shareholder of the bank who has voted against the reorganization at the meeting referred to in subsection (b)(4), or has given notice in writing at or prior to that meeting to the presiding officer that the shareholder dissents from the reorganization plan, shall be entitled to receive the value of his or her shares, as provided by [section 215a of this title][/us/usc/t12/s215a] for the merger of a national bank.
 
     (d) __Effect of reorganization__ 
 
@@ -49,7 +49,7 @@
 
     (e) __Approval under the Bank Holding Company Act__ 
 
-        This section does not affect in any way the applicability of the Bank Holding Company Act of 1956 \[[12 U.S.C. 1841][/us/usc/t12/s1841] et seq.\] to a transaction described in subsection (a) of this section.
+        This section does not affect in any way the applicability of the Bank Holding Company Act of 1956 \[[12 U.S.C. 1841][/us/usc/t12/s1841] et seq.\] to a transaction described in subsection (a).
 
 ([Nov. 7, 1918, ch. 209, § 5][/us/act/1918-11-07/ch209/s5], as added [Pub. L. 106–569, title XII, § 1204(2)][/us/pl/106/569/s1204/2], Dec. 27, 2000, [114 Stat. 3033][/us/stat/114/3033].)
 

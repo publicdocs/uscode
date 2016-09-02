@@ -23,7 +23,7 @@
 
     2014—[Pub. L. 113–156][/us/pl/113/156] substituted “requirements of this chapter and [section 1829b of this title][/us/usc/t12/s1829b]” for “requirements of this chapter and sections 1730d and 1829b of this title” and inserted at end “The Secretary may rely on examinations conducted by a State supervisory agency of a category of financial institution, if the Secretary determines that the category of financial institution is required to comply with this chapter and [section 1829b of this title][/us/usc/t12/s1829b] (and regulations prescribed under this chapter and [section 1829b of this title][/us/usc/t12/s1829b]), or the State supervisory agency examines the category of financial institution for compliance with this chapter and [section 1829b of this title][/us/usc/t12/s1829b] (and regulations prescribed under this chapter and [section 1829b of this title][/us/usc/t12/s1829b]).”
 
- __Consultation with State Agencies__ 
+ __Consultation With State Agencies__ 
 
 [Pub. L. 113–156, § 2(c)][/us/pl/113/156/s2/c], Aug. 8, 2014, [128 Stat. 1830][/us/stat/128/1830], provided that: 
 

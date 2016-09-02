@@ -49,7 +49,7 @@
 
         (3) __Emergency__ 
 
-        The appropriate Federal banking agency may make exceptions to subsection (a) of this section if—
+        The appropriate Federal banking agency may make exceptions to subsection (a) if—
 
             (A) the agency determines in writing that the exception is necessary to avoid a serious and imminent threat to the safety and soundness of any national bank; or
 

@@ -99,7 +99,7 @@
 
     (23) as may be authorized by the board of directors of the bank, agree with other Farm Credit System institutions to share loan and other losses, whether to protect against capital impairment or for any other purpose; and
 
-    (24) operate as an originator and become certified as a certified facility under subchapter VIII of this chapter.
+    (24) operate as an originator and become certified as a certified facility under subchapter VIII.
 
 ([Pub. L. 92–181, title I, § 1][/us/pl/92/181/s1].5, as added [Pub. L. 100–233, title IV, § 401][/us/pl/100/233/s401], Jan. 6, 1988, [101 Stat. 1623][/us/stat/101/1623]; amended [Pub. L. 100–399, title IV, § 401(d)][/us/pl/100/399/s401/d], Aug. 17, 1988, [102 Stat. 995][/us/stat/102/995]; [Pub. L. 104–105, title II, § 201][/us/pl/104/105/s201], Feb. 10, 1996, [110 Stat. 172][/us/stat/110/172].)
 

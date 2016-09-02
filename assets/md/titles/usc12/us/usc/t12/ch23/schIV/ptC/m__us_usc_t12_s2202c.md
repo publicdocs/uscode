@@ -41,7 +41,7 @@
 
         A National Special Asset Council shall be established by the Assistance Board to—
 
-            (A) monitor compliance with the restructuring requirements of this section by qualified lenders certified to issue preferred stock under [section 2278b–7 of this title][/us/usc/t12/s2278b–7], and by special asset groups established under subsection (b) of this section; and
+            (A) monitor compliance with the restructuring requirements of this section by qualified lenders certified to issue preferred stock under [section 2278b–7 of this title][/us/usc/t12/s2278b–7], and by special asset groups established under subsection (b); and
 
             (B) review a sample of determinations made by each special asset group that a loan will not be restructured.
 

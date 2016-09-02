@@ -21,7 +21,7 @@
 
     (b) __Accounts__ 
 
-        Simultaneously with the termination of the Financial Assistance Corporation as provided in subsection (a) of this section, any funds in the accounts established under [section 2278b–5 of this title][/us/usc/t12/s2278b–5] shall be transferred to the Insurance Fund established under [section 2277a–9 of this title][/us/usc/t12/s2277a–9].
+        Simultaneously with the termination of the Financial Assistance Corporation as provided in subsection (a), any funds in the accounts established under [section 2278b–5 of this title][/us/usc/t12/s2278b–5] shall be transferred to the Insurance Fund established under [section 2277a–9 of this title][/us/usc/t12/s2277a–9].
 
 ([Pub. L. 92–181, title VI, § 6][/us/pl/92/181/s6].31, as added [Pub. L. 100–233, title II, § 201][/us/pl/100/233/s201], Jan. 6, 1988, [101 Stat. 1605][/us/stat/101/1605]; amended [Pub. L. 102–552, title III, § 307(b)][/us/pl/102/552/s307/b], Oct. 28, 1992, [106 Stat. 4116][/us/stat/106/4116].)
 

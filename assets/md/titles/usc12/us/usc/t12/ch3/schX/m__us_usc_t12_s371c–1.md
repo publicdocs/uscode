@@ -97,7 +97,7 @@
 
         (1) the term “affiliate” has the meaning given to such term in [section 371c of this title][/us/usc/t12/s371c] (but does not include any company described in section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsection”. </sup></sup>  (b)(2) of such section or any bank);
 
-        (2) the terms “bank”, “subsidiary”, “person”, and “security” (other than security as used in subsection (b) of this section) have the meanings given to such terms in [section 371c of this title][/us/usc/t12/s371c]; and
+        (2) the terms “bank”, “subsidiary”, “person”, and “security” (other than security as used in subsection (b)) have the meanings given to such terms in [section 371c of this title][/us/usc/t12/s371c]; and
 
         (3) the term “covered transaction” has the meaning given to such term in [section 371c of this title][/us/usc/t12/s371c] (but does not include any transaction which is exempt from such definition under subsection (d) of such section).
 

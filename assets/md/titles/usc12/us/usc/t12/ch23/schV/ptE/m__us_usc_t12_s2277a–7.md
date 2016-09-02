@@ -23,7 +23,7 @@
 
     (2) __Succession__ 
 
-        The Corporation may have succession until dissolved by an Act of Congress. The Corporation shall succeed to the rights of the Farm Credit System Assistance Board under agreements between the Farm Credit System Assistance Board and System institutions certifying the institutions as eligible to issue preferred stock pursuant to subchapter VI of this chapter on the termination of the Assistance Board on the date provided in [section 2278a–12 of this title][/us/usc/t12/s2278a–12].
+        The Corporation may have succession until dissolved by an Act of Congress. The Corporation shall succeed to the rights of the Farm Credit System Assistance Board under agreements between the Farm Credit System Assistance Board and System institutions certifying the institutions as eligible to issue preferred stock pursuant to subchapter VI on the termination of the Assistance Board on the date provided in [section 2278a–12 of this title][/us/usc/t12/s2278a–12].
 
     (3) __Contracts__ 
 
@@ -89,7 +89,7 @@
 
     1996—Par. (9). [Pub. L. 104–105][/us/pl/104/105] added par. (9) and struck out heading and text of former par. (9). Text read as follows: “The Corporation may act as receiver.”
 
-    1992—Par. (2). [Pub. L. 102–552][/us/pl/102/552] inserted at end “The Corporation shall succeed to the rights of the Farm Credit System Assistance Board under agreements between the Farm Credit System Assistance Board and System institutions certifying the institutions as eligible to issue preferred stock pursuant to subchapter VI of this chapter on the termination of the Assistance Board on the date provided in [section 2278a–12 of this title][/us/usc/t12/s2278a–12].”
+    1992—Par. (2). [Pub. L. 102–552][/us/pl/102/552] inserted at end “The Corporation shall succeed to the rights of the Farm Credit System Assistance Board under agreements between the Farm Credit System Assistance Board and System institutions certifying the institutions as eligible to issue preferred stock pursuant to subchapter VI on the termination of the Assistance Board on the date provided in [section 2278a–12 of this title][/us/usc/t12/s2278a–12].”
 
     1991—Par. (4)(B). [Pub. L. 102–237][/us/pl/102/237] inserted “in any capacity,” after “and the Corporation,”.
 

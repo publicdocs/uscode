@@ -53,7 +53,7 @@
 
     (e) __Replacement of conservator__ 
 
-        The Comptroller may, without notice or hearing, replace a conservator with another conservator. Such replacement shall not affect the bank’s right under subsection (b) of this section to obtain judicial review of the Comptroller’s original decision to appoint a conservator.
+        The Comptroller may, without notice or hearing, replace a conservator with another conservator. Such replacement shall not affect the bank’s right under subsection (b) to obtain judicial review of the Comptroller’s original decision to appoint a conservator.
 
 ([Mar. 9, 1933, ch. 1][/us/act/1933-03-09/ch1], title II, § 203, [48 Stat. 2][/us/stat/48/2]; [Pub. L. 101–73, title VIII, § 802][/us/pl/101/73/s802], Aug. 9, 1989, [103 Stat. 442][/us/stat/103/442]; [Pub. L. 102–242, title I, § 133(c)][/us/pl/102/242/s133/c], Dec. 19, 1991, [105 Stat. 2271][/us/stat/105/2271].)
 

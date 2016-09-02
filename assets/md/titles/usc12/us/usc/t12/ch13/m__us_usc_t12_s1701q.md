@@ -101,7 +101,7 @@
 
                 (ii) has demonstrated experience in and capacity for underwriting multifamily housing loans that provide housing and supportive services;
 
-                (iii) may or may not be providing low-income housing tax credits in combination with the funding under this section;
+                (iii) may or may not be providing low-income housing tax credits in combination with the funding under this section; and
 
                 (iv) agrees to issue a firm commitment within 12 months of delegation.
 
@@ -369,7 +369,7 @@
 
     Subsec. (f)(2)(C). [Pub. L. 113–76, § 241(c)][/us/pl/113/76/s241/c], struck out first sentence “An agency to which review and processing is delegated pursuant to subparagraph (A) may assess a reasonable fee which shall be included in the capital advance amounts and may recommend project rental assistance amounts in excess of those initially awarded by the Secretary.”
 
-    Subsec. (f)(2)(D), (E). [Pub. L. 113–76, § 241(d)][/us/pl/113/76/s241/d], (e), added subpar. (D), redesignated former subpar. (D) as (E), and in subpar. (E), substituted “funding under this section” for “a capital advance” and “funding under this section” for “capital advance amounts or project rental assistance”
+    Subsec. (f)(2)(D), (E). [Pub. L. 113–76, § 241(d)][/us/pl/113/76/s241/d], (e), added subpar. (D), redesignated former subpar. (D) as (E), and in subpar. (E), substituted “execute funding under this section” for “execute a capital advance” and “in funding under this section” for “in capital advance amounts or project rental assistance”.
 
     2011—Subsec. (f)(1)(F) to (H). [Pub. L. 111–372, § 101][/us/pl/111/372/s101], added subpar. (F) and redesignated former subpars. (F) and (G) as (G) and (H), respectively.
 

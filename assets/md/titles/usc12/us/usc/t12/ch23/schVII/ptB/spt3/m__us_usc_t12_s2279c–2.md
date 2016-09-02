@@ -31,13 +31,13 @@
 
         (6) the merger of similar banks under [section 2279f of this title][/us/usc/t12/s2279f];
 
-        shall not take effect except in accordance with subsection (b) of this section.
+        shall not take effect except in accordance with subsection (b).
 
     (b) __Reconsideration__ 
 
         (1) __Notice__ 
 
-            Not later than 30 days after a stockholder vote in favor of any of the actions described in subsection (a) of this section, the officer or employee that records such vote shall ensure that all stockholders of the voting entity receive notice of the final results of the vote.
+            Not later than 30 days after a stockholder vote in favor of any of the actions described in subsection (a), the officer or employee that records such vote shall ensure that all stockholders of the voting entity receive notice of the final results of the vote.
 
         (2) __Effective date__ 
 

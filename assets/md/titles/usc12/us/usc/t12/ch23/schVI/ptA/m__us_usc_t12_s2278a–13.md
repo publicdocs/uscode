@@ -25,7 +25,7 @@
 
     (c) __Issuance of stock__ 
 
-        Each institution that receives assistance from the Farm Credit Administration during the interim period specified in subsection (a) of this section, in consideration thereof, shall issue preferred stock to the Financial Assistance Corporation in an amount equal to the amount of such assistance. Payments by the Financial Assistance Corporation under subsection (d) of this section shall be considered to be payments to each such institution for such stock.
+        Each institution that receives assistance from the Farm Credit Administration during the interim period specified in subsection (a), in consideration thereof, shall issue preferred stock to the Financial Assistance Corporation in an amount equal to the amount of such assistance. Payments by the Financial Assistance Corporation under subsection (d) shall be considered to be payments to each such institution for such stock.
 
     (d) __Repayment__ 
 

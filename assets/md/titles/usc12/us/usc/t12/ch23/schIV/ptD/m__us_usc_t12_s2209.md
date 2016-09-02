@@ -21,7 +21,7 @@
 
     (b) __Waiver__ 
 
-        The Farm Credit Administration may waive the limitation prescribed in subsection (a) of this section under exceptional circumstances, as determined in accordance with regulations promulgated by the Farm Credit Administration.
+        The Farm Credit Administration may waive the limitation prescribed in subsection (a) under exceptional circumstances, as determined in accordance with regulations promulgated by the Farm Credit Administration.
 
 ([Pub. L. 92–181, title IV, § 4][/us/pl/92/181/s4].21, as added [Pub. L. 100–399, title IV, § 414][/us/pl/100/399/s414], Aug. 17, 1988, [102 Stat. 1004][/us/stat/102/1004]; amended [Pub. L. 102–552, title V, § 509][/us/pl/102/552/s509], Oct. 28, 1992, [106 Stat. 4132][/us/stat/106/4132].)
 

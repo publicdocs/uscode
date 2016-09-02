@@ -43,7 +43,7 @@
 
         (1) __In general__ 
 
-            An appeal filed with a credit review committee under this section may include, as a part of the request for a review of the decision filed under subsection (b)(1) or (2) of this section, a request for an independent appraisal, by an accredited appraiser, of any interests in property securing the loan (other than the stock or participation certificates of the qualified lender held by the borrower).
+            An appeal filed with a credit review committee under this section may include, as a part of the request for a review of the decision filed under subsection (b)(1) or (2), a request for an independent appraisal, by an accredited appraiser, of any interests in property securing the loan (other than the stock or participation certificates of the qualified lender held by the borrower).
 
         (2) __Arrangement and cost__ 
 

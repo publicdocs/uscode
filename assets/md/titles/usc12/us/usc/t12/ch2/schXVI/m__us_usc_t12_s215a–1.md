@@ -21,7 +21,7 @@
 
     (b) __Scope of application__ 
 
-        Subsection (a) of this section shall not apply with respect to any consolidation or merger before June 1, 1997, unless the home State of each bank involved in the transaction has in effect a law described in [section 1831u(a)(3) of this title][/us/usc/t12/s1831u/a/3].
+        Subsection (a) shall not apply with respect to any consolidation or merger before June 1, 1997, unless the home State of each bank involved in the transaction has in effect a law described in [section 1831u(a)(3) of this title][/us/usc/t12/s1831u/a/3].
 
     (c) __Definitions__ 
 

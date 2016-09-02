@@ -19,7 +19,7 @@
 
         (1) __Number and appointment__ 
 
-        Until the permanent board of directors established in subsection (b) of this section first meets with a quorum of its members present, the Corporation shall be under the management of an interim board of directors composed of 9 members appointed by the President within 90 days after January 6, 1988, as follows:
+        Until the permanent board of directors established in subsection (b) first meets with a quorum of its members present, the Corporation shall be under the management of an interim board of directors composed of 9 members appointed by the President within 90 days after January 6, 1988, as follows:
 
             (A) 3 members appointed from among persons who are representatives of banks, other financial institutions or entities, and insurance companies.
 
@@ -79,7 +79,7 @@
 
         (10) __Termination__ 
 
-            The interim board shall terminate when the permanent board of directors established in subsection (b) of this section first meets with a quorum present.
+            The interim board shall terminate when the permanent board of directors established in subsection (b) first meets with a quorum present.
 
     (b) __Permanent board__ 
 
@@ -143,7 +143,7 @@
 
             (B) __Elected members__ 
 
-                The members elected under subparagraphs (A) and (B) of subsection (b)(2) of this section shall each be elected annually for a term ending on the date of the next annual meeting of the common stockholders of the Corporation and shall serve until their successors are elected and qualified. Any seat on the permanent board that becomes vacant after the annual election of the directors shall be filled by the members of the permanent board from the same category of directors, but only for the unexpired portion of the term.
+                The members elected under subparagraphs (A) and (B) of subsection (b)(2) shall each be elected annually for a term ending on the date of the next annual meeting of the common stockholders of the Corporation and shall serve until their successors are elected and qualified. Any seat on the permanent board that becomes vacant after the annual election of the directors shall be filled by the members of the permanent board from the same category of directors, but only for the unexpired portion of the term.
 
             (C) __Vacancy appointment__ 
 

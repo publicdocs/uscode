@@ -29,13 +29,13 @@
 
     (c) __Enforcement under Federal Deposit Insurance Act__ 
 
-        Such terms, conditions, and limitations as may be prescribed under subsection (a)(1) of this section shall be enforceable under the provisions of section 8(i) of the Federal Deposit Insurance Act \[[12 U.S.C. 1818(i)][/us/usc/t12/s1818/i]\], to the same extent as an order issued pursuant to section 8(b) of the Federal Deposit Insurance Act \[[12 U.S.C. 1818(b)][/us/usc/t12/s1818/b]\] which has become final. The bank may bring an action in the United States district court for the judicial district in which the home office of such bank is located or in the United States District Court for the District of Columbia for an order requiring the Comptroller to terminate the order. An action for judicial review of the terms, conditions, and limitations may not be commenced later than 20 days from the date of the termination of the conservatorship or the imposition of the order, whichever is later.
+        Such terms, conditions, and limitations as may be prescribed under subsection (a)(1) shall be enforceable under the provisions of section 8(i) of the Federal Deposit Insurance Act \[[12 U.S.C. 1818(i)][/us/usc/t12/s1818/i]\], to the same extent as an order issued pursuant to section 8(b) of the Federal Deposit Insurance Act \[[12 U.S.C. 1818(b)][/us/usc/t12/s1818/b]\] which has become final. The bank may bring an action in the United States district court for the judicial district in which the home office of such bank is located or in the United States District Court for the District of Columbia for an order requiring the Comptroller to terminate the order. An action for judicial review of the terms, conditions, and limitations may not be commenced later than 20 days from the date of the termination of the conservatorship or the imposition of the order, whichever is later.
 
     (d) __Action upon termination__ 
 
         (1) __In general__ 
 
-            Upon termination of the conservatorship under subsection (a)(2) of this section, the Federal Deposit Insurance Corporation, as conservator, or when another person is appointed conservator, such other person, shall conclude the affairs of the conservatorship in accordance with paragraph (2).
+            Upon termination of the conservatorship under subsection (a)(2), the Federal Deposit Insurance Corporation, as conservator, or when another person is appointed conservator, such other person, shall conclude the affairs of the conservatorship in accordance with paragraph (2).
 
         (2) __Deposit and distribution of proceeds__ 
 

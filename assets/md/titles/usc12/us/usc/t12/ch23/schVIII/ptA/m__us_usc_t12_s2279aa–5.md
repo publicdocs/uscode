@@ -45,7 +45,7 @@
 
     (b) __Certification by Corporation__ 
 
-        Within 60 days after receiving an application for certification under this section, the Corporation shall certify the facility if the facility meets the standards established by the Corporation under subsection (a)(1) of this section.
+        Within 60 days after receiving an application for certification under this section, the Corporation shall certify the facility if the facility meets the standards established by the Corporation under subsection (a)(1).
 
     (c) __Maximum time period for certification__ 
 
@@ -55,7 +55,7 @@
 
         (1) __In general__ 
 
-            After notice and an opportunity for a hearing, the Corporation may revoke the certification of an agricultural mortgage marketing facility if the Corporation determines that the facility no longer meets the standards referred to in subsection (a) of this section.
+            After notice and an opportunity for a hearing, the Corporation may revoke the certification of an agricultural mortgage marketing facility if the Corporation determines that the facility no longer meets the standards referred to in subsection (a).
 
         (2) __Effect of revocation__ 
 
@@ -65,7 +65,7 @@
 
         (1) __Establishment of affiliate authorized__ 
 
-            Notwithstanding any other provision of this chapter, any Farm Credit System institution, acting for such institution alone or in conjunction with one or more other such institutions, may establish and operate, as an affiliate, an agricultural mortgage marketing facility if, within a reasonable time after such establishment, such facility obtains and thereafter retains certification under subsection (b) of this section as a certified facility.
+            Notwithstanding any other provision of this chapter, any Farm Credit System institution, acting for such institution alone or in conjunction with one or more other such institutions, may establish and operate, as an affiliate, an agricultural mortgage marketing facility if, within a reasonable time after such establishment, such facility obtains and thereafter retains certification under subsection (b) as a certified facility.
 
         (2) __Exclusive agency agreement authorized__ 
 

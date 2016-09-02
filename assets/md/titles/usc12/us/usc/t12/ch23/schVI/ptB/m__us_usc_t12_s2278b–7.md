@@ -37,7 +37,7 @@
 
     (b) __Purchase__ 
 
-        The Financial Assistance Corporation shall purchase shares of stock issued by certified System institutions under subsection (a) of this section to the extent that the issuance of such stock is approved by the Assistance Board.
+        The Financial Assistance Corporation shall purchase shares of stock issued by certified System institutions under subsection (a) to the extent that the issuance of such stock is approved by the Assistance Board.
 
 ([Pub. L. 92–181, title VI, § 6][/us/pl/92/181/s6].27, as added [Pub. L. 100–233, title II, § 201][/us/pl/100/233/s201], Jan. 6, 1988, [101 Stat. 1602][/us/stat/101/1602]; amended [Pub. L. 100–399, title II, § 201(y)][/us/pl/100/399/s201/y]–(aa), Aug. 17, 1988, [102 Stat. 992][/us/stat/102/992].)
 

@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-        In accordance with [section 2154a of this title][/us/usc/t12/s2154a], each production credit association shall provide, through its bylaws and subject to Farm Credit Administration regulations, for its capitalization and the manner in which its stock shall be issued, held, transferred, and retired and, except as provided in subsection (b) of this section, its earnings distributed.
+        In accordance with [section 2154a of this title][/us/usc/t12/s2154a], each production credit association shall provide, through its bylaws and subject to Farm Credit Administration regulations, for its capitalization and the manner in which its stock shall be issued, held, transferred, and retired and, except as provided in subsection (b), its earnings distributed.
 
     (b) __Application of earnings__ 
 

@@ -65,7 +65,7 @@
 
             (B) __Timing of elections__ 
 
-                Procedures for electing members of the board of directors of the consolidated bank under this subsection shall ensure that the beginning of the terms of such members coincide with the expiration of the terms of members of the interim board of directors of the bank under subsection (a) of this section.
+                Procedures for electing members of the board of directors of the consolidated bank under this subsection shall ensure that the beginning of the terms of such members coincide with the expiration of the terms of members of the interim board of directors of the bank under subsection (a).
 
         (4) __FCA regulations__ 
 
@@ -73,7 +73,7 @@
 
     (c) __Modification of board of directors provisions__ 
 
-        The provisions of subsection (b) of this section relating to the board of directors of the consolidated bank, other than the provisions relating to the initial composition, nomination, and election of the members of the board, may be modified on an affirmative vote of at least two-thirds of the voting stockholders of the bank, with each such stockholder to have, for such purposes, only one vote. Any proposals for modifying such provisions shall be submitted for a vote by such stockholders in accordance with procedures prescribed by the Farm Credit Administration.
+        The provisions of subsection (b) relating to the board of directors of the consolidated bank, other than the provisions relating to the initial composition, nomination, and election of the members of the board, may be modified on an affirmative vote of at least two-thirds of the voting stockholders of the bank, with each such stockholder to have, for such purposes, only one vote. Any proposals for modifying such provisions shall be submitted for a vote by such stockholders in accordance with procedures prescribed by the Farm Credit Administration.
 
 ([Pub. L. 92–181, title III, § 3][/us/pl/92/181/s3].21, as added [Pub. L. 100–233, title IV, § 415(2)][/us/pl/100/233/s415/2], Jan. 6, 1988, [101 Stat. 1642][/us/stat/101/1642]; amended [Pub. L. 100–399, title IV, § 407(c)][/us/pl/100/399/s407/c], (d), Aug. 17, 1988, [102 Stat. 1000][/us/stat/102/1000].)
 

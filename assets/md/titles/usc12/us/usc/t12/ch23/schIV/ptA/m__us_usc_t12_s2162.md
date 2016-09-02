@@ -27,7 +27,7 @@
 
         (2) to cancel borrower stock at par value under [section 2202b of this title][/us/usc/t12/s2202b]; or
 
-        (3) to apply, against any outstanding indebtedness to a System association arising out of or in connection with a liquidation referred to in subsection (d)(2) of this section, the par value of borrower stock frozen in such liquidation.
+        (3) to apply, against any outstanding indebtedness to a System association arising out of or in connection with a liquidation referred to in subsection (d)(2), the par value of borrower stock frozen in such liquidation.
 
     (c) __Inability to retire stock at par value__ 
 

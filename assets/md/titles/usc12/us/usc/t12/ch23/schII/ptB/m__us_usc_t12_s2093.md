@@ -75,7 +75,7 @@
 
     (21) contribute to the capital of the bank; and
 
-    (22) operate as an originator and become certified as a certified facility under subchapter VIII of this chapter.
+    (22) operate as an originator and become certified as a certified facility under subchapter VIII.
 
 ([Pub. L. 92–181, title II, § 2][/us/pl/92/181/s2].12, as added [Pub. L. 100–233, title IV, § 401][/us/pl/100/233/s401], Jan. 6, 1988, [101 Stat. 1635][/us/stat/101/1635]; amended [Pub. L. 100–399, title IV, § 401(u)][/us/pl/100/399/s401/u], Aug. 17, 1988, [102 Stat. 998][/us/stat/102/998].)
 

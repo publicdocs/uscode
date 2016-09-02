@@ -45,7 +45,7 @@
 
     (d) __Effect on other remedies__ 
 
-        The remedies provided in subsections (b) and (c) of this section shall not be construed as limiting any other remedies against any insured System bank, but shall be in addition thereto.
+        The remedies provided in subsections (b) and (c) shall not be construed as limiting any other remedies against any insured System bank, but shall be in addition thereto.
 
 ([Pub. L. 92–181, title V, § 5][/us/pl/92/181/s5].57, as added [Pub. L. 100–233, title III, § 302][/us/pl/100/233/s302], Jan. 6, 1988, [101 Stat. 1613][/us/stat/101/1613]; amended [Pub. L. 100–399, title III, § 302(g)][/us/pl/100/399/s302/g], (h), Aug. 17, 1988, [102 Stat. 994][/us/stat/102/994].)
 

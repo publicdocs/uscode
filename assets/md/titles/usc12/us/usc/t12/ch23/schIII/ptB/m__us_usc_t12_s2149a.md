@@ -27,7 +27,7 @@
 
     (b) __Availability__ 
 
-        A copy of the report required in subsection (a) of this section shall be made available to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+        A copy of the report required in subsection (a) shall be made available to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
 ([Pub. L. 92–181, title III, § 3][/us/pl/92/181/s3].29, formerly title VII, § 7.5, as added [Pub. L. 100–233, title IV, § 416][/us/pl/100/233/s416], Jan. 6, 1988, [101 Stat. 1646][/us/stat/101/1646]; renumbered § 3.29, [Pub. L. 100–399, title IV, § 408(e)][/us/pl/100/399/s408/e], Aug. 17, 1988, [102 Stat. 1001][/us/stat/102/1001].)
 
