@@ -861,7 +861,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
                               Barack Obama.
 
-    Term of President’s Advisory Council on Faith-Based and Neighborhood Partnerships extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+    Term of President’s Advisory Council on Faith-Based and Neighborhood Partnerships extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
  __White House Task Force on Middle-Class Working Families__ 
 
