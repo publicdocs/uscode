@@ -111,21 +111,57 @@
 
             (B) shall be made on condition that the non-Federal share of the costs are provided from non-Federal sources.
 
+        (4) __Competitive awards__ 
+
+            (A) __In general__ 
+
+                Using the amounts made available under subsection (i)(2)(B), the Administrator shall make competitive awards under this paragraph.
+
+            (B) __Application for awards__ 
+
+                The Administrator shall solicit applications for awards under this paragraph from State, interstate, and regional water pollution control agencies and entities, State coastal zone management agencies, interstate agencies, other public or nonprofit private agencies, institutions, organizations, and individuals.
+
+            (C) __Selection of recipients__ 
+
+            In selecting award recipients under this paragraph, the Administrator shall select recipients that are best able to address urgent and challenging issues that threaten the ecological and economic well-being of coastal areas. Such issues shall include—
+
+                (i) extensive seagrass habitat losses resulting in significant impacts on fisheries and water quality;
+
+                (ii) recurring harmful algae blooms;
+
+                (iii) unusual marine mammal mortalities;
+
+                (iv) invasive exotic species that may threaten wastewater systems and cause other damage;
+
+                (v) jellyfish proliferation limiting community access to water during peak tourism seasons;
+
+                (vi) flooding that may be related to sea level rise or wetland degradation or loss; and
+
+                (vii) low dissolved oxygen conditions in estuarine waters and related nutrient management.
+
     (h) __Grant reporting__ 
 
         Any person (including a State, interstate, or regional agency or entity) that receives a grant under subsection (g) of this section shall report to the Administrator not later than 18 months after receipt of such grant and biennially thereafter on the progress being made under this section.
 
     (i) __Authorization of appropriations__ 
 
-    There are authorized to be appropriated to the Administrator not to exceed $35,000,000 for each of fiscal years 2001 through 2010 for—
+        (1) __In general__ 
 
-        (1) expenses related to the administration of management conferences under this section, not to exceed 10 percent of the amount appropriated under this subsection;
+        There is authorized to be appropriated to the Administrator $26,500,000 for each of fiscal years 2017 through 2021 for—
 
-        (2) making grants under subsection (g) of this section; and
+            (A) expenses relating to the administration of grants or awards by the Administrator under this section, including the award and oversight of grants and awards, except that such expenses may not exceed 5 percent of the amount appropriated under this subsection for a fiscal year; and
 
-        (3) monitoring the implementation of a conservation and management plan by the management conference or by the Administrator, in any case in which the conference has been terminated.
+            (B) making grants and awards under subsection (g).
 
-        The Administrator shall provide up to $5,000,000 per fiscal year of the sums authorized to be appropriated under this subsection to the Administrator of the National Oceanic and Atmospheric Administration to carry out subsection (j) of this section.
+        (2) __Allocations__ 
+
+            (A) __Conservation and management plans__ 
+
+                Not less than 80 percent of the amount made available under this subsection for a fiscal year shall be used by the Administrator to provide grant assistance for the development, implementation, and monitoring of each of the conservation and management plans eligible for grant assistance under subsection (g)(2).
+
+            (B) __Competitive awards__ 
+
+                Not less than 15 percent of the amount made available under this subsection for a fiscal year shall be used by the Administrator for making competitive awards described in subsection (g)(4).
 
     (j) __Research__ 
 
@@ -157,13 +193,17 @@
 
         For purposes of this section, the terms “estuary” and “estuarine zone” have the meanings such terms have in [section 1254(n)(4) of this title][/us/usc/t33/s1254/n/4], except that the term “estuarine zone” shall also include associated aquatic ecosystems and those portions of tributaries draining into the estuary up to the historic height of migration of anadromous fish or the historic head of tidal influence, whichever is higher.
 
-([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 320, as added [Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 317(b), Feb. 4, 1987, [101 Stat. 61][/us/stat/101/61]; amended [Pub. L. 100–202][/us/pl/100/202], § 101(f) \[title II, 201\], Dec. 22, 1987, [101 Stat. 1329–187][/us/stat/101/1329-187], 1329–197; [Pub. L. 100–653, title X][/us/pl/100/653/tX], § 1004, Nov. 14, 1988, [102 Stat. 3836][/us/stat/102/3836]; [Pub. L. 100–688, title II][/us/pl/100/688/tII], § 2001, Nov. 18, 1988, [102 Stat. 4151][/us/stat/102/4151]; [Pub. L. 105–362, title V][/us/pl/105/362/tV], § 501(a)(2), Nov. 10, 1998, [112 Stat. 3283][/us/stat/112/3283]; [Pub. L. 106–457, title III][/us/pl/106/457/tIII], §§ 301—303, Nov. 7, 2000, [114 Stat. 1972][/us/stat/114/1972]; [Pub. L. 107–303, title III][/us/pl/107/303/tIII], § 302(b)(1), Nov. 27, 2002, [116 Stat. 2361][/us/stat/116/2361]; [Pub. L. 108–399][/us/pl/108/399], § 1, Oct. 30, 2004, [118 Stat. 2253][/us/stat/118/2253].)
+([June 30, 1948, ch. 758][/us/act/1948-06-30/ch758], title III, § 320, as added [Pub. L. 100–4, title III][/us/pl/100/4/tIII], § 317(b), Feb. 4, 1987, [101 Stat. 61][/us/stat/101/61]; amended [Pub. L. 100–202][/us/pl/100/202], § 101(f) \[title II, 201\], Dec. 22, 1987, [101 Stat. 1329–187][/us/stat/101/1329-187], 1329–197; [Pub. L. 100–653, title X][/us/pl/100/653/tX], § 1004, Nov. 14, 1988, [102 Stat. 3836][/us/stat/102/3836]; [Pub. L. 100–688, title II][/us/pl/100/688/tII], § 2001, Nov. 18, 1988, [102 Stat. 4151][/us/stat/102/4151]; [Pub. L. 105–362, title V][/us/pl/105/362/tV], § 501(a)(2), Nov. 10, 1998, [112 Stat. 3283][/us/stat/112/3283]; [Pub. L. 106–457, title III][/us/pl/106/457/tIII], §§ 301—303, Nov. 7, 2000, [114 Stat. 1972][/us/stat/114/1972]; [Pub. L. 107–303, title III][/us/pl/107/303/tIII], § 302(b)(1), Nov. 27, 2002, [116 Stat. 2361][/us/stat/116/2361]; [Pub. L. 108–399][/us/pl/108/399], § 1, Oct. 30, 2004, [118 Stat. 2253][/us/stat/118/2253]; [Pub. L. 114–162][/us/pl/114/162], §§ 1, 2, May 20, 2016, [130 Stat. 409][/us/stat/130/409].)
 
  __References in Text__ 
 
     Executive Order 12372, referred to in subsec. (b), is Ex. Ord. No. 12372, July 14, 1982, 47 F.R. 30959, as amended, which is set out under [section 6506 of Title 31][/us/usc/t31/s6506], Money and Finance.
 
  __Amendments__ 
+
+    2016—Subsec. (g)(4). [Pub. L. 114–162][/us/pl/114/162], § 1, added par. (4).
+
+    Subsec. (i). [Pub. L. 114–162][/us/pl/114/162], § 2, added subsec. (i) and struck out former subsec. (i) which related to authorization of appropriations for fiscal years 2001 through 2010.
 
     2004—Subsec. (i). [Pub. L. 108–399][/us/pl/108/399] substituted “2010” for “2005” in introductory provisions.
 
@@ -289,7 +329,11 @@
 [/us/stat/116/2361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2361
 [/us/pl/108/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F399
 [/us/stat/118/2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2253
+[/us/pl/114/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F162
+[/us/stat/130/409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F409
 [/us/usc/t31/s6506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6506
+[/us/pl/114/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F162
+[/us/pl/114/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F162
 [/us/pl/108/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F399
 [/us/pl/107/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F303
 [/us/pl/105/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F362
