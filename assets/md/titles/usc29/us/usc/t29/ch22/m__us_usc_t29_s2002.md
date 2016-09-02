@@ -15,7 +15,7 @@
 
 ## § 2002. Prohibitions on lie detector use
 
-Except as provided in sections 2006 and 2007 of this title, it shall be unlawful for any employer engaged in or affecting commerce or in the production of goods for commerce—
+    Except as provided in sections 2006 and 2007 of this title, it shall be unlawful for any employer engaged in or affecting commerce or in the production of goods for commerce—
 
     (1) directly or indirectly, to require, request, suggest, or cause any employee or prospective employee to take or submit to any lie detector test;
 

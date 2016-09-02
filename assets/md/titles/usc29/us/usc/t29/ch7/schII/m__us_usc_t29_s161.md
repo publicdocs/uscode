@@ -15,7 +15,7 @@
 
 ## § 161. Investigatory powers of Board
 
-For the purpose of all hearings and investigations, which, in the opinion of the Board, are necessary and proper for the exercise of the powers vested in it by sections 159 and 160 of this title—
+    For the purpose of all hearings and investigations, which, in the opinion of the Board, are necessary and proper for the exercise of the powers vested in it by sections 159 and 160 of this title—
 
     (1) __Documentary evidence; summoning witnesses and taking testimony__ 
 

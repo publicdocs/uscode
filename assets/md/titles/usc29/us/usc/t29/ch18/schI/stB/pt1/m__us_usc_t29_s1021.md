@@ -639,7 +639,7 @@
 
 >     The amendments made by this section \[enacting [section 1169 of this title][/us/usc/t29/s1169] and amending this section and sections 1132 and 1144 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\].
 
->     “(2) __Plan amendments not required until january 1, 1994.—__ 
+>     “(2) __Plan amendments not required until__  __january 1, 1994__  __.—__ 
 
 >     Any amendment to a plan required to be made by an amendment made by this section shall not be required to be made before the first plan year beginning on or after January 1, 1994, if—
 

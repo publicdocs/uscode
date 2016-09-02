@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch19/schIV/ptB/m__us_usc_t29_s1691 to 1709.md) | [Next](./../../../../../..//us/usc/t29/ch19/schIV/ptC/m__us_usc_t29_s1721.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch19%2FschIV%2FptC)
+[Previous](./../../../../../..//us/usc/t29/ch19/schIV/ptB/m__us_usc_t29_ch19_schIV_ptB.md) | [Next](./../../../../../..//us/usc/t29/ch19/schIV/ptC/m__us_usc_t29_s1721.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch19%2FschIV%2FptC)
 
 #### Part C—Veterans’ Employment Programs
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch19/schIV/ptB/m__us_usc_t29_s1691 to 1709.md) | [Next](./../../../../../..//us/usc/t29/ch19/schIV/ptC/m__us_usc_t29_s1721.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch19%2FschIV%2FptC)
+[Previous](./../../../../../..//us/usc/t29/ch19/schIV/ptB/m__us_usc_t29_ch19_schIV_ptB.md) | [Next](./../../../../../..//us/usc/t29/ch19/schIV/ptC/m__us_usc_t29_s1721.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch19%2FschIV%2FptC)
 
 ----------
 ----------

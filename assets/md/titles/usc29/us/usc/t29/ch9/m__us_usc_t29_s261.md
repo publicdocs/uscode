@@ -15,7 +15,7 @@
 
 ## § 261. Applicability of “area of production” regulations
 
-No employer shall be subject to any liability or punishment under the Fair Labor Standards Act of 1938, as amended \[[29 U.S.C. 201][/us/usc/t29/s201] et seq.\], on account of the failure of such employer to pay an employee minimum wages, or to pay an employee overtime compensation, for or on account of an activity engaged in by such employee prior to December 26, 1946, if such employer—
+    No employer shall be subject to any liability or punishment under the Fair Labor Standards Act of 1938, as amended \[[29 U.S.C. 201][/us/usc/t29/s201] et seq.\], on account of the failure of such employer to pay an employee minimum wages, or to pay an employee overtime compensation, for or on account of an activity engaged in by such employee prior to December 26, 1946, if such employer—
 
     (1) was not so subject by reason of the definition of an “area of production”, by a regulation of the Administrator of the Wage and Hour Division of the Department of Labor, which regulation was applicable at the time of performance of the activity even though at that time the regulation was invalid; or
 

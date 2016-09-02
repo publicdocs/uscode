@@ -15,7 +15,7 @@
 
 ## § 796a. Definitions
 
-As used in this part:
+    As used in this part:
 
     (1) __Center for independent living__ 
 

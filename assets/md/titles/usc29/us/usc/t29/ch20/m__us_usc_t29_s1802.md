@@ -15,7 +15,7 @@
 
 ## § 1802. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (1) The term “agricultural association” means any nonprofit or cooperative association of farmers, growers, or ranchers, incorporated or qualified under applicable State law, which recruits, solicits, hires, employs, furnishes, or transports any migrant or seasonal agricultural worker.
 

@@ -15,7 +15,7 @@
 
 ## § 2505. Applications
 
-To be eligible to be selected under [section 2503(b) of this title][/us/usc/t29/s2503/b] to receive technical assistance provided with grants made under [section 2503(a) of this title][/us/usc/t29/s2503/a], an employer or labor union shall submit an application to the Secretary at such time, in such manner and containing or accompanied by such information as the Secretary may reasonably require. At a minimum, the application should include—
+    To be eligible to be selected under [section 2503(b) of this title][/us/usc/t29/s2503/b] to receive technical assistance provided with grants made under [section 2503(a) of this title][/us/usc/t29/s2503/a], an employer or labor union shall submit an application to the Secretary at such time, in such manner and containing or accompanied by such information as the Secretary may reasonably require. At a minimum, the application should include—
 
     (1) a description of the need for technical assistance;
 

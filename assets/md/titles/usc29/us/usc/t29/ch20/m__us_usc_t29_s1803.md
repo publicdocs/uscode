@@ -19,9 +19,13 @@
 
      The following persons are not subject to this chapter:
 
-        (1) __Family business exemption.—Any individual who engages in a farm labor contracting activity on behalf of a farm, processing establishment, seed conditioning establishment, cannery, gin, packing shed, or nursery, which is owned or operated exclusively by such individual or an immediate family member of such individual, if such activities are performed only for such operation and exclusively by such individual or an immediate family member, but without regard to whether such individual has incorporated or otherwise organized for business purposes.__ 
+        (1) __Family business exemption.—__ 
 
-        (2) __Small business exemption.—Any person, other than a farm labor contractor, for whom the man-days exemption for agricultural labor provided under section 13(a)(6)(A) of the Fair Labor Standards Act of 1938 (__  __[__  __29 U.S.C. 213(a)(6)(A)__  __][/us/usc/t29/s213/a/6/A]__  __) is applicable.__ 
+        Any individual who engages in a farm labor contracting activity on behalf of a farm, processing establishment, seed conditioning establishment, cannery, gin, packing shed, or nursery, which is owned or operated exclusively by such individual or an immediate family member of such individual, if such activities are performed only for such operation and exclusively by such individual or an immediate family member, but without regard to whether such individual has incorporated or otherwise organized for business purposes.
+
+        (2) __Small business exemption.—__ 
+
+        Any person, other than a farm labor contractor, for whom the man-days exemption for agricultural labor provided under section 13(a)(6)(A) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 213(a)(6)(A)][/us/usc/t29/s213/a/6/A]) is applicable.
 
         (3) __Other exemptions.—__ 
 

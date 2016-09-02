@@ -235,7 +235,7 @@
 
 >     The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 22, 1996\].
 
->     “(2) __Plan amendments not required until january 1, 1997.—__ 
+>     “(2) __Plan amendments not required until__  __january 1, 1997__  __.—__ 
 
 >     Any amendment to a plan required to be made by an amendment made by this section shall not be required to be made before the 1st plan year beginning on or after January 1, 1997, if—
 
@@ -387,7 +387,9 @@
 
 >                 “(ii) __Enrollment of child in plan.—__ 
 
->                 In any case in which an appropriately completed National Medical Support Notice is issued in the case of a child of a participant under a church group health plan who is a parent of the child, and the Notice is deemed under clause (i) to be a qualified medical child support order, the plan administrator, within 40 business days after the date of the Notice, shall—         “(I) notify the State agency issuing the Notice with respect to such child whether coverage of the child is available under the terms of the plan and, if so, whether such child is covered under the plan and either the effective date of the coverage or any steps necessary to be taken by the custodial parent (or by the official of a State or political subdivision thereof substituted for the name of such child pursuant to paragraph (3)(A)) to effectuate the coverage; and
+>                 In any case in which an appropriately completed National Medical Support Notice is issued in the case of a child of a participant under a church group health plan who is a parent of the child, and the Notice is deemed under clause (i) to be a qualified medical child support order, the plan administrator, within 40 business days after the date of the Notice, shall—
+
+>                          “(I) notify the State agency issuing the Notice with respect to such child whether coverage of the child is available under the terms of the plan and, if so, whether such child is covered under the plan and either the effective date of the coverage or any steps necessary to be taken by the custodial parent (or by the official of a State or political subdivision thereof substituted for the name of such child pursuant to paragraph (3)(A)) to effectuate the coverage; and
 
 >                          “(II) provide to the custodial parent (or such substituted official) a description of the coverage available and any forms or documents necessary to effectuate such coverage.
 

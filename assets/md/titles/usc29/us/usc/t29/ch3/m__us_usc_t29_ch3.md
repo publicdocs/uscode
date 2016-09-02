@@ -11,16 +11,40 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch2A/m__us_usc_t29_s18 to 18c.md) | [Next](./../../../..//us/usc/t29/ch3/m__us_usc_t29_s21 to 25.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch3)
+[Previous](./../../../..//us/usc/t29/ch2A/m__us_usc_t29_ch2A.md) | [Next](./../../../..//us/usc/t29/ch4/m__us_usc_t29_ch4.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch3)
 
 ## CHAPTER 3—NATIONAL TRADE UNIONS
 
+§§ 21 to 25. __Repealed.__  __[__  __July 22, 1932, ch. 524__  __][/us/act/1932-07-22/ch524]__  __,__  __[__  __47 Stat. 741__  __][/us/stat/47/741]__ 
+
+    Section 21, [act June 29, 1886, ch. 567, § 1][/us/act/1886-06-29/ch567/s1], [24 Stat. 86][/us/stat/24/86], defined a National Trade Union for purposes of this chapter.
+
+    Section 22, [act June 29, 1886, ch. 567, § 2][/us/act/1886-06-29/ch567/s2], [24 Stat. 86][/us/stat/24/86], related to rights of a National Trade Union upon incorporation in the office of the recorder of the District of Columbia.
+
+    Section 23, [act June 29, 1886, ch. 567, § 3][/us/act/1886-06-29/ch567/s3], [24 Stat. 86][/us/stat/24/86], related to power of an incorporated National Trade Union to establish and amend its own constitution, rules, and by-laws.
+
+    Section 24, [act June 29, 1886, ch. 567, § 4][/us/act/1886-06-29/ch567/s4], [24 Stat. 86][/us/stat/24/86], related to power of an incorporated National Trade Union to establish and grant powers to its own officers.
+
+    Section 25, [act June 29, 1886, ch. 567, § 5][/us/act/1886-06-29/ch567/s5], [24 Stat. 86][/us/stat/24/86], related to establishment of a headquarters of a National Trade Union in District of Columbia.
+
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch2A/m__us_usc_t29_s18 to 18c.md) | [Next](./../../../..//us/usc/t29/ch3/m__us_usc_t29_s21 to 25.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch3)
+[Previous](./../../../..//us/usc/t29/ch2A/m__us_usc_t29_ch2A.md) | [Next](./../../../..//us/usc/t29/ch4/m__us_usc_t29_ch4.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch3)
 
 ----------
 ----------
 
+[/us/act/1932-07-22/ch524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-07-22%2Fch524
+[/us/stat/47/741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F741
+[/us/act/1886-06-29/ch567/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1886-06-29%2Fch567%2Fs1
+[/us/stat/24/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F86
+[/us/act/1886-06-29/ch567/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1886-06-29%2Fch567%2Fs2
+[/us/stat/24/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F86
+[/us/act/1886-06-29/ch567/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1886-06-29%2Fch567%2Fs3
+[/us/stat/24/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F86
+[/us/act/1886-06-29/ch567/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1886-06-29%2Fch567%2Fs4
+[/us/stat/24/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F86
+[/us/act/1886-06-29/ch567/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1886-06-29%2Fch567%2Fs5
+[/us/stat/24/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F24%2F86
 
 

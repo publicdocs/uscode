@@ -419,13 +419,21 @@
 
 >                 “(i) Braille;
 
->                 “(ii) auditory means, such as—         “(I) ‘talking bottles’ that provide audible container label information;
+>                 “(ii)
+
+>                  auditory means, such as—
+
+>                          “(I) ‘talking bottles’ that provide audible container label information;
 
 >                          “(II) digital voice recorders attached to the prescription drug container; and
 
 >                          “(III) radio frequency identification tags;
 
->                 “(iii) enhanced visual means, such as—         “(I) large font labels or large font ‘duplicate’ labels that are affixed or matched to a prescription drug container;
+>                 “(iii)
+
+>                  enhanced visual means, such as—
+
+>                          “(I) large font labels or large font ‘duplicate’ labels that are affixed or matched to a prescription drug container;
 
 >                          “(II) high-contrast printing; and
 

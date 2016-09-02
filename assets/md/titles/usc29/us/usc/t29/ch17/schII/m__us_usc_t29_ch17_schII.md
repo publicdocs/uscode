@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t29/ch17/schI/ptB/m__us_usc_t29_s830 to 837.md) | [Next](./../../../../..//us/usc/t29/ch17/schII/ptA/m__us_usc_t29_ch17_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch17%2FschII)
+[Previous](./../../../../..//us/usc/t29/ch17/schI/ptB/m__us_usc_t29_s829a.md) | [Next](./../../../../..//us/usc/t29/ch17/schII/ptA/m__us_usc_t29_ch17_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch17%2FschII)
 
 ### SUBCHAPTER II—COMPREHENSIVE EMPLOYMENT AND TRAINING SERVICES
 
 ----------
 
-[Previous](./../../../../..//us/usc/t29/ch17/schI/ptB/m__us_usc_t29_s830 to 837.md) | [Next](./../../../../..//us/usc/t29/ch17/schII/ptA/m__us_usc_t29_ch17_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch17%2FschII)
+[Previous](./../../../../..//us/usc/t29/ch17/schI/ptB/m__us_usc_t29_s829a.md) | [Next](./../../../../..//us/usc/t29/ch17/schII/ptA/m__us_usc_t29_ch17_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch17%2FschII)
 
 ----------
 ----------

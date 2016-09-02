@@ -15,7 +15,7 @@
 
 ## § 1365. Annual report of plan administrator
 
-For each plan year for which [section 1321 of this title][/us/usc/t29/s1321] applies to a plan, the plan administrator shall file with the corporation, on a form prescribed by the corporation, an annual report which identifies the plan and plan administrator and which includes—
+    For each plan year for which [section 1321 of this title][/us/usc/t29/s1321] applies to a plan, the plan administrator shall file with the corporation, on a form prescribed by the corporation, an annual report which identifies the plan and plan administrator and which includes—
 
     (1) a copy of each notification required under [section 1363 of this title][/us/usc/t29/s1363] with respect to such year,
 
@@ -37,7 +37,7 @@ For each plan year for which [section 1321 of this title][/us/usc/t29/s1321] app
 
         (C) the number of employers having an obligation to contribute to the plan and the number of employers required to make withdrawal liability payments.
 
-        The report shall be filed within 6 months after the close of the plan year to which it relates. The corporation shall cooperate with the Secretary of the Treasury and the Secretary of Labor in an endeavor to coordinate the timing and content, and possibly obtain the combination, of reports under this section with reports required to be made by plan administrators to such Secretaries.
+    The report shall be filed within 6 months after the close of the plan year to which it relates. The corporation shall cooperate with the Secretary of the Treasury and the Secretary of Labor in an endeavor to coordinate the timing and content, and possibly obtain the combination, of reports under this section with reports required to be made by plan administrators to such Secretaries.
 
 ([Pub. L. 93–406, title IV, § 4065][/us/pl/93/406/s4065], Sept. 2, 1974, [88 Stat. 1032][/us/stat/88/1032]; [Pub. L. 96–364, title I, § 106][/us/pl/96/364/s106], Sept. 26, 1980, [94 Stat. 1266][/us/stat/94/1266].)
 

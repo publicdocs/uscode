@@ -15,7 +15,7 @@
 
 ## § 49a. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) the term “chief elected official” has the same meaning given that term under the Workforce Investment Act of 1998;
 

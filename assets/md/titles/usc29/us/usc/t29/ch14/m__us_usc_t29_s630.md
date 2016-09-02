@@ -15,7 +15,7 @@
 
 ## § 630. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (a) The term “person” means one or more individuals, partnerships, associations, labor organizations, corporations, business trusts, legal representatives, or any organized groups of persons.
 

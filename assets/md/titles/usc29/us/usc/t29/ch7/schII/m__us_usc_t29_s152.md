@@ -15,7 +15,7 @@
 
 ## § 152. Definitions
 
-When used in this subchapter—
+    When used in this subchapter—
 
     (1) The term “person” includes one or more individuals, labor organizations, partnerships, associations, corporations, legal representatives, trustees, trustees in cases under title 11, or receivers.
 
@@ -41,9 +41,7 @@ When used in this subchapter—
 
     (12)
 
-     The term “professional employee” means—
-
-        (a) any employee engaged in work (i) predominantly intellectual and varied in character as opposed to routine mental, manual, mechanical, or physical work; (ii) involving the consistent exercise of discretion and judgment in its performance; (iii) of such a character that the output produced or the result accomplished cannot be standardized in relation to a given period of time; (iv) requiring knowledge of an advanced type in a field of science or learning customarily acquired by a prolonged course of specialized intellectual instruction and study in an institution of higher learning or a hospital, as distinguished from a general academic education or from an apprenticeship or from training in the performance of routine mental, manual, or physical processes; or
+     The term “professional employee” means—    (a) any employee engaged in work (i) predominantly intellectual and varied in character as opposed to routine mental, manual, mechanical, or physical work; (ii) involving the consistent exercise of discretion and judgment in its performance; (iii) of such a character that the output produced or the result accomplished cannot be standardized in relation to a given period of time; (iv) requiring knowledge of an advanced type in a field of science or learning customarily acquired by a prolonged course of specialized intellectual instruction and study in an institution of higher learning or a hospital, as distinguished from a general academic education or from an apprenticeship or from training in the performance of routine mental, manual, or physical processes; or
 
         (b) any employee, who (i) has completed the courses of specialized intellectual instruction and study described in clause (iv) of paragraph (a), and (ii) is performing related work under the supervision of a professional person to qualify himself to become a professional employee as defined in paragraph (a).
 

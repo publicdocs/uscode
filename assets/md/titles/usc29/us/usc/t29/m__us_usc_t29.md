@@ -13,9 +13,9 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t29/ch1/m__us_usc_t29_ch1.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29)
 
-# 
+# Title 29—LABOR
 
-Title 29—LABOR
+Current through 113–44
 
 <table>
 

@@ -15,13 +15,13 @@
 
 ## § 1113. Limitation of actions
 
-No action may be commenced under this subchapter with respect to a fiduciary’s breach of any responsibility, duty, or obligation under this part, or with respect to a violation of this part, after the earlier of—
+    No action may be commenced under this subchapter with respect to a fiduciary’s breach of any responsibility, duty, or obligation under this part, or with respect to a violation of this part, after the earlier of—
 
     (1) six years after (A) the date of the last action which constituted a part of the breach or violation, or (B) in the case of an omission the latest date on which the fiduciary could have cured the breach or violation, or
 
     (2) three years after the earliest date on which the plaintiff had actual knowledge of the breach or violation;
 
-        except that in the case of fraud or concealment, such action may be commenced not later than six years after the date of discovery of such breach or violation.
+    except that in the case of fraud or concealment, such action may be commenced not later than six years after the date of discovery of such breach or violation.
 
 ([Pub. L. 93–406, title I, § 413][/us/pl/93/406/s413], Sept. 2, 1974, [88 Stat. 889][/us/stat/88/889]; [Pub. L. 100–203, title IX, § 9342(b)][/us/pl/100/203/s9342/b], Dec. 22, 1987, [101 Stat. 1330–371][/us/stat/101/1330-371]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7881(j)(4), 7894(e)(5), Dec. 19, 1989, [103 Stat. 2443][/us/stat/103/2443], 2450.)
 

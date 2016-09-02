@@ -533,7 +533,11 @@ Section 101(a) \[title I, § 119\[3\]\] of [Pub. L. 104–208][/us/pl/104/208]
 
 >                 “(i) following reasonable notice to all employees, implement new disability benefits that satisfy the requirements of the Age Discrimination in Employment Act of 1967 \[[29 U.S.C. 621][/us/usc/t29/s621] et seq.\] (as amended by this title); and
 
->                 “(ii) then offer to each employee covered by a plan described in paragraph (1)(B) the option to elect such new disability benefits in lieu of the existing disability benefits, if—         “(I) the offer is made and reasonable notice provided no later than the date that is 2 years after the date of enactment of this Act \[Oct. 16, 1990\]; and
+>                 “(ii)
+
+>                  then offer to each employee covered by a plan described in paragraph (1)(B) the option to elect such new disability benefits in lieu of the existing disability benefits, if—
+
+>                          “(I) the offer is made and reasonable notice provided no later than the date that is 2 years after the date of enactment of this Act \[Oct. 16, 1990\]; and
 
 >                          “(II) the employee is given up to 180 days after the offer in which to make the election.
 

@@ -15,7 +15,7 @@
 
 ## § 1183. Guaranteed renewability in multiemployer plans and multiple employer welfare arrangements
 
-A group health plan which is a multiemployer plan or which is a multiple employer welfare arrangement may not deny an employer whose employees are covered under such a plan continued access to the same or different coverage under the terms of such a plan, other than—
+    A group health plan which is a multiemployer plan or which is a multiple employer welfare arrangement may not deny an employer whose employees are covered under such a plan continued access to the same or different coverage under the terms of such a plan, other than—
 
     (1) for nonpayment of contributions;
 

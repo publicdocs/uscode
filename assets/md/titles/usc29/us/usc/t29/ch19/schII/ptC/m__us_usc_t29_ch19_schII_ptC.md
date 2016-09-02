@@ -11,16 +11,66 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch19/schII/ptB/m__us_usc_t29_s1630 to 1635.md) | [Next](./../../../../../..//us/usc/t29/ch19/schII/ptC/m__us_usc_t29_s1641 to 1646.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch19%2FschII%2FptC)
+[Previous](./../../../../../..//us/usc/t29/ch19/schII/ptB/m__us_usc_t29_ch19_schII_ptB.md) | [Next](./../../../../../..//us/usc/t29/ch19/schIII/m__us_usc_t29_ch19_schIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch19%2FschII%2FptC)
 
 #### Part C—Youth Training Program
 
+§§ 1641 to 1646. __Repealed.__  __[__  __Pub. L. 105–220, title I, § 199(b)(2)__  __][/us/pl/105/220/s199/b/2]__  __,__  __Aug. 7, 1998__  __,__  __[__  __112 Stat. 1059__  __][/us/stat/112/1059]__ 
+
+    Section 1641, [Pub. L. 97–300, title II, § 261][/us/pl/97/300/s261], as added [Pub. L. 102–367, title II, § 206][/us/pl/102/367/s206], Sept. 7, 1992, [106 Stat. 1063][/us/stat/106/1063], stated purpose of youth training program.
+
+    Section 1642, [Pub. L. 97–300, title II, § 262][/us/pl/97/300/s262], as added [Pub. L. 102–367, title VII, § 701(f)(1)][/us/pl/102/367/s701/f/1], Sept. 7, 1992, [106 Stat. 1107][/us/stat/106/1107], related to allotment and allocation.
+
+    Section 1643, [Pub. L. 97–300, title II, § 263][/us/pl/97/300/s263], as added [Pub. L. 102–367, title II, § 208][/us/pl/102/367/s208], Sept. 7, 1992, [106 Stat. 1066][/us/stat/106/1066]; amended [Pub. L. 103–382, title III, § 391(n)(2)][/us/pl/103/382/s391/n/2], (3), Oct. 20, 1994, [108 Stat. 4024][/us/stat/108/4024]; [Pub. L. 106–78, title VII, § 752(b)(12)][/us/pl/106/78/s752/b/12], Oct. 22, 1999, [113 Stat. 1169][/us/stat/113/1169], related to eligibility for services.
+
+    Section 1644, [Pub. L. 97–300, title II, § 264][/us/pl/97/300/s264], as added [Pub. L. 102–367, title II, § 208][/us/pl/102/367/s208], Sept. 7, 1992, [106 Stat. 1068][/us/stat/106/1068]; amended [Pub. L. 104–193, title I, § 110(n)(9)][/us/pl/104/193/s110/n/9], Aug. 22, 1996, [110 Stat. 2174][/us/stat/110/2174], related to program design.
+
+    Section 1645, [Pub. L. 97–300, title II, § 265][/us/pl/97/300/s265], as added [Pub. L. 102–367, title II, § 208][/us/pl/102/367/s208], Sept. 7, 1992, [106 Stat. 1071][/us/stat/106/1071]; amended [Pub. L. 103–382, title III, § 391(n)(4)][/us/pl/103/382/s391/n/4], Oct. 20, 1994, [108 Stat. 4024][/us/stat/108/4024]; [Pub. L. 104–193, title I, § 110(n)(10)][/us/pl/104/193/s110/n/10], Aug. 22, 1996, [110 Stat. 2174][/us/stat/110/2174], related to linkages with other agencies and programs.
+
+    Section 1646, [Pub. L. 97–300, title II, § 266][/us/pl/97/300/s266], as added [Pub. L. 102–367, title II, § 208][/us/pl/102/367/s208], Sept. 7, 1992, [106 Stat. 1073][/us/stat/106/1073], related to transfer of funds.
+
+ __Effective Date of Repeal__ 
+
+    Repeal effective July 1, 2000, see [section 199(c)(2)(B) of Pub. L. 105–220][/us/pl/105/220/s199/c/2/B], set out as a note under [section 1501 of this title][/us/usc/t29/s1501].
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch19/schII/ptB/m__us_usc_t29_s1630 to 1635.md) | [Next](./../../../../../..//us/usc/t29/ch19/schII/ptC/m__us_usc_t29_s1641 to 1646.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch19%2FschII%2FptC)
+[Previous](./../../../../../..//us/usc/t29/ch19/schII/ptB/m__us_usc_t29_ch19_schII_ptB.md) | [Next](./../../../../../..//us/usc/t29/ch19/schIII/m__us_usc_t29_ch19_schIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch19%2FschII%2FptC)
 
 ----------
 ----------
 
+[/us/pl/105/220/s199/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fb%2F2
+[/us/stat/112/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1059
+[/us/pl/97/300/s261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs261
+[/us/pl/102/367/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs206
+[/us/stat/106/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1063
+[/us/pl/97/300/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs262
+[/us/pl/102/367/s701/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs701%2Ff%2F1
+[/us/stat/106/1107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1107
+[/us/pl/97/300/s263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs263
+[/us/pl/102/367/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs208
+[/us/stat/106/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1066
+[/us/pl/103/382/s391/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Fn%2F2
+[/us/stat/108/4024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4024
+[/us/pl/106/78/s752/b/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F78%2Fs752%2Fb%2F12
+[/us/stat/113/1169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1169
+[/us/pl/97/300/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs264
+[/us/pl/102/367/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs208
+[/us/stat/106/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1068
+[/us/pl/104/193/s110/n/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs110%2Fn%2F9
+[/us/stat/110/2174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2174
+[/us/pl/97/300/s265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs265
+[/us/pl/102/367/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs208
+[/us/stat/106/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1071
+[/us/pl/103/382/s391/n/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Fn%2F4
+[/us/stat/108/4024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4024
+[/us/pl/104/193/s110/n/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs110%2Fn%2F10
+[/us/stat/110/2174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2174
+[/us/pl/97/300/s266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs266
+[/us/pl/102/367/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs208
+[/us/stat/106/1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1073
+[/us/pl/105/220/s199/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fc%2F2%2FB
+[/us/usc/t29/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1501
 
 

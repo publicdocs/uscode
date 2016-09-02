@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch6/m__us_usc_t29_s111, 112.md) | [Next](./../../../..//us/usc/t29/ch6/m__us_usc_t29_s114.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs113)
+[Previous](./../../../..//us/usc/t29/ch6/m__us_usc_t29_s110.md) | [Next](./../../../..//us/usc/t29/ch6/m__us_usc_t29_s114.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs113)
 
 ## § 113. Definitions of terms and words used in chapter
 
-When used in this chapter, and for the purposes of this chapter—
+    When used in this chapter, and for the purposes of this chapter—
 
     (a) A case shall be held to involve or to grow out of a labor dispute when the case involves persons who are engaged in the same industry, trade, craft, or occupation; or have direct or indirect interests therein; or who are employees of the same employer; or who are members of the same or an affiliated organization of employers or employees; whether such dispute is (1) between one or more employers or associations of employers and one or more employees or associations of employees; (2) between one or more employers or associations of employers and one or more employers or associations of employers; or (3) between one or more employees or associations of employees and one or more employees or associations of employees; or when the case involves any conflicting or competing interests in a “labor dispute” (as defined in this section) of “persons participating or interested” therein (as defined in this section).
 
@@ -29,7 +29,7 @@ When used in this chapter, and for the purposes of this chapter—
 
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch6/m__us_usc_t29_s111, 112.md) | [Next](./../../../..//us/usc/t29/ch6/m__us_usc_t29_s114.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs113)
+[Previous](./../../../..//us/usc/t29/ch6/m__us_usc_t29_s110.md) | [Next](./../../../..//us/usc/t29/ch6/m__us_usc_t29_s114.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs113)
 
 ----------
 ----------

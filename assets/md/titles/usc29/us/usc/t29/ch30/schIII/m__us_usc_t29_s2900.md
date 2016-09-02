@@ -15,7 +15,7 @@
 
 ## § 2900. General provisions
 
-The Secretary is authorized to—
+    The Secretary is authorized to—
 
     (1) disseminate, with regard to the provisions of [section 3204 of title 39][/us/usc/t39/s3204], data and information in such forms as the Secretary shall determine to be appropriate, to public agencies, private organizations, and the general public;
 

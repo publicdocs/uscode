@@ -15,7 +15,7 @@
 
 ## § 104. Enumeration of specific acts not subject to restraining orders or injunctions
 
-No court of the United States shall have jurisdiction to issue any restraining order or temporary or permanent injunction in any case involving or growing out of any labor dispute to prohibit any person or persons participating or interested in such dispute (as these terms are herein defined) from doing, whether singly or in concert, any of the following acts:
+    No court of the United States shall have jurisdiction to issue any restraining order or temporary or permanent injunction in any case involving or growing out of any labor dispute to prohibit any person or persons participating or interested in such dispute (as these terms are herein defined) from doing, whether singly or in concert, any of the following acts:
 
     (a) Ceasing or refusing to perform any work or to remain in any relation of employment;
 

@@ -15,7 +15,7 @@
 
 ## § 142. Definitions
 
-When used in this chapter—
+    When used in this chapter—
 
     (1) The term “industry affecting commerce” means any industry or activity in commerce or in which a labor dispute would burden or obstruct commerce or tend to burden or obstruct commerce or the free flow of commerce.
 

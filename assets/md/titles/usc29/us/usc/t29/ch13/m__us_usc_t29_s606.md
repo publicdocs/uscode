@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch13/m__us_usc_t29_s601 to 605.md) | [Next](./../../../..//us/usc/t29/ch13/m__us_usc_t29_s607.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs606)
+[Previous](./../../../..//us/usc/t29/ch13/m__us_usc_t29_ch13.md) | [Next](./../../../..//us/usc/t29/ch13/m__us_usc_t29_s607.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs606)
 
 ## § 606. Repealed. [Pub. L. 97–306, title III, § 311][/us/pl/97/306/s311], Oct. 14, 1982, [96 Stat. 1442][/us/stat/96/1442]; [Pub. L. 97–375, title I, § 110(a)][/us/pl/97/375/s110/a], Dec. 21, 1982, [96 Stat. 1820][/us/stat/96/1820]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch13/m__us_usc_t29_s601 to 605.md) | [Next](./../../../..//us/usc/t29/ch13/m__us_usc_t29_s607.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs606)
+[Previous](./../../../..//us/usc/t29/ch13/m__us_usc_t29_ch13.md) | [Next](./../../../..//us/usc/t29/ch13/m__us_usc_t29_s607.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs606)
 
 ----------
 ----------

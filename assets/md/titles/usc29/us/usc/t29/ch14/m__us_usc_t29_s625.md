@@ -15,7 +15,7 @@
 
 ## § 625. Administration
 
-The Secretary shall have the power—
+    The Secretary shall have the power—
 
     (a) __Delegation of functions; appointment of personnel; technical assistance__ 
 

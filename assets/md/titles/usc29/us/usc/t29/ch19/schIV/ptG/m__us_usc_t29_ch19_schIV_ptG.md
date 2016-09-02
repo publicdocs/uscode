@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch19/schIV/ptF/m__us_usc_t29_s1771 to 1775.md) | [Next](./../../../../../..//us/usc/t29/ch19/schIV/ptG/m__us_usc_t29_s1781.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch19%2FschIV%2FptG)
+[Previous](./../../../../../..//us/usc/t29/ch19/schIV/ptF/m__us_usc_t29_ch19_schIV_ptF.md) | [Next](./../../../../../..//us/usc/t29/ch19/schIV/ptG/m__us_usc_t29_s1781.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch19%2FschIV%2FptG)
 
 #### Part G—Training To Fulfill Affirmative Action Obligations
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch19/schIV/ptF/m__us_usc_t29_s1771 to 1775.md) | [Next](./../../../../../..//us/usc/t29/ch19/schIV/ptG/m__us_usc_t29_s1781.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch19%2FschIV%2FptG)
+[Previous](./../../../../../..//us/usc/t29/ch19/schIV/ptF/m__us_usc_t29_ch19_schIV_ptF.md) | [Next](./../../../../../..//us/usc/t29/ch19/schIV/ptG/m__us_usc_t29_s1781.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch19%2FschIV%2FptG)
 
 ----------
 ----------

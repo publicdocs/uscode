@@ -15,7 +15,7 @@
 
 ## § 2702. Purposes
 
-The purposes of this chapter are to—
+    The purposes of this chapter are to—
 
     (1) improve the ability of workers and worker organizations to recognize, develop, assess, and improve strategies for successfully integrating workers and worker organizations into the process of evaluating, selecting, and implementing advanced workplace technologies, and advanced workplace practices in a manner that creates and maintains stable well-paying jobs for workers; and
 

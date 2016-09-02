@@ -15,13 +15,13 @@
 
 ## § 707. Nonduplication
 
-In determining the amount of any State’s Federal share of expenditures for planning, administration, and services incurred by it under a State plan approved in accordance with [section 721 of this title][/us/usc/t29/s721], there shall be disregarded—
+    In determining the amount of any State’s Federal share of expenditures for planning, administration, and services incurred by it under a State plan approved in accordance with [section 721 of this title][/us/usc/t29/s721], there shall be disregarded—
 
     (1) any portion of such expenditures which are financed by Federal funds provided under any other provision of law; and
 
     (2) the amount of any non-Federal funds required to be expended as a condition of receipt of such Federal funds.
 
-        No payment may be made from funds provided under one provision of this chapter relating to any cost with respect to which any payment is made under any other provision of this chapter, except that this section shall not be construed to limit or reduce fees for services rendered by community rehabilitation programs.
+    No payment may be made from funds provided under one provision of this chapter relating to any cost with respect to which any payment is made under any other provision of this chapter, except that this section shall not be construed to limit or reduce fees for services rendered by community rehabilitation programs.
 
 ([Pub. L. 93–112, § 10][/us/pl/93/112/s10], formerly § 8, as added [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1110][/us/stat/112/1110]; renumbered § 10 and amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(a)(1), (c)(2)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412, 2681–415.)
 

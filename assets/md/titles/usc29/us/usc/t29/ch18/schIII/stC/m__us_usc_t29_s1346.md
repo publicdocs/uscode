@@ -15,7 +15,7 @@
 
 ## § 1346. Reports to trustee
 
-The corporation and the plan administrator of any plan to be terminated under this subtitle shall furnish to the trustee such information as the corporation or the plan administrator has and, to the extent practicable, can obtain regarding—
+    The corporation and the plan administrator of any plan to be terminated under this subtitle shall furnish to the trustee such information as the corporation or the plan administrator has and, to the extent practicable, can obtain regarding—
 
     (1) the amount of benefits payable with respect to each participant under a plan to be terminated,
 

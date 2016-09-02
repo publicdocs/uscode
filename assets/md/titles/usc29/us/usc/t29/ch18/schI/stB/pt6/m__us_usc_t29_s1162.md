@@ -15,7 +15,7 @@
 
 ## § 1162. Continuation coverage
 
-For purposes of [section 1161 of this title][/us/usc/t29/s1161], the term “continuation coverage” means coverage under the plan which meets the following requirements:
+    For purposes of [section 1161 of this title][/us/usc/t29/s1161], the term “continuation coverage” means coverage under the plan which meets the following requirements:
 
     (1) __Type of benefit coverage__ 
 

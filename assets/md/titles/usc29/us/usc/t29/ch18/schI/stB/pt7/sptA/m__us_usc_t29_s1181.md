@@ -369,11 +369,11 @@
 
 >             Subject to clauses (ii) and (iii), subsection (e) of section 701 of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1181(e)][/us/usc/t29/s1181/e]\](as added by this section) shall apply to events occurring after June 30, 1996.
 
->             “(ii) __No certification required to be provided before june 1, 1997.—__ 
+>             “(ii) __No certification required to be provided before__  __june 1, 1997__  __.—__ 
 
 >             In no case is a certification required to be provided under such subsection before June 1, 1997.
 
->             “(iii) __Certification only on written request for events occurring before october 1, 1996.—__ 
+>             “(iii) __Certification only on written request for events occurring before__  __october 1, 1996__  __.—__ 
 
 >             In the case of an event occurring after June 30, 1996, and before October 1, 1996, a certification is not required to be provided under such subsection unless an individual (with respect to whom the certification is otherwise required to be made) requests such certification in writing.
 

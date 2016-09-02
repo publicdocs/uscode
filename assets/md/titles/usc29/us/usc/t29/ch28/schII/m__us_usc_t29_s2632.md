@@ -15,7 +15,7 @@
 
 ## § 2632. Duties
 
-The Commission shall—
+    The Commission shall—
 
     (1)
 

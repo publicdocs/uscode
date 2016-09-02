@@ -15,7 +15,7 @@
 
 ## § 652. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) The term “Secretary” mean  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “means”. </sup></sup>  the Secretary of Labor.
 

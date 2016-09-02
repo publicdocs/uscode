@@ -171,15 +171,17 @@
 
             (B) A plan may permit a participant to elect (with any applicable spousal consent) to waive any requirement that the written explanation be provided at least 30 days before the annuity starting date (or to waive the 30-day requirement under subparagraph (A)) if the distribution commences more than 7 days after such explanation is provided.
 
-    (d) __(1) “Qualified joint and survivor annuity” defined__ 
+    (d)
 
-    For purposes of this section, the term “qualified joint and survivor annuity” means an annuity—
+        (1) __“Qualified joint and survivor annuity” defined__ 
 
-        (A) for the life of the participant with a survivor annuity for the life of the spouse which is not less than 50 percent of (and is not greater than 100 percent of) the amount of the annuity which is payable during the joint lives of the participant and the spouse, and
+        For purposes of this section, the term “qualified joint and survivor annuity” means an annuity—
 
-        (B) which is the actuarial equivalent of a single annuity for the life of the participant.
+            (A) for the life of the participant with a survivor annuity for the life of the spouse which is not less than 50 percent of (and is not greater than 100 percent of) the amount of the annuity which is payable during the joint lives of the participant and the spouse, and
 
-        Such term also includes any annuity in a form having the effect of an annuity described in the preceding sentence.
+            (B) which is the actuarial equivalent of a single annuity for the life of the participant.
+
+            Such term also includes any annuity in a form having the effect of an annuity described in the preceding sentence.
 
         (2)
 

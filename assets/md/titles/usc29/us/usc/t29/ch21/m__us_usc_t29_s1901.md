@@ -15,7 +15,7 @@
 
 ## § 1901. Congressional findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) deaf-blindness is among the most severe of all forms of disabilities, and there is a great and continuing need for services and training to help individuals who are deaf-blind attain the highest possible level of development;
 

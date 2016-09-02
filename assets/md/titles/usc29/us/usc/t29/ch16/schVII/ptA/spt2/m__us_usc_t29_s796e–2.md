@@ -15,7 +15,7 @@
 
 ## § 796e–2. Authorized uses of funds
 
-The State may use funds received under this subpart to provide the resources described in [section 796d(e) of this title][/us/usc/t29/s796d/e], relating to the Statewide Independent Living Council, and may use funds received under this subpart—
+    The State may use funds received under this subpart to provide the resources described in [section 796d(e) of this title][/us/usc/t29/s796d/e], relating to the Statewide Independent Living Council, and may use funds received under this subpart—
 
     (1) to provide independent living services to individuals with significant disabilities;
 

@@ -15,7 +15,7 @@
 
 ## § 1815. Notice of address change; amendment of certificate of registration
 
-During the period for which the certificate of registration is in effect, each farm labor contractor shall—
+    During the period for which the certificate of registration is in effect, each farm labor contractor shall—
 
     (1) provide to the Secretary within thirty days a notice of each change of permanent place of residence; and
 

@@ -15,7 +15,7 @@
 
 ## § 2103. Exemptions
 
-This chapter shall not apply to a plant closing or mass layoff if—
+    This chapter shall not apply to a plant closing or mass layoff if—
 
     (1) the closing is of a temporary facility or the closing or layoff is the result of the completion of a particular project or undertaking, and the affected employees were hired with the understanding that their employment was limited to the duration of the facility or the project or undertaking; or
 

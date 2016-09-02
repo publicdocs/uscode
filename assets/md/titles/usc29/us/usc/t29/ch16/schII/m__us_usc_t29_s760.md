@@ -15,7 +15,7 @@
 
 ## § 760. Declaration of purpose
 
-The purpose of this subchapter is to—
+    The purpose of this subchapter is to—
 
     (1) provide for research, demonstration projects, training, and related activities to maximize the full inclusion and integration into society, employment, independent living, family support, and economic and social self-sufficiency of individuals with disabilities of all ages, with particular emphasis on improving the effectiveness of services authorized under this chapter;
 

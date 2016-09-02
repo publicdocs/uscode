@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t29/ch24/schI/m__us_usc_t29_s2211 to 2216.md) | [Next](./../../../../..//us/usc/t29/ch24/schII/m__us_usc_t29_ch24_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2217)
+[Previous](./../../../../..//us/usc/t29/ch24/schI/m__us_usc_t29_ch24_schI.md) | [Next](./../../../../..//us/usc/t29/ch24/schII/m__us_usc_t29_ch24_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2217)
 
 ## § 2217. Repealed. [Pub. L. 103–218, title I, § 107][/us/pl/103/218/s107], Mar. 9, 1994, [108 Stat. 85][/us/stat/108/85]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t29/ch24/schI/m__us_usc_t29_s2211 to 2216.md) | [Next](./../../../../..//us/usc/t29/ch24/schII/m__us_usc_t29_ch24_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2217)
+[Previous](./../../../../..//us/usc/t29/ch24/schI/m__us_usc_t29_ch24_schI.md) | [Next](./../../../../..//us/usc/t29/ch24/schII/m__us_usc_t29_ch24_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2217)
 
 ----------
 ----------

@@ -15,7 +15,7 @@
 
 ## § 705. Definitions
 
-For the purposes of this chapter:
+    For the purposes of this chapter:
 
     (1) __Administrative costs__ 
 

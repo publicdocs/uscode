@@ -15,7 +15,7 @@
 
 ## § 256. Determination of commencement of future actions
 
-In determining when an action is commenced for the purposes of [section 255 of this title][/us/usc/t29/s255], an action commenced on or after May 14, 1947 under the Fair Labor Standards Act of 1938, as amended \[[29 U.S.C. 201][/us/usc/t29/s201] et seq.\], the Walsh-Healey Act, or the Bacon-Davis Act, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  shall be considered to be commenced on the date when the complaint is filed; except that in the case of a collective or class action instituted under the Fair Labor Standards Act of 1938, as amended, or the Bacon-Davis Act, <sup>\[1\]</sup>  it shall be considered to be commenced in the case of any individual claimant—
+    In determining when an action is commenced for the purposes of [section 255 of this title][/us/usc/t29/s255], an action commenced on or after May 14, 1947 under the Fair Labor Standards Act of 1938, as amended \[[29 U.S.C. 201][/us/usc/t29/s201] et seq.\], the Walsh-Healey Act, or the Bacon-Davis Act, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  shall be considered to be commenced on the date when the complaint is filed; except that in the case of a collective or class action instituted under the Fair Labor Standards Act of 1938, as amended, or the Bacon-Davis Act, <sup>\[1\]</sup>  it shall be considered to be commenced in the case of any individual claimant—
 
     (a) on the date when the complaint is filed, if he is specifically named as a party plaintiff in the complaint and his written consent to become a party plaintiff is filed on such date in the court in which the action is brought; or
 

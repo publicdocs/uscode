@@ -39,9 +39,13 @@
 
 > “SEC. 302. __GENERAL EFFECTIVE DATES.__ 
 
->     “(a) __In General.—Except as otherwise provided in this section or section 303, the amendments made by this Act \[see Short Title of 1984 Amendments note below\] shall apply to plan years beginning after__  __December 31, 1984__  __.__ 
+>     “(a) __In General.—__ 
 
->     “(b) __Special Rule for Collective Bargaining Agreements.—In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before the date of the enactment of this Act \[__  __Aug. 23, 1984__  __\], except as provided in subsection (d) or section 303, the amendments made by this Act shall not apply to plan years beginning before the earlier of—__ 
+>     Except as otherwise provided in this section or section 303, the amendments made by this Act \[see Short Title of 1984 Amendments note below\] shall apply to plan years beginning after December 31, 1984.
+
+>     “(b) __Special Rule for Collective Bargaining Agreements.—__ 
+
+>     In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before the date of the enactment of this Act \[Aug. 23, 1984\], except as provided in subsection (d) or section 303, the amendments made by this Act shall not apply to plan years beginning before the earlier of—
 
 >         “(1) the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act \[Aug. 23, 1984\]), or
 
@@ -49,13 +53,19 @@
 
 >         For purposes of paragraph (1), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement added by title I or II \[of [Pub. L. 98–397][/us/pl/98/397]\] shall not be treated as a termination of such collective bargaining agreement.
 
->     “(c) __Notice Requirement.—The amendments made by section 207 \[amending sections 402 and 6652 of Title 26, Internal Revenue Code\] shall apply to distributions after__  __December 31, 1984__  __.__ 
+>     “(c) __Notice Requirement.—__ 
+
+>     The amendments made by section 207 \[amending sections 402 and 6652 of Title 26, Internal Revenue Code\] shall apply to distributions after December 31, 1984.
 
 >     “(d) __Special Rules for Treatment of Plan Amendments.—__ 
 
->         “(1) __In general.—Except as provided in paragraph (2), the amendments made by section 301 \[amending__  __[__  __section 1054 of this title__  __][/us/usc/t29/s1054]__  __and sections 401 and 411 of Title 26\] shall apply to plan amendments made after__  __July 30, 1984__  __.__ 
+>         “(1) __In general.—__ 
 
->         “(2) __Special rule for collective bargaining agreements.—In the case of a plan maintained pursuant to 1 or more collective bargaining agreements entered into before__  __January 1, 1985__  __, which are—__ 
+>         Except as provided in paragraph (2), the amendments made by section 301 \[amending [section 1054 of this title][/us/usc/t29/s1054] and sections 401 and 411 of Title 26\] shall apply to plan amendments made after July 30, 1984.
+
+>         “(2) __Special rule for collective bargaining agreements.—__ 
+
+>         In the case of a plan maintained pursuant to 1 or more collective bargaining agreements entered into before January 1, 1985, which are—
 
 >             “(A) between employee representatives and 1 or more employers, and
 
@@ -67,13 +77,21 @@
 
 >     “(a) __Amendments Relating to Vesting Rules; Breaks in Service; Maternity or Paternity Leave.—__ 
 
->         “(1) __Minimum age for vesting.—The amendments made by sections 102(b) and 202(b) \[amending__  __[__  __section 1053 of this title__  __][/us/usc/t29/s1053]__  __and__  __[__  __section 411 of Title 26__  __][/us/usc/t26/s411]__  __, Internal Revenue Code\] shall apply in the case of participants who have at least 1 hour of service under the plan on or after the first day of the first plan year to which the amendments made by this Act \[see Short Title of 1984 Amendments note below\] apply.__ 
+>         “(1) __Minimum age for vesting.—__ 
 
->         “(2) __Break in service rules.—If, as of the day before the first day of the first plan year to which the amendments made by this Act apply, section 202(a) or (b) or 203(b) of the Employee Retirement Income Security Act of 1974 \[section 1052(a) or (b) or__  __[__  __section 1053(b) of this title__  __][/us/usc/t29/s1053/b]__  __\] or section 410(a) or 411(a) of the Internal Revenue Code of 1986 \[section 410(a) or__  __[__  __section 411(a) of Title 26__  __][/us/usc/t26/s411/a]__  __\] (as in effect on the day before the date of the enactment of this Act \[__  __Aug. 23, 1984__  __\]) would not require any service to be taken into account, nothing in the amendments made by subsections (c) and (d) of section 102 of this Act \[amending sections 1052 and 1053 of this title\] and subsections (c) and (d) of section 202 of this Act \[amending sections 410 and 411 of Title 26\] shall be construed as requiring such service to be taken into account under such section 202(a) or (b), 203(b), 410(a), or 411(a); as the case may be.__ 
+>         The amendments made by sections 102(b) and 202(b) \[amending [section 1053 of this title][/us/usc/t29/s1053] and [section 411 of Title 26][/us/usc/t26/s411], Internal Revenue Code\] shall apply in the case of participants who have at least 1 hour of service under the plan on or after the first day of the first plan year to which the amendments made by this Act \[see Short Title of 1984 Amendments note below\] apply.
 
->         “(3) __Maternity or paternity leave.—The amendments made by sections 102(e) and 202(e) \[amending sections 1052 to 1054 of this title and sections 410 and 411 of Title 26\] shall apply in the case of absences from work which begin on or after the first day of the first plan year to which the amendments made by this Act apply.__ 
+>         “(2) __Break in service rules.—__ 
 
->     “(b) __Special Rule for Amendments Relating to Maternity or Paternity Absences.—If a plan is administered in a manner which would meet the amendments made by sections 102(e) and 202(e) \[amending sections 1052 to 1054 of this title and sections 410 and 411 of Title 26\] (relating to certain maternity or paternity absences not treated as breaks in service), such plan need not be amended to meet such requirements until the earlier of—__ 
+>         If, as of the day before the first day of the first plan year to which the amendments made by this Act apply, section 202(a) or (b) or 203(b) of the Employee Retirement Income Security Act of 1974 \[section 1052(a) or (b) or [section 1053(b) of this title][/us/usc/t29/s1053/b]\] or section 410(a) or 411(a) of the Internal Revenue Code of 1986 \[section 410(a) or [section 411(a) of Title 26][/us/usc/t26/s411/a]\] (as in effect on the day before the date of the enactment of this Act \[Aug. 23, 1984\]) would not require any service to be taken into account, nothing in the amendments made by subsections (c) and (d) of section 102 of this Act \[amending sections 1052 and 1053 of this title\] and subsections (c) and (d) of section 202 of this Act \[amending sections 410 and 411 of Title 26\] shall be construed as requiring such service to be taken into account under such section 202(a) or (b), 203(b), 410(a), or 411(a); as the case may be.
+
+>         “(3) __Maternity or paternity leave.—__ 
+
+>         The amendments made by sections 102(e) and 202(e) \[amending sections 1052 to 1054 of this title and sections 410 and 411 of Title 26\] shall apply in the case of absences from work which begin on or after the first day of the first plan year to which the amendments made by this Act apply.
+
+>     “(b) __Special Rule for Amendments Relating to Maternity or Paternity Absences.—__ 
+
+>     If a plan is administered in a manner which would meet the amendments made by sections 102(e) and 202(e) \[amending sections 1052 to 1054 of this title and sections 410 and 411 of Title 26\] (relating to certain maternity or paternity absences not treated as breaks in service), such plan need not be amended to meet such requirements until the earlier of—
 
 >         “(1) the date on which such plan is first otherwise amended after the date of the enactment of this Act \[Aug. 23, 1984\], or
 
@@ -81,9 +99,13 @@
 
 >     “(c) __Requirement of Joint and Survivor Annuity and Preretirement Survivor Annuity.—__ 
 
->         “(1) __Requirement that participant have at least 1 hour of service or paid leave on or after date of enactment.—The amendments made by sections 103 and 203 \[amending__  __[__  __section 1055 of this title__  __][/us/usc/t29/s1055]__  __and__  __[__  __section 401 of Title 26__  __][/us/usc/t26/s401]__  __and enacting__  __[__  __section 417 of Title 26__  __][/us/usc/t26/s417]__  __\] shall apply only in the case of participants who have at least 1 hour of service under the plan on or after the date of the enactment of this Act \[__  __Aug. 23, 1984__  __\] or have at least 1 hour of paid leave on or after such date of enactment.__ 
+>         “(1) __Requirement that participant have at least 1 hour of service or paid leave on or after date of enactment.—__ 
 
->         “(2) __Requirement that preretirement survivor annuity be provided in case of certain participants dying on or after date of enactment.—In the case of any participant—__ 
+>         The amendments made by sections 103 and 203 \[amending [section 1055 of this title][/us/usc/t29/s1055] and [section 401 of Title 26][/us/usc/t26/s401] and enacting [section 417 of Title 26][/us/usc/t26/s417]\] shall apply only in the case of participants who have at least 1 hour of service under the plan on or after the date of the enactment of this Act \[Aug. 23, 1984\] or have at least 1 hour of paid leave on or after such date of enactment.
+
+>         “(2) __Requirement that preretirement survivor annuity be provided in case of certain participants dying on or after date of enactment.—__ 
+
+>         In the case of any participant—
 
 >             “(A) who has at least 1 hour of service under the plan on or after the date of the enactment of this Act \[Aug. 23, 1984\] or has at least 1 hour of paid leave on or after such date of enactment,
 
@@ -93,7 +115,9 @@
 
 >             the amendments made by sections 103 and 203 shall be treated as in effect as of the time of such participant’s death. In the case of a profit-sharing or stock bonus plan to which this paragraph applies, the plan shall be treated as meeting the requirements of the amendments made by sections 103 and 203 with respect to any participant if the plan made a distribution in a form other than a life annuity to the surviving spouse of the participant of such participant’s nonforfeitable benefit.
 
->         “(3) __Spousal consent required for certain elections after december 31, 1984.—Any election after__  __December 31, 1984__  __, and before the first day of the first plan year to which the amendments made by this Act apply not to take a joint and survivor annuity shall not be effective unless the requirements of section 205(c)(2) of the Employee Retirement Income Security Act of 1974 \[__  __[__  __section 1055(c)(2) of this title__  __][/us/usc/t29/s1055/c/2]__  __\] (as amended by section 103 of this Act) and section 417(a)(2) of the Internal Revenue Code of 1986 \[__  __[__  __section 417(a)(2) of Title 26__  __][/us/usc/t26/s417/a/2]__  __\] (as added by section 203 of this Act) are met with respect to such election.__ 
+>         “(3) __Spousal consent required for certain elections after__  __december 31, 1984__  __.—__ 
+
+>         Any election after December 31, 1984, and before the first day of the first plan year to which the amendments made by this Act apply not to take a joint and survivor annuity shall not be effective unless the requirements of section 205(c)(2) of the Employee Retirement Income Security Act of 1974 \[[section 1055(c)(2) of this title][/us/usc/t29/s1055/c/2]\] (as amended by section 103 of this Act) and section 417(a)(2) of the Internal Revenue Code of 1986 \[[section 417(a)(2) of Title 26][/us/usc/t26/s417/a/2]\] (as added by section 203 of this Act) are met with respect to such election.
 
 >         “(4) __Elimination of double death benefits.—__ 
 
@@ -105,7 +129,9 @@
 
 >             In the case of any participant described in paragraph (2), the surviving spouse of such participant may waive the provisions of paragraph (2). Such waiver shall be made on or before the close of the second plan year to which the amendments made by section 103 of this Act \[amending [section 1055 of this title][/us/usc/t29/s1055]\] apply. Such a waiver shall not be treated as a transfer of property for purposes of chapter 12 of the Internal Revenue Code of 1986 and shall not be treated as an assignment or alienation for purposes of section 401(a)(13) of the Internal Revenue Code of 1986 \[[section 401(a)(13) of Title 26][/us/usc/t26/s401/a/13]\] or section 206(d) of the Employee Retirement Income Security Act of 1974 \[[section 1056 of this title][/us/usc/t29/s1056]\].
 
->     “(d) __Amendments Relating to Assignments in Divorce, Etc., Proceedings.—The amendments made by sections 104 and 204 \[amending sections 1056 and 1144 of this title and sections 72, 401, 402 and 414 of Title 26\] shall take effect on__  __January 1, 1985__  __, except that in the case of a domestic relations order entered before such date, the plan administrator—__ 
+>     “(d) __Amendments Relating to Assignments in Divorce, Etc.__ 
+
+>     , Proceedings.—The amendments made by sections 104 and 204 \[amending sections 1056 and 1144 of this title and sections 72, 401, 402 and 414 of Title 26\] shall take effect on January 1, 1985, except that in the case of a domestic relations order entered before such date, the plan administrator—
 
 >         “(1) shall treat such order as a qualified domestic relations order if such administrator is paying benefits pursuant to such order on such date, and
 
@@ -113,7 +139,9 @@
 
 >     “(e) __Treatment of Certain Participants Who Separate From Service Before Date of Enactment.—__ 
 
->         “(1) __Joint and survivor annuity provisions of employee retirement income security act of 1974 apply to certain participants.—If—__ 
+>         “(1) __Joint and survivor annuity provisions of employee retirement income security act of 1974 apply to certain participants.—__ 
+
+>         If—
 
 >             “(A) a participant had at least 1 hour of service under the plan on or after September 2, 1974,
 
@@ -125,7 +153,9 @@
 
 >             then such participant may elect to have section 205 of the Employee Retirement Income Security Act of 1974 \[[section 1055 of this title][/us/usc/t29/s1055]\] and section 401(a)(11) of the Internal Revenue Code of 1986 \[[section 401(a)(11) of Title 26][/us/usc/t26/s401/a/11]\] (as in effect on the day before the date of the enactment of this Act) apply.
 
->         “(2) __Treatment of certain participants who perform service on or after january 1, 1976.—If—__ 
+>         “(2) __Treatment of certain participants who perform service on or after__  __january 1, 1976__  __.—__ 
+
+>         If—
 
 >             “(A) a participant had at least 1 hour of service in any plan year beginning on or after January 1, 1976,
 
@@ -137,7 +167,9 @@
 
 >             then such participant may elect to have the qualified preretirement survivor annuity requirements of the amendments made by sections 103 and 203 apply.
 
->         “(3) __Period during which election may be made.—An election under paragraph (1) or (2) may be made by any participant during the period—__ 
+>         “(3) __Period during which election may be made.—__ 
+
+>         An election under paragraph (1) or (2) may be made by any participant during the period—
 
 >             “(A) beginning on the date of the enactment of this Act \[Aug. 23, 1984\], and
 
@@ -147,11 +179,17 @@
 
 >             “(A) __In general.—__ 
 
->                 “(i) __Time and manner.—Every plan shall give notice of the provisions of this subsection at such time or times and in such manner or manners as the Secretary of the Treasury may prescribe.__ 
+>                 “(i) __Time and manner.—__ 
 
->                 “(ii) __Penalty.—If any plan fails to meet the requirements of clause (i), such plan shall pay a civil penalty to the Secretary of the Treasury equal to $1 per participant for each day during the period beginning with the first day on which such failure occurs and ending on the day before notice is given by the plan; except that the amount of such penalty imposed on any plan shall not exceed $2,500.__ 
+>                 Every plan shall give notice of the provisions of this subsection at such time or times and in such manner or manners as the Secretary of the Treasury may prescribe.
 
->             “(B) __Responsibilities of secretary of labor.—The Secretary of Labor shall take such steps (by public announcements and otherwise) as may be necessary or appropriate to bring to public attention the provisions of this subsection.__ 
+>                 “(ii) __Penalty.—__ 
+
+>                 If any plan fails to meet the requirements of clause (i), such plan shall pay a civil penalty to the Secretary of the Treasury equal to $1 per participant for each day during the period beginning with the first day on which such failure occurs and ending on the day before notice is given by the plan; except that the amount of such penalty imposed on any plan shall not exceed $2,500.
+
+>             “(B) __Responsibilities of secretary of labor.—__ 
+
+>             The Secretary of Labor shall take such steps (by public announcements and otherwise) as may be necessary or appropriate to bring to public attention the provisions of this subsection.
 
 >     “(f)
 

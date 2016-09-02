@@ -265,7 +265,7 @@
 
 >     “(2) plan terminations with respect to which proceedings are instituted by the Pension Benefit Guaranty Corporation under section 4042 of ERISA \[[29 U.S.C. 1342][/us/usc/t29/s1342]\] after December 17, 1987.
 
->         Except as provided in subsection (a)(2) \[set out below\], the amendments made by subsection (a) \[amending this section\] shall apply to any provision of the plan or plan amendment adopted after December 17, 1987.”
+>     Except as provided in subsection (a)(2) \[set out below\], the amendments made by subsection (a) \[amending this section\] shall apply to any provision of the plan or plan amendment adopted after December 17, 1987.”
 
  __Effective Date of 1986 Amendment__ 
 

@@ -15,7 +15,7 @@
 
 ## § 728a. Training of employers with respect to Americans with Disabilities Act of 1990
 
-A State may expend payments received under [section 731 of this title][/us/usc/t29/s731]—
+    A State may expend payments received under [section 731 of this title][/us/usc/t29/s731]—
 
     (1) to carry out a program to train employers with respect to compliance with the requirements of title I of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12111][/us/usc/t42/s12111] et seq.); and
 

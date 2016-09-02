@@ -15,9 +15,11 @@
 
 ## § 411. Bill of rights; constitution and bylaws of labor organizations
 
-    (a) __(1) Equal rights__ 
+    (a)
 
-    Every member of a labor organization shall have equal rights and privileges within such organization to nominate candidates, to vote in elections or referendums of the labor organization, to attend membership meetings, and to participate in the deliberations and voting upon the business of such meetings, subject to reasonable rules and regulations in such organization’s constitution and bylaws.
+        (1) __Equal rights__ 
+
+            Every member of a labor organization shall have equal rights and privileges within such organization to nominate candidates, to vote in elections or referendums of the labor organization, to attend membership meetings, and to participate in the deliberations and voting upon the business of such meetings, subject to reasonable rules and regulations in such organization’s constitution and bylaws.
 
         (2) __Freedom of speech and assembly__ 
 

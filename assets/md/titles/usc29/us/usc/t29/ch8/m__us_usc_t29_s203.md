@@ -15,7 +15,7 @@
 
 ## § 203. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (a) “Person” means an individual, partnership, association, corporation, business trust, legal representative, or any organized group of persons.
 

@@ -15,7 +15,7 @@
 
 ## § 2703. Definitions
 
-As used in this chapter:
+    As used in this chapter:
 
     (1) __Advanced workplace practices__ 
 

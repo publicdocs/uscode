@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch4A/m__us_usc_t29_s48c to 48g.md) | [Next](./../../../..//us/usc/t29/ch4B/m__us_usc_t29_s49.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch4B)
+[Previous](./../../../..//us/usc/t29/ch4A/m__us_usc_t29_s48b.md) | [Next](./../../../..//us/usc/t29/ch4B/m__us_usc_t29_s49.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch4B)
 
 ## CHAPTER 4B—FEDERAL EMPLOYMENT SERVICE
 
@@ -179,7 +179,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch4A/m__us_usc_t29_s48c to 48g.md) | [Next](./../../../..//us/usc/t29/ch4B/m__us_usc_t29_s49.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch4B)
+[Previous](./../../../..//us/usc/t29/ch4A/m__us_usc_t29_s48b.md) | [Next](./../../../..//us/usc/t29/ch4B/m__us_usc_t29_s49.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch4B)
 
 ----------
 ----------

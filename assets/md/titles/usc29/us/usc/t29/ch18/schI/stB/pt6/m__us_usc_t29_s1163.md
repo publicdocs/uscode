@@ -15,7 +15,7 @@
 
 ## § 1163. Qualifying event
 
-For purposes of this part, the term “qualifying event” means, with respect to any covered employee, any of the following events which, but for the continuation coverage required under this part, would result in the loss of coverage of a qualified beneficiary:
+    For purposes of this part, the term “qualifying event” means, with respect to any covered employee, any of the following events which, but for the continuation coverage required under this part, would result in the loss of coverage of a qualified beneficiary:
 
     (1) The death of the covered employee.
 
@@ -29,7 +29,7 @@ For purposes of this part, the term “qualifying event” means, with respect t
 
     (6) A proceeding in a case under title 11, commencing on or after July 1, 1986, with respect to the employer from whose employment the covered employee retired at any time.
 
-        In the case of an event described in paragraph (6), a loss of coverage includes a substantial elimination of coverage with respect to a qualified beneficiary described in [section 1167(3)(C) of this title][/us/usc/t29/s1167/3/C] within one year before or after the date of commencement of the proceeding.
+    In the case of an event described in paragraph (6), a loss of coverage includes a substantial elimination of coverage with respect to a qualified beneficiary described in [section 1167(3)(C) of this title][/us/usc/t29/s1167/3/C] within one year before or after the date of commencement of the proceeding.
 
 ([Pub. L. 93–406, title I, § 603][/us/pl/93/406/s603], as added [Pub. L. 99–272, title X, § 10002(a)][/us/pl/99/272/s10002/a], Apr. 7, 1986, [100 Stat. 229][/us/stat/100/229]; amended [Pub. L. 99–509, title IX, § 9501(a)(2)][/us/pl/99/509/s9501/a/2], Oct. 21, 1986, [100 Stat. 2076][/us/stat/100/2076].)
 

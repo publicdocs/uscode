@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch10/m__us_usc_t29_s301 to 309.md) | [Next](./../../../..//us/usc/t29/ch11/schI/m__us_usc_t29_ch11_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch11)
+[Previous](./../../../..//us/usc/t29/ch10/m__us_usc_t29_ch10.md) | [Next](./../../../..//us/usc/t29/ch11/schI/m__us_usc_t29_ch11_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch11)
 
 ## CHAPTER 11—LABOR-MANAGEMENT REPORTING AND DISCLOSURE PROCEDURE
 
@@ -427,7 +427,7 @@ SUBCHAPTER VII—MISCELLANEOUS PROVISIONS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch10/m__us_usc_t29_s301 to 309.md) | [Next](./../../../..//us/usc/t29/ch11/schI/m__us_usc_t29_ch11_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch11)
+[Previous](./../../../..//us/usc/t29/ch10/m__us_usc_t29_ch10.md) | [Next](./../../../..//us/usc/t29/ch11/schI/m__us_usc_t29_ch11_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch11)
 
 ----------
 ----------

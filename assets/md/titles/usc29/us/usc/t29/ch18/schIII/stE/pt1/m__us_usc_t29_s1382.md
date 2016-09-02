@@ -15,7 +15,7 @@
 
 ## § 1382. Determination and collection of liability; notification of employer
 
-When an employer withdraws from a multiemployer plan, the plan sponsor, in accordance with this part, shall—
+    When an employer withdraws from a multiemployer plan, the plan sponsor, in accordance with this part, shall—
 
     (1) determine the amount of the employer’s withdrawal liability,
 

@@ -15,7 +15,7 @@
 
 ## § 1905. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (1) the terms “Helen Keller National Center for Youths and Adults who are Deaf-Blind” and “Center” mean the Helen Keller National Center for Youths and Adults who are Deaf-Blind, and its affiliated network, operated pursuant to this chapter;
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch19/schIV/ptD/m__us_usc_t29_s1731 to 1735.md) | [Next](./../../../../../..//us/usc/t29/ch19/schIV/ptD/m__us_usc_t29_s1737.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1736)
+[Previous](./../../../../../..//us/usc/t29/ch19/schIV/ptD/m__us_usc_t29_ch19_schIV_ptD.md) | [Next](./../../../../../..//us/usc/t29/ch19/schIV/ptD/m__us_usc_t29_s1737.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1736)
 
 ## § 1736. Repealed. [Pub. L. 102–367, title IV, § 403(a)(4)][/us/pl/102/367/s403/a/4], Sept. 7, 1992, [106 Stat. 1084][/us/stat/106/1084]
 
@@ -23,7 +23,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch19/schIV/ptD/m__us_usc_t29_s1731 to 1735.md) | [Next](./../../../../../..//us/usc/t29/ch19/schIV/ptD/m__us_usc_t29_s1737.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1736)
+[Previous](./../../../../../..//us/usc/t29/ch19/schIV/ptD/m__us_usc_t29_ch19_schIV_ptD.md) | [Next](./../../../../../..//us/usc/t29/ch19/schIV/ptD/m__us_usc_t29_s1737.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1736)
 
 ----------
 ----------

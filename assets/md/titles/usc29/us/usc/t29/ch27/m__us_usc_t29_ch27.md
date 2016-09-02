@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch26/m__us_usc_t29_s2401 to 2405.md) | [Next](./../../../..//us/usc/t29/ch27/m__us_usc_t29_s2501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch27)
+[Previous](./../../../..//us/usc/t29/ch26/m__us_usc_t29_ch26.md) | [Next](./../../../..//us/usc/t29/ch27/m__us_usc_t29_s2501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch27)
 
 ## CHAPTER 27—WOMEN IN APPRENTICESHIP AND NONTRADITIONAL OCCUPATIONS
 
@@ -99,7 +99,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch26/m__us_usc_t29_s2401 to 2405.md) | [Next](./../../../..//us/usc/t29/ch27/m__us_usc_t29_s2501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch27)
+[Previous](./../../../..//us/usc/t29/ch26/m__us_usc_t29_ch26.md) | [Next](./../../../..//us/usc/t29/ch27/m__us_usc_t29_s2501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch27)
 
 ----------
 ----------

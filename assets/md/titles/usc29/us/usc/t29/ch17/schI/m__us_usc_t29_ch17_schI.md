@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t29/ch17/m__us_usc_t29_s801, 802.md) | [Next](./../../../../..//us/usc/t29/ch17/schI/ptA/m__us_usc_t29_ch17_schI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch17%2FschI)
+[Previous](./../../../../..//us/usc/t29/ch17/m__us_usc_t29_ch17.md) | [Next](./../../../../..//us/usc/t29/ch17/schI/ptA/m__us_usc_t29_ch17_schI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch17%2FschI)
 
 ### SUBCHAPTER I—ADMINISTRATIVE PROVISIONS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t29/ch17/m__us_usc_t29_s801, 802.md) | [Next](./../../../../..//us/usc/t29/ch17/schI/ptA/m__us_usc_t29_ch17_schI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch17%2FschI)
+[Previous](./../../../../..//us/usc/t29/ch17/m__us_usc_t29_ch17.md) | [Next](./../../../../..//us/usc/t29/ch17/schI/ptA/m__us_usc_t29_ch17_schI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch17%2FschI)
 
 ----------
 ----------

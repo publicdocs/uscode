@@ -15,7 +15,7 @@
 
 ## § 1051. Coverage
 
-This part shall apply to any employee benefit plan described in [section 1003(a) of this title][/us/usc/t29/s1003/a] (and not exempted under [section 1003(b) of this title][/us/usc/t29/s1003/b]) other than—
+    This part shall apply to any employee benefit plan described in [section 1003(a) of this title][/us/usc/t29/s1003/a] (and not exempted under [section 1003(b) of this title][/us/usc/t29/s1003/b]) other than—
 
     (1) an employee welfare benefit plan;
 

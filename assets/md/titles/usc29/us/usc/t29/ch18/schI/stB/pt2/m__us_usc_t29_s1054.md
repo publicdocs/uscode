@@ -801,7 +801,7 @@
 
 >     The amendments made by this section \[amending this section and [section 411 of Title 26][/us/usc/t26/s411], Internal Revenue Code\] shall apply to plan years beginning after December 31, 1987.
 
->     “(2) __Plan amendments not required until january 1, 1989.—__ 
+>     “(2) __Plan amendments not required until__  __january 1, 1989__  __.—__ 
 
 >     If any amendment made by this section requires an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after January 1, 1989, if—
 
@@ -859,7 +859,7 @@
 
 >     “(B) such plan is amended to reflect the amendments made by this subsection \[amending this section, [section 1002 of this title][/us/usc/t29/s1002], and [section 411 of Title 26][/us/usc/t26/s411]\],
 
->         any plan amendment described in subparagraph (B) shall not be treated as reducing accrued benefits for purposes of section 411(d)(6) of the Internal Revenue Code of 1986 \[[section 411(d)(6) of Title 26][/us/usc/t26/s411/d/6]\] or section 204(g) of ERISA \[subsec. (g) of this section\].”
+>     any plan amendment described in subparagraph (B) shall not be treated as reducing accrued benefits for purposes of section 411(d)(6) of the Internal Revenue Code of 1986 \[[section 411(d)(6) of Title 26][/us/usc/t26/s411/d/6]\] or section 204(g) of ERISA \[subsec. (g) of this section\].”
 
  __Plan Amendments Not Required Until January 1, 1989__ 
 

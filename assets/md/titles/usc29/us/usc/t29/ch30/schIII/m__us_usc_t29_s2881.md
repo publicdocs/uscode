@@ -15,7 +15,7 @@
 
 ## § 2881. Purposes
 
-The purposes of this subchapter are—
+    The purposes of this subchapter are—
 
     (1) to maintain a national Job Corps program, carried out in partnership with States and communities, to assist eligible youth who need and can benefit from an intensive program, operated in a group setting in residential and nonresidential centers, to become more responsible, employable, and productive citizens;
 

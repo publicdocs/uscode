@@ -15,7 +15,7 @@
 
 ## § 2945. General program requirements
 
-Except as otherwise provided in this chapter, the following conditions are applicable to all programs under this chapter:
+    Except as otherwise provided in this chapter, the following conditions are applicable to all programs under this chapter:
 
     (1) Each program under this chapter shall provide employment and training opportunities to those who can benefit from, and who are most in need of, such opportunities. In addition, efforts shall be made to develop programs which contribute to occupational development, upward mobility, development of new careers, and opportunities for nontraditional employment.
 

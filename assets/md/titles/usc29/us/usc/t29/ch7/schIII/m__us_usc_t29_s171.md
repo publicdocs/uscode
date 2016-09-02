@@ -15,7 +15,7 @@
 
 ## § 171. Declaration of purpose and policy
 
-It is the policy of the United States that—
+    It is the policy of the United States that—
 
     (a) sound and stable industrial peace and the advancement of the general welfare, health, and safety of the Nation and of the best interests of employers and employees can most satisfactorily be secured by the settlement of issues between employers and employees through the processes of conference and collective bargaining between employers and the representatives of their employees;
 

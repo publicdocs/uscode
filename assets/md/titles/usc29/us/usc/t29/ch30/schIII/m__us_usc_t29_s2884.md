@@ -15,7 +15,7 @@
 
 ## § 2884. Individuals eligible for the Job Corps
 
-To be eligible to become an enrollee, an individual shall be—
+    To be eligible to become an enrollee, an individual shall be—
 
     (1)
 

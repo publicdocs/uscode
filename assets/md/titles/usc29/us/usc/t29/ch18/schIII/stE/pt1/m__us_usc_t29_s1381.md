@@ -53,13 +53,21 @@
 
 >     “(a) __In General.—__ 
 
->         “(1) __Liability.—Any withdrawal liability incurred by an employer pursuant to part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 (__  __[__  __29 U.S.C. 1381__  __][/us/usc/t29/s1381]__  __et seq.) as a result of the complete or partial withdrawal of such employer from a multiemployer plan before__  __September 26, 1980__  __, shall be void.__ 
+>         “(1) __Liability.—__ 
 
->         “(2) __Refunds.—Any amounts paid by an employer to a plan sponsor as a result of such withdrawal liability shall be refunded by the plan sponsor to the employer with interest (in accordance with section 401(a)(2) \[__  __[__  __26 U.S.C. 401(a)(2)__  __][/us/usc/t26/s401/a/2]__  __\]), less a reasonable amount for administrative expenses incurred by the plan sponsor (other than legal expenses incurred with respect to the plan) in calculating, assessing, and refunding such amounts.__ 
+>         Any withdrawal liability incurred by an employer pursuant to part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1381][/us/usc/t29/s1381] et seq.) as a result of the complete or partial withdrawal of such employer from a multiemployer plan before September 26, 1980, shall be void.
 
->     “(c) __No Increase in Liability.—The amendments made by this section \[amending sections 1391, 1397, 1399, 1415 and 1461 of this title and provisions set out as a note under__  __[__  __section 1385 of this title__  __][/us/usc/t29/s1385]__  __\] shall not be construed to increase the liability incurred by any employer pursuant to part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 (__  __[__  __29 U.S.C. 1381__  __][/us/usc/t29/s1381]__  __et seq.), as in effect immediately before the amendments made by subsection (b) \[amending sections 1391, 1397, 1399, 1415, and 1461 of this title and provisions set out as a note under__  __[__  __section 1385 of this title__  __][/us/usc/t29/s1385]__  __\], as a result of the complete or partial withdrawal of such employer from a multiemployer plan prior to__  __September 26, 1980__  __.__ 
+>         “(2) __Refunds.—__ 
 
->     “(d) __Special Rule for Certain Binding Agreements.—In the case of an employer who, on__  __September 26, 1980__  __, has a binding agreement to withdraw from a multiemployer plan, subsection (a)(1) shall be applied by substituting ‘__  __December 31, 1980__  __’ for ‘__  __September 26, 1980__  __’.”__ 
+>         Any amounts paid by an employer to a plan sponsor as a result of such withdrawal liability shall be refunded by the plan sponsor to the employer with interest (in accordance with section 401(a)(2) \[[26 U.S.C. 401(a)(2)][/us/usc/t26/s401/a/2]\]), less a reasonable amount for administrative expenses incurred by the plan sponsor (other than legal expenses incurred with respect to the plan) in calculating, assessing, and refunding such amounts.
+
+>     “(c) __No Increase in Liability.—__ 
+
+>     The amendments made by this section \[amending sections 1391, 1397, 1399, 1415 and 1461 of this title and provisions set out as a note under [section 1385 of this title][/us/usc/t29/s1385]\] shall not be construed to increase the liability incurred by any employer pursuant to part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1381][/us/usc/t29/s1381] et seq.), as in effect immediately before the amendments made by subsection (b) \[amending sections 1391, 1397, 1399, 1415, and 1461 of this title and provisions set out as a note under [section 1385 of this title][/us/usc/t29/s1385]\], as a result of the complete or partial withdrawal of such employer from a multiemployer plan prior to September 26, 1980.
+
+>     “(d) __Special Rule for Certain Binding Agreements.—__ 
+
+>     In the case of an employer who, on September 26, 1980, has a binding agreement to withdraw from a multiemployer plan, subsection (a)(1) shall be applied by substituting ‘December 31, 1980’ for ‘September 26, 1980’.”
 
  __Applicability to Certain Employers Withdrawn Before__  __Sept. 26, 1980__  __, From Multiemployer Plan Covering Employees in Seagoing Industry; Effective Date, Coverage, Etc.__ 
 

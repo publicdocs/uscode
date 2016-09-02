@@ -15,7 +15,7 @@
 
 ## § 1167. Definitions and special rules
 
-For purposes of this part—
+    For purposes of this part—
 
     (1) __Group health plan__ 
 

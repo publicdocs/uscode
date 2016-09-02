@@ -15,7 +15,7 @@
 
 ## § 795j. Eligibility
 
-An individual shall be eligible under this part to receive supported employment services authorized under this chapter if—
+    An individual shall be eligible under this part to receive supported employment services authorized under this chapter if—
 
     (1) the individual is eligible for vocational rehabilitation services;
 

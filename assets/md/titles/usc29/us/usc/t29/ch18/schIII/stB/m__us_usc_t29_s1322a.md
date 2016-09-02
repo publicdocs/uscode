@@ -197,13 +197,11 @@
 
     (h) __Applicability to nonforfeitable benefits accrued as of__  __July 30, 1980__  __; manner and extent of guarantee__ 
 
-        (1)
+        (1) Except as provided in paragraph (3), subsections (b) and (c) of this section shall not apply with respect to the nonforfeitable benefits accrued as of July 29, 1980, with respect to a participant or beneficiary under a multiemployer plan—
 
-         Except as provided in paragraph (3), subsections (b) and (c) of this section shall not apply with respect to the nonforfeitable benefits accrued as of July 29, 1980, with respect to a participant or beneficiary under a multiemployer plan—
+        (1) who is in pay status on July 29, 1980, or
 
-            (1) who is in pay status on July 29, 1980, or
-
-            (2) who is within 36 months of the normal retirement age and has a nonforfeitable right to a pension as of that date.
+        (2) who is within 36 months of the normal retirement age and has a nonforfeitable right to a pension as of that date.
 
         (2) The benefits described in paragraph (1) shall be guaranteed by the corporation in the same manner and to the same extent as benefits are guaranteed by the corporation under [section 1322 of this title][/us/usc/t29/s1322] (without regard to this section).
 

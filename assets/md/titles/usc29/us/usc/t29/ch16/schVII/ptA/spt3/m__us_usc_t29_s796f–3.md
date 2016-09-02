@@ -15,7 +15,7 @@
 
 ## § 796f–3. Centers operated by State agencies
 
-A State that receives assistance for fiscal year 1993 with respect to a center in accordance with subsection (a) of this section (as in effect on the day before August 7, 1998) may continue to receive assistance under this subpart for fiscal year 1994 or a succeeding fiscal year if, for such fiscal year—
+    A State that receives assistance for fiscal year 1993 with respect to a center in accordance with subsection (a) of this section (as in effect on the day before August 7, 1998) may continue to receive assistance under this subpart for fiscal year 1994 or a succeeding fiscal year if, for such fiscal year—
 
     (1)
 

@@ -15,7 +15,7 @@
 
 ## § 2508. Definitions
 
-For purposes of this chapter:
+    For purposes of this chapter:
 
     (1) The term “community-based organization” means a community-based organization as defined in section 4(5) of the Job Training Partnership Act ([29 U.S.C. 1501(5)][/us/usc/t29/s1501/5]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  that has demonstrated experience administering programs that train women for apprenticeable occupations or other nontraditional occupations.
 

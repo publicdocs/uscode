@@ -15,7 +15,7 @@
 
 ## § 107. Issuance of injunctions in labor disputes; hearing; findings of court; notice to affected persons; temporary restraining order; undertakings
 
-No court of the United States shall have jurisdiction to issue a temporary or permanent injunction in any case involving or growing out of a labor dispute, as defined in this chapter, except after hearing the testimony of witnesses in open court (with opportunity for cross-examination) in support of the allegations of a complaint made under oath, and testimony in opposition thereto, if offered, and except after findings of fact by the court, to the effect—
+    No court of the United States shall have jurisdiction to issue a temporary or permanent injunction in any case involving or growing out of a labor dispute, as defined in this chapter, except after hearing the testimony of witnesses in open court (with opportunity for cross-examination) in support of the allegations of a complaint made under oath, and testimony in opposition thereto, if offered, and except after findings of fact by the court, to the effect—
 
     (a) That unlawful acts have been threatened and will be committed unless restrained or have been committed and will be continued unless restrained, but no injunction or temporary restraining order shall be issued on account of any threat or unlawful act excepting against the person or persons, association, or organization making the threat or committing the unlawful act or actually authorizing or ratifying the same after actual knowledge thereof;
 

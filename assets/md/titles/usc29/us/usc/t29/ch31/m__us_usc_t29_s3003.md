@@ -353,9 +353,13 @@
 
                     (III) __Statewide information and referral system__ 
 
-                        (aa) In general    The State shall directly, or in collaboration with public or private (such as nonprofit) entities, provide for the continuation and enhancement of a statewide information and referral system designed to meet the needs of targeted individuals and entities.
+                        (aa) __In general__ 
 
-                        (bb) Content    The system shall deliver information on assistive technology devices, assistive technology services (with specific data regarding provider availability within the State), and the availability of resources, including funding through public and private sources, to obtain assistive technology devices and assistive technology services. The system shall also deliver information on the benefits of assistive technology devices and assistive technology services with respect to enhancing the capacity of individuals with disabilities of all ages to perform activities of daily living.
+                            The State shall directly, or in collaboration with public or private (such as nonprofit) entities, provide for the continuation and enhancement of a statewide information and referral system designed to meet the needs of targeted individuals and entities.
+
+                        (bb) __Content__ 
+
+                            The system shall deliver information on assistive technology devices, assistive technology services (with specific data regarding provider availability within the State), and the availability of resources, including funding through public and private sources, to obtain assistive technology devices and assistive technology services. The system shall also deliver information on the benefits of assistive technology devices and assistive technology services with respect to enhancing the capacity of individuals with disabilities of all ages to perform activities of daily living.
 
                 (iii) __Coordination and collaboration__ 
 

@@ -595,9 +595,13 @@
 
 >                 “(i) __Terminations for which sufficiency notices have not been issued.—__ 
 
->                          “(I) In general.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has not been issued by the Corporation before the date of the enactment of this Act, if, during the 90-day period commencing on the date of the notice required in subclause (II), all benefit commitments under the plan have been satisfied, the termination shall be treated as a standard termination under section 4041(b) of such Act (as amended by this title).
+>                          “(I) __In general.—__ 
 
->                          “(II) Special notice regarding sufficiency for terminations for which notices of sufficiency have not been issued as of date of enactment.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has not been issued by the Corporation before the date of the enactment of this Act, the Corporation shall make the determinations described in section 4041(c)(3)(A)(i) and (ii) (as amended by this title) and notify the plan administrator of such determinations as provided in section 4041(c)(3)(A)(iii) (as amended by this title).
+>                     In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has not been issued by the Corporation before the date of the enactment of this Act, if, during the 90-day period commencing on the date of the notice required in subclause (II), all benefit commitments under the plan have been satisfied, the termination shall be treated as a standard termination under section 4041(b) of such Act (as amended by this title).
+
+>                          “(II) __Special notice regarding sufficiency for terminations for which notices of sufficiency have not been issued as of date of enactment.—__ 
+
+>                     In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has not been issued by the Corporation before the date of the enactment of this Act, the Corporation shall make the determinations described in section 4041(c)(3)(A)(i) and (ii) (as amended by this title) and notify the plan administrator of such determinations as provided in section 4041(c)(3)(A)(iii) (as amended by this title).
 
 >                 “(ii) __Terminations for which notices of sufficiency have been issued.—__ 
 

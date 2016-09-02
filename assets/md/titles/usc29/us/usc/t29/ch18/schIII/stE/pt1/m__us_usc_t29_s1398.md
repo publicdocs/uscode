@@ -15,7 +15,7 @@
 
 ## § 1398. Withdrawal not to occur because of change in business form or suspension of contributions during labor dispute
 
-Notwithstanding any other provision of this part, an employer shall not be considered to have withdrawn from a plan solely because—
+    Notwithstanding any other provision of this part, an employer shall not be considered to have withdrawn from a plan solely because—
 
     (1)
 
@@ -29,7 +29,7 @@ Notwithstanding any other provision of this part, an employer shall not be consi
 
     (2) an employer suspends contributions under the plan during a labor dispute involving its employees.
 
-        For purposes of this part, a successor or parent corporation or other entity resulting from any such change shall be considered the original employer.
+    For purposes of this part, a successor or parent corporation or other entity resulting from any such change shall be considered the original employer.
 
 ([Pub. L. 93–406, title IV, § 4218][/us/pl/93/406/s4218], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1236][/us/stat/94/1236]; amended [Pub. L. 99–514, title XVIII, § 1879(u)(4)][/us/pl/99/514/s1879/u/4], as added [Pub. L. 101–239, title VII, § 7862(b)(1)(C)][/us/pl/101/239/s7862/b/1/C], Dec. 19, 1989, [103 Stat. 2432][/us/stat/103/2432]; [Pub. L. 101–239, title VII, § 7893(f)][/us/pl/101/239/s7893/f], Dec. 19, 1989, [103 Stat. 2447][/us/stat/103/2447].)
 

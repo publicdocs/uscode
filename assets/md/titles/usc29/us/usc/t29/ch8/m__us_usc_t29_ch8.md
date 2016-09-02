@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch7/schV/m__us_usc_t29_s191 to 197.md) | [Next](./../../../..//us/usc/t29/ch8/m__us_usc_t29_s201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch8)
+[Previous](./../../../..//us/usc/t29/ch7/schV/m__us_usc_t29_ch7_schV.md) | [Next](./../../../..//us/usc/t29/ch8/m__us_usc_t29_s201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch8)
 
 ## CHAPTER 8—FAIR LABOR STANDARDS
 
@@ -219,7 +219,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch7/schV/m__us_usc_t29_s191 to 197.md) | [Next](./../../../..//us/usc/t29/ch8/m__us_usc_t29_s201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch8)
+[Previous](./../../../..//us/usc/t29/ch7/schV/m__us_usc_t29_ch7_schV.md) | [Next](./../../../..//us/usc/t29/ch8/m__us_usc_t29_s201.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch8)
 
 ----------
 ----------

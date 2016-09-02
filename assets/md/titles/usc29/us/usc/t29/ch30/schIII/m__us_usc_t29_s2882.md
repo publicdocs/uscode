@@ -15,7 +15,7 @@
 
 ## § 2882. Definitions
 
-In this subchapter:
+    In this subchapter:
 
     (1) __Applicable local board__ 
 

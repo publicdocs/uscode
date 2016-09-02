@@ -15,7 +15,7 @@
 
 ## § 1149. Prohibition on false statements and representations
 
-No person, in connection with a plan or other arrangement that is  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “a”. </sup></sup>  multiple employer welfare arrangement described in [section 1002(40) of this title][/us/usc/t29/s1002/40], shall make a false statement or false representation of fact, knowing it to be false, in connection with the marketing or sale of such plan or arrangement, to any employee, any member of an employee organization, any beneficiary, any employer, any employee organization, the Secretary, or any State, or the representative or agent of any such person, State, or the Secretary, concerning—
+    No person, in connection with a plan or other arrangement that is  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “a”. </sup></sup>  multiple employer welfare arrangement described in [section 1002(40) of this title][/us/usc/t29/s1002/40], shall make a false statement or false representation of fact, knowing it to be false, in connection with the marketing or sale of such plan or arrangement, to any employee, any member of an employee organization, any beneficiary, any employer, any employee organization, the Secretary, or any State, or the representative or agent of any such person, State, or the Secretary, concerning—
 
     (1) the financial condition or solvency of such plan or arrangement;
 
@@ -25,7 +25,7 @@ No person, in connection with a plan or other arrangement that is  <sup>\[1\]<
 
     (4) the regulatory status of such plan or other arrangement regarding exemption from state  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be capitalized. </sup></sup>  regulatory authority under this chapter.
 
-        This section shall not apply to any plan or arrangement that does not fall within the meaning of the term “multiple employer welfare arrangement” under [section 1002(40)(A) of this title][/us/usc/t29/s1002/40/A].
+    This section shall not apply to any plan or arrangement that does not fall within the meaning of the term “multiple employer welfare arrangement” under [section 1002(40)(A) of this title][/us/usc/t29/s1002/40/A].
 
 ([Pub. L. 93–406, title I, § 519][/us/pl/93/406/s519], as added [Pub. L. 111–148, title VI, § 6601(a)][/us/pl/111/148/s6601/a], Mar. 23, 2010, [124 Stat. 779][/us/stat/124/779].)
 

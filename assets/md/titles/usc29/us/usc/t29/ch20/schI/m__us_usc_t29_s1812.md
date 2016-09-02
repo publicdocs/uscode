@@ -15,7 +15,7 @@
 
 ## § 1812. Issuance of certificate of registration
 
-The Secretary, after appropriate investigation and approval, shall issue a certificate of registration (including a certificate of registration as an employee of a farm labor contractor) to any person who has filed with the Secretary a written application containing the following:
+    The Secretary, after appropriate investigation and approval, shall issue a certificate of registration (including a certificate of registration as an employee of a farm labor contractor) to any person who has filed with the Secretary a written application containing the following:
 
     (1) a declaration, subscribed and sworn to by the applicant, stating the applicant’s permanent place of residence, the farm labor contracting activities for which the certificate is requested, and such other relevant information as the Secretary may require;
 

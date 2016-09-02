@@ -15,7 +15,7 @@
 
 ## § 2506. Liaison role of Department of Labor
 
-The Department of Labor shall serve as a liaison among employers, labor unions, and community-based organizations. The liaison role may include—
+    The Department of Labor shall serve as a liaison among employers, labor unions, and community-based organizations. The liaison role may include—
 
     (1) coordination of employers, labor unions, and community-based organizations with respect to technical assistance provided under [section 2503(a) of this title][/us/usc/t29/s2503/a];
 
