@@ -161,6 +161,38 @@ June 30, 1967, Pub. L. 90–39, § 2, 81 Stat. 99.  </td>
 
     [Pub. L. 98–34][/us/pl/98/34] substituted “$1,389,000,000,000” for “$400,000,000,000”.
 
+ __Temporary Debt Limit Extension__ 
+
+[Pub. L. 113–83][/us/pl/113/83], Feb. 15, 2014, [128 Stat. 1011][/us/stat/128/1011], provided that:
+
+> “SECTION 1. __SHORT TITLE.__ 
+
+>     “This Act may be cited as the ‘Temporary Debt Limit Extension Act’.
+
+> “SEC. 2. __TEMPORARY EXTENSION OF PUBLIC DEBT LIMIT.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     [Section 3101(b) of title 31][/us/usc/t31/s3101/b], United States Code, shall not apply for the period beginning on the date of the enactment of this Act \[Feb. 15, 2014\] and ending on March 15, 2015.
+
+>     “(b)  __Special Rule Relating to Obligations Issued During Extension Period__  __.—__ 
+
+>     Effective March 16, 2015, the limitation in effect under [section 3101(b) of title 31][/us/usc/t31/s3101/b], United States Code, shall be increased to the extent that—
+
+>         “(1) the face amount of obligations issued under chapter 31 of such title and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) outstanding on March 16, 2015, exceeds
+
+>         “(2) the face amount of such obligations outstanding on the date of the enactment of this Act \[Feb. 15, 2014\].
+
+> “SEC. 3. __RESTORING CONGRESSIONAL AUTHORITY OVER THE NATIONAL DEBT.__ 
+
+>     “(a)  __Extension Limited to Necessary Obligations__  __.—__ 
+
+>     An obligation shall not be taken into account under section 2(b)(1) unless the issuance of such obligation was necessary to fund a commitment incurred pursuant to law by the Federal Government that required payment before March 16, 2015.
+
+>     “(b)  __Prohibition on Creation of Cash Reserve During Extension Period__  __.—__ 
+
+>     The Secretary of the Treasury shall not issue obligations during the period specified in section 2(a) for the purpose of increasing the cash balance above normal operating balances in anticipation of the expiration of such period.”
+
  __Default Prevention__ 
 
 [Pub. L. 113–46, div. B, § 1002][/us/pl/113/46/s1002], Oct. 17, 2013, [127 Stat. 566][/us/stat/127/566], provided that:
@@ -532,6 +564,10 @@ Provisions requiring the Secretary of the Treasury to restore certain Federal tr
 [/us/pl/98/342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F342
 [/us/pl/98/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F161
 [/us/pl/98/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F34
+[/us/pl/113/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F83
+[/us/stat/128/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1011
+[/us/usc/t31/s3101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101%2Fb
+[/us/usc/t31/s3101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101%2Fb
 [/us/pl/113/46/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F46%2Fs1002
 [/us/stat/127/566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F566
 [/us/usc/t31/s3101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3101%2Fb

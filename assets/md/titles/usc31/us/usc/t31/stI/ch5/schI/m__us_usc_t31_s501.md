@@ -735,11 +735,13 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Department of Homeland Security Working Capital Fund__ 
 
-[Pub. L. 113–6, div. D, title V, § 504][/us/pl/113/6/s504], Mar. 26, 2013, [127 Stat. 367][/us/stat/127/367], provided that: 
+[Pub. L. 113–76, div. F, title V, § 504][/us/pl/113/76/s504], Jan. 17, 2014, [128 Stat. 270][/us/stat/128/270], provided that: 
 
-> “The Department of Homeland Security Working Capital Fund, established pursuant to [section 403 of Public Law 103–356][/us/pl/103/356/s403] ([31 U.S.C. 501][/us/usc/t31/s501] note), shall continue operations as a permanent working capital fund for fiscal year 2013: Provided, That none of the funds appropriated or otherwise made available to the Department of Homeland Security may be used to make payments to the Working Capital Fund, except for the activities and amounts allowed in the President’s fiscal year 2013 budget: Provided further, That funds provided to the Working Capital Fund shall be available for obligation until expended to carry out the purposes of the Working Capital Fund: Provided further, That all departmental components shall be charged only for direct usage of each Working Capital Fund service: Provided further, That funds provided to the Working Capital Fund shall be used only for purposes consistent with the contributing component: Provided further, That the Working Capital Fund shall be paid in advance or reimbursed at rates which will return the full cost of each service: Provided further, That the Working Capital Fund shall be subject to the requirements of section 503 of this Act \[[127 Stat. 366][/us/stat/127/366]\].”
+> “The Department of Homeland Security Working Capital Fund, established pursuant to [section 403 of Public Law 103–356][/us/pl/103/356/s403] ([31 U.S.C. 501][/us/usc/t31/s501] note), shall continue operations as a permanent working capital fund for fiscal year 2014: Provided, That none of the funds appropriated or otherwise made available to the Department of Homeland Security may be used to make payments to the Working Capital Fund, except for the activities and amounts allowed in the President’s fiscal year 2014 budget: Provided further, That funds provided to the Working Capital Fund shall be available for obligation until expended to carry out the purposes of the Working Capital Fund: Provided further, That all departmental components shall be charged only for direct usage of each Working Capital Fund service: Provided further, That funds provided to the Working Capital Fund shall be used only for purposes consistent with the contributing component: Provided further, That the Working Capital Fund shall be paid in advance or reimbursed at rates which will return the full cost of each service: Provided further, That the Committees on Appropriations of the Senate and House of Representatives shall be notified of any activity added to or removed from the fund: Provided further, That the Chief Financial Officer of the Department of Homeland Security shall submit a quarterly execution report with activity level detail, not later than 30 days after the end of each quarter.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–6, div. D, title V, § 504][/us/pl/113/6/s504], Mar. 26, 2013, [127 Stat. 367][/us/stat/127/367].
 
     [Pub. L. 112–74, div. D, title V, § 504][/us/pl/112/74/s504], Dec. 23, 2011, [125 Stat. 969][/us/stat/125/969].
 
@@ -1955,11 +1957,12 @@ Sec. 2. Agency Customer Service Plans and Activities. Within 180 days of the dat
 [/us/stat/117/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F481
 [/us/pl/107/73/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F73%2Fs108
 [/us/stat/115/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F658
-[/us/pl/113/6/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs504
-[/us/stat/127/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F367
+[/us/pl/113/76/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs504
+[/us/stat/128/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F270
 [/us/pl/103/356/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs403
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501
-[/us/stat/127/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F366
+[/us/pl/113/6/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs504
+[/us/stat/127/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F367
 [/us/pl/112/74/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs504
 [/us/stat/125/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F969
 [/us/pl/111/83/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F83%2Fs504

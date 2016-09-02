@@ -115,7 +115,7 @@ R.S. § 305(less disbursement).  </td>
 
 [Pub. L. 103–356, § 1(a)][/us/pl/103/356/s1/a], Oct. 13, 1994, [108 Stat. 3410][/us/stat/108/3410], provided that: 
 
-> “This Act \[amending sections 331, 3332, 3515, and 3521 of this title, [section 31 of Title 2][/us/usc/t2/s31], The Congress, [section 104 of Title 3][/us/usc/t3/s104], The President, sections 5318 and 6304 of Title 5, Government Organization and Employees, and [section 461 of Title 28][/us/usc/t28/s461], Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section, sections 501 and 1113 of this title, [section 31 of Title 2][/us/usc/t2/s31], and [section 6304 of Title 5][/us/usc/t5/s6304]\] may be cited as the ‘Government Management Reform Act of 1994’.”
+> “This Act \[see Tables for classification\] may be cited as the ‘Government Management Reform Act of 1994’.”
 
 [Pub. L. 103–356, title IV, § 401][/us/pl/103/356/s401], Oct. 13, 1994, [108 Stat. 3412][/us/stat/108/3412], provided that: 
 
@@ -143,11 +143,6 @@ R.S. § 305(less disbursement).  </td>
 [/us/usc/t31/s3327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3327
 [/us/pl/103/356/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs1%2Fa
 [/us/stat/108/3410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3410
-[/us/usc/t2/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31
-[/us/usc/t3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs104
-[/us/usc/t28/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs461
-[/us/usc/t2/s31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs31
-[/us/usc/t5/s6304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6304
 [/us/pl/103/356/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F356%2Fs401
 [/us/stat/108/3412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3412
 [/us/usc/t31/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs501

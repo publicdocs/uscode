@@ -31,13 +31,43 @@
 
             (B) in the case of a filing of a paper at the Government Accountability Office or a Federal agency, such last day is a day on which weather or other conditions cause the closing of the Government Accountability Office or Federal agency, in which event the next day that is not a Saturday, Sunday, or legal holiday shall be included.
 
-    (c) The Comptroller General may prescribe procedures for the electronic filing and dissemination of documents and information required under this subchapter. In prescribing such procedures, the Comptroller General shall consider the ability of all parties to achieve electronic access to such documents and records.
+    (c) __Electronic Filing and Document Dissemination System.—__ 
+
+        (1)  __Establishment and operation of system__  __.—__ 
+
+        The Comptroller General shall establish and operate an electronic filing and document dissemination system under which, in accordance with procedures prescribed by the Comptroller General—
+
+            (A) a person filing a protest under this subchapter may file the protest through electronic means; and
+
+            (B) all documents and information required with respect to the protest may be disseminated and made available to the parties to the protest through electronic means.
+
+        (2) __Imposition of fees.—__ 
+
+            (A)  __In general__  __.—__ 
+
+            The Comptroller General may require each person who files a protest under this subchapter to pay a fee to support the establishment and operation of the electronic system under this subsection, without regard to whether or not the person uses the system with respect to the protest.
+
+            (B)  __Amount__  __.—__ 
+
+            The Comptroller General shall establish (and from time to time shall update) a schedule setting forth the amount of the fee to be paid under subparagraph (A).
+
+        (3) __Treatment of amounts collected.—__ 
+
+            (A)  __Establishment of account__  __.—__ 
+
+            The Comptroller General shall maintain a separate account among the accounts of the Government Accountability Office for the electronic system under this subsection, and shall deposit all amounts received as fees under paragraph (2) into the account.
+
+            (B)  __Use of amounts__  __.—__ 
+
+            Amounts in the account maintained under this paragraph shall be available to the Comptroller General, without fiscal year limitation, solely to establish and operate the electronic system under this subsection.
 
     (d) The Comptroller General may use any authority available under chapter 7 of this title and this chapter to verify assertions made by parties in protests under this subchapter.
 
-(Added [Pub. L. 98–369, div. B, title VII, § 2741(a)][/us/pl/98/369/s2741/a], July 18, 1984, [98 Stat. 1202][/us/stat/98/1202]; amended [Pub. L. 103–355, title I, § 1404][/us/pl/103/355/s1404], Oct. 13, 1994, [108 Stat. 3291][/us/stat/108/3291]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+(Added [Pub. L. 98–369, div. B, title VII, § 2741(a)][/us/pl/98/369/s2741/a], July 18, 1984, [98 Stat. 1202][/us/stat/98/1202]; amended [Pub. L. 103–355, title I, § 1404][/us/pl/103/355/s1404], Oct. 13, 1994, [108 Stat. 3291][/us/stat/108/3291]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–76, div. I, title I, § 1501][/us/pl/113/76/s1501], Jan. 17, 2014, [128 Stat. 433][/us/stat/128/433].)
 
  __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–76][/us/pl/113/76] amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Comptroller General may prescribe procedures for the electronic filing and dissemination of documents and information required under this subchapter. In prescribing such procedures, the Comptroller General shall consider the ability of all parties to achieve electronic access to such documents and records.”
 
     2004—Subsec. (b)(2)(B). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office” in two places.
 
@@ -67,6 +97,9 @@
 [/us/stat/108/3291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3291
 [/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
+[/us/pl/113/76/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1501
+[/us/stat/128/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F433
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/103/355/s1404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1404%2Fc
 [/us/pl/103/355/s1404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1404%2Fa
