@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t30/ch22/schV/m__us_usc_t30_s964.md) | [Next](./../../../../..//us/usc/t30/ch23/m__us_usc_t30_ch23.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs965)
+[Previous](./../../../../..//us/usc/t30/ch22/schV/m__us_usc_t30_s964.md) | [Next](./../../../../..//us/usc/t30/ch22/schV/m__us_usc_t30_s966.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs965)
 
 ## § 965. Brookwood-Sago Mine Safety Grants
 
@@ -65,7 +65,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t30/ch22/schV/m__us_usc_t30_s964.md) | [Next](./../../../../..//us/usc/t30/ch23/m__us_usc_t30_ch23.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs965)
+[Previous](./../../../../..//us/usc/t30/ch22/schV/m__us_usc_t30_s964.md) | [Next](./../../../../..//us/usc/t30/ch22/schV/m__us_usc_t30_s966.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs965)
 
 ----------
 ----------

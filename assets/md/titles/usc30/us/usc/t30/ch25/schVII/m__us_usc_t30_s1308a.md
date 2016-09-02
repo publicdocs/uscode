@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t30/ch25/schVII/m__us_usc_t30_s1308.md) | [Next](./../../../../..//us/usc/t30/ch25/schVII/m__us_usc_t30_s1309.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1308a)
+[Previous](./../../../../..//us/usc/t30/ch25/schVII/m__us_usc_t30_s1308.md) | [Next](./../../../../..//us/usc/t30/ch25/schVII/m__us_usc_t30_s1308b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1308a)
 
 ## § 1308a. Use of civil penalty funds to reclaim lands
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t30/ch25/schVII/m__us_usc_t30_s1308.md) | [Next](./../../../../..//us/usc/t30/ch25/schVII/m__us_usc_t30_s1309.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1308a)
+[Previous](./../../../../..//us/usc/t30/ch25/schVII/m__us_usc_t30_s1308.md) | [Next](./../../../../..//us/usc/t30/ch25/schVII/m__us_usc_t30_s1308b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1308a)
 
 ----------
 ----------
