@@ -25,65 +25,85 @@
 
           <tr>
 
-            <td> In the case of a pay period  </td>
+            <td> 
 
-            <td> The maximum percent-  </td>
+        In the case of a pay period beginning in fiscal year:  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> beginning in fiscal year:  </td>
-
-            <td>   age allowable is:  </td>
+        The maximum percentage allowable is:  </td>
 
   </tr>
 
           <tr>
 
-            <td> 2001  </td>
+            <td> 
 
-            <td> 11     </td>
+        2001  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> 2002  </td>
-
-            <td> 12     </td>
+        11  </td>
 
   </tr>
 
           <tr>
 
-            <td> 2003  </td>
+            <td> 
 
-            <td> 13     </td>
+        2002  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td> 2004  </td>
-
-            <td> 14     </td>
+        12  </td>
 
   </tr>
 
           <tr>
 
-            <td> 2005  </td>
+            <td> 
 
-            <td> 15     </td>
+        2003  </td>
+
+            <td> 
+
+        13  </td>
 
   </tr>
 
           <tr>
 
-            <td> 2006 or thereafter  </td>
+            <td> 
 
-            <td> 100.   </td>
+        2004  </td>
+
+            <td> 
+
+        14  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        2005  </td>
+
+            <td> 
+
+        15  </td>
+
+  </tr>
+
+          <tr>
+
+            <td> 
+
+        2006 or thereafter  </td>
+
+            <td> 
+
+        100.  </td>
 
   </tr>
 

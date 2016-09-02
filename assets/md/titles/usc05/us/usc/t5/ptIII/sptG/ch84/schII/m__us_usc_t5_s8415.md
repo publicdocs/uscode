@@ -83,69 +83,73 @@
 
           <tr>
 
-            <td> If the total amount of service  </td>
+            <td> 
+
+        If the total amount of service performed, on or after the date of the enactment of this subsection, as a Government physician is:  </td>
+
+            <td> 
+
+        Then, the percentage allowable is:  </td>
 
   </tr>
 
           <tr>
 
-            <td>  performed, on or after the date of  </td>
+            <td> 
 
-            <td> Then, the percent-  </td>
+        Less than 2 years  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>  the enactment of this subsection,  </td>
-
-            <td> age allowable is:  </td>
+        0  </td>
 
   </tr>
 
           <tr>
 
-            <td>  as a Government physician is:  </td>
+            <td> 
+
+        At least 2 but less than 4 years  </td>
+
+            <td> 
+
+        25  </td>
 
   </tr>
 
           <tr>
 
-            <td>   Less than 2 years  </td>
+            <td> 
 
-            <td> 0  </td>
+        At least 4 but less than 6 years  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>   At least 2 but less than 4 years  </td>
-
-            <td> 25  </td>
+        50  </td>
 
   </tr>
 
           <tr>
 
-            <td>   At least 4 but less than 6 years  </td>
+            <td> 
 
-            <td> 50  </td>
+        At least 6 but less than 8 years  </td>
 
-  </tr>
+            <td> 
 
-          <tr>
-
-            <td>   At least 6 but less than 8 years  </td>
-
-            <td> 75  </td>
+        75  </td>
 
   </tr>
 
           <tr>
 
-            <td>   At least 8 years  </td>
+            <td> 
 
-            <td> 100.  </td>
+        At least 8 years  </td>
+
+            <td> 
+
+        100.  </td>
 
   </tr>
 

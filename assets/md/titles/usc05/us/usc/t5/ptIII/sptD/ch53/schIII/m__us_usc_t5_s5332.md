@@ -2373,153 +2373,91 @@ $167,000  </td>
 
   <tr>
 
-    <td colspan="2"> Schedule 5  </td>
+    <td colspan="2"> 
+
+Schedule 5  </td>
 
   </tr>
 
   <tr>
 
-    <td colspan="2"> Executive Schedule  </td>
+    <td colspan="2"> 
+
+Executive Schedule  </td>
 
   </tr>
 
   <tr>
 
-    <td colspan="2"> (Effective on the first day of the first applicable pay period beginning on or after January 1, 2014)  </td>
+    <td colspan="2"> 
+
+(Effective on the first day of the first applicable pay period beginning on or after January 1, 2014)  </td>
 
   </tr>
 
   <tr>
 
-    <td> Level I  </td>
-
-    <td> $201,700  </td>
+    <td>   </td>
 
   </tr>
 
   <tr>
 
-    <td> Level II  </td>
+    <td> 
 
-    <td> 181,500  </td>
+Level I  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td> Level III  </td>
-
-    <td> 167,000  </td>
+$201,700  </td>
 
   </tr>
 
   <tr>
 
-    <td> Level IV  </td>
+    <td> 
 
-    <td> 157,100  </td>
+Level II  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td> Level V  </td>
-
-    <td> 147,200  </td>
-
-  </tr>
-
-</table>
-
-<table>
-
-  <tr>
-
-    <td colspan="2"> Schedule 6  </td>
+181,500  </td>
 
   </tr>
 
   <tr>
 
-    <td colspan="2"> Vice President and Members of Congress  </td>
+    <td> 
+
+Level III  </td>
+
+    <td> 
+
+167,000  </td>
 
   </tr>
 
   <tr>
 
-    <td colspan="2"> (Effective on the first day of the first applicable pay period beginning on or after January 1, 2014)  </td>
+    <td> 
+
+Level IV  </td>
+
+    <td> 
+
+157,100  </td>
 
   </tr>
 
   <tr>
 
-    <td> Vice President  </td>
+    <td> 
 
-    <td> $233,000  </td>
+Level V  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td> Senators  </td>
-
-    <td> 174,000  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> Members of the House of Representatives  </td>
-
-    <td> 174,000  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> Delegates to the House of Representatives  </td>
-
-    <td> 174,000  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> Resident Commissioner from Puerto Rico  </td>
-
-    <td> 174,000  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> President pro tempore of the Senate  </td>
-
-    <td> 193,400  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> Majority leader and minority leader of the Senate  </td>
-
-    <td> 193,400  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> Majority leader and minority leader of the House of Representatives  </td>
-
-    <td> 193,400  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> Speaker of the House of Representatives  </td>
-
-    <td> 223,500  </td>
+147,200  </td>
 
   </tr>
 
@@ -2529,59 +2467,233 @@ $167,000  </td>
 
   <tr>
 
-    <td colspan="2"> Schedule 7  </td>
+    <td colspan="2"> 
+
+Schedule 6  </td>
 
   </tr>
 
   <tr>
 
-    <td colspan="2"> Judicial Salaries  </td>
+    <td colspan="2"> 
+
+Vice President and Members of Congress  </td>
 
   </tr>
 
   <tr>
 
-    <td colspan="2"> (Effective on the first day of the first applicable pay period beginning on or after January 1, 2014)  </td>
+    <td colspan="2"> 
+
+(Effective on the first day of the first applicable pay period beginning on or after January 1, 2014)  </td>
 
   </tr>
 
   <tr>
 
-    <td> Chief Justice of the United States  </td>
-
-    <td> $255,500  </td>
+    <td>   </td>
 
   </tr>
 
   <tr>
 
-    <td> Associate Justices of the Supreme Court  </td>
+    <td> 
 
-    <td> 244,400  </td>
+Vice President  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td> Circuit Judges  </td>
-
-    <td> 211,200  </td>
+$233,000  </td>
 
   </tr>
 
   <tr>
 
-    <td> District Judges  </td>
+    <td> 
 
-    <td> 199,100  </td>
+Senators  </td>
+
+    <td> 
+
+174,000  </td>
 
   </tr>
 
   <tr>
 
-    <td> Judges of the Court of International Trade  </td>
+    <td> 
 
-    <td> 199,100  </td>
+Members of the House of Representatives  </td>
+
+    <td> 
+
+174,000  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Delegates to the House of Representatives  </td>
+
+    <td> 
+
+174,000  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Resident Commissioner from Puerto Rico  </td>
+
+    <td> 
+
+174,000  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+President pro tempore of the Senate  </td>
+
+    <td> 
+
+193,400  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Majority leader and minority leader of the Senate  </td>
+
+    <td> 
+
+193,400  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Majority leader and minority leader of the House of Representatives  </td>
+
+    <td> 
+
+193,400  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Speaker of the House of Representatives  </td>
+
+    <td> 
+
+223,500  </td>
+
+  </tr>
+
+</table>
+
+<table>
+
+  <tr>
+
+    <td colspan="2"> 
+
+Schedule 7  </td>
+
+  </tr>
+
+  <tr>
+
+    <td colspan="2"> 
+
+ Judicial Salaries  </td>
+
+  </tr>
+
+  <tr>
+
+    <td colspan="2"> 
+
+(Effective on the first day of the first applicable pay period beginning on or after January 1, 2014)  </td>
+
+  </tr>
+
+  <tr>
+
+    <td>   </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Chief Justice of the United States  </td>
+
+    <td> 
+
+$255,500  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Associate Justices of the Supreme Court  </td>
+
+    <td> 
+
+244,400  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Circuit Judges  </td>
+
+    <td> 
+
+211,200  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+District Judges  </td>
+
+    <td> 
+
+199,100  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Judges of the Court of International Trade  </td>
+
+    <td> 
+
+199,100  </td>
 
   </tr>
 
@@ -7437,83 +7549,127 @@ Rest of U.S.  </td>
 
   <tr>
 
-    <td colspan="2"> Schedule 10  </td>
+    <td colspan="2"> 
+
+Schedule 10  </td>
 
   </tr>
 
   <tr>
 
-    <td colspan="2"> Administrative Law Judges  </td>
+    <td colspan="2"> 
+
+Administrative Law Judges  </td>
 
   </tr>
 
   <tr>
 
-    <td colspan="2"> (Effective on the first day of the first applicable pay period beginning on or after January 1, 2014)  </td>
+    <td colspan="2"> 
+
+(Effective on the first day of the first applicable pay period beginning on or after January 1, 2014)  </td>
 
   </tr>
 
   <tr>
 
-    <td> AL–3/A  </td>
-
-    <td> $104,900  </td>
+    <td>   </td>
 
   </tr>
 
   <tr>
 
-    <td> AL–3/B  </td>
+    <td> 
 
-    <td> 112,900  </td>
+AL–3/A  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td> AL–3/C  </td>
-
-    <td> 121,100  </td>
+$104,900  </td>
 
   </tr>
 
   <tr>
 
-    <td> AL–3/D  </td>
+    <td> 
 
-    <td> 129,100  </td>
+AL–3/B  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td> AL–3/E  </td>
-
-    <td> 137,300  </td>
+112,900  </td>
 
   </tr>
 
   <tr>
 
-    <td> AL–3/F  </td>
+    <td> 
 
-    <td> 145,100  </td>
+AL–3/C  </td>
 
-  </tr>
+    <td> 
 
-  <tr>
-
-    <td> AL–2  </td>
-
-    <td> 153,300  </td>
+121,100  </td>
 
   </tr>
 
   <tr>
 
-    <td> AL–1  </td>
+    <td> 
 
-    <td> 157,100  </td>
+AL–3/D  </td>
+
+    <td> 
+
+129,100  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+AL–3/E  </td>
+
+    <td> 
+
+137,300  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+AL–3/F  </td>
+
+    <td> 
+
+145,100  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+AL–2  </td>
+
+    <td> 
+
+153,300  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+AL–1  </td>
+
+    <td> 
+
+157,100  </td>
 
   </tr>
 

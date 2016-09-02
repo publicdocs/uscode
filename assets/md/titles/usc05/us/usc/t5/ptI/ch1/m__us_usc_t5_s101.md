@@ -215,6 +215,10 @@ R.S. § 159.  </td>
 
  __Short Title of 2014 Amendment__ 
 
+[Pub. L. 113–170, § 1][/us/pl/113/170/s1], Sept. 26, 2014, [128 Stat. 1894][/us/stat/128/1894], provided that: 
+
+> “This Act \[amending [section 7703 of this title][/us/usc/t5/s7703]\] may be cited as the ‘All Circuit Review Extension Act’.”
+
 [Pub. L. 113–80, § 1][/us/pl/113/80/s1], Feb. 12, 2014, [128 Stat. 1006][/us/stat/128/1006], provided that: 
 
 > “This Act \[amending [section 1304 of this title][/us/usc/t5/s1304]\] may be cited as the ‘OPM IG Act’.”
@@ -383,6 +387,9 @@ R.S. § 159.  </td>
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
+[/us/pl/113/170/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F170%2Fs1
+[/us/stat/128/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1894
+[/us/usc/t5/s7703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7703
 [/us/pl/113/80/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F80%2Fs1
 [/us/stat/128/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1006
 [/us/usc/t5/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1304

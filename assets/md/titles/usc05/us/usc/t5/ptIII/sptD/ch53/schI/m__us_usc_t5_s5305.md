@@ -165,19 +165,13 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >           <tr>
 
->             <td>  “GS–3  </td>
+>             <td> 
 
->             <td> Step 4  </td>
+   </td>
 
->         
+>             <td> 
 
-  </tr>
-
->           <tr>
-
->             <td>  “GS–4  </td>
-
->             <td> Step 4  </td>
+   </td>
 
 >         
 
@@ -185,19 +179,13 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >           <tr>
 
->             <td>  “GS–5  </td>
+>             <td> 
 
->             <td> Step 4  </td>
+>         “GS3  </td>
 
->         
+>             <td> 
 
-  </tr>
-
->           <tr>
-
->             <td>  “GS–6  </td>
-
->             <td> Step 3  </td>
+>         Step 4  </td>
 
 >         
 
@@ -205,19 +193,13 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >           <tr>
 
->             <td>  “GS–7  </td>
+>             <td> 
 
->             <td> Step 3  </td>
+>         “GS4  </td>
 
->         
+>             <td> 
 
-  </tr>
-
->           <tr>
-
->             <td>  “GS–8  </td>
-
->             <td> Step 3  </td>
+>         Step 4  </td>
 
 >         
 
@@ -225,9 +207,13 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >           <tr>
 
->             <td>  “GS–9  </td>
+>             <td> 
 
->             <td> Step 2  </td>
+>         “GS5  </td>
+
+>             <td> 
+
+>         Step 4  </td>
 
 >         
 
@@ -235,9 +221,69 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >           <tr>
 
->             <td>  “GS–10  </td>
+>             <td> 
 
->             <td> Step 2  </td>
+>         “GS6  </td>
+
+>             <td> 
+
+>         Step 3  </td>
+
+>         
+
+  </tr>
+
+>           <tr>
+
+>             <td> 
+
+>         “GS7  </td>
+
+>             <td> 
+
+>         Step 3  </td>
+
+>         
+
+  </tr>
+
+>           <tr>
+
+>             <td> 
+
+>         “GS8  </td>
+
+>             <td> 
+
+>         Step 3  </td>
+
+>         
+
+  </tr>
+
+>           <tr>
+
+>             <td> 
+
+>         “GS9  </td>
+
+>             <td> 
+
+>         Step 2  </td>
+
+>         
+
+  </tr>
+
+>           <tr>
+
+>             <td> 
+
+>         “GS10  </td>
+
+>             <td> 
+
+>         Step 2  </td>
 
 >         
 
@@ -251,19 +297,13 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >           <tr>
 
->             <td>  “GS–3  </td>
+>             <td> 
 
->             <td> Step 7  </td>
+   </td>
 
->         
+>             <td> 
 
-  </tr>
-
->           <tr>
-
->             <td>  “GS–4  </td>
-
->             <td> Step 7  </td>
+   </td>
 
 >         
 
@@ -271,19 +311,13 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >           <tr>
 
->             <td>  “GS–5  </td>
+>             <td> 
 
->             <td> Step 8  </td>
+>         “GS3  </td>
 
->         
+>             <td> 
 
-  </tr>
-
->           <tr>
-
->             <td>  “GS–6  </td>
-
->             <td> Step 6  </td>
+>         Step 7  </td>
 
 >         
 
@@ -291,19 +325,13 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >           <tr>
 
->             <td>  “GS–7  </td>
+>             <td> 
 
->             <td> Step 5  </td>
+>         “GS4  </td>
 
->         
+>             <td> 
 
-  </tr>
-
->           <tr>
-
->             <td>  “GS–8  </td>
-
->             <td> Step 3  </td>
+>         Step 7  </td>
 
 >         
 
@@ -311,9 +339,13 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >           <tr>
 
->             <td>  “GS–9  </td>
+>             <td> 
 
->             <td> Step 2  </td>
+>         “GS5  </td>
+
+>             <td> 
+
+>         Step 8  </td>
 
 >         
 
@@ -321,9 +353,69 @@ Section 529 \[title IV, §§ 401–407\] of [Pub. L. 101–509][/us/pl/101/509
 
 >           <tr>
 
->             <td>  “GS–10  </td>
+>             <td> 
 
->             <td> Step 2  </td>
+>         “GS6  </td>
+
+>             <td> 
+
+>         Step 6  </td>
+
+>         
+
+  </tr>
+
+>           <tr>
+
+>             <td> 
+
+>         “GS7  </td>
+
+>             <td> 
+
+>         Step 5  </td>
+
+>         
+
+  </tr>
+
+>           <tr>
+
+>             <td> 
+
+>         “GS8  </td>
+
+>             <td> 
+
+>         Step 3  </td>
+
+>         
+
+  </tr>
+
+>           <tr>
+
+>             <td> 
+
+>         “GS9  </td>
+
+>             <td> 
+
+>         Step 2  </td>
+
+>         
+
+  </tr>
+
+>           <tr>
+
+>             <td> 
+
+>         “GS10  </td>
+
+>             <td> 
+
+>         Step 2  </td>
 
 >         
 
