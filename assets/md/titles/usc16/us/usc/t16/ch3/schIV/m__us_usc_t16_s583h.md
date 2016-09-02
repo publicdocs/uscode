@@ -1,0 +1,32 @@
+---
+---
+
+# 16 U.S.C., USLM ref /us/usc/t16/s583h
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t16/ch3/schIV/m__us_usc_t16_s583g.md) | [Next](./../../../../..//us/usc/t16/ch3/schIV/m__us_usc_t16_s583i.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs583h)
+
+## § 583h. Prior acts as affecting or affected by subchapter
+
+    Nothing contained in this subchapter shall be construed to abrogate or curtail any authority conferred upon the Secretary of Agriculture or the Secretary of the Interior by any Act relating to management of federally owned or administered forest lands, and nothing contained in any such Acts shall be construed to limit or restrict any authority conferred upon the Secretary of Agriculture or the Secretary of the Interior by this subchapter.
+
+([Mar. 29, 1944, ch. 146, § 9][/us/act/1944-03-29/ch146/s9], [58 Stat. 134][/us/stat/58/134].)
+
+----------
+
+[Previous](./../../../../..//us/usc/t16/ch3/schIV/m__us_usc_t16_s583g.md) | [Next](./../../../../..//us/usc/t16/ch3/schIV/m__us_usc_t16_s583i.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs583h)
+
+----------
+----------
+
+[/us/act/1944-03-29/ch146/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-03-29%2Fch146%2Fs9
+[/us/stat/58/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F134
+
+

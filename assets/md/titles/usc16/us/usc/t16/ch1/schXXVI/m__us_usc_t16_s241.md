@@ -1,0 +1,68 @@
+---
+---
+
+# 16 U.S.C., USLM ref /us/usc/t16/s241
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t16/ch1/schXXVI/m__us_usc_t16_ch1_schXXVI.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXVI/m__us_usc_t16_s241a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs241)
+
+## § 241. Establishment; boundaries; maintenance of roads
+
+    All those certain tracts, pieces, or parcels of land, title to which is vested in the United States of America, and being in the State of North Dakota, and within the boundaries particularly described, as follows, to wit: Beginning at the point where the north line of the right-of-way of United States Highway Numbered 10 intersects the east boundary of section 36, township 140 north, range 101 west, fifth principal meridian; thence southwesterly and northwesterly along the north line of said right-of-way through section 1, township 139 north, range 101 west, and sections 36, 35, 34, 27, 28, 29, and 30, township 140 north, range 101 west; thence northwesterly and southwesterly along the north line of the right-of-way of said highway to be relocated as shown on the right-of-way plat for project SNFAP 283C(3) filed for record in the office of the register of deeds, Medora, North Dakota, book numbered 2 of plats, page 68, on June 13, 1942, through section 25 and the east half of the northeast quarter of section 26, township 140 north, range 102 west, to the point of intersection with the east sixteenth section line of said section 26; thence north along the sixteenth section line to the northwest corner of the northeast quarter of the northeast quarter of said section 26; thence northwesterly along a line to the northwest corner of the southwest quarter of the southeast quarter of section 23, township 140 north, range 102 west; thence westerly along the sixteenth section line to the northeast corner of the southeast quarter of the southeast quarter of section 22; township 140 north, range 102 west; thence southerly along the east section line to the southeast corner of said section 22; thence westerly along the south line of said section 22 to the point of intersection with the right bank of the Little Missouri River; thence northerly and westerly along the right bank of said river to the point of intersection with the east line of section 21, township 140 north, range 102 west; thence southerly along the east line of said section 21, to the intersection with the north line of the right-of-way of the Northern Pacific Railway, which point lies north of said United States Highway Numbered 10; thence westerly along the north line of said right-of-way to the point of intersection with the north line of the right-of-way of said United States Highway Numbered 10; thence westerly along the north line of the right-of-way of said highway through said section 21 to the intersection with the west line of said section 21; thence northerly along the west line of said section 21, and sections 16 and 9, thence continuing northerly to the southeast corner of Government lot 9, section 5, township 140 north, range 102 west; thence northwesterly to the northwest corner of Government lot 2 in said section 5; thence westerly to the southwest corner of the southeast quarter of section 34, township 141 north, range 102 west; thence northerly along the quarter section line to the northwest corner of the said southeast quarter of section 34; thence northwesterly along a line to the southwest corner of section 27, township 141 north, range 102 west; thence northerly along the west line of said section 27, to the southwest corner of the northwest quarter of said section 27; thence northeasterly along a line to the southwest corner of the southeast quarter of section 22, township 141 north, range 102 west; thence continuing northeasterly along a line to the southwest corner of the northwest quarter of section 23, township 141 north, range 102 west; thence continuing northeasterly along a line to the northeast corner of said northwest quarter of section 23; thence easterly along the north lines of said section 23, and section 24, township 141 north, range 102 west; to the northwest corner of section 19, township 141 north, range 101 west; thence continuing easterly along the north line of said section 19 to the northwest corner of the northeast quarter of said section 19; thence southeasterly along a line to the northwest corner of the southwest quarter of the southwest quarter of the northwest quarter of section 20, township 141 north, range 101 west; thence southerly along the west line of said section 20 to the northwest corner of the southwest quarter of section 20; thence easterly to the northwest corner of the southeast quarter of section 20; thence southerly to the southwest corner of the southeast quarter of said section 20; thence easterly along the north lines of section 29 and section 28, to the northeast corner of section 28, township 141 north, range 101 west; thence southerly along the west line of section 27, township 141 north, range 101 west, to the southwest corner of said section 27; thence easterly along the north lines of sections 34, 35, and 36 to the northeast corner of section 36, township 141 north, range 101 west; thence southerly along the east line of said section 36 to the southwest corner of section 31, township 141 north, range 100 west; thence easterly to the southeast corner of said section 31; thence southeasterly along a line to the northwest corner of Government lot 7 of section 2, township 140 north, range 101 west; thence continuing southeasterly along a line to the northwest corner of the southwest quarter of section 1, township 140 north, range 101 west; thence continuing southeasterly along a line to the northwest corner of the northeast quarter of section 12, township 140 north, range 101 west; thence continuing southeasterly along a line to the northwest corner of the southwest quarter of section 7, township 140 north, range 100 west; thence easterly along the quarter section line to the northwest corner of the southeast quarter of said section 7; thence southeasterly along a line to the northwest corner of section 17, township 140 north, range 100 west; thence continuing southeasterly along a line to a point which is 33 feet west of the east line of said section 17, and 33 feet north of the south line of said section 17; thence southerly on a line which lies 33 feet west of and parallel to the east lines of sections 20, 29, and 32 of township 140 north, range 100 west, to the point of intersection with the north right-of-way line of United States Highway Numbered 10; thence westerly along the north line of said right-of-way through said sections 32 and 31, township 140 north, range 100 west, to the point of intersection with the east boundary of section 36, township 140 north, range 101 west, the place of beginning, containing forty-nine thousand one hundred and fifty-three and seventy-nine one-hundredths acres more or less, are dedicated and set apart as a public park for the benefit and enjoyment of the people, and shall be known as the Theodore Roosevelt National Park. The Secretary of the Interior is authorized, in his discretion, to construct and maintain a road or highway through the park connecting with a State or Federal highway.
+
+([Apr. 25, 1947, ch. 41, § 1][/us/act/1947-04-25/ch41/s1], [61 Stat. 52][/us/stat/61/52]; [June 10, 1948, ch. 437, § 1][/us/act/1948-06-10/ch437/s1], [62 Stat. 352][/us/stat/62/352]; [June 29, 1948, ch. 725][/us/act/1948-06-29/ch725], [62 Stat. 1102][/us/stat/62/1102]; [Pub. L. 95–625, title VI, § 610][/us/pl/95/625/s610], Nov. 10, 1978, [92 Stat. 3521][/us/stat/92/3521].)
+
+ __Amendments__ 
+
+    1948—Act June 29, 1948, inserted “are dedicated and set apart as a public park for the benefit and enjoyment of the people, and shall be known as the Theodore Roosevelt National Memorial Park. The Secretary of the Interior is authorized, in his discretion, to construct and maintain a road or highway through the park connecting with a State or Federal highway.”
+
+    Act June 10, 1948, revised boundaries of park.
+
+ __Change of Name__ 
+
+    Theodore Roosevelt National Memorial Park redesignated Theodore Roosevelt National Park pursuant to [Pub. L. 95–625, title VI, § 610][/us/pl/95/625/s610], Nov. 10, 1978, [92 Stat. 3521][/us/stat/92/3521], which is classified to [section 241g of this title][/us/usc/t16/s241g].
+
+ __Appropriations__ 
+
+[Act Apr. 25, 1947, ch. 41, § 8][/us/act/1947-04-25/ch41/s8], [61 Stat. 54][/us/stat/61/54], renumbered section 7 by act June 10, 1948, § 1, provided: 
+
+> “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act \[sections 241, 242 to 245, and 247 of this title\].”
+
+ __Conveyance to Federal Agencies or State of Jurisdiction Over Unrequired Lands__ 
+
+[Act June 10, 1948, ch. 437, § 2][/us/act/1948-06-10/ch437/s2], [62 Stat. 354][/us/stat/62/354], provided that: 
+
+> “Administrative jurisdiction over any of such lands that the Secretary of the Interior finds are not required for exchange purposes as herein provided \[amendment of [section 241 of this title][/us/usc/t16/s241] by section 1 of act June 10, 1948\] may be conveyed to other Federal agencies by the Secretary of the Interior without exchange of funds, or if such lands are not required by other Federal agencies they may be conveyed to the State of North Dakota without reimbursement to the United States.”
+
+----------
+
+[Previous](./../../../../..//us/usc/t16/ch1/schXXVI/m__us_usc_t16_ch1_schXXVI.md) | [Next](./../../../../..//us/usc/t16/ch1/schXXVI/m__us_usc_t16_s241a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs241)
+
+----------
+----------
+
+[/us/act/1947-04-25/ch41/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-04-25%2Fch41%2Fs1
+[/us/stat/61/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F52
+[/us/act/1948-06-10/ch437/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-10%2Fch437%2Fs1
+[/us/stat/62/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F352
+[/us/act/1948-06-29/ch725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-29%2Fch725
+[/us/stat/62/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1102
+[/us/pl/95/625/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs610
+[/us/stat/92/3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3521
+[/us/pl/95/625/s610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F625%2Fs610
+[/us/stat/92/3521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3521
+[/us/usc/t16/s241g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs241g
+[/us/act/1947-04-25/ch41/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-04-25%2Fch41%2Fs8
+[/us/stat/61/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F54
+[/us/act/1948-06-10/ch437/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-10%2Fch437%2Fs2
+[/us/stat/62/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F354
+[/us/usc/t16/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs241
+
+

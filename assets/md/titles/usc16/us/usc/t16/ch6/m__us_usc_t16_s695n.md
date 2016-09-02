@@ -1,0 +1,32 @@
+---
+---
+
+# 16 U.S.C., USLM ref /us/usc/t16/s695n
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s695m.md) | [Next](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s695o.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs695n)
+
+## § 695n. Leases of Lower Klamath and Tule Lake National Wildlife Refuge reserved lands; management of other reserved public lands for waterfowl purposes
+
+    The Secretary shall, consistent with proper waterfowl management, continue the present pattern of leasing the reserved lands of the Klamath Straits unit, the Southwest Sump, the League of Nations unit, the Henzel lease, and the Frog Pond unit, all within the Executive order boundaries of the Lower Klamath and Tule Lake National Wildlife Refuges and shown in plate 4 of the report entitled “Plan for Wildlife Use of Federal Lands in the Upper Klamath Basin, Oregon-California,” dated April 1956. Leases for these lands shall be at a price or prices designed to obtain the maximum lease revenues. The leases shall provide for the growing of grain, forage, and soil-building crops, except that not more than 25 per centum of the total leased lands may be planted to row crops. All other reserved public lands included in section 695l of this title shall continue to be managed by the Secretary for waterfowl purposes, including the growing of agricultural crops by direct planting and sharecrop agreements with local cooperators where necessary.
+
+([Pub. L. 88–567, § 4][/us/pl/88/567/s4], Sept. 2, 1964, [78 Stat. 851][/us/stat/78/851].)
+
+----------
+
+[Previous](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s695m.md) | [Next](./../../../..//us/usc/t16/ch6/m__us_usc_t16_s695o.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs695n)
+
+----------
+----------
+
+[/us/pl/88/567/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F567%2Fs4
+[/us/stat/78/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F851
+
+

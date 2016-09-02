@@ -1,0 +1,50 @@
+---
+---
+
+# 16 U.S.C., USLM ref /us/usc/t16/s541b
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t16/ch2/schII/m__us_usc_t16_s541a.md) | [Next](./../../../../..//us/usc/t16/ch2/schII/m__us_usc_t16_s541c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs541b)
+
+## § 541b. Boundaries of scenic-research area; adjustments to subarea boundaries; development of management plan; establishment of subareas; management objectives
+
+    (a) __Boundaries; adjustments to boundaries of sub­areas__ 
+
+        The boundaries of the Area, and the boundaries of the subareas included therein, shall be those shown on the map entitled “Proposed Cascade Head Scenic-Research Area”, dated June 1974, which is on file and available for public inspection in the office of the Chief, Forest Service, United States Department of Agriculture: Provided, That, from time to time, the Secretary may, after public hearing or other appropriate means for public participation, make adjustments in the boundaries of subareas to reflect changing natural conditions or to provide for more effective management of the Area and each of the subareas in accordance with the purposes and provisions of this subchapter.
+
+    (b) __Management plan; development; time; contents__ 
+
+        As soon as practicable after December 22, 1974, the Secretary shall, with provisions for appropriate public participation in the planning process, develop a comprehensive management plan for the Area. Said plan shall prescribe specific management objectives and management controls necessary for the protection, management, and development of the Area and each of the subareas established pursuant to subsection (c) of this section.
+
+    (c) __Subareas; establishment; management objectives__ 
+
+    Within the Area, the following subareas shall be established and shall be managed in accord with the following primary management objectives which shall be supplemental to the general management objectives applicable to the entire Area:
+
+        (1) Estuary and Associated Wetlands Sub-area: An area managed to protect and perpetuate the fish and wildlife, scenic, and research-education values, while allowing dispersed recreation use, such as sport fishing, nonmotorized pleasure boating, waterfowl hunting, and other uses which the Secretary determines are compatible with the protection and perpetuation of the unique natural values of the subarea. After appropriate study, breaching of existing dikes may be permitted within the subarea.
+
+        (2) Lower Slope-Dispersed Residential Subarea: An area managed to maintain the scenic, soil and watershed, and fish and wildlife values, while allowing dispersed residential occupancy, selective recreation use, and agricultural use.
+
+        (3) Upper Timbered Slope and Headlands Subareas: Areas managed to protect the scenic, soil and watershed, and fish and wildlife values while allowing selective recreation and extensive research-educational activities. Timber harvesting activity may occur in these subareas only when the Secretary determines that such harvesting is to be conducted in connection with research activities or that the preservation of the timber resource is imminently threatened by fire, old age, infestation, or similar natural occurrences.
+
+        (4) Coastline and Sand Dune-Spit Subareas: Areas managed to protect and maintain the scenic and wildlife values while allowing selective recreation and extensive research-educational activities.
+
+([Pub. L. 93–535, § 3][/us/pl/93/535/s3], Dec. 22, 1974, [88 Stat. 1732][/us/stat/88/1732].)
+
+----------
+
+[Previous](./../../../../..//us/usc/t16/ch2/schII/m__us_usc_t16_s541a.md) | [Next](./../../../../..//us/usc/t16/ch2/schII/m__us_usc_t16_s541c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs541b)
+
+----------
+----------
+
+[/us/pl/93/535/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F535%2Fs3
+[/us/stat/88/1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1732
+
+

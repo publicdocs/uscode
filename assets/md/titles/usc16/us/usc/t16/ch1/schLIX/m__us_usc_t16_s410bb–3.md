@@ -1,0 +1,32 @@
+---
+---
+
+# 16 U.S.C., USLM ref /us/usc/t16/s410bb–3
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t16/ch1/schLIX/m__us_usc_t16_s410bb–2.md) | [Next](./../../../../..//us/usc/t16/ch1/schLIX–A/m__us_usc_t16_ch1_schLIX–A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410bb%E2%80%933)
+
+## § 410bb–3. Authorization of appropriations
+
+    There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this subchapter, but not more than $2,655,000 for the acquisition of lands and interests in lands, and not more than $5,885,000 for development.
+
+([Pub. L. 94–323, § 4][/us/pl/94/323/s4], June 30, 1976, [90 Stat. 719][/us/stat/90/719].)
+
+----------
+
+[Previous](./../../../../..//us/usc/t16/ch1/schLIX/m__us_usc_t16_s410bb–2.md) | [Next](./../../../../..//us/usc/t16/ch1/schLIX–A/m__us_usc_t16_ch1_schLIX–A.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs410bb%E2%80%933)
+
+----------
+----------
+
+[/us/pl/94/323/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F323%2Fs4
+[/us/stat/90/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F719
+
+

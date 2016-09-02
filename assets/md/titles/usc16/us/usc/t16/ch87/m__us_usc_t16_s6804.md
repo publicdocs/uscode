@@ -1,0 +1,133 @@
+---
+---
+
+# 16 U.S.C., USLM ref /us/usc/t16/s6804
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../..//us/usc/t16/ch87/m__us_usc_t16_s6803.md) | [Next](./../../../..//us/usc/t16/ch87/m__us_usc_t16_s6805.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6804)
+
+## § 6804. Recreation passes
+
+    (a) __America the Beautiful—the National Parks and Federal Recreational Lands Pass__ 
+
+        (1) __Availability and use__ 
+
+            The Secretaries shall establish, and may charge a fee for, an interagency national pass to be known as the “America the Beautiful—the National Parks and Federal Recreational Lands Pass”, which shall cover the entrance fee and standard amenity recreation fee for all Federal recreational lands and waters for which an entrance fee or a standard amenity recreation fee is charged.
+
+        (2) __Image competition for recreation pass__ 
+
+            The Secretaries shall hold an annual competition to select the image to be used on the National Parks and Federal Recreational Lands Pass for a year. The competition shall be open to the public and used as a means to educate the American people about Federal recreational lands and waters.
+
+        (3) __Notice of establishment__ 
+
+            The Secretaries shall publish a notice in the Federal Register when the National Parks and Federal Recreational Lands Pass is first established and available for purchase.
+
+        (4) __Duration__ 
+
+            The National Parks and Federal Recreational Lands Pass shall be valid for a period of 12 months from the date of the issuance of the recreation pass to a passholder, except in the case of the age and disability discounted passes issued under subsection (b).
+
+        (5) __Price__ 
+
+            The Secretaries shall establish the price at which the National Parks and Federal Recreational Lands Pass will be sold to the public.
+
+        (6) __Sales locations and marketing__ 
+
+            (A) __In general__ 
+
+                The Secretary shall sell the National Parks and Federal Recreational Lands Pass at all Federal recreational lands and waters at which an entrance fee or a standard amenity recreation fee is charged and at such other locations as the Secretaries consider appropriate and feasible.
+
+            (B) __Use of vendors__ 
+
+                The Secretary may enter into fee management agreements as provided in [section 6805 of this title][/us/usc/t16/s6805].
+
+            (C) __Marketing__ 
+
+                The Secretaries shall take such actions as are appropriate to provide for the active marketing of the National Parks and Federal Recreational Lands Pass.
+
+        (7) __Administrative guidelines__ 
+
+            The Secretaries shall issue guidelines on administration of the National Parks and Federal Recreational Lands Pass, which shall include agreement on price, the distribution of revenues between the Federal land management agencies, the sharing of costs, benefits provided, marketing and design, adequate documentation for age and disability discounts under subsection (b), and the issuance of that recreation pass to volunteers. The Secretaries shall take into consideration all relevant visitor and sales data available in establishing the guidelines.
+
+        (8) __Development and implementation agreements__ 
+
+            The Secretaries may enter into cooperative agreements with governmental and nongovernmental entities for the development and implementation of the National Parks and Federal Recreational Lands Pass Program.
+
+        (9) __Prohibition on other national recreation passes__ 
+
+            The Secretary may not establish any national recreation pass, except as provided in this section.
+
+    (b) __Discounted passes__ 
+
+        (1) __Age discount__ 
+
+            The Secretary shall make the National Parks and Federal Recreational Lands Pass available, at a cost of $10.00, to any United States citizen or person domiciled in the United States who is 62 years of age or older, if the citizen or person provides adequate proof of such age and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the pass holder.
+
+        (2) __Disability discount__ 
+
+            The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge, to any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled for purposes of [section 705(20)(B)(i) of title 29][/us/usc/t29/s705/20/B/i], if the citizen or person provides adequate proof of the disability and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the passholder.
+
+    (c) __Site-specific agency passes__ 
+
+        The Secretary may establish and charge a fee for a site-specific pass that will cover the entrance fee or standard amenity recreation fee for particular Federal recreational lands and waters for a specified period not to exceed 12 months.
+
+    (d) __Regional multientity passes__ 
+
+        (1) __Passes authorized__ 
+
+            The Secretary may establish and charge a fee for a regional multientity pass that will be accepted by one or more Federal land management agencies or by one or more governmental or nongovernmental entities for a specified period not to exceed 12 months. To include a Federal land management agency or governmental or nongovernmental entity over which the Secretary does not have jurisdiction, the Secretary shall obtain the consent of the head of such agency or entity.
+
+        (2) __Regional multientity pass agreement__ 
+
+            In order to establish a regional multientity pass under this subsection, the Secretary shall enter into a regional multientity pass agreement with all the participating agencies or entities on price, the distribution of revenues between participating agencies or entities, the sharing of costs, benefits provided, marketing and design, and the issuance of the pass to volunteers. The Secretary shall take into consideration all relevant visitor and sales data available when entering into this agreement.
+
+    (e) __Discounted or free admission days or use__ 
+
+        The Secretary may provide for a discounted or free admission day or use of Federal recreational lands and waters.
+
+    (f) __Effect on existing passports and permits__ 
+
+        (1) __Existing passports__ 
+
+            A passport issued under section 460l–6a of this title or title VI of the National Parks Omnibus Management Act of 1998 ([Public Law 105–391][/us/pl/105/391]; [16 U.S.C. 5991–599][/us/usc/t16/s5991–599]5), such as the Golden Eagle Passport, the Golden Age Passport, the Golden Access Passport, and the National Parks Passport, that was valid on the day before the publication of the Federal Register notice required under subsection (a)(3) shall be valid in accordance with the terms agreed to at the time of issuance of the passport, to the extent practicable, and remain in effect until expired, lost, or stolen.
+
+        (2) __Permits__ 
+
+            A permit issued under section 460l–6a of this title that was valid on the day before December 8, 2004, shall be valid and remain in effect until expired, revoked, or suspended.
+
+([Pub. L. 108–447, div. J, title VIII, § 805][/us/pl/108/447/s805], Dec. 8, 2004, [118 Stat. 3385][/us/stat/118/3385].)
+
+ __References in Text__ 
+
+    [Section 6805 of this title][/us/usc/t16/s6805], referred to in subsec. (a)(6)(B), was in the original a reference to section 6, and was translated as meaning [section 806 of title VIII of div. J of Pub. L. 108–447][/us/pl/108/447/s806], to reflect the probable intent of Congress.
+
+    The National Parks Omnibus Management Act of 1998, referred to in subsec. (f)(1), is [Pub. L. 105–391][/us/pl/105/391], Nov. 13, 1998, [112 Stat. 3497][/us/stat/112/3497], as amended. Title VI of the Act was classified generally to subchapter V (§ 5991 et seq.) of chapter 79 of this title, prior to repeal by [Pub. L. 108–447, div. J, title VIII, § 813(d)(2)][/us/pl/108/447/s813/d/2], Dec. 8, 2004, [118 Stat. 3391][/us/stat/118/3391]. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of this title][/us/usc/t16/s5901] and Tables.
+
+----------
+
+[Previous](./../../../..//us/usc/t16/ch87/m__us_usc_t16_s6803.md) | [Next](./../../../..//us/usc/t16/ch87/m__us_usc_t16_s6805.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6804)
+
+----------
+----------
+
+[/us/usc/t16/s6805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6805
+[/us/usc/t29/s705/20/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs705%2F20%2FB%2Fi
+[/us/pl/105/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F391
+[/us/usc/t16/s5991–599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5991%E2%80%93599
+[/us/pl/108/447/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs805
+[/us/stat/118/3385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3385
+[/us/usc/t16/s6805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs6805
+[/us/pl/108/447/s806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs806
+[/us/pl/105/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F391
+[/us/stat/112/3497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3497
+[/us/pl/108/447/s813/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs813%2Fd%2F2
+[/us/stat/118/3391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3391
+[/us/usc/t16/s5901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs5901
+
+

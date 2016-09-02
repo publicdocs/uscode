@@ -1,0 +1,88 @@
+---
+---
+
+# 16 U.S.C., USLM ref /us/usc/t16/s590z–3
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t16/ch3C/schII/m__us_usc_t16_s590z–2.md) | [Next](./../../../../..//us/usc/t16/ch3C/schII/m__us_usc_t16_s590z–4.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590z%E2%80%933)
+
+## § 590z–3. Settlement of projects on agricultural basis
+
+    (a) __Rehabilitation; stabilization of agricultural economy; maximum utilization of funds__ 
+
+        In connection with the construction or operation and maintenance of projects undertaken pursuant to the authority of this subchapter, and in order to further in the Great Plains and arid and semiarid areas of the United States an effective rehabilitation program, stabilization of the agricultural economy and maximum utilization of funds spent for relief purposes, the Secretary of Agriculture is authorized, pursuant to cooperative agreement with the Secretary of the Interior, (1) to arrange for the settlement of the projects on a sound agricultural basis, and insofar as practicable, the location thereon of persons in need; (2) to extend guidance and advice to settlers thereon in matters of farm practice, soil conservation, and efficient land use; (3) to acquire agricultural lands within the boundaries of such projects, with titles and at prices satisfactory to him; and (4) to arrange for the improvement of lands within the project boundaries, including clearing, leveling, and preparing them for distribution of irrigation water. Contracts between the United States and water users or water users’ organizations for the lease or purchase of, or the improvement of, lands within such projects shall provide for annual or semiannual payments to the United States, of the number and amounts fixed by the Secretary of Agriculture. The lease, purchase, or improvement contracts for each tract of land shall provide in the aggregate for the return, in not to exceed fifty years from the date the land is first settled upon, of the costs incurred by the United States in acquiring and improving such tract of land with funds appropriated under authority of [section 590z–10(2) of this title][/us/usc/t16/s590z–10/2], except administrative expenses incurred in the District of Columbia, together with interest on unpaid balances of said costs at not less than 3 per centum per annum. Such lease, purchase, or improvement contracts shall also provide for the fulfillment of such obligations related to reimbursable construction costs and operation and maintenance charges as may be applicable to such lands in accordance with the repayment contract or contracts required by [section 590z–2 of this title][/us/usc/t16/s590z–2].
+
+    (b) __Utilization of other agencies__ 
+
+        For the purposes of this section, the Secretary of Agriculture may utilize (1) in such manner as the President may direct, services, labor, materials, or other property, including money, supplied by the Work Projects Administration, the Civilian Conservation Corps, the Office of Indian Affairs, the Department of Agriculture, or any other Federal agency to the extent that the President, upon the report and recommendations of the Secretary of Agriculture, finds that the same should be supplied in assistance of such improvement work, and for which the United States shall be reimbursed in such amounts as the President may fix for each project; and (2) such services, labor, materials, easements, or other property, including money, as may be contributed by any State or political subdivision thereof State agency, municipal corporation, or other organization, or individuals. Moneys received and accepted under (2) of this subsection shall remain available for expenditure for the purposes for which contributed in like manner as if said sums had been specifically appropriated for said purposes.
+
+    (c) __Advertisement for purchases or services__ 
+
+        Where the aggregate amount involved does not exceed $300, the provisions of [section 6101 of title 41][/us/usc/t41/s6101] shall not apply to any purchase or service authorized for the Department of Agriculture under this subchapter or under the 1940 water conservation appropriation.
+
+([Aug. 11, 1939, ch. 717, § 5][/us/act/1939-08-11/ch717/s5], as added [Oct. 14, 1940, ch. 861][/us/act/1940-10-14/ch861], [54 Stat. 1122][/us/stat/54/1122]; amended [July 16, 1943, ch. 242, § 6][/us/act/1943-07-16/ch242/s6], [57 Stat. 568][/us/stat/57/568].)
+
+ __References in Text__ 
+
+    For 1940 water conservation appropriation citation, referred to in subsec. (c), see [section 590z–1(c) of this title][/us/usc/t16/s590z–1/c].
+
+ __Codification__ 
+
+    In subsec. (c), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+
+ __Amendments__ 
+
+    1943—Subsec. (c). Act July 16, 1943, added subsec. (c).
+
+ __Transfer of Functions__ 
+
+    Works Projects Administration and its functions transferred to Federal Works Agency by Reorg. Plan No. 1 of 1939, §§ 301, 306, eff. July 1, 1939, 4 F.R. 2729, [53 Stat. 1426][/us/stat/53/1426], set out in the Appendix to Title 5, Government Organization and Employees.
+
+    Functions of Federal Works Agency transferred to General Services Administration by [act June 30, 1949, ch. 288][/us/act/1949-06-30/ch288], title I, § 103, [63 Stat. 380][/us/stat/63/380]. See Historical and Revision Notes under [section 303(b) of Title 40][/us/usc/t40/s303/b], Public Buildings, Property, and Works. [Section 303(b) of Title 40][/us/usc/t40/s303/b] was amended generally by [Pub. L. 109–313, § 2(a)(1)][/us/pl/109/313/s2/a/1], Oct. 6, 2006, [120 Stat. 1734][/us/stat/120/1734], and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under [section 303 of Title 40][/us/usc/t40/s303].
+
+    Civilian Conservation Corps and its functions consolidated with other agencies under Federal Security Agency, to be administered by Director of Corps under direction and supervision of Federal Security Administration by Reorg. Plan No. 1 of 1939, §§ 201, 207, eff. July 1, 1939, 4 F.R. 2728, 2729, [53 Stat. 1425][/us/stat/53/1425], set out in the Appendix to Title 5, Government Organization and Employees.
+
+    Federal Security Agency abolished by section 8 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631], set out in the Appendix to Title 5, and its functions transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan. No. 1 of 1953.
+
+    Department of Health, Education, and Welfare redesignated Department of Health and Human Services by [section 3508(b) of Title 20][/us/usc/t20/s3508/b], Education.
+
+----------
+
+[Previous](./../../../../..//us/usc/t16/ch3C/schII/m__us_usc_t16_s590z–2.md) | [Next](./../../../../..//us/usc/t16/ch3C/schII/m__us_usc_t16_s590z–4.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590z%E2%80%933)
+
+----------
+----------
+
+[/us/usc/t16/s590z–10/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590z%E2%80%9310%2F2
+[/us/usc/t16/s590z–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590z%E2%80%932
+[/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
+[/us/act/1939-08-11/ch717/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-11%2Fch717%2Fs5
+[/us/act/1940-10-14/ch861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-14%2Fch861
+[/us/stat/54/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1122
+[/us/act/1943-07-16/ch242/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-16%2Fch242%2Fs6
+[/us/stat/57/568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F568
+[/us/usc/t16/s590z–1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs590z%E2%80%931%2Fc
+[/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
+[/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
+[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
+[/us/stat/53/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1426
+[/us/act/1949-06-30/ch288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-30%2Fch288
+[/us/stat/63/380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F380
+[/us/usc/t40/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs303%2Fb
+[/us/usc/t40/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs303%2Fb
+[/us/pl/109/313/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F313%2Fs2%2Fa%2F1
+[/us/stat/120/1734]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1734
+[/us/usc/t40/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs303
+[/us/stat/53/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1425
+[/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
+[/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
+
+

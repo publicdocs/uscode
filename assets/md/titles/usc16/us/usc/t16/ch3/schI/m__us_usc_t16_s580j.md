@@ -1,0 +1,44 @@
+---
+---
+
+# 16 U.S.C., USLM ref /us/usc/t16/s580j
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s580i.md) | [Next](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s580k.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs580j)
+
+## § 580j. Injury benefits for temporary employees
+
+    Appropriations of the Forest Service chargeable with salaries and wages shall be available for payment to temporary employees of the Forest Service for loss of time due to injury in official work at rates not in excess of those provided by subchapter I of chapter 81 of title 5, when the injured person is in need of immediate financial assistance to avoid hardship: Provided, That such payment shall not be made for a period in excess of fifteen days and the Secretary of Labor shall be notified promptly of the amount so paid, which amount shall be deducted from the amount, if any, otherwise payable by the Secretary of Labor to the employee on account of the injury, the amount so deducted by the Secretary of Labor to be paid to the Forest Service for deposit to the credit of the Forest Service appropriation from which the expenditure was made: Provided further, That when any person assisting in the suppression of forest fires or in other emergency work under the direction of the Forest Service, without compensation from the United States, pursuant to the terms of a contract, agreement, or permit, is injured in such work, the Forest Service may furnish hospitalization and other medical care, subsistence, and lodging for a period of not to exceed fifteen days during such disability, the cost thereof to be payable from the appropriation applicable to the work upon which the injury occurred, except that this proviso shall not apply when such person is within the purview of a State or other compensation act: Provided further, That determination by the Forest Service that payment is allowable under this section shall be final as to payments made hereunder, but such determination or payments with respect to employees shall not prevent the Secretary of Labor from denying further payments should the Secretary of Labor determine that compensation is not properly allowable under the provisions of subchapter I of chapter 81 of title 5.
+
+([Apr. 24, 1950, ch. 97, § 16][/us/act/1950-04-24/ch97/s16], [64 Stat. 86][/us/stat/64/86].)
+
+ __Codification__ 
+
+    “Subchapter I of chapter 81 of title 5” substituted in text for references to the United States Employees’ Compensation Act, on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+
+ __Transfer of Functions__ 
+
+    References to Secretary of Labor substituted in text for references to the United States Employees’ Compensation Commission. United States Employees’ Compensation Commission, created by section 28 of [act Sept. 7, 1916, ch. 458][/us/act/1916-09-07/ch458], [39 Stat. 748][/us/stat/39/748], abolished and functions thereof transferred to Federal Security Agency to be performed in such manner and under such rules and regulations as Federal Security Administrator shall prescribe, by section 3 of Reorg. Plan No. 2 of 1946. These functions subsequently transferred to Department of Labor, to be administered under direction and supervision of Secretary of Labor, by section 1 of Reorg. Plan No. 19, of 1950.
+
+----------
+
+[Previous](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s580i.md) | [Next](./../../../../..//us/usc/t16/ch3/schI/m__us_usc_t16_s580k.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs580j)
+
+----------
+----------
+
+[/us/act/1950-04-24/ch97/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-04-24%2Fch97%2Fs16
+[/us/stat/64/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F86
+[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
+[/us/act/1916-09-07/ch458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1916-09-07%2Fch458
+[/us/stat/39/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F39%2F748
+
+
