@@ -2385,6 +2385,14 @@ Part H—Organ Transplants  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs274f%E2%80%935" data-uslm-ref="/us/usc/t42/s274f–5">274f–5.</a>  </td>
+
+    <td> Criteria, standards, and regulations with respect to organs infected with HIV.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs274g" data-uslm-ref="/us/usc/t42/s274g">274g.</a>  </td>
 
     <td> Authorization of appropriations.  </td>

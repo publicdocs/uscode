@@ -153,6 +153,10 @@
 
  __Short Title of 2013 Amendment__ 
 
+[Pub. L. 113–51, § 1][/us/pl/113/51/s1], Nov. 21, 2013, [127 Stat. 579][/us/stat/127/579], provided that: 
+
+> “This Act \[enacting [section 274f–5 of this title][/us/usc/t42/s274f–5] and amending sections 273 and 274 of this title and [section 1122 of Title 18][/us/usc/t18/s1122], Crimes and Criminal Procedure\] may be cited as the ‘HIV Organ Policy Equity Act’.”
+
 [Pub. L. 113–48, § 1][/us/pl/113/48/s1], Nov. 13, 2013, [127 Stat. 575][/us/stat/127/575], provided that: 
 
 > “This Act \[amending [section 280g of this title][/us/usc/t42/s280g]\] may be cited as the ‘School Access to Emergency Epinephrine Act’.”
@@ -1493,6 +1497,10 @@ Act June 16, 1948, § 1, [62 Stat. 464][/us/stat/62/464], provided that:
 [/us/usc/t33/s466j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs466j
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/pl/86/70/s47/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs47%2Fd
+[/us/pl/113/51/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51%2Fs1
+[/us/stat/127/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F579
+[/us/usc/t42/s274f–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274f%E2%80%935
+[/us/usc/t18/s1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1122
 [/us/pl/113/48/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F48%2Fs1
 [/us/stat/127/575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F575
 [/us/usc/t42/s280g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280g

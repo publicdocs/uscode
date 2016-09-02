@@ -57,13 +57,11 @@
 
                     (IV) provide for a qualified organ procurement organization to appeal a decertification to the Secretary on substantive and procedural grounds;  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The semicolon probably should be a comma. </sup></sup> 
 
-            (E) has procedures to obtain payment for non-renal organs provided to transplant centers,
+            (E) has a defined service area that is of sufficient size to assure maximum effectiveness in the procurement and equitable distribution of organs, and that either includes an entire metropolitan statistical area (as specified by the Director of the Office of Management and Budget) or does not include any part of the area,
 
-            (F) has a defined service area that is of sufficient size to assure maximum effectiveness in the procurement and equitable distribution of organs, and that either includes an entire metropolitan statistical area (as specified by the Director of the Office of Management and Budget) or does not include any part of the area,
+            (F) has a director and such other staff, including the organ donation coordinators and organ procurement specialists necessary to effectively obtain organs from donors in its service area, and
 
-            (G) has a director and such other staff, including the organ donation coordinators and organ procurement specialists necessary to effectively obtain organs from donors in its service area, and
-
-            (H)
+            (G)
 
              has a board of directors or an advisory board which—
 
@@ -79,9 +77,9 @@
 
                     (IV) a physician with knowledge or skill in the field of neurology, and
 
-                    (V) from each transplant center in its service area which has arrangements described in paragraph (2)(G) 1 with the organization, a member who is a surgeon who has practicing privileges in such center and who performs organ transplant surgery,
+                    (V) from each transplant center in its service area which has arrangements described in paragraph (3)(G) with the organization, a member who is a surgeon who has practicing privileges in such center and who performs organ transplant surgery,
 
-                (ii) has the authority to recommend policies for the procurement of organs and the other functions described in paragraph (2),1 and
+                (ii) has the authority to recommend policies for the procurement of organs and the other functions described in paragraph (3), and
 
                 (iii) has no authority over any other activity of the organization.
 
@@ -99,7 +97,7 @@
 
             (B) conduct and participate in systematic efforts, including professional education, to acquire all useable organs from potential donors,
 
-            (C) arrange for the acquisition and preservation of donated organs and provide quality standards for the acquisition of organs which are consistent with the standards adopted by the Organ Procurement and Transplantation Network under [section 274(b)(2)(E) of this title][/us/usc/t42/s274/b/2/E], including arranging for testing with respect to preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome,
+            (C) arrange for the acquisition and preservation of donated organs and provide quality standards for the acquisition of organs which are consistent with the standards adopted by the Organ Procurement and Transplantation Network under [section 274(b)(2)(E) of this title][/us/usc/t42/s274/b/2/E], including arranging for testing with respect to identifying organs that are infected with human immunodeficiency virus (HIV),
 
             (D) arrange for the appropriate tissue typing of donated organs,
 
@@ -121,7 +119,7 @@
 
         Pancreata procured by an organ procurement organization and used for islet cell transplantation or research shall be counted for purposes of certification or recertification under subsection (b) of this section.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 371, as added [Pub. L. 98–507, title II, § 201][/us/pl/98/507/s201], Oct. 19, 1984, [98 Stat. 2342][/us/stat/98/2342]; amended [Pub. L. 100–607, title IV, § 402(a)][/us/pl/100/607/s402/a], (c)(1), (2), (d), Nov. 4, 1988, [102 Stat. 3114][/us/stat/102/3114], 3115; [Pub. L. 101–616, title II][/us/pl/101/616], §§ 201(a)–(c)(1), (d), (e), 206(b), Nov. 16, 1990, [104 Stat. 3283][/us/stat/104/3283], 3285; [Pub. L. 106–505, title VII, § 701(c)][/us/pl/106/505/s701/c], Nov. 13, 2000, [114 Stat. 2347][/us/stat/114/2347]; [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title II, § 219(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–29; [Pub. L. 108–216, § 9][/us/pl/108/216/s9], Apr. 5, 2004, [118 Stat. 590][/us/stat/118/590]; [Pub. L. 108–362, § 2][/us/pl/108/362/s2], Oct. 25, 2004, [118 Stat. 1703][/us/stat/118/1703].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 371, as added [Pub. L. 98–507, title II, § 201][/us/pl/98/507/s201], Oct. 19, 1984, [98 Stat. 2342][/us/stat/98/2342]; amended [Pub. L. 100–607, title IV, § 402(a)][/us/pl/100/607/s402/a], (c)(1), (2), (d), Nov. 4, 1988, [102 Stat. 3114][/us/stat/102/3114], 3115; [Pub. L. 101–616, title II][/us/pl/101/616], §§ 201(a)–(c)(1), (d), (e), 206(b), Nov. 16, 1990, [104 Stat. 3283][/us/stat/104/3283], 3285; [Pub. L. 106–505, title VII, § 701(c)][/us/pl/106/505/s701/c], Nov. 13, 2000, [114 Stat. 2347][/us/stat/114/2347]; [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title II, § 219(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–29; [Pub. L. 108–216, § 9][/us/pl/108/216/s9], Apr. 5, 2004, [118 Stat. 590][/us/stat/118/590]; [Pub. L. 108–362, § 2][/us/pl/108/362/s2], Oct. 25, 2004, [118 Stat. 1703][/us/stat/118/1703]; [Pub. L. 113–51, § 2(a)(2)][/us/pl/113/51/s2/a/2], (3), Nov. 21, 2013, [127 Stat. 579][/us/stat/127/579], 580.)
 
  __References in Text__ 
 
@@ -138,6 +136,14 @@
     A prior section 371 of act July 1, 1944, added by [act Aug. 3, 1956, ch. 907, § 1][/us/act/1956-08-03/ch907/s1], [70 Stat. 960][/us/stat/70/960], was renumbered section 381 and classified to [section 275 of this title][/us/usc/t42/s275], prior to repeal by [Pub. L. 99–158, § 3(b)][/us/pl/99/158/s3/b], Nov. 20, 1985, [99 Stat. 879][/us/stat/99/879].
 
  __Amendments__ 
+
+    2013—Subsec. (b)(1)(E), (F). [Pub. L. 113–51, § 2(a)(3)(A)][/us/pl/113/51/s2/a/3/A], (B), redesignated subpars. (F) and (G) as (E) and (F), respectively, and struck out former subpar. (E) which read as follows: “has procedures to obtain payment for non-renal organs provided to transplant centers,”.
+
+    Subsec. (b)(1)(G). [Pub. L. 113–51, § 2(a)(3)(C)][/us/pl/113/51/s2/a/3/C], which directed the substitution of “(G) has a director” for “(H) has a director”, was executed by substituting “(G) has a board of directors” for “(H) has a board of directors” to reflect the probable intent of Congress. Former subpar. (G) redesignated (F).
+
+    Subsec. (b)(1)(G)(i)(V), (ii). [Pub. L. 113–51, § 2(a)(3)(D)][/us/pl/113/51/s2/a/3/D], which directed the amendment of subpar. (H) by substituting “paragraph (3)(G)” for “paragraph (2)(G)” in cl. (i)(V) and “paragraph (3)” for “paragraph (2)” in cl. (ii), was executed by making the substitutions in subpars. (G)(i)(V) and (G)(ii), respectively, to reflect the probable intent of Congress and the redesignation of subpar. (H) as (G) by [Pub. L. 113–51, § 2(a)(3)(C)][/us/pl/113/51/s2/a/3/C]. See above.
+
+    Subsec. (b)(3)(C). [Pub. L. 113–51, § 2(a)(2)][/us/pl/113/51/s2/a/2], substituted “including arranging for testing with respect to identifying organs that are infected with human immunodeficiency virus (HIV)” for “including arranging for testing with respect to preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome”.
 
     2004—Subsec. (a)(3). [Pub. L. 108–216][/us/pl/108/216] struck out par. (3) which read as follows: “The Secretary may make grants to, and enter into contracts with, qualified organ procurement organizations described in subsection (b) of this section and other nonprofit private entities for the purpose of carrying out special projects designed to increase the number of organ donors.”
 
@@ -290,6 +296,8 @@
 [/us/stat/118/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F590
 [/us/pl/108/362/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F362%2Fs2
 [/us/stat/118/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1703
+[/us/pl/113/51/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51%2Fs2%2Fa%2F2
+[/us/stat/127/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F579
 [/us/pl/101/616/s201/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs201%2Fd%2F1
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -306,6 +314,11 @@
 [/us/usc/t42/s275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs275
 [/us/pl/99/158/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs3%2Fb
 [/us/stat/99/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F879
+[/us/pl/113/51/s2/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51%2Fs2%2Fa%2F3%2FA
+[/us/pl/113/51/s2/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51%2Fs2%2Fa%2F3%2FC
+[/us/pl/113/51/s2/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51%2Fs2%2Fa%2F3%2FD
+[/us/pl/113/51/s2/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51%2Fs2%2Fa%2F3%2FC
+[/us/pl/113/51/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51%2Fs2%2Fa%2F2
 [/us/pl/108/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F216
 [/us/pl/108/362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F362
 [/us/pl/106/505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F505

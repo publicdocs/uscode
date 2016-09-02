@@ -53,7 +53,7 @@
 
             (D) assist organ procurement organizations in the nationwide distribution of organs equitably among transplant patients,
 
-            (E) adopt and use standards of quality for the acquisition and transportation of donated organs, including standards for preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome,
+            (E) adopt and use standards of quality for the acquisition and transportation of donated organs,
 
             (F) prepare and distribute, on a regionalized basis (and, to the extent practicable, among regions or on a national basis), samples of blood sera from individuals who are included on the list and whose immune system makes it difficult for them to receive organs, in order to facilitate matching the compatibility of such individuals with organ donors,
 
@@ -75,6 +75,18 @@
 
             (O) provide that for purposes of this paragraph, the term “children” refers to individuals who are under the age of 18.
 
+        (3)  __Clarification__  __.—__ 
+
+        In adopting and using standards of quality under paragraph (2)(E), the Organ Procurement and Transplantation Network may adopt and use such standards with respect to organs infected with human immunodeficiency virus (in this paragraph referred to as “HIV”), provided that any such standards ensure that organs infected with HIV may be transplanted only into individuals who—
+
+            (A) are infected with HIV before receiving such organ; and
+
+            (B)
+
+                (i) are participating in clinical research approved by an institutional review board under the criteria, standards, and regulations described in subsections (a) and (b) of [section 274f–5 of this title][/us/usc/t42/s274f–5]; or
+
+                (ii) if the Secretary has determined under [section 274f–5(c) of this title][/us/usc/t42/s274f–5/c] that participation in such clinical research, as a requirement for such transplants, is no longer warranted, are receiving a transplant under the standards and regulations under [section 274f–5(c) of this title][/us/usc/t42/s274f–5/c].
+
     (c) __Consideration of critical comments__ 
 
     The Secretary shall establish procedures for—
@@ -83,7 +95,7 @@
 
         (2) the consideration by the Secretary of such critical comments.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 372, as added [Pub. L. 98–507, title II, § 201][/us/pl/98/507/s201], Oct. 19, 1984, [98 Stat. 2344][/us/stat/98/2344]; amended [Pub. L. 100–607, title IV, § 403][/us/pl/100/607/s403], Nov. 4, 1988, [102 Stat. 3115][/us/stat/102/3115]; [Pub. L. 101–616, title II, § 202(a)][/us/pl/101/616/s202/a]–(c), Nov. 16, 1990, [104 Stat. 3283][/us/stat/104/3283], 3284; [Pub. L. 106–310, div. A, title XXI, § 2101(a)][/us/pl/106/310/s2101/a], Oct. 17, 2000, [114 Stat. 1156][/us/stat/114/1156]; [Pub. L. 110–426, § 2][/us/pl/110/426/s2], Oct. 15, 2008, [122 Stat. 4835][/us/stat/122/4835].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 372, as added [Pub. L. 98–507, title II, § 201][/us/pl/98/507/s201], Oct. 19, 1984, [98 Stat. 2344][/us/stat/98/2344]; amended [Pub. L. 100–607, title IV, § 403][/us/pl/100/607/s403], Nov. 4, 1988, [102 Stat. 3115][/us/stat/102/3115]; [Pub. L. 101–616, title II, § 202(a)][/us/pl/101/616/s202/a]–(c), Nov. 16, 1990, [104 Stat. 3283][/us/stat/104/3283], 3284; [Pub. L. 106–310, div. A, title XXI, § 2101(a)][/us/pl/106/310/s2101/a], Oct. 17, 2000, [114 Stat. 1156][/us/stat/114/1156]; [Pub. L. 110–426, § 2][/us/pl/110/426/s2], Oct. 15, 2008, [122 Stat. 4835][/us/stat/122/4835]; [Pub. L. 113–51, § 2(a)(1)][/us/pl/113/51/s2/a/1], Nov. 21, 2013, [127 Stat. 579][/us/stat/127/579].)
 
  __Prior Provisions__ 
 
@@ -92,6 +104,10 @@
     Another section 372 of act July 1, 1944, added by [act Aug. 3, 1956, ch. 941, § 1][/us/act/1956-08-03/ch941/s1], [70 Stat. 960][/us/stat/70/960], which related to functions of National Library of Medicine, was renumbered section 382 and classified to [section 276 of this title][/us/usc/t42/s276], prior to repeal by [Pub. L. 99–158, § 3(b)][/us/pl/99/158/s3/b], Nov. 20, 1985, [99 Stat. 879][/us/stat/99/879].
 
  __Amendments__ 
+
+    2013—Subsec. (b)(2)(E). [Pub. L. 113–51, § 2(a)(1)(A)][/us/pl/113/51/s2/a/1/A], struck out “, including standards for preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome” after “organs”.
+
+    Subsec. (b)(3). [Pub. L. 113–51, § 2(a)(1)(B)][/us/pl/113/51/s2/a/1/B], added par. (3).
 
     2008—Subsec. (a). [Pub. L. 110–426][/us/pl/110/426] substituted “$7,000,000” for “$2,000,000”.
 
@@ -157,6 +173,9 @@
 ----------
 
 [/us/usc/t42/s273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs273
+[/us/usc/t42/s274f–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274f%E2%80%935
+[/us/usc/t42/s274f–5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274f%E2%80%935%2Fc
+[/us/usc/t42/s274f–5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274f%E2%80%935%2Fc
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/98/507/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F507%2Fs201
 [/us/stat/98/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2344
@@ -168,6 +187,8 @@
 [/us/stat/114/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1156
 [/us/pl/110/426/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F426%2Fs2
 [/us/stat/122/4835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4835
+[/us/pl/113/51/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51%2Fs2%2Fa%2F1
+[/us/stat/127/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F579
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/act/1956-07-28/ch772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-07-28%2Fch772
 [/us/stat/70/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F710
@@ -179,6 +200,8 @@
 [/us/usc/t42/s276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs276
 [/us/pl/99/158/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs3%2Fb
 [/us/stat/99/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F879
+[/us/pl/113/51/s2/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51%2Fs2%2Fa%2F1%2FA
+[/us/pl/113/51/s2/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51%2Fs2%2Fa%2F1%2FB
 [/us/pl/110/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F426
 [/us/pl/106/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310
 [/us/pl/101/616/s202/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F616%2Fs202%2Fa%2F1

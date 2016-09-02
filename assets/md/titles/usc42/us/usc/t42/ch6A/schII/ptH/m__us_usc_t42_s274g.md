@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptH/m__us_usc_t42_s274f–4.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptH–1/m__us_usc_t42_ch6A_schII_ptH–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274g)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptH/m__us_usc_t42_s274f–5.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptH–1/m__us_usc_t42_ch6A_schII_ptH–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274g)
 
 ## § 274g. Authorization of appropriations
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptH/m__us_usc_t42_s274f–4.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptH–1/m__us_usc_t42_ch6A_schII_ptH–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274g)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptH/m__us_usc_t42_s274f–5.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptH–1/m__us_usc_t42_ch6A_schII_ptH–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274g)
 
 ----------
 ----------
