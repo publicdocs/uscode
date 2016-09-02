@@ -43,9 +43,9 @@
 
             (A) the Congress; and
 
-            (B) the Office of the Architect of the Capitol, the United States Botanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, the United States Capitol Police, and any other agency, entity, office, or commission established in the legislative branch.
+            (B) the Office of the Architect of the Capitol, the United States Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, the United States Capitol Police, and any other agency, entity, office, or commission established in the legislative branch.
 
-(Added [Pub. L. 87–849, § 1(a)][/us/pl/87/849/s1/a], Oct. 23, 1962, [76 Stat. 1121][/us/stat/76/1121]; amended [Pub. L. 90–578, title III, § 301(b)][/us/pl/90/578/s301/b], Oct. 17, 1968, [82 Stat. 1115][/us/stat/82/1115]; [Pub. L. 100–191, § 3(a)][/us/pl/100/191/s3/a], Dec. 15, 1987, [101 Stat. 1306][/us/stat/101/1306]; [Pub. L. 101–194, title IV, § 401][/us/pl/101/194/s401], Nov. 30, 1989, [103 Stat. 1747][/us/stat/103/1747]; [Pub. L. 101–280, § 5(a)][/us/pl/101/280/s5/a], May 4, 1990, [104 Stat. 158][/us/stat/104/158]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 103–337, div. A, title IX, § 924(d)(1)(B)][/us/pl/103/337/s924/d/1/B], Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+(Added [Pub. L. 87–849, § 1(a)][/us/pl/87/849/s1/a], Oct. 23, 1962, [76 Stat. 1121][/us/stat/76/1121]; amended [Pub. L. 90–578, title III, § 301(b)][/us/pl/90/578/s301/b], Oct. 17, 1968, [82 Stat. 1115][/us/stat/82/1115]; [Pub. L. 100–191, § 3(a)][/us/pl/100/191/s3/a], Dec. 15, 1987, [101 Stat. 1306][/us/stat/101/1306]; [Pub. L. 101–194, title IV, § 401][/us/pl/101/194/s401], Nov. 30, 1989, [103 Stat. 1747][/us/stat/103/1747]; [Pub. L. 101–280, § 5(a)][/us/pl/101/280/s5/a], May 4, 1990, [104 Stat. 158][/us/stat/104/158]; [Pub. L. 101–650, title III, § 321][/us/pl/101/650/s321], Dec. 1, 1990, [104 Stat. 5117][/us/stat/104/5117]; [Pub. L. 102–572, title IX, § 902(b)(1)][/us/pl/102/572/s902/b/1], Oct. 29, 1992, [106 Stat. 4516][/us/stat/106/4516]; [Pub. L. 103–337, div. A, title IX, § 924(d)(1)(B)][/us/pl/103/337/s924/d/1/B], Oct. 5, 1994, [108 Stat. 2832][/us/stat/108/2832]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -81,7 +81,9 @@
 
  __Change of Name__ 
 
-    “United States magistrate judge” substituted for “United States magistrate” in subsec. (a) pursuant to [section 321 of Pub. L. 101–650][/us/pl/101/650/s321], set out as a note under [section 631 of Title 28][/us/usc/t28/s631], Judiciary and Judicial Procedure.
+    “United States magistrate judge” substituted for “United States magistrate” in subsec. (a) on authority of [section 321 of Pub. L. 101–650][/us/pl/101/650/s321], set out as a note under [section 631 of Title 28][/us/usc/t28/s631], Judiciary and Judicial Procedure.
+
+    “Government Publishing Office” substituted for “Government Printing Office” in subsec. (e)(3)(B) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
  __Effective Date of 1992 Amendment__ 
 
@@ -127,6 +129,8 @@
 [/us/stat/108/2832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2832
 [/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/stat/70A/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F632
 [/us/usc/t5/s30r/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs30r%2Fc
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
@@ -148,6 +152,8 @@
 [/us/pl/90/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F578
 [/us/pl/101/650/s321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs321
 [/us/usc/t28/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs631
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/102/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572
 [/us/pl/102/572/s911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F572%2Fs911
 [/us/usc/t28/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs171
