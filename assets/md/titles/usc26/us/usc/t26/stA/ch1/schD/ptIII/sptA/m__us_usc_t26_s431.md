@@ -17,11 +17,7 @@
 
     (a) __In general__ 
 
-    For purposes of section 412, the accumulated funding deficiency of a multiemployer plan for any plan year is—
-
-        (1) except as provided in paragraph (2), the amount, determined as of the end of the plan year, equal to the excess (if any) of the total charges to the funding standard account of the plan for all plan years (beginning with the first plan year for which this part applies to the plan) over the total credits to such account for such years, and
-
-        (2) if the multiemployer plan is in reorganization for any plan year, the accumulated funding deficiency of the plan determined under section 4243 of the Employee Retirement Income Security Act of 1974.
+        For purposes of section 412, the accumulated funding deficiency of a multiemployer plan for any plan year is the amount, determined as of the end of the plan year, equal to the excess (if any) of the total charges to the funding standard account of the plan for all plan years (beginning with the first plan year for which this part applies to the plan) over the total credits to such account for such years.
 
     (b) __Funding standard account__ 
 
@@ -417,9 +413,7 @@
 
                 (iv) the notice required under paragraph (3)(A) has been provided.
 
-            (C) __Termination__ 
-
-                The preceding provisions of this paragraph shall not apply with respect to any application submitted after December 31, 2014.
+            (C) __Repealed.__  __[__  __Pub. L. 113–235, div. O, title I, § 101(b)(2)__  __][/us/pl/113/235/s101/b/2]__  __,__  __Dec. 16, 2014__  __,__  __[__  __128 Stat. 2774__  __][/us/stat/128/2774]__ 
 
         (2) __Alternative extension__ 
 
@@ -455,11 +449,11 @@
 
                 The Secretary shall consider any relevant information provided by a person to whom notice was given under paragraph (1).
 
-(Added [Pub. L. 109–280, title II, § 211(a)][/us/pl/109/280/s211/a], Aug. 17, 2006, [120 Stat. 890][/us/stat/120/890]; amended [Pub. L. 111–192, title II, § 211(a)(2)][/us/pl/111/192/s211/a/2], June 25, 2010, [124 Stat. 1304][/us/stat/124/1304].)
+(Added [Pub. L. 109–280, title II, § 211(a)][/us/pl/109/280/s211/a], Aug. 17, 2006, [120 Stat. 890][/us/stat/120/890]; amended [Pub. L. 111–192, title II, § 211(a)(2)][/us/pl/111/192/s211/a/2], June 25, 2010, [124 Stat. 1304][/us/stat/124/1304]; [Pub. L. 113–235, div. O, title I][/us/pl/113/235], §§ 101(b)(2), 108(b)(3)(A), Dec. 16, 2014, [128 Stat. 2774][/us/stat/128/2774], 2788.)
 
  __References in Text__ 
 
-    The Employee Retirement Income Security Act of 1974, referred to in subsecs. (a)(2), (b)(7)(A) to (D), (8)(B)(ii)(II), and (d)(3)(A), is [Pub. L. 93–406][/us/pl/93/406], Sept. 2, 1974, [88 Stat. 829][/us/stat/88/829]. Title IV of the Act is classified principally to subchapter III (§ 1301 et seq.) of chapter 18 of Title 29, Labor. Part 1 of subtitle E of title IV of the Act is classified generally to part 1 (§ 1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29. Sections 302, 4001, 4222, 4223, and 4243 of the Act are classified to sections 1082, 1301, 1402, 1403, and 1423, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29][/us/usc/t29/s1001] and Tables.
+    The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(7)(A) to (D), (8)(B)(ii)(II), and (d)(3)(A), is [Pub. L. 93–406][/us/pl/93/406], Sept. 2, 1974, [88 Stat. 829][/us/stat/88/829]. Title IV of the Act is classified principally to subchapter III (§ 1301 et seq.) of chapter 18 of Title 29, Labor. Part 1 of subtitle E of title IV of the Act is classified generally to part 1 (§ 1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29. Sections 302, 4001, 4222, 4223, and 4243 of the Act are classified to sections 1082, 1301, 1402, 1403, and 1423, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29][/us/usc/t29/s1001] and Tables.
 
     The date of the enactment of the Pension Protection Act of 2006, referred to in subsec. (b)(2)(D), (E), (3)(D), (4), (7)(E), is the date of enactment of [Pub. L. 109–280][/us/pl/109/280], which was approved Aug. 17, 2006.
 
@@ -467,7 +461,15 @@
 
  __Amendments__ 
 
+    2014—Subsec. (a). [Pub. L. 113–235, § 108(b)(3)(A)][/us/pl/113/235/s108/b/3/A], amended subsec. (a) generally. Prior to amendment, subsec. (a) related to accumulated funding deficiency of multiemployer plan.
+
+    Subsec. (d)(1)(C). [Pub. L. 113–235, § 101(b)(2)][/us/pl/113/235/s101/b/2], struck out heading and text of subpar. (C). Text read as follows: “The preceding provisions of this paragraph shall not apply with respect to any application submitted after December 31, 2014.”
+
     2010—Subsec. (b)(8). [Pub. L. 111–192][/us/pl/111/192] added par. (8).
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by [section 108(b)(3)(A) of Pub. L. 113–235][/us/pl/113/235/s108/b/3/A] applicable with respect to plan years beginning after Dec. 31, 2014, see [section 108(c) of div. O of Pub. L. 113–235][/us/pl/113/235/s108/c], set out as an Effective Date of Repeal note under [section 418 of this title][/us/usc/t26/s418].
 
  __Effective Date of 2010 Amendment__ 
 
@@ -504,10 +506,14 @@
 ----------
 ----------
 
+[/us/pl/113/235/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs101%2Fb%2F2
+[/us/stat/128/2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2774
 [/us/pl/109/280/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs211%2Fa
 [/us/stat/120/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F890
 [/us/pl/111/192/s211/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs211%2Fa%2F2
 [/us/stat/124/1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1304
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2774
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F829
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
@@ -515,7 +521,12 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/pl/113/235/s108/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fb%2F3%2FA
+[/us/pl/113/235/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs101%2Fb%2F2
 [/us/pl/111/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192
+[/us/pl/113/235/s108/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fb%2F3%2FA
+[/us/pl/113/235/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fc
+[/us/usc/t26/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs418
 [/us/pl/111/192/s211/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs211%2Fb
 [/us/stat/124/1306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1306
 [/us/usc/t29/s1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084

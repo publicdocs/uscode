@@ -163,15 +163,17 @@
 
         (5) __Nonapplication of section in case of low medical loss ratio__ 
 
-            Notwithstanding the preceding paragraphs, this section shall not apply to any organization unless such organization’s percentage of total premium revenue expended on reimbursement for clinical services provided to enrollees under its policies during such taxable year (as reported under section 2718 of the Public Health Service Act) is not less than 85 percent.
+            Notwithstanding the preceding paragraphs, paragraphs (2) and (3) of subsection (a) shall not apply to any organization unless such organization’s percentage of total premium revenue expended on reimbursement for clinical services and for activities that improve health care quality provided to enrollees under its policies during such taxable year (as reported under section 2718 of the Public Health Service Act) is not less than 85 percent.
 
-(Added [Pub. L. 99–514, title X, § 1012(b)(1)][/us/pl/99/514/s1012/b/1], Oct. 22, 1986, [100 Stat. 2391][/us/stat/100/2391]; amended [Pub. L. 104–191, title III, § 351(a)][/us/pl/104/191/s351/a], Aug. 21, 1996, [110 Stat. 2071][/us/stat/110/2071]; [Pub. L. 105–34, title XVI, § 1604(d)(2)(A)][/us/pl/105/34/s1604/d/2/A], Aug. 5, 1997, [111 Stat. 1098][/us/stat/111/1098]; [Pub. L. 111–148, title IX, § 9016(a)][/us/pl/111/148/s9016/a], Mar. 23, 2010, [124 Stat. 872][/us/stat/124/872].)
+(Added [Pub. L. 99–514, title X, § 1012(b)(1)][/us/pl/99/514/s1012/b/1], Oct. 22, 1986, [100 Stat. 2391][/us/stat/100/2391]; amended [Pub. L. 104–191, title III, § 351(a)][/us/pl/104/191/s351/a], Aug. 21, 1996, [110 Stat. 2071][/us/stat/110/2071]; [Pub. L. 105–34, title XVI, § 1604(d)(2)(A)][/us/pl/105/34/s1604/d/2/A], Aug. 5, 1997, [111 Stat. 1098][/us/stat/111/1098]; [Pub. L. 111–148, title IX, § 9016(a)][/us/pl/111/148/s9016/a], Mar. 23, 2010, [124 Stat. 872][/us/stat/124/872]; [Pub. L. 113–235, div. N, § 102(a)][/us/pl/113/235/s102/a], Dec. 16, 2014, [128 Stat. 2773][/us/stat/128/2773].)
 
  __References in Text__ 
 
     Section 2718 of the Public Health Service Act, referred to in subsec. (c)(5), is classified to [section 300gg–18 of Title 42][/us/usc/t42/s300gg–18], The Public Health and Welfare.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(5). [Pub. L. 113–235][/us/pl/113/235] substituted “paragraphs (2) and (3) of subsection (a)” for “this section” and inserted “and for activities that improve health care quality” after “clinical services”.
 
     2010—Subsec. (c)(5). [Pub. L. 111–148][/us/pl/111/148] added par. (5).
 
@@ -180,6 +182,12 @@
     Subsec. (b)(1)(A)(ii). [Pub. L. 105–34, § 1604(d)(2)(A)(ii)][/us/pl/105/34/s1604/d/2/A/ii], inserted “or in connection with the administration of cost-plus contracts” before the last comma.
 
     1996—Subsec. (c)(4). [Pub. L. 104–191][/us/pl/104/191] added par. (4).
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–235, div. N, § 102(b)][/us/pl/113/235/s102/b], Dec. 16, 2014, [128 Stat. 2773][/us/stat/128/2773], provided that: 
+
+> “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
 
  __Effective Date of 2010 Amendment__ 
 
@@ -300,11 +308,16 @@
 [/us/stat/111/1098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1098
 [/us/pl/111/148/s9016/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9016%2Fa
 [/us/stat/124/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F872
+[/us/pl/113/235/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs102%2Fa
+[/us/stat/128/2773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2773
 [/us/usc/t42/s300gg–18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9318
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/105/34/s1604/d/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1604%2Fd%2F2%2FA%2Fi
 [/us/pl/105/34/s1604/d/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1604%2Fd%2F2%2FA%2Fii
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
+[/us/pl/113/235/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs102%2Fb
+[/us/stat/128/2773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2773
 [/us/pl/111/148/s9016/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs9016%2Fb
 [/us/stat/124/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F872
 [/us/pl/105/34/s1604/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1604%2Fd%2F2%2FB

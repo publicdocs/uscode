@@ -193,7 +193,7 @@
 
                 (ii) __Plan sponsor__ 
 
-                    For purposes of clause (i), the term “plan sponsor” has the meaning given such term by section 432(i)(9).
+                    For purposes of clause (i), the term “plan sponsor” has the meaning given such term by section 432(i)(9). <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup> 
 
         (5) __Waiver__ 
 
@@ -231,11 +231,9 @@
 
 (Added [Pub. L. 93–406, title II, § 1013(b)][/us/pl/93/406/s1013/b], Sept. 2, 1974, [88 Stat. 920][/us/stat/88/920]; amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)][/us/pl/94/455/s1906/b/13/A], Oct. 4, 1976, [90 Stat. 1834][/us/stat/90/1834]; [Pub. L. 96–364, title II, § 204][/us/pl/96/364/s204], Sept. 26, 1980, [94 Stat. 1287][/us/stat/94/1287]; [Pub. L. 96–596, § 2(a)(1)(J)][/us/pl/96/596/s2/a/1/J], (2)(H), Dec. 24, 1980, [94 Stat. 3469][/us/stat/94/3469], 3471; [Pub. L. 100–203, title IX][/us/pl/100/203], §§ 9304(c)(1), 9305(a), Dec. 22, 1987, [101 Stat. 1330–348][/us/stat/101/1330-348], 1330–351; [Pub. L. 103–465, title VII, § 751(a)(9)(B)][/us/pl/103/465/s751/a/9/B], Dec. 8, 1994, [108 Stat. 5020][/us/stat/108/5020]; [Pub. L. 104–188, title I, § 1464(a)][/us/pl/104/188/s1464/a], Aug. 20, 1996, [110 Stat. 1824][/us/stat/110/1824]; [Pub. L. 109–280, title I, § 114(e)(1)][/us/pl/109/280/s114/e/1]–(4), title II, § 212(b), Aug. 17, 2006, [120 Stat. 854][/us/stat/120/854], 855, 915; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(d)(2)(F), 102(b)(2)(I), (3)(A), Dec. 23, 2008, [122 Stat. 5099][/us/stat/122/5099], 5103; [Pub. L. 113–97, title II, § 202(c)(8)][/us/pl/113/97/s202/c/8], (9), Apr. 7, 2014, [128 Stat. 1137][/us/stat/128/1137], 1138.)
 
- __Amendment of Section__ 
-
-    For termination of amendment by [section 221(c) of Pub. L. 109–280][/us/pl/109/280/s221/c], see Effective and Termination Dates of 2006 Amendment note below.
-
  __References in Text__ 
+
+    [Section 432(i)(9) of this title][/us/usc/t26/s432/i/9], referred to in subsec. (g)(4)(C)(ii), was redesignated [section 432(j)(9) of this title][/us/usc/t26/s432/j/9] by [Pub. L. 113–235, div. O, title I, § 109(b)(3)][/us/pl/113/235/s109/b/3], Dec. 16, 2014, [128 Stat. 2791][/us/stat/128/2791].
 
     Section 3002(b) of title III of the Employee Retirement Income Security Act of 1974, referred to in subsec. (i), is classified to [section 1202(b) of Title 29][/us/usc/t29/s1202/b], Labor.
 
@@ -289,11 +287,11 @@
 
     Subsec. (e)(1). [Pub. L. 109–280, § 114(e)(3)][/us/pl/109/280/s114/e/3], substituted “section 412(a)(1)(A)” for “section 412(b)(3)(A)”.
 
-    Subsec. (e)(2)(A). [Pub. L. 109–280][/us/pl/109/280], §§ 212(b)(2), 221(c), as amended by [Pub. L. 110–458, § 102(b)(3)(A)][/us/pl/110/458/s102/b/3/A], temporarily substituted “If an” for “In the case of a plan other than a multiemployer plan, if the” and “(f), or (g)” for “or (f)”. See Effective and Termination Dates of 2006 Amendment note below.
+    Subsec. (e)(2)(A). [Pub. L. 109–280, § 212(b)(2)][/us/pl/109/280/s212/b/2], as amended by [Pub. L. 110–458, § 102(b)(3)(A)][/us/pl/110/458/s102/b/3/A], substituted “If an” for “In the case of a plan other than a multiemployer plan, if the” and “(f), or (g)” for “or (f)”.
 
     Subsec. (f)(1). [Pub. L. 109–280, § 114(e)(4)][/us/pl/109/280/s114/e/4], substituted “section 430(j)(4)” for “section 412(m)(5)” in introductory provisions and “section 430(j)” for “section 412(m)” in subpar. (B).
 
-    Subsecs. (g), (h). [Pub. L. 109–280][/us/pl/109/280], §§ 212(b)(1), 221(c), temporarily added subsec. (g) and redesignated former subsec. (g) as (h). See Effective and Termination Dates of 2006 Amendment note below.
+    Subsecs. (g), (h). [Pub. L. 109–280, § 212(b)(1)][/us/pl/109/280/s212/b/1], added subsec. (g) and redesignated former subsec. (g) as (h).
 
     1996—Subsec. (f)(4). [Pub. L. 104–188][/us/pl/104/188] added par. (4).
 
@@ -327,13 +325,11 @@
 
     Amendment by [Pub. L. 110–458][/us/pl/110/458] effective as if included in the provisions of [Pub. L. 109–280][/us/pl/109/280] to which the amendment relates, except as otherwise provided, see [section 112 of Pub. L. 110–458][/us/pl/110/458/s112], set out as a note under [section 72 of this title][/us/usc/t26/s72].
 
- __Effective and Termination Dates of 2006 Amendment__ 
+ __Effective Date of 2006 Amendment__ 
 
-    Amendment by section 114(e)(1)–(4) of [Pub. L. 109–280][/us/pl/109/280] applicable to taxable years beginning after 2007, but only with respect to plan years beginning after 2007 which end with or within any such taxable year, see [section 114(g) of Pub. L. 109–280][/us/pl/109/280/s114/g], as added by [Pub. L. 110–458][/us/pl/110/458], set out as an Effective Date of 2006 Amendment note under [section 401 of this title][/us/usc/t26/s401].
+    Amendment by section 114(e)(1)–(4) of [Pub. L. 109–280][/us/pl/109/280] applicable to taxable years beginning after 2007, but only with respect to plan years beginning after 2007 which end with or within any such taxable year, see [section 114(g) of Pub. L. 109–280][/us/pl/109/280/s114/g], as added by [Pub. L. 110–458][/us/pl/110/458], set out as a note under [section 401 of this title][/us/usc/t26/s401].
 
     Amendment by [section 212(b) of Pub. L. 109–280][/us/pl/109/280/s212/b] applicable with respect to taxable years beginning after 2007, but only with respect to plan years beginning after 2007 which end with or within such taxable year, with special rules for certain notices and certain restored benefits, see [section 212(e) of Pub. L. 109–280][/us/pl/109/280/s212/e], set out as a note under [section 412 of this title][/us/usc/t26/s412].
-
-    Amendment by [section 212(b) of Pub. L. 109–280][/us/pl/109/280/s212/b] inapplicable to plan years beginning after Dec. 31, 2014, with exception for certain funding improvement and rehabilitation plans, see [section 221(c) of Pub. L. 109–280][/us/pl/109/280/s221/c], set out as a note under [section 412 of this title][/us/usc/t26/s412].
 
  __Effective Date of 1996 Amendment__ 
 
@@ -357,7 +353,7 @@
 
     For effective date of amendment by [Pub. L. 96–596][/us/pl/96/596] with respect to any first tier tax and to any second tier tax, see [section 2(d) of Pub. L. 96–596][/us/pl/96/596/s2/d], set out as an Effective Date note under [section 4961 of this title][/us/usc/t26/s4961].
 
-    Amendment by [Pub. L. 96–364][/us/pl/96/364] effective Sept. 26, 1980, see [section 210(a) of Pub. L. 96–364][/us/pl/96/364/s210/a], set out as an Effective Date note under [section 418 of this title][/us/usc/t26/s418].
+    Amendment by [Pub. L. 96–364][/us/pl/96/364] effective Sept. 26, 1980, see [section 210(a) of Pub. L. 96–364][/us/pl/96/364/s210/a], set out as an Effective Date note under [section 194A of this title][/us/usc/t26/s194A].
 
  __Effective Date__ 
 
@@ -426,7 +422,10 @@
 [/us/stat/122/5099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5099
 [/us/pl/113/97/s202/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F8
 [/us/stat/128/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1137
-[/us/pl/109/280/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs221%2Fc
+[/us/usc/t26/s432/i/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs432%2Fi%2F9
+[/us/usc/t26/s432/j/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs432%2Fj%2F9
+[/us/pl/113/235/s109/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs109%2Fb%2F3
+[/us/stat/128/2791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2791
 [/us/usc/t29/s1202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1202%2Fb
 [/us/pl/113/97/s202/c/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F8%2FA
 [/us/pl/113/97/s202/c/8/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F8%2FB%2Fii
@@ -451,10 +450,10 @@
 [/us/pl/109/280/s114/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs114%2Fe%2F2%2FA
 [/us/pl/109/280/s114/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs114%2Fe%2F2%2FB
 [/us/pl/109/280/s114/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs114%2Fe%2F3
-[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280/s212/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs212%2Fb%2F2
 [/us/pl/110/458/s102/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs102%2Fb%2F3%2FA
 [/us/pl/109/280/s114/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs114%2Fe%2F4
-[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280/s212/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs212%2Fb%2F1
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/103/465/s751/a/9/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs751%2Fa%2F9%2FB%2Fi
 [/us/pl/103/465/s751/a/9/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs751%2Fa%2F9%2FB%2Fii
@@ -483,9 +482,6 @@
 [/us/pl/109/280/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs212%2Fb
 [/us/pl/109/280/s212/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs212%2Fe
 [/us/usc/t26/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs412
-[/us/pl/109/280/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs212%2Fb
-[/us/pl/109/280/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs221%2Fc
-[/us/usc/t26/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs412
 [/us/pl/104/188/s1464/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1464%2Fb
 [/us/stat/110/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1825
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
@@ -503,7 +499,7 @@
 [/us/usc/t26/s4961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4961
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/pl/96/364/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs210%2Fa
-[/us/usc/t26/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs418
+[/us/usc/t26/s194A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs194A
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/pl/93/406/s1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1017
 [/us/usc/t26/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs410

@@ -57,13 +57,9 @@
 
 </table>
 
- __Amendment of Analysis__ 
-
-    For termination of amendment by [section 221(c) of Pub. L. 109–280][/us/pl/109/280/s221/c], see Effective and Termination Dates of 2006 Amendment note set out under [section 412 of this title][/us/usc/t26/s412].
-
  __Amendments__ 
 
-    2006—[Pub. L. 109–280, title II][/us/pl/109/280], §§ 212(d), 221(c), Aug. 17, 2006, [120 Stat. 917][/us/stat/120/917], 919, temporarily added item 432. See Effective and Termination Dates of 2006 Amendment note set out under [section 412 of this title][/us/usc/t26/s412].
+    2006—[Pub. L. 109–280, title II, § 212(d)][/us/pl/109/280/s212/d], Aug. 17, 2006, [120 Stat. 917][/us/stat/120/917], added item 432.
 
 ----------
 
@@ -72,10 +68,7 @@
 ----------
 ----------
 
-[/us/pl/109/280/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs221%2Fc
-[/us/usc/t26/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs412
-[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280/s212/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs212%2Fd
 [/us/stat/120/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F917
-[/us/usc/t26/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs412
 
 

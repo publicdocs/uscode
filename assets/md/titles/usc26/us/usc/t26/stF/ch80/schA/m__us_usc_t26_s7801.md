@@ -101,6 +101,8 @@
 
     Similar provisions were contained in the following appropriation act:
 
+    [Pub. L. 113–235, div. E, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2337][/us/stat/128/2337].
+
     [Pub. L. 113–76, div. E, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 189][/us/stat/128/189].
 
 [Pub. L. 112–74, div. C, title I][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 889][/us/stat/125/889], provided in part: 
@@ -108,6 +110,8 @@
 > “That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for CADE2 and Modernized e-File information technology investments, including the purposes and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and the strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter.”
 
     Similar provisions were contained in the following appropriation act:
+
+    [Pub. L. 113–235, div. E, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2337][/us/stat/128/2337].
 
     [Pub. L. 113–76, div. E, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 189][/us/stat/128/189].
 
@@ -778,10 +782,14 @@
 [/us/usc/t5/s3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3345
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F888
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2337
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/stat/128/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F189
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F889
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2337
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/stat/128/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F189
 [/us/pl/107/16/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs620

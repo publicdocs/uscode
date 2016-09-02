@@ -247,7 +247,7 @@
 
             A participant’s right to an accrued benefit derived from employer contributions under a multiemployer plan shall not be treated as forfeitable solely because—
 
-                (i) the plan is amended to reduce benefits under section 418D or under section 4281 of the Employee Retirement Income Security Act of 1974, or
+                (i) the plan is amended to reduce benefits under section 418D <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  or under section 4281 of the Employee Retirement Income Security Act of 1974, or
 
                 (ii) benefit payments under the plan may be suspended under section 418E or under section 4281 of the Employee Retirement Income Security Act of 1974.
 
@@ -259,7 +259,7 @@
 
         In computing the period of service under the plan for purposes of determining the nonforfeitable percentage under paragraph (2), all of an employee’s years of service with the employer or employers maintaining the plan shall be taken into account, except that the following may be disregarded:
 
-            (A) years of service before age 18, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should be a semicolon. </sup></sup> 
+            (A) years of service before age 18, <sup>\[2\]</sup>  <sup><sup> 2 So in original. The comma probably should be a semicolon. </sup></sup> 
 
             (B) years of service during a period for which the employee declined to contribute to a plan requiring employee contributions;
 
@@ -685,7 +685,7 @@
 
                 (iv) __Special rules for early retirement subsidies__ 
 
-                    For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “similar account”. </sup></sup>  with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
+                    For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “similar account”. </sup></sup>  with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
 
                 (v) __Applicable plan amendment__ 
 
@@ -891,9 +891,43 @@
 
         (2) A plan described in paragraph (1) shall be treated as meeting the requirements of this section, for purposes of section 401(a), if such plan meets the vesting requirements resulting from the application of sections 401(a)(4) and 401(a)(7) as in effect on September 1, 1974.
 
-(Added [Pub. L. 93–406, title II, § 1012(a)][/us/pl/93/406/s1012/a], Sept. 2, 1974, [88 Stat. 901][/us/stat/88/901]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(62), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1774][/us/stat/90/1774], 1834; [Pub. L. 96–364, title II, § 206][/us/pl/96/364/s206], Sept. 26, 1980, [94 Stat. 1287][/us/stat/94/1287]; [Pub. L. 98–397, title II, § 202(b)][/us/pl/98/397/s202/b], (c), (d)(2), (e)(2), (3), (f), 205, title III, § 301(a)(1), Aug. 23, 1984, [98 Stat. 1437][/us/stat/98/1437], 1439, 1440, 1449, 1450; [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9202(b), 9203(b)(2), Oct. 21, 1986, [100 Stat. 1977][/us/stat/100/1977], 1979; [Pub. L. 99–514, title XI][/us/pl/99/514], §§ 1113(a), (b), (d)(B), 1114(b)(10), 1139(a), title XVIII, § 1898(a)(1)(A), (4)(A), (d)(1)(A), (2)(A), (f)(1)(A), Oct. 22, 1986, [100 Stat. 2446][/us/stat/100/2446], 2447, 2451, 2487, 2941, 2943, 2955, 2956; [Pub. L. 100–203, title IX, § 9346(b)][/us/pl/100/203/s9346/b], Dec. 22, 1987, [101 Stat. 1330–374][/us/stat/101/1330-374]; [Pub. L. 100–647, title I, § 1018(t)(8)(B)][/us/pl/100/647/s1018/t/8/B], Nov. 10, 1988, [102 Stat. 3589][/us/stat/102/3589]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7861(a)(5)(A), (6)(A), 7871(a)(1), (2), (b)(1), 7881(m)(1), Dec. 19, 1989, [103 Stat. 2430][/us/stat/103/2430], 2435, 2443; [Pub. L. 102–318, title V, § 521(b)(44)][/us/pl/102/318/s521/b/44], July 3, 1992, [106 Stat. 313][/us/stat/106/313]; [Pub. L. 103–465, title VII, § 767(a)(1)][/us/pl/103/465/s767/a/1], Dec. 8, 1994, [108 Stat. 5037][/us/stat/108/5037]; [Pub. L. 104–188, title I, § 1442(a)][/us/pl/104/188/s1442/a], Aug. 20, 1996, [110 Stat. 1808][/us/stat/110/1808]; [Pub. L. 105–34, title X, § 1071(a)(1)][/us/pl/105/34/s1071/a/1], (2)(A), Aug. 5, 1997, [111 Stat. 948][/us/stat/111/948]; [Pub. L. 107–16, title VI][/us/pl/107/16], §§ 633(a), 645(a)(1), (b)(1), 648(a)(1), June 7, 2001, [115 Stat. 115][/us/stat/115/115], 123, 125, 127; [Pub. L. 108–311, title IV, § 408(a)(14)][/us/pl/108/311/s408/a/14], Oct. 4, 2004, [118 Stat. 1192][/us/stat/118/1192]; [Pub. L. 109–280, title I, § 114(b)][/us/pl/109/280/s114/b], title VII, 701(b), title IX, §§ 902(d)(2)(A), (B), 904(a), Aug. 17, 2006, [120 Stat. 853][/us/stat/120/853], 984, 1038, 1048; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(d)(2)(D), 107(b), 109(b)(2), Dec. 23, 2008, [122 Stat. 5099][/us/stat/122/5099], 5107, 5111.)
+    (f) __Special rule for determining normal retirement age for certain existing defined benefit plans__ 
+
+        (1) __In general__ 
+
+            Notwithstanding subsection (a)(8), an applicable plan shall not be treated as failing to meet any requirement of this subchapter, or as failing to have a uniform normal retirement age for purposes of this subchapter, solely because the plan provides for a normal retirement age described in paragraph (2).
+
+        (2) __Applicable plan__ 
+
+        For purposes of this subsection—
+
+            (A) __In general__ 
+
+            The term “applicable plan” means a defined benefit plan the terms of which, on or before December 8, 2014, provided for a normal retirement age which is the earlier of—
+
+                (i) an age otherwise permitted under subsection (a)(8), or
+
+                (ii) the age at which a participant completes the number of years (not less than 30 years) of benefit accrual service specified by the plan.
+
+                A plan shall not fail to be treated as an applicable plan solely because the normal retirement age described in the preceding sentence only applied to certain participants or only applied to employees of certain employers in the case of a plan maintained by more than 1 employer.
+
+            (B) __Expanded application__ 
+
+                Subject to subparagraph (C), if, after December 8, 2014, an applicable plan is amended to expand the application of the normal retirement age described in subparagraph (A) to additional participants or to employees of additional employers maintaining the plan, such plan shall also be treated as an applicable plan with respect to such participants or employees.
+
+            (C) __Limitation on expanded application__ 
+
+            A defined benefit plan shall be an applicable plan only with respect to an individual who—
+
+                (i) is a participant in the plan on or before January 1, 2017, or
+
+                (ii) is an employee at any time on or before January 1, 2017, of any employer maintaining the plan, and who becomes a participant in such plan after such date.
+
+(Added [Pub. L. 93–406, title II, § 1012(a)][/us/pl/93/406/s1012/a], Sept. 2, 1974, [88 Stat. 901][/us/stat/88/901]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(62), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1774][/us/stat/90/1774], 1834; [Pub. L. 96–364, title II, § 206][/us/pl/96/364/s206], Sept. 26, 1980, [94 Stat. 1287][/us/stat/94/1287]; [Pub. L. 98–397, title II, § 202(b)][/us/pl/98/397/s202/b], (c), (d)(2), (e)(2), (3), (f), 205, title III, § 301(a)(1), Aug. 23, 1984, [98 Stat. 1437][/us/stat/98/1437], 1439, 1440, 1449, 1450; [Pub. L. 99–509, title IX][/us/pl/99/509], §§ 9202(b), 9203(b)(2), Oct. 21, 1986, [100 Stat. 1977][/us/stat/100/1977], 1979; [Pub. L. 99–514, title XI][/us/pl/99/514], §§ 1113(a), (b), (d)(B), 1114(b)(10), 1139(a), title XVIII, § 1898(a)(1)(A), (4)(A), (d)(1)(A), (2)(A), (f)(1)(A), Oct. 22, 1986, [100 Stat. 2446][/us/stat/100/2446], 2447, 2451, 2487, 2941, 2943, 2955, 2956; [Pub. L. 100–203, title IX, § 9346(b)][/us/pl/100/203/s9346/b], Dec. 22, 1987, [101 Stat. 1330–374][/us/stat/101/1330-374]; [Pub. L. 100–647, title I, § 1018(t)(8)(B)][/us/pl/100/647/s1018/t/8/B], Nov. 10, 1988, [102 Stat. 3589][/us/stat/102/3589]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7861(a)(5)(A), (6)(A), 7871(a)(1), (2), (b)(1), 7881(m)(1), Dec. 19, 1989, [103 Stat. 2430][/us/stat/103/2430], 2435, 2443; [Pub. L. 102–318, title V, § 521(b)(44)][/us/pl/102/318/s521/b/44], July 3, 1992, [106 Stat. 313][/us/stat/106/313]; [Pub. L. 103–465, title VII, § 767(a)(1)][/us/pl/103/465/s767/a/1], Dec. 8, 1994, [108 Stat. 5037][/us/stat/108/5037]; [Pub. L. 104–188, title I, § 1442(a)][/us/pl/104/188/s1442/a], Aug. 20, 1996, [110 Stat. 1808][/us/stat/110/1808]; [Pub. L. 105–34, title X, § 1071(a)(1)][/us/pl/105/34/s1071/a/1], (2)(A), Aug. 5, 1997, [111 Stat. 948][/us/stat/111/948]; [Pub. L. 107–16, title VI][/us/pl/107/16], §§ 633(a), 645(a)(1), (b)(1), 648(a)(1), June 7, 2001, [115 Stat. 115][/us/stat/115/115], 123, 125, 127; [Pub. L. 108–311, title IV, § 408(a)(14)][/us/pl/108/311/s408/a/14], Oct. 4, 2004, [118 Stat. 1192][/us/stat/118/1192]; [Pub. L. 109–280, title I, § 114(b)][/us/pl/109/280/s114/b], title VII, 701(b), title IX, §§ 902(d)(2)(A), (B), 904(a), Aug. 17, 2006, [120 Stat. 853][/us/stat/120/853], 984, 1038, 1048; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(d)(2)(D), 107(b), 109(b)(2), Dec. 23, 2008, [122 Stat. 5099][/us/stat/122/5099], 5107, 5111; [Pub. L. 113–235, div. P, § 2(b)][/us/pl/113/235/s2/b], Dec. 16, 2014, [128 Stat. 2828][/us/stat/128/2828].)
 
  __References in Text__ 
+
+    Section 418D, referred to in subsec. (a)(3)(F)(i), was repealed by [Pub. L. 113–235, div. O, title I, § 108(b)(1)][/us/pl/113/235/s108/b/1], Dec. 16, 2014, [128 Stat. 2787][/us/stat/128/2787].
 
     Section 4281 of the Employee Retirement Income Security Act of 1974, referred to in subsecs. (a)(3)(F)(i), (ii) and (d)(6)(A), is classified to [section 1441 of Title 29][/us/usc/t29/s1441], Labor.
 
@@ -906,6 +940,8 @@
     The Social Security Act, referred to in subsecs. (a)(9) and (b)(1)(G), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (f). [Pub. L. 113–235][/us/pl/113/235] added subsec. (f).
 
     2008—Subsec. (a)(3)(C). [Pub. L. 110–458, § 101(d)(2)(D)(i)][/us/pl/110/458/s101/d/2/D/i], substituted “section 412(d)(2)” for “section 412(c)(2)”.
 
@@ -1082,6 +1118,12 @@
     Subsec. (e)(1)(C). [Pub. L. 94–455, § 1901(a)(62)(D)][/us/pl/94/455/s1901/a/62/D], substituted reference to Sept. 2, 1974, for reference to the date of enactment of the Employee Retirement Income Security Act of 1974.
 
     Subsec. (e)(2). [Pub. L. 94–455, § 1901(a)(62)(E)][/us/pl/94/455/s1901/a/62/E], substituted reference to Sept. 1, 1974, for reference to the date before the date of enactment of the Employee Retirement Income Security Act of 1974.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–235, div. P, § 2(c)][/us/pl/113/235/s2/c], Dec. 16, 2014, [128 Stat. 2829][/us/stat/128/2829], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 1054 of Title 29][/us/usc/t29/s1054], Labor\] shall apply to all periods before, on, and after the date of enactment of this Act \[Dec. 16, 2014\].”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -1363,7 +1405,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-    Amendment by [Pub. L. 96–364][/us/pl/96/364] effective Sept. 26, 1980, see [section 210(a) of Pub. L. 96–364][/us/pl/96/364/s210/a], set out as an Effective Date note under [section 418 of this title][/us/usc/t26/s418].
+    Amendment by [Pub. L. 96–364][/us/pl/96/364] effective Sept. 26, 1980, see [section 210(a) of Pub. L. 96–364][/us/pl/96/364/s210/a], set out as an Effective Date note under [section 194A of this title][/us/usc/t26/s194A].
 
  __Effective Date of 1976 Amendment__ 
 
@@ -1612,6 +1654,10 @@
 [/us/stat/120/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F853
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/stat/122/5099]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5099
+[/us/pl/113/235/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs2%2Fb
+[/us/stat/128/2828]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2828
+[/us/pl/113/235/s108/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fb%2F1
+[/us/stat/128/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2787
 [/us/usc/t29/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1441
 [/us/usc/t29/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1383
 [/us/usc/t29/s1385/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1385%2Fb%2F2%2FA%2Fi
@@ -1619,6 +1665,7 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/110/458/s101/d/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fd%2F2%2FD%2Fi
 [/us/pl/110/458/s109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs109%2Fb%2F2
 [/us/pl/110/458/s107/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs107%2Fb%2F2
@@ -1689,6 +1736,9 @@
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/94/455/s1901/a/62/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F62%2FD
 [/us/pl/94/455/s1901/a/62/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F62%2FE
+[/us/pl/113/235/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs2%2Fc
+[/us/stat/128/2829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2829
+[/us/usc/t29/s1054]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1054
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/458/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs112
@@ -1802,7 +1852,7 @@
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/pl/96/364/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs210%2Fa
-[/us/usc/t26/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs418
+[/us/usc/t26/s194A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs194A
 [/us/pl/94/455/s1901/a/62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F62
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
 [/us/usc/t26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2

@@ -259,15 +259,11 @@
 
 (Added [Pub. L. 93–406, title II, § 1013(a)][/us/pl/93/406/s1013/a], Sept. 2, 1974, [88 Stat. 914][/us/stat/88/914]; amended [Pub. L. 94–455, title XIX][/us/pl/94/455], §§ 1901(a)(63), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1775][/us/stat/90/1775], 1834; [Pub. L. 96–364, title II][/us/pl/96/364], §§ 203, 208(c), Sept. 26, 1980, [94 Stat. 1285][/us/stat/94/1285], 1289; [Pub. L. 98–369, div. A, title IV, § 491(d)(25)][/us/pl/98/369/s491/d/25], July 18, 1984, [98 Stat. 850][/us/stat/98/850]; [Pub. L. 99–272, title XI][/us/pl/99/272], §§ 11015(a)(2), (b)(2), 11016(c)(4), Apr. 7, 1986, [100 Stat. 265][/us/stat/100/265], 267, 273; [Pub. L. 100–203, title IX][/us/pl/100/203], §§ 9301(a), 9303(a), (d)(1), 9304(a)(1), (b)(1), (e)(1), 9305(b)(1), 9306(a)(1), (b)(1), (c)(1), (d)(1), (e)(1), 9307(a)(1), (b)(1), (e)(1), Dec. 22, 1987, [101 Stat. 1330–331][/us/stat/101/1330-331], 1330–333, 1330–342 to 1330–344, 1330–348, 1330–351, 1330–352, 1330–354 to 1330–357; [Pub. L. 100–647, title II, § 2005(a)(2)(A)][/us/pl/100/647/s2005/a/2/A], (d)(1), Nov. 10, 1988, [102 Stat. 3610][/us/stat/102/3610], 3612; [Pub. L. 101–239, title VII, § 7881(a)(1)(A)][/us/pl/101/239/s7881/a/1/A], (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (b)(1)(A), (2)(A), (3)(A), (4)(A), (6)(A), (c)(1), (d)(1)(A), Dec. 19, 1989, [103 Stat. 2435–2439][/us/stat/103/2435-2439]; [Pub. L. 103–465, title VII][/us/pl/103/465], §§ 751(a)(1)–(9)(A), (10), 752(a), 753(a), 754(a), 768(a), Dec. 8, 1994, [108 Stat. 5012–5019][/us/stat/108/5012-5019], 5021–5023, 5040; [Pub. L. 105–34, title XV, § 1521(a)][/us/pl/105/34/s1521/a], (c)(1), (3)(A), title XVI, § 1604(b)(2)(A), Aug. 5, 1997, [111 Stat. 1069][/us/stat/111/1069], 1070, 1097; [Pub. L. 107–16, title VI][/us/pl/107/16], §§ 651(a), 661(a), June 7, 2001, [115 Stat. 129][/us/stat/115/129], 141; [Pub. L. 107–147, title IV][/us/pl/107/147], §§ 405(a), 411(v)(1), Mar. 9, 2002, [116 Stat. 42][/us/stat/116/42], 52; [Pub. L. 108–218, title I][/us/pl/108/218], §§ 101(b)(1)–(3), 102(b), 104(b), Apr. 10, 2004, [118 Stat. 597][/us/stat/118/597], 598, 601, 606; [Pub. L. 109–135, title IV, § 412(x)(1)][/us/pl/109/135/s412/x/1], Dec. 21, 2005, [119 Stat. 2638][/us/stat/119/2638]; [Pub. L. 109–280, title I, § 111(a)][/us/pl/109/280/s111/a], title II, § 212(c), title III, § 301(b), Aug. 17, 2006, [120 Stat. 820][/us/stat/120/820], 917, 919; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(a)(2), 102(b)(2)(H), Dec. 23, 2008, [122 Stat. 5093][/us/stat/122/5093], 5103; [Pub. L. 113–97, title II, § 202(c)(1)][/us/pl/113/97/s202/c/1], (2), Apr. 7, 2014, [128 Stat. 1135][/us/stat/128/1135].)
 
- __Amendment of Section__ 
-
-    For termination of subsection (b)(3) of this section by [section 221(c) of Pub. L. 109–280][/us/pl/109/280/s221/c], see Effective and Termination Dates of 2006 Amendment note below.
-
  __References in Text__ 
 
     The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)(4)(A), (B)(ii)(II), (6)(A), and (e)(1), (4), is [Pub. L. 93–406][/us/pl/93/406], Sept. 2, 1974, [88 Stat. 829][/us/stat/88/829], which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. Title IV of the Act is classified generally to subchapter III (§ 1301 et seq.) of chapter 18 of Title 29. Sections 3, 4001, 4021, and 4041A of the Act are classified to sections 1002, 1301, 1321, and 1341a of Title 29, respectively. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29][/us/usc/t29/s1001] and Tables.
 
-    The effective date of this section, referred to in subsec. (e)(1), probably means the effective date of [Pub. L. 109–280, § 111(a)][/us/pl/109/280/s111/a], which amended this section. See Effective and Termination Dates of 2006 Amendment note below.
+    The effective date of this section, referred to in subsec. (e)(1), probably means the effective date of [Pub. L. 109–280, § 111(a)][/us/pl/109/280/s111/a], which amended this section. See Effective Date of 2006 Amendment note below.
 
  __Amendments__ 
 
@@ -317,7 +313,7 @@
 
     2006—[Pub. L. 109–280, § 111(a)][/us/pl/109/280/s111/a], reenacted heading without change and amended text generally, substituting provisions relating to minimum funding standard requirement, liability for contributions, variance from minimum funding standards, miscellaneous rules, and plans to which section applies, consisting of subsecs. (a) to (e), for provisions relating to general rule for satisfaction of minimum funding standard, funding standard account, special rules, variance from minimum funding standard, extension of amortization periods, requirements relating to waivers and extensions, alternative minimum funding standard, exceptions, certain insurance contract plans, certain terminated multiemployer plans, financial assistance, additional funding requirements for plans which are not multiemployer plans, quarterly contributions requirement, and imposition of lien where failure to make required contributions, consisting of subsecs. (a) to (n).
 
-    Subsec. (b)(3). [Pub. L. 109–280][/us/pl/109/280], §§ 212(c), 221(c), temporarily added par. (3). See Effective and Termination Dates of 2006 Amendment note below.
+    Subsec. (b)(3). [Pub. L. 109–280, § 212(c)][/us/pl/109/280/s212/c], added par. (3).
 
     Subsec. (b)(5)(B)(ii)(II). [Pub. L. 109–280, § 301(b)(1)][/us/pl/109/280/s301/b/1], substituted “, 2005, 2006, and 2007” for “and 2005” in heading and “2008” for “2006” in text.
 
@@ -543,7 +539,7 @@
 
     Amendment by [Pub. L. 110–458][/us/pl/110/458] effective as if included in the provisions of [Pub. L. 109–280][/us/pl/109/280] to which the amendment relates, except as otherwise provided, see [section 112 of Pub. L. 110–458][/us/pl/110/458/s112], set out as a note under [section 72 of this title][/us/usc/t26/s72].
 
- __Effective and Termination Dates of 2006 Amendment__ 
+ __Effective Date of 2006 Amendment__ 
 
 [Pub. L. 109–280, title I, § 111(b)][/us/pl/109/280/s111/b], Aug. 17, 2006, [120 Stat. 826][/us/stat/120/826], provided that: 
 
@@ -569,15 +565,13 @@
 
 >         the amendments made by this section shall not apply to such benefit restorations to the extent that any restriction on the providing or accrual of such benefits would otherwise apply by reason of such amendments.”
 
-[Pub. L. 109–280, title II, § 221(c)][/us/pl/109/280/s221/c], Aug. 17, 2006, [120 Stat. 919][/us/stat/120/919], provided that:
+    [Pub. L. 109–280, title II, § 221(c)][/us/pl/109/280/s221/c], Aug. 17, 2006, [120 Stat. 919][/us/stat/120/919], as amended by [Pub. L. 113–295, div. A, title I, § 172(a)][/us/pl/113/295/s172/a], (b), Dec. 19, 2014, [128 Stat. 4024][/us/stat/128/4024], which provided that the provisions of, and the amendments made by, sections 201(b), 202, and 212 (enacting [section 432 of this title][/us/usc/t26/s432] and [section 1085 of Title 29][/us/usc/t29/s1085], Labor, amending this section, [section 4971 of this title][/us/usc/t26/s4971], and sections 1082 and 1132 of Title 29, and enacting provisions set out as notes under this section and sections 1082 and 1084 of Title 29) were not applicable to plan years beginning after Dec. 31, 2014, and if a plan was operating under a funding improvement or rehabilitation plan under [section 1085 of Title 29][/us/usc/t29/s1085] or [section 432 of this title][/us/usc/t26/s432] for its last year beginning before Jan. 1, 2015, such plan was to continue to operate under such funding improvement or rehabilitation plan during any period after Dec. 31, 2014, such funding improvement or rehabilitation plan was in effect and all provisions of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1001][/us/usc/t29/s1001] et seq.) or this title relating to the operation of such funding improvement or rehabilitation plan were to continue in effect during such period, was repealed by [Pub. L. 113–235, div. O, title I, § 101(a)][/us/pl/113/235/s101/a], Dec. 16, 2014, [128 Stat. 2774][/us/stat/128/2774].
 
->     “(1)  __In general__  __.—__ 
+\[[Pub. L. 113–295, div. A, title I, § 172(c)][/us/pl/113/295/s172/c], Dec. 19, 2014, [128 Stat. 4024][/us/stat/128/4024], provided that: 
 
->     Except as provided in this subsection, notwithstanding any other provision of this Act \[see Tables for classification\], the provisions of, and the amendments made by, sections 201(b), 202, and 212 \[enacting [section 432 of this title][/us/usc/t26/s432] and [section 1085 of Title 29][/us/usc/t29/s1085], Labor, amending this section, [section 4971 of this title][/us/usc/t26/s4971], and sections 1082 and 1132 of Title 29, and enacting provisions set out as notes under this section and sections 1082 and 1084 of Title 29\] shall not apply to plan years beginning after December 31, 2014.
+> “The amendments made by this section \[directing amendment of [section 221(c) of Pub. L. 109–280][/us/pl/109/280/s221/c], formerly set out above\] shall apply to plan years beginning after December 31, 2014.”
 
->     “(2)  __Funding improvement and rehabilitation plans__  __.—__ 
-
->     If a plan is operating under a funding improvement or rehabilitation plan under section 305 of such Act \[probably means section 305 of the Employee Retirement Income Security Act of 1974, [Pub. L. 93–406][/us/pl/93/406], [29 U.S.C. 1085][/us/usc/t29/s1085]\] or 432 of such Code \[probably means section 432 of the Internal Revenue Code of 1986\] for its last year beginning before January 1, 2015, such plan shall continue to operate under such funding improvement or rehabilitation plan during any period after December 31, 2014, such funding improvement or rehabilitation plan is in effect and all provisions of such Act or Code relating to the operation of such funding improvement or rehabilitation plan shall continue in effect during such period.”
+ Those amendments could not be executed because of the intervening repeal of section 221(c) by [Pub. L. 113–235][/us/pl/113/235].\]
 
  __Effective Date of 2004 Amendment__ 
 
@@ -791,7 +785,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-    Amendment by [Pub. L. 96–364][/us/pl/96/364] effective Sept. 26, 1980, see [section 210(a) of Pub. L. 96–364][/us/pl/96/364/s210/a], set out as an Effective Date note under [section 418 of this title][/us/usc/t26/s418].
+    Amendment by [Pub. L. 96–364][/us/pl/96/364] effective Sept. 26, 1980, see [section 210(a) of Pub. L. 96–364][/us/pl/96/364/s210/a], set out as an Effective Date note under [section 194A of this title][/us/usc/t26/s194A].
 
  __Effective Date of 1976 Amendment__ 
 
@@ -942,7 +936,6 @@
 [/us/stat/122/5093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5093
 [/us/pl/113/97/s202/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs202%2Fc%2F1
 [/us/stat/128/1135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1135
-[/us/pl/109/280/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs221%2Fc
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/stat/88/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F829
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
@@ -970,7 +963,7 @@
 [/us/pl/110/458/s101/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fa%2F2%2FB
 [/us/pl/110/458/s101/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fa%2F2%2FC
 [/us/pl/109/280/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs111%2Fa
-[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280/s212/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs212%2Fc
 [/us/pl/109/280/s301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs301%2Fb%2F1
 [/us/pl/109/280/s301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs301%2Fb%2F2
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
@@ -1087,11 +1080,20 @@
 [/us/usc/t26/s4971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4971
 [/us/pl/109/280/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs221%2Fc
 [/us/stat/120/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F919
+[/us/pl/113/295/s172/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs172%2Fa
+[/us/stat/128/4024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4024
 [/us/usc/t26/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs432
 [/us/usc/t29/s1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085
 [/us/usc/t26/s4971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4971
-[/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085
+[/us/usc/t26/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs432
+[/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
+[/us/pl/113/235/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs101%2Fa
+[/us/stat/128/2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2774
+[/us/pl/113/295/s172/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs172%2Fc
+[/us/stat/128/4024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4024
+[/us/pl/109/280/s221/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs221%2Fc
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/108/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218
 [/us/pl/108/218/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs101%2Fd
 [/us/usc/t26/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404
@@ -1183,7 +1185,7 @@
 [/us/usc/t26/s62]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs62
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/pl/96/364/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs210%2Fa
-[/us/usc/t26/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs418
+[/us/usc/t26/s194A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs194A
 [/us/pl/94/455/s1901/a/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fa%2F63
 [/us/pl/94/455/s1901/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1901%2Fd
 [/us/usc/t26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs2

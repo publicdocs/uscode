@@ -55,7 +55,7 @@
 
         (2) which meets requirements similar to the requirements of paragraphs (2), (3), (5), and (6) of section 127(b).
 
-        An adoption reimbursement program operated under [section 1052 of title 10][/us/usc/t10/s1052], United States Code (relating to armed forces) or [section 514 of title 14][/us/usc/t14/s514], United States Code (relating to members of the Coast Guard) shall be treated as an adoption assistance program for purposes of this section.
+        An adoption reimbursement program operated under [section 1052 of title 10][/us/usc/t10/s1052], United States Code (relating to armed forces) or section 514  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 14, United States Code (relating to members of the Coast Guard) shall be treated as an adoption assistance program for purposes of this section.
 
     (d) __Qualified adoption expenses__ 
 
@@ -80,6 +80,10 @@
  __Inflation Adjusted Items for Certain Years__ 
 
     For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title][/us/usc/t26/s1].
+
+ __References in Text__ 
+
+    [Section 514 of title 14][/us/usc/t14/s514], referred to in subsec. (c), was renumbered [section 541 of title 14][/us/usc/t14/s541] by [Pub. L. 113–281, title II, § 214(b)(1)(A)][/us/pl/113/281/s214/b/1/A], Dec. 18, 2014, [128 Stat. 3033][/us/stat/128/3033].
 
  __Prior Provisions__ 
 
@@ -181,7 +185,6 @@
 ----------
 
 [/us/usc/t10/s1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1052
-[/us/usc/t14/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs514
 [/us/pl/104/188/s1807/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1807%2Fb
 [/us/stat/110/1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1901
 [/us/pl/105/34/s1601/h/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1601%2Fh%2F2%2FC
@@ -201,6 +204,10 @@
 [/us/pl/111/312/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312%2Fs101%2Fb%2F1
 [/us/stat/124/3298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3298
 [/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
+[/us/usc/t14/s514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs514
+[/us/usc/t14/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft14%2Fs541
+[/us/pl/113/281/s214/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F281%2Fs214%2Fb%2F1%2FA
+[/us/stat/128/3033]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3033
 [/us/usc/t26/s140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs140
 [/us/pl/111/148/s10909/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10909%2Fa%2F2%2FB
 [/us/pl/111/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F312

@@ -1125,7 +1125,7 @@
 
  __Effective Date of 1980 Amendments__ 
 
-    Amendment by [Pub. L. 96–364][/us/pl/96/364] effective Sept. 26, 1980, see [section 210(a) of Pub. L. 96–364][/us/pl/96/364/s210/a], set out as an Effective Date note under [section 418 of this title][/us/usc/t26/s418].
+    Amendment by [Pub. L. 96–364][/us/pl/96/364] effective Sept. 26, 1980, see [section 210(a) of Pub. L. 96–364][/us/pl/96/364/s210/a], set out as an Effective Date note under [section 194A of this title][/us/usc/t26/s194A].
 
     Amendment by [Pub. L. 96–222][/us/pl/96/222] effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, [Pub. L. 95–600][/us/pl/95/600], to which such amendment relates, see [section 201 of Pub. L. 96–222][/us/pl/96/222/s201], set out as a note under [section 32 of this title][/us/usc/t26/s32].
 
@@ -1693,7 +1693,7 @@
 [/us/stat/95/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F295
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/pl/96/364/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs210%2Fa
-[/us/usc/t26/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs418
+[/us/usc/t26/s194A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs194A
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
 [/us/pl/95/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F600
 [/us/pl/96/222/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs201

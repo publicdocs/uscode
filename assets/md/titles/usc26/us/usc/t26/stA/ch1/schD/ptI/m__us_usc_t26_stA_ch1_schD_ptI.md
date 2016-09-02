@@ -43,7 +43,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft26%2FstA%2Fch1%2FschD%2FptI%2FsptC" data-uslm-ref="/us/usc/t26/stA/ch1/schD/ptI/sptC">C.</a>  </td>
 
-    <td> Special rules for multiemployer plans.  </td>
+    <td> Insolvent plans.  </td>
 
   </tr>
 
@@ -63,15 +63,11 @@
 
   </tr>
 
-  <tr>
-
-    <td> 
-
-Amendments  </td>
-
-  </tr>
-
 </table>
+
+ __Amendments__ 
+
+    2014—[Pub. L. 113–235, div. O, title I, § 108(b)(3)(D)][/us/pl/113/235/s108/b/3/D], Dec. 16, 2014, [128 Stat. 2789][/us/stat/128/2789], which directed amendment of the table of subparts for part I of subchapter D of chapter 1 of the Internal Revenue Code of 1986 by striking the heading and inserting “insolvent plans” without specifying the subpart, was executed to the heading for subpart C to reflect the probable intent of Congress.
 
     1984—[Pub. L. 98–369, div. A, title V, § 511(d)][/us/pl/98/369/s511/d], July 18, 1984, [98 Stat. 862][/us/stat/98/862], added heading for subpart D.
 
@@ -84,6 +80,8 @@ Amendments  </td>
 ----------
 ----------
 
+[/us/pl/113/235/s108/b/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fb%2F3%2FD
+[/us/stat/128/2789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2789
 [/us/pl/98/369/s511/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs511%2Fd
 [/us/stat/98/862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F862
 [/us/pl/96/364/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs202%2Fb

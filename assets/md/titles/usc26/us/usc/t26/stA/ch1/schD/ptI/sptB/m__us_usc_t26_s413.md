@@ -193,7 +193,7 @@
 
  __Effective Date of 1980 Amendment__ 
 
-    Amendment by [Pub. L. 96–364][/us/pl/96/364] effective Sept. 26, 1980, see [section 210(a) of Pub. L. 96–364][/us/pl/96/364/s210/a], set out as an Effective Date note under [section 418 of this title][/us/usc/t26/s418].
+    Amendment by [Pub. L. 96–364][/us/pl/96/364] effective Sept. 26, 1980, see [section 210(a) of Pub. L. 96–364][/us/pl/96/364/s210/a], set out as an Effective Date note under [section 194A of this title][/us/usc/t26/s194A].
 
  __Effective Date__ 
 
@@ -244,7 +244,7 @@
 [/us/stat/102/3699]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3699
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/pl/96/364/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs210%2Fa
-[/us/usc/t26/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs418
+[/us/usc/t26/s194A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs194A
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/pl/93/406/s1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1017
 [/us/usc/t26/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs410

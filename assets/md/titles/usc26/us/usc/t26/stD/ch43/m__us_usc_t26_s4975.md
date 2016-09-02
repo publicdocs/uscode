@@ -961,9 +961,9 @@
 
     For effective date of amendment by [Pub. L. 96–596][/us/pl/96/596] with respect to any first tier tax and to any second tier tax, see [section 2(d) of Pub. L. 96–596][/us/pl/96/596/s2/d], set out as an Effective Date note under [section 4961 of this title][/us/usc/t26/s4961].
 
-    Amendment by [section 208(b) of Pub. L. 96–364][/us/pl/96/364/s208/b] effective Sept. 26, 1980, see [section 210(a) of Pub. L. 96–364][/us/pl/96/364/s210/a], set out as an Effective Date note under [section 418 of this title][/us/usc/t26/s418].
+    Amendment by [section 208(b) of Pub. L. 96–364][/us/pl/96/364/s208/b] effective Sept. 26, 1980, see [section 210(a) of Pub. L. 96–364][/us/pl/96/364/s210/a], set out as an Effective Date note under [section 194A of this title][/us/usc/t26/s194A].
 
-    Amendment by [section 209(b) of Pub. L. 96–364][/us/pl/96/364/s209/b] applicable to taxable years ending after Sept. 26, 1980, see [section 210(c) of Pub. L. 96–364][/us/pl/96/364/s210/c], set out as an Effective Date note under [section 418 of this title][/us/usc/t26/s418].
+    Amendment by [section 209(b) of Pub. L. 96–364][/us/pl/96/364/s209/b] applicable to taxable years ending after Sept. 26, 1980, see [section 210(c) of Pub. L. 96–364][/us/pl/96/364/s210/c], set out as an Effective Date note under [section 194A of this title][/us/usc/t26/s194A].
 
 [Pub. L. 96–222, title I, § 101(b)(1)(C)][/us/pl/96/222/s101/b/1/C], Apr. 1, 1980, [94 Stat. 205][/us/stat/94/205], provided that: 
 
@@ -1338,10 +1338,10 @@
 [/us/usc/t26/s4961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4961
 [/us/pl/96/364/s208/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs208%2Fb
 [/us/pl/96/364/s210/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs210%2Fa
-[/us/usc/t26/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs418
+[/us/usc/t26/s194A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs194A
 [/us/pl/96/364/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs209%2Fb
 [/us/pl/96/364/s210/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs210%2Fc
-[/us/usc/t26/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs418
+[/us/usc/t26/s194A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs194A
 [/us/pl/96/222/s101/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222%2Fs101%2Fb%2F1%2FC
 [/us/stat/94/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F205
 [/us/pl/96/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F222
