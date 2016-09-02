@@ -85,7 +85,7 @@
 
         (2)  __Special rules passenger fees__  __.—__ 
 
-        A fee imposed under subsection (a)(1) through the procedures under subsection (d) shall apply only to tickets sold after the date on which such fee is imposed. If a fee imposed under subsection (a)(1) through the procedures under subsection (d) on transportation of a passenger of a carrier described in subsection (a)(1) is not collected from the passenger, the amount of the fee shall be paid by the carrier.
+        A fee imposed under subsection (a)(1) through the procedures under subsection (d)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “paragraph (1)”. </sup></sup>  shall apply only to tickets sold after the date on which such fee is imposed. If a fee imposed under subsection (a)(1) through the procedures under subsection (d) on transportation of a passenger of a carrier described in subsection (a)(1) is not collected from the passenger, the amount of the fee shall be paid by the carrier.
 
         (3)  __Subsequent modification of fee__  __.—__ 
 

@@ -173,7 +173,7 @@
 
                     (II) a maintenance area, as defined in section 5303, for ozone or carbon monoxide.
 
-                “(ii)  __Eligible project__  __.—__ 
+                (ii)  __Eligible project__  __.—__ 
 
                 The term “eligible project” means a project or program of projects in an eligible area for—
 

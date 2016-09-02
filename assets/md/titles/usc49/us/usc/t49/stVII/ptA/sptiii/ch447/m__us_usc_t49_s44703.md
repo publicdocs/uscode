@@ -903,7 +903,7 @@ In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1)
 
 >         Except when the Administrator determines that an emergency exists under section 44709(c)(2) \[probably should be 44709(e)(2)\] or 46105(c) \[of title 49, United States Code\], the Administrator may not proceed against an individual that is the subject of an investigation described in paragraph (1) during the 30-day period beginning on the date on which the air traffic data required under paragraph (4) is made available to the individual.
 
->     “(c) __Amendments to Title 49.—__ 
+>     “(c)  __Amendments to Title __  __49.—__ 
 
 >         “(1)  __Airman certificates__  __.—__ 
 

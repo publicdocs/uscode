@@ -221,7 +221,7 @@
 
         (3)  __Program evaluation and oversight__  __.—__ 
 
-        For each of fiscal years 2013 and 2014, the Secretary shall expend not more than 1 ½ percent of the amounts made available to the Secretary to carry out this section for any coordination, evaluation, and oversight activities of the Secretary under this section.
+        For each of fiscal years 2013 and 2014, the Secretary shall expend not more than 1½ percent of the amounts made available to the Secretary to carry out this section for any coordination, evaluation, and oversight activities of the Secretary under this section.
 
     (e)  __Limitation on Availability of Amounts__  __.—__ 
 

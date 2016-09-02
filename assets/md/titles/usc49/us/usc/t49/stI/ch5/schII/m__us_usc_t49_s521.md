@@ -345,7 +345,7 @@ Revised Section  </td>
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
 
- __Deemed References to to Chapters 509 and 511 of Title 51__ 
+ __Deemed References to Chapters 509 and 511 of Title 51__ 
 
     General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see [section 4(d)(8) of Pub. L. 111–314][/us/pl/111/314/s4/d/8], set out as a note under [section 101 of this title][/us/usc/t49/s101].
 

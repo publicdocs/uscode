@@ -183,7 +183,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 29(a)–(c); added Dec. 18, 1
 
     Amendment by [Pub. L. 104–287][/us/pl/104/287] effective July 5, 1994, see [section 8(1) of Pub. L. 104–287][/us/pl/104/287/s8/1], set out as a note under [section 5303 of this title][/us/usc/t49/s5303].
 
- __Public-private Partnership Procedures and Approaches__ 
+ __Public-Private Partnership Procedures and Approaches__ 
 
 [Pub. L. 112–141, div. B, § 20013(b)][/us/pl/112/141/s20013/b], July 6, 2012, [126 Stat. 692][/us/stat/126/692], provided that:
 
@@ -245,7 +245,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 29(a)–(c); added Dec. 18, 1
 
     A prior section 5316, [Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 814][/us/stat/108/814]; [Pub. L. 104–59, title III, § 338(c)(5)][/us/pl/104/59/s338/c/5], Nov. 28, 1995, [109 Stat. 605][/us/stat/109/605], related to university research institutes, prior to repeal by [Pub. L. 105–178, title V, § 5110(c)][/us/pl/105/178/s5110/c], June 9, 1998, [112 Stat. 444][/us/stat/112/444].
 
-    Section 5317, added [Pub. L. 109–59, title III, § 3019(a)][/us/pl/109/59/s3019/a], Aug. 10, 2005, [119 Stat. 1605][/us/stat/119/1605], related to the New Freedom grant program to assist individuals with disabilites with public transportation.
+    Section 5317, added [Pub. L. 109–59, title III, § 3019(a)][/us/pl/109/59/s3019/a], Aug. 10, 2005, [119 Stat. 1605][/us/stat/119/1605], related to the New Freedom grant program to assist individuals with disabilities with public transportation.
 
     A prior section 5317, [Pub. L. 103–272, § 1(d)][/us/pl/103/272/s1/d], July 5, 1994, [108 Stat. 815][/us/stat/108/815]; [Pub. L. 104–287, § 5(14)][/us/pl/104/287/s5/14], Oct. 11, 1996, [110 Stat. 3390][/us/stat/110/3390]; [Pub. L. 105–178, title III, § 3029(b)(7)][/us/pl/105/178/s3029/b/7], June 9, 1998, [112 Stat. 372][/us/stat/112/372], related to transportation centers, prior to repeal by [Pub. L. 105–178, title V, § 5110(c)][/us/pl/105/178/s5110/c], June 9, 1998, [112 Stat. 444][/us/stat/112/444].
 

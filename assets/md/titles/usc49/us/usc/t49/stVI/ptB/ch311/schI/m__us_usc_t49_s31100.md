@@ -95,7 +95,7 @@
 
 >     “(a)  __In General__  __.—__ 
 
->     The Secretary \[of Transportion\] shall make grants to States for projects and activities to improve the accuracy, timeliness, and completeness of commercial motor vehicle safety data reported to the Secretary.
+>     The Secretary \[of Transportation\] shall make grants to States for projects and activities to improve the accuracy, timeliness, and completeness of commercial motor vehicle safety data reported to the Secretary.
 
 >     “(b)  __Eligibility__  __.—__ 
 

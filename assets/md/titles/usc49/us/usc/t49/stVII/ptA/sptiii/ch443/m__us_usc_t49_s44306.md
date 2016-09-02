@@ -147,7 +147,7 @@ Aug. 23, 1958, Pub. L. 85–726, § 1307(a) (last sentence less words between 
 
  __Delegation of Authority__ 
 
-    Authority of President under subsec. (c) of this section delegated to Secretary of Transportation, with certain conditions, by Memorandum of President of the United States, Sept. 27, 2012, 77 F.R. 60035, set out as a note under [section 44302 of this title][/us/usc/t49/s44302].
+    Authority of President under subsec. (c) of this section delegated to Secretary of Transportation, with certain conditions, by Memorandum of President of the United States, Dec. 27, 2013, 79 F.R. 527, set out as a note under [section 44302 of this title][/us/usc/t49/s44302].
 
 ----------
 

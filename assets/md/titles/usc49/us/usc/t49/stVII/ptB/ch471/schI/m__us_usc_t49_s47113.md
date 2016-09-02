@@ -191,7 +191,7 @@ In subsection (a)(2), the reference is to section 8(c) of the Act because 15:637
 
     Amendment by [Pub. L. 103–429][/us/pl/103/429] effective July 5, 1994, see [section 9 of Pub. L. 103–429][/us/pl/103/429/s9], set out as a note under [section 321 of this title][/us/usc/t49/s321].
 
- __Minority and Disadvantaged Business Participation__ 
+ __Findings Regarding Disadvantaged Business Enterprise Programs__ 
 
 [Pub. L. 112–95, title I, § 140(a)][/us/pl/112/95/s140/a], Feb. 14, 2012, [126 Stat. 27][/us/stat/126/27], provided that: 
 

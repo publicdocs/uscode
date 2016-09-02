@@ -15,15 +15,21 @@
 
 ## § 6103. Minimum standards for State one-call notification programs
 
-    (a)  __Minimum Standards__  __.—__ 
+    (a) __Minimum Standards.—__ 
 
-    In order to qualify for a grant under section 6106, a State one-call notification program shall, at a minimum, provide for—
+        (1)  __In general__  __.—__ 
 
-        (1) appropriate participation by all underground facility operators, including all government operators;
+        In order to qualify for a grant under section 6106, a State one-call notification program, at a minimum, shall provide for—
 
-        (2) appropriate participation by all excavators, including all government and contract excavators; and
+            (A) appropriate participation by all underground facility operators, including all government operators;
 
-        (3) flexible and effective enforcement under State law with respect to participation in, and use of, one-call notification systems.
+            (B) appropriate participation by all excavators, including all government and contract excavators; and
+
+            (C) flexible and effective enforcement under State law with respect to participation in, and use of, one-call notification systems.
+
+        (2)  __Exemptions prohibited__  __.—__ 
+
+        In order to qualify for a grant under section 6106, a State one-call notification program may not exempt municipalities, State agencies, or their contractors from the one-call notification system requirements of the program.
 
     (b)  __Appropriate Participation__  __.—__ 
 
@@ -59,24 +65,6 @@
 
 (Added [Pub. L. 105–178, title VII, § 7302(a)][/us/pl/105/178/s7302/a], June 9, 1998, [112 Stat. 479][/us/stat/112/479]; amended [Pub. L. 107–355, § 2(a)][/us/pl/107/355/s2/a], Dec. 17, 2002, [116 Stat. 2985][/us/stat/116/2985]; [Pub. L. 112–90, § 3(a)][/us/pl/112/90/s3/a], Jan. 3, 2012, [125 Stat. 1906][/us/stat/125/1906].)
 
- __Amendment of Subsection (a)__ 
-
-[Pub. L. 112–90, § 3(a)][/us/pl/112/90/s3/a], (c), Jan. 3, 2012, [125 Stat. 1906][/us/stat/125/1906], provided that, effective 2 years after Jan. 3, 2012, subsection (a) of this section is amended to read as follows:
-
-    (a) Minimum Standards.—
-
-    (1) In general.—In order to qualify for a grant under section 6106, a State one-call notification program, at a minimum, shall provide for—
-
-    (A) appropriate participation by all underground facility operators, including all government operators;
-
-    (B) appropriate participation by all excavators, including all government and contract excavators; and
-
-    (C) flexible and effective enforcement under State law with respect to participation in, and use of, one-call notification systems.
-
-    (2) Exemptions prohibited.—In order to qualify for a grant under section 6106, a State one-call notification program may not exempt municipalities, State agencies, or their contractors from the one-call notification system requirements of the program.
-
-    See 2012 Amendment note below.
-
  __Amendments__ 
 
     2012—Subsec. (a). [Pub. L. 112–90, § 3(a)][/us/pl/112/90/s3/a], amended subsec. (a) generally. Prior to amendment, text read as follows: “In order to qualify for a grant under section 6106, a State one-call notification program shall, at a minimum, provide for—
@@ -110,8 +98,6 @@
 [/us/stat/112/479]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F479
 [/us/pl/107/355/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F355%2Fs2%2Fa
 [/us/stat/116/2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2985
-[/us/pl/112/90/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs3%2Fa
-[/us/stat/125/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1906
 [/us/pl/112/90/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs3%2Fa
 [/us/stat/125/1906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1906
 [/us/pl/112/90/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F90%2Fs3%2Fa

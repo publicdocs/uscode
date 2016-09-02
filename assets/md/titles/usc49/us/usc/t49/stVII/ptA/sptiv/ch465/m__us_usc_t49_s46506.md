@@ -75,7 +75,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 902(k); added Sept. 5, 1961,
 
  __References in Text__ 
 
-    [Section 9 of the Act of July 29, 1892][/us/act/1892-07-29/s9], referred to in par. (2), is section 9 of [act July 29, 1892, ch. 320][/us/act/1892-07-29/ch320], [27 Stat. 324][/us/stat/27/324], as amended, which is not classified to the Code.
+    [Section 9 of the Act of July 29, 1892][/us/act/1892-07-29/s9], referred to in par. (2), is section 9 of [act July 29, 1892, ch. 320][/us/act/1892-07-29/ch320], [27 Stat. 324][/us/stat/27/324], as amended, which is not classified to the Code. Section 9 of the Act was reclassified to section 22-1312 of the D.C. Code (2014).
 
 ----------
 

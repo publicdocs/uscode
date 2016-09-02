@@ -335,7 +335,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
 >         “(1)  __In general__  __.—__ 
 
->         Except as provided under paragraph (2) and section 31505 \[set out as note below\], the Secretary shall issue a final rule under subsection (a) not later than 3 years after the date of enactment of this Act.
+>         Except as provided under paragraph (2) and section 31505 \[set out as a note below\], the Secretary shall issue a final rule under subsection (a) not later than 3 years after the date of enactment of this Act.
 
 >         “(2)  __Report__  __.—__ 
 
@@ -357,7 +357,7 @@ Dec. 18, 1991, Pub. L. 102–240, § 2508(f), 105 Stat. 2087.  </td>
 
 >         “(1)  __In general__  __.—__ 
 
->         Except as provided under paragraph (2) and section 31505 \[set out as note below\], the Secretary shall issue a final rule under subsection (a) not later than 3 years after the date of enactment of this Act.
+>         Except as provided under paragraph (2) and section 31505 \[set out as a note below\], the Secretary shall issue a final rule under subsection (a) not later than 3 years after the date of enactment of this Act.
 
 >         “(2)  __Report__  __.—__ 
 

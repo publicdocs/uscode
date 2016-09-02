@@ -141,7 +141,7 @@
 
     The Secretary shall establish uniform standards and requirements for regular safety assessments of air traffic control towers that receive funding under this section.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1276][/us/stat/108/1276]; [Pub. L. 106–181, title I, § 131][/us/pl/106/181/s131], Apr. 5, 2000, [114 Stat. 78][/us/stat/114/78]; [Pub. L. 108–7, div. I, title III, § 370(b)(1)][/us/pl/108/7/s370/b/1], (2), Feb. 20, 2003, [117 Stat. 425][/us/stat/117/425], 426; [Pub. L. 108–176, title I, § 105][/us/pl/108/176/s105], Dec. 12, 2003, [117 Stat. 2498][/us/stat/117/2498]; [Pub. L. 112–55, div. C, title I, § 119][/us/pl/112/55/s119], Nov. 18, 2011, [125 Stat. 649][/us/stat/125/649]; [Pub. L. 112–95, title I, § 147][/us/pl/112/95/s147], Feb. 14, 2012, [126 Stat. 30][/us/stat/126/30].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1276][/us/stat/108/1276]; [Pub. L. 106–181, title I, § 131][/us/pl/106/181/s131], Apr. 5, 2000, [114 Stat. 78][/us/stat/114/78]; [Pub. L. 108–7, div. I, title III, § 370(b)(1)][/us/pl/108/7/s370/b/1], (2), Feb. 20, 2003, [117 Stat. 425][/us/stat/117/425], 426; [Pub. L. 108–176, title I, § 105][/us/pl/108/176/s105], Dec. 12, 2003, [117 Stat. 2498][/us/stat/117/2498]; [Pub. L. 112–55, div. C, title I, § 119][/us/pl/112/55/s119], Nov. 18, 2011, [125 Stat. 649][/us/stat/125/649]; [Pub. L. 112–95, title I, § 147][/us/pl/112/95/s147], Feb. 14, 2012, [126 Stat. 30][/us/stat/126/30]; [Pub. L. 113–76, div. L, title I, § 118][/us/pl/113/76/s118], Jan. 17, 2014, [128 Stat. 581][/us/stat/128/581].)
 
 <table>
 
@@ -228,6 +228,8 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 747, § 303(h); added Oct. 31, 1992,
     In subsection (b)(2), the word “Secretary” is substituted for “Administrator” for consistency in the chapter.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(3)(D). [Pub. L. 113–76][/us/pl/113/76], which directed substitution of “benefit, with the maximum allowable local cost share capped at 20 percent.” for “benefit.”, could not be executed because of the prior amendment by [Pub. L. 112–55, § 119][/us/pl/112/55/s119]. See 2011 Amendment note below.
 
     2012—Subsec. (b)(1). [Pub. L. 112–95, § 147(a)(1)][/us/pl/112/95/s147/a/1], designated existing provisions as subpar. (A), inserted par. and subpar. headings, and added subpars. (B) and (C).
 
@@ -336,6 +338,10 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 747, § 303(h); added Oct. 31, 1992,
 [/us/stat/125/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F649
 [/us/pl/112/95/s147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs147
 [/us/stat/126/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F30
+[/us/pl/113/76/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs118
+[/us/stat/128/581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F581
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/112/55/s119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs119
 [/us/pl/112/95/s147/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs147%2Fa%2F1
 [/us/pl/112/95/s147/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs147%2Fa%2F2
 [/us/pl/112/95/s147/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs147%2Fb

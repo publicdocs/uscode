@@ -97,7 +97,7 @@ Oct. 15, 1966, Pub. L. 89–670, § 4(a), 80 Stat. 933.  </td>
 
     Pars. (7), (8). [Pub. L. 102–240, § 5002(a)][/us/pl/102/240/s5002/a], redesignated pars. (6) and (7) as (7) and (8), respectively.
 
- __Public-private Partnerships__ 
+ __Public-Private Partnerships__ 
 
 [Pub. L. 112–141, div. A, title I, § 1534][/us/pl/112/141/s1534], July 6, 2012, [126 Stat. 584][/us/stat/126/584], provided that:
 

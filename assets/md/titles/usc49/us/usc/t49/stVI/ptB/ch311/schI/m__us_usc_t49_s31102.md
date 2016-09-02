@@ -263,7 +263,7 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, § 402(e); added Dec. 18, 1991,
 
     Subsec. (b)(2)(I). [Pub. L. 112–141, § 32601(a)(4)(A)][/us/pl/112/141/s32601/a/4/A], substituted “demonstrate” for “make a declaration of”.
 
-    Subsec. (b)(2)(M). [Pub. L. 112–141, § 32601(a)(4)(B)][/us/pl/112/141/s32601/a/4/B], amended subpar. (M) generally. Prior to amendment, subpar. (M) read as follows: “ensures participation in SAFETYNET and other information systems by all appropriate jurisdictions receiving funding under this section;”
+    Subsec. (b)(2)(M). [Pub. L. 112–141, § 32601(a)(4)(B)][/us/pl/112/141/s32601/a/4/B], amended subpar. (M) generally. Prior to amendment, subpar. (M) read as follows: “ensures participation in SAFETYNET and other information systems by all appropriate jurisdictions receiving funding under this section;”.
 
     Subsec. (b)(2)(Q). [Pub. L. 112–141, § 32601(a)(4)(C)][/us/pl/112/141/s32601/a/4/C], inserted “and dedicated sufficient resources to” after “has established”.
 
