@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t27/ch2/m__us_usc_t27_s63a to 63d.md) | [Next](./../../../..//us/usc/t27/ch2A/m__us_usc_t27_ch2A.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs64)
+[Previous](./../../../..//us/usc/t27/ch2/m__us_usc_t27_s63.md) | [Next](./../../../..//us/usc/t27/ch2A/m__us_usc_t27_ch2A.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs64)
 
 ## § 64. Repealed. [Aug. 27, 1935, ch. 740][/us/act/1935-08-27/ch740], title I, § 1, [49 Stat. 872][/us/stat/49/872]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t27/ch2/m__us_usc_t27_s63a to 63d.md) | [Next](./../../../..//us/usc/t27/ch2A/m__us_usc_t27_ch2A.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs64)
+[Previous](./../../../..//us/usc/t27/ch2/m__us_usc_t27_s63.md) | [Next](./../../../..//us/usc/t27/ch2A/m__us_usc_t27_ch2A.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs64)
 
 ----------
 ----------

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s202a, 202b.md) | [Next](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s203.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs202c)
+[Previous](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s202.md) | [Next](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s203.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs202c)
 
 ## § 202c. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s202a, 202b.md) | [Next](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s203.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs202c)
+[Previous](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s202.md) | [Next](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s203.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs202c)
 
 ----------
 ----------

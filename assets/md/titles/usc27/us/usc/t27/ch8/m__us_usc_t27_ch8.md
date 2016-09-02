@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t27/ch7/m__us_usc_t27_s151 to 167.md) | [Next](./../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_ch8_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fch8)
+[Previous](./../../../..//us/usc/t27/ch7/m__us_usc_t27_ch7.md) | [Next](./../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_ch8_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fch8)
 
 ## CHAPTER 8—FEDERAL ALCOHOL ADMINISTRATION ACT
 
@@ -33,7 +33,7 @@ SUBCHAPTER I—FEDERAL ALCOHOL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs201" data-uslm-ref="/us/usc/t27/s201">201.</a>  </td>
 
     <td> Short title.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—FEDERAL ALCOHOL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs202" data-uslm-ref="/us/usc/t27/s202">202.</a>  </td>
 
     <td> General provisions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—FEDERAL ALCOHOL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 202a to 202c.   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs202a" data-uslm-ref="/us/usc/t27/s202a">202a</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs202c" data-uslm-ref="/us/usc/t27/s202c">202c.</a>  </td>
 
     <td> Repealed or Omitted.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—FEDERAL ALCOHOL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs203" data-uslm-ref="/us/usc/t27/s203">203.</a>  </td>
 
     <td> Unlawful businesses without permit; application to State agency.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—FEDERAL ALCOHOL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs204" data-uslm-ref="/us/usc/t27/s204">204.</a>  </td>
 
     <td> Permits.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—FEDERAL ALCOHOL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs205" data-uslm-ref="/us/usc/t27/s205">205.</a>  </td>
 
     <td> Unfair competition and unlawful practices.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—FEDERAL ALCOHOL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 206.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs206" data-uslm-ref="/us/usc/t27/s206">206.</a>  </td>
 
     <td> Bulk sales and bottling.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—FEDERAL ALCOHOL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 207.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs207" data-uslm-ref="/us/usc/t27/s207">207.</a>  </td>
 
     <td> Penalties; jurisdiction; compromise of liability.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER I—FEDERAL ALCOHOL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 208.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs208" data-uslm-ref="/us/usc/t27/s208">208.</a>  </td>
 
     <td> Interlocking directorates.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER I—FEDERAL ALCOHOL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 209, 210.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs209" data-uslm-ref="/us/usc/t27/s209">209</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs210" data-uslm-ref="/us/usc/t27/s210">210.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER I—FEDERAL ALCOHOL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 211.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs211" data-uslm-ref="/us/usc/t27/s211">211.</a>  </td>
 
     <td> Miscellaneous provisions.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER I—FEDERAL ALCOHOL ADMINISTRATION  </td>
 
   <tr>
 
-    <td> 212.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs212" data-uslm-ref="/us/usc/t27/s212">212.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—ALCOHOLIC BEVERAGE LABELING  </td>
 
   <tr>
 
-    <td> 213.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs213" data-uslm-ref="/us/usc/t27/s213">213.</a>  </td>
 
     <td> Declaration of policy and purpose.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—ALCOHOLIC BEVERAGE LABELING  </td>
 
   <tr>
 
-    <td> 214.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs214" data-uslm-ref="/us/usc/t27/s214">214.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—ALCOHOLIC BEVERAGE LABELING  </td>
 
   <tr>
 
-    <td> 215.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs215" data-uslm-ref="/us/usc/t27/s215">215.</a>  </td>
 
     <td> Labeling requirement.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—ALCOHOLIC BEVERAGE LABELING  </td>
 
   <tr>
 
-    <td> 216.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs216" data-uslm-ref="/us/usc/t27/s216">216.</a>  </td>
 
     <td> Preemption.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—ALCOHOLIC BEVERAGE LABELING  </td>
 
   <tr>
 
-    <td> 217.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs217" data-uslm-ref="/us/usc/t27/s217">217.</a>  </td>
 
     <td> Report to Congress.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER II—ALCOHOLIC BEVERAGE LABELING  </td>
 
   <tr>
 
-    <td> 218.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs218" data-uslm-ref="/us/usc/t27/s218">218.</a>  </td>
 
     <td> Civil penalties.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER II—ALCOHOLIC BEVERAGE LABELING  </td>
 
   <tr>
 
-    <td> 219.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs219" data-uslm-ref="/us/usc/t27/s219">219.</a>  </td>
 
     <td> Injunction proceedings; compromise of liability.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER II—ALCOHOLIC BEVERAGE LABELING  </td>
 
   <tr>
 
-    <td> 219a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft27%2Fs219a" data-uslm-ref="/us/usc/t27/s219a">219a.</a>  </td>
 
     <td> Severability.  </td>
 
@@ -203,7 +203,7 @@ SUBCHAPTER II—ALCOHOLIC BEVERAGE LABELING  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t27/ch7/m__us_usc_t27_s151 to 167.md) | [Next](./../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_ch8_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fch8)
+[Previous](./../../../..//us/usc/t27/ch7/m__us_usc_t27_ch7.md) | [Next](./../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_ch8_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fch8)
 
 ----------
 ----------

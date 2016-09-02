@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s209, 210.md) | [Next](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s212.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs211)
+[Previous](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s208.md) | [Next](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s212.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs211)
 
 ## § 211. Miscellaneous provisions
 
@@ -63,7 +63,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s209, 210.md) | [Next](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s212.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs211)
+[Previous](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s208.md) | [Next](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s212.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs211)
 
 ----------
 ----------

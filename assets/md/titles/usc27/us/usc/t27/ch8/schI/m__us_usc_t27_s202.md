@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s201.md) | [Next](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s202a, 202b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs202)
+[Previous](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s201.md) | [Next](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s202c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs202)
 
 ## § 202. General provisions
 
@@ -43,9 +43,15 @@
 
     1946—Subsec. (i). Act Aug. 7, 1946, struck out subsec. (i) which related to reports to Congress by the Secretary of the Treasury with respect to the administration of the functions charged to the Secretary under this chapter.
 
+§§ 202a, 202b. __Repealed.__  __[__  __Pub. L. 89–554, § 8(a)__  __][/us/pl/89/554/s8/a]__  __,__  __Sept. 6, 1966__  __,__  __[__  __80 Stat. 649__  __][/us/stat/80/649]__ 
+
+    Section 202a, [act June 26, 1936, ch. 830][/us/act/1936-06-26/ch830], title V, § 501, [49 Stat. 1964][/us/stat/49/1964], established the Federal Alcohol Administration, and provided for appointment, duties, and pay of its employees.
+
+    Section 202b, [act June 26, 1936, ch. 830][/us/act/1936-06-26/ch830], title V, § 502, [49 Stat. 1964][/us/stat/49/1964], provided for appointment, pay, tenure, and powers of members of the Federal Alcohol Administration.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s201.md) | [Next](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s202a, 202b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs202)
+[Previous](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s201.md) | [Next](./../../../../..//us/usc/t27/ch8/schI/m__us_usc_t27_s202c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs202)
 
 ----------
 ----------
@@ -60,5 +66,11 @@
 [/us/act/1936-06-26/ch830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch830
 [/us/stat/49/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1964
 [/us/usc/t27/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft27%2Fs201
+[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/stat/80/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F649
+[/us/act/1936-06-26/ch830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch830
+[/us/stat/49/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1964
+[/us/act/1936-06-26/ch830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1936-06-26%2Fch830
+[/us/stat/49/1964]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1964
 
 

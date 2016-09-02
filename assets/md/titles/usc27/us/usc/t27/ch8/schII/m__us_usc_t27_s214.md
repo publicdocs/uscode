@@ -15,7 +15,7 @@
 
 ## § 214. Definitions
 
-As used in this subchapter—
+    As used in this subchapter—
 
     (1) The term “alcoholic beverage” includes any beverage in liquid form which contains not less than one-half of one percent of alcohol by volume and is intended for human consumption.
 
