@@ -55,7 +55,7 @@
 
 >     “(e)  __Conforming Amendments__  __.—__ 
 
->     \[Amended section 292o of this title.\]
+>     \[Amended section 292o of this title.\]”
 
  __Study on Effectiveness of Health Professions Programs__ 
 

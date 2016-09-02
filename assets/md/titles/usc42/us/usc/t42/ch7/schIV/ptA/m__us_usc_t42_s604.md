@@ -251,7 +251,7 @@
 
     [Section 2471 of title 20][/us/usc/t20/s2471], referred to in subsec. (h)(5)(A)(ii), was omitted in the general amendment of chapter 44 (§ 2301 et seq.) of Title 20, Education, by [Pub. L. 105–332, § 1(b)][/us/pl/105/332/s1/b], Oct. 31, 1998, [112 Stat. 3076][/us/stat/112/3076].
 
-    Section 2012(l) of title 7, referred to in subsecs. (i) and (j), is section 3(l) of the Food and Nutrition Act of 2008, which is [Pub. L. 88–525][/us/pl/88/525], Aug. 31, 1964, [78 Stat. 703][/us/stat/78/703], which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. Section 3(l) of this Act was struck out by [Pub. L. 113–79, title IV, § 4030(a)(3)][/us/pl/113/79/s4030/a/3], Feb. 7, 2014, [128 Stat. 813][/us/stat/128/813], and provisions similar to those in former subsec. (l) are now contained in section 3(t) of this Act, classified to [section 2012(t) of Title 7][/us/usc/t7/s2012/t].
+    Section 2012(l) of title 7, referred to in subsecs. (i) and (j), was struck out, and a new [section 2012(t) of title 7][/us/usc/t7/s2012/t] similarly defining “supplemental nutrition assistance program” was enacted, by [Pub. L. 113–79, title IV, § 4030(a)(3)][/us/pl/113/79/s4030/a/3], (5), Feb. 7, 2014, [128 Stat. 813][/us/stat/128/813].
 
     Section 3037 of the Transportation Equity Act for the 21st Century, referred to in subsec. (k)(1), (3), is [section 3037 of Pub. L. 105–178][/us/pl/105/178/s3037], title III, June 9, 1998, [112 Stat. 387][/us/stat/112/387], which was formerly set out as a note under [section 5309 of Title 49][/us/usc/t49/s5309], Transportation, and was repealed by [Pub. L. 109–59, title III, § 3018(c)][/us/pl/109/59/s3018/c], Aug. 10, 2005, [119 Stat. 1605][/us/stat/119/1605], effective Oct. 1, 2005.
 
@@ -867,11 +867,9 @@
 [/us/usc/t20/s2471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2471
 [/us/pl/105/332/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F332%2Fs1%2Fb
 [/us/stat/112/3076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3076
-[/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
-[/us/stat/78/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F703
+[/us/usc/t7/s2012/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Ft
 [/us/pl/113/79/s4030/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fa%2F3
 [/us/stat/128/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F813
-[/us/usc/t7/s2012/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Ft
 [/us/pl/105/178/s3037]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178%2Fs3037
 [/us/stat/112/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F387
 [/us/usc/t49/s5309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5309

@@ -67,7 +67,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    [Pub. L. 113–76, div. H, title V, § 525(e)][/us/pl/113/76/s525/e], Jan. 17, 2014, [128 Stat. 413][/us/stat/128/413], provided in part that the amendment made by section 525(e) is effective as of the date on which the transfer of the HEAL program under subsection (a) \[subsec. (a) of [section 525 of Pub. L. 113–76][/us/pl/113/76/s525], set out as a note under [section 292 of this title][/us/usc/t42/s292]\] takes effect \[no later than the end of the first fiscal quarter that begins after Jan. 17, 2014\].
+    [Pub. L. 113–76, div. H, title V, § 525(e)][/us/pl/113/76/s525/e], Jan. 17, 2014, [128 Stat. 413][/us/stat/128/413], provided in part that the amendment made by section 525(e) is effective as of the date on which the transfer of the HEAL program under subsec. (a) of [section 525 of Pub. L. 113–76][/us/pl/113/76/s525], set out as a note under [section 292 of this title][/us/usc/t42/s292], takes effect \[no later than the end of the first fiscal quarter that begins after Jan. 17, 2014\].
 
 ----------
 

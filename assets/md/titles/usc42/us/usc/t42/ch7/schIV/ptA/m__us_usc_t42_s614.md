@@ -17,8 +17,6 @@
 
     Section, [Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 414, as added [Pub. L. 104–193, title I, § 103(a)(1)][/us/pl/104/193/s103/a/1], Aug. 22, 1996, [110 Stat. 2156][/us/stat/110/2156]; amended [Pub. L. 105–33, title V, § 5514(c)][/us/pl/105/33/s5514/c], Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620]; [Pub. L. 108–40, § 3(i)][/us/pl/108/40/s3/i], June 30, 2003, [117 Stat. 837][/us/stat/117/837]; [Pub. L. 112–96, title IV, § 4002(f)][/us/pl/112/96/s4002/f], Feb. 22, 2012, [126 Stat. 195][/us/stat/126/195], related to a study by the Census Bureau.
 
- __Prior Provisions__ 
-
     A prior section 614, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 414, as added Aug. 13, 1981, [Pub. L. 97–35, title XXIII, § 2308][/us/pl/97/35/s2308], [95 Stat. 848][/us/stat/95/848]; amended July 18, 1984, [Pub. L. 98–369, div. B, title VI][/us/pl/98/369], §§ 2638(a), 2663(c)(7)(A), [98 Stat. 1143][/us/stat/98/1143], 1166, related to work supplementation program, prior to repeal by [Pub. L. 100–485, title II][/us/pl/100/485], §§ 202(b)(13), 204(a), (b)(1)(A), Oct. 13, 1988, [102 Stat. 2378][/us/stat/102/2378], 2381, effective Oct. 1, 1990, with provision for earlier effective dates in case of States making certain changes in their State plans and formally notifying the Secretary of Health and Human Services of their desire to become subject to the amendments by title II of [Pub. L. 100–485][/us/pl/100/485], at such earlier effective dates.
 
 ----------

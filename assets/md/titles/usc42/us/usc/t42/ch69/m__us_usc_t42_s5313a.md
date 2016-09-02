@@ -27,9 +27,9 @@
 
     Section was enacted as part of the Disaster Relief and Recovery Supplemental Appropriations Act, 2008, and also as part of the Consolidated Security, Disaster Assistance, and Continuing Appropriations Act, 2009, and not as part of the Housing and Community Development Act of 1974 which comprises this chapter.
 
- __Prior Provisions__ 
+ __Similar Provisions__ 
 
-Prior similar provisions were contained in the following prior appropriation acts:
+Similar provisions were contained in the following prior appropriation acts:
 
     [Pub. L. 110–252, title III][/us/pl/110/252], June 30, 2008, [122 Stat. 2353][/us/stat/122/2353]; [Pub. L. 113–76, div. L, title II, § 236][/us/pl/113/76/s236], Jan. 17, 2014, [128 Stat. 635][/us/stat/128/635].
 

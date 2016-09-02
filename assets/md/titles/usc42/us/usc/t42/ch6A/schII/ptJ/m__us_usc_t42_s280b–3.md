@@ -31,7 +31,7 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–196][/us/pl/113/196] substituted “Authorization of appropriations” for “Authorizations of appropriations” in section catchline, designated existing provisions as subsec. (a), inserted heading, struck out second period at end, and added subsec. (b).
+    2014—[Pub. L. 113–196][/us/pl/113/196] substituted “Authorization of appropriations” for “Authorizations of appropriations” in section catchline; designated existing provisions as subsec. (a), inserted heading, and struck out second period at end; and added subsec. (b).
 
     2000—[Pub. L. 106–310][/us/pl/106/310], which directed the amendment of this section by striking out “and” after “1994”, was executed by striking “and” after “1994,” to reflect the probable intent of Congress.
 

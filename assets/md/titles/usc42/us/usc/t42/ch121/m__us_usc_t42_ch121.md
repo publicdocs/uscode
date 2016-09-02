@@ -15,6 +15,24 @@
 
 ## CHAPTER 121—INTERNATIONAL CHILD ABDUCTION REMEDIES
 
+<table>
+
+  <tr>
+
+    <td> Sec.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11601" data-uslm-ref="/us/usc/t42/s11601">11601</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs11611" data-uslm-ref="/us/usc/t42/s11611">11611.</a>  </td>
+
+    <td> Transferred or Repealed.  </td>
+
+  </tr>
+
+</table>
+
 §§ 11601 to 11610. __Transferred__ 
 
  __Codification__ 

@@ -137,9 +137,9 @@
 
  __Amendment of Subsection (b)(8)__ 
 
-    [Pub. L. 113–183, title I, § 112(a)(2)][/us/pl/113/183/s112/a/2], (3), (c), Sept. 29, 2014, [128 Stat. 1926][/us/stat/128/1926], 1928, provided that, effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, and in the case of children in foster care under the responsibility of an Indian tribe, tribal organization, or tribal consortium (either directly or under supervision of a State), not applicable until the date that is 3 years after Sept. 29, 2014, subsection (b)(8)(A)(iii)(II) of this section is amended by inserting “, subject to the requirements of sections 675(5)(C) and 675a(a) of this title” after “arrangement”. See 2014 Amendment notes below.
+    [Pub. L. 113–183, title I, § 112(b)(2)(A)(i)][/us/pl/113/183/s112/b/2/A/i], (c), Sept. 29, 2014, [128 Stat. 1927][/us/stat/128/1927], 1928, provided that, effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, subsection (b)(8)(A)(ii) of this section is amended by inserting “and in accordance with the requirements of [section 675a of this title][/us/usc/t42/s675a]” after “[section 675(5) of this title][/us/usc/t42/s675/5]”. See 2014 Amendment note below.
 
-    [Pub. L. 113–183, title I, § 112(b)(2)(A)(i)][/us/pl/113/183/s112/b/2/A/i], (c), Sept. 29, 2014, [128 Stat. 1927][/us/stat/128/1927], 1928, provided that, effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, subsection (b)(8)(A)(ii) of this section is amended by inserting “and in accordance with the requirements of [section 675a of this title][/us/usc/t42/s675a]” after “[section 675(5) of this title][/us/usc/t42/s675/5]”. See 2014 Amendment notes below.
+    [Pub. L. 113–183, title I, § 112(a)(2)][/us/pl/113/183/s112/a/2], (3), (c), Sept. 29, 2014, [128 Stat. 1926][/us/stat/128/1926], 1928, provided that, effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, and in the case of children in foster care under the responsibility of an Indian tribe, tribal organization, or tribal consortium (either directly or under supervision of a State), not applicable until the date that is 3 years after Sept. 29, 2014, subsection (b)(8)(A)(iii)(II) of this section is amended by inserting “, subject to the requirements of sections 675(5)(C) and 675a(a) of this title” after “arrangement”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -497,12 +497,12 @@
 [/us/stat/125/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F369
 [/us/pl/113/183/s112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fa%2F2
 [/us/stat/128/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1926
-[/us/pl/113/183/s112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fa%2F2
-[/us/stat/128/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1926
 [/us/pl/113/183/s112/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fb%2F2%2FA%2Fi
 [/us/stat/128/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1927
 [/us/usc/t42/s675a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675a
 [/us/usc/t42/s675/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs675%2F5
+[/us/pl/113/183/s112/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fa%2F2
+[/us/stat/128/1926]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1926
 [/us/pl/96/272/s103/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs103%2Fd
 [/us/pl/95/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F608
 [/us/stat/92/3069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3069

@@ -273,55 +273,51 @@
 
 >         The term ‘oilheat fuel industry’ means—
 
->     “(i) persons in the production, transportation, or sale of oilheat fuel; and
+>             “(i) persons in the production, transportation, or sale of oilheat fuel; and
 
->     “(ii)
-
->      persons engaged in the manufacture or distribution of oilheat fuel utilization equipment.
+>             “(ii) persons engaged in the manufacture or distribution of oilheat fuel utilization equipment.
 
 >         “(B)  __Exclusion__  __.—__ 
 
 >         The term ‘oilheat fuel industry’ does not include ultimate consumers of oilheat fuel.
 
->         “(10)  __Public member__  __.—__ 
+>     “(10)  __Public member__  __.—__ 
 
->         The term ‘public member’ means a member of the Alliance described in section 705(c)(1)(F).
+>     The term ‘public member’ means a member of the Alliance described in section 705(c)(1)(F).
 
->         “(11)  __Qualified industry organization__  __.—__ 
+>     “(11)  __Qualified industry organization__  __.—__ 
 
->         The term ‘qualified industry organization’ means the National Association for Oilheat Research and Education or a successor organization.
+>     The term ‘qualified industry organization’ means the National Association for Oilheat Research and Education or a successor organization.
 
->         “(12)  __Qualified state association__  __.—__ 
+>     “(12)  __Qualified state association__  __.—__ 
 
->         The term ‘qualified State association’ means the industry trade association or other organization that the qualified industry organization or the Alliance determines best represents retail marketers in a State.
+>     The term ‘qualified State association’ means the industry trade association or other organization that the qualified industry organization or the Alliance determines best represents retail marketers in a State.
 
->         “(13)  __Retail marketer__  __.—__ 
+>     “(13)  __Retail marketer__  __.—__ 
 
->         The term ‘retail marketer’ means a person engaged primarily in the sale of oilheat fuel to ultimate consumers.
+>     The term ‘retail marketer’ means a person engaged primarily in the sale of oilheat fuel to ultimate consumers.
 
->         “(14)  __Secretary__  __.—__ 
+>     “(14)  __Secretary__  __.—__ 
 
->         The term ‘Secretary’ means the Secretary of Energy.
+>     The term ‘Secretary’ means the Secretary of Energy.
 
->         “(15)  __Wholesale distributor__  __.—__ 
+>     “(15)  __Wholesale distributor__  __.—__ 
 
->         The term ‘wholesale distributor’ means a person that—
+>     The term ‘wholesale distributor’ means a person that—
 
->             “(A)
+>         “(A)
 
->                 (i) produces No. 1 distillate or No. 2 dyed distillate;
+>             (i) produces No. 1 distillate or No. 2 dyed distillate;
 
->     “(ii) imports No. 1 distillate or No. 2 dyed distillate; or
+>             “(ii) imports No. 1 distillate or No. 2 dyed distillate; or
 
->     “(iii)
-
->      transports No. 1 distillate or No. 2 dyed distillate across State boundaries or among local marketing areas; and
+>             “(iii) transports No. 1 distillate or No. 2 dyed distillate across State boundaries or among local marketing areas; and
 
 >         “(B) sells the distillate to another person that does not produce, import, or transport No. 1 distillate or No. 2 dyed distillate across State boundaries or among local marketing areas.
 
->         “(16)  __State__  __.—__ 
+>     “(16)  __State__  __.—__ 
 
->         The term ‘State’ means the several States, except the State of Alaska.
+>     The term ‘State’ means the several States, except the State of Alaska.
 
 > “SEC. 704. __REFERENDA.__ 
 

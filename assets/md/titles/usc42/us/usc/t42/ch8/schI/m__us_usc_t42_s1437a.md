@@ -163,7 +163,7 @@
 
             (C)
 
-             The term extremely low-income families  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “extremely low-income families”. </sup></sup>  means very low-income families whose incomes do not exceed the higher of—
+             The term extremely low-income families  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “ ‘extremely low-income families’ ”. </sup></sup>  means very low-income families whose incomes do not exceed the higher of—
 
                 (i) the poverty guidelines updated periodically by the Department of Health and Human Services under the authority of [section 9902(2) of this title][/us/usc/t42/s9902/2] applicable to a family of the size involved (except that this clause shall not apply in the case of public housing agencies or projects located in Puerto Rico or any other territory or possession of the United States); or
 
@@ -451,7 +451,7 @@
 
     [Pub. L. 113–76, § 210(2)][/us/pl/113/76/s210/2], inserted concluding provisions and struck out former concluding provisions, which read as follows: “The rental amount for a dwelling unit shall be considered to comply with the requirements of this clause if such amount does not exceed the actual monthly costs to the public housing agency attributable to providing and operating the dwelling unit. The preceding sentence may not be construed to require establishment of rental amounts equal to or based on operating costs or to prevent public housing agencies from developing flat rents required under this clause in any other manner that may comply with this clause.”
 
-    [Pub. L. 113–76, § 210(1)][/us/pl/113/76/s210/1], substtituted “Each” for “Except as otherwise provided under this clause, each” and inserted “not be lower than 80 percent of the applicable fair market rental established under [section 1437f(c) of this title][/us/usc/t42/s1437f/c] and which shall” after “which shall”.
+    [Pub. L. 113–76, § 210(1)][/us/pl/113/76/s210/1], in introductory provisions, substituted “Each” for “Except as otherwise provided under this clause, each” and inserted “not be lower than 80 percent of the applicable fair market rental established under [section 1437f(c) of this title][/us/usc/t42/s1437f/c] and which shall” after “which shall”.
 
     Subsec. (a)(2)(B)(i)(II). [Pub. L. 113–235, § 238(2)][/us/pl/113/235/s238/2], inserted “shall” before “be designed”.
 

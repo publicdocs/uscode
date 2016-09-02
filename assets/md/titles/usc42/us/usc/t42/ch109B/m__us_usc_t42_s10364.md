@@ -139,7 +139,7 @@
 
         There is authorized to be appropriated to carry out this section $300,000,000, to remain available until expended.
 
-([Pub. L. 111–11, title IX, § 9504][/us/pl/111/11/s9504], Mar. 30, 2009, [123 Stat. 1334][/us/stat/123/1334];[Pub. L. 113–235, div. D, title II, § 203][/us/pl/113/235/s203], Dec. 16, 2014, [128 Stat. 2311][/us/stat/128/2311].)
+([Pub. L. 111–11, title IX, § 9504][/us/pl/111/11/s9504], Mar. 30, 2009, [123 Stat. 1334][/us/stat/123/1334]; [Pub. L. 113–235, div. D, title II, § 203][/us/pl/113/235/s203], Dec. 16, 2014, [128 Stat. 2311][/us/stat/128/2311].)
 
  __References in Text__ 
 

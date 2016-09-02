@@ -151,6 +151,12 @@
 
     Amendment by [Pub. L. 86–70][/us/pl/86/70] effective Jan. 3, 1959, see [section 47(d) of Pub. L. 86–70][/us/pl/86/70/s47/d].
 
+ __Short Title of 2015 Amendment__ 
+
+[Pub. L. 114–45, § 1][/us/pl/114/45/s1], Aug. 7, 2015, [129 Stat. 473][/us/stat/129/473], provided that: 
+
+> “This Act \[enacting [section 300j–19 of this title][/us/usc/t42/s300j–19]\] may be cited as the ‘Drinking Water Protection Act’.”
+
  __Short Title of 2014 Amendment__ 
 
 [Pub. L. 113–265, § 1][/us/pl/113/265/s1], Dec. 18, 2014, [128 Stat. 2942][/us/stat/128/2942], provided that: 
@@ -1555,6 +1561,9 @@ Act June 16, 1948, § 1, [62 Stat. 464][/us/stat/62/464], provided that:
 [/us/usc/t33/s466j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs466j
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/pl/86/70/s47/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs47%2Fd
+[/us/pl/114/45/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F45%2Fs1
+[/us/stat/129/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F473
+[/us/usc/t42/s300j–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300j%E2%80%9319
 [/us/pl/113/265/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F265%2Fs1
 [/us/stat/128/2942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2942
 [/us/usc/t42/s280m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280m

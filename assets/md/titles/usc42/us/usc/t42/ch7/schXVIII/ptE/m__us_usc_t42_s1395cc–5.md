@@ -129,7 +129,7 @@
 
         (1) __Starting date__ 
 
-            The demonstration program shall begin no later than January 1, 2012. An agreement with an independence at home medical practice under the demonstration program may cover not more than a 3-year period.
+            The demonstration program shall begin no later than January 1, 2012. An agreement with an independence at home medical practice under the demonstration program may cover not more than a 5-year period.
 
         (2) __No physician duplication in demonstration participation__ 
 
@@ -193,11 +193,15 @@
 
             The Secretary may terminate an agreement with an independence at home medical practice for such other reasons determined appropriate by the Secretary.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1866E, formerly § 1866D, as added and renumbered § 1866E, [Pub. L. 111–148, title III, § 3024][/us/pl/111/148/s3024], title X, § 10308(b)(2), Mar. 23, 2010, [124 Stat. 404][/us/stat/124/404], 942.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1866E, formerly § 1866D, as added and renumbered § 1866E, [Pub. L. 111–148, title III, § 3024][/us/pl/111/148/s3024], title X, § 10308(b)(2), Mar. 23, 2010, [124 Stat. 404][/us/stat/124/404], 942; amended [Pub. L. 114–39, § 2][/us/pl/114/39/s2], July 30, 2015, [129 Stat. 440][/us/stat/129/440].)
 
  __References in Text__ 
 
     Parts A, B, and C, referred to in subsecs. (c) and (d)(1)(A), (B), are classified to sections 1395c et seq., 1395j et seq., and 1395w–21 et seq., respectively, of this title.
+
+ __Amendments__ 
+
+    2015—Subsec. (e)(1). [Pub. L. 114–39][/us/pl/114/39] substituted “5-year” for “3-year”.
 
 ----------
 
@@ -215,5 +219,8 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/111/148/s3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3024
 [/us/stat/124/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F404
+[/us/pl/114/39/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F39%2Fs2
+[/us/stat/129/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F440
+[/us/pl/114/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F39
 
 

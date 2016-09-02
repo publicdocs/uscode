@@ -231,7 +231,7 @@
 
                 (i) __Liquor store__ 
 
-                    The term “liquor store” means any retail establishment which sells exclusively or primarily intoxicating liquor. Such term does not include a grocery store which sells both intoxicating liquor and groceries including staple foods (within the meaning of section 3(r) of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012(r)][/us/usc/t7/s2012/r])  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> ).
+                    The term “liquor store” means any retail establishment which sells exclusively or primarily intoxicating liquor. Such term does not include a grocery store which sells both intoxicating liquor and groceries including staple foods (within the meaning of section 3(r) of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012(r)][/us/usc/t7/s2012/r])). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
                 (ii) __Casino, gambling casino, or gaming establishment__ 
 

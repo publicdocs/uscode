@@ -183,7 +183,7 @@
 
     (12)
 
-  <sup>\[3\]</sup>  <sup><sup> 3 So in original. See Amendment of Section notes below. </sup></sup>  The term “sibling” means an individual who satisfies at least one of the following conditions with respect to a child:
+  <sup>\[3\]</sup>  <sup><sup> 3 For text of pars. (10) and (11), see paragraph (3) of Amendment of Section note below. </sup></sup>  The term “sibling” means an individual who satisfies at least one of the following conditions with respect to a child:
 
         (A) The individual is considered by State law to be a sibling of the child.
 
@@ -209,7 +209,7 @@
 
     (2) in paragraph (5)—
 
-    (A) in subparagraph (B), by adding at the end the following “and, for a child for whom another planned permanent living arrangement has been determined as the permanency plan, the steps the State agency is taking to ensure the child’s foster family home or child care institution is following the reasonable and prudent parent standard and to ascertain whether the child has regular, ongoing opportunities to engage in age or developmentally appropriate activities (including by consulting with the child in an age-appropriate manner about the opportunities of the child to participate in the activities);”; and
+    (A) in subparagraph (B), by adding at the end the following “and, for a child for whom another planned permanent living arrangement has been determined as the permanency plan, the steps the State agency is taking to ensure the child’s foster family home or child care institution is following the reasonable and prudent parent standard and to ascertain whether the child has regular, ongoing opportunities to engage in age or developmentally appropriate activities (including by consulting with the child in an age-appropriate manner about the opportunities of the child to participate in the activities);”;
 
     (B) in subparagraph (C)—
 
@@ -253,7 +253,7 @@
 
     See 2014 Amendment notes below.
 
-    [Pub. L. 113–183, title I, § 112(a)(1)][/us/pl/113/183/s112/a/1], (3), (c), Sept. 29, 2014, [128 Stat. 1926][/us/stat/128/1926], 1928, provided that, effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, and in the case of children in foster care under the responsibility of an Indian tribe, tribal organization, or tribal consortium (either directly or under supervision of a State), not applicable until the date that is 3 years after Sept. 29, 2014, paragraph (5)(C)(i) of this section is amended by inserting “only in the case of a child who has attained 16 years of age” before “(in cases where”. See 2014 Amendment notes below.
+    [Pub. L. 113–183, title I, § 112(a)(1)][/us/pl/113/183/s112/a/1], (3), (c), Sept. 29, 2014, [128 Stat. 1926][/us/stat/128/1926], 1928, provided that, effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, and in the case of children in foster care under the responsibility of an Indian tribe, tribal organization, or tribal consortium (either directly or under supervision of a State), not applicable until the date that is 3 years after Sept. 29, 2014, paragraph (5)(C)(i) of this section is amended by inserting “only in the case of a child who has attained 16 years of age” before “(in cases where”. See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -275,7 +275,7 @@
 
     [Pub. L. 113–183, § 113(b)(2)(A)(i)][/us/pl/113/183/s113/b/2/A/i], substituted “14” for “16”.
 
-    [Pub. L. 113–183, § 112(b)(2)(B)(ii)(II)][/us/pl/113/183/s112/b/2/B/ii/II], inserted “, as of the date of the hearing,” after “compelling reason for determining” and “subject to [section 675a(a) of this title][/us/usc/t42/s675a/a],” after “another planned permanent living arrangement,”
+    [Pub. L. 113–183, § 112(b)(2)(B)(ii)(II)][/us/pl/113/183/s112/b/2/B/ii/II], inserted “, as of the date of the hearing,” after “compelling reason for determining” and “subject to [section 675a(a) of this title][/us/usc/t42/s675a/a],” after “another planned permanent living arrangement,”.
 
     [Pub. L. 113–183, § 112(a)(1)][/us/pl/113/183/s112/a/1], inserted “only in the case of a child who has attained 16 years of age” before “(in cases where”.
 
@@ -283,7 +283,7 @@
 
     Par. (5)(C)(iv). [Pub. L. 113–183, § 113(b)(2)(A)(ii)][/us/pl/113/183/s113/b/2/A/ii], (iii), added cl. (iv).
 
-    Par. (5)(I). [Pub. L. 113–183, § 114(a)][/us/pl/113/183/s114/a], substituted “receives assistance” for “and receives assistance” and inserted before the period at end “, and, if the child is leaving foster care by reason of having attained 18 years of age or such greater age as the State has elected under paragraph (8), unless the child has been in foster care for less than 6 months, is not discharged from care without being provided with (if the child is eligible to receive such document) an official or certified copy of the United States birth certificate of the child, a social security card issued by the Commissioner of Social Security, health insurance information, a copy of the child’s medical records, and a driver’s license or identification card issued by a State in accordance with the requirements of section 202 of the REAL ID Act of 2005”.
+    Par. (5)(I). [Pub. L. 113–183, § 114(a)][/us/pl/113/183/s114/a], substituted “receives assistance” for “and receives assistance” and inserted before period at end “, and, if the child is leaving foster care by reason of having attained 18 years of age or such greater age as the State has elected under paragraph (8), unless the child has been in foster care for less than 6 months, is not discharged from care without being provided with (if the child is eligible to receive such document) an official or certified copy of the United States birth certificate of the child, a social security card issued by the Commissioner of Social Security, health insurance information, a copy of the child’s medical records, and a driver’s license or identification card issued by a State in accordance with the requirements of section 202 of the REAL ID Act of 2005”.
 
     [Pub. L. 113–183, § 113(b)(2)(B)][/us/pl/113/183/s113/b/2/B], substituted “14” for “16”.
 
@@ -379,7 +379,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [section 111 of Pub. L. 113–183][/us/pl/113/183/s111] effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, see [section 111(d) of Pub. L. 113–183][/us/pl/113/183/s111/d], set out as a note under [section 671 of this title][/us/usc/t42/s671].
+    Amendment by [section 111(a)(1) of Pub. L. 113–183][/us/pl/113/183/s111/a/1] effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, see [section 111(d) of Pub. L. 113–183][/us/pl/113/183/s111/d], set out as a note under [section 671 of this title][/us/usc/t42/s671].
 
     Amendment by [section 112(a)(1) of Pub. L. 113–183][/us/pl/113/183/s112/a/1] effective on the date that is 1 year after Sept. 29, 2014, with delay permitted if State legislation is required, and in the case of children in foster care under the responsibility of an Indian tribe, tribal organization, or tribal consortium (either directly or under supervision of a State), not applicable until the date that is 3 years after Sept. 29, 2014, see section 112(a)(3), (c) of [Pub. L. 113–183][/us/pl/113/183], set out as notes under [section 622 of this title][/us/usc/t42/s622].
 
@@ -405,7 +405,7 @@
 
 >     If the Secretary of Health and Human Services determines that State legislation (other than legislation appropriating funds) is required in order for a State plan developed pursuant to part E of title IV of the Social Security Act \[[42 U.S.C. 670][/us/usc/t42/s670] et seq.\] to meet the additional requirements imposed by the amendments made by this section, the plan shall not be regarded as failing to meet any of the additional requirements before the 1st day of the 1st calendar quarter beginning after the 1st regular session of the State legislature that begins after the date of the enactment of this Act \[Sept. 29, 2014\]. If the State has a 2-year legislative session, each year of the session is deemed to be a separate regular session of the State legislature.”
 
-    Amendment by [section 209 of Pub. L. 113–183][/us/pl/113/183/s209] effective Sept. 29, 2014, with delay permitted if State legislation is required, see [section 210(e) of Pub. L. 113–183][/us/pl/113/183/s210/e], set out as a note under [section 671 of this title][/us/usc/t42/s671].
+    Amendment by [section 209(a)(2) of Pub. L. 113–183][/us/pl/113/183/s209/a/2] effective Sept. 29, 2014, with delay permitted if State legislation is required, see [section 210(e) of Pub. L. 113–183][/us/pl/113/183/s210/e], set out as a note under [section 671 of this title][/us/usc/t42/s671].
 
  __Effective Date of 2011 Amendment__ 
 
@@ -625,7 +625,7 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/272/s12305/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs12305%2Fb%2F2
 [/us/pl/96/272/s102/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F272%2Fs102%2Fa%2F4
-[/us/pl/113/183/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs111
+[/us/pl/113/183/s111/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs111%2Fa%2F1
 [/us/pl/113/183/s111/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs111%2Fd
 [/us/usc/t42/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671
 [/us/pl/113/183/s112/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs112%2Fa%2F1
@@ -641,7 +641,7 @@
 [/us/pl/113/183/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs114%2Fb
 [/us/stat/128/1930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1930
 [/us/usc/t42/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs670
-[/us/pl/113/183/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs209
+[/us/pl/113/183/s209/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs209%2Fa%2F2
 [/us/pl/113/183/s210/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F183%2Fs210%2Fe
 [/us/usc/t42/s671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs671
 [/us/pl/112/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F34

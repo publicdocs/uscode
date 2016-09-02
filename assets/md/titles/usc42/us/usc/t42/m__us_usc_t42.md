@@ -15,7 +15,7 @@
 
 # Title 42—THE PUBLIC HEALTH AND WELFARE
 
-Current through 114-38
+Current through 114-49
 
 <table>
 
@@ -363,7 +363,7 @@ Current through 114-38
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fch20" data-uslm-ref="/us/usc/t42/ch20">20.</a>  </td>
 
-    <td> Elective Franchise [Transferred, Omitted, or Repealed]  </td>
+    <td> Elective Franchise [Transferred, Repealed, or Omitted]  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1971" data-uslm-ref="/us/usc/t42/s1971">1971</a>  </td>
 

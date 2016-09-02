@@ -21,6 +21,18 @@
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–42, § 1][/us/pl/114/42/s1], Aug. 6, 2015, [129 Stat. 468][/us/stat/129/468], provided that: 
+
+> “This Act \[amending [section 1395cc of this title][/us/usc/t42/s1395cc]\] may be cited as the ‘Notice of Observation Treatment and Implication for Care Eligibility Act’ or the ‘NOTICE Act’.”
+
+[Pub. L. 114–40, § 1][/us/pl/114/40/s1], July 30, 2015, [129 Stat. 441][/us/stat/129/441], provided that: 
+
+> “This Act \[amending sections 1395m and 1395x of this title and enacting provisions set out as a note under [section 1395x of this title][/us/usc/t42/s1395x]\] may be cited as the ‘Steve Gleason Act of 2015’.”
+
+[Pub. L. 114–39, § 1][/us/pl/114/39/s1], July 30, 2015, [129 Stat. 440][/us/stat/129/440], provided that: 
+
+> “This Act \[amending [section 1395cc–5 of this title][/us/usc/t42/s1395cc–5]\] may be cited as the ‘Medicare Independence at Home Medical Practice Demonstration Improvement Act of 2015’.”
+
 [Pub. L. 114–10, § 1(a)][/us/pl/114/10/s1/a], Apr. 16, 2015, [129 Stat. 87][/us/stat/129/87], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Medicare Access and CHIP Reauthorization Act of 2015’.”
@@ -544,6 +556,15 @@
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F648
+[/us/pl/114/42/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F42%2Fs1
+[/us/stat/129/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F468
+[/us/usc/t42/s1395cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc
+[/us/pl/114/40/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F40%2Fs1
+[/us/stat/129/441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F441
+[/us/usc/t42/s1395x]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395x
+[/us/pl/114/39/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F39%2Fs1
+[/us/stat/129/440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F440
+[/us/usc/t42/s1395cc–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395cc%E2%80%935
 [/us/pl/114/10/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs1%2Fa
 [/us/stat/129/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F87
 [/us/pl/113/270/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F270%2Fs1

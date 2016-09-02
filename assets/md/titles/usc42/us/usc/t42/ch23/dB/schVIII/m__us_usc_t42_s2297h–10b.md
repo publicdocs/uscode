@@ -17,7 +17,7 @@
 
     (a) __Secretarial determinations__ 
 
-        In this fiscal year, and in each subsequent fiscal year, any determination (including a determination made prior to December 16, 2014) by the Secretary of Energy under [section 2297h–10(d)(2)(B) of this title][/us/usc/t42/s2297h–10/d/2/B], shall be valid for not more than 2 calendar years subsequent to such determination.
+        In this fiscal year, and in each subsequent fiscal year, any determination (including a determination made prior to December 16, 2014) by the Secretary of Energy under [section 2297h–10(d)(2)(B) of this title][/us/usc/t42/s2297h–10/d/2/B] shall be valid for not more than 2 calendar years subsequent to such determination.
 
     (b) __Congressional notification__ 
 

@@ -213,7 +213,7 @@
 
                 (ii) from a PAC provider to another applicable setting, including a different PAC provider, a hospital, a critical access hospital, or the home of the individual.
 
-        (2) __Reporting through pac assessment instruments__ 
+        (2) __Reporting through PAC assessment instruments__ 
 
             (A) __In general__ 
 
@@ -393,9 +393,11 @@
 
     (l) __Limitation__ 
 
-        There shall be no administrative or judicial review under sections 1395ff and 1395oo or otherwise of the specification of standardized patient assessment data required, the determination of measures, and the systems to report such standardized data under this section.
+        There shall be no administrative or judicial review under sections 1395ff and 1395oo of this title or otherwise of the specification of standardized patient assessment data required, the determination of measures, and the systems to report such standardized data under this section.
 
-    (m) __Non-application of paperwork reduction actChapter 35 of title 44, United States Code (commonly referred to as the “Paperwork Reduction Act of 1995”) shall not apply to this section and the sections referenced in subsection (a)(2)(B) that require modification in order to achieve the standardization of patient assessment data.__ 
+    (m) __Non-application of Paperwork Reduction act__ 
+
+        Chapter 35 of title 44 (commonly referred to as the “Paperwork Reduction Act of 1995”) shall not apply to this section and the sections referenced in subsection (a)(2)(B) that require modification in order to achieve the standardization of patient assessment data.
 
 ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1899B, as added [Pub. L. 113–185, § 2(a)][/us/pl/113/185/s2/a], Oct. 6, 2014, [128 Stat. 1952][/us/stat/128/1952].)
 

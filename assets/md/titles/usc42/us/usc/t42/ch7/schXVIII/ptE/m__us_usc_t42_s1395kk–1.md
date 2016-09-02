@@ -369,7 +369,7 @@
 
  __References in Text__ 
 
-    [Section 3544 of title 44][/us/usc/t44/s3544], referred to in subsec. (e)(1), (2)(C)(iii), was repealed by [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073]. Provisions similar to [section 3544 of title 44][/us/usc/t44/s3544] are now contained in [section 3554 of title 44][/us/usc/t44/s3554], as enacted by [Pub. L. 113–283][/us/pl/113/283].
+    [Section 3544 of title 44][/us/usc/t44/s3544], referred to in subsec. (e)(1), (2)(C)(iii), was repealed by [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073]. Provisions similar to [section 3544 of title 44][/us/usc/t44/s3544] are now contained in [section 3554 of Title 44][/us/usc/t44/s3554], Public Printing and Documents, as enacted by [Pub. L. 113–283][/us/pl/113/283].
 
  __Codification__ 
 

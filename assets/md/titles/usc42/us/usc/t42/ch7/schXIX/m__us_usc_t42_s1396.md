@@ -103,7 +103,7 @@
 
                 MACPAC shall consult periodically with the chairmen and ranking minority members of the appropriate committees of Congress regarding MACPAC’s agenda and progress towards achieving the agenda. MACPAC may conduct additional reviews, and submit additional reports to the appropriate committees of Congress, from time to time on such topics relating to the program under this subchapter or subchapter XXI as may be requested by such chairmen and members and as MACPAC deems appropriate.
 
-            (B) __Review and reports regarding medicaid DSH__ 
+            (B) __Review and reports regarding Medicaid DSH__ 
 
                 (i) __In general__ 
 

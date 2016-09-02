@@ -55,7 +55,7 @@
 
             (C) including effective behavior management strategies and training, including positive behavior interventions and support models, that promote positive social and emotional development and reduce challenging behaviors, including reducing expulsions of preschool-aged children for such behaviors;
 
-            (E) providing training and outreach on engaging parents and families in culturally and linguistically appropriate ways to expand their knowledge, skills, and capacity to become meaningful partners in supporting their children’s positive development;
+            (E)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. No subpar. (D) has been enacted. </sup></sup>  providing training and outreach on engaging parents and families in culturally and linguistically appropriate ways to expand their knowledge, skills, and capacity to become meaningful partners in supporting their children’s positive development;
 
             (F) providing training corresponding to the nutritional and physical activity needs of children to promote healthy development;
 

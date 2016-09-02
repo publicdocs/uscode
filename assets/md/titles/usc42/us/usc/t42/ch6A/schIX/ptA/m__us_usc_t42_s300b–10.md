@@ -33,7 +33,7 @@
 
         (5) take appropriate steps, at its discretion, to prepare for the review of nominations prior to their submission, including for conditions for which a screening method has been validated but other nomination criteria are not yet met, in order to facilitate timely action by the Advisory Committee once such submission has been received by the Committee;
 
-        (6) develop a model decision-matrix for newborn screening expansion, including an evaluation of the potential public health impact, including the cost  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  of such expansion, and periodically update the recommended uniform screening panel, as appropriate, based on such decision-matrix;
+        (6) develop a model decision-matrix for newborn screening expansion, including an evaluation of the potential public health impact, including the cost of such expansion, and periodically update the recommended uniform screening panel, as appropriate, based on such decision-matrix;
 
         (7) consider ways to ensure that all States attain the capacity to screen for the conditions described in paragraph (3), and include in such consideration the results of grant funding under [section 300b–8 of this title][/us/usc/t42/s300b–8]; and
 

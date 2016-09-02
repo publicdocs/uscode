@@ -267,7 +267,7 @@
 
     Section effective Aug. 22, 1996, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see [section 116 of Pub. L. 104–193][/us/pl/104/193/s116], as amended, set out as a note under [section 601 of this title][/us/usc/t42/s601].
 
- __Funding of studies and demonstrations__ 
+ __Funding of Research, Evaluations, and National Studies__ 
 
 [Pub. L. 113–235, div. G, title II, § 228(c)][/us/pl/113/235/s228/c], Dec. 16, 2014, [128 Stat. 2491][/us/stat/128/2491], provided that: 
 

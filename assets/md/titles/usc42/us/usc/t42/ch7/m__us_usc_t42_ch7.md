@@ -473,12 +473,6 @@ Part A—Block Grants to States for Temporary Assistance for Needy Families  </t
 
   <tr>
 
-    <td> Sec.  </td>
-
-  </tr>
-
-  <tr>
-
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs601" data-uslm-ref="/us/usc/t42/s601">601.</a>  </td>
 
     <td> Purpose.  </td>

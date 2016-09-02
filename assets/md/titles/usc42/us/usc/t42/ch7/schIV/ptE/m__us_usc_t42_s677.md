@@ -277,7 +277,7 @@
 
     (A) by striking “and” at the end of paragraph (6);
 
-    (B) by striking the period at the end of paragraph (7) and inserting “; and”; and
+    (B) by striking the period at the end of paragraph (7) and inserting “; and”; and
 
     (C) by adding at the end the following:
 

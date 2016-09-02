@@ -205,19 +205,19 @@
 
         (A)
 
-         shall make the determination (and redetermination at appropriate intervals) as to whether an individual who has applied for or is receiving assistance under the State program funded under part A of this subchapter, the State program under part E of this subchapter, the State program under subchapter XIX of this chapter, or the supplemental nutrition assistance program, as defined under section 2012(l) of title 7, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  is cooperating in good faith with the State in establishing the paternity of, or in establishing, modifying, or enforcing a support order for, any child of the individual by providing the State agency with the name of, and such other information as the State agency may require with respect to, the noncustodial parent of the child, subject to good cause and other exceptions which—
+         shall make the determination (and redetermination at appropriate intervals) as to whether an individual who has applied for or is receiving assistance under the State program funded under part A of this subchapter, the State program under part E of this subchapter, the State program under subchapter XIX of this chapter, or the supplemental nutrition assistance program, as defined under section 2012(l)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 7, is cooperating in good faith with the State in establishing the paternity of, or in establishing, modifying, or enforcing a support order for, any child of the individual by providing the State agency with the name of, and such other information as the State agency may require with respect to, the noncustodial parent of the child, subject to good cause and other exceptions which—
 
             (i) in the case of the State program funded under part A of this subchapter, the State program under part E of this subchapter, or the State program under subchapter XIX of this chapter shall, at the option of the State, be defined, taking into account the best interests of the child, and applied in each case, by the State agency administering such program; and
 
-            (ii) in the case of the supplemental nutrition assistance program, as defined under section 2012(l) of title 7,1 shall be defined and applied in each case under that program in accordance with section 2015(l)(2) of title 7;
+            (ii) in the case of the supplemental nutrition assistance program, as defined under section 2012(l) 1 of title 7, shall be defined and applied in each case under that program in accordance with section 2015(l)(2) of title 7;
 
         (B) shall require the individual to supply additional necessary information and appear at interviews, hearings, and legal proceedings;
 
         (C) shall require the individual and the child to submit to genetic tests pursuant to judicial or administrative order;
 
-        (D) may request that the individual sign a voluntary acknowledgment of paternity, after notice of the rights and consequences of such an acknowledgment, but may not require the individual to sign an acknowledgment or otherwise relinquish the right to genetic tests as a condition of cooperation and eligibility for assistance under the State program funded under part A of this subchapter, the State program under part E of this subchapter, the State program under subchapter XIX of this chapter, or the supplemental nutrition assistance program, as defined under section 2012(l) of title 7;1 and
+        (D) may request that the individual sign a voluntary acknowledgment of paternity, after notice of the rights and consequences of such an acknowledgment, but may not require the individual to sign an acknowledgment or otherwise relinquish the right to genetic tests as a condition of cooperation and eligibility for assistance under the State program funded under part A of this subchapter, the State program under part E of this subchapter, the State program under subchapter XIX of this chapter, or the supplemental nutrition assistance program, as defined under section 2012(l) 1 of title 7; and
 
-        (E) shall promptly notify the individual and the State agency administering the State program funded under part A of this subchapter, the State agency administering the State program under part E of this subchapter, the State agency administering the State program under subchapter XIX of this chapter, or the State agency administering the supplemental nutrition assistance program, as defined under section 2012(l) of title 7,1 of each such determination, and if noncooperation is determined, the basis therefor;
+        (E) shall promptly notify the individual and the State agency administering the State program funded under part A of this subchapter, the State agency administering the State program under part E of this subchapter, the State agency administering the State program under subchapter XIX of this chapter, or the State agency administering the supplemental nutrition assistance program, as defined under section 2012(l) 1 of title 7, of each such determination, and if noncooperation is determined, the basis therefor;
 
     (30) provide that the State shall use the definitions established under [section 652(a)(5) of this title][/us/usc/t42/s652/a/5] in collecting and reporting information as required under this part;
 
@@ -251,7 +251,7 @@
 
     Section 344(a)(3) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in par. (24), is [section 344(a)(3) of Pub. L. 104–193][/us/pl/104/193/s344/a/3], which is set out as a Regulations note under [section 654a of this title][/us/usc/t42/s654a].
 
-    Section 2012(l) of title 7, referred to in par. (29), is section 3(l) of the Food and Nutrition Act of 2008, which is [Pub. L. 88–525][/us/pl/88/525], Aug. 31, 1964, [78 Stat. 703][/us/stat/78/703], which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. Section 3(l) of this Act was struck out by [Pub. L. 113–79, title IV, § 4030(a)(3)][/us/pl/113/79/s4030/a/3], Feb. 7, 2014, [128 Stat. 813][/us/stat/128/813], and provisions similar to those in former subsec. (l) are now contained in section 3(t) of this Act, classified to [section 2012(t) of Title 7][/us/usc/t7/s2012/t].
+    Section 2012(l) of title 7, referred to in par. (29), was struck out, and a new [section 2012(t) of title 7][/us/usc/t7/s2012/t] similarly defining “supplemental nutrition assistance program” was enacted, by [Pub. L. 113–79, title IV, § 4030(a)(3)][/us/pl/113/79/s4030/a/3], (5), Feb. 7, 2014, [128 Stat. 813][/us/stat/128/813].
 
     Section 7301 of the Deficit Reduction Act of 2005, referred to in par. (34), is [section 7301 of Pub. L. 109–171][/us/pl/109/171/s7301], title VII, Feb. 8, 2006, [120 Stat. 141][/us/stat/120/141]. Subsec. (b)(1) of [section 7301 of Pub. L. 109–171][/us/pl/109/171/s7301] amended this section and [section 657 of this title][/us/usc/t42/s657]. Subsec. (e) of [section 7301 of Pub. L. 109–171][/us/pl/109/171/s7301] is set out as an Effective Date of 2006 Amendment note under [section 608 of this title][/us/usc/t42/s608].
 
@@ -794,11 +794,9 @@
 [/us/usc/t29/s49b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49b
 [/us/pl/104/193/s344/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs344%2Fa%2F3
 [/us/usc/t42/s654a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654a
-[/us/pl/88/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F525
-[/us/stat/78/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F703
+[/us/usc/t7/s2012/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Ft
 [/us/pl/113/79/s4030/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs4030%2Fa%2F3
 [/us/stat/128/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F813
-[/us/usc/t7/s2012/t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2012%2Ft
 [/us/pl/109/171/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7301
 [/us/stat/120/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F141
 [/us/pl/109/171/s7301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7301

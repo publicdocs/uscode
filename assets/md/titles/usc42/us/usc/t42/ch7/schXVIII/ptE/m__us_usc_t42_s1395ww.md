@@ -2913,7 +2913,7 @@
 
                 (i) __In general__ 
 
-                    For the rate year beginning on the specified application date (as defined in subsection (a)(2)(E) of 1395lll of this title), as applicable with respect to long-term care hospitals and quality measures under subsection (c)(1) of such section and measures under subsection (d)(1) of such section, and each subsequent rate year, in addition to the data on the quality measures described in subparagraph (C), each long-term care hospital (other than a hospital classified under subsection (d)(1)(B)(iv)(II)) shall submit to the Secretary data on the quality measures under such subsection (c)(1) and any necessary data specified by the Secretary under such subsection (d)(1).
+                    For the rate year beginning on the specified application date (as defined in subsection (a)(2)(E) of section 1395lll of this title), as applicable with respect to long-term care hospitals and quality measures under subsection (c)(1) of such section and measures under subsection (d)(1) of such section, and each subsequent rate year, in addition to the data on the quality measures described in subparagraph (C), each long-term care hospital (other than a hospital classified under subsection (d)(1)(B)(iv)(II)) shall submit to the Secretary data on the quality measures under such subsection (c)(1) and any necessary data specified by the Secretary under such subsection (d)(1).
 
                 (ii) __Standardized patient assessment data__ 
 

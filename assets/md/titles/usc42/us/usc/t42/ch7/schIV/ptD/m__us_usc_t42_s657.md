@@ -327,7 +327,7 @@
 
 [Pub. L. 98–369, div. B, title VI, § 2646][/us/pl/98/369/s2646], July 18, 1984, [98 Stat. 1147][/us/stat/98/1147], provided that: 
 
-> “Except as otherwise specifically provided in this subtitle \[subtitle B (§§ 2611–2646) of [Pub. L. 98–369][/us/pl/98/369]\], the provisions of parts 1 and 2 \[sections 2611 to 2642 of [Pub. L. 98–369][/us/pl/98/369], enacting [section 1320b–6 of this title][/us/usc/t42/s1320b–6], amending this section and sections 602, 609, \[former\] 614, 615, 1320a–6, 1382 to 1382b, 1382j, and 1383 of this title and [section 51 of Title 26][/us/usc/t26/s51], Internal Revenue Code, and enacting provisions set out as notes under sections 602, 609, \[former\] 614, 1320a–6, 1382a, and 1383 of this title and [section 51 of Title 26][/us/usc/t26/s51]\] and the amendments made thereby shall take effect on October 1, 1984.”
+> “Except as otherwise specifically provided in this subtitle \[subtitle B (§§ 2611–2646) of [Pub. L. 98–369][/us/pl/98/369]\], the provisions of parts 1 and 2 \[sections 2611 to 2642 of [Pub. L. 98–369][/us/pl/98/369], enacting [section 1320b–6 of this title][/us/usc/t42/s1320b–6], amending this section and sections 602, 609, 614, 615, 1320a–6, 1382 to 1382b, 1382j, and 1383 of this title and [section 51 of Title 26][/us/usc/t26/s51], Internal Revenue Code, and enacting provisions set out as notes under sections 602, 609, 614, 1320a–6, 1382a, and 1383 of this title and [section 51 of Title 26][/us/usc/t26/s51]\] and the amendments made thereby shall take effect on October 1, 1984.”
 
  __Effective Date of 1981 Amendment__ 
 
