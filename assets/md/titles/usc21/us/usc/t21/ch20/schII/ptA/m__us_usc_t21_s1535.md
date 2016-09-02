@@ -17,7 +17,7 @@
 
     (a) __Authority to make grants__ 
 
-        As part of the program established under [section 1531 of this title][/us/usc/t21/s1531], the Director may award an initial grant under this subsection, and renewal grants under subsection (f) of this section, to any coalition awarded a grant under [section 1532 of this title][/us/usc/t21/s1532] that meets the criteria specified in subsection (d) of this section in order to fund coalition mentoring activities by such coalition in support of the program.
+        As part of the program established under [section 1531 of this title][/us/usc/t21/s1531], the Director may award an initial grant under this subsection, and renewal grants under subsection (f), to any coalition awarded a grant under [section 1532 of this title][/us/usc/t21/s1532] that meets the criteria specified in subsection (d) in order to fund coalition mentoring activities by such coalition in support of the program.
 
     (b) __Treatment with other grants__ 
 
@@ -49,13 +49,13 @@
 
     (e) __Use of grant funds__ 
 
-        A coalition awarded a grant under this section shall use the grant amount for mentoring activities to support and encourage the development of new, self-supporting community coalitions that are focused on the prevention and treatment of substance abuse in such new coalitions’ communities. The mentoring coalition shall encourage such development in accordance with the plan submitted by the mentoring coalition under subsection (d)(5) of this section.
+        A coalition awarded a grant under this section shall use the grant amount for mentoring activities to support and encourage the development of new, self-supporting community coalitions that are focused on the prevention and treatment of substance abuse in such new coalitions’ communities. The mentoring coalition shall encourage such development in accordance with the plan submitted by the mentoring coalition under subsection (d)(5).
 
     (f) __Renewal grants__ 
 
-    The Administrator may make a renewal grant to any coalition awarded a grant under subsection (a) of this section, or a previous renewal grant under this subsection, if the coalition, at the time of application for such renewal grant—
+    The Administrator may make a renewal grant to any coalition awarded a grant under subsection (a), or a previous renewal grant under this subsection, if the coalition, at the time of application for such renewal grant—
 
-        (1) continues to meet the criteria specified in subsection (d) of this section; and
+        (1) continues to meet the criteria specified in subsection (d); and
 
         (2) has made demonstrable progress in the development of one or more new, self-supporting community coalitions that are focused on the prevention and treatment of substance abuse.
 
@@ -67,15 +67,15 @@
 
         (2) __Initial grants__ 
 
-            The amount of the initial grant awarded to a coalition under subsection (a) of this section may not exceed $75,000.
+            The amount of the initial grant awarded to a coalition under subsection (a) may not exceed $75,000.
 
         (3) __Renewal grants__ 
 
-            The total amount of renewal grants awarded to a coalition under subsection (f) of this section for any fiscal year may not exceed $75,000.
+            The total amount of renewal grants awarded to a coalition under subsection (f) for any fiscal year may not exceed $75,000.
 
     (h) __Fiscal year limitation on amount available for grants__ 
 
-        The total amount available for grants under this section, including renewal grants under subsection (f) of this section, in any fiscal year may not exceed the amount equal to five percent of the amount authorized to be appropriated by [section 1524(a) of this title][/us/usc/t21/s1524/a] for that fiscal year.
+        The total amount available for grants under this section, including renewal grants under subsection (f), in any fiscal year may not exceed the amount equal to five percent of the amount authorized to be appropriated by [section 1524(a) of this title][/us/usc/t21/s1524/a] for that fiscal year.
 
     (i) __Priority in awarding initial grants__ 
 

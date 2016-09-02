@@ -27,11 +27,11 @@
 
     (b) __Consideration of information as public information__ 
 
-    Any information pertaining to a report described in subsection (a) of this section shall be considered to be public information to the extent that the information is necessary—
+    Any information pertaining to a report described in subsection (a) shall be considered to be public information to the extent that the information is necessary—
 
         (1) to identify the sponsor; and
 
-        (2) to establish the status of a study described in subsection (a) of this section and the reasons, if any, for any failure to carry out the study.
+        (2) to establish the status of a study described in subsection (a) and the reasons, if any, for any failure to carry out the study.
 
     (c) __Status of studies and reports__ 
 
@@ -39,7 +39,7 @@
 
         (1) that sponsors have entered into agreements to conduct; and
 
-        (2) for which reports have been submitted under subsection (a)(1) of this section.
+        (2) for which reports have been submitted under subsection (a)(1).
 
     (d) __Disclosure__ 
 

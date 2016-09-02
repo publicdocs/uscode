@@ -25,13 +25,13 @@
 
             (B) if a license for such drug is issued under [section 262 of title 42][/us/usc/t42/s262],
 
-            the approval, certification, or license would be for use for such disease or condition, the Secretary shall designate the drug as a drug for such disease or condition. A request for a designation of a drug under this subsection shall contain the consent of the applicant to notice being given by the Secretary under subsection (b) of this section respecting the designation of the drug.
+            the approval, certification, or license would be for use for such disease or condition, the Secretary shall designate the drug as a drug for such disease or condition. A request for a designation of a drug under this subsection shall contain the consent of the applicant to notice being given by the Secretary under subsection (b) respecting the designation of the drug.
 
         (2) For purposes of paragraph (1), the term “rare disease or condition” means any disease or condition which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug. Determinations under the preceding sentence with respect to any drug shall be made on the basis of the facts and circumstances as of the date the request for designation of the drug under this subsection is made.
 
     (b) __Notification of discontinuance of drug or application as condition__ 
 
-    A designation of a drug under subsection (a) of this section shall be subject to the condition that—
+    A designation of a drug under subsection (a) shall be subject to the condition that—
 
         (1) if an application was approved for the drug under [section 355(b) of this title][/us/usc/t21/s355/b] or a license was issued for the drug under [section 262 of title 42][/us/usc/t42/s262], the manufacturer of the drug will notify the Secretary of any discontinuance of the production of the drug at least one year before discontinuance, and
 
@@ -39,11 +39,11 @@
 
     (c) __Notice to public__ 
 
-        Notice respecting the designation of a drug under subsection (a) of this section shall be made available to the public.
+        Notice respecting the designation of a drug under subsection (a) shall be made available to the public.
 
     (d) __Regulations__ 
 
-        The Secretary shall by regulation promulgate procedures for the implementation of subsection (a) of this section.
+        The Secretary shall by regulation promulgate procedures for the implementation of subsection (a).
 
 ([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 526, as added [Pub. L. 97–414][/us/pl/97/414], § 2(a), Jan. 4, 1983, [96 Stat. 2050][/us/stat/96/2050]; amended [Pub. L. 98–551][/us/pl/98/551], § 4(a), Oct. 30, 1984, [98 Stat. 2817][/us/stat/98/2817]; [Pub. L. 99–91][/us/pl/99/91], § 3(a)(2), Aug. 15, 1985, [99 Stat. 387][/us/stat/99/387]; [Pub. L. 100–290][/us/pl/100/290], § 2, Apr. 18, 1988, [102 Stat. 90][/us/stat/102/90]; [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 125(b)(2)(H), (I), Nov. 21, 1997, [111 Stat. 2326][/us/stat/111/2326].)
 

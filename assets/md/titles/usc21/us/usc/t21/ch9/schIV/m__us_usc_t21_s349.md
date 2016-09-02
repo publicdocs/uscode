@@ -15,7 +15,7 @@
 
 ## § 349. Bottled drinking water standards; publication in Federal Register
 
-    (a) Except as provided in subsection (b) of this section, whenever the Administrator of the Environmental Protection Agency prescribes interim or revised national primary drinking water regulations under section 1412 of the Public Health Service Act \[[42 U.S.C. 300g–1][/us/usc/t42/s300g–1]\], the Secretary shall consult with the Administrator and within 180 days after the promulgation of such drinking water regulations either promulgate amendments to regulations under this chapter applicable to bottled drinking water or publish in the Federal Register his reasons for not making such amendments.
+    (a) Except as provided in subsection (b), whenever the Administrator of the Environmental Protection Agency prescribes interim or revised national primary drinking water regulations under section 1412 of the Public Health Service Act \[[42 U.S.C. 300g–1][/us/usc/t42/s300g–1]\], the Secretary shall consult with the Administrator and within 180 days after the promulgation of such drinking water regulations either promulgate amendments to regulations under this chapter applicable to bottled drinking water or publish in the Federal Register his reasons for not making such amendments.
 
     (b)
 
@@ -51,7 +51,7 @@
 
  __Amendments__ 
 
-    1996—[Pub. L. 104–182][/us/pl/104/182] substituted “(a) Except as provided in subsection (b) of this section, whenever” for “Whenever” and added subsec. (b).
+    1996—[Pub. L. 104–182][/us/pl/104/182] substituted “(a) Except as provided in subsection (b), whenever” for “Whenever” and added subsec. (b).
 
  __Bottled Water Study__ 
 

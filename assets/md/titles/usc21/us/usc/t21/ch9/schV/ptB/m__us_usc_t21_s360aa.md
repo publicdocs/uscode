@@ -27,7 +27,7 @@
 
     (b) __Regulations__ 
 
-        The Secretary shall by regulation promulgate procedures for the implementation of subsection (a) of this section.
+        The Secretary shall by regulation promulgate procedures for the implementation of subsection (a).
 
 ([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 525, as added [Pub. L. 97–414][/us/pl/97/414], § 2(a), Jan. 4, 1983, [96 Stat. 2049][/us/stat/96/2049]; amended [Pub. L. 99–91][/us/pl/99/91], § 3(a)(1), Aug. 15, 1985, [99 Stat. 387][/us/stat/99/387]; [Pub. L. 105–115, title I][/us/pl/105/115/tI], § 125(b)(2)(F), (G), Nov. 21, 1997, [111 Stat. 2325][/us/stat/111/2325], 2326.)
 

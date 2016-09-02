@@ -155,7 +155,7 @@
 
                 (ii) __Suspension of grants__ 
 
-                    If such grant recipient fails to continue to meet the criteria specified in subsection (a) of this section, the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
+                    If such grant recipient fails to continue to meet the criteria specified in subsection (a), the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
 
                 (iii) __Renewal grants__ 
 
@@ -177,7 +177,7 @@
 
                     (I) the eligible coalitions demonstrate that the coalitions are collaborating with one another; and
 
-                    (II) each of the coalitions has independently met the requirements set forth in subsection (a) of this section.
+                    (II) each of the coalitions has independently met the requirements set forth in subsection (a).
 
         (2) __Rural coalition grants__ 
 
@@ -185,7 +185,7 @@
 
                 (i) __In general__ 
 
-                    In addition to awarding grants under paragraph (1), to stimulate the development of coalitions in sparsely populated and rural areas, the Administrator, in consultation with the Advisory Commission, may award a grant in accordance with this section to a coalition that represents a county with a population that does not exceed 30,000 individuals. In awarding a grant under this paragraph, the Administrator may waive any requirement under subsection (a) of this section if the Administrator considers that waiver to be appropriate.
+                    In addition to awarding grants under paragraph (1), to stimulate the development of coalitions in sparsely populated and rural areas, the Administrator, in consultation with the Advisory Commission, may award a grant in accordance with this section to a coalition that represents a county with a population that does not exceed 30,000 individuals. In awarding a grant under this paragraph, the Administrator may waive any requirement under subsection (a) if the Administrator considers that waiver to be appropriate.
 
                 (ii) __Matching requirement__ 
 
@@ -193,7 +193,7 @@
 
                 (iii) __Suspension of grants__ 
 
-                    If such grant recipient fails to continue to meet any criteria specified in subsection (a) of this section that has not been waived by the Administrator pursuant to clause (i), the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
+                    If such grant recipient fails to continue to meet any criteria specified in subsection (a) that has not been waived by the Administrator pursuant to clause (i), the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
 
             (B) __Renewal grants__ 
 
@@ -233,7 +233,7 @@
 
             (E) __Suspension__ 
 
-                If a grant recipient under this paragraph fails to continue to meet the criteria specified in subsection (a) of this section, the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
+                If a grant recipient under this paragraph fails to continue to meet the criteria specified in subsection (a), the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
 
             (F) __Limitation__ 
 
@@ -249,7 +249,7 @@
 
     (d) __Priority in awarding grants__ 
 
-        In awarding grants under subsection (b)(1)(A)(i) of this section, priority shall be given to a coalition serving economically disadvantaged areas.
+        In awarding grants under subsection (b)(1)(A)(i), priority shall be given to a coalition serving economically disadvantaged areas.
 
 ([Pub. L. 100–690, title I][/us/pl/100/690/tI], § 1032, as added [Pub. L. 105–20][/us/pl/105/20], § 2(a)(2), June 27, 1997, [111 Stat. 227][/us/stat/111/227]; amended [Pub. L. 107–82][/us/pl/107/82], § 1(d), (g), (h), Dec. 14, 2001, [115 Stat. 818][/us/stat/115/818], 819; [Pub. L. 109–469, title VIII][/us/pl/109/469/tVIII], §§ 802(a), 803, 804, Dec. 29, 2006, [120 Stat. 3535][/us/stat/120/3535].)
 

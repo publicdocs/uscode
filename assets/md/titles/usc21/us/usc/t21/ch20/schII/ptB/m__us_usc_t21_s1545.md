@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    Subject to subsection (b) of this section, the term of office of a member of the Advisory Commission shall be 3 years, except that, as designated at the time of appointment—
+    Subject to subsection (b), the term of office of a member of the Advisory Commission shall be 3 years, except that, as designated at the time of appointment—
 
         (1) of the initial members appointed under [section 1543(a)(1) of this title][/us/usc/t21/s1543/a/1], two shall be appointed for a term of 2 years;
 

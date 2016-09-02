@@ -19,7 +19,7 @@
 
         (1)
 
-         Except as provided in subsection (c) of this section, before the Secretary may initiate any action under subchapter III of this chapter—
+         Except as provided in subsection (c), before the Secretary may initiate any action under subchapter III—
 
             (A) with respect to any food which the Secretary determines is misbranded under [section 343(a)(2) of this title][/us/usc/t21/s343/a/2] because of its advertising, or
 
@@ -39,7 +39,7 @@
 
         (1)
 
-         If the Secretary notifies the Federal Trade Commission under subsection (a) of this section of action proposed to be taken under subchapter III of this chapter with respect to a food or food advertising and the Commission notifies the Secretary in writing, within the 30-day period beginning on the date of the receipt of such notice, that—
+         If the Secretary notifies the Federal Trade Commission under subsection (a) of action proposed to be taken under subchapter III with respect to a food or food advertising and the Commission notifies the Secretary in writing, within the 30-day period beginning on the date of the receipt of such notice, that—
 
             (A) it has initiated under the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\] an investigation of such advertising to determine if it is prohibited by such Act or any order or rule under such Act,
 
@@ -53,7 +53,7 @@
 
         (2)
 
-         If, before the expiration of the 60-day period beginning on the date the Secretary receives a notice described in paragraph (1) from the Federal Trade Commission in response to a notice of the Secretary under subsection (a) of this section—
+         If, before the expiration of the 60-day period beginning on the date the Secretary receives a notice described in paragraph (1) from the Federal Trade Commission in response to a notice of the Secretary under subsection (a)—
 
             (A) the Commission or the Attorney General does not commence a civil action described in subparagraph (B) of paragraph (1) of this subsection respecting the advertising described in the Secretary’s notice,
 
@@ -61,15 +61,15 @@
 
             (C) the Commission does not (as described in subparagraph (D) of such paragraph) make a certification to the Attorney General respecting such advertising, or, if the Commission does make such a certification to the Attorney General respecting such advertising, the Attorney General, before the expiration of such period, does not cause appropriate criminal proceedings to be brought against such advertising,
 
-            the Secretary may, after the expiration of such period, initiate the action described in the notice to the Commission pursuant to subsection (a) of this section. The Commission shall promptly notify the Secretary of the commencement by the Commission of such a civil action, the issuance and service by it of such a complaint, or the causing by the Attorney General of criminal proceedings to be brought against such advertising.
+            the Secretary may, after the expiration of such period, initiate the action described in the notice to the Commission pursuant to subsection (a). The Commission shall promptly notify the Secretary of the commencement by the Commission of such a civil action, the issuance and service by it of such a complaint, or the causing by the Attorney General of criminal proceedings to be brought against such advertising.
 
     (c) __Secretary’s determination of imminent hazard to health as suspending applicability of provisions__ 
 
-        The requirements of subsections (a) and (b) of this section do not apply with respect to action under subchapter III of this chapter with respect to any food or food advertising if the Secretary determines that such action is required to eliminate an imminent hazard to health.
+        The requirements of subsections (a) and (b) do not apply with respect to action under subchapter III with respect to any food or food advertising if the Secretary determines that such action is required to eliminate an imminent hazard to health.
 
     (d) __Coordination of action by Secretary with Federal Trade Commission__ 
 
-        For the purpose of avoiding unnecessary duplication, the Secretary shall coordinate any action taken under subchapter III of this chapter because of advertising which the Secretary determines causes a food to be misbranded with any action of the Federal Trade Commission under the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\] with respect to such advertising.
+        For the purpose of avoiding unnecessary duplication, the Secretary shall coordinate any action taken under subchapter III because of advertising which the Secretary determines causes a food to be misbranded with any action of the Federal Trade Commission under the Federal Trade Commission Act \[[15 U.S.C. 41][/us/usc/t15/s41] et seq.\] with respect to such advertising.
 
 ([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 707, as added [Pub. L. 94–278, title V][/us/pl/94/278/tV], § 502(b), Apr. 22, 1976, [90 Stat. 412][/us/stat/90/412].)
 

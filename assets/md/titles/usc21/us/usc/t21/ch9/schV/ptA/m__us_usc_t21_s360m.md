@@ -61,7 +61,7 @@
 
             (A) __In general__ 
 
-                Not later than 180 days after November 21, 1997, the Secretary shall establish and publish in the Federal Register criteria to accredit or deny accreditation to persons who request to perform the duties specified in subsection (a) of this section. The Secretary shall respond to a request for accreditation within 60 days of the receipt of the request. The accreditation of such person shall specify the particular activities under subsection (a) of this section for which such person is accredited.
+                Not later than 180 days after November 21, 1997, the Secretary shall establish and publish in the Federal Register criteria to accredit or deny accreditation to persons who request to perform the duties specified in subsection (a). The Secretary shall respond to a request for accreditation within 60 days of the receipt of the request. The accreditation of such person shall specify the particular activities under subsection (a) for which such person is accredited.
 
             (B) __Withdrawal of accreditation__ 
 
@@ -77,7 +77,7 @@
 
             (D) __Annual report__ 
 
-                The Secretary shall include in the annual report required under [section 393(g) of this title][/us/usc/t21/s393/g] the names of all accredited persons and the particular activities under subsection (a) of this section for which each such person is accredited and the name of each accredited person whose accreditation has been withdrawn during the year.
+                The Secretary shall include in the annual report required under [section 393(g) of this title][/us/usc/t21/s393/g] the names of all accredited persons and the particular activities under subsection (a) for which each such person is accredited and the name of each accredited person whose accreditation has been withdrawn during the year.
 
             (E) __Periodic reaccreditation__ 
 
@@ -117,7 +117,7 @@
 
                 (iv) promptly respond and attempt to resolve complaints regarding its activities for which it is accredited; and
 
-                (v) protect against the use, in carrying out subsection (a) of this section with respect to a device, of any officer or employee of the person who has a financial conflict of interest regarding the device, and annually make available to the public disclosures of the extent to which the person, and the officers and employees of the person, have maintained compliance with requirements under this clause relating to financial conflicts of interest.
+                (v) protect against the use, in carrying out subsection (a) with respect to a device, of any officer or employee of the person who has a financial conflict of interest regarding the device, and annually make available to the public disclosures of the extent to which the person, and the officers and employees of the person, have maintained compliance with requirements under this clause relating to financial conflicts of interest.
 
         (4) __Selection of accredited persons__ 
 
@@ -141,7 +141,7 @@
 
         (3) the number of devices reviewed under this section that were ultimately not cleared by the Secretary;
 
-        (4) the average time period for a review under this section (including the time it takes for the Secretary to review a recommendation of an accredited person under subsection (a) of this section and determine the initial device classification);
+        (4) the average time period for a review under this section (including the time it takes for the Secretary to review a recommendation of an accredited person under subsection (a) and determine the initial device classification);
 
         (5) the average time period identified in paragraph (4) compared to the average time period for review of devices solely by the Secretary pursuant to [section 360(k) of this title][/us/usc/t21/s360/k];
 

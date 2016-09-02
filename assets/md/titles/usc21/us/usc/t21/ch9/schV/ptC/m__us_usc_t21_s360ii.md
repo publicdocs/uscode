@@ -33,7 +33,7 @@
 
     (b) __Powers of Secretary__ 
 
-    In carrying out the purposes of subsection (a) of this section, the Secretary is authorized to—
+    In carrying out the purposes of subsection (a), the Secretary is authorized to—
 
         (1)
 

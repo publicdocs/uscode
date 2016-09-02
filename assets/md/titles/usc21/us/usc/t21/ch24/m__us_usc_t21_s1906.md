@@ -35,7 +35,7 @@
 
     (c) __Judicial review of civil penalty__ 
 
-        Any penalty imposed under subsection (b) of this section shall be subject to judicial review only to the extent provided in [section 702 of title 5][/us/usc/t5/s702].
+        Any penalty imposed under subsection (b) shall be subject to judicial review only to the extent provided in [section 702 of title 5][/us/usc/t5/s702].
 
 ([Pub. L. 106–120, title VIII][/us/pl/106/120/tVIII], § 807, Dec. 3, 1999, [113 Stat. 1631][/us/stat/113/1631].)
 

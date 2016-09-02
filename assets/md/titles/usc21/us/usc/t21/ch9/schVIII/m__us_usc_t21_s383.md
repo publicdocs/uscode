@@ -21,7 +21,7 @@
 
     (b) __Agreements with foreign countries__ 
 
-    In carrying out the functions of the office under subsection (a) of this section, the Secretary may enter into agreements with foreign countries to facilitate commerce in devices between the United States and such countries consistent with the requirements of this chapter. In such agreements, the Secretary shall encourage the mutual recognition of—
+    In carrying out the functions of the office under subsection (a), the Secretary may enter into agreements with foreign countries to facilitate commerce in devices between the United States and such countries consistent with the requirements of this chapter. In such agreements, the Secretary shall encourage the mutual recognition of—
 
         (1) good manufacturing practice regulations promulgated under [section 360j(f) of this title][/us/usc/t21/s360j/f], and
 

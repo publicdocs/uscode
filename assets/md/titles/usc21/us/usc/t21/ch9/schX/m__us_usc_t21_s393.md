@@ -97,7 +97,7 @@
 
     The Secretary shall annually prepare and publish in the Federal Register and solicit public comment on a report that—
 
-        (1) provides detailed statistical information on the performance of the Secretary under the plan described in subsection (f) of this section;
+        (1) provides detailed statistical information on the performance of the Secretary under the plan described in subsection (f);
 
         (2) compares such performance of the Secretary with the objectives of the plan and with the statutory obligations of the Secretary; and
 

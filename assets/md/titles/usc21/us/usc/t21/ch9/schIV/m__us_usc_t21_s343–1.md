@@ -17,7 +17,7 @@
 
     (a)
 
-     Except as provided in subsection (b) of this section, no State or political subdivision of a State may directly or indirectly establish under any authority or continue in effect as to any food in interstate commerce—
+     Except as provided in subsection (b), no State or political subdivision of a State may directly or indirectly establish under any authority or continue in effect as to any food in interstate commerce—
 
         (1) any requirement for a food which is the subject of a standard of identity established under [section 341 of this title][/us/usc/t21/s341] that is not identical to such standard of identity or that is not identical to the requirement of [section 343(g) of this title][/us/usc/t21/s343/g], except that this paragraph does not apply to a standard of identity of a State or political subdivision of a State for maple syrup that is of the type required by sections 341 and 343(g) of this title,
 
@@ -33,13 +33,13 @@
 
     (b)
 
-     Upon petition of a State or a political subdivision of a State, the Secretary may exempt from subsection (a) of this section, under such conditions as may be prescribed by regulation, any State or local requirement that—
+     Upon petition of a State or a political subdivision of a State, the Secretary may exempt from subsection (a), under such conditions as may be prescribed by regulation, any State or local requirement that—
 
         (1) would not cause any food to be in violation of any applicable requirement under Federal law,
 
         (2) would not unduly burden interstate commerce, and
 
-        (3) is designed to address a particular need for information which need is not met by the requirements of the sections referred to in subsection (a) of this section.
+        (3) is designed to address a particular need for information which need is not met by the requirements of the sections referred to in subsection (a).
 
 ([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 403A, as added [Pub. L. 101–535][/us/pl/101/535], § 6(a), Nov. 8, 1990, [104 Stat. 2362][/us/stat/104/2362]; amended [Pub. L. 102–108][/us/pl/102/108], § 2(b), Aug. 17, 1991, [105 Stat. 549][/us/stat/105/549]; [Pub. L. 103–396][/us/pl/103/396], § 3(a), Oct. 22, 1994, [108 Stat. 4154][/us/stat/108/4154]; [Pub. L. 108–282, title II][/us/pl/108/282/tII], § 203(c)(2), Aug. 2, 2004, [118 Stat. 908][/us/stat/118/908]; [Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4205(c), Mar. 23, 2010, [124 Stat. 576][/us/stat/124/576].)
 

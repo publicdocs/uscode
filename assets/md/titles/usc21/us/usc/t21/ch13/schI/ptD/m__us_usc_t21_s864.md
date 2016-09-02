@@ -25,7 +25,7 @@
 
         knowing, intending, or having reasonable cause to believe that such anhydrous ammonia will be used to manufacture a controlled substance in violation of this part.
 
-    (b) Any person who violates subsection (a) of this section shall be imprisoned or fined, or both, in accordance with [section 843(d) of this title][/us/usc/t21/s843/d] as if such violation were a violation of a provision of [section 843 of this title][/us/usc/t21/s843].
+    (b) Any person who violates subsection (a) shall be imprisoned or fined, or both, in accordance with [section 843(d) of this title][/us/usc/t21/s843/d] as if such violation were a violation of a provision of [section 843 of this title][/us/usc/t21/s843].
 
 ([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 423, as added [Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3653(a), Oct. 17, 2000, [114 Stat. 1240][/us/stat/114/1240].)
 

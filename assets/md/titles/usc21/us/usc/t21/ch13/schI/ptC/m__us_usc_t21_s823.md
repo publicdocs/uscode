@@ -137,17 +137,17 @@
 
                     (I) The notification under subparagraph (B) is in writing and states the name of the practitioner.
 
-                    (II) The notification identifies the registration issued for the practitioner pursuant to subsection (f) of this section.
+                    (II) The notification identifies the registration issued for the practitioner pursuant to subsection (f).
 
-                    (III) If the practitioner is a member of a group practice, the notification states the names of the other practitioners in the practice and identifies the registrations issued for the other practitioners pursuant to subsection (f) of this section.
+                    (III) If the practitioner is a member of a group practice, the notification states the names of the other practitioners in the practice and identifies the registrations issued for the other practitioners pursuant to subsection (f).
 
-                (ii) Upon receiving a notification under subparagraph (B), the Attorney General shall assign the practitioner involved an identification number under this paragraph for inclusion with the registration issued for the practitioner pursuant to subsection (f) of this section. The identification number so assigned shall be appropriate to preserve the confidentiality of patients for whom the practitioner has dispensed narcotic drugs under a waiver under subparagraph (A).
+                (ii) Upon receiving a notification under subparagraph (B), the Attorney General shall assign the practitioner involved an identification number under this paragraph for inclusion with the registration issued for the practitioner pursuant to subsection (f). The identification number so assigned shall be appropriate to preserve the confidentiality of patients for whom the practitioner has dispensed narcotic drugs under a waiver under subparagraph (A).
 
                 (iii) Not later than 45 days after the date on which the Secretary receives a notification under subparagraph (B), the Secretary shall make a determination of whether the practitioner involved meets all requirements for a waiver under subparagraph (B). If the Secretary fails to make such determination by the end of the such 45-day period, the Attorney General shall assign the physician an identification number described in clause (ii) at the end of such period.
 
             (E)
 
-                (i) If a practitioner is not registered under paragraph (1) and, in violation of the conditions specified in subparagraphs (B) through (D), dispenses narcotic drugs in schedule III, IV, or V or combinations of such drugs for maintenance treatment or detoxification treatment, the Attorney General may, for purposes of [section 824(a)(4) of this title][/us/usc/t21/s824/a/4], consider the practitioner to have committed an act that renders the registration of the practitioner pursuant to subsection (f) of this section to be inconsistent with the public interest.
+                (i) If a practitioner is not registered under paragraph (1) and, in violation of the conditions specified in subparagraphs (B) through (D), dispenses narcotic drugs in schedule III, IV, or V or combinations of such drugs for maintenance treatment or detoxification treatment, the Attorney General may, for purposes of [section 824(a)(4) of this title][/us/usc/t21/s824/a/4], consider the practitioner to have committed an act that renders the registration of the practitioner pursuant to subsection (f) to be inconsistent with the public interest.
 
                 (ii)
 
@@ -235,7 +235,11 @@
 
         (2) For purposes of registration to manufacture a controlled substance under subsection (a) for use only in a clinical trial, the Attorney General shall, in accordance with the regulations issued by the Attorney General, issue a notice of application not later than 90 days after the application is accepted for filing. Not later than 90 days after the date on which the period for comment pursuant to such notice ends, the Attorney General shall register the applicant, or serve an order to show cause upon the applicant in accordance with [section 824(c) of this title][/us/usc/t21/s824/c], unless the Attorney General has granted a hearing on the application under [section 958(i) of this title][/us/usc/t21/s958/i].
 
-([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 303, Oct. 27, 1970, [84 Stat. 1253][/us/stat/84/1253]; [Pub. L. 93–281][/us/pl/93/281], § 3, May 14, 1974, [88 Stat. 124][/us/stat/88/124]; [Pub. L. 95–633, title I][/us/pl/95/633/tI], § 109, Nov. 10, 1978, [92 Stat. 3773][/us/stat/92/3773]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 511, Oct. 12, 1984, [98 Stat. 2073][/us/stat/98/2073]; [Pub. L. 103–200][/us/pl/103/200], § 3(c), Dec. 17, 1993, [107 Stat. 2336][/us/stat/107/2336]; [Pub. L. 106–310, div. B, title XXXV][/us/pl/106/310/dB/tXXXV], § 3502(a), Oct. 17, 2000, [114 Stat. 1222][/us/stat/114/1222]; [Pub. L. 107–273, div. B, title II][/us/pl/107/273/dB/tII], § 2501, Nov. 2, 2002, [116 Stat. 1803][/us/stat/116/1803]; [Pub. L. 109–56][/us/pl/109/56], § 1(a), (b), Aug. 2, 2005, [119 Stat. 591][/us/stat/119/591]; [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 712(a)(3), Mar. 9, 2006, [120 Stat. 263][/us/stat/120/263]; [Pub. L. 109–469, title XI][/us/pl/109/469/tXI], § 1102, Dec. 29, 2006, [120 Stat. 3540][/us/stat/120/3540]; [Pub. L. 110–425][/us/pl/110/425], § 3(b), Oct. 15, 2008, [122 Stat. 4824][/us/stat/122/4824]; [Pub. L. 114–89][/us/pl/114/89], § 3, Nov. 25, 2015, [129 Stat. 701][/us/stat/129/701].)
+    (j) __“Factors as may be relevant to and consistent with the public health and safety” defined__ 
+
+        In this section, the phrase “factors as may be relevant to and consistent with the public health and safety” means factors that are relevant to and consistent with the findings contained in [section 801 of this title][/us/usc/t21/s801].
+
+([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 303, Oct. 27, 1970, [84 Stat. 1253][/us/stat/84/1253]; [Pub. L. 93–281][/us/pl/93/281], § 3, May 14, 1974, [88 Stat. 124][/us/stat/88/124]; [Pub. L. 95–633, title I][/us/pl/95/633/tI], § 109, Nov. 10, 1978, [92 Stat. 3773][/us/stat/92/3773]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 511, Oct. 12, 1984, [98 Stat. 2073][/us/stat/98/2073]; [Pub. L. 103–200][/us/pl/103/200], § 3(c), Dec. 17, 1993, [107 Stat. 2336][/us/stat/107/2336]; [Pub. L. 106–310, div. B, title XXXV][/us/pl/106/310/dB/tXXXV], § 3502(a), Oct. 17, 2000, [114 Stat. 1222][/us/stat/114/1222]; [Pub. L. 107–273, div. B, title II][/us/pl/107/273/dB/tII], § 2501, Nov. 2, 2002, [116 Stat. 1803][/us/stat/116/1803]; [Pub. L. 109–56][/us/pl/109/56], § 1(a), (b), Aug. 2, 2005, [119 Stat. 591][/us/stat/119/591]; [Pub. L. 109–177, title VII][/us/pl/109/177/tVII], § 712(a)(3), Mar. 9, 2006, [120 Stat. 263][/us/stat/120/263]; [Pub. L. 109–469, title XI][/us/pl/109/469/tXI], § 1102, Dec. 29, 2006, [120 Stat. 3540][/us/stat/120/3540]; [Pub. L. 110–425][/us/pl/110/425], § 3(b), Oct. 15, 2008, [122 Stat. 4824][/us/stat/122/4824]; [Pub. L. 114–89][/us/pl/114/89], § 3, Nov. 25, 2015, [129 Stat. 701][/us/stat/129/701]; [Pub. L. 114–145][/us/pl/114/145], § 2(a)(1), Apr. 19, 2016, [130 Stat. 354][/us/stat/130/354].)
 
  __References in Text__ 
 
@@ -246,6 +250,8 @@
     This chapter, referred to in subsec. (g)(2)(J)(ii)(II), was in the original “this Act”, meaning [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1236][/us/stat/84/1236], as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title][/us/usc/t21/s801] and Tables.
 
  __Amendments__ 
+
+    2016—Subsec. (j). [Pub. L. 114–145][/us/pl/114/145] added subsec. (j).
 
     2015—Subsec. (i). [Pub. L. 114–89][/us/pl/114/89] added subsec. (i).
 
@@ -319,6 +325,7 @@
 [/us/usc/t21/s824/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs824%2Fc
 [/us/usc/t21/s824/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs824%2Fc
 [/us/usc/t21/s958/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs958%2Fi
+[/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/pl/91/513/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513%2FtII
 [/us/stat/84/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1253
 [/us/pl/93/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F281
@@ -343,6 +350,8 @@
 [/us/stat/122/4824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4824
 [/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/stat/129/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F701
+[/us/pl/114/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F145
+[/us/stat/130/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F354
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
 [/us/act/1938-06-25/ch675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch675
 [/us/stat/52/1040]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1040
@@ -350,6 +359,7 @@
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
 [/us/stat/84/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1236
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
+[/us/pl/114/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F145
 [/us/pl/114/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F89
 [/us/pl/110/425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F425
 [/us/pl/109/469]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F469

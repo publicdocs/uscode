@@ -133,7 +133,7 @@
 
             shall be admissible into evidence or otherwise used in any civil action involving private parties unless the facility, individual, or physician who made the report had knowledge of the falsity of the information contained in the report.
 
-        (4) A report made under paragraph (1) does not affect any obligation of a manufacturer who receives the report to file a report as required under subsection (a) of this section.
+        (4) A report made under paragraph (1) does not affect any obligation of a manufacturer who receives the report to file a report as required under subsection (a).
 
         (5)
 
@@ -167,13 +167,13 @@
 
     (c) __Persons exempt__ 
 
-    Subsection (a) of this section shall not apply to—
+    Subsection (a) shall not apply to—
 
         (1) any practitioner who is licensed by law to prescribe or administer devices intended for use in humans and who manufactures or imports devices solely for use in the course of his professional practice;
 
         (2) any person who manufactures or imports devices intended for use in humans solely for such person’s use in research or teaching and not for sale (including any person who uses a device under an exemption granted under [section 360j(g) of this title][/us/usc/t21/s360j/g]); and
 
-        (3) any other class of persons as the Secretary may by regulation exempt from subsection (a) of this section upon a finding that compliance with the requirements of such subsection by such class with respect to a device is not necessary to (A) assure that a device is not adulterated or misbranded or (B) otherwise to assure its safety and effectiveness.
+        (3) any other class of persons as the Secretary may by regulation exempt from subsection (a) upon a finding that compliance with the requirements of such subsection by such class with respect to a device is not necessary to (A) assure that a device is not adulterated or misbranded or (B) otherwise to assure its safety and effectiveness.
 
     (d) __Repealed.__  __[__  __Pub. L. 105–115, title II__  __][/us/pl/105/115/tII]__  __, § 213(a)(2),__  __Nov. 21, 1997__  __,__  __[__  __111 Stat. 2347__  __][/us/stat/111/2347]__ 
 
@@ -211,7 +211,7 @@
 
             A manufacturer or importer of a device who undertakes a correction or removal of a device which is not required to be reported under this paragraph shall keep a record of such correction or removal.
 
-        (2) No report of the corrective action or removal of a device may be required under paragraph (1) if a report of the corrective action or removal is required and has been submitted under subsection (a) of this section.
+        (2) No report of the corrective action or removal of a device may be required under paragraph (1) if a report of the corrective action or removal is required and has been submitted under subsection (a).
 
         (3) For purposes of paragraphs (1) and (2), the terms “correction” and “removal” do not include routine servicing.
 

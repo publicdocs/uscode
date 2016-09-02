@@ -251,7 +251,7 @@
 
             (ii) a delivery of a listed chemical to or by a common or contract carrier for carriage in the lawful and usual course of the business of the common or contract carrier, or to or by a warehouseman for storage in the lawful and usual course of the business of the warehouseman, except that if the carriage or storage is in connection with the distribution, importation, or exportation of a listed chemical to a third person, this clause does not relieve a distributor, importer, or exporter from compliance with [section 830 of this title][/us/usc/t21/s830];
 
-            (iii) any category of transaction or any category of transaction for a specific listed chemical or chemicals specified by regulation of the Attorney General as excluded from this definition as unnecessary for enforcement of this subchapter or subchapter II of this chapter;
+            (iii) any category of transaction or any category of transaction for a specific listed chemical or chemicals specified by regulation of the Attorney General as excluded from this definition as unnecessary for enforcement of this subchapter or subchapter II;
 
             (iv)
 
@@ -263,7 +263,7 @@
 
             (v) any transaction in a scheduled listed chemical product that is a sale at retail by a regulated seller or a distributor required to submit reports under [section 830(b)(3) of this title][/us/usc/t21/s830/b/3]; or
 
-            (vi) any transaction in a chemical mixture which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II of this chapter based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered; and
+            (vi) any transaction in a chemical mixture which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered; and
 
         (B) a distribution, importation, or exportation of a tableting machine or encapsulating machine.
 
@@ -723,7 +723,7 @@
 
     This subchapter, referred to in introductory provisions and in pars. (34), (35), (39)(A)(iii), (vi), and (54), was in the original “this title”, meaning title II of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242], and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under [section 801 of this title][/us/usc/t21/s801] and Tables.
 
-    Subchapter II of this chapter, referred to in par. (39)(A)(iii), (vi), was in the original “title III”, meaning title III of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1285][/us/stat/84/1285]. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
+    Subchapter II, referred to in par. (39)(A)(iii), (vi), was in the original “title III”, meaning title III of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1285][/us/stat/84/1285]. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
     The Federal Food, Drug, and Cosmetic Act, referred to in pars. (39)(A)(iv), (41)(C)(ii)(II), and (45)(A)(ii), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title][/us/usc/t21/s301] and Tables.
 
@@ -831,7 +831,7 @@
 
     Par. (39)(A)(iv). [Pub. L. 103–200][/us/pl/103/200], § 2(a)(6)(C), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “any transaction in a listed chemical that is contained in a drug that may be marketed or distributed lawfully in the United States under the Federal Food, Drug, and Cosmetic Act; or”.
 
-    Par. (39)(A)(v). [Pub. L. 103–200][/us/pl/103/200], § 2(a)(6)(D), inserted before semicolon at end “which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II of this chapter based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered”.
+    Par. (39)(A)(v). [Pub. L. 103–200][/us/pl/103/200], § 2(a)(6)(D), inserted before semicolon at end “which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered”.
 
     Par. (40). [Pub. L. 103–200][/us/pl/103/200], § 2(a)(7), substituted “list I chemical or a list II chemical” for “listed precursor chemical or a listed essential chemical” in two places.
 

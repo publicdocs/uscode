@@ -33,7 +33,7 @@
 
     (c) __Contents__ 
 
-    The regulations under subsection (b) of this section shall—
+    The regulations under subsection (b) shall—
 
         (1)
 
@@ -95,7 +95,7 @@
 
         (2) __Applicability__ 
 
-            This subsection applies to transportation that occurs on or after the effective date of the regulations promulgated under subsection (b) of this section.
+            This subsection applies to transportation that occurs on or after the effective date of the regulations promulgated under subsection (b).
 
     (f) __Assistance of other agencies__ 
 

@@ -29,13 +29,13 @@
 
     (c) __Violation as offense against property__ 
 
-        A violation of subsection (a) of this section shall be considered an offense against property for purposes of [section 3663A(c)(1)(A)(ii) of title 18][/us/usc/t18/s3663A/c/1/A/ii].
+        A violation of subsection (a) shall be considered an offense against property for purposes of [section 3663A(c)(1)(A)(ii) of title 18][/us/usc/t18/s3663A/c/1/A/ii].
 
     (d) __Civil penalties__ 
 
         (1)
 
-         Any person who violates subsection (a) of this section shall be subject to a civil penalty of not more than the greater of—
+         Any person who violates subsection (a) shall be subject to a civil penalty of not more than the greater of—
 
             (A) $250,000; or
 
@@ -45,7 +45,7 @@
 
     (e) __Declaratory and injunctive remedies__ 
 
-        Any person who violates subsection (a) of this section shall be subject to declaratory and injunctive remedies as set forth in [section 843(f) of this title][/us/usc/t21/s843/f].
+        Any person who violates subsection (a) shall be subject to declaratory and injunctive remedies as set forth in [section 843(f) of this title][/us/usc/t21/s843/f].
 
 ([Pub. L. 91–513, title II][/us/pl/91/513/tII], § 416, as added [Pub. L. 99–570, title I][/us/pl/99/570/tI], § 1841(a), Oct. 27, 1986, [100 Stat. 3207–52][/us/stat/100/3207-52]; amended [Pub. L. 106–310, div. B, title XXXVI][/us/pl/106/310/dB/tXXXVI], § 3613(e), Oct. 17, 2000, [114 Stat. 1230][/us/stat/114/1230]; [Pub. L. 108–21, title VI][/us/pl/108/21/tVI], § 608(b)(1), (2), (c), Apr. 30, 2003, [117 Stat. 691][/us/stat/117/691].)
 

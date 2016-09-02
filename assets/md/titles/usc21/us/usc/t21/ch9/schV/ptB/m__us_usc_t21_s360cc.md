@@ -17,7 +17,7 @@
 
     (a) __Exclusive approval, certification, or license__ 
 
-    Except as provided in subsection (b) of this section, if the Secretary—
+    Except as provided in subsection (b), if the Secretary—
 
         (1) approves an application filed pursuant to [section 355 of this title][/us/usc/t21/s355], or
 

@@ -33,7 +33,7 @@
 
     (e) __Request by compiler of official compendium for designation of name__ 
 
-        Upon a request in writing by any compiler of an official compendium that the Secretary exercise the authority granted to him under subsection (a) of this section, he shall upon public notice and in accordance with the procedure set forth in [section 553 of title 5][/us/usc/t5/s553] designate the official name of the drug or device for which the request is made.
+        Upon a request in writing by any compiler of an official compendium that the Secretary exercise the authority granted to him under subsection (a), he shall upon public notice and in accordance with the procedure set forth in [section 553 of title 5][/us/usc/t5/s553] designate the official name of the drug or device for which the request is made.
 
 ([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 508, as added [Pub. L. 87–781, title I][/us/pl/87/781/tI], § 111(a), Oct. 10, 1962, [76 Stat. 789][/us/stat/76/789]; amended [Pub. L. 94–295][/us/pl/94/295], § 5(b), May 28, 1976, [90 Stat. 581][/us/stat/90/581]; [Pub. L. 103–80][/us/pl/103/80], § 3(q), Aug. 13, 1993, [107 Stat. 777][/us/stat/107/777].)
 

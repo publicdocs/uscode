@@ -17,7 +17,7 @@
 
     (a) __Provision of information to the President__ 
 
-        The Secretary of the Treasury, the Attorney General, the Secretary of Defense, the Secretary of State, and the Director of Central Intelligence shall consult among themselves and provide the appropriate and necessary information to enable the President to submit the report under subsection (b) of this section. This information shall also be provided to the Director of the Office of National Drug Control Policy.
+        The Secretary of the Treasury, the Attorney General, the Secretary of Defense, the Secretary of State, and the Director of Central Intelligence shall consult among themselves and provide the appropriate and necessary information to enable the President to submit the report under subsection (b). This information shall also be provided to the Director of the Office of National Drug Control Policy.
 
     (b) __Public identification and sanctioning of significant foreign narcotics traffickers__ 
 
@@ -31,7 +31,7 @@
 
     (c) __Unclassified report required__ 
 
-        The report required by subsection (b) of this section shall be submitted in unclassified form and made available to the public.
+        The report required by subsection (b) shall be submitted in unclassified form and made available to the public.
 
     (d) __Classified report__ 
 
@@ -45,11 +45,11 @@
 
         (1) __Intelligence__ 
 
-            Notwithstanding any other provision of this section, the reports described in subsections (b) and (d) of this section shall not disclose the identity of any person, if the Director of Central Intelligence determines that such disclosure could compromise an intelligence operation, activity, source, or method of the United States.
+            Notwithstanding any other provision of this section, the reports described in subsections (b) and (d) shall not disclose the identity of any person, if the Director of Central Intelligence determines that such disclosure could compromise an intelligence operation, activity, source, or method of the United States.
 
         (2) __Law enforcement__ 
 
-        Notwithstanding any other provision of this section, the reports described in subsections (b) and (d) of this section shall not disclose the name of any person if the Attorney General, in coordination as appropriate with the Director of the Federal Bureau of Investigation, the Administrator of the Drug Enforcement Administration, and the Secretary of the Treasury, determines that such disclosure could reasonably be expected to—
+        Notwithstanding any other provision of this section, the reports described in subsections (b) and (d) shall not disclose the name of any person if the Attorney General, in coordination as appropriate with the Director of the Federal Bureau of Investigation, the Administrator of the Drug Enforcement Administration, and the Secretary of the Treasury, determines that such disclosure could reasonably be expected to—
 
             (A) compromise the identity of a confidential source, including a State, local, or foreign agency or authority or any private institution that furnished information on a confidential basis;
 
@@ -61,7 +61,7 @@
 
     (f) __Notification required__ 
 
-        (1) Whenever either the Director of Central Intelligence or the Attorney General makes a determination under subsection (e) of this section, the Director of Central Intelligence or the Attorney General shall notify the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, and explain the reasons for such determination.
+        (1) Whenever either the Director of Central Intelligence or the Attorney General makes a determination under subsection (e), the Director of Central Intelligence or the Attorney General shall notify the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, and explain the reasons for such determination.
 
         (2) The notification required under this subsection shall be submitted to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate not later than July 1, 2000, and on an annual basis thereafter.
 
@@ -75,7 +75,7 @@
 
         (1) __Additional determinations__ 
 
-            (A) If at any time after the report required under subsection (b) of this section the President finds that a foreign person is a significant foreign narcotics trafficker and such foreign person has not been publicly identified in a report required under subsection (b) of this section, the President shall submit an additional public report containing the information described in subsection (b) of this section with respect to such foreign person to the Permanent Select Committee on Intelligence, and the Committees on the Judiciary, International Relations, Armed Services, and Ways and Means of the House of Representatives, and the Select Committee on Intelligence, and the Committees on the Judiciary, Foreign Relations, Armed Services, and Finance of the Senate.
+            (A) If at any time after the report required under subsection (b) the President finds that a foreign person is a significant foreign narcotics trafficker and such foreign person has not been publicly identified in a report required under subsection (b), the President shall submit an additional public report containing the information described in subsection (b) with respect to such foreign person to the Permanent Select Committee on Intelligence, and the Committees on the Judiciary, International Relations, Armed Services, and Ways and Means of the House of Representatives, and the Select Committee on Intelligence, and the Committees on the Judiciary, Foreign Relations, Armed Services, and Finance of the Senate.
 
             (B) The President may apply sanctions authorized under this chapter to the significant foreign narcotics trafficker identified in the report submitted under subparagraph (A) as if the trafficker were originally included in the report submitted pursuant to subsection (b) of this section.
 
@@ -83,7 +83,7 @@
 
         (2) __Revocation of determination__ 
 
-            (A) Whenever the President finds that a foreign person that has been publicly identified as a significant foreign narcotics trafficker in the report required under subsection (b) of this section or this subsection no longer engages in those activities for which sanctions under this chapter may be applied, the President shall issue public notice of such a finding.
+            (A) Whenever the President finds that a foreign person that has been publicly identified as a significant foreign narcotics trafficker in the report required under subsection (b) or this subsection no longer engages in those activities for which sanctions under this chapter may be applied, the President shall issue public notice of such a finding.
 
             (B) Not later than the date of the public notice issued pursuant to subparagraph (A), the President shall notify, in writing and in classified or unclassified form, the Permanent Select Committee on Intelligence, and the Committees on the Judiciary, International Relations, Armed Services, and Ways and Means of the House of Representatives, and the Select Committee on Intelligence, and the Committees on the Judiciary, Foreign Relations, Armed Services, and Finance of the Senate of actions taken under this paragraph and a description of the basis for such actions.
 

@@ -17,7 +17,7 @@
 
     (a) __In general__ 
 
-    Except as provided in subsection (b), (c)(1), (d), (e), or (f) of this section, no State or political subdivision of a State may establish or continue in effect any requirement—
+    Except as provided in subsection (b), (c)(1), (d), (e), or (f), no State or political subdivision of a State may establish or continue in effect any requirement—
 
         (1) that relates to the regulation of a drug that is not subject to the requirements of section 353(b)(1) or 353(f)(1)(A) of this title; and
 
@@ -27,7 +27,7 @@
 
         (1) __In general__ 
 
-        Upon application of a State or political subdivision thereof, the Secretary may by regulation, after notice and opportunity for written and oral presentation of views, exempt from subsection (a) of this section, under such conditions as may be prescribed in such regulation, a State or political subdivision requirement that—
+        Upon application of a State or political subdivision thereof, the Secretary may by regulation, after notice and opportunity for written and oral presentation of views, exempt from subsection (a), under such conditions as may be prescribed in such regulation, a State or political subdivision requirement that—
 
             (A) protects an important public interest that would otherwise be unprotected, including the health and safety of children;
 
@@ -51,15 +51,15 @@
 
         (2) __Safety or effectiveness__ 
 
-            For purposes of subsection (a) of this section, a requirement that relates to the regulation of a drug shall be deemed to include any requirement relating to public information or any other form of public communication relating to a warning of any kind for a drug.
+            For purposes of subsection (a), a requirement that relates to the regulation of a drug shall be deemed to include any requirement relating to public information or any other form of public communication relating to a warning of any kind for a drug.
 
     (d) __Exceptions__ 
 
         (1) __In general__ 
 
-        In the case of a drug described in subsection (a)(1) of this section that is not the subject of an application approved under [section 355 of this title][/us/usc/t21/s355] or [section 357 of this title][/us/usc/t21/s357] (as in effect on the day before November 21, 1997) or a final regulation promulgated by the Secretary establishing conditions under which the drug is generally recognized as safe and effective and not misbranded, subsection (a) of this section shall apply only with respect to a requirement of a State or political subdivision of a State that relates to the same subject as, but is different from or in addition to, or that is otherwise not identical with—
+        In the case of a drug described in subsection (a)(1) that is not the subject of an application approved under [section 355 of this title][/us/usc/t21/s355] or [section 357 of this title][/us/usc/t21/s357] (as in effect on the day before November 21, 1997) or a final regulation promulgated by the Secretary establishing conditions under which the drug is generally recognized as safe and effective and not misbranded, subsection (a) shall apply only with respect to a requirement of a State or political subdivision of a State that relates to the same subject as, but is different from or in addition to, or that is otherwise not identical with—
 
-            (A) a regulation in effect with respect to the drug pursuant to a statute described in subsection (a)(2) of this section; or
+            (A) a regulation in effect with respect to the drug pursuant to a statute described in subsection (a)(2); or
 
             (B) any other requirement in effect with respect to the drug pursuant to an amendment to such a statute made on or after November 21, 1997.
 

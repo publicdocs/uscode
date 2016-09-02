@@ -21,7 +21,7 @@
 
     (b) __Matters to be included__ 
 
-    Each report under subsection (a) of this section shall include—
+    Each report under subsection (a) shall include—
 
         (1) a description of each project implemented by a Federal agency relating to the development or deployment of narcotics detection technology;
 

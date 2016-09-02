@@ -59,7 +59,7 @@
 
     (c) __Trade secrets__ 
 
-        Any information reported to or otherwise obtained by the Secretary or his representative under section 360c, 360d, 360e, 360f, 360h, 360i, or 374 of this title or under subsection (f) or (g) of this section which is exempt from disclosure pursuant to subsection (a) of [section 552 of title 5][/us/usc/t5/s552] by reason of subsection (b)(4) of such section shall be considered confidential and shall not be disclosed and may not be used by the Secretary as the basis for the reclassification of a device from class III to class II or class I or as the basis for the establishment or amendment of a performance standard under [section 360d of this title][/us/usc/t21/s360d] for a device reclassified from class III to class II, except (1) in accordance with subsection (h) of this section, and (2) that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter (other than section 360c or 360d of this title).
+        Any information reported to or otherwise obtained by the Secretary or his representative under section 360c, 360d, 360e, 360f, 360h, 360i, or 374 of this title or under subsection (f) or (g) of this section which is exempt from disclosure pursuant to subsection (a) of [section 552 of title 5][/us/usc/t5/s552] by reason of subsection (b)(4) of such section shall be considered confidential and shall not be disclosed and may not be used by the Secretary as the basis for the reclassification of a device from class III to class II or class I or as the basis for the establishment or amendment of a performance standard under [section 360d of this title][/us/usc/t21/s360d] for a device reclassified from class III to class II, except (1) in accordance with subsection (h), and (2) that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter (other than section 360c or 360d of this title).
 
     (d) __Notices and findings__ 
 
@@ -275,7 +275,7 @@
 
             (B) an order under [section 360e(f)(6)(A) of this title][/us/usc/t21/s360e/f/6/A] revoking an approved protocol for the device, an order under [section 360e(f)(6)(B) of this title][/us/usc/t21/s360e/f/6/B] declaring a protocol for the device completed or not completed, or an order under [section 360e(f)(7) of this title][/us/usc/t21/s360e/f/7] revoking the approval of the device, or
 
-            (C) an order approving an application under subsection (g) of this section for an exemption for the device from [section 360f of this title][/us/usc/t21/s360f] or an order disapproving, or withdrawing approval of, an application for an exemption under such subsection for the device,
+            (C) an order approving an application under subsection (g) for an exemption for the device from [section 360f of this title][/us/usc/t21/s360f] or an order disapproving, or withdrawing approval of, an application for an exemption under such subsection for the device,
 
             shall be made available to the public upon issuance of the order. Summaries of information made available pursuant to this paragraph respecting a device shall include information respecting any adverse effects on health of the device.
 
@@ -295,7 +295,7 @@
 
                 (iii) establishing a performance standard or special control under this chapter; or
 
-                (iv) classifying or reclassifying another device under [section 360c of this title][/us/usc/t21/s360c] and subsection (l)(2) of this section.
+                (iv) classifying or reclassifying another device under [section 360c of this title][/us/usc/t21/s360c] and subsection (l)(2).
 
             (B) The publicly available detailed summaries of information respecting the safety and effectiveness of devices required by paragraph (1)(A) shall be available for use by the Secretary as the evidentiary basis for the agency actions described in subparagraph (A).
 
@@ -343,9 +343,9 @@
 
                 (ii) the requirements applicable to such device before the enactment date under [section 355 of this title][/us/usc/t21/s355] shall continue to apply to such device until changed by the Secretary as authorized by this chapter.
 
-            (B) In the case of a device which is described in paragraph (1)(B) and which is in class III, an application for such device shall be considered as having been filed under [section 360e of this title][/us/usc/t21/s360e] on the enactment date. The period in which the Secretary shall act on such application in accordance with [section 360e(d)(1) of this title][/us/usc/t21/s360e/d/1] shall be one hundred and eighty days from the enactment date (or such greater period as the Secretary and the applicant may agree upon after the Secretary has made the finding required by [section 360e(d)(1)(B)(i) of this title][/us/usc/t21/s360e/d/1/B/i]) less the number of days in the period beginning on the date an application for such device was filed under [section 355 of this title][/us/usc/t21/s355] and ending on the enactment date. After the expiration of such period such device is required, unless exempt under subsection (g) of this section, to have in effect an approved application under [section 360e of this title][/us/usc/t21/s360e].
+            (B) In the case of a device which is described in paragraph (1)(B) and which is in class III, an application for such device shall be considered as having been filed under [section 360e of this title][/us/usc/t21/s360e] on the enactment date. The period in which the Secretary shall act on such application in accordance with [section 360e(d)(1) of this title][/us/usc/t21/s360e/d/1] shall be one hundred and eighty days from the enactment date (or such greater period as the Secretary and the applicant may agree upon after the Secretary has made the finding required by [section 360e(d)(1)(B)(i) of this title][/us/usc/t21/s360e/d/1/B/i]) less the number of days in the period beginning on the date an application for such device was filed under [section 355 of this title][/us/usc/t21/s355] and ending on the enactment date. After the expiration of such period such device is required, unless exempt under subsection (g), to have in effect an approved application under [section 360e of this title][/us/usc/t21/s360e].
 
-            (C) A device which is described in paragraph (1)(C) and which is in class III shall be considered a new drug until the expiration of the ninety-day period beginning on the date of the promulgation of regulations under subsection (g) of this section. After the expiration of such period such device is required, unless exempt under subsection (g) of this section, to have in effect an approved application under [section 360e of this title][/us/usc/t21/s360e].
+            (C) A device which is described in paragraph (1)(C) and which is in class III shall be considered a new drug until the expiration of the ninety-day period beginning on the date of the promulgation of regulations under subsection (g) of this section. After the expiration of such period such device is required, unless exempt under subsection (g), to have in effect an approved application under [section 360e of this title][/us/usc/t21/s360e].
 
             (D)
 
@@ -539,7 +539,7 @@
 
     1992—Subsec. (g)(2)(A). [Pub. L. 102–571][/us/pl/102/571] substituted “379e” for “376”.
 
-    1990—Subsec. (c). [Pub. L. 101–629][/us/pl/101/629], § 11(1), substituted “from class III to class II or class I” for “under [section 360c of this title][/us/usc/t21/s360c] from class III to class II” and inserted “(1) in accordance with subsection (h) of this section, and (2)” after “except”.
+    1990—Subsec. (c). [Pub. L. 101–629][/us/pl/101/629], § 11(1), substituted “from class III to class II or class I” for “under [section 360c of this title][/us/usc/t21/s360c] from class III to class II” and inserted “(1) in accordance with subsection (h), and (2)” after “except”.
 
     Subsec. (f)(1)(A). [Pub. L. 101–629][/us/pl/101/629], § 18(e), inserted “pre-production design validation (including a process to assess the performance of a device but not including an evaluation of the safety or effectiveness of a device),” after “manufacture,”.
 

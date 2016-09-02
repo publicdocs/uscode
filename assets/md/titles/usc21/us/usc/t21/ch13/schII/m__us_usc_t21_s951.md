@@ -23,7 +23,7 @@
 
         (2) The term “customs territory of the United States” has the meaning assigned to such term by general note 2 of the Harmonized Tariff Schedule of the United States.
 
-    (b) Each term defined in [section 802 of this title][/us/usc/t21/s802] shall have the same meaning for purposes of this subchapter as such term has for purposes of subchapter I of this chapter.
+    (b) Each term defined in [section 802 of this title][/us/usc/t21/s802] shall have the same meaning for purposes of this subchapter as such term has for purposes of subchapter I.
 
 ([Pub. L. 91–513, title III][/us/pl/91/513/tIII], § 1001, Oct. 27, 1970, [84 Stat. 1285][/us/stat/84/1285]; [Pub. L. 100–418, title I][/us/pl/100/418/tI], § 1214(m), Aug. 23, 1988, [102 Stat. 1158][/us/stat/102/1158].)
 

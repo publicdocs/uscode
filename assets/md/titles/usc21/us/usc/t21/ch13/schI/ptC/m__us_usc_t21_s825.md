@@ -21,7 +21,7 @@
 
     (b) __Unlawful distribution without identifying symbol__ 
 
-        It shall be unlawful for the manufacturer of any controlled substance to distribute such substance unless the labeling (as defined in [section 321(m) of this title][/us/usc/t21/s321/m]) of such substance contains, when and as required by regulations of the Attorney General, the identifying symbol required under subsection (a) of this section.
+        It shall be unlawful for the manufacturer of any controlled substance to distribute such substance unless the labeling (as defined in [section 321(m) of this title][/us/usc/t21/s321/m]) of such substance contains, when and as required by regulations of the Attorney General, the identifying symbol required under subsection (a).
 
     (c) __Warning on label__ 
 

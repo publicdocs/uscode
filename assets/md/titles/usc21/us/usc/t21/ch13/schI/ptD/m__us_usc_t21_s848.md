@@ -21,25 +21,25 @@
 
     (b) __Life imprisonment for engaging in continuing criminal enterprise__ 
 
-    Any person who engages in a continuing criminal enterprise shall be imprisoned for life and fined in accordance with subsection (a) of this section, if—
+    Any person who engages in a continuing criminal enterprise shall be imprisoned for life and fined in accordance with subsection (a), if—
 
         (1) such person is the principal administrator, organizer, or leader of the enterprise or is one of several such principal administrators, organizers, or leaders; and
 
         (2)
 
-            (A) the violation referred to in subsection (c)(1) of this section involved at least 300 times the quantity of a substance described in sub[section 841(b)(1)(B) of this title][/us/usc/t21/s841/b/1/B], or
+            (A) the violation referred to in subsection (c)(1) involved at least 300 times the quantity of a substance described in sub[section 841(b)(1)(B) of this title][/us/usc/t21/s841/b/1/B], or
 
             (B) the enterprise, or any other enterprise in which the defendant was the principal or one of several principal administrators, organizers, or leaders, received $10 million dollars in gross receipts during any twelve-month period of its existence for the manufacture, importation, or distribution of a substance described in [section 841(b)(1)(B) of this title][/us/usc/t21/s841/b/1/B].
 
     (c) __“Continuing criminal enterprise” defined__ 
 
-    For purposes of subsection (a) of this section, a person is engaged in a continuing criminal enterprise if—
+    For purposes of subsection (a), a person is engaged in a continuing criminal enterprise if—
 
-        (1) he violates any provision of this subchapter or subchapter II of this chapter the punishment for which is a felony, and
+        (1) he violates any provision of this subchapter or subchapter II the punishment for which is a felony, and
 
         (2)
 
-         such violation is a part of a continuing series of violations of this subchapter or subchapter II of this chapter—
+         such violation is a part of a continuing series of violations of this subchapter or subchapter II—
 
             (A) which are undertaken by such person in concert with five or more other persons with respect to whom such person occupies a position of organizer, a supervisory position, or any other position of management, and
 
@@ -57,7 +57,7 @@
 
             (A) any person engaging in or working in furtherance of a continuing criminal enterprise, or any person engaging in an offense punishable under section 841(b)(1)(A)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title or section 960(b)(1)  <sup>\[1\]</sup>  of this title who intentionally kills or counsels, commands, induces, procures, or causes the intentional killing of an individual and such killing results, shall be sentenced to any term of imprisonment, which shall not be less than 20 years, and which may be up to life imprisonment, or may be sentenced to death; and
 
-            (B) any person, during the commission of, in furtherance of, or while attempting to avoid apprehension, prosecution or service of a prison sentence for, a felony violation of this subchapter or subchapter II of this chapter who intentionally kills or counsels, commands, induces, procures, or causes the intentional killing of any Federal, State, or local law enforcement officer engaged in, or on account of, the performance of such officer’s official duties and such killing results, shall be sentenced to any term of imprisonment, which shall not be less than 20 years, and which may be up to life imprisonment, or may be sentenced to death.
+            (B) any person, during the commission of, in furtherance of, or while attempting to avoid apprehension, prosecution or service of a prison sentence for, a felony violation of this subchapter or subchapter II who intentionally kills or counsels, commands, induces, procures, or causes the intentional killing of any Federal, State, or local law enforcement officer engaged in, or on account of, the performance of such officer’s official duties and such killing results, shall be sentenced to any term of imprisonment, which shall not be less than 20 years, and which may be up to life imprisonment, or may be sentenced to death.
 
         (2) As used in paragraph (1)(B), the term “law enforcement officer” means a public servant authorized by law or by a Government agency or Congress to conduct or engage in the prevention, investigation, prosecution or adjudication of an offense, and includes those engaged in corrections, probation, or parole functions.
 
@@ -97,7 +97,7 @@
 
     Subsec. (q)(10). [Pub. L. 104–132][/us/pl/104/132], § 903(b), amended par. (10) generally. Prior to amendment, par. (10) read as follows: “Notwithstanding the rates and maximum limits generally applicable to criminal cases and any other provision of law to the contrary, the court shall fix the compensation to be paid to attorneys appointed under this subsection and the fees and expenses to be paid for investigative, expert, and other reasonably necessary services authorized under paragraph (9), at such rates or amounts as the court determines to be reasonably necessary to carry out the requirements of paragraphs (4) through (9).”
 
-    1994—Subsec. (b)(2)(A). [Pub. L. 103–322][/us/pl/103/322], § 330003(e), substituted “subsection (c)(1) of this section” for “subsection (d)(1) of this section”.
+    1994—Subsec. (b)(2)(A). [Pub. L. 103–322][/us/pl/103/322], § 330003(e), substituted “subsection (c)(1)” for “subsection (d)(1)”.
 
     Subsec. (n)(11). [Pub. L. 103–322][/us/pl/103/322], § 330014, made technical amendment to reference to [section 859 of this title][/us/usc/t21/s859] to correct reference to corresponding section of original act.
 

@@ -33,7 +33,7 @@
 
     (b) __Recordkeeping__ 
 
-        Pursuant to subsection (a) of this section, the Secretary of the Treasury may require recordkeeping, reporting, and production of documents to carry out the purposes of this chapter.
+        Pursuant to subsection (a), the Secretary of the Treasury may require recordkeeping, reporting, and production of documents to carry out the purposes of this chapter.
 
     (c) __Defenses__ 
 

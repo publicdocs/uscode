@@ -53,7 +53,7 @@
 
     (c) __Suspension of period of ineligibility__ 
 
-    The period of ineligibility referred to in subsections (a) and (b) of this section shall be suspended if the individual—
+    The period of ineligibility referred to in subsections (a) and (b) shall be suspended if the individual—
 
         (A) completes a supervised drug rehabilitation program after becoming ineligible under this section;
 
@@ -81,7 +81,7 @@
 
     (f) __Indian provision__ 
 
-        Nothing in this section shall be construed to affect the obligation of the United States to any Indian or Indian tribe arising out of any treaty, statute, Executive order, or the trust responsibility of the United States owing to such Indian or Indian tribe. Nothing in this subsection shall exempt any individual Indian from the sanctions provided for in this section, provided that no individual Indian shall be denied any benefit under Federal Indian programs comparable to those described in subsection (d)(1)(B) or (d)(2) of this section.
+        Nothing in this section shall be construed to affect the obligation of the United States to any Indian or Indian tribe arising out of any treaty, statute, Executive order, or the trust responsibility of the United States owing to such Indian or Indian tribe. Nothing in this subsection shall exempt any individual Indian from the sanctions provided for in this section, provided that no individual Indian shall be denied any benefit under Federal Indian programs comparable to those described in subsection (d)(1)(B) or (d)(2).
 
     (g) __Presidential report__ 
 

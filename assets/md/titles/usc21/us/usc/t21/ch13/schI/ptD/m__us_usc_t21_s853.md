@@ -17,7 +17,7 @@
 
     (a) __Property subject to criminal forfeiture__ 
 
-    Any person convicted of a violation of this subchapter or subchapter II of this chapter punishable by imprisonment for more than one year shall forfeit to the United States, irrespective of any provision of State law—
+    Any person convicted of a violation of this subchapter or subchapter II punishable by imprisonment for more than one year shall forfeit to the United States, irrespective of any provision of State law—
 
         (1) any property constituting, or derived from, any proceeds the person obtained, directly or indirectly, as the result of such violation;
 
@@ -25,7 +25,7 @@
 
         (3) in the case of a person convicted of engaging in a continuing criminal enterprise in violation of [section 848 of this title][/us/usc/t21/s848], the person shall forfeit, in addition to any property described in paragraph (1) or (2), any of his interest in, claims against, and property or contractual rights affording a source of control over, the continuing criminal enterprise.
 
-        The court, in imposing sentence on such person, shall order, in addition to any other sentence imposed pursuant to this subchapter or subchapter II of this chapter, that the person forfeit to the United States all property described in this subsection. In lieu of a fine otherwise authorized by this part, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.
+        The court, in imposing sentence on such person, shall order, in addition to any other sentence imposed pursuant to this subchapter or subchapter II, that the person forfeit to the United States all property described in this subsection. In lieu of a fine otherwise authorized by this part, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.
 
     (b) __Meaning of term “property”__ 
 
@@ -37,23 +37,23 @@
 
     (c) __Third party transfers__ 
 
-        All right, title, and interest in property described in subsection (a) of this section vests in the United States upon the commission of the act giving rise to forfeiture under this section. Any such property that is subsequently transferred to a person other than the defendant may be the subject of a special verdict of forfeiture and thereafter shall be ordered forfeited to the United States, unless the transferee establishes in a hearing pursuant to subsection (n) of this section that he is a bona fide purchaser for value of such property who at the time of purchase was reasonably without cause to believe that the property was subject to forfeiture under this section.
+        All right, title, and interest in property described in subsection (a) vests in the United States upon the commission of the act giving rise to forfeiture under this section. Any such property that is subsequently transferred to a person other than the defendant may be the subject of a special verdict of forfeiture and thereafter shall be ordered forfeited to the United States, unless the transferee establishes in a hearing pursuant to subsection (n) that he is a bona fide purchaser for value of such property who at the time of purchase was reasonably without cause to believe that the property was subject to forfeiture under this section.
 
     (d) __Rebuttable presumption__ 
 
-    There is a rebuttable presumption at trial that any property of a person convicted of a felony under this subchapter or subchapter II of this chapter is subject to forfeiture under this section if the United States establishes by a preponderance of the evidence that—
+    There is a rebuttable presumption at trial that any property of a person convicted of a felony under this subchapter or subchapter II is subject to forfeiture under this section if the United States establishes by a preponderance of the evidence that—
 
-        (1) such property was acquired by such person during the period of the violation of this subchapter or subchapter II of this chapter or within a reasonable time after such period; and
+        (1) such property was acquired by such person during the period of the violation of this subchapter or subchapter II or within a reasonable time after such period; and
 
-        (2) there was no likely source for such property other than the violation of this subchapter or subchapter II of this chapter.
+        (2) there was no likely source for such property other than the violation of this subchapter or subchapter II.
 
     (e) __Protective orders__ 
 
         (1)
 
-         Upon application of the United States, the court may enter a restraining order or injunction, require the execution of a satisfactory performance bond, or take any other action to preserve the availability of property described in subsection (a) of this section for forfeiture under this section—
+         Upon application of the United States, the court may enter a restraining order or injunction, require the execution of a satisfactory performance bond, or take any other action to preserve the availability of property described in subsection (a) for forfeiture under this section—
 
-            (A) upon the filing of an indictment or information charging a violation of this subchapter or subchapter II of this chapter for which criminal forfeiture may be ordered under this section and alleging that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section; or
+            (A) upon the filing of an indictment or information charging a violation of this subchapter or subchapter II for which criminal forfeiture may be ordered under this section and alleging that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section; or
 
             (B)
 
@@ -77,11 +77,11 @@
 
             (B)  __Failure to comply__  __.—__ 
 
-            Failure to comply with an order under this subsection, or an order to repatriate property under subsection (p) of this section, shall be punishable as a civil or criminal contempt of court, and may also result in an enhancement of the sentence of the defendant under the obstruction of justice provision of the Federal Sentencing Guidelines.
+            Failure to comply with an order under this subsection, or an order to repatriate property under subsection (p), shall be punishable as a civil or criminal contempt of court, and may also result in an enhancement of the sentence of the defendant under the obstruction of justice provision of the Federal Sentencing Guidelines.
 
     (f) __Warrant of seizure__ 
 
-        The Government may request the issuance of a warrant authorizing the seizure of property subject to forfeiture under this section in the same manner as provided for a search warrant. If the court determines that there is probable cause to believe that the property to be seized would, in the event of conviction, be subject to forfeiture and that an order under subsection (e) of this section may not be sufficient to assure the availability of the property for forfeiture, the court shall issue a warrant authorizing the seizure of such property.
+        The Government may request the issuance of a warrant authorizing the seizure of property subject to forfeiture under this section in the same manner as provided for a search warrant. If the court determines that there is probable cause to believe that the property to be seized would, in the event of conviction, be subject to forfeiture and that an order under subsection (e) may not be sufficient to assure the availability of the property for forfeiture, the court shall issue a warrant authorizing the seizure of such property.
 
     (g) __Execution__ 
 
@@ -111,7 +111,7 @@
 
     (k) __Bar on intervention__ 
 
-    Except as provided in subsection (n) of this section, no party claiming an interest in property subject to forfeiture under this section may—
+    Except as provided in subsection (n), no party claiming an interest in property subject to forfeiture under this section may—
 
         (1) intervene in a trial or appeal of a criminal case involving the forfeiture of such property under this section; or
 
@@ -157,7 +157,7 @@
 
         (1) __In general__ 
 
-        Paragraph (2) of this subsection shall apply, if any property described in subsection (a) of this section, as a result of any act or omission of the defendant—
+        Paragraph (2) of this subsection shall apply, if any property described in subsection (a), as a result of any act or omission of the defendant—
 
             (A) cannot be located upon the exercise of due diligence;
 
@@ -179,7 +179,7 @@
 
     (q) __Restitution for cleanup of clandestine laboratory sites__ 
 
-    The court, when sentencing a defendant convicted of an offense under this subchapter or subchapter II of this chapter involving the manufacture, the possession, or the possession with intent to distribute, of amphetamine or methamphetamine, shall—
+    The court, when sentencing a defendant convicted of an offense under this subchapter or subchapter II involving the manufacture, the possession, or the possession with intent to distribute, of amphetamine or methamphetamine, shall—
 
         (1) order restitution as provided in sections 3612 and 3664 of title 18;
 

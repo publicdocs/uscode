@@ -29,7 +29,7 @@
 
         (1) __In general__ 
 
-            Subject to paragraph (2), the official of the Food and Drug Administration responsible for any matter for which expert review is used pursuant to subsection (a) of this section shall review the recommendations of the organization or individual who conducted the expert review and shall make a final decision regarding the matter in a timely manner.
+            Subject to paragraph (2), the official of the Food and Drug Administration responsible for any matter for which expert review is used pursuant to subsection (a) shall review the recommendations of the organization or individual who conducted the expert review and shall make a final decision regarding the matter in a timely manner.
 
         (2) __Limitation__ 
 

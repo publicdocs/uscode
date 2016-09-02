@@ -29,7 +29,7 @@
 
     (b) __First offense__ 
 
-    A person who violates [section 841(a)(1) of this title][/us/usc/t21/s841/a/1] or [section 856 of this title][/us/usc/t21/s856] by distributing or possessing with intent to distribute a controlled substance in or on, or within 1,000 feet of, a truck stop or safety rest area is (except as provided in subsection (b)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be subsection “(c)”. </sup></sup>  of this section) subject to—
+    A person who violates [section 841(a)(1) of this title][/us/usc/t21/s841/a/1] or [section 856 of this title][/us/usc/t21/s856] by distributing or possessing with intent to distribute a controlled substance in or on, or within 1,000 feet of, a truck stop or safety rest area is (except as provided in subsection (b)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be subsection “(c)”. </sup></sup> ) subject to—
 
         (1) twice the maximum punishment authorized by [section 841(b) of this title][/us/usc/t21/s841/b]; and
 
@@ -37,7 +37,7 @@
 
     (c) __Subsequent offense__ 
 
-    A person who violates [section 841(a)(1) of this title][/us/usc/t21/s841/a/1] or [section 856 of this title][/us/usc/t21/s856] by distributing or possessing with intent to distribute a controlled substance in or on, or within 1,000 feet of, a truck stop or a safety rest area after a prior conviction or convictions under subsection (a)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be subsection “(b)”. </sup></sup>  of this section have become final is subject to—
+    A person who violates [section 841(a)(1) of this title][/us/usc/t21/s841/a/1] or [section 856 of this title][/us/usc/t21/s856] by distributing or possessing with intent to distribute a controlled substance in or on, or within 1,000 feet of, a truck stop or a safety rest area after a prior conviction or convictions under subsection (a)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be subsection “(b)”. </sup></sup>  have become final is subject to—
 
         (1) 3 times the maximum punishment authorized by [section 841(b) of this title][/us/usc/t21/s841/b]; and
 

@@ -15,7 +15,7 @@
 
 ## § 337. Proceedings in name of United States; provision as to subpoenas
 
-    (a) Except as provided in subsection (b) of this section, all such proceedings for the enforcement, or to restrain violations, of this chapter shall be by and in the name of the United States. Subpoenas for witnesses who are required to attend a court of the United States, in any district, may run into any other district in any proceeding under this section.
+    (a) Except as provided in subsection (b), all such proceedings for the enforcement, or to restrain violations, of this chapter shall be by and in the name of the United States. Subpoenas for witnesses who are required to attend a court of the United States, in any district, may run into any other district in any proceeding under this section.
 
     (b)
 
@@ -37,7 +37,7 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–535][/us/pl/101/535] substituted “(a) Except as provided in subsection (b) of this section, all” for “All” and “any proceeding under this section” for “any such proceeding” and added subsec. (b).
+    1990—[Pub. L. 101–535][/us/pl/101/535] substituted “(a) Except as provided in subsection (b), all” for “All” and “any proceeding under this section” for “any such proceeding” and added subsec. (b).
 
     1954—Act Sept. 3, 1954, struck out reference to [section 654 of title 28][/us/usc/t28/s654].
 

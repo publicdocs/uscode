@@ -21,7 +21,7 @@
 
     (b) __Factors to be considered__ 
 
-    In removing a drug or group of drugs from exemption under subsection (a) of this section, the Attorney General shall consider, with respect to a drug or group of drugs that is proposed to be removed from exemption—
+    In removing a drug or group of drugs from exemption under subsection (a), the Attorney General shall consider, with respect to a drug or group of drugs that is proposed to be removed from exemption—
 
         (1) the scope, duration, and significance of the diversion;
 
@@ -31,13 +31,13 @@
 
     (c) __Specificity of designation__ 
 
-        The Attorney General shall limit the designation of a drug or a group of drugs removed from exemption under subsection (a) of this section to the most particularly identifiable type of drug or group of drugs for which evidence of diversion exists unless there is evidence, based on the pattern of diversion and other relevant factors, that the diversion will not be limited to that particular drug or group of drugs.
+        The Attorney General shall limit the designation of a drug or a group of drugs removed from exemption under subsection (a) to the most particularly identifiable type of drug or group of drugs for which evidence of diversion exists unless there is evidence, based on the pattern of diversion and other relevant factors, that the diversion will not be limited to that particular drug or group of drugs.
 
     (d) __Reinstatement of exemption with respect to particular drug products__ 
 
         (1) __Reinstatement__ 
 
-            On application by a manufacturer of a particular drug product that has been removed from exemption under subsection (a) of this section, the Attorney General shall by regulation reinstate the exemption with respect to that particular drug product if the Attorney General determines that the particular drug product is manufactured and distributed in a manner that prevents diversion.
+            On application by a manufacturer of a particular drug product that has been removed from exemption under subsection (a), the Attorney General shall by regulation reinstate the exemption with respect to that particular drug product if the Attorney General determines that the particular drug product is manufactured and distributed in a manner that prevents diversion.
 
         (2) __Factors to be considered__ 
 
@@ -51,13 +51,13 @@
 
             (D) any actions taken by the manufacturer to prevent diversion of the drug product; and
 
-            (E) such other factors as are relevant to and consistent with the public health and safety, including the factors described in subsection (b) of this section as applied to the drug product.
+            (E) such other factors as are relevant to and consistent with the public health and safety, including the factors described in subsection (b) as applied to the drug product.
 
         (3) __Status pending application for reinstatement__ 
 
-        A transaction involving a particular drug product that is the subject of a bona fide pending application for reinstatement of exemption filed with the Attorney General not later than 60 days after a regulation removing the exemption is issued pursuant to subsection (a) of this section shall not be considered to be a regulated transaction if the transaction occurs during the pendency of the application and, if the Attorney General denies the application, during the period of 60 days following the date on which the Attorney General denies the application, unless—
+        A transaction involving a particular drug product that is the subject of a bona fide pending application for reinstatement of exemption filed with the Attorney General not later than 60 days after a regulation removing the exemption is issued pursuant to subsection (a) shall not be considered to be a regulated transaction if the transaction occurs during the pendency of the application and, if the Attorney General denies the application, during the period of 60 days following the date on which the Attorney General denies the application, unless—
 
-            (A) the Attorney General has evidence that, applying the factors described in subsection (b) of this section to the drug product, the drug product is being diverted; and
+            (A) the Attorney General has evidence that, applying the factors described in subsection (b) to the drug product, the drug product is being diverted; and
 
             (B) the Attorney General so notifies the applicant.
 
@@ -65,7 +65,7 @@
 
         A regulation reinstating an exemption under paragraph (1) may be modified or revoked with respect to a particular drug product upon a finding that—
 
-            (A) applying the factors described in subsection (b) of this section to the drug product, the drug product is being diverted; or
+            (A) applying the factors described in subsection (b) to the drug product, the drug product is being diverted; or
 
             (B) there is a significant change in the data that led to the issuance of the regulation.
 

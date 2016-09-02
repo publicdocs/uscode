@@ -35,7 +35,7 @@
 
         (8) All controlled substances which have been possessed in violation of this subchapter.
 
-        (9) All listed chemicals, all drug manufacturing equipment, all tableting machines, all encapsulating machines, and all gelatin capsules, which have been imported, exported, manufactured, possessed, distributed, dispensed, acquired, or intended to be distributed, dispensed, acquired, imported, or exported, in violation of this subchapter or subchapter II of this chapter.
+        (9) All listed chemicals, all drug manufacturing equipment, all tableting machines, all encapsulating machines, and all gelatin capsules, which have been imported, exported, manufactured, possessed, distributed, dispensed, acquired, or intended to be distributed, dispensed, acquired, imported, or exported, in violation of this subchapter or subchapter II.
 
         (10) Any drug paraphernalia (as defined in [section 863 of this title][/us/usc/t21/s863]).
 
@@ -119,9 +119,9 @@
 
     (f) __Forfeiture and destruction of schedule I and II substances__ 
 
-        (1) All controlled substances in schedule I or II that are possessed, transferred, sold, or offered for sale in violation of the provisions of this subchapter; all dangerous, toxic, or hazardous raw materials or products subject to forfeiture under subsection (a)(2) of this section; and any equipment or container subject to forfeiture under subsection (a)(2) or (3) of this section which cannot be separated safely from such raw materials or products shall be deemed contraband and seized and summarily forfeited to the United States. Similarly, all substances in schedule I or II, which are seized or come into the possession of the United States, the owners of which are unknown, shall be deemed contraband and summarily forfeited to the United States.
+        (1) All controlled substances in schedule I or II that are possessed, transferred, sold, or offered for sale in violation of the provisions of this subchapter; all dangerous, toxic, or hazardous raw materials or products subject to forfeiture under subsection (a)(2) of this section; and any equipment or container subject to forfeiture under subsection (a)(2) or (3) which cannot be separated safely from such raw materials or products shall be deemed contraband and seized and summarily forfeited to the United States. Similarly, all substances in schedule I or II, which are seized or come into the possession of the United States, the owners of which are unknown, shall be deemed contraband and summarily forfeited to the United States.
 
-        (2) The Attorney General may direct the destruction of all controlled substances in schedule I or II seized for violation of this subchapter; all dangerous, toxic, or hazardous raw materials or products subject to forfeiture under subsection (a)(2) of this section; and any equipment or container subject to forfeiture under subsection (a)(2) or (3) of this section which cannot be separated safely from such raw materials or products under such circumstances as the Attorney General may deem necessary.
+        (2) The Attorney General may direct the destruction of all controlled substances in schedule I or II seized for violation of this subchapter; all dangerous, toxic, or hazardous raw materials or products subject to forfeiture under subsection (a)(2) of this section; and any equipment or container subject to forfeiture under subsection (a)(2) or (3) which cannot be separated safely from such raw materials or products under such circumstances as the Attorney General may deem necessary.
 
     (g) __Plants__ 
 
@@ -133,7 +133,7 @@
 
     (h) __Vesting of title in United States__ 
 
-        All right, title, and interest in property described in subsection (a) of this section shall vest in the United States upon commission of the act giving rise to forfeiture under this section.
+        All right, title, and interest in property described in subsection (a) shall vest in the United States upon commission of the act giving rise to forfeiture under this section.
 
     (i) __Stay of civil forfeiture proceedings__ 
 
@@ -151,7 +151,7 @@
 
  __References in Text__ 
 
-    Subchapter II of this chapter, referred to in subsec. (a)(9), was in the original “title III”, meaning title III of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1285][/us/stat/84/1285]. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
+    Subchapter II, referred to in subsec. (a)(9), was in the original “title III”, meaning title III of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1285][/us/stat/84/1285]. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
     Schedules I and II, referred to in subsecs. (f) and (g), are set out in [section 812(c) of this title][/us/usc/t21/s812/c].
 
@@ -191,7 +191,7 @@
 
     Subsec. (e)(1)(B). [Pub. L. 101–647][/us/pl/101/647], § 2003, inserted “, by public sale or any other commercially feasible means,” after “sell”.
 
-    Subsec. (f). [Pub. L. 101–647][/us/pl/101/647], § 2004, inserted “; all dangerous, toxic, or hazardous raw materials or products subject to forfeiture under subsection (a)(2) of this section; and any equipment or container subject to forfeiture under subsection (a)(2) or (3) of this section which cannot be separated safely from such raw materials or products” after “this subchapter” in pars. (1) and (2).
+    Subsec. (f). [Pub. L. 101–647][/us/pl/101/647], § 2004, inserted “; all dangerous, toxic, or hazardous raw materials or products subject to forfeiture under subsection (a)(2) of this section; and any equipment or container subject to forfeiture under subsection (a)(2) or (3) which cannot be separated safely from such raw materials or products” after “this subchapter” in pars. (1) and (2).
 
     1989—Subsec. (e)(3)(B). [Pub. L. 101–189][/us/pl/101/189] amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “is not so transferred to circumvent any requirement of State law that prohibits forfeiture or limits use or disposition of property forfeited to State or local agencies.”
 

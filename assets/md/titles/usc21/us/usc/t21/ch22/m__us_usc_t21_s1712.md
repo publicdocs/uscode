@@ -17,11 +17,11 @@
 
     (a) __In general__ 
 
-        Except as provided in subsection (b) of this section, effective on September 30, 2010, this chapter and the amendments made to this chapter are repealed.
+        Except as provided in subsection (b), effective on September 30, 2010, this chapter and the amendments made to this chapter are repealed.
 
     (b) __Exception__ 
 
-        Subsection (a) of this section does not apply to section 713 or the amendments made by that section.
+        Subsection (a) does not apply to section 713 or the amendments made by that section.
 
 ([Pub. L. 105–277, div. C, title VII][/us/pl/105/277/dC/tVII], § 715, Oct. 21, 1998, [112 Stat. 2681–693][/us/stat/112/2681-693]; [Pub. L. 109–469, title VI][/us/pl/109/469/tVI], § 602, Dec. 29, 2006, [120 Stat. 3533][/us/stat/120/3533].)
 

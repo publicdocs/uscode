@@ -39,7 +39,7 @@
 
     (b) __Recommendations__ 
 
-        If the Director rejects any recommendation of the Advisory Commission under subsection (a)(1) of this section, the Director shall notify the Advisory Commission in writing of the reasons for the rejection not later than 15 days after receiving the recommendation.
+        If the Director rejects any recommendation of the Advisory Commission under subsection (a)(1), the Director shall notify the Advisory Commission in writing of the reasons for the rejection not later than 15 days after receiving the recommendation.
 
     (c) __Conflict of interest__ 
 

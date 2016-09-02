@@ -127,7 +127,7 @@
 
         (6)
 
-         Any person who violates subsection (a) of this section, or attempts to do so, and knowingly or intentionally uses a poison, chemical, or other hazardous substance on Federal land, and, by such use—
+         Any person who violates subsection (a), or attempts to do so, and knowingly or intentionally uses a poison, chemical, or other hazardous substance on Federal land, and, by such use—
 
             (A) creates a serious hazard to humans, wildlife, or domestic animals,
 
@@ -141,7 +141,7 @@
 
             (A)  __In general__  __.—__ 
 
-            Whoever, with intent to commit a crime of violence, as defined in [section 16 of title 18][/us/usc/t18/s16] (including rape), against an individual, violates subsection (a) of this section by distributing a controlled substance or controlled substance analogue to that individual without that individual’s knowledge, shall be imprisoned not more than 20 years and fined in accordance with title 18.
+            Whoever, with intent to commit a crime of violence, as defined in [section 16 of title 18][/us/usc/t18/s16] (including rape), against an individual, violates subsection (a) by distributing a controlled substance or controlled substance analogue to that individual without that individual’s knowledge, shall be imprisoned not more than 20 years and fined in accordance with title 18.
 
             (B)  __Definition__  __.—__ 
 
@@ -274,8 +274,6 @@
     This subchapter, referred to in subsecs. (a), (b)(1), (c)(1), (2), (f)(1), (g)(1), and (h)(1), (3)(A)(i), was in the original “this title”, meaning title II of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1242][/us/stat/84/1242], and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under [section 801 of this title][/us/usc/t21/s801] and Tables.
 
     Schedules I, II, III, IV, and V, referred to in subsec. (b), are set out in [section 812(c) of this title][/us/usc/t21/s812/c].
-
-    Subchapter II of this chapter, referred to in subsec. (b)(1), was in the original “title III”, meaning title III of [Pub. L. 91–513][/us/pl/91/513], Oct. 27, 1970, [84 Stat. 1285][/us/stat/84/1285]. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
     Section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Prohibition Act of 2000, referred to in subsec. (b)(1)(C), is [section 3(a)(1)(B) of Pub. L. 106–172][/us/pl/106/172/s3/a/1/B], which is set out in a note under [section 812 of this title][/us/usc/t21/s812].
 
@@ -551,8 +549,6 @@
 [/us/stat/84/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1242
 [/us/usc/t21/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs801
 [/us/usc/t21/s812/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812%2Fc
-[/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513
-[/us/stat/84/1285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1285
 [/us/pl/106/172/s3/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F172%2Fs3%2Fa%2F1%2FB
 [/us/usc/t21/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812
 [/us/pl/91/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F513

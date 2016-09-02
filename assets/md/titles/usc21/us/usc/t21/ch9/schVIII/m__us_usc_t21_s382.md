@@ -41,7 +41,7 @@
 
             (B) under [section 360j(g) of this title][/us/usc/t21/s360j/g] is exempt from either such section; or
 
-            (C) is a banned device under [section 360f of this title][/us/usc/t21/s360f], is adulterated, misbranded, and in violation of such sections or Act unless the export of the drug or device is, except as provided in subsection (f) of this section, authorized under subsection (b), (c), (d), or (e) of this section or [section 381(e)(2) of this title][/us/usc/t21/s381/e/2]. If a drug or device described in paragraphs (1) and (2) may be exported under subsection (b) of this section and if an application for such drug or device under section 355 or 360e of this title or [section 262 of title 42][/us/usc/t42/s262] was disapproved, the Secretary shall notify the appropriate public health official of the country to which such drug will be exported of such disapproval.
+            (C) is a banned device under [section 360f of this title][/us/usc/t21/s360f], is adulterated, misbranded, and in violation of such sections or Act unless the export of the drug or device is, except as provided in subsection (f), authorized under subsection (b), (c), (d), or (e) or [section 381(e)(2) of this title][/us/usc/t21/s381/e/2]. If a drug or device described in paragraphs (1) and (2) may be exported under subsection (b) and if an application for such drug or device under section 355 or 360e of this title or [section 262 of title 42][/us/usc/t42/s262] was disapproved, the Secretary shall notify the appropriate public health official of the country to which such drug will be exported of such disapproval.
 
     (b) __List of eligible countries for export; criteria for addition to list; direct export; petition for exemption__ 
 
@@ -49,7 +49,7 @@
 
             (A)
 
-             A drug or device described in subsection (a) of this section may be exported to any country, if the drug or device complies with the laws of that country and has valid marketing authorization by the appropriate authority—
+             A drug or device described in subsection (a) may be exported to any country, if the drug or device complies with the laws of that country and has valid marketing authorization by the appropriate authority—
 
                 (i) in Australia, Canada, Israel, Japan, New Zealand, Switzerland, or South Africa; or
 
@@ -81,7 +81,7 @@
 
         (2)
 
-         A drug described in subsection (a) of this section may be directly exported to a country which is not listed in clause (i) or (ii) of paragraph (1)(A) if—
+         A drug described in subsection (a) may be directly exported to a country which is not listed in clause (i) or (ii) of paragraph (1)(A) if—
 
             (A) the drug complies with the laws of that country and has valid marketing authorization by the responsible authority in that country; and
 
@@ -99,7 +99,7 @@
 
         (3)
 
-         The exporter of a drug described in subsection (a) of this section which would not meet the conditions for approval under this chapter or conditions for approval of a country described in clause (i) or (ii) of paragraph (1)(A) may petition the Secretary for authorization to export such drug to a country which is not described in clause (i) or (ii) of paragraph (1)(A) or which is not described in paragraph (2). The Secretary shall permit such export if—
+         The exporter of a drug described in subsection (a) which would not meet the conditions for approval under this chapter or conditions for approval of a country described in clause (i) or (ii) of paragraph (1)(A) may petition the Secretary for authorization to export such drug to a country which is not described in clause (i) or (ii) of paragraph (1)(A) or which is not described in paragraph (2). The Secretary shall permit such export if—
 
             (A)
 
@@ -123,11 +123,11 @@
 
     (c) __Investigational use exemption__ 
 
-        A drug or device intended for investigational use in any country described in clause (i) or (ii) of subsection (b)(1)(A) of this section may be exported in accordance with the laws of that country and shall be exempt from regulation under section 355(i) or 360j(g) of this title.
+        A drug or device intended for investigational use in any country described in clause (i) or (ii) of subsection (b)(1)(A) may be exported in accordance with the laws of that country and shall be exempt from regulation under section 355(i) or 360j(g) of this title.
 
     (d) __Anticipation of market authorization__ 
 
-        A drug or device intended for formulation, filling, packaging, labeling, or further processing in anticipation of market authorization in any country described in clause (i) or (ii) of subsection (b)(1)(A) of this section may be exported for use in accordance with the laws of that country.
+        A drug or device intended for formulation, filling, packaging, labeling, or further processing in anticipation of market authorization in any country described in clause (i) or (ii) of subsection (b)(1)(A) may be exported for use in accordance with the laws of that country.
 
     (e) __Diagnosis, prevention, or treatment of tropical disease__ 
 
@@ -179,7 +179,7 @@
 
              in accordance with the requirements and conditions for use in—
 
-                (i) the country in which the drug or device received valid marketing authorization under subsection (b) of this section; and
+                (i) the country in which the drug or device received valid marketing authorization under subsection (b); and
 
                 (ii) the country to which the drug or device would be exported; and
 
@@ -191,7 +191,7 @@
 
     (g) __Notification of Secretary__ 
 
-        The exporter of a drug or device exported under subsection (b)(1) of this section shall provide a simple notification to the Secretary identifying the drug or device when the exporter first begins to export such drug or device to any country listed in clause (i) or (ii) of subsection (b)(1)(A) of this section. When an exporter of a drug or device first begins to export a drug or device to a country which is not listed in clause (i) or (ii) of subsection (b)(1)A)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be subsection “(b)(1)(A)”. </sup></sup>  of this section, the exporter shall provide a simple notification to the Secretary identifying the drug or device and the country to which such drug or device is being exported. Any exporter of a drug or device shall maintain records of all drugs or devices exported and the countries to which they were exported.
+        The exporter of a drug or device exported under subsection (b)(1) shall provide a simple notification to the Secretary identifying the drug or device when the exporter first begins to export such drug or device to any country listed in clause (i) or (ii) of subsection (b)(1)(A). When an exporter of a drug or device first begins to export a drug or device to a country which is not listed in clause (i) or (ii) of subsection (b)(1)A), <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be subsection “(b)(1)(A)”. </sup></sup>  the exporter shall provide a simple notification to the Secretary identifying the drug or device and the country to which such drug or device is being exported. Any exporter of a drug or device shall maintain records of all drugs or devices exported and the countries to which they were exported.
 
     (h) __References to Secretary and term “drug”__ 
 

@@ -73,7 +73,7 @@
 
          For purposes of paragraphs (1) and (2), an accredited person described in this paragraph is a person who—
 
-            (A) is accredited under subsection (g) of this section; or
+            (A) is accredited under subsection (g); or
 
             (B) is accredited under [section 360m of this title][/us/usc/t21/s360m].
 

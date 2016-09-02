@@ -63,9 +63,11 @@
 
             (P) Yaws.
 
-            (Q) Filoviruses.
+            (Q) Filovirus Diseases.
 
-            (R) Any other infectious disease for which there is no significant market in developed nations and that disproportionately affects poor and marginalized populations, designated by order of the Secretary.
+            (R) Zika Virus Disease.
+
+            (S) Any other infectious disease for which there is no significant market in developed nations and that disproportionately affects poor and marginalized populations, designated by order of the Secretary.
 
         (4) __Tropical disease product application__ 
 
@@ -143,13 +145,17 @@
 
             (B) shall not be collected for any fiscal year except to the extent provided in advance in appropriation Acts.
 
-([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 524, as added [Pub. L. 110–85, title XI][/us/pl/110/85/tXI], § 1102, Sept. 27, 2007, [121 Stat. 972][/us/stat/121/972]; amended [Pub. L. 113–233][/us/pl/113/233], § 2, Dec. 16, 2014, [128 Stat. 2127][/us/stat/128/2127].)
+([June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], § 524, as added [Pub. L. 110–85, title XI][/us/pl/110/85/tXI], § 1102, Sept. 27, 2007, [121 Stat. 972][/us/stat/121/972]; amended [Pub. L. 113–233][/us/pl/113/233], § 2, Dec. 16, 2014, [128 Stat. 2127][/us/stat/128/2127]; [Pub. L. 114–146][/us/pl/114/146], § 2, Apr. 19, 2016, [130 Stat. 357][/us/stat/130/357].)
 
  __References in Text__ 
 
     Section 101(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (a)(1), is [section 101(c) of Pub. L. 110–85][/us/pl/110/85/s101/c], which is set out as a note under [section 379g of this title][/us/usc/t21/s379g].
 
  __Amendments__ 
+
+    2016—Subsec. (a)(3)(Q). [Pub. L. 114–146][/us/pl/114/146], § 2(2), substituted “Filovirus Diseases” for “Filoviruses”.
+
+    Subsec. (a)(3)(R), (S). [Pub. L. 114–146][/us/pl/114/146], § 2(1), (3), added subpar. (R) and redesignated former subpar. (R) as (S).
 
     2014—Subsec. (a)(3)(Q), (R). [Pub. L. 113–233][/us/pl/113/233], § 2(1), added subpar. (Q), redesignated former subpar. (Q) as (R), and in subpar. (R) substituted “order of” for “regulation by”.
 
@@ -179,8 +185,12 @@
 [/us/stat/121/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F972
 [/us/pl/113/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F233
 [/us/stat/128/2127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2127
+[/us/pl/114/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F146
+[/us/stat/130/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F357
 [/us/pl/110/85/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F85%2Fs101%2Fc
 [/us/usc/t21/s379g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs379g
+[/us/pl/114/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F146
+[/us/pl/114/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F146
 [/us/pl/113/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F233
 [/us/pl/113/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F233
 [/us/pl/113/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F233

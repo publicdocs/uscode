@@ -29,9 +29,9 @@
 
             (A) in effect, and such substance and the use of such substance are in conformity with, a regulation issued under this section prescribing the conditions under which such additive may be safely used; or
 
-            (B) a notification submitted under subsection (h) of this section that is effective.
+            (B) a notification submitted under subsection (h) that is effective.
 
-        While such a regulation relating to a food additive, or such a notification under subsection (h)(1) of this section relating to a food additive that is a food contact substance, is in effect, and has not been revoked pursuant to subsection (i) of this section, a food shall not, by reason of bearing or containing such a food additive in accordance with the regulation or notification, be considered adulterated under [section 342(a)(1) of this title][/us/usc/t21/s342/a/1].
+        While such a regulation relating to a food additive, or such a notification under subsection (h)(1) relating to a food additive that is a food contact substance, is in effect, and has not been revoked pursuant to subsection (i), a food shall not, by reason of bearing or containing such a food additive in accordance with the regulation or notification, be considered adulterated under [section 342(a)(1) of this title][/us/usc/t21/s342/a/1].
 
     (b) __Petition for regulation prescribing conditions of safe use; contents; description of production methods and controls; samples; notice of regulation__ 
 
@@ -73,7 +73,7 @@
 
          No such regulation shall issue if a fair evaluation of the data before the Secretary—
 
-            (A) fails to establish that the proposed use of the food additive, under the conditions of use to be specified in the regulation, will be safe: Provided, That no additive shall be deemed to be safe if it is found to induce cancer when ingested by man or animal, or if it is found, after tests which are appropriate for the evaluation of the safety of food additives, to induce cancer in man or animal, except that this proviso shall not apply with respect to the use of a substance as an ingredient of feed for animals which are raised for food production, if the Secretary finds (i) that, under the conditions of use and feeding specified in proposed labeling and reasonably certain to be followed in practice, such additive will not adversely affect the animals for which such feed is intended, and (ii) that no residue of the additive will be found (by methods of examination prescribed or approved by the Secretary by regulations, which regulations shall not be subject to subsections (f) and (g) of this section) in any edible portion of such animal after slaughter or in any food yielded by or derived from the living animal; or
+            (A) fails to establish that the proposed use of the food additive, under the conditions of use to be specified in the regulation, will be safe: Provided, That no additive shall be deemed to be safe if it is found to induce cancer when ingested by man or animal, or if it is found, after tests which are appropriate for the evaluation of the safety of food additives, to induce cancer in man or animal, except that this proviso shall not apply with respect to the use of a substance as an ingredient of feed for animals which are raised for food production, if the Secretary finds (i) that, under the conditions of use and feeding specified in proposed labeling and reasonably certain to be followed in practice, such additive will not adversely affect the animals for which such feed is intended, and (ii) that no residue of the additive will be found (by methods of examination prescribed or approved by the Secretary by regulations, which regulations shall not be subject to subsections (f) and (g)) in any edible portion of such animal after slaughter or in any food yielded by or derived from the living animal; or
 
             (B) shows that the proposed use of the additive would promote deception of the consumer in violation of this chapter or would otherwise result in adulteration or in misbranding of food within the meaning of this chapter.
 
@@ -101,7 +101,7 @@
 
     (e) __Publication and effective date of orders__ 
 
-        Any order, including any regulation established by such order, issued under subsection (c) or (d) of this section, shall be published and shall be effective upon publication, but the Secretary may stay such effectiveness if, after issuance of such order, a hearing is sought with respect to such order pursuant to subsection (f) of this section.
+        Any order, including any regulation established by such order, issued under subsection (c) or (d) of this section, shall be published and shall be effective upon publication, but the Secretary may stay such effectiveness if, after issuance of such order, a hearing is sought with respect to such order pursuant to subsection (f).
 
     (f) __Objections and public hearing; basis and contents of order; statement__ 
 
@@ -113,7 +113,7 @@
 
     (g) __Judicial review__ 
 
-        (1) In a case of actual controversy as to the validity of any order issued under subsection (f) of this section, including any order thereunder with respect to amendment or repeal of a regulation issued under this section, any person who will be adversely affected by such order may obtain judicial review by filing in the United States Court of Appeals for the circuit wherein such person resides or has his principal place of business, or in the United States Court of Appeals for the District of Columbia Circuit, within sixty days after the entry of such order, a petition praying that the order be set aside in whole or in part.
+        (1) In a case of actual controversy as to the validity of any order issued under subsection (f), including any order thereunder with respect to amendment or repeal of a regulation issued under this section, any person who will be adversely affected by such order may obtain judicial review by filing in the United States Court of Appeals for the circuit wherein such person resides or has his principal place of business, or in the United States Court of Appeals for the District of Columbia Circuit, within sixty days after the entry of such order, a petition praying that the order be set aside in whole or in part.
 
         (2) A copy of such petition shall be forthwith transmitted by the clerk of the court to the Secretary, or any officer designated by him for that purpose, and thereupon the Secretary shall file in the court the record of the proceedings on which he based his order, as provided in [section 2112 of title 28][/us/usc/t28/s2112]. Upon the filing of such petition the court shall have jurisdiction, which upon the filing of the record with it shall be exclusive, to affirm or set aside the order complained of in whole or in part. Until the filing of the record the Secretary may modify or set aside his order. The findings of the Secretary with respect to questions of fact shall be sustained if based upon a fair evaluation of the entire record at such hearing.
 
@@ -125,11 +125,11 @@
 
     (h) __Notification relating to food contact substance__ 
 
-        (1) Subject to such regulations as may be promulgated under paragraph (3), a manufacturer or supplier of a food contact substance may, at least 120 days prior to the introduction or delivery for introduction into interstate commerce of the food contact substance, notify the Secretary of the identity and intended use of the food contact substance, and of the determination of the manufacturer or supplier that the intended use of such food contact substance is safe under the standard described in subsection (c)(3)(A) of this section. The notification shall contain the information that forms the basis of the determination and all information required to be submitted by regulations promulgated by the Secretary.
+        (1) Subject to such regulations as may be promulgated under paragraph (3), a manufacturer or supplier of a food contact substance may, at least 120 days prior to the introduction or delivery for introduction into interstate commerce of the food contact substance, notify the Secretary of the identity and intended use of the food contact substance, and of the determination of the manufacturer or supplier that the intended use of such food contact substance is safe under the standard described in subsection (c)(3)(A). The notification shall contain the information that forms the basis of the determination and all information required to be submitted by regulations promulgated by the Secretary.
 
         (2)
 
-            (A) A notification submitted under paragraph (1) shall become effective 120 days after the date of receipt by the Secretary and the food contact substance may be introduced or delivered for introduction into interstate commerce, unless the Secretary makes a determination within the 120-day period that, based on the data and information before the Secretary, such use of the food contact substance has not been shown to be safe under the standard described in subsection (c)(3)(A) of this section, and informs the manufacturer or supplier of such determination.
+            (A) A notification submitted under paragraph (1) shall become effective 120 days after the date of receipt by the Secretary and the food contact substance may be introduced or delivered for introduction into interstate commerce, unless the Secretary makes a determination within the 120-day period that, based on the data and information before the Secretary, such use of the food contact substance has not been shown to be safe under the standard described in subsection (c)(3)(A), and informs the manufacturer or supplier of such determination.
 
             (B) A decision by the Secretary to object to a notification shall constitute final agency action subject to judicial review.
 
@@ -137,9 +137,9 @@
 
         (3)
 
-            (A) The process in this subsection shall be utilized for authorizing the marketing of a food contact substance except where the Secretary determines that submission and review of a petition under subsection (b) of this section is necessary to provide adequate assurance of safety, or where the Secretary and any manufacturer or supplier agree that such manufacturer or supplier may submit a petition under subsection (b) of this section.
+            (A) The process in this subsection shall be utilized for authorizing the marketing of a food contact substance except where the Secretary determines that submission and review of a petition under subsection (b) is necessary to provide adequate assurance of safety, or where the Secretary and any manufacturer or supplier agree that such manufacturer or supplier may submit a petition under subsection (b).
 
-            (B) The Secretary is authorized to promulgate regulations to identify the circumstances in which a petition shall be filed under subsection (b) of this section, and shall consider criteria such as the probable consumption of such food contact substance and potential toxicity of the food contact substance in determining the circumstances in which a petition shall be filed under subsection (b) of this section.
+            (B) The Secretary is authorized to promulgate regulations to identify the circumstances in which a petition shall be filed under subsection (b), and shall consider criteria such as the probable consumption of such food contact substance and potential toxicity of the food contact substance in determining the circumstances in which a petition shall be filed under subsection (b).
 
         (4) The Secretary shall keep confidential any information provided in a notification under paragraph (1) for 120 days after receipt by the Secretary of the notification. After the expiration of such 120 days, the information shall be available to any interested party except for any matter in the notification that is a trade secret or confidential commercial information.
 
@@ -175,7 +175,7 @@
 
     (i) __Amendment or repeal of regulations__ 
 
-        The Secretary shall by regulation prescribe the procedure by which regulations under the foregoing provisions of this section may be amended or repealed, and such procedure shall conform to the procedure provided in this section for the promulgation of such regulations. The Secretary shall by regulation prescribe the procedure by which the Secretary may deem a notification under subsection (h) of this section to no longer be effective.
+        The Secretary shall by regulation prescribe the procedure by which regulations under the foregoing provisions of this section may be amended or repealed, and such procedure shall conform to the procedure provided in this section for the promulgation of such regulations. The Secretary shall by regulation prescribe the procedure by which the Secretary may deem a notification under subsection (h) to no longer be effective.
 
     (j) __Exemptions for investigational use__ 
 
@@ -185,7 +185,7 @@
 
  __Amendments__ 
 
-    1997—Subsec. (a). [Pub. L. 105–115][/us/pl/105/115], § 309(a)(4), in closing provisions, substituted “While such a regulation relating to a food additive, or such a notification under subsection (h)(1) of this section relating to a food additive that is a food contact substance, is in effect, and has not been revoked pursuant to subsection (i) of this section, a food shall not, by reason of bearing or containing such a food additive in accordance with the regulation or notification, be considered adulterated under [section 342(a)(1) of this title][/us/usc/t21/s342/a/1].” for “While such a regulation relating to a food additive is in effect, a food shall not, by reason of bearing or containing such an additive in accordance with the regulation, be considered adulterated within the meaning of clause (1) of [section 342(a) of this title][/us/usc/t21/s342/a].”
+    1997—Subsec. (a). [Pub. L. 105–115][/us/pl/105/115], § 309(a)(4), in closing provisions, substituted “While such a regulation relating to a food additive, or such a notification under subsection (h)(1) relating to a food additive that is a food contact substance, is in effect, and has not been revoked pursuant to subsection (i), a food shall not, by reason of bearing or containing such a food additive in accordance with the regulation or notification, be considered adulterated under [section 342(a)(1) of this title][/us/usc/t21/s342/a/1].” for “While such a regulation relating to a food additive is in effect, a food shall not, by reason of bearing or containing such an additive in accordance with the regulation, be considered adulterated within the meaning of clause (1) of [section 342(a) of this title][/us/usc/t21/s342/a].”
 
     Subsec. (a)(1). [Pub. L. 105–115][/us/pl/105/115], § 309(a)(1), substituted “subsection (j)” for “subsection (i)”.
 
@@ -193,7 +193,7 @@
 
     Subsec. (h). [Pub. L. 105–115][/us/pl/105/115], § 309(b)(2), added subsec. (h). Former subsec. (h) redesignated (i).
 
-    Subsec. (i). [Pub. L. 105–115][/us/pl/105/115], § 309(b)(1), (3), redesignated subsec. (h) as (i) and inserted at end “The Secretary shall by regulation prescribe the procedure by which the Secretary may deem a notification under subsection (h) of this section to no longer be effective.”
+    Subsec. (i). [Pub. L. 105–115][/us/pl/105/115], § 309(b)(1), (3), redesignated subsec. (h) as (i) and inserted at end “The Secretary shall by regulation prescribe the procedure by which the Secretary may deem a notification under subsection (h) to no longer be effective.”
 
     Subsec. (j). [Pub. L. 105–115][/us/pl/105/115], § 309(b)(1), (4), redesignated subsec. (i) as (j) and substituted “subsections (b) to (i)” for “subsections (b) to (h)”.
 

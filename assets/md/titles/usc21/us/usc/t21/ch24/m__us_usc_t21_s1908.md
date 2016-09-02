@@ -95,7 +95,7 @@
 
     (g) __Report__ 
 
-        (1) Not later than 1 year after December 3, 1999, the Commissions  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “Commission”. </sup></sup>  shall submit to the committees of Congress referred to in paragraph (4) a report on the activities of the Commission under this section, including the findings, conclusions, and recommendations, if any, of the Commission as a result of the review under subsection (c)(1) of this section and the examination and evaluation under subsection (c)(2) of this section.
+        (1) Not later than 1 year after December 3, 1999, the Commissions  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “Commission”. </sup></sup>  shall submit to the committees of Congress referred to in paragraph (4) a report on the activities of the Commission under this section, including the findings, conclusions, and recommendations, if any, of the Commission as a result of the review under subsection (c)(1) and the examination and evaluation under subsection (c)(2).
 
         (2) The report under paragraph (1) shall include any additional or dissenting views of a member of the Commission upon the request of the member.
 
@@ -111,7 +111,7 @@
 
     (h) __Termination__ 
 
-        The Commission shall terminate at the end of the 60-day period beginning on the date on which the report required by subsection (g) of this section is submitted to the committees of Congress referred to in that subsection.
+        The Commission shall terminate at the end of the 60-day period beginning on the date on which the report required by subsection (g) is submitted to the committees of Congress referred to in that subsection.
 
     (i) __Inapplicability of certain administrative provisions__ 
 

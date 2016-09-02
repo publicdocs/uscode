@@ -45,9 +45,9 @@
 
     (c) __Sales restrictions__ 
 
-        (1) No person may sell, purchase, or trade or offer to sell, purchase, or trade any drug sample. For purposes of this paragraph and subsection (d) of this section, the term “drug sample” means a unit of a drug, subject to subsection (b) of this section, which is not intended to be sold and is intended to promote the sale of the drug. Nothing in this paragraph shall subject an officer or executive of a drug manufacturer or distributor to criminal liability solely because of a sale, purchase, trade, or offer to sell, purchase, or trade in violation of this paragraph by other employees of the manufacturer or distributor.
+        (1) No person may sell, purchase, or trade or offer to sell, purchase, or trade any drug sample. For purposes of this paragraph and subsection (d), the term “drug sample” means a unit of a drug, subject to subsection (b), which is not intended to be sold and is intended to promote the sale of the drug. Nothing in this paragraph shall subject an officer or executive of a drug manufacturer or distributor to criminal liability solely because of a sale, purchase, trade, or offer to sell, purchase, or trade in violation of this paragraph by other employees of the manufacturer or distributor.
 
-        (2) No person may sell, purchase, or trade, offer to sell, purchase, or trade, or counterfeit any coupon. For purposes of this paragraph, the term “coupon” means a form which may be redeemed, at no cost or at a reduced cost, for a drug which is prescribed in accordance with subsection (b) of this section.
+        (2) No person may sell, purchase, or trade, offer to sell, purchase, or trade, or counterfeit any coupon. For purposes of this paragraph, the term “coupon” means a form which may be redeemed, at no cost or at a reduced cost, for a drug which is prescribed in accordance with subsection (b).
 
         (3)
 
@@ -55,7 +55,7 @@
 
              No person may sell, purchase, or trade, or offer to sell, purchase, or trade, any drug—
 
-                (i) which is subject to subsection (b) of this section, and
+                (i) which is subject to subsection (b), and
 
                 (ii)
 
@@ -75,7 +75,7 @@
 
                 (iv) a sale, purchase, or trade of a drug or an offer to sell, purchase, or trade a drug for emergency medical reasons, or
 
-                (v) a sale, purchase, or trade of a drug, an offer to sell, purchase, or trade a drug, or the dispensing of a drug pursuant to a prescription executed in accordance with subsection (b) of this section.
+                (v) a sale, purchase, or trade of a drug, an offer to sell, purchase, or trade a drug, or the dispensing of a drug pursuant to a prescription executed in accordance with subsection (b).
 
                 For purposes of this paragraph, the term “entity” does not include a wholesale distributor of drugs or a retail pharmacy licensed under State law and the term “emergency medical reasons” includes transfers of a drug between health care entities or from a health care entity to a retail pharmacy undertaken to alleviate temporary shortages of the drug arising from delays in or interruptions of regular distribution schedules.
 
@@ -95,7 +95,7 @@
 
             (A)
 
-             The manufacturer or authorized distributor of record of a drug subject to subsection (b) of this section may, in accordance with this paragraph, distribute drug samples by mail or common carrier to practitioners licensed to prescribe such drugs or, at the request of a licensed practitioner, to pharmacies of hospitals or other health care entities. Such a distribution of drug samples may only be made—
+             The manufacturer or authorized distributor of record of a drug subject to subsection (b) may, in accordance with this paragraph, distribute drug samples by mail or common carrier to practitioners licensed to prescribe such drugs or, at the request of a licensed practitioner, to pharmacies of hospitals or other health care entities. Such a distribution of drug samples may only be made—
 
                 (i) in response to a written request for drug samples made on a form which meets the requirements of subparagraph (B), and
 
@@ -117,7 +117,7 @@
 
         (3)
 
-         The manufacturer or authorized distributor of record of a drug subject to subsection (b) of this section may, by means other than mail or common carrier, distribute drug samples only if the manufacturer or authorized distributor of record makes the distributions in accordance with subparagraph (A) and carries out the activities described in subparagraphs (B) through (F) as follows:
+         The manufacturer or authorized distributor of record of a drug subject to subsection (b) may, by means other than mail or common carrier, distribute drug samples only if the manufacturer or authorized distributor of record makes the distributions in accordance with subparagraph (A) and carries out the activities described in subparagraphs (B) through (F) as follows:
 
             (A)
 
@@ -135,7 +135,7 @@
 
             (D) Drug manufacturers or authorized distributors of record shall notify the Secretary of any significant loss of drug samples and any known theft of drug samples.
 
-            (E) Drug manufacturers or authorized distributors of record shall report to the Secretary any conviction of their representatives for violations of subsection (c)(1) of this section or a State law because of the sale, purchase, or trade of a drug sample or the offer to sell, purchase, or trade a drug sample.
+            (E) Drug manufacturers or authorized distributors of record shall report to the Secretary any conviction of their representatives for violations of subsection (c)(1) or a State law because of the sale, purchase, or trade of a drug sample or the offer to sell, purchase, or trade a drug sample.
 
             (F) Drug manufacturers or authorized distributors of record shall provide to the Secretary the name and telephone number of the individual responsible for responding to a request for information respecting drug samples.
 
