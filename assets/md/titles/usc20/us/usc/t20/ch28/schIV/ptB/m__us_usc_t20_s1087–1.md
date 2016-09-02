@@ -427,7 +427,7 @@
 
     (g) __Special Rule__ 
 
-        With respect to any loan made under this part for which the interest rate is determined under the Servicemembers Civil Relief Act (50 U.S.C. App. 527), the applicable interest rate to be subtracted in calculating the special allowance for such loan under this section shall be the interest rate determined under that Act for such loan.
+        With respect to any loan made under this part for which the interest rate is determined under the Servicemembers Civil Relief Act (50 U.S.C. App. 527) \[now [50 U.S.C. 3937][/us/usc/t50/s3937]\],1 the applicable interest rate to be subtracted in calculating the special allowance for such loan under this section shall be the interest rate determined under that Act for such loan.
 
 ([Pub. L. 89–329, title IV, § 438][/us/pl/89/329/s438], as added [Pub. L. 99–498, title IV, § 402(a)][/us/pl/99/498/s402/a], Oct. 17, 1986, [100 Stat. 1414][/us/stat/100/1414]; amended [Pub. L. 100–50, § 10(d)(2)][/us/pl/100/50/s10/d/2], (bb), (cc), June 3, 1987, [101 Stat. 342][/us/stat/101/342], 347; [Pub. L. 100–369, § 7(c)][/us/pl/100/369/s7/c], July 18, 1988, [102 Stat. 837][/us/stat/102/837]; [Pub. L. 102–325, title IV, § 430][/us/pl/102/325/s430], July 23, 1992, [106 Stat. 553][/us/stat/106/553]; [Pub. L. 103–66, title IV][/us/pl/103/66], §§ 4102(a), 4103, 4105, 4111, Aug. 10, 1993, [107 Stat. 366][/us/stat/107/366], 367, 368, 370; [Pub. L. 105–178, title VIII, § 8301(b)][/us/pl/105/178/s8301/b], June 9, 1998, [112 Stat. 497][/us/stat/112/497]; [Pub. L. 105–244, title IV][/us/pl/105/244], §§ 416(b)(1), (3), 433(a)–(d)(1), Oct. 7, 1998, [112 Stat. 1680][/us/stat/112/1680], 1682, 1710, 1711; [Pub. L. 106–170, title IV, § 409(a)][/us/pl/106/170/s409/a], Dec. 17, 1999, [113 Stat. 1914][/us/stat/113/1914]; [Pub. L. 107–139, § 2][/us/pl/107/139/s2], Feb. 8, 2002, [116 Stat. 10][/us/stat/116/10]; [Pub. L. 108–409, § 2][/us/pl/108/409/s2], Oct. 30, 2004, [118 Stat. 2299][/us/stat/118/2299]; [Pub. L. 109–150, § 2(b)][/us/pl/109/150/s2/b], (c)(2), Dec. 30, 2005, [119 Stat. 2884][/us/stat/119/2884]; [Pub. L. 109–171, title VIII][/us/pl/109/171], §§ 8006(b)(1), 8008(c)(1), 8013(a)–(c)(1), (d)(1), Feb. 8, 2006, [120 Stat. 159][/us/stat/120/159], 162, 166, 167; [Pub. L. 110–84, title II, § 201(a)(2)][/us/pl/110/84/s201/a/2], title III, §§ 302(b)(2), 305, Sept. 27, 2007, [121 Stat. 791][/us/stat/121/791], 796, 799; [Pub. L. 110–315, title IV, § 422(g)(2)][/us/pl/110/315/s422/g/2], Aug. 14, 2008, [122 Stat. 3230][/us/stat/122/3230]; [Pub. L. 111–39, title IV, § 402(f)(11)][/us/pl/111/39/s402/f/11], July 1, 2009, [123 Stat. 1945][/us/stat/123/1945]; [Pub. L. 111–152, title II, § 2208][/us/pl/111/152/s2208], Mar. 30, 2010, [124 Stat. 1077][/us/stat/124/1077]; [Pub. L. 112–74, div. F, title III, § 309(e)][/us/pl/112/74/s309/e], Dec. 23, 2011, [125 Stat. 1101][/us/stat/125/1101].)
 
@@ -437,7 +437,7 @@
 
     The date of enactment of this section, referred to in subsec. (b)(2)(I)(vii)(III)(bb)(AA), probably means the date of enactment of [Pub. L. 112–74][/us/pl/112/74], which enacted subsec. (b)(2)(I)(vii) and was approved Dec. 23, 2011.
 
-    The Servicemembers Civil Relief Act, referred to in subsec. (g), is [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1178][/us/stat/54/1178], which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see [section 501 of Title 50][/us/usc/t50/s501], Appendix, and Tables.
+    The Servicemembers Civil Relief Act, referred to in subsec. (g), is [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1178][/us/stat/54/1178], which was classified to section 501 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 50 (§ 3901 et seq.) of Title 50. The parenthetical reference to “(50 U.S.C. App. 527)” relates to section 207 of the Act, which is now classified to [section 3937 of Title 50][/us/usc/t50/s3937]. For complete classification of this Act to the Code, see Tables.
 
  __Prior Provisions__ 
 
@@ -731,6 +731,7 @@
 [/us/usc/t20/s1078/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%2Fa%2F3%2FA
 [/us/usc/t20/s1078/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1078%2Fa%2F3%2FA
 [/us/usc/t20/s1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1081
+[/us/usc/t50/s3937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3937
 [/us/pl/89/329/s438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs438
 [/us/pl/99/498/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs402%2Fa
 [/us/stat/100/1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1414
@@ -774,7 +775,7 @@
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/act/1940-10-17/ch888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-10-17%2Fch888
 [/us/stat/54/1178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1178
-[/us/usc/t50/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs501
+[/us/usc/t50/s3937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3937
 [/us/pl/89/329/s438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329%2Fs438
 [/us/pl/92/318/s132E/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs132E%2Fa
 [/us/stat/86/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F264

@@ -767,7 +767,7 @@
 
     (d) __Usury laws inapplicable__ 
 
-    No provision of any law of the United States (other than this chapter and part C of subchapter I of chapter 34 of title 42 and section 527 of the Appendix to title 50) or of any State (other than a statute applicable principally to such State’s student loan insurance program) which limits the rate or amount of interest payable on loans shall apply to a loan—
+    No provision of any law of the United States (other than this chapter and part C of subchapter I of chapter 34 of title 42 and [section 3937 of title 50][/us/usc/t50/s3937]) or of any State (other than a statute applicable principally to such State’s student loan insurance program) which limits the rate or amount of interest payable on loans shall apply to a loan—
 
         (1) which bears interest (exclusive of any premium for insurance) on the unpaid principal balance at a rate not in excess of the rate specified in this part; and
 
@@ -1982,6 +1982,7 @@
 [/us/usc/t20/s1072a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1072a
 [/us/usc/t20/s1072/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1072%2Fc%2F7
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
+[/us/usc/t50/s3937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3937
 [/us/pl/110/315/s422/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs422%2Fh
 [/us/stat/122/3231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3231
 [/us/pl/110/315/s438/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs438%2Fa%2F2%2FB

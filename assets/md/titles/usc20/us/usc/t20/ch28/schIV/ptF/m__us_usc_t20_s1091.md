@@ -253,7 +253,7 @@
 
     (n) __Data base matching__ 
 
-        To enforce the Selective Service registration provisions of [section 462(f) of title 50][/us/usc/t50/s462/f], Appendix, the Secretary shall conduct data base matches with the Selective Service, using common demographic data elements. Appropriate confirmation, through an application output document or through other means, of any person’s registration shall fulfill the requirement to file a separate statement of compliance. In the absence of a confirmation from such data matches, an institution may also use data or documents that support either the student’s registration, or the absence of a registration requirement for the student, to fulfill the requirement to file a separate statement of compliance. The mechanism for reporting the resolution of nonconfirmed matches shall be prescribed by the Secretary in regulations.
+        To enforce the Selective Service registration provisions of [section 3811(f) of title 50][/us/usc/t50/s3811/f], the Secretary shall conduct data base matches with the Selective Service, using common demographic data elements. Appropriate confirmation, through an application output document or through other means, of any person’s registration shall fulfill the requirement to file a separate statement of compliance. In the absence of a confirmation from such data matches, an institution may also use data or documents that support either the student’s registration, or the absence of a registration requirement for the student, to fulfill the requirement to file a separate statement of compliance. The mechanism for reporting the resolution of nonconfirmed matches shall be prescribed by the Secretary in regulations.
 
     (o) __Study abroad__ 
 
@@ -489,7 +489,7 @@
 
     Subsec. (h)(2), (3). [Pub. L. 111–39, § 407(b)(4)(D)][/us/pl/111/39/s407/b/4/D], substituted “(g)(4)(A)(i)” for “(h)(4)(A)(i)” in par. (2) and “(g)(4)(B)(i)” for “(h)(4)(B)(i)” in par. (3).
 
-    Subsec. (n). [Pub. L. 111–39, § 407(b)(4)(E)][/us/pl/111/39/s407/b/4/E], substituted “[section 462(f) of title 50][/us/usc/t50/s462/f], Appendix” for “[section 1113 of Public Law 97–252][/us/pl/97/252/s1113]”.
+    Subsec. (n). [Pub. L. 111–39, § 407(b)(4)(E)][/us/pl/111/39/s407/b/4/E], substituted “[section 3811(f) of title 50][/us/usc/t50/s3811/f]” for “[section 1113 of Public Law 97–252][/us/pl/97/252/s1113]”.
 
     2008—Subsec. (a)(4)(B). [Pub. L. 110–315, § 485(a)(1)(A)][/us/pl/110/315/s485/a/1/A], substituted “number;” for “number, except that the provisions of this subparagraph shall not apply to a student from the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau;”.
 
@@ -795,7 +795,7 @@
 [/us/stat/122/3288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3288
 [/us/usc/t20/s2302/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2302%2F3%2FC
 [/us/usc/t20/s1087tt]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1087tt
-[/us/usc/t50/s462/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs462%2Ff
+[/us/usc/t50/s3811/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3811%2Ff
 [/us/usc/t20/s1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1090
 [/us/usc/t21/s802/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802%2F6
 [/us/usc/t20/s1140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1140
@@ -871,7 +871,7 @@
 [/us/pl/103/208/s2/h/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F208%2Fs2%2Fh%2F18
 [/us/pl/111/39/s407/b/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F4%2FD
 [/us/pl/111/39/s407/b/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fb%2F4%2FE
-[/us/usc/t50/s462/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs462%2Ff
+[/us/usc/t50/s3811/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3811%2Ff
 [/us/pl/97/252/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1113
 [/us/pl/110/315/s485/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs485%2Fa%2F1%2FA
 [/us/pl/110/315/s485/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F315%2Fs485%2Fa%2F1%2FB

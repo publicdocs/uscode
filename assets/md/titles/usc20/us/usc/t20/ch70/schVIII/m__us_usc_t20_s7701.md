@@ -15,7 +15,7 @@
 
 ## § 7701. Purpose
 
-    In order to fulfill the Federal responsibility to assist with the provision of educational services to federally connected children in a manner that promotes control by local educational agencies with little or no Federal or State involvement, because certain activities of the Federal Government, such as activities to fulfill the responsibilities of the Federal Government with respect to Indian tribes and activities under [section 571 of title 50][/us/usc/t50/s571], Appendix, place a financial burden on the local educational agencies serving areas where such activities are carried out, and to help such children meet challenging State standards, it is the purpose of this subchapter to provide financial assistance to local educational agencies that—
+    In order to fulfill the Federal responsibility to assist with the provision of educational services to federally connected children in a manner that promotes control by local educational agencies with little or no Federal or State involvement, because certain activities of the Federal Government, such as activities to fulfill the responsibilities of the Federal Government with respect to Indian tribes and activities under [section 4001 of title 50][/us/usc/t50/s4001], place a financial burden on the local educational agencies serving areas where such activities are carried out, and to help such children meet challenging State standards, it is the purpose of this subchapter to provide financial assistance to local educational agencies that—
 
     (1) experience a substantial and continuing financial burden due to the acquisition of real property by the United States;
 
@@ -37,9 +37,9 @@
 
  __Amendments__ 
 
-    2003—[Pub. L. 108–189][/us/pl/108/189] substituted “section 571” for “section 574” in introductory provisions.
+    2003—[Pub. L. 108–189][/us/pl/108/189] substituted “[section 4001 of title 50][/us/usc/t50/s4001]” for “section 514 of the Soldiers’ and Sailors’ Civil Relief Act of 1940 (50 U.S.C. App. 574)” in introductory provisions.
 
-    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVIII, § 1802(1)\], in introductory provisions, inserted “in a manner that promotes control by local educational agencies with little or no Federal or State involvement” after “educational services to federally connected children” and “, such as activities to fulfill the responsibilities of the Federal Government with respect to Indian tribes and activities under [section 574 of title 50][/us/usc/t50/s574], Appendix,” after “certain activities of the Federal Government”.
+    2000—[Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVIII, § 1802(1)\], inserted in introductory provisions “in a manner that promotes control by local educational agencies with little or no Federal or State involvement” after “educational services to federally connected children” and “, such as activities to fulfill the responsibilities of the Federal Government with respect to Indian tribes and activities under section 514 of the Soldiers’ and Sailors’ Civil Relief Act of 1940 (50 U.S.C. App. 574),” after “certain activities of the Federal Government”.
 
     Par. (4). [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVIII, § 1802(2)\], inserted “or” at end.
 
@@ -66,7 +66,7 @@
 ----------
 ----------
 
-[/us/usc/t50/s571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs571
+[/us/usc/t50/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4001
 [/us/pl/89/10/s8001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs8001
 [/us/pl/103/382/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs101
 [/us/stat/108/3749]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3749
@@ -83,8 +83,8 @@
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
 [/us/pl/108/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F189
+[/us/usc/t50/s4001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4001
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
-[/us/usc/t50/s574]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs574
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
