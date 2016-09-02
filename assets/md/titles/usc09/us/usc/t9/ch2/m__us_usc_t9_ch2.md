@@ -91,7 +91,7 @@
 
  __Amendments__ 
 
-    1970—[Pub. L. 91–368, § 1][/us/pl/91/368/s1], July 31, 1970, [84 Stat. 692][/us/stat/84/692], added heading for chapter 2 and analysis of sections for such chapter.
+    1970—[Pub. L. 91–368][/us/pl/91/368], § 1, July 31, 1970, [84 Stat. 692][/us/stat/84/692], added heading for chapter 2 and analysis of sections for such chapter.
 
 ----------
 
@@ -100,7 +100,7 @@
 ----------
 ----------
 
-[/us/pl/91/368/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F368%2Fs1
+[/us/pl/91/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F368
 [/us/stat/84/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F692
 
 

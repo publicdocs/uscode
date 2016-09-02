@@ -21,11 +21,11 @@
 
  __Derivation__ 
 
-    [Act Feb. 12, 1925, ch. 213, § 15][/us/act/1925-02-12/ch213/s15], [43 Stat. 886][/us/stat/43/886].
+    [Act Feb. 12, 1925, ch. 213][/us/act/1925-02-12/ch213], § 15, [43 Stat. 886][/us/stat/43/886].
 
  __Prior Provisions__ 
 
-    [Act Feb. 12, 1925, ch. 213, § 14][/us/act/1925-02-12/ch213/s14], [43 Stat. 886][/us/stat/43/886], former provisions of [section 14 of this title][/us/usc/t9/s14] relating to “short title” is not now covered.
+    [Act Feb. 12, 1925, ch. 213][/us/act/1925-02-12/ch213], § 14, [43 Stat. 886][/us/stat/43/886], former provisions of [section 14 of this title][/us/usc/t9/s14] relating to “short title” is not now covered.
 
 ----------
 
@@ -36,9 +36,9 @@
 
 [/us/act/1947-07-30/ch392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch392
 [/us/stat/61/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F674
-[/us/act/1925-02-12/ch213/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-12%2Fch213%2Fs15
+[/us/act/1925-02-12/ch213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-12%2Fch213
 [/us/stat/43/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F886
-[/us/act/1925-02-12/ch213/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-12%2Fch213%2Fs14
+[/us/act/1925-02-12/ch213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-12%2Fch213
 [/us/stat/43/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F886
 [/us/usc/t9/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft9%2Fs14
 

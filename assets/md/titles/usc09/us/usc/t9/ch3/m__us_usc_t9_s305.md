@@ -21,7 +21,7 @@
 
     (2) In all other cases the Convention on the Recognition and Enforcement of Foreign Arbitral Awards of June 10, 1958, shall apply.
 
-(Added [Pub. L. 101–369, § 1][/us/pl/101/369/s1], Aug. 15, 1990, [104 Stat. 449][/us/stat/104/449].)
+(Added [Pub. L. 101–369][/us/pl/101/369], § 1, Aug. 15, 1990, [104 Stat. 449][/us/stat/104/449].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/101/369/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F369%2Fs1
+[/us/pl/101/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F369
 [/us/stat/104/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F449
 
 

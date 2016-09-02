@@ -49,7 +49,7 @@
 
         (4) refusing to enjoin an arbitration that is subject to this title.
 
-(Added [Pub. L. 100–702, title X, § 1019(a)][/us/pl/100/702/s1019/a], Nov. 19, 1988, [102 Stat. 4670][/us/stat/102/4670], § 15; renumbered § 16, [Pub. L. 101–650, title III, § 325(a)(1)][/us/pl/101/650/s325/a/1], Dec. 1, 1990, [104 Stat. 5120][/us/stat/104/5120].)
+(Added [Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1019(a), Nov. 19, 1988, [102 Stat. 4670][/us/stat/102/4670], § 15; renumbered § 16, [Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 325(a)(1), Dec. 1, 1990, [104 Stat. 5120][/us/stat/104/5120].)
 
  __Amendments__ 
 
@@ -69,9 +69,9 @@
 [/us/usc/t9/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft9%2Fs3
 [/us/usc/t9/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft9%2Fs4
 [/us/usc/t9/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft9%2Fs206
-[/us/pl/100/702/s1019/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1019%2Fa
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4670
-[/us/pl/101/650/s325/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs325%2Fa%2F1
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5120
 [/us/pl/101/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650
 [/us/usc/t9/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft9%2Fs15

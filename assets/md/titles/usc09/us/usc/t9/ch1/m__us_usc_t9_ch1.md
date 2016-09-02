@@ -155,11 +155,11 @@
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–650, title III, § 325(a)(2)][/us/pl/101/650/s325/a/2], Dec. 1, 1990, [104 Stat. 5120][/us/stat/104/5120], added item 15 “Inapplicability of the Act of State doctrine” and redesignated former item 15 “Appeals” as 16.
+    1990—[Pub. L. 101–650, title III][/us/pl/101/650/tIII], § 325(a)(2), Dec. 1, 1990, [104 Stat. 5120][/us/stat/104/5120], added item 15 “Inapplicability of the Act of State doctrine” and redesignated former item 15 “Appeals” as 16.
 
-    1988—[Pub. L. 100–702, title X, § 1019(b)][/us/pl/100/702/s1019/b], Nov. 19, 1988, [102 Stat. 4671][/us/stat/102/4671], added item 15 relating to appeals.
+    1988—[Pub. L. 100–702, title X][/us/pl/100/702/tX], § 1019(b), Nov. 19, 1988, [102 Stat. 4671][/us/stat/102/4671], added item 15 relating to appeals.
 
-    1970—[Pub. L. 91–368, § 3][/us/pl/91/368/s3], July 31, 1970, [84 Stat. 693][/us/stat/84/693], designated existing sections 1 through 14 as “Chapter 1” and added heading for Chapter 1.
+    1970—[Pub. L. 91–368][/us/pl/91/368], § 3, July 31, 1970, [84 Stat. 693][/us/stat/84/693], designated existing sections 1 through 14 as “Chapter 1” and added heading for Chapter 1.
 
 ----------
 
@@ -168,11 +168,11 @@
 ----------
 ----------
 
-[/us/pl/101/650/s325/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2Fs325%2Fa%2F2
+[/us/pl/101/650/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F650%2FtIII
 [/us/stat/104/5120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5120
-[/us/pl/100/702/s1019/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2Fs1019%2Fb
+[/us/pl/100/702/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F702%2FtX
 [/us/stat/102/4671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4671
-[/us/pl/91/368/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F368%2Fs3
+[/us/pl/91/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F368
 [/us/stat/84/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F693
 
 

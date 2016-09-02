@@ -17,11 +17,11 @@
 
     The Convention on the Recognition and Enforcement of Foreign Arbitral Awards of June 10, 1958, shall be enforced in United States courts in accordance with this chapter.
 
-(Added [Pub. L. 91–368, § 1][/us/pl/91/368/s1], July 31, 1970, [84 Stat. 692][/us/stat/84/692].)
+(Added [Pub. L. 91–368][/us/pl/91/368], § 1, July 31, 1970, [84 Stat. 692][/us/stat/84/692].)
 
  __Effective Date__ 
 
-[Pub. L. 91–368, § 4][/us/pl/91/368/s4], July 31, 1970, [84 Stat. 693][/us/stat/84/693], provided that: 
+[Pub. L. 91–368][/us/pl/91/368], § 4, July 31, 1970, [84 Stat. 693][/us/stat/84/693], provided that: 
 
 > “This Act \[enacting this chapter\] shall be effective upon the entry into force of the Convention on Recognition and Enforcement of Foreign Arbitral Awards with respect to the United States.”
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/91/368/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F368%2Fs1
+[/us/pl/91/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F368
 [/us/stat/84/692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F692
-[/us/pl/91/368/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F368%2Fs4
+[/us/pl/91/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F368
 [/us/stat/84/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F693
 
 

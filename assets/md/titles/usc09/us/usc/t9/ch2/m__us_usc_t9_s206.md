@@ -17,7 +17,7 @@
 
     A court having jurisdiction under this chapter may direct that arbitration be held in accordance with the agreement at any place therein provided for, whether that place is within or without the United States. Such court may also appoint arbitrators in accordance with the provisions of the agreement.
 
-(Added [Pub. L. 91–368, § 1][/us/pl/91/368/s1], July 31, 1970, [84 Stat. 693][/us/stat/84/693].)
+(Added [Pub. L. 91–368][/us/pl/91/368], § 1, July 31, 1970, [84 Stat. 693][/us/stat/84/693].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/368/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F368%2Fs1
+[/us/pl/91/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F368
 [/us/stat/84/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F693
 
 

@@ -17,7 +17,7 @@
 
     Enforcement of arbitral agreements, confirmation of arbitral awards, and execution upon judgments based on orders confirming such awards shall not be refused on the basis of the Act of State doctrine.
 
-(Added [Pub. L. 100–669, § 1][/us/pl/100/669/s1], Nov. 16, 1988, [102 Stat. 3969][/us/stat/102/3969].)
+(Added [Pub. L. 100–669][/us/pl/100/669], § 1, Nov. 16, 1988, [102 Stat. 3969][/us/stat/102/3969].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/100/669/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F669%2Fs1
+[/us/pl/100/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F669
 [/us/stat/102/3969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3969
 [/us/usc/t9/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft9%2Fs15
 [/us/usc/t9/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft9%2Fs16

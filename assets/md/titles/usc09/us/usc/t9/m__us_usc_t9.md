@@ -15,9 +15,9 @@
 
 # Title 9—ARBITRATION
 
-This title was enacted by [act July 30, 1947, ch. 392, § 1][/us/act/1947-07-30/ch392/s1], [61 Stat. 669][/us/stat/61/669]
+This title was enacted by [act July 30, 1947, ch. 392][/us/act/1947-07-30/ch392], § 1, [61 Stat. 669][/us/stat/61/669]
 
-Current through 114-156
+Current through 114-163
 
 <table>
 
@@ -65,9 +65,9 @@ Current through 114-156
 
  __Amendments__ 
 
-    1990—[Pub. L. 101–369, § 2][/us/pl/101/369/s2], Aug. 15, 1990, [104 Stat. 450][/us/stat/104/450], added item for chapter 3.
+    1990—[Pub. L. 101–369][/us/pl/101/369], § 2, Aug. 15, 1990, [104 Stat. 450][/us/stat/104/450], added item for chapter 3.
 
-    1970—[Pub. L. 91–368, § 2][/us/pl/91/368/s2], July 31, 1970, [84 Stat. 693][/us/stat/84/693], added analysis of chapters.
+    1970—[Pub. L. 91–368][/us/pl/91/368], § 2, July 31, 1970, [84 Stat. 693][/us/stat/84/693], added analysis of chapters.
 
  __Table__ 
 
@@ -341,7 +341,7 @@ This title has been made positive law by section 1 of [act July 30, 1947, ch. 39
 
  __Repeals__ 
 
-    [Act July 30, 1947, ch. 392, § 2][/us/act/1947-07-30/ch392/s2], [61 Stat. 674][/us/stat/61/674], provided that the sections or parts thereof of the Statutes at Large covering provisions codified in this Act, insofar as such provisions appeared in former title 9 were repealed and provided that any rights or liabilities now existing under such repealed sections or parts thereof shall not be affected by such repeal.
+    [Act July 30, 1947, ch. 392][/us/act/1947-07-30/ch392], § 2, [61 Stat. 674][/us/stat/61/674], provided that the sections or parts thereof of the Statutes at Large covering provisions codified in this Act, insofar as such provisions appeared in former title 9 were repealed and provided that any rights or liabilities now existing under such repealed sections or parts thereof shall not be affected by such repeal.
 
 ----------
 
@@ -350,15 +350,15 @@ This title has been made positive law by section 1 of [act July 30, 1947, ch. 39
 ----------
 ----------
 
-[/us/act/1947-07-30/ch392/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch392%2Fs1
+[/us/act/1947-07-30/ch392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch392
 [/us/stat/61/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F669
-[/us/pl/101/369/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F369%2Fs2
+[/us/pl/101/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F369
 [/us/stat/104/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F450
-[/us/pl/91/368/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F368%2Fs2
+[/us/pl/91/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F368
 [/us/stat/84/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F693
 [/us/act/1947-07-30/ch392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch392
 [/us/stat/61/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F669
-[/us/act/1947-07-30/ch392/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch392%2Fs2
+[/us/act/1947-07-30/ch392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch392
 [/us/stat/61/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F674
 
 

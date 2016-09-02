@@ -17,11 +17,11 @@
 
     The Inter-American Convention on International Commercial Arbitration of January 30, 1975, shall be enforced in United States courts in accordance with this chapter.
 
-(Added [Pub. L. 101–369, § 1][/us/pl/101/369/s1], Aug. 15, 1990, [104 Stat. 448][/us/stat/104/448].)
+(Added [Pub. L. 101–369][/us/pl/101/369], § 1, Aug. 15, 1990, [104 Stat. 448][/us/stat/104/448].)
 
  __Effective Date__ 
 
-[Pub. L. 101–369, § 3][/us/pl/101/369/s3], Aug. 15, 1990, [104 Stat. 450][/us/stat/104/450], provided that: 
+[Pub. L. 101–369][/us/pl/101/369], § 3, Aug. 15, 1990, [104 Stat. 450][/us/stat/104/450], provided that: 
 
 > “This Act \[enacting this chapter\] shall take effect upon the entry into force of the Inter-American Convention on International Commercial Arbitration of January 30, 1975, with respect to the United States.”
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/pl/101/369/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F369%2Fs1
+[/us/pl/101/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F369
 [/us/stat/104/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F448
-[/us/pl/101/369/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F369%2Fs3
+[/us/pl/101/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F369
 [/us/stat/104/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F450
 
 

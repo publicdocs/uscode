@@ -19,7 +19,7 @@
 
     (b) In the event the agreement does not make provision for the place of arbitration or the appointment of arbitrators, the court shall direct that the arbitration shall be held and the arbitrators be appointed in accordance with Article 3 of the Inter-American Convention.
 
-(Added [Pub. L. 101–369, § 1][/us/pl/101/369/s1], Aug. 15, 1990, [104 Stat. 448][/us/stat/104/448].)
+(Added [Pub. L. 101–369][/us/pl/101/369], § 1, Aug. 15, 1990, [104 Stat. 448][/us/stat/104/448].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/101/369/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F369%2Fs1
+[/us/pl/101/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F369
 [/us/stat/104/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F448
 
 

@@ -17,7 +17,7 @@
 
     Within three years after an arbitral award falling under the Convention is made, any party to the arbitration may apply to any court having jurisdiction under this chapter for an order confirming the award as against any other party to the arbitration. The court shall confirm the award unless it finds one of the grounds for refusal or deferral of recognition or enforcement of the award specified in the said Convention.
 
-(Added [Pub. L. 91–368, § 1][/us/pl/91/368/s1], July 31, 1970, [84 Stat. 693][/us/stat/84/693].)
+(Added [Pub. L. 91–368][/us/pl/91/368], § 1, July 31, 1970, [84 Stat. 693][/us/stat/84/693].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/368/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F368%2Fs1
+[/us/pl/91/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F368
 [/us/stat/84/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F693
 
 

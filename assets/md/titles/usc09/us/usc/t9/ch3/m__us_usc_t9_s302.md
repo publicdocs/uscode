@@ -17,7 +17,7 @@
 
     Sections 202, 203, 204, 205, and 207 of this title shall apply to this chapter as if specifically set forth herein, except that for the purposes of this chapter “the Convention” shall mean the Inter-American Convention.
 
-(Added [Pub. L. 101–369, § 1][/us/pl/101/369/s1], Aug. 15, 1990, [104 Stat. 448][/us/stat/104/448].)
+(Added [Pub. L. 101–369][/us/pl/101/369], § 1, Aug. 15, 1990, [104 Stat. 448][/us/stat/104/448].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/101/369/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F369%2Fs1
+[/us/pl/101/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F369
 [/us/stat/104/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F448
 
 

@@ -21,7 +21,7 @@
 
  __Derivation__ 
 
-    [Act Feb. 12, 1925, ch. 213, § 2][/us/act/1925-02-12/ch213/s2], [43 Stat. 883][/us/stat/43/883].
+    [Act Feb. 12, 1925, ch. 213][/us/act/1925-02-12/ch213], § 2, [43 Stat. 883][/us/stat/43/883].
 
 ----------
 
@@ -32,7 +32,7 @@
 
 [/us/act/1947-07-30/ch392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-30%2Fch392
 [/us/stat/61/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F670
-[/us/act/1925-02-12/ch213/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-12%2Fch213%2Fs2
+[/us/act/1925-02-12/ch213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-02-12%2Fch213
 [/us/stat/43/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F883
 
 
