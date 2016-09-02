@@ -15,7 +15,7 @@
 
 ## § 107. Limitations on exclusive rights: Fair use
 
-Notwithstanding the provisions of sections 106 and 106A, the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright. In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include—
+    Notwithstanding the provisions of sections 106 and 106A, the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright. In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include—
 
     (1) the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes;
 
@@ -25,7 +25,7 @@ Notwithstanding the provisions of sections 106 and 106A, the fair use of a copyr
 
     (4) the effect of the use upon the potential market for or value of the copyrighted work.
 
-        The fact that a work is unpublished shall not itself bar a finding of fair use if such finding is made upon consideration of all the above factors.
+    The fact that a work is unpublished shall not itself bar a finding of fair use if such finding is made upon consideration of all the above factors.
 
 ([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2546][/us/stat/90/2546]; [Pub. L. 101–650, title VI, § 607][/us/pl/101/650/s607], Dec. 1, 1990, [104 Stat. 5132][/us/stat/104/5132]; [Pub. L. 102–492][/us/pl/102/492], Oct. 24, 1992, [106 Stat. 3145][/us/stat/106/3145].)
 
@@ -163,7 +163,7 @@ General Background of the Problem. The judicial doctrine of fair use, one of the
 
                               By Alexander C. Hoffman. 
 
-    Chairman, Copyright Committee.
+Chairman, Copyright Committee.
 
     In a joint letter dated April 30, 1976, representatives of the Music Publishers’ Association of the United States, Inc., the National Music Publishers’ Association, Inc., the Music Teachers National Association, the Music Educators National Conference, the National Association of Schools of Music, and the Ad Hoc Committee on Copyright Law Revision, wrote to Chairman Kastenmeier as follows:
 

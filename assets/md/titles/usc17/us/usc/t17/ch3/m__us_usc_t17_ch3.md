@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs301" data-uslm-ref="/us/usc/t17/s301">301.</a>  </td>
 
     <td> Preemption with respect to other laws.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs302" data-uslm-ref="/us/usc/t17/s302">302.</a>  </td>
 
     <td> Duration of copyright: Works created on or after January 1, 1978.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs303" data-uslm-ref="/us/usc/t17/s303">303.</a>  </td>
 
     <td> Duration of copyright: Works created but not published or copyrighted before January 1, 1978.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs304" data-uslm-ref="/us/usc/t17/s304">304.</a>  </td>
 
     <td> Duration of copyright: Subsisting copyrights.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs305" data-uslm-ref="/us/usc/t17/s305">305.</a>  </td>
 
     <td> Duration of copyright: Terminal date.  </td>
 

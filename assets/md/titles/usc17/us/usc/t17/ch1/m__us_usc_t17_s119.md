@@ -677,7 +677,7 @@
 
  __Termination of Section__ 
 
-For termination of section by [section 107(a) of Pub. L. 111–175][/us/pl/111/175/s107/a], see Termination of Section note below.
+    For termination of section by [section 107(a) of Pub. L. 111–175][/us/pl/111/175/s107/a], see Termination of Section note below.
 
  __References in Text__ 
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs501" data-uslm-ref="/us/usc/t17/s501">501.</a>  </td>
 
     <td> Infringement of copyright.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs502" data-uslm-ref="/us/usc/t17/s502">502.</a>  </td>
 
     <td> Remedies for infringement: Injunctions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs503" data-uslm-ref="/us/usc/t17/s503">503.</a>  </td>
 
     <td> Remedies for infringement: Impounding and disposition of infringing articles.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs504" data-uslm-ref="/us/usc/t17/s504">504.</a>  </td>
 
     <td> Remedies for infringement: Damages and profits.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs505" data-uslm-ref="/us/usc/t17/s505">505.</a>  </td>
 
     <td> Remedies for infringement: Costs and attorney’s fees.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs506" data-uslm-ref="/us/usc/t17/s506">506.</a>  </td>
 
     <td> Criminal offenses.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs507" data-uslm-ref="/us/usc/t17/s507">507.</a>  </td>
 
     <td> Limitations on actions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs508" data-uslm-ref="/us/usc/t17/s508">508.</a>  </td>
 
     <td> Notification of filing and determination of actions.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> [509.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs509" data-uslm-ref="/us/usc/t17/s509">509.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs510" data-uslm-ref="/us/usc/t17/s510">510.</a>  </td>
 
     <td> Remedies for alteration of programming by cable systems.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs511" data-uslm-ref="/us/usc/t17/s511">511.</a>  </td>
 
     <td> Liability of States, instrumentalities of States, and State officials for infringement of copyright.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs512" data-uslm-ref="/us/usc/t17/s512">512.</a>  </td>
 
     <td> Limitations on liability relating to material online.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs513" data-uslm-ref="/us/usc/t17/s513">513.</a>  </td>
 
     <td> Determination of reasonable license fees for individual proprietors.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs101" data-uslm-ref="/us/usc/t17/s101">101.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs102" data-uslm-ref="/us/usc/t17/s102">102.</a>  </td>
 
     <td> Subject matter of copyright: In general.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs103" data-uslm-ref="/us/usc/t17/s103">103.</a>  </td>
 
     <td> Subject matter of copyright: Compilations and derivative works.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs104" data-uslm-ref="/us/usc/t17/s104">104.</a>  </td>
 
     <td> Subject matter of copyright: National origin.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 104A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs104A" data-uslm-ref="/us/usc/t17/s104A">104A.</a>  </td>
 
     <td> Copyright in restored works.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 105.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs105" data-uslm-ref="/us/usc/t17/s105">105.</a>  </td>
 
     <td> Subject matter of copyright: United States Government works.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 106.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs106" data-uslm-ref="/us/usc/t17/s106">106.</a>  </td>
 
     <td> Exclusive rights in copyrighted works.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 106A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs106A" data-uslm-ref="/us/usc/t17/s106A">106A.</a>  </td>
 
     <td> Rights of certain authors to attribution and integrity.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 107.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs107" data-uslm-ref="/us/usc/t17/s107">107.</a>  </td>
 
     <td> Limitations on exclusive rights: Fair use.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 108.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs108" data-uslm-ref="/us/usc/t17/s108">108.</a>  </td>
 
     <td> Limitations on exclusive rights: Reproduction by libraries and archives.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 109.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs109" data-uslm-ref="/us/usc/t17/s109">109.</a>  </td>
 
     <td> Limitations on exclusive rights: Effect of transfer of particular copy or phonorecord.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 110.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs110" data-uslm-ref="/us/usc/t17/s110">110.</a>  </td>
 
     <td> Limitations on exclusive rights: Exemption of certain performances and displays.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 111.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs111" data-uslm-ref="/us/usc/t17/s111">111.</a>  </td>
 
     <td> Limitations on exclusive rights: Secondary transmissions of broadcast programming by cable.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 112.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs112" data-uslm-ref="/us/usc/t17/s112">112.</a>  </td>
 
     <td> Limitations on exclusive rights: Ephemeral recordings.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 113.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs113" data-uslm-ref="/us/usc/t17/s113">113.</a>  </td>
 
     <td> Scope of exclusive rights in pictorial, graphic, and sculptural works.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 114.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs114" data-uslm-ref="/us/usc/t17/s114">114.</a>  </td>
 
     <td> Scope of exclusive rights in sound recordings.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 115.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs115" data-uslm-ref="/us/usc/t17/s115">115.</a>  </td>
 
     <td> Scope of exclusive rights in nondramatic musical works: Compulsory license for making and distributing phonorecords.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 116.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs116" data-uslm-ref="/us/usc/t17/s116">116.</a>  </td>
 
     <td> Negotiated licenses for public performances by means of coin-operated phonorecord players.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> [116A.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs116A" data-uslm-ref="/us/usc/t17/s116A">116A.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 117.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs117" data-uslm-ref="/us/usc/t17/s117">117.</a>  </td>
 
     <td> Limitations on exclusive rights: Computer programs.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 118.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs118" data-uslm-ref="/us/usc/t17/s118">118.</a>  </td>
 
     <td> Scope of exclusive rights: Use of certain works in connection with noncommercial broadcasting.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 119.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs119" data-uslm-ref="/us/usc/t17/s119">119.</a>  </td>
 
     <td> Limitations on exclusive rights: Secondary transmissions of distant television programming by satellite.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 120.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs120" data-uslm-ref="/us/usc/t17/s120">120.</a>  </td>
 
     <td> Scope of exclusive rights in architectural works.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs121" data-uslm-ref="/us/usc/t17/s121">121.</a>  </td>
 
     <td> Limitations on exclusive rights: Reproduction for blind or other people with disabilities.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs122" data-uslm-ref="/us/usc/t17/s122">122.</a>  </td>
 
     <td> Limitations on exclusive rights: Secondary transmissions of local television programming by satellite.  </td>
 

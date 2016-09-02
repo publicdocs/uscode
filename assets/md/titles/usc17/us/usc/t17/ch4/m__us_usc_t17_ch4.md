@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs401" data-uslm-ref="/us/usc/t17/s401">401.</a>  </td>
 
     <td> Notice of copyright: Visually perceptible copies.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs402" data-uslm-ref="/us/usc/t17/s402">402.</a>  </td>
 
     <td> Notice of copyright: Phonorecords of sound recordings.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs403" data-uslm-ref="/us/usc/t17/s403">403.</a>  </td>
 
     <td> Notice of copyright: Publications incorporating United States Government works.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs404" data-uslm-ref="/us/usc/t17/s404">404.</a>  </td>
 
     <td> Notice of copyright: Contributions to collective works.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 405.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs405" data-uslm-ref="/us/usc/t17/s405">405.</a>  </td>
 
     <td> Notice of copyright: Omission of notice on certain copies and phonorecords.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 406.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs406" data-uslm-ref="/us/usc/t17/s406">406.</a>  </td>
 
     <td> Notice of copyright: Error in name or date on certain copies and phonorecords.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 407.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs407" data-uslm-ref="/us/usc/t17/s407">407.</a>  </td>
 
     <td> Deposit of copies or phonorecords for Library of Congress.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 408.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs408" data-uslm-ref="/us/usc/t17/s408">408.</a>  </td>
 
     <td> Copyright registration in general.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 409.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs409" data-uslm-ref="/us/usc/t17/s409">409.</a>  </td>
 
     <td> Application for copyright registration.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 410.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs410" data-uslm-ref="/us/usc/t17/s410">410.</a>  </td>
 
     <td> Registration of claim and issuance of certificate.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs411" data-uslm-ref="/us/usc/t17/s411">411.</a>  </td>
 
     <td> Registration and civil infringement actions.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs412" data-uslm-ref="/us/usc/t17/s412">412.</a>  </td>
 
     <td> Registration as prerequisite to certain remedies for infringement.  </td>
 

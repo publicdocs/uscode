@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t17/ch1/m__us_usc_t17_ch1.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft17)
 
-# 
-
-Title 17—COPYRIGHTS
+# Title 17—COPYRIGHTS
 
     This title was enacted by [act July 30, 1947, ch. 391][/us/act/1947-07-30/ch391], [61 Stat. 652][/us/stat/61/652], and was revised in its entirety by     [Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2541][/us/stat/90/2541]
+
+Current through 113–44
 
 <table>
 
@@ -33,131 +33,131 @@ Title 17—COPYRIGHTS
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fch1" data-uslm-ref="/us/usc/t17/ch1">1.</a>  </td>
 
     <td> Subject Matter and Scope of Copyright  </td>
 
-    <td> 101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs101" data-uslm-ref="/us/usc/t17/s101">101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fch2" data-uslm-ref="/us/usc/t17/ch2">2.</a>  </td>
 
     <td> Copyright Ownership and Transfer  </td>
 
-    <td> 201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs201" data-uslm-ref="/us/usc/t17/s201">201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fch3" data-uslm-ref="/us/usc/t17/ch3">3.</a>  </td>
 
     <td> Duration of Copyright  </td>
 
-    <td> 301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs301" data-uslm-ref="/us/usc/t17/s301">301</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fch4" data-uslm-ref="/us/usc/t17/ch4">4.</a>  </td>
 
     <td> Copyright Notice, Deposit, and Registration  </td>
 
-    <td> 401  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs401" data-uslm-ref="/us/usc/t17/s401">401</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fch5" data-uslm-ref="/us/usc/t17/ch5">5.</a>  </td>
 
     <td> Copyright Infringement and Remedies  </td>
 
-    <td> 501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs501" data-uslm-ref="/us/usc/t17/s501">501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fch6" data-uslm-ref="/us/usc/t17/ch6">6.</a>  </td>
 
     <td> Importation and Exportation  </td>
 
-    <td> 601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs601" data-uslm-ref="/us/usc/t17/s601">601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fch7" data-uslm-ref="/us/usc/t17/ch7">7.</a>  </td>
 
     <td> Copyright Office  </td>
 
-    <td> 701  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs701" data-uslm-ref="/us/usc/t17/s701">701</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fch8" data-uslm-ref="/us/usc/t17/ch8">8.</a>  </td>
 
     <td> Proceedings by Copyright Royalty Judges  </td>
 
-    <td> 801  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs801" data-uslm-ref="/us/usc/t17/s801">801</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fch9" data-uslm-ref="/us/usc/t17/ch9">9.</a>  </td>
 
     <td> Protection of Semiconductor Chip Products  </td>
 
-    <td> 901  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs901" data-uslm-ref="/us/usc/t17/s901">901</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fch10" data-uslm-ref="/us/usc/t17/ch10">10.</a>  </td>
 
     <td> Digital Audio Recording Devices and Media  </td>
 
-    <td> 1001  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs1001" data-uslm-ref="/us/usc/t17/s1001">1001</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fch11" data-uslm-ref="/us/usc/t17/ch11">11.</a>  </td>
 
     <td> Sound Recordings and Music Videos  </td>
 
-    <td> 1101  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs1101" data-uslm-ref="/us/usc/t17/s1101">1101</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fch12" data-uslm-ref="/us/usc/t17/ch12">12.</a>  </td>
 
     <td> Copyright Protection and Management Systems  </td>
 
-    <td> 1201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs1201" data-uslm-ref="/us/usc/t17/s1201">1201</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fch13" data-uslm-ref="/us/usc/t17/ch13">13.</a>  </td>
 
     <td> Protection of Original Designs  </td>
 
-    <td> 1301  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs1301" data-uslm-ref="/us/usc/t17/s1301">1301</a>  </td>
 
   </tr>
 

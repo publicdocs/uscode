@@ -15,7 +15,7 @@
 
 ## § 409. Application for copyright registration
 
-The application for copyright registration shall be made on a form prescribed by the Register of Copyrights and shall include—
+    The application for copyright registration shall be made on a form prescribed by the Register of Copyrights and shall include—
 
     (1) the name and address of the copyright claimant;
 
@@ -37,7 +37,7 @@ The application for copyright registration shall be made on a form prescribed by
 
     (10) any other information regarded by the Register of Copyrights as bearing upon the preparation or identification of the work or the existence, ownership, or duration of the copyright.
 
-        If an application is submitted for the renewed and extended term provided for in section 304(a)(3)(A) and an original term registration has not been made, the Register may request information with respect to the existence, ownership, or duration of the copyright for the original term.
+    If an application is submitted for the renewed and extended term provided for in section 304(a)(3)(A) and an original term registration has not been made, the Register may request information with respect to the existence, ownership, or duration of the copyright for the original term.
 
 ([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2582][/us/stat/90/2582]; [Pub. L. 102–307, title I, § 102(b)(1)][/us/pl/102/307/s102/b/1], June 26, 1992, [106 Stat. 266][/us/stat/106/266]; [Pub. L. 111–295, § 4(b)(2)][/us/pl/111/295/s4/b/2], Dec. 9, 2010, [124 Stat. 3180][/us/stat/124/3180].)
 

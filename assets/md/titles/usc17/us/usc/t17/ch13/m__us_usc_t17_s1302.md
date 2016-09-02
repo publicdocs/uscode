@@ -15,7 +15,7 @@
 
 ## § 1302. Designs not subject to protection
 
-Protection under this chapter shall not be available for a design that is—
+    Protection under this chapter shall not be available for a design that is—
 
     (1) not original;
 

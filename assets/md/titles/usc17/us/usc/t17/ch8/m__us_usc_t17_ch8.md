@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs801" data-uslm-ref="/us/usc/t17/s801">801.</a>  </td>
 
     <td> Copyright Royalty Judges; appointment and functions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs802" data-uslm-ref="/us/usc/t17/s802">802.</a>  </td>
 
     <td> Copyright Royalty Judgeships; staff.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs803" data-uslm-ref="/us/usc/t17/s803">803.</a>  </td>
 
     <td> Proceedings of Copyright Royalty Judges.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs804" data-uslm-ref="/us/usc/t17/s804">804.</a>  </td>
 
     <td> Institution of proceedings.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs805" data-uslm-ref="/us/usc/t17/s805">805.</a>  </td>
 
     <td> General rule for voluntarily negotiated agreements.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 106. Exclusive rights in copyrighted works
 
-Subject to sections 107 through 122, the owner of copyright under this title has the exclusive rights to do and to authorize any of the following:
+    Subject to sections 107 through 122, the owner of copyright under this title has the exclusive rights to do and to authorize any of the following:
 
     (1) to reproduce the copyrighted work in copies or phonorecords;
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> [601.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs601" data-uslm-ref="/us/usc/t17/s601">601.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 602. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs602" data-uslm-ref="/us/usc/t17/s602">602.</a> <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
     <td> Infringing importation of copies or phonorecords.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs603" data-uslm-ref="/us/usc/t17/s603">603.</a>  </td>
 
     <td> Importation prohibitions: Enforcement and disposition of excluded articles.  </td>
 

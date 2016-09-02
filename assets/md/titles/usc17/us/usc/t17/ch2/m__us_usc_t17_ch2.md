@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs201" data-uslm-ref="/us/usc/t17/s201">201.</a>  </td>
 
     <td> Ownership of copyright.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs202" data-uslm-ref="/us/usc/t17/s202">202.</a>  </td>
 
     <td> Ownership of copyright as distinct from ownership of material object.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs203" data-uslm-ref="/us/usc/t17/s203">203.</a>  </td>
 
     <td> Termination of transfers and licenses granted by the author.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs204" data-uslm-ref="/us/usc/t17/s204">204.</a>  </td>
 
     <td> Execution of transfers of copyright ownership.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs205" data-uslm-ref="/us/usc/t17/s205">205.</a>  </td>
 
     <td> Recordation of transfers and other documents.  </td>
 

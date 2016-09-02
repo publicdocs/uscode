@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 701.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs701" data-uslm-ref="/us/usc/t17/s701">701.</a>  </td>
 
     <td> The Copyright Office: General responsibilities and organization.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 702.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs702" data-uslm-ref="/us/usc/t17/s702">702.</a>  </td>
 
     <td> Copyright Office regulations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 703.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs703" data-uslm-ref="/us/usc/t17/s703">703.</a>  </td>
 
     <td> Effective date of actions in Copyright Office.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 704.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs704" data-uslm-ref="/us/usc/t17/s704">704.</a>  </td>
 
     <td> Retention and disposition of articles deposited in Copyright Office.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 705.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs705" data-uslm-ref="/us/usc/t17/s705">705.</a>  </td>
 
     <td> Copyright Office records: Preparation, maintenance, public inspection, and searching.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 706.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs706" data-uslm-ref="/us/usc/t17/s706">706.</a>  </td>
 
     <td> Copies of Copyright Office records.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 707.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs707" data-uslm-ref="/us/usc/t17/s707">707.</a>  </td>
 
     <td> Copyright Office forms and publications.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 708.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs708" data-uslm-ref="/us/usc/t17/s708">708.</a>  </td>
 
     <td> Copyright Office fees.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 709.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs709" data-uslm-ref="/us/usc/t17/s709">709.</a>  </td>
 
     <td> Delay in delivery caused by disruption of postal or other services.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [710.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs710" data-uslm-ref="/us/usc/t17/s710">710.</a>  </td>
 
     <td> Repealed.]  </td>
 

@@ -33,7 +33,7 @@ SUBCHAPTER A—DEFINITIONS  </td>
 
   <tr>
 
-    <td> 1001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs1001" data-uslm-ref="/us/usc/t17/s1001">1001.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER B—COPYING CONTROLS  </td>
 
   <tr>
 
-    <td> 1002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs1002" data-uslm-ref="/us/usc/t17/s1002">1002.</a>  </td>
 
     <td> Incorporation of copying controls.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER C—ROYALTY PAYMENTS  </td>
 
   <tr>
 
-    <td> 1003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs1003" data-uslm-ref="/us/usc/t17/s1003">1003.</a>  </td>
 
     <td> Obligation to make royalty payments.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER C—ROYALTY PAYMENTS  </td>
 
   <tr>
 
-    <td> 1004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs1004" data-uslm-ref="/us/usc/t17/s1004">1004.</a>  </td>
 
     <td> Royalty payments.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER C—ROYALTY PAYMENTS  </td>
 
   <tr>
 
-    <td> 1005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs1005" data-uslm-ref="/us/usc/t17/s1005">1005.</a>  </td>
 
     <td> Deposit of royalty payments and deduction of expenses.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER C—ROYALTY PAYMENTS  </td>
 
   <tr>
 
-    <td> 1006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs1006" data-uslm-ref="/us/usc/t17/s1006">1006.</a>  </td>
 
     <td> Entitlement to royalty payments.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER C—ROYALTY PAYMENTS  </td>
 
   <tr>
 
-    <td> 1007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs1007" data-uslm-ref="/us/usc/t17/s1007">1007.</a>  </td>
 
     <td> Procedures for distributing royalty payments.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER D—PROHIBITION ON CERTAIN INFRINGEMENT ACTIONS, REMEDIES, AND ARBITR
 
   <tr>
 
-    <td> 1008.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs1008" data-uslm-ref="/us/usc/t17/s1008">1008.</a>  </td>
 
     <td> Prohibition on certain infringement actions.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER D—PROHIBITION ON CERTAIN INFRINGEMENT ACTIONS, REMEDIES, AND ARBITR
 
   <tr>
 
-    <td> 1009.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs1009" data-uslm-ref="/us/usc/t17/s1009">1009.</a>  </td>
 
     <td> Civil remedies.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER D—PROHIBITION ON CERTAIN INFRINGEMENT ACTIONS, REMEDIES, AND ARBITR
 
   <tr>
 
-    <td> 1010.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs1010" data-uslm-ref="/us/usc/t17/s1010">1010.</a>  </td>
 
     <td> Determination of certain disputes.  </td>
 

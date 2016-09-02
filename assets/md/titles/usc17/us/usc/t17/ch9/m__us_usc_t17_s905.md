@@ -15,7 +15,7 @@
 
 ## § 905. Exclusive rights in mask works
 
-The owner of a mask work provided protection under this chapter has the exclusive rights to do and to authorize any of the following:
+    The owner of a mask work provided protection under this chapter has the exclusive rights to do and to authorize any of the following:
 
     (1) to reproduce the mask work by optical, electronic, or any other means;
 

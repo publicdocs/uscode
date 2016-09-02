@@ -131,15 +131,13 @@
 
             (F) Unless and until termination is effected under this subsection, the grant, if it does not provide otherwise, continues in effect for the remainder of the extended renewal term.
 
-    (d) __Termination Rights Provided in Subsection__ 
+    (d) __Termination Rights Provided in Subsection (c) Which Have Expired on or Before the Effective Date of the Sonny Bono Copyright Term Extension Act.—__ 
 
-        (c) __Which Have Expired on or Before the Effective Date of the Sonny Bono Copyright Term Extension Act.—__ 
+    In the case of any copyright other than a work made for hire, subsisting in its renewal term on the effective date of the Sonny Bono Copyright Term Extension Act for which the termination right provided in subsection (c) has expired by such date, where the author or owner of the termination right has not previously exercised such termination right, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by any of the persons designated in subsection (a)(1)(C) of this section, other than by will, is subject to termination under the following conditions:
 
-        In the case of any copyright other than a work made for hire, subsisting in its renewal term on the effective date of the Sonny Bono Copyright Term Extension Act for which the termination right provided in subsection (c) has expired by such date, where the author or owner of the termination right has not previously exercised such termination right, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by any of the persons designated in subsection (a)(1)(C) of this section, other than by will, is subject to termination under the following conditions:
+        (1) The conditions specified in subsections (c)(1), (2), (4), (5), and (6) of this section apply to terminations of the last 20 years of copyright term as provided by the amendments made by the Sonny Bono Copyright Term Extension Act.
 
-    (1) The conditions specified in subsections (c)(1), (2), (4), (5), and (6) of this section apply to terminations of the last 20 years of copyright term as provided by the amendments made by the Sonny Bono Copyright Term Extension Act.
-
-    (2) Termination of the grant may be effected at any time during a period of 5 years beginning at the end of 75 years from the date copyright was originally secured.
+        (2) Termination of the grant may be effected at any time during a period of 5 years beginning at the end of 75 years from the date copyright was originally secured.
 
 ([Pub. L. 94–553, title I, § 101][/us/pl/94/553/s101], Oct. 19, 1976, [90 Stat. 2573][/us/stat/90/2573]; [Pub. L. 102–307, title I, § 102(a)][/us/pl/102/307/s102/a], (d), June 26, 1992, [106 Stat. 264][/us/stat/106/264], 266; [Pub. L. 105–80, § 12(a)(9)][/us/pl/105/80/s12/a/9], Nov. 13, 1997, [111 Stat. 1535][/us/stat/111/1535]; [Pub. L. 105–298, title I][/us/pl/105/298], §§ 102(d)(1), 103, Oct. 27, 1998, [112 Stat. 2827][/us/stat/112/2827], 2829; [Pub. L. 107–273, div. C, title III, § 13210(10)][/us/pl/107/273/s13210/10], Nov. 2, 2002, [116 Stat. 1910][/us/stat/116/1910].)
 

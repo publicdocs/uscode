@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs1201" data-uslm-ref="/us/usc/t17/s1201">1201.</a>  </td>
 
     <td> Circumvention of copyright protection systems.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs1202" data-uslm-ref="/us/usc/t17/s1202">1202.</a>  </td>
 
     <td> Integrity of copyright management information.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1203.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs1203" data-uslm-ref="/us/usc/t17/s1203">1203.</a>  </td>
 
     <td> Civil remedies.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1204.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs1204" data-uslm-ref="/us/usc/t17/s1204">1204.</a>  </td>
 
     <td> Criminal offenses and penalties.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1205.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft17%2Fs1205" data-uslm-ref="/us/usc/t17/s1205">1205.</a>  </td>
 
     <td> Savings clause.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 1001. Definitions
 
-As used in this chapter, the following terms have the following meanings:
+    As used in this chapter, the following terms have the following meanings:
 
     (1) A “digital audio copied recording” is a reproduction in a digital recording format of a digital musical recording, whether that reproduction is made directly from another digital musical recording or indirectly from a transmission.
 

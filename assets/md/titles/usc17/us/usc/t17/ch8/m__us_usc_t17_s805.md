@@ -15,7 +15,7 @@
 
 ## § 805. General rule for voluntarily negotiated agreements
 
-Any rates or terms under this title that—
+    Any rates or terms under this title that—
 
     (1) are agreed to by participants to a proceeding under section 803(b)(3),
 
@@ -23,7 +23,7 @@ Any rates or terms under this title that—
 
     (3) are in effect for a period shorter than would otherwise apply under a determination pursuant to this chapter,
 
-        shall remain in effect for such period of time as would otherwise apply under such determination, except that the Copyright Royalty Judges shall adjust the rates pursuant to the voluntary negotiations to reflect national monetary inflation during the additional period the rates remain in effect.
+    shall remain in effect for such period of time as would otherwise apply under such determination, except that the Copyright Royalty Judges shall adjust the rates pursuant to the voluntary negotiations to reflect national monetary inflation during the additional period the rates remain in effect.
 
 (Added [Pub. L. 108–419, § 3(a)][/us/pl/108/419/s3/a], Nov. 30, 2004, [118 Stat. 2360][/us/stat/118/2360].)
 
