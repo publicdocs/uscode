@@ -37,6 +37,10 @@
 
  __Short Title of 2014 Amendment__ 
 
+[Pub. L. 113–242, § 1][/us/pl/113/242/s1], Dec. 18, 2014, [128 Stat. 2860][/us/stat/128/2860], provided that: 
+
+> “This Act \[enacting sections 13727 and 13727a of this title\] may be cited as the ‘Death in Custody Reporting Act of 2013’.”
+
 [Pub. L. 113–182, § 1][/us/pl/113/182/s1], Sept. 29, 2014, [128 Stat. 1918][/us/stat/128/1918], provided that: 
 
 > “This Act \[amending sections 14135, 14136, and 14136a of this title\] may be cited as the ‘Debbie Smith Reauthorization Act of 2014’.”
@@ -190,6 +194,8 @@
 [/us/pl/103/322/s20101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs20101
 [/us/stat/108/1815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1815
 [/us/pl/104/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134
+[/us/pl/113/242/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F242%2Fs1
+[/us/stat/128/2860]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2860
 [/us/pl/113/182/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F182%2Fs1
 [/us/stat/128/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1918
 [/us/pl/113/4/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F4%2Fs1

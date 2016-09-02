@@ -153,6 +153,18 @@
 
  __Short Title of 2014 Amendment__ 
 
+[Pub. L. 113–265, § 1][/us/pl/113/265/s1], Dec. 18, 2014, [128 Stat. 2942][/us/stat/128/2942], provided that: 
+
+> “This Act \[amending [section 280m of this title][/us/usc/t42/s280m]\] may be cited as the ‘EARLY Act Reauthorization of 2014’.”
+
+[Pub. L. 113–240, § 1(a)][/us/pl/113/240/s1/a], Dec. 18, 2014, [128 Stat. 2851][/us/stat/128/2851], provided that: 
+
+> “This Act \[enacting sections 300b–16 and 300b–17 of this title, amending sections 300b–8 to 300b–15 of this title, and enacting provisions set out as a note under [section 289 of this title][/us/usc/t42/s289]\] may be cited as the ‘Newborn Screening Saves Lives Reauthorization Act of 2014’.”
+
+[Pub. L. 113–236, § 1][/us/pl/113/236/s1], Dec. 18, 2014, [128 Stat. 2831][/us/stat/128/2831], provided that: 
+
+> “This Act \[enacting [section 300c–13 of this title][/us/usc/t42/s300c–13]\] may be cited as the ‘Sudden Unexpected Death Data Enhancement and Awareness Act’.”
+
 [Pub. L. 113–196, § 1][/us/pl/113/196/s1], Nov. 26, 2014, [128 Stat. 2052][/us/stat/128/2052], provided that: 
 
 > “This Act \[amending sections 280b–1c, 280b–3, 300d–52, and 300d–53 of this title\] may be cited as the ‘Traumatic Brain Injury Reauthorization Act of 2014’.”
@@ -1543,6 +1555,15 @@ Act June 16, 1948, § 1, [62 Stat. 464][/us/stat/62/464], provided that:
 [/us/usc/t33/s466j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs466j
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/pl/86/70/s47/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs47%2Fd
+[/us/pl/113/265/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F265%2Fs1
+[/us/stat/128/2942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2942
+[/us/usc/t42/s280m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs280m
+[/us/pl/113/240/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs1%2Fa
+[/us/stat/128/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2851
+[/us/usc/t42/s289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs289
+[/us/pl/113/236/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F236%2Fs1
+[/us/stat/128/2831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2831
+[/us/usc/t42/s300c–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300c%E2%80%9313
 [/us/pl/113/196/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F196%2Fs1
 [/us/stat/128/2052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2052
 [/us/pl/113/180/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F180%2Fs1

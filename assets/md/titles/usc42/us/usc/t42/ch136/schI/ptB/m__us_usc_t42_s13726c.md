@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch136/schI/ptB/m__us_usc_t42_s13726b.md) | [Next](./../../../../../..//us/usc/t42/ch136/schII/m__us_usc_t42_ch136_schII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13726c)
+[Previous](./../../../../../..//us/usc/t42/ch136/schI/ptB/m__us_usc_t42_s13726b.md) | [Next](./../../../../../..//us/usc/t42/ch136/schI/ptB/m__us_usc_t42_s13727.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13726c)
 
 ## § 13726c. Enforcement
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch136/schI/ptB/m__us_usc_t42_s13726b.md) | [Next](./../../../../../..//us/usc/t42/ch136/schII/m__us_usc_t42_ch136_schII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13726c)
+[Previous](./../../../../../..//us/usc/t42/ch136/schI/ptB/m__us_usc_t42_s13726b.md) | [Next](./../../../../../..//us/usc/t42/ch136/schI/ptB/m__us_usc_t42_s13727.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs13726c)
 
 ----------
 ----------

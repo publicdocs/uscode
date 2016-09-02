@@ -21,9 +21,13 @@
 
         (1) enable parents and family members of newborns, health professionals, industry representatives, and other members of the public to increase their awareness, knowledge, and understanding of newborn screening;
 
-        (2) increase awareness, knowledge, and understanding of newborn diseases and screening services for expectant individuals and families; and
+        (2) increase awareness, knowledge, and understanding of newborn diseases and screening services for expectant individuals and families;
 
-        (3) maintain current data on quality indicators to measure performance of newborn screening, such as false-positive rates and other quality indicators as determined by the Advisory Committee under [section 300b–10 of this title][/us/usc/t42/s300b–10].
+        (3) maintain current information on quality indicators to measure performance of newborn screening, such as false-positive rates and other quality indicators as determined by the Advisory Committee under [section 300b–10 of this title][/us/usc/t42/s300b–10];
+
+        (4) maintain current information on the number of conditions for which screening is conducted in each State; and
+
+        (5) disseminate available evidence-based guidelines related to diagnosis, counseling, and treatment with respect to conditions detected by newborn screening.
 
     (b) __Internet availability__ 
 
@@ -45,25 +49,31 @@
 
             (C) current research on both treatable and not-yet treatable conditions for which newborn screening tests are available;
 
-            (D) the availability of Federal funding for newborn and child screening for heritable disorders including grants authorized under the Newborn Screening Saves Lives Act of 2008; and
+            (D) the availability of Federal funding for newborn and child screening for heritable disorders including grants authorized under the Newborn Screening Saves Lives Reauthorization Act of 2014; and
 
             (E) other relevant information as determined appropriate by the Secretary.
 
     (c) __Nonduplication__ 
 
-        In developing the clearinghouse under this section, the Secretary shall ensure that such clearinghouse minimizes duplication and supplements, not supplants, existing information sharing efforts.
+        In carrying out activities under this section, the Secretary shall ensure that such activities minimize duplication and supplement, not supplant, existing information sharing efforts.
 
-    (d) __Authorization of appropriations__ 
-
-        There are authorized to be appropriated to carry out this section, $2,500,000 for fiscal year 2009, $2,531,250 for fiscal year 2010, $2,562,500 for fiscal year 2011, $2,593,750 for fiscal year 2012, and $2,625,000 for fiscal year 2013.
-
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1112, as added [Pub. L. 110–204, § 5][/us/pl/110/204/s5], Apr. 24, 2008, [122 Stat. 708][/us/stat/122/708]; amended [Pub. L. 110–237, § 1(a)(4)][/us/pl/110/237/s1/a/4], May 27, 2008, [122 Stat. 1557][/us/stat/122/1557].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title XI, § 1112, as added [Pub. L. 110–204, § 5][/us/pl/110/204/s5], Apr. 24, 2008, [122 Stat. 708][/us/stat/122/708]; amended [Pub. L. 110–237, § 1(a)(4)][/us/pl/110/237/s1/a/4], May 27, 2008, [122 Stat. 1557][/us/stat/122/1557]; [Pub. L. 113–240, § 5][/us/pl/113/240/s5], Dec. 18, 2014, [128 Stat. 2854][/us/stat/128/2854].)
 
  __References in Text__ 
 
-    The Newborn Screening Saves Lives Act of 2008, referred to in subsec. (b)(4)(D), is [Pub. L. 110–204][/us/pl/110/204], Apr. 24, 2008, [122 Stat. 705][/us/stat/122/705], which enacted this section and sections 300b–12 to 300b–15 of this title, amended sections 300b–8 to 300b–10 of this title, and enacted provisions set out as a note under [section 201 of this title][/us/usc/t42/s201]. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
+    The Newborn Screening Saves Lives Reauthorization Act of 2014, referred to in subsec. (b)(4)(D), is [Pub. L. 113–240][/us/pl/113/240], Dec. 18, 2014, [128 Stat. 2851][/us/stat/128/2851]. For complete classification of this Act to the Code, see Short Title of 2014 Amendment note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (a)(3). [Pub. L. 113–240, § 5(1)(B)(i)][/us/pl/113/240/s5/1/B/i], substituted “information” for “data”.
+
+    Subsec. (a)(4), (5). [Pub. L. 113–240, § 5(1)(A)][/us/pl/113/240/s5/1/A], (B)(ii), (C), added pars. (4) and (5).
+
+    Subsec. (b)(4)(D). [Pub. L. 113–240, § 5(2)][/us/pl/113/240/s5/2], substituted “Newborn Screening Saves Lives Reauthorization Act of 2014” for “Newborn Screening Saves Lives Act of 2008”.
+
+    Subsec. (c). [Pub. L. 113–240, § 5(3)][/us/pl/113/240/s5/3], substituted “carrying out activities” for “developing the clearinghouse” and “activities minimize duplication and supplement, not supplant” for “clearinghouse minimizes duplication and supplements, not supplants”.
+
+    Subsec. (d). [Pub. L. 113–240, § 5(4)][/us/pl/113/240/s5/4], struck out subsec. (d). Text read as follows: “There are authorized to be appropriated to carry out this section, $2,500,000 for fiscal year 2009, $2,531,250 for fiscal year 2010, $2,562,500 for fiscal year 2011, $2,593,750 for fiscal year 2012, and $2,625,000 for fiscal year 2013.”
 
     2008—Subsec. (b)(4)(D). [Pub. L. 110–237, § 1(a)(4)(A)][/us/pl/110/237/s1/a/4/A], substituted “2008” for “2007”.
 
@@ -82,10 +92,16 @@
 [/us/stat/122/708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F708
 [/us/pl/110/237/s1/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237%2Fs1%2Fa%2F4
 [/us/stat/122/1557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1557
-[/us/pl/110/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F204
-[/us/stat/122/705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F705
+[/us/pl/113/240/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs5
+[/us/stat/128/2854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2854
+[/us/pl/113/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240
+[/us/stat/128/2851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2851
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
-[/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
+[/us/pl/113/240/s5/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs5%2F1%2FB%2Fi
+[/us/pl/113/240/s5/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs5%2F1%2FA
+[/us/pl/113/240/s5/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs5%2F2
+[/us/pl/113/240/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs5%2F3
+[/us/pl/113/240/s5/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs5%2F4
 [/us/pl/110/237/s1/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237%2Fs1%2Fa%2F4%2FA
 [/us/pl/110/237/s1/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F237%2Fs1%2Fa%2F4%2FB
 

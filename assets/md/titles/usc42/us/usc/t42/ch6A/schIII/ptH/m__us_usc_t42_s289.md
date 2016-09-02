@@ -25,6 +25,22 @@
 
 ([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 491, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 873][/us/stat/99/873].)
 
+ __Informed Consent for Newborn Screening Research__ 
+
+[Pub. L. 113–240, § 12][/us/pl/113/240/s12], Dec. 18, 2014, [128 Stat. 2857][/us/stat/128/2857], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Research on newborn dried blood spots shall be considered research carried out on human subjects meeting the definition of section 46.102(f)(2) of title 45, Code of Federal Regulations, for purposes of Federally funded research conducted pursuant to the Public Health Service Act \[[42 U.S.C. 201][/us/usc/t42/s201] et seq.\] until such time as updates to the Federal Policy for the Protection of Human Subjects (the Common Rule) are promulgated pursuant to subsection (c). For purposes of this subsection, sections 46.116(c) and 46.116(d) of title 45, Code of Federal Regulations, shall not apply.
+
+>     “(b)  __Effective Date__  __.—__ 
+
+>     Subsection (a) shall apply only to newborn dried blood spots used for purposes of Federally funded research that were collected not earlier than 90 days after the date of enactment of this Act \[Dec. 18, 2014\].
+
+>     “(c)  __Regulations__  __.—__ 
+
+>     Not later than 6 months after the date of enactment of this Act, the Secretary of Health and Human Services shall promulgate proposed regulations related to the updating of the Federal Policy for the Protection of Human Subjects (the Common Rule), particularly with respect to informed consent. Not later than 2 years after such date of enactment, the Secretary shall promulgate final regulations based on such proposed regulations.”
+
  __Study Concerning Research Involving Children__ 
 
 [Pub. L. 107–109, § 12][/us/pl/107/109/s12], Jan. 4, 2002, [115 Stat. 1416][/us/stat/115/1416], provided that:
@@ -89,6 +105,9 @@
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/99/158/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F158%2Fs2
 [/us/stat/99/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F873
+[/us/pl/113/240/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F240%2Fs12
+[/us/stat/128/2857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2857
+[/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/107/109/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F109%2Fs12
 [/us/stat/115/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1416
 [/us/pl/106/310/s2701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F310%2Fs2701

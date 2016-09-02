@@ -3001,6 +3001,60 @@
 
         An energy conservation standard for external power supplies shall not constitute an energy conservation standard for the separate end-use product to which the external power supply is connected.
 
+        (5) __Exempt supplies.—__ 
+
+            (A)  __February 10, 2014__  __, rule.—__ 
+
+                (i)  __In general__  __.—__ 
+
+                An external power supply shall not be subject to the final rule entitled “Energy Conservation Program: Energy Conservation Standards for External Power Supplies”, published at 79 Fed. Reg. 7845 (February 10, 2014), if the external power supply—
+
+                    (I) is manufactured during the period beginning on February 10, 2016, and ending on February 10, 2020;
+
+                    (II) is marked in accordance with the External Power Supply International Efficiency Marking Protocol, as in effect on February 10, 2016;
+
+                    (III) meets, where applicable, the standards under paragraph (3)(A), and has been certified to the Secretary as meeting International Efficiency Level IV or higher of the External Power Supply International Efficiency Marking Protocol, as in effect on February 10, 2016; and
+
+                    (IV)
+
+                     is made available by the manufacturer as a service part or a spare part for an end-use product that—
+
+                        (aa) constitutes the primary load; and
+
+                        (bb) was manufactured before February 10, 2016.
+
+                (ii)  __Reporting__  __.—__ 
+
+                The Secretary may require manufacturers of products exempted pursuant to clause (i) to report annual total units shipped as service and spare parts that fall below International Efficiency Level VI.
+
+                (iii)  __Limitation of exemption__  __.—__ 
+
+                The Secretary may issue a rule, after providing public notice and opportunity for public comment, to limit the applicability of the exemption established under clause (i) if the Secretary determines that the exemption is resulting in a significant reduction of the energy savings that would otherwise result from the final rule described in such clause.
+
+            (B) __Amended standards.—__ 
+
+                (i)  __In general__  __.—__ 
+
+                The Secretary may exempt an external power supply from any amended standard under this subsection if the external power supply—
+
+                    (I) is manufactured within four years of the compliance date of the amended standard;
+
+                    (II) complies with applicable marking requirements adopted by the Secretary prior to the amendment;
+
+                    (III) meets the standards that were in effect prior to the amendment; and
+
+                    (IV)
+
+                     is made available by the manufacturer as a service part or a spare part for an end-use product that—
+
+                        (aa) constitutes the primary load; and
+
+                        (bb) was manufactured before the compliance date of the amended standard.
+
+                (ii)  __Reporting__  __.—__ 
+
+                The Secretary may require manufacturers of a product exempted pursuant to clause (i) to report annual total units shipped as service and spare parts that do not meet the amended standard.
+
     (v) __Refrigerated beverage vending machines__ 
 
         (1) Not later than 4 years after August 8, 2005, the Secretary shall prescribe, by rule, energy conservation standards for refrigerated bottle or canned beverage vending machines.
@@ -3483,7 +3537,7 @@
 
         (2) to products for which energy conservation standards are established under subsections (w) through (hh) of this section on August 8, 2005, except that any State or local standard prescribed or enacted before August 8, 2005, shall not be preempted until the energy conservation standards established under subsections (w) through (hh) of this section take effect.
 
-([Pub. L. 94–163, title III, § 325][/us/pl/94/163/s325], Dec. 22, 1975, [89 Stat. 923][/us/stat/89/923]; [Pub. L. 94–385, title I, § 161][/us/pl/94/385/s161], Aug. 14, 1976, [90 Stat. 1140][/us/stat/90/1140]; [Pub. L. 95–619, title IV, § 422][/us/pl/95/619/s422], Nov. 9, 1978, [92 Stat. 3259][/us/stat/92/3259]; [Pub. L. 100–12, § 5][/us/pl/100/12/s5], Mar. 17, 1987, [101 Stat. 107][/us/stat/101/107]; [Pub. L. 100–357, § 2(e)][/us/pl/100/357/s2/e], June 28, 1988, [102 Stat. 673][/us/stat/102/673]; [Pub. L. 102–486, title I, § 123(f)][/us/pl/102/486/s123/f], Oct. 24, 1992, [106 Stat. 2824][/us/stat/106/2824]; [Pub. L. 105–388, § 5(a)(5)][/us/pl/105/388/s5/a/5], Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478]; [Pub. L. 109–58, title I, § 135(c)][/us/pl/109/58/s135/c], Aug. 8, 2005, [119 Stat. 628][/us/stat/119/628]; [Pub. L. 110–140, title III][/us/pl/110/140], §§ 301(c), 303–305(a), 306(a), 307, 308(a), 309–311(a), 316(c)(2), (d), 321(a)(3), 322(b), 324(e), Dec. 19, 2007, [121 Stat. 1550][/us/stat/121/1550], 1552, 1553, 1556, 1559–1561, 1563, 1573, 1577, 1588, 1593; [Pub. L. 111–360, § 1][/us/pl/111/360/s1], Jan. 4, 2011, [124 Stat. 4051][/us/stat/124/4051]; [Pub. L. 112–210][/us/pl/112/210], §§ 3, 5(a), (c), 10(a)(1), (8), (11), (b)(1), Dec. 18, 2012, [126 Stat. 1514][/us/stat/126/1514], 1517, 1519, 1522, 1524, 1525.)
+([Pub. L. 94–163, title III, § 325][/us/pl/94/163/s325], Dec. 22, 1975, [89 Stat. 923][/us/stat/89/923]; [Pub. L. 94–385, title I, § 161][/us/pl/94/385/s161], Aug. 14, 1976, [90 Stat. 1140][/us/stat/90/1140]; [Pub. L. 95–619, title IV, § 422][/us/pl/95/619/s422], Nov. 9, 1978, [92 Stat. 3259][/us/stat/92/3259]; [Pub. L. 100–12, § 5][/us/pl/100/12/s5], Mar. 17, 1987, [101 Stat. 107][/us/stat/101/107]; [Pub. L. 100–357, § 2(e)][/us/pl/100/357/s2/e], June 28, 1988, [102 Stat. 673][/us/stat/102/673]; [Pub. L. 102–486, title I, § 123(f)][/us/pl/102/486/s123/f], Oct. 24, 1992, [106 Stat. 2824][/us/stat/106/2824]; [Pub. L. 105–388, § 5(a)(5)][/us/pl/105/388/s5/a/5], Nov. 13, 1998, [112 Stat. 3478][/us/stat/112/3478]; [Pub. L. 109–58, title I, § 135(c)][/us/pl/109/58/s135/c], Aug. 8, 2005, [119 Stat. 628][/us/stat/119/628]; [Pub. L. 110–140, title III][/us/pl/110/140], §§ 301(c), 303–305(a), 306(a), 307, 308(a), 309–311(a), 316(c)(2), (d), 321(a)(3), 322(b), 324(e), Dec. 19, 2007, [121 Stat. 1550][/us/stat/121/1550], 1552, 1553, 1556, 1559–1561, 1563, 1573, 1577, 1588, 1593; [Pub. L. 111–360, § 1][/us/pl/111/360/s1], Jan. 4, 2011, [124 Stat. 4051][/us/stat/124/4051]; [Pub. L. 112–210][/us/pl/112/210], §§ 3, 5(a), (c), 10(a)(1), (8), (11), (b)(1), Dec. 18, 2012, [126 Stat. 1514][/us/stat/126/1514], 1517, 1519, 1522, 1524, 1525; [Pub. L. 113–263, § 2][/us/pl/113/263/s2], Dec. 18, 2014, [128 Stat. 2937][/us/stat/128/2937].)
 
  __References in Text__ 
 
@@ -3496,6 +3550,8 @@
     Subsection (i), referred to in subsec. (l)(4)(F)(ii)(I), was amended by [Pub. L. 110–140, title III, § 322(b)][/us/pl/110/140/s322/b], Dec. 19, 2007, [121 Stat. 1588][/us/stat/121/1588], by striking out par. (1) and adding a new par. (1), and as so amended, subsec. (i)(1)(A) does not relate to maximum wattage requirements. However, provisions similar to those contained in former subsec. (i)(1)(A) are now contained in subsec. (i)(1)(B). See 2007 Amendment notes below.
 
  __Amendments__ 
+
+    2014—Subsec. (u)(5). [Pub. L. 113–263][/us/pl/113/263] added par. (5).
 
     2012—Subsec. (d)(4). [Pub. L. 112–210, § 5(a)][/us/pl/112/210/s5/a], added par. (4).
 
@@ -3767,6 +3823,8 @@
 [/us/stat/124/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4051
 [/us/pl/112/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210
 [/us/stat/126/1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1514
+[/us/pl/113/263/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F263%2Fs2
+[/us/stat/128/2937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2937
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
@@ -3778,6 +3836,7 @@
 [/us/stat/121/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1593
 [/us/pl/110/140/s322/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F140%2Fs322%2Fb
 [/us/stat/121/1588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1588
+[/us/pl/113/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F263
 [/us/pl/112/210/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs5%2Fa
 [/us/pl/112/210/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs3
 [/us/pl/112/210/s10/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F210%2Fs10%2Fb%2F1

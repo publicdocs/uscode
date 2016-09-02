@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schIX/ptB/m__us_usc_t42_s300c–12.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIX/ptC/m__us_usc_t42_s300c–21.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschIX%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schIX/ptB/m__us_usc_t42_s300c–13.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIX/ptC/m__us_usc_t42_s300c–21.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschIX%2FptC)
 
 #### Part C—Hemophilia Programs
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schIX/ptB/m__us_usc_t42_s300c–12.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIX/ptC/m__us_usc_t42_s300c–21.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschIX%2FptC)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schIX/ptB/m__us_usc_t42_s300c–13.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIX/ptC/m__us_usc_t42_s300c–21.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch6A%2FschIX%2FptC)
 
 ----------
 ----------

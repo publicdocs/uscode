@@ -123,9 +123,13 @@
 
     (h) __Authorization of appropriations__ 
 
-        To carry out subsections (a), (b), (c)(1), and (d), there are authorized to be appropriated $9,000,000 for each of the fiscal years 2010 through 2014.
+        To carry out subsections (a), (b), (c)(1), and (d), there are authorized to be appropriated $4,900,000 for each of fiscal years 2015 through 2019.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399NN, as added [Pub. L. 111–148, title X, § 10413(b)][/us/pl/111/148/s10413/b], Mar. 23, 2010, [124 Stat. 991][/us/stat/124/991].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399NN, as added [Pub. L. 111–148, title X, § 10413(b)][/us/pl/111/148/s10413/b], Mar. 23, 2010, [124 Stat. 991][/us/stat/124/991]; amended [Pub. L. 113–265, § 2][/us/pl/113/265/s2], Dec. 18, 2014, [128 Stat. 2942][/us/stat/128/2942].)
+
+ __Amendments__ 
+
+    2014—Subsec. (h). [Pub. L. 113–265][/us/pl/113/265] substituted “$4,900,000 for each of fiscal years 2015 through 2019” for “$9,000,000 for each of the fiscal years 2010 through 2014”.
 
 ----------
 
@@ -137,5 +141,8 @@
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/111/148/s10413/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10413%2Fb
 [/us/stat/124/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F991
+[/us/pl/113/265/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F265%2Fs2
+[/us/stat/128/2942]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2942
+[/us/pl/113/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F265
 
 

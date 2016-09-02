@@ -225,6 +225,22 @@ Part B—Miscellaneous Provisions  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13727" data-uslm-ref="/us/usc/t42/s13727">13727.</a>  </td>
+
+    <td> State information regarding individuals who die in the custody of law enforcement.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs13727a" data-uslm-ref="/us/usc/t42/s13727a">13727a.</a>  </td>
+
+    <td> Federal law enforcement death in custody reporting requirement.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER II—CRIME PREVENTION  </td>

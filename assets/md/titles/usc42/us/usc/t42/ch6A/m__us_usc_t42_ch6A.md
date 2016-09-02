@@ -7939,7 +7939,7 @@ Part A—Genetic Diseases  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs300b%E2%80%939" data-uslm-ref="/us/usc/t42/s300b–9">300b–9.</a>  </td>
 
-    <td> Evaluating the effectiveness of newborn and child screening programs.  </td>
+    <td> Evaluating the effectiveness of newborn and child screening and followup programs.  </td>
 
   </tr>
 
@@ -7963,7 +7963,7 @@ Part A—Genetic Diseases  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs300b%E2%80%9312" data-uslm-ref="/us/usc/t42/s300b–12">300b–12.</a>  </td>
 
-    <td> Laboratory quality.  </td>
+    <td> Laboratory quality and surveillance.  </td>
 
   </tr>
 
@@ -7993,6 +7993,22 @@ Part A—Genetic Diseases  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs300b%E2%80%9316" data-uslm-ref="/us/usc/t42/s300b–16">300b–16.</a>  </td>
+
+    <td> Authorization of appropriations for newborn screening programs and activities.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs300b%E2%80%9317" data-uslm-ref="/us/usc/t42/s300b–17">300b–17.</a>  </td>
+
+    <td> Report by Secretary.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 Part B—Sudden Infant Death Syndrome  </td>
@@ -8012,6 +8028,14 @@ Part B—Sudden Infant Death Syndrome  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs300c%E2%80%9312" data-uslm-ref="/us/usc/t42/s300c–12">300c–12.</a>  </td>
 
     <td> Sudden infant death syndrome research.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs300c%E2%80%9313" data-uslm-ref="/us/usc/t42/s300c–13">300c–13.</a>  </td>
+
+    <td> Continuing activities related to stillbirth, sudden unexpected infant death and sudden unexplained death in childhood.  </td>
 
   </tr>
 

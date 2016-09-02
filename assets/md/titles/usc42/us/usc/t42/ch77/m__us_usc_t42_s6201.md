@@ -51,6 +51,10 @@
 
  __Short Title of 2014 Amendment__ 
 
+[Pub. L. 113–263, § 1][/us/pl/113/263/s1], Dec. 18, 2014, [128 Stat. 2937][/us/stat/128/2937], provided that: 
+
+> “This Act \[amending [section 6295 of this title][/us/usc/t42/s6295]\] may be cited as the ‘EPS Service Parts Act of 2014’.”
+
 [Pub. L. 113–79, title XII, § 12401][/us/pl/113/79/s12401], Feb. 7, 2014, [128 Stat. 997][/us/stat/128/997], provided that: 
 
 > “This subtitle \[subtitle D (§§ 12401–12410) of title XII of [Pub. L. 113–79][/us/pl/113/79], amending provisions set out as a note under this section\] may be cited as the ‘Oilheat Efficiency, Renewable Fuel Research and Jobs Training Act of 2014’.”
@@ -1164,6 +1168,9 @@ Sec. 6. The Secretary of Energy is designated and empowered to perform without a
 [/us/pl/106/469/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs102%2F2
 [/us/pl/106/469/s102/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs102%2F2
 [/us/pl/102/486]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486
+[/us/pl/113/263/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F263%2Fs1
+[/us/stat/128/2937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2937
+[/us/usc/t42/s6295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6295
 [/us/pl/113/79/s12401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12401
 [/us/stat/128/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F997
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79

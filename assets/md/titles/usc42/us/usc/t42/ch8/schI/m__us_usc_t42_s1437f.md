@@ -333,11 +333,41 @@
 
                 The determination required under subparagraph (A) shall be made by the public housing agency (or other entity, as provided in paragraph (11)) pursuant to an inspection of the dwelling unit conducted before any assistance payment is made for the unit. Inspections of dwelling units under this subparagraph shall be made before the expiration of the 15-day period beginning upon a request by the resident or landlord to the public housing agency or, in the case of any public housing agency that provides assistance under this subsection on behalf of more than 1250 families, before the expiration of a reasonable period beginning upon such request. The performance of the agency in meeting the 15-day inspection deadline shall be taken into consideration in assessing the performance of the agency.
 
-            (D) __Annual inspections__ 
+            (D) __Biennial inspections__ 
 
-                Each public housing agency providing assistance under this subsection (or other entity, as provided in paragraph (11)) shall make an annual inspection of each assisted dwelling unit during the term of the housing assistance payments contract for the unit to determine whether the unit is maintained in accordance with the requirements under subparagraph (A). The agency (or other entity) shall retain the records of the inspection for a reasonable time and shall make the records available upon request to the Secretary, the Inspector General for the Department of Housing and Urban Development, and any auditor conducting an audit under [section 1437c(h) of this title][/us/usc/t42/s1437c/h].
+                (i) __Requirement__ 
 
-            (E) __Inspection guidelines__ 
+                    Each public housing agency providing assistance under this subsection (or other entity, as provided in paragraph (11)) shall, for each assisted dwelling unit, make inspections not less often than biennially during the term of the housing assistance payments contract for the unit to determine whether the unit is maintained in accordance with the requirements under subparagraph (A).
+
+                (ii) __Use of alternative inspection method__ 
+
+                    The requirements under clause (i) may be complied with by use of inspections that qualify as an alternative inspection method pursuant to subparagraph (E).
+
+                (iii) __Records__ 
+
+                    The public housing agency (or other entity) shall retain the records of the inspection for a reasonable time, as determined by the Secretary, and shall make the records available upon request to the Secretary, the Inspector General for the Department of Housing and Urban Development, and any auditor conducting an audit under [section 1437c(h) of this title][/us/usc/t42/s1437c/h].
+
+                (iv) __Mixed-finance properties__ 
+
+                    The Secretary may adjust the frequency of inspections for mixed-finance properties assisted with vouchers under paragraph (13) to facilitate the use of the alternative inspections in subparagraph (E).
+
+            (E) __Alternative inspection method__ 
+
+            An inspection of a property shall qualify as an alternative inspection method for purposes of this subparagraph if—
+
+                (i) the inspection was conducted pursuant to requirements under a Federal, State, or local housing program (including the Home investment partnership program under title II of the Cranston-Gonzalez National Affordable Housing Act \[[42 U.S.C. 12721][/us/usc/t42/s12721] et seq.\] and the low-income housing tax credit program under [section 42 of title 26][/us/usc/t26/s42]); and
+
+                (ii) pursuant to such inspection, the property was determined to meet the standards or requirements regarding housing quality or safety applicable to properties assisted under such program, and, if a non-Federal standard or requirement was used, the public housing agency has certified to the Secretary that such standard or requirement provides the same (or greater) protection to occupants of dwelling units meeting such standard or requirement as would the housing quality standards under subparagraph (B).
+
+            (F) __Interim inspections__ 
+
+            Upon notification to the public housing agency, by a family (on whose behalf tenant-based rental assistance is provided under this subsection) or by a government official, that the dwelling unit for which such assistance is provided does not comply with the housing quality standards under subparagraph (B), the public housing agency shall inspect the dwelling unit—
+
+                (i) in the case of any condition that is life-threatening, within 24 hours after the agency’s receipt of such notification, unless waived by the Secretary in extraordinary circumstances; and
+
+                (ii) in the case of any condition that is not life-threatening, within a reasonable time frame, as determined by the Secretary.
+
+            (G) __Inspection guidelines__ 
 
                 The Secretary shall establish procedural guidelines and performance standards to facilitate inspections of dwelling units and conform such inspections with practices utilized in the private housing market. Such guidelines and standards shall take into consideration variations in local laws and practices of public housing agencies and shall provide flexibility to authorities appropriate to facilitate efficient provision of assistance under this subsection.
 
@@ -913,57 +943,13 @@
 
     For termination of amendment by [section 704 of Pub. L. 111–22][/us/pl/111/22/s704], see Termination Date of 2009 Amendment note below.
 
- __Amendment of Subsection (o)(8)__ 
-
-    [Pub. L. 113–76, div. L, title II, § 220][/us/pl/113/76/s220], Jan. 17, 2014, [128 Stat. 630][/us/stat/128/630], provided that, effective upon such date as the Secretary determines, in the Secretary’s sole discretion, through the Secretary’s publication of such date in the Federal Register, as part of regulations promulgated, or a notice issued, by the Secretary to implement such amendments, subsection (o)(8) of this section is amended:
-
-    (1) by redesignating subparagraph (E) as subparagraph (G); and
-
-    (2) by striking subparagraph (D) and inserting the following new subparagraphs:
-
-    (D) Biennial inspections
-
-    (i) Requirement
-
-    Each public housing agency providing assistance under this subsection (or other entity, as provided in paragraph (11)) shall, for each assisted dwelling unit, make inspections not less often than biennially during the term of the housing assistance payments contract for the unit to determine whether the unit is maintained in accordance with the requirements under subparagraph (A).
-
-    (ii) Use of alternative inspection method
-
-    The requirements under clause (i) may be complied with by use of inspections that qualify as an alternative inspection method pursuant to subparagraph (E).
-
-    (iii) Records
-
-    The public housing agency (or other entity) shall retain the records of the inspection for a reasonable time, as determined by the Secretary, and shall make the records available upon request to the Secretary, the Inspector General for the Department of Housing and Urban Development, and any auditor conducting an audit under [section 1437c(h) of this title][/us/usc/t42/s1437c/h].
-
-    (iv) Mixed-finance properties
-
-    The Secretary may adjust the frequency of inspections for mixed-finance properties assisted with vouchers under paragraph (13) to facilitate the use of the alternative inspections in subparagraph (E).
-
-    (E) Alternative inspection method
-
-    An inspection of a property shall qualify as an alternative inspection method for purposes of this subparagraph if—
-
-    (i) the inspection was conducted pursuant to requirements under a Federal, State, or local housing program (including the Home investment partnership program under title II of the Cranston-Gonzalez National Affordable Housing Act \[[42 U.S.C. 12721][/us/usc/t42/s12721] et seq.\] and the low-income housing tax credit program under [section 42 of title 26][/us/usc/t26/s42]); and
-
-    (ii) pursuant to such inspection, the property was determined to meet the standards or requirements regarding housing quality or safety applicable to properties assisted under such program, and, if a non-Federal standard or requirement was used, the public housing agency has certified to the Secretary that such standard or requirement provides the same (or greater) protection to occupants of dwelling units meeting such standard or requirement as would the housing quality standards under subparagraph (B).
-
-    (F) Interim inspections
-
-    Upon notification to the public housing agency, by a family (on whose behalf tenant-based rental assistance is provided under this subsection) or by a government official, that the dwelling unit for which such assistance is provided does not comply with the housing quality standards under subparagraph (B), the public housing agency shall inspect the dwelling unit—
-
-    (i) in the case of any condition that is life-threatening, within 24 hours after the agency’s receipt of such notification, unless waived by the Secretary in extraordinary circumstances; and
-
-    (ii) in the case of any condition that is not life-threatening, within a reasonable time frame, as determined by the Secretary.
-
-    See 2014 Amendment notes below.
-
  __References in Text__ 
 
     The Housing and Community Development Act of 1992, referred to in subsec. (d)(2)(C), (D), is [Pub. L. 102–550][/us/pl/102/550], Oct. 28, 1992, [106 Stat. 3672][/us/stat/106/3672]. Subtitle C of title VI of the Act is classified generally to subchapter I (§ 13601 et seq.) of chapter 135 of this title. Subtitle D of title VI of the Act is classified principally to subchapter II (§ 13611 et seq.) of chapter 135 of this title. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under [section 5301 of this title][/us/usc/t42/s5301] and Tables.
 
     Sections 514 and 517 of the Multifamily Assisted Housing Reform and Affordability Act of 1997, referred to in subsecs. (d)(5) and (bb)(2), are sections 514 and 517 of [Pub. L. 105–65][/us/pl/105/65], and are set out as a note under this section.
 
-    The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (f)(4) and (o)(4)(D), (10)(F), is [Pub. L. 101–625][/us/pl/101/625], Nov. 28, 1990, [104 Stat. 4079][/us/stat/104/4079]. Title II of the Act, also known as the “HOME Investment Partnerships Act”, is classified principally to subchapter II (§ 12721 et seq.) of chapter 130 of this title. Subtitle A of title II of the Act is classified generally to part A (§ 12741 et seq.) of subchapter II of chapter 130 of this title. Title IV of the Act, also known as the “Homeownership and Opportunity Through HOPE Act”, enacted subchapter II–A (§ 1437aaa et seq.) of this chapter and subchapter IV (§ 12871 et seq.) of chapter 130 of this title, amended sections 1437c, 1437f, 1437l, 1437p, 1437r, and 1437s of this title and [section 1709 of Title 12][/us/usc/t12/s1709], Banks and Banking, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12701 of this title][/us/usc/t42/s12701] and Tables.
+    The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (f)(4) and (o)(4)(D), (8)(E)(i), (10)(F), is [Pub. L. 101–625][/us/pl/101/625], Nov. 28, 1990, [104 Stat. 4079][/us/stat/104/4079]. Title II of the Act, also known as the “HOME Investment Partnerships Act”, is classified principally to subchapter II (§ 12721 et seq.) of chapter 130 of this title. Subtitle A of title II of the Act is classified generally to part A (§ 12741 et seq.) of subchapter II of chapter 130 of this title. Title IV of the Act, also known as the “Homeownership and Opportunity Through HOPE Act”, enacted subchapter II–A (§ 1437aaa et seq.) of this chapter and subchapter IV (§ 12871 et seq.) of chapter 130 of this title, amended sections 1437c, 1437f, 1437l, 1437p, 1437r, and 1437s of this title and [section 1709 of Title 12][/us/usc/t12/s1709], Banks and Banking, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12701 of this title][/us/usc/t42/s12701] and Tables.
 
     The Social Security Act, referred to in subsec. (k), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620], which is classified generally to chapter 7 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 1305 of this title][/us/usc/t42/s1305] and Tables.
 
@@ -1001,7 +987,7 @@
 
     2014—Subsec. (o)(2)(D). [Pub. L. 113–76, § 242][/us/pl/113/76/s242], added subpar. (D).
 
-    Subsec. (o)(8)(D)–(G). [Pub. L. 113–76, § 220(a)][/us/pl/113/76/s220/a], added subpars. (D) to (F), redesignated former subpar. (E) as (G), and struck out former subpar. (D), which required every public housing agency providing assistance under this subsection to make an annual inspection of each assisted dwelling unit.
+    Subsec. (o)(8)(D)–(G). [Pub. L. 113–76, § 220(a)][/us/pl/113/76/s220/a], added subpars. (D) to (F), redesignated former subpar. (E) as (G), and struck out former subpar. (D) which required every public housing agency providing assistance under this subsection to make an annual inspection of each assisted dwelling unit.
 
     2013—Subsec. (c)(9). [Pub. L. 113–4, § 601(b)(2)(A)][/us/pl/113/4/s601/b/2/A], struck out par. (9) which related to prohibitions against the denial of program assistance or admission to victims of domestic violence, dating violence, or stalking and the termination of assistance, tenancy, or occupancy rights of such victims.
 
@@ -1626,6 +1612,8 @@
 [Pub. L. 113–76, div. L, title II, § 220(b)][/us/pl/113/76/s220/b], Jan. 17, 2014, [128 Stat. 631][/us/stat/128/631], provided that: 
 
 > “The amendments in subsection (a) \[amending this section\] shall take effect upon such date as the Secretary determines, in the Secretary’s sole discretion, through the Secretary’s publication of such date in the Federal Register, as part of regulations promulgated, or a notice issued, by the Secretary to implement such amendments.”
+
+    \[Notice implementing certain provisions of [section 220 of Pub. L. 113–76][/us/pl/113/76/s220] in a limited fashion was published June 25, 2014, effective July 1, 2014, see 79 F.R. 35940.\]
 
  __Effective Date of 2010 Amendment__ 
 
@@ -4017,6 +4005,8 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 [/us/usc/t42/s1437c–1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931%2Ff
 [/us/usc/t12/s2602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs2602
 [/us/usc/t42/s1437c/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%2Fh
+[/us/usc/t42/s12721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12721
+[/us/usc/t26/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42
 [/us/usc/t26/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42
 [/us/usc/t42/s12741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12741
 [/us/usc/t42/s1437c–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%E2%80%931
@@ -4140,11 +4130,6 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/stat/128/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F630
 [/us/pl/111/22/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F22%2Fs704
-[/us/pl/113/76/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs220
-[/us/stat/128/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F630
-[/us/usc/t42/s1437c/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437c%2Fh
-[/us/usc/t42/s12721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12721
-[/us/usc/t26/s42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs42
 [/us/pl/102/550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550
 [/us/stat/106/3672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3672
 [/us/usc/t42/s5301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5301
@@ -4504,6 +4489,7 @@ Section 101(e) \[title II, § 204\] of [Pub. L. 104–134][/us/pl/104/134], as
 [/us/pl/94/375/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F375%2Fs2%2Fe
 [/us/pl/113/76/s220/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs220%2Fb
 [/us/stat/128/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F631
+[/us/pl/113/76/s220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs220
 [/us/pl/111/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203
 [/us/pl/111/203/s1400/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F203%2Fs1400%2Fc
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601

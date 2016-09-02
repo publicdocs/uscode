@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schIX/ptB/m__us_usc_t42_s300c–11.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIX/ptC/m__us_usc_t42_ch6A_schIX_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300c%E2%80%9312)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schIX/ptB/m__us_usc_t42_s300c–11.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIX/ptB/m__us_usc_t42_s300c–13.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300c%E2%80%9312)
 
 ## § 300c–12. Sudden infant death syndrome research
 
@@ -43,7 +43,7 @@ Subsection (b), referred to in text, was repealed by [Pub. L. 109–482, title I
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch6A/schIX/ptB/m__us_usc_t42_s300c–11.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIX/ptC/m__us_usc_t42_ch6A_schIX_ptC.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300c%E2%80%9312)
+[Previous](./../../../../../..//us/usc/t42/ch6A/schIX/ptB/m__us_usc_t42_s300c–11.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schIX/ptB/m__us_usc_t42_s300c–13.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300c%E2%80%9312)
 
 ----------
 ----------
