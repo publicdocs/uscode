@@ -65,6 +65,14 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs132a%E2%80%933" data-uslm-ref="/us/usc/t2/s132a–3">132a–3.</a>  </td>
+
+    <td> Authority to transfer amounts between categories of appropriations.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs132b" data-uslm-ref="/us/usc/t2/s132b">132b.</a>  </td>
 
     <td> Joint Committee on the Library.  </td>

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch24/schIII/m__us_usc_t2_s1385.md) | [Next](./../../../../..//us/usc/t2/ch24/schIV/m__us_usc_t2_ch24_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1386)
+[Previous](./../../../../..//us/usc/t2/ch24/schIII/m__us_usc_t2_s1385.md) | [Next](./../../../../..//us/usc/t2/ch24/schIII/m__us_usc_t2_s1387.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1386)
 
 ## § 1386. Disposition of surplus or obsolete personal property
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch24/schIII/m__us_usc_t2_s1385.md) | [Next](./../../../../..//us/usc/t2/ch24/schIV/m__us_usc_t2_ch24_schIV.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1386)
+[Previous](./../../../../..//us/usc/t2/ch24/schIII/m__us_usc_t2_s1385.md) | [Next](./../../../../..//us/usc/t2/ch24/schIII/m__us_usc_t2_s1387.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1386)
 
 ----------
 ----------

@@ -97,6 +97,8 @@ In addition to these acts the following House Resolutions affected the salary of
 
 The following acts have provided for funds for the operation of Congress:
 
+    [Pub. L. 113–76, div. I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 417][/us/stat/128/417].
+
     [Pub. L. 112–74, div. G][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 1116][/us/stat/125/1116].
 
     [Pub. L. 111–68, div. A][/us/pl/111/68], Oct. 1, 2009, [123 Stat. 2023][/us/stat/123/2023].
@@ -316,6 +318,8 @@ The following acts have provided for funds for the operation of Congress:
 [/us/stat/62/437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F437
 [/us/act/1949-06-22/ch235/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-06-22%2Fch235%2Fs105
 [/us/stat/63/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F230
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F417
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1116
 [/us/pl/111/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68

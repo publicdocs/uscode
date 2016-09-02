@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s132a–2.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s133.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs132b)
+[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s132a–3.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s133.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs132b)
 
 ## § 132b. Joint Committee on the Library
 
@@ -39,7 +39,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s132a–2.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s133.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs132b)
+[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s132a–3.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s133.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs132b)
 
 ----------
 ----------

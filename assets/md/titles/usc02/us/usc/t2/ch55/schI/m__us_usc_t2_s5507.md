@@ -27,7 +27,7 @@
 
         (1) Amounts appropriated for any fiscal year for the House of Representatives under the headings specified in paragraph (2) may be transferred among and merged with such headings, effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer.
 
-        (2) The headings referred to in paragraph (1) are “House Leadership Offices”, “Members’ Representational Allowances”, “Committee Employees”, “Salaries, Officers and Employees”, and “Allowances and Expenses”.
+        (2) The headings referred to in paragraph (1) are “House Leadership Offices”, “Members’ Representational Allowances”, “Committee Employees”, “Salaries, Officers and Employees”, “Allowances and Expenses’, the heading for any joint committee under the heading “Joint Items” (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), and “Office of the Attending Physician”.
 
     (d) __Transfers to Architect of the Capitol__ 
 
@@ -37,7 +37,7 @@
 
         Amounts appropriated for any fiscal year for the House of Representatives under any heading other than the heading “Members’ Representational Allowances” may be transferred to the Architect of the Capitol and merged with and made available under the heading “House Historic Buildings Revitalization Trust Fund”, subject to the approval of the Committee on Appropriations of the House of Representatives.
 
-([Pub. L. 102–392, title I, § 101][/us/pl/102/392/s101], Oct. 6, 1992, [106 Stat. 1709][/us/stat/106/1709]; [Pub. L. 108–7, div. H, title I, § 109(a)][/us/pl/108/7/s109/a], Feb. 20, 2003, [117 Stat. 355][/us/stat/117/355]; [Pub. L. 111–8, div. G, title I][/us/pl/111/8], §§ 103(a), 105(a), (b), Mar. 11, 2009, [123 Stat. 817][/us/stat/123/817], 818; [Pub. L. 111–68, div. A, title I][/us/pl/111/68], §§ 104(a), 1304(d), Oct. 1, 2009, [123 Stat. 2029][/us/stat/123/2029], 2035.)
+([Pub. L. 102–392, title I, § 101][/us/pl/102/392/s101], Oct. 6, 1992, [106 Stat. 1709][/us/stat/106/1709]; [Pub. L. 108–7, div. H, title I, § 109(a)][/us/pl/108/7/s109/a], Feb. 20, 2003, [117 Stat. 355][/us/stat/117/355]; [Pub. L. 111–8, div. G, title I][/us/pl/111/8], §§ 103(a), 105(a), (b), Mar. 11, 2009, [123 Stat. 817][/us/stat/123/817], 818; [Pub. L. 111–68, div. A, title I][/us/pl/111/68], §§ 104(a), 1304(d), Oct. 1, 2009, [123 Stat. 2029][/us/stat/123/2029], 2035; [Pub. L. 113–76, div. I, title I, § 103(a)][/us/pl/113/76/s103/a], Jan. 17, 2014, [128 Stat. 422][/us/stat/128/422].)
 
  __Codification__ 
 
@@ -46,6 +46,8 @@
     Section is from the Congressional Operations Appropriations Act, 1993, which is title I of the Legislative Branch Appropriations Act, 1993.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(2). [Pub. L. 113–76][/us/pl/113/76] substituted “ ‘Allowances and Expenses’, the heading for any joint committee under the heading ‘Joint Items’ (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), and ‘Office of the Attending Physician’ ” for “and ‘Allowances and Expenses’ ”.
 
     2009—Subsecs. (a), (b), (c)(1). [Pub. L. 111–8, § 105(a)][/us/pl/111/8/s105/a], substituted “transferred among and merged with” for “transferred among”.
 
@@ -58,6 +60,12 @@
     Subsec. (e). [Pub. L. 111–68, § 1304(d)][/us/pl/111/68/s1304/d], added subsec. (e).
 
     2003—Subsecs. (a), (b), (c)(1). [Pub. L. 108–7][/us/pl/108/7] substituted “effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer” for “upon approval of the Committee on Appropriations of the House of Representatives”.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–76, div. I, title I, § 103(b)][/us/pl/113/76/s103/b], Jan. 17, 2014, [128 Stat. 422][/us/stat/128/422], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2014 and each succeeding fiscal year.”
 
  __Effective Date of 2009 Amendment__ 
 
@@ -102,13 +110,18 @@
 [/us/stat/123/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F817
 [/us/pl/111/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68
 [/us/stat/123/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2029
+[/us/pl/113/76/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs103%2Fa
+[/us/stat/128/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F422
 [/us/usc/t2/s95b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs95b
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/111/8/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs105%2Fa
 [/us/pl/111/8/s105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs105%2Fb
 [/us/pl/111/68/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs104%2Fa
 [/us/pl/111/8/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs103%2Fa
 [/us/pl/111/68/s1304/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1304%2Fd
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/113/76/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs103%2Fb
+[/us/stat/128/422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F422
 [/us/pl/111/68/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs104%2Fb
 [/us/stat/123/2029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2029
 [/us/pl/111/68/s1304/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F68%2Fs1304%2Fd

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1823a.md) | [Next](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1825.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824)
+[Previous](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1823a.md) | [Next](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1824a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824)
 
 ## § 1824. Energy and environmental measures in Capitol Complex Master Plan
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1823a.md) | [Next](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1825.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824)
+[Previous](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1823a.md) | [Next](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1824a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1824)
 
 ----------
 ----------

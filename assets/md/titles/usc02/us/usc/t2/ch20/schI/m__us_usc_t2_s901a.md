@@ -95,7 +95,7 @@
 
         (B)
 
-         On the dates OMB issues its sequestration preview reports for fiscal year 2022 and for fiscal year 2023, pursuant to [section 904(c) of this title][/us/usc/t2/s904/c], the President shall order a sequestration, effective upon issuance such that—
+         On the dates OMB issues its sequestration preview reports for fiscal year 2022, for fiscal year 2023, and for fiscal year 2024, pursuant to [section 904(c) of this title][/us/usc/t2/s904/c], the President shall order a sequestration, effective upon issuance such that—
 
             (i) the percentage reduction for nonexempt direct spending for the defense function is the same percent as the percentage reduction for nonexempt direct spending for the defense function for fiscal year 2021 calculated under paragraph (3)(B); and
 
@@ -127,7 +127,7 @@
 
         (B) Paragraph (5)(B) shall not be implemented for fiscal years 2014 and 2015.
 
-([Pub. L. 99–177, title II, § 251A][/us/pl/99/177/s251A], as added [Pub. L. 112–25, title III, § 302(a)][/us/pl/112/25/s302/a], Aug. 2, 2011, [125 Stat. 256][/us/stat/125/256]; amended [Pub. L. 112–240, title IX, § 901(a)][/us/pl/112/240/s901/a], (c), Jan. 2, 2013, [126 Stat. 2370][/us/stat/126/2370]; [Pub. L. 113–67, div. A, title I, § 101(b)][/us/pl/113/67/s101/b], (c), (d)(2), div. B, title II, § 1205, Dec. 26, 2013, [127 Stat. 1167][/us/stat/127/1167], 1168, 1200.)
+([Pub. L. 99–177, title II, § 251A][/us/pl/99/177/s251A], as added [Pub. L. 112–25, title III, § 302(a)][/us/pl/112/25/s302/a], Aug. 2, 2011, [125 Stat. 256][/us/stat/125/256]; amended [Pub. L. 112–240, title IX, § 901(a)][/us/pl/112/240/s901/a], (c), Jan. 2, 2013, [126 Stat. 2370][/us/stat/126/2370]; [Pub. L. 113–67, div. A, title I, § 101(b)][/us/pl/113/67/s101/b], (c), (d)(2), div. B, title II, § 1205, Dec. 26, 2013, [127 Stat. 1167][/us/stat/127/1167], 1168, 1200; [Pub. L. 113–82, § 1][/us/pl/113/82/s1], Feb. 15, 2014, [128 Stat. 1009][/us/stat/128/1009].)
 
  __References in Text__ 
 
@@ -140,6 +140,8 @@
     A prior section 901a, [Pub. L. 99–177, title II, § 251A][/us/pl/99/177/s251A], as added [Pub. L. 103–322, title XXXI, § 310001(g)(1)][/us/pl/103/322/s310001/g/1], Sept. 13, 1994, [108 Stat. 2104][/us/stat/108/2104], related to sequestration with respect to Violent Crime Reduction Trust Fund, prior to repeal by [Pub. L. 105–33, title X, § 10204(a)(1)][/us/pl/105/33/s10204/a/1], Aug. 5, 1997, [111 Stat. 702][/us/stat/111/702].
 
  __Amendments__ 
+
+    2014—Par. (6)(B). [Pub. L. 113–82][/us/pl/113/82] substituted “, for fiscal year 2023, and for fiscal year 2024” for “and for fiscal year 2023”.
 
     2013—[Pub. L. 113–67, § 101(d)(2)(A)][/us/pl/113/67/s101/d/2/A], in introductory provisions substituted “Discretionary appropriations and direct spending accounts shall be reduced in accordance with this section as follows:” for “Unless a joint committee bill achieving an amount greater than $1,200,000,000,000 in deficit reduction as provided in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011 is enacted by January 15, 2012, the discretionary spending limits listed in [section 901(c) of this title][/us/usc/t2/s901/c] shall be revised, and discretionary appropriations and direct spending shall be reduced, as follows:”.
 
@@ -236,6 +238,8 @@
 [/us/stat/126/2370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2370
 [/us/pl/113/67/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs101%2Fb
 [/us/stat/127/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1167
+[/us/pl/113/82/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F82%2Fs1
+[/us/stat/128/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1009
 [/us/pl/112/25/s401/b/3/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs401%2Fb%2F3%2FB%2Fi%2FII
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
@@ -245,6 +249,7 @@
 [/us/stat/108/2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2104
 [/us/pl/105/33/s10204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10204%2Fa%2F1
 [/us/stat/111/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F702
+[/us/pl/113/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F82
 [/us/pl/113/67/s101/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs101%2Fd%2F2%2FA
 [/us/usc/t2/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901%2Fc
 [/us/pl/113/67/s101/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs101%2Fd%2F2%2FB

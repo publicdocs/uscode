@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1824.md) | [Next](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1826.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1825)
+[Previous](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1824a.md) | [Next](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1826.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1825)
 
 ## § 1825. Repealed. [Pub. L. 110–437, title V, § 501(b)(2)][/us/pl/110/437/s501/b/2], Oct. 20, 2008, [122 Stat. 4997][/us/stat/122/4997]
 
@@ -19,7 +19,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1824.md) | [Next](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1826.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1825)
+[Previous](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1824a.md) | [Next](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1826.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1825)
 
 ----------
 ----------

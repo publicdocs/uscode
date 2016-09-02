@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch65/schI/m__us_usc_t2_s6516.md) | [Next](./../../../../..//us/usc/t2/ch65/schII/m__us_usc_t2_ch65_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6517)
+[Previous](./../../../../..//us/usc/t2/ch65/schI/m__us_usc_t2_s6516.md) | [Next](./../../../../..//us/usc/t2/ch65/schI/m__us_usc_t2_s6518.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6517)
 
 ## § 6517. Receipts from sale of used or surplus furniture and furnishings of Senate
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch65/schI/m__us_usc_t2_s6516.md) | [Next](./../../../../..//us/usc/t2/ch65/schII/m__us_usc_t2_ch65_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6517)
+[Previous](./../../../../..//us/usc/t2/ch65/schI/m__us_usc_t2_s6516.md) | [Next](./../../../../..//us/usc/t2/ch65/schI/m__us_usc_t2_s6518.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs6517)
 
 ----------
 ----------

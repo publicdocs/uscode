@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t2/ch29/schI/ptA/m__us_usc_t2_s1906.md) | [Next](./../../../../../..//us/usc/t2/ch29/schI/ptA/m__us_usc_t2_s1908.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1907)
+[Previous](./../../../../../..//us/usc/t2/ch29/schI/ptA/m__us_usc_t2_s1906.md) | [Next](./../../../../../..//us/usc/t2/ch29/schI/ptA/m__us_usc_t2_s1907a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1907)
 
 ## § 1907. Transfer of disbursing function
 
@@ -83,15 +83,7 @@
 
             Employees of the Capitol Police who are appointed by the Chief under the authority of this subsection shall be subject to the same type of benefits (including the payment of death gratuities, the withholding of debt, and health, retirement, Social Security, and other applicable employee benefits) as are provided to employees of the House of Representatives, and any such individuals serving as employees of the Capitol Police as of February 20, 2003, shall be subject to the same rules governing rights, protections, pay, and benefits in effect immediately before such date until such rules are changed under applicable laws or regulations.
 
-    (f) __Worker’s compensation__ 
-
-        (1) __Account__ 
-
-            There shall be established a separate account in the Capitol Police for purposes of making payments for employees of the Capitol Police under [section 8147 of title 5][/us/usc/t5/s8147].
-
-        (2) __Payments without fiscal year limitation__ 
-
-            Notwithstanding any other provision of law, payments may be made from the account established under paragraph (1) of this subsection without regard to the fiscal year for which the obligation to make such payments is incurred.
+    (f) __Repealed.__  __[__  __Pub. L. 113–76, div. I, title I, § 1002(b)__  __][/us/pl/113/76/s1002/b]__  __,__  __Jan. 17, 2014__  __,__  __[__  __128 Stat. 424__  __][/us/stat/128/424]__ 
 
     (g) __Effect on existing law__ 
 
@@ -109,7 +101,7 @@
 
         This section and the amendments made by this section shall take effect on February 20, 2003, and shall apply to fiscal year 2003 and each fiscal year thereafter.
 
-([Pub. L. 108–7, div. H, title I, § 1018][/us/pl/108/7/s1018], Feb. 20, 2003, [117 Stat. 366][/us/stat/117/366]; [Pub. L. 111–145, § 2(a)(4)(A)][/us/pl/111/145/s2/a/4/A], Mar. 4, 2010, [124 Stat. 49][/us/stat/124/49].)
+([Pub. L. 108–7, div. H, title I, § 1018][/us/pl/108/7/s1018], Feb. 20, 2003, [117 Stat. 366][/us/stat/117/366]; [Pub. L. 111–145, § 2(a)(4)(A)][/us/pl/111/145/s2/a/4/A], Mar. 4, 2010, [124 Stat. 49][/us/stat/124/49]; [Pub. L. 113–76, div. I, title I, § 1002(b)][/us/pl/113/76/s1002/b], Jan. 17, 2014, [128 Stat. 424][/us/stat/128/424].)
 
  __References in Text__ 
 
@@ -123,24 +115,39 @@
 
  __Amendments__ 
 
+    2014—[Pub. L. 113–76][/us/pl/113/76] struck out subsec. (f), which established a worker’s compensation account for the Capitol Police.
+
     2010—Subsec. (e)(1). [Pub. L. 111–145][/us/pl/111/145] added par. (1) and struck out former par. (1) which authorized the Chief of the Capitol Police to appoint, hire, discharge, and set the terms, conditions, and privileges of employment of employees of the Capitol Police, subject to review and approval.
 
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–76, div. I, title I, § 1002(c)][/us/pl/113/76/s1002/c], Jan. 17, 2014, [128 Stat. 424][/us/stat/128/424], provided that: 
+
+> “This section \[enacting [section 1907b of this title][/us/usc/t2/s1907b] and amending this section\] shall apply with respect to appropriations for fiscal year 2014 and each fiscal year thereafter.”
+
 ----------
 
-[Previous](./../../../../../..//us/usc/t2/ch29/schI/ptA/m__us_usc_t2_s1906.md) | [Next](./../../../../../..//us/usc/t2/ch29/schI/ptA/m__us_usc_t2_s1908.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1907)
+[Previous](./../../../../../..//us/usc/t2/ch29/schI/ptA/m__us_usc_t2_s1906.md) | [Next](./../../../../../..//us/usc/t2/ch29/schI/ptA/m__us_usc_t2_s1907a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1907)
 
 ----------
 ----------
 
-[/us/usc/t5/s8147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8147
+[/us/pl/113/76/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1002%2Fb
+[/us/stat/128/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F424
 [/us/pl/108/7/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1018
 [/us/stat/117/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F366
 [/us/pl/111/145/s2/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145%2Fs2%2Fa%2F4%2FA
 [/us/stat/124/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F49
+[/us/pl/113/76/s1002/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1002%2Fb
+[/us/stat/128/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F424
 [/us/pl/108/7/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1018
 [/us/pl/108/7/s1018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1018
 [/us/usc/t2/s1921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1921
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/111/145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F145
+[/us/pl/113/76/s1002/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1002%2Fc
+[/us/stat/128/424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F424
+[/us/usc/t2/s1907b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1907b
 
 

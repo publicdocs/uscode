@@ -57,6 +57,16 @@
 
  __501 First Street SE., District of Columbia; Disposal of Real Property__ 
 
+[Pub. L. 113–76, div. I, title I, § 1302][/us/pl/113/76/s1302], Jan. 17, 2014, [128 Stat. 429][/us/stat/128/429], provided that:
+
+>     “(a)  __Use of Building__  __.—__ 
+
+>     In exercising its authority under the item ‘Architect of the Capitol, Capitol Buildings and Grounds, House Office Buildings’ in the Legislative Branch Appropriations Act, 1985 ([Public Law 98–367][/us/pl/98/367]; [2 U.S.C. 2001][/us/usc/t2/s2001] note), to use the building referred to in such item for the purposes of providing office and accommodations for the House of Representatives, the House Office Building Commission is authorized to enter into such agreements regarding the use of the building by the House or by other persons as the Commission considers appropriate.
+
+>     “(b)  __Effective Date__  __.—__ 
+
+>     This section shall apply with respect to fiscal year 2014 and each succeeding fiscal year.”
+
 [Pub. L. 104–99, title I, § 121][/us/pl/104/99/s121], Jan. 26, 1996, [110 Stat. 30][/us/stat/110/30], as amended by [Pub. L. 105–275, title I, § 110][/us/pl/105/275/s110], Oct. 21, 1998, [112 Stat. 2440][/us/stat/112/2440], provided that:
 
 >     “(a) __Disposal of Real Property.—__ 
@@ -261,6 +271,10 @@ House Resolution No. 208, Ninety-fourth Congress, Feb. 24, 1975, as enacted into
 [/us/pl/104/197/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F197%2Fs307
 [/us/stat/110/2413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2413
 [/us/usc/t5/s8339/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8339%2Fm
+[/us/pl/113/76/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs1302
+[/us/stat/128/429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F429
+[/us/pl/98/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F367
+[/us/usc/t2/s2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2001
 [/us/pl/104/99/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F99%2Fs121
 [/us/stat/110/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F30
 [/us/pl/105/275/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F275%2Fs110

@@ -233,6 +233,14 @@ SUBCHAPTER II—GENERAL POWERS AND DUTIES  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1824a" data-uslm-ref="/us/usc/t2/s1824a">1824a.</a>  </td>
+
+    <td> Recyclable materials.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1825" data-uslm-ref="/us/usc/t2/s1825">1825.</a>  </td>
 
     <td> Repealed.  </td>
@@ -500,6 +508,14 @@ SUBCHAPTER IV—APPROPRIATIONS AND EXPENDITURES  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1868" data-uslm-ref="/us/usc/t2/s1868">1868.</a>  </td>
 
     <td> Semiannual compilation and report of expenditures.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1868a" data-uslm-ref="/us/usc/t2/s1868a">1868a.</a>  </td>
+
+    <td> Semiannual report of disbursements.  </td>
 
   </tr>
 

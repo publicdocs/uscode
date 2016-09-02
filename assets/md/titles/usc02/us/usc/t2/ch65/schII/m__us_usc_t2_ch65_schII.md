@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch65/schI/m__us_usc_t2_s6517.md) | [Next](./../../../../..//us/usc/t2/ch65/schII/ptA/m__us_usc_t2_ch65_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch65%2FschII)
+[Previous](./../../../../..//us/usc/t2/ch65/schI/m__us_usc_t2_s6518.md) | [Next](./../../../../..//us/usc/t2/ch65/schII/ptA/m__us_usc_t2_ch65_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch65%2FschII)
 
 ### SUBCHAPTER II—SECRETARY OF THE SENATE
 
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch65/schI/m__us_usc_t2_s6517.md) | [Next](./../../../../..//us/usc/t2/ch65/schII/ptA/m__us_usc_t2_ch65_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch65%2FschII)
+[Previous](./../../../../..//us/usc/t2/ch65/schI/m__us_usc_t2_s6518.md) | [Next](./../../../../..//us/usc/t2/ch65/schII/ptA/m__us_usc_t2_ch65_schII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch65%2FschII)
 
 ----------
 ----------

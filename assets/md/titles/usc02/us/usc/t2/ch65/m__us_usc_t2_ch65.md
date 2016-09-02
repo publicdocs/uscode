@@ -169,6 +169,14 @@ SUBCHAPTER I—GENERAL  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs6518" data-uslm-ref="/us/usc/t2/s6518">6518.</a>  </td>
+
+    <td> Workers compensation payments.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER II—SECRETARY OF THE SENATE  </td>

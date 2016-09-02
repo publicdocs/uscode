@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch28/schIV/m__us_usc_t2_s1867.md) | [Next](./../../../../..//us/usc/t2/ch28/schIV/m__us_usc_t2_s1869.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1868)
+[Previous](./../../../../..//us/usc/t2/ch28/schIV/m__us_usc_t2_s1867.md) | [Next](./../../../../..//us/usc/t2/ch28/schIV/m__us_usc_t2_s1868a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1868)
 
 ## § 1868. Semiannual compilation and report of expenditures
 
@@ -35,7 +35,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch28/schIV/m__us_usc_t2_s1867.md) | [Next](./../../../../..//us/usc/t2/ch28/schIV/m__us_usc_t2_s1869.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1868)
+[Previous](./../../../../..//us/usc/t2/ch28/schIV/m__us_usc_t2_s1867.md) | [Next](./../../../../..//us/usc/t2/ch28/schIV/m__us_usc_t2_s1868a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1868)
 
 ----------
 ----------

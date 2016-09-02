@@ -105,6 +105,22 @@ Part A—General  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1907a" data-uslm-ref="/us/usc/t2/s1907a">1907a.</a>  </td>
+
+    <td> Authority to transfer amounts between salaries and general expenses.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1907b" data-uslm-ref="/us/usc/t2/s1907b">1907b.</a>  </td>
+
+    <td> Funds available for workers compensation payments.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1908" data-uslm-ref="/us/usc/t2/s1908">1908.</a>  </td>
 
     <td> Legal representation authority.  </td>
