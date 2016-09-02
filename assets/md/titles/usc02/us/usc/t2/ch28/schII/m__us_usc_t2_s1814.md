@@ -37,7 +37,7 @@
 
  __Conditions for Use of Certain Telecommunications Systems and Services by Agency of Legislative Branch__ 
 
-[Pub. L. 101–520, title III, § 306][/us/pl/101/520/s306], Nov. 5, 1990, [104 Stat. 2277][/us/stat/104/2277], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
+[Pub. L. 101–520, title III, § 306][/us/pl/101/520/s306], Nov. 5, 1990, [104 Stat. 2277][/us/stat/104/2277], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that:
 
 >     “(a)
 
@@ -47,7 +47,7 @@
 
 >         “(2) in the case of long distance service, have been determined by the Architect of the Capitol to be at least equal in quality to, and not greater in cost than, the systems and services available under the procurement conducted by the Administrator of General Services known as ‘FTS2000’.
 
->     “(b) As used in this section, the term ‘agency of the legislative branch’ means the office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, and the Congressional Budget Office.”
+>     “(b) As used in this section, the term ‘agency of the legislative branch’ means the office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, and the Congressional Budget Office.”
 
 Similar provisions were contained in the following prior appropriations acts:
 
@@ -57,7 +57,7 @@ Similar provisions were contained in the following prior appropriations acts:
 
  __Development of Overall Plan for Satisfying Telecommunications Requirements of Agencies of Legislative Branch__ 
 
-[Pub. L. 102–392, title III, § 305][/us/pl/102/392/s305], Oct. 6, 1992, [106 Stat. 1721][/us/stat/106/1721], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
+[Pub. L. 102–392, title III, § 305][/us/pl/102/392/s305], Oct. 6, 1992, [106 Stat. 1721][/us/stat/106/1721], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that:
 
 >     “(a) The Architect of the Capitol, in consultation with the heads of the agencies of the legislative branch, shall develop an overall plan for satisfying the telecommunications requirements of such agencies, using a common system architecture for maximum interconnection capability and engineering compatibility. The plan shall be subject to joint approval by the Committee on House Administration of the House of Representatives and the Committee on Rules and Administration of the Senate, and, upon approval, shall be communicated to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate. No part of any appropriation in this Act or any other Act shall be used for acquisition of any new or expanded telecommunications system for an agency of the legislative branch, unless, as determined by the Architect of the Capitol, the acquisition is in conformance with the plan, as approved.
 
@@ -65,7 +65,7 @@ Similar provisions were contained in the following prior appropriations acts:
 
 >      As used in this section—
 
->         “(1) the term ‘agency of the legislative branch’ means the Office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, and the Congressional Budget Office; and
+>         “(1) the term ‘agency of the legislative branch’ means the Office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, and the Congressional Budget Office; and
 
 >         “(2) the term ‘telecommunications system’ means an electronic system for voice, data, or image communication, including any associated cable and switching equipment.
 
@@ -117,6 +117,8 @@ Similar provisions were contained in the following prior appropriations acts:
 [/us/stat/104/2277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2277
 [/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/100/202/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs305
 [/us/stat/101/1329-308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-308
 [/us/pl/101/163/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F163%2Fs306
@@ -127,6 +129,8 @@ Similar provisions were contained in the following prior appropriations acts:
 [/us/stat/106/1721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1721
 [/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/102/90/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs305
 [/us/stat/105/466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F466
 [/us/pl/101/520/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F520%2Fs305

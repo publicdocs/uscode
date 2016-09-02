@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch30/schVI/m__us_usc_t2_s2146.md) | [Next](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_ch30_schVII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2147)
+[Previous](./../../../../..//us/usc/t2/ch30/schVI/m__us_usc_t2_s2146.md) | [Next](./../../../../..//us/usc/t2/ch30/schVI/m__us_usc_t2_s2148.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2147)
 
 ## § 2147. Plant material exchanges
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch30/schVI/m__us_usc_t2_s2146.md) | [Next](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_ch30_schVII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2147)
+[Previous](./../../../../..//us/usc/t2/ch30/schVI/m__us_usc_t2_s2146.md) | [Next](./../../../../..//us/usc/t2/ch30/schVI/m__us_usc_t2_s2148.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2147)
 
 ----------
 ----------

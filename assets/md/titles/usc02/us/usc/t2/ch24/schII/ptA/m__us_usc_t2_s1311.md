@@ -67,7 +67,7 @@
 
  __Coverage of House of Representatives and the Agencies of the Legislative Branch__ 
 
-[Pub. L. 102–166, title I, § 117][/us/pl/102/166/s117], Nov. 21, 1991, [105 Stat. 1080][/us/stat/105/1080], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
+[Pub. L. 102–166, title I, § 117][/us/pl/102/166/s117], Nov. 21, 1991, [105 Stat. 1080][/us/stat/105/1080], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537], provided that:
 
 >     “(a)  __Coverage of the House of Representatives__  __.—__ 
 
@@ -111,7 +111,7 @@
 
 >         “(4)  __Definition of instrumentalities__  __.—__ 
 
->         For purposes of this section, instrumentalities of the Congress include the following: the Architect of the Capitol, the Congressional Budget Office, the Government Accountability Office, the Government Printing Office, the Office of Technology Assessment, and the United States Botanic Garden.
+>         For purposes of this section, instrumentalities of the Congress include the following: the Architect of the Capitol, the Congressional Budget Office, the Government Accountability Office, the Government Publishing Office, the Office of Technology Assessment, and the United States Botanic Garden.
 
 >         “(5)  __Construction__  __.—__ 
 
@@ -146,6 +146,8 @@
 [/us/stat/105/1080]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1080
 [/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/usc/t42/s2000e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e
 [/us/usc/t42/s2000e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e
 [/us/usc/t42/s2000e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e

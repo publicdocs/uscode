@@ -111,7 +111,7 @@
 
         (1) carry out a program of education for Members of Congress and other employing authorities of the legislative branch of the Federal Government respecting the laws made applicable to them and a program to inform individuals of their rights under laws applicable to the legislative branch of the Federal Government;
 
-        (2) in carrying out the program under paragraph (1), distribute the telephone number and address of the Office, procedures for action under subchapter IV, and any other information appropriate for distribution, distribute such information to employing offices in a manner suitable for posting, provide such information to new employees of employing offices, distribute such information to the residences of covered employees, and conduct seminars and other activities designed to educate employing offices and covered employees; and
+        (2) in carrying out the program under paragraph (1), distribute the telephone number and address of the Office, procedures for action under subchapter IV, and any other information appropriate for distribution, distribute such information to employing offices in a manner suitable for posting, provide such information to new employees of employing offices, distribute such information to covered employees by the end of each fiscal year, and conduct seminars and other activities designed to educate employing offices and covered employees; and
 
         (3) compile and publish statistics on the use of the Office by covered employees, including the number and type of contacts made with the Office, on the reason for such contacts, on the number of covered employees who initiated proceedings with the Office under this chapter and the result of such proceedings, and on the number of covered employees who filed a complaint, the basis for the complaint, and the action taken on the complaint.
 
@@ -127,7 +127,7 @@
 
         Members of the Board and officers and employees of the Office shall file the financial disclosure reports required under title I of the Ethics in Government Act of 1978 with the Clerk of the House of Representatives.
 
-([Pub. L. 104–1, title III, § 301][/us/pl/104/1/s301], Jan. 23, 1995, [109 Stat. 24][/us/stat/109/24]; [Pub. L. 108–349, § 1(a)][/us/pl/108/349/s1/a], Oct. 21, 2004, [118 Stat. 1389][/us/stat/118/1389]; [Pub. L. 110–161, div. H, title I, § 1101(a)][/us/pl/110/161/s1101/a], Dec. 26, 2007, [121 Stat. 2237][/us/stat/121/2237]; [Pub. L. 110–164, § 1][/us/pl/110/164/s1], Dec. 26, 2007, [121 Stat. 2459][/us/stat/121/2459].)
+([Pub. L. 104–1, title III, § 301][/us/pl/104/1/s301], Jan. 23, 1995, [109 Stat. 24][/us/stat/109/24]; [Pub. L. 108–349, § 1(a)][/us/pl/108/349/s1/a], Oct. 21, 2004, [118 Stat. 1389][/us/stat/118/1389]; [Pub. L. 110–161, div. H, title I, § 1101(a)][/us/pl/110/161/s1101/a], Dec. 26, 2007, [121 Stat. 2237][/us/stat/121/2237]; [Pub. L. 110–164, § 1][/us/pl/110/164/s1], Dec. 26, 2007, [121 Stat. 2459][/us/stat/121/2459]; [Pub. L. 113–235, div. H, title I, § 1001][/us/pl/113/235/s1001], Dec. 16, 2014, [128 Stat. 2530][/us/stat/128/2530].)
 
  __References in Text__ 
 
@@ -138,6 +138,8 @@
     The Ethics in Government Act of 1978, referred to in subsec. (k), is [Pub. L. 95–521][/us/pl/95/521], Oct. 26, 1978, [92 Stat. 1824][/us/stat/92/1824], as amended. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Pub. L. 95–521][/us/pl/95/521/s101] in the Appendix to Title 5 and Tables.
 
  __Amendments__ 
+
+    2014—Subsec. (h)(2). [Pub. L. 113–235][/us/pl/113/235] substituted “covered employees by the end of each fiscal year” for “the residences of covered employees”.
 
     2007—Subsec. (d)(2)(B). [Pub. L. 110–164][/us/pl/110/164] substituted “legislative branch (other than the Office),” for “legislative branch,”.
 
@@ -182,6 +184,8 @@
 [/us/stat/121/2237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2237
 [/us/pl/110/164/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F164%2Fs1
 [/us/stat/121/2459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2459
+[/us/pl/113/235/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1001
+[/us/stat/128/2530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2530
 [/us/act/1946-08-02/ch753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch753
 [/us/stat/60/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F839
 [/us/pl/104/65/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F65%2Fs11%2Fa
@@ -192,6 +196,7 @@
 [/us/pl/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521
 [/us/stat/92/1824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1824
 [/us/pl/95/521/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F521%2Fs101
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/110/164]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F164
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316

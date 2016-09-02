@@ -123,7 +123,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs28c" data-uslm-ref="/us/usc/t2/s28c">28c.</a>  </td>
 
-    <td> Distribution of Precedents by Public Printer.  </td>
+    <td> Distribution of Precedents by Director of the Government Publishing Office.  </td>
 
   </tr>
 
@@ -131,7 +131,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs28d" data-uslm-ref="/us/usc/t2/s28d">28d.</a>  </td>
 
-    <td> Distribution of Precedents by Public Printer for official use; particular distribution; marking and ownership of sets.  </td>
+    <td> Distribution of Precedents by Director of the Government Publishing Office for official use; particular distribution; marking and ownership of sets.  </td>
 
   </tr>
 

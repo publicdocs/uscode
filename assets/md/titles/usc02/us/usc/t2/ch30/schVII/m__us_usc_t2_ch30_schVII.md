@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch30/schVI/m__us_usc_t2_s2147.md) | [Next](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_s2161.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch30%2FschVII)
+[Previous](./../../../../..//us/usc/t2/ch30/schVI/m__us_usc_t2_s2148.md) | [Next](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_s2161.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch30%2FschVII)
 
 ### SUBCHAPTER VII—OTHER ENTITIES AND SERVICES
 
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch30/schVI/m__us_usc_t2_s2147.md) | [Next](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_s2161.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch30%2FschVII)
+[Previous](./../../../../..//us/usc/t2/ch30/schVI/m__us_usc_t2_s2148.md) | [Next](./../../../../..//us/usc/t2/ch30/schVII/m__us_usc_t2_s2161.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch30%2FschVII)
 
 ----------
 ----------

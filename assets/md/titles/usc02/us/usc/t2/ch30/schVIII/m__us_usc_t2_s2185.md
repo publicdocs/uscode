@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch30/schVIII/m__us_usc_t2_s2184.md) | [Next](./../../../../..//us/usc/t2/ch31/m__us_usc_t2_ch31.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2185)
+[Previous](./../../../../..//us/usc/t2/ch30/schVIII/m__us_usc_t2_s2184.md) | [Next](./../../../../..//us/usc/t2/ch30/schVIII/m__us_usc_t2_s2186.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2185)
 
 ## § 2185. Estimates for improvements in grounds
 
@@ -39,7 +39,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t2/ch30/schVIII/m__us_usc_t2_s2184.md) | [Next](./../../../../..//us/usc/t2/ch31/m__us_usc_t2_ch31.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2185)
+[Previous](./../../../../..//us/usc/t2/ch30/schVIII/m__us_usc_t2_s2184.md) | [Next](./../../../../..//us/usc/t2/ch30/schVIII/m__us_usc_t2_s2186.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2185)
 
 ----------
 ----------

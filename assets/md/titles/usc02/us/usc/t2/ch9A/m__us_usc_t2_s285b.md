@@ -49,11 +49,11 @@
 
 >     “(b)
 
->      After completion of the printing of the fifth annual cumulative supplement to the 1973 edition of the District of Columbia Code, the Public Printer shall, as the Council of the District of Columbia may request, either—
+>      After completion of the printing of the fifth annual cumulative supplement to the 1973 edition of the District of Columbia Code, the Public Printer \[now Director of the Government Publishing Office\] shall, as the Council of the District of Columbia may request, either—
 
->         “(1) furnish to the Council of the District of Columbia, on such terms as the Public Printer (in consultation with the Joint Committee on Printing) deems appropriate, the type used in preparing the 1973 edition of the District of Columbia Code and the fifth annual cumulative supplement to such edition;  or
+>         “(1) furnish to the Council of the District of Columbia, on such terms as the Public Printer \[now Director of the Government Publishing Office\] (in consultation with the Joint Committee on Printing) deems appropriate, the type used in preparing the 1973 edition of the District of Columbia Code and the fifth annual cumulative supplement to such edition;  or
 
->         “(2) make such arrangements with the Council of the District of Columbia as the Public Printer (in consultation with the Joint Committee on Printing) deems appropriate for the printing by the Government Printing Office of future editions of the District of Columbia Code, and annual cumulative supplements thereto, prepared under the direction of the Council of the District of Columbia.”
+>         “(2) make such arrangements with the Council of the District of Columbia as the Public Printer \[now Director of the Government Publishing Office\] (in consultation with the Joint Committee on Printing) deems appropriate for the printing by the Government Printing Office \[now Government Publishing Office\] of future editions of the District of Columbia Code, and annual cumulative supplements thereto, prepared under the direction of the Council of the District of Columbia.”
 
 ----------
 

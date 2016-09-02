@@ -23,7 +23,7 @@
 
         (1) __Appointment__ 
 
-            The Inspector General shall be appointed by, and under the general supervision of, the Capitol Police Board. The appointment shall be made in consultation with the Inspectors General of the Library of Congress, Government Printing Office, and the Government Accountability Office. The Capitol Police Board shall appoint the Inspector General without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations.
+            The Inspector General shall be appointed by, and under the general supervision of, the Capitol Police Board. The appointment shall be made in consultation with the Inspectors General of the Library of Congress, Government Publishing Office, and the Government Accountability Office. The Capitol Police Board shall appoint the Inspector General without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations.
 
         (2) __Term of service__ 
 
@@ -111,7 +111,7 @@
 
         This section shall be effective on August 2, 2005.
 
-([Pub. L. 109–55, title I, § 1004][/us/pl/109/55/s1004], Aug. 2, 2005, [119 Stat. 572][/us/stat/119/572].)
+([Pub. L. 109–55, title I, § 1004][/us/pl/109/55/s1004], Aug. 2, 2005, [119 Stat. 572][/us/stat/119/572]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -125,6 +125,10 @@
 
     Section is from the Legislative Branch Appropriations Act, 2006.
 
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in subsec. (b)(1) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t2/ch29/schI/ptA/m__us_usc_t2_s1908.md) | [Next](./../../../../../..//us/usc/t2/ch29/schI/ptA/m__us_usc_t2_s1910.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1909)
@@ -135,10 +139,14 @@
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/pl/109/55/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs1004
 [/us/stat/119/572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F572
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
 [/us/pl/109/55/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs1004
 [/us/pl/109/55/s1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F55%2Fs1004
 [/us/usc/t2/s1903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1903
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 
 

@@ -377,25 +377,9 @@ Part B—General Powers and Duties  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs6569" data-uslm-ref="/us/usc/t2/s6569">6569.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs6569" data-uslm-ref="/us/usc/t2/s6569">6569</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs6571" data-uslm-ref="/us/usc/t2/s6571">6571.</a>  </td>
 
-    <td> Stationery for Senate; advertisements for.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs6570" data-uslm-ref="/us/usc/t2/s6570">6570.</a>  </td>
-
-    <td> Opening bids for stationery; awarding contracts.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs6571" data-uslm-ref="/us/usc/t2/s6571">6571.</a>  </td>
-
-    <td> Contracts for separate parts of Senate stationery.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

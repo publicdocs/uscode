@@ -83,11 +83,11 @@
 
         (1) the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress;
 
-        (2) the term “agency of the legislative branch” means the Office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Printing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, and the Copyright Royalty Tribunal; and
+        (2) the term “agency of the legislative branch” means the Office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, and the Copyright Royalty Tribunal; and
 
         (3) the term “support personnel” means, with respect to the House of Representatives, any employee of a credit union or of the Architect of the Capitol, whose principal duties are to support the functions of the House of Representatives.
 
-([Pub. L. 102–90, title III, § 312][/us/pl/102/90/s312], Aug. 14, 1991, [105 Stat. 467][/us/stat/105/467]; [Pub. L. 102–392, title III, § 319(a)][/us/pl/102/392/s319/a], Oct. 6, 1992, [106 Stat. 1725][/us/stat/106/1725]; [Pub. L. 104–186, title II, § 221(5)][/us/pl/104/186/s221/5], (6), Aug. 20, 1996, [110 Stat. 1749][/us/stat/110/1749]; [Pub. L. 106–100, § 1(a)][/us/pl/106/100/s1/a], Nov. 12, 1999, [113 Stat. 1332][/us/stat/113/1332]; [Pub. L. 108–7, div. H, title I, § 108(a)][/us/pl/108/7/s108/a], Feb. 20, 2003, [117 Stat. 355][/us/stat/117/355]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 111–8, div. G, title I, § 106][/us/pl/111/8/s106], Mar. 11, 2009, [123 Stat. 818][/us/stat/123/818]; [Pub. L. 111–248, § 2(a)(1)][/us/pl/111/248/s2/a/1], (b), Sept. 30, 2010, [124 Stat. 2625][/us/stat/124/2625].)
+([Pub. L. 102–90, title III, § 312][/us/pl/102/90/s312], Aug. 14, 1991, [105 Stat. 467][/us/stat/105/467]; [Pub. L. 102–392, title III, § 319(a)][/us/pl/102/392/s319/a], Oct. 6, 1992, [106 Stat. 1725][/us/stat/106/1725]; [Pub. L. 104–186, title II, § 221(5)][/us/pl/104/186/s221/5], (6), Aug. 20, 1996, [110 Stat. 1749][/us/stat/110/1749]; [Pub. L. 106–100, § 1(a)][/us/pl/106/100/s1/a], Nov. 12, 1999, [113 Stat. 1332][/us/stat/113/1332]; [Pub. L. 108–7, div. H, title I, § 108(a)][/us/pl/108/7/s108/a], Feb. 20, 2003, [117 Stat. 355][/us/stat/117/355]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 111–8, div. G, title I, § 106][/us/pl/111/8/s106], Mar. 11, 2009, [123 Stat. 818][/us/stat/123/818]; [Pub. L. 111–248, § 2(a)(1)][/us/pl/111/248/s2/a/1], (b), Sept. 30, 2010, [124 Stat. 2625][/us/stat/124/2625]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Codification__ 
 
@@ -128,6 +128,8 @@
  __Change of Name__ 
 
     Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
+
+    “Government Publishing Office” substituted for “Government Printing Office” in subsec. (f)(2) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
  __Effective Date of 2010 Amendment__ 
 
@@ -243,6 +245,8 @@
 [/us/stat/123/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F818
 [/us/pl/111/248/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F248%2Fs2%2Fa%2F1
 [/us/stat/124/2625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2625
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/107/217/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs1
 [/us/stat/116/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1062
 [/us/pl/102/90/s312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F90%2Fs312
@@ -261,6 +265,8 @@
 [/us/pl/104/186/s221/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs221%2F6%2FC
 [/us/pl/104/186/s221/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F186%2Fs221%2F5%2FC
 [/us/pl/102/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/111/248/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F248%2Fs2%2Fc
 [/us/stat/124/2626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2626
 [/us/pl/108/7/s108/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs108%2Fb

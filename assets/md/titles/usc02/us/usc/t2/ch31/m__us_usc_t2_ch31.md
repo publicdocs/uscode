@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch30/schVIII/m__us_usc_t2_s2185.md) | [Next](./../../../..//us/usc/t2/ch31/schI/m__us_usc_t2_ch31_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch31)
+[Previous](./../../../..//us/usc/t2/ch30/schVIII/m__us_usc_t2_s2186.md) | [Next](./../../../..//us/usc/t2/ch31/schI/m__us_usc_t2_ch31_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch31)
 
 ## CHAPTER 31—CAPITOL VISITOR CENTER
 
@@ -275,7 +275,7 @@ SUBCHAPTER VI—AUTHORIZATION OF APPROPRIATIONS  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch30/schVIII/m__us_usc_t2_s2185.md) | [Next](./../../../..//us/usc/t2/ch31/schI/m__us_usc_t2_ch31_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch31)
+[Previous](./../../../..//us/usc/t2/ch30/schVIII/m__us_usc_t2_s2186.md) | [Next](./../../../..//us/usc/t2/ch31/schI/m__us_usc_t2_ch31_schI.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fch31)
 
 ----------
 ----------

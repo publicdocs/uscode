@@ -625,6 +625,14 @@ SUBCHAPTER VI—BOTANIC GARDEN AND NATIONAL GARDEN  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2148" data-uslm-ref="/us/usc/t2/s2148">2148.</a>  </td>
+
+    <td> Administration of educational outreach and services.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER VII—OTHER ENTITIES AND SERVICES  </td>
@@ -772,6 +780,14 @@ SUBCHAPTER VIII—MISCELLANEOUS  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2185" data-uslm-ref="/us/usc/t2/s2185">2185.</a>  </td>
 
     <td> Estimates for improvements in grounds.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs2186" data-uslm-ref="/us/usc/t2/s2186">2186.</a>  </td>
+
+    <td> Square 580 landscape maintenance.  </td>
 
   </tr>
 

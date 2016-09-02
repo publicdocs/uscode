@@ -35,7 +35,7 @@
 
             (A) __In general__ 
 
-                There shall be at the head of the Office of Inspector General, an Inspector General who shall be appointed by the Architect of the Capitol, in consultation with the Inspectors General of the Library of Congress, Government Printing Office, Government Accountability Office, and United States Capitol Police. The appointment shall be made without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The Inspector General shall report to, and be under the general supervision of, the Architect of the Capitol.
+                There shall be at the head of the Office of Inspector General, an Inspector General who shall be appointed by the Architect of the Capitol, in consultation with the Inspectors General of the Library of Congress, Government Publishing Office, Government Accountability Office, and United States Capitol Police. The appointment shall be made without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The Inspector General shall report to, and be under the general supervision of, the Architect of the Capitol.
 
             (B) __Audits, investigations, reports, and other duties and responsibilities__ 
 
@@ -93,7 +93,7 @@
 
             Subsection (g) shall take effect on December 26, 2007, and the Architect of the Capitol shall take such actions as necessary after December 26, 2007, to carry out that subsection.
 
-([Pub. L. 110–161, div. H, title I, § 1301][/us/pl/110/161/s1301], Dec. 26, 2007, [121 Stat. 2240][/us/stat/121/2240].)
+([Pub. L. 110–161, div. H, title I, § 1301][/us/pl/110/161/s1301], Dec. 26, 2007, [121 Stat. 2240][/us/stat/121/2240]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -102,6 +102,10 @@
  __Codification__ 
 
     Section is from the Legislative Branch Appropriations Act, 2008, which is div. H of the Consolidated Appropriations Act, 2008.
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in subsec. (c)(1)(A) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
 ----------
 
@@ -112,7 +116,11 @@
 
 [/us/pl/110/161/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs1301
 [/us/stat/121/2240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2240
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 
 

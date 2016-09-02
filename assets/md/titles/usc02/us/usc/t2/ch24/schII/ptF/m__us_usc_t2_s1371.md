@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t2/ch24/schII/ptF/m__us_usc_t2_ch24_schII_ptF.md) | [Next](./../../../../../..//us/usc/t2/ch24/schIII/m__us_usc_t2_ch24_schIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1371)
 
-## § 1371. Study and recommendations regarding Government Accountability Office, Government Printing Office, and Library of Congress
+## § 1371. Study and recommendations regarding General Accounting Office, Government Printing Office, and Library of Congress
 
     (a) __In general__ 
 
@@ -23,7 +23,7 @@
 
          the application of the laws listed in subsection (b) to—
 
-            (A) the Government Accountability Office;
+            (A) the General Accounting Office;
 
             (B) the Government Printing Office; and
 
@@ -71,7 +71,7 @@
 
         (2) the Board shall transmit such study and recommendations (with the Board’s comments) to the head of each entity considered in the study, and to the Congress by delivery to the Speaker of the House of Representatives and President pro tempore of the Senate for referral to the appropriate committees of the House of Representatives and of the Senate.
 
-([Pub. L. 104–1, title II, § 230][/us/pl/104/1/s230], Jan. 23, 1995, [109 Stat. 23][/us/stat/109/23]; [Pub. L. 104–53, title III, § 309(a)][/us/pl/104/53/s309/a], (b), Nov. 19, 1995, [109 Stat. 538][/us/stat/109/538]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Pub. L. 104–1, title II, § 230][/us/pl/104/1/s230], Jan. 23, 1995, [109 Stat. 23][/us/stat/109/23]; [Pub. L. 104–53, title III, § 309(a)][/us/pl/104/53/s309/a], (b), Nov. 19, 1995, [109 Stat. 538][/us/stat/109/538].)
 
  __References in Text__ 
 
@@ -97,13 +97,15 @@
 
  __Amendments__ 
 
-    2004—[Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office” in section catchline.
-
-    Subsec. (a)(1)(A). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
-
     1995—Subsec. (a). [Pub. L. 104–53, § 309(a)][/us/pl/104/53/s309/a], substituted “Board” for “Administrative Conference of the United States” in introductory provisions.
 
     Subsec. (d)(1). [Pub. L. 104–53, § 309(b)][/us/pl/104/53/s309/b], substituted “Board” for “Administrative Conference of the United States” and struck out “and shall submit the study and recommendations to the Board” before semicolon.
+
+ __Change of Name__ 
+
+    General Accounting Office redesignated Government Accountability Office. See [section 8 of Pub. L. 108–271][/us/pl/108/271/s8], set out as a note under [section 702 of Title 31][/us/usc/t31/s702], Money and Finance.
+
+    Government Printing Office redesignated Government Publishing Office. See [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
  __Effective Date of 1995 Amendment__ 
 
@@ -136,8 +138,6 @@
 [/us/stat/109/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F23
 [/us/pl/104/53/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs309%2Fa
 [/us/stat/109/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F538
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
-[/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F252
 [/us/usc/t42/s2000a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000a
@@ -171,10 +171,12 @@
 [/us/pl/100/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F379
 [/us/stat/102/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F890
 [/us/usc/t29/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2101
-[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
-[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/104/53/s309/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs309%2Fa
 [/us/pl/104/53/s309/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs309%2Fb
+[/us/pl/108/271/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8
+[/us/usc/t31/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs702
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/104/53/s309/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F53%2Fs309%2Fc
 [/us/stat/109/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F538
 [/us/usc/t2/s1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1371

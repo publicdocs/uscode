@@ -203,7 +203,7 @@ Part F—Study  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs1371" data-uslm-ref="/us/usc/t2/s1371">1371.</a>  </td>
 
-    <td> Study and recommendations regarding Government Accountability Office, Government Printing Office, and Library of Congress.  </td>
+    <td> Study and recommendations regarding General Accounting Office, Government Printing Office, and Library of Congress.  </td>
 
   </tr>
 

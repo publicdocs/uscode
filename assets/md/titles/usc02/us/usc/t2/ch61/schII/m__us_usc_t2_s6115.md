@@ -41,7 +41,31 @@
 
  __Office of the President Pro Tempore Emeritus of the Senate__ 
 
-    [Pub. L. 108–7, div. H, title I, § 7][/us/pl/108/7/s7], Feb. 20, 2003, [117 Stat. 350][/us/stat/117/350], as amended by [Pub. L. 108–447, div. G, title I][/us/pl/108/447], §§ 4, 13(b), Dec. 8, 2004, [118 Stat. 3169][/us/stat/118/3169], 3171; [Pub. L. 110–161, div. H, title I, § 2][/us/pl/110/161/s2], Dec. 26, 2007, [121 Stat. 2221][/us/stat/121/2221], established the Office of the President pro tempore emeritus of the Senate applicable only with respect to the 108th Congress, the 109th Congress, and the 110th Congress.
+[Pub. L. 108–7, div. H, title I, § 7][/us/pl/108/7/s7], Feb. 20, 2003, [117 Stat. 350][/us/stat/117/350], as amended by [Pub. L. 108–447, div. G, title I][/us/pl/108/447], §§ 4, 13(b), Dec. 8, 2004, [118 Stat. 3169][/us/stat/118/3169], 3171; [Pub. L. 110–161, div. H, title I, § 2][/us/pl/110/161/s2], Dec. 26, 2007, [121 Stat. 2221][/us/stat/121/2221]; [Pub. L. 113–235, div. H, title I, § 2][/us/pl/113/235/s2], Dec. 16, 2014, [128 Stat. 2525][/us/stat/128/2525], provided that:
+
+>     “(a)  __Establishment__  __.—__ 
+
+>     There is established the Office of the President pro tempore emeritus of the Senate.
+
+>     “(b)  __Designation__  __.—__ 
+
+>     Any Member of the Senate who—
+
+>         “(1) is designated by the Senate as the President pro tempore emeritus of the United States Senate; and
+
+>         “(2) is serving as a Member of the Senate,    “shall be the President pro tempore emeritus of the United States Senate.
+
+>     “(c)  __Appointment and Compensation of Employees__  __.—__ 
+
+>     The President pro tempore emeritus is authorized to appoint and fix the compensation of such employees as the President pro tempore emeritus determines appropriate.
+
+>     “(d)  __Expense Allowance__  __.—__ 
+
+>     There is authorized an expense allowance for the President pro tempore emeritus which shall not exceed $15,000 each fiscal year. The President pro tempore emeritus may receive the expense allowance: (1) as reimbursement for actual expenses incurred upon certification and documentation of such expenses by the President pro tempore emeritus; or (2) in equal monthly payments. Such amounts paid to the President pro tempore emeritus as reimbursement of actual expenses incurred upon certification and documentation under this subsection, shall not be reported as income, and the expenses so reimbursed shall not be allowed as a deduction under the Internal Revenue Code of 1986 \[[26 U.S.C. 1][/us/usc/t26/s1] et seq.\].
+
+>     “(e)  __Effective Date__  __.—__ 
+
+>     This section shall take effect on the date of enactment of this Act \[Feb. 20, 2003\] and shall apply only with respect to the 108th Congress, the 109th Congress, the 110th Congress, and the 114th Congress.”
 
 ----------
 
@@ -74,5 +98,8 @@
 [/us/stat/118/3169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3169
 [/us/pl/110/161/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs2
 [/us/stat/121/2221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2221
+[/us/pl/113/235/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs2
+[/us/stat/128/2525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2525
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 
 
